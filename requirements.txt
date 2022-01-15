@@ -1,0 +1,11 @@
+numpy
+bs4
+requests
+lxml
+rouge-score>=0.0.4
+spacy>=3.0
+matplotlib
+gensim>=4.0.1
+textstat
+nltk
+somajo
