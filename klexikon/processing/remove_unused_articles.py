@@ -19,7 +19,7 @@ if __name__ == '__main__':
     klexikon_articles = os.listdir(klexikon_folder)
     wiki_articles = os.listdir(wiki_folder)
 
-    # Remove all files that *should* appear. The JSON file should only contain those
+    # Remove all files that *should* appear from the lists. The JSON file should only contain those
     # articles that should actually be taken into consideration.
     for article in tqdm(articles):
         article_title = f"{article['title'].replace(' ', '_').replace('/', '_')}.txt"
@@ -27,10 +27,11 @@ if __name__ == '__main__':
         klexikon_articles.remove(article_title)
         wiki_articles.remove(article_title)
 
+    # Then proceed to delete them from the folders.
     for article in klexikon_articles:
         os.remove(os.path.join(klexikon_folder, article))
 
-    # This loop should be the same articles, but may contain some stragglers.
+    # This loop should be the same articles, but may contain some "stragglers".
     for article in wiki_articles:
         os.remove(os.path.join(wiki_folder, article))
 
