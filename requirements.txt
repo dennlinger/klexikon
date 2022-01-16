@@ -2,6 +2,7 @@ numpy
 bs4
 requests
 lxml
+tqdm
 rouge-score>=0.0.4
 spacy>=3.0
 matplotlib
@@ -9,3 +10,4 @@ gensim>=4.0.1
 textstat
 nltk
 somajo
+sentence-transformers>=2.1.0

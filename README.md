@@ -12,8 +12,7 @@ Install all required dependencies with the following command:
 python3 -m pip install -r requirements.txt
 ```
 The experiments were run on Python 3.8.4, but should run fine with any version >3.7.
-To run some of the files, relative imports are required, which forces you to run them as modules, e.g.,
-
+To run files, relative imports are required, which forces you to run them as modules, e.g.,
 
 ```bash
 python3 -m klexikon.analysis.compare_offline_stats
@@ -22,6 +21,10 @@ instead of
 ```bash
 python3s klexikon/analysis/compare_offline_stats.py
 ```
+Furthermore, this requires the working directory to be the root folder as well,
+to ensure correct referencing of relative data paths.
+I.e., if you cloned this repository into `/home/dennis/projects/klexikon`,
+make sure to run scripts directly from this path.
 
 ## Extended Explanation
 ### Manually Replaced Articles in `articles.json`
