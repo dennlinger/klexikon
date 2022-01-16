@@ -1,6 +1,11 @@
 """
 Using the available processed corpora, we can also compute basic statistics on the offline corpus.
 """
+
+from functools import lru_cache
+from typing import List, Set
+from tqdm import tqdm
+
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np
@@ -8,9 +13,6 @@ import spacy
 
 from .utils import directory_iterator
 
-from functools import lru_cache
-from typing import List
-from tqdm import tqdm
 
 
 def calculate_number_of_valid_lines(lines: List[str]) -> int:
@@ -40,7 +42,19 @@ def count_number_tokens(lines: List[str]) -> int:
     return len(doc)
 
 
-@lru_cache(maxsize=1)
+def get_unique_lemmas(lines: List[str]) -> Set:
+    """
+    Returns the unique tokens within a single document.
+    """
+    text = "".join(lines).replace("\n", " ")
+    nlp = get_spacy(disable=("ner", "tok2vec"))
+
+    doc = nlp(text)
+    vocab = set([token.lemma_ for token in doc])
+    return vocab
+
+
+@lru_cache(maxsize=2)
 def get_spacy(model_name="de_core_news_sm",
               disable=("ner", "tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer")
               ):
@@ -86,6 +100,12 @@ if __name__ == "__main__":
     wiki_number_tokens = []
     klexikon_number_tokens = []
 
+    wiki_vocab = set()
+    klexikon_vocab = set()
+
+    wiki_per_doc_vocab_size = []
+    klexikon_per_doc_vocab_size = []
+
     for wiki_fp, klexikon_fp in tqdm(directory_iterator("./data/raw/wiki", "./data/raw/klexikon")):
         with open(wiki_fp) as f:
             wiki_article = f.readlines()
@@ -100,6 +120,16 @@ if __name__ == "__main__":
             wiki_number_tokens.append(count_number_tokens(wiki_article))
             klexikon_number_tokens.append(count_number_tokens(klexikon_article))
 
+            # Also count the number of unique words
+            wiki_doc_vocab = get_unique_lemmas(wiki_article)
+            klexikon_doc_vocab = get_unique_lemmas(klexikon_article)
+
+            wiki_vocab = wiki_vocab.union(wiki_doc_vocab)
+            klexikon_vocab = klexikon_vocab.union(klexikon_doc_vocab)
+
+            wiki_per_doc_vocab_size.append(len(wiki_doc_vocab))
+            klexikon_per_doc_vocab_size.append(len(klexikon_doc_vocab))
+
     # TODO: Include stats for paragraphs?
     print_stats(wiki_number_sentences, klexikon_number_sentences, "sentences")
     print_stats(wiki_number_tokens, klexikon_number_tokens, "tokens")
@@ -109,6 +139,13 @@ if __name__ == "__main__":
     sentence_lengths_klexikon = [tokens / sentences for tokens, sentences in zip(klexikon_number_tokens, klexikon_number_sentences)]
     print(f"Wikipedia average sentence length: {np.mean(sentence_lengths_wiki):.2f} +/- {np.std(sentence_lengths_wiki):.2f}")
     print(f"Klexikon average sentence length:  {np.mean(sentence_lengths_klexikon):.2f} +/- {np.std(sentence_lengths_klexikon):.2f}")
+
+    # Vocabulary stats
+    print(f"Wikipedia total distinct tokens: {len(wiki_vocab)}")
+    print(f"Klexikon total distinct tokens:  {len(klexikon_vocab)}")
+
+    print(f"Wikipedia vocab size per doc: {np.mean(wiki_per_doc_vocab_size):.2f} +/- {np.std(wiki_per_doc_vocab_size):.2f}")
+    print(f"Klexikon vocab size per doc:  {np.mean(klexikon_per_doc_vocab_size):.2f} +/- {np.std(klexikon_per_doc_vocab_size):.2f}")
 
     # Plot of the histograms
 
