@@ -73,7 +73,6 @@ if __name__ == '__main__':
         # Store in a "scaled-down" version of the grid
         grid[wiki_num_sents // wiki_block_size][klexikon_num_sents // klexikon_block_size].append(wiki_fp)
 
-
     train_files = []
     val_files = []
     test_files = []
@@ -94,5 +93,3 @@ if __name__ == '__main__':
     write_samples(train_files, "train")
     write_samples(val_files, "val")
     write_samples(test_files, "test")
-
-
