@@ -1,0 +1,39 @@
+Die Sekunde ist die Einheit der Zeit im internationalen Einheitensystem (SI).
+Sie ist etwa einen Herzschlag lang (Ruhepuls eines Erwachsenen).
+Die Unterteilung der Stunde in 60 Minuten zu je 60 Sekunden findet sich bereits um das Jahr 1000 in einer Schrift von al-Biruni.
+Als Secunda von lateinisch pars minuta secunda (,zweiter verminderter Teil') ist sie seit dem 13. Jahrhundert bekannt.
+Im Jahre 1585 konstruierte Jost Bürgi erstmals eine Uhr mit Sekundenzeiger.
+Seit 1967 ist eine Sekunde das 9.192.631.770-fache der Periodendauer der Strahlung, die dem Übergang zwischen den beiden Hyperfeinstrukturniveaus des Grundzustandes von Atomen des Nuklids 133Cs entspricht.
+Mit der Revision des SI im Jahr 2019 durch die 26. Generalkonferenz für Maß und Gewicht wurde der genaue Wortlaut der Definition geändert, inhaltlich blieb die Definition der Sekunde jedoch bestehen.
+daraus folgt
+Definitionsgemäß ist die Sekunde also das Vielfache der Periode einer Mikrowelle, die mit einem ausgewählten Niveauübergang im Caesiumatom in Resonanz ist.
+Daher wird sie als Atomsekunde bezeichnet.
+Atomuhren basieren auf der Messung dieses Übergangs.
+Ihre Präzision wurde seit der oben angegebenen Definition um mehr als vier Zehnerpotenzen auf 10-16 gesteigert.
+Solange man von einer gleichmäßigen Erdrotation ausging, war die Sekunde der sechzigste Teil einer Minute des in 24 Stunden zu 60 Minuten eingeteilten Tages.
+Um 1885 stellte Karl Friedrich Küstner (Bonner Sternwarte) fest, dass die Rotationsachse der Erde eine Polbewegung von 5 bis 10 Meter durchführt.
+Genauer wurde dies von Richard Schumann (TU Wien) und Seth Carlo Chandler (Harvard) analysiert und war der erste Hinweis darauf, dass sich auch die Rotationsdauer selbst verändert.
+Man konnte es aber mit den damals besten Uhren (Abweichung 0,05 Sekunden pro Tag) noch nicht nachweisen.
+Dies gelang erst Adolf Scheibe und Udo Adelsberger 1934 an der Physikalisch-Technischen Reichsanstalt.
+Nach Ausräumung eigener Bedenken publizierten sie die Ergebnisse 1935 und präzisierten sie durch die von ihnen entwickelte Quarzuhr.
+Ab etwa 1950 wurde klar, dass die laufend verbesserten Quarzuhren ein besseres Zeitnormal wären als die Erdrotation.
+Die astronomische Tageslänge vergrößert sich nicht nur allmählich wegen der Gezeitenreibung, sondern zeigt auch unregelmäßige Änderungen durch Magmaströme zwischen Erdmantel und Erdkern.
+Durch die Verlangsamung der Erdrotation verschiebt sich der Sonnentag gegenüber einem völlig gleichmäßigen Zeitmaß.
+Zur Kompensation muss alle zwei bis fünf Jahre eine Schaltsekunde eingefügt werden, um alle Uhren mit dem um einige Sekundenbruchteile länger werdenden Sonnentag zu synchronisieren.
+Bis 1967 beruhte die Sekunde auf astronomischen Messungen:
+Die Präzision, mit der die Sekunde realisiert werden kann (Stand 2018: ca. 10-16), begrenzt die erreichbare Genauigkeit von Zeitmessungen in der Einheit "Sekunde".
+Mittlerweile sind Uhren entwickelt worden, die nicht auf Caesium-Atomen basieren und um bis zu zwei Größenordnungen präziser sind.
+Mit solchen Uhren als primärer Referenz ließen sich noch genauere Zeitmessungen erreichen.
+Voraussetzung dafür wäre natürlich eine Umdefinition der Maßeinheit.
+Die Einheit Sekunde ist mit verschiedenen Vorsätzen für Maßeinheiten (SI-Präfixe) in Verwendung, beispielsweise:
+Als größere Zeiteinheiten sind Minute, Stunde und Tag üblich und in der Europäischen Union und der Schweiz gesetzliche Maßeinheiten.
+Vergrößernde SI-Vorsätze wie "Megasekunde" (= 1 000 000 s = 11 Tage 13 h 46 min 40 s) sind zwar zulässig, aber sehr unüblich.
+Von der Sekunde abgeleitet sind die Einheiten "Hertz" (1 Hz = 1 s-1) für periodische Ereignisse und "Becquerel" (1 Bq = 1 s-1) für (Radio-)Aktivität.
+Mit Einführung des französischen Revolutionskalenders 1792 wurde der Versuch unternommen, die Einteilung eines Tages auf das Dezimalsystem umzustellen.
+Ein Tag wurde in zehn Stunden geteilt, eine Stunde in einhundert Minuten und eine Minute in einhundert Sekunden.
+Demnach hatte ein Tag 100000 Sekunden gegenüber 86400 Sekunden herkömmlicher Bestimmung.
+Für die kleinste Zeiteinheit war diese Dezimalzeit von unmerklicher Auswirkung, da sie lediglich um etwa 15 % kürzer war.
+Die Auswirkungen auf die beiden nächsthöheren Zeiteinheiten waren deutlich stärker.
+Die Dezimalminute war fast eineinhalb Mal so lang, die Dezimalstunde fast zweieinhalb Mal so lang.
+Eine Sekunde kann hexagesimal in sechzig kleine Zeiteinheiten, die Tertien, unterteilt werden.
+Dies ist aber völlig ungebräuchlich.

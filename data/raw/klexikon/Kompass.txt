@@ -1,0 +1,44 @@
+Mit einen Kompass kann man sehen, wo welche Himmelsrichtung ist.
+Es gibt zwei Arten von Kompassen: Magnetkompass und Kreiselkompass.
+
+Ein Magnetkompass hat einen kleinen beweglichen Zeiger, den man Kompassnadel nennt.
+Diese Nadel ist magnetisch und zeigt immer ungefähr nach Norden.
+Das liegt daran, dass die Erde viel Eisen enthält und deshalb selbst wie ein riesiger Magnet wirkt.
+Wenn man den Kompass so dreht, dass das N auf dem Gehäuse mit der farbigen Nadelspitze übereinstimmt, kann man auch die anderen Himmelsrichtungen ablesen.
+
+Um Richtungen noch genauer bestimmen zu können, haben die meisten Kompasse einen Kranz mit Grad-Einteilung.
+Manche haben auch einen Spiegel oder andere Vorrichtungen, damit man noch besser "peilen" kann.
+Damit ist gemeint, dass man zum Beispiel auf eine Turmspitze oder einen Berggipfel "zielt", um feststellen zu können, in welcher Richtung vom Betrachter sie sich befinden.
+Mit Hilfe einer Landkarte kann man so feststellen, wo man sich selbst befindet und wohin man weiter gehen oder fahren muss.
+
+Magnetkompasse haben aber einen kleinen Nachteil:
+Der magnetische Pol der Erde weicht etwas vom geografischen Pol ab, und auch das Magnetfeld wirkt nicht überall gleich.
+Deshalb sind Magnetkompasse immer ein bisschen ungenau.
+Beim Wandern in der Natur sind sie zwar immer noch zuverlässiger als die meisten Navigationsgeräte.
+
+== Wie kann ein Kreisel die Himmelsrichtung anzeigen?
+
+Auf Schiffen und in Flugzeugen braucht man aber viel genauere Kompasse.
+Deshalb benutzt man hier sogenannte Kreiselkompasse.
+Damit ein Kreisel eine Himmelsrichtung anzeigen kann, muss er auf eine ganz besondere Art eingebaut werden.
+Der Kreisel muss so aufgehängt sein, dass er sich völlig frei bewegen kann.
+Dies Aufhängung nennt man "kardanische Aufhängung".
+
+Im Bild rechts kann man das sehen:
+Der grüne Ring alleine kann im roten Ring beliebig um seine Drehachse verdreht werden.
+Der rote Ring ist aber wieder drehbar im goldenen Ring aufgehängt.
+So kann man den grünen Ring mit dem roten zusammen noch zusätzlich um diese Achse verdrehen.
+Zuletzt kann man schließlich den grünen Ring, zusammen mit dem roten und dem goldenen, um die Achse des goldenen Ringes verdrehen.
+Durch diese komplizierte kardanische Aufhängung kann man den grünen Ring in jede denkbare Position verdrehen.
+
+Wenn man einen Kreisel kardanisch aufhängt und ihn in Drehung versetzt, dann behält die Drehachse des Kreisels immer dieselbe Richtung.
+Egal wie man die Aufhängung hin oder her bewegt, und egal, ob man sie in irgendeine Richtung dreht.
+Immer behält der Kreisel seine Drehachse bei.
+Dies ist eine besondere Eigenschaft des Kreisels.
+Wenn man also den Kreisel so kreiseln lässt, dass seine Achse dieselbe Richtung wie die Erdachse hat, dann ändert sich diese Richtung in der kardanischen Aufhängung auch nicht mehr.
+So kann man jederzeit an der Kreiselachse erkennen, wo Norden und wo Süden ist.
+
+Der Kreisel im Kreiselkompass wird aber nicht wie ein Spielzeugkreisel von Hand angedreht.
+Er wird zum Beispiel mit Elektromagneten angetrieben.
+So wird er auch nicht langsamer.
+

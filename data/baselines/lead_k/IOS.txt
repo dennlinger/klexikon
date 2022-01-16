@@ -1,0 +1,6 @@
+iOS ist ein von Apple entwickeltes mobiles Betriebssystem für das iPhone und den iPod touch.
+Bis Anfang 2010 hieß es iPhone OS (unter iTunes iPhone Software) auf dem iPhone und iPad OS auf dem iPad, bis es nach dem Lizenzieren des Markennamens IOS von Cisco Systems ab Version 4 im Juni 2010 in iOS umbenannt wurde und die beiden nur leicht unterschiedlichen Versionen für iPhone und iPad vereint wurden.
+Im September 2019 wurde die Variante für das iPad als eigenständiges iPadOS wieder von iOS getrennt.
+Auf iOS basieren ebenfalls ab Version 4 die Apple-TV-Software, die auf der zweiten und dritten Generation des Apple TV läuft und mit der vierten Generation des Apple TV in tvOS umbenannt wurde, sowie watchOS für die Apple Watch.
+Im Gegensatz zu Apples Konkurrenten, die ihr eigenes mobiles Betriebssystem oft auch an andere Hardwarehersteller lizenzieren, wird iOS nur auf eigener Hardware von Apple eingesetzt.
+iOS ist ein macOS-Derivat und basiert auf Darwin, das wiederum auf das ab 1986 entwickelte NeXTStep zurückgeht, ein BSD-Unix mit Mach-Kernel und damals neuartiger grafischer Oberfläche.

@@ -1,0 +1,105 @@
+Eine Welle ist eine sich räumlich ausbreitende periodische (Schwingung) oder einmalige (Störung) Veränderung des Gleichgewichtszustands eines Systems bezüglich mindestens einer orts- und zeitabhängigen physikalischen Größe.
+Unterschieden werden mechanische Wellen, die stets an ein Medium gebunden sind, und Wellen, die sich auch im Vakuum ausbreiten können (beispielsweise elektromagnetische Wellen, Materiewellen oder Gravitationswellen).
+In Medien wird die Ausbreitung einer örtlichen Störung durch die Kopplung benachbarter Oszillatoren (schwingfähige physikalische Größen) vermittelt.
+Eine Welle transportiert Energie, jedoch keine Materie, d. h. die benachbarten Oszillatoren transportieren die Störung durch den Raum, ohne sich selbst im zeitlichen Mittel fortzubewegen.
+Direkt wahrnehmbare Wellen sind zum Beispiel Schallwellen, Wasserwellen und Licht.
+
+== Wellentypen
+
+Wellen werden in mehrere Kategorien unterteilt: die "klassischen" Longitudinal- und Transversalwellen (von denen auch Mischformen wie Torsionswellen auftreten können) sowie Materiewellen (nach der Theorie von Louis de Broglie hat ein sich bewegendes Teilchen auch eine Wellenlänge, die bei entsprechendem Versuchsaufbau auch nachgewiesen werden kann) und Wahrscheinlichkeitswellen, die im Rahmen der Quantenphysik die Zustände von physikalischen Systemen beschreiben.
+Gravitationswellen stauchen und strecken die Raumzeit quer zu ihrer Ausbreitungsrichtung.
+
+Mechanische Longitudinalwellen können sich in jedem Medium, ob fest, flüssig oder gasförmig ausbreiten, wogegen sich mechanische, reine Transversalwellen nur in Festkörpern ausbreiten können.
+Elektromagnetische Wellen in verlustfreien Medien (z. B. im Vakuum) sind transversal.
+
+=== Longitudinalwelle
+
+Wellen, die parallel zur Ausbreitungsrichtung schwingen, werden als Longitudinal- oder Längswelle bezeichnet.
+Ein wichtiges Beispiel ist der Schall, der sich in Gasen und Flüssigkeiten immer als Longitudinalwelle ausbreitet.
+
+Mechanische Longitudinalwellen sind Druckwellen.
+Das bedeutet, dass sich in einem Medium Zonen mit Überdruck bzw. Druckspannung (bzw. Unterdruck oder Zugspannung) in der Ausbreitungsrichtung fortpflanzen bzw. verschieben oder ausbreiten.
+Die einzelnen Teilchen im Ausbreitungsmedium, Atome oder Moleküle, schwingen hierbei in Richtung der Ausbreitung um den Betrag der Amplitude hin und her.
+Nach dem Durchlauf der Schwingung bewegen sich die Teilchen wieder an ihre Ruhestellung, die Gleichgewichtslage, zurück.
+
+Die Leistung einer Longitudinalwelle ist proportional zum Quadrat der Amplitude oder der Druckspannung, siehe auch Schalldruck und Schallschnelle.
+Longitudinalwellen haben im gleichen festen Medium eine höhere Geschwindigkeit als Transversalwellen des gleichen Typs bei ansonsten gleichen Parametern.
+
+=== Transversalwelle
+
+Wellen, die senkrecht zur Ausbreitungsrichtung schwingen, werden als Transversal-, Quer-, Schub- oder Scherwellen bezeichnet.
+Nur Transversalwellen können polarisiert sein.
+
+Beispiele sind elektromagnetische Wellen, Gravitationswellen, Biegewellen und Plasmawellen.
+
+Auch Schallwellen im Festkörper und seismische Wellen können sich bei geeigneter Materialbeschaffenheit als Transversalwelle fortpflanzen.
+
+Wasserwellen sind als Oberflächenwellen in der Regel eine Mischform aus Longitudinal- und Transversalwellen, können aber als stehende Welle (Seiche) auch als reine Transversalwelle auftreten.
+Sie bilden entweder Schwere- oder Kapillarwellen oder eine Übergangsform zwischen beiden.
+
+== Mathematische Beschreibung
+
+Zur mathematischen Beschreibung von Wellen sind mehrere Größen nötig.
+Dazu zählen Amplitude, Phase und Ausbreitungs- oder Phasengeschwindigkeit.
+Die nebenstehende Tabelle gibt einen Überblick über die Größen, die zur vollständigen Beschreibung nötig sind.
+
+=== Wellenfunktion
+
+Mathematisch spricht man von einer Welle, wenn die Wellenfunktion A ( r , t ) {\displaystyle \mathbf {A} (\mathbf {r} ,t)} , also die die Welle mathematisch beschreibende Gleichung, eine Lösung einer Wellengleichung ist.
+Diese Funktionen hängen im Allgemeinen von Ort r {\displaystyle \mathbf {r} } und Zeit t {\displaystyle t\,} ab .
+
+Dabei gibt A {\displaystyle \mathbf {A} } die Auslenkung am Ort r {\displaystyle \mathbf {r} } zur Zeit t {\displaystyle t\,} an .
+Funktionen dieses Typs entsprechen der Vorstellung, dass Wellen räumlich ausgedehnte Schwingungen sind.
+Eine allgemeine Funktion für jede Art von Welle anzugeben, ist dabei nicht ohne weiteres möglich.
+Häufig werden daher sehr einfache Lösungen der Wellengleichung herangezogen und die reale Welle als eine Überlagerung von vielen dieser Lösungen angesehen.
+Die gebräuchlichsten Elementarlösungen sind die Ebene Welle und die Kugelwelle.
+
+=== Amplitude
+
+Die Amplitude A 0 {\displaystyle \mathbf {A} _{0}} ist die maximale mögliche Auslenkung der Welle.
+Sie ist bei Wellen - im Gegensatz zu Schwingungen - eine vektorielle Größe, da neben der Stärke der Auslenkung auch deren Richtung entscheidend ist.
+Ist die Ausbreitungsrichtung parallel zur Amplitude, handelt es sich um eine Longitudinalwelle, ist sie senkrecht, um eine Transversalwelle.
+In beiden Fällen ist die Intensität der Welle proportional zum Quadrat der Amplitude.
+
+=== Phase
+
+Die Phase einer Welle gibt an, in welchem Abschnitt innerhalb einer Periode sich die Welle zu einem Referenzzeitpunkt und -ort befindet.
+Sie legt also fest, wie groß die Auslenkung ist.
+Im Beispiel einer ebenen Welle ist  = k * r -  t {\displaystyle \varphi =\mathbf {k} \cdot \mathbf {r} -\omega t} die Phase zum Zeitpunkt t {\displaystyle t\, } am Ort r {\displaystyle \mathbf {r} } .
+Die Phase hängt also von den zwei Parametern Wellenvektor k {\displaystyle \mathbf {k} } und Kreisfrequenz  {\displaystyle \omega } ab .
+
+=== Beispiele
+
+Die mathematische Formulierung für eine harmonische (auch: homogene, monochromatische) ebene Welle im dreidimensionalen Raum ist in komplexer Schreibweise:
+
+Eine Kugelwelle lässt sich mit folgender Gleichung beschreiben:
+
+== Erzeugung von Wellen
+
+Quellen für Wellen können pulsförmige Anregungen, Vibrationen oder periodische Schwingungen sein.
+Periodische mechanische und elektromagnetische Wellen können durch periodische Schwingungen erzeugt werden.
+Ein einfaches Beispiel ist ein schwingendes Pendel:
+An einem solchen Pendel befindet sich zum Beispiel ein Stift, unter dem ein Blatt Papier mit konstanter Geschwindigkeit hergezogen wird.
+Der am Pendel befestigte Stift beschreibt nun auf dem Papierstreifen, der das Ausbreitungsmedium darstellt, eine sinusförmige Welle.
+Bei diesem Beispiel ist die Wellenlänge abhängig von der Geschwindigkeit, mit der der Papierstreifen bewegt wird.
+Die Amplitude der Welle wird durch den maximalen Pendelausschlag bestimmt.
+
+Eine elektromagnetische Welle kann durch eine Antenne erzeugt werden, die an einen elektrischen Schwingungsgenerator angeschlossen ist.
+Als Schwingungsgenerator kann ein sogenannter Schwingkreis verwendet werden, bei dem der elektrische Strom zwischen einer Spule und einem Kondensator hin und her fließt.
+Die elektromagnetische Gesamtenergie wird im Schwingkreis periodisch von elektrischer Energie (vermittelt durch das elektrische Feld im Kondensator) in magnetische Energie (vermittelt durch das magnetische Feld der Spule) umgewandelt.
+Geschieht dies mit einer geeigneten Frequenz für die verwendete Antenne, so wird ein Teil der Energie in Form einer elektromagnetischen Welle effizient von der Antenne in den Raum abgestrahlt.
+Dieser Effekt ist vor allem in der drahtlosen Kommunikation von besonderer Bedeutung.
+
+== Überlagerung von Wellen
+
+In der Natur vorkommende Wellen sind in den seltensten Fällen reine monochromatische Wellen, sondern eine Überlagerung aus vielen Wellen unterschiedlicher Wellenlängen.
+Die Überlagerung erfolgt dabei durch das Superpositionsprinzip, was mathematisch bedeutet, dass alle Wellenfunktionen der einzelnen Wellen addiert werden.
+Die Anteile der Wellenlängen werden als Spektrum bezeichnet.
+Beispiele:
+
+Dabei können verschiedene Effekte auftreten:
+
+== Literatur
+
+== Weblinks
+

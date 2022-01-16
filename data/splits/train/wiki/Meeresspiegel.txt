@@ -1,0 +1,78 @@
+Der Meeresspiegel ist das Höhenniveau der Meeresoberfläche.
+Er entspricht genähert einer Äquipotentialfläche des Erdschwerefeldes.
+Von einem langjährigen mittleren Meeresspiegel ist der momentane Meeresspiegel zu unterscheiden, der von Gezeiten, Wind und Wellen, Strömungen und Salzgehalt beeinflusst wird.
+
+== Der mittlere Meeresspiegel
+
+In der Geodäsie dient oft ein mittlerer Wasserspiegel (MW) als Nullniveau für Höhenangaben (Meereshöhen).
+Dazu werden die an Küstenpegeln (Mareografen) gemessenen Wasserstände über Jahrzehnte hinweg gemittelt, sodass jahreszeitliche Effekte und die Gezeiten praktisch eliminiert sind.
+Solche in verschiedenen Zeiträumen ermittelten Mittelwerte verschiedener Pegelstationen liegen jedoch nicht genau auf einer Äquipotentialfläche, weshalb sich die Nullniveaus der Höhensysteme verschiedener Länder etwas unterscheiden.
+Beispielsweise differieren die Mittelmeer-Pegel Triest und Genua zum Amsterdamer Pegel um etwa 30 cm.
+
+Der mittlere Meeresspiegel entspricht weitgehend dem Geoid und wird auch als Bezugsfläche für ein Geodätisches Erdmodell benutzt.
+Die Abweichungen vom Geoid werden vor allem von Meeresströmungen bewirkt und können einige Dezimeter erreichen.
+
+== Der momentane Meeresspiegel
+
+=== Gezeiten und Wind
+
+An den meisten Orten schwankt der Meeresspiegel im Verlaufe des Tages durch die Gezeiten.
+Sie haben eine Periode von durchschnittlich 12 Stunden und hängen vom Stand des Mondes und in schwächerem Ausmaße vom Sonnenstand ab.
+Hochwasser (als höchster Punkt der Flut) herrscht in dem Meeresgebiet, über dem der Mond steht, und auf der genau gegenüberliegenden Seite, während das Niedrigwasser dazwischen auftritt.
+Eine besonders starke Flut, die Springflut, entsteht, wenn Mond und Sonne auf derselben Seite der Erde stehen (zu Neumond, der Konjunktion von Sonne und Mond) oder wenn sie einander gegenüberstehen (zu Vollmond, der Opposition von Sonne und Mond).
+
+Während der Gezeitenhub auf dem freien Meer höchstens +/- 0,5 Meter ausmacht, ist er in Küstennähe aufgrund von Staueffekten oft merklich größer (Werte von mehreren Metern lassen sich durch Gezeitenkraftwerke nutzen).
+Wird der Hub durch auflandige Winde (Winde zum Land hin) verstärkt, kann eine Sturmflut entstehen.
+Als Nippflut bezeichnet man jene Flut, bei der Sonne und Mond von der Erde aus betrachtet in einem Winkel von 90° zueinander stehen (zunehmender oder abnehmender Halbmond) und die Flut deshalb schwächer ausgeprägt ist.
+
+Durch die gezeitenbedingten Wasserstandsunterschiede und die damit verbundenen Verschiebungen riesiger Wassermassen entstehen in flachen Gewässern, an Kaps und an Engstellen zwischen Inseln starke Strömungen (siehe Gezeitenstrom).
+
+Wind über größere Distanzen (Fetch) erzeugt durch kontinuierliche Adhäsion an der Wasseroberfläche am ferneren Ende einer Wasserfläche eine Hebung des Wasserspiegels.
+Dabei bewegt sich Oberflächenwasser langsam in Windrichtung (Driftstrom).
+Am näheren Ende entsteht dadurch eine Absenkung.
+An Engstellen, beispielsweise zwischen Inseln, werden sowohl die Wasserstandsunterschiede als auch die Strömung verstärkt.
+
+Geringeren, aber messbaren Einfluss haben auch regionale Unterschiede in der Wassertemperatur und im Salzgehalt.
+Sie sind die Ursachen der meisten Meeresströmungen.
+
+=== Regionale Unterschiede der Erdanziehungskraft
+
+Die geometrische Höhe der Wasseroberfläche (die als annähernd ellipsoidisch betrachtet werden kann) hängt auch von der Dichteverteilung im Erdinneren ab:
+Je dichter der regionale Erdmantel ist, umso höher ist an diesen Stellen die Schwerkraft.
+So liegt der Wasserspiegel im Indischen Ozean bei Sri Lanka bis zu 105 Meter tiefer als im Durchschnitt, nordöstlich von Australien bei Neu-Guinea ist der Meeresspiegel bis zu 80 Meter höher als im Durchschnitt.
+Der Wasserspiegel passt sich also dem lokalen Gravitationspotential der Erde an.
+Ein Schiff, das der beschriebenen Strecke folgt, verrichtet daher keine Arbeit zur Überwindung der Höhenunterschiede.
+Damit alle Punkte mit dem gleichen Schwerepotential (welche eine Äquipotentialfläche bilden) die gleiche Höhe besitzen, wird die Höhe auch physikalisch definiert (siehe auch Geoid).
+
+=== Globaler Anstieg des Meeresspiegels ab dem 19. Jahrhundert
+
+Seit etwa 1880 kam es zu einem messbaren Meeresspiegelanstieg, und es wird angenommen, dass er sich in Zukunft beschleunigen wird.
+Ursachen für den Anstieg sind abtauende Gletscher sowie die thermische Ausdehnung des Meerwassers.
+Auswertungen von Pegelmessungen und Messungen mittels Satellitenaltimetrie mit Hilfe von TOPEX/ Poseidon haben ergeben, dass der Meeresspiegel im globalen Mittel im Verlauf des 20. Jahrhunderts um 17 cm angestiegen ist.
+Die Anstiegsrate seit den 1990er Jahren beträgt etwa 3,5 mm/Jahr.
+Von einem langfristigen Anstieg wären besonders tief liegende Küstengebiete und -städte sowie Inseln betroffen.
+
+Diese Änderungen fallen regional sehr unterschiedlich aus, da jede Massenverlagerung auch das Geoid und den Erdschwerpunkt beeinflusst.
+Nach Bretterbauer gibt es daher auch Regionen mit sinkendem Meeresspiegel.
+
+== Schwankungen des Meeresspiegels in geologischen Zeiträumen
+
+Mittel- bis langzyklische Schwankungen des globalen mittleren Meeresspiegels in Größenordnungen von mehreren zehner bis wenigen hundert Metern sind erdgeschichtliche Normalität.
+Diese werden als eustatische Meeresspiegelschwankungen bezeichnet.
+In den vergangenen 540 Millionen Jahren (Phanerozoikum) sind in der geologischen Überlieferung eine Vielzahl von Phasen mit hohem (insbesondere im Ordovizium und in der Oberkreide) und tiefen (insbesondere in Karbon, Perm, Trias und im jüngeren Känozoikum) eustatischem Meeresspiegel identifiziert worden.
+Schätzungen des mittleren eustatischen Meeresspiegels im Phanerozoikum zeigen, dass sich die Erde zurzeit in einer Phase mit sehr niedrigem eustatischen Meeresspiegel befindet.
+Neben den für den aktuell gemessenen eustatischen Meeresspiegelanstieg verantwortlich gemachten klimatischen Faktoren spielen in geologischen Zeiträumen auch die Geodynamik (speziell Schwankungen in der Ozeanbodenspreizungsrate) und, sowohl klimatisch als auch geodynamisch beeinflusst, isostatische Vertikalbewegungen der ozeanischen Erdkruste eine Rolle.
+
+In geologischem Kontext, das heißt vor allem hinsichtlich des Einflusses des Meeresspiegels auf Sedimentation und Erosion, wird ein Anstieg des Meeresspiegels bzw. ein landeinwärtiges Wandern der Küstenlinien als Transgression und ein Fallen des Meeresspiegels bzw. ein seewärtiges Wandern der Küstenlinien als Regression bezeichnet.
+Ein sehr langsames, "tastendes" Vordringen des Meeres wird Ingression genannt.
+Jedoch zeigen regional beobachtete Transgressionen bzw. Regressionen nicht zwangsläufig eine Änderung des eustatischen Meeresspiegels an, denn dass in einer bestimmten Region das Meer vordringt oder zurückweicht kann auch mit einer regionalen Absenkung (Subsidenz) bzw. Hebung ("Uplift") der kontinentalen Erdkruste zusammenhängen.
+
+Während der letzten Kaltzeit sank der Meeresspiegel ab und lag an seinem Tiefpunkt etwa 100 Meter tiefer als heute.
+Durch die vergrößerte Landfläche entstanden vielerorts Landbrücken zwischen Gebieten, die vorher - und auch später wieder - durch Meerwasser voneinander getrennt waren.
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

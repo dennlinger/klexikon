@@ -1,0 +1,372 @@
+Der Amateurfunkdienst (kurz: Amateurfunk; englisch amateur radio service oder umgangssprachlich ham radio) ist im Sinne der Internationalen Fernmeldeunion (ITU) ein von Amateuren ausgeübter globaler nichtkommerzieller Funkdienst (englisch service) mit den Selbstzwecken:
+
+Daneben gibt es für denselben Personenkreis einen zweiten Funkdienst, den Amateurfunkdienst über Satelliten, der mit Stationen an Bord von Amateurfunksatelliten oder Raumstationen geführt wird.
+
+== Grundlegendes
+
+Funkamateure werden nach einer Prüfung zum Amateurfunkdienst zugelassen und betreiben die Funktechnik als Hobby.
+Gewerbliche und wirtschaftliche Interessen werden ausdrücklich ausgeschlossen.
+Der Funkverkehr erfolgt ausschließlich zwischen Inhabern einer Amateurfunkgenehmigung.
+Nur in seltenen Ausnahmefällen wie bei Notfällen und Katastrophen dürfen Nachrichten von und für unbeteiligte Dritte übermittelt werden.
+Die Regelungen der ITU verweisen ausdrücklich darauf, dass der Amateurfunkverkehr keine politischen Aspekte beinhalten soll.
+Meinungsfreiheit in oder die Souveränität von Mitgliedsstaaten der ITU sollen durch den Amateurfunkbetrieb nicht berührt werden.
+In totalitären Regimen kam es historisch und kommt es in der Gegenwart immer wieder zu Einschränkungen des Amateurfunkbetriebs, da befürchtet wird, dass oppositionelle Meinungen verbreitet werden könnten.
+Dagegen soll der Amateurfunk nach deutschem Verständnis der Völkerverständigung dienen.
+Über nationalstaatliche, ethische, Sprach- und Religions-Grenzen hinweg kann der Amateurfunk zur Pflege von Freundschaften, der technischen Weiterbildung und der angewandten Forschung dienen.
+Bei einigen Funkamateuren befriedigt er auch die Sammelleidenschaft und hat sportliche Aspekte.
+
+Das personalisierte Amateurfunkrufzeichen dient der eindeutigen Identifikation einer Sendefunkstelle und besteht aus einer alphanumerischen Kombination.
+Die ITU-Präfixe der Rufzeichen sind einzelnen Staaten, davon abhängigen oder unabhängigen Gebieten und internationalen Organisationen zugeordnet.
+Einige Länder haben mehrere Präfixe.
+
+Dem Präfix folgende Zeichen werden Suffix genannt.
+Auch sie können eine regionale Bedeutung haben.
+In Deutschland ist das nicht der Fall.
+In Österreich entspricht die dem Landespräfix OE folgende einstellige Zahl 1 bis 9 einem Bundesland (siehe auch Amateurfunkrufzeichen in Österreich), während die Zahl Null an dieser Stelle von österreichischen Amateurfunkstationen in internationalen Gewässern, an Bord von Luftfahrzeugen und für Clubstationen verwendet wird.
+Steht unmittelbar nach der Zahl (1 bis 9) der Buchstabe X, handelt es sich in Österreich um eine Club- oder Relaisfunkstelle.
+
+== Rechtlicher Rahmen und Genehmigungen
+
+Der Empfang jeder Amateurfunkabstrahlung ist jedem erlaubt.
+Dagegen ist der Sendeempfangsbetrieb mit Funkgeräten von Land zu Land unterschiedlich reglementiert.
+
+Das völkerrechtliche Vertragswerk der Internationalen Fernmeldeunion (ITU) ist die Vollzugsordnung für den Funkdienst (in Österreich und Deutschland: VO Funk, in der Schweiz: Radioreglement, aktuell in der Fassung von 2016).
+Dieser internationale Vertrag reglementiert den Sendeempfangsbetrieb aller Funkdienste, um gegenseitige Störungen an den Landesgrenzen und über diese hinweg auszuschließen.
+Das internationale Recht wird über Amateurfunkgesetze, Verordnungen und nationale Frequenzpläne in Landesrecht umgesetzt.
+Die jeweilige Landesverwaltung erlässt auch Vorschriften über die Ausbildung, Prüfung, Zulassung und Erteilung von Rufzeichen.
+Die Regeln unterliegen Änderungen, zum Beispiel ist die Morse-Prüfung in Deutschland seit 2003 im Amateurfunk nicht mehr zwingend erforderlich.
+
+In der VO Funk (aktuelle Fassung von 2016) wird der Amateurfunkdienst wie folgt definiert:
+
+Die Amateurfunk-Genehmigungen (in Deutschland Zulassung zur Teilnahme am Amateurfunkdienst) sind entsprechend dem Schwierigkeitsgrad der abgelegten Prüfung in mehrere Klassen abgestuft mit Einschränkungen bei der Frequenznutzung, Sendeleistung, Modulationsart oder bei der Betriebsart.
+Zunächst wird eine Prüfung bei der zuständigen Landesstelle abgelegt.
+In Deutschland ist es die Bundesnetzagentur BNetzA, in Österreich das Bundesministerium für Verkehr, Innovation und Technologie, in der Schweiz das Bundesamt für Kommunikation BAKOM.
+In den USA prüft ausnahmsweise der Amateurfunkverband ARRL selbst.
+Nach der Prüfung kann der Inhaber des Prüfzeugnisses seine Genehmigung beantragen, sofern er das Amateurfunkrufzeichen nicht schon nach bestandener Prüfung erhielt.
+
+In Unterscheidung zum Amateurfunk, für den weltweit eine jeweilige Funkgenehmigung notwendig ist, existiert ebenso global der sogenannte Jedermannfunk.
+Er ermöglicht den Funkbetrieb mit einer Anzahl dafür zugelassener Geräte mit geringer Reichweite (CB-Funk, PMR-Funk, SRD-Funk).
+Die gehandelten Geräte bedürfen einer Konformitätserklärung, für die der verantwortliche Inverkehrbringer (Hersteller, Importeur oder Händler) haftet.
+Die Geräte dürfen für den Sendebetrieb nicht verändert werden.
+Reguliert werden in der Regel der Betriebsmodus, Leistung und Frequenzzuweisung der Geräte, so dass sie nur für die jeweilige Anwendung in Betrieb genommen werden können.
+
+Der Amateurfunkdienst ist streng zu trennen vom Betriebsfunk, Behördenfunk und Flugfunk.
+Es gelten dafür von Land zu Land unterschiedliche Benutzungskriterien und Abhörverbote.
+
+== Praxis
+
+Amateurfunk ist ein vielfältiges Hobby, da es Kenntnisse in Wissenschaft und Technik, Freude an Kommunikation, handwerkliches Geschick und Kreativität erfordert:
+
+Über spezialisierte Händler ist eine Vielzahl an kommerziell hergestellten Amateurfunkgeräten verfügbar.
+Die dort verwendete Technik ist häufig sehr kompliziert.
+Das Modifizieren dieser Geräte ist technisch zunehmend schwierig und mit mancher der länderspezifischen Amateurfunklizenzen auch nicht erlaubt.
+
+Damit sich Funkamateure leichter mit der Technik auseinandersetzen können, bieten verschiedene Firmen und Funkamateure Bausätze an.
+Dieser Weg erspart die teilweise schwierige Bauteilbeschaffung und erleichtert mit den zugehörigen Unterlagen Aufbau, Erweiterung und Modifikation.
+Selbstbaugeräte besitzen häufig nur eine geringe Sendeleistung.
+
+Das Funken mit geringer Leistung (bis 5 Watt Sendeausgangsleistung) nennt man QRP-Betrieb.
+("QRP" ist ein Betriebszeichen aus der Telegrafie und bedeutet im eigentlichen Sinne: "Reduzieren Sie Ihre Sendeleistung".)
+
+Die funktionstüchtige Zusammenstellung von Funkgerät, Antenne und messtechnischem Zubehör nennt man Amateurfunkstelle oder in der Amateurfunkwelt auch Rig (engl. Anlage).
+Die Räumlichkeit, in der diese Geräte aufgestellt bzw. betrieben werden, wird als Shack bezeichnet (engl. Bude, Hütte).
+
+Den Funkamateuren stehen verschiedene Frequenzbereiche, die sogenannten Amateurfunkbänder, zwischen 135 kHz und 250 GHz im Langwellen-, Mittelwellen-, Kurzwellen- und Ultrakurzwellen-Bereich zur Verfügung.
+Auch im Gigahertz-Bereich, im optischen Bereich und im Bereich der Terahertzstrahlung sind Funkamateure aktiv und insbesondere im Letzteren auch aktiv an der Forschung beteiligt.
+
+Alle Funkamateure haben einen gemeinsamen Verhaltenskodex, den so genannten Ham Spirit; exemplarisch ist der vom US-amerikanischen Verband ARRL zu Beginn des 20. Jahrhunderts publizierte Text.
+
+Wegen der besonders zu Morse-Zeiten eher langsamen Übertragung hat sich eine ausgeprägte Kultur der Abkürzungen entwickelt.
+Die Amateurfunkabkürzungen stammen größtenteils aus der englischen Sprache.
+Sie werden weltweit verwendet.
+Beispielsweise stehen die beiden Buchstaben OM ("Old Man") für einen männlichen Funkamateur, hingegen YL ("Young Lady") für eine Funkamateurin (in beiden Fällen jeglichen Alters).
+
+=== Modulationsarten, Betriebsarten und Übertragungsarten
+
+Es kommen traditionelle Modulationsarten und Betriebsarten wie Telegrafie und Telefonie genauso zum Einsatz wie Funkfernschreiben und moderne digitale Übertragungsverfahren wie Packet Radio, Pactor, APRS, FT8 oder PSK31, welche hauptsächlich für die Textübertragung Verwendung finden.
+
+Auch Bild- und Videoübertragungen sind mit Betriebsarten wie FAX, SSTV (Slow Scan Television) und ATV (Amateurfunk-Fernsehen) möglich.
+
+Auch eine Amateurfunk-Version des neuen digitalen Kurzwellenrundfunks Digital Radio Mondiale (DRM) wurde entwickelt.
+Seit kurzem gibt es auch digitalen Sprechfunk, wie den in Japan entwickelten digitalen Übertragungsstandard D-STAR.
+
+Viele der im Digitalzeitalter hinzugekommenen Betriebsarten lassen sich mit Hilfe von zum Teil kostenloser, von Funkamateuren entwickelter Software betreiben.
+Dazu verbindet man lediglich das Funkgerät mit der Soundkarte eines handelsüblichen PC, auf welchem die Software installiert ist.
+
+Kontakte sind mit direktem Funkkontakt, über Ionosphären-Reflexionen oder via Relaisstationen, Echolink, Amateurfunksatelliten (z. B. OSCAR) möglich.
+Funkamateure haben eigene Satelliten gebaut, die man als Relaisstation nutzen kann.
+
+Besondere Herausforderungen sind die Erde-Mond-Erde-Reflexion, Meteorscatter, Reflexionen an Polarlicht-Auroren, die Reflexion von Funkwellen an Flugzeugen oder die Ausbreitung in Inversionsschichten (Tropo).
+Damit kann man auch auf den Frequenzbändern, mit denen ansonsten nur quasioptische Entfernungen bis 300 km erreicht werden können, zeitweise größere Entfernungen überbrücken.
+
+Die ursprünglichste Betriebsart ist Telegrafie mit Morsezeichen (Friedrich Clemens Gerke, Samuel Morse).
+Die vormals obligatorische Morseprüfung für die Kurzwellenlizenzen ist in fast allen Staaten abgeschafft worden.
+Man hatte deswegen zunächst die Befürchtung, dass die Aktivität in dieser Betriebsart schnell abnehmen werde.
+Speziell bei Selbstbauern ist Morsen aber weiterhin sehr beliebt, weil man mit sehr einfachen Geräten (der Sender muss nur den Träger ein- und ausschalten können) und sehr geringen Empfängerbandbreiten (200 Hz gegenüber mindestens 2100 Hz bei Sprechfunk) arbeiten kann.
+Die nötige Übung vorausgesetzt, kann man weit über 200 Buchstaben pro Minute mit dem Gehör aufnehmen - das schnelle Geben ist mit einer elektronischen Morsetaste nicht das entscheidende Problem.
+Manche jüngere Funkamateure betrachten Morsen als eine digitale Betriebsart unter vielen, d. h., sie erzeugen Morsesignale mit dem Rechner und decodieren sie auch maschinell.
+Das betrachten die meisten "alten Hasen", die noch eine Morseprüfung ablegen mussten, als unsportliches Verhalten.
+Es hat sich aber ergeben, dass Telegrafie, als ursprünglichste Form der Nachrichtenübermittlung weiterhin einen festen Platz im Amateurfunk hat.
+Telegrafie-Funkverbindungen mit einfachen Inhalten sind bei Verwendung der internationalen Amateurfunkabkürzungen auch möglich, wenn die Funkpartner unterschiedliche Sprachkenntnisse haben.
+
+Später kam die Telefonie (Sprechfunk) mit verschiedenen Übertragungsverfahren (z. B. SSB = Einseitenbandmodulation) hinzu; sie ist die üblichste Kommunikationsart.
+
+Auch diverse Bildübertragungsverfahren von Faksimile bis Amateurfunk-Fernsehen sind üblich.
+
+In den letzten Jahrzehnten gewinnen digitale Amateurfunk-Betriebsarten immer größere Bedeutung.
+Ständig werden von Funkamateuren neue digitale Übertragungsverfahren erdacht, die dann weltweit mit anderen Funkamateuren ausprobiert werden.
+
+Unmittelbar neben den in der WLAN-Technik genutzten ISM-Bändern bei 2,4 und 5,8 GHz gibt es Amateurfunk-Zuweisungen.
+Das macht es möglich, mit sehr preiswerter, nur geringfügig modifizierter WLAN-Ausrüstung breitbandige Richtfunkstrecken zu betreiben.
+Häufig werden dabei neben handelsüblichen WLAN-Komponenten lediglich Richtantennen mit hohem Gewinn benutzt.
+Unter der Bezeichnung HAMNET entsteht vor allem in Österreich eine breitbandige Richtfunk-Infrastruktur.
+
+=== Frequenzbänder
+
+Für den Amateurfunkdienst sind Frequenzbereiche im gesamten elektromagnetischen Spektrum zugewiesen.
+In diesen Amateurfunkbändern findet der Funkverkehr in verschiedenen Betriebsarten statt.
+Die Bänder überdecken die Wellenbereiche von 1,2 mm bis in den Längstwellenbereich von 2,2 km.
+Die meistgenutzten Amateurfunkbänder liegen jedoch im Kurzwellenbereich von 160 m bis 10 m und im VHF-Bereich von 2 m bis 23 cm.
+
+Frequenzbereiche für alle Funkdienste werden durch die Internationale Fernmeldeunion (ITU) in der VO Funk international zugewiesen.
+Das Entscheidungsgremium dafür ist die Weltfunkkonferenz.
+Die für das Hoheitsgebiet der Bundesrepublik Deutschland verbindlichen Regelungen und Festlegungen enthält die Frequenzverordnung vom 27. August 2013 (BGBl.
+I S. 3326).
+Darin werden die einzelnen Bänder bestimmten Funkdiensten auf primärer oder sekundärer Basis zugewiesen; nicht alle Amateurfunkbänder können von Funkamateuren deshalb alleinig genutzt werden.
+So ist beispielsweise der Frequenzbereich 144-146 MHz im 2-Meter-Band in Europa der Nutzung für Amateurfunkdienste vorbehalten und wird primär von diesem genutzt.
+Das 23-cm-Band (1240-1300 MHz) ist dem Amateurfunk auf sekundärer Basis zugewiesen.
+Funkamateure haben ihren Sendebetrieb dort so einzurichten, dass die primären Funkdienste nicht gestört werden und müssen ihrerseits Störungen hinnehmen.
+
+Meist werden Frequenzbereiche für die ITU-Region 1 (Europa, Afrika, Russland), Region 2 (Amerika) und/oder 3 (restliches Asien und Ozeanien) zugewiesen unter der Überlegung, dass sich Funkwellen nicht von politischen Grenzen aufhalten lassen.
+Insbesondere in höheren Frequenzbereichen, bedingt durch Verringerung der Ausbreitung EM-Wellen, sind national abweichende Frequenzbereichzuweisungen für den Amateurfunkdienst möglich.
+So ist in Skandinavien das 70-cm-Amateurfunkband nur 6 MHz breit (432-438 MHz), während es im restlichen Europa 10 MHz breit ist (430-440 MHz).
+
+Innerhalb der einzelnen Amateurfunkbänder stellen die Amateurfunkverbände Bandpläne auf.
+Auf Kurzwelle wird traditionell der unterste Bandabschnitt exklusiv der Telegrafie (Morsen) zugeteilt, am oberen Ende wird Telefonie (Sprechfunk) betrieben.
+In den letzten Jahren geht man langsam von einer Sortierung nach einzelnen Betriebsarten über zu einer Sortierung nach benutzten Bandbreiten.
+Die Überlegung dahinter ist, dass Modulationsarten mit geringen Bandbreiten auch geringere Sendeleistungen erfordern und sich schwächere Sender gegenseitig weniger stören, als das sehr starke Sender gegenüber schwachen Sendern tun.
+Zudem gibt es durch die Digitalisierung eine Vielzahl von Betriebsarten, für die keine exklusiven Bandabschnitte mehr zur Verfügung gestellt werden können.
+
+=== Jugendarbeit
+
+Innerhalb des Amateurfunks sind diverse Projekte und Angebote für junge Funkamateure und Funkamateurinnen entstanden.
+Nachfolgend sind einige internationale Veranstaltungen aufgeführt:
+
+Dazu kommen weitere regionale und lokale Veranstaltungen, wie etwa Jugendfielddays, Ferienspaßaktionen, Bastelaktionen und Jugendgruppen.
+An Schulen und Hochschulen gibt es teilweise Klubstationen (Schulstationen) sowie Projekte für Funkkontakte mit der Internationalen Raumstation ISS (Amateur Radio on the International Space Station (ARISS)).
+
+Die Interessen von jugendlichen Funkamateuren sieht das Fachmagazin Funkamateur (Stand November 2006) so: "Eine niederländische Befragung unter Jugendlichen darüber, was ihnen denn am Amateurfunk besonders läge, brachte als Ergebnis folgende Reihung der Interessen: Conteste, Diplome, QRP (!), Funkgerät und PC, Amateurfunk in Gruppen, Notfunk, Naturerscheinungen, Funk und Astronomie." QRP bezieht sich dabei auf den Selbstbau von einfachen Funkgeräten kleiner Leistung.
+
+=== QSL-Karten und Amateurfunkdiplome
+
+Funkverbindungen werden mit QSL-Karten bestätigt.
+Besonders begehrt sind QSL-Karten aus Amateurfunk-Ländern, in denen es sehr wenige oder keine Funkamateure gibt, aber auch von selten arbeitenden oder schwer zu erreichenden Amateurfunk-Stationen wie der Internationalen Raumstation ISS oder von prominenten Funkamateuren wie Juan Carlos von Spanien.
+Die Jagd nach weit entfernten Amateurfunk-Stationen wird DXen genannt.
+Die QSL-Karten werden entweder über den eigenen Amateurfunk-Verband an die Amateurfunk-Verbände im jeweiligen Land geschickt - oder direkt an die Adresse geschickt, die man aus dem Callbook erhält.
+
+Mittlerweile gibt es auch Websites für diesen Zweck:
+Wenn beide Kommunikationspartner zueinander passende Verbindungsdaten eingeben, gilt die Verbindung als bestätigt.
+
+Für bestimmte Leistungen, beispielsweise für Funkkontakte in eine bestimmte Anzahl Gebiete, werden Amateurfunkdiplome ausgestellt.
+Dafür ist meist vorher das Sammeln von QSL-Karten oder elektronische Bestätigungen für die Beantragung erforderlich.
+
+== Interessensverbände
+
+Weltweit organisieren sich Funkamateure in Interessensverbänden.
+Diese bieten auch Kurse zur Vorbereitung auf die Amateurfunkprüfung an und vertreten die Interessen der Funkamateure gegenüber Politik und Gesellschaft.
+
+Häufig finden die Kurse an Schulen, Volkshochschulen oder an Universitäten statt.
+Als Ausbildungs-Standardwerk hat sich u. a. die Buchreihe von Eckart K.W. Moltrecht, DJ4UF etabliert.
+Zum praktischen Üben werden Ausbildungsstationen lizenziert.
+Die Nutzung eines Ausbildungsrufzeichens bietet dann die Möglichkeit, schon vor der Amateurfunkprüfung unter Aufsicht eines Funkamateurs Funkbetrieb zu beobachten und so das erworbene Wissen auszuprobieren und zu festigen.
+
+== Die Geschichte des Amateurfunkdienstes
+
+=== Pionierzeit
+
+Die Pioniere der Funktechnik wie Heinrich Hertz oder Guglielmo Marconi schufen in den beiden letzten Jahrzehnten des 19. Jahrhunderts die Grundlagen der heutigen Funktechnik.
+In der Pionierzeit gab es nur wenige Regulierungen.
+Das führte in vielen Ländern zu einem Chaos auf den Frequenzen.
+1906 wurde in Berlin die Convention Radiotelegraphique Internationale beschlossen, die beispielsweise größere Schiffe zum Betrieb einer Funkstation verpflichtete.
+Diese Konvention ratifizierten die USA erst wenige Monate vor der Titanic-Katastrophe.
+
+Als die RMS Titanic 1912 sank, hätte eine bessere Kommunikation die Zahl der Opfer deutlich senken können.
+Das führte in den USA zum Radio Act of 1912, der unter anderem "private Funkstationen" auf Wellenlängen unterhalb von 200 m (über 1,5 MHz) verwies, ihre Sendeleistung auf 1 kW Input begrenzte und offizielle Rufzeichen einführte.
+Diese Kurzwellen-Frequenzen hielt man damals für wertlos, da man irrtümlich nur eine geringe Reichweite vermutete.
+Der 2. Weltfunkvertrag von 1912 spricht erstmals von "privaten Funkstationen", ohne den Begriff näher zu definieren.
+Offiziell taucht der Begriff "Funkamateur" bei der Washingtoner Welt-Wellenkonferenz 1927 auf.
+
+In den USA gab es bis 1939 Experimentalstationen, deren Rufzeichenschema dem bis heute bei den US-Funkamateuren üblichen entspricht (1-2 Buchstaben aus dem ITU-Rufzeichenblock der USA, 1 Zahl, 1-3 Buchstaben).
+1939 durften solche Experimentalstationen ins kommerzielle Lager wechseln, dann natürlich mit den Rufzeichen aus 3-4 Buchstaben, die auch bis heute üblich sind.
+
+Die Geschichte des Amateurfunkdienstes verlief in der Anfangszeit in den einzelnen Staaten sehr unterschiedlich.
+Viele Länder, wie die USA, Großbritannien und Frankreich standen dem Thema sehr liberal gegenüber und förderten die Entwicklung.
+So gab der britische Generalpostmeister 1905 die ersten gedruckten Experimentierlizenzen an Amateure aus.
+
+Andere Länder, wie beispielsweise Deutschland, sahen den Amateurfunk misstrauisch und waren eher bestrebt, die staatliche Fernmeldehoheit und das Postmonopol zu schützen.
+
+In den USA gab es ab 1905 für 8,50 Dollar den "Telimco-Telegraphen" frei zu kaufen, mit dem man etwa eine Meile überbrücken konnte.
+Bedingt durch den Ersten Weltkrieg war der private Funkbetrieb auch in den USA von 1914 bis 1919 verboten.
+
+=== Deutschland bis 1945
+
+Bis 1924 galt allein das "Gesetz über das Telegrafenwesen des Deutschen Reiches" vom 6. April 1892, das dem Staat das absolute Fernmeldemonopol sicherte.
+Am 24. Mai 1924 veröffentlichte das Reichspostministerium eine Verfügung, die das Rundfunkwesen neu regelte.
+Ab da konnten Privatpersonen die "Audionversuchserlaubnis" erwerben, die den Besitz und den Betrieb eines einfachen Empfängers erlaubte.
+Das war eine reine Empfangserlaubnis.
+Bis dahin war selbst der Besitz eines Empfängers verboten.
+In Deutschland wurden einige wenige Clubstationen lizenziert, während es in Großbritannien zur gleichen Zeit schon 1200 offiziell lizenzierte Funkamateure gab.
+Ende Mai 1933 wurden 180 alte "Schwarzfunker" offiziell lizenziert - wohl aus Propagandagründen.
+Mit Kriegsbeginn am 1. September 1939 wurden alle 529 erteilten Lizenzen eingezogen.
+
+Während des Zweiten Weltkriegs wurde eine niedrige dreistellige Zahl von Kriegsfunkgenehmigungen (KFSG) ausgegeben.
+Während des Krieges erkannte man auch den Wert der Kenntnisse, die sich Funkamateure erworben hatten und versuchte, sie in der Industrie oder in Funkdienststellen nutzbar zu machen.
+
+=== Bundesrepublik Deutschland nach 1945
+
+Nach dem Zusammenbruch des Deutschen Reiches galt zunächst, für jede der vier Besatzungszonen getrennt, alliiertes Militärrecht.
+Unkontrollierte Kommunikation ist in solchen Fällen immer suspekt.
+Zonen-übergreifende Organisationen waren nicht möglich, Kommunikation und Reisen nur schwer möglich.
+Die französische Verwaltung war bedeutend restriktiver als die britische und vor allem als die amerikanische.
+Die sowjetische Zone war fast völlig isoliert.
+Die erste Kurzwellentagung nach dem Krieg fand am 7. und 8. Juni 1947 in Stuttgart statt und hatte rund 500 Teilnehmer.
+In der amerikanischen und britischen Zone war manches Gentlemen's Agreement möglich.
+So konnte schon 1947 die QSL-Karten-Vermittlung "Box 585, Stuttgart" eröffnet werden.
+
+Ihre Bewährungsprobe mussten Organisation und Disziplin der deutschen Funkamateure in der Zeit von 23. bis 30. April 1948 bestehen:
+Die deutschen Funkamateure verpflichteten sich gegenüber der Militärregierung zu absoluter Funkstille, die auch fast vollständig eingehalten wurde.
+Anschließend überschlugen sich die Ereignisse:
+Vom 8. bis 9. Mai 1948 fand in Bad Lauterberg eine Kurzwellentagung statt, bei der sich die Amateurfunkverbände der Westzonen vereinigten.
+Kurz darauf kündigte die Deutsche Post an, dass ab Mai 1948 Amateurfunk-Lizenzprüfungen stattfinden sollten.
+Das Amateurfunkgesetz ließ dann aber doch noch bis zum 19. Januar 1949 auf sich warten.
+Damit konnten im Vereinigten Wirtschaftsgebiet offiziell Amateurfunklizenzen ausgegeben werden.
+Das erste Amateurfunkgesetz ist also älter als das deutsche Grundgesetz.
+
+Das Saarland war nach dem Krieg von Frankreich annektiert worden, galt also nicht mehr als Teil Deutschlands.
+Hier trat das erste Amateurfunkgesetz erst am 4. April 1951 in Kraft.
+Am 1. Januar 1954 waren in der Bundesrepublik Deutschland 3389 Funkamateure lizenziert.
+Am 31. Dezember 2017 waren bei der Bundesnetzagentur 64.548 Funkamateure der Klasse A und E registriert.
+Höhepunkt der Anzahl war der Stichtag (31. Dezember) des Jahres 2002 mit 80.874 Amateurfunkzulassungen.
+Seitdem geht diese Anzahl stetig zurück.
+So waren es 2019 nur noch 63.070 Amateurfunkzulassungen.
+
+=== DDR
+
+Die erste offizielle Erwähnung des Amateurfunks auf dem Gebiet der DDR gab es 1950 im Rahmen der Freien Deutschen Jugend (FDJ).
+Dort gab es "Interessengemeinschaften für Sondersportarten", aus denen die Gesellschaft für Sport und Technik (GST) hervorging.
+Ein Schreiben des Initiativkomitees zur Gründung der GST erwähnt die Forderung Jugendlicher nach Ausübung des Amateurfunks.
+Die GST gab dann die Zeitschrift Sport und Technik heraus, die regelmäßig nachrichtentechnische Beiträge enthielt.
+Daraus entstand die Zeitschrift Funkamateur, die nach der Wende privatisiert wurde und bis heute existiert.
+
+Am 6. Februar 1953 wurde die "Verordnung über den Amateurfunk" verkündet.
+Die ersten Lizenzen wurden am 14. Juli 1953 ausgegeben.
+Eine Amateurfunklizenz war in der DDR immer an die Mitgliedschaft in der Gesellschaft für Sport und Technik (GST) gebunden.
+
+Die GST förderte durch materielle Zuwendungen die Errichtung sogenannter Klubstationen, an denen mehrere Funkamateure die meist selbst gebaute Technik gemeinsam nutzen konnten.
+Mitunter wurden den Klubstationen neue kommerzielle Geräte - Beispiele sind der KW-Empfänger Dabendorf sowie der Transceiver Teltow 215B - sowie auch ausgesonderte Geräte der bewaffneten Organe der DDR zur Verfügung gestellt.
+Neben dem Klubstationsleiter (Chefoperator) gab es lizenzierte sogenannte Mitbenutzer der Amateurfunkstelle, deren Rufzeichen aus dem Stationsrufzeichen abgeleitet wurde.
+Die Klubstationen haben sich bei der Ausbildung am Amateurfunk Interessierter sehr verdient gemacht.
+Nach erfolgreicher Prüfung entsprechend dem Amateufunkgesetz der DDR und der Zulassung durch das MfS wurden Privatlizenzen an Einzelpersonen erteilt.
+
+=== Österreich
+
+Am 23. April 1954 wurde die erste Lizenzurkunde ausgegeben an den Präsidenten des OeVSV, Erwin Heitler, OE1ER.
+
+Die Amateurfunk-Aktivitäten in Österreich sind aber bedeutend älter:
+Der Österreichische Versuchssenderverband (OeVSV) wurde 1926 (nach anderer Quelle: Oktober 1925) gegründet.
+Die "OEM", das Mitteilungsblatt des OeVSV erschien 1933 bis 1938 (also wohl bis zum Anschluss Österreichs an das Deutsche Reich) und dann wieder ab 1945.
+
+=== Schweiz
+
+Wie damals üblich begann der Amateurfunk auch in der Schweiz um den Ersten Weltkrieg als "Schwarzfunk".
+Juristisch konnte man ab dem 1. Juli 1925 an der Obertelegraphen-Direktion die Prüfung für eine Sendekonzession ablegen.
+Die erste Lizenz wurde im April 1926 ausgegeben.
+Die ersten offiziellen Rufzeichen hatten das Präfix H9, der noch vor 1930 durch HB9 ersetzt wurde.
+
+== Aspekte des Amateurfunkes
+
+Der Amateurfunk hat vielen technisch interessierten Menschen den Zugang zu Elektronik und Nachrichtentechnik geebnet.
+Damit leistete der Amateurfunk einen erheblichen Beitrag zur Förderung des technisch-wissenschaftlichen Nachwuchses.
+Entsprechend förderten Institutionen wie die Deutsche Bundespost, Deutsche Telekom, das Technische Hilfswerk oder die Bundeswehr den Amateurfunk.
+In der Deutschen Demokratischen Republik gehörte der Amateurfunk zur paramilitärischen Ausbildung; der Zugang zum Amateurfunk war nur über die Gesellschaft für Sport und Technik möglich.
+
+Eine wichtige Aufgabe des Amateurfunks sollte die Völkerverständigung sein.
+Ja, Verbindungen zwischen Funkamateuren aus West und Ost waren auch zu Zeiten des Kalten Krieges möglich, wobei die Nachrichteninhalte system- und vorschriftsbedingt eingeschränkt waren.
+Heute bieten aber Internet und niedrige Telefon- oder Flugkosten hierzu gute Alternativen, nicht jedoch in Schwellenländern mit niedriger Internetabdeckung.
+
+Der Reiz des Amateurfunks liegt auch darin, den geographischen Standort der Gegenstelle zu kennen, um daraus Rückschlüsse auf das Zustandekommen der Verbindung über die Ionosphäre ziehen zu können.
+
+=== Amateurfunk im Not- und Katastrophenfall
+
+Der Amateurfunk wirkte immer wieder nachhaltig unterstützend bei der Katastrophenhilfe.
+Besonders in Flächenländern und fragiler Infrastruktur führen Naturkatastrophen und Großschadensereignisse immer wieder zum vollständigen Ausfall der regulären Kommunikations-Infrastruktur.
+
+Historisch wurden in Mitteleuropa Amateurfunkverbindungen bei der Hamburger Sturmflut oder der Lawinenkatastrophe von Galtür genutzt, weil andere Kommunikationswege ausgefallen waren.
+Bei der nach der Flutkatastrophe von 1953 modellierten multinationalen Übung FloodEx waren 2009 Notfunker vor allem aus den Niederlanden und Großbritannien fest eingebunden, weil die Lage den weitgehenden Ausfall des Bündelfunknetzes TETRA simulierte.
+Amateurfunk ist ebenfalls ein wichtiges Standbein der Kommunikation von im Ausland eingesetzten Helfern mit dem Heimatland, denn auch die lizenzfreie Satellitentelefontechnik funktioniert nicht immer zuverlässig.
+
+In dünn besiedelten Regionen der Erde mit mangelhafter Telekommunikations-Infrastruktur kann der Amateurfunk in Not- oder Katastrophenfällen ein erstes Mittel zur Nachrichtenübermittlung darstellen.
+Die Freiräume des Amateurfunkdienstes ermöglichen auch unkonventionelle Lösungen wie ein 2-m- und 80-m-Relais in Namibia:
+Rund um Windhoek kann man es wie ein ganz normales UKW-Relais nutzen, während Funkamateure im restlichen Land den 80-m-Zugang nutzen können.
+Über den Echolink-Anschluss ist der Rest der Welt problemlos zu erreichen.
+
+Manch ein Leben ist durch die Übermittlung eines Notrufes durch Funkamateure gerettet worden und so mancher Angehörige eines Katastrophenopfers konnte auf diesem Wege etwas über den Verbleib eines Verwandten erfahren.
+
+In den dicht besiedelten Regionen der Erde, also etwa den Industrieländern der nördlichen Halbkugel, existiert heute eine Vielzahl öffentlicher und behördlicher Kommunikationsmittel.
+Katastrophen von der Hamburger Sturmflut 1962 bis zu den Erdbeben- und Tsunami-Katastrophen im Indischen Ozean Dezember 2004 und in Japan im Jahr 2011 haben gezeigt, dass diese hochtechnologischen öffentlichen Kommunikationsnetze anfällig gegenüber Störungen sind.
+
+Selbst wenn Hilfsdienste mit ihren eigenen Funksystemen vor Ort sind, kann der Amateurfunk eine wichtige Rolle übernehmen:
+Viele der benutzten Funksysteme sind nicht interoperabel, der Hilfsdienst A kann keinen Funkkontakt mit Hilfsdienst B aufnehmen.
+Funkamateure können diese Grenze häufig mit ihrer eigenen Technik und mit den beim Hobby erworbenen Kenntnissen überbrücken.
+
+=== Wandelndes Umfeld des Amateurfunks in Deutschland
+
+Seit etwa 1990 wird der Amateurfunk in der Gesellschaft weniger deutlich wahrgenommen, was sich deutlich am geringen Nachwuchs bemerkbar macht.
+Die Gründe hierfür sind vielfältig:
+Jungen Menschen bietet sich eine Vielzahl an Möglichkeiten für ein technisches Hobby.
+Das Alleinstellungsmerkmal des Amateurfunks, der Umgang mit Hochfrequenztechnik wird bei frei zugänglichem Internet oft nicht mehr als notwendig erachtet.
+Die Einstiegsschwelle zum Erhalt einer Amateurfunklizenz ist stark formalisiert.
+In städtischem Umfeld bieten sich kaum Möglichkeiten zur Errichtung von Antennen.
+
+Weitere Umstände, die den Amateurfunk ungünstig beeinflussen können:
+
+Auch heute sind aus dem Bereich des Amateurfunks Veröffentlichungen in wissenschaftlicher Qualität zu beobachten.
+In Amateurfunksatelliten werden innovative Techniken erforscht.
+An vielen Universitäten gibt es Vereinigungen von Funkamateuren, deren Mitglieder, meist Studenten und Mitarbeiter technischer Fachrichtungen, in selbstorganisierter Teamarbeit teils sehr anspruchsvolle und aufwendige Projekte realisieren.
+Diese werden meist als Hobbyprojekt einer ohnehin vorhandenen fachlichen Qualifikation durchgeführt.
+Ingenieure der Universität Wuppertal experimentierten beispielsweise mit digitalem Amateurfunkfernsehen (DATV) der Universität Wuppertal.
+Mit Satellitenkommunikation experimentierte eine Amateurfunkgruppe an der TU München.
+Die Amateurfunkgruppe der RWTH Aachen am Institut für Hochfrequenztechnik verbindet ebenfalls akademische Ingenieurswissenschaft mit dem praktisch umgesetzten Amateurfunk.
+
+=== Perspektiven - die mögliche künftige Entwicklung
+
+Viele Beobachter gehen davon aus, dass der Amateurfunk insgesamt an Attraktivität weiter verliert, aber in seiner Nische, der Hochfrequenztechnik, weiter interessant bleibt.
+Als Ergänzung und praktisches Erprobungsfeld für digitale Anwendungen in Kombination mit Hochfrequenztechnik ergänzt er die Studiengänge an den Universitäten und Fachhochschulen.
+
+Durch die allgemeine Verfügbarkeit von IT-Technik sowie von Online-Anwendungen der drahtlosen Vernetzung hat die Amateurfunktechnik einen Teil ihres besonderen Reizes verloren.
+Die allgemeine Verfügbarkeit von Kommunikationstechnik und von Mobilfunktechnik bedient einen großen Teil der Bedürfnisse technisch Interessierter.
+
+Ein gegenläufiger Trend zeigt das steigende Interesse an Amateurfunk-Anwendungen im QRP-Bereich, dem Senden mit kleiner Leistung.
+Seit etwa 2003 steht zunehmend das Thema Software Defined Radio im Fokus der Funkamateure, was mit einer deutlichen Wiederbelebung des Selbstbaus (aus Komponenten) von Funkgeräten und von deren Eigen- bzw. Weiterentwicklung einhergeht.
+Mit den im Internet zugänglichen WebSDR können auch Amateurfunkbänder im Internet ohne physisches Empfangsgerät am Computer empfangen werden.
+
+Noch nicht so recht abzuschätzen ist der Einfluss der Digitalisierung auf den Amateurfunk.
+Einerseits gibt es immer mehr digitale Übertragungsverfahren von PSK31 bis HAMNET.
+Andererseits wird die Digitaltechnik immer billiger und leistungsfähiger, so dass die benutzten Geräte immer weniger Funktionen in herkömmlicher Analogtechnik aufweisen.
+Dies zeigt sich ganz deutlich beim Software Defined Radio.
+Die Eigenbauaktivitäten von Funkamateuren werden also deutlich weggehen vom Lötkolben und hin zum Einsatz von Computern.
+
+Freifunk zählt nicht zum Amateurfunk.
+Die Freifunker interessieren sich für Richtfunk und Netzwerktechnik.
+Sie verbreiten freies WLAN für jedermann, vernetzen sich untereinander über WLAN und über Richtfunk-Verbindungen über Strecken von bis zu 30 Kilometern.
+
+== Siehe auch
+
+== Literatur
+
+== Dokumentationen (Film)
+
+== Weblinks
+
+== Einzelnachweise
+

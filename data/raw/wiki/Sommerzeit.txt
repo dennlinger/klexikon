@@ -1,0 +1,634 @@
+Als Sommerzeit wird die gegenüber der Zonenzeit meist um eine Stunde vorgestellte Uhrzeit bezeichnet, die während eines bestimmten Zeitraums im Sommerhalbjahr (und oft auch etwas darüber hinaus) als gesetzliche Zeit dient.
+Eine solche Regelung wird fast nur in Ländern der gemäßigten Zonen angewandt.
+
+Die mitteleuropäische Sommerzeit beginnt am letzten Sonntag im März um 2:00 Uhr MEZ, indem die Stundenzählung um eine Stunde von 2:00 Uhr auf 3:00 Uhr vorgestellt wird.
+Sie endet jeweils am letzten Sonntag im Oktober um 3:00 Uhr MESZ, indem die Stundenzählung um eine Stunde von 3:00 Uhr auf 2:00 Uhr zurückgestellt wird.
+
+== Grundlagen
+
+Als Zeitsystem für den alltäglichen Gebrauch diente von alters her die örtliche Sonnenzeit, die durch den Stundenwinkel der Sonne definiert ist.
+Damit ist es am Mittag (Zeitpunkt des höchsten Sonnenstandes) 12:00 Uhr und um Mitternacht 0:00 Uhr.
+Um die Ortsabhängigkeit der Zeit - einem geographischen Längenunterschied von einem Grad entspricht ein Zeitunterschied von 4 Minuten - innerhalb eines Landes zu beseitigen, wurde auf der internationalen Meridiankonferenz von 1884, ausgehend vom Greenwicher Nullmeridian, ein globales System von 24 Zeitzonen mit einer Ost-West-Ausdehnung von jeweils etwa 15° geographischer Längendifferenz geschaffen.
+Jeder Zeitzone wurde eine Zonenzeit zugeordnet, die (nach damaliger Definition) gleich der mittleren Sonnenzeit des Mittelmeridians der Zone mit den geographischen Längen 0°, 15°, 30°, ... östlich und westlich von Greenwich war.
+Die Zonenzeiten zweier benachbarter Zonen unterscheiden sich um genau eine Stunde.
+Eine Zonenzeit läuft gleichförmig ab und ist innerhalb der Länder derselben Zeitzone einheitlich.
+Unter Einhaltung dieser Bedingungen weicht sie möglichst wenig von der örtlichen Sonnenzeit ab.
+Die Differenz zwischen der örtlichen Sonnenzeit und der Zonenzeit eines Ortes ist östlich des Mittelmeridians negativ und westlich davon positiv, und sofern die Grenzen der Zeitzonen in etwa mit ihrer natürlichen Lage übereinstimmen - was heute oft nicht mehr zutrifft -, ist der Betrag dieser Differenz im Jahresmittel nirgends wesentlich größer als eine halbe Stunde.
+
+Die gesetzlichen Zeiten der einzelnen Länder sind als die Zonenzeit der Zeitzone definiert, der das Land entsprechend seiner geographischen Länge angehört.
+So ist die Mitteleuropäische Zeit (MEZ) die Zonenzeit in der Mitteleuropäischen Zeitzone mit dem Bezugsmeridian der geographischen Länge 15° Ost.
+Sie unterscheidet sich also von der auf den Greenwicher Nullmeridian bezogenen Koordinierten Weltzeit UTC um 1 Stunde: MEZ = UTC + 1 Stunde.
+
+Aufgrund von wirtschaftlich-politischen Erwägungen wurde wiederholt in vielen Ländern jeweils für begrenzte Zeiträume im Sommerhalbjahr eine dieser normalen gesetzlichen Zeit um eine Stunde vorausgehende Sommerzeit als gesetzliche Zeit eingeführt.
+Die Sommerzeit ist damit gleich der Zonenzeit der östlich benachbarten Zeitzone, also etwa die Mitteleuropäische Sommerzeit (MESZ) = UTC + 2 Stunden (= Osteuropäische Zeit (OEZ)).
+Die Differenz zwischen der örtlichen Sonnenzeit und der gesetzlichen Zeit vergrößert sich mit Einführung der Sommerzeit um eine Stunde.
+Anlässe für die Einführung einer Sommerzeit waren etwa der Erste und der Zweite Weltkrieg sowie die Ölpreiskrise in den 1970er Jahren.
+In analoger Weise gab es in der Tschechoslowakei im Winter 1946/47 zur Energieeinsparung am Morgen eine Winterzeit, also in Umkehrung zur Sommerzeit eine Zurückstellung der gesetzlichen Zeit gegenüber der normalen gesetzlichen Zeit (MEZ) um eine Stunde.
+
+Zur Unterscheidung von der Sommerzeit wird die normalerweise als gesetzliche Zeit dienende Zonenzeit Normalzeit oder Standardzeit genannt.
+Da in vielen europäischen Ländern seit etwa 1980 in jedem Jahr die Sommerzeit benutzt und die Normalzeit daher nur noch im Winterhalbjahr gebraucht wird, hat sich dafür auch die Bezeichnung Winterzeit eingebürgert.
+
+== Geschichte
+
+Benjamin Franklin erklärte 1784 im Journal de Paris, dass das ausgedehnte Nachtleben Energie durch künstliches Licht vergeude.
+Dagegen helfe früheres Aufstehen und Zubettgehen.
+Die Idee einer staatlich verordneten Sommerzeit kam Ende des 19. Jahrhunderts auf.
+Unabhängig voneinander schlugen George Vernon Hudson 1895 und William Willett 1907 eine saisonale Zeitverschiebung vor.
+Der Insektenforscher George Vernon Hudson stellte seine Idee erstmals in einem Vortrag 1895 vor der Royal Society of New Zealand vor.
+Weder sein Vortrag noch die Veröffentlichung seiner Ideen drei Jahre später fanden damals Anklang, so dass er bald in Vergessenheit geriet.
+
+Aufgrund der praktischen Schwierigkeiten z. B. beim länderübergreifenden Eisenbahnverkehr ist es kein Zufall, dass die erstmalige Einführung der Sommerzeit in den Ersten Weltkrieg fällt:
+
+Die Zeitumstellung wurde erstmals am 30. April 1916 im Deutschen Reich sowie in Österreich-Ungarn eingeführt.
+Die Sommerzeit sollte die energieintensiven "Materialschlachten" des Ersten Weltkriegs unterstützen:
+Dadurch versprach man sich Energieeinsparungen bei der künstlichen Beleuchtung an langen Sommerabenden.
+Als Reaktion darauf führten zahlreiche andere europäische Länder einschließlich der Kriegsgegner Großbritannien und Frankreich noch im selben Jahr die Sommerzeit ein.
+1919 schaffte Deutschland in der Weimarer Republik die ungeliebte Kriegsmaßnahme wieder ab.
+
+Großbritannien war das einzige Land, das zwischen den Weltkriegen kontinuierlich an der Verschiebung der Stunden im Sommer festhielt.
+Auch Frankreich führte die Sommerzeit weiter, beendete diese jedoch aufgrund von Protesten der Landwirte im Jahr 1922.
+1923 wurde sie abermals eingeführt.
+Andere Länder experimentierten mit der Sommerzeit nur in einem kurzen Zeitraum, Griechenland lediglich für zwei Monate 1932.
+In Kanada und den Vereinigten Staaten war die Sommerzeit nicht national, sondern regional oder lokal geregelt, was dazu führte, dass innerhalb einer Stadt unterschiedliche Zeiten verwendet wurden.
+Die Sowjetunion stellte die Uhren 1930 um eine Stunde vor, aber nicht wieder zurück.
+
+Im Zweiten Weltkrieg führte Deutschland 1940 die Sommerzeit erneut in Erwartung einer Energieeinsparung ein.
+Auch die Uhren in den besetzten und annektierten Gebieten wurden mit Berlin synchronisiert.
+Bei Kriegsende verständigte sich der Alliierte Kontrollrat in Deutschland auf eine einheitliche Uhrenumstellung während der warmen Jahreszeit.
+1947 wurde ab 11. Mai eine doppelte Sommerzeit, d. h. eine Abweichung von zwei Stunden, verordnet, um das Tageslicht maximal auszunutzen.
+Sieben Wochen später (am 29. Juni) kehrte man zur einfachen Sommerzeit zurück.
+Bereits im Gründungsjahr beider deutscher Staaten 1949 einigte man sich zwischen der Bundesrepublik Deutschland und der DDR darauf, die alljährliche Uhrumstellung zu beenden.
+In den anderen Ländern war die Sommerzeit nach dem Zweiten Weltkrieg ebenfalls auf dem Rückzug.
+
+Die Ölpreiskrise 1973 traf Europa hart.
+Durch hohe Energiepreise fiel Europa in eine Rezession und musste sparen.
+Doch nur ein einziger westeuropäischer Staat führte die Sommerzeit mit der Begründung des Energiesparens ein:
+Frankreich 1976.
+Für alle anderen Mitgliedstaaten der Europäischen Gemeinschaft war die Integration und Harmonisierung des gemeinsamen Binnenmarktes die treibende Kraft bei der Wiedereinführung der Sommerzeit.
+Die Abgeordnete Liesel Hartenstein hatte die Vorteile schon während der Zeitgesetzdebatte im Bundestag 1977 auf den Punkt gebracht: "Die Vereinfachung im grenzüberschreitenden Verkehr, die Harmonisierung der Fahr- und Flugpläne, dies spricht dafür.
+Es geht um die Frage der Einheitlichkeit in der Europäischen Gemeinschaft und letztlich um die europäische Integration." Obwohl nach Frankreich weitere Staaten der Europäischen Gemeinschaft folgten, zögerte die Bundesrepublik Deutschland.
+Man wollte Deutschland nicht noch zusätzlich zeitlich teilen.
+Die DDR äußerte sich nicht zu der Thematik.
+1979 verkündete die DDR überraschend die Einführung einer Sommerzeit für das folgende Jahr.
+Per Verordnung galt sie ab 1980 in beiden deutschen Staaten.
+Viele Nachbarländer, die sich bislang abwartend verhalten hatten, zogen nun nach.
+Als letztes Land in der Mitte Europas schloss sich die Schweiz 1981 der Sommerzeit an.
+
+Bis 1996 wurden die unterschiedlichen Sommerzeitregelungen in der Europäischen Union vereinheitlicht.
+Die einheitliche Sommerzeit gilt seitdem in allen EU-Mitgliedstaaten, einschließlich ihrer in der Nähe Europas gelegenen Landesteile, jeweils vom letzten Sonntag im März um 2:00 Uhr MEZ (3:00 Uhr MESZ) bis zum letzten Sonntag im Oktober um 3:00 MESZ (2:00 Uhr MEZ).
+Ausgenommen sind jedoch jene Landesteile, die nicht auf dem Gebiet des europäischen Kontinents selbst liegen, wie zum Beispiel Französisch-Guayana.
+
+=== Deutschland
+
+Im Deutschen Kaiserreich gab es eine Sommerzeit erstmals während des Ersten Weltkriegs in den Jahren 1916 bis 1918:
+
+In den Jahren 1919 bis 1939 gab es keine Zeitumstellung.
+Wieder eingeführt wurde die Sommerzeit im Kriegsjahr 1940.
+Ursprünglich sollte sie am 6. Oktober 1940 enden, was jedoch vier Tage vor ihrem Ablauf außer Kraft gesetzt wurde:
+"Die durch Verordnung bestimmte Zeitrechnung bleibt bis auf weiteres bestehen."
+
+Jedoch wurde die Sommerzeit ab 1942 dreimal durch sogenannte "Verordnungen über die Wiedereinführung der Normalzeit" unterbrochen.
+Somit ergaben sich in den Kriegsjahren Zeiträume, die keinem klaren Schema folgten:
+
+1945, unmittelbar nach dem Krieg, und in den folgenden Jahren bestimmten die Besatzungsmächte die jährliche Umstellung auf die Sommerzeit.
+So gab es die mitteleuropäische Hochsommerzeit (MEHSZ) sowie gesonderte Regelungen für die sowjetische Besatzungszone und Berlin.
+Die Regelungen der Nachkriegszeit sind im Folgenden dargestellt:
+
+Die damaligen Sommerzeitregelungen endeten 1949.
+Von 1950 bis 1979 gab es in Deutschland keine Sommerzeit.
+
+Die erneute Einführung der Sommerzeit wurde in der Bundesrepublik Deutschland 1978 beschlossen, trat jedoch erst 1980 in Kraft.
+Zum einen wollte man sich bei der Zeitumstellung den westlichen Nachbarländern anpassen, die bereits 1977 als Nachwirkung der Ölkrise von 1973 aus energiepolitischen Gründen die Sommerzeit eingeführt hatten.
+Zum anderen musste man sich mit der DDR über die Einführung der Sommerzeit einigen, damit Deutschland und insbesondere Berlin nicht auch zeitlich geteilt waren.
+Die Bundesrepublik Deutschland, mit Ausnahme der Exklave Büsingen am Hochrhein, und die DDR führten deshalb die Sommerzeit gleichzeitig ein.
+Büsingen richtete sich nach der Schweiz und führte die Sommerzeit erst 1981 ein.
+
+In der DDR regelte die Zeitordnung in Verbindung mit der für das jeweilige Jahr gültigen Verordnung über die Einführung der Sommerzeit (erstmals derjenigen vom 31. Januar 1980) die Umstellung.
+Wie politisch aufgeladen das Thema in der damaligen Situation war, wurde auch im Herbst 1980 deutlich, als die DDR unvermittelt ankündigte, die Sommerzeit bereits nach dem ersten Jahr wieder abschaffen zu wollen.
+Dieser Plan sorgte für gewisse Turbulenzen (er wurde in der Bundesrepublik Deutschland als Abgrenzung zum Westen verstanden), obwohl man schließlich doch bei der abgesprochenen Vorgehensweise blieb.
+
+1981 wurde der Beginn vorverlegt.
+1996 schließlich wurden die unterschiedlichen Sommerzeitregelungen in der Europäischen Union vereinheitlicht.
+Damit gilt die Sommerzeit in Deutschland einen Monat länger; sie dauert seither jeweils 30 oder 31 Wochen.
+
+=== Österreich
+
+In Österreich-Ungarn wurde 1916 die Sommerzeit eingeführt.
+Sie galt in Österreich bis 1920, mit Ausnahme von 1919, und in Ungarn bis 1919.
+Gesetzliche Grundlage war bis 1920 die Ermächtigung der Regierung, wirtschaftliche Verfügungen auf Grund des Kriegszustands zu treffen (Cisleithanien: RGBl.
+274/1914, RGBl.
+307/1917; Bosnien und Herzegowina: GVBl.
+167/1914).
+
+Die gesamtstaatliche Gesetzgebung erfolgte gesondert für Cisleithanien, Transleithanien und das zu beiden gehörende Bosnien und Herzegowina.
+Während sich alle cisleithanischen Kronländer auf das Reichsgesetzblatt bezogen, sofern sie den Beschluss für die Sommerzeit in den Landesgesetzblättern wieder veröffentlichten und noch eine Ausführungsanweisung hinzufügten, war dies in Bosnien und Herzegowina nicht der Fall.
+
+Im Jahr 1918 wurde kurzfristig der Termin der Einführung geändert.
+Zuerst wurde am 7. März beschlossen, die Sommerzeit einzuführen, jedoch mit anderem Beginn und Ende als in Deutschland (Beginn am ersten Montag des April und Ende am letzten Montag des September); kurz darauf glich man den Zeitraum an den der verbündeten Deutschen an (DE: Beschluss: 7. März; Cisleithanien: Beschluss: 7. März, Ausgabe: 9. März, Änderung: 25. März, Ausgabe: 26. März; Bosnien und die Hercegovina: B: 19. März, A:
+22. März, Ä: 26. März, A: 28. März).
+1919 wurde der Beschluss zur Einführung der Sommerzeit nach neun Tagen wieder zurückgenommen; die Ausgabe der Änderung erfolgte zwei Tage vor dem geplanten Beginn.
+
+1920 begann die Sommerzeit wie geplant.
+Am 28. April beschloss dann der Salzburger Landtag, ab dem 1. Mai von der Sommerzeit wieder Abstand zu nehmen; die Ausgabe erfolgte zwei Tage vor dem Termin.
+Die Staatsbahnen verkehrten in Salzburg aber weiterhin nach Sommerzeit.
+
+Nach dem Anschluss galten in Österreich ab 1940 dieselben Regelungen wie im übrigen Deutschen Reich (Berliner Zeit).
+Mit der Ankunft der Alliierten 1945 wurden viele nationalsozialistische Regelungen rückgängig gemacht.
+Nach dem Krieg gab es in Österreich noch bis einschließlich 1948 eine Sommerzeit, wobei man sich an Westdeutschland orientierte, aber keine Hochsommerzeit einführte.
+
+1976 wurde mit dem Zeitzählungsgesetz die Grundlage geschaffen, dass die Regierung per Verordnung wieder eine Sommerzeit einführen kann.
+Als Gründe für die Einführung können die Einsparung von Energie und die Abstimmung mit anderen Staaten gelten.
+Die Sommerzeit hat zwischen dem 1. März und dem 31. Oktober zu liegen und an einem Samstag oder Sonntag zu beginnen und zu enden.
+Damals wurde festgelegt, dass die Uhren bei Beginn von 0:00 auf 1:00 Uhr vor und bei Ende von 24:00 auf 23:00 Uhr zurückgestellt werden.
+
+Im Jahr 1981 wurde diese genaue Festlegung aufgehoben und der Verordnung überlassen.
+Wie seit 1917 ist beim Beenden die erste der doppelten Stunde als "A" und die zweite als "B" zu bezeichnen.
+
+1980 wurde die Sommerzeit wie in Deutschland für die Zeit von März bis September wieder eingeführt.
+Seit 1995 wird die jeweilige EU-Richtlinie umgesetzt, und 1996 wurde die Sommerzeit wie in der gesamten EU bis Ende Oktober ausgedehnt.
+
+=== Schweiz
+
+In der Schweiz galt in den Jahren 1941 und 1942 die Sommerzeit von Anfang Mai bis Anfang Oktober.
+1977 wurde mit einem Gesetz die Einführung der Sommerzeit, gleichzeitig mit den Nachbarstaaten, beschlossen.
+Dagegen wehrten sich vor allem die Bauern; es wurden Unterschriften für ein Referendum gesammelt, und in der Volksabstimmung am 28. Mai 1978 wurde das Sommerzeit-Gesetz mit einem Anteil von 47,9 Prozent Ja-Stimmen knapp verworfen.
+
+Da nun die Schweiz sowie die deutsche Enklave Büsingen im Sommer 1980 eine "MEZ-Zeitinsel" inmitten von Ländern mit Sommerzeit war, verabschiedete das Parlament das von der Regierung verlangte Zeitgesetz vom 21. März 1980, auf dessen Grundlage im folgenden Jahr die Sommerzeit wie in den Nachbarstaaten eingeführt wurde.
+Das Gesetz unterstand nach der Verabschiedung durch das Parlament wieder dem fakultativen Referendum.
+Die für ein Referendum notwendigen 50.000 Unterschriften kamen jedoch nicht mehr zustande.
+Das Gesetz trat am 1. Januar 1981 in Kraft.
+So wurde eine Wiederholung des 1980 entstandenen Zeitchaos, z. B. auf grenzüberschreitenden Fahrplänen der Eisenbahn, vermieden.
+
+Eine (unter anderem von Christoph Blocher) 1982 lancierte Volksinitiative zur Abschaffung der Sommerzeit kam nicht zustande.
+Seit 1981 gilt daher auch in der Schweiz die gleiche Sommerzeitregelung wie in ihren Nachbarstaaten: von 1981 bis 1995 Ende März bis Ende September, seit 1996 Ende März bis Ende Oktober, mit Umstellung jeweils am Sonntag um 2:00 Uhr MEZ (1:00 Uhr UTC).
+Spätere politische Vorstöße zur Abschaffung der Sommerzeit scheiterten, so etwa am 10. September 2012 eine Motion im Nationalrat von Yvette Estermann mit 143 zu 23 Stimmen.
+Die klare Begründung des Bundesrates war, dass die Sommerzeit nicht aus Energiespar- oder ähnlichen Gründen eingeführt wurde, sondern "um eine Übereinstimmung der Zeitregelung unseres Landes mit derjenigen benachbarter Länder erreichen zu können."
+
+=== Italien
+
+In Italien wurden die Uhren erstmals im Kriegsjahr 1916 am 25. Mai um eine Stunde vorgestellt, was bis 1920 im Gebrauch blieb.
+Zwischen 1940 und 1948 wurden kriegsbedingt mehrmals unterschiedliche Uhrzeitumstellungen vorgenommen.
+Die längste Zeit am Stück war vom 17. Juni 1940 bis zum 2. November 1942.
+Während der Zeit der Italienischen Sozialrepublik galt teilweise nicht im gesamten Land dieselbe Uhrzeit.
+Auch wurde in Triest die Uhrzeitumstellung durch die jugoslawische Besatzungsmacht untersagt.
+
+Ab dem Jahr 1965 wurde die Möglichkeit einer sommerzeitlichen Uhrzeitumstellung für Energiekrisenzeiten gesetzlich vorgesehen, wovon im Jahr 1966 erstmals Gebrauch gemacht wurde, und so galt in diesem Jahr vom 22. Mai bis zum 24. September eine einstündige Uhrzeitdifferenz.
+Die Sommerzeit musste von der Regierung jährlich bestätigt werden, was bis 1979 so blieb.
+Die Uhren wurden jeweils um Mitternacht umgestellt.
+Das Gesetz sah die Periode des Beginns vom 31. März bis 10. Juni und des Endes vom 20. September bis 31. Oktober vor.
+Um im Jahr 1980 zeitgleich mit den anderen europäischen Ländern die Uhren umzustellen, wurde per Erlass das Gesetz angepasst und der Beginn schon am 28. März ermöglicht.
+Zwei Jahre später wurde dann der früheste Zeitpunkt des Beginns auf den 15. März festgelegt, um ohne weitere Gesetzesänderung mit der EG-Regelung konform gehen zu können.
+
+=== Frankreich
+
+Infolge der Ölkrise 1973 wurde in Frankreich die "heure d'ete" per 28. März 1976 (wieder) eingeführt.
+Die Periode wurde jeweils auf den Zeitraum vom letzten März- bis zum letzten Septemberwochenende festgelegt.
+Frankreich war damit in den Jahren 1976 bis 1979 während der Monate April und Mai das einzige Land mit Sommerzeit in Mitteleuropa, da in Italien erst jeweils Ende Mai umgestellt wurde.
+In den Sommermonaten Juni bis September hatten beide Länder wieder dieselbe Uhrzeit.
+
+== Sommerzeitregelungen
+
+=== Gemeinsame europäische Sommerzeit
+
+Geregelt sind die europäischen Sommerzeiten (WESZ, MESZ, OESZ) für die EU in der Richtlinie 2000/84/EG zur Regelung der Sommerzeit und den ergänzenden Mitteilungen 2001/C 35/07 und 2006/C 61/02.
+
+Auch einige assoziierte Staaten, wie die Schweiz, der Europäische Wirtschaftsraum außer Island, sowie einige andere Länder verwenden diese Regelung.
+Das Verfahren der Sommerzeit wurde im Jahr 2007 bestätigt.
+
+Nach der Ölkrise 1973 führte Frankreich als einziges Land in Mitteleuropa mit der Begründung des Energiesparens die Sommerzeit wieder ein.
+Doch dieses Argument galt bereits damals als höchst fragwürdig.
+Deutsche Schätzungen von 1974 hatten ergeben, dass mit der Sommerzeit nur etwa 2 Promille an Energie eingespart werden könnten, zu wenig, um die Belastungen der Bauern und anderer Interessengruppen durch die Zeitumstellung zu rechtfertigen.
+Die Einführung von Sommerzeiten in allen mitteleuropäischen Staaten bis 1981 war keine Folge der Energiekrisen von 1973 und 1979/80, sondern eine Maßnahme auf dem Weg zur Schaffung eines einheitlichen europäischen Binnenmarktes.
+Die Vereinheitlichung der Gültigkeitszeiten ging von der Europäischen Wirtschaftsgemeinschaft (EWG) aus.
+Die ersten Entwürfe von 1976 (1976/C79/38, 1976/C131/12) traten dann mit der Richtlinie 1980/737/EWG in Kraft, die sich vorerst auf den Zeitraum 1980/81 bezog.
+Es galt die Sommerzeit vom letzten Sonntag im März bis zum letzten Sonntag im September, Zeitumstellung jeweils um 1:00 UTC (2:00 MEZ  3:00 MESZ), sodass die erste gemeinsame Sommerzeit vom 6. April 1980, 2:00 MEZ bis zum 28. September 1980, 3:00 MESZ dauerte.
+(Die Schweiz zog erst ein Jahr später nach.) Diese Regeln wurden vorerst regelmäßig wieder festgesetzt, bis mit der Richtlinie 2000/84/EG eine unbefristet gültige Regelung getroffen wurde.
+Die heute gültige Regel wurde 1996 eingeführt.
+
+==== Westeuropäische Sommerzeit
+
+Die Zeitdifferenz der Westeuropäischen Sommerzeit (WESZ) zur Koordinierten Weltzeit (UTC) (früher Greenwich Mean Time, GMT / Universal Time, UT) beträgt eine Stunde (UTC+1), während die Westeuropäische Zeit (Normalzeit) um null Stunden von der UTC abweicht (UTC+/-0).
+Im internationalen Sprachgebrauch wird die Westeuropäische Sommerzeit auch als Western European Summer Time (WEST) oder Western European Daylight Saving Time (WEDT, amerikanisch auch WET DST), in Großbritannien als British Summer Time (BST) bezeichnet.
+
+==== Mitteleuropäische Sommerzeit
+
+In der Zone der Mitteleuropäischen Zeit (MEZ) ist Sommerzeit die Mitteleuropäische Sommerzeit (MESZ), auf Englisch Central European Summer Time (CEST, britisch) oder Central European Daylight Saving Time (CEDT, CET DST, US-amerikanisch) oder auch Middle European Summer Time (MEST).
+Während MEZ der mittleren Sonnenzeit auf dem 15. östlichen Längengrad entspricht, auf dem beispielsweise Görlitz, Stargard in Polen und Gmünd in Niederösterreich liegen, entspricht MESZ der mittleren Sonnenzeit auf dem 30. östlichen Längengrad, auf dem beispielsweise Sankt Petersburg und Kiew liegen.
+
+Die Zeitdifferenz der Mitteleuropäischen Sommerzeit (MESZ) zur Koordinierten Weltzeit (UTC) (früher Greenwich Mean Time, GMT / Universal Time, UT) beträgt zwei Stunden (UTC+2), während die Mitteleuropäische Zeit (Normalzeit) um eine Stunde von der UTC abweicht (UTC+1).
+
+Die mitteleuropäische Sommerzeit beginnt jeweils am letzten Sonntag im März um 2:00 Uhr MEZ, indem die Stundenzählung um eine Stunde von 2:00 Uhr auf 3:00 Uhr vorgestellt wird, und endet am letzten Sonntag im Oktober um 3:00 Uhr MESZ, indem die Stundenzählung um eine Stunde von 3:00 Uhr auf 2:00 Uhr zurückgestellt wird.
+Die Stunde von 2:00 Uhr bis 3:00 Uhr erscheint im Herbst also zweimal.
+Die erste Stunde (von 2:00 Uhr bis 3:00 Uhr MESZ) wird mit "2A" und die zweite Stunde (von 2:00 Uhr bis 3:00 Uhr MEZ) mit "2B" bezeichnet.
+Damit ist in der Nacht der Umstellung im Frühling beispielsweise der Zeitpunkt "6:00 Uhr" schon fünf Stunden nach Mitternacht erreicht, in derjenigen im Herbst hingegen erst sieben Stunden nach Mitternacht.
+Es wird gewissermaßen die im Frühjahr "eingesparte" Stunde im Herbst "zurückgegeben".
+
+Die Mitteleuropäische Hochsommerzeit (MEHSZ = UT+3) - auch doppelte Sommerzeit genannt - war eine Sonderzeitzone in den Jahren 1945 und 1947 in Deutschland.
+Sie entsprach der British Double Summer Time (UT+2) als Sommerzeit der War Time (UT+1).
+
+==== Osteuropäische Sommerzeit
+
+Die Zeitdifferenz der Osteuropäischen Sommerzeit (OESZ) zur Koordinierten Weltzeit (UTC) (früher Greenwich Mean Time, GMT / Universal Time, UT) beträgt drei Stunden (UTC+3), während die Osteuropäische Zeit (Normalzeit) um zwei Stunden von der UTC abweicht (UTC+2).
+Im internationalen Sprachgebrauch wird die Osteuropäische Sommerzeit auch als Eastern European Summer Time (EEST) oder Eastern European Daylight Saving Time (EEDT, amerikanisch auch EET DST) bezeichnet.
+
+Russland verwendet seit dem 26. Oktober 2014 keine Sommerzeit mehr.
+
+==== Gesetzliche Regelung der Zeitumstellung auf die Sommerzeit und zurück
+
+Vgl. § 2 der deutschen Sommerzeitverordnung.
+
+Um die doppelt erscheinenden Stunden von 2:00 Uhr MESZ bis 3:00 Uhr MEZ am Ende der Sommerzeit unterscheiden zu können, wird die Stunde vor der Zeitumstellung mit 2:00A Uhr, die Stunde nach der Umstellung mit 2:00B Uhr bezeichnet.
+Eine solche Unterscheidung mit A und B wurde in Deutschland bereits 1917 gemäß § 3 der Bekanntmachung über die Sommerzeit praktiziert.
+Sie darf nicht verwechselt werden mit der international üblichen Abkürzung der Zeitzonen, nach der 2:00 Uhr MESZ als 2:00B und 2:00 Uhr MEZ als 2:00A bezeichnet werden.
+
+==== Umsetzung in Deutschland
+
+In Deutschland wird die Zeitumstellung per Rechtsverordnung bestimmt.
+§ 5 Einheiten- und Zeitgesetz (EinhZeitG) ermächtigt das Bundesministerium für Wirtschaft und Energie zum Erlass entsprechender Verordnungen.
+Bis einschließlich 2001 galt die Zeitverordnung von 1997, bis dann im Jahr 2002 mit § 1 Sommerzeitverordnung die Sommerzeit auf unbestimmte Zeit eingeführt wurde.
+Gemäß § 3 der Sommerzeitverordnung gibt das Bundesministerium für Wirtschaft und Energie Beginn und Ende der Sommerzeit bekannt, zuletzt für die Jahre 2016 bis 2020.
+
+Für die technische Umsetzung der Zeitumstellungen ist die Physikalisch-Technische Bundesanstalt (PTB) in Braunschweig zuständig.
+Die PTB kontrolliert die impulsgebenden Atomuhren in Braunschweig.
+Deren Zeit wird mit der Uhr am Langwellensender DCF77 in Mainflingen bei Frankfurt am Main abgeglichen, der von dort Zeitsignale ausstrahlt.
+Diese gehen unter anderem an alle öffentlichen und privaten Funkuhren, an die Steuertechnik von Kraft- und Umspannwerken, die Uhren der Deutschen Bahn AG, die Fahrsteuerung der U-Bahnen und rund 50.000 Verkehrsampeln.
+
+Im Jahr 2021 dauert die Sommerzeit vom 28. März bis zum 31. Oktober.
+
+=== Regelungen außerhalb Mitteleuropas
+
+Die westeuropäische Zeit und osteuropäische Zeit werden - absolut - gleichzeitig mit der mitteleuropäischen Zeit auf Sommerzeit umgestellt, also um 1:00 Uhr bzw. 3:00 Uhr Zonenzeit.
+
+Auch in Russland begann und endete die Sommerzeit an denselben Tagen wie in Mitteleuropa.
+Dort stellte man die Uhr zwar auch um eine Stunde vor, im Ergebnis jedoch um zwei Stunden gegenüber der jeweiligen Zonenzeit, weil die aus Sowjetzeiten fortgeltende so genannte Dekretzeit für das ganze Jahr die Addition von einer Stunde zur jeweiligen Zonenzeit vorschreibt.
+Seit 2011 wurde die Sommerzeit nicht mehr zurückgestellt.
+Im Oktober 2014 wechselte Russland aber wieder zur Normalzeit und verzichtet künftig auf den halbjährlichen Gebrauch der Sommerzeit.
+
+Das ukrainische Parlament verabschiedete im Herbst 2011 eine Verordnung, die die Umstellung auf die Normalzeit abschaffte.
+Diese Maßnahme wurde einige Wochen später wieder rückgängig gemacht.
+Der Wechsel zwischen Sommer- und Normalzeit wird in der Ukraine seit 1981 gleichzeitig mit den meisten Ländern Europas durchgeführt.
+
+Andere Staaten mit Sommerzeit haben abweichende Umstellungstermine.
+Die Sommerzeit beginnt aber durchwegs in den Monaten März oder April und endet in den Monaten September, Oktober oder November (in den Staaten auf der Südhalbkugel umgekehrt).
+
+==== Nordamerika
+
+Die USA verwendeten die Sommerzeit erstmals im Ersten Weltkrieg bis zu dessen Ende.
+Im Zweiten Weltkrieg galt ganzjährig eine der Sommerzeit gleichende War Time.
+
+Im Sommer 1946 kehrten viele Bundesstaaten und Gebiete zur Sommerzeit zurück.
+Seit 1966 fixiert ein Bundesgesetz, wann die Sommerzeit beginnen kann und enden muss.
+
+Der Energy Policy Act of 2005 bestimmt in Sec.
+110 mit dem Titel Daylight Savings, dass die Sommerzeit ab 2007 am zweiten Sonntag im März beginnt und am ersten Sonntag im November endet.
+Sie beginnt damit drei oder vier Wochen früher und endet eine Woche später als zuvor.
+
+In den Bundesstaaten Arizona (mit Ausnahme des Gebietes der Dine, der Navajo Nation Reservation), Hawaii und den meisten US-amerikanischen Außengebieten gibt es keine Sommerzeit, ebenso nicht in der kanadischen Provinz Saskatchewan, Teilen einer Region in British Columbia (Peace River Regional District) und dem an Arizona angrenzenden mexikanischen Bundesstaat Sonora.
+
+In Mexiko beginnt die Sommerzeit am ersten Sonntag im April, also eine Woche später als in Europa.
+Grenznahe Regionen zu den USA haben pragmatischerweise den seit 2007 üblichen Umstellungstermin des Nachbarlandes übernommen.
+Die Sommerzeit endet am letzten Sonntag im Oktober, demselben Tag wie in Europa.
+In den USA und Mexiko werden die Uhren nicht wie in Europa gleichzeitig umgestellt, sondern im März/April jeweils um 2:00 Ortszeit (beispielsweise 10:00 UTC in Kalifornien, 7:00 UTC in New York) vorgestellt, und im Oktober/November um 2:00 lokaler Sommerzeit auf 1:00 Uhr zurückgestellt.
+
+==== Äquator- oder Polnähe
+
+Auf den Wendekreisen schwankt der Zeitpunkt des Sonnenaufgangs weniger als +/- Stunden im Jahr, und auf dem Äquator schwankt er um weniger als +/-20 Minuten (infolge der Zeitgleichung).
+Zum Vergleich:
+In Flensburg schwankt er um etwa +/-2 Stunden, bezogen auf den Mittelwert während der Tagundnachtgleichen im März und September.
+Eine Sommerzeit, das heißt eine (teilweise) Anpassung des Beginns des lichten Tages an den Zeitpunkt des Sonnenaufgangs, wird daher von zahlreichen äquatornahen Staaten auch nicht (mehr) praktiziert (siehe Karte).
+Direkt am Äquator gibt es derzeit nirgendwo eine Sommerzeit.
+
+Auf den Polarkreisen wäre ein einmaliges Vor- und Zurückschalten um eine Stunde pro Jahr bei weitem nicht ausreichend, denn der Zeitpunkt des Sonnenaufgangs schwankt dort um sechs Stunden.
+Jenseits der Polarkreise wäre eine Sommerzeit keine Anpassung des Beginns des lichten Tags an den Zeitpunkt des Sonnenaufgangs mehr, weil der lichte Tag im Polarsommer 24 Stunden lang sein kann (an den Polen während eines halben Jahres).
+
+=== Liste aller Staaten mit Sommerzeit
+
+Die Angaben basieren auf Daten für 2019.
+
+== Vor- und Nachteile
+
+=== Tageslichtnutzung
+
+Die Zeitumstellung intendiert in den Sommermonaten eine Anpassung des Lebensrhythmus an die Tageslichtzeit, so dass der Mensch einen größeren Teil seines Wachzustands bei Sonnenlicht verbringen und nutzen kann.
+So ist die Uhrzeit zum Sonnenaufgang im Hochsommer zum Beispiel nicht mehr gegen 4:00 Uhr Normalzeit, sondern etwa 5:00 Uhr Sommerzeit.
+Entsprechend verschiebt sich die Uhrzeit des Sonnenuntergangs von ungefähr 20:30 Uhr Normalzeit auf 21:30 Uhr Sommerzeit.
+In modernen Industrieländern richten sich die meisten Menschen in ihrem Tagesablauf eher nach der Uhrzeit als nach dem Sonnenstand; der Großteil der deutschen Bevölkerung schläft morgens um 4:00 Uhr noch, abends um 21:30 Uhr aber noch nicht.
+Deshalb stimmt die mit der Uhrzeit verbundene Wachphase der meisten Personen mehr mit der Tageslichtzeit überein.
+So sind auch Freizeitaktivitäten am Nachmittag und Abend länger bei Sonnenlicht sowie angenehmeren Außentemperaturen möglich, u. a. beim Breitensport.
+
+Bei beruflichen Tätigkeiten, die draußen stattfinden, ist es zudem morgens z. B. an heißen Sommertagen noch eine Stunde länger kühl.
+Zum einen kann zwar abends das längere Tageslicht in Verbindung mit einer höheren Temperatur von Menschen, die zeitig zu Bett gehen müssen, als störend beim Einschlafen empfunden werden, zum anderen wird die Nachtruhe so jedoch nicht durch einen frühen Sonnenaufgang beeinträchtigt.
+Die Folgen einer fehlenden Anpassung verdeutlicht die Entwicklung in Russland, wo im Jahr 2011 zunächst die permanente Sommerzeit eingeführt wurde, 2014 aufgrund des späten Sonnenaufgangs im Winter allerdings eine Umstellung auf dauerhafte Normalzeit erfolgte.
+Seitdem werden im Sommer ein unnötiger Verlust von Tageslichtstunden am Abend und Schlafstörungen durch zu frühe Sonneneinstrahlung am Morgen beklagt.
+
+=== Energiebedarf
+
+Eine der offiziellen Begründungen für die Einführung der Sommerzeit war bereits zu Anfang des 20. Jahrhunderts die Einsparung von Energie (vor allem Beleuchtung).
+Dieses Argument war allerdings immer schon umstritten.
+Denn gegenüber anderen Einflüssen ist die Wirkung der Zeitverschiebung auf den Energieverbrauch zu vernachlässigen.
+Schon im Herbst 1916 wies ein Leiter eines kommunalen Energieunternehmens darauf hin, dass der Gasverbrauch nicht nur von der Sommerzeit abhängig sei, sondern ebenso von folgenden Faktoren: "Einschränkung der öffentlichen Beleuchtung, kühle und nasse Witterung, Rückgang des geschäftlichen Lebens, früherer Geschäftsschluss, Beschränkung der Industrie, schlechte wirtschaftliche Lage, Vereinfachung des Küchenbetriebes infolge der Lebensmittelverteuerung und des Mangels an langkochenden Lebensmitteln (Fleisch), Betriebseinschränkungen bei Bäckern und Fleischern, Verminderung des Fremdenverkehrs, Einführung von Münzgasmessern."
+
+Obwohl schon sehr früh klar war, dass die Sommerzeit keinen entscheidenden Einfluss auf den Energieverbrauch nehmen konnte, hielt sich dieses Argument hartnäckig im Bewusstsein der Öffentlichkeit.
+Doch insbesondere bei der Wiedereinführung der Sommerzeit in den mitteleuropäischen Ländern zwischen 1976 und 1981 spielte eine mögliche Energieeinsparung - wenn überhaupt - eine nur untergeordnete Rolle gegenüber dem Argument einer europaweiten Vereinheitlichung der Zeiten.
+
+Die Sommerzeit kann regional gegenteilige Auswirkungen beim Energieverbrauch zeigen.
+So stieg er in Teilen von Indiana nach der Einführung der Sommerzeit 2006 um ungefähr 1 % an, was ein Vergleich des Stromverbrauchs von knapp 224.000 Haushalten ergab.
+Das ursprünglich verfolgte Ziel der Energieeinsparung konnte nicht erreicht werden.
+Vielmehr fiel die Energiebilanz ungünstig aus, da "geringfügige Einsparungen im Frühjahr einem umso stärkeren Stromverbrauch im Spätsommer und Herbst" entgegenstanden.
+Insbesondere ein erhöhter Heizbedarf in den frühen Morgenstunden und eine stärkere Nutzung von Klimaanlagen an den längeren Nachmittagen und warmen Sommerabenden erhöhten insgesamt den Energieverbrauch, wofür die Einwohner der untersuchten Teile Indianas rund 8,6 Millionen US-Dollar pro Jahr mehr zahlten.
+Die Verfasser berechneten zudem die Kosten der stärkeren Umweltverschmutzung für die Gesellschaft auf jährlich 1,6 bis 5,3 Millionen US-Dollar.
+
+Die Daten dieser Untersuchung bezogen sich allerdings nur auf Privathaushalte.
+Industrieanlagen und andere Wirtschaftsbereiche wurden nicht einbezogen.
+Die Verfasser vermuteten aber, dass sich die meisten Unternehmen an normale Arbeitszeiten bei Tageslicht halten und daher weniger von der Sommerzeitumstellung betroffen seien als Privathaushalte.
+
+Dass auch in Deutschland durch die saisonale Zeitumstellung kaum Energie eingespart wurde, bestätigte die Bundesregierung 2005 auf eine Anfrage der FDP-Fraktion.
+Man wolle aber an der Umstellung festhalten, solange die Mitgliedstaaten der EU nicht gemeinsam die Absicht hätten, die Sommerzeit abzuschaffen.
+
+Auch das Umweltbundesamt stellte keine positiven Energiespareffekte fest, da die Einsparung an Strom für Beleuchtung durch den Mehrverbrauch an Heizenergie durch die Vorverlegung der Hauptheizzeit "überkompensiert" werde.
+Der zunehmende Einsatz von Energiesparlampen würde diesen Effekt in Zukunft zudem weiter verstärken.
+Zu einer ähnlichen Einschätzung kommt der Bundesverband der Energie- und Wasserwirtschaft.
+2009 wurde ein Alleingang erneut abgelehnt, weil eine einheitliche Zeitregelung "für ein reibungsloses Funktionieren des Binnenmarktes unerlässlich" sei.
+
+=== Alternativen zur beabsichtigten Energieeinsparung durch die Sommerzeit
+
+Besonders in den zentral gelenkten Planwirtschaften des Ostblocks wurden in einigen Ländern leicht gestaffelte Arbeitszeiten (Arbeitsbeginn in den verschiedenen Betrieben 7 bis 9 Uhr) eingeführt, um den morgendlichen Stromverbrauch zu senken.
+Denn für die Sicherstellung der Stromversorgung ist nicht nur der Gesamtverbrauch entscheidend, sondern auch die Verbrauchsspitzen, für die zusätzliche Kraftwerkskapazitäten als Reserven benötigt würden.
+Der öffentliche Personentransport und der private Autoverkehr mit den morgendlichen Stoßzeiten wurde so auch etwas verteilt und entlastet.
+
+Unabhängig von der Sommerzeit wurde in einigen Branchen und Betrieben schon lange vorher eine unterschiedliche Lage der Arbeitszeit im Sommer und im Winter gehandhabt - was ebenfalls eine Veränderung des Schlaf- und Wachrhythmus in der jeweiligen Jahreszeit erforderte.
+
+In der DDR wurde Anfang 1969 der gesamte Schulunterricht um zwei Stunden nach hinten verschoben, um Energie zu sparen.
+Diese Praxis wurde aber bereits nach einer Woche wieder aufgegeben, da die morgendliche Energieeinsparung vom Energieverbrauch in den Nachmittagsstunden wieder zunichtegemacht wurde.
+
+=== Menschliche Biologie
+
+Befürworter der Sommerzeit argumentieren, dass sich die heutigen Lebensgewohnheiten geändert hätten.
+Daher sei es für viele Menschen vorteilhaft, abends länger bei Tageslicht die Freizeit gestalten zu können, wodurch ihre Produktivität erhöht werde.
+Kritiker führen an, dass bei der Zeitumstellung die Anpassung an den neuen Tagesrhythmus mindestens mehrere Tage dauere, gesundheitsschädlich sei und während der Umstellungsphase die Produktivität verringere.
+Es lägen physiologische Studien vor, nach denen einige zirkadian schwankende Hormonspiegel, ähnlich dem des Stresshormons Kortisol, bis zu viereinhalb Monate brauchten, um sich vollständig den neuen Gegebenheiten anzupassen (wobei die Umstellung im Frühjahr mehr Probleme bereite).
+Ob allein diese Hormonspiegelschwankungen bereits krankheitsfördernd wirken, ist jedoch nicht belegt.
+
+=== Abweichung vom Sonnenstand
+
+Der Mittag der heute nicht mehr gebräuchlichen wahren Ortszeit (WOZ) teilt den Zeitabschnitt zwischen Sonnenauf- und -untergang nahezu symmetrisch:
+Um 12 Uhr WOZ hat die Sonne ihren höchsten Stand.
+Der Auf- und Untergang der Sonne liegen in nahezu gleichem Zeitabstand vor bzw. nach diesem Zeitpunkt.
+Die gleichmäßiger ablaufende mittlere Ortszeit (gemittelte Sonnenzeit), die durch den Gebrauch mechanischer Uhren notwendig wurde, unterscheidet sich von der wahren Ortszeit nur um die Zeitgleichung, die übers Jahr zwischen -14 und +16 Minuten schwankt.
+
+Zusätzliche Abweichungen bestehen seit dem Gebrauch von Zonenzeiten: bis zu +/-30 Minuten zur mittleren Ortszeit im Idealfall.
+Größere Werte könnten durch Benutzung der vorherigen/nächsten Zonenzeit vermieden werden, was aber durch die i. d. R. nicht auf mittig zwischen den Bezugs-Meridianen der Zeitzonen verlaufenden Landes- und inländischen Gebietsgrenzen und durch politisch motivierte Wahl der Zeitzone verhindert wird.
+In Ländern mit Mitteleuropäischer Zeit (MEZ; Bezugsmeridian: 15° Ost) sind diese zusätzlichen Abweichungen an der westlichen Grenze Deutschlands +36 Minuten und an der westlichen Grenze Spaniens (Galicien) +96 Minuten.
+Das ostwestlich weit ausgedehnte China ist nicht in mehrere Zeitzonen unterteilt, weshalb diese zusätzliche Abweichung an seinem Westrand mehr als +3 Stunden von der amtlichen Zeit (Bezugsmeridian: 120° Ost) beträgt.
+(China verwendet allerdings landesweit keine Sommerzeit.)
+
+Während der Sommerzeit vergrößern sich diese teilweise schon beträchtlichen positiven Abweichungen im westlich des Bezugsmeridians liegenden Teil einer Zeitzone um eine weitere Stunde; so ist etwa am Westrand Deutschlands Sonnen-Mittag 13:36 und am Westrand Spaniens 14:37 Uhr.
+Im östlich des Bezugsmeridians liegenden Teil einer Zeitzone werden die negativen Abweichungen dagegen entweder im Betrag um eine Stunde kleiner oder sie ändern ihr Vorzeichen; so wird beispielsweise im Nordosten Norwegens in Grense Jakobselv der Sonnen-Mittag um 11:57 statt um 10:57 während der Normalzeit erreicht.
+Alle Angaben sind ohne Berücksichtigung der Zeitgleichung (s. oben).
+
+=== Technischer Aufwand
+
+Alle Uhren müssen zweimal im Jahr umgestellt werden.
+Immer mehr Uhren werden heute über ein Funksignal (Funkuhr) automatisch gestellt, viele müssen aber insbesondere in Privathaushalten nach wie vor manuell umgestellt werden.
+Computeruhren können ebenfalls automatisch über eine Funktion des Betriebssystems gestellt werden.
+Allerdings gibt es Rechnerprogramme mit Echtzeitfunktion, die die Betriebssystemfunktion zur Sommerzeitumstellung nicht nutzen und manuell umkonfiguriert werden müssen.
+Das gleiche Problem gibt es auch bei Schaltsekunden.
+
+Bei der Umstellung zunächst vergessene Uhren, zum Beispiel in Fotokameras, können später für Verwirrung sorgen.
+Problematisch können die Ereignisaufzeichnungen von solchen Uhren sein, die von einem autorisierten Personenkreis betreut werden, wenn die Umstellung erst einige Tage später vorgenommen wird und die gespeicherten Zeiten und darauf basierende Auswertungen somit falsch sind.
+
+=== Keine lineare Zeitskala
+
+Mit der Sommerzeit wird eine - für ein bestimmtes Gebiet - gleichmäßig verlaufende Zeitskala aufgegeben und werden pro Jahr zwei Sprungstellen eingeführt.
+Im Frühling zum Zeitpunkt der ersten Umstellung pro Kalenderjahr (Annahme: Nordhalbkugel) fehlen in der gesetzlichen Zeitskala Koordinaten in einem Intervall von 60 Minuten.
+Bei der Rückstellung im Herbst finden sich Zeitkoordinaten eines ebensolangen Intervalls doppelt.
+Die Skala wird also uneindeutig, sie hat arithmetisch eine Lücke und eine Überlappung.
+
+So bedarf es zur bloßen Zeitangabe in Mitteleuropa z. B. 28. Oktober 2018, 2:33 Uhr zusätzlich der Angabe, auf welche Skala sich die Zeitkoordinate bezieht: MEZ oder MESZ.
+Das bedeutet zusätzlichen Programmier- und Rechenaufwand und eine mögliche Fehlerquelle.
+Zum Bestimmen der Umstellungstage ist die Wochentagsberechnung zur Ermittlung der monatsletzten Sonntage im März und Oktober nötig.
+
+Weltweit gelingen Zeitvergleiche und Zeitkoordinierung anhand von lokalen Zeitangaben über Länder- und Zonengrenzen hinweg erst über Konsultation von sich mit der Zeit - politisch - verändernden Tabellen; mit Sicherheit daher auch nur für die Vergangenheit.
+
+== Auswirkungen der Umstellung
+
+=== Psychologie und Medizin
+
+Nach einer Studie von Imre Janszky und Rickard Ljung erhöht die Umstellung auf die Sommerzeit das Herzinfarktrisiko.
+Weitere Psychologen und Mediziner haben negative Auswirkungen der Zeitumstellung festgestellt, da die Anpassung des chronobiologischen Rhythmus des Organismus problematisch verlaufen kann.
+Besonders Menschen mit Schlafstörungen oder organischen Erkrankungen haben hier offenbar größere Schwierigkeiten.
+In einer repräsentativen Umfrage der DAK im Oktober 2019 gaben 29 % der Teilnehmer an, dass ihnen die Umstellung Beschwerden bereite.
+
+Die "Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme" (ICD) enthält das Krankheitsbild Nichtorganische Störung des Schlaf-Wach-Rhythmus (ICD-10-Code: F51.2), vergleichbar dem Jetlag.
+
+=== Tiere und Landwirtschaft
+
+Aus der Landwirtschaft ist bekannt, dass Milchkühe etwa eine Woche benötigen, um sich auf die neuen Melkzeiten umzustellen.
+Besonders bei der Zeitumstellung im Herbst ist der veränderte Tagesablauf auf den Höfen am lauten Muhen einiger Kühe morgens deutlich zu verfolgen.
+Bei der Frühjahrsumstellung ist die Milchleistung einige Tage lang geringer.
+Die meisten Landwirte verteilen die Zeitumstellung für das Melken über mehrere Tage, um so die Folgen zu mildern.
+Die Veränderung des menschlichen Tagesrhythmus kann sich auch auf das Fressverhalten bei Haustieren auswirken.
+Experten empfehlen daher eine langsame Umstellung durch Verschiebung der täglichen Abläufe um 10 bis 15 Minuten.
+
+=== Nachtdienste
+
+Während die Zeitumstellung für die meisten Bürger sozusagen "im Schlaf" erfolgt, stellt sie verschiedene Einrichtungen vor mehr oder weniger große Probleme.
+Einrichtungen mit nächtlichem Bereitschaftsdienst haben damit zu kämpfen, dass entweder der Dienst eine Stunde länger oder aber die Ruhezeit eine Stunde verkürzt ist und somit eventuell nicht mehr den gesetzlichen Anforderungen genügt.
+Daher müssen häufig für die Tage der Zeitumstellung eigene Dienstpläne erstellt werden, was zusätzliche Kosten verursacht.
+
+=== Straßenverkehr
+
+Ob die Zeitumstellung einen Einfluss auf die Zahl der Verkehrsunfälle in der Umstellungsphase hat, ist nicht klar; Untersuchungen dazu kamen zu unterschiedlichen Ergebnissen.
+Die Unfallquote ist während der Sommerzeit insgesamt niedriger.
+Nach der Umstellung im Herbst wird vor einer erhöhten Gefahr gewarnt, da der Feierabendverkehr dann stärker mit dem Wildwechsel in der Abenddämmerung zusammenfällt.
+
+=== Öffentliche Verkehrsmittel
+
+Bei der Umstellung von Normal- auf Sommerzeit verkehren die Züge mit einer Stunde Verspätung bis zum Zielbahnhof.
+Bei den digitalen Uhren der Deutschen Bahn erscheint nach 1:59 Uhr die Anzeige 3:00 Uhr.
+Das Vorstellen der analogen Bahnhofsuhren erfolgt durch zusätzliche Halbminutentaktimpulse.
+Das Umstellen der Analoguhr dauert etwa fünf Minuten.
+
+Zügen, die während der Umstellung auf Sommerzeit unterwegs sind (in der Regel Güterzüge, Nachtzüge und S-Bahnzüge in den Ballungsräumen), fehlt eine Stunde.
+Wenn möglich, werden Güterzüge vor der planmäßigen Abfahrtszeit auf die Reise geschickt, so dass sie ihren Zielort mit nur geringer oder oft auch ohne Verspätung erreichen.
+S-Bahnzüge, die nur innerhalb dieser Stunde unterwegs wären, fallen aus.
+Nachtzüge haben oft fahrplanmäßig längere Aufenthalte, die gekürzt werden können.
+Wo dies nicht möglich ist, kommen die Züge an diesem Tag verspätet ans Ziel.
+
+Im umgekehrten Fall, also beim Zurückstellen der Uhren im Herbst, ist die Stunde zwischen 2:00 und 3:00 Uhr zweimal vorhanden.
+Züge, die in dieser Stunde unterwegs sind, werden in einem geeigneten Bahnhof eine Stunde lang angehalten.
+Dadurch kommt der Zug laut Fahrplan zwar pünktlich an, die tatsächliche Reisezeit erhöht sich aber trotzdem um eine Stunde.
+Diese Anhalte-Regel wird aber nur bei Zügen angewandt, die noch eine längere Wegstrecke vor sich haben.
+Im Stundentakt oder öfter fahrende Züge, deren planmäßige Abfahrtszeit zwischen 2:00 und 3:00 Uhr liegt, müssen zweimal abfahren.
+Dies erhöht die notwendige Anzahl von Fahrzeugen und Personal.
+Außerdem müssen für diese Zeitumstellung auch deshalb besondere Fahrpläne erstellt werden, weil dieser "doppelt vorhandene" Zug bei identischer Zugnummer zu Fehlermeldungen in der Stellwerkselektronik führen würde.
+
+Diese Vorgehensweise wird von der Deutschen Bahn, von den Schweizerischen und Österreichischen Bundesbahnen sowie auch von weiteren europäischen Eisenbahnunternehmen angewandt.
+
+=== Luftfahrt
+
+Die Luftfahrt, die zumeist über mehrere Zeitzonen hinweg fliegt und koordiniert wird, arbeitet immer mit der Koordinierten Weltzeit (UTC), die von der Sommerzeit-Umstellung nicht betroffen ist.
+Es müssen also keine Flugzeuge irgendwo warten, wie es bei der Eisenbahn der Fall ist.
+Lediglich die Umrechnung in Ortszeit (Local Time) verschiebt sich um eine Stunde - also die Ein- und Aussteigezeit für die Passagiere, die an den Flughäfen in Ortszeit angegeben wird.
+Dies führt gegebenenfalls dazu, dass Flugzeuge morgens vor dem Ende eines in Ortszeit geltenden Nachtflugverbots am Zielort ankommen würden.
+Solche Flüge fliegen dann in der Regel am Vorabend später ab.
+
+=== Wissenschaft und Technik
+
+Datenaufzeichnungen, die die gesetzliche Zeit als Zeitstempel verwenden, lassen sich nur auswerten, wenn die zum Zeitpunkt der Aufzeichnung gültige Sommerzeitregelung bekannt ist.
+
+=== Informationstechnik
+
+IT-Systeme müssen für die Umstellung ausgerüstet sein oder gewartet werden.
+
+Viele Betriebssysteme verwenden ein an die Koordinierte Weltzeit (UTC) angelehntes System (etwa Unixzeit) als Systemzeit und für gespeicherte Zeitstempel.
+Da diese Systeme keine Sommerzeit kennen, hat die Sommerzeit keine Auswirkungen auf den Betrieb; diese wird nur bei der Berechnung der gesetzlichen Zeit für eine benutzerfreundliche Darstellung berücksichtigt.
+Es gibt auch Betriebssysteme, die stattdessen die gesetzliche Zeit als Systemzeit und für gespeicherte Zeitstempel verwenden, aber in diesen Zeitstempeln keine Informationen darüber ablegen, ob dies die Normal- oder die Sommerzeit ist.
+Dadurch gibt es neben dem Stunden-Loch zum Beginn und doppelten Zeitstempeln zum Ende der Sommerzeit ein weiteres Problem:
+Wie lautet zu gespeicherten Zeitstempeln in Ortszeit die passende Zeitangabe in Koordinierter Weltzeit, und wie werden gespeicherte Zeitstempel (z. B. auf Dateien) bei aktiver Sommerzeit einerseits und bei Normalzeit andererseits angezeigt - und welche der beiden Darstellungen ist korrekt?
+
+Sofern Standards wie die UTC nicht verwendet werden, kommt es bei der Umstellung von Sommerzeit auf normale Zeit zu folgenden Problemen:
+
+Dies kann Auswertungen durcheinanderbringen.
+Datenbanksysteme mit starker Bindung an Datum und Uhrzeit können inkonsistent werden.
+
+Die Umstellung der Zeit ist meist abhängig vom Betriebssystem.
+Manche brauchen manuelle Eingriffe, andere können die Umstellung automatisch durchführen.
+Dabei erfolgt der Zeitsprung aber nicht immer zum gesetzlich vorgesehenen Zeitpunkt, sondern passiert "implementierungsabhängig" vielleicht einige Minuten später.
+Auch bei der vollautomatischen Umstellung kommt es durch fehlerhafte Implementierungen der Sommerzeitregelung immer wieder zu falschen Zeitangaben und Fehlverhalten der Geräte über einen längeren Zeitraum.
+
+Komplexe Softwaresysteme können auch eine vom Betriebssystem abweichende "Zeitverwaltung" haben.
+So gibt es z. B. in neueren SAP-Systemen eine "Zeitdehnung", bei der von 2:00 MESZ bis 3:00 MEZ die "SAP-Zeit" langsamer läuft und dadurch der Zeitsprung ganz vermieden wird.
+Offen bleibt bei solchen Lösungen jedoch die Koordination mit anderen Systemen, deren Zeit anders verläuft.
+
+Durch die Änderung der Sommerzeit in den USA, in Kanada und Brasilien (siehe oben) wurden für die Umstellung auf die Sommerzeit im Jahr 2007 Anpassungen für viele Softwaresysteme notwendig.
+Für von den Herstellern nicht mehr voll gewartete Systeme konnte das zu Problemen bei der automatischen Zeitumstellung führen.
+Die Internet Assigned Numbers Authority führt in ihrer Datenbank eine stets aktualisierte Liste der Sommerzeit- und Zeitzonen-Änderungen sämtlicher Gebiete der Welt.
+Diese Datenbank wird in allen modernen Betriebssystemen eingebunden (z. B. über das Paket tzdata unter Linux).
+
+=== Religionsausübung
+
+Die Zeitumstellung führt auch zu Problemen in der Religionsausübung.
+Jüdische und muslimische Gebets- und Fastenzeiten richten sich nach dem Sonnenstand.
+Sommerzeitregelungen verändern daher die Zeit zwischen Morgengebet und Arbeitsbeginn bzw. Arbeitsende und Abendgebet bzw. Fastenbrechen.
+Aus diesem Grund gab es immer wieder Konflikte zwischen religiösen und säkularen Juden.
+Daher wird seit 2005 in Israel die Sommerzeit vor dem Jom Kippur (strenger Fastentag) beendet.
+2011 setzte die Palästinensische Autonomiebehörde die Sommerzeit zwischen 1. und 29. August für die Zeit des Ramadans aus, damit die Wartezeit bis zum Fastenbrechen am Abend nicht zu lange dauert, im Gazastreifen beendete man sie ganz.
+
+Die seit 1852 geltenden Regeln über die Nutzung der Grabeskirche in Jerusalem und der Geburtskirche in Bethlehem durch die verschiedenen Konfessionen sehen eine Sommerzeit nicht vor.
+Deshalb richten sich die Öffnungs- und Gebetszeiten auch im Sommer unverändert nach der Normalzeit, während außerhalb der Kirche die Sommerzeit gilt.
+
+== Permanente Sommerzeit
+
+In einigen Staaten und Regionen wurde in jüngerer Vergangenheit nicht mehr zur Normalzeit zurückgewechselt.
+Die halbjährliche Zeitumstellung wurde abgeschafft und die bisherige Sommerzeit zur ganzjährig geltenden Zeit erklärt, was einem Wechsel in die nächstöstlichere Zeitzone entspricht.
+Eine solche permanente Sommerzeit wird aktuell zum Beispiel in Argentinien, Island, Marokko, Namibia, Turkmenistan, Usbekistan, Weißrussland, in der Türkei sowie in Teilen Chiles, Kanadas und Kasachstans benutzt.
+In der Europäischen Union wird angesichts der aktuellen Diskussion über die Abschaffung der Zeitumstellung in einigen Staaten eine ganzjährige Sommerzeit diskutiert; auch in den Vereinigten Staaten möchten mehrere Bundesstaaten eine ganzjährige Sommerzeit einführen und haben entsprechende Gesetzesinitiativen verabschiedet.
+
+Befürworter einer ganzjährigen Sommerzeit argumentieren, dass diese die gleichen Vorteile wie eine halbjährliche Sommerzeit biete (z. B. bessere Tageslichtnutzung), ohne dabei mit Uhrenumstellungen in Verbindung gebrachte Komplikationen in der Bevölkerung zu verursachen.
+Mit einer ganzjährigen Sommerzeit wird die einstündige Verschiebung der Tageslichtphase in den Abend, verbunden mit weniger Tageslicht in den Morgenstunden, auch auf das Winterhalbjahr ausgedehnt.
+In höheren geographischen Breiten kann dies aufgrund der kurzen Tageslichtphase im Winter eine verhältnismäßig späte Uhrzeit des Sonnenaufgangs zur Folge haben, der Menschen, die früh in den Tag starten müssen (z. B. Schüler und Berufstätige) dazu zwingt, morgens eine längere Zeit bei Dunkelheit zu verbringen.
+Dies gilt umso mehr, je weiter westlich man sich innerhalb der Zeitzone befindet.
+Im Gegenzug geht die Sonne abends zu einer um eine Stunde späteren Uhrzeit unter, was unter anderem zur Folge hat, dass im Winter das Ende des Arbeitstages bei mehr Menschen noch bei Tageslicht stattfindet und der Feierabendverkehr weniger mit dem Einbruch der Dunkelheit zusammenfällt.
+
+Viele Schlafforscher und Chronobiologen raten von einer ganzjährigen Sommerzeit ab und sprechen sich stattdessen für eine permanente Beibehaltung der Normalzeit aus.
+Bei einer ganzjährigen Sommerzeit sehen sie die Gefahr, dass die Synchronisation der biologischen Uhr des Menschen durch den späten Sonnenaufgang im Winter und das damit fehlende Tageslicht am Morgen behindert wird, was zu einem steigenden Schlafmangel und langfristig zu negativen Folgen für die Gesundheit führe.
+Selbst die abendliche Helligkeit im Sommer beurteilen manche als erschwerend für Personen, die sehr früh aufstehen müssen.
+Andere Wissenschaftler warnen vor einer übertriebenen Einschätzung negativer gesundheitlicher Folgen und verweisen auf mögliche Vorteile einer ganzjährigen Sommerzeit sowie die zunehmende Flexibilität der individuellen Schlafgewohnheiten des Menschen in der modernen Gesellschaft.
+
+Einige Staaten hatten in der Vergangenheit eine ganzjährige Sommerzeit eingeführt und diese nach kurzer Zeit wieder abgeschafft, nachdem es innerhalb der Bevölkerung zu Beschwerden über die lange morgendliche Dunkelheit im Winter kam.
+So schaffte zum Beispiel Chile die im Jahr 2015 eingeführte ganzjährige Sommerzeit bereits im nächsten Jahr wieder ab und kehrte zum halbjährlichen Wechsel zwischen Normalzeit und Sommerzeit zurück; ein weiteres Beispiel ist Russland, wo 2011 die ganzjährige Sommerzeit eingeführt wurde und 2014 eine Umstellung auf ganzjährige Normalzeit erfolgte.
+In beiden Fällen muss aber berücksichtigt werden, dass bereits die offizielle Normalzeit teilweise deutlich von der Sonnenzeit abweicht; so benutzt Chile während der Normalzeit die Zonenzeit UTC-4, obwohl dort UTC-5 eher der Sonnenzeit entspricht.
+Auch in weiten Teilen Russlands eilt die Zonenzeit der örtlichen Sonnenzeit aufgrund der aus Sowjetzeiten fortgeltenden Dekretzeit um eine Stunde oder mehr voraus; diese Differenz wurde durch die ganzjährige Sommerzeit um eine weitere Stunde vergrößert.
+2016 wechselten mehrere russische Verwaltungsregionen die Zeitzone und stellten ihre Uhren so wieder dauerhaft um eine Stunde vor, nachdem sich die dortige Bevölkerung darüber beschwert hatte, dass es in den Sommermonaten morgens zu früh hell und abends zu früh dunkel wurde.
+
+== Politische Entwicklung
+
+=== Deutschland
+
+Im April 2014 fasste die deutsche Regierungspartei CDU den Parteitagsbeschluss, sich innerhalb der EU für die Abschaffung der Zeitumstellung und eine einheitliche Neuregelung einzusetzen.
+Im Januar 2017 griff die CDU/ CSU-Bundestagsfraktion diesen Beschluss auf .
+Dennoch stimmten die Unionsparteien als Teil der Großen Koalition im März 2018 gegen den Antrag der FDP im Deutschen Bundestag, ein Ende der Zeitumstellung auf EU-Ebene zu unterstützen.
+
+Im Rahmen einer repräsentativen Umfrage von YouGov im März 2016 lehnten 60 % der Befragten die Zeitumstellung ab.
+Bei einer weiteren repräsentativen Umfrage im Auftrag der Krankenkasse DAK im Frühjahr 2018 sprachen sich 73 % der Teilnehmer gegen die Zeitumstellung aus.
+
+Seitdem in der Europäischen Union eine Abschaffung der bisherigen Regelung angestrebt wird, kamen Befragungen zu der fortan bevorzugten Zeit in Deutschland zu unterschiedlichen Ergebnissen.
+Während bei zwei Umfragen der Kantar Group im Oktober 2018 und März 2019 jeweils mehrheitlich die Sommerzeit befürwortet wurde, votierte in einer von der Initiative Markt- und Sozialforschung beauftragten YouGov-Umfrage im September 2018 eine Mehrheit für die Normalzeit, wobei die Begriffe Winter- und Sommerzeit bewusst nicht verwendet wurden.
+
+Abgesehen von Wortmeldungen einzelner Politiker hat die Deutsche Regierung bislang keine geschlossene Haltung in dieser Frage eingenommen.
+Federführend agiert hier das Bundesministerium für Wirtschaft und Energie (BMWi), dessen Leiter Peter Altmaier sich im Oktober 2018 für eine dauerhafte Sommerzeit aussprach.
+Das Ministerium befindet sich jedoch nach wie vor in einem Abstimmungsprozess mit deutschen Verbänden, anderen Ministerien und den EU-Staaten, um eine harmonisierte Lösung zu erreichen.
+
+Auch Äußerungen aus der Wirtschaft und von diversen Verbänden ergaben bislang kein einheitliches Meinungsbild.
+Bei einer vom ifo Institut für Wirtschaftsforschung vorgenommenen Befragung von mehr als 1300 Unternehmen erhielten zwischen April und Juni 2019 sowohl die Normalzeit als auch die Sommerzeit jeweils 38 % Zuspruch.
+Die restlichen 24 % zeigten sich bis dahin unentschieden.
+Dabei befürworteten viele Firmen aus dem Energiesektor eher die Normalzeit, während insbesondere der Handel und das Gastgewerbe die Sommerzeit präferierten.
+So plädierte der Deutsche Hotel- und Gaststättenverband (DEHOGA) bereits im September 2018 für eine dauerhafte Sommerzeit.
+Scharfer Widerspruch kam von Seiten des Deutschen Lehrerverbands (DL), der im März 2019 eine ständige Normalzeit forderte und eine permanente Sommerzeit für unverantwortlich hielt.
+Ende März 2019 mahnte der Bundesverband der Deutschen Industrie (BDI) eine einheitliche EU-Regelung an, um die Logistik des Europäischen Binnenmarkts nicht zu beschädigen.
+Der Zentralverband des Deutschen Baugewerbes (ZDB) befürchtete derweil ein absehbares Chaos und setzte sich für eine Beibehaltung der Zeitumstellung ein.
+
+=== Balearen
+
+Im Oktober 2016 nahm das Regionalparlament der Balearen den Antrag der linksökologischen Partei Mes de Menorca einstimmig an, die Sommerzeit das ganze Jahr über beizubehalten.
+Damit stellte es sich zugleich gegen umgekehrte Bestrebungen der Zentralregierung Spaniens, die Sommerzeit abzuschaffen, also die Normalzeit ganzjährig einzuführen.
+Nach der Antragsannahme will sich die Regionalregierung bei der Zentralregierung in Madrid sowie bei der Europäischen Union dafür einsetzen, dass die Balearen künftig die Zeitumstellung aussetzen dürfen.
+Die ganzjährige Beibehaltung der Sommerzeit (MESZ) würde "gesundheitliche, wirtschaftliche und gesellschaftliche Vorteile" mit sich bringen.
+
+=== Polen
+
+In Polen sorgte die oppositionelle Bauernpartei Polskie Stronnictwo Ludowe 2017 für Zustimmung bei allen Sejm-Fraktionen, nachdem ihr Vorsitzender Wladyslaw Kosiniak-Kamysz die Forderung aufstellte, ab dem 1. Oktober 2018 die mitteleuropäische Sommerzeit für das ganze Jahr einzuführen.
+Auch bei der PiS-Regierung stieß das Projekt auf Zustimmung.
+Eine Sprecherin des polnischen Wirtschaftsministeriums lehnte das Vorhaben jedoch ab:
+"Ein polnischer Alleingang würde ja bedeuten, dass wir sechs Monate im Jahr die Uhr umstellen müssten, wenn wir unsere westliche oder südliche Landesgrenze übertreten.
+Die Folge wäre ein Durcheinander in der Zusammenarbeit mit unseren engsten Partnern, auch für Touristen." Zudem beschäftige sich die EU-Kommission mit den Forderungen nach einer EU-weiten Abschaffung der Zeitumstellung.
+
+=== Europäische Union
+
+Am 8. Februar 2018 beauftragte das EU-Parlament die EU-Kommission mit 384:153 Stimmen damit, eine "gründliche Bewertung der Richtlinie über die Regelung der Sommerzeit vorzunehmen und gegebenenfalls einen Vorschlag zu ihrer Überarbeitung vorzulegen".
+Vom 5. Juli bis 16. August 2018 konnten sich mehr als 500 Millionen EU-Bürger online zu ihren Erfahrungen mit der Sommerzeit und zur Frage der Beibehaltung oder Abschaffung der Zeitumstellung äußern.
+Nach Kommissionsangaben gingen mehr als 4,6 Mio. Antworten ein, was im Vergleich zu anderen öffentlichen Befragungen einen Rekord darstellt.
+In der Umfrage sprachen sich 84 % der Teilnehmer für eine Abschaffung der Zeitumstellung aus.
+Die Umfrage gilt nicht als repräsentativ.
+
+Die Beteiligung an der Umfrage war in Deutschland am größten, wo 3,79 % der Bevölkerung teilnahmen.
+Auf den nächsten Rängen folgten Österreich (2,94 %), Luxemburg (1,78 %), Finnland (0,96 %) und Estland (0,94 %).
+Die geringste Beteiligung wurde im Vereinigten Königreich (0,02 %), Italien, Rumänien (jeweils 0,04 %), Dänemark (0,11 %) und den Niederlanden (0,16 %) verzeichnet.
+In zwei der 28 EU-Mitgliedsländer befürwortete die Mehrheit der Teilnehmer die Beibehaltung der Zeitumstellung, und zwar in Griechenland (56 %) und Zypern (53 %).
+In allen anderen EU-Ländern sprachen sich die Teilnehmer mehrheitlich für die Abschaffung der Zeitumstellung aus.
+Die höchste Zustimmungsrate für die Abschaffung der Zeitumstellungen gab es bei den Umfrageteilnehmern in Finnland und Polen (jeweils 95 %).
+Für den Fall einer Abschaffung der Umstellung sprachen sich EU-weit die meisten Teilnehmer für eine "ständige Sommerzeit" aus.
+Ein ähnliches Bild ergab sich in den Ländern Deutschland und Österreich.
+
+Danach kündigte EU-Kommissionspräsident Jean-Claude Juncker bei der Bekanntgabe des Umfrageergebnisses am 31. August 2018 an, die EU-Kommission werde, entsprechend dem ermittelten Bürgerwillen, eine Abschaffung der Zeitumstellung anstreben.
+Dies erforderte die Zustimmung des EU-Parlaments (die als sicher galt und später auch erteilt wurde, siehe unten) und erfordert noch die Zustimmung der EU-Mitgliedsstaaten.
+Litauen, Estland, Lettland und Finnland hatten sich zuvor bereits für eine Abschaffung der Zeitumstellung ausgesprochen.
+
+Die britische Regierung erklärte nach der Abstimmung, sie habe "derzeit keine Pläne, die Zeitumstellung abzuschaffen".
+Norbert Hofer, Verkehrsminister von Österreich, das in der zweiten Hälfte des Jahres 2018 den EU-Ratsvorsitz führte, erklärte am 3. Dezember 2018, die Zeitumstellungen würden frühestens 2021 abgeschafft, um eine längere Koordinierung bei der Umsetzung zu ermöglichen.
+
+Am 26. März 2019 stimmten 410 Abgeordnete des EU-Parlaments für die Abschaffung der Zeitumstellungen, 192 dagegen.
+Die letztmalige Umstellung soll demnach im Jahr 2021 erfolgen.
+Die Mitgliedsstaaten können dann selbst entscheiden, ob sie dauerhaft die Normalzeit oder die bisherige Sommerzeit beibehalten wollen.
+Die einzelnen Staaten tun sich mit der Abschaffung der Sommerzeit jedoch aus verschiedenen Gründen schwer, zumal die Zeitumstellung in den meisten Ländern (mit Ausnahme von Deutschland und Österreich) kein Thema ist, das die Massen beschäftigt.
+Außerdem befürchten viele Regierungen einen Flickenteppich von verschiedenen Zeitzonen und fordern eine genauere Folgenabschätzung.
+Nebst den bereits bestehenden drei Zeitzonen innerhalb von Europa könnte es noch komplizierter werden, wenn beispielsweise von zwei Nachbarländern sich das östliche für die mitteleuropäische und das westliche für die osteuropäische Zeit entscheidet.
+
+Wann und ob überhaupt eine Einigung erzielt werden kann, war auch Ende Oktober 2019 noch weitgehend unklar.
+Während viele Länder bislang offenbar keine eindeutige Position hinsichtlich der Frage bezogen haben, welche Zeit fortan bei ihnen gelten soll, neigen Portugal und Griechenland eher zu einer Beibehaltung des halbjährlichen Wechsels.
+Bei einer Aufgabe der bisherigen Kompromissregelung wird eine Veränderung der heutigen Zeitzoneneinteilung mittlerweile als zwangsläufig erachtet, weil sich sonst insbesondere an den Rändern der großen mitteleuropäischen Zone die Tageslichtphasen zu drastisch verändern würden.
+So würde die Sonne im Nordwesten Spaniens bei einer dauerhaften Sommerzeit im Winter erst nach 10 Uhr vormittags aufgehen, im Osten Polens bei einer permanenten Normalzeit im Sommer bereits gegen 3 Uhr nachts.
+Da auch schon mit der aktuellen Regelung die Sonne in Warschau im Dezember vor 15:30 Uhr untergeht, wird in Polen von einem Großteil der Bevölkerung und parteiübergreifend im Parlament eine ständige Sommerzeit befürwortet.
+
+Die Beneluxstaaten wollen ihr weiteres Vorgehen abstimmen und erwägen eine gemeinsame Volksbefragung.
+Ob die Französische Regierung dem Votum einer von der Nationalversammlung im Februar 2019 initiierten Bürgerbefragung folgen wird, bei der 59 % der mehr als 2 Millionen Teilnehmer für eine dauerhafte Sommerzeit stimmten, ist derzeit noch ungewiss.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,103 @@
+Ein Experiment (von lateinisch experimentum "das in Erfahrung Gebrachte; Versuch, Beweis, Prüfung, Probe", von experiri) im Sinne der Wissenschaft ist eine methodisch angelegte Untersuchung zur empirischen Gewinnung von Information (Daten).
+Im Unterschied zur bloßen Beobachtung oder der Demonstration eines Effekts werden im Experiment Einflussgrößen verändert.
+Experimente werden in vielen Wissenschaften benötigt und durchgeführt, beispielsweise in Naturwissenschaften, Ingenieurwissenschaften, Medizin, Psychologie und Soziologie.
+Meist sind Zählungen oder Messungen ein wichtiger Teil des Experiments.
+Das Experiment ist ein wesentlicher Bestandteil im wissenschaftlichen Fortschrittsprozess.
+Mit der Entwicklung von Selbstverständnis der Wissenschaft, Methodik und Instrumentarium erlangte es nicht nur immer größere Bedeutung für die Gesellschaft, sondern es änderte damit auch seinen Charakter.
+Als Begründer der neuzeitlichen messenden Forschung mittels Experimenten wird oft Galileo Galilei angesehen.
+Daneben sind Experimente auch eine didaktische Methode geworden.
+Einige der ersten experimentellen Versuche mit wissenschaftlichem Charakter führt der arabische Mathematiker, Optiker und Astronom Alhazen durch.
+Seine Erkenntnisse zur Optik gewinnt er durch seine Experimente mit der "Camera Obscura" - angeregt insbesondere durch Ptolemäus' mathematische und optische Erörterungen -, gleichzeitig verfasst er jedoch erstmals wissenschafts-methodologische Überlegungen zu induktiv-experimentellen Versuchen:
+Eine streng geprüfte Versuchsdurchführung mit Sensibilität für die Subjektivität und Verfälschbarkeit der Ergebnisse durch die "menschliche Natur" sei jedoch nicht genug, man müsse auch kritisch gegenüber den überlieferten Ergebnissen und Theorien sein:
+Damit sei für ein objektives Experiment unumgänglich, überlieferte Ergebnisse mit experimentellen Erkenntnissen abzugleichen und gegebenenfalls Mut zum Verwerfen der Überlieferungen zu haben.
+In diesem Prozess dürfe aber nicht vergessen werden, dass der Mensch - als bedingender Faktor - zu subjektiven Meinungen sowie Hypothesenbildung neige und sich zur Objektivität durch gründliche Versuchsdurchführung sowie Selbstkritik führen müsse.
+Das Experiment stellt eine "Frage an die Natur" dar (in den Sozialwissenschaften: an die gesellschaftliche Wirklichkeit).
+Dieser Frage kann eine bestimmte Hypothese zugrunde liegen, die man prüfen will; Carl Friedrich von Weizsäcker hat in diesem Sinne sogar von einem "Verhör" der Natur gesprochen.
+Das Experiment kann aber auch einfach darin bestehen, ohne bestimmte Hypothese eine bis dahin nicht beobachtete Situation herbeizuführen und sich vom Ergebnis "überraschen zu lassen".
+Derartige Experimente werden beispielsweise dann durchgeführt, wenn sich die Untersuchungsmöglichkeiten erweitert haben, etwa durch Einführung einer genaueren Messmethode oder Inbetriebnahme eines Teilchenbeschleunigers mit höherer Energie.
+Die Ergebnisse können dann Entdeckungen sein.
+Jedes Experiment benötigt eine Versuchsanordnung; sind Versuchspersonen oder andere lebende Objekte beteiligt, spricht man auch vom Forschungsdesign.
+Manchmal wird die Anordnung selbst als "das Experiment" bezeichnet, insbesondere z. B., wenn sie nur für ein einziges mögliches Experiment entworfen und hergestellt wird und dies den Großteil der experimentellen Arbeit ausmacht.
+Bei vielen Experimenten fallen die Messdaten in Form stochastisch schwankender Zahlenwerte an und müssen dann mit statistischen Methoden einschließlich statistischer Tests ausgewertet werden.
+Aus experimentellen Resultaten werden durch Schlussfolgerung Erkenntnisse gewonnen.
+Diese sind dann, oft im Zusammenspiel mit einem Modell oder auch als Grundlage eines neuen Modells, Grundlage einer Theorie.
+Manche Experimente sind aus ethischer Sicht oder wegen nicht genügend berücksichtigter Gefahren unzulässig oder zumindest umstritten.
+Dies gilt vor allem in der Medizin (siehe Menschenversuch, Tierversuch), aber beispielsweise auch für Kernwaffentests und Gentechnik.
+Vom Experiment zu unterscheiden ist die bloße wissenschaftliche Beobachtung - beispielsweise in Astronomie, Geologie, Biologie - bei der nicht in das beobachtete System eingegriffen wird.
+Experiment und wissenschaftliche Beobachtung haben gemeinsam, dass sie im Allgemeinen auf einer Theorie mit daraus folgenden Hypothesen fußen und dass sie planmäßig durchgeführt werden.
+Die experimentelle Situation kann in den Naturwissenschaften i. A. willkürlich hergestellt und kontrolliert werden.
+Dementsprechend wird von den Ergebnissen die Reproduzierbarkeit - Nachvollzug mit gleichem Ergebnis durch andere Forscher, an anderem Ort, zu anderer Zeit - als Kriterium der Glaubwürdigkeit gefordert.
+In vielen naturwissenschaftlichen Experimenten werden bestimmte Größen als unabhängige Variablen einer Situation systematisch verändert und die dadurch hervorgerufenen Änderungen anderer Größen, der abhängigen Variablen, gemessen.
+Andere, grundsätzlich veränderliche Größen, die aber im jeweiligen Experiment nicht variiert werden, werden oft als Parameter oder Einflussgrößen bezeichnet.
+Die klassische Physik ging davon aus, der Einfluss der Beobachtung selbst auf den beobachteten Gegenstand könne immer durch geeignete Maßnahmen vernachlässigbar klein gehalten werden.
+Die Einsicht, dass jeder Beobachter das Beobachtungsergebnis spezifisch beeinflusst, etwa durch Einbringen von Messungenauigkeiten, hat beispielsweise auf dem Gebiet der Astronomie zum Begriff der persönlichen Gleichung geführt.
+Bei Experimenten mit Quantenobjekten lässt sich der Einfluss der Beobachtung jedoch grundsätzlich nicht vermeiden.
+Ein Experiment trifft unmittelbare Aussagen nur über die mit der Versuchsanordnung präparierte Situation.
+Jedoch können über den Begriff der Widerspruchsfreiheit auch Theorien überprüft werden, die Aussagen über prinzipiell Unbeobachtbares treffen, wie sie in der Theoretischen Physik und der Kosmologie auftreten.
+Nach Karl Poppers kritischem Rationalismus lassen sich (Hypo-)Thesen grundsätzlich nicht beweisen (verifizieren), sondern nur widerlegen (falsifizieren).
+Widerlegt das Experiment die Hypothese nicht, kann dies als Stützung der Hypothese aufgefasst werden, sofern die Ergebnisse für die Hypothese relevant sind (siehe Falsifizierbarkeit).
+Da das Experiment nur über den jeweils dargestellten Spezialfall Auskunft gibt, ist umstritten, ob es Naturgesetze im Sinne allgültiger Verallgemeinerungen überhaupt gibt.
+Im Sinne der empiristischen Regularitätstheorie sind die Natur"gesetze" bloß gewohnheitsmäßige Erfahrungen, die sich in jedem Experiment wieder bestätigen müssen.
+Axiome und Paradigmen sind zweckmäßige Annahmen.
+Sie werden nicht mehr explizit überprüft, spielen jedoch in folgenden Experimenten eine so große Rolle, dass eine Unstimmigkeit sofort bemerkt würde.
+Gedankenexperimente sind Experimente, die in Gedanken, nicht in Wirklichkeit ausgeführt werden, um im Rahmen einer Theorie zu Erkenntnissen zu gelangen.
+Zuweilen kann ein Gedankenexperiment später bei verbesserten Versuchsmöglichkeiten als reales Experiment durchgeführt werden.
+Experimente in den Ingenieurwissenschaften und in der Technik ähneln manchmal in Ausführung und Eigenschaften den Experimenten der naturwissenschaftlichen Forschung, so beispielsweise die Experimente der Werkstoffprüfung, mit denen Materialkennwerte wie Festigkeit oder Härte ermittelt werden.
+Wichtiger als Experimente sind in den Ingenieurwissenschaften jedoch die Tests.
+Im Gegensatz zu Experimenten sind Tests nicht kausal orientiert ("welche Folgen entstehen aus gegebenen Ursachen?"), sondern oft final orientiert ("durch welche Mittel wird ein gegebener Zweck erreicht?").
+Während Experimente sich auf Theorien beziehen, prinzipiell ergebnisoffen sind - auch wenn es Vermutungen über den Ausgang gibt - und unter möglichst idealen Rahmenbedingungen, also mit möglichst geringem Einfluss der Umgebung durchgeführt werden, werden für Tests gerade realitätsnahe Rahmenbedingungen gewählt.
+Mittels Prototypen wird beispielsweise die Funktionstüchtigkeit geplanter Technik getestet.
+Nach der Fertigstellung einer Brücke erfolgt ein Belastungstest, in dem ermittelt wird, ob die Brücke den Belastungen tatsächlich standhält.
+Wenn Tests aus wirtschaftlichen oder ethischen Gründen nicht durchführbar sind, werden Simulationen eingesetzt.
+Diese können je nach Fachgebiet sehr verschieden ausfallen.
+Häufig und universell einsetzbar ist z. B. die Finite-Elemente-Methode.
+Bei psychologischen und sozialwissenschaftlichen Experimenten sind die Einflussgrößen i. A. weniger exakt steuerbar.
+Die strenge Reproduzierbarkeit kann hier nicht gefordert werden; stattdessen werden die Validität und die Reliabilität betrachtet.
+Die Kontrolle von Störfaktoren ist ein entscheidender Teil des Experiments.
+Für ein strenges Experiment ist das von R. A. Fisher entwickelte Prinzip der "Randomisierung" als Konsequenz der "ceteris-paribus-Klausel" kennzeichnend:
+Die experimentellen Behandlungsbedingungen werden den Versuchsgruppen, diesen wiederum die Probanden nach dem Zufall ("randomisiert") zugewiesen.
+Dadurch werden Scheinerklärungen ausgeschlossen, nach denen z. B. ein Verhalten als Effekt der experimentellen Behandlung bezeichnet wird, das tatsächlich bereits vorher bestanden hat - nicht die neue Unterrichtsmethode hat zu den besseren Ergebnissen geführt, die Probanden dieser Versuchsgruppe hatten schon vor der Untersuchung einen Lernvorsprung.
+Der Grad, in dem tatsächlich randomisiert wird, ist ein Merkmal zur Unterscheidung der Typen des Experiments.
+Diese Beschränkung ist insbesondere bei Experimenten in der Klinischen, Pädagogischen, Arbeits- und Organisationspsychologie von Belang.
+Häufig ist jedoch eine vollständige Randomisierung nicht möglich, da Klienten-, Schüler- oder Mitarbeiter-Gruppen aus organisatorischen Gründen vorgegeben sind.
+Die verschiedenen Arten von Experimenten lassen sich folgendermaßen voneinander abgrenzen:
+Das Problem der objektiv gültigen Messung stellt sich in den Sozialwissenschaften in verschärfter Weise, weil hier Beobachter und Beobachteter in einer sozialen Interaktion aufeinander einwirken.
+Soweit Experimente in Biologie, Medizin, Pharmakologie usw. mit Gruppen von Individuen arbeiten, sind die oben genannten Begriffe des Forschungsdesigns auch hier wichtig.
+In der Medizin werden solche Experimente meist als klinische Studien bezeichnet (die als Interventionsstudie oder als Beobachtungsstudie durchgeführt werden können).
+In der Arzneimittelentwicklung dienen sie beispielsweise zur Ermittlung der Dosis-Wirkungs-Beziehung, aber auch der Nebenwirkungen.
+Experimente dienen nicht nur dem Gewinn neuer Erkenntnisse in der Forschung, sondern auch der Vermittlung bereits bekannter Kenntnisse an Lernende in Schule, Hochschule und Berufsausbildung.
+Dabei unterscheidet man Demonstrationsexperimente, die vom Lehrenden vorgeführt und erläutert werden, und Praktikumsexperimente, die von den Lernenden selbst durchgeführt und ausgewertet werden.
+Die Regeln für Anlage und Durchführung wissenschaftlicher Experimente und für ihre Dokumentation, d. h. geeignete schriftliche Darstellung (siehe Versuchsprotokoll) werden manchmal als Experimentatorik bezeichnet.
+Durch Fortschritte in Theorie, Experimentatorik und Interdisziplinarität haben sich in einigen Disziplinen speziell auf Experimente ausgerichtete Teilgebiete entwickelt, so die Experimentalphysik, die Experimentalpsychologie, die Experimentelle Ökonomie oder die Experimentelle Archäologie.
+Auch kann die Numerische Mathematik als experimentelle Disziplin angesehen werden.
+Die Astronomie musste in der Vergangenheit auf Experimente verzichten, abgesehen von Experimenten zur Verbesserung der Beobachtungstechnik.
+Heute kann die Raumfahrt als experimentelle Astronomie bezeichnet werden.
+Jede Raumfahrtmission hat experimentellen Charakter:
+So hatte z. B. die erste Generation der GPS-Satelliten eine Absicherung an Bord für den Fall, dass die allgemeine Relativitätstheorie nicht stimmt.
+Die Biologie war lange Zeit eine rein beobachtende Wissenschaft.
+Heute jedoch gestattet das biologische Experiment beispielsweise, direkt die determinierenden Einwirkungen auf einen untersuchten Prozess zu bestimmen.
+Auch können Prozesse, die in der Natur zu langsam oder zu schnell verlaufen, im Experiment durch Beschleunigen bzw. Verlangsamen beobachtbar gemacht werden.
+Es gehört zum eigentlichen Wesen der europäischen Kunst, sich intensiv mit der Naturwissenschaft auseinanderzusetzen.
+Tatsächlich ist eine Trennung in Wissenschaft und Kunst noch nicht alt; bis in die Renaissance galten beide als unverzichtbare Bestandteile einer humanistischen Bildung.
+Ein Aspekt der Beziehung zwischen Experiment und Kunst ist, dass Künstler aller Epochen versucht haben, die neuesten Erkenntnisse künstlerisch umzusetzen, also direkt an der Interpretation der Ergebnisse mitzuarbeiten.
+Als Beispiele seien hier genannt:
+Zum anderen ist Kunstschaffen in seinem Drang nach dem Neuen experimentell an sich.
+Im Gegensatz zum wissenschaftlichen Experiment ist das künstlerische nicht unbedingt reproduzierbar, teilweise verweigert es diese Forderung sogar absichtlich.
+Es soll dazu dienen, neue Möglichkeiten des Ausdrucks, des Mediums zu finden, Dinge auf eine Weise zu sehen oder zu tun, wie sie zuvor nicht gesehen oder getan wurden.
+Die Kreativität ermöglicht, neue Formen, Kombinationen, Perspektiven zu entwickeln.
+Es stellt also in ähnlicher Weise Grundlagenforschung dar und versucht, den Kunstbegriff zu erweitern oder zu überprüfen.
+Das künstlerische Experiment kann dabei auch scheitern, etwa an eigenen Ansprüchen oder Ablehnung des Publikums.
+Beispiele finden sich im Experimentalfilm, in Teilen der zeitgenössischen Kunst, in der avantgardistischen oder Neuen Musik, aber auch in der Literatur.
+In der Postmoderne tragen auch Teile des Mainstreams experimentelle Elemente in sich (etwa im Musikvideo).
+Gleichzeitig werden dezidiert experimentelle Werke von einem Großteil des Publikums zurückgewiesen (Kulturindustrie) und kämpfen mit finanziellen Schwierigkeiten, Ausnahmen wie Kubricks Film 2001: Odyssee im Weltraum sind selten.
+Beiden Formen ist aber gemeinsam, dass sie explizit eine Frage an die Welt darstellen und eine Gesamtheit aus Beobachter, Objekt und Beobachtung sind.
+Und mit der streng wissenschaftlichen Forschung teilen sie die hohen Anforderungen an Einfallsreichtum und Inspiration.
+Literatur
+Bernd Löbach-Hinweiser: "Kunst und Wissenschaft", Band 4 - "Experimentelle Kunst" (524 Seiten), Designbuch Verlag, Cremlingen 2016, ISBN 978-3-923971-84-8
+Rechtliche Problemlösungen werden oft experimentierend gesucht, d. h. in einem Vorgriff der produktiven Phantasie entworfen, anschließend überprüft und, wenn sie die Probe nicht bestehen, korrigiert.
+Bei dieser Suche nach möglichen Lösungen gibt das bisherige Recht die Ausgangsbedingungen und den Verständnishorizont für die experimentierende Praxis vor, d. h. für das versuchsweise Weiterschreiten in der Entwicklung des Rechts.
+Hierbei ist der Wunsch, das Recht dem Wandel der Lebensverhältnisse anzupassen, stets auch gegen das Interesse an Rechtssicherheit abzuwägen, also gegen das Interesse, überkommene Dispositionsgrundlagen nicht zu gefährden.
+Die erwogenen "Verbesserungen" des Rechts sind darauf zu prüfen, ob sie hinreichende Chancen haben, befolgt und durchgesetzt zu werden, und ob das gebotene Verhalten (z. B. eine Geschwindigkeitsbegrenzung im Straßenverkehr) geeignet ist, den rechtspolitischen Endzweck (z. B. eine erhebliche Verminderung der Unfälle) zu erreichen.
+Auch sind unerwünschte Nebenwirkungen einer Regelung zu bedenken (ein extensives Mieterschutzrecht kann z. B. dazu führen, dass weniger Mietwohnungen gebaut werden).
+Darüber hinaus müssen die erwogenen Regelungen für das vernunftgeleitete Gerechtigkeitsempfinden der Mehrheit konsensfähig sein.
+Auch dürfen sie nicht im Widerspruch zum rechtlichen Kontext und auch nicht zum Zeitgeist, d. h. zu den Leitideen der jeweiligen Kultur stehen.

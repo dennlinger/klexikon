@@ -1,0 +1,106 @@
+Der Puls (lateinisch pulsus, "Stoß", wie lateinisch pulsare "klopfen", von lateinisch pellere "schlagen, stoßen") beschreibt seit der Antike (etwa bei dem alexandrinischen Arzt Herophilos um 300 v. Chr.) die mechanischen Auswirkungen der durch den systolischen Blutausstoß vom Herz stammenden Druck- und Volumenschwankung (Pulswelle) auf die direkte Umgebung oder deren Fortleitung in entferntere Regionen des Körpers durch das Blutgefäßsystem.
+
+Als Puls bezeichnet man sowohl die Frequenz der beim Pulszählen erfassbaren Druckstöße (Anzahl pro Minute; zum Unterschied dieser Pulsfrequenz zur Herzfrequenz vgl. Pulsdefizit) als auch deren Amplitude und Verlauf (Pulsqualität, z. B. "weicher", "schwacher" oder "schwirrender" Puls).
+Im Gefäßsystem breitet sich der Puls als Welle aus mit lokalen Zeitverläufen jeweils des Drucks, der Querschnittsfläche und des Volumenstroms bzw. der Strömungsgeschwindigkeit.
+Ein Maß für die Schwankungen der Pulsfrequenz im Zeitablauf ist der Pulsvarianzindex.
+
+== Pulsarten
+
+Man unterscheidet eine retrograde (rückwärts, gegen den Blutstrom) von einer anterograden (vorwärts, mit dem Blutstrom) Fortleitung der Herzaktion in den Gefäßen.
+Die retrograde Fortleitung bestimmt den Venenpuls (siehe unten), die anterograde Fortleitung den arteriellen Puls.
+Der arterielle Puls findet in der Medizin mehr Beachtung als der venöse Puls.
+Der Puls gibt Aufschluss über die Effektivität der Herzaktion, ihre Regelmäßigkeit, die Druckanstiegsgeschwindigkeit in den herznahen Gefäßen während der Systole, den absoluten Druck und das Füllungsvolumen der Gefäße.
+
+== Pulsvariationen
+
+=== Ruhepuls
+
+Die Herzschlagfrequenz in Ruhe beträgt bei einem gesunden Erwachsenen 50 bis 100 Schläge pro Minute.
+Manchmal ist der peripher getastete Puls langsamer als die Herzfrequenz im EKG.
+Das hängt mit früh einfallenden Extraschlägen zusammen, die zu einer mechanisch unwirksamen Herzaktion führen.
+Man spricht dann von einem Pulsdefizit.
+Am besten misst man den Ruhepuls morgens nach dem Aufwachen und vor dem Aufstehen.
+
+Der Ruhepuls eines trainierten Ausdauersportlers liegt meistens zwischen 32 und 45 Schlägen pro Minute.
+Seltener ist ein Ruhepuls von weniger als 30 Schlägen pro Minute.
+Das Schlagvolumen und meist auch das Lungenvolumen dieser Sportler sind dabei erhöht.
+
+Durchschnittlicher Ruhepuls:
+
+=== Paradoxer Puls
+
+Als paradoxen Puls oder Pulsus paradoxus bezeichnet man den nicht normalen Abfall der Blutdruckamplitude um mehr als 10 mmHg bei der Einatmung.
+Er tritt u. a. bei größeren Perikardergüssen auf und gilt als Zeichen einer drohenden Perikardtamponade.
+Weiterhin findet sich ein Pulsus paradoxus bei einem Panzerherz, bei einem Spannungspneumothorax und bei schweren Asthmaanfällen.
+
+Als Pulsdruck oder Pulsamplitude bezeichnet man die Differenz zwischen systolischem und diastolischem Blutdruck, also die Blutdruckamplitude als Maß für die Elastizität der Schlagadern.
+
+=== Venenpuls
+
+Auch an den Venen gibt es einen schwachen Puls.
+Im Gegensatz zum Arterienpuls, der vor allem durch Druckänderungen entsteht, wird die Pulsation der Venen vorwiegend durch Änderungen ihres Füllungszustandes hervorgerufen und bewirkt einen sogenannten Volumenpuls.
+Allerdings ist der Venenfluss von mehreren Faktoren abhängig, insbesondere von der Atmung, der Körperlage und der Körperaktivität und nicht so sehr vom zweigipfligen Venenpuls, der durch wechselnde Druckverhältnisse im rechten Vorhof des Herzens zustande kommt.
+Der Venenpuls wurde früher als Jugularvenenpulskurve aufgezeichnet und kann heute relativ leicht mit einem Dopplergerät an den verschiedensten Regionen des Körpers abgeleitet werden.
+Dazu muss allerdings die Dopplerfrequenz auf die niedrigen Flussgeschwindigkeiten im Venensystem umgeschaltet werden.
+
+Die typische Venenpulskurve zeigt zwei markante Täler, die dem systolischen und diastolischen Zustrom zum Herzen entsprechen.
+Nur in einer kurzen Phase kommt es zu einem kurzen Rückstrom in die Venen, was sich in der Venenpulskurve als kleiner Berg manifestiert.
+Dieser Rückstrom entspricht der Vorhofsystole und wird als A-Welle bezeichnet.
+Dieser kurze Rückstrom ist allerdings nur bei Sinusrhythmus und intakter mechanischer Vorhofaktion vorhanden.
+Bei einer schweren Trikuspidalinsuffizienz strömt das Blut aus der rechten Herzkammer in der Systole in erheblichem Maß zurück in den rechten Vorhof und die vorgeschalteten Venen, so dass das systolische Tal der Venenpulskurve aufgehoben oder sogar umgekehrt als Berg erkennbar ist.
+
+Eine ganz ähnliche Venenpulskurve lässt sich mittels Transösophagealer Echokardiografie (TEE) auch aus den Lungenvenen aufzeichnen.
+Sie kann zur Beurteilung des Schweregrades einer Mitralklappeninsuffizienz herangezogen werden.
+
+== Pulsmessung (Sphygmologie)
+
+Der Puls kann auf unterschiedliche Weise gemessen werden.
+Eine praktisch sehr einfache, kostengünstige und genaue Messmethode zur Erfassung des Momentanwertes ist die Verwendung eines Pulsoxymeters, welches als Clip auf einen Finger gesteckt wird und neben dem aktuellen Puls auch die Sauerstoffsättigung im Blut anzeigt.
+Weitere Methoden sind die Verwendung von speziellen Herzfrequenzmessgeräten, welche je nach Ausführung beispielsweise auch die Erfassung der Pulsfrequenz über längere Zeit mit automatischer Datenaufzeichnung erlauben.
+Eine weitere einfache und verbreitete Methode ist die manuelle Messung mit Hilfe einer Uhr, wobei die Anzahl der Herzschläge pro Zeiteinheit gezählt wird.
+Es kann aber auch umgekehrt die für eine bestimmte Anzahl von Pulsschlägen nötige Zeit auf der Uhr abgelesen werden.
+In der Naturwissenschaft, etwa bei Cardano im 16. Jahrhundert, führte man umgekehrt zunächst Zeitmessungen mit Hilfe des Pulses durch.
+Bei dieser Messung wird die Anzahl der Impulse pro Zeit gemessen.
+Gewöhnlich wird der Puls in Schlägen pro Minute angegeben.
+Der belgische Theologe, Mathematiker und Astronom Froidmont bestimmte spätestens 1627 bei seinen Untersuchungen von Witterungserscheinungen die menschliche Pulsfrequenz bei Erwachsenen mit 4450 Schlägen pro Stunde (74/min).
+Die ersten genaueren Zahlen für die Pulsfrequenz teilte Johannes Kepler zu Beginn des 17. Jahrhunderts mit.
+Die ersten wissenschaftlichen Untersuchungen der Pulsfrequenz publizierte 1707 John Floyer (1649-1734).
+Erst ab dieser Zeit wurde gemäß Power der Puls mit Hilfe von Uhren gemessen.
+
+Es gibt verschiedene Stellen am Körper, an denen man den arteriellen Puls für die manuelle Messung leicht tasten kann, z. B.:
+
+Im Notfall sind der Femoralispuls (Leistenregion) und der Carotispuls (am Hals) am verlässlichsten tastbar, da er oft auch noch bei niedrigen Blutdruckwerten nachweisbar ist.
+Um bei der Messung die ganze Pulswelle zu erfassen, sollte der Puls mit zwei oder drei Fingern getastet werden.
+
+== Pulsqualitäten
+
+Neben der wichtigen Aussage Puls tastbar oder Puls nicht tastbar, zum Beispiel bei einem akuten Gefäßverschluss, unterscheidet man bei der Pulsdiagnose die Pulsqualitäten:
+
+Klinisch bedeutsam sind z. B. folgende Pulsqualitäten:
+
+Die Traditionelle Chinesische Medizin beschreibt mehr Taststellen und Pulsqualitäten (s. Pulsdiagnose).
+
+== Günstiger Trainingspuls
+
+Für die Berechnung eines optimalen Trainingspulses existieren verschiedene Formeln.
+Er hängt u. a. von den verfolgten Zielen ab und liegt für Ausdauersportarten zwischen 70 % (extensives Training) und 85 % (intensives Training) des individuellen Maximalpulses.
+Häufig wird eine Belastung von ca. 60 % des Maximalpulses zur optimalen Fettverbrennung angegeben.
+Diese Angabe beruht auf einer Fehlinterpretation des Fettstoffwechseltrainings.
+Praktisch jede sportliche Aktivität geht auch mit Fettverbrennung einher, so dass für eine Gewichtsabnahme nur die Gesamtmenge der verbrauchten Energie im Rahmen der Energiebilanz von Bedeutung ist.
+
+Eine möglichst zuverlässige Feststellung des optimalen Trainingspulses erfolgt mit Hilfe der Spiroergometrie.
+Hierbei kann unter Messung der Atemgase unter Belastung die anaerobe Schwelle bestimmt werden, die im Rahmen eines Trainings nicht überschritten werden sollte.
+Da bei dieser Untersuchungsmethode auch der Blutdruck bestimmt wird, kann ein etwaig zu starker Blutdruckanstieg in die Bestimmung des Trainingspulses mit einfließen.
+
+Grobe Richtwerte für ein extensives Ausdauertraining können nach der Karvonen-Formel ermittelt werden, sofern keine Arzneimittel wie beispielsweise Betablocker eingenommen werden:
+
+Nach Lagerstrom berechnet sich der individuelle Trainingspuls folgendermaßen:
+
+Der Faktor berücksichtigt die allgemeine körperliche Leistungsfähigkeit und reicht von 0,55 bis 0,75.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

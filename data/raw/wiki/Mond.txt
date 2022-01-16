@@ -1,0 +1,808 @@
+Der Mond (mhd. mane; lateinisch luna) ist der einzige natürliche Satellit der Erde.
+Sein Name ist etymologisch verwandt mit Monat und bezieht sich auf die Periode seines Phasenwechsels.
+Weil die Trabanten anderer Planeten des Sonnensystems im übertragenen Sinn meistens ebenfalls als Monde bezeichnet werden, spricht man zur Vermeidung von Verwechslungen mitunter vom Erdmond.
+Er ist mit einem Durchmesser von 3476 km der fünftgrößte bekannte Mond des Sonnensystems und gegenüber seinem Zentralkörper Erde auch außergewöhnlich groß (etwa ein Viertel des Erddurchmessers).
+
+Weil er sich relativ nahe der Erde befindet, ist er bisher der einzige fremde Himmelskörper, den Menschen betreten haben, und auch der am besten erforschte.
+Trotzdem gibt es noch viele Unklarheiten, etwa in Bezug auf seine Entstehung und manche Geländeformen.
+Die jüngere Entwicklung des Mondes ist jedoch weitgehend geklärt.
+
+Sein astronomisches Symbol  ist die abnehmende Mondsichel, wie sie (nach rechts offen) von der Nordhalbkugel der Erde aus erscheint.
+
+== Etymologie
+
+Die gemeingermanische Bezeichnung des Himmelskörpers ist in Mittelhochdeutsch man, in Althochdeutsch mano und geht auf die Indogermanische Ursprache menot- "Mond; Mondwechsel, Monat" zurück .
+
+== Umlaufbahn
+
+=== Scheinbare Bewegung
+
+Der Mond umkreist die Erde bezüglich der Fixsterne in durchschnittlich 27 Tagen, 7 Stunden und 43,7 Minuten.
+Er umläuft von Westen nach Osten die Erde im gleichen Drehsinn, mit dem die Erde um ihre Achse rotiert.
+Er umkreist für einen irdischen Beobachter die Erde wegen ihrer viel schnelleren Rotation scheinbar an einem Tag - wie auch die Sonne, die Planeten und die Fixsterne - und geht wie diese im Osten auf und im Westen unter.
+Der Mond bewegt sich vor dem Hintergrund der Fixsterne im prograden (rechtläufigen) Drehsinn der Erdrotation, sodass sein scheinbarer Erdumlauf etwa 50 Minuten länger als 24 Stunden dauert.
+Dies addiert sich in einem Monat zu einem ganzen Tag, da der Mond in dieser Zeit tatsächlich die Erde einmal umläuft.
+
+Die scheinbaren Bahnen von Mond und Sonne liegen ähnlich, da die Mondbahn nur geringfügig (derzeit 5,2°) gegen die Ekliptik geneigt ist.
+Der Mond steht für einen Beobachter auf der Nordhalbkugel über 5,2° nördlich des Wendekreises (d.h. bei einer geografischen Breite über 28,6°) bei seinem täglichen Höchststand (Kulmination) immer im Süden, für einen Beobachter auf der Südhalbkugel südlicher als -28,6° immer im Norden (für die Sonne beträgt der analoge Winkel 23,4° - die Breite der Wendekreise).
+Diese +/-28,6° sind der Maximalwert.
+Dieser Wert schwankt in einem 18-jährigen Zyklus zwischen dem Minimum 18,3° und dem Maximum 28,6°, weil die Lage der Mondbahn (bei fast konstanter Bahnneigung von 5,2°) langsam gegenüber der Ekliptik rotiert, was von der Präzession (Kreiselbewegung) der Mondbahnebene infolge der Erdabplattung von 0,3 % verursacht wird.
+
+Die scheinbare Größe des Mondes aus Erdsicht schwankt entfernungsabhängig zwischen 29,4' und 33,5' um einen Mittelwert von knapp 32' (Winkelminuten), etwa 0,5°.
+Die Größe der Sonnenscheibe schwankt zwischen 31,5' bis 32,5' um einen ähnlichen Mittelwert.
+Bei geeigneter Konstellation kann der Mond daher die Sonne vollständig verdecken und eine totale Sonnenfinsternis eintreten.
+
+=== Bahngestalt
+
+Die Bahn des Mondes um die Erde ist etwa kreisförmig, genauer elliptisch.
+In einem der beiden Brennpunkte der Ellipse befindet sich nicht der Erdmittelpunkt, sondern der gemeinsame Schwerpunkt, das Baryzentrum.
+Der mittlere Abstand des Schwerpunktes des Mondes vom Baryzentrum - die große Halbachse der Ellipse - misst 383.398 km, etwa 60 Erdradien.
+Der Erdmittelpunkt ist weniger als einen Erdradius vom Baryzentrum entfernt; das Baryzentrum liegt im Erdmantel.
+Der Abstand des Baryzentrums vom Mittelpunkt der Ellipse, ihre Exzentrizität, beträgt im Mittel 21.296 km oder 5,55 % der großen Halbachse.
+Um so viel ist der erdnächste Punkt der Bahn, das Perigäum, näher bzw. der erdfernste Punkt, das Apogäum, weiter als die große Halbachse vom Baryzentrum entfernt.
+
+Der Mond umläuft zusammen mit der Erde die Sonne, durch die Bewegung um die Erde pendelt der Mond jedoch um eine gemeinsame Ellipsenbahn.
+Die Variation der Gravitation während dieser Pendelbewegung führt zusammen mit geringeren Störungen durch die anderen Planeten zu Abweichungen von einer exakten Keplerellipse um die Erde.
+
+Die Durchgänge des Mondes durch die Bahnebene der Erde (die Ekliptik) nennt man Mondknoten (oder Drachenpunkte).
+Der aufsteigende Knoten ist der Übergang auf die Nordseite der Ekliptik, der absteigende markiert den Übergang auf die südliche Seite.
+Der erdnächste Punkt der Bahn wird nicht nach genau einem Umlauf (relativ zu den Fixsternen) des Mondes wieder erreicht.
+Durch diese Apsidendrehung umläuft das Perigäum die Erde in 8,85 Jahren.
+Auch zwei aufsteigende Knotendurchgänge erfolgen nicht exakt nach einem Umlauf, sondern bereits nach kürzerer Zeit.
+Die Mondknoten umlaufen die Erde folglich retrograd, das heißt gegen die Umlaufrichtung des Mondes in 18,61 Jahren.
+Wenn ein Knotendurchgang mit Neumond zusammenfällt, kommt es zu einer Sonnenfinsternis, und falls der Knotendurchgang mit Vollmond zusammenfällt, kommt es zu einer Mondfinsternis.
+
+Dieser Zyklus führt auch zu den Mondwenden:
+Der Aufgangsort des Mondes am Horizont schwankt während eines Monats zwischen einem südlichsten und einem nördlichsten Punkt hin und her, so wie es auch bei der Sonne im Verlauf eines Jahres der Fall ist (vgl. Obsigend und Nidsigend).
+Im Laufe des Zeitraumes von 18,61 Jahren verändert sich die Spanne zwischen diesen beiden Extrempunkten in ihrem Abstand:
+Der Zeitpunkt (zuletzt im Jahre 2006), an dem diese Punkte am weitesten auseinanderliegen, heißt große Mondwende, der des geringsten Abstandes kleine Mondwende.
+In der frühzeitlichen Astronomie spielten diese Mondwenden eine wichtige Rolle.
+
+=== Bahnperiode
+
+Die Dauer eines Bahnumlaufs des Mondes, den Monat (von "Mond"), kann man nach verschiedenen Kriterien festlegen, die jeweils unterschiedliche Aspekte abdecken.
+
+Bei diesen Werten handelt es sich um Mittelwerte.
+Insbesondere die Längen einzelner synodischer Monate schwanken durch die Wanderung der Neumondposition über die Bahnellipse.
+Die Monatslänge nimmt langsam zu, siehe Abschnitt: Vergrößerung der Umlaufbahn.
+
+=== Mondphasen
+
+Von der Erde aus gesehen erscheint der Mond unter einem Winkel von rund einem halben Grad (0,5°), sein scheinbarer Durchmesser schwankt abhängig von der Entfernung zur Erde zwischen 29' 10" und 33' 30".
+Für Beobachter auf der Erde ist die voll beleuchtete Mondscheibe damit ungefähr ebenso groß wie die Sonnenscheibe (31' 28" bis 32' 32"), doch verändert sich der Anblick im Laufe eines Monats.
+
+Das Aussehen des Mondes, seine Lichtgestalt, variiert im Laufe seines Bahnumlaufs und durchläuft die Mondphasen:
+
+Die Zahlen in Klammern beziehen sich auf vorstehende Abbildung.
+Der Neumond ist von der nahen Sonne überstrahlt, durch Kamerareflexe angedeutet.
+Manchmal wird die Zeitspanne seit dem letzten Neumond in Tagen angegeben und als Mondalter bezeichnet, beispielsweise ist Vollmond am 15. Tag des synodischen Monats und das Mondalter dann 14 Tage (wenn Neumond = 0).
+
+Die schmale sichelförmige Lichtgestalt des zunehmenden Mondes wird am westlichen Abendhimmel tiefstehend kurz vor Untergang erstmals sichtbar und erscheint dem nördlich stehenden Betrachter als nach Süden zu offene bzw. nach links gekrümmte, konkav-konvexe Figur.
+
+Einem Betrachter in südlichen Breiten erscheint sie ebenfalls tiefstehend im Westen, doch als nach rechts gekrümmt bzw. geöffnet Richtung Norden, wo für ihn der Mond den höchsten Stand erreicht wie ebenso die Sonne zu Mittag.
+An Beobachtungsorten in Äquatornähe erscheint die Figur im Westen eher waagrecht liegend bzw. nach oben hin offen, da hier der Höhenwinkel einer Kulmination größer ist.
+Diese Abhängigkeit der scheinbaren Lage der Mondfigur vom Breitengrad spiegelt sich bei der Verwendung einer symbolischen Mondsichel in Form einer Schale ("Mondschiffchen") auf der Staatsflagge einiger äquatornaher Länder wider (Beispiel: Flagge Mauretaniens).
+
+Die nicht unmittelbar von der Sonne beleuchteten Anteile der erdzugewandten Mondseite sind dabei nie völlig dunkel, denn sie werden durch das von der sonnenbeleuchteten Erde zurückgeworfene Licht - Erdlicht oder Erdschein genannt - erhellt.
+Dessen Widerschein durch die Reflexion an Stellen der Mondoberfläche wird auch Aschgraues Mondlicht genannt.
+Es ist am besten in der Dämmerung einige Tage vor oder nach Neumond zu sehen, denn dann stört weder viel Tages- noch Mondlicht, und der Mond hat nahezu "Vollerde".
+Seine Ursache wurde schon von Leonardo da Vinci richtig erkannt.
+Mit einem Fernglas selbst geringer Vergrößerung sind auf den nur durch die Erde beschienenen Mondflächen sogar Einzelheiten erkennbar, denn aufgrund des fast vierfach größeren Durchmessers und des höheren Rückstrahlungsvermögens (Albedo) der Erde ist die "Vollerde" rund 50-mal so hell wie der Vollmond, etwa 10 statt 0,2 lux.
+Messungen des aschgrauen Mondlichts erlauben Rückschlüsse auf Veränderungen der Erdatmosphäre.
+
+Die ständig erdabgewandte Rückseite des Mondes unterliegt entsprechend versetzt dem Phasenwechsel:
+Bei Neumond wird sie vom Sonnenlicht vollständig beschienen.
+
+Die beschienene Mondfläche (Überdeckungsgrad) kann angegeben werden mit 100 % 2 ( 1 - cos  e ) {\displaystyle {\frac {100\;\%}{2}}(1-\cos e)} , wobei e {\displaystyle e} die Elongation (i. e., der Winkel zwischen Mond, Erde, und Sonne) ist.
+
+=== Finsternisse
+
+Verfinsterungen treten auf, wenn die Himmelskörper Sonne und Mond mit der Erde auf einer Linie liegen.
+Dazu kommt es nur bei Vollmond oder Neumond und wenn der Mond sich dann nahe einem der zwei Mondknoten befindet.
+
+==== Mondfinsternis
+
+Bei einer Mondfinsternis, die nur bei Vollmond auftreten kann, steht die Erde zwischen Sonne und Mond.
+Eine Mondfinsternis kann auf der gesamten Nachtseite der Erde beobachtet werden und dauert maximal 3 Stunden 40 Minuten.
+Man unterscheidet
+
+Eine Mondfinsternis ist vom Mond aus gesehen eine Sonnenfinsternis.
+Dabei verschwindet die Sonne hinter der schwarzen Erde.
+Bei einer totalen Mondfinsternis herrscht auf der ganzen Mondvorderseite totale Sonnenfinsternis, bei einer partiellen Mondfinsternis ist die Sonnenfinsternis auf dem Mond nur in einigen Gebieten total, und bei einer Halbschatten-Mondfinsternis herrscht auf dem Mond partielle Sonnenfinsternis.
+Auf dem Mond kann keine ringförmige Sonnenfinsternis beobachtet werden, da der scheinbare Durchmesser der Erde im Vergleich zu dem der Sonne viel größer ist.
+Lediglich wird der Rand der schwarzen Erdscheibe zu einem kupferrot schimmernden Ring, der durch die beschriebene Lichtstreuung in der Erdatmosphäre entsteht und dem Mond auf der Erde seine Farbe verleiht.
+
+==== Sonnenfinsternis
+
+Bei einer Sonnenfinsternis, die nur bei Neumond auftreten kann, steht der Mond zwischen Sonne und Erde.
+Eine Sonnenfinsternis kann nur in den Gegenden beobachtet werden, die den Kern- oder Halbschatten des Mondes durchlaufen; diese Gegenden sind meist lange, aber recht schmale Streifen auf der Erdoberfläche.
+Man unterscheidet
+
+Eine Sonnenfinsternis wird nur vom irdischen Beobachter als solche wahrgenommen.
+Die Sonne leuchtet natürlich weiter, dagegen liegt die Erde im Schatten des Mondes.
+Entsprechend zur Mondfinsternis müsste man korrekterweise also von einer Erdfinsternis sprechen.
+
+==== Sarosperiode
+
+Die Sarosperiode kannten bereits die Chaldäer (um etwa 1000 v. Chr.), dabei wiederholen sich Finsternisse nach einem Zeitraum von 18 Jahren und 11 Tagen.
+Nach 223 synodischen beziehungsweise 242 drakonitischen Monaten (von lat. draco, Drache, altes astrologisches Symbol für die Mondknoten, da man dort einen mond- und sonnenfressenden Drachen vermutete) stehen Sonne, Erde und Mond fast wieder gleich zueinander, so dass sich eine Finsternis nach 18 Jahren und 11,33 Tagen erneut ergibt.
+Die Sarosperiode wird dadurch verursacht, dass bei einer Finsternis sowohl die Sonne als auch der Mond nahe der Knoten der Mondbahn liegen müssen, die in 18 Jahren einmal um die Erde laufen.
+Thales nutzte die Sarosperiode, die er bei einer Orientreise kennengelernt hatte, für seine Finsternisprognose vom 28. Mai 585 v. Chr., wodurch die Schlacht am Halys zwischen Lydern und Medern abgebrochen und ihr Krieg beendet wurde.
+
+Ein Saros-Zyklus ist eine Folge von Sonnen- oder Mondfinsternissen, die jeweils im Abstand einer Sarosperiode aufeinanderfolgen.
+Da die Übereinstimmung der 223 bzw. 242 Monate nicht exakt ist, reißt ein Saros-Zyklus etwa nach 1300 Jahren ab.
+In diesem Zeitraum beginnen aber gleich viele neue Zyklen, und es existieren immer ungefähr 43 gleichzeitige verschachtelte Saros-Zyklen.
+
+=== Vergrößerung der Umlaufbahn
+
+Der mittlere Erde-Mond-Abstand wächst aufgrund der Gezeitenreibung jährlich etwa um 3,8 cm (siehe Lunar Laser Ranging).
+Dabei wird Drehimpuls (hauptsächlich) der Erdrotation in Bahndrehimpuls verwandelt (hauptsächlich des Mondes, siehe Tabelle).
+
+=== Rotation und Libration
+
+Als der Mond noch flüssig und der Erde viel näher war, bremste umgekehrt das Feld der Erde die Rotation des Mondes schnell bis zur gebundenen Rotation.
+Seither dreht er sich pro Umlauf genau einmal um die eigene Achse, zeigt uns stets die gleiche Seite.
+Der gleichmäßigen Rotation ist eine sehr geringe Pendelbewegung überlagert, die sogenannte echte Libration.
+Der größte Teil der Libration ist jedoch ein nur scheinbares Pendeln, bedingt durch die variable Winkelgeschwindigkeit der Bahnbewegung.
+Wegen der Libration und der Parallaxe, sprich durch Beobachtung von verschiedenen Punkten etwa bei Mondaufgang und Monduntergang, sind von der Erde aus insgesamt fast 59 % der Mondoberfläche einsehbar bzw. ist von Punkten dieser Fläche aus die Erde zumindest zeitweise sichtbar.
+Mit der Raumsonde Lunik 3 konnte 1959 erstmals auch die Rückseite des Mondes beobachtet werden.
+
+== Physikalische Eigenschaften
+
+=== Gestalt
+
+Der mittlere Äquatordurchmesser des Mondes beträgt 3476,2 km und der Poldurchmesser 3472,0 km.
+Sein mittlerer Durchmesser insgesamt - als volumengleiche Kugel - beträgt 3474,2 km.
+
+Die Gestalt des Mondes gleicht mehr der eines dreiachsigen Ellipsoids als der einer Kugel.
+An den Polen ist er etwas abgeplattet, und die in Richtung der Erde weisende Äquatorachse ist etwas größer als die darauf senkrecht stehende Äquatorachse.
+Der Äquatorwulst ist auf der erdabgewandten Seite dabei noch deutlich größer als auf der erdnahen Seite.
+
+In Richtung Erde ist der Durchmesser durch die Gezeitenkraft am größten.
+Hierbei ist der erdferne Mondradius an dieser Achse größer als der erdnahe.
+Dies ist überraschend, und bis heute nicht schlüssig erklärt.
+Pierre-Simon Laplace hatte schon 1799 vermutet, dass der Äquatorwulst zur erdabgewandten Seite hin stärker ausgebildet ist und die Bewegung des Mondes beeinflusst und dass diese Form nicht einfach ein Ergebnis der Drehung des Mondes um die eigene Rotationsachse sein kann.
+Seitdem rätseln Mathematiker und Astronomen, wie der Mond diese Ausbuchtung gebildet und behalten hat, nachdem sein Magma erstarrt war.
+
+=== Atmosphäre
+
+Der Mond hat keine Atmosphäre im eigentlichen Sinn - der Mondhimmel ist z. B. nicht blau -, sondern nur eine Exosphäre.
+Sie besteht zu etwa gleichen Teilen aus Helium, Neon, Wasserstoff und Argon und hat ihren Ursprung in eingefangenen Teilchen des Sonnenwindes.
+Ein sehr kleiner Teil entsteht auch durch Ausgasungen aus dem Mondinneren, wobei insbesondere 40Ar, das durch Zerfall von 40K im Mondinneren entsteht, von Bedeutung ist.
+Allerdings wird ein Teil dieses 40Ar durch den Sonnenwind wieder auf die Mondoberfläche zurückgetrieben und dort in die obersten Partikel des Regoliths implantiert.
+Da 40K früher häufiger war und damit mehr 40Ar ausgaste, kann durch Messung des 40Ar/36Ar-Verhältnisses von Mondmaterial bestimmt werden, zu welcher Zeit es exponiert war.
+Es besteht ein Gleichgewicht zwischen der Implantation und thermischem Entweichen.
+
+=== Oberflächentemperatur
+
+Aufgrund der langsamen Rotation des Mondes und seiner nur äußerst dünnen Gashülle gibt es auf der Mondoberfläche zwischen der Tag- und der Nachtseite sehr große Temperaturunterschiede.
+Mit der Sonne im Zenit steigt die Temperatur auf etwa 130 °C und fällt in der Nacht auf etwa -160 °C.
+Die Durchschnittstemperatur über die gesamte Oberfläche beträgt 218 K = -55 °C.
+In manchen Gebieten gibt es lokale Anomalien, in Form von einer etwas höheren oder auch etwas niedrigeren Temperatur an benachbarten Stellen.
+Krater, deren Alter als relativ jung angesehen wird, wie zum Beispiel Tycho, sind nach Sonnenuntergang etwas wärmer als ihre Umgebung.
+Wahrscheinlich können sie durch eine dünnere Staubschicht die während des Tages aufgenommene Sonnenenergie besser speichern.
+Andere positive Temperaturanomalien gründen eventuell auf örtlich etwas erhöhter Radioaktivität.
+
+=== Masse
+
+Die Bestimmung der Mondmasse kann über das newtonsche Gravitationsgesetz erfolgen, indem die Bahn eines Körpers im Gravitationsfeld des Mondes untersucht wird.
+Eine recht gute Näherung für die Mondmasse erhält man bereits, wenn man das Erde-Mond-System als reines Zweikörperproblem betrachtet.
+
+Erde und Mond stellen in erster Näherung ein Zweikörpersystem dar, wobei beide Partner ihren gemeinsamen Schwerpunkt S {\displaystyle S} umkreisen.
+Beim Zweikörpersystem aus Erde und Sonne fällt dieser Schwerpunkt praktisch mit dem Sonnenmittelpunkt zusammen, da die Sonne sehr viel massereicher als die Erde ist.
+Bei Erde und Mond ist der Massenunterschied jedoch nicht so groß, daher liegt der Erde-Mond-Schwerpunkt nicht im Zentrum der Erde, sondern deutlich davon entfernt (aber noch innerhalb der Erdkugel).
+Bezeichnet man nun mit r 1 {\displaystyle r_{1}} den Abstand des Erdmittelpunkts und mit r 2 {\displaystyle r_{2} } den Abstand des Mondmittelpunkts vom Schwerpunkt S {\displaystyle S} , folgt aus der Definition des Schwerpunkts
+
+dass das Massenverhältnis von Erde M zu Mond m gerade dem Verhältnis von r 1 {\displaystyle r_{1}} zu r 2 {\displaystyle r_{2}} entspricht.
+Somit geht es nur darum, wie groß r 1 { \displaystyle r_{1}} und r 2 {\displaystyle r_{2}} sind - also wo sich der Schwerpunkt des Systems befindet.
+
+Ohne den Mond und dessen Schwerkraft durchliefe die Erde eine elliptische Bahn um die Sonne.
+Tatsächlich bewegt sich der Schwerpunkt des Erde-Mond-Systems auf einer elliptischen Bahn.
+Die Rotation um den gemeinsamen Schwerpunkt erzeugt eine leichte Welligkeit in der Erdbahn, die eine kleine Verschiebung der von der Erde aus gesehenen Position der Sonne verursacht.
+Aus der gemessenen Größe dieser Verschiebung wurde r 1 {\displaystyle r_{1}} zu etwa 4670 km berechnet, also etwa 1700 km unter der Erdoberfläche (der Radius der Erde beträgt 6378 km).
+Da der Mond keine genaue Kreisbahn um die Erde beschreibt, berechnet man r 2 {\displaystyle r_{2}} über die mittlere große Halbachse abzüglich r 1 {\displaystyle r_{1}} .
+Es gilt also r 2 {\displaystyle r_{2}} = 384.400 km - 4670 km = 379.730 km.
+Damit ergibt sich für das Massenverhältnis
+
+Die Masse des Mondes beträgt daher etwa 181 der Masse der Erde.
+Durch Einsetzen der Erdmasse M  5,97 * 1024 kg ergibt sich die Masse des Mondes zu
+
+Genauere Messungen vor Ort ergeben einen Wert von m  7,349 * 1022 kg.
+
+=== Magnetfeld des Mondes
+
+Die Analyse des Mondbrockens Troctolite 76535, der mit der Mission Apollo 17 zur Erde gebracht wurde, deutet auf ein früheres dauerhaftes Magnetfeld des Erdmondes und damit auf einen ehemals oder immer noch flüssigen Kern hin.
+Jedoch hat der Mond inzwischen kein Magnetfeld mehr.
+
+==== Lokale Magnetfelder
+
+Der Sonnenwind und das Sonnenlicht lassen auf der sonnenzugewandten Mondseite Magnetfelder entstehen.
+Dabei werden Ionen und Elektronen aus der Oberfläche freigesetzt.
+Diese wiederum beeinflussen den Sonnenwind.
+
+Die seltenen "Mondwirbel" ohne Relief, sogenannte Swirls, fallen außer durch ihre Helligkeit auch durch eine Magnetfeldanomalie auf.
+Diese werden als Magcon (Magnetic concentration) bezeichnet.
+Zu ihrer Entstehung gibt es unterschiedliche Theorien.
+Eine davon geht von großen antipodischen Einschlägen aus, von denen Plasmawolken rund um den Mond liefen, sich auf der Gegenseite trafen und dort den eisenhaltigen Mondboden auf Dauer magnetisierten.
+Nach einer anderen Vorstellung könnten manche der Anomalien auch Reste eines ursprünglich globalen Magnetfeldes sein.
+
+== Geologie des Mondes
+
+=== Entstehung des Mondes
+
+Der Mond hat mit 3476 km etwa ein Viertel des Durchmessers der Erde und weist mit 3,345 g/cm3 eine geringere mittlere Dichte als die Erde auf.
+Aufgrund seines im Vergleich zu anderen Monden recht geringen Größenunterschieds zu seinem Planeten bezeichnet man Erde und Mond gelegentlich auch als Doppelplanet.
+Seine im Vergleich zur Erde geringe mittlere Dichte blieb auch lange ungeklärt und sorgte für zahlreiche Theorien zur Entstehung des Mondes.
+
+Das heute weithin anerkannte Modell zur Entstehung des Mondes besagt, dass vor etwa 4,5 Milliarden Jahren der Protoplanet Theia, ein Himmelskörper von der Größe des Mars, nahezu streifend mit der Protoerde kollidierte.
+Dabei wurde viel Materie, vorwiegend aus der Erdkruste und dem Mantel des einschlagenden Körpers, in eine Erdumlaufbahn geschleudert, ballte sich dort zusammen und formte schließlich den Mond.
+Der Großteil des Impaktors vereinte sich mit der Protoerde zur Erde.
+Nach aktuellen Simulationen bildete sich der Mond in einer Entfernung von rund drei bis fünf Erdradien, also in einer Höhe zwischen 20.000 und 30.000 km.
+Durch den Zusammenstoß und die frei werdende Gravitationsenergie bei der Bildung des Mondes wurde dieser aufgeschmolzen und vollständig von einem Ozean aus Magma bedeckt.
+Im Laufe der Abkühlung bildete sich eine Kruste aus den leichteren Mineralen aus, die noch heute in den Hochländern vorzufinden sind.
+
+Die frühe Mondkruste wurde bei größeren Einschlägen immer wieder durchschlagen, so dass aus dem Mantel neue Lava in die entstehenden Krater nachfließen konnte.
+Es bildeten sich Mare, die erst einige hundert Millionen Jahre später vollständig erkalteten.
+Das sogenannte letzte große Bombardement endete erst vor 3,8 bis 3,2 Milliarden Jahren, nachdem die Anzahl der Einschläge von Asteroiden vor etwa 3,9 Milliarden Jahren deutlich zurückgegangen war.
+Danach ist keine starke vulkanische Aktivität nachweisbar, doch konnten einige Astronomen - vor allem 1958/59 der russische Mondforscher Nikolai Kosyrew - vereinzelte Leuchterscheinungen beobachten, sogenannte Lunar Transient Phenomena.
+
+Im November 2005 konnte eine internationale Forschergruppe der ETH Zürich sowie der Universitäten Münster, Köln und Oxford erstmals die Entstehung des Mondes präzise datieren.
+Dafür nutzten die Wissenschaftler eine Analyse des Isotops Wolfram-182 und berechneten das Alter des Mondes auf 4527 +/- 10 Millionen Jahre.
+Somit ist er 30 bis 50 Millionen Jahre nach der Herausbildung des Sonnensystems entstanden.
+Neuere Untersuchungen von deutschen Wissenschaftlern, die das Kristallisationsverhalten des Magmaozeans berücksichtigen, kommen auf ein Alter von 4425 +/- 25 Millionen Jahren.
+
+=== Innerer Aufbau
+
+Das Wissen über den inneren Aufbau des Mondes beruht im Wesentlichen auf den Daten der vier von den Apollo-Missionen zurückgelassenen Seismometer, die diverse Mondbeben sowie Erschütterungen durch Einschläge von Meteoroiden und durch extra zu diesem Zweck ausgelöste Explosionen aufzeichneten.
+Diese Aufzeichnungen lassen Rückschlüsse über die Ausbreitung der seismischen Wellen im Mondkörper und damit über den Aufbau des Mondinneren zu, wobei die geringe Anzahl der Messstationen nur sehr begrenzte Einblicke ins Mondinnere liefert.
+Über die Oberflächengeologie, die bereits durch Beobachtungen von der Erde aus grob bekannt war, wurden durch die von den Apollo- und Luna-Missionen zur Erde gebrachten Mondgesteinsproben sowie durch detaillierte Kartierungen der Geomorphologie, der mineralischen Zusammensetzung der Mondoberfläche und des Gravitationsfeldes im Rahmen der Clementine- und der Lunar-Prospector-Mission neue Erkenntnisse gewonnen.
+
+Seismisch lässt sich die Mondkruste aus Anorthosit (mittlere Gesteinsdichte 2,9 g/cm3) auf der Mondvorderseite in einer durchschnittlichen Tiefe von 60 km gegen den Mantel abgrenzen.
+Auf der Rückseite reicht sie vermutlich bis in 150 km Tiefe.
+Die größere Mächtigkeit der Kruste und damit der erhöhte Anteil relativ leichten feldspatreichen Krustengesteins auf der erdabgewandten Seite könnte zumindest teilweise dafür verantwortlich sein, dass das Massezentrum des Mondes etwa 2 km näher an der Erde liegt als sein geometrischer Mittelpunkt.
+Unterhalb der Kruste schließt sich ein fast vollständig fester Mantel aus mafischem und ultramafischem Gestein (Olivin- und Pyroxenreiche Kumulate) an.
+Zwischen Mantel und Kruste wird eine dünne Schicht basaltischer Zusammensetzung vermutet, die bei der Auskristallisierung der anderen beiden Gesteinshüllen mit inkompatiblen Elementen angereichert wurde und daher einen hohen Anteil an Kalium, Rare Earth Elements (dt.
+Seltene Erden) und Phosphor aufweist.
+Diese spezielle chemische Signatur, die sich auch durch hohe Konzentrationen von Uran und Thorium auszeichnet, wird KREEP genannt.
+Nach traditionellen Hypothesen tritt diese sogenannte Ur-KREEP-Schicht gleichmäßig verteilt unterhalb der Mondkruste auf.
+Neueren, aus Daten der Lunar-Prospector-Sonde gewonnenen Erkenntnissen zufolge scheint sich KREEP aber schon während der Ausdifferenzierung von Kruste und Mantel vorwiegend in der Kruste der heutigen Oceanus-Procellarum-Mare-Imbrium-Region angereichert zu haben.
+Die Wärmeproduktion durch die radioaktiven Elemente wird für den vermuteten "jungen" Vulkanismus in dieser Mondregion (bis 1,2 Milliarden Jahre vor heute) verantwortlich gemacht.
+
+Die seismische Erkundung des Mondes erbrachte Hinweise auf Unstetigkeitsflächen (Diskontinuitäten) in 270 und 500 km Tiefe, die als Grenzflächen verschieden zusammengesetzter Gesteinshüllen gedeutet werden und deshalb als die Grenzen zwischen oberem und mittlerem (270 km) bzw. mittlerem und unterem (500 km) Mondmantel gelten.
+Der obere Mantel wird in diesem Modell als quarzführender Pyroxenit interpretiert, der mittlere als mit FeO-angereichterter olivinführender Pyroxenit und der untere Mantel als Olivin-Orthopyroxen-Klinopyroxen-Granat-Vergesellschaftung.
+Aber auch andere Interpretationen sind möglich.
+
+Über den Mondkern ist kaum etwas bekannt und über dessen genaue Größe und Eigenschaften existieren unterschiedliche Ansichten.
+Durch aufwendige Aufbereitung seismischer Daten wurde nunmehr ermittelt, dass der Mondkern mit einem Radius von etwa 350 km ungefähr 20 % der Größe des Mondes besitzt (vgl. Erdkern relativ zur Größe der Erde:
+ 50 %) und sich die Mantel-Kern-Grenze damit in einer Tiefe von etwa 1400 km befindet.
+Es wird angenommen, dass er, wie der Erdkern, vor allem aus Eisen besteht.
+Hierbei liefern die seismischen Daten (u. a. die Dämpfung von Scherwellen) Hinweise darauf, dass ein fester innerer Kern von einem flüssigen äußeren Kern umgeben ist, an den sich wiederum nach außen eine teilaufgeschmolzene Zone des untersten Mantels (PMB, partially molten boundary layer) anschließt.
+Aus diesem Modell lassen sich die ungefähren Temperaturen ableiten, die im Kern des Mondes entsprechend herrschen müssen, die deutlich unter denen des Erdkerns, um die 1400 °C (+/- 400 °C) liegen.
+Unterster Mantel und Kern mit ihrem teilaufgeschmolzenen bzw. flüssigen Material werden zusammen auch als Mondasthenosphäre bezeichnet.
+Die sich offenbar vollständig rigide verhaltenden Bereiche darüber (mittlerer und oberer Mantel sowie Kruste), in denen keine Dämpfung von Scherwellen stattfindet, bilden entsprechend die Mondlithosphäre.
+
+==== Mondbeben
+
+Die zurückgelassenen Seismometer der Apollo-Missionen registrierten bis zum Ende der Messungen im Jahr 1977 etwa 12.000 Mondbeben.
+Die stärksten dieser Beben erreichten mit einer Magnitude von knapp 5 nur einen Bruchteil der Magnitude der stärksten Erdbeben.
+Die meisten Mondbeben hatten Magnituden um 2. Die seismischen Wellen der Beben konnten ein bis vier Stunden lang verfolgt werden.
+Sie wurden im Mondinneren also nur sehr schwach gedämpft.
+
+Bei mehr als der Hälfte der Beben befand sich das Hypozentrum in einer Tiefe von 800 bis 1000 km, oberhalb der Mondasthenosphäre.
+Diese Beben traten bevorzugt bei Apogäum- und Perigäumdurchgang auf, das heißt alle 14 Tage.
+Daneben sind auch Beben mit oberflächennahem Hypozentrum bekannt.
+Ursache der Beben sind mit der Erdentfernung schwankende Gezeitenkräfte.
+Abweichungen vom mittleren Gezeitenpotential sind am erdnächsten und erdfernsten Punkt der Mondbahn groß.
+Die Hypozentren der Beben verteilten sich jedoch nicht gleichmäßig über eine gesamte Mantelschale.
+Die meisten Beben entstanden in nur etwa 100 Zonen, die jeweils nur wenige Kilometer groß waren.
+Der Grund für diese Konzentration ist noch nicht bekannt.
+
+==== Massenkonzentrationen
+
+Durch ungewöhnliche Einflüsse auf die Bahnen der Lunar-Orbiter-Missionen erhielt man Ende der 1960er Jahre erste Hinweise auf Schwereanomalien, die man Mascons (Mass concentrations, Massenkonzentrationen) nannte.
+Durch Lunar Prospector wurden diese Anomalien näher untersucht, sie befinden sich meist im Zentrum der Krater und sind vermutlich durch die Einschläge entstanden.
+Möglicherweise handelt es sich um die eisenreichen Kerne der Impaktoren, die aufgrund der fortschreitenden Abkühlung des Mondes nicht mehr bis zum Kern absinken konnten.
+Nach einer anderen Theorie könnte es sich um Lavablasen handeln, die als Folge eines Einschlags aus dem Mantel aufgestiegen sind.
+
+=== Regolith
+
+Der Mond besitzt nur eine sehr geringe Atmosphäre.
+Deshalb schlagen bis heute ständig Meteoroiden unterschiedlicher Größe ohne Abbremsung auf der Oberfläche ein, die das an der Mondoberfläche anstehende Krustengestein zertrümmert, ja regelrecht pulverisiert haben.
+Durch diesen Prozess entsteht Mondregolith (im Englischen z. T. auch als lunar soil, "Monderde", bezeichnet).
+Er bedeckt weite Areale der Mondoberfläche mit einer mehrere Meter dicken Schicht, welche Details der ursprünglichen Geologie des Mondes verbirgt und so die Rekonstruktion seiner Entstehungsgeschichte erschwert.
+
+Obwohl er gemeinhin als Mondstaub bezeichnet wird, entspricht der Regolith eher einer Sandschicht.
+Die Korngröße reicht von Staubkorngröße direkt an der Oberfläche über Sandkörner wenig tiefer bis hin zu Steinen und Felsen, die erst später hinzukamen und noch nicht vollständig zermahlen sind.
+
+Der Regolith entsteht hauptsächlich aus dem normalen Material der Oberfläche.
+Er enthält aber auch Beimengungen, die durch Einschläge an den Fundort transportiert wurden.
+Ein weiterer wichtiger Bestandteil sind glasige Erstarrungsprodukte von Einschlägen.
+Das sind zum einen kleine Glaskugeln, die an Chondren erinnern, und zum anderen Agglutinite, also durch Glas verbackene Regolithkörner.
+Diese machen an manchen Stellen fast die Hälfte des Oberflächengesteins des Mondes aus und entstehen, wenn die durch den Einschlag erzeugten Spritzer geschmolzenen Gesteins erst nach dem Auftreffen auf die Regolithschicht erstarren.
+
+Im Mondmeteoriten Dhofar 280, der 2001 im Oman gefunden wurde, wurden neue Eisen-Silizium-Mineralphasen identifiziert.
+Eine davon (Fe2Si), damit erstmals eindeutig in der Natur nachgewiesen, wurde nach Bruce Hapke als Hapkeit benannt.
+Dieser hatte in den 1970er Jahren die Entstehung derartiger Eisenverbindungen durch Weltraumverwitterung vorhergesagt.
+Weltraum-Erosion verändert auch die Reflexionseigenschaften des Materials und beeinflusst so die Albedo der Mondoberfläche.
+
+Der Mond hat kein nennenswertes Magnetfeld, d. h. die Teilchen des Sonnenwindes - vor allem Wasserstoff, Helium, Neon, Kohlenstoff und Stickstoff - treffen nahezu ungehindert auf die Mondoberfläche und werden im Regolith implantiert.
+Dies ähnelt der Ionenimplantation bei der Herstellung integrierter Schaltungen.
+Auf diese Weise bildet der Mondregolith ein Archiv des Sonnenwindes, vergleichbar dem Eis in Grönland für das irdische Klima.
+
+Dazu kommt, dass kosmische Strahlung bis zu einen Meter tief in die Mondoberfläche eindringt und dort durch Kernreaktionen (hauptsächlich Spallationsreaktionen) instabile Nuklide bildet.
+Diese verwandeln sich u. a. durch Alphazerfall mit verschiedenen Halbwertszeiten in stabile Nuklide.
+Da beim Alphazerfall jeweils ein Helium-Atomkern entsteht, enthalten Gesteine des Mondregoliths bedeutend mehr Helium als irdische Oberflächengesteine.
+
+Da der Mondregolith durch Einschläge umgewälzt wird, haben die einzelnen Bestandteile meist eine komplexe Bestrahlungsgeschichte hinter sich.
+Man kann jedoch durch radiometrische Datierungsmethoden für Mondproben herausfinden, wann sie nahe der Oberfläche waren.
+Damit lassen sich Erkenntnisse über die kosmische Strahlung und den Sonnenwind zu diesen Zeitpunkten gewinnen.
+
+=== Wasser
+
+Der Mond ist ein extrem trockener Körper.
+Jedoch konnten Wissenschaftler mit Hilfe eines neuen Verfahrens im Sommer 2008 winzige Spuren von Wasser (bis zu 0,0046 %) in kleinen Glaskügelchen vulkanischen Ursprungs in Apollo-Proben nachweisen.
+Diese Entdeckung deutet darauf hin, dass nach der gewaltigen Kollision, durch die der Mond entstand, nicht das ganze Wasser verdampft ist.
+
+Erstmals hat 1998 die Lunar-Prospector-Sonde Hinweise auf Wassereis in den Kratern der Polarregionen des Mondes gefunden, dies wird aus dem Energiespektrum des Neutronenflusses evident.
+Dieses Wasser könnte aus Kometenabstürzen stammen.
+Da die tieferen Bereiche der polaren Krater aufgrund der geringen Neigung der Mondachse gegen die Ekliptik niemals direkt von der Sonne bestrahlt werden und somit das Wasser dort nicht verdampfen kann, könnte es sein, dass dort noch im Regolith gebundenes Wassereis vorhanden ist.
+Der Versuch, durch den gezielten Absturz des Prospectors in einen dieser Polarkrater einen eindeutigen Nachweis zu erhalten, schlug allerdings fehl.
+
+Im September 2009 lieferten Reflexionsminima im 3-m-Bereich von Infrarotspektren der Mondoberfläche, die das NASA-Instrument Moon Mineralogy Mapper (kurz M3) an Bord der indischen Sonde Chandrayaan-1 aufgenommen hatte, Hinweise auf oberflächennahes "Wasser und Hydroxyl" an permanent beschatteten Stellen der beiden Mondpole.
+Dieses Phänomen wurde bereits bei der Instrumentenkalibrierung der Raumsonde Cassini bei ihrem Vorbeiflug am Mond im Jahr 1999 festgestellt.
+
+Nachfolgend wurde im Zuge der Auswertung weiterer M3-Daten zumindest ein Teil dieses Materials "definitiv" als Wassereis identifiziert.
+
+Am 13. November 2009 bestätigte die NASA, dass die Daten der LCROSS-Mission auf größere Wasservorkommen auf dem Mond schließen lassen.
+
+Im März 2010 gab der United States Geological Survey bekannt, dass bei erneuten Untersuchungen der Apollo-Proben mit der neuen Methode der Sekundärionen-Massenspektrometrie bis zu 0,6 % Wasser gefunden wurden.
+Das Wasser weist ein Wasserstoffisotopenverhältnis auf, welches deutlich von den Werten irdischen Wassers abweicht.
+
+Im Oktober 2010 ergab eine weitere Auswertung der LCROSS- und LRO-Daten, dass viel mehr Wasser auf dem Mond vorhanden ist als früher angenommen.
+Die Sonde Chandrayaan-1 fand allein am Nordpol des Mondes Hinweise auf mindestens 600 Millionen Tonnen Wassereis.
+Auch wurden Hydroxylionen, Kohlenmonoxid, Kohlendioxid, Ammoniak, freies Natrium und Spuren von Silber detektiert.
+
+Wasser(eis) überdauert oberflächennah am längsten an den Polen des Mondes, da diese am wenigsten vom Sonnenlicht beschienen und erwärmt werden, und besonders in der Tiefe von Kratern.
+Durch Untersuchung mit Neutronenspektrometern im Orbit fanden Matthew Siegler et al. die höchsten Konzentrationen von Wasserstoff (wahrscheinlich in Form von Wassereis) etwas abseits der aktuellen Pole an zwei Stellen, die sich diametral gegenüberliegen.
+Sie leiten daraus die Hypothese ab, dass - etwa durch vulkanische Massenverschiebung - sich die Polachse um etwa 6° verschoben hat.
+
+Im Jahr 2020 berichteten Astronomen die Entdeckung von Wasser außerhalb des Südpols auf der sonnenbeschienenen Seite des Mondes.
+Dies deutet darauf hin, dass Wasser für potenzielle zukünftige Mondmissionen - etwa um Sauerstoff zum Atmen oder Wasserstoff für Triebwerke herzustellen - zugänglicher sein könnte als bisher angenommen.
+Tagestemperaturen auf dem Mond liegen über dem Siedepunkt von Wasser.
+Die Entdeckung wurde mittels dreier Raumsonden und dem einzigen Teleskop an Bord eines modifizierten Flugzeugs, SOFIA, gemacht.
+
+== Oberflächenstrukturen
+
+Die Mondoberfläche beträgt 38 Mio. km2 und ist damit etwa 15 % größer als die Fläche von Afrika mit der arabischen Halbinsel.
+Sie ist nahezu vollständig von einer grauen Regolith-Schicht bedeckt.
+Des Mondes redensartlicher "Silberglanz" wird einem irdischen Beobachter nur durch den Kontrast zum Nachthimmel vorgetäuscht.
+Tatsächlich hat der Mond eine relativ geringe Albedo (Rückstrahlfähigkeit).
+
+Die Mondoberfläche gliedert sich in Terrae ("Länder") und Maria ("Meere").
+Die Terrae sind ausgedehnte Hochländer und die Maria (Singular: Mare) sind große Beckenstrukturen, die von Gebirgszügen gerahmt sind und in denen sich weite Ebenen aus erstarrter Lava befinden.
+Sowohl die Maria als auch die Terrae sind übersät von Kratern.
+Zudem gibt es zahlreiche Gräben und Rillen sowie flache Dome, jedoch keine aktive Plattentektonik wie auf der Erde.
+Auf dem Mond ragt der höchste Gipfel 16 km über den Boden der tiefsten Senke, was rund 4 km weniger sind als auf der Erde (Ozeanbecken inbegriffen).
+
+=== Maria
+
+Die erdzugewandte Mondseite wird von den meisten und größten Maria geprägt.
+Die Maria sind dunkle Tiefebenen, die insgesamt 16,9 % der Mondoberfläche bedecken.
+Sie bedecken 31,2 % der Vorderseite, aber nur 2,6 % der Rückseite.
+Die meisten Maria gruppieren sich auffällig in der Nordhälfte der Vorderseite und bilden das sogenannte "Mondgesicht".
+Die dunklen Maria hielt man in der Frühzeit der Mondforschung tatsächlich für Meere; deshalb werden sie nach Giovanni Riccioli mit dem lateinischen Wort für Meer (mare) bezeichnet.
+
+Die Maria sind erstarrte basaltische Lavadecken im Inneren ausgedehnter kreisförmiger Becken und unregelmäßiger Einsenkungen.
+Die Vertiefungen sind vermutlich durch große Einschläge in der Mondfrühphase entstanden.
+Da in der Frühphase der Mondmantel noch sehr heiß und daher magmatisch aktiv war, wurden diese Einschlagsbecken anschließend von aufsteigendem Magma bzw. Lava gefüllt.
+Dies wurde vermutlich durch die geringere Krustendicke der erdnahen Mondseite, im Vergleich zur erdfernen Mondseite, stark begünstigt.
+Allerdings ist der ausgedehnte Vulkanismus der Mondvorderseite wahrscheinlich noch von weiteren Faktoren begünstigt worden (siehe KREEP).
+Die Maria haben nur wenige große Krater, und außerhalb der Krater variieren ihre Höhen nur um maximal 100 m.
+Zu diesen kleinen Erhebungen gehören die Dorsa.
+Die Dorsa wölben sich als Rücken flach auf und erstrecken sich über mehrere dutzend Kilometer.
+Die Maria sind von einer 2 bis 8 m dicken Regolithschicht bedeckt, die aus Mineralen besteht, die relativ reich an Eisen und Magnesium sind.
+
+Die Maria wurden anhand von Proben ihrer dunklen Basalte radiometrisch auf 3,1 bis 3,8 Milliarden Jahre datiert.
+Das jüngste vulkanische Mondgestein ist ein in Afrika gefundener Meteorit mit KREEP-Signatur, der ca. 2,8 Milliarden Jahre alt ist.
+Dazu passt jedoch die Kraterdichte in den Maria nicht, die auf ein teilweise deutlich geringeres geologisches Alter der Maria von lediglich 1,2 Milliarden Jahren hinweist.
+
+==== Irregular Mare Patches
+
+Nach Auswertung von Aufnahmen und Oberflächendaten der Sonde Lunar Reconnaissance Orbiter stellten Wissenschaftler der Arizona State University und der Westfälischen Wilhelms-Universität Münster im Oktober 2014 die These auf, dass es noch vor deutlich weniger als 100 Millionen Jahren weit verbreitet vulkanische Aktivität auf dem Mond gegeben haben könnte.
+Innerhalb der großen Maria existieren demnach zahlreiche kleinere Strukturen mit Abmessungen zwischen 100 m und 5 km, die als Irregular Mare Patches bezeichnet und als lokale Lavadecken gedeutet werden.
+Die geringe Größe und Dichte der Einschlagskrater in diesen "Patches" (dt. "Flecken" oder "Flicken") deuten darauf hin, dass sie für Mondverhältnisse sehr jung sind, bisweilen kaum mehr als 10 Millionen Jahre.
+Eine dieser Strukturen namens "Ina" war bereits seit der Apollo-15-Mission bekannt, wurde jedoch bislang als Sonderfall mit geringer Aussagekraft für die geologische Geschichte des Mondes betrachtet.
+Die nun festgestellte Häufigkeit der Irregular Mare Patches lässt den Schluss zu, dass die vulkanische Aktivität auf dem Mond nicht wie bisher angenommen vor etwa einer Milliarde Jahren "abrupt" endete, sondern langsam über einen langen Zeitraum schwächer wurde, was unter anderem die bisherigen Modelle zu den Temperaturen im Mondinneren in Frage stellt.
+
+=== Terrae
+
+Die Hochländer wurden früher als Kontinente angesehen und werden deshalb als Terrae bezeichnet.
+Sie weisen deutlich mehr und auch größere Krater als die Maria auf und werden von einer bis zu 15 m dicken Regolithschicht bedeckt, die überwiegend aus hellem, relativ aluminiumreichem Anorthosit besteht.
+Die ältesten Hochland-Anorthositproben sind radiometrisch mit Hilfe der Samarium-Neodym-Methode auf ein Kristallisationsalter von 4,456 +/- 0,04 Milliarden Jahren datiert worden, was als Bildungsalter der ersten Kruste und als Beginn der Kristallisation des ursprünglichen Magmaozeans interpretiert wird.
+Die jüngsten Anorthosite sind etwa 3,8 Milliarden Jahre alt.
+
+Die Hochländer sind von sogenannten Tälern (Vallis) durchzogen.
+Dabei handelt es sich um bis zu einige hundert Kilometer lange, schmale Einsenkungen innerhalb der Hochländer.
+Ihre Breite beträgt oft wenige Kilometer, ihre Tiefe einige hundert Meter.
+Die Mondtäler sind in den meisten Fällen nach in der Nähe gelegenen Kratern benannt (Siehe auch: Liste der Täler des Erdmondes).
+
+In den Hochländern gibt es mehrere Gebirge, die Höhen von etwa 10 km erreichen.
+Sie sind möglicherweise dadurch entstanden, dass der Mond infolge der Abkühlung geschrumpft ist und sich dadurch Faltengebirge aufwölbten.
+Nach einer anderen Erklärung könnte es sich um die Überreste von Kraterwällen handeln.
+Sie sind nach irdischen Gebirgen benannt worden, zum Beispiel Alpen, Apenninen, Kaukasus und Karpaten.
+
+=== Krater
+
+Die Mondkrater entstanden durch Einschläge kosmischer Objekte und sind deshalb Einschlagkrater.
+Die größten von ihnen entstanden vor etwa 3 bis 4,5 Milliarden Jahren in der Frühzeit des Mondes durch Einschläge großer Asteroiden.
+Sie werden, der Nomenklatur von Riccioli folgend, vorzugsweise nach Astronomen, Philosophen und anderen Gelehrten benannt.
+Einige der großen Einschlagkrater sind von sternförmigen Strahlensystemen umgeben.
+Diese Strahlen stammen unmittelbar vom Einschlag und bestehen aus Auswurfmaterial (sogenannte Ejecta), das zu zahlreichen Glaskügelchen erstarrt ist.
+Die Glaskügelchen streuen das Licht bevorzugt in die Einfallsrichtung zurück, wodurch sich die Strahlen bei Vollmond hell vom dunkleren Regolith abheben.
+Die Strahlen sind besonders lang und auffällig beim Krater Tycho.
+
+Der größte Einschlagkrater auf dem Mond ist das Südpol-Aitken-Becken, das 2240 km durchmisst.
+Die kleinsten sind Mikrokrater, die erst unter dem Mikroskop sichtbar werden.
+Auf der Mondvorderseite sind mit irdischen Teleskopen allein mehr als 40.000 Krater, die mehr als 100 m durchmessen, sichtbar.
+Die Kraterdichte ist auf der Rückseite, da ihre Oberfläche durchschnittlich geologisch älter ist, deutlich höher.
+
+Vulkanische Krater sind bislang noch nicht zweifelsfrei identifiziert worden.
+Da die Mondkruste einen geringeren SiO2-Anteil hat als die kontinentale Erdkruste, haben sich dort keine Schichtvulkane gebildet, wie sie z. B. für den pazifischen Feuerring auf der Erde typisch sind.
+Aber auch Schildvulkane mit zentraler Caldera, wie sie in den Ozeanbecken der Erde oder auf dem Mars vorkommen, scheinen auf dem Mond nicht zu existieren.
+Stattdessen fand lunarer Vulkanismus offenbar überwiegend in Form von Spalteneruptionen statt.
+
+=== Rillen
+
+Auf der Mondoberfläche gibt es auch Rillenstrukturen (Rimae), über deren Ursprung vor dem Apollo-Programm lange spekuliert worden war.
+Man unterscheidet
+
+Seit den Untersuchungen der Hadley-Rille durch Apollo 15 geht man davon aus, dass es sich bei den mäandrierenden Rillen um Lavaröhren handelt, deren Decke eingestürzt ist.
+Hochauflösende Satellitenfotos sowie doppelte Radarechos von der Mondoberfläche in den Marius Hills (Oceanus-Procellarum-Becken), wo zudem eine negative Schwereanomalie registriert wurde, lassen es als sehr wahrscheinlich erscheinen, dass es auch heute noch ausgedehnte intakte Lavaröhrensysteme gibt.
+
+Die Entstehung der geraden Rillen ist deutlich unklarer - es könnte sich um Schrumpfungsrisse handeln, die sich in erkaltender Lava gebildet haben.
+
+Neben den als Rimae bezeichneten Strukturen bestehen noch schmale, vertiefte Strukturen, die eine Länge bis über 400 km erreichen.
+Sie ähneln den langgestreckten Rillen und werden als Furchen oder Risse (Rupes) bezeichnet.
+Diese Furchen gelten als Beweis für das Wirken von Spannungskräften innerhalb der Mondkruste.
+
+=== Gruben oder Löcher
+
+In Aufnahmen der Mondsonde Kaguya entdeckte der Astronom Junichi Haruyama mit seiner Arbeitsgruppe im Jahr 2009 erstmals ein "schwarzes Loch" mit ca. 65 m Durchmesser in der Mondoberfläche im Bereich der Marius-Hügel im Oceanus Procellarum auf der erdzugewandten Mondseite.
+Es liegt annähernd mittig in einer flachen Rille des mäandrierenden Typs.
+Neun verschiedene Aufnahmen, die unter verschiedenen Blickwinkeln und bei unterschiedlichen Sonnenständen gemacht wurden, erlaubten eine Schätzung der Tiefe des Lochs auf 80 bis 88 Meter.
+
+Weil um das Loch herum kein offensichtlich dort ausgeflossenes Material erkennbar ist, wird eine Entstehung als vulkanischer Schachtkrater ausgeschlossen.
+Am wahrscheinlichsten handelt es sich um ein sogenanntes Skylight einer Lavaröhre, das dadurch entstanden sein muss, dass die Decke der Lavaröhre an dieser Stelle eingestürzt ist.
+Die flache Rille repräsentiert demnach eine Lavaröhre, deren Decke noch weitgehend intakt ist, aber topographisch etwas unterhalb des Niveaus des Umlandes liegt.
+Ursächlich für die Bildung des Skylights können Mondbeben, Einschläge von Meteoriten oder die Auflast eines noch flüssigen Lavastroms gewesen sein.
+Auch ein Einfluss der irdischen Schwerkraft (Gezeitenkräfte) ist denkbar.
+
+Bis 2011 wurden zwei weitere mögliche Skylights entdeckt.
+Anfang 2018 betrug die Anzahl der Skylight-Kandidaten rund 200.
+
+=== Mondrückseite
+
+Über die Mondrückseite war vor den ersten Raumfahrtmissionen nichts bekannt, da sie von der Erde nicht sichtbar ist; erst Lunik 3 lieferte die ersten Bilder.
+Die Rückseite unterscheidet sich in mehreren Aspekten von der Vorderseite.
+Ihre Oberfläche prägen fast nur kraterreiche Hochländer.
+Zu den Kratern zählt auch das große Südpol-Aitken-Becken, das 13 km tief ist, 2240 km durchmisst, und von vielen anderen Kratern überzeichnet ist.
+Hier hat, wie Untersuchungen der Clementine-Mission und des Lunar Prospectors vermuten lassen, ein sehr großer Einschlagkörper die Mondkruste durchstoßen und möglicherweise Mantelgesteine freigelegt.
+Die Rückseitenkruste ist mit 150 km gegenüber 70 km der Vorderseitenkruste etwa doppelt so dick.
+Auf der Rückseite entdeckte die Raumsonde LRO auch Grabenstrukturen.
+Dort ist auf dem Mond auch der höchste bekannte Punkt (10.750 m), der mit dem Laser-Altimeter der Raumsonde Kaguya gemessen wurde und am Rande des Engelhardt-Kraters liegt.
+Am 3. Januar 2019 landete erstmals eine Raumsonde, die Chang'e-4, auf der Mondrückseite.
+
+Rück- und Vorderseite haben sich auch unterschiedlich entwickelt, weil das geometrische Mondzentrum (Mittelpunkt der volumensgleichen Kugel) und sein Schwerpunkt um 1,8 km (1 Promille des Mondradius) voneinander abstehen.
+Diese Asymmetrie von innerem Aufbau und Mondkruste könnte von einer Kollision mit einem zweiten Erdtrabanten herrühren, die einige Forscher in der Frühzeit des Mondes annehmen.
+
+Für die Mondrückseite ist die "dunkle Seite des Mondes" (englisch dark side of the Moon) eine erhalten gebliebene Redensart, die aber nur symbolisch im Sinne einer unbekannten Seite zu verstehen ist; im eigentlichen Wortsinn ist die Redensart falsch, da - wie schon zu den Mondphasen angemerkt - Rück- und Vorderseite im Laufe der Mondrotation abwechselnd von der Sonne beschienen werden.
+Die Rückseite ist durch den viel geringeren Flächenanteil der dunklen Mareebenen insgesamt sogar deutlich heller als die Vorderseite.
+
+== Einflüsse auf die Erde
+
+Die Gravitation des Mondes treibt auf der Erde die Gezeiten an.
+Dazu gehören nicht nur Ebbe und Flut in den Meeren, sondern auch Hebungen und Senkungen des Erdmantels.
+Die durch die Gezeiten frei werdende Energie wird der Drehbewegung der Erde entnommen und der darin enthaltene Drehimpuls dem Bahndrehimpuls des Mondes zugeführt.
+Dadurch verlängert sich gegenwärtig die Tageslänge um etwa 20 Mikrosekunden pro Jahr.
+In ferner Zukunft wird die Erdrotation an den Mondumlauf gebunden sein, und die Erde wird dem Mond immer dieselbe Seite zuwenden.
+
+Die Erde ist nicht perfekt kugelförmig, sondern durch die Rotation abgeflacht.
+Die Gezeitenkraft von Sonne und Mond erzeugt ein aufrichtendes Drehmoment, das zweimal jährlich bzw. monatlich maximal wird.
+Die Erde folgt diesem als Kreisel nicht direkt, sondern präzediert mit in erster Näherung konstanter Neigung der Erdachse.
+Wäre die Sonne die einzige Ursache für Präzession, würde sich die Neigung der Erdachse innerhalb von Millionen Jahren in weiten Bereichen ändern.
+Dies würde ungünstige Umweltbedingungen für das Leben auf der Erde bedeuten, weil die Polarnacht abwechselnd die gesamte Nord- bzw. Südhalbkugel erfassen würde.
+Die durch den Mond bewirkte schnelle Präzession stabilisiert die Neigung der Erdachse.
+So trägt der Mond zu dem das Leben begünstigenden Klima der Erde bei.
+
+=== Einfluss auf Lebewesen
+
+Nach dem Skeptic's Dictionary habe keine ausgewertete wissenschaftliche Studie eine signifikante positive Korrelation zwischen Mondphasen und dem Auftreten von Schlafstörungen, Verkehrsunfällen, Operationskomplikationen, der Häufigkeit von Suizidhandlungen oder der Häufigkeit von Geburten ergeben.
+Manche Menschen, z.B. in der Land- und Forstwirtschaft, achten seit alters her darauf, dass bestimmte Arbeiten in der Natur in der "richtigen" Mondphase erledigt werden (siehe auch: Mondholz, Mondkalender).
+
+Die tägliche Bewegung des Mondes und die darin enthaltene Information über die Himmelsrichtungen wird von Zugvögeln und einigen Arten nachtaktiver Insekten zur Navigation genutzt.
+Bei manchen Arten der Ringelwürmer (wie bei dem Samoa-Palolo), Krabben und Fische (Leuresthes) ist das Fortpflanzungsverhalten sehr eng an den monatlichen Phasenwechsel des Mondes gekoppelt.
+
+Die schon im 18. Jahrhundert erforschte Korrelation von Mondposition und Wetter ist so gering, dass ein dadurch verursachter Einfluss auf Lebewesen vollständig vernachlässigt werden kann.
+
+Das Schlafwandeln von Menschen wird irreführend als Mondsüchtig-Sein interpretiert.
+
+=== Mondregenbogen
+
+Bei Nacht kann durch Zusammentreffen von Mondlicht und Regentropfen ein Mondregenbogen entstehen, der analog zum physikalischen Prinzip des Regenbogens der Sonne funktioniert.
+
+=== Mondhof und Mondhalo
+
+Als Mondhof werden farbige Ringe um den Mond bezeichnet, die durch die Beugung des Lichts an den Wassertröpfchen der Wolken verursacht werden.
+Dabei ist der äußerste Ring von rötlicher Farbe und hat eine Ausdehnung von etwa zwei Grad, in seltenen Fällen auch bis zu zehn Grad.
+
+Umgangssprachlich wird der Begriff des Mondhofs auch für einen Halo um den Mond gebraucht.
+Dafür sind Eiskristalle in Luftschichten verantwortlich, die aus dünnem Höhennebel oder Dunst entstanden sind und das auf die Erde fallende Licht in einem sehr schwachen Winkel ablenken und dadurch eine Art leuchtenden Ringeffekt für den Betrachter hervorrufen.
+
+Eine spezielle Haloerscheinung des Mondes ist der Nebenmond.
+Analog zu den Nebensonnen treten Nebenmonde mit einem Abstand von rund 22 Grad neben dem Mond auf.
+Wegen der geringeren Lichtstärke des Mondes sieht man sie jedoch seltener und meistens bei Vollmond.
+
+=== Mondtäuschung und "falsche" Mondneigung
+
+Als Mondtäuschung bezeichnet man den Effekt, dass der Mond in Horizontnähe größer aussieht als im Zenit.
+Dies ist keine Folge der Lichtbrechung an den Luftschichten, sondern eine optische Täuschung, die von der Wahrnehmungspsychologie untersucht und erklärt wird.
+
+Auch das Phänomen, dass die beleuchtete Seite des Mondes oft nicht genau zur Sonne zu zeigen scheint, ist eine optische Täuschung und wird dort unter der Überschrift Relativität des Blickwinkels erläutert.
+Man kann sich davon überzeugen, dass die beleuchtete Mondsichel tatsächlich - wie zu erwarten - jederzeit senkrecht auf der Verbindungslinie zwischen Sonne und Mond steht, indem man diese Verbindungslinie durch eine mit ausgestreckten Armen - visiert - zwischen Sonne und Mond gespannte Schnur sichtbar macht.
+
+== Geschichte der Mondbeobachtung
+
+=== Freiäugige Beobachtung, Mondbahn und Finsternisse
+
+Der Mond ist nach der Sonne das mit Abstand hellste Objekt des Himmels; zugleich kann man seinen einzigartigen Helligkeits- und Phasenwechsel zwischen Vollmond und Neumond auch mit bloßem Auge sehr gut beobachten.
+
+Das letzte Auftauchen der abnehmenden Mondsichel am Morgenhimmel (Altlicht des Morgenletztes) oder das erste Auftauchen der zunehmenden Mondsichel am Abendhimmel (Neulicht des Abenderstes) markiert oder markierte in einigen Kulturkreisen den Beginn eines Monats.
+
+Die Mondphasen und die Sonnen- bzw. Mondfinsternisse sind mit Sicherheit schon früh von Menschen beobachtet worden.
+Die genaue Länge des siderischen und des synodischen Monats war schon im 5. Jahrtausend v. Chr. bekannt, ebenso die Neigung der Mondbahn gegen die Ekliptik (5,2°).
+Mindestens 1000 v. Chr. kannten die babylonischen Astronomen die Bedingungen, unter denen Sonnenfinsternisse auftreten, und die Vorhersage der Sonnenfinsternis vom 28. Mai 585 v. Chr. durch Thales von Milet entschied 585 v. Chr. den Krieg zwischen den Lydern und Medern.
+Von Anaxagoras ist die Aussage überliefert, der Mond erhalte sein Licht von der Sonne, und es gebe auf ihm Täler und Schluchten; diese und andere Lehren trugen ihm eine Verurteilung wegen Gotteslästerung ein.
+
+Auch Bedeckungen von Planeten oder ekliptiknahen Sternen durch den Mond sind in der Antike bezeugt.
+Aristoteles erwähnt in seiner Schrift Über den Himmel zum Beispiel die Bedeckung des Planeten Mars durch den zunehmenden Halbmond im Sternbild Löwe am 5. April 357 v. Chr. in den frühen Abendstunden.
+Er erwähnte in diesem Zusammenhang auch, dass die Babylonier und die Ägypter solche Phänomene über lange Zeit beobachtet und dokumentiert hatten.
+
+Die am Mond freiäugig erkennbaren Details (siehe Mondgesicht) werden in anderen Kulturkreisen auch als Hase etc. bezeichnet.
+Die dunklen, scharf begrenzten Flächen wurden schon früh als Meere interpretiert (diese glatten Ebenen werden daher bis heute Mare genannt), während die Natur der bei Vollmond sichtbar werdenden Strahlensysteme erst im 20. Jahrhundert geklärt werden konnte.
+
+=== Beobachtung mit Fernrohr, Mondkarten und Raumfahrt
+
+Als erdnächster Himmelskörper zeigt der Mond bereits durch einfache Fernrohre topographische Details, insbesondere in der Nähe des Terminators, da dort die Schatten lang sind, wie zum Beispiel der Goldene Henkel oder das Lunar X.
+So begann bald nach Erfindung des Fernrohrs 1608 die Erforschung des Mondes, zu nennen sind Galileo Galilei, David Fabricius, Thomas Harriot und Simon Marius.
+Höhepunkte der Selenografie waren die Arbeiten von Johann Hieronymus Schroeter, der 1791 seine Selenotopografie publizierte, die genaue Kartierung der Mondkrater und Gebirge sowie deren Benennung.
+
+Im März 1840 gelangen John William Draper in New York City mit einem entgegen der Erdrotation mitgeführten Teleskop der New York University die ersten fotografischen Aufnahmen des Mondes.
+
+Es folgte die Ära der hochpräzisen Mondkarten durch Beer, Mädler und andere, ab etwa 1880 die langbrennweitige Astrofotografie (siehe auch Pariser Mondatlas) und erste geologische Deutungen der Mondstrukturen.
+Das durch die Raumfahrt (erste Mondumkreisung 1959) gesteigerte Interesse am Mond führte zur erstmaligen Beobachtung leuchtender Gasaustritte durch Kosyrew, doch die Vulkanismus-Theorie der Mondkrater musste der Deutung als Einschlagkrater weichen.
+Vorläufiger Höhepunkt waren die bemannten Mondlandungen 1969-1972, die dadurch ermöglichten zentimetergenauen Laser-Entfernungsmessungen und in den letzten Jahren die multispektrale Fernerkundung der Mondoberfläche sowie die genaue Vermessung ihres Schwerefeldes durch verschiedene Mondorbiter.
+
+=== Mythologische Anfänge
+
+Die älteste bekannte Darstellung des Mondes ist eine 5000 Jahre alte Mondkarte aus dem irischen Knowth.
+Als weitere historisch bedeutende Abbildung in Europa ist die Himmelsscheibe von Nebra zu nennen.
+
+Das Steinmonument Stonehenge diente wahrscheinlich als Observatorium und war so gebaut, dass damit auch spezielle Positionen des Mondes vorhersagbar oder bestimmbar gewesen sind.
+
+In vielen archäologisch untersuchten Kulturen gibt es Hinweise auf die große kultische Bedeutung des Mondes für die damaligen Menschen.
+Der Mond stellte meist eine zentrale Gottheit dar, als weibliche Göttin, zum Beispiel bei den Thrakern Bendis, bei den alten Ägyptern Isis, bei den Griechen Selene, Artemis und Hekate sowie bei den Römern Luna und Diana, oder als männlicher Gott wie beispielsweise bei den Sumerern Nanna, in Ägypten Thot, in Japan Tsukiyomi, bei den Azteken Tecciztecatl und bei den Germanen Mani.
+Fast immer wurden Sonne und Mond dabei als entgegengesetzt geschlechtlich gedacht, auch wenn die Zuordnung variierte.
+In China dagegen galt der Mond als Symbol für Westen, Herbst und Weiblichkeit (Yin).
+
+Ein häufig vorkommendes Motiv ist das Bild von den drei Gesichtern der Mondgöttin: bei zunehmendem Mond die verführerische Jungfrau voller Sexualität, bei Vollmond die fruchtbare Mutter und bei abnehmendem Mond das alte Weib oder die Hexe mit der Kraft zu heilen, zum Beispiel bei den Griechen mit Artemis, Selene und Hekate sowie bei den Kelten Blodeuwedd, Morrigan und Ceridwen.
+
+Der Mond als Himmelskörper ist Gegenstand von Romanen und Fiktionen, von Jules Vernes Doppelroman Von der Erde zum Mond und Reise um den Mond über Paul Linckes Operette Frau Luna oder Herges zweibändigem Tim-und-Struppi-Comic-Abenteuer Reiseziel Mond und Schritte auf dem Mond bis hin zu der futuristischen Vorstellung einer Besiedelung des Mondes oder dem Reiseführer Reisen zum Mond von Werner Tiki Küstenmacher.
+
+=== Kalenderrechnung
+
+Neben der mythologischen Verehrung nutzten Menschen schon sehr früh den regelmäßigen und leicht überschaubaren Rhythmus des Mondes für die Beschreibung von Zeitspannen und als Basis eines Kalenders, noch heute basiert der islamische Kalender auf dem Mondjahr mit 354 Tagen (12 synodische Monate).
+Mit dem Übergang zum Ackerbau wurde die Bedeutung des Jahresverlaufs für Aussaat und Ernte wichtiger.
+Um dies zu berücksichtigen, wurden zunächst nach Bedarf, später nach feststehenden Formeln wie zum Beispiel dem metonischen Zyklus Schaltmonate eingefügt, die das Mondjahr mit dem Sonnenjahr synchronisierten.
+Auf diesem lunisolaren Schema basieren zum Beispiel der altgriechische und der jüdische Kalender.
+
+Die noch heute gebräuchliche Länge einer Woche von sieben Tagen basiert wahrscheinlich auf der zeitlichen Folge der vier hauptsächlichen Mondphasen (siehe oben).
+Bei der Osterrechnung spielt das Mondalter am letzten Tag des Vorjahres eine Rolle und heißt Epakte.
+
+Von den alten Hochkulturen hatten einzig die alten Ägypter ein reines Sonnenjahr mit zwölf Monaten a 30 Tage sowie fünf Schalttage, das heißt ohne strengen Bezug zum synodischen Monat von 29,5 Tagen, vermutlich, weil für die ägyptische Kultur die genaue Vorhersage der Nilüberschwemmungen und damit der Verlauf des Sonnenjahres überlebensnotwendig war.
+
+== Forschungsgeschichte
+
+Wissenschaftliche Teildisziplinen, die sich mit der Untersuchung des Mondes befassen, tragen nach dem griechischen Wort für Mond, v (Selene) gebildete Namen.
+Es sind:
+
+=== Erdgebundene Erforschung
+
+Die früheste grobe Mondkarte mit Konturen der Albedomerkmale und dem ersten Versuch einer Nomenklatur skizzierte William Gilbert im Jahr 1600 nach dem bloßen Auge.
+Die erste, wenn auch ebenfalls nur skizzenhafte Darstellung der mit einem Fernrohr sichtbaren Mondstrukturen stammt von Galileo Galilei (1609), die ersten brauchbaren stammen von Johannes Hevelius, der mit seinem Werk Selenographia sive Lunae Descriptio (1647) als Begründer der Selenografie gilt.
+In der Nomenklatur der Mondstrukturen setzte sich das System von Giovanni Riccioli durch, der in seinen Karten von 1651 die dunkleren Regionen als Meere (Mare, Plural: Maria) und die Krater nach Philosophen und Astronomen bezeichnete.
+Allgemein anerkannt ist dieses System jedoch erst seit dem 19. Jahrhundert.
+
+Tausende Detailzeichnungen von Mondbergen, Kratern und Wallebenen wurden von Johann Hieronymus Schroeter (1778-1813) angefertigt, der auch viele Mondtäler und Rillen entdeckte.
+Den ersten Mondatlas gaben Wilhelm Beer und Johann Heinrich Mädler 1837 heraus, ihm folgte bald eine lange Reihe fotografischer Atlanten.
+
+Ende des 19. Jahrhunderts konnten bereits Aussagen über die Erscheinung des Mondes getroffen werden, die auch heute noch weitestgehend Gültigkeit besitzen.
+Der österreichische Geologe Melchior Neumayr traf diesbezüglich folgende Aussage:
+
+Allerdings war die tatsächliche Entstehung dieser Krater bis zu diesem Zeitpunkt noch ungewiss.
+Neumayr nahm infolgedessen den Vulkanismus als die wahrscheinlichste Ursache dafür an:
+
+Neumayr gibt an, dass sich einzelne Gebirge mehr als 8000 m über ihre Umgebung erhöben.
+Die Höhenbestimmung von Kratern, Gebirgen und Ebenen war mit teleskopischen Beobachtungen jedoch sehr problematisch und erfolgte meist durch Analyse von Schattenlängen, wofür Josef Hopmann im 20. Jahrhundert Spezialmethoden entwickelte.
+Erst durch die Sondenkartierungen kennt man verlässliche Werte:
+Die Krater, mit Durchmessern bis zu 300 km, wirken zwar steil, sind aber nur wenige Grad geneigt, die höchsten Erhebungen hingegen erreichen eine Höhe von bis zu 10 km über dem mittleren Niveau.
+
+=== Erforschung mit ersten Raumfahrzeugen
+
+Den zweiten großen Sprung der Fortschritte in der Mondforschung eröffnete dreieinhalb Jahrhunderte nach der Erfindung des Fernrohrs der Einsatz der ersten Mondsonden.
+Die sowjetische Sonde Lunik 1 kam dem Mond rund 6000 km nahe, Lunik 2 traf ihn schließlich und Lunik 3 lieferte die ersten Bilder von seiner Rückseite.
+Die Qualität der Karten wurde in den 1960er Jahren deutlich verbessert, als zur Vorbereitung des Apollo-Programms eine Kartierung durch die Lunar-Orbiter-Sonden aus einer Mondumlaufbahn heraus stattfand.
+Die heute genauesten Karten stammen aus den 1990ern durch die Clementine- und Lunar-Prospector-Missionen.
+
+Das US-amerikanische Apollo- und das sowjetische Luna-Programm brachten mit neun Missionen zwischen 1969 und 1976 insgesamt 382 Kilogramm Mondgestein von der Mondvorderseite zur Erde; die folgende Tabelle gibt einen Überblick darüber.
+
+1979 wurde der erste Mondmeteorit in der Antarktis entdeckt, dessen Herkunft vom Mond allerdings erst einige Jahre später durch Vergleiche mit den Mondproben erkannt wurde.
+Mittlerweile kennt man noch mehr als zwei Dutzend weitere.
+Diese bilden eine komplementäre Informationsquelle zu den Gesteinen, die durch die Mondmissionen zur Erde gebracht wurden: Während man bei den Apollo- und Lunaproben die genaue Herkunft kennt, dürften die Meteorite, trotz der Unkenntnis ihres genauen Herkunftsortes auf dem Mond, repräsentativer für die Mondoberfläche sein, da einige aus statistischen Gründen auch von der Rückseite des Mondes stammen sollten.
+
+=== Menschen auf dem Mond
+
+Der Mond ist nach der Erde bisher der einzige von Menschen betretene Himmelskörper.
+Im Rahmen des Kalten Kriegs unternahmen die USA und die UdSSR einen Wettlauf zum Mond (auch bekannt als "Wettlauf ins All") und in den 1960er Jahren als Höhepunkt einen Anlauf zu bemannten Mondlandungen, die jedoch nur mit dem Apollo-Programm der Vereinigten Staaten verwirklicht wurden.
+Das bemannte Mondprogramm der Sowjetunion wurde daraufhin abgebrochen.
+
+Am 21. Juli 1969 UTC setzte mit Neil Armstrong der erste von zwölf Astronauten im Rahmen des Apollo-Programms seinen Fuß auf den Mond.
+Nach sechs erfolgreichen Missionen wurde das Programm 1972 wegen der hohen Kosten eingestellt; als bisher letzter Mensch verließ am 14. Dezember 1972 Eugene Cernan den Mond.
+
+Die folgende Tabelle führt die zwölf Männer auf, die den Mond betreten haben.
+Alle waren Bürger der USA.
+
+Daneben haben noch weitere zwölf US-Raumfahrer des Apollo-Programms den Mond besucht, jedoch ohne auf ihm zu landen.
+Dazu zählen die sechs Piloten Michael Collins, Richard Gordon, Stuart Roosa, Alfred Worden, Ken Mattingly und Ronald Ellwin Evans der jeweils im Mondorbit wartenden Kommandokapseln, sowie die Erstbesucher Frank Borman, Jim Lovell und William Anders mit Apollo 8 am 24. Dezember 1968, mit Apollo 10 Tom Stafford mit John Young und Eugene Cernan bei ihrem ersten Mondflug, und mit Apollo 13 noch mal Jim Lovell sowie Jack Swigert und Fred Haise, die wegen einer Panne auf dem Hinflug nur ein Swing-by-Manöver am Mond unternahmen.
+
+=== Mondsonden neuerer Zeit
+
+Nach einer Pause in der gesamten Mondraumfahrt von gut 13 Jahren startete am 24. Januar 1990 die japanische Experimentalsonde Hiten ohne wissenschaftliche Nutzlast.
+Sie setzte am 19. März desselben Jahres in einer Mondumlaufbahn die Tochtersonde Hagoromo aus, schwenkte am 15. Februar 1992 selbst in einen Mondorbit ein und schlug am 10. April 1993 auf den Mond auf.
+
+Am 25. Januar 1994 startete die US-amerikanische Raumsonde Clementine zum Mond, um dort neue Geräte und Instrumente zu testen.
+Am 19. Februar 1994 erreichte sie eine polare Mondumlaufbahn und kartierte von dort aus etwa 95 % der Mondoberfläche.
+Neben den zahlreichen Fotografien lieferte sie Hinweise auf Vorkommen von Wassereis am lunaren Südpol.
+Im Mai desselben Jahres vereitelte eine fehlerhafte Triebwerkszündung den geplanten Weiterflug zum Asteroiden Geographos.
+Die Sonde ist seit Juni 1994 außer Betrieb.
+
+Am 11. Januar 1998 erreichte die US-amerikanische Mondsonde Lunar Prospector eine polare Mondumlaufbahn, um an den Polen den Hinweisen auf Wassereis nachzuforschen.
+Zusätzlich maß sie auch das lunare Schwerefeld des Mondes für eine globale Schwerefeldkarte.
+Am 31. Juli 1999 endete die Mission mit einem geplanten Aufschlag in der Nähe des lunaren Südpols, um in der ausgeworfenen Partikelwolke von der Erde aus Wassereis nachweisen zu können; dieser Nachweis ist jedoch nicht gelungen.
+
+Als erste Mondsonde der ESA testete SMART-1 neue Techniken und erreichte am 15. November 2004 eine Mondumlaufbahn.
+Von dort suchte sie nach Wassereis, fotografierte die Mondoberfläche und untersuchte hauptsächlich deren chemische Zusammensetzung.
+Die Sonde schlug planmäßig am 3. September 2006 auf dem Mond ein, was von der Erde aus beobachtet werden konnte.
+
+Am 3. Oktober 2007 erreichte die japanische Sonde Kaguya den Mond und schwenkte in eine polare Umlaufbahn ein.
+Der hauptsächliche Orbiter hatte zwei Hilfssatelliten in einen jeweils eigenen Mondorbit ausgesetzt:
+Ein VRAD-Satellit diente erdgebundenen VLBI-Messungen und ein Relaissatellit sorgte für die Weiterleitung der Funksignale.
+Die Beobachtung des Mondes begann Mitte Dezember 2007 und endete am 10. Juni 2009 mit Kaguyas vorgesehenem Aufschlag.
+
+Am 24. Oktober 2007 hatte die Volksrepublik China ihre erste Mondsonde Chang'e-1 gestartet.
+Chang'e-1 erreichte den Mond am 5. November, und umkreiste ihn über die Pole für etwa ein Jahr.
+Sie analysierte die Mondgesteine spektroskopisch und kartografierte die Mondoberfläche dreidimensional.
+Wobei auch erstmals eine umfassende Mikrowellenkarte des Mondes entstand, die auch Bodenschätze anzeigt.
+Chang'e-1 schlug am 1. März 2009 gezielt auf dem Mond auf (siehe auch: Mondprogramm der Volksrepublik China).
+Die ursprüngliche Ersatzsonde von Chang'e-1 wurde zur Nachfolgesonde Chang'e-2. Sie umkreiste den Mond vom 6. Oktober 2010 bis zum 9. Juni 2011.
+Sie vertiefte bis April 2011 den Erfolg der China National Space Administration und bereitete die weiche Landung für Chang'e-3 vor.
+
+Der Start der indischen Mondsonde Chandrayaan-1, und damit der ersten Raumsonde Indiens, erfolgte am 22. Oktober 2008.
+Sie hat zu Beginn ihrer Mission am 14. November aus ihrer polaren Umlaufbahn einen Lander in der Nähe des lunaren Südpols hart aufschlagen lassen.
+Mit Instrumenten aus verschiedenen Ländern sollte unter anderem eine mineralogische, eine topografische und eine Höhenkarte des Mondes erstellt werden.
+Der Kontakt brach jedoch am 29. August 2009 vorzeitig ab.
+Die Mission sollte ursprünglich zwei Jahre dauern.
+
+Am 23. Juni 2009 um 9:47 UTC schwenkte der Lunar Reconnaissance Orbiter (LRO) der NASA auf eine polare Umlaufbahn ein, um den Mond in einer Höhe von 50 km mindestens ein Jahr lang zu umkreisen und dabei Daten für die Vorbereitung zukünftiger Landemissionen zu gewinnen.
+Die Geräte der US-amerikanischen Sonde liefern die Basis für hochaufgelöste Karten der gesamten Mondoberfläche (Topografie, Orthofotos mit 50 cm Auflösung, Indikatoren für Vorkommen von Wassereis) und Daten zur kosmischen Strahlenbelastung.
+Es wurden 5185 Krater mit einem Durchmesser von mindestens 20 km erfasst.
+Aus deren Verteilung und Alter wurde geschlossen, dass bis vor 3,8 Milliarden Jahren hauptsächlich größere Brocken den Mond trafen, danach vorwiegend kleinere.
+Die Raumsonde LRO entdeckte auch Grabenstrukturen auf der Mond-Rückseite.
+Wann die Mission enden soll, ist noch nicht bekannt.
+
+Mit derselben Trägerrakete wurde auch der Lunar Crater Observation and Sensing Satellite (LCROSS) zum Mond geschickt.
+Er schlug am 9. Oktober im Krater Cabeus nahe dem Südpol ein.
+Der Satellit bestand aus zwei Teilen, der ausgebrannten Oberstufe der Rakete, die einen Krater erzeugte, und der einige Zeit vor dem Einschlag abgekoppelten Geräteeinheit, die die aufgeworfene Partikelwolke insbesondere in Hinsicht auf Wassereis analysierte, bevor sie vier Minuten später ebenfalls aufschlug.
+
+Ab dem 7. März 2012 umkreisten zwei am 10. September 2011 gestartete Orbiter der NASA unter der Bezeichnung Gravity Recovery and Interior Laboratory (GRAIL) den Mond, um gemeinsam sein Schwerefeld genauer zu vermessen.
+Die Mission endete am 17. Dezember 2012, und beide Orbiter schlugen kontrolliert auf der Mondoberfläche ein.
+
+Am 6. September 2013 startete die NASA den Orbiter Lunar Atmosphere and Dust Environment Explorer (LADEE) als erste Mission des neuen Lunar-Quest-Programms, der die Atmosphäre und den Staub des Mondes näher untersuchte.
+Des Weiteren wurde die Mission genutzt, um einen Laser als neue Kommunikationsmöglichkeit anstelle von Radiowellen zu testen.
+Die Mission endete am 18. April 2014 nach einmaliger Verlängerung um einen Monat mit dem Aufschlag der Sonde auf der Mondoberfläche.
+
+Am 14. Dezember 2013 führte die chinesische Raumfahrtagentur mit Chang'e-3 ihre erste weiche Mondlandung durch.
+Die rund 3,7 Tonnen schwere Sonde dient u. a. dem Transport eines 120 kg schweren Mondrovers, der seine Energie aus Radioisotopengeneratoren erhält oder mit Radionuklid-Heizelementen ausgestattet ist, um während der 14-tägigen Mondnacht nicht einzufrieren.
+
+Zwei Landeversuche im Jahr 2019 mit der israelischen Sonde Beresheet und der indischen Mission Chandrayaan-2 scheiterten.
+
+== Geplante Erkundungsmissionen
+
+=== Neue bemannte Mondprogramme
+
+Konkrete Pläne für eine Rückkehr zum Mond zeichneten sich erst wieder durch Ankündigungen des damaligen US-Präsidenten George W. Bush und der NASA im Jahr 2004 ab.
+Das daraus entstandene Constellation-Programm wurde 2010 wegen Terminüberschreitungen und ausufernder Kosten eingestellt und kurz darauf durch das SLS/Exploration-Mission-Programm ersetzt, das von denselben Problemen geplagt ist.
+Nachdem sich der Plantermin für die nächste Mondlandung auf 2028 verschoben hatte, ergriff 2019 die Regierung unter Donald Trump die Initiative und forderte eine Rückkehr zum Mond bis 2024.
+Dieses als Artemis-Programm bezeichnete Projekt soll "nachhaltig" sein und mit einer Landung in der Südpolregion beginnen.
+Die Mittel hierfür müssen noch vom Gesetzgeber bewilligt werden.
+
+Neben der NASA plant auch das US-Unternehmen SpaceX mit seinem "Starship" bemannte Mondlandungen in den 2020er Jahren.
+Ebenso möchten Russland, China und Japan in den 2030er Jahren mit eigenen Raumschiffen und Raumfahrern die Mondoberfläche erreichen.
+
+=== Geplante Mondsonden
+
+Siehe auch: Liste der geplanten Mondmissionen
+
+Im Jahr 2020 ist innerhalb des Mondprogramms der Volksrepublik China die Rückkehrmission Chang'e-5 geplant.
+Eine Raumsonde soll dabei 2 kg Mondgestein mit zur Erde bringen.
+Frühstens im Jahr 2023 soll eine solche Probenmission, Chang'e-6, durchgeführt werden, um Material vom Mond zur Erde zu bringen.
+
+Verschiedene Unternehmen aus Deutschland, Japan, den USA und Israel planen den Start privat finanzierter Mondsonden in den Jahren ab 2022.
+
+Die NASA hat für frühestens 2021 den Lunar Flashlight und weitere CubeSats geplant, die im Rahmen der Mission Artemis 1 gestartet werden und unter anderem Wassereisvorkommen auf dem Mond untersuchen sollen.
+
+Für das Jahr 2021 ist von Seiten Russlands der Einsatz der Mondsonde Luna 25 geplant.
+Sie soll zwölf Penetratoren hauptsächlich für seismische Untersuchungen absetzen und einen Lander zur Suche nach Wassereis in einem Krater in Nähe des lunaren Südpols niedergehen lassen.
+Weitere Mondmissionen Luna 26 bis Luna 28 sind ebenfalls bereits in Planung.
+
+== Eigentumsverhältnisse
+
+Der Weltraumvertrag (Outer Space Treaty) von 1967 verbietet Staaten, einen Eigentumsanspruch auf Weltraumkörper wie den Mond zu erheben.
+Dieses Abkommen wurde bis heute von 109 Staaten der Vereinten Nationen ratifiziert und ist damit in Kraft.
+Da im Outer-Space-Treaty-Abkommen nur von Staaten die Rede ist, wird von manchen interpretiert, dass dieses Abkommen nicht für Firmen oder Privatpersonen gelte.
+1979 wurde deshalb der Mondvertrag (Agreement Governing the Activities of States on the Moon and Other Celestial Bodies) entworfen, um diese vom Outer Space Treaty hinterlassene angebliche Gesetzeslücke zu schließen.
+Der "Moon-Treaty"-Entwurf hatte explizit die Besitzansprüche von Firmen und Privatpersonen adressiert und ausgeschlossen (Artikel 11, Absatz 2 und 3).
+Aus diesem Grund wird das "Moon Treaty" oft als Hindernis für Grundstücksverkäufe zitiert; nur wurde dieses Abkommen tatsächlich nie unterschrieben oder in den Vereinten Nationen korrekt ratifiziert.
+Nur fünf Staaten, die alle nicht weltraumgängig sind, haben versucht, es zu ratifizieren.
+187 andere Staaten sowie die USA, Russland und China haben es nicht unterschrieben und auch nicht ratifiziert.
+Das "Moon Treaty" ist deshalb heute in den meisten Ländern der Erde nicht in Kraft.
+Die wählenden Staaten hatten damals zu viele Bedenken, dass es die profitable Nutzung des Mondes gefährden könnte, und somit wurde das Abkommen auch nicht ratifiziert (und deshalb nicht Gesetz).
+Daraus schlussfolgern einige, dass eine Rechtsgrundlage für Mond-Grundstücksverkäufe existiere.
+Es sollte ebenfalls darauf hingewiesen werden, dass die Internationale Astronomische Union sich nicht mit dem Verkauf von Himmelskörpern befasst.
+
+Der Amerikaner Dennis M. Hope meldete 1980 beim Grundstücksamt von San Francisco seine Besitzansprüche auf den Mond an.
+Da niemand in der nach amerikanischem Recht ausgesetzten Frist von acht Jahren Einspruch erhob und da das Outer-Space-Treaty-Abkommen solche Verkäufe durch Privatpersonen in den USA explizit nicht verbietet, vertreibt Hope die Grundstücke über seine dafür gegründete Lunar Embassy.
+Da allerdings das Grundstücksamt in San Francisco für Himmelskörper nicht zuständig ist und von Hope sowohl das Gesetz, das solche Besitzansprüche regelt, als auch der Text aus dem Outer Space Treaty sehr abenteuerlich interpretiert wurden, sind die "Grundstückszertifikate", die er verkauft, praktisch wertlos.
+
+== Koorbitale Objekte
+
+In den Librationspunkten L4 und L5 des Erde-Mond-Systems gibt es je eine Staubwolke, die Kordylewskischen Wolken.
+
+== Weiterer Erdtrabant
+
+Weitere Erdtrabanten sind Gegenstand von unbestätigten Beobachtungsbehauptungen oder von Hypothesen für vergangene Zeitabschnitte wie die Zeit der Entstehung des Mondes.
+
+== Trivia
+
+=== Mondkolonisation
+
+Die Errichtung von dauerhaften Außenposten und Kolonien auf dem Mond ist bereits vor der Erfindung der Raumfahrt diskutiert worden und spielt nach wie vor in der Science-Fiction-Literatur eine Rolle.
+Eine NASA-Studie zum Bergbau auf dem Mond listete 1979 die dafür notwendige Technologieentwicklung auf.
+
+=== Suche nach außerirdischer Intelligenz
+
+Der Mond könnte auch Hinweise für die Suche nach außerirdischen Zivilisationen liefern.
+Wissenschaftler wie Paul Davies halten eine Suche nach Artefakten und Überresten extraterrestrischer Technologie auf der lunaren Oberfläche für förderlich.
+
+=== Überlebten irdische Mikroben längeren Aufenthalt auf dem Mond?
+
+Möglicherweise befanden sich in dem durch die Apollo-12-Mission geborgenen Kameragehäuse der Sonde Surveyor 3 Mikroben 31 Monate lang auf dem Erdtrabanten und waren danach zur Vermehrung fähig.
+Für Details und Zweifel siehe Vorwärts-Kontamination.
+
+== Literatur
+
+== Weblinks
+
+Medien
+
+== Einzelnachweise
+

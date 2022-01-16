@@ -1,0 +1,305 @@
+Ozon (von altgriechisch v ozein "riechen") ist ein aus drei Sauerstoffatomen (O) aufgebautes Molekül (O3) und das daraus bestehende farblose bis bläuliche, in hoher Konzentration tiefblaue Gas von charakteristischem Geruch.
+Ozonmoleküle in der Luft zerfallen unter Normalbedingungen innerhalb einiger Tage zu biatomarem, das heißt aus zwei Sauerstoffatomen bestehendem, Sauerstoff (O2).
+
+Ozon ist ein starkes und giftiges Oxidationsmittel, das bei Menschen und Tieren zu Reizungen der Atemwege und der Augen sowie Begünstigung von Atemwegserkrankungen führen kann.
+In der Troposphäre ist Ozon der drittwirksamste Treiber der globalen Erwärmung (nach Kohlendioxid und Methan).
+
+Die Ozonschicht in der Stratosphäre schützt die Lebewesen auf der Erde vor Schädigungen durch energiereiche mutagene ultraviolette Strahlung der Sonne.
+
+== Geschichte
+
+Im Jahre 1839 beschrieb Christian Friedrich Schönbein erstmals die einzigartige Erscheinung, dass ein chemisches Element in Gasform in zwei verschiedenen molekularen Formen nebeneinander beständig ist - Ozon und Disauerstoff.
+Zunächst erschien diese Tatsache aber zu eigenartig, als dass die einfache Deutung Schönbeins, eine Allotropie im Gaszustand, allgemeine Anerkennung gefunden hätte.
+
+Die Abbaureaktionen von Ozon durch Stickoxide beschrieb 1970 erstmals Paul Josef Crutzen (Nobelpreis für Chemie 1995).
+
+== Vorkommen
+
+Die Menge an Ozon in der Atmosphäre wird in Dobson-Einheiten (also pro Erdoberfläche) oder in ppm (also pro Stoffmenge Luft) angegeben.
+Die höchste Konzentration mit einigen ppm weist Ozon in der Stratosphäre auf.
+Es entsteht dort im Ozon-Sauerstoff-Zyklus.
+Ozon ist in der Stratosphäre unschädlich und absorbiert teilweise die Ultraviolettstrahlung der Sonne.
+In der Atemluft ist es jedoch bereits in weit geringeren Konzentrationen gesundheitsschädlich, insbesondere verursacht die lokal sehr unterschiedliche Ozonbelastung Reizungen der Atemwege.
+
+Diese sehr unterschiedliche Gefahreneinschätzung in den verschiedenen atmosphärischen Schichtungen führt sehr häufig zu Verwechslungen und zur Unterschätzung der Gefahren.
+Das gesundheitliche Risiko des Ozons in den bodennahen Luftschichten ist durch seine Reaktivität begründet; Ozon ist eines der stärksten Oxidationsmittel.
+
+In Reinluftgebieten ist die Ozon-Konzentration im Sommer oft höher als in Städten.
+Dies liegt daran, dass Stickoxid (NO) der Ozonbildung entgegenwirkt.
+In Städten ist die NO-Konzentration durch Emissionen von Fahrzeugen (Land-, Wasser- und Luftfahrzeuge) relativ hoch.
+Im Einzelnen laufen folgende Reaktionen ab:
+
+Ozon entsteht wie folgt:
+
+Gleichzeitig wird Ozon durch NO wieder abgebaut:
+
+Wären also nicht noch weitere Stoffe, sogenannte flüchtige Kohlenwasserstoffe oder auch CO, in der unteren Luftschicht vorhanden, würde sich kein weiteres Ozon bilden, sondern abhängig von der Sonneneinstrahlung stellt sich dann ein Gleichgewicht zwischen O3, NO und NO2 ein.
+Je stärker die Sonne scheint, desto mehr Ozon und weniger NO2 ist vorhanden, da letzteres durch die UV-Strahlung gespalten wird (Reaktion 1).
+
+In der (verschmutzten) planetaren Grenzschicht der Atmosphäre finden sich auch Kohlenwasserstoffe, die sowohl vom Menschen (anthropogen) als auch von der Vegetation (biogen) emittiert werden.
+Sie werden von OH-Radikalen oxidiert, wobei Peroxid-Radikale R-O-O* entstehen.
+Diese wiederum sorgen dafür, dass NO zu NO2 oxidiert wird, ohne dass dabei ein O3 verbraucht wird, wie in Reaktion 3, also:
+
+Wenn danach wieder Reaktion 1 und 2 stattfinden, wird netto neues Ozon gebildet.
+
+Da NO durch Autos und Industrie ausgestoßen wird, wird Ozon in der Stadt schneller wieder abgebaut (nach Reaktion 3) als in ländlichen Gegenden.
+Außerdem finden sich in ländlichen Gebieten häufig Kohlenwasserstoffe, die leichter von OH-Radikalen angegriffen werden können, wodurch Reaktion 4 schneller abläuft.
+Ein bekanntes Beispiel für so einen leicht abbaubaren biogenen Kohlenwasserstoff ist Isopren.
+Die genaue Reaktionskette ist im Artikel Sommersmog beschrieben.
+
+Die im Zusammenhang mit der Ozonschicht häufig erwähnten FCKW (Fluorchlorkohlenwasserstoffe) werden durch UV-Strahlung gespalten, wodurch freie Chlorradikale entstehen, die wiederum viele Ozon-Moleküle "zerstören" können.
+
+== Bildung
+
+Ozon entsteht aus gewöhnlichem Sauerstoff gemäß der Reaktion
+
+Ozon bildet sich in der Atmosphäre vor allem auf drei Arten:
+
+=== Raumluftreinigungsgeräte
+
+Beim Betrieb von Raumluftreinigungsgeräten kann es gezielt oder ungewollt zur Bildung von Ozon kommen.
+So bilden einige Ionisatoren Ozon, um geruchlich wahrgenommene Moleküle der Umgebungsluft zu spalten und zu eliminieren.
+Allerdings bergen die Abbauprodukte von Nikotin und Zigarettenrauch, neben dem Ozon selbst, hohe gesundheitliche Risiken, so dass z. B. die Deutsche Lungenstiftung davor warnt, den schlechten Geruch verrauchter Räume mit Ozon generierenden Luftreinigern zu beseitigen.
+Die Richtlinie VDI 6022 Blatt 5 "Raumlufttechnik, Raumluftqualität - Vermeidung allergener Belastungen - Anforderung an die Prüfung und Bewertung von technischen Geräten und Komponenten mit Einfluss auf die Atemluft" empfiehlt daher, beim Einsatz von Ionisatoren gegebenenfalls die Ozon-Emissionsrate zu bestimmen.
+
+Ozon kann auch beim Betrieb von elektrostatischen Abscheidern (Elektrofiltern), die zur Raumluftreinigung eingesetzt werden, entstehen.
+Dies ist insbesondere dann der Fall, wenn durch die negative Polung der Sprühelektrode eine negative Koronaentladung erzielt wird.
+Deshalb wird in der Regel bei raumlufttechnischen Anlagen von dieser Konstellation abgesehen.
+
+Ozon kann ebenfalls beim Betrieb von Raumluftreinigungsgeräten entstehen, die gezielt nichtthermisches Plasma erzeugen.
+Die Menge des erzeugten Ozons hängt dabei von der Bauart und der Leistungsaufnahme des eingesetzten Geräts ab.
+
+=== Fotokopierer
+
+Bei älteren Fotokopierern sowie Laserdruckern kann man einen typischen "Ozongeruch" wahrnehmen.
+Dieser Geruch rührt nur indirekt vom durch die Ionisation der Luft im Gerät gebildeten Ozon her; er kommt vielmehr durch Spuren nitroser Gase (NOx) zustande, die durch Reaktion des Ozons mit dem Luftstickstoff gebildet werden.
+Das Funktionsprinzip der Geräte erfordert eine Ionisierung der Luft bei Spannungen von 5-15 kV.
+Meist besitzen die Geräte Ozonfilter, die das produzierte Ozon in Kohlendioxid umwandeln.
+Dennoch sollten diese Geräte möglichst nicht in unbelüfteten Räumen verwendet werden.
+Moderne Drucker und Fotokopierer arbeiten mit einer Transferrollentechnik, welche die Ozonbildung verhindert und die ältere Coronadrahttechnik weitestgehend ersetzt hat.
+
+== Gewinnung und Darstellung
+
+=== Darstellung im Labor
+
+Ozon kann aus der Reaktion von Kaliumpermanganat mit konzentrierter Schwefelsäure gewonnen werden.
+Das als Zwischenprodukt entstehende instabile Dimanganheptoxid Mn2O7 zerfällt bei Raumtemperatur zu Mangandioxid und Sauerstoff, der reich an Ozon ist.
+
+Bei der Elektrolyse verdünnter Schwefelsäure (ca. 20 %) entwickelt sich an einer Gold- oder Platinanode besonders bei hohen Stromdichten Ozon.
+Bei guter Kühlung lassen sich so 4-5 % Ozongehalt im entstehenden Sauerstoff erreichen, eine Konzentration, die ausreicht, um alle Reaktionen des Ozons im präparativen Maßstab ausführen zu können.
+Über ausgefeilte Apparaturen (z. B. feine Platindrahtwendeln) und Kühlung auf -14 °C lassen sich noch erheblich höhere Ozonkonzentrationen erreichen.
+
+Ozon lässt sich weiterhin aus Luftsauerstoff unter Einwirkung von Ultraviolettstrahlung oder stillen elektrischen Entladungen herstellen.
+Entsprechende, als Ozonisatoren bezeichnete Geräte gibt es im Handel.
+
+=== Herstellung in der Technik
+
+Aufgrund seiner Instabilität kann Ozon nicht über längere Zeit gelagert oder wie andere industriell verwendete Gase in Druckflaschen gekauft werden.
+Vor seiner Anwendung (chemische Synthese, Wasseraufbereitung, als Bleichmittel etc.) muss es an Ort und Stelle erzeugt werden.
+
+Zur Herstellung wird meistens getrocknete Luft oder Sauerstoff (Taupunkt mind. -65 °C) als Trägergas eingesetzt.
+In selteneren Fällen wird Sauerstoff mit Argon, Kohlenstoffdioxid u. ä. gemischt.
+Im Ozonerzeuger (Ozongenerator) werden die Sauerstoffmoleküle durch stille elektrische Entladung zu Sauerstoffatomen dissoziiert, wonach noch im Plasma der Entladungsfilamente die Ozonsynthese und Ozonanreicherung stattfindet.
+In Luft bewegen sich typische Endkonzentrationen zwischen einem und fünf Prozent Massenanteil, in Sauerstoff zwischen sechs und dreizehn Prozent Massenanteil.
+
+Aus reinem, trockenem Sauerstoff können bis zu 90 g*m-3, aus Luft (bei Kühlung) bis zu 40 g*m-3 Ozon gewonnen werden.
+Für 1 kg Ozon aus Sauerstoff (im Bereich von 1-6 Gew-%) werden 7-14 kWh Strom und 1,8 m3/ h Kühlwasser verbraucht.
+
+Die in der Praxis eingesetzten technischen Vorrichtungen können auf folgenden Elektrodenkonfigurationen basieren:
+
+Bei Anlagen mit mehr als 20 kg Ozon pro Stunde werden üblicherweise nur Röhrenozonisatoren eingesetzt.
+
+In erster Näherung ist die Ozonanreicherung eine Funktion des elektrischen Energieeintrags pro Gasvolumen.
+Zur Optimierung des Wirkungsgrades können folgende Parameter variiert werden:
+
+Auch durch Überlagerung eines inhomogenen elektrischen Feldes während des Energieeintrags (Dielektrophorese) kann das chemische Gleichgewicht, welches sich aus Synthese und Zersetzung bei wenigen Gewichtsprozenten einstellt, zugunsten des Ozons verschoben werden.
+
+Obwohl die Ozonbildung aus Sauerstoff unter Wärmeabsorption erfolgt, sind Ozonerzeugerkessel in industriellen Anwendungen wassergekühlt, da fast 90 Prozent der eingetragenen Energie infolge der hohen Zersetzungsrate wieder abgeführt werden müssen.
+Für den Wirkungsgrad der Ozonsynthese ist die Gastemperatur ein weiterer dominierender Faktor.
+
+Wegen der hohen Reaktivität von Ozon sind nur wenige Materialien gegen Ozon beständig.
+Dazu gehören Edelstahl (z. B. 316L), Glas, Polytetrafluorethylen (PTFE), Perfluoralkoxy-Polymere (PFA), Polyvinylidenfluorid (PVDF) und Perfluorkautschuk.
+Bedingt beständig ist Viton, das unter Ozon keiner mechanischen Wechselbelastung ausgesetzt werden darf.
+
+=== Lagerung
+
+Flüssiges Ozon lässt sich in Form einer 30 bis 75 %igen Lösung in flüssigem Sauerstoff bei -183 °C in Gegenwart von Stabilisatoren wie CClF3, OF2, SF6 oder andere ohne Explosionsgefahr lagern.
+Gasförmiges Ozon lässt sich im reinen Zustand (keine Verunreinigungen durch organische Verbindungen, Schwefel oder bestimmte Metalle) bei -112 bis -50 °C bei leichtem Überdruck recht gut lagern.
+
+== Eigenschaften
+
+Ozon ist bei Standardbedingungen gasförmig.
+Aufgrund seiner oxidierenden Wirkung reizt es bei Menschen und Tieren die Atemwege.
+Es vermag sogar Silber bei Raumtemperatur zu oxidieren.
+Ozonaufnahme kann beim Menschen häufig zu heftigen Schläfenkopfschmerzen führen.
+In hohen Konzentrationen riecht das Gas aufgrund der oxidierenden Wirkung auf die Nasenschleimhaut charakteristisch stechend-scharf bis chlorähnlich, während es in geringen Konzentrationen geruchlos ist.
+Die Geruchsschwelle liegt bei 40 g/m3, allerdings gewöhnt man sich schnell an den Geruch und nimmt ihn dann nicht mehr wahr.
+Reines O3 ist eine allotrope Form von Disauerstoff O2.
+Bei Zimmertemperatur liegt es als instabiles, farbloses bis bläuliches, in hoher Konzentration tiefblaues diamagnetisches Gas vor, das bei -110,5 °C zu einer tiefblauen Flüssigkeit kondensiert und bei -192,5 °C (80 K) zu einem schwarzvioletten Feststoff erstarrt.
+
+Das gewinkelte polare Molekül mit einem Dipolmoment von 0,5337 D (entspricht 1,780 * 10-30 C * m) bleibt im Festkörper erhalten.
+Der O-O-Abstand beträgt 128 pm, der Winkel zwischen den drei Sauerstoffatomen beträgt 117°.
+
+Ozon unterhält die Verbrennung sehr viel stärker als Disauerstoff:
+Etliche Materialien flammen schon bei Raumtemperatur bei Kontakt mit reinem Ozon auf.
+Gemische aus reinem Sauerstoff und Ozon ab einem Volumenanteil von 11,5 % können sich unter Atmosphärendruck bei entsprechend hoher Zündenergie explosionsartig zersetzen.
+Durch Beimischung von 1 % Methan oder NO2 wird die Zündgrenze auf ca. 5 % Ozon herabgesetzt.
+
+Ozon ist ein stärkeres Oxidationsmittel als Disauerstoff und in saurer Lösung ein sehr starkes Oxidationsmittel.
+Das Standard-Elektrodenpotential E für die Halbreaktion
+
+beträgt + 2,07 V.
+Bei normalen Temperaturen oxidiert Ozon Metalle wie Silber und Quecksilber zu ihren Oxiden.
+Es oxidiert Halogenide zu Halogenen, Stickoxide zu höheren Stickoxiden, Schwefeldioxid zu Schwefeltrioxid, Eisen(II)- zu Eisen(III)-salzen und Sulfide zu Sulfaten.
+Mit trockenem Kaliumhydroxid reagiert es zu Kaliumozonid.
+Es reagiert mit organischen Stoffen und greift die meisten Arten von Doppelbindungen in ungesättigten Verbindungen wie Olefinen, Cycloolefinen, Pinenen, Aromaten und Polybutadienen an.
+Mit Ethin reagiert es zu Ethinozonid, einer cyclischen Verbindung mit drei Sauerstoffatomen.
+
+Ozon zerfällt leicht zu Sauerstoff in Gegenwart eines Katalysators, wie Mangandioxid oder anderen Metalloxiden.
+Es zersetzt sich auch in Gegenwart von Chlor oder Brom.
+Diese Zersetzung erfolgt auch langsam nichtkatalytisch bei normalen Temperaturen sowie in wässriger Lösung.
+
+== Verwendung
+
+=== Ozon in der Wasseraufbereitung
+
+Bei der Wasseraufbereitung dient Ozon unter anderem zur umweltfreundlichen Oxidation von Eisen, Mangan, organischer Substanz und zur Entkeimung.
+Der erste Ozongenerator zur Trinkwasseraufbereitung wurde 1893 in Oudshoorn (Niederlande) installiert, es folgten Paris (Frankreich, 1898), das Wasserwerk Schierstein in Wiesbaden (1901) sowie Paderborn (1902).
+In diesen beiden deutschen Städten endete dadurch "schlagartig" eine Typhus-Epidemie.
+Eine Ozonierung gehört in vielen Trinkwasserwerken zu den zentralen Aufbereitungsstufen.
+
+Oberflächenwasser kann in den wärmeren Jahreszeiten höhere Gehalte an Algen enthalten.
+Wird ein derartiges Wasser zu Brauchwasser für die Verwendung in der Industrie aufbereitet, so kann durch eine Hochozonisierung die Reinigungswirkung der Filteranlagen deutlich verbessert werden.
+Ozon tötet durch sein hohes Oxidationspotential sowohl Keime wie auch Algen weitgehend ab und verbessert die Abfiltrierbarkeit dieser feindispersen Verunreinigungen und damit die Reinigungswirkung.
+
+Auch in der Behandlung von kommunalen und industriellen Abwässern kommt Ozon zum Einsatz (Kläranlage).
+Die Ozonierung wird dabei der üblichen Abwasserreinigung durch Mikroorganismen zusätzlich nachgeschaltet.
+Allerdings handelt es sich bei Kläranlagen mit Ozonanlagen meist um Pilotprojekte (wie zum Beispiel in Regensdorf-Watt in der Schweiz), denn die Produktion von Ozon in solch großen Maßstäben ist teuer, energieaufwändig und die Schutzmaßnahmen gegen den giftigen und ätzenden Stoff sind erheblich.
+Zurzeit wird diskutiert, ob die Abwasserreinigung durch die ungiftige Aktivkohle nicht ungefährlicher, billiger und umweltfreundlicher ist.
+
+Ziele einer weitergehenden Ozonbehandlung des konventionell gereinigten Abwassers sind: (a) Abtötung pathogener Keime (Desinfektion) zur Sicherung des Vorfluters (z. B. in Hinsicht auf die Badegewässerrichtlinie) (b) oxidative Elimination/ Transformation von nicht oder nur schlecht abbaubaren organischen Spurenstoffen (insbesondere Medikamentenrückstände).
+
+Ein Nachteil der Ozonierung ist die Entstehung von unbekannten und möglicherweise giftigen Produkten, wenn Ozon mit Schadstoffen im Wasser reagiert.
+So wird die Bildung von krebserregenden Nitrosaminen vermutet.
+Des Weiteren werden einige Schadstoffe, zum Beispiel iodhaltige Röntgenkontrastmittel, von Ozon praktisch nicht abgebaut.
+Sie gelangen deshalb weiterhin in die Umwelt.
+
+Ozon kann sehr gut in Verfahrenskombinationen mit nachfolgenden biologischen Systemen (Biofilter) eingesetzt werden, so beispielsweise bei der Oxidation des chemischen Sauerstoffbedarfs (CSB) zum biologischen Sauerstoffbedarf (BSB), der dann im Biofilter weiterverarbeitet wird.
+Ebenso findet Ozon in Fischkreisläufen in der Aquakultur oder Aquariensystemen Anwendung.
+
+Bei den meisten "chlorfrei" benannten Produkten oder Verfahren wird Ozon eingesetzt, so zum Beispiel beim Bleichen von Papier.
+In diesem Zusammenhang ist oft von "aktivem Sauerstoff" die Rede.
+
+=== Ozon in der Abgasbehandlung
+
+Bei der oxidierenden Gaswäsche wird Ozon als Oxidationsmittel in Gaswäschern eingesetzt, um in der Waschflüssigkeit gelöste Substanzen chemisch umzusetzen und so das treibende Konzentrationsgefälle zwischen zu reinigendem Gas und Waschflüssigkeit zu erhöhen.
+Dieses Verfahren findet bei reaktionsträgen organischen Stoffen und bei heterogenen Gasgemischen mit häufig geruchsintensiven Stoffen Anwendung.
+Alternativ besteht die Möglichkeit, schwer wasserlösliche Verunreinigungen mittels Ozon, das in den Abgasstrom geleitet wird, in höhere Oxidationsstufen überzuführen, die dann mit einem Gaswäscher entfernt werden können.
+
+=== Zur Beseitigung von Gerüchen
+
+Die Behandlung mit Ozon kann der Desodorierung, also der Entfernung von unangenehmen Gerüchen, dienen.
+Diese Ozonbehandlung wird in der professionellen Fahrzeugaufbereitung vorgenommen, insbesondere bei Gebrauchtwagen mit Geruchsbelastung im Innenraum (z. B. ehemalige Raucherfahrzeuge).
+Durch die oxidierende Wirkung des Ozons werden Geruchsstoffe in geruchsneutrale Stoffe umgewandelt.
+Ebenso werden Keime und geruchverursachende Bakterien dabei - auch an sonst unzugänglichen Stellen - abgetötet.
+Als Ergebnis ist das Fahrzeug nach dieser Behandlung desinfiziert und in der Regel geruchsfrei.
+
+=== Waschen und Behandeln von Textilien
+
+Einige moderne Waschmaschinen haben ein Ozonprogramm, welches Umgebungsluft nutzt und mittels eines Ozongenerators die Wäsche desinfiziert und Gerüche eliminiert.
+Auch Wäschereien nutzen diese Technik.
+Das Behandeln von Textilien mit Ozon kann dazu genutzt werden, ihre Färbung verblassen zu lassen, um beispielsweise neue Jeanshosen wie schon getragene und verwaschene aussehen zu lassen (vintage).
+
+=== Ozon als Bleichmittel
+
+Ozon wird in modernen Industrien auch als starkes Bleichmittel eingesetzt, es muss jedoch aufgrund seiner chemischen Flüchtigkeit und Instabilität am besten am Ort der Verwendung hergestellt werden.
+
+=== Weitere Verwendungen
+
+Ozon wurde z. B. zur Beschleunigung des Aushärtens von Lacken benutzt.
+Früher - und in der Alternativmedizin teilweise noch heute - wurde die Ozontherapie in Behandlungsversuchen verschiedener Leiden eingesetzt, beispielsweise gegen Diabetes und Krebs.
+Solche Behandlungen zählen oft zur Quacksalberei und die intravenöse Anwendung von Ozon wurde in Deutschland 1984 wegen der möglichen schweren Nebenwirkungen verboten.
+
+Ozon ist auch ein wichtiges Reagens in der synthetischen Chemie.
+Beispielsweise kann Vanillin aus Eugenol erhalten werden, indem man dieses mit Ozon oxidiert.
+Die Ozonolyse, die Umsetzung von ungesättigten Verbindungen mit Ozon, war jahrzehntelang ein wichtiges Verfahren zur Strukturaufklärung solcher Stoffe.
+
+== Schadwirkungen
+
+=== Ozon in der Atemluft
+
+Die EU hat schon seit längerer Zeit Richtwerte für die Ozonkonzentration festgelegt.
+Keine Gefahr für die Gesundheit besteht laut EU-Richtlinie durch Ozon unter einem Gehalt von 110 g/ m3.
+Ab einem Ein-Stunden-Mittelwert von 180 g/ m3 erfolgt die Unterrichtung der Bevölkerung, da bei dieser Konzentration die Leistungsfähigkeit empfindlicher Menschen bereits beeinträchtigt werden kann.
+Ab ungefähr 200 g/m3 Ozon können Symptome wie Tränenreiz, Schleimhautreizungen in Rachen, Hals und Bronchien, Kopfschmerzen, verstärkter Hustenreiz, Verschlechterung der Lungenfunktion auftreten.
+Ab einem Ein-Stunden-Mittelwert von 360 g/ m3 werden Warnungen ausgesprochen, da ab dieser Konzentration Gefahr für die menschliche Gesundheit bestehen kann.
+
+In der Schweiz liegt die Grenze des Ein-Stunden-Mittelwertes bei 120 g/ m3 (ca. 60 ppb).
+Dieser Wert wird jedoch sehr oft überschritten.
+Im Hitzesommer 2018 ist z. B. in Winterthur der Grenzwert für Ozon bereits vor Ende Juli mehr als 50-mal überschritten worden, im Vergleich zum Vorjahr mit 39-mal.
+
+Eine langanhaltende Erhöhung der Ozonkonzentration in der Atemluft führt zu einem erhöhten Risiko, an Atemwegserkrankungen zu sterben.
+Eine 2018 veröffentlichte Studie zeigt einen Zusammenhang zwischen der Exposition mit Ozon sowie Feinstaub und der Alzheimer-Krankheit.
+
+Erhöhte Immissionswerte treten vor allem im Einflussbereich von Industriegroßräumen und Autobahnen auf.
+Dabei wirken sich meteorologische Effekte stark auf die lokale Bildung und den Transport des Ozons aus, so dass räumliche Abhängigkeiten über mehrere Hundert Kilometer entstehen können.
+
+Bei Hitzewellen nimmt die Konzentration zu, da Pflanzen weniger Ozon absorbieren können.
+Es wird geschätzt, dass dieser Effekt beispielsweise in Großbritannien während des Hitzesommers 2006 für 450 zusätzliche Tote verantwortlich war.
+
+=== Effekte auf Pflanzen
+
+Ozon hat nachteilige Effekte auf Pflanzen und deren Wachstum.
+So sinken die Konzentrationen von Chlorophyll, Carotinoiden und Kohlenhydraten, während bei der Aminocyclopropancarbonsäure eine Erhöhung eintritt und vermehrt Ethen gebildet wird.
+Es konnte gezeigt werden, dass eine erhöhte Exposition von Zitruspflanzen gegenüber Ozon Schutzreaktionen gegen oxidativen Stress auslöste.
+Über längere Zeit anhaltende hohe Ozonbelastungen können besonders Laubbäume, Sträucher und Kulturpflanzen schädigen und deren Wachstum vermindern, so dass es zu Ertragseinbußen kommen kann.
+
+=== Effekte auf Materialien
+
+Ozon kann Materialien, insbesondere verschiedene Elastomere und Kautschuke schädigen:
+es kann zur Ozonrissbildung kommen.
+Früher war das Problem vor allem bei Reifen sehr verbreitet.
+Seit etwa den 1950er Jahren werden den Elastomeren Ozonschutzmittel zugesetzt.
+Aufgrund der Präventionsmaßnahmen tritt das Problem daher kaum noch auf.
+
+== Messung von Ozon
+
+=== Analyse, Einheiten
+
+Ozon-Konzentrationen wurden früher und werden in den USA weiterhin überwiegend in ppb (also Milliardstel Volums-, Teilchen- oder Partialdruck-Anteilen) und werden SI-konform in g/m3 angegeben.
+1 ppb Ozon entspricht 2,15 g/m3 (unter Normalbedingungen).
+
+=== Immissionsmessung
+
+Ozon in der Außenluft kann photometrisch erfasst werden.
+Dazu wird die kontinuierlich angesaugte Probenluft durch eine Messküvette geleitet, die mit monochromatischer Strahlung einer bestimmten Wellenlänge beaufschlagt wird.
+Die durchtretende und somit nicht absorbierte Strahlung wird mittels Photodiode oder Photomultiplier gemessen und gibt damit Auskunft über die Ozonkonzentration in der Luft.
+Dieses Messverfahren beruht auf dem lambert-beerschen Gesetz.
+
+Ein anderes Verfahren zur messtechnischen Erfassung von Ozon in der Außenluft ist das Kaliumiodid-Verfahren:
+In wässriger Lösung reagiert Ozon mit Kaliumiodid unter Freisetzung von Iod und Sauerstoff.
+Die Extinktion der Iodlösung ist ein Maß für die Ozonkonzentration der Probenluft, die durch die Kaliumiodidlösung geleitet wurde.
+Das Verfahren ist nicht selektiv bezüglich Ozon.
+Als Absorptionsgefäße sind Muenke-Waschflaschen zu verwenden.
+
+Auch die differenzielle optische Absorptionsspektroskopie DOAS wird zur Ozonmessung eingesetzt.
+Untersuchungen zur Qualitätssicherung unterschiedlicher Messmethoden liegen ebenfalls vor.
+
+Problematisch bei der Immissionsmessung von Ozon ist, dass keine haltbaren Prüfgase hergestellt werden können.
+Zudem ist darauf zu achten, dass die eingesetzten Werkstoffe nicht mit dem Ozon reagieren können.
+
+=== Bioindikation
+
+Wirkungen von Ozon können mit Tabakpflanzen systematisch untersucht werden.
+Zur Bioindikation werden die makroskopisch erkennbaren Blattschäden an der Pflanze als Wirkungsmessgröße herangezogen.
+
+== Literatur
+
+== Weblinks
+
+Als Luftschadstoff:
+
+Messung und Vorhersage:
+
+== Einzelnachweise
+

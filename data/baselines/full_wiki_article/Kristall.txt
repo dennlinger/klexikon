@@ -1,0 +1,126 @@
+Ein Kristall ist ein Festkörper, dessen Bausteine - z. B. Atome, Ionen oder Moleküle - regelmäßig in einer Kristallstruktur angeordnet sind.
+Bekannte kristalline Materialien sind Kochsalz, Zucker, Minerale und Schnee - aber auch die Metalle.
+Aufgrund der regelmäßigen Anordnung der Atome bzw. Moleküle weisen Kristalle keine kontinuierlichen, wohl aber diskrete Symmetrien auf; man spricht von Fernordnung oder Translationssymmetrie.
+Die Wissenschaft von den Eigenschaften und Formen der Kristalle ist die Kristallographie.
+Eng verwandt sind die Metallographie und die Mineralogie.
+Ein Kristall ist ein homogener Körper, denn er ist stofflich und physikalisch einheitlich.
+Aber viele physikalische Eigenschaften sind von der Raumrichtung abhängig, d. h. ein Kristall ist anisotrop.
+Vor 1992 wurden Kristalle über ihre Periodizität definiert:
+In diesem Sinne ist ein Kristall dreidimensional periodisch aus gleichbleibenden Struktureinheiten aufgebaut.
+Diese Struktureinheit heißt Einheitszelle oder Elementarzelle.
+Seit 1992 ist ein Kristall gemäß der Internationalen Kristallographischen Union IUCr durch seine diskreten Beugungsordnungen (bei Beleuchtung mit Röntgenstrahlen) definiert.
+Er weist also eine Fernordnung auf, ist aber nicht zwangsläufig periodisch.
+Diese Definition wurde durch die 1984 entdeckten Quasikristalle erzwungen, die eine Untergruppe der aperiodischen Kristalle bilden.
+Gleichwohl bilden die periodischen Kristalle die bei weitem größte Untergruppe der Kristalle.
+Je nach Ausprägung der äußeren Form unterscheidet man
+Der idiomorphe Kristall weist in seiner äußeren Form auf die jeweilige Kristallstruktur hin.
+Deshalb sind z. B. ungestört gewachsene Natriumchloridkristalle (Kochsalz, Mineral Halit) würfelförmig.
+Auch bei idiomorphen Kristallen liegt in der Natur meist eine gewisse Verzerrung vor, d. h. die Kantenlängen (nicht aber die Winkel) können von der Idealform deutlich abweichen (vgl. Gesetz der Winkelkonstanz).
+Die äußere Form eines Kristalls wird durch die voneinander unabhängigen Merkmale Kristallhabitus und Kristalltracht bestimmt.
+Die Kristallflächen werden ebenso wie Gitterebenen durch Millersche Indizes beschrieben.
+Kristalltypen können auch durch die Art der Bindung ihrer Bausteine unterschieden werden (z. B. Ionenkristall).
+Da die charakteristische Eigenschaft von Kristallen die regelmäßige Anordnung in allen drei Raumrichtungen ist, sind auch Körper denkbar, deren Bausteine sich nur in einer oder zwei Raumrichtungen wiederholen.
+Dann lässt sich von eindimensionalen und zweidimensionalen Kristallen sprechen.
+In der Natur kommen Membranproteine vor, die sich als zweidimensionale Kristalle in der Biomembran anordnen.
+Ein Beispiel ist Bacteriorhodopsin.
+In der Strukturbiologie werden 2D-Kristalle gezüchtet, um die Atompositionen der kristallisierten Makromoleküle mittels Elektronen-Kryomikroskopie zu ermitteln.
+Außer Kristallen gibt es auch Körper, die keine innere Fernordnung haben und amorph genannt werden.
+Ein Beispiel ist Glas (auch sogenanntes Bleikristall und anderes Kristallglas).
+Wenn eine Flüssigkeit anisotrop ist und dadurch einige Eigenschaften eines Kristalls aufweist, handelt es sich um einen Flüssigkristall.
+Der Begriff Kristall stammt von dem griechischen Wort uao krystallos (zu uo kryos "Eiseskälte, Frost, Eis").
+Es bedeutet zunächst, bei Homer, "Eis" - später dann auch alles dem Eis Ähnliche, Helle und Durchsichtige.
+Insbesondere der Bergkristall, aber auch farbige Edelsteine und Glas werden so genannt (z. B. bei Strabon und Claudius Aelianus).
+Bei dem bereits im antiken Griechenland betriebenen Bergbau wurden wahrscheinlich Quarz-Kristalle entdeckt.
+Sie wurden für Eis gehalten, das bei so tiefen Temperaturen entstanden sein müsse, dass es nicht mehr schmelzen könne.
+Diese Ansicht war bis ins frühe Mittelalter verbreitet.
+Über das lateinische crystallus hat sich die althochdeutsche Bezeichnung kristallo gebildet, die sich im Laufe der Zeit zu Kristall gewandelt hat.
+Im 19. Jahrhundert war auch Krystall gebräuchlich.
+Die Richtung und die Länge der Vektoren, um die eine Kristallstruktur verschoben werden kann, so dass sich die Atompositionen wiederholen, beschreiben die Translations- oder Basisvektoren.
+Daher wird die Struktur jeder Kristallart mit einem eigenen, spezifischen Koordinatensystem, dem Achsensystem, dargestellt.
+Neben der Verschiebung kann eine Kristallstruktur auch gedanklich um diese Achsen gedreht werden, bis sich die gedrehte Struktur mit der ursprünglichen Struktur deckt.
+Weil die Translationssymmetrie erhalten bleiben muss, können nur Drehsymmetrien vorkommen, die in einer vollständigen Drehung (360°) eine, zwei, drei, vier oder sechs Wiederholungen beschreiben.
+Es wird dabei von 1-, 2-, 3-, 4- oder 6-zähligen Achsen gesprochen.
+Es gibt Kristalle, die außer Drehachsen und Translationen weitere Symmetrieelemente aufweisen, nämlich Spiegelebenen und Inversionszentren, sowie Kopplungen zwischen diesen Symmetrien zu Drehinversionen, Gleitspiegelungen und Schraubungen.
+Für die Klassifizierung von Kristallen werden die Symmetrieeigenschaften verwendet.
+Dabei ist die Anzahl der denkbaren Kombinations- und Kopplungsmöglichkeiten von Symmetrieelementen beschränkt (siehe auch Gruppentheorie).
+Es gibt bei zweidimensionalen Kristallen 17 ebene kristallographische Gruppen und bei dreidimensionalen Kristallen 230 kristallographische Raumgruppen, die vollständig in den International Tables for Crystallography, Vol. A aufgeführt sind.
+Wird ein neuer Kristall untersucht, ist die Raumgruppe zunächst unbekannt.
+Bei der Beschreibung der äußeren Form des Kristalls lässt er sich nur einer von 32 Punktgruppen (auch Kristallklassen genannt) zuordnen.
+Diese Punktgruppen beschreiben die makroskopischen Symmetrieeigenschaften der Kristalle und fassen diejenigen Raumgruppen zusammen, die sich nur in der Translationssymmetrie unterscheiden.
+Die Translation spielt bei der äußeren Betrachtung von Kristallen keine Rolle.
+Weil die Winkel zwischen den Kristallflächen für jede Kristallart gleich sind und oft mit einer Rotationssymmetrie vereinbar sind (z. B. 90° bei Halit mit vierfacher Rotationssymmetrie), werden zur Beschreibung der Kristallmorphologie sieben Kristallsysteme verwendet, bei denen sich die Lage und relative Länge der Zellachsen unterscheiden.
+Ein Kristall ist je nach Zugehörigkeit zum entsprechenden Kristallsystem triklin, monoklin, orthorhombisch, tetragonal, trigonal, hexagonal oder kubisch.
+Auguste Bravais klassifizierte die verschiedenen möglichen Translationsgitter.
+Diese Gitter bestehen aus gleichen Parallelepipeden, deren Ecken die Gitterpunkte darstellen.
+Um die Symmetrie von bestimmten Gittern beschreiben zu können, ließ er neben primitiven Elementarzellen (mit einem Gitterpunkt pro Zelle) auch größere Elementarzellen zu, die flächen- oder innenzentriert sind.
+Ein Beispiel für eine flächenzentrierte Elementarzelle ist in Abb. 5 gezeigt.
+Es gibt im dreidimensionalen Raum 14 Bravais-Gitter.
+Bei der Kristallstrukturanalyse lassen sich die Streumuster der Röntgenbeugung in elf zentrosymmetrische Punktgruppen einteilen, die Lauegruppen oder Laueklassen genannt werden.
+Denn auch bei nicht-zentrosymmetrischen Kristallstrukturen entstehen zentrosymmetrische Beugungsmuster, da die Reflexe als Friedelpaare mit normalerweise gleicher Intensität auftreten.
+Die Lauegruppen lassen sich demnach herleiten, indem ein Symmetriezentrum zu der Punktgruppe des Kristalls hinzugefügt wird.
+Die Kristallstruktur ist nicht stoffspezifisch, das heißt eine Substanz mit bestimmter chemischer Zusammensetzung kann je nach äußeren Bedingungen (Druck, Temperatur) unterschiedliche thermodynamisch stabile Strukturen besitzen.
+Die verschiedenen Kristallstrukturen derselben Substanz werden Modifikationen genannt; die Existenz verschiedener Modifikationen heißt Polymorphie.
+Die Modifikationen stellen unterschiedliche Phasen im Sinne der physikalischen Chemie dar, deren Stabilitätsbereiche in Phasendiagrammen dargestellt werden können.
+Die einzelnen Modifikation bzw. Phasen einer Substanz werden, neben eventuell vorhandenen Eigennamen, üblicherweise mit kleinen griechischen Buchstaben durchnummeriert (beim Eisen z. B. a- (Ferrit), - (Austenit), -, -Eisen; vgl. Eisen-Kohlenstoff-Diagramm).
+Ein Kristall entsteht, indem Atome oder Moleküle eine regelmäßige Struktur mit Fernordnung ausbilden.
+In Einstoffsystemen erfolgt die Kristallisation aus einer anderen kristallisierten Phase, aus dem Dampf oder aus der Schmelze.
+Außerdem können sich Kristalle aus Mehrstoffsystemen bilden, nämlich aus einer Lösung.
+Um die Kristallisation zu ermöglichen, darf der Zustand der Atome oder Moleküle kein Gleichgewicht sein.
+Bei Dampf und Lösungen wird von Übersättigung gesprochen, bei einer Schmelze von Unterkühlung.
+Beim Wachstum der Kristalle spielt die Geschwindigkeit eine Rolle.
+Bei einer Schmelze beispielsweise muss die Temperatur langsam genug unter den Schmelzpunkt sinken.
+Dann wird die thermische Bewegung der einzelnen Atome so gering, dass die gegenseitigen Bindungen nicht mehr durch Schwingungen aufgebrochen werden können - es kommt zur Bildung eines einheitlichen Gitters, das durch Fernordnung geprägt ist.
+Sinkt dagegen die Temperatur der Schmelze so schnell, dass sich die Atome nicht periodisch anordnen können, entsteht ein amorphes Material, ein Glas, das nur eine Nahordnung hat.
+Der Kristall hat durch seine geordnete Struktur auf einem Gitter gegenüber amorphem Glas eine geringere freie Enthalpie.
+Die Bildung eines Kristalls ist ein exergonischer Prozess:
+Zwar nimmt die Entropie im System ab (wegen Zunahme der Fernordnung), bei Temperaturen bis zum Schmelzpunkt wird dies jedoch durch eine Enthalpieabnahme infolge Anziehung zwischen den Teilchen (= Kristallisationswärme) überkompensiert.
+Ausgangspunkt für die Kristallbildung ist ein Kristallisationskeim, der bei sinkender Temperatur wächst.
+Existieren viele solcher Kristallkeime oder setzt die Kristallisation an mehreren Stellen gleichzeitig ein, so entsteht ein Polykristall.
+In vielen Fällen kommt es bei der Kristallisation zu einem Verwachsen zweier Kristalle gleicher Struktur und Zusammensetzung, aber verschiedener Orientierung im Raum (Kristallzwilling).
+Umkristallisation ist die Änderung einer Kristallstruktur, bedingt durch die Änderung äußerer Faktoren wie den Druck- und Temperaturbedingungen.
+Hierbei wechselt der kristalline Feststoff seine Modifikation.
+Die künstliche Herstellung von Kristallen bezeichnet man als Kristallzucht.
+Nichtmetallische anorganische Kristalle sind härter, aber auch spröder.
+Alle Metalle erstarren im thermodynischen Gleichgewicht im Regelfall kristallin.
+Das Verhalten von Licht in Kristallen wird durch die Kristalloptik beschrieben.
+Wichtige hiermit verbundene Eigenschaften und Phänomene sind die optische Aktivität, die Polarisation, die Doppelbrechung und der Pleochroismus.
+Periodische dielektrische Strukturen, so genannte photonische Kristalle, zeigen neuartige optische Eigenschaften.
+Manche Kristalle, z. B. Quarzkristalle, haben piezoelektrische Eigenschaften.
+Sie bauen eine elektrische Spannung auf, wenn sie verformt werden und verformen sich, wenn elektrische Spannung angelegt wird.
+Dieser Effekt wird in Piezofeuerzeugen genutzt, um Zündfunken zu generieren.
+In der Elektronik dienen piezoelektrische Schwingquarze als Taktgeber (z. B. in Quarzuhren).
+Einige piezoelektrische Kristalle, jedoch nicht alle, wandeln eine Temperaturdifferenz in eine Ladungstrennung um.
+Diese Eigenschaft wird Pyroelektrizität genannt.
+Solche Kristalle werden in Bewegungsmeldern und Temperaturfühlern verwendet.
+Ein besonderer Fall der Pyroelektrizität ist die Ferroelektrizität:
+Bei ferroelektrischen Kristallen kann die elektrische Polarisation durch das Anlegen einer Spannung umgepolt werden.
+Ein realer Kristall enthält Gitterfehler, das heißt die dreidimensional-periodische Anordnung der Atome ist gestört.
+Es gibt Punktfehler, Linienfehler, Flächenfehler und Volumenfehler.
+Punktfehler sind die einzigen Gitterfehler, die auch im thermodynamischen Gleichgewicht vorkommen.
+Ein Kristall ohne Gitterfehler hätte einen Zustand minimaler Entropie und ist nach dem zweiten Hauptsatz der Thermodynamik nicht zu erreichen.
+Im Labor gezüchtete Einkristalle haben eine Versetzungsdichte in der Größenordnung 103 - 105 cm-2, normale Kristalle und Polykristalle von 105 - 109 cm-2 und stark verformte Kristalle bis zu 1014 cm-2.
+Für kristalloptische Eigenschaften sind meist Punkt und Volumenfehler charakteristisch, Linienfehler (Versetzungen) und Flächenfehler (Korngrenzen) hingegen für die mechanischen Eigenschaften.
+Im Regelfall liegt ein kristalliner Festkörper als Polykristall und nicht als Einkristall vor, das heißt, er besteht aus vielen kleinen Kristallen (Kristalliten), die durch Korngrenzen voneinander getrennt sind.
+Zum Beispiel sind Metallgegenstände, Drähte usw. in aller Regel Polykristalle.
+Besteht ein Körper aus verschiedenen Kristallarten, so heißen die Grenzflächen zwischen ihnen Phasengrenzen.
+Viele Minerale sind in der Lage, eine Vielfalt an Kristallformen und Farben auszubilden.
+Bekannteste Beispiele sind zum einen der Quarz, dessen Ausbildungsformen den ganzen Bereich von makrokristallin-farblos (Bergkristall) bis mikrokristallin-buntfarbig (Achat) abdeckt und zum anderen der Calcit mit ähnlichem Reichtum an Varietäten.
+Die weltweit größten Kristalle wurden 2000 in der Mine von Naica entdeckt.
+Sie bestehen aus der Gipsart Marienglas, sind bis 14 m lang und wiegen bis zu 50 Tonnen.
+Der Diamant, eine kristalline Form des Kohlenstoffs, ist das härteste natürlich vorkommende Mineral.
+Auch Silizium kristallisiert im Diamanttyp.
+Silizium ist zurzeit der Stoff, der am häufigsten in großen Mengen als Einkristall (Monokristall) verwendet wird, nämlich in der Halbleitertechnik.
+Heute üblich sind 30 cm Durchmesser des zylindrischen aus der Schmelze "gezogenen" Kristalls, ein Verfahren, das auf Jan Czochralski um 1916 zurückgeht.
+Das ebenfalls als Halbleiter verwendete Galliumarsenid (GaAs) weist die so genannte Zinkblende-Struktur auf.
+Die Nanotechnologie befasst sich unter anderem mit Nanokristallen.
+Kleine Kristalle von Diamant, Korund, Siliziumkarbid dienen in Suspension, lose oder gebunden als Schleifmittel, einzelne Diamanten auch als Schneidewerkzeug.
+Piezokristalle können Mikrophon oder Lautsprecher, Kraftsensor oder Aktuator sein.
+Durch Umkristallisieren werden Präparate in Chemiefabriken gereinigt.
+Nicht erwünscht ist Kristallisation jedoch bei der Herstellung von Glas.
+In der Metallherstellung strebt man meist möglichst feine Kristallite oder feines Korn an.
+Auch organische Stoffe, z. B. Zucker und Proteine, bilden Kristalle - letztere allerdings nur in Ausnahmefällen.
+Zum Beispiel befinden sich in den Peroxisomen der Pflanzen Katalase-Kristalle, die sich durch Elektronenmikroskopie sichtbar machen lassen.
+Das Enzym Katalase ist ein Eiweiß (Protein).
+Die Proteinkristallographie beschäftigt sich mit der Kristallzucht aus Proteinen zur Strukturanalyse.
+Kolloide bilden typischerweise Parakristalle, weil nicht alle Bausteine identisch sind, die Bausteine selbst typischerweise anisotrop sind und weil starke und schwache Bindungen zwischen Atomen und Atomgruppen koexistieren.
+Monodisperse harte-Kugel-Suspensionen können andererseits Kristalle bilden, weil die Bausteine alle identisch und isotrop sind.

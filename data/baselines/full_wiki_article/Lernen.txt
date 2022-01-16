@@ -1,0 +1,193 @@
+Unter Lernen versteht man den absichtlichen (intentionales Lernen) und den beiläufigen (inzidentelles und implizites Lernen) Erwerb von Fertigkeiten.
+Der Lernzuwachs kann sich auf intellektuellem, körperlichem, charakterlichem oder sozialem Gebiet ereignen.
+Aus lernpsychologischer Sicht wird Lernen als ein Prozess der relativ stabilen Veränderung des Verhaltens, Denkens oder Fühlens aufgrund von Erfahrung oder neu gewonnenen Einsichten und des Verständnisses (verarbeiteter Wahrnehmung der Umwelt oder Bewusstwerdung eigener Regungen) aufgefasst.
+Die Fähigkeit zu lernen ist für Mensch und Tier eine Grundvoraussetzung dafür, sich den Gegebenheiten des Lebens und der Umwelt anpassen zu können, darin sinnvoll zu agieren und sie gegebenenfalls im eigenen Interesse zu verändern.
+So ist für den Menschen die Fähigkeit zu lernen auch eine Voraussetzung für ein reflektiertes Verhältnis zu sich, zu den anderen und zur Welt.
+Die Resultate des Lernprozesses sind nicht immer von den Lernenden in Worte fassbar (implizites Wissen) oder eindeutig messbar.
+Etymologisch ist das Wort "lernen" u. a. mit den Wörtern "lehren" und "List" verwandt.
+Es gehört zur Wortgruppe von "leisten", das ursprünglich "einer Spur nachgehen, nachspüren, schnüffeln" bedeutet.
+Im Gotischen heißt lais "ich weiß", bzw. genauer "ich habe nachgespürt" und laists für "Spur".
+Die indogermanische Wurzel *lais- bedeutet "Spur, Bahn, Furche".
+Verschiedene wissenschaftliche Teildisziplinen beschäftigen sich mit dem Lernen.
+Dazu gehören:
+Im Anwendungsbereich
+Wissenschaftstheoretische Richtungen mit besonderem Bezug zum Lernen sind
+Die neurobiologischen, physiologischen und medizinischen Grundlagen des Lernens stützen sich zunächst auf einfache Tiermodelle der Konditionierung.
+Den Tieren und speziell natürlich dem Menschen ist die Fähigkeit der Assoziation von Sinneseindrücken (und bisher Gelerntem) eigen.
+Assoziationen in Nervensystemen entstehen durch die Bildung oder Verstärkung von neuronalen Verknüpfungen (Synapsen) bei gleichzeitiger Aktivität (Aktionspotentiale) in zwei Neuronen oder Neuronengruppen.
+Dieses Prinzip macht es auch möglich, bereits Gelerntes wieder zu verlernen.
+Bleiben Fähigkeiten ungenutzt, werden die Verbindungen der entsprechenden Synapsen schwächer oder gehen ganz verloren.
+Dafür bauen Proteine die reiz-empfangende Synapse um:
+Die sogenannte mRNA bringt die Baupläne der Proteine zur Synapse, die gerade neu strukturiert werden muss.
+Die Fähigkeit zur neuronalen (Neu-)Verknüpfung wird unter dem Schlagwort neuronale Plastizität zusammengefasst.
+Die zeitliche Kontingenz von Reizen als Voraussetzung für das Lernen und als Konsequenz aus dem Ursache-Wirkungs-Prinzip macht klar, dass Lernen immer zeitabhängig, das heißt: ein Prozess ist, der Begriff "Lernprozess" ist also streng genommen ein Pleonasmus.
+Die Art der Informationsspeicherung hängt vom jeweiligen Gedächtnis ab.
+Im Ultrakurzzeitgedächtnis werden sie als elektrische Impulse verarbeitet und mit bereits gespeicherten Vorinformationen verknüpft.
+Nach maximal 20 Sekunden gehen diese Informationen verloren, da die elektrischen Impulse abklingen.
+Bei der Ablage von Informationen im Kurzzeitgedächtnis kommt das Prinzip der (frühen Phase der) Langzeit-Potenzierung zum Tragen.
+Bei der Abspeicherung im Langzeitgedächtnis werden zusätzliche zelluläre Mechanismen angenommen, die z. B. als Folge der späten Phase der Langzeit-Potenzierung an den jeweiligen, beteiligten Neuronen Zytoskelettveränderungen hervorrufen, die zur Vermehrung der Synapsen führen, was dann die Information strukturell verankert.
+Anders ausgedrückt geht man davon aus, dass im Zuge der synaptischen Aktivität neu gebildete Proteine unterschiedlicher Art fest in den Nervenzellen eingelagert werden und damit die Information über den Lernvorgang langfristig gespeichert wird.
+Den Durchbruch hinsichtlich der Erforschung der Prozesse, die beim Lernen im Gehirn vorgehen, schaffte Eric Kandel, der für seine Forschungsergebnisse mit dem Medizinnobelpreis 2000 ausgezeichnet wurde.
+Die makroskopische Anatomie liefert mehrere Orte im Gehirn, die ganz wesentlich erhalten sein müssen, um Lernen zu ermöglichen.
+All diese Hirnareale sind im sogenannten Papez-Neuronenkreis zusammengefasst.
+Kurz gesagt kann man davon ausgehen, dass schon das evolutionär alte paleo- und archikortikale limbische System ausreichend war, essentielle Lernvorgänge zu ermöglichen und daher heute noch die Grundlage für höhere Gedächtnisleistungen darstellt.
+Besonders im Hippocampus werden beim Lernvorgang Neurone rekrutiert, die als Engramm-Zellen (engl.: engram cells) die Erinnerungen speichern.
+Dies geschieht durch Ausbildung von Synapsen zu anderen Engramm-Zellen, die die eigentlichen Träger von Erinnerungen sind.
+Für das Abrufen einer Erinnerung ist ein Trigger, eine Reaktivierung notwendig.
+Eine Synapse wird durch häufigere Aktivierung "gestärkt" und somit vor dem Abbau, dem Vergessen geschützt.
+Eine chinesische Arbeitsgruppe konnte bei erwachsenen Labormäusen Prozesse des konditionierten Lernens und des aktiven Vergessens auf zellulärer Ebene der Engramm-Zellen beschreiben, dies war bereits vorher im heranwachsenden Gehirn gezeigt worden.
+Dabei werden "schwache" Synapsen, die selten aktiviert sind, von Gliazellen aktiv abgebaut.
+Dafür werden die Synapsen zuvor markiert, wofür zwei Proteine des klassischen Komplementsystems notwendig sind:
+C1q und C3.
+Nach dem Andocken von C1q auf der Synapsenmembran beim normalen Vergessen folgt im Rahmen der Komplementaktivierung das Komplement-Protein C3, das von den C3-Rezeptoren der Mikroglia erkannt wird und zur Phagozytose der Synapse führt.
+Sowohl eine Schwächung der Mikroglia z. B. durch Minocyclin als auch ein Ausschalten des Komplementsystems z. B. Viren, die den Komplement-Inhibitor CD55 exprimieren, kann das aktive Vergessen unterbunden oder herausgezögert werden.
+Inwieweit eine übermäßige C1q-Markierung, eine übermäßige Komplementaktivierung oder eine verstärkte Mikroglia-Aktivität zu pathologischen Formen des Vergessens, z. B. zu einer Demenz führen, ist bisher nicht geklärt.
+Zum Grundinstrumentarium des Lernens gehören neben dem Lernprozess auch die Fähigkeit zur Erinnerung (Gedächtnis) und des Abrufens (Anwendung von Erlerntem oder Lerntransfer).
+Jedoch ist Lernen mehr als das reine Abspeichern von Informationen.
+Lernen beinhaltet die Wahrnehmung und Bewertung der Umwelt, die Verknüpfung mit Bekanntem (Erfahrung) und das Erkennen von Regelmäßigkeiten (Mustererkennung).
+Lernende beginnen mit dem Lernen nicht als unbeschriebenes Blatt (tabula rasa).
+Jedes Lernen setzt auf einem Lerntyp auf, einer angeborenen Eigenschaft, Vorerfahrung oder aktuellen Ausprägung bei der Nutzung von Sinneskanälen oder der Fähigkeit, in verschiedene Lernarrangements einzusteigen (z. B. in ein Experiment als Lernausgangspunkt Experimentelles Lernen).
+Wer lernt (siehe Lernkurve), kann auch vergessen (Vergessenskurve), etwa wenn regelmäßige Übung oder Anwendung unterbleiben.
+Lernen ist nicht unbedingt ein bewusster oder absichtsvoller Vorgang (siehe auch inzidentelles Lernen und implizites Lernen), sondern häufig beiläufig und ungeplant (siehe informelles Lernen, Modell-Lernen).
+Lernen kann unter Zuhilfenahme von Lehrmethoden und Lernstrategien planvoll gestaltet werden (siehe auch Unterricht).
+Unterschiedliche Formen des Lernens sind bekannt und werden von verschiedenen Lerntheorien beschrieben.
+Die genaue Funktionsweise des Lernens ist allerdings wissenschaftlich noch nicht geklärt und durchaus umstritten, weshalb sich verschiedene Lerntheorien in Ansätzen und Herangehensweisen durchaus widersprechen können.
+Der Ablauf eines Lernprozesses war bereits in der antiken Philosophie ein Thema.
+Die Forschung hat im Laufe der Jahrhunderte zahlreiche Theorien hervorgebracht und basiert auch heute noch auf verschiedenen, kontroversen wissenschaftstheoretischen Grundannahmen.
+Die Spannbreite reicht von der Grundannahme, dass die Prozesse im menschlichen Gehirn in einer Black-Box verborgen bleiben und bestenfalls über medizinische Untersuchungsmethoden und quantitativ-empirische Methoden erforscht werden können, bis hin zur Forschung vom Subjekt aus, bei dem die Aussagen des Lernenden zu seinen eigenen Empfindungen und Abläufen im Lernprozess über Selbstbeobachtung (Introspektion) zur Grundlage der Forschung gemacht werden.
+Eine Form der Beschreibung findet sich in Arbeiten zur Lernkurve und zum Vergessen (Vergessenskurve).
+Die Eckpunkte für ein Modell vom Lernprozess sind
+Eine Reihe von Modellen greift Elemente dieser Grundidee auf:
+Lernen entsteht aus Handlungen und Handlungen entwickeln sich in sozialen Situationen.
+Lernen ist also situations- und kontextgebunden.
+Lernen kann als Fähigkeit verstanden werden, die bisherigen Handlungsmuster zu korrigieren, neue Muster aufzugreifen und eine Adaption an sich verändernde Bedingungen durchzuführen.
+Demzufolge kann der Vorgang des Lernens in die Bereiche Lernprozess und Lernergebnis unterteilt werden.
+Im Begriff Lernprozess ist die Frage des "wie gelernt wird" enthalten.
+Das "wie" kann man sich als Verarbeitung von Informationen vorstellen.
+Für individuelle und kollektive Lernprozesse kommt es darauf an, dass Informationen aufgenommen, interpretiert, gespeichert und Schlussfolgerungen daraus gezogen werden.
+Knoepfel, Kissling-Näf und Marek gehen davon aus, dass zu Beginn "von Lernprozessen Auslöser stehen, z. B. in Form einer Katastrophe, eines Ereignisses, einer behördlichen Anweisung oder des Auftretens neuer Handlungsoptionen oder -instrumente." Damit Lernprozesse in Gang kommen, müssen diese Auslöser bei den beteiligten Akteuren Betroffenheit und einen Problemdruck hervorrufen, der sie zum Handeln veranlasst.
+Im Fall wiederkehrender Katastrophen kann eine beabsichtigte Reduzierung von Unsicherheit als Auslöser für Lernprozesse angesehen werden:
+Moreover, learning processes frequently occur in attempts to reduce uncertainty by means of planned interventions into reality.
+Ebenfalls müssen die Akteure über gemeinsame Ansichten zur Lösung des Problems verfügen.
+Max Miller sieht den Begriff "Lernprozess" ähnlich definiert:
+A learning process and some outcome of a learning process can only be attributed to a group of human beings if at least a majority of the individuals members constituting that group can be said to have performed that learning process.
+Das Lernergebnis weist aus, "was gelernt wurde." Welches Wissen konnte hinzugewonnen werden und welche Verbesserungen ergaben sich daraus.
+Sowohl beim Individuum als auch bei sozialen Systemen kommt es bei erfolgreichem Lernen zu einer permanenten Adaptions- bzw. Lernleistung.
+Damit soll kein rein reaktives Lernschema beschrieben werden.
+Im besten Fall verläuft Lernen proaktiv:
+Individuen und Systeme denken zukünftige Entwicklungen voraus und handeln dementsprechend.
+Lernprozesse werden nach verschiedenen Kriterien klassifiziert:
+Ist das Kriterium die Art des gelernten Verhaltens, kann zwischen dem Erlernen von Bewegungsabläufen (motorisches Lernen), dem Erlernen sprachlicher Inhalte (verbales Lernen), dem Erlernen von Strategien - einschließlich Lernstrategien (Metalernen), dem Erlernen von sozialen Normen (Sozialisation) usw. unterschieden werden.
+Ein anderes Kriterium zur Klassifizierung von Lernprozessen ist die Komplexität des gelernten Verhaltens.
+Einfache Anpassungen werden durch Sensitivierung und Habituation erworben.
+Eine komplexere Form ist das assoziative Lernen.
+Dabei werden zwei Ereignisse miteinander verknüpft (assoziiert).
+Beim sog. S-S-Lernen sind dies zwei Reize, beim S-R-Lernen ein Reiz mit einer Reaktion.
+Zwei bekannte Arten des assoziativen Lernens sind die Klassische Konditionierung und die operante Konditionierung.
+Weitere Formen assoziativen Lernens sind die Prägung, das Lernen am Erfolg sowie Generalisierungs- und Diskriminationslernen.
+Komplexere Verhaltensweisen werden durch Lernen durch Einsicht, durch Lernen lernen und durch strukturelles Lernen erworben.
+Ein weiteres Kriterium zur Klassifizierung von Lernprozessen ist die Rolle des Lerners.
+Dabei wird unterschieden zwischen inzidentellem Lernen, intentionalem Lernen, entdeckendem Lernen, selbstbestimmtem Lernen, expansivem Lernen, widerständigem Lernen usw.
+Eine Sprache, die man zwar als Kind erlernt hat, später aber nicht mehr spricht oder sprechen kann, weil die entsprechende soziale Umgebung eine andere geworden ist, kann man verlernen; man kann sie auch teilweise verlernen.
+Kommt einem das Wissen über bestimmte Sachverhalte abhanden, hat man es auch verlernt.
+Kann man in einer sportlichen Disziplin (Tennis, Fußball usw.) nicht mehr so reagieren, wie man es früher konnte, hat man verlernt, angemessen auf bestimmte Vorlagen des Spielpartners oder Gegners zu reagieren.
+Eine Fertigkeit oder Kompetenz ist (zum Teil oder vollständig) verloren gegangen.
+Man hat sie verlernt.
+Verlernen wird in bestimmten (sozialen, intellektuellen und emotionalen Zusammenhängen) auch Extinktion, Auslöschen, Schwächung oder Verminderung von Verhalten genannt.
+Das Löschen (oder die Extinktion) von Verhalten bezieht sich z. B. auf die Bemühung eines Erziehers, Lehrers, Therapeuten, eine erlernte Verhaltensweise des Kindes oder Jugendlichen aus pädagogischen oder therapeutischen Gründen zu vermindern oder gezielt zu reduzieren und abzubauen.
+Nach den Vorstellungen von E. L. Thorndike und R. und A. Tausch kann soziales, intellektuelles oder emotionales Verhalten vermindert werden, das vom Erziehenden nicht mehr verstärkt oder beachtet wird.
+Wird es nicht mehr beachtet, hat das Verhalten nach den Vorstellungen dieser Psychologen für das Kind oder den Jugendlichen keinen Wert (Sinn) mehr im sozialen Gefüge und wird nicht mehr realisiert werden.
+Es wird, im Idealfall, gelöscht.
+Verhaltensweisen, die in Erziehungssituationen keine Verstärkung mehr erfahren, passen nach Ansicht der Erziehenden nicht mehr in die Erziehung, sind nicht mehr angebracht, sind (nach Ansicht des Erziehers) unangemessen oder in einer bestimmten sozialen Situation ungeeignet.
+Ungeeignet können z. B. Aggressionen gegen andere Kinder sein.
+Keine Verstärkung durch den Erziehenden kann aber auch bedeuten:
+Er beachtet ein Verhalten des Kindes nicht mehr.
+Mit Nicht-Beachtung kann man einem Kind begegnen, das schreit oder weint.
+Der Erziehende entzieht die Zuwendung (Verstärkung).
+C. D. Williams (1959) konnte so das lang anhaltende Schreien eines Kindes reduzieren, indem er das laute Weinen nicht mehr beachtete.
+Ängste können in der Therapie abgebaut oder im Idealfall gelöscht werden (Extinktion).
+Eine in der Erziehung beliebte Methode ist der Versuch, unerwünschtes Verhalten durch Bestrafung abzubauen.
+Streng genommen orientiert sich eine solche Erziehung nicht an einer Lerntheorie, sondern eher an einer (veralteten) Ideologie von Erziehung, die an etwas glaubt, aber nicht einen behaupteten Effekt nachweisen kann Nach Tausch und Tausch sind Strafen keine geeigneten Modelle für den Abbau von Sozialverhalten.
+Bei dieser Form kommt es zu Bedeutungszuweisungen für bestimmte Reize.
+In diesen Lernprozessen entscheidet sich, wie ich mit einem Reiz in welcher Intensität umgehe.
+Hier gibt es wiederum eine Unterscheidung.
+Hier haben wir es mit Kognition im weitesten Sinne zu tun.
+Bestimmte Ereignisse, Symbole und Begriffe werden mit unserer bisherigen Erfahrung verknüpft.
+Es findet also eine Bedeutungszuweisung zu einzelnen Reizen statt, und es werden Zusammenhänge zwischen Reizen hergestellt.
+Entlang des Lernprozesses und hinsichtlich der Lernorte und ihrer Methoden können verschiedene Modelle und Begriffe des Lernens unterschieden werden, die einzelne Abschnitte im Lernprozess näher betrachten.
+Planmäßiges Lernen erfolgt unter Anwendung von Lehrmethoden, die das Lernen unterstützen sollen, im Bildungswesen, also durch den Besuch von Schule, Angebote der Erwachsenenbildung oder E-Learning.
+Dabei ist mittlerweile allgemein anerkannt:
+Nicht jeder lernt auf jede Weise gleich, es gibt unterschiedliche Lerntypen.
+Auch ein planmäßiges Lernen kann, je nach theoretischer Grundposition gegenüber dem menschlichen Lernen, als selbstgesteuert gedeutet werden.
+Die Grundannahme ist hier, dass auch, wenn der Rahmen vorgegeben ist, das Individuum letztlich seinen Lernprozess selbst organisieren muss.
+Primär selbstgesteuertes Lernen:
+Unter der Annahme, dass der wirksamste Lernimpuls vom Wunsch nach Zuwachs in den Zugriffsmöglichkeiten auf die Welt besteht und nicht auf einer fremdgeplanten Lernsequenz, hat Klaus Holzkamp das Modell des expansiven Lernens entwickelt, das in subjektwissenschaftlicher Herangehensweise von den Eigeninteressen der lernenden Person ausgeht.
+Ein besonderer Schwerpunkt kommt in diesem Modell der Berücksichtigung des Lernwiderstandes zu (Modell des Widerständigen Lernens).
+In diesem Modell ist der Lernerfolg nicht formelhaft aus Lernziel und Lernmethode zusammengesetzt.
+Dies liegt im institutionalisierten Bildungswesen u. a. auch daran, dass neben den offiziellen Lernzielen auch heimliche Lehrpläne wirken.
+Vor allem kritisiert Holzkamp jedoch, dass die gängigen Lern- und Motivationstheorien nicht von den Interessen des lernenden Subjekts ausgehen, sondern sich nur mit dem Problem befassen, wie dem Lernenden von außen etwas nahegebracht werden kann.
+Auch ein solches selbstgesteuertes Lernen kann planvoll sein.
+Die ganze Lebensspanne wird heute mit dem Begriff des lebenslangen Lernens einbezogen.
+Soziales Lernen, Globales Lernen und Interkulturelles Lernen sind besondere Lern- und Lehransätze hinsichtlich der mit ihnen benannten Bildungs- und Erziehungsziele.
+Der Begriff des Organisationalen Lernens bezieht sich auf angeleitete Veränderungsprozesse im betrieblichen Management bzw. ganzer Organisationen ("lernende Organisation").
+Gegenwärtig bestehen Bestrebungen, die Erkenntnisse der Gehirnforschung stärker für die methodische Gestaltung des Unterrichts umzusetzen.
+Ein fruchtbares Modell für eine solche Umgestaltung bieten die neuronalen Netze; dieses Verständnis von Lernen findet Eingang in die Unterrichtsmethode Lernen durch Lehren (LdL).
+Neuronale Ensembles (beteiligter Personen) lernen dann, wenn zwischen den Neuronen stabile Konstellationen entstehen.
+Auf eine Lernergruppe bezogen bedeutet es, dass zwischen den Lernern durch stoffbezogene intensive und langfristige Interaktionen stabile Verbindungen aufgebaut werden.
+Ferner sollen diese neuronalen Netze selbst kollektiv Wissen konstruieren.
+Wenn sich eine Wissenschaft, wie die Pädagogik, weiterentwickelt und reift, dann durchläuft sie typische Stadien, in denen Nischen der Thematik näher ausgeleuchtet werden und, z. B. durch Änderung des Paradigmas, ganz andere Betrachtungsperspektiven auf die Sachlage und ihre Deutungen entstehen (siehe hierzu auch das Modell wissenschaftlicher Revolutionen nach Thomas Samuel Kuhn).
+Zudem fassen Menschen (neue) Gedankenmodelle zur Vereinfachung unter Oberbegriffen zusammen (Dietrich Dörner).
+Der Begriff des Lernens ist in einer Vielzahl von Teildisziplinen theoretisch diskutiert worden:
+Politische Prozesse sind nicht nur interessens- und machtgetrieben, sondern beziehen sich auch auf das Lösen von Problemen.
+Politische Akteure können im Hinblick auf Taktiken und Strategien im Umgang mit dem politischen Gegner lernen.
+Sie können aber auch bezogen auf die Lösung von Problemen lernen.
+So wurden in der politikwissenschaftlichen Forschung seit den 1990er Jahren Ansätze, die sich mit Lernen auseinandersetzen, immer stärker ausdifferenziert.
+Lernen in der Politik wird häufig als andauernde Änderung von auf Politik bezogenes Wissen, von Fähigkeiten und von Einstellungen verstanden.
+Dabei werden verschiedene Formen des Lernens voneinander unterschieden:
+In vielen Fällen treten die einzelnen Formen des Lernens nicht alleine, sondern aufeinander bezogen auf.
+So kann auf neue Ziele bezogenes (soziales) Lernen häufig erst durch neue Argumente und Arten der Entscheidungsfindung zum Tragen kommen.
+Das Spiel ist die ursprüngliche Form des Lernens bei allen höher entwickelten Tieren und beim Menschen.
+Spielen ist zwar nicht zweckorientiert, ist aber (gerade deshalb) für die Ausbildung und Fortentwicklung aller höheren kognitiven Fähigkeiten unverzichtbar.
+Spiel ist die kreativste Form des Lernens.
+Kinder müssen vom ersten Tag ihres Lebens an spielen, denn nur so entdecken sie die Welt und machen sie sich zu eigen.
+Bei manchen Tieren ist die Spielphase auf die Kindheit beschränkt, die Tiere mit der ausgeprägtesten Intelligenz (z. B. einige Rabenvögel, Papageien, Delphine, Affen) und der Mensch spielen noch bis ins hohe Alter.
+Selbst Spiele, die von Erwachsenen gern als "Unsinn" abgetan werden, haben einen Lerneffekt.
+Eine nicht zu unterschätzende Rolle beim Lernen kommt dem Humor zu.
+Die Lerntechnik des Auswendiglernens verzichtet auf Kenntnisse der inneren Komplexität von Lerninhalten und entsprechende Schlussfolgerungen.
+Der Fokus ist auf die originalgetreue Wiedergabe der Lerninhalte gerichtet.
+Grundlage für das Auswendiglernen ist die häufige Wiederholung.
+Doch auch für das Auswendiglernen gibt es eine Reihe von sehr effektiven Lerntechniken.
+Das dialogische Lernen ist das Ergebnis eines gleichberechtigten Dialogs, der auf verschiedenen, gerechtfertigten Argumenten beruht und nicht auf Machtansprüchen.
+In den westlichen Kulturkreisen besteht die weit verbreitete Ansicht, dass das Sokratische Gespräch und das ihm zugeordnete didaktische Vorgehen der Mäeutik als Ursprungsform des dialogischen Lernen anzusehen ist.
+E-Learning ist eine allgemeine Bezeichnung, die auf rechnergestütztes Lernen mithilfe des Internets verweist.
+Eine spezifische Anwendungsform ist das Mobile Learning bzw. M-Learning, das durch die Verbreitung von Smartphones zunehmend an Bedeutung gewinnt.
+Die Interaktion eines Lernenden mit der E-Learning-Umgebung wird als erweitertes Lernen bzw. augmented learning bezeichnet.
+Die Lerninhalte können dynamisch an die Bedürfnisse des Lernenden angepasst werden.
+Erweiterte digitale Inhalte können mit Text, Bild, Video und Ton versehen werden.
+Nach der Personalisierung von Lerninhalten konnte mit augmented learning eine Verbesserung der Lernleistungen belegt werden.
+Enkulturation ist ein Prozess, bei dem kulturelle Normen, Werte und Verhaltensweisen erlernt werden, die in der eigenen Kultur wünschenswert oder erforderlich sind.
+Maßgebliche Einflussfaktoren für diesen Prozess sind Eltern, andere Erwachsene und Gleichaltrige.
+Kinder und Heranwachsende lernen meist leichter, bereitwilliger und nachhaltiger von Gleichaltrigen als von Erwachsenen.
+Ältere Menschen setzen dem Lernen von den jüngeren Generationen oft einen erheblichen Lernwiderstand entgegen.
+Dabei spielt neben der Notwendigkeit, überholte Teile des früher Gelernten vergessen zu müssen, auch die schwierige Aufgabe der Überwindung von behindernden Vorurteilen eine Rolle.
+Auch eine starke Befangenheit in den Normen einer anderen kulturellen Sozialisation (etwa bei Migrantengruppen, die sich nach außen abschotten), kann ein erhebliches Lernhindernis darstellen.
+Episodisches Lernen (episodic learning) ist eine Verhaltensänderung, die als Folge eines Ereignisses eintritt.
+Die Speicherung von Ereignissen erfolgt im episodischen Gedächtnis, das Teil des expliziten Gedächtnisses ist.
+Zusammen mit dem semantischen Gedächtnis und dem autobiographischen Gedächtnis bildet das episodische Gedächtnis die drei Formen des expliziten Lernens.
+Das formale Lernen findet als Lehrer-Schüler-Beziehung innerhalb des Schulsystems statt und umfasst die Bereiche Bildung und Erziehung (Education).
+Informelles Lernen erfolgt durch die Erfahrungen aus alltäglichen Lebenssituationen.
+Das Lernen in Lebenszusammenhängen findet außerhalb des formalen Bildungswesens statt.
+Die kognitive Theorie des multimedialen Lernens (Multimedia Learning) beschreibt die Verknüpfung von Text- und Bildpräsentationen für Lerninhalte.
+Diese Art des Lernens basiert auf der Dualen Kodierungstheorie von Allan Paivio.
+Das sinnvolle bzw. kumulative Lernen (meaningful learning) verweist auf ein Konzept um Lerninhalte vollständig zu verstehen, damit der Kontext zu bereits verfügbarem Wissen hergestellt werden kann.
+Für das Verständnis des kumulativen Lernkonzepts ist die Abgrenzung zum Auswendiglernen hilfreich.
+Das Auswendiglernen erfordert lediglich die originalgetreue Wiedergabe von der Lerninhalte und verzichtet auf das inhaltliche Verständnis.
+Mehrdimensionales Lernen beinhaltet einerseits im methodischen Bereich den Einsatz mehrerer miteinander verbundener Lernverfahren und andererseits beim Lernenden die Aktivierung verschiedener seiner Lernpotenzen.
+Das nichtformelle Lernen (nonformal learning) resultiert aus der Unterscheidung nach formalem und informellem Lernen.
+Es ist das Lernen in einer formalen Lernumgebung, die aber nicht formell anerkannt ist.
+Beim Projektlernen handelt es sich um eine Lehr- und Lernform, bei der die Merkmale Komplexität der Aufgabenstellung, Bedürfnisspannung der am Unterrichtsgeschehen Beteiligten, Bezug zur Lebensumwelt, Interdisziplinarität der Sachansätze, Mehrdimensionales Lernen, Gemeinsame Planung und Durchführung sowie Ziel- und Prozessorientierung des Unterrichts ausschlaggebend sind für die Methodenwahl.
+Wie man Lernen verteilen soll, dass es mit einem Minimum an Aufwand ein Maximum an Erfolg zeigt, wird in der Lernforschung seit wenigstens 1885 diskutiert.
+Hierbei wird im Wesentlichen zwischen massiertem und verteiltem Lernen unterschieden.
+Für verteiltes Lernen spricht, dass sich hierdurch das Gelernte besser behalten lässt, mit massiertem Lernen kann Neues leichter gelernt werden und vor allem wird hierdurch das Umlernen erfolgreicher durchgeführt.
+Die optimalen Abstände (spacing) hängen hierbei vom zu Lernenden ab.
+Dies trifft auch auf Fragen des motorischen Lernens zu, wo dies in jüngster Zeit im Zusammenhang mit Blocktraining besonders diskutiert worden ist.

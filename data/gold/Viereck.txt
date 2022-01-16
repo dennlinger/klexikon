@@ -1,0 +1,25 @@
+Ein Viereck ist in der Geometrie eine Figur der Ebene.
+Sie hat immer vier Ecken und vier Seiten.
+Ein Viereck kann dennoch verschiedene Formen haben, weil die Seiten und Winkel unterschiedlich groß sein können.
+Die Linien, die die gegenüberliegenden Ecken eines Vierecks verbinden, nennt man Diagonalen.
+Wenn die Seiten oder Winkel eines Vierecks besondere Bedingungen erfüllen, dann haben die Vierecke bestimmte Namen.
+Es gibt Trapeze, Parallelogramme, Rauten, Drachenvierecke, Rechtecke oder Quadrate.
+Wenn nichts davon auf ein Viereck zutrifft, dann nennt man es ein unregelmäßiges Viereck.
+Bei einem Trapez verlaufen zwei gegenüberliegende Seiten parallel und zwei können irgendwie liegen, ganz egal wie.
+Sind beide Seitenpaare parallel, spricht man von einem Parallelogramm.
+Sind beide Seitenpaare parallel zueinander und auch noch alle Seiten gleich lang, dann heißt das Viereck Raute oder auch Rhombus.
+Stehen die Diagonalen zueinander im rechten Winkel, also neunzig Grad, spricht man von einem Drachenviereck.
+Sind alle Ecken eines Vierecks rechtwinklig, nennt man das ein Rechteck.
+Ein Rechteck mit vier gleichlangen Seiten heißt Quadrat.
+Für Vierecke gibt es oft mehrere Namen.
+Damit man aber möglichst genau weiß, wie das Viereck aussieht, nimmt man normalerweise den Namen, der es am besten beschreibt.
+Wenn man ein Quadrat vor sich hat, dann ist es natürlich auch ein Trapez:
+zwei gegenüberliegende Seiten sind parallel.
+Die anderen beiden Seiten dürfen beim Trapez völlig beliebig liegen, können also im Sonderfall auch parallel zueinander sein.
+Auf diese Art kann man viele Vierecke mehrfach benennen.
+Ein Quadrat kann man also ansehen als Spezialfall von einem Trapez, einem Parallelogramm, einem Drachenviereck, einer Raute (einem Rhombus) und einem Rechteck.
+Trotzdem sagt man Quadrat, weil das die eindeutigste Bezeichnung ist.
+Das Quadrat ist das speziellste Viereck.
+Auch ein Rechteck ist ein Parallelogramm und auch ein Trapez.
+Es ist aber zum Beispiel keine Raute, da nicht alle vier Seiten gleich lang sind.
+Eine Raute ist auch gleichzeitig ein Parallelogramm und ein Parallelogramm ist ein Spezialfall von einem Trapez.

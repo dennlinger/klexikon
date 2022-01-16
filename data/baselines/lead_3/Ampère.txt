@@ -1,0 +1,3 @@
+Das Ampere mit Einheitenzeichen A, benannt nach dem französischen Mathematiker und Physiker Andre-Marie Ampere, ist die SI-Basiseinheit der elektrischen Stromstärke und zugleich SI-Einheit der abgeleiteten Größe magnetische Durchflutung.
+Obwohl man den Nachnamen des Namensgebers Ampere mit Gravis schreibt, wird die SI-Einheit im deutschen und englischen Sprachraum ohne Akzent geschrieben, also "Ampere".
+Ein Ampere entspricht einem Fluss von 1 Coulomb (C) pro Sekunde durch den Leiterquerschnitt:

@@ -1,0 +1,10 @@
+Teilbarkeit ist eine mathematische Beziehung zwischen zwei ganzen Zahlen.
+Eine ganze Zahl ist durch eine andere ganze Zahl teilbar, wenn bei der Division kein Rest verbleibt, also die "Geteilt-Rechnung aufgeht".
+So ist beispielsweise die Zahl 8 durch 4 teilbar, da 8 : 4 genau 2 ergibt; somit ist 4, aber auch 2, Teiler von 8. Dagegen ist die Zahl 9 nicht durch 4 teilbar, weil die 4 zweimal in die 9 "geht", aber ein Rest von 1 übrig bleibt.
+Die Zahl 11 hat nur zwei Teiler: 1 und die Zahl 11 selbst.
+Solche Zahlen nennt man Primzahlen.
+Die Zahl 12 dagegen hat viele Teiler: 1, 2, 3, 4, 6 und 12.
+Solche Zahlen nennt man hochzusammengesetzte Zahlen.
+Die Funktion, die einer natürlichen Zahl n {\displaystyle n} die Anzahl ihrer Teiler zuordnet, ist eine zahlentheoretische Funktion (die Teileranzahlfunktion).
+In der elementaren Zahlentheorie ist der Begriff Teilbarkeit auf natürliche Zahlen beschränkt.
+In der Algebra dagegen wird der Begriff Teilbarkeit auf Integritätsringe, kommutative Ringe und nicht-kommutative Ringe erweitert.

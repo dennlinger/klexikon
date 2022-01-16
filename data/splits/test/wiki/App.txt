@@ -1,0 +1,216 @@
+Als Mobile App (auf Deutsch meist in der Kurzform App , eine Abkürzung für den Fachbegriff Applikation; teils auch das App; auf engl. als Kurzform für englisch application) wird eine Anwendungssoftware für Mobilgeräte beziehungsweise mobile Betriebssysteme bezeichnet.
+Obwohl sich der Begriff App auf jegliche Art von Anwendungssoftware bezieht, wird er im deutschen Sprachraum oft mit Anwendungssoftware für Smartphones und Tablets gleichgesetzt.
+Bei mobilen Apps wird zwischen nativen Apps, die nur auf einer Plattform funktionieren, und plattformunabhängigen Web-, Hybrid- und Cross-Plattform-Apps unterschieden.
+
+Es gibt sie für die verschiedensten Bereiche.
+Diese reichen von einfachsten Dienstprogrammen und Spaßanwendungen mit nur einer Funktion bis hin zu Programmpaketen mit umfangreicher Funktionalität (z. B. Office-Anwendungen, Spiele, Ratgeber, Fitness-Apps, zur Emulation älterer Heimcomputer und programmierbarer Taschenrechner, als Hilfestellung für Diabetiker und vieles mehr).
+Mithilfe von mobilen Remote-Apps werden zunehmend digitale Geräte ferngesteuert, wie zum Beispiel Kameras, Action-Camcorder oder Quadrocopter.
+Der Großteil dieser Apps ist kostenlos, ein kleinerer Teil muss, für meist geringe Beträge, im jeweiligen App Store gekauft werden.
+
+== Geschichte
+
+Schon die ersten Mobiltelefone enthielten oft kleine Anwendungen wie etwa Kalender, Taschenrechner oder Handyspiele.
+Diese waren vom Hersteller für das jeweilige Betriebssystem konzipiert, fest installiert und nur mit Root-Rechten löschbar.
+Mit dem Erscheinen von Java auf Mobiltelefonen (Java ME) bekamen Anwender die Möglichkeit, einfache Anwendungen und Spiele von ihrem Mobilfunknetzbetreiber oder aus dem Internet über WAP (MIDlets) herunterzuladen, die häufig schon plattformunabhängig waren.
+Es entwickelte sich eine Hobby-Programmiererszene, aber auch professionelle Softwarehäuser boten solche Anwendungen kostenpflichtig an.
+Auch auf diversen PDAs konnten Anwendungen installiert werden.
+Als Vorläufer von Smartphone-Apps können die Palm-OS-PDA-Anwendungen gelten, die meist nur aus einer Datei bestehen und nach dem Transfer direkt nutzbar sind.
+Auf Psion-Organisern konnten Programme mit dem Gerät selbst erstellt werden.
+
+Für Mobiltelefone mit eigenem Betriebssystem und der Möglichkeit, entsprechende Apps zu installieren, setzte sich um das Jahr 2000 der Begriff Smartphone durch.
+Dieser Begriff wurde im Mobilbereich erstmals von Ericsson für den Prototyp GS88 verwendet.
+Weite Verbreitung fand um dieselbe Zeit die Communicator-Serie von Nokia, auf deren späteren Modellen das Betriebssystem Symbian lief.
+Zu den ersten im Massenmarkt verfügbaren Smartphones zählten 2002 das Siemens S55 und das Nokia 7650, auf denen sich Java-Programme manuell übertragen und ausführen ließen.
+Erst mit dem Erscheinen des Apple iPhone 2007 und später der Android-Mobiltelefone und weiteren Smartphones wurde die Möglichkeit der Installation von Anwendungen auf mobilen Geräten breiten Bevölkerungskreisen geläufiger, unterstützt durch entsprechend verstärktes Marketing der Hersteller.
+Auf den meisten Smartphones sind einige Apps, wie zum Beispiel ein Webbrowser, ein E-Mail-Programm und ein Kalender, bereits vorinstalliert.
+Im Juni 2016 wurden allein für iOS über zwei Millionen Apps angeboten.
+
+Weltweit wurden im Jahr 2016 über 90 Milliarden Apps heruntergeladen (iOS-App-Store und Google-Play-Store).
+In Deutschland stieg der Umsatz im Vergleich zum Vorjahr um 40 Prozent auf 750 Millionen Dollar.
+Durchschnittlich verbrachte ein Android-Smartphone-Nutzer mehr als 1,5 Stunden am Tag in Apps.
+Die Liste der beliebtesten Apps (die meisten Downloads) in Deutschland führt 2016 WhatsApp an, gefolgt von Facebook Messenger und Facebook-App.
+Den vierten Platz belegt Snapchat und auf Rang fünf folgt Instagram.
+Die umsatzstärksten Apps waren Lovoo, Spotify und Tinder, wenn man Spiele-Apps außer Acht lässt.
+Die Umsätze des Gesamtmarktes legten deutschland- und weltweit in den Folgejahren weiter stark zu.
+Im Jahr 2020 war nach Angaben der Analysefirma Apptopia das Videoportal TikTok die mit weltweit gut 850 Millionen Downloads erfolgreichste App (App-Store und Google Play), vor WhatsApp, der Facebook-App, Instagram und dem Videokonferenz-Tool Zoom.
+
+== Native Apps
+
+Native Apps zeichnen sich dadurch aus, dass sie speziell an die Zielplattform angepasst sind.
+Da eine native App die Programmierschnittstellen (APIs) der Zielplattform direkt benutzt, ist die Bandbreite der Anwendungen sehr hoch.
+Zudem kann auf alle plattformspezifischen Hard- und Software-Funktionen zugegriffen werden, wie Dateien, GPS, Beschleunigungssensoren, Mikrofon und Kamera.
+Durch die verschiedenen Software-Plattformen ist es jedoch nicht möglich, etwa eine Android-App auf einem iPhone aufzuspielen oder umgekehrt.
+Somit muss ein Softwareunternehmen die Anwendung für jedes Endgerät einzeln entwickeln.
+Jede mobile Plattform besitzt ihr eigenes Software Development Kit (SDK) und ihre eigene integrierte Entwicklungsumgebung (z. B. Android Studio oder Xcode), welche von Entwicklern genutzt werden können.
+Die bevorzugten Programmiersprachen für die größten Systeme sind:
+
+Mit nativen Apps können die verschiedensten Typen von Geräten auf einmal bedient werden, wenn alle auf einer Plattform basieren.
+So ist es mit der Universal Windows Platform möglich, auf einmal native Windows-Apps für Desktop-PCs, Laptops, Tablets, Smartphones und die Xbox One zu schreiben.
+
+== Plattformunabhängige Apps
+
+Die rasante Entwicklung unterschiedlicher Betriebssysteme, wie Android, Windows, iOS und mobiler Endgeräte, von Smartphones, über Tablets bis zu Notebooks und Smart-TVs, bringt Unternehmen zum Umdenken.
+Laut einer Studie des Marktforschungsinstitutes GfK nutzen mehr als 60 % der Erwachsenen in den USA mindestens zwei Geräte täglich und etwa 25 % mindestens drei Geräte.
+Daher ist es wichtig, dass die App auf allen unterschiedlichen Geräten verfügbar ist und problemlos funktioniert.
+Diese Erwartungshaltung hat den Bedarf nach plattformunabhängigen Hybrid- und Cross-Plattform-Anwendungen erhöht.
+
+Plattformunabhängige Apps werden gerade in Unternehmen, die unterschiedliche Geräte benötigen, immer wichtiger.
+Vor allem durch das Aufkommen des Phänomens Bring your own device (kurz: BYOD, auf Deutsch in etwa: "Bring Dein eigenes Gerät mit") werden Unternehmen vor die Aufgabe gestellt, firmeninterne Programme und Anwendungen für alle Betriebssysteme und Gerätearten bereitzustellen.
+Auch spielt Mobilität, beziehungsweise Flexibilität eine tragende Rolle.
+Eine Anwendung, die auf Desktop-Computern läuft, soll z. B. auch bei dem externen Kundenbesuch auf dem Tablet funktionieren oder unterwegs auf dem Smartphone.
+Dabei wird versucht, möglichst einfach für mehrere Plattformen gleichzeitig zu entwickeln.
+Google portiert dazu große Teile des Quellcodes von Inbox, mit Hilfe der Software "J2ObjC", von Java nach Objective-C.
+Auch Microsoft bietet mit der "Windows Bridge" eine Möglichkeit, Windows Apps mit iOS APIs zu entwickeln.
+
+=== Web-Apps
+
+Mobile Web-Apps werden über den Webbrowser des Mobilgeräts abgerufen und bedürfen keiner Installation.
+Sie benutzen Webstandards wie HTML5 oder JavaScript, damit sie auf beliebigen Endgeräten betrieben werden können.
+Im Gegensatz zu mobilen Apps, die für jede Plattform neu implementiert werden müssen, kann eine Implementierung von Web-Apps auf vielen verschiedenen Plattformen genutzt werden.
+Eine mobile Web-App verhält sich im Idealfall genau so wie eine native App, wird also vom Nutzer nicht wie eine Webseite wahrgenommen, sondern bietet stattdessen eine Benutzeroberfläche, die sich in das mobile Endgerät optisch und ergonomisch integriert.
+Nachteile von Web-Apps sind, dass sie nicht auf alle Hardware-Komponenten zugreifen können und dass die zur Verfügung stehende Datenübertragungsgeschwindigkeit eine wichtige Rolle spielt.
+Eine langsame Internetverbindung (beispielsweise bedingt durch schlechten Netzempfang) kann zu spürbaren Verzögerungen in der Interaktivität führen.
+
+Bei der Nutzung von Web-Apps müssen meist mehr Daten übertragen werden als bei der Nutzung einer nativen App.
+Somit können höhere Übertragungs-Gebühren (besonders Roaming-Gebühren im Ausland) für den entstehenden Datenverkehr ein Hindernis für viele Nutzer darstellen, mobile Web-Apps z. B. im Urlaub zu nutzen.
+Das Zwischenspeichern der benötigten Daten in einem lokalen Speicher (Cache) stellt einen praktikablen Ausweg dar, um diese auch im Offline-Betrieb zur Verfügung zu stellen.
+Allerdings ist die im Gerät mit Hilfe von Web-Storage-Technik zu speichernde Datenmenge meist stark begrenzt.
+
+Mobile Web-Apps können, im Gegensatz zu allen anderen Typen von mobilen Apps, nicht in App Stores angeboten werden.
+Aus diesem Grund greifen viele Websitebetreiber stattdessen auf Website-in-App Konverter zurück, die die Web-App in eine native App integriert.
+Viele dieser mit Konvertern erstellten Apps können allerdings ebenfalls nicht in App Stores veröffentlicht werden.
+Diese Apps werden unter anderem von Apple in den App Store Richtlinien ausgeschlossen, da sie keinen Mehrwert im Vergleich zu der mit einem Browser abrufbaren mobilen Website bieten.
+
+=== Hybrid-Apps
+
+Hybrid-Apps stellen eine Sonderform einer mobilen App dar.
+Sie vereinen die Vorteile von nativen und Web-Apps, indem sie auf viele Hard- und Software-Komponenten des mobilen Endgeräts zugreifen und gleichzeitig unterschiedliche Plattformen bedienen können.
+Sie können sowohl auf unterschiedlichen Mobilgeräten (Smartphone & Tablet) und PCs als auch auf unterschiedlichen Betriebssystemen laufen.
+
+Hybrid-Apps vereinen die Vorteile von nativen Apps und Webanwendungen, indem Quellcode plattformübergreifend verwendet werden kann.
+Der Code wird in Webtechnologien wie HTML-, CSS- und JavaScript geschrieben.
+Hybrid-Apps laufen - für den Nutzer nicht sichtbar - innerhalb des nativen Webbrowsers der jeweiligen Plattform, z. B. Safari oder Google Chrome.
+Durch das genutzte Framework werden alle Bedienelemente des Browsers, wie beispielsweise die Menüleiste mit URL- oder Lesezeichen-Leiste unterdrückt.
+
+Für die Entwicklung von Hybrid-Apps stehen verschiedenen Frameworks zur Verfügung.
+Eine der größten Entwicklungsplattformen ist Cordova der Apache Software Foundation und das darauf basierende PhoneGap von Adobe.
+Es bieten weitere Unternehmen wie Ansca Mobile mit dem Corona SDK und Drifty mit Ionic Lösungen zur Entwicklung von Hybrid-Apps an.
+
+Das Framework lädt eine Bibliothek, die die Kommunikation zwischen JavaScript und der jeweiligen betriebssystemspezifischen Sprache herstellt.
+Dadurch können Hybrid-Apps auf diverse Hard- und Software-Komponenten des mobilen Endgerätes zugreifen.
+Ein Zugriff ist unter anderem auf Kontakte, Kamera, Bewegungssensor, GPS und Dateien möglich.
+Moderne Render-Engines erhöhen die Berechnungsgeschwindigkeit der Interpretation des HTML5-, CSS3- und JavaScript-Codes.
+Dadurch kann die Ausführungsgeschwindigkeit um ein Vielfaches erhöht werden.
+Durch Technologie wie WebGL werden komplexe 3D-Grafiken ohne zusätzliche Erweiterungen durch die Hardware beschleunigt.
+
+Ein wesentlicher Vorteil der Hybrid-Apps liegt darin, dass mit einer Entwicklung viele Plattformen abgedeckt werden können und keine teurere parallele Entwicklungen für die jeweiligen Ökosysteme stattfinden muss.
+Infolgedessen sinkt der Entwicklungsaufwand auf Seiten des Softwareunternehmens erheblich, dadurch kann die Benutzeroberfläche und Funktionalität über mehrere Plattformen hinweg auf den gleichen Stand gehalten werden.
+Jedoch können nicht alle Geräte- beziehungsweise Betriebssystemspezifischen Eigenschaften benutzt werden und bei der Umsetzung der Hybrid-App können plattformspezifische Interaktionsdesigns und das Look and Feel der jeweiligen Plattform nur beschränkt beachtet werden.
+Zudem sind stark verlangsamte Ladezeiten und eine viel schlechtere Rechenleistung, beispielsweise bei komplexen Spielen, möglich, da sie mit der Zwischenschicht des Webbrowsers agieren.
+
+=== Cross-Plattform-Apps
+
+Eine Cross-Plattform-App ist, ähnlich einer Hybrid-App, eine Anwendung, die unabhängig von der Plattform auf verschiedenen Betriebssystemen und Endgeräten ausgeführt werden kann.
+Im Gegensatz zur Hybrid-App wird die Benutzeroberfläche meist mit den nativen APIs des jeweiligen Betriebssystems gebaut und nicht in einem Webbrowser angezeigt.
+So lassen sich bis zu 75 % des Quellcodes zwischen den verschiedenen Plattformen teilen, ohne dass es zu starken Einbußen bei der Performance kommt.
+Der Quellcode wird meist in C#, C++ oder JavaScript geschrieben.
+
+Frameworks für die Cross-Plattform-Entwicklung sind die "Xamarin Plattform" von Xamarin, Appcelerators "Titanium Mobile" und React Native von Facebook.
+Alle drei Frameworks unterstützen die Entwicklung von Cross-Plattform-Apps für Android, iOS und Windows.
+Mit "Xamarin.Forms" lassen sich auch große Teile des Benutzeroberflächen-Codes zwischen den Plattformen teilen, dabei wird bei Laufzeit das plattformübergreifende Platzhalter-Bedienelement in ein natives Bedienelement verwandelt.
+
+Googles Flutter SDK ermöglicht die Entwicklung von Cross-Plattform-Apps für iOS und Android in der Programmiersprache Dart.
+Flutter nutzt keine nativen Bedienelemente, sondern mit einer eigenen Rendering-Engine Gezeichnete.
+
+Es lässt sich aber auch Model-Layer-Code in C++ zwischen diesen Plattformen teilen, ohne dass ein Framework genutzt werden muss.
+
+== Entwicklung
+
+Bei der Entwicklung von mobilen Apps müssen einige Einschränkungen im Vergleich zu Anwendungen für Desktop-Computer beachtet werden, so sind z. B. die Prozessoren von Smartphones leistungsschwächer und laufen mit Akkubetrieb.
+Zudem gibt es eine große Anzahl an verschiedenen Bildschirmgrößen, Hardwarekonfigurationen und Softwareversionen.
+Mobile Apps werden meist mit Hilfe einer integrierten Entwicklungsumgebung und dem Software Development Kit der entsprechenden Plattform entwickelt.
+Die Software kann mit einem Emulator getestet werden, bevor sie auf echten Geräten ausprobiert wird.
+
+Viele Entwickler setzen mittlerweile auf Sprachdialogsysteme, im Gegensatz zu "normalen" mobilen Benutzerschnittstellen.
+Diese können entweder in der Form von Spracherkennung, wie z. B. mit Siri, oder in Form von Chatbots, z. B. in Skype oder Facebook Messenger, umgesetzt werden.
+Diese Form von Interaktionen mit Anwendungen wächst, da viele Nutzer von der Vielzahl an Apps überwältigt werden.
+Microsofts CEO Satya Nadella sieht Chatbots "als nächstes großes Ding", welches so tiefgreifende Änderungen wie zuvor das iPhone für Touchscreens oder die Nutzung von grafischen Benutzeroberflächen bringen wird.
+
+Der Beschäftigungsbereich für Softwareentwickler von Apps für mobile Plattformen wächst immer weiter, bis 2012 wurden, laut einem Bericht von "TechNet", allein in den USA 466.000 neue Jobs geschaffen.
+In Europa sollen es, laut einem Bericht des "Progressive Policy Institute", Anfang 2016 1,64 Millionen Arbeitsplätze sein, die von mobilen Apps abhängen.
+Die Hersteller von mobilen Betriebssystemen versuchen mit verschiedenen Methoden, Softwareentwickler für ihre Plattform zu gewinnen.
+So will Apple im Oktober 2016 ein "iOS App Development Center" in Neapel, Italien eröffnen, in dem Entwickler geschult werden.
+Google will in Indien zwei Millionen Entwickler schulen und bietet über Udacity verschiedenen Kurse im Bereich der Android-Entwicklung an.
+
+== Vertrieb
+
+Apps können meist über eine in das Betriebssystem integrierte Internet-Vertriebsplattform bezogen und direkt auf dem Gerät installiert werden.
+In Folge des großen Markterfolgs von Smartphones und Tablets haben praktisch alle Hersteller mobiler Betriebssysteme eigene Plattformen entwickelt, um die für ihre jeweiligen Geräte entwickelten Apps zu vermarkten.
+Die Apps können dort von Kunden kostenlos oder kostenpflichtig heruntergeladen werden.
+Die Vertriebsplattform mit der größten Anzahl an Programmen ist der Google Play Store für Android-Geräte, gefolgt vom App Store für iOS.
+Daneben gibt es auch für Geräte mit anderen Betriebssystem eigene App Stores.
+Einnahmen gehen zum größten Teil an die Entwickler, der Betreiber des Vertriebsportals ist an den Gewinnen ebenfalls beteiligt.
+So behalten Apple, Google und Microsoft 30 Prozent des Kaufpreises einer App oder eines in-App Kaufs als Provision ein.
+Im Regelfall werden Apps durch die Portalbetreiber technisch geprüft, teilweise findet zusätzlich eine inhaltliche Überprüfung statt.
+
+Es gibt grundsätzlich verschiedene Wege, wie eine App auf ein Gerät gelangt: direkt über die mobile Internetverbindung oder WLAN des Geräts oder mit Hilfe eines PC, mit dem über entsprechende Software (wie etwa iTunes) bei Anbindung des Mobilgeräts Apps installiert werden können.
+Manche App-Plattformen ermöglichen es auch, die App über den PC zu kaufen und automatisch auf allen synchronisierten Geräten zu installieren, wobei die App von den Geräten automatisch heruntergeladen wird.
+Sofern die Hersteller ihr mobiles Betriebssystem auch für externe Quellen zur Installation von Anwendungssoftware zugänglich halten, gibt es darüber hinaus weitere, oft plattformübergreifende Angebote durch Shops verschiedener Anbieter im Internet, sowie die Möglichkeit des direkten Bezugs auf den Webseiten der App-Entwickler.
+
+== Datenschutz
+
+Viele Mobile Apps werden von Verbraucherschützern kritisiert, weil sie ohne das Wissen des Benutzers oder dessen Zustimmung Daten versenden, die für die Funktion der App gar nicht erforderlich sind oder die unverschlüsselt oder nicht anonymisiert sind, und daher leicht ausspioniert werden können.
+Die Betreiber von Plattformen im Internet, wie zum Beispiel soziale Netzwerke oder Einkaufsportale, werden mit Apps in die Lage versetzt, Daten zu sammeln und für gezielte und effiziente Werbezwecke einzusetzen oder an Dritte weiterzuleiten.
+Besonders kritisch ist es, wenn zum Beispiel bei Shopping-Apps sensible persönliche Daten, wie Kontodaten oder Kreditkarteninformationen, ausspioniert werden können.
+Viele Apps sammeln zudem Daten über automatisierte Analytics-Dienste, wie Google Analytics oder Twitters Fabric.
+
+Native Apps können wie alle anderen Programme Sicherheitslücken enthalten.
+Es bedarf daher grundsätzlich der Sicherstellung der Aktualisierungen des Endgeräts sowie der Softwarepflege durch den Anbieter.
+Native Apps laufen als eigenständiges Programm auf dem jeweiligen Gerät und haben damit erweiterten Zugriff auf Ressourcen.
+Diesem Problem wird durch die Verwendung einer Sandbox begegnet, wodurch der Zugriff auf vom Hersteller bereitgestellte Programmschnittstellen beschränkt wird, und somit reguliert werden kann.
+
+== In-App-Käufe und WAP-Billing
+
+Apps können ein sogenanntes WAP-Billing durchführen.
+Dieser ist ein Mechanismus, bei dem beim bloßen Anklicken eines eingeblendeten Werbebanners Kosten über den Mobilfunkbetreiber eingetrieben werden oder ein kostenpflichtiges Abonnement startet.
+Nutzern ist es in diesen Fällen oft nicht bewusst, dass sie nach Auffassung des Anbieters einen Kaufvertrag abgeschlossen zu haben.
+Die dritte Änderung des Telekommunikationsgesetzes (TKG) ermächtigte durch eine Änderung des § 45d TKG zum 4. Juli 2017 die Bundesnetzagentur, Verfahren festzulegen, die Mobilfunkteilnehmer wirksam davor schützen sollen, dass eine neben der Verbindung erbrachte Leistung gegen seinen Willen in Anspruch genommen und abgerechnet wird.
+Laut Verbraucherschutzorganisationen können Verbraucher in konkreten Fällen gegebenenfalls nachträglich gegen In-App-Käufe vorgehen, etwa durch Rückforderung gezahlter Beträge, Widerruf eines Vertrags und/oder Widerspruch im Falle eines gerichtlichen Mahnbescheids.
+Bei ihren Mobilfunkanbietern können sie eine kostenlose Drittanbietersperre einrichten lassen, In-App-Käufe auf ihren Mobilgeräten deaktivieren oder In-App-Käufe durch eine zusätzliche Passwortabfrage erschweren.
+
+== Einsatz in Unternehmen
+
+In Unternehmen werden Mobile Apps in verschiedenen Bereichen eingesetzt.
+Dabei werden Anwendungen, die im Unternehmen von den Mitarbeitern an PCs genutzt werden, z. B. Enterprise-Resource-Planning (ERP), Customer-Relationship-Management (CRM) oder Microsoft Outlook, auch auf den Mobilgeräten verfügbar, so dass ortsunabhängig gearbeitet werden kann.
+Ein anderer Anwendungsbereich ist der Einsatz im Marketing (z. B. Messenger Marketing).
+Apps werden dort zum Beispiel zur Unterstützung der Vertriebsmitarbeiter eingesetzt, etwa durch Bereitstellen von internen Produktkatalogen oder Ersatzteillisten mit direkter Online-Bestellmöglichkeit, auch verbunden mit der vorherigen Abfrage von Lagerbeständen und/oder Prognosen zur momentanen Lieferzeit eines Produkts.
+
+=== Sicherheit
+
+Mobile Apps bedeuten für Unternehmen im Bring-your-own-device-Kontext oft ein hohes Sicherheitsrisiko, da sie zum Teil ohne Wissen und Zustimmung der Nutzer ungeschützt sensible Daten übertragen.
+Das bedeutet nicht nur den Verlust vertraulicher Informationen, sondern macht Unternehmen angreif- und erpressbar.
+Im Unternehmenseinsatz sorgen sogenannte Mobile-Device-Management-Systeme dafür, dass erwünschte Apps zentral auf die Geräte verteilt werden können, zum Teil durch ein eigenes Bezugsportal.
+Im Fall reiner Firmen-Smartphones oder Tablets wird die Installation anderer Apps durch den Anwender aus Sicherheitsgründen technisch häufig unterbunden, da andernfalls ein möglicher Angriffspunkt für Industriespionage und andere Risiken durch Schadprogramme geschaffen würde.
+Zur sauberen Trennung von Apps auf Unternehmens-Mobilgeräten mit teilweiser privater Nutzung können sogenannte Personae zur Trennung der jeweiligen Daten und Anwendungen genutzt werden.
+
+Sofern im Unternehmenseinsatz nicht auf interne IT- und Sicherheitsrichtlinien verzichtet wird, kommt der herkömmliche Vertriebsweg über einen App Store in der Regel nicht in Frage, denn darüber wären die - oft selbstentwickelten - mobilen Apps des Unternehmens auch öffentlich zugänglich.
+Stattdessen werden solche Apps durch einen Systemadministrator des Unternehmens zentral über Mobile-Device-Management-Lösungen dem Anwender zur Verfügung gestellt beziehungsweise auch automatisch auf das Smartphone installiert.
+
+==== App Wrapping
+
+Eine Möglichkeit zur Absicherung von Unternehmensdaten ist App Wrapping.
+Beim App Wrapping werden unternehmensrelevante Anwendungen in einer weiteren App verschlüsselt.
+So wird gewährleistet, dass im Unternehmen nur sichere und zugelassene Anwendungen zum Einsatz kommen.
+Das hat aber auch Nachteile, es kann zu Urheberrechtsverletzungen bis hin zum Verlust von Gewährleistungsrechten kommen.
+
+==== Natives App Management
+
+Alternativ gibt es die Möglichkeit durch Mobile-Device-Management native Apps sicher anzubieten, ohne dass die native Benutzererfahrung leidet.
+Diese Funktion bietet unter anderem Apple seit iOS 7, Google mit "Android for Work" und Samsung mit Knox.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

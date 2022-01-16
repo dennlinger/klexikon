@@ -1,0 +1,418 @@
+Ein Nachrichtendienst oder Geheimdienst ist eine Organisation, zumeist eine Behörde, die Informationen mit nachrichtendienstlichen Mitteln sammelt und auswertet.
+Die Informationen sollen zur Gewinnung von Erkenntnissen (z. B. in den Bereichen Politik, Wirtschaft, Militär, Wissenschaft und Technik) dienen, an denen ihr Auftraggeber (i. d. R. Regierungen) ein Interesse hat.
+
+Während Auslandsnachrichtendienste Erkenntnisse aus und über andere(n) Staaten sammeln, kümmern sich Inlandsnachrichtendienste insbesondere um Spionageabwehr, Verfassungsschutz und Terrorismus-Bekämpfung im eigenen Land.
+Aufgabe kann zudem die Mitwirkung beim Geheimschutz sein.
+Des Weiteren wird unterschieden zwischen zivilen und militärischen Geheimdiensten.
+Während die Begriffe Nachrichtendienst und Geheimdienst im alltäglichen Sprachgebrauch oft gleichgesetzt werden, bezeichnet letzterer in der Fachsprache häufig nur Dienste, die auch aktive Maßnahmen, etwa zur Beeinflussung, durchführen.
+Zur Abgrenzung von Nachrichtendiensten im Sinne von Nachrichten- und Presseagenturen wird teilweise auch von geheimen Nachrichtendiensten gesprochen.
+
+Was ihre Organisation und Befugnisse angeht, sind Nachrichten- und Geheimdienste in den verschiedenen Staaten recht unterschiedlich ausgestaltet.
+Von erheblicher Bedeutung ist, ob der Nachrichtendienst für seine Informationsgewinnung und -auswertung auf freiwillige, gegebenenfalls täuschungsbedingte Angaben von Auskunftspersonen (HUMINT), die Sammlung von frei verfügbaren Daten (OSINT) und Geodaten (GEOINT) sowie auf die technische Überwachung des Post- und Fernmeldeverkehrs (SIGINT) beschränkt ist, oder ob er zur Erforschung eines Sachverhalts gegenüber Personen auch verdeckte Operationen oder gar polizeiliche Befugnisse ausüben darf.
+Spionageoperationen werden auch als Fälle bezeichnet.
+Die Fallbearbeitung bzw. Fallführung erfolgt durch einen Fallführer.
+Manche Nachrichtendienste verfügen auch über paramilitärische Abteilungen zur Durchführung von Kommandounternehmungen, wie z. B. der zivile US-amerikanische Auslandsgeheimdienst Central Intelligence Agency (CIA).
+Besteht die Aufgabe eines Geheimdienstes in der Unterdrückung der eigenen Bevölkerung und insbesondere politischer Gegner, so handelt es sich um eine Geheimpolizei.
+
+== Aufgaben und Befugnisse
+
+Die Existenz von Geheim- und Nachrichtendiensten basiert auf der Idee der Staatsräson und dient dem Staatsschutz.
+
+Typische Aufgabenstellungen sind:
+
+Der Aufgabenbereich zerfällt in den Bereich der Sammlung von Informationen und deren Auswertung.
+Zweck ist die Gewinnung von Erkenntnissen.
+Zur Erfüllung ihrer Aufgaben unterhalten die meisten (Auslands-)Nachrichtendienste Residenturen im Ausland.
+Angehörige einer Legalresidentur werden häufig an Botschaften akkreditiert, um einen diplomatischen Status zu erlangen.
+Häufig ergibt sich dabei eine Zusammenarbeit mit dem Militärattache oder dem Presseattache der Botschaft.
+
+=== Sammlung von Informationen
+
+Zur Erfüllung der Aufgaben werden nachrichtendienstliche Mittel und Methoden eingesetzt.
+Sie dienen der offiziellen Sammlung, in der Mehrzahl aber verdeckten Beschaffung von sach- und personenbezogenen Daten.
+Diese werden zielgerichtet erhoben, registriert, bearbeitet und genutzt, um sachbezogene Auskünfte zu erhalten, Bewertung von Sachverhalten vornehmen zu können oder gedeckte Aktivitäten vornehmen zu können.
+Die benötigten Informationen können durch Abschöpfung öffentlich zugänglicher Quellen (z. B. Presse- und Rundfunkberichterstattung) oder geheimer Informationsquellen gewonnen werden.
+Nachrichtendienstliche Mittel sind bei den verschiedenen Nachrichtendiensten ähnlich und sind in der heutigen Zeit wesentlich vom Stand der Technik abhängig.
+Sie unterscheiden sich in der Schwerpunktsetzung, so z. B. in dem Vorzug von menschlichen Quellen, die im Rahmen der operativen Aufklärung "geführt" und "abgeschöpft", im Gegensatz zur technischen Aufklärung, bei der nicht-offene sachliche Quellen durch technische Verfahren gewonnen werden.
+Eine weitere mögliche Differenzierung liegt in der Wahl der Qualität der Informanten und deren Beauftragung.
+Der Grad des Technikeinsatzes ist bei der CIA zum Beispiel weitaus größer als beim BND, was sich unmittelbar am Ergebnisse bemerkbar macht.
+
+Die Aufklärungsarbeit eines Nachrichtendienstes beginnt bei der Forderung nach Informationen (Aufklärungsforderung) durch den Bedarfsträger.
+Es folgen Zwischenschritte (Aufklärung und Beschaffung), bis zur Weitergabe der Ergebnisse an den Bedarfsträger.
+
+==== Zyklus der Aufklärungsarbeit
+
+Es kann folgende Hauptphasen in der Aufklärungsarbeit geben:
+
+Diese Phasen sind nicht immer klar abgegrenzt und müssen nicht immer in der gegebenen Reihenfolge ablaufen.
+
+==== Aufklärungsforderung
+
+Es gibt die generelle und die spezielle Aufklärungsforderung.
+Ersteres legt den weiten Rahmen der Aufklärungskompetenz fest.
+Es wird ständig aktualisiert, erneuert und ergänzt.
+Spezielle Aufklärungsforderungen des Konsumenten decken ad hoc Lücken ab.
+Grundsätzlich werden auch Daten erhoben, die dem Nachrichtendienst selbst dienlich sind.
+
+==== Beschaffung
+
+Quellen können unterschieden werden in sachliche Quellen und menschliche Quellen.
+Quellen sind die Beschaffungsmittel, so z. B. Agenten, Gewährspersonen, Informanten oder Funkaufklärung.
+Quellen werden nach ihrer Eignung für Beschaffungsoperationen aufgeschlüsselt und katalogisiert.
+Übermittelnde Stellen werden nicht als Quellen bezeichnet, so leiten Zeitungen oft nur Agenturmeldungen weiter.
+Quellen sind oft schwer zu finden, und oft ist es noch schwerer, sie vollständig auszunutzen.
+Quellen können wie folgt eingeteilt werden:
+
+Hinsichtlich der Beschaffungsgrundsätze ist zu sagen, dass die Erfassung vollständig und, wenn geraten, ununterbrochen erfolgen soll.
+Alle Informationen sind hinsichtlich der Zuverlässigkeit der Quelle und der Wahrscheinlichkeit des Inhalts zu bewerten.
+Alle Informationen sind in geeigneter Form und mit der nötigen Geschwindigkeit weiterzugeben.
+
+Der BND unterscheidet zwischen:
+
+Weiterhin unterscheidet der BND:
+
+Bei HUMINT handelt es sich um menschliche Quellen.
+Dazu gehört zum Beispiel die Befragung von Kriegsgefangenen und Überläufern.
+Überläufer sind Personen, die den fremden Machtbereich verlassen haben, um geheime Informationen an die Bundesrepublik Deutschland zu liefern.
+Ziel des Dienstes ist es nun, den Überläufer wieder in das Zielland zu bringen, um ihn dort als Innenquelle zu nutzen.
+
+Agentenwerbung erfolgt in Schritten.
+Zuerst wird getippt, also eine mögliche Eignung für die nachrichtendienstliche Arbeit festgestellt.
+Es erfolgt nun bei Interesse eine Umweltforschung.
+Es folgt die Kontaktforschung.
+Besteht danach immer noch Interesse, wird ein Plan für die eigentliche Werbung erstellt und dieser wird dann umgesetzt.
+
+Bei den Agentenwerbungsarten kann man zwischen kalter Anwerbung und warmer Anwerbung unterscheiden.
+Bei der ersteren erfolgt die Ansprache direkt, ohne große Vorarbeiten.
+Bei letzteren erfolgt ein Heranspielen der eigenen Kontaktperson an die Zielperson, die langsam ein Vertrauensverhältnis aufbaut.
+Ist das geschehen, kann ein Werbungsversuch durchgeführt werden.
+
+Agentenkategorien:
+Grundsätzlich kann zwischen Quelle und Beschaffungshelfer getrennt werden.
+Die Quelle liefert die Informationen, der Beschaffungshelfer ist zuständig für Hilfsaufgaben rund um die Werbung und Nutzung von Quellen.
+Wichtigste Aufgabe ist das Kurierwesen (Verbindungswesen).
+
+Ausbildung Agenten werden konspirativ und im Einzelunterricht geschult.
+
+Inhalte sind:
+
+SIGINT (Signals Intelligence) bedeutet: Beschaffung von Informationen durch Zugriff auf fremde Kommunikationsverbindungen, Radar und Datenübertragung, aber auch Geräteausstrahlungen.
+SIGINT liefert zeitgerechte und akkurate Daten, über die der Gegner identifiziert und lokalisiert werden kann, und über die gegenwärtige und zukünftige Aktionen des Gegners erschlossen werden können.
+Mit SIGINT kann das C2-System des Gegners penetriert werden.
+Prinzipielle Einschränkungen von SIGINT sind, dass der Gegner erstmal Daten aussenden muss, und die eigenen Kräfte erstmal die Möglichkeit haben müssen, Zugriff auf die Sendungen zu erlangen.
+Dieser könnte z. B. durch Richtfunk und Verschlüsselung erschwert sein.
+
+IMINT (Imagery Intelligence) bedeutet: Beschaffung von Informationen durch Bildsysteme (optisch, Radar, Infrarot).
+In der Verwendung wird IMINT beschränkt durch den Zeitaufwand, der benötigt wird, um die Ergebnisse zu beschaffen, zu bearbeiten und zu analysieren.
+Deshalb ist eine gute Organisation vonnöten, um die Ergebnisse zeitgerecht zu liefern.
+Eingeschränkt wird IMINT oft durch das Wetter, die Verteidigungsmaßnahmen und die Tarnungs- und Täuschungsmaßnahmen des Gegners.
+IMINT ist ein Oberbegriff für Photografic-Intelligence (PHOTINT) und Satellite-Intelligence (SATINT)
+
+=== Auswertung der Informationen
+
+Die Auswertung teilt sich auf in Nachrichtenbewertung, Nachrichtenzerlegung, Nachrichtenauslegung, Darstellung der Erkenntnisse und schließlich Nachrichtenverteilung.
+Die Nachrichtenbewertung stuft Nachrichtenquelle und Nachrichteninhalt nach Zuverlässigkeit und Wahrheitsgehalt ein.
+Das Schema der Beurteilung wird normalerweise standardisiert sein.
+Sind trotzdem Rückschlüsse auf die Quelle möglich, kann das Schema aus Sicherheitsgründen ständig wechseln.
+Nachrichtenzerlegung beschäftigt sich mit der Sichtung, Sortierung und Analyse der Nachrichten.
+Die entstandenen Teilnachrichten werden bestimmten Aufklärungszielen zugeordnet.
+Nachrichtenauslegung befasst sich mit dem Vergleich der Nachrichten und stellt den ersten Schritt der Nachrichtendeutung (Interpretation) dar.
+Mit der Nachrichtenauslegung können dann vorhandenen Erkenntnisse bestätigt oder nicht bestätigt werden.
+Die Darstellung der Erkenntnisse dient der Lageführung.
+Lageführung hat eine Warnungsfunktion.
+Bei der Nachrichtenverteilung werden die Nachrichten an die Konsumenten weitergereicht.
+Da das Produkt oft geheim ist, kommt hier das Need-to-know-Prinzip zum Einsatz.
+
+Auswertung ist die Tätigkeit, die Informationen in Aufklärungsergebnisse (Erkenntnisse) wandelt.
+
+Informationen werden:
+
+=== Verteilung
+
+Nachdem das Aufklärungsergebnis erstellt worden ist, muss es allen interessierten und befugten Stellen übermittelt werden.
+Zur Verteilung gehört die geeignete Form und Ausführlichkeit des Aufklärungsergebnisses.
+Es muss vollständig, genau und pünktlich sein.
+Jeder Bericht erhält den niedrigsten Geheimhaltungsgrad, der vertretbar ist.
+Bedarfsträger müssen auch regelmäßig unterrichtet werden, wenn sich auf einem Gebiet keine Veränderungen einstellen.
+Bei dem Verfassen eines Berichts ist auf Umfang, logische Anordnung, Klarheit, Stil und Tatsächlichkeit zu achten.
+
+=== Geheimhaltung, Sicherheit
+
+Es wird unterschieden in personale und materielle Sicherheit.
+Bei Personen erfolgt eine Sicherheitsüberprüfung, die ab und an wiederholt wird.
+Gegenstände der materiellen Sicherheit sind Schlösser, sichere Registraturen und vieles andere.
+
+==== Material
+
+Offenes Material (Gegensatz: nicht offenes Material) ist einfach zugänglich (öffentlich) und leicht zu erschließen.
+Nützlich sind:
+
+Bestehen Informationslücken, muss auf nicht-offenes Material zurückgegriffen werden.
+
+Nicht-offenes Material ist im Unterschied zum offenen Material schwerer zu erlangen.
+Nicht-offenes Material muss aber nicht geheim sein, wie das Beispiel vom Abhören von kommerziellen Kommunikationssatelliten zeigt.
+Grundsätze bei der Beschaffung von nicht-offenem Material sind Kapazitätsfragen und verbundenes Risiko.
+
+==== Verschlusssacheneinstufung
+
+Es gibt in Deutschland vier Geheimhaltungsgrade.
+Sie lauten: VS-NUR FÜR DEN DIENSTGEBRAUCH, VS-VERTRAULICH, GEHEIM und STRENG GEHEIM (§ 4 SÜG).
+Je höher die Einstufung von Verschlusssachen, desto eingeschränkter ist der Umlauf.
+
+==== Need to Know
+
+Das Need-to-know-Prinzip besagt, dass an jede Person nur die Informationen weitergegeben werden, die sie auch wirklich nur für ihre Arbeit benötigt.
+Die Mitarbeiter erhalten Sicherheitsbescheide, die ihnen den Zugang zu bestimmten Verschlusssachengraden ermöglichen.
+Weiterhin kann mit Verteilerschlüsseln gearbeitet werden, die den Zugang noch weiter einschränken.
+
+Wird die Need-to-know-Regel zu streng angewendet, kann dies zu folgenschwerem Informationsmangel führen.
+Wird sie zu leicht angewendet, wird das Geheimmaterial entwertet.
+
+Das dazugehörige zweite Prinzip ist das der Kenntnisstreuung.
+Es herrscht eine strenge Arbeitsteilung, so dass den Mitarbeitern jeweils nur ein kleiner Teil der Gesamtaufgabe bekannt wird.
+
+==== Verbindungswesen
+
+Gesamtheit der Mittel, Methoden und Kräfte für eine sichere Verbindung zum Agenten.
+
+Verbindungsarten sind:
+
+Die risikoreichste, aber effizienteste Art der Verbindung ist der Treff.
+Hier sind die Sicherheitsmaßnahmen von höchster Wichtigkeit.
+Treffpunkte sind:
+
+Für sogenannte Blitzkontakte eignen sich Örtlichkeiten mit viel Publikumsverkehr.
+Diese können deshalb schwer überwacht werden.
+So eignen sich Fußgängerunterführungen oder öffentliche Toiletten.
+
+=== Organisation
+
+Mögliche Organisationseinheiten sind (nicht vollständig):
+
+== Staatliche Kontrolle
+
+Nachrichtendienste unterliegen in Rechtsstaaten einer Fach- und Rechtsaufsicht durch die vorgesetzten Dienststellen, weil Nachrichtendienste, wie alle staatliche Gewalt, an Recht und Gesetz gebunden sind.
+Infolge ihrer verdeckten Arbeitsweise und des häufig regen Interesses von Regierungsstellen an der Informationsgewinnung wird eine Aufsicht durch Exekutivbehörden selbst oftmals nicht als hinreichend erachtet, so dass die Kontrolle häufig durch parlamentarische Gremien ergänzt wird.
+Diese sollen neben verfassungswidrigen Eingriffen in die Rechte der Bürger auch verhindern, dass allein die gerade im Amt befindliche Regierung sich die Möglichkeiten der Dienste zunutze machen kann.
+
+Kritiker führen an, bedingt durch die Natur eines Nachrichtendienstes sei eine parlamentarische und gerichtliche Kontrolle nur eingeschränkt möglich bzw. leicht zu umgehen.
+
+Zur Kontrolle der Nachrichtendienste des Bundes in Deutschland, siehe: Nachrichtendienste des Bundes
+
+== Nachrichtendienste verschiedener Länder
+
+=== Europäische Union
+
+Auf EU-Ebene gibt es die "Keimzelle" eines Nachrichtendienstes, die im Zuge der Erweiterung der Gemeinsamen Außen- und Sicherheitspolitik und des Europäischen Auswärtigen Dienstes etabliert wurde.
+Diese zum Dienst gehörende Behörde sammelt bislang noch Informationen aller EU-Mitgliedstaaten und ist noch auf die Quellen der Mitgliedstaaten angewiesen, funktioniert also als Fusion Center.
+
+Sitz des INTCEN ist die Avenue Cortenbergh in Brüssel.
+
+=== Deutschsprachiger Raum
+
+==== Deutschland
+
+Eine sachliche sowie organisatorische Trennung der Aufgaben von Nachrichtendienst und Geheimpolizei bestand in Deutschland schon früher.
+Der generelle Grund dafür war, dass die nachrichtendienstliche Organisation maßgeblich für die Beschaffung, Registratur und Auswertung der benötigten Informationen zuständig war und die staatlichen Polizeiorgane zusätzlich über Exekutivfunktionen verfügten.
+Bereits zu Zeiten des Reichskanzlers Otto von Bismarck wurde auf eine konsequente Trennung der einzelnen Funktionen zur Sicherung der staatlichen Macht, Durchsetzung von politischen Zielen und der Verfolgung von Rechtsverletzungen, einschließlich der Verfassung, geachtet.
+Dieser Grundsatz bestand ebenfalls in der Weimarer Republik.
+Erst mit der Errichtung der nationalsozialistischen Herrschaft 1933 wurde er aufgelöst.
+So bestand im Dritten Reich sowohl als militärischer Nachrichtendienst das Amt Ausland/Abwehr und die Geheime Feldpolizei (GeFePo) im Geschäftsbereich des Oberkommandos der Wehrmacht, die Gestapo im Bereich des Innenministeriums, wie auch ab 1939 das Reichssicherheitshauptamt und von Beginn an im Bereich der SS der Nachrichtendienst der NSDAP.
+Aber bereits in den ersten Monaten der Reichskanzlerschaft Adolf Hitlers wurde die organisatorische und personelle Verknüpfung von nachrichtendienstlicher und Polizeiarbeit gezielt aufgehoben, mit der Bildung des Reichssicherheitshauptamtes im Oktober 1939 noch weiter dezimiert und mit der Bildung des "Amt Mil" im RSHA im Januar 1943, in dem die Abwehr "aufging" endgültig beseitigt war.
+Das ging einher mit der Aufhebung bisher gehandhabter und sinnvolle rechtlicher Grundsätze der Polizei- und exekutiven Vollzugsorgane.
+
+In Deutschland bestehen mit
+
+drei Nachrichtendienste des Bundes.
+
+Weiterhin sind in jedem der 16 Bundesländer Landesbehörden für Verfassungsschutz als Inlandsnachrichtendienste eingerichtet.
+Damit gibt es in Deutschland 19 offizielle Nachrichtendienste.
+Das Bundesamt für Sicherheit in der Informationstechnik, das Zollkriminalamt, sowie das IKTZ der Bundespolizei nehmen Aufgaben wahr, die in anderen Ländern den Nachrichtendiensten obliegen.
+
+In der Bundeswehr bearbeitet das Führungsgrundgebiet 2 "Militärisches Nachrichtenwesen" das Aufkommen von Aufklärungsergebnissen.
+Als militärische Mittel stehen dafür unter anderem zur Verfügung: die Elektronische Kampfführung (EloKa), Drohnen sowie die Feldnachrichten- und Fernspähtruppe.
+
+Um Geheimpolizeiapparaten wie denen im nationalsozialistischen Deutschen Reich oder der DDR vorzubeugen, dürfen heutige deutsche Nachrichtendienste nach dem Trennungsgebot zwischen Polizei und Nachrichtendiensten keine exekutiven Maßnahmen nach dem Polizeirecht gegenüber dem Bürger treffen.
+
+In der Bundesrepublik werden die Nachrichtendienste auf Bundesebene insbesondere durch das Parlamentarische Kontrollgremium überwacht.
+In den Ländern bestehen entsprechende Kontrollinstanzen.
+
+Die deutschen Nachrichtendienste arbeiten eng mit ausländischen Nachrichtendiensten zusammen, insbesondere innerhalb der EU und NATO.
+Der seit 1969 bestehende Geheimvertrag zwischen Deutschland und den Vereinigten Staaten zur gegenseitigen nachrichtendienstlichen Zusammenarbeit im Rang einer Verwaltungsverordnung wurde unter dem Eindruck der globalen Überwachungs- und Spionageaffäre 2013 unter dem damaligen Bundesaußenminister Guido Westerwelle aufgekündigt.
+
+Der größte Geheimdienstapparat der DDR war das Ministerium für Staatssicherheit mit seinen Untergliederungen für Inlands- und Auslandsspionage.
+Die Auslandsspionage betrieb die weitgehend eigenständige Hauptverwaltung Aufklärung (HVA).
+
+Die Verwaltung Aufklärung war der nominell vom Ministerium für Staatssicherheit unabhängige militärische Nachrichtendienst der Nationalen Volksarmee.
+Sie berichtete direkt an den Hauptstab der NVA.
+
+==== Österreich
+
+In Österreich gibt es mehrere Behörden, die nachrichtendienstlichen Tätigkeiten nachgehen:
+
+==== Schweiz
+
+In der Schweiz existieren zwei Nachrichtendienste:
+
+==== Luxemburg
+
+In Luxemburg ist der Service de Renseignement de l'Etat der Nachrichtendienst Luxemburgs.
+Dieser wurde 2004 unter dem Eindruck der Terroranschläge am 11. September 2001 in den USA umstrukturiert.
+
+Er soll Informationen sammeln und auswerten, um einer Bedrohung des luxemburgischen Territoriums, seiner Verbündeten oder internationaler Einrichtungen, die ihren Sitz in Luxemburg haben, vorzubeugen.
+Dazu gehört auch die Gefährdung kritischer Infrastruktur, insbesondere der Energie- und Wasserversorgung, des Straßenverkehrs und der Informationstechnik.
+
+=== Weitere Länder
+
+==== Belgien
+
+Der belgische Veiligheid van de Staat bzw. Srete de l'Etat (kurz VVDS) ist der älteste noch existierende Geheimdienst der Welt.
+1830 gegründet unterhält nur der Vatikan Staat eine ältere und klerikale Aufklärungseinheit.
+Der zivile VVDS untersteht dem Justizministerium, während der militärische Algemene Dienst Inlichting en Veiligheid (ADIV) bzw. Service General du Renseignement et de la Securite (SGRS) dem Verteidigungsministerium zugeordnet ist.
+
+==== Brasilien
+
+Siehe: Agencia Brasileira de Inteligencia
+
+==== Dänemark
+
+Dänemarks Geheimdienste sind der Geheimdienst des Militärs Forsvarets Efterretningstjeneste (FE) sowie der im Inland tätige Geheimdienst der Polizei Politiets Efterretningstjeneste (PET).
+Der PET ist hauptsächlich zuständig für die Ermittlung bei Straftaten, die den Kapiteln 12 und 13 des dänischen Strafgesetzbuchs unterfallen, nämlich "Verbrechen gegen die staatliche Sicherheit und Souveränität" sowie "Verbrechen gegen die Verfassung, die obersten Staatsorgane u. a.".
+In der Praxis heißt das, dass die Hauptaufgaben des PET Gegenspionage sowie Terrorismus- und Extremismusbekämpfung sind.
+Im Januar 2010 deckte der PET die Hintergründe eines Anschlagsversuches gegen den Zeichner Kurt Westergaard auf.
+Westergaard zeichnete die Karikaturen des Propheten Mohammed, die von vielen Moslems als Blasphemie betrachtet werden.
+2012 wurde bekannt, dass der PET-Agent Morten Storm Al-Qaida infiltrierte und der CIA bei der Auffindung Anwar al-Awlakis behilflich war.
+
+==== Frankreich
+
+==== Griechenland
+
+Die Ethniki Ypiresia Pliroforion (EYP), auch unter ihrer englischsprachigen Bezeichnung National Intelligence Service (NIS) bekannt, ist der zivile In- und Auslandsgeheimdienst Griechenlands.
+
+Ferner gibt es die Diakladiki Dievthynsi Stratiotikon Pliroforion (DDPS) (engl. Joint Directorate of Military Intelligence) der griechischen Streitkräfte, die der griechische militärische Geheimdienst ist.
+
+==== Israel
+
+Israel verfügt über den Auslandsgeheimdienst Mossad, den Inlandsgeheimdienst Schin Bet und den militärischen Nachrichtendienst Agaf ha-Modi'in.
+Es existierte auch der Lakam (nicht mehr aktiv), dessen Aufgabe es war, das israelische Programm zum Bau von Nuklearwaffen zu unterstützen und zu schützen.
+
+==== Italien
+
+In Italien ist der Ministerpräsident seit 2007 unmittelbar für die Nachrichtendienste verantwortlich und legt in Zusammenarbeit mit einem interministeriellen Steuerungskomitee (CISR) deren operative Prioritäten fest.
+Das dem Regierungschef unterstellte
+
+koordiniert die Arbeit der beiden Dienste:
+
+Daneben gibt es noch den beim Generalstab angesiedelten militärischen Fachdienst (J2)
+
+Die Nachrichtendienste werden seit 1977 von einem besonderen parlamentarischen Ausschuss kontrolliert.
+
+==== Japan
+
+In Japan existieren mehrere nachrichtendienstliche Organisationen, die verschiedenen Behörden unterstehen.
+Das Naikaku Joho Chosashitsu (engl. Cabinet Intelligence and Research Office) des Kabinettssekretariats, die Koanchosa-cho (engl. Public Security Intelligence Agency) des Justizministeriums zur Überwachung von "staatsfeindlichen" Organisationen und die Joho-hombu (, engl. Defense Intelligence Headquarters) des Verteidigungsministeriums, agieren relativ eigenständig.
+Enger Teil der Bürokratie der jeweiligen Ministerien sind der Kokusai Joho Tokatsukan (, engl. Intelligence and Analysis Service) des Außenministeriums für das Ausland betreffende Informationen, die Gaiji-Joho-bu (, engl. Foreign Affairs and Intelligence Division) der Nationalen Polizeibehörde für innere Angelegenheiten, sowie - jedoch keine nachrichtendienstliche Organisationen im engeren Sinn - die JETRO des Ministeriums für internationalen Handel und Industrie, der Wirtschaftsspionage nachgesagt wird.
+
+==== Kolumbien
+
+Der Nachrichtendienst Kolumbiens ist die Direccion Nacional de Inteligencia (DNI).
+
+==== Niederlande
+
+In den Niederlanden besteht ein militärischer Nachrichtendienst Militaire Inlichtingen- en Veiligheidsdienst (MIVD) und ein ziviler Algemene Inlichtingen- en Veiligheidsdienst (AIVD), bis 2002: Binnenlandse Veiligheidsdienst (BVD).
+Die Umbenennung des zivilen Nachrichtendienstes ging einher mit einer Ausweitung seiner Aufgaben.
+Der AIVD ist betroffenen Bürgern gegenüber auskunftspflichtig, sofern diese nicht laufende Untersuchungen gefährdet.
+Unterstützt werden die beiden Geheimdienste durch die Signit-Organisation Joint Sigint Cyber Unit (JSCU).
+Diese löste 2014 die 2002 gegründete Nationale Signals Intelligence Organisatie (NSO) ab.
+
+==== Norwegen
+
+Der Norsk Etterretningstjeneste (deutsch: Norwegischer Nachrichtendienst) ist der militärische und zivile Nachrichtendienst Norwegens.
+Organisatorisch ist er an die norwegischen Streitkräfte angegliedert und auch im Ausland aktiv.
+Der Dienst betreibt im Rahmen der NATO umfangreiche SIGNIT Aktivitäten.
+Der Polizei ist der Politiets sikkerhetstjeneste, PST (Sicherheitsdienst der Polizei) als Inlandsnachrichtendienst aktiv.
+Zu seinen Aufgaben gehören u. a. Spionageabwehr, Terrorismusbekämpfung, organisiertes Verbrechen und Extremismus.
+
+==== Osttimor
+
+==== Pakistan
+
+==== Portugal
+
+Siehe: Servico de Informaces Estrategicas de Defesa und Sistema de Informaces da Republica Portuguesa
+
+==== Russland
+
+Der russische Inlandsgeheimdienst ist der Federalnaja Sluschba Besopasnosti (FSB), der Auslandsgeheimdienst der Sluschba wneschnei raswedki (SWR).
+Beide gingen aus dem Komitet Gossudarstwennoy Besopasnosti (KGB) hervor.
+Der schon seit dem Ersten Weltkrieg existierende, aber weithin unbekannte Auslandsgeheimdienst und Militärische Aufklärung der Streitkräfte ist die Glawnoje Raswedywatelnoje Uprawlenije (GRU).
+
+==== Schweden
+
+In Schweden bestehen neben dem Inlandsgeheimdienst Säkerhetspolisen (SÄPO, "Sicherheitspolizei") mit dem Militära underrättelse- och säkerhetstjänsten (MUST, "Militärischer Nachrichten- und Sicherheitsdienst") und der Försvarets radioanstalt (FRA, "Funkeinrichtung für nationale Verteidigung") noch zwei weitere, direkt dem Verteidigungsministerium unterstellte Nachrichtendienste.
+
+==== Spanien
+
+Centro Nacional de Inteligencia ist der im November 2002 ins Leben gerufene Nachfolger des Centro Superior de Informacion de la Defensa (CESID).
+
+==== Tschechien
+
+Der tschechische zivile Inlandsgeheimdienst ist die Bezpecnostni informacni sluzba (BIS) und der zivile Auslandsgeheimdienst der rad pro zahranicni styky a informace (ZSI).
+Die Tschechischen Streitkräfte verfügen über den militärischen Nachrichtendienst Vojenske zpravodajstvi.
+
+==== Türkei
+
+Milli Istihbarat Teskilati (MIT), ist der türkische Inlandsnachrichtendienst, der am 13. November 1913 gegründet wurde.
+
+Zur Bewältigung seiner Aufgaben sind dem MIT neben dem Recht auf unbeschränkten Zugriff auf jede staatliche Information auch volle Polizeibefugnis eingeräumt, was seine Ermächtigungen grundlegend von den deutschen Nachrichtendiensten (BND, BfV), die keine Polizeirechte genießen, unterscheidet.
+
+Außerdem darf der MIT mit Erlaubnis des Ministerpräsidenten auch außerhalb seines Aufgabenbereiches liegende Straftaten verfolgen.
+
+==== Ungarn
+
+Ungarns Inlandsgeheimdienst ist das Alkotmanyvedelmi Hivatal (AH, deutsch:
+"Amt für Verfassungsschutz") (2010), der Auslandsnachrichtendienst ist das Informacios Hivatal (IH, deutsch: "Informationsamt") (1990, Reform 2010), der Militärischerdienst für Spionageabwehr u. Auslandsnachrichten in Militärwesen ist Katonai Nemzetbiztonsagi Szolgalat (KNBSZ, deutsch: "Militärischerdienst für Nationale Sicherheit") (2012).
+
+==== Vereinigte Staaten
+
+Das Geheimdienstwesen der Vereinigten Staaten ist stark fragmentiert.
+Insgesamt teilten sich 2007 zehn Einzeldienste und fünf nachrichtendienstliche Abteilungen von Polizeikräften und Behörden die Zuständigkeiten.
+Die zahlreichen Dienste bilden gemeinsam die United States Intelligence Community (dt.
+"US-Nachrichtendienstgemeinde").
+
+Der United States Coast Guard Intelligence, der Nachrichtendienst der United States Coast Guard (Küstenwache), untersteht dem Ministerium für Innere Sicherheit, gehört aber zu den Teilstreitkräften.
+
+Nachrichtendienstliche Abteilungen von Behörden sind:
+
+Erstmals wurde 2010 der Etat der Geheimdienstbehörden der Vereinigten Staaten veröffentlicht.
+Zwischen dem 1. Oktober 2009 und dem 30. September 2010 standen allen Diensten zusammen etwa 80 Milliarden US-Dollar zur Verfügung.
+
+==== Vereinigtes Königreich
+
+Im Vereinigten Königreich gibt es vier Geheimdienste:
+
+=== Weitere Nachrichtendienste in Kurzform
+
+== Nachrichtendienste in Diktaturen
+
+Insbesondere in Diktaturen sind Geheimdienste ein wichtiger Machtfaktor zur im Bedarfsfall auch un- bzw. übergesetzlichen Aufrechterhaltung der bestehenden grundlegenden Herrschafts-, Besitz- und Privilegienverhältnisse.
+Zu ihrer Aufgabe gehört das Aufspüren, die gezielte, sich zumindest am Rande der Legalität bewegende Beeinflussung im Sinne der Regierung / dem Regime genehmen Verhaltens und die Einschüchterung politischer bzw. System-Gegner bis hin zur Ermordung unliebsamer Kontrahenten und die gezielte Manipulation der öffentlichen Meinung.
+So wurden insbesondere in Südamerika Anschläge von Geheimdiensten verübt, die anschließend dem politischen Gegner zugeschoben wurden, um diesen zu diskreditieren; in Spanien wurden diverse vom Inlandsgeheimdienst verübte Bombenanschläge fälschlicherweise der baskischen Terror- und Befreiungsorganisation ETA zugeordnet.
+
+== Kritik
+
+Kritiker sind der Meinung, dass auch in Demokratien trotz der dort wirksamen, aber doch eingeschränkten parlamentarischen Kontrolle die Tätigkeit der Nachrichtendienste durch Intransparenz und Rechtsmittellosigkeit bestimmt sei; Ausnahmeregelungen für die Nachrichtendienste würden zudem die staatlichen Grundrechts-Garantien aufheben und fallweise Menschen- und Bürgerrechte verletzten.
+Das Ausmaß nachrichtendienstlicher Operationen sei daher schwer abzuschätzen.
+
+Umstritten ist, inwiefern nachrichtendienstlich arbeitenden Behörden ein Informationsaustausch mit der Polizei bzw. der Staatsanwaltschaft gestattet ist.
+
+Die Geheimdienste mancher Staaten benutzen auch Folter (wie z. B. Waterboarding) zur Informationsbeschaffung.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

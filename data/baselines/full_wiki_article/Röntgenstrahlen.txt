@@ -1,0 +1,107 @@
+Röntgenstrahlung oder Röntgenstrahlen sind elektromagnetische Wellen mit Quantenenergien oberhalb etwa 100 eV, entsprechend Wellenlängen unter etwa 10 nm.
+Röntgenstrahlung liegt im elektromagnetischen Spektrum im Energiebereich oberhalb des ultravioletten Lichts.
+Von der Gammastrahlung unterscheidet sie sich durch die Art der Entstehung:
+Gammastrahlung sind Photonen, die durch Kernreaktionen oder radioaktive Zerfälle entstehen, während Röntgenstrahlung aus der Geschwindigkeitsänderung geladener Teilchen herrührt.
+Die Röntgenstrahlung wurde am 8. November 1895 von Wilhelm Conrad Röntgen entdeckt und trägt seinen Namen im deutschsprachigen sowie fast im gesamten mittel- und osteuropäischen Raum.
+In anderen Sprachräumen wird sie häufig mit dem von Röntgen ursprünglich selbst verwendeten Ausdruck X-Strahlen bezeichnet.
+Röntgenstrahlung ist eine ionisierende Strahlung.
+Das Spektrum der Röntgenstrahlung beginnt unterhalb der extremen UV-Strahlung bei einer Wellenlänge um 10 nm (überweiche Röntgenstrahlung) und reicht bis weniger als 5 pm hinab (überharte oder hochenergetische Röntgenstrahlung).
+Die Energiebereiche der Gamma- und Röntgenstrahlung überschneiden sich in einem weiten Bereich.
+Beide Strahlungsarten sind elektromagnetische Strahlung und haben daher bei gleicher Energie die gleichen Wirkungen.
+Das in Röntgenröhren (siehe unten) erzeugte Strahlungsspektrum ist eine Überlagerung eines kontinuierlichen mit einem diskreten Spektrum.
+Die Lage des Intensitätsmaximums hängt von der Betriebsspannung der Röhre ab.
+Die minimale Wellenlänge kann mit dem Duane-Hunt-Gesetz berechnet werden.
+Photonen aus Röntgenröhren haben eine Energie von etwa 1 keV bis 250 keV, entsprechend einer Frequenz von etwa 0,25*1018 Hz bis 60*1018 Hz (Exa-Hertz).
+Im kurzwelligen Bereich existiert keine einheitliche Definition der Grenzwellenlänge.
+Allerdings sind der Erzeugung immer kurzwelligerer Röntgenstrahlung technische Grenzen gesetzt.
+Röntgenstrahlung entsteht durch zwei verschiedene Vorgänge:
+Beide Effekte werden in der Röntgenröhre ausgenutzt, in der Elektronen zunächst von einer Glühwendel (Kathode) aus beschleunigt werden, dabei setzen sie keine Röntgenstrahlung frei, weil die Beschleunigung nicht groß genug ist, und anschließend auf die als Metallblock ausgeführte Anode treffen, in der sie stark abgebremst werden.
+Dabei entsteht Röntgenstrahlung, als Bremsstrahlung mit insgesamt rund 1 % der eingestrahlten Energie und Wärme von rund 99 % welche durch Kühleinrichtungen an der Anode abgeführt wird.
+Außerdem werden durch Elektronenstöße Elektronen aus den Schalen der Metallatome herausgeschlagen.
+Die Löcher in den Schalen werden durch andere Elektronen aufgefüllt, wobei charakteristische Röntgenstrahlung entsteht.
+Die Anoden bestehen heute meist aus Keramik, wobei die Stellen, auf welche die Elektronen auftreffen, aus Metallen wie Molybdän, Kupfer oder Wolfram gefertigt sind.
+Eine weitere Quelle von Röntgenstrahlung sind zyklische Teilchenbeschleuniger, insbesondere zur Beschleunigung von Elektronen.
+Hier entsteht, wenn der Teilchenstrahl in einem starken Magnetfeld abgelenkt und dadurch quer zu seiner Ausbreitungsrichtung beschleunigt wird, Synchrotronstrahlung, eine Art der Bremsstrahlung.
+Bis zu einer Maximalenergie enthält die Synchrotronstrahlung eines Ablenkmagneten ein breites, elektromagnetisches Spektrum.
+Bei passend gewählten Parametern (Stärke des Magnetfeldes und Teilchenenergie) ist dabei auch Röntgenstrahlung vertreten.
+Außerdem kann an Synchrotronanlagen auch monoenergetische Röntgenstrahlung mit Hilfe von Undulatoren erzeugt werden, die aus periodischen Anordnungen von starken Magneten bestehen.
+Röntgen-Bremsstrahlung entsteht prinzipbedingt und meist unerwünscht in verschiedenen technischen Geräten wie etwa Elektronenmikroskopen, Elektronenstrahlschweißgeräten und im Bereich der Leistungsstufen von großen Radaranlagen, wo Elektronenröhren wie das Magnetron oder Amplitron zur Erzeugung großer Leistung von nichtionisierender Strahlung eingesetzt werden und im Betrieb zusätzlich Röntgenstrahlung abgeben.
+Weitere technische Quellen, mit nur noch historischer Bedeutung, waren die ersten Farbfernsehempfangsgeräte ab den 1960er Jahren mit Kathodenstrahlröhren, da die Farbbildröhren höhere Anodenspannungen als einfärbige Kathodenstrahlröhren bedingen.
+Auch bei Abbremsung schneller positiver Ionen in Materie entsteht charakteristische Röntgenstrahlung.
+Dies wird bei teilcheninduzierter Röntgenemission (Particle-induced X-ray emission) oder protoneninduzierter Röntgenemission (Proton-induced X-ray emission) (PIXE) zur chemischen Analyse verwendet.
+Bei hohen Energien ist der Wirkungsquerschnitt zur Erzeugung zu Z12Z2-4 proportional, wobei Z1 die Ordnungszahl des Ions (als Projektil) bedeutet, Z2 die des Targetatoms.
+Dieselbe Publikation gibt auch einen Überblick über die Wirkungsquerschnitte zur Erzeugung.
+Röntgenstrahlung, die auf anderen Himmelskörpern entsteht, erreicht die Erdoberfläche nicht, weil sie durch die Atmosphäre abgeschirmt wird.
+Die Röntgenastronomie untersucht solche extraterrestrische Röntgenstrahlung mithilfe von Röntgensatelliten wie Chandra und XMM-Newton.
+Auf der Erde entsteht Röntgenstrahlung in geringer Intensität im Zuge der Absorption anderer Strahlungsarten, die von radioaktivem Zerfall und der Höhenstrahlung stammen.
+Röntgenstrahlung wird auch in Blitzen produziert und tritt gemeinsam mit terrestrischen Gammablitzen auf.
+Der zugrunde liegende Mechanismus ist die Beschleunigung von Elektronen im elektrischen Feld eines Blitzes und die nachfolgende Produktion von Photonen durch Bremsstrahlung.
+Dabei entstehen Photonen mit Energien von einigen wenigen keV bis zu einigen MeV.
+Zu den Details der Prozesse, wie Röntgenstrahlung in solchen elektrischen Feldern entstehen, laufen Forschungsarbeiten.
+Der Brechungsindex von Materie für Röntgenstrahlung weicht nur wenig von 1 ab.
+Das hat zur Folge, dass eine einzelne Röntgenlinse lediglich schwach fokussiert oder defokussiert und man für einen stärkeren Effekt Linsenstapel benötigt.
+Des Weiteren werden Röntgenstrahlen bei nichtstreifendem Einfall kaum reflektiert.
+Trotzdem hat man in der Röntgenoptik Wege gefunden, optische Bauelemente für Röntgenstrahlen zu entwickeln.
+Röntgenstrahlung kann Materie durchdringen.
+Sie wird dabei je nach Stoffart unterschiedlich stark geschwächt.
+Die Schwächung der Röntgenstrahlen ist der wichtigste Faktor bei der radiologischen Bilderzeugung.
+Die Intensität des Röntgenstrahls nimmt nach dem Lambert-Beerschen Gesetz mit der im Material zurückgelegten Weglänge d {\displaystyle d} exponentiell ab ( I = I 0 * e -  d {\displaystyle I=I_{0}\cdot e^{-\mu d}} ), der Absorptionskoeffizient  {\displaystyle \mu } ist dabei materialabhängig und etwa proportional zu Z 4  3 {\displaystyle Z^{4}\lambda ^{3 } } ( Z {\displaystyle Z} : Ordnungszahl,  {\displaystyle \lambda } : Wellenlänge).
+Die Absorption erfolgt durch Photoabsorption, Compton-Streuung und, bei hohen Photonenenergien, Paarbildung.
+Photoabsorption und Compton-Streuung sind inelastische Prozesse, bei denen das Photon Energie verliert und schließlich absorbiert wird.
+Daneben ist auch elastische Streuung (Thomson-Streuung, Rayleigh-Streuung) möglich.
+Dabei bleibt das gestreute Photon kohärent zum einfallenden und behält seine Energie.
+Röntgenstrahlung ist ionisierend.
+Sie kann dadurch Veränderungen im lebenden Organismus hervorrufen und Schäden bis hin zu Krebs verursachen.
+Deshalb ist beim Umgang mit der Strahlung der Strahlenschutz zu beachten.
+Die Missachtung dieser Tatsache führte zum Beispiel bei Militärangehörigen, die in den 1950er bis zu den 1980er Jahren an mangelhaft abgeschirmten Radargeräten Dienst taten, zu Gesundheitsschäden, da die Geräte als Nebenprodukt auch Röntgenstrahlung abgaben (siehe dazu: Gesundheitsschäden durch militärische Radaranlagen).
+Es gibt eine entsprechende Stellungnahme des Ärztlichen Sachverständigenbeirats "Berufskrankheiten" beim deutschen Bundesministerium für Arbeit und Soziales.
+Die empfindliche Struktur für die Entstehung von Krebs ist die Erbsubstanz (DNS).
+Dabei wird von einem linearen Anstieg der Schäden mit der Dosis ausgegangen, das heißt, auch eine sehr kleine Strahlendosis birgt ein von Null verschiedenes Risiko, Krebs hervorzurufen.
+Dieses Risiko ist jeweils abzuwägen gegen die Vorteile der medizinischen Diagnose oder Therapie mittels Röntgenstrahlung.
+Entgegen der weit verbreiteten gegenteiligen Überzeugung kann das menschliche Auge Röntgenstrahlung teilweise wahrnehmen.
+Schon kurz nach Röntgens Entdeckung 1895 berichtete Brandes von einem schwachen, blau-grauen Schein, der im Auge selbst zu entstehen schien, wenn er sich in einem abgedunkelten Raum nahe bei einer Röntgenröhre befand.
+Daraufhin stellte Röntgen fest, dass auch er diesen Effekt beobachtet hatte.
+Zuerst hatte er es für Einbildung gehalten, da der Effekt nur von der stärksten Röntgenröhre erzeugt wurde und er ihn deshalb nur einmal bemerkt hatte.
+Das Wissen, dass Röntgenstrahlung mit dem bloßen, an die Dunkelheit angepassten Auge wahrgenommen werden kann, ist heute weitgehend vergessen.
+Der Grund dafür ist wahrscheinlich, dass der Versuch heute als unnötig gefährlich und schädlich gilt.
+Der genaue Mechanismus der Wahrnehmung ist nicht geklärt.
+Möglich ist der normale Weg über die Erregung der Netzhaut, eine direkte Erregung des Sehnervs oder beispielsweise auch, dass die Röntgenstrahlen im Augapfel Phosphoreszenz hervorrufen, und dann "normales" Licht wahrgenommen wird.
+Julius Edgar Lilienfeld beschrieb 1919 erstmals eine für das menschliche Auge sichtbare grau-weiße Strahlung an der Anode von Röntgenröhren, die nach ihm benannte "Lilienfeldstrahlung".
+Ihr Ursprung konnte erst in späteren Jahren als Form der Übergangsstrahlung erklärt werden.
+Mit Röntgenstrahlung kann der menschliche Körper durchleuchtet werden, wobei vor allem Knochen, aber bei modernen Geräten auch innere Organe sichtbar werden (siehe auch Röntgen).
+Dabei wird ausgenutzt, dass das in den Knochen vorkommende Element Calcium mit Z = 20 eine deutlich höhere Ordnungszahl hat als die Elemente, aus denen die weichen Gewebe hauptsächlich bestehen, nämlich Wasserstoff (Z = 1), Kohlenstoff (Z = 6), Stickstoff (Z = 7) und Sauerstoff (Z = 8).
+Neben herkömmlichen Geräten, die eine zweidimensionale Projektion produzieren, werden auch Computertomographen eingesetzt, die eine räumliche Rekonstruktion des Körperinneren ermöglichen.
+Man kann mit Röntgenstrahlen auch Krebs bekämpfen, indem man die Krebszellen, die i. A. strahlungsempfindlicher als das umgebende Gewebe sind, im Rahmen einer Strahlentherapie durch gezielte Bestrahlung schädigt.
+Bis zur Entwicklung der ersten Antimykotika wurden auch Hautpilzerkrankungen durch Röntgenstrahlung behandelt (siehe auch Ringelflechte-Affäre).
+In der Materialphysik, der Chemie, der Biochemie, der Kristallographie und in anderen Wissenschaften wird Beugung von Röntgenstrahlen zur Strukturaufklärung im weitesten Sinne benutzt, z. B. zur Untersuchung der Textur oder zur eigentlichen Kristallstrukturanalyse.
+Ein bekanntes Beispiel ist die Strukturaufklärung der DNA.
+Mit Hilfe der Röntgenphotoelektronenspektroskopie (XPS) kann die elementare Zusammensetzung einer Probe untersucht werden.
+Zusätzlich bietet XPS die Möglichkeit, chemische Bindungen zu untersuchen.
+Darüber hinaus kann mit Röntgenstrahlung auch die Elementzusammensetzung eines Stoffes bestimmt werden.
+In einer Elektronenstrahl-Mikrosonde (beziehungsweise äquivalent im Elektronenmikroskop) wird die zu analysierende Substanz mit Elektronen bestrahlt, worauf die Atome ionisiert werden und charakteristische Röntgenstrahlung abgeben.
+Statt mit Elektronen kann auch mit Röntgenstrahlen bestrahlt werden.
+Dann spricht man von der Röntgenfluoreszenzanalyse (RFA).
+Wilhelm Conrad Röntgen gilt als Entdecker der heute nach ihm im deutschen Sprachraum benannten Strahlen, obwohl feststeht, dass schon andere vor ihm Röntgenstrahlung erzeugt haben.
+In den von Johann Hittorf und William Crookes entwickelten Röhren, die auch Röntgen für seine Experimente verwendete, entsteht Röntgenstrahlung, die in Experimenten von Crookes und ab 1892 von Heinrich Hertz und seinem Schüler Philipp Lenard durch Schwärzung von fotografischen Platten nachgewiesen wurde, ohne sich aber offenbar über die Bedeutung der Entdeckung im Klaren zu sein.
+Johann Puluj entwickelte 1881 eine lumineszente Lampe, später als Pulujlampe bekannt, die ein Prototyp einer Röntgenröhre war.
+Auch Nikola Tesla experimentierte ab 1887 mit Kathodenstrahlröhren und erzeugte dabei Röntgenstrahlung, veröffentlichte seine Ergebnisse aber nicht.
+Die erste Beobachtung von Röntgenstrahlung durch Wilhelm Conrad Röntgen erfolgte am Physikalischen Institut der Julius-Maximilians-Universität Würzburg am späten Freitagabend des 8. November 1895, als - wie er es selbst beschrieb - "sich keine dienstbaren Geister mehr im Hause befanden".
+Bereits sieben Wochen später, am 28. Dezember 1895, reichte er eine Arbeit zur Veröffentlichung ein unter dem Titel:
+Über eine neue Art von Strahlen.
+Er entdeckte die Strahlung, als er fluoreszenzfähige Gegenstände nahe der Röhre während des Betriebs der Kathodenstrahlröhre beobachtete, die trotz einer Abdeckung der Röhre (mit schwarzer Pappe) hell zu leuchten begannen.
+Röntgens Verdienst ist es, die Bedeutung der neu entdeckten Strahlen früh erkannt und diese als Erster wissenschaftlich untersucht zu haben.
+Zu Röntgens Berühmtheit hat sicherlich auch die Röntgenaufnahme einer Hand seiner Frau beigetragen, die er in seiner ersten Veröffentlichung zur Röntgenstrahlung abbildete.
+Nachdem Röntgen am 1. Januar 1896 seine Schrift Über eine neue Art von Strahlen an Kollegen und Freunde geschickt hatte, darunter auch an den Wiener Physiker und Vorstand des II. physikalisch-chemischen Instituts der Universität Wien Franz Exner, von dem der Prager Physiker Lechner am 4. Januar die Neuigkeit erfuhr, wurde am 5. Januar in der Wiener Tageszeitung Die Presse, herausgegeben von Lechners Vater, darüber publiziert.
+Ein Mitarbeiter der Tageszeitung machte den Wiener Vertreter des Daily Chronicle auf den Artikel aufmerksam und dieser telegrafierte ihn sofort nach London.
+Von London aus wurde am Abend des 6. Januar die Nachricht über Röntgens (bzw. "Professor Routgens") Entdeckung weltweit telegrafiert, am 7. Januar druckte der Londoner Standard seinen Bericht über die "fotografische Entdeckung" und am 8. Januar wurde diese Kabelnachricht in amerikanischen Zeitschriften veröffentlicht.
+Auch in der Frankfurter Zeitung erschienen am 7. und 8. Januar ausführliche Berichte.
+Am 9. Januar wurde (ungenau und ohne Zustimmung Röntgens) in einer Würzburger Zeitung eine Notiz über die Ereignisse veröffentlicht, welche Grundlage weiterer Zeitungsberichte war.
+Mitte Januar wurde über zahlreiche weitere Versuche mit Kathodenstrahlröhren in Boulevard- und Fachpresse berichtet.
+Im März 1897 veröffentlichte Röntgen seine dritte Mitteilung.
+Zu dieser Zeit war der ursächliche Zusammenhang von Kathodenstrahlen und X-Strahlen sowie Entstehung der X-Strahlen in den dünnen Hertz-Lenardschen Metallfolien der Lenardschen Röhre erwiesen.
+Röntgen wurde 1901 mit dem ersten Nobelpreis für Physik geehrt, wobei das Nobelpreiskomitee die praktische Bedeutung der Entdeckung hervorhob.
+Die Benennung Röntgenstrahlen geht auf den Anatomen Albert von Kölliker zurück, der am 23. Januar 1896 die Benennung als "Röntgen'sche Strahlen" vorschlug.
+Anlass war der erste öffentliche Vortrag Röntgens über seine Entdeckung, der auf Einladung der von Kölliker gegründeten Physikalisch-medizinischen Gesellschaft zu Würzburg unter dem Vorsitz von Karl Bernhard Lehmann.
+In manchen Sprachräumen blieb es beim von Röntgen selbst eingeführten Namen X-Strahlen (beispielsweise englisch X-rays).
+Erstmalige Bedenken bezüglich des Einsatzes von Röntgenstrahlen hatte die um Genehmigung für einen in Wien geplanten Vortrag mit "Experiment mit den Röntgenstrahlen" ersuchte Polizei am 26. März 1896.
+Die Natur der Röntgenstrahlung als elektromagnetische Wellen konnte 1912 durch Max von Laue bewiesen werden.

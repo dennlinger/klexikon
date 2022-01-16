@@ -1,0 +1,119 @@
+Teilbarkeit ist eine mathematische Beziehung zwischen zwei ganzen Zahlen.
+Eine ganze Zahl ist durch eine andere ganze Zahl teilbar, wenn bei der Division kein Rest verbleibt, also die "Geteilt-Rechnung aufgeht".
+So ist beispielsweise die Zahl 8 durch 4 teilbar, da 8 : 4 genau 2 ergibt; somit ist 4, aber auch 2, Teiler von 8. Dagegen ist die Zahl 9 nicht durch 4 teilbar, weil die 4 zweimal in die 9 "geht", aber ein Rest von 1 übrig bleibt.
+Die Zahl 11 hat nur zwei Teiler: 1 und die Zahl 11 selbst.
+Solche Zahlen nennt man Primzahlen.
+Die Zahl 12 dagegen hat viele Teiler: 1, 2, 3, 4, 6 und 12.
+Solche Zahlen nennt man hochzusammengesetzte Zahlen.
+Die Funktion, die einer natürlichen Zahl n {\displaystyle n} die Anzahl ihrer Teiler zuordnet, ist eine zahlentheoretische Funktion (die Teileranzahlfunktion).
+In der elementaren Zahlentheorie ist der Begriff Teilbarkeit auf natürliche Zahlen beschränkt.
+In der Algebra dagegen wird der Begriff Teilbarkeit auf Integritätsringe, kommutative Ringe und nicht-kommutative Ringe erweitert.
+Eine ganze Zahl a {\displaystyle a} teilt eine ganze Zahl b {\displaystyle b} genau dann, wenn es eine ganze Zahl n {\displaystyle n} gibt, für die a * n = b {\displaystyle a\cdot n=b} ist.
+Man sagt dann " a {\displaystyle a} ist Teiler von b {\displaystyle b} ", " a {\displaystyle a} teilt b {\displaystyle b} ", " b {\displaystyle b} ist teilbar durch a {\displaystyle a} ", oder " b {\displaystyle b} ist ein Vielfaches von a {\displaystyle a} " und schreibt formal:
+Für das Gegenteil, wenn es also keine ganze Zahl n {\displaystyle n} gibt, für die a * n = b {\displaystyle a\cdot n=b} ist, schreibt man:
+Insbesondere für Primzahlpotenzen gibt es die Sprechweise: p n {\displaystyle p^{n } } teilt die ganze Zahl b {\displaystyle b} exakt, geschrieben
+wenn p n {\displaystyle p^{n}} die größte Potenz der Primzahl p {\displaystyle p} ist, die b {\displaystyle b} teilt, in Formeln: p n  b  p n + 1  b {\displaystyle p^{n}\mid b\;\;\wedge \;\;p^{n+1}\nmid b} ; Beispiel: 8  40.
+{\displaystyle 8\parallel 40.
+} Die exakte Teilbarkeit von b {\displaystyle b } durch p n =:
+a {\displaystyle p^{n}=:a} hat die Teilerfremdheit von b a {\displaystyle {\tfrac {b}{a} } } und a {\displaystyle a} zur Folge, in Formeln: ggT  ( b a , a ) = 1. {\displaystyle \operatorname {ggT} ({\tfrac {b}{a}},a)=1.
+} Die letztere Definition geht über Primzahlpotenzen hinaus; Beispiel: 40  120.
+{\displaystyle 40\parallel 120.
+}
+Da 0 * n = 0 {\displaystyle 0\cdot n=0} für alle n {\displaystyle n} gilt, ist 0 {\displaystyle 0 } ein Teiler von 0 {\displaystyle 0} und von keiner anderen Zahl, also 0  b {\displaystyle 0\nmid b} für jedes b  0. {\displaystyle b\neq 0.}
+Schreibt man denselben Sachverhalt in der Form a * 0 = 0 {\displaystyle a\cdot 0=0} , so erkennt man, dass jede Zahl a {\displaystyle a} ein Teiler von 0 {\displaystyle 0} ist.
+Die 1 {\displaystyle 1} ist das neutrale Element der Multiplikation, d. h. die Multiplikation mit 1 {\displaystyle 1} ändert einen Ausgangswert nicht.
+Zu den Elementen e = +/- 1 {\displaystyle e=\pm 1 } gibt es ein multiplikatives Inverses, nämlich ein Element e ' ( = e ) {\displaystyle e'\;(=e) } mit e * e ' = 1 {\displaystyle e\cdot e'=1 } .
+Solche Elemente werden Einheiten des Rings genannt.
+Einheiten sind triviale Teiler einer jeden ganzen Zahl.
+Die Einheiten des Rings Z {\displaystyle \mathbb {Z} } der ganzen Zahlen sind gerade die Zahlen +/- 1 {\displaystyle \pm 1} .
+(Die Einheiten eines Rings bilden eine multiplikative Gruppe.)
+Es gelte a  b {\displaystyle a\mid b} und b  0 {\displaystyle b\neq 0} .
+Ist a {\displaystyle a} keiner der trivialen Teiler +/- 1 , +/- b {\displaystyle \pm 1,\pm b } , so nennt man a {\displaystyle a} einen nichttrivialen Teiler oder echten Teiler von b {\displaystyle b} .
+Eine ganze Zahl, die nicht Einheit ist und die nur die trivialen Teiler besitzt, nennt man Primelement und, wenn sie > 1 {\displaystyle >1 } ist, Primzahl.
+Ist a {\displaystyle a} eine Primzahl, so heißt a {\displaystyle a} Primteiler oder Primfaktor von b {\displaystyle b} .
+Die Menge aller Teiler einer natürlichen Zahl n {\displaystyle n} nennt man die "Teilermenge von n {\displaystyle n} ".
+Die Quasiordnung der Teilbarkeit induziert auf ihr die Struktur eines Verbandes, man spricht deshalb auch vom "Teilerverband von n {\displaystyle n} ".
+Die Menge aller Vielfachen einer natürlichen Zahl n {\displaystyle n} heißt entsprechend Vielfachenmenge.
+Bei den ganzen Zahlen Z {\displaystyle \mathbb {Z} } ist die Mächtigkeit dieser Menge abzählbar unendlich.
+Seien a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} und d {\displaystyle d} ganze Zahlen.
+Die natürlichen Zahlen N 0 {\displaystyle \mathbb {N} _{0}} sind mit der Teilbarkeitsrelation eine quasigeordnete Menge, sogar ein vollständiger distributiver Verband, dessen Verknüpfungen durch kgV und ggT gegeben sind.
+Das kleinste Element ist die 1 {\displaystyle 1} ( 1 {\displaystyle 1 } teilt jedes andere), das größte ist die 0 {\displaystyle 0} ( 0 {\displaystyle 0 } wird von jedem anderen geteilt).
+Will man für eine Zahl x {\displaystyle x} eine Teilbarkeitsregel mit Quersummen aufstellen, so sucht man nach einem Vielfachen, das entweder 10 n - 1 {\displaystyle 10^{n}-1 } oder 10 n + 1 {\displaystyle 10^{n}+1} für ein beliebiges n {\displaystyle n} ist.
+Im ersten Fall kann die Teilbarkeit mit der nichtalternierenden n {\displaystyle n} -Quersumme, im zweiten Fall mit der alternierenden n {\displaystyle n} -Quersumme überprüft werden.
+Entsprechende Faktoren existieren für alle Zahlen, die mit 10 teilerfremd sind.
+Allerdings ist die Prüfung zum Teil schon für relativ kleine Zahlen unpraktisch (siehe zum Beispiel die unten angegebenen Regeln für Teilbarkeit durch 17 und 19).
+Ist 10 n - 1 {\displaystyle 10^{n}-1} ein Vielfaches der betrachteten Zahl x {\displaystyle x} , dann gilt die Teilbarkeitsregel: "Eine Zahl ist genau dann durch x {\displaystyle x} teilbar, wenn ihre nichtalternierende n {\displaystyle n} -Quersumme durch x {\displaystyle x} teilbar ist."
+Beispielsweise ist 9 = 10 1 - 1 {\displaystyle 9=10^{1}-1 } ein Vielfaches von 3, so dass die Teilbarkeit durch 3 anhand der (1er-)Quersumme geprüft werden kann.
+Die Quersumme muss nicht vollständig berechnet werden, sondern es genügt, den Rest einer Ziffer (oder Zifferngruppe) bei Division durch x {\displaystyle x} zu berücksichtigen.
+Es kann auch nach jeder Addition der Rest bei Division durch x {\displaystyle x} berechnet werden.
+Um z. B. zu ermitteln, ob 7654 durch 3 teilbar ist, kann man rechnen:
+Da der im letzten Schritt berechnete Rest nicht Null ist, ist 7654 nicht durch 3 teilbar.
+Ist hingegen 10 n + 1 {\displaystyle 10^{n}+1 } ein Vielfaches der betrachteten Zahl x {\displaystyle x} , dann gilt die Teilbarkeitsregel: "Eine Zahl ist genau dann durch x {\displaystyle x} teilbar, wenn ihre alternierende n {\displaystyle n} -Quersumme durch x {\displaystyle x} teilbar ist."
+Betrachtet man beispielsweise die Zahl 7, so kann man durch Ausprobieren sehen, dass 7 * 143 = 1001 = 10 3 + 1 {\displaystyle 7\cdot 143=1001=10^{3}+1} .
+Daraus ergibt sich dann die Teilbarkeitsregel mit einer alternierenden 3er-Quersumme.
+Neben der schon genannten Teilbarkeitsregel mittels der alternierenden 3er-Quersumme gibt es für die 7 weitere, teils einfachere, Teilbarkeitsregeln.
+Diese ergeben sich aus der Betrachtung von Vielfachen der Zahl, die nah an 10er-Potenzen liegen, also beispielsweise im nächsten Beispiel 14 * 7 = 98 {\displaystyle 14\cdot 7=98} .
+Man zieht wiederholt 98 ab, wodurch sich die Hunderter um 1 verringern, die Einer aber um zwei erhöhten ( 98 = 100 - 2 {\displaystyle 98=100-2} ).
+Im Babylonischen Talmud findet sich die Teilbarkeitsregel, bei der man letztlich nur überprüfen muss, ob eine zweistellige Zahl durch 7 teilbar ist, in folgender Form:
+Eine Zahl wird an der vorletzten Stelle in zwei Teile aufgespalten.
+Die Ziffern vor der vorletzten Stelle bilden die Zahl a {\displaystyle a} und die letzten beiden Ziffern die Zahl b {\displaystyle b} .
+3815 wird beispielsweise in die Zahlen a = 38 {\displaystyle a=38} und b = 15 {\displaystyle b=15} zerlegt.
+Nun zählt man b {\displaystyle b} und das Doppelte von a {\displaystyle a} zusammen.
+Ist die Summe durch 7 teilbar, so ist auch die ursprüngliche Zahl durch 7 teilbar.
+Für 3815 erhält man so 2 * a + b = 2 * 38 + 15 = 91 {\displaystyle 2\cdot a+b=2\cdot 38+15=91} .
+Da 91 durch 7 teilbar ist, ist auch 3815 durch 7 teilbar.
+Bei sehr großen Zahlen kann man dieses Verfahren solange wiederholen, bis man irgendwann eine zweistellige Zahl erhält.
+Um die Gültigkeit der Teilbarkeitsregel zu zeigen, betrachtet man die Gleichung
+Da 98 und damit auch 98 * a {\displaystyle 98\cdot a} durch 7 teilbar ist, ist n {\displaystyle n} genau dann durch 7 teilbar, wenn 2 * a + b {\displaystyle 2\cdot a+b} durch 7 teilbar ist.
+Für eine weitere Teilbarkeitsregel spaltet man eine Zahl in ihre letzte Ziffer b {\displaystyle b} und den Rest a {\displaystyle a} auf.
+Zum Beispiel 3815 in die Zahlen a = 381 {\displaystyle a=381} und b = 5 {\displaystyle b=5} .
+Dann gilt folgender Satz:
+Für 3815 muss man also überprüfen, ob 381 - 2 * 5 = 371 {\displaystyle 381-2\cdot 5=371} durch 7 teilbar ist.
+Dazu kann man 371 wieder in 37 und 1 zerlegen.
+Da 37 - 2 * 1 = 35 = 5 * 7 {\displaystyle 37-2\cdot 1=35=5\cdot 7} durch 7 teilbar ist, sind auch 371 und 3815 durch 7 teilbar.
+Die Begründung dieser Methode ist, dass 21 durch 7 teilbar ist und um die Einer am Ende der Zahl auf 0 zu bringen, für jeden Einer zwei Zehner abgezogen werden müssen.
+Danach teilt man die entstehende Zahl dann noch durch Zehn.
+Ist die Zahl durch 21 teilbar, so ist der Rest bei dieser Methode also 0.
+Man kann eine Zahl n {\displaystyle n} auch vor der drittletzten Ziffer spalten, so dass die letzten drei Ziffern die Zahl a {\displaystyle a} und die Ziffern davor die Zahl b {\displaystyle b} bilden.
+Dann zieht man b {\displaystyle b} von a {\displaystyle a} ab und prüft, ob diese Differenz durch 7 teilbar ist.
+Da
+und 1001 * b {\displaystyle 1001\cdot b} durch 7 teilbar ist , ist n {\displaystyle n} genau dann durch 7 teilbar, wenn a - b {\displaystyle a-b} durch 7 teilbar ist.
+Ein Verfahren, um die Teilbarkeit durch 17 festzustellen, beruht auf der Identität 17 * 6 = 102.
+Deswegen gilt
+Man spaltet also die zu prüfende Zahl n {\displaystyle n} vor der vorletzten Stelle in zwei Teile, nimmt das Doppelte des linken Teils und zieht den rechten Teil ab (oder umgekehrt).
+Ist das Resultat durch 17 {\displaystyle 17} teilbar, so gilt dies auch für n {\displaystyle n} .
+Beispiel: 5831 = 17 * 343 {\displaystyle 5831=17\cdot 343} .
+Also 2 * 58 - 31 = 85 {\displaystyle 2\cdot 58-31=85} , was durch 17 teilbar ist.
+Um die Teilbarkeit durch 19 zu überprüfen, spaltet man eine Zahl in ihre letzte Ziffer b {\displaystyle b} und den Rest a {\displaystyle a} auf.
+Zum Beispiel 7904 in die Zahlen a = 790 {\displaystyle a=790 } und b = 4 {\displaystyle b=4} .
+Dann gilt folgender Satz:
+Für 7904 muss man also überprüfen, ob 798 = 790 + 2 * 4 {\displaystyle 798=790+2\cdot 4} durch 19 teilbar ist.
+Dazu kann man 798 wieder in 79 und 8 zerlegen.
+Da 79 + 2 * 8 = 95 = 5 * 19 {\displaystyle 79+2\cdot 8=95=5\cdot 19} durch 19 teilbar ist, sind auch 798 und 7904 durch 19 teilbar.
+Um die Teilbarkeit durch eine beliebige Zahl n {\displaystyle n} zu überprüfen, verwendet man deren Primfaktorzerlegung.
+Man überprüft dann die Teilbarkeit durch die einzelnen Primzahlpotenzen dieser Zerlegung.
+Beispielsweise ist eine Zahl genau dann durch 75 = 3 * 5 2 {\displaystyle 75=3\cdot 5^{2}} teilbar, wenn sie durch 5 2 = 25 {\displaystyle 5^{2}=25} und 3 teilbar ist.
+Das heißt, ihre letzten beiden Ziffern müssen 00, 25, 50 oder 75 sein und die Quersumme durch drei teilbar sein.
+Bei multiplikativ zusammengesetzten Zahlen ist die Teilbarkeit eines beliebigen Teilfaktors hinreichend, so ist bspw. ( ( - 1 ) n + 2 ( 1 + n ) ) * ( 1 + ( - 1 ) n * 2 ( 2 + n ) + 5 * 2 ( 3 + 2 n ) ) * ( 1 + ( - 1 ) n * 2 ( 2 + n ) - 2 ( 5 + 2 n ) ) , 0  n {\displaystyle ((-1)^{n}+2^{(1+n)})\cdot (1+(-1)^{n}\cdot 2^{(2+n)}+5\cdot 2^{(3+2n)})\cdot (1+(-1)^{n}\cdot 2^{(2+n)}-2^{(5+2n)}),0\leq n} durch 5 {\displaystyle 5} teilbar, wobei hier die Teilbarkeit der drei Faktoren 4-zyklisch in n ist.
+Vergleiche auch Teilbarkeit für alle zu 10 teilerfremden Divisoren.
+In einem Zahlensystem zur Basis B {\displaystyle B } lassen sich Teilbarkeitsregeln für Teiler T {\displaystyle T} finden, die sich in eine teilerfremde Faktorenzerlegung möglichst kleiner Zahlen zerlegen lässt, die Teiler von B n { \displaystyle B^{n } } , B n - 1 {\displaystyle B^{n}-1 } oder B n + 1 {\displaystyle B^{n}+1} sind.
+n {\displaystyle n} sollte dabei möglichst klein sein, für Kopfrechnen sind nur Werte bis maximal 4 sinnvoll.
+Die folgenden Teilbarkeitsregeln benutzen andere Stellenwertsysteme:
+Weitere Teilbarkeitseigenschaften findet man im Artikel Kongruenz (Zahlentheorie).
+Der Teilbarkeitsbegriff wird auch wesentlich allgemeiner in kommutativen Ringen betrachtet.
+Die Definition von Teilbarkeit in natürlichen und ganzen Zahlen wird hier direkt übernommen:
+Es sei R {\displaystyle R} ein kommutativer Ring.
+Sind a , b  R {\displaystyle a,b\in R} Ringelemente, dann ist a {\displaystyle a} ein Teiler von b {\displaystyle b} , falls ein weiteres Ringelement n  R {\displaystyle n\in R} mit a * n = b {\displaystyle a\cdot n=b} existiert.
+In Ringen teilt a {\displaystyle a} genau dann b {\displaystyle b} , wenn das von a {\displaystyle a} erzeugte Hauptideal ( a ) {\displaystyle (a)} das von ( b ) {\displaystyle (b) } erzeugte umfasst, formal: a  b  ( a )  ( b ) {\displaystyle a\mid b\Leftrightarrow (a)\supseteq (b)} .
+Ein einfaches Beispiel aus den ganzen Zahlen:
+Das von 2 {\displaystyle 2} erzeugte Hauptideal ( 2 ) {\displaystyle (2)} ist die Menge aller Vielfachen von 2 {\displaystyle 2} , ( 4 ) {\displaystyle (4) } dementsprechend die Menge aller Vielfachen von 4 {\displaystyle 4} .
+( 2 )  ( 4 ) {\displaystyle (2)\supseteq (4)} , also ist 2 {\displaystyle 2} ein Teiler von 4 {\displaystyle 4} .
+Die fruchtbarsten Teilbarkeitseigenschaften erhält man in Integritätsringen, das sind nullteilerfreie kommutative unitäre Ringe.
+Bei nicht-kommutativen Ringen R {\displaystyle R\,} muss man bei der Teiler- und Vielfachen-Eigenschaft die Seitigkeit (linke, rechte oder zweiseitige) mit angeben.
+Dies lässt sich mit dem einfachen Teilbarkeitssymbol "  {\displaystyle \mid } " (dessen symmetrische Gestalt schon einer Spiegelung mit inverser Bedeutung im Wege steht) des kommutativen Falls nicht mehr ausdrücken.
+Von zwei Elementen a , b  R {\displaystyle a, b\in R} heißt a {\displaystyle a\,} linker Teiler von b {\displaystyle b\,} , falls ein x  R {\displaystyle x\in R} mit b = a * x {\displaystyle b=a\cdot x} existiert.
+Dann ist auch b {\displaystyle b\,} rechtes Vielfaches von a {\displaystyle a\,} .
+Diese Teilbarkeit entspricht der Inklusion der Rechtsideale b * R  a * R {\displaystyle b\cdot R\subseteq a\cdot R} .
+Entsprechend definiert man rechten Teiler, linkes Vielfaches und, wenn für links wie rechts gültig, auch zweiseitigen Teiler, zweiseitiges Vielfaches.
+In Strukturen, in denen auch eine allgemeine Division als Umkehr der Multiplikation möglich ist (Körper und Schiefkörper), wie beispielsweise in den reellen Zahlen, ist die Theorie der Teilbarkeit trivial:
+Jede Zahl (bzw. jedes Körper-Element) ist durch jede andere Zahl außer 0 {\displaystyle 0 } teilbar, d. h. auch: alle von 0 verschiedenen Elemente sind Einheiten.

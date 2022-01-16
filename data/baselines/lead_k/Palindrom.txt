@@ -1,0 +1,13 @@
+Als Palindrom (altgriechisch aivoo palindromos "rückwärts laufend") werden in der Sprachwissenschaft Wörter, Wortreihen oder Sätze bezeichnet, die rückwärts gelesen genau denselben Text oder zumindest einen Sinn ergeben.
+Groß-/Kleinschreibung, Wortgrenzen und Satzzeichen sind beim Rückwärtslesen gegebenenfalls zu ändern.
+Ein Wortpalindrom ist ein Wort, das rückwärts gelesen dasselbe Wort ergibt (z. B. Reittier).
+Zu den Palindromen zählen aber auch Wörter, die rückwärts gelesen ein anderes sinnvolles Wort ergeben (z. B. Regal - Lager); in diesem Fall ist das Palindrom eine spezielle Form des Anagramms.
+Bei einem Satzpalindrom ist der Satz vorwärts wie rückwärts gelesen derselbe.
+Ein Palindrom kann auch aus mehreren Sätzen bestehen.
+Es gibt sogar Gedichte in Palindromform.
+Der linguistische Begriff des Palindroms wurde in andere Bereiche übernommen, das heißt, Palindrome müssen nicht zwangsläufig aus Buchstaben bestehen.
+So gibt es Zahlenpalindrome (etwa 2442).
+In der Informatik ist ein Palindrom eine Zeichenkette, die vorwärts wie rückwärts gelesen identisch ist.
+Die Genetik kennt palindromische Sequenzen in DNA- oder RNA-Ketten.
+Die spiegelsymmetrische Strukturformel mancher Moleküle lässt sich als palindromartige Darstellung einer chemischen Verbindung auffassen.
+Auch in der Literatur notierter Musik gibt es Palindrome.

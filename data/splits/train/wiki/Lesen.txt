@@ -1,0 +1,193 @@
+Lesen im engeren Sinn bedeutet, schriftlich niedergelegte, sprachlich formulierte Gedanken aufzunehmen.
+Das Lesen eines Textes ist ein durch Übung und Kenntnisse des Lesers bestimmter heuristischer, kognitiver Vorgang.
+
+Lesen im übertragenen Sinne der menschlichen Wahrnehmung bedeutet, die richtige Auslese zu treffen: die richtigen Teile des Gesichtsfeldes beachten, um das Ganze möglichst effizient zu erkennen (Prinzip pars pro toto).
+Jemand, der lesen kann, wird als Alphabet bezeichnet, das Gegenteil ist der Analphabet.
+Das Fehlen einer in einer Kultur verankerten Lese- bzw. Schreibfähigkeit wird als Illiteralität bezeichnet.
+
+== Definition und Bedeutung von Lesen
+
+Lesen bezeichnet im engeren Sinn das visuelle oder auch taktile Umsetzen von Schriftzeichen in Lautsprache:
+Buchstabenlaute, Sprechsilben, Wörter, Sätze und ganze Textabschnitte.
+Lesen wird auch beim Umgang mit nicht-linearen Texten, also z. B. Karten, technischen Zeichnungen, Fahrplänen, graphischen Darstellungen, Schaltplänen, Musiknoten und mathematischen Formeln gebraucht.
+Im weiteren Sinn versteht man darunter die Rekonstruktion der im Text kodierten Bedeutungsinhalte und den Aufbau einer mentalen Repräsentation dieser Inhalte in einem sog. Situations- oder mentalen Modell.
+(s. a. Textinterpretation)
+
+Lesen kann als verkürzte Form für Vorlesen stehen.
+Ein Professor liest "über" ein Thema, wenn er eine Vorlesung hält.
+Im übertragenen Sinne wird die Deutung von Spuren aller Art "Lesen" genannt, z. B. beim "Fährtenlesen", wenn man "in einem Gesicht liest", um aus der Mimik auf die Stimmung einer Person zu schließen, oder wenn Golfer oder Petanque-Spieler "das Grün" oder "den Boden lesen", also Unebenheiten in der Rasenfläche suchen.
+
+Gleichgültig, ob nun jemand einzelne Buchstaben, Texte, Karten, technische Zeichnungen, Fährten oder Gesichtsausdrücke liest, Lesen bedeutet immer "eine Auslese der zu beachtenden Einzelheiten".
+Es kommt also darauf an, dass man beim Lesen auf die Stellen schaut, wo die "im Augenblick gesuchte Information" zu finden ist.
+
+In der Informatik bezeichnet man die Datenwiedergabe von einem Datenträger als (Aus-)Lesen, (von einem Eingabegerät) auch als Einlesen.
+Im Gegensatz zum menschlichen Lesen werden Daten jedoch immer gleichartig behandelt - unabhängig von ihrem Inhalt.
+Sie werden nur kopiert, nicht beim "Lesen" ausgewertet.
+
+=== Wortherkunft
+
+Lesen gilt heute als Lehnbedeutung aus der lateinischen Sprach (so lateinisch legere ,sammeln' ,auswählen' ,lesen') findet sich in den deutschen Fremd- und Lehnwörtern Lektüre, Lektor und Legende.
+(vergleiche englisch to read ,raten' ,erraten'.)
+
+Die Grundbedeutung findet sich in zahlreichen zusammengesetzten Wörtern wie auflesen (vom Boden aufsammeln), auslesen (nach Qualitätsmerkmalen aussuchen ), handverlesen (nach Einzelbetrachtung ausgesucht) und erlesen (qualitativ hochwertig).
+Auch die Weinlese als sorgsame Ernte von Weintrauben geht darauf zurück - allgemein die Lese, d. h. Ernte von (geeigneten) Früchten.
+Ebenso bezeichnet ein belesener Mensch einen in der Literatur versierten bzw. einen gebildeten Menschen.
+
+Die Auffassung, es handle sich ursprünglich um das Auflesen von Wahrsagestäbchen (vgl. Buchstabe, Runen), ist wissenschaftlich umstritten.
+
+=== Kulturelle Bedeutung
+
+Lesen gilt (neben Schreiben und Rechnen) als die wichtigste Kulturfertigkeit (Kulturtechnik); sie ist ein Teil der Kommunikation.
+Um sich zu orientieren, muss man Ortstafeln und Wegweiser, Warnungstafeln und Beschriftungen von Verkehrsschildern lesen und verstehen können.
+Höhere Ansprüche stellen bereits Beipackzettel von Medikamenten oder Bedienungsanleitungen von Geräten.
+Informationen -- wie man sie in Büchern oder im Internet findet -- setzen eine gute Lesefertigkeit voraus.
+
+Das Lesen wurde, vor allem in der Antike und im Mittelalter, wo allerdings in der Regel laut gelesen wurde, auch als Therapieform vor allem in der Rekonvaleszenz angesehen.
+
+Ein wichtiger Teilaspekt des Lesens ist die Reflexion, also das Überdenken des Gelesenen.
+In Philosophie und Religion beispielsweise ist nicht nur das direkt vermittelte Wissen bedeutsam, sondern vor allem die Erkenntnisse, die der Leser durch das Nachdenken über das Gelesene gewinnt.
+Die erzählende Literatur (Unterhaltungsliteratur, Belletristik) erlaubt dem Leser, sich in andere Zeiten und Personen zu versetzen und so Erfahrungen aus zweiter Hand zu sammeln.
+
+Das nebenstehende Diagramm zeigt die Bedeutung der verschiedenen Textmedien nach Alter und Geschlecht der Leser.
+
+=== Geschichte
+
+Die Entwicklungsgeschichte des Lesens ist untrennbar mit der Geschichte der Entwicklung der Schrift verknüpft.
+Nach Todd sind Schrift und Lesen eng mit der Primogenitur verbunden:
+Beides sind Techniken der Weitergabe von Werten.
+Das Lesen wurde jedoch durch die Alphabetschriften wesentlich erleichtert.
+Nach David Riesman trägt das Lesen dazu bei, dass der von den Zwängen der Tradition geprägte Mensch stärker durch Vernunft und innere Reflexion geleitet wird (inner-direction).
+Er arbeitet auch länger, ausdauernder und konzentrierter als zuvor.
+Allerdings sei seit dem Zweiten Weltkrieg in den USA der Druck in Richtung der other-directedness wieder gewachsen.
+
+== Wahrnehmung
+
+Lesen wird in der Kognitionspsychologie, der Psycholinguistik und der Gehirnforschung untersucht.
+Dabei wird die visuelle Wahrnehmung sowie die damit verbundene kognitive Verarbeitung untersucht.
+
+"Die folgenden Ausführungen gelten für Alphabetschriften und Silbenschriften wie z. B. japanische Kana und mit Ausnahme des Buchstabierens auch für Symbolschriften wie das Chinesische."
+
+Die Simulation zeigt ungefähr, wie und wie schnell die einzelnen Augenfixationen aufeinander folgen, wenn keine Rücksprünge für das Textverständnis nötig sind, um eventuell vorkommende Lesefehler zu korrigieren.
+Der unscharfe Text entspricht der peripheren Wahrnehmung.
+
+Gute Leser können mit einer einzigen Fixation etwa fünf bis sechs Wörter gleichzeitig erfassen.
+Fortgeschrittene Leser erfassen Wortbündel, bei denen - ähnlich dem Lesen von Notenblättern - auch Wörter aus den darüber- und darunterliegenden Zeilen erfasst werden.
+Geübte Schnellleser können durch Einbeziehung des peripheren Sichtfeldes einen kompletten Absatz mit einer einzigen Fixation lesen.
+
+=== Visuelle Worterkennung
+
+Die visuelle Wahrnehmung erfolgt durch Fixationen.
+Während einer Fixation wird der Blick etwa 0,3 Sekunden auf einen Fixationspunkt gerichtet.
+Dann springt er in einer schnellen, ruckhaften Bewegung (Lesesakkaden) zu einem anderen Fixationspunkt.
+In den Fixationsphasen werden hochauflösende visuelle Detailbilder über die Sehgrube des Auges (Fovea) aufgenommen, während der Sakkaden ist keine Wahrnehmung möglich.
+Der Eindruck des Sehens wird durch das periphere Gesichtsfeld sowie die bereits gespeicherten Seheindrücke aufrechterhalten.
+
+Die Fixationen dienen dazu, innere Vorstellungsbilder mit der Realität abzugleichen.
+Insofern unterscheidet sich die Wahrnehmung von einem Computer-Input.
+Ein erfahrener Mensch benötigt weniger Fixationen, um etwas zu erkennen, als ein unerfahrener.
+Die Zahl der Fixationen pro Sekunde schwankt nur geringfügig und lässt sich willentlich nicht wesentlich beeinflussen.
+
+Man unterscheidet im Gesichtsfeld die Bereiche foveal (bis 2 Grad Sehwinkel), und peripher (ca. 2 Grad bis über 90 Grad), nach ihrem Abstand von der Fovea, dem Zentrum des schärfsten Sehens auf der Netzhaut.
+Es handelt sich dabei um zwei ineinander übergreifende, in ihrer Funktion unterschiedliche Systeme:
+
+Das Zentrum des schärfsten Sehens auf der Netzhaut zeigt bei einem durchschnittlichen Leser, je nach Schriftgröße, vom Fixationspunkt aus ca. ein bis drei Buchstaben gegen und ein bis drei Buchstaben in Leserichtung.
+Das Erkennen von Wörtern hängt von deren Bekanntheitsgrad (visueller Wortschatz) ab.
+Je weniger Fixationen pro Wort zur Worterkennung nötig sind, desto schneller kann man einen Text (stumm) lesen.
+
+Die Zahl der möglichen Augenfixationen kann nur geringfügig zwischen drei und vier pro Sekunde variieren.
+Bei einer Fixation pro Wort liegt die Lesegeschwindigkeit also bei 180 bis 240 Wörtern pro Minute.
+
+Ein durchschnittlicher Drittklässler liest etwa 100 Wörter pro Minute.
+Erwachsene, die nicht geübte Leser sind und das Lesen nicht beruflich brauchen, kommen auch nicht über diese Geschwindigkeit hinaus.
+Die durchschnittliche Vorlesegeschwindigkeit liegt dagegen bei etwa 150 Wörtern pro Minute.
+Stilles Lesen wird daher erst spannend, wenn die Vorlesegeschwindigkeit zumindest erreicht oder noch überboten wird.
+Nur etwa 50 Prozent der Schüler des sechsten Schuljahres nehmen diese wichtige Hürde.
+
+Die Augenbewegungen beim Lesen unterscheiden sich deutlich von Augenbewegungen, welche nicht dem Erfassen von Text dienen.
+
+=== Blickbewegungen und Lesegeschwindigkeit
+
+Menschen lesen einen Text, indem ihr Blick entlang der Leserichtung über die Schrift auf einzelne Wortteile oder Wörter springt.
+Während einer Fixation von durchschnittlich 250 bis 350 ms Dauer werden Teilwahrnehmungen mit gespeicherten Daten abgeglichen (visuelle Worterkennung).
+
+Ist ein Wort unverständlich oder unbekannt, wird häufig auf die Buchstabiermethode oder das Lautieren zurückgegriffen, was den Leseprozess verlangsamt.
+Findet man im bisher Gelesenen keinen Sinn, kommt es oft zu Regressionen (Rücksprüngen zu bereits gelesenen Textteilen).
+
+Die Anzahl und Art der Augenbewegungen sind u. a. abhängig von:
+
+Emotionale Rührung durch den Leseinhalt kann ein vorübergehendes Anhalten der Augenbewegungen bewirken.
+
+Augenbewegungen variieren etwa in der folgenden Weise:
+
+Geübte Leser sind in der Lage, über 250 Wörter pro Minute zu lesen.
+Schnellleser schaffen über 1000 Wörter pro Minute.
+
+Beim Lesen wird also nicht jedes einzelne Wort fixiert.
+Dagegen benötigen lange und seltene Wörter je nach vorhandenem visuellen Wortschatz mehrere Fixationen für eine korrekte Worterkennung.
+In welchen Fällen die Vorhersagbarkeit der nächsten Worte aus der grammatischen Struktur oder dem Bedeutungskontext des bisher Gelesenen eine Rolle spielt, ist von der Leseerfahrung und vom Text abhängig.
+Jedenfalls sind sprachliche Erfahrung, Wortschatz und Leseerfahrung von großer Bedeutung, weil häufige Wörter mit zunehmender Übung auch aus der Unschärfe der peripheren Wahrnehmung erkannt werden können.
+
+== Arten des Textlesens
+
+Zum Lesen eines Textes in einer gesprochenen Sprache ist eine hörsprachliche Kompetenz Voraussetzung.
+Diese umfasst ein Allgemeinwissen und einen Wortschatz.
+Beides muss dem zu lesenden Text entsprechen.
+
+Die nachfolgend beschriebenen Arten des Textlesens sind für einen guten Leser Voraussetzung und ergänzen sich gegenseitig.
+
+=== Buchstabieren
+
+=== Wörter erkennen
+
+Mit zunehmender Übung können Wörter richtig zugeordnet werden, auch wenn nur ein Teil der Buchstaben fixiert wird.
+
+Auf diese Weise erreicht der Leser eine Lesegeschwindigkeit von 120 bis 150 Wörtern pro Minute.
+Das Erkennen von Wörtern allein und auch das Vorlesen eines Textes gewährleistet nicht das Textverständnis.
+
+=== Sinn erfassen auf Satzebene
+
+Um den Sinn eines einzelnen Satzes zu erfassen, darf die Dauer des Erfassens nicht über der rund zwei Sekunden dauernden Speicherkapazität des Kurzzeitgedächtnisses liegen.
+Dies bedeutet, dass die Schwierigkeit des Sinnerfassens von der Lesegeschwindigkeit und der Satzlänge abhängt - immer vorausgesetzt, dass die meisten der verwendeten Wörter dem Leser bekannt sind.
+
+Um Textabschnitte mit Sätzen von durchschnittlich acht Wörtern Länge lesen und verstehen zu können, muss also die Lesegeschwindigkeit vier Wörter pro Sekunde betragen; dies entspricht 240 Wörtern pro Minute.
+
+Liegt die Lesegeschwindigkeit unter 240 Wörtern pro Minute, ist der Anfang des Satzes schon vergessen.
+Der Satz muss dann teilweise neu gelesen werden, wobei sich die Lesegeschwindigkeit stark verringert.
+
+=== Sinn erfassen auf thematischer Ebene
+
+=== Lesefunktionen: Informationssuche, Unterhaltung und Weiterbildung
+
+Lesen dient auch der Informationssuche in Form des Nachschlagens in Informationssammlungen, wie Fahrplänen, Lexika oder Tabellen.
+Hier geht es darum, eine bestimmte Angabe möglichst rasch zu finden.
+Je nach Art des Textes kommen dabei unterschiedliche Suchstrategien zur Anwendung.
+
+Lesen insbesondere von fiktionalen Texten dient, indem es die Fantasie anregt, der Unterhaltung.
+
+== Lesemotivation
+
+Unter der Motivation zu lesen wird das Ausmaß des Wunsches zu lesen verstanden.
+Unterschieden wird zwischen extrinsischer und intrinsischer Motivation.
+Theoretische Konzepte zur Lesemotivation untersuchen die Gründe, warum eine Person liest.
+Lesemotivation gilt als notwendige Bedingung für den Aufbau von Lesekompetenz.
+
+== Lesestörungen
+
+=== Dyslexie
+
+Unter Dyslexie (schlechte/falsche Wiedergabe/Redeweise) versteht man Probleme mit dem Lesen und Verstehen von Wörtern oder Texten bei normalem Seh- und Hörvermögen der betroffenen Person.
+
+=== Legasthenie
+
+Legasthenie (Lese-Rechtschreib-Schwäche) ist eine massive und lang andauernde Störung des Erwerbs der Schriftsprache (geschriebene Sprache).
+
+== Siehe auch
+
+== Literatur
+
+Siehe auch:
+
+== Weblinks
+
+== Einzelnachweise
+

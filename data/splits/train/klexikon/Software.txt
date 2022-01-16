@@ -1,0 +1,19 @@
+Software, sprich ssofft-währ, sind Programme, mit denen man Computer betreibt.
+Dank Software passiert überhaupt etwas auf dem Computer.
+Die Software enthält Regeln und Befehle, damit der Computer weiß, was er tun soll.
+
+Das Gegenstück zur Software ist die Hardware: Das sind die Teile des Computers, die man anfassen kann.
+Software ist deshalb "immateriell", kein fester Gegenstand.
+Man kann sie leicht vervielfältigen und verändern.
+
+Bei Software denkt man vor allem an Programme.
+Der Benutzer des Computers befiehlt dem Computer, dass er das Programm starten soll.
+Dann führt der Computer das Programm aus.
+So ein Programm kann ein Spiel sein, der Browser für das Internet oder auch ein Programm, um Texte zu schreiben.
+
+Manche Leute denken bei Software auch an Daten.
+Das wäre zum Beispiel der Text, den man in einem Textverarbeitungsprogramm schreibt.
+Auch das Betriebssystem ist Software:
+Dank des Betriebssystems sind Computer überhaupt ansprechbar.
+Erst damit kann man dem Computer den Befehl geben, ein Programm auszuführen.
+

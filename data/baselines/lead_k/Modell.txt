@@ -1,0 +1,5 @@
+Ein Modell ist ein vereinfachtes Abbild der Wirklichkeit.
+Das Abbild kann die Form konkreter Gegenstände haben (Modell-Eisenbahn, Computersimulation u. ä.) oder rein abstrakt dargestellt sein (Theorien; Gleichungen).
+Nach Herbert Stachowiak kennzeichnen ein Modell mindestens drei Merkmale:
+Zudem werden gelegentlich weitere Merkmale diskutiert, wie Extension und Distortion sowie Validität.
+Der amerikanische Wissenschaftsphilosoph Michael Weisberg unterscheidet auf der obersten Ebene zwischen gegenständlichen (concrete) und mathematischen Modellen und stellt daneben die Computersimulationen (computational models) als eigene Klasse von Modellen auf.

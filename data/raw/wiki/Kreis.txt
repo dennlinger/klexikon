@@ -1,0 +1,524 @@
+Ein Kreis ist eine ebene geometrische Figur.
+Er wird definiert als die Menge aller Punkte einer Ebene, die einen konstanten Abstand zu einem vorgegebenen Punkt dieser Ebene (dem Mittelpunkt) haben.
+Der Abstand der Kreispunkte zum Mittelpunkt ist der Radius oder Halbmesser des Kreises, er ist eine positive reelle Zahl.
+Der Kreis gehört zu den klassischen und grundlegenden Objekten der euklidischen Geometrie.
+
+Schon die alten Ägypter und Babylonier versuchten, den Flächeninhalt des Kreises näherungsweise zu bestimmen.
+Besonders in der griechischen Antike war der Kreis wegen seiner Vollkommenheit von großem Interesse.
+Beispielsweise versuchte Archimedes erfolglos, mit den Werkzeugen Zirkel und Lineal den Kreis in ein Quadrat mit gleichem Flächeninhalt zu überführen, um so den Flächeninhalt des Kreises bestimmen zu können.
+Ein solches Verfahren zur Berechnung des Flächeninhalts nennt man die Quadratur des Kreises.
+Erst 1882 konnte Ferdinand von Lindemann durch Nachweis einer besonderen Eigenschaft der Kreiszahl zeigen, dass diese Aufgabe unlösbar ist.
+
+== Worterklärungen
+
+=== Kreisflächen
+
+Nach der eingangs genannten Definition ist ein Kreis eine Kurve, also ein eindimensionales Gebilde, und keine zweidimensionale Fläche.
+Da das Wort "Kreis" aber oft ungenau auch für die eingeschlossene Fläche benutzt wird, verwendet man zur Verdeutlichung häufig die Begriffe Kreislinie, Kreisrand oder Kreisperipherie anstatt Kreis - im Gegensatz zur Kreisfläche oder Kreisscheibe.
+Mathematiker unterscheiden dann noch zwischen der abgeschlossenen Kreisfläche oder -scheibe und der offenen (oder dem Kreisinneren), je nachdem ob die Kreislinie dazugehört oder nicht.
+
+=== Bogen, Sehne, Sektor, Segment und Ring
+
+Eine zusammenhängende Teilmenge des Kreises (also der Kreislinie) ist ein Kreisbogen.
+Eine Verbindungsstrecke von zwei Punkten auf der Kreislinie bezeichnet man als Kreissehne.
+Zu jeder Sehne gehören zwei Kreisbögen.
+Die längsten Kreissehnen sind diejenigen, die durch den Mittelpunkt verlaufen, also die Durchmesser.
+Die zugehörigen Kreisbögen heißen Halbkreise.
+Ist die Kreissehne kein Durchmesser, so sind die Kreisbögen unterschiedlich lang.
+
+Ein Kreissektor (Kreisausschnitt) ist eine Fläche, die von zwei Radien und einem dazwischen liegenden Kreisbogen begrenzt wird.
+Bilden die zwei Radien einen Durchmesser, wird der Sektor auch als Halbkreis bezeichnet.
+
+Kreissegmente (Kreisabschnitte) werden von einem Kreisbogen und einer Kreissehne eingeschlossen.
+
+Ein Kreisring entsteht, wenn man aus einem Kreis einen kleineren Kreis mit demselben Mittelpunkt herausschneidet.
+
+=== Tangente, Passante und Sekante
+
+Für die Lage einer Geraden in Bezug auf einen gegebenen Kreis gibt es drei Möglichkeiten:
+
+== Formale Definition
+
+In einer Ebene E {\displaystyle E } ist ein Kreis k {\displaystyle k} mit Mittelpunkt M  E {\displaystyle \mathrm {M} \in E} und Radius r > 0 {\displaystyle r>0 } die Punktmenge
+
+Dabei ist der Radius r {\displaystyle r} eine positive reelle Zahl, und M X  {\displaystyle {\overline {\mathrm {MX} }} } bezeichnet die Länge der Strecke {\displaystyle } .
+
+Der doppelte Radius heißt Durchmesser und wird oft mit d {\displaystyle d} bezeichnet.
+Radius r {\displaystyle r } und Durchmesser d {\displaystyle d} sind durch die Beziehungen d = 2 r {\displaystyle d=2r } oder r = d / 2 {\displaystyle r=d/2} miteinander verknüpft.
+
+Manchmal wird auch jede Strecke, die den Mittelpunkt mit einem Punkt auf der Kreislinie verbindet, als Radius bezeichnet, und jede Strecke, die durch den Mittelpunkt geht, und deren beide Endpunkte auf der Kreislinie liegen, als Durchmesser.
+Bei dieser Sprechweise ist die Zahl r {\displaystyle r} die Länge jedes Radius und die Zahl d {\displaystyle d} die Länge jedes Durchmessers.
+
+Die offene Kreisfläche ist formal definiert als die Punktmenge
+
+die abgeschlossene Kreisscheibe als
+
+== Geschichte
+
+=== Zeit der Ägypter und Babylonier
+
+Der Kreis gehört neben dem Punkt und der geraden Linie zu den ältesten Elementen der vorgriechischen Geometrie.
+Schon vor viertausend Jahren beschäftigten sich die Ägypter mit ihm in ihren Studien zur Geometrie.
+Sie konnten den Flächeninhalt A {\displaystyle A} eines Kreises näherungsweise bestimmen, indem sie vom Durchmesser d ein Neuntel seiner Länge abzogen und das Ergebnis mit sich selbst multiplizierten.
+Sie rechneten also
+
+und bestimmten so näherungsweise (mit einer Abweichung von nur etwa +0,6 %) den Flächeninhalt einer Kreisfläche .
+Diese Näherung wurde in der altägyptischen Abhandlung Papyrus Rhind gefunden, sie lässt sich erhalten, wenn man den Kreis durch ein unregelmäßiges Achteck annähert.
+
+Die Babylonier (1900 bis 1600 vor Christus) benutzten eine ganz andere Methode, um den Flächeninhalt der Kreisscheibe zu berechnen.
+Im Gegensatz zu den Ägyptern gingen sie vom Kreisumfang U {\displaystyle U} aus, den sie als dreimal den Kreisdurchmesser d {\displaystyle d} schätzten.
+Der Flächeninhalt wurde dann auf ein Zwölftel des Quadrates des Umfanges geschätzt, also
+
+mit einer Abweichung von -4,5 % ein deutlich schlechteres Ergebnis.
+
+Die Babylonier beschäftigten sich aber auch schon mit Kreissegmenten.
+Sie konnten die Länge der Sehne oder die Höhe des Kreissegments (die senkrecht auf der Sehnenmitte stehende Strecke zwischen Sehne und Umfang) berechnen.
+Damit begründeten sie die Sehnengeometrie, die später von Hipparch weiterentwickelt wurde und die Claudius Ptolemaios an den Anfang seines astronomischen Lehrbuches Almagest stellte.
+
+=== Antike
+
+Die Griechen werden meist als die Begründer der Wissenschaft von der Natur angesehen.
+Als der erste bedeutende Philosoph dieser Zeit, der sich mit Mathematik beschäftigte, gilt Thales von Milet (624-546 v. Chr.).
+Er brachte Wissen über die Geometrie aus Ägypten mit nach Griechenland, wie zum Beispiel die Aussage, dass der Durchmesser den Kreis halbiert.
+Andere Aussagen zur Geometrie wurden von Thales selbst aufgestellt.
+Der heute nach Thales benannte Satz besagt, dass Peripheriewinkel im Halbkreis rechte Winkel sind.
+Insbesondere war Thales der erste, bei dem der Begriff des Winkels auftrat.
+
+Die erste bekannte Definition des Kreises geht auf den griechischen Philosophen Platon (428/427-348/347 v. Chr.) zurück, die er in seinem Dialog Parmenides formulierte:
+
+Zirka 300 Jahre vor Christus lebte der griechische Mathematiker Euklid von Alexandria.
+Über ihn selbst ist wenig bekannt, aber sein Werk im Bereich der Geometrie war beachtlich.
+Sein Name ist heute noch in Zusammenhängen wie euklidischer Raum, euklidische Geometrie oder euklidische Metrik in Gebrauch.
+Sein wichtigstes Werk waren Die Elemente, eine dreizehnbändige Abhandlung, in der er die Arithmetik und Geometrie seiner Zeit zusammenfasste und systematisierte.
+Er folgerte die mathematischen Aussagen aus Postulaten und begründete damit die euklidische Geometrie.
+Der dritte Band der Elemente beschäftigte sich mit der Lehre über den Kreis.
+
+Von Archimedes, der vermutlich zwischen 287 v. Chr. und 212 v. Chr. auf Sizilien lebte, ist eine ausführliche Abhandlung mit dem Titel Kreismessung überliefert.
+Er bewies in dieser Arbeit, dass der Flächeninhalt eines Kreises gleich dem Flächeninhalt eines rechtwinkligen Dreiecks mit dem Kreisradius als der einen und dem Kreisumfang als der anderen Kathete ist.
+Der Flächeninhalt des Kreises lässt sich also als  * Radius * Umfang angeben.
+Mit dieser Erkenntnis führte er das Problem der Quadratur des Kreises auf die Frage der Konstruierbarkeit des Umfangs aus dem vorgegebenen Radius zurück.
+
+In seiner Abhandlung Kreismessung konnte Archimedes ebenfalls zeigen, dass der Umfang eines Kreises größer als 310/71 und kleiner als 31/7 des Durchmessers ist.
+Für praktische Zwecke wird diese Näherung 22/7 (~ 3,143) heute noch verwendet.
+
+Aus diesen beiden Aussagen folgert man, dass sich der Flächeninhalt eines Kreises zum Quadrat seines Durchmessers nahezu wie 11/14 verhält.
+Euklid war bereits bekannt, dass sich der Flächeninhalt eines Kreises proportional zum Quadrat seines Durchmessers verhält.
+Archimedes gibt hier eine gute Näherung der Proportionalitätskonstante an.
+
+In einer weiteren Arbeit Über Spiralen beschreibt Archimedes die Konstruktion der später nach ihm benannten archimedischen Spirale.
+Mit dieser Konstruktion war es Archimedes möglich, den Umfang eines Kreises auf einer Geraden abzutragen.
+Auf diese Weise konnte nun der Flächeninhalt eines Kreises exakt bestimmt werden.
+Jedoch kann diese Spirale nicht mit Zirkel und Lineal konstruiert werden.
+
+Apollonios von Perge lebte zirka 200 Jahre vor Christus.
+In seiner Kegelschnittlehre Konika fasste er unter anderem die Ellipse und den Kreis als Schnitte eines geraden Kreiskegels auf - genauso wie es heute noch in der algebraischen Geometrie definiert wird.
+Seine Erkenntnisse gehen auf seine Vorgänger Euklid und Aristaios (um 330 v. Chr.) zurück, deren verfasste Abhandlungen über Kegelschnitte jedoch nicht mehr überliefert sind.
+
+Nach Apollonios ist weiterhin das apollonische Problem benannt, zu drei gegebenen Kreisen mit den euklidischen Werkzeugen Lineal und Zirkel die Kreise zu konstruieren, die die gegebenen berühren.
+Jedoch im Vergleich zu Euklids Elementen, die auch im Mittelalter die Grundlage der Geometrie bildeten, fanden die Werke von Apollonios zunächst nur im islamischen Bereich Beachtung.
+In Westeuropa erlangten seine Bücher erst im 17. Jahrhundert größere Bedeutung, als Johannes Kepler die Ellipse als die wahre Bahn eines Planeten um die Sonne erkannte.
+
+=== Renaissance
+
+In der Wissenschaftsgeschichte nennt man den Zeitraum zwischen 1400 n. Chr. und 1630 n. Chr. üblicherweise Renaissance, auch wenn der zeitliche Abschnitt nicht mit der Periodisierung etwa der Kunstgeschichte übereinstimmt.
+In dieser Zeit fanden Euklids Elemente wieder mehr Beachtung.
+Sie gehörten zu den ersten gedruckten Büchern und wurden in den darauffolgenden Jahrhunderten in vielen verschiedenen Ausgaben verlegt.
+Erhard Ratdolt stellte 1482 in Venedig die erste gedruckte Ausgabe der Elemente her.
+Eine der bedeutendsten Ausgaben von Euklids Elementen wurde von dem Jesuiten Christoph Clavius herausgegeben.
+Er fügte den eigentlichen Texten Euklids neben den spätantiken Büchern XIV und XV noch ein sechzehntes Buch und weitere umfangreiche Ergänzungen hinzu.
+Beispielsweise ergänzte er eine Konstruktion der gemeinsamen Tangenten zweier Kreise.
+
+=== 19. Jahrhundert
+
+Nach Vorleistungen von Leonhard Euler, der die eulersche Identität aufstellte, Johann Heinrich Lambert und Charles Hermite konnte Ferdinand von Lindemann 1882 beweisen, dass die Zahl  {\displaystyle \pi } transzendent ist.
+Das heißt, es gibt keine Polynomfunktion mit rationalen Koeffizienten, für die  eine Nullstelle ist.
+Da jedoch schon im 17. Jahrhundert gezeigt wurde, dass die Kreiszahl  {\displaystyle \pi } eine Nullstelle einer solchen Polynomfunktion sein müsse, damit die Quadratur des Kreises mit Zirkel und Lineal funktioniere, wurde somit zugleich bewiesen, dass es kein solches Verfahren geben kann.
+
+== Gleichungen
+
+In der analytischen Geometrie werden geometrische Objekte mit Hilfe von Gleichungen beschrieben.
+Punkte in der Ebene werden dazu meist durch ihre kartesischen Koordinaten ( x , y ) {\displaystyle (x,y)} dargestellt und ein Kreis ist dann die Menge aller Punkte, deren Koordinaten die jeweilige Gleichung erfüllen.
+
+=== Koordinatengleichung
+
+Der euklidische Abstand eines Punktes X = ( x , y ) {\displaystyle \mathrm {X} =(x,y)} vom Punkt M = ( x M , y M ) {\displaystyle \mathrm {M} =(x_{M},y_{M}) } berechnet sich als
+
+Durch Quadrieren der definierenden Gleichung X M  = r {\displaystyle {\overline {\rm { XM}}}=r } ergibt sich die Koordinatengleichung
+
+für die Punkte ( x , y ) {\displaystyle (x,y)} auf dem Kreis mit Mittelpunkt M = ( x M , y M ) {\displaystyle \mathrm {M} =(x_{M},y_{M})} und Radius r {\displaystyle r} .
+Ausmultipliziert ergibt sich daraus:
+
+mit
+
+Ein wichtiger Spezialfall ist die Koordinatengleichung des Einheitskreises
+
+=== Funktionsgleichung
+
+Da der Kreis kein Funktionsgraph ist, lässt er sich auch nicht durch eine Funktionsgleichung darstellen.
+Behelfsweise kann ein Paar von Funktionsgleichungen
+
+verwendet werden.
+Für den Einheitskreis vereinfacht sich dieses zu
+
+=== Parameterdarstellung
+
+Eine andere Möglichkeit, einen Kreis durch Koordinaten zu beschreiben, bietet die Parameterdarstellung (siehe auch Polarkoordinaten):
+
+Hier werden die Koordinaten x {\displaystyle x} und y {\displaystyle y} durch den Parameter  {\displaystyle \varphi } ausgedrückt, der alle Werte mit 0   < 2  {\displaystyle 0\leq \varphi <2\pi } annehmen kann.
+
+Wendet man auch diese Gleichungen speziell auf den Einheitskreis an, so erhält man:
+
+Es ist auch eine Parameterdarstellung ohne den Rückgriff auf trigonometrische Funktion möglich (rationale Parametrisierung), allerdings wird dabei die gesamte Menge der reellen Zahlen als Parameterbereich benötigt und der Punkt ( x M - r , y M ) {\displaystyle (x_{M}-r,y_{M}) } wird nur als Grenzwert für t = +/-  {\displaystyle t\to \pm \infty } erreicht.
+
+Für den Einheitskreis ergibt sich dann:
+
+=== Komplexe Darstellung
+
+In der komplexen Zahlenebene lässt sich der Kreis um m  C {\displaystyle m\in \mathbb {C} } mit Radius r > 0 {\displaystyle r>0 } durch die Gleichung
+
+darstellen.
+Mit Hilfe der komplexen Exponentialfunktion erhält man die Parameterdarstellung
+
+=== Dreipunkteform einer Kreisgleichung
+
+Die Koordinatengleichung des Kreises durch drei vorgegebene Punkte ( x 1 , y 1 ) , ( x 2 , y 2 ) , ( x 3 , y 3 ) {\displaystyle (x_{1},y_{1}),(x_{2},y_{2}),(x_{3},y_{3})} , die nicht auf einer Gerade liegen, ergibt sich durch Umformung der 3-Punkteform (Beseitigung der Nenner und quadratische Ergänzung):
+
+==== Kreis durch drei Punkte
+
+Aus der Dreipunkteform und der Koordinatengleichung ergibt sich für den Kreis durch drei vorgegebene Punkte ( x 1 , y 1 ) , ( x 2 , y 2 ) , ( x 3 , y 3 ) {\displaystyle (x_{1},y_{1}),(x_{2},y_{2}),(x_{3},y_{3})} mit
+
+und den Determinanten
+
+für den Mittelpunkt ( x m , y m ) {\displaystyle (x_{m},y_{m}) } und den Radius r : {\displaystyle r\colon }
+
+Liegen die drei gegebenen Punkte auf einer Geraden, so ist C = 0 {\displaystyle C=0} .
+
+== Kreisberechnung
+
+=== Kreiszahl
+
+Da alle Kreise ähnlich sind, ist das Verhältnis von Kreisumfang und Kreisdurchmesser für alle Kreise konstant.
+Der Zahlenwert dieses Verhältnisses wird in der Elementargeometrie als Definition für die Kreiszahl  = 3,141 59 ... {\displaystyle \pi =3{,}14159\dots } verwendet.
+Es handelt sich hierbei um eine transzendente Zahl, bei der sich außerdem gezeigt hat, dass sie in vielen Bereichen der höheren Mathematik eine herausragende Bedeutung besitzt.
+
+=== Umfang
+
+Im Rahmen der Elementargeometrie ist  {\displaystyle \pi } das Verhältnis von Kreisumfang U {\displaystyle U} zu dessen Durchmesser d {\displaystyle d} , und zwar für beliebige Kreise.
+Somit gilt
+
+Mit r = 1 2 d {\displaystyle r={\tfrac {1}{2}}d} ist der Radius des Kreises gemeint.
+
+=== Kreisfläche
+
+Der Flächeninhalt der Kreisfläche A {\displaystyle A} (lat. area: Fläche) ist proportional zum Quadrat des Radius r {\displaystyle r} bzw. des Durchmessers d {\displaystyle d} des Kreises.
+Man bezeichnet ihn auch als Kreisinhalt.
+
+Um die Formel für den Kreisinhalt zu erhalten, sind Grenzwert-Betrachtungen unerlässlich.
+Recht anschaulich ergibt sich eine solche aus der nebenstehenden Zeichnung:
+
+Die Kreisfläche ist zerlegungsgleich mit der Fläche der rechten Figur.
+Diese nähert sich bei feiner werdender Sektoreinteilung einem Rechteck an mit der Länge  r {\displaystyle \pi \,r } und der Breite r {\displaystyle r} .
+Die Flächenformel ist somit
+
+Die Flächenformel kann zum Beispiel durch Integrieren der Kreisgleichung oder mit Hilfe der unten beschriebenen Annäherung durch regelmäßige Vielecke bewiesen werden.
+
+=== Durchmesser
+
+Der Durchmesser d {\displaystyle d} eines Kreises mit Flächeninhalt A {\displaystyle A} und mit Radius r {\displaystyle r} lässt sich durch
+
+berechnen.
+
+=== Krümmung
+
+Eine im Vergleich zu den bis jetzt beschriebenen Größen weniger elementare Eigenschaft des Kreises ist die Krümmung.
+Zur präzisen Definition der Krümmung werden Begriffe aus der Analysis benötigt, sie lässt sich jedoch aufgrund der Symmetrieeigenschaften des Kreises einfach berechnen.
+Anschaulich gibt die Krümmung in jedem Punkt P { \displaystyle \mathrm {P} } an, wie stark der Kreis in der unmittelbaren Umgebung des Punktes P {\displaystyle \mathrm {P} } von einer Geraden abweicht .
+Die Krümmung  {\displaystyle \kappa } des Kreises im Punkt P {\displaystyle \mathrm {P} } lässt sich durch
+
+berechnen, wobei r {\displaystyle r} wieder der Radius des Kreises ist.
+Im Gegensatz zu anderen mathematischen Kurven hat der Kreis in jedem Punkt die gleiche Krümmung.
+Außer dem Kreis hat nur noch die Gerade eine konstante Krümmung, mit  = 0 {\displaystyle \kappa =0} .
+Bei allen anderen Kurven ist die Krümmung vom Punkt P {\displaystyle \mathrm {P} } abhängig.
+
+=== Weitere Formeln
+
+In den folgenden Formeln bezeichnet a {\displaystyle \alpha } den Sektorwinkel im Bogenmaß.
+Bezeichnet a ' {\displaystyle \alpha '} den Winkel im Gradmaß, so gilt die Umrechnung a =  180  a ' {\displaystyle \alpha ={\tfrac {\pi }{180^{\circ } }}\alpha '} .
+
+== Näherungen für den Flächeninhalt
+
+Da die Kreiszahl  {\displaystyle \pi } eine transzendente Zahl ist, gibt es kein Konstruktionsverfahren mit Zirkel und Lineal, mit dem man den Flächeninhalt exakt bestimmen kann.
+Außerdem sind transzendente Zahlen auch irrational, und daher hat  {\displaystyle \pi } auch keine endliche Dezimalbruchentwicklung, weshalb der Kreisflächeninhalt bei rationalem Radius auch keine endliche Dezimalbruchentwicklung besitzt.
+Aus diesen Gründen wurden bis heute unterschiedliche Näherungsverfahren für den Flächeninhalt und somit auch den Umfang eines Kreises entwickelt.
+Manche der Näherungsverfahren, wie beispielsweise das im Abschnitt Annäherung durch Vielecke erläuterte Verfahren, können durch mehrfache Wiederholung ein beliebig genaues Ergebnis liefern.
+
+=== Annäherung durch Quadrate
+
+Ein Kreis mit Radius r {\displaystyle r} wird mit einem Quadrat der Seitenlänge 2 r {\displaystyle 2r} umschrieben.
+Ihm wird weiter ein Quadrat mit der Diagonalen 2 r {\displaystyle 2r} einbeschrieben.
+Der Flächeninhalt des äußeren Quadrates ist 4 r 2 {\displaystyle 4r^{2}} , der des inneren nach der Dreiecksflächenformel 2 r 2 {\displaystyle 2r^{2 }} und der Mittelwert ist somit 3 r 2 {\displaystyle 3r^{2}} .
+Mit dieser Näherung 3 r 2 {\displaystyle 3r^{2}} wird die Kreisfläche mit einem relativen Fehler von weniger als 5 % bestimmt.
+
+=== Auszählen in einem Raster
+
+Die Kreisfläche lässt sich annähernd bestimmen, indem man ihr viele kleine Quadrate unterlegt (z. B. mit Millimeterpapier).
+Zählt man alle Quadrate, die vollständig innerhalb des Kreises liegen, so erhält man einen etwas zu niedrigen Wert für die Fläche, zählt man auch alle Quadrate mit, die den Kreis lediglich schneiden, so ist der Wert zu groß.
+Der Mittelwert beider Ergebnisse ergibt eine Näherung für den Flächeninhalt des Kreises, deren Güte mit der Feinheit des Quadratrasters steigt.
+
+=== Annäherung durch Integration
+
+Man kann die Fläche des Kreises aus im Verhältnis zum Radius sehr schmalen Streifen zusammensetzen.
+Dazu verwendet man die Gleichungen
+
+=== Annäherung durch Vielecke
+
+Bei einer anderen Möglichkeit zur Kreisflächenbestimmung ist in den Kreis ein regelmäßiges Sechseck einzuzeichnen, dessen Ecken auf dem Kreis liegen.
+Werden nun die Seitenmitten vom Mittelpunkt aus auf den Kreis projiziert und diese neuen Punkte mit den alten Ecken verbunden, so entsteht ein regelmäßiges Zwölfeck.
+Wird dieser Vorgang wiederholt, entstehen nacheinander ein 24-Eck, ein 48-Eck und so fort.
+
+In jedem Sechseck sind die Seiten gleich lang wie der Umkreisradius.
+Die Seiten der folgenden Vielecke ergeben sich mit Hilfe des Satzes von Pythagoras jeweils aus den Seiten der vorhergehenden.
+Aus den Seiten lassen sich die Flächen der Vielecke durch Dreiecksflächenberechnung exakt bestimmen.
+Sie sind alle etwas kleiner als die Kreisfläche, der sie sich bei steigender Eckenzahl jedoch annähern.
+
+Entsprechend kann man mit einem Sechseck verfahren, das von außen an den Kreis gezeichnet ist, dessen Seitenmitten also auf ihm liegen.
+Man erhält eine fallende Folge von Flächenmaßen, deren Grenzwert wiederum die Kreisfläche ist.
+
+== Geometrische Sätze und Begriffe rund um den Kreis
+
+=== Symmetrie und Abbildungseigenschaften
+
+Der Kreis ist eine geometrische Figur von sehr hoher Symmetrie.
+Jede Gerade durch seinen Mittelpunkt ist eine Symmetrieachse.
+Zudem ist der Kreis rotationssymmetrisch, d. h., jede Drehung um den Mittelpunkt bildet den Kreis auf sich selbst ab.
+In der Gruppentheorie werden die genannten Symmetrieeigenschaften des Kreises durch seine Symmetriegruppe charakterisiert.
+Formal ergibt sich dafür die orthogonale Gruppe O ( 2 ) {\displaystyle \mathrm {O} (2)} , das ist die Gruppe der orthogonalen 2 x 2 {\displaystyle 2\times 2} -Matrizen.
+
+Alle Kreise mit dem gleichen Radius sind zueinander kongruent, lassen sich also durch Parallelverschiebungen aufeinander abbilden.
+Zwei beliebige Kreise sind zueinander ähnlich.
+Sie lassen sich stets durch eine zentrische Streckung und eine Parallelverschiebung aufeinander abbilden.
+
+=== Kreiswinkel und Winkelsätze
+
+Eine Kreissehne mit Endpunkten A und B teilt einen gegebenen Kreis in zwei Kreisbögen.
+Ein Winkel  A C B {\displaystyle \angle {\rm {ACB} }} mit Scheitel C auf einem der Kreisbögen wird Umfangswinkel oder Peripheriewinkel genannt.
+Der Winkel  A M B {\displaystyle \angle {\rm {AMB} }} mit Scheitel im Mittelpunkt M heißt Mittelpunktswinkel oder Zentriwinkel.
+
+Im Spezialfall, dass die Sehne den Mittelpunkt enthält, also ein Durchmesser des Kreises ist, ist der Mittelpunktswinkel ein gestreckter Winkel mit 180°.
+In dieser Situation gilt eine grundlegende Aussage der Kreisgeometrie, der Satz von Thales:
+Er besagt, dass Umfangswinkel über einem Durchmesser stets rechte Winkel sind, also 90° betragen.
+Der Kreis um das rechtwinklige Dreieck wird in dieser Situation auch Thaleskreis genannt.
+
+Auch im Fall einer beliebigen Kreissehne sind alle Umfangswinkel, die auf dem gleichen Kreisbogen liegen, gleich groß.
+Diese Aussage wird auch Umfangswinkelsatz genannt.
+Der Kreisbogen, auf dem die Scheitel der Umfangswinkel liegen, heißt Fasskreisbogen.
+Liegen Umfangswinkel und Zentriwinkel auf der gleichen Seite der Sehne, dann ist der Zentriwinkel doppelt so groß wie der Umfangswinkel (Kreiswinkelsatz).
+Zwei Umfangswinkel, die auf gegenüberliegenden Seiten der Sehne liegen, ergänzen einander zu 180°.
+
+Der Umfangswinkel ist genauso groß wie der spitze Sehnentangentenwinkel zwischen der Sehne und der durch einen ihrer Endpunkte verlaufenden Tangente (Sehnentangentenwinkelsatz).
+
+=== Sätze über Sehnen, Sekanten und Tangenten
+
+Für Kreise gilt der Sehnensatz, der besagt: Schneiden zwei Sehnen und einander in einem Punkt S, so gilt
+
+d. h., die Produkte der jeweiligen Sehnenabschnitte sind gleich.
+
+Zwei Sehnen eines Kreises, die einander nicht schneiden, können verlängert werden zu Sekanten, die entweder parallel sind oder einander in einem Punkt S außerhalb des Kreises schneiden.
+Ist Letzteres der Fall, so gilt analog zum Sehnensatz der Sekantensatz
+
+Im Fall einer Sekante, die den Kreis in den Punkte A und C schneidet, und einer Tangente, die den Kreis im Punkt B berührt, gilt der Sekanten-Tangenten-Satz:
+Ist S der Schnittpunkt von Sekante und Tangente, so folgt
+
+=== Umkreise und Inkreise
+
+Sind A, B, C drei Punkte, die nicht auf einer Geraden liegen, also ein nicht ausgeartetes Dreieck bilden, dann existiert ein eindeutig bestimmter Kreis durch diese Punkte, nämlich der Umkreis des Dreiecks ABC.
+Der Mittelpunkt des Umkreises ist der Schnittpunkt der drei Mittelsenkrechten des Dreiecks.
+Ebenso kann jedem Dreieck ein eindeutig bestimmter Kreis einbeschrieben werden, der die drei Seiten berührt, d. h., die Dreiecksseiten bilden Tangenten des Kreises.
+Dieser Kreis wird Inkreis des Dreiecks genannt.
+Sein Mittelpunkt ist der Schnittpunkt der drei Winkelhalbierenden.
+
+In der Elementargeometrie werden noch weitere Kreise am Dreieck betrachtet:
+Die Ankreise liegen außerhalb des Dreiecks und berühren eine Seite und die Verlängerungen der beiden anderen Seiten.
+Ein weiterer interessanter Kreis am Dreieck ist der Feuerbachkreis, benannt nach Karl Wilhelm Feuerbach.
+Auf ihm liegen die drei Seitenmittelpunkte und die drei Fußpunkte der Höhen.
+Da auf ihm außerdem die drei Mittelpunkte der Strecken zwischen dem Höhenschnittpunkt und den Ecken des Dreiecks liegen, wird der Feuerbachkreis auch Neunpunktekreis genannt.
+Sein Mittelpunkt liegt wie der Schwerpunkt, der Umkreismittelpunkt und der Höhenschnittpunkt auf der eulerschen Geraden.
+
+Im Gegensatz zu Dreiecken besitzen unregelmäßige Polygone (Vielecke) mit mehr als drei Ecken im Allgemeinen keinen Umkreis oder Inkreis.
+Für regelmäßige Polygone existieren beide, eingezeichnet oder nicht, allerdings stets.
+Ein Viereck, das einen Umkreis besitzt, wird Sehnenviereck genannt.
+Ein konvexes Viereck ist genau dann ein Sehnenviereck, wenn sich gegenüberliegende Winkel zu 180° ergänzen.
+Ein Viereck, das einen Inkreis besitzt, wird Tangentenviereck genannt.
+Ein konvexes Viereck ist genau dann ein Tangentenviereck, wenn die Summe der Seitenlängen zweier gegenüberliegender Seiten gleich der Summe der beiden anderen Seitenlängen ist.
+
+=== Kreisspiegelungen und Möbiustransformationen
+
+Die Kreisspiegelung, auch Inversion genannt, ist eine spezielle Abbildung der ebenen Geometrie, die eine "Spiegelung" der euklidischen Ebene an einem gegebenen Kreis k {\displaystyle k} mit Mittelpunkt M {\displaystyle {\rm {M}}} und Radius r {\displaystyle r} beschreibt.
+Ist P  M {\displaystyle {\rm {P\neq M } }} ein gegebener Punkt, dann ist sein Bildpunkt P ' {\displaystyle {\rm {P'}} } dadurch bestimmt, dass er auf der Halbgeraden M P {\displaystyle {\rm {MP}}} liegt und sein Abstand von M { \displaystyle {\rm {M}}} die Gleichung
+
+erfüllt.
+Die Kreisspiegelung bildet das Innere des gegebenen Kreises k {\displaystyle k} auf sein Äußeres ab und umgekehrt.
+Alle Kreispunkte von k {\displaystyle k} werden auf sich selbst abgebildet.
+Kreisspiegelungen sind winkeltreu, orientierungsumkehrend und kreistreu.
+Letzteres bedeutet, dass verallgemeinerte Kreise - das sind Kreise und Geraden - wieder auf verallgemeinerte Kreise abgebildet werden.
+
+Die Hintereinanderausführung zweier Kreisspiegelungen ergibt eine Möbiustransformation.
+Möbiustransformationen - eine weitere wichtige Klasse von Abbildungen der Ebene - sind daher ebenfalls winkeltreu und kreistreu, allerdings orientierungserhaltend.
+
+Kreisspiegelungen und Möbiustransformationen lassen sich besonders übersichtlich mit Hilfe komplexer Zahlen darstellen:
+Bei einer Kreisspiegelung eines Punktes z  C  { z 0 } {\displaystyle z\in \mathbb {C} \setminus \{z_{0}\} } an dem Kreis { x  C : | x - z 0 | = r } {\displaystyle \{x\in \mathbb {C} :
+|x-z_{0}|=r\}} lautet die Formel für den Bildpunkt w  C  { z 0 } {\displaystyle w\in \mathbb {C} \setminus \{z_{0}\} }
+
+Für die Spiegelung am Einheitskreis gilt einfach w = 1 / z  {\displaystyle w=1/{\bar {z}}} .
+
+Möbiustransformationen der komplexen Ebene werden durch gebrochen lineare Funktionen der Gestalt
+
+mit a , b , c , d  C {\displaystyle a,b,c,d\in \mathbb {C} } und a d  b c {\displaystyle ad\neq bc} dargestellt.
+
+== Konstruktionen mit Zirkel und Lineal
+
+Ein klassisches Problem der Geometrie ist die Konstruktion geometrischer Objekte mit Zirkel und Lineal in endlich vielen Konstruktionsschritten aus einer gegebenen Punktemenge.
+In jedem Schritt dürfen dabei Geraden durch gegebene oder bereits konstruierte Punkte gezogen werden sowie Kreise um solche Punkte mit gegebenem oder bereits konstruiertem Radius gezogen werden.
+Die dadurch konstruierten Punkte ergeben sich als Schnittpunkte zweier Geraden, zweier Kreise oder einer Geraden mit einem Kreis.
+Naturgemäß spielen daher bei allen Konstruktionen mit Zirkel und Lineal Kreise eine wichtige Rolle.
+
+Im Folgenden sollen exemplarisch einige Konstruktionen angesprochen werden, die im Zusammenhang mit der Geometrie von Kreisen von Bedeutung sind.
+
+=== Thaleskreis
+
+Für die Konstruktion des Thaleskreises über einer gegebenen Strecke A B  {\displaystyle {\overline {\rm {AB} } }} wird zunächst der Mittelpunkt M {\displaystyle \mathrm {M} } dieser Strecke konstruiert, der auch der Mittelpunkt des Thaleskreises ist.
+Dazu werden um A {\displaystyle \mathrm {A} } und B {\displaystyle \mathrm {B} } jeweils zwei kurze Kreisbögen mit dem gleichen Radius r {\displaystyle r} geschlagen, wobei r {\displaystyle r} so groß gewählt werden muss, dass die vier Kreisbögen sich in zwei Punkten C {\displaystyle C} und D {\displaystyle D} schneiden.
+Das ist z. B. für r = A B  {\displaystyle r={\overline {\rm {AB} } }} der Fall.
+Die Strecke C D  {\displaystyle {\overline {\rm {CD } }}} schneidet dann A B  {\displaystyle {\overline {\rm {AB} } }} im Mittelpunkt M {\displaystyle \mathrm {M} } .
+Der gesuchte Thaleskreis ist nun der Kreis mit Mittelpunkt M {\displaystyle \mathrm {M} } und Radius A M  = M B  {\displaystyle {\overline {\rm {AM}}}={\overline {\rm {MB} } }} .
+
+=== Konstruktion von Tangenten
+
+Gegeben sei ein Punkt P {\displaystyle \mathrm {P} } außerhalb eines Kreises k {\displaystyle k} mit Mittelpunkt M {\displaystyle \mathrm {M} } und es sollen die beiden Tangenten an den Kreis konstruiert werden, die durch den Punkt P {\displaystyle \mathrm {P} } laufen.
+Diese elementare Konstruktionsaufgabe lässt sich einfach mit Hilfe des Satzes von Thales lösen:
+Man konstruiert den Thaleskreis mit der Strecke P M  {\displaystyle {\overline {\rm {PM} } } } als Durchmesser.
+Die Schnittpunkte dieses Kreises mit k {\displaystyle k} sind dann die Berührpunkte der gesuchten Tangenten.
+
+=== Flächenverdoppelung
+
+Die Fläche eines Kreises lässt sich geometrisch verdoppeln, indem ein Quadrat gezeichnet wird, dessen eine Ecke im Kreismittelpunkt liegt, wobei zwei weitere Ecken auf dem Kreisbogen liegen.
+Durch die vierte Ecke wird ein Kreis um den alten Mittelpunkt gezogen.
+Dieses Verfahren wurde im 13. Jahrhundert im Bauhüttenbuch des Villard de Honnecourt dargestellt.
+Dieses Verfahren funktioniert, da (nach dem Satz des Pythagoras)
+
+und damit der Flächeninhalt des großen Kreises
+
+genau doppelt so groß ist wie der des kleinen Kreises.
+
+=== Kreisteilung
+
+Ein weiteres bereits in der Antike untersuchtes Konstruktionsproblem ist die Kreisteilung.
+Hierbei soll zu einer gegebenen natürlichen Zahl n {\displaystyle n} einem gegebenen Kreis ein regelmäßiges n {\displaystyle n} -Eck einbeschrieben werden.
+Die auf dem Kreis gelegenen Eckpunkte teilen diesen dann in n {\displaystyle n} gleich lange Kreisbögen.
+Diese Konstruktion ist nicht für alle n {\displaystyle n} möglich:
+Mit Hilfe der algebraischen Theorie der Körpererweiterungen lässt sich zeigen, dass sie genau dann durchführbar ist, wenn n {\displaystyle n} eine Primfaktorzerlegung der Form
+
+hat mit k  N 0 {\displaystyle k\in \mathbb {N} _{0} } und paarweise verschiedenen fermatschen Primzahlen p 1 , ... , p m {\displaystyle p_{1},\dots ,p_{m}} , also Primzahlen der Form 2 2 r + 1 {\displaystyle 2^{2^{r}}+1} .
+Damit ist die Konstruktion also beispielsweise für n = 3 , 4 , 5 , 6 , 8 , 10 , 12 , 15 , 16 , 17 {\displaystyle n=3,4,5,6,8,10,12,15,16,17} möglich, jedoch nicht für z. B. n = 7 , 9 , 11 , 13 , 14 {\displaystyle n=7,9,11,13,14} .
+Carl Friedrich Gauß wies im Jahre 1796 nach, dass die Konstruktion des regelmäßigen Siebzehnecks unter alleiniger Verwendung von Zirkel und Lineal möglich ist.
+
+== Kreisberechnung in der Analysis
+
+In der modernen Analysis werden die trigonometrischen Funktionen und die Kreiszahl  {\displaystyle \pi } üblicherweise zunächst ohne Rückgriff auf die elementargeometrische Anschauung und auf spezielle Eigenschaften des Kreises definiert.
+So lassen sich etwa Sinus und Kosinus über ihre Darstellung als Potenzreihe definieren.
+Eine gängige Definition für den Wert von  {\displaystyle \pi } ist dann das Doppelte der kleinsten positiven Nullstelle des Kosinus.
+
+=== Der Kreis als Kurve
+
+In der Differentialgeometrie, einem Teilgebiet der Analysis, das geometrische Formen mit Hilfe der Differential- und Integralrechnung untersucht, werden Kreise als spezielle Kurven angesehen.
+Diese Kurven lassen sich mit Hilfe der oben genannten Parameterdarstellung als Weg beschreiben.
+Legt man den Koordinatenursprung in den Mittelpunkt eines Kreises mit Radius r {\displaystyle r} , dann ist durch die Funktion f : = R 2 {\displaystyle f\colon \to \mathbb {R} ^{2}} mit
+
+eine solche Parametrisierung gegeben.
+Mit Hilfe der trigonometrischen Formel sin 2  t + cos 2  t = 1 {\displaystyle \sin ^{2}t+\cos ^{2}t=1} folgt für die euklidische Norm der parametrisierten Punkte | f ( t ) | = r {\displaystyle |f(t)|=r} , das heißt, sie liegen tatsächlich auf einem Kreis mit Radius r {\displaystyle r} .
+Da Sinus und Kosinus 2  {\displaystyle 2\pi } -periodische Funktionen sind, entspricht das Definitionsintervall {\displaystyle } von f {\displaystyle f} genau einem Kreisumlauf.
+
+=== Kreisumfang
+
+Der Umfang des Kreises ergibt sich als Länge des Weges f {\displaystyle f} durch Integration zu
+
+Analog gilt für die Länge s ( t ) {\displaystyle s(t)} des durch f | {\displaystyle f|_{}} gegebenen Teilkreisbogens s ( t ) = r t {\displaystyle s(t)=rt} .
+Dadurch erhält man als Parametrisierung des Kreises nach der Bogenlänge
+
+mit s  {\displaystyle s\in } .
+
+=== Flächeninhalt
+
+Der Flächeninhalt A {\displaystyle A } der Kreisscheibe K = { ( x , y )  R 2 : x 2 + y 2  r 2 } {\displaystyle K=\{(x,y)\in \mathbb {R} ^{2}:x^{2}+y^{2}\leq r^{2}\ }} , also das Maß der Menge K {\displaystyle K} , kann als (zweidimensionales) Integral
+
+dargestellt werden.
+Um die etwas mühsame Berechnung dieses Integrals in kartesischen Koordinaten zu umgehen, ist es günstig, eine Transformation x =  cos   {\displaystyle x=\rho \cos \varphi } , y =  sin   {\displaystyle y=\rho \sin \varphi } auf Polarkoordinaten durchzuführen.
+Damit ergibt sich
+
+Eine andere Möglichkeit zur Berechnung der Kreisfläche besteht darin, die Sektorformel von Leibniz auf die Parameterdarstellung des Kreisrandes anzuwenden.
+Mit x ( t ) = r cos  t {\displaystyle x(t)=r\cos t} , y ( t ) = r sin  t {\displaystyle y(t)=r\sin t } erhält man damit ebenfalls
+
+=== Krümmung
+
+Für die oben hergeleitete Parametrisierung f ^ ( s ) {\displaystyle {\hat {f}}(s)} des Kreises nach seiner Bogenlänge ergibt sich
+
+Für die Krümmung des Kreises erhält man daher
+
+Die Krümmung des Kreises ist also konstant und der Krümmungsradius 1  = r {\displaystyle {\tfrac {1}{\kappa }}=r} ist gerade sein Radius.
+
+In der Differentialgeometrie wird gezeigt, dass eine ebene Kurve bis auf Kongruenz durch ihre Krümmung eindeutig bestimmt ist.
+Die einzigen ebenen Kurven mit konstanter positiver Krümmung sind daher Kreisbögen.
+Im Grenzfall, dass die Krümmung konstant gleich 0 ist, ergeben sich Geradenstücke.
+
+=== Isoperimetrisches Problem
+
+Unter allen Flächen der euklidischen Ebene mit gegebenem Umfang besitzt die Kreisfläche den größten Flächeninhalt.
+Umgekehrt hat die Kreisfläche bei gegebenem Flächeninhalt den kleinsten Umfang.
+In der Ebene ist der Kreis daher die eindeutig bestimmte Lösung des sog. isoperimetrischen Problems.
+Obwohl diese anschaulich einleuchtende Tatsache schon den Mathematikern im antiken Griechenland bekannt war, wurden formale Beweise erst im 19. Jahrhundert erbracht.
+Da eine Kurve gesucht ist, die ein Funktional maximiert, nämlich den umschlossenen Flächeninhalt, handelt es sich dabei aus moderner Sicht um ein Problem der Variationsrechnung.
+Ein gängiger Beweis für stückweise stetige Kurven verwendet die Theorie der Fourierreihen.
+
+== Verallgemeinerungen und verwandte Themen
+
+=== Sphäre
+
+Es ist möglich, den Kreis als Objekt der Ebene in den dreidimensionalen Raum zu verallgemeinern.
+Dann erhält man die Hülle einer Kugel.
+Dieses Objekt wird in der Mathematik Sphäre oder genauer 2-Sphäre genannt.
+Analog lässt sich die 2-Sphäre auf n {\displaystyle n } Dimensionen zur n {\displaystyle n} -Sphäre verallgemeinern.
+In diesem Kontext nennt man den Kreis auch 1-Sphäre.
+
+=== Kegelschnitte
+
+In der ebenen Geometrie kann der Kreis als spezielle Ellipse aufgefasst werden, bei der die beiden Brennpunkte mit dem Kreismittelpunkt zusammenfallen.
+Beide Halbachsen sind dabei gleich dem Kreisradius.
+Der Kreis ist daher ein spezieller Kegelschnitt:
+Er entsteht als Schnitt eines geraden Kreiskegels mit einer Ebene senkrecht zu Kegelachse.
+Er ist damit ein Spezialfall einer zweidimensionalen Quadrik.
+
+Hierbei ergibt sich eine weitere, äquivalente Definition für Kreise (Kreis des Apollonios):
+Ein Kreis ist die Menge aller Punkte in der Ebene, für die der Quotient q {\displaystyle q} ihrer Abstände von zwei gegebenen Punkten konstant ist.
+Die beiden Punkte liegen auf einem von M {\displaystyle M } ausgehenden Strahl im Abstand r / q {\displaystyle r/q} bzw. r * q {\displaystyle r\cdot q} und wechselseitig auf der Polaren des jeweils anderen Punktes als Pol.
+Ähnliche Definitionen gibt es auch für die Ellipse (konstante Summe), Hyperbel (konstante Differenz) und die Cassinische Kurve (konstantes Produkt der Abstände).
+
+=== Kreise in der synthetischen Geometrie
+
+In der synthetischen Geometrie können Kreise in bestimmten affinen Ebenen (zum Beispiel präeuklidischen Ebenen) ohne einen Abstandsbegriff allein durch eine Orthogonalitätsrelation definiert werden, indem der Satz vom Umkreis (Mittellotensatz) zur Definition des Kreises verwendet wird.
+Dadurch kann dann ein schwächerer Begriff der "Abstands-" oder "Längengleichheit" von Punktepaaren ( A , B ) {\displaystyle (A,B)} in solchen Ebenen eingeführt werden.
+= Siehe dazu Präeuklidische Ebene.
+
+=== Zeichnung im digitalen Raster
+
+Für das Zeichnen von angenäherten Kreisen in einem Punktraster wurden mehrere Algorithmen entwickelt, siehe dazu Rasterung von Kreisen.
+Diese Verfahren sind insbesondere für die Computergrafik von Belang.
+Für die zweifarbige Rasterung von Kreisen reichen die Grundrechenarten aus.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,294 @@
+Die Temperatur ist eine Zustandsgröße von zentraler Bedeutung bei der makroskopischen Beschreibung physikalischer und chemischer Zustände und Prozesse in Wissenschaft, Technik und Umwelt.
+Die Temperatur ist ein objektives Maß dafür, wie warm oder kalt ein Gegenstand ist.
+Sie wird mit einem Thermometer gemessen.
+Ihre SI-Einheit ist das Kelvin mit dem Einheitenzeichen K.
+In Deutschland, Österreich und der Schweiz ist die Einheit Grad Celsius (°C) ebenfalls zulässig.
+Die gemessene Temperatur kann sich zuweilen erheblich von der gefühlten Temperatur unterscheiden.
+
+Bringt man zwei Körper mit unterschiedlichen Temperaturen in thermischen Kontakt, findet Wärmeübertragung statt.
+Dadurch nimmt die Temperaturdifferenz so lange ab, bis sich die beiden Temperaturen einander angeglichen haben.
+Die Wärme fließt dabei stets vom heißeren zum kälteren Körper.
+Wenn die Temperaturen gleich sind, herrscht thermisches Gleichgewicht, in dem kein Wärmeaustausch mehr stattfindet.
+
+Die mikroskopische Deutung der Temperatur ergibt sich in der statistischen Physik, die davon ausgeht, dass jeder materielle Stoff aus vielen Teilchen zusammengesetzt ist (meist Atome oder Moleküle), die sich in ständiger ungeordneter Bewegung befinden und eine Energie haben, die sich aus kinetischer, potentieller sowie gegebenenfalls auch innerer Anregungsenergie zusammensetzt.
+Eine Erhöhung der Temperatur verursacht eine Erhöhung der durchschnittlichen Energie der Teilchen.
+Im Zustand des thermischen Gleichgewichts verteilen sich die Energiewerte der einzelnen Teilchen statistisch gemäß einer Häufigkeitsverteilung, deren Form durch die Temperatur bestimmt wird (siehe - je nach Art der Teilchen - Boltzmann-Statistik, Fermi-Dirac-Statistik, Bose-Einstein-Statistik).
+Dieses Bild ist auch anwendbar, wenn es sich nicht um ein System materieller Teilchen, sondern um Photonen handelt (siehe Wärmestrahlung).
+
+Im idealen Gas ist die gesamte innere Energie allein durch die kinetische Energie aller Teilchen gegeben, wobei der Durchschnittswert pro Teilchen proportional zur Absoluten Temperatur ist.
+Die Temperatureinheit Kelvin ist durch Festlegung des Proportionalitätsfaktors definiert und damit direkt an die Energieeinheit Joule angebunden.
+Vor der Revision des Internationalen Einheitensystems (SI) von 2019 war das Kelvin noch separat definiert
+
+Die Temperatur ist eine intensive Zustandsgröße.
+Das bedeutet, dass sie ihren Wert beibehält, wenn man den betrachteten Körper teilt.
+Dagegen hat die Innere Energie als extensive Größe die Eigenschaften einer Menge, die aufgeteilt werden kann.
+
+== Physikalische Grundlagen
+
+=== Überblick
+
+Alle festen Stoffe, Flüssigkeiten und Gase bestehen aus sehr kleinen Teilchen, den Atomen und Molekülen.
+Diese befinden sich in ständiger ungeordneter Bewegung und zwischen ihnen wirken Kräfte.
+Mit "ungeordnet" meint man in diesem Zusammenhang, dass z. B. die Geschwindigkeitsvektoren der Teilchen eines Körpers, bezogen auf die Geschwindigkeit seines Massenmittelpunkts, gleichmäßig über alle Richtungen verteilt sind und sich auch in ihren Beträgen unterscheiden.
+Der Mittelwert der Geschwindigkeitsbeträge hängt von der Art des Stoffes, vom Aggregatzustand und vor allem von der Temperatur ab.
+Für feste, flüssige und gasförmige Körper gilt:
+Je höher die Temperatur eines Körpers ist, desto größer ist die mittlere Geschwindigkeit seiner Teilchen.
+Allgemein gilt dies auch für alle anderen Formen, in denen die Teilchen in ungeordneter Weise Energie besitzen können, z. B. Drehbewegungen, Schwingungen (dazu zählen auch Gitterschwingungen um ihre Ruhelage im Kristallgitter der festen Körper).
+Dieser anschauliche Zusammenhang legt schon nahe, dass es eine tiefste mögliche Temperatur gibt, den absoluten Nullpunkt, an dem sich die kleinsten Teilchen nicht mehr bewegen.
+Aufgrund der Unschärferelation ist eine völlige Bewegungslosigkeit jedoch nicht möglich (Nullpunktsenergie).
+
+Eine bestimmte Temperatur, die im ganzen System einheitlich gilt, existiert nur, wenn das System im Zustand des thermischen Gleichgewichts ist.
+Systeme, die nicht im Gleichgewichtszustand sind, bestehen oft aus Teilsystemen mit jeweils eigenen Temperaturen, z. B. Leitungswasser und Eiswürfel in einem Glas, oder die Elektronen und Ionen in einem Nichtgleichgewichts-Plasma, oder die Freiheitsgrade jeweils für Translation, Rotation oder Vibration in einem expandierenden Molekülstrahl.
+Besteht zwischen den Teilsystemen ein thermischer Kontakt, dann strebt das Gesamtsystem durch Wärmeaustausch zwischen den Teilen von selbst dem Zustand des thermischen Gleichgewichts zu.
+
+In theoretischer Hinsicht wird die Temperatur als grundlegender Begriff dadurch eingeführt, dass zwei beliebige Systeme, die mit einem dritten System im thermischen Gleichgewicht stehen, dann auch untereinander im thermischen Gleichgewicht stehen.
+Diese Tatsache wird auch als Nullter Hauptsatz der Thermodynamik bezeichnet.
+Gleichheit der Temperaturen bedeutet thermisches Gleichgewicht, d. h., es findet auch bei thermischem Kontakt kein Wärmeaustausch statt.
+Dass eine einzige Zustandsgröße wie die Temperatur für die Entscheidung ausreicht, ob Gleichgewicht vorliegt, kann aus dem nullten Hauptsatz hergeleitet werden.
+
+Die Summe aller Energien der ungeordneten Bewegungen der Teilchen eines Systems und ihrer internen potentiellen und kinetischen Energien stellt einen bestimmten Energieinhalt dar, der als Innere Energie des Systems bezeichnet wird.
+Die innere Energie kann mittels einer Wärmekraftmaschine zum Teil in eine geordnete Bewegung überführt werden und dann Arbeit leisten, wenn ein zweites System mit tieferer Temperatur zur Verfügung steht.
+Denn nur ein Teil der inneren Energie ist zur Umwandlung in Arbeit nutzbar, während der Rest als Abwärme an das zweite System abgegeben werden muss.
+Nach dem Zweiten Hauptsatz der Thermodynamik gibt es für diese Abwärme eine von den betreffenden Stoffen und Arten der genutzten Prozesse unabhängige untere Schranke, die nur vom Verhältnis beider Temperaturen bestimmt ist.
+Dies wurde 1848 von Lord Kelvin bemerkt und seit 1924 zur Definition der thermodynamischen Temperatur genutzt.
+Zm selben Ergebnis kommt man, wenn man die Zustandsgröße Entropie nach der inneren Energie ableitet.
+
+Fast alle physikalischen und chemischen Eigenschaften von Stoffen sind (zumindest schwach) von der Temperatur abhängig.
+Beispiele sind die thermische Ausdehnung von Stoffen, der elektrische Widerstand, die Löslichkeit von Stoffen in Lösungsmitteln, die Schallgeschwindigkeit oder Druck und Dichte von Gasen.
+Sprunghafte Veränderungen von Stoffeigenschaften treten hingegen auch bei kleinsten Veränderungen der Temperatur ein, wenn der Aggregatzustand sich ändert oder ein anderer Phasenübergang eintritt.
+
+Die Temperatur beeinflusst auch die Reaktionsgeschwindigkeit von chemischen Prozessen, indem diese sich je 10 °C Temperaturerhöhung typischerweise etwa verdoppelt (van-'t-Hoff'sche Regel).
+Das gilt damit auch für die Stoffwechselprozesse von Lebewesen.
+
+=== Ideales Gas
+
+Das ideale Gas ist ein Modellgas, das sich gut dafür eignet, die Grundlagen der Thermodynamik und Eigenschaften der Temperatur zu entwickeln.
+Dem Modell zufolge sind die Teilchen des Gases punktförmig, können aber dennoch elastisch gegeneinander und gegen die Gefäßwand stoßen.
+Ansonsten gibt es keine Wechselwirkung zwischen den Teilchen.
+Das ideale Gas gibt das Verhalten der einatomigen Edelgase sehr gut wieder, gilt aber auch in guter Näherung für die normale Luft, obwohl mehratomige Moleküle rotieren oder vibrieren können und daher nicht immer als punktförmige Objekte ohne innere Freiheitsgrade vereinfacht werden können.
+
+Für das ideale Gas ist die Temperatur T {\displaystyle T} proportional zur mittleren kinetischen Energie E k i n  {\displaystyle {\overline {E_{\mathrm {kin} }}}} der Teilchen
+
+wobei k B {\displaystyle k_{\mathrm {B} }} die Boltzmann-Konstante ist.
+In diesem Fall ist also die makroskopische Größe Temperatur auf sehr einfache Weise mit mikroskopischen Teilcheneigenschaften verknüpft.
+Mit der Teilchenzahl N {\displaystyle N} multipliziert, ergibt sich die Gesamtenergie des Gases.
+Außerdem gilt für das ideale Gas die thermische Zustandsgleichung, die die makroskopischen Größen Temperatur, Volumen V {\displaystyle V} und Druck p {\displaystyle p} verknüpft,
+
+Diese Gleichung wurde 2019 im Internationalen Einheitensystem zur Definitionsgleichung der Temperatur gemacht, weil sie mit der gleichzeitigen zahlenmäßigen Festlegung des Wertes der Boltzmann-Konstante außer T nur messbare Größen enthält.
+In der Messvorschrift ist berücksichtigt, dass diese Gleichung für ein reales Gas nur näherungsweise erfüllt ist, im Grenzfall p = 0 {\displaystyle p\rightarrow 0} aber exakt gilt.
+
+Da die Größen E k i n  , p , V {\displaystyle {\overline {E_{\mathrm {kin} } }},\ p,\ V} nicht negativ werden können, kann man an diesen Gleichungen sehen, dass es einen absoluten Temperaturnullpunkt T = 0 K ( = - 273 , 15  C ) {\displaystyle T=0\,\mathrm {K} \ (=\;-273,15\,^{\circ }\mathrm {C} )} geben muss, bei dem sich die Gasteilchen nicht mehr bewegen würden, und Druck oder Volumen des Gases Null wären.
+Den absoluten Nullpunkt der Temperatur gibt es wirklich, obwohl diese Herleitung nicht stichhaltig ist, weil es keinen Stoff gibt, der bis T = 0 K {\displaystyle T=0\,\mathrm {K} } gasförmig bliebe.
+Immerhin aber ist Helium unter Atmosphärendruck noch bei Temperaturen von wenigen K ein fast ideales Gas.
+
+=== Temperatur, Wärme und thermische Energie
+
+Manchmal werden die Größen Temperatur, Wärme und thermische Energie miteinander verwechselt.
+Es handelt sich jedoch um verschiedene Größen.
+Die Temperatur und die thermische Energie beschreiben den Zustand eines Systems, wobei die Temperatur eine intensive Größe ist, die thermische Energie (die verschiedene Bedeutungen haben kann) jedoch oftmals eine extensive Größe.
+Bei idealen Gasen ist die Temperatur ein direktes Maß für den Mittelwert der kinetischen Energie der Teilchen.
+Die thermische Energie in ihrer makroskopischen Bedeutung ist gleich der inneren Energie, also der die Summe aller kinetischen, potentiellen und Anregungs-Energien der Teilchen.
+
+Wärme hingegen charakterisiert als physikalischer Begriff nicht einen einzelnen Systemzustand, sondern einen Prozess, der von einem Systemzustand zu einem anderen führt.
+Wärme ist die dabei erfolgte Änderung der inneren Energie abzüglich der eventuell geleisteten Arbeit (siehe Erster Hauptsatz der Thermodynamik).
+Geht man umgekehrt von einer bestimmten Menge abgegebener oder aufgenommener Wärme aus, dann kann der Prozess je nach der Prozessführung (z. B. isobar, isochor oder isotherm) zu unterschiedlichen Endzuständen mit unterschiedlichen Temperaturen führen.
+
+=== Temperaturausgleich
+
+Stehen zwei Systeme mit unterschiedlichen Temperaturen T 1 , T 2 {\displaystyle T_{1},\;T_{2} } in einer Verbindung, die den Wärmeübertrag ermöglicht (thermischer Kontakt oder diabatische Verbindung), dann fließt Wärme vom heißeren zum kälteren System und beide Temperaturen nähern sich derselben Gleichgewichtstemperatur T G {\displaystyle T_{G }} an.
+Wenn dabei keine Phasenübergänge oder chemische Reaktionen stattfinden, liegt T G {\displaystyle T_{G }} zwischen den Anfangstemperaturen.
+T G {\displaystyle T_{G } } ist dann ein gewichtetes Mittel aus T 1 {\displaystyle T_{1 } } und T 2 {\displaystyle T_{2} } , wobei die Wärmekapazitäten C 1 , C 2 {\displaystyle C_{1},\;C_{2}} der beiden Systeme (sofern diese hinreichend konstant sind) als Gewichtsfaktoren wirken.
+Das gleiche Endergebnis tritt auch ein, wenn zwei Flüssigkeiten oder zwei Gase miteinander vermischt werden (Mischungstemperatur), z. B. heißes und kaltes Wasser.
+Treten Phasenübergänge auf, kann die Gleichgewichtstemperatur auch gleich einer der beiden Anfangstemperaturen sein, z. B. 0 °C beim Abkühlen eines warmen Getränks mit unnötig vielen Eiswürfeln von 0 °C.
+Bei chemischen Reaktionen kann die Endtemperatur auch außerhalb des Bereichs {\displaystyle } liegen, z. B. bei Kältemischungen darunter, bei Verbrennung darüber.
+
+=== Temperatur in der Relativitätstheorie
+
+Ein thermodynamisches Gleichgewicht gilt zunächst im gemeinsamen Ruhesystem beider Körper.
+Im Sinne der speziellen Relativitätstheorie ist ein System im thermodynamischen Gleichgewicht daher außer durch die Temperatur auch durch ein Ruhesystem charakterisiert.
+Thermodynamische Gleichungen sind aber nicht invariant unter Lorentztransformationen.
+Eine konkrete Frage wäre z. B., welche Temperatur von einem bewegten Beobachter gemessen wird.
+Die Rotverschiebung der Wärmestrahlung etwa verschiebt die Frequenzen im Planckschen Strahlungsgesetz im Verhältnis  v / c {\displaystyle \approx v/c } und lässt damit einen strahlenden Körper kälter erscheinen, wenn man sich mit Geschwindigkeit v {\displaystyle v} von ihm weg bewegt.
+Im Prinzip tritt das gleiche Problem auch schon auf, wenn heißes Wasser durch ein zunächst kaltes Rohr strömt.
+
+Die Temperatur wird als zeitartiger Vierervektor dargestellt.
+Im Ruhesystem sind also die drei Ortskoordinaten 0 {\displaystyle 0} und die Zeitkoordinate ist die übliche Temperatur.
+Zu einem bewegten System muss man mittels der Lorentz-Transformation umrechnen.
+Es ist allerdings im Kontext der Zustandsgleichungen günstiger und daher auch üblicher, die inverse Temperatur, genauer  = 1 k B T {\displaystyle \beta ={\tfrac {1}{k_{\mathrm {B} }T}}} , als zeitartigen Vierervektor darzustellen.
+
+Zur Begründung betrachte man den 1. Hauptsatz, für reversible Prozesse in der Form
+
+und beachte, dass die Energie eines bewegten Systems um die kinetische Energie größer ist als seine innere Energie U {\displaystyle U} , bei v / c  1 {\displaystyle v/c\ll 1} also näherungsweise
+
+wobei v {\displaystyle v} die dreidimensionale Geschwindigkeit ist.
+Daher ist
+
+in 4-dimensionaler Schreibweise also gleich
+
+wenn p  = ( E / c , p = ) {\displaystyle \mathbf {p} _{\mu }=(E/c,{\vec {p}})} (mit dem räumlichen Impulsvektor p = {\displaystyle {\vec {p} }} ) der Viererimpuls und   = ( - c / T , v = / T ) {\displaystyle \mathbf {\theta } _{\mu }=(-c/T,{\vec {v}}/T) } die inverse Vierertemperatur ist.
+
+In der allgemeinen Relativitätstheorie ist die Raumzeit gekrümmt, so dass im Allgemeinen der thermodynamische Limes nicht wohldefiniert ist.
+Wenn die Metrik der Raumzeit zeitunabhängig, also statisch, ist, kann allerdings ein globaler Temperaturbegriff definiert werden.
+Im allgemeinen Fall einer zeitabhängigen Metrik, wie sie beispielsweise Grundlage der Beschreibung des expandierenden Universums ist, können Zustandsgrößen wie die Temperatur nur lokal definiert werden.
+Ein verbreitetes Kriterium dafür, dass ein System zumindest lokal thermisch ist, ist, dass die Phasenraumdichte die Boltzmann-Gleichung ohne Streuung erfüllt.
+
+=== Temperatur in der Quantenphysik
+
+Im Bereich der Quantenphysik kann man die Temperatur nur dann, wenn sie "genügend hoch" ist, mit einer ungeordneten Teilchenbewegung beschreiben, in der alle möglichen Energieformen vorkommen.
+"Genügend hoch" bedeutet dabei, dass die Energie k B T {\displaystyle k_{\mathrm {B} }T} groß ist gegenüber den typischen Abständen der Energieniveaus der einzelnen Teilchen im gegebenen System.
+Beispielsweise muss die Temperatur weit über 1000 K sein, damit bei zweiatomigen Gasen wie N2, O2 die Molekülschwingungen mit angeregt werden.
+Bei H2-Molekülen erfordert auch die Anregung der Rotation Temperaturen über einigen 100 K. Freiheitsgrade, die bei tieferen Temperaturen nicht an der Wärmebewegung teilnehmen, werden als eingefroren bezeichnet.
+Das drückt sich z. B. deutlich in der Temperaturabhängigkeit der spezifischen Wärme aus.
+
+Die theoretische Behandlung der Thermodynamik erfolgt in der Quantenphysik ausschließlich mit den Methoden der Statistischen Physik (siehe Quantenstatistik, Vielteilchentheorie).
+Darin tritt die Temperatur genau wie in der klassischen statistischen Physik im Exponenten der Boltzmann-Verteilung auf und bestimmt damit die Form der Häufigkeitsverteilung, mit der die Teilchen die verschiedenen Energiezustände einnehmen.
+
+== Temperaturempfinden und Wärmeübertragung
+
+Stehen zwei Körper unterschiedlicher Temperatur in Wärmekontakt, so wird nach dem nullten Hauptsatz der Thermodynamik solange Energie vom wärmeren zum kälteren Körper übertragen, bis beide die gleiche Temperatur angenommen haben und damit im thermischen Gleichgewicht stehen.
+Dabei kann es zwischen den beiden Seiten der Grenzfläche zunächst Temperatursprünge geben.
+Es gibt drei Möglichkeiten der Wärmeübertragung:
+
+Der Mensch kann mit der Haut nur Temperaturen im Bereich zwischen etwa 5 °C und 40 °C fühlen.
+Dabei wird genau genommen nicht die Temperatur eines berührten Gegenstands wahrgenommen, sondern die Temperatur am Ort der in der Haut liegenden Thermorezeptoren, die je nach Stärke des Wärmestroms durch die Hautoberfläche variiert (gefühlte Temperatur).
+Dieses hat für das Temperaturempfinden einige Konsequenzen:
+
+Genau genommen gilt dieses nicht nur für das menschliche Empfinden.
+Auch in vielen technischen Zusammenhängen ist nicht die Temperatur entscheidend, sondern der Wärmestrom.
+Zum Beispiel hat die Atmosphäre der Erde in einem Bereich oberhalb 1000 km Temperaturen von mehr als 1000 °C; dennoch verglühen dort keine Satelliten, denn auf Grund der geringen Teilchendichte ist der Energieübertrag minimal.
+
+== Definitionen der Temperatur
+
+Der Temperaturbegriff entwickelte sich erst spät, nicht nur weil eine klare konzeptuelle Trennung zwischen Temperatur als intensiver Meßgröße und Wärme als extensiver Größe fehlte, sondern auch weil es bis in die Frühe Neuzeit hinein keine Instrumente gab, mit denen man die Temperatur (den Grad von Wärme) hätte messen können.
+
+Die formalen Eigenschaften der Temperatur werden in der makroskopischen klassischen Thermodynamik behandelt.
+Die Temperatur leitet sich von den beiden Zustandsgrößen Innere Energie U {\displaystyle U} und Entropie S {\displaystyle S } ab :
+
+Beim idealen Gas z. B. erfüllt die durch die Zustandsgleichung definierte Gastemperatur T = p V N k B {\displaystyle T={\frac {pV}{Nk_{\mathrm {B} }} }} diese Bedingung.
+
+Die statistische Interpretation der Entropie lautet nach Boltzmann:
+
+und daher die der Temperatur:
+
+Hierbei bedeuten:
+
+Die gleiche physikalische Größe T {\displaystyle T} ergibt sich, wenn die wahrscheinlichste Verteilung der Teilchen eines (klassischen) Systems über die verschiedenen möglichen Energien aller möglichen Zustände eines einzelnen Teilchens bestimmt wird.
+Die Zustände zu einer gegebenen Energie E {\displaystyle E} sind mit einer Wahrscheinlichkeit W besetzt, die proportional zum Boltzmann-Faktor e - E k B T {\displaystyle \mathrm {e} ^{-{\frac {E}{k_{\mathrm {B} }T}}}} ist.
+
+Aus dieser Boltzmann-Verteilung folgen u. a. die Maxwell-Boltzmann-Verteilung der Molekülgeschwindigkeiten in einem Gas sowie der Gleichverteilungssatz der Energie über alle Freiheitsgrade der Teilchen.
+
+=== Negative Temperaturen
+
+Der Temperaturbegriff lässt sich erweitern, so dass sich auch negative Temperaturen definieren lassen.
+
+Ein System, das makroskopisch im thermischen Gleichgewicht erscheint, also eine einheitliche Temperatur hat, besteht mikroskopisch gesehen aus Teilchen, die nicht alle die gleiche Energie haben.
+Tatsächlich tauschen diese Teilchen durch Stöße ständig untereinander Energie aus, so dass sie auf Zustände mit unterschiedlichen Energien verteilt sind (Boltzmann-Statistik) und sich z. B. eine Maxwellsche Geschwindigkeitsverteilung einstellt.
+Wie eingangs bereits beschrieben, bemisst die Temperatur die über alle Teilchen gemittelte Energie.
+Diese Verteilung ist nicht gleichmäßig, sondern häuft sich (bei positiven Temperaturen) bei geringen Energien, während nur wenige Teilchen sehr viel Energie haben.
+Zu steigenden Energien hin zeigt sich eine exponentielle Abnahme der Häufigkeit.
+Erhöht man die Temperatur, so gleichen sich die unterschiedlichen Häufigkeiten immer mehr an, im hypothetischen Grenzfall der unendlichen Temperatur wären in jedem Energiezustand die gleiche Anzahl von Teilchen.
+
+Die Erweiterung des Temperaturbegriffs geht nun davon aus, dass die Energieverteilung der Teilchen so geändert wird, dass die höheren Energieklassen stärker besetzt sein können als die niedrigen (Besetzungsumkehr, Inversion).
+Dies würde sich in der Gleichung der Boltzmann-Statistik formal als negative Temperatur ausdrücken.
+
+Inzwischen ist es gelungen, entsprechende Gase mit negativer Temperatur unter Laborbedingungen herzustellen.
+Ebenso kann man die Besetzungsinversion im aktiven Medium eines Lasers als Zustand negativer Temperatur auffassen.
+
+Der Zustand negativer Temperatur ist allerdings instabil.
+Die Energie aus einem solchen System würde bei Kontakt mit einem Körper beliebiger positiver Temperatur an diesen abfließen.
+Insofern muss man also sagen, dass ein Körper mit negativer Temperatur heißer ist als jeder Körper mit positiver Temperatur.
+
+== Messung
+
+=== Messung durch thermischen Kontakt
+
+Die Temperaturmessung erfolgt hierbei mit Hilfe von Thermometern oder Temperatursensoren.
+Das Herstellen eines thermischen Kontaktes erfordert ausreichende Wärmeleitung, Konvektion oder ein Strahlungsgleichgewicht zwischen Messobjekt (Festkörper, Flüssigkeit, Gas) und Sensor.
+Die Messgenauigkeit kann z. B. durch nicht ausgeglichene Wärmestrahlungs-Bilanz, Luftbewegungen oder durch Wärmeableitung entlang des Sensors beeinträchtigt sein.
+Die Messgenauigkeit wird theoretisch durch die zufällige Brownsche Molekularbewegung begrenzt.
+
+Die Temperaturerfassung durch Wärmekontakt kann in vier Methoden unterteilt werden:
+
+=== Messung anhand der Wärmestrahlung
+
+Die Temperatur einer Oberfläche kann berührungslos durch Messung der Wärmestrahlung bestimmt werden, sofern der Emissionsgrad ausreichend genau bekannt ist.
+Die Messung erfolgt z. B. mit einem Pyrometer oder mit einer Thermografie-Kamera.
+
+Je nach Temperatur kommen dabei verschiedene Wellenlängenbereiche in Frage (siehe hierzu Stefan-Boltzmann-Gesetz oder Wiensches Verschiebungsgesetz).
+Bei niedrigen Temperaturen kommen Bolometer, Mikrobolometer oder gekühlte Halbleiterdetektoren in Frage, bei hohen Temperaturen werden ungekühlte Fotodioden oder auch der visuelle Vergleich der Intensität und Farbe des Glühens angewendet (Wolframfaden-Pyrometer, Glühfarben).
+
+Rechts ist eine Thermografie zu sehen; hierbei wird eine Falschfarbendarstellung der Strahlungsemission im Mittleren Infrarot (ca. 5...10 m Wellenlänge) erzeugt, die sich durch Kalibrierung in Form einer Farbskala an die Temperaturskala koppeln lässt.
+Links im Bild ist die Spiegelung der Strahlung des heißen Bechers zu erkennen.
+
+Messfehler entstehen hierbei wie auch bei Pyrometern durch
+
+Bei Minimierung aller störenden Einflüsse sind Messgenauigkeiten bzw. Kontraste bis herab zu Temperaturdifferenzen von 0,01 K möglich.
+
+Die berührungslose Temperaturmessung anhand der Wärmestrahlung wird auch bei der Fernerkundung und zur Bestimmung der Oberflächentemperatur von Sternen angewendet, sofern die Eigenstrahlung der Lufthülle gering genug ist.
+IR-Teleskope sind deshalb nur auf hohen Bergen sinnvoll.
+
+Siehe hierzu auch Messgeräte, Messtechnik, Messung und Kategorie Temperaturmessung
+
+== Temperaturskalen und ihre Einheiten
+
+=== Empirische Skalen
+
+Eine empirische Temperaturskala ist eine willkürliche Festlegung der Größenordnung der Temperatur und gestattet die Angabe der Temperatur in Bezug zu einem Vergleichswert.
+
+Es gibt zwei Methoden, eine Skala zu definieren:
+
+Nach der ersten Methode werden zwei Fixpunkte festgelegt.
+Diese Fixpunkte sind zweckmäßigerweise in der Natur vorkommende und durch Experimente reproduzierbare Werte.
+Der Abstand zwischen den Fixpunkten wird dann anhand einer temperaturabhängigen Stoff- oder Prozesseigenschaft gleichmäßig aufgeteilt.
+Anders Celsius wählte zum Beispiel für seine Skala den Schmelzpunkt und den Siedepunkt von Wasser als Fixpunkte und teilte die Volumenänderung von Quecksilber zwischen diesen Punkten in 100 gleiche Teile auf.
+Daniel Fahrenheit wählte dagegen als Fixpunkte die Temperatur einer Kältemischung und die Körpertemperatur des Menschen.
+Ein Beispiel für eine Prozesseigenschaft ist z. B. die Winkeländerung des Zeigers bei einem Bimetallthermometer.
+
+Bei der zweiten Methode genügt ein Fixpunkt, der wie zuvor durch eine Stoffeigenschaft (z. B. Schmelzpunkt des Eises) definiert wird, und zusätzlich eine temperaturabhängige Stoffeigenschaft.
+Man könnte z. B. eine bestimmte relative Volumenänderung von Quecksilber als "ein Grad" definieren und dann, ausgehend vom Fixpunkt, Skalenstrich für Skalenstrich anzeichnen.
+
+Eine Idee für eine Skala nach der zweiten Methode stammt von Rudolf Plank.
+Sie orientiert sich an der Volumenänderung von Gasen bei konstantem Druck.
+Als Fixpunkt dient wieder der Schmelzpunkt von Wasser, die Einheit ist der Temperaturunterschied, der einer Volumenänderung um den Faktor (1 + 1/273,15) entspricht.
+Eine solche logarithmische Temperaturskala erstreckt sich von minus Unendlich bis plus Unendlich.
+Es ist kein absoluter Nullpunkt erforderlich, der ja definitionsgemäß gar nicht erreicht werden kann.
+
+Die bekanntesten Temperaturskalen mit ihren verschiedenen Charakteristika sind weiter unten tabellarisch dargestellt.
+Die heute gültige Temperaturskala ist die "International Temperature Scale of 1990" (ITS-90).
+Die Festlegung der Einheiten über bestimmte spezifische Messpunkte ist im Mai 2019 aufgehoben worden, siehe Tabelle.
+
+=== Skalen mit SI-Einheit
+
+Seit 1924 gilt die Thermodynamische Definition der Temperatur mithilfe des 2. Hauptsatzes, die das Verhältnis zweier Temperaturen aus dem Verhältnis zweier Energien bestimmt.
+Die Existenz einer solchen absoluten und substanzunabhängigen Temperaturskala folgt aus dem Wirkungsgrad des Carnot-Prozesses.
+Denn für den Wirkungsgrad  {\displaystyle \eta } jeder Wärmekraftmaschine, die zwischen zwei Wärmereservoirs mit den Temperaturen T k {\displaystyle T_{k}} und T w {\displaystyle T_{w}} periodisch und reversibel arbeitet, gilt:
+
+Der Nullpunkt der Skala liegt beim absoluten Nullpunkt, aber die Temperatureinheit ( 1 K {\displaystyle 1\;\mathrm {K} } ) ist damit noch offen.
+Deren Größe wurde zunächst dadurch festgelegt, dass für die Temperatur eines wohldefinierten Zustands von Wasser (Tripelpunkt) ein Zahlenwert (273,16) gewählt wurde.
+Seit Mai 2019 ist die Temperatureinheit, jetzt wieder mit Rückgriff auf die Zustandsgleichung des idealen Gases, durch die zahlenmäßige Festlegung der Boltzmann-Konstante an die die Energieeinheit Joule angeschlossen: 1 K ist diejenige Temperaturänderung, die die Energie k B T {\displaystyle k_{\mathrm {B} }\,T} um 1.380649e-23 J erhöht.
+
+Danach hat der Tripelpunkt von Wasser keine definierende Bedeutung mehr, sondern ist ein zu bestimmender Messwert.
+
+Die Celsiustemperatur (Formelzeichen t {\displaystyle t} oder auch  {\displaystyle \vartheta } ) gibt nach ihrer modernen Definition nicht mehr die empirische Temperatur der historischen Celsius-Skala an, sondern ist die thermodynamische Temperatur der Kelvin-Skala, verschoben um 273,15 K:
+
+Die Einheit Grad Celsius (°C) ist eine abgeleitete SI-Einheit.
+Für Temperaturdifferenzen ist das Grad Celsius identisch mit dem Kelvin.
+Temperaturdifferenzen sollen generell in K angegeben werden, wobei die Differenz zweier Celsiustemperaturen auch in °C angegeben werden kann.
+Der Zahlenwert ist in beiden Fällen derselbe.
+
+=== Skalen ohne SI-Einheit
+
+In den USA ist die Fahrenheit-Skala mit der Einheit Grad Fahrenheit (Einheitenzeichen: °F) immer noch sehr gebräuchlich.
+Die absolute Temperatur auf Fahrenheit-Basis wird mit Grad Rankine (Einheitenzeichen: °Ra) bezeichnet.
+Die Rankine-Skala hat den Nullpunkt wie die Kelvin-Skala beim absoluten Temperaturnullpunkt, im Gegensatz zu dieser jedoch die Skalenabstände der Fahrenheit-Skala.
+Beide Skalen werden heute über eine per Definition exakte Umrechnungsformel zum Kelvin definiert.
+
+Die Fixpunkte, mit denen die Skalen ursprünglich definiert wurden, sind farblich hervorgehoben und exakt in die anderen Skalen umgerechnet.
+Heute haben sie ihre Rolle als Fixpunkte verloren und gelten nur noch näherungsweise.
+Allein der absolute Nullpunkt hat weiterhin exakt die angegebenen Werte.
+Temperaturbeispiele siehe Größenordnung (Temperatur).
+
+== Weblinks
+
+== Einzelnachweise
+

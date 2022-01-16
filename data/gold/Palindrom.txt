@@ -1,0 +1,11 @@
+Ein Palindrom ist ein Wort, das man vorwärts und rückwärts lesen kann.
+Ein Beispiel ist das deutsche Wort "Lager".
+Liest man es rückwärts, so hat man ein anderes Wort: "Regal".
+Das Wort Palindrom hat Wurzeln aus der altgriechischen Sprache: "palin" heißt "wieder", "dromos" heißt "Richtung".
+Das Palindrom muss nicht unbedingt ein Wort sein, ein Wortpalindrom.
+Es kann sich auch um einen ganzen Satz handeln, wie in diesem Satzpalindrom: "Trug Tim eine so helle Hose nie mit Gurt?"
+Außerdem gibt es auch Palindrome aus Zahlen, zum Beispiel: 3345433, und Musik-Palindrome, also Musikstücke, die sich vorwärts und rückwärts gespielt gleich anhören.
+Manche wissenschaftliche Tiernamen sind Palindrome:
+Afgoiogfa ist eine Plattwespe.
+Ein Palindrom ist zum Beispiel auch der Bandname ABBA:
+Er besteht aus den Anfangsbuchstaben der Namen der Mitglieder.

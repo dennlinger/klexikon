@@ -1,0 +1,18 @@
+Desoxyribonukleinsäure ( anhören?/i; abgekürzt DNS), meist kurz als DNA (Abkürzung für englisch deoxyribonucleic acid) bezeichnet, ist eine aus unterschiedlichen Desoxyribonukleotiden aufgebaute Nukleinsäure.
+Sie trägt die Erbinformation bei allen Lebewesen und vielen Viren (nicht RNA-Viren).
+Das langkettige Polynukleotid enthält in Abschnitten von Genen besondere Abfolgen seiner Nukleotide.
+Diese DNA-Abschnitte dienen als Matrizen für den Aufbau entsprechender Ribonukleinsäuren, wenn die genetische Information in RNA-Stränge umgeschrieben wird (siehe Transkription).
+Im Falle einer Boten-RNA (englisch messenger RNA, mRNA) stellt die Abfolge von Nukleinbasen darüber hinaus die Bauanleitung für ein Protein dar.
+Die Grundbausteine von DNA-Strängen sind vier verschiedene Nukleotide, die jeweils aus einem Phosphatrest, dem Zucker Desoxyribose sowie einer von vier Nukleinbasen (Adenin, Thymin, Guanin und Cytosin; oft mit A, T, G und C abgekürzt) bestehen.
+Die Abfolge von Basen (Basensequenz) in bestimmten DNA-Strangabschnitten enthält Information.
+Umgeschrieben in den Einzelstrang einer mRNA gibt deren Basensequenz bei der Proteinbiosynthese die Abfolge von Aminosäuren (Aminosäurensequenz) im zu bildenden Protein vor.
+Hierbei wird drei aufeinanderfolgenden Basen - je einem Basentriplett als Codon - jeweils eine bestimmte Aminosäure zugeordnet und diese mit der vorigen verknüpft, sodass ein Polypeptid entsteht.
+So werden an einem Ribosom mithilfe von tRNA entsprechend dem genetischen Code Bereiche der Basensequenz in eine Aminosäurensequenz übersetzt (siehe Translation).
+Das Genom einer Zelle liegt zumeist als DNA-Doppelstrang vor, bei dem die beiden basenpaarend einander komplementären Stränge räumlich die Form einer Doppelhelix bilden (siehe Abbildung).
+Bei der Replikation werden sie entwunden und getrennt jeweils durch Basenpaarung wieder komplementär ergänzt, sodass anschließend zwei (nahezu) identische doppelsträngige DNA-Moleküle vorliegen.
+Fehler beim Replikationsvorgang sind eine Quelle von Mutationen, die nach Kernteilung und Zellteilung in entstandenen Zellen als Veränderung genetischer Information vorliegen und weitergegeben werden können.
+In den Zellen von Eukaryoten, zu denen auch Pflanzen, Tiere und Pilze gehören, ist der Großteil der DNA im Zellkern (lateinisch nucleus, daher nukleäre DNA oder nDNA) als Chromosomen organisiert.
+Ein kleiner Teil befindet sich in den Mitochondrien und wird dementsprechend mitochondriale DNA (mtDNA) genannt.
+Pflanzen und Algen haben außerdem DNA in Photosynthese betreibenden Organellen, den Chloroplasten bzw. Plastiden (cpDNA).
+Bei Bakterien und Archaeen - den Prokaryoten, die keinen Zellkern besitzen - liegt die DNA im Cytoplasma meist zirkulär vor (siehe Bakterienchromosom).
+Manche Viren speichern ihre genetische Information in RNA statt in DNA (siehe RNA-Virus).

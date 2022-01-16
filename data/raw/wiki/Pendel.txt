@@ -1,0 +1,103 @@
+Ein Pendel, auch Schwerependel (früher auch Perpendikel, von lat. pendere "hängen") ist ein Körper, der, an einer Achse oder einem Punkt außerhalb seines Massenmittelpunktes drehbar gelagert, um seine eigene Ruheposition schwingen kann.
+Seine einfachste Ausführung ist das Fadenpendel, das aus einem an einem Faden aufgehängten Gewicht besteht und baulich einem Schnurlot gleicht.
+In diesem Sinne keine Pendel sind das Federpendel und das Torsionspendel.
+
+Eine Eigenschaft des Schwerependels ist, dass seine Schwingungsdauer nur von der Länge des Fadens (genauer: dem Abstand zwischen Aufhängung und Schwerpunkt des Pendelkörpers), nicht aber von der Art, Gestalt oder Masse des Pendelkörpers abhängt; auch fast nicht von der Größe der maximalen Auslenkung, vorausgesetzt, diese bleibt auf wenige Winkelgrad beschränkt.
+Dies wurde erstmals von Galileo Galilei festgestellt und nach den vertiefenden Untersuchungen durch Christiaan Huygens zur Regulierung der ersten genauen Uhren verwendet.
+Ein Sekundenpendel hat, je nach geografischer Breite des Standorts, eine Länge zwischen 99,1 und 99,6 cm.
+
+== Grundlagen
+
+Das Pendel besteht meist aus einem Band oder einem Stab, der am freien Ende mit einer Masse beschwert ist.
+Bringt man ein solches Pendel aus seiner vertikalen Ruhelage, schwingt es unter dem Einfluss der Schwerkraft zurück und wird, solange keine Dämpfung erfolgt, symmetrisch zwischen den Scheitelpunkten als Umkehrpunkt der Bewegung um die tiefstmögliche Position des Massenmittelpunktes - die Ruheposition - weiterschwingen.
+Beim Schwingen wird die potentielle Energie der Masse in kinetische Energie und wieder zurück verwandelt.
+In der Ruheposition liegt die gesamte Energie der Schwingung als kinetische Energie vor, am Scheitelpunkt als potentielle Energie.
+Im zeitlichen Mittel ist die Energie gemäß dem Virialsatz zu gleichen Teilen in kinetische und potentielle Energie aufgeteilt.
+
+Die Regelmäßigkeit der Schwingungsperiode eines Pendels wird bei mechanischen Pendeluhren genutzt.
+Ihre Pendel müssen, sollen sie genau gehen, möglichst kleine und konstante Amplituden zurücklegen.
+
+Man unterscheidet mathematische Pendel von physikalischen Pendeln:
+Das ebene mathematische Pendel und das sphärische Pendel sind idealisierende Modelle zur allgemeinen Beschreibung von Pendelschwingungen.
+Dabei wird angenommen, dass die gesamte Masse des Pendels in einem Punkt vereinigt vorliegt, der einen festen Abstand vom Aufhängepunkt hat.
+Ein solches Pendel wird näherungsweise durch ein Fadenpendel realisiert.
+Das physikalische Pendel unterscheidet sich vom mathematischen Pendel, indem bei ihm die Form und Größe des Pendelkörpers berücksichtigt wird, weshalb das Verhalten physikalischer Pendel eher dem von realen Pendeln entspricht.
+So ist beispielsweise die Periodendauer eines Stangenpendels, bei dem ein Pendelkörper an einer Stange - dessen Länge mit einer Stellschraube verändert werden kann - mit endlicher Masse hängt, stets kürzer als die Periodendauer eines gleich langen mathematischen Pendels, bei dem die Masse der Aufhängung vernachlässigt werden kann.
+Für kleine Auslenkungen vereinfacht sich die Betrachtung der Bewegung des Pendels:
+Da hier die rückstellende Kraft näherungsweise proportional zur Auslenkung ist, handelt es sich um einen harmonischen Oszillator.
+
+Mit dem Foucaultschen Pendel konnte die Erdrotation nachgewiesen werden:
+Die Corioliskraft wirkt von außen auf das Pendel, indem sie seine Schwingungsebene verändert und es von Schwingung zu Schwingung in einem wiederkehrenden Muster ablenkt.
+
+== Hintergrund
+
+=== Theorie: Harmonischer Oszillator
+
+Das Pendel ist bei kleinen Auslenkungen eine gute Näherung eines mechanischen harmonischen Oszillators.
+Bei großer Auslenkung sind die Schwingungen zwar stetig, aber nicht mehr harmonisch.
+Der harmonische Oszillator ist ein bedeutendes Modellsystem in der Physik, da es ein geschlossen lösbares System darstellt.
+Es ist dadurch charakterisiert, dass eine Kraft proportional zur Auslenkung entgegen der Auslenkungsrichtung wirkt.
+Mit der Auslenkung  {\displaystyle \varphi } , der zweiten Ableitung nach der Zeit d 2 d t 2 {\displaystyle {\tfrac {\mathrm {d} ^{2}}{\mathrm {d} t^{2}}}} und einer Proportionalitätskonstanten  2 {\displaystyle \omega ^{2}} gilt also:
+
+Mit dieser Proportionalitätskonstanten besitzt der harmonische Oszillator einen Freiheitsgrad, der seine Kreisfrequenz  {\displaystyle \omega } genannt wird.
+Die Lösung dieser Gleichung ist periodischer Natur, die abhängig von den physikalischen Anfangsbedingungen als Summe einer Sinus- und Kosinusfunktion geschrieben werden kann:
+
+Wenn es auf die Phase nicht ankommt, kann man  ( 0 ) = 0 {\displaystyle \varphi (0)=0} setzen und erhält
+
+wobei  m a x {\displaystyle \varphi _{\mathrm {max} }} die Auslenkung des Pendels am Umkehrpunkt ist.
+
+Die Bewegung, die ein harmonischer Oszillator beschreibt, heißt harmonische Schwingung.
+Nicht der strengen Definition des harmonischen Oszillators folgend, werden teilweise auch gedämpfte harmonische Osziallatoren als solche bezeichnet.
+Diese sind derart modelliert, dass die Amplitude, die maximale Auslenkung, der Schwingung mit der Zeit kleiner wird.
+
+=== Mathematisches und Physikalisches Pendel
+
+Das mathematische Pendel ist das einfachste Modell eines Pendels:
+Ein Massepunkt ist an einem masselosen, starren Faden aufgehängt und kann sich entsprechend nur in zwei Dimensionen auf einer Kreisbahn um die Aufhängung bewegen.
+Sein einziger Freiheitsgrad ist die Auslenkung um eine Gleichgewichtslage oder Ruheposition und die Gewichtskraft wirkt als rückstellende Kraft auf den Massepunkt.
+Bei hinreichend kleiner Auslenkung kann das mathematische Pendel als harmonischer Oszillator beschrieben werden.
+Die Kreisfrequenz hängt dabei nur von der Fadenlänge l {\displaystyle l} und der Erdbeschleunigung g {\displaystyle g} ab:
+
+Die Verallgemeinerung des mathematischen Pendels in drei Dimensionen heißt sphärisches Pendel.
+Dessen gekoppeltes Gleichungssystem besitzt keine einfache Lösung mehr.
+
+Das physikalische Pendel berücksichtigt im Gegensatz zum mathematischen Pendel die Ausdehnung des Pendelkörpers und die Masse des Fadens.
+Die Kreisfrequenz des physikalischen Pendels hängt entsprechend auch von seiner Masse m {\displaystyle m} und seinem Trägheitsmoment I {\displaystyle I} ab, während l {\displaystyle l} als Abstand des Schwerpunkts von der Aufhängung präzisiert werden muss:
+
+Die Berechnung gilt ebenfalls nur bei kleiner Auslenkung.
+
+=== Anisochronismus
+
+Die Kreisfrequenz  {\displaystyle \omega } bzw. die Schwingungsdauer T = 2   {\displaystyle T={\tfrac {2\pi }{\omega } }} ist nur näherungsweise von der maximalen Pendelauslenkung  m a x {\displaystyle \varphi _{\mathrm {max} }} unabhängig, denn das rückstellende Moment, das die Schwerkraft auf das Pendel ausübt, ist nicht proportional zu  {\displaystyle \varphi } , sondern zu sin   {\displaystyle \sin \varphi } .
+Darum tritt Anisochronismus auf:
+eine Pendeluhr geht umso langsamer, je größer der Pendelausschlag  m a x {\displaystyle \varphi _{\mathrm {max} }} wird.
+Für nicht zu große  m a x {\displaystyle \varphi _{\mathrm {max} } } gilt
+
+mit  m a x {\displaystyle \varphi _{\mathrm {max} }} im Bogenmaß.
+
+== Gekoppelte Pendel
+
+Bei zwei gekoppelten Pendeln üben zwei Pendel eine von beiden Auslenkungen abhängige Kraft aufeinander aus.
+Zum Beispiel verbindet man zwei gleiche Fadenpendel durch eine Feder miteinander, um im Demonstrationsexperiment die Eigenschwingungen und das Phänomen der Schwebung zu beobachten.
+Gebundene Atome (z. B. in einem Molekül oder in einem Festkörper) können oft näherungsweise durch ein Modell von vielen gekoppelten Pendeln beschrieben werden.
+Mehr als zwei gekoppelte Pendel können komplexe Schwingungsmuster zeigen, wenn die Grundschwingung von anders geformten Eigenschwingungen (oder Schwingungsmoden) mit höheren Eigenfrequenzen überlagert wird.
+
+Beim Doppelpendel wird an der Masse eines Pendels ein zweites Pendel angebracht.
+Es dient unter anderem der Demonstration von chaotischen Prozessen, da die Bewegung chaotisch sein kann.
+
+== Federpendel
+
+Federpendel sind keine Pendel im eigentlichen Sinne, denn sie verfügen im Unterschied zum Schwerkraftpendel über eigene Rückstellkräfte, die von der Schwerkraft unabhängig sind.
+
+Es gibt u. a. folgende Varianten:
+
+== Anwendungen
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

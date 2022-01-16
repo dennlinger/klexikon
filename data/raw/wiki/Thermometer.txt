@@ -1,0 +1,117 @@
+Ein Thermometer (altgriechisch o thermos, deutsch ,warm' und altgriechisch ov metron, deutsch ,Maß, Maßstab') ist ein Messgerät zur Bestimmung der Temperatur.
+
+Viele Thermometer basieren auf der Temperaturabhängigkeit der Ausdehnung von Flüssigkeiten, Gasen oder Festkörpern, deren Ausdehnungskoeffizient bekannt ist.
+Dazu muss die Messstelle des Thermometers die Temperatur des Messgegenstands annehmen.
+Neben diesem mechanischen Messeffekt werden verschiedene von der Temperatur abhängige elektrische Einflüsse genutzt, z. B. der Einflusseffekt der Temperatur auf den elektrischen Widerstand.
+
+Pyrometer hingegen messen ohne Berührung des Messgegenstands anhand seiner für die Temperatur charakteristischen ausgesendeten Temperaturstrahlung.
+
+Jedes Thermometer besteht aus einem Temperatur-Sensor (in dem der Messeffekt auftritt) und einer Anzeige (z. B. anhand einer Skale) oder einer Anschlussstelle für ein elektrisches Signal.
+
+Thermometer werden anhand von festen Temperaturpunkten, wie den Tripel- oder Schmelzpunkten bestimmter Materialien, oder anhand eines geeichten Referenzthermometers justiert.
+
+== Geschichte
+
+Die Entwicklung des Thermometers lässt sich nicht der Erfindung einer einzelnen Person zuordnen.
+Vielmehr waren zahlreiche wissenschaftliche Erkenntnisse notwendig, die zu unserem heutigen Temperaturbegriff führten und die Einführung einer Temperaturskala sowie deren technische Umsetzung ermöglichten.
+
+Die Empfindungen "heiß" und "kalt" sind unmittelbar mit dem Tastsinn verbunden, der aber kaum eine zuverlässige Bestimmung verschiedener Wärmegrade zulässt.
+Die griechische Philosophie behandelte das Gegensatzpaar heiß-kalt in ihren Betrachtungen, machte aber keinen Versuch einer zahlenmäßigen Beschreibung.
+Der griechische Arzt Galen führte im zweiten Jahrhundert acht "Grade der Hitze und Kälte" ein:
+Jeweils vier Grade über und unter einem neutralen Mittelpunkt, der einer Mischung gleicher Mengen von Eiswasser und kochendem Wasser entsprechen sollte.
+
+Bereits in der Antike war die durch Temperaturänderungen bewirkte thermische Ausdehnung von Luft dazu verwendet worden, verschiedene Mechanismen in Bewegung zu setzen, so etwa durch Philon von Byzanz oder Heron von Alexandria.
+Aber erst im frühen 17. Jahrhundert wurde dieses Prinzip in einem Vorläufer des Thermometers, dem Thermoskop, zur Bestimmung von Temperaturen benutzt.
+Es handelte sich um eine Glaskugel mit einem angesetzten langen dünnen Glasrohr, dessen untere Öffnung in Wasser tauchte.
+Die durch Temperaturänderungen verursachten Volumenänderungen der eingeschlossenen Luft ließen die Wassersäule im Rohr steigen oder fallen.
+Das Thermoskop hatte zumindest anfänglich noch keine Skala, die Länge der Wassersäule wurde mit einem Zirkel abgegriffen.
+
+Giovanni Francesco Sagredo beschrieb ab 1612 in Briefen an Galileo Galilei, wie er solche Instrumente, deren Erfindung er Galilei zuschrieb, in verschiedenen Formen herstellte.
+Er beobachtete damit die Temperatur der kalten Winterluft, führte Buch über eine sommerliche Hitzewelle und verglich die Temperaturen verschieden großer Seen.
+Der Arzt Santorio Santorio aus Padua, der mit Galileo in Kontakt war, nutzte dessen wissenschaftliche Erkenntnisse medizinisch und verwendete sowohl Thermoskope zur Temperaturmessung, als auch Pendel zum Pulsmessen.
+Santorio benutzte Schnee und eine Kerzenflamme als zwei Referenzpunkte zur Eichung des Thermoskops.
+
+Alle bis dahin verwendeten Thermoskope nutzten nicht die thermische Ausdehnung der Flüssigkeit, sondern die der Luft.
+Sie glichen im Grunde einem Barometer und waren daher insbesondere auch vom Luftdruck abhängig, wie spätestens 1643/44 durch Evangelista Torricelli bekannt war.
+Ferdinando II. de' Medici, Großherzog von Toscana, ließ 1654 das erste Thermometer herstellen, das die Ausdehnung von Alkohol in einem geschlossenen Glasrohr ausnutzte.
+
+Ab etwa 1714 ersetzte Daniel Gabriel Fahrenheit in Amsterdam den Alkohol durch Quecksilber und erfand das Quecksilberthermometer.
+1724 schlug Daniel Gabriel Fahrenheit die nach ihm benannte Temperaturskala vor, die den kältesten Punkt einer Kältemischung als 0 °F, den Schmelzpunkt von Wasser als 32 °F und die Körpertemperatur des Menschen als 96 °F definierte.
+Anders Celsius legte seine Skala 1742 anhand von Schmelz- und Siedepunkt von Wasser fest, allerdings andersherum als die heute nach ihm benannte Skala.
+
+1859 formulierte Gustav Robert Kirchhoff das nach ihm benannte Strahlungsgesetz, das den Grundstein für auf Temperaturstrahlung basierende Thermometer legte.
+
+== Arten von Thermometern
+
+=== Berührungsthermometer
+
+Berührungsthermometer erfordern einen Wärmekontakt zum Messobjekt.
+Messabweichungen treten hier vor allem aufgrund unzureichenden Wärmekontaktes zum Messobjekt oder bei zu großer Wärmeableitung durch das Thermometer auf.
+
+Im weiteren Sinne zählen auch Maximalwert-Indikatoren oder auch Segerkegel zu den Thermometern.
+
+Heizungs-Thermostatventile und Thermostatmischbatterien mit Dehnstoffelementen sind hingegen keine Thermometer, sondern Regler.
+
+=== Berührungslos messende Thermometer
+
+Berührungslos messende Thermometer (Pyrometer) nutzen die Eigenschaft, dass Objekte aufgrund ihrer Eigentemperatur eine elektromagnetische Temperaturstrahlung aussenden.
+Bei unter 500 °C (bis zum Einsetzen von Rotglut) liegt sie im Bereich der Infrarotstrahlung.
+Zur berührungslosen Temperaturmessung in diesem Bereich sind demnach Infrarotsensoren erforderlich.
+Pyrometer wurden in der Vergangenheit in folgende Kategorien unterteilt:
+
+Eine weitere Unterteilung kann anhand der Bandbreite der ausgewerteten Strahlung getroffen werden:
+
+Später wurden die Strahlungsthermometer auch nach den Messwellenlängen unterteilt:
+
+Ein Beispiel für ein langwellig messendes Thermometer ist das Infrarot-Fieberthermometer.
+
+Auch Thermografie-Kameras sind zusammen mit einer bilddarstellenden Software als Thermometer geeignet.
+Sie liefert zweidimensionale Temperaturprofile (Thermobilder), die im Maschinenbau, der Automatisierung, im F&E-Bereich, in der Medizin, der Sicherheits-/Überwachungstechnik und im Bauwesen verwendet werden.
+Die oft verwendete Falschfarbendarstellung ordnet jeder Farbe eine Temperatur zu.
+Im Bild ist dazu häufig ein Farbkeil mit einer Temperaturskala eingeblendet.
+
+=== Sonstige
+
+Ein auf Schwerkraft und temperaturabhängiger Dichte einer Flüssigkeit basierendes Thermometer, das Galileo-Thermometer, wurde nicht von Galileo Galilei erfunden, sondern nur nach ihm benannt.
+
+Ramanthermometer, basierend auf der Ramanspektroskopie (siehe auch Faseroptische Temperaturmessung), benutzen einen frequenzstabilen Messstrahl und werten dessen Rückstreuung aus.
+Sie können ortsaufgelöst entlang einer Dimension messen.
+
+== Kalibrierung
+
+Für die Kalibrierung von Thermometern gibt es den internationalen Standard ITS-90.
+Anhand dieses Standards kalibriert die Physikalisch-Technische Bundesanstalt (bzw. der Deutsche Kalibrierdienst oder in Großbritannien die UKAS - United Kingdom Accreditation Service) Platin-Thermometer, die dann als Referenz für Hersteller hergenommen werden.
+Dabei werden die folgenden Temperaturpunkte verwendet:
+
+Die Kalibrierung der Referenzthermometer findet in sogenannten Fixpunktzellen statt.
+Das sind Dewargefäße, in denen zum einen der Temperaturfixpunkt realisiert wird, indem zum Beispiel Indium zu seinem Schmelzpunkt erhitzt wird.
+Andererseits ermöglicht eine Röhre, den Sensor des Referenzthermometers einzubringen.
+
+== Messabweichung bei Berührungsthermometern
+
+=== Statische Abweichung
+
+Eine Messabweichung eines Thermometers wird verursacht
+
+Bei Flüssigkeits-Glasthermometern tritt eine weitere Fehlerquelle auf: Nicht nur die thermometrische Flüssigkeit, sondern auch die Kapillare dehnt sich mit steigender Temperatur aus.
+Beide müssen dieselbe Temperatur angenommen haben wie die Messstelle.
+Wird das Thermometer unter anderen Bedingungen betrieben als bei seiner Justierung, ist eine Fadenkorrektur erforderlich.
+Weiter ist bei Flüssigkeitsglasthermometern der häufig auftretende Parallaxenfehler zu vermeiden.
+Auch ist darauf zu achten, ob sich die Flüssigkeit bei der Lagerung evtl. in der Kapillare verteilt hat und erst wieder durch Klopfen oder Schleudern zu einem Faden verbunden werden muss.
+
+=== Dynamische Abweichung
+
+Bei allen Temperaturänderungen folgt der Messwert der tatsächlichen Temperatur mit Verzögerung, weil zur Temperaturangleichung Wärme transportiert werden muss.
+Für den thermischen Kontakt des Thermometers mit dem Messobjekt sind zu berücksichtigen,
+
+Kennzeichnend für das Zeitverhalten sind Übergangszeiten, in denen der Messwert einer sprunghaften Temperaturänderung folgt, und zwar zu 50 % und zu 90 %.
+Die nebenstehende Tabelle gibt auszugsweise Erfahrungswerte an aus VDI/VDE 3511, Blatt 2 (Berührungsthermometer).
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

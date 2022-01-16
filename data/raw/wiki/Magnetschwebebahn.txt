@@ -1,0 +1,157 @@
+Magnetschwebebahnen (auch Maglev, von englisch magnetic levitation) sind spurgeführte Landverkehrsmittel, die durch magnetische Kräfte in der Schwebe gehalten, in der Spur geführt, angetrieben und gebremst werden.
+Die Technik ermöglicht hohe Geschwindigkeiten, Beschleunigungen und Steigungen, wird aber vom Markt nur sehr zögerlich angenommen.
+
+== Magnetisches Schweben
+
+Bei magnetisch schwebenden Bahnen werden Magnetfelder genutzt, um Fahrzeuge in einen Schwebezustand zu bringen.
+Man unterscheidet
+
+Bei elektromagnetisch schwebenden Bahnen magnetisiert ein mit Gleichstrom erregter Elektromagnet das ferromagnetische Material auf der anderen Seite eines Luftspaltes, was eine Anziehungskraft bewirkt.
+Da das anziehende Verfahren ohne Regelung instabil wäre, muss hier eine aktive Luftspaltregelung eingesetzt werden.
+Dafür sind schnelle und effiziente dynamische Regelungen von entscheidender Bedeutung.
+Um das Fahrzeug durch Anziehungskräfte anheben zu können, umgreift beim Transrapid-System das Fahrwerk die Fahrbahn, Beispiel Transrapid.
+
+Beim elektrodynamischen Schweben werden magnetische Wechselfelder erzeugt, die auf der Gegenseite in nichtmagnetischen elektrischen Leitern, meist Aluminium, Wirbelströme hervorrufen, die das tiefere Eindringen des magnetischen Feldes verhindern, mit dem Ergebnis einer abstoßenden Kraft, Beispiel JR-Maglev.
+EDS ist bei geringen und mittleren Geschwindigkeiten weniger energieeffizient.
+Bei hohen Geschwindigkeiten führt schon die Bewegung eines gleichförmigen erregenden Feldes zu Wirbelströmen, was den Energieaufwand von EDS senkt, den von EMS steigen lässt.
+
+Beide Systeme können mit supraleitenden Spulen arbeiten und durch den Einsatz von Permanentmagneten energieeffizienter gestaltet werden.
+
+== Antriebsarten
+
+Als berührungsfreies Antriebsprinzip wird regelmäßig das des Linearmotors eingesetzt.
+Typischerweise werden auf einer Seite des Luftspalts Ströme induziert.
+Die andere, aktive Seite heißt in Analogie zu rotierenden Maschinen Stator.
+Dieser kann als Langstator im Fahrweg oder als Kurzstator im oder am Fahrzeug verbaut sein.
+
+Für die Bestromung eines Kurzstators sind ein Paar Stromschienen sowie eine induktive Übertragung oder ein Dieselaggregat notwendig und die Fahrzeuge sind schwerer.
+Dagegen ist die Langstator-Bauweise, falls nicht die Fahrzeugdichte auf der Strecke sehr hoch ist, in der Anschaffung teurer, selbst wenn der Langstator nur an Steigungen und Bahnhöfen für den maximalen Schub ausgelegt wird.
+
+== Bewertung
+
+=== Vorteile
+
+=== Nachteile
+
+== Geschichte
+
+=== Anfänge
+
+Im Jahr 1914 erregte der französische Erfinder Emile Bachelet in London Aufsehen.
+In einem Saal hatte er einen etwa einen Meter langen, bleistiftförmigen Hohlkörper aus Aluminium über einer langen Reihe von Wechselstrommagneten schweben lassen, vorwärts getrieben durch einzelne offene Spulen.
+Er wollte mit solch einem System zwischen London und Liverpool Briefe transportieren.
+
+=== Weimarer Republik und Deutsches Reich
+
+Hermann Kemper, der sich mit Techniken elektromagnetischer Schwebebahnen beschäftigte, hatte 1922 die Entwicklung der Magnetschwebebahn im Deutschen Reich begonnen.
+Für das elektromagnetische Schweben von Fahrzeugen wurde ihm an 14. August 1934 das Reichspatent 643316 erteilt.
+Zunächst war eine Versuchsbahn für höchste Geschwindigkeiten im Gespräch; dieses Projekt wurde jedoch wegen des Zweiten Weltkrieges nicht weiterverfolgt.
+
+=== Bundesrepublik Deutschland
+
+==== Erste Firmengründungen und erste Projekte
+
+==== Vorschriften und Planungen
+
+In Deutschland regelt die Magnetschwebebahn-Bau- und Betriebsordnung (MbBO) den Bau und Betrieb von öffentlichen Magnetschwebebahnen.
+Die entsprechenden Genehmigungsregularien sind im Allgemeinen Magnetschwebebahngesetz (AMbG) geregelt.
+Das Eisenbahn-Bundesamt ist Aufsichts- und Genehmigungsbehörde, wie auch bei der herkömmlichen Eisenbahn.
+Die Transrapid-Versuchsanlage im Emsland unterliegt dem Gesetz über den Bau und Betrieb von Versuchsanlagen zur Erprobung von Techniken für den spurgeführten Verkehr (SpurVerkErprG) von 1976.
+Aufsichtsbehörde hierfür ist die Niedersächsische Landesbehörde für Straßenbau und Verkehr (NLStBV).
+
+Als erste Langstreckenanwendung einer Magnetschwebebahn war nach der Wiedervereinigung eine Verbindung zwischen Hamburg und Berlin geplant.
+Nachdem die Planungen dafür eingestellt worden waren, sollte entweder das Rückgrat des ÖPNV in der Metropolregion Rhein-Ruhr als Metrorapid oder der Transrapid München als Flughafenzubringer in Magnetschwebetechnik gebaut werden.
+Auch diese Pläne wurden später wieder aufgegeben.
+Andere Langstreckenprojekte wie Hamburg-Bremen-Niederlande kamen bisher nicht über Ideenniveau hinaus.
+
+==== Transportsystem Bögl
+
+In Sengenthal in der Oberpfalz betreibt die Firma Max Bögl seit 2016 eine inzwischen 800 Meter lange Magnetschwebebahn-Versuchsstrecke neben der B299.
+Das Transportsystem Bögl (TSB) ist für Geschwindigkeiten bis 150 km/ h konzipiert.
+Im Gegensatz zum Transrapid umfasst der Fahrweg das Fahrzeug.
+In Chengdu (China) ist eine 3,5 Kilometer lange Teststrecke geplant.
+
+=== Schweiz
+
+Das SwissRapide-Konsortium plant und entwickelt eine Magnetschwebebahn für die Schweiz.
+Als Pionier unter den großen Infrastrukturprojekten wird es mehrheitlich oder gar vollständig durch private Investoren finanziert.
+Der SwissRapide Express soll langfristig das Gebiet zwischen Genf und St. Gallen erschließen sowie die Städte Luzern und Basel einbinden.
+Die ersten Projekte umfassen die Strecken Bern-Zürich, Lausanne-Genf und Zürich-Winterthur.
+Tendenziell als erstes realisiert wird die Strecke zwischen Lausanne und Genf.
+Der SwissRapide Express basiert auf der Transrapid-Magnetbahn-Technik, die in Shanghai seit 2004 im Einsatz ist (Transrapid Shanghai).
+
+Ein früheres, ambitiöses Zukunftsprojekt war Swissmetro, ein Stadtverbindungsnetz für die Schweiz.
+Die Swissmetro AG hatte die Vision, eine unterirdische Magnetschwebebahn in einer Teilvakuumröhre zu betreiben und damit die wichtigsten Schweizer Stadtzentren und Flughäfen zu verbinden.
+Zuerst wurde eine Strecke zwischen Lausanne und Genf ins Gespräch gebracht.
+Andere mögliche Strecken wären Basel-Zürich und Verlängerungen zu deren Flughäfen oder Genf-Lyon gewesen.
+Swissmetro ist an der Finanzierung gescheitert.
+
+=== Japan
+
+Seit 1962 laufen in Japan Forschungsarbeiten zu Magnetschwebebahnen.
+Mittlerweile sind zwei Systeme entwickelt worden:
+Der elektrodynamisch auf supraleitenden Magneten schwebende JR-Maglev bzw. Chuo-Shinkansen (Langstatorantrieb, Betriebshöchstgeschwindigkeit 500 km/h) und der elektromagnetisch schwebende HSST (Kurzstatorantrieb, Betriebshöchstgeschwindigkeit ca. 100 km/h).
+
+Mit dem Chuo-Shinkansen soll die Strecke Tokio-Nagoya-Osaka realisiert werden; die bereits bestehende 42,8 km lange Teststrecke in der Präfektur Yamanashi bildet ein Teilstück des im Bau befindlichen Abschnitts zwischen Tokio und Nagoya.
+
+Der HSST verkehrt seit März 2005 unter dem Namen Linimo auf einer neun Kilometer langen Nahverkehrslinie im Rahmen der Expo 2005 östlich von Nagoya und hat bis Juli 2005 zehn Millionen Passagiere befördert.
+
+=== China
+
+Anfang 2004 wurde der Regelbetrieb des Transrapid Shanghai als fahrplanmäßig schnellstes spurgebundenes Fahrzeug der Welt zur Anbindung des Flughafens Pudong aufgenommen.
+Es handelt sich um ein berührungsloses elektromagnetisches Schwebesystem (EMS) mit berührungslosem synchronen Langstator-Linearmotorantrieb.
+
+Ausgehend von dem Transrapid-Joint-Venture wurde 2002 offiziell mit der Entwicklung einer eigenen Magnetschwebebahn begonnen.
+Zu der Zeit war die Schnellfahrstrecke Guangzhou-Shenzhen-Hongkong noch in der Planungsphase, und seit einigen Jahren wurde eine Realisierung als Magnetschwebebahn diskutiert.
+Der Systemvergleich einer Kommission ergab jedoch 2003, dass nicht nur die Bauzeit länger und die Investitionskosten höher seien, sondern womöglich auch die Betriebs- und Unterhaltskosten.
+Damit wurde der Plan aufgegeben.
+
+2004 wurde, teilweise mit Langstatoren von der Pudong-Linie, am Jiading Campus der Tongji-Universität in Shanghai eine drei Kilometer lange Teststrecke gebaut und 2006 darauf ein Fahrzeug mit Permanentmagneten erprobt, ein für den Nahverkehr geeignetes Fahrzeug.
+Diese Entwicklung stellte keine Konkurrenz dar für das Transrapid-Konsortium, das sich damals noch Hoffnung machte, den Auftrag über rund 4 Mrd. Euro für die geplante Verlängerung der Strecke in Shanghai um 200 km nach Hangzhou zu erhalten.
+Aber 2008 scheiterte auch dieses Projekt an steigenden Kostenschätzungen, steigenden Geschwindigkeiten der konventionellen Züge und an steigendem Widerstand von Trassenanrainern, die sich vor Elektrosmog fürchteten.
+
+Seit 2016 verkehrt der Changsha Maglev Express zwischen der Stadt Changsha und ihrem Flughafen.
+
+Die dritte kommerzielle Transrapidstrecke in China wurde am 30. Dezember 2017 im Westen Pekings eröffnet, wo sie als S1 zwischen Jinanqiao und Shichang 7 Haltestellen mit maximal 105 km/h verbindet.
+
+=== Sowjetunion
+
+In den 1970er Jahren wurde in der Sowjetunion die Entwicklung einer Magnetschwebebahn vorangetrieben.
+Dabei setzte man auf einen Antrieb durch einen Linearmotor, während der Schwebezustand mit Permanentmagneten erreicht werden sollte.
+Der hauptsächliche Grund für den Einsatz von Permanentmagneten war, dass damit ein Schwebefeld ohne weitere Energiezufuhr erzeugt werden kann.
+Als mögliche Streckenführung war damals bereits ein Zubringer für die Moskauer Flughäfen im Gespräch und ebenso eine Alternative zur geplanten Metro in Alma-Ata in der Kasachischen SSR.
+Die bei den Fahrten mit einem bereits vollausgestatteten Prototypen -01 auf einer Versuchsstrecke von 200 Metern gewonnenen Erkenntnisse ließen die Konstrukteure allerdings an der Verwendbarkeit von Permanentmagneten zweifeln.
+
+In der Folge entschied man sich bei der Weiterentwicklung der Magnetschwebebahn für eine Konstruktion mit einem elektromagnetischem Schwebesystem.
+Der Antrieb sollte weiterhin mit einem Linearmotor erfolgen.
+Ein entsprechender Prototyp -05 mit 18 Sitzplätzen wurde seit Anfang der 80er Jahre entwickelt und gebaut.
+Die Kabine ist eine Aluminium-Konstruktion und besaß ursprünglich zwei Fahrstände.
+-05 wurde auf einer 850 Meter langen Versuchsstrecke getestet.
+Der Einsatz einer längeren Version mit 64 Sitzplätzen als Zubringer für den Flughafen Moskau-Scheremetjewo wurde bereits geplant, da beendete der Einbruch der sowjetischen Staatswirtschaft während der Perestroika abrupt das bereits sehr weit gediehene Projekt.
+
+Der Prototyp steht heute noch in Ramenskoje (Moskauer Oblast) auf dem Gelände der Firma   "", die die Entwicklung von Magnetschwebebahnen für Gütertransporte unter privatwirtschaftlichen Bedingungen weitergeführt hat.
+Realisiert wurde ein Gütertransportsystem mit einer Traglast von 30 Tonnen für Haus-Bauelemente in Rostow am Don.
+
+== Entwicklung der Geschwindigkeitsrekorde bei Versuchsfahrten
+
+== Entwicklung
+
+== Ausgeführte Anlagen
+
+=== Deutschland
+
+=== International
+
+== Sonstiges
+
+Infrastruktur und Triebwagen bedingen beim Antrieb einander, weshalb der Hersteller des Fahrzeugs üblicherweise auch die Infrastruktur bereitstellt.
+Dies kann einen Wettbewerb zwischen verschiedenen Fahrzeugherstellern auf der gleichen Infrastruktur erschweren.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

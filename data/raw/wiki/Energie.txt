@@ -1,0 +1,402 @@
+Energie ist eine fundamentale physikalische Größe, die in allen Teilgebieten der Physik sowie in der Technik, Chemie, Biologie und der Wirtschaft eine zentrale Rolle spielt.
+Ihre SI-Einheit ist das Joule.
+Die praktische Bedeutung der Energie liegt oft darin, dass ein physikalisches System in dem Maß Wärme abgeben, Arbeit leisten oder Strahlung aussenden kann, in dem seine Energie sich verringert.
+In einem gegenüber der Umgebung abgeschlossenen System ändert sich die Gesamtenergie nicht (Energieerhaltungssatz).
+Die Bedeutung der Energie in der theoretischen Physik liegt unter anderem darin, dass der Energieerhaltungssatz, ursprünglich eine Erfahrungstatsache, schon daraus gefolgert werden kann, dass die grundlegenden physikalischen Naturgesetze zeitlich unveränderlich sind.
+
+Energie gibt es in verschiedenen Energieformen, die ineinander umgewandelt werden können.
+Beispiele von Energieformen sind potentielle, kinetische, elektrische, chemische und Wärmeenergie (thermische Energie).
+Beispiele für solche Umwandlungen von Energie sind, dass ein Mensch ein Paket hochhebt oder ein Fahrrad beschleunigt, dass eine Batterie geladen wird, ein Lebewesen Stoffwechsel betreibt oder eine Heizung Wärme abgibt.
+
+Die Energie eines Systems ist von seinem Zustand abhängig, d. h. von den Parametern des Systems und den momentanen Werten seiner Variablen.
+Die Form dieser Abhängigkeit bestimmt nach den hamiltonschen Bewegungsgleichungen, der Schrödingergleichung oder der Dirac-Gleichung in allen Einzelheiten die zeitliche Entwicklung des Systems.
+
+Gemäß der Relativitätstheorie sind Ruheenergie und Masse durch die Äquivalenz von Masse und Energie ( E = m c 2 {\displaystyle E=mc^{2}} ) verknüpft.
+
+== Geschichte des Begriffs
+
+Das Wort Energie geht auf altgriechisch va, energeia zurück, das in der griechischen Antike eine rein philosophische Bedeutung im Sinne von "lebendiger Wirklichkeit und Wirksamkeit" hatte (siehe auch "Akt und Potenz").
+Als naturwissenschaftlicher Begriff wurde das Wort selbst erst 1807 von dem Physiker Thomas Young in die Mechanik eingeführt.
+Die neue Größe Energie sollte die Stärke ganz bestimmter Wirkungen angeben, die ein bewegter Körper durch seine Bewegung hervorrufen kann, und die sich nicht allein durch seinen Impuls m v {\displaystyle mv} ("Masse mal Geschwindigkeit") bestimmen lassen.
+Über den Impuls war seit den Untersuchungen des Stoßes zweier Körper durch Christiaan Huygens, Christopher Wren und John Wallis um das Jahr 1668 herum bekannt, dass er bei elastischen wie bei unelastischen Körpern erhalten bleibt, also das richtige Maß für die verursachten Veränderungen und damit für die unzerstörbare "Größe der Bewegung" ist.
+Bei anderen Vorgängen aber verursachen Körper verschiedener Masse, auch wenn sie gleichen Impuls haben, verschieden große Wirkungen.
+Dazu gehört etwa die Höhe, die ein Körper in Aufwärtsbewegung erreicht, oder die Tiefe des Lochs, das er beim Aufprall in eine weiche Masse schlägt.
+Hierbei nimmt die Wirkung nicht mit der Geschwindigkeit proportional zu, wie der Impuls, sondern mit dem Quadrat der Geschwindigkeit.
+Daher bezeichnete Gottfried Wilhelm Leibniz 1686 die Größe m v 2 {\displaystyle mv^{2 } } als das wahre Maß für die Größe der Bewegung und nannte sie vis viva ("lebendige Kraft").
+Dieser Name folgte dem damaligen Sprachgebrauch, in dem ein Körper nur durch die ihm innewohnenden Kräfte Wirkungen verursachen konnte.
+Der Name lebendige Kraft hat aber durch "Verwechslung mit dem Newtonschen Kraftbegriff eine unheilvolle Verwirrung der Ideen und eine zahllose Schar von Missverständnissen hervorgerufen" (so Max Planck 1887 in seiner preisgekrönten Darstellung der Geschichte des Energieerhaltungssatzes.) Leibniz argumentierte wie folgt:
+
+Ein Gewicht von m {\displaystyle m} auf die Höhe 4 h {\displaystyle 4h} zu heben erfordert genauso viel Arbeit wie ein Gewicht 4 m {\displaystyle 4m} auf die Höhe h {\displaystyle h} zu heben (Hebelgesetz).
+Nach Galileo Galilei ist im freien Fall v  h { \displaystyle v\sim {\sqrt {h} }} , also ist die Endgeschwindigkeit im ersten Fall doppelt so hoch wie im zweiten Fall.
+Setzt man für die innewohnende (lebendige) Kraft an m f ( v ) {\displaystyle m\,f(v)} , mit der man diese Arbeit (latente Form der lebendigen Kraft) messen will, so ist bei Erhaltung der lebendigen Kraft m f ( 2 v ) = 4 m f ( v ) {\displaystyle m\,f(2v)=4\,m\,f(v)} , das heißt f ( v ) = v 2 {\displaystyle f(v)=v^{2} } und nicht f  v {\displaystyle f\sim v} wie die Anhänger von Descartes meinten.
+
+Den korrekten Vorfaktor 1 2 {\displaystyle {\frac {1}{2}}} in der kinetischen Energie leitete schon Daniel Bernoulli 1726 ab.
+Bei ihm wie bei anderen analytischen Mechanikern des 18. Jahrhunderts wie Leonhard Euler (z. B. Behandlung der elastischen Deformation), Joseph Louis Lagrange (Mecanique Analytique 1788) finden sich auch Vorläufer des Konzepts der potentiellen Energie (der Term Potentialfunktion stammt von George Green 1828 und unabhängig wurde sie von Carl Friedrich Gauß 1840 eingeführt, war aber als Potential schon Lagrange und Laplace bekannt).
+Das Konzept war schon Leibniz (in seiner Ableitung von m v 2 {\displaystyle mv^{2}} ) und Johann I Bernoulli bekannt, der als erster 1735 das Prinzip der Erhaltung der lebendigen Kräfte formulierte (die Vorstellung hatte aber auch Leibniz zum Beispiel im 5. Brief an Samuel Clarke), das insbesondere vom Leibniz-Schüler Christian Wolff verbreitet wurde.
+Von potentieller Energie sprach man damals als der latenten Form der lebendigen Kraft, die sich zum Beispiel beim inelastischen Stoß auf kleinere Teilchen des Körpers verteile.
+
+Um die genannten Wirkungen der Bewegung des Körpers vorhersagen zu können, definierte Young die Größe Energie als die Fähigkeit des Körpers, gegen eine widerstehende Kraft eine gewisse Strecke zurückzulegen.
+Er bemerkte auch, dass Arbeit, die in Form von Hubarbeit an einem Körper geleistet wird, sich später quantitativ in dessen Energie wiederfindet, kam aber noch nicht auf den Begriff der Umwandlung verschiedener Energieformen und behielt auch die Formel m v 2 {\displaystyle \textstyle mv^{2}} von Leibniz bei und war im Großen und Ganzen noch ein Anhänger des Cartesianischen Standpunkts der Kräfte.
+
+Im 18. Jahrhundert war man in der Mechanik und Physik an der Energie nicht sonderlich interessiert, wichtige Forscher wie Euler sahen den Streit um die Vis Viva, das wahre Kraftmaß, als Angelegenheit der Philosophen und man befasste sich mit der Lösung der Bewegungsgleichungen vor allem in der Himmelsmechanik.
+Der Energiebegriff im heutigen Sinn fand seinen Ursprung nicht bei den analytischen Mechanikern des 18. Jahrhunderts, sondern bei den angewandten Mathematikern der französischen Schule, darunter Lazare Carnot, der schrieb, dass die lebendige Kraft sich entweder als m v 2 {\displaystyle mv^{2 } } oder Kraft mal Weg (als latente lebendige Kraft) manifestieren kann.
+Eine quantitative Definition der Arbeit ("Kraft mal Weg", bzw.  F = * d s = {\displaystyle \textstyle \int {\vec {F}}\cdot d{\vec {s} }} ) wurde auch 1829 gleichzeitig von Coriolis und Poncelet gegeben, offenbar unabhängig voneinander und auch von Young.
+Coriolis fand dabei auch den richtigen Ausdruck 1 2 m v 2 {\displaystyle {\tfrac {1}{2}}mv^{2}} für die Bewegungsenergie, die 1853 von Rankine erstmals kinetische Energie genannt wurde.
+
+Im Zusammenhang mit der Dampfmaschine entwickelte sich die Vorstellung, dass Wärmeenergie bei vielen Prozessen die Ursache für eine bewegende Energie, oder mechanische Arbeit ist.
+Ausgangspunkt war, dass Wasser durch Hitze in den gasförmigen Zustand überführt wird und die Gasausdehnung genutzt wird, um einen Kolben in einem Zylinder zu bewegen.
+Durch die Kraftbewegung des Kolbens vermindert sich die gespeicherte Wärmeenergie des Wasserdampfes.
+Demonstriert wurde der Zusammenhang von mechanischer Energie und Wärme in berühmt gewordenen Experimenten von Benjamin Thompson (Graf Rumford, München 1796, 1798) und Humphry Davy (1799).
+
+Der Physiker Nicolas Carnot erkannte, dass beim Verrichten von mechanischer Arbeit eine Volumenänderung des Dampfs nötig ist.
+Außerdem fand er heraus, dass die Abkühlung des heißen Wassers in der Dampfmaschine nicht nur durch Wärmeleitung erfolgt.
+Diese Erkenntnisse veröffentlichte Carnot 1824 in einer viel beachteten Schrift über das Funktionsprinzip der Dampfmaschine.
+Emile Clapeyron brachte 1834 Carnots Erkenntnisse in eine mathematische Form und entwickelte die noch heute verwendete graphische Darstellung des Carnot-Kreisprozesses.
+
+1841 veröffentlichte der deutsche Arzt Julius Robert Mayer seine Idee, dass Energie weder erschaffen noch vernichtet, sondern nur umgewandelt werden kann.
+Er schrieb an einen Freund: "Meine Behauptung ist ...: Fallkraft, Bewegung, Wärme, Licht, Elektrizität und chemische Differenz der Ponderabilien sind ein und dasselbe Objekt in verschiedenen Erscheinungsformen." Die Wärmemenge, die bei einer Dampfmaschine verloren gegangen ist, entspräche genau der mechanischen Arbeit, die die Maschine leistet.
+Dies ist heute bekannt als "Energieerhaltung", oder auch "Erster Hauptsatz der Thermodynamik".
+
+Der Physiker Rudolf Clausius verbesserte im Jahr 1854 die Vorstellungen über die Energieumwandlung.
+Er zeigte, dass nur ein Teil der Wärmeenergie in mechanische Arbeit umgewandelt werden kann.
+Ein Körper, bei dem die Temperatur konstant bleibt, kann keine mechanische Arbeit leisten.
+Clausius entwickelte den zweiten Hauptsatz der Thermodynamik und führte den Begriff der Entropie ein.
+Nach dem zweiten Hauptsatz ist es unmöglich, dass Wärme eigenständig von einem kälteren auf einen wärmeren Körper übergeht.
+
+Hermann von Helmholtz formulierte im Jahr 1847 das Prinzip "über die Erhaltung der Kraft" und der Unmöglichkeit eines Perpetuum mobiles (perpetuus, lat. ewig; mobilis, lat.: beweglich) 1. Art.
+Viele Erfinder wollten damals noch Maschinen herstellen, die mehr Energie erzeugten als hineingesteckt wurde.
+Helmholtz fand seine Erkenntnisse durch Arbeiten mit elektrischer Energie aus galvanischen Elementen, insbesondere einer Zink/Brom-Zelle.
+In späteren Jahren verknüpfte er die Entropie und die Wärmeentwicklung einer chemischen Umwandlung zur freien Energie.
+Sowohl Mayer als auch Helmholtz hatten aber in den 1840er Jahren Schwierigkeiten, ihre Erkenntnisse zu veröffentlichen, da beide zunächst als fachfremde Außenseiter galten und die Physiker in Deutschland in einer Abwehrhaltung gegen die seit Ende des 18. Jahrhunderts einflussreiche Naturphilosophie des Kreises um Schelling waren und man beide verdächtigte, Anhänger dieser spekulativen Physik zu sein.
+
+Josiah Gibbs kam im Jahr 1878 zu ähnlichen Erkenntnissen wie Helmholtz bei elektrochemischen Zellen.
+Chemische Reaktionen laufen nur ab, wenn die Freie Energie abnimmt.
+Mittels der freien Energie lässt sich voraussagen, ob eine chemische Stoffumwandlung überhaupt möglich ist oder wie sich das chemische Gleichgewicht einer Reaktion bei einer Temperaturänderung verhält.
+
+Nachdem schon Wilhelm Wien (1900), Max Abraham (1902), und Hendrik Lorentz (1904) Überlegungen zur elektromagnetischen Masse publiziert hatten veröffentlichte Albert Einstein im Rahmen seiner speziellen Relativitätstheorie 1905 die Erkenntnis, dass Masse und Energie äquivalent sind.
+
+== Energieformen und Energieumwandlung
+
+Energie kann in einem System auf unterschiedliche Weise enthalten sein.
+Diese Möglichkeiten werden Energieformen genannt.
+Beispiele für Energieformen sind die kinetische Energie, die chemische Energie, die elektrische Energie oder die potentielle Energie.
+Verschiedene Energieformen können ineinander umgewandelt werden, wobei die Summe der Energiemengen über die verschiedenen Energieformen vor und nach der Energieumwandlung stets die gleiche ist.
+
+Eine Umwandlung kann nur so erfolgen, dass auch alle anderen Erhaltungsgrößen des Systems vor und nach der Umwandlung den gleichen Wert besitzen.
+Beispielsweise wird die Umwandlung kinetischer Energie durch die Erhaltung des Impuls und des Drehimpuls des Systems eingeschränkt.
+Ein Kreisel kann nur dann abgebremst werden und damit Energie verlieren, wenn er gleichzeitig Drehimpuls abgibt.
+Auch auf molekularer Ebene gibt es solche Einschränkungen.
+Viele chemische Reaktionen, die energetisch möglich wären, laufen nicht spontan ab, weil sie die Impulserhaltung verletzen würden.
+Weitere Erhaltungsgrößen sind die Zahl der Baryonen und die Zahl der Leptonen.
+Sie schränken die Umwandlung von Energie durch Kernreaktionen ein.
+Die Energie, die in der Masse von Materie steckt, lässt sich nur mit einer gleich großen Menge von Antimaterie vollständig in eine andere Energieform umwandeln.
+Ohne Antimaterie gelingt die Umwandlung mit Hilfe von Kernspaltung oder Kernfusion nur zu einem kleinen Teil.
+
+Die Thermodynamik gibt mit dem zweiten Hauptsatz der Thermodynamik eine weitere Bedingung für eine Umwandlung vor:
+Die Entropie eines abgeschlossenen Systems kann nicht abnehmen.
+Entnahme von Wärme, ohne dass parallel andere Prozesse ablaufen, bedeutet eine Abkühlung.
+Eine niedrigere Temperatur entspricht jedoch einer verminderten Entropie und steht damit im Widerspruch zum zweiten Hauptsatz.
+Um dennoch Wärme in eine andere Energieform umzuwandeln, muss im Gegenzug zur Abkühlung ein anderer Teil des Systems erwärmt werden.
+Die Umwandlung von thermischer Energie in andere Energieformen setzt daher immer eine Temperaturdifferenz voraus.
+Außerdem kann nicht die gesamte in der Temperaturdifferenz gespeicherte Wärmemenge umgesetzt werden.
+Wärmekraftmaschinen dienen dazu, Wärme in mechanische Energie umzuwandeln.
+Das Verhältnis der durch den zweiten Hauptsatz gegebenen maximal möglichen Arbeit zur verbrauchten Wärmemenge wird Carnot-Wirkungsgrad genannt.
+Er ist umso größer, je größer die Temperaturdifferenz ist, mit der die Wärmekraftmaschine arbeitet.
+
+Andere Umwandlungen sind nicht so stark von den Einschränkungen durch Erhaltungssätze und Thermodynamik betroffen.
+So lässt sich elektrische Energie mit wenig technischem Aufwand nahezu vollständig in viele andere Energieformen überführen.
+Elektromotoren wandeln sie beispielsweise in kinetische Energie um.
+
+Die meisten Umwandlungen erfolgen nicht vollständig in eine einzige Energieform, sondern es wird ein Teil der Energie in Wärme gewandelt.
+In mechanischen Anwendungen wird die Wärme meist durch Reibung erzeugt.
+Bei elektrischen Anwendungen sind häufig der elektrische Widerstand oder Wirbelströme die Ursache für die Erzeugung von Wärme.
+Diese Wärme wird in der Regel nicht genutzt und als Verlust bezeichnet.
+Im Zusammenhang mit elektrischem Strom kann auch die Abstrahlung elektromagnetischer Wellen als unerwünschter Verlust auftreten.
+Das Verhältnis zwischen erfolgreich umgewandelter Energie und eingesetzter Energie wird Wirkungsgrad genannt.
+
+Bei technischen Anwendungen wird häufig eine Reihe von Energieumwandlungen gekoppelt.
+In einem Kohlekraftwerk wird zunächst die chemische Energie der Kohle durch Verbrennung in Wärme umgesetzt und auf Wasserdampf übertragen.
+Turbinen wandeln die Wärme des Dampfs in mechanische Energie um und treiben wiederum Generatoren an, die die mechanische Energie in elektrische Energie umwandeln.
+
+== Energie in der klassischen Mechanik
+
+In der klassischen Mechanik ist die Energie eines Systems seine Fähigkeit, Arbeit zu leisten.
+Die Arbeit wandelt Energie zwischen verschiedenen Energieformen um.
+Die spezielle Form der newtonschen Gesetze gewährleistet, dass sich dabei die Summe aller Energien nicht ändert.
+Reibung und die mit ihr einhergehenden Energieverluste sind in dieser Betrachtung nicht berücksichtigt.
+
+Das Noether-Theorem erlaubt eine allgemeinere Definition der Energie, die den Aspekt der Energieerhaltung automatisch berücksichtigt.
+Alle Naturgesetze der klassischen Mechanik sind invariant in Bezug auf Verschiebungen in der Zeit.
+Sie zeichnen sich dadurch aus, dass sie zu allen Zeiten unverändert in der gleichen Form gelten.
+Das Noether-Theorem besagt nun, dass es zu dieser Symmetrie in Bezug auf Verschiebung in der Zeit eine physikalische Größe gibt, deren Wert sich nicht mit der Zeit verändert.
+Diese Größe ist die Energie.
+
+Aus dem Energieerhaltungssatz und unvermeidlichen Energieverlusten durch Reibung folgt, dass es unmöglich ist, eine mechanische Maschine zu bauen, die von sich aus beliebig lange läuft (Perpetuum Mobile).
+Außerdem erlaubt die Energieerhaltung zusammen mit der Impulserhaltung Aussagen über das Ergebnis von Stößen zwischen Objekten, ohne dass der genaue Mechanismus beim Stoß bekannt sein muss.
+
+=== Energie und Bewegung
+
+Die kinetische Energie E k i n {\displaystyle E_{\mathrm {kin} } } ist diejenige Energie, die dem Bewegungszustand eines Körpers innewohnt.
+Sie ist proportional zur Masse m {\displaystyle m} und zum Quadrat der Geschwindigkeit v {\displaystyle v} relativ zu dem Inertialsystem, in dem man den Körper beschreibt.
+
+Der Betrag der kinetischen Energie ist also von dem Standpunkt abhängig, von dem aus man das System beschreibt.
+Häufig verwendet man ein Inertialsystem, das in Bezug auf den Erdboden ruht.
+
+Ein ausgedehnter Körper kann neben einer Translationsbewegung auch eine Drehbewegung durchführen.
+Die kinetische Energie, die in der Drehbewegung steckt, nennt man Rotationsenergie.
+Diese ist proportional zum Quadrat der Winkelgeschwindigkeit und zum Trägheitsmoment des Körpers.
+
+=== Energie und Potential
+
+Potentielle Energie, auch Lageenergie genannt, kommt einem Körper durch seine Lage in einem Kraftfeld zu, sofern es sich um eine konservative Kraft handelt.
+Dies könnte beispielsweise das Erdschwerefeld oder das Kraftfeld einer Feder sein.
+Die potentielle Energie nimmt in Kraftrichtung ab und entgegen der Kraftrichtung zu, senkrecht zur Kraftrichtung ist sie konstant.
+Bewegt sich der Körper von einem Punkt, an dem er eine hohe potentielle Energie hat, zu einem Punkt, an dem diese geringer ist, leistet er genau so viel physikalische Arbeit, wie sich seine potentielle Energie vermindert hat.
+Diese Aussage gilt unabhängig davon, auf welchem Weg der Körper vom einen zum anderen Punkt gelangt ist.
+
+Die potentielle Energie eines Körpers mit der Masse m {\displaystyle m} in einem homogenen Gravitationsfeld mit Gravitationsbeschleunigung g {\displaystyle g} ist proportional zur Höhe h {\displaystyle h } über dem Ursprung des Koordinatensystems:
+
+Beim freien Fall wird diese potentielle Energie in kinetische Energie umgewandelt, indem der Körper beschleunigt wird.
+
+Da der Koordinatenursprung beliebig gewählt werden kann, ist die Lageenergie des Körpers niemals absolut gegeben und auch nicht messbar.
+Messbar sind nur ihre Änderungen.
+
+Bei periodischen Bewegungen wird regelmäßig potentielle in kinetische Energie und wieder zurück in potentielle Energie verwandelt.
+Beim Pendel ist beispielsweise an den Umkehrpunkten die potentielle Energie maximal; die kinetische Energie ist hier null.
+Wenn der Faden gerade senkrecht hängt, erreicht die Masse ihre maximale Geschwindigkeit und damit auch ihre maximale kinetische Energie; die potentielle Energie hat hier ein Minimum.
+Ein Planet hat bei seinem sonnenfernsten Punkt zwar die höchste potentielle, aber auch die geringste kinetische Energie.
+Bis zum sonnennächsten Punkt erhöht sich seine Bahngeschwindigkeit gerade so sehr, dass die Zunahme der kinetischen Energie die Abnahme der potentiellen Energie genau kompensiert.
+
+Elastische Energie ist die potentielle Energie der aus ihrer Ruhelage verschobenen Atome oder Moleküle in einem elastisch deformierten Körper, beispielsweise einer mechanischen Feder.
+Allgemein bezeichnet man die Energie, die bei der elastischen oder plastischen Verformung in dem Körper gespeichert (oder freigesetzt) wird, als Deformationsenergie.
+
+== Energie in der Thermodynamik
+
+Thermische Energie ist die Energie, die in der ungeordneten Bewegung der Atome oder Moleküle eines Stoffes gespeichert ist.
+Sie wird umgangssprachlich auch als "Wärmeenergie" oder "Wärmeinhalt" bezeichnet.
+Die Umwandlung thermischer Energie in andere Energieformen wird durch die Thermodynamik beschrieben.
+Hier wird zwischen der im System enthaltenen Energie (innere Energie, Enthalpie) und der Wärme, der über die Systemgrenze transportierten thermischen Energie, unterschieden.
+
+Die Summe aus thermischer Energie, Schwingungsenergie im Körper und Bindungsenergie bezeichnet man als Innere Energie.
+Dabei wird in manchem Quellen auch zwischen der thermischen inneren Energie, der chemischen inneren Energie und der Kernenergie als innerer Energie unterschieden, was aber den Rahmen der Thermodynamik verlässt.
+
+=== Umwandlung thermischer Energie in mechanische Arbeit
+
+Während alle Energieformen unter gewissen Bedingungen (siehe #Energieformen und Energieumwandlung) vollständig in thermische Energie umgewandelt werden können (erster Hauptsatz der Thermodynamik), gilt das in umgekehrter Richtung nicht.
+Der zweite Hauptsatz der Thermodynamik beschreibt hier eine ganz wesentliche Einschränkung (Bild 1).
+Abhängig von der Temperatur, bei der die Wärme zur Verfügung steht, lässt sich nur ein mehr oder weniger großer Anteil über einen Kreisprozess in mechanische Arbeit umwandeln, während der Rest an die Umgebung abgegeben wird.
+In der technischen Thermodynamik werden die umwandelbaren Anteile einer Energieform auch als Exergie bezeichnet.
+Die Exergie ist keine Zustandsgröße im eigentlichen Sinne, denn sie hängt nicht nur vom Zustand des Systems ab, sondern auch vom Zustand der Umgebung, der im Einzelfall gegeben ist, im Allgemeinen angenommen werden muss.
+Dann lässt sich anhand von Exergie-Flussbildern einer Energie-Wandlungskette verfolgen, wo vermeidbare Verluste (Reibung oder andere dissipative Vorgänge) zu verzeichnen sind.
+In Bild 2 erkennt man, dass bei der Umwandlung von chemischer Energie (100 % Exergie) in Wärme bei einer mittleren Temperatur von 1000 °C der Exergie-Anteil nur noch 80 % beträgt.
+Wird diese Energie als Wärme in einem Dampfkessel auf Wasserdampf mit 273 °C übertragen, so verbleiben nur noch ca. 50 % und bei der Übertragung in einen mit 20 °C beheizten Raum nur noch etwa 7 %.
+Dabei wurde stets eine Umgebungstemperatur von 0 °C angenommen.
+
+=== Berechnung der maximalen Arbeit (Exergie)
+
+Bei der Berechnung des exergetischen Anteils von thermischer Energie ist zu berücksichtigen, ob die Wärmequelle eine konstante Temperatur besitzt, wie das in einem Siedewasser-Reaktor bei circa 270 °C der Fall ist, oder ob die Wärmeabgabe aus einem sich abkühlenden Medium, Rauchgas, erfolgt.
+Im ersten Fall kann der exergetische Anteil über den Carnot-Wirkungsgrad aus der oberen Prozess-Temperatur und der Umgebungstemperatur bestimmt werden, andernfalls erhält man die Wärme und die Exergie aus dem Flächenintegral, das aus dem T-S-Diagramm in Bild 3 und aus dem T-s-Diagramm in Bild 4 erkennbar ist.
+Die Formel lautet:
+
+Die Beziehung kann auch direkt aus den Diagrammen abgelesen werden.
+Hierbei sind: T die absolute Temperatur in K, S die Entropie in J/K, H die Enthalpie in J, Index 1: Ausgangszustand, Index U: Umgebungszustand.
+
+Die Enthalpie-Differenz ist im Wesentlichen (in diesem Falle) die aus dem Brennstoff der Verbrennungsluft als Wärme zugeführte Energie.
+Sie erscheint als Fläche unter der Kurve der isobaren Wärmezufuhr.
+Der exergetische Anteil liegt oberhalb der Umgebungstemperatur, der andere nicht verwertbare Anteil, der "Anergie" genannt wird, unterhalb dieser Linie.
+Bei der Abnahme der Exergie in einer Energie-Umwandlungskette spricht man auch von einer Energieentwertung.
+
+Bei der Übertragung der Wärme aus dem Rauchgas auf das Arbeitsmedium, das Wasser, das dabei verdampft und überhitzt wird, entsteht ein weiterer Exergieverlust.
+Die maximale aus dem Dampfmassenstrom gewinnbare mechanische Leistung darf für einen Prozess mit Heißdampf von beispielsweise 16 bar und 350 °C keinesfalls über den Carnot-Wirkungsgrad mit dieser Temperatur berechnet werden.
+Das Ergebnis mit einem Wirkungsgrad von 52 % wäre falsch.
+Es würde dem zweiten Hauptsatz widersprechen, da die mittlere Temperatur der Wärmezufuhr in den Wasser-Dampf-Kreislauf niedriger ist.
+Erfolgt keine interne Wärmeübertragung (regenerative Speisewasservorwärmung) aus kondensierendem Dampf auf das Speisewasser, wie bei Dampfmaschinen, bei denen im theoretisch günstigsten Fall der Dampf reversibel auf Wasser mit Umgebungszustand gebracht werden kann, so erreicht man bei 15 °C Umgebungstemperatur nur einen maximalen Wirkungsgrad von 34,4 %.
+Der reversibel geführte Clausius-Rankine-Prozess in Bild 4 mit einem Dampfdruck von 32 bar und Kondensation bei 24 °C erreicht dagegen 37,2 %.
+Die realen Prozesse erreichen bei diesen Dampfparametern nur weitaus niedrigere Wirkungsgrade.
+
+=== Energie- und Exergie-Flussbild der Stromerzeugung
+
+In Bild 5 ist ein vereinfachtes Energieflussbild der Stromerzeugung durch ein großes Dampfkraftwerk (Frischdampfzustand 260 bar, 545 °C, Speisewasservorwärmung auf 276 °C) mit der Verteilung bis zum Endverbraucher einem entsprechenden Exergieflussbild gegenübergestellt.
+Man erkennt daraus, dass ein wesentlicher Teil der Energieentwertung nicht im Kondensator oder im nachgeschalteten Kühlturm des Kraftwerkes erfolgt, wo die Abwärme abgeführt wird, sondern bei der Umwandlung der chemischen Energie des Brennstoffes in thermische Energie (Verbrennung) und bei der Wärmeübertragung vom Rauchgas auf den Wasserdampf.
+Die Zahlenwerte für die Stromverteilung sind Anhaltswerte, sie können im Einzelfall geringfügig abweichen.
+
+=== Sonnenenergie
+
+Auch die Sonnenenergie, die durch Strahlung auf die Erde gelangt, erfährt auf dem Weg bis zur Erdoberfläche einen Exergieverlust.
+Während die innere Energie der Sonne bei rund 15 Millionen K noch praktisch aus reiner Exergie besteht, strahlt die Sonne mit einer Oberflächentemperatur von rund 6000 K auf die Erdoberfläche, deren Temperatur mit ca. 300 K anzusetzen ist.
+Durch Konzentration der Sonnenstrahlen in einem Kollektor käme man also - auch im Hochgebirge, wo die Absorption durch die Erdatmosphäre kaum eine Rolle spielt - über die Temperatur der Sonnenoberfläche nicht hinaus.
+Es ergäbe sich über den Carnot-Faktor ein Wirkungsgrad von ca. 95 %.
+Dann würde allerdings keine Energie mehr übertragen.
+Das thermodynamische Limit liegt darunter bei einer Absorbertemperatur von 2500 K mit einem Wirkungsgrad von ca. 85 %.
+In der Praxis kommen dissipative Verluste hinzu, angefangen von der Absorption in der Atmosphäre, über die Materialeigenschaften der kristallinen Zellen bis zum ohmschen Widerstand der Fotovoltaikanlagen, sodass bis heute nur Wirkungsgrade von weniger als 20 % erreicht werden können.
+Der höchste derzeit erreichte Wirkungsgrad ist 18,7 %.
+
+=== Kraft-Wärme-Kopplung (KWK)
+
+Zum Heizen wird meist Wärme mit nur einem geringen Exergieanteil benötigt.
+Deshalb ist das Heizen mit elektrischem Strom über eine Widerstandsheizung "Energieverschwendung".
+Überall dort, wo mechanische Energie oder Strom aus Wärme erzeugt wird und gleichzeitig Wärmebedarf existiert, ist die Nutzung der Abwärme zum Heizen sinnvoller als die getrennte Bereitstellung von Wärme.
+In einem Heizkraftwerk wird, wenn es mit Dampf betrieben wird, Dampf aus der Turbine entnommen, dessen Temperatur gerade noch ausreichend hoch ist, um die Kondensationswärme über ein Fernwärmenetz zum Verbraucher zu leiten.
+Alternativ wird auch in Blockheizkraftwerken (BHKW) die Abwärme von stationären Verbrennungsmotoren genutzt.
+Auch die Wärmepumpe ist hier zu nennen.
+Sie wendet Arbeit auf, um Wärme (Energie) aus der Umgebung aufzunehmen und zusammen mit der Antriebsarbeit als Heizwärme bei entsprechend hoher Temperatur abzugeben.
+Wenn Grundwasser mit 10 °C als Wärmequelle zur Verfügung steht und ein Raum mit 20 °C zu beheizen ist, könnte eine Wärmepumpe mit Carnot-Prozess durch Einsatz von einer Kilowattstunde Antriebsarbeit 29 kWh Wärme liefern (Arbeitszahl =29).
+Reale Wärmepumpen, die mit wechselweise verdampfenden und kondensierenden Kältemitteln bei unterschiedlichen Drücken betrieben werden, erreichen Arbeitszahlen von ca. 3 bis 5.
+
+== Chemische Energie
+
+Als chemische Energie wird die Energieform bezeichnet, die in Form einer chemischen Verbindung in einem Energieträger gespeichert ist und bei chemischen Reaktionen freigesetzt werden kann.
+Sie beschreibt also die Energie, die mit elektrischen Kräften in Atomen und Molekülen verbunden ist und kann unterteilt werden in einerseits kinetischer Energie der Elektronen in den Atomen und andererseits der elektrischen Energie der Wechselwirkung von Elektronen und Protonen.
+
+Sie wird bei exothermen Reaktionen frei und muss für endotherme Reaktionen hinzugefügt werden.
+
+== Energie in der Elektrodynamik
+
+In einem elektrischen Feld kann, sofern kein zeitlich veränderliches Magnetfeld vorliegt, ein elektrisches Potential definiert werden.
+Ein Ladungsträger besitzt dann eine potentielle elektrische (elektrostatische) Energie, die proportional zum Potential und zu seiner Ladungsmenge ist.
+Da der Nullpunkt des Potentials frei festgelegt werden kann, ist auch die Energie nicht absolut definiert.
+Für zwei Punkte im Potentialfeld ist aber die Differenz der Energien unabhängig von der Wahl des Potentialnullpunktes.
+Potentialdifferenzen entsprechen in der Elektrotechnik Spannungen; als Nullpunkt der Potentialskala wird üblicherweise das Potential der Erde gewählt.
+
+Für Anordnungen zweier elektrischer Leiter ist die elektrostatische Energie proportional zum Quadrat der Differenz der elektrischen Potentiale der beiden Leiter.
+Das Doppelte der Proportionalitätskonstante nennt man elektrische Kapazität.
+Kondensatoren sind elektrotechnische Bauelemente, die hohe Kapazität besitzen und daher Energie speichern können.
+
+Gleichwertig mit der Sichtweise, dass die elektrostatische Energie von Ladungen getragen wird, ist die Interpretation, dass sich die Energie auf den leeren Raum zwischen den Ladungen verteilt.
+Die Energiedichte, also die Energie pro Volumenelement, ist bei dieser Betrachtungsweise proportional zum Quadrat der elektrischen Feldstärke.
+Befindet sich in dem elektrischen Feld ein Dielektrikum, so ist die Energie außerdem proportional zur Dielektrizitätskonstante.
+
+Bewegt sich eine Ladung im Vakuum zu einem Ort, an dem ein geringeres elektrisches Potential herrscht, erhöht sich die kinetische Energie der Ladung gerade so viel, wie die potentielle Energie geringer wird.
+Dies geschieht beispielsweise mit Elektronen in einer Elektronenröhre, in einer Röntgenröhre oder in einem Kathodenstrahlröhrenbildschirm.
+Bewegt sich eine Ladung dagegen entlang eines Potentialgefälles in einem Leiter, gibt sie ihre aufgenommene Energie sofort in Form von Wärme an das Leitermedium ab.
+Die Leistung ist dabei proportional zum Potentialgefälle und zur Stromstärke.
+
+Elektrische Energie kann transportiert werden, indem sich Ladungsträger ohne nennenswertes Potentialgefälle entlang von Leitern bewegen.
+Dies ist beispielsweise in Freileitungen oder in Stromkabeln der Fall, mit deren Hilfe elektrische Energie vom Kraftwerk bis zum Verbraucher fließt.
+
+Magnetische Energie ist in magnetischen Feldern wie im supraleitenden magnetischen Energiespeicher enthalten.
+
+In einem idealen elektrischen Schwingkreis gespeicherte Energie wandelt sich fortlaufend zwischen der elektrischen Form und der magnetischen Form.
+Zu jedem Zeitpunkt ist die Summe der Teilenergien gleich (Energieerhaltung).
+Hierbei hat der reine magnetische respektive elektrische Anteil der Energie die doppelte Frequenz der elektrischen Schwingung.
+
+== Energie in der Relativitätstheorie
+
+Nach der speziellen Relativitätstheorie entspricht der Masse m {\displaystyle m} eines ruhenden Objekts eine Ruheenergie von
+
+Die Ruheenergie ist somit bis auf den Faktor c 2 {\displaystyle c^{2}} (Quadrat der Lichtgeschwindigkeit c {\displaystyle c\,} ) der Masse äquivalent.
+Die Ruheenergie kann bei bestimmten Vorgängen in andere Energieformen umgewandelt werden und umgekehrt.
+So haben die Reaktionsprodukte der Kernspaltung und der Kernfusion messbar niedrigere Massen als die Ausgangsstoffe.
+In der Elementarteilchenphysik wird umgekehrt auch die Erzeugung von Teilchen und damit von Ruheenergie aus anderen Energieformen beobachtet.
+
+In der klassischen Mechanik wird die Ruheenergie nicht mitgerechnet, da sie ohne Belang ist, solange sich Teilchen nicht in andere Teilchen umwandeln.
+
+Die allgemeine Relativitätstheorie verallgemeinert das Konzept der Energie weiter und enthält eine einheitliche Darstellung von Energien und Impulsen als Quellen für Raumkrümmungen über den Energie-Impuls-Tensor.
+Aus diesem lassen sich durch Kontraktionen die für einen Beobachter messbaren Größen wie Energiedichte gewinnen.
+Für die Untersuchung der Entwicklung von Raumzeiten ist der Energieinhalt entscheidend.
+So kann man aus Energiebedingungen den Kollaps der Raumzeit zu einer Singularität vorhersagen.
+
+== Energie in der Quantenmechanik
+
+In der Quantenmechanik bestimmt der Hamiltonoperator, welche Energie an einem physikalischen System gemessen werden kann.
+Gebundene Zustände des Systems können dabei nur diskreten, also nicht beliebigen Energiewerten entsprechen.
+Deshalb haben die bei Übergängen zwischen diesen Zuständen emittierten Teilchen oder Strahlen Linienspektren.
+
+Die Quantelung der Energie tritt bei elektromagnetischen Wellen auf:
+Eine Welle der Frequenz v {\displaystyle \nu } kann Energie nur in Paketen E Photon = h v {\displaystyle E_{\text{Photon}}=h\,\nu } abgeben, wobei h {\displaystyle h} das plancksche Wirkungsquantum ist.
+
+== Technische Nutzung der Energie
+
+Eine Erzeugung von Energie ist aufgrund des Energieerhaltungssatzes nicht möglich.
+Die Bezeichnung Energieerzeugung wird im Wirtschaftsleben aber dennoch verwendet, um die Umwandlung einer bestimmten Energieform (zum Beispiel elektrischer Strom) aus einer anderen Form (zum Beispiel chemischer Energie in Form von Kohle) auszudrücken.
+Analog gibt es im strengen physikalischen Sinne auch keinen Energieverbrauch, wirtschaftlich gemeint ist damit aber der Übergang von einer gut nutzbaren Primärenergie (zum Beispiel Erdöl, Gas, Kohle) in eine nicht mehr weiter nutzbare Energieform (zum Beispiel Abwärme in der Umwelt).
+Von Energieeinsparung ist die Rede, wenn effizientere Prozesse gefunden werden, die weniger Primärenergie für denselben Zweck benötigen, oder anderweitig, zum Beispiel durch Konsumverzicht, der Primärenergieeinsatz reduziert wird.
+
+Die Physik beschreibt den oben salopp eingeführten "Energieverbrauch" mit dem exakten Begriff der Entropiezunahme.
+Während in einem abgeschlossenen System die Energie stets erhalten bleibt, nimmt die Entropie mit der Zeit stets zu oder bleibt bestenfalls konstant.
+Je höher die Entropie, desto schlechter nutzbar ist die Energie.
+Statt von Entropiezunahme kann man anschaulich auch von Energieentwertung sprechen.
+
+Das Gesetz der Entropiezunahme verhindert insbesondere, Wärmeenergie direkt in Bewegungs- oder elektrische Energie umzuwandeln.
+Stattdessen sind immer eine Wärmequelle und eine Wärmesenke (= Kühlung) erforderlich.
+Der maximale Wirkungsgrad kann gemäß Carnot aus der Temperaturdifferenz berechnet werden.
+
+Der Grenzfall einer Energieumwandlung ohne Entropiezunahme wird als reversibler Prozess bezeichnet.
+Als Beispiel einer nahezu reversiblen Energieumwandlung sei ein Satellit auf einer elliptischen Umlaufbahn um die Erde genannt:
+Am höchsten Punkt der Bahn hat er hohe potentielle Energie und geringe kinetische Energie, am niedrigsten Punkt der Bahn ist es genau umgekehrt.
+Die Umwandlung kann hier ohne nennenswerte Verluste tausendfach im Jahr erfolgen.
+In supraleitenden Resonatoren kann Energie millionen- oder gar milliardenfach pro Sekunde zwischen Strahlungsenergie und elektrischer Energie hin- und hergewandelt werden, ebenfalls mit Verlusten von weniger als einem Promille pro Umwandlung.
+
+Bei vielen Prozessen, die in der Vergangenheit noch mit hohen Verlusten ergo erheblicher Entropiezunahme verbunden waren, ermöglicht der technologische Fortschritt zunehmend geringere Verluste.
+So verwandelt eine Energiesparlampe oder LED elektrische Energie wesentlich effizienter in Licht als eine Glühlampe.
+Eine Wärmepumpe erzeugt durch Nutzung von Wärme aus der Umwelt bei einer bestimmten elektrischen Leistung oft vielfach mehr Wärme als ein herkömmliches Elektroheizgerät bei gleicher Leistung.
+In anderen Bereichen liegt der Stand der Technik aber schon seit geraumer Zeit nah am theoretischen Maximum, so dass hier nur noch kleine Fortschritte möglich sind.
+So verwandeln gute Elektromotoren über 90 Prozent der eingesetzten elektrischen Energie in nutzbare mechanische Energie und nur einen kleinen Teil in nutzlose Wärme.
+
+Energiesparen bedeutet im physikalischen Sinn, die Energieentwertung und Entropiezunahme bei der Energieumwandlung oder Energienutzung zu minimieren.
+
+=== Spezifische Energie
+
+Spezifisch heißt in den Naturwissenschaften "auf eine bestimmte Bemessungsgrundlage bezogen" (Bezogene Größe).
+Die spezifische Energie wird auf eine gewisse Eigenschaft eines Systems bezogen, die durch eine physikalische Größe beschrieben werden kann.
+
+Nach DIN 5485 ist die spezifische Energie speziell massenbezogen, und die volumetrische Energiedichte die dimensional bezogene Bezeichnung.
+
+Nicht als spezifisch, sondern als molar bezeichnet die Thermodynamik und Chemie stoffbezogene Energiewerte:
+
+=== Energieversorgung und -verbrauch
+
+Mit Energieverbrauch wird umgangssprachlich die Nutzung von verschiedenen Energien in für Menschen gut verwendbaren Formen bezeichnet.
+Energieversorgung bezeichnet die Belieferung von Verbrauchern mit diesen Energieformen, inklusive der dazu notwendigen Energieinfrastruktur.
+
+Die von Menschen am häufigsten benutzten Energieformen sind Wärmeenergie und elektrische Energie.
+Die menschlichen Bedürfnisse richten sich vor allem auf die Bereiche Heizung, Nahrungszubereitung und den Betrieb von Einrichtungen und Maschinen zur Lebenserleichterung.
+Hierbei ist zum Thema Fortbewegung der Verbrauch von zum Beispiel fossiler Energien als Treibstoffe für Fahrzeuge bedeutsam.
+
+Die verschiedenen Energieträger können über Leitungen die Verbraucher erreichen, wie typischerweise Brenngase, elektrische Energie, Prozess- und Heizwärme.
+Oder sie sind weitgehend lagerfähig und gut transportfähig, wie zum Beispiel Steinkohle, Heizöl, Kraftstoffe (Benzine, Dieselkraftstoffe, Kerosin), Kernbrennstoff, Biomasse.
+
+Der Energiebedarf ist weltweit sehr unterschiedlich und in den Industrieländern um ein Vielfaches höher als zum Beispiel in der Dritten Welt (siehe Liste der Staaten mit dem höchsten Energieverbrauch).
+In industriell hoch entwickelten Ländern haben sich seit dem 19. Jahrhundert Unternehmen mit der Erzeugung und Bereitstellung von Energie für den allgemeinen Verbrauch beschäftigt.
+Hierbei steht heute die zentrale Erzeugung von elektrischer Energie sowie die Verteilung an die einzelnen Verbraucher im Vordergrund.
+Weiterhin sind die Beschaffung, der Transport und die Veredlung von Brennstoffen zu Heizzwecken wichtige Wirtschaftszweige.
+
+=== Energiequelle
+
+== Einheiten
+
+Neben der abgeleiteten SI-Einheit Joule sind je nach Anwendungsgebiet noch andere Energieeinheiten in Gebrauch.
+Wattsekunde (Ws) und Newtonmeter (Nm) sind mit dem Joule identisch.
+
+Das Elektronenvolt (eV) wird in der Atomphysik, der Kernphysik und der Elementarteilchenphysik zur Angabe von Teilchenenergien und Energieniveaus verwendet.
+Seltener kommt in der Atomphysik das Rydberg vor.
+Die cgs-Einheit erg wird häufig in der theoretischen Physik benutzt.
+
+Die Kalorie war in der Kalorimetrie üblich und wird heute noch umgangssprachlich und im Warenverkehr zusätzlich zur gesetzlichen Einheit Joule bei der Angabe des physiologischen Brennwerts von Lebensmitteln verwendet.
+In Kilowattstunden (kWh) messen Energieversorger die Menge der an die Kunden gelieferten Energie.
+Die Steinkohleeinheit und die Öleinheit dienen zur Angabe des Energieinhaltes von Primärenergieträgern.
+Mit dem TNT-Äquivalent misst man die Sprengkraft von Sprengstoffen.
+
+=== Liste
+
+Diverse Energieeinheiten und ihre Entsprechung in Joule (J)
+
+=== Umrechnungen
+
+In der folgenden Umrechnungstabelle ist jeweils die links angegebene Einheit gleich der Zahl mal der oben angegebenen Einheit:
+
+== Größenordnungen
+
+Energie ist eine Größe, die auch im Alltag einen um viele Größenordnungen unterschiedlichen Wert annehmen kann.
+Beispiele sind:
+
+== Formeln
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

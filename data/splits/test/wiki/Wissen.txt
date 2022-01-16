@@ -1,0 +1,701 @@
+Als Wissen wird üblicherweise ein für Personen oder Gruppen verfügbarer Bestand von Fakten, Theorien und Regeln verstanden, die sich durch den höchstmöglichen Grad an Gewissheit auszeichnen, so dass von ihrer Gültigkeit bzw. Wahrheit ausgegangen wird.
+Bestimmte Formen des Wissens beziehungsweise dessen Speicherung gelten als Kulturgut.
+
+Paradoxerweise können als Wissen deklarierte Sachverhaltsbeschreibungen wahr oder falsch, vollständig oder unvollständig sein.
+In der Erkenntnistheorie wird Wissen traditionell als wahre und begründete Auffassung (englisch justified true belief) bestimmt, die Probleme dieser Bestimmung werden bis in die Gegenwart diskutiert.
+Da in der direkten Erkenntnis der Welt die gegenwärtigen Sachverhalte durch den biologischen Wahrnehmungsapparat gefiltert und interpretiert in das Bewusstsein kommen, ist es eine Herausforderung an eine Theorie des Wissens, ob und wie die Wiedergabe der Wirklichkeit mehr sein kann als ein hypothetisches Modell.
+
+In konstruktivistischen und falsifikationistischen Ansätzen können einzelne Fakten so nur relativ zu anderen als sicheres Wissen gelten, mit denen sie im Verbund für die Erkennenden die Welt repräsentieren, es lässt sich aber immer die Frage nach der Letztbegründung stellen.
+Einzelne moderne Positionen, wie der Pragmatismus oder die Evolutionäre Erkenntnistheorie ersetzen diese Begründung durch Bewährung im sozialen Kontext bzw. durch evolutionäre Tauglichkeit:
+Im Pragmatismus wird von einer Bezugsgruppe als Wissen anerkannt, was ermöglicht, erfolgreich den Einzel- und dem Gruppeninteresse nachzugehen, in der Evolutionären Erkenntnistheorie sind die Kriterien für Wissen biologisch vorprogrammiert und unterliegen Mutation und Selektion.
+
+== Etymologie
+
+Der Ausdruck ,Wissen' stammt von althochdeutsch wian bzw. der indogermanischen Perfektform *woida ,ich habe gesehen', somit auch ,ich weiß'.
+Von der indogermanischen Wurzel *ue(i)d (erblicken, sehen) bzw. *weid- leiten sich auch lateinisch videre ,sehen' und Sanskrit veda ,Wissen' ab.
+
+== Allgemeines
+
+Die Definition als wahre und gerechtfertigte Meinung ermöglicht die Unterscheidung zwischen dem Begriff des Wissens und verwandten Begriffen wie Überzeugung, Glauben und allgemeiner Meinung.
+Sie entspricht zudem weitgehend dem alltäglichen Verständnis von Wissen als "Kenntnis von etwas haben".
+Dennoch besteht in der Philosophie keine Einigkeit über die korrekte Bestimmung des Wissensbegriffs.
+Zumeist wird davon ausgegangen, dass "wahre, gerechtfertigte Meinung" nicht ausreichend für Wissen ist.
+Zudem hat sich ein alternativer Sprachgebrauch etabliert, in dem Wissen als vernetzte Information verstanden wird.
+Entsprechend dieser Definition werden aus Informationen Wissensinhalte, wenn sie in einem Kontext stehen, der eine angemessene Informationsnutzung möglich macht.
+Eine entsprechende Begriffsverwendung hat sich nicht nur in der Informatik, sondern auch in der Psychologie, der Pädagogik und den Sozialwissenschaften durchgesetzt.
+
+Wissen steht als grundlegender erkenntnistheoretischer Begriff im Zentrum zahlreicher philosophischer Debatten.
+Im Rahmen der philosophischen Begriffsanalyse bzw. der Sprachphilosophie wird die Frage nach der genauen Definition des Wissensbegriffs gestellt.
+Zudem thematisiert die Philosophie die Frage, auf welche Weise und in welchem Maße Menschen zu Wissen gelangen können.
+Der Skeptizismus bezweifelt die menschliche Erkenntnisfähigkeit absolut oder partiell.
+
+Bereits Mitte des 20. Jahrhunderts hieß es in einem Handbuch: "Selbst die einzelnen wissenschaftlichen Disziplinen spezialisieren sich so stark, daß sie nur noch dem Fachmann zugänglich sind." Ein wichtiges Thema der Philosophie des 20. Jahrhunderts ist schließlich der soziale Charakter des Wissens.
+Es wird darauf hingewiesen, dass Menschen Wissen nur in gesellschaftlichen und historischen Zusammenhängen erwerben.
+Dies wirft unter anderem die Frage auf, ob ein gegebener Wissensinhalt immer als Ausdruck eines bestimmten kulturellen Kontexts zu verstehen ist, oder ob Wissen grundsätzlich mit einem kulturübergreifenden Gültigkeitsanspruch verknüpft ist.
+
+In der empirischen Forschung ist Wissen gleichermaßen ein Thema der Natur- und Sozialwissenschaften.
+Die Psychologie untersucht, auf welche Weise Wissen bei Menschen gespeichert und vernetzt ist.
+In den letzten Jahrzehnten wurde diese Forschung durch Ansätze der kognitiven Neurowissenschaft ergänzt, die die Informationsverarbeitung auf der Ebene des Gehirns beschreiben.
+Auch in der künstlichen Intelligenz spielt das Thema der Wissensrepräsentation eine zentrale Rolle, wobei das Ziel verfolgt wird, verschiedene Formen des Wissens auf effektive Weise in künstlichen Systemen verfügbar zu machen.
+In der Pädagogik und den Gesellschaftswissenschaften wird erforscht, wie Wissen vermittelt, erworben und verfügbar gemacht wird.
+Dabei wird auf lernpsychologischer Ebene diskutiert, wie Individuen zu neuem Wissen gelangen und auf welche Weise Wissen sinnvoll vermittelt werden kann.
+In einem breiteren Kontext werden die Fragen erörtert, welche Bedeutungen verschiedene Formen des Wissens in einer Gesellschaft haben und wie der Zugang zu Wissen sozial, kulturell und ökonomisch geregelt ist.
+
+== Philosophische Begriffsanalyse
+
+Die Analyse unseres Begriffes von Wissen gilt als eines der zentralen Probleme der heutigen Erkenntnistheorie.
+Bereits Plato diskutiert im Theätet verschiedene Versuche einer Bestimmung des Begriffes des Wissens.
+Zum zentralen Thema wurde eine solche Analyse allerdings erst mit dem Aufkommen der Analytischen Philosophie, der zufolge die Analyse unserer Sprache das Kerngebiet der Philosophie ist.
+
+=== Wissen-wie und Wissen-dass
+
+Eine verbreitete auf Gilbert Ryle zurückgehende Unterscheidung trennt sogenanntes Wissen-wie (oder auch "praktisches Wissen") von Wissen-dass (oder auch "propositionales Wissen").
+Unter Wissen-wie versteht Ryle eine Fähigkeit oder Disposition, wie etwa die Fähigkeit Fahrrad zu fahren oder Klavier zu spielen.
+Sprachlich drücken wir solches Wissen in Sätzen wie "Tina weiß, wie man Fahrrad fährt" oder "Paul weiß, wie man Klavier spielt" aus.
+Solches Wissen bezieht sich in der Regel nicht auf Fakten und lässt sich oft auch nicht ohne Weiteres sprachlich darstellen.
+Zum Beispiel kann ein virtuoser Klavierspieler einem Laien nicht durch bloße Erklärung sein Wissen-wie vermitteln.
+Ryle selbst stellt sich gegen die "intellektualistische" Sichtweise, dass sich Wissen-wie letztlich aber doch auf eine (möglicherweise komplexe) Menge von gewussten Propositionen reduzieren lässt.
+Diese These wird auch weiterhin in der Erkenntnistheorie diskutiert.
+
+Im Unterschied zu Wissen-wie bezieht sich Wissen-dass direkt auf Propositionen, also auf Aussagen die sich sprachlich wiedergeben lassen.
+Zum Beispiel reden wir von Wissen-dass in Sätzen wie "Ilse weiß, dass Wale Säugetiere sind" oder "Frank weiß, dass es keine höchste Primzahl gibt." Allerdings muss die gewusste Proposition nicht immer in die Wissenszuschreibung direkt eingebettet sein.
+Auch Sätze wie "Lisa weiß, wie viele Planeten das Sonnensystem hat" oder "Karl weiß, was Sarah zu Weihnachten bekommt" drücken Wissen-dass aus, nämlich weil es eine von Lisa bzw. Karl gewusste Proposition gibt auf die der Satz anspielt.
+Wissen-dass bezieht sich auf Tatsachen, weshalb sich die erkenntnistheoretischen Debatten um etwa den Skeptizismus in der Regel auf Wissen-dass beschränken.
+
+=== Definitionen von Wissen
+
+Einer in der analytischen Philosophie vertretenden These zufolge ist propositionales Wissen eine wahre, gerechtfertigte Überzeugung.
+Der Satz "S weiß p" ist demnach dann wahr, wenn (1) p wahr ist (Falsches kann S nur für wahr halten, er irrt sich dann aber) (Wahrheitsbedingung); (2) S davon überzeugt ist, dass p wahr ist (Überzeugungsbedingung); (3) S einen Grund/eine Rechtfertigung dafür angeben kann, dass p wahr ist (Rechtfertigungsbedingung).
+
+Inwieweit diese Analyse schon von Platon diskutiert wurde, ist umstritten.
+Im Theaitetos wird unter anderem die These aufgeworfen, dass Wissen wahre Meinung mit Verständnis sei, allerdings wird dies dann verworfen.
+
+==== Die Idee der Definition
+
+Zunächst kann man nur dann etwas wissen, wenn man auch eine entsprechende Meinung hat:
+Der Satz "Ich weiß, dass es regnet, aber ich bin nicht der Meinung, dass es regnet." wäre ein Selbstwiderspruch.
+Eine Meinung ist jedoch nicht hinreichend für Wissen.
+So kann man etwa falsche Meinungen haben, jedoch kein falsches Wissen.
+Wissen kann also nur dann vorliegen, wenn man eine wahre Meinung hat.
+Doch nicht jede wahre Meinung stellt Wissen dar.
+So kann eine Person eine wahre Meinung über die nächsten Lottozahlen haben, sie kann jedoch kaum wissen, was die nächsten Lottozahlen sein werden.
+
+Von vielen Philosophen wird nun argumentiert, dass eine wahre Meinung gerechtfertigt sein muss, wenn sie Wissen darstellen soll.
+So kann man etwa Wissen über bereits gezogene Lottozahlen haben, hier sind jedoch auch Rechtfertigungen möglich.
+Im Falle zukünftiger Lottozahlen ist dies nicht möglich, weswegen selbst eine wahre Meinung hier kein Wissen darstellen kann.
+Eine solche Definition des Wissens erlaubt auch eine Unterscheidung zwischen "Wissen" und "bloßem Meinen" oder "Glauben".
+
+==== Das Gettier-Problem
+
+1963 veröffentlichte der amerikanische Philosoph Edmund Gettier einen Aufsatz, in dem er zu zeigen beanspruchte, dass auch eine wahre, gerechtfertigte Meinung nicht immer Wissen darstellt.
+Im Gettier-Problem werden Situationen entworfen, in denen wahre, gerechtfertigte Meinungen, jedoch kein Wissen vorliegt.
+Unter anderem diskutiert Gettier den folgenden Fall:
+Man nehme an, dass sich Smith und Jones um eine Stelle beworben haben.
+Smith hat die gerechtfertigte Meinung, dass Jones den Job bekommen wird, da der Arbeitgeber entsprechende Andeutungen gemacht hat.
+Zudem hat Smith die gerechtfertigte Meinung, dass Jones zehn Münzen in seiner Tasche hat.
+Aus diesen beiden gerechtfertigten Meinungen folgt die ebenfalls gerechtfertigte Meinung:
+
+(1) Der Mann, der den Job bekommen wird, hat zehn Münzen in seiner Tasche.
+
+Nun bekommt allerdings Smith - ohne dass Smith dies weiß - und nicht Jones den Job.
+Zudem hat Smith, ohne dies zu ahnen, ebenfalls zehn Münzen in seiner Tasche.
+Smith hat also nicht nur die gerechtfertigte Meinung, dass (1) wahr ist, der Satz ist tatsächlich wahr.
+Smith verfügt also über die wahre, gerechtfertigte Meinung, dass (1) wahr ist.
+Dennoch weiß er natürlich nicht, dass (1) wahr ist, denn er hat ja keine Ahnung, wie viele Münzen sich in seiner eigenen Tasche befinden.
+
+Dieses Beispiel wirkt zwar recht konstruiert, es geht allerdings auch nur um den grundsätzlichen Punkt, dass sich Situationen denken lassen, in denen eine wahre, gerechtfertigte Meinung kein Wissen darstellt.
+Dies reicht bereits, um zu zeigen, dass "Wissen" nicht entsprechend definiert werden kann.
+
+==== Die "Gettier-Debatte"
+
+An Gettiers Aufsatz schloss sich eine umfangreiche Debatte an.
+Es wurde dabei allgemein akzeptiert, dass das Gettier-Problem zeigt, dass sich Wissen nicht als wahre, gerechtfertigte Meinung definieren lässt.
+Allerdings blieb umstritten, wie mit dem von Gettier aufgeworfenen Problem umgegangen werden soll.
+David Armstrong argumentierte etwa, dass man lediglich eine vierte Bedingung ergänzen müsse, um zu einer Definition von Wissen zu gelangen.
+Er schlug vor, dass wahre, gerechtfertigte Meinungen nur dann als Wissen gelten sollten, wenn die Meinung selbst nicht aus falschen Annahmen abgeleitet ist.
+So würde man in dem von Gettier diskutierten Beispiel deshalb nicht von Wissen reden, weil Smiths Meinung auf der falschen Annahme beruhe, dass Jones den Job bekomme.
+In den 1960er und 1970er Jahren wurden zahlreiche ähnliche Vorschläge zu einer vierten Bedingung für Wissen gemacht.
+
+Innerhalb dieser Debatte wurden auch zahlreiche weitere Gegenbeispiele gegen Vorschläge zur Definition von Wissen vorgebracht.
+Ein besonders bekanntes Gedankenexperiment stammt von Alvin Goldman:
+Man stelle sich eine Region vor, in der die Bewohner täuschend echte Scheunenattrappen am Straßenrand aufstellen, sodass hindurchfahrende Besucher ähnlich potemkinschen Dörfern den Eindruck haben, echte Scheunentore zu sehen.
+Man nehme nun an, dass ein Besucher durch Zufall vor der einzigen echten Scheune der Region halte.
+Dieser Besucher hat die Meinung, dass er sich vor einer Scheune befindet.
+Diese Meinung ist zudem wahr und durch den visuellen Eindruck gerechtfertigt.
+Dennoch würde man nicht sagen wollen, dass er weiß, dass er sich vor einer echten Scheune befindet.
+Er ist ja nur durch einen Zufall nicht vor einer der zahllosen Attrappen gelandet.
+Dieses Beispiel ist unter anderem ein Problem für Armstrongs Definition, da der Besucher seine Meinung nicht auf falsche Annahmen zu stützen scheint, und demnach auch Armstrongs Definition ihm Wissen zusprechen würde.
+
+Goldman selbst wollte mit diesem Beispiel einen alternativen Ansatz unterstützen:
+er vertrat die These, dass die Rechtfertigungsbedingung durch eine kausale Verlässlichkeitsbedingung ersetzt werden müsse.
+Es komme nicht darauf an, dass eine Person ihre Meinung rational rechtfertigen könne, vielmehr müsse die wahre Meinung auf eine verlässliche Weise verursacht sein.
+Das ist im oben erwähnten Scheunen-Beispiel nicht der Fall: der Besucher kann nur unzuverlässig Scheunen erkennen, da er in der gegenwärtigen Umgebung oft durch Scheunenattrappen getäuscht würde.
+Goldmans Theorie fügt sich in eine Reihe von Ansätzen ein, die in verschiedenen Weisen eine verlässliche Methode verlangen.
+Diese Ansätze werden als reliabilistisch bezeichnet.
+Ein Kernproblem für diese Ansätze ist das sogenannte "generality problem":
+Es ist möglich, dass dieselbe Person auf einer allgemeinen Ebene über eine verlässliche Methode verfügt, die auf spezifischerer Ebene aber unzuverlässig ist.
+Zum Beispiel verfügt der Besucher im Scheunen-Beispiel auch weiterhin über eine verlässliche Wahrnehmung, aber seine Scheunen-Wahrnehmung ist sehr unzuverlässig.
+Auf einer noch spezifischeren Ebene, nämlich der Wahrnehmung der ganz spezifischen Scheune, vor der sich der Besucher befindet, wäre seine Wahrnehmung wieder verlässlich.
+Will sich ein Vertreter des Reliabilismus nun auf eine Ebene der Allgemeinheit festlegen, so stellt sich zum einen das Problem, diese Ebene genau zu definieren, zum anderen drohen weitere Gegenbeispiele, in denen eine andere Ebene die natürlichere Perspektive darstellt.
+
+==== Ist Wissen definierbar?
+
+Die dargestellten Probleme ergeben sich aus dem Anspruch, eine exakte Definition anzugeben, folglich reicht schon ein einziges, konstruiertes Gegenbeispiel, um eine Begriffsbestimmung zu widerlegen.
+Angesichts dieser Situation kann man sich die Frage stellen, ob eine Definition von "Wissen" überhaupt nötig oder auch möglich ist.
+Im Sinne Ludwig Wittgensteins Spätphilosophie kann man etwa argumentieren, dass "Wissen" ein alltagssprachlicher Begriff ohne scharfe Grenzen ist und die verschiedenen Verwendungen von "Wissen" nur durch Familienähnlichkeiten zusammengehalten werden.
+Eine solche Analyse würde eine allgemeine Definition von "Wissen" ausschließen, müsste jedoch nicht zu einer Problematisierung des Wissensbegriffs führen.
+Man müsste lediglich die Vorstellung aufgeben, "Wissen" exakt definieren zu können.
+
+Einflussreich ist insbesondere Timothy Williamsons These, dass Wissen sich nicht mit Hilfe anderer Begriffe erklären lässt, sondern vielmehr als Ausgangspunkt für andere erkenntnistheoretische Bemühungen betrachtet werden sollte.
+Diese These Williamsons ist der Kern der gegenwärtig verbreiteten "Knowledge First"-Erkenntnistheorie.
+Aber auch außerhalb dieser Strömung wird der Versuch, Wissen zu definieren, zunehmend verworfen, so etwa von Ansgar Beckermann, der Wahrheit als besseren Zielbegriff der Erkenntnistheorie vorschlägt.
+
+=== Semantik und Pragmatik von Wissenszuschreibungen
+
+In der jüngeren erkenntnistheoretischen Debatte sind Versuche einer Definition in den Hintergrund getreten.
+Stattdessen wird ausführlich diskutiert, wie Semantik und Pragmatik von Sätzen der Form "S weiß, dass P" (sog. Wissenszuschreibungen) interagieren und welchen Einfluss Kontext dabei ausübt.
+Die folgende Tabelle stellt die fünf wesentlichen Positionen in dieser Debatte dar:
+
+Aus Sicht des Kontextualismus hängt die semantische Wahrheit direkt von bestimmten Eigenschaften des Kontexts ab, in dem die Wissenszuschreibung getätigt wurde.
+Zum Beispiel würde eine Gerichtsverhandlung dabei höhere Standards für Wissen produzieren als ein Kneipengespräch.
+Dagegen sind Subjekt-Sensitive Invariantisten der Ansicht, dass lediglich der Kontext des Subjekts, von dem die Wissenszuschreibung handelt, die Wahrheit dieser Wissenszuschreibung beeinflusst.
+Relativisten sind dagegen der Ansicht, dass die Wahrheit dieser Wissenszuschreibungen davon abhängt, in welchem Kontext man sie betrachtet.
+
+Alle drei genannten Positionen haben gemeinsam, dass sie einen Einfluss des Kontexts auf die Semantik zulassen.
+Dagegen lehnen pragmatische Invariantisten einen solchen Einfluss ab.
+Sie argumentieren, dass lediglich aufgrund pragmatischer Effekte der Eindruck entsteht, dass die Wahrheitsbedingungen von Wissenszuschreibungen Schwankungen unterliegen.
+Dabei wird gemeinhin eine Unterscheidung zwischen fallibilistischen und infallibilistischen Ausprägungen dieser Position gemacht.
+Infallibilisten vertreten die Meinung, dass Wissen absolute Gewissheit voraussetzt.
+Dies hat zur Folge, dass viele Wissenszuschreibungen sich als semantisch falsch erweisen, weshalb diese Position auch als skeptisch bezeichnet wird.
+Dem entgegen vertreten Falibilisten die Ansicht, dass die Wahrheitsbedingungen von Wissenszuschreibungen weniger strikt sind.
+Dies vermeidet den Skeptizismus, allerdings müssen so auch ganz andere pragmatische Effekte behauptet werden.
+
+== Formen des Wissens
+
+Wissen umfasst eine große Anzahl verschiedenartiger Phänomene, weswegen sich Klassifikationen etabliert haben, die zwischen unterschiedlichen Formen des Wissens differenzieren.
+Solche Einteilungen können anhand zahlreicher Kriterien vorgenommen werden:
+So kann Wissen verschiedene Themenbereiche betreffen, es kann mit unterschiedlichen Graden der Gewissheit einhergehen sowie unterschiedlich erworben, gerechtfertigt und präsentiert werden oder auf verschiedene Weisen verfügbar sein.
+
+=== Exaktes und empirisches Wissen
+
+==== Exaktes Wissen
+
+Edmund Husserl definiert "die mathematische Form der Behandlung bei allen streng entwickelten Theorien (im echten Sinne des Wortes) als die einzig wissenschaftliche, die einzige, welche systematische Geschlossenheit und Vollendung, welche Einsicht über alle möglichen Fragen und die möglichen Formen ihrer Lösung bietet", dabei ist "die Mathematik die Wissenschaft deren einziger Gegenstand die Struktur des menschlichen Verstandes selbst ist".
+David Hilbert präzisiert: "Alles was Gegenstand des wissenschaftlichen Denkens überhaupt sein kann, verfällt, sobald es zur Bildung einer Theorie reif ist, der axiomatischen Methode und damit mittelbar der Mathematik".
+Dabei ist nach Definition eine Theorie axiomatisierbar, wenn sie in einer rekursiv aufzählbaren Sprache darstellbar ist.
+
+Wie jedoch der Gödelsche Unvollständigkeitssatz gezeigt hat, ist dieser Begriff hier zu weit gefasst.
+Denn in diesem Fall ist weder die Vollständigkeit noch die fundamentale Bedingung der Widerspruchsfreiheit des Axiomensystems gesichert.
+Hierfür ist notwendig und hinreichend, dass die Theorie in einer rekursiven Sprache oder im Wesentlichen gleichwertig mit einer Chomsky-1-Grammatik formuliert ist (rekursive Sprachen sind etwas allgemeiner gefasst als Chomsky-1-Sprachen, dabei beruhen solche Erweiterungen auf Diagonalisierung und haben keine weitere praktische Bedeutung).
+Doch für Exaktes Wissen ist als weitere Bedingung das Verstehen notwendig.
+Beispielsweise blockierte die Vorstellung des "Äthers" in der Elektrodynamik jahrelang die korrekte Interpretation der Experimente (z. B. bei Lorentz die Kontraktion).
+Besonders dramatisch waren die Verhältnisse in der Quantenmechanik.
+Max Born, Werner Heisenberg und Pascual Jordan hatten in ihrer "Dreimännerarbeit" eine grundlegende Theorie erarbeitet, die sämtliche beobachtbare Phänomene widerspruchsfrei erklärte, man konnte die Ergebnisse jedoch nicht deuten.
+
+Somit ist notwendig und hinreichend für exaktes Wissen:
+
+1.
+Die Kenntnis einer Struktur, die auf einem vollständigen und widerspruchsfreien Axiomensystem beruht bzw. in einer rekursiven Sprache oder praktisch gleichbedeutend in einer Chomsky-1-Grammatik formuliert ist.
+
+2.
+Das Verstehen der Theorie.
+
+Beide Bedingungen können nur von der Mathematik und der Theoretischen Physik erfüllt werden.
+Und auch für die Physik nennt Heisenberg hierfür nur vier abgeschlossene Theorien:
+Die klassische Mechanik, die Elektrodynamik im Verbund mit der speziellen Relativitätstheorie, die statistische Theorie der Wärme und die Quantenmechanik.
+
+==== Empirisches Wissen
+
+Während das theoretische Wissen auf Platon zurückgeht hat das empirische sein Fundament in Aristoteles.
+Dabei liegen folgende Postulate zugrunde:
+1. Es gibt eine vom Subjekt unabhängige Außenwelt.
+Oder die Objekte sind zumindest unabhängig vom untersuchenden Subjekt.
+2. Die für die Theorie erforderlichen Daten werden durch die fünf Sinne gewonnen.
+3. Jedes Resultat der Theorie muss sich durch die Erfahrung rechtfertigen.
+
+Für das Prozedere der Erkenntnis hat dann Galileo Galilei idealtypisch folgende Momente herausgestellt:
+
+1.
+Die Hypothese bezüglich eines Erfahrungsinhalts.
+
+2.
+Die Überprüfung derselben.
+
+Für den Test hat dann Mendel die Statistik als das grundlegende Instrumentarium erkannt, wodurch sich die Empirie überhaupt erst als Wissenschaft gestalten konnte.
+
+Bereits für Aristoteles war klar, dass auf diese Art und Weise kein sicheres Wissen zu erreichen ist.
+Arkesilaos und Karneades klassifizierten empirisches Wissen als 1. Glaubhaftes, 2. Glaubhaftes und unwidersprochenes und 3. Glaubhaftes, unwidersprochenes und allseitig geprüftes Wissen.
+In der Neuzeit hat dann Hume die Problematik hierbei in aller Schärfe offengelegt und gezeigt, dass jeder konsequente Empirismus zur totalen Skepsis führt.
+Auch der Logische Positivismus und der Kritische Rationalismus hatten dieser "Hume'schen Herausforderung" nichts entgegenzusetzen:
+"Wir wissen nicht, wir raten" (Karl Popper).
+
+Rene Descartes, der Begründer des neuzeitlichen Rationalismus trennte bereits strikt die Empirie, die res extensa, von dem Geistigen, der res cogitans.
+Tatsächlich sind logische Prinzipien empirisch nicht begründbar, wie Hume gezeigt hat.
+Umgekehrt können aber auch empirische Aussagen logisch nicht begründet werden, die "kartesische Gegenüberstellung von einer res cogitans, dem Menschen, und einer res extensa, der ihn umgebenden Welt, ist unheilbar".
+In der Tat "ist es streng erweislich, dass auf dem Standpunkt rein theoretischer Reflexion Materie und Form der Erkenntnis, apriorisches Vernunftgesetz und empirische Gegebenheit niemals ineinander aufgehen, sondern soweit wir auch fortschreiten, beständig wieder auseinanderfallen".
+"Warum können wir uns bei der Naturbeschreibung der Mathematik bedienen, ohne den dahinter befindlichen Mechanismus zu beschreiben?
+Niemand weiß es".
+
+Inwieweit also empirisches Wissen einer der Klassifizierungen von Arkesilaos und Karneades zuzuordnen ist oder, modern gesprochen, welchen Grad von Wahrscheinlichkeit dieses Wissen beanspruchen darf, wird somit entscheidend von folgenden Kriterien abhängen:
+
+1. Inwieweit erfüllt die der Hypothese zugrundeliegende Theorie die Bedingung der Exaktheit?
+Ist die Hypothese überhaupt in dieser Theorie formuliert?
+
+2. Inwieweit genügt das angewandte Prüfverfahren den Bedingungen der Statistik?
+Weiter: Inwieweit sind die Bedingungen der Objektivität, Reliabilität und Validität hier erfüllt?
+
+Es ist klar, dass nach dem momentanen Erkenntnisstand nur die Naturwissenschaften diese Bedingungen erfüllen.
+
+=== Unterscheidung nach der Herkunft des Wissens
+
+Andere Klassifikationssysteme unterteilen Wissen nicht nach der Form der Verfügbarkeit, sondern nach der Herkunft des Wissens.
+Die Unterscheidung zwischen angeborenem und erworbenem Wissen ist durch Noam Chomskys Theorie des angeborenen sprachlichen Wissens zu einem zentralen Thema der kognitionswissenschaftlichen Forschung geworden.
+Chomsky argumentiert, dass sich der Spracherwerb von Kindern nur erklären lasse, wenn man davon ausgehe, dass Menschen bereits ein angeborenes grammatisches Wissen haben.
+Von manchen Kognitionswissenschaftlern wird die These des angeborenen Wissens auf andere Bereiche übertragen.
+Die weitestgehende These vertreten Evolutionspsychologen, die davon ausgehen, dass sich viele Formen des Wissens bereits in der Steinzeit evolutionär durchgesetzt hätten und daher universelle, angeborene Merkmale der menschlichen Psyche seien.
+Nicht nur der Umfang eines solchen angeborenen Wissens ist umstritten, es ist zudem nicht klar, ob angeborene kognitive Mechanismen angemessen als Wissen bezeichnet werden können.
+
+Die auf Immanuel Kant zurückgehende, philosophische Unterscheidung zwischen apriorischem und Wissen a posteriori ist von der Frage nach angeborenem Wissen zu unterscheiden.
+Als empirisch gilt Wissen genau dann, wenn es der Erfahrung entspringt, also etwa auf alltäglichen Beobachtungen oder auf wissenschaftlichen Experimenten beruht.
+Demgegenüber gilt Wissen als apriorisch, wenn sich seine Gültigkeit unabhängig von der Erfahrung überprüfen lässt.
+Ein klassischer Kandidat für Wissen a priori ist analytisches Bedeutungswissen.
+So ergibt sich die Wahrheit des Satzes Alle Junggesellen sind unverheiratet alleine aus der Bedeutung der Wörter, man muss nicht empirisch überprüfen, ob tatsächlich alle Junggesellen unverheiratet sind.
+Auch mathematisches Wissen wird häufig als apriorisch betrachtet.
+Über den Umfang von apriorischem Wissen besteht in der Philosophie keine Einigkeit, zum Teil wird auch die Existenz von Wissen a priori generell bestritten.
+
+=== Explizites und implizites Wissen
+
+Die Unterscheidung zwischen explizitem Wissen und implizitem Wissen ist bedeutend für viele Disziplinen.
+Sie wurde 1966 von Michael Polanyi eingeführt.
+Als explizit gelten Wissensinhalte, über die ein Subjekt bewusst verfügen und die es gegebenenfalls auch sprachlich ausdrücken kann.
+Implizite Inhalte dagegen zeichnen sich dadurch aus, dass sie nicht auf eine solche Weise verfügbar sind.
+Die implizite Dimension des Wissens spielt in der Forschung eine zunehmende Rolle, da sich zeigt, dass viele zentrale Wissensinhalte nicht explizit vorhanden sind.
+Beispiele:
+
+Matthias Claudius schrieb: "Man weiß oft gerade dann am meisten, wenn man nicht recht sagen kann, warum." Der Unterschied zwischen explizitem und implizitem Wissen wird auch im Konzept der Kompetenzstufenentwicklung aufgegriffen.
+
+=== Deklaratives und prozedurales Wissen
+
+In der Psychologie kann unter Bezug auf gängige Klassifikationen der Gedächtnisforschung ebenfalls zwischen verschiedenen Typen des Wissens unterschieden werden:
+Viele Wissensinhalte sind nur kurzfristig vorhanden und werden nicht im Langzeitgedächtnis gespeichert.
+Beispiele hierfür sind etwa das Wissen um eine Telefonnummer und die exakte Formulierung eines Satzes.
+Demgegenüber können andere Inhalte als Langzeitwissen über Jahrzehnte oder bis ans Lebensende verfügbar sein.
+Innerhalb des Langzeitwissens wird wiederum zwischen deklarativem und prozeduralem Wissen unterschieden.
+Als deklarativ gelten Inhalte genau dann, wenn sie sich auf Fakten beziehen und sprachlich in Form von Aussagesätzen beschrieben werden können.
+Davon zu unterscheiden ist prozedurales Wissen, das auf Handlungsabläufe bezogen ist und sich häufig einer sprachlichen Formulierung widersetzt.
+Typische Beispiele für prozedurales Wissen sind Fahrrad fahren, Tanzen oder Schwimmen.
+So können etwa viele Menschen Fahrrad fahren, ohne sich der einzelnen motorischen Aktionen bewusst zu sein, die für diese Tätigkeit notwendig sind.
+
+Schließlich wird beim deklarativen Wissen zwischen semantischem und episodischem Wissen differenziert.
+Semantisches Wissen ist abstraktes Weltwissen (Beispiel: "Paris ist die Hauptstadt von Frankreich.").
+Episodisches Wissen ist dagegen an die Erinnerung an eine bestimmte Situation gebunden.
+(Ein Beispiel: "Letzten Sommer war ich in Paris im Urlaub.")
+
+== Organisationstheoretischer Ansatz
+
+Wissen ist im Wissensmanagement und der Wissenslogistik eine vorläufig wahre Zustandsgröße und ein selbstbezüglicher Prozess.
+Seine Definition verändert es bereits, da diese selbst zum Bestandteil des Wissens wird.
+Voraussetzung für Wissen ist ein wacher und selbstreflektierender Bewusstseinszustand, der dualistisch angelegt ist.
+Wissen ist mit Erfahrungskontext getränkte Information.
+Information ist ein Datenbestandteil, welcher beim Beobachter durch die beobachterabhängige Relevanz einen Unterschied hervorrief.
+Daten sind etwas, was wahrgenommen werden kann, aber nicht muss.
+Diese Definition ist im Einklang mit dem DIKW-Modell.
+Letzteres stellt Daten, Informationen, Wissen in einer aufsteigenden Pyramide dar und führt zu Organisationsgedächtnissystemen, deren Hauptziel es ist, die richtige Information zur richtigen Zeit an die richtige Person zu liefern, damit diese die am besten geeignete Lösung wählen kann.
+Damit wird Wissen mit seiner Nutzung verknüpft, was eine wesentliche Handlungsgrundlage von Informationssystemen darstellt.
+Wissen bezeichnet deshalb im größeren Rahmen die Gesamtheit aller organisierten Informationen und ihrer wechselseitigen Relationen, auf deren Grundlage ein vernunftbegabtes System handeln kann.
+Wissen erlaubt es einem solchen System - vor seinem Wissenshorizont und mit dem Ziel der Selbsterhaltung - sinnvoll und bewusst auf Reize zu reagieren.
+
+== Wissensrepräsentation
+
+"Wissensrepräsentation" ist ein zentraler Begriff vieler kognitionswissenschaftlicher Disziplinen wie der Psychologie, der künstlichen Intelligenz, der Linguistik und der kognitiven Neurowissenschaft.
+Dabei unterscheidet sich die Verwendung des Wissensbegriffs vom philosophischen und alltäglichen Gebrauch.
+So definiert etwa Robert Solso Wissen als "Speicherung, Integration und Organisation von Information im Gedächtnis.
+Wissen ist organisierte Information, es ist Teil eines Systems oder Netzes aus strukturierten Informationen." Auf ähnliche Weise wird im Lexikon der Neurowissenschaft definiert:
+"Information ist der Rohstoff für Wissen.
+Damit aus Information Wissen wird, muss der Mensch auswählen, vergleichen, bewerten, Konsequenzen ziehen, verknüpfen, aushandeln und sich mit anderen austauschen."
+
+Ein so verstandener Wissensbegriff ist unabhängig von der Wahrheit der gespeicherten Informationen und auch vom Bewusstsein des wissenden Systems.
+Ein Computer könnte genauso über Wissen im Sinne dieser Definition verfügen, wie ein Mensch oder ein beliebiges Tier.
+Von einfacher Information hebt sich Wissen durch seine Vernetzung mit weiteren Informationen ab.
+So drückt der Satz Mäuse sind Säugetiere zunächst nur eine Information aus.
+Zu Wissen wird die Information durch die Verknüpfung mit weiteren Informationen über "Maus" oder "Säugetier".
+Mit einem so verstandenen Wissensbegriff werden in den empirischen Wissenschaften unterschiedliche Forschungsprojekte durchgeführt.
+Die Kognitionspsychologie entwickelt Modelle zur Wissensorganisation bei Menschen, die kognitive Neurowissenschaft beschreibt die Informationsverarbeitung im Gehirn und die künstliche Intelligenz entwickelt wissensbasierte Systeme, die Informationen organisieren und vernetzen.
+
+=== Semantische Netze
+
+Die Organisation von Informationen zu Wissen wird in der Psychologie häufig mit Hilfe von semantischen Netzen erklärt.
+Es wird angenommen, dass Menschen über einfache Informationen der Art Kanarienvögel sind Vögel oder Vögel haben Federn verfügen.
+Werden derartige Informationen miteinander verknüpft, so ergeben sie ein semantisches Netz und erlauben das Schließen auf weitere Fakten wie Kanarienvögel haben Federn.
+Ein komplexes semantisches Netz ist eine ökonomische Form der Wissensspeicherung: Merkmale, die allgemein auf Vögel zutreffen, müssen nicht für jede Vogelart neu gespeichert werden, das Gleiche gilt für Merkmale, die allgemein auf Tiere zutreffen.
+
+Collins und Quillian entwickelten ein Modell (siehe Abbildung) semantischer Netze, das sie zudem einer experimentellen Überprüfung unterzogen.
+Collins und Quillian gingen davon aus, dass die Reise zwischen den Knoten des semantischen Netzes Zeit beanspruche.
+Die Beurteilung von Sätzen der Art Vögel haben Federn. müsste also messbar schneller sein als die Beurteilung von Sätzen der Art Vögel atmen.
+Tatsächlich benötigten Probanden durchschnittlich 1310 Millisekunden, um Sätze der ersten Art zu beurteilen, während Sätze der zweiten Art 1380 Millisekunden in Anspruch nahmen.
+Lagen die Informationen zwei Knoten im semantischen Netz entfernt, so wurden 1470 Millisekunden benötigt.
+Allerdings gibt es Unregelmäßigkeiten:
+Häufig verwendete Informationen wie etwa Äpfel sind essbar wurden sehr schnell abgerufen, auch wenn die Information "essbar" einem allgemeineren Knoten wie "Lebensmittel" zugeordnet werden kann.
+Collins und Quillian bauten diese Erkenntnis in ihr Modell ein, indem sie annahmen, dass häufig verwendete Informationen direkt an einem entsprechenden Knoten gespeichert werden, sodass keine zeitintensive Reise im semantischen Netzwerk notwendig ist.
+Das Modell hat zudem den Vorteil, dass es mit Ausnahmen arbeiten kann.
+So kann ein typisches Merkmal von Vögeln wie "kann fliegen" beim entsprechenden Knoten gespeichert werden, auch wenn nicht alle Vögel fliegen können.
+Die Ausnahmen werden bei Knoten wie "Strauß" gespeichert.
+
+=== Wissensrepräsentation in der künstlichen Intelligenz
+
+Das Konzept der semantischen Netze wird zudem in der künstlichen Intelligenz bei der Wissensmodellierung angewandt, da es eine effiziente Organisation von Wissen ermöglicht.
+So kann etwa entsprechend dem Beispiel von Collins und Quillian ein wissensbasiertes System konstruiert werden, das Fragen zu Merkmalen von Lebewesen beantwortet.
+Eine nichtgraphische Beschreibung des semantischen Netzes ist durch die Definition von zwei Relationen möglich.
+
+Mit Hilfe dieser Relationen lässt sich das im semantischen Netz repräsentierte Wissen wie folgt darstellen: (Kanarienvogel isa Vogel), (Strauß isa Vogel), (Vogel isa Tier) ... (Kanarienvogel hasprop singen), (Strauß hasprop nicht fliegen), (Strauß hasprop groß), (Vogel hasprop fliegen) ... Aus einer solchen Wissensbasis können leicht weitere Fakten abgeleitet werden, so dass nur ein kleiner Teil des Wissens explizit gespeichert werden muss.
+So gilt etwa: (Kanarienvogel isa Vogel) und (Vogel hasprop fliegen) = (Kanarienvogel hasprop fliegen).
+
+Nicht alle Ansätze der Wissensrepräsentation basieren auf semantischen Netzen, ein alternativer Ansatz stützt sich auf das Konzept des Schemas.
+In einem Schema werden zunächst relevante Merkmale für eine definierte Menge festgelegt.
+So könnten etwa für die Menge der Vögel die folgenden Merkmale herausgegriffen werden: Körperbedeckung, Fortbewegung, Behausung, Anzahl der Nachkommen.
+Im Folgenden wird ein Standardschema festgelegt, in dem die prototypischen Eigenschaften definiert werden.
+Für Vogel könnte das Schema etwa wie folgt aussehen:
+
+Standardschema: Vogel
+
+Für Teilmengen wie Kanarienvogel oder Strauß kann dieses Standardschema gegebenenfalls in einem spezifischeren Schema verändert werden.
+Dies wäre bei Ausnahmen (Ein Strauß kann nicht fliegen) oder spezifischeren Informationen (etwa zur Anzahl der Nachkommen) notwendig.
+
+Eine typische Anwendung der Wissensrepräsentation ist die Konstruktion von Expertensystemen, die große Mengen an Fachwissen speichern und verfügbar machen.
+Derartige Systeme finden Anwendung in Themenbereichen, in denen das menschliche Gedächtnis mit der Menge der Fakten überfordert ist, etwa in der medizinischen Diagnostik oder der Dateninterpretation.
+Ein sehr frühes Expertensystem war das 1972 entwickelte Mycin, das zur Diagnose und Therapie von Infektionskrankheiten durch Antibiotika verwendet werden sollte.
+Mittlerweile existieren zahlreiche auch kommerziell verwendete Expertensysteme.
+
+Ein anderes Anwendungsfeld sind Dialogsysteme, die in der Mensch-Computer-Interaktion eingesetzt werden und die Kommunikation eines Menschen mit einem Computer mittels natürlicher Sprache ermöglichen sollen.
+So simulierte etwa das bereits 1966 von Joseph Weizenbaum programmierte ELIZA das Gespräch mit einem Psychotherapeuten.
+Auf Aussagen der Art "Ich habe ein Problem mit meinem Vater." reagierte das Programm mit dem Satz "Erzählen Sie mir mehr von Ihrer Familie." Eine derartige Reaktion wurde möglich durch die semantische Verknüpfung von Begriffen wie "Vater" und "Familie".
+Mittlerweile werden auch Programme geschrieben, die das Ziel haben, eine allgemeine, kontextunabhängige Kommunikation zu ermöglichen.
+Die Idee eines solchen Programms geht auf den Turing-Test zurück, der 1950 von Alan Turing formuliert wurde.
+Nach Turing sollte man von "denkenden Maschinen" genau dann reden, wenn Computer in der Kommunikation nicht von Menschen zu unterscheiden seien.
+Real existierende Dialogsysteme sind jedoch weit von einem solchen Ziel entfernt und machen somit die Probleme der angewandten Wissensrepräsentation deutlich.
+Zum einen verfügen Menschen über eine so große und vielfältige Menge an Wissen, dass eine vollständige Wissensdatenbank in einem Computer nicht zu realisieren scheint.
+Zum anderen widersetzen sich viele Formen des Wissens einer einfachen und effizienten Repräsentation etwa in einem semantischen Netz.
+Ein Beispiel hierfür ist das menschliche Wissen um Humor und Ironie - Dialogsysteme sind nicht dazu in der Lage, Witze adäquat erklären zu können.
+
+Wissensbasierte Systeme werden auf sehr verschiedene Weisen realisiert, neben semantischen Netzen und Schemata kommen etwa verschiedene logikbasierte Systeme, Skripte und komplexe Wenn-Dann-Regelsysteme zum Einsatz.
+In modernen, wissensbasierten Systemen werden häufig Hybridarchitekturen verwendet, die verschiedene Wissensrepräsentationstechniken kombinieren.
+In den letzten Jahrzehnten sind zudem Wissensrepräsentationen auf der Basis von künstlichen neuronalen Netzwerken populär geworden.
+
+=== Konnektionismus und Neurowissenschaft
+
+Es stellt sich die Frage nach dem Zusammenspiel zwischen der Struktur des Gedächtnisses und kognitiven Prozessen, um Aufschlüsse über die Repräsentation von Wissen zu erlangen.
+Aus der Wissenspsychologie und den vorstehenden Erläuterungen kann man entnehmen, dass Wissen in der Kognitionswissenschaft nicht explizit definiert wird, sondern vielmehr als ein Gedächtnisinhalt und als kognitives Phänomen aufgefasst wird.
+Wissen wird implizit definiert, indem es aufs Engste an die Konzepte Information und Repräsentation angebunden wird.
+
+Klassische Ansätze der Wissensrepräsentation in Psychologie und Informatik sind symbolsprachlich orientiert, sie postulieren und vernetzen Einheiten, die jeweils durch ihren symbolischen Gehalt definiert sind.
+In dem genannten semantischen Netz werden etwa Mengen und Eigenschaften symbolisch repräsentiert und durch zwei Typen von Relationen verknüpft.
+Im Konnektionismus beziehungsweise im Parallel Distributed Processing (PDP) wird Wissen hingegen durch die Verknüpfung einfacher Einheiten (künstliche Neurone) repräsentiert.
+In einem neuronalen Netz (siehe Abbildung für ein einfaches Beispiel) führt ein Input zu einer Aktivitätsausbreitung im Netz und kann je nach Verarbeitung zu verschiedenen Outputs führen.
+Ein typisches Beispiel für die Arbeitsweise von entsprechenden neuronalen Netzwerken ist die Mustererkennung:
+Das Ziel des neuronalen Netzwerks ist es, bestimmte Muster zu "erkennen", also bei einem gegebenen Input das Vorhandensein oder Fehlen des Musters anzuzeigen.
+Ein entsprechendes Netzwerk könnte etwa über zwei Ausgabeeinheiten verfügen, wobei eine Einheit immer dann aktiviert wird, wenn das Muster vorliegt und die andere Einheit aktiviert wird, wenn das Muster nicht vorliegt.
+
+Soll ein solches Netzwerk zu den erwünschten Ergebnissen führen, so muss es lernfähig sein.
+Das grundlegende Lernen in neuronalen Netzwerken wird durch die Hebbsche Lernregel realisiert, die bereits 1949 durch den Psychologen Donald Olding Hebb formuliert wurde.
+Das Lernen in neuronalen Netzen wird realisiert, indem die Verbindungen zwischen den Einheiten gewichtet werden und somit zu unterschiedlich starken Aktivitätsausbreitungen führen.
+Zweigen etwa von einer Einheit A zwei Verbindungen zu den Einheiten B und C ab, so hängt es von der Gewichtung der Verbindungen ab, wie stark sich die Aktivierung von A auf die Aktivierungen von B und C überträgt.
+Lernen wird nun durch eine Veränderung der Gewichtungen erreicht.
+Im Falle der Mustererkennung würde ein Netzwerk so trainiert, dass bei der Präsentation eines Musters die Verbindungen zum einen Output gestärkt werden, während bei der Präsentation eines Nicht-Musters die Verbindungen zum anderen Output gestärkt werden.
+Durch diesen Prozess lernt das Netzwerk auf verschiedene Varianten des Musters mit der richtigen Ausgabe zu reagieren und anschließend neue, bislang unbekannte Varianten des Musters eigenständig zu "erkennen".
+
+Künstliche neuronale Netzwerke unterscheiden sich von symbolsprachlichen Ansätzen insbesondere dadurch, dass keine einzelne Einheit Wissen repräsentiert, sondern das Wissen (etwa über Muster) verteilt in dem System realisiert ist.
+Dabei haben konnektionistische und symbolische Ansätze unterschiedliche Stärken und Schwächen.
+Während konnektionistische Systeme häufig bei der Muster- oder Spracherkennung eingesetzt werden, eignen sich klassische Verfahren für die Darstellung etwa von explizitem, semantischem Wissen.
+
+Des Weiteren ähneln konnektionistische Systeme stärker der Verarbeitungsweise des Gehirns, in dem ebenfalls nicht einzelne Neuronen als Repräsentationen von Wissen angesehen werden.
+Vielmehr führt ein Reiz wie ein visueller Stimulus zu einer komplexen Aktivitätsausbreitung im Gehirn, weswegen Wissensverarbeitung und -speicherung im Gehirn ebenfalls durch das Modell der verteilten Repräsentation erklärt wird.
+In der kognitiven Neurowissenschaft werden entsprechende Aktivitätsmuster mit Hilfe von bildgebenden Verfahren wie der Magnetresonanztomographie erforscht.
+Ein Ziel ist dabei die Suche nach neuronalen Korrelaten von Bewusstseins- und Wissenszuständen.
+Nimmt eine Person etwa visuell eine Farbe oder eine Kante wahr, so erwirbt sie Wissen über die Welt und zugleich werden bestimmte Aktivitäten im Gehirn verursacht.
+Kognitive Neurowissenschaftler versuchen nun, herauszufinden, welche Gehirnaktivitäten mit entsprechenden Wahrnehmungs- und Wissenszuständen einhergehen.
+
+== Der soziale Charakter des Wissens
+
+=== Soziale Erkenntnistheorie
+
+Die philosophische Debatte um den Wissensbegriff und die kognitionswissenschaftliche Forschung zur Wissensrepräsentation ist überwiegend individualistisch, da sie sich mit dem Wissen eines einzelnen Agenten auseinandersetzt.
+Demgegenüber ist es unbestritten, dass Wissen in sozialen Kontexten erschaffen, vermittelt und überprüft wird.
+Diese Tatsache hat zur Entwicklung einer sozialen Erkenntnistheorie geführt, die man wiederum in klassische und nicht-klassische Ansätze unterteilen kann.
+
+Klassische Ansätze orientierten sich an der Bestimmung von "Wissen" als gerechtfertigte oder verlässliche, wahre Meinung, betonen jedoch den intersubjektiven Kontext, in dem Wissen erworben wird.
+So untersucht etwa Alvin Goldman alltägliche und wissenschaftliche Praktiken unter Bezug auf die Frage, ob sie der Generierung von wahren Meinungen nützen.
+Zu den von Goldman untersuchten Praktiken gehören etwa die Forschungsorganisation, die Anerkennung wissenschaftlicher Autoritäten, juristische Verfahrensweisen und die Meinungsbildung in der Presse.
+Ein anderer Ansatz stammt von Philip Kitcher, der sich mit den Auswirkungen der kognitiven Arbeitsteilung auf die Wahrheitsfindung beschäftigt.
+Der Fortschritt der Wissenschaft beruht nach Kitcher auf einer heterogenen wissenschaftlichen Gemeinschaft, in der mit verschiedenen Interessen und methodologischen Überzeugungen gearbeitet wird.
+
+In nicht-klassischen Ansätzen der sozialen Erkenntnistheorie wird hingegen nicht der Einfluss von sozialen Praktiken auf Wahrheit, Rechtfertigung oder Verlässlichkeit untersucht.
+Vielmehr wird soziologisch, historisch oder ethnologisch beschrieben, wie meinungsbildende Praktiken de facto organisiert sind.
+
+=== Wissenschaftssoziologie und Wissenschaftsgeschichte
+
+Nicht-klassische Ansätze der sozialen Erkenntnistheorie sind häufig eng mit der wissenschaftssoziologischen und -historischen Forschung verknüpft.
+In diesen Disziplinen liegt der Schwerpunkt auf der empirischen Beschreibung von meinungsbildenden Praktiken und nicht auf ihrer Bewertung nach erkenntnistheoretischen Kriterien.
+Entsprechend diesem Ziel werden Faktoren untersucht, die zur Akzeptanz von Meinungen als "Wissen" führen.
+Diese Faktoren können weit von den in der klassischen Wissenschaftstheorie vorgeschlagenen Kriterien wie Verifikation, Überprüfung durch Falsifikationsversuche und Widerspruchsfreiheit abweichen.
+
+Es liegen zahlreiche soziologische und historische Fallstudien vor, die beschreiben, wie Meinungen in Gesellschaften als "Wissen" etabliert werden.
+So erklärte etwa Paul Feyerabend 1975, dass die Durchsetzung des heliozentrischen Weltbildes nicht auf neuen Entdeckungen beruhe, sondern einer geschickten Propagandastrategie Galileo Galileis.
+Die Vertreter des geozentrischen Weltbildes erkannten nach Feyerabend "nicht den Propagandawert von Voraussagen und dramatischen Shows und bedienten sich auch nicht der geistigen und gesellschaftlichen Macht der neu entstandenen Klassen.
+Sie verloren, weil sie bestehende Möglichkeiten nicht ausnutzten. "
+
+Michel Foucault erklärte 1983 in Der Wille zum Wissen, dass das zunehmende Wissen um die menschliche Sexualität an politische Machtmechanismen gebunden sei: "Um das 18. Jahrhundert herum entsteht ein politischer, ökonomischer und technischer Anreiz, vom Sex zu sprechen.
+Und das nicht so sehr in Form einer allgemeinen Theorie der Sexualität, sondern in Form von Analyse, Buchführung, Klassifizierung und Spezifizierung, in Form quantitativer und kausaler Untersuchungen." Soziologische Studien zu gegenwärtigen Forschungsprozessen finden sich bei Bruno Latour.
+Nach Latour (1987) hängt die Akzeptanz einer wissenschaftlichen Meinung als Wissen wesentlich von Allianzbildungen in der zuständigen wissenschaftlichen Community ab.
+
+=== Konstruktivismus und Relativismus
+
+Auch wenn viele wissenschaftssoziologische und -historische Fallstudien umstritten sind, ist doch allgemein anerkannt, dass die Akzeptanz von wissenschaftlichen Meinungen häufig von Faktoren wie politischen und rhetorischen Konstellationen, Allianzbildungen und den Interessen des Forschungsbetriebs abhängig ist.
+
+Diese wissenschaftssoziologischen und -historischen Ergebnisse lassen wiederum verschiedene Interpretationen zu.
+Vertreter einer klassisch orientierten Erkenntnistheorie können darauf hinweisen, dass einige der genannten Faktoren geeignet sein können, um wahre Meinungen im Wissenschaftsbetrieb zu erzeugen.
+So führe etwa die von Latour beschriebene Allianzbildung dazu, dass Forscher sich auf das Urteilsvermögen und die Kompetenz anderer Wissenschaftler beziehen müssen.
+Zudem zeigten derartige Fallstudien, dass der Wissenschaftsbetrieb gelegentlich durch politische und rhetorische Einflussnahmen fehlgeleitet werde.
+Eine solche Interpretation basiert auf der Überzeugung, dass scharf zwischen "Wissen" und "in einem Kontext als Wissen akzeptiert" unterschieden werden müsse.
+
+Eine solche Unterscheidung zwischen "Wissen" und "in einem Kontext als Wissen akzeptiert" wird im relativistischen Konstruktivismus abgelehnt.
+Derartige Positionen erklären, dass "es keine kontextfreien oder kulturübergreifenden Standards für Rationalität gibt." Ohne diese Standards kann man allerdings "Wissen" auch nur noch relativ zu kulturellen Überzeugungen definieren, die Unterscheidung zwischen "Wissen" und "in einem Kontext als Wissen akzeptiert" bricht folglich zusammen.
+Eine derartige Ablehnung des traditionellen Wissensbegriffs setzt die Zurückweisung der Idee einer theorie- und interessenunabhängigen Realität voraus:
+Solange man Fakten als unabhängig von Theorien und Interessen begreift, kann man Meinungen kontextunabhängig zurückweisen, indem man erklärt, dass sie nicht den Fakten entsprechen.
+Der relativistische Konstruktivist Nelson Goodman erklärt daher:
+
+Nicht alle konstruktivistischen Positionen laufen jedoch auf einen relativistischen Konstruktivismus im Sinne Goodmans hinaus.
+Nichtrelativistische Konstruktivismen erklären mit Goodman, dass Beschreibungen, Gewichtungen und Ordnungen tatsächlich relativ zu Kontexten seien.
+In diesem Sinne seien etwa viele zentrale wissenschaftliche Begriffe wie "Art", "Geschlecht", "Krankheit" oder "Quark" vom kulturellen Kontext und von Interessen geformt.
+Dennoch bezöge man sich mit derartigen kontextabhängigen Begriffen auf kontextunabhängige Fakten in der Realität.
+
+== Grenzen des Wissens
+
+Die menschliche Erkenntnisfähigkeit kann aus verschiedenen Perspektiven angezweifelt werden.
+Zum einen wird menschliches Wissen generell bestritten, zum anderen werden einzelne Themenbereiche als kognitiv unzugänglich beschrieben.
+Eine generelle Kritik der Erkenntnisfähigkeit findet sich bei relativistischen und skeptizistischen Philosophen.
+Lehnen Relativisten das Konzept der Wahrheit als Illusion ab, so bricht auch die Idee des Wissens als spezifisch wahre Meinung in sich zusammen.
+So wird bereits dem Sophisten Protagoras die Ansicht zugesprochen, dass man nicht zwischen einfachem Meinen (doxa) und Wissen (episteme) unterscheiden könne.
+Demgegenüber akzeptieren Skeptiker die Idee von objektiven Fakten und somit auch das Konzept des Wissens.
+Allerdings zweifeln sie an der menschlichen Fähigkeit, Wissen über diese Fakten zu erlangen.
+
+Von derartigen generellen Zweifeln am menschlichen Erkenntnisvermögen sind bereichsspezifische Grenzen zu unterscheiden.
+Zum einen können metaphysische Erkenntnisgrenzen angenommen werden.
+Dies ist etwa der Fall, wenn argumentiert wird, dass Menschen kein Wissen über die Existenz Gottes, den freien Willen oder die Natur des Bewusstseins erlangen können.
+Diese Themen sollen sich aus prinzipiellen Gründen der empirischen Überprüfung entziehen und auch nicht durch rationale Spekulation erforschbar sein.
+Andererseits können auch empirische Wissensgrenzen postuliert werden, die sich aus der kognitiven oder technischen Begrenztheit des Menschen ergeben.
+So könnten etwa einige Dynamiken so komplex sein, dass sie sich von Menschen nicht modellieren oder prognostizieren lassen.
+Diskutiert wird dies etwa in Bezug auf die Ökonomie und die Klimaforschung.
+
+=== Skeptizismus
+
+Der Skeptizismus beginnt mit der Feststellung, dass Meinungen nur dann als Wissen ausgezeichnet werden können, wenn man sie überprüfen kann.
+Eine Meinung, über deren Wahrheitsgehalt man grundsätzlich nichts aussagen kann, kann kein Wissen darstellen.
+In einem zweiten Schritt werden allgemeine Zweifel an der Überprüfbarkeit von Meinungen geweckt.
+Die bekannteste skeptizistische Strategie ist der methodische Zweifel, wie er in der ersten Meditation von Rene Descartes' Meditationes de prima philosophia entwickelt wird.
+Descartes beginnt mit der Feststellung, dass das scheinbare Wissen von Tatsachen in der Welt durch die Sinne vermittelt ist und ebenfalls bekannt ist, dass die Sinne täuschen können.
+Nun erkennt Descartes an, dass es Situationen gibt, in denen Sinnestäuschungen ausgeschlossen zu sein scheinen, etwa bei der Wahrnehmung eines Ofens, vor dem man sitzt und den man klar erkennen kann.
+Doch auch hier könnten Zweifel geweckt werden, da man ähnliche Erfahrungen auch im Traum mache und sofern bei scheinbar offensichtlichen Wahrnehmungen immer durch das Träumen getäuscht werden könne.
+Schließlich entwirft Descartes das Szenario eines Gottes, der die Menschen in ihrem scheinbaren Wissen über die tatsächliche Realität täuscht.
+Es geht Descartes nicht darum, dass derartige Gedankenexperimente wahrscheinlich oder auch nur plausibel sind.
+Vielmehr soll vorgeführt werden, dass solche Szenarien nicht widerlegt und somit nicht ausgeschlossen werden können.
+Dies ermöglicht einem Skeptiker jedoch, zu argumentieren, dass wir bei keiner unserer Meinungen zeigen können, dass sie der Wahrheit entsprechen und wir somit überhaupt kein sicheres Wissen erlangen können.
+
+Skeptizistische Szenarien sind so konstruiert, dass sie sich nicht empirisch widerlegen lassen.
+Jeder Beleg, der gegen die allgemeine Täuschung angeführt wird, kann aus der Perspektive des Skeptikers wiederum als Teil der Täuschung zurückgewiesen werden.
+Dennoch sind verschiedene Einwände gegen den Skeptizismus entwickelt worden.
+Eine Strategie besteht darin, den skeptizistischen Hypothesen die Relevanz abzusprechen.
+Die skeptizistischen Szenarien mögen nicht widerlegbar sein, erwiesen sich jedoch als irrelevant, da sie für Menschen keinen Unterschied machten.
+Ein Problem dieses Einwands ist, dass mit ihm offenbar nicht der Begriff des Wissens zu verteidigen ist.
+Auch wenn die Wahrheit der skeptizistischen Hypothesen keinen pragmatischen Unterschied machen würde, so bliebe die Möglichkeit des Wissens zweifelhaft, da sich die skeptizistischen Hypothesen nicht ausschließen lassen.
+
+Andere Strategien bestehen darin, den Skeptiker zu widerlegen, etwa indem man zeigt, dass sich der Skeptizismus nicht widerspruchsfrei formulieren lässt.
+Eine bekannte Widerlegungsstrategie ist das Gehirn-im-Tank-Argument von Hilary Putnam.
+Putnam argumentiert, dass die Bedeutungen von Gedanken und Begriffen wesentlich abhängig von den kausalen Beziehungen sind, durch die sie verursacht werden:
+Würde ein Mensch permanent in einer Traumwelt leben, so würden sich seine Gedanken und Begriffe auf diese Traumwelt beziehen.
+"Hier steht ein Baum." würde sich also auf die Bäume der Traumwelt beziehen und wäre daher wahr.
+Das Gleiche trifft nach Putnam auch auf uns zu, unsere Gedanken und Begriffe beziehen sich auf das, wodurch sie verursacht werden und sind überwiegend wahr.
+Das skeptizistische Szenario sei daher nicht widerspruchsfrei zu formulieren.
+
+=== Metaphysische Grenzen
+
+Metaphysische Theorien zeichnen sich dadurch aus, dass sie sich nicht empirisch überprüfen lassen.
+Bezeichnet man etwa die Frage nach der Existenz Gottes als metaphysisch, so bedeutet dies, dass die empirischen Wissenschaften die Existenz Gottes weder bestätigen noch widerlegen können.
+Dies impliziert jedoch nicht, dass man kein Wissen über metaphysische Themen erlangen kann.
+Neben empirischen Untersuchungen können metaphysische Argumente wie Gottesbeweise zu einer Entscheidung führen.
+Sollen metaphysische Theorien eine Grenze des Wissens darstellen, so muss man behaupten, dass sie sich weder empirisch noch metaphysisch entscheiden lassen.
+Die bekannteste Variante einer solchen Position findet sich in Immanuel Kants Kritik der reinen Vernunft.
+
+Nach Kant führt die Erörterung von metaphysischen Thesen zu Antinomien:
+Für die Zustimmung und Ablehnung metaphysischer Thesen ließen sich gleichermaßen überzeugend erscheinende Argumente anführen, die Erörterung ende also in einem Widerspruch.
+In der Transzendentalen Dialektik erörtert Kant vier Fragen und stellt "Thesis" und "Antithesis" einander gegenüber:
+
+Nach Kant lassen sich jeweils Thesis und Antithesis mit Hilfe von metaphysischen Argumenten "beweisen".
+Da sie sich jedoch widersprechen, führt die Metaphysik nicht zu Wissen oder Erkenntnis, sondern zu einer systematischen Selbstüberforderung der Menschen.
+Dennoch können Menschen nach Kant die metaphysischen Fragen nicht ignorieren, sie müssen Stellung zu ihnen beziehen.
+Dies sei jedoch nicht mit Hilfe von rationalen Argumenten und Wissen möglich, sondern nur durch Postulate.
+
+Nicht alle Philosophen akzeptieren die These, dass die Metaphysik eine grundsätzliche Grenze des Wissens darstellt, wobei zwischen zwei Typen von Einwänden unterschieden werden muss.
+Zum einen kann man akzeptieren, dass sich metaphysische Fragen nicht entscheiden lassen, und zugleich behaupten, dass dies die Sinnlosigkeit oder Irrelevanz metaphysischer Fragen zeige.
+Zum anderen kann man die These vertreten, dass sich metaphysische Fragen doch auf rationaler Ebene entscheiden lassen.
+
+Die erste Strategie ist mit der sprachphilosophischen Tradition des Verifikationismus verknüpft, nach dem ein Satz sinnlos ist, wenn er sich grundsätzlich nicht überprüfen beziehungsweise verifizieren lässt.
+Diese These lässt sich anhand von Phantasiesätzen wie Dort ist ein hottmück erläutern:
+Erfährt man, in welchen Situationen ein hottmück feststellbar ist, so kann man sich die Bedeutung von "hottmück" erschließen.
+Gilt hingegen in jeder Situation Es ist unklar, ob ein hottmück vorliegt, so scheint der Begriff vollkommen unbestimmt und somit ohne semantischen Gehalt zu sein.
+Von den Vertretern des Wiener Kreises wurde die verifikationistische Überlegung auf die gesamte Metaphysik angewandt:
+Wenn sich metaphysische Thesen grundsätzlich nicht verifizieren lassen, so seien sie sinnlos.
+Man könne also tatsächlich keine Antworten auf metaphysische Fragen finden, dies begrenze jedoch nicht den Raum des Wissens, da metaphysische Fragen unverständlich und ohne Bedeutung seien.
+Ein zentrales Problem des Verifikationismus ist, dass die Behauptung Nichtverifizierbare Sätze sind sinnlos selbst nicht verifizierbar ist.
+Wendet man also die verifikationistische These auf den Verifikationismus an, so scheint der Verifikationismus selbst sinnlos zu sein.
+
+Derartige Probleme haben dazu geführt, dass metaphysikkritische Positionen in der Gegenwart eher als Einstellungen denn als philosophische Positionen formuliert werden.
+Bei naturalistischen Philosophen wie Willard Van Orman Quine findet sich der Vorschlag, sich bei der Erkenntnisgewinnung auf die empirischen Wissenschaften zu beschränken.
+Quine will nicht nachweisen, dass "philosophische Spekulation" sinnlos ist, vielmehr schlägt er vor, sich einfach mit empirischen Fragen zu begnügen.
+
+Diesen metaphysikkritischen Tendenzen steht gerade in der gegenwärtigen analytischen Philosophie eine "Rückkehr der Metaphysik" gegenüber.
+Moderne Metaphysiker behaupten mit Kant, dass metaphysische Fragen verständlich und sinnvoll sind.
+Gegen Kant wird jedoch behauptet, dass es keinen Grund gäbe, von der allgemeinen Unlösbarkeit metaphysischer Probleme auszugehen.
+Metaphysisches Wissen sei somit möglich.
+
+=== Empirische Grenzen
+
+Grenzen des Wissens müssen sich nicht aus metaphysischen Problemen ergeben, sondern können ebenfalls in der Unzugänglichkeit empirischer Daten begründet sein.
+Ein unkontroverses Beispiel ist die Geschichte, in der sich viele Tatsachen nicht mehr rekonstruieren lassen.
+Häufig ist es etwa nicht mehr möglich, herauszufinden, was eine historische Persönlichkeit an einem bestimmten Tag getan hat, da keine Belege vorhanden sind.
+Empirische Grenzen müssen jedoch nicht in dem Fehlen von Daten begründet liegen, sondern können sich ebenfalls aus der Komplexität der Daten ergeben.
+So stößt man etwa mit dem Projekt präziser und langfristiger Wettervorhersagen an die Grenzen menschlicher Modellierungsfähigkeiten.
+
+Zu einem wissenschaftstheoretischen Problem werden derartige empirische Grenzen, wenn sie mit den Erklärungsansprüchen ganzer Wissenschaftsdisziplinen zu kollidieren drohen.
+Ein typisches Beispiel für die mangelnde Verfügbarkeit von Daten ist die Astrobiologie, die sich unter anderem mit der Existenz von Leben jenseits der Erde beschäftigt.
+In dem Maße, in dem sich die Astrobiologie mit Planeten jenseits des Sonnensystems beschäftigt, stehen ihr kaum verlässliche Daten zur Verfügung.
+Astrobiologen versuchen diesem Problem mit indirekten Belegen, Wahrscheinlichkeitsabschätzungen und Analogieargumenten zu begegnen, das bekannteste Beispiel hierfür ist die Drake-Gleichung.
+
+Das Fehlen von Daten spielt ebenfalls in der Debatte um die evolutionäre Psychologie eine entscheidende Rolle.
+Evolutionäre Psychologen versuchen, das Denken und Fühlen von Menschen als Adaptationen an steinzeitliche Umweltbedingungen zu erklären.
+Kritiker wie John Dupre werfen der evolutionären Psychologie vor, ihre Hypothesen nicht begründen zu können, da die entsprechenden Daten über die steinzeitlichen Lebensbedingungen und die kognitive Evolution von Menschen schlicht nicht verfügbar seien.
+Evolutionspsychologische Hypothesen ähnelten daher eher "Phantasiegeschichten" als Wissen.
+
+Die Frage nach den Grenzen des empirischen Wissens stellt sich zudem im Zusammenhang mit komplexen Dynamiken und wissenschaftlichen Prognosen.
+Bereits 1928 argumentierte etwa der Wirtschaftswissenschaftler und Spieltheoretiker Oskar Morgenstern, dass Wirtschaftsprognosen grundsätzlich nicht möglich seien.
+Prognosen seien nur unter der Voraussetzung von entdeckbaren Gesetzmäßigkeiten möglich.
+Da die Wirtschaftsentwicklung jedoch auf dem nicht gesetzmäßigen Verhalten individueller Akteure beruhe, könne man kein Wissen über die Entwicklung der Ökonomie erlangen.
+Zudem sei die ökonomische Entwicklung maßgeblich durch Faktoren wie wirtschaftlicher Strukturwandel, politische und natürliche Ereignisse geprägt.
+Derartige Faktoren seien häufig bestimmend für wirtschaftliche Trendwechsel, ließen sich aber nicht adäquat in Prognosemodelle integrieren.
+Folglich solle man die Illusion aufgeben, mit Prognosen Wissen erzeugen zu können:
+
+Vertreter und Kritiker der genannten Wissenschaftsdisziplinen sind sich darin einig, dass die Forschungsprojekte von Unsicherheiten durchzogen sind und keine absolute Gewissheit erreicht werden kann.
+Umstritten ist allerdings zum einen der Grad der Unsicherheit und zum anderen die Frage, wie viel Unsicherheit im Wissenschaftsbetrieb akzeptabel ist.
+Erschwert wird die Debatte dadurch, dass allgemein anerkannt ist, dass absolute Gewissheit nicht das Ziel empirischer Wissenschaften sein kann.
+Fallibilistische Positionen vertreten die These, dass es auch in den empirischen Wissenschaften keine Gewissheit geben könne.
+Da empirische Theorien nicht durch zwingende logische Beweise gerechtfertigt werden können, bliebe Irrtum immer möglich, ganz unabhängig davon, wie gut eine empirische Theorie mit den verfügbaren Daten übereinstimme.
+Ein derartiger Fallibilismus schließt zwar Gewissheit, aber nicht Wissen aus.
+Trotz der grundsätzlichen Möglichkeit des Irrtums können die meisten wissenschaftlichen Meinungen wahr und gerechtfertigt sein.
+Allerdings werfen fallibilistische Überlegungen die Frage auf, wie groß Unsicherheiten im Kontext des Wissens sein dürfen.
+
+Weitreichende Zweifel am Umfang empirischen Wissens werden jedoch im Rahmen der pessimistischen Induktion formuliert, nach der die meisten gegenwärtigen, wissenschaftlichen Theorien falsch sind und daher auch kein Wissen darstellen.
+Das Argument der pessimistischen Induktion beruht auf der wissenschaftshistorischen Beobachtung, dass zahlreiche Theorien in der Vergangenheit gut mit den Daten übereinstimmten und sich dennoch als falsch erwiesen.
+Als Beispiele hierfür können die Äthertheorie, der geologische Neptunismus, die Phlogistontheorie oder die Humoralpathologie gelten.
+Folglich könne man nicht von den Erklärungserfolgen gegenwärtiger Theorien auf ihre wahrscheinliche Wahrheit schließen.
+Im Gegenteil, das Scheitern der meisten vergangenen Ansätze in der Gegenwart lege induktiv das Scheitern der meisten gegenwärtigen Theorien in der Zukunft nahe.
+Auf dieses Problem kann auf verschiedene Weisen reagiert werden:
+So kann man versuchen, zu zeigen, dass sich gegenwärtige wissenschaftliche Theorien qualitativ von den wissenschaftshistorischen Beispielen unterscheiden.
+Es wird auch argumentiert, dass es in den Wissenschaften gar nicht um eine wahre Beschreibung der Fakten, sondern um erfolgreiche Modelle mit guter Voraussage- und Erklärungsfähigkeit gehe.
+
+== Wissen und Gesellschaft
+
+=== Wissensgesellschaft
+
+In den Sozialwissenschaften wird häufig mit Bezug auf den Begriff der Wissensgesellschaft die These vertreten, dass sich die gesellschaftliche und ökonomische Rolle von Wissen im 20. Jahrhundert grundsätzlich verändert habe.
+So erklärt etwa Meinhard Miegel, dass die Entwicklung zur Wissensgesellschaft als der "dritte gewaltige Paradigmenwechsel in der Geschichte der Menschheit" zu betrachten sei.
+Nach der Entwicklung von Agrar- zu Industriegesellschaften sei nun der Übergang von Industrie- zu Wissensgesellschaften zu beobachten.
+
+Eine derartige Transformation mache sich zunächst in der Wirtschafts- und Arbeitswelt bemerkbar, so beschreibt etwa Sigrid Nolda, "dass das Konzept der Wissensgesellschaft allgemein von der wachsenden Bedeutung des Wissens als Ressource und Basis sozialen Handelns ausgehe.
+Arbeit sei seit den 1970er Jahren wesentlich durch ihren kognitiven Wert, also Wissen gekennzeichnet." Neben der wirtschaftlichen und gesellschaftlichen Bedeutung von Wissen ändere sich jedoch auch die Verfügbarkeit von Wissen durch neue Informations- und Kommunikationstechniken und eine veränderte Bildungspolitik.
+
+Eine derartige Begriffsbestimmung bleibt vage, da die gesellschaftliche und ökonomische Bedeutung von Wissen kein exklusives Merkmal von Wissensgesellschaften ist.
+Grundsätzlich setzt jede Arbeit verschiedene Formen des Wissens voraus, zudem ist auch bereits in antiken Gesellschaften die Verteilung von Wissen ein wesentliches Merkmal gesellschaftlicher Unterschiede.
+In diesem Sinne erklärt etwa der UNESCO World Report Towards Knowledge Societies, dass jede Gesellschaft als Wissensgesellschaft zu betrachten sei.
+
+=== Wissensverteilung und Wissensfreiheit
+
+In dem Maße, in dem die Verteilung und Verfügbarkeit von Wissen eine soziale und ökonomische Bedeutung hat, wird der Zugang zu Wissen auch als Gerechtigkeitsproblem diskutiert.
+Dabei wird die Bedeutung des Wissens in gegenwärtigen Gesellschaften gleichermaßen als Problem und Chance diskutiert.
+Zum einen wird argumentiert, dass aufgrund der zentralen gesellschaftlichen Rolle des Wissens ein schlechter Wissensstand und -zugang zu einer weitreichenden sozialen Benachteiligung führe.
+Zu klassischen Themen wie Einkommens- oder Arbeitsverteilung trete nun die Verteilung von Wissen als zentrales Gerechtigkeitsproblem hinzu.
+
+Eine weitergehende Analyse bedient sich oft der Verbindung zwischen Wissen und Macht, wie sie bereits von Francis Bacon in dem Spruch scientia potestas est ("Wissen ist Macht") zum Ausdruck kommt.
+Besonders einflussreich sind in diesem Kontext Michel Foucaults Arbeiten, nach denen gesellschaftliche Macht seit etwa dem 18. Jahrhundert wesentlich durch Wissenssysteme realisiert ist.
+Traditionell sei die Macht des Souveräns durch das Vermögen zu Töten bestimmt gewesen:
+"Er offenbart seine Macht über das Leben nur durch den Tod, den zu verlangen er im Stande ist.
+Das sogenannte "Recht über Leben und Tod", ist in Wirklichkeit das Recht, sterben zu machen und Leben zu lassen.
+Sein Symbol war ja das Schwert." In modernen Gesellschaften zeige sich die Macht über Menschen jedoch auf eine andere Weise als positives Wissen etwa über psychische und körperliche Gesundheit und Krankheit, Fortpflanzung, Geburts- und Sterberaten oder Gesundheitsniveau.
+Dieses Wissen werde in der Biopolitik zum Machtinstrument, nicht nur über direkte politische Eingriffe ins Rechtssystem, Gesundheits- und Bildungspolitik, sondern ebenfalls durch Beeinflussung wissenschaftlicher und öffentlicher Diskurse.
+Die Verbindung von Wissen und Macht wird im Anschluss an Foucault häufig als wechselseitig beschrieben:
+Nicht nur impliziere Wissen Macht, umgekehrt würde Wissen durch Machtmechanismen gelenkt.
+Welches Wissen als relevant gelte, werde etwa durch Wissenschaftsförderung, pädagogische Lehrplanerstellung oder mediale Schwerpunktsetzungen bestimmt.
+
+Die Bedeutung von Wissen in modernen Gesellschaften wird jedoch nicht nur kritisch in Bezug auf Gerechtigkeits- und Machtfragen untersucht.
+Vielmehr gilt die Wissensgesellschaft häufig ebenfalls als eine positive Entwicklung, die allen Bürgern zumindest potentiell einen allgemeinen Zugang zum Wissen ermöglichen kann.
+Als positives Ideal wird diese Idee als Wissensfreiheit formuliert, nach der jeder Bürger das Recht auf freien Zugang zu Wissen hat.
+So erklärt etwa der UNESCO World Report "Die aktuelle Verteilung von neuen Technologien und die Entwicklung des Internets als öffentliches Netzwerk scheinen neue Möglichkeiten für ein öffentliches Wissensforum zu bieten.
+Haben wir nun die Mittel, um einen gleichen und universellen Zugang zu Wissen zu erreichen?
+Dies sollte der Grundpfeiler von echten Wissensgesellschaften sein." Zugleich wird jedoch betont, dass gegenwärtige Gesellschaften recht weit von diesem Ideal entfernt sind und zahlreiche kulturelle, politische und ökonomische Realitäten einer allgemeinen Wissensfreiheit im Wege stünden.
+Auf derartige Grenzen der Wissensfreiheit wird unter anderem in der Open-Access- und Open-Content-Bewegung reagiert, die sich um den freien Zugang und die freie Weiterverwendbarkeit von Wissen bemüht.
+
+== Wissenserwerb und -vermittlung
+
+Der Erwerb und die Vermittlung von Wissen wird in der Lernpsychologie und der Pädagogik erforscht.
+Dabei wird in der Regel ein sehr weiter Wissensbegriff verwendet, der auch der pädagogischen Praxis gerecht werden soll und folglich implizites und explizites Wissen und Wissensinhalte sehr verschiedener Art umfasst.
+Die Lernpsychologie lässt sich mindestens bis ins 19. Jahrhundert zu Hermann Ebbinghaus und Wilhelm Wundt zurückverfolgen.
+So führte Ebbinghaus 1885 die ersten Lernkurven in die Psychologie ein, die das Verhältnis von Lernaufwand und Lernertrag beschreiben.
+Derartige Versuche der quantifizierten Darstellung des Wissenserwerbs beim Menschen wurden im 20. Jahrhundert durch verschiedene Lerntheorien ergänzt, die versuchen, den Wissenserwerb auf einer breiten theoretischen Ebene zu erklären.
+Ein klassisches Modell ist die Konditionierung, nach der Lebewesen auf einen bestimmten Reiz eine bestimmte Reaktion zeigen.
+Beim Konditionieren wird durch wiederholtes Präsentieren von kombinierten Reizen die gewünschte Reaktion antrainiert.
+Während der Behaviorismus den Wissenserwerb vollständig durch Reiz-Reaktions-Mechanismen zu erklären versuchte, begann man in den 1960er Jahren, interne psychische Zustände zu postulieren, die als Wissensrepräsentationen den Lernerfolg erklären sollten.
+In den letzten Jahrzehnten sind zudem Lerntheorien hinzugekommen, die den Wissenserwerb mit Hilfe von neuronalen Netzen und neurowissenschaftlichen Erkenntnissen beschreiben (vgl. den Abschnitt Wissensrepräsentation).
+
+In der lernpsychologischen Forschung wird also zum einen versucht, den Wissenserwerb des Menschen auf einer allgemeinen, theoretischen Ebene zu verstehen.
+Zum anderen werden jedoch auch konkrete Wissenserwerbsstrategien beschrieben und erklärt, die je nach Wissensthema, Altersstufe, individuellen kognitiven Profilen und kulturellem Kontext stark variieren können.
+Eine solche Forschung bietet als pädagogische Psychologie eine Basis für die Entwicklung pädagogischer Wissensvermittlungsstrategien.
+
+Die Pädagogik ist insgesamt als Wissenschaft der Wissensvermittlung zu verstehen, wobei zwischen einer Allgemeinen Pädagogik und differentiellen beziehungsweise anwendungsbezogenen Pädagogik unterschieden werden kann:
+
+Auch wenn alle Teilbereiche der Pädagogik als Ansätze zur Wissensvermittlung verstanden werden können, hat sich "Wissen" in den letzten Jahrzehnten unter dem Einfluss des lernpsychologischen Konstruktivismus, der Informationstheorie, neuer Medien und der Debatte um die Wissensgesellschaft in einigen pädagogischen Theorien zu einem neuen Grundbegriff entwickelt.
+Dabei wird darauf hingewiesen, dass Wissen ein wesentlich soziales Phänomen sei und daher nicht auf eine Schüler-Lehrer-Interaktion reduziert werden könne.
+Wissen werde in gemeinschaftlicher Arbeit mit Hilfe verschiedener Medien "sozial konstruiert" und eine angemessene pädagogische Theorie und Praxis müsse auf diese Merkmale der Wissensgenerierung eingehen.
+Ein bekannter Ansatz ist etwa die Knowledge-Building-Theorie von Carl Bereiter und Marlene Scardamalia.
+Bereiter und Scardamalia gehen auf der Basis des Wissensgesellschaftskonzepts davon aus, dass Wissensvermittlung und -generierung in gegenwärtigen Gesellschaften nur zu einem kleinen Teil durch klassische Ansätze wie Lehrmethoden und Lehrpläne realisiert werden kann: "Die neue Herausforderung besteht darin, die Jugend in eine Kultur zu führen, die die Wissensgrenzen an allen Seiten verschiebt.
+Es geht darum, dabei zu helfen, eine konstruktive und persönlich befriedigende Rolle in dieser Kultur zu finden."
+
+=== Kompetenzen
+
+Wissenserwerb erfordert Grundfertigkeiten, die während der Kindergarten- und Grundschulzeit erworben und durch den Besuch weiterführender Schulen ausgebaut werden sollen: Lesekompetenz (Fähigkeit, einzelne Wörter, Sätze und ganze Texte flüssig lesen und im Textzusammenhang verstehen zu können), Schreibkompetenz und/oder Rechnen.
+Als zentrales Element gilt dabei die Lesekompetenz.
+
+Jeder Schulabgänger hat eine gewisse Informationskompetenz und Medienkompetenz.
+Diese beiden sind zu einer Basiskompetenz geworden:
+
+Informationskompetenz und Medienkompetenz sind Voraussetzungen für das selbstorganisierte Erschließen von Wissen, den Aufbau neuer und dem Erweitern vorhandener Fähigkeiten und das Bewältigen von Problemen.
+Sie haben im Konzept Lebenslanges Lernen (es soll dazu befähigen, eigenständig während der gesamten Lebensspanne zu lernen) eine wichtige Rolle.
+
+=== Wissen in der Lernzieltaxonomie nach Bloom
+
+In der Pädagogik ist die Taxonomie der Lernziele nach Bloom weit verbreitet.
+Dabei nimmt das Fakten-Wissen nur den ersten, vorbereitenden Rang ein:
+
+== Sonstiges
+
+Das Zentrum Geschichte des Wissens, ein gemeinsames wissenschaftliches Kompetenzzentrum der Universität Zürich und der ETH Zürich, gegründet 2005, hat sich der Förderung und Koordination kulturwissenschaftlicher, historischer und philosophischer Forschung und Lehre über moderne Wissenssysteme und Wissensgesellschaften verpflichtet.
+
+== Literatur
+
+=== Philosophie
+
+=== Kognitions- und Humanwissenschaften
+
+=== Gesellschaft und Pädagogik
+
+== Weblinks
+
+== Einzelnachweise
+

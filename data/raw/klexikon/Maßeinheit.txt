@@ -1,0 +1,49 @@
+Alle physikalischen Größen, die man genau messen kann, werden in Maßeinheiten angegeben.
+Statt Maßeinheiten sagt man auch oft nur kurz Einheiten.
+Die Entfernung zwischen zwei Orten kann man messen und zum Beispiel in der Maßeinheit Kilometer angeben.
+Die Zeit, die jemand braucht, um sich die Schuhe zu binden kann man ebenfalls messen.
+Sie kann in der Maßeinheit Sekunde angegeben werden.
+
+Maßeinheiten müssen immer zur gemessenen Größe passen:
+Man kann eine Zeitdauer nicht in Kilogramm messen und eine Temperatur nicht in Liter.
+Zu jeder Größe gibt es aber viele verschiedene passende Maßeinheiten.
+Zeiten kann man in Stunden messen oder auch in Minuten.
+Längen können in Zentimeter gemessen werden oder in Meter.
+Auch in Fuß kann man Längen messen, das ist eine britische Einheit.
+
+Um eine Größe zu messen, benötigt man nicht nur Maßeinheiten, sondern auch Zahlen.
+Die Zahlen geben an, wie oft die Maßeinheit in die gemessene Größe hineinpasst.
+Misst man zum Beispiel die Breite einer Tür, dann gibt man an, wie oft die Maßeinheit Zentimeter in die Breite hineinpasst:
+"Die Breite beträgt sechsundachtzig Zentimeter" bedeutet, dass ein Zentimeter 86 mal nebeneinander in die Tür passt.
+Anstatt des Satzes schreibt man oft nur kurz:
+b = 86 cm.
+
+== Wie hat man früher gemessen?
+
+Wenn man früher etwas messen wollte, so nutzte man dazu Mittel, die jeder kennt:
+Um zum Beispiel Entfernungen zu messen, lief man die Strecke ab und zählte seine "Schritte".
+Bauern gaben die Größe ihrer Äcker in "Morgen" an.
+Ein Morgen bedeutete, dass der Bauer einen Vormittag, also einen Morgen brauchte, um den Acker mit seinem Ochsen zu pflügen.
+Schneider maßen die Länge von Stoffen früher in "Ellen" ab, also in der Länge des Unterarms vom Handgelenk bis zum Ellbogen.
+Kinder messen auch heute noch kurze Abstände, indem sie einen Fuß vor den anderen setzen und die "Füße" zählen.
+
+Diese Messungen waren natürlich ungenau und es kam dadurch oft zu Streit.
+Also versuchte man, Maßeinheiten wie zum Beispiel die Elle genau festzulegen.
+Oft wurden die festgelegten Maße am Rathaus angebracht, wo sie jeder sehen und vergleichen konnte.
+Trotzdem gab es lange Zeit in verschiedenen Gegenden auch verschiedene Längen für Elle, Schritt oder Fuß.
+
+== Wie misst man heute?
+
+Damit Maßangaben sich vergleichen lassen, sind die Umrechnungen zwischen den verschiedenen Maßeinheiten genau festgelegt.
+Eine Stunde ist dasselbe wie 60 Minuten, ein Kilogramm sind 1000 Gramm und ein Fuß sind genau 30,48 Zentimeter.
+Solche Umrechnungen wurden zum Beispiel im "Internationalen Einheitensystem" festgelegt.
+
+Im Jahr 1790 wurde die französische Akademie der Wissenschaften beauftragt, ein einheitliches System von Maßen und Gewichten zu entwerfen.
+Der erste Entwurf ist immer wieder verbessert worden.
+Heute ist in Europa für die meisten Länder dieses Internationale Einheitensystem festgelegt.
+In diesem System werden alle Maßeinheiten aus nur sieben Grund-Einheiten zusammengesetzt.
+Diese nennt man die "Basiseinheiten":
+
+Einige dieser Maßeinheiten kennt jeder gut.
+Mit manchen haben aber nur wenige Menschen zu tun, zum Beispiel Ingenieure, Chemiker oder Physiker.
+

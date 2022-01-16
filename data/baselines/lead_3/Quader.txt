@@ -1,0 +1,3 @@
+Ein Quader ist ein geometrischer Körper, der von 6 Rechtecken begrenzt wird.
+Ein Quader besitzt
+Gegenüberliegende Flächen eines Quaders sind parallel und kongruent (deckungsgleich).

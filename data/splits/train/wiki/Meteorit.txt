@@ -1,0 +1,302 @@
+Ein Meteorit ist ein relativ kleiner Festkörper kosmischen Ursprungs, der die Erdatmosphäre durchquert und den Erdboden erreicht hat.
+Er besteht gewöhnlich überwiegend aus Silikatmineralen oder einer Eisen-Nickel-Legierung, wovon ein gewisser Teil beim Eintritt in die Erdatmosphäre verglüht ist.
+Da es sich fast immer um vielkörnige Mineral-Aggregate handelt, werden Meteoriten unabhängig von ihrer chemischen Zusammensetzung zu den Gesteinen gezählt.
+
+== Allgemeines
+
+Der Bildungsort der Meteoriten ist das Sonnensystem.
+Sie ermöglichen wertvolle Einblicke in dessen Frühzeit.
+
+Als Meteoroiden bezeichnet man den Ursprungskörper, solange er sich noch im interplanetaren Raum befindet.
+Beim Eintritt in die Erdatmosphäre erzeugt er eine Leuchterscheinung, die als Meteor bezeichnet wird.
+Der Meteoroid verglüht entweder als Sternschnuppe in der Erdatmosphäre oder erreicht als Meteorit den Boden.
+
+Meteoroiden, die aus dem Sonnensystem stammen, haben im Bereich des Erdorbits eine maximale heliozentrische Geschwindigkeit von etwa 42 km/s (siehe Dritte kosmische Geschwindigkeit).
+Da die Bahngeschwindigkeit der Erde etwa 30 km/s beträgt, sind Relativgeschwindigkeiten von maximal 72 km/s oder 260.000 km/ h möglich.
+
+Beim Eintritt in die Erdatmosphäre werden die Meteoroiden sehr stark abgebremst.
+Dabei werden sie erhitzt, wodurch sie an der Oberfläche teilweise schmelzen bzw. verdampfen.
+Da der Sturz durch die Erdatmosphäre nur einige Sekunden dauert, kann sich das Innere vor allem größerer Meteoriten nicht nennenswert erwärmen.
+Erst nach dem Aufschlag kann die an der Oberfläche entstandene Reibungswärme in das Innere des Meteoriten durch Wärmeleitung abgegeben werden.
+Da das Volumen der erhitzten Oberfläche im Verhältnis zum Gesamtvolumen jedoch meist klein ist, bleibt das Innere relativ kühl und unverändert.
+
+=== Etymologie
+
+Das Wort Meteorit leitet sich ab von altgriechisch o meteoros mit der Bedeutung "emporgehoben", "hoch in der Luft" (vergleiche Meteorologie).
+Hauptsächlich bis Mitte des 20. Jahrhunderts wurden Meteoriten überwiegend Meteorsteine genannt, davor waren auch die Bezeichnungen Aerolith ("Luftstein") und Uranolith ("Himmelsstein") verbreitet.
+Bis Anfang der 1990er Jahre wurden die heute als Meteoroiden bezeichneten Objekte - ebenso wie die zur Erdoberfläche gelangten Überreste dieser Objekte - als Meteoriten geführt.
+
+== Einteilung und Benennung
+
+Nach ihrem inneren Aufbau werden Meteoriten unterteilt in undifferenzierte und differenzierte Meteoriten:
+
+Je nachdem, ob der Fall eines Meteoriten beobachtet wurde oder ob der Meteorit bereits früher unbeobachtet gefallen ist und nur gefunden wurde, wird ein Meteorit als "Fall" oder "Fund" eingeteilt.
+Neben der chemischen und petrologischen Klassifizierung werden Meteoritenfunde auch nach dem Grad der Verwitterung seit ihrem Auftreffen auf der Erdoberfläche in Verwitterungsklassen eingeteilt.
+Die NASA benutzt die Klassen A, B und C, je nach der Stärke der auf Bruchflächen sichtbaren Braunfärbung durch Eisenoxide.
+Ein alternatives Klassifizierungssystem bestimmt an Anschliffen den Grad der Umwandlung von Troilit und Metall in Oxide (W0 bis W4) und der Umwandlung von Silikaten in Tonminerale (W5 und W6).
+Diese W-Klassen können sinnvoll nur auf Meteoriten mit Troilit- und Metallkörnern, d. h. Chondrite, angewendet werden.
+Meteoriten können eine Metamorphose durch ein Schockereignis, beispielsweise während des Losschlagens vom Mutterkörper, erlitten haben.
+Dies wird durch Einteilen in die Schockklassen S1-S6 beschrieben, wobei in S1 nicht oder nur sehr schwach geschockte Meteoriten und in S6 die am schwersten geschockten Meteoriten stehen.
+
+Im Einzelfall kann die Entscheidung, ob ein gefundenes Gesteinsstück tatsächlich ein Meteorit ist, nur vom Fachmann getroffen werden.
+Im Falle von metallischen Meteoriten bedient er sich dazu beispielsweise der Widmanstätten-Figuren.
+Sie werden sichtbar, wenn man einen Eisenmeteoriten auftrennt, die Schnittflächen poliert und mit einer Säure, zum Beispiel verdünnter Salpetersäure, anätzt.
+Es erscheinen dann die charakteristischen Kristallstrukturen des Metalls, eben die Widmanstätten-Figuren, die nur in Meteoriten auftreten.
+Sie entstehen bei sehr langsamer Abkühlung über Millionen Jahre im Mutterkörper der Eisenmeteoriten.
+Es gibt allerdings Eisenmeteoriten, die keine Widmanstätten-Figuren zeigen; ihr Nichtvorhandensein schließt einen Meteoriten also nicht aus.
+
+Eine weitere Möglichkeit, ein gefundenes Eisenstück als Meteoriten zu identifizieren, ist ein Nickeltest, da alle Eisenmeteoriten mindestens 4 Prozent Nickel enthalten.
+Ein Indiz für einen Steinmeteoriten kann das Vorhandensein einer schwarzen Schmelzkruste sowie kleiner Kügelchen (Chondren) sein.
+Mit einem Magneten kann man ein gefundenes Steinstück auf Magnetismus testen, da Chondrite wegen der in ihnen vorhandenen kleinen metallischen Eisenteilchen magnetisch sind.
+Als Pseudometeoriten werden solche Funde bezeichnet, die wegen mehr oder weniger großer Ähnlichkeiten zu meteoritischem Gestein zunächst für einen Meteoriten gehalten wurden, sich bei genauerer Analyse jedoch als irdisches Gestein entpuppten.
+
+Drei verschiedene Alter werden bei Meteoriten unterschieden:
+das Entstehungsalter, Bestrahlungsalter und das terrestrische Alter.
+
+Die genauen Regeln der Namensgebung wurden von der Meteoritical Society, einer internationalen Fachgesellschaft, aufgestellt.
+Das Publikationsorgan der Meteoritical Society ist die Zeitschrift Meteoritics & Planetary Science oder kurz MAPS.
+Hier erscheint das Meteoritical Bulletin mit Katalogen, Inventaren und der Routinebeschreibung neuer Meteoriten.
+Dieses Supplement mit den vom Nomenclature Committee geprüften und freigegebenen Listen aller eingereichten und klassifizierten neuen Funde und Fälle gilt als Standard-Referenzwerk für die Inventarisierung und die Nomenklatur aller Meteoriten.
+
+Demnach werden Meteoriten nach ihrem Fundort (Ort, Fluss etc.) benannt.
+Bei Orten, an denen sehr viele Meteoriten gefunden werden, wie beispielsweise einigen Gebieten in der Sahara, wird eine laufende Nummer angehängt (beispielsweise DaG 262 von Dar al-Gani).
+Bei Meteoriten, die in der Antarktis gefunden werden, werden an das Namenskürzel die Jahreszahl und eine laufende Nummer angehängt.
+Beispielsweise bezeichnet ALH 76008 den achten Meteoriten, der im Jahre 1976 im Allan-Hills-Gebiet in der Antarktis aufgesammelt wurde.
+Der Marsmeteorit ALH 84001, bekannt geworden durch die scheinbaren Spuren fossiler Bakterien, war demnach der erste im Jahre 1984 aufgelesene Meteorit in diesem Gebiet.
+
+== Herkunft
+
+Die meisten Meteoriten sind Bruchstücke von Asteroiden und stammen aus dem Asteroidengürtel zwischen Mars und Jupiter.
+Durch Kollisionen wurden sie von ihrem Mutterkörper losgeschlagen.
+Die typischen Widmanstätten-Figuren in Eisen-Nickel-Meteoriten können zum Beispiel nur entstehen, wenn ein geschmolzener metallischer Körper sehr langsam, über Millionen von Jahren, abkühlt.
+Solche Abkühlzeiten werden nur im Kern von Himmelskörpern erreicht, etwa in Asteroiden.
+
+Die Zeitdauer zwischen dem Abtrennen vom Mutterkörper und dem Einschlag auf der Erde liegt typischerweise bei einigen Millionen Jahren, kann aber auch mehr als hundert Millionen Jahre betragen.
+Meteoriten enthalten das älteste Material unseres Sonnensystems, das zusammen mit diesem vor 4,56 Milliarden Jahren entstanden ist.
+Sie bieten den einzigen direkten irdischen Zugang zur Erforschung der Entstehung des Sonnensystems.
+Ähnlich altes Material findet sich außer in Asteroiden auch in Kometen und kann nur mit Hilfe von Raumsonden genauer untersucht werden.
+
+Dass einige Meteoriten vom Mond (Mondmeteoriten) und vom Mars (Marsmeteoriten) stammen, wurde inzwischen nachgewiesen.
+Auch sie müssen durch den Einschlag eines Kleinkörpers aus diesen Himmelskörpern herausgeschlagen und ins All geschleudert worden sein.
+Für den kohligen Chondriten Kaidun wurde der Marsmond Phobos und für den Enstatiten Abee und den Achondriten NWA 7325 gar der Merkur als Ursprungskörper vorgeschlagen, was allerdings umstritten ist.
+Die Diogenite, Eukrite und Howardite werden dem Planetoiden Vesta zugeordnet.
+Bisher wurden keine Meteoriten gefunden, die nachweislich von Kometen oder gar aus dem interstellaren Raum stammen, obwohl bei einem Teil der Mikrometeoriten eine kometare Herkunft diskutiert wird und die meisten Meteorströme mit Kometen in Verbindung stehen.
+Auch hier rührt die Mehrzahl aber vermutlich überwiegend von Asteroiden her.
+
+== Häufigkeit von Meteoritenfällen
+
+Jedes Jahr werden mehrere Meteoritenfälle auf der Erde beobachtet.
+Alle Fälle, von denen Material gefunden und analysiert wurde, werden im Meteoritical Bulletin registriert und veröffentlicht.
+Eine Auswertung dieser Daten (Stand 17. Januar 2021) ergibt Fallraten von 1 bis 17 Fällen im Jahr.
+
+Die tatsächliche Fallrate ist aber viel höher:
+Ein großer Teil fällt ins Meer oder auf unbesiedelte Gebiete.
+Aber auch in dichter besiedelten Gegenden wie Mitteleuropa werden viele Fälle der Beobachtung entgehen.
+Beim Fall des Steinmeteoriten Ramsdorf am 26. Juli 1958 zum Beispiel wurde keine Lichterscheinung gesehen, nur ein knatterndes Geräusch in der Nähe des Aufschlagortes gehört.
+Wäre der Meteorit wenige Kilometer weiter außerhalb einer Ortschaft niedergegangen, hätte ihn wahrscheinlich niemand bemerkt.
+Wissenschaftler der NASA sprechen von einem auf die Erde niedergehenden "Fluss extraterrestrischen Materials", der gerundet 100 Tonnen pro Tag beträgt.
+
+Eine Abschätzung der tatsächlichen Fallrate ist aus fotografisch aufgezeichneten Meteorbahnen möglich.
+Ein Kameranetzwerk in Kanada hat von 1974 bis 1983 über einem Gebiet von 1,26 Millionen Quadratkilometern Meteorbahnen ausgewertet, die Meteoriten geliefert haben müssen, und folgende Zahlen für Fälle über 0,1 kg pro Jahr erhalten:
+
+Daraus würde sich für die 0,36 Millionen km^2 Deutschlands eine Fallrate von etwa 14 Fällen pro Jahr ergeben.
+
+Auch auf dem Mond findet man durch den Vergleich aktueller Fotos mit früheren zahlreiche neue Mondkrater, die auf Meteoriteneinschläge hinweisen.
+
+== Fundorte
+
+Meteoriten fallen zwar gleichmäßig überall auf die Erde, trotzdem gibt es Orte, an denen sie häufiger zu finden sind als an anderen.
+Während sie in den gemäßigten Klimazonen recht schnell verwittern, vor allem durch die Oxidation des auf der Erdoberfläche nicht stabilen metallischen Eisens, können sie in trockenen Gegenden wie den nordafrikanischen Wüsten Zehntausende von Jahren, in der Antarktis manchmal sogar über eine Million Jahre überdauern.
+Hilfreich ist auch, dass Meteoriten wegen ihrer typisch schwarzen Schmelzkruste leicht auffallen.
+In der Antarktis gibt es zudem Gebiete, in denen Meteoriten durch Gletscher an sogenannten Blaueisfeldern angesammelt werden ("Meteoritenfallen").
+Es werden deshalb häufig Expeditionen dorthin unternommen, um neue Meteoriten aufzuspüren.
+Das erste Objekt wurde 1912 in der Antarktis gefunden, der Adelie-Land-Meteorit.
+
+Der mit 60 Tonnen Gewicht weltweit größte Meteorit Hoba - ein Eisenmeteorit - wurde 1920 in Namibia gefunden, wo er heute noch liegt.
+
+== Meteoritenfunde in heißen Wüsten
+
+Dass es nicht nur in den kalten Wüsten am Südpol, sondern auch in heißen Wüsten in bestimmten Gebieten über lange Zeiträume zu einer Konzentration von Meteoriten kommen kann, ist eine relativ neue Erkenntnis.
+Nachdem ein Team deutscher Seismologen bei Erdölprospektionsarbeiten 1986 in Libyen in der Gegend von Daradsch (Distrikt Nalut) zufällig auf einer vergleichsweise kleinen Fläche rund 65 Meteoriten fand, begann in der Sahara eine systematische Suche.
+Seit 1990 wuchs die Zahl der im Rahmen von privaten und institutionellen Meteoritenexpeditionen zunächst in der Sahara und später auch in den Wüsten Omans gemachten Funde stetig an.
+Waren 1985 aus Libyen, Algerien, Marokko, der Republik Niger und dem Oman gerade einmal 30 Meteoritenfunde bekannt, so sind es heute mehr als 3000.
+Hinzu kommt eine unbekannte Anzahl von Funden durch Einheimische, die ohne Angaben zu den Fundumständen meist über die marokkanischen Märkte gehandelt wurde.
+
+Zu den bekanntesten Fundgebieten der Sahara zählen in Libyen die Hammada al-Hamra, das Dar al-Gani, in Algerien das Acfer-Gebiet, die Hammadah du Draa und die Tanezrouft-Wüste sowie Grein und die Tenere Tafassasset in der Republik Niger.
+Die wichtigsten Konzentrationsflächen im Oman heißen Dhofar, Jiddat Al Harasis und Say Al Uhaymir.
+Der Höhepunkt der Fundtätigkeit wurde 2002 überschritten und die Anzahl der Funde ist heute stark rückläufig.
+Dies hängt zum einen mit verschärften Ausfuhrbedingungen in einigen Wüstenstaaten zusammen, ist aber auch ein Anzeichen dafür, dass die bekannten Fundgebiete im Wesentlichen ausgebeutet sind.
+
+Bei den Fundgebieten in heißen Wüsten handelt es sich um Aggregationsflächen, auf denen die Böden unter ganz bestimmten Bedingungen die Meteoritenfälle mehrerer zehntausend Jahre konserviert haben.
+Dies geschieht ähnlich wie beim Konzentrationsprozess in der Antarktis zunächst durch Einsedimentation der neu hinzukommenden Fälle.
+Durch neue Sedimentschichten auch in feuchteren Klimaphasen vor den Witterungseinflüssen geschützt, überdauerten die Meteoriten bis zu mehrere zehntausend Jahre in den Bodenschichten.
+In der Sahara legte die Winderosion in der jüngsten, seit rund 3000 Jahren immer trockener werdenden Klimaphase die so konservierten Meteoriten schließlich frei.
+Die überdeckenden Bodenschichten wurden in den betreffenden Gebieten mit dem fast ganzjährig über der Sahara wehenden Nordostwind abgetragen.
+
+Entscheidend für den Konzentrationsprozess von Meteoriten ist ferner das Fehlen von Quarzsand in den entsprechenden Gebieten.
+Die vergleichsweise harten Quarzsande führen zu einer schnelleren Zerstörung der Meteoriten durch Windschliff.
+Die dichten Meteoritenkonzentrationen in der Sahara liegen deshalb in der Regel auf Plateaus oberhalb des Sandflugs oder im Lee von Höhenzügen.
+
+Um die Meteoriten in ihren Aggregationsgebieten auffinden zu können, sind besondere topographische und geologische Gegebenheiten erforderlich.
+Helle Untergründe mit leicht basischem pH-Wert haben sich für die Prospektion am günstigsten erwiesen.
+Durch dunkle Flussgerölle oder vulkanische Tiefen- oder Auswurfgesteine kontaminiertes Gelände ist dagegen für die Prospektion ungeeignet.
+Auf solchen Horizonten sind Meteoriten nicht vom Umgebungsgestein zu unterscheiden.
+Ebenso wichtig ist ein möglichst geringes hydraulisches Gefälle der Fläche, da auf Neigungsflächen ebenfalls die mechanische und chemische Verwitterung der Meteoriten beschleunigt wird.
+Unter idealen Bedingungen lässt sich in einem dichten Konzentrationsgebiet auf je 10 bis 12 Quadratkilometern ein Meteorit finden.
+
+Ungeklärt ist bis heute das fast gänzliche Fehlen von Eisenmeteoriten aus den Fundgebieten in den heißen Wüsten.
+Eisenmeteoriten stellen mit nur rund 0,2 % Anteil an den afrikanischen Wüstenfunden einen deutlich geringeren Teil, als man dies mit Blick auf ihren Prozentsatz an den beobachteten Fällen (ca. 4 %) vermuten würde.
+Ein möglicher Grund hierfür ist das gezielte Absammeln und Verarbeiten von Meteoreisen in den Fundgebieten durch die vor- und frühgeschichtlichen Bewohner der Sahara.
+
+== Historisches
+
+Berichte über vom Himmel gefallene Steine gibt es seit frühester Zeit.
+So berichtet etwa der griechische Schriftsteller Plutarch über einen schwarzen Stein, der etwa 470 v. Chr. in Phrygien gefallen sein soll.
+Dieser Meteorit wurde im Namen der Göttin Kybele verehrt, bis er nach der Übernahme des Kybele-Kultes durch die Römer (die sie Mater Deum Magna Ideae nannten) im Jahr 204 v. Chr. in einer großen Prozession nach Rom gebracht wurde, wo er weitere Jahrhunderte verehrt wurde.
+Um 465 v. u. Z. deutete Diogenes von Apollonia den Fall eines Meteoriten auf der Halbinsel Gallipoli als "Fall eines erloschenen Sterns".
+
+Bereits in prähistorischer Zeit waren Meteoriten Gegenstand von religiösen Kulten, wie Funde in Grabstätten der Sinagua-Kultur belegen.
+So wurde der Meteorit Winona 1928 in einem Steinbehälter in einem prähistorischen Pueblo in Arizona gefunden, wo er offenbar kultischen Zwecken diente.
+Auch bei dem in der Kaaba, dem zentralen Heiligtum des Islam, eingemauerten schwarzen Stein Hadschar al-Aswad handelt es sich möglicherweise um einen Meteoriten, was allerdings wissenschaftlich nicht gesichert ist.
+
+Der chinesische Historiker Ma Duanlin (1245-1325) berichtet über Meteoritenfälle in einem Zeitraum von 2000 Jahren.
+Eine Auswertung früher chinesischer Aufzeichnungen durch die Meteoritenforscher K. Yau, P. Weissman und D. Yeomans ergab 337 beobachtete Meteoritenfälle zwischen 700 v. Chr. und 1920.
+Der Meteorit Nogata, gefallen im Jahr 861 n. Chr., ist der früheste beobachtete Fall, von dem heute noch Material aufbewahrt wird.
+
+Der erste registrierte Meteorit in Europa, von dem noch Material vorhanden ist, fiel 1400 n. Chr. in Elbogen in Böhmen, das genaue Datum und die Umstände des Falls sind nicht überliefert.
+Großes Aufsehen erregte der Fall von Ensisheim im Elsass, bei dem im Jahre 1492 ein Steinmeteorit unter großem Getöse vom Himmel fiel.
+Über das Ereignis berichteten zahlreiche Chroniken und Flugblätter.
+Die ältesten auf der Erde gefundenen Überreste von Meteoriten sind "fossile Meteoriten", die einen Stoffaustausch mit dem Gestein, in das sie eingebettet sind, erfahren haben und deren meteoritische Herkunft nur noch an ihrer Struktur zu erkennen ist.
+In Kalksteinschichten in Schweden sind zum Beispiel eingebettete Fragmente von fossilen chondritischen Meteoriten gefunden worden, die im Ordovizium vor etwa 450-480 Millionen Jahren auf die Erde gefallen sind.
+
+Als spektakuläres Ereignis der jüngeren Zeit gilt eine Beobachtung am 30. Juni 1908 (Tunguska-Ereignis).
+Zeugen beobachteten am Himmel über der sibirischen Tunguska-Region einen blassblauen Feuerball.
+Kurz darauf machte die Druckwelle einer Explosion rund 2.000 Quadratkilometer Wald dem Erdboden gleich, das entspricht etwa einer Kreisfläche von 50 Kilometern Durchmesser.
+Die durch die Explosion verursachten Luftdruckschwankungen konnten noch in London registriert werden.
+Neben anderen Theorien wird vermutet, dass es sich bei diesem Ereignis um die Explosion eines Meteoroiden, vermutlich eines Kometenkernfragments oder eines kleineren Asteroiden, von etwa 50 bis 100 Meter Durchmesser in einer Höhe von ca. 10.000 Metern handelte.
+Meteoriten oder ein Krater, die durch das Ereignis entstanden sein könnten, wurden in dem entsprechenden Gebiet bisher nicht gefunden, aber einige Stunden nach dem Ereignis fiel in der Nähe von Kiew der Meteorit Kagarlyk.
+Bisher ist ungeklärt, ob dies ein zufälliges Aufeinandertreffen der beiden Ereignisse ist oder ob ein Zusammenhang besteht.
+
+Meteoritisches Eisen wurde schon vor der eigentlichen Eisenzeit zur Herstellung von Kultgegenständen, Werkzeugen und Waffen benutzt.
+So wurden etwa in einem kleinen Gräberfeld aus der Zeit von 3500 bis 3000 v. Chr. bei der ägyptischen Siedlung Gerzeh Eisenperlen mit einem Nickelgehalt von 7,5 Prozent gefunden, was den meteoritischen Ursprung nahelegt.
+Eine Dolchklinge wurde auch in der Grabkammer des Pharaos Tutanchamun gefunden, von der angenommen wird, dass sie möglicherweise aus meteoritischem Eisen gefertigt worden ist.
+Zwei 2016 publizierte Analysen der Dolchklinge geben der Annahme eines meteoritischen Ursprungs des Klingenmaterials starke Unterstützung.
+Auch heute wird das sogenannte Meteoriteneisen wegen seiner relativen Seltenheit als Schmuck oder als Teil von handgemachten Messern verwendet.
+Ätzt man Meteoriteneisen mit Säure, zeichnet sich ein Muster ab, da die verschiedenen Metalle unterschiedlich stark von der Säure angegriffen werden.
+Bei dieser Widmanstätten-Struktur spricht man auch von Meteoritendamast.
+
+== Geschichte der Meteoritenforschung
+
+Die wissenschaftliche Erforschung von Meteoriten begann am Ende des 18. Jahrhunderts.
+Die erste Veröffentlichung über die chemische Analyse eines 1768 bei Luce in Frankreich gefallenen Steines mit modernen chemischen Methoden wurde 1777 von den Chemikern Fourgeroux, Chadet und Lavoisier im Journal de Physique veröffentlicht.
+Allerdings kamen die Autoren zu dem falschen Schluss, dass der Stein irdischen Ursprungs und möglicherweise durch Blitzeinschlag in Sandstein entstanden sei.
+
+Als Meilenstein in der Akzeptanz von Meteoriten als außerirdische Objekte gilt die Veröffentlichung des Physikers Ernst F. F. Chladni Ueber den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen.
+In diesem 1794 veröffentlichten Aufsatz diskutiert Chladni historische Berichte über Meteore und Feuerkugeln und begründet, warum viele der zu dieser Zeit existierenden, sehr unterschiedlichen Erklärungen über den Ursprung dieser Phänomene nicht zutreffen können.
+Des Weiteren stellt er die Hypothese auf, dass diese Erscheinungen mit Berichten über vom Himmel gefallene Stein- und Eisenmassen verknüpft sind.
+Außerdem schlägt er vor, dass diese Körper aus dem Weltraum stammen.
+Auslöser für diese Arbeit waren Diskussionen mit dem Physiker und Philosophen Georg Christoph Lichtenberg, der 1791 selbst einen Feuerball beobachtet hatte.
+
+Berichte über vom Himmel gefallene Steine oder Eisenmassen wurden vor der Veröffentlichung Chladnis von Wissenschaftlern meist als Aberglaube abgetan.
+Wenn überhaupt, wurde höchstens ein atmosphärischer Ursprung von Meteoriten akzeptiert, der auch als Erklärung von Meteoren und Feuerkugeln üblich war.
+Besonders Behauptungen, dass Meteoriten außerirdischen Ursprungs seien, wurden oft auch von aufgeklärten und gebildeten Menschen mit Spott und Polemik beantwortet.
+Ein Grund hierfür war der auf Aristoteles zurückgehende und von Isaac Newton bekräftigte Glaube, dass das Sonnensystem abgesehen von den größeren Körpern wie Planeten, Monden und Kometen frei von Materie und höchstens von einer Äther genannten Substanz erfüllt sei.
+Bereits im 18. Jahrhundert, noch vor der Erkenntnis, dass Meteoriten extraterrestrischen Ursprungs sind, wurden die ersten Meteoritensammlungen gegründet.
+Die älteste Meteoritensammlung der Welt befindet sich im Naturhistorischen Museum in Wien, wo mit dem Hraschina-Meteoriten (gefallen 1751) der Grundstein gelegt wurde; heute befindet sich dort die mit ca. 1100 Objekten größte Schausammlung der Welt.
+
+Auch Chladnis Thesen erfuhren zunächst bei den meisten Wissenschaftlern Ablehnung, durch weitere beobachtete Fälle (beispielsweise Wold Cottage 1795, L'Aigle 1803) und Forschungsberichte erhielten sie aber zunehmend Unterstützung.
+William Thomson lieferte 1794 die erste mineralogische Beschreibung eines bei Siena in Italien gefallenen Steins, in der er zeigte, dass dieser von allen bekannten irdischen Gesteinen verschieden ist.
+Edward C. Howard und Jacques-Louis de Bournon analysierten 1802 vier Meteoriten auf ihre chemische Zusammensetzung.
+De Bournon erwähnte dabei erstmals in diesen gefundene Silikatkügelchen, die 1869 durch Gustav Rose als Chondren benannt wurden.
+
+Während noch in der ersten Hälfte des 19. Jahrhunderts die fälschlicherweise als Mondvulkane interpretierten Mondkrater oder Staubzusammenballungen in der Hochatmosphäre als Herkunft der meisten Meteoriten diskutiert wurden, nahm man später den Asteroidengürtel oder gar einen interstellaren Ursprung an.
+Dass fast alle Meteoriten Bruchstücke aus dem Asteroidengürtel sind, zeichnete sich letztendlich um 1940 durch photographische Aufnahmen einiger Meteore durch F. L. Whipple und C. C. Wylie ab, aus denen auf elliptische Bahnen geschlossen werden konnte.
+Bei einem interstellaren Ursprung wären hyperbolische Bahnen zu erwarten gewesen.
+Im Jahr 1959 konnte die Bahn des Meteoriten Pribram durch mehrere Kameras aufgezeichnet und der Orbit berechnet werden, dessen Aphel im Asteroidengürtel lag.
+Allerdings konnte dann Anfang der 1980er-Jahre mit Hilfe neuester kosmochemischer Daten auch nachgewiesen werden, dass etwa jeder tausendste Meteorit vom Mond und eine vergleichbare Anzahl sogar vom Mars stammt.
+Schätzungen gehen von etwa 45.000 Meteoriten aus, die weltweit in privaten und wissenschaftlichen-institutionellen Sammlungen aufbewahrt werden.
+
+== Aktuelle Meteoritenforschung
+
+Meteoriten repräsentieren bisher neben den Proben von Mondgestein durch die Apollo- und Luna-Missionen sowie den eingefangenen Partikeln des Sonnenwindes (Mission Genesis), des Kometen Wild 2 und des interstellaren Staubes (Mission Stardust) das einzige außerirdische Material, das in irdischen Labors untersucht werden kann.
+Deswegen ist die Forschung an Meteoriten sehr wichtig für die Planetologie und kosmochemische Fragestellungen.
+So können anhand von Isotopenmessungen an präsolaren Mineralen Modelle der Nukleosynthese in Supernovae und der Umgebung von Roten Riesen überprüft werden.
+Auch für die Erforschung der Entstehung unseres Planetensystems sind Meteoriten sehr wichtig.
+So konnte für Calcium-Aluminium-reiche Einschlüsse in primitiven Chondriten mit verschiedenen Datierungsmethoden ein Alter zwischen 4,667 und 4,671 Milliarden Jahren nachgewiesen werden.
+Weil dies vermutlich die ältesten im Sonnensystem entstandenen Minerale sind, markieren sie den Beginn der Entstehung unseres Planetensystems.
+Die Datierung der verschiedenen Klassen von Meteoriten erlaubt so eine zunehmend genauere zeitliche Darstellung der einzelnen Prozesse im frühen Sonnensystem.
+Auch sind in Meteoriten zahlreiche Mineralien wie beispielsweise Niningerit entdeckt worden, die bisher auf der Erde nicht gefunden wurden.
+
+Meteoriteneinschläge haben zudem die Erdgeschichte stark beeinflusst, deshalb sind sie auch aus diesem Grund von Interesse.
+So war die Erde nach ihrer Entstehung und bis vor etwa 3,9 Milliarden Jahren einige hundert Millionen Jahre lang einem starken Bombardement durch außerirdische Objekte ausgesetzt.
+Weithin bekannt ist inzwischen der KT-Impakt genannte Meteoriteneinschlag vor 65 Millionen Jahren, der für das Aussterben der Dinosaurier verantwortlich gemacht wird.
+Auch das heute allgemein akzeptierte Alter der Erde von 4,55 Milliarden Jahren wurde zuerst 1953 von C. C. Patterson mittels Uran-Blei-Datierung am Meteoriten Canyon-Diablo bestimmt.
+
+Beginnend mit der Entdeckung von organischen Verbindungen im kohligen Chondriten Murchison spielen Meteoriten eine zunehmend größere Rolle in der Astrobiologie und der Erforschung des Ursprungs des Lebens.
+Neben Aminosäuren und polyzyklischen aromatischen Kohlenwasserstoffen, die inzwischen auch in anderen kohligen Chondriten nachgewiesen wurden, wurden in Murchison Fullerene und sogar Diaminosäuren nachgewiesen.
+Es wird vermutet, dass Diaminosäuren eine wichtige Rolle in den ersten präbiotischen Reaktionen, aus denen letztlich die RNA und die DNA hervorgingen, gespielt haben.
+Diese Entdeckung ist somit ein Indiz dafür, dass einige wichtige Bausteine des Lebens durch Meteoriten auf die Erde gelangt sein könnten.
+Ein noch aufsehenerregenderes Forschungsergebnis in diesem Bereich war die bis heute kontrovers diskutierte Entdeckung angeblich fossiler Spuren bakteriellen Lebens im Marsmeteoriten ALH 84001.
+
+2012 wurde eine ca. 24 cm große, etwa 10 kg schwere Figur untersucht, die 1938/39 von einer deutschen Tibet-Expedition entdeckt worden sein soll und bis 2009 in einer Privatsammlung aufbewahrt wurde.
+Forscher gehen davon aus, dass die Figur aus einem Fragment des Chinga-Eisenmeteoriten gefertigt wurde, der etwa vor 15.000 Jahren im Bereich der heutigen Mongolei oder Sibirien niederging.
+
+== Fall und Einschlag
+
+Man unterscheidet einzelne Fälle und multiple Fälle.
+Bei einem einzelnen Fall erreicht ein Meteoroid die Erdoberfläche, ohne vorher durch die beim Atmosphärenflug wirkenden Kräfte in mehrere Teile auseinanderzubrechen.
+Häufig handelt es sich bei den einzelnen Fällen um Eisenmeteoriten, seltener um Steineisenmeteoriten oder Steinmeteoriten.
+Dies lässt sich auf die höhere Dichte und die kompaktere Struktur der Eisenmeteoriten zurückführen.
+Sie setzt den Torsions-, Zug- und Druckkräften, die durch den Luftstau und die hohen Geschwindigkeiten beim Eintritt in die Erdatmosphäre wirken, höheren Widerstand entgegen.
+
+Zu multiplen Fällen kommt es während eines Kontaktes der Erdatmosphäre mit Meteoroiden eines Meteorstroms sowie auch durch das Auseinanderbrechen eines einzelnen Meteoroiden während des Atmosphärenfluges in mehrere Fragmente.
+Schockereignisse, bedingt durch Kollisionen der Mutterkörper der Meteoriten im Asteroidengürtel, führen insbesondere bei silikatischen Körpern zu Frakturen und Haarrissen der losgesprengten Bruchstücke.
+Beim Eintritt in die Erdatmosphäre brechen diese Asteroidentrümmer häufig entlang dieser Frakturen auseinander.
+Dieser Vorgang kann sukzessive in mehreren Stufen ablaufen, was dazu führt, dass der Meteoroid schließlich in Gestalt eines Trümmerschwarmes die unteren Schichten der Atmosphäre erreicht (z. B. Pultusk 1868, Hoolbrook 1912, Sikhote-Alin 1947, Gao-Guenie 1960, Thuathe 2002, Bassikounou 2006, Tamdakht 2008).
+Allerdings sind in einigen Fällen finale Detonationen am Endpunkt der Flugbahn, nur wenige Kilometer über der Erdoberfläche belegt (z. B. Tatahouine 1931).
+
+Die Meteoriten multipler Fälle treffen nicht gemeinsam auf einem Punkt der Erdoberfläche auf, sondern bilden aufgrund der unterschiedlichen Massenverteilung im Trümmerschwarm ein ausgedehntes Streufeld.
+Dabei legen die größeren Massen aufgrund der ihnen innewohnenden größeren kinetischen Energie eine gestrecktere, längere Flugbahn zurück, während kleinere Massen durch Luftwiderstand und Winddrift schneller in ihrem Flug abgebremst und leichter abgelenkt werden.
+Aus diesem Verhalten ergibt sich am Boden stets eine Ellipse, innerhalb derer die einzelnen Massen aufschlagen.
+Dieses elliptische Streufeld wird Distributionsellipse genannt.
+Die größten Massen befinden sich dabei stets am Endpunkt der Ellipse, die kleinsten Massen markieren den Anfangspunkt der Ellipse, sie erreichen auch als erste die Oberfläche.
+Berühmte Beispiele für klassische Distributionsellipsen sind die Meteoritenfälle von Pultusk 1868, Hessle 1869, L'Aigle 1803, Dar Al Ghani 749 1999 (Fund), Thuathe 2002 und Bassikounou 2006.
+
+Kleinere Meteoriten werden bei ihrem Durchflug durch die Erdatmosphäre abgebremst und fallen während der sogenannten Dunkelflugphase schließlich im freien Fall herab.
+Beim Auftreffen auf die Erde richten sie, wenn überhaupt, nur geringen Schaden an.
+Dennoch sind etwa 100 Fälle bekannt, bei denen Meteoriteneinschläge zu (meist geringen) Sachschäden geführt haben, so etwa beim Peekskill-Meteoriten, einem 12 Kilogramm schweren Chondriten, der am 9. Oktober 1992 im US-amerikanischen Staat New York einen geparkten Chevrolet Malibu beschädigt hat.
+
+Am 15. Oktober 1972 soll der Steinmeteorit von Valera in Venezuela eine Kuh getroffen und getötet haben, wie von den Besitzern der Kuh notariell beglaubigt zu Protokoll gegeben wurde.
+
+Bis heute ist nur ein einziger Fall bekannt, bei dem ein Mensch nachweislich von einem Meteoriten direkt verletzt wurde:
+Am 30. November 1954 durchschlug der 5,56 kg schwere Meteorit von Sylacauga im US-Bundesstaat Alabama das Dach eines Hauses und traf, vom Aufprall auf ein Radiogerät bereits gebremst, die auf einer Couch liegende Hausfrau Ann Elizabeth Hodges am Arm und an der Hüfte, was großflächige Blutergüsse zur Folge hatte.
+Nach Alexander von Humboldt kam 1660 bei einem Aerolithenfall in Italien ein Franziskaner zu Tode.
+
+Allerdings kann es bei einem Meteoritenfall auch indirekt zu erheblichen Personen- und Sachschäden kommen, wie der 2013 herabgestürzte Meteor von Tscheljabinsk zeigt:
+Durch die Detonation des Meteoroiden in der oberen Atmosphäre und die dadurch ausgelöste atmosphärische Druckwelle stürzte das Dach einer Zinkfabrik ein.
+Etwa 3000 weitere Gebäude wurden beschädigt, wobei hauptsächlich Fenster zersplitterten und Türen aufgedrückt wurden.
+Hunderte Menschen wurden wegen Schnittwunden (verursacht durch zersplittertes Glas) und Prellungen medizinisch behandelt.
+
+Sollte ein größerer Meteorit in besiedelten Regionen niedergehen, könnte das beträchtliche materielle Schäden sowie den Verlust von Menschenleben zur Folge haben.
+Meteoriten mit einer Masse von über 100 Tonnen werden durch die Atmosphäre nicht mehr nennenswert abgebremst, deshalb wird beim Auftreffen auf die Erdoberfläche ihre kinetische Energie explosionsartig freigesetzt, wodurch es zur Bildung von Einschlagkratern kommt.
+Derartige Einschläge können eine globale Naturkatastrophe verursachen und - wie im Falle des KT-Impakts - ein Massenaussterben zahlreicher Pflanzen- und Tierarten zur Folge haben.
+
+== Berechnung des Fallorts von Meteoriten
+
+Die Flugbahn eines Meteors durch die Erdatmosphäre kann durch ein geometrisches Schnittverfahren bestimmt werden, wenn die Leuchtspur am Sternhimmel durch die Kameras mehrerer Meteorstationen erfasst wurde.
+Aus der Richtung und Krümmung der Flugbahn und der Luftdichte lässt sich der genäherte Fallort berechnen, was in den letzten Jahren in Mitteleuropa schon mehrmals zu Meteoritenfunden geführt hat.
+
+== Siehe auch
+
+== Literatur
+
+=== Einführende Fachbücher und Artikel
+
+=== Meteoritenkataloge
+
+=== Relevante wissenschaftliche Zeitschriften
+
+== Weblinks
+
+== Einzelnachweise
+

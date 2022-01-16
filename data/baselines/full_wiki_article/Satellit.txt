@@ -1,0 +1,96 @@
+Ein Satellit (von lateinisch satelles "Begleiter, Leibwächter"), früher auch Kunstmond, ist in der Raumfahrt ein künstlicher Raumflugkörper, der einen Himmelskörper auf einer elliptischen oder kreisförmigen Umlaufbahn zur Erfüllung wissenschaftlicher, kommerzieller oder militärischer Zwecke umkreist.
+Satelliten sind im erweiterten Sinne alle astronomischen Objekte, die einen Himmelskörper - einen Stern, Planeten oder Mond oder anderes - umkreisen.
+Künstliche Gerätschaften, welche die Erde umkreisen, werden im deutschen speziell Erdsatellit genannt.
+Künstliche Satelliten, die einen anderen Körper als die Erde umlaufen und erforschen, werden hingegen als Orbiter bezeichnet, wobei beispielsweise ein die Sonne umkreisender Flugkörper bisweilen auch "Sonnensatellit" genannt wird.
+Demgegenüber stehen die natürlichen Satelliten von Planeten, die auch als Monde oder Trabanten bezeichnet und - ebenso wie der Erdmond - gesondert behandelt werden, ebenso die natürlichen Satelliten/Trabanten der Sterne, die Planeten, Asteroiden und anderes.
+Künstliche Satelliten, die aus einer Parkbahn um die Erde in den interplanetaren Raum gelangen, können sinngemäß als "künstliche Planetoiden" bezeichnet werden, man spricht von Raumsonde.
+Dazu gehören naturgemäß auch diejenigen, die dann als Orbiter am Ziel in eine Umlaufbahn eintreten.
+Man bezeichnet Flugkörper nur dann als Satelliten, wenn sie die Erde im Weltraum umkreisen.
+Einem Satelliten fehlt - auch nach Erreichen seiner Laufbahn - ein Eigenantrieb, was ihn vom Raumschiff unterscheidet.
+Einfache Bremsraketen, die zu einem kontrollierten Absturz führen, reichen im fachsprachlichen Sinne nicht aus, einen Satelliten zum Raumschiff zu machen.
+Im Jahre 1955 gab US-Präsident Eisenhower die Entwicklung eines amerikanischen Erdsatelliten in Auftrag, worauf die Sowjetunion aus propagandistischen Gründen vier Tage später ein ähnliches Vorhaben ankündigte.
+Dennoch überraschte der erfolgreiche Start des sowjetischen Satelliten Sputnik 1 am 4. Oktober 1957 (19:28 GMT, 5. Oktober Ortszeit) die Weltöffentlichkeit und führte im Westen zu einem regelrechten Sputnikschock.
+Die Funksignale von Sputnik gaben codiert an, ob der Satellit von Materie getroffen wurde.
+Der erste US-amerikanische Satellit Explorer 1 folgte am 1. Februar 1958 und erbrachte den Nachweis des Van-Allen-Strahlungsgürtels zum Beginn der Erforschung der Ionosphäre.
+Trotzdem stand die Entwicklung von Satelliten lange Zeit unter dem Einfluss des Kalten Krieges.
+Im Bereich der internationalen Telekommunikation haben Nachrichtensatelliten ab den 1970er Jahren die Bedeutung anderer Datenverbindungen wie des Transatlantischen Telefonkabels verringert.
+Ebenso wichtig wurden die Erdbeobachtungs- und Wettersatelliten, während schon seit den 1960ern Forschungssatelliten für Astronomie, Geodäsie und Kartografie entwickelt wurden.
+Das Büro der Vereinten Nationen für Weltraumfragen verwaltet seit 1962 ein Verzeichnis (Index of Objects Launched into Outer Space) aller Satelliten, die in den Weltraum transportiert werden.
+Nach Angaben der US-amerikanischen NASA befanden sich am 31. Mai 1969 rund 1950 künstliche Objekte im Weltraum, wovon 1.889 die Erde umrundeten, 17 sich in einer Ellipse um die Erde und 38 auf einer Bahn um die Sonne befanden.
+Neben ausgebrannten Raketenstufen und anderen Objekten waren es am Stichtag 394 Erdsatelliten und Raumsonden, darunter 289 der USA, 83 der Sowjetunion, 5 französische, 3 kanadische, 2 britische und 3 von der European Space Research Organisation.
+Im Jahr 2016 betrug die Anzahl der bekannten aktiven Satelliten bereits über 1400.
+Darüber hinaus befinden sich mehrere tausende weitere künstliche Objekte (ausgediente Satelliten, Teile von Raketen und anderer Weltraummüll) im Erdumlauf:
+1996 sollen es nach ESA-Daten rund 8500 Stück "Weltraummüll" (ab ca. 10 cm Größe) gewesen sein.
+Das Joint Space Operations Center des United States Strategic Command weiß 2009 von über 18.500 vom Menschen hergestellten Himmelskörpern.
+Trotz der großen Anzahl sind Zusammenstöße äußerst selten.
+Die erste bekannte Kollision eines aktiven Satelliten mit einem ausgedienten Objekt fand am 10. Februar 2009 statt:
+Der russische Satellit Kosmos 2251, der seit 1993 im All und wohl etwa seit 1999 außer Betrieb war, kollidierte mit dem Kommunikationssatelliten Iridium 33 der US-Firma Iridium Satellite.
+Beide Satelliten wurden vollständig zerstört.
+Am 22. Januar 2013 wurde der russische Kleinsatellit BLITS (NORAD 35871) durch Kollision mit Bruchstücken des 2007 durch eine chinesische Antisatellitenrakete zerstörten Satelliten Fengyun-1C unbrauchbar und wurde aus seiner Bahn geworfen.
+Am 23. Mai 2013 versetzten Trümmerteile einer russischen Rakete den Satelliten NEE-01 Pegaso in eine unkontrollierte Taumelbewegung, so dass er außer Kontrolle geriet.
+Je nach Aufgabe des Satelliten unterscheidet man folgende Typen:
+Welche Satellitenbahn jeweils am besten geeignet ist, richtet sich nach den Aufgaben.
+Beobachtungssatelliten sollen möglichst tief fliegen.
+Bei Spionagesatelliten liegt die Bahn manchmal so niedrig, dass die Reibung in der Atmosphäre die Lebensdauer auf wenige Monate beschränkt.
+Im Gegensatz dazu erhalten Kommunikationssatelliten möglichst hohe Bahnen, damit sie weite Gebiete überdecken.
+Sollen sie ortsfest über einer Stelle des Erdäquators stehen, müssen sie die Erde in einer geosynchronen Umlaufbahn in etwa 36.000 km Höhe in Richtung der Erdrotation umkreisen (Sonderfall: "geostationär").
+Ein Satellit besteht im Wesentlichen aus der wissenschaftlichen, kommerziellen oder militärischen Nutzlast sowie dem Satellitenbus, der die zu deren Betrieb notwendigen Strukturen und Subsysteme enthält.
+Dieser besteht aus der Primärstruktur, in die die weiteren Subsysteme integriert werden.
+Dazu gehören die Energieversorgung (Solarzellen, Akkumulatoren), das Temperaturkontrollsystem, das Antriebssystem für die Lage- und Positionsregelung (Bahnregelung) und das Bordrechensystem für Steuerung und Datenmanagement.
+Die Versorgung des Satelliten mit elektrischem Strom (Energie) erfolgt meist durch Solarzellen mit Unterstützung durch Akkumulatoren, wenn im erdnahen Raum ausreichende Helligkeit der Sonne vorhanden ist, oder durch Batterien wenn nur kurze Einsatzzeiten geplant sind.
+Bei Satelliten, die sich von der Sonne weiter entfernen und so das Angebot an Strahlungsenergie zu gering ist, verwendet man die erheblich kleineren Radioisotopengeneratoren.
+Nach dem Start des Satelliten muss dessen weiterer Betrieb gewährleistet werden.
+Dazu gehören nicht nur bordeigene Steuerungs- und Kontrollsysteme, sondern auch entsprechende Bodenstationen (z. B. Mission Control Center) die Bodenkontrolle, Fernsteuerung und Auswertung bzw. Bereitstellung von Daten der Satelliten bzw. deren Nutzlast übernehmen.
+Zu diesen Aufgaben gehören:
+Für eine erdnahe, kreisförmige Umlaufbahn gilt die Erste kosmische Geschwindigkeit von v1 = 7,9 km/ s.
+Bei einem Start in Ostrichtung trägt die Erddrehung mit einem Anteil von maximal 0,46 km/s zur Bahngeschwindigkeit bei.
+Jedoch kommt es nicht zu einem vollständigen Ausnutzen der Erdrotation, da der Flugkörper aufgrund von sich in andere Richtungen bewegenden Luftteilchen (Winden) abgebremst wird.
+Für eine Rakete kann somit ein v1 von 7,44 km/s genügen.
+In Westrichtung wäre der Anteil zusätzlich aufzubringen, deshalb werden fast alle Satelliten in Ostrichtung gestartet.
+Die Kreisbahngeschwindigkeit polarer Bahnen bleibt von der Erdrotation unbeeinflusst.
+Will man das Gravitationsfeld der Erde verlassen, muss der Satellit auf die Zweite kosmische Geschwindigkeit von etwa 11,2 km/s beschleunigt werden.
+Sie entspricht dem 2 {\displaystyle {\sqrt {2} }} fachen der Ersten kosmischen Geschwindigkeit.
+Zahlreiche größere Erdsatelliten können mit bloßem Auge als über das nächtliche Himmelsgewölbe ziehende Lichtpunkte beobachtet werden.
+Mit speziell für die Sonnenbeobachtung ausgerüsteten Teleskopen ist es auch möglich, die Passage von Satelliten vor der Sonne zu beobachten.
+Die ISS, als größtes künstliches Objekt im Erdorbit, kann eine scheinbare Helligkeit von bis zu -5 mag erreichen.
+Die Satelliten des Iridium-Systems können mit ihren Antennenflächen das Sonnenlicht gerichtet als Iridium-Flare reflektieren und erreichen dann kurzzeitig eine scheinbare Helligkeit von bis zu -8 mag.
+Im Unterschied zu einem Flugzeug hat ein Satellit keine blinkenden, farbigen Lichter.
+Jedoch ändern sich bei einem Teil der Objekte die Helligkeiten durch Rotation oder eine Taumelbewegung.
+Teilweise werden Satellitenlichtreflexionen irrtümlich mit Sternen verwechselt.
+Wenn es um die Beobachtung mit bloßem Auge geht, ist diese in der Regel nur kurz nach Sonnenuntergang oder kurz vor Sonnenaufgang möglich.
+Das kommt daher, dass der Satellit in seiner (nicht zu) hohen Umlaufbahn noch von der Sonne beschienen sein muss, damit man ihn am Boden (wo es schon/noch dunkel ist) vor dem dunklen Himmel überhaupt erkennen kann; mitten in der Nacht fliegt er auch im Schatten und bleibt unsichtbar.
+Zu hoch darf die Umlaufbahn auch nicht sein, da der Satellit dann wegen der Entfernung zu klein wird, um auch bei Bestrahlung noch sichtbar zu werden.
+Erkennbar ist ein Satellit an der hohen Geschwindigkeit, mit der er über den Himmel zieht, er braucht typischerweise nur wenige Minuten für den kompletten Überflug des sichtbaren Himmelsteils.
+Ein großes Objekt wie die ISS kann besonders hell sein.
+Aber auch sie ist in unseren Breiten nur selten zu sehen.
+Das liegt an mehreren Punkten, die auch für andere Satelliten gelten:
+Während Sterne sich am Nachthimmel bewegen, befinden sich geostationäre Satelliten dort immer am selben Ort.
+So erscheinen sie auf Langzeit-Aufnahmen als Punkte:
+Verwendete Symbole:
+Einem Erdsatelliten muss beim Start eine so hohe Bahngeschwindigkeit mitgegeben werden, dass seine Zentrifugalkraft (oder auch Radialkraft) mindestens gleich der Gewichtskraft ist.
+Die Zentrifugalkraft berechnet sich zu:
+Die Erdanziehungskraft berechnet sich zu:
+Da F r = F G {\displaystyle F_{r}=F_{G}} sein muss, ergibt sich nach Einsetzen:
+Nun erkennt man, dass die Masse des Körpers auf der Kreisbahn keine Relevanz hat, da diese in der Gleichung entfällt.
+Die für eine bestimmte Umlaufbahn nötige Bahngeschwindigkeit hängt also nur von der Bahnhöhe ab:
+Die erste kosmische Geschwindigkeit oder Kreisbahngeschwindigkeit:
+Mit dieser Geschwindigkeit ist es einem Körper auf einer Kreisbahn um die Erde möglich, diese Bahn zu halten:
+Mit der zweiten kosmischen Geschwindigkeit oder Fluchtgeschwindigkeit kann er das Schwerefeld der Erde verlassen.
+Sie beträgt:
+Der Transport in die Umlaufbahn erfolgt mit Hilfe von Raketen, die aus technisch-energetischen Gründen als Stufenraketen ausgeführt sind.
+Der Satellit ist auf die oberste (meist dritte) Raketenstufe aufgesetzt und aerodynamisch günstig verkleidet.
+Er wird entweder direkt in die Bahn geschossen oder durch ein anderes Raumfahrzeug ausgesetzt.
+Solange die Rakete arbeitet, läuft er auf der so genannten "aktiven Bahn".
+Nach Brennschluss der Raketenmotoren folgt die "Freiflugbahn" (oder passive Bahn).
+Die antriebslose Bewegung eines Satelliten gehorcht genähert den Gesetzen des Zweikörperproblems der Himmelsmechanik - weitere Kräfte bewirken jedoch Bahnstörungen.
+Wäre die Erde eine exakte Kugel ohne Erdatmosphäre und gäbe es keine anderen Himmelskörper, folgte die Satellitenbahn einer mehr oder weniger exzentrischen Ellipse um die Erde gemäß den Keplerschen Gesetzen.
+Die Bahnebenen der Erdsatelliten gehen durch den Erdmittelpunkt und sind näherungsweise raumfest, also gegenüber den Fixsternen unverändert, während die Erde darunter rotiert.
+Abhängig von ihrer Flughöhe werden Satelliten in verschiedene Typen aufgeteilt:
+Durch die Abplattung der Erde sowie die Inhomogenität der Erdoberfläche und des Erdschwerefeldes weichen die Satellitenbahnen von der idealen Ellipsenform um einige Kilometer ab.
+Aus der Beobachtung dieser Abweichungen kann die Satellitengeodäsie die genaue Erdform bestimmen - das Geoid weicht vom fiktiven Erdellipsoid um bis zu 100 m ab.
+Für diese Abweichungen (auf 6357-6378 km Erdradius nur 0,001 %) wurden die etwas unglücklichen Begriffe Kartoffel- bzw. Birnenform geprägt.
+Zusätzlich bewirkt die Erdatmosphäre eine ständige leichte Bremsung der Satelliten, sodass sich Bahnen unter einer Höhe von etwa 1000 km spiralförmig der Erde nähern.
+Die Lebensdauer hängt auch vom Verhältnis Oberfläche/Masse ab und reicht von einigen Wochen oder Jahren (LEOs) bis zu Jahrtausenden (MEOs).
+Weitere Bahnstörungen werden von der Gravitation des Mondes verursacht, vom Strahlungsdruck der Sonne und von Effekten in der Ionosphäre.
+Die Satellitenbahn muss deshalb ständig kontrolliert und gegebenenfalls nachgeregelt werden (Attitude Determination and Control System).
+Wenn der Gasvorrat für die Korrekturdüsen aufgebraucht ist, verlässt der Satellit seine Umlaufbahn und wird dadurch meist wertlos.

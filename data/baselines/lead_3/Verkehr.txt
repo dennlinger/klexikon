@@ -1,0 +1,3 @@
+Verkehr (abgekürzt: Verk.) ist die Ortsveränderung von Personen und materiellen Gütern sowie von Nachrichten, Informationen, Energie und Wasser.
+Bestimmte Verkehrsarten legen die Form der Bewegung (Transport), der Objekte (Entitäten) und des Verkehrssystems fest, z. B. Straßenverkehr, Personenverkehr, Güterverkehr, Nachrichtenverkehr, Individualverkehr, Verkehrsmittel oder Verkehrsweg.
+In einem Verkehrsnetz werden die Objekte entlang von Kanten bzw. auf Routen einer Verkehrsinfrastruktur bewegt.

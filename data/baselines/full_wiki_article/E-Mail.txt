@@ -1,0 +1,243 @@
+Die (auch das) E-Mail (englisch , kurz Mail; engl. electronic mail für "elektronische Post") ist zum einen ein System zur computerbasierten Verwaltung von briefähnlichen Nachrichten und deren Übertragung über Computernetzwerke, insbesondere über das Internet.
+Zum anderen werden auch die auf diesem elektronischen Weg übertragenen Nachrichten selbst als E-Mails bezeichnet.
+E-Mail ist neben dem World Wide Web ein wichtiger Internetdienst, nicht zuletzt, weil es durch E-Mails möglich ist, Textnachrichten ebenso wie digitale Dokumente (also z. B. Grafiken oder Office-Dokumente) typischerweise in wenigen Sekunden rund um die Erde zu senden.
+Im Gegensatz zu Telefon oder Internet Relay Chat, die gleichzeitige (synchrone) Kommunikation ermöglichen, ist die E-Mail - wie die Briefpost - ein asynchrones Kommunikationsmedium:
+Der Sender versendet seine Nachricht unabhängig davon, ob der Empfänger sie sofort entgegennehmen kann oder nicht.
+Standardsprachlich hat sich in Deutschland die weibliche Form (die E-Mail) des grammatischen Geschlechts weitgehend durchgesetzt, in der Schweiz hingegen das Neutrum (das E-Mail), während in Österreich und in Teilen Südwestdeutschlands beide Formen Verwendung finden.
+Das Österreichische Wörterbuch nennt sowohl die weibliche als auch die sächliche Form, nennt letztere aber zuerst.
+Dass die sächliche Form überwiegt, wird dadurch unterstrichen, dass "e-mailen" mit "ein E-Mail versenden" erklärt wird.
+Gemäß Duden, Wahrig und dem amtlichen Wörterverzeichnis der reformierten deutschen Rechtschreibung ist E-Mail die richtige Schreibweise.
+Ein weniger gebräuchliches Synonym ist der Begriff E-Post.
+Vor dem Aufkommen von E-Mail wurden Nachrichten als Brief oder Telegramm, später auch - als die ersten beiden elektronischen Übertragungsverfahren - Fernschreiben (Telex) und Teletex sowie Fax übermittelt.
+Ende der 1980er Jahre begann dann die weltweite Verbreitung der E-Mail - sie war eine der ersten Anwendungen, die die Möglichkeiten des Arpanets nutzten.
+Die Einführung von E-Mail wurde nicht gezielt vorangetrieben, sondern eroberte das Netzwerk wegen des Benutzerverhaltens.
+Das überraschte die Arpanet-Initiatoren, denn noch 1967 hatte Lawrence Roberts, der spätere Leiter von IPTO, gesagt, die Möglichkeit des Austausches von Botschaften unter den Netzwerkteilnehmern sei kein wichtiger Beweggrund, um ein Netzwerk von wissenschaftlichen Rechnern aufzubauen ("not an important motivation for a network of scientific computers").
+Ein Vorläufer der E-Mail war das MAIL-Systemkommando in der Erweiterung Multics des CTSS Time-Sharing-Systems am MIT, vorgeschlagen 1964/65 von den Systementwicklern Glenda Schroeder, Louis Pouzin und Pat Crisman und implementiert 1965 von Tom Van Vleck.
+Möglichkeiten, Mail im Arpanet zu versenden, regte J. C. R. Licklider schon 1968 an und die Idee wurde unter den Entwicklern diskutiert (RFC 196, "Mail Box Protocol" von Richard W. Watson vom 20. Juli 1971).
+Nachdem Multics, in dem ein Mail-Programm zur Kommunikation der Nutzer implementiert worden war, im Oktober 1971 an das Arpanet angeschlossen worden war, wurde Anfang 1972 ein Mail-Programm über das Arpanet von der MAC Networking Group unter Mike Padlipsky implementiert.
+Ray Tomlinson hat im Jahr 1971 den ersten elektronischen Brief verschickt und gilt seitdem als Erfinder der E-Mail.
+Er war bei dem Forschungsunternehmen Bolt, Beranek and Newman (BBN) an der Entwicklung des Betriebssystems TENEX beteiligt, das auf vielen im Arpanet verbundenen Rechnern zur Verfügung stand, und beschäftigte sich dabei unter anderem mit dem Programm SNDMSG für die Übermittlung von Nachrichten unter den Benutzern des Großrechners und dem Protokoll CPYNET für die Übertragung von Dateien zwischen Computern.
+Programme wie SNDMSG gab es wie erwähnt bereits seit den frühen 1960er Jahren.
+Sie ermöglichten Benutzern, den Mailboxen anderer Benutzer desselben Computers Text hinzuzufügen.
+Eine Mailbox war seinerzeit nichts weiter als eine einzelne Datei, die nur ein Benutzer lesen konnte.
+Tomlinson kam 1971 auf die Idee, CPYNET so zu ändern, dass es vorhandene Dateien ergänzen konnte und es dann in SNDMSG einzuarbeiten.
+Die erste Anwendung dieser Kombination war eine Nachricht von Tomlinson an seine Kollegen, in der er Ende 1971 mitteilte, dass man nun Nachrichten übers Netzwerk senden konnte, indem man dem Benutzernamen des Adressaten das Zeichen "@" und den Hostname des Computers anfügte.
+Parallel zum Internet entwickelten sich zu Beginn der 1980er Jahre in den meisten Netzwerken Systeme, mit denen sich Nachrichten übertragen ließen.
+Dazu gehörten unter anderem Mailbox-Systeme, X.25, Novell und BTX.
+Diese Systeme wurden Mitte der 1990er durch die Verbreitung des Internets stark verdrängt.
+Aus dem Jahr 1982 stammt das Protokoll RFC 822. RFC 822 wurde im Jahr 2001 durch RFC 2822 ersetzt, das wiederum im Jahr 2008 durch RFC 5322 ersetzt wurde.
+In Deutschland wurde am 3. August 1984 um 10:14 Uhr MEZ die erste Internet-E-Mail empfangen: Michael Rotert von der Universität Karlsruhe (TH) empfing unter seiner Adresse "rotert@germany" eine Grußbotschaft von Laura Breeden ("breeden@csnet-sh.arpa") an der US-amerikanischen Plattform CSNET aus Cambridge (Massachusetts) zur elektronischen Kommunikation von Wissenschaftlern, die einen Tag zuvor (am 2. August 1984, 12:21 Uhr) abgeschickt worden war.
+Eine Kopie dieser E-Mail wurde als "CC" gleichzeitig an den Leiter des Projekts, Werner Zorn mit der Adresse ("zorn@germany"), geschickt.
+Heute werden E-Mails meist per SMTP verschickt.
+Zum Abrufen der E-Mails vom Zielserver existieren verschiedene Protokolle, etwa POP3, IMAP oder Webmail.
+X.400 ist ein offener Standard, der hauptsächlich im LAN oder WAN benutzt wird.
+Die erste große E-Mail-Diskussionsgruppe, die im Arpanet entstand, war eine Mailingliste namens "SF-LOVERS", in der sich eine Reihe von DARPA-Forschern an öffentlichen Diskussionen über Science-Fiction beteiligten.
+SF-LOVERS tauchte in den späten 1970er Jahren im Arpanet auf.
+Zunächst wurde versucht, dagegen einzuschreiten, weil derartige Aktivitäten selbst bei liberalster Auslegung mit Forschung wenig zu tun hatten.
+Für einige Monate wurde die Liste deshalb gesperrt.
+Schließlich wurden die Verantwortlichen der DARPA aber mit dem Argument überzeugt, dass SF-LOVERS ein wichtiges Pilotprojekt zur Erforschung der Verwaltung und des Betriebs großer Mailinglisten war.
+Die Systemingenieure mussten das System wiederholt umbauen, damit es das explosionsartig ansteigende Nachrichtenaufkommen bewältigen konnte.
+Im Jahr 2014 wurden in Deutschland rund 506,2 Milliarden E-Mails versendet.
+Im Jahr 2015 waren weltweit schätzungsweise 4,353 Milliarden E-Mail-Konten von 2,586 Milliarden Nutzern in Gebrauch.
+81 % der Deutschen versendeten und empfingen im Jahr 2015 E-Mails.
+Zum Schreiben, zum Versand, zum Empfang und zum Lesen von E-Mails gibt es zwei Möglichkeiten (Benutzerschnittstellen).
+Zur Nutzung von E-Mail kann ein E-Mail-Programm, auch E-Mail-Client oder Mail-User-Agent (MUA) genannt, verwendet werden.
+Ein solches Programm ist lokal auf dem Computer des Benutzers installiert und kommuniziert mit einem oder mehreren E-Mail-Postfächern.
+Alternativ kann man via Webmail auf seine E-Mail zugreifen.
+Hierbei verwaltet der Benutzer seine E-Mails in seinem Web-Browser.
+Ermöglicht wird dies durch eine Webanwendung auf dem Webserver des E-Mail-Anbieters, die ihrerseits auf das E-Mail-Postfach auf dem Webserver zugreift.
+E-Mails sind intern in zwei Teile geteilt:
+Den Header mit Kopfzeilen und den Body (Textkörper) mit dem eigentlichen Inhalt der Nachricht.
+Zusätzlich werden innerhalb des Bodys noch weitere Untergliederungen definiert.
+Die Header genannten Kopfzeilen einer E-Mail geben Auskunft über den Weg, den eine E-Mail genommen hat, und bieten Hinweise auf Absender, Empfänger, Datum der Erstellung, Format des Inhaltes und Stationen der Übermittlung.
+Der Benutzer wird viele Details aus den Header-Zeilen im Normalfall nicht benötigen.
+Daher bieten E-Mail-Programme an, den Header bis auf die Grunddaten wie Absender, Empfänger und Datum auszublenden.
+Bei Bedarf kann der Header jederzeit wieder komplett sichtbar gemacht werden.
+Der Body einer E-Mail ist durch eine Leerzeile vom Header getrennt und enthält die zu übertragenden Informationen in einem oder mehreren Teilen.
+Eine E-Mail darf gemäß RFC 5322 Abschnitt 2.3 nur Zeichen des 7-Bit-ASCII-Zeichensatzes enthalten.
+Sollen andere Zeichen, wie zum Beispiel deutsche Umlaute, oder Daten, wie zum Beispiel Bilder, übertragen werden, müssen das Format im Header-Abschnitt deklariert und die Daten passend kodiert werden.
+Geregelt wird das durch RFC 2045 ff (siehe auch MIME und Base64).
+Aktuelle E-Mail-Programme kodieren Text und Dateianhänge (vergleiche unten) bei Bedarf automatisch.
+Die Nachricht kann aus einem Klartext, einem formatierten Text (beispielsweise HTML) und/oder Binärdaten (beispielsweise einem Bild oder Fax, s. u. bei Dateianhänge) bestehen.
+Es können auch mehrere Formate als Alternativen gesendet werden oder weitere beliebige Dateien angehängt werden.
+Den Abschluss bilden ggf. Signatur und Footer.
+Alle diese zusätzlichen Teile sind optional, müssen in einer E-Mail also nicht unbedingt vorkommen.
+In HTML formatierte Mails werden teils ungewollt und unbewusst durch die Voreinstellung des verwendeten E-Mail-Programms, insbesondere von Microsoft-Programmen, versandt, teils bewusst, um Schriftauszeichnungen verwenden zu können, etwa in E-Mail-Newslettern.
+Obwohl das HTML-Format standardisiert ist, war es ursprünglich nicht für den Einsatz in E-Mails gedacht.
+Das führte unter anderem dazu, dass es in der Vergangenheit viele, auch konzeptuelle Sicherheitslücken in den HTML-Rendering-Engines von E-Mail-Programmen gab, die einerseits zur Verbreitung von E-Mail-Würmern beigetragen haben und andererseits ungewollte Informationen über den Empfänger preisgegeben haben (Zählpixel).
+Diese Situation hat sich im Lauf der Zeit verbessert und bekannte Probleme, wie die standardmäßige Ausführung aktiver Inhalte (beispielsweise JavaScript) oder das automatische Nachladen externer Bilder, wurden durch andere Voreinstellungen entschärft.
+Die oft inkonsistente Deaktivierung potentiell gefährlicher HTML-Features in verschiedenen E-Mail-Programmen hat allerdings auch den Effekt, dass optische Effekte oder Formatierungen nicht so dargestellt werden, wie es vom Absender gedacht war.
+Prinzipbedingt bieten HTML-formatierte E-Mail-Nachrichten stets wesentlich mehr Angriffsmöglichkeiten und sind daher potentiell unsicherer als reine Text-Nachrichten.
+Deshalb empfehlen viele EDV-Ratgeber und Softwarehersteller, die HTML-Anzeige von E-Mails zumindest im Vorschaufenster des E-Mail-Programms zu deaktivieren oder ganz auszuschließen und auch selbst keine E-Mail-Nachrichten im HTML-Format zu versenden.
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) empfiehlt:
+Eine E-Mail-Adresse bezeichnet eindeutig den Empfänger einer E-Mail und ermöglicht damit eine Zustellung an diesen Empfänger.
+So, wie sie für den Transport per SMTP im Internet verwendet wird, besteht sie aus zwei Teilen:
+In info@wikipedia.org ist wikipedia.org der domain-part, info der local-part.
+(Andere Transportmechanismen wie zum Beispiel UUCP oder X.400 verwenden eine andere Adress-Syntax.) Der domain-part benennt den MX Resource Record (meist identisch der Domain) des Mailservers, dem die E-Mail zugestellt werden soll.
+Der local-part identifiziert eindeutig den Besitzer eines E-Mail-Postfachs auf diesem Mailserver.
+In einem typischen Fall nimmt eine E-Mail den folgenden Weg von einem Absender (im Beispiel: Anja) durch das Internet zu einem Adressaten (im Beispiel: Bertram), siehe Abbildung rechts.
+Besonderheiten:
+Oftmals wird es sich bei Anjas Internetdienstanbieter und Anjas E-Mail-Provider um ein und dasselbe Unternehmen handeln.
+Wenn Anja und Bertram ihre E-Mail-Konten beim selben E-Mail-Anbieter haben, entfällt Schritt 3.
+Je nach Ausführung des verwendeten E-Mail-Programms kann der Absender einer E-Mail eine Zustellbestätigung und/oder eine Lesebestätigung anfordern.
+Wurde eine Zustellbestätigung angefordert, erhält der Absender (im obigen Beispiel Anja) eine Delivery Status Notification (DSN) in Form einer E-Mail, sobald seine E-Mail erfolgreich im Postfach des Empfängers abgelegt wurde und die beteiligten Architekturen dies unterstützen.
+Bezogen auf das obige Beispiel geschähe dies zeitlich unmittelbar nach Schritt 4.
+Wurde eine Lesebestätigung angefordert, erhält der Absender (im obigen Beispiel Anja) eine Message Disposition Notification (MDN) in Form einer E-Mail, wenn der Empfänger (im obigen Beispiel Bertram) die an ihn gerichtete E-Mail öffnet und das Auslösen dieser Bestätigung nicht verhindert.
+Bezogen auf das obige Beispiel geschähe dies zeitlich unmittelbar im Schritt 6 beim Öffnen der E-Mail.
+Die Lesebestätigung kann somit nicht dahingehend interpretiert werden, dass der Empfänger die E-Mail auch tatsächlich gelesen oder gar verstanden hat.
+Insofern haben diese Bestätigungen den - allerdings nicht-juristischen, sondern lediglich informativen - Charakter eines Einwurf-Einschreibens (Zustellbestätigung) bzw. eines Einschreibens mit Rückschein (Lesebestätigung) in Deutschland.
+Das Format einer E-Mail wird durch den RFC 5322 festgelegt.
+Danach bestehen E-Mails nur aus Textzeichen (7-Bit-ASCII-Zeichen).
+Um auch andere Zeichen übertragen zu können, wurden weitere Internet-Standards definiert, mit deren Hilfe 8-Bit-Zeichen in ASCII kodiert werden.
+Der Standard Quoted-Printable kodiert zum Beispiel den Buchstaben "ß" als Zeichenkette "=DF".
+Breite Verwendung haben die Standards der MIME-Serie gefunden, mit deren Hilfe nicht nur Sonderzeichen in Texten, sondern auch Binär-Dateien kodiert werden können, zum Beispiel um sie als E-Mail-Anhänge zu verschicken.
+Die Gesamtgröße von E-Mails ist prinzipiell nicht begrenzt.
+In der Realität zeigen sich allerdings Grenzen durch technische oder administrative Beschränkungen der Systeme, die die E-Mail übertragen oder empfangen.
+E-Mail-Provider, E-Mail-Postfächer und beteiligte Mailserver können die Größe einer E-Mail begrenzen.
+In solchen Fällen sollte der begrenzende Mailserver dem Absender eine Bounce Message (Fehlermeldung) senden.
+Wo die Mails permanent gespeichert werden, hängt von der verwendeten Technik des Endanwenders ab.
+Benutzt er ein Webinterface, so werden die Mails grundsätzlich auf dem Mailserver gehalten.
+Wenn er ein Mailprogramm einsetzt, das die Mails mit dem Protokoll IMAP liest, dann werden die E-Mails ebenfalls auf einem Mailserver gehalten.
+Ursprünglich sah das alternative Protokoll POP vor, dass die Mails vom Server geholt und dort gleichzeitig gelöscht werden.
+Der Client ist also für das Speichern auf seinem lokalen Massenspeicher zuständig.
+Bei neueren POP-Versionen ist es aber - abhängig von den Einstellungen des Servers - auch möglich, die Mails auf dem Server zu belassen.
+E-Mails werden (lokal oder auf dem Mailserver) häufig nicht einzeln als separate Dateien, sondern zusammengefasst in Container-Dateien gespeichert.
+mbox ist eine unter Unix/Linux häufig verwendete Möglichkeit, eine Alternative ist Maildir.
+Für einzelne E-Mails ist unter anderem die Dateiendung .eml geläufig, die von Programmen wie Novell GroupWise, Microsoft Outlook Express, Lotus Notes, Windows Mail, Mozilla Thunderbird und Postbox verwendet wird.
+Die Dateien bestehen aus plain text im MIME-Format und enthalten die Kopfzeilen, den Nachrichteninhalt und Anhänge in einem oder mehreren Formaten.
+Das E-Mail-Programm Pegasus Mail (kurz PMail) verwendet eigene Mailordner.
+Beispiel eines Ablaufs:
+Heutzutage sind hauptsächlich SMTP, POP3 und IMAP in Verwendung, oft in Verbindung mit SSL-Verschlüsselung (siehe SMTPS, POP3S und IMAPS).
+Die Laufzeit (Transportzeit einer Postsendung vom Absender zum Empfänger) der E-Mail kann ein Problem darstellen, da sie - anders als zum Beispiel beim Telefax - nicht vorhersehbar ist und unter ungünstigen Voraussetzungen stark schwanken kann.
+Die Schwankungen der Laufzeit werden durch eine Vielzahl von Parametern beeinflusst, vor allem durch die Auslastung der beteiligten Mailsysteme sowie der für E-Mail bereitstehenden Übertragungskapazität der die Mailsysteme verbindenden Leitungen.
+Ist der Mailserver des Empfängers länger nicht erreichbar, oder wird die Mail nur in großen Zeitabständen auf den Server des Empfängers übertragen, kann es durchaus zu Laufzeiten von einigen Tagen kommen.
+Die Nachteile der nicht fest definierten Laufzeit sind jedoch bei den heutigen modernen E-Mail-Systemen nahezu vernachlässigbar (weltweit selten mehr als eine Minute), da bei gut gepflegten Systemen nur noch relativ selten größere Fehler auftreten, durch die längere Laufzeiten verursacht werden könnten.
+Verzögerungen können allerdings auch bei modernen E-Mail-Systemen durch diverse Spamschutz-Maßnahmen auftreten (beispielsweise dem Greylistingverfahren).
+Das E-Mail-System besitzt einige Vor- und Nachteile, die im Folgenden aufgeführt sind:
+Als wesentlicher Vorteil von E-Mails ist zu nennen, dass sie sehr schnell (im Bereich von wenigen Sekunden) übermittelt und vom Empfänger gelesen werden können.
+Der praktische Aufwand, eine E-Mail zu verschicken und zu empfangen, ist geringer, da kein Ausdrucken, Kuvertieren, Adressieren, Frankieren und Postkasteneinwerfen beim Absender und kein Briefkastenentleeren und Brieföffnen beim Empfänger nötig ist.
+Auf dem Computer geschriebene Briefe können direkt und einfach per E-Mail verschickt und beim Empfänger direkt auf dem Computer gelesen und ggf. weiterverarbeitet werden.
+Auch der finanzielle Einzelaufwand (Kosten für Versand einer E-Mail) ist im Normalfall geringer (keine Material- und Portokosten), sofern viele E-Mails verarbeitet werden oder die nötige Infrastruktur (Computer mit Internetzugang) sowieso schon beim Absender und Empfänger zur weitergehenden Nutzung vorhanden ist.
+Zudem wird der Aufwands- und Kostenvorteil umso größer, je mehr Empfänger die gleiche E-Mail erhalten sollen (Rundschreiben).
+E-Mail-Dienste werden im Internet für den Privatgebrauch meist kostenlos angeboten.
+Sie finanzieren sich im Allgemeinen durch Werbung.
+Hinsichtlich der Umweltfreundlichkeit von E-Mails im Speziellen gibt es verschiedene Diskussionen und Ansichten wie auch beim Internet und der Computertechnik im Allgemeinen.
+Zumindest sind E-Mails insofern umweltfreundlicher als herkömmliche Briefe, als sie unmittelbar kein Papier verbrauchen und keinen materiellen Transport (Lkw, Bahn, Flugzeug, Schiff usw.) benötigen.
+E-Mails haben gegenüber normaler Papier-Post den Vorteil, dass ihre Anschriften- und Absendertexte (E-Mail-Adressen) deutlich kürzer sind als bei normalen Papier-Post-Adressen mit Name, Straße/ Postfach, Postleitzahl, Ort und ggf. Land.
+E-Mail-Adressen können weitgehend frei gewählt werden und es besteht auch kein Zwang, den eigenen Namen in Klartext (z. B. michael.mueller@xyz.org) als E-Mail-Adresse zu verwenden, sofern der Domain-Inhaber (xyz.org) keine Regeln zum Format seiner E-Mail-Adressen aufgestellt hat oder keine Gesetze gebrochen werden.
+Stattdessen sind ebenso Pseudonyme wählbar, womit eine höhere Anonymität erreicht wird, da die E-Mail-Adresse nicht oder nur begrenzt (über die Domain hergeleitet) Aussage macht bzw. Rückschlüsse erlaubt über Namen, Herkunft, Geschlecht, Anschrift, geosozialen Status usw.
+Ebenso ist der Besitz mehrerer verschiedener E-Mail-Adressen möglich.
+In der praktischen Handhabung bieten E-Mails ebenso Vorteile gegenüber der Papier-Post.
+Eine E-Mail kann gleichzeitig an mehrere Empfänger verschickt werden, wobei auch mit verdeckten Empfängerlisten (BCC) gearbeitet werden kann, damit die komplette Empfängerliste nicht von jedem Empfänger einsehbar ist.
+E-Mails können auf dem Computer einfach archiviert und die Archive können leicht durchsucht werden, um eine E-Mail schnell wiederzufinden.
+Auch versendete und gelöschte E-Mails können automatisch archiviert werden.
+E-Mail-Systeme bieten des Weiteren einige praktische Automatismen.
+E-Mails lassen sich auf Wunsch automatisch weiterleiten, entweder zu einer anderen E-Mail-Adresse oder auf anderen Kommunikationskanälen, beispielsweise als SMS oder Fax.
+Auch der umgekehrte Weg ist möglich, das heißt die Weiterleitung eines Fax oder einer SMS an eine E-Mail-Adresse.
+Auf Wunsch kann auch bei Eingang einer E-Mail eine automatische Antwort an den Absender verschickt werden (zum Beispiel eine Abwesenheits-Nachricht) oder es erfolgt eine Benachrichtigung, dass eine neue Nachricht eingegangen ist.
+Ebenso ist eine automatische Aussortierung von unerwünschten E-Mails (Spam-Filter & persönliche Blacklists) oder eine automatische Vorsortierung in verschiedene Ordner nach frei vorgebbaren Kriterien möglich.
+Von Vorteil ist auch, dass an E-Mails weitere Dateien beliebiger Art angefügt werden können, die der Empfänger weiterverwenden kann.
+E-Mails (jedoch jeweils nur der Textkörper, nicht der Kopf) können aus Datenschutzgründen auch verschlüsselt und zur Authentifizierung elektronisch signiert werden.
+Ebenso können auf Wunsch digitale Visitenkarten mit weiteren Informationen (wie Anschrift oder Telefonnummer) als Anhang einer E-Mail mitverschickt werden, wodurch der Empfänger sein Adressbuch leichter mit E-Mail-Kontakten füllen und pflegen kann.
+Auch beim Antworten auf E-Mails zeigen sich praktische Vorteile.
+Antworten auf E-Mails können einfacher und schneller begonnen werden, indem der Absender und die CC-Empfänger der Ursprungs-E-Mail automatisch als Empfänger der Antwort übernommen werden.
+Ebenso kann in Antworten der Inhalt der Ursprungs-E-Mail zitiert oder angefügt werden, um in der Antwort besser Bezug nehmen oder antworten zu können oder um den Diskussionsfaden zu dokumentieren.
+Als Spam-    oder Junk-Mails (  ; englisch für ,Abfall' oder ,Plunder') werden unerwünschte E-Mails bezeichnet, die meist Werbung etc. enthalten.
+Die Effizienz von E-Mail wird durch den massenhaften Verkehr von Spam, also E-Mails, die dem Empfänger unverlangt zugestellt werden und häufig werbenden Inhalt haben, teilweise eingeschränkt, insofern die Bearbeitung von Spam-E-Mails den Empfänger Zeit kostet.
+Seit ungefähr 2002 sind mehr als 50 % und seit 2007 etwa 90 % des weltweiten E-Mail-Aufkommens Spam.
+Im Jahr 2010 wurden ca. 107 Billionen E-Mails verschickt, mit einem Spam-Anteil von 89,1 %.
+Im Oktober 2015 lag der Spam-Anteil bei E-Mails bei 54 %.
+Das Landgericht Bonn entschied 2014 mit Bezug auf einen Fall von Anwaltshaftung, dass der Spam-Ordner eines Accounts, der im geschäftlichen Verkehr als Kontaktmöglichkeit zur Verfügung gestellt wird, täglich durchgesehen werden muss, um versehentlich als Werbung aussortierte E-Mails zurückzuholen.
+Wie jedes Kommunikationsmittel muss auch die E-Mail verschiedenen Anforderungen genügen, um als sicheres Kommunikationsmittel gelten zu dürfen.
+Hier sind als wichtigste Kriterien die Authentizität, der Datenschutz und die Integrität einer E-Mail zu nennen.
+Mit der Authentizität einer E-Mail ist gemeint, dass sichergestellt ist, dass die E-Mail auch wirklich vom Absender stammt, also ein Original ist und keine betrügerische Fälschung.
+Datenschutz bezeichnet bei E-Mails im Wesentlichen den Schutz vor Mitlesen durch Dritte auf dem Übertragungsweg.
+Als Integrität bezeichnet man das Schutzziel, dass der E-Mail-Inhalt bei der Übertragung vollständig und unverändert bleibt.
+Zur Erreichung der Authentizität, des Datenschutzes und der Integrität existieren bereits diverse Schutzmechanismen, wie an anderen Stellen bereits beschrieben (Verschlüsselung, Absenderauthentifizierung, Pretty Good Privacy, GNU Privacy Guard, S/MIME).
+Jedoch werden diese Schutzmechanismen beim Großteil des heutigen E-Mail-Verkehrs noch nicht angewendet.
+Ohne diese Schutzmechanismen besitzen herkömmliche E-Mails jedoch einen geringeren Schutz als eine normale Postkarte.
+Der folgende Unterabschnitt soll dazu möglichst plastisch den recht geringen Sicherheits-Standard einer herkömmlichen E-Mail im Vergleich zu einer Postkarte darstellen.
+Herkömmliche (unverschlüsselte) E-Mails sind mit einer Postkarte vergleichbar, weil deren Inhalt offen und einfach lesbar verschickt wird.
+Verschlüsselte E-Mails entsprechen einem verschlossenen Brief, aber E-Mail-Verschlüsselung ist heute immer noch eher die Ausnahme.
+Aber auch bei einer verschlüsselten E-Mail ist neben dem Absender und den Empfängern (wie bei einem Brief) zusätzlich die Betreffzeile sowie generell alle Kopfzeilen lesbar.
+E-Mails werden wie Postsachen beim E-Mail-Dienstleister wie bei einem Postamt gelagert.
+Somit sind unverschlüsselte E-Mails wie Postkarten beim E-Mail-Dienstleister lesbar.
+Zudem lassen sich E-Mails anders als normale Papier-Post einfach und automatisch nach nutzbaren Informationen durchsuchen und auswerten.
+Zur Erhöhung der Zuverlässigkeit des E-Mail-Dienstes werden beim E-Mail-Dienstleister von E-Mails Kopien erstellt und eine Weile aufbewahrt, so als würde die Post Fotokopien von Postkarten und Briefen machen und archivieren.
+Bei Papier-Post lässt sich auf Wunsch die erfolgte Zustellung dokumentieren (Einschreiben mit Rückschein) oder die Post läuft bei Annahmeverweigerung automatisch zurück zum Absender.
+Herkömmliche E-Mails besitzen zwar auch den Mechanismus der Annahmebestätigung, aber der Empfänger kann die E-Mail trotzdem lesen, ohne gezwungen zu sein, die Annahme dem Absender gegenüber zu bestätigen.
+Die Annahmeverweigerung als eigenständiger Mechanismus mit Rückmeldung an den Absender existiert bei herkömmlichen E-Mails nicht.
+Eine Postkarte wird üblicherweise bei Inlandspost nur von einem bzw. bei internationaler Post von zwei Post-Unternehmen entgegengenommen, transportiert und an den Empfänger ausgehändigt.
+Eine E-Mail dagegen passiert auf dem Weg durch das Internet üblicherweise die Rechner verschiedener Unternehmen in verschiedenen Ländern.
+Theoretisch kann eine E-Mail quasi ihren Weg über den halben Erdball durch viele Länder über viele Zwischenstationen (Rechner) nehmen, und alle Beteiligten können diese mitlesen.
+Es ist insbesondere durch Edward Snowden bekannt geworden, dass Geheimdienste den E-Mail-Verkehr systematisch nach bestimmten Stichwörtern durchsuchen.
+Ein Einbrecher muss bei einem Postamt persönlich erscheinen, aber ein Hacker kann (bei Sicherheitslücken) einfach aus der Ferne in ein E-Mail-Postfach einbrechen, ohne dass er verfolgbare Spuren hinterlässt oder der Einbruch überhaupt bemerkt wird.
+Einbrecher haben bei E-Mail-Spionage weniger Risiko zu fürchten bei höheren Erfolgschancen und besseren Werkzeugen.
+Voraussetzung ist jedoch eine hohe fachliche Qualifikation des Einbrechers.
+Sicherheitsmaßnahmen sind bei Papier-Post für jedermann einfach und nachvollziehbar umsetzbar (Einschreiben mit Rückschein, Siegel, Tresor, Alarmanlage ...).
+Bei E-Mails sind Sicherheitsmaßnahmen viel diffiziler und nur von fortgeschrittenen Computer-Anwendern halbwegs beherrschbar.
+Aber auch Nachlässigkeiten der Nutzer, z. B. durch Wahl unsicherer Passwörter, erleichtern die Chancen der Einbrecher.
+Ähnlich einfach wie bei einem Brief oder einer Postkarte lassen sich E-Mails mit einer falschen Absenderadresse verschicken, was zum Beispiel bei Spam oder Phishing oft zu beobachten ist.
+Empfänger-, Kopie- und Blindkopie-Adressen (im E-Mail-Kopf gekennzeichnet mit TO, CC beziehungsweise BCC) lassen sich gleichermaßen fälschen (E-Mail-Spoofing).
+Papier-Post wird üblicherweise handschriftlich unterzeichnet (signiert) und ein Betrüger muss zum Betrug die Handschrift fälschen, jedoch wird bei den allermeisten E-Mails auf die elektronische Unterschrift (Signatur) verzichtet und unsignierte E-Mails werden vom Empfänger trotz fehlender bzw. eingeschränkter Rechtskraft im Allgemeinen akzeptiert.
+Zusammenfassend kann gesagt werden, dass bei herkömmlichen E-Mails ein noch viel geringerer Sicherheitsstandard als bei einer Postkarte allgemein akzeptiert ist, obwohl kaum ein Mensch daran dächte, mit einer Postkarte persönliche sensible Daten zu versenden.
+Vermutlich ist diese Akzeptanz der mangelnden Transparenz der E-Mail-Technologie geschuldet, weil die Risiken für den Nicht-Computerexperten nicht so offensichtlich, nicht erkennbar oder schlichtweg unbekannt sind, oder die Nachteile werden im Vergleich zu den vielen Vorteilen einfach in Kauf genommen.
+Im Jahre 2004 gab es verschiedene Versuche, das Spam-Problem in den Griff zu bekommen.
+Dabei konkurrierten die Verfahren Sender ID von Microsoft, Sender Policy Framework (SPF), DomainKeys von Yahoo und RMX um die Gunst der Umsetzung.
+Eine IETF-Arbeitsgruppe versuchte, einen Standard zu definieren.
+Die Funktionsweise ist dabei bei allen Verfahren ähnlich.
+Durch einen Zusatzeintrag im DNS sollte es möglich sein, den sendenden Mailserver zu verifizieren.
+Die IETF-Arbeitsgruppe scheiterte aber letztendlich an ungeklärten Patentansprüchen von Seiten Microsofts.
+Die verschiedenen Verfahren sollen nun in eigenen Verfahren als RFCs umgesetzt werden.
+Anders als beim Telefonat erhalten Absender und Empfänger von E-Mails automatisch eine schriftliche Dokumentation über den kommunizierten Inhalt.
+Diese kann im benutzten E-Mail-Programm oder in einem Archivsystem aufbewahrt und später zur Rekapitulation herangezogen werden.
+Gegenüber den spontanen Aussagen während eines Telefongespräches bietet die schriftliche Formulierung die Chance, die zu übermittelnden Inhalte besser zu durchdenken und zu strukturieren.
+Ebenso verringert sich die Gefahr einer unbedachten und im Nachhinein bereuten Aussage.
+Andererseits muss - im Gegensatz zum Telefonat - der Verfasser einer E-Mail damit rechnen, dass seine Äußerungen langfristig beliebig oft nachgelesen werden können und vom Empfänger mit geringstem Aufwand oder gar unbedacht an eine praktisch beliebige Auswahl von Mitlesern weitergeleitet werden können.
+Sie haben somit einen stärkeren Öffentlichkeitscharakter.
+E-Mails werden sprachpsychologisch von ihren Empfängern oftmals als kräftiger und härter empfunden als vom Verfasser beabsichtigt.
+Im Gegensatz zum Telefonat oder persönlichen Gespräch entfällt die sofortige Rückkopplung noch während des Verfassens der Kommunikation und damit eine wesentliche Regelungsfunktion.
+Die Einfachheit ihrer Benutzung führte dazu, dass E-Mail zu einem weltweiten Standard in der elektronischen Kommunikation wurde.
+In der Unternehmenskommunikation wird allerdings inzwischen nicht nur die Informationsüberflutung durch die Flut der E-Mails als Problem wahrgenommen.
+Die Tatsache, dass der Absender keine Kontrolle darüber hat, inwieweit seine E-Mail bearbeitet ist oder dass zu viele Mitarbeiter unnötig oder andere am Geschäftsvorgang Beteiligten unter Umständen gar nicht in Kenntnis gesetzt sind, begrenzt den Nutzen von E-Mail im betrieblichen Umfeld.
+Analysten gehen davon aus, dass in Zukunft der Kommunikationsanteil, welcher über Social Community Plattformen (mit Aufgabenlisten, Bearbeitungsstatus und Abonnementfunktionen) und Wikis anstelle von E-Mail oder Instant Messaging abgewickelt wird, dort ansteigen wird, wo Transparenz, Strukturierung und Vernetzung von Projektwissen von Bedeutung sind.
+Moderne Netzwerke in wissensintensiven Unternehmen organisieren sich eher horizontal.
+E-Mails fördern aber in der Tendenz hierarchische Strukturen.
+Auch mit einfachen E-Mails können rechtserhebliche Erklärungen abgegeben und Verbindlichkeiten begründet werden.
+E-Mails haben allerdings wenig Beweiskraft, da der Sender bei den herkömmlichen Protokollen und Log-Mechanismen nicht längerfristig die Möglichkeit hat, zu beweisen, wann er was an wen versendet, ob der Empfänger die E-Mail erhalten hat oder ob sie tatsächlich abgesendet wurde.
+Mit der Zeit werden die im sogenannten Benutzerkonto gespeicherten Daten nämlich gelöscht.
+Durch eine digitale Signatur und vor allem durch eine qualifizierte elektronische Signatur können im Rechtsverkehr (Zivilrecht, Verwaltungsrecht) Verbindlichkeiten geschaffen werden, die gerichtlich leichter durchsetzbar sind.
+Umgangssprachlich wird dann von einer "digitalen Unterschrift" gesprochen.
+Das verbindliche Setzen eines Zeitstempels wird unter bestimmten Voraussetzungen ebenfalls anerkannt.
+Näheres wird beispielsweise im deutschen, österreichischen oder liechtensteinischen Signaturgesetz geregelt.
+Den Empfang der Nachricht kann eine Signatur allerdings nicht beweisen, hierzu ist beispielsweise eine - idealerweise ebenfalls signierte - Antwort notwendig.
+Einige Dienstleister bieten Lösungen an, die Signatur, Verschlüsselung und Antwort automatisieren ("E-Mail-Einschreiben").
+In Deutschland wird in der juristischen Fachliteratur die Auffassung vertreten, dass eine E-Mail bereits mit dem Eingang auf dem Server des Empfänger-Providers als zugestellt gilt.
+Das Eintreffen einer E-Mail im persönlichen Benutzerkonto (Account) des Empfängers ist nicht unbedingt notwendig, um den Status des Zugestelltseins zu erreichen.
+Übermittlungsfehler bei der Übersendung einer E-Mail von Empfänger-Provider an den individuellen E-Mail-Account des Empfängers könnten vom Empfänger nicht geltend gemacht werden, um die Rechtsfolgen einer E-Mail in Frage zu stellen.
+Jüngere Urteile bestätigen diese Auffassung.
+So können zum Beispiel Maklerverträge und Abmahnungen rechtswirksam per E-Mail zugesandt werden.
+Ein allgemeines Verbot, E-Mails zu veröffentlichen, gibt es in Deutschland nicht.
+Lediglich aus dem Inhalt der Mail kann sich ein Recht des Autors ergeben, gegen die Veröffentlichung vorzugehen.
+Dabei sind verschiedene Rechtsfolgen möglich, die von Unterlassungsanspruch, zivilrechtlichem Schadensersatzanspruch in Geld bis zu strafrechtlicher Haftung reichen können, andere Rechtsfolgen sind möglich.
+In zivilrechtlicher Hinsicht kann die Veröffentlichung eines Briefes das Urheberrecht des Autors verletzen, dies ist allerdings nicht der Fall bei "allgemeinem Inhalt".
+Weiterhin kann die Veröffentlichung das allgemeine Persönlichkeitsrecht des Autors verletzen, insofern nehmen die Instanzgerichte im Anschluss an ein Urteil des Bundesgerichtshofs aus dem Jahr 1954 in jedem Einzelfall eine umfangreiche Interessenabwägung vor.
+Diese allgemeine Rechtsprechung dürfte auch auf E-Mails anwendbar sein.
+Es ist davon auszugehen, dass die Rechtsprechung (Oberlandesgericht Rostock, Beschluss vom 17. April 2002 - 2 U 69/01), nach der hinsichtlich Geschäftsbriefen, die im Rahmen einer vertraglichen Zusammenarbeit gewechselt werden, eine ungeschriebene vertragliche Nebenpflicht beider Vertragsparteien gilt, die Briefe vertraulich zu behandeln, auch auf geschäftliche E-Mails anwendbar ist, zumindest, wenn diese verschlüsselt versandt worden sind.
+Das Landgericht Köln hat im Leitsatz des Urteils zum Aktenzeichen 28 O 178/06 entschieden:
+Die Veröffentlichung einer fremden E-Mail an einen Dritten auf einer Internetseite kann ausweislich dieses Urteils einen Eingriff in das allgemeine Persönlichkeitsrecht des Absenders in Gestalt der Geheimsphäre darstellen.
+Insofern ist die Widerrechtlichkeit jedoch nicht indiziert, sondern im Einzelfall positiv festzustellen, wofür eine umfassende Güter- und Interessenabwägung erforderlich ist.
+Gegenüber stehen sich der Zweck der Veröffentlichung und der von der veröffentlichenden Partei angestrebte Zweck sowie die Form, die Art und das Ausmaß des Eingriffs.
+Ein Verstoß löst eine Pflicht zur Leistung von Schadensersatz aus.
+Dabei stellt das Landesgericht die E-Mail einem verschlossenen Brief gleich.
+Das Urteil bezieht sich auf einen Fall, in dem E-Mails veröffentlicht worden sind, die zum einen an einen Dritten gerichtet waren und die zum anderen von der veröffentlichenden Partei auf unlautere Weise erlangt worden sind.
+Auf den Fall einer Veröffentlichung von E-Mails, die an den Betroffenen selbst gerichtet sind, ist die Argumentation des Urteils nicht anwendbar.
+Inzwischen wird in vielen Ländern der E-Mail-Verkehr vom Staat überwacht.
+In Deutschland sind seit dem Jahr 2005 Internetdienstanbieter verpflichtet, entsprechende Hard- und Software vorzuhalten, um einer Überwachungsanordnung sofort Folge leisten zu können, ohne für die daraus erwachsenden Kosten einen finanziellen Ausgleich zu erhalten.
+Für den klassischen Brief wird im Englischen verschiedentlich zur Unterscheidung der Ausdruck snail mail (engl. Schneckenpost) verwendet.
+2003 verbot das französische Ministerium für Kultur den Gebrauch des Wortes E-Mail in offiziellen Schreiben staatlicher Einrichtungen und schrieb stattdessen den Gebrauch des Schachtelworts "courriel" (von "courrier electronique") vor.
+Der Begriff war bereits in den 1990er Jahren im französischsprachigen Quebec in Kanada üblich, wo ein strengeres Gesetz zum Schutz der französischen Sprache als in Frankreich selbst besteht.
+Obwohl die jiddische Sprache noch stärker als die deutsche von der englischen Sprache beeinflusst ist, haben sich dort die nichtfremdsprachlichen Begriffe  (Blitzpost) und  (Blitzbrief) durchgesetzt.
+Eine E-Mail mit unfreundlichem, abmahnendem und unangenehmem Inhalt wird im populären Englisch als nastygram bezeichnet.
+E-Mails in aggressivem Ton heißen dabei Flame-Mails.
+Angemessenes Benehmen in der elektronischen Kommunikation einschließlich der E-Mail-Kommunikation und der sozialen Netze wird als Netiquette bezeichnet.

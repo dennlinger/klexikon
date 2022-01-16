@@ -1,0 +1,55 @@
+Der Mittelwert ist ein Begriff aus der Mathematik.
+Es geht darum, dass man über eine Gruppe von Werten einen guten Überblick bekommt.
+Deshalb versucht man, die ganze Gruppe zu einem einzigen Wert zusammenzufassen.
+Einen Mittelwert braucht man zum Beispiel um festzustellen, wie viel Geld die Menschen eines Landes verdienen oder wie alt sie werden.
+Man kann das dann einfacher mit anderen Ländern vergleichen.
+Auch Leistungen zwischen Schulklassen werden gerne so verglichen.
+Es gibt fast unzählig viele Anwendungsbeispiele.
+Es gibt auch viele verschiedene Mittelwerte.
+Meistens denkt man dabei entweder an den Durchschnitt oder an den Median.
+Zum Durchschnitt sagen Mathematiker auch arithmetischer Mittelwert.
+Es gibt aber auch noch den geometrische Mittelwert und viele andere mehr.
+Auf dem Bevölkerungsamt, bei Banken, Versicherungen und in vielen anderen Bereichen arbeitet man oft mit Mittelwerten.
+Zuerst muss man dann einmal festlegen, welchen Mittelwert man sinnvoll anwendet.
+Je nachdem bekommt man dann nämlich einen anderen Eindruck, wie die nachfolgenden Beispiele gleich zeigen werden.
+Zur Veranschaulichung dient das Diagramm hier rechts:
+Fünf Kinder erhalten Taschengeld.
+Karl erhält 22 Euro, Heike 6 Euro, Tanja 5 Euro, Otto 4 Euro und Ulrike 3 Euro.
+Karl bekommt deutlich mehr als die anderen.
+Mathematiker nennen so einen Wert, der stark von den anderen abweicht, einen Ausreißer.
+Wir werden mal sehen, was das bewirkt.
+Wir nehmen mal an, mit Durchschnitt sei das arithmetische Mittel gemeint, denn es wird am häufigsten angewendet.
+Um den Durchschnitt im Bild zu bekommen rechnet man alle Geldbeträge zusammen und kommt auf 40 Euro.
+Diese Zahl teilt man durch die Anzahl der Kinder, also durch 5.
+Das Resultat ist 8 Euro, das ist der Durchschnitt.
+So wird vieles berechnet, zum Beispiel das Durchschnittsalter aller Menschen in einem Land oder ihr durchschnittlicher Lohn.
+Allerdings kann diese Zahl auch in die Irre führen.
+In unserem Beispiel bekommt Karl deutlich mehr als die anderen Kinder.
+Man könnte meinen, ein Großteil der Gruppe hätte so um 8 Euro Taschengeld, das stimmt aber nicht.
+Der Durchschnitt ist also nicht immer die Größe, die den besten Überblick über eine Gruppe verschafft.
+Ein Beispiel aus dem richtigen Leben ist der Reichtum der Menschen in einem Land.
+Manche Leute verdienen ganz besonders viel Geld.
+Wenn man dann den Durchschnitt errechnet, könnte man meinen: Alle Leute im Land haben ziemlich viel Geld.
+In Wirklichkeit gibt es wohl viele Arme und viele nicht ganz so arme Menschen.
+Wegen der wenigen Reichen liegt der Durchschnitt aber recht hoch.
+Man verwendet manchmal auch den Median als Mittelwert.
+Dabei macht man es so:
+Man sortiert das Taschengeld aller Kinder nach der Höhe.
+Dann zählt man das mittlere Kind ab.
+In unserem Fall ist dies Tanja mit 5 Euro Taschengeld.
+Der Median ist also 5 Euro.
+Heike und Otto liegen ganz in der Nähe und Ulrike ist auch nicht sehr weit davon entfernt.
+Die meisten Kinder liegen also mit ihrem Taschengeld nahe bei Tanja.
+Karl ist ein Ausreißer.
+Wenn er die Gruppe verlässt, sinkt der Durchschnitt stark ab, nämlich auf 4,50 Euro.
+Der Median liegt dann zwischen Tanja und Otto, also auch immer noch bei 4.50 Euro.
+Wenn aber ein anderes Kind die Gruppe verlässt, ändert sich nicht viel.
+Ein einzelner Ausreißer hat also sehr viel Einfluss auf den Durchschnitt, nicht aber auf den Median.
+Deshalb ist in diesem Beispiel der Median ein viel sinnvollerer Mittelwert.
+Im richtigen Leben ist dies ebenfalls sehr wichtig:
+In einem Land können zum Beispiel viele arme Bauern leben, die sehr wenig verdienen.
+Wenige Großgrundbesitzer verdienen jedoch sehr viel Geld.
+Gemäß dem Durchschnitt könnte man meinen, den Menschen gehe es allen recht gut.
+Im Median liegt jedoch ein armer Bauer, zusammen mit den meisten Menschen in diesem Land.
+Daran ändert sich auch nichts, wenn die Reichen noch reicher werden.
+Den Durchschnitt würde das aber sehr wohl verändern.

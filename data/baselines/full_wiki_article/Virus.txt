@@ -1,0 +1,163 @@
+Viren (Singular: das Virus, außerhalb der Fachsprache auch der Virus, von lateinisch virus ,natürliche zähe Feuchtigkeit, Schleim, Saft, Gift') sind infektiöse organische Strukturen, die sich als Virionen außerhalb von Zellen (extrazellulär) durch Übertragung verbreiten, aber als Viren nur innerhalb einer geeigneten Wirtszelle (intrazellulär) vermehren können.
+Sie selbst bestehen nicht aus einer oder mehreren Zellen.
+Alle Viren enthalten das Programm zu ihrer Vermehrung und Ausbreitung (einige Viren auch weitere Hilfskomponenten), besitzen aber weder eine eigenständige Replikation noch einen eigenen Stoffwechsel und sind deshalb auf den Stoffwechsel einer Wirtszelle angewiesen.
+Daher sind sich Virologen weitgehend darin einig, Viren nicht zu den Lebewesen zu rechnen.
+Man kann sie aber zumindest als "dem Leben nahestehend" betrachten, denn sie besitzen allgemein die Fähigkeit, ihre Replikation zu steuern, und die Fähigkeit zur Evolution.
+2011 waren etwa 1,8 Millionen verschiedene rezente Arten von Lebewesen bekannt, die als Wirte für Viren fungieren, jedoch lediglich um die 3.000 Virenarten.
+Viren befallen Zellen von Eukaryoten (Pflanzen, Pilze und Tiere einschließlich des Menschen) sowie von Prokaryoten (Bakterien und Archaeen).
+Viren, die Prokaryoten als Wirte nutzen, werden Bakteriophagen genannt; für Viren, die speziell Archaeen befallen, wird aber teilweise auch die Bezeichnung Archaeophagen verwendet.
+Die Wissenschaft, die sich mit Viren und Virusinfektionen beschäftigt, wird als Virologie bezeichnet.
+Noch zur Mitte des 19. Jahrhunderts verwendete man die Bezeichnung Virus lediglich synonym für "Gift" bzw. "Miasma".
+Erst seit dem späten 19. Jahrhundert sind Viren als eigene biologische Einheit bekannt.
+Die Beschreibungen von Viruskrankheiten sind aber sehr viel älter, ebenso die ersten Behandlungsmethoden.
+Aus Mesopotamien ist ein Gesetzestext aus der Zeit um 1780 v. Chr. überliefert, der von der Bestrafung eines Mannes handelt, dessen wahrscheinlich von Tollwut befallener Hund einen Menschen beißt und dadurch tötet (Codex Eschnunna §§ 56 und 57).
+Aus ägyptischen Hieroglyphen sind Darstellungen bekannt, die vermutlich die Folgen einer Polio-Infektion zeigen.
+Die Bezeichnung "Virus" wurde zum ersten Mal von Cornelius Aulus Celsus im ersten Jahrhundert v. Chr. verwendet.
+Er bezeichnete den Speichel, durch den Tollwut übertragen wurde, als "giftig".
+Im Jahr 1882 führte Adolf Mayer bei Experimenten mit der Tabakmosaikkrankheit erstmals unwissentlich eine virale Erregerübertragung (Transmission) durch, indem er den Pflanzensaft infizierter Pflanzen auf gesunde Pflanzen übertrug und bei diesen so ebenfalls die Krankheit auslöste.
+Diese Übertragung war bereits im 18. Jahrhundert mit dem Wort Virus assoziiert.
+So beschreibt die Londoner Times in einem Nachruf auf einen Arzt dessen Virusinfektion:
+Beim Zunähen einer sezierten Leiche hatte er sich in die Hand gestochen, "which introduced some of the virus matter, or, in other words, inoculated him with putridity" (wobei ein wenig Virussubstanz übertragen wurde, oder anders gesagt, ihm wurde Fäulnis eingeimpft).
+Dimitri Iwanowski wies unabhängig von Mayer im Jahr 1892 in einem Experiment nach, dass die Mosaikkrankheit bei Tabakpflanzen durch einen Stoff ausgelöst werden kann, der durch Filtration mittels bakteriendichter Filter (Chamberland-Filter) nicht entfernt werden konnte und dessen Partikel deshalb deutlich kleiner als Bakterien sein mussten.
+Der erste Nachweis eines tierischen Virus gelang 1898 Friedrich Loeffler und Paul Frosch, die das Maul-und-Klauenseuche-Virus entdeckten (siehe auch virologische Diagnostik).
+Die Größe vieler Viren wurde in den 1930er Jahren durch William Joseph Elford mit Methoden der Ultrafiltration bestimmt.
+Der bislang älteste - indirekte - Beleg für eine durch Viren verursachte Erkrankung wurde aus den deformierten Knochen eines 150 Millionen Jahre alten, kleinen zweibeinigen Dinosauriers (Dysalotosaurus lettowvorbecki) abgeleitet, der im Berliner Museum für Naturkunde verwahrt wird und Symptome von Osteodystrophia deformans aufweist, die auf eine Infektion mit Paramyxoviren zurückgeführt werden.
+Viren haben Strukturen, die genetische Information tragen.
+Doch sie haben keinen Stoffwechsel, können keine Energie umwandeln und vermögen auch nicht Proteine aufzubauen.
+Die Bildung dieser Strukturen und deren Vermehrung ist aber mit dem funktionsfähigen Stoffwechsel in der Zelle eines Lebewesens unter Umständen möglich.
+Die hierfür notwendige Information, insbesondere für die Proteinsynthese, trägt das Virus auf seiner Nukleinsäure (DNA oder RNA).
+Im Wesentlichen ist ein Virus eine Nukleinsäure, deren Information den Stoffwechsel einer Wirtszelle so steuern kann, dass wieder Viren entstehen.
+Die Replikation der Virus-Nukleinsäure erfolgt innerhalb der Wirtszelle, ebenso der Aufbau von Virus-Proteine durch Ribosomen im Zytoplasma der Zelle zur weiteren Ausstattung der Viruspartikel (Virionen).
+Auch die Lipide einer etwaigen Virushülle des Virions stammen von der Wirtszelle.
+Viren kommen in zwei Erscheinungsformen vor:
+Hinsichtlich der Ausbreitung und Wirkung bei ihrem jeweiligen Reservoirwirt und gegebenenfalls auch Zwischenwirt unterscheiden sich die Virenarten in den Ausprägungen der Merkmale Kontagiosität, Infektiosität und Pathogenität beziehungsweise Virulenz oft sehr deutlich voneinander.
+Allgemein sind RNA-Viren aufgrund der höheren Fehlerrate der RNA-Polymerasen wesentlich variabler als DNA-Viren, da ihre RNA-Polymerase meist keine proof-reading-Exonuklease-Funktion aufweist.
+Eine Ausnahme bilden die Nidovirales, die eine Proof-reading-Funktion mit der Exoribonuklease ExoN besitzen, wodurch die Genomgröße etwas weniger begrenzt wird.
+Durch die hohe Mutationsrate produzieren RNA-Viren zwar mehr defekte, nicht-infektiöse virale Partikel, was aufgrund der Funktionsminderung als Fitnesskosten bezeichnet wird.
+Sie können sich jedoch im Zuge einer Immunevasion auch schneller an neue Wirte oder Zwischenwirte anpassen sowie durch Fluchtmutation der Immunantwort entgehen.
+Ein Viruspartikel außerhalb von Zellen bezeichnet man als Virion (Plural Viria, Virionen).
+Virionen sind Partikel, die Nukleinsäuren - entweder Desoxyribonukleinsäuren (DNA) oder Ribonukleinsäuren (RNA) - enthalten und meist eine umschließende Protein-Kapsel (Kapsid) haben.
+Eine Kapsel fehlt jedoch z. B. beim Influenzavirus, das stattdessen ein Ribonukleoprotein aufweist.
+Einige Virionen besitzen zusätzlich eine Umhüllung durch eine Biomembran, deren Lipiddoppelschicht mit viralen Membranproteinen durchsetzt ist.
+Diese wird als Virushülle bezeichnet.
+Viren, die vorübergehend bis zum Beginn der Replikationsphase zusätzlich zum Kapsid eine Virushülle aufweisen, werden als behüllt bezeichnet, Viren ohne derartige Hülle als unbehüllt.
+Einige Virionen besitzen noch andere zusätzliche Bestandteile.
+Der Durchmesser von Virionen beträgt etwa 15 nm (beispielsweise Circoviridae) bis 440 nm (Megavirus chilensis).
+Virionen sind deutlich kleiner als Bakterien, jedoch etwas größer als Viroide, welche weder ein Kapsid noch eine Virushülle besitzen.
+Das Proteinkapsid kann unterschiedliche Formen haben, zum Beispiel ikosaederförmig, isometrisch, helikal oder geschossförmig.
+Serologisch unterscheidbare Variationen eines Virus nennt man Serotypen.
+Virionen dienen der Verbreitung der Viren.
+Sie dringen ganz oder teilweise (mindestens ihre Nukleinsäure) in die Wirtszellen ein (infizieren sie).
+Danach startet durch den Stoffwechsel des Wirts die Vermehrung der Virus-Nukleinsäure und die Produktion der anderen Virionen-Bestandteile.
+Viren sind im Wesentlichen bloße stoffliche Programme zu ihrer eigenen Reproduktion in Form einer Nukleinsäure.
+Sie besitzen zwar spezifische genetische Informationen, aber nicht den für ihre Replikation notwendigen Synthese-Apparat.
+Ob Viren als Lebewesen bezeichnet werden können, ist abhängig von der Definition von Leben.
+Eine allgemein anerkannte, unwidersprochene Definition gibt es bislang nicht.
+Die meisten Wissenschaftler stufen Viren nicht als Lebewesen ein - wobei die wissenschaftliche Diskussion noch nicht abgeschlossen ist, da beispielsweise bei der Genomgröße des Cafeteria-roenbergensis-Virus eine Abgrenzung anhand der Größe des Genoms zu verwischen beginnt.
+Viren werden normalerweise auch nicht zu den Parasiten gerechnet, weil Parasiten Lebewesen sind.
+Einige Wissenschaftler betrachten Viren dennoch als Parasiten, weil sie einen Wirtsorganismus infizieren und seinen Stoffwechsel für ihre eigene Vermehrung benutzen.
+Diese Forscher definieren Viren als "obligat intrazelluläre Parasiten" (Lebensformen, die immer Parasiten innerhalb einer Zelle sind), die mindestens aus einem Genom bestehen und zur Replikation eine Wirtszelle benötigen.
+Man kann sich - unabhängig von der Klassifizierung als Lebewesen oder Nicht-Lebewesen - darauf einigen, dass das Verhalten von Viren dem von gewöhnlichen Parasiten sehr ähnlich ist.
+Viren können wie Prionen, funktionslose DNA-Sequenzen und Transposons in diesem Sinne als "parasitär" bezeichnet werden.
+Ein Virus selbst ist zu keinen Stoffwechselvorgängen fähig, daher braucht es Wirtszellen zur Fortpflanzung.
+Der Replikationszyklus eines Virus beginnt im Allgemeinen, wenn sich ein Virion an ein Oberflächenprotein auf einer Wirtszelle anheftet (Adsorption), das vom Virus als Rezeptor verwendet wird.
+Bei Bakteriophagen erfolgt dies durch Injektion seines Erbmaterials in eine Zelle, bei Eukaryoten werden die Virionen durch Endozytose eingestülpt und durchdringen dann die Endosomenmembran, z. B. durch ein fusogenes Protein.
+Nach der Aufnahme muss ein Virion vor der Replikation erst von seinen Hüllen befreit werden (uncoating).
+Das Erbmaterial des Virus, seine Nukleinsäure, wird anschließend in der Wirtszelle vervielfältigt und die Hüllproteine sowie gegebenenfalls weitere Bestandteile der Virionen werden anhand der Gene des Virusgenoms ebenfalls von der Wirtszelle synthetisiert (Proteinbiosynthese/Genexpression).
+So können in der Zelle neue Viren gebildet werden (Morphogenese), die als Virionen freigesetzt werden, indem entweder die Zellmembran aufgelöst wird (Zell-Lyse, lytische Virusvermehrung), oder indem sie ausgeschleust (sezerniert) werden (Virusknospung, budding), wobei Teile der Zellmembran als Bestandteil der Virushülle mitgenommen werden.
+Mit Hilfe von Immunoevasinen wird die Immunabwehr des Wirtes unterdrückt.
+Die Anzahl an neugebildeten Virionen einer infizierten Wirtszelle wird als burst size (engl. für ,Berstgröße') bezeichnet.
+Eine weitere Möglichkeit ist der Einbau des Virus-Genoms in das des Wirtes (Provirus).
+Dies ist der Fall bei temperenten Viren, wie zum Beispiel dem Bakteriophagen Lambda.
+Die Auswirkung der Virusvermehrung auf die Wirtszelle nennt man zytopathischen Effekt (CPE), die Auswirkungen auf den gesamten Wirtsorganismus bezeichnet man als Viruserkrankung oder Virose.
+Es gibt verschiedene Arten des zytopathischen Effekts: Zell-Lyse, Pyknose (Polioviren), Zellfusion (Masernvirus, Herpes-simplex-Viren, Parainfluenzavirus), intranucleäre Einschlüsse (Adenoviren, Masernvirus), intraplasmatische Einschlüsse (Tollwutvirus, Pockenviren).
+Die Verbreitungswege von Viren sind vielfältig.
+So können humanpathogene Viren zum Beispiel über die Luft mittels Tröpfcheninfektion (z. B. Grippeviren) oder über kontaminierte Oberflächen durch Schmierinfektion (z. B. Herpes simplex) übertragen werden.
+Bei Pflanzenviren erfolgt die Übertragung häufig durch Insekten oder auch durch mechanische Übertragung zwischen zwei Pflanzen, bzw. über kontaminierte Werkzeuge in der Landwirtschaft.
+Eine abstrakte Sicht auf die epidemiologische Kinetik von Viren und anderen Krankheitserregern wird in der Theoretischen Biologie erarbeitet.
+Der Ursprung der Viren ist nicht bekannt.
+Die meisten Forscher nehmen heute an, dass es sich bei Viren nicht um Vorläufer des zellulären Lebens handelt, sondern um Gene von Lebewesen, die sich aus Lebewesen lösten.
+Es werden noch immer mehrere Möglichkeiten diskutiert, wobei es im Prinzip zwei verschiedene Ansätze gibt:
+Daraus abgeleitet sind drei Theorien formuliert worden.
+Für eine Evolution eines Virus (bzw. irgendeines Gens) ist seine Variabilität und Selektion von Bedeutung.
+Die Variabilität ist (wie bei allen Organismen) durch Kopierfehler bei der Replikation des Erbgutes gegeben und dient unter anderem der Immunevasion und der Änderung des Wirtsspektrums, während die Selektion oft durch die (Immun)-Antwort des Wirtes durchgeführt wird.
+Höher organisierte Lebewesen haben per Rekombination und Crossing-over bei der geschlechtlichen Fortpflanzung eine sehr effektive Möglichkeit der genetischen Variabilität besonders in Richtung einer Umweltanpassung und damit Weiterentwicklung ihrer jeweiligen Art entwickelt.
+Virionen beziehungsweise Viren zeigen als überdauerungsfähige Strukturen, die für ihre Vermehrung und damit auch Ausbreitung auf lebende Wirte angewiesen sind, ohne geschlechtliche Fortpflanzung allein mit ihrer Mutationsfähigkeit eine mindestens ebenbürtige Möglichkeit für eine genetische Variabilität.
+Dabei ist es dann letztlich unerheblich, dass diese Mutationen im Genom der Viren im Grunde zuerst auf Kopierfehlern während der Replikation innerhalb der Wirtszellen beruhen.
+Was zählt, ist allein der daraus für die Arterhaltung resultierende positive Effekt der extremen Steigerung der Anpassungsfähigkeit.
+Während Fehler dieser Art zum Beispiel bei einer hochentwickelten Säugetierzelle zum Zelltod führen können, beinhalten sie für Viren sogar einen großen Selektionsvorteil.
+Kopierfehler bei der Replikation drücken sich in Punktmutationen, also im Einbau von falschen Basen an zufälligen Genorten, aus.
+Da Viren im Gegensatz zu den höherentwickelten Zellen nur über wenige oder keine Reparaturmechanismen verfügen, werden diese Fehler nicht korrigiert.
+Sonderformen der genetischen Veränderung bei Viren werden beispielsweise bei den Influenza-Viren mit den Begriffen Antigendrift und Antigenshift (genetische Reassortierung) dort genau beschrieben.
+Eine Infektion mit Viren erzeugt in ihren Wirten verschiedene Formen der Abwehrreaktion.
+Viren werden ausschließlich intrazellulär repliziert, denn sie verwenden zur Replikation die dafür notwendigen Bausteine und Enzyme aus dem Cytosol einer Wirtszelle.
+Daher sind verschiedene intrazelluläre Abwehrmechanismen entstanden, die als Restriktions- oder Resistenzfaktoren bezeichnet werden.
+Während Bakterien unter anderem das CRISPR und Restriktionsenzyme zur Abwehr von Bakteriophagen innerhalb einer Zelle verwenden, gibt es in Eukaryoten z. B. den Myxovirus-Resistenzfaktor Mx1, die PAMP-Rezeptoren, den dsRNA-aktivierten Inhibitor der Translation DAI, das Melanom-Differenzierungs-Antigen 5 (MDA-5), die Oligoadenylatsynthase OAS1, das Langerin, das Tetherin, das SAM domain and HD domain 1-Protein (SAMHD1), das RIG-I, das APOBEC3, das TRIM5alpha, die Proteinkinase R und die RNA-Interferenz.
+In Tieren, besonders Wirbeltieren, hat sich zusätzlich eine Immunantwort herausgebildet.
+Sie ist teils angeboren, teils erworben.
+Im Zuge der erworbenen bzw. adaptiven Immunantwort entstehen Antikörper und zytotoxische T-Zellen, die einzelne Bestandteile des Virus (Antigene) binden können.
+Dadurch können sie Viren und Virus-infizierte Zellen erkennen und beseitigen.
+Eine Beobachtung bei der Pathogenese in natürlichen Wirten ist, dass an den Wirt angepasste Krankheitserreger ihm meist nicht sehr schaden, da sie ihn für ihre eigene Entwicklung benötigen und das Immunsystem durch Zellschäden und Apoptose aktiviert wird.
+Die Vermeidung einer Immunreaktion erleichtert die Replikation und die Übertragung (synonym Transmission) an weitere Wirte.
+Manche Viren verbleiben lebenslang im Körper.
+Es kann von Zeit zu Zeit zu einer Reaktivierung kommen, auch ohne Symptome.
+(Siehe hierzu auch: Erregerpersistenz.) So erreichen beispielsweise Herpes-simplex-Viren Infektionsquoten (synonym Durchseuchung) von über 90 % der deutschen Bevölkerung mit wenig ausgeprägten Symptomen.
+Das simiane Immundefizienz-Virus erzeugt in seinen natürlichen Wirten kein AIDS, im Gegensatz zu HIV im Menschen.
+Dagegen löschen sich Infektionen mit Ebolavirus im Menschen, nicht aber in ihren natürlichen Wirten, gelegentlich durch ihre hohe Virulenz selbst aus, bevor eine effiziente Transmission erfolgt, da der Wirt stark geschwächt ist und bald verstirbt, folglich ist sein Bewegungsradius und somit die Verbreitung des Virus begrenzt.
+Ein schwerer Infektionsverlauf mit hoher Sterblichkeit (siehe Letalität und Mortalität) ist zumeist ein Anzeichen dafür, dass der verursachende Erreger noch nicht an den betreffenden Organismus als seinen Reservoirwirt angepasst ist.
+Jedoch ist der Übergang von Pathogenen mit einer hohen Replikation (und erzeugten Schäden) zu einer dauerhaften Infektionsquote (Infect and persist, unter Vermeidung von Schäden) fließend.
+Anders ausgedrückt, neigen angepasste infektiöse Objekte zur Persistenz und einer regulierten Reproduktionsrate, während weniger angepasste Pathogene tendenziell zur vorzeitigen Beendigung der Infektionskette führen.
+Ausnahmen sind z. B. H5N1-Viren in Vögeln, Yersinia pestis und humane Pockenviren im Menschen.
+Die Anpassung erfolgt jedoch meistens seitens des Wirts, da die Pathogene mit ihren Artgenossen in Konkurrenz stehen und ein weniger reproduktives Pathogen schneller untergehen würde.
+Daher tritt eine Minderung der Pathogenität bei Pathogenen vor allem in Verbindung mit einer erhöhten Reproduktionsrate auf.
+Die Anpassung des Wirts an das Pathogen wird als Wirtsrestriktion oder -resistenz bezeichnet.
+Zu den bekannten antiviralen und antibakteriellen Mechanismen gehören also, wie schon unter Wirtsreaktionen bei Eukaryoten ausgeführt, beim Menschen beispielsweise der Myxovirus-Resistenzfaktor Mx1, die PAMP-Rezeptoren, der dsRNA-aktivierte Inhibitor der Translation DAI, das MDA5, die Oligoadenylatsynthase OAS1, das Langerin, das Tetherin, das APOBEC3, das TRIM5alpha und die Proteinkinase R. Darüber hinaus erfolgt die Immunantwort.
+Im Jahre 1962 wurde von Andre Lwoff, Robert W. Horne und Paul Tournier entsprechend der von Carl von Linne begründeten binären Klassifikation der Lebewesen eine Taxonomie der Viren ("LHT-System") eingeführt, die folgende Stufen umfasst (Muster für Namensendungen der Taxa in Klammern):
+Damit einher geht eine Zuordnung in Gruppen, die sich an den Wirten orientieren
+Die meisten Viren gehören nur zu einer der obigen vier Gruppen, doch Virusarten der Familie Rhabdoviridae und Bunyaviridae können sowohl Pflanzen als auch Tiere infizieren.
+Einige Viren vermehren sich nur in Vertebraten, werden jedoch auch von Invertebraten mechanisch übertragen (siehe Vektor), vor allem von Insekten.
+Viren, die auf die Nutzung von Genen anderer Viren (Mamaviren) während der gemeinsamen Infektion einer Wirtszelle angewiesen sind, werden Virophagen genannt.
+Das International Committee on Taxonomy of Viruses (ICTV) hat ein Klassifizierungssystem entwickelt, um eine einheitliche Unterteilung in Familien zu gewährleisten.
+Der neunte ICTV-Report definiert ein Konzept mit der Virus-Art als unterstem Taxon in einem hierarchischen System sich verzweigender Viren-Taxa.
+Die taxonomische Struktur war bis 2017 im Prinzip wie bei der herkömmlichen Virusklassifikation ab Stufe Ordnung und darunter (siehe oben) und wurde 2018 durch weitere Stufen wie folgt ergänzt (mit vom LHC-System abweichenden Namensendungen):
+Von diesen erlaubten Stufen sind bisher (ICTV Stand Februar 2019) nur Bereich, Phylum, Subphylum, Klasse, Ordnung, Unterordnung, Familie, Unterfamilie, Gattung, Untergattung und Art im tatsächlichen Gebrauch.
+Es gibt in diesen Richtlinien keine Definition von Unterarten (Subspecies), Stämmen (im Sinn von Varietäten, wie "Bakterienstamm", englisch: strain) oder Isolaten.
+Die Namensendungen aller Rangstufen haben also "vir" als Bestandteil (aber nicht in der Form "viroid"); die Abkürzungen enden auf "V", ggf. gefolgt von einer Nummer (nicht römisch, sondern arabisch).
+Für Viroide und Satelliten als subvirale Partikel kann eine analoge Taxonomie mit jeweils eigenen Namensendungen mit charakterisierendem Bestandteil verwendet werden.
+Mit Stand von März 2019 wurden die folgenden Ordnungen aufgenommen:
+Zum Phylum Negarnaviricota:
+Weitere Ordnungen und Unterordnungen der Riboviria:
+Nicht in höhere Ränge gruppierte Ordnungen:
+Die vom Nobelpreisträger und Biologen David Baltimore vorgeschlagene Klassifizierung basiert darauf, in welcher Form genau das Virusgenom vorliegt und wie daraus die Boten-RNA (mRNA) erzeugt wird.
+Das Virus-Genom kann in der Form von DNA oder RNA vorliegen, Einzelstrang (englisch:
+single-stranded, ss) oder Doppelstrang (englisch double-stranded, ds).
+Ein Einzelstrang kann als Original (englisch: sense, +) oder in komplementärer Form (englisch: antisense, -) vorliegen.
+Unter Umständen wird zur Vervielfältigung ein RNA-Genom übergangsweise in DNA umgesetzt (Retroviren) oder umgekehrt ein DNA-Genom übergangsweise in RNA transkribiert (Pararetroviren); in beiden Fällen wird die RNA mit einer Reversen Transkriptase (RT) in DNA zurückgeschrieben.
+Die gesamte Virosphäre wird durch folgende sieben Gruppen definiert:
+Moderne Virusklassifikationen benutzen eine Kombination von ICTV und Baltimore.
+Der offizielle internationale, wissenschaftliche Name eines Virus ist die englischsprachige Bezeichnung, nach der sich stets auch die international gebräuchliche Abkürzung richtet, wie bei Lagos bat virus (LBV).
+Diese Abkürzung wird unverändert auch im Deutschen verwendet.
+Folgerichtig lautet die Abkürzung für die deutsche Virusbezeichnung Lagos-Fledermaus-Virus ebenfalls LBV.
+In den englischen Virusnamen wie zum Beispiel bei West Nile virus werden normalerweise keine Bindestriche benutzt und virus wird kleingeschrieben.
+Der Bindestrich taucht im Englischen nur bei Adjektiven auf, also bei Tick-borne encephalitis virus oder Avian encephalomyelitis-like virus.
+Im Deutschen werden die Virusnamen teilweise mit Bindestrichen geschrieben, also West-Nil-Virus, Hepatitis-C-Virus, Humanes Herpes-Virus, Lagos-Fledermaus-Virus, Europäisches Fledermaus-Lyssa-Virus, teilweise auch zusammen.
+Vor den Nummern von Subtypen steht (wie im Englischen) ein Leerzeichen, bei den Abkürzungen ein Bindestrich, z. B. Europäisches Fledermaus-Lyssa-Virus 1 (EBLV-1), Herpes-simplex-Virus 1 (HSV-1) und Humanes Herpes-Virus 1 (HHV-1).
+Im Gegensatz zur belebten Welt werden nach den Regeln des ICTV auch die Namen der höheren Taxa (wie Familie, Ordnung, Klasse, Phylum (Abteilung) etc. kursiv geschrieben.
+Sie werden gewöhnlich nicht übersetzt.
+Im Gegensatz dazu werden Bezeichnungen für Subtypen (Stämme - im Sinn von englisch strains) - und Isolate) nie kursiv gesetzt (auch nicht evtl. darin enthaltene Gattungs- und/oder Artnamen ihrer Wirte).
+Werden häufig gebrauchte Namen einmal doch übersetzt (wie Coronaviren für Coronaviridae), dann werden diese Bezeichnungen nicht kursiv gesetzt.
+Da sich oft Taxa in aufsteigender Rangfolge nur durch die Endung unterscheiden (wie Herpesviridae und Herpesvirales), entstehen allerdings bei der Verwendung eingedeutschter Namen (hier: Herpesviren) oft Mehrdeutigkeiten.
+Das gilt auch für die Verwendung solcher Namen (z. B. Coronaviren für die prominentesten Vertreter wie SARS-CoV-2).
+Beim Menschen können eine Vielzahl von Krankheiten durch Viren verursacht werden.
+Allein diese humanpathogenen Viren sind hier hinsichtlich Genom und Behüllung klassifiziert und in ihrer Taxonomie nach ICTV aufgelistet.
+Die Gruppe der "Onkoviren", der wichtigsten beim Menschen krebserzeugenden (karzinogenen) Viren, ist weltweit für 10 bis 15 Prozent aller Krebserkrankungen des Menschen verantwortlich, nach Schätzung der amerikanischen Krebsgesellschaft sogar für etwa 17 % der Krebsfälle.
+Da Viren beziehungsweise Virionen im Gegensatz zu Bakterien keine Zellen sind, können sie auch nicht wie solche abgetötet werden.
+Es ist lediglich möglich, eine virale Infektion und die Virusvermehrung durch Virostatika zu be- oder zu verhindern.
+Besonders die biochemischen Vermehrungsabläufe können von Virusart zu Virusart sehr unterschiedlich sein, was die Findung eines hemmenden oder unterbindenden Wirkstoffes erschwert.
+Da die Vermehrung der Viren im Inneren von normalen Zellen stattfindet und sich dort sehr eng an die zentralen biochemischen Zellmechanismen ankoppelt, müssen die in Frage kommenden antiviralen Wirkstoffe
+Andererseits müssen diese gesuchten Wirkstoffe jedoch auch für den Körperstoffwechsel, den Zellverband und/oder den internen Zellstoffwechsel insgesamt verträglich sein, da sonst nicht nur beispielsweise die Virusvermehrung in den Zellen zum Erliegen kommt, sondern schlimmstenfalls auch das (Zell-)Leben des gesamten behandelten Organismus.
+Da sich diese Bedingungen sehr schwer vereinbaren lassen, bergen die bisher entwickelten antiviralen Medikamente oft das Risiko schwerer Nebenwirkungen.
+Diese Gratwanderung stellt die Medizin vor schwierige Aufgaben, die bislang meist ungelöst blieben.
+Verschärft wird die Entwicklung von effektiven antiviralen Medikamenten außerdem durch die Entwicklung von Resistenzen der zu bekämpfenden Viren gegenüber einem einmal gefundenen, brauchbaren Wirkstoff, zu der sie auf Grund ihres extrem schnell ablaufenden Vermehrungszyklus und der biochemischen Eigenart dieser Replikation gut in der Lage sind.
+Aktuell wird verstärkt an Therapien geforscht, bei denen Viren zur Heilung von Krankheiten eingesetzt werden.
+Diese Forschungen umfassen den Einsatz viraler Vektoren unter anderem als onkolytische Viren zur Bekämpfung von Tumoren, als Phagentherapie zur gezielten Infektion und Lyse von zum Teil antibiotikaresistenten Bakterien, als Impfstoff zur Prophylaxe und Therapie von Infektionskrankheiten, zur Erzeugung von induzierten pluripotenten Stammzellen oder zur Gentherapie von Gendefekten.

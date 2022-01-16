@@ -1,0 +1,24 @@
+Ein Computer ist eine Maschine.
+Sie berechnet etwas aus Daten oder bearbeitet Daten.
+Das machen sie nach den Regeln eines Programms, das Menschen geschrieben haben.
+
+Programme sind dabei eine Reihe von Befehlen, die in einer Art Sprache geschrieben werden.
+Die Maschine wandelt die Befehle in elektrische Zeichen um, die vom Computer verstanden werden können.
+Das Wort Computer kommt aus dem Englischen und bedeutet eigentlich "Rechner".
+
+Die ersten Computer wurden etwa 1938 gebaut.
+Sie konnten nur sehr wenig, nämlich Zahlen zusammenzählen.
+Heute gibt es Computer fast überall, sogar im Auto.
+Computer sorgen dafür, dass Automaten in der Fabrik arbeiten und die Apps auf dem Smartphone laufen.
+
+Jeder Computer besteht aus mehreren Bauteilen, die auch "Hardware" genannt werden.
+Mit Eingabegeräten wie Tastatur oder Maus sorgt man dafür, dass der Computer Daten bekommt.
+Die Daten kommen in einen Speicher, damit sie nicht verloren gehen, auch nicht, wenn der Computer ausgeschaltet wird.
+Der Prozessor ist das "Herz" des Computers, er verarbeitet die Daten.
+Danach gelangen die Ergebnisse auf ein Ausgabegerät, zum Beispiel einen Bildschirm oder Drucker.
+
+Alle Programme und Daten bilden die "Software".
+Durch diese kann ein Computer für sehr verschiedene Zwecke genutzt werden, ohne dass immer neue Bauteile gebraucht werden.
+Mit Software kann man Texte schreiben, Internetseiten machen oder Filme bearbeiten.
+Die Fachleute, die Computer entwickeln und programmieren, nennt man Informatiker.
+

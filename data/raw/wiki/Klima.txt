@@ -1,0 +1,347 @@
+Das Klima ist der mit meteorologischen Methoden ermittelte Durchschnitt der dynamischen Prozesse in der Erdatmosphäre, bezogen auf kleinräumige Örtlichkeiten (Meso- beziehungsweise Regionalklima) oder auf kontinentale Dimensionen (Makroklima), einschließlich aller Schwankungen im Jahresverlauf und basierend auf einer Vielzahl von Klimaelementen.
+Die klimatischen Bedingungen werden nicht nur von der Sonneneinstrahlung sowie den physikalischen und chemischen Abläufen innerhalb der Atmosphäre gesteuert, sondern zusätzlich von den Einflüssen und Wechselwirkungen der anderen vier Erdsphären (Hydrosphäre, Kryosphäre, Biosphäre und Lithosphäre).
+Um neben allen anderen Witterungsvorgängen auch den Temperaturverlauf in einem statistisch relevanten Zeitrahmen mit ausreichender Genauigkeit darzustellen, empfiehlt die Weltorganisation für Meteorologie (WMO) die Verwendung von Referenzperioden (auch Normalperioden oder CLINO-Perioden), in denen die Monatsmittelwerte als Zeitreihe über 30 Jahre in einem Datensatz zusammengefasst werden.
+Bis einschließlich 2020 war die Referenzperiode der Jahre 1961 bis 1990 der gültige und allgemein gebräuchliche Vergleichsmaßstab.
+Dieser wurde mit Beginn des Jahres 2021 von der neuen Normalperiode 1991 bis 2020 abgelöst.
+
+Die Gesetzmäßigkeiten des Klimas, seine Komponenten, Prozesse und Einflussfaktoren sowie seine mögliche künftige Entwicklung sind Forschungsgegenstand der Klimatologie.
+Als interdisziplinär geprägte Wissenschaft kooperiert die Klimatologie unter anderem mit Fachgebieten wie der Physik, Meteorologie, Geographie, Geologie und Ozeanographie und verwendet zum Teil deren Methoden beziehungsweise Nachweisverfahren.
+
+Die Paläoklimatologie ist ein bedeutender Teilbereich sowohl der Klimatologie als auch der Historischen Geologie.
+Ihre Aufgabe besteht darin, anhand von Isotopenuntersuchungen und Datenreihen aus Klimaarchiven und indirekten Klimaanzeigern (Proxys) die klimatischen Bedingungen über historische oder geologische Zeiträume in Form einer Klimageschichte zu rekonstruieren und die Mechanismen vergangener Klimawandel-Ereignisse zu entschlüsseln, wie zum Beispiel den Einfluss der sich periodisch verändernden Sonneneinstrahlung aufgrund der Milankovic-Zyklen auf das Erdsystem.
+
+== Begriff
+
+=== Definition
+
+Je nach Entwicklungsstand und Schwerpunkt der Klimaforschung gab und gibt es verschiedene Definitionen.
+Das Intergovernmental Panel on Climate Change (IPCC) arbeitet auf Grundlage einer weiten Begriffsbestimmung:
+
+Diese Definition des IPCC umfasst eine tiefenzeitliche Perspektive und nimmt neben der Atmosphäre noch weitere Subsysteme (Erdsphären) mit in den Blick.
+Sie spiegelt die Entwicklung seit der zweiten Hälfte des 20. Jahrhunderts, in der die interdisziplinäre Erforschung der Klimadynamik, einschließlich ihrer Ursachen, möglich wurde und in den Vordergrund des Interesses rückte.
+Damit gewann die zeitliche gegenüber der regionalen Dimension an Bedeutung.
+
+Der Deutsche Wetterdienst (DWD) definiert Klima enger, mit räumlichem Bezug und auf einer Zeitskala von Jahrzehnten:
+
+In der geographischen Klimatologie wurde Klima von Joachim Blüthgen in seiner Allgemeinen Klimageographie wie folgt definiert:
+
+In der meteorologischen Klimatologie wird Klima nach Manfred Hendl wie folgt definiert:
+
+Die für die Klimatologie grundlegende Definition stammt vom Wiener Meteorologen Julius von Hann (1839-1921), der den Begriff verstand als "die Gesamtheit aller meteorologischen Erscheinungen, die den mittleren Zustand der Atmosphäre an irgendeiner Stelle der Erdoberfläche charakterisieren." (Handbuch der Klimatologie, 1883) Von Hann begründete damit die "Mittelwertsklimatologie".
+Er griff in seiner Definition auf die das 19. Jahrhundert prägende, auf die menschliche Erfahrung eines Ortes zielende Definition Alexander von Humboldts zurück; dieser begriff Klima als "alle Veränderungen der Atmosphäre, die unsere Organe merklich afficieren" (Kosmos Band I).
+
+=== Etymologie
+
+Das Wort Klima (Plural: Klimate oder, näher am Griechischen, Klimata; selten (eingedeutscht) auch Klimas) ist eine Übernahme des altgriechischen Wortes ia klima, dessen erste Bedeutung (um 500 v. Chr.) in diesem Zusammenhang ,Krümmung/Neigung ' war und zum Verb ivv klinein, ,neigen', ,biegen', ,krümmen', ,anlehnen' gehört.
+Über das Spätlateinische clima (Verb: clinare, ,beugen', ,biegen', ,neigen') kam der Begriff schließlich ins Deutsche.
+
+Klima bezieht sich nicht auf die Ekliptik, also darauf, dass die Erdachse zur Ebene der Erdbahn gegenwärtig einen Neigungswinkel von ca. 23,5 Grad aufweist, sondern auf die Kugelform der Erde.
+Dies entspricht der Erfahrung, dass nur durch eine Fortbewegung in Nord-Süd-Richtung die Beobachtung anderer Himmelsgegenden möglich ist.
+Die entsprechende Eindeutschung ist das Kompositum "Himmelsstrich", das jedoch nur noch die geographische Gegend und nicht mehr die zugehörige Witterung bezeichnet.
+
+Im 20. Jahrhundert hat sich dabei das Begriffsverständnis von der Wettergesamtheit (E. E. Fedorov 1927) hin zur Synthese des Wetters (WMO 1979) entwickelt.
+
+=== Zeitliche Dimension
+
+Im Unterschied zu dem in einem bestimmten Gebiet auftretenden Wetter (Zeitrahmen: Stunden bis wenige Tage) und zur Witterung (Zeitrahmen: bis etwa eine Woche, seltener ein Monat oder eine Jahreszeit) werden in der Klimatologie fest definierte Zeiträume statistisch ausgewertet, vorwiegend in Bezug auf das 19. bis 21. Jahrhundert.
+Die Ausgangsbasis bildet dabei immer das Wettergeschehen einschließlich der meteorologisch erfassten Daten und Messwerte.
+
+Die Weltorganisation für Meteorologie (WMO) empfiehlt in dem Zusammenhang sogenannte Klimanormalperioden mit einer Dauer von 30 Jahren.
+Bisheriger Standard war die Jahresreihe 1961-1990, die der üblichen Regelung entsprechend bis 2020 Gültigkeit hatte und nun durch 1991-2020 ersetzt wurde.
+Aus praktischen Erwägungen werden alternative Normalperioden ebenfalls benutzt.
+Um über ein möglichst zeitnahes Intervall zu verfügen, wurde von der österreichischen Zentralanstalt für Meteorologie und Geodynamik (ZAMG) häufig die Periode 1971-2000 herangezogen, auch im Hinblick auf die für die Alpenregion wichtigen Gletscherinventare.
+Zusätzlich empfiehlt die WMO ihren Mitgliedsorganisationen den Vergleichszeitraum 1981-2010, der parallel zur jeweils gültigen Referenzperiode herangezogen wird, unter anderem für MeteoSchweiz.
+
+Daneben werden auch größere Zeiträume ausgewertet, wie die hundertjährige Säkularperiode 1851-1950, um auf diese Weise klimatische Anomalien und Trends in einem größeren zeitlichen Kontext darzustellen.
+Dieses Prinzip wird sowohl auf lokaler als auch auf landesweiter oder globaler Ebene angewendet.
+Der international anerkannte Index des Goddard Institute for Space Studies (GISS) und der NASA enthält die weltweiten Temperaturanomalien ab dem Jahr 1880 auf der Grundlage der Referenzperiode 1951-1980.
+
+Bei Klimarekonstruktionen, die geologische Perioden und damit Zeiträume von Jahrmillionen umfassen, spielen Wettereinflüsse naturgemäß keine Rolle mehr.
+Stattdessen wird versucht, durch Auswertung von Sedimenten, tierischen und pflanzlichen Fossilien sowie durch Isotopenuntersuchungen eine Klimacharakteristik der jeweiligen Epochen zu erstellen, einschließlich kurzzeitiger Abkühlungs- oder Erwärmungsphasen.
+Durch die raschen Fortschritte der verschiedenen Analysetechniken werden auf diesem Sektor zunehmend präzisere Ergebnisse auch in der zeitlichen Auflösung erzielt.
+
+=== Räumliche Dimension
+
+Der Begriff Klima wird häufig mit dem Weltklima beziehungsweise dem globalen Klima assoziiert.
+Jedoch ist die globale Temperaturentwicklung nicht repräsentativ für einzelne Regionen, die sogar über einen gewissen Zeitraum eine gegenläufige Tendenz aufweisen können.
+Ein Beispiel hierfür ist eine "cold blob" genannte stabile Kälteblase im subpolaren Atlantik südlich von Grönland, die sich offenbar über Jahrzehnte entwickelt hat und die ihre Existenz möglicherweise umfangreichen Schmelzwassereinträgen des Grönländischen Eisschilds verdankt.
+Umgekehrt kann ein lokaler Rekordsommer in global ermittelten Datenreihen "verschwinden".
+
+Im Hinblick auf räumliche Dimensionen hat sich eine dreistufige Einteilung bewährt:
+
+Während beim Wetter eine enge Beziehung zwischen der räumlichen Dimension und der Ereignisdauer besteht, ist dieser Aspekt für klimatologische Analysen weniger relevant.
+
+==== Mikroklima (oder Kleinklima)
+
+Mikroklima bezeichnet das Klima im Bereich der bodennahen Luftschichten bis etwa zwei Meter Höhe oder das Klima, das sich in einem kleinen, klar umrissenen Bereich ausbildet (zum Beispiel an Hanglagen oder in einer urbanen Umgebung).
+
+Das Mikroklima wird entscheidend durch die Oberflächenstruktur und die dort auftretende Bodenreibung des Windes geprägt.
+In diesem Umfeld treten schwächere Luftströmungen, aber größere Temperaturdifferenzen auf.
+Die Verschiedenheit der Böden, der Geländeformen und der Pflanzengesellschaft kann auf engem Raum große Klimagegensätze hervorrufen.
+Das Mikroklima ist besonders für niedrig wachsende Pflanzen von Bedeutung, da diese ihr klimaempfindlichstes Lebensstadium in der bodennahen Luftschicht durchlaufen, und spielt zum Beispiel bei den Eigenschaften einer Weinbergslage im Qualitätsweinbau eine wichtige Rolle.
+
+Auch der Mensch ist dem Mikroklima direkt ausgesetzt.
+Besonders im Lebensraum einer Stadt weicht das Mikroklima durch unterschiedliche Baustoffe, architektonische Gestaltung, Sonneneinstrahlung oder Beschattung oftmals von den natürlichen Gegebenheiten ab und kann sich durch Eingriffe in die jeweilige Bausubstanz oder deren Umgebung rasch und nachhaltig ändern.
+
+==== Mesoklima
+
+Mesoklimate bestehen aus unterschiedlichen Einzelklimaten, die eine Ausdehnung zwischen einigen hundert Metern und wenigen hundert Kilometern besitzen, im Regelfall jedoch Areale im unteren Kilometerbereich umfassen.
+Aufgrund dieses breiten, aber lokalen Spektrums spielen hierbei viele Aspekte der angewandten Meteorologie und der Klimatologie eine große Rolle, beispielsweise das Stadtklima oder das Regenwaldklima.
+Generell werden alle Lokalklimate und Geländeklimate zu den Mesoklimaten gezählt, wie die Lokalklimate von Ökosystemen, wobei bei diesen der Übergang zu den Mikroklimaten fließend ist.
+
+==== Regionalklima
+
+Beim Regionalklima handelt es sich um das Klima einer Raumeinheit auf der Mesoskala.
+Dementsprechend weist es viele Gemeinsamkeiten mit dem Mesoklima auf.
+Das Regionalklima zeichnet sich dadurch aus, dass es vor allem von regionalen Gegebenheiten wie der Landnutzung abhängt.
+Darüber hinaus ist die regionale Geländeform ein wichtiger Einflussfaktor.
+
+Da das Regionalklima besonders für forst- und landwirtschaftliche sowie infrastrukturelle Prozesse wichtig ist, werden hierzu regionalklimatische Karten benutzt.
+Normalerweise untersucht man Regionalklimate bezogen auf naturräumlich, verwaltungstechnisch oder landschaftlich abgegrenzte Gebietseinheiten.
+
+==== Makroklima (oder Großklima)
+
+Zu den Makroklimaten zählen großräumige atmosphärische Zirkulationsmuster, Meeresströmungen oder Klimazonen von mehr als 500 Kilometern Ausdehnung.
+Dazu gehören unter anderem die Strömungskombination der Thermohalinen Zirkulation, die vier der fünf Ozeane zu einem Wasserkreislauf vereint, sowie die periodisch auftretenden Effekte der Atlantischen Multidekaden-Oszillation.
+Auch die verschiedenen Windsysteme der Planetarischen Zirkulation, zum Beispiel der Monsun, der Passat oder die ozeanischen und atmosphärischen Rossby-Wellen, werden dem Makroklima zugeordnet, ebenso große Regionalklimate wie der Amazonas-Regenwald.
+Alle Makroklimate beeinflussen sich gegenseitig und bilden in ihrer Gesamtheit das globale Klimasystem.
+
+== Klimazonen und Klimaklassifikation
+
+Gebiete mit gleichen klimatischen Bedingungen werden in Klimazonen eingeteilt und dadurch klassifiziert.
+Die bekannteste Klassifikation stammt von dem Geowissenschaftler Wladimir Köppen (1846-1940).
+Sein 1936 veröffentlichtes Werk Geographisches System der Klimate gilt als die erste objektive Klimaklassifizierung (siehe Abbildung rechts).
+Es erlangte vor allem durch Köppens Zusammenarbeit mit dem Klimatologen Rudolf Geiger weite Verbreitung und besitzt auch gegenwärtig noch große Bedeutung.
+
+Ausdehnung, Struktur und Lage der Klimazonen sind abhängig vom Zustand und den Schwankungen des weltweiten Klimas über unterschiedlich lange Zeiträume.
+Laut mehreren Studien existiert seit Mitte des 20. Jahrhunderts eine deutliche Tendenz hin zur Ausbildung von wärmeren und trockeneren Klimaten.
+Bei Fortdauer dieser Entwicklung wird sehr wahrscheinlich eine Verschiebung bestehender und die Etablierung neuer Klimazonen eintreten.
+
+In der Wissenschaft wird allgemein angenommen, dass bei weiter zunehmender Erwärmung beträchtliche Folgen für Flora und Fauna aller Klimazonen zu erwarten sind.
+So könnten bis zum Jahr 2100 knapp 40 Prozent der weltweiten Landflächen von der einsetzenden Umwandlung der bestehenden Klimate betroffen sein, mit der Gefahr von umfangreichem Artenschwund und großflächiger Entwaldung.
+Besonders anfällig für diesen Wechsel wären subtropische und tropische Gebiete, da sie nach paläobiologischen Analysen in den letzten Jahrtausenden nur marginalen Schwankungen unterlagen und deshalb eine gering ausgeprägte Anpassungsfähigkeit besitzen.
+Mit am nachhaltigsten würde der Erwärmungsprozess die arktischen Regionen beeinflussen, wenn sich der gegenwärtige Trend der Polaren Verstärkung in dieser Region fortsetzt.
+Temperaturänderungen haben erhebliche Auswirkungen auf die dort existierenden Biotope.
+Von dieser Entwicklung in hohem Maße betroffen sind bei weiterer Zunahme der anthropogenen Emissionen zudem der Mittelmeerraum sowie Teile von Chile und Kalifornien, mit der Gefahr regionaler Wüstenbildungen.
+
+Neben der sich abzeichnenden Verschiebung der Klimazonen kommt es auch zu Veränderungen der Vegetationsverteilung bei im Tropengürtel liegenden Gebirgszügen.
+So konnte für den 6263 Meter hohen Chimborazo in Ecuador aufgrund eines Abgleichs mit früheren Aufzeichnungen festgestellt werden, dass während der letzten 200 Jahre, bedingt durch Gletscherschmelze sowie durch die zunehmende globale Erwärmung, die Pflanzendecke sich etwa 500 Meter weiter nach oben ausgebreitet hat.
+
+== Klimasystem
+
+Das im Wesentlichen von der Solarstrahlung angetriebene Klimasystem der Erde besteht aus fünf Hauptkomponenten, auch Erdsphären genannt:
+Erdatmosphäre, Hydrosphäre, Kryosphäre, Biosphäre und Lithosphäre (mit dem Oberflächenbereich der Pedosphäre).
+Diese werden im Einzelnen wie folgt charakterisiert:
+
+Die innerhalb und zwischen den einzelnen Sphären ablaufenden internen Prozesse und Wechselwirkungen gehören ebenfalls zum Klimasystem.
+Externe, das heißt nicht zum Klimasystem gehörende Prozesse treiben das Klimasystem an, neben der Solarstrahlung sind das der Vulkanismus und menschliche Einflüsse (= #Klimafaktoren).
+
+=== Klimaelemente
+
+Als Klimaelemente werden die messbaren Eigenschaften des irdischen Klimasystems bezeichnet, die einzeln oder durch ihr Zusammenwirken das Klima prägen.
+Es handelt sich dabei zumeist um meteorologische Größen, die mittels Wetterstationen, Wettersonden oder Satelliten erfasst werden, aber auch um Datenreihen aus der Ozeanographie und verschiedenen Disziplinen der Geowissenschaften.
+In der Meteorologie liegt der Schwerpunkt hierbei auf der räumlichen Datenanalyse, während in der Klimatologie die Zeitreihenanalyse im Vordergrund steht.
+
+Die wichtigsten Messgrößen sind:
+
+=== Klimafaktoren
+
+Klimafaktoren sind jene Komponenten, die auf physikalischer, chemischer oder biologischer Basis eine deutliche Wirkung auf das Klimasystem ausüben und es über unterschiedlich lange Zeiträume stabilisieren, prägen oder verändern.
+Dabei können mehrere Faktoren zusammenwirken und auf diese Weise einen Prozess verstärken oder sich als jeweils gegenläufige Einflüsse weitgehend neutralisieren.
+
+==== Klimafaktoren über die gesamte Dauer der Erdgeschichte
+
+==== Sporadisch auftretende Einflüsse über längere Zeiträume
+
+==== Zusätzliche und gegenwärtig wirksame Einflüsse
+
+== Klimawandel
+
+Im Unterschied zu regional oder hemisphärisch auftretenden Klimaschwankungen (auch Klimafluktuationen oder Klimaanomalien, mit einer Dauer von einigen Jahrzehnten oder Jahrhunderten) erfolgt ein weltweiter Klimawandel durch die markante Veränderung des Strahlungsantriebs, der das Erdsystem aus einem thermisch-radiativen Gleichgewicht in ein neues Gleichgewicht überführt.
+Dieser Prozess bewirkt je nach geophysikalischer Konstellation eine deutliche Abkühlung oder eine starke Erwärmung über unterschiedlich lange Zeiträume.
+Die gegenwärtige, durch den Menschen verursachte Globale Erwärmung ist ein Beispiel für einen rasch fortschreitenden, aber noch nicht abgeschlossenen Klimawandel, dessen bisheriger und prognostizierter Verlauf möglicherweise ein in der Klimageschichte singuläres Ereignis darstellt, für das keine Entsprechung existiert.
+
+Die wichtigsten Komponenten eines Klimawandels auf globaler Ebene sind die variierende Sonneneinstrahlung aufgrund der Milankovic-Zyklen, das Rückstrahlvermögen (Albedo) der gesamten Erdoberfläche sowie die atmosphärische Konzentration von Treibhausgasen, vorwiegend Kohlenstoffdioxid (CO2) und Methan (CH4), die wiederum auf der Basis des Treibhauseffekts die Stärke der temperaturabhängigen Wasserdampf-Rückkopplung beeinflussen.
+Der Klimazustand der letzten 2,6 Millionen Jahre (Quartäre Kaltzeit) war der eines Eiszeitalters und wurde hauptsächlich von den Milankovic-Zyklen gesteuert, die die Sonneneinstrahlung über die Dauer von 40.000 beziehungsweise 100.000 Jahren signifikant veränderten und so den Anstoß für den Wechsel der Kaltzeiten (Glaziale) mit Warmzeiten (Interglaziale) gaben.
+
+Nicht immer waren Kohlenstoffdioxid und/oder Methan die Hauptfaktoren eines Klimawandels.
+Sie fungierten im Rahmen natürlicher Klimawandel-Ereignisse manchmal als "Rückkopplungsglieder", die einen Klimatrend verstärkten, beschleunigten oder abschwächten.
+In diesem Zusammenhang sind neben den Erdbahnparametern auch Feedbacks wie die Eis-Albedo-Rückkopplung, die Vegetationsbedeckung, Verwitterungsprozesse, die Variabilität des Wasserdampfgehalts sowie eine Vielzahl geologischer und geophysikalischer Einflüsse zu berücksichtigen.
+
+Eine spezielle Form des Klimawandels sind abrupte Klimawechsel.
+Sie wurden in der Erdgeschichte durch Impaktereignisse, Eruptionen von Supervulkanen, großflächige Magmaausflüsse, schnelle Veränderungen von Meeresströmungen oder durch rasch ablaufende Rückkopplungsprozesse im Klimasystem ausgelöst, oft in Verbindung mit ökologischen Krisen.
+
+=== Klimageschichte
+
+Die Erde bildete sich vor 4,57 Milliarden Jahren aus mehreren Protoplaneten unterschiedlicher Größe.
+Ihre heutige Masse soll sie der Kollisionstheorie zufolge durch einen Zusammenstoß mit einem marsgroßen Himmelskörper namens Theia vor 4,52 Milliarden Jahren erhalten haben.
+Dadurch wurden Teile des Erdmantels und zahlreiche Trümmerstücke von Theia in den Orbit geschleudert, aus denen sich innerhalb von 10.000 Jahren der zu Beginn glutflüssige Mond formte.
+Über dieses früheste und chaotisch geprägte Stadium der Erdgeschichte sind mangels verwertbarer Klimadaten keine gesicherten Aussagen möglich.
+Erst ab der Zeit vor 4,0 bis 3,8 Milliarden Jahren, nach der Entstehung der Ozeane und erster Lebensformen, existieren fossile Spuren und Proxys ("Klimaanzeiger"), die Rückschlüsse auf klimatische Bedingungen erlauben.
+Auf Basis dieser Hinweise wird angenommen, dass über weite Teile des Archaikums ein relativ warmes Klima herrschte.
+Diese Phase endete im frühen Proterozoikum vor 2,4 Milliarden Jahren mit dem Übergang in die 300 Millionen Jahre dauernde Paläoproterozoische Vereisung.
+
+Gegen Ende des Präkambriums diffundierte Sauerstoff in größeren Mengen bis in die Stratosphäre, und es bildete sich auf der Grundlage des Ozon-Sauerstoff-Zyklus eine Ozonschicht.
+Diese schützte fortan die Erdoberfläche vor der solaren UV-Strahlung und ermöglichte so die Besiedelung der Kontinente durch Flora und Fauna.
+Während des Erdaltertums nahm der Sauerstoffgehalt rasch zu.
+Er entsprach im Umkreis der Devon-Karbon-Grenze (ca. 359 mya) erstmals der heutigen Konzentration von 21 Prozent und erreichte gegen Ende des Karbons etwa 33 bis 35 Prozent.
+Im weiteren Verlauf der Erd- und Klimageschichte war die Atmosphäre in Abhängigkeit von biogeochemischen und geophysikalischen Einflüssen immer wieder starken Veränderungen unterworfen.
+Die Sauerstoff-, Kohlenstoffdioxid- und Methan-Anteile schwankten zum Teil erheblich und spielten direkt oder indirekt eine entscheidende Rolle bei einer Reihe von Klimawandel-Ereignissen.
+
+Bei Analyse der Klimageschichte spricht eine wachsende Zahl von Belegen für die Annahme, dass fast alle bekannten Massenaussterben oder die deutliche Reduzierung der Biodiversität mit raschen Klimaänderungen und deren Folgen verknüpft waren.
+Daraus resultierte die Erkenntnis, dass diese Ereignisse nicht zwangsläufig an langfristige geologische Prozesse gekoppelt sein müssen, sondern häufig einen katastrophischen und zeitlich eng begrenzten Verlauf genommen haben.
+Biologische Krisen korrelierten in den letzten 540 Millionen Jahren mehrmals mit einer Abkühlungsphase (mit einem weltweiten Temperaturrückgang von 4 bis 5 °C), häufiger jedoch mit starken Erwärmungen im Bereich von 5 bis 10 °C.
+Im letzteren Fall trug ein Bündel von Nebenwirkungen (Vegetationsrückgang, Ausgasungen von Gift- und Schadstoffen, Sauerstoffdefizite, Versauerung der Ozeane etc.) dazu bei, die irdische Biosphäre weiter zu destabilisieren.
+
+Die im 20. Jahrhundert entwickelte radiometrische Datierung, die eine absolute Altersbestimmung magmatischer Gesteine und vulkanogener Sedimente erlaubt, führte zur Etablierung der Subdisziplinen Geochronologie und Chronostratigraphie und besitzt große Bedeutung für alle Perioden des 541 Millionen Jahre umfassenden Phanerozoikums und darüber hinaus.
+Gebräuchliche Methoden sind die Uran-Thorium-Datierung und die Uran-Blei-Datierung.
+Für genaue Datierungen eignen sich vor allem Zirkonkristalle, deren stabile Gitterstruktur eine präzise Auswertung der darin eingeschlossenen radioaktiven Nuklide erlaubt.
+Zusätzlich wird zur Rekonstruktion vergangener Klimate und ihrer Umweltbedingungen eine Reihe verschiedener Isotopenuntersuchungen verwendet, mit deren Hilfe beispielsweise frühere Meerestemperaturen, CO2-Konzentrationen oder Veränderungen des Kohlenstoffzyklus ermittelt werden können.
+Für jüngere erdgeschichtliche Abschnitte (Pleistozän und Holozän) kommen weitere Analysewerkzeuge zum Einsatz.
+Mit die wichtigsten sind die Dendrochronologie (Jahresring-Auswertung), die Palynologie (Pollenanalyse), die Warvenchronologie (Bändertondatierung), Eisbohrkerne, Ozeanische Sedimente sowie Tropfsteine (Stalagmiten und Stalaktiten).
+
+Klimaereignisse in historischer Zeit und ihre Auswirkungen auf menschliche Gesellschaften sind Forschungsgegenstand der Historischen Klimatologie beziehungsweise der Umweltgeschichte, wobei vielfach auf schriftliche Aufzeichnungen zurückgegriffen wird.
+Mitteleuropa verfügt über einen so reichhaltigen Fundus zeitgenössischer Berichte, dass etwa ab dem Jahr 1500 für nahezu jeden einzelnen Monat aussagekräftige Schilderungen der damaligen Witterung vorliegen.
+Klimaveränderungen wie die Mittelalterliche Klimaanomalie oder die Kleine Eiszeit werden dabei ebenso einer wissenschaftlichen Analyse unterzogen wie einzelne Extreme, zum Beispiel das von katastrophaler Dürre geprägte Jahr 1540.
+
+=== Erdbahnparameter
+
+Dass langfristige Schwankungen des globalen Klimas auf zyklischen Veränderungen der Erdachse und der Erdumlaufbahn beruhen könnten, wurde bereits in der 2. Hälfte des 19. Jahrhunderts vermutet.
+Eine erste umfassende Darstellung auf der Basis umfangreicher Berechnungen gelang dem Geophysiker und Mathematiker Milutin Milankovic (1879-1958).
+Sein in jahrelanger Arbeit erstelltes Erklärungsmodell berücksichtigt die periodischen Veränderungen der Erdbahn (von leicht elliptisch bis fast kreisförmig), die Neigung der Erdachse sowie das Kreiseln der Erde um ihre Rotationsachse (Präzession).
+
+Die nach Milankovic benannten Zyklen beeinflussen die Verteilung und zum Teil die Intensität der Sonneneinstrahlung auf der Erde.
+Vor allem der die Exzentrizität steuernde Großzyklus mit einer Dauer von 405.000 Jahren bildete über weite Teile des Phanerozoikums einen stabilen kosmischen "Taktgeber" und kann nach neueren Erkenntnissen bis in die Obertrias vor etwa 215 Millionen Jahren zurückverfolgt werden.
+Eine dauerhafte Wirkung entfalteten die Zyklen speziell während verschiedener Glazialphasen mit niedrigen Treibhausgas-Konzentrationen, wobei ihr Einfluss auf den Verlauf der Quartären Kaltzeit aufgrund deren zeitlicher Nähe gut nachvollzogen werden kann.
+Da die Milankovic-Zyklen jedoch zu schwach sind, um als primärer Antrieb für die gesamte Klimageschichte in Frage zu kommen, scheinen sie im Klimasystem in erster Linie als "Impulsgeber" zu fungieren.
+Bei der Modellierung von Klimaverläufen werden daher zusätzliche Faktoren und Rückkopplungseffekte mit einberechnet.
+
+Seit ihrer "Wiederbelebung" in den 1980er Jahren ist die Theorie in modifizierter und erweiterter Form zum festen Bestandteil von Paläoklimatologie und Quartärforschung geworden.
+Die Milankovic-Zyklen gelten in der Klimaforschung als wichtiger Einflussfaktor und werden sowohl bei der Rekonstruktion der letzten Kaltzeitphasen als auch bei der Analyse weiterer Klimawandel-Ereignisse während des Phanerozoikums herangezogen.
+
+=== Klimasensitivität
+
+Die Klimasensitivität ist nach einer häufig verwendeten Definition jene Temperaturzunahme, die sich bei einer Verdoppelung der atmosphärischen Kohlenstoffdioxid-Konzentration einstellt.
+Bezogen auf die aktuelle Globale Erwärmung würde dies eine CO2-Verdoppelung von vorindustriellen 280 ppm auf 560 ppm bedeuten.
+Mit Stand 2019 beträgt die im Jahresverlauf leicht schwankende CO2-Konzentration ungefähr 412 ppm.
+Neben Kohlenstoffdioxid sind noch weitere Gase am Treibhauseffekt beteiligt, deren Beitrag in der Regel als CO2-Äquivalente dargestellt wird.
+
+Die Eingrenzung der Klimasensitivität auf einen möglichst genauen Temperaturwert ist für die Kenntnis der künftigen Klimaentwicklung von grundlegender Bedeutung.
+Bei ausschließlicher Betrachtung der im Labor gemessenen Strahlungswirkung von CO2 beträgt die Klimasensitivität 1,2 °C.
+Zur Klimasensitivität trägt jedoch auch eine Reihe positiver Rückkopplungseffekte im Klimasystem bei, wobei zwischen schnellen und langsamen Feedbacks unterschieden wird.
+Wasserdampf-, Eis-Albedo- und Aerosolrückkopplung sowie die Wolkenbildung zählen zu den schnellen Rückkopplungen.
+Die Eisschilde, kohlenstoffbindende Verwitterungsprozesse sowie die Ausbreitung oder Reduzierung der Vegetationsfläche gelten als langsame Rückkopplungseffekte und werden der Erdsystem-Klimasensitivität zugeordnet.
+
+Die Klimasensitivität als dynamischer Faktor hängt in hohem Maße vom jeweiligen Klimazustand ab.
+Beispiele aus der Erdgeschichte zeigen, dass sich die Klimasensitivität mit Zunahme des Strahlungsantriebs und der damit steigenden Globaltemperatur ebenfalls erhöht.
+So wird beispielsweise für die starke Erwärmungsphase des Paläozän/Eozän-Temperaturmaximums vor 55,8 Millionen Jahren eine Klimasensitivität im Bereich von 3,7 bis 6,5 °C postuliert.
+Ähnlich hohe Werte werden auch für den größten Teil des übrigen Känozoikums veranschlagt.
+
+In den vergangenen Jahrzehnten wurden der Klimasensitivität sehr unterschiedliche Werte zugeschrieben.
+Die Sachstandsberichte des Intergovernmental Panel on Climate Change (IPCC), die den jeweils aktuellen Forschungsstand zusammenfassen, gelten hierbei als maßgebliche und zuverlässige Quelle.
+Im 2007 erschienenen Vierten Sachstandsbericht lag der als "wahrscheinlich" eingestufte Temperaturkorridor zwischen 2 und 4,5 °C.
+Laut dem 2013 veröffentlichten Fünften Sachstandsbericht betrug die Bandbreite zwischen 1,5 und 4,5 °C.
+Demnach liegt der beste mittlere Schätzwert für die gegenwärtige Klimasensitivität bei rund 3 °C.
+Im Jahr 2019 zeigten erste Auswertungen der neuentwickelten Klimamodellreihe CMIP6, dass einige Standardtests mit 2,8 bis 5,8 °C deutlich höhere Klimasensitivitäten ergaben als frühere Modellgenerationen.
+Allerdings führte die Anwendung von CMIP6 mit der Modellvariante CESM2 (Community Earth System Model version 2) beim Vergleich mit paläoklimatologisch ermittelten Temperaturdaten des frühen Känozoikums zu erheblichen Abweichungen beziehungsweise unrealistischen Werten.
+
+=== Klimafaktor Mensch
+
+Seit Beginn der Industrialisierung im 19. Jahrhundert erhöhen die Menschen den Anteil an Treibhausgasen in der Atmosphäre in signifikantem Umfang.
+Besonders die Verbrennung fossiler Energieträger trug dazu bei, dass die Kohlenstoffdioxid-Konzentration von 280 ppm (Teile pro Million) auf (Stand 2020) 415 ppm stieg.
+Hinzu kommen beträchtliche Methan-Emissionen, vor allem bedingt durch intensive Tierhaltung, sowie weitere Treibhausgase wie Distickstoffmonoxid (Lachgas) oder Carbonylsulfid.
+Ein bedeutender Faktor ist zudem die großflächige Entwaldung insbesondere der tropischen Regenwälder.
+
+Der Temperaturanstieg gegenüber der vorindustriellen Zeit bis zum Jahr 2018 betrug nach Angaben des Intergovernmental Panel on Climate Change (IPCC) etwa 1,0 °C.
+Bis zum Ende des 21. Jahrhunderts rechnet der IPCC im ungünstigsten Fall (repräsentativer Konzentrationspfad RCP 8.5) mit einem Temperaturanstieg im Bereich von 2,6 bis 4,8 °C.
+
+Die Zunahme von Treibhausgasen und der damit gekoppelte Temperaturanstieg sind nach einhelliger wissenschaftlicher Meinung auf menschliche Aktivitäten zurückzuführen.
+Wenn es nicht gelingt, die anthropogenen Emissionen in hohem Umfang zu reduzieren, drohen selbst bei einer relativ moderaten Erwärmung von 2 °C zahlreiche und zum Teil schwerwiegende Folgen, zu denen steigende Meeresspiegel, zunehmende Wetterextreme und gravierende Auswirkungen auf menschliche Gemeinschaften zählen.
+Neuere Analysen auf der Basis umfassender paläoklimatologischer Datenreihen der letzten 12.000 Jahre kommen zu dem Ergebnis, dass die im bisherigen 21. Jahrhundert aufgetretene Erwärmung die Temperaturwerte des Holozänen Klimaoptimums (vor etwa 8000 bis 6000 Jahren) mit hoher Wahrscheinlichkeit übertrifft.
+
+=== Kippelemente
+
+Kippelemente (englisch Tipping Elements) sind in der Erdsystemforschung Bestandteile des Klimasystems, die durch geringe äußere Einflüsse einen neuen Zustand annehmen, wenn sie einen bestimmten Kipppunkt erreichen.
+Diese Änderungen können abrupt erfolgen und gelten zum Teil als irreversibel.
+Das Konzept der Kippelemente wird vor allem in der geowissenschaftlichen Fachliteratur seit Beginn des Jahrtausends als bis dahin vernachlässigte Möglichkeit diskontinuierlicher Prozesse - vor allem im Zusammenhang mit der gegenwärtigen globalen Erwärmung - auf breiter Basis diskutiert.
+
+In einer ersten Bestandsaufnahme wurden die folgenden potenziellen Kippelemente identifiziert:
+
+In den folgenden Jahren wurden weitere Kippelemente benannt, darunter die Methan-Freisetzung aus den Ozeanen und aus tauenden Dauerfrostböden sowie das weltweite Absterben von Korallenriffen.
+Durch die Aktivierung einiger Kippelemente könnten in Form von Rückkopplungen weitere Kipppunkte überschritten werden.
+Damit bestünde das Risiko einer Kettenreaktion ("Kaskade"), die das Klima unumkehrbar in ein Warmklima überführen würde, in etwa vergleichbar mit den Umweltbedingungen des Pliozäns oder - bei unvermindertem Emissionsvolumen - des Eozäns.
+
+Im Hinblick auf verschiedene geochronologische Perioden gibt es eine Reihe deutlicher Hinweise, dass bei Erreichen bestimmter Kipppunkte ein abrupter Wechsel in einen neuen Klimazustand stattfand, wie zum Beispiel während des Hangenberg-Ereignisses im späten Devon vor etwa 359 Millionen Jahren.
+
+=== Klimamodelle
+
+Klimamodelle sind Computermodelle zur Berechnung des Klimas und dessen Einflussfaktoren über einen bestimmten Zeitraum und werden sowohl zur Analyse künftiger Entwicklungen als auch zur Rekonstruktion von Paläoklimaten verwendet.
+Die Projektionen der Klimamodelle sind naturgemäß unsicherer als die der Wettermodelle, da hierbei wesentlich größere Zeiträume in Betracht gezogen und eine Reihe zusätzlicher Parameter berücksichtigt werden müssen.
+Aus diesem Grund werden keine Klimaprognosen, sondern Szenarien mit bestimmten Wahrscheinlichkeitskorridoren erstellt.
+Ein Klimamodell basiert in der Regel auf einem Meteorologiemodell, wie es auch zur numerischen Wettervorhersage verwendet wird.
+Dieses Modell wird jedoch für die Klimamodellierung modifiziert und erweitert, um alle Erhaltungsgrößen korrekt abzubilden.
+Oftmals wird dabei ein Ozeanmodell, ein Schnee- und Eismodell für die Kryosphäre und ein Vegetationsmodell für die Biosphäre angekoppelt.
+
+Die meisten Modelle werden an realen Klimaverläufen der Gegenwart und der Vergangenheit kalibriert, so dass sie nicht nur aktuelle Entwicklungen, sondern beispielsweise auch die Klimazyklen über mehrere 100.000 Jahre weitgehend korrekt nachbilden können.
+Somit wurde es möglich, den charakteristischen Ablauf der Quartären Eiszeit mit ihren Warm- und Kaltphasen, einschließlich der Milankovic-Zyklen, des Treibhauseffekts und der Eis-Albedo-Rückkopplung, auf ein solides theoretisches Fundament zu stellen.
+Allerdings bestehen für Projektionen künftiger Klimaentwicklungen über Jahrhunderte oder länger große Unsicherheiten hinsichtlich möglicher Rückkopplungsprozesse, vor allem in Verbindung mit den Kippelementen im Erdsystem, sodass es selbst unter Einbeziehung der Klimageschichte beziehungsweise paläoklimatologisch ermittelter Daten schwierig ist, valide Resultate zu erzielen.
+Ebenso haben dekadische Klimamodellierungen nur eine beschränkte Aussagekraft, da kurzfristig auftretende Schwankungen einen Trend jederzeit überlagern oder verfälschen können.
+
+== Klima in Deutschland
+
+Deutschland liegt vollständig in der gemäßigten Klimazone Mitteleuropas im Einflussbereich der Westwindzone und somit in der Übergangsregion zwischen dem maritimen Klima in Westeuropa und dem kontinentalen Klima in Osteuropa.
+Das für die relativ hohe nördliche Breite milde Klima wird unter anderem vom Golfstrom beeinflusst.
+
+Der bundesweite Gebietsmittelwert der Lufttemperatur beträgt im Jahresmittel 8,2 °C (Normalperiode 1961-1990), der niedrigste Monatsdurchschnitt wird mit -0,5 °C im Januar und der höchste mit 16,9 °C im Juli erreicht.
+Spitzenreiter bei den Jahresdurchschnittstemperaturen ist der Oberrhein-Graben mit über 11 °C, während Oberstdorf, 800 Meter über Meereshöhe gelegen, rund 6 °C verzeichnet.
+Der kälteste Ort ist der Gipfel der 2962 m hohen Zugspitze mit einer durchschnittlichen Jahrestemperatur von fast -5 °C.
+Die mittlere jährliche Niederschlagshöhe beträgt 789 mm, die mittleren monatlichen Niederschlagshöhen liegen zwischen 49 mm im Februar und 85 mm im Juni.
+Die Niederschlagshöhe schwankt in einem Bereich von über 1000 mm in der Alpenregion und den Mittelgebirgen und unter 500 mm im Regenschatten des Harzes zwischen Magdeburg im Norden, Leipzig im Osten und Erfurt im Süden.
+Generell nimmt die Humidität von West nach Ost ab.
+
+In den letzten Jahrzehnten verzeichnet auch Deutschland einen deutlichen Erwärmungstrend:
+Nach den Statistiken des Deutschen Wetterdienstes lagen in allen Jahren seit 1988 (ausgenommen 1996 und 2010) die Durchschnittstemperaturen über dem langjährigen Mittel von 8,2 °C.
+2014 wurde mit 10,3 °C erstmals ein zweistelliger Jahreswert erreicht, übertroffen nur vom bisherigen Rekordjahr 2018 mit 10,5 °C.
+Für den Zeitraum 1881 bis 2018 ergibt sich in den Auswertungen des Deutschen Wetterdienst ein Temperaturanstieg für Deutschland um +1,5 °C (linearer Trend).
+Die Zunahme im Sommer betrug +1,4 °C (1881-2018), im Winter +1,5 °C (1882-2019).
+Dabei hat sich der Trend in den letzten Jahrzehnten verstärkt.
+Damit verbunden zeigen Beobachtungen der Pflanzenentwicklung eine Verschiebung der phänologischen Jahreszeiten.
+Beispielsweise trat die Haselnussblüte, die als Indikator für den phänologischen Vorfrühling definiert ist, im Zeitraum 1991-2010 ca. 12 Tage früher auf als im Zeitraum 1961-1990.
+Auch Zugvögel bleiben fast einen Monat länger in Deutschland als noch in den 1970er Jahren.
+
+Die tiefste jemals in Deutschland gemessene Temperatur wurde am 24. Dezember 2001 mit -45,9 °C am Funtensee in den Berchtesgadener Alpen registriert.
+Allerdings handelt es sich hierbei um eine besonders exponierte Lage, da in der abflusslosen Senke über Schneebedeckung ein Kaltluftstau entstehen kann.
+Der Deutsche Wetterdienst gibt als offiziellen Rekordwert -37,8 °C an, gemessen am 12. Februar 1929 in Hüll (Ortsteil von Wolnzach, Kreis Pfaffenhofen).
+Nachdem am 24. Juli 2019 die bisher höchste Temperatur mit 40,5 °C im nordrhein-westfälischen Geilenkirchen gemessen wurde, setzten bereits einen Tag später die Wetterstationen Duisburg-Baerl und Tönisvorst mit jeweils 41,2 °C neue Rekordmarken.
+Ungewöhnlich hohe Temperaturen traten am 25. Juli 2019 auch an einer Reihe anderer Orte auf.
+
+Die sonnigsten Regionen Deutschlands sind in den nördlichen und südlichen Randbereichen des Landes zu finden.
+Mit 1869 Sonnenstunden pro Jahr ist Kap Arkona auf der Insel Rügen der Rekordhalter für die aktuelle Referenzperiode 1981-2010.
+Im Süden befinden sich die sonnigsten Regionen am südlichen Oberrhein, in der Region um Stuttgart und im bayerischen Alpenvorland einschließlich der Landeshauptstadt München.
+In diesen Gebieten werden im Durchschnitt jährlich etwa 1800 Sonnenstunden gemessen.
+Allerdings ist deren Verteilung im Hinblick auf die Jahreszeiten sehr unterschiedlich:
+Während an der Ostseeküste die meisten Sonnenstunden im Frühjahr und Sommer auftreten, sind im Süden und besonders im Alpenvorland die Wintermonate deutlich sonniger als in den übrigen Landesteilen.
+
+Witterungsbedingungen wie ausgeprägte Dürren oder Hitzewellen waren bisher aufgrund der ausgleichenden Westwindzone relativ selten, ereigneten sich jedoch im Jahresverlauf 2018 nicht nur in Deutschland, sondern fast überall in Europa, und könnten laut verschiedenen Untersuchungen künftig zunehmen.
+Ein gegenteiliges Extrem war eine von Ende Januar bis Mitte Februar 2012 dauernde europaweite Kältephase.
+In den Herbst- und Wintermonaten gibt es immer wieder einzelne Sturm- oder Orkantiefs, die meistens über die Nordsee nach Osten ziehen und vor allem Norddeutschland und die Mittelgebirge treffen, wie zum Beispiel die Orkantiefs Lothar im Dezember 1999 und Kyrill im Januar 2007.
+Regelmäßig ereignen sich auch Hochwasser, die nach intensiven Niederschlägen im Sommer (Oderhochwasser 1997, Hochwasser in Mitteleuropa 2002) oder nach der Schneeschmelze zu Überschwemmungen mit erheblichem Schadenspotenzial führen können.
+Dürren betreffen im Normalfall den eher trockenen Nordosten Deutschlands, können jedoch mitunter auf das ganze Land übergreifen, wie während der Hitzewellen 2003, 2015 und 2018.
+
+Weitere Wetterextreme wie Gewitterstürme und Tornados entstehen vorwiegend im Früh- und Hochsommer.
+Während Süddeutschland schwerpunktmäßig von Hagelunwettern heimgesucht wird, nimmt die Tornadotendenz nach Nordwesten hin leicht zu.
+Eine Besonderheit sind hierbei die an der Nord- und Ostseeküste hauptsächlich im Spätsommer auftretenden Wasserhosen.
+Insgesamt ist jährlich mit 30 bis 60 Tornados zu rechnen, in manchen Jahren auch mit deutlich mehr (119 Tornados 2006).
+
+== Literatur
+
+=== Begriff und Definition des Klimas
+
+=== Klimageschichte und natürlicher Klimawandel
+
+=== Klimafaktor Mensch
+
+== Weblinks
+
+== Einzelnachweise
+

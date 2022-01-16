@@ -1,0 +1,309 @@
+Eine Schraube ist ein zylindrischer oder leicht kegeliger (konischer) Körper, in dessen Oberfläche ein Gewinde (eine spiralförmig umlaufende Nut) eingeschnitten oder -gewalzt ist.
+Bei Schaftschrauben (Schrauben mit Teilgewinde) ist nur ein Teil des Schafts mit einem Gewinde versehen.
+An einem ihrer Enden (bei der Schaftschraube am gewindefreien Ende) befindet sich in der Regel ein Schraubenkopf.
+Über das "Kinn" des Schraubenkopfes (die untere Ringfläche) erfolgt die Kraftübertragung auf das zu befestigende Bauteil.
+An einem Ende der Schraube (bei der Kopfschraube am Kopf) befindet sich der sogenannte Drehantrieb.
+Dieser besitzt eine passende Kontur für den Formschluss mit dem Werkzeug, meist ein Schraubendreher oder ein Schraubenschlüssel, mit dem die Schraube ein- und ausgedreht werden kann.
+
+Die beiden Hauptgruppen von Schrauben sind die "Holzschrauben" (leicht konisch, Gewinde ins Gegenstück aus Holz, Blech oder Kunststoff selbstschneidend) und die "Metallschrauben" (zylindrisch, Gegenstück aus Metall und anderen Werkstoffen mit eigenem Muttergewinde).
+
+Eine mit einer Schraube hergestellte Verbindung ist in der Regel wieder lösbar.
+Schrauben sind in vielen Formen genormte Maschinenelemente.
+
+== Geschichte
+
+Im ersten Jahrhundert v. Chr. waren im Mittelmeerraum Spindelpressen aus Holz zum Auspressen von Öl- und Weinfrüchten bekannt.
+Diese Pressen geben eine frühe Auskunft von der Umwandlung einer Drehbewegung zwischen Schraube und Mutter in eine Längsbewegung zwischen beiden und den ältesten Hinweis auf die Kraftverstärkung (Keil-Wirkung zwischen den Gewindegängen; Prinzip der schiefen Ebene) mittels Schraube (und Mutter).
+
+Erste Metallschrauben wurden vereinzelt in der römischen Antike angefertigt, wie beispielsweise die Nadelhalter an mehreren Zwiebelknopffibeln aus dem 4. Jahrhundert, die als von den Römischen Kaisern vergebene prunkvolle Rangabzeichen nicht nur aus wertvollen Metallen, sondern auch technisch besonders aufwändig gestaltet waren.
+Ebenso wurden zu Beginn des 15. Jahrhunderts Metallschrauben in Europa gefertigt, die sich aber wegen ihres hohen Preises ebenfalls nicht allgemein durchsetzen konnten.
+Erst die Industrialisierung im 18. Jahrhundert ermöglichte die preiswerte und massenhafte Herstellung und weite Verbreitung von Schrauben.
+Nachfolgend eine Zeittafel der neuzeitlichen Errungenschaften:
+
+== Typologien
+
+Schrauben ohne Kopf werden als Madenschraube oder Stockschraube bezeichnet.
+Gewinde ohne Antrieb heißen Gewindestange, Gewindestift oder Gewindebolzen.
+
+Schrauben unterscheiden sich unter anderem durch das Gewinde und ihre Anwendung.
+
+=== Schraubenkopfformen
+
+Die Kopfform wird nach folgenden Kriterien unterschieden:
+
+In der Regel sind mehrere dieser Form-Kriterien für einen bestimmten Schraubenkopf anzuwenden.
+Beispielsweise hat der Kopf einer Linsensenkkopfschraube (Abbildung 12) üblicherweise eine flachkugelige Oberseite und eine kegelige Unterseite.
+Es gibt auch Fälle mit mehreren Formen nur eines Kriteriums.
+Der Schraubenkopf in Abbildung 13 hat zwei Randformen:
+Im unteren Teil ist er zylindrisch, im oberen Teil sechskantig.
+In der Oberseite des Kopfes befindet sich i. d. R. (außer bei Sechkantschrauben u. ä.) eine Aussparung für den Drehantrieb (siehe unten), was die Zahl seiner Erscheinungsformen weiter vergrößert.
+
+=== Schraubenkopfantriebe
+
+Die häufigsten Profile am Schraubenkopf zum Ansatz eines Schraubendrehers oder Schraubenschlüssels sind:
+
+== Länge
+
+Die Längenangabe bei Schrauben bezieht sich in der Regel auf den Teil der Schraube, der nach dem vollständigen Einschrauben nicht mehr zu sehen ist.
+Dies ist also die Länge des Gewindes zuzüglich des eventuell gewindelosen Teils des Schafts sowie des eventuell konischen Übergangs zum Schraubenkopf.
+Bei Schrauben mit Senkkopf wird die Länge ab der Aussenkante des Kopfes gemessen, also der Stelle des größten Durchmessers.
+
+Die benötigte Länge ergibt sich aus der vorgesehenen Einschraubtiefe im Grundmaterial bzw. der Höhe einer Standardmutter zuzüglich der Stärke der zu befestigenden Bauteile.
+Die Länge einer Schraube wird meist in Millimetern angegeben.
+
+== Material der Schrauben
+
+Schrauben werden meist aus Stahl gefertigt.
+Weitere Werkstoffe sind Titan, Aluminium, Messing, Plaste und historisch auch Holz.
+
+Stahlschrauben erhalten heute meist eine Korrosionsschutz-Beschichtung.
+In besonders korrosiven Umgebungen werden Messing-, Edelstahl- oder bei geringer Belastung auch Kunststoffschrauben eingesetzt.
+
+Infrage kommen grundsätzlich folgende Materialien:
+
+=== Korrosionsschutz
+
+Korrosionsarme bzw. rostfreie Schrauben bestehen aus nichtrostendem Stahl, Nickellegierungen, Kupferlegierungen (Messing), Kunststoffen, gelegentlich Aluminium, Titan oder neuerdings auch aus kohlenstofffaserverstärktem Kunststoff ("Carbon").
+Einfache Stahlschrauben dagegen benötigen eine Schutzbeschichtung, wenn sie nicht unter korrosionsfreien oder -armen Bedingungen verwendet werden.
+Mögliche Verfahren der Oberflächenbehandlung sind:
+
+Untersuchungen haben ergeben, dass Korrosionsschutzschichten, die sechswertiges Chrom enthalten - z. B. chromatierte und galvanisch verzinkte Schichten - krebserregend sein können.
+Der EU-Altauto-Verordnung 2000/53/EG entsprechend müssen daher alle Neufahrzeuge ab dem 1. Juli 2007 frei von sechswertigem Chrom (Cr-VI) sein.
+Daher werden immer mehr Beschichtungen zum Beispiel auf den Zinklamellenüberzug umgestellt.
+Neben dem Automobilsektor ist davon z. B. auch die Elektronikindustrie betroffen, die ebenfalls auf Cr-VI-freie Verfahren umstellen muss (siehe RoHS-Richtlinie).
+
+Die Korrosionsbeständigkeit von Beschichtungen wird häufig mit dem Salzsprühtest geprüft.
+Bei diesem Kurzzeittest werden beschichtete Teile (z. B. Schrauben) in einer Prüfkammer über eine definierte Stundenzahl einem ständigen Salznebel ausgesetzt.
+Bei der Bewertung der Ergebnisse von Salzsprühprüfungen ist zu berücksichtigen, dass diese selten mit dem Verhalten in natürlichen Umgebungen übereinstimmen.
+
+Weitere Oberflächenbehandlungen, die neben dem Korrosionsschutz auch zur Dekoration oder der besseren elektrischen Kontaktgabe dienen, sind das Versilbern, das Verkupfern, die Messingbeschichtung, das Verchromen, das Vernickeln und das Vergolden.
+
+== Herstellung
+
+Für die Produktion von Kopfschrauben gibt es heute hauptsächlich zwei Herstellverfahren:
+
+Kleinere Stückzahlen von Schrauben und Muttern werden auf Drehmaschinen meist aus Stangenmaterial gedreht.
+Das Gewinde kann dabei geschnitten oder gerollt werden.
+Bei kleinen Durchmessern werden die Innengewinde mit Hilfe von Gewindebohrern und die Außengewinde mit Schneideisen hergestellt.
+Diese beiden Werkzeuge mit mehreren gleichzeitig schneidenden Schneiden werden auch für die Herstellung kleinerer Gewindedurchmesser von Hand gebraucht.
+Für große Durchmesser oder Spezialgewinde wird ein Gewindedrehmeißel verwendet.
+
+== Montage (Anziehverfahren)
+
+Es gibt Schrauben mit weniger als einem halben Millimeter Durchmesser für Uhrwerke und auch mannshohe, schenkeldicke Verbindungselemente an Großmaschinen und Bauwerken.
+
+Schraubverbindungen sind lösbar, sie begünstigen die Wiederverwertung von Geräten, Maschinen und Anlagen.
+Sie erleichtern Reparaturen, Umbauten und das Demontieren ausgedienter Geräte zum sortenreinen Trennen der Komponenten, um sie gegebenenfalls wiederzuverwenden.
+Dem steht allerdings entgegen, dass Gerätehersteller mehr und mehr die Lösbarkeit und damit zum Beispiel Reparaturen absichtlich erschweren, um diese Werkstätten vorzubehalten.
+Es werden zum Beispiel ausgefallene Schraubenköpfe gewählt, für die Anschluss-Werkzeug vom Hersteller der Baugruppe nur an Vertragswerkstätten geliefert wird.
+
+Die Schraubenköpfe sind mit einer Anschluss-Geometrie (Schlitz, Sechskant u. a.) zum Kontakt mit einem Montagewerkzeug (Schraubendreher, Schraubenschlüssel) versehen, mit dem das Anzugs-Drehmoment übertragen wird.
+Um gezielt einen bestimmten Wert des Anzugs-Drehmoments zu erzeugen, wird ein Drehmomentschlüssel verwendet.
+Der optimale Wert ist besonders bei Dehnschraubenverbindungen erforderlich.
+Auch die Schrauben zur Befestigung einer Autofelge aus Stahl werden mittels Drehmomentschlüssel mit einem bestimmten Drehmoment angezogen.
+Die Radschrauben sind keine Dehnschrauben, aber die Umgebungen der Felgenlöcher geben elastisch nach, so dass selbstsichernde Schraubenverbindungen gleich wie mit Dehnschrauben entstehen.
+Eine zusätzliche Sicherung gegen Lösen besteht durch die Reibungskräfte zwischen Schraube und Felge, die infolge der Kegelform der Kontaktfläche vergrößert sind.
+
+In der Industrie werden verschiedene Montageverfahren angewendet:
+
+Die Schraube sollte so angezogen werden, dass die zu übertragende Betriebskraft (z. B. die Antriebs- oder Bremsmomente einer Radverschraubung) über die Reibung in der Verbindung sicher übertragen werden können.
+Ist dies nicht der Fall und die Schraube wird Scherkräften ausgesetzt, besteht die Gefahr des selbsttätigen Losdrehens oder des Schraubenbruchs.
+
+Die VDI-Richtlinie VDI 2230-1 "Systematische Berechnung hochbeanspruchter Schraubenverbindungen - Zylindrische Einschraubenverbindungen" behandelt die Berechnung und Auslegung von Schraubenverbindungen.
+
+Metallische Gewindeverbindungen ohne vorgegebenes Anzugsmoment sollten in korrosiver Umgebung durch Fett, Montagepaste, Schraubensicherung- oder Dichtungsmittel geschützt werden, um das spätere Lösen der Verbindung zu erleichtern.
+Ist das Anzugsmoment vom Hersteller vorgegeben, so kann das durch die Schmierung erleichterte Eindrehen der Schraube zur Überdehnung des Gewindes führen.
+Hier sollte der Vorgabe des Herstellers gefolgt oder gegebenenfalls eine spezielle, nichtschmierende Montagepaste verwendet werden.
+
+Der Auftrag von Seife, zur Not auch Wachs, auf das Gewinde von Holzschrauben erleichtert das Eindrehen und kann das Abscheren der Schraube bei Überlastung verhindern; Öl oder Fett ist bei Holz ungeeignet, da diese bei eventuell nachfolgender Oberflächenbehandlung die Haftung dieser verhindern können.
+Verschraubungen an Rohren oder Behältern für reinen Sauerstoff dürfen nicht gefettet werden, da der Sauerstoff zur Selbstentzündung des Fettes führen kann.
+
+Idealerweise bestehen die Hauptelemente einer Schraubverbindung aus Materialien mit gleichem thermischen Ausdehnungskoeffizienten, um eine mechanische Wechselbelastung infolge von Temperaturschwankungen zu vermeiden.
+
+Für leichtgewichtige Verbindungen mit geringem Raumbedarf werden anstelle von Schrauben auch Niete verwendet.
+
+Bei sehr großen Schrauben ist das Anziehen mittels Drehmomentschlüssel kaum mehr möglich, so dass bspw. thermische Verfahren zum Einsatz kommen.
+Dabei wird die Schraube im erwärmten Zustand in das Durchgangsloch der zu verbindenden Bauteile eingeführt und die Mutter bis zur Anlage aufgeschraubt.
+Beim Erkalten zieht sich die Schraube zusammen und erzeugt so die gewünschte Vorspannkraft.
+
+=== Von Hand betätigbare Schrauben
+
+=== Schraubensicherungen
+
+== Holzschrauben
+
+Moderne Verfahren ermöglichen die Fertigung von Gewindegängen, die einen deutlich größeren Durchmesser haben als der Schaft.
+Hierdurch reduziert sich das notwendige Eindrehmoment.
+Zur weiteren Reduktion erhalten die Schrauben mancher Hersteller am Übergang zwischen Gewinde und Schaft kurze Fräsrippen, welche die Reibung am Schaft durch Zerfaserung des Holzes herabsetzen.
+Zu beachten ist, dass als Durchmesser der Schrauben immer der äußerste Gewindedurchmesser angegeben wird.
+Der Schaft kann also deutlich schlanker ausfallen als der angegebene Schraubendurchmesser.
+Dies ist von Nachteil, wenn der Schaft auf Biegung oder Scherung beansprucht wird.
+Letzteres ist insbesondere der Fall, wenn Stahlbauteile auf Holzelementen befestigt werden, die durch Zugkräfte parallel zur Holzoberfläche belastet werden.
+Für diesen Belastungsfall werden Schrauben angeboten, deren Schaft unterhalb des Kopfes verstärkt ist.
+
+Die Gefahr der Spaltung des Holzes ist insbesondere beim Eindrehen von Schrauben nahe dem Rand von Holzbauteilen gegeben.
+Reduziert wird die Neigung zum Spalten durch:
+
+Moderne Holzschrauben können in Nadelhölzer in der Regel ohne Vorbohren eingedreht werden.
+Nahe dem Rand sowie generell bei Harthölzern sollte zunächst eine Bohrung vorgenommen werden, um das Abscheren des Schraubenkopfes durch den erhöhten Widerstand beim Eindrehen zu vermeiden.
+Bei der Verwendung moderner Holzbauschrauben wird das Vorbohren mit folgenden Durchmessern empfohlen:
+
+Traditionell ergab sich beim Einwalzen des Gewindes bei Holzschrauben ein Gewindedurchmesser, der ungefähr dem Durchmesser des verbliebenen Schafts entsprach.
+Zur Reduzierung der zum Einschrauben erforderlichen Kraft kann es bei längeren Schrauben erforderlich sein, zusätzlich oder anstelle der Bohrung zur Aufnahme des Gewindes eine Bohrung in der Länge und mit dem Durchmesser des Schafts vorzunehmen.
+
+=== Spezielle Bauformen
+
+== Metallschrauben
+
+=== Kennzeichnung, Festigkeitsklassen
+
+Die Kennzeichnung der Sechskant- und Innensechskantschrauben ab M5 erfolgt auf dem Schraubenkopf, auf dem das Herstellerkurzzeichen und die Festigkeitsklasse angegeben sind, bei Schrauben aus nichtrostendem Stahl zusätzlich A2 oder A4.
+
+Bei der vollständigen Bezeichnung werden alle relevanten Daten angegeben, ein Beispiel ist:
+
+Aus der Festigkeitsklasse bei Stahlschrauben lassen sich die Zugfestigkeit Rm und die Streckgrenze Re errechnen.
+Als Beispiel die Festigkeitsklasse 8.8:
+
+Gemäß der Normung für mechanische und physikalische Eigenschaften (EN ISO 898-1) sind die Festigkeitsklassen 4.6, 4.8, 5.6, 5.8, 6.8, 8.8, 10.9 und 12.9 gebräuchlich.
+
+Bei Schraubentypen mit - aufgrund der Geometrie - reduzierter Belastbarkeit (Schwachkopfschrauben) wird seit 2009 der Festigkeitsklasse ein "0" vorangestellt, also z. B. "08.8" oder "010.9".
+Betroffen sind u. a. Zylinderschrauben mit Innensechskant und niedrigem Kopf, Flachkopfschrauben und Senkschrauben.
+
+In der Industrie kommt sehr häufig die Klasse 8.8 zur Verwendung.
+Die Klassen 4.6, 4.8, 5.6 und 5.8 werden hauptsächlich bei Massenwaren und gering beanspruchten Verbindungen eingesetzt.
+Ausnahme sind Flanschverbindungen im Rohrleitungsbau, hier werden die Klassen 4.6 und 5.6 auf Grund ihrer hohen Bruchdehnung häufig vorgeschrieben (z. B. Druckgeräterichtlinie 97/23/EU oder AD 2000-Merkblatt W7:2008-05).
+10.9 und 12.9 werden vor allem für berechnete und definiert vorgespannte Schraubverbindungen verwendet.
+
+In Baumärkten hingegen wird vielfach die Festigkeitsklasse 4.6 angeboten.
+
+Für Schrauben aus nichtrostendem Stahl wird die Qualität und Festigkeitsklasse auf dem Schraubenkopf angegeben.
+Diese sind z. B. A (für austenitischen Stahl), 1 bis 5 (Sorte) sowie 50 (weich), 70 (kaltverfestigt) oder 80 (hochfest), zum Beispiel A2-70 oder A5-80. Weitere mechanische Eigenschaften von nichtrostenden Schrauben sind in ISO 3506-1 beschrieben.
+
+Vorwiegend werden die Qualitäten A2 allgemein und A4 für erhöhte Korrosionsbeanspruchungen verwendet.
+Diese Qualitäten werden umgangssprachlich auch heute noch mit den von Krupp geprägten Werksbezeichnungen "V2A" und "V4A" benannt.
+In besonderen Fällen kommen auch Schrauben aus den Werkstoffen mit den Werkstoffnummern 1.4439 oder 1.4462 zum Einsatz, beispielsweise im Offshore-Bereich.
+"Nichtrostende" (eigentlich: korrosionsarme) Schrauben haben einen silbrig-matten Glanz und sind oft (sofern austenitisch) nicht ferromagnetisch.
+
+=== Mechanik einer Schraubverbindung
+
+Die Flanken des Schraubengewindes bilden mit dem Mutterngewinde eine senkrecht zu den Flanken wirkende formschlüssige Verbindung.
+In Richtung der Flanken sind beide Teile gegeneinander beweglich bzw. um ihre gemeinsame Mittenachse drehbar.
+Werden die Teile gegeneinander "angezogen", so entsteht eine in Normalenrichtung zwischen den einander zugekehrten Flankenflächen wirkende Kraft (N, siehe rechts stehende Abbildung) und infolge der Reibung zwischen beiden ein Kraftschluss gegen das Drehen.
+Die Normalkraft N wird durch die Längskraft L und die Umfangskraft U erzeugt.
+Im Gleichgewichtszustand nach dem Anziehen wird die Rolle der notwendigen Umfangskraft U von der (Ruhe-)Reibung (Kraft R) zwischen den mit der Normalkraft N aufeinander gepressten Flanken übernommen.
+Die Komponente Ru von R ist bei üblicher Gewindesteigung (in nebenstehender Abbildung übertrieben steil dargestellt) immer größer als U, und der bestehende Kraftschluss gegen Losdrehen ist ausreichend.
+Es besteht Selbsthemmung.
+
+Die Längskraft L berechnet sich zu:
+
+mit
+
+Das Anzugsdrehmoment M {\displaystyle M} , welches oft bei Schraubverbindungen vorgeschrieben ist, beträgt
+
+Die Längskraft L bleibt infolge einer kleinen elastischen Verformung des Schraubenschaftes und der beteiligten Werkstücke als elastische Kraft (Vorspannkraft) in der Schraubenverbindung gespeichert.
+Der Schraubenschaft wird dabei gedehnt und die Werkstücke gestaucht.
+Die Schraubenverbindung wirkt wie eine gespannte harte Feder, die den Kraftschluss erzeugt.
+Dieser kann durch Kriechen (langsame plastische Verformung der Materialien, vor allem bei Kunststoff) verloren gehen.
+Durch Vibrationen kann es auch zum selbsttätigen Lösen kommen, weshalb in solchen Fällen meistens eine Schraubensicherung (formschlüssig gegen Drehen) nötig ist.
+
+Eine ausreichend dauerhaft sichere Verbindung nach dem Kraftschluss-Prinzip ist nur die besonders weiche Dehnschrauben-Verbindung (mit Metallschraube), die zum Beispiel zwischen Zylinderkopf und Motorblock in Verbrennungsmotoren angewendet wird und ohne zusätzliche (formschlüssige) Schraubensicherung auskommt.
+Der Schaft einer solchen Schraube ist extra lang, um als weiche Feder zu wirken und Kriechen unwirksam zu machen.
+
+Die in den Schraubenschaft über die Ringfläche unter dem Kopf eingeleitete Kraft und die über das Gewinde eingeleitete Gegenkraft erzeugen in ihm Zugspannungen.
+Wegen des Reibungswiderstandes gegen das Verdrehen im Gewinde werden im Schaft auch Torsionspannungen erzeugt.
+Scherbeanspruchung kann entstehen, wenn sich zwei zusammengeschraubte Teile quer bewegen, Biegebeanspruchung, wenn die Fläche unter dem Kopf (oder/und der Mutter) nicht rechtwinklig zum Schaft ist.
+Das Gewinde stellt eine Kerbung der Oberfläche dar, wodurch die Belastbarkeit des Schafts auf Zug, Scherung und Torsion gegenüber einem glatten Bolzen herabgesetzt ist.
+Im Maschinenbau gibt die VDI-Richtlinie 2230 aus dem Jahre 2003 grundlegende Hinweise zur Dimensionierung.
+
+Die Kraftübertragung auf den Gewindeflanken ist nicht gleichmäßig über die ganze in Kontakt befindliche Gewindelänge verteilt:Schraube und Mutter werden in normalen Verschraubungen entgegengesetzt elastisch verformt.
+Die Mutter wird gestaucht, der Schraubenschaft gedehnt.
+Dadurch nehmen beide Teile bei niedrigen Lasten unterschiedliche Gewindesteigung an, wodurch die ersten Gänge den größten Teil der Kraft übertragen (der erste Gang etwa ein Drittel).
+Mit zunehmender Belastung beginnen die hoch belasteten Gewindegänge zu plastifizieren und die niedrig belasteten Gewindegänge übernehmen einen höheren Anteil der auf die Schraube wirkenden Kraft.
+Bei niedrigen Einschraubtiefen erfolgt vor dem Gewindeversagen eine gleichmäßige Lastverteilung über die Gewindegänge.
+Bei hohen Einschraubtiefen versagt die Schraube vor dem Gewinde, noch bevor sich eine gleichmäßige Lastverteilung über die Gewindegänge eingestellt hat.
+Man verwendet bei besonders belasteten Schraubverbindungen besonders kerbzähes Material und erreicht durch leicht geringere Steigung der Schraube im Einschraubbereich dort eine gleichmäßigere Lastverteilung im elastischen Bereich.
+
+== Sonderbauformen
+
+=== Sicherheitsschrauben
+
+Um unerwünschten Zugriff zu erschweren, werden Schrauben mit außergewöhnlichen Antrieben am Kopf verwendet:
+
+Da unabhängige Hersteller entsprechende Schraubendreher nach einiger Zeit auf den Markt bringen, besteht immer wieder Anlass für die Einführung einer neuen außergewöhnlichen Form.
+
+Schraubenköpfe mit Schlitzen, deren linke Fläche schräg ist, lassen sich nur einschrauben, jedoch nicht lösen (Beispiel: Einweg-Schlitz).
+
+=== Schrauben ohne Kopf
+
+gibt es mit den Bezeichnungen Madenschrauben, Stiftschrauben, Gewindestifte und Gewindebolzen.
+Sie können ein zweigeteiltes oder durchgehendes Gewinde besitzen.
+Madenschrauben und Gewindestifte werden beispielsweise zur Befestigung von Türgriffen eingesetzt.
+Gewindebolzen und Stiftschrauben dienen zur Verbindung des Zylinderkopfes mit dem Motorblock bei Kolbenmotoren.
+
+=== Geräteschrauben
+
+sind Schrauben zum Befestigen von Einsätzen in Elektro-Installationsdosen ("Gerätedosen"), z. B. Unterputzdosen.
+Sie ähneln gängigen Holzschrauben, haben aber oft ein etwas feineres Gewinde (etwa 7 Gewindegänge pro cm statt 5,5).
+Gängige Geräteschrauben haben einen Durchmesser von 3,2 mm und sind in Längen bis 40 mm erhältlich.
+Sie sind häufig aus relativ weichem Metall gefertigt, so dass sie einfach mit einem Seitenschneider gekürzt werden können.
+
+=== Gewindeformende Schrauben
+
+==== Gewindeprägende Schrauben
+
+Gewindeprägende Schrauben nach DIN 7500 bilden wie Gewindeformer selbsttätig ein Gewinde in einer Bohrung oder einem Sackloch aus, ohne einen Span zu produzieren.
+Sie sind meist zur Verwendung in plastisch verformbaren Materialien bis zur Brinellhärte 135 HB bzw. Zugfestigkeit von Rm = 450 N/mm^2 geeignet.
+Zum Einschrauben ist ein erhöhtes und linear ansteigendes Drehmoment notwendig.
+Schrauben zur Verwendung in harten Werkstoffen werden meist an der Oberfläche vergütet und sind dadurch teurer als metrische Normschrauben.
+Insgesamt können Kosten eingespart werden, da das gesonderte Schneiden des Gewindes entfällt und auch eine Sicherung gegen Vibration nicht notwendig ist.
+In vielen Materialien ist ein geformtes Gewinde haltbarer als ein geschnittenes, da es sich der Schraube anpasst und gegebenenfalls eine Kaltverfestigung eintritt.
+Um das Ansetzen der Schraube zu erleichtern, haben selbstformende Schrauben oft eine konische Spitze, manche besitzen ein leicht dreikantiges (trilobulares) Profil, zur Reduzierung der Reibung.
+
+==== Gewindeschneidende Schrauben
+
+besitzen Nuten ähnlich einem Gewindebohrer und können in weichen Materialien wie Aluminium eingesetzt werden.
+
+==== Blechschrauben
+
+und Schrauben für Kunststoff formen ebenfalls ein Gewinde .
+Schrauben für weiche Kunststoffe weisen eine ähnlich grobe Gewindesteigung auf wie Holzschrauben.
+Gewinde für Blech sowie für harte Kunststoffe haben in der Regel eine Steigung, die zwischen derjenigen von Holz- und der von Metallschrauben liegt.
+Im Gegensatz zu Holzschrauben besitzen sie jedoch oft keine ausgeprägte Spitze und werden selten mit Senkkopf gefertigt.
+
+==== Bohrschrauben
+
+Bohrschrauben sind an ihrer Spitze mit zwei Bohrschneiden ausgestattet, die geeignet sind, in Werkstücke ein Loch zu schneiden, in welchem sich das nachfolgende Gewinde selbsttätig verankert.
+Ebenso wie Blechschrauben besitzen Bohrschrauben ein grobes Gewinde, denn sie eignen sich überwiegend zur Verwendung in dünnen oder weichen Materialien.
+In dickerem Material ist eine ausreichende Spanabfuhr beim Bohren nicht möglich.
+In zähen Materialien können Gewinde nur mit spezialisierten Werkzeugen geschnitten werden.
+Bohrschrauben beschleunigen die Arbeit, da das vorherige Bohren eines Lochs entfällt.
+Beim Verbinden von mehreren Werkstücken aus zähem Material ist darauf zu achten, dass die Länge des Bohrkopfes mindestens der Gesamtdicke der zu verbindenden Materialien entspricht.
+Sonst greifen die Gewindegänge bereits, bevor die Bohrung fertiggestellt ist, wodurch die Werkstücke auseinandergetrieben würden.
+Bei erhöhtem Korrosionsrisiko sind Schrauben aus rostfreiem Stahl zu verwenden.
+Rostfreier Stahl lässt sich weniger gut härten.
+Daher eignen sich diese Bohrschrauben nur zur Verwendung mit Aluminiumwerkstoffen (wobei jedoch zu beachten ist, dass dadurch galvanische Korrosion begünstigt wird).
+
+== Schraubennormen (Auswahl)
+
+Metallschrauben haben meist ein metrisches ISO-Gewinde; im englischsprachigen Raum ist auch das Whitworth-Gewinde noch verbreitet.
+
+Für bestimmte Schraubenformen und -Kopfformen gibt es detaillierte Normen:
+
+Es gibt noch zahlreiche Spezialschrauben für spezielle Einsatzzwecke, bei denen keine Normschrauben verwendet werden können.
+Sie unterscheiden sich meist durch ihre Kopf- bzw. Gewindeform (z. B. Blattschraube oder Bohrschraube mit Blechschraubengewinde DIN 7504).
+
+Je nach der Kopfform braucht man den entsprechenden Schraubenschlüssel oder Schraubendreher zum Drehen der Schraube.
+Bei vielen Verbindungen soll oder muss ein Drehmomentschlüssel verwendet werden.
+
+Damit sich eine Mutter beim Anziehen nicht ins Material gräbt, sollte sie immer mit Unterlegscheibe verwendet werden.
+Bei normalfesten Schrauben der Festigkeitsklasse 4.6 (Rohschrauben nach DIN 7990) ist eine Unterlegscheibe am Schraubenkopf nicht nötig.
+Bei hochfesten Schrauben nach DIN 6914 ist eine Unterlegscheibe auch am Schraubenkopf erforderlich, wenn diese entweder als Passschraube eingesetzt oder planmäßig vorgespannt werden.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

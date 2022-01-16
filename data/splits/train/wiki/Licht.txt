@@ -1,0 +1,313 @@
+Licht ist eine Form der elektromagnetischen Strahlung.
+Im engeren Sinne sind vom gesamten elektromagnetischen Spektrum nur die Anteile gemeint, die für das menschliche Auge sichtbar sind.
+Im weiteren Sinne werden auch elektromagnetische Wellen kürzerer Wellenlänge (Ultraviolett) und größerer Wellenlänge (Infrarot) dazu gezählt.
+
+Die physikalischen Eigenschaften des Lichts werden durch verschiedene Modelle beschrieben:
+In der Strahlenoptik wird die geradlinige Ausbreitung des Lichts durch "Lichtstrahlen" veranschaulicht; in der Wellenoptik wird die Wellennatur des Lichts betont, wodurch auch Beugungs- und Interferenzerscheinungen erklärt werden können.
+In der Quantenphysik schließlich wird das Licht als ein Strom von Quantenobjekten, den Photonen (veranschaulichend auch "Lichtteilchen" genannt), beschrieben.
+Eine vollständige Beschreibung des Lichts bietet die Quantenelektrodynamik.
+Im Vakuum breitet sich Licht mit der konstanten Lichtgeschwindigkeit von 299.792.458 m/s aus.
+Trifft Licht auf Materie, so kann es gestreut, reflektiert, gebrochen und verlangsamt oder absorbiert werden.
+
+Licht ist der für das menschliche Auge adäquate Sinnesreiz.
+Dabei wird die Intensität des Lichts als Helligkeit wahrgenommen, die spektrale Zusammensetzung als Farbe.
+
+== Geschichte
+
+Bis weit in die Neuzeit hinein war weitgehend unklar, was Licht tatsächlich ist.
+Man glaubte teilweise, dass die Helligkeit den Raum ohne Zeitverzögerung ausfüllt.
+Pythagoras war der Auffassung, dass "heiße Sehstrahlen" von den Augen ausgehen und von anderen Objekten zurückgedrängt werden.
+Würde dies stimmen, müsste der Mensch auch im Dunklen sehen können.
+Es gab jedoch auch schon seit der Antike Vorstellungen, nach denen das Licht von der Lichtquelle mit endlicher Geschwindigkeit ausgesendet wird.
+
+Galileo Galilei versuchte als einer der ersten, die Ausbreitungsgeschwindigkeit des Lichts ernsthaft zu messen, jedoch ohne Erfolg.
+Dafür waren die ihm zur Verfügung stehenden Mittel viel zu grob.
+Dies gelang erst Ole Romer anhand von Beobachtungsdaten der Jupitermonde 1675.
+Zwar betrug die Abweichung seines Messwerts vom tatsächlichen Wert (ca. 2,3 * 108 m/s) rund 30 %.
+Die eigentliche Leistung Romers bestand jedoch darin, nachzuweisen, dass sich das Licht mit endlicher Geschwindigkeit ausbreitet.
+Romers Messwert wurde im Laufe der folgenden 200 Jahre durch immer raffiniertere Verfahren (vor allem durch Hippolyte Fizeau und Leon Foucault) mehr und mehr präzisiert.
+Die Natur des Lichts blieb jedoch weiter ungeklärt.
+Im 17. Jahrhundert versuchte Isaac Newton mit seiner Korpuskeltheorie, die Ausbreitung des Lichts durch die Bewegung von kleinen Teilchen zu erklären.
+Damit konnte man zwar die Reflexion verstehen, nicht jedoch manche andere optische Phänomene, wie die Beugung, bei der es sich eindeutig um ein Wellenphänomen handelt.
+Zur gleichen Zeit begründeten Christiaan Huygens und andere die Wellentheorie des Lichts, die sich aber erst Anfang des 19. Jahrhunderts nach den Doppelspaltexperimenten von Thomas Young zunehmend durchsetzte.
+
+Michael Faraday erbrachte 1846 als erster den Nachweis, dass Licht und Magnetismus zwei miteinander verbundene physikalische Phänomene sind.
+Er veröffentlichte den von ihm gefundenen magnetooptischen Effekt, der heute als Faraday-Effekt bezeichnet wird, unter dem Titel Über die Magnetisierung des Lichts und die Belichtung der Magnetkraftlinien.
+
+James Clerk Maxwell formulierte 1864 die noch heute gültigen Grundgleichungen der Elektrodynamik und erkannte, dass dadurch die Existenz freier elektromagnetischer Wellen vorhergesagt wurde.
+Da deren vorhergesagte Ausbreitungsgeschwindigkeit mit der bekannten Lichtgeschwindigkeit übereinstimmte, schloss er, dass das Licht wohl eine elektromagnetische Welle sei.
+Er vermutete (wie damals nahezu alle Physiker), dass diese Welle nicht im leeren Raum existieren könne, sondern ein Ausbreitungsmedium brauche.
+Dieses Medium, das das gesamte Weltall ausfüllen müsste, wurde als Äther bezeichnet.
+
+Mit der darauf aufbauenden elektromagnetischen Lichttheorie schienen im ausgehenden 19. Jahrhundert beinahe alle Fragen zum Licht geklärt.
+Allerdings ließ sich einerseits der postulierte Äther nicht nachweisen (siehe Michelson-Morley-Experiment), was letztendlich das Tor zur speziellen Relativitätstheorie aufstieß.
+Andererseits schien unter anderem der Photoeffekt der Wellennatur des Lichts zu widersprechen.
+So entstand eine radikal neue Sichtweise des Lichts, die durch die Quantenhypothese von Max Planck und Albert Einstein begründet wurde.
+Kernpunkt dieser Hypothese ist der Welle-Teilchen-Dualismus, der das Licht nun nicht mehr ausschließlich als Welle oder ausschließlich als Teilchen beschreibt, sondern als Quantenobjekt.
+Als solches vereint es Eigenschaften von Welle und von Teilchen, ohne das eine oder das andere zu sein und entzieht sich somit unserer konkreten Anschauung.
+Daraus entstand Anfang des 20. Jahrhunderts die Quantenphysik und später die Quantenelektrodynamik, die bis heute unser Verständnis von der Natur des Lichts darstellt.
+
+== Wissenschaft
+
+=== Physik
+
+Im Folgenden werden die wichtigsten Modelle zur Beschreibung des Lichts vorgestellt.
+Wie alle Modelle in der Physik sind auch die hier aufgeführten in ihrem Geltungsbereich beschränkt.
+Eine nach unserem heutigen Wissen vollständige Beschreibung des Phänomens "Licht" kann nur die Quantenelektrodynamik liefern.
+
+==== Licht als elektromagnetische Welle
+
+In der klassischen Elektrodynamik wird Licht als eine hochfrequente elektromagnetische Welle aufgefasst.
+Im engeren Sinne ist "Licht" nur der für das menschliche Auge sichtbare Teil des elektromagnetischen Spektrums, also Wellenlängen zwischen ca. 380 und 780 nm.
+Dies entspricht Frequenzen von ca. 385 bis 790 THz.
+Es ist eine Transversalwelle, wobei die Amplitude durch den Vektor des elektrischen Feldes oder des Magnetfeldes gegeben ist.
+Die Ausbreitungsrichtung verläuft senkrecht dazu.
+Die Richtung des E = {\displaystyle {\vec {E}}} -Feld-Vektors oder B = {\displaystyle {\vec {B}}} -Feld-Vektors wird Polarisationsrichtung genannt.
+Bei unpolarisiertem Licht setzt sich das Strahlungsfeld aus Wellen aller Polarisationsrichtungen zusammen.
+Wie alle elektromagnetischen Wellen breitet sich auch sichtbares Licht im Vakuum mit der Lichtgeschwindigkeit von c = 299 792 458 m s {\displaystyle c\,=\,299\,792\,458\ {\frac {\text{m}}{\text{s}}}} aus .
+
+Die Wellengleichung dieser elektromagnetischen Welle kann aus den Maxwell-Gleichungen hergeleitet werden.
+Daraus ergibt sich ein einfacher Zusammenhang zwischen der Lichtgeschwindigkeit, der magnetischen Feldkonstante  0 {\displaystyle \mu _{0} } und der elektrischen Feldkonstante  0 {\displaystyle \varepsilon _{0}} :
+
+im Vakuum,
+
+im Medium.
+
+Offensichtlich hängt die Lichtgeschwindigkeit - genauer: die Phasengeschwindigkeit des Lichts - in Medien von deren Materialeigenschaften ab.
+Diese können im Brechungsindex n {\displaystyle n} zusammengefasst werden.
+Im Allgemeinen ist er frequenzabhängig, was als Dispersion bezeichnet wird.
+Darauf beruht unter anderem die Fähigkeit eines Prismas, das Licht in seine spektralen Anteile zu zerlegen.
+Kurzwelliges blaues Licht (< 450 nm) wird bei normaler Dispersion stärker gebrochen als langwelliges rotes Licht (> 600 nm).
+
+==== Strahlenoptik
+
+Die Strahlenoptik (auch geometrische Optik) macht sich die Näherung zunutze, dass die Ausbreitung des Lichts durch gerade "Strahlen" veranschaulicht werden kann.
+Diese Näherung ist vor allem dann gerechtfertigt, wenn die Abmessungen der Versuchsanordnung groß gegenüber der Wellenlänge des Lichts sind.
+Dann können sämtliche Beugungsphänomene vernachlässigt werden.
+Das Bindeglied zwischen Wellenoptik und Strahlenoptik ist der Wellenvektor, dessen Richtung mit der Richtung des Lichtstrahls übereinstimmt.
+Die Strahlenoptik ist besonders gut geeignet, Phänomene wie Licht und Schatten, Reflexion oder Brechung zu beschreiben.
+Daher kann mit ihr die Funktion vieler optischer Geräte (Lochkamera, Lupe, Teleskop, Mikroskop) erklärt werden.
+Insbesondere sind die Abbildungsgesetze auch die Grundlage für das Verständnis des Brechapparats im menschlichen Auge.
+
+Prinzipien von Strahlen
+
+Von spiegelnden Oberflächen (blankes Metall, Wasseroberfläche) wird Licht nach dem Reflexionsgesetz reflektiert.
+Der einfallende und der ausfallende Strahl sowie das Lot auf der reflektierenden Fläche liegen in einer Ebene.
+Einfallswinkel und Ausfallswinkel sind einander gleich.
+Das Verhältnis der reflektierten Lichtintensität zur einfallenden Lichtintensität wird als Reflexionsgrad bezeichnet und ist material- und wellenlängenabhängig.
+Der Reflexionsgrad gibt an, wie viel Prozent des auf eine Fläche fallenden Lichtstroms reflektiert werden.
+
+Licht wird an der Grenzfläche zwischen zwei Medien unterschiedlicher optischer Dichte gebrochen, d. h., ein Strahl ändert an dieser Grenzfläche seine Richtung.
+(Der Vollständigkeit halber sei gesagt, dass an einer solchen Grenzfläche stets auch die Reflexion mehr oder weniger stark auftritt.) Das Brechungsgesetz von Snellius besagt:
+
+Der einfallende und der gebrochene Strahl sowie das Lot auf der Grenzfläche liegen in einer Ebene.
+Dabei ist der Winkel zwischen Lot und Lichtstrahl in dem Medium kleiner, das den höheren Brechungsindex hat.
+
+Die genauen Winkel  i {\displaystyle \delta _{i}} können durch die Brechungsindizes n i {\displaystyle n_{i } } der beteiligten Medien berechnet werden:
+
+Wenn der einfallende Strahl aus dem optisch dichteren Medium unter einem flachen Winkel auf die Grenzfläche trifft, gibt es keinen reellen Winkel für den gebrochenen Strahl, der diese Bedingung erfüllt.
+In diesem Fall tritt statt der Brechung eine Totalreflexion auf.
+
+==== Wellenoptik
+
+Der Wellenoptik liegt das Prinzip von Huygens und Fresnel zugrunde.
+
+Jeder Punkt einer Wellenfront ist der Ausgangspunkt einer Elementarwelle.
+Eine Wellenfront ergibt sich als Überlagerung dieser Elementarwellen.
+
+Mit Elementarwelle ist in diesem Zusammenhang eine Kugelwelle gemeint, die von einem bestimmten Punkt ausgeht.
+Wellenfronten sind die Flächen gleicher Phase.
+Der Abstand zwischen zwei aufeinander folgenden Wellenfronten ist somit die Wellenlänge.
+Die Wellenfronten einer ebenen Welle sind also Ebenen, die Wellenfronten von Elementarwellen sind konzentrische Kugelflächen.
+Die Ausbreitungsrichtung (also die Richtung des Wellenvektors) bildet stets eine Normale zur Wellenfront.
+Mit der Wellenoptik lassen sich alle Phänomene der Beugung und Interferenz verstehen.
+Sie eignet sich aber auch, das Reflexions- und das Brechungsgesetz herzuleiten.
+Die Wellenoptik widerspricht also nicht der Strahlenoptik, sondern erweitert und vertieft diese.
+
+Historisch nimmt die Wellenoptik von Huygens und Fresnel schon eine wesentliche Erkenntnis der Elektrodynamik vorweg:
+Lichtwellen sind elektromagnetische Wellen.
+
+==== Photonen
+
+In der Quantenphysik wird Licht nicht mehr als klassische Welle, sondern als Quantenobjekt aufgefasst.
+Demnach setzt sich das Licht aus einzelnen diskreten Energiequanten zusammen, den sogenannten Photonen.
+Ein Photon ist ein Elementarteilchen, genauer ein elementares Boson mit einer Masse von 0, das sich stets mit der Lichtgeschwindigkeit c {\displaystyle c} bewegt.
+
+Es trägt eine Energie von
+
+Dabei ist v {\displaystyle \nu } die Frequenz des Lichts und h {\displaystyle h } das Plancksche Wirkungsquantum mit h = 6,626 070 15 * 10 - 34 Js {\displaystyle h=6{,}626\,070\,15\cdot 10^{-34}\,{\text{Js }}} .
+
+Das Photon hat einen Impuls von
+
+wobei  {\displaystyle \lambda } die Wellenlänge des Lichts ist.
+
+Ein Photon wird entweder als Ganzes absorbiert und emittiert oder gar nicht.
+Es ist also "zählbar" wie ein Teilchen.
+Trotzdem bleibt alles, was hier bisher über die Welleneigenschaften des Lichts gesagt wurde, gültig.
+Dieses merkwürdige Verhalten der Photonen, das jedoch auch alle anderen Quantenobjekte zeigen, wurde mit dem Schlagwort "Welle-Teilchen-Dualismus" bezeichnet:
+Quantenobjekte sind weder wie klassische Teilchen noch wie klassische Wellen zu verstehen.
+Je nach Betrachtungsweise zeigen sie Eigenschaften der einen oder der anderen.
+
+In der heute gängigsten Interpretation der Quantenmechanik (Kopenhagener Deutung) kann man den genauen Ort eines Photons nicht a priori vorhersagen.
+Man kann nur Aussagen über die Wahrscheinlichkeit machen, mit der ein Photon an einer bestimmten Stelle auftreffen wird.
+Diese Wahrscheinlichkeitsdichte ist durch das Betragsquadrat der Amplitude der Lichtwelle gegeben.
+
+Historisch wurde die quantenmechanische Beschreibung des Lichts notwendig, weil sich einige Phänomene mit der rein klassischen Elektrodynamik nicht erklären ließen:
+
+==== Wechselwirkung mit Materie
+
+Neben den schon weiter oben in diesem Artikel beschriebenen Phänomenen
+
+gibt es noch zahlreiche weitere Wechselwirkungen zwischen Licht und Materie.
+
+==== Lichtquellen
+
+Prinzipiell unterscheidet man zwischen thermischen und nicht-thermischen Strahlern.
+Erstere beziehen die Energie für die Strahlungsemission aus der thermischen Bewegung ihrer Teilchen.
+Beispiele sind Kerzenflammen, glühende Körper (Glühdraht einer Glühlampe) und die Sonne.
+Das Spektrum eines thermischen Strahlers ist kontinuierlich, d. h., es treten alle Wellenlängen auf, wobei die spektralen Anteile nach dem Planckschen Strahlungsgesetz ausschließlich von der Temperatur abhängen, jedoch, abgesehen vom spektralen Emissionsgrad, nicht vom Material des Strahlers.
+
+Im Gegensatz dazu haben nicht-thermische Lichtquellen kein kontinuierliches Spektrum, sondern ein Linien- oder ein Bandenspektrum.
+Das bedeutet, dass nur ganz bestimmte Wellenlängen abgestrahlt werden.
+Linienspektren treten bei Gasentladungsröhren auf, Bandenspektren bei Leuchtdioden, Polarlichtern oder Leuchtkäfern.
+Die Energiequellen für die Strahlung sind hier elektrischer Strom, Teilchenstrahlung oder chemische Reaktionen.
+Linienspektren sind oft charakteristisch für bestimmte Stoffe.
+
+Eine Sonderstellung unter den Lichtquellen nimmt der Laser ein.
+Laserlicht ist nahezu monochromatisch (es besteht fast nur aus einer Wellenlänge), mehr oder weniger kohärent (es besteht eine feste Phasenbeziehung zwischen mehreren Wellenzügen) und oft polarisiert.
+
+Die Tscherenkow-Strahlung entsteht durch die Bewegung von geladenen Teilchen durch ein durchsichtiges Dielektrikum, wenn die Teilchengeschwindigkeit höher als die Lichtgeschwindigkeit im Dielektrikum ist.
+Sie ist das Analogon zum Überschallknall und kann zum Beispiel in Schwimmbadreaktoren und Abklingbecken von Kernkraftwerken beobachtet werden.
+
+==== Lichtempfänger
+
+=== Biologie
+
+==== Licht als Ökofaktor
+
+Licht stellt für Pflanzen - neben der Verfügbarkeit von Wasser - den wichtigsten Ökofaktor dar, weil es Energie für die Photosynthese liefert.
+Die von den Chlorophyll-Molekülen in den Chloroplasten absorbierte Lichtenergie wird genutzt, um Wassermoleküle zu spalten (Photolyse) und so Reduktionsmittel für die Photosynthese herzustellen.
+Diese werden in einem zweiten Schritt verwendet, um Kohlenstoffdioxid schrittweise schließlich zu Glucose zu reduzieren, woraus unter anderem Stärke aufgebaut wird.
+Der bei der Fotolyse anfallende Sauerstoff wird als Reststoff an die Atmosphäre abgegeben.
+Die Summenreaktionsgleichung der Photosynthese lautet:
+
+Den Aufbau von organischen Verbindungen aus Kohlenstoffdioxid bezeichnet man als Kohlenstoffdioxid-Assimilation.
+Organismen, die mithilfe von Licht dazu in der Lage sind, nennt man photo-autotroph.
+Neben den Gefäßpflanzen gehören auch Moose, Algen und einige Bakterien dazu, beispielsweise Cyanobakterien und Purpurbakterien.
+Alle heterotrophen Organismen sind von dieser Assimilation abhängig, weil sie ihren Energiebedarf nur aus organischen Verbindungen, die sie mit der Nahrung aufnehmen müssen, decken können.
+
+Die Konkurrenz der Pflanzen ums Licht macht sich im "Stockwerkaufbau" des Waldes und der damit verbundenen Spezialisierung von Licht- und Schattenpflanzen oder in der jahrzeitlichen Abfolge verschiedener Aspekte bemerkbar.
+In Gewässern dient nur die lichtdurchflutete oberste Schicht, die Nährschicht, der Bildung von Biomasse und Sauerstoff, hauptsächlich durch Phytoplankton.
+Weil viele Tiere und Einzeller durch das hohe Nahrungsangebot und den vergleichsweise hohen Sauerstoffgehalt des Wassers hier gute Lebensbedingungen finden, werden sie durch das Licht angelockt.
+
+Der Licht- oder Sehsinn ist für viele Tiere einer der wichtigsten Sinne.
+Er dient zur Orientierung im Raum, zur Steuerung des Tag-Nacht-Rhythmus, zum Erkennen von Gefahren, zum Aufspüren von Beute und zur Kommunikation mit Artgenossen.
+Daher haben sich im Laufe der Evolution in den verschiedensten Taxa die unterschiedlichsten Lichtsinnesorgane entwickelt.
+Diese reichen von den einfachen Augenflecken von Euglena über einfache Pigmentfelder bis zu den komplex aufgebauten Facettenaugen und Linsenaugen.
+Nur wenige Tiere sind vollkommen unempfindlich für Lichtreize.
+Dies ist höchstens dann der Fall, wenn sie in völliger Dunkelheit leben, wie Höhlentiere.
+
+Sowohl für Räuber- als auch Beutetiere ist es von Vorteil, nicht gesehen zu werden.
+Anpassungen daran sind Tarnung und Nachtaktivität.
+Erstaunlicherweise haben dahingegen viele Lebewesen selbst die Fähigkeit entwickelt zu leuchten.
+Das bekannteste Beispiel ist der Leuchtkäfer.
+Man findet dieses Phänomen der Biolumineszenz aber auch bei Tiefseefischen, Leuchtkrebsen, Pilzen (Hallimasch) oder Bakterien.
+Der Nutzen der Biolumineszenz wird vor allem mit innerartlicher Kommunikation, der Abschreckung von Fraßfeinden und dem Anlocken von Beute erklärt.
+
+==== Licht als Sinnesreiz
+
+Das Licht, das ins menschliche Auge fällt, wird durch den Brechapparat (bestehend aus Hornhaut, vorderer und hinterer Augenkammer, Linse und Glaskörper) auf die Netzhaut projiziert.
+Dort entsteht ein reelles, auf dem Kopf stehendes Bild (vergleichbar dem Vorgang in einer Fotokamera).
+Dadurch werden die in der Netzhaut befindlichen Fotorezeptoren (= Lichtsinneszellen) gereizt, die den Reiz in ein elektrisches Signal wandeln.
+Dieses Signal wird über den Sehnerv, in den die einzelnen Nervenstränge der Netzhaut münden, zum Gehirn geleitet.
+Dort werden die auf dem Kopf stehenden Bilder unserer Umwelt dann in Echtzeit "gerade gerückt."
+
+Lichtintensität wird als Helligkeit empfunden.
+Das Auge kann sich durch verschiedene Mechanismen an die - viele Zehnerpotenzen umfassenden - Intensitäten anpassen (siehe Adaption).
+Die empfundene Helligkeit hängt dabei mit der tatsächlichen Intensität über das Weber-Fechner-Gesetz zusammen.
+
+Die spektrale Zusammensetzung des Lichtreizes wird als Farbe wahrgenommen, wobei das menschliche Auge Licht mit Wellenlängen zwischen ca. 380 nm und 750 nm erfassen kann.
+Trennt man weißes Licht (durch ein Prisma) auf, so erscheinen die Wellenlängen als Farben des Regenbogens.
+
+Es ist zu beachten, dass diese Tabelle nur für monochromatisches (einfarbiges) Licht gilt.
+Mischfarben rufen unter Umständen andere Farbeindrücke hervor.
+Beispielsweise erscheint dem menschlichen Sehsinn eine Mischfarbe aus jeweils monochromatischem grünen und roten Licht gelb, während eine Mischung aus monochromatischem roten und blauen Licht als Magenta erscheint.
+Der Farbeindruck Magenta kann, im Gegensatz zu Gelb, durch kein monochromatisches Licht hervorgerufen werden.
+Die Farbe Braun, die allgemein für eine Mischfarbe gehalten wird, kann dagegen durch einfarbiges Orange erzeugt werden, wenn dessen Intensität im Vergleich zur Umgebung schwach ist.
+
+Die Netzhaut des Auges ist mit verschiedenen Sinneszellen ausgestattet:
+Die Stäbchen weisen eine breite spektrale Ansprechbarkeit auf und zeichnen sich durch eine hohe Sensitivität aus.
+Sie sind daher auf das Sehen in der Dämmerung spezialisiert, können jedoch keine Farben unterscheiden.
+Die Zapfen hingegen, die an stärkere Intensitäten angepasst sind, kommen in drei verschiedenen Typen vor, die jeweils bei einer anderen Wellenlänge ihr Reaktionsoptimum haben.
+Ihre Verschaltung ermöglicht letztlich das Farbensehen.
+
+Sowohl bei den Stäbchen als auch bei den Zapfen beruht der Sehvorgang auf der Absorption von Photonen durch das Sehpigment (im Falle der Stäbchen: Rhodopsin).
+Der Ligand Retinal macht dabei eine Isomerisierung durch, die dazu führt, dass das Rhodopsin zerfällt und die Signalkaskade der Phototransduktion in Gang setzt.
+Die dadurch verursachte Hyperpolarisation der Zellmembran der Stäbchen und Zapfen bewirkt ein elektrisches Signal, das an die nachgeschalteten Nervenzellen weitergegeben wird.
+
+Neben Zapfen und Stäbchen gibt es einen dritten Lichtrezeptor, die melanopsinhaltigen Ganglienzellen.
+Diese Rezeptoren reagieren besonders empfindlich auf blaues Licht und sind an der Steuerung der inneren Uhr beteiligt.
+Ihre Entdeckung Anfang der Jahrtausendwende forcierte die Entwicklung von tageslichtähnlichen Beleuchtungskonzepten für Innenräume, wie bspw. das Human Centric Lighting.
+
+Die Leistungen der Lichtsinnesorgane anderer Lebewesen unterscheiden sich zum Teil erheblich von denen des Menschen.
+Die meisten Säugetiere haben ein eher unterentwickeltes Farbensehen.
+Vögel hingegen verfügen über mehr Zapfentypen und können dementsprechend mehr Farben unterscheiden als der Mensch.
+Bienen sind zwar mehr oder weniger unempfindlich für langwelliges (rotes) Licht, können aber das sehr kurzwellige UV-Licht wahrnehmen, das für den Menschen unsichtbar ist.
+Außerdem können sie die Polarisationsrichtung des Lichts wahrnehmen.
+Dies hilft ihnen bei der Orientierung im Raum mithilfe des Himmelblaus.
+Manche Schlangen wiederum können die ebenfalls für uns unsichtbaren IR-Strahlen mit ihren Grubenorganen wahrnehmen.
+
+=== Chemie
+
+Bei organischen Farbstoffen können delokalisierte -Elektronen durch Frequenzen im sichtbaren Bereich auf ein höheres Niveau gehoben werden.
+Dadurch werden je nach Molekül bestimmte Wellenlängen absorbiert.
+
+Bei anorganischen Farbstoffen können auch Elektronen aus den d-Orbitalen eines Atoms in energetisch höher gelegene d-Orbitale angeregt werden (siehe Ligandenfeldtheorie).
+Des Weiteren können Elektronen ihre Position zwischen Zentralion und Ligand innerhalb eines Komplexes wechseln (siehe auch Charge-Transfer-Komplexe und Komplexchemie).
+
+=== Größen und Einheiten
+
+Der Strahlungsdruck (Newtonsekunde) ist die physikalische Kraftwirkung des Lichtes auf Teilchen oder Gegenstände und spielt aufgrund seines geringen Betrages kaum eine Rolle.
+
+== Licht in Gesellschaft und Religion
+
+Licht ist, wie Feuer, eines der bedeutendsten Phänomene für alle Kulturen.
+Künstlich erzeugtes Licht aus Lichtquellen ermöglicht dem Menschen heutzutage ein angenehmes und sicheres Leben auch bei terrestrischer Dunkelheit (Nacht) und in gedeckten Räumen (Höhlen, Gebäuden).
+Technisch wird die Funktionsgruppe, die Licht erzeugt, als Lampe, Leuchtmittel oder Lichtquelle bezeichnet.
+Der Halter für die Lampe bildet mit dieser eine Leuchte.
+
+Als Achluophobie, auch als Nyktophobie (von altgriechisch: vu, vuo - nyx, nyktos - f. = die Nacht) oder als Skotophobie (von oo, oou - skotos - m. = die Dunkelheit) bezeichnen Psychiater die ausgeprägte (z. T. krankhafte) Angst vor der Dunkelheit.
+Die Phobie kommt bei Kindern häufig vor, ist aber auch bei Erwachsenen anzutreffen.
+Eine als weniger gravierend bewertete Form der Achluophobie ist der Pavor nocturnus.
+
+Im Christentum steht das Licht in der Selbstbezeichnung Jesu Christi - "Ich bin das Licht der Welt." (Joh 8,12 EU) - für die Erlösung des Menschen aus dem Dunkel der Gottesferne .
+Ebenso wird auch auf Luzifer als den Lichtbringer oder Lichtträger referiert.
+In der biblischen Schöpfungsgeschichte ist das Licht das zweite Werk Gottes, nach Himmel und Erde.
+Im Requiem, der liturgischen Totenmesse, ist ein Lux aeterna enthalten.
+Im Buddhismus und anderen Religionen wie im allgemeinen Sprachgebrauch gibt es das Ziel der Erleuchtung.
+Buddha selbst wird "der Erleuchtete" genannt.
+Die Kategorien "hell" (Antonym: "dunkel") und "klar" (Antonym: "nebulös") werden zumeist positiv konnotiert.
+In dem Satz: "Das Licht der Aufklärung besiegte die Dunkelheit des Mittelalters." ist das uralte, letztlich manichäische Motiv vom "Sieg des Lichts über die Dunkelheit" erkennbar.
+
+== Tag des Lichts
+
+Das Internationale Jahr des Lichts war 2015 von der UNESCO gefeiert worden.
+Im November 2017 rief die Organisation den Internationalen Tag des Lichts (englisch International Day of Light) aus, der seit 2018 jährlich am 16. Mai begangen wird.
+
+== Licht aus Sicht des deutschen Gesetzgebers
+
+Licht zählt als ein Umweltfaktor zu den Immissionen im Sinne des Bundes-Immissionsschutzgesetzes (BImSchG).
+Lichtimmissionen von Beleuchtungsanlagen können das Wohn- und Schlafbedürfnis von Menschen und Tieren erheblich stören und auch technische Prozesse behindern.
+Entsprechend sind in der "Licht-Richtlinie" der Länder (in Deutschland) Maßstäbe zur Beurteilung der (Raum-)Aufhellung und der (psychologischen) Blendung festgelegt.
+Besonders störend kann intensiv farbiges oder blinkendes Licht wirken.
+Zuständig sind bei Beschwerden die Umwelt- und Immissionsschutzbehörden der jeweiligen Bundesländer.
+Negative Auswirkungen betreffen die Verkehrssicherheit (Navigation bei Nacht, physiologische Blendung durch falsch eingestellte Scheinwerfer oder durch Flächenbeleuchtungen neben Straßen), Einflüsse auf die Tierwelt (Anziehen nachtaktiver Insekten, Störung des Vogelflugs bei Zugvögeln) und die allgemeine Aufhellung der Erdatmosphäre (Lichtverschmutzung, die astronomische Beobachtungen infolge Streuung des Lampenlichts in der Atmosphäre des Nachthimmels behindert).
+
+== Literatur
+
+== Weblinks
+
+=== Videos
+
+== Einzelnachweise
+

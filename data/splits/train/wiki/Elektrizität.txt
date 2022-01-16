@@ -1,0 +1,151 @@
+Elektrizität (von griechisch ov elektron "Bernstein") ist der physikalische Oberbegriff für alle Phänomene, die ihre Ursache in ruhender oder bewegter elektrischer Ladung haben.
+Dies umfasst viele aus dem Alltag bekannte Phänomene wie Blitze oder die Kraftwirkung des Magnetismus.
+Der Begriff der Elektrizität ist in der Naturwissenschaft nicht streng abgegrenzt, es werden aber bestimmte Eigenschaften zum Kernbereich der Elektrizität gezählt:
+
+Vorgänge, bei denen keine zeitliche oder keine wesentliche zeitliche Änderung auftritt, werden der Elektrostatik zugeordnet.
+Vorgänge, bei denen die zeitliche Änderung einen wesentlichen Einfluss hat, werden zur Elektrodynamik gezählt.
+
+== Geschichte der Erforschung
+
+Phänomene der Elektrizität sind in der natürlichen Umgebung des Menschen vorhanden, das wohl bekannteste und spektakulärste Auftreten ist in der Meteorologie der Blitz.
+Das Auftreten des elektrischen Schocks, den bestimmte Fische wie der Zitterrochen oder Zitteraal zum Beutefang einsetzen, war im alten Ägypten um 2750 v. Chr. bekannt.
+In der Antike war den alten Griechen bereits die elektrostatische Aufladung des Bernsteins (griech. ov, elektron) bekannt.
+Diese Erkenntnis wird dem Naturphilosophen Thales von Milet zugeschrieben, der um 600 v. Chr. die Anziehungskraft des Bernsteins beschrieb.
+
+Im 1. Jahrhundert v. Chr. wurden parthische Tongefäße in der Nähe von Bagdad verwendet, die 1936 von Wilhelm König gefunden wurden und auch als Bagdad-Batterie bekannt sind.
+Diese Gefäße enthielten einen Eisenstab und einen Kupferzylinder, der mit Asphalt abgedichtet war.
+Versuche des Roemer- und Pelizaeus-Museums in Hildesheim zeigten, dass mit dieser Anordnung und Traubensaft als Elektrolyt eine Spannung von 0,5 V erreicht werden konnte.
+Die Verwendung als eine Art Batterie ist umstritten.
+
+Eine gezielte und praktische Anwendung der Elektrizität erfolgte erst am Beginn der Neuzeit.
+Der Brite William Gilbert untersuchte systematisch die elektrische Aufladung an vielen Substanzen mit Hilfe des Versoriums und führte die Bezeichnung "Electrica" ein (veröffentlicht 1600).
+Um 1663 entwickelte der Magdeburger Bürgermeister Otto von Guericke eine drehbare Schwefelkugel, die mit der Hand gerieben die kosmischen Wirkkräfte (virtutes mundanae) nachweisen sollte.
+Gezielt zum Erforschen elektrischer Wirkungen entwickelte Francis Hauksbee 1706 eine Reibungselektrisiermaschine, deren Kugel nicht mehr aus Schwefel, sondern aus Glas gebaut war.
+Diese und ähnliche Elektrisiermaschinen dienten in den Folgejahrzehnten vor allem der gesellschaftlichen Belustigung.
+
+1733 stellte der französische Naturforscher Charles du Fay fest, dass es zwei entgegengesetzte Formen der elektrischen Ladung gibt, die er zunächst als Harz- und Glaselektrizität bezeichnete.
+Diese Feststellung war die Basis für die Bezeichnung als positive und negative elektrische Ladung.
+
+Der niederländische Physiker Pieter van Musschenbroek erfand 1745 - unabhängig von, und ein Jahr nach Ewald Jürgen Georg von Kleist - die Leidener Flasche, die in Deutschland auch als "Kleistsche Flasche" bekannt ist.
+Die Leidener Flasche gilt als der erste Kondensator zur Speicherung von elektrischen Ladungen.
+
+Um 1752 fand der Amerikaner Benjamin Franklin nach der schon bekannten Reibungselektrizität Zusammenhänge mit der atmosphärischen Elektrizität.
+Er erfand den Blitzableiter und interpretierte das Phänomen als Pluspol und Minuspol.
+
+Der italienische Mediziner Luigi Galvani beobachtete um 1770 mit einer Elektrisiermaschine an Froschschenkeln Zuckungen eines toten Frosches.
+So wurde bekannt, dass Elektrizität auch Bewegungen auslösen kann.
+"Tierische" Elektrizität an Froschschenkeln ist übertragene elektrochemische Energie und Grundlage der Elektrochemie.
+
+1775 erfand der italienische Physiker Alessandro Volta das Elektrophor, ein Gerät zur Ladungstrennung mit Hilfe der Influenz.
+Fünf Jahre später entwickelte er die Voltasche Säule, die aus den Metallen Kupfer und Zink und einem Elektrolyt besteht.
+Diese Batterie ermöglichte erstmals die Stromerzeugung ohne Reibung, nur aus gespeicherter chemischer Energie.
+Die Voltasche Säule wurde für viele Jahre die wichtigste Apparatur zur Gleichstromerzeugung.
+
+Am Ende des 18. Jahrhunderts fanden und beschrieben Charles Augustin de Coulomb, Joseph Priestley, Henry Cavendish und John Robison unabhängig voneinander das Gesetz zur Beschreibung der Kraft zwischen zwei elektrischen Ladungen, das als Coulomb-Gesetz bekannt ist.
+Der deutsche Physiker Georg Simon Ohm formulierte den grundlegenden Zusammenhang zwischen elektrischem Strom und elektrischer Spannung an linearen elektrischen Widerständen.
+Dieser Zusammenhang wird später als ohmsches Gesetz bekannt.
+
+Am 2. Mai 1800 gelang es den britischen Chemikern William Nicholson und Anthony Carlisle erstmals, mit einer Gleichspannung einen elektrischen Strom durch Wasser zu leiten und somit in seine chemischen Grundbestandteile Wasserstoff und Sauerstoff zu zerlegen.
+Damit sind beide die Entdecker der Elektrolyse.
+
+Um 1810 erzeugte der Chemiker Humphry Davy zwischen zwei Kohlestiften, die mit einer Batterie als Stromversorger verbunden waren, einen Lichtbogen und schuf damit die Grundlagen für die Kohlebogenlampe.
+
+Um 1820 beobachtete Hans Christian rsted die Ablenkung einer Magnetnadel durch Stromeinfluss.
+Andre-Marie Ampere, ein französischer Physiker, deutete und beschrieb darauf aufbauend die Stärke des Magnetfeldausschlags in Abhängigkeit zur Stromstärke.
+Er erfand das "Amperemeter", die Theorie des elektrischen Telegrafen, erstmals angewandt von Carl Friedrich Gauß und Wilhelm Eduard Weber, und den Elektromagneten.
+Er ist Begründer der Theorie vom Elektromagnetismus und Namensgeber der physikalischen Einheit des elektrischen Stromes Ampere.
+
+Der britische Physiker Michael Faraday gilt als einer der Begründer der Elektrodynamik.
+Er formulierte erstmals das Induktionsgesetz und beschäftigte sich in weiteren Arbeiten mit den Gesetzen der Elektrolyse.
+Er schuf so die Grundlagen zur Erfindung der Telegraphie.
+Der schottische Physiker James Clerk Maxwell konzipierte 1864 die grundlegende Theorie der klassischen Elektrodynamik in Form der Maxwell-Gleichungen und verband damit Effekte ruhender und bewegter Ladungen sowie deren Felder zur Beschreibung elektromagnetischer Phänomene.
+Aus diesen Gesetzmäßigkeiten folgerte er die Existenz der elektromagnetischen Wellen.
+Er identifizierte das Licht als eine Erscheinungsform von elektromagnetischen Wellen.
+
+Ab 1830, nachdem die notwendigen Gesetzmäßigkeiten bekannt waren, setzte eine breite Anwendung der Elektrizität ein.
+Diese technischen Anwendungen werden unter dem Begriff Elektrotechnik zusammengefasst.
+Seit 1831 experimentierten mehrere Forscher damit, den Elektromagnetismus für elektrische Antriebe und zur elektromechanischen Stromerzeugung zu nutzen.
+Diese gelang 1832 unabhängig voneinander dem Franzosen Hippolyte Pixii und dem Italiener Salvatore Dal Negro.
+1834 meldete der US-Amerikaner Thomas Davenport ein Patent für eine elektrische Lokomotive an.
+Samuel F. B. Morse baute 1833 den ersten brauchbaren Schreibtelegrafen.
+Mit der von ihm eingerichteten Telegrafenlinie von Washington nach Baltimore und dem von einem seiner Mitarbeiter entwickelten Morsealphabet begann 1844 das Zeitalter der elektrischen Kommunikation - und damit der Gleichzeitigkeit.
+In den Jahren 1843/1844 gelang Henri Adolphe Archereau und Louis-Joseph Deleuil mit Kohlebogenlampen auf der Place de la Concorde in Paris erstmals die elektrische Beleuchtung eines öffentlichen Platzes.
+
+Die Stromerzeugung (und damit ebenso die Möglichkeit des elektrischen Antriebs) mit einer elektrischen Maschine ohne Permanentmagnet gelang 1851 dem Slowaken Anyos Jedlik, 1854 dem Dänen Soren Hjorth, der dafür im selben Jahr das englische Patent Nr. 2198 erhielt, und 1866 Werner von Siemens, der sie zur Serienreife brachte.
+
+1882 wurde erstmals eine elektrische Energieversorgung über eine große Entfernung installiert, mit der 57 km langen Gleichstromleitung Miesbach-München.
+1886 begründete Nikola Tesla mit Hilfe seines Sponsors George Westinghouse die heute gebräuchliche elektrische Energieübertragung mittels Wechselstroms.
+1891 gelang die erste Fernübertragung von heute in der Energietechnik üblichen Dreiphasenwechselstrom mit der Drehstromübertragung Lauffen-Frankfurt über 176 km.
+
+In den Folgejahren kam es in der Elektrotechnik zu einer zunehmenden Spezialisierung.
+Während die nach wie vor eng mit dem Maschinenbau verbundene elektrische Energietechnik zu der Energieversorgung von Haushalten, Betrieben und Fabriken diente, verfolgte der Zweig der Nachrichtentechnik das Ziel, Information wie Nachrichten mit geringen zeitlichen Verzögerungen über weite Distanzen zu übertragen.
+Um 1895 führte Guglielmo Marconi in Bologna erste Funkversuche durch.
+Er baute hierbei auf den Entdeckungen von Heinrich Hertz, Alexander Stepanowitsch Popow und Edouard Branly auf.
+Am 24. März 1896 gelang Popow auf funktechnischem Wege die Übertragung der Worte "Heinrich Hertz" während einer Demonstration vor der Russischen Physikalischen Gesellschaft.
+
+Das 20. Jahrhundert ist durch eine starke Erweiterung des Theoriegebäudes gekennzeichnet.
+Die klassische Elektrodynamik von Maxwell wurde im Rahmen der speziellen Relativitätstheorie zur relativistischen Elektrodynamik erweitert.
+Mitte des 20. Jahrhunderts erfolgte, insbesondere durch Arbeiten des amerikanischen Physikers Richard Feynman, die Erweiterung zu der Quantenelektrodynamik.
+Für diese Arbeit erhielten 1965 Shin'ichiro Tomonaga, Julian Schwinger und Richard Feynman den Nobelpreis für Physik "für ihre fundamentale Leistung in der Quantenelektrodynamik, mit tiefgehenden Konsequenzen für die Elementarteilchenphysik".
+Die Quantenelektrodynamik (QED) ist im Rahmen der Quantenphysik die quantenfeldtheoretische Beschreibung des Elektromagnetismus.
+1979 erhielten Sheldon Glashow, Steven Weinberg und Abdus Salam den Nobelpreis für Physik "für ihre Beiträge an der Theorie der vereinigten schwachen und elektromagnetischen Wechselwirkung zwischen Elementarteilchen, einschließlich u. a. die Voraussage der schwachen neutralen Ströme" (Elektroschwache Wechselwirkung).
+
+In der technischen Anwendung des 20. Jahrhunderts wurde 1897 von Ferdinand Braun die Kathodenstrahlröhre entwickelt, die die Grundlage der ersten Fernsehapparate darstellt.
+1911 beobachtete der Niederländer Heike Kamerlingh Onnes als erster Mensch den Effekt der Supraleitung.
+Mitte des 20. Jahrhunderts entwickelten Walter H. Brattain, John Bardeen und William Shockley den Transistor, der in den Folgejahren die Grundlage der ersten integrierten Schaltungen und der Computertechnik war.
+
+== Elektrizität im Alltag
+
+Im heutigen Alltag ist Elektrizität im Sinne von elektrischer Energie unentbehrlich, was dem Menschen meistens erst durch Ausfälle von Versorgungsnetzen wieder bewusst wird.
+Allerdings haben 1,4 Mrd. Menschen weltweit keinen Zugang zu elektrischer Energie.
+Die Erzeugung dieses Energieträgers erfolgt fast immer in Kraftwerken, die Verteilung erfolgt flächendeckend durch Unternehmen der Stromnetze (siehe Elektrizität/Tabellen und Grafiken).
+Seit über einem Jahrhundert bestimmen Anwendungen von Elektrizität wie elektrisches Licht, Wärme und Kraft mehr und mehr das menschliche Leben.
+Eine wesentliche Bedeutung nimmt die Elektrizität im Bereich der Kommunikationstechnologie und Informationstechnologie ein.
+
+Elektrizität in natürlicher Form tritt neben Blitzen auch weniger spektakulär in Form einer Informationsübertragung in Nervensystemen von Lebewesen auf.
+Dabei treten nur sehr kleine Spannungen auf.
+Elektrizität hat je nach Stärke auch unterschiedliche Auswirkungen auf den menschlichen Körper.
+Für Stromunfälle ist die Stärke und die Einwirkdauer des elektrischen Stromes auf den menschlichen Körper wesentlich.
+Elektrische Ströme ab zirka 30 mA können gefährlich sein und Atemlähmungen und Herzstillstand verursachen.
+Elektrischer Strom wird auch eingesetzt, um Menschen gezielt zu töten, wie dieses etwa mit dem elektrischen Stuhl geschieht.
+
+== Elektrizität von Festkörpern
+
+Festkörper, die keine oder nur geringe elektrische Leitfähigkeit besitzen, werden nach ihrem Verhalten in elektrischen und magnetischen Feldern eingeordnet.
+Ursache des unterschiedlichen Verhaltens der Materie in einem Feld ist das Vorhandensein bzw. Nichtvorhandensein von entsprechenden Dipolen und deren Verhalten.
+Dies wird durch die Verwendung der entsprechenden Vorsilbe für beide Felder äquivalent beschrieben (vgl. Magnetismus von Festkörpern).
+Es bedeutet dabei:
+
+Mit den Vorsilben Ferro-, Ferri- und Antiferro- werden unterschiedliche Formen einer langreichweitigen Ordnung von Dipolen bezeichnet.
+Die Bereiche gleicher Ordnung werden Domänen genannt.
+Sie entsprechen den weissschen Bezirken im Magnetismus.
+Alle diese Materialien sind Festkörper, von denen viele eine paraelektrische Hochtemperaturphase besitzen.
+Die Ausrichtung der Dipole kann durch ein ausreichend starkes äußeres Feld umgekehrt werden.
+Dies führt zu einer Hysterese.
+Die einzelnen Formen kann man durch die Art der Hysterese unterscheiden.
+
+== Bedeutung
+
+=== Naturwissenschaften
+
+Die verschiedenen Phänomene der Elektrizität sind Betrachtungsgegenstände in Teilen der Physik und der Chemie:
+
+=== Ingenieurwissenschaften
+
+Die Elektrotechnik bezeichnet denjenigen Bereich der Ingenieurwissenschaft und Technik, der sich mit allen Aspekten der Elektrizität befasst.
+Das Spektrum reicht von der elektrischen Energietechnik wie der Stromerzeugung, über die Regelungs-, Steuerungs- und Messtechnik, über die Elektronik, Mikro- und Nanoelektronik, bis zur Nachrichtentechnik und der Automatisierungstechnik als einem Studiengang der Elektrotechnik.
+Das theoretische Fundament bildet die theoretische Elektrotechnik.
+
+Die große Bedeutung der elektrischen Energie liegt darin, dass sie in Hochspannungsleitungen transportiert werden kann und sich einfach in andere Energiearten wie mechanische Arbeit, Wärme, Licht oder Schall umwandeln lässt.
+Elektrische Energie kann allerdings nur schlecht gespeichert werden und muss dazu in andere Energieträger wie in Form chemischer Energie bei Akkumulatoren oder in potentielle Energie wie bei Pumpspeicherkraftwerken umgewandelt werden.
+
+=== Wirtschaftswissenschaften
+
+Die Elektrizitätswirtschaft bezeichnet denjenigen Bereich der Energiewirtschaft, der sich mit allen Aspekten der Elektrizität befasst.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

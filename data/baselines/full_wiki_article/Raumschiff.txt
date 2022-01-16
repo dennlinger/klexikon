@@ -1,0 +1,59 @@
+Als Raumschiffe oder Raumfahrzeuge werden im Allgemeinen alle Fahrzeuge bezeichnet, die zur Fortbewegung im Weltraum (Raumfahrt) geschaffen wurden.
+Teile dieser Raumschiffe, die über eine Atmosphäre im Inneren verfügen, und die nicht mit aerodynamischen Steuerlementen für den Eintritt in eine Atmosphäre vorgesehen sind, werden auch Raumkapsel genannt.
+Als Raumfahrzeug werden analog zu Wasser- und Luftfahrzeugen allgemein Geräte bezeichnet, die hauptsächlich für die Fortbewegung außerhalb der Erdatmosphäre konstruiert sind und auf technischem Wege Bahnänderungen vornehmen können.
+Ein Raumfahrzeug, mit dem Transport- und Versorgungsflüge zu Raumstationen unternommen werden, bezeichnet man als Raumtransporter oder Versorgungsraumschiff.
+Bei allen bisher entwickelten Raumtransportern handelte es sich um unbemannte Raumfahrzeuge.
+Die nur sehr eingeschränkt manövrierfähigen unbemannten Raumsonden, Raumstationen und vor allem Satelliten werden eher direkt den übergeordneten Raumflugkörpern zugeordnet, obwohl auch sie mit eigenem Antrieb für Bahnkorrekturen ausgerüstet sind und damit Merkmale von Raumfahrzeugen aufweisen.
+Auch Raumanzüge (vor allem solche wie das Manned Maneuvering Unit) sind den Raumfahrzeugen zuzuordnen.
+Raumschiffe sind umgangssprachlich und im engeren Sinne Raumfahrzeuge, die im Rahmen der bemannten Raumfahrt für den Personen- oder Frachttransport im Weltraum gebaut worden sind.
+Aber auch modular aufgebaute Systeme, die aus Antriebseinheit, Landekapsel und unter Druck stehenden Sektionen für Fracht (Nutzlast, abgekürzt P/L für engl. payload) und Besatzung bestehen, werden als Raumschiff bezeichnet.
+Im Deutschen wird das Wort Raumschiff für reale, aber vor allem auch für fiktive Raumschiffe benutzt.
+Raumschiffe sind seit Jules Vernes visionären Zukunftsvorstellungen auch unverzichtbare Hauptbestandteile in der Science-Fiction, wie z. B. das Raumschiff Enterprise.
+Der Begriff Raumschiff lehnt sich dabei an veraltete sprachliche Formulierungen (Weltraumschifffahrt, Raumschiffahrt) an.
+In der Fachliteratur spricht man heute vorzugsweise von bemannten Raumfahrzeugen.
+Zu den bemannten Raumfahrzeugen gehören die wiederverwendbaren Raumfähren und Raumflugzeuge, sowie die nur bedingt wiederverwendbaren Raumkapseln.
+Da die ersten bemannten Raumflugkörper wie Wostok und Mercury noch keine Bahnänderungen erlaubten, stellen sie noch keine Raumfahrzeuge im eigentlichen Sinne dar.
+Der erste bemannte Raumflugkörper im Weltall war der sowjetische einsitzige Wostok 1, der am 12. April 1961 die Erde verließ und die Erde einmal umkreiste.
+Die USA konnten wenige Wochen später, am 5. Mai 1961, im Rahmen des Mercury-Programms einen 16-minütigen suborbitalen Flug durchführen.
+Danach wurden die zwei- bis dreisitzige Woschod-, Gemini- und Sojus-Raumschiffe eingesetzt.
+Später folgten mit dem Apollo-Programm die bisher einzigen Missionen, in denen Menschen den Orbit der Erde verließen.
+Dies waren die Flüge zum Mond mit den Apollo-Raumkapseln.
+Die erste Mission, Apollo 8, flog zum Mond, umkreiste ihn zehn Mal und flog zur Erde zurück.
+Mit dem US-amerikanischen Space Shuttle kam in den 1980er Jahren das erste wiederverwendbare Raumfahrzeug zum Einsatz.
+Mit ihm konnten bis zu sieben Astronauten in den Weltraum gelangen.
+Als bisher letzte Nation stieß 2003 die Volksrepublik China in die Riege der Nationen auf, die bemannte Raumschiffe bauen und starten.
+In Zukunft wollen sowohl private Firmen (z. B. mit SpaceShipTwo) als auch andere Länder wie zum Beispiel Indien bemannte Raumfahrzeuge entwickeln.
+Bis zur Einführung des Space Shuttle stützte sich die NASA ausschließlich auf nicht wiederverwendbare Raumschiffe mit Landekapseln.
+Im Gegensatz zur NASA hat sich die russische Raumfahrt nie von der Kapseltechnologie getrennt, obwohl es mit dem Buran-Programm Versuche dazu gab.
+Obwohl ihr Grundentwurf aus den 1960er Jahren stammt, gelten heute die Sojus-Raumschiffe und die auf der gleichen Technologie basierenden Progress-Transporter als die zuverlässigsten Fluggeräte zur Versorgung der Internationalen Raumstation.
+Folgende für den bemannten Einsatz vorgesehene Raumschiffe sind bereits geflogen oder noch in aktiver Entwicklung:
+Wie bei jedem Raumflugkörper besteht auch ein Raumfahrzeug aus verschiedenen zum Betrieb des Flugkörpers notwendigen Strukturen und Subsystemen.
+Diese bestehen aus der Primärstruktur, in die die weiteren Subsysteme integriert werden.
+Dazu gehören die Energieversorgung (Solarzellen, Akkumulatoren), das Temperatursteuersystem und das Bordrechensystem für Steuerung und Datenmanagement.
+Da das Hauptmerkmal eines Raumfahrzeuges seine Fähigkeit zur Bahnänderung ist, kommt bei ihm ein entsprechendes Antriebssystem für die Lage-, Positionsregelung (Bahnregelung) und (falls geplant) Triebwerke zum Eintritt oder Verlassen einer Umlaufbahn oder zur Landung zum Einsatz.
+Der Hauptantrieb im luftleeren Raum erfolgt heute noch meistens durch konventionelle Raketentriebwerke.
+Vorerst nur konzipierte Antriebe wie etwa das Sonnensegel werden noch nicht von Raumfahrzeugen genutzt.
+Bei bemannten Raumfahrzeugen ist zusätzlich ein Lebenserhaltungssystem installiert, welches den an Bord befindlichen Menschen (und Lebewesen) ein Überleben im Weltraum ermöglicht.
+Gleichzeitig werden bei diesen sowohl die Trägerrakete als auch die Raumfahrzeuge konstruktiv so ausgelegt, dass sie gegenüber den unbemannten Versionen eine erhöhte Zuverlässigkeit und Fehlertoleranz beinhalten.
+Dies wird zum Beispiel durch erhöhte Redundanz und zusätzliche Sicherungs- und Überwachungssysteme zur Erkennung, Vermeidung und Abwehr von Fehlersituationen realisiert.
+So werden für besonders risikoreiche Momente des Raumflug (zum Beispiel Start und Landung, Docking) entsprechende Maßnahmen getroffen.
+Dies reicht vom Startabbruch (siehe z. B. Space Shuttle abort modes), Rettungsraketen bis hin zur Kontrolle des Raumfahrzeuges im Orbit (z. B. Rendezvous Pitch Maneuver beim Space Shuttle).
+Bei Raumfahrzeugen, die für den Wiedereintritt in die Atmosphäre der Erde (oder anderer Himmelsobjekte) und die (weiche) Landung auf der Oberfläche bzw. Wasserung ausgelegt sind, wird noch ein entsprechender Hitzeschild bzw. ein entsprechendes Landesystem verwendet.
+Bei der Landung auf Himmelskörpern ohne Atmosphäre (wie dem Erdmond) kann auf einen Hitzeschild verzichtet werden.
+Die Landesysteme unterscheiden sich je nach System zum Teil beträchtlich.
+Während bei den ersten Raumflugkörpern (wie z. B. Wostok) das Landesystem aus einem Schleudersitz und einem Fallschirm für den Raumfahrer bestand, kamen bei späteren Systemen meist Fallschirmsysteme und in der Endphase der Landung Bremsraketen oder auch Airbaglandesysteme zum Einsatz.
+Bei den Raumfähren und Raumflugzeugen wird wie bei Flugzeugen per Fahrwerk auf einer Landebahn gelandet.
+Bei den US-amerikanischen Mondfähren und bei geplanten zukünftigen Raumfahrzeugen wird auch eine reine Landung per Bremsraketen eingesetzt.
+Im Gegensatz zu wiederverwendbaren Raumfähren wie dem US-amerikanischen Space Shuttle sind bemannte Raumflugkörper, deren Besatzung mit Landekapseln zur Erde zurückgebracht werden, technisch weniger aufwändig und deshalb billiger.
+Sie können allerdings bisher nur einmal eingesetzt werden, weil die Hitzeschilde der Landekapseln nicht wiederverwendbar sind und beim Wiedereintritt in die Erdatmosphäre weitgehend abgetragen werden.
+Man verzichtet bei den Landekapseln weitgehend auf eine aerodynamische Form, da sie sich hauptsächlich im Weltraum bewegen und bei der Landung nicht fliegen, sondern an Fallschirmen zum Boden zurückkehren.
+Dennoch haben die Landekapseln eine bestimmte Form, welche ihnen erlaubt, während des Eintritts in die Erdatmosphäre den Kurs und die Stabilität beizubehalten.
+Manches gelandete Raumschiff (z. B. Space Shuttle), bzw. dessen Rückkehrkapsel wird nach Abschluss von Beforschung nach dem Flug als Ausstellungsobjekt gezeigt.
+Andere Teile von Raumschiffen werden, sofern es eine funktionierende Steuerung oder die Flugroute zulassen gerne zum Absturz auf ein Meeresgebiet gelenkt, das wenig Besiedlung und Schifffahrtsdichte aufweist, um das Unfallrisiko zu minimieren.
+Gleiches gilt für ausgediente Satelliten.
+Ein Gebiet von etwa 1500 Quadratkilometern mitten im Südpazifik zwischen Australien, Neuseeland und Südamerika gilt laut BBC als "Friedhof der Raumschiffe" mit gesunkenen Resten von rund 260 Raumschiffen am Grund.
+Manche Teile, etwa unverletzte Kugeltanks, Schaumstoff können auch schwimmend davontreiben und anderswo stranden.
+Ausgebrannte Einweg-Raketenstufen fallen schon in geringer Entfernung des Startplatzes auf die Erde zurück - meist ins Meer.
+Ausgeschiedene Flugkörper, die mangels Treibstoff oder Fehlfunktion nicht mehr steuerbar sind, sinken durch die Luftreibung zunehmend tiefer.
+Zuletzt heizt die katastrophal groß werdende Reibung den Körper auf bis zum Aufglühen mit Schmelzen und Oxidieren vieler Stoffe.
+Bei diesem Verglühen wird der Körper zerlegt, größere Bruchstücke fallen beobachtbar und rasch zu Boden, oft ins Meer, kleine Staubpartikel sinken nur ganz langsam

@@ -1,0 +1,36 @@
+Eine Geheimschrift ist eine Schrift, die nur für eine Gruppe ausgewählter Menschen bestimmt ist.
+Alle anderen sollen sie nicht lesen können.
+Nur dazu berechtigte Personen sollen also in der Lage sein, die Nachricht zu lesen.
+Dazu haben sich die Menschen verschiedene Methoden ausgedacht.
+Es gibt zwei Arten, wie man eine Botschaft geheim übermitteln kann:
+Entweder schreibt man die Botschaft so, dass sie niemand sieht, dass sie also verborgen ist.
+Man kann zum Beispiel einen Brief mit unsichtbarer Geheimtinte schreiben.
+Er sieht dann aus wie ein leeres Blatt Papier und nur mit bestimmten Hilfsmitteln wird die Schrift sichtbar.
+Fachleute nennen das "Steganographie".
+Oder aber man verschlüsselt die Botschaft.
+Das bedeutet, dass man mit einem Code den Text verfremdet.
+So ist zwar alles für jeden lesbar, man kann aber nichts verstehen, wenn man den Code der Verschlüsselung nicht kennt.
+Das heißt bei Fachleuten "Kryptographie".
+Das griechische Verb bedeutet "verbergen".
+Meistens, wenn wir von Geheimschriften sprechen, meinen wir diese Art der Verschlüsselung.
+Geheimschriften gibt es schon sehr lange, denn immer schon wollte man Dinge weitergeben, die nicht jeder wissen sollte.
+Aber jeder Geheimcode wird irgendwann entschlüsselt und ist dann nicht mehr brauchbar.
+Deshalb gibt es sehr viele Geheimschriften und immer neue werden erfunden.
+Ein einfaches Verfahren ist es, wenn man mit Geheimtinte schreibt.
+Das kann Zitronensaft sein oder Zwiebelsaft, aber auch Milch oder ein Tintenkiller.
+Diese Schrift wird erst durch Erwärmen sichtbar.
+Dazu kann man eine Kerzenflamme oder einen Föhn benutzen.
+Eine andere Art der Verschlüsselung ist die Spiegelschrift.
+Schon Leonardo da Vinci hat so seine Texte verschlüsselt.
+Heute ist das aber kein großes Hindernis mehr.
+Eine weitere Möglichkeit ist es, immer gleich lange Buchstabengruppen rückwärts zu schreiben.
+Hier ein Beispiel:  "ISADEGTSMIEH" kann man nur sehr schwer deuten.
+Tauscht man aber immer bei vier Buchstaben ihre Reihenfolge um, so ergibt sich "DASISTGEHEIM", also "Das ist geheim".
+Es gibt viele Geheimschriften, bei denen die Buchstaben durch andere Zeichen oder Buchstaben ausgetauscht werden.
+Dazu braucht man eine einfache Tabelle, mit der man verschlüsseln kann und mit der man auch wieder entschlüsselt.
+Solange die Tabelle nicht in falsche Hände gerät, ist es nicht so leicht, die Schrift zu entschlüsseln.
+Mit heutigen Methoden kann man diese einfachen Schriften aber recht leicht entschlüsseln.
+Bei den Banken, den Geheimdiensten oder im Internet ist es aber wichtig, dass Dinge auch wirklich geheim bleiben.
+Hier spielt die Kryptographie eine sehr wichtige Rolle.
+Viele moderne Verschlüsselungsverfahren funktionieren nur noch mit Computern, die die schwierigen Berechnungen zur Entschlüsselung durchführen.
+Ganz wichtig sind dazu auch die Primzahlen.

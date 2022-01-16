@@ -1,0 +1,259 @@
+Ein Aerosol (Kunstwort aus altgriechisch  ar, deutsch ,Luft' und lateinisch solutio ,Lösung') ist ein heterogenes Gemisch (Dispersion) aus festen oder flüssigen Schwebeteilchen in einem Gas.
+
+Die Schwebeteilchen heißen Aerosolpartikel oder Aerosolteilchen.
+Die kleinsten Partikel sind wenige Nanometer groß.
+Eine fixe Obergrenze gibt es nicht, jedoch sind Partikel, die innerhalb weniger Sekunden ausfallen, selten Gegenstand von Untersuchungen.
+Ein Aerosol ist ein dynamisches System und unterliegt ständigen Änderungen durch Kondensation von Dämpfen an bereits vorhandenen Partikeln, Verdampfen flüssiger Bestandteile der Partikel, Koagulation kleiner Teilchen zu großen oder Abscheidung von Teilchen an umgebenden Gegenständen.
+
+Die Aerosolforschung beschäftigt sich unter anderem mit den physikalischen und chemischen Eigenschaften von Aerosolpartikeln, der Entstehung und Generierung von Aerosolen, der Auswirkungen auf die menschliche Gesundheit und der Auswirkung von atmosphärischen Aerosolen auf Sichtverhältnisse und auf das Klima.
+
+== Arten, Entstehung und Vorkommen
+
+=== Einteilung
+
+Aerosole lassen sich auf verschiedene Weisen in Kategorien einteilen.
+Kriterien können die Entstehung der Aerosolteilchen, ihre Größe, Materialeigenschaften (fest, flüssig oder chemische Zusammensetzung) oder ihre Wirkung (Kondensationskeime) sein.
+Außerdem ist eine Unterscheidung zwischen atmosphärischen Aerosolen, Indoor-Aerosolen und generierten industriellen oder technischen Aerosolen möglich.
+
+Aerosole können durch mechanische Zerkleinerung von Material oder durch Kondensation von Material aus Vorläufergasen entstehen.
+Mechanische Prozesse umfassen Zerreiben, Zerstoßen oder andere Zerkleinerungsprozesse von Feststoffen und Dispersion von Flüssigkeiten in kleine Tröpfchen.
+Nukleation und Kondensation dagegen sind Prozesse, in denen sich festes oder flüssiges Material aus übersättigten Gasen bildet.
+Dabei können sich neue Partikel bilden, oder das Material kann auf bereits existierenden Partikeln kondensieren.
+
+Die Einteilung nach Entstehung unterscheidet u. a. zwischen Primär- und Sekundäraerosolen.
+Primäraerosole werden direkt in die Umgebungsluft eingebracht und stammen meist aus mechanischen (z. B. Straßenstaub) oder thermischen (z. B. Verbrennungsmotor) Prozessen.
+Sekundäraerosole bilden sich in der Luft aus gasförmigen Stoffen durch chemische Reaktion und/oder durch Anlagerung der Reaktionsprodukte an Kondensationskerne.
+
+=== Beispiele
+
+Aerosole finden sich in vielen Bereichen der Umgebung:
+
+Unsere Erdatmosphäre enthält stets Aerosole und Aerosolteilchen unterschiedlichen Typs und unterschiedlicher Konzentration.
+Dazu zählen
+
+Das Max-Planck-Institut grenzt die Größe der Aerosolpartikel zwischen 1 nm (z. B. Sulfate, Nitrate, organische Verbindungen, Ruß, Viren...) bis 100 m (z. B. Bakterien, Pilzsporen, Pollen, Mineralstaub, Seesalz...) ein.
+
+=== Verbreitung
+
+Der Durchmesser von Aerosolpartikeln liegt in der Größenordnung zwischen 0,1 m und 10 m.
+Einzelne Aerosolpartikel sind daher mit bloßem Auge nicht sichtbar.
+Eine Menge von Aerosolpartikeln in Luft ist je nach Partikelgröße ab Konzentrationen von 10.000-100.000 Partikel pro Kubikzentimeter sichtbar, die bei Herkunft aus anthropogenen Quellen als Smog bezeichnet wird.
+
+Ab einer bestimmten Luftfeuchtigkeit kondensiert Wasser in der Luft an den Partikeln und es beginnen sich Tröpfchen zu bilden.
+Je höher die Luftfeuchtigkeit, desto größer werden die Tröpfchen.
+Bei einer hohen Luftfeuchtigkeit stoßen sie zusammen, es kommt zur Wolkenbildung und letztendlich zum Regen.
+Man bezeichnet Aerosolpartikel daher als Wolkenkondensationskeime.
+
+Die Konzentration der Partikel ist je nach Ort unterschiedlich und nimmt mit der Höhe ab.
+Zehn Kilometer über dem Erdboden findet sich nur ein Zehntausendstel des Wertes am Boden, der bei etwa zehn Mikrogramm Aerosolpartikel pro Kilogramm Luft liegt.
+Vulkanausbrüche können die Konzentrationen von Aerosolen bis hinauf in die Stratosphäre stark erhöhen und neben dem Wetter auch den Flugverkehr beeinflussen.
+Wüstenstaub besteht ebenfalls aus vergleichsweise großen Partikeln und bildet beim Transport eine klar abgegrenzte, mehrere Kilometer dicke Aerosolschicht.
+Messungen im Bereich der Sahara zeigten deutliche Einflüsse auf den atmosphärischen Strahlungstransfer, die berechneten Klimawirkungen weisen jedoch große Unsicherheiten auf.
+
+So wie der Wind, besonders wenn er Turbulenzen bildet, Boden mobilisiert (äolische Bodenerosion), kann er zur Bodenoberfläche abgesunkene Aerosolpartikel ständig neu mobilisieren.
+Je nach Windrichtung, Windstärke und meteorologischer Situation kann der Wind Aerosole großflächig verteilen.
+Ein Beispiel dafür ist die Verteilung radioaktiver Aerosole nach der Nuklearkatastrophe von Tschernobyl im Jahr 1986, die vom Wind in Wolken transportiert wurden und als radioaktiver Niederschlag große Teile Europas kontaminierten.
+
+=== Partikelarten und deren Herkunft
+
+Aerosolpartikel haben unterschiedliche Zusammensetzungen, die auf ihre Eigenschaften und Herkunft schließen lassen.
+Kleinste (Sub-)Partikel sind einzelne Moleküle, selten größer als 1 nm, die bei Verbrennungen oder als Stoffwechselprodukt von Pflanzen und Tieren (zum Beispiel Terpene) entstehen.
+Sie reagieren in der Erdatmosphäre schnell mit anderen Molekülen oder auch größeren Partikeln.
+Aerosolpartikel entstehen, wenn sich mehrere Moleküle zu einem Partikel mit festem Aggregatzustand verbinden.
+
+Hochofenemissionen bestehen zum größten Teil aus Ruß, aber auch aus verschiedenen Sulfaten und Nitraten.
+Das Größenspektrum dieser Partikel liegt zwischen 10 und 300 nm.
+Rußpartikel entstehen zum Beispiel bei der Verhüttung von Metallen sowie in Kohlekraftwerken und Verbrennungsmotoren.
+Ähnlich wie Hochofenemissionen bestehen auch Rauchpartikel, wie sie bei offenen Feuern und Waldbränden entstehen, zum größten Teil aus Ruß.
+
+Partikel aus Mineralstaub gehen vor allem auf die Erosion von Gesteinen zurück, große Mengen Mineralstaubpartikel entstehen zum Beispiel bei Sandstürmen.
+Aerosolpartikel aus Meersalz entstehen, wenn durch den Wind kleine Salzwassertröpfchen vom Meer aufgewirbelt werden.
+Das Wasser verdunstet anschließend, und zurück bleibt ein Meersalzpartikel.
+
+Als Bioaerosol werden in der Standardisierung alle im Luftraum befindlichen Ansammlungen von Partikeln, denen Pilze, Bakterien, Viren oder Pollen sowie deren Zellwandbestandteile und Stoffwechselprodukte (z. B. Mykotoxine) anhaften, bezeichnet.
+Im weiteren Sinne werden sämtliche Teile biologischer Herkunft, wie zum Beispiel Hautschuppen oder Faserteile, zu den Bioaerosolpartikeln gezählt.
+Zu den größeren Schwebeteilchen zählen mit aerodynamischen Durchmessern im Bereich von 10 m bis 100 m Pollen, während Viren sich in der Regel in einem Größenbereich von 0,02 m bis 0,4 m bewegen.
+Es gibt darüber hinaus zahlreiche weitere Arten von Aerosolpartikeln.
+Einige davon sind radioaktiv, andere stammen aus Einträgen kosmischen Staubs.
+
+Um die Herkunft eines Partikels zu bestimmen, bedarf es einer Analyse seiner Inhaltsstoffe.
+Während ihrer Zeit als Aerosol verändern sich die Partikel ständig.
+Wenn Wasser an den Partikeln kondensiert und sich aus vielen kleinen Tröpfchen größere bilden, können Aerosolpartikel miteinander reagieren, oder es werden chemische Vorgänge in der Luft katalysiert, welche die Zusammensetzungen der Partikel verändern.
+
+Für technische Anwendungen, wie beispielsweise die Kalibrierung von Staubmessgeräten oder die Durchführung von Filtertests, werden Prüfaerosole eingesetzt.
+Diese werden je nach Anwendungsfall durch Dispergierung von Feststoffen beziehungsweise Flüssigkeiten, Kondensationsverfahren oder chemische Reaktion erzeugt.
+
+== Sinkgeschwindigkeit
+
+Die Eigenschaft von Partikeln, über längere Zeit in Gasen transportiert werden zu können, liegt darin, dass sie sich mit abnehmendem Durchmesser immer mehr wie Gas-Moleküle verhalten.
+Ihre maximale Sinkgeschwindigkeit haben Aerosole bei einem Kräftegleichgewicht von Gewichtskraft und Luftwiderstand, sofern die Dichte  {\displaystyle \rho } des Partikels viel größer als die des Fluids ist, womit die Auftriebskraft vernachlässigbar ist.
+Für die Gewichtskraft F G {\displaystyle F_{\mathrm {G} }} eines sphärischen Partikels mit Radius r {\displaystyle r} in einem Schwerefeld mit Ortsfaktor g {\displaystyle g} gilt:
+
+Eine Halbierung des Durchmessers eines Partikels entspricht der Verringerung seiner Masse und damit der ihn betreffenden Gravitationskraft um den Faktor acht.
+Die Reibungskraft F R {\displaystyle F_{\mathrm {R} }} des Partikels mit der Luft lässt sich zunächst durch das Gesetz von Stokes beschreiben, da es sich um den Bereich einer laminaren Strömung handelt.
+
+Bei einer Halbierung des Durchmessers eines Partikels verringert sich die Reibungskraft nur um den Faktor zwei.
+Im Kräftegleichgewicht würde die Sinkgeschwindigkeit v {\displaystyle v} daher um den Faktor vier abnehmen.
+
+Das obige Gesetz von Stokes gilt jedoch nur, solange die Partikel deutlich größer sind als die mittlere freie Weglänge des umgebenden Gases (in Luft 68 nm) und die Geschwindigkeit des Fluids an der Oberfläche des Partikels Null ist.
+Mit abnehmender Partikelgröße findet jedoch ein Übergang vom Kontinuum in den Bereich einer molekularen Strömung statt, wodurch der Strömungswiderstand eines Partikels langsamer fällt als nach dem Gesetz von Stokes zu erwarten.
+Die sich ergebende Sinkgeschwindigkeit ist daher größer als nach obigem Zusammenhang und zu ihrer Berechnung muss die Cunningham-Korrektur berücksichtigt werden.
+
+Wird die Reibungskraft durch den Cunningham-Korrekturfaktor C c {\displaystyle C_{\mathrm {c} }} geteilt, so erhält man aus F G = F R / C c {\displaystyle F_{\mathrm {G} }=F_{\mathrm {R} }/C_{\mathrm {c} }} für die Sinkgeschwindigkeit
+
+Für Partikel, die nicht sphärisch sind, wird ein Aerodynamischer Durchmesser als Äquivalentdurchmesser verwendet.
+Das ist derjenige Durchmesser 2 r {\displaystyle 2r} , den ein kugelförmiges Teilchen mit der gleichen Sinkgeschwindigkeit v {\displaystyle v} hätte.
+
+== Messung
+
+Aerosolkonzentrationen werden mit Kernzählern bestimmt.
+Hierbei kann im einfachsten Fall eine bestimmte Luftmenge auf eine dünne Vaselineschicht einwirken und die Auswertung erfolgt mikroskopisch.
+Dabei wird in Abhängigkeit von der Korngröße unterschieden.
+
+Weitere Messmethoden, bei denen Teilchen zur Wägung abgeschieden werden, sind Impaktoren oder Zentrifugen.
+Aerosolpartikel lassen sich in einem Luftstrom mit Hilfe einer radioaktiven Quelle (meist Krypton-85 oder Americium-241) definiert elektrisch aufladen und in einem differentiellen Mobilitätsanalysator (englisch differential mobility analyser, DMA) nach Größenklassen sortiert detektieren.
+Als Detektoren kommen entweder Kondensationspartikelzähler (englisch condensation particle counter, CPC) in Frage, bei denen die Partikel durch heterogene Kondensationsprozesse vergrößert und anschließend optisch detektiert werden, oder elektrische Detektoren, wie das Faraday Cup Electrometer (FCE).
+
+Außerdem können Aerosolpartikel mit optischen Methoden vermessen werden.
+Das integrierende Nephelometer dient dazu, das gesamte von Aerosolpartikeln in einem Referenzvolumen gestreute Licht (einer bestimmten Wellenlänge) zu detektieren.
+Polare Nephelometer analysieren das gestreute Licht zusätzlich je nach Streuwinkel.
+Einzelpartikelzähler analysieren das Streulicht einzelner Aerosolpartikel in einem Luftstrom und können so eine Größenverteilung liefern.
+
+LIDAR-Systeme analysieren das "Lichtecho" von in die Atmosphäre gesendeten Laserpulsen.
+Gemäß der Intensität und dem zeitlichen Abstand zum ausgesendeten Lichtpuls können die Aerosolschichtung in der Atmosphäre über mehrere Kilometer analysiert werden.
+
+Die über die gesamte Atmosphäre integrierte aerosol optische Dicke (AOD, Funktion der ngström Koeffizienten) lässt sich durch verschiedene fernerkundliche Verfahren ihrer raumzeitlichen Verbreitung kartieren.
+Dazu sind Annahmen bezüglich der Reflexionseigenschaften der Erdoberfläche zu treffen (zum Beispiel: Reflexion tiefer klarer Wasserflächen im nahen Infrarot ist gleich null).
+Solche Verfahren werden in der Fernerkundung eingesetzt, um die vom Satelliten aufgenommenen Bilder zu korrigieren.
+
+== Bedeutung
+
+=== Wetter und Klima
+
+Eine wichtige Rolle für das Wetter spielen hygroskopische Aerosolpartikel, die als Kondensationskerne fungieren und so die Tropfen- beziehungsweise Wolkenbildung anregen.
+Zudem gibt es Aerosolpartikel, die als Eiskeime dienen und zur Bildung von Eiskristallen führen (dies können Aerosolpartikel aus bestimmten Bakterien sein, wie sie in Schneekanonen verwendet werden).
+Eiskristalle sind in Wolken der Initiator für Niederschlagsbildung; das Prinzip wird durch den Bergeron-Findeisen-Prozess beschrieben.
+Aus diesem Grund wurden lange Zeit Silberiodid und andere Chemikalien eingesetzt, um durch künstliche Eiskeime das Abregnen von Wolken hervorzurufen.
+Besonders bei Hagelgefahr sollen die Hagelflieger auf diese Weise besonders "gefährliche" Wolkenformationen entschärfen.
+Die Abwesenheit von Aerosolen wird in Nebelkammern genutzt und führt zur Übersättigung des Wasserdampfs von bis zu 800 Prozent.
+
+Die Bedeutung von Aerosolen für das Klima beziehungsweise den Klimawandel ist nicht vollständig geklärt.
+Anthropogene Emissionen führen lokal zu Konzentrationssteigerungen von Aerosolen (Smog).
+Dies kann den Strahlungshaushalt der Erde direkt oder indirekt (durch Wolkenbildung) beeinflussen und ist ein Schwerpunkt vieler Forschungsvorhaben.
+Aerosolpartikel können eintreffende solare Strahlung streuen oder reflektieren und damit die auf der Erdoberfläche eintreffende Strahlung mindern und dadurch die gemittelte Oberflächentemperatur senken.
+Dies geschah beispielsweise nach dem Ausbruch des Krakatau im Jahre 1883.
+
+Als verstärkender Faktor für die Bildung von Wolkenkondensationskeimen wird von einigen Wissenschaftlern die kosmische Strahlung vermutet.
+Ein Forscherteam um den Dänen Henrik Svensmark zeigte eine starke Korrelation mit der globalen Wolkendichte, welche aber von anderen Wissenschaftlern angezweifelt wird.
+Zur Untersuchung des Einflusses der kosmischen Strahlung auf die Aerosolbildung in der Erdatmosphäre findet seit 2006 das CLOUD-Experiment am CERN statt, das einen geringen verstärkenden Effekt auf die Aerosolbildung in höheren Atmosphärenbereichen nachweisen konnte.
+
+==== Wirkung auf die Wolkenbildung
+
+Eine wichtige Rolle spielen die Aerosolpartikel bei der Bildung von Wolkentröpfchen.
+Die Fähigkeit, als Kondensationskern zu wirken, hat jeder Partikel; das Maß dieser Fähigkeit wird durch die Zusammensetzung und die Größe des Partikels bestimmt.
+Je größer ein Partikel ist, desto mehr wasserlösliche Einzelkomponenten sind in ihm enthalten; damit ist umso mehr hydrophile Masse vorhanden, die Wasserdampf am Partikel kondensieren lässt.
+Bei Aerosolpartikeln, in denen keine hydrophilen Komponenten enthalten sind, wie zum Beispiel bei Ruß, kommt es darauf an, wie gut Wasserdampf an der Oberfläche des Partikels kondensieren kann.
+Je größer die Oberfläche des Aerosolpartikels ist, desto mehr Wasser kann an ihm kondensieren.
+Größere Partikel bilden früher Wolkentröpfchen als kleinere.
+Es kommt aber auch auf die Zusammensetzung der Partikel an.
+Wolkenkondensationskeime aus hydrophilen Mineralsalzen wie Ammoniumsulfat oder Ammoniumnitrat können schon ab 70 % Luftfeuchtigkeit durch Deliqueszenz Tröpfchen bilden, während hydrophobe Rußpartikel erst bei einer Luftfeuchtigkeitsübersättigung, also bei über 100 % Luftfeuchtigkeit, Tröpfchen bilden.
+In der Regel bilden alle Aerosolpartikel ab 103 % Luftfeuchtigkeit Tröpfchen.
+Gäbe es keine Aerosolpartikel, so wäre eine Übersättigung bis zu 300 % Luftfeuchtigkeit nötig, um eine Tröpfchenbildung herbeizuführen.
+In der Regel ist im Zusammenhang mit Aerosolpartikeln von relativer Luftfeuchtigkeit die Rede.
+Es wird auch untersucht, wie die Konzentration der Partikel auf die Wolkenbildung wirkt.
+Sobald die Kondensationskeime der Wolken Tröpfchen bilden, sinkt die Luftfeuchtigkeit, da das zuvor in der Luft gelöste Wasser an den Partikeln kondensiert hat, und die Tröpfchen hören irgendwann auf zu wachsen.
+Sind also nur wenige Partikel in der Luft, bilden sich große Tröpfchen, die dann mit großer Wahrscheinlichkeit auch zusammenstoßen, und es kommt schnell zu Regen.
+Sind hingegen viele Partikel vorhanden, bilden sich zahlreiche kleine Tröpfchen, deren Wahrscheinlichkeit zusammenzustoßen gering ist.
+Es bilden sich große Wolken, die kaum Regen abgeben.
+Dieser Effekt wird oft bei Waldbränden beobachtet; Pyrowolken wachsen manchmal bis zur Stratosphäre auf.
+
+==== Wirkung auf das Klima
+
+Dank Konzentrationen von durchschnittlich 10.000 Partikeln je Kubikzentimeter Luft haben Aerosolpartikel Einfluss auf das Klima.
+Sie haben jedoch nichts mit dem Treibhauseffekt zu tun, für den ausschließlich Gase verantwortlich sind.
+Wie die Aerosole das Klima genau beeinflussen, ist derzeit noch unzureichend erforscht.
+Die Mechanismen, über die Aerosole auf das Klima einwirken, sind vielfältig und teils gegenläufig.
+So hat es neben der Wolkenbildung auch einen Einfluss auf das Klima, ob die Partikel die Eigenschaft haben, Sonnenlicht zu absorbieren und dabei Wärme freizusetzen (wie Ruß), oder ob sie das Licht reflektieren oder brechen wie Salzpartikel.
+Es kommt dabei nicht nur auf diese Eigenschaften an sich an, sondern auch, in welcher Höhe sie wirksam werden.
+In der Troposphäre sorgen Rußpartikel zum Beispiel für einen Temperaturanstieg, da sie das Sonnenlicht absorbieren und somit Wärmestrahlung abgeben.
+In der Stratosphäre hingegen fangen sie durch ihre Absorption das Licht ab, sodass weniger UV-Licht die Troposphäre erreicht und die Temperatur dort sinkt.
+Genau umgekehrt ist dieser Effekt bei Mineralpartikeln.
+Sie sorgen in der Troposphäre für deren Abkühlung, während sie für deren Erwärmung verantwortlich sind, wenn sie sich in der Stratosphäre befinden.
+Eine 2020 veröffentlichte Studie gelangt durch Klimasimulationen zum Schluss, dass die durch Rußpartikel veränderte Wolkenbildung zur Erderwärmung beiträgt.
+
+==== Einfluss auf das Ozonloch
+
+Das Ozonloch wird maßgeblich von Fluorchlorkohlenwasserstoffen (FCKW) hervorgerufen.
+Diese Stoffe, die in der Troposphäre sehr stabil sind, spalten in der Stratosphäre Fluor- und Chlorradikale ab, die die Reaktion von Ozon (O3) zu Sauerstoff (O2) katalysieren.
+Für diese Abspaltung von Chlor- und Fluorradikalen in der Stratosphäre sind Aerosole mitverantwortlich, da die Reaktion nur auf der Oberfläche eines Aerosolpartikels stattfinden kann.
+
+==== Saurer Regen
+
+Als saurer Regen wird Regen bezeichnet, der aufgrund eines überhöhten Säuregehaltes (Schwefelsäure H2SO4 und Salpetersäure HNO3) den pH-Wert des Niederschlagswassers herabsetzt und über die hierdurch unterstützte Bodenversauerung das Edaphon beeinflusst.
+Ursache des hohen Säuregehalts sind bestimmte Aerosole, zum Beispiel Nitrate (R-NO3), Sulfate (RSO4) und verschiedene Stickoxide.
+Sie reagieren mit anderen Aerosolen in der Luft oder während der Tröpfchenbildung und bilden Salpetersäure und Schwefelsäure.
+Hauptquellen für solche Aerosole sind die Abgase, die von Menschen verursacht werden.
+Zudem wurden in den 1970er Jahren, als weniger über die Entstehung des sauren Regens bekannt war, Rußfilter in die Schornsteine vieler Fabriken eingesetzt.
+So wurde zwar weniger sichtbarer Ruß freigesetzt, die unsichtbaren Stickoxide und andere säurebildende Aerosole wurden jedoch weiter ausgestoßen.
+In den 1990er Jahren wurden Verbrennungsgase daher zusätzlich entschwefelt (durch REA) und von NOx-Anteilen (DeNOx-Verfahren) befreit.
+
+== Bedeutung in der Humanmedizin
+
+Aerosole werden vom Menschen eingeatmet, dabei scheidet sich ein Teil der inhalierten Aerosolpartikel im Atemtrakt ab.
+Ungefähr 10 % aller inhalierten Aerosolteilchen bleiben im Atemtrakt, die übrigen werden wieder ausgeatmet oder durch die Tätigkeit des Flimmerepithels ausgeschieden.
+Weil die Abscheidewahrscheinlichkeit eines Teilchens stark von seiner Größe abhängt, kann dies nur ein grober Richtwert sein.
+Teilchen, die mindestens bis in den Bronchialbereich vordringen können, heißen lungengängig.
+Dazu gehören alle Aerosolpartikel unterhalb eines Durchmessers von ungefähr 10 Mikrometer (PM10).
+Größere Teilchen scheiden sich schon in der Nase oder im Rachen ab oder lassen sich überhaupt nicht inhalieren.
+Am wenigsten scheiden sich Teilchen mit einem Durchmesser zwischen 0,5 Mikrometer und 1 Mikrometer ab.
+Das bedeutet gleichzeitig, dass sie besonders tief in die Lunge eindringen.
+Deutlich größere und kleinere Teilchen scheiden sich bereits in den oberen Bereichen stärker ab, dringen dadurch weniger tief ein und belasten die empfindlichen Alveolen weniger.
+
+Im Atemtrakt abgeschiedene Aerosolteilchen verweilen dort eine gewisse Zeit.
+Ihre Verweilzeit hängt vom Teilchenmaterial und vom Depositionsort ab.
+Die Substanz leicht löslicher Teilchen verteilt sich schnell auf den gesamten Organismus.
+Chemisch sehr schwer lösliche Teilchen können bis zu mehreren Jahren im Alveolarbereich bleiben.
+Trotzdem bekämpft der Organismus auch diese Teilchen.
+Alveolarmakrophagen umschließen die Teilchen und können sie in einigen Fällen verdauen oder zumindest in die Lymphknoten transportieren.
+Flimmerhärchen im Bronchialbereich befördern dort deponierte Teilchen mechanisch recht schnell wieder aus dem Atemtrakt heraus.
+Mit den gesetzlichen Bestimmungen für Feinstaub nach PM10 und PM2.5 wird versucht, die Verhältnisse im Atemtrakt nachzubilden, um die Grenzwerte anhand ihrer Schadwirkung festzulegen.
+
+Die Auswirkung inhalierter Teilchen auf den Menschen reicht von Vergiftungen über radioaktive Bestrahlung durch Radonzerfallsprodukte bis zu allergischen Reaktionen.
+Besonders gefährlich sind faserförmige Teilchen, besonders Asbest und Nanoröhren, weil Fasern die Lungenreinigung durch Makrophagen blockieren.
+Wenn inhalierte Aerosole Krankheitserreger enthalten (siehe auch Bioaerosol), kommt es zu einer Tröpfcheninfektion.
+
+Bei Inhalationstherapien werden zu medizinischen Zwecken zubereitete Aerosole verwendet.
+Inhalationsgeräte zerstäuben Medikamente, die der Patient durch Inhalation in den Körper aufnimmt.
+Außer zur Bronchialbehandlung kann dieser Weg Unverträglichkeiten von Tabletten oder Spritzen umgehen.
+Ein großes Problem bei dieser Anwendung ist die richtige Dosierung eines Medikaments.
+
+=== SARS-CoV-2
+
+Das Coronavirus SARS-CoV-2 wird nach derzeitigen Erkenntnissen vor allem direkt von Mensch zu Mensch übertragen, z. B. beim Sprechen, Husten oder Niesen.
+Bei der Übertragung spielen Tröpfchen wie auch Aerosole, die längere Zeit in der Luft schweben können, eine Rolle, wobei der Übergang zwischen den beiden Formen fließend ist.
+Durch das Einhalten eines Mindestabstands von 1,5 Metern kann die Übertragung durch Tröpfchen sowie in gewissem Umfang auch von Aerosolen verringert werden.
+Laut Gesellschaft für Aerosolforschung findet die Übertragung der SARS-CoV-2-Viren fast ausnahmslos in Innenräumen statt.
+Im Freien werde das Virus nur "äußerst selten" übertragen und führe nie zu sogenannten Clusterinfektionen, breitgefächterten Ansteckungen.
+
+== Anwendung und Nutzung
+
+Gezielt hergestellt und genutzt werden Aerosole, um Stoffe auf Oberflächen gleichmäßig aufzutragen, etwa beim Lackieren oder Auftragen von Pflanzenschutzmitteln oder Schmiermitteln.
+Spraydosen mit Nasenspray, Haarspray oder Raumspray geben Aerosole ab, die dem Wohlbefinden dienen sollen, aber auch Risiken und Nebenwirkungen aufweisen.
+Nebelbrunnen erzeugen ein Aerosol aus Luft und Wasser, um die Luft durch Verdunstung der Tröpfchen zu befeuchten.
+Kälte- oder Sportlerspray kühlt durch Verdampfen.
+
+In der elektronischen Kampfführung wurden Aerosole versprüht, die eine Maskierung echter Ziele ähnlich den Düppeln bewirken sollen.
+Wolken aus Aerosolen könnten gegebenenfalls durch Kampfflugzeuge besser durchflogen werden als Düppelwolken.
+Die Wirkung ist gegenüber modernen Radargeräten eher gering.
+Aerosole werden ebenfalls zur Abkühlung von Triebwerksabgasen verwendet, um Infrarot-Zielsuchköpfe von Flugabwehrraketen zu beeinträchtigen.
+
+== Einteilung im Schema der chemischen Stoffe
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

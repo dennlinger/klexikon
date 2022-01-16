@@ -1,0 +1,424 @@
+Android (von englisch android Androide, von altgriechisch v Mann und o Gestalt) ist sowohl ein Betriebssystem als auch eine Software-Plattform für mobile Geräte wie Smartphones, Tabletcomputer, Fernseher, Mediaplayer, Netbooks und Autos, die von der von Google gegründeten Open Handset Alliance entwickelt werden.
+Basis ist ein Linux-Kernel.
+
+Android ist eine freie Software.
+Ausgeliefert werden die meisten Android-Geräte allerdings mit vorinstallierter proprietärer Software, darunter meist die Google Mobile-Dienste (kurz GMD; ugs.
+"Google-Apps") wie Google Chrome, Google Maps, Google Play und Google Play Services.
+Ein Großteil der derzeit in Betrieb befindlichen Android-Geräte sind solche "Google-Androids"; konkurrierende Android-Betriebssysteme sind unter anderem Fire OS von Amazon sowie das freie Betriebssystem LineageOS.
+Da der Name "Android" sowie das dazugehörige Logo aber von Google als Marken geschützt werden, dürfen diese anderen auf Android basierenden Betriebssysteme nicht als "Android" vermarktet werden.
+
+Im Gegensatz zu herkömmlichen Desktop-Computern hat man bei Android-Geräten nicht das vollständige Administrationsrecht.
+Von Nutzern unerwünschte Applikationen können nicht in jedem Fall von ihm entfernt werden, solche Rechte legt der Hersteller der mobilen Endgeräte fest.
+
+Android hatte als Smartphone-Betriebssystem im ersten Quartal 2021 einen weltweiten Marktanteil von 71,8 Prozent (nach Internetnutzung) .
+Seit dem Marktstart 2008 erzielte Google mit Android einen Umsatz von 31 Mrd. US-Dollar (Stand: Januar 2016).
+
+== Geschichte
+
+Im Sommer 2005 kaufte Google das im Herbst 2003 von Andy Rubin gegründete Unternehmen Android, das Software für Mobiltelefone und standortbezogene Dienste entwickelte.
+Ursprünglich war Android ausschließlich zur Steuerung von Digitalkameras gedacht.
+Für Android wurden vorwiegend bereits bestehende Komponenten unter Open-Source-Lizenzen neu zusammengestellt, darunter der Linux-Kernel, Java und die C-Standard-Bibliothek Bionic sowie einige Bibliotheken und Daemons des GNU-Projekts.
+Am 5. November 2007 gab Google bekannt, mit 33 anderen Mitgliedern der Open Handset Alliance ein Mobiltelefon-Betriebssystem namens Android weiterzuentwickeln.
+Seit dem 21. Oktober 2008 ist Android offiziell verfügbar.
+
+Als erstes Gerät mit Android als Betriebssystem kam am 22. Oktober 2008 das HTC Dream unter dem Namen T-Mobile G1 in den USA auf den Markt.
+Dass bereits dieses erste Gerät auf das Global Positioning System (GPS) zugreifen konnte und mit Beschleunigungssensoren ausgestattet war, gehörte zum Konzept von Android.
+
+Von 2010 bis 2016 brachte Google mit der Nexus-Produktreihe in Kooperation mit Hardware-Partnern eigene Android-Tablets und -Smartphones auf den Markt.
+Die Partner übernahmen mit Google die Entwicklung der Geräte, während die Software von Google stammte, ohne Herstelleraufsätze bei der Oberfläche.
+Dadurch konnte man Geräte mit aktuellen Android-Updates anbieten.
+Im Oktober 2016 wurde die Nexus-Produktreihe durch die Nachfolge-Reihe Pixel ersetzt.
+Diese werden von Google allein entwickelt und ein Hardwarepartner übernimmt die Fertigung.
+
+Mit Android 6 "Marshmallow" wurde die Funktion "adoptierbarer Speicher" eingeführt.
+Nutzer können Wahlweise eine Speicherkarte als Erweiterung des internen Speichers anstelle eines klassischen tragbaren Speichers einbinden.
+Dazu wird die Karte verschlüsselt neu formatiert.
+Dies schließt jedoch eine Wiederverwendung in anderen Geräten bis zur weiteren Neuformatierung, sowie Datenrettung bei defektem Telefon, aus.
+Daher schlossen die Hersteller Samsung und LG diese Funktion aus.
+
+Neben dem für Telefone und Tabletrechnern optimierten Android veröffentlicht Google auch angepasste Android-Versionen für Fernsehgeräte - in Form von Android TV, für Uhren bzw. Smartwatches (Android Wear - seit 16. März 2018: Wear OS) und Autos (Android Auto).
+Die Version für Kleingeräte (Android Things) wird am 5. Januar 2022 eingestellt.
+
+Am 22. August 2019 kündigte Google an, ein leicht verändertes Logo mit Android 10 einzuführen.
+
+== Oberfläche und Bedienung
+
+=== Gesten
+
+Nutzer steuern Android neuerdings (seit Android 10) mittels Gestensteuerung, das heißt durch das Wischen vom unteren oder seitlichen Bildschirmrand, um zurück bzw. auf den Startbildschirm zu gelangen.
+
+=== Maus und Tastatur
+
+Durch den OTG-USB-Anschluss oder über Bluetooth sind an den meisten Geräten auch Steuerung und Eingabe per Maus, Tastatur oder Gamecontroller möglich.
+Da die meisten für Android programmierten Apps allerdings für die Steuerung per Touchscreen ausgelegt sind, kann die Bedienung über eine Maus in manchen Fällen schwierig sein.
+
+=== Tasten
+
+Eine weitere Art zur Steuerung ist mittels verschiedener Navigationstasten.
+Bei neueren Geräten (Stand: 2015) bestehen diese aus "zurück" (geht zur vorherigen Aktivität oder Seite), "Home" (öffnet den Startbildschirm) und "Letzte Applikationen" (erlaubt das schnelle Schließen oder Hin- und Herschalten zwischen gleichzeitig laufenden Apps).
+Bei älteren Geräten ist die Funktion der Multitasking-Schaltfläche durch ein Gedrückthalten der Heimtaste zu erreichen.
+Die Multitasking-Taste ist dort eine Optionentaste, der bei neueren Geräten bei Bedarf ebenfalls eingeblendet wird, oder durch dessen langen Druck simuliert wird.
+Vor Android 4.0 und bei einzelnen Herstellern gibt es auch "Menü" oder "Suche".
+Samsung setzte lange Zeit in seinen Geräten auf den Menü- statt Multitasking-Taste und vertauschte diesen auch von der Position her mit der "Zurück"-Taste.
+Erst in neueren Modellen wird die von Google empfohlene Taste verwendet.
+Seit Android 7 wird durch das lange Drücken des Knopfes "Letzte Applikationen" der Bildschirm geteilt und es lassen sich zwei Apps gleichzeitig benutzen.
+
+Man unterscheidet zwischen Soft- und Hardwaretasten.
+Erstere werden vom Betriebssystem (Software-seitig) auf dem Bildschirm dargestellt, letztere sind physische Knöpfe oder berührungsempfindliche Schaltflächen auf dem Gerät selbst.
+Vorteil an virtuellen Tasten ist, dass diese bei Bedarf gedreht oder versteckt werden können.
+Der Vollbild-Modus funktioniert aber nur ab Version 4.4.
+Davor ist es lediglich beim Betrachten von Fotos und Videos möglich, die Navigationsleiste zu verstecken.
+
+Die zu haltende Tastenkombination zur Aufnahme von Bildschirmfotos unterscheidet sich je nach Gerätetyp.
+Im Unterschied zu Apple iOS, wo Bildschirmfotos mit kurzem Tastendruck aufgezeichnet werden, ist ein Gedrückthalten nötig.
+Bei manchen Geräten ist ein zusätzlicher Schnellzugriff im über die Einschalttaste aufrufbaren Menü verfügbar.
+Seit Android 5 Lollipop ist das lokale Aufnehmen von Bildschirmvideos möglich.
+Allerdings implementierten einzelne Hersteller wie Sony Mobile diese Funktion früher.
+
+Frühe Android-Telefone waren häufig mit einer dedizierten Suchtaste zum schnellen Zugriff auf einer voreingestellten Suchmaschine oder dem Suchfeld innerhalb einer Anwendung ausgestattet; neuere Geräte ermöglichen Ersteres in der Regel durch den langen Druck der Heimtaste.
+
+Eine dedizierte Optionen-Schaltfläche (Menütaste) und dessen Simulation auf dem Bildschirm werden ab Android 10 nicht mehr unterstützt.
+Stattdessen sollen Anwendungsentwickler Zugriffsmöglichkeiten auf Optionen innerhalb der Bedienoberfläche platzieren.
+
+=== Startbildschirm
+
+Der Startbildschirm dient in erster Linie zum Starten von Apps.
+Daher kommt auch die englische Bezeichnung "Launcher" (englisch "to launch" = starten).
+Er besteht aus mindestens einer Seite, je nach Gerät können aber auch weitere Seiten mit beliebigen Elementen hinzugefügt werden.
+Anders als bei Apples iOS befinden sich damit nicht zwingend alle App-Verknüpfungen auf einer der Seiten des Startbildschirms.
+Die Übersicht aller installierten Apps ist bis Android 1.6 mit einer Lasche aufzurufen.
+Ab Android 2.2 öffnet sich eine alphabetisch sortierte Liste aller Apps durch den App-Drawer.
+Dieser befindet sich in der Standardeinstellung direkt bei den vier Hauptanwendungen im App-Dock, das in der Regel auf allen Seiten sichtbar ist und ebenfalls mit der Version 2.2 eingeführt wurde.
+Am oberen Rand wird eine Google-Suchleiste angezeigt, die von Google auch einfach durch das Sprechen der Worte "Ok Google" gestartet und dessen Spracheingabe aktiviert wird.
+Zwischen Dock und Suchleiste (eine eigene Zeile für das Sucheingabefeld) lassen sich in einem Raster Verknüpfungen (zu Apps, Lesezeichen, Kontakten) oder Widgets ablegen.
+Bei diesen handelt es sich um meist etwas größere Anzeigen von allgemeinen Daten, z. B. Wetter, Datum und Uhrzeit, Termine oder auch ein Taschenrechner.
+Es werden über Widgets bestimmte App-Informationen übersichtlich präsentiert.
+So zeigt die Standard-Musik-App beispielsweise Informationen über die gerade laufende Mediendatei mit einem reduzierten Abspielmenü an.
+
+Die Anpassbarkeit ist ein großer Vorteil von Android und spielt beim Startbildschirm als Start- und Übersichtsansicht eine besonders wichtige Rolle.
+Es lassen sich alternative Apps mit mehr Einstellungen oder einem anderen Bedienkonzept installieren.
+Beim Druck auf die Hometaste lässt sich auswählen, welche der Apps als Standardanwendung für den Startbildschirm benutzt werden soll.
+Auch andere Teile des Systems lassen sich ersetzen, die Tastatur oder der Standardbrowser.
+
+=== Benachrichtigungsleiste
+
+Ein weiteres Merkmal des Betriebssystems ist die Benachrichtigungsleiste am oberen Bildschirmrand, die mit einer Geste von ganz oben nach unten geöffnet werden kann.
+Jede App kann selber bei bestimmten Ereignissen eine Benachrichtigung erstellen, z. B. bei einer neuen E-Mail, einem Termin, einem Downloadvorgang, einer SMS oder einer neu installierten App.
+Ist die Leiste geschlossen, sehen Nutzer oben links für jede Benachrichtigung ein passendes Symbol.
+Die rechte Seite informiert ebenfalls hauptsächlich mit Symbolen über Bluetooth-Verbindung, Klingelmodus, WLAN-Verbindung, Feldstärke und Datenverbindung oder Flugmodus, Akkustand und Uhrzeit (v. l. n. r.).
+Benachrichtigungen können dauerhaft sein, dann lassen sie sich nicht wie sonst per Geste entfernen, sondern verschwinden von alleine, wenn eine bestimmte Bedingung nicht mehr erfüllt oder ein Vorgang abgeschlossen ist (z. B. die Benachrichtigung "USB-Debugging" bei PC-Anschluss oder eine Download-Information).
+Auch gibt es erweiterbare Benachrichtigungen, die per Ziehen nach unten weitere Tasten anzeigen, wie "Antworten", "Weiterleiten" oder "Löschen" einer E-Mail, oder in der Audiowiedergabe ein größeres Cover, den Albumnamen und einen Zurückspulen-Knopf.
+
+=== Schnelleinstellungen
+
+Um die Schnelleinstellungen ("Quick Settings") zu öffnen, gibt es drei Möglichkeiten:
+Bei geschlossener Leiste einfach durch eine Geste mit zwei Fingern von oben nach unten sowie im geöffneten Modus (ab Version 5.0) entweder durch einen weiteren Wisch nach unten oder durch Tippen auf die obere Statusleiste (außer dem Datum).
+Das Einstellungsmenü beinhaltet einen Helligkeitsregler und An-/Aus-Schalter für WLAN, Bluetooth, Farbumkehrung des Bildschirms, Feldstärke, Flugmodus, automatische Bildschirmrotation, Taschenlampe (mithilfe des LED-Blitzes), Standort, Bildschirmübertragung und mobiler WLAN-Hotspot.
+Durch einen langen Druck gelangt man in die jeweilige Sektion der Systemeinstellungen.
+Manche Optionen zeigen beim Tippen noch ein kleines Menü an, so erfahren Nutzer bei einem Druck auf die Feldstärke noch den momentanen mobilen Datenverbrauch und sein Limit und kann auch die mobilen Daten gleich deaktivieren.
+Bei WLAN und Bluetooth kann (ab Version 5.1) noch das verbundene Netzwerk oder Gerät ausgewählt werden.
+
+=== Herstellerspezifische Aufsätze
+
+In der Anfangszeit von Android ließ das System noch Funktionen vermissen, die von den Smartphone-Herstellern mittels eigener Ergänzungen (sog. Herstelleraufsätze) ergänzt wurden.
+Heute geht der Trend hin zu purem Android, auch "Vanilla Android" oder "Stock Android" genannt.
+Die populärsten Geräte sind die Pixel-Geräte, die von Google in enger Zusammenarbeit mit einem anderen Android-Smartphone-Hersteller entstanden sind.
+Ein großer Vorteil liegt in der Sicherheit, da die Geräte mindestens drei Jahre jeden Monat mit Sicherheitsupdates versorgt werden.
+Einen ähnlichen Status besitzen Google-Play-Editionen bereits existierender Geräten, die mit Stock-Android statt der Herstelleroberfläche ausgeliefert werden.
+Bei diesen kommen Updates zwar von den Herstellern selbst, erscheinen aber meist recht schnell.
+
+Eigene Aufsätze der Smartphone-Hersteller wie HTC mit HTC Sense, Sonys Xperia UI, Samsung mit der One UI, LG UX von LG, MIUI von Xiaomi und die EMUI von Huawei ändern heute hauptsächlich das Design der Oberfläche (teils drastisch), wobei der grundsätzliche Aufbau meist der gleiche bleibt.
+
+== Architektur
+
+=== Kernel
+
+Die Architektur von Android baute anfangs auf dem Linux-Kernel 2.6 auf, ab Android 4.x wird ein Kernel der 3.x-Serie verwendet.
+Seit Android 11 werden die Kernel Versionen 4.14, 4.19 sowie 5.4 verwendet.
+Er ist für die Speicherverwaltung und Prozessverwaltung zuständig und stellt die Schnittstelle zum Abspielen von Multimedia und der Netzwerkkommunikation dar.
+Außerdem bildet er die Hardware-Abstraktionsschicht für den Rest der Software und stellt die Gerätetreiber für das System.
+
+=== Java-Laufzeitumgebung
+
+Weitere wichtige Bausteine sind die auf der Java-Technologie basierende Laufzeitumgebung Android Runtime (ART) sowie die Klassenbibliothek OpenJDK.
+
+Bis Version 4.4 wurden Anwendungen in der Dalvik Virtual Machine ausgeführt.
+Die verwendeten Klassenbibliotheken stammten ursprünglich aus dem inzwischen eingestellten Projekt Apache Harmony und orientierten sich stark an der Java Standard Edition.
+
+=== Native Bibliotheken
+
+Anwendungen für die Android-Plattform werden in der Regel in Java geschrieben, jedoch greifen diese in geschwindigkeitskritischen Bereichen auf zahlreiche in C oder C++ geschriebene native Bibliotheken zurück.
+Darunter befinden sich neben Codecs für die Medienwiedergabe auch ein Webbrowser auf der Basis von WebKit sowie seit Android 4.4 Chromium, die Datenbank SQLite und eine auf OpenGL basierende 3D-Grafikbibliothek.
+
+=== Entwicklungsumgebung
+
+Zur Entwicklung eigener Programme für Android, der Android-Softwareentwicklung, benötigt man ein aktuelles Java-Entwicklungswerkzeug und zusätzlich das Android-SDK.
+Zuerst wird der in Java geschriebene Quelltext mit einem normalen Java-Compiler übersetzt und dann von einem Cross-Assembler für die Dalvik-VM angepasst.
+Aus diesem Grund können Programme prinzipiell mit jeder Java-Entwicklungsumgebung erstellt werden.
+
+Die fertige Anwendung muss in ein .apk-Paket (englisch Android Package) verpackt werden, anschließend kann sie über Google Play, App Stores der Gerätehersteller, andere kommerzielle Anbieter (zum Beispiel Amazon) oder auch alternative Paketquellen wie F-Droid bereitgestellt werden.
+Außerdem lassen sie sich direkt auf dem Gerät mit dem Paketmanager installieren.
+
+Das Framework setzt auf starke Modularität.
+So sind alle Komponenten des Systems generell gleichberechtigt (ausgenommen die virtuelle Maschine und das unterliegende Kernsystem) und können jederzeit ausgetauscht werden.
+Es ist also beispielsweise möglich, eine eigene Anwendung zum Erstellen von Kurznachrichten oder zum Wählen von Rufnummern zu erstellen und die bisherige Anwendung damit zu ersetzen.
+
+Seit Mai 2013 stellt Google eine eigene IDE namens Android Studio auf Basis von IntelliJ IDEA bereit, welche die vormals als Eclipse-Plugin entwickelten Android Development Tools ablöste.
+
+=== Native Programme
+
+Einen weiteren Anwendungsentwicklungs- und Portierungsweg jenseits von Java bietet die SDL-Bibliothek für SDL- und nativen C-Code an.
+Über einen kleinen Java-basierten Wrappercodeanteil wird über das JNI die Verwendung nativen Codes möglich.
+Damit ist das Portieren vorhandener SDL-Applikationen auf Android relativ problemlos möglich, wie die Portierung von Jagged Alliance 2.
+
+=== Beschränkungen
+
+Da Android standardmäßig nicht den vollen Umfang der GNU-Bibliotheken umfasst und diesen nicht standardkonform implementiert sowie ein eigenes Fenstersystem besitzt, ist eine Portierung von Software für klassische Linux-Distributionen auf Android schwierig.
+
+=== Grafische Schnittstelle
+
+Android verwendet EGL als Schnittstelle zwischen dem Fenstersystem und OpenGL ES sowie OpenVG.
+
+=== Sicherheit
+
+Die SafetyNet Api soll die Kompatibilität und Sicherheit prüfen.
+Überprüft wird unter anderem, ob der Bootloader entsperrt ist, ob das Gerät gerootet ist und ob Google-Dienste installiert sind; das führt dazu, dass Apps wie z. B. Pokemon GO, Snapchat und auch viele Banking Apps auf gerooteten sowie auf Geräten mit Custom-ROMs ohne Google Apps nicht oder nur teilweise funktionieren.
+
+=== Einordnung als Linux-Distribution
+
+Android teilt sich zahlreiche Eigenschaften mit Embedded-Linux-Distributionen.
+Es unterscheidet sich wesentlich von jenen GNU/Linux-Distributionen, wie man sie für Desktop und Server kennt, weil entscheidende Teile mit alternativen Konzepten wie Java und der C-Standard-Bibliothek Bionic umgesetzt sind.
+Ob trotz dieser konzeptionellen Unterschiede der Begriff Linux-Distribution auf Android angewendet werden kann, ist umstritten, da dieser Begriff üblicherweise für Distributionen steht, die neben dem Linux-Kernel auch GNU-Software wie die GNU Core Utilities mitliefern.
+Diese sind nur unvollständig Bestandteil von Android, lassen sich jedoch nachrüsten.
+Gleichwohl bezeichnet die Linux Foundation Android als Linux-Distribution, da es sich um eine Distribution mit Linux-Kernel handelt.
+Zudem sind auch etliche Bestandteile aus NetBSD in Android enthalten.
+
+== Verfügbarkeit der Quellen
+
+Android selbst ist freie Software, bekannt unter dem Namen Android Open Source Project (AOSP).
+Der größte Teil der Plattform steht unter der Apache-Lizenz - Ausnahmen sind der Linux-Kernel, der unter der GPL 2 vertrieben wird.
+Die Google Play Dienste sowie von den meisten Herstellern vorinstallierten Anwendungen von Google sind keine freie Software, da deren Quelltext nicht verfügbar ist.
+Es existieren jedoch Android-Varianten wie LineageOS, welche ohne proprietäre Software auskommen, diese müssen jedoch vom Nutzer installiert werden.
+
+== Versionen
+
+Von Version 1.5 bis 9 trugen alle Versionen neben der Versionsnummer den englischen Namen einer Süßspeise, deren Anfangsbuchstaben jeweils im Alphabet aufsteigend waren.
+Seit Android 10 wird wieder auf den Namenszusatz verzichtet.
+Nichtsdestotrotz wird intern der Codename "Queen Cake" für Android 10 verwendet.
+Android 11 trägt den internen Codename "Red Velvet Cake" (roter Samtkuchen).
+
+Zu jeder Android-Version entwirft die Open Handset Alliance oder Google ein Android-Maskottchen mit der jeweils zur Version gehörenden Süßspeise.
+Dieses kann ab Version 2.3 durch mehrmaliges Berühren der Android-Version in den Systemeinstellungen angezeigt werden.
+
+Alle Versionen bis einschließlich Version 2.3.x "Gingerbread" waren nur für Smartphones vorgesehen, wurden aber auch in Navigations- und anderen Geräten eingesetzt.
+Mit der Version 3 mit Beinamen "Honeycomb" kam ein seitens Google rein für Tablets vorgesehenes Betriebssystem.
+Die Trennung zwischen den beiden Geräteklassen wurde mit "Ice Cream Sandwich" aufgehoben, welches von Grund auf für beide Systeme vorgesehen ist.
+
+Da der Tablet-Markt immer stärker wuchs und Google "Honeycomb" erst recht spät veröffentlichte, brachten einige Hersteller Tablets auf den Markt, die entgegen Googles Empfehlungen unter "Gingerbread" liefen.
+Umgekehrt wollte Google verhindern, dass die "Honeycomb"-Version auf Smartphones eingesetzt wird, weswegen der Quellcode erst verspätet veröffentlicht wurde.
+
+Zum ersten Mal in der Geschichte wurde auf der Google I/O 2014 eine Vorabversion von Android 5.0 "Lollipop" mit dem Namen "L Preview" angekündigt.
+Für welches Dessert "L" dabei stand, wurde erst zum fertigen Release verraten.
+Dieses Vorgehen wird seither auf alle neuen Versionen angewendet.
+Mit Android Lollipop 5.0 wurde unter anderem ein Energiesparmodus integriert, der unter anderem Hintergrundprozesse anhält, die Taktrate des Prozessors verringert und so den Stromverbrauch reduziert.
+(Siehe auch: Green IT) Auch wurde eine Möglichkeit eingeführt, Benachrichtigungen bestimmter Apps als vertraulich zu behandeln, sodass sie auf dem Sperrbildschirm nur zensiert gezeigt werden.
+
+Am 17. August 2015, gleichzeitig mit der finalen Vorschauversion, wurde "Marshmallow" als offizieller Name für Android 6.0 angekündigt.
+Die finale Version erschien am 5. Oktober 2015. Android Marshmallow 6.0 gab erstmals, ohne vorher benötigte Eingriffe in das Betriebssystem, die Möglichkeit, einzelnen Apps Berechtigungen zu entziehen.
+Unter vorherigen Versionen war dies nur mit technischer Manipulation und einem Garantieverlust möglich.
+Das in Android 5.0 eingeführte Akkumanagement wurde um einen "Schlafmodus" für Anwendungen ergänzt, der aktiviert wird, sobald der Bildschirm des Geräts ausgeschaltet wird.
+In der Version wurde sowohl Googles Bezahldienst "Android Pay" als auch die Erfassung und Verarbeitung biometrischer Daten in das Betriebssystem integriert.
+
+== Vorhandene Software
+
+In Googles App Store "Google Play" (ehemals "Android Market") gab es im Mai 2015 mehr als 1,5 Mio. Apps.
+Seit 2013 verfügt Google Play über ein größeres App-Angebot als der vorherige marktführende App-Anbieter Apple.
+Im SDK werden zusätzlich eine Reihe von Anwendungen, darunter ein Webbrowser, die Kartenanwendung Google Maps, eine SMS-, E-Mail- und Adressbuchverwaltung, ein Musikprogramm, eine Kamera- und Galerieapplikation sowie ein Satz von API-Demoanwendungen mitgeliefert.
+Erstellte Software kann von den Entwicklern bei Google Play angeboten werden.
+Verkaufen kann sie dort allerdings nur, wer in bestimmten Staaten ansässig ist.
+In den Nutzungsbedingungen sind unter anderem Deutschland, Österreich und die Schweiz aufgeführt.
+Kostenfreie Software macht etwa 69 Prozent aus.
+
+Neben Google Play stehen Entwicklern und Endanwendern auch eine Reihe anderer Märkte und Plattformen für Android-Software offen, wie der Amazon Appstore, Yandex.
+Store oder F-Droid; manche vermeintlich eigenständige verweisen jedoch wiederum auf Google Play.
+
+Google behält eine gewisse Kontrolle über Android-Software.
+Nur lizenzierte Android-Distributionen dürfen die Google-eigenen Anwendungen (Closed Source) wie Google Mail oder Google Maps verwenden sowie auf Google Play für weitere Applikationen zugreifen.
+Verschiedene Tablets verwenden ein unlizenziertes Android 4; "gerootete" Geräte verwenden oft ein Custom-ROM.
+Diese haben nach dem Flashen der entsprechenden GApps ebenfalls die Berechtigung für den Zugriff auf den Google Play sowie die anderen GApps der Google Mobile Services (GMS).
+Es wird nicht offiziell unterstützt, Applikationen aus Google Play auf einem Nicht-Android-System herunterzuladen (z. B. einem normalen PC), um sie dann über USB auf einem Android-Gerät zu installieren.
+Dies ist aber mit Drittanbietersoftware wie dem Java-Programm Raccoon oder dem Browser-Addon APK Downloader, erhältlich für Firefox und Chrome, trotzdem möglich.
+Auch ein Download auf einem Android-Gerät selbst, mithilfe von Apps wie YalpStore, ist möglich.
+Jedoch wird hierbei, wie bei dem Download mit der offiziellen App, ein Google-Konto benötigt.
+Einige Software-Hersteller bieten ihre Applikationen auch in alternativen App Stores oder direkt als Installationsdatei an; diese lässt sich dann auf beliebige Weise herunterladen und auf dem Android-Gerät installieren.
+
+=== Dateiverwaltung
+
+Ab Version 6 "Marshmallow" ist auf Android ab Werk ein rudimentärer Dateimanager mit dem internen Namen "DocumentsUI" vorinstalliert, der über die Einstellungen, Speicher, Erkunden aufzurufen ist.
+Seit Android 4.4 "KitKat" gibt es zudem ein Media-System, über das indirekt auf das Dateisystem zugegriffen werden kann, wenn z. B. ein Hintergrundbild ausgewählt oder ein E-Mail-Anhang verschickt wird; diese Oberfläche direkt zu starten oder Dateien zu löschen, verschieben, kopieren oder umbenennen ist dennoch nicht möglich.
+
+Mit Android 4.4 "Kit Kat" wurde der gemeinsame Schreibzugriff auf Speicherkarten für vom Endbenutzer installierten Anwendungen, bspw. Dateiverwalter, gesperrt.
+Ab Android 5.0 "Lollipop" wurde Schreibzugriff ausschließlich durch die von Google entwickelte, nicht abwärtskompatibele Programmierschnittstelle "Storage Access Framework" erneut ermöglicht.
+Mit Android 7 "Nougat" (API-Stufe 24) wurde das Verschieben von Dateien und Ordnern erneut ermöglicht.
+Die unterliegende Systemdateistruktur außerhalb von Benutzerdatenverzeichnissen wird seit Android 7 vollständig verborgen.
+
+Mit Android 10 wurde "scoped storage" für endnutzerinstallierte Anwendungen eingeführt.
+Der konventionelle Zugriff auf den geteilten internen Benutzerspeicher wird ähnlich wie bei Apple iOS gesperrt; es verbleibt lediglich der Zugriff durch die eigene Programmierschnittstelle "Storage Access Framework" von Google erhalten.
+Bei der Deinstallation von Anwendungen werden jeweils angelegte Dateien vollständig gelöscht.
+
+Diese Maßnahmen der Isolation dienen laut Google der Privatsphäre des Benutzers, allerdings standen bereits seit Android 1.0 jeweilige private Datenverzeichnisse innerhalb von "/data/" zur Verfügung.
+
+=== Prozessverwaltung
+
+Seit Android 5 "Lollipop" ist die Liste laufender Prozesse nicht mehr für benutzerinstallierte Anwendungen abrufbar.
+Diese Einschränkung schloss die Verwendung von Prozessverwaltern von Drittenentwicklern aus.
+
+=== Barrierefreiheit
+
+Ab Version 4.0 (Ice Cream Sandwich) besitzt das Betriebssystem einen hohen Grad an Barrierefreiheit.
+Die benötigte Software ist bereits installiert und kann theoretisch von einem Blinden selbständig aktiviert werden.
+Dabei bietet Android den Vorteil, dass Sprachausgabe (Screenreader) und Bildschirmvergrößerung parallel genutzt werden können.
+Unterstützung für Braillezeilen bietet Android ab der Version 4.1 und der Erweiterung BrailleBack.
+
+=== Root/Administratorrechte
+
+Im Gegensatz zu herkömmlichen Desktop-Computern, bei denen Nutzer mit dem Kauf auch die vollen Administrationsrechte erwerben, hat man bei Android-Geräten nicht das vollständige Administrationsrecht.
+Von Nutzern unerwünschte Applikationen können von ihm nicht entfernt werden, auch wenn diese Applikationen nicht für den einwandfreien Betrieb des Gerätes erforderlich sind.
+Die Festlegung, ob eine bestimmte Anwendung entfernt werden darf, legt der Hersteller der mobilen Endgeräte selbst oder in Absprachen mit den Entwicklerfirmen der Anwendung fest (siehe auch Abschnitt zur Kritik/ Kontrolle durch Google, Übermittlung privater Daten).
+Zur Erlangung von Rootrechten muss eine Erweiterung, wie z.B Magisk installiert werden.
+
+== Verbreitung und Erfolg
+
+Im ersten Quartal 2010 wurden in den Vereinigten Staaten erstmals mehr Android-Mobiltelefone als iPhones verkauft.
+Der Marktanteil bei Neugeräten betrug im untersuchten Zeitraum für Google 28 Prozent im Gegensatz zu 21 Prozent bei Apple.
+Bei den Internetzugriffen ist Android seit Juli 2014 das führende Smartphone-Betriebssystem.
+Im September 2013 verkündete Sundar Pichai, dass bis dato eine Milliarde Geräte aktiviert worden seien.
+Im Jahr 2014 wurden ca. 1 Milliarde Android-Geräte verkauft.
+Android hatte als Smartphone-Betriebssystem im dritten Quartal 2016 einen weltweiten Marktanteil von 87,5 Prozent, nach 84,6 Prozent im zweiten Quartal 2014, 79,3 Prozent im zweiten Quartal 2013, 68,1 Prozent im zweiten Quartal 2012, 52,5 Prozent im dritten Quartal 2011 und 25,5 Prozent im dritten Quartal 2010.
+
+Durch die Entscheidung von Google, sein Betriebssystem kostenlos zur Verfügung zu stellen, ist die Nutzung bei Herstellern von Endgeräten beliebt.
+Diese Entscheidung führte jedoch auch zu einer starken Fragmentierung.
+Laut einer im Mai 2012 vom Unternehmen Staircase vorgenommenen Untersuchung unter Android-Smartphone-Nutzern, die über einen Zeitraum von einem halben Jahr durchgeführt wurde, konnten 3997 verschiedene Geräte von insgesamt 599 Herstellern gezählt werden.
+Allerdings wird das Ergebnis durch Custom-ROMs, das heißt nicht originale vom Hersteller bereitgestellte Betriebsprogramme, etwas verfälscht.
+
+Viele Hersteller, insbesondere in China, verwenden eine unlizenzierte Android-Version, die keine Google-Dienste wie Google Maps, den Google Play Store und Gmail enthält.
+Nach Schätzungen von Analysten betrifft dies zwischen 23 % und 41 % aller verkauften Android-Geräte.
+
+== Portierungen
+
+Da die Quellen von Android frei verfügbar sind und auch keine rechtlichen Gründe dagegen sprechen, kann es verhältnismäßig einfach auf nahezu jeden ausreichend leistungsfähigen Rechner portiert werden.
+Wenn eine Plattform vom Linux-Kernel unterstützt wird, besteht eine gute Möglichkeit, dass eine Portierung von Android gelingt.
+Es gibt Portierungen für Smartphones, die ursprünglich mit einem anderen Betriebssystem ausgeliefert wurden.
+Andere Projekte portieren Android für einen handelsüblichen Desktop-Computer.
+Viele dieser Portierungsprojekte werden von einer weltweiten Entwickler-Community vorangetrieben.
+Die Open Handset Alliance unterstützt diese Projekte mit einer eigenen Portierungsanleitung.
+
+=== Portierungen für andere Smartphones
+
+=== Portierungen für die x86/AMD64-Plattform 
+
+=== Bekannte Derivate
+
+== Kritik
+
+=== Fernzugriff auf Geräte
+
+Google hat die Möglichkeit, sofern die Google Apps installiert sind, Software ohne vorherige Nachfrage bei Nutzern zu löschen und zu installieren.
+Über etwaige dauerhafte Verbindungen mit Google-Servern könnten Applikationen via Fernzugriff ohne Einwirkung, jedoch mit Wissen der Nutzer gelöscht und installiert werden (Statusmeldung).
+Falls Google eine kostenpflichtige Software löscht, erhält der Kunde den Kaufpreis zurück.
+Im Juni 2010 hat Google erstmals Anwendungen auf den Endgeräten der Anwender durch einen Fernzugriff gelöscht, nachdem Sicherheitsexperten ein Schadprogramm in den damaligen Android Market eingeschleust hatten, um auf fehlende Kontrollen aufmerksam zu machen.
+Außerdem kann Google auch über die Google-Play-Dienste Geräte-Einstellungen ohne Einwilligung der Nutzer aus der Ferne ändern, was sich durch ein versehentliches Aktivieren des Energiesparmodus auf einigen Telefonen durch Google zeigte.
+
+=== Kontrolle durch Google
+
+Wegen Googles Kontrolle über die Marke Android sowie über das Betriebssystem sind Gerätehersteller auf die Zusammenarbeit mit Google angewiesen.
+Diese Kontrolle soll Google in der Vergangenheit unter anderem genutzt haben, um zu verhindern, dass Gerätehersteller die Lokalisierungsdienste von Skyhook Wireless anstatt der Google-eigenen benutzen sowie um zu verhindern, dass Acer Geräte mit dem konkurrierenden Betriebssystem Aliyun vorstellt.
+
+=== Übermittlung privater Daten
+
+Viele Applikationen benötigen Zugang zu privaten Daten wie Kontakte, Lokalisierung sowie Telefonnummer und können diese auch übermitteln.
+Seit 2015 (Android 6.0) kann man die Zugriffsrechte in diversen Kategorien ablehnen oder gewähren.
+Diese Entscheidung kann man auch später noch einzeln ändern.
+Dafür zeigt Android eine Liste aller Rechte an, die eine App anfordert, oder alternativ eine Übersicht aller Apps, die ein bestimmtes Recht anfordern.
+Apps müssen darauf vorbereitet sein, dass der Benutzer ihnen nicht alle Rechte gewährt, und müssen die restlichen Funktionen trotzdem bereitstellen.
+Custom-ROMs wie z. B. LineageOS (früher CyanogenMod) bieten schon länger ein weitergehendes Datenschutzmanagement.
+
+Darüber hinaus gibt es auch Hilfsprogramme ("Tools") gegen die zahlreichen Apps, die deutlich mehr Berechtigungen anfordern und Daten übermitteln, als für ihre Funktion notwendig wäre.
+Diese liefern den Apps falsche Daten und lassen sie so in dem Glauben, sie hätten die Zugriffsrechte bekommen.
+Dafür benötigen sie jedoch Root-Rechte.
+
+Beim Kauf schon vorinstallierte Apps können deaktiviert werden, sodass sie im System nicht mehr aktiv sind.
+Vorinstallierte Apps, die keinen unmittelbaren Nutzen haben (und meist vom Smartphone-Hersteller installiert wurden), bezeichnet man als Bloatware.
+
+Applikationen mit Berechtigung zum Internetzugriff können Dateien der SD-Karte ins Internet hochladen.
+Sehr viele Spiele fordern das Recht "Konten auf dem Gerät suchen" an.
+Mit diesem Recht kann z. B. die E-Mail-Adresse des Google-Kontos gelesen und können über Google+ persönliche Informationen abgefragt werden.
+Auch hinterlegte E-Mail-Adressen, Facebook- und Twitter-Konten können ermittelt werden.
+Das Recht "WLAN-Verbindungen abrufen" entspricht in seiner Wirkung dem Zugriff auf den Standort über GPS, da unter anderem Google die SSIDs in frei abfragbaren Geodatenbanken speichert.
+
+Alle installierten Apps können theoretisch auch auf das Clipboard zugreifen und die dort abgelegten Daten ins Internet übertragen.
+
+Im August 2018 wurde von der Verleger-Organisation "Digital Content Next" eine Studie veröffentlicht, nach der ein nicht bewegtes Android-Smartphone mit im Hintergrund laufendem Chrome-Browser innerhalb von 24 Stunden rund 340 Mal Standortinformationen an Google versendet.
+Zudem soll Google anonymisiert erhobene Informationen mit persönlichen Nutzerdaten verknüpfen können, so der federführende Professor Douglas Schmidt von der Vanderbilt University.
+
+=== Schadsoftware
+
+Mit seinem ständig steigenden Verbreitungsgrad wird Android für Schadsoftware-Autoren immer interessanter.
+Insbesondere die Möglichkeit, ungeprüfte Apps von Drittanbietern zu installieren (dazu ist die Zustimmung der Nutzer erforderlich), erhöht die Gefahr.
+Google prüft seit Anfang 2012 alle Apps im Play Store automatisch.
+Daher ist man, wenn man Apps nur von dort installiert, relativ sicher; es sind jedoch auch Fälle von Schadsoftware-Verbreitung über den Play Store bekannt.
+Weitere Sicherheit bietet das in Android standardmäßige Sandboxing:
+Alle Apps laufen getrennt in einer virtuellen Maschine.
+Angeforderte Berechtigungen der Apps werden angezeigt und bedürfen der Zustimmung der Nutzer.
+
+Diverse Anbieter von Sicherheitssoftware stellen Sicherheits-Apps mit mehr oder weniger guten Resultaten zur Verfügung.
+Diese Hersteller sind es auch, die oftmals laut und medienwirksam auf eine "Bedrohung" aufmerksam machen, um ihre Produkte zu vermarkten.
+Eine weitere Art der Bedrohung über den in den neuesten Geräten vorhandenen Nahbereichsfunk NFC wurde von einem Sicherheitsspezialisten auf der Hackerkonferenz Black Hat 2012 vorgeführt.
+
+=== Verfügbarkeit aktueller Versionen für vorhandene Geräte
+
+Android-Smartphones werden oft mit einer älteren Betriebssystem-Version verkauft.
+Meist haben Hersteller gegenüber den Kunden keine vertraglichen Verpflichtung, neueste Versionen auszuliefern.
+Den einwandfreien Betrieb der Geräte im Auslieferungszustand muss der Verkäufer sicherstellen, nicht der Hersteller.
+Daher obliegt es dem Hersteller, ob er den hohen Aufwand der Update-Auslieferung betreibt oder nicht.
+Dass viele Mobiltelefone aktuelle Android-Versionen spät oder gar nicht erhalten, wird von Kunden und Verbraucherschützern scharf kritisiert, da Apps für Bank- und Krankenkassen-Anwendungen eine sichere Gerätetechnik erfordern.
+
+Auf der Entwicklerkonferenz Google I/O im Mai 2011 betonte Google, viele Hersteller würden bei jedem neuen Gerät mindestens 18 Monate lang die aktuellsten Android-Version bereitstellen.
+Jedoch gab es kurz darauf Meldungen, dass Hersteller diese Selbstverpflichtung brechen.
+Auf der Konferenz Google I/O im Juni 2012 veröffentlichte Google ein Platform Development Kit, das es Herstellern frühzeitig ermöglicht, neue Android-Versionen auf ihre Hardware zu portieren.
+
+Da die Quelltexte von Android und des Linux-Kernels veröffentlicht werden, können und dürfen auch herstellerunabhängige Entwicklergruppen "inoffizielle" Android-Portierungen als Custom-ROMs bereitstellen.
+Welche Geräte davon profitieren, bestimmt die Motivation der Entwickler und die Verfügbarkeit hardwarenaher Software-Komponenten und Dokumentationen, vor allem Treiber.
+
+Googles Geräte der Nexus- und Pixel-Reihe erhalten Android-Aktualisierungen zeitnah über 18 Monate.
+Im Zuge der Stagefright-Sicherheitslücke gab Google im August 2015 bekannt, dass Nexus-Geräte künftig monatlich Sicherheitsupdates für drei Jahre nach Erscheinen des Geräts erhalten, unabhängig von Updates der Android-Plattform, die für etwa zwei Jahre verteilt werden sollen.
+
+=== Verschlüsselung
+
+Bei Android-Smartphones mit Qualcomm-Chipsatz lässt sich mit Hilfe extrahierter Informationen und der Brute-Force-Methode das verwendete Passwort knacken und damit die Gerätevollverschlüsselung aushebeln.
+Ursache ist, dass der Prozess der Schlüsselerstellung durch Software bestimmt wird.
+Ab Android 7 bzw. Verpflichtend ab Android 10 muss jedoch die sog. FBE (Dateibasierte Verschlüsselung) verwendet werden, was diese Sicherheitslücke behebt.
+
+== Patentstreitigkeiten
+
+Google wurde beschuldigt, mit Android eine große Anzahl von Patenten anderer Firmen zu verletzen.
+Infolgedessen kam es seit 2009 weltweit zu einer Reihe von Rechtsstreiten mit Geräteherstellern.
+Microsoft hat mit den drei Auftragsfertigern Quanta, Wistron und Compal sowie den Herstellern Samsung, HTC, Acer, ViewSonic, Onkyo, General Dynamics, Itronix und Velocity Micro Lizenzverträge abgeschlossen und verdient dadurch Schätzungen zufolge zwischen 3 und 12,50 US-Dollar pro verkauftem Android-Gerät, insgesamt etwa 500 Mio. US-Dollar im Geschäftsjahr 2012.
+
+Zudem wurde Google im August 2010 von Oracle verklagt, weil Android Patent- und Markenrechte von Java verletzen würde.
+Den Rechtsstreit konnte Google in erster Instanz für sich entscheiden.
+Das Berufungsgericht gab Oracle jedoch recht und erkannte darauf, dass Urheberrechte an Java-APIs verletzt worden seien.
+Der von Google angerufene Oberste Gerichtshof der Vereinigten Staaten gab am 5. April 2021 die Entscheidung bekannt, dass die Verwendung der Java-APIs in Android durch die Fair-Use Doktrin gedeckt sei und hob die Entscheidung des Berufungsgerichts zu Gunsten von Google auf.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+Inoffizielle apk-Downloader für den Google Play Store
+
+.NET-Compiler für Android
+
+== Einzelnachweise
+

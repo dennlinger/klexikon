@@ -1,0 +1,107 @@
+Die Woche ist heute in fast allen Kulturen eine gebräuchliche Zeiteinheit von sieben Tagen.
+Sie ist allerdings in den meisten Ländern weder eine gesetzliche Einheit noch eine physikalische Maßeinheit im Sinne von Einheitensystemen.
+Dennoch können nach dem deutschen Bürgerlichen Gesetzbuch (z. B. § 188 Abs. 2) und dem schweizerischen Obligationenrecht (Art. 77 Abs. 1 Ziff.
+2 OR) Fristen in Wochen angegeben werden, wobei in Deutschland die Woche meist als Montag 0:00 Uhr bis Sonntag 24:00 Uhr definiert wird (§ 21a Arbeitszeitgesetz).
+
+Nach der 1975 von der Internationalen Organisation für Normung (ISO) aufgestellten Empfehlung haben die Wochentage seit Januar 1976 die folgende Reihenfolge: Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag/Sonnabend und Sonntag.
+
+Nach jüdischer und christlicher Tradition beginnt die Woche mit dem Sonntag.
+Genauso wird es heute auch in den USA, in Israel, in arabischen Ländern sowie in Japan und China gehandhabt.
+Auch die deutsche Bezeichnung "Mittwoch" bezieht sich auf einen Wochenbeginn am Sonntag und nicht am Montag.
+Jedoch vermerken die Kalender der meisten europäischen Staaten den Montag als ersten Tag der Woche, wie in der Norm ISO 8601 vorgesehen.
+Nach altpersischer Tradition beginnt die Woche mit dem Samstag.
+
+In Deutschland war ab 1943 die DIN-Norm DIN 1355 gültig, die 1975 mit Wirkung ab 1976 geändert wurde, dann 1992 in die EN 28601 aufging und im September 2006 von der derzeit gültigen ISO 8601 abgelöst wurde.
+
+== Etymologie
+
+Das Wort Woche ist verwandt mit den Wörtern Weichen und Wechsel.
+
+== Sieben-Tage-Woche
+
+=== Ursprünge
+
+Die Zusammenfassung von sieben Tagen zu einer Einheit von einer Woche kann mit der Länge eines Monats (Mondes) erklärt werden, der etwas mehr als 28 Tage umfasst.
+Die vier Mondphasen (Neulicht nach Neumond, zunehmender Halbmond, Vollmond, abnehmender Halbmond, Neumond) erlauben dann eine naheliegende Einteilung der 28 Monatstage in vier Wochen zu je sieben Tagen.
+Eine alte Namensgebung und Reihenfolge der Wochentage stammt aus Babylonien und Ägypten, wo bereits im Alten Reich (3. Jahrtausend v. Chr.) der Monat in die vier Mondphasen eingeteilt und damit verbunden religiöse Opfer dargebracht wurden.
+Jedem Tag wurde dabei eine Gottheit zugeordnet, und jedem der damals bekannten beweglichen Himmelsobjekte (Sonne, Mond, Mars, Merkur, Jupiter, Venus und Saturn) wurde ein Wochentag zugeordnet.
+
+In semitischen Sprachen beruht das Wort für Woche (hebräisch  schawua, arabisch ) auf demselben Wortstamm wie die Bezeichnung für die Zahl Sieben, ebenso war sa-ba-tu in der babylonischen Sprache die Bezeichnung für den siebten Tag nach Neulicht.
+
+In den ältesten schriftlichen Tora- und damit auch Bibel-Überlieferungen (5. Jahrhundert v. Chr.) wird explizit eine Sieben-Tage-Woche genannt, wobei die ersten sechs Tage mit Nummern bezeichnet werden, der siebte Tag hingegen als allgemeiner "Ruhetag" herausgehoben ist, siehe dazu Gen 2,2 EU.
+Dabei bleibt bislang ungeklärt, ob die Überlieferung der Tora von Anfang an mit der Sieben-Tage-Woche verbunden war oder ob zwei ursprünglich getrennte Überlieferungen erst später miteinander verbunden wurden.
+Die Bezeichnung Sabbat für den "Ruhetag" ist dagegen erst sehr viel später bezeugt.
+Die Namensherleitung ist ebenfalls nicht klar.
+Die moderne Forschung diskutiert einerseits die Herkunft vom hebräischen Begriff sbt ("aufhören, von der Arbeit ablassen, feiern") und andererseits die babylonische Entsprechung sapattu (Mondfest).
+Gemäß der christlichen Tradition feiern die meisten Christen den ersten Tag der Woche, den Sonntag (Tag der Sonne; Tag, an welchem dem Sonnengott Opfer dargebracht wurden), als Gedächtnistag der Auferstehung Jesu von Nazareth.
+Das Gebot der Sabbatheiligung wird in diesem Sinne umgedeutet ("Du sollst den Feiertag heiligen.").
+
+In der Antike gelangte im Rahmen des ägyptisch-babylonischen Zodiaks die Einteilung zu den Griechen und Römern.
+Diese Namenstradition erfuhr schon früh den weiteren Transfer bis nach Indien und Japan (Siehe auch japanische Wochentage).
+
+=== Offizielle Einführung
+
+Wann und von wem die noch heute übliche Zählung der Wochentage zum ersten Male festgelegt wurde, kann nicht zurückverfolgt werden.
+
+Unsere heutige Siebentagewoche löste unter orientalischem Einfluss das altrömische Nundinum ab, evtl. maßgeblich durch die Kalenderreform des Gaius Iulius Caesar im Jahre 45 v. Chr.
+Rechtlich kann die Verbindlichkeit der 7-Tage-Woche allerdings erst mit Kaiser Konstantin ab 321 n. Chr. in der Gesetzgebung zur Arbeits- und Gerichtstagsfreiheit des Sonntags festgemacht werden.
+
+Es gibt keine Hinweise, dass die Abfolge der sieben Wochentage seit ihrer Einführung jemals unterbrochen worden wäre, auch nicht durch die Kalenderreform des gregorianischen Kalenders.
+Damit stellt sie den regelmäßigsten Bestandteil des julianischen sowie des gregorianischen Kalenders dar.
+
+== Kalenderwoche 
+
+Das Kalenderjahr umfasst mindestens 52 Wochen, die v. a. im Geschäftsleben als Kalenderwochen (KW) durchnummeriert werden, wobei es für die Wochen-Nummerierung verschiedene Definitionen gibt.
+Je nach angewandter Regel kann die erste Woche eines Jahres unterschiedlich festgelegt sein:
+
+=== Zählweise nach ISO 8601
+
+Die Kalenderwoche ist nach ISO 8601 so definiert:
+
+Weitere Eigenschaften dieser Zählweise sind:
+
+In Deutschland führte das Deutsche Institut für Normung mit der DIN 1355-1 zum 1. Januar 1976 eine entsprechende Zählweise mit Montag als ersten Wochentag in Deutschland ein.
+In der Vorgängerversion DIN 1355 von 1943 fing die Woche noch am Sonntag an.
+In Kalendern für den deutschsprachigen Raum wird die Kalenderwoche stets nach ISO 8601 gezählt, auch wenn manchmal der Sonntag als Wochenanfang dargestellt wird.
+
+Im März 1975 wurde vom DIN für die Bundesrepublik Deutschland empfohlen, dem Wochentag Montag die Ordnungszahl 1 zuzuordnen (DIN 1355); daraus hat sich die Gepflogenheit entwickelt, den Montag als ersten Tag der Woche und somit den Wochenbeginn anzusehen.
+Vorher hatte es im deutschen Normenwerk seit Januar 1943 die Regelung gegeben:
+"Eine Woche beginnt am Sonntag um 0:00 und endet am darauffolgenden Sonnabend um 24:00".
+In der DDR trat diese Änderung bereits im Jahr 1969/1970 in Kraft.
+1978 beschloss auch die UNO, dass der Montag international als der erste Tag der Woche gelten solle.
+
+Beispiele:
+
+=== Berechnung in den USA und vielen anderen Ländern
+
+In weiten Teilen der Welt (beispielsweise Nordamerika, Australien) hat sich die jüdisch-christliche Tradition erhalten, den Sonntag als ersten Tag der Woche zu rechnen.
+In den USA und Ländern, die ebenfalls das dort gültige Schema verwenden, gelten folgende Regeln:
+
+Daraus lassen sich wiederum einige Eigenschaften ableiten:
+
+Eine abgewandelte, in den USA allerdings weder standardisierte noch übliche, Form dieses Berechnungsschemas verwendet ähnlich wie beim DIN-Schema nur volle Wochen und legt als erste Kalenderwoche diejenige fest, die den 1. Januar enthält.
+In diesem Fall können dann die Tage nach dem letzten Dezembersamstag bereits zur ersten Kalenderwoche des Folgejahres gehören, während eine 54. Kalenderwoche niemals auftritt.
+
+Im US-amerikanischen Geschäftsleben und in der dortigen öffentlichen Kommunikation werden Kalenderwochen in Form fortlaufender Nummern wie oben allerdings selten benutzt.
+Stattdessen wird eine Woche meistens durch ihren Montag bezeichnet, z. B. week of June 20.
+
+=== Weitere Berechnungsvarianten
+
+Im Portugiesischen werden die Wochentage außer Samstag und Sonntag durchgezählt, wobei der Montag der zweite und der Freitag der sechste Tag ist.
+Das bedeutet, dass der Samstag (Sabbat) als siebter Wochentag gerechnet wird.
+Ebenso ist es in Japan (siehe Japanische Zeitrechnung, Wochentage).
+In China werden die Wochentage von Montag (1) bis Samstag (6) durchgezählt und entsprechend benannt, der Sonntag ist jedoch nicht der Tag sieben, sondern der "Himmelstag".
+
+== Dauerkalender
+
+== Andere Systeme kurzer Zeitabschnitte
+
+Das System der Sieben-Tage-Woche hat sich heute in allen bevölkerungsmäßig großen Kulturen, wie das Rechnen mit zehn Ziffern, durchgesetzt.
+In früheren Kulturen gab es aber auch andere Systeme der Tageszählung:
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

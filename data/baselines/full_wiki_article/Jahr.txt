@@ -1,0 +1,73 @@
+Das Jahr (althochdeutsch jar, lateinisch annus, altkirchenslawisch o) ist eine Zeitdauer, die je nach Definition eine unterschiedliche Länge hat:
+Aus Sicht des physikalischen Messwesens stellt ein "Jahr" (ohne Präzisierung der Bemessungsgrundlage) keine Maßeinheit dar, im Internationalen Einheitensystem wird ein Einheitenzeichen a (für lateinisch annus "Jahr") in gewissen Zusammenhängen toleriert.
+Eine verbindliche Norm für die Länge eines Jahres gibt es dabei nicht, die obengenannten Werte kommen aber als speziellere normative Grundlagen vor.
+In der Kalenderrechnung ist Kalenderjahr oder bürgerliches Jahr allgemein die Bezeichnung für die durchschnittliche Jahreslänge des Kalendersystems, unabhängig davon, wie Gemein- und Schaltjahre berechnet werden.
+Das Jahr (in dem Konzept 1. 1. bis 31. 12.) ist ein Kalenderjahr eines Solarkalenders in Unterscheidung zum Lunarjahr (Mondjahr) und dem Lunisolarjahr, die deutlich andere Längen haben.
+Der Ausdruck "bürgerliche Zeitrechnung" bezieht sich auf die Unterscheidung zu "physikalisch", "technisch" bzw. "astronomisch".
+Die DIN 1355-1 Norm trifft eine Aussage zu den Zeitpunkten von Beginn und Ende des bürgerlichen Jahres, nicht aber zu der dazwischen verstrichenen Zeitspanne, z. B.:
+"Das Kalenderjahr beginnt mit dem 1. Januar" "und endet mit dem nachfolgenden 31. Dezember"
+Neben dem normalen Gemeinjahr zu 365 Tagen kennt der bürgerliche Kalender Schaltjahre zu 366 Tagen.
+Damit ergibt sich die Länge eines bürgerlichen Jahres zu:
+Wobei ein Kalendertag (00:00-24:00) in der Länge im Allgemeinen dem Tag (des Internationalen Einheitensystems) zu 86.400 Sekunden (des Internationalen Einheitensystems) entspricht, im Normalfall also:
+Gelegentlich wird die kalendarische Jahreslänge auch durch das Einfügen von koordinierten Schaltsekunden verändert.
+Die Schaltsekunden werden am 30. Juni oder 31. Dezember, wenn nötig auch 31. März oder 30. September eingefügt, wodurch diese Kalendertage eine Sekunde länger sein können.
+Durch die Schalttage wird das durchschnittliche Kalenderjahr an das tropische Jahr angepasst.
+Die Schaltsekunden dienen hingegen der Anpassung des durchschnittlichen Kalendertags an den mittleren Sonnentag, durch sie wird also die Koordinierte Weltzeit UTC (coordinated universal time) mit der Universalzeit UT (universal time) und der Atomzeit TAI koordiniert.
+Das Jahr wird in 12 Monate eingeteilt.
+Diese schwanken im bürgerlichen Kalender in der Länge.
+Ein Bürgerliches Jahr dauert 52 Wochen (zu 7 Tagen) und einen oder zwei Tage.
+Eine Kalenderwoche dauert von Montag bis Sonntag und wird unabhängig vom Jahr gezählt, so dass 52 oder 53 Kalenderwochen in ein Jahr fallen können.
+Erste Kalenderwoche des Jahres ist die Woche, "in die mindestens vier der ersten 7 Januartage fallen", d. h., der 4. Januar befindet sich immer in der ersten Kalenderwoche.
+Die Kalenderjahre werden nach der ISO 8601 vom Jahr Null ausgehend fortlaufend mit der Jahreszahl nummeriert.
+Damit ist ein einzelnes Kalenderjahr eindeutig beschrieben und wird zur Grundgröße der Zeitrechnung und Teil des Kalenderdatums.
+Je nach Datumsformat wird sie zwei- oder vierstellig aufgeführt.
+Als Neujahrstag, an dem die Jahreszahl wechselt, wurde im Jahr 1691 durch Papst Innozenz XII.
+der 1. Januar festgesetzt.
+Daneben gibt es auch zahlreiche andere Wirtschaftsjahre:
+Andere Kalendersysteme verwenden sowohl andere Definition der Länge und des Beginns eines Jahres, als auch andere Bezugsdaten, also andere Jahreszahlen.
+Mitte 2006 ist zum Beispiel nach der islamischen Zeitrechnung das Jahr 1427, im jüdischen Kalender 5766, im traditionellen chinesischen Kalender  "Feuer-Hund".
+Aus historischen Gründen ist der derzeit weltweit verbreitete und - insbesondere in Europa - gesetzlich gültige Kalender, der gregorianische Kalender.
+Das gregorianische Kalenderjahr ist ein Solarkalender und orientiert sich am tropischen Jahr (Sonnenjahr).
+Im Alltag meint das "gregorianische Jahr" die Zeit von Neujahr bis Silvester.
+Die längerfristig mittlere Länge des Kalenderjahres nach dem gregorianischen Kalender (ohne Berücksichtigung der koordinierten Weltzeit):
+Die Länge errechnet sich daraus, dass nach den Schaltregeln des gregorianischen Kalenders innerhalb von 400 Jahren jeweils 97 Schalttage eingefügt werden.
+Diese Regeln versuchen, wie bei allen Sonnenkalendern, das bürgerliche Jahr der wahren Umlaufdauer der Erde um die Sonne - dem tropischen Jahr - möglichst einfach und doch hinreichend genau anzunähern (siehe = # In der Astronomie).
+Zu weiteren speziellen kalendarischen Jahren siehe die Liste der Kalendersysteme.
+Als verworrenes Jahr bezeichnet man das längste Kalenderjahr der Geschichte, das bei der Einführung des julianischen Kalenders (46 v. Chr.) auftrat, es war 445 Tage lang; siehe hierzu auch Jahr Null.
+Das kürzeste Jahr war 1582, als durch die Einführung des gregorianischen Kalenders 10 Tage übersprungen wurden.
+Das bisher längste Jahr im bürgerlichen Kalender war 1972, als Schaltjahr um einen Tag und außerdem um zwei koordinierte Schaltsekunden länger als üblich.
+Mehr als eine Schaltsekunde in einem einzigen Jahr waren seither nie mehr nötig und werden absehbar nicht vorgesehen sein.
+Die Zeit zwischen zwei Naturereignissen als Jahr zu bezeichnen, entspricht dem ursprünglichsten und intuitiven Konzept von Jahresablauf als Zyklus der Jahreszeiten.
+Hierbei kann es sich etwa um den Zeitraum zwischen zwei Frühlingshochwässern eines Stromes handeln, um bestimmte Vogelzüge, agrarische Ereignisse oder den ersten Frost.
+Definitionen in diesem Sinne sind:
+Für erdgeschichtliche Datierungen ist der Nullpunkt des Kalenders irrelevant, hier gibt man Jahre im Allgemeinen in ,Jahrmillionen vor heute' an: million years ago (mya), daneben ist auch bya für billion years ago, ,Jahrmilliarden vor heute' möglich.
+Zeitspannen werden dann in Ma (Megajahren) angegeben, in englischen Sprachraum auch mit yr anstelle von a.
+Ohne weitere Zusätze ist mit "Jahr" das Sonnenjahr gemeint:
+"Umlauf" ist eine Frage der Bezugspunkte, die sich aber aufgrund der komplexen Kräfte- und Bewegungsverhältnisse im Sonnensystem laufend verschieben, daher gibt es einige ganz spezielle Definitionen.
+Die genauen Längen sind kurz- und mittelfristigen periodischen Schwankungen unterworfen, deshalb werden im Folgenden Mittelwerte angegeben.
+Auch diese sind langfristigen ("säkularen") Änderungen unterworfen, deshalb muss für große Genauigkeit ein Bezugsdatum angegeben werden.
+Im Folgenden ist dies die Standardepoche J2000.0.
+Das Besselsche Sonnenjahr war die Grundgröße der veralteten Bessel-Epoche.
+Es entspricht in der Länge dem Tropischen Jahr.
+Im Prinzip wird allgemein die Zeitspanne zwischen zwei Wiederholungen eines Ereignisses, das mit dem Orbit eines beliebigen astronomischen Objektes um seinen Zentralobjekt zusammenhängt, also jeder vollständige Umlauf, als Jahr bezeichnet.
+Ein Umlauf der Erde um die Sonne ist in diesem Sinn ein Erdjahr.
+Unabhängig davon wird in der Astronomie die Bezeichnung "Jahr" auch als Zeitmaß gebraucht.
+In diesem Fall ist damit eine Zeitspanne von 365,25 Tagen zu 86400 Sekunden gemeint, die durchschnittliche Dauer eines Jahrs im julianischen Kalender.
+Der Grund dafür ist, dass diese Einheit einerseits recht genau mit der Dauer eines Sonnenjahrs übereinstimmt und man andererseits einfach damit rechnen kann.
+Für langfristige Berechnungen werden auch die Einheiten Julianisches Jahrhundert (36525 Tage) und Julianisches Jahrtausend benutzt.
+Das bedeutet jedoch nicht, dass Astronomen den julianischen Kalender benutzen würden.
+Für Datumsangaben verwenden sie den üblichen bürgerlichen (d. h. gregorianischen) Kalender oder das julianische Datum.
+Siehe auch:
+In Unterscheidung zu den anderen Definitionen beziehen sich manche Angaben über Jahre auf individuelle chronologische Eckdaten, also bestimmte, persönliche Ereignisse.
+Diese orientieren sich nicht an der zyklischen Zeitrechnung des Kalenders, sondern an der linearen Zeitrechnung eines Menschenlebens.
+Jahre, die dem Gedenken an einen Menschen oder der Erinnerung an ein Ereignis dienen.
+Hierzu zählen die Bezugsdaten der Jahrrechnung mancher Kalendersysteme (dynastische Kalender) nach dem Regierungsantritt eines Herrschers, im weiteren Sinne das Jahr Eins der meisten Kalendersysteme.
+Das julianische Jahr ist eine vom Jahresbegriff hergeleitete Maßeinheit der Zeit und entspricht einer Zeit von exakt 365,25 Tagen.
+Sie entspricht dem Mittelwert der Jahreslängen im julianischen Kalender und ist im Unterschied zum julianischen Kalenderjahr eine exakte, gleichbleibende Maßeinheit.
+Verwendung findet sie im Bereich der Astronomie, wenn dort allgemein von einem "Jahr" gesprochen wird.
+Jahre werden zusammengefasst zu einem Jahrzehnt (Dekade), Jahrhundert (Hektode), Jahrtausend (Millennium).
+Jahrzehntausend (Dekamillennium), Jahrhunderttausend (Hektamillennium).
+In den Naturwissenschaften, speziell in der Geologie und der Kosmologie, werden in Jahren gemessene Zeitabschnitte auch mittels der Vorsätze für Maßeinheiten angegeben:
+Jahr und Tag ist ein mittelalterlicher Rechtsbegriff.
+Es handelt sich dabei um die Maximalfrist nach dem alten Dingrecht.
+Sie entstand dadurch, dass man der Jahresfrist noch nach der örtlichen Praxis eine Anzahl von Tagen beifügte.

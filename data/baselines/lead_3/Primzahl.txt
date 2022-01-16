@@ -1,0 +1,3 @@
+Eine Primzahl (von lateinisch numerus primus ,erste Zahl') ist eine natürliche Zahl, die größer als 1 und ausschließlich durch sich selbst und durch 1 teilbar ist.
+Dabei bedeutet primus speziell "Anfang, das Erste (der Dinge)", sodass eine "Anfangszahl" gemeint ist, die aus keiner anderen (vorhergehenden) Zahl multiplikativ konstruiert werden kann.
+Die Menge der Primzahlen wird in der Regel mit dem Symbol P {\displaystyle \mathbb {P} } bezeichnet.

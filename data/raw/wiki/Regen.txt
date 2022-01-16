@@ -1,0 +1,440 @@
+Regen bezeichnet ein Wetterereignis und die am häufigsten auftretende Form von Niederschlag.
+Regen besteht aus Wasser, das als Dampf in Wolken gespeichert war und nach dem Kondensieren in Tropfen zur Erdoberfläche herunter fällt.
+
+Regentropfen binden Staub und Aerosole, die in die Atmosphäre aufgestiegen sind.
+Diese Bestandteile bestimmen den pH-Wert des Regens.
+
+Die Regenformen werden nach Entstehung, Dauer, Intensität, Wirkung und geografischem Vorkommen unterschieden.
+
+Fester Niederschlag, z. B. Hagel, Graupel oder Schnee, besteht aus gefrorenem Wasser und Kondensationskeimen und tritt auch gemischt mit Regen auf.
+
+== Etymologie
+
+Das gemeingerm.
+Wort mhd. regen, ahd.
+regan ist unklarer Herkunft.
+
+== Entstehung
+
+Die Kondensation des Wasserdampfes in der Atmosphäre tritt durch Abkühlung und durch Aerodynamik ein.
+Zusätzlich bestimmen der Staubgehalt und die Aerosole den Taupunkt abweichend vom Phasendiagramm der theoretischen Thermodynamik.
+
+=== Allgemein
+
+Ausgangspunkt jedes Regens sind Wolken, die aus feinen Eiskristallen oder Wolkentröpfchen (Wassertropfen mit 5 bis 10 m Durchmesser) bestehen.
+Sie bilden sich infolge der Abkühlung einer feuchten Luftmasse beim Aufstieg in der Erdatmosphäre, wenn der Taupunkt unterschritten wird.
+Je nach Höhe und herrschender Temperatur bilden sich entweder Eiskristalle an Kristallisationskeimen durch Resublimation oder Wolkentröpfchen mit Hilfe von Kondensationskeimen durch Kondensation.
+Diese Primärkörper können, in Abhängigkeit von der Aufenthaltsdauer in der Wolke, weiteren Wasserdampf, andere Wolkentropfen oder auch Eiskristalle an sich binden und dadurch anwachsen.
+Erreichen Eiskristalle eine wärmere Umgebung, so schmelzen sie wieder zu Tropfen.
+Wird das Gewicht der Tropfen so groß, dass sie weder durch die Luftreibung (Reibung im Fluid nach dem Gesetz von Stokes) noch von den in einer Wolke vorherrschenden Luftströmungen (Aufwinden) "in Schwebe" gehalten werden können, beginnen sie aufgrund der Schwerkraft langsam zu Boden zu sinken, und es entsteht der uns bekannte Regen.
+Das Zusammenwachsen vieler kleiner Wassertröpfchen zu größeren und schwereren beschleunigt diesen Vorgang und erhöht die Fallgeschwindigkeit.
+In der Regel besteht der am Boden auftreffende Regen aus Tropfen mit einem Durchmesser von 0,6 bis 3 mm.
+
+=== Tropfenwachstum in warmen Wolken
+
+Warme Wolken sind Wolken, in denen nur flüssiges Wasser vorkommt.
+Je nach Beschaffenheit der Kondensationskerne kann Wasser auch unter 0 °C flüssig bleiben; auch diese unterkühlten Wolken werden warme Wolken genannt und sind nach Definition Wasserwolken.
+
+Das Anwachsen von Wolkentröpfchen zu Regentröpfchen allein durch das Aufsammeln von Wasserdampf (Dampfdiffusion) ist wenig effizient und recht langsam.
+Daher gelten das Zusammenstoßen (Kollision) und nachfolgende Zusammenfließen (Koaleszenz) von Wolkentröpfchen als weitere entscheidende Schritte bei der Entstehung von Regen.
+Zu Kollisionen kommt es, weil große Tropfen schneller absinken als kleine.
+Dennoch kommt es nicht immer zur Kollision; häufig werden kleine Tropfen von der Luftströmung um rasch fallende große Tropfen herumgeleitet.
+Erfolgt nach einer Kollision auch Koaleszenz, so spricht man von Akkretion, also einem Anwachsen durch Aufsammeln.
+Dabei führt nicht jede Kollision zwangsläufig zur Koaleszenz.
+Man spricht in diesem Zusammenhang von Kollisions- und Koaleszenzeffizienz.
+Die Kollisionseffizienz ist für Tropfen ähnlicher Größe mit einem Radius von mindestens 30 m sehr hoch, die Koaleszenzeffizienz hingegen ist höher bei Tropfen mit unterschiedlichen Radien.
+Große Tropfen kollidieren somit häufiger, jedoch bleiben sie dabei meist unverändert, wohingegen kleine Tropfen eher mit großen zusammenwachsen.
+Das Produkt aus Kollisions- und Koaleszenzeffizienz nennt man auch Akkretionseffizienz; sie ist ein Parameter für die Regenwahrscheinlichkeit von Wolken.
+Je größer die Tropfen werden, desto schneller wachsen sie.
+Begünstigt wird dieser Prozess durch einen hohen Feuchtegehalt der Luft (Tropen, Subtropen) oder große Kondensationskerne, wie zum Beispiel in maritimen Luftmassen.
+
+=== Wachstum in kalten Wolken
+
+Wenn Wolken während ihres Lebenszyklus ganz oder nur teilweise aus Eispartikeln bestehen, so werden sie kalte Wolken genannt.
+Mischformen werden zum Teil auch als kühle Wolken bezeichnet.
+Der Wachstumsmechanismus ist jedoch gänzlich anders als in warmen Wolken.
+
+Zwischen unterkühlten Wassertropfen und dem Wasserdampf in ihrer Umgebung besteht ein Gleichgewicht.
+Wenn die Luft viel Feuchtigkeit enthält, wachsen die Tropfen an, in trockener Luft geben sie Wasser ab.
+Ein ähnliches Gleichgewicht gibt es zwischen Eiskristallen und Wasserdampf, mit dem Unterschied, dass Eiskristalle die Feuchtigkeit effizienter aufnehmen und weniger dazu neigen, sie wieder abzugeben.
+Sind in einer Wolke Eiskristalle in der Nähe unterkühlter Wassertropfen, so stellt eine Sättigung des Wasserdampfes bezüglich der Wassertropfen eine Übersättigung bezüglich der Eiskristalle dar.
+Die Eiskristalle wachsen durch Sublimation (techn.
+Resublimation) auf Kosten der Tropfen an (Bergeron-Findeisen-Prozess).
+Es folgt eine Kettenreaktion, die Eiskristalle fallen schneller und zerbrechen bei Kollision mit Wassertropfen zu Splittern, die wiederum anwachsen und somit zur Vereisung der unterkühlten Wasserwolke führen.
+Am häufigsten vereisen Wolken in einem Temperaturbereich von rund -5 °C bis -15 °C, in diesem Bereich herrscht der maximale Unterschied zwischen dem Sättigungsdampfdruck über Wasser und dem über Eis (siehe dazu auch: Kristallbildung).
+Damit es bei vereisten Wolken zu Regen (und nicht Schneefall, Graupel etc.) kommt, müssen die Eispartikel beim Sinken wieder wärmere Luftschichten passieren und tauen.
+Dabei durchqueren sie unter Umständen nochmals Schichten von Wolken mit Wolkentropfen (bei unterkühlten Wolken oder Gewitter-Wolken) beziehungsweise Wasserdampf.
+Durch Akkretion wachsen sie dort weiter an, der Prozess ähnelt dann jenem in warmen Wolken.
+
+== Messung
+
+Bei der Messung gefallenen Regens wird die Menge in Liter pro Quadratmeter oder, wie in der Meteorologie üblich, die Höhe in "Millimetern" angegeben.
+Es gilt:
+
+Ein Millimeter Niederschlagshöhe entspricht somit einem Liter Niederschlagsmenge auf einem Quadratmeter.
+Diese Angabe entspricht auch der Höhe, um die der Wasserspiegel in einem Auffanggefäß (z. B. einer leeren Konservendose) steigen würde.
+
+Der klassische Regenmesser ist daher auch ein Gefäß, das herabfallende Regentropfen auffängt.
+Aus der Wassermenge im Behälter und der Größe seiner Öffnung kann der Niederschlag berechnet werden.
+Die ersten Regenmessungen wurden vor etwa 2000 Jahren in Indien vorgenommen, in Europa verwendete man Regensammler zum ersten Mal im 17. Jahrhundert.
+In den 1670er Jahren bewies Pierre Perrault mit Hilfe eines Regenmessers den Zusammenhang zwischen Regen und der Abflussmenge von Bächen und Flüssen.
+Bei starkem Wind sind Regensammler ungenau und erfassen tendenziell zu geringe Regenmengen, da Turbulenzen Regentropfen vom Sammler wegtragen.
+Die ersten Regenmesser wurden auf Dächern montiert, heute stellt man sie in Bodennähe auf, um den Windeinfluss zu verringern.
+Größe und Form der offiziellen Regenmesser sind von Land zu Land unterschiedlich.
+Ihre Vereinheitlichung scheiterte bisher daran, dass dadurch die Vergleichbarkeit mit langjährigen Aufzeichnungen eingeschränkt würde.
+
+Neuere Methoden zur Regenmessung sind das Niederschlagsradar und Wettersatelliten, ein dichtes Netz von Regensammlern liefert allerdings genauere Werte.
+
+Weiterhin gibt es noch Regensensoren - diese dienen nicht der Messung, sondern lediglich der Steuerung technischer Prozesse.
+
+== Regenformen
+
+Abhängig von meteorologischen und geografischen Bedingungen gibt es unterschiedliche Formen von Regen.
+Die Klassifikation von Regen kann nach Dauer oder Intensität beziehungsweise nach Entstehung, räumlichen Vorkommen, Wirkung am Boden oder dem Empfinden eines Betrachters erfolgen.
+Man kann ein und dasselbe Regenereignis in verschiedene Kategorien einordnen, abhängig von der Perspektive des Beobachters - hier einige Beispiele:
+
+=== Definition nach dem primären Entstehungsprozess
+
+Im Allgemeinen entsteht Regen durch einen primären Entstehungsprozess, nach dem die Regenform benannt werden kann.
+Folgende Formen sind möglich:
+
+==== Steigungsregen (orografischer Regen)
+
+Steigungsregen (Steigungsniederschlag) oder auch Stauregen (flüssige Form orografischen Niederschlags) entsteht, wenn Wind feuchte Luft vom Meer oder Flachland an Gebirgszügen oder anderen orografischen Erhebungen (Luv-Seite) aufsteigen lässt.
+Steigungsregen kommt in den Tropen, Subtropen und gemäßigten Zonen vor.
+Er kann Stunden bis wenige Tage andauern, in seltenen Fällen auch mehrere Wochen.
+
+Die Luft wird mit zunehmender Höhe immer weiter abgekühlt, dabei sinkt jedoch auch ihre Wasserdampfkapazität und die Lufttemperatur nähert sich immer weiter dem Taupunkt.
+Zunächst kühlt sich die Luft nach dem Prinzip der trockenadiabatischen Abkühlung um ein Grad Celsius pro 100 Höhenmeter ab (adiabatisch bedeutet "ohne Wärmeaustausch mit der Umgebung", siehe Adiabatische Zustandsänderung).
+Sobald eine relative Luftfeuchtigkeit von 100 Prozent erreicht ist, kühlt sich die Luft nach dem Prinzip der feuchtadiabatischen Abkühlung nur noch um ungefähr 0,6 °C pro 100 Meter ab.
+Dabei kondensiert der Wasserdampf der Luftmasse unter Freisetzung latenter Wärme zu Wasser (Wolkentröpfchen), was zur Wolkenbildung führt.
+Je nach Intensität der Aufwärtsströmung kommt es in der Folge oft zu heftigen Niederschlägen.
+Diese konzentrieren sich an den jeweiligen orografischen Hindernissen, wo oft hohe Niederschlagsmengen erreicht werden.
+
+Nach der Thermodynamischen Föhntheorie kann der weitere Verlauf wie folgt aussehen:
+Auf der windabgewandten Lee-Seite erwärmt sich die absinkende Luft, sofern sie komplett ausgeregnet ist, wieder trockenadiabatisch um ein Grad Celsius pro 100 Meter, also schneller als die Abkühlung beim Aufstieg erfolgte.
+Das kann in tiefen Lagen zu einer wärmeren Luftströmung auf der Lee-Seite führen, die als Föhn bekannt ist.
+
+Gebirge und andere geografische Erhöhungen haben aufgrund dieser Vorgänge und allgemein vorherrschender Hauptwindrichtungen meist eine Regen- oder Wetterseite mit erhöhter Niederschlagsintensität.
+Das kann in den gemäßigten Breiten ebenfalls zur Entstehung von Regenwäldern führen, man spricht dann vom gemäßigten Regenwald.
+Die Gebiete auf der windabgewandten Seite des Gebirges erhalten weniger Niederschläge, sie liegen aufgrund des Lee-Effekts im Regenschatten.
+
+==== Konvektionsregen
+
+Konvektionsregen ist Regen aus Wolken, die sich aufgrund von Konvektionsströmungen bilden.
+Konvektionsregen kommt vornehmlich in den Tropen und Subtropen, zur warmen Jahreszeit aber auch in den gemäßigten Breiten, also auch in Deutschland, Österreich und der Schweiz vor.
+Abhängig von der geografischen Lage, kann er zwischen mehreren Minuten (Wolkenbrüche) und mehreren Tagen (Tropenregen) dauern.
+
+Bei warmer Witterung verdunsten große Mengen des im Boden oder auf Wasserflächen vorhandenen Wassers.
+Die dabei entstehenden bodennahen feuchten Luftmassen werden, aufgrund von ebenfalls durch die Wärme am Boden verursachten Luftströmungen (Wärmeströmungen), in die Höhe transportiert.
+Erreichen sie ihre Sättigung, so bilden sich Wolken.
+Die Größe und Art der gebildeten Wolken hängen von der Intensität der Strömungen, der Luftmasse und ihrer Feuchtigkeit, der Temperatur und Bodenbeschaffenheiten (Geografie) ab.
+Bei optimalen Bedingungen bilden sich so in nur wenigen Stunden oft sehr starke Konvektionsgewitter.
+Diese treten vor allem in tropischen, aber auch vielen anderen Gebieten der Erde (speziell zur warmen Jahreszeit), häufig am frühen bis späteren Nachmittag auf.
+Je nach Intensität, Anzahl der Kondensationskeime in der Luft und vorhandener feuchter Luftmassen können sich kleine Wolken oder äußerst große Gewitterwolken bilden.
+
+==== Frontregen (stratiformer Regen)
+
+Frontregen (Zyklonenregen, stratiformer Regen) entsteht in einer Warm- oder Kaltfront und kommt in den Subtropen und gemäßigten Zonen vor.
+Die Dauer des Frontregens ist unmittelbar abhängig von der Aufenthaltsdauer der Front über dem Beobachtungsstandort und von der Temperaturdifferenz an der Front.
+Frontregen wandert mit der Front mit, Frontregen tritt auch an der Rückseite von Wolkenfeldern auf, die durch Winde anderer Mitteltemperatur in ein Frontensystem geschoben werden.
+Dann setzt der Regen kurzzeitig ein, wenn kurz vor Ende der Passage des Wolkenfeldes der Himmel bereits wieder aufklart.
+
+Frontregen tritt auf, wenn warme und feuchte Luftmassen (oft aus tropischen Gebieten) auf kalte (polare) Luftmassen treffen.
+Bei einer Warmfront gleitet die leichtere Warmluft auf die schwerere Kaltluft auf, bei einer Kaltfront schiebt sich die schwerere Kaltluft unter die vorhandene Warmluft.
+
+Beim Aufsteigen kühlt sich die feuchtwarme Luft ab, der gespeicherte Wasserdampf kondensiert, Wolken bilden sich und es regnet.
+Das Entstehungsprinzip ähnelt dem des Steigungsregens, mit dem Unterschied, dass Luftmassen statt fester Hindernisse den Transport der feuchten Luft in die Höhe bewirken.
+
+=== Ergänzende Formen
+
+Diese Formen beschreiben meist die Auswirkung und das Empfinden durch den Beobachter am Boden, der primäre Entstehungsprozess wird bei der Betrachtung meist vernachlässigt.
+
+==== Dauerregen (Landregen)
+
+Als Dauerregen oder Landregen bezeichnet man ein lang andauerndes Niederschlagsereignis.
+In den gemäßigten Breiten fällt er fast ausschließlich aus Nimbostratuswolken.
+Dauerregen kann in den Tropen, Subtropen und gemäßigten Breiten beobachtet werden und mehrere Stunden bis Tage dauern, selten jedoch auch mehrere Wochen.
+In den gemäßigten Breiten tritt er meist im Zusammenhang mit einer Warmfrontpassage auf.
+Die jeweilige Definition eines Dauerregens kann je nach Klimagebiet unterschiedlich sein.
+In Mitteleuropa spricht man im Allgemeinen dann von einem Dauerregen, wenn er mit ununterbrochenen Regenfällen und einer Intensität von über 0,5 Millimeter Niederschlag pro Stunde über einen Zeitraum von mindestens sechs Stunden anhält.
+
+==== Starkregen
+
+Mit Starkregen werden in der Meteorologie große Mengen Regen bezeichnet, die in kurzer Zeit fallen.
+Diese Art des Regens ist somit nach seiner Intensität und Dauer definiert.
+Starkregen kommt in den Tropen, Subtropen und gemäßigten Breiten vor und kann von wenigen Minuten bis zu einigen Stunden dauern.
+Die folgende, allgemein gehaltene amtliche Definition:
+
+wird für den deutschen Sprachraum durch eine Berechnungsformel konkretisiert.
+Man spricht von Starkregen, wenn die Regenhöhe h {\displaystyle h} (in Millimeter) in Abhängigkeit von der Regendauer t {\displaystyle t} (in Minuten) oberhalb einer bestimmten Grenze liegt:
+
+Damit gilt ein Niederschlag als Starkregen, wenn mindestens 5 Liter auf den Quadratmeter in 5 Minuten oder mehr als 17 Liter pro Quadratmeter in einer Stunde gefallen sind.
+Starkregenereignisse können jedoch wesentlich heftiger ausfallen.
+Ereignisse bei Gewittern, bei denen in 30 Minuten 30 Liter auf den Quadratmeter fallen, sind in Mitteleuropa relativ selten, können aber unter Umständen bereits durch Überschwemmungen zu überfluteten Kellern führen.
+Je stärker und länger anhaltend diese Ereignisse sind, desto geringer ist die Wahrscheinlichkeit ihres Auftretens.
+Kurze, aber heftige Niederschläge sind wahrscheinlicher als langanhaltende kräftige Niederschläge, die in wenigen Tagen in Mitteleuropa bis zu 200 mm Niederschlag bringen können.
+Länger anhaltender Starkregen fällt in Europa insbesondere bei Vb-Wetterlagen (sprich "5 b").
+
+Beispiele: Am 3. Juli 1975 fielen in Shangdi in der Region "Innere Mongolei" in China 401 Liter auf den Quadratmeter in einer Stunde und am 26. November 1970 38 Liter Regen pro Quadratmeter in einer Minute auf Basse-Terre, einem Inselteil von Guadeloupe.
+Am 6. Juni 2011 fielen in einigen Stadtteilen Hamburgs 80 Liter Niederschlag pro Quadratmeter innerhalb von 45 Minuten.
+Am 28. Juli 2014 hat es in Münster 292 l/m^2 innerhalb von sieben Stunden geregnet.
+
+In den Tropen ist die Neigung zu Starkregen sehr hoch, insbesondere während der Regenzeit in der innertropischen Konvergenzzone.
+Auch tropische Wirbelstürme führen zu hohen Niederschlagsmengen, vor allem über dem Meer und an den Küsten.
+In vegetationsarmen Gebieten der wechselfeuchten Tropen und trockenen Subtropen können durch Starkregen ("Ruckregen") katastrophale, stark abtragende Schichtfluten ausgelöst werden.
+In Europa sind subkontinentale oder kontinentale Bereiche betroffen.
+In den Küsten- oder Seeklimaten der gemäßigten Zone treten Starkregenereignisse nur sehr selten auf.
+
+Die seit 1998 bekannten atmosphärischen Flüsse können große Wassermengen in nicht-tropische Küstengebiete der Ozeane verlagern und dort extreme Starkregen erzeugen, wie sie beispielsweise im Arkstorm-Szenario des United States Geological Survey verarbeitet werden.
+
+Im Zusammenhang mit dem weltweiten Klimawandel infolge der anthropogenen Zunahme von Treibhausgasen wird auch eine mögliche Zunahme von Starkregenereignissen diskutiert.
+Dabei zeigte sich 2011 in einer Studie des Gesamtverbandes der Deutschen Versicherungswirtschaft (GDV), dass es regionale Unterschiede gibt.
+So ist im Süden Deutschlands eine Zunahme zu beobachten, während die Zahl der Ereignisse in Norddeutschland rückläufig ist.
+2016 wurde bestätigt, dass mit steigender CO2-Konzentration in der Atmosphäre die Starkniederschläge zunehmen.
+
+==== Platzregen
+
+Platzregen bezeichnet einen Regen, der sich zeitlich und räumlich nur auf einem kleinen Gebiet abregnet.
+Er dauert meistens nur wenige Minuten und betrifft oft weniger als einen Quadratkilometer.
+Das Gebiet ist dabei durch seine Topografie nicht besonders prädestiniert für Regen, so dass es in der Regel weder vorhersehbar noch im Nachhinein erklärbar ist, warum sich diese einzelne Wolke ausgerechnet hier und jetzt abregnet, eine benachbarte Wolke aber nicht.
+Typische Wetterlagen, die das Auftreten von Platzregen befördern, sind die Rückseiten von langsam durchziehenden Kaltfronten, die noch von der Warmfront übriggebliebene Wolkenreste zum Abregnen bringen.
+Ebenso können starke Vertikalbewegungen der Luft zum Abregnen von an sich stabilen Wolken führen.
+Platzregen können sehr heftig sein (Starkregen) und sind dann schwer vom Schauer abzugrenzen.
+Im Gegensatz zu den verschiedenen Arten des Schauers ist der Platzregen aber nicht frühzeitig an seiner Wolkenentwicklung erkennbar.
+Je nach regionaler Gepflogenheit wird umgangssprachlich nicht zwischen Schauer und Platzregen unterschieden.
+In populärwissenschaftlichen Wettervorhersagen werden Platzregen oft mit Formulierungen wie "heiter bis wolkig mit möglicher lokaler Schauertätigkeit" oder "örtliche Schauerneigung" angekündigt.
+Bei Wettervorhersagen gibt es ein Symbol für Schauer und eines für Regen.
+
+==== Sprühregen
+
+Sprühregen oder Nieselregen wird nach seiner Form definiert.
+Er kommt in der Antarktis, den Tropen, Subtropen und gemäßigten Breiten vor und kann, abhängig vom Hauptereignis, Stunden bis Tage dauern.
+Sprühregen besteht aus kleinen Tröpfchen, die üblicherweise aus Stratuswolken fallen.
+Die Tröpfchen haben einen Durchmesser, der kleiner als 0,5 Millimeter ist.
+Die Sicht ist bei Sprühregen oft eingeschränkt.
+Sprühregenschauer kommen nur über der See vor, fallen aus Stratocumuluswolken und werden auch als Miniaturschauer bezeichnet.
+Bei einer Niederschlagsintensität von bis zu 0,2 Millimeter je Stunde spricht man von einem leichten, bei 0,2 bis 0,5 Millimeter je Stunde von einem mäßigen und bei über 0,5 Millimeter je Stunde von einem starken Sprühregen.
+In Österreich, insbesondere im Salzkammergut, wird ein wegen der Nordstaulage meist länger anhaltender Nieselregen auch Schnürlregen genannt.
+
+==== Unterkühlter Regen (Klareis)
+
+Unterkühlter Regen (allgemein Eisregen und Blitzeis, wie das Folgende) besteht aus unterkühlten Regentropfen, die wesentlich kälter als 0 °C sind, in flüssigem Zustand fallen und die beim Auftreffen sofort gefrieren (Klareis oder Glatteis im engeren Sinne, Glaze).
+Er wird nach seiner Form und Wirkung am Boden definiert und kann am ehesten in den Subpolargebieten, im Winter auch in den gemäßigten Breiten, vorkommen.
+
+Unterkühlte Tropfen entstehen, wenn saubere Regentropfen durch kalte und sehr reine Luftschichten fallen, wobei sie sich bis weit unter 0 °C abkühlen, jedoch mangels Kristallisationskeimen flüssig bleiben.
+Trifft so ein unterkühlter Regentropfen auf ein festes Hindernis, nutzt er dies als Kristallisationskeim und gefriert schlagartig, so dass beregnete Gegenstände schon nach kurzer Zeit von einem bis zu mehrere Zentimeter starken kompakten Eispanzer bedeckt sind.
+
+Auf Fahrbahnen führt Eisregen wie gefrierender Regen zu gefährlicher Straßenglätte, auf der selbst Autos mit Winterreifen kaum Halt finden.
+Gelegentlich kommt es nach Eisregen zum Bruch von Freileitungsmasten, wenn diese dem zusätzlichen Gewicht des Eispanzers auf den Leiterseilen nicht mehr standhalten.
+
+Treffen einige der unterkühlten Regentropfen bereits in der Luft auf Kristallisationskeime (zum Beispiel Staubkörner), ist der Eisregen mit Eiskörnern durchsetzt.
+
+Im Gegensatz zu Eis- oder gefrierendem Regen stehen bereits gefrorene Niederschläge wie Hagel, Graupel und Griesel oder Schnee.
+Diese entstehen bereits in den Wolken und fallen als fester Niederschlag zu Boden.
+
+==== Gefrierender Regen (Raueis)
+
+Gefrierender Regen (allgemein Eisregen und Blitzeis, wie das Vorhergehende) hat seinen Namen nach der Wirkung am Boden, es entsteht beim Auftreffen auf dem Boden dann plötzliches Raueis.
+
+Solche Ereignisse kommen primär in den gemäßigten Breiten und Subpolargebieten vor und können einige Minuten bis wenige Stunden dauern.
+In den Tropen und Subtropen kann gefrierender Regen nur im Gebirge auftreten.
+Gefrierender Regen hat eine Temperatur von über 0 °C, ist also nicht unterkühlt, und gefriert erst nach dem Auftreffen auf eine wesentlich kältere Oberfläche.
+Diese bildet oft ein nicht durch eine Schneedecke isolierter Boden, der über einen längeren Zeitraum hinweg bei starkem Frost bis in tiefe Lagen ausgekühlt ist.
+"Gefrierender Regen" und "Eisregen" werden oft fälschlich für bedeutungsgleich gehalten.
+Massives Glatteis auf Fahrbahnen ist in den gemäßigten Breiten oft durch gefrierenden Regen verursacht (weitaus häufiger aber durch überfrierende Luftfeuchtigkeit oder Nebel).
+Gefährlich ist gefrierender Regen auch für Flugzeuge, da die Eisschicht das Flugzeug schwerer macht (und dadurch den Verbrauch des vor dem Start wohlkalkulierten Treibstoffs und das Landegewicht erhöht) und das Tragflächenprofil verändert, was den Auftrieb der Flügel vermindert (siehe Flugzeugenteisung).
+
+==== Warmer Regen
+
+Warmer Regen ist nach seiner Wirkung am Boden (gefühlte Temperatur durch den Beobachter) definiert.
+Er entsteht, wenn tief liegende, warme und feuchte Luftmassen nur gering angehoben werden müssen, um ihre Sättigung zu erreichen und sich dabei fast nicht abkühlen.
+Dieses Phänomen kann am ehesten in den Tropen und Subtropen, in den Sommermonaten fallweise auch in gemäßigten Breiten, beobachtet werden.
+Warmer Regen tritt in gemäßigten Breiten meist bei Front- oder Steigungsregen auf.
+In den Tropen hingegen kann er sich auch unabhängig davon bilden, wenn warme, bodennahe und feuchte Luftmassen durch geringe lokale Strömungen (oder Konvektion) erneut angehoben werden.
+
+Ein wärmeres Klima soll demzufolge mehr warmen Regen nach sich ziehen, das begünstigt extremere Wetterereignisse.
+Laut einer Studie entfallen momentan rund 31 Prozent des gesamten globalen Niederschlags auf warmen Regen, in den Tropen sogar 72 Prozent.
+
+=== Lokale Formen
+
+Lokale Formen sind Regenereignisse bzw. Regenformen, die an ganz bestimmte Gebiete der Erde gebunden sind.
+
+==== Tropenregen
+
+Allgemein versteht man unter einem Tropenregen einen oft lange anhaltenden warmen Regen mit mäßiger Intensität, der in den Tropen oder Subtropen vorkommt.
+Er kann durch unterschiedliche Prozesse gebildet werden, als Hauptursachen gelten jedoch Zenitalregen der ITC und Steigungs- oder Konvektionsprozesse in der sekundären ITC, in manchen Fällen auch Ausläufer von tropischer Wirbelstürmen.
+Alexander von Humboldt beschrieb Tropenregen als Konvektionsregen, der nur innerhalb der Wendekreise vorkommt.
+Seiner und der allgemeinen Definition zufolge befinden sich tropische Regenwälder im Gebiet des Tropenregens.
+In der Literatur wird aber warmer Regen teilweise mit Tropenregen gleichgesetzt.
+
+==== Monsunregen
+
+Monsunregen wird durch den Monsun hervorgerufen und kommt vor allem im Raum des Indischen Ozeans (Indien, Bangladesch, Ost-Australien, Ostafrika, das Dhofar auf der Arabischen Halbinsel) vor.
+Die Bezeichnung Tropenregen wird oft auch für monsunartigen Regen verwendet.
+Laut Definition handelt es sich bei Monsunregen um ein langfristiges Ereignis, das nach seiner Entstehungsform am ehesten dem Stauregen zuzuordnen ist.
+Monsunregen fällt über eine Periode von mehreren Wochen.
+Dabei sind mehrere abgesetzte und wenige Stunden dauernde, intensive Regenereignisse am Tag typisch.
+Er kann jedoch als leichter Dauerregen auftreten (siehe Regionale Monsunphänomene).
+
+== Zusammensetzung
+
+Hauptbestandteil von Regen ist Wasser in flüssiger Form.
+Das Wasser kann eine Temperatur zwischen -40 °C (unterkühlt, aber nicht gefroren) und über 20 °C haben.
+Daneben kann der Regen je nach Entstehungsort weitere chemische Elemente und Verbindungen enthalten.
+Die Anreicherung des Regens mit zusätzlichen Stoffen reinigt die Luft, kann aber für das Regenwasser die Verunreinigung mit unerwünschten Substanzen mit sich bringen.
+
+Die im Regen enthaltenen Stoffe können sowohl natürlichen Ursprungs als auch anthropogen, das heißt vom Menschen verursacht, sein.
+
+Mit aufgewirbelter Gischt gelangen Na+, Cl-, Mg2+ und K+ als Seesalz-Aerosol in die Atmosphäre.
+Im Regenwasser nehmen die Konzentrationen dieser Ionen landeinwärts ab.
+Dagegen stammen Ca2+, NH4+, HCO3- und NO3- im Niederschlag überwiegend aus dem über Landoberflächen fortgewehten Staub.
+Aufgrund des gelösten Kohlenstoffdioxids hat unbelastetes Regenwasser einen pH-Wert von 5,6. In erster Linie natürlichen Ursprungs sind auch die im Regenwasser enthaltenen Spuren von Sauerstoff, Stickstoff, Ozon, Pollen und einigen organischen Verbindungen, z. B. Ameisensäure.
+
+Durch den Menschen gelangen weitere Emissionen in die Atmosphäre, wie etwa Staub, Rauch und Verbrennungsabgase aus Industrie, Verkehr und Hausbrand.
+Sie können direkt oder in Form ihrer Umwandlungsprodukte die Zusammensetzung des Regenwassers beeinflussen.
+Auch radioaktive Emissionen in Form von Partikeln und Gas können mit dem Wind verfrachtet und Tage später mit Regen aus der Luft gewaschen und niedergeschlagen werden, z. B. nach der Nuklearkatastrophe von Tschernobyl 1986 in Teilen Europas.
+
+=== Saurer Regen
+
+In den überwiegend von Menschen verursachten Emissionen kommen auch Stoffe vor, die mit Wasser eine neue Verbindung eingehen können und Regen zu einer leicht sauren Lösung machen.
+Schwefeloxide (SO2) bilden mit Wasser Schweflige Säure (H2SO3), Stickoxide (NO2) bilden Salpetersäure (HNO3).
+Bekannt ist dieses Phänomen als saurer Regen, es kann in der Regel zu etwa zwei Dritteln auf die Verunreinigung mit Schwefliger Säure und zu einem Drittel auf den Gehalt an Salpetersäure zurückgeführt werden.
+In Mitteleuropa ging die Intensität des sauren Regens seit den frühen 1980er Jahren zurück.
+An den Messstationen des deutschen Umweltbundesamts stieg der pH-Wert des gesammelten Regenwassers zwischen 1982 und 2014 von 4,1-4,6 wieder auf 5,1-5,2 an.
+
+=== Basischer Regen
+
+Als basischen Regen bezeichnet man Niederschlag, dessen pH-Wert höher ist als der pH-Wert, der sich in reinem Wasser durch den natürlichen Kohlenstoffdioxid-Gehalt der Erdatmosphäre einstellt (pH = 5,6).
+Basischer Regen ist örtlich sowie zeitlich begrenzt und stellt das Gegenstück zu saurem Regen dar.
+Ursache für basischen Regen ist zumeist die Emission von größeren Mengen Alkalienstaub in die Atmosphäre.
+Diese kann z. B. verursacht werden durch:
+
+=== Blutregen
+
+Blutregen ist Regen in Mitteleuropa, der durch Saharastaub verunreinigt ist.
+
+== Fallgeschwindigkeit
+
+Der kondensierende Wasserdampf bildet zunächst feinste Tröpfchen, die mit zunehmender Größe immer schwerer werden.
+Je nach seiner Größe hat ein Regentropfen eine unterschiedlich große Sinkgeschwindigkeit in Luft.
+In Wolken gibt es Zonen mit aufsteigenden (Aufwind) oder fallenden (Abwind) Luftströmungen.
+Ein Regentropfen fällt erst zur Erdoberfläche, wenn die Geschwindigkeit der aufsteigenden Luftströmung kleiner als seine Sinkgeschwindigkeit ist.
+Seine Auftreffgeschwindigkeit auf der Erdoberfläche hängt von seiner Sinkgeschwindigkeit und von der Luftströmung ab, in der er sich befindet.
+Einen starken Platzregen gibt es in einer fallenden Luftströmung.
+
+Das Gesetz von Stokes kann für kleine Tropfen bis 1 mm mit guter Näherung verwendet werden.
+Die Sinkgeschwindigkeit eines Tropfens mit einem Durchmesser von 1 mm beträgt ca. 6 m/s.
+Größere Tropfen verändern ihre Form aufgrund des Luftwiderstands und werden flachgedrückt, sie fallen turbulent.
+In diesem Fall ist der Strömungswiderstandskoeffizient (cw-Wert) geschwindigkeitsabhängig.
+Er verändert sich permanent während der Beschleunigung.
+Der Luftwiderstand der Tropfen nimmt mit dem Quadrat der Fallgeschwindigkeit so lange zu, bis die Gewichts- und Widerstandskräfte gleich groß geworden sind, dann fällt der Regentropfen mit (fast) konstanter Geschwindigkeit.
+
+=== Tropfenform
+
+Tropfen bis etwa 1 mm Durchmesser behalten ihre sphärische Form (Kugel), dann beginnen sie sich allerdings durch die Luftgeschwindigkeit im Fallen immer stärker zu verformen.
+Dadurch nimmt ebenfalls der Luftwiderstand weiter zu, und die Fallgeschwindigkeit bleibt nahezu konstant.
+Die Tropfengröße ist variabel (A), der größte bisher fotografierte Tropfen hatte einen Durchmesser von 9 mm, in der Regel jedoch zerplatzen Tropfen bereits ab 6 mm zu kleineren.
+Die Tropfenform ist anfangs kugelförmig (B), mit zunehmender Größe und dadurch resultierender Fallgeschwindigkeit verändert sie sich zu einem kugelschalenförmigen (fallschirmartigen, bzw. hamburgerförmigen) Körper (C).
+Diese Form kann solange beibehalten werden (D), bis der Druck (hervorgerufen durch den Luftwiderstand) an der Innenseite (das ist die der Fallrichtung zugewandte Seite) so groß wird, dass er die Oberflächenspannung des Wassers überwindet (E).
+Die maximal erreichbare Größe eines Tropfens ist somit auch von der Zusammensetzung und Temperatur des ihn bildenden Wassers abhängig.
+
+=== Berechnung
+
+Das Kräftegleichgewicht von Gewichtskraft und Reibung bei konstanter Fallgeschwindigkeit bildet den Ansatz für die Berechnung mittels Cw-Wert, oder mittels Gesetz von Stokes.
+Zur Vereinfachung werden keine Vorzeichen oder Vektoren verwendet, die Fallrichtung ist immer in Richtung Erde und der Luftwiderstand wirkt entgegen.
+Zusätzliche Einflüsse wie Luftströmungen (Auftrieb), Temperatur, Oberflächenspannung des Tropfens (Materialbeschaffenheit) oder veränderliche Form des Tropfens werden hier nicht berücksichtigt.
+
+Kräftegleichgewicht, Ansatz für folgende Betrachtungen:
+
+Folgende Größen werden dabei verwendet:
+
+Die Fallgeschwindigkeit von Partikeln bis 1 Millimeter nach dem Gesetz von Stokes ergibt sich aus folgender Kräftegleichung:
+
+Wenn  L   T {\displaystyle \rho _{\mathrm {L} }\ll \rho _{\mathrm {T} }} , dann folgt für die Geschwindigkeit:
+
+Für  T = 1000 k g / m 3 , g = 9 , 8 m / s ,  L = 17 * 10 - 6 P a * s {\displaystyle \rho _{\mathrm {T} }=1000\,\mathrm {kg/ m^{3}} ,\;g=9{,}8\,\mathrm {m/s} ,\;\eta _{\mathrm {L} }=17\cdot 10^{-6}\,\mathrm {Pa\cdot s} } und 2 r = d = 0 , 1 m m {\displaystyle 2r=d=0{,}1\,\mathrm {mm} } erhält man eine Geschwindigkeit von 0 , 32 m / s {\displaystyle 0{,}32\,\mathrm {m/s} } .
+Die Reynolds-Zahl ist dann mit
+
+eigentlich schon zu groß für die Gültigkeit der Stokesschen Gleichung.
+Mit dieser Formel lassen sich also eher Sinkgeschwindigkeiten von Aerosolen berechnen.
+
+Für die Fallgeschwindigkeit von Tropfen zwischen 0,1 Millimeter bis 3 Millimeter muss die Kräftegleichung angepasst werden.
+Je nach Gewicht und Tropfenform - die ja selbst wieder geschwindigkeitsabhängig ist - variiert der Cw-Wert hier zwischen 0,35 (Kugel) bis 1,3 (fallschirmartig oder offene Halbkugel), aus:
+
+folgt für die Geschwindigkeit:
+
+Als grobe Abschätzung empfiehlt sich folgende Faustformel: Fallgeschwindigkeit in m/s  6 * Tropfendurchmesser in Millimeter (nur in einem Bereich von 0,5 bis max. 1,5 mm Tropfengröße annähernd richtig).
+Ein Tropfen der Größe 1 mm fällt mit einer Geschwindigkeit von etwa 6 m/s  20 km/ h.
+
+== Wirkung
+
+Regen ist die häufigste Form von Niederschlag und trägt dazu bei, den Wasserkreislauf zu schließen, der für das Leben auf der Erde ein entscheidender Faktor ist.
+Langfristig tragen die durch Regen gespeisten Bäche und Flüsse ganze Gebirge ab.
+Bei entsprechenden geologischen Verhältnissen können Schluchten und Canyons entstehen.
+Regen reinigt die Luft und wäscht Staub, Pollen und sonstige Partikel aus.
+Er löst weiterhin Sauerstoff, Stickstoff, Kohlensäure, Schwefelsäure und Salpetersäure aus der Luft.
+Die gelösten Stoffe führen zu einer erhöhten Erosion und der Verwitterung von Gestein und Boden, sowie zu einer erhöhten Regenerosion bei Gebäuden, Maschinen und Anlagen (zum Beispiel an Flugzeugflügeln).
+Regen löst außerdem Mineralien aus Gestein und Boden, die als Nährstoff für Pflanzen sowie andere Lebensformen dienen.
+
+Übermäßiger Regen kann langfristig zu einer Veränderung des lokalen Klimas (Mikroklima und Mesoklima), und damit auch zu einer Veränderung von Fauna und Flora führen.
+Ebenso kann dadurch eine Abspülung (Denudation), beziehungsweise flächenhafte Erosion oder Vernässung des Bodens erfolgen.
+Kurzfristiger übermäßiger Regen kann lokal zu Sturzbächen und Überflutungen führen.
+Bei Hanglagen und im Gebirge kann er Hang- oder Erdrutsche und Gerölllawinen hervorrufen.
+
+Ausbleibender Regen führt langfristig zu Dürre und somit zu einer Veränderung des lokalen Klimas, was ebenso Veränderungen bei Fauna und Flora hervorrufen kann.
+Dieser Prozess fördert die Desertifikation.
+Durch die verringerte Regenerosion bleiben aber Bauwerke, Anlagen und Maschinen unter Umständen länger erhalten; die Pyramiden von Gizeh sind ein Beispiel für geringe Erosion über Jahrtausende.
+Kurzfristig ausbleibender Regen (Austrocknung) verändert das lokale Klima nicht und stellt somit keine Bedrohung für Fauna und Flora dar.
+
+== Kulturgeschichte
+
+=== Hydraulische Gesellschaften
+
+Karl August Wittfogel These von der Hydraulischen Gesellschaft prägte lange die Vorstellung von Gesellschaften, bei denen die Verteilung und Regulierung der Wasservorkommen und seltener Regenfälle zentral war.
+Zentral war diesen Gesellschaften ein Staatskult (mit einer mächtigen Beamten- und Priesterschaft) und zentralisierte typische Herrschaftsformen eines "Hydraulischen Despotismus".
+
+Er nannte dabei die im Altertum das chinesische Kaisertum zur Zähmung des Huang Hes, die im Punjab am Indus früh erscheinende Hochkultur, die Regulierung des Euphrat und Tigris in Mesopotamien (vgl. Babylonisches Reich), das ägyptische Pharaonentum am mittleren und unteren Nil und - mit Abstrichen - das Aztekenreich in Mexiko (vgl. Tenochtitlan) bzw. Inkareich in Peru vor ihrer Zerstörung durch den spanischen Imperialismus.
+Technische Kenntnisse, in der Wasserbewirtschaftung wie im Bereich der Astronomie (bzw. Astrologie) spielten dabei eine zentrale Rolle.
+
+In altorientalischen Regionen und Epochen wurden Gewitter und Sturm als numinose Gewalt empfunden, mit wichtigen Unterschieden in der jeweiligen Mythologie.
+So spielte der Wettergott im vom Bewässerungsfeldbau geprägten Babylonien weniger eine Rolle als Regenspender, sondern stärker als Herr der Stürme.
+In den stärker vom Regenfeldbau geprägten Gebieten des Alten Orients, also in Obermesopotamien, Syrien, Anatolien und auch in Assyrien, nahm er eine bedeutendere Stellung unter den großen Gottheiten ein als in Babylonien.
+
+In China war der Regen Symbol für Fruchtbarkeit und Zeugung.
+Nach alten mythologischen Vorstellungen erzeugte ihn der Drache mit Hilfe von Bällen.
+Unter Wolken-und-Regen-Spiel verstand man damals in China auch die geschlechtliche Vereinigung von Mann und Frau.
+
+=== Regenmacher und Hagelabwehr
+
+Der Beginn der modernen Wetterkunde wird auf den Bau des ersten Thermometers durch Galileo Galilei um 1600 datiert.
+Zuvor versuchte man dem erhofften Niederschlag auch durch magische Praktiken nachzuhelfen; ein Beispiel dafür sind die Regentänze verschiedener afrikanischer und indigener Völker.
+Der Regenmacher ist ein in Chile solchen Praktiken entstammendes Musikinstrument.
+Scherzhaft wird die seit dem letzten Jahrhundert beschriebene technische Regenerzeugung durch mit Hagelfliegern verbreitetes Silberjodid auch so genannt.
+Bei den Olympischen Sommerspielen in Peking 2008 wurde Silberiodid mit Hilfe von Raketen in Regenwolken eingebracht, um diese an der Störung der Eröffnungsfeierlichkeiten zu hindern.
+In Deutschland wird die Regenerzeugung im Landkreis Rosenheim und in Österreich in der Süd-, West- und Ost-Steiermark regulär zur Hagelabwehr verwendet.
+In Thailand spielt die auf eine Initiative von König Bhumibol zurückgehende Erzeugung von Fon luang (Thai: , königlicher Regen) eine zentrale Rolle im Verhältnis zur dortigen Monarchie.
+
+=== Volkskundliche Aspekte
+
+In Deutschland ist Münster für sein häufig regnerisches Wetter bekannt.
+Obwohl die Niederschläge im Jahresmittel nicht aus der Reihe fallen, gilt als sprichwörtlich "In Münster regnet's, oder es läuten die Glocken, und wenn beides ist, ist Sonntag".
+Darüber hinaus wird mit meimeln im lokalen Dialekt Masematte ein flüchtiger leichter Dauerregen bezeichnet.
+Im niederbayrischen Regen wird gegenüber dem lokalen Rivalen Zwiesel gern angeführt:
+"In Zwiesel konns reign, aba in Reign konns nit zwieseln.
+" Sprichwörtlich wird überregional "Auf Regen folgt Sonnenschein" verwendet.
+Im Mittelalter hielt sich die Theorie, dass Blattläuse im Sommer durch Regen, den sogenannten Neffenregen, gehäuft Nutzpflanzen befielen.
+
+In Österreich ist insbesondere Salzburg und das angrenzende Salzkammergut für seinen lang anhaltenden Schnürlregen bekannt.
+
+Im insbesondere katholischen Christentum gilt der Heilige Georg als einer der Vierzehn Nothelfer und ist unter anderem für gutes Wetter zuständig, die Tradition der Georgiritte geht unter anderem darauf zurück.
+Eine zentrale Rolle als Hoffnungssymbol und besondere Naturerscheinung spielt in vielen Kulturen der Regenbogen, im Christentum als zentrale Verheißung Gottes, die Sintflut nicht zu wiederholen und den Bund mit den Menschen zu erneuern.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,181 @@
+Das Kilogramm (im allgemeinen Sprachgebrauch auch der oder das Kilo) ist die im internationalen Einheitensystem (SI) verwendete Maßeinheit für die Masse.
+Das Einheitenzeichen des Kilogramms ist kg.
+Die Definition des Kilogramms basiert auf einem zahlenmäßig festgelegten Wert der Planckschen Konstanten und den Definitionen von Meter und Sekunde.
+
+Ursprünglich sollte ein Kilogramm der Masse von einem Liter Wasser entsprechen.
+Da sich eine solche Definition nicht für genaue Messungen eignet, wurden Prototypen hergestellt und im Sinne einer Maßverkörperung als Definition gewählt, die bis zur aktuellen Definition eines Kilogramms über Naturkonstanten gültig war.
+Jede neuere Definition wurde so gewählt, dass sie jeweils innerhalb der Messgenauigkeit der zuvor geltenden Definition lag.
+
+Der Einheitenname des Kilogramms weicht von der Systematik des Internationalen Einheitensystems dadurch ab, dass er mit einem SI-Vorsatz, dem "Kilo", beginnt; deshalb dürfen dezimale Teile und Vielfache des Kilogramms nicht vom Kilogramm ausgehend mit Vorsätzen oder Vorsatzzeichen gebildet werden, stattdessen leitet man sie vom Gramm ab.
+
+== Definition
+
+"Das Kilogramm, Einheitenzeichen kg, ist die SI-Einheit der Masse.
+Es ist definiert, indem für die Planck-Konstante h der Zahlenwert 6.62607015e-34 festgelegt wird, ausgedrückt in der Einheit Js, die gleich k g m 2 s {\textstyle \ {\frac {\mathrm {kg} \,\mathrm {m} ^{2}}{\mathrm {s} }}} ist, wobei der Meter und die Sekunde mittels c {\displaystyle c} und  v C s {\displaystyle \Delta \nu _{\mathrm {Cs} }} definiert sind."
+
+Die Definitionen der SI-Einheiten von 2019 schreiben nicht vor, in welcher Form oder mit welchen experimentellen Methoden die Realisierung der Einheit erfolgt.
+Das zuständige Beratungsgremium des BIPM - Consultative Committee for Mass and Related Quantities (CCM) - legt in einer mise en pratique fest, welche Methoden zur Realisierung des Kilogramms anerkannt sind.
+Zur Zeit sind dies die Watt-Waage und die XRCD-Methode, siehe unten.
+
+== Geschichte
+
+=== Ursprung
+
+Im Zuge der durch die französische Nationalversammlung ab 1790 betriebenen Schaffung eines einheitlichen und universellen Einheitensystems wurden von einer Gelehrtenkommission (Borda, Condorcet, Laplace, Lagrange und Monge) als Masseneinheiten die Massen von einem Kubikmeter, einem Kubikdezimeter und einem Kubikzentimeter Wasser vorgeschlagen.
+Ein Meter sollte abweichend von der Vorlage der Nationalversammlung, die von der Länge eines Sekundenpendels ausgegangen war, ein Zehnmillionstel der Erdmeridianlänge vom Nordpol zum Äquator sein.
+Dazu sollte insbesondere die Entfernung von Dünkirchen nach Barcelona entlang eines Erdgroßkreises gemessen werden.
+
+=== Französisches nationales Einheitensystem
+
+Da die zur Festlegung notwendige Meridianvermessung, die von Mechain und Delambre vorgenommen werden sollte, durch verschiedene Kämpfe und Kriege verzögert wurde, beschloss die Nationalversammlung am 1. August 1793 auf der Basis älterer Daten zunächst vorläufige Einheiten unter den Bezeichnungen Bar (Tonne), Grave (Kilogramm) und Gravet (Gramm).
+Sie konnten mit den Vorsätzen Deci- und Centi- verwendet werden.
+Am 18. Germinal 3 (7. April 1795) wurden Bar und Grave gestrichen und das Gravet in Gramm umbenannt, größte Masseneinheit war damit das Myriagramm gleich zehn Kilogramm.
+Gleichzeitig wurde erstmals die Wassertemperatur für die Definition des Gramms festgelegt: auf den Gefrierpunkt.
+Am 4. Messidor VII (22. Juni 1799) wurden dem Gesetzgeber die in Platin gefertigten Maßverkörperungen von Meter und Kilogramm übergeben, die auf der abgeschlossenen Messung beruhten.
+Aus metrologischen Gründen (Stabilität der Dichte) war entgegen der gültigen legalen Definition als Wassertemperatur bei der Bestimmung des Gramms ein Kubikcentimeter von Wasser bei der Temperatur der größten Dichte verwendet worden (4,0 °C).
+Obwohl noch das Dekret vom 18. Germinal 3 den Meter ausdrücklich als einzige Maßverkörperung vorgesehen hatte, wurden beide Maßverkörperungen mit dem Gesetz vom 19. Frimaire VIII (10. Dezember 1799) gesetzliche Einheiten.
+Sie wurden später nach ihrem Aufbewahrungsort als Metre des Archives und Kilogramme des Archives bezeichnet.
+Die drei Zeitstufen der Einheiten werden zur Unterscheidung mit den Zusätzen provisoire, republicain und definitif versehen.
+Bei den Massen müssen nur das Gramm und seine Vielfachen in republicain und definitif unterschieden werden.
+
+=== Internationale Zusammenarbeit, die 1875 zur Meterkonvention führte
+
+Frankreich hatte von Anfang an eine internationale Vereinheitlichung angestrebt, und ausländische Delegierte waren 1798/99 an der endgültigen Ausgestaltung der neuen Einheiten beteiligt gewesen.
+Nachdem im 19. Jahrhundert neben Frankreich bereits eine Mehrzahl der europäischen Staaten das neue Einheitensystem nutzte, gab es ab 1867 konkrete Bestrebungen der internationalen Wissenschaft zur Errichtung einer internationalen Organisation des Maß- und Gewichtswesens.
+Diese führten 1870 zur Bildung der Internationalen Meterkommission in Paris, deren Arbeiten, unterbrochen vom Deutsch-Französischen Krieg, 1875 zur Internationalen Meterkonvention führten.
+Die Konvention sah nicht nur die Herstellung neuer Kopien, sondern auch eines neuen internationalen Prototyps für die Masse vor.
+Dazu wurden aus der neuentwickelten härteren, jedoch auch 5 % dichteren Legierung PtIr10 1878 drei 1-kg-Zylinder KI, KII und KIII hergestellt und am Kilogramme des Archives justiert.
+Zur Volumenbestimmung und Korrektur des Luftauftriebs wurden hydrostatische Wägungen vorgenommen.
+Bei von mehreren Beobachtern unabhängig vorgenommenen Vergleichen konnte 1880 im Rahmen der damals erreichbaren Messgenauigkeit nach Korrektur des Auftriebs kein Unterschied zwischen KIII und dem Kilogramme des Archives festgestellt werden.
+1883 bestimmte das Komitee für Maß und Gewicht daher KIII zum Internationalen Kilogrammprototyp K {\displaystyle {\mathfrak {K} }} .
+Bis 1884 wurden weitere 40 nun auf 1 Kilogramm +/- 1 Milligramm justierte Kilogrammprototypen hergestellt.
+Sie wurden nach hydrostatischer Wägung anschließend an K {\displaystyle {\mathfrak {K}}} kalibriert.
+
+1889 wurde mit dem entsprechenden formellen Beschluss der 1. Generalkonferenz für Maß und Gewicht auch der Wechsel der Definition des Kilogramms von der Masse des kilogramme definitif zu der des Internationalen Kilogrammprototyps vollzogen.
+Im Rahmen der 1939 durchgeführten Nachprüfungen sollte sich herausstellen, dass dies auf Dauer einen signifikanten Unterschied bedeutete:
+Im Vergleich zum Internationalen Kilogrammprototyp verlor das aus geschmiedetem Platinschwamm hergestellte Kilogramme des Archives in 58 Jahren 430 Mikrogramm seiner Masse.
+Von den 40 kopierten Kilogrammprototypen wurden zunächst 29 durch Verlosung an Staaten der Konvention und andere Interessierte, insbesondere wissenschaftliche Gesellschaften, zum Selbstkostenpreis abgegeben, eines wurde neben KI als Referenzexemplar mit dem Internationalen Prototyp verwahrt, zwei als Arbeitsexemplare dem BIPM zugeteilt.
+Durch beitretende Staaten verringerte sich der Reservebestand, 1925 wurde die Zahl der Referenzexemplare auf vier erhöht.
+
+=== Beschreibung des Internationalen Kilogrammprototyps, Kilogrammnormale
+
+Von 1889 bis 2019 bildete der Internationale Kilogrammprototyp (auch das Urkilogramm genannt) das Referenznormal für die Maßeinheit Kilogramm.
+Er wird in einem Tresor des Internationalen Büros für Maß und Gewicht (BIPM) in Sevres bei Paris aufbewahrt.
+Es handelt sich um einen Zylinder von 39 Millimeter Höhe und 39 Millimeter Durchmesser, der aus einer Legierung von 90 % Platin und 10 % Iridium besteht.
+Das Material ist chemisch weitestgehend inert.
+Seine hohe Dichte minimiert, wie die Wahl der Geometrie, die Auswirkung von Oberflächeneffekten.
+Der Iridiumanteil führt zu einer gegenüber dem relativ weichen reinen Platin deutlich höheren Härte (175 HV), was die Bearbeitbarkeit bei der Herstellung verbessert und insbesondere den Abrieb bei Manipulationen (das bezeichnet jede Art von Handhabung) verringert.
+
+Neben dem Internationalen Kilogrammprototyp verfügt das Internationale Büro für Maß und Gewicht (BIPM) über weitere Referenz- und Arbeitsnormale (= Normal), bei denen es sich um Kopien des Internationalen Kilogrammprototyps handelt und die an diesen angeschlossen sind (Anschluss = Kalibrierung an einem Normal höherer Ordnung).
+Die Referenznormale dienen der Kontrolle (z. B. der Drift), während die Arbeitsnormale dem Anschluss der nationalen Kilogrammprototypen dienten, die ebenfalls Kopien des Internationalen Kilogrammprototyps sind.
+Alle Kopien werden als Kilogrammprototypen bezeichnet und sind auf +/-1 Milligramm justiert.
+Der mit Massekomparatoren vorgenommene Anschluss der Referenz- und Arbeitsnormale hat eine relative Messunsicherheit von 3*10-9, der der nationalen Kilogrammprototypen eine von 5*10-9. Bis 2003 wurden 84 Kilogrammprototypen in den Werkstätten des BIPM hergestellt, die für interne Zwecke als auch als nationale Kilogrammprototypen dienen.
+
+Staaten, die der Meterkonvention beigetreten sind, konnten nationale Kilogrammprototypen vom BIPM erhalten.
+Die Staaten konnten ihre Kopien bei Bedarf zum BIPM bringen lassen, um sie an die Arbeitsnormale des BIPM anzuschließen.
+Die Physikalisch-Technische Bundesanstalt (PTB), die neben dem nationalen Prototyp (Nummer 52) im Jahr 1987 auch einen weiteren erworben hat (Nummer 70), sowie seit 1990 den ehemaligen nationalen Prototyp der DDR (55) und den 1944 im Zweiten Weltkrieg beschädigten ursprünglichen deutschen nationalen Prototyp (22) besitzt, der mit erhöhter Messunsicherheit weiter als Normal verwendet wird, hat dies etwa alle zehn Jahre getan.
+Die einzelnen metrologischen Staatsinstitute betrieben ein ähnliches System von Referenz- und Arbeitsnormalen wie das BIPM, hier kommen jedoch Stahl- oder Bronzenormale zum Einsatz, insbesondere auch solche mit größeren und kleineren Nennwerten, in Deutschland als Hauptnormalensätze von einem Milligramm bis fünf Tonnen.
+Hiervon wurden die Normale von Industrie und Forschung sowie die der Landeseichbehörden abgeleitet.
+Problematisch ist der Anschluss der Stahlnormale an die Platin-Iridium-Normale, da der aufgrund unterschiedlicher Volumina zu korrigierende Luftauftrieb hier großen Einfluss auf die Messung hatten.
+Trotz anspruchsvoller Bestimmung der Luftdichte resultierten hieraus relative Messunsicherheiten im Bereich von 1,5*10-8.
+
+=== Geschichte der Verteilung der Prototypen
+
+Seit 1928 werden entsprechend dem steigenden Bedarf laufend neue Prototypen gefertigt.
+Neben neu hinzukommenden Staaten erhöhten viele der größeren metrologischen Staatsinstitute ihren Bestand, auch die Zahl der Referenzexemplare zu K {\displaystyle {\mathfrak {K} } } und Arbeitsexemplare am BIPM erhöhte sich entsprechend.
+Ende der 1970er Jahre wurde ein neues Fertigungsverfahren entwickelt, bei dem Diamantwerkzeuge eingesetzt werden, um die Prototypen ausschließlich durch Plandrehen einer Stirnseite und anschließendes stufenweises Drehen einer polygonalen Fase zu justieren, wodurch das vorher notwendige aufwändige manuelle Schleifen mit abnehmenden Körnungen entfällt.
+Zur Sicherstellung eines zur Diamantbearbeitung geeigneten feinkörnigen Gefüges wurde auch die Legierungszusammensetzung, insbesondere die Obergrenzen der Nebenbestandteile, genauer festgelegt und der Herstellungsprozess der Rohlinge durch Gießen, Schmieden und schließlich Extrudieren von Material für in der Regel sieben Prototypen verbessert.
+Aus Anlass der Nachprüfung der nationalen Prototypen 1988-1992 wurde die Reinigung und ihre Auswirkungen systematisch untersucht und hierzu ein standardisiertes Verfahren festgelegt.
+In der Folge der Nachprüfung rückte verstärkt die Entwicklung einer verbesserten Massendefinition in den Fokus.
+
+=== Probleme mit dem Urkilogramm
+
+Vergleiche der nationalen mit dem Internationalen Kilogrammprototyp des BIPM, sogenannte Nachprüfungen, finden etwa alle 50 Jahre statt, bisher 1939/46 bis 1953 und zuletzt 1988 bis 1992.
+Hierbei stellte man fest, wie auch beim Vergleich mit den Referenznormalen, dass das Urkilogramm im Vergleich zu den Kopien in 100 Jahren um 50 Mikrogramm leichter geworden ist.
+Die Ursache ist bisher unbekannt.
+Die Möglichkeit, dass vom Urkilogramm beim Reinigen Material abgetragen wurde, wurde ausgeschlossen.
+Ein weiterer Erklärungsansatz ist, dass aus der Platin-Iridium-Legierung zum Beispiel Wasserstoff entwichen ist.
+
+Wegen der angesprochenen Instabilitäten der Artefakt-basierten Definition wurde für die Sitzung der Generalkonferenz für Maß und Gewicht im November 2018 eine Kilogrammdefinition gesucht, so dass es von einer Fundamentalkonstanten der Physik abgeleitet werden kann.
+Um eine Verbesserung gegenüber der bisherigen Situation zu erzielen, musste ein Verfahren zur Massebestimmung mit einer Genauigkeit in der Größenordnung von 10-8 entwickelt werden.
+Die Neudefinition über die Plancksche Konstante erlaubt, dass das Kilogramm jetzt an beliebigem Ort von einer Fundamentalkonstanten der Physik abgeleitet werden kann.
+
+== Realisierungen der Definition
+
+Mit der Einführung der Definition hat das BIPM im Mai 2019 auch zwei Methoden zur Realisierung vorgeschlagen:
+
+Im Folgenden werden diese zwei Realisierungen vorgestellt, sowie weitere mögliche Realisierungen, die im Mai 2019 nicht von der BIPM vorgeschlagen wurden.
+
+=== Watt-Waage
+
+Die Watt-Waage ist ein experimenteller Aufbau, mit dem eine Relation zwischen der Planckschen Konstante h {\displaystyle h } und der Masse eines Probekörpers hergestellt wird.
+Hierbei wird erstens der Strom in einer Spule gemessen, der benötigt wird, um einen Probekörper schwebend zu halten.
+Zweitens wird Spannung gemessen, die eine konstante Bewegung der Spule in diesem Magnetfeld induziert.
+Die beiden Messergebnisse werden multipliziert, was formal eine elektrische Leistung mit der Einheit Watt ergibt.
+Außerdem müssen die Geschwindigkeit der bewegten Spule und die Fallbeschleunigung am Ort der Waage bekannt sein.
+Dieses Verfahren diente bis 2018 zur Ermittlung des Wertes der Planck-Konstante basierend auf der bis dahin gültigen Definition des Kilogramms über das Ur-Kilogramm.
+Seit der Festlegung des Wertes der Planckschen Konstante dient eine Watt-Waage zur "Realisierung" der Einheit Kilogramm basierend auf dem festgelegten Wert dieser Konstante.
+(Dies bedeutet, dass mit einer Watt-Waage die Masse von Artefakten, die nicht notwendigerweise 1 kg schwer sein müssen, bestimmt werden kann.)
+
+Watt-Waagen betreiben u. a. der National Research Council of Canada (welcher die Arbeiten vom britischen National Physical Laboratory übernommen hat), das US-amerikanische National Institute of Standards and Technology, das schweizerische METAS und das BIPM.
+
+=== XRCD-Methode
+
+Eine alternative Definition des Kilogramms wäre auf Basis des Avogadroprojekts möglich gewesen.
+Nach der Festlegung auf die Definition über die Plancksche Konstante werden die entsprechenden Überlegungen zur Realisierung der neuen Kilogrammdefinition vorgeschlagen.
+
+Das Ziel des Avogadroprojekts war die Bestimmung der Avogadro-Konstante N A {\displaystyle N_{\mathrm {A} }} aus Masse m {\displaystyle m} und Volumen V {\displaystyle V} eines Körpers, der aus einem Material bekannter Teilchendichte n {\displaystyle n} und molarer Masse M {\displaystyle M} besteht.
+
+Die Avogadro-Konstante - heute für die Definition der Einheit Mol auf einen exakten Wert festgelegt - war bis zum 19. Mai 2019 als Menge der Atome in 12 g Kohlenstoff-12 definiert, also ein experimentell zu bestimmender Wert, der unter anderem von der Einheit Kilogramm abhängig war.
+Ist der größte Unsicherheitsfaktor darin die Verlässlichkeit des Kilogramms, so wäre die Umkehrung möglich:
+Ein Kilogramm könnte genauer definiert werden als bisher, indem es als die Masse einer bestimmten Anzahl von Atomen eines bestimmten Isotops festgelegt wird.
+
+Eine ausreichend genaue Bestimmung der Teilchendichte n {\displaystyle n} ist nur mittels Röntgenlaserinterferometer möglich und setzt ein monokristallines Material voraus.
+Wegen der Anforderungen an die Genauigkeit der Materialkennwerte kommt hierfür derzeit praktisch nur chemisch höchstreines, isotopenreines Silicium-28 in Frage.
+Bei natürlichem Silicium, das ein Gemisch aus drei Isotopen ist, begrenzt die relativ schlechte Bestimmbarkeit der mittleren molaren Masse die Gesamtgenauigkeit.
+Die genaue Volumenbestimmung erfordert die Herstellung einer hochgenauen Kugel aus dem Material.
+Darüber hinaus müssen Fehlstellendichte, Fremdatomkonzentrationen, Stärke und Zusammensetzung der Siliciumdioxidschicht an der Oberfläche und anderes berücksichtigt werden.
+
+An natürlichem Silicium konnte zunächst die Avogadro-Konstante in der bisherigen Genauigkeit bestätigt werden.
+Koordiniert von der Physikalisch-Technischen Bundesanstalt in Braunschweig, wurde in einer Kooperation acht metrologischer Institute hochreines und hochangereichertes Silicium 28 für ein um den Faktor 10 genaueres Experiment hergestellt.
+Dazu wurde in Zusammenarbeit mit dem russischen Atomministerium in russischen Isotopentrennungsanlagen Silicium auf einen 28Si-Gehalt von 99,994 % angereichert und anschließend nochmals chemisch gereinigt.
+Zu diesem Zeitpunkt lagen die Kosten für die Produktion des 6 kg schweren Rohmaterials bereits bei 1,2 Mio. Euro.
+Die Züchtung des isotopenreinen 28Si-Einkristalls fand am Berliner Leibniz-Institut für Kristallzüchtung statt.
+Nach verschiedenen Analysen und der Züchtung von Einkristallen, bei der auch die chemische Reinheit durch mehrfache Anwendung des Zonenschmelzverfahrens nochmals erhöht wurde, wurden am National Measurement Institute NMI-A in Australien daraus zwei 1-kg-Kugeln mit einer maximalen Gestaltabweichung von 30 nm bei ca. 93,7 mm Durchmesser hergestellt.
+Dann erfolgten aufwändige Prüfungen zur Abschätzung des Einflusses der Kristallbaufehler, anschließend wurden die Gitterparameter am italienischen Metrologieinstitut INRIM mittels eines Röntgeninterferometers bestimmt und eine Vergleichsmessung an einem Kristall aus natürlichem Silicium am amerikanischen NIST durchgeführt.
+Die Massen der beiden Siliciumkugeln wurden am BIPM, am NMIJ (Japan) und in der PTB unter Vakuum mit den internationalen Massenormalen verglichen.
+
+Das Volumen V wurde einschließlich der Abweichungen von der Kugelform mit Interferometern unterschiedlicher Strahlgeometrien an NMIJ und NMI-A gemessen, außerdem an der PTB, wo ein neu entwickeltes Kugelinterferometer auf Basis eines Fizeau-Interferometers mit Unsicherheiten unter einem Nanometer zum Einsatz kam.
+
+Stärke und Zusammensetzung der im Wesentlichen aus Siliciumdioxid bestehenden Oberflächenschicht wurden zur Bestimmung der Gesamtdichte mit Elektronen-, Röntgen- und Synchrotronstrahlung untersucht.
+Dabei wurde unter anderem eine beim Polierprozess entstandene unerwartet hohe metallische Kontamination der Kugeloberflächen mit Kupfer- und Nickelsiliciden festgestellt und ihr Einfluss auf die Ergebnisse von Kugelvolumen und -masse abgeschätzt, was auch zu einer höheren Messunsicherheit als erwartet führte.
+Der größte Anteil an der Reduktion der relativen Gesamtmessunsicherheit wurde durch die Entwicklung einer neuen massenspektrometrischen Methode zur Bestimmung der mittleren molaren Masse M des Siliciums erzielt.
+
+2015, also vor ihrer Festlegung auf den heutigen Wert , wurde die Avogadrokonstante auf diese Weise mit einer Gesamtmessunsicherheit von 2*10-8 bestimmt.
+Damit wurde die vom Beratenden Komitee für die Masse für eine Neudefinition des Kilogramms verlangte Genauigkeit erreicht.
+Bei den Berechnungen dieses Experiments fließt die Plancksche Konstante h mit ein.
+Mit der Fixierung des Wertes der Planckschen Konstante ist somit auch die XRCD-Methode zur Realisierung der Einheit Kilogramm geeignet.
+
+=== Weitere Realisierungsmöglichkeiten, die nicht vorgeschlagen wurden
+
+==== Ionenakkumulation
+
+Eine weitere Möglichkeit wäre die Erzeugung einer wägbaren Masse mit Hilfe eines Ionenstrahls (elektrisch geladener Atome) und Aufsammeln der Ionen gewesen.
+Durch Messung des elektrischen Stroms des Ionenstrahls und der Zeit lässt sich dann die Masse eines Atoms in der Einheit Kilogramm berechnen.
+Die Physikalisch-Technische Bundesanstalt führte seit 1991 Experimente mit Gold durch, ersetzte 2004 Gold durch Bismut (auch Wismut), stellte aber 2008 die Experimente ein, da es sich als unmöglich erwies, bis zur Entscheidung über die Neudefinition mit dieser Methode konkurrenzfähige Ergebnisse zu erhalten.
+
+==== Magnetisches Schwebeexperiment
+
+In einem inhomogenen Magnetfeld wird ein Magnet zum Schweben gebracht.
+Aus der Position des Magneten in diesem Feld lässt sich seine Masse berechnen.
+Dieser Ansatz wurde ursprünglich vom japanischen damaligen National Research Laboratory of Metrology verfolgt, mittlerweile aber wegen mangelnder erzielbarer Genauigkeit aufgegeben.
+Japan ist auch am Avogadroprojekt beteiligt.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

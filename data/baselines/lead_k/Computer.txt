@@ -1,0 +1,14 @@
+Ein Computer (englisch; deutsche Aussprache ) oder Rechner ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet.
+Dementsprechend sind vereinzelt auch die abstrahierenden bzw. veralteten, synonym gebrauchten Begriffe Rechenanlage, Datenverarbeitungsanlage oder elektronische Datenverarbeitungsanlage sowie Elektronengehirn anzutreffen.
+Charles Babbage und Ada Lovelace gelten durch die von Babbage 1837 entworfene Rechenmaschine Analytical Engine als Vordenker des modernen universell programmierbaren Computers.
+Konrad Zuse (Z3, 1941 und Z4, 1945) in Berlin, John Presper Eckert und John William Mauchly (ENIAC, 1946) bauten die ersten funktionstüchtigen Geräte dieser Art.
+Bei der Klassifizierung eines Geräts als universell programmierbarer Computer spielt die Turing-Vollständigkeit eine wesentliche Rolle.
+Sie ist benannt nach dem englischen Mathematiker Alan Turing, der 1936 das logische Modell der Turingmaschine eingeführt hatte.
+Die frühen Computer wurden auch (Groß-)Rechner genannt; ihre Ein- und Ausgabe der Daten war zunächst auf Zahlen beschränkt.
+Zwar verstehen sich moderne Computer auf den Umgang mit weiteren Daten, beispielsweise mit Buchstaben und Tönen.
+Diese Daten werden jedoch innerhalb des Computers in Zahlen umgewandelt und als solche verarbeitet, weshalb ein Computer auch heute eine Rechenmaschine ist.
+Mit zunehmender Leistungsfähigkeit eröffneten sich neue Einsatzbereiche.
+Computer sind heute in allen Bereichen des täglichen Lebens vorzufinden, meistens in spezialisierten Varianten, die auf einen vorliegenden Anwendungszweck zugeschnitten sind.
+So dienen integrierte Kleinstcomputer (eingebettetes System) zur Steuerung von Alltagsgeräten wie Waschmaschinen und Videorekordern oder zur Münzprüfung in Warenautomaten; in modernen Automobilen dienen sie beispielsweise zur Anzeige von Fahrdaten und steuern in "Fahrassistenten" diverse Manöver selbst.
+Universelle Computer finden sich in Smartphones und Spielkonsolen.
+Personal Computer (engl. für Persönliche Computer, als Gegensatz zu von vielen genutzten Großrechnern) dienen der Informationsverarbeitung in Wirtschaft und Behörden sowie bei Privatpersonen; Supercomputer werden eingesetzt, um komplexe Vorgänge zu simulieren, z. B. in der Klimaforschung oder für medizinische Berechnungen.

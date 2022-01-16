@@ -1,0 +1,155 @@
+Radar ist die Abkürzung für radio detection and ranging (frei übersetzt "funkgestützte Ortung und Abstandsmessung") oder radio direction and ranging (frei übersetzt "funkgestützte Richtungs- und Abstandsmessung"), zwischenzeitlich radio aircraft detection and ranging (frei übersetzt "funkbasierte Flugzeugortung und -abstandsmessung") und ist die Bezeichnung für verschiedene Erkennungs- und Ortungsverfahren und -geräte auf der Basis elektromagnetischer Wellen im Radiofrequenzbereich (Funkwellen).
+Der Begriff Radar hat in der Vergangenheit die ursprüngliche deutsche Bezeichnung Funkmeß ersetzt.
+Ein Radargerät ist ein Gerät, das ein sogenanntes Primärsignal als gebündelte elektromagnetische Welle aussendet, die die von Objekten reflektierten Echos als Sekundärsignal empfängt und nach verschiedenen Kriterien auswertet.
+So können Informationen über die Objekte gewonnen werden.
+Meist handelt es sich um eine Ortung (Bestimmung von Entfernung und Winkel).
+Es gibt je nach Einsatzzweck unterschiedliche Radarprinzipien wie das Wetterradar, das harmonische Radar und das Überhorizontradar.
+Aus den empfangenen, vom Objekt reflektierten Wellen können u. a. folgende Informationen gewonnen werden:
+Die sich ausbreitende elektromagnetische Welle des Radars wird mitunter auch als Radarstrahlung bezeichnet.
+Man spricht auch von einem Radarstrahl, insbesondere wenn die Abstrahlung von dem Radargerät aufgrund des Antennenentwurfs weitgehend gebündelt in eine Richtung erfolgt.
+Die Strahlungscharakteristik der Antenne hat dann eine sogenannte Keulenform.
+Da die Wellenlänge des Radars je nach Anwendung und Stand der Technik im Bereich der Funkwellen im Kurz- bis Mikrowellenbereich liegt, wurde ursprünglich die Bezeichnung Funkmeßtechnik (kurz Funkmeß) verwendet.
+Sie wurde nach dem Zweiten Weltkrieg in der Bundesrepublik Deutschland durch den Begriff Radar ersetzt.
+In der DDR wurde in der Fachsprache weiterhin von Funkmeßtechnik gesprochen.
+1886 stellte Heinrich Hertz beim experimentellen Nachweis elektromagnetischer Wellen fest, dass Radiowellen an metallischen Gegenständen reflektiert werden.
+Die ersten Versuche zur Ortung mit Hilfe von Radiowellen führte der deutsche Hochfrequenztechniker Christian Hülsmeyer 1904 durch.
+Er fand heraus, dass von Metallflächen zurückgeworfene elektrische Wellen verwendet werden können, um entfernte metallische Objekte zu detektieren.
+Sein Telemobiloskop zur Erkennung von Schiffen gilt als Vorläufer heutiger Radarsysteme und wurde am 30. April 1904 zum Patent angemeldet.
+Der Nutzen der Radartechnik wurde jedoch zunächst nicht erkannt und so geriet die Erfindung vorläufig in Vergessenheit.
+Der schottische Physiker Sir Robert Alexander Watson-Watt, FRS FRAeS (1892-1973) gilt als einer der Erfinder des Radars.
+Watson-Watt war zunächst Assistent am Institut für Naturphilosophie des University College in Dundee, damals Teil der Universität St Andrews.
+1927 wurde er Direktor der Radio Research Station in Ditton Park bei Slough.
+Ab 1936 war er Direktor im Air Ministry.
+Er forschte über die Reflexion von Radiowellen in der Meteorologie.
+1919 ließ er sich ein Verfahren zur Ortung von Objekten mittels Radiowellen (Radar) patentieren, das nach Weiterentwicklungen (Entwicklung des Sicht- oder Kurzzeitpeilers; Watson-Watt-Peiler) 1935 erstmals zur Radarortung von Flugzeugen im Meterwellenbereich eingesetzt werden konnte.
+Am 26. Februar 1935 gelang ihm der Versuch, den testweise den Ort Daventry anfliegenden Bomber des Typs Handley Page H.P.50 mittels Radar zu entdecken.
+Watson-Watt war maßgeblich an der Entwicklung der britischen Radaranlagen im Zweiten Weltkrieg beteiligt.
+Der Durchbruch der Radartechnik folgte kurz vor und während des Zweiten Weltkrieges.
+Im Zuge der militärischen Aufrüstung in dieser Zeit wurden ab Mitte der 1930er Jahre in mehreren Ländern unabhängig voneinander intensiv Radargeräte und -systeme entwickelt, besonders von Deutschen und Briten.
+Beim Kriegsbeginn 1939 gab es auch in den USA, in der Sowjetunion, in Frankreich, Japan, Italien und den Niederlanden Radaranlagen.
+Auf deutscher Seite hatte Rudolf Kühnhold als wissenschaftlicher Direktor der Nachrichten-Versuchsabteilung der Reichsmarine einen großen Anteil an der Entwicklung.
+Ein von ihm entwickeltes Radargerät, welches zur Tarnung DeTe-Gerät (Dezimeter-Telegraphie) genannt wurde, wurde 1934 erstmals im Kieler Hafen zur Erkennung von Schiffen getestet.
+Die Briten führten am 26. Februar 1935 einen ersten Feldversuch durch, bei dem Flugzeuge bis zu einer Entfernung von 13 km verfolgt werden konnten.
+Im September 1935 präsentierte die GEMA aus Berlin als erste ein voll funktionsfähiges Funkmessgerät.
+Neben der GEMA, die Systeme wie Freya, Mammut, Wassermann und Seetakt entwickelte, war auch Telefunken mit den Systemen Würzburg und Würzburg-Riese maßgeblich an der deutschen Radartechnik beteiligt.
+Am 18. Dezember 1939 flog die Luftwaffe ihren ersten radargeleiteten Abfangeinsatz gegen 22 britische Bomber, die einen Angriff auf Wilhelmshaven flogen.
+Beim Luftgefecht über der Deutschen Bucht gelang es ihr, zwölf davon abzuschießen und drei schwer zu beschädigen.
+Das deutsche Abwehrsystem gegen Bombergeschwader, die Kammhuber-Linie, führte über eine Länge von mehr als 1000 km von Dänemark bis Nordfrankreich.
+Die Briten errichteten ab 1936 mit Chain Home ebenfalls eine Kette von Radarstationen an der Ostküste, die auf einer anderen Wellenlänge als die der Deutschen arbeitete und von diesen zunächst nicht erkannt wurde.
+Schon ab 1939 wurde das System mit einem Freund-Feind-Erkennungsgerät in den Flugzeugen ergänzt.
+Ein Meilenstein in der Radarentwicklung war Anfang 1940 die Erfindung des Magnetrons an der Universität Birmingham, das das Kerngerät aller späteren Radaranwendungen werden sollte.
+Ende Januar 1943 setzen die Briten bei einem Angriff auf Hamburg erstmals ein mobiles Radarsystem in Flugzeugen ein, das zur Navigation verwendet wurde (H2S).
+Beide Seiten entwickelten sogenannte Düppel, einfache Metallfolienstreifen, um die gegnerischen Radarsysteme zu stören.
+Schnell wurden jedoch verbesserte Systeme entwickelt, die diese Störer herausfiltern konnten.
+In Deutschland kam die Forschung auf dem Gebiet Radar nach dem Krieg vollständig zum Erliegen.
+Die Alliierten verboten diese bis 1950.
+Erhebliche Fortschritte machte die Forschung in der Folgezeit insbesondere in den USA, wo zahlreiche neue theoretische Ansätze und innovative Bauteile wie Halbleiter entwickelt wurden.
+Als ein Beispiel sei das Synthetic Aperture Radar aus dem Jahr 1951 genannt.
+Auch an Bord von zivilen Flugzeugen und Schiffen gehören Bordradare heute zur Standardausrüstung.
+Eine der ersten und bis heute wichtigsten zivilen Anwendungen ist die Überwachung des Luftverkehrs mittels Air Traffic Control (ATC).
+Bereits Ende der 1970er Jahre entstanden erste Systeme von Abstandswarnradaren für den Automobilbereich.
+In der Raumfahrt wird Radartechnik seit Mitte der 1990er vor allem zur Vermessung der Erde und anderer Planeten genutzt.
+Zur Erfassung von Wetterdaten werden zudem Wetterradare eingesetzt.
+Radargeräte wurden für verschiedene Verwendungszwecke entwickelt:
+Nach dem Zweiten Weltkrieg kam auch die Lenkung radargesteuerter Waffen wie Flugabwehrraketen dazu.
+Außerdem wurde das Radar auch für die zivile Schiff- und Luftfahrt eingesetzt.
+Die heutige Passagierluftfahrt wäre ohne Luftraumüberwachung durch Radar nicht denkbar.
+Auch Satelliten und Weltraumschrott werden heute durch Radar überwacht.
+Als die Radargeräte leistungsfähiger wurden, entdeckte auch die Wissenschaft diese Technik.
+Wetterradargeräte helfen in der Meteorologie oder an Bord von Flugzeugen bei der Wettervorhersage.
+Mittels großer Stationen können vom Boden aus Radarbilder vom Mond, der Sonne sowie einigen Planeten erzeugt werden.
+Umgekehrt kann auch die Erde vom Weltraum aus durch satellitengestützte Radargeräte vermessen und erforscht werden.
+Aktive Radargeräte werden in bildgebend und nicht bildgebend eingeteilt.
+Ferner unterscheidet man zwischen Impuls- und Dauerstrichradargeräten sowie zwischen mono- und bistatischen Anlagen; bei letzteren sind Sender und Empfänger räumlich getrennt, was auf astronomische Entfernung eine höhere Empfindlichkeit erlaubt.
+Radarsender sind mittels Peilempfängern erkenn- und ortbar.
+Als Primärradar werden Pulsradar-Geräte bezeichnet, die ausschließlich das passiv reflektierte Echo des Zieles auswerten.
+Es lassen sich neben der Entfernung auch die radiale Geschwindigkeit der Objekte und deren ungefähre Größe ermitteln.
+Auswertung reflektierter Oberwellen erlaubt Rückschlüsse auf den Flugzeugtyp.
+Ein Sekundärradar umfasst ebenfalls ein Impulsradargerät, jedoch befinden sich an den Zielobjekten Transponder, die auf die Pulse reagieren und ihrerseits ein Signal zurücksenden.
+Hierdurch erhöht sich die Reichweite, die Objekte sind identifizierbar und können ggf. weitere Daten zurücksenden.
+Peilempfänger, die die Quelle von Funkwellen (von Radar- und anderen Geräten und deren Störabstrahlung) zu militärischen Zwecken orten können, nennt man auch passives Radar.
+Ein passives Radar ist daher nicht anhand seiner Funkwellenaussendung zu entdecken.
+Eine weitere Art von Radargeräten, die nur schwer zu entdecken sind, ist das Rauschradar, welches lange Pulse aussendet, welche wie zufällige Störstrahlung aussehen.
+Ein Pulsradargerät sendet Impulse mit einer typischen Dauer im unteren Mikrosekundenbereich und wartet dann auf Echos.
+Die Laufzeit  t {\displaystyle \Delta t} des Impulses ist die Zeit zwischen dem Senden und dem Empfang des Echos.
+Sie wird zur Entfernungsbestimmung genutzt.
+Für die Entfernung r {\displaystyle r} gilt der Zusammenhang:
+Die Gruppengeschwindigkeit c {\displaystyle c} ist näherungsweise gleich der Lichtgeschwindigkeit im Vakuum, da der Brechungsindex von Luft für Radiowellen sehr nahe an 1 ist.
+Je nach Reichweite des Radargerätes wird nach einem gesendeten Impuls einige Mikro- bis Millisekunden lang empfangen, bevor der nächste Impuls ausgesendet wird.
+Auf dem klassischen Radarschirm beginnt die Auslenkung mit dem Sendeimpuls.
+Die Ausbreitungsgeschwindigkeit der elektromagnetischen Wellen im Raum ist maßstabsgerecht mit der Anzeige.
+Wird ein Echo empfangen, dann ist der Abstand des Echoimpulses auf dem Sichtgerät ein Maß für die Entfernung des reflektierenden Objektes (hier: des Flugzeugs) zum Radargerät.
+Um in Pulsradar-Geräten die hohen Sendeleistungen im Megawattbereich zu erzeugen, welche zur Ortung z. B. über einige 100 km nötig sind, werden auch heute Magnetrons verwendet.
+Dazu wird ein Magnetron z. B. mittels Trigatron, Thyratron oder neuerdings auch Halbleiterschaltern gepulst betrieben.
+Da sich die Sendefrequenz eines Magnetrons in Abhängigkeit von Temperatur und Betriebszustand ändern kann, wird bei Messungen der relativen Radialgeschwindigkeit die Frequenzreferenz beim Empfang aus der Sendefrequenz abgeleitet (siehe pseudokohärentes Radar).
+Stationäre Pulsradargeräte erreichten Leistungen bis zu 100 MW als Spitzenimpulsleistung.
+Moderne Radargeräte benötigen für Reichweiten von mehreren 100 km sehr viel weniger Energie und senden teilweise Pulse mit einer Pulsleistung unter einem Megawatt.
+Bei der Verwendung vieler kleiner, in Verbund arbeitender Sender oder bei Geräten mit aktiven Phased-Array-Antennen kann auf die Röntgenstrahlen aussendenden Schaltröhren verzichtet werden.
+Dreht man die Antenne eines Pulsradars, erhält man ein Rundsichtradar.
+Die scharfe Richtcharakteristik der Antenne wirkt sowohl beim Senden als auch beim Empfang.
+Aus der Abhängigkeit der Stärke des Echos von der Orientierung der Antenne kann sehr genau die Richtung bestimmt werden.
+Bekannteste Anwendungsgebiete eines solchen Rundsichtradars sind Luftraumüberwachung und Wetterradar.
+Ein Flughafen-Rundsicht-Radar (ASR, Airport Surveillance Radar) kombiniert meist ein Primärradar mit einem Sekundärradar.
+Neben der allgemeinen Luftraumüberwachung hat es vor allem die Aufgabe, dem Anfluglotsen ein genaues Bild der Luftlage rund um den Flughafen zu liefern.
+Die Reichweite eines ASR beträgt üblicherweise 60 sm.
+Ein Anflugradar besteht aus jeweils einer waagerecht und einer senkrecht bewegten Antenne und ermöglicht, Anflugwinkel, Anflugrichtung und Anflughöhe landender Flugzeuge zu bestimmen.
+Der Pilot erhält die Korrekturhinweise über Funk vom Bodenpersonal oder er hat ein Anzeigeinstrument an Bord, welches Abweichungen passiv anhand der empfangenen Radarimpulse angibt.
+Solche Instrumentenlandungen oder Blindlandungen sind besonders bei schlechter Sicht oder bei aus militärischen Gründen unbefeuerter oder getarnter Landebahn von Bedeutung.
+Kurz vor dem Aufsetzen ist jedoch Bodensicht erforderlich.
+Das bodengestützte STCA-System (Short Term Conflict Alert) zur Kollisionsvermeidung verwendet das Luftraumüberwachungsradar.
+Es berechnet aus der Flugspur (Track) von Luftfahrzeugen die Wahrscheinlichkeit eines nahen Vorbeifluges (near miss) oder gar Zusammenstoßes und warnt optisch und akustisch den Fluglotsen.
+Das Schwenken des Abtaststrahles eines Impulsradars kann statt durch die Ausrichtung der Antenne auch elektronisch durch phasengesteuerte Antennenarrays bewirkt werden.
+Damit können in schnellem Wechsel mehrere Objekte angepeilt und quasi simultan verfolgt werden.
+Das Synthetic Aperture Radar erreicht eine hohe, entfernungsunabhängige Auflösung in Azimut.
+Die erforderliche Aperturgröße wird rechnerisch aus der realen Apertur einer kleinen, bewegten Antenne zusammengesetzt.
+Dazu muss die Bewegung der Antenne relativ zu dem beobachteten (starren) Objekt genau bekannt und die Phase der ausgesendeten Impulse kohärent zueinander sein.
+Erdsatelliten und Raumsonden verwenden solche Systeme zur Vermessung von Geländeprofilen.
+Die Antenne ist eines der auffälligsten Teile der Radaranlage.
+Die Antenne sichert durch das Antennendiagramm und ggf. eine Drehbewegung die erforderliche Verteilung der Sendeleistung im Raum.
+Die Antenne wird meist im Zeitmultiplexbetrieb verwendet.
+Während der Empfangszeit empfängt sie dann die reflektierte Energie.
+Das Antennendiagramm muss sehr stark bündeln, damit ein gutes laterales und vertikales Auflösungsvermögen erreicht wird.
+Das Entfernungs-Auflösungsvermögen wird dagegen durch die Impulsdauer bestimmt.
+Im Falle einer mechanischen Raumabtastung wird die Antenne gedreht oder hin- und hergeschwenkt.
+Diese Bewegung kann ein erhebliches mechanisches Problem bereiten, weil die Antennenreflektoren bei großen Wellenlängen bzw. hoher Bündelung sehr große Dimensionen erreichen.
+Bei Radargeräten sind folgende Antennenbauformen üblich:
+Modernere Radargeräte mit Multifunktionseigenschaften verwenden immer eine Phased-Array-Antenne, ältere Gerätesysteme meist die Parabolantenne, die zur Erzeugung eines Cosecans^2-Diagramms von der idealen Parabolform abweicht.
+Eine in älteren Radargeräten, jedoch auch heute verwendete Senderbauart sind selbstschwingende Impuls-Oszillatoren, die aus einem Magnetron bestehen.
+Das Magnetron wird durch einen Hochspannungsimpuls gespeist und erzeugt einen Hochfrequenz-Impuls hoher Leistung (0,1...10 s, Leistung einige kW bis einige MW).
+Der Hochspannungsimpuls für das Magnetron wird durch einen Modulator (Schaltröhre oder heute auch Halbleiterschalter mit MOSFET) bereitgestellt.
+Dieses Sendesystem wird auch POT (Power-Oszillator-Transmitter) genannt.
+Radargeräte mit einem POT sind entweder nicht kohärent oder pseudokohärent.
+Ein in moderneren Radargeräten verwendetes Konzept ist der PAT (Power-Amplifier-Transmitter).
+Bei diesem Sendersystem wird in einem Generator der fertige Sendeimpuls mit kleiner Leistung erzeugt und dann mit einem Hochleistungsverstärker (Amplitron, Klystron, Wanderfeldröhre oder Halbleiter-Sendermodulen) auf die nötige Leistung gebracht.
+Radargeräte mit einem PAT sind in den meisten Fällen vollkohärent und können deshalb besonders gut zur Erkennung von bewegten Objekten durch Ausnutzung der Doppler-Frequenz eingesetzt werden.
+Der Empfänger nutzt meist die Sendeantenne und muss daher vor dem Sendeimpuls geschützt werden, Das geschieht mit Zirkulatoren, Richtkopplern und Nulloden.
+Der Empfang erfolgt mit dem Überlagerungsprinzip, früher wurde als Oszillator ein Reflexklystron verwendet, zur Mischung und Demodulation dienten koaxial aufgebaute, in Hohlleiter eingeschraubte Spitzendioden.
+Heutige Empfänger arbeiten vollständig mit Halbleitern und sind in Streifenleitertechnik aufgebaut.
+Ein CW-Radar (CW für engl. continuous wave - Dauersender) konstanter Frequenz kann keine Entfernungen messen, aber über die Richtwirkung seiner Antenne den Azimut zu einem Ziel.
+Es wird zur Geschwindigkeitsmessung genutzt.
+Dabei wird die über eine Antenne abgestrahlte Frequenz vom Ziel (beispielsweise einem Auto) reflektiert und mit einer gewissen Doppler-Verschiebung, also geringfügig geändert, wieder empfangen.
+Da nur bewegte Objekte erkannt werden, fehlen störende Einflusse von Festzielen.
+Durch einen Vergleich der gesendeten mit der empfangenen Frequenz (Homodyne Detektion) kann die radiale Geschwindigkeitskomponente bestimmt werden, die um einen Kosinusfaktor kleiner ist als der Betrag des Geschwindigkeitsvektors.
+Eine weiterentwickelte Art sind die FMCW (frequency modulated continuous wave) Radargeräte, auch Modulated CW-Radar oder FM-Radar.
+Sie senden mit einer sich ständig ändernden Frequenz.
+Die Frequenz steigt entweder linear an, um bei einem bestimmten Wert abrupt wieder auf den Anfangswert abzufallen (Sägezahnmuster), oder sie steigt und fällt abwechselnd mit konstanter Änderungsgeschwindigkeit.
+Durch die lineare Änderung der Frequenz und durch das stetige Senden ist es möglich, neben der Differenzgeschwindigkeit zwischen Sender und Objekt auch gleichzeitig deren absolute Entfernung voneinander zu ermitteln.
+Radar-Fallen der Verkehrspolizei arbeiten auf diese Weise und lösen bei Geschwindigkeitsüberschreitung bei einer bestimmten Entfernung zum Ziel den Fotoblitz aus.
+Radar-Höhenmesser von Flugzeugen und Abstandswarngeräte in Autos arbeiten nach diesem Prinzip.
+Diese Technologie wird auch für Rundsichtradar im marinen Bereich eingesetzt (Broadband Radar).
+Eine Nutzung dieses Broadband-Radars zur Luftraumaufklärung ist nicht möglich, da die Dopplerfrequenz von Flugzeugen zu groß ist und dadurch Messfehler von bis zu mehreren Kilometern entstehen.
+Ursache dafür ist die verwendete sägezahnförmige Modulation, wegen der das Broadband Radar nicht zwischen Frequenzdifferenz verursacht durch Laufzeit und Frequenzdifferenz verursacht durch Doppler-Effekt unterscheiden kann.
+FMCW-Radare werden außerdem in industriellen Anwendungen zur Abstandsmessung und zur Messung von Füllstandshöhe in Tanks eingesetzt.
+Begünstigt durch höhere Integration einzelner Baugruppen können komplette Radargeräte als kleinste Module aufgebaut werden.
+Der komplette Hochfrequenzteil eines Radars lässt sich zum Beispiel in einem einzelnen integrierten Schaltkreis unterbringen.
+Das ermöglicht neue Konzepte beim Aufbau größerer Radarsysteme.
+Durch eine Vielzahl kleiner synchron und kohärent arbeitender Radarmodule kann ein Phased-Array-Radarsystem auch in einem unebenen Gelände verteilt werden.
+Laufzeitunterschiede der einzelnen Module durch die Unebenheit werden durch Software ausgeglichen.
+Ein solches System wird dann Distributed Radar System (DRS) genannt.
+Es kann zum Beispiel auf einem Berghang oder auch auf der Außenhaut eines Kriegsschiffes verteilt zu einem Großraumradar aufgebaut werden.
+Die in den Schaltröhren entstehende Röntgenstrahlung war bis mindestens in die 1980er Jahre bei militärischen Radaranlagen häufig unzureichend abgeschirmt.
+Darüber hinaus mussten Wartungs- und Justierarbeiten oft am geöffneten Gerät durchgeführt werden.
+Dies führte zu Strahlenschäden bei vielen Bedienungs- und Wartungssoldaten der NVA und der Bundeswehr.
+Eine große Zahl von Soldaten, vor allem ehemalige Radartechniker, erkrankte dadurch später an Krebs, viele sind bereits in relativ jungem Alter verstorben.
+Die Zahl der Geschädigten (Radaropfer) beträgt mehrere Tausend.
+Grundsätzlich wurde der Zusammenhang von der Bundeswehr anerkannt und in vielen Fällen eine Zusatzrente gezahlt.

@@ -1,0 +1,373 @@
+Desoxyribonukleinsäure ( anhören?/i; abgekürzt DNS), meist kurz als DNA (Abkürzung für englisch deoxyribonucleic acid) bezeichnet, ist eine aus unterschiedlichen Desoxyribonukleotiden aufgebaute Nukleinsäure.
+Sie trägt die Erbinformation bei allen Lebewesen und vielen Viren (nicht RNA-Viren).
+Das langkettige Polynukleotid enthält in Abschnitten von Genen besondere Abfolgen seiner Nukleotide.
+Diese DNA-Abschnitte dienen als Matrizen für den Aufbau entsprechender Ribonukleinsäuren, wenn die genetische Information in RNA-Stränge umgeschrieben wird (siehe Transkription).
+Im Falle einer Boten-RNA (englisch messenger RNA, mRNA) stellt die Abfolge von Nukleinbasen darüber hinaus die Bauanleitung für ein Protein dar.
+
+Die Grundbausteine von DNA-Strängen sind vier verschiedene Nukleotide, die jeweils aus einem Phosphatrest, dem Zucker Desoxyribose sowie einer von vier Nukleinbasen (Adenin, Thymin, Guanin und Cytosin; oft mit A, T, G und C abgekürzt) bestehen.
+Die Abfolge von Basen (Basensequenz) in bestimmten DNA-Strangabschnitten enthält Information.
+Umgeschrieben in den Einzelstrang einer mRNA gibt deren Basensequenz bei der Proteinbiosynthese die Abfolge von Aminosäuren (Aminosäurensequenz) im zu bildenden Protein vor.
+Hierbei wird drei aufeinanderfolgenden Basen - je einem Basentriplett als Codon - jeweils eine bestimmte Aminosäure zugeordnet und diese mit der vorigen verknüpft, sodass ein Polypeptid entsteht.
+So werden an einem Ribosom mithilfe von tRNA entsprechend dem genetischen Code Bereiche der Basensequenz in eine Aminosäurensequenz übersetzt (siehe Translation).
+
+Das Genom einer Zelle liegt zumeist als DNA-Doppelstrang vor, bei dem die beiden basenpaarend einander komplementären Stränge räumlich die Form einer Doppelhelix bilden (siehe Abbildung).
+Bei der Replikation werden sie entwunden und getrennt jeweils durch Basenpaarung wieder komplementär ergänzt, sodass anschließend zwei (nahezu) identische doppelsträngige DNA-Moleküle vorliegen.
+Fehler beim Replikationsvorgang sind eine Quelle von Mutationen, die nach Kernteilung und Zellteilung in entstandenen Zellen als Veränderung genetischer Information vorliegen und weitergegeben werden können.
+
+In den Zellen von Eukaryoten, zu denen auch Pflanzen, Tiere und Pilze gehören, ist der Großteil der DNA im Zellkern (lateinisch nucleus, daher nukleäre DNA oder nDNA) als Chromosomen organisiert.
+Ein kleiner Teil befindet sich in den Mitochondrien und wird dementsprechend mitochondriale DNA (mtDNA) genannt.
+Pflanzen und Algen haben außerdem DNA in Photosynthese betreibenden Organellen, den Chloroplasten bzw. Plastiden (cpDNA).
+Bei Bakterien und Archaeen - den Prokaryoten, die keinen Zellkern besitzen - liegt die DNA im Cytoplasma meist zirkulär vor (siehe Bakterienchromosom).
+Manche Viren speichern ihre genetische Information in RNA statt in DNA (siehe RNA-Virus).
+
+== Bezeichnung
+
+Die Bezeichnung Desoxyribonukleinsäure ist ein Wort, das sich aus mehreren Komponenten zusammensetzt: des (von des-), oxy (von den ersten beiden Silben von Oxygenium für Sauerstoff), ribo (von den ersten beiden Silben von Ribose) - somit Desoxyribo (für Desoxyribose) - und nukleinsäure (von Nuklein und Säure).
+Im deutschen Sprachgebrauch wird die Desoxyribonukleinsäure inzwischen überwiegend mit der englischen Abkürzung für deoxyribonucleic acid als DNA bezeichnet, während die Abkürzung DNS nach dem Duden als "veraltend" gilt.
+
+== Entdeckungsgeschichte
+
+1869 entdeckte der Schweizer Arzt Friedrich Miescher in einem Extrakt aus Eiter eine durch milde Säurebehandlung aus den Zellkernen der Leukozyten gewonnene Substanz, die er Nuklein nannte.
+Miescher arbeitete damals im Labor von Felix Hoppe-Seyler im Tübinger Schloss.
+1889 isoliert der Deutsche Richard Altmann aus dem Nuklein Proteine und die Nukleinsäure.
+Weitere Erkenntnisse zur Nukleinsäure gehen auf die Arbeiten von Albrecht Kossel (siehe "Die Entdeckung der Nukleinbasen") zurück, für die er 1910 mit dem Nobelpreis für Physiologie oder Medizin ausgezeichnet wurde.
+Im Jahr 1885 teilte er mit, dass aus einer größeren Menge Rinder-Bauchspeicheldrüse eine stickstoffreiche Base mit der Summenformel C5H5N5 isoliert wurde, für die er, abgeleitet von dem griechischen Wort "aden" für Drüse, den Namen Adenin vorschlug.
+1891 konnte Kossel (nach Altmanns Verfahren) Hefe-Nukleinsäure herstellen und Adenin und Guanin als Spaltprodukte nachweisen.
+Es stellte sich heraus, dass auch ein Kohlenhydrat Bestandteil der Nukleinsäure sein musste.
+Kossel wählte für die basischen Substanzen Guanin und Adenin sowie seine Derivate den Namen Nucleinbasen.
+
+1893 berichtete Kossel, dass er aus den Thymusdrüsen des Kalbes Nukleinsäure gewonnen und ein gut kristallisiertes Spaltprodukt erhalten hatte, für das er den Namen Thymin vorschlug.
+1894 isolierte er aus den Thymusdrüsen eine weitere (basische) Substanz.
+Kossel gab ihr den Namen Cytosin.
+
+Nachdem am Ende des 19. Jahrhunderts - im Wesentlichen durch die Synthesen Emil Fischers - die Strukturformeln des Guanins und Adenins als Purinkörper und des Thymins als Pyrimidinkörper endgültig aufgeklärt worden waren, konnte Kossel mit Hermann Steudel (1871-1967) auch die Strukturformel der Nukleinbase Cytosin als Pyrimidinkörper zweifelsfrei ermitteln.
+Es hatte sich inzwischen erwiesen, dass Guanin, Adenin sowie Thymin und Cytosin in allen entwicklungsfähigen Zellen zu finden sind.
+
+Die Erkenntnisse über diese vier Nukleinbasen sollten für die spätere Strukturaufklärung der DNA von wesentlicher Bedeutung sein.
+Es war Albrecht Kossel, der sie - zusammen mit einem Kohlenhydrat und der Phosphorsäure - eindeutig als Bausteine der Nukleinsäure charakterisierte:
+
+"Es gelang mir, eine Reihe von Bruchstücken zu erhalten ... welche durch eine ganz eigentümliche Ansammlung von Stickstoffatomen gekennzeichnet sind.
+Es sind hier nebeneinander ... das Cytosin, das Thymin, das Adenin und das Guanin." (Nobelvortrag am 12. Dezember 1910).
+
+Der aus Litauen stammende Biochemiker Phoebus Levene schlug eine kettenartige Struktur der Nukleinsäure vor, in welcher die Nukleotide durch die Phosphatreste zusammengefügt sind und sich wiederholen.
+1929 konnte er in Zusammenarbeit mit dem russischen Physiologen Efim London (1869-1932) den Zuckeranteil der "tierische Nukleinsäure" als Desoxyribose identifizieren (J. Biol. Chem.1929, 83. Seiten 793-802).
+Erst nachfolgend wurde sie als Desoxyribonukleinsäure bezeichnet.
+Es wurde erkannt, dass sie auch in pflanzlichen Zellkernen vorkommt.
+
+Als wirksamer Bestandteil der Chromosomen bzw. des Kernchromatins wurde die DNA bereits 1932 von K. Voit und Hartwig Kuhlenbeck angesehen.
+1937 publizierte William Astbury erstmals Röntgenbeugungsmuster, die auf eine repetitive Struktur der DNA hinwiesen.
+
+1943 wies Oswald Avery nach, dass die Transformation von Bakterien, das heißt die Weitergabe erblicher Information von einem Bakterien-Stamm auf einen anderen (heute horizontaler Gentransfer genannt), auf der Übertragung von DNA beruht.
+Dies widersprach der damals noch allgemein favorisierten Annahme, dass nicht die DNA, sondern Proteine die Träger der Erbinformation seien.
+Unterstützung in seiner Interpretation erhielt Avery 1952, als Alfred Hershey und Martha Chase nachwiesen, dass DNA die Erbinformation des T2-Phagen enthält.
+
+Den strukturellen Aufbau der DNA zu entschlüsseln und im Modell nachzubilden gelang dem US-Amerikaner James Watson und dem Briten Francis Crick am 28. Februar 1953.
+Ihre Entdeckung publizierten sie in der April-Ausgabe 1953 des Magazins Nature in ihrem berühmten Artikel Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid.
+Watson kam 1951 nach England, nachdem er ein Jahr zuvor an der Indiana University Bloomington in den USA promoviert hatte.
+Er hatte zwar ein Stipendium für Molekularbiologie bekommen, beschäftigte sich aber vermehrt mit der Frage des menschlichen Erbguts.
+Crick widmete sich in Cambridge gerade erfolglos seiner Promotion über die Kristallstruktur des Hämoglobinmoleküls, als er 1951 Watson traf.
+
+Zu dieser Zeit war bereits ein erbitterter Wettlauf um die Struktur der DNA entbrannt, an dem sich neben anderen auch Linus Pauling am California Institute of Technology (Caltech) beteiligte.
+Watson und Crick waren eigentlich anderen Projekten zugeteilt worden und besaßen kein bedeutendes Fachwissen in Chemie.
+Sie bauten ihre Überlegungen auf den Forschungsergebnissen der anderen Wissenschaftler auf.
+
+Watson sagte, er wolle das Erbgut entschlüsseln, ohne Chemie lernen zu müssen.
+In einem Gespräch mit dem renommierten Chemiker und Ersteller der Chargaff-Regeln, Erwin Chargaff, vergaß Crick wichtige Molekülstrukturen, und Watson machte im selben Gespräch unpassende Anmerkungen, die seine Unkenntnis auf dem Gebiet der Chemie verrieten.
+Chargaff nannte die jungen Kollegen im Anschluss "wissenschaftliche Clowns".
+
+Watson besuchte Ende 1952 am King's College in London Maurice Wilkins, der ihm DNA-Röntgenaufnahmen von Rosalind Franklin zeigte (was gegen den Willen von Franklin geschah).
+Watson sah sofort, dass es sich bei dem Molekül um eine Doppel-Helix handeln musste; Franklin selbst hatte aufgrund der Daten auch das Vorhandensein einer Helix vermutet, jedoch hatte sie kein überzeugendes Modell für die Struktur vorzuweisen.
+Da bekannt war, dass die Purin- und Pyrimidin-Basen Paare bilden, gelang es Watson und Crick, die ganze Molekularstruktur herzuleiten.
+So entwickelten sie am Cavendish-Laboratorium der Universität Cambridge das Doppelhelix-Modell der DNA mit den Basenpaaren in der Mitte, das am 25. April 1953 in der Zeitschrift Nature publiziert wurde.
+
+Diese denkwürdige Veröffentlichung enthält gegen Ende den Satz "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material".
+("Es ist unserer Aufmerksamkeit nicht entgangen, dass die spezifische Paarung, die wir als gegeben voraussetzen, unmittelbar auf einen möglichen Vervielfältigungsmechanismus für das genetische Material schließen lässt.")
+
+"Für ihre Entdeckungen über die Molekularstruktur der Nukleinsäuren und ihre Bedeutung für die Informationsübertragung in lebender Substanz" erhielten Watson und Crick zusammen mit Maurice Wilkins 1962 den Nobelpreis für Medizin.
+
+Rosalind Franklin, deren Röntgenbeugungsdiagramme wesentlich zur Entschlüsselung der DNA-Struktur beigetragen hatten, war zu diesem Zeitpunkt bereits verstorben und konnte daher nicht mehr nominiert werden.
+
+Für weitere geschichtliche Informationen zur Entschlüsselung der Vererbungsvorgänge siehe "Forschungsgeschichte des Zellkerns" sowie "Forschungsgeschichte der Chromosomen" und "Chromosomentheorie der Vererbung".
+
+== Aufbau und Organisation
+
+=== Bausteine
+
+Die Desoxyribonukleinsäure ist ein langes Kettenmolekül (Polymer) aus vielen Bausteinen, die man Desoxyribonukleotide oder kurz Nukleotide nennt.
+Jedes Nukleotid hat drei Bestandteile: Phosphorsäure bzw. Phosphat, den Zucker Desoxyribose sowie eine heterozyklische Nukleobase oder kurz Base.
+Die Desoxyribose- und Phosphorsäure-Untereinheiten sind bei jedem Nukleotid gleich.
+Sie bilden das Rückgrat des Moleküls.
+Einheiten aus Base und Zucker (ohne Phosphat) werden als Nukleoside bezeichnet.
+
+Die Phosphatreste sind aufgrund ihrer negativen Ladung hydrophil, sie geben DNA in wässriger Lösung insgesamt eine negative Ladung.
+Da diese negativ geladene, in Wasser gelöste DNA keine weiteren Protonen abgeben kann, handelt es sich streng genommen nicht (mehr) um eine Säure.
+Der Begriff Desoxyribonukleinsäure bezieht sich auf einen ungeladenen Zustand, in dem Protonen an die Phosphatreste angelagert sind.
+
+Bei der Base kann es sich um ein Purin, nämlich Adenin (A) oder Guanin (G), oder um ein Pyrimidin, nämlich Thymin (T) oder Cytosin (C), handeln.
+Da sich die vier verschiedenen Nukleotide nur durch ihre Base unterscheiden, werden die Abkürzungen A, G, T und C auch für die entsprechenden Nukleotide verwendet.
+
+Die fünf Kohlenstoffatome einer Desoxyribose sind von 1' (sprich Eins Strich) bis 5' nummeriert.
+Am 1'-Ende dieses Zuckers ist die Base gebunden.
+Am 5'-Ende hängt der Phosphatrest.
+Genau genommen handelt es sich bei der Desoxyribose um die 2-Desoxyribose; der Name kommt daher, dass im Vergleich zu einem Ribose-Molekül eine alkoholische Hydroxygruppe (OH-Gruppe) an der 2'-Position fehlt (d. h. durch ein Wasserstoffatom ersetzt wurde).
+
+An der 3'-Position ist eine OH-Gruppe vorhanden, welche die Desoxyribose über eine sogenannte Phosphodiester-Bindung mit dem 5'-Kohlenstoffatom des Zuckers des nächsten Nukleotids verknüpft (siehe Abbildung).
+Dadurch besitzt jeder sogenannte Einzelstrang zwei verschiedene Enden: ein 5'- und ein 3'-Ende.
+DNA-Polymerasen, die in der belebten Welt die Synthese von DNA-Strängen durchführen, können neue Nukleotide nur an die OH-Gruppe am 3'-Ende anfügen, nicht aber am 5'-Ende.
+Der Einzelstrang wächst also immer von 5' nach 3' (siehe auch DNA-Replikation weiter unten).
+Dabei wird ein Nukleosidtriphosphat (mit drei Phosphatresten) als neuer Baustein angeliefert, von dem zwei Phosphate in Form von Pyrophosphat abgespalten werden.
+Der verbleibende Phosphatrest des jeweils neu hinzukommenden Nukleotids wird mit der OH-Gruppe am 3'-Ende des letzten im Strang vorhandenen Nukleotids unter Wasserabspaltung verbunden.
+Die Abfolge der Basen im Strang codiert die genetische Information.
+
+=== Die Doppelhelix
+
+DNA kommt normalerweise als schraubenförmige Doppelhelix in einer Konformation vor, die B-DNA genannt wird.
+Zwei der oben beschriebenen Einzelstränge sind dabei aneinandergelagert, und zwar in entgegengesetzter Richtung:
+An jedem Ende der Doppelhelix hat einer der beiden Einzelstränge sein 3'-Ende, der andere sein 5'-Ende.
+Durch die Aneinanderlagerung stehen sich in der Mitte der Doppelhelix immer zwei bestimmte Basen gegenüber, sie sind "gepaart".
+Die Doppelhelix wird hauptsächlich durch Stapelwechselwirkungen zwischen aufeinanderfolgenden Basen desselben Stranges stabilisiert (und nicht, wie oft behauptet, durch Wasserstoffbrücken zwischen den Strängen).
+
+Es paaren sich immer Adenin und Thymin, die dabei zwei Wasserstoffbrücken ausbilden, oder Cytosin mit Guanin, die über drei Wasserstoffbrücken miteinander verbunden sind.
+Eine Brückenbildung erfolgt zwischen den Molekülpositionen 11 sowie 66, bei Guanin-Cytosin-Paarungen zusätzlich zwischen 22.
+Da sich immer die gleichen Basen paaren, lässt sich aus der Sequenz der Basen in einem Strang die des anderen Strangs ableiten, die Sequenzen sind komplementär (siehe auch: Basenpaar).
+Dabei sind die Wasserstoffbrücken fast ausschließlich für die Spezifität der Paarung verantwortlich, nicht aber für die Stabilität der Doppelhelix.
+
+Da stets ein Purin mit einem Pyrimidin kombiniert wird, ist der Abstand zwischen den Strängen überall gleich, es entsteht eine regelmäßige Struktur.
+Die ganze Helix hat einen Durchmesser von ungefähr 2 nm und windet sich mit jedem Zuckermolekül um 0,34 nm weiter.
+
+Die Ebenen der Zuckermoleküle stehen in einem Winkel von 36° zueinander, und eine vollständige Drehung wird folglich nach 10 Basen (360°) und 3,4 nm erreicht.
+DNA-Moleküle können sehr groß werden.
+Beispielsweise enthält das größte menschliche Chromosom 247 Millionen Basenpaare.
+
+Beim Umeinanderwinden der beiden Einzelstränge verbleiben seitliche Lücken, sodass hier die Basen direkt an der Oberfläche liegen.
+Von diesen Furchen gibt es zwei, die sich um die Doppelhelix herumwinden (siehe Abbildungen und Animation am Artikelanfang).
+Die "große Furche" ist 2,2 nm breit, die "kleine Furche" nur 1,2 nm.
+
+Entsprechend sind die Basen in der großen Furche besser zugänglich.
+Proteine, die sequenzspezifisch an die DNA binden, wie zum Beispiel Transkriptionsfaktoren, binden daher meist an der großen Furche.
+
+Auch manche DNA-Farbstoffe, wie zum Beispiel DAPI, lagern sich an einer Furche an.
+
+Die kumulierte Bindungsenergie zwischen den beiden Einzelsträngen hält diese zusammen.
+Kovalente Bindungen sind hier nicht vorhanden, die DNA-Doppelhelix besteht also nicht aus einem Molekül, sondern aus zweien.
+Dadurch können die beiden Stränge in biologischen Prozessen zeitweise getrennt werden.
+
+Neben der eben beschriebenen B-DNA existieren auch A-DNA sowie eine 1979 von Alexander Rich und seinen Kollegen am MIT erstmals auch untersuchte, linkshändige, sogenannte Z-DNA.
+Diese tritt besonders in G-C-reichen Abschnitten auf.
+Erst 2005 wurde über eine Kristallstruktur berichtet, welche Z-DNA direkt in einer Verbindung mit B-DNA zeigt und so Hinweise auf eine biologische Aktivität von Z-DNA liefert.
+Die folgende Tabelle und die daneben stehende Abbildung zeigen die Unterschiede der drei Formen im direkten Vergleich.
+
+Die Stapel der Basenpaare (base stackings) liegen nicht wie Bücher exakt parallel aufeinander, sondern bilden Keile, die die Helix in die eine oder andere Richtung neigen.
+Den größten Keil bilden Adenosine, die mit Thymidinen des anderen Stranges gepaart sind.
+Folglich bildet eine Serie von AT-Paaren einen Bogen in der Helix.
+Wenn solche Serien in kurzen Abständen aufeinander folgen, nimmt das DNA-Molekül eine gebogene bzw. eine gekrümmte Struktur an, welche stabil ist.
+Dies wird auch Sequenz-induzierte Beugung genannt, da die Beugung auch von Proteinen hervorgerufen werden kann (die sogenannte Protein-induzierte Beugung).
+Sequenzinduzierte Beugung findet man häufig an wichtigen Stellen im Genom.
+
+=== Chromatin und Chromosomen
+
+Organisiert ist die DNA in der eukaryotischen Zelle in Form von Chromatinfäden, genannt Chromosomen, die im Zellkern liegen.
+Ein einzelnes Chromosom enthält von der Anaphase bis zum Beginn der S-Phase einen langen, durchgehenden DNA-Doppelstrang (in einem Chromatid).
+Am Ende der S-Phase besteht das Chromosom aus zwei identischen DNA-Fäden (in zwei Chromatiden).
+
+Da ein solcher DNA-Faden mehrere Zentimeter lang sein kann, ein Zellkern aber nur wenige Mikrometer Durchmesser hat, muss die DNA zusätzlich komprimiert bzw. "gepackt" werden.
+Dies geschieht bei Eukaryoten mit sogenannten Chromatinproteinen, von denen besonders die basischen Histone zu erwähnen sind.
+Sie bilden die Nukleosomen, um die die DNA auf der niedrigsten Verpackungsebene herumgewickelt wird.
+Während der Kernteilung (Mitose) wird jedes Chromosom zu seiner maximal kompakten Form kondensiert.
+Dadurch können sie mit dem Lichtmikroskop besonders gut in der Metaphase identifiziert werden.
+
+=== Bakterielle und virale DNA
+
+In prokaryotischen Zellen liegt die doppelsträngige DNA in den bisher dokumentierten Fällen mehrheitlich nicht als lineare Stränge mit jeweils einem Anfang und einem Ende vor, sondern als zirkuläre Moleküle - jedes Molekül (d. h. jeder DNA-Strang) schließt sich mit seinem 3'- und seinem 5'-Ende zum Kreis.
+Diese zwei ringförmigen, geschlossenen DNA-Moleküle werden je nach Länge der Sequenz als Bakterienchromosom oder Plasmid bezeichnet.
+Sie befinden sich bei Bakterien auch nicht in einem Zellkern, sondern liegen frei im Plasma vor.
+Die Prokaryoten-DNA wird mit Hilfe von Enzymen (zum Beispiel Topoisomerasen und Gyrasen) zu einfachen "Supercoils" aufgewickelt, die einer geringelten Telefonschnur ähneln.
+Indem die Helices noch um sich selbst gedreht werden, sinkt der Platzbedarf für die Erbinformation.
+In den Bakterien sorgen Topoisomerasen dafür, dass durch ständiges Schneiden und Wiederverknüpfen der DNA der verdrillte Doppelstrang an einer gewünschten Stelle entwunden wird (Voraussetzung für Transkription und Replikation).
+Viren enthalten je nach Typ als Erbinformation entweder DNA oder RNA.
+Sowohl bei den DNA- wie den RNA-Viren wird die Nukleinsäure durch eine Protein-Hülle geschützt.
+
+=== Chemische und physikalische Eigenschaften der DNA-Doppelhelix
+
+Die DNA ist bei neutralem pH-Wert ein negativ geladenes Molekül, wobei die negativen Ladungen auf den Phosphaten im Rückgrat der Stränge sitzen.
+Zwar sind zwei der drei sauren OH-Gruppen der Phosphate mit den jeweils benachbarten Desoxyribosen verestert, die dritte ist jedoch noch vorhanden und gibt bei neutralem pH-Wert ein Proton ab, was die negative Ladung bewirkt.
+Diese Eigenschaft macht man sich bei der Agarose-Gelelektrophorese zu Nutze, um verschiedene DNA-Stränge nach ihrer Länge aufzutrennen.
+Einige physikalische Eigenschaften wie die freie Energie und der Schmelzpunkt der DNA hängen direkt mit dem GC-Gehalt zusammen, sind also sequenzabhängig.
+
+==== Stapelwechselwirkungen
+
+Für die Stabilität der Doppelhelix sind hauptsächlich zwei Faktoren verantwortlich: die Basenpaarung zwischen komplementären Basen sowie Stapelwechselwirkungen (stacking interactions) zwischen aufeinanderfolgenden Basen.
+
+Anders als zunächst angenommen, ist der Energiegewinn durch Wasserstoffbrückenbindungen vernachlässigbar, da die Basen mit dem umgebenden Wasser ähnlich gute Wasserstoffbrückenbindungen eingehen können.
+Die Wasserstoffbrücken eines GC-Basenpaares tragen nur minimal zur Stabilität der Doppelhelix bei, während diejenigen eines AT-Basenpaares sogar destabilisierend wirken.
+Stapelwechselwirkungen hingegen wirken nur in der Doppelhelix zwischen aufeinanderfolgenden Basenpaaren:
+Zwischen den aromatischen Ringsystemen der heterozyklischen Basen entsteht eine dipol-induzierte Dipol-Wechselwirkung, welche energetisch günstig ist.
+Somit ist die Bildung des ersten Basenpaares aufgrund des geringen Energiegewinnes und des -verlustes recht ungünstig, jedoch die Elongation (Verlängerung) der Helix ist energetisch günstig, da die Basenpaarstapelung unter Energiegewinn verläuft.
+
+Die Stapelwechselwirkungen sind jedoch sequenzabhängig und energetisch am günstigsten für gestapelte GC-GC, weniger günstig für gestapelte AT-AT.
+Die Unterschiede in den Stapelwechselwirkungen erklären hauptsächlich, warum GC-reiche DNA-Abschnitte thermodynamisch stabiler sind als AT-reiche, während Wasserstoffbrückenbildung eine untergeordnete Rolle spielt.
+
+==== Schmelzpunkt
+
+Der Schmelzpunkt der DNA ist die Temperatur, bei der die Bindungskräfte zwischen den beiden Einzelsträngen überwunden werden und diese sich voneinander trennen.
+Dies wird auch als Denaturierung bezeichnet.
+
+Solange die DNA in einem kooperativen Übergang denaturiert (der sich in einem enggefassten Temperaturbereich vollzieht), bezeichnet der Schmelzpunkt die Temperatur, bei der die Hälfte der Doppelstränge in Einzelstränge denaturiert ist.
+Von dieser Definition sind die korrekten Bezeichnungen "midpoint of transition temperature" bzw. Mittelpunktstemperatur Tm abgeleitet.
+
+Der Schmelzpunkt hängt von der jeweiligen Basensequenz in der Helix ab.
+Er steigt, wenn in ihr mehr GC-Basenpaare liegen, da diese entropisch günstiger sind als AT-Basenpaare.
+Das liegt nicht so sehr an der unterschiedlichen Zahl der Wasserstoffbrücken, welche die beiden Paare ausbilden, sondern viel mehr an den unterschiedlichen Stapelwechselwirkungen (stacking interactions).
+Die stacking-Energie zweier Basenpaare ist viel kleiner, wenn eines der beiden Paare ein AT-Basenpaar ist.
+GC-Stapel dagegen sind energetisch günstiger und stabilisieren die Doppelhelix stärker.
+Das Verhältnis der GC-Basenpaare zur Gesamtzahl aller Basenpaare wird durch den GC-Gehalt angegeben.
+
+Da einzelsträngige DNA UV-Licht etwa 40 Prozent stärker absorbiert als doppelsträngige, lässt sich die Übergangstemperatur in einem Photometer gut bestimmen.
+
+Wenn die Temperatur der Lösung unter Tm zurückfällt, können sich die Einzelstränge wieder aneinanderlagern.
+Dieser Vorgang heißt Renaturierung oder Hybridisierung.
+Das Wechselspiel von De- und Renaturierung wird bei vielen biotechnologischen Verfahren ausgenutzt, zum Beispiel bei der Polymerase-Kettenreaktion (PCR), bei Southern Blots und der In-situ-Hybridisierung.
+
+=== Kreuzförmige DNA an Palindromen
+
+Ein Palindrom ist eine Folge von Nukleotiden, bei denen sich die beiden komplementären Stränge jeweils von rechts genauso lesen lassen wie von links.
+
+Unter natürlichen Bedingungen (bei hoher Drehspannung der DNA) oder künstlich im Reagenzglas kann sich diese lineare Helix als Kreuzform (cruciform) herausbilden, indem zwei Zweige entstehen, die aus dem linearen Doppelstrang herausragen.
+Die Zweige stellen jeweils für sich eine Helix dar, allerdings bleiben am Ende eines Zweiges mindestens drei Nukleotide ungepaart.
+Beim Übergang von der Kreuzform in die lineare Helix bleibt die Basenpaarung wegen der Biegungsfähigkeit des Phosphodiester-Zucker-Rückgrates erhalten.
+
+Die spontane Zusammenlagerung von komplementären Basen zu sog. Stamm-Schleifen-Strukturen wird häufig auch bei Einzelstrang-DNA oder -RNA beobachtet.
+
+=== Nicht-Standard-Basen
+
+Gelegentlich werden in Viren und zellulären Organismen Abweichungen von den oben genannten vier kanonischen Basen (Standard-Basen) Adenin (A), Guanin (G), Thymin (T) und Cytosin (C) beobachtet; weitere Abweichungen können künstlich erzeugt werden.
+
+==== Natürliche Nichtstandard-Basen
+
+==== Natürliche modifizierte Basen (Methylierungen u. a.)
+
+In natürlicher DNA kommen auch modifizierte Basen vor.
+Insbesondere werden Methylierungen der kanonischen Basen im Rahmen der Epigenetik untersucht:
+
+Die Funktion dieser nicht-kanonischen Basen in der DNA ist nicht bekannt.
+Sie wirken zumindest teilweise als molekulares Immunsystem und helfen, die Bakterien vor einer Infektion durch Viren zu schützen.
+
+Nicht-Standard und modifizierte Basen bei Mikroben sind aber noch nicht alles:
+
+==== Synthetische Basen
+
+Im Labor wurde DNA (und auch RNA) mit weiteren künstlichen Basen versehen.
+Ziel ist es meist, damit unnatürliche Basenpaarungen (englisch unnatural base pairs, UBP) zu erzeugen:
+
+=== Enantiomere
+
+DNA tritt in Lebewesen als D-DNA auf; L-DNA als Enantiomer (Spiegelmer) kann allerdings synthetisiert werden (gleiches gilt analog für RNA).
+L-DNA wird langsamer von Enzymen abgebaut als die natürliche Form, was sie für die Pharmaforschung interessant macht.
+
+== Genetischer Informationsgehalt und Transkription
+
+DNA-Moleküle spielen als Informationsträger und "Andockstelle" eine wichtige Rolle für Enzyme, die für die Transkription zuständig sind.
+Weiterhin ist die Information bestimmter DNA-Abschnitte, wie sie etwa in operativen Einheiten wie dem Operon vorliegt, wichtig für Regulationsprozesse innerhalb der Zelle.
+
+Bestimmte Abschnitte der DNA, die sogenannten Gene, codieren genetische Informationen, die Aufbau und Organisation des Organismus beeinflussen.
+Gene enthalten "Baupläne" für Proteine oder Moleküle, die bei der Proteinsynthese oder der Regulation des Stoffwechsels einer Zelle beteiligt sind.
+Die Reihenfolge der Basen bestimmt dabei die genetische Information.
+Diese Basensequenz kann mittels Sequenzierung zum Beispiel über die Sanger-Methode ermittelt werden.
+
+Die Basenabfolge (Basensequenz) eines Genabschnitts der DNA wird zunächst durch die Transkription in die komplementäre Basensequenz eines sogenannten Ribonukleinsäure-Moleküls überschrieben (abgekürzt RNA).
+RNA enthält im Unterschied zu DNA den Zucker Ribose anstelle von Desoxyribose und die Base Uracil anstelle von Thymin, der Informationsgehalt ist aber derselbe.
+Für die Proteinsynthese werden sogenannte mRNAs verwendet, einsträngige RNA-Moleküle, die aus dem Zellkern ins Zytoplasma hinaustransportiert werden, wo die Proteinsynthese stattfindet (siehe Proteinbiosynthese).
+
+Nach der sog. "Ein-Gen-Ein-Protein-Hypothese" wird von einem codierenden Abschnitt auf der DNA die Sequenz jeweils eines Proteinmoleküls abgelesen.
+Es gibt aber Regionen der DNA, die durch Verwendung unterschiedlicher Leseraster bei der Transkription jeweils mehrere Proteine codieren.
+Außerdem können durch alternatives Spleißen (nachträgliches Schneiden der mRNA) verschiedene Isoformen eines Proteins hergestellt werden.
+
+Neben der codierenden DNA (den Genen) gibt es nichtcodierende DNA, die etwa beim Menschen über 90 Prozent der gesamten DNA einer Zelle ausmacht.
+
+Die Speicherkapazität der DNA konnte bisher nicht technisch nachgebildet werden.
+Mit der Informationsdichte in einem Teelöffel getrockneter DNA könnte die aktuelle Weltbevölkerung etwa 350 Mal nachgebaut werden.
+
+== DNA-Replikation
+
+Die DNA kann sich nach dem sog. semikonservativen Prinzip mit Hilfe von Enzymen selbst verdoppeln (replizieren).
+Die doppelsträngige Helix wird durch das Enzym Helikase aufgetrennt, nachdem sie von der Topoisomerase entspiralisiert wurde.
+Die entstehenden Einzelstränge dienen als Matrize (Vorlage) für den jeweils zu synthetisierenden komplementären Gegenstrang, der sich an sie anlagert.
+
+Die DNA-Synthese, d. h. die Bindung der zu verknüpfenden Nukleotide, wird durch Enzyme aus der Gruppe der DNA-Polymerasen vollzogen.
+Ein zu verknüpfendes Nukleotid muss in der Triphosphat-Verbindung - also als Desoxyribonukleosidtriphosphat - vorliegen.
+Durch Abspaltung zweier Phosphatteile wird die für den Bindungsvorgang benötigte Energie frei.
+
+Das Enzym Helikase bildet eine Replikationsgabel, zwei auseinander laufende DNA-Einzelstränge.
+In ihrem Bereich markiert ein RNA-Primer, der durch das Enzym Primase synthetisiert wird, den Startpunkt der DNA-Neusynthese.
+An dieses RNA-Molekül hängt die DNA-Polymerase nacheinander Nukleotide, die denen der DNA-Einzelstränge komplementär sind.
+
+Die Verknüpfung der neuen Nukleotide zu einem komplementären DNA-Einzelstrang kann an den beiden alten Strängen nur in 5'=3'-Richtung verlaufen und tut das demzufolge ohne Unterbrechung den alten 3'=5'-Strang entlang in Richtung der sich immer weiter öffnenden Replikationsgabel.
+
+Die Synthese des neuen Stranges am alten 5'=3'-Strang dagegen kann nicht kontinuierlich auf die Replikationsgabel zu, sondern nur von dieser weg ebenfalls in 5'=3'-Richtung erfolgen.
+Der alte Doppelstrang ist aber zu Beginn der Replikation nur ein Stück weit geöffnet, so dass an dem zweiten Strang - in "unpassender" Gegenrichtung - immer nur ein kurzes Stück neuer komplementärer DNA entstehen kann.
+
+Da dabei eine DNA-Polymerase jeweils nur etwa 1000 Nukleotide verknüpft, ist es nötig, den gesamten komplementären Strang in einzelnen Stücken zu synthetisieren.
+Wenn sich die Replikationsgabel etwas weiter geöffnet hat, lagert sich daher ein neuer RNA-Primer wieder direkt an der Gabelungsstelle an den zweiten Einzelstrang an und initiiert die nächste DNA-Polymerase.
+
+Bei der Synthese des 3'=5'-Stranges wird deshalb pro DNA-Syntheseeinheit jeweils ein neuer RNA-Primer benötigt.
+Primer und zugehörige Syntheseeinheit bezeichnet man als Okazaki-Fragment.
+Die für den Replikations-Start benötigten RNA-Primer werden anschließend enzymatisch abgebaut.
+Dadurch entstehen Lücken im neuen DNA-Strang, die durch spezielle DNA-Polymerasen mit DNA-Nukleotiden aufgefüllt werden.
+
+Zum Abschluss verknüpft das Enzym Ligase die noch nicht miteinander verbundenen neuen DNA-Abschnitte zu einem einzigen Strang.
+
+== Mutationen und andere DNA-Schäden
+
+Mutationen von DNA-Abschnitten - zum Beispiel Austausch von Basen gegen andere oder Änderungen in der Basensequenz - führen zu Veränderungen des Erbgutes, die zum Teil tödlich (letal) für den betroffenen Organismus sein können.
+
+In seltenen Fällen sind solche Mutationen aber auch von Vorteil; sie bilden dann den Ausgangspunkt für die Veränderung von Lebewesen im Rahmen der Evolution.
+Mittels der Rekombination bei der geschlechtlichen Fortpflanzung wird diese Veränderung der DNA sogar zu einem entscheidenden Faktor bei der Evolution: Die eukaryotische Zelle besitzt in der Regel mehrere Chromosomensätze, d. h., ein DNA-Doppelstrang liegt mindestens zweimal vor.
+Durch wechselseitigen Austausch von Teilen dieser DNA-Stränge, das Crossing-over bei der Meiose, können so neue Eigenschaften entstehen.
+
+DNA-Moleküle können durch verschiedene Einflüsse beschädigt werden.
+Ionisierende Strahlung, wie zum Beispiel UV- oder -Strahlung, Alkylierung sowie Oxidation können die DNA-Basen chemisch verändern oder zum Strangbruch führen.
+Diese chemischen Änderungen beeinträchtigen unter Umständen die Paarungseigenschaften der betroffenen Basen.
+Viele der Mutationen während der Replikation kommen so zustande.
+
+Einige häufige DNA-Schäden sind:
+
+Aufgrund ihrer mutagenen Eigenschaften und ihres häufigen Auftretens (Schätzungen belaufen sich auf 104 bis 106 neue Schäden pro Zelle und Tag) müssen DNA-Schäden rechtzeitig aus dem Genom entfernt werden.
+Zellen verfügen dafür über ein effizientes DNA-Reparatursystem.
+Es beseitigt Schäden mit Hilfe folgender Strategien:
+
+== Denaturierung
+
+Die Basenpaarung von DNA wird bei verschiedenen zellulären Vorgängen denaturiert.
+Die Basenpaarung wird dabei durch verschiedene DNA-bindende Proteine abschnittsweise aufgehoben, z. B. bei der Replikation oder der Transkription.
+Der Ort des Denaturierungsbeginns wird als Denaturierungsblase bezeichnet und im Poland-Scheraga-Modell beschrieben.
+Jedoch wird die DNA-Sequenz, die Steifigkeit und die Torsion nicht miteinbezogen.
+Die Lebensdauer einer Denaturierungsblase beträgt zwischen einer Mikrosekunde und einer Millisekunde.
+
+Im Labor kann DNA durch physikalische und chemische Methoden denaturiert werden.
+DNA wird durch Formamid, Dimethylformamid, Guanidiniumsalze, Natriumsalicylat, Sulfoxid, Dimethylsulfoxid (DMSO), verschiedene Alkohole, Propylenglykol und Harnstoff denaturiert, meist in Kombination mit Wärme.
+Auch konzentrierte Lösungen von Natriumhydroxid denaturieren DNA.
+Bei den chemischen Methoden erfolgt eine Absenkung der Schmelztemperatur der doppelsträngigen DNA.
+
+== DNA-Reinigung und Nachweis
+
+DNA kann durch eine DNA-Reinigung, z. B. per DNA-Extraktion, von anderen Biomolekülen getrennt werden.
+Der qualitative Nachweis von DNA (welche DNA vorliegt) erfolgt meistens durch eine Polymerasekettenreaktion, eine isothermale DNA-Amplifikation, eine DNA-Sequenzierung, einen Southern Blot oder durch eine In-situ-Hybridisierung.
+Der quantitative Nachweis (wie viel DNA vorliegt) erfolgt meistens durch eine qPCR, bei gereinigten Proben mit nur einer DNA-Sequenz kann eine Konzentration auch durch Photometrie bei einer Wellenlänge von 260 nm gemessen werden.
+Eine Extinktion von 1 einer gereinigten DNA-Lösung entspricht bei doppelsträngiger DNA einer Konzentration von 50 g/mL, bei einzelsträngiger DNA entspricht dies 33 g/mL und bei einzelsträngigen Oligonukleotiden liegt die Konzentration darunter, abhängig von der Zusammensetzung an Nukleinbasen (siehe DNA-Extraktion#Quantifizierung).
+Durch interkalierende Farbstoffe wie Ethidiumbromid, Propidiumiodid oder SYBR Green I sowie durch furchenbindende Farbstoffe wie DAPI, Pentamidine, Lexitropsine, Netropsin, Distamycin, Hoechst 33342 oder Hoechst 33258 kann DNA angefärbt werden.
+Weniger spezifisch gebundene DNA-Farbstoffe und Färbemethoden sind z. B. Methylenblau, der Carbocyanin-Farbstoff Stains-All oder die Silberfärbung.
+Durch Molecular Combing kann die DNA gestreckt und ausgerichtet werden.
+
+== "Alte" DNA
+
+Als aDNA ("ancient DNA"; alte DNA) werden Reste von Erbgutmolekülen in toten Organismen bezeichnet, wenn keine direkten Verwandten des beprobten Organismus mehr leben.
+Auch wird die DNA des Menschen dann als aDNA bezeichnet, wenn das Individuum mindestens 75 Jahre vor der Probenuntersuchung verstorben ist.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Anmerkungen und Einzelnachweise
+

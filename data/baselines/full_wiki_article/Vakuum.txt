@@ -1,0 +1,135 @@
+Vakuum ist in der technischen Praxis ein Raum mit weitgehender Abwesenheit von Materie.
+Im Vakuum gibt es keine festen Objekte oder Flüssigkeiten, nur extrem wenig Gas und damit auch einen extrem niedrigen Gasdruck.
+Ein technisches Vakuum wird erzeugt, indem man mit einer Pumpe (Gas-)Moleküle aus einem Behälter entfernt; der Druck darin sinkt (Gasdruck entsteht durch Stöße der Gasmoleküle gegen die Behälterwand).
+Das Pumpen erzeugt einen Unterdruck, also einen Druck, der geringer ist als der Umgebungsdruck.
+Sinkt der Druck im Behälter unter 300 mbar und entfernt man weiter und weiter Moleküle aus dem Raum, so erhält man der Reihe nach Grobvakuum, Feinvakuum, Hochvakuum und zuletzt Ultrahochvakuum.
+Das Herstellen eines Vakuums heißt auch "evakuieren".
+Das technische Vakuum, wie es Anfang des 20. Jahrhunderts hergestellt werden konnte, war die Voraussetzung der Einführung von Glühlampen und Elektronenröhren.
+Seitdem hat sich ein weites Feld von Vakuumtechnologien entwickelt.
+In der Physik bezeichnet Vakuum außerdem auch ein theoretisches Konzept, nämlich die vollständige Abwesenheit von Materie in einem Raumgebiet.
+Im bekannten Universum gibt es kein vollständiges Vakuum, und es ist mit bekannten technischen Mitteln auch nicht erzeugbar.
+Der Weltraum ist zum Beispiel mit einem dünnen Wasserstoffgas gefüllt.
+Die Frage nach der theoretischen Möglichkeit eines leeren Raumes haben im Abendland zuerst die griechischen Philosophen vor Sokrates - die Vorsokratiker - gestellt.
+Ihr Ausgangspunkt war nicht die naturwissenschaftliche Frage nach dem leeren Raum, sondern die allgemeinere philosophische nach dem Nichts - ob es gedacht werden kann.
+Vor demselben philosophischen Hintergrund haben sich dann Empedokles (um 433 v. Chr.) und Leukipp (um 450 bis etwa 420 v. Chr.) sowie Demokrit (um 460 bis etwa 370 v. Chr.) der Frage nach dem leeren Raum zugewandt.
+Die Frage nach der Möglichkeit eines absolut leeren Raums ist bis heute in der Physik ungelöst.
+Nach der Quantenfeldtheorie werden überall ständig virtuelle Teilchen erzeugt und wieder vernichtet.
+Unter Vakuum wird zudem im Allgemeinen nur die Abwesenheit von Materie verstanden.
+Elektromagnetische Strahlung und andere physikalische Felder könnten in dem betrachteten Raum vorhanden sein.
+In der Umgangssprache wird das Wort Vakuum für einen weitgehend luftleeren Raum genutzt.
+(Bei der Vakuumverpackung ("Vakuumierung") wird jedoch im Allgemeinen nicht einmal ein Grobvakuum erreicht.) Technik und Experimentalphysik verwenden den Ausdruck ebenfalls in diesem Sinne:
+Vakuum bezeichnet den Zustand eines Gases in einem Volumen bei einem Druck, der deutlich geringer ist als der Atmosphärendruck bei Normalbedingungen.
+Je nach dem herrschenden Restdruck spricht man von Grobvakuum, Feinvakuum, Hoch- oder Ultrahochvakuum.
+In der Quantenfeldtheorie ist das Vakuum der Zustand mit der tiefstmöglichen Energie.
+Darin haben die Teilchenzahlen für alle Arten von Teilchen (Feldquanten) den Wert null.
+Leitet man jedoch aus der Planckschen Strahlungsformel die Nullpunktsenergie her, dann folgt aufgrund der Energie-Zeit-Unschärferelation, dass im Vakuum ständig virtuelle Teilchen erzeugt und wieder vernichtet werden.
+Diese werden auch Vakuumfluktuationen genannt.
+Anders als die Naturwissenschaften sieht die Philosophie Vakuum als grundsätzlich vollkommen leeren Raum an.
+Die Idee des Vakuums stammt wahrscheinlich von Leukipp oder seinem Schüler Demokrit und war eine tragende Säule des Weltbildes der epikureischen Philosophie.
+Diese besagt, dass die Materie aus unteilbaren kleinsten Teilchen (Plural: aoo atomoi) aufgebaut ist, die sich im leeren Raum, also im Vakuum, bewegen und nur infolge der Leere des Raumes die Möglichkeit zur Bewegung und Interaktion haben.
+Diese Annahme wurde sowohl von Platon, der die Existenz von "Nicht-Seiendem" bestritt, als auch von Aristoteles abgelehnt, da eine Bewegung ohne treibendes Medium als unmöglich erschien.
+Auch den Raum zwischen den Gestirnen dachte man sich von einem Äther erfüllt.
+Aristoteles postulierte eine Abneigung der Natur gegen das Leere, die später mit dem lateinischen Ausdruck horror vacui bezeichnet wurde.
+Im Mittelalter und der frühen Renaissance galt Aristoteles als Autorität.
+Rene Descartes war von der Unmöglichkeit eines Vakuums überzeugt, da er aufgrund rationalistischer Überlegungen zu der Ansicht gelangte, Raum und Materie seien wesensmäßig gleich.
+Die Idee vom Vakuum konnte sich erst durch Demonstrationen durchsetzen.
+Das erste irdische (beziehungsweise von Menschen geschaffene) Vakuum wurde 1644 von Evangelista Torricelli mit der Hilfe einer Quecksilbersäule in einem gebogenen Glasrohr hergestellt.
+Blaise Pascal konnte kurz darauf mit seinem berühmten Versuch vide dans le vide im November 1647 erstmals beweisen, dass ein Vakuum tatsächlich existieren kann.
+Populär wurde das Vakuum durch Otto von Guericke, dem Erfinder der Luftpumpe.
+Er spannte im Jahre 1657 Pferde an zwei Metallhalbkugeln (siehe Magdeburger Halbkugeln), aus denen er vorher die Luft herausgesaugt hatte.
+Der beobachtete Effekt ist allerdings keine direkte Eigenschaft des Vakuums, sondern vielmehr durch den Druck der umgebenden Luft bedingt.
+Robert Williams Wood beobachtete erstmals 1897 den Tunneleffekt im Vakuum bei der Feldemission von Elektronen, konnte diesen Effekt allerdings noch nicht richtig deuten.
+Im ausgehenden 19. Jahrhundert wurde noch angenommen, dass sich Licht nicht im Vakuum, sondern in einem Medium, dem sogenannten Äther, ausbreiten könne.
+Mit dem Michelson-Morley-Experiment wurde vergeblich versucht, die Existenz eines solchen Äthers nachzuweisen.
+Durch die allgemeine Akzeptanz der speziellen Relativitätstheorie Einsteins von 1905 gilt das Äther-Konzept als überholt und die Ausbreitung von Licht im Vakuum als erwiesen.
+Die Streuversuche von Ernest Rutherford zeigten 1911, dass Alphastrahlung eine Goldfolie ohne Widerstand durchqueren kann.
+Dies zeigte, dass die Masse von Atomen in einem verglichen mit ihrer gesamten Ausdehnung winzigen Kern konzentriert ist.
+Darauf aufbauend entwarf Niels Bohr ein Modell, nach dem die Elektronen den Atomkern umkreisen, wie die Planeten die Sonne.
+Im Inneren der Atome und zwischen ihnen schien also ein Vakuum zu herrschen.
+Obwohl man diese Sichtweise noch gelegentlich in der Literatur antrifft, gilt das Innere der Atome heute als von den Aufenthaltsbereichen der Elektronen (Atomorbitale) ausgefüllt.
+Nach heutigem Verständnis ist aber wie bereits oben beschrieben auch das Vakuum nicht leer, da selbst der quantenmechanische Grundzustand eine endliche Energiedichte hat, die sich zum Beispiel beim Casimir-Effekt oder spontaner Emission bemerkbar macht.
+Während ein vollständig materiefreier Raum nicht herstellbar ist, können technische Vakua in verschiedenen Qualitäten hergestellt werden.
+Man unterscheidet in der Technik unterschiedliche Qualitäten des erzielten Vakuums nach der Menge der verbleibenden Materie.
+Standardmäßig wird der Druck in Pascal (Pa) oder Millibar (mbar) angegeben.
+Im Juli 2019 wurden mit der ISO 3529-1:2019 die Vakuumbereiche wie folgt eingeteilt:
+Oft wird der Druckbereich zwischen Umgebungsdruck und ca. 300 mbar auch nur als Unterdruck bezeichnet anstatt als Grobvakuum.
+Veraltet wird auch noch die Bezeichnung "Höchstvakuum" für Drücke unterhalb des Hochvakuums verwendet.
+Beim Auspumpen eines Gefäßes baut sich bis zum Feinvakuum die mechanische Belastung durch den äußeren Luftdruck auf.
+Die Grenze zum Feinvakuum lässt sich mit mechanischen Pumpen noch einfach erreichen.
+Im Bereich des Feinvakuums erreicht die freie Weglänge die typischen Ausmaße von Vakuumgefäßen, sodass die viskose Strömung über die Knudsenströmung in die molekulare Strömung übergeht.
+Die vorherrschende Strömungsart hat nicht nur fundamentalen Einfluss auf die Verwendung des Vakuums, sondern auch auf die Vakuumerzeugung und -messung selbst.
+Im breiten Bereich des Hochvakuums erhöht sich die Dauer, in der jede Stelle der Oberfläche im Mittel einmal von einem Restgasteilchen getroffen wird, von einer Stunde auf ein Jahr, was für viele Experimente ausreichend ist.
+Im Bereich des UHV beginnen die Dampfdrücke von Konstruktionswerkstoffen zu stören, z. B. von Blei-Verunreinigungen in Aluminium.
+Ein Ideales Vakuum ist technisch weder erreichbar noch messbar.
+Vorkommen und Beispiele nach Vakuumqualität:
+Messgeräte zur Bestimmung des Gasdrucks in einem Vakuum nennt man Vakuummeter.
+Licht, Teilchen, elektrische, magnetische und Gravitationsfelder breiten sich im Vakuum aus; dagegen benötigen Schallwellen ein materielles Medium und können sich daher im idealen Vakuum nicht ausbreiten.
+Wärmestrahlung kann sich als elektromagnetische Welle auch im Vakuum fortpflanzen.
+Dagegen führt die Absenkung des Drucks zur Verminderung der materiegebundenen Wärmeübertragung durch Konvektion und, sobald die mittlere freie Weglänge größer wird als der Gefäßdurchmesser, auch der konduktiven Wärmeleitung.
+Die Verringerung von Wärmeströmung durch ein Vakuum findet Anwendung zur Wärmeisolation (Isolierkannen, Dewar-Gefäße, Vakuumdämmplatte).
+Die hohe elektrische Durchschlagsfestigkeit des Hochvakuums wird bei Vakuum-Leistungsschaltern, in Vakuumkondensatoren der Hochleistungselektronik und im Hochspannungsteil evakuierter Röntgenröhren ausgenutzt.
+Bei Verringerung des Drucks sinkt die Durchschlagsfestigkeit zunächst durch das Entstehen eines Niederdruckplasmas erheblich ab.
+Erst wenn die freie Weglänge der beim Durchschlag entstehenden Ionen größer als der Elektrodenabstand wird, steigt die Durchschlagfestigkeit wieder steil an und wird erst dann wieder durch die Feldemission begrenzt.
+Abschätzen lässt sich das mit dem Paschen-Gesetz.
+Das Vakuum ist kein Lebensraum, da Lebewesen auf Materie zu ihrem Stoffwechsel angewiesen sind.
+Allerdings können viele Lebewesen (Bakteriensporen, Pflanzensamen und -sporen) einen gewissen Zeitraum im Vakuum überleben.
+Für kurze Zeit können auch höhere Lebewesen wie der gesunde Mensch dem Vakuum widerstehen, Experimente mit Vögeln wurden im Bild "Das Experiment mit dem Vogel in der Luftpumpe" dokumentiert.
+Entgegen der üblichen Annahme beginnt das Blut trotz des Druckunterschieds nicht sofort zu sieden.
+Haut und Gewebe sind normalerweise in der Lage, dem Dampfdruck der Körperflüssigkeiten bei weniger als 0,05 bar (normaler Luftdruck ist 1 bar) zu widerstehen.
+Unabhängig davon kann verminderter Druck zur Dekompressionskrankheit oder Höhenkrankheit führen.
+Auf der Erde kann ein Vakuum erzeugt werden, indem ein abgeschlossener Hohlraum, der Rezipient, vom darin enthaltenen Gas mittels geeigneter Vakuumpumpen befreit wird.
+Das einfachste Gerät ist die Wasserstrahlpumpe; sie erzeugt ein Grobvakuum, das dem Wasserdampfdruck bei der jeweils herrschenden Wassertemperatur entspricht (z. B. 23 hPa (oder mbar) bei 20 °C).
+Um ein Hoch- oder Ultrahochvakuum zu erzeugen, werden in der Physik und der Oberflächenchemie üblicherweise mehrere Pumpentypen eingesetzt.
+Zunächst wird mit einer oder mehreren mechanisch wirkenden Pumpen (z. B. Drehschieberpumpe, Membranpumpe oder Scrollpumpe) ein Unterdruck ("Vordruck") im Hohlraum im Bereich von 1 bis 100 Pa (0,01 bis 1 mbar) erzeugt.
+Abhängig von der Größe des Hohlraums und der Pumpleistung der Pumpen dauert dies beispielsweise einige Minuten.
+Danach wird mittels Ventilen zwischen diese Vorpumpe(n) und den Hohlraum eine Turbomolekularpumpe (oder bei geringeren Ansprüchen die billigere Öldiffusionspumpe) eingefügt, die in einem bis zu mehreren Stunden dauernden Prozess ein Hochvakuum von ungefähr 10-7 mbar erzeugt.
+Dieser Druck lässt sich nicht mehr durch einfaches Fortsetzen des Pumpens verringern, da an Flächen adsorbiertes Wasser und andere Stoffe mit niedrigem Dampfdruck ständig desorbiert werden.
+Die Desorption wird beschleunigt, indem die Kammer durch direkte Heizung der Kammerwände und indirekte thermische Erwärmung der inneren Oberflächen auf eine Temperatur gebracht wird, die mindestens über dem Siedepunkt von Wasser, möglichst aber deutlich höher liegt.
+Die eingebauten Komponenten, wie Durchführungen für elektrische Verbindungen und Sichtfenster, müssen entsprechend temperaturbeständig sein.
+Temperaturen für dieses Ausheizen liegen typischerweise zwischen 130 °C und über 200 °C.
+Da Vakuumapparaturen auch bei dieser Temperatur dem außen vorhandenen Luftsauerstoff widerstehen müssen, sind sie oft aus nichtrostendem Stahl oder Glas, mit Dichtungen aus Aluminium oder Teflon.
+Das desorbierte Wasser wird während des Ausheizens durch die Turbomolekularpumpen größtenteils abgepumpt, ebenso wie eventuelle Kohlenwasserstoff-Kontaminationen.
+Dies dauert typischerweise 24 Stunden oder länger; bei Kammern mit komplex angeordneten inneren Oberflächen durch angebaute Apparaturen wird oft erst nach zwei bis drei Tagen die Heizung heruntergefahren.
+Zum Erreichen des Ultrahochvakuums werden nichtmechanische Pumpen verwendet.
+Eine Ionengetterpumpe pumpt durch Ionisation und Einfangen der Restgasmoleküle in Titanröhrchen in einem Druckbereich von 10-10 bis 10-7 mbar.
+Die Pumpleistung reicht hier nur dann aus, wenn das Ausheizen vorher den Restgasdruck genügend vermindert hat.
+Eine Titansublimationspumpe arbeitet mit frisch auf eine Wand aufsublimiertem Titan, das sich durch eine hohe chemische Reaktivität auszeichnet und Restgasatome an sich und die (kalte) Kammerwand bindet, so dass sich der Restgasdruck weiter vermindert.
+Der mit diesem oben beschriebenen Verfahren erreichbare Restgasdruck liegt im Bereich von 10-11 mbar.
+Durch Kühlfallen am unteren Teil der Kammer kann weiteres Restgas temporär gebunden und der Kammerdruck auf ungefähr 10-12 mbar gesenkt werden.
+Wird die gesamte Kammer in flüssiges Helium getaucht, so sind Drücke von unter 10-16 mbar erreichbar.
+Technische Vakua finden Anwendung in der Forschung, in der Elektronenmikroskopie, bei der Erschmelzung von metallischen Werkstoffen und in der Fertigung von Mikroelektronik.
+Ein Grobvakuum wird häufig verwendet, um mit Hilfe von Sauggreifern flächige Werkstücke festzuhalten und/oder zu transportieren.
+Sehr oft wird Vakuum bei der Wärmebehandlung von Metallen (Härten, Anlassen, Nitridieren, Aufkohlen) eingesetzt, um ein Oxidieren durch Sauerstoff, der sich in der Luft befindet, zu verhindern.
+Glühlampen und somit das elektrische Licht wurden erst durch das Vakuum möglich.
+Vor allem bei Edisons Glühlampe mit Kohlefaden verhinderte das Vakuum, dass der Glühfaden verbrannte (siehe auch Kohlenfadenlampe); erst später wurden Glühlampen mit einer Füllung aus Stickstoff oder anderem Gas, das die Verbrennung nicht unterstützt, hergestellt.
+Im Innenraum von Elektronenröhren und Bildröhren herrscht Hochvakuum, um die Streuung der Elektronen gering zu halten.
+Verbleibende und später ausdiffundierende Gasreste werden mit einem Getter gebunden.
+Das Hochvakuum in Elektronenröhren (auch Bildröhren), Röntgenröhren, Magnetrons, Elektronenstrahlquellen, Teilchenbeschleunigern, Vakuum-Fluoreszenzanzeigen u. Ä. vergrößert die freie Weglänge der Elektronen auf ein Maß von der Größenordnung des gesamten Gefäßes, so dass kaum Stöße mit Gasresten stattfinden, die sonst den Teilchenstrahl stören würden.
+Nach DIN 8580 Fertigungsverfahren - Begriffe, Einteilung gehört das Evakuieren zu den Fertigungsverfahren, womit die Herstellung eines Vakuums in Hohlkörpern oder Hohlräumen eines Werkstücks gemeint ist.
+Es kann sich dabei um ein dauerhaftes Vakuum handeln, das zur Funktion des Werkstücks erforderlich ist, wie bei Elektronenröhren, oder das Evakuieren ist die Voraussetzung für das Einfüllen eines Schutzgases, wie es in der elektrischen Schalttechnik zur Funkenlöschung Verwendung findet.
+Die Entgasung unter Vakuum gehört dagegen als ein sogenanntes Trennverfahren zum Bereich der Verfahrenstechnik.
+Beim Kernschritt der Plastination, der forcierten Imprägnierung, wird Vakuum benutzt, um Aceton oder Dichlormethan aus dem Präparat zu extrahieren.
+Die Gefriertrocknung entzieht Stoffen Wasser, indem sie tiefgefroren und einem Vakuum ausgesetzt werden.
+Beim Gefriertrocknen etwa von Kaffee, Tee, Gemüse, Blut oder auch biologischen Präparaten findet Sublimation statt, das Eis geht direkt in die Gasphase über, es gibt hierbei keine flüssige Phase, die sieden könnte.
+Der Kristallisationsprozess in der Zuckerfabrikation findet unter Vakuum statt, um durch den niedrigeren Siedepunkt der Zuckerlösung beim Wasserentzug ein Karamellisieren zu verhindern.
+Da der Siedepunkt von Flüssigkeiten mit sinkendem Umgebungsdruck auch sinkt, kann man hochsiedende Substanzen im Vakuum schonender bei niedrigeren Temperaturen destillieren (Vakuumdestillation).
+Als grobe Regel gilt, dass bei einer Halbierung des Druckes der Siedepunkt um etwa 10 bis 15 K sinkt.
+Ein weiterer Anwendungsbereich ist die Verpackung von Lebensmitteln (Vakuumverpackung) und anderer verderblicher Produkte unter Vakuum.
+Die verderblichen Produkte werden von gasdichten Kunststoffhüllen umschlossen.
+Durch die geringe verbleibende Luftsauerstoffmenge können Alterungs- und Verwesungsvorgänge (Stoffwechsel- und Oxidationsprozesse) nur stark eingeschränkt stattfinden, was das Produkt länger haltbar macht.
+Im Haushalt können Lebensmittel in Tüten verpackt und mit Vakuumiergeräten evakuiert werden, so dass sich die Tütenfolie an das verpackte Gut anlegt; dadurch gelangt weniger Sauerstoff an die Lebensmittel.
+Zusätzlich verringert sich das Volumen.
+Die verwendeten Vakuumiergeräte können jedoch nur ein Grobvakuum erzeugen.
+Beim Einwecken/ Einkochen werden die Lebensmittel sterilisiert und eventuell enthaltene Gase ausgetrieben; im Einweckglas kann der verbleibende "Luftraum" weitgehend durch Wasserdampf eingenommen werden.
+Durch die Dichtungsringe bleibt ein besseres Grobvakuum über längere Zeiträume erhalten; restliche Luftanteile sind ebenfalls sterilisiert.
+Beim Vakuumgaren werden die vakuumverpackten Nahrungsmittel (Fleisch, Gemüse usw.) entweder im Wasserbad oder in temperaturgeregeltem Dampf bei Temperaturen unter 100 °C gegart und behalten so Struktur und Aroma besser als bei den üblichen Garverfahren.
+Beim Vakuumfrittieren z. B. von Kartoffelchips geht es vor allem darum, durch die niedrigeren Temperaturen beim Frittieren die Entstehung schädlicher Nebenprodukte der Maillard-Reaktion wie z. B. Acrylamid zu verhindern bzw. zu reduzieren.
+Die geringe Wärmeübertragung im Vakuum wird bei Isolierkannen und Dewargefäßen ausgenutzt, ebenso bei Vakuumröhrenkollektoren und selten auch bei Mehrscheiben-Isolierglas und Vakuumdämmplatten.
+Es gibt Zweischeiben-Isolierglas, bei dem zwischen den Scheiben ein Vakuum statt eines Edelgases ist.
+Weil sich die beiden Scheiben unter dem einseitig auf den Scheiben lastenden Luftdruck verformen, sind unscheinbare transparente Abstandshalter zwischen den Scheiben auf die Fläche verteilt erforderlich.
+Ergebnis ist eine vergleichsweise dünne und leichte Verglasung mit sehr geringer Wärmeleitfähigkeit.
+Das im Weltraum im interstellaren Raum oder im intergalaktischen Raum herrschende Vakuum ist besser als jedes auf der Erde herstellbare Vakuum.
+Allerdings ist auch der Weltraum nicht völlig leer, sondern enthält durchschnittlich ein Teilchen pro cm^3, innerhalb von Voids jedoch deutlich weniger (bis zu 1 Teilchen pro Kubikmeter).
+Auch kommen dort statische elektrische und magnetische Felder, Gravitationsfelder sowie elektromagnetische Wellen (Photonen) und Teilchenströme (Neutrinos, kosmische Strahlung, Partikel) vor (siehe auch Plenismus).
+Künstliche Satelliten und Raumsonden unterliegen daher besonderen Anforderungen an die Konstruktion: Die Regelung des Wärmehaushaltes (innere Wärmequellen und Sonneneinstrahlung) kann nur durch Wärmeleitung und -strahlung erfolgen, Wärmeabgabe und -aufnahme müssen durch teilweise variable absorbierende bzw. abstrahlende oder reflektierende Elemente (Jalousien, wärmeabstrahlende Kühlkörper, Heatpipes) gewährleistet werden.
+Im Sonnenschatten lassen sich aufgrund des Vakuums durch Abstrahlung auch gezielt sehr tiefe Temperaturen erzeugen (z. B. für Infrarot- und Radiowellen-Strahlungssensoren).

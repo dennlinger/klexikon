@@ -1,0 +1,12 @@
+Laser (/lzr/, auch /lezr/ oder /lazr/; Akronym für englisch light amplification by stimulated emission of radiation ,Licht-Verstärkung durch stimulierte Emission von Strahlung') bezeichnet sowohl den physikalischen Effekt als auch das Gerät, mit dem Laserstrahlen erzeugt werden.
+Laserstrahlen sind elektromagnetische Wellen.
+Vom Licht einer zur Beleuchtung verwendeten Lichtquelle, beispielsweise einer Glühlampe, unterscheiden sie sich vor allem durch die sonst unerreichte Kombination von hoher Intensität, oft sehr engem Frequenzbereich (monochromatisches Licht), scharfer Bündelung des Strahls und großer Kohärenzlänge.
+Auch sind, bei sehr weitem Frequenzbereich, extrem kurze und intensive Strahlpulse mit exakter Wiederholfrequenz möglich.
+Laser haben zahlreiche Anwendungsmöglichkeiten in Technik und Forschung sowie im täglichen Leben, vom einfachen Lichtzeiger (z. B. Laserpointer bei Präsentationen) über Entfernungsmessgeräte, Schneid- und Schweißwerkzeuge, Auslesen von optischen Speichermedien wie CDs, DVDs und Blu-ray Discs, Nachrichtenübertragung bis hin zum Laserskalpell und anderen Laserlicht verwendenden Geräten im medizinischen Alltag.
+Laser gibt es für Strahlungen in verschiedenen Bereichen des elektromagnetischen Spektrums: von Mikrowellen (Maser) über Infrarot, sichtbares Licht, Ultraviolett bis hin zu Röntgenstrahlung.
+Die besonderen Eigenschaften der Laserstrahlen entstehen durch ihre Erzeugung in Form einer stimulierten Emission.
+Der Laser arbeitet wie ein optischer Verstärker, typischerweise in resonanter Rückkopplung.
+Die dazu erforderliche Energie wird von einem Lasermedium (bspw. Kristall, Gas oder Flüssigkeit) bereitgestellt, in dem aufgrund äußerer Energiezufuhr eine Besetzungsinversion herrscht.
+Die resonante Rückkopplung entsteht in der Regel dadurch, dass das Lasermedium sich in einem elektromagnetischen Resonator für die Strahlung bestimmter Richtung und Wellenlänge befindet.
+Neben den diskreten Energieniveaus atomarer Übergänge gibt es auch Laserbauarten mit kontinuierlichen Energieübergängen wie den Freie-Elektronen-Laser.
+Da atomare Energieniveaus kleiner 13,6 eV beschränkt sind, dies entspricht einer Grenze bei der Wellenlänge von 90 nm, benötigen die im Bereich der Röntgenstrahlung mit Wellenlängen kleiner 10 nm arbeitenden Röntgenlaser Bauarten mit kontinuierlichen Energieübergängen.

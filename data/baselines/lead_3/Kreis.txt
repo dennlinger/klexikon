@@ -1,0 +1,3 @@
+Ein Kreis ist eine ebene geometrische Figur.
+Er wird definiert als die Menge aller Punkte einer Ebene, die einen konstanten Abstand zu einem vorgegebenen Punkt dieser Ebene (dem Mittelpunkt) haben.
+Der Abstand der Kreispunkte zum Mittelpunkt ist der Radius oder Halbmesser des Kreises, er ist eine positive reelle Zahl.

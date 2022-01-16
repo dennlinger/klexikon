@@ -1,0 +1,55 @@
+Als Stoffwechsel oder Metabolismus (altgriechisch aoo metabolismos, deutsch ,Stoffwechsel', mit lateinischer Endung -us) bezeichnet man alle chemischen Umwandlungen von Stoffen im Körper von Lebewesen, beispielsweise die Umwandlung von Nahrungsmitteln in Zwischenprodukte (Metaboliten) und Endprodukte.
+Diese biochemischen Vorgänge dienen dem Aufbau, Abbau und Ersatz bzw. Erhalt der Körpersubstanz (Baustoffwechsel) sowie der Energiegewinnung für energieverbrauchende Aktivitäten (Energiestoffwechsel) und damit der Aufrechterhaltung der Körperfunktionen und somit des Lebens.
+Wesentlich für den Stoffwechsel sind Enzyme, die chemische Stoffumsetzungen beschleunigen und lenken (katalysieren).
+Werden von außen aufgenommene, fremde Stoffe umgesetzt, so spricht man auch von Fremdstoffmetabolismus.
+Der Umbau organismenfremder Stoffe in organismeneigene Stoffe wird Assimilation genannt.
+Das Gegenteil ist die Dissimilation (Abbau organismuseigener Stoffe).
+Zum Stoffwechsel gehört auch die Umwandlung schädlicher Stoffe in ausscheidbare Stoffe (Biotransformation).
+Stoffwechselvorgänge werden vor allem in der Biochemie erforscht.
+In der Medizin und Physiologie sind sie von großer Bedeutung (siehe auch Stoffwechselstörung).
+Sie können aber auch physikalisch gedeutet werden, als Austausch von freier Energie gegen Ordnung:
+Lebewesen erhöhen in sich die Ordnung und verbrauchen dabei Energie.
+Im Organismus nimmt die Entropie (Unordnung) ab, in der Umgebung nimmt sie zu.
+Der gesamte Stoffwechsel kann eingeteilt werden in katabole Reaktionen, welche durch den Abbau von chemisch komplexen Nahrungsstoffen zu einfacheren Stoffen Energie liefern (Katabolismus), und anabole Reaktionen, welche unter Energieverbrauch körpereigene Stoffe aus einfachen Bausteinen aufbauen (Anabolismus).
+Katabolismus und Anabolismus haben eine gemeinsame Schnittstelle:
+Im Intermediärstoffwechsel werden relativ einfache Moleküle umgebaut, die als Zwischenprodukte (Metaboliten) sowohl vom katabolen als auch vom anabolen Stoffwechsel bereitgestellt werden können.
+Der Stoffwechsel ist ein komplexes Netzwerk von einzelnen Reaktionen.
+Gruppen von Reaktionen, die unmittelbar aufeinander folgen, werden Stoffwechselwege genannt.
+Diese können linear (z. B. Glycolyse) oder zyklisch (z. B. Citratzyklus) sein.
+Die meisten Stoffwechselwege sind amphibol, das heißt, sie laufen in verschiedenen Schritten katabol und anabol ab.
+Auch wenn viele Einzelschritte reversibel sind, ist der ganze Stoffwechselweg immer irreversibel, da mindestens ein Reaktionsschritt nur in anabole oder katabole Richtung verläuft.
+Die Geschwindigkeit der Energiebereitstellung durch den Energiestoffwechsel wird Stoffwechselrate oder Metabolismusrate genannt.
+Sie ist als Energieumsatz des Organismus pro Zeiteinheit definiert.
+Die basale Stoffwechselrate ist der Energieverbrauch bei völliger Ruhe; insbesondere beim Menschen spricht man vom Grundumsatz.
+Nach dem IUPAC/ IUBMB Enzym-Klassifikationssystem gibt es sechs Hauptgruppen von Enzymreaktionen.
+Dadurch kann auch der Stoffwechsel, in dem Reaktionen durch Enzyme katalysiert werden, ebenfalls in sechs Gruppen von Reaktionen unterteilt werden, nämlich in Redoxreaktionen, Gruppenübertragungsreaktionen, Hydrolysereaktionen, Lyase-Reaktionen (Addition, Hydratisierung), Isomerisierungsreaktionen und Ligationsreaktionen.
+Zell- und Biomembranen sind keineswegs nur "Beutel", in denen sich Enzyme und ihre Reaktionspartner frei bewegen können.
+Vielmehr bilden sie für geladene Moleküle (Ionen) eine undurchdringliche Barriere.
+In den Membranen finden sich allerdings Membranproteine, die selektiv Ionen durch die Membran durchlassen oder sogar aktiv transportieren.
+Letztere sorgen durch den Export von Kationen dafür, dass die Membranen außen positiv und innen negativ elektrisch geladen sind (Membranpotential).
+In dieser Ladung steckt Energie.
+Sie wird für eine Reihe von Transport- und Bewegungsprozessen frei, wenn die Kationen zurück fließen.
+So fließt durch die Membranen praktisch aller lebenden Zellen ständig ein Strom von positiv geladenen Teilchen.
+Angetrieben wird dieser Strom durch exergone chemische Reaktionen.
+So verbrauchen Nervenzellen kontinuierlich ATP, um ihr Membranpotential aufrechtzuerhalten.
+Das geschieht dort durch ATPasen, die als Natrium-Kalium-Pumpen fungieren.
+Die Regenerierung von verbrauchtem ATP basiert bei nahezu allen Lebewesen fast ausschließlich auf der Nutzung des Membranpotentials durch das Enzym ATP-Synthase (Abb. 1).
+In dafür spezialisierten Organellen (den Mitochondrien) von Tieren und Pflanzen sowie in nahezu allen Archaeen und Bakterien fungieren Oxidoreduktasen als Kationen-Pumpen, die das Membranpotential aufrechterhalten.
+Beim Menschen sind das die Enzyme der Atmungskette.
+Pflanzen verwenden dafür auch ihren Photosynthese-Apparat in den Chloroplasten.
+Der Transport von Stoffen durch Transportproteine kann innerhalb von Zellkompartimenten, außerhalb von Zellen, oder über Kompartimentgrenzen (Biomembrane) hinweg geschehen.
+Es kann sich um reine Diffusionsprozesse, erleichterte Diffusion oder aktiven, ATP verbrauchenden Membrantransport handeln.
+Mit der Transporter Classification Database (TCDB) steht eine von der IUBMB sanktionierte Klassifikation der Transportproteine zur Verfügung, die sich zusätzlich zur Funktion an der Abstammung der Proteine orientiert.
+Bei dieser Definition von Transport werden allerdings alle Proteine, die Stoffe zeitweilig nur binden und in dieser Zeit selbst transportiert werden (beispielsweise mit dem Blutkreislauf), nicht erfasst.
+Die Hauptgruppen in der TCDB sind Porine und Ionenkanäle, potenzialgetriebene Transporter, primär aktive Transporter, Phosphotransferasen, Transmembran-Elektronencarrier, Hilfstransporter und andere.
+Pflanzen, Algen, einige Bakterien und Archaea betreiben Photosynthese.
+Sie verwenden die Energie des Lichts, um Kohlenstoffdioxid (bei Landpflanzen aus der Luft stammend), Wasser und andere Ausgangsstoffe in körpereigenes Material umzuwandeln.
+Dieses dient entweder sofort dem weiteren Aufbau und Wachstum des Organismus, oder es dient als Speicherstoff, wie zum Beispiel Kohlenhydrate (siehe auch Calvin-Zyklus).
+Die Reservestoffe können später im Baustoffwechsel oder im Energiestoffwechsel verarbeitet werden.
+Sekundäre Pflanzenstoffe sind chemische Verbindungen, die von Pflanzen produziert werden, aber weder im Baustoffwechsel noch im Energiestoffwechsel benötigt werden.
+Tiere verstoffwechseln (metabolisieren) bei ihrer Verdauung andere Organismen oder deren Speicherstoffe (etwa Kohlenhydrate, Proteine oder Fette), siehe auch Chemotrophie.
+Bei Mikroorganismen finden sich weitere Typen des Stoffwechsels.
+Darüber hinaus ist in der Ratgeberliteratur zu Ernährung und Diäten gelegentlich von verschiedenen "Stoffwechseltypen" beim Menschen die Rede, siehe Metabolic Typing.
+Mit der oben genannten Einteilung der Lebewesen haben individuelle Besonderheiten innerhalb einzelner Arten nichts zu tun.
+Menschen unterscheiden sich in Merkmalen ihres Stoffwechsels ebenso wie in anderen Merkmalen.
+Die Lehre von bestimmten "Typen" gilt jedoch als spekulativ und unwissenschaftlich.

@@ -1,0 +1,156 @@
+Motorenbenzin (abgekürzt "Benzin") ist ein komplexes Gemisch von etwa 150 verschiedenen Kohlenwasserstoffen, deren Siedebereich zwischen denen von Butan und Kerosin/Petroleum liegt.
+Es wird hauptsächlich aus veredelten Komponenten der Erdölraffination hergestellt und als Kraftstoff eingesetzt.
+Motorenbenzin gehört zu den "Ottokraftstoffen"; es existieren daneben auch andere Ottokraftstoffe.
+
+Motorenbenzin wird auch als Brennstoff für Benzinkocher verwendet.
+
+== Etymologische Herkunft, Begriff
+
+Der ursprüngliche Name stammt von dem arabischen Wort für Benzoeharz, luban dschawi - "Weihrauch aus Java".
+Dieser Ausdruck gelangte durch arabische Handelsbeziehungen mit Katalonien nach Europa.
+Mit dem Wegfall der ersten Silbe und der Änderung des ersten a zu e entstand im Italienischen benju, im Mittellateinischen benzoe, woraus sich das deutsche Wort Benzol entwickelte.
+
+1825 entdeckte Faraday die später Benzol genannte Verbindung in geleerten Gasflaschen, er nannte sie damals bicarbure d'hydrogene, bevor sie von Eilhard Mitscherlich in Benzin umbenannt wurde.
+Er bezeichnete damit allerdings das heutige Benzol.
+Mitscherlich benannte den Stoff nach dem von ihm benutzten Ausgangsstoff, dem Benzoeharz.
+Die Zuordnung zum heutigen Benzin geschah durch Justus von Liebig.
+
+Die Bezeichnung "Benzin" geht daher nicht, wie teilweise irrtümlich angenommen wird, auf den Motorenbauer Carl Benz zurück, im Gegensatz zum Dieselkraftstoff, der tatsächlich nach Rudolf Diesel benannt ist.
+Die Entdeckung des Benzin-Luftgemischs als geeignete Kraftstoffquelle für Automobile geht auf Siegfried Marcus zurück.
+
+== Sorten von Motorenbenzin
+
+Es gibt verschiedene Sorten von Benzinen, die sich in ihrer Klopffestigkeit und zu deren Erreichung auch in der Zusammensetzung des Kohlenwasserstoffgemisches unterscheiden.
+
+Die PKW-Hersteller schreiben für ihre Motoren eine Mindestoktanzahl vor; bei Sorten mit niedrigerer Oktanzahl können durch Klopfen Schäden auftreten, es sei denn, dass der Motor sich mit Hilfe eines Klopfsensors durch Verstellung des Zündzeitpunkts in gewissen Grenzen und unter geringfügigem Leistungsverlust darauf einzustellen vermag.
+Bei Sorten mit höherer Oktanzahl dagegen sind dementsprechend auch geringfügige Leistungs- oder Effizienzsteigerungen möglich.
+Da die Verstellgrenze allerdings herstellerseits meist für eine bestimmte in der Bedienungsanleitung angegebene Oktanzahl ausgelegt ist, können viele Motoren die neuen 100-Oktan-Benzine nicht ausnutzen.
+
+In Deutschland wurde seit November 2007 der Preis des Normalbenzins an den des Superbenzins angeglichen.
+Vertreter von Automobilclubs äußerten die Vermutung, dass die Mineralölunternehmen mittelfristig Normalbenzin abschaffen wollten, um mehr Erlöse und weniger Kosten zu haben, was 2007 von Mineralölunternehmen noch als unbegründet zurückgewiesen wurde.
+Mitte September 2008 nahm Shell als erster großer Mineralölkonzern das Normalbenzin komplett aus seinem Angebot, da es kaum noch gekauft würde.
+Im Jahr 2010 verschwand Normalbenzin von den deutschen Tankstellen, die Zapfsäulen wurden auf Super E10 umgestellt.
+
+Außer der Unterscheidung nach Klopffestigkeit gibt es noch die Unterscheidung in Sommerbenzin, Winterbenzin und Übergangsware (siehe unten, Herstellung).
+
+== Herstellung
+
+Die Hauptbestandteile des Benzins sind vorwiegend Alkane, Alkene, Cycloalkane und aromatische Kohlenwasserstoffe mit 5 bis 11 Kohlenstoff-Atomen pro Molekül und einem Siedebereich zwischen 25 °C und 210 °C.
+Daneben werden dem Roh-Benzin noch diverse Ether (wie MTBE, ETBE) und Alkohole (Ethanol, sehr selten auch noch Methanol) beigemischt.
+Die Ether bzw. das Ethanol erhöhen die Klopffestigkeit des fertigen Benzins.
+
+Die Kohlenwasserstoffe werden im ersten Schritt durch fraktionierte Destillation aus Erdöl gewonnen.
+Nach ggf. mehreren Veredelungsschritten erhält man folgende (zumeist entschwefelte) Komponenten (Auswahl):
+
+Folgende Komponenten stammen nicht aus der obengenannten Raffinerieproduktion, sondern werden bei der Abmischung der einzelnen Komponenten dem Benzin zugegeben:
+
+In der Regel wird in einer einzelnen Raffinerie nur eine Auswahl dieser Komponenten hergestellt.
+Ether und Ethanol werden meist zugekauft.
+
+Die Komponenten werden i. d. R. separat in Tanks gelagert und von dort über eine Blending-Station zur Fertigware aufgemischt.
+Je nach Sorte unterscheiden sich die Mischungsverhältnisse (siehe Blenden).
+Z. B. werden in hochoktanige Sorten auch verstärkt hochoktanige Komponenten zugemischt.
+Einige Spezifikationen (DVPE, E70) variieren in Abhängigkeit von der Jahreszeit.
+Es wird zwischen Sommer-, Übergangs- und Winterware unterschieden.
+Um im Sommer der Dampfblasenbildung vorzubeugen, werden weniger leichtsiedende Anteile (Butan, Isopentan) im Blend verwendet.
+Ein Anteil von mehr leichtsiedenden Bestandteilen im Winterbenzin erleichtert dagegen den Kaltstart.
+
+Neben der wichtigsten Qualität Oktanzahl (ROZ und MOZ) haben folgende Spezifikationen (s. u.) wesentlichen Einfluss auf den Blend:
+
+Der Blend muss möglichst ökonomisch gestaltet werden, d. h. ROZ oder MOZ, DVPE und Aromatenanteil sollten möglichst "angefahren" werden.
+Natürlich sind solche Kriterien von Raffinerie zu Raffinerie verschieden.
+Auch die Preisstruktur des Produktumfeldes (Jet-Preis, MTBE-Preis, Naphtha-Preis) beeinflusst die Blendingstrategie.
+
+=== Entschwefelung
+
+Bei der Entschwefelung von Erdölprodukten werden Sulfidgruppen durch Hydrodesulfurierung von den Kohlenstoffketten abgespalten.
+Dabei entsteht Schwefelwasserstoff, der durch Aminwäsche entfernt und anschließend unter anderem mit dem Claus-Verfahren zu elementarem Schwefel umgesetzt wird.
+Die Entschwefelung ist Voraussetzung für die Verwendbarkeit in Motoren mit Abgaskatalysatoren.
+
+=== Additive
+
+Der Grundkraftstoff unterscheidet sich bei den verschiedenen Mineralölkonzernen nicht, er stammt häufig sogar aus derselben Raffinerie.
+Ihm wird, meist durch eine sogenannte "Endpunktdosierung" direkt vor der Tankwagenverladung, ein Additivpaket beigemischt, das spezifisch für den jeweils belieferten Konzern ist.
+Zu diesen Additiven gehören Oxidationsinhibitoren, Korrosionsschutzmittel, Detergentien (Schutz vor Ablagerungen im Einspritzsystem) und Vergaservereisungs-Inhibitoren.
+
+In Deutschland wurden 2014 circa 19,5 Millionen Tonnen Motorenbenzin hergestellt.
+
+=== Verbleites Benzin
+
+Seit 2000 ist verbleites Motorenbenzin in der EU verboten (siehe Entwicklung der Ottokraftstoffe).
+Lediglich Flugbenzin darf noch verbleit werden.
+Der Zusatz "bleifrei" wird in den Sortenbezeichnungen aber noch mitgeführt.
+
+=== Synthetisches Benzin
+
+Benzin wurde in Deutschland seit den 1920er Jahren bis zum Ende des Zweiten Weltkriegs wegen Erdölmangels auch durch Kohleverflüssigung aus Kohle gewonnen (synthetisches Benzin).
+Der hohe Energieaufwand und der hohe CO2-Ausstoß machen das Verfahren heute meist unwirtschaftlich, wenn billigeres Erdgas oder Erdöl zur Verfügung steht.
+Jedoch werden auch heute noch in Südafrika solche Anlagen betrieben und weitere in der Welt geplant (siehe Kohleverflüssigung - Bedeutung).
+
+=== CO2-Bilanz Well-to-Tank
+
+Laut einer Shell-Studie fallen bei Benzin- und Diesel-Kraftstoffen im Bereich Herstellung und Bereitstellung (Well-to-Tank) 15-20 % der gesamten CO2-Emission an (Well-to-Wheel).
+
+== Spezifikationen
+
+Die wichtigsten Benzinarten sind in der Norm EN 228 festgelegt.
+
+Neben der (Mindest-)Oktanzahl sind noch folgende wichtige Spezifikationen zu erfüllen:
+
+=== Zapfsäulenaufkleber (Deutschland)
+
+Nach § 13 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen (10. BImSchV) sind im geschäftlichen Verkehr die gewährleisteten Qualitäten an den Zapfsäulen sowie an der Tankstelle "deutlich sichtbar zu machen".
+In Deutschland findet man deshalb an allen Benzin-Zapfsäulen die in der 10. BImSchV (Anlagen 1a-b und 2a-b) geforderten runden Aufkleber mit dem Text:
+
+Auf Grund von EU-Vorschriften kommt seit dem 1. Januar 2011 zunehmend Super E10 mit einem Zusatz von bis zu 10 % Bioethanol auf den deutschen Markt.
+Für diesen Kraftstoff schreibt die 10. BImSchV zusätzliche Warnhinweise auf die E10-Verträglichkeit der Fahrzeuge vor.
+Siehe hierzu auch: 10. BImSchV: Auszeichnung an Zapfsäulen.
+
+== Verbrauch
+
+In Deutschland wurden 2014 circa 18,5 Millionen Tonnen Motorenbenzin verbraucht (davon circa 2000 Tonnen Normalbenzin).
+Der Produktionsüberschuss (siehe Herstellung) wird exportiert (vorwiegend Schweiz und USA).
+
+== Preise
+
+Die Preise für Motorenbenzin (Handelsbezeichnung: Regular = ROZ 91, Premium = ROZ 95, Premium Plus = ROZ 98) orientieren sich in Europa am Rotterdamer Markt.
+Benzin wird in US-Dollar je 1.000 kg (US-$/t) gehandelt.
+Verschiedene Publikationsorgane wie Platts, ICIS und O.M.R. berichten (zum Teil täglich) über aktuelle Handelspreise und Volumina.
+Die im Handel verwendete Referenzdichte (um den Preis einer aktuellen Charge mit einer gegebenen Dichte in Relation zu der Notierung zu setzen) ist 0,745 kg/ dm^3 für Regular und 0,755 kg/dm^3 für alle Premiumsorten.
+Weiterhin müssen noch Transportkosten und Marge des Kraftstoffhandels berücksichtigt werden.
+
+Zusätzlich zu den oben genannten Preisbeträgen, die sich in Produktpreis und Deckungsbeitrag widerspiegeln, kommen noch Steuern und Abgaben.
+
+=== Preisentwicklung
+
+==== Deutschsprachiger Raum und umliegende Länder
+
+Benzinpreise jeweils nach Erhebung des Touring Club Schweiz:
+
+1 Bleifrei 98 Oktan
+
+=== Deutschland
+
+==== Preisbildung
+
+Um etwaige Verstöße gegen das Kartellrecht aufzudecken, wurde eine Markttransparenzstelle für Kraftstoffe beim Bundeskartellamt eingerichtet, die an Tankstellen weitestgehend Markttransparenz herstellen soll.
+Am 1. Dezember 2013 nahm sie den Regelbetrieb auf.
+
+==== Steuern und Abgaben
+
+In Deutschland gehören dazu (jeweils Super bzw. Diesel) die Umlage für den Erdölbevorratungsverbund mit 0,27 bzw. 0,30 ct/L, die Mineralölsteuer/ Energiesteuer mit 65,45 bzw. 47,04 ct/L sowie die Mehrwertsteuer von 16 %.
+
+Mit dem Produktpreis und dem Deckungsbeitrag (in dem der Erdölbevorratungsbetrag enthalten ist) sowie der Energiesteuer (Mineralölsteuer) wird ein "neuer" Nettopreis ermittelt, auf den dann die Mehrwertsteuer von 16 % erhoben wird.
+
+=== Schweiz
+
+In der Schweiz kommen zum Importpreis die Kosten für die Mineralölsteuer, für den Klimarappen, die Importgebühr für Pflichtlager und die Mehrwertsteuer hinzu.
+
+== Ähnliche Stoffe
+
+== Verwandte Themen
+
+== Weblinks
+
+== Einzelnachweise
+

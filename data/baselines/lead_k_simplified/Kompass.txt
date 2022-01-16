@@ -1,0 +1,11 @@
+Der Kompass ist ein Instrument zur Anzeige der Richtung des Erdmagnetfelds und dient damit der Bestimmung der Richtung von Nord- und Südpol der Erde und daraus abgeleitet der anderen Himmelsrichtungen.
+In seiner einfachsten Form besteht ein Kompass aus einer frei beweglichen Nadel, die aus einem magnetischen Material besteht.
+Der magnetische Nordpol der Nadel dreht sich dabei zum magnetischen Südpol der Erde, der nahe beim geografischen Nordpol in der Arktis liegt.
+Andere Ausführungen sind elektronische Kompasse auf Basis von Hall-Sensoren oder anderen Sensoren.
+Mit einem Fluxgate-Magnetometer kann Betrag und Richtung des Erdmagnetfeldes auf ein 1/100.000 seines Absolutwerts genau bestimmt werden.
+Ganz ohne Ausnutzung des Erdmagnetfeldes arbeiten Kreiselkompasse, deren Wirkungsweise auf der Erdrotation beruht.
+Die Richtungsmessung erfolgt bezüglich der geografischen Nord-Süd-Richtung anstatt zur Richtung der Feldlinien des Erdmagnetfeldes.
+Es gibt auch Kreiselinstrumente ohne Richtungsbezug , die allerdings periodisch nachgestellt werden müssen.
+Ebenfalls ohne Magnetfeld kommen Sonnenkompasse aus.
+Ein Kompass mit Peilvorrichtung wird auch Bussole genannt.
+Meist wird dieser Begriff in der Vermessungstechnik für Präzisions-Peilkompasse verwendet, vor allem in Österreich und Italien wird aber auch der einfache Wander- oder Marschkompass so genannt.

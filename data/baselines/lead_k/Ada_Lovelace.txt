@@ -1,0 +1,10 @@
+Augusta Ada King-Noel, Countess of Lovelace, allgemein als Ada Lovelace bekannt (geborene Hon.
+Augusta Ada Byron; * 10. Dezember 1815 in London; + 27. November 1852 ebenda), war eine britische Mathematikerin.
+Sie arbeitete mit Charles Babbage an der von ihm entwickelten Analytical Engine.
+Die Analytical Engine wurde zwar niemals fertig gestellt, aber Ada Lovelace erkannte das gewaltige Potential dahinter besser als sein Erfinder Babbage, der bloß eine Rechenmaschine herstellen wollte.
+Dies manifestierte sich 1843 in selbst hinzugefügten Notizen zur ihrer Übersetzung eines Artikel von L. F. Menabrea über die Analytical Engine, der drei mal so lange war, wie der ursprüngliche Text.
+Die Erkenntnis, dass die Maschine mehr als nur Zahlen verarbeiten könnte, war bahnbrechend, dies wurde jedoch zu ihrer Lebzeit nicht erkannt.
+Aus ihrem schriftlichen Plan ging hervor, wie Bernoulli-Zahlen mit der Maschine berechnet werden können.
+Lovelace formulierte hier die Grundidee der Informatik; die systemische Verarbeitung von Informationen.
+Mit dieser Erkenntnis hat sie die Informatik um hundert Jahre voraus gedacht und gilt als erste Programmiererin der Welt.
+Die Programmiersprache Ada, die Lovelace Medal sowie der Ada Lovelace Award wurden nach ihr benannt.

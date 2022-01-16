@@ -1,0 +1,9 @@
+Vakuum ist in der technischen Praxis ein Raum mit weitgehender Abwesenheit von Materie.
+Im Vakuum gibt es keine festen Objekte oder Flüssigkeiten, nur extrem wenig Gas und damit auch einen extrem niedrigen Gasdruck.
+Ein technisches Vakuum wird erzeugt, indem man mit einer Pumpe (Gas-)Moleküle aus einem Behälter entfernt; der Druck darin sinkt (Gasdruck entsteht durch Stöße der Gasmoleküle gegen die Behälterwand).
+Das Pumpen erzeugt einen Unterdruck, also einen Druck, der geringer ist als der Umgebungsdruck.
+Sinkt der Druck im Behälter unter 300 mbar und entfernt man weiter und weiter Moleküle aus dem Raum, so erhält man der Reihe nach Grobvakuum, Feinvakuum, Hochvakuum und zuletzt Ultrahochvakuum.
+Das Herstellen eines Vakuums heißt auch "evakuieren".
+Das technische Vakuum, wie es Anfang des 20. Jahrhunderts hergestellt werden konnte, war die Voraussetzung der Einführung von Glühlampen und Elektronenröhren.
+Seitdem hat sich ein weites Feld von Vakuumtechnologien entwickelt.
+In der Physik bezeichnet Vakuum außerdem auch ein theoretisches Konzept, nämlich die vollständige Abwesenheit von Materie in einem Raumgebiet.

@@ -1,0 +1,15 @@
+HTML ist eine "Sprache" für Computer und die Abkürzung des englisches Begriffes "Hypertext Markup Language".
+Übersetzt könnte man sagen: "Auszeichnungssprache für Hypertext".
+HTML ist die Grundlage für alle Seiten im Internet und besteht seit 1992.
+Ein Hypertext ist ein Text, der mit anderen Texten verbunden ist.
+Das macht man mit einem Link, einer Verknüpfung.
+Wenn der Besucher einer Internet-Seite auf einen Link klickt, kommt er zu der anderen Seite.
+Auszeichnungssprache nennt man eine Art, dem Computer zu sagen, wie ein Text aussehen soll.
+Wenn man zum Beispiel will, dass ein Wort fett geschrieben ist, mit dicken Buchstaben, dann gibt man das in der Auszeichnungssprache an.
+Dafür verwendet man besondere Befehle und Zeichen.
+In etwa so sieht das dann aus:
+"Dies ist <fette Schrift an>nur<fette Schrift aus> ein Beispiel."
+Dabei erscheint dann das Wort "nur" fett, also mit dicken Buchstaben.
+So lässt sich nicht nur festlegen, welcher Text angezeigt wird, sondern auch in welcher Farbe und in welcher Größe.
+Außerdem kann man mit HTML zum Beispiel auch bestimmen, welche Farbe der Hintergrund hat und wo ein bestimmtes Bild angezeigt wird.
+Aus dem HTML-Text macht der Computer dann einen richtigen, gut lesbaren Text.

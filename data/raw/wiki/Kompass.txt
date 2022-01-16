@@ -1,0 +1,255 @@
+Der Kompass (von italienisch compasso "Zirkel, Magnetnadel", abgeleitet von compassare "abschreiten", Plural: Kompasse) ist ein Instrument zur Anzeige der Richtung des Erdmagnetfelds und dient damit der Bestimmung der Richtung von Nord- und Südpol der Erde und daraus abgeleitet der anderen Himmelsrichtungen.
+In seiner einfachsten Form besteht ein (Magnet-)Kompass aus einer frei beweglichen Nadel, die aus einem magnetischen Material besteht.
+Der magnetische Nordpol der Nadel dreht sich dabei zum magnetischen Südpol der Erde, der nahe beim geografischen Nordpol in der Arktis liegt.
+
+Andere Ausführungen sind elektronische (Magnet-)Kompasse auf Basis von Hall-Sensoren oder anderen Sensoren.
+Mit einem Fluxgate-Magnetometer kann Betrag und Richtung des Erdmagnetfeldes auf ein 1/100.000 seines Absolutwerts genau bestimmt werden.
+
+Ganz ohne Ausnutzung des Erdmagnetfeldes arbeiten Kreiselkompasse, deren Wirkungsweise auf der Erdrotation beruht.
+Die Richtungsmessung erfolgt bezüglich der geografischen Nord-Süd-Richtung anstatt zur Richtung der Feldlinien des Erdmagnetfeldes.
+Es gibt auch Kreiselinstrumente ohne Richtungsbezug (freie Kreisel wie den Kurskreisel), die allerdings periodisch nachgestellt werden müssen.
+Ebenfalls ohne Magnetfeld kommen Sonnenkompasse aus.
+
+Ein Kompass mit Peilvorrichtung wird auch Bussole genannt.
+Meist wird dieser Begriff in der Vermessungstechnik für Präzisions-Peilkompasse verwendet, vor allem in Österreich und Italien wird aber auch der einfache Wander- oder Marschkompass so genannt.
+
+== Geschichte des Magnetkompasses
+
+=== Nasser Kompass
+
+Die Erkenntnis, dass sich Splitter von Magneteisenstein in die Nord-Süd-Richtung drehen, war in Europa seit der griechischen Antike und in China seit der Zeit der Streitenden Reiche, zwischen 475 v. Chr. und 221 v. Chr. bekannt.
+
+Die seriösen Studien zum Ursprung des Kompasses von J. Klaproth und L. de Saussure führen zu dem Ergebnis, dass die chinesischen Navigatoren den nassen Kompass bereits um die Jahrtausendwende kannten.
+Die Chinesen benutzten seit dem 11. Jahrhundert n. Chr. eine schwimmende, nasse Kompassnadel, die Südweiser genannt wurde.
+Tatsächlich ist auf dem chinesischen Kompass die Südrichtung als Hauptrichtung markiert.
+Im Laufe der Zeit entwickelten sich daraus spezielle Kompassformen mit einer Einteilung in 24, 32, 48 oder 64 Striche bzw. Himmelsrichtungen (siehe Erdzweige).
+Ende des 11. Jahrhunderts empfahl Shen Kuo (1031-1095 n. Chr.) in seinem Hauptwerk einen Kompass mit Einteilung in 24 Richtungen; kurz nach seinem Tod waren solche Kompasse tatsächlich in Gebrauch.
+
+Die Matrosen des östlichen Mittelmeeres haben spätestens zur Zeit der Kreuzzüge vom nassen Kompass erfahren und ihn optimiert.
+Da er seinem Besitzer jedoch einerseits große Vorteile gegenüber der Konkurrenz brachte und andererseits quasi mit verbotenen magischen Kräften funktionierte, wurde dieses Wissen möglichst geheim gehalten.
+In Europa beschrieb der englische Gelehrte Alexander Neckam 1187 den nassen Kompass als eine magnetisierte schwimmende Nadel, die unter Seeleuten in Gebrauch war.
+Auch in einer kirchenkritischen Schrift des französischen Mönches Hugues de Bercy wurde die schwimmende Magnetnadel um 1190 (vielleicht auch bereits vor 1187) erwähnt.
+
+Auf der Arabischen Halbinsel wurde der Kompass wahrscheinlich nicht erfunden, da die arabischen Seeleute um die Jahrtausendwende über gute astronomische Kenntnisse verfügten und dank der gleichmäßigen Winde in ihrer Weltregion gut navigieren konnten.
+Im arabischen Raum lässt sich der nasse Kompass etwa einhundert Jahre nach Alexander Neckams Erwähnung nachweisen.
+
+1932 veröffentlichte Edmund Oskar von Lippmann eine Studie, in der er versuchte, die angebliche Überlegenheit der "nordischen Rasse" zu beweisen, indem er Argumente für eine hypothetische, unabhängige Erfindung des Kompasses in Europa beizubringen suchte, ohne auf alle anderen früheren Untersuchungen einzugehen.
+Diese falsche Theorie wird heute teilweise immer noch vertreten.
+
+=== Trockener Kompass
+
+Die erste schriftliche Erwähnung einer trocken auf einem Stift spielenden Magnetnadel findet sich im Epistola de magnete von 1269, geschrieben von Petrus Peregrinus de Maricourt, womit der noch heute benutzte trockene Kompass erfunden war.
+Ein Seefahrer namens Flavio Gioia, dessen Existenz nicht gesichert ist, wird am Hafen von Amalfi als angeblicher "Erfinder des Kompasses" mit einem Denkmal geehrt.
+Die Legende um Flavio Gioia beruht wahrscheinlich auf einem Übersetzungsfehler.
+
+Der trockene Kompass war genauer als die schwimmende Nadel und ermöglichte so eine präzisere und bessere Navigation.
+Im späten 13. Jahrhundert kombinierten die Seefahrer des Mittelmeers als erste die Magnetnadel mit der Windrose.
+
+Auf deutschen, das heißt für das Mittelalter: hansischen Seeschiffen wurde der Kompass erst im 15. Jahrhundert benutzt, englische und südeuropäische Seefahrer waren ihnen deutlich voraus.
+
+=== Verbesserungen
+
+Zu den vielfachen Bedeutungen oder Verwendungen von "Windrosen" siehe Windrose (Begriffsklärung).
+
+Um das Jahr 1400 bauten europäische Seefahrer die trockene Kompassnadel und Windrose in ein festes Gehäuse ein, um es fest auf ihren Schiffen zu stationieren.
+Leonardo da Vinci schlug als erster vor, den Kompasskasten in einer kardanischen Aufhängung zu platzieren, um so die Genauigkeit weiter zu steigern.
+Ab 1534 wurde seine Idee verwirklicht und setzte sich während des 16. Jahrhunderts in ganz Europa durch, wodurch europäische Segelschiffe über die fortschrittlichste und exakteste Kompasstechnik ihrer Zeit verfügten.
+Nach China kam der trockene Kompass etwa um das Jahr 1600 über Japan, das ihn von Spaniern und Portugiesen übernommen hatte
+
+=== Entdeckung der Missweisung (Deklination)
+
+Anfang des 15. Jahrhunderts bemerkte man in Europa, dass die Kompassnadel nicht genau zum geografischen Nordpol zeigt, sondern - örtlich unterschiedlich - meist entweder westlich oder östlich davon abweicht.
+Diese Abweichung wird Ortsmissweisung oder Deklination genannt.
+Es ist nicht sicher, wer diese zuerst erkannte.
+Jedoch gilt als gesichert, dass Georg von Peuerbach der erste war, der über die Missweisung schrieb.
+Der älteste erhaltene Kompass, bei dem die Missweisung eingezeichnet ist, stammt von Peuerbach.
+Später nahm ein Engländer - James Cook - genaue Messungen der Missweisung in den von ihm bereisten Gebieten vor und lieferte damit die Grundlage für eine Karte, welche die Missweisung rund um den Globus zeigte.
+Um 1542 wusste man bereits, dass es auch eine Linie ohne Missweisung - die Agone - gab.
+Ein weiterer Engländer - Henry Gellibrand - entdeckte, dass sich die Missweisung im Laufe der Zeit änderte.
+
+=== Entdeckung der Inklination
+
+Ein englischer Kompassbauer - Robert Norman - bemerkte, dass sich eine zunächst ausbalancierte Magnetnadel, nachdem sie magnetisiert wurde, neigte.
+Er sann auf Abhilfe und beschwerte das hochliegende Ende mit einem Gewicht.
+Als Ursache hatte er die Inklination erkannt und darüber eine Abhandlung (Newe Attractive, dt.
+Magnetische Neigung) veröffentlicht.
+
+== Aufbau und Funktionsweise von mechanischen Magnetkompassen
+
+Der klassische Magnetkompass besteht aus einem drehbaren Zeiger aus ferromagnetischem Material und einem Gehäuse, in dem dieser Zeiger möglichst reibungsarm gelagert ist.
+Als Träger der Magnetnadel werden dazu z. B. abriebfeste Edelsteine wie Rubin oder Saphir verwendet.
+Am Gehäuse ist in der Regel eine Winkelskala angebracht.
+Der Zeiger selbst kann die traditionelle Form einer Nadel haben.
+Bei Schiffskompassen befindet sich diese Winkelskala jedoch als komplette Scheibe auf der Nadel und am Gehäuse ist nur ein Ablesestrich (Steuerstrich).
+
+Der Zeiger richtet sich, wenn er nach allen Richtungen frei beweglich ist, in Richtung des Erdmagnetfelds aus.
+Dessen Feldlinien verlaufen ungefähr in geographischer Nord-Süd-Richtung.
+Da die Abweichung meistens sehr genau bekannt ist und teilweise in topografischen Karten verzeichnet ist, kann aus der Richtung des Zeigers relativ präzise auf die geografische Nordrichtung geschlossen werden.
+
+Kompasskapseln sind heutzutage meist mit einer Flüssigkeit gefüllt, um die Bewegung der Nadel zu dämpfen.
+Dadurch vibriert sie bei Erschütterungen weniger, was das Ablesen erleichtert, ohne dass dadurch das rasche Einschwingen erschwert wird.
+Die Flüssigkeit besteht oft aus einem leichten Öl oder einem Lösungsmittel, das nicht zum Rosten der Nadel führt und auch bei tiefen Temperaturen nicht stockt.
+
+== Aufbau und Funktionsweise von elektronischen Magnetkompassen
+
+Auch beim elektronischen Magnetkompass wird das Erdmagnetfeld genutzt.
+Für den Sensor kommen unterschiedlichste Techniken zum Einsatz.
+Neben dem eigentlichen Magnetfelddetektor kommen oft auch Bauteile zum Einsatz, mit denen die Ausrichtung des Detektors zu Erdoberfläche festgestellt wird.
+( Aber auch kardanische Aufhängungen anstelle des Lagedetektors kommen zum Einsatz).
+Eine nachgeschaltete Elektronik erlaubt die Berücksichtigung, d. h. Kompensation störender magnetischer Felder der Umgebung (Deviation, Ablenkung).
+Dies ist besonders beim Einsatz auf Fahrzeugen wichtig.
+Darüber hinaus kann die Elektronik auch die Deklination (Missweisung) mit einberechnen.
+
+Der generelle Nachteil von elektronischen Magnetkompassen ist die Abhängigkeit von einer Stromversorgung, die den alleinigen Einsatz für manche (sicherheitsrelevante) Anwendung ausschließt.
+In solchen Fällen gehört dann oft auch noch ein stromunabhängiger klassischer Magnetkompass zur Ausstattung.
+
+Weil die erforderlichen Bauteile sehr klein und billig sind, werden sie häufig als Zusatzausstattung in Smartphones, GPS-Handgeräte usw. eingebaut.
+Es gibt elektronische Magnetkompasse aber auch als eigenständige Geräte.
+
+== Verwendung
+
+=== Navigation
+
+Für die Land-Navigation mit Karte und Kompass wird heute meist ein Plattenkompass - auch Kartenkompass genannt - verwendet, dessen Gehäuse sich in einer durchsichtigen Acrylglas-Platte befindet.
+Diese Platte erleichtert die Kartenarbeit und macht es einfach, die Nord-Süd-Linien des Kompasses mit dem Gitternetz einer topografischen Landkarte in Übereinstimmung zu bringen.
+Ein Einnorden der Karte ist dabei nicht notwendig.
+
+==== Kompass und Karte versus GPS
+
+Trotz der Existenz von satellitengestützten Positionsbestimmungssystem wie GPS, Galilei oder GLONASS (Sammelbegriff GNSS) wird der Magnetkompass von Profis nach wie vor in erster Linie genutzt.
+Im Freizeit- und Tourismusbereich haben die genannten elektronischen Navigationssysteme auf Satellitenbasis inzwischen die Navigation anhand von Karte und Kompass fast vollständig verdrängt.
+Der Magnetkompass wir hier zumeist nur noch wegen seiner Unabhängigkeit von einer Energieversorgung - als Notfalleinrichtung oder auf längeren Wildnistouren - verwendet.
+Tatsächlich wird jedoch die Navigation mit Kompass und Karte weiterhin als Basisfähigkeit empfohlen, da sie die ständige Auseinandersetzung mit der realen Situation erfordert, während ein Navigationsgerät leicht dazu verführen kann, sich blindlings auf die Satellitentechnik zu verlassen, die zudem nicht immer und überall zuverlässig ist und daher falsche Informationen liefern kann.
+Überdies bieten eine topografische Karte mehr Überblick und eine größere Informationsdichte, sodass der Abgleich mit der Wirklichkeit sicherer erfolgt.
+Ein satellitengestütztes Gerät kann stationär auch keine Richtung bestimmen, es zeigt lediglich in Bewegung die Bewegungsrichtung an.
+
+=== Einsatz im Bergbau
+
+Der Kompass wurde auch im Bergbau von Markscheidern als Vermessungsinstrument eingesetzt.
+In der norditalienischen Bergstadt Massa sind Kompasse zur Bestimmung der Vortriebsrichtung und Vermeidung von Durchschlägen zwischen Grubenbetrieben bereits im 13. und 14. Jahrhundert belegt, und im Tiroler Bergbau war er in der zweiten Hälfte des 15. Jahrhunderts selbstverständlich.
+Das Bergbüchlein des deutschen Montanwissenschaftlers Ulrich Rülein von Calw (1505) kann als eine erste theoretische Abhandlung über den untertägigen Einsatz des Kompasses gelten.
+
+=== Deklination (Missweisung)
+
+Da die Verbindungslinie der magnetischen Pole gegenüber der Erdachse um etwa 11,5° geneigt ist, liegen die magnetischen Pole derzeit etwa 2000 km von den geographischen Polen entfernt.
+Die magnetischen Pole verändern ihre Lage im Verlauf der Zeit, weil der Erdmagnetismus auf veränderlichen Strömungen im metallischen Erdkern beruht.
+Mancherorts wird außerdem der Verlauf der magnetischen Feldlinien von besonderen örtlichen geologischen Gegebenheiten (z. B. eisenhaltigem Gestein) beeinflusst.
+Daneben gibt es noch andere Einflussfaktoren, die aber für navigatorische Zwecke unbedeutend sind.
+Die beiden erstgenannten Faktoren bewirken, dass die Abweichung der Kompassnadel von der geografischen Nordrichtung an jedem Ort der Erde unterschiedlich ist.
+Dieses Phänomen nennt man Deklination.
+
+Beim Kreiselkompass ist keine Deklination (Missweisung) zu berücksichtigen, da er unabhängig vom Erdmagnetfeld arbeitet
+
+=== Deviation (Ablenkung)
+
+Als Deviation werden Ablenkungen der Kompassnadel bezeichnet, die durch magnetische Felder in der Nähe des Kompasses hervorgerufen werden.
+Solche Felder werden durch magnetische oder magnetisierbare Gegenstände und Geräte sowie durch fließenden Wechsel- oder Gleichstrom erzeugt.
+Ein besonderes Problem besteht dadurch bei Fahrzeugen.
+
+Üblicherweise werden zur Kompensation der Abweichungen entweder Magnetnadeln an dafür vorgesehenen Stellen in das Kompassgehäuse oder in seiner Nähe eingesetzt oder beweglich gelagerte Magnete im Kompassgehäuse über Stellschrauben entsprechend justiert.
+Um diese Kompensierung zu erreichen, wird das Fahrzeug (Schiff) sukzessive in die verschiedenen Himmelsrichtungen gelegt und versucht mit den Kompensiereinrichtungen die Kompassanzeige zu berichtigen.
+Die Kompensation wird nach Werftaufenthalten, bei voller Stahlladung oder nach langen Liegezeiten in ein und derselben Richtung wiederholt.
+
+Nach der Kompensation verbleibende Restfehler, die unter 5° liegen sollten, werden in eine Deviationstabelle eingetragen, von der zu jedem Kartenkurs (bei Schiffen z. B. von 10 zu 10 Grad) die dazugehörige Korrektur abgelesen und damit der aus der Karte entnommene Kurs in einen Kompasskurs umgerechnet werden kann.
+
+In der allgemeinen Luftfahrt muss die Deviation nach bestimmten Veränderungen am Flugzeug oder in festgelegten Zeitabständen überprüft und der Kompass erforderlichenfalls erneut kompensiert werden.
+Entsprechende Vorgaben finden sich in den Flug- und Betriebshandbüchern.
+
+Bei elektronischen Kompassen sind jedoch weder eine Kompensation durch Magnete noch das Anlegen einer Deviationstabelle erforderlich, weil hier der Fehlerausgleich elektronisch erfolgt.
+Stattdessen muss das Fahrzeug einmal oder mehrmals langsam gedreht werden, während die "Kalibrationsroutine" abläuft.
+
+=== Inklination
+
+Als Inklination wird der Winkel zwischen den Tangenten an die magnetischen Feldlinien und der horizontalen Tangentialebene an die Erdoberfläche bezeichnet.
+In Mitteleuropa beträgt die Inklination etwa 66,5°.
+Das Erdmagnetfeld kann in eine senkrecht und in eine waagrechte Komponente zerlegt werden.
+Die Vertikalkomponente des Erdmagnetfeldes ist in Mitteleuropa rund doppelt so groß wie die Horizontalkomponente.
+
+Zur Bestimmung der Nordrichtung ist nur die horizontale Komponente von Bedeutung.
+Die Inklination spielt dagegen bei der Konstruktion eines mechanischen Kompasses eine Rolle.
+So wird bei einfachen Kompassen z. B. einfach die Südhälfte der Nadel mit einem sogenannten Reiter beschwert, damit sich das nördliche Ende nicht nach unten neigt.
+Ein solcher Kompass kann auf der Südhalbkugel nicht verwendet werden, da sich dann die Nadel neigt und schlimmstenfalls den Boden des Kompassgehäuses berührt.
+Für dieses Problem gibt es zwei Lösungen:
+
+=== Verwirrung um Nord- oder Südpol
+
+Immer wieder führt die Frage zu Verwirrung, ob im Norden der Erde der magnetische Nord- oder der magnetische Südpol liege.
+Ein Blick in die Geschichte hilft, den Sachverhalt zu verstehen.
+Als die magnetische Eigenschaft der Magnetit-Nadel entdeckt wurde, nannte man das Ende der Nadel, das nach Norden zeigte, naheliegenderweise den Nordpol der Nadel.
+Erst sehr viel später erkannte man den Grund des Effekts und dass sich bei Magneten immer gegensätzliche Pole anziehen.
+Da war die Bezeichnung der Polarität aber bereits definiert.
+Der magnetische Pol der Nordhalbkugel hat also eine magnetische Polung, die dem Nordpol der Kompassnadel entgegengesetzt ist.
+Bleibt man bei der Terminologie, dass die nordweisende Spitze der Kompassnadel der magnetische Nordpol sei - was bis heute Bestand hat -, so ist der Magnetpol im geographischen Norden der Erde zwangsläufig ein magnetischer Südpol.
+
+Diese physikalisch korrekte Feststellung hat im Alltag geringe Bedeutung.
+Im allgemeinen Sprachgebrauch wird die Richtung zum Magnetpol der Nordhalbkugel "magnetisch Nord" bzw. der Magnetpol selbst auch "magnetischer Nordpol" genannt.
+
+Zur Vermeidung dieser sprachlichen Ambivalenz werden in jüngerer Zeit auch die Termini "arktischer Magnetpol" und "antarktischer Magnetpol" verwendet.
+
+=== Unter Wasser
+
+Unter Wasser ist der Kompass, kombiniert mit der Zeit- und Geschwindigkeitsmessung, oft die einzige Möglichkeit der Richtungsbestimmung.
+U-Boote und Taucher können ab einer gewissen Tauchtiefe weder die Sonne noch die Sterne beobachten und auch kein Navigationssystem zur Navigation nutzen.
+Sowohl das Licht der Sonne oder Sterne als auch die Hochfrequenzsignale der Navigationssatelliten werden vom Wasser stark absorbiert.
+Das Erdmagnetfeld hingegen durchdringt auch das Wasser.
+Auf U-Booten macht die umgebende Stahlhülle den Magnetkompass jedoch unbrauchbar, sodass hier meist, wie auf anderen größeren Schiffen auch, ein Kreiselkompass verwendet wird.
+
+=== Teilung der Kompassrose
+
+Grundsätzlich werden Kompassrosen in gleich große Kreissektoren geteilt.
+Bei Grad sind das 360, bei Gon (Neugrad) 400 und bei Strich bzw. Mil 6400 Teilbereiche, wobei bei Mil meist nur die Hunderter eingezeichnet werden (Marschzahl).
+Eine ältere Einteilung erfolgte in nautischen Strich.
+Diese Teilung wird aber heute in der Navigation nur noch selten benutzt.
+
+=== Schiffskompass
+
+Beim mechanischen Schiffskompass ist anstelle des Zeigers (der sog. Nadel) eine Kreisscheibe mit einer Gradeinteilung (Rose) angebracht.
+Die Scheibe schwimmt in einer Flüssigkeit, die ihre Bewegungen dämpft.
+Der sog. Kessel ist kardanisch aufgehängt, sodass die Rose trotz der durch den Seegang verursachten Schiffsbewegungen (Stampfen und Rollen (Längsachse)) immer waagerecht liegt.
+Bei neueren Modellen gibt es anstelle der kardanischen Aufhängung des kompletten Kessels eine innere Kardanik (sog. Kugelkompass).
+Da die Kompassrose sich als Ganzes dreht, wird die Richtung an einer fest mit dem Gehäuse verbundenen Markierung (Steuerstrich) abgelesen.
+Im Gegensatz dazu ist bei Kompassen, die an Land verwendet werden, die Kompassrose am Gehäuse angebracht, und nur die Kompassnadel dreht sich scheinbar.
+(In Wirklichkeit dreht sich aber in beiden Fällen das Kompassgehäuse, und der Zeiger (bzw. die Rose) bleiben nach den magnetischen Feldlinien ausgerichtet).
+
+=== Der Kompassdrehfehler (Luftfahrt)
+
+In der Luftfahrt zeigt der mechanische Magnetkompass aufgrund seiner Massenträgheit bei Beschleunigungen falsche Werte an.
+Dieser Effekt wird Beschleunigungsfehler genannt.
+Beim Kurvenflug tritt der Drehfehler auf.
+Beim Steig- oder Sinkflug gibt es solche Anzeigefehler hingegen nicht, entgegen der häufig gegenteiligen Ansicht.
+
+Der Beschleunigungsfehler entsteht dadurch, dass auch bei den in der Luftfahrt üblichen Kompassen der Schwerpunkt des drehbaren Teils tiefer liegt als dessen Aufhängepunkt.
+Bei Beschleunigungen quer zur Magnetisierung (Ost-West-Richtung) kippt der Kompassmagnet derart, dass die vertikale Komponente des Erdmagnetfelds dessen Nordpol nach unten ziehen kann, was die Anzeige verfälscht.
+
+Der Drehfehler beruht auf der Schräglage des Kompasses in Kurven und tritt in Nord-Süd-Richtung auf.
+Auch hier wird der Kompassmagnet durch die vertikale Komponente des Erdmagnetfeldes verstellt.
+Eine Kurve ist daher auf nördlichen Kursen früher, auf südlichen später zu beenden, als der Kompass anzeigt.
+Dies gilt auf der Nordhalbkugel, auf der Südhalbkugel ist der Effekt entgegengesetzt.
+Heute werden im Motorflug Kurven allgemein nach dem drehfehlerfreien Kurskreisel geflogen, sodass der Kompassdrehfehler hier kaum noch von praktischer Bedeutung ist.
+
+Es gibt beschleunigungs- und drehfehlerfreie Kompasse, beispielsweise Modelle der Schweizer Firma Bohli-Magnete oder der deutschen Firma Schanz Feinwerktechnik.
+Bohli- und Schanz-Kompass sind speziell für Segelflugzeuge entwickelt worden und dort insbesondere für den Einsatz im Wolkenflug.
+Diese Kompasse haben den Nachteil, dass sie von Hand der Querlage des Flugzeugs angepasst werden müssen.
+Da der Wolkenflug heute im Segelflug-Wettbewerb verboten ist, sind sie heute auch in Segelflugzeugen nur noch selten anzutreffen.
+Außerhalb der Segelflugszene ist diese Variante des Kompasses kaum bekannt.
+
+=== Armbandkompasse als militärische Ausrüstung
+
+Der Adrianowkompass (russisch oac paoa) ist ein Militärkompass, der bereits bei der zaristischen Armee verbreitet war.
+Eine erste Version wurde von dem Militärvermesser Wladimir Adrianow 1907 entwickelt.
+Entsprechende Armbandkompasse wurden bei der Roten Armee und der Sowjetarmee getragen.
+Bei dem ikonographischen Bild Auf dem Berliner Reichstag, 2. Mai 1945 fiel bei dem flaggenhissenden Soldaten auf, dass er zwei Armbanduhren zu tragen schien, eine davon wurde vor der Veröffentlichung wegretuschiert.
+Die weitverbreitete Deutung als Plünderer liegt zwar aus der Entfernung nahe, ist aufgrund der möglichen Verwechslung mit dem Armbandkompass nicht zwingend.
+
+== Bilder
+
+== Weitere Formen
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Belege
+

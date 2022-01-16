@@ -1,0 +1,258 @@
+Mit dem geometrischen Begriff Symmetrie (altgriechisch uia symmetria Ebenmaß, Gleichmaß, aus uv syn "zusammen" und ov metron, Maß) bezeichnet man die Eigenschaft, dass ein geometrisches Objekt durch Bewegungen auf sich selbst abgebildet werden kann, also unverändert erscheint.
+Eine Umwandlung, die ein Objekt auf sich selbst abbildet, heißt Symmetrieabbildung oder Symmetrieoperation.
+
+Manchmal werden auch zwei (oder mehr) verschiedene geometrische Objekte als zueinander symmetrisch bezeichnet, wenn sie, zusammen betrachtet, eine symmetrische Figur bilden.
+
+Abhängig von der Zahl der betrachteten Dimensionen gibt es folgende unterschiedliche Symmetrien:
+
+== Symmetrien im Eindimensionalen
+
+Im Eindimensionalen, also auf einer Geraden, gibt es die Symmetrie bzgl. eines einzelnen Punktes sowie die Symmetrie der Translation (Verschiebung).
+
+== Symmetrien im Zweidimensionalen
+
+Im Zweidimensionalen muss zwischen Punkt- und Achsensymmetrie unterschieden werden.
+Daneben treten auch hier Translationssymmetrien auf.
+
+=== Rotationssymmetrie / Drehsymmetrie
+
+Eine zweidimensionale geometrische Figur besitzt dann die Eigenschaft, rotationssymmetrisch zu sein, wenn die Figur einen zentralen Punkt besitzt, und die Figur auf sich selbst abgebildet wird, wenn man sie um diesen Punkt dreht.
+Ein Kreis oder ein Kreisring sind rotationssymmetrisch im engeren Sinne.
+Eine Drehung um jeden beliebigen Winkel bildet sie auf sich selbst ab.
+
+Rotationssymmetrisch wird eine Figur auch dann genannt, wenn sie auf sich abgebildet werden kann, indem sie um einen festen Winkel  {\displaystyle \varphi } mit 0°<  {\displaystyle \varphi } < 360° um den zentralen Punkt gedreht wird.
+Der Drehwinkel kann nur durch Division des vollen Winkels durch eine natürliche Zahl n {\displaystyle n} >1 entstehen, also  = 360  n {\displaystyle \varphi ={\frac {360^{\circ }}{n} }} .
+Diese Zahl n {\displaystyle n} ist eine Kennzahl der Rotationssymmetrie und wird auch "Zähligkeit" genannt.
+Entsprechend heißt diese Symmetrie auch n {\displaystyle n} -zählige oder n {\displaystyle n} -fache Rotationssymmetrie (analog zum Englischen " n {\displaystyle n} -fold rotational symmetry") oder auch " n {\displaystyle n} -zählige Drehsymmetrie".
+
+Reguläre Polygone sind typische drehsymmetrische Figuren.
+Die rechts stehende Grafik zeigt die ersten vier, wobei die jeweils größtmögliche Kennzahl n {\displaystyle n} der Rotationssymmetrie mit eingezeichnet worden ist.
+Außerdem sind zwei weitere Figuren dargestellt, und zwar eine ohne und eine mit 2-facher Rotationssymmetrie.
+Im Trivialfall n = 1 {\displaystyle n=1} liegt keine Rotationssymmetrie/Drehsymmetrie vor und die Kennzahl 1 wird im mathematischen Kontext nicht verwendet, es sei denn, man möchte die triviale zyklische Gruppe C 1 {\displaystyle C_{1 }} kennzeichnen, die nur aus der identischen Abbildung besteht.
+
+Die Schoenflies-Symbolik legt für die Symmetrieelemente und Symmetriegruppen der Rotationssymmetrie das Symbol C n {\displaystyle C_{n}} fest.
+Weitere Beispiele für 2-fache Rotationssymmetrie sind die weiter unten abgebildeten punktsymmetrischen Figuren.
+Dass punktsymmetrische Objekte stets auch rotationssymmetrisch sind, gilt jedoch nur im Zweidimensionalen.
+
+=== Spiegelsymmetrie / Achsensymmetrie
+
+Die Spiegelsymmetrie ist eine Form der Symmetrie, die bei Objekten auftritt, die senkrecht zu einer Symmetrieachse gespiegelt sind (siehe Zeichnung rechts).
+Im Zweidimensionalen ist sie gleichbedeutend mit axialer Symmetrie oder Achsensymmetrie.
+Für jede Achsenspiegelung gilt:
+
+==== Beispiele
+
+==== Achsensymmetrie von Funktionsgraphen
+
+Eine vor allem in der Schulmathematik beliebte Aufgabenstellung besteht darin, für den Graphen einer Funktion die Achsensymmetrie nachzuweisen.
+Dieser Nachweis ist besonders einfach im Falle der Symmetrie der y-Achse des (kartesischen) Koordinatensystems.
+Eine Funktion ist achsensymmetrisch zur y-Achse, wenn gilt:
+
+Ist sie für alle x gültig, liegt Achsensymmetrie vor, das heißt f ist eine gerade Funktion.
+
+Diese Bedingung läuft darauf hinaus, dass die Funktionswerte für die entgegengesetzt gleichen Argumente x {\displaystyle x} und - x {\displaystyle -x} übereinstimmen müssen.
+
+Allgemeiner gilt: Der Graph einer Funktion f ist genau dann achsensymmetrisch zur Geraden mit der Gleichung x = a {\displaystyle x=a} , wenn die folgende Bedingung für beliebige Werte von x richtig ist:
+
+Durch Substitution von x {\displaystyle x} mit x - a {\displaystyle x-a } erhält man die äquivalente Bedingung:
+
+=== Punktsymmetrie
+
+Die Punktsymmetrie, auch Zentralsymmetrie, ist eine Eigenschaft geometrischer Objekte.
+Ein geometrisches Objekt (z. B. ein Viereck) heißt (in sich) punktsymmetrisch, wenn es eine Punktspiegelung gibt, die dieses Objekt auf sich abbildet.
+Der Punkt, an dem diese Spiegelung erfolgt, wird als Symmetriezentrum bezeichnet.
+
+==== Beispiele
+
+==== Punktsymmetrie von Funktionsgraphen
+
+Eine vor allem in der Schulmathematik häufige Aufgabenstellung besteht darin nachzuweisen, dass der Graph einer gegebenen Funktion punktsymmetrisch ist.
+Dieser Nachweis kann mit der folgenden Formel geführt werden:
+
+Ist diese Gleichung für alle x erfüllt, liegt Punktsymmetrie zum Punkt (a,b) vor.
+Im Spezialfall von Punktsymmetrie um dem Ursprung (0,0) vereinfacht sich diese Gleichung zu:
+
+Ist sie für alle x gültig, dann liegt Punktsymmetrie in Bezug auf den Koordinatenursprung vor.
+
+=== Translationssymmetrie
+
+Figuren, die durch eine Verschiebung oder Translation (die nicht die Identität ist) in sich selbst überführt werden, haben eine Translationssymmetrie.
+Sie werden auch als periodisch bezeichnet.
+
+In einem Gitter mit den Basisvektoren a = ,  = ,  = {\displaystyle {\vec {\alpha }},{\vec {\beta }},{\vec {\gamma } }} kann durch den Translationsvektor T = {\displaystyle {\vec {T} }} jeder Punkt durch ganzzahlige Werte von u , v , w {\displaystyle u,v,w} erreicht werden.
+Der Winkel zwischen a = ,  = ,  = {\displaystyle {\vec {\alpha }},{\vec {\beta }},{\vec {\gamma } }} ist dabei beliebig.
+Die Basisvektoren sind ebenso Transaltionsvektoren und spannen zusammen die sogenannte Einheitszelle auf.
+
+=== Skalensymmetrie
+
+In manchen mathematischen und physikalischen Zusammenhängen wird die Unveränderbarkeit eines Objekts unter Vergrößerung oder Verkleinerung als Skalensymmetrie oder Skaleninvarianz bezeichnet.
+Sehr deutlich wird dieses Phänomen bei den sogenannten Fraktalen.
+
+== Symmetrien im Dreidimensionalen
+
+=== In der Natur
+
+Der Körperbau der weitaus meisten Tierarten sowie der Aufbau vieler Pflanzenorgane ist äußerlich annähernd spiegelsymmetrisch - in der Biologie als bilateralsymmetrisch bezeichnet - mit einer linken und einer rechten Hälfte.
+Die einzige Symmetrieebene (Monosymmetrie) ist die anatomische Medianebene, d. h. die mediane (mittig gelegene) Sagittalebene; das ist jede Ebene durch den Körper, die sich von vorne nach hinten und von oben nach unten erstreckt.
+95 Prozent aller Tierarten, darunter der Mensch, sind Bilateria ("Zweiseitentiere") mit der namensgebenden Körpersymmetrie (bei den übrigen, sehr ursprünglichen Tieren (z. B. Quallen) findet sich oft Rotationssymmetrie bzgl. einer Längsachse, ihre Körper ist somit ein angenäherter Rotationskörper).
+Aufgrund der Monosymmetrie der Bilateria lassen sich eindeutige Ebenen und Richtungen des Körpers definieren, was eine anatomische Beschreibung vereinfacht.
+Doch die Symmetrie des Körpers ist nicht vollkommen, so sind viele einfach vorkommende (unpaare) innere Organe (z. B. Herz) von der Spiegelsymmetrie ausgenommen.
+Auch alle symmetrisch ausgebildeten Körperteile, beispielsweise beim Menschen Augen, Ohren, Arme, Beine, Brüste usw., weisen zueinander jeweils geringfügige Abweichungen in Lage, Form und Größe auf.
+
+In der Zoologie wird die innerhalb der Bilateria einzigartige fünfstrahlige Radiärsymmetrie der Stachelhäuter als Pentamerie bezeichnet (d. h. beim Seestern verlaufen fünf Symmetrieebenen durch die zentrale Drehachse).
+In der Mathematik kann man die Symmetrieeigenschaften des Seesterns durch eine Drehgruppe beschreiben.
+(Die Larven des Seesterns sind noch zweiseitig symmetrisch, wie die meisten anderen Tiere der Gruppe auch.
+Erst während der Metamorphose entwickelt sich die Pentamerie.)
+
+Ohne eine Symmetrie, d. h. asymmetrisch, sind die Gewebelosen (Schwämme und Placozoa).
+
+=== Entsprechungen zu zweidimensionalen Symmetrieelementen
+
+Der Achsensymmetrie im Zweidimensionalen entspricht die Spiegelsymmetrie bzgl. einer Ebene im Dreidimensionalen.
+Der Punktsymmetrie im Zweidimensionalen entspricht die Achsensymmetrie (Drehsymmetrie um 180°).
+Daneben gibt es noch die Punkt-/ Zentralsymmetrie im Raum und wie in der Ebene Translationssymmetrien.
+
+=== Rotationssymmetrie / Drehsymmetrie
+
+Dreidimensionale Objekte sind rotationssymmetrisch in engeren Sinn, wenn eine Drehung um jeden beliebigen Winkel um eine Achse (die Symmetrieachse) das Objekt auf sich selbst abbildet.
+Diese Art Rotationssymmetrie um eine Achse wird auch als Zylindersymmetrie bezeichnet.
+Dreidimensionale geometrische Objekte mit dieser Eigenschaft nennt man auch Rotationskörper.
+
+Analog zum Zweidimensionalen wird der Begriff der Rotations- oder Drehsymmetrie auch angewendet, wenn der Körper durch Drehung um gewisse Winkel um eine Achse auf sich selbst abgebildet werden kann.
+Als Beispiele für rotationssymmetrische 3D-Objekte sind in der nebenstehenden Grafik Prismen perspektivisch dargestellt, die entstehen, wenn die 2D-Polygone der obigen Grafik Vier reguläre Polygone und zwei weitere geometrische Figuren mit den Kennzahlen ihrer Rotationssymmetrie längs einer senkrecht zur Figur liegenden Geraden im Raum verschoben werden.
+Bei dieser Vorgehensweise spricht man auch von einer Extrusion des Polygons.
+Es entstehen gerade Prismen, spezielles Polyeder, die in diesem Fall, wenn die gegebenen Polygone reguläre Polygone sind, reguläre Prismen genannt werden.
+
+Das Symmetriezentrum eines 2D-Objekts wird durch die Extrusion zur Rotationsachse mit einer Pfeilspitze, durch die festgelegt werden kann, ob der Drehwinkel positiv oder negativ zu zählen ist (vgl. Korkenzieherregel).
+Die dargestellten Symmetrien gehören zu den zyklischen Gruppen C 1 {\displaystyle C_{1 } } bis C 6 {\displaystyle C_{6} } und sind Untergruppen der jeweils vollen Symmetriegruppen der Prismen.
+Es ist zu beachten, dass diese 3D-Objekte weitere Rotations- und Spiegelsymmetrien besitzen.
+Stellvertretend für die sechs abgebildeten regulären Prismen werden im folgenden Abschnitt alle Rotationssymmetrien eines homogenen Würfels betrachtet.
+
+==== Drehsymmetrien eines Würfels
+
+Ein homogener Würfel besitzt insgesamt 13 Drehachsen (Achsen der Rotationssymmetrie), wie in der nebenstehenden Grafik dargestellt:
+
+Zählt man die Symmetrieelemente der Rotationssymmetrie des Würfels, so sind es: Das neutrale Element, je 3 für 4-zählige, je 2 für 3-zählige und je eines für 2-zählige Rotationsachsen.
+Das sind insgesamt 1 + 3 * 3 + 4 * 2 + 6 * 1 = 24 {\displaystyle 1+3\cdot 3+4\cdot 2+6\cdot 1=24 } Symmetrieelemente.
+
+Diese 24 Elemente bilden zusammen die Würfel-Drehgruppe.
+Würfel und reguläres Oktaeder sind duale Platonische Körper und besitzen die gleichen Symmetrien.
+Deshalb werden die Würfel-Drehgruppe und die Oktaeder-Drehgruppe im Artikel Oktaedergruppe gemeinsam abgehandelt.
+Kombiniert man die Würfel-Drehgruppe mit der Punktspiegelung am Mittelpunkt des Würfels, so ergeben sich 2 * 24 = 48 {\displaystyle 2\cdot 24=48} Elemente der vollen Symmetriegruppe des Würfels (s. u.).
+
+=== Spiegelsymmetrie 
+
+Spiegelsymmetrie wird in zwei Bedeutungen verwendet:
+
+Hochsymmetrische Objekte (wie einige der Prismen in der nebenstehenden Grafik) können sehr viele Spiegelebenen besitzen, die sich alle in einem Punkt schneiden.
+Eine Kugel hat unendlich viele Spiegelebenen.
+In der Grafik rechts unten sind vier von neun Spiegelebenen und eine der 13 Rotationsachsen eines homogenen Würfels dargestellt.
+Die Spiegelebenen schneiden sich in der 4-zähligen Rotationsachse.
+Die dargestellte Symmetrie ist vom Typ einer Diedergruppe D 4 {\displaystyle D_{4 } } und ist eine Untergruppe der Würfelgruppe.
+Die 48 Symmetrieelemente der Würfelgruppe insgesamt unterteilen den Würfel in 48 (äquivalente) Fundamentalbereiche.
+
+=== Drehspiegelsymmetrie
+
+Drehspiegelsymmetrie ist die Symmetrie eines Körpers, die sich aus zwei Teiloperationen zusammensetzt.
+Die erste Teiloperation ist eine Drehung um eine Achse, die Drehspiegelachse, die zweite eine Spiegelung an einer Ebene rechtwinklig zur Drehachse, die Drehspiegelebene.
+Diese Ebene geht durch das Symmetriezentrum, durch den Mittelpunkt des Körpers.
+Ist die Drehspiegelebene keine Spiegelsymmetrieebene des Körpers, so sind beide Teiloperationen für sich genommen keine Symmetrieoperationen, sondern nur ihre Kombination.
+Auf die Reihenfolge der Teiloperationen kommt es dabei nicht an.
+Wir können auch zuerst die Spiegelung und dann die Drehung ausführen.
+
+==== Drehspiegelsymmetrien eines Würfels
+
+Die Drehspiegelung von Körpern auf sich selbst gehört zu den weniger bekannten, aber vielleicht interessantesten Symmetrieoperationen, die man leicht anhand von geeigneten Grafiken nachvollziehen kann.
+Die drei Grafiken zeigen einen Würfel und jeweils eine der Drehspiegelachsen und ihre zugehörigen Drehspiegelebenen.
+Um die Drehspiegelebenen von Spiegelsymmetrieebenen zu unterscheiden, werden sie als graue Kreisscheiben dargestellt, die projektiv als Ellipsen erscheinen.
+Für die Würfel der Grafiken wurde der Zeichenmodus halbtransparent gewählt.
+Da die Drehspiegelachsen auch Drehachsen sind, werden sie in der Reihenfolge der obigen Grafik Alle 13 Achsen der Rotationssymmetrie ... angeordnet.
+
+Die erste der drei Grafiken zeigt eine der drei 4-zähligen Drehspiegelachsen und die zugehörige Drehspiegelebene.
+Die Wirkung der Drehspiegelung lässt sich nachvollziehen, wenn man die Bahn der mit einem weißen Punkt markierten Ecke verfolgt.
+Die Drehspiegelebene ist durch die Drehspiegelachse orientiert.
+Wir können deshalb sagen, der weiße Punkt liegt oberhalb der Drehspiegelebene.
+Nach der Drehung um 90° (rechte Handregel: Daumen in Richtung der Achse, Drehung in Richtung der anderen Finger) wird der Punkt zunächst auf die rechte obere Ecke und durch die Spiegelung auf die rechte untere Ecke abgebildet, die durch einen schwarzen Punkt markiert ist.
+Punkt und Bildpunkt sind durch einen Pfeil verbunden.
+Die erneute Drehspiegelung um 90° führt zum rechten oberen schwarzen Punkt usw.
+Nach vierfacher Drehspiegelung ist der Ausgangspunkt wieder erreicht.
+
+Die Bahn eines Punkts des Würfels in allgemeiner Lage ist ein räumlicher, geschlossener Zickzack-Pfad um die Drehspiegelebene.
+Liegt der Punkt, den wir verfolgen, auf der Drehspiegelebene, ist seine Bahn ein Quadrat.
+Liegt er auf der Drehspiegelachse, springt er auf der Drehspiegelachse, von der Drehspiegelebene gespiegelt, viermal hin und her.
+Das Symmetriezentrum, der Schwerpunkt des Würfels, wird stets auf sich selbst abgebildet.
+Man beachte, dass die Drehspiegelebene in diesem Fall auch eine Spiegelsymmetrieebene des Würfels ist.
+
+Interessant ist der in der zweiten Grafik dargestellte Fall einer von vier 6-zähligen Drehspiegelachsen.
+Interessant einerseits deshalb, weil die Drehspiegelebene offensichtlich keine Spiegelsymmetrieebene des Würfels ist.
+Andererseits, weil die 3-zählige Drehachse zur 6-zähligen Drehspiegelachse wird.
+Dass sie 6-zählig ist, erkennt man wiederum, wenn man die Bahn verfolgt, die ein Punkt des Würfels, zum Beispiel in der Grafik die Bahn der mit einem weißen Punkt markierten Ecke verfolgt.
+Durch die erste Teiloperation, eine Drehung um 60° um die Drehspiegelachse, wird der weiße Punkt auf einen Punkt abgebildet, der kein Eckpunkt ist.
+Die zweite Teiloperation, die Spiegelung an der Drehspiegelebene, führt zum ersten Bildpunkt, der als schwarzer Punkt markiert ist und der oberhalb der Drehspiegelebene liegt (schwarzer Punkt rechts oben).
+Wieder sind Punkt und Bildpunkt mit einem Pfeil verbunden.
+Wendet man nun die Drehspiegelung um 60° erneut auf den ersten Bildpunkt an, führt das zum zweiten schwarzen Bildpunkt rechts unten usw.
+Nach 6 Drehspiegelungen um jeweils 60° ist der weiße Ausgangspunkt wieder erreicht.
+Liegt der Punkt, den wir verfolgen, auf der Drehspiegelebene, ist seine Bahn ein reguläres Sechseck.
+
+Vermutlich unerwartet ist die Wirkung der 2-zähligen Drehspiegelung, der die dritte Grafik gewidmet ist.
+Dargestellt ist eine der 2-zähligen Drehspiegelachsen, von denen wir, im Analogieschluss von den Drehachsen ausgehend, sechs erwarten.
+Führen wir die 2-zählige Drehspiegelung nach dem oben skizzierten Vorgehen aus, stellen wir fest, dass jeder Punkt des Würfels auf seinen "Antipoden" abgebildet wird, auf den Punkt also, der auf der gegenüberliegenden Seite des Würfels liegt.
+Punkt und Bildpunkt liegen gemeinsam mit dem Symmetriezentrum auf einer Geraden und haben den gleichen Abstand vom Symmetriezentrum.
+In der Grafik sind in diesem Fall vier weiße Punkte markiert und ihre Bildpunkte als vier schwarze.
+Alle vier Verbindungsvektoren zwischen Punkt und Bildpunkt schneiden sich im Symmetriezentrum.
+
+Interessant ist auch der Fakt, dass die Drehspiegelungen um alle sechs möglichen 2-zähligen Drehspiegelachsen zum gleichen Symmetrietyp führen.
+Dieser Symmetrietyp, die Punktspiegelung am Symmetriezentrum, wird in der Gruppentheorie und der Kristallographie Inversion genannt.
+Man kann daher in Symmetriebetrachtungen alle 2-zähligen Drehspiegelachsen weglassen und sie durch eine einzige Operation, die Inversion, ersetzen.
+
+Eine Drehspiegelung lässt keinen Punkt des Würfels, also keine Ecke, aber auch keine Fläche oder Kante an ihrem ursprünglichen Platz.
+Einziger Fixpunkt einer Drehspiegelung ist das Symmetriezentrum, der Mittelpunkt des Würfels, worauf bereits hingewiesen wurde.
+
+Ein homogenes, reguläres Tetraeder besitzt ebenfalls die 4-zählige Drehspiegelsymmetrie eines homogenen Würfels, wie die Grafik am Beispiel einer Achse zeigt.
+Wie man aus der Grafik erkennt, ist, im Unterschied zum Würfel, die Drehspiegelebene keine Spiegelsymmetrieebene des Tetraeders.
+In die Grafik ist auch ein Drahtgittermodell eines umhüllenden Würfels eingezeichnet.
+
+==== Unterschiede zwischen Drehspiegelung und Drehung
+
+Die Eigenschaften der Drehspiegelungen unterscheiden sich von denen der Drehungen:
+
+Wie eingangs erwähnt ist die Punktspiegelung im Zweidimensionalen gleichbedeutend mit einer Drehung um 180° um den Fixpunkt und somit kein eigenes Symmetrieelement.
+
+=== Punktsymmetrie / Inversionssymmetrie
+
+Wie im vorangegangenen Abschnitt beschrieben, ist die Punktsymmetrie oder Inversionssymmetrie die Symmetrie eines Körpers bezüglich eines Punkts, des Symmetriezentrums.
+Jeder Punkt tauscht mit dem Punkt, der auf der Geraden, die von diesem Punkt durch das Zentrum geht und auf der anderen Seite des Zentrums im gleichen Abstand liegt, seine Position.
+Es handelt sich um eine Punktspiegelung des Körpers auf sich selbst.
+Die Punktspiegelung, lässt keinen Punkt des Körpers an seinem ursprünglichen Platz, mit einer Ausnahme:
+Einziger Fixpunkt einer Drehspiegelung ist das Symmetriezentrum, der Mittelpunkt des Körpers.
+
+Die Grafik zeigt die Abbildung von vier ausgewählten Ecken (weiße Punkte) eines Würfels durch Inversion (schwarze Punkte).
+Umgekehrt werden alle schwarzen Punkte auf die weißen abgebildet.
+Die Grafik ist eine Wiederholung der dritten obigen Grafik (Ausgewählte Drehspiegelachsen ...) ohne 2-zählige Drehspiegelachse und Drehspiegelebene.
+
+Die homogenen Platonischen Körper Würfel, Oktaeder, Dodekaeder und Ikosaeder sind punktsymmetrisch.
+Der einfachste Platonische Körper dagegen, das reguläre Tetraeder, ist es nicht.
+
+Im Fall des Würfels hatten sich (einschließlich der Inversion) 15 Drehspiegelsymmetrien ergeben.
+Zusammen mit den 9 Spiegelebenen ergibt das 24 Symmetrieelemente, also genau so viele, wie es Elemente der Würfel-Drehgruppe gibt.
+Das ist kein Zufall, denn jedes Spiegel- oder Drehspiegelelement lässt sich als eine Kombination aus einer Drehung und einer Inversion interpretieren.
+In diesem Sinne besitzt die Inversion eines inversionssymmetrischen Körpers eine ähnlich herausgehobene Stellung wie das neutrale Element innerhalb einer Symmetriegruppe.
+
+=== Kugelsymmetrie
+
+Rotationssymmetrie um jede beliebige Achse durch denselben Punkt ist ein Spezialfall der Rotationssymmetrie und wird als Kugelsymmetrie bzw. Radialsymmetrie bezeichnet.
+Sterne sind z. B. annähernd kugelsymmetrisch, da deren Eigenschaften (wie z. B. die Dichte) zwar nicht überall gleich sind, aber nur vom Abstand zum Mittelpunkt abhängen.
+Auch deren Schwerefelder sowie z. B. das elektrische Feld einer geladenen Kugel sind kugelsymmetrisch.
+
+== Kombinationen
+
+Aus der Möglichkeit, Symmetrieoperationen zu kombinieren, lassen sich die symmetrischen Grundoperationen herleiten:
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

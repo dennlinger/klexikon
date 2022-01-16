@@ -1,0 +1,144 @@
+Ein Quader ist ein geometrischer Körper, der von 6 Rechtecken begrenzt wird.
+
+Ein Quader besitzt
+
+Gegenüberliegende Flächen eines Quaders sind parallel und kongruent (deckungsgleich).
+Der Quader ist ein rechtwinkliges dreidimensionales Parallelepiped.
+
+Im Sonderfall gleicher Kantenlängen a = b = c {\displaystyle a=b=c} , bei dem alle Flächen des Quaders Quadrate sind, ergibt sich ein Würfel.
+Im Fall, dass genau zwei Kantenlängen gleich sind, zum Beispiel a = b  c {\displaystyle a=b\neq c} , ergibt sich ein quadratisches gerades Prisma, man spricht gelegentlich von einer quadratischen Platte ( a = b > c {\displaystyle a=b>c} ) bzw. einer quadratischen Säule ( a = b < c {\displaystyle a=b<c} ).
+
+== Symmetrie
+
+Quader haben abhängig von der Anzahl gleicher Kantenlängen mehrere Symmetrieeigenschaften.
+
+Quader mit drei verschiedenen Kantenlängen haben
+
+Quader mit zwei verschiedenen Kantenlängen (quadratische gerade Prismen) haben
+
+Quader mit nur einer Kantenlänge, die Würfel, haben mehr Symmetrien (siehe Würfel - Symmetrie).
+
+Jeder Quader ist
+
+== Formeln
+
+=== Optimierungsprobleme und der Würfel
+
+Es gibt verschiedene Optimierungsprobleme für Quader.
+Sucht man einen Quader, der bei
+
+hat, dann ergibt sich als Lösung jeweils der Würfel.
+
+Jeweils zwei der sechs Optimierungsprobleme sind im Prinzip dieselbe Fragestellung mit anderen gegebenen Größen, sodass es eigentlich nur drei verschiedene Optimierungsprobleme sind.
+Für die genannten Optimierungsprobleme ist der Würfel der gesuchte Quader.
+Das gilt selbstverständlich nicht für alle Optimierungsprobleme.
+
+Dass die Optimierungsprobleme für die Länge der Diagonale d {\displaystyle d} und das Umkugelvolumen V U K {\displaystyle V_{UK}} jeweils dieselbe Lösung haben, ist offensichtlich, weil das Umkugelvolumen V U K = 4 3 *  * r u 3 = 1 6 *  * d 3 {\displaystyle V_{UK}={\frac {4}{3}}\cdot \pi \cdot r_{u}^{3}={\frac {1}{6}}\cdot \pi \cdot d^{3}} eine stetige und streng monoton steigende Funktion mit der Funktionsvariablen d {\displaystyle d} ist.
+
+Ist zum Beispiel bei gegebenem Umkugelradius der Quader mit dem größten Volumen gesucht, dann lassen sich die Kantenlängen a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} des Quaders mithilfe der partiellen Ableitungen der Volumenfunktion V ( a , b ) = a * b * c = a * b * d 2 - a 2 - b 2 = a * b * 4 * r u 2 - a 2 - b 2 {\displaystyle V(a,b)=a\cdot b\cdot c=a\cdot b\cdot {\sqrt { d^{2}-a^{2}-b^{2}}}=a\cdot b\cdot {\sqrt {4\cdot r_{u}^{2}-a^{2}-b^{2}} }} berechnen oder mit Beweis durch Widerspruch:
+
+Angenommen, ein beliebiger Quader mit mindestens zwei verschiedenen Kantenlängen, zum Beispiel a {\displaystyle a} und b {\displaystyle b} , hätte das größte Volumen.
+Sein Umkugelradius ist 1 2 * a 2 + b 2 + c 2 {\displaystyle {\frac {1}{2}}\cdot {\sqrt {a^{2}+b^{2}+c^{2}}}} und sein Volumen a * b * c {\displaystyle a\cdot b\cdot c} .
+Dann hat ein anderer Quader, nämlich der Quader mit den Kantenlängen 1 2 * 2 * a 2 + 2 * b 2 {\displaystyle {\frac {1}{2}}\cdot {\sqrt {2\cdot a^{2}+2\cdot b^{2 } } }} , 1 2 * 2 * a 2 + 2 * b 2 {\displaystyle {\frac {1}{2}}\cdot {\sqrt {2\cdot a^{2}+2\cdot b^{2 } } } } und c {\displaystyle c} den gleichen Umkugelradius 1 2 * a 2 + b 2 + c 2 {\displaystyle {\frac {1}{2}}\cdot {\sqrt { a^{2}+b^{2}+c^{2}} } } und das Volumen a 2 + b 2 2 * c {\displaystyle {\frac {a^{2}+b^{2}}{2}}\cdot c} .
+Wegen der Ungleichung vom arithmetischen und geometrischen Mittel a * b  a + b 2 {\displaystyle {\sqrt {a\cdot b}}\leq {\frac {a+b}{2}}} , wegen a  b {\displaystyle a\neq b} und c > 0 {\displaystyle c>0} gilt a * b < a 2 + b 2 2 {\displaystyle a\cdot b<{\frac {a^{2}+b^{2}}{2 } } } und a * b * c < a 2 + b 2 2 * c {\displaystyle a\cdot b\cdot c<{\frac {a^{2}+b^{2}}{2}}\cdot c} .
+
+Also hat der beliebiger Quader mit mindestens zwei verschiedenen Kantenlängen Quader ein kleineres Volumen als der andere Quader.
+Daraus folgt, dass ein Quader mit mindestens zwei verschiedenen Kantenlängen nicht das größte Volumen haben kann und schließlich, dass der Quader mit nur einer Kantenlänge, also der Würfel mit 12 gleich langen Kanten, das größte Volumen aller Quader mit gegebenem Umkugelradius hat.
+
+Entscheidend für diesen Beweis durch Widerspruch ist hier, dass das Volumen der Quader endlich sein muss, denn es ist offensichtlich kleiner als das Volumen der Umkugel, und dass die Volumenfunktion stetig ist.
+
+== Netze von Quadern
+
+Allgemeine Quader mit drei verschiedenen Kantenlängen haben 57 Netze.
+Diese sind verallgemeinerte Hexominos, die nicht aus Quadraten, sondern aus Rechtecken bestehen.
+Das heißt, es gibt 57 Möglichkeiten, einen hohlen Quader durch Aufschneiden von 7 Kanten aufzuklappen und in der Ebene auszubreiten.
+Die anderen 5 Kanten verbinden jeweils die 6 Rechtecke des Netzes.
+
+Quader mit zwei verschiedenen Kantenlängen, nämlich quadratische gerade Prismen, haben 30 Netze.
+Quader mit nur einer Kantenlänge, nämlich Würfel mit 12 gleich langen Kanten, haben 11 Netze.
+
+Um einen Quader so zu färben, dass keine benachbarten Flächen dieselbe Farbe haben, braucht man mindestens 3 Farben.
+
+== Verallgemeinerung
+
+Die Verallgemeinerungen der Quader in beliebiger Dimension n {\displaystyle n} werden als n {\displaystyle n} -dimensionale Quader oder Hyperrechtecke oder Hyperquader bezeichnet.
+Der n {\displaystyle n} -dimensionale Quader hat 2 n - k * ( n k ) {\displaystyle 2^{n-k}\cdot {\tbinom {n}{k}}} begrenzende Seiten der Dimension k. Spezialfälle:
+
+== Quadergitter
+
+Das Quadergitter ist eine Anordnung von unendlich vielen Punkten im dreidimensionalen euklidischen Raum.
+Diese Punktmenge kann formal als die Menge
+
+geschrieben werden, wobei die positiven reellen Zahlen a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} die Abstände zwischen benachbarten Punkten sind .
+Das Quadergitter entsteht durch 3 Parallelstreckungen (siehe Affine Abbildung) aus dem Würfelgitter.
+
+Dieses Würfelgitter ist achsensymmetrisch, drehsymmetrisch und punktsymmetrisch.
+Außerdem ist es translationsymmetrisch für alle Vektoren mit bestimmten Längen, die parallel zu den 3 Koordinatenachsen verlaufen, nämlich die unendlich vielen Vektoren a * a 1 * e = 1 { \displaystyle a\cdot a_{1}\cdot {\vec {e}}_{1}} , b * a 2 * e = 2 {\displaystyle b\cdot a_{2}\cdot {\vec {e}}_{2} } , c * a 3 * e = 3 { \displaystyle c\cdot a_{3}\cdot {\vec {e}}_{3}} , wobei a 1 {\displaystyle a_{1}} , a 2 {\displaystyle a_{2}} , a 3 {\displaystyle a_{3 } } ganze Zahlen sind und e 1 {\displaystyle e_{1}} , e 2 {\displaystyle e_{2 } } , e 3 {\displaystyle e_{3 } } die 3 Einheitsvektoren im dreidimensionalen eudklidischen Vektorraum.
+
+Werden unendlich viele parallele Ebenen, die jeweils den Abstand a {\displaystyle a} , b {\displaystyle b} bzw. c {\displaystyle c} haben, orthogonal zu den 3 Koordinatenachsen durch dieses Punktgitter gelegt, dann entsteht ein Flächengitter (siehe Abbildung), das quaderförmige Hohlräume enthält.
+Diese Ebenen können formal als die Menge
+
+geschrieben werden.
+
+Wird zusätzlich der dreidimensionale Raum vollständig ausgefüllt, dann entsteht eine dreidimensionale Parkettierung (Raumfüllung) aus kongruenten Quadern.
+
+Wird ein geometrischer Körper im dreidimensionalen Raum in einem Würfelgitter platziert und dann durch Parallelstreckungen modifiziert, sodass ein Quadergitter entsteht, dann entstehen abhängig von der Art und Ausrichtung dieser geometrischen Körper andere geometrische Körper:
+
+== Euler-Ziegel
+
+Ein Euler-Ziegel ist ein Quader, bei dem die Längen der Kanten und Flächendiagonalen ganzzahlige Werte haben.
+Er ist nach Leonhard Euler benannt.
+Er wird von 3 Dreiecken aufgespannt, deren Kantenlängen pythagoreische Tripel sind, und deren rechte Winkel an einer Ecke zusammenstoßen.
+
+Ein Euler-Ziegel ist primitiv, wenn die drei Kantenlängen keinen gemeinsamen Teiler haben.
+Die geometrische Definition des Euler-Ziegels ist äquivalent zu einer Lösung des folgenden Systems von diophantischen Gleichungen:
+
+wobei a, b, c die Kanten und d, e, f die Flächendiagonalen sind.
+
+Ein Euler-Ziegel heißt perfekt, wenn zusätzlich auch die Raumdiagonale eine ganzzahlige Länge hat, das heißt, wenn zusätzlich gilt:
+
+wobei g die Raumdiagonale ist.
+
+Perfekte Euler-Ziegel sind ein ungelöstes Problem der Mathematik.
+Es wurde bisher noch kein Beispiel für einen perfekten Euler-Ziegel gefunden, und es wurde auch nicht bewiesen, dass keiner existiert.
+Mithilfe vom Computern konnte gezeigt werden, dass bei einem perfekten Euler-Ziegel eine der Kanten größer als 3 * 1012 sein müsste.
+
+== Anwendungsbeispiele
+
+=== Domino
+
+Domino ist ein Legespiel mit Spielsteinen und enthält jede Kombination aus 2 Augenzahlen von 0 bis 6 genau einmal, wobei auch Steine mit gleichen Augenzahlen vorkommen.
+Dabei wird die Reihenfolge der Augenzahlen nicht unterschieden.
+Die Abmessungen und die mittlere Dichte der quaderförmigen Steine sind
+
+Es sind also 7 Steine mit 2 gleichen Augenzahlen, ( 7 2 ) = 7 * 6 2 = 21 {\displaystyle {\tbinom {7}{2}}={\tfrac {7\cdot 6}{2}}=21 } Steine mit 2 verschiedenen Augenzahlen und insgesamt 7 + 21 = 28 Steine.
+Daraus ergeben sich mithilfe der oben genannten Formeln das Volumen, der Oberflächeninhalt und die Masse der Dominosteine:
+
+=== Lift
+
+Die offene Kabine eines Lifts ist 1,40 Meter breit, 2,00 Meter lang und 2,20 Meter hoch.
+Die Luft in der Kabine hat die Temperatur -10 Grad Celsius und die Dichte 1,3413 kg/ m^3.
+Durch Heizwärme erwärmt sich die Luft auf 20 Grad Celsius und die Dichte sinkt auf 1,2041 kg/ m^3.
+Der Luftdruck vorher und nachher beträgt 101325 Pascal (siehe Standardbedingungen).
+Aus diesen Angaben kann man die Masse der Luft in der Kabine des Lifts bei -10 Grad Celsius, bei 20 Grad Celsius und den Anteil der aus der Kabine des Lifts entweichten Luft berechnen:
+
+Es entweicht also etwa 10,2 Prozent der Luft.
+
+=== Schwimmbecken
+
+Ein Schwimmbecken ist 25 Meter breit, 50 Meter lang, 2,5 Meter tief und zu 96 Prozent gefüllt.
+Das Wasser im Schwimmbecken hat die Temperatur 0 Grad Celsius und hat die Dichte 1,000 kg/ m^3.
+Durch Sonneneinstrahlung erwärmt sich das Wasser auf 40 Grad Celsius und 60 Prozent des Wassers verdunstet.
+Gleichzeitig sinkt die Dichte auf 0,996 kg/ m^3.
+Stillschweigend können wir annehmen, dass der Boden des quaderförmigen Schwimmbeckens orthogonal zum Erdmittelpunkt ist, also überall fast dieselbe Höhe über dem Meeresspiegel hat, und dass der Wasserstand des Schwimmbeckens überall gleich hoch ist.
+
+Daraus ergeben sich:
+
+Der Wasserstand des Schwimmbeckens sinkt also von 2,5 Meter auf 0,964 Meter.
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

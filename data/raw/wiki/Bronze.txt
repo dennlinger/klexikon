@@ -1,0 +1,132 @@
+Mit dem Sammelbegriff Bronzen werden Legierungen mit mindestens 60 % Kupfer bezeichnet, soweit sie nicht durch den Hauptlegierungszusatz Zink den Messingen zuzuordnen sind.
+
+Metallurgisch wird der Begriff heute nur zusammen mit dem vorangestellten Hauptlegierungszusatz verwendet; man spricht dann korrekt etwa von einer Antimon- und Arsenbronze, Aluminiumbronze, Bleibronze oder Manganbronze.
+In historischen Kontexten, etwa zu Bronzezeit und Bronzebildwerken, wird "Bronze" (in Österreich teilweise ohne endendes -e gesprochen) alleinstehend und meist für eine Zinnbronze verwendet.
+Auch bei der Phosphorbronze handelt es sich um eine Zinnbronze, der Phosphoranteil im Metall ist gering.
+
+== Etymologie
+
+Die heutige Bezeichnung für die Legierung wurde im 17. Jahrhundert zuerst aus dem italienischen bronzo, später auch über das französische bronze erneut entlehnt.
+Die Vorgeschichte ist etymologisch unklar.
+Das Wort wurde aber zuerst im 14. Jahrhundert aus dem Orient ins Italienische übernommen.
+Nicht auszuschließen ist ein Zusammenhang mit dem persischen Wort birindsch (piring bzw. biring) für Kupfer, woraus mittellateinisch bronzium und italienisch bronzo ableitbar wären.
+
+== Mineralische Grundlagen
+
+Zu den in Mitteleuropa frühzeitlich entdeckten Kupfererzvorkommen gehören die Fahlerze: Tetraedrit (Antimonfahlerz), Tennantit (Arsenfahlerz), Freibergit, Germanit, Colusit, Schwazit (Quecksilberfahlerz), Hermesit, Annivit; oder Wolfsbergit (Kupferantimonglanz) - bei denen das enthaltene Kupfer von Antimon, Arsen, Schwefel, Blei und Eisen begleitet wird, Elemente, deren saubere Abtrennung grundlegende metallurgische Fähigkeiten voraussetzt.
+Zinnerze wurden insbesondere als Kassiterit (Zinnstein) und als Stannit (Zinnkies) gefunden.
+
+== Zusammensetzung/Eigenschaften
+
+=== Zinnbronzen
+
+Im Bronzebereich des Systems Kupfer-Zinn bilden sich aus der Schmelze bei unterschiedlicher Zusammensetzung drei verschiedene Mischkristalle:
+Der a-Mischkristall entspricht dem des Reinkupfers, das ein kubisch flächenzentriertes Gitter ausbildet.
+Der Schmelzpunkt des Reinkupfers ist 1083 °C.
+Bei etwa 24 % Zinn liegt der -Mischkristall vor, der ein kubisch raumzentriertes Gitter besitzt, bei circa 30 % Zinn und darüber der ebenfalls kubisch raumzentrierte -Mischkristall.
+Zwischen den Mischkristallen a und  und zwischen  und  bildet sich je ein peritektisches Teilsystem.
+Das technisch relevante Peritektikum a/ liegt bei 22 % Zinn und 798 °C.
+Bei 586 °C findet ein eutektoider Zerfall der -Mischkristalle in a- und -Mischkristalle statt.
+Aus den -Mischkristallen können sich je nach Legierungszusammensetzung bei Abkühlung zwei intermetallische Verbindungen bilden:
+Die -Phase entspricht Cu31Sn8 und damit circa 32,5 % Zinn.
+Sie bildet eine enorm große kubisch flächenzentrierte Elementarzelle mit 416 Atomen und weist eine sehr große Härte auf.
+Die orthorhombische -Phase entspricht Cu3Sn und liegt damit bei circa 38,4 % Zinn vor.
+Im technisch relevanten Bereich entsteht die -Phase bei 520 °C beim Zerfall der -Mischkristalle in ein eutektoides Gefüge aus a- und -Mischkristallen mit 27 % Zinn.
+Ein weiterer eutektoider Zerfall der -Mischkristalle in a- und -Mischkristalle bei circa 350 °C findet unter realen technischen Verhältnissen nicht mehr statt, da die Diffusion zu stark behindert ist.
+Zur Herstellung des Gleichgewichts wären hier Kaltumformung und ein mehrmonatiges Glühen erforderlich.
+
+Die tatsächlich entstehenden Gefüge sind vor allem bestimmt durch die große Diffusionsträgheit des Zinns, die bereits bei der Kristallisation aus der Schmelze die Einstellung des Gleichgewichts verhindert.
+Damit liegt in Zinnbronze nur bei Zinngehalten unter 5-6 % ein Gefüge ausschließlich aus a-Mischkristallen vor, bei höheren Gehalten besteht es aus weichen a-Mischkristallen und dem harten a/-Eutektoid.
+
+Durch den Zinnzusatz nimmt die Festigkeit der Legierung zu und erreicht zwischen 10 und 15 % Zinn ein Maximum.
+Die Dehngrenze nimmt annähernd linear zu, wobei sie sich gegenüber dem Reinkupfer vervielfacht, und erreicht bei etwa 20 Prozent ein Maximum.
+Die Bruchdehnung beginnt, ausgehend von den hohen Werten des Kupfers, jenseits von 5 % Zinn rapide abzunehmen und nähert sich annähernd exponentiell der Nulllinie, die zwischen 20 und 25 % praktisch erreicht ist.
+Die Härte nimmt stetig zu, was sich bei höherem Zinngehalt nochmals verstärkt.
+Die Dichte nimmt pro 6 % Zinnzusatz um 0,1 g/cm^3 ab.
+Sie liegt bei 8 % Zinn bei 8,79 g/ cm^3.
+
+=== Legierungen und Legierungszusätze
+
+Zinnbronzen sind als Kupfer-Zinn-Legierungen genormt und werden aufgrund der grundsätzlich unterschiedlichen Anforderungen und Eigenschaften in Knetlegierungen (max. 9 % Zinn), die für die umformende Verarbeitung geeignet sind, und Gusslegierungen (9 % bis 13 % Zinn) gegliedert.
+Darüber hinaus kommen noch sogenannte Glockenbronzen mit etwa 20 %, max. jedoch 22 % Zinn zur Anwendung.
+
+Eigener Normierung unterliegen die Schweißzusätze und Hartlote auf Kupfer-Zinn-Basis.
+
+=== Weitere Bronzen
+
+Enthalten Legierungen nur wenig oder kein Zinn, werden sie häufig "Sonderbronzen" genannt.
+Ihre Bezeichnungen werden vom Legierungszusatz abgeleitet:
+Aluminiumbronze, Manganbronze, Nickelbronze etc. (siehe Übersichtstabelle unten).
+Berylliumbronze ist ein spezieller Kupferwerkstoff für funkenfreie Werkzeuge, der lediglich 2-3 % Beryllium und eine geringe Menge Cobalt enthält.
+
+Bleibronze (auch Kupfer-Zinn-Blei-Bronze) ist eine Lagerlegierung mit 5-22 % Blei.
+
+Rotguss zählt nicht zu den Zinnbronzen, ist damit auch nicht "Bronze" im engeren Sinne, obwohl gelegentlich als "Maschinenbronze", "Kanonenbronze" und ähnlich bezeichnet.
+Es ist eine Legierung auf Kupferbasis, deren Eigenschaften weniger vom Zusatz an Zinn als von Zink, Blei und Nickel bestimmt werden.
+
+=== Tabellenübersicht der Bronzelegierungen
+
+=== Statuenbronze
+
+Der Meyers von 1905 benannte für die Legierung einer der Witterung widerstehenden Bronze 89 % Kupfer, 8,2 % Zinn und 1,5 % Blei.
+
+Als Zusammensetzung moderner Statuenbronze wurden 1905 genannt:
+
+Schöne grüne Patina besaßen laut Meyers 1905:
+
+== Geschichte
+
+Zinnbronze ist ab der Mitte des 4. Jahrtausends v. Chr. sowohl zwischen mittlerer Donau und Kaspischem Meer belegt, z. B. ab dem 3. Jahrtausend v. Chr. auf dem Balkan, als auch für die Kura-Araxes-Kultur (Transkaukasien).
+
+Der bereits im griechischen bekannte Begriff wird auch mit Brundisium in Verbindung gebracht, dem lateinischen Namen des heutigen süditalienischen Brindisi, das in der Antike, zu Neugriechenland gehörend, eine Art Zentrum der Bronzeverarbeitung und des Bronzehandels war.
+
+Die gewerbsmäßige Herstellung von Bronze dürfte zwischen 2500 und 2000 v. Chr. in Vorderasien begonnen haben; in Mohenjo-Daro wurde die kleine Figur eines Mädchens (Tänzerin) gefunden.
+In China ist ebenfalls die Verwendung im 3. Jahrtausend v. Chr., spätestens während der Xia-Zeit dokumentiert.
+
+Bronze gilt als eine der ersten von Menschen hergestellten und genutzten Legierungen.
+Sie ist härter als reines Kupfer.
+Reines Kupfer schmilzt bei 1084,62 °C; Bronze mit 20 Masseprozent Zinn schon bei 900 °C (Diagramm hier).
+Die Zusammensetzung der frühesten Bronzen war oft noch von den eingesetzten Erzen abhängig; es entstanden Legierungen mit Arsen, dessen negativer Einfluss auf die mechanischen Eigenschaften heute bekannt ist.
+Auch bleihaltige Bronzen und - durch das verarbeitete Erz bedingt - solche mit Antimon entstanden und wurden verarbeitet.
+
+Die Bronzezeit, als Nachfolgerin der Kupferzeit, die ihrerseits die Jungsteinzeit ablöste, brachte Bronzewaffen, Gerätschaften und Schmuck (Bronzefibeln) in der Aunjetitzer Kultur und der alpinen Bronzezeit.
+Abgelöst wurde sie allmählich von der frühen Eisenzeit (Urnenfelderkultur, Lausitzer Kultur), und schließlich wird mit der Hallstatt-Kultur die Antike eingeleitet.
+Bronze und Eisen wurden je nach Aufgabenstellung noch nebeneinander verwendet.
+Durch Versuch und Irrtum gelangte man zu kohlenstoffarmem Schmiedeeisen.
+Damit verlor die Bronze zunehmend an Bedeutung für die Herstellung von Handwaffen.
+Mit den Griechen und Römern erlebte die Waffentechnik eine bis dato nie gesehene Güte und entwickelte sich im Bauwesen.
+Auch Denkmäler aus Bronze belegen die großen Erfahrungen in der Antike.
+Das frühe Mittelalter verlieh neuen Auftrieb; Glockengießer und Stückgießer unterstützten die kirchliche und weltliche Herrschaft für einige Jahrhunderte, bis die Eisenverhüttung und der Eisenguss die Bronze ablösten.
+
+== Nutzung
+
+=== Die traditionellen Anwendungsbereiche von Bronzen
+
+=== Bronzen und Bronzelegierungen als Teil moderner Techniken
+
+Kupfer-Zinn-Legierungen für unterschiedliche Techniken werden auch mit ebenso unterschiedlichen Legierungselementen den gestellten Forderungen angepasst.
+Der Zusatz von Nickel erhöht bei Gusslegierungen die Zähigkeit, bei Knetlegierungen die Festigkeit, Blei ist unverzichtbarer Bestandteil aller Lagerlegierungen, im Gefüge als metallisches Blei ausgeschieden, stützt es die für Lager wichtige Notlaufeigenschaft.
+
+Ein weites Einsatzgebiet für Kupfer-Zinn-Legierungen ist der Maschinen- und Werkzeugbau, aber auch für Feder- und Kontaktelemente in der Elektrotechnik und Elektronik, z. B. in Schaltkreisfassungen mit vergoldeter Federbronze.
+Chemische und Nahrungsmittelindustrie nutzen die Korrosions- und Verschleißfestigkeit.
+
+Zur Herstellung von Propellern für Seeschiffe sind klassische Zinnbronzen nicht geeignet, man setzt an ihrer Stelle Aluminium-Mehrstoffbronzen ein, die sich im Kontakt mit Seewasser kavitations- und korrosionsbeständig zeigen.
+
+Ebenso, wie aus anderen Metallen und Legierungen Fein- und Feinstgranulate hergestellt werden - verbreitet als "Metallpulver" bezeichnet (Kupferpulver, Aluminiumpulver) - so auch aus Bronze.
+Pyrophore Eigenschaften machen alle Metallpulver zum Bestandteil von Feuerwerkskörpern, wichtiger ist aber, dass sie die Technik des Pulverflammspritzens zur Herstellung dreidimensionaler Gegenstände ermöglichen.
+Durch zusätzliches heißisostatisches Verpressen (Sintern) werden hierbei Eigenschaften eines Metallmodells erzielt und damit bei der Fertigung von Prototypen und Kleinserien Zeit und Kosten eingespart.
+
+=== Bronzeimitat
+
+Durch Vermischen von Bronzepulver mit flüssigem Kunstharz wie bei der Kaltgussbronze werden billige Bronzeimitate hergestellt.
+
+== Galerie
+
+== Literatur
+
+== Weblinks
+
+Deutsches Kupferinstitut (DKI):
+
+== Einzelnachweise
+

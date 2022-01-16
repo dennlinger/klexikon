@@ -1,0 +1,109 @@
+Ein Magnet (von mittelhochdeutsch magnete, "Magnet, Magneteisenstein") ist ein Körper, der ein magnetisches Feld in seiner Umgebung erzeugt.
+In diesem Feld werden bestimmte andere Körper magnetisch angezogen oder abgestoßen.
+Magnetische Anziehung oder Abstoßung ist ein grundlegendes Naturphänomen - siehe dazu den Artikel Magnetismus.
+
+== Grundlagen
+
+Die Richtung und Stärke magnetischer Kräfte kann man durch Feldlinien anschaulich darstellen.
+Ein Magnet besitzt ein Magnetfeld, das durch seine Oberfläche hindurch auch in sein Inneres reicht.
+Die Oberflächenbereiche, die vom überwiegenden Teil des Magnetfeldes durchsetzt werden, heißen die Pole des Magneten; nach gängiger Konvention treten die Feldlinien am "Südpol" (meist grün dargestellt) in den Magneten ein und am "Nordpol" (rot) aus.
+Die Magnetfeldrichtung ist durch die Kraftwirkung auf einen Probemagneten definiert.
+
+Magnetische Monopole, also einzelne Nord- oder Südpole ohne ihren Widerpart, sind spekulativer Natur und konnten bisher nicht experimentell nachgewiesen werden.
+Zwar haben Experimente monopolähnliche Strukturen in bestimmten Festkörpern nachgewiesen; diese treten aber nur paarweise auf und können zwar als Quellen der Magnetisierung, aber nicht des Magnetfelds selbst angesehen werden (siehe Magnetischer Monopol).
+
+Auch viele Gesteine haben magnetische Eigenschaften.
+Das Erdmagnetfeld, nach dem sich Kompassnadeln ausrichten, entsteht nur zu einem geringen Teil durch solche magnetisierten Gesteine in der Erdkruste und zum großen Teil durch tiefer liegende Strömungen von elektrisch leitender Materie, also konkreten, makroskopischen Strömen.
+
+Man unterscheidet folgende Arten des Magnetismus:
+
+== Geschichte
+
+Bevor der Zusammenhang von Magnetismus und Elektrizität bekannt wurde, waren magnetische Phänomene und Nutzungen nur unter Zuhilfenahme natürlicher Magneteisensteine zu beobachten und zu verwenden.
+Die praktische Anwendung galt vor allem dem Kompass.
+Dessen Prinzip war schon im vorchristlichen China und in der griechischen Antike bekannt.
+Nach dem römischen Dichter Lukrez (De rerum natura) wurden die Magneteisensteine nach der Landschaft Magnesia in Griechenland benannt, wo diese Steine schon sehr früh gefunden wurden.
+Eine weitere Anwendung war die Entfernung von in den Körper eingedrungenen Eisenspitzen aus einer Wunde.
+Solche "Magnetoperationen" sind bereits in der altindischen Medizin nachweisbar.
+
+Bei Augustinus wird das Bild vom Magneten noch allegorisch verwendet.
+Der mittelalterliche englische Theologe und Naturforscher Alexander Neckam veröffentlichte gegen 1200 die frühesten europäischen Aufzeichnungen über die Magnetisierung von Kompassnadeln, und Petrus Peregrinus de Maricourt beschrieb 1269 erstmals die Polarität von Magneten.
+Grundlegendes zum Magnetismus, z. B. die Kenntnis von der Magneteigenschaft der Erdkugel, trug William Gilbert bei, indem er systematisch und experimentierend vorging, nach seinem Vorschlag konzentrierte man die Kraftlinien an den Polen der Magnetsteine mit kleinen Eisenkappen.
+Die ungebrochene Faszination des auch im 18. Jahrhundert in seinen Ursachen noch unklaren Magnetismus spiegelt der lange Artikel Magnet in der Oekonomischen Encyclopädie von Johann Georg Krünitz.
+1820 entdeckte Hans Christian rsted die Zusammenhänge zwischen elektrischem Strom und Magnetismus.
+Erst dies war die Voraussetzung für die Entwicklung der Elektrotechnik.
+
+== Dauermagnet
+
+Dauermagneten (auch Permanentmagneten genannt) behalten nach einer Magnetisierung diese über lange Zeit bei.
+Zur Herstellung dienen heute metallische Legierungen aus Eisen, Nickel und Aluminium mit Zusätzen aus Cobalt, Mangan und Kupfer oder auch keramische Werkstoffe (Barium- bzw. Strontiumhexaferrit).
+Besonders starke Magneten werden im Sinterverfahren aus seltenen Erden hergestellt, wie zum Beispiel Samarium-Cobalt oder Neodym-Eisen-Bor.
+Verwendung finden Dauermagneten in Kompassen als Magnetnadel, in Elektromotoren, in elektrischen Messinstrumenten (zum Beispiel Drehspulinstrumenten), in Lautsprechern, Kopfhörern, Mikrofonen und Gitarrentonabnehmern sowie in vielen anderen modernen Geräten wie Druckköpfen von Nadeldruckern, Festplattenlaufwerken, Aktoren und Sensoren und Metall-Abscheidern.
+Die einfachste Anwendung als Haltemagnet auf Eisen hält Möbeltüren, Handtaschen, den Deckel einer extravaganten Kartonverpackung geschlossen, Dekoration oder Infotafeln an Blechstreben einer abgehängten Zwischendecke, Notizen auf einer "Magnettafel" (eigentlich mittels Magnetknopf auf Blech), ein mit Stahlblech versehenes Smartphone auf einer Magnethalterung, eine Warn- oder Arbeitsleuchte auf Autoblech, Pseudopiercings etwa an der Wange.
+
+Mit Hilfe eines von einem anderen magnetischen Körper oder durch elektrischen Strom erzeugten Magnetfeldes können ferromagnetische Stoffe vorübergehend (sogenannter induzierter Magnetismus) oder dauerhaft durch Ausrichtung der Weiss-Bezirke selbst zu Magneten werden.
+
+Auf diese Weise werden übliche Dauermagneten hergestellt.
+
+== Elektromagnet
+
+Elektromagneten bestehen im Allgemeinen aus einer oder zwei stromdurchflossenen Spulen, meistens mit einem Kern aus einem weichmagnetischen Werkstoff, im einfachsten Fall aus Weicheisen.
+Diese Anordnung führt zu einem starken Magnetfeld, siehe hierzu Elektromagnetismus.
+Man verwendet Elektromagneten für zahlreiche kleine und große technische Einrichtungen, z. B. fremderregte Elektromotoren und Generatoren, Relais, Schütze, Zug-, Hub- und Stoßmagneten, elektrischer Türöffner.
+
+Wechselstrom-Elektromagneten finden sich in Membranpumpen (z. B. zur Aquarium-Belüftung) und Schwingförderern.
+
+Als Sonderfall weisen Ablenkspulen beispielsweise in einer Kathodenstrahlröhre keinen Kern auf und wirken so, als Luftspule, ebenfalls als Elektromagnet.
+
+Mit Elektro-Magnetfiltern können ferromagnetische Feststoffe aus Flüssigkeiten abgetrennt werden.
+Diese Feststoffe bestehen überwiegend aus Eisenoxiden.
+Diese werden beispielsweise aus den Umlaufkondensaten von Kraftwerken und den Umlaufwässern von Fernheiznetzen abfiltriert.
+
+=== Magnetische Flussdichte
+
+Ab einer magnetischen Flussdichte von etwa 2 T (Sättigungsfeldstärke) sind die üblichen ferromagnetischen Werkstoffe für den Kern eines Elektromagneten in der Sättigung und können nicht mehr zur Verstärkung des Feldes beitragen.
+Ohne die Unterstützung durch den Kern können z. B. wie in einer Luftspule auch bedeutend größere Flussdichten erreicht werden, allerdings mit viel höherem Energieaufwand.
+
+=== Supraleitung
+
+Bei Verwendung von supraleitenden Werkstoffen zur Wicklung eines Elektromagneten ist es möglich, magnetische Flussdichten bis ca. 20 Tesla im Dauerbetrieb zu erreichen.
+Da die Sprungtemperatur der Supraleitung bei solchen Magnetfeldern und Stromdichten stark absinkt, müssen die Spulen dazu in mit flüssigem Helium gefüllten Kryostaten durch Siedekühlung bei Unterdruck auf deutlich unter 4 K gekühlt werden.
+
+Solche Magneten sind z. B. für Kernspinresonanzspektroskopie (NMR), Kernspintomografen oder kontinuierlich arbeitende Kernfusionsreaktoren erforderlich.
+Im Jahr 2009 besaß der stärkste kommerziell erhältliche NMR-Magnet eine Flussdichte von 23,5 T (Bruker).
+
+== Anwendungen
+
+=== Ablenkmagnet
+
+Ein Ablenkmagnet ist ein Magnet (fast immer Elektromagnet), der in einem technischen Gerät eingesetzt wird, um einen Strahl aus geladenen Teilchen (z. B. Elektronen) in eine andere Richtung abzulenken.
+In diesem Fall wird auch eine kernlose Spule als Magnet bezeichnet.
+
+Ablenkmagneten nutzen die Lorentzkraft, die bewegte elektrische Ladungen in einem magnetischen Feld zu einer Richtungsänderung zwingt.
+Ist das Feld homogen, durchfliegen die Teilchen dabei einen Kreisbogen quer zur Magnetfeldrichtung.
+Das Magnetfeld kann permanent oder induktiv erzeugt werden.
+Letztere Variante erlaubt schnelle Änderungen der Feldstärke.
+
+Die Richtungsänderung dient meist der Fokussierung oder Lenkung eines Strahls.
+Zur Ablenkung von Elektronen sind Ablenkmagneten Bestandteile von:
+
+Auch in Teilchenbeschleunigern und ihren Strahlführungen werden geladene Teilchen mit Dipolmagneten auf bestimmte Bahnen gelenkt.
+
+Umgekehrt erlaubt der Winkel der Richtungsänderung bei bekannter Ladung Rückschlüsse auf die Masse der abgelenkten Teilchen.
+Dies ist die Grundlage der Massenspektrometrie.
+
+=== Wirkung auf magnetische Datenträger
+
+Kommt ein magnetisch aufzeichnender Datenträger (Festplatte, Magnetstreifen einer Kreditkarte, Tonbandspulen o. ä.), in die Nähe eines stärkeren Magneten, kann das einwirkende Magnetfeld zu Datenverlusten durch Überschreiben der magnetischen Informationen des Datenträgers führen.
+Ein bekanntes Beispiel dafür sind die Magnethalterungen von Klapptischen in Interregio-Zügen der Deutschen Bahn AG, die nicht an der Arretierposition (Lehne), sondern im Tisch angebracht, also in der Tischauflagefläche eingearbeitet waren.
+Die Festplatten aufliegender Laptops wurden durch diese Magnethalterungen nicht nur gelöscht, sondern beschädigt, die Datenverluste konnten nicht rückgängig gemacht werden.
+Oft kommt es auch an Ladenkassen zur Zerstörung von EC-/Kreditkarten, weil dort manche Waren-Diebstahlsicherungen mittels eines starken Magneten entfernt werden.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

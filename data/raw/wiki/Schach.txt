@@ -1,0 +1,664 @@
+Schach (von persisch  sah, ,Schah, König' - daher die Bezeichnung "das königliche Spiel") oder Schachspiel ist ein strategisches Brettspiel, bei dem zwei Spieler abwechselnd Spielsteine (die Schachfiguren) auf einem Spielbrett (dem Schachbrett) bewegen.
+Ziel des Spiels ist es, den Gegner schachmatt zu setzen, das heißt, dessen König so anzugreifen, dass diesem weder Abwehr noch Flucht möglich ist.
+
+Schach ist weltweit bekannt und hat eine tiefe kulturelle Bedeutung erlangt.
+Viele Schachspieler sind Mitglieder von Schachvereinen, die ihrerseits regionalen und nationalen Schachverbänden angehören und sich weltweit im Weltschachbund (FIDE) zusammengeschlossen haben.
+Schachturniere werden von privaten Veranstaltern, von Schachvereinen oder von Schachverbänden organisiert.
+Schach gilt als Sportart.
+Derzeitiger Schachweltmeister ist Magnus Carlsen aus Norwegen.
+Für Frauen gibt es neben der Möglichkeit, gemeinsam mit Männern in Turnieren zu spielen, auch eigene Wettkämpfe.
+Derzeitige Schachweltmeisterin ist Ju Wenjun aus der Volksrepublik China.
+
+== Geschichte
+
+Der Vorläufer aller Spiele aus der Schachfamilie, also nicht nur des europäischen Schachs, sondern auch des Xiangqis, Shogis oder Makruks, entstand vermutlich in Nordindien.
+Dieses Urschach wurde Chaturanga genannt.
+Details zur Entwicklung des Spiels sind nicht bekannt, was zur Ausbildung von Mythen, insbesondere der Weizenkornlegende, führte.
+
+Über Persien und, nach dessen Eroberung durch die Araber, im Zuge der islamischen Expansion wurde das Schachspiel weiter verbreitet.
+Spätestens im 13. Jahrhundert war das Schachspiel in Europa fest etabliert, denn seit dieser Zeit gehörte es zu den sieben Tugenden der Ritter.
+Populär wurden die Schachregeln von Alfons X.
+Im 15. Jahrhundert kam es, vermutlich in Spanien, zu einer großen Reform der Spielregeln, bei der schrittweise die heute gültigen Gangarten für Dame und Läufer, der Doppelschritt des Bauern von seinem Startfeld sowie die Rochade eingeführt wurden.
+In den folgenden Jahrhunderten trugen vor allem europäische Schachmeister zur Erforschung des Spiels bei.
+
+Im 18. und 19. Jahrhundert wurde das Schachspiel ein Bestandteil der bürgerlichen Kultur, was den Spielstil änderte und Turnierwesen und Schachpublizität prägte.
+Es war auch die Zeit der großen Schachcafes, deren berühmtestes das Pariser Cafe de la Regence war, wo seit 1740 Schach gespielt wurde.
+Der erste Schachverein wurde dann 1809 in Zürich gegründet.
+
+Mit dem anlässlich der Weltausstellung in London 1851 vom englischen Meister Howard Staunton initiierten ersten großen Turnier begann die Geschichte der modernen Schachturniere.
+Als erste Schachweltmeisterschaft wird der Wettkampf zwischen den beiden damals führenden Spielern Wilhelm Steinitz und Johannes Zukertort im Jahr 1886 angesehen, obwohl bereits zuvor einige Spieler durch Turnier- und Zweikampferfolge als die stärksten ihrer Zeit angesehen wurden.
+Im Jahre 1924 wurde in Paris der Weltschachbund FIDE gegründet; ab 1948 übernahm die FIDE die Vergabe des Schachweltmeistertitels und organisierte Weltmeisterschaften im Dreijahresrhythmus.
+Von 1945 bis etwa 1990 war die Sowjetunion die weltweit dominierende Schachnation und stellte auch fast alle Weltmeister.
+Der auch als "Match des Jahrhunderts" bezeichnete Weltmeisterschaftskampf 1972, in dem der Amerikaner Bobby Fischer gegen den Russen Boris Spasski den Titel erkämpfte, führte zur Popularisierung des Schachspiels in den westlichen Industrienationen.
+
+Im späten 20. Jahrhundert gewannen schrittweise Schachcomputer und Schachprogramme auf PCs an Bedeutung.
+Heute sind sie menschlichen Spielern fast ausnahmslos überlegen.
+Schachprogramme spielen beim Schachtraining, bei der Partievorbereitung und der Partieanalyse im Spitzenschach eine wichtige Rolle.
+
+Eine sehr umfangreiche Sammlung zur historischen und aktuellen Situation des Schachs in Deutschland befindet sich im Niedersächsischen Institut für Sportgeschichte in Hannover.
+
+== Allgemeines
+
+Schach ist - gemessen an der Zahl der in Vereinen organisierten Spieler und der über das Spiel veröffentlichten Literatur - vor Dame, Mühle, Halma und den vielen Pachisi-Abkömmlingen das populärste Brettspiel in Europa.
+In ostasiatischen Kulturen nehmen die jeweiligen mit dem Schach verwandten, und verschiedenen Ausmaßes ähnlichen, Spiele wie Xiangqi, Shogi und Makruk einen ähnlichen Platz ein.
+
+Es wird sowohl zum reinen Vergnügen als auch wettkampfmäßig gespielt, in Schachvereinen, Turnieren, online per Schachserver oder als Fernschach per E-Mail, Fax, speziellen Fernschachservern und Postkarte.
+Ein bereits sehr alter Nebenzweig des Schachspiels ist das Kunst- oder Problemschach (Schachkomposition).
+Im Unterschied zum Partieschach spielen hier nicht zwei Parteien gegeneinander, sondern ein Schachkomponist entwirft und veröffentlicht eine Aufgabe, die zu lösen ist ("Schach ohne Partner").
+Die Schachkomposition wird nach ästhetischen Kriterien bewertet.
+
+Die Schachpartie wird auf dem quadratischen Schachbrett gespielt, das in acht mal acht abwechselnd schwarze und weiße quadratische Felder eingeteilt ist.
+Auf diesen werden je 16 schwarze und weiße Schachfiguren gezogen, von denen üblicherweise ein großer Teil nach und nach geschlagen wird.
+Die Schachfiguren sind gewöhnlich aus Holz oder Kunststoff, wobei es auch dekorative Spielsets gibt, die aus Stein, Glas, Marmor oder Metall (z. B. Zinn) gefertigt sind.
+
+Schach ist eines der komplexesten Brettspiele.
+Die Zahl der möglichen Stellungen wird auf über 1043 geschätzt.
+Bereits nach zwei Zügen können 72.084 verschiedene Stellungen entstehen.
+Die Zahl der möglichen Spielverläufe ist noch einmal um ein Vielfaches größer:
+Schon für die ersten 40 Züge belaufen sich die Schätzungen auf etwa 10115 bis 10120 verschiedene Spielverläufe.
+Dabei wird im geometrischen Mittel über den Partieverlauf von etwa 30 möglichen Halbzügen pro Stellung ausgegangen.
+In der Spieltheorie wird Schach den endlichen Nullsummenspielen mit perfekter Information zugeordnet.
+Theoretisch könnte man also ermitteln, ob bei beiderseits perfektem Spiel Weiß oder Schwarz gewinnt oder die Partie remis enden muss.
+Nach heutigem Wissensstand ist es jedoch wegen der enormen Anzahl der zu berechnenden Stellungen praktisch nicht möglich, diese Frage durch vollständige Berechnung des Suchbaums zu klären.
+Ergebnisse für alle Materialverteilungen bis zu sieben Steinen sind jedoch bereits berechnet worden und in Endspieldatenbanken (sogenannten Tablebases) verfügbar.
+
+Statistisch gesehen holt Weiß als Anziehender im Mittel mehr Punkte als Schwarz, nämlich circa 54 Prozent der möglichen Punkte.
+Dieser Anzugsvorteil wird allgemein darauf zurückgeführt, dass Weiß bei der Entwicklung der Figuren einen Tempovorteil hat.
+Die Remisquote, d. h. die relative Häufigkeit von Partien mit unentschiedenem Ausgang, liegt bei ungefähr einem Drittel und nimmt mit dem Spielstärkeniveau der Beteiligten zu.
+
+== Spielregeln
+
+=== Grundbegriffe und Spielziel
+
+Auf dem Schachbrett befinden sich zu Beginn einer Partie insgesamt 32 Schachfiguren (auch als Steine bezeichnet), 16 weiße und 16 schwarze.
+Beide Spieler (bezeichnet als Weiß und Schwarz oder als Anziehender und Nachziehender) haben je folgende Schachfiguren zur Verfügung:
+
+Das Schachbrett wird so zwischen den Spielern angeordnet, dass sich aus der Sicht eines jeden Spielers unten rechts ein weißes Feld befindet.
+Bei einem Brett mit Schachnotation sind die waagerechten Reihen (aus Sicht von Weiß von unten nach oben) mit den Zahlen 1 bis 8 und die senkrechten Linien (aus Sicht von Weiß von links nach rechts) mit den Buchstaben a bis h gekennzeichnet.
+Die Grundstellung der Schachfiguren für Weiß ist dann von a1 bis h1: Turm, Springer, Läufer, Dame, König, Läufer, Springer und Turm.
+Die weißen Bauern werden in der Reihe darüber von a2 bis h2 aufgestellt.
+Für Schwarz gilt dieselbe Aufstellung von a8 bis h8 und a7 bis h7, sodass sich die Figuren spiegelbildlich gegenüberstehen.
+Die Dame steht dabei auf beiden Seiten auf einem Feld ihrer eigenen Farbe.
+Eine lateinische Merkregel dazu lautet: Regina regit colorem, "Die Dame bestimmt die Farbe (des Feldes)".
+Deutsche Versionen hierzu sind "Die Dame liebt ihre Farbe" oder direkter "Weiße Dame, weißes Feld - Schwarze Dame, schwarzes Feld".
+Eine weitere Merkregel lautet "Damen auf D-Linie".
+
+Beginnend mit Weiß führen die Spieler abwechselnd Züge mit ihren Figuren aus.
+Der ziehende Spieler bewegt jeweils eine Schachfigur der eigenen Farbe auf ein anderes Feld.
+Einzige Ausnahme ist die Rochade, bei der zwei eigene Figuren (König und Turm) bewegt werden.
+Es besteht Zugpflicht, was in Zugzwangsituationen zum Nachteil für den Spieler werden kann.
+In der Schachnotation werden immer eine weiße und eine anschließende schwarze Figurenbewegung zusammen nummeriert und als Zug gezählt.
+Aus dem Zusammenhang ist üblicherweise ersichtlich, welche Bedeutung des Wortes Zug gemeint ist.
+Sollte aber eine genaue Begriffsunterscheidung nötig sein, nennt man die Aktion des einzelnen Spielers Halbzug.
+
+Auf einem Feld darf immer nur ein Stein stehen.
+Er blockiert dabei das Feld für alle Steine der eigenen Farbe, d. h., man darf eine Figur nie auf ein Feld ziehen, auf dem schon eine eigene Figur steht.
+Wenn jedoch auf dem Zielfeld eine gegnerische Figur steht, so wird diese vom Spielbrett genommen.
+Man sagt, sie wird geschlagen.
+Im weiteren Spielverlauf wird sie nicht mehr verwendet.
+
+Die Figuren dürfen einander grundsätzlich nicht überspringen (Ausnahmen gelten für den Turm bei der Rochade und für den Springer).
+Sie dürfen also nur über leere Felder hinweg gezogen werden: bis zum ersten vom Gegner besetzten Feld (einschließlich) oder bis vor das erste von einer eigenen Figur besetzte Feld.
+
+Könnte eine Schachfigur im nächsten Zug geschlagen werden, so ist sie bedroht (veraltet: sie steht en prise).
+Kann unmittelbar nach Ausführen dieses Schlagzuges die schlagende Figur ihrerseits geschlagen werden, so nennt man die bedrohte Figur gedeckt.
+Ist dies nicht möglich oder hat die bedrohte Figur einen höheren Tauschwert als die schlagende Figur, so hängt erstere, es sei denn die Drohung kann durch stärkere Gegendrohungen (Schachgebote, Mattdrohungen ...) entschärft werden.
+
+Ist einer der Könige bedroht, spricht man davon, dass er im Schach steht.
+Mit dem Ausruf "Schach!" wies man früher den Gegner darauf hin; dies ist jedoch im Turnierschach nicht mehr üblich und in den FIDE-Regeln nicht vorgesehen (ebenso wenig wie der Hinweis "Gardez" für einen Angriff auf die Dame).
+Ein Schachgebot muss stets pariert werden, und der König darf auch nicht einer Bedrohung ausgesetzt werden:
+Nach jedem Halbzug eines Spielers muss der König dieses Spielers unbedroht sein.
+Das Spielziel besteht darin, eine Situation herbeizuführen, in der der gegnerische König bedroht ist und der Gegner diese Bedrohung nicht im nächsten Halbzug aufheben kann (Schachmatt).
+
+=== Zugregeln
+
+Die Schachfiguren dürfen, abhängig von ihrem Typ, nur nach bestimmten Regeln gezogen werden:
+
+==== König
+
+Der König ist beim Schachspiel die wichtigste Figur, da es Ziel des Spiels ist, den gegnerischen König matt zu setzen, was die Partie sofort beendet.
+Matt setzen heißt, den gegnerischen König mit einer (oder mehreren) Figur(en) zu bedrohen, ohne dass die Bedrohung im anschließenden Halbzug abgewehrt werden kann, was durch Wegziehen des Königs auf ein unbedrohtes Feld, Schlagen der angreifenden Figur oder Ziehen einer Figur zwischen König und angreifende Figur geschehen kann.
+Es ist ein charakteristisches Merkmal des Schachspiels, dass der König selbst nicht geschlagen wird, sondern die Partie einen Zug, bevor dies unabwendbar geschehen würde, endet.
+Diese Besonderheit wird gelegentlich mit der Unantastbarkeit der königlichen Würde im Entstehungskontext des Spiels begründet.
+Als besondere Geste, dass man verloren hat oder aufgibt, kann man den eigenen König auf dem Schachbrett umkippen oder umlegen.
+
+In der Eröffnung ist es in der Regel sinnvoll, die Sicherheit des Königs durch eine baldige Rochade zu erhöhen.
+Die Bauern der Rochadestellung sollen möglichst nicht gezogen werden, damit sie einen Schutzwall vor dem König bilden.
+Auch im Mittelspiel ist eine sichere Position des Königs, wo er vor gegnerischen Angriffen geschützt ist, von Bedeutung.
+Im Endspiel, wenn nicht mehr viele Figuren vorhanden sind, die die Könige bedrohen können, kommt diesen eine aktive Rolle zu.
+Dazu ist es in der Regel günstig, den König in der Nähe der Brettmitte zu platzieren.
+Besonders in einem Bauernendspiel ist die Position des Königs entscheidend.
+Dabei ist das Erreichen der Opposition beider Könige oft spielentscheidend.
+
+==== Dame
+
+Damit ist die Dame die beweglichste und stärkste Figur im Schachspiel.
+In der Praxis ist eine Dame im Zusammenspiel mit Turm, Läufer und Springer eine starke Angriffsfigur.
+Ihr Wert bemisst sich zu neun oder mehr (nach Großmeister Larry Kaufman zu 9,75) Bauerneinheiten.
+Die Dame ist, unter sonst gleichen Voraussetzungen, fast so stark wie zwei Türme zusammen.
+Im Persischen heißt diese Figur Berater (Wesir, Vazir /  /,der königliche Berater und Hofstratege'), was einer militärstrategischen Auslegung des Spiels eher entspricht.
+
+==== Turm
+
+Der Turm ist die zweitstärkste Figur in einem Schachspiel.
+Sein Wert bemisst sich zu etwa fünf Bauerneinheiten.
+In den Ursprüngen des Spiels in Persien war der Turm wohl ein Kampfwagen, der als mehrfach gekerbter Holzklotz dargestellt wurde.
+Dies deuteten die Europäer als zinnenbewehrten Turm fehl.
+In der englischen Schachsprache heißt der Turm rook (rukh /  /,Kampf-, Streitwagen').
+Der Turm wurde im Deutschen früher "Roch" genannt; daher stammt auch die Bezeichnung "Rochade".
+
+Man unterscheidet in der Grundstellung und in der Eröffnung zwischen "Damenturm" und "Königsturm".
+Ersterer ist auf dem Damenflügel postiert, der weiße steht auf dem Feld a1, der schwarze auf a8. Letzterer ist auf dem Königsflügel postiert; der weiße steht auf dem Feld h1, der schwarze auf h8.
+
+Es ist möglich, nur mit Turm und König den gegnerischen König matt zu setzen.
+Unter sonst gleichen Voraussetzungen ist der Turm deshalb erheblich stärker als ein Springer oder Läufer (allerdings nimmt er zu Beginn des Spiels, v. a. vor der Rochade, auf Grund seiner sehr eingeschränkten Beweglichkeit zunächst eine untergeordnete Rolle ein).
+Jedoch ist ein einzelner Turm etwas schwächer als zwei dieser Figuren.
+Den Wertunterschied zwischen einem Turm und einem Springer oder Läufer bezeichnet man als Qualität.
+Man spricht von Qualitätsgewinn, wenn man einen Turm unter Preisgabe eines Springers oder Läufers erobern kann, und von Qualitätsopfer, wenn man die Qualität zu Gunsten anderer Vorteile bewusst preisgibt.
+
+Im Unterschied zu allen anderen Figuren kann der Turm unabhängig von seiner Position (falls er nicht durch andere Figuren blockiert wird) immer die gleiche Anzahl von Feldern in einem Zug erreichen, nämlich 14.
+
+==== Läufer
+
+Die Läufer können ihre Feldfarbe niemals wechseln, sodass ein Läufer nur die Hälfte der Felder des Schachbretts erreichen kann.
+Zu Beginn einer Partie hat jeder Spieler einen weißfeldrigen und einen schwarzfeldrigen Läufer.
+Man unterscheidet auch zwischen Damenläufer und Königsläufer auf Grund ihrer Positionierung neben der Dame bzw. dem König.
+Ein Läufer ist meistens etwas mehr als drei Bauerneinheiten wert (nach Larry Kaufman 3,25 Bauerneinheiten), oft wird jedoch der in der Regel etwas zu geringe Wert von drei Bauerneinheiten angegeben.
+Sehr wirksam ist das sogenannte Läuferpaar, das in der Regel in offenen Stellungen - also ohne blockierende Bauern - einem Springerpaar oder einem Läufer und Springer überlegen ist, da die beiden Läufer gut gemeinsam agieren können, d. h., sich niemals gegenseitig blockieren.
+Nach Larry Kaufman kann man auch die Paarigkeit der Läufer mit einer zusätzlichen halben Bauerneinheit bewerten.
+Daraus folgt dann auch, dass zwei Läufer etwa sieben Bauerneinheiten wert sind (zweimal 3,25 für die beiden Läufer und 0,5 für das Läuferpaar), also etwa so viel wie ein Turm und zwei Bauern.
+Das Endspiel König und Läuferpaar gegen König ist gewonnen.
+
+Läufer sind langschrittige Figuren, die in einem Zug von einer Brettseite zur anderen gelangen können, wenn alle dazwischenliegenden Felder frei sind.
+Von ungleichfarbigen Läufern spricht man, wenn Weiß einen schwarzfeldrigen Läufer und Schwarz einen weißfeldrigen Läufer besitzt oder umgekehrt.
+Diese können sich nicht gegenseitig bedrohen.
+Einen schlechten Läufer nennt man den Läufer, der durch mehrere eigene Bauern in seinen Bewegungsmöglichkeiten eingeschränkt ist.
+Läufer stehen in der Regel wirkungsvoll, wenn sie auf viele Felder ziehen können und das Zentrum kontrollieren.
+
+==== Springer
+
+Das Zielfeld hat immer eine andere Farbe als das Ausgangsfeld.
+Damit ist der Springer in der Lage, alle Felder des Brettes zu betreten, aber für ihn ist der Weg von einer Schachbrettseite zur anderen zeitaufwändig.
+In der Mitte des Brettes kann ein Springer auf maximal acht Felder ziehen, am Rand des Brettes oder in der Nähe des Randes kann die Zahl der in Frage kommenden Zielfelder auf zwei, drei, vier oder sechs beschränkt sein.
+
+Eine Schachpartie beginnt mit zwei weißen und zwei schwarzen Springern - die ältere Bezeichnung "Rössel" wird heute nur noch umgangssprachlich oder im Zusammenhang mit dem Rösselsprungrätsel gebraucht.
+Die Besonderheit der Springer ist es, über eigene und gegnerische Figuren "springen" zu können.
+Ein gutes Feld für einen Springer ist in der Regel ein möglichst zentrales Feld, von dem dieser viele Zugmöglichkeiten hat.
+Eine Warnung für Anfänger lautet: "Ein Springer am Rand bringt Kummer und Schand." Die Praxis kennt aber zahlreiche Ausnahmen.
+
+Zwei Springer gegen den alleinigen König können das Matt nicht erzwingen, es gibt aber Gewinnmöglichkeiten, falls die schwächere Seite noch einen Bauern besitzt und dieser noch nicht zu weit vorgerückt ist.
+
+Der Wert eines Springers entspricht mit etwas mehr als drei Bauerneinheiten (3,25 nach Larry Kaufman) in etwa dem eines Läufers.
+Die jeweilige Stärke der beiden Figuren hängt aber von der konkreten Situation, meistens vor allem der Bauernstruktur, ab.
+
+==== Bauer
+
+Jeder Spieler hat zu Partiebeginn acht Bauern, die in der Grundstellung einen Wall vor den übrigen Figuren bilden.
+Der Bauer kann sich nur vorwärts bewegen, er kann somit als einziger Spielstein niemals auf ein zuvor betretenes Feld zurückkehren.
+
+Der Weltschachverband FIDE bezeichnet in seinen offiziellen Schach-Regeln auch den Bauern als "Figur", trotzdem wird von Schachspielern zumeist zwischen Bauern und den übrigen Steinen unterschieden, und nur Letztere werden als Figuren bezeichnet.
+Wegen seiner begrenzten Zug- und Schlagmöglichkeiten gilt der Bauer als schwächster Stein im Schach.
+Allerdings wird die Bedeutung der Bauern im Verlauf einer Schachpartie immer größer, weil er Figuren höheren Werts mit geringem Risiko bedrohen oder ihnen den Weg versperren kann.
+Außerdem besteht die Möglichkeit, ihn beim Erreichen der gegnerischen Grundreihe in eine stärkere Figur umzuwandeln.
+
+Erreicht ein Bauer die letzte Reihe, wird er meist in eine Dame umgewandelt, da dies die stärkste Figur ist.
+Sofern der Spieler seine ursprüngliche Dame noch hat (und somit eine zweite umwandelt), wird oft die umgewandelte Dame durch einen umgedrehten Turm dargestellt.
+In Turnieren ist dies regelwidrig; man muss sich, gegebenenfalls aus einem anderen Spielset, eine zusätzliche Dame besorgen.
+Eine Umwandlung in eine andere Figur bezeichnet man als Unterverwandlung.
+Diese erfolgt am häufigsten in einen Springer, meist mit Schachgebot und oft kombiniert mit einer Springergabel.
+Eine Unterverwandlung in einen Turm oder Läufer kann sinnvoll sein, um ein Patt zu vermeiden.
+
+Es ist in der Schachliteratur üblich, den erfahrungsgemäßen Wert der Figuren Dame, Turm, Läufer und Springer in sogenannten Bauerneinheiten zu messen.
+Ein Bauer hat demnach den Wert einer Bauerneinheit.
+
+Im persischen Spiel wurde der Bauer als sbz /  /,Soldat' bezeichnet und als solcher dargestellt.
+
+Bauern sind dann besonders stark, wenn sie
+
+=== Ende des Spiels
+
+Ein Spiel endet entweder durch Schachmatt beziehungsweise Aufgabe eines Spielers oder durch Remis respektive Patt.
+Wird mit Schachuhr gespielt, außerdem auch durch Zeitüberschreitung.
+
+Es gewinnt der Spieler, der den gegnerischen König schachmatt setzt (aus dem Persischen:
+Schah Mat = "Der König ist ausgeliefert/hilflos").
+Dies ist erreicht, wenn der gegnerische König durch einen eigenen Stein bedroht wird und der Gegner die Bedrohung nicht im nächsten Halbzug abwehren kann und somit keinen regulären Zug mehr zur Verfügung hat.
+
+Eine weitere Möglichkeit zum Spielgewinn ist die Aufgabe des Gegners, dies ist jederzeit während der Partie möglich.
+Zur Schachetikette gehört es, dass der Verlierer dem Gewinner die Hand reicht und zum Sieg gratuliert.
+Im Turnierschach, bei dem mit einer festgelegten Bedenkzeit und Schachuhren gespielt wird, verliert ein Spieler, wenn er seine zur Verfügung stehende Zeit überschreitet.
+Dies gilt nur, sofern sein Gegner ihn noch durch eine regelgemäße Zugfolge mattsetzen kann; falls aber der Gegner selbst gegen ungeschicktestes Spiel nicht mehr mattsetzen könnte - also nicht einmal eine theoretische Möglichkeit zum Mattsetzen besteht - endet die Partie trotz Zeitüberschreitung mit einem Unentschieden.
+
+Eine Partie kann auch durch Patt enden:
+Die Partei am Zug kann keinen legalen Zug mehr ausführen, aber ihr König ist nicht bedroht.
+Die Partie endet dann unentschieden.
+
+Die Partie endet mit einem technischen Remis, wenn außer den beiden Königen höchstens noch eine Leichtfigur (Läufer oder Springer) auf dem Brett ist.
+Dann ist ein Matt selbst theoretisch, bei beliebig schlechtem Spiel des Gegners, nicht mehr möglich.
+
+Zu den weiteren Möglichkeiten eines unentschiedenen Spielausgangs siehe den Artikel Remis.
+
+== Notation
+
+Notation nennt man die Aufzeichnung des Verlaufs einer Schachpartie.
+Üblicherweise werden die Züge einer Partie zu Paaren zusammengefasst, bestehend aus einem Zug von Weiß und dem anschließenden Zug von Schwarz.
+Die Bezeichnung Zug bezieht sich in der Regel auf ein Zugpaar.
+Einen einzelnen Zug von Weiß oder Schwarz nennt man zur Unterscheidung Halbzug.
+Die Züge werden fortlaufend nummeriert.
+Es ist nicht notwendig, aber gut für die Lesbarkeit, jeden Zug in eine eigene Zeile zu schreiben.
+
+Es gibt verschiedene Arten der Notation.
+Allgemein gebräuchlich ist heute die algebraische Notation.
+Das Schachbrett wird mit einem Koordinatensystem belegt, damit man das Ausgangsfeld und das Zielfeld jedes Zuges eindeutig angeben kann.
+
+In der algebraischen Notation wird zuerst die Art der Figur angegeben:
+
+Danach wird in der ausführlichen algebraischen Notation das Ausgangs- und Zielfeld notiert; in der verkürzten algebraischen Notation notiert man in der Regel nur das Zielfeld.
+
+Züge auf ein freies Feld werden durch ein "-", Schlagzüge durch ein "x" (oder auch ein ":") zwischen Ausgangs- und Zielfeld gekennzeichnet.
+Ein Schachgebot erhält ein "+" hinter dem Zug, ein Matt "++", "" oder "#".
+Wird ein Bauer umgewandelt, so wird der Buchstabe der Umwandlungsfigur hinter dem Zug angegeben.
+Die kleine Rochade wird durch "0-0" gekennzeichnet, die große Rochade durch "0-0-0"; in der verbreiteten PGN-Notation wird hier jedoch statt der Ziffer Null der Großbuchstabe O verwendet.
+Das en-passant-Schlagen wird durch ein nachgestelltes "e.p." gekennzeichnet.
+Ein Remisangebot wird durch "(=)" vermerkt.
+
+In der Literatur werden Züge häufig auch mit einer Bewertung gekennzeichnet, etwa "!" für einen starken Zug oder "?" für einen schlechten Zug.
+Beispielsweise bedeutet "Lc5-d4?": "Läufer auf c5 zieht nach d4 - dies ist ein schwacher Zug."
+
+=== Ausführliche algebraische Notation
+
+Die ausführliche algebraische Notation war früher in Druckwerken (Schachbüchern und -zeitschriften) weithin gebräuchlich.
+
+Beispiele:
+
+=== Verkürzte algebraische Notation
+
+Bei der Kurznotation wird das Ausgangsfeld weggelassen.
+Ist ein Zug dadurch nicht mehr eindeutig beschrieben, so wird die Ausgangslinie (sofern diese nicht identisch ist) oder die Ausgangsreihe (falls beide Figuren auf der gleichen Linie stehen) hinzugefügt.
+
+Die verkürzte Form der Notation ist bei der handschriftlichen Notation der Schachpartie üblich und hat sich weitgehend auch in Schachbüchern und -zeitschriften durchgesetzt.
+
+Beispiele:
+
+=== Ergebnis
+
+Nach dem letzten Zug wird das Ergebnis der Partie notiert, ein 1:0 steht für den Sieg des Spielers mit den weißen Steinen, ein 0:1 für den Sieg des Spielers mit den schwarzen Steinen, ein : für einen unentschiedenen Ausgang (Remis).
+Kampflos gewonnene Partien werden mit +:- bzw. -:+ notiert.
+
+Eine Zusammenfassung mehrerer Partieergebnisse - etwa von einem Spieler in einem Rundenturnier, einem Kampf zwischen zwei Mannschaften, oder einer Statistik zwischen zwei Spielern - wird mit der Schreibweise von beispielsweise (+3 =2 -4) angezeigt:
+Neun Partien sind von diesem Spieler oder dieser Mannschaft gespielt worden, von denen drei gewonnen wurden, zwei unentschieden endeten und vier verloren gingen.
+
+== Regeln für Schachturniere
+
+Schachturniere werden häufig in der Turnierform des Schweizer Systems organisiert.
+In der Regel erhält ein Spieler für jede gewonnene Partie einen Punkt, für jede Remispartie einen halben Punkt und für jeden Partieverlust null Punkte.
+Zur Diskussion um die Drei-Punkte-Regel siehe Remis.
+Wird an mehreren Brettern ein Mannschaftswettkampf durchgeführt, erhält die Mannschaft mit den meisten Punkten aus den gespielten Partien einen Mannschaftspunkt.
+
+=== Die Schachuhr
+
+Eine Schachuhr dient im Turnierschach dazu, die den beiden Spielern zur Verfügung stehende Bedenkzeit zu begrenzen und anzuzeigen.
+Sie hat für die beiden Spieler getrennte Zeitanzeigen ("Uhren"), von denen immer nur eine läuft.
+Hat ein Spieler die ihm zur Verfügung stehende Bedenkzeit überschritten, gilt die Partie als für ihn verloren; Ausnahmen dazu werden unter Gebrauch der Schachuhren im Hauptartikel erläutert.
+Die Bedenkzeit beträgt im Turnierschach üblicherweise 120 Minuten für die ersten 40 Züge, beim Schnellschach dagegen zwischen 10 und 60 und bei Blitzschachturnieren meist nur fünf Minuten, jeweils für die gesamte Partie.
+Bei einer noch schnelleren Variante, dem Bullet, haben die Spieler jeweils nur drei Minuten oder weniger Bedenkzeit.
+
+Seit Mitte der 1990er Jahre werden auch elektronische Uhren verwendet, die neue Möglichkeiten bei der Bedenkzeitregelung bieten.
+Man kann beispielsweise eine Sockelbedenkzeit von 90 Minuten für 40 Züge und einen Zeitzuschlag pro Zug von 30 Sekunden einstellen.
+Dadurch soll es seltener vorkommen, dass Partien in ausgeglichener Stellung im Endspiel durch Zeitnot entschieden werden.
+
+=== Berührt - geführt
+
+Das Zurücknehmen bereits ausgeführter Züge ist nicht gestattet.
+Wenn ein Spieler eine eigene Figur absichtlich berührt, muss er einen Zug mit ihr ausführen (berührt - geführt), falls es eine regelgerechte Möglichkeit dazu gibt.
+Dies gilt auch, wenn eine gegnerische Figur absichtlich berührt wird - diese muss geschlagen werden, sofern dies auf legale Weise möglich ist.
+Berührt man eine Figur, mit der kein legaler Zug möglich ist, dann hat das keine Auswirkungen, man kann einen beliebigen regelkonformen Zug ausführen.
+Will ein Spieler die Figur lediglich zurechtrücken, muss er das vorher bekanntgeben.
+Dafür hat sich der französische Ausdruck j'adoube eingebürgert.
+
+=== Das Remis
+
+Grundsätzlich ist es den Spielern gestattet, jederzeit ein Remis (Unentschieden) zu vereinbaren.
+Bei einigen Turnieren gelten jedoch vom Veranstalter festgelegte Sonderregeln zur Vermeidung von kurzen Remispartien.
+Remis verlangen kann der am Zug befindliche Spieler, wenn zum mindestens dritten Mal dieselbe Stellung mit demselben Spieler am Zug und denselben Zugmöglichkeiten vorliegt, oder wenn mindestens 50 Züge lang weder eine Figur geschlagen noch ein Bauer gezogen wurde (50-Züge-Regel).
+
+=== Verbotene Hilfsmittel
+
+Es ist verboten, sich während einer Partie eigener Notizen oder der Ratschläge Dritter zu bedienen oder auf einem anderen Brett zu analysieren.
+Da es mittlerweile sehr starke Schachprogramme gibt, wird der Überwachung dieser Regel bei Schachturnieren besondere Bedeutung zugemessen.
+So ist es nicht erlaubt, sich ohne Genehmigung eines Schiedsrichters aus dem festgelegten Turnierareal zu entfernen.
+Nach den FIDE-Regeln vom 1. Juli 2005 führt auch das Läuten des Handys eines Spielers während der Partie zum sofortigen Partieverlust.
+Wenn jedoch der Gegner durch keine regelkonforme Zugfolge mehr mattsetzen könnte, wird die Partie remis gewertet.
+Ebenso ist für Spieler die Mitnahme aller - auch ausgeschalteter - technischer Geräte, die der Telekommunikation oder der Datenverarbeitung dienen können, in das Spielareal untersagt.
+Für Zuschauer ist lediglich der Gebrauch von Mobiltelefonen verboten.
+
+=== Der Schiedsrichter
+
+Bei größeren Turnieren sowie bei Mannschaftskämpfen in höheren Spielklassen überwacht ein Schiedsrichter die Einhaltung der FIDE-Schachregeln und der darüber hinaus geltenden Turnierordnung.
+Er kontrolliert die Einhaltung der Bedenkzeit und entscheidet bei Regelverstößen.
+Nur der Spieler, der am Zug ist, darf den Schiedsrichter anrufen.
+
+=== Etikette
+
+Vor Beginn und nach dem Ende einer Partie ist es üblich, dass sich die Gegner die Hand geben.
+Den Handschlag zu verweigern, wie es zum Beispiel Anatoli Karpow bei einer Partie der Schachweltmeisterschaft 1978 mit seinem Herausforderer Viktor Kortschnoi tat, gilt als Unsportlichkeit.
+Nach einer Entscheidung des Presidential Board der FIDE vom 26. Juni 2007 kann dies sogar mit Partieverlust geahndet werden.
+
+Während der Partie ist es verboten, den Gegner zu stören, egal auf welche Weise.
+Dazu zählen auch häufige Remisangebote.
+Es dürfen keine Handlungen vorgenommen werden, die dem Ansehen des Schachs schaden.
+Dauerhafte Missachtung der Schachregeln kann mit Partieverlust geahndet werden, wobei die Punktzahl des Gegners vom Schiedsrichter festgelegt wird.
+
+=== Ergebnisanzeige
+
+Bei Turnieren mit Zuschauern wird das Ergebnis eines Spiels durch die Position eines Königs in der Mitte des Brettes angezeigt.
+Alle anderen Figuren und Bauern werden wieder in die Startaufstellung gebracht.
+Damit elektronische Schachbretter dies als Ergebnisanzeige registrieren, werden folgende Aufstellungen verwendet, die aufgrund des Abstands der beiden Könige während der Partie nicht auftreten können:
+
+== Grundbegriffe der Strategie und Taktik
+
+=== Partiephasen
+
+Die ersten 10 bis 15 Züge einer Schachpartie werden als Eröffnung bezeichnet.
+Die strategischen Ziele während der Eröffnung sind die Mobilisierung der Figuren, die Sicherheit des Königs und die Beherrschung des Zentrums.
+Die Eröffnungen werden unterteilt in offene Spiele, halboffene Spiele und geschlossene Spiele.
+Ein Opfer (oftmals Bauernopfer) in der Eröffnung mit dem Ziel, dafür anderweitige Vorteile (z. B. Angriff oder Entwicklungsvorsprung) zu erreichen, nennt man Gambit (z. B. Schottisches Gambit, Damengambit, Königsgambit).
+
+Im Mittelspiel versuchen die Spieler mit den Mitteln der Strategie und Taktik, den Spielverlauf zu ihren Gunsten zu beeinflussen.
+Bereits bekannte strategische und taktische Motive erleichtern den Schachspielern die Partieführung.
+
+Sind nur noch wenige Figuren auf dem Schachbrett, so spricht man vom Endspiel.
+Strategisches Ziel im Endspiel ist es oft, die Umwandlung eines Bauern durchzusetzen.
+Hierbei hilft meist der eigene König als aktive Figur.
+Mit dem daraus resultierenden materiellen Übergewicht kann die Partie dann meist leicht zum Sieg geführt werden.
+
+=== Wert der Figuren
+
+Anhand der Tauschwerte der auf dem Brett vorhandenen Figuren kann eine grobe Stellungsbeurteilung erfolgen.
+Dabei ist der Wert der Figuren äußerst abhängig von der aktuellen Stellung auf dem Brett (Prinzip des relativen Tauschwertes).
+
+=== Opfer
+
+Als Opfer bezeichnet man das absichtliche Aufgeben von Material zu Gunsten anderweitiger strategischer oder taktischer Vorteile.
+Ein Opfer schon in der Eröffnung, meist ein Bauernopfer, wird Gambit genannt.
+Meist dient es einer schnelleren Entwicklung, Schwächung der gegnerischen Königsstellung oder Beherrschung des Zentrums.
+
+=== Fesselung
+
+Eine Fesselung liegt vor, wenn zwei Figuren hintereinander auf einer Wirkungslinie einer langschrittigen gegnerischen Figur (Dame, Turm oder Läufer) stehen und das Fortziehen der vorderen Figur regelwidrig wäre oder eine Wirkungsverlagerung auf die hintere Figur mit schwerwiegenden Folgen nach sich ziehen würde.
+Regelwidrig ist das Wegziehen der vorderen Figur dann, wenn die hintere Figur ein König ist, der ins Schach käme.
+In diesem Fall spricht man von einer echten oder absoluten Fesselung, ansonsten von einer unechten oder relativen Fesselung.
+
+Eine Fesselung ist auf zweifache Art nachteilig:
+Einerseits wird die Eigenwirkung der gefesselten Figur eingeschränkt, andererseits kann sie - da sie nicht weggezogen werden kann - selbst zum Angriffsziel werden und verloren gehen.
+
+=== Spieß
+
+Eng verwandt mit der Fesselung ist der Spieß:
+Eine Figur (z. B. König) wird von einer Linienfigur (Dame, Turm oder Läufer) angegriffen und zum Wegziehen gezwungen.
+Dadurch verlängert sich die Wirkungslinie des Angreifers und wirkt auf ein zweites Objekt.
+Dieses Objekt kann eine (ungedeckte) Figur sein oder ein Feld (z. B. Mattfeld).
+Im Gegensatz zur Fesselung wird bei einem Spieß die Situation sofort aufgehoben, da die wertvollere Figur wegzieht (eine Fesselung kann beliebig lange ohne direkte Verluste aufrechterhalten werden).
+
+=== Gabelangriff
+
+Eine Situation, in der eine Figur gleichzeitig zwei oder mehrere Figuren des Gegners angreift, bezeichnet man als Gabelangriff oder kurz Gabel.
+Ein Gabelangriff, insbesondere durch einen Bauern oder einen Springer, kann eine spielentscheidende taktische Wendung sein, wenn dadurch z. B. eine wertvollere Figur erobert wird.
+Bietet ein Springer Schach und bedroht gleichzeitig die Dame, so spricht man vom "Familienschach".
+
+=== Abzugsschach
+
+Wenn man eine Figur so ziehen kann, dass durch ihren Wegzug die Wirkungslinie einer dahinter stehenden eigenen Figur auf den gegnerischen König frei wird, so spricht man von einem Abzugsschach.
+Gibt die abziehende Figur ihrerseits Schach, so spricht man von einem Doppelschach.
+
+Abzugsschach und Doppelschach können entscheidende Wirkung haben, weil der Gegner auf das Schachgebot reagieren muss und die Folgen des Zuges der abziehenden Figur hinnehmen muss.
+Bei Doppelschach muss der König ziehen, da durch den Zug einer anderen Figur nicht beide schachbietenden Figuren geschlagen oder beide Schachgebote zugleich blockiert werden können.
+
+=== Mattwendungen
+
+Das kürzestmögliche Matt ist das zweizügige Narrenmatt (auch Idiotenmatt genannt), das nach der Zugfolge 1. f2-f3?
+e7-e5 2. g2-g4??
+Dd8-h4# zustande kommt.
+
+Anfänger fallen mitunter auf das Schäfermatt herein, bei dem die Dame, vom Läufer gedeckt, den Bauern auf f7 bzw. f2 schlägt und matt setzt.
+Eine weitere Eröffnungsfalle ist das Seekadettenmatt.
+Bei dieser Wendung opfert Weiß seine Dame, um ein Tempo für eine Mattkombination gegen den in der Mitte verbliebenen schwarzen König zu gewinnen.
+
+Eine im späten Mittelspiel recht häufige Mattwendung ist das Grundreihenmatt: Ein Turm oder eine Dame dringt auf die Grundreihe ein und setzt den hinter einer Bauernkette gefangenen König schachmatt.
+
+Ein König, dem von einem gegnerischen Springer Schach geboten wird, kann diesem Schachgebot nicht ausweichen, wenn er vollständig von eigenen Figuren eingeschlossen ist.
+Kann der angreifende Springer nicht geschlagen werden, so ist der König schachmatt.
+Man nennt diese Situation ersticktes Matt, weil der König gewissermaßen in seiner beengten Umgebung erstickt ist.
+
+Im Endspiel gibt es verschiedene elementare Mattführungen, je nach verbliebenem Material.
+
+=== Bauern und Bauernformationen
+
+Eine große Rolle im Schachspiel spielen Position und Beweglichkeit der Bauern.
+
+Ein Bauer, der die gegnerische Grundreihe erreichen kann, ohne dass ihm auf der eigenen Linie oder auf einer unmittelbar benachbarten Linie ein gegnerischer Bauer gegenübersteht, heißt Freibauer.
+Ein solcher Bauer kann nur noch durch gegnerische Figuren am Erreichen der gegnerischen Grundreihe und damit an der Umwandlung gehindert werden.
+Steht in einem Abschnitt des Brettes eine Formation von Bauern einer weniger zahlreichen Formation gegnerischer Bauern gegenüber, so spricht man von einer Bauernmehrheit (auch: Bauernmajorität oder nur Majorität).
+Der Besitz einer Bauernmehrheit ist häufig ein Vorteil, weil sich daraus ein Freibauer entwickeln kann.
+
+Zwei unmittelbar nebeneinander stehende Bauern einer Partei bezeichnet man als Bauernduo.
+Ein Bauernduo ist eine sehr wirksame Formation, weil es die vor ihm befindlichen vier Felder beherrscht.
+Ist das Bauernduo beweglich, das heißt nicht durch gegnerische Bauern gehemmt, dann kann es durch sein Vorrücken gegnerische Figuren auseinandertreiben und den Zusammenhalt der gegnerischen Stellung zerstören.
+
+Ein Bauer, der keine Bauern der eigenen Partei auf einer benachbarten Linie neben sich hat, heißt isolierter Bauer.
+Ein isolierter Bauer (Isolani) kann ein Nachteil sein, da er leicht von gegnerischen Figuren blockiert werden kann:
+Diese können sich auf dem Feld vor ihm niederlassen, ohne von einem Bauern vertrieben werden zu können.
+Außerdem kann der isolierte Bauer nur von wertvolleren Figuren und nicht von einem "Kollegen" gedeckt werden.
+
+Zwei Bauern einer Farbe, die auf einer Linie hintereinander stehen, nennt man Doppelbauer.
+Ein Doppelbauer ist normalerweise ein Nachteil, da die beiden Bauern sich gegenseitig die Deckung durch eigene Figuren erschweren und gleichzeitig die Blockade durch gegnerische Figuren erleichtern.
+Ein isolierter Doppelbauer wird auch als Doppel-Isolani, drei hintereinander stehende isolierte Bauern werden als Tripel-Isolani bezeichnet.
+
+Zwei oder mehr Bauern in einer diagonalen Anordnung nennt man Bauernkette.
+Hierbei deckt der nächsthintere jeweils den vorderen Bauern.
+Ein Paar Bauern entgegengesetzter Farbe, die einander direkt gegenüberstehen und sich gegenseitig blockieren, nennt man einen Widder.
+Ein Paar Bauern entgegengesetzter Farbe, die einander diagonal gegenüberstehen, sodass jeder den anderen schlagen kann, nennt man einen Hebel.
+Passend angesetzte Hebel sind ein wichtiges Mittel, um im Schach eine blockierte Stellung zu öffnen.
+
+== Schachpsychologie
+
+Das Schachspiel hat neben den spielerischen Aspekten auch spezielle psychologische Komponenten.
+Diese beschäftigen sich unter anderem mit den Auswirkungen psychologischer Muster auf die Spielstärke und auf die Wahrnehmung der Stellungen.
+Andere Untersuchungen beschäftigen sich mit Fragen, ob und inwieweit schachliche Beschäftigung Einflüsse auf die Lernfähigkeit aufweist.
+Selbst moralische Aspekte des Schachs wurden untersucht, zuerst von dem Naturphilosophen und späteren US-Gründervater Benjamin Franklin in seinem 1779 verfassten Werk The Morals of Chess.
+
+== Die moderne Schachwelt
+
+=== Verbände und Weltmeisterschaften
+
+Der internationale Dachverband der Schachspieler ist die FIDE (Federation Internationale des Echecs).
+Sie verantwortet die offiziellen Schachregeln, organisiert die Schachweltmeisterschaft, verleiht Titel und misst mit Hilfe von Elo-Zahlen die Spielstärke der international aktiven Schachspieler.
+Die FIDE ist ein vom Internationalen Olympischen Komitee anerkannter Verband.
+
+Den Titel Schachweltmeisterin verleiht die FIDE seit 1927, seit 1948 auch den Titel Schachweltmeister, wobei schon zuvor seit 1886 Weltmeisterschaften durchgeführt wurden.
+1993 führte der damals amtierende Weltmeister Garri Kasparow den anstehenden Wettkampf gegen seinen Herausforderer Nigel Short aus Protest gegen das niedrige Preisgeld nicht unter der Ägide der FIDE durch, sondern unter der eigens für diesen Zweck gegründeten Professional Chess Association (PCA).
+Die damit begonnene Spaltung der Schachwelt, weitergeführt durch die Gründung des kurzlebigen World Chess Council als Nachfolgeorganisation der PCA, wurde durch den Wiedervereinigungskampf 2006 zwischen dem klassischen Weltmeister Wladimir Kramnik und dem FIDE-Weltmeister Wesselin Topalow beendet, den Kramnik gewann.
+Bereits beim WM-Turnier 2007 in Mexiko-Stadt musste Kramnik jedoch die Weltmeisterkrone an Viswanathan Anand weiterreichen, der ungeschlagen und mit einem Punkt Vorsprung auf Kramnik gewann.
+
+Die FIDE vergibt nach klar definierten Anforderungen folgende Titel auf Lebenszeit: Meisterkandidat (CM), FIDE-Meister (FM), Internationaler Meister (IM) und Großmeister (GM).
+Es gibt eigene Titel für Frauen:
+Meisterkandidat der Frauen (WCM), FIDE-Meister der Frauen (WFM), Internationaler Meister der Frauen (WIM) und Großmeister der Frauen (WGM).
+Die Qualifikationskriterien für diese Titel sind gegenüber denen der allgemeinen Klasse reduziert.
+Nona Gaprindaschwili war die erste Frau, die den allgemeinen Großmeistertitel erhielt.
+Am 5. August 1895 fand in Hastings/Großbritannien das erste Frauenschachturnier der Welt statt, das Edith Thomas gewann.
+
+Die Spielstärke der Spieler wird nach dem von Arpad Elo in den 1960er Jahren entwickelten Wertungssystem, der sogenannten Elo-Zahl, ermittelt.
+Diese Wertungszahl beruht auf den Methoden der Statistik und der Wahrscheinlichkeitstheorie.
+In Deutschland existiert seit 1992 die DWZ (Deutsche Wertungszahl).
+Vorher maß man die Spielstärke in der Bundesrepublik Deutschland mit Hilfe der Ingo-Zahl (entwickelt 1947 von Anton Hößlinger aus Ingolstadt, daher der Name "Ingo"), in der DDR durch eine Einteilung der Spieler in Leistungsklassen und der NWZ.
+
+In vielen Ländern haben sich Ligen gebildet.
+Die höchste Spielklasse in Deutschland ist die Schachbundesliga, die einen eigenen gleichnamigen Interessenverband hervorgebracht hat und durch den Einsatz von internationalen Spitzenspielern als eine der stärksten Schachligen weltweit gilt.
+In Österreich ist ebenfalls eine eigene Schachbundesliga als höchste Spielklasse vertreten.
+Auf europäischer Ebene werden im European Club Cup die stärksten Mannschaften ermittelt.
+
+=== Schach als Sport
+
+Der Deutsche Schachbund (mit 17 Landesverbänden) war Mitglied im Deutschen Sportbund und ist Mitglied der Nachfolgeorganisation Deutscher Olympischer Sportbund, wodurch in Deutschland Schach als Sportart offiziell anerkannt ist.
+1977 sprach Willi Weyer als Präsident des Deutschen Sportbunds über die Schachgeschichte und gab an, dass der Sportgedanke erst in der Neuzeit zu finden ist, im Mittelalter aber Schach noch als Mittel der Bildung und Ritterspiel angesehen wurde.
+Schach sei zumindest im Turnierbetrieb "unbestreitbar als Sport anzusehen".
+Er gab an, "Schach nicht immer Sport gewesen, aber unter dieser Zielsetzung und den veränderten Gesetzen unserer Zeit zum Sport geworden." Schach und Sport hätten viele Gemeinsamkeiten, und auch die körperliche Belastung während eines Schachspiels sei durch Untersuchungen nachgewiesen.
+Weyer setzte sich in der Rede auch für die Anerkennung der Gemeinnützigkeit von Schachvereinen ein.
+1980 wurde Schach in Amateurvereinen als gemeinnützig anerkannt.
+
+Frank Holzke, selbst Großmeister, analysierte in seiner juristischen Dissertation aus dem Jahre 2001 ohne Schachbezug die Verwendung des Sportbegriffs im deutschen und europäischen Recht als Doppelbezeichnung sowohl für körperliche als auch wettkampfliche Tätigkeiten.
+Er kam zu dem Schluss, dass dieses Verständnis des Begriffs auch als juristischer Begriff angemessen sei.
+Auf einer Internetseite über deutsches Sportrecht stellen der Rechtswissenschaftler Peter W. Heermann und der Jurist Stephan Götze fest, dass der Gesetzgeber die Möglichkeit hat, auch solche Betätigungen wie Schach als Sportarten legal zu definieren, die nicht alle in der Rechtsprechung herangezogenen Eigenschaften des Sportbegriffs wie körperliche Tätigkeit, Spielhaftigkeit, Leistung, Organisation, Regeln und ethische Komponenten besitzen.
+Auch laut der Abgabenordnung gilt Schach als Sport, letztlich gibt es aber immer wieder Debatten darüber.
+
+Schach wird auch vom Internationalen Olympischen Komitee als Sportart anerkannt, ist aber nie eine olympische Disziplin gewesen.
+Zuletzt strebte die FIDE eine olympische Eingliederung in Paris 2024 an, welche von dem IOK jedoch abgelehnt wurde.
+
+Die Kombination der als besonders unterschiedlich angesehenen Sportarten Schach und Boxen, zunächst als Scherz oder Kunst-Performance gemeint, entwickelte sich ab 2003 zur regulären Sportart Schachboxen.
+
+=== Computerschach
+
+Seit es mechanische Rechenmaschinen gibt, hat man auch Schachcomputer gebaut.
+Bekannt ist zum Beispiel der schachspielende Türke, ein Schachautomat, in dem sich allerdings ein Mensch versteckte und agierte.
+Konrad Zuse lernte eigens Schach, um ein Schachprogramm schreiben zu können, da er dies als die richtige Herausforderung für seine Computer und den Plankalkül betrachtete.
+Mit der Entwicklung immer schnellerer Computer und ausgefeilter Software gibt es heute auf einem PC laufende Schachprogramme, die menschlichen Spielern weit überlegen sind.
+Inzwischen kann man Schach auch auf Mobiltelefon, PDA und sonstigen Handhelds spielen.
+Für die meisten Meisterspieler ist der Computer mittlerweile unverzichtbar bei der Eröffnungsvorbereitung und Analyse ihrer Partien.
+
+Die speziell entwickelte Schachmaschine Deep Blue von IBM schlug 1997 in einem Wettkampf über sechs Partien mit Turnierbedenkzeit sogar den damaligen Schachweltmeister Kasparow.
+Viele Großmeister versuchten in Partien gegen Computer ein spezielles "Anticomputerschach" anzuwenden, das auf langfristige Manöver, deren Zielsetzungen für den Computer im Rahmen seiner Rechentiefe nicht erkennbar waren, angelegt war.
+Es erwies sich aber, dass der Mensch gegen die stetig anwachsende Rechenkraft der Computer nicht bestehen konnte.
+Da das Schachspiel in der westlichen Welt eine tiefe kulturelle Bedeutung erlangt hat und das Beherrschen des Spiels mit Phantasie und Intelligenz assoziiert wird, hat der Siegeszug des Computers in dieser Sportart eine spürbare psychologische Wirkung.
+
+Offen bleibt, ob die Schachprogramme, deren Spielstärke ständig steigt, das Schachspiel in absehbarer Zeit uninteressant machen werden.
+Es wird argumentiert, dass selbst bei unbesiegbaren Computerprogrammen das Schachspiel interessant bliebe - schließlich würden sich Menschen auch noch im Sprint oder Marathonlauf messen, obwohl viele motorisierte Gefährte schneller sind.
+
+=== Schachmathematik
+
+Die Schachbrettgeometrie hat zu eigenen Untersuchungen geführt, die unter den Begriff der "Schachmathematik" fallen.
+Dabei wurde beispielsweise erforscht, wie viele Figuren auf einem Brett aufgestellt werden können, ohne sich gegenseitig anzugreifen.
+Andere Forschungen beschäftigten sich mit den Möglichkeiten bestimmter Figuren, alle Felder des Schachbretts zu besuchen, ohne dabei ein Feld mehrfach zu betreten.
+Beispiele hierfür sind das Damenproblem und Springerproblem.
+Auch andere Themen wie die Berechnungen der maximalen Anzahl der möglichen Stellungen und Spielverläufe fallen in dieses Gebiet.
+
+== Schachkomposition
+
+Schachkompositionen sind von einem oder mehreren Autoren erdachte Aufgaben, die eine zu erfüllende schachliche Forderung stellen.
+Schachaufgaben vor der breiten Verbreitung des Buchdrucks und Mansuben genannte Aufgaben für das frühere arabische Schachspiel sind gewöhnlich aus Manuskripten und Traktaten wie der Göttinger Handschrift überliefert, während ab Ende des 15. Jahrhunderts auch Bücher und ab Mitte des 19. Jahrhunderts auch Schachzeitschriften für die Veröffentlichung von Aufgaben dienten.
+Schachkomponisten haben einen eigenen Dachverband, die Ständige Kommission für Schachkomposition bei der FIDE.
+Es werden eigene Turniere veranstaltet, bei denen von Preisrichtern Aufgaben prämiert werden.
+Meistens werden dazu Preise, ehrende Erwähnungen und Lobe sowie entsprechende Spezialauszeichnungen vergeben.
+
+Schachkompositionen sind gemäß dem Kodex für Schachkomposition in verschiedene Gruppen eingeteilt, unter anderem:
+
+Analog der Titel für Nah- und Fernschachspieler werden auch bei der Schachkomposition für Komponisten und Löser getrennte Titel als FIDE-Meister, Internationale Meister und Großmeister vergeben.
+Bei Komponisten richten sich diese nach einem Punktesystem für Aufgaben, die an als Anthologien (Sammlungen ausgewählter Aufgaben) dienende FIDE-Alben gesandt und von drei Preisrichtern bewertet werden.
+Dabei kann jeder Preisrichter bis zu vier Punkte in Halbpunktschritten vergeben.
+Aufgaben mit insgesamt mindestens acht Punkten werden in die Alben aufgenommen und bringen dem Komponisten einen Punkt, bei Studien 1,66 Punkte, auf einer eigenen Punkteliste ein, wobei bei genügend Punkten Titel vergeben werden.
+Löser müssen für die Titel bei Lösewettbewerben eine eloartige Ratingzahl durch Teilnahmen an offiziellen Wettbewerben erreichen.
+Bei den jährlichen Versammlungen der Ständigen Kommission werden daraufhin gegebenenfalls die Titel verliehen.
+
+== Spezielle Schachformen
+
+In den offiziellen Regeln der FIDE werden - neben den allgemeinen Schachregeln, die auch für Gelegenheitsspieler gelten - drei Schachformen unterschieden, deren Regeln zum Zwecke der wettkampfmäßigen Ausübung verschärft sind.
+Diese unterscheiden sich vor allem durch die Länge der Bedenkzeit.
+Die übliche Schachform, wie sie seit der Einführung der Schachuhr praktiziert wird, wird in den Regeln Turnierschach genannt.
+In Anlehnung an die englische Originalbezeichnung standard chess wird auch von Standardschach gesprochen.
+Sie zeichnet sich durch eine Bedenkzeit von mehr als 60 Minuten pro Partie aus.
+In der Regel ist die Bedenkzeit jedoch erheblich länger.
+Beide Spieler müssen (anders als im Schnell- und Blitzschach) ihre Züge während der Partie protokollieren.
+Es gilt die Regel "berührt - geführt".
+Die Verwendung von Hilfsmitteln, insbesondere elektronischen Geräten und Tipps von Mitspielern oder Zuschauern, ist strengstens verboten.
+Ein Schiedsrichter überwacht die Einhaltung der Regeln und klärt eventuelle Streitfragen.
+Außerdem entscheidet er über Anträge der Spieler, beispielsweise auf Remis wegen dreimaliger Stellungswiederholung oder wegen der 50-Züge-Regel.
+Früher war es üblich, dass besonders lange Partien nach einer gewissen Spielzeit unterbrochen und vertagt wurden.
+Man sprach von einer Hängepartie.
+Heute findet dies kaum noch Anwendung.
+Obwohl sich die genauen Regularien des Standardschachs inzwischen mehrfach geändert haben, wird es in der Tradition des Wettkampfschachs gesehen und - in Abgrenzung zu jüngeren Schachformen und Schachvarianten - als klassisches Schach bezeichnet.
+Der Weltmeistertitel, der auf Wilhelm Steinitz zurückgeht und momentan (Stand: 2021) von Magnus Carlsen gehalten wird, wird im Standardschach ermittelt.
+Auch Großmeister- und andere Titel können nur in dieser Schachform erworben werden.
+
+Schachformen mit kürzerer Bedenkzeit heißen Schnellschach (10 bis 60 min Bedenkzeit) beziehungsweise Blitzschach (weniger als 10 Minuten Bedenkzeit).
+Inzwischen werden auch in diesen Schachformen, deren Popularität in den letzten Jahrzehnten deutlich zugenommen hat, Weltmeisterschaften ausgetragen und eigene, vom klassischen Schach unabhängige Elo-Zahlen ermittelt.
+Bullet-Schach mit einer Bedenkzeit von weniger als 3 Minuten wird von der FIDE (noch) nicht anerkannt.
+Im Gegensatz zu den anderen bisher genannten Schachformen kann es aus praktischen Gründen kaum auf einem Brett gespielt werden.
+Stattdessen spielen die Gegner jeweils an einem Computer, geben ihre Züge mit der Maus ein und tauschen sie über einen Schachserver aus.
+
+Darüber hinaus gibt es noch weitere Schachformen, die allesamt nicht von der FIDE anerkannt werden:
+
+== Schachvarianten
+
+Es gibt zahlreiche Varianten und Abarten des Schachspiels.
+Einige bekannte sind:
+
+== Kulturelle Bezüge
+
+=== Heraldik
+
+Motive aus dem Schachspiel finden in der Heraldik Verwendung.
+Gerne wurde besonders der Roch, wie im Mittelalter der Turm genannt wurde, als Wappenfigur gewählt.
+Von "geschacht" spricht man, wenn der Schild nach dem Prinzip eines Schachbrettmusters geteilt wird.
+Von den aktuellen Staatswappen zeigt das der Republik Kroatien ein Schachbrettmuster.
+In Deutschland führt etwa die Gemeinde Borstendorf/Erzgebirge ein heraldisches Schachbrett, ebenso wie das bekannte Schachdorf Ströbeck.
+Von den Adelsgeschlechtern führten z. B. die Grafen von Altena oder die Grafen von Sponheim ein Schachbrett im Wappen.
+Bei den Adelsgeschlechtern stand das Schachbrett als Symbol für Vornehmheit und Weisheit.
+
+=== Schach im Film
+
+Das Schachspiel wird gerne in Filmen eingesetzt - oft, um die Intelligenz, Weltfremdheit oder Machtposition der betreffenden Person zu unterstreichen, oder um einen Konflikt zwischen den jeweiligen Charakteren zu inszenieren.
+Ein seit der zweiten Hälfte des 20. Jahrhunderts beliebtes Thema ist es, die geistige Über- oder Unterlegenheit des Menschen gegenüber einem Computer zu demonstrieren.
+Ein Beispiel ist Stanley Kubricks Film 2001: Odyssee im Weltraum, in dem der Bordcomputer des Raumschiffs gegen ein Besatzungsmitglied gewinnt.
+Die Partie folgt dabei einer zwischen Menschen tatsächlich gespielten Schachpartie (Roesch - Schlage, Hamburg 1910).
+
+Manche Filme haben reale Schachspieler zum Thema, beispielsweise Bauernopfer - Spiel der Könige über das Leben von Bobby Fischer, zeigen fiktive Schachspieler als Hauptpersonen (etwa der Thriller Knight Moves - Ein mörderisches Spiel) oder haben Schach anderweitig als Hauptmotiv wie die Verfilmung der Schachnovelle von Stefan Zweig.
+Zu einem internationalen Erfolg wurde 2020 die Netflixserie Das Damengambit.
+Sie basiert auf dem Roman The Queen's Gambit von Walter Tevis aus dem Jahr 1983.
+
+In Thomas Crown ist nicht zu fassen dient eine Schachpartie als erotisches Vorspiel zwischen den Hauptpersonen, dargestellt von Steve McQueen und Faye Dunaway.
+Das existenzialistische Drama Das siebente Siegel des schwedischen Regisseurs Ingmar Bergman dreht sich um einen Ritter, der gegen den personifizierten Tod um sein Leben Schach spielt.
+In Harry Potter und der Stein der Weisen müssen Harry und seine Freunde Hermine und Ron als Figuren eines lebensgroßen, von Magie gesteuerten Schachbretts unter Lebensgefahr eine Partie gewinnen, um zum Stein der Weisen zu gelangen.
+Mehrere Episoden der Fernsehserie Raumschiff Enterprise von 1965 zeigen die Hauptfiguren Kirk und Spock bei einem dreidimensionalen Schachspiel, das die Weiterentwicklung der Gesellschaft in der fiktiven Zukunft demonstrieren soll.
+Weitere bekannte Filme mit dem Schachmotiv sind James Bond 007 - Liebesgrüße aus Moskau, 1984, Blade Runner und Independence Day.
+
+=== Schach in der Belletristik
+
+Literarische Werke, in denen Schach ein Hauptthema darstellt und sogar im Titel vorkommt, sind zum Beispiel die Schachnovelle von Stefan Zweig, Der Schachautomat von Robert Löhr, Die Schachspielerin von Bertina Henrichs sowie Zugzwang von Ronan Bennett.
+Schachspieler sind auch die Protagonisten in Lushins Verteidigung von Vladimir Nabokov und Die letzte Partie von Fabio Stassi, einer Romanbiografie des kubanischen Schachweltmeisters Jose Raul Capablanca.
+
+=== Schach in der bildenden Kunst
+
+Auch in der bildenden Kunst war das Schachspiel seit jeher ein beliebtes Thema.
+Unter den Surrealisten befanden sich z. B. mit Joan Miro, Marcel Duchamp oder Max Ernst begeisterte Spieler, die in ihren Werken Schachmotive verwendet haben.
+Mit dem Thema hervorgetreten sind auch die Bildhauerin Germaine Richier und Alfred Hrdlicka, der ebenfalls ein starker Spieler war.
+Unter den zeitgenössischen Künstlern beschäftigt sich Elke Rehder besonders mit diesem Sujet.
+
+Zahlreiche Karikaturen fassen Schach als Sinnbild oder als Hauptobjekt auf.
+So existieren sowohl Werke, in denen andere Themen über das Schachspiel charakterisiert werden, als auch Karikaturen über bekannte Schachspieler.
+
+Der Maler A. Paul Weber startete bereits 1937 seine Bildserie Die Schachspieler, die ihn bis zu seinem Tod über 40 Jahre lang beschäftigt hat.
+
+Als Beispiel dafür, dass ein Schachspiel selbst ein Kunstobjekt darstellen kann, gilt das Bauhaus-Schachspiel, das vom am Bauhaus tätigen Bildhauer Josef Hartwig entworfen wurde.
+Die Figuren sind aus stereometrischen Grundformen wie Würfel, Quader und Kugel zusammengesetzt, wobei die Art der Komposition mit den Zugmöglichkeiten der jeweiligen Figur korrespondiert.
+
+=== Schach in der Musik
+
+Unter dem Titel Tafel-Lieder für die im Jahr 1827 gestiftete Schach-Gesellschaft wurde eine Sammlung mit Liedversen veröffentlicht, die auf bereits bestehende Melodien gesungen werden können.
+
+Das Musical Chess (englisch für Schach) aus dem Jahr 1984 thematisiert die Rivalität zweier Schachspieler, für die unter anderem Bobby Fischer und Viktor Kortschnoi Inspirationen lieferten.
+
+== Literatur
+
+=== Allgemeine Schachliteratur
+
+=== Lehrbücher
+
+=== Lexika
+
+== Weblinks
+
+=== Schachregeln
+
+=== Schachverbände
+
+== Einzelnachweise
+

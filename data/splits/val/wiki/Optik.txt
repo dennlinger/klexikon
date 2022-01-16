@@ -1,0 +1,103 @@
+Die Optik (von altgriechisch o optikos ,zum Sehen gehörend'), auch Lehre vom Licht genannt, ist ein Gebiet der Physik und beschäftigt sich mit der Ausbreitung von Licht sowie dessen Wechselwirkung mit Materie, insbesondere im Zusammenhang mit optischen Abbildungen.
+
+Unter Licht wird in der Regel der sichtbare Teil des elektromagnetischen Spektrums im Bereich 380 nm und 780 nm (790 THz bis 385 THz) verstanden.
+In der Physik wird der Begriff Licht mitunter auch auf unsichtbare Bereiche von elektromagnetischer Strahlung ausgeweitet und umfasst im allgemeinen Sprachgebrauch dann auch das Infrarotlicht oder das ultraviolette Licht.
+Viele Gesetzmäßigkeiten und Methoden der klassischen Optik gelten allerdings auch außerhalb des Bereichs sichtbaren Lichts.
+Dies erlaubt eine Übertragung der Erkenntnisse der Optik auf andere Spektralbereiche, zum Beispiel die Röntgenstrahlung (siehe Röntgenoptik) sowie Mikro- und Funkwellen.
+
+Auch Strahlen geladener Teilchen bewegen sich in elektrischen oder magnetischen Feldern oft nach den Gesetzen der Optik (siehe Elektronenoptik).
+
+== Teilbereiche der Optik
+
+Es werden zwei klassische Zugänge zur Lichtausbreitung unterschieden:
+Die Wellenoptik und die geometrische Optik.
+Grundlage der Wellenoptik ist die Wellennatur des Lichts.
+Die Gesetzmäßigkeiten der geometrischen Optik gelten für den Fall, dass die Abmessungen des optischen Systems sehr groß sind gegenüber der Wellenlänge des Lichts.
+Bei geringen Abmessungen der Komponenten gegenüber der Wellenlänge spricht man von der Mikrooptik.
+
+Eine wichtige Teildisziplin der Optik ist die Quantenoptik, die sich mit den Wechselwirkungen von Licht und Materie beschäftigt.
+Dabei spielt besonders der gequantelte Charakter des Lichts eine bedeutende Rolle.
+
+Daneben sind die nichtlineare Optik (bei der das Licht im Gegensatz zur linearen Optik das umgebende Medium beeinflusst und dadurch zusätzliche Effekte bewirkt) und die Fourieroptik von theoretischem und technischem Interesse.
+Ein interdisziplinärer Teilbereich ist die atmosphärische Optik, in der Leuchterscheinungen in der Erdatmosphäre untersucht werden.
+
+=== Geometrische Optik
+
+In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert.
+Der Weg des Lichtes, etwa durch ein optisches Instrument, wird durch Verfolgen des Strahlenverlaufs konstruiert.
+Das snelliussche Brechungsgesetz beschreibt die Brechung des Lichtes an Grenzflächen zwischen transparenten Medien mit verschiedenem Brechungsindex (an Oberflächen von Linsen oder Prismen).
+Bei Reflexion an Spiegeln und bei der Totalreflexion gilt die Regel, dass der Einfallswinkel dem Reflexionswinkel gleich ist.
+Mittels dieser Methode lassen sich Abbildungen, beispielsweise durch Linsen oder Linsensysteme (Mikroskop, Teleskop, Objektiv) und die dabei auftretenden Abbildungsfehler behandeln.
+Eine wichtige Näherung ist die paraxiale Optik, welche aus einer Linearisierung des Snelliusschen Brechungsgesetzes abgeleitet werden kann, und wichtige Begriffe wie Brennweite und Abbildungsmaßstab definiert.
+
+=== Wellenoptik
+
+Als Wellenoptik wird der Bereich der Optik bezeichnet, der von der Wellennatur des Lichts handelt.
+Sie erklärt Phänomene, die durch die geometrische Optik nicht erklärt werden können, da bei ihnen die Welleneigenschaft des Lichtes relevant sind.
+Beispielsweise ist in der geometrischen Optik im Prinzip eine ideale Abbildung möglich, wohingegen die Wellenoptik zeigt, dass durch Beugungseffekte der Auflösung eine prinzipielle Grenze gesetzt ist; dies ist unter anderem bei fotolithografischen Prozessschritten bei der Herstellung moderner integrierter Schaltungen zu beachten.
+Wichtige Elemente der Wellenoptik sind:
+
+Die Wellenoptik kann auch Effekte beschreiben, die von der Wellenlänge des Lichts abhängen; man spricht dabei allgemein von Dispersion.
+(Beispiel: "Warum ist der Himmel blau?") Je nach oben genanntem Mechanismus müssen sehr verschiedene Modelle zur Beschreibung genutzt werden, die zu sehr unterschiedlichen Wellenlängenabhängigkeiten führen.
+
+Auf der Wellenoptik bauen die Kristalloptik und die Magnetooptik auf.
+
+=== Oberflächenphänomene
+
+Die Wechselwirkung von Licht mit wirklichen (d. h. nicht idealisierten) Oberflächen ist für die visuelle Wahrnehmung des Menschen bedeutsam, ist aber bislang nur unvollständig verstanden.
+Bedeutsam ist die Remission, also die Absorption eines Teil des Lichts sowie die Reflexion, Transmission beziehungsweise Streuung des restlichen Spektralanteils.
+Reflexion und Transmission lassen sich durch die Brechung des Lichts an den Grenzflächen beschreiben.
+Wiederum ist eine Wellenlängenabhängigkeit der meisten Mechanismen zu beachten, also deren Dispersion.
+
+Manche Oberflächen, wie etwa die menschliche Haut, sind in den obersten Hautschichten teilweise transparent, so dass optisch keine reflektierende Fläche, sondern eine reflektierende Schicht vorliegt.
+Eine abstrakte Beschreibung der optischen Vorgänge an derartigen Oberflächen ist kompliziert, und einer der Gründe, dass computergenerierte Bilder künstlich wirken können.
+
+== Das menschliche Auge
+
+Das Auge ist das optische Sinnesorgan des Menschen, es wertet den Reiz von Licht unterschiedlicher Wellenlänge an den Photorezeptoren zu Aktionspotentialfolgen der Ganglienzellen der Netzhaut aus.
+Die physiologische Optik befasst sich mit der Optik und dem Aufbau des Auges.
+In der Medizin spricht man bei der das Auge betreffenden Medizin von der Augenoptik oder Optometrie als der Messung der Sehweite.
+Der Vorgang des Sehens lässt sich mithilfe der Optik nur teilweise erklären.
+Das Gehirn spielt dabei eine große Rolle, denn es verarbeitet Informationen erst zu dem, was wir als Sehen bezeichnen.
+Dieser Teil fällt aber der Biologie zu.
+Alle durchsichtigen Teile des Auges wirken zusammen wie eine einzige Sammellinse und entwerfen ein stark verkleinertes, verkehrtes, wirkliches Bild.
+
+== Geschichte der Sehhilfen
+
+Mit der Entstehungsgeschichte von Sehhilfen sind die auf Gotland gefundenen Visby-Linsen aus dem 11. Jahrhundert verbunden.
+Einige dieser Linsen können sich in der Abbildungsqualität mit heutigen Linsen messen.
+Die Herkunft der Visby-Linsen ist trotz genauer Analyse unklar, die Verarbeitung von Bergkristall war aber bereits im 11. Jahrhundert weit verbreitet.
+
+Der arabische Gelehrte Ibn Al-Haitham (996-1038) schrieb über das Sehen, die Refraktion (Augenoptik) und die Reflexion in seinem Buch "Schatz der Optik".
+Um 1240 wurde das Buch ins Lateinische übersetzt.
+Genial war seine Überlegung, das Auge mit geschliffenen Linsen zu unterstützen.
+Europäische Mönche griffen diesen Gedanken auf und fertigten später als im Orient halbkugelige Plankonvexlinsen für Sehhilfen (Lesesteine).
+
+== Technische Optik
+
+Das Design, die Auslegung und die Fertigung optischer Systeme wird als technische Optik bezeichnet und zählt im Unterschied zur physikalischen Optik zu den Ingenieurwissenschaften, da hier die konkrete Konstruktion und Herstellung optischer Geräte sowie die Konzeption spezifischer Strahlengänge im Vordergrund stehen.
+Bedeutende Vertreter dieser Fachrichtung waren unter anderen Johannes Kepler, Eustachio Divini (1610-1685), Joseph von Fraunhofer und Ernst Abbe.
+
+Sie stellt eine inhaltliche Verknüpfung der Teilgebiete Optische Messtechnik, Lasertechnik und theoretische Optik (einschließlich Mikrooptik, Lichttechnik oder Faseroptik) dar.
+Anwendung findet die technische Optik unter anderem in der Projektionstechnik, Holografie und Fotografie sowie in der Spektroskopie.
+
+Im Folgenden sind die wichtigsten Bauelemente, Komponenten und Geräte aufgelistet.
+
+Optische Bauelemente
+
+Optische Komponenten
+
+Optische Geräte
+
+== Bekannte Optiker
+
+Bekannte Optiker waren Ernst Abbe, Alhazen, Laurent Cassegrain, John Dollond, Peter Dollond, Benjamin Franklin, Joseph von Fraunhofer, Hans-Joachim Haase, Hans Lipperhey, Zacharias Janssen, Christiaan Huygens, Johannes Kepler, Antoni van Leeuwenhoek, Johann Nathanael Lieberkühn, Dmitri Dmitrijewitsch Maksutow, Isaac Newton, Josef Maximilian Petzval, Hermann Pistor, Carl Pulfrich, Christoph Scheiner, Bernhard Schmidt, Ludwig Seidel und August Sonnefeld.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

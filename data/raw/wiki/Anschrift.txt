@@ -1,0 +1,93 @@
+Die Postanschrift (in der Schweiz Postadresse) bezeichnet das Ziel in Adressform, an das eine Postsendung gerichtet ist.
+Dabei kann es sich entweder um ein Postfach oder um eine Adresse mit einem Briefkasten handeln.
+
+== Struktur
+
+Eine Postanschrift muss als Minimum den Namen des Empfängers, der eine Person oder eine Personengruppe (zum Beispiel Unternehmen, Vereine und Ähnliches) sein kann, und eine genaue örtliche Bezeichnung enthalten.
+Die örtliche Bezeichnung muss dabei in jedem Fall den Ort und die entsprechende Postleitzahl enthalten.
+Gegebenenfalls muss sie um eine Straßenangabe mit Hausnummer oder eine Postfachnummer erweitert werden.
+Für Sendungen ins Ausland muss die gültige Bezeichnung des Staates angegeben werden.
+
+Mit der Einführung von automatischen Briefsortiermaschinen sind die Anforderungen an die Genauigkeit der Postanschrift sehr gestiegen.
+International sind die Postadressen nach Standards der ISO (EN 14142 und ISO 19160-4) sowie des Weltpostverein (Standard S42) definiert, in Deutschland wurden sie in die DIN 5008 aufgenommen.
+Diese Norm schreibt die Anbringung der Anschrift in einer bestimmten Zone des Kuverts sowie die Adressierung in Maschinenschrift vor.
+Die Einhaltung dieser Norm ist für Großkunden der Deutschen Post eine der Voraussetzungen, um einen Nachlass auf das Porto zu erhalten.
+So ist außer der Reihenfolge der Angaben in der Anschrift auch die Position auf dem Versandumschlag festgelegt.
+
+Oberhalb der Empfängeradresse kann bei Bedarf ein postalischer Vermerk mit Rücksendeangaben hinzugefügt werden, z. B. "Büchersendung", "Einschreiben" oder "Wenn unzustellbar, bitte mit neuer Anschrift zurück".
+
+Im deutschen Sprachraum war es früher üblich, Anrede und akademischen Grad bzw. Berufstitel in der Postanschrift anzugeben.
+Dies ist heutzutage vor allem bei privaten Briefen noch üblich.
+Beispiel:
+
+Herrn Dr. Hans Mustermann Neubaustraße 1 12345 Musterstadt
+
+Im Zuge der maschinellen Verarbeitung wird zunehmend darauf verzichtet.
+Das Voranstellen des akademischen Grades "Dr." ist in Deutschland üblich.
+Auch Abkürzungen sind bei Geschäftsbriefen verbreitet:
+
+Dr. H. Mustermann Neubaustr.
+1 12345 Musterstadt
+
+Beispiel mit postalischem Vermerk:
+
+Einschreiben
+
+Dr. H. Mustermann Neubaustr.
+1 12345 Musterstadt
+
+== Sonstiges
+
+Seit 2004 werden internationale ISO-Standards für die Struktur der Postanschrift entwickelt.
+
+Nicht zustellbare Sendungen werden mit einem Stempel oder Aufkleber versehen, auf dem der Grund für die Nichtzustellbarkeit angegeben wird.
+Hierfür wurde z. B. das System AFNUS entwickelt.
+
+== Historische Schreibweise vor 1977
+
+=== Deutschland
+
+Im Herbst 1977 wurde in Deutschland (West) die bisherige Schreibweise geändert.
+Bis dahin war es Deutschland und Österreich - lange auch in den meisten Nachfolgestaaten der K. u. K. Monarchie - üblich den Straßennamen unter den Ortsnamen zu schreiben.
+Auch wurde der Ortsnamen in aller Regel - oft doppelt - unterstrichen und mit der Schreibmaschine auch gerne gesperrt geschrieben.
+(Die alten Postleitzahlen von 1941 und vor 1962 wurden gerne mit einem Kreis um die Zahl herum markiert.) Die Postleitzahl wurde vor den Ortsnamen gesetzt, somit ergab sich keine gerade, senkrechte Linie wie heute üblich Die alten Zusätze, etwa Neustadt / Donau waren zwar nicht mehr verpflichtend, jedoch noch oft üblich.
+
+(An) Herrn
+
+Dr. Hans Mustermann
+
+8019 Ebersberg / Obb.
+
+Holzweg 4
+
+Als Grund für diese - nicht sofort von allen akzeptierte - Änderung nannte man die zunehmende Verwendung von Computer in der Briefsortieranlagen.
+(Alte Bestände an Postkarten usw. durften jedoch aufgebraucht werden.) Mit der damaligen Technik war es einfacher die Postleitzahl am unteren Rand des Briefkouverts sicher zu erkennen.
+Die DDR folgte mit einiger Verspätung der Regelung der BRD.
+Auch Österreich änderte bald die Schreibweise.
+Als wohl einziges Land blieb Ungarn bis heute dieser alten Regel treu.
+In der DDR gab es auf Postkarten ein eigenes Feld unterhalb der Straße in das die Postleitzahl in Kästchen eingetragen wurde.
+Grund war auch hier die Verwendung von Computern in den Postverteilzentren.
+
+=== Schweiz
+
+In der Schweiz ist es seit jeher üblich, den Ortsnamen zuunterst zu schreiben.
+Bei handschriftlichen Briefen sollte der Ortsname unterstrichen werden.
+
+In der französischen Schweiz wird die Hausnummer nicht wie in Frankreich voran gestellt und mit einem Komma abgetrennt.
+Beispiel: Rue Bale 34 und nicht 34, Rue Bale wie in Frankreich üblich.
+
+Vor Einführung der Postleitzahlen sollte stets der Kanton zuunterst hinzugefügt werden.
+
+=== Sonstiges
+
+In den Bänden des Duden wurde in den 1960er Jahren die Schreibweise für alle deutschsprachigen Länder aufgeführt.
+
+Die alte Regel ist optisch eindeutig, aber für die moderne Datenverarbeitung nicht so geeignet.
+Man findet diese aber noch in Adressverzeichnissen, wie etwa dem Tonkünstlerkalender.
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

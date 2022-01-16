@@ -1,0 +1,156 @@
+Das Wort Technik stammt von griechisch vo technikos und leitet sich ab von v techne, zu Deutsch etwa Kunst, Handwerk, Kunstfertigkeit.
+"Technik" kann bedeuten:
+
+Es gibt Versuche, diese verschiedenen Bedeutungen auf einen gemeinsamen Grundbegriff zurückzuführen.
+Doch scheinen die Technikbegriffe zu unterschiedlich, als dass man sie ohne Weiteres vereinheitlichen könnte.
+Im Folgenden werden weitläufige Wortverwendungen vor allem nach (2), (3) und (4) beiseitegelassen.
+"Technik" wird als wohlbestimmter Ausdruck der Technikforschung und -lehre betrachtet, der die Bedeutung (1) als notwendiges, wenn auch nicht hinreichendes Bestimmungsmerkmal enthält.
+
+== Definition
+
+Im Sinne der VDI-Richtlinie 3780 umfasst Technik:
+
+Diese Begriffsbestimmung enthält keine Spekulationen über das "Wesen der Technik", sondern beschreibt lediglich, welche Erscheinungen unter dem Namen "Technik" zusammenzufassen sind.
+"Technik" bezeichnet also zunächst die von Menschen gemachten Gegenstände, aber auch die Entstehung und Verwendung der technischen Sachen und das dafür erforderliche Können und Wissen.
+Technik ist in diesem Verständnis kein isolierter, selbständiger Bereich, sondern als geplante Vorgehensweise und sachmittelgerechte Ausstattung zur Aufgabenerledigung auf das Engste mit menschlicher Arbeit, Wirtschaft, Gesellschaft, Politik und Kultur verflochten.
+
+Fließende Übergänge gibt es erstens zu Gegenständen der bildenden Kunst (Architektur, Kunsthandwerk, Industriedesign) und zweitens zu natürlichen Erscheinungen und Lebewesen, soweit diese durch menschlichen Eingriff mehr oder weniger stark verändert werden (Kulturlandschaften, Gärten, Zuchtpflanzen und Zuchttiere, heute zunehmend auch gentechnische Hervorbringungen, die teils schon den Charakter von Artefakten annehmen).
+Die gelegentlich als neuartige, "abstrakte" oder "transklassische" Technik aufgefasste Programmierung elektronischer Datenverarbeitungsgeräte lässt sich der Teilmenge (3) der modernen Technikdefinition zuordnen, da sie eine besondere Fertigkeit für die Verwendung der Computer darstellt.
+Oft wird heute gleichbedeutend mit "Technik" der Ausdruck "Technologie" verwendet (z. B. Raumfahrttechnologie).
+Aus fachgeschichtlichen und sprachlogischen Gründen meinen manche Technikforscher, dieser Ausdruck sollte der Wissenschaft von der Technik vorbehalten bleiben (Allgemeine Technologie).
+
+== Technische Sachsysteme
+
+In den Technikwissenschaften - dieser Ausdruck löst allmählich den Namen "Ingenieurwissenschaften" ab - ist neuerdings mit der Modellvorstellung des technischen (Sach-)Systems ein allgemeiner Begriff für beliebige technische Hervorbringungen entstanden, der an die Stelle der uneinheitlich gebrauchten und schlecht abgrenzbaren Ausdrücke "Maschine", "Gerät", "Apparat" u. ä. tritt.
+Ein technisches System "ist durch die Funktion gekennzeichnet, Stoff (Masse), Energie und/oder Information zu wandeln, zu transportieren und/oder zu speichern.
+Es ist stofflich-konkret und besteht aus Werkstoffen mit definierten Eigenschaften, die aus Systemen der (physikalischen, chemischen, biologischen) Verfahrenstechnik hervorgehen.
+Es ist ein räumliches Gebilde mit geometrisch definierter Gestalt und setzt sich aus Bauteilen" mit geometrisch definierter Gestalt "zusammen.
+Die Gestaltgebung erfolgt in Systemen der Fertigungstechnik".
+Gegenständlich verwirklicht wird alle Sachtechnik also in den technischen Systemen der Stoffwandlung.
+Immer häufiger gründen neue Technologien auf kreativen Kombinationen von bereits bekannten ("combinatorial evolution"), wobei die je verfolgten Zwecke in unterschiedlichen Sets von Komponenten ausgedrückt werden können.
+
+Die Funktionen der technischen Systeme und die Teilfunktionen ihrer Subsysteme werden durch naturale Wirkungszusammenhänge realisiert, die (bekannten oder noch nicht bekannten) Naturgesetzen unterliegen.
+W. Brian Arthur definiert als Quintessenz von Technik die Fähigkeit des "capturing phenomena", d. h. die Kapselung von zuverlässig beherrschten kausalen Wirkungsmechanismen.
+Noch pointierter drückt es Luhmann aus:
+Technik sei "funktionierende Simplifikation im Medium der Kausalität"
+
+Dieser Umstand hat zu der Vorstellung verleitet, Technik wäre gleichbedeutend mit angewandter Naturwissenschaft.
+Damit aber wird die Bedeutung naturwissenschaftlichen Wissens für die Technik, vor allem hinsichtlich früherer Entwicklungsstadien, stark überschätzt.
+Auch bei zunehmender Verwissenschaftlichung der modernen Technik unterscheiden sich die Wissensformen der Technikwissenschaften und der technischen Praxis von den Naturwissenschaften derart, dass nicht ohne Weiteres von einer einfachen Anwendung die Rede sein kann.
+Umgekehrt ist naturwissenschaftliche Forschung häufig auch angewandte Technik, insoweit sie ihre Gegenstände nur mit erheblichem apparativem Aufwand darstellen und untersuchen kann.
+Naturwissenschaft und Technik sind verschiedenartige, relativ selbständige Bereiche, die einander nur teilweise überschneiden.
+
+Technische Systeme gehen bei aller Künstlichkeit moderner Werkstoffe letztlich auf Naturstoffe zurück, sie setzen bei ihrer Verwendung Stoff und Energie um, und am Ende ihrer Lebensdauer werden sie selbst zu Abfall.
+So bringen sie grundsätzlich Eingriffe in das natürliche Ökosystem mit sich, die allerdings in der Vergangenheit häufig zu wenig beachtet wurden.
+Erst mit dem gewaltigen Anstieg der Umweltbelastungen verbreitet sich in den Ingenieurwissenschaften und in der technischen Praxis die Einsicht, dass auch die naturwissenschaftlichen Erkenntnisse der Ökologie bei technischen Systemen zu berücksichtigen sind, damit der Verbrauch an natürlichen Ressourcen und die schädlichen Emissionen und Deponate zugunsten des Umweltschutzes begrenzt werden.
+
+== Einteilung
+
+Herkömmlicherweise wird die Technik nach ingenieurwissenschaftlichen Fachgebieten oder nach Industriebranchen eingeteilt (Bergbau- und Hüttentechnik, Bautechnik, Maschinenbau, Fahrzeugtechnik, Feinwerktechnik, Chemietechnik, Elektrotechnik usw.).
+Die jeweilige Eigenart der eingesetzten und hervorgebrachten Technik lässt sich damit aber nur sehr unzureichend kennzeichnen; z. B. werden im Maschinenbau energietechnische, produktionstechnische sowie förder- und verkehrstechnische Systeme hergestellt.
+
+Die Beschreibungsmerkmale des technischen Systems erlauben nun eine stimmige Klassifikation nach der Art der Funktion (Wandlung, Transport, Speicherung etc.) und nach der Kategorie der Objekte (Stoff bzw. Material, Energie, Information etc.).
+Verbindet man diese beiden Einteilungen, ergeben sich neun Technikfelder:
+
+Das Schema dieser Einteilung ist weithin anerkannt.
+Die Terminologie in den Technikwissenschaften ist aber nach wie vor sehr uneinheitlich, und so variieren die Bezeichnungen.
+Manchmal verwendet man die herkömmlichen Ausdrücke, die teilweise zur Erläuterung in Klammern angegeben wurden.
+Oft werden die Teilbereiche (4) bis (6) ungegliedert als "Energietechnik", die Teilbereiche (7) bis (9) zusammenfassend als "Informationstechnik" bezeichnet.
+Die neun Technikfelder sind ihrerseits noch weiter zu untergliedern.
+So kann man die Energiewandlungstechnik nach der Art der Energie-Inputs und -Outputs einteilen.
+Oder man klassifiziert die Informationsspeichertechnik nach dem physikalischen Prinzip des Speichermediums (Buch, Schallplatte, Film, Magnetband, Magnettonplatte, Speicherchip u. a.).
+
+== Technikverwendung
+
+Dass Technik nicht in angewandter Naturwissenschaft aufgeht, wird vollends klar, wenn man ihre Verwendungszusammenhänge in den Blick nimmt.
+Technische Systeme verwirklichen ihre Funktionen grundsätzlich nur im Rahmen gesellschaftlich geprägter Arbeits- und Handlungssysteme, technische Systeme sind immer Teile soziotechnischer Systeme, und sie verkörpern menschliche Zwecksetzungen, Handlungsmuster und Arbeitsprozesse.
+Entweder ersetzen sie menschliche Handlungs- und Arbeitsfunktionen (Substitution), z. B. der Buchdruck, der die manuelle Vervielfältigung von Schriften erübrigt, oder sie fügen den menschlichen Handlungssystemen neue, nur technisch darstellbare Teilfunktionen hinzu, die Menschen mit ihrer organischen Ausstattung gar nicht leisten könnten (Komplementation), z. B. das Flugzeug, das dem flügellosen Menschen das Fliegen ermöglicht.
+
+Neben die gesellschaftliche Arbeitsteilung (sozioökonomische Produktionsteilung, Berufsdifferenzierung, betriebliche Arbeitszerlegung) tritt im Zuge der Technisierung die soziotechnische Arbeitsteilung, die Aufteilung von Handlungs- und Arbeitsfunktionen zwischen Menschen und technischen Systemen.
+Im Verlauf der Technikgeschichte wurden immer mehr Handlungs- und Arbeitsfunktionen mit technischen Systemen realisiert.
+Ein deutliches Muster zeigt sich besonders bei der Substitution:
+Erst ersetzen Werkzeuge die reine Handarbeit, dann ersetzen Antriebssysteme die Muskelkraft, später ersetzen Steuerungssysteme die menschliche Koordination von Sinneswahrnehmung und Arbeitsbewegung, und inzwischen ersetzen Computer auch einfache geistige Leistungen.
+In manchen Produktions- und Verwaltungsabläufen hat die soziotechnische Arbeitsteilung das Stadium der Automatisierung erreicht, wobei Menschen weder ständig noch in einem erzwungenen Rhythmus für die Arbeitsabläufe tätig werden müssen.
+Ob freilich die "menschenleere Fabrik" möglich und sinnvoll sein wird, ist keineswegs unumstritten, und auch in der Informationsverarbeitungstechnik ist die Frage offen, bis zu welchem Grade die "künstliche Intelligenz" der Computer die Menschen wirklich ersetzen kann.
+
+Wie jede Arbeitsteilung ist auch die soziotechnische Arbeitsteilung auf ergänzende Arbeitsverbindung angewiesen.
+Menschliche und technische Komponenten im soziotechnischen System werden aufeinander abgestimmt und beeinflussen einander wechselseitig.
+Die Verwendung von technischen Systemen ist an bestimmte Bedingungen geknüpft (z. B. Bedienbarkeit und Bedienungskompetenz, Beherrschbarkeit und Zuverlässigkeit, Ver- und Entsorgungssysteme usw.) und hat bestimmte Folgen (z. B. Veränderung der Bedürfnisse und der psycho-physischen Funktionen des Menschen, Prägung von Handlungsmustern und Sozialbeziehungen usw.).
+
+Ursprünglich haben Arbeitswissenschaft und Industriesoziologie solche Wechselbeziehungen zwischen Mensch und Technik lediglich für die Industriearbeit untersucht.
+In den letzten Jahrzehnten ist aber die Technisierung verstärkt auch in die alltägliche Lebensführung und in die privaten Haushalte eingedrungen (Pkw, Haustechnik, Telefon, Rundfunk und Fernsehen, Foto-, Video- und Computertechnik), sodass die psychosozialen Folgen der Technikverwendung beträchtliche Dimensionen annehmen, die bislang nur unzulänglich erforscht wurden.
+
+Bekannt sind einige allgemeine Entwicklungstendenzen der Gesellschaft, die mit dem Technikeinsatz zusammenhängen.
+Dazu gehören die anfängliche Zentralisierung und Bevölkerungskonzentration in den Stadt- und Industrierevieren, aber auch die inzwischen durch Verkehrs- und Kommunikationstechnik möglich gewordene neuerliche Dezentralisierung.
+In der Beschäftigungsstruktur hatte sich der Schwerpunkt zunächst von der Landwirtschaft auf den industriellen Sektor verlagert und verschiebt sich heute zunehmend auf den Dienstleistungssektor.
+Traditionelle Berufe haben an Bedeutung verloren, und zahlreiche neue Berufe sind entstanden.
+Darauf reagiert zunächst die Berufsausbildung, allmählich aber auch das allgemeine Bildungssystem.
+Der nicht zuletzt aufgrund der Technisierung gewachsene Anteil an freier Zeit wird häufig der Technikverwendung, vor allem technischen Hobbyaktivitäten, dem Auto und dem Fernsehkonsum gewidmet.
+
+== Technikentstehung
+
+Bei der Entstehung neuer technischer Systeme unterscheidet man verschiedene Phasen:
+
+Von der naturwissenschaftlichen Erkenntnis unterscheidet sich die Erfindung vor allem dadurch, dass sie zugleich mit der technischen Lösungsidee eine Nutzungsmöglichkeit, also eine technisierbare Handlungs- oder Arbeitsfunktion angibt, der die Lösung dienen soll.
+Da die Erfindung immer einen möglichen Zweck vorwegnimmt, ist Technik grundsätzlich nicht zweckneutral.
+Auf welche Weise in der Erfindung die Vorstellung von neuartiger Wirklichkeit hervorgebracht wird, kann man bislang nur unzulänglich beschreiben.
+Erfahrung und Wissen gehören in aller Regel dazu, doch die eigentliche Kreativität, die Fähigkeit, etwas Neues zu konzipieren, das zuvor völlig unbekannt war, bleibt auch dann schwer nachvollziehbar, wenn man sie teils mit intuitiv-unbewussten Assoziationsvorgängen und teils mit systematisch-rationaler Kombinationsarbeit erklärt.
+Ist eine Erfindung tatsächlich neuartig, brauchbar und dem bekannten Stand der Technik deutlich überlegen, kann darauf ein Patent erteilt werden, das dem Erfinder die Verwertungsrechte sichert.
+
+Ob allerdings eine Erfindung zur Innovation wird, darüber entscheiden, wenn nicht militärische oder andere staatliche Interessen im Spiel sind, vor allem wirtschaftliche Gesichtspunkte.
+Die anfängliche Lösungsidee muss durch Konstruktionsarbeit in allen Einzelheiten festgelegt werden, in einem Prototyp erprobt und gegebenenfalls verbessert werden.
+Schließlich sind die Fertigungsanlagen bereitzustellen oder überhaupt erst zu schaffen, und der Markt muss für das neue Produkt erschlossen werden.
+Diese technischen und unternehmerischen Aktivitäten erfordern beträchtliche finanzielle Vorleistungen, die nur dann aufgebracht werden, wenn die Innovation eine entsprechende Nachfrage auf dem Markt und damit hinreichenden Gewinn verspricht.
+So wird technische Entwicklung, abgesehen von politischen Impulsen und rechtlichen Regelungen, vor allem wirtschaftlich gesteuert.
+
+Die einzelnen Innovationen verknüpfen sich in ihrer Gesamtheit zu einem Prozess, den man bis vor Kurzem als technischen Fortschritt bezeichnete.
+Da inzwischen zweifelhaft geworden ist, ob alle technischen Neuerungen immer auch einen wirklichen Fortschritt für die Menschen bedeuten, spricht man heute eher von technischer Entwicklung, technischem Wandel oder von Technikgenese.
+Dieser Prozess wird von interdisziplinärer Technikforschung zunehmend untersucht, ist aber bisher nur unzureichend erklärt worden.
+Bis zum letzten Drittel des 20. Jahrhunderts überwog eine Vorstellung, die heute als "technologischer Determinismus" kritisiert wird, die Annahme nämlich, der technische Wandel folge einer selbständigen Eigengesetzlichkeit.
+Inzwischen wird die technische Entwicklung als gesellschaftlicher Prozess verstanden, in dem naturale und technische Gegebenheiten, wissenschaftliche Erkenntnisse, technische Erfindungen, menschliche Bedürfnisse, konkurrierende wirtschaftliche Interessen, politische Interventionen und soziokulturelle Orientierungsmuster auf eine bislang kontrovers diskutierte Weise zusammenwirken.
+
+Im Zusammenhang mit dem "technologischen Determinismus" steht auch die Zweiteilung in "primitive" und "fortschrittliche" Technologie.
+Dies suggeriert eine Übertragung auf die angebliche "Kulturhöhe" einer Gesellschaft.
+Dabei wird jedoch übersehen, dass jegliche Technik primär den Zweck erfüllt, das Überleben zu sichern.
+Insofern kann auch der Einsatz einer sogenannten "primitiven" Technologie bei Kulturen, die sehr naturangepasst leben, diesen Zweck ausreichend erfüllen.
+Der Unterschied liegt in erster Linie beim Grad des benötigten Energieeinsatzes.
+
+== Technische Daten
+
+Technische Daten sind Daten, welche die wesentlichen technischen Merkmale von Gegenständen beschreiben.
+Als Gegenstände kommen insbesondere alle technisch orientierten Anlagen, Arbeitsgeräte, Arbeitsmittel, Betriebsmittel, Bauteile, Computer, Haushaltsgeräte, Maschinen, Produktionsmittel, Transportmittel, Verkehrsmittel, Waren oder Werkstoffe in Betracht.
+Technische Daten sind technische Angaben zu einem Gerät wie beispielsweise Abmessungen, Gewicht, Leistung oder Verbrauch (Energieverbrauch wie Stromverbrauch oder Wasserverbrauch) oder auch Inhaltsstoffe in Arzneimitteln, Genussmitteln, Getränken, Kosmetika sowie Lebens- und Nahrungsmitteln.
+Technische Daten ergeben sich unter anderem aus Bauanleitungen, Baubeschreibungen, Gebrauchsanleitungen, Manuals, Packungsbeilagen, Schaltplänen oder Tabellen.
+
+== Attribut
+
+Das Attribut "technisch" bezeichnet eine Qualität von Substanzen (Gase, Lösungsmittel), die sich zur industriellen Anwendung eignen.
+Für medizinische oder lebensmitteltechnische Anwendungen sind die Substanzen nicht geeignet, weil sie die Qualitätsnormen nicht einhalten.
+
+== Bewertung und Deutung
+
+Ausgelöst durch die Erfahrung zunehmender Umweltschäden, steigender Risiken und wachsender Belastungen der psychosozialen Lebensqualität aufgrund forcierter Innovationsdynamik ist im letzten Drittel des 20. Jahrhunderts eine normative Wende im Technikverständnis eingetreten.
+Neue Technik wird nicht pauschal als Fluch verdammt, aber auch nicht mehr vorbehaltlos als reiner Segen gefeiert.
+An technische Neuerungen wird der Anspruch gestellt, dass sie über Funktionsfähigkeit und Wirtschaftlichkeit hinaus übergreifenden Werten und der Lebensqualität Rechnung tragen.
+Anstelle besonders risikoträchtiger Innovationen werden zunehmend alternative Lösungswege gefordert, die technisch fast immer möglich wären.
+Mit Programmen einer Ethik der Technik und einer gesellschaftlichen Technikbewertung versucht man auf die technische Entwicklung derart einzuwirken, dass technische Neuerungen von vornherein in Bezug auf Umwelt- und Gesellschaftsqualität optimal gestaltet werden, siehe beispielsweise.
+
+Die Einsicht in die Gestaltungsoffenheit der technischen Entwicklung, die eher durch sozioökonomische als durch technische Faktoren begrenzt wird, relativiert auch manche Deutungen der Technikphilosophie.
+Wenn man Technik als Fortsetzung des göttlichen Schöpfungsplanes (Friedrich Dessauer), als übermächtiges Seinsgeschick (Martin Heidegger) oder als Fortsetzung der natürlichen Evolution (Hans Sachsse) begreift, verkennt man, dass die konkrete Phantasie der Menschen die in der Natur angelegten Potentiale gemäß den herrschenden Zweckvorstellungen sehr verschiedenartig ausschöpfen kann (Ernst Bloch).
+Ganz gleich, ob man die Technik als biologisch notwendige Überlebensstrategie des menschlichen "Mängelwesens" (Arnold Gehlen) oder als den objektiv überflüssigen Luxus des menschlichen Kulturwesens (Jose Ortega y Gasset) versteht, wird man doch jeweils im Einzelfall prüfen müssen, welche konkreten Arten von Technik unverzichtbar sind und welche man entbehren könnte.
+
+In ihrer Grundtendenz, menschliche Lebenserhaltung und Lebensentfaltung zu erleichtern, folgt die Technik dem Prinzip der Zweckrationalität (Friedrich von Gottl-Ottlilienfeld), die sich freilich manchmal als ökonomische Rationalität verselbständigt und die Komplexität der Folgen vernachlässigt.
+Dass Technik auch als Ausfluss eines elementaren menschlichen Gestaltungswillens gedeutet werden kann, als Vergegenständlichung des Subjekts in den Produkten der eigenen Arbeit (Karl Marx), als Vehikel innerweltlich-heilsgeschichtlicher Selbsterlösung (Donald Brinkmann) oder als Medium des "Willens zur Macht" (Friedrich Nietzsche, Oswald Spengler), verweist auf irrationale Tiefenstrukturen, die von technologischer Aufklärung berücksichtigt und bewältigt werden müssen.
+
+== Siehe auch
+
+== Literatur
+
+=== Sachwissen
+
+=== Orientierungswissen
+
+== Weblinks
+
+== Einzelnachweise
+

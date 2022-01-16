@@ -1,0 +1,406 @@
+Stahl ist ein Werkstoff, der meist überwiegend aus Eisen mit geringem Kohlenstoffanteil besteht.
+Stahl lässt sich warm oder kalt umformen, er kann also gewalzt, gebogen, gezogen und geschmiedet werden.
+Häufig wird Stahl als Eisen-Kohlenstoff-Legierung mit einem Kohlenstoff-Massenanteil von maximal 2 % definiert.
+Eisen-Kohlenstoff-Legierungen mit höheren Kohlenstoffanteilen werden Gusseisen genannt und sind nicht plastisch umformbar, lassen sich also nicht schmieden oder walzen.
+Neben Kohlenstoff enthält Stahl immer auch Rückstände von unerwünschtem Phosphor, Schwefel und einige weitere Verunreinigungen.
+Moderne Stahlsorten enthalten zusätzlich weitere Elemente, die gezielt zulegiert wurden, um die Eigenschaften des Stahls zu verbessern.
+Entscheidend für die Eigenschaften des Stahls sind Mengenanteile der Begleit- und der nachträglich hinzugefügten Legierungselemente sowie die Kristallstruktur nach Verformung und der Wärmebehandlungszustand.
+Stahl ist einer der vielseitigsten Konstruktionswerkstoffe und ist nahezu unbegrenzt wiederverwertbar.
+Seine Produktion (im Jahr 2016: 1629 Millionen Tonnen) übertrifft die Menge aller übrigen metallischen Werkstoffe zusammen um mehr als das Zehnfache.
+Stahl ist in großen Mengen und zu geringen Kosten verfügbar.
+Seine Eigenschaften lassen sich durch Legieren und Wärmebehandeln in weiten Bereichen variieren.
+Stahl lässt sich durch Gießen und vor allem gut durch Walzen, Schmieden, Fräsen und Schweißen verarbeiten und hat eine hohe Festigkeit (einfacher Stahl 180 bis 350 N/mm^2, hochfester Stahl bis weit über 1200 N/mm^2), gute Härtbarkeit, Steifheit (E-Modul) und Bruchdehnung.
+Kohle und Stahl (Montanindustrie) waren lange Zeit Hauptsäulen der Schwerindustrie und Grundlage für die politische Macht eines Staates.
+Das Wort "Stahl" entwickelte sich aus dem mittelhochdeutschen stahel, stal, dem althochdeutschen Wort stahal, dem mittelniederdeutschen stal, mittelniederländischen stael und dem altnordischen stal; daneben die j-Bildung im altsächsischen stehli ,Axt' und altenglischen stile.
+In der DIN EN 10020:2000-07 Begriffsbestimmungen für die Einteilung der Stähle wird unter Punkt 2.1 folgendes ausgeführt:
+Der Grenzgehalt an Kohlenstoff von 2 % leitet sich direkt aus dem Eisen-Kohlenstoff-Diagramm ab.
+Bis zu einem Gehalt von 2,06 % kann der Werkstoff in Form von Austenit vorliegen, der sich gut umformen lässt.
+Die in der Fachliteratur gebräuchlichen Definitionen orientieren sich an der DIN EN 10020 und enthalten alle die Definition als Eisenwerkstoff, meist mit Hinweis auf den Kohlenstoffanteil von weniger als 2 %.
+Zusätzlich wird aber immer betont, dass Stähle umformbar sind, also durch Schmieden, Walzen und ähnliche Verfahren bearbeitet werden können.
+Diese allgemeine, seit dem frühen 20. Jahrhundert gebräuchliche Definition umfasst mit dem Begriff Stahl auch das damals kaum mehr produzierte Schmiedeeisen, das einen geringen Kohlenstoff-Gehalt von meist unter 0,3 % hat.
+Damit ist es dann nicht härtbar und hat einen anderen Einsatzbereich.
+Trotz ähnlicher Zusammensetzung wie Stahl ist es aber aufgrund verschiedener Verunreinigungen nicht identisch mit Stahl.
+Wenn in modernen Werken (ab dem 20. Jh.) im historischen Kontext von "Stahl" die Rede ist, so ist damit meist "Schmiedeeisen" gemeint.
+Selbst in Werken der Technikgeschichte wird für frühere schmiedbare Eisenwerkstoffe der Begriff Stahl verwendet.
+Der Begriff Schmiedeeisen diente in der Antike als Abgrenzung gegenüber dem Roheisen, das noch sehr stark verunreinigt war, und ab dem Mittelalter zusätzlich gegenüber dem nicht schmiedbaren Gusseisen.
+Einfache schmiedbare Eisenwerkstoffe wurden bereits bei den Hethitern vor ca. 3500 Jahren hergestellt, z. B. für Waffen.
+Die frühe Verhüttung von Eisenerz ist bereits für das 2. Jahrtausend v. Chr. im damaligen Hethiter-Reich belegt, wo auch um die Mitte des 1. Jahrtausends v. Chr. wohl erstmals ein einfacher härtbarer Stahl hergestellt wurde.
+Eisen verdrängte allmählich die zuvor genutzten Kupferwerkstoffe (Bronze), da es als Stahl härtbar und gleichzeitig zäher ist.
+Genutzt wurde Eisen vor allem für Waffen und Rüstungen sowie für Werkzeuge, weniger in der Landwirtschaft.
+Eisenerze waren nahezu überall zu finden, während die zur Bronze-Herstellung benötigten Metalle Kupfer und Zinn selten waren und nicht an denselben Orten vorkamen.
+Zur Eisengewinnung wurde Holzkohle benötigt, die aus Holz gewonnen werden konnte.
+In der Antike und im Mittelalter wurde das Erz in mit Holzkohle beheizten Rennöfen bei Temperaturen von etwa 1250 °C verhüttet.
+Das Eisenerz wandelte sich dabei in halbfestes Eisen sowie in flüssige Schlacke um, die verschiedene unerwünschte Bestandteile der Erze enthält.
+Der Ofen wurde am Boden angestochen, sodass die Schlacke herausrinnen konnte (daher die Bezeichnung Rennofen, von rinnen).
+Das Produkt war poröses, festes Roheisen, das noch Schlackereste enthielt, die durch Schmieden entfernt wurden.
+Danach wurde es als Schmiedeeisen bezeichnet, das beinahe keinen Kohlenstoff enthielt und dem heutigen Stahl recht nahe kam, aber auf einem anderen Weg gewonnen wurde und daher stärker mit Begleitelementen verunreinigt war.
+Aristoteles unterschied jedenfalls bereits in der Meteorologica das Roheisen vom Schmiedeeisen, das keine Schlackereste mehr enthält.
+Da das kohlenstoffarme Eisen für Werkzeuge und Waffen zu weich ist, wurde es auf Holzkohlen, die zum größten Teil aus Kohlenstoff bestehen, geglüht, wodurch es das Element Kohlenstoff vor allem in den Randschichten aufnahm.
+Auch das Härten durch Abschrecken in Wasser oder Öl war bekannt und wird von Plutarch (45-125 n. Chr.) korrekt durch das schnelle Abkühlen erklärt.
+Zuvor war Plinius der Ältere (24-79 n. Chr.) noch der Meinung, die Wasserqualität habe den entscheidenden Einfluss.
+Der griechische Name des gehärteten Eisen bzw. des Stahls ist chalybs.
+Als neue Berufe entstanden Grob- und Feinschmiede, die nun Eisen nutzten, im Gegensatz zu den Kupferschmieden.
+Andere Schmiede spezialisierten sich auf bestimmte Produkte oder Produktgruppen.
+Dazu zählen der Werkzeug-, Messer-, Sichel-, Nagel-, Schwert-, Helm-, Lanzen- oder Pfeilschmied und Schlosser.
+In der Antike wurden die notwendigen Arbeiten häufig von Sklaven verrichtet.
+Für die Landwirtschaft produzierte im Frühmittelalter das dörfliche Handwerk Sensen, Sicheln und Pflüge.
+Durch Wind- oder Wassermühlen angetriebene Hammerwerke und Blasebälge wurden entwickelt.
+Im 14. Jahrhundert n.
+Chr. wurde in Europa der Holzkohle-Hochofen (Stückofen) entwickelt.
+Er erreichte höhere Temperaturen und benötigte weniger Kohle.
+Das Eisenerz reagierte darin mit dem Kohlenstoff der Holzkohle.
+Die Schmelztemperatur lag dank des Kohlenstoffgehalts nun unter der Hochofentemperatur, sodass erstmals flüssiges Roheisen entstand, das jedoch wegen des hohen Kohlenstoffgehalts von etwa 4 % nicht schmiedbar war.
+Es ähnelte dem heutigen Gusseisen und wurde auch in Formen gegossen.
+Um schmiedbares Eisen zu erhalten, wurde das Roheisen aus dem Hochofen nochmals im Frischfeuer geschmolzen.
+Die Eigenschaften des Eisens konnten gezielt durch Anlassen, Aufkohlen, Abschrecken und Glühen beeinflusst werden.
+Der Benediktinermönch Theophilus Presbyter beschrieb im 11. Jahrhundert das Härten von Feilen:
+Zunächst wurde Ochsenhorn verbrannt und mit Salz vermischt und über die Feilen gestreut, die dann im Ofen geglüht wurden.
+Anschließend wurden sie in Wasser abgeschreckt und im Ofen angelassen.
+Draht wurde ursprünglich wie in der Antike gedreht und geschmiedet.
+Im Mittelalter ging man zum Drahtziehen mit Zieheisen über, um die großen Drahtmengen herzustellen, die vor allem für Ringpanzer ("Kettenhemden") benötigt wurden.
+Zu Beginn des Mittelalters war die Arbeitsteilung wenig ausgeprägt.
+Grob- und Feinschmiede arbeiteten häufig in derselben Schmiede.
+Später war die Arbeitsteilung ähnlich wie in der Antike, wozu neue Berufe wie Huf-, Pfannen-, Pflug- und Zangenschmiede sowie Feilenhauer beitrugen.
+Neben der beruflichen Arbeitsteilung gab es auch regionale Unterschiede.
+In der Gegend um Solingen lagen an Nebenläufen der Wupper zahlreiche durch Wassermühlen getriebene Hammerwerke, auf denen Klingen geschmiedet wurden.
+Die Schleifmühlen für die Klingen benötigten für die Fertigbearbeitung mehr Energie und lagen daher direkt an der Wupper.
+Diese getrennten Fertigungsstufen erforderten jedoch den Transport der geschmiedeten Klingen von den Nebenläufen bis zur Wupper, wodurch bis zu einer Wegstunde für den Transport aufgebracht werden musste.
+Die Herstellung gebrauchsfähigen Eisens aus Erzen geschah in mehreren Schritten:
+Neu war die technische Umsetzung dieser Prozesse, die nun vor allem auf Steinkohlebasis beruhte und daher Eisenwerkstoffe günstiger werden ließ, und die Produktionsmengen erhöhte.
+Innerhalb der Produktionstechnik konnten Eisen oder Stahl nun als Konstruktionswerkstoff für Werkzeugmaschinen genutzt werden, die dadurch präziser und leistungsfähiger wurden.
+Der Großteil des Eisens wurde jedoch für Dampflokomotiven und Schienen sowie Brücken verwendet.
+Für die Verhüttung der Erze im Hochofen war es notwendig, dass das Erz mit Kohle in Berührung kam, da der Kohlenstoff für chemische Reaktionen benötigt wurde.
+Bei Holzkohle, die fast ausschließlich aus Kohlenstoff besteht, war dies kein Problem, die günstigere Steinkohle jedoch war stark mit Schwefel und anderen Elementen verunreinigt, die das Produkt schlechter werden ließen.
+Abraham Darby kam auf die Idee, Steinkohle zu verkoken.
+Als Hauptprodukt entstand dabei Koks, der für die Verhüttung der Erze genutzt werden konnte, als Nebenprodukt Teer.
+Als sich die Teergruben in der Nähe der Eisenhütten immer weiter füllten, wurden Chemiker darauf aufmerksam und fanden Methoden, daraus Teerfarben und Medikamente herzustellen.
+Ein deutlich niedrigerer Kohle-/Koksverbrauch war mit dem Heißluftblasen von James Beaumont Neilson möglich.
+Hierbei wurde die dem Hochofen zugeführte Luft erhitzt, was höhere Temperaturen zur Folge hatte und besseren Stahl lieferte.
+Für das Frischen mit Steinkohle gab es zwei verschiedene Methoden, um das Eisen vor dem Schwefel der Steinkohle abzuschirmen.
+Ab 1740 entwickelte Benjamin Huntsman den Tiegelgussstahl, bei dem Stahl in Tiegel gegeben und mehrere Tage lang im Kohlefeuer erhitzt wurde.
+Das Ergebnis war ein homogener Stahl ausgezeichneter Qualität.
+Wegen seiner relativ hohen Härte wurde er bevorzugt für Schneidwerkzeuge, aber auch für Ambosse, Hämmer und andere Werkzeuge genutzt.
+Er war jedoch sehr teuer und konnte nur in geringen Mengen erzeugt werden.
+Das bedeutendere Verfahren war das Puddeln, das 1784 von Henry Cort erfunden wurde.
+Beim Puddeln wurde das Roheisen in großen Tiegeln auf einen Herd gegeben, unter dem Steinkohle verbrannt wurde.
+Das flüssige Roheisen wurde manuell mit Eisenstangen gerührt (= Puddeln), kam dabei mit dem Sauerstoff der Luft in Kontakt und verbrannte den im Eisen enthaltenen Kohlenstoff.
+Da das kohlenstoffarme Eisen einen höheren Schmelzpunkt hat, bildeten sich Klumpen, die schließlich zu Luppen anwuchsen und aus dem Herd geholt wurden.
+Um sicherzustellen, dass alle Teile der Schmelze gleichmäßig mit Sauerstoff in Kontakt kamen, mussten Arbeiter die Schmelze ständig kräftig umrühren, was viel Erfahrung erforderte.
+Von den Puddlern hing somit entscheidend die Qualität des erzeugten Stahls ab.
+Das Puddeln ermöglichte zwar größere Produktionsmengen als zuvor, war jedoch ein manuelles Verfahren, das sich nicht mechanisieren ließ, und bildete den Engpass in der gesamten Prozesskette vom Erz bis zum fertigen Produkt.
+Das durch Puddeln gefrischte Eisen wurde anschließend unter dem Schmiedehammer bearbeitet, um die Schlackereste zu entfernen und den Werkstoff homogener zu machen.
+Dieser Schmiedeprozess hatte ebenfalls großen Einfluss auf die Qualität des Stahls.
+Erst danach wurde er zu Blechen oder Schienen gewalzt.
+Die erste deutsche Gussstahlfabrik gründete Friedrich Krupp 1811 in Essen.
+Der Impuls für die sprunghafte Zunahme der Stahlproduktion erfolgte etwa in der Mitte des 19. Jahrhunderts durch die gleichzeitige Anwendung mehrerer technischer Erfindungen:
+Die Dampfmaschine stellte der Industrie eine leistungsstarke und flexible Arbeitskraft zur Verfügung, in den Kokereien wurde die Steinkohle zu Koks verarbeitet und die Entwicklung des Eisenbahnwesens sowie der Dampfschifffahrt förderten die Erreichbarkeit neuer, großer Absatzmärkte für Stahl.
+Die Stahlindustrie hatte in allen Ländern, unabhängig von ökonomischen Erwägungen, eine enorme politische Bedeutung, da sie neben einem Indikator für die technisch-wirtschaftliche Entwicklung und der Bedeutung für die Rüstungsindustrie auch eine nationale Prestigefrage war.
+Die Bedeutung des Stahls für die damalige Zeit symbolisiert der Eiffelturm (allerdings wegen der hohen Anforderung an Bruchsicherheit noch aus Puddeleisen), der anlässlich der Pariser Weltausstellung von 1889 als ein Monument des technischen Fortschritts aus Stahl erbaut wurde.
+Die Hochindustrialisierung ist Teil der ersten Industrialisierungswelle, in der sich die führenden Staaten endgültig vom Agrar- zum Industriestaat wandelten.
+Es existieren verschiedene Definitionen und Abgrenzungen darüber, was genau unter der Hochindustrialisierung zu verstehen ist:
+Teilweise ist damit die Hochindustrialisierung in Deutschland zwischen 1870 und 1914 gemeint, teilweise ist damit auch die Zweite industrielle Revolution gemeint.
+Die wichtigsten Neuerungen betreffen die Entwicklung von Verfahren zur Massenproduktion von günstigem und gleichzeitig hochqualitativem Stahl und die Rationalisierungsbewegung, die mit einer wirtschaftlicheren Produktion einherging.
+Engpass der Stahlproduktion war nach wie vor das Frischen im Puddelofen.
+Roheisen konnte in guter Qualität und in ausreichenden Mengen in den stetig größer werdenden Hochöfen geschmolzen werden.
+Die Weiterverarbeitung des Puddeleisens in mechanisierten Walzwerken geschah ebenfalls zügig.
+Um die große Nachfrage aus dem Eisenbahnwesen zu befriedigen, unternahm man einige Versuche, das Puddeln ebenfalls zu mechanisieren, was jedoch nicht erfolgreich war.
+Die Erfahrung der Puddler konnte nicht einfach in Maschinen übertragen werden.
+Abhilfe kam durch drei konkurrierende Verfahren:
+Die beiden bodenblasenden oder windfrischenden Verfahren von Bessemer und Thomas sowie das Herdfrischen von Siemens und Martin.
+Henry Bessemer kam in den 1850er Jahren auf die Idee, das flüssige Roheisen in einen Konverter zu geben und durch Düsen im Boden Luft zu blasen.
+Der in der Luft enthaltene Sauerstoff verbrannte den Kohlenstoff und andere unerwünschte Begleitelemente in nur 20 Minuten und erhitzte gleichzeitig auch das Roheisen, sodass der gefrischte Stahl nun erstmals flüssig entstand und gegossen werden konnte.
+Der Vorgang, Luft durch Roheisen zu blasen, wird auch als Windfrischen bezeichnet.
+Nur mit Luft konnte man nun mit dem Bessemer-Verfahren die bis dahin höchsten Temperaturen im Hüttenwesen erzeugen und halten und hatte dabei nicht etwa wie früher Brennstoffe verbraucht, sondern auch noch Wärme erzeugt.
+Das Verfahren war daher deutlich günstiger.
+Außerdem war der Bessemer-Stahl von sehr guter Qualität:
+Er war sehr rein und homogen und hielt durch seine große Härte den Belastungen stand, denen er als Schienenmaterial ausgesetzt war.
+Schienen aus Puddeleisen mussten dagegen meist nach bereits 10 Jahren ausgetauscht werden.
+Vor allem in den USA entstanden in den späten 1860er und frühen 1870er Jahren zahlreiche Bessemeranlagen.
+Das Verfahren hatte allerdings zwei Nachteile.
+Es eignete sich nur für phosphorarme Erze, die vor allem in Deutschland selten waren, und der chemisch neutrale Stickstoff in der Luft löste sich im Gefüge des Stahls und führte dazu, dass er hart, aber auch spröde war.
+Außerdem verbrannte beim Frischen fast der gesamte Kohlenstoff, sodass Bessemer-Stahl nicht besonders fest war.
+Das Thomas-Verfahren von Sidney Thomas und Percy Gilchrist war seit 1878 eine Variante des Bessemer-Verfahrens, die sich für phosphorreiche Erze eignete und daher vor allem in Regionen an Rhein und Ruhr, in Belgien, Luxemburg und Lothringen bevorzugt genutzt wurde.
+Es benötigte allerdings auch einen gewissen Mindestgehalt an Phosphor, sodass man in England und Amerika wenig Interesse daran zeigte, da hier entsprechende Erze nicht vorkamen.
+Thomas-Stahl war sogar noch etwas härter und spröder als Bessemer-Stahl und eignete sich eher für wenig belastete Fälle wie Draht oder Rohre und weniger für den Brücken- oder Schiffsbau.
+Eine Alternative zu den beiden bodenblasenden oder windfrischenden Verfahren war das Siemens-Martin-Verfahren, das zum Herdfrischen gezählt wird und nach den drei Brüdern des berühmten Werner von Siemens, Friedrich, Otto und Wilhelm sowie dem französischen Eisenhüttenmann Pierre Martin benannt ist.
+Das Verfahren beruhte auf einem speziellen Ofen, bei dem die zugeführte Luft stark erhitzt wurde, bevor sie entzündet wurde.
+Anstatt mit dieser heißen Luft nun den Herd zu heizen, erhitzte man damit einen weiteren Luftstrom, der nun noch heißer wurde als der Erste.
+Damit konnten nun dauerhaft Temperaturen gehalten werden, die über der Schmelztemperatur von Stahl lagen.
+Nach mehreren Stunden war der Stahl dann von den Begleitelementen befreit.
+Durch den langsameren Prozess konnte der gewünschte Kohlenstoffgehalt sehr genau eingestellt werden.
+Außerdem löste sich kein Stickstoff im Stahl, sodass das Siemens-Martin-Verfahren einen qualitativ höherwertigen Stahl ergab, der jedoch wegen des aufwendigeren Prozesses etwas teurer war.
+Der Großteil des Stahls wurde jedoch bis 1960 mit diesem Verfahren hergestellt, da man damit auch ausgezeichnet Schrott verwerten konnte.
+Das nach dem Puddeln notwendige Schmieden der Luppen, um den Werkstoff zu homogenisieren, konnte mit den neuen Verfahren entfallen, da sie alle flüssigen Stahl erzeugten, der schon sehr viel homogener war, als Puddeleisen je werden konnte.
+Dennoch zögerten die Stahlproduzenten damit, das Schmieden aufzugeben, da ein gründlicher Schmiedeprozess bisher Kennzeichen eines guten Stahls war.
+Vor allem die Kunden konnten lange nicht glauben, dass mit weniger Aufwand ein besseres Produkt möglich war.
+Krupp war in Deutschland der letzte Industrielle, der das Schmieden aufgab, verbot seinen Vertretern aber, zu verraten, dass der kruppsche Stahl, der für seine hohe Qualität bekannt war, nur noch gewalzt wurde.
+In Amerika etablierte sich Ende des 19. Jahrhunderts allmählich eine Rationalisierungsbewegung, die im frühen 20. Jahrhundert ihren Höhepunkt fand.
+Unter Rationalisierung verstand man damals vor allem die Erhöhung der wirtschaftlichen Effizienz der Produktion.
+Man wollte also mit den vorhandenen Arbeitern und Anlagen möglichst viel produzieren oder eine bestimmte Produktionsmenge zu möglichst geringen Kosten herstellen.
+Erst mit den daraus entstandenen Organisationsprinzipien wurde das wahre Leistungspotential der neuen Technologien vollständig ausgeschöpft - nicht nur im Bereich der Stahlindustrie, sondern in allen Gewerben.
+Obwohl in den Bessemer-Werken in einem Konverter der Stahl nach nur 20 Minuten gefrischt war, konnte man nur fünf bis sechs Chargen pro Tag ausbringen.
+Die restliche Zeit stand der Konverter still.
+Dies lag vor allem an der hohen Reparaturbedürftigkeit der Konverterböden, die nach spätestens sechs Chargen verschlissen waren und etwa 10 Stunden lang repariert werden mussten.
+In Europa versuchte man daher neue Materialien zu verwenden, die hitzebeständiger sind.
+In Amerika, wo ein sehr großer Bedarf an Stahl herrschte, hielt man sich damit nicht lange auf.
+Man wechselte einfach den gesamten Boden in wenigen Minuten aus und produzierte dann weiter.
+Daher stieg die Ausbringung pro Konverter innerhalb weniger Jahre auf 48 pro Tag und später an Spitzentagen sogar auf 72.
+Die Kosten für die Böden spielten dagegen keine große Rolle.
+In amerikanischen Stahlwerken wurde nun rund um die Uhr produziert und damit auch zum ersten Mal sowohl schnell als auch gut, was Beobachter aus Europa besonders beeindruckte.
+Denn bisher hieß gut produzieren vor allem langsam und gründlich produzieren.
+Diese Produktionsweise in der Stahlindustrie wurde in Amerika als englisch hard driving und in Deutschland als Schnellbetrieb bezeichnet.
+Elektrischer Strom ermöglichte mit den damals neuartigen Lichtbogenöfen die Herstellung von sogenanntem Elektrostahl.
+Diese Stahlwerke waren ausgezeichnete Schrottverwerter, spielten aber auf dem Gesamtmarkt nur eine untergeordnete Rolle.
+Hier konkurrierten nach wie vor drei verschiedene Verfahren:
+Das Bessemer- und das Thomasverfahren mit dem etwas günstigeren Stahl und das Siemens-Martin-Verfahren mit dem qualitativ besseren Stahl.
+In den Bessemer- und Thomashütten bemühte man sich daher die Qualität zu verbessern und damit die ersehnte "Siemens-Martin-Gleichheit" zu erreichen, was jedoch nicht gelang.
+Alle Verfahren waren jedoch ausgesprochen produktiv, sodass es erstmals zu Überkapazitäten kam.
+Bisher hatte man versucht die Kosten einzelner Anlagen zu optimieren; die Produktionsmenge war eine daraus resultierende Größe.
+Nun war sie ebenso wie der Marktpreis vorgegeben durch Kartellierung, Konzernbildung, Schutzzölle und weitere wirtschaftliche Einflüsse.
+In den vertikal integrierten Stahlkonzernen, mit ihren Erzgruben, Hochöfen, Bessemer- oder Siemens-Martin-Hütten und den Walzwerken ging es nun darum, die Kosten für das gesamte Unternehmen zu minimieren.
+Zur Effizienzsteigerung entstanden bald integrierte Hüttenwerke, um Nebenprodukte zu verwerten.
+Im Hochofen entsteht beispielsweise das sogenannte Gichtgas, das schon lange genutzt wurde, um den Hochofenwind zu erwärmen.
+Dabei wurde jedoch nur etwa 20 % des Gases verbraucht.
+Nun versuchte man es weitergehend zu nutzen:
+Zunächst wurde es in den Dampfmaschinen der Walzwerksantriebe verbrannt.
+Dadurch entstand eine starre technische Kopplung zwischen der Anzahl der Hochöfen und der Anzahl der Walzwerke.
+Als man zu elektrischen Antrieben überging, trieb man stattdessen Generatoren damit an:
+Das Gas wurde "verstromt".
+Außerdem begann man das flüssige Roheisen aus dem Hochofen direkt in die Konverter (Bessemer- und Thomas-Verfahren) oder Siemens-Martin-Öfen zu geben ohne es erneut einzuschmelzen, was energiesparender ist.
+Das gefrischte Eisen ließ man gerade soweit abkühlen, dass es fest wurde und walzte es dann.
+Im Idealfall genügte die im Hochofen erzeugte Hitze für den gesamten Prozess, was als "Walzen in einer Hitze" bezeichnet wurde.
+Die schon immer abfallende Schlacke wurde nun zu Sand, Stein und Zement weiterverarbeitet.
+Besonders begehrt war die Schlacke der Thomas-Werke, da sie einen hohen Anteil von Phosphaten aufweist und daher zu Dünger weiterverarbeitet werden kann.
+Die Thomas-Werke zählten sogar zu den größten Düngemittelherstellern.
+Diese Thomasgutschrift trug wesentlich zu den Kostenvorteilen des Verfahrens bei, da der Thomasstahl um diese Gutschrift günstiger wurde.
+In der chemischen Industrie wurden bei einigen Prozessen wie dem damals neuen Haber-Bosch-Verfahren zur Herstellung von Ammoniak sehr hohe Drücke und Temperaturen von bis zu 330 bar und 550 °C benötigt.
+Der am Prozess beteiligte Wasserstoff diffundierte in den Stahl der Reaktorwände, löste den darin enthaltenen Kohlenstoff und verringerte dadurch die Festigkeit des Stahls, was zu Reaktorexplosionen führte.
+In der Folge entwickelte man hochlegierte Stähle, die ihre Festigkeit nicht über den Kohlenstoff, sondern über andere Legierungselemente erhalten und daher chemisch beständiger sind.
+Der wichtigste Vertreter ist der austenitische, rostfreie Chrom-Nickel-Stahl.
+Die neuen Stähle und chemischen Verfahren verhalfen sich somit gegenseitig zum großtechnischen Durchbruch.
+Für die deutschen Nationalsozialisten, die 1935 ein umfangreiches Rüstungsprogramm gestartet hatten, war Stahl ein kriegswichtiger Werkstoff.
+So galt der Norwegenfeldzug unter anderem der Sicherung des Nachschubs von schwedischem Eisenerz, das für die damalige Stahlerzeugung ein unverzichtbarer Rohstoff war.
+Die Alliierten bombardierten das Ruhrgebiet, die größte stahlproduzierende Region Europas.
+Am Ende des Kriegs hatten die Luftangriffe ca. 20 % der Produktionskapazitäten zerstört.
+Erst 1957 wurde der Vorkriegsstand mit einer Rohstahlproduktion von 16 Millionen Tonnen wieder erreicht.
+Die auf der Potsdamer Konferenz beschlossene Demilitarisierung des Deutschen Reichs beinhaltete auch eine Demontage der Stahlindustrie.
+Ein Teil der demontierten Betriebe ging an die Sowjetunion, die diese zum Wiederaufbau des durch den Krieg zerstörten Landes benötigte.
+In den westlichen Besatzungszonen regte sich bald Widerstand gegen die Demontage, und so stellten die Alliierten die Demontage schon 1949 wieder ein.
+Eine weitere Maßnahme der alliierten Kontrollbehörde war die sogenannte "Entflechtung" der Stahlindustrie.
+Damit sollte das neuerliche Aufkommen von marktbeherrschenden Unternehmenszusammenschlüssen wie den "Vereinigten Stahlwerken" verhindert werden.
+Um eine gemeinsame Kontrolle der Kohle- und Stahlproduktion sicherzustellen, wurde 1952 auf französische Initiative hin die Montanunion gegründet.
+Aus der Montanunion entwickelte sich dann schrittweise die Europäische Union.
+In der Folge erlebte die Stahlindustrie in der Bundesrepublik Deutschland einen großen Aufschwung.
+1961 produzierten 420.568 Beschäftigte 33 Millionen Tonnen Rohstahl, was einen Höchststand bei der Mitarbeiterzahl bedeutete.
+Einen Produktionsrekord stellte die westdeutsche Stahlindustrie 1974 auf, als sie über 53 Millionen Tonnen Stahl fertigte.
+Heutzutage benötigt die Stahlindustrie im wiedervereinigten Deutschland etwa 76.500 Mitarbeiter, um rund 46 Millionen Tonnen Stahl (Stand 2008) herzustellen.
+Diese enorme Produktivitätssteigerung war nur durch bedeutende technische Innovationen möglich.
+Nach Erwartungen der Stahlindustrie wird die Stahlnachfrage der Automobilbranche durch die aufkommende Elektromobilität bis 2050 um 4,2 Mio. t zunehmen.
+Stahl ist der Standardwerkstoff im Maschinenbau und ein wichtiger Baustoff im Bauwesen.
+Die Teildisziplin des Bauingenieurwesens, die sich mit den Besonderheiten von Stahlkonstruktionen befasst, ist der Stahlbau.
+Von dem in Deutschland genutzten Stahl entfallen 35 % auf das Baugewerbe, 26 % auf den Automobilbau, 12 % auf Metallwaren, 11 % auf den Maschinenbau und 9 % auf Rohre (Stand: 2017).
+Stahl wird verwendet für zahlreiche verschiedene Maschinen, darunter Pumpen, Krane, Förderanlagen, Turbinen oder Fräsmaschinen, für Stahlseile, Brücken und den Hochbau, im Stahlbeton, für Waffen und Werkzeuge aller Art, für Rohre und chemische Apparate, Druckbehälter, Schienen, Schiffe, Autos und Motorräder.
+In Industriezweigen, bei denen Wert auf Leichtbauweise gelegt wird (insbesondere der gesamte Fahrzeugbau und Flugzeugbau), können anstelle von Stahl Werkstoffe von geringerer Dichte, beispielsweise Titan, Aluminium, Magnesium, Kunststoffe und Faserverbundwerkstoffe verwendet werden.
+Da die anderen metallischen Werkstoffe aber häufig eine geringere Festigkeit und Härte im Vergleich zu Stahl aufweisen, kann der Gewichtsvorteil durch gezieltes Verwenden von hochfesten Stählen und konstruktiven Maßnahmen - etwa die Verarbeitung von dünnerem Blech mit Aussparungen und Sicken - ausgeglichen werden.
+Faserverbundwerkstoffe haben zwar teilweise eine wesentlich höhere Festigkeit und Steifigkeit in Faserrichtung, Konstruktion und Verarbeitung unterscheiden sich jedoch deutlich von der metallischer Werkstoffe und sind vor allem deutlich aufwändiger.
+Weltweit wurden 2016 1629 Millionen Tonnen Stahl produziert.
+Das ist mehr als das zehnfache aller anderen metallischen Werkstoffe zusammen.
+Von Aluminium, dem zweitwichtigsten metallischen Werkstoff, wurden 2016 nur 115 Mio. Tonnen produziert.
+Das mit großem Abstand bedeutendste Herstellerland war die Volksrepublik China mit einem Anteil von 50 Prozent.
+Größter Produzent nach China ist Japan mit 6,4 %.
+In der EU werden 10 % und in Nordamerika (NAFTA) 6,8 % der Weltproduktion hergestellt.
+Siehe auch Stahl/Tabellen und Grafiken.
+In Deutschland wurden mit 87.000 Beschäftigten im Jahr 2014 ca. 43 Mio. t Rohstahl hergestellt.
+Die Produktion von Stahl verlief lange Zeit auf relativ geringem Niveau:
+Schätzungen zufolge wurden im Mittelalter im deutschsprachigen Raum zwischen 20.000 t und 30.000 t an Stahl jährlich erzeugt.
+Gegen 1950 überstieg die Weltproduktion erstmals 200 Mio. Tonnen, bis Mitte der 1970er-Jahre stieg sie weiter bis auf 700 Mio. Tonnen und verweilte bis zur Jahrtausendwende mit geringen Schwankungen auf diesem Niveau.
+Seitdem stieg sie weiter auf über 1000 Mio. Tonnen, wobei der Zuwachs fast ausschließlich auf China zurückgeht.
+Aus Eisenerzen wird Roheisen gewonnen, indem es zusammen mit Koks (entgaste Kohle) in einen Hochofen gegeben wird.
+Das Koks erhitzt einerseits durch Verbrennung das Erz und dient andererseits als Reduktionsmittel für das Erz, das chemisch gesehen aus Eisenoxid besteht.
+Das dadurch entstandene Roheisen dient als Ausgangsmaterial für die Stahlerzeugung.
+Es enthält etwa 4 % Kohlenstoff und verschiedene Verunreinigungen.
+Der Vorgang, bei dem der Gehalt an Kohlenstoff und anderen Elementen im Roheisen gesenkt wird, wird als Frischen bezeichnet, was nichts anderes bedeutet, als dass die unerwünschten Begleitelemente Silicium, Mangan, Schwefel und Phosphor durch Zugabe von Sauerstoff verbrannt werden.
+Heute relativ unbedeutende Frischverfahren sind das Siemens-Martin-, Bessemer- und das Thomas-Verfahren, bei denen die Oxidation durch Luft vonstattengeht.
+Sie waren von der Mitte des 19. Jahrhunderts bis in die 1960er weit verbreitet.
+Davor wurde das Puddelverfahren genutzt.
+Technisch weit verbreitet (72 % der Welterzeugung) ist aber das Linz-Donawitz-Verfahren (LD-Verfahren).
+Bei diesem wird das flüssige Roheisen aus dem Hochofen in einen großen, schwenkbaren Behälter gefüllt.
+Dieser Behälter, der Konverter, fasst ungefähr 300 t flüssiges Roheisen.
+Die Reaktion, die zur Umwandlung von Roheisen in Stahl führt, ist exotherm.
+Damit der Konverter durch zu hohe Temperaturen keinen Schaden nimmt, muss er gekühlt werden.
+Zu diesem Zweck wird zusätzlich zum Roheisen Eisen- bzw. Stahlschrott beigemischt.
+Die zum Schmelzen des Eisen- bzw. Stahlschrottes nötige Energie entzieht dem Prozess einen Teil der Wärme.
+Dennoch steigen die Temperaturen im Konverter von ca. 1250 °C auf etwa 1600 °C.
+Der Prozess der Rohstahlerzeugung startet durch das Einfahren einer wassergekühlten Sauerstofflanze in die Schmelze.
+Durch diese Lanze wird reiner Sauerstoff mit einem Druck von etwa 10 bar in die Schmelze geblasen.
+Er oxidiert die Begleitelemente, die entstehenden gasförmigen Oxide (Kohlenmonoxid, Kohlendioxid und Schwefeldioxid) entweichen durch die Konverteröffnung in den Abgaskamin.
+Feste oder flüssige Oxide lagern sich an der Oberfläche der Schmelze ab, wo sie zusammen mit zuvor zugegebenem Kalkstein die sogenannte Schlacke bilden.
+Nach etwa einer halben Stunde ist der Gehalt an Fremdelementen in der Schmelze stark gesunken.
+Die Schlacke und die Stahlschmelze (jetzt Rohstahl genannt) werden getrennt voneinander aus dem Konverter in Transportkübel gegossen.
+Das zweite wichtige Stahlherstellungsverfahren ist das Elektrostahlverfahren.
+Mit Graphitelektroden werden im Lichtbogenofen Temperaturen von bis zu 3500 °C erzeugt.
+Da diese Temperaturen nur lokal an den Spitzen der Graphitelektroden entstehen, kann zur beschleunigten Homogenisierung der Temperaturverteilung mit Lanzen Sauerstoff eingeblasen werden.
+Dadurch wird der Erschmelzungsprozess deutlich beschleunigt und so können ca. 100 to Stahlschrott in ca. einer Stunde erschmolzen werden.
+Für die Erschmelzung werden der Eigenschrott, der aus der Stahlherstellung stammt, als auch Fremdschrott, z. B. Automobilschrott, eingesetzt.
+Bereits während der Erschmelzung können Legierungsmittel der Stahlschmelze zugefügt werden.
+Die verfeinerte Einstellung der gewünschten chemischen Analyse wird im Legierungsofen vollzogen, nachdem die Stahlschmelze in den sogenannten Legierungsstand verbracht wurde.
+Darüber hinaus lässt sich die Qualität des Stahls zusätzlich erhöhen, indem man ihn einer Desoxidation unterzieht.
+Dabei werden der Stahlschmelze Ferrosilicium und Aluminium beigesetzt, aber auch Calcium gegen Ende der Behandlung wird in kleinen Mengen zugesetzt.
+Dadurch wird der Sauerstoff gebunden und die Schlacke ausreduziert.
+Teure Elemente wie Chrom, wandern also aus der Schlacke wieder zurück in die Stahlschmelze und andere Oxide in der Schmelze werden auch gebunden.
+Dies verhindert Sauerstoffeinschlüsse und erhöht damit die Festigkeit und den Reinheitsgrad des Stahls.
+Beim Vergießen gibt es verschiedene Arten wie Stahl vergossen wird.
+Man versucht die Randzone genauso zu temperieren, wie den Kern des Stahlblocks und eine gleichmäßige Abkühlung des Blocks zu erreichen, um Lunkerbildung etc. zu minimieren.
+Dies mindert die Spannungsenergie im Gefüge des Stahls, somit erlangt der Stahl ein gleichmäßiges Gefüge.
+Je nach Grad der Desoxidation unterscheidet man beruhigte Stähle und vollberuhigte Stähle.
+Für kleinere Mengen oder in Gießereien finden Induktionsöfen häufig Anwendung.
+Eisen als Hauptbestandteil des Stahles ist, auch wenn es korrodiert oder weggeworfen wird, für Umwelt, Tier, Mensch und Pflanzen nicht toxisch.
+Die Stahlerzeugung ist ein großer Energieverbraucher.
+Im Jahr 2013 entfielen ca. 18 % des gesamten weltweiten industriellen Endenergieverbrauchs auf den Eisen- und Stahlsektor.
+Bei der Ökobilanz von Stahl müssen zwei Herstellungsrouten unterschieden werden:
+In der Praxis wird Stahl zuerst aus Erz hergestellt und dann oft mehrfach recycelt (einmalig Primärerzeugung und mehrfach Stahlrecycling).
+Damit ergibt sich ein durchschnittlicher CO2-Ausstoß von etwa 1 kg CO2 pro kg hergestellten Warmbandstahles.
+Zum Vergleich:
+Bei der Herstellung von 1 kg Roh-Aluminium werden 10 kg CO2 freigesetzt (bei Verwendung eines durchschnittlichen Energiemixes).
+Aus geschreddertem Mischschrott kann über Magnetscheider eine Eisenfraktion zurückgewonnen werden.
+Legierungselemente können, müssen aber nicht beim Recycling entfernt werden.
+Hochlegierte Stähle werden daher dementsprechend von Metallaufkäufern extra erfasst und vergütet.
+Hingegen wird das Recycling dünnwandiger, beschichteter, restentleerter Gebinde (Dosenschrott) teilweise als Downcycling bezeichnet.
+Stahl ist mit 500 Mio. t pro Jahr der weltweit meistrecycelte Industriewerkstoff.
+Die Recyclingquote von Stahl liegt bei 70 %, die von einzelnen Stahlanwendungen z. T. bei deutlich über 90 %.
+Für den Korrosionsschutz von Eisen und Stahl werden Stoffe eingesetzt, die das Recycling stören, verloren gehen oder als umweltrelevante Stoffe entweichen oder zurückgehalten werden müssen.
+Dazu gehören insbesondere die Legierungselemente Chrom und Nickel sowie als Beschichtungen Lacke, Zinn (Weißblech) und Zink.
+In Europa werden daher die Stahlwerksstäube recycelt, um das darin enthaltene Zink zurückzugewinnen.
+Im Register europäischer Stähle sind 2017 über 2400 Stahlsorten aufgelistet.
+Differenziert wird Stahl beispielsweise
+Nach EN 10020:2000 wird zwischen drei Hauptgüteklassen unterschieden:
+Die Kurznamen der Stähle sind in der EN 10027 festgelegt.
+Heute werden ca. 2500 verschiedene Stahlsorten hergestellt, von denen etwa 2000 erst in den letzten zehn Jahren entwickelt wurden.
+Die Stahlwerkstoffe werden nach den Legierungselementen, den Gefügebestandteilen und den mechanischen Eigenschaften in Gruppen eingeteilt.
+Weitere wichtige Eigenschaften für den Anwender sind die Einsatzbereiche und Verwendungsmöglichkeiten der Stähle.
+Daher ist auch eine Kennzeichnung sinnvoll, aus der diese hervorgeht:
+Die DIN EN 10079 (Begriffsbestimmung für Stahlerzeugnisse) unterscheidet die Stahlerzeugnisse in flüssigen Stahl, festen Rohstahl und Halbzeug, Flacherzeugnisse, Langerzeugnisse und andere Erzeugnisse.
+Flacherzeugnisse haben einen rechteckigen Querschnitt, dessen Breite deutlich größer als seine Dicke ist.
+Sie werden unterteilt in
+Nach Materialstärke werden Flacherzeugnisse in Feinblech und -band bis 3 mm Dicke und Grobblech und -band ab 3 mm Dicke unterteilt.
+Die Dichte von Stahl beträgt 7,85-7,87 g/cm3 (7850-7870 kg/m3).
+Der Schmelzpunkt von reinem Eisen liegt bei 1536 °C, durch Zugabe von Legierungselementen verringert sich in der Regel der Schmelzpunkt von Stahl und liegt bei 2 % Kohlenstoff nur noch bei 1400 °C.
+Aus dem Eisen-Kohlenstoff-Diagramm ersichtlich, hat Stahl genaugenommen wie die meisten Legierungen keinen genauen Schmelzpunkt:
+Bei Temperaturen oberhalb der Liquiduslinie (oberste Linie im Diagramm) ist der Werkstoff vollständig flüssig, zwischen der Liquidus- und Soliduslinie (zweitoberste Linie) liegt er teilweise flüssig und fest vor.
+Erst bei Unterschreiten der Soliduslinie liegt nur noch fester Werkstoff vor.
+Die elektrische Leitfähigkeit von Stahl ist etwas geringer als die von reinem Eisen mit 10 * 106 A/(V m).
+So hat Stahl C15 (mit 0,15 % Kohlenstoff) 9,3 * 106A/(V m), Stahl C35 8,6 * 106 A/(V m) und Stahl C60 7,9 * 106 A/(V m).
+Die Leitfähigkeit sinkt also merklich mit steigendem Anteil von Kohlenstoff, bleibt aber deutlich über der von rostfreiem Stahl mit 1 * 106 A/(V m).
+Stahl gilt als sehr fester, aber auch "weicher" Werkstoff, während das verwandte Gusseisen als hart und spröde gilt.
+Festigkeit ist die auf den Querschnitt bezogene Kraft, die der Werkstoff ertragen kann, bevor er versagt (Reißen, Brechen etc.).
+Bauteile aus Stahl können also hohe Kräfte übertragen.
+Stahl gilt als "weich" also verformbar:
+Bevor Stahl bricht, verformt er sich, wobei diese Verformung bei Stahl sehr groß sein kann.
+Gusseisen dagegen bricht ohne vorherige Verformung.
+Stahl hat daher große Sicherheitsreserven gegenüber Bruch, weshalb er bei wichtigen Fahrzeugteilen genutzt wird (Lenkung, Fahrwerk, Antrieb).
+Die Festigkeit liegt bei den am häufigsten verwendeten Stählen, den unlegierten Baustählen, zwischen 180 und 350 N/mm^2.
+Sie nimmt mit steigendem Gehalt an Kohlenstoff und sonstigen Legierungselementen zu.
+Das Verformungsverhalten von Werkstoffen wird in Spannungs-Dehnungs-Diagrammen festgehalten.
+Dabei wird die Kraft auf eine Materialprobe langsam erhöht und die Längenänderung gemessen.
+Im Diagramm wird die Mechanische Spannung (Kraft geteilt durch Querschnittsfläche) und die Dehnung (Längenänderung relativ zur Ausgangslänge) aufgetragen.
+Baustähle weisen eine ausgeprägte Streckgrenze auf:
+Die Spannung steigt zunächst proportional zur Dehnung und fällt dann plötzlich geringfügig ab.
+Das Maximum der Geraden im Diagramm ist die Streckgrenze, bis zu der Stähle im Gebrauchsfall genutzt werden sollen.
+Für die Bearbeitung durch Walzen und Schmieden muss sie überschritten werden.
+Hochfeste Stähle können Festigkeiten über 1000 N/mm^2 erreichen.
+Manche besondere Sorten, wie die für Klaviersaiten, erreichen sogar über 1800 N/mm^2.
+Stahl ist somit weit fester als Holz, Beton und Stein.
+Die auf die Dichte bezogene Festigkeit, die Spezifische Festigkeit, ist bei Stahl sehr hoch gegenüber diesen Werkstoffen.
+Konstruktionen aus Stahl sind somit bei gegebener Tragfähigkeit leichter.
+Übertroffen wird Stahl nur noch von einigen Leichtmetallen wie Aluminium, Magnesium oder Titan.
+Von allen bekannten Werkstoffen zählen Stähle zu denen mit der höchsten Festigkeit.
+Ähnliche, aber geringere Werte erreichen neben Aluminium-, Magnesium- und Titanlegierungen noch CFKs, mit Kohlenstofffasern verstärkte Kunststoffe.
+Die Bruchdehnung, also die Dehnung beim Bruch (Ende der Kurve im Spannungs-Dehnungs-Diagramm), kann bei Tiefziehstahl mit geringer Festigkeit 50 % betragen, höherfeste Stähle (AHSS) haben in der Regel dagegen geringere Bruchdehnungen; Baustähle dehnen sich also sehr weit, bevor sie brechen.
+Im Gegensatz dazu brechen Gusseisen und Keramik bei Überschreiten der Festigkeit ohne vorherige plastische Verformung.
+Der Elastizitätsmodul von gewöhnlichen ferritischen Stählen beträgt 210 GPa (2,1*105 N/mm^2).
+Im Spannungs-Dehnungs-Diagramm ist er als Steigung der Geraden zu erkennen.
+Der E-Modul ist damit etwas höher als der von Gusseisen (170 GPa) und deutlich höher als der von Aluminiumlegierungen (70 GPa).
+Übertroffen wird Stahl nur von wenigen Werkstoffen, darunter Hartmetalle (ca. 500 GPa) und Diamant (900 GPa).
+Die Härte kann bei Stahl in großen Bereichen variieren und Vickershärten zwischen 80 und 940 HV erreichen.
+Weichgeglühte Vergütungsstähle erreichen Härten von 150 bis 320 HV (150 bis 300 Brinell, 1 bis 33 Rockwell), vergütete (gehärtete) Vergütungsstähle liegen bei etwa 210 bis 650 HV.
+Werkzeugstahl erreicht im gehärteten Zustand bis 840 HV.
+Im Vergleich dazu liegen Kupfer- und Aluminiumwerkstoffe zwischen 40 und 190 HV, während Hartmetalle 780 bis 1760 HV erreichen.
+Typische Keramiken sind noch härter.
+Technologische Eigenschaften beziehen sich auf die Be- und Verarbeitung.
+Im Einzelnen handelt es sich um die Gießbarkeit, Schmiedbarkeit, Zerspanbarkeit und Schweißbarkeit.
+Mit Ausnahme der Gießbarkeit sind sie bei den häufig genutzten Sorten gut bis sehr gut.
+Gießbarkeit ist die Eignung eines Werkstoffes, durch Gießen verarbeitet zu werden.
+Gemeint ist hier vor allem das Formgießen, bei dem die Formen schon die Gestalt der späteren Endprodukte enthalten, nicht das Gießen zu Barren.
+Stahl lässt sich vergleichsweise schlecht gießen, weshalb er von allen in der Gießerei verwendeten Werkstoffen einen geringen Massenanteil hat und sowohl von Gusseisen als auch von Aluminium deutlich übertroffen wird, da sich beide viel besser gießen lassen.
+2011 wurden in Deutschland ca. 220.000 Tonnen Stahl in Gießereien genutzt, während es bei Gusseisen ca. 4,2 Mio. Tonnen und bei Aluminium 840.000 Tonnen waren.
+Spezielle Stahlsorten für Gießereien werden als Stahlguss bezeichnet.
+Er neigt zu Warmrissen, die nur mit gießtechnischer Erfahrung beherrschbar sind.
+Außerdem ist der Schmelzpunkt mit 1580 °C bis 1680 °C sehr hoch (Gusseisen 1100 °C, Aluminiumgusslegierungen um 600 °C), was zu einem hohen Energiebedarf beim Schmelzen führt und zu hohen thermischen Belastungen der Formen und Anlagen.
+Stahl neigt beim Formgießen zu Oberflächenanbrennungen mit der Form und es sind große Speiser nötig um den Volumenverlust bei der Abkühlung in der Form auszugleichen.
+Nach dem Erstarren lassen sich die Speiser nur schwer wieder abtrennen.
+Gegossene Werkstücke aus Stahl sind wegen des hohen Fertigungsaufwandes etwa dreimal teurer als solche aus Gusseisen, obwohl wegen der höheren Festigkeit weniger Material benötigt wird.
+Umformbarkeit ist die Eignung eines Werkstoffes, sich durch die Verfahren der Umformtechnik bearbeiten zu lassen.
+Das mit Abstand wichtigste Verfahren der Gruppe ist das Schmieden, weshalb auch von Schmiedbarkeit gesprochen wird.
+Zu der Gruppe zählen aber auch das Biegen, Walzen, Tiefziehen, Fließpressen und viele weitere.
+Die Umformbarkeit ist umso besser, je geringer die nötigen Kräfte sind und je stärker sich der Werkstoff verformen kann, ohne zu brechen oder reißen.
+Die zur Umformung benötigte Kraft wird üblicherweise auf die Querschnittsfläche bezogen und als Fließspannung angegeben.
+Die maximale Dehnung, die ein Werkstoff ertragen kann, ist die Bruchdehnung.
+Bei einfachen Baustählen ist die Fließspannung vergleichsweise gering und die Bruchdehnung sehr hoch.
+Bei hochfesten Stählen ist die Fließspannung naturgemäß höher, es werden aber auch deutlich festere Werkstoffe geschmiedet, darunter Titan-, Nickel- und Kobalt-Legierungen.
+Die Bruchdehnung ist meist umso kleiner je fester ein Stahl ist.
+Eine Ausnahme sind die TRIP-Stähle mit geringer bis mittlerer Fließspannung und hoher Bruchdehnung.
+Bei den meisten Stahlsorten ist die Fließspannung als gering einzustufen.
+Dazu zählen neben den Baustählen die Warmarbeitsstähle und Automatenstähle.
+Aluminium- und Magnesiumlegierungen liegen in einem ähnlichen Bereich.
+Die Bruchdehnung kann jedoch stärker schwanken:
+Bei Automatenstählen ist sie sehr gering, bei Warmarbeitsstählen fast genauso gut wie bei Baustählen.
+Beim Kaltumformen steigt die Fließspannung und somit auch die nötige Kraft je höher der Umformgrad (die Verformung) ist.
+Der Effekt wird als Kaltverfestigung bezeichnet und kann genutzt werden um besonders feste Werkstücke zu schmieden.
+Der genaue Zusammenhang zwischen Fließspannung und Umformgrad wird in Fließkurven festgehalten.
+Bei höheren Temperaturen sinkt bei fast allen Stählen sowohl die Fließspannung als auch die Verfestigung.
+Beim Warmumformen steigt die Fließspannung bereits bei geringen Umformgraden gar nicht mehr.
+Bei Stählen tritt dies bei Temperaturen von etwa 1100 °C auf.
+Die Zerspanbarkeit ist die Eignung eines Werkstoffes, sich durch Zerspanen (Fräsen, Bohren, Schleifen) bearbeiten zu lassen.
+Sie hängt ab vom Kohlenstoffgehalt, den sonstigen Legierungselementen und dem Wärmebehandlungszustand.
+Stähle mit einem sehr niedrigen Kohlenstoffgehalt neigen zum Verkleben mit der Schneide und bilden lange Bandspäne, die sich in der Maschine verfangen können.
+Sie führen jedoch zu geringen Zerspankräften, aber auch zu schlechten Oberflächen.
+Bei mittleren Kohlenstoffgehalten (0,2 % bis 0,6 %) gibt es keine Probleme mit Verklebungen.
+Die Schnittkräfte steigen, die Oberflächen werden besser und die Späne kürzer.
+Dafür nimmt der Verschleiß der Werkzeuge zu.
+Stähle mit einem hohen Kohlenstoffgehalt führen zu hohen Kräften und Temperaturen sowie zu einem hohen Verschleiß.
+Die Oberflächenqualität und der Spanbruch sind jedoch gut.
+Elemente wie Phosphor, Blei und Schwefel begünstigen die Zerspanbarkeit, festigkeitssteigernde Elemente wie Nickel verringern sie.
+Im weichen (normalgeglühten) Zustand sind die meisten Stähle relativ gut zu zerspanen, im vergüteten oder gehärteten Zustand ist der Verschleiß dagegen sehr hoch, was teure Werkzeuge aus Schneidkeramik oder Bornitrid erfordert.
+Die Schweißeignung gibt an, wie gut sich ein Werkstoff schweißen lässt.
+Vor allem die un- und niedrig legierten Baustähle lassen sich sehr gut schweißen, was ein wichtiger Grund für ihre weite Verbreitung ist, da Verbinden durch Schweißen deutlich kostengünstiger ist als durch andere Verbindungstechniken wie Schrauben oder Nieten.
+Höherlegierte Stähle können beim Schweißen problematisch sein.
+Als grobe Abschätzung, ob ein Stahl geschweißt werden kann, kann das Kohlenstoffäquivalent genutzt werden, das den unterschiedlichen Einfluss der verschiedenen Legierungselemente berücksichtigt.
+Aluminium lässt sich meist deutlich schlechter schweißen als Stahl.
+Die Mikrostruktur bestimmt bei Stahl, wie bei vielen Werkstoffen, in hohem Maße die mechanischen Eigenschaften, vor allem die Härte und Festigkeit.
+Die meisten Stähle bestehen neben Eisen und Kohlenstoff noch aus zahlreichen weiteren Elementen, die zumindest als Verunreinigung enthalten sind - die Stahlbegleiter - oder gewollt zulegiert werden, die Legierungselemente.
+Die Mikrostruktur ist daher relativ kompliziert, beruht aber im Wesentlichen auf der Struktur der reinen Eisen-Kohlenstoff-Legierungen (insbesondere bei un- und niedrig legiertem Stahl).
+Deren Struktur basiert wiederum auf derjenigen von reinem Eisen.
+Eisenatome liegen wie bei allen Metallen im festen Zustand in einer regelmäßigen Anordnung vor.
+Unter 911 °C befinden sich die Eisenatome in den Ecken eines gedachten Würfels, in dessen Mitte sich ein weiteres Eisenatom befindet.
+Diese Struktur wiederholt sich in sämtliche Richtungen theoretisch beliebig oft und wird allgemein als kubisch raumzentriert bezeichnet, im Falle von Eisen auch als a {\displaystyle \alpha } -Eisen.
+Oberhalb von 911 °C liegt Eisen in der sogenannten kubisch flächenzentrierten Form vor, bei der wieder in den Ecken eines gedachten Würfels Atome sitzen, aber diesmal zusätzlich in der Mitte jeder Würfelfläche ein weiteres, aber keines in der Mitte des Würfels.
+Diese Variante wird als  {\displaystyle \gamma } -Eisen bezeichnet.
+Der für Stahl wesentliche Unterschied ist die unterschiedliche Dichte:
+In der kubisch flächenzentrierten Form sind die Lücken zwischen den Eisenatomen größer; sie können also leichter durch Atome der Legierungselemente besetzt werden.
+Bei reinen Eisen-Kohlenstoff-Legierungen befindet sich immer Kohlenstoff in den Lücken zwischen den Eisenatomen.
+a {\displaystyle \alpha } -Eisen mit Kohlenstoffatomen wird allgemein als a {\displaystyle \alpha } -Mischkristall bezeichnet, bei Stahl häufig auch als Ferrit (von lateinisch ferrum = Eisen), während das  {\displaystyle \gamma } -Eisen mit eingelagertem Kohlenstoff als  {\displaystyle \gamma } -Mischkristall bezeichnet wird und bei Stahl Austenit genannt wird nach William Austen.
+Austenit kann je nach Temperatur sehr viel Kohlenstoff enthalten, maximal 2,06 Massenprozent, während Ferrit nur maximal 0,03 % Kohlenstoff enthalten kann.
+Die Temperatur, bei der sich Austenit in Ferrit umwandelt, hängt vom Kohlenstoffgehalt ab und lässt sich aus dem Eisen-Kohlenstoff-Diagramm entnehmen.
+In beiden Fällen kommt es zu einer Mischkristallverfestigung, also einer Steigerung der Festigkeit.
+Außer im Eisen-Mischkristall kann Kohlenstoff noch in zwei weiteren Formen vorliegen, insbesondere wenn mehr Kohlenstoff vorhanden ist als im Mischkristall aufgenommen werden kann: Grafit und Zementit.
+Als Grafit werden Bereiche bezeichnet, die nur aus Kohlenstoff bestehen, während Zementit eine chemische Verbindung aus Eisen und Kohlenstoff mit der Formel Fe3C ist.
+Grafit entsteht vor allem bei langsamer Abkühlung nach dem Gießen oder Glühen, während der harte und spröde Zementit bei schneller Abkühlung entsteht.
+Sie führen zu keiner Festigkeitssteigerung.
+Weitere Legierungselemente können in verschiedenen Formen im Stahl vorliegen:
+Die mechanischen Eigenschaften des Stahls (Härte, Festigkeit) können auf verschiedene Weisen verändert werden:
+Die Wärmebehandlungsverfahren werden in mehrere Gruppen eingeteilt:
+Thermische Verfahren ändern die Mikrostruktur durch rein thermische Einflüsse, ohne zusätzlich die chemische Zusammensetzung zu ändern und ohne gleichzeitige mechanische Bearbeitung.
+Sie verändern den Stahl auch chemisch.
+Folgende Verfahren werden angewandt:
+Thermomechanische Verfahren basieren auf einer mechanischen Bearbeitung (Schmieden, Walzen) kombiniert mit einer Wärmebehandlung.
+Von Bedeutung ist das Austenitformhärten, das zur Festigkeitsteigerung dient.

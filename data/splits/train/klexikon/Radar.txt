@@ -1,0 +1,30 @@
+Mit Radar kann man etwas weit Entferntes erkennen, ohne dass man es sieht.
+Man nennt das auch Ortungsverfahren.
+So kann zum Beispiel der Kapitän eines Schiffes auch im Nebel oder bei Dunkelheit mit seinem Radar sehen, ob es andere Schiffe in der Nähe gibt und wie weit diese weg sind.
+Auch die Küstenlinie kann er auf seinem Radar erkennen.
+
+Für das Radarverfahren werden Funkwellen benutzt.
+Das Wort Radar ist eine Abkürzung aus den Anfangsbuchstaben von "radio detection and ranging".
+Das ist Englisch und bedeutet etwa "Ortung von Funk und Messen des Abstandes".
+
+Radar nutzen nicht nur Schiffe, um sich zu orientieren.
+Auch Flughäfen überwachen damit den Luftverkehr.
+Flugzeuge können mit Hilfe von Radar Gebiete mit schlechtem Wetter erkennen und rechtzeitig umfliegen.
+Die Technik des Radars kann man auch verwenden, um zu schnell fahrende Autos zu erkennen und dann die Fahrer zur Kasse zu bitten.
+
+== Wie funktioniert ein Radar?
+
+Die Radarantenne sendet in kurzen Zeitabständen immer wieder Funkimpulse aus, also kurze stoßartige Signale.
+Wenn diese Funkwellen auf ein Hindernis treffen, werden sie wie eine Echo zurückgeworfen und von der Antenne wieder empfangen.
+Ist das Hindernis in der Nähe, dann kommt das Echo schnell zurück, ist es weit entfernt, so dauert es länger.
+Auf diese Weise lässt sich der Abstand zum Hindernis messen.
+
+Da die Radarantenne sich dauernd um ihre eigene Achse dreht, sendet sie die Impulse in alle Richtungen aus.
+So wird die gesamte Umgebung abgetastet.
+Hat sich während einer Umdrehung ein Hindernis bewegt, so kommt das Echo nun aus einer anderen Richtung.
+Man kann so auch die Bewegung erkennen und Geschwindigkeiten messen.
+
+Die Messungen der Radarantenne können auf einem Bildschirm sichtbar gemacht werden.
+Mithilfe von Computern lassen sich noch zusätzliche Informationen auf dem Radarschirm anzeigen.
+Bei Flugplätzen wird zum Beispiel die Kennung eines Flugzeuges mit angezeigt, damit der Floglotse auch alle Flugzeuge auf dem Schirm auseinanderhalten kann.
+

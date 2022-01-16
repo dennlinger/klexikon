@@ -1,0 +1,4 @@
+Mit dem geometrischen Begriff Symmetrie (altgriechisch uia symmetria Ebenmaß, Gleichmaß, aus uv syn "zusammen" und ov metron, Maß) bezeichnet man die Eigenschaft, dass ein geometrisches Objekt durch Bewegungen auf sich selbst abgebildet werden kann, also unverändert erscheint.
+Eine Umwandlung, die ein Objekt auf sich selbst abbildet, heißt Symmetrieabbildung oder Symmetrieoperation.
+Manchmal werden auch zwei (oder mehr) verschiedene geometrische Objekte als zueinander symmetrisch bezeichnet, wenn sie, zusammen betrachtet, eine symmetrische Figur bilden.
+Abhängig von der Zahl der betrachteten Dimensionen gibt es folgende unterschiedliche Symmetrien:

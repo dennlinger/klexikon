@@ -1,0 +1,23 @@
+Eine ganze Zahl ist dann durch eine andere ganze Zahl teilbar, wenn bei der Rechnung kein Rest übrigbleibt.
+Anders gesagt: Das Ergebnis ist eine ganze Zahl.
+
+Die Zahl 8 beispielsweise ist teilbar durch 2 oder durch 4 ohne dass ein Rest entsteht.
+Die Rechnung heißt 8:2=4 oder 8:4=2.
+Dies nennt man Teilbarkeit.
+Es gibt bestimmte Regeln um die Teilbarkeit einer Zahl zu überprüfen.
+Dies erleichtert einem das Rechnen.
+
+Im Alltag ist die Teilbarkeit oft wichtig, beispielsweise wenn Kinder etwas unter sich aufteilen wollen.
+Wenn 4 Kinder zusammensitzen und sie wollen 8 Bonbons unter sich aufteilen, dann gibt es jedem 2.
+Sie haben also keine Schwierigkeiten.
+Haben sie jedoch 11 Bonbons zum Verteilen, dann bleiben 3 übrig.
+Das heißt, bei einer weiteren Verteilrunde geht ein Kind leer aus.
+
+In der Schule hat man mit der Teilbarkeit auch zu tun, wenn es um Bruchrechnungen geht.
+Um einen Bruch kürzen zu können, müssen der Zähler und der Nenner durch dieselbe Zahl teilbar sein.
+Geht das nicht, dann lässt sich der Bruch nicht kürzen.
+
+Eine Zahl, die nur durch 1 oder durch sich selber teilbar ist, nennt man eine Primzahl.
+Primzahlen sind 1,3,5,7,11,13 und so weiter.
+So lassen sich beispielsweise 13 Bonbons auf keine Art und Weise gleichmäßig auf mehrere Kinder aufteilen.
+

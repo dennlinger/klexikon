@@ -1,0 +1,602 @@
+Erdgas ist ein brennbares, natürlich entstandenes Gasgemisch, das in unterirdischen Lagerstätten vorkommt.
+Es tritt häufig zusammen mit Erdöl auf, da es auf ähnliche Weise entsteht.
+Erdgas besteht hauptsächlich aus hochentzündlichem Methan, die genaue Zusammensetzung ist aber abhängig von der Lagerstätte.
+Mitunter ist eine Aufbereitung des Rohgases nötig, um giftige, korrosive und/oder chemisch inerte (nicht brennbare) Bestandteile abzusondern bzw. um Methan anzureichern.
+Wenn allgemein oder in technischem Zusammenhang von "Erdgas" gesprochen wird, dann ist damit zumeist sehr methanreiches Erdgas in Endverbraucherqualität gemeint.
+
+Als fossiler Energieträger dient Erdgas hauptsächlich der Beheizung von Wohn- und Gewerberäumen, als Wärmelieferant für thermische Prozesse in Gewerbe und Industrie (z. B. in Großbäckereien, Ziegeleien, Zementwerken, und in der Montan- und Schwerindustrie), zur Stromerzeugung und als Treibstoff für Schiffe und Kraftfahrzeuge.
+Hinzu treten mengenmäßig bedeutsame Anwendungen als Reaktionspartner in chemischen Prozessen, wo ebenfalls sein Energiegehalt genutzt wird.
+Diese sind beispielsweise die Ammoniaksynthese im Haber-Bosch-Verfahren (Stickstoffdüngemittel), die Eisenerzreduktion im Hochofenprozess oder die Herstellung von Wasserstoff.
+
+== Eigenschaften
+
+=== Allgemeines
+
+Natürliches (rohes) Erdgas ist ein kohlenwasserstoffhaltiges Gasgemisch, dessen chemische Zusammensetzung je nach Fundstätte beträchtlich schwankt, begründet durch die jeweils herrschenden Bedingungen während Bildung, Migration und Verweilen in der Lagerstätte.
+
+Der Hauptbestandteil ist meist Methan.
+Dessen Anteil liegt in vielen Erdgaslagerstätten zwischen 75 und 99 Mol-%.
+Rohgas mit erhöhten Anteilen an Ethan (1 % bis 15 %), Propan (1 % bis 10 %), Butan, Ethen und Pentanen wird nasses Erdgas genannt, was sich auf diese unter Druck leicht verflüssigbaren gasförmigen Kohlenwasserstoffe bezieht, die im Englischen auch Natural Gas Liquids (NGL) genannt werden.
+Die Bezeichnung nasses Erdgas wird aber auch für Rohgas mit einem relativ hohen Wasserdampfanteil verwendet (trockenes Erdgas hat einen generell niedrigen Anteil an leicht kondensierbaren Gasen, seien es NGL oder Wasserdampf).
+Rohgas mit einem sehr niedrigen Methan-Anteil (z. B. 30 %) wird Magergas genannt.
+
+Weitere Nebenbestandteile von Rohgas können sein: Schwefelwasserstoff (häufig zwischen 0 % und 35 %), Stickstoff (häufig zwischen 0 % und 15 %, in Extremfällen bis zu 70 %) und Kohlenstoffdioxid (häufig zwischen 0 % und 10 %).
+Rohgas mit einem bedeutenden Schwefelwasserstoff-Gehalt wird Sauergas genannt.
+Zudem kann es einen erheblichen Gehalt an stark riechenden organischen Schwefelverbindungen (Alkanthiole, Carbonylsulfid) aufweisen.
+Ferner enthält rohes Erdgas Edelgase.
+Rohgas, das bis zu 7 % Helium enthält, ist von großem Wert und Hauptquelle der Heliumgewinnung.
+
+Schwefelwasserstoff, Kohlenstoffdioxid und Wasser müssen mit Verfahren wie der Gaswäsche (u. a. speziell der Entschwefelung) zunächst abgetrennt werden, da sie zum Teil giftig sind, zu Umweltschadstoffen (beispielsweise Schwefeldioxid) verbrennen, korrosiv wirken oder stärker als Methan zu Hydratbildung neigen.
+Auf einer Offshore-Förderplattform können dabei täglich bis zu 28.000 Tonnen an Nebenbestandteilen anfallen.
+
+Neben den genannten Gasen kann Rohgas auch feste Bestandteile wie Sandkörner oder Tonpartikel des Lagerstättengesteins, sowie etwas elementaren Schwefel (einige Gramm pro Kubikmeter) und Quecksilber (wenige Milligramm pro Kubikmeter) enthalten.
+Auch diese Stoffe müssen zuvor abgetrennt werden, da sie giftig sind und/oder Schäden an Förder- und Transportanlagen hervorrufen.
+
+=== Physikalisch-technische Eigenschaften 
+
+Erdgas ist ein brennbares, farb- und in der Regel geruchloses Gas mit einer Zündtemperatur von rund 600 °C.
+Es besitzt eine geringere Dichte als Luft.
+Zur vollständigen Verbrennung von 1 Kubikmeter Erdgas werden ungefähr 10 Kubikmeter Luft benötigt.
+Bei der Verbrennung entstehen als Reaktionsprodukte im Wesentlichen Wasser und Kohlenstoffdioxid.
+Daneben können noch geringe Mengen Stickoxide, Schwefeldioxid, Kohlenmonoxid und Staub entstehen.
+Um eventuelle Leitungslecks riechen zu können, wird aufbereitetes Erdgas vor der Einspeisung ins Netz mit einem Duftstoff versehen.
+Bei dieser Odorierung werden vorrangig Thioether (beispielsweise Tetrahydrothiophen) oder Alkanthiole (etwa Ethylmercaptan und tertiäres Butylmercaptan) in geringsten Mengen zugesetzt.
+Diese Duftstoffe, und nicht die Hauptbestandteile des Erdgases, sind für den klassischen Gasgeruch verantwortlich.
+
+Aus technischer Sicht ist Erdgas ein Brenngas.
+Innerhalb der Brenngase wird es gemäß dem DVGW Arbeitsblatt G260 zur Gasfamilie 2 (methanreiche Gase) gerechnet.
+Diese werden nach ihrem Wobbe-Index, der ein Maß für den Energiegehalt (Energiedichte) ist und von der genauen Zusammensetzung des Gases abhängt, in zwei Typen unterschieden: H-Gas (von engl. high gas, hoher Energiegehalt, auch Erdgas schwer genannt) hat einen höheren Anteil an Kohlenwasserstoffen und einen entsprechend geringen Inertgasanteil (bei Erdgas vor allem Stickstoff und Kohlenstoffdioxid), während L-Gas (von engl. low gas, niedriger Energiegehalt, auch Erdgas leicht) einen höheren Inertgasanteil aufweist.
+In Deutschland verwendetes H-Erdgas aus den GUS-Staaten besteht aus circa 98 % Methan, 1 % weiteren Alkanen (Ethan, Propan, Butan, Pentan) und 1 % Inertgasen.
+H-Erdgas aus der Nordsee besteht aus circa 89 % Methan, 8 % weiteren Alkanen und 3 % Inertgasen.
+L-Erdgas aus den Niederlanden und Norddeutschland besteht aus etwa 85 % Methan, 4 % weiteren Alkanen und 11 % Inertgasen.
+Der Brennwert Hs (früher Ho) variiert entsprechend zwischen 10 kWh/kg (36 MJ/kg) bzw. 8,2 kWh/m^3 (30 MJ/m^3) bei L-Gas und 14 kWh/kg (50 MJ/kg) bzw. 11,1 kWh/m^3 (40 MJ/m^3) bei H-Gas.
+Der Heizwert Hi (früher Hu) liegt jeweils etwa 10 % unter diesen Werten.
+Die Dichte variiert zwischen 0,700 kg/ m^3 (H-Gas) und 0,840 kg/m^3 (L-Gas).
+Der Siedepunkt der kondensierten Kohlenwasserstofffraktion liegt im Allgemeinen etwas höher als der von reinem Methan (-161 °C).
+
+Bei der Klassifikation von Prüfgasen für Gasgeräte werden nach (DIN) EN 437 Typ LL (low-low) und Typ E (Europe) unterschieden.
+Dabei entspricht Typ LL dem L-Gas und Typ E dem H-Gas.
+
+== Entstehung
+
+Rohes Erdgas entsteht oft durch die gleichen geologischen Prozesse, die auch zur Entstehung von Erdöl führen.
+Erdöl und Erdgas kommen daher nicht selten zusammen in einer Lagerstätte vor.
+Dieses Erdgas entstand in geologischen Zeiträumen aus Massen von abgestorbenen und abgesunkenen marinen Kleinstlebewesen (überwiegend einzellige Algen), die zunächst unter sauerstofffreien Bedingungen am Meeresboden in einen Faulschlamm (Sapropel) umgewandelt wurden.
+Im Laufe von Jahrmillionen kann dieser durch Subsidenz in tiefere Regionen der oberen Erdkruste versenkt und dort hohen Drücken und vor allem hohen Temperaturen ausgesetzt werden, die für die Umwandlung der organischen Substanzen in Erdgas sorgen (siehe auch Entstehung von Erdöl).
+Auch Steinkohleflöze enthalten Erdgas.
+Dieses Gas stellt als schlagende Wetter eine große Gefahr im Kohlebergbau dar.
+Als Kohleflözgas wird es mittels Bohrungen aus tiefliegenden Steinkohleflözen gewonnen (siehe auch Lagerstättentypen).
+
+Wirtschaftlich lohnende Erdgasmengen können aber auch infolge einer mikrobiellen Zersetzung organischer Sedimente an Ort und Stelle entstehen, das heißt ohne bedeutende thermische Prozesse und ohne wesentliche Migration.
+Gasvorkommen mit dieser Entstehungsgeschichte finden sich zum Beispiel im Voralpenland Oberösterreichs und Oberbayerns sowie im Wiener Becken.
+Mit einem Alter von nur 20 Millionen Jahren handelt es sich um geologisch sehr junge Lagerstätten.
+
+Das im Erdgas enthaltene Helium entstammt radioaktivem Alpha-Zerfall von Elementen, die als Bestandteile von Mineralen in den magmatischen Gesteinen des Grundgebirges eines Sedimentbeckens enthalten sind.
+Das sehr mobile Helium migriert, wie die gasförmigen Kohlenwasserstoffe, im Poren- und Kluftraum der Gesteine in Richtung der Erdoberfläche und reichert sich in konventionellen Erdgaslagerstätten an.
+
+== Verwendung
+
+=== Geschichte als Energierohstoff
+
+Schon im 3. Jahrhundert v.
+Chr. soll in der chinesischen Provinz Sichuan erstmals Erdgas aus einer Bohrung gefördert und dazu genutzt worden sein, um Salzsiedepfannen zu befeuern.
+Die darin eingedampfte Sole wurde ebenfalls aus Bohrungen gewonnen und die Erdgasfunde waren lediglich ein Nebeneffekt der Suche nach Sole.
+Andere Quellen nennen das 11. Jahrhundert n. Chr. als frühesten Zeitraum für die Nutzung von Erdgas als Brennstoff in den Siedesalinen von Sichuan.
+Ab dem 16. Jahrhundert erlaubte es der Stand der Technik Erdgas aufzufangen, das direkt aus den zunehmend tiefer hinabreichenden Solebohrungen entwich.
+
+Im Jahr 1626 berichteten französische Missionare über "brennende Quellen" in flachen Gewässern von Nordamerika.
+Eine größere industrielle Nutzung von Erdgas begann in den USA im Jahr 1825 im Ort Fredonia im Westen des Bundesstaates New York.
+Hier legte ein gewisser William H. Hart einen Schacht zur Erdgasgewinnung für die Beleuchtung einer Mühle und eines Wohnhauses an.
+Hart nutzte Erdgas auch zur Beleuchtung eines Leuchtturms am Eriesee.
+Er gründete im Jahr 1858 die erste Erdgasgesellschaft, die Fredonia Gas Light Company.
+Ab 1884 wurde Erdgas in Pittsburgh in der Glas- und Stahlindustrie verwendet.
+Das Gas wurde via Pipeline aus Murrysville, heute etwa 35 km östlich von Pittsburgh gelegen, in die Stadt geliefert.
+Damit war Pittsburgh die erste Stadt der Welt, die an eine Erdgaspipeline angeschlossen war.
+
+Nordamerika, insbesondere die USA, hatte bis 1950 die höchste Nutzung von Erdgas der Welt (US-Förderanteil 1950 etwa 92 % der Weltproduktion, 1960 US-Förderanteil der Weltproduktion 80,2 %).
+In der Bundesrepublik Deutschland betrug die Energienutzung von Erdgas Anfang der 1960er Jahre nur 1 % der fossilen Primärenergie, 1970 waren es etwa 5 %.
+
+Erdgas wurde ursprünglich bei der Gewinnung von Erdöl lediglich abgefackelt.
+Zunächst wurde Erdgas in den USA (seit Anfang der 1920er Jahre) und später in Europa (seit den 1960er Jahren) als Energierohstoff für die Wirtschaft genutzt.
+
+In einigen Ländern wird Erdgas auch heute noch abgefackelt, da der Transport des Gases kostenaufwändig ist.
+In den USA wurden in den letzten Jahren viele Gas-und-Dampf-Kombikraftwerke zur Stromgewinnung auf Erdgasbasis gebaut, diese haben einen sehr hohen Wirkungsgrad (rund 60 %) und können dazu noch die Abwärme als Fernwärme zur Beheizung von Wohnhäusern nutzen.
+
+=== Nutzung
+
+==== Strom- und Wärmeproduktion
+
+Erdgas wird in Deutschland und in vielen anderen Industrieländern im Wesentlichen zur Versorgung mit Nutzwärme in der Industrie und in Wohngebäuden genutzt.
+Mit einem Anteil von 25,6 % haben Gase, die neben Erdgas auch Flüssiggas, Raffineriegas, Kokereigas und Gichtgas beinhalten, den zweitgrößten Anteil vom Endenergieverbrauch in Deutschland im Jahr 2018.
+Den größten Anteil hatten mit 30 % Kraftstoffe und übrige Mineralölprodukte ohne Heizöle.
+In der Schweiz lag der Anteil am Endenergieverbrauch 2018 bei 13,5 %.
+Erdgas wird nach Prognosen der Internationalen Atomenergiebehörde (IAEA) bis zum Jahre 2080 mit einem Anteil von mehr als 50 % zum wichtigsten fossilen Energieträger werden.
+
+In einigen Ländern spielt auch die Stromproduktion aus Gas eine große Rolle (Russland: ca. 50 % Anteil).
+Aus Zahlen des Fraunhofer ISE geht hervor, dass der Anteil von Erdgas an der Stromerzeugung in Deutschland im Jahr 2018 bei 8,14 % lag.
+Erdgas wird in Gasturbinenkraftwerken, GuD-Kraftwerken sowie Gasmotorenkraftwerken verstromt.
+Diese Kraftwerke werden in Deutschland in erster Linie zur Deckung von Spitzenlast verwendet, die Leistung der dort genutzten Gasturbinen kann - im Vergleich zu Kohle- und Kernkraftwerken - gut (das heißt: zeitnah) geregelt werden.
+
+==== Treibstoff für Kraftfahrzeuge
+
+Erdgas wird seit einigen Jahren auch verstärkt als Kraftstoff für entsprechend motorisierte Kraftfahrzeuge verwendet.
+Lagerung, Transport und Betankung erfolgen entweder als Compressed Natural Gas (CNG, komprimiertes Erdgas), das heißt stark verdichtetes, aber nach wie vor gasförmiges Erdgas, oder als Liquified Natural Gas (LNG, verflüssigtes Erdgas), das heißt durch starke Abkühlung verflüssigtes und durch Lagerung in speziellen Kryotanks kühl und flüssig gehaltenes Erdgas.
+
+Erdgas als Treibstoff für Autos ist nicht zu verwechseln mit Autogas.
+Dieser auch mit NGL (Natural Gas Liquids) oder LPG (Liquefied Petroleum Gas) abgekürzte Brennstoff enthält kein Methan, sondern besteht überwiegend aus den langkettigeren Alkanen Propan und Butan, die im Erdgas nur in geringen Mengen vorhanden sind.
+Das an Tankstellen angebotene Autogas entstammt meistens der Erdölraffination.
+
+Der Vorteil von Erdgas und Autogas liegt in der gegenüber Benzin und Diesel saubereren Verbrennung.
+Dies liegt im Fall von Erdgas/CNG einerseits daran, dass der Kraftstoff im Verbrennungsraum bereits homogen gasförmig vorliegt, und nicht in zerstäubter Form wie im Fall von Benzin und Diesel, andererseits daran, dass die Molekülketten nur ca. halb so viel Kohlenstoffatome im Verhältnis zu den Wasserstoffatomen enthalten wie in Benzin und Diesel, also bei der Verbrennung mit Sauerstoff mehr Wasser (H2O) und weniger Kohlendioxid (CO2) und Ruß entsteht.
+Daher genießen beide Kraftstoffe in Deutschland steuerliche Vergünstigungen.
+Mit Beschluss des Bundestages vom 27. August 2017 zum zweiten Änderungsgesetz unter anderem des Energiesteuergesetzes wurde die steuerliche Begünstigung von Erdgas als Kraftstoff zwar über das Jahr 2018 hinaus verlängert, jedoch wird sich der reduzierte Steuersatz von derzeit 13,9 Euro/MWh (ca. 0,18 Euro/kg, H-Gas-Qualität*) ab dem 1. Januar 2024 bis zum 31. Dezember 2026 schrittweise auf 27,33 Euro/MWh (ca. 0,35 Euro/kg) erhöhen.
+Zum Vergleich: bei Benzin liegt der Steuersatz aktuell (2018) bei rund 77,00 Euro/MWh.
+In Deutschland kann Erdgas (CNG) für Preise zwischen 0,79 Euro/kg und 1,27 Euro/kg getankt werden.
+Der Durchschnittspreis beträgt 1,06 Euro/kg (Stand August 2018).
+
+Eine Alternative zu reinem Erdgas ist HCNG, eine Mischung aus komprimiertem Erdgas und Wasserstoff, mit der jedes Fahrzeug betrieben werden kann, das über einen herkömmlichen Erdgasmotor verfügt.
+Das Gleiche gilt für Biogas.
+
+== Preisentwicklung
+
+Die Gaspreise erreichten 2008/09 ihren Höhepunkt.
+Der anschließend einsetzende Shale-Gas-Boom in den USA sorgte dort für deutlich niedrigere Erdgaspreise als im Rest der Welt.
+
+Zum Jahresende 2015 war jedoch ein globales Überangebot erreicht.
+Mit den zunehmenden Möglichkeiten des LNG-Imports mit Schiffen nach Europa kam es auch hier zu einem Zusammenbruch der Großhandelspreise.
+
+2016 nahm die US-Firma Cheniere Energy den LNG-Export nach Europa auf.
+Die Chemiefirma Ineos bezieht seit September 2016 Ethan aus den USA.
+
+== Vorkommen
+
+1844 wurde in Europa erstmals Erdgas im Gebiet des Wiener Ostbahnhofs gefunden.
+1892 folgten Funde bei Wels.
+Im 20. und 21. Jahrhundert ausgebeutete große Gasfelder sind das Troll-Feld in Norwegen, das Nord-Feld in Katar und das Gasfeld Urengoi in Russland.
+Des Weiteren werden noch große, unerschlossene Gasfelder im Iran vermutet.
+Methan in Gashydraten wird in großer Menge nicht nur im Bereich des Kontinentalschelfs vermutet, sondern auch in Permafrostböden in Sibirien, Kanada und Alaska.
+
+Die Vereinigten Staaten sind neben Russland das Land mit der höchsten Förderrate für Erdgas.
+Sie förderten im Jahr 2006 etwa 524 Milliarden Kubikmeter Erdgas.
+Bis zum Jahr 1999 hatten sie 94.000 Bohrungen im eigenen Land vorgenommen.
+
+=== Suche nach Lagerstätten
+
+Ziel der Erdgasexploration ist das Auffinden von Erdgaslagerstätten.
+Im Vordergrund des Interesses stehen Lagerstättentypen, die mittels herkömmlicher Förderverfahren mit verhältnismäßig geringem Aufwand ausgebeutet werden können.
+Solche Vorkommen werden entsprechend als konventionelle Vorkommen bezeichnet.
+Erkundungen, die von Geologen und Geophysikern privater oder staatlicher Erdöl- und Erdgasfirmen unternommen werden, konzentrieren sich daher auf die Identifizierung geologischer Verhältnisse, die die Anwesenheit konventioneller Vorkommen im Untergrund wahrscheinlich machen.
+
+Konventionelle Erdgasvorkommen bestehen aus einem porösen und permeablen, mit Erdgas gesättigten Speichergestein, das sich unterhalb einer geringporösen impermeablen Gesteinsschicht, dem Deckgestein, befindet.
+Speicher und Deckgestein müssen zusätzlich Teil einer geologischen Struktur sein, die erst die Anreicherung von Gas zu abbauwürdigen Mengen ermöglicht.
+Solche Strukturen heißen Erdgasfallen.
+Das Erdgas kann so weder nach oben noch seitlich entweichen, und steht, da es sich tief unter der Erde befindet, unter hohem Druck.
+
+Die Auswertung von Satelliten- oder Luftbildern oder die mittels klassischer Kartierung aufgenommene Oberflächengeologie können dazu dienen, fossile Sedimentbecken zu identifizieren.
+Möglicherweise geben im Gelände angetroffene Erdgas-Austritte (z. B. Schlammvulkane) direkte Hinweise auf Gasvorkommen im Untergrund.
+Erste nähere Untersuchungen der Geologie des tieferen Untergrundes erfolgen oft durch seismische Messungen.
+Dabei werden Druckwellen (im Prinzip Schall), erzeugt mittels Sprengungen in flachen Bohrlöchern oder mit Hilfe von Vibratoren, in den Erdboden geschickt.
+Die Schallwellen werden dabei von bestimmten Erdschichten, sogenannten Reflektoren, zur Erdoberfläche zurückgeworfen, wo sie von hochsensiblen Erschütterungsmessern, sogenannten Geophonen registriert werden.
+Aus den Zeitdifferenzen zwischen "Abschuss" der Welle und Registrierung durch die Geophone ergibt sich die Tiefenlage einzelner Reflektoren.
+Wenn Schallquellen und Messstellen netzförmig an der Erdoberfläche angeordnet sind, kann aus den ermittelten Daten ein dreidimensionales seismisches Modell des Untergrundes erstellt werden (3D-Seismik).
+Aus diesem Modell lassen sich Erkenntnisse über die Geologie des Untergrundes gewinnen, anhand derer festgelegt wird, auf welche Bereiche der seismisch erkundeten Region sich die weitere Explorationsarbeit konzentriert.
+
+An besonders vielversprechenden Stellen werden Probebohrungen niedergebracht.
+Hierbei wird die Interpretation des seismischen Modells mit der tatsächlich erbohrten Geologie abgeglichen und entsprechend verfeinert.
+Das Antreffen gasgesättigten Sedimentgesteins in einer vorhergesagten Tiefe bestätigt dann die Interpretation einer im seismischen Profil erkennbaren Struktur als Erdgasfalle.
+
+Interessiert man sich nach Beginn der Förderung für Veränderungen des Fluidgehalts einer Lagerstätte, kann eine so genannte 4D-Seismik durchgeführt werden.
+Hierbei erkennt man die durch die Förderung entstehenden Veränderungen oder noch vorhandene Vorräte einer Lagerstätte.
+
+=== Lagerstättentypen
+
+==== Konventionelle Lagerstätten
+
+Der bisher am häufigsten erschlossene Erdgaslagerstättentyp sind Gasvorkommen in porösen und permeablen Gesteinen (z. B. Sandsteine, Massenkalke) unterhalb geringporöser, impermeabler Gesteine (Tonsteine, Mergelsteine, feinkörnige Kalksteine).
+Das Gas ist hierbei im Porenraum der permeablen Gesteine aus noch größerer Tiefe nach oben gestiegen (migriert), wo der weitere direkte Aufstieg durch das impermeable Deckgestein verhindert wird.
+Besondere Voraussetzung für die Bildung einer Lagerstätte ist jedoch die Existenz geologischer Strukturen, die eine seitliche Migration des Gases unterhalb des Deckgesteins verhindern und somit überhaupt erst eine Anreicherung größerer Gasmengen im dann als Speichergestein bezeichneten porösen Gestein ermöglichen.
+Solche Strukturen, die sowohl sedimentären als auch tektonischen Ursprungs sein können, werden Erdgasfallen genannt.
+Dies können u. a. "ertrunkene" fossile Riffkörper sein oder die Flanken eines Salzstockes.
+
+Sehr häufig tritt Erdgas aufgrund seiner geringeren Dichte in den obersten Bereichen einer konventionellen Erdöllagerstätte auf.
+Man spricht hierbei von assoziiertem ("mit Öl vergesellschaftetem") Erdgas.
+Reine Erdöllagerstätten ohne Gas sind eher die Ausnahme, da sich in Erdölmuttergesteinen stets auch Gas bildet und beides zusammen in die Lagerstätten migriert.
+Das bei der Erdölgewinnung anfallende Erdgas wird abgetrennt und gesondert verarbeitet oder aber, insbesondere bei der Offshore-Ölförderung, einfach abgefackelt (d. h., noch an Ort und Stelle der Förderung mit einer Gasfackel verbrannt).
+Weil Erdgas eine deutlich höhere Mobilität als Erdöl besitzt, läuft dessen Migration leichter ab.
+Deshalb sind reine Erdgaslagerstätten konventionellen Typs, sogenanntes nicht-assoziiertes Erdgas, relativ häufig.
+
+==== Unkonventionelle Lagerstätten
+
+Als unkonventionell werden Lagerstätten bezeichnet, die nicht dem konventionellen Erdgasfallen-Typ entsprechen und aus denen meist nur mit erheblichem Aufwand Gas gefördert werden kann (z. B. durch sogenanntes Fracking).
+In den USA werden bereits 40 % der gesamten Gasproduktion aus unkonventionellen Vorkommen gefördert.
+
+Auch in Kohleflözen ist Erdgas gebunden, welches auch als Grubengas bezeichnet wird.
+Methan wird von Kohle an seiner großen inneren Oberfläche in bedeutendem Umfang adsorbiert.
+In größeren Tiefen kann durch den höheren Druck Kohle proportional mehr Erdgas enthalten und entsprechend mehr durch Entspannen und Abpumpen gefördert werden.
+Kohleflöze können auch durch Untertagevergasung in ein erdgasähnliches Brenngas umgewandelt werden.
+
+In den USA werden 10 % des Erdgases aus Kohleflözen gewonnen, dies waren im Jahr 2002 etwa 40 Milliarden Kubikmeter.
+In den USA wurden 11.000 Bohrungen durchgeführt, um diesen Lagerstättentyp zu erschließen.
+In Deutschland werden die Erdgasreserven in Kohleflözen auf etwa 3.000 Milliarden Kubikmeter geschätzt.
+Weltweit schätzt man die Erdgasreserven in Kohleflözen auf 92.000 bis 195.000 Milliarden Kubikmeter.
+
+Bei hohem Druck und tiefen Temperaturen bildet Methan zusammen mit Wasser einen eisähnlichen Feststoff, sogenanntes Methanhydrat.
+Ein Kubikmeter Gashydrat enthält etwa 164 Kubikmeter Methangas.
+In den Meeresböden der heutigen Kontinentalschelfe und -hänge, ab etwa 300 Meter unterhalb des Meeresspiegels, sowie in Permafrostböden gibt es erhebliche Vorkommen.
+Das Methan stammt aber vermutlich nur teilweise aus "undichten" Erdgaslagerstätten.
+Der andere Teil entstammt der Tätigkeit von Mikroorganismen im Boden bzw. Meeresboden.
+
+"Tight Gas" findet sich in "zerstörten" Speichergesteinen (sogenannten tight gas sands oder tight gas carbonates), d. h. in Gesteinen, die einst porös und permeabel genug waren, dass Erdgas dort hinein migrieren konnte.
+Fortschreitende Diagenese mit verstärkter Kompaktion des Speichergesteins bzw. zusätzlichem Wachstum von Mineralkörnern führte zu einer deutlichen Verringerung des Porenraumes und einem Verlust der Poreninterkonnektivität.
+Durch den damit einhergehenden Verlust der Permeabilität, ist eine ökonomisch sinnvolle Erdgasförderung mit konventionellen Methoden aus diesen Gesteinen unmöglich.
+
+Nach einer allgemeineren Definition von Tight-Gas-Lagerstätten bezeichnet der Begriff alle nicht-konventionellen Vorkommen, die zwar tief unter der Erde liegen, aber durch herkömmliche Förderverfahren nicht rentabel bewirtschaftet werden können bzw. keine wirtschaftlich lohnenden Mengen an Erdgas liefern.
+Unter diese Definitionen fallen nicht nur Erdgaslagerstätten in diagenetisch "zerstörten" Speichergesteinen, sondern auch Schiefergas- und Kohleflözgas-Lagerstätten.
+
+Im Gegensatz zu Tight Gas im engeren Sinne ist Schiefergas ("Shale Gas") gar nicht erst dazu gekommen, in ein (ursprünglich) poröseres Gestein zu migrieren, sondern befindet sich noch in seinem Muttergestein, einem primär kohlenstoffreichen Tonstein ("Ölschiefer" im weitesten Sinn).
+
+Außerdem kann eine erhebliche Erdgasmenge in sehr tiefen Grundwasserschichten eines Aquifers gelöst sein.
+
+=== Vorräte
+
+Die Menge des in Lagerstätten enthaltenen Erdgases liegt laut Schätzungen der Bundesanstalt für Geowissenschaften und Rohstoffe über die weltweiten Erdgasressourcen und -reserven bei 819.000 Milliarden Kubikmeter Erdgas.
+Dabei liegen Erdgasreserven, d. h. derzeit technisch und wirtschaftlich gewinnbare Mengen, bei 192.000 Milliarden Kubikmetern.
+Bei weltweit gleichbleibender Erdgasförderung von etwa 3.200 Milliarden Kubikmetern pro Jahr entspricht dies einer statischen Reichweite von etwa 60 Jahren.
+Diese Zahlen beinhalten die gemeinsame Betrachtung von konventionellem und dem bereits seit einigen Jahren wirtschaftlich geförderten nicht-konventionellen Erdgas und umfasst Schiefergas (Shale Gas), Kohleflözgas (coal bed methane, CBM) sowie Erdgas in dichten Sandsteinen und Karbonaten (Tight Gas).
+Tight Gas wird derzeit überwiegend in den Vereinigten Staaten gefördert, wobei eine strikte Abgrenzung vom konventionellen Erdgas nicht mehr stattfindet.
+Auch in Deutschland wird seit Jahren Erdgas aus dichten Sandsteinen produziert und gemeinsam mit konventionellem Erdgas ausgewiesen.
+Nicht enthalten sind darin die Ressourcen von Aquifergas und Erdgas aus Gashydrat, da derzeit noch offen ist, ob und wann dieses Potenzial kommerziell genutzt werden kann.
+Insgesamt gibt es hier ein Potenzial von bis zu 1.800.000 Milliarden Kubikmeter.
+
+Zur Lage der konventionellen und unkonventionellen Vorkommen von Erdöl und Erdgas auf der Erde siehe auch Erdölgewinnung.
+
+== Erdgasindustrie
+
+=== Gewinnung
+
+Erdgas wird durch Bohrungen entweder in reinen Erdgasfeldern gewonnen oder als Nebenprodukt bei der Erdölförderung.
+Da das Erdgas in der Regel unter hohem Druck (manchmal circa 600 bar) steht, fördert es sich sozusagen von selbst, sobald das Reservoir einmal geöffnet ist.
+
+Im Laufe der Zeit nimmt der Gasdruck der Lagerstätte stetig ab.
+Die Exploration erfolgt heutzutage zunächst mit dreidimensionalen physikalischen Seismographen, dann durch geochemische Methoden und schließlich durch eine Erdbohrung.
+
+==== Erschließung und Förderung an Land (Onshore)
+
+Beim Bohren nach Erdgas wird häufig eine Tiefe von 4-6 Kilometer, bei Erkundungsbohrungen manchmal bis 10 Kilometer erreicht.
+Es gibt auch Bohrer, die nicht nur senkrecht, sondern auch schräg bis horizontal ins Gestein bohren können (insbesondere für Offshore-Bohrungen entwickelt).
+Beim Bohren muss das Gestein zerstört und nach oben befördert werden, ein Mantel muss den Bohrhohlraum schützen.
+
+Im sogenannten Rotary-Bohrverfahren befindet sich der Bohrmeißel in einem ummantelten Bohrgestänge, das an einem Flaschenzug im Bohrturm (Höhe: 20 bis 40 Meter) befestigt ist.
+
+Beim Bohren können Instabilitäten im Gestein und ein Verlust an Bohrflüssigkeit auftreten, daher müssen zur Stabilisierung Rohrstränge (auch Casing genannt) in die Bohrung eingebracht werden.
+Nachfolgend wird dann mit einem geringeren Durchmesser weitergebohrt.
+
+Der Bohrloch-Durchmesser nimmt mit zunehmender Tiefe ab (von etwa 70 cm auf 10 cm).
+In der Mantelschicht (zwischen Bohrgestänge und dessen Ummantelung) strömt eine wässrige Tonsuspension ("Bohrschlamm") zur Kühlung des Bohrmeißels, zur Stabilisierung des Bohrlochs und zur Förderung des Bohrkleins.
+Im Zuge der Komplettierung der Bohrung wird zwischen dem Förderstrang und der Bohrlochauskleidung (Casing) knapp oberhalb der Erdgas führenden Schicht eine Dichtungsmanschette - Packer genannt - im Bohrloch platziert.
+Eine fertig ausgebaute und zur Förderung genutzte Bohrung mitsamt ihrer oberirdischen Aufbauten wird als Sonde bezeichnet.
+Zu diesen Aufbauten gehört speziell das Eruptionskreuz, das die Bohrung an ihrem oberen Ende, am sogenannten Bohrlochkopf, abschließt.
+Es umfasst zwei Hauptschieber, von denen einer als automatischer Sicherheitsabsperrschieber ausgerüstet ist, der bei kritischen Betriebsbedingungen die Sonde automatisch sperrt.
+Vom Bohrloch weg erfolgt die Ableitung des Gases über weitere Schieber und den Düsenstock - in der Regel mit einem Betriebsdruck von etwa 70 bar - zur Sammelstelle (onshore ist das zunächst eine Feldstation von wo aus das Gas zu einer zentralen Verdichterstation weitergeleitet wird, wo in der Regel zumindest bereits eine Teilaufbereitung, und auch ggf. Verschnitt und die Einspeisung ins Netz erfolgen).
+
+Die Bohrkosten machen bis zu 80 % der Aufwendungen bei den Erschließungskosten einer Erdgaslagerstätte aus.
+
+==== Induzierte Seismizität
+
+Die Förderung konventionellen Erdgases kann zu leichten, quasi-menschgemachten Erdbeben führen, wenn sich durch die Druckentlastung und einhergehende Kompaktion der Lagerstättengesteine die Spannungsverhältnisse im Bereich der Lagerstätte derart stark ändern, dass es an nahegelegenen Verwerfungen zu Bewegungen kommt.
+Ein Beispiel gibt das Gasfeld Groningen in der gleichnamigen Provinz im gemeinhin als aseismisch geltenden Norden der Niederlande.
+Nach fast 30 Jahren Förderung aus Oberrotliegend-Sandsteinen in 2600 bis 3200 m Tiefe wurde dort Ende 1991 erstmals seismische Aktivität verzeichnet, deren Häufigkeit und Höchststärke in den Folgejahren erheblich zunahm.
+Die bislang stärksten Beben ereigneten sich am 8. August 2006 (ML 3,5), am 16. August 2012 (ML 3,6) sowie am 8. Januar 2018 und am 22. Mai 2019 (jeweils ML 3,4).
+Zwar hat die niederländische Regierung die genehmigten Fördermengen bereits im Jahr 2016 auf 24 Milliarden m^3/Jahr etwa halbiert und ab dem 1. Oktober 2017 um weitere 10 % auf 21,4 Milliarden m^3/Jahr gekürzt, aber die Kosten für die Behebung der Schäden (u. a. Risse in Gebäuden) belaufen sich inzwischen (Stand 2018) auf rund 1,5 Milliarden Euro.
+Unklar ist, ob das Ausmaß der seismischen Aktivität stärker mit der kumulierten Gesamtfördermenge zusammenhängt oder mit der Förderrate (Fördermenge pro Zeiteinheit).
+Während ein zunehmend ausgeförderter Speichergesteinskörper generell anfälliger für seismische Reaktionen zu sein scheint, könnten konstante niedrige Förderraten dafür sorgen, dass der Abbau von Spannungen in der Lagerstätte vorwiegend nur durch "aseismisches Kriechen" erfolgt.
+Ein weiteres der stärksten induzierten Erdbeben in den Niederlanden ereignete sich am 9. September 2001 (ML 3,5) in dem im Vergleich zu Groningen deutlich kleineren und auch seismisch deutlich weniger aktiven Erdgasfeld Bergenermeer bei Alkmaar in der Provinz Noord-Holland.
+Auch aus den Erdgasfeldern Nordwestdeutschlands, aus der Gegend um Cloppenburg, ist seismische Aktivität mit Magnituden von ML 2,5 bis 3,0 bekannt.
+
+==== Erschließung und Förderung im Meer (Offshore)
+
+Wirtschaftlich sinnvoll förderbare Erdgasvorkommen finden sich nicht nur im Untergrund der Festländer, sondern auch in jenen Bereichen der oberen kontinentalen Erdkruste, die vom Meer bedeckt sind, den sogenannten Schelfen.
+Die ersten Offshore-Bohrungen wurden 1947 von den USA vorgenommen.
+Später wurden fixe Bohrplattformen mit ausfahrbaren Beinen konstruiert.
+Es konnten Wassertiefen von mehreren hundert Metern erreicht werden.
+
+Infolge eines zunehmenden Interesses an der Exploration der äußeren Schelfbereiche und des Kontinentalhangs wurden schwimmende Bohrplattformen ("Offshore-Drilling Units") und Bohrschiffe entwickelt.
+Dabei wird der Bohrlochkopf auf den Meeresgrund verlagert.
+Mit derartigen Anlagen ist es gelungen, bis in 3.000 Meter Wassertiefe vorzustoßen.
+
+=== Verarbeitung
+
+==== Trocknung
+
+Die Trocknung von Erdgas, d. h. der Entzug von Wasser oder höheren Kohlenwasserstoffen, ist ein wesentlicher Vorgang bei der Erdgasaufbereitung.
+
+Bei ungenügender Trocknung kann es zur Bildung von Methanhydraten kommen.
+Die festen Methanhydrate können zu einem extremen Druckabfall in der Pipeline beitragen und die Ventile und Rohrleitungen beschädigen.
+Die Trocknung garantiert auch einen gleich bleibenden Brennwert des Gases bei der Einspeisung in das öffentliche Gasnetz.
+
+Gemessen wird der Trocknungsgrad von Erdgas mit dem Taupunkt.
+In der Regel wird ein Druck-Taupunkt unter -8 °C angestrebt.
+
+Zur Gastrocknung sind unter anderem folgende Verfahren bekannt:
+
+Bei der Absorptionstrocknung wird Erdgas in einer Absorptions-Kolonne mit Triethylenglycol (TEG) in Kontakt gebracht.
+TEG ist stark hygroskopisch und entzieht dadurch dem Gas das Wasser.
+
+Der Kontakt beider Medien erfolgt im Gegenstrom.
+Das Gas strömt in der Kolonne von unten nach oben.
+Entgegen hierzu wird das Triethylenglycol in der Kolonne oben eingebracht und unten wieder ausgeschleust.
+Voraussetzung für eine gute Wasseraufnahme ist eine große Kontaktfläche zwischen TEG und Gas, weshalb in der Kolonne eine strukturierte Packung eingebaut ist.
+In der Packung verteilt sich das TEG weiträumig.
+
+Das aus der Kolonne ausgeschleuste Triethylenglycol wird in einer Regenerationsanlage wieder aufbereitet.
+In einem Verdampfer werden durch Erhitzen das aufgenommene Wasser sowie in geringeren Mengen auch Kohlenwasserstoffe aus dem Triethylenglycol entfernt.
+
+Der Verdampfer wird über heiße Verbrennungsgase beheizt, welche in einer separat aufgestellten Brennkammer erzeugt werden.
+In der Brennkammer werden auch die bei der Regeneration entstehenden Brüdengase verbrannt.
+Dadurch wird der Bedarf an zusätzlich eingespeisten Brennstoff reduziert.
+Außerdem müssen die Brüdengase nicht aufwändig kondensiert und entsorgt werden.
+
+Der Trocknungsprozess von Gasen mittels Molekularsieb erfolgt in der Regel in verschiedenen Stufen:
+
+In einer ersten Stufe erfolgt die Vortrocknung durch Wärmeübertrager oder andere Arten von Wasserabscheidern.
+Hierbei wird das Gas gekühlt und durch Abscheider große Mengen an Wasser entzogen.
+Der Restwassergehalt im Gas ist nach diesem Prozess allerdings noch zu hoch, um es genügend komprimieren und damit verflüssigen zu können.
+
+Nach der Vortrocknung gelangt das Gas in sogenannte Adsorber.
+Dies sind mindestens zwei Tanks, welche mit einem Molekularsieb gefüllt sind.
+Das Gas wird zunächst durch Adsorber Nr. 1 geleitet.
+Der Wasserdampf wird vom Molekularsieb aufgenommen (adsorbiert).
+Dieser Adsorptionszyklus kann bis zu 12 Stunden oder mehr dauern.
+Anschließend wird der Gasstrom durch Adsorber Nr. 2 geleitet und der Adsorber Nr. 1 "geht" in die Regenerationsphase.
+Bei der Regenerierung wird heiße Luft, Stickstoff oder das Erdgas mit einer Temperatur ab ca. 280 °C durch den Adsorber gepresst.
+Hierdurch werden die vom Molekularsieb zurückgehaltenen Wasserdampfmoleküle wieder abgegeben und aus dem Tank heraus befördert.
+Danach erfolgt die Kühlung des Molekularsiebes über mehrere Minuten bis Stunden.
+Eine Adsorptions- und Regenerationsphase nennt man Zyklus.
+
+Am Gasaustritt kann ein Taupunkt von bis zu -110 °C erreicht werden.
+
+Die bei der Erdgastrocknung eingesetzten Molekularsiebe werden speziell für die verschiedensten Gaszusammensetzungen entwickelt.
+Oft müssen nicht nur Wassermoleküle, sondern auch Schwefelwasserstoff oder Kohlenwasserstoffe aus dem Gas entfernt werden.
+In den meisten Fällen kommt ein 4A Molekularsieb (mit einer Porenöffnung von 4  Durchmesser) zum Einsatz.
+Es gibt auch Situationen, für welche eine Kombination aus verschiedenen Typen zur Anwendung gelangt.
+
+==== Abtrennung von Kohlenstoffdioxid und Schwefelwasserstoff
+
+Die Abtrennung von Kohlenstoffdioxid und Schwefelwasserstoff erfolgt auf chemischem oder physikalischem Weg.
+Die beiden Gase können zusammen mit einer Base wie N-Methyl-Pyrrolidon (Purisol-Verfahren) in einem hochsiedenden Lösungsmittel gebunden werden.
+
+Bei der physikalischen Abtrennung, beispielsweise dem Sulfinol-Prozess, wird eine hochsiedende polare organische Flüssigkeit, die etwas Wasser enthält, eingesetzt.
+Beim Sulfinol-Prozess verwendet man als Lösungsmittel eine Mischung aus Diisopropanolamin (DIPA), Tetrahydrothiophendioxid (Sulfolan) und Wasser.
+
+Der Schwefelwasserstoff aus dem Erdgas wird unter hoher Hitze mit Sauerstoff zu Schwefel umgesetzt (Claus-Verfahren).
+
+==== Abtrennung von Stickstoff
+
+Stickstoff und Helium können durch Tieftemperaturtrennung vom Erdgas abgeschieden werden.
+In einer Hochdrucktrennapparatur steigt ein mit Stickstoff angereicherter Gasstrom nach oben, Methangas strömt zum Sumpf der Kolonne.
+Dieser Verfahrensschritt kann mit der Flüssigerdgasherstellung (LNG) gekoppelt werden.
+
+==== Radioaktiver Abfall
+
+Im Dezember 2009 wurde der Öffentlichkeit bekannt, dass bei der Erdöl- und Erdgasförderung jährlich Millionen Tonnen radioaktiver Rückstände anfallen, für deren Entsorgung größtenteils der Nachweis fehlt.
+Im Rahmen der Förderung an die Erdoberfläche gepumpte Schlämme und Abwässer enthalten NORM-Stoffe (Naturally occurring radioactive material), auch das hochgiftige und extrem langlebige Radium 226 sowie Polonium 210.
+Die spezifische Aktivität der Abfälle beträgt zwischen 0,1 und 15.000 Becquerel (Bq) pro Gramm.
+In Deutschland, wo etwa 1.000 bis 2.000 Tonnen Trockenmasse im Jahr anfallen, ist das Material laut der Strahlenschutzverordnung von 2001 bereits ab einem Bq pro Gramm überwachungsbedürftig und müsste gesondert entsorgt werden.
+Die Umsetzung dieser Verordnung wurde der Eigenverantwortung der Industrie überlassen, wodurch die Abfälle letztlich über Jahrzehnte hinweg sorglos und unsachgemäß beseitigt wurden.
+Es sind Fälle dokumentiert, in welchen Abfälle mit durchschnittlich 40 Bq/g ohne jede Kennzeichnung auf einem Betriebsgelände gelagert wurden und auch nicht für den Transport besonders gekennzeichnet werden sollten.
+
+In Ländern mit größeren geförderten Mengen von Öl oder Gas entstehen deutlich mehr Abfälle als in Deutschland, jedoch existiert in keinem Land eine unabhängige, kontinuierliche und lückenlose Erfassung und Überwachung der kontaminierten Rückstände aus der Öl- und Gasproduktion.
+Die Industrie geht mit dem Material unterschiedlich um:
+In Kasachstan sind weite Landstriche durch diese Abfälle verseucht, in Großbritannien werden die radioaktiven Rückstände in die Nordsee geleitet.
+In den Vereinigten Staaten gibt es in fast allen Bundesstaaten aufgrund der radioaktiven Altlasten aus der Erdölförderung zunehmend Probleme.
+In Martha, einer Gemeinde in Kentucky, hat das Unternehmen Ashland Inc. tausende kontaminierte Förderrohre an Farmer, Kindergärten und Schulen verkauft, ohne diese über die Kontamination zu informieren.
+Es wurden bis zu 1.100 Mikroröntgen pro Stunde gemessen, so dass die Grundschule und einige Wohnhäuser nach Entdeckung der Strahlung sofort geräumt werden mussten.
+
+=== Transport
+
+Erdgas wird überwiegend über Rohrleitungen auch über große Distanzen (daher auch der Begriff Ferngas) transportiert.
+Bedeutende Pipelines für die Anbindung von Westeuropa, dessen Erdgas zum größten Teil aus Russland bezogen wird, sind unter anderen Nord Stream (North European Gas Pipeline), die Sojus-Pipeline und Erdgasleitung Jamal-Europa.
+
+Erdgas kann durch physikalisch-technische Verfahren komprimiert (CNG, Compressed Natural Gas) oder in den flüssigen Aggregatzustand (LNG, Liquified Natural Gas) überführt werden.
+Gemein ist diesen Verfahren (siehe Treibstoff für Kraftfahrzeuge) eine Verringerung des Volumens bzw. eine Erhöhung der Dichte, wodurch größere Mengen an Erdgas auf kleinerem Raum gelagert oder pro Zeiteinheit transportiert werden können.
+
+==== Rohrleitungen
+
+Der Druck in Gasleitungsrohren gestaltet sich je nach Transport und Verteilung unterschiedlich.
+
+Die aus Stahl bestehenden Ferntransport-Rohrleitungen auf dem Festland haben einen Nenndurchmesser von 600 bis 1400 Millimeter, stehen unter einem Nenndruck von etwa 75 bis 84 bar, und sind in der Regel etwa einen Meter unter der Erde verlegt.
+Alle 100 bis 150 Kilometer muss eine Kompressorstation für Druckerhöhung sorgen.
+Ein weiter Transport von Erdgas kann - je nach Auslegung, Höhenverlauf und Durchflussrate einer Leitung - zu einem erheblichen Energieverbrauch durch Pumpen führen.
+Bei 4.700 Kilometern müssen etwa 10 % der Energie des Erdgases für den Pumpenbetrieb verwendet werden.
+Zur Begrenzung von Gefahren durch Lecks, die einen ungehinderten Gasaustritt ermöglichen könnten, werden außerdem in gewissen Abständen Schieber in einer Pipeline angebracht.
+In einer Steuerzentrale kann der Rohrdruck des Gasnetzes fernüberwacht werden.
+Dieses Netz wird von den Fernleitungsnetzbetreibern betrieben.
+
+Für die regionale Verteilung von Erdgas gibt es ein spezielles, dichteres Netzsystem von regionalen Betreibern mit einem Rohrleitungsdruck von etwa 16 bar.
+Für den Transport von Erdgas an die regionalen Kommunen gibt es ein drittes Netz, das nur noch einen Erdgas-Überdruck von weniger als 1 bar hat, und für private Haushalte einen Überdruck von nur noch 20 mbar aufweist.
+Bis zu einem Druck von 10 bar sind heute für Gasleitungen Rohre aus Kunststoff (Polyethylen) üblich.
+
+In Deutschland hatte das Hochdruck-Erdgasnetz im Jahr 2002 eine Länge von etwa 50.000 Kilometer, das Netz mit Niederdruckleitungen zu den Hausanschlüssen hatte eine Länge von 370.000 Kilometer.
+
+Für die Errichtung und den Betrieb von Erdgasnetzen müssen, je nach Baugrund (Fels, Sand) und Geografie (Querung von Flüssen mit Dükern, Bahnleitungen, Autobahnen etc.) hohe Beträge aufgebracht werden.
+Der Beschaffungs- oder Zeitwert eines Erdgasnetzes ist insofern schwer abzuschätzen und hängt auch vom Geschäftsmodell ab (zukünftiger Ertragswert).
+
+Die fünf Erdgastransitleitungen in Österreich wiesen 2006 durchwegs Nenndruck 70 bar und folgende Nenndurchmesser auf:
+Trans Austria Gasleitung mit drei Parallel-Strängen (etwa 380 Kilometer lang) mit 900 bis 1.050 Millimetern, West-Austria-Gasleitung (245 Kilometer) 800 Millimeter, (kürzer als 100 Kilometer) Hungarian-Austria-Gasleitung und Penta-West 700 Millimeter und Süd-Ost-Gasleitung 500 Millimeter.
+TAG erhielt (um 2006 bei Wildon) eine zweite Röhre, TAG aus 1970 stammend erhielt 2009+2011 neue Verdichter in Neustift und Baumgarten.
+
+==== LNG-Transportschiffe
+
+Für den Schifftransport wird das Erdgas durch Abkühlen auf -160 °C verflüssigt (engl. Liquefied Natural Gas, LNG).
+Die derzeit (2014) größten LNG-Tanker der Q-Max-Klasse können über 266.000 m^3 LNG transportieren.
+Für LNG-Tanker gibt es zwei Bauarten:
+Die Kugel- und die Membran-Tanker.
+Insgesamt 130 LNG-Tanker wurden bis zum Jahr 2000 konstruiert.
+
+Ab 4.000 Kilometer Landweg oder 2.000 Kilometer Seeweg ist diese Transportart ökonomisch günstiger als der Transport über ein Rohrleitungssystem.
+
+==== Umwandlung in synthetische Flüssigbrennstoffe
+
+Weil Mineralöle wie Benzin und Diesel keine Druckbehälter für Lagerung und Transport benötigen, ist die chemisch-technische Umwandlung in langkettige, bei Raumtemperatur flüssige Kohlenwasserstoffe (sogenannte GtL-Verfahren) eine Möglichkeit, Erdgas in eine relativ leicht handhabbare und platzsparende Form zu überführen.
+Solche synthetischen Mineralöle sind frei von Schwefel und Schwermetallen und somit zudem umweltverträglicher als Mineralöle aus natürlichem Rohöl.
+Die Unternehmen Sasol (Südafrika) und Shell (Malaysia) stellten bereits im Jahr 1997 aus Erdgas ein synthetisches Mineralöl her, das als Dieselzusatz Verwendung fand.
+Grundlage war die Umwandlung von Methan mit Sauerstoff zu Synthesegas (2 CH4 + O2 = 2 CO + 4 H2).
+Synthesegas lässt sich unter hohem Druck und hohen Temperaturen mittels des Fischer-Tropsch-Verfahren in synthetische Mineralöle umwandeln.
+
+Da der Prozess hohe Temperaturen, Drücke und reinen Sauerstoff erforderte, versuchte man schon bald, die Reaktionsbedingungen für die Umwandlung zu verbessern.
+Die Firma Syntroleum Company (in Tulsa, USA) entwickelte ein Verfahren, das mit Luft anstatt reinem Sauerstoff gute Rohölausbeuten brachte.
+Entscheidend in Bezug auf die Kosten sind möglichst niedrige Umwandlungstemperaturen.
+Es wurde eine Vielzahl von Katalysatoren für eine derartige Umwandlung erprobt.
+Die Unternehmen möchten gerne auch die Umwandlung von Erdgas in einem einzigen Reaktionsschritt erreichen.
+
+An der Pennsylvania State University war 1999 ein Verfahren entwickelt worden, mittels eines Katalysators Methan bei weniger als 100 °C in Methanol umzuwandeln.
+
+=== Speicherung
+
+Zum Ausgleich von Lastschwankungen bei der Erdgasversorgung wurden Untergrund-Erdgasspeicher errichtet.
+Ein BDEW-Sprecher teilte mit, dass es in Deutschland 46 Untertage-Gasspeicher gebe.
+Ihre Aufnahmekapazität betrage knapp 20 Milliarden Kubikmeter Arbeitsgas.
+Das entspreche fast einem Viertel des 2007 in Deutschland verbrauchten Erdgases.
+In Österreich liegt die Kapazität bei 5 Milliarden Kubikmeter und ist damit prozentual noch höher.
+
+Mitunter dienen untertägige Salzkavernen als Speicherort für Erdgas.
+Zur Erstellung des Speicherhohlraums pumpt man Wasser durch eine Bohrung in eine geologische Salzformation.
+Hierbei löst sich das Salz in einem gesteuerten Prozess und die entstandene Salzsole wird durch die gleiche Bohrung abgeleitet.
+Als sogenannte Porenspeicher können aber auch entleerte Erdöl- und Erdgaslagerstätten dienen.
+Kurzfristige Kapazität haben sogenannte Röhrenspeicher mit 50 bis 100 bar, die mäanderförmig einige Meter tief im Boden verlegt werden, beispielsweise Teil einer stillgelegten Erdgasleitung sein können.
+
+Die wesentlich kleineren Übertage-Gasspeicher werden vorwiegend für tägliche Bedarfsschwankungen verwendet.
+Statt der früheren turmhohen Gasometer (meist Teleskop- und Scheibengasbehälter) werden nun Hochdruck-Kugelgasbehälter eingesetzt, die mit etwa 10 bar Überdruck betrieben werden.
+
+== Versorgung
+
+=== Weltförderungen
+
+Die Netto-Weltförderung von Erdgas (Naturgas) abzüglich zurückgepresstes und abgefackeltes Gas betrug im Jahr 2017 rund 3.680,4 Milliarden Kubikmeter, davon sind die USA mit 20,0 % (entspricht 734,5 Mrd. Kubikmetern Erdgas) und Russland mit 17,3 % (635,6 Mrd. Kubikmeter) Weltmarktanteil die Hauptförderländer.
+Im Jahr 2010 lag Russland in Sachen Erdgasförderung bislang das letzte Mal vor den USA.
+Unter den Förderländern belegt der Iran mit 6,1 % (223,9 Mrd. Kubikmeter) den dritten Platz.
+
+Damit deckte Erdgas im Jahr 2017 mit leichtem Aufwärtstrend etwa 24 % des weltweiten Energieverbrauchs ab.
+Mit 739,5 Mrd. Kubikmetern, das entspricht 20,1 % des weltweiten Erdgasverbrauchs, führen die USA auch die Liste der Verbraucher an.
+Dort liegt der Verbrauch also etwa fünf Milliarden Kubikmeter über der eigenen Produktion.
+Russland verbrauchte zuletzt 424,8 Mrd. Kubikmeter Erdgas (11,6 % des weltweiten Erdgasverbrauchs) und ist damit ein Erdgas-Nettoproduzent.
+Auf Platz drei unter den Erdgaskonsumenten rangiert China mit 240,4 Mrd. Kubikmetern, was 6,6 % des Weltverbrauchs entspricht.
+
+=== Situation in Deutschland
+
+==== Versorgung
+
+Bis Anfang der 1980er Jahre wurde die Gasversorgung der meisten westdeutschen Städte von Stadtgas, das wegen des hohen Anteils von Kohlenstoffmonoxid giftig ist, auf Erdgas umgestellt.
+Dies war ohne größere Umbauten möglich.
+Auf dem Gebiet der ehemaligen DDR vollzog man die Umstellung überwiegend erst in den 1990er Jahren.
+
+Zur Spitzendeckung sowie zum Ausgleich kurzfristiger Importstörungen und Bedarfschwankungen werden etwa 18,6 Milliarden Kubikmeter Erdgas in Untergrundspeichern gelagert.
+
+Die Verwendung von Erdgas unterliegt einer Erdgassteuer, deren Normalsatz zurzeit bei 5,50 € je Megawattstunde (das sind 0,55 Cent pro kWh) liegt.
+
+Bei der Preisbildung für Erdgas spielt die Ölpreisbindung eine große Rolle.
+Das Kartell der Gaspreisbildung aufgrund der brancheninternen Vereinbarung einer Ölpreisbindung verstößt jedoch nach einer weit verbreiteten Auffassung gegen europäisches und deutsches Kartellrecht.
+Der Bundesgerichtshof (BGH) entschied am 24. März 2010, dass Gasversorger ihre Preise nicht mehr ausschließlich an die Entwicklung des Ölpreises binden dürfen.
+
+Vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) werden die Einfuhr- und Ausfuhrpreise von Erdgas monatlich registriert, ferner werden die Abnahmemengen für einzelne Lieferländer verzeichnet.
+Zwischen 1991 und 1999 lag der Importpreis für Erdgas je Terajoule durchschnittlich etwa zwischen 1.700 und 2.200 €.
+Zwischen 2001 und 2004 lag der Erdgasimportpreis je Terajoule zwischen 3.200 und 4.200 €.
+Im Jahr 2006 stieg der Erdgasimportpreis je Terajoule zeitweise auf über 6.000 € an.
+Im November 2008 lag der Importpreis für Erdgas bei 8.748 € je Terajoule, im September 2009 bei 4.671 €.
+Preissprünge beim Erdgas sind für die Verbraucher intransparent.
+
+==== Herkunft
+
+Die Herkunft des importierten Erdgases darf seit 2015 nicht mehr veröffentlicht werden.
+Das liegt an den Vorschriften des § 16 Bundesstatistikgesetz in Verbindung mit § 11 Abs. 2 und 5 Außenwirtschaftsgesetz, denn die Weitergabe der Daten könnte einzelne Unternehmen in ihrem Betriebs- und Geschäftsgeheimnis berühren.
+
+Der letzte verfügbare Stand des Bundesministeriums für Wirtschaft und Energie aus dem Jahr 2015 setzt sich wie folgt zusammen:
+
+Das importierte Erdgas kam zu 34,7 % aus der Russischen Föderation, zu 34,1 % aus Norwegen und zu 28,8 % aus den Niederlanden.
+Die übrigen 2,5 % stammten aus "sonstigen Ländern".
+Dabei handelt es sich um die Übergabeländer, aus denen das Erdgas nach Deutschland kommt, und nicht um das Förderland.
+So kommt das Erdgas aus den Niederlanden zum Teil aus dem Vereinigten Königreich als Flüssiggaslieferungen, bevor es nach Deutschland geleitet wird.
+
+==== Deutsche Erdgasunternehmen
+
+Der weltweit größte Erdgasproduzent mit Sitz in Deutschland ist die BASF-Tochter Wintershall.
+Die größten Erdgas-Versorgungsunternehmen in Deutschland sind E.ON Ruhrgas (Essen), RWE Energy (Dortmund), VNG - Verbundnetz Gas (Leipzig), Wingas (Kassel), Shell (Hamburg) und ExxonMobil (Hannover).
+Der Transport (Pipelines) wird von sog. Fernleitungsnetzbetreibern sichergestellt, darunter Open Grid Europe (Essen), bayernets (München), Ontras (Leipzig), Gascade (Kassel) und Terranets BW (Stuttgart).
+
+Der Vertrieb an die Endverbraucher erfolgt über circa 700 Gasversorgungsunternehmen, insbesondere Stadtwerke.
+Den größten Teil des bezogenen Erdgas erwirbt E.ON Ruhrgas von dem russischen Unternehmen Gazprom sowie von der niederländischen Gasunie und den norwegischen Produzenten.
+
+==== Messung
+
+Die Messung beim Endkunden erfolgt volumetrisch, also durch Volumenmessung.
+Um aus dem Volumen auf die Gasmenge (Masse) zu schließen, benötigt man die Dichte, also den absoluten Druck, und die Temperatur des Gases.
+Daher liegt häufig unmittelbar vor dem sogenannten Gaszähler ein Druckregler, der den Überdruck gegenüber dem Außendruck in einer letzten Stufe reguliert.
+In Leitungsnetzen, die oft mit abwärts abgestuften Druckniveaus betrieben werden, verursachen schwankende Verbrauchsraten und unterschiedliche Leitungsvolumina nämlich einen unkalkulierbaren Druckabfall, der durch den Druckregler ausgeglichen wird.
+Die Temperaturschwankung wird durch Aufstellung innerhalb eines Gebäudes möglichst gering gehalten.
+
+Druckregler am Gaszähler müssen geeicht werden, wie die Volumenmesseinrichtung selbst.
+Der äußere Luftdruck als Referenz wird unter Umständen nach der Meereshöhe des individuellen Zählers oder pauschal des Ortes oder Bezirks berücksichtigt (100 m Höhenunterschied machen etwas weniger als 1 % Gasdruck-Unterschied aus, meteorologische Schwankungen werden nicht berücksichtigt).
+Daraufhin wird der Energiegehalt pro kg Gas ermittelt, durch Mischen eingestellt und zu Verrechnungszwecken berücksichtigt.
+
+==== Gasabsperrung
+
+Im internationalen Gashandel sind Gasabsperrung oder Reduktion von Liefermengen (Raten) Gegenstand politischer Verhandlungen.
+
+==== Marktraumumstellung
+
+L-Gas aus deutscher und niederländischer Produktion bedient gegenwärtig ca. 30 % des deutschen Erdgasmarktes.
+Jedoch sind die Fördermengen rückläufig, so dass in den folgenden Jahren bis voraussichtlich 2030 sämtliche betroffenen Netzgebiete auf H-Gas umgestellt werden müssen, welches langfristig verfügbar ist.
+Diese Maßnahme dient der Versorgungssicherheit in den Bundesländern Bremen, Niedersachsen, Nordrhein-Westfalen, Sachsen-Anhalt, Hessen und Rheinland-Pfalz.
+
+Im Zuge dieser sogenannten Marktraumumstellung müssen bei allen Verbrauchern die mit Erdgas betriebenen Geräte an die Nutzung von H-Gas angepasst werden.
+Dies gilt gleichermaßen für private Haushalte wie für Unternehmen.
+Im Vorfeld der eigentlichen Anpassungen findet eine Vollerhebung aller Gasgeräte - wie beispielsweise Gasherde und Heizkessel - im jeweiligen Netzgebiet statt, um eine Übersicht über die insgesamt vorhandenen Gasgeräte zu erlangen.
+
+Die bei der Anpassung der Gasgeräte anfallenden Kosten werden über die Regulierung der Netzentgelte gem. §§ 21 ff.
+EnWG auf alle Endverbraucher umgelegt (Wälzung der Kosten).
+Die Netzentgeltregulierung berücksichtigt insbesondere den Umstand, dass der Betrieb eines Gasversorgungsnetzes ein natürliches Monopol darstellt, welches ohne eine gesetzliche Regulierung die Preise für die Netznutzung frei bestimmen und insofern übermäßig hoch ansetzen könnte.
+
+=== Situation in Österreich
+
+Bereits ab 1943 wurde in Österreich Erdgas dem Stadtgas beigemischt.
+In den Städten (z. B. Baden, Stockerau, Wien, Wiener Neustadt) erfolgte ab Ende der 60er bis hinein in die 80er Jahre die Umstellung von Stadtgas auf Erdgas.
+
+Endkonsumenten, insbesondere privaten Haushalten wird bei Zahlungsverzug nach zumindest zweimaliger Mahnung - um rasches Wiedereinschalten zu ermöglichen, jedoch nicht vor Feiertagen - die Gaslieferung vom Gasversorger abgesperrt.
+2013 wurden 8.457 Privathaushalten in Österreich, 6.081 davon in Wien, das Gas "abgedreht" meldet die Regulierungsbehörde E-Control erstmals im Mai 2014 aufgrund der Gasmonitoringverordnung.
+Zahlen von Stromsperrungen aus demselben Grund würden von den Versorgern meist "schubladisiert".
+
+== Ökologische Aspekte
+
+Durch die geringen Verunreinigungen verbrennt Erdgas generell gegenüber anderen fossilen Brennstoffen sauberer.
+Durch das höhere Wasserstoff/ Kohlenstoff-Verhältnis wird beim Verbrennen von Erdgas um bis zu 25 % weniger Kohlendioxid erzeugt als bei Heizöl.
+Trotzdem tragen Förderung, Transport, Verarbeitung und Verbrennung von Erdgas zur Freisetzung der Treibhausgase Methan und Kohlendioxid bei, insbesondere, wenn es sich dabei um sogenanntes Schiefergas handelt (siehe auch Treibhausgas-Immission durch Fracking).
+
+Ökologisch wie ökonomisch unsinnig ist, wenn Erdgas als Nebenprodukt der Erdölförderung nicht gewinnbringend abgesetzt oder zurück in die Erde gepumpt werden kann, sondern abgefackelt werden muss.
+Durch verschiedene flare-down-Programme der Erdölindustrie soll das Abfackeln vermindert und das Erdgas der Verarbeitung und einer kontrollierten, saubereren energetischen Nutzung zugeführt werden und dabei andere Energieträger ersetzen.
+Dies bewirkt eine erhebliche Verbesserung der globalen Ökobilanz und wird daher durch Steuervorteile gefördert.
+Falls einmal Erdgas nicht mehr ausreichend zur Verfügung steht, kann durch zunehmende Produktion und Beimischung von Biogas die Nachhaltigkeit der Investitionen in regionale Erdgasnetze gewährleistet werden.
+
+Durch undichte Stellen in Förderanlagen und Rohrleitungen entwichene Bestandteile des Erdgases gehen entweder direkt in die Erdatmosphäre bzw. lösen sich einige Bestandteile, sofern das Gas aus unterseeischen Leitungen entweicht, im Meerwasser.
+Bei ausreichender Tiefe und entsprechend hohem Druck sowie ausreichend tiefer Temperatur kann sich der Methan-Anteil des Erdgases als festes Methanhydrat am Meeresboden ablagern.
+
+Die Förderung unkonventionellen Erdgases mittels Hydraulic Fracturing ist mit einigen zusätzlichen Umweltrisiken verbunden, insbesondere hinsichtlich der den Frackfluiden zugesetzten Chemikalien und dem Entweichen von im Erdgas enthaltenen gesundheitsschädlichen Stoffen aus in offenen Tanks gelagertem Flowback und Lagerstättenwasser.
+Problematischer ist jedoch die starke Zunahme der Erdgasförderung in der Fläche infolge des Fracking-Booms, wie sie ab dem Jahr 2000 vor allem in den USA zu beobachten ist.
+Diese führt zu einer Verstärkung der allgemein mit der Erdgasförderung verbundenen Umweltbelastungen.
+
+== Sicherheitsaspekte
+
+Erdgas birgt durch seine Explosivität gewisse Unfallrisiken, was bei unsachgemäßem Gebrauch z. B. in Haushalten von Unfällen bis hin zu katastrophalen Ereignissen (Bsp. Gasexplosion von Chuandongbei, Gasexplosion von Belgien) führen kann.
+
+Am 25. März 2012 wurde entdeckt, dass aus einem unbekannten Leck an der Gas-( und Öl-)Förderplattform Elgin PUQ des Konzerns Total in der Nordsee unter Wasser Gas ausströmt.
+Zunächst strömten nach Angaben des Betreibers täglich 200.000 Kubikmeter Gas aus dem Leck 25 Meter über dem Wasserspiegel ins Freie, später habe sich die Menge auf etwa ein Drittel verringert.
+Wegen der Brand- und Explosionsgefahr durch an die Luft gelangtes Gas und der Giftigkeit von im Gas enthaltenem Schwefelwasserstoff wurden für Schiffe und Flugzeuge Sicherheitszonen von bis zu 5,6 km Radius eingerichtet und benachbarte Plattformen evakuiert.
+50 Tage später, Mitte April 2012, teilte der Konzern mit, dass das Leck wieder geschlossen sei.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

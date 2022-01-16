@@ -1,0 +1,312 @@
+Die Zeit ist eine physikalische Größe.
+Das allgemein übliche Formelzeichen der Zeit ist t, ihre SI-Einheit ist die Sekunde s.
+
+Die Zeit beschreibt die Abfolge von Ereignissen, hat also eine eindeutige, unumkehrbare Richtung.
+Mit Hilfe der physikalischen Prinzipien der Thermodynamik kann diese Richtung als Zunahme der Entropie, d. h. der Unordnung in einem abgeschlossenen System, bestimmt werden.
+Aus einer philosophischen Perspektive beschreibt die Zeit das Fortschreiten der Gegenwart von der Vergangenheit kommend und zur Zukunft hinführend.
+Nach der Relativitätstheorie bildet die Zeit mit dem Raum eine vierdimensionale Raumzeit, in der die Zeit die Rolle einer Dimension einnimmt.
+Dabei ist der Begriff der Gegenwart nur in einem einzigen Punkt definierbar, während andere Punkte der Raumzeit, die weder in der Vergangenheit noch der Zukunft dieses Punkts liegen, als "raumartig getrennt" von diesem Punkt bezeichnet werden.
+
+Im SI-Einheitensystem ist die Zeit eine von mehreren Basisgrößen.
+
+Zur Angabe eines Zeitpunkts wird die Uhrzeit verwendet.
+Als bürgerliche Zeit (UT, MEZ usw.) richtet sie sich annähernd nach dem Sonnenstand und ist durch staatliche Regelungen jeweils innerhalb einer Zeitzone einheitlich.
+
+In der Philosophie fragt man seit jeher nach dem Wesen der Zeit, was auch Themen der Weltanschauung berührt.
+Für die physikalischen, die Bio- und Humanwissenschaften ist die Zeit ein zentraler, auch messtechnisch erfassbarer Parameter, u. a. bei allen bewegten Körpern (Dynamik, Entwicklung), in der Chronobiologie oder der Zeitsoziologie.
+Die Psychologie untersucht die Zeitwahrnehmung und das Zeitgefühl.
+Die Ökonomie betrachtet Zeit auch als Wertgegenstand.
+In den Sprachwissenschaften bedeutet "Zeit" die grammatische Form der Zeitwörter, das Tempus.
+
+== Einführung
+
+Die wohl markanteste Eigenschaft der Zeit ist der Umstand, dass es stets eine in gewissem Sinne aktuelle und ausgezeichnete Stelle zu geben scheint, die wir die Gegenwart nennen, und die sich unaufhaltsam von der Vergangenheit in Richtung Zukunft zu bewegen scheint.
+Dieses Phänomen wird auch als das Fließen der Zeit bezeichnet.
+Dieses Fließen entzieht sich jedoch einer naturwissenschaftlichen Betrachtung, wie im Folgenden dargelegt wird.
+Auch die Geisteswissenschaften können die Frage nicht eindeutig klären.
+
+Die Zeit dient in der Physik in analoger Weise zur Beschreibung des Geschehens wie der Raum.
+Die Physik besagt lediglich, dass unter allen denkbaren Strukturen im dreidimensionalen Raum in Kombination mit allen dazu denkbaren zeitlichen Abläufen nur solche beobachtet werden, die den physikalischen Gesetzen gehorchen.
+Dabei könnte es sich ebenso gut um unbewegliche Strukturen in einem vierdimensionalen Raum handeln, die durch die physikalischen Gesetze bestimmten geometrischen Bedingungen unterworfen sind.
+Nach Newton ist dabei die Struktur der Raumzeit vorgegeben, wobei die Zeit absolute Bedeutung hat; nach Albert Einstein gilt eine spezielle "Relativität der Gleichzeitigkeit".
+Etwas, das man als Fließen der Zeit interpretieren könnte, kommt in der Physik nur durch wahrscheinlichkeitstheoretische Begriffe vor, die mit dem Begriff der Entropie zusammenhängen (siehe unten), obwohl die Begriffe Vergangenheit, Gegenwart und Zukunft in den Einsteinschen Theorien mathematisch-präzise sind und messbare Bedeutung haben.
+Bei genauer Betrachtung erweist es sich aber zunächst als völlig unklar, wie ein Fließen der Zeit in der Sprache der Physik oder Mathematik oder irgendeiner anderen Wissenschaft präzise beschrieben werden könnte.
+
+So ist beispielsweise die Aussage, dass die Zeit fließe, nur dann sinnvoll, wenn eine davon unterscheidbare Alternative denkbar ist.
+Die naheliegende Alternative der Vorstellung einer stehenden Zeit, beispielsweise, führt jedoch zu einem Widerspruch, da sie nur aus der Sicht eines Beobachters denkbar ist, für den die Zeit weiterhin verstreicht, sodass der angenommene Stillstand als solcher überhaupt wahrnehmbar ist (siehe auch Kritik der reinen Vernunft von Immanuel Kant): "Könnte man die Zeit anhalten, für wie lange ,stünde' dann die Zeit?"
+
+Das scheinbare Fließen der Zeit wird daher von vielen Physikern und Philosophen als ein subjektives Phänomen oder gar als Illusion angesehen.
+Man nimmt an, dass es sehr eng mit dem Phänomen des Bewusstseins verknüpft ist, das ebenso wie dieses sich einer physikalischen Beschreibung oder gar Erklärung entzieht und dadurch zu den großen Rätseln der Naturwissenschaft und Philosophie zählt.
+Damit wäre unsere Erfahrung von Zeit vergleichbar mit den Qualia in der Philosophie des Bewusstseins und hätte folglich mit der Realität primär ebenso wenig zu tun wie der phänomenale Bewusstseinsinhalt bei der Wahrnehmung der Farbe Blau mit der zugehörigen Wellenlänge des Lichts.
+
+Hinfällig wäre damit unsere intuitive Vorstellung, es gäbe eine von der eigenen Person unabhängige Instanz nach Art einer kosmischen Uhr, die bestimmt, welchen Zeitpunkt wir alle im Moment gemeinsam erleben, und die damit die Gegenwart zu einem objektiven uns alle verbindenden Jetzt macht.
+
+== Zeit als physikalische Größe
+
+In der Physik ist Zeit (Formelzeichen: t oder , von lat. tempus (Zeit)) die fundamentale Größe, über die sich zusammen mit dem Raum die Dauer von Vorgängen und die Reihenfolge von Ereignissen bestimmen lassen.
+Da sie sich bisher nicht auf grundlegendere Phänomene zurückführen lässt, wird sie über Verfahren zu ihrer Messung definiert, wie es auch bei Raum und Masse der Fall ist.
+Im SI-Einheitensystem wird Zeit in Sekunden (Einheitenzeichen s) gemessen.
+Daraus leiten sich unmittelbar die Einheiten Minute und Stunde ab, mittelbar (über die Erdbewegung und gesetzlich festgelegte Schaltsekunden) auch Tag und Woche, dazu (abhängig vom Kalender) Monat, Jahr, Jahrzehnt, Jahrhundert und Jahrtausend.
+
+=== Zeitmessung
+
+Die Zeitmessung ist eine der ältesten Aufgaben der Astronomie.
+Nachdem in der ersten Hälfte des 20. Jahrhunderts nachgewiesen wurde, dass die Länge des mittleren Sonnentages unregelmäßigen Schwankungen unterliegt und langfristig zunimmt, wurde die Ephemeridenzeit eingeführt, die auf der gleichmäßigeren Planetenbewegung beruhte.
+Deren Zeiteinheit, die Ephemeridensekunde, wurde 1960 als Sekunde des Internationalen Einheitensystems übernommen.
+Seit 1967/68 beruht die Definition der SI-Sekunde auf einem Übergang im 133Cs-Atom, wobei die ursprüngliche Länge möglichst genau beibehalten wurde.
+Die wichtigsten Zeitskalen sind heute
+
+Astronomische Daten und Zeiten werden oft zweckmäßig als Julianisches Datum (JD) oder modifiziert als Modifiziertes Julianisches Datum (MJD) angegeben.
+
+Heute ist die Zeit in der Physik, wie andere Messgrößen auch, operational, das heißt über ein Messverfahren, definiert.
+Zur Zeitmessung werden hauptsächlich Systeme verwendet, die periodisch in denselben Zustand zurückkehren.
+Die Zeit wird dann durch das Zählen der Perioden bestimmt.
+Ein solches Gerät nennt man Uhr.
+Doch auch monotone Bewegungen können Basis der Zeitmessung sein, z. B. bei den früheren Sand- und Wasseruhren.
+
+Eine Uhr ist umso besser, je genauer der periodische Vorgang reproduzierbar ist und je weniger er sich von äußeren Bedingungen beeinflussen lässt, beispielsweise von mechanischen Störungen, wie der Temperatur oder dem Luftdruck.
+Daher sind Quarzuhren deutlich präziser als mechanische Uhren.
+Die genauesten Uhren sind Atomuhren, die auf atomaren Schwingungsprozessen beruhen.
+Damit ist ein relativer Gangfehler von 10-15 erreichbar, was einer Sekunde Abweichung in 30 Millionen Jahren entspricht.
+Die Zeit und damit auch die Frequenz, ihr mathematischer Kehrwert, sind die physikalischen Größen, die mit der höchsten Präzision überhaupt messbar sind, was dazu geführt hat, dass die Definition der Länge mittlerweile auf die der Zeit zurückgeführt wird, indem man den Meter als diejenige Strecke definiert, die das Licht im Vakuum während 1/299.792.458 Sekunden zurücklegt.
+
+=== Newtonsche Physik
+
+Isaac Newton beschreibt das Phänomen der Zeit mit den folgenden Worten:
+
+Der grundlegende Begriff der "absoluten Zeit" galt in der Physik lange als "selbstverständlich zutreffend", von etwa 1700 bis zum Jahr 1905, d. h. bis zur Formulierung der speziellen Relativitätstheorie durch Albert Einstein.
+Der Newtonsche Zeitbegriff liegt auch heute noch dem Alltagsverständnis des Phänomens zugrunde, obwohl sich durch viele Präzisionsmessungen erwiesen hat, dass nicht Newton, sondern eher Einstein "Recht hatte".
+
+=== Quantenmechanik
+
+Obwohl die Energie-Zeit-Unschärferelation  E  t >=  2 {\displaystyle \Delta E\Delta t\geq {\frac {\hbar }{2} } } auf den ersten Blick die Form der Heisenbergschen Unschärferelation besitzt, ist sie anderer Natur.
+In der Quantenmechanik ist die Zeit t {\displaystyle t} ein Parameter.
+Einen Operator t ^ {\displaystyle {\hat {t} }} für die Zeit gibt es nicht.
+Bei Versuchen, ihn einzuführen, stößt man auf Widersprüche.
+
+=== Relativitätstheorie
+
+Durch die Entdeckungen im Zusammenhang mit der Relativitätstheorie musste der newtonsche Begriff einer absoluten, an jedem Ort im Universum gleichen Zeit aufgegeben werden.
+So beurteilen Beobachter, die sich relativ zueinander bewegen, zeitliche Abläufe unterschiedlich.
+Das betrifft sowohl die Gleichzeitigkeit von Ereignissen, die an verschiedenen Orten stattfinden, als auch die Zeitdauer zwischen zwei Treffen zweier Beobachter, die sich zwischen diesen Treffen relativ zueinander bewegen (Zeitdilatation).
+Da es kein absolut ruhendes Koordinatensystem gibt, ist die Frage, welcher Beobachter die Situation korrekt beurteilt, nicht sinnvoll.
+Man ordnet daher jedem Beobachter seine sogenannte Eigenzeit zu.
+Ferner beeinflusst die Anwesenheit von Massen den Ablauf der Zeit, sodass diese an verschiedenen Orten im Gravitationsfeld unterschiedlich schnell verstreicht.
+Damit ist Newtons Annahme, die Zeit verfließe ohne Bezug auf äußere Gegenstände, nicht mehr haltbar.
+
+Zeit und Raum erscheinen in den Grundgleichungen der Relativitätstheorie fast völlig gleichwertig nebeneinander und lassen sich daher zu einer vierdimensionalen Raumzeit vereinigen.
+Mathematisch hat man es aber nicht mit einem vierdimensionalen Euklidischen Raum zu tun, dem R 4 {\displaystyle \mathbb {R} ^{4 }} , sondern mit einem sog. Minkowski-Raum M 4 {\displaystyle \mathbb {M} ^{4 }} .
+In diesem Raum haben nicht x {\displaystyle x} und c t {\displaystyle ct} analoge metrische Struktur, sondern z. B. x {\displaystyle x} und i c t {\displaystyle ict} , wobei c {\displaystyle c} die Lichtgeschwindigkeit und i {\displaystyle i} die "imaginäre Einheit" der komplexen Zahlen ist.
+Raum und Zeit sind also auch in der speziellen Relativitätstheorie nicht völlig identisch, sondern es bleibt die Möglichkeit des thermodynamischen Verhaltens, siehe unten.
+
+Im dreidimensionalen Raum ist die Wahl der drei Koordinatenachsen willkürlich, sodass Begriffe wie links und rechts, oben und unten, vorne und hinten relativ sind.
+In der speziellen Relativitätstheorie stellt sich heraus, dass auch die Zeitachse nicht absolut ist.
+So verändern sich mit dem Bewegungszustand eines Beobachters auch die Orientierung seiner Zeit- und Raumachsen in der Raumzeit.
+Es handelt sich dabei um eine Art Scherbewegung dieser Achsen, die mathematisch mit den Drehungen nahe verwandt ist.
+Damit lassen sich Raum und Zeit nicht mehr eindeutig trennen, sondern hängen in nichttrivialer Weise voneinander ab (sog. Lorentztransformationen).
+Die Folge sind Phänomene wie Relativität der Gleichzeitigkeit, Zeitdilatation und Längenkontraktion.
+Diese im Zusammenhang mit der Relativitätstheorie entdeckten Eigenschaften von Zeit und Raum entziehen sich weitgehend der Anschauung.
+Sie sind jedoch mathematisch präzise beschreibbar und - soweit experimentell zugänglich - auch bestens bestätigt.
+Allerdings lässt sich durch eine Bewegung die Zeitachse nicht umdrehen, das heißt, Vergangenheit und Zukunft lassen sich nicht vertauschen; die entstehende Theorie behält die grundlegende Eigenschaft der Kausalität.
+
+Zeit ist in der allgemeinen Relativitätstheorie nicht unbedingt unbegrenzt.
+So gehen viele Physiker davon aus, dass der Urknall nicht nur der Beginn der Existenz von Materie ist, sondern auch den Beginn von Raum und Zeit darstellt.
+Nach Stephen W. Hawking hat es einen Zeitpunkt "eine Sekunde vor dem Urknall" ebenso wenig gegeben wie einen Punkt auf der Erde, der 1 km nördlich des Nordpols liegt.
+
+Martin Bojowald entwickelte 2008 jedoch im Rahmen der Schleifenquantengravitation (SQG) eine Theorie, nach der das Universum auch vor dem Urknall schon existierte.
+Die üblichen kosmologischen Modelle der Allgemeinen Relativitätstheorie haben dabei ihre Grenzen aufgrund der dargestellten Singularität.
+
+=== Zeitreisen
+
+Die erwähnten relativistischen Effekte lassen sich im Prinzip als Zeitreisen interpretieren.
+Inwieweit über die Krümmung der Raumzeit und andere Phänomene auch Reisen in die Vergangenheit prinzipiell möglich sind, ist nicht abschließend geklärt.
+Mögliche Kandidaten sind sogenannte Wurmlöcher, die Bereiche der Raumzeit mit unterschiedlicher Zeit verbinden könnten, ferner spezielle Flugbahnen in der Umgebung eines hinreichend schnell rotierenden Schwarzen Loches und schließlich die Umgebung zweier kosmischer Strings, die hinreichend schnell aneinander vorbeifliegen.
+Der erforderliche Aufwand für eine praktische Nutzung einer dieser potenziellen Möglichkeiten würde jedoch die heutigen Mittel der Menschheit bei Weitem übersteigen.
+
+Die bei Reisen in die Vergangenheit auftretenden Paradoxe ließen sich im Rahmen der Everettschen Vielwelten-Theorie vermeiden.
+Danach wäre die Vergangenheit, in die man reist, in einer Parallelwelt angesiedelt.
+Der ursprüngliche Ablauf der Dinge und der durch die Zeitreise modifizierte würden sich beide parallel und unabhängig voneinander abspielen.
+
+=== Zeit und Kausalität
+
+Der Zeitbegriff hängt eng mit dem Kausalitätsbegriff zusammen.
+So betrachten wir es als selbstverständlich, dass die Ursache vor ihrer Wirkung oder gleichzeitig mit ihr auftritt, genauer gesagt wird jeder Beobachter von korrelierten Ereignissen den Vorgang so beschreiben, dass in seinem Modell des Vorgangs die Wirkung durch die Ursache bedingt ist.
+Die Vergangenheit ist unveränderlich, sie kann nicht von gegenwärtigen Ereignissen beeinflusst werden.
+Die Zukunft hingegen hängt von der Gegenwart kausal ab, kann also durch Ereignisse oder Handlungen in der Gegenwart beeinflusst werden.
+
+In der Relativitätstheorie wird die zeitliche Reihenfolge mancher Ereignisse, die an verschiedenen Orten stattfinden, von relativ zueinander bewegten Beobachtern unterschiedlich beurteilt.
+Das ist genau dann der Fall, wenn die beiden Ereignisse nur durch ein Signal mit Überlichtgeschwindigkeit in Kontakt treten könnten.
+Könnte eine Wechselwirkung mit Überlichtgeschwindigkeit stattfinden, dann könnte man mit folgendem System eine Botschaft in die Vergangenheit schicken:
+
+Daher wäre das Kausalitätsprinzip verletzt.
+Mitte des 20. Jahrhunderts wurde vermutet, dass es überlichtschnelle Tachyonen geben könnte.
+Sollten sie mit gewöhnlicher Materie in Wechselwirkung treten können, so wäre die Kausalität verletzt.
+Die Hypothese der Existenz von Tachyonen hat daher kaum Anhänger.
+
+=== Zur Symmetrie der beiden Richtungen der Zeit
+
+Die Gesetze der Physik, die den Grundkräften der Phänomene unseres Alltags zugrunde liegen, sind invariant bezüglich einer Inversion der Zeit.
+Das bedeutet, dass zu jedem Vorgang, der diesen Gesetzen gehorcht, auch der zeitumgekehrte im Prinzip möglich ist.
+Diese Aussage steht im Widerspruch zu unserer Alltagserfahrung.
+Fällt eine Keramiktasse zu Boden, so zerbricht sie in Scherben.
+Dass sich umgekehrt diese Scherben von selbst wieder zu einer intakten Tasse zusammenfügen, ist dagegen noch nie beobachtet worden.
+Ein solcher Vorgang stünde jedoch nicht prinzipiell im Widerspruch zu den Naturgesetzen.
+Er ist lediglich extrem unwahrscheinlich.
+
+Der Hintergrund dieses Umstandes ist eine Wahrscheinlichkeitsüberlegung, die im zweiten Hauptsatz der Thermodynamik formuliert wird.
+Danach nimmt die Entropie, welche das Maß der Unordnung eines abgeschlossenen Systems angibt, stets zu und damit seine Ordnung ab.
+Eine vorübergehende Zunahme der Ordnung ist prinzipiell nicht ausgeschlossen, aber je nach Größe mehr oder weniger unwahrscheinlich.
+Um die spontane Wiedervereinigung von Scherben zu einer Tasse zu provozieren, müsste man daher eine mehr als astronomische Zahl von Scherbenhaufen anlegen und beobachten.
+
+Der zweite Hauptsatz der Thermodynamik - und die damit zusammenhängenden Reibungsphänomene - verletzen also die Symmetrie bezüglich der beiden Richtungen der Zeit.
+Er lässt sich daher auch nicht aus den Grundgesetzen der Physik herleiten, sondern hat die Eigenschaft eines Postulats.
+Die beiden Richtungen der Zeit verlieren damit ihre Gleichwertigkeit, und man spricht vom thermodynamischen Zeitpfeil.
+Er wird als potenzielle Basis für das Fließen der Zeit von der Vergangenheit in die Zukunft angesehen, so wie wir es in unserer Alltagswelt erfahren.
+
+Oft ist in diesem Zusammenhang von einer Umkehrbarkeit oder Unumkehrbarkeit der Zeit die Rede.
+Dabei handelt es sich jedoch um eine sprachliche und logische Ungenauigkeit.
+Könnte jemand die Zeit umkehren, dann sähe er sämtliche Vorgänge rückwärts ablaufen.
+Dieser umgekehrte Lauf der Zeit wäre aber nur aus der Sicht eines Beobachters erkennbar, der einer Art persönlicher Zeit unterworfen ist, die weiterhin unverändert vorwärts läuft.
+Eine solche Spaltung der Zeit in eine, die einem Experiment oder Gedankenexperiment unterworfen wird, und eine weitere unveränderte, hat jedoch keinen Sinn.
+
+Die Gesetze der Physik, die die Phänomene der schwachen und starken Wechselwirkung beschreiben, sind nicht invariant bezüglich einer Zeitumkehr.
+Zu einem Prozess im Bereich der Kern- und Elementarteilchenphysik ist der zeitumgekehrte daher nicht unbedingt mit den Gesetzen der Physik verträglich.
+Das CPT-Theorem besagt, dass der Prozess wieder in Einklang mit den Naturgesetzen steht, wenn er nicht nur zeitumgekehrt, sondern zusätzlich spiegelbildlich betrachtet und aus Antimaterie aufgebaut wird.
+Aus dem CPT-Theorem folgt, dass Prozesse, welche eine sogenannte CP-Verletzung darstellen, wie es bei einigen Teilchenzerfällen der Fall ist, nicht invariant bezüglich einer Zeitumkehr sein können.
+
+Im Formalismus der Beschreibung von Antimaterie sind Antiteilchen gleichwertig zu gewöhnlichen Teilchen, die sich in gewissem Sinne rückwärts in der Zeit bewegen.
+In diesem Sinne hat die Paarvernichtung von einem Teilchen mit seinem Antiteilchen eine formale Ähnlichkeit mit einem einzigen Teilchen, das sich an dieser Stelle in die Vergangenheit zurückzubewegen beginnt, sodass es dort doppelt und in der Zukunft gar nicht existiert.
+
+=== Grenzen des physikalischen Zeitbegriffs
+
+Es gibt deutliche Hinweise darauf, dass das Phänomen Zeit im Bereich der Planck-Zeit von 10-43 s seine Eigenschaften als Kontinuum verliert.
+So führt die konsequente Anwendung der bekannten physikalischen Gesetze zu dem Ergebnis, dass jeder Vorgang, der kürzer ist als die Planck-Zeit, nur einem Objekt zugeordnet werden kann, das sofort zu einem Schwarzen Loch kollabieren muss (siehe Planck-Einheiten).
+Diese Überlegung zeigt, dass die bekannten physikalischen Gesetze jenseits der Planck-Zeit versagen.
+Eine Klärung der damit verbundenen Fragen erhofft man sich von einer noch zu entwickelnden Theorie der Quantengravitation, die die beiden fundamentalen Theorien der Physik, die Relativitätstheorie und die Quantenphysik, vereinigen würde.
+In einer solchen Theorie wäre die Zeit im Bereich der Planck-Zeit möglicherweise quantisiert.
+So geht man beispielsweise in der Loop-Quantengravitation, einem Kandidaten für die Theorie der Quantengravitation, davon aus, dass das Gefüge der Raumzeit ein vierdimensionales, schaumartiges Spin-Netzwerk mit "Blasen" von der Größenordnung der Planck-Einheiten darstellt.
+Allerdings darf man sich diesen "Schaum" nicht in Raum und Zeit eingebettet vorstellen, sondern der Schaum ist in dieser Theorie Raum und Zeit.
+
+== Philosophie
+
+In der Antike haben sich u. a. die Philosophen Heraklit, Platon, Aristoteles und Augustinus mit dem Begriff der Zeit befasst, in der Neuzeit vor allem Newton, Leibniz, Kant, Heidegger und Bergson.
+
+Heraklits Flussbilder, die vom gleichbleibenden Flussbett symbolisiert werden, in dem aber Alles fließt (panta rhei), stehen als Metapher für die Zeit.
+Unwandelbare periodische Übergänge von Tag und Nacht, also die Beständigkeit des Flusslaufes, und die Dynamik seines Fließens stehen als die Einheit der Gegensätze.
+
+Für Platon haben Raum und Zeit keine Wesenheit, sondern sind nur bewegte Abbilder des eigentlich Seienden (Ideenlehre).
+Für Aristoteles ist der Zeitbegriff untrennbar an Veränderungen gebunden, Zeit ist das Maß jeder Bewegung und kann nur durch diese gemessen werden.
+Sie lässt sich in unendlich viele Zeitintervalle einteilen (Kontinuum).
+
+Augustinus unterscheidet erstmals zwischen einer physikalisch exakten (messbaren) und einer subjektiven, erlebnisbezogenen Zeit.
+Zeit und Raum entstanden erst durch Gottes Schöpfung, für den alles eine Gegenwart ist.
+Das Geheimnis der Zeit fasst Augustinus in folgendem Ausspruch zusammen:
+
+"Was also ist ,Zeit'?
+Wenn mich niemand danach fragt, weiß ich es; will ich es einem Fragenden erklären, weiß ich es nicht." (Confessiones XI, 14)
+
+Für Isaac Newton bilden Zeit und Raum die "Behälter" für Ereignisse, sie sind für ihn ebenso real wie gegenständliche Objekte:
+"Zeit ist, und sie tickt gleichmäßig von Moment zu Moment." In der Naturphilosophie dominiert Newtons Auffassung, weil sie ermöglicht, Zeit und Raum unabhängig von einem Bezugspunkt oder Beobachter zu beschreiben.
+
+Im Gegensatz dazu meint Gottfried Wilhelm Leibniz, dass Zeit und Raum nur gedankliche Konstruktionen sind, um die Beziehungen zwischen Ereignissen zu beschreiben.
+Sie haben kein "Wesen" und es gebe daher auch keinen "Fluss" der Zeit.
+Er definiert die Zeit so: "Die Zeit ist die Ordnung des nicht zugleich Existierenden.
+Sie ist somit die allgemeine Ordnung der Veränderungen, in der nämlich nicht auf die bestimmte Art der Veränderungen gesehen wird."
+
+Nach Immanuel Kant ist die Zeit ebenso wie der Raum eine "reine Anschauungsform" des inneren Sinnes.
+Sie seien unser Zugang zur Welt, gehörten also zu den subjektiv-menschlichen Bedingungen der Welterkenntnis, in deren Form das menschliche Bewusstsein die Sinneseindrücke erlebt.
+
+Kant schreibt ihr jedoch eine empirische Qualität für Zeitmessungen und entfernte Ereignisse zu.
+Wir können die Zeit aus unserer Erfahrung nicht wegdenken und auch nicht erkennen, ob sie einer - wie auch immer gearteten - Welt an sich zukommt.
+In ähnlicher Weise beschreibt Martin Heideggers Hauptwerk Sein und Zeit letztere als eine Wirklichkeit, die das Menschsein zutiefst prägt.
+
+== Psychologie
+
+Zwischen der subjektiv wahrgenommenen Zeit und der objektiv messbaren bestehen oft deutliche Differenzen.
+Die folgenden Abschnitte sollen diese kurz und übersichtlich darstellen.
+
+=== Die Wahrnehmung der Zeitdauer
+
+Die Wahrnehmung der Zeitdauer hängt davon ab, was in der Zeit passiert.
+Ein ereignisreicher Zeitraum erscheint kurz, "vergeht wie im Flug".
+Hingegen dauern ereignisarme Zeiträume manchmal quälend lange.
+Von dieser Beobachtung leiten sich auch die Begriffe Kurzweil und Langeweile ab.
+
+Paradoxerweise empfindet man im Rückblick die Zeiten gerade umgekehrt:
+In ereignisreichen Zeiten hat man viele Informationen eingespeichert, sodass dieser Zeitraum lange erscheint.
+Umgekehrt erscheinen ereignisarme Zeiten im Rückblick kurz, da kaum Informationen über sie gespeichert sind.
+
+=== Die Wahrnehmung der Gleichzeitigkeit
+
+Gleichzeitigkeit in der Wahrnehmung ist komplexer, als es auf den ersten Blick den Anschein hat.
+Es gibt verschiedene Schwellen:
+
+== Biologie
+
+Fast alle Lebewesen, bis hin zum Einzeller, besitzen eine biologische innere Uhr, die sich mit dem Tag-Nacht-Wechsel und anderen natürlichen Zyklen synchronisiert.
+Die innere Uhr zum Tagesrhythmus läuft aber auch ohne Tageslicht, wie an Pflanzen in der Dunkelheit gezeigt werden konnte, aber auch an Menschen in Bunker-Experimenten, in denen die freiwilligen Versuchspersonen ohne jeden Hinweis auf äußere Zeitrhythmen lebten.
+Dabei stellte sich nach einiger Zeit ein konstanter Wach-Schlaf-Rhythmus von im Mittel etwa 25 Stunden ein.
+Man bezeichnet ihn als circadianen Rhythmus (von lat. circa, ungefähr, und lat. dies, Tag).
+
+== Vergleichende Kulturwissenschaft
+
+Die vergleichende Kulturwissenschaft und die philosophische Reflexion darauf führen immer mehr zu der Einsicht, dass es die Zeit als anthropologische Konstante, die allen Menschen gleicherweise zukommt, überhaupt nicht gibt.
+Vielmehr existieren kulturspezifische Zeitauffassungen mit diversen Strukturen, wie:
+
+== Soziologie und Gesellschaft
+
+Aus soziologischer Sicht sind Zeitstrukturen notwendig, um die Bürger vom Entscheidungsstress zu entlasten (A. Gehlen), ihre bürgerlichen Pflichten festzusetzen, ihre Angelegenheiten zu verwalten und ihre Handlungen zu koordinieren.
+Hilfreich dafür sind Kalender mit festgelegten Zeitrhythmen (Jahr, Monate, Wochen, Sonn- und Feiertage usw.) und Funktionen (z. B. kirchlich, national oder international wiederkehrende Anlässe, deren es zu gedenken gilt).
+Je nach der Komplexität gesellschaftlicher Ordnung werden Zeitfenster zur Einteilung der Lebensalter mit ihren jeweiligen Funktionen bestimmt: Säuglingsalter, Zeit der Kindheit, Jugendlichenalter, Zeit des Erwachsenseins, Greisenalter oder: Kindergartenzeit, Schulzeit, Zeit des Studiums bzw. Lehrzeit, Erwerbsarbeitszeit, Freizeit.
+Innerhalb dieser gesellschaftlichen Zeitfestlegungen fädeln die Bürger ihre individuellen Biographien auf: z. B. Geburt, Initiationsriten (Taufe o. Ä.), Schuleintritt, schulische Karriere, Studium oder Berufseintritt, Heirat etc.
+
+== Zeit und Recht
+
+Welche gesetzliche Zeit an welchem Ort gilt, ist eine politische Entscheidung des jeweiligen Staates.
+In Deutschland steht das Recht der Zeitbestimmung nach Art.
+73 Abs. 1 Nr. 4 GG allein dem Bund zu.
+Die Zeit in Deutschland wurde bis 12. Juli 2008 durch das Gesetz über die Zeitbestimmung und wird seither durch das Einheiten- und Zeitgesetz geregelt.
+
+== Zeit in der Literatur
+
+== Tempus
+
+Als Tempus bezeichnet man die Zeitform in der Grammatik.
+In verschiedenen Sprachen gibt es unterschiedliche Zeitformen, die unterschiedlich gebildet werden.
+In der hochdeutschen Sprache wird die Zeit auf drei Weisen dargestellt.
+
+Einen zeitlich anhaltenden Verlauf kann man auch mit Partizip angeben.
+Beispiel: das fließende Wasser.
+
+Einen Extremfall stellt die umstrittene Behauptung von Benjamin Lee Whorf dar, der in einer Untersuchung der Sprache der Hopi festgestellt haben will, dass die Hopi-Sprache kein Konzept für den Begriff der Zeit besäße.
+Dies führte zum linguistischen Relativitätsprinzip alias Sapir-Whorf-Hypothese, wonach das Denken von den gesprochenen Sprachen abhängt.
+
+Tempus ist außerdem ein Grundbegriff der Musiktheorie.
+
+== Musik als Medium in der Zeit
+
+Als Musik ist Zeit nicht nur durch das Metrum, zum Beispiel Tempus, zu verstehen, sondern durch die Schwingung selbst und jede denkbare praktische Involvierung.
+Derart tritt Zeit als elementare Voraussetzung der Musik auf.
+Musik ist von den Künsten der Zeit am nächsten, was durch entsprechende Stellungnahmen, Musik sei besonders flüchtig und ein "Medium in der Zeit", betont wird.
+Musik jenseits der Zeit wird indes von Musikern oft angesteuert und bildet damit einen eigenen theoretischen Horizont.
+
+== Literatur
+
+Klassiker
+
+Wissenschaftsgeschichte
+
+Naturphilosophie
+
+Kulturwissenschaften
+
+Populäre Literatur zur modernen Physik
+
+Artikel
+
+== Weblinks
+
+=== Spezielleres
+
+== Einzelnachweise
+

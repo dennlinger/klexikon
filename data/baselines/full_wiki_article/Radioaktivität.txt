@@ -1,0 +1,277 @@
+Radioaktivität (von französisch radioactivite; zu lateinisch radiare "strahlen" und activus "tätig", "wirksam"; zusammengesetzt also "Strahlungstätigkeit") ist die Eigenschaft instabiler Atomkerne, spontan ionisierende Strahlung auszusenden.
+Der Kern wandelt sich dabei unter Aussendung von Teilchen in einen anderen Kern um oder ändert unter Energieabgabe seinen Zustand.
+Die durch den Prozess ausgestrahlte ionisierende Strahlung wird umgangssprachlich auch "radioaktive Strahlung" genannt.
+Die Bezeichnung Radioaktivität wurde 1898 erstmals vom Ehepaar Marie Curie und Pierre Curie für das zwei Jahre vorher von Antoine Henri Becquerel entdeckte Phänomen geprägt.
+Der Umwandlungsprozess wird auch als radioaktiver Zerfall oder Kernzerfall bezeichnet.
+Atomsorten mit instabilen Kernen werden Radionuklide genannt.
+Die beim Umwandlungsprozess frei werdende Energie wird als Bewegungsenergie ausgesandter Teilchen (meist Alpha- oder Beta-Teilchen) oder als Strahlungsenergie von Gammastrahlung abgegeben.
+Art und Energiespektrum der Strahlung sind für das jeweilige Radionuklid typisch.
+Diese Strahlungsarten sind für den Menschen - ebenso wie Höhen- und Röntgenstrahlung - nicht direkt wahrnehmbar und können je nach den Umständen schädlich (siehe Strahlenschaden, Strahlenwirkung) oder nützlich (siehe z. B. Strahlensterilisation, Radionuklidtherapie, Brachytherapie) sein.
+Nach einer für jedes radioaktive Nuklid charakteristischen Zeit, der Halbwertszeit, hat sich dessen Menge halbiert, somit auch seine Aktivität.
+Halbwertszeiten können im Bereich von Sekundenbruchteilen bis zu Quadrillionen Jahren liegen.
+Radionuklide kommen in der Natur vor.
+Sie entstehen aber auch z. B. in Kernreaktoren oder durch Kernwaffen-Explosionen.
+In Teilchenbeschleunigern können sie gezielt hergestellt werden.
+Radioaktive Substanzen finden Anwendung u. a. in Radionuklidbatterien und -Heizelementen zur Energieversorgung in der Raumfahrt sowie in der Nuklearmedizin und Strahlentherapie.
+In der Archäologie nutzt man den radioaktiven Zerfall zur Altersbestimmung, beispielsweise mit der Radiokarbonmethode.
+Der Begriff "Radioaktiver Zerfall" bezieht sich ursprünglich auf die an einem Radionuklid beobachtete Abnahme seiner Strahlungsintensität mit der Zeit (sofern es nicht durch andere Prozesse ständig neu erzeugt wird).
+Er wird auch für die Abnahme der Menge des Radionuklids benutzt.
+Fachsprachlich wird darüber hinaus auch die spontane Umwandlung des einzelnen Atomkerns - und manchmal überhaupt jede spontane Zustandsänderung eines quantenmechanisch beschriebenen Systems - als Zerfall bezeichnet, z. B. "Gammazerfall" schon für die Emission eines einzigen Gammaquants.
+Im Wortsinn handelt es sich dabei weniger um einen Zerfall als um eine Umwandlung des Atomkerns bzw. des Systems.
+In der Alltagssprache und in öffentlichen Diskussionen werden radioaktive Substanzen und ihre Strahlung oft nicht unterschieden.
+So wird von radioaktiver Strahlung gesprochen.
+Diese Wortkombination ist genau genommen falsch, denn nicht die Strahlung selbst ist radioaktiv, sondern die Substanzen (Strahler), aus denen sie austritt; gemeint ist ionisierende Strahlung radioaktiver Substanzen.
+Früher war hierfür der Begriff Becquerelstrahlen (engl.: Becquerel rays) gebräuchlich.
+In Berichten über kerntechnische Zwischenfälle wird oft von ausgetretener Strahlung gesprochen, obwohl es dann meist um unbeabsichtigt freigesetzte radioaktive Stoffe wie Caesium-137 und Iod-131 geht.
+Diese können, etwa durch Aufnahme in den menschlichen Körper, erheblich größere Gefahr mit sich bringen als die aus einer Anlage austretende Strahlung selbst.
+1896 entdeckte Antoine Henri Becquerel beim Versuch, die gerade gefundene Röntgenstrahlung als Fluoreszenzerscheinung zu erklären, dass Uransalze auch ohne vorherige Belichtung fotografische Platten schwärzen.
+Dies schloss Fluoreszenz als Ursache aus.
+Wie er später feststellte, konnte diese neue Strahlung lichtundurchlässige Stoffe durchdringen und Luft ionisieren, ohne dabei von Temperaturänderungen oder chemischen Behandlungen der Probe beeinflusst zu werden.
+1898 entdeckten Marie und Pierre Curie die Radioaktivität von Thoriumoxid und isolierten zwei bis dahin unbekannte weitaus stärker strahlende Substanzen, die sie Radium und Polonium tauften.
+1898 gelang es Ernest Rutherford durch Untersuchung des Durchdringungsvermögens zwei Strahlungskomponenten zu unterscheiden, die er als a-(Alpha)- und -(Beta)-Strahlung bezeichnete.
+Ein Jahr später konnten Stefan Meyer und Egon Schweidler sowie Friedrich Giesel zeigen, dass diese in magnetischen Feldern in entgegengesetzte Richtungen abgelenkt werden.
+1900 entdeckte Paul Villard eine dritte Komponente, die sich nicht durch Magnetfelder ablenken ließ und die besonders durchdringend war.
+Für diese dritte Strahlungsart prägte Rutherford 1903 die Bezeichnung -(Gamma)-Strahlung.
+Bis 1909 hatte sich erwiesen, dass Alphastrahlung aus Heliumkernen und Betastrahlung aus Elektronen besteht.
+Die Vermutung, dass es sich bei Gammastrahlung um elektromagnetische Strahlung handelt, konnte erst 1914 von Rutherford und Edward Andrade bestätigt werden.
+Bereits 1903 - sechs Jahre vor dem Nachweis von Atomkernen - entwickelten Rutherford und Frederick Soddy eine Hypothese, nach der Radioaktivität mit der Umwandlung von Elementen (Transmutation) verbunden ist.
+Davon ausgehend formulierten 1913 Kasimir Fajans und Frederick Soddy die radioaktiven Verschiebungssätze.
+Diese beschreiben die Änderung von Massen- und Ordnungszahl bei Alpha- und Betazerfall, womit die natürlichen Zerfallsreihen als eine schrittweise Abfolge dieser Zerfallsprozesse erklärt werden konnten.
+1933 gelang es Irene und Frederic Joliot-Curie erstmals, neue radioaktive Elemente zu erzeugen.
+Durch den Beschuss von Proben mit a-Teilchen konnten sie Nuklide herstellen, die aufgrund ihrer kurzen Halbwertszeiten in der Natur nicht vorkommen.
+1934 entdeckten sie bei ihren Versuchen eine neue Art des Betazerfalls, bei der Positronen anstelle von Elektronen abgestrahlt wurden.
+Seither unterscheidet man zwischen +- und --Strahlung.
+1980 sagten Aureliu Sandulescu, Dorin N. Poenaru und Walter Greiner aufgrund theoretischer Überlegungen eine neue Art der Radioaktivität voraus, bei der Kerne emittiert werden, die schwerer als a-Teilchen sind.
+Der erste experimentelle Nachweis eines solchen Clusterzerfalls gelang H. J. Rose und George Arnold Jones 1983 an der University of Oxford.
+Sie beobachteten, dass 223Ra, normalerweise ein a-Strahler, sehr selten unter Aussendung eines 14C-Kerns zu 209Pb zerfällt.
+In der Natur kommen nach derzeitigem Kenntnisstand 255 stabile Nuklide sowie etwa 100 instabile Nuklide vor.
+Insgesamt sind etwa 3000 radioaktive Nuklide (Radionuklide) bekannt.
+Die weitaus meisten aller bekannten Nuklide sind also als radioaktiv nachgewiesen.
+Ist Radioaktivität bei einem Nuklid nicht beobachtet worden, gibt es zwei Möglichkeiten:
+Ein Beispiel der ersten Art ist Helium-4. Ein Beispiel der zweiten Art ist Blei-208, das schwerste Nuklid ohne nachgewiesenen Zerfall.
+Sein Alphazerfall 208Pb = 204Hg + a würde etwa 0,5 MeV Energie freisetzen.
+Abschätzungen der Halbwertszeit nach verschiedenen Varianten der Geiger-Nuttall-Regel ergeben mehr als 10100 Jahre, also mindestens das 1090-fache des Alters des Universums.
+Daher wird dieser Zerfall voraussichtlich nie beobachtet werden.
+Es gibt noch weitere Nuklide mit möglichem, aber nicht beobachtetem Zerfall.
+Die Gesamtzahl stabiler Nuklide steht daher heute (2020) noch nicht fest.
+Alle Elemente bis zum Blei, außer Technetium und Promethium, haben ein oder mehrere stabile Isotope; die Anzahl stabiler Isotope geht bis zu zehn (Zinn).
+Alle Elemente schwerer als Blei sind instabil (radioaktiv).
+Nur zwei sehr leichte Nuklide, der normale Wasserstoff 1H und das seltene Helium-Isotop 3He, sind mit weniger Neutronen als Protonen stabil.
+Alle anderen Nuklide "benötigen" zur Stabilität mindestens ebenso viele (6Li, 10B, 12C, 14N, 16O, 20Ne, 24Mg, 28Si, 32S, 36Ar und 40Ca), meistens aber sogar mehr Neutronen als Protonen.
+Das durchschnittliche Verhältnis von Neutronenzahl zu Protonenzahl wächst mit zunehmender Ordnungszahl von 1:1 für sehr leichte Nuklide zu 1,54:1 für die schwersten stabilen Nuklide (siehe auch Neutronenüberschuss).
+Alle Nuklide mit zu vielen oder zu wenigen Neutronen sind instabil und damit radioaktiv.
+Kerne mit mehr als 208 Teilchen sind immer instabil.
+Die stabilsten Nuklide - also die mit der höchsten Bindungsenergie pro Nukleon - sind 62Ni, 58Fe und 56Fe.
+Unmittelbare Nachbarn wie z. B. 63Ni oder 60Co sind aber schon radioaktiv.
+Neben einem ausgewogenen Verhältnis von Neutronen zu Protonen ist es entscheidend, ob die Anzahl der Neutronen und Protonen jeweils gerade (gepaart und günstig) oder ungerade (ungepaart und ungünstig) ist.
+Die Bindungsenergie kann mit der Bethe-Weizsäcker-Formel näherungsweise berechnet werden.
+Für nicht stabile Nuklide kann man abschätzen, welcher (weiter unten beschriebenen) Zerfallsart sie unterliegen:
+Ein Gamma-Zerfall tritt in der Regel als Folgeprozess nach einem vorangegangenen Zerfall anderer Art auf.
+Allgemein ist die Halbwertszeit umso kürzer, je weiter das Nuklid von der Stabilität (schwarze Felder der Nuklidkarte) entfernt ist.
+Radioaktiver Zerfall ist kein deterministischer Prozess.
+Der Zerfallszeitpunkt jedes einzelnen Atomkerns ist zufällig.
+Allerdings gibt es für jedes Radionuklid eine bestimmte Zerfallswahrscheinlichkeit pro Zeiteinheit; bei makroskopischen Stoffmengen führt dies dazu, dass die Menge des Nuklids in guter Näherung exponentiell abnimmt, wie es das Zerfallsgesetz beschreibt.
+Die Zerfallswahrscheinlichkeit kann indirekt, aber anschaulich durch die Halbwertszeit angegeben werden, d. h. den Zeitraum, nach dem die Hälfte der Atomkerne einer Anfangsmenge zerfallen ist.
+Radioaktive Halbwertszeiten liegen im Bereich von winzigen Sekundenbruchteilen bis hin zu Quadrillionen Jahren.
+Je kürzer die Halbwertszeit, desto größer ist bei gegebener Substanzmenge die Aktivität dieses Nuklids.
+Die Gesamtaktivität einer Ursprungsmenge kann um ein Vielfaches ansteigen, wenn beim Zerfall kein stabiles oder langlebiges Nuklid entsteht.
+Die Substanz reichert sich mit Radionukliden der Zerfallsreihe an, die jeweils die gleiche Aktivität wie der ursprüngliche Prozess haben.
+Dabei stellt sich ein säkulares Gleichgewicht ein.
+Dies erfolgt bei z. B. 137Cs nach wenigen Minuten, bei 232Th dauert es etliche Jahre.
+Die Aktivität A einer Substanzmenge ist der Erwartungswert der Zahl der Zerfälle N pro Zeiteinheit.
+Die tatsächliche Zahl von Zerfällen, die man in einem bestimmten Zeitintervall T beobachtet, schwankt zufällig um den Erwartungswert NT = A*T; die Häufigkeit, mit der dabei eine bestimmte Anzahl k auftritt, folgt einer Poisson-Verteilung.
+Dieser Prozess steckt z. B. hinter der Unregelmäßigkeit des Knackens eines Kontaminationsnachweisgerätes (umgangssprachlich "Geigerzähler").
+Die Poisson-Verteilung lässt sich bei genügend großer mittlerer Zahl näherungsweise durch die Gauß-Verteilung beschreiben.
+Die Standardabweichung bei N {\displaystyle N} Zerfallsereignissen im gewählten Zeitintervall beträgt N {\displaystyle {\sqrt {N}}} .
+Die häufigsten, wichtigsten und am längsten bekannten Zerfallsarten, auch als Zerfallsmodus (ZM) oder Zerfallskanal bezeichnet, sind Alpha-, Beta- und Gamma-Zerfall.
+Da die Natur dieser Vorgänge zur Zeit ihrer Entdeckung unbekannt war, bezeichnete man die drei Strahlenarten in der Reihenfolge zunehmenden Durchdringungsvermögens mit den ersten drei (Klein-)Buchstaben des griechischen Alphabets: a,  und .
+Außer diesen drei Umwandlungsarten wurden später weitere entdeckt.
+Die meisten davon sind selten und nur für die physikalische Forschung selbst von Interesse; eine gewisse praktische Bedeutung hat außer Alpha-, Beta- und Gamma-Zerfall noch die Spontanspaltung.
+Manche Nuklide können auf mehrere Arten zerfallen, haben also mehr als einen Zerfallskanal.
+Eine Nuklidkarte ist eine graphische Übersicht aller stabilen und instabilen Nuklide einschließlich ihrer beobachteten Zerfallsarten und Halbwertszeiten.
+Die Vielzahl existierender Zerfallsarten lässt sich in verschiedene Kategorien einteilen:
+Ein Alpha-Zerfall tritt hauptsächlich bei schwereren und relativ neutronenarmen Nukliden auf.
+Dabei verlässt ein Helium-4-Kern, in diesem Fall Alphateilchen genannt, mit einer Geschwindigkeit von 3 bis 8 Prozent der Lichtgeschwindigkeit den Mutterkern.
+Dies ist trotz der hohen Coulombbarriere aufgrund des Tunneleffekts möglich.
+Der Restkern, auch Rückstoßkern oder Tochterkern genannt, hat nach dem Vorgang eine um 4 verringerte Nukleonenzahl und eine um 2 verringerte Kernladungszahl.
+Die allgemeine Formel des Alpha-Zerfalls lautet
+Beispiel: Der Zerfall von Uran-238 in Thorium-234:
+Weitere Zerfälle unter Aussendung von Nukleonen folgen hier.
+Ein Beta-Zerfall tritt bei einem unausgewogenen Verhältnis von Neutronen zu Protonen im Kern auf.
+Die dabei entstehende Betastrahlung besteht entweder aus Elektronen (-) oder Positronen (+), die den Kern mit - je nach Nuklid - bis zu 99,9 Prozent der Lichtgeschwindigkeit verlassen.
+Beim Beta-Minus-Zerfall wird im Kern ein Neutron in ein Proton umgewandelt.
+Dabei werden ein Elektron und ein Elektron-Antineutrino emittiert.
+Die Nukleonenzahl des Kerns ändert sich dabei nicht, seine Ordnungszahl erhöht sich um 1.
+Die allgemeine Formel lautet
+Beispiel: Der Zerfall von Kohlenstoff-14 in das stabile Isotop Stickstoff-14:
+Beta-Minus-Strahlung lässt sich durch wenige Meter Luft oder z. B. durch eine Plexiglasplatte vollständig abschirmen.
+Neutrino und Antineutrino unterliegen nur der schwachen Wechselwirkung.
+Wegen dieser äußerst seltenen Wechselwirkung mit Materie sind sie nur schwer nachzuweisen und für Lebewesen ungefährlich.
+Sonnen-Neutrinos durchqueren fast ungeschwächt Teile der Sonne und die ganze Erde.
+Beim Beta-Plus-Zerfall wird im Kern ein Proton in ein Neutron umgewandelt; dabei werden ein Positron und ein Elektron-Neutrino emittiert.
+Die Nukleonenzahl des Kerns ändert sich dabei nicht, seine Ordnungszahl verringert sich um 1.
+Die allgemeine Formel lautet
+Beispiel: Der Zerfall von Stickstoff-13 in das stabile Isotop Kohlenstoff-13:
+Eine andere Möglichkeit zur Umwandlung eines Protons in ein Neutron besteht im Elektroneneinfang, auch -Zerfall oder manchmal inverser -Zerfall genannt.
+Dabei wird ein Elektron aus der Atomhülle in den Kern "gezogen".
+Nach der typisch betroffenen Elektronenschale, der K-Schale, wird der Elektroneneinfang auch als K-Einfang bezeichnet.
+Ein Proton des Kerns wird in ein Neutron umgewandelt und ein Elektron-Neutrino emittiert.
+Die Veränderung des Kerns ist gleich wie beim +-Zerfall: die Nukleonenzahl bleibt unverändert, die Ordnungszahl verringert sich um eins.
+Der Elektroneneinfang konkurriert daher mit dem +-Zerfall.
+Da der +-Zerfall die Energie für das emittierte Positron aufbringen muss, kommt energetisch nicht für jedes Nuklid, das mit Elektroneneinfang zerfällt, der +-Zerfall in Frage.
+In der vom Elektroneneinfang betroffenen Schale wird ein Platz frei und Elektronen aus den äußeren Schalen rücken nach, wobei charakteristische Röntgenstrahlung emittiert wird.
+Allgemein lautet die Formel für den Elektroneneinfang
+Beispiel: Der Zerfall von Nickel-59 zu Kobalt-59:
+Für einige Kerne ist ein einfacher Elektroneneinfang energetisch nicht möglich, sie können aber durch gleichzeitiges Einfangen zweier Elektronen zerfallen.
+Da derartige Zerfälle zwei schwache Wechselwirkungen gleichzeitig benötigen, haben sie extrem lange Halbwertszeiten.
+Direkt nachgewiesen wurden sie erstmals 1986.
+Beispiel: Der Zerfall von Xenon-124 in Tellur-124:
+Für einige Kerne ist ein einfacher Beta-Zerfall energetisch nicht möglich, sie können aber unter Abstrahlung zweier Elektronen zerfallen.
+Da derartige Zerfälle zwei schwache Wechselwirkungen gleichzeitig benötigen, haben sie extrem lange Halbwertszeiten.
+Direkt nachgewiesen wurden sie erstmals 1987.
+Beispiel: Der Zerfall von Zirkonium-96 in Molybdän-96:
+Ob beim doppelten Beta-Zerfall stets zwei Neutrinos emittiert werden oder ob auch ein neutrinoloser doppelter Beta-Zerfall vorkommt, ist bisher (2016) nicht beantwortet.
+Könnte der neutrinolose Fall nachgewiesen werden, so hätten sich die Neutrinos gegenseitig annihiliert, was bedeuten würde, dass Neutrinos ihre eigenen Antiteilchen sind.
+Damit wären sie sogenannte Majorana-Teilchen.
+Ein Gamma-Zerfall tritt allgemein auf, wenn ein Atomkern nach einem vorherigen anderen Zerfall in einem angeregten Zustand verbleibt.
+Durch Emission hochenergetischer elektromagnetischer Strahlung (-Strahlung) gibt der Atomkern Energie ab und geht in einen Zustand niedrigerer Energie über.
+Die Neutronen- und Protonenzahl des Kerns ändern sich dabei nicht.
+Die Bezeichnung Gamma"zerfall" ist insofern etwas irreführend, aber trotzdem übliche Nomenklatur.
+Der Gammazerfall erfolgt bis auf wenige Ausnahmen innerhalb kürzester Zeit (10-18 bis 10-12 Sekunden) nach einem vorherigen Zerfall.
+Die allgemeine Formel ist
+Ein bekanntes Beispiel ist die Aussendung von Gammastrahlung durch einen Nickel-60-Kern, der (meist) durch Beta-Zerfall eines Cobalt-60-Kerns entstanden ist:
+Das Zerfallsschema dieses Prozesses ist in der Grafik am rechten Rand dargestellt.
+60Co, ein Nuklid mit vielen praktischen Anwendungen, ist ein Beta-Minus-Strahler mit einer Halbwertszeit von 5,26 Jahren.
+Es zerfällt in einen angeregten Zustand von 60Ni*, der praktisch sofort mit einer Halbwertszeit von etwas weniger als 1 ps durch Emission von (meist) einer Kaskade aus zwei Gammaquanten in den Grundzustand übergeht.
+Bei den praktischen Anwendungen von 60Co und vielen anderen Radionukliden geht es sehr oft nur um diese Gammastrahlung; die Alpha- oder Betastrahlung wird in diesen Fällen durch das Gehäuse des radioaktiven Präparates abgeschirmt und nur die Gammastrahlung dringt nach außen.
+Obwohl die Gammastrahlung aus dem Tochternuklid des Alpha- oder Beta-Zerfalls kommt, ordnet man sie sprachlich immer dessen Mutternuklid zu.
+Man spricht vom "Gammastrahler" Cobalt-60 usw., denn die einzige praktisch brauchbare Quelle dieser Gammastrahlung ist ein 60Co-Präparat.
+Nur wenn der angeregte Zustand ein Isomer ist, d. h. eine ausreichend lange Halbwertszeit hat, kann die eigentliche Gammastrahlungsquelle getrennt von ihrer Erzeugung genutzt werden, wie im Falle von Technetium-99:
+Dieses Technetium-Isotop mit einer Halbwertszeit von sechs Stunden wird in der medizinischen Diagnostik verwendet.
+Zur Abschirmung von -Strahlung sind unter Umständen dezimeterdicke Beton- oder Bleiplatten nötig, denn sie hat in Materie keine bestimmte Reichweite, sondern wird nur exponentiell abgeschwächt.
+Es gibt daher für jedes Abschirmmaterial eine von der Gammaenergie abhängige Halbwertsdicke.
+Gammastrahlung ist wie Licht elektromagnetische Strahlung, ihr Quant ist aber sehr viel energiereicher und liegt damit weit außerhalb des für das menschliche Auge sichtbaren Spektrums.
+Die beim Übergang eines Atomkerns in einen energetisch niedrigeren Zustand freiwerdende Energie kann auch an ein Elektron der Atomhülle abgegeben werden.
+Diesen Vorgang nennt man Innere Konversion.
+Die Konversionselektronen haben dementsprechend ganz charakteristische Energien, zeigen also im Gegensatz zu -Elektronen ein Linienspektrum.
+Bei innerer Konversion fehlt nach dem Zerfall in der Hülle eine negative Elementarladung und es bleibt ein positives Ion zurück.
+Bei besonders schweren Kernen jenseits der Ordnungszahl 90 (Thorium) ist die spontane Spaltung ein weiterer radioaktiver Umwandlungsprozess.
+Der Atomkern zerfällt in zwei (selten mehr) mittelschwere Tochterkerne und setzt dabei zwei oder drei Neutronen frei.
+Es sind verschiedener Tochterkernpaare möglich, jedoch ist die Summe der Kernladungszahlen und die Summe der Massenzahlen aller Spaltprodukte jeweils gleich der des Ursprungskerns:
+Natürlich vorkommenden Uranisotope zerfallen zu einem winzigen Teil durch spontane Spaltung:
+Neben der meist binären Kernspaltung tritt selten auch eine ternäre Kernspaltung auf, bei der also ein drittes (leichtes) Teilchen auftritt.
+Meist ist dieses Teilchen ein 4He- oder 3H-Kern.
+Noch seltener treten quaternäre Kernspaltungen auf, in denen zwei weitere leichte Teilchen (auch hier meist 4He) entstehen.
+Bei Kernen mit besonders hoher oder besonders niedriger Neutronenzahl kann es zu spontaner Nukleonenemission, d. h. zu Protonen- oder Neutronenemission kommen.
+Atomkerne mit sehr hohem Protonenüberschuss können ein Proton abgeben, Atomkerne mit hohem Neutronenüberschuss können Neutronen abgeben.
+Beispiel: Bor-9 spaltet ein Proton ab, um den Überschuss auszugleichen:
+Beispiel: Helium-5 sendet dagegen spontan ein Neutron aus:
+Bei extremem Protonenüberschuss kann der Zwei-Protonen-Zerfall auftreten, bei dem sogar zwei Protonen gleichzeitig emittiert werden.
+Beispiel: Der Zerfall von Schwefel-26 in Silicium-24:
+Bei extremem Neutronenüberschuss kann der Zwei-Neutronen-Zerfall auftreten, bei dem sogar zwei Neutronen gleichzeitig emittiert werden.
+Beispiel: Der Zerfall von Beryllium-16 in Beryllium-14:
+Beide Zwei-Nukleonen-Prozesse treten nahe der theoretischen Stabilitätsgrenze, dem "Rand der Nuklidkarte" auf.
+Außerhalb davon kann es keine gebundenen Atomkerne geben.
+Statt einzelner Nukleonen oder Helium-4-Kerne werden in sehr seltenen Fällen auch größere Atomkerne emittiert.
+Diese Zerfallsform wurde 1980 vorhergesagt und 1983 experimentell bestätigt.
+Beispiele:
+Das Produkt eines Zerfalls kann stabil oder seinerseits radioaktiv sein.
+Im letztgenannten Fall wird eine Abfolge von radioaktiven Zerfällen stattfinden, bis schließlich ein stabiles Nuklid als Endprodukt entstanden ist.
+Diese Aufeinanderfolge radioaktiver Zerfälle heißt Zerfallsreihe oder Zerfallskette.
+So zerfällt das Isotop Uran-238 unter Aussendung eines Alpha-Teilchens in Thorium-234, dieses wandelt sich dann durch einen Beta-Zerfall in Protactinium-234 um, welches wieder instabil ist und so fort.
+Nach insgesamt 14 bzw. 15 Zerfällen endet diese Zerfallsreihe beim stabilen Kern Blei-206.
+Da manche Kerne auf verschiedene Weisen zerfallen können (siehe Zerfallskanal), können von einem Mutterkern mehrere Zweige der gleichen Zerfallsreihe ausgehen (die sich auch wieder treffen können).
+So gehen zum Beispiel etwa 64 % der Atome einer Bismut-212-Probe durch einen Beta-Zerfall in Polonium-212, die übrigen etwa 36 % durch einen Alpha-Zerfall in Thallium-208 über.
+Eine ursprünglich reine Probe eines Radionuklids kann auf diese Weise mit der Zeit in ein Gemisch verschiedener Radionuklide übergehen.
+Dabei sammeln sich langlebige Nuklide stärker als kurzlebige an.
+a-Strahlung kann schon mit einem Blatt Papier, dünner Pappe oder durch Luft abgeschirmt werden.
+Zur Abschirmung von --Strahlung (Elektronen) werden dünne Schichten aus Plexiglas oder Blech verwendet, wobei Materialien mit geringer Ordnungszahl auf Grund geringerer auftretender Bremsstrahlung sich besser eignen.
+Zur Abschirmung von +- und zugleich -Strahlung (siehe Annihilation) werden Materialien hoher Ordnungszahlen verwendet, z. B. Blei.
+Generell steigt die Reichweite ionisierender Strahlung mit ihrer Energie und fällt mit der Dichte des Abschirmmaterials.
+a-Strahlung der kinetischen Energie von 5 MeV hat in Luft eine Reichweite von 3,6 cm, dagegen in Gewebe nur 0,04 mm.
+Hauptsächlich gibt ionisierende Strahlung Energie durch Stöße mit den Atomen des Abschirmmaterials ab, dabei werden Atome ionisiert oder angeregt, wodurch wiederum Sekundärelektronen und Röntgenstrahlung innerhalb des Abschirmmaterials entstehen.
+Radioaktivität kommt in unserer Umwelt teils natürlich (ohne Zutun des Menschen) vor, teils wurde oder wird sie durch menschliche Tätigkeiten erzeugt ("anthropogen").
+Ursachen natürlicher radioaktiver Strahlung sind primordiale Radionuklide mit ihren Folgeprodukten sowie Nuklide, die durch die kosmische Strahlung in der Erdatmosphäre erzeugt werden.
+Menschlich verursachte Radioaktivität weist meist eine von der natürlichen abweichende Isotopenzusammensetzung auf, denn sie enthält auch kurzlebige, nicht in Zerfallsreihen oder Spallationsprozessen entstehende Radionuklide.
+Die primordialen Radionuklide stammen aus dem Material der Urerde und sind wegen ihrer großen Halbwertszeit heute noch vorhanden.
+Zu ihnen gehören das im menschlichen Körper stets enthaltene Kalium-40 und die als Kernbrennstoff wichtigen Isotope des Urans.
+Weitere Radionuklide entstehen indirekt als ständig nachproduzierte Zerfallsprodukte der radioaktiven Zerfallsreihen dieser primordiale Nuklide, wie das überall aus dem Erdboden austretende Gas Radon.
+Diese Nuklide bezeichnet man als radiogen.
+Weitere, kosmogene Radionuklide werden laufend in der Atmosphäre durch Kernreaktionen mit der kosmischen Strahlung erzeugt.
+Zu ihnen gehört Kohlenstoff-14, der ebenso wie Kalium-40 durch den Stoffwechsel in alle Organismen gelangt.
+Die Strahlung der überall vorhandenen natürlichen Radionuklide wird als Terrestrische Strahlung bezeichnet.
+Schon lange vor Entdeckung der Radioaktivität wurden durch menschliche Tätigkeiten wie Bergbau und Kohleverbrennung radioaktive Stoffe freigesetzt.
+Paracelsus beschrieb 1567 die Schneeberger Krankheit.
+Metallerze und Kohle enthalten mehr Radionuklide als die durchschnittliche Biosphäre; Schachtanlagen befördern Radon aus dem Erdinnern an die Oberfläche.
+Mit der Förderung von Uran, dem Bau von Kernkraftwerken und vor allem dem Bau und dem oberirdischen Test von Kernwaffen wurde Radioaktivät in die Biosphäre entlassen, die globale Auswirkungen hatte.
+Große Mengen an radioaktiven Substanzen wurden (neben den Atomtests bis 1963) durch Unfälle kerntechnischer Anlagen frei.
+Am bekanntesten sind die Nuklearkatastrophe von Tschernobyl und die Nuklearkatastrophe von Fukushima.
+Nach 1990 wurde ebenfalls der Kyschtym-Unfall 1957 und die dabei ausgetretene Osturalspur bekannt.
+Medizinische Anwendungen oder Materialuntersuchungen mit ionisierender Strahlung tragen nicht zur menschlich bedingten Radioaktivität bei.
+Soweit überhaupt radioaktive Stoffe genutzt werden, sind dies kurzlebige Nuklide in geringen Mengen, wie z. B. in der Positronen-Emissions-Tomographie.
+Bestimmte langlebige Nuklide aus dem radioaktiven Abfall der Kernspaltung könnten künftig durch Transmutation in weniger aufwändig zu lagernde kurzlebigere Nuklide verwandelt werden.
+Als Aktivität bezeichnet man die Anzahl der Zerfallsereignisse pro Zeiteinheit, die in einer Probe eines radioaktiven oder radioaktiv kontaminierten Stoffes auftritt.
+Angegeben wird die Aktivität üblicherweise in der SI-Einheit Becquerel (Bq).
+1 Becquerel entspricht einem Zerfall pro Sekunde.
+Zu den Größen und Maßeinheiten, die sich auf die Wirkung ionisierender Strahlung (aus radioaktiven oder anderen Quellen) beziehen, gehören
+Für Nachweis und quantitative Messung der Strahlung gibt es viele Arten von Detektoren, die jeweils für bestimmte Strahlenarten geeignet sind.
+Ein bekanntes Beispiel ist der Geigerzähler.
+Ionisationskammern und Nebelkammern sind zum Nachweis von Alpha-, Beta- und Gammastrahlung verwendbar, Szintillationszähler und Halbleiterdetektoren dienen der Detektion von Beta- und Gammastrahlen.
+Für den Strahlenschutz werden zur Messung verschiedene Typen von Dosimetern und Dosisleistungsmessern verwendet.
+Sie enthalten jeweils einen oder mehrere der vorstehend genannten Detektoren.
+Die allererste Messung, die eine quantitative Aussage über die Strahlung ergab, wurde von Pierre Curie und Marie Curie mit Hilfe eines Elektroskops durchgeführt.
+Dieses maß die Abnahme einer elektrischen Ladung aufgrund der durch die Ionisation hervorgerufenen Leitfähigkeit der Luft.
+Das gleiche Messprinzip wird noch heute (2016) im Füllhalterdosimeter benutzt.
+Radionuklidbatterien werden in der Raumfahrt zur Stromversorgung und Radionuklid-Heizelemente zur Heizung verwendet.
+Jenseits der Jupiter-Umlaufbahn reicht die Strahlung der weit entfernten Sonne nicht mehr aus, um mit Solarzellen in praktikabler Größe den Energiebedarf der Sonden zu decken.
+Ebenfalls können starke Strahlungsgürtel, wie sie z. B. Jupiter umgeben, den Einsatz von Solarzellen unmöglich machen.
+In der UdSSR wurden sehr leistungsstarke Radionuklidbatterien mit Strontium-90-Füllung verwendet, um Leuchttürme und Funkfeuer am Polarkreis zu betreiben.
+Wichtige Anwendungen, die die Radioaktivität von Stoffen ausnutzen, sind die Altersbestimmung von Objekten und die Materialprüfung.
+In der Archäologie, Kunstwissenschaft, Geologie und Paläoklimatologie werden Messungen der Konzentration radioaktiver Isotope zur Altersbestimmung verwendet, z. B. die Radiokohlenstoffdatierung (Radiokarbonmethode).
+Eine technische Anwendung ist die Dickenmessung und Materialprüfung mittels Durchstrahlung.
+Hierbei wird ein Material mit Gamma-Strahlen bestrahlt und ein Zähler ermittelt aufgrund der durchdringenden Strahlen und des Absorptionsgesetzes die mittlere Dichte bei bekannter Schichtdicke oder umgekehrt die Schichtdicke bei bekannter Dichte.
+Die Strahlung kann auch auf einem Röntgenfilm hinter der Materialschicht ein Bild erzeugen.
+In dieser Form wird die Durchstrahlungsprüfung bei Werkstoffen angewandt.
+Auch radiometrische Füllstandmessungen in Großbehältern mit Schüttgut oder Granulaten werden mit Gamma-Durchstrahlung von einer zur anderen Behälterwand ausgeführt.
+In der Geophysik und Biologie eignen sich radioaktive Substanzen als Tracer, um das Fließverhalten z. B. von Grundwasser im Boden oder Blut in einem Gewebe zu untersuchen.
+Dazu wird eine bekannte Menge des Stoffs an einer bestimmten Stelle eingeleitet und die zeitliche und räumliche Verteilung der Aktivität gemessen.
+In der Festkörperphysik und Festkörperchemie werden radioaktive Isotope zur Untersuchung von Materialien genutzt, wie z. B. Metalle und Legierungen, Halbleiter, Isolatoren und funktionelle Keramiken.
+Hierbei stehen lokale Defekte und Diffusion im Vordergrund, die die Funktionalität der Materialien häufig bestimmen.
+Diese werden heute in vielen elektronischen Anwendungen, wie Elektronik, Batterien, Computerchips, Festplattenlaufwerke, Beleuchtung etc., eingesetzt.
+Ohne ein tieferes Verständnis dieser Materialien wäre eine gezielte Anwendung nicht denkbar.
+Eine Anwendungen ist die Elementanalyse mit Gammaspektroskopie.
+Präzisionsmessungen in der chemischen Analytik und Untersuchungen der lokalen Struktur in Festkörpern werden z. B. mit der Mößbauer-Spektroskopie oder der Gestörten Gamma-Gamma-Winkelkorrelation durchgeführt.
+Diese Methoden der Nuklearen Festkörperphysik nutzen spezielle radioaktive Isotope, die in besonderen Einrichtungen, wie z. B. ISOLDE am CERN oder in Kernreaktoren, hergestellt werden.
+Radioaktive Sonden haben den großen Vorteil, dass nur sehr kleine Stoffmengen benötigt werden und sie meist nur in Spuren eingesetzt werden.
+In der Tracerdiffusion reichen meist wenige kBq aus, um Diffusionskoeffizienten in Festkörpern zu ermitteln.
+Bei Gestörter Gamma-Gamma-Winkelkorrelation sind nur ca. 1010 bis 1012 Atome pro Messung notwendig.
+Damit kann mit der Methode z. B. die Bindung von toxischen Metallen, wie Cadmium, Quecksilber oder Blei in-situ in biologischen Zellen untersucht werden.
+Mit beta-NMR werden pro Messung nur ca. 108 Atome benötigt.
+Die Anwendung offener radioaktiver Stoffe am Menschen ist Gegenstand der Nuklearmedizin.
+In der nuklearmedizinischen Diagnostik kommt meist die Szintigrafie zum Einsatz.
+Dabei werden geringe Mengen einer -strahlenden Substanz (Tracer) am Patienten angewendet ("appliziert"), zum Beispiel in eine Vene gespritzt oder eingeatmet.
+Die vom Tracer ausgehende Strahlung wird außerhalb des Körpers von einer auf Szintillationsdetektoren beruhenden Gammakamera registriert und ergibt eine zweidimensionale bildliche Darstellung.
+Moderne Weiterentwicklungen der Methode erlauben mittels Computertomographie dreidimensionale Darstellungen (Single Photon Emission Computed Tomography, SPECT); ein weiteres bildgebendes Verfahren in der Nuklearmedizin, das auch dreidimensionale Bilder liefert, ist die Positronen-Emissions-Tomografie (PET).
+Mit radioaktiven Stoffen können auch bestimmte Laboruntersuchungen durchgeführt werden, zum Beispiel der Radioimmunassay.
+In der nuklearmedizinischen Therapie werden reine oder überwiegende -Strahler verwendet.
+Die häufigsten Anwendungsgebiete sind die Radioiodtherapie bei gutartigen und bösartigen Erkrankungen der Schilddrüse, die Radiosynoviorthese bei bestimmten Gelenkerkrankungen und die Radionuklidbehandlung zur Schmerzlinderung bei Knochenmetastasen.
+In der Strahlentherapie wurden früher häufig Radionuklide in Form von umschlossenen Gammastrahlern verwendet, bei denen keine radioaktive Substanz entweichen und vom Körper aufgenommen werden kann.
+Auf Grund des Gefährdungspotentials für das medizinische Personal werden diese zur Bestrahlung des Körpers von außen vermehrt durch harte Röntgenstrahlung ersetzt, die mit Elektronen-Linearbeschleunigern erzeugt wird.
+Anwendung finden die umschlossenen Gammastrahler zum Beispiel noch in der Brachytherapie oder Radiochirurgie.
+Hinsichtlich der Gefährlichkeit von Radioaktivität müssen verschiedene Risiken unterschieden werden:
+Diese Begriffe werden in Berichterstattung und Öffentlichkeit manchmal verwechselt.
+Entsprechend wird beispielsweise der Ausdruck "verstrahlt" heute (2016) oft falsch anstatt kontaminiert benutzt; Verstrahlung bedeutet ursprünglich - analog der Verbrennung - eine durch Bestrahlung hervorgerufene erhebliche Schädigung oder Verletzung.
+Für die zum Teil gefährliche biologische Wirkung ist nicht die Radioaktivität an sich, sondern die von ihr ausgehende ionisierende Strahlung verantwortlich.
+Die Folgen der Wirkung niedrig dosierter Strahlung (Niedrigstrahlung) auf Umwelt und Lebewesen werden vielfach diskutiert.
+Sie sind schwer nachzuweisen.
+Dabei ist auch die Festlegung zulässiger Grenzwerte umstritten.
+Da das bisher verwendete Strahlenwarnzeichen (Trefoil-Symbol: ) oft nicht als Warnung vor starken radioaktiven Strahlern erkannt wurde und Menschen ein stark strahlendes Nuklid aus seiner Abschirmung entnahmen (zum Beispiel der Goiania-Unfall), kam es vor allem in Entwicklungsländern schon zu tödlichen Unfällen.
+Am 15. Februar 2007 gab deshalb die IAEO bekannt, dass direkt an Strahlern der Strahlungskategorie 1, 2 und 3 ein neues, auffälligeres Warnschild angebracht werden soll.
+Dieses warnt mit Hilfe von aussagekräftigeren Symbolen vor der tödlichen Gefahr durch ionisierende Strahlung und fordert zur Flucht auf.
+Am Behälter selbst soll weiterhin nur das alte Symbol angebracht werden, da er die Strahlung soweit abschirmt, dass sie keine unmittelbare Gefahr darstellt.
+Durch die Normung als ISO-Norm 21482 soll das neue Warnschild für gefährliche Strahlenquellen möglichst schnell und international verbindlich eingeführt werden.
+In Deutschland ist das Warnschild weder in eine nationale Norm übernommen noch in die Unfallverhütungsvorschriften eingefügt.
+Es ist auch nicht im Entwurf der Neufassung der DIN 4844-2, die Warnschilder regelt, enthalten.
+In Österreich ist es in der OENORM ISO 21482 genormt.
+Bei schwachen Strahlenquellen soll keine Änderung der Kennzeichnung erfolgen.
+Die Entwicklung von Symbolen zur Warnung der Nachwelt vor radioaktiven Gefahren ist Gegenstand der Atomsemiotik.

@@ -1,0 +1,123 @@
+Der Fingerabdruck oder das Daktylogramm (altgr.
+auo daktylos "Finger") ist ein Abdruck der Papillarleisten auf der Unterseite der Fingerkuppe (Endglied eines Fingers, auch Fingerbeere).
+Früher waren auch die Bezeichnungen Handmarke, Tastrosette, Tastfigur oder Tastwärzchenlinie üblich.
+
+Bisher sind keine zwei Menschen mit dem gleichen Fingerabdruck bekannt, und man geht von der Einzigartigkeit des Fingerabdrucks aus.
+Selbst eineiige Zwillinge haben unterschiedliche Fingerabdrücke, denn die Entwicklung der Papillarleisten ist ein embryonaler Prozess beim Wachstum der Finger, der von vielen Faktoren beeinflusst wird und jeweils zu anderen Ergebnissen führt.
+
+In sehr seltenen Fällen fehlen den Fingern infolge eines genetischen Defekts die Papillarleisten, so dass sie keinen Fingerabdruck hinterlassen (Adermatoglyphie).
+
+== Geschichte
+
+In Ninive im Assyrischen Reich wurden Keilschrifttafeln gefunden, bei welchen nicht nur der Name des Autors vermerkt war, sondern auch ein Abdruck der Fingerkuppe bis zum Fingernagel.
+Weitere Fingerabdrücke konnten mit dem GigaMesh Software Framework von Tontafeln der Uruk-Warka-Sammlung Heidelberg aus hoch-aufgelösten 3D-Modellen extrahiert werden.
+Im Kaiserreich China sowie orientalischen Ländern dienten Fingerabdrücke schon früh zum Unterzeichnen von Pässen, Schuldscheinen und ähnlichen Urkunden.
+In China ist die Verwendung spätestens seit dem 7. Jahrhundert durch das Gesetzbuch des Yung-Hwui nachgewiesen.
+In Deutschland beschäftigte sich als erster der Anthropologe H. Welker aus Gießen im Jahre 1856 mit Fingerabdrücken; er stellte Bilder der Papillarlinien her, indem er die Hand einfärbte und auf Papier abdrückte.
+
+1892 wurde in Argentinien erstmals ein Mord, ein doppelter Kindsmord durch deren Mutter, rein aufgrund eines Fingerabdrucks aufgeklärt.
+10 Jahre danach gelang es in Frankreich erstmals in Europa, einen Mord dank Fingerabdrücken aufzuklären, ausgerechnet von einem Gegner der neuen Methode der Daktyloskopie, Alphonse Bertillon.
+Beim Diebstahl der Mona Lisa 1911, bei welchem ein am Schutzglaskasten des Bildes gesicherter linker Daumenabdruck nicht mit der vorhandenen anthropometrischen Karte des Täters abgeglichen worden war, wäre eine Aufklärung rasch möglich gewesen, aber möglicherweise auch darum nicht gemacht worden, weil der Polizeipräsident immer noch Alphonse Bertillon war.
+In der Schweiz wurde 1912 ein erster Straftäter rein aufgrund seiner Abdrücke überführt.
+
+Nach Ende des Zweiten Weltkrieges umfasste die Kartei des FBI 100 Millionen Karten, da nicht nur Verbrecher, sondern auch Angestellte der Verteidigungsindustrie sowie weitere Militär- und Zivilpersonen nebst Ausländern erfasst worden waren.
+Viele Menschen gaben ihre Fingerabdrucke freiwillig, und bis 1960 waren es so 160 Millionen Zehnfinger-Abdruckblätter, bis 1964 172 Millionen.
+In der Sammlung des Bundeskriminalamts in Wiesbaden fanden sich hingegen im Jahr 1960 nur 1,1 Millionen Personen.
+
+== Merkmale
+
+Biologisch gesehen ist eine Papillarleiste eine Erhöhung der Epidermis auf der palmaren oder plantaren Haut, also der Handfläche oder der Fußsohle.
+Innerhalb dieser werden verschiedene nach Henry-Klassifizierungssystem bestimmbare Merkmale des Fingerabdrucks unterschieden:
+
+Als Minuzien (lat. minutus = "Kleinigkeit") werden die Endungen und Verzweigungen der Papillarleisten des menschlichen Fingerabdrucks bezeichnet.
+Außerdem werden "Papillarlinienende, einfache Gabelung (Bifurkation), zweifache Gabelung, dreifache Gabelung ((Trifurkation)), einfacher Wirbel, zweifacher Wirbel, seitliche Berührung; Haken, Punkt, Intervall, X-Linie, einfache Brücke, zweifache Brücke und fortlaufende Linie" () unterschieden.
+Anhand dieser Merkmale und ihrer Verteilung innerhalb eines Fingerabdrucks kann eine einzigartige Unterscheidbarkeit gewährleistet werden.
+
+== Kriminalistik
+
+In der Kriminalistik wird am Tatort geprüft, ob Fingerabdrücke auffindbar sind (Daktyloskopie).
+Gefundene Fingerabdrücke werden mit einer Datenbank abgeglichen, um mögliche Verdächtige zu identifizieren.
+Das deutsche Bundeskriminalamt führt eine AFIS-Datenbank mit den Fingerabdrücken von über drei Millionen Personen.
+Der Abgleich von Fingerabdrücken mit großen Datenbeständen wurde erst durch das Aufkommen leistungsfähiger Computer und genauer mathematischer Beschreibungen der Eigenschaften eines Fingerabdrucks möglich.
+
+Als Erfinder der Identifizierung von Personen durch Fingerabdrücke gelten der englische Naturwissenschaftler Francis Galton und der argentinische Kriminologe Juan Vucetich.
+Die Sicherung von Fingerabdrücken mit Hilfe der sogenannten "Lackfilm-Methode" geht zurück auf den Geologen Ehrhard Voigt, der sie um 1930 erfand, um Boden- und Sedimentprofile zu konservieren.
+
+Die Verwendung von Fingerabdrücken in der Kriminalistik ist zum Teil kontrovers.
+Da Fingerabdrücke in keiner Naturwissenschaft (Biologie, Anthropologie) eine direkte Anwendung finden, wurde die Verwendung von Fingerabdrücken schon früh von der Kriminalistik monopolisiert.
+Deshalb ist die Frage berechtigt, ob der Vergleich von Fingerabdrücken naturwissenschaftlichen Kriterien standhält.
+Im Vergleich zu DNA-Profilen oder Spuren-Analysen mit Gaschromatographie-Geräten, wo die Wahrscheinlichkeit eines Fehlschlusses bekannt ist, gibt es zur Zuverlässigkeit von Fingerabdruck-Vergleichen erst wenige Studien.
+Es sind fehlerhafte Zuordnungen von Fingerabdrücken bekannt geworden.
+Dies wird auf methodische Mängel zurückgeführt, wie z. B. einen Zirkelschluss von Merkmalen des Referenz-Abdrucks auf den Tatort-Fingerabdruck.
+
+Seit 1923 gibt es in den USA den sogenannten "Frye-Standard", mit dem geprüft wird, welche wissenschaftlichen Beweisführungen vor Gericht zulässig sind.
+Gemäß Frye muss eine Methode bloß im relevanten Fachgebiet (z. B. Kriminalistik) "generell akzeptiert" sein, was zum Beispiel die Verwendung von Polygrafen-Ergebnissen in Strafverfahren ermöglichte.
+
+Im Verfahren Daubert vs.
+Merrell Dow Pharmaceuticals (1993) vor dem U.S. Supreme Court wurde der Frye-Standard jedoch als ungenügend empfunden und durch den sogenannten "Daubert-Standard" ersetzt.
+Dieser verlangt nicht nur die Anerkennung im betreffenden Fachgebiet, sondern unter anderem auch eine gefestigte Kenntnis darüber, wie hoch die Fehlerrate des betreffenden Verfahrens ist.
+Der Anteil falsch-positiver Ergebnisse bei Fingerabdruck-Vergleichen wird in dieser Hinsicht am wichtigsten sein.
+Wie der Daubert-Standard von den Gerichten umgesetzt wird, ist von Bedeutung für den Fingerabdruck als Beweismittel.
+
+== Biometrie
+
+Hersteller von biometrischen Systemen setzen den Fingerabdruck, der zumeist optisch oder elektrisch (z. B. kapazitiv) gelesen wird, ebenfalls zur Identifikation ein, um berechtigte von unberechtigten Nutzern zu unterscheiden.
+Damit bei imitierten Fingerabdrücken der Zugang verweigert wird, können Temperatur- und Pulssensoren in die Erkennungsgeräte integriert werden, die prüfen, ob ein lebender Finger auf das Gerät aufgelegt wurde ("Lebenderkennung"), was jedoch nur begrenzt wirksam ist.
+Da das Erfassen des Fingerabdrucks an eine hoheitliche Maßnahme erinnert, ist dieses System nicht bei allen Nutzern beliebt, weshalb oft alternative biometrische Erkennungssysteme zum Einsatz kommen.
+
+Zur Extrahierung der Minuzien wird ein spezieller Algorithmus verwendet, durch den die Minuzien in eine mathematische Form gebracht werden.
+Aus dem vom Fingerabdruckscanner gelieferten Bild werden für jeden Fingerabdruck spezifische Daten gesammelt, die zum Einlernen oder späteren Vergleich mit bestehenden Fingerabdruckdaten ausreichen.
+Ein konkreter Fingerabdruck ist aus den Minuziendaten nicht mehr rekonstruierbar.
+
+Die Sicherheit von Fingerabdrucksystemen ist relativ gering, da ein Fingerabdruck leicht nachzumachen ist.
+Die in mobilen Geräten verbauten Fingerabdrucksensoren bieten Komfortgewinn gegenüber der Passwort- oder Mustereingabe, aber nur bedingt eine Verbesserung der Sicherheit.
+Der Hardwarehacker starbug konnte 2014 schon wenige Tage nach Erscheinen des IPhone 5s - des ersten Apple-Geräts mit Touch ID - den Biometriemechanismus überwinden.
+
+Für die Authentifizierung werden mehrere Minuzien mit vorhandenen Referenzdaten verglichen.
+Mit dem biometrischen Fingerabdruckverfahren (Daktyloskopie) werden Fingerabdrücke verglichen, damit Personen eindeutig identifiziert werden können.
+Ein biometrischer Fingerabdruck kann als zusätzlicher Faktor für die Zwei-Faktor-Authentifizierung in Rechnernetzwerken verwendet werden, wie zum Beispiel im offenen UAF-Standard der FIDO-Allianz
+
+== Datenschutz
+
+Datenschutzrechtlich handelt es sich bei Fingerabdrücken um biometrische Daten nach Artikel 9 Abs. 1 DSGVO und um besondere Kategorien personenbezogener Daten im Sinne von § 26 Abs. 3 BDSG.
+Diesen Daten ist eigen, dass eine Verarbeitung im Unternehmen die Privatsphäre eines Mitarbeiters und damit das Recht auf informationelle Selbstbestimmung im besonderen Maße verletzen kann.
+Die Verarbeitung von biometrischen Daten ist daher nach Artikel 9 Abs. 1 DSGVO grundsätzlich verboten.
+Allerdings enthält Artikel 9 Abs. 2 DSGVO mehrere Erlaubnistatbestände, bei deren Vorliegen eine Verarbeitung ausnahmsweise doch zulässig sein kann.
+Darunter fallen insbesondere die Erlaubnistatbestände der freiwilligen Einwilligung und des Vorliegens einer Kollektivvereinbarung sowie der Erforderlichkeit der Verarbeitung.
+Bei letzterem gilt insbesondere der Grundsatz:
+Je intensiver in das Persönlichkeitsrecht eingegriffen werden soll, desto schwerer muss der vom Arbeitgeber verfolgte Zweck wiegen.
+
+=== Behördliche Anwendungen
+
+Seit 2007 werden in Deutschland digitale Fingerabdrücke in Reisepässen gespeichert.
+Dieses Verfahren ist nach einer Entscheidung des Europäischen Gerichtshofs aus dem Jahr 2013 zulässig, obwohl die Speicherung einen Eingriff in die Privatsphäre und den Datenschutz bedeutet.
+Die Speicherung sei im Kampf gegen Betrug gerechtfertigt.
+
+In Frankreich wurde das System Oscar (Outil simplifie de controle des aides au retour - deutsch: vereinfachtes System zur Kontrolle der Hilfen zur Rückkehr) anhand einer Verordnung vom 26. Oktober 2009 eingerichtet, mit einer Datenbank, in der die Namen von Personen geführt werden, die im Rahmen organisierter Abschiebungen unter der aide au retour humanitaire (ARH) Beträge erhalten haben.
+Seit September 2010 werden dort zusätzlich Fingerabdrücke geführt.
+
+== Tierreich
+
+Koalas sind eine Art der wenigen Nichtprimaten, deren Fingerkuppen Papillarleisten haben, die denen des Menschen sehr ähnlich sind.
+
+== Sonstiges
+
+Das Wort "Fingerabdruck" wird auch metaphorisch oder im übertragenen Sinne gebraucht, um einzigartige Eigenschaften einer Person oder einer Sache herauszustellen.
+So spricht man beispielsweise vom "genetischen Fingerabdruck", vom "akustischen Fingerabdruck" oder vom "digitalen Fingerabdruck" bei der elektronischen Unterschrift oder bei der Prüfsumme elektronischer Nachrichten.
+Chemische Substanzen weisen im IR-Spektrum einen Bereich auf, der stoffspezifisch ist und Fingerprint-Bereich genannt wird.
+
+Zur Sichtbarmachung werden auch heute noch gerne die Federn von Marabus verwendet.
+
+Eine neue Entwicklung geht dahin, Fingerabdrücke über Elektrochemilumineszenz sichtbar zu machen.
+Wissenschaftler verwendeten dabei ein mit Indium-Zinn-Oxid beschichtetes Glasplättchen oder ein Plättchen aus rostfreiem Stahl als Elektrode.
+Darauf wird der Fingerabdruck aufgetragen und eine Lösung mit Reaktanden (ein Rutheniumkomplex, der mit einem Reaktionspartner - typischerweise Tripropylamin - reagiert) zugegeben.
+Wo die fetthaltigen Komponenten des Fingerabdrucks anhaften, ist die Elektrode inaktiv, die elektrochemische Reaktion kann nicht stattfinden und das Leuchten wird verhindert.
+In den anderen Bereichen ist die Elektrode aktiv und es entsteht ein Negativ-Bild des Fingerabdrucks, das mit einer CCD-Kamera aufgezeichnet werden kann.
+Bei einer Variante lassen sich Fingerabdrücke als Positiv-Bild darstellen.
+Dazu werden die Fingerabdrücke zunächst mit einem Reagenz behandelt, das an die Bestandteile der Fingerabdrücke bindet.
+Nach Auftragen des Reaktionspartners leuchten dann ausschließlich die Linien.
+
+== Weblinks
+
+== Einzelnachweise
+

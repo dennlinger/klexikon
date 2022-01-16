@@ -1,0 +1,324 @@
+Eis ist der dritte Aggregatzustand von Wasser und bildet sich bei Normaldruck, Anwesenheit von Kristallisationskeimen und einer Temperatur niedriger als 0 °C.
+Als natürlich vorkommender kristalliner Festkörper mit einer definierten chemischen Zusammensetzung zählt Eis zu den Mineralen.
+Aufgrund seiner chemischen Struktur H2O gehört Eis zur Stoffgruppe der Oxide.
+
+Eis kristallisiert im hexagonalen Kristallsystem und tritt in der Natur in verschiedenen Erscheinungsformen auf, von der Schneeflocke über das Hagelkorn und der gefrorenen Oberfläche meist stehender Gewässer bis zum Gletscher.
+Seine Dichte von 0,918 g/cm^3 (reines, luftfreies Eis bei 0 °C) ist geringer als die von Wasser (1 g/cm^3).
+Aufgrund dieser Dichteanomalie schwimmt Eis auf der Wasseroberfläche und bildet dort Eisdecken, Eisschollen und Eisberge.
+Dabei befinden sich zirka 90 Volumenprozent des Eises unter Wasser (Auftriebskraft des Wassers gegen Gewichtskraft des Eises) und nur zirka 10 Volumenprozent oberhalb der Wasseroberfläche.
+
+In reiner Form besteht Eis aus farblosen, transparenten Kristallen.
+Eisblöcke enthalten jedoch meist viele feine Luftbläschen, die während der Erstarrung der Eiskristalle eingeschlossen werden, und erscheinen daher durch vielfache Lichtbrechung weiß.
+Als chemischer Stoff zeichnet es sich durch einige besondere Eigenschaften aus, die auf den Anomalien des Wassers beruhen.
+
+Bei zahlreichen meteorologischen Phänomenen spielt Eis eine wichtige Rolle.
+Die Eiskappen der Polarregionen sind von großer Bedeutung für das globale Klima und speziell für den globalen Wasserkreislauf.
+Einen dementsprechend entscheidenden Einfluss hat es daher auch auf unsere Biosphäre.
+
+Die Wissenschaft von Formen, Auftreten und Eigenschaften von Eis und Schnee nennt man Glaziologie.
+
+== Etymologie und Geschichte
+
+Die Wortherkunft (Etymologie) von Eis lässt sich über das althochdeutsche, mittelhochdeutsche und niederdeutsche ,is' bis zum germanischen ,isa' zurückverfolgen.
+Durch Diphthongierung (Lautwandel von einem zu zwei Vokalen) wurde aus diesem Urwort unter anderem das deutsche Eis und das englische ice.
+
+Als eigenständige Mineralart taucht Eis allerdings erst Anfang des 19. Jahrhunderts auf.
+Zuvor galt es (einschließlich Wasser, Schnee und Hagel) seit der Antike gemäß der Vier-Elemente-Lehre neben Feuer, Luft und Erde als eines der vier Grundelemente, und selbst in den Systematiken von Abraham Gottlob Werner wird Eis bis zur letzten Auflage 1817 nicht aufgeführt (1. Auflage 1787).
+
+Erst Friedrich Hausmanns beschreibt Wasser bzw. seine verschiedenen festen Formen (Varietäten) in seinem Handbuch der Mineralogie von 1813 als Mineral, eingereiht in die zweite Klasse der "Inkombustibilien" und der zweiten Ordnung der "Oxydoide".
+Eis und Schnee gehören nach Hausmann zum "Weichwasser", das tafelförmig als Eisschollen, stalaktitisch als Eiszapfen, rindenförmig als Glatteis und sphäroidisch als Hagel vorkommt.
+
+== Klassifikation
+
+Bereits in der veralteten 8. Auflage der Mineralsystematik nach Strunz gehörte Eis zur Klasse der "Oxide und Hydroxide" und dort zur Abteilung der "Verbindungen mit M2O und MO", wo es als Eis (I) zusammen mit Eis (Ic) die unbenannte Gruppe IV/A.01 bildete.
+Im zuletzt 2018 überarbeiteten und aktualisierten Lapis-Mineralienverzeichnis nach Stefan Weiß, das sich aus Rücksicht auf private Sammler und institutionelle Sammlungen noch nach dieser klassischen Systematik von Karl Hugo Strunz richtet , erhielt das Mineral die System- und Mineral-Nr.
+IV/A.01-10.
+In der "Lapis-Systematik" entspricht dies der Abteilung "Oxide mit dem Verhältnis Metall : Sauerstoff = 1 : 1 und 2 : 1 (M2O,MO)", wo Eis als einziges Mitglied eine eigenständige, aber unbenannte Gruppe bildet.
+
+Die seit 2001 gültige und von der International Mineralogical Association (IMA) bis 2009 aktualisierte 9. Auflage der Strunz' schen Mineralsystematik ordnet Eis ebenfalls in die Abteilung der "Oxide mit dem Stoffmengenverhältnis Metall :
+Sauerstoff = 2 : 1 und 1 : 1" ein.
+Diese ist allerdings weiter unterteilt nach dem genauen Anion-Kationen-Verhältnis und der relativen Größe der Kationen, so dass das Mineral entsprechend seiner Zusammensetzung in der Unterabteilung "Kation : Anion (M : O) = 2 : 1 (und 1,8 : 1)" zu finden ist, wo es als Eis-Ih zusammen mit Eis-Ic die unbenannte Gruppe 4.AA.05 bildet.
+
+Auch die vorwiegend im englischen Sprachraum gebräuchliche Systematik der Minerale nach Dana ordnet das Eis in die Klasse der "Oxide und Hydroxide" und dort in die Abteilung der "Oxide" ein.
+Hier ist es als einziges Mitglied in der unbenannten Gruppe 04.01.02 innerhalb der Unterabteilung "Einfache Oxide mit einer Kationenladung von 1+ (A2O)" zu finden.
+
+== Kristallstruktur
+
+Im festen Aggregatzustand des Wassers wird als Eis normalerweise eine hohe Fernordnung durch Ausbildung eines Kristallgitters im Zuge der Kristallisation erreicht.
+Im flüssigen Zustand herrscht eine Mischung von Ordnung und Chaos.
+
+Natürliches Eis kristallisiert im hexagonalen Kristallsystem in der Raumgruppe P63/mmc (Raumgruppen-Nr.
+194)Vorlage:Raumgruppe/194 mit den Gitterparametern a = 4,497(5)  und c = 7,322(4)  sowie vier Formeleinheiten pro Elementarzelle.
+
+Sechs Wassermoleküle schließen sich dabei über Wasserstoffbrücken jeweils zu einem Ring zusammen, wobei jedes Molekül ebenfalls Teil von zwei benachbarten Ringen ist.
+Die hexagonale Symmetrie der Kristallstruktur spiegelt sich in der makroskopischen Gestalt der Eiskristalle wider.
+In dieser Struktur ist jedes Sauerstoffatom tetraedrisch von jeweils vier anderen O-Atomen umgeben.
+
+Hexagonales Eis wird mit Eis Ih bezeichnet.
+
+=== Modifikationen
+
+Unter -22 °C und über 207,5 MPa bilden sich noch andere, zum Beispiel kubische Eisformen aus, etwa das metastabile, kubische Eis Ic, in welchem die Sauerstoffatome eine Diamantstruktur aufweisen.
+Bisher sind 17 kristalline und 5 amorphe Modifikationen bekannt (Stand Januar 2010).
+Letztere sind Formen ohne Kristallstruktur.
+
+Die 17 kristallinen Formen werden als Eis Ih, Eis Ic, sowie Eis II bis Eis XVI bezeichnet (z. B. Eis VI).
+
+Eiswolken im interstellaren Raum haben eine Temperatur von ca. -260 °C und sind amorpher Struktur ("fließen").
+
+== Eigenschaften
+
+=== Erstarrungsvorgang
+
+Der Schmelz- bzw. Gefrierpunkt von Eis liegt unter Normalbedingungen bei 0 °C (dem "Eispunkt"), die spezifische Schmelzwärme beträgt S = 332,8 kJ/kg.
+
+Kristallisationskeime, also Verunreinigungen wie Staubpartikel, Bakterien usw. sind allerdings Bedingung für eine Eiskristallbildung, da sich die kristallisierenden Wassermoleküle an diese anlagern müssen.
+In sogenanntem "unterkühltem Wasser", nicht gefrorenem Wasser unter 0 °C, besitzen die Moleküle eine vom Normalfall abweichende Nahordnung, und es bilden sich Ikosaederstrukturen aus: so kann z. B. sauberes unterkühltes Mineralwasser an den beim Öffnen der Flaschen entstehenden Gasperlen spontan gefrieren.
+Ohne externe Auslöser gefriert Wasser bei -48 °C.
+Sehr reines (destilliertes) Wasser kann bis zu -70 °C unterkühlt werden.
+
+Der Gefrierpunkt kann durch Bestreuen mit Salzen (Streusalz) herabgesetzt werden.
+Dies ist eine kolligative Eigenschaft, die Gefrierpunktserniedrigung hängt nur von der Menge der gelösten Teilchen, nicht jedoch von ihrer Art ab.
+Der gleiche Effekt lässt sich also auch mit Zucker erreichen.
+
+Zusätzlich kann auch die Lösungswärme eines Stoffs Eis zum Schmelzen bringen.
+Entscheidend hierfür ist, dass der hinzugegebene Stoff im festen Lösungsmittel unlöslich ist.
+Erreicht wird dieser Effekt durch die Erniedrigung des chemischen Potenzials der Flüssigphase.
+Dieser Effekt erzeugt gleichzeitig eine Siedepunkterhöhung des Wassers.
+
+=== Schmelzvorgang
+
+Der Übergang von festem zu flüssigem Aggregatzustand heißt Schmelzen.
+Um Eis zu schmelzen, müssen Wasserstoffbrückenbindungen zwischen den Wassermolekülen des Eises aufgebrochen werden.
+Dazu muss dem Eis Energie zugeführt werden.
+Beim Schmelzen absorbiert es so viel Energie, wie benötigt würde, um eine äquivalente Wassermasse auf 80 °C zu erhitzen.
+Die Temperatur der schmelzenden Eisoberfläche bleibt während des Schmelzens konstant bei 0 °C.
+Die Geschwindigkeit des Schmelzvorgangs hängt daher von der Effizienz der Energiezufuhr zur Eisoberfläche ab.
+Eine Eisoberfläche in Süßwasser schmilzt allein durch freie Konvektion bei gemäßigter Wassertemperatur mit einer Geschwindigkeit, die wie (T - 4 °C)4/3 von der Temperatur des Süßwassers, T, abhängt.
+
+=== Sublimation
+
+Eis tritt bei ausreichend kalter und trockener Luft bei Atmosphärendruck durch Sublimation direkt in Gasform (Wasserdampf) über.
+Dieser Effekt wird u. a. bei der Gefriertrocknung im industriellen Maßstab genutzt.
+
+=== Farbe
+
+Eis ändert seine Farbe mit dem Luftgehalt und kann so auch in unterschiedliche Gruppen eingeteilt werden.
+Eis, das viel Luft enthält, ist weiß, solches, das wenig Luft enthält, ist durchsichtig und blau oder grün.
+Ein besonderer Fall von "farbigem" Eis sind sogenannte Grüne Eisberge, bei welchen es sich um alte umgekippte Eisberge handelt, deren algenbewachsene Unterseite nun sichtbar ist.
+
+Eis und Schnee reflektieren das Sonnenlicht.
+Innerhalb der Erdatmosphäre verursachen Eispartikel damit Lichtsäulen.
+(Die verwandten Halos entstehen dagegen durch Brechung des Lichts in Eiskristallen.) Astronomisch und geophysikalisch sind Eis und Schnee häufig Verursacher einer hohen Rückstrahlung eines Gegenstands.
+
+=== Schallausbreitung
+
+Die Schallgeschwindigkeit in Eis bei maximaler Dichte liegt bei 3250 m/s.
+Die Dispersion für Schallausbreitung in Eis ist im Gegensatz zu den meisten Festkörpern negativ.
+Dieser Effekt kann auf zugefrorenen Seen beobachtet werden.
+Entsteht zum Beispiel in hinreichend großer Entfernung zum Beobachter ein Riss in der Eisfläche (zum Beispiel durch Sonneneinstrahlung), kann ein pfeifendes Geräusch wahrgenommen werden, bei dem die Tonhöhe in Sekundenbruchteilen von ganz hohen Frequenzen zu sehr tiefen abfällt.
+Das Geräusch ähnelt dem eines vorbeifliegenden Projektils, das durch den Dopplereffekt eine fallende Tonhöhe erzeugt.
+
+=== Wärmeaufnahme und -leitung
+
+Eis hat bei einer Temperatur von 0 °C eine spezifische Wärmekapazität von 2,12 kJ/(kg*K), die bei tieferen Temperaturen leicht sinkt.
+Seine Wärmeleitfähigkeit bei 0 °C beträgt 2,21 W/(m*K) und steigt mit sinkender Temperatur leicht an.
+Im Vergleich zu flüssigem Wasser bei 20 °C hat Eis nahe dem Schmelzpunkt nur eine halb so große spezifische Wärmekapazität, jedoch eine dreieinhalb Mal so große Wärmeleitfähigkeit.
+
+=== Härte
+
+Nach der Mohsschen Härteskala hat Eis bei wenigen Grad unter Null nur eine geringe Härte von 1,5 und lässt sich mit dem Fingernagel ritzen.
+Die Mohshärte von Eis steigt allerdings bei tieferen Temperaturen an.
+Bei -30 °C übertrifft es mit einer Härte von 3,5 die von Kalkstein (Härte 3), bis es schließlich bei -80 °C die Härte von Vergütungsstahl (Mohshärte ca. 6) erreicht.
+
+=== Tragfähigkeit von Eisdecken
+
+Bereits bei wenigen Graden unter Null ist Eis in der Lage, Menschen und sogar schwere Fahrzeuge wie LKW zu tragen.
+Während des Baues der Transsibirischen Eisenbahn wurden am Anfang des 20. Jahrhunderts sogar Schienen auf den Baikalsee gelegt.
+Hunderte Schienenfahrzeuge überquerten diesen problemlos, lediglich eine Lokomotive brach durch die Eisdecke und versank.
+Voraussetzung dafür ist eine ausreichende Dicke der Eisdecke für die jeweilige Belastung.
+Die Mindestdicke für eine sichere Belastbarkeit entsprechend der Anforderung beruht auf empirischen Erfahrungswerten bzw. kann mit verschiedenen Methoden berechnet werden.
+Die Belastbarkeit und die Mindestdicke wird wesentlich von der Beschaffenheit des Eises, wie Risse und Lufteinschlüsse, sowie den Schwimmzustand beeinflusst.
+
+Folgende Eisdicken (auf flüssigem Wasser) gelten als ausreichend:
+
+Die Tragfähigkeit einer Eisdecke hängt einerseits von ihrem Schwimm-Auftrieb auf dem tragenden Wasser und andererseits von der Lastverteilfähigkeit (Durchbiegung) bei punktueller Belastung ab.
+In beiden Fällen ist die Dicke der Eisdecke der maßgebliche Parameter für die Tragfähigkeit.
+Die Belastbarkeit aufgrund der Schwimmfähigkeit ist dabei proportional zur Eisdicke, während die Lastverteilfähigkeit dem Quadrat der Eisdicke proportional ist.
+
+Bei einer gleichmäßigen Lastverteilung auf großen Flächen ohne Durchbiegung ist die Belastbarkeit, wie bei einem Floß, durch die Schwimmfähigkeit der Eisdecke begrenzt.
+Entsprechend dem Auftrieb von blasenfreiem Eis der Dichte 917 kg/ m^3 beträgt die Tragfähigkeit q {\displaystyle q} (in kg/m^2) für große Flächen der Dicke:
+h {\displaystyle h} (in m).
+
+Also z. B. 8,3 kg/m^2 bei einer Eisdicke von 10 cm.
+
+Durch Lastverteilung in die umgebende Fläche können begrenzte Teilflächen einer Eisdecke erheblich höher belastet werden.
+Es ist jedoch immer zu beachten, dass durch die zulässige Belastung von Teilflächen die Höchstbelastung der gesamten Eisdecke nicht überschritten wird.
+
+Die Tragfähigkeit einer Eisstraße bezogen auf Einzelfahrzeuge lässt sich auch mit der sogenannten "Gold-Formel" abschätzen (benannt nach Lorne W. Gold):
+
+mit
+
+Die kanadische Provinz Manitoba benutzt diese Formeln, um die Tragfähigkeit einer Eisfläche für die Nutzung als Winterstraße zu bestimmen.
+Die Entscheidung, für welche Belastung die Eisstraße freigegeben wird, trifft letztlich immer ein Experte für Eisstraßen.
+
+Eisstraßen gibt es temporär etwa in Schweden, Finnland, Estland, Kanada, den Vereinigten Staaten und Russland.
+
+Das Betreten von Eisflächen ist prinzipiell gefährlich und im Zweifel zu vermeiden.
+Dies gilt vor allem auch, weil die Dicke und Beschaffenheit des Eises häufig nicht zuverlässig zu bestimmen ist.
+Zur Bestimmung der Dicke des Eises eignen sich Eisschrauben oder Bohrer mit aufgetragenen Zentimetermarken sowie das Messen an ins Eis geschlagenen Löchern.
+
+Durch Einbrechen in das Eis entsteht die Gefahr von starken Unterkühlungen, Erfrierungen und Ertrinken.
+Bei der Rettung sollten nach Möglichkeit Rettungshilfsmittel benutzt werden, die das Gewicht des Hilfeleistenden auf eine größere Fläche verteilen.
+Dem Eingebrochenen soll nicht die Hand gereicht werden, sondern Hilfsmittel, die im Notfall auch losgelassen werden können.
+Zur Eigenrettung können Eiskrallen mitgeführt werden, die das Herausziehen aus dem Loch erleichtern.
+
+=== Anomalien
+
+Wasser weist zahlreiche Anomalien auf: Eigenschaften, die von den Regeln, die auf die meisten Stoffe angewendet werden können, abweichen.
+Folgende Anomalien sind für seinen festen Zustand als Eis von Bedeutung:
+
+== Bildung und Fundorte
+
+=== Auf der Erde
+
+Eis bildet sich weltweit dort, wo die Luftfeuchtigkeit hoch genug und die Temperatur auf bzw. unter den Gefrierpunkt gesunken ist.
+
+Freie Eiskristalle entstehen in Form von Reif und Raureif durch Resublimation (direkter Übergang vom gasförmigen in den kristallinen Zustand) des atmosphärischen Wasserdampfs.
+Graupel und Hagel besteht aus rundlichen Eiskörnern.
+Sie bilden sich in Gewitterwolken aus Wassertröpfchen, welche in tiefen Wolkenschichten kondensieren und dann durch Aufwinde in höhere und kältere Luftschichten transportiert werden, wo sie dann gefrieren.
+Größere Hagelkörner sind oft Zusammenballungen kleinerer Eispartikel und durchlaufen in ihrer Entstehungsgeschichte mehrmals den Prozess des Aufstiegs durch Winde und des Absinkens durch ihre Gewichtskraft.
+Schnee besteht aus mehr oder weniger filigran verästelten Eiskristallen.
+Schneeflocken bilden sich durch langsames Anlagern und Gefrieren von feinsten Wassertröpfchen an einem Kristallisationskeim (zum Beispiel Staubteilchen).
+
+Die Seegfrörnen des Bodensees sind Jahrhundertereignisse.
+Die Eisdecke ist dann so tragfähig, dass der gesamte See zu Fuß überquert werden kann.
+Bei der letzten Seegfrörne 1963 fuhren Wagelustige sogar mit einem Kleinwagen von Lindau über das Eis in die Schweiz.
+
+Dauerhaft mit dem Festland verbundene Eisflächen werden Schelfeis genannt.
+Die Schelfeisflächen werden meist durch fließende Gletscher gespeist.
+Eisberge sind von Gletschern abgebrochene (gekalbte) Eismassen.
+
+Bei der Kristallisation von Meerwasser entsteht sogenanntes Meereis; dabei wird das Salz an das Meer abgegeben oder sammelt sich in Sole(Salz)-Einschlüssen (Eis selbst ist immer festes Süßwasser).
+Je nach Größe und Zusammenballung des Eises unterscheidet man Nadeleis, Grieseis, Pfannkucheneis, Eisschollen und Packeis.
+Eine natürliche eisfreie Fläche, die jedoch vollständig von Packeis umgeben ist, heißt Polynja.
+Künstliche, in das Eis geschlagene Rinnen und Löcher werden Wuhnen genannt.
+
+Eis, welches sich ausnahmsweise wegen seiner Entstehungsgeschichte am Boden eines Gewässers befindet, wird Grundeis genannt.
+Die Bildung von Neueis auf dem Meer wird als Nilas bezeichnet.
+
+Die Eisverhältnisse auf Meeresgebieten werden mit einem internationalen Ice Code bezeichnet:
+
+Als Einschluss in Diamanten kann auch auf der Erde Eis-VII vorkommen.
+Dieses hat eine kubische Kristallstruktur.
+
+=== Im Sonnensystem
+
+Eisvorkommen wurden in unserem Sonnensystem nachgewiesen in Kometen, Asteroiden, auf dem Mars und auf einigen Monden der äußeren Planeten.
+Bei Eismonden ist nahezu die gesamte Oberfläche von Eis bedeckt.
+
+Von zahlreichen Kometen ist bekannt, dass sie zu einem Großteil aus Wassereis bestehen, weshalb sie auch hin und wieder als "Schmutzige Schneebälle" tituliert werden.
+Es wird spekuliert, dass ein Großteil der irdischen Wasservorkommen auf ein lang anhaltendes Bombardement der noch jungen Erde durch Kometen zurückgeht.
+Das meiste Wasser im Universum liegt als Eis vor.
+
+Auch auf dem Mars konnten bisher Eisvorkommen nachgewiesen werden.
+Neben den Polkappen, die zweifelsfrei zu einem Teil aus gefrorenem Wasser bestehen, gibt es möglicherweise auch in anderen Regionen Eisvorkommen, und zwar als Permafrost in tieferen Bodenschichten.
+
+Hinweise auf das Vorhandensein von Eis in Meteoritenkratern in Polnähe bei Merkur, dem sonnennächsten Planeten, lieferte 1975 die Raumsonde Mariner 10.
+Genauere Untersuchungen der Raumsonde MESSENGER konnten im November 2011 Wasser auf dem Nordpol, auf den kein Sonnenlicht fällt, bestätigen.
+
+Von einigen Monden der äußeren Planeten ist bekannt oder wird vermutet, dass sie von einer Eiskruste bedeckt sind.
+Beispiele sind die Jupitermonde Europa, Ganymed und Kallisto, die Saturnmonde Enceladus und Titan, der Neptunmond Triton sowie der Plutomond Charon.
+Auch sollen einige dieser Monde unter ihrer Oberfläche Schichten aus Eismodifikationen besitzen, die nur bei hohem Druck vorkommen.
+
+Frühe Radarbilder des Mond-Südpols aus den 1990er-Jahren mit vielen kleinen, auffallend hell erscheinenden Flecken ließen bei zahlreichen Forschern die Hoffnung aufkeimen, dass der Mond über große Wasserreserven verfüge, die unter anderem am Grund tiefer Krater als Relikte von Kometeneinschlägen überlebt haben könnten.
+Solche Vorkommen wären wichtige Wasser- und Sauerstoffquellen für künftige Mondbasen.
+Untersuchungen im Jahre 2006 mit Radioteleskopen verliefen negativ.
+2009 konnte die LCROSS-Mission Wassereis nachweisen.
+2010 fand die Sonde Chandrayaan-1 Hinweise auf mindestens 600 Millionen Tonnen Wasser am Nordpol des Mondes.
+
+== Nutzung und Behinderung
+
+Schon die Römer nutzten teuer importiertes Gletschereis zur Kühlung von Speisen und zur Herstellung von Erfrischungsgetränken.
+
+Im 19. Jahrhundert begann in Nordamerika die kommerzielle Nutzung von Wintereis, zunächst als Luxusgut für Menschen in tropischen Ländern, später auch als Massengut für den Hausbedarf.
+Aus dem 19. Jahrhundert ist ebenfalls der Export von Natureis aus Norwegen nach England und Frankreich sowie in geringerem Umfang nach Deutschland bekannt.
+Der Eismann brachte Eisblöcke, mittels derer verderbliche Nahrungsmittel, typischerweise in einem Eisschrank, länger verzehrbar gehalten werden konnten.
+Mit der Elektrifizierung und Einführung des Kühlschranks fand dieses Gewerbe sein Ende.
+Heute wird fast das gesamte vom Menschen zu Speisezwecken genutzte Eis von Kältemaschinen oder in Kühlschränken hergestellt.
+
+Auch bei der Biererzeugung spielte die Kühlung durch Natureis, das im Sommer in sogenannten Eiskellern gelagert wurde, eine entscheidende Rolle bei der Lagerfähigkeit.
+bereits ab der Mitte des 19. Jahrhunderts wurden dazu meist mit Dampf betriebene Kältemaschinen eingesetzt.
+
+Unter "Nutzeis" (auch Nutz-Eis) werden Eissorten bezeichnet, die in Eisfabriken zu einem bestimmten Nutzen hergestellt werden.
+Dazu gehört z. B. klassisches Stangeneis, aber auch Eiswürfel und Scherbeneis, die zwar verzehrt werden, aber nur, weil sie dem Getränk bzw. bei der Wurstherstellung zur Kühlung beigegeben werden und sich darin unvermeidlich auflösen.
+
+Flockeneis wird im Labor und in der Produktion von Lebensmitteln eingesetzt, wenn durch maschinelle Verarbeitungsprozesse, wie z. B. das Kuttern in der Wursterzeugung, Temperaturen entstehen, die der Konsistenz oder Farbe und dem Geschmack des Lebensmittels abträglich sind.
+Dabei wird Eis in Flockeneisbereitern bis zu einer Korngröße von wenigen Millimetern gemahlen.
+Scherbeneis spielt bei der Lagerung bzw. Frischhaltung von Fischen und Meeresfrüchten eine wichtige Rolle.
+Für Getränke werden oftmals Eiswürfel verwendet.
+
+Speiseeis ist dagegen eine aus Fruchtsäften oder Milchmixgetränken hergestellte Schneemasse oder Eisschlamm.
+
+Eis dient im Pflanzenbau als Frostschutz, indem Wasser bei Frost auf die Pflanzen gesprüht wird, wodurch alle Teile von einer Eisschicht überzogen werden.
+Durch das Gefrieren des Wassers entsteht Kristallisationswärme.
+
+Die entstehende Reibungswärme von Kufen auf festem Eis lässt unter einem Schlittschuh eine wenige m dicke Wasserschicht entstehen, auf der der hintere Teil der Kufe dann nahezu reibungslos gleitet.
+Eislauf, aber auch Skifahren, Schlittenfahren oder Schlitten als Transportmittel sind deswegen möglich.
+Durch den Druck unter den schmalen Kufen wird der Gefrierpunkt des Wassers nur um wenige Zehntelgrad gesenkt.
+
+Behindernd wirken Eisvorkommen vor allem auf den Verkehr in Form von Packeis für die Schifffahrt (siehe auch Eisbrecher), als glatter Eisfilm auf Straßen (siehe auch Schneeketten), Fußwegen oder an Flugzeugen sowie als Schneewehen bei allen Land-Verkehrsträgern.
+Im Verkehr ist Eisregen ("Blitzeis") ein Problem.
+Eis an Oberleitungen behindert die Stromabnahme.
+Um die Rutschgefahr zu vermindern, werden Eisflächen mit Streusand abgestumpft oder mit Streusalz weggetaut.
+
+Gefährlich kann Eis für Schiffe werden, wenn überkommendes Wasser bzw. Nebel oder Nieselregen auf den Aufbauten gefriert und eine dicke Eisschicht bildet.
+Dadurch verschiebt sich der Schwerpunkt des Schiffes nach oben, was zur Kenterung des Schiffes führen kann.
+Eisberge können bei Kollisionen mit Schiffen zu deren Beschädigung, oder, wie bei der Titanic, zum Sinken führen.
+Packeis kann darin eingeschlossene Schiffe zerdrücken.
+Zugefrorene Wasserflächen können einerseits die Schifffahrt behindern, andererseits aber auch Transportwege verkürzen, indem Landtransporte direkt über die Wasserfläche geführt werden können (Eispisten).
+
+Für Bauwerke ist die Eislast durch Eisregen oder Frost ein Problem (siehe Schneelast, gilt analog auch für Eis).
+Freileitungen können durch die Eislast reißen.
+
+Auch Bauvorhaben können durch Verfestigungen des Bodens durch Eis behindert werden.
+Andererseits kann die Verfestigung des Bodens gewollt sein und zum Beispiel Tunnelarbeiten in losem Boden erst möglich machen.
+Hierbei wird die Vereisung meist künstlich mit großen Kühlaggregaten erzeugt.
+In Permafrostgebieten stellt die Aufweichung des Bodens durch den fehlenden Frost eine Gefahr für Bauwerke dar.
+Stützen der Trans-Alaska-Pipeline (aus 1975/1977) und Teile der Trasse der Lhasa-Bahn (errichtet 2005) werden hierzu über Wärmerohre (Heatpipes) durch Umgebungsluft gekühlt.
+
+Wasserleitungen platzen, wenn sie unkontrolliert - etwa auf größerer Länge oder zu einer Absperrung oder einem Eispropfen hin - einfrieren.
+Zum Schutz werden solche Leitungen unterhalb der Frostgrenze im Boden verlegt oder ein Mindestdurchfluss sichergestellt oder rechtzeitig entleert.
+Wasser- und Abwasserleitungen, gelegentlich auch Regenrohre von Dächern, werden, wo sie Kälte ausgesetzt sein können, eventuell mit einer elektrischen Begleitheizung ausgeführt.
+Umgekehrt kann Eis aber auch für Reparaturen genutzt werden:
+Um einen Heizkörper oder ein Stück Rohr zu tauschen, werden 2 kleine Stellen in der Vor- und Rücklaufleitung mit Eis verpfropft, indem jeweils wenige cm Länge der Rohrleitung per Kohlensäureschnee oder Kältemaschine stark von außen gekühlt werden.
+
+Eisblumen an Fensterscheiben behindern die Sicht, sind jedoch ästhetisch oft sehr reizvoll.
+Sie gelten aber als Anzeichen mangelhafter Wärmeisolierung und sind vom "Aussterben" bedroht.
+
+Auch ganze Häuser aus Eis sind möglich.
+Früher wurde Eis von Eskimos zum Bau von Iglus verwendet, dazu gibt es auch moderne Bauformen.
+
+Aus Eisblöcken werden Eisskulpturen errichtet.
+
+== Simulation
+
+Als Kunsteis wird eine durch technische Kühlung erzeugte Eisfläche zum Eislaufen und für Eishockey bezeichnet.
+
+Künstliche Eisflächen werden in der Praxis in den meisten Fällen durch EPDM-Absorber hergestellt.
+Diese Technologie ist sehr energieeffizient, kostengünstig sowohl in der Anschaffung als auch im Betrieb.
+Daher kommt dieses System auch vermehrt bei Großprojekten wie Eisstadien, Eisschnelllaufringe etc. zum Einsatz.
+Weiterhin ermöglichen die flexiblen Absorber (Eismatten) die Herstellung von mobilen Kunsteisbahnen.
+Dabei werden die Eismatten nebeneinander ausgerollt, zu einem Kreislauf zusammengeschlossen und anschließend mit einem Wasser-/Glykolgemisch gefüllt.
+Eine Kältemaschine kühlt das Gemisch auf ca. -10 °C ab und pumpt es durch die Eismattenfläche, während das aufgesprühte Wasser gefriert und sich anschließend in eine gleichmäßigen Eisfläche verwandelt.
+
+In einer am 31. Dezember 2016 eröffneten Boulderhalle in Klagenfurt wird Eisklettern durch Griffpakete aus Kunststoff simuliert, die auch einstechenden Kletterpickeln Halt geben.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

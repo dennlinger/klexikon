@@ -1,0 +1,7 @@
+Das Kilogramm ist die im internationalen Einheitensystem verwendete Maßeinheit für die Masse.
+Das Einheitenzeichen des Kilogramms ist kg.
+Die Definition des Kilogramms basiert auf einem zahlenmäßig festgelegten Wert der Planckschen Konstanten und den Definitionen von Meter und Sekunde.
+Ursprünglich sollte ein Kilogramm der Masse von einem Liter Wasser entsprechen.
+Da sich eine solche Definition nicht für genaue Messungen eignet, wurden Prototypen hergestellt und im Sinne einer Maßverkörperung als Definition gewählt, die bis zur aktuellen Definition eines Kilogramms über Naturkonstanten gültig war.
+Jede neuere Definition wurde so gewählt, dass sie jeweils innerhalb der Messgenauigkeit der zuvor geltenden Definition lag.
+Der Einheitenname des Kilogramms weicht von der Systematik des Internationalen Einheitensystems dadurch ab, dass er mit einem SI-Vorsatz, dem "Kilo", beginnt; deshalb dürfen dezimale Teile und Vielfache des Kilogramms nicht vom Kilogramm ausgehend mit Vorsätzen oder Vorsatzzeichen gebildet werden, stattdessen leitet man sie vom Gramm ab.

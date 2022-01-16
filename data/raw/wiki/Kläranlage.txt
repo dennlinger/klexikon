@@ -1,0 +1,330 @@
+Eine Kläranlage, auch Abwasserbehandlungsanlage, in der Schweiz und in Österreich auch Abwasserreinigungsanlage (ARA) genannt, ist eine technische Anlage zur Reinigung von Abwasser.
+Zur Reinigung der Gewässer verunreinigenden Bestandteile der Abwässer werden mechanische (auch physikalische genannt), biologische und chemische Verfahren eingesetzt.
+Da diese Verfahrensarten nacheinander in verschiedenen Reinigungsstufen eingesetzt werden, nennt man moderne konventionelle Kläranlagen in der Regel "dreistufig".
+Mittlerweile werden Kläranlagen auch mit einer vierten Reinigungsstufe ausgerüstet, wobei hier über verschiedene Verfahren (z. B. Ozonung, Aktivkohlefiltration) Mikroverunreinigungen (z. B. Arzneimittelrückstände, Mikroplastik) aus dem Abwasser entfernt werden.
+Die erste Kläranlage auf dem europäischen Festland wurde 1882 in Frankfurt-Niederrad in Betrieb genommen.
+
+Weltweit fallen mit Stand 2018 rund 1000 Kubikkilometer Abwasser an.
+Hiervon werden in den Industriestaaten ca. 70 % durch Kläranlagen gereinigt, in wenig entwickelten Staaten jedoch nur etwa 8 %.
+
+== Fließschema
+
+== Anlagenteile
+
+=== Zulauf
+
+Das von der Kanalisation gesammelte und im Zuge der Abwasserbeseitigung zur Kläranlage transportierte Abwasser gelangt zum Zulauf der Kläranlage, wo sich meistens eine Vorrichtung zur Messung der Zulaufmenge sowie ein Pumpwerk zum Heben des Abwassers befindet.
+
+=== Regenentlastung
+
+Wenn Regen- und Schmutzwasser in einem Kanal der Kläranlage zugeleitet werden (Mischsystem), muss das Kanalnetz in der Regel um ein Regenentlastungssystem ergänzt werden.
+Dieses Entlastungssystem kann aus folgenden technischen Bauwerken bestehen (einzeln oder in Kombination):
+
+Die Anordnung solcher Bauwerke kann entweder bereits im Kanalnetz oder erst auf der Kläranlage geschehen.
+Das Regenentlastungssystem dient dem Zweck, eine wirtschaftliche Dimensionierung der Kläranlagen zu erreichen, indem diese eine hydraulische Belastung nur bis zu einem bestimmten Regenereignis verarbeiten müssen.
+Wenn keine derartigen Einrichtungen vorhanden sind, müssen die einzelnen Bauwerke der Kläranlage in der Folge größer ausfallen und die technischen Ausrüstungen, wie Pumpen, eine höhere Leistung aufbieten.
+
+Dem gegenüber steht das Trennsystem.
+Hier wird das Schmutzwasser in einer eigens dafür verlegten Rohrleitung der Kläranlage zugeführt.
+Erlaubt ist in diesem Fall nur der Anschluss von Schmutzwasserhausanschlussleitungen.
+Das auf versiegelten Flächen (Straßen, Wege, Dachflächen) auftreffende Niederschlagswasser kann durch einen separaten Kanal, ggf. nach Reinigung in einem Regenklärbecken, direkt in ein Oberflächengewässer geleitet oder über verschiedene Versickerungssysteme dem Grundwasser zugeführt werden.
+
+=== Mechanische Vorreinigung
+
+==== Rechen
+
+In der Rechenanlage wird das Abwasser durch einen Rechen oder durch ein Sieb geleitet.
+Im Rechen bleiben grobe Verschmutzungen, wie Artikel der Monatshygiene, Präservative, Steine, aber auch Äste, Zweige, Laub und tote Tiere hängen.
+Diese Grobstoffe würden die Pumpen der Kläranlage verstopfen oder sogar beschädigen als auch die Effizienz der biologischen Reinigungsstufe verschlechtern.
+Man unterscheidet Feinst- und Feinrechen mit wenigen Millimetern und Grobrechen mit mehreren Zentimetern Spaltweite.
+Das Rechengut wird in die Rechengutpresse abgeworfen, wo es maschinell gewaschen und entwässert (Gewichtsersparnis) wird.
+Anschließend wird es meist verbrannt (seltener: kompostiert).
+
+==== Sandfang
+
+Ein Sandfang ist ein Absetzbecken mit der Aufgabe, grobe, absetzbare Verunreinigungen aus dem Abwasser zu entfernen, so beispielsweise Sand, kleine Steine oder Glassplitter.
+Diese Stoffe würden zu betrieblichen Störungen in der Anlage führen (Verschleiß, Verstopfung, Ablagerungen).
+Als Bauform ist
+
+Durch die Belüftung des Sandfangs (knapp über der Beckensohle angebracht) wird eine Walzenströmung als Sekundärströmung erzeugt und damit eine Unabhängigkeit von Durchflussschwankungen erreicht.
+Durch die Turbulenz dieser Sekundärströmung werden organische Partikel in Schwebe gehalten, während schwerere Teilchen auf einer Absetzbahn direkt in die Sandfanggutrinne getragen werden.
+Beim Tiefsandfang strömt das Abwasser von oben in das Becken und erreicht durch dessen Tiefe eine relativ hohe Verweildauer, wodurch sich der schwerere Sand am Beckengrund (Sandtrichter) absetzt.
+Bei modernen Anlagen wird das Sandfanggut nach der Entnahme aus dem Sandfang gewaschen, also sehr weitgehend von organischen Begleitstoffen befreit, um eine bessere Entwässerung und anschließende Verwertbarkeit (beispielsweise im Straßenbau) zu ermöglichen.
+
+==== Vorklärbecken
+
+Ein Vorklärbecken ist ebenfalls ein Absetzbecken, d. h. durch angepasste geometrische Abmessungen wird die Strömungsgeschwindigkeit des Abwassers derart herabgesetzt, dass sich ein Teil der ungelösten, organischen Stoffe (Fäkalien, Papier) absetzen (absetzbare Stoffe) kann.
+Der dabei entstehende Primärschlamm muss anschließend einer weiteren Behandlung, wie einem Faulturm, zugeführt werden.
+
+Vorklärbecken werden vorwiegend auf Kläranlagen eingesetzt, auf denen der Überschussschlamm anaerob stabilisiert wird.
+
+Bei modernen Anlagen mit Stickstoffentfernung kann dieser Anlagenteil entfallen oder ist klein bemessen, da die organischen Stoffe des Abwassers als Reduktionsmittel zur Stickstoffentfernung mittels Denitrifikation (Reduktion von Nitrat (NO3-) zu Stickstoff (N2)) im anoxischen Teil beziehungsweise in der anoxischen Phase der biologischen Stufe benötigt werden.
+
+=== Biologische Stufe
+
+Die nach der mechanischen Vorreinigung im Abwasser verbleibenden Verunreinigungen werden mit Hilfe von Mikroorganismen (vor allem Bakterien, Pilze und Protozoen) biologisch abgebaut.
+Im Allgemeinen findet dieser Abbau unter aeroben Bedingungen (d. h. unter Zufuhr von Sauerstoff) statt.
+Selten werden Reaktoren eingesetzt, in denen anaerobe Verhältnisse vorherrschen (so genannte UASB-Reaktoren (Upflow anaerobic sludge blanket)) und bei denen als Nebenprodukt Methan entsteht.
+Üblicherweise besteht die biologische Stufe jedoch aus (einem oder mehreren) Belebungsbecken und (einem oder mehreren) Nachklärbecken.
+Das SBR-Verfahren vereint Belebung und Nachklärung in einem Becken.
+Weitere Sonderformen, die insbesondere als Kleinkläranlagen eingesetzt werden, sind das Tropfkörperverfahren, das Tauchkörperverfahren, das Festbettreaktorverfahren und das MBR-Verfahren.
+
+==== Belebungsbecken
+
+Der Großteil der kommunalen Kläranlagen in Mitteleuropa wird nach dem Belebtschlammverfahren betrieben.
+Damit werden in sogenannten Belebungsbecken durch Belüften des mit Belebtschlamm (Massen von flockig aggregierten Bakterien) versetzten Abwassers die Abwasserinhaltsstoffe des frischen Abwassers biotisch oxidativ abgebaut.
+Dabei werden von aeroben (Sauerstoff verbrauchenden) Bakterien und anderen Mikroorganismen (z. B. Hefen) Kohlenstoffverbindungen größtenteils zu Kohlenstoffdioxid abgebaut sowie zu Biomasse umgesetzt und der Stickstoff aus den organischen Verbindungen wird durch andere Bakterien zunächst als Ammoniak abgespaltet und dann mit Sauerstoff zu Nitraten oxidiert (Nitrifikation).
+Das Belebtschlammverfahren wird zumeist mit kontinuierlichem Durchlauf betrieben, das heißt, in das Belebungsbecken läuft kontinuierlich Abwasser zu und im selben Maß läuft Belebtschlamm enthaltendes Wasser kontinuierlich ab.
+Durch die Zugabe von Fällmitteln kann mittels chemischer Reaktionen außerdem der Nährstoff Phosphor entfernt werden, gegebenenfalls durch Simultanfällung.
+Dies verbessert auch die Absetzeigenschaften des Belebtschlamms im Nachklärbecken.
+
+Es gibt verschiedene technische Ausführungsvarianten des Belebtschlammverfahrens, insbesondere vorgeschaltete, nachgeschaltete und simultane Denitrifikation.
+Hierbei finden Nitrifikation und Denitrifikation entweder im selben oder in getrennten Becken, hier dann in unterschiedlicher Anordnung zueinander, statt.
+
+Eine Sonderform stellt das SBR-Verfahren dar (SBR = Sequencing Batch Reactor), das die biologische Reinigung und die nachfolgend beschriebene Nachklärung in einem einzigen Becken vereinigt.
+Hierbei läuft das Abwasser nicht kontinuierlich zu, sondern immer nur in begrenzter Menge, die dann nach dem Belebtschlammverfahren gereinigt wird (Nitrifikation und Denitrifikation).
+Anschließend erfolgt im selben Becken die Absetzphase (also die Nachklärung).
+Der entstandene Überschussschlamm wird dann entweder zeitgesteuert oder in Abhängigkeit vom gewachsenen Schlammspiegel (entsprechende Messtechnik vorausgesetzt) abgezogen.
+Damit ist ein Zyklus beendet und der nächste Abwasserschub wird eingeleitet und gereinigt.
+Beim SBR-Verfahren werden mindestens zwei Becken benötigt, entweder ein zweites Belebungsbecken oder ein Vorspeicher (Pufferbecken), in dem die während des Reinigungsvorgangs zulaufende Abwassermenge bereits vorgereinigt oder zumindest zwischengespeichert wird.
+In der Regel ist es vorteilhaft, darüber hinaus noch ein drittes Becken zu errichten, in dem der Überschussschlamm und eventuell zuvor abgeschiedener Primärschlamm gespeichert werden.
+Diese Schlämme werden dann größeren Kläranlagen zugeführt, die mit einer weitergehenden Schlammbehandlung ausgerüstet sind.
+
+==== Nachklärbecken
+
+Das Nachklärbecken bildet eine Prozesseinheit mit dem Belebungsbecken.
+In ihm wird der Belebtschlamm durch Absetzen aus dem Abwasser abgetrennt.
+Der größere Teil des Schlammes wird in das Belebungsbecken zurückgeführt (Rücklaufschlamm), um die Konzentration an Mikroorganismen im Belebungsbecken ausreichend hoch zu halten.
+Anderenfalls wäre die Abbauleistung darin zu niedrig.
+Der Überschuss (Zuwachs an Biomasse, Überschussschlamm) wird zusammen mit dem Primärschlamm des Vorklärbeckens zur Weiterbehandlung in den Voreindicker abgeführt.
+
+Der Belebtschlamm muss gute Absetzeigenschaften aufweisen.
+Ist dies nicht der Fall, beispielsweise durch massenweises Wachstum fadenförmiger Mikroorganismen, was zur Blähschlammbildung führt, kann der Belebtschlamm aus dem Nachklärbecken in den Vorfluter abtreiben.
+Damit wird nicht nur das Gewässer beeinträchtigt.
+Da dann nicht genug Schlamm im System Belebungsbecken/ Nachklärbecken gehalten werden kann, sinkt das Schlammalter (die mittlere Aufenthaltsdauer der Biomasse im System) und damit die Reinigungsleistung.
+Als erstes sind davon die langsam wachsenden Bakterien (beispielsweise die Nitrifikanten, die Ammoniak zu Nitrat oxidieren) betroffen.
+Besonders Abwässer mit leicht abbaubaren organischen Stoffen (beispielsweise aus der Lebensmittelindustrie) neigen zur Blähschlammbildung.
+Die Vorschaltung kleiner, nicht oder gering belüfteter Becken vor dem Belebungsbecken (Selektoren) kann die Blähschlammbildung vermeiden.
+
+Eine spezielle Form des Nachklärbeckens ist der trichterförmige Dortmundbrunnen.
+
+==== Festbettverfahren
+
+Das Festbettverfahren ist eine weitere Sonderform des Belebtschlammverfahrens, welches vor allem bei kleinen Anschlussgrößen zur Anwendung kommt (s. a. Kleinkläranlage).
+Dabei dienen verschieden geformte Festkörper als Grundlage zum Aufwuchs von Mikroorganismen, die die Schmutzstoffe abbauen.
+Diese Festkörper werden abwechselnd in Abwasser und Luft getaucht bzw. in regelmäßigen Abständen mit Abwasser beschickt, damit die Mikroorganismen sowohl mit den Schmutzstoffen als auch mit dem zu deren oxidativen Abbau erforderlichen Sauerstoff in Kontakt kommen.
+
+=== Schlammbehandlung
+
+Der während des Abwasserreinigungsprozesses entstehende überschüssige Klärschlamm wird im Anschluss behandelt.
+Diese Behandlung erfolgt in zwei Schritten
+
+Stabilisierung bedeutet hier den weitgehenden Abbau der im Klärschlamm enthaltenden organischen Substanz (Mineralisierung) und erfolgt auf kleinen Kläranlagen aerob direkt in der Belebung und auf großen Kläranlagen anaerob in Faultürmen.
+Damit beinhaltet die Stabilisierung bereits eine gewisse Reduzierung der Klärschlammmenge.
+Die Stabilisierung hat zum Ziel, dass im Anschluss biologische oder chemische Umsetzungsprozesse nur noch begrenzt oder sehr langsam ablaufen, damit eine Klärschlammverwertung erfolgen kann.
+
+Die eigentliche Mengenreduzierung wird jedoch durch eine Abtrennung von Wasser aus dem Klärschlamm erreicht.
+Übliche Verfahren sind hier die Schlammeindickung oder -entwässerung mit entsprechenden Maschinen.
+Die Effizienz der Schlammentwässerung steigt im Allgemeinen mit zunehmendem Stabilisierungsgrad.
+
+==== Aerobe Schlammstabilisierung
+
+Das Verfahrensprinzip der aeroben Schlammstabilisation beruht darauf, dass die im Klärschlamm enthaltenen Mikroorganismen unter Anwesenheit von Sauerstoff einem ständigen "Hungerzustand" ausgesetzt werden, wodurch sie gezwungen werden, nahezu alle verfügbaren Reserve-, Speicher- und sonstigen verwertbaren Stoffe als Nahrung zu verarbeiten.
+Der Schlamm wird damit auf aerobem Wege so stabilisiert, dass es bei der anschließenden Entsorgung zu keinen weiteren Abbauprozessen und somit zu keinen Geruchsbelästigungen kommt.
+Erreicht wird dieser Zustand durch ein hohes Schlammalter, d. h. eine genügend hohe TS-Konzentration in der Belebung.
+
+Der größte Vorteil dieses Verfahrens liegt in der einfachen Bauweise und Verfahrenstechnik.
+Denn die biologische Abwasserreinigung und die Schlammstabilisation erfolgen im Belebungsbecken gleichzeitig (simultan).
+Nachteilig ist der relativ hohe Energieverbrauch, der sich aus der für diesen Prozess erforderlichen Belüftung ergibt.
+
+==== Anaerobe Schlammstabilisierung
+
+Ab einer Anschlussgröße von 30.000 Einwohnerwerten wird auf Kläranlagen meist eine anaerobe Schlammstabilisierung umgesetzt.
+Diese wird auch Schlammfaulung genannt und erfordert einen Faulturm.
+In der Regel sind anaerob stabilisierende Kläranlagen zusätzlich mit einer Vorklärung ausgestattet.
+Der darin abgetrennte Primärschlamm wird zusammen mit dem Überschussschlamm aus der Belebung unter sauerstoffarmen Bedingungen durch anaerobe Bakterienstämme und methanogene Archaea zu Faulschlamm und brennbarem Faulgas abgebaut.
+Das Gemisch aus Primär- und Überschussschlamm, welches in die Faulung geht, wird Rohschlamm genannt.
+
+Es gibt vier Abbauphasen im Faulturm: Hydrolysephase, Versäuerungsphase, acetogene Phase und methanogene Phase.
+
+In der Praxis werden bei der Schlammfaulung die im Rohschlamm enthaltenen rund 70 Prozent organische Trockensubstanz auf etwa 50 Prozent verringert.
+Theoretisch ginge der Abbau noch weiter, verliefe aber sehr viel langsamer, da die restliche organische Substanz schwer abbaubar ist.
+Im technischen Sinne gilt der Schlamm bei einem Glühverlust von etwa 50 Prozent als sehr gut ausgefault und stabil.
+Er wird dann Faulschlamm genannt.
+
+Als Abbauprodukt entsteht bei der Faulung Faulgas.
+Es handelt sich um ein Gasgemisch, das etwa folgendermaßen zusammengesetzt ist:
+
+Dieser Prozess entspricht der Erzeugung von Biogas in einer Biogasanlage.
+Konventionelle Faulbehälter werden meist eiförmig ausgeführt (siehe Abbildung).
+In Anlehnung an Biogasanlagen gibt es mittlerweile auch zunehmend einfachere und damit weniger kostenintensive Bauformen.
+
+Das Faulgas wird in gereinigter Form (zum Beispiel nach Entfernung von Schwefelwasserstoff) in Gasmotoren oder in Blockheizkraftwerken zur Deckung des Eigenbedarfs an Strom und Wärme genutzt.
+Mittlerweile werden auch Mikrogasturbinen zur Verwertung des Faulgases eingesetzt.
+Bei Ausfall dieser Aggregate wird das Gas abgefackelt.
+
+==== Schlammeindickung
+
+Der Faulschlamm bzw. Überschussschlamm wird anschließend eingedickt (siehe obige Schemata).
+Dies kann mit verschiedenen technischen Verfahren erreicht werden.
+Oft gibt es einen statischen Schlammeindicker, bei dem es sich um ein Bauwerk handelt, in dem die Schlammflocken sedimentieren können.
+Es lassen sich hiermit üblicherweise TS-Konzentrationen von bis zu 4 % erreichen.
+Darüber hinaus gibt es technische Anlagen, z. B. Trommeleindicker, die unter Einsatz von Flockungshilfsmitteln und Energie eine schnellere Abtrennung und zugleich höhere TS-Konzentrationen (bis zu 8 %) erreichen.
+Das überschüssige Wasser aus der Eindickung wird Trübwasser genannt und der Kläranlage wieder zugeführt.
+
+==== Schlammentwässerung
+
+Eine weitergehende Mengenreduzierung erfolgt in der Schlammentwässerung.
+Hierzu ist ein noch höherer technischer und energetischer Aufwand zu betreiben.
+Darüber hinaus steigt ebenfalls der notwendige Einsatz an Chemikalien (Flockungshilfsmittel, zum Teil auch Kalk).
+Üblicherweise werden für die Entwässerung des Klärschlamms Filterpressen oder Dekanterzentrifugen eingesetzt.
+Die Klärschlammvererdung dient ebenfalls der Entwässerung, nutzt dafür aber im Wesentlichen natürliche Prinzipien (Sedimentation, Filtration, Verdunstung) ohne Einsatz von Chemikalien.
+
+=== Ablauf
+
+Nach der Nachklärung fließt das gereinigte Wasser über den Klärwerksableiter in den Vorfluter.
+Viele Kläranlagen benötigen zu diesem Zweck zusätzlich ein Ablaufpumpwerk, wenn der Abfluss in freiem Gefälle nicht möglich ist.
+
+=== Schlammverwertung
+
+Der Klärschlamm darf in Deutschland seit 2005 nicht mehr auf Mülldeponien gelagert werden, weil er einen Glühverlust von mehr als 5 % aufweist.
+
+Deshalb erfolgt die Verwertung des Klärschlamms vorwiegend:
+
+Auch wenn die gesetzeskonforme Schlammverwertung noch in der Verantwortung der Kläranlagenbetreiber liegt, findet deren technische Umsetzung üblicherweise nicht auf den Kläranlagen selber statt.
+Es gibt beispielsweise nur wenige Kläranlagen, die eine eigene Monoverbrennungsanlage für Klärschlamm betreiben.
+
+== Reinigungsprozesse
+
+Die Prozesse in Kläranlagen können mathematisch durch ihre Reaktionskinetik (Makrokinetik) beschrieben werden.
+
+== Belastungskenngrößen
+
+Die Belastung von Kläranlagen wird nach Einwohnerwerten (EW) bestimmt.
+Dabei handelt es sich um die Summe aus den tatsächlichen Einwohnern (Einwohnerzahl, EZ) und den Einwohnergleichwerten (EGW).
+Der Einwohnergleichwert ist die Vereinbarungsgröße der für einen "Standardeinwohner" anzusetzenden Emission an Abwasser.
+Für gewerbliche, industrielle und landwirtschaftliche Produktion werden auf Produktionsgrößen bezogene Belastungen (beispielsweise 10 EW BSB5 pro ha Weinbaufläche) angegeben.
+Zu beachten ist jedoch, dass sich die Verhältnisse zwischen den einzelnen Parametern verschieben können.
+Abwässer können höher konzentriert sein (weniger Abwassermenge bei gleicher Schmutzfracht), oder sie können beispielsweise reich an organischen Kohlenstoffverbindungen und dafür nährstoffarm sein.
+Der Gehalt an biotisch abbaubaren Stoffen wird mit dem Summenparameter biochemischer Sauerstoffbedarf, abgekürzt BSB, quantifiziert.
+In der Regel wird er mit dem biochemischen Sauerstoffverbrauch in Milligramm innerhalb von fünf Tagen unter Standardbedingungen gemessen und als BSB5 bezeichnet (siehe unten).
+Für den biotischen Abbau muss ein Nährstoffverhältnis von BSB5:N:P von etwa 100:5:1 gegeben sein, damit die Mikroorganismen ausreichend mit Stickstoff und Phosphor versorgt werden.
+Dies fußt auf der Annahme, dass etwa die Hälfte der abgebauten organischen Stoffe zum Biomassewachstum verwendet wird und Biomasse in der Trockensubstanz zu etwa zwölf Prozent aus Stickstoff und zu etwa zwei Prozent aus Phosphor besteht.
+
+=== Abwassermenge
+
+Als Belastung der Kläranlage mit Abwasser wurde früher ein Schmutzwasseranfall von 150 bis 200 Liter pro Einwohner und Tag angesetzt.
+Der Schmutzwasseranfall entspricht etwa dem Wasserverbrauch.
+Für Neuplanungen oder Vorausplanungen wird inzwischen der ortsspezifische Wasserverbrauch ermittelt und eine Abschätzung für die Zukunft versucht.
+Üblicherweise werden Schmutzwassermengen um die 130 Liter pro Einwohner und Tag angesetzt.
+
+Dieser Wert berücksichtigt die in Mitteleuropa bei dichten Kanalnetzen üblichen Werte.
+Für die Bemessung der Kläranlage wird jedoch in der Regel ein Zuschlag für Fremdwasser (undichte Kanäle, Einleitungen von Drainagen und dergleichen) berücksichtigt.
+Dieser kann bis 100 Prozent des Schmutzwasseranfalls betragen.
+Die Fremdwassermenge wird auf die angeschlossene versiegelte Fläche bezogen und sollte nicht mehr als 0,15 l/(sxha) betragen.
+
+Bei Mischkanalisationen (Regenwasser und Schmutzwasser in einem Kanal) sind entsprechende Zuschläge zur Abarbeitung des Regenwassers zu berücksichtigen, die meist mit 100 Prozent der Tagesspitze bei Trockenwetter angesetzt werden.
+
+Für die hydraulische Berechnung (Zahl und Größe der Förderpumpen) der Kläranlage ist zudem der Tagesgang der Belastung von Bedeutung.
+Die durchschnittliche Tagesfracht ist daher zur Bemessung nicht durch 24 Stunden, sondern durch eine kleinere Zahl (10 bis 14) für den maximalen Stundenwert zu teilen.
+
+=== Verschmutzungsgrad
+
+==== BSB5
+
+Beim BSB5-Wert, dem biochemischen Sauerstoffbedarf während einer Messzeit von fünf Tagen bei 20 °C, wird jener Sauerstoffbedarf erfasst, der bei der Oxidation von organischen Stoffen durch aerobe Mikroorganismen entsteht.
+Er gehört zu den sogenannten Summenparametern, da damit nicht der Abbau von Einzelverbindungen bestimmt werden kann.
+
+Die bakterielle Oxidation von Ammoniak (NH3), Ammonium (NH4+) und Nitrit (NO2-) zu Nitrat (NO3-) - Nitrifikation genannt - soll nicht erfasst werden und wird bei der Messung durch einen Hemmstoff, beispielsweise Allylthioharnstoff (ATH) oder Natriumhydroxid-Plätzchen, unterbunden.
+
+Als üblicher Wert für den BSB5 werden 60 Gramm pro Einwohnerwert und Tag angesetzt.
+Davon können etwa 20 Gramm in der Vorklärung durch Sedimentation entfernt werden.
+Für die Bestimmung des BSB sind folgende Voraussetzungen notwendig:
+
+Mit dem Erscheinen des neuen DWA-Arbeitsblattes 131 im Juni 2016 entfiel der BSB5 als Bemessungsparameter für einstufige Belebungsanlagen, da der BSB5 keine vollständige Bilanzierung des Schlammanfalls und des Sauerstoffbedarfs ermöglicht und in der Praxis nicht mehr flächendeckend gemessen wird.
+
+==== Chemischer Sauerstoffbedarf
+
+Der chemische Sauerstoffbedarf, abgekürzt CSB, gehört ebenfalls zu den Summenparametern, da damit keine Einzelverbindungen quantifiziert werden können.
+Er wird mittels der Oxidation der Abwasserinhaltsstoffe durch Kaliumdichromat bestimmt und erfasst den Sauerstoffbedarf zur Oxidation eines Großteils der organischen Stoffe.
+Sind im Abwasser auch oxidierbare anorganische Verbindungen wie Sulfite enthalten, werden diese ebenfalls als chemischer Sauerstoffbedarf erfasst.
+Dieser Parameter wird zur Bilanzierung der Anlage herangezogen.
+Für den chemischen Sauerstoffbedarf wird ein Wert von 120 Gramm pro Einwohnerwert und Tag angesetzt.
+
+==== Stickstoff
+
+Stickstoff liegt im Rohabwasser hauptsächlich organisch gebunden (zum Beispiel in Proteinen, Nukleinsäuren, Harnstoff) und in Form von Ammonium-Ionen (NH4+) sowie in geringen Anteilen auch in Form von Nitrat- (NO3-) und Nitrit-Ionen (NO2-) vor.
+Angesetzt werden hierfür etwa zehn bis zwölf Gramm pro Einwohnerwert und Tag.
+
+==== Phosphor
+
+Phosphor liegt organisch als Phosphatgruppe gebunden und als freies Phosphat vor.
+Für Deutschland werden etwa 2 Gramm Phosphor pro Einwohner und Tag angenommen.
+In der Schweiz muss Phosphor aus Kläranlagen ab 2026 rezykliert werden.
+
+== Mikroplastik
+
+Die Rückhalteeffizienz von Mikroplastik in Kläranlagen liegt laut einem Review-Artikel bei 83-99,9 %, wobei sie bei der Mehrheit der berücksichtigten Untersuchungen höher als 95 % war.
+
+Die weitere Reduktion der Emissionen kann z. B. mittels Tuchfiltration erfolgen.
+
+Die Rieselfelder Münster werden mit dem gereinigten Wasser der Kläranlage Münsters bewässert, das relativ viel Mikroplastik enthält.
+Derzeit wird untersucht, welche Auswirkungen es auf wirbellose Tiere wie Schnecken und Krebse hat, wenn diese die Plastikteilchen fressen.
+
+Global betrachtet sind die Haupteintragspfade von primärem Mikroplastik in die Ozeane Straßenabläufe (66 %), Abwasserbehandlungssysteme (inkl. Regenüberlauf, 25 %) und Windverfrachtungen (7 %).
+
+== Umweltaspekte
+
+=== Energieverbrauch
+
+Für viele Kommunen weltweit sind Kläranlagen die Einrichtungen mit dem höchsten Energieverbrauch.
+Es wird geschätzt, dass sie bei Einsatz herkömmlicher Technik bis etwa 3 % des globalen Stromverbrauchs verursachen.
+Im Durchschnitt sind Kläranlagen für rund 20 Prozent des kommunalen Energieverbrauchs verantwortlich.
+Bundesweit werden dafür 4400 Gigawattstunden elektrische Energie im Jahr verbraucht (2009).
+Ein Teil dieser Energie kann durch die Verstromung des beim Klärprozess anfallenden energiereichen Klärgases in einem Blockheizkraftwerk selbst erzeugt werden.
+Im Jahr 2014 waren von ca. 10.000 deutschen Kläranlagen rund ein Achtel mit einem BHKW zur Eigenversorgung mit Strom und Wärme ausgestattet.
+Diese lieferten ca. 1.340 GWh elektrische Energie, die zu mehr als 90 % in den Kläranlagen selbst verbraucht wurde.
+Damit könnten rechnerisch alle Haushalte einer Großstadt wie Frankfurt am Main versorgt werden.
+
+Davon erfordert in der Regel das Druckbelüftungssystem im Belebungsbecken den mit Abstand größten Energieaufwand von allen Verfahrensschritten einer kommunalen Abwasserbehandlungsanlage.
+Der Energieverbrauch für die Belüftung liegt im Durchschnitt bei etwa 50 Prozent des gesamten Energiebedarfs.
+Danach folgen die kontinuierlich laufenden Pumpen, und die drittgrößte Verbrauchergruppe bilden in der Regel die fortlaufend arbeitenden Rührwerke.
+Diese drei Hauptkomponenten verbrauchen bei normal geführten Anlagen über 80 Prozent der Energie.
+
+Unter optimalen Bedingungen ist es möglich, Kläranlagen mit Energiegewinnung zu betreiben.
+So realisiert die Kläranlage der Stadtwerke Bad Oeynhausen seit einem Umbau im Jahr 2014 Energieüberschüsse.
+Nach Schätzungen ist die chemische Energie im Abwasser etwa neunmal so hoch wie die für den Klärvorgang notwendige Energie.
+
+Folgende Maßnahmen zur Steigerung der Energieeffizienz werden unter anderem vorgeschlagen:
+
+Darüber hinaus kann die im Abwasser enthaltene thermische Energie mit Hilfe von (Groß)-Wärmepumpen auf ein höheres Temperaturniveau angehoben werden und anschließend in Fernwärmesysteme eingespeist werden.
+Eine 2017 publizierte Review-Studie fand insgesamt 54 Großwärmepumpen mit einer kumulierten Wärmeleistung von rund 900 MW in Betrieb, die in aller Regel Abwasser mit einer Temperatur von 10-20 °C nutzen.
+Die leistungsfähigsten Anlagen dieser Art befinden sich in Skandinavien, wobei in Stockholm mit 230 MW und Göteborg mit 160 MW besonders große Anlagen installiert waren.
+Ähnliche Systeme könnten nun in anderen europäischen Städten genutzt werden.
+Als besonderen Vorteil der Abwasserwärmenutzung sehen die Autoren die von wirtschaftlichen Unsicherheiten kaum tangierte Langzeitverfügbarkeit der Wärmequelle Abwasser an.
+
+=== Treibhausgasemissionen
+
+Kläranlagen sind Emittenten von Treibhausgasen, die im Klärprozess anfallen.
+Freigesetzt werden sowohl Kohlenstoffdioxid als auch weitere hochpotente Treibhausgase wie Methan oder Distickstoffmonoxid.
+Schätzungen für das Jahr 2010 ermittelten einen Treibhausgasausstoß von ca. 0,77 Mrd. Tonnen CO2-Äquivalent, was etwa 1,57 % der globalen Äquivalentemissionen in Höhe von 49 Mrd. Tonnen entspricht.
+Der zugrundeliegende Kohlenstoff stammt weitgehend aus natürlichen organischen Stoffen, daher gilt das freiwerdende Kohlendioxid als treibhausgasneutral; problematisch sind vor allem die Methan- und Lachgasemissionen, da diese um ca. Faktor 25 bzw. 298 stärker wirken als Kohlendioxid.
+Mit etwa 0,56-0,71 Mrd. Tonnen CO2-Äquivalent sind diese Emissionen aus Kläranlagen für etwa 4,6 % - 5,2 % der globalen Nicht-CO2-Emissionen verantwortlich.
+
+Zugleich sorgen Kläranlagen auch für eine Reduzierung potentieller Treibhausgasmengen.
+Denn würde Abwasser ungereinigt in ein Gewässer eingeleitet werden, führte dies neben der entsprechenden Verschmutzung mit den üblichen Begleiterscheinungen (Eutrophierung, Fischsterben) zu einem erheblichen Anstieg der Treibhausgasemissionen.
+Die natürlichen Abbauprozesse finden zunächst unter Zehrung des gelösten Sauerstoffs statt, wobei Kohlendioxid freigesetzt wird.
+Nachdem der Sauerstoff aufgebraucht wurde, finden die weiteren Abbauprozesse unter anaeroben Bedingungen statt.
+Dadurch kommt es vermehrt zu Methan-, Schwefelwasserstoff- und Lachgasemissionen, die wiederum (s. o.) ein höheres Treibhauspotential aufweisen.
+
+Kläranlagen gelten aufgrund des Anfalls großer Mengen von kohlenstoffhaltigem Abwasser, ihrer Lage in dicht besiedelten Gebieten und der größtenteils schon vorhandenen Infrastruktur als vielversprechende Standorte für die Installation von Kohlendioxidabscheideanlagen für die Endlagerung oder die industrielle Weiternutzung von CO2.
+Auf diese Weise könnte anfallendes Kohlendioxid entweder dauerhaft der Atmosphäre entzogen werden, um klimapolitisch wünschenswerte negative Emissionen zu realisieren, oder als industrieller Rohstoff für diverse Anwendungen genutzt werden.
+Ein besonderer Vorteil von Kläranlagen ist hierbei, dass durch die bereits vorhandene Technik kein zusätzlicher Landverbrauch für Abscheide- und Transportinfrastruktur benötigt würde.
+Mögliche Konzepte für solche Anlagen umfassen den Einsatz von mikrobieller elektrolytischer CO2-Abscheidung, mikrobielle Elektrosynthese, das Anlagen von Mikroalgen-Kulturen, das Anlegen künstlicher Feuchtgebiete, die Produktion von Biokohle aus Klärschlamm oder die Aufwertung des erzeugten Biogases durch Methanisierung des enthaltenen Kohlenstoffdioxids (Power-to-Gas-Konzepte).
+
+== Sonderformen
+
+== Weblinks
+
+== Einzelnachweise
+

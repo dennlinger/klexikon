@@ -1,0 +1,164 @@
+Die Silbe (von lateinisch syllaba aus altgriechisch ua "Zusammenfassung, Silbe") ist ein grammatischer beziehungsweise linguistischer Begriff, der eine Einheit aus einem oder mehreren aufeinanderfolgenden Lauten bzw. Phonemen bezeichnet, die sich in einem Zug aussprechen lassen und so eine Sprecheinheit bilden.
+Sie stellt die kleinste Lautgruppe im natürlichen Sprechfluss dar.
+
+Die Silbe bildet eine rein lautliche (phonetische) Einheit, die unabhängig von ihrer Bedeutung gebildet wird.
+Daher stimmt die Einteilung eines Wortes in Silben häufig nicht mit der Einteilung in bedeutungstragende Einheiten (Morpheme) überein - auch wenn im Deutschen oft dieser Eindruck entsteht.
+Dies wird dadurch erschwert, dass Morpheme in bestimmten Nomenklaturen auch als Sprachsilben bezeichnet werden.
+Die in diesem Artikel beschriebene Silbe wird dann zur Abgrenzung als Sprechsilbe bezeichnet.
+Daneben wird manchmal auch eine Schreibsilbe definiert.
+
+Jedes phonologische Wort lässt sich in Silben unterteilen - diese Unterteilung dient als Basis für die schriftsprachliche (graphematische) Worttrennung am Zeilenende, welche durch einen Trennstrich gekennzeichnet wird (beispielsweise Sil-be, lus-tig, wa-rum).
+In der Poesie, d. h. Lyrik und anderen Versdichtungen, konstituiert in manchen Sprachen wie dem Deutschen der Wechsel aus betonten und unbetonten Silben das Versmaß.
+In diesem Zusammenhang wird in der Verslehre (Metrik) eine vom Metrum geforderte betonte Silbe als Hebung, eine unbetonte als Senkung bezeichnet.
+Diese Begrifflichkeit wird im übertragenen Sinn auch auf quantitierende Verse der antiken Metrik (Verslehre) angewendet.
+Als Hebung werden hier diejenigen langen Silben bezeichnet, die nicht kurze Silben vertreten, als Senkung die kurzen Silben und die sie ersetzenden langen Silben.
+
+Zwar hat jede Sprache eigene Regeln für den Aufbau ihrer Silben, aber einige davon gelten universell:
+Eine Silbe muss immer genau einen Silbenkern enthalten.
+Das ist meistens ein Vokal oder Doppelvokal (Diphthong).
+Zusätzlich kann sie einen oder mehrere Konsonanten aufweisen.
+Manche Sprachen (z. B. Deutsch) erlauben in unbetonten Silben auch sonore Konsonanten wie Nasale oder Liquiden als Silbenkern.
+Andere Sprachen, z. B. Tschechisch, erlauben auch in betonten Silben bestimmte Konsonanten als Silbenkern, z. B. Strc prst skrz krk ,Steck den Finger durch den Hals'.
+Diese Aspekte werden in der Linguistik als Silbenbeschränkungen aufgefasst.
+In diesem Zusammenhang wird danach gefragt, wann eine Silbe den sogenannten "Wohlgeformtheitsaspekten" folgt und wann nicht.
+Es werden universelle und sprachspezifische Silbenstrukturbeschränkungen unterschieden.
+
+Als silbisch bezeichnet man einen Konsonanten, wenn er in einem Wort Silbenträger ist.
+Beispiele sind Wörter, die auf en enden: "Laden" mit silbischem /n/ im Gegensatz zur nichtsilbischen Variante mit Schwa //, der historisch älteren Aussprache.
+
+== Silbenstruktur
+
+In der Linguistik wird die Silbe (), vereinfacht ausgedrückt, als Folge von Segmenten definiert, die eine interne Struktur besitzt.
+Das heißt, eine Silbe setzt sich aus einer Gruppe von Lauten im natürlichen Sprechfluss zusammen, welche der Sprecher in einem Atemzug artikulieren kann.
+Die Silbe ist also die kleinste freie phonologische Einheit.
+
+=== Silbenstrukturmodelle
+
+Aufgrund der strukturellen Eigenschaften der Silbe ist es sinnvoll, diese in Strukturmodellen darzustellen.
+Es gibt dazu in der Linguistik zwei Hauptansätze.
+Das CV-Modell und das Konstituentenmodell.
+Das CV-Modell stellt die Silbenstruktur linear und nicht-hierarchisch dar, sondern flach als eine Abfolge von C- und V-Elementen.
+C-Elemente sind in der Regel Konsonanten und V-Elemente sind typischerweise Vokale.
+Silben werden also als eine Abfolge an Positionen betrachtet, wobei eine Position mit einem oder mehreren Lauten assoziiert wird.
+Das CV-Modell macht es möglich, anhand der besetzten CV-Positionen Aussagen über Dauerunterschiede und Quantität bei Berücksichtigung von Gespanntheit und Betonung zu treffen und ist somit sinnvoll für die Analysen dieser Aspekte der Silbe.
+Eine andere Herangehensweise ist das Konstituentenmodell.
+Hier stehen die Strukturpositionen der Silbe in einem hierarchischen Verhältnis.
+Die Silbe wird in diesem Modell in Grundbestandteile eingeteilt.
+Diese Bestandteile sind Silbenkopf (Onset, ), Silbenkern (Nukleus, v) und Silbenschwanz (Koda, ).
+Kern und Koda können wiederum als Silbenreim () zusammengefasst werden.
+Dieses Modell bietet sich an, wenn die Analyse anhand dieser Segmente geschehen soll, da bspw. nicht alle Segmente besetzt sein müssen und das verdeutlicht werden soll.
+Eine Kombination von CV- und Konstituentenmodell ist möglich.
+
+Es gibt verschiedene Traditionen und Theorien zur Silbenanalyse.
+In erster Ebene wird die Silbenstruktur aus der Folge von Segmenten üblicherweise in Silbenkopf und Silbenreim unterteilt.
+Der Reim wird vor allem in westlicher Phonologie weiter unterteilt in sonanten Silbenkern und Silbenschwanz.
+Besonders in fernöstlicher Phonologie wird der Kopf oder Anlaut weiter analysiert in Initiallaut () und Mediallaut () oder statt Medial und Reim wird der komplexe Finallaut () verwendet, der auch den Ton () mit Höhe und Verlauf trägt, welcher in vielen ostasiatischen Sprachen lexemische und nicht nur syntaktische Bedeutung hat.
+
+Somit hat der obligatorische Kern einen optionalen linken und rechten Rand, die zusammen die Silbenschale bilden.
+Der Silbenansatz ist in manchen Sprachen obligatorisch, in anderen (inkl. Deutsch) darf er auch fehlen.
+Die Silbenkoda ist in keiner Sprache obligatorisch, sie ist immer entweder fakultativ (z. B. im Deutschen) oder sie kommt gar nicht vor (z. B. im Hawaiischen).
+
+Einige Linguisten unterscheiden zwischen der phonetischen und der phonologischen Silbe.
+Pike verwendet zur Benennung der rein phonetisch definierten Lauteinheiten die Bezeichnungen Kontoid (C), Vokoid (V) und Ton (T).
+Vokoide sind "orale, nicht-laterale Resonanten", Kontoide alle anderen segmentellen Sprachlaute.
+Eine phonetische Silbe kann neben dem Silbenmerkmal "Ton" im Anlaut Kontoide, im Nukleus Vokoide und im Endlaut Kontoide oder Vokoide enthalten.
+
+=== Silbenansatz
+
+Der Silbenansatz (auch: Silbenanfang, Silbenanlaut, Silbenkopf, Anfangsrand, onset) besteht aus einem oder mehreren Konsonanten.
+Beispielsweise bilden die Konsonanten    und    im Wort "Name" jeweils den Ansatz einer Silbe.
+Aufeinanderfolge und maximale Anzahl sind dabei eingeschränkt.
+Die Beschränkung gilt sowohl einzelsprachlich unter Gesichtspunkten der Phonotaktik, als auch universell wegen der Sonoritätshierarchie.
+Eine Konsonantenfolge im Silbenansatz hat meistens steigende Sonorität, aber es gibt Ausnahmen wie die Folge im deutschen Wort "Stock".
+
+Zum morphologischen Anlaut für den ersten Sprachlaut eines Wortes siehe Anlaut.
+
+=== Silbenreim
+
+Der Silbenreim besteht aus der konsonantischen Silbenkoda zusammen mit dem vokalischen Silbenkern.
+In der traditionellen chinesischen Phonologie wird er nicht weiter unterteilt, aber noch nach Ton unterschieden.
+
+=== Silbenkern
+
+Der Silbenkern (Nukleus, Silbengipfel) ist der Moment der größten Schallfülle einer Silbe und damit deren sonoranter Hauptteil (Segment mit der höchsten Prominenz).
+In der Regel ist dieser Silbenkern vokalisch, z. B. der Vokal    im Wort "Kamm" bildet den Gipfel einer Silbe.
+Ist kein Vokal vorhanden, so liegt der Silbenkern auf einem Fließlaut (Liquida) oder auf einem Nasallaut, z. B. der -Laut im Wort "Gipfel" und der -Laut im Wort "laden" bilden jeweils den Gipfel einer vokallosen Silbe.
+
+Die Silbe als kleinste freie phonologische Einheit hat genau einen Nukleus.
+Konsonantische Satellitenphoneme (Silbenanlaut und Silbenkoda) können den Nukleus umgeben.
+Eine größere phonologische Einheit kann mehrere Silbenkerne aufweisen.
+
+Ein Silbenkern besteht im einfachsten Falle aus exakt einem kurzen oder langen Vokal.
+In den meisten Sprachen findet sich als leichteste Abweichung ein Silbenkern aus zwei Vokalen und somit aus einem Diphthong, z. B. im Wort "Brei".
+Seltener sind auch Triphthonge, also eine unmittelbare Folge von drei Vokalen oder Halbvokalen im Nukleus, silbenkernfähig, z. B. im englischen Wort fire (RP).
+
+=== Silbenkoda
+
+Die Silbenkoda (von italienisch coda ,Schwanz', auch: Silbenende, Silbenauslaut, Silbenschwanz, Endrand) besteht aus einem oder mehreren Konsonanten.
+Aufeinanderfolge und maximale Anzahl der Konsonanten sind dabei eingeschränkt.
+Die Beschränkung gilt sowohl einzelsprachlich unter Gesichtspunkten der Phonotaktik als auch universell wegen der Sonoritätshierarchie.
+Eine Konsonantenfolge in der Silbenkoda hat meistens fallende Sonorität, aber es gibt Ausnahmen wie die Folge im deutschen Wort "hübsch".
+In vielen Sprachen, inkl. Deutsch, muss ein Obstruent in der Koda stimmlos sein, siehe dazu Auslautverhärtung.
+
+=== Silbenschale
+
+Die Silbenschale setzt sich zusammen aus den fakultativen Silbenrändern (Silbenkopf und Silbenkoda).
+Kopf und Koda bilden die konsonantische Umgebung des obligatorischen vokalischen Silbenkerns.
+
+Phoneme, die nicht im Silbenkern einer Silbe stehen können, sondern nur in der Silbenschale, heißen Satellitenphoneme.
+Dazu zählen nichtsilbische Konsonanten und die nicht voll vokalischen Teile eines Diphthongs.
+Im Deutschen sind mit wenigen Ausnahmen (z. B. /n/ und /l/) alle Konsonanten Satellitenphoneme, in anderen Sprachen ist die Anzahl der Konsonanten, die als Silbenkern auftreten können, bedeutend größer.
+Vokale können immer den Silbenkern bilden, sie gehören daher nicht in die Kategorie Satellitenphonem.
+
+== Arten von Silben
+
+Anhand ihrer segmentellen Struktur unterscheidet man zwischen offener und geschlossener Silbe sowie zwischen nackter und bedeckter Silbe:
+
+Eine bedeckte Silbe hat einen (konsonantischen) Silbenkopf.
+Eine nackte Silbe beginnt hingegen direkt mit dem (vokalischen) Silbenkern.
+Über den Aufbau des Reims, d. h. ob es eine (konsonantische) Koda gibt oder nicht, treffen die beiden Begriffe keine Aussage.
+
+Beispiele:
+
+Eine offene Silbe (lateinisch syllaba aperta) endigt mit einem Vokal.
+Eine geschlossene Silbe (lateinisch syllaba clausa) endet hingegen auf mindestens einen Konsonanten.
+Über die Existenz oder Art des Silbenkopfes sagen die beiden Begriffe nichts aus.
+
+Beispiele:
+
+Anhand der Länge unterscheidet man nach Quantität, Silbengewicht und Silbendauer.
+
+Die vor allem in der quantitierenden antiken Metrik der Griechen und Römer bestimmende Eigenschaft der Quantität unterscheidet zwischen "kurzen" und "langen" Silben, wobei man sich auf die relative Dauer einer Silbe im Kontext des konkreten Verses bezieht.
+Analog zu den "Kürzen" und "Längen" der quantitierenden Sprachen unterscheidet man bei Sprachen mit akzentuierendem Versprinzip zwischen "unbetonten" und "betonten" Silben.
+
+Im Unterschied dazu ist das Silbengewicht eine Eigenschaft der Silbe an sich, unabhängig von ihrem Kontext, die sich aus der Silbenstruktur ableiten lässt.
+Man unterscheidet hier zwischen "leichten" und "schweren" Silben.
+Entsprechend einer von Theo Vennemann eingeführten Terminologie wird "leicht" bzw. "schwer" auch abstrahierend vom Versprinzip verwendet, um unabhängig davon Eigenschaften metrischer Elemente zu bezeichnen.
+
+Die Silbendauer schließlich meint die (physikalisch messbare) Dauer der Artikulation einer Silbe.
+
+Mit Utz Maas unterscheidet man bei den zweisilbigen deutschen Erbwörtern zwischen der prominenten Silbe (betont und mit Vollvokal) und der Reduktionssilbe (unbetont und mit Reduktionsvokal oder ).
+
+Um Silben eines Wortes in Hinsicht auf ihre Position zu bezeichnen, sind für die letzten drei Wortsilben lateinische Fachausdrücke gebräuchlich: die letzte Silbe eines Wortes nennt man Endsilbe oder Ultima (lateinisch ultima, "die letzte "), die vorletzte Vorendsilbe oder Pänultima (lateinisch paenultima) und die vorvorletzte Antepänultima (lateinisch antepaenultima); die erste Silbe eines Wortes heißt Erstsilbe, alle zwischen erster und letzter Silbe heißen Binnensilben oder Mittelsilben.
+
+Um Wörter der klassischen und der romanischen Sprachen in Hinsicht auf diejenige Silbe zu bezeichnen, die den Hauptakzent trägt, sind dagegen griechische Fachausdrücke gebräuchlich: liegt der Hauptakzent auf der letzten Silbe, nennt man das Wort ein Oxytonon; liegt er auf der vorletzten Silbe, spricht man von einem Paroxytonon, und fällt er auf die vorvorletzte Silbe, so ist das Wort ein Proparoxytonon.
+Alle drei Begriffe sind ihrerseits "proparoxytonal", nämlich mit der Hauptbetonung auf dem "y", auszusprechen.
+Auf der ersten Silbe betonte Wörter werden als prototon bezeichnet, Wörter mit Akzent auf der zweiten Silbe als deuteroton.
+
+== Silbenbildung
+
+Die phonotaktischen Regeln der Silbenbildung beschreiben den Aufbau der Silbe aus ihren Phonemen.
+Von Bedeutung ist hier insbesondere das Sonoritätsprinzip, dem zufolge die Sonorität (Schallfülle) der silbenbildenden Phoneme zum Silbenkern hin zunimmt, wo sie ein Maximum annimmt, und umgekehrt zur Silbengrenze hin abnimmt und dort ein Minimum hat.
+
+Eine im Sinn der Optimalitätstheorie den Regeln der Silbenbildung - insbesondere in Hinblick auf maximalen Sonoritätskontrast - optimale Silbenform wird als optimale Silbe bezeichnet.
+Sie weist lediglich einen (meist vokalischen) Silbenkern (V) und einen initialen Silbenansatz (K) auf und verzichtet auf die Koda.
+Sie besteht also nur aus einem Konsonanten und einem Vokal (Schema KV).
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

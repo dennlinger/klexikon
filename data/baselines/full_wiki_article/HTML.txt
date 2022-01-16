@@ -1,0 +1,109 @@
+Die Hypertext Markup Language (HTML, englisch für Hypertext-Auszeichnungssprache) ist eine textbasierte Auszeichnungssprache zur Strukturierung elektronischer Dokumente wie Texte mit Hyperlinks, Bildern und anderen Inhalten.
+HTML-Dokumente sind die Grundlage des World Wide Web und werden von Webbrowsern dargestellt.
+Neben den vom Browser angezeigten Inhalten können HTML-Dateien zusätzliche Angaben in Form von Metainformationen enthalten, z. B. über die im Text verwendeten Sprachen, den Autor oder den zusammengefassten Inhalt des Textes.
+HTML wird vom World Wide Web Consortium (W3C) und der Web Hypertext Application Technology Working Group (WHATWG) weiterentwickelt.
+Die aktuelle Version ist seit dem 14. Dezember 2017 HTML 5.2, die bereits von vielen aktuellen Webbrowsern und anderen Layout-Engines unterstützt wird.
+Auch die Extensible Hypertext Markup Language (XHTML) wird durch HTML5 ersetzt.
+HTML dient als Auszeichnungssprache dazu, einen Text semantisch zu strukturieren, nicht aber zu formatieren.
+Die visuelle Darstellung ist nicht Teil der HTML-Spezifikationen und wird durch den Webbrowser und Gestaltungsvorlagen wie CSS bestimmt.
+Ausnahme sind die als veraltet (englisch deprecated) markierten präsentationsbezogenen Elemente.
+Vor der Entwicklung des World Wide Web und dessen Bestandteilen, zu denen auch HTML gehört, war es nicht möglich, Dokumente auf elektronischem Weg einfach, schnell und strukturiert zwischen mehreren Personen auszutauschen und miteinander effizient zu verknüpfen.
+Man benötigte neben Übertragungsprotokollen auch eine einfach zu verstehende Textauszeichnungssprache.
+Genau hier lag der Ansatzpunkt von HTML.
+Um Forschungsergebnisse mit anderen Mitarbeitern der Europäischen Organisation für Kernforschung (CERN) zu teilen und von den beiden Standorten in Frankreich und in der Schweiz aus zugänglich zu machen, entstand 1989 am CERN ein Projekt, welches sich mit der Lösung dieser Aufgabe beschäftigte.
+Am 3. November 1992 erschien die erste Version der HTML-Spezifikation.
+Dem Text wird durch Auszeichnungen (englisch markup) von Textteilen eine Struktur gegeben.
+Die Auszeichnung erfolgt durch genormte (SGML) Elemente.
+Die meisten dieser HTML-Elemente werden durch ein Tag-Paar markiert, das heißt durch einen Starttag und einen Endtag.
+Ein Starttag beginnt immer mit dem Zeichen <.
+Es folgt der Elementname (z. B. p für einen Absatz oder h1 für eine Überschrift erster Ordnung) und optional eine Liste seiner Attribute (z. B. class="warning" oder id="warning").
+Mit einem > wird der Starttag geschlossen.
+Ein Endtag besteht aus den Zeichen </, dem Elementnamen und dem abschließenden >.
+Die zusammengehörenden Start- und Endtags bilden zusammen mit dem dazwischenliegenden Inhalt ein Element allgemeiner SGML-Spezifikation.
+Diese Elemente lassen sich nach Regeln, die in einer Dokumenttypdefinition (DTD) angegeben sind, verschachteln:
+Bestimmte Elemente müssen nicht explizit notiert werden.
+Bei einigen Elementen darf gemäß der SGML-Regel "OMITTAG" der Endtag fehlen (z. B. </p> oder </li>).
+Zudem spielt bei Element- und Attributnamen Groß- und Kleinschreibung keine Rolle (z. B. <ul>, <UL>, <uL>).
+Zum Vergleich:
+In XHTML sind diese Regeln strenger verfasst.
+Neben Elementen mit Start- und Endtag gibt es in HTML auch inhaltsleere Elemente, wie etwa Zeilenumbrüche (br) oder Bilder (img).
+Es geht in HTML um beschreibende (englisch descriptive), nicht um verfahrens- (englisch procedural) und darstellungsorientierte (englisch presentational) Textauszeichnung, auch wenn sich HTML in früheren Versionen dafür verwenden ließ.
+HTML-Elemente sind keine Angaben zur Präsentation, die dem Webbrowser mitteilen, wie er den Text visuell zu formatieren hat.
+Vielmehr sind Elemente eine strukturierende Auszeichnung, mit der sich Textbereichen eine Bedeutung zuordnen lässt, z. B. <h1>... </h1> für eine Überschrift, <p>... </p> für einen Textabsatz und <em>...</em> für betonten Text.
+Wie diese Bedeutung letztlich dem Benutzer vermittelt wird (im Falle einer Überschrift z. B. durch vergrößerte, fette Schrift), ist zunächst dem Webbrowser überlassen und hängt von der Ausgabe-Umgebung ab.
+Denn obwohl HTML-Dokumente in der Regel auf Computerbildschirmen dargestellt werden, können sie auch auf anderen Medien ausgegeben werden, etwa auf Papier oder mittels Sprachausgabe.
+CSS-Formatvorlagen eignen sich dazu, um auf die Präsentation eines HTML-Dokuments in verschiedenen Medien Einfluss zu nehmen.
+Daher gelten Elemente und Attribute zur Präsentation wie <font>...</font>, <u>... </u> und noshade als veraltet (englisch deprecated) und sollen nach allgemeiner Auffassung vermieden werden; sie sollten in neu entwickelter Software nicht mehr verwendet und bei der Überarbeitung der dokumentengenerienden Software ersetzt werden.
+Das Einlesen des Quelltextes sowie das Verarbeiten der vorhandenen Informationen wird in der Fachsprache auch als Parsen bezeichnet, und die Aufbereitung für das Ausgabemedium als Rendern.
+Die Sprache HTML beschreibt, wie der Browser (oder ein anderes Programm, wie z. B. ein Texteditor) die Auszeichnungen des Textes zu "verstehen" hat, nicht, wie er sie dann in der Darstellung umsetzt.
+So besagt <h1> zwar, dass eine Überschrift folgt, nicht aber, in welcher Schriftgröße oder Schriftschnitt diese darzustellen ist - hier haben sich nur gewisse übliche Standardeinstellungen eingebürgert, die aber nicht Teil der HTML-Spezifikation sind.
+Der ursprünglich auf 7-Bit-ASCII angelegte Standard-Zeichensatz wurde schon in den Frühzeiten des WWW um zahlreiche Sonderzeichen erweitert und als HTML-Entität kodiert.
+Die Unterstützung universeller Zeichensätze für alle gängigen Sprachen weltweit setzte die Unterstützung von UTF (Unicode) voraus, die heute in allen gängigen Browsern implementiert ist.
+HTML ist damit auf plattformunabhängige Portierbarkeit angelegt, sofern diese vom verwendeten HTML-Renderer unterstützt werden.
+Die Wahl des zugrunde liegenden Zeichenvorrats für ein Webdokument erfolgt in den Meta-Elementen im Dateikopf, der Browser stellt sich dann darauf ein.
+Ersteller von Webseiten, deren Tastatur eventuell nicht alle Zeichen direkt zur Verfügung stellt, etwa deutsche Umlaute, können auf mehrere Arten Sonderzeichen codieren; so kann ein A-Umlaut ("ä") entweder als HTML-Entität (&auml;), als Unicode dezimal (&#228;) oder als Unicode hexadezimal (&#x00E4;) kodiert werden, vgl.
+Unicode#Codepunkt-Angaben in Dokumenten.
+Viele komplex arbeitende Website-Editoren lösen Sonderzeichen automatisch bei der Kodierung des Quelltextes auf.
+Bei der Auflösung in Adresszeilen (URLs) wird wiederum anders verfahren, hier werden die nicht direkt unterstützten Zeichen nach dem MIME-Verfahren in ASCII-Zeichen kodiert, so z. B. %20 für ein Leerzeichen, wenn es beispielsweise in einem Dateinamen vorkommt und sich vom regulären Leerzeichen am Ende des Links unterscheiden muss.
+HTML ist eine Auszeichnungssprache und wird als solche meist von Programmiersprachen abgegrenzt (siehe dazu Abschnitt Äußere Systematik: Einordnung als Programmiersprache oder Datenformat im Artikel über Auszeichnungssprachen).
+Eine Gemeinsamkeit mit den meisten Programmiersprachen ist, dass für die Bearbeitung der Quelldokumente keine spezielle Software (siehe auch Liste von HTML-Editoren) nötig ist, sondern ein beliebiger Texteditor ausreicht.
+Ein ähnliches Konzept (logische Beschreibung) wie hinter HTML steht hinter dem Satzsystem TeX/LaTeX, das im Unterschied zu HTML jedoch auf die Ausgabe per Drucker auf Papier zielt.
+HTML wurde erstmals am 13. März 1989 von Tim Berners-Lee am CERN in Genf vorgeschlagen.
+Ein HTML-Dokument besteht aus drei Bereichen:
+Somit sieht die Grundstruktur einer Webseite wie folgt aus:
+Im Kopf (englisch head) können sieben verschiedene Elemente verwendet werden:
+Der HTML-Körper (englisch body) enthält die eigentlichen Seiteninformationen.
+HTML unterscheidet zwischen Block- und Inline-Elementen.
+Der wesentliche Unterschied ist, dass erstere in der Ausgabe einen eigenen Block erzeugen, in dem der Inhalt untergebracht wird, während die Inline-Elemente den Textfluss nicht unterbrechen.
+Vereinfacht gesprochen haben Block-Elemente immer ihren eigenen Absatz.
+Mithilfe von CSS ist es jedoch möglich, Block-Elemente wie ein Inline-Element darzustellen und umgekehrt.
+Zudem lassen sich alle Elemente via CSS auch als inline-block auszeichnen, mit dem Ergebnis, dass ein solches Element sowohl Eigenschaften eines Block-Elementes als auch eines Inline-Elementes besitzt.
+Eine Überschrift erster Ordnung wird so ausgezeichnet:
+h1 steht für Heading 1, zeichnet also eine Überschrift der ersten (und in HTML höchsten) Gliederungsstufe aus.
+Weiter möglich sind h2 bis h6, Überschriften zweiter bis sechster Gliederungsstufe.
+Ein Hyperlink:
+Hyperlinks sind Verweise auf andere Ressourcen, meistens ebenfalls HTML-Dokumente, die üblicherweise im Browser durch Klick verfolgt werden können.
+Dieser Link könnte so gerendert werden:
+Dies ist ein Verweis auf example.com Ebenso ist an diesem Beispiel zu sehen, dass das Link-Element ein Inline-Element ist und keine neue Zeile beginnt.
+Normaler Text wird standardmäßig mit p (für Paragraph) angegeben, obwohl ein Text ohne p problemlos möglich wäre, allerdings ist es sehr zu empfehlen, da dadurch zum einen eine Abtrennung zwischen Quelltext und Ausgabe möglich ist, und zum anderen spätestens bei CSS-Programmierung der Befehl zwingend notwendig ist.
+So wird ein Text in HTML ausgegeben:
+Zur Logik stehen zum Beispiel die Elemente strong oder em bereit, mit denen sich stark hervorgehobener oder betonter Text auszeichnen lässt.
+Per Voreinstellung (lt. W3C-Empfehlung) werden strong- und em-Elemente durch Fettschrift beziehungsweise kursive Schrift gerendert.
+Die Strukturbeschreibung des Textes vereinfacht es, das Rendern dem Betrachter anzupassen, um etwa den Text einem Sehbehinderten vorzulesen oder als Braille auszugeben.
+Beim Entwurf der letzten HTML-Version 4 sollte der Tatsache, dass in vielen HTML-Dokumenten noch Elemente und Attribute zur Präsentation eingesetzt werden, Rechnung getragen werden.
+Das Ergebnis waren schließlich drei Varianten:
+Diese DTD umfasst den Kernbestand an Elementen und Attributen.
+Es fehlen die meisten Elemente und Attribute zur Beeinflussung der Präsentation, unter anderem die Elemente font, center und u sowie Attribute wie bgcolor, align und target.
+Deren Rolle sollen in Strict-Dokumenten Stylesheets übernehmen.
+Text und nicht-blockbildende Elemente innerhalb der Elemente body, form, blockquote und noscript müssen sich grundsätzlich innerhalb eines Container-Elements befinden, zum Beispiel in einem p-Element.
+Die Transitional-Variante enthält noch ältere Elemente und Attribute, die auch physische Textauszeichnung ermöglichen.
+Durch diese DTD soll Webautoren, die noch nicht logische Strukturierung und Präsentation voneinander trennen, die Möglichkeit gegeben werden, standardkonformes HTML zu schreiben.
+Gleichzeitig soll sie sicherstellen, dass bestehende Webseiten weiterhin durch aktuelle Webbrowser angezeigt werden können.
+Diese Variante enthält zusätzlich zu allen Elementen der Transitional-Variante noch die Elemente für die Erzeugung von Framesets.
+Im Laufe der Jahre ist HTML um Elemente erweitert worden, die der visuellen Gestaltung der Dokumente dienen.
+Das lief der ursprünglichen Idee einer Systemunabhängigkeit entgegen.
+Eine Rückbesinnung auf die Trennung von Struktur und Layout (besser: Präsentation) wurde durch die Definition von Cascading Style Sheets (CSS) vorgenommen.
+So soll das Aussehen bzw. die Darstellung des Dokuments in einer separaten Datei, dem sogenannten Stylesheet, festgelegt werden.
+Dies verbessert die Anpassungsfähigkeit des Layouts an das jeweilige Ausgabegerät und an spezielle Bedürfnisse der Benutzer, beispielsweise eine spezielle Darstellung für Sehbehinderte.
+Heutzutage ist die CSS-Unterstützung der Browser ausreichend, um damit eine anspruchsvolle Gestaltung zu realisieren.
+In den Anfangsjahren von HTML bis in die 2000er Jahre hinein wurde noch nicht streng zwischen Layout und Seitenphysik unterschieden.
+So wurde Design mit Hilfe von Layout-Attributen wie color="Farbe" oder Layout-Tags wie <font> umgesetzt oder das Aussehen von Tabellen direkt im table-Bereich grob vorgegeben.
+Dies gilt heute als veraltet und unprofessionell.
+Außerdem lässt sich der CSS-Code auch in einer Seite ohne ausgelagerte Datei einbinden.
+Eine CSS-Datei kann im HTML-Kopf über das link-Element eingebunden werden:
+Schon sehr früh in der Geschichte von HTML wurden Zusatztechniken erfunden, die es ermöglichen, HTML-Dokumente während der Anzeige im Browser dynamisch zu verändern.
+Die gebräuchlichste ist JavaScript.
+Man spricht bei solchen interaktiven Dokumenten von dynamischem HTML.
+Diese Techniken wurden von verschiedenen Browser-Herstellern, allen voran Microsoft und Netscape, unabhängig voneinander entwickelt.
+Daher gab es erhebliche Probleme bei der Umsetzung der Techniken zwischen den verschiedenen Browsern.
+Mittlerweile interpretieren alle verbreiteten JavaScript-fähigen Browser das Document Object Model (DOM).
+Dadurch ist es möglich, in allen Browsern lauffähige Skripte zu schreiben.
+Es gibt jedoch noch immer Differenzen bei der Unterstützung des DOM-Standards.
+Auf Grundlage von HTML 4.01 (SGML) wurde XHTML 1.0 entwickelt.
+XHTML genügt den im Vergleich zu SGML strengeren syntaktischen Regeln von XML, ist aber in seinen drei DTD-Varianten semantisch mit der jeweils entsprechenden DTD-Variante von HTML 4.01 identisch.
+Die jeweiligen Vorteile von SGML und XML der bisherigen HTML-Versionen wurden vereint in HTML5. Abweichend von den bisherigen HTML-Versionen gibt es in HTML5 keine DTD mehr.
+Mit der Ajax-Technologie ist es mittels JavaScript möglich, einzelne bereits geladene Webbrowser-Inhalte gezielt zu ändern und nachzuladen, ohne dass die Webseite komplett neu geladen werden muss.
+Wegen des geringeren Datenaufkommens wird zum einen eine schnellere Webserver-Antwort ermöglicht, und zum anderen lassen sich Reaktionsweisen von Desktop-Anwendungen simulieren.
+Bootstrap ist eine HTML-, CSS- und JS-Bibliothek, die sich darauf konzentriert, die Entwicklung informativer Webseiten (nicht von Web-Apps) zu vereinfachen.
+Sie bietet Webprojekten eine Auswahl von Farben, Größen, Schriftarten Layouts und grundlegenden Stildefinitionen für alle HTML-Elemente, wenn den verantwortlichen Entwicklern diese Auswahl gefällt.
+Das Ergebnis ist ein einheitliches Erscheinungsbild für Prosa, Tabellen und Formularelemente in allen Webbrowsern.

@@ -1,0 +1,65 @@
+Der Meter ist die Basiseinheit der Länge im Internationalen Einheitensystem (SI) und in anderen metrischen Einheitensystemen.
+Ein Meter ist definiert als die Länge der Strecke, die das Licht im Vakuum während der Dauer von 1/299 792 458 Sekunde zurücklegt.
+Das Einheitenzeichen des Meters ist der Kleinbuchstabe "m".
+Für dezimale Vielfache und Teile des Meters werden die internationalen Vorsätze für Maßeinheiten verwendet.
+Der Meter wurde 1799 als die Länge des Urmeters definiert, eines Prototyps aus Platin.
+Dessen Länge entsprach nach den damals durchgeführten Messungen dem zehnmillionsten Teil der Entfernung vom Nordpol zum Äquator.
+Die aktuelle Definition gilt seit 1983.
+Der Meter ist dadurch definiert, dass der Lichtgeschwindigkeit im Vakuum c ein fester Wert zugewiesen wurde und die Sekunde (s) ebenfalls über eine Naturkonstante, die Schwingungsfrequenz vCs definiert ist.
+Diese Definition gilt seit 1983 (der heute gültige Wortlaut seit 2019).
+Die Längeneinheit Meter ist seit Ende des 18. Jahrhunderts in Gebrauch.
+Der Ursprung dieser Längeneinheit geht auf einen Beschluss der französischen Nationalversammlung zurück, ein einheitliches Längenmaß zu definieren.
+Dem gingen einige Vorschläge für die Definition einer Längeneinheit voraus, die anders als die traditionellen Längenmaße nicht von der Länge menschlicher Gliedmaßen (der Fingerbreite, dem Zoll, der Handbreite, der Handspanne, der Elle, dem Fuß, dem Schritt und dem Klafter) abgeleitet war.
+So schlug der Abbe Jean Picard 1668 als Längeneinheit das Sekundenpendel vor - also die Länge eines Pendels, das eine halbe Periodendauer von einer Sekunde hat.
+Im Schwerefeld von Europa hätte ein solches Pendel die Länge von etwa 0,994 m und käme der heutigen Definition des Meters ziemlich nahe.
+Maßgebend für die neue Längeneinheit wurde jedoch nicht das Sekundenpendel, sondern die Erdfigur.
+1735 entsandte die Pariser Akademie der Wissenschaften zwei Expeditionen zur Gradmessung in das heutige Ecuador und nach Lappland, um die genauen Abmessungen der Erde festzustellen.
+Im Jahr 1793 setzte der französische Nationalkonvent - neben einem neuen Kalender - auch ein neues Längenmaß fest:
+Der Meter sollte den 10-millionsten Teil des Erdquadranten auf dem Meridian von Paris betragen - also den zehnmillionsten Teil der Entfernung vom Nordpol über Paris zum Äquator.
+Ein Prototyp dieses Meters wurde 1795 in Messing gegossen.
+Zwischen 1792 und 1799 bestimmten Delambre und Mechain die Länge des Meridianbogens zwischen Dünkirchen und Barcelona erneut.
+Aus einer Kombination mit den Ecuador-Lappland-Resultaten ergab sich ein neuer Wert zu 443,296 Pariser Linien, der 1799 für verbindlich erklärt und verkörpert als ein Platinstab, das Urmeter, realisiert wurde.
+Im 19. Jahrhundert kamen allerdings genauere Vermessungen der Erde zum Ergebnis, dass das Urmeter etwa 0,02 % zu kurz geraten war.
+Dennoch wurde an dem 1799 definierten Meter festgehalten - mit dem Ergebnis, dass der Erdmeridianquadrant nicht 10.000 km, sondern 10.001,966 km lang ist.
+Diese Länge gilt für den Meridian von Paris, andere Meridiane können andere Längen haben.
+Ein Nebeneffekt war, dass man erkannte, dass die Erde kein exaktes Rotationsellipsoid ist, sondern eine unregelmäßige Form hat.
+Die Erde hatte sich damit als ungeeignet zur Definition des Meters erwiesen.
+Deshalb wurde der Meter als die Länge eines konkreten Gegenstands festgesetzt - des Urmeters.
+Alle späteren Definitionen hatten das Ziel, dieser Länge möglichst genau zu entsprechen.
+Im Jahr 1889 führte das Internationale Büro für Maß und Gewicht (BIPM) den Internationalen Meterprototyp als Prototyp für die Einheit Meter ein.
+Dabei handelte es sich um einen Stab mit kreuzförmigem Querschnitt.
+Als Material wurde eine Platin-Iridium-Legierung im Verhältnis 90:10 gewählt.
+Die Länge des Meters wurde festgelegt als der Abstand der Mittelstriche zweier Strichgruppen auf dem auf einer konstanten Temperatur von 0 °C gehaltenen Stab.
+Es wurden 30 Kopien dieses Prototyps hergestellt und an nationale Eichinstitute übergeben.
+Obgleich bei der Herstellung der Meterprototypen größter Wert auf Haltbarkeit und Unveränderbarkeit gelegt worden war, war doch klar, dass diese grundsätzlich vergänglich sind.
+Die Anfertigung von Kopien führte zwangsläufig zu Abweichungen und - ebenso wie regelmäßige Vergleiche der Kopien untereinander und mit dem Original - zum Risiko von Beschädigungen.
+Als Abhilfe schlug Albert A. Michelson zu Beginn des 20. Jahrhunderts vor, den Meter anhand der Wellenlänge von Spektrallinien zu definieren.
+1951 entwickelten Ernst Engelhard und Wilhelm Kösters an der Physikalisch-Technischen Bundesanstalt in Braunschweig die Krypton-86-Spektrallampe, die orangerotes Licht mit der damals stabilsten und am verlässlichsten reproduzierbaren Wellenlänge erzeugte und die Präzision des Urmeters übertraf.
+1960 wurde der Meter dann offiziell neu definiert:
+Ein Meter war nun das 1 650 763,73fache der Wellenlänge der von Atomen des Nuklids 86Kr beim Übergang vom Zustand 5d5 zum Zustand 2p10 ausgesandten, sich im Vakuum ausbreitenden Strahlung.
+Der Zahlenwert wurde dabei so gewählt, dass das Ergebnis dem bis 1960 gültigen Meter innerhalb der damaligen Messunsicherheit entsprach.
+Das Verständnis dieser Definition setzte lediglich Kenntnisse in Atomphysik voraus.
+Waren diese und die nötige Ausrüstung vorhanden, so konnte die Länge eines Meters an jedem beliebigen Ort reproduziert werden.
+Der Meter war die erste Basiseinheit, die auf einer Naturkonstanten beruhte und unabhängig von Maßverkörperungen und Messvorschriften realisiert werden konnte.
+Mit der Kryptonlampe ließ sich der Meter mit einer Präzision von 10-8 realisieren.
+Mit der Entdeckung des Lasers aber wurden in den folgenden Jahren immer stabilere Lichtquellen und Messmethoden entwickelt.
+Insbesondere ließ sich die Lichtgeschwindigkeit auf 1 m/s genau bestimmen, und die Präzision der Maßeinheit Meter wurde der limitierende Faktor.
+Daher wurde 1975 auf der 15. Generalkonferenz für Maß und Gewicht (CGPM) empfohlen, den Zahlenwert der Lichtgeschwindigkeit nicht mehr zu messen, sondern zahlenmäßig festzulegen und fortan die Längeneinheit anhand der Lichtgeschwindigkeit zu definieren.
+Die 17. CGPM nahm am 20. Oktober 1983 diese Empfehlung an.
+Der Meter wurde definiert als diejenige Strecke, die das Licht im Vakuum innerhalb des Zeitintervalls von 1/299 792 458 Sekunden durchläuft.
+Mit der Revision des SI im Jahr 2019 durch die 26. Generalkonferenz für Maß und Gewicht wurde lediglich der Wortlaut der Definition an den der anderen SI-Basiseinheiten angepasst.
+Die Einheit Meter ist mit verschiedenen dezimalen Vielfachen in Verwendung, die mit den jeweiligen SI-Präfixen bezeichnet werden, beispielsweise:
+Zusammensetzungen mit weiteren Präfixen wie Megameter (Mm; 106 m oder 1000 km) sind ungebräuchlich.
+Früher war der (nicht SI-konforme) Myriameter (Myr) in Verwendung, 1 Myr = 10 km, siehe Myriameterstein.
+Hinweis: Das Zeichen "=" bedeutet eine per Definition festgelegte, exakte Entsprechung; das Zeichen "" weist auf einen gerundeten Wert hin.
+Der Norddeutsche Bund beschloss am 17. August 1868 durch die Norddeutsche Maß- und Gewichtsordnung (im Gesetz: Maaß- und Gewichtsordnung für den Norddeutschen Bund) die Einführung des französischen Metersystems.
+Sie trat im Deutschen Reich am 1. Januar 1872 in Kraft.
+Deutschland gehörte 1875 zu den zwölf Gründungsmitgliedern der Meterkonvention.
+Der deutsche Einheitenname Meter geht auf frz. metre zurück .
+Der Einheitenname Meter war nach DIN 1301-1:2002-10 Neutrum (das Meter), analog zu den Ursprungssprachen.
+Mit DIN 1301-1:2010-10 wurde dagegen Maskulinum (der Meter) als Norm festgelegt.
+Damit wurde die Fachsprache dem allgemeinen Sprachgebrauch angepasst, wo Maskulinum überwiegt.
+"Das" Meter wird hingegen für die Bedeutung als Messinstrument benutzt, etwa: das Thermometer.
+Zur Frage, ob Meter nach Numerus und Kasus flektiert wird, kann man laut der Duden-Redaktion folgende Fälle unterscheiden:
+Vom Meter leiten sich die Flächeneinheit Quadratmeter und die Volumeneinheit Kubikmeter (und damit auch der Liter) ab.
+Ursprünglich definiert durch die Masse eines Liters Wasser, war auch das Kilogramm vom Meter abgeleitet.

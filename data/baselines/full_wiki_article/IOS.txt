@@ -1,0 +1,235 @@
+iOS ist ein von Apple entwickeltes mobiles Betriebssystem für das iPhone und den iPod touch.
+Bis Anfang 2010 hieß es iPhone OS (unter iTunes iPhone Software) auf dem iPhone und iPad OS auf dem iPad, bis es nach dem Lizenzieren des Markennamens IOS von Cisco Systems ab Version 4 im Juni 2010 in iOS umbenannt wurde und die beiden nur leicht unterschiedlichen Versionen für iPhone und iPad vereint wurden.
+Im September 2019 wurde die Variante für das iPad als eigenständiges iPadOS wieder von iOS getrennt.
+Auf iOS basieren ebenfalls ab Version 4 die Apple-TV-Software, die auf der zweiten und dritten Generation des Apple TV läuft und mit der vierten Generation des Apple TV in tvOS umbenannt wurde, sowie watchOS für die Apple Watch.
+Im Gegensatz zu Apples Konkurrenten, die ihr eigenes mobiles Betriebssystem oft auch an andere Hardwarehersteller lizenzieren, wird iOS nur auf eigener Hardware von Apple eingesetzt.
+iOS ist ein macOS-Derivat und basiert auf Darwin, das wiederum auf das ab 1986 entwickelte NeXTStep zurückgeht, ein BSD-Unix mit Mach-Kernel und damals neuartiger grafischer Oberfläche.
+Die Entwicklung an iOS begann 2005.
+Damals war die Idee, einen Tablet-Computer zu entwickeln, von Steve Jobs vorübergehend abgelehnt worden und entschieden worden, dass ein Telefon entwickelt werden sollte.
+Nach einem ersten "Project Purple" genannten Prototyp, der ein iPod-Clickwheel besaß, übernahm Scott Forstall, damaliger Leiter der Mac-Softwareabteilung bei Apple, die Leitung der Softwareentwicklung des späteren iPhones.
+Forstalls Plan war es, ein Telefon mit Mac OS X zu entwickeln.
+Der daraufhin entstandene Prototyp wurde "Project Purple 2" oder nur "P2" genannt.
+Daraus hervorgegangen sind die Programme "Purple Restore" zur Installation von iPhone-Prototypen und "Purple Buddy", der Einrichtungsassistent des iPhones seit iOS 5.
+Die Software des Prototyps "P2" - das spätere iOS - wurde auf einem Power Mac G5 entwickelt und später auf einen schwächeren Power Mac G3 übertragen, um die Leistungsfähigkeit eines Smartphones zu simulieren.
+Die Entwicklungsmannschaft hatte bald darauf den ersten richtigen iPhone-Prototyp fertiggestellt, der im Gegensatz zum fertigen iPhone ein Freescale MX31-SoC anstatt eines Samsung-S5L-SoCs verwendete.
+An diesen waren sämtliche für den Betrieb des iPhones notwendigen Komponenten wie Modem per Kabel angeschlossen.
+Um die Geheimhaltung des Projekts zu gewährleisten, wurden nur wenige Mitarbeiter in die Softwareentwicklung eingeweiht.
+Parallel zum SpringBoard, der allgemein bekannten Benutzeroberfläche von iOS, wurde die Oberfläche SwitchBoard entwickelt, von der sich mehrere Diagnoseprogramme starten lassen, und "SkankPhone" zur primären Benutzung des iPhones als Telefon.
+Viele Mitarbeiter am iPhone bekamen das SpringBoard erst bei der Vorstellung auf der MacWorld zu Gesicht.
+Das ursprüngliche Betriebssystem wurde am 9. Januar 2007 zusammen mit dem iPhone auf der MacWorld Conference and Expo vorgestellt.
+Damals sagte Steve Jobs "auf dem iPhone läuft OS X".
+Der Funktionsumfang fiel verglichen zu heute recht spärlich aus, da das iPhone fast nur die Funktionen eines zur damaligen Zeit herkömmlichen GSM-Telefons unterstützte und bis auf die Bedienung per Touchscreen sowie einige der bekannten vorinstallierten Apps keine Funktionen eines modernen Smartphones bot.
+Es fehlten sogar essentielle Komponenten, wie etwa die Tastatureingabe von Umlauten oder die Unterstützung der deutschen Sprache.
+iPhone OS (iOS) unterstützte zu diesem Zeitpunkt ebenfalls noch keine Apps von externen Entwicklern.
+Steve Jobs war für ein geschlossenes Betriebs- und Anwendungssystem und meinte, Webapps würden den Dienst von nativ installierten Anwendungen genauso zuverlässig und schnell erledigen.
+Dennoch verkündete Apple am 17. Oktober 2007 auf Drängen des Vorstands und der Medien, im Februar 2008 ein Software Development Kit (SDK) für Entwickler freizugeben.
+Am 6. März 2008 veröffentlichte Apple dann das SDK für iOS, um Drittentwicklern die Möglichkeit zu geben, Apps für iOS zu entwickeln.
+Die damit entwickelten Apps lassen sich ausschließlich im ebenfalls mit iPhone OS 2.0 neu eingeführten App Store veröffentlichen.
+Die direkte Installation von Apps (ohne Einbeziehung des App Stores) ist von Apple nur im Rahmen des Developer Enterprise Program vorgesehen.
+Hiermit können Firmen unternehmensinterne Apps erstellen und auf den Geräten des Unternehmens installieren.
+Seit 2015 ist auch ein Entwicklungspaket (SDK) für den AppleTV (tvOS) verfügbar.
+Zunächst wurden das iOS des iPhones und das des iPads als unterschiedliche Versionen betrieben (iPhone OS und "iPad OS").
+Technisch gesehen waren die Unterschiede aber gering, daher kann das iPad sämtliche für das iPhone entwickelten Apps ausführen.
+Dabei gibt es die Option, die App entweder zugunsten einer besseren Sichtbarkeit auf die Bildschirmgröße des iPads anzupassen (sogenanntes Upscaling) oder sie in einem kleinen Fenster anzuzeigen.
+Im Juni 2010 benannte Apple dann sein iPhone OS in iOS um.
+Die nötigen Markenrechte lizenzierte Apple von Cisco Systems, die bereits ein Router-Betriebssystem namens "IOS" vertrieben.
+Cisco betont, dass ausschließlich Namensrechte lizenziert wurden.
+Schließlich führte Apple Ende November 2010 die Betriebssysteme des iPhones und des iPads zusammen.
+Die erste gemeinsame Version war iOS 4.2.1.
+Nach der Umstrukturierung der iOS-Softwareentwicklung und der Entlassung von Scott Forstall im November 2012 erfolgte eine komplette Neuausrichtung des iOS-Designs durch den Chef-Designer Jonathan Ive.
+Das Ergebnis war iOS 7, ein bunteres Betriebssystem, das sich sehr am Flat Design (nicht wie bisher am Skeuomorphismus) orientierte.
+Visuelle Ebenen (Unschärfen und Transparenz) wurden in vielen der neu designten Standard-Apps hinzugefügt.
+Am 9. September 2014 wurde die Apple Watch mit dem dazugehörigen Betriebssystem watchOS (ursprünglich Watch OS), welches auf iOS basiert, vorgestellt.
+Es besitzt eine angepasste Benutzeroberfläche für das kleinere Display der Apple Watch.
+Am 24. April 2015 wurde es zusammen mit der Apple Watch veröffentlicht.
+Die dazugehörige API heißt WatchKit.
+watchOS 2 wurde auf der WWDC 2015 mit großen Verbesserungen, wie z. B. der nativen Unterstützung für Drittanbieter-Apps, vorgestellt und am 21. September 2015 veröffentlicht.
+Auf der Worldwide Developers Conference am 3. Juni 2019 stellte Apple das Betriebssystem iPadOS vor.
+Dieses basiert auf iOS und ist nur für iPads erhältlich.
+Apple kann dadurch den Tablets weitere Funktionen spendieren und die Entwicklung genauer abgrenzen.
+In der ersten Version wurden Multitasking-Funktionen ausgebaut und es gibt z. B. eine Unterstützung für externe Speichermedien wie Festplatten.
+Das Bedienkonzept von iOS soll möglichst einfach gehalten sein.
+Somit beschränkt es sich fast ausschließlich auf den Home-Bildschirm - auch Springboard genannt - und die Synchronisierung mit der iCloud bzw. iTunes.
+iOS wird fast ausschließlich über den Multitouchbildschirm gesteuert, nur das Sperren und Ausschalten des Geräts wird mit dem Lockbutton ausgelöst und das Beenden von Anwendungen (genannt Apps) mit dem Homebutton.
+Dieser kann das Gerät ebenso wie der Lockbutton aus dem Standby-Modus aufwecken.
+iOS ist darauf ausgelegt, mit allen anderen Apple-Produkten zusammenzuarbeiten.
+Es unterstützt Mehrfingergesten ("Multi Touch") mit bis zu fünf Fingern.
+Zum Aufnehmen von Bildschirmfotos wird je nach Gerätetyp die Heim-Taste oder die Lauter-Taste zeitgleich mit der Einschalttaste betätigt.
+Der Home-Bildschirm, auch SpringBoard genannt, stellt die eigentliche Benutzeroberfläche von iOS dar.
+Kennzeichnend für diesen sind die auf einzelnen Seiten als Icons dargestellten Apps, von denen vier im Dock abgelegt werden können, die Statusleiste am oberen Bildschirmrand mit der Uhrzeit, dem Akkuladestand und gegebenenfalls Signalstärken sowie der Sperrbildschirm mit dem Entriegeln-Regler und einer Digitaluhr.
+Erst mit der Softwareaktualisierung 1.1.2 war es möglich, Apps zu verschieben und nach Belieben zu ordnen, zu löschen oder mehrere Seiten mit Apps zu erstellen.
+Ab Version 2.0 ließen sich weitere Apps von Drittanbietern aus dem App Store installieren.
+Mit iPhone OS 3.0 kam die aus OS X bekannte Spotlight-Suche hinzu, mit der sich nach Inhalten auf dem iOS-Gerät suchen lässt.
+Im gleichen Zuge fügte Apple auch eine Copy-Paste-Funktion ein.
+Ebenso kamen mit iPhone OS 3.0 Push-Nachrichten hinzu.
+Push-Nachrichten werden von Apps an das iOS-Gerät geschickt.
+Es handelt sich dabei um Textnachrichten, die beispielsweise von Nachrichten- oder Instant-Messaging-Apps stammen können.
+Mit iOS 4.0 war es erstmals möglich, Apps in Ordnern zu sammeln.
+Außerdem konnte man den bis dahin nicht individualisierbaren schwarzen Hintergrund des Home-Bildschirms mit einem eigenen Hintergrundbild versehen.
+Zudem wurde mit iOS 4 eine Taskleiste eingeführt, die seitdem mit einem Doppelklick auf den Homebutton aufrufbar ist.
+In dieser Leiste werden die aktuell verwendeten Apps angezeigt und können direkt von dort aufgerufen werden.
+Seit iOS 4 werden Apps nicht mehr durch den Homebutton beendet, sondern pausiert, sodass sie schneller geladen werden können.
+Bei Bedarf werden Apps beendet, um Arbeitsspeicher freizugeben; nach zehn Minuten werden jedoch alle Apps, die keine aktive Aufgabe haben, automatisch beendet.
+Mit iOS 5 kamen das Notification Center und Siri hinzu.
+Das Notification Center zeigt die letzten Push-Nachrichten an und lässt sich mit einem Wisch von der Statusleiste nach unten aufrufen.
+Siri ist ein Assistent, der auf Sprachbefehle reagiert und diverse Aufgaben, wie das Erstellen und Absenden von SMS-Nachrichten, ausführen kann.
+Mit iOS 6 wurde das bis dahin vorinstallierte Google Maps durch Apples eigene, anfangs umstrittene Kartenanwendung Apple Maps ersetzt.
+Im gleichen Schritt wurde auch die YouTube-App entfernt.
+Google bietet seitdem für iOS eine kostenlose YouTube-App in Apples hauseigenem App Store an.
+Seit iOS 7 ist das sogenannte Control Center mit einem Wisch vom unteren zum oberen Bildschirmrand aufrufbar.
+Im Control Center lassen sich zum Beispiel WLAN und Bluetooth aktivieren oder deaktivieren.
+iOS 8 veränderte nur wenige Dinge am Homebildschirm.
+Laut Apple bietet iOS 8 vor allem für Entwickler mehr Möglichkeiten.
+Mit iOS 9 wurden vor allem für die neueren Gerätegenerationen Veränderungen an der Bedienung vorgenommen.
+Ab dem iPhone 6s und 6s Plus unterstützt iOS 9 eine 3D Touch genannte Technik, mit der sich Untermenüs auf dem Home-Bildschirm und in Anwendungen durch stärkeres Drücken auf den Bildschirm öffnen lassen.
+Die aus Vorgängerversionen von iOS bekannte Bedienung durch Berühren funktioniert weiterhin.
+Bei den iPad-Modellen ab dem iPad Air sind die Funktionen Slide Over und Picture in Picture verfügbar.
+Damit lassen sich Anwendungen im selben Fenster ausführen, jedoch nicht zeitgleich.
+Eine Anwendung wird vom Bildschirmrand in das aktive Anwendungsfenster gezogen und wird in diesem Moment aktiv; die zuvor laufende Anwendung wird dabei pausiert.
+Beim Zurückwischen wird die ursprüngliche Anwendung wieder aktiv.
+Bei Videodarstellung (etwa durch Videotelefonie oder YouTube-Videos) kann das Videoausgabefeld in der aktiven Anwendung an eine beliebige Stelle gezogen werden und bleibt dabei permanent im Vordergrund.
+Ab dem iPad Air 2 steht des Weiteren die Funktion Split View zur Verfügung, bei der zwei separate Anwendungen auf demselben Bildschirm gleichzeitig nebeneinander laufen.
+Mit iOS 14, welches am 22. Juni 2020 über eine Online-Keynote vorgestellt wurde, werden die Nutzer unter anderem Möglichkeiten haben, sogenannte Widgets auf den Home-Screen zu verschieben und einzelne Seiten des Home-Screens auszublenden.
+Alle Apps werden sich zusätzlich in einer "App Library" befinden und dort automatisch in Ordner oder alphabetisch sortiert - auch der Sprachassistent Siri wurde hinsichtlich des Designs überarbeitet.
+iOS 14 ist seit Herbst 2020 für iPhone-Modelle ab dem iPhone SE 1. Gen. und den iPhone-6s-Modellen verfügbar.
+Die Apple-TV-Software der zweiten und dritten Generation des Apple TV verwendet den gleichen Kernel wie das iOS von iPhone, iPod touch und iPad, wird jedoch über eine Fernbedienung mit sieben Tasten gesteuert und besitzt eine eigene Oberfläche, die sich vom iPhone-Home-Bildschirm deutlich unterscheidet.
+Apple TV ist primär auf Multimediainhalte ausgelegt, nicht auf das Nutzen von Apps.
+iOS ermöglicht keinen direkten Zugriff des Nutzers auf das Dateisystem oder die Kommandozeile.
+Apps laufen in einer Sandbox und können nur innerhalb dieser Sandbox lokale Dateien auf dem Gerät lesen und speichern.
+Apps können nur aus dem App Store geladen oder über einen Entwicklerzugang installiert werden.
+Diese Beschränkungen lassen sich durch einen von Apple nicht autorisierten sogenannten Jailbreak umgehen.
+Danach hat der Nutzer Vollzugriff auf das Dateisystem und die Kommandozeile des Unix-artigen Betriebssystems, zudem kann er Software aus beliebigen Quellen installieren, etwa über Cydia.
+Durch einen Jailbreak verliert man jedoch die Garantie.
+Bis zum 17. September 2013 war es Nutzern älterer Geräte nicht möglich, Apps über den App Store zu installieren, für die eine neuere iOS-Version erforderlich war.
+Mittlerweile lassen sich jedoch auch mit älteren Geräten noch kompatible Versionen von Apps über den App Store herunterladen, womit diese Restriktion heute obsolet ist.
+Es ist nicht möglich, unter iOS einen Webbrowser zu installieren, der eine eigene Rendering-Engine nutzt.
+Alle Webbrowser für iOS sind damit lediglich andere Oberflächen für die WebKit-Rendering-Engine.
+Bis einschließlich iOS 7 wurden alternativen Webbrowsern zudem Geschwindigkeitsverbesserungen an der JavaScript-Engine vorenthalten.
+Mit iOS 9 begann Apple ältere, jedoch kompatible Geräte mit 32-Bit-Prozessor (dazu zählen der iPod touch der fünften Generation, die iPhones 4s, 5 und 5c sowie die iPads 2 bis 4 und das iPad mini 1) von einzelnen Funktionen auszuschließen.
+Für Entwickler hat Apple die Möglichkeit eingeführt, nun Apps zu entwickeln, die unter diesen Geräten nicht kompatibel sind (stattdessen kommt beim Versuch des Herunterladens betreffender Apps aus dem App Store nun die Meldung "Diese App ist nicht mit ihrem Gerät kompatibel").
+Auch die mit diesem Update eingeführte Möglichkeit der Installation von Erweiterungen für den Safari-Browser (wie bspw. Werbeblockern) hat Apple für diese Geräte ausgeschlossen.
+Der mit iOS 9.3 eingeführte Night-Shift-Modus, mit dem die Farbtemperatur des Displays geändert werden kann, ist auf diesen Geräten ebenfalls nicht verfügbar.
+iOS verwendet seit iOS 10.3 das Apple File System (APFS) als Dateisystem.
+Es ist für Flash-Speicher optimiert und beinhaltet Funktionen wie Snapshots und Copy-on-Write.
+Davor wurde HFSX (HFS+ Extended) verwendet, einer Variante des HFS+-Dateisystems.
+Beim Starten von iOS werden zwei Partitionen eingebunden.
+Die Systempartition enthält das sogenannte root-Verzeichnis von iOS, dort befinden sich alle Systemkomponenten wie zum Beispiel das Springboard und die Hintergrunddienste von iOS.
+Der Benutzer hat keinen Zugriff auf die root-Partition, ohne einen Jailbreak durchzuführen.
+Die Größe der Partition wird in fast jeder neuen iOS-Version vergrößert.
+In iOS 6.1 ist diese Partition ca. 1,3 GB groß.
+Eine manuelle Änderung der Größe ist normalerweise nicht nötig, kann jedoch mit einer modifizierten iOS-Firmware-Datei mittels Jailbreak vollzogen werden.
+Die maximale Größe der Partition beträgt 4 GB.
+Die Systempartition ist nur lesbar, und das System kann hier keine Daten verändern.
+Die Datenpartition ist unter /private/ var sichtbar und enthält den Ordner mobile, das sogenannte User-Verzeichnis.
+In diesem Verzeichnis werden alle Medien und Einstellungen gespeichert.
+Die Größe des User-Verzeichnisses hängt von der Speicherkapazität des iOS-Gerätes ab.
+Die Größe des User-Verzeichnisses wird von iOS als Gesamtgröße des Flash-Speichers angegeben.
+Dadurch, dass die Systempartition in fast jeder iOS-Version vergrößert wird, verringert sich der nutzbare Speicher des iOS-Geräts nach einer Hauptversions- oder "Major"-Aktualisierung.
+Die Größe der root-Partition hat sich im Laufe der iOS-Entwicklung mehr als verzwanzigfacht.
+Das User-Verzeichnis enthält einige Unterverzeichnisse, die wichtigsten davon sind:
+Diese Auflistung beinhaltet nur die primären Aktualisierungen ("Major Updates") und deren wichtigste Neuerungen.
+Auch das iOS des Apple TVs wird, da es andere Versionsbezeichnungen trägt, hier nicht aufgeführt; Gleiches gilt für dessen mitgelieferte Applikationen.
+Eine Reihe von Apps werden mit den iOS-basierten Geräten mitgeliefert.
+Trotz der Namensgleichheit mit entsprechenden Programmen für Mac OS X sind die Apps für iOS an die jeweilige Benutzeroberfläche angepasst und im Funktionsumfang verändert.
+Die Applikationen Nike+iPod und iCloud Drive sind standardmäßig ausgeblendet und müssen vom Nutzer erst aktiviert werden.
+Ab iOS 10 lässt sich der größte Teil der vorinstallierten Apps ausblenden, ab iOS 11 auch deinstallieren.
+Diese können dann wieder im App Store heruntergeladen werden.
+Die folgenden Listen zeigen alle Applikationen, die in der aktuellen Version des Betriebssystems vorinstalliert sind.
+Bis iOS 5.x war eine von Apple designte App zum Anschauen von Videos auf YouTube vorinstalliert.
+Wegen einer abgelaufenen Lizenz wurde die App ab iOS 6.0 nicht mehr in das OS eingebunden.
+Kurz darauf stellte Google eine überarbeitete YouTube-App im App Store für iOS-6-Nutzer bereit.
+Eine Alternative zu der App, die eine Apple-ID erfordert, ist die mobile Webseite von YouTube, die in einem Webbrowser aufgerufen werden kann.
+Google hat die Unterstützung der YouTube-App auf älteren iOS-Geräten serverseitig größtenteils abgeschaltet.
+Die standardmäßige Installation der Apple Watch App in iOS 8.2, die zur Konfiguration der Uhr verwendet werden soll, sorgte für Kritik, da die App schon vor Erscheinen der Uhr installiert wurde und sich nicht entfernen ließ.
+Seit Herbst 2013 können die sogenannten iLife- (iMovie und GarageBand) und iWork-Apps (Pages, Numbers und Keynote) für iOS kostenlos heruntergeladen werden.
+Dies gilt allerdings nur für iOS-Geräte, die nach dem 10. September 2013 gekauft wurden und auch nur für den Erstbenutzer.
+Wird das Gerät weiterverkauft, verschenkt oder vom selben Nutzer mit einer anderen ID verwendet, erlischt der Gratis-Anspruch und man muss für die Apps den regulären Preis bezahlen.
+Seit April 2017 sind die Apps für alle iOS-Nutzer kostenlos.
+Auf Geräten mit 64 GB bzw. 128 GB internem Speicher sind diese Apps seit Herbst 2014 standardmäßig installiert.
+Neben den mitgelieferten Standard-Programmen sind im App Store weitere Anwendungen verfügbar.
+Bis Mai 2013 wurden von dort weltweit mehr als 50 Milliarden Apps heruntergeladen.
+Sämtliche Apps im App Store werden von Apple kontrolliert, was Sicherheit, aber auch Einschränkungen für den Nutzer bedeutet.
+In der ersten Betaversion von iOS 8 wurde die App Bug Reporter eingeführt, welche mittlerweile Feedback heißt.
+Sie dient dazu, gefundene Fehler der iOS-Entwickler an Apple zu schicken.
+iOS unterscheidet sich vom Hauptkonkurrenten Android durch die Notwendigkeit einer Internetverbindung und einer eingelegten, funktionsfähigen SIM-Karte zur Freischaltung.
+Apples zentralisierter Prozess rund um die Veröffentlichung von Apps wird oft skeptisch gesehen.
+Da es Nutzern schwer möglich ist, aus anderen Quellen als dem App Store Programme zu beziehen, sehen Kritiker in der Nichtzulassung von Programmen eine Zensur.
+Die Electronic Frontier Foundation kritisiert außerdem, dass Entwickler gezwungen seien, deutliche Einschränkungen hinzunehmen, wenn sie für iOS entwickeln wollten; unter anderem müssten sie ein Geheimhaltungsabkommen unterzeichnen und einen Mitgliedsbeitrag entrichten.
+Langfristig könne dies demnach innovationshemmend wirken.
+Andere Autoren sehen die Kontrolle des App Store dagegen als einen Vorteil an:
+Auch die abgeschlossene Natur der Plattform wird kritisiert.
+Vor allem Entwickler befürchten, dass zukünftige Generationen weniger intensiv an den Geräten herumbasteln können und sich daher nicht für Informatik begeistern werden.
+Auch einige Nutzer fühlen sich durch die von Apple getroffenen Einschränkungen bevormundet und stören sich an der zu starken Kontrolle, die Apple über die Plattform hat.
+So kann Apple beispielsweise Programme mithilfe des Apple-Killswitch vom iPhone des Nutzers löschen.
+Der ehemalige Apple-Chef Steve Jobs erklärte, dass diese Möglichkeit nur auf Schadsoftware abziele.
+Viel Kritik erhielt Apple dafür, dass es für iOS keinen Flash Player gab.
+Nach Darstellung von Apple sei dessen Hersteller Adobe nicht willens oder nicht in der Lage gewesen, eine funktionierende Lösung für iOS zu entwickeln.
+Steve Jobs äußerte sich im April 2010 in einem offenen Brief zu der Debatte um Flash.
+Im November 2011 stellte Adobe die Entwicklung des Flash Players für alle mobilen Endgeräte ein, ab August 2012 konnte man das Programm auch nicht mehr herunterladen, womit dieser Kritikpunkt heute obsolet ist.
+Die Filmauflösung der Videokamera-Anwendung war bis iOS 13.2 nur über das zentrale Einstellungsmenü umzustellen, während ein Zugriff auf diese Einstellung auf Geräten anderer Hersteller innerhalb der Kameraanwendung schneller erfolgen konnte.
+Ab iOS 13.2 lässt sich die Videoauflösung ebenfalls innerhalb einstellen, allerdings nur ab dem iPhone 11.
+Frühere iPhones erhielten diese Aktualisierung nicht.
+Unter iOS 6 wurde ein eigener Kartendienst eingeführt, der wegen gravierender Fehler im Kartenmaterial stark kritisiert wurde.
+So war das Satellitenmaterial in einigen Fällen schlecht aufgelöst oder nur schwarz-weiß.
+Apples CEO Tim Cook hat sich in einem offenen Brief entschuldigt und versichert, dass das Kartenmaterial verbessert werden soll.
+Im Sommer 2013 sagte er diesbezüglich in einem Interview "we screwed up" ("Wir haben versagt").
+Apple wird vorgeworfen, Funktionen von iOS nicht selbst entwickelt, sondern lediglich kopiert zu haben.
+Der britische Entwickler Greg Hughes entwickelte die App WiFi-Sync für iOS 4, die es ermöglichte, iOS-Geräte drahtlos mit iTunes zu synchronisieren.
+Im iTunes Store wurde diese App abgelehnt, woraufhin Hughes seine Anwendung im Cydia Store einreichte.
+Apple implementierte die Funktionen von WiFi-Sync anschließend mit identischem Namen und ähnlichem Logo in iOS 5. Teile des Mitteilungssystems auf dem Sperrbildschirm von iOS sollen ebenfalls Kopien einiger Anwendungen aus Cydia sein.
+In iOS 7 wurde das Control Center eingeführt, mit dem Funktionen wie WLAN oder Bluetooth aktiviert und deaktiviert werden können.
+Laut Chip Online sei die Vorlage eindeutig das 2008 erschienene SB-Settings, eine Anwendung ebenfalls aus dem Cydia Store, von der viele Elemente übernommen worden sein könnten.
+Aufsehen erregte zudem iOS 6 für das iPad, mit dem eine zuvor fehlende Uhr-Anwendung auf dem iPad installiert wurde.
+Apple stahl das Design der Uhr von Hans Hilfiker, woran die Schweizerischen Bundesbahnen (SBB) die Rechte halten.
+Die Tabübersicht des Browsers Safari weise so gravierende Ähnlichkeiten mit Google Chrome auf, dass die beiden Anwendungen kaum voneinander zu unterscheiden seien.
+In einem Fazit meint Chip Online, dass viele Ähnlichkeiten der Systeme zu offensichtlich seien, um Zufall sein zu können.
+Direkte Parallelen können offenbar auch zu WebOS gezogen werden, dessen Multitasking-Menü in iOS übernommen wurde.
+Immer wieder steht der Sperrbildschirm von iOS in der Kritik, da mehrfach Sicherheitslücken aufgefallen sind, die unautorisierten Zugriff auf die Telefon-App gestatteten.
+Jedes iOS-Gerät bis einschließlich zum iPhone 4 hat einen Hardwarefehler, der es gestattet, unautorisierten Code auszuführen.
+Bis zur iOS-Version 3.1.3 lässt sich so durch einen Löschbefehl der Schlüsselbund von iOS löschen, wodurch die Codesperre verschwindet.
+Mit iOS 4 hat Apple eine zusätzliche Verschlüsselung namens Data Protection eingeführt, die bestimmte Daten zusätzlich mit dem gesetzten Code verschlüsselt.
+Dies verhindert, dass geschützte Daten ohne Kenntnis des Codes auch bei physischem Zugriff auf dem Gerät lesbar sind.
+Der genannte Hardwarefehler lässt sich ebenfalls dazu ausnutzen, auch ab iOS 4 noch unzureichend geschützte Daten auszulesen, ohne den Code einzugeben.
+Aufgrund der reinen Verschlüsselung über einen Hardwareschlüssel sind ohne Data Protection geschützte Daten auf diesem Weg weiter lesbar.
+Ab iOS 7 ist die Verschlüsselung zwangsweise, weist jedoch auch noch Lücken auf.
+Des Weiteren lässt sich mithilfe des erwähnten Hardwarefehlers auch ein Bruteforce-Angriff gegen die Code-Sperre starten.
+Wenn nur ein vierstelliger Code genutzt wird, kann er unabhängig von der verwendeten iOS-Version in der Regel nach etwa fünf bis zehn Minuten entschlüsselt werden.
+In diesem Fall sind die Code-Sperre und Verschlüsselung durch Data Protection bei älteren Geräten wirkungslos.
+Bis iOS 7 war es Apple möglich, über ein "proprietäres Verfahren" die Daten von gesperrten Geräten auszulesen.
+Mit der Einführung von iOS 8 im September 2014 gibt es laut Apple keine Möglichkeit mehr, den eingegebenen Passcode zu umgehen, ohne den künftig nicht mehr auf die Daten auf mobilen Geräten zugegriffen werden kann.
+Durchsuchungsbefehlen von Strafverfolgungsbehörden könne somit nicht mehr nachgekommen werden.
+Das bestätigt ein Bericht der New Yorker Staatsanwaltschaft.
+Damit seien Fotos, Nachrichten samt Anhängen, E-Mails, Kontaktdaten, Verbindungsverläufe, iTunes-Inhalte, Notizen und Erinnerungen geschützt.
+Ein FBI-Mitarbeiter äußerte sich dahingehend, dass Apples Schritt zu der zunehmenden Verdunklung beitrage, die mit der verbreiteten Verwendung von Verschlüsselung einhergehe.
+Im Juni 2015 wurde eine Studie veröffentlicht, die gravierende Sicherheitslücken in iOS und OS X beschreibt, mit deren Hilfe sich Passwörter und Daten auslesen lassen; die Forscher nutzten dabei fehlende Sicherheitsmechanismen bei der Kommunikation von Apps untereinander (Cross-App Resource Access, kurz Xara) aus.
+Entsprechend manipulierte Apps konnten sowohl im iOS- als auch im Mac App Store platziert werden.
+Apple wurde im Oktober 2014 über die Probleme informiert und erbat sich einen - branchenüblichen - Zeitraum von sechs Monaten für die Fehlerbehebung aus.
+Bis Juni 2015 hatte Apple den Fehler noch nicht behoben.
+Bis zur iOS-Version 9.3.4 klafften drei kritische Sicherheitslücken, die von dem Spyware-Tool Pegasus des Unternehmens NSO Group ausgenutzt wurden und mit Veröffentlichung von Version 9.3.5 von Apple geschlossen wurden.
+Vereinzelt steht iOS wegen Problemen mit der Akkulaufzeit in der Kritik.
+Das im März 2014 veröffentlichte iOS 7.1 soll die mögliche Laufzeit der iOS-Geräte stark beeinträchtigen.
+Ähnliche Probleme gab es auch schon bei Vorgängerversionen von iOS, bei iOS 5 war vom sogenannten Battery Gate die Rede, in Anlehnung an den Antenna-Gate-Konstruktionsfehler des iPhone 4.
+Abhilfe gegen die magere Akkulaufzeit unter iOS schafft in den meisten Fällen das Wiederherstellen von iOS aus dem DFU-Modus heraus, ohne das anschließende Installieren eines Backups.
+In der Vergangenheit stand nach der Veröffentlichung neuer iOS-Versionen die Kritik im Raum, dass die Geschwindigkeit einiger Geräte nach den Aktualisierungen nachlasse.
+So klagten etwa Nutzer über Geschwindigkeitsprobleme des iPhone 4 unter iOS 7 oder des iPhone 4s unter iOS 8. Apple reichte mit iOS 7.1 und iOS 8.1.1 Aktualisierungen nach, um die Stabilität und Geschwindigkeit der Geräte zu verbessern.
+Weiterhin liegen Berichte vor, dass sich mit weiteren Aktualisierungen die Geschwindigkeit erneut verbessere.
+In den Vereinigten Staaten wird gegen Apple von über 100 Klägern eine Sammelklage angestrebt.
+Apple wird vorgeworfen, Benutzer wissentlich durch falsche Werbeversprechen getäuscht zu haben.
+So solle die iOS-9-Softwareaktualisierung bei Apple-internen Tests die Nutzbarkeit des iPhone 4s massiv eingeschränkt haben, Apple solle in der Werbung jedoch wider besseres Wissen Leistungssteigerung und Akkulaufzeitverbesserungen versprochen haben.
+Die Kläger halten Apple vor, dass zumindest darauf hingewiesen hätte werden sollen, dass durch eine Aktualisierung auf iOS 9 die Benutzbarkeit der Geräte eingeschränkt werden könne.
+Bei den Klägern sei durch iOS 9 ein finanzieller Schaden entstanden, da ein Zurückspielen von älteren iOS-Versionen nicht möglich ist.
+Weiter solle Apple vorsätzlich die Benutzbarkeit der Geräte durch Softwareaktualisierungen einschränken, um Kunden zum Kauf eines neuen Geräts zu bewegen.
+Im Dezember 2017 deckte Geekbenchentwickler John Poole eine Funktion in iOS auf, die die Systemleistung älterer Geräte durch Reduktion der Prozessortaktfrequenz permanent künstlich senkt, wenn die Ladungsträgerkapazität des eingebauten Lithiumpolymerakkumulators durch natürlichen Verschleiß geringer geworden ist.
+Betroffen sind das iPhone SE (1. Generation), iPhone 6, iPhone 6s und iPhone 7 mit iOS 10.2.1 bzw. 11.2.0 oder neuer.
+Apple bestätigte auf Anfrage, dass die Leistung älterer Geräte künstlich gedrosselt werde und kündigte an, diese Praxis zukünftig auch bei weiteren Geräten anzuwenden.
+Als Grund gibt Apple an, dass die im iPhone verwendeten Lithiumionenakkumulatoren in Lastsituationen nicht mehr die benötigte Leistung liefern können, weil sie im Laufe der Zeit verschleißen oder kalten Temperaturen ausgesetzt werden.
+Dadurch sei es in der Vergangenheit öfter zur Notabschaltung der Geräte gekommen, was Apple im Rahmen einer positiven Benutzererfahrung und Verlängerung der Produktlebenszeit vermeiden möchte.
+Französische Verbraucherschützer reichten Ende Dezember 2017 Klage gegen Apple ein, da geplante Obsoleszenz in Frankreich gesetzeswidrig ist.
+Im Januar 2018 wurde bekannt, dass die französische Justiz Ermittlungen gegen Apple aufgenommen hat.
+Apple reagierte darauf mit einer Vergünstigung des Akkutausches bei betroffenen Geräten.
+Kunden konnten bis Dezember 2018 ihre Akkus bei Apple oder Vertragshändlern für 30 € statt 90 € tauschen lassen.
+Es wird immer wieder kritisiert, dass Apple offene Standards nur sehr halbherzig unterstützt.
+So wurde im Oktober 2016 in Frankreich eine Klage gegen Apple eingereicht, da im Webbrowser Safari die Unterstützung für HTML5 sehr weit hinter dessen aktuellem Stand zurückhängt.
+In iOS ist dieses Problem besonders eklatant, da die Anbieter anderer Webbrowser nicht ihre eigenen Render-Engines verwenden dürfen, sondern nur auf Apples eigene Render-Engine WebKit und deren eingeschränkte Unterstützung offener Webstandards Zugriff haben.
+Das Video-Chat-Protokoll FaceTime, das laut ursprünglichen Versprechungen geöffnet werden sollte, ist trotz Kritik weiterhin proprietär.
+Ausgeliefert wird iOS in den Sprachen Französisch, Englisch, Mandarin, Spanisch, Japanisch, Koreanisch, Italienisch, Portugiesisch, Russisch, Deutsch, Dänisch, Schwedisch, Arabisch, Thailändisch, Finnisch, Polnisch, Vietnamesisch, Norwegisch, Indonesisch, Griechisch, Hebräisch, Rumänisch, Ungarisch, Katalanisch, Tschechisch, Hindi, Malaiisch, Ukrainisch, Kroatisch, Slowakisch.

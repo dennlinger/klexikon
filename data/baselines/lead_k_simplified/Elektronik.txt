@@ -1,0 +1,8 @@
+Die Elektronik ist ein Hauptgebiet der Elektrotechnik.
+Sie ist die Wissenschaft von der Steuerung des elektrischen Stromes durch elektronische Schaltungen, das heißt Schaltungen, in denen mindestens ein Bauelement aufgrund von Vakuum- oder Halbleiter-Leitung funktioniert.
+Elektronische Elemente verhalten sich nichtlinear, während das Verhalten anderer elektrischer Elemente als linear bezeichnet wird.
+Elektronik befasst sich außerdem mit der Funktion elektronischer Bauelemente selbst.
+Elektronikbauteile und Schaltungen in kleineren Maßstäben wird entsprechend den Strukturgrößen mit SI-Dezimalpräfixe benannt, z. B. Mikroelektronik oder Nanoelektronik , welche in der Regel mit dem integrierten Schaltkreis z. B. Silizium-Chip realisiert wird.
+Elektronik verarbeitet elektrische Signale informationsmäßig oder erzeugt sie, oder verwandelt elektrische Energie hinsichtlich ihres Spannungs-Strom-Verhältnisses unter Zuhilfenahme von Verstärkern oder Gleichrichtern.
+Elektronische Schaltungen werden Mithilfe der Leiterplattenbestückung zumeist auf Platinen aufgebaut und als Modul entweder zu elektronischen Geräten zusammengebaut, oder sie werden Teil elektrotechnischer Apparate.
+Die Optoelektronik ist ein Teilgebiet der Elektronik und beschäftigt sich mit der Steuerung durch Licht.

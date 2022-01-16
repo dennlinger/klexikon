@@ -1,0 +1,3 @@
+Das Internet (von englisch internetwork, zusammengesetzt aus dem Präfix inter und network ,Netzwerk' oder kurz net ,Netz'), umgangssprachlich auch Netz, ist ein weltweiter Verbund von Rechnernetzwerken, den autonomen Systemen.
+Es ermöglicht die Nutzung von Internetdiensten wie WWW, E-Mail, Telnet, SSH, XMPP, MQTT und FTP.
+Dabei kann sich jeder Rechner mit jedem anderen Rechner verbinden.

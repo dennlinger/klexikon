@@ -1,0 +1,9 @@
+Die Hypertext Markup Language ist eine textbasierte Auszeichnungssprache zur Strukturierung elektronischer Dokumente wie Texte mit Hyperlinks, Bildern und anderen Inhalten.
+HTML-Dokumente sind die Grundlage des World Wide Web und werden von Webbrowsern dargestellt.
+Neben den vom Browser angezeigten Inhalten können HTML-Dateien zusätzliche Angaben in Form von Metainformationen enthalten, z. B. über die im Text verwendeten Sprachen, den Autor oder den zusammengefassten Inhalt des Textes.
+HTML wird vom World Wide Web Consortium und der Web Hypertext Application Technology Working Group weiterentwickelt.
+Die aktuelle Version ist seit dem 14. Dezember 2017 HTML 5.2, die bereits von vielen aktuellen Webbrowsern und anderen Layout-Engines unterstützt wird.
+Auch die Extensible Hypertext Markup Language wird durch HTML5 ersetzt.
+HTML dient als Auszeichnungssprache dazu, einen Text semantisch zu strukturieren, nicht aber zu formatieren.
+Die visuelle Darstellung ist nicht Teil der HTML-Spezifikationen und wird durch den Webbrowser und Gestaltungsvorlagen wie CSS bestimmt.
+Ausnahme sind die als veraltet markierten präsentationsbezogenen Elemente.

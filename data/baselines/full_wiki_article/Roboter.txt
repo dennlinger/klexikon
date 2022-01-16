@@ -1,0 +1,176 @@
+Ein Roboter ist eine technische Apparatur, die üblicherweise dazu dient, dem Menschen häufig wiederkehrende mechanische Arbeit abzunehmen.
+Roboter können sowohl ortsfeste als auch mobile Maschinen sein und werden von Computerprogrammen gesteuert.
+Die Wortbedeutung hat sich im Laufe der Zeit gewandelt.
+Der Ursprung des Wortes Roboter liegt im tschechischen Wort robota, Robot, das mit ,Frondienst' oder ,Zwangsarbeit' übersetzt werden kann.
+Es geht wiederum über Altkirchenslawisch rabota ,Knechtschaft' auf Protoindoeuropäisch *orbh- zurück und ist damit mit dem deutschen ,Arbeit' verwandt.
+Ähnlich gab es im Spätmittelhochdeutschen für einen ,Arbeiter im Frondienst' den Begriff robater, robatter.
+Die Bezeichnung robot wurde 1920 von Josef Capek, einem bedeutenden Literaten, geprägt, dessen Bruder Karel Capek ursprünglich den Namen labori verwendet hatte, als er in seinem Theaterstück R.U.R. in Tanks gezüchtete menschenähnliche künstliche Arbeiter auftreten ließ, die dafür geschaffen worden sind, menschliche Arbeit zu übernehmen, und die dagegen revoltieren.
+Mit seinem Werk griff Capek das klassische, ebenfalls in der Prager Literatur der jüdischen Mystik verbreitete Motiv des Golems auf.
+Heute würde man Capeks Kunstgeschöpfe als Androiden bezeichnen.
+Vor der Prägung des Wortes Roboter wurden solche Maschinen Automaten oder Halbautomaten genannt.
+Während der Entwicklung von Handhabungsgeräten, die immer komplizierter wurden, kamen Entwickler auf die Idee, sie "Roboter" zu nennen.
+Spätestens ab diesem Zeitpunkt wurde das Wort "Roboter", welches ursprünglich nur für humanoide Roboter verwendet wurde, fast beliebig für verschiedene Geräte benutzt.
+Entsprechend unterschiedlich ist die Definition eines Roboters von Land zu Land.
+So kommt es, dass 1983 von Japan 47.000 dort installierte Roboter gemeldet wurden, von denen nach VDI-Richtlinie 2860 nicht einmal 3.000 als Roboter gegolten hätten.
+Aktueller ist die Auffassung, dass man unter einem Roboter ein Gerät versteht, das mindestens über drei frei bewegliche Achsen verfügt.
+Die Japan Robot Association gibt die folgenden Merkmale vor:
+2004 waren zwei Millionen Roboter im Einsatz.
+Die deutsche Roboterbranche steigerte 2007 den Umsatz um 13 Prozent.
+Nach Erhebungen des Robotikverbandes International Federation of Robotics haben sich im Jahr 2014 die Verkäufe von Industrierobotern im Vergleich zum Vorjahr um 29 % auf 229.261 Stück erhöht.
+General Motors plant erste unbemannte Pkw im Test ab 2015 und in der Serienproduktion ab 2018.
+In der Literatur und anderen Medien wird der Roboter vor allem als "Maschinenmensch" thematisiert beziehungsweise als autonomes Maschinenwesen, das dem Menschen als Helfer oder aber als Bedrohung gegenübersteht.
+Der heute im allgemeinen Sprachgebrauch verwurzelte Begriff Roboter entstammt ursprünglich dem 1920 veröffentlichtem Theaterstück R.U.R. von Karel Capek und ist ein Beispiel für die Wechselwirkung zwischen der Fiktion und dem realen Fortschritt der Technik.
+Roboter treten bereits in der Frühzeit des Films auf und sind, in unterschiedlichster Gestalt, ein wiederkehrendes Thema der Science-Fiction.
+Durch die häufige Thematisierung von Robotern in Film und Literatur wurde auch die Wissenschaft aufmerksam auf diese Art der Maschinen.
+Das wissenschaftliche Gebiet, das sich mit der Konstruktion von Robotern beschäftigt, heißt Robotik.
+Der Begriff wurde 1942 von Isaac Asimov in seiner Kurzgeschichte Runaround erstmals erwähnt.
+Ein allgemeines theoretisches wissenschaftliches Gebiet, welches sich mit Robotern beschäftigt, gibt es nicht.
+Sie sind meist Teilgebiete der Elektrotechnik, Informatik, Mechatronik oder des Maschinenbaus.
+Technisch realisiert werden Roboter hauptsächlich im Zusammenspiel der Disziplinen Mechanik, Elektrotechnik und Informatik.
+Inzwischen hat sich aus der Verbindung dieser drei Disziplinen die Mechatronik entwickelt.
+Um autonome Systeme zu entwickeln, die eine gewisse Eigenständigkeit (beispielsweise beim Pathfinding) aufweisen, werden immer mehr wissenschaftliche Disziplinen in die Robotik eingebunden.
+Hier liegt ein Schwerpunkt der Verbindung von Konzepten der Künstlichen Intelligenz oder der Neuroinformatik und ihrer biologischen Vorbilder (Biologische Kybernetik).
+Aus der Verbindung von Biologie und Technik entstand wiederum die Bionik.
+Wichtigste Bestandteile eines Roboters sind die Sensoren zur Erfassung der Umwelt und der Achspositionen, die Aktoren zum Agieren innerhalb der erfassten Umgebung, die Robotersteuerung und das mechanische Gestell inklusive der Getriebe.
+Ein Roboter muss nicht unbedingt vollständig autonom handeln können.
+Darum unterscheidet man autonome und ferngesteuerte Roboter.
+Der mechanische Aufbau eines Roboters wird mit Hilfe der Kinematik beschrieben.
+Dabei sind folgende Kriterien von Bedeutung:
+Außerdem wird unterschieden in offene Kinematiken und geschlossene Kinematiken.
+Eine offene Kinematik ist dadurch gekennzeichnet, dass alle Achsen der kinematischen Kette hintereinander liegen, so wie an einem menschlichen Arm.
+Es ist also nicht jedes Glied der Kette mit zwei anderen Gliedern verbunden.
+In einer geschlossenen Kinematik hingegen ist jedes Glied mit mindestens zwei anderen Gliedern verbunden (Beispiel: Hexapodroboter).
+Die Begriffe Vorwärtskinematik und Inverse Kinematik (auch Rückwärtskinematik) bezeichnen die mathematische Modellierung der Bewegung von Robotersystemen.
+In der Vorwärtskinematik werden für jedes Gelenk der kinematischen Kette Einstellparameter vorgegeben (je nach Gelenktyp Winkel oder Strecken) und die daraus resultierende Position und Orientierung des Endeffektors im Raum wird berechnet.
+Bei der Rückwärtskinematik werden dagegen Position und Orientierung des Endeffektors vorgegeben und die erforderlichen Einstellparameter der Gelenke werden berechnet (Vorwärts- und Rückwärtstransformation).
+Hier wird zwischen translatorischen und rotatorischen Achsen unterschieden.
+Zur Beschreibung von Robotern wird sowohl die Anzahl als auch Anordnung der Achsen herangezogen.
+Hierbei sind die Reihenfolge und die Lage der Achsen zu berücksichtigen.
+Diese können im Falle einer seriellen (offenen) Kinematik wie mit der so genannten Denavit-Hartenberg-Transformation beschrieben werden.
+Obige Kriterien in Verbindung mit den Abständen der Achsen zueinander oder deren "Verfahrwege" ergeben die Form und Größe des Arbeitsraumes eines Roboters.
+Gebräuchliche Arbeitsräume sind: Kubus, Zylinder, Kugel oder Quader.
+Die wichtigsten Koordinatensysteme (Abk. KOS) bei Robotern sind
+Um Roboter in Bewegung setzen zu können, müssen sie mathematisch beschrieben werden.
+Dies geschieht durch Transformationen (siehe auch Koordinatentransformation).
+Dabei beschreibt die Transformation T die Lage eines Koordinatensystems in Relation zu einem Bezugskoordinatensystem.
+Da sich die Lage des KOS im allgemeinen Fall sowohl durch Verdrehungen als auch durch Translation ergeben kann, sind zur Berechnung ein rotatorischer - die Vektoren A, B und C als Einheitsvektoren - und auch ein translatorischer Anteil P, eine Verschiebung, notwendig.
+Mathematisch wird somit der dreidimensionale, rotatorische Anteil ergänzt um eine weitere Dimension, einen Vektor, die kombiniert zu folgender homogenen 4 x 4 - Matrix führen:
+Wird nun jeder Achse ein Koordinatensystem beispielsweise entsprechend der Denavit-Hartenberg-Transformation zugeordnet, ist man in der Lage, die Position beliebig vieler, aufeinander folgender Achsen zu berechnen.
+Praktisch lässt sich bereits die Berechnung von sechs Achsen nur mit einem erheblichen Schreibaufwand realisieren.
+Um nur eine Pose (Position und Orientierung) zu berechnen, kann daher ein Hilfsmittel wie eine Tabellenkalkulation hilfreich sein.
+Ist die Berechnung mehrerer Posen notwendig, empfiehlt es sich, auf entsprechende mathematisch orientierte Softwareprodukte wie Matlab oder auf FreeMat zurückzugreifen.
+Die direkte Kinematik wird verwendet, um aus den gegebenen Achswinkeln, also den Verschiebungen der Gelenke eines Roboters, die kartesischen Koordinaten und die Orientierung des TCPs zu ermitteln.
+Sind die Denavit-Hartenberg-Parameter (  , d , a , a {\displaystyle \theta ,d,a,\alpha } ) bekannt, so kann mit
+die Transformation zwischen zwei Achsen bestimmt werden.
+Verallgemeinert ergibt sich:
+Für Industrieroboter mit den üblichen sechs Achsen ist diese Transformation somit fünfmal durchzuführen.
+Um einen TCP zu berücksichtigen, wird eine weitere Transformation angefügt.
+Bei der Vorwärtstransformation ergibt sich somit für einen sechsachsigen Roboter mit Tool
+Damit kann nun die Position und Orientierung des TCPs bezogen auf den Roboterfuss berechnet werden.
+Darüber hinaus ist diese Berechnung auch für Roboter mit mehr als sechs Achsen eindeutig.
+Die so genannte Inverse Kinematik wird eingesetzt, um bei vorgegebener Position und Orientierung des TCP zu berechnen, welche Gelenkparameter (Winkel oder Verschiebung) in den einzelnen Gliedern eingestellt werden müssen, um dieses Ziel zu erreichen.
+Sie ist somit die Umkehrung der Vorwärtstransformation.
+Grundsätzlich gibt es zwei Lösungsansätze, einen geometrischen und einen analytischen.
+Bei der Wahl eines Roboters sind verschiedene Kriterien von Bedeutung: Traglast, deren Schwerpunkt und Eigenträgheit, der Arbeitsbereich, in dem der Prozess stattfinden soll, die Prozessgeschwindigkeit oder die Zykluszeit und die Genauigkeit des Roboters.
+Letztere wird auf der Basis der ISO 9283 ermittelt.
+Dabei wird im Wesentlichen zwischen der Genauigkeit der Position (hier wird auch von Pose gesprochen) und der Bahngenauigkeit unterschieden.
+Für die Pose wie auch für die Bahn wird in der Regel sowohl die so genannte Absolut- als auch die Wiederholgenauigkeit ermittelt.
+Dabei spiegelt die Absolutgenauigkeit den Unterschied zwischen der tatsächlichen und der theoretischen, der programmierten, Pose oder Bahn wider.
+Hingegen ergibt sich die Wiederholgenauigkeit aus mehreren Fahrten oder Messungen des Roboters auf theoretisch die gleiche Position oder Bahn.
+Sie ist somit ein Maß für die Streuung, die bei den meisten praktischen Anwendungen von größerer Bedeutung ist als die Absolutgenauigkeit.
+Im Übrigen kann die Absolutgenauigkeit eines Roboters durch eine Roboterkalibrierung verbessert werden, hingegen ergibt sich die Wiederholgenauigkeit im Wesentlichen aus dem Getriebespiel und kann somit softwaretechnisch praktisch nicht kompensiert werden.
+Der Begriff "Roboter" beschreibt ein weitgefächertes Gebiet, weshalb man Roboter in viele Kategorien einordnet.
+Einige davon sind:
+Autonome, mobile Roboter bewegen sich selbstständig und erledigen ohne menschliche Hilfe eine Aufgabe.
+Der Bau von autonomen, mobilen Robotern ist ein beliebtes Teilgebiet der Hobbyelektronik.
+Typische Funktionen von solchen Robotern sind z. B.: einer Linie auf dem Boden folgen, Hindernissen ausweichen, Robotersumo oder einer Lichtquelle folgen.
+Für einige dieser Roboterarten gibt es Wettkämpfe.
+Der Bau von autonomen, mobilen Robotern wird auch von Schülern als Abschlussarbeit gewählt.
+Bereits im Kindesalter lassen sich solche Roboter mit Bausätzen wie z. B. mit Lego Mindstorms bauen.
+Mit Compressorhead existiert eine komplett aus Robotern bestehende Rockband, die verschiedene bekannte Metal- und Punksongs covert.
+Das Bild des humanoiden Roboters in der Literatur wurde, wie bereits erwähnt, maßgeblich durch die Erzählungen Isaac Asimovs in den 1940er Jahren geprägt.
+Humanoide Roboter waren lange Zeit technisch nicht realisierbar.
+Für die Entwicklung humanoider Roboter müssen viele wichtige Probleme gelöst werden.
+Sie sollen autonom in ihrer Umwelt reagieren und möglichst auch interagieren können, wobei ihre Mobilität durch zwei Beine als Fortbewegungsmittel beschränkt ist.
+Außerdem sollen sie durch zwei künstliche Arme und Hände Arbeiten verrichten können.
+Seit 2000 (ASIMO von Honda) scheinen die grundlegenden Probleme gelöst.
+Inzwischen werden regelmäßig neue Entwicklungen in diesem Bereich vorgestellt (siehe z. B. Atlas).
+Die meisten Humanoiden gehören zur Gattung der Laufroboter, während einige Systeme auch mit einer mobilen Basis auf Rädern ausgestattet sind.
+1954 meldete George Devol erstmals ein Patent für Industrieroboter an.
+Heutige Industrieroboter sind in der Regel nicht mobil.
+Grundsätzlich sind sie vielseitig einsetzbar, jedoch in Verbindung mit dem eingesetzten Werkzeug sind sie speziell auf ein oder wenige Einsatzgebiete festgelegt.
+Dabei wird das Werkzeug am Flansch des Roboters in der Regel fest montiert und ist im einfachsten Fall ein Greifer, der den Roboter für Handlingaufgaben prädestiniert.
+Soll der Roboter vielseitiger eingesetzt werden, so kommen Kupplungen zum Einsatz, die einen Tausch des Werkzeuges auch während des Betriebes ermöglichen.
+1961 wurden sie erstmals bei General Motors in Produktionslinien eingesetzt.
+In Deutschland wurden Industrieroboter, beispielsweise für Schweißarbeiten in der Automobilindustrie, seit etwa 1970 eingesetzt.
+Weitere Einsatzgebiete für Industrieroboter sind Handling, Palettieren, Bestücken, Fügen, Montieren, Kleben, Punkt- und Bahnschweißen und auch Messaufgaben.
+Durch die Vielseitigkeit von Industrierobotern sind diese bis heute am weitesten verbreitet.
+Zu den Industrierobotern zählen auch die so genannten Portalroboter, die beispielsweise bei der Produktion von Wafern, in Vergussanlagen oder in der Messtechnik als Koordinatenmessgerät eingesetzt werden.
+Heute werden auch viele Handlingaufgaben durch Industrieroboter ausgeführt.
+Medizinroboter werden in verschiedenen Bereichen der Medizin eingesetzt.
+Diese sind unter anderem Chirurgie, Diagnostik und Pflege.
+Die bekanntesten kommerziellen Vertreter sind das Da-Vinci-Operationssystem (Intuitive Surgical, Sunnyvale, CA, USA), der Artis Zeego (Siemens Healthcare, Erlangen, Deutschland) und der Care-O-bot (Fraunhofer IPA, Stuttgart, Deutschland; nicht kommerziell erhältlich) .
+Daneben gibt es eine große Zahl an wissenschaftlichen medizinischen Robotersystemen in der Forschung.
+Serviceroboter verrichten selbständig Arbeiten im Haushalt.
+Bekannte Anwendungen umfassen:
+Professionelle Serviceroboter erbringen Dienstleistungen für Menschen außerhalb des Haushalts.
+Eine professionelle Anwendung wurde z. B. im Umweltbereich im Forschungsvorhaben PV-Servitor erforscht.
+Als professioneller Service wurde die automatische Reinigung und Inspektion großflächiger Photovoltaik Freilandanlagen in Europa untersucht.
+Die meisten roboterähnlichen Spielzeuge sind keine Roboter, da ansonsten sämtliche selbst bewegende Gegenstände als Roboter anzusehen wären.
+Trotzdem gibt es Roboter, die man als Spielroboter bezeichnet, da ihr automatisierter Funktionsumfang im Wesentlichen keinen arbeits- oder forschungstechnischen Nutzen hat.
+Ein Beispiel hierfür ist der einem Hund ähnelnde Lauf- und Spielroboter Aibo von Sony oder der Robosapien von WowWee.
+Diese Spieleroboter werden in der Four-Legged League beim jährlichen Roboterfußball eingesetzt.
+Seine Produktion wurde trotzdem eingestellt.
+Ein weiteres Beispiel ist die Lego-Mindstorms-Serie, die zu Bildungszwecken in Schulen verwendet wird.
+Es lassen sich allerdings auch umfangreichere Maschinen mit den Mindstorms herstellen, deren Funktionalitäten denen professioneller Serviceroboter entspricht.
+Unter Erkundungsrobotern versteht man Roboter, die an Orten operieren, die für den Menschen (lebens-)gefährlich oder gar unzugänglich sind und ferngesteuert oder (teilweise) autark operieren.
+Dies gilt für Gebiete, in denen ein militärischer Konflikt ausgetragen wird.
+Aber auch für Gegenden, die bisher für den Menschen nur sehr schwer oder gar nicht erreichbar sind, wie die Mond- oder Marsoberfläche.
+Schon allein wegen der riesigen Entfernung der anderen Planeten ist eine Fernsteuerung von der Erde aus unmöglich, weil die Signale hin und zurück Stunden benötigen würden.
+In diesen Fällen muss dem Roboter eine Vielzahl von möglichen Verhaltensweisen einprogrammiert werden, wovon er die sinnvollste wählen und ausführen muss.
+Zur Erkundung enger Pyramidenschächte, in die Menschen nicht eindringen können, wurden schon mit Sensoren bestückte Roboter eingesetzt.
+Es wird auch darüber nachgedacht, einen sogenannten Cryobot, der sich durch Eis schmilzt, in den Wostoksee herabzulassen.
+Dieser ist von der Außenwelt durch eine über drei Kilometer dicke Eisschicht hermetisch abgeriegelt.
+Forscher vermuten in diesem ein unberührtes Ökosystem, was auf gar keinen Fall durch "oberirdische" Mikroben kontaminiert werden soll.
+Militärroboter sind Roboter, die zu militärischen Aufklärungs- und Kampfzwecken eingesetzt werden.
+Diese können sich in der Luft, zu Land oder auf und unter Wasser selbstständig also autark bewegen.
+Beispiele hierfür sind die luftgestützte Global Hawk oder die landgestützte SWORDS.
+Diese können sowohl zur reinen Selbstverteidigung als auch zum aktiven Angriff auf Ziele Waffen mit sich tragen.
+Unter einem Rover versteht man in der Raumfahrt Roboter, die sich mobil auf der Oberfläche anderer Himmelskörper fortbewegen.
+Beispiele hierfür sind die Zwillingsroboter Spirit und Opportunity auf dem Mars.
+Letztere können sich unabhängig von der Bodenkontrolle ihren Weg suchen.
+Auch nichtmobile Einheiten, sogenannte Lander, können als Roboter bezeichnet werden.
+Die Mondrover der Apollomissionen waren keine Roboter, weil sie direkt von Menschen gesteuert wurden.
+Personal Robots (kurz PR, engl. für "persönlicher Roboter") sind Roboter, die im Gegensatz zu Industrierobotern dazu bestimmt sind, mit Personen und anderen Personal Robots in Netzwerken zu kommunizieren und zu interagieren.
+Personal Robots können von einer einzelnen Person bedient, genutzt und gesteuert werden.
+Eine Unterteilung in öffentlich genutzte Personal Roboter wie Serviceroboter und personengebundene Personal Roboter wie Spielzeugroboter ist, wie bei den Personal Computern, sinnvoll.
+Durch die abgeschlossene Konstruktion der PR funktionieren diese Maschinen weitgehend unabhängig, autonom, autark und selbständig.
+Die Personal Robots sind zunehmend lernfähig.
+Vielfache Schnittstellen ermöglichen eine Kommunikation in Netzwerken.
+So mit anderen Robotern, Computern usw.
+Personal Robots reagieren mit ihren Sensoren auf äußere Einflüsse wie Berührungen, Töne, Laute, optische Veränderungen usw.
+Personal Robots speichern Daten und Informationen.
+Erworbene Erfahrungen beeinflussen sie und so realisieren die PRs mit diesen Erkenntnissen ihr weiteres Handeln.
+Ebenfalls als Roboter bezeichnet man mobile Einheiten, die zum Aufspüren, Entschärfen oder Sprengen von Bomben oder Minen eingesetzt werden, wie der sogenannte TALON-Roboter.
+Auch gibt es Roboter, die in Trümmern nach verschütteten Menschen suchen können, sog. Rettungsroboter (englisch rescue robots).
+Mittlerweile gibt es auch den sog. Killer-Roboter (vgl. auch Kampfroboter).
+Autonomous Underwater Vehicles sind autonome Tauchroboter für Aufgaben im Meer.
+Soziale Robotik erforscht Interaktionsmöglichkeiten zwischen Robotern und ihrer Umwelt.
+Anwendungsmöglichkeiten sind die Autismustherapie für Kinder und die Pflege älterer Menschen.
+Wichtige Forscher auf dem Gebiet sind Cynthia Breazeal und Frauke Zeller.
+Soziale Robotik kann man als Gegenentwurf zu Industrierobotern betrachten.
+Es fehlt eine praktisch nutzbare Funktion, sie bauen soziale Beziehungen auf und passen sich an ihre Umwelt an.
+In einigen Diskursen wird die Rolle von "social Robotics" noch weiter gefasst.
+So werden Roboter als Lebewesen betrachtet und es wird von Unterordnung in Form eines sozialen Gefälles gesprochen.
+William Grey Walter hat in den 1940er Jahren Schildkrötenroboter gebaut.
+Diese sind bekannt geworden unter der Bezeichnung "Tortoises".
+Mark W. Tilden hat in den 1990er Jahren sogenannte BEAM Roboter erfunden:
+Ab den 2000ern kam es zu einem Boom von Entwicklungen:
+Die Hardware besteht aus einem flauschigen Fell, Kulleraugen und Sound-Ausgabe, meist in Anlehnung an einen Teddybär, dazu kommen noch Aktoren, um die Beine und Arme zu bewegen.
+Die Steuerung erfolgt üblicherweise manuell wie bei den Modellen, die in der Autismustherapie eingesetzt werden.
+Es gibt aber erste Ansätze Künstliche Intelligenz zu nutzen, genauer gesagt die BDI Architektur, um autonome soziale Roboter zu realisieren.
+Insbesondere mobile Robotersysteme werden zunehmend an Schulen und Hochschulen zu Ausbildungszwecken eingesetzt.
+Diese Roboter zeichnen sich durch gute Handhabbarkeit, einfache Programmierung und Erweiterbarkeit aus.
+Beispiele für sogenannte Ausbildungsroboter sind Robotino oder Lego Mindstorms.
+Im nun entstehenden Theaterstück Frankenstein der Salzburger Künstlergruppe gold extra werken Roboter in einem Krankenhaus und "bauen nach alten Plänen einen Menschen nach".
+In der Informatik werden Computerprogramme, die weitgehend automatisch sich ständig wiederholende Aufgaben abarbeiten, als Bot (Kurzform von Roboter) bezeichnet.

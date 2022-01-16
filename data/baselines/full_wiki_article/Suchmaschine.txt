@@ -1,0 +1,87 @@
+Eine Suchmaschine ist ein Programm zur Recherche von Dokumenten, die in einem Computer oder einem Computernetzwerk wie z. B. dem World Wide Web gespeichert sind.
+Nach Erstellung einer Suchanfrage, oftmals durch Texteingabe eines Suchbegriffs, liefert eine Suchmaschine eine Liste von Verweisen auf möglicherweise relevante Dokumente, meistens dargestellt mit Titel und einem kurzen Auszug des jeweiligen Dokuments.
+Dabei können verschiedene Suchverfahren Anwendung finden.
+Die wesentlichen Bestandteile bzw. Aufgabenbereiche einer Suchmaschine sind:
+In der Regel erfolgt die Datenbeschaffung automatisch, im Internet durch Webcrawler, auf einem einzelnen Computer durch regelmäßiges Einlesen aller Dateien in vom Benutzer spezifizierten Verzeichnissen im lokalen Dateisystem.
+Suchmaschinen sind Metamedien, die gezielt Inhalte anderer Medien auffinden und abgreifen.
+Sie lassen sich nach einer Reihe von Merkmalen kategorisieren.
+Die nachfolgenden Merkmale sind weitgehend unabhängig.
+Man kann sich beim Entwurf einer Suchmaschine also für eine Möglichkeit aus jeder der Merkmalsgruppen entscheiden, ohne dass diese die Wahl der anderen Merkmale beeinflusst.
+Verschiedene Suchmaschinen können unterschiedliche Arten von Daten durchsuchen.
+Zunächst lassen sich diese grob in "Dokumenttypen" wie Text, Bild, Ton, Video und andere unterteilen.
+Ergebnisseiten werden in Abhängigkeit von dieser Gattung gestaltet.
+Bei einer Suche nach Textdokumenten wird üblicherweise ein Textfragment angezeigt, das die Suchbegriffe enthält (häufig Snippet genannt).
+Bildsuchmaschinen zeigen eine Miniaturansicht der passenden Bilder an.
+Eine Personensuchmaschine findet öffentlich verfügbare Informationen zu Namen und Personen, die als Linkliste dargestellt werden.
+Weitere spezialisierte Arten von Suchmaschinen sind zum Beispiel Jobsuchmaschinen, Branchensuchen oder Produktsuchmaschinen.
+Letztere werden vorrangig von Online-Preisvergleichen eingesetzt, es gibt aber auch schon lokale Angebotssuchen, die Produkte und Angebote stationärer Einzelhändler online darstellen.
+Eine weitere feinere Aufgliederung geht auf datenspezifische Eigenschaften ein, die nicht alle Dokumente innerhalb einer Gattung teilen.
+Bleibt man beim Beispiel Text, so kann bei Usenet-Beiträgen nach bestimmten Autoren gesucht werden, bei Webseiten im HTML-Format nach dem Dokumententitel.
+Je nach Datengattung ist als weitere Funktion eine Einschränkung auf eine Untermenge aller Daten einer Gattung möglich.
+Dieses wird im Allgemeinen über zusätzliche Suchparameter realisiert, die das Suchergebnis beispielsweise mit bestimmten Booleschen Ausdrücken (UND, ODER, NICHT), nach einer bestimmten Sprache, einem bestimmtes Land, einem bestimmten Zeitraum, einem bestimmten Dateiformat etc. aus den erfassten Daten herausfiltert.
+Alternativ kann sich eine Suchmaschine darauf beschränken, von Anfang an nur passende Dokumente aufzunehmen.
+Beispiele sind etwa eine Suchmaschine für Weblogs (statt für das komplette Web) oder Suchmaschinen, die nur Dokumente von Universitäten verarbeiten, oder ausschließlich Dokumente aus einem bestimmten Land, in einer bestimmten Sprache oder einem bestimmten Dateiformat.
+Ein anderes Merkmal zur Kategorisierung ist die Quelle, aus der die von der Suchmaschine erfassten Daten stammen.
+Meistens beschreibt bereits der Name der Suchmaschinenart die Quelle.
+Wird die Datenbeschaffung manuell mittels Anmeldung oder durch Lektoren vorgenommen, spricht man von einem Katalog oder Verzeichnis.
+In solchen Verzeichnissen wie dem Open Directory Project sind die Dokumente hierarchisch in einem Inhaltsverzeichnis nach Themen organisiert.
+Dieser Abschnitt beschreibt Unterschiede in der Realisierung des Betriebs der Suchmaschine.
+Die Suchanfrage eines Nutzers wird vor der eigentlichen Suche interpretiert und in eine für den intern verwendeten Suchalgorithmus verständliche Form gebracht.
+Dies dient dazu, die Syntax der Anfrage möglichst einfach zu halten und dennoch komplexe Anfragen zu erlauben.
+Viele Suchmaschinen unterstützen die logische Verknüpfung von verschiedenen Suchworten durch Boolesche Operatoren und die exakte Suche nach ein oder mehreren Worten in Anführungszeichen.
+Dadurch lassen sich Webseiten finden, die bestimmte Begriffe enthalten, andere jedoch nicht.
+Eine neuere Entwicklung ist die Fähigkeit von etlichen Suchmaschinen, implizit vorhandene Informationen aus dem Zusammenhang der Suchanfrage selbst zu erschließen und zusätzlich auszuwerten.
+Die bei unvollständigen Suchanfragen typischerweise vorhandenen Mehrdeutigkeiten der Suchanfrage können so reduziert, und die Relevanz der Suchergebnisse (das heißt, die Übereinstimmung mit den bewussten oder unbewussten Erwartungen des/der Suchenden) erhöht werden.
+Aus den semantischen Gemeinsamkeiten der eingegebenen Suchbegriffe wird (siehe auch: Semantische Suche) auf eine, oder mehrere, hinterliegende Bedeutungen der Anfrage geschlossen.
+Die Ergebnismenge wird so um Treffer auf semantisch verwandte, in der Anfrage jedoch nicht explizit eingegebene Suchbegriffe, erweitert.
+Dies führt in der Regel nicht nur zu einer quantitativen, sondern, vor allem bei unvollständigen Anfragen und nicht optimal gewählten Suchbegriffen, auch zu einer qualitativen Verbesserung (der Relevanz) der Ergebnisse, weil die in diesen Fällen eher unscharf durch die Suchbegriffe abgebildeten Suchintentionen durch die von den Suchmaschinen verwendeten statistischen Verfahren in der Praxis erstaunlich gut wiedergegeben werden.
+(Siehe auch: semantische Suchmaschine und Latent Semantic Indexing).
+Unsichtbar mitgegebene Informationen (Ortsangaben, und andere Informationen, im Fall von Anfragen aus dem Mobilfunknetz) oder erschlossene 'Bedeutungsvorlieben' aus der gespeicherten Suchhistorie des Benutzers sind weitere Beispiele für nicht explizit in den eingegebenen Suchbegriffen vorgegebene, von etlichen Suchmaschinen zur Modifikation und Verbesserung der Ergebnisse verwendete Informationen.
+Es gibt daneben auch Suchmaschinen, die nur mit streng formalisierten Abfragesprachen abgefragt werden können, dadurch in der Regel jedoch auch sehr komplexe Anfragen sehr präzise beantworten können.
+Eine bislang noch nur ansatzweise oder auf beschränkte Informationsgrundlagen realisierbare Fähigkeit von Suchmaschinen ist die Fähigkeit zur Bearbeitung natürlichsprachiger sowie unscharfer Suchanfragen.
+(Siehe auch: semantisches Web).
+Suchanfragen sind oft unpräzise.
+So kann die Suchmaschine nicht selbstständig entscheiden, ob beim Begriff Laster nach einem Lkw oder einer schlechten Angewohnheit gesucht werden soll (semantische Korrektheit).
+Umgekehrt sollte die Suchmaschine nicht zu stur auf dem eingegebenen Begriff bestehen.
+Sie sollte auch Synonyme einbeziehen, damit der Suchbegriff Rechner Linux auch Seiten findet, die statt Rechner das Wort Computer enthalten.
+Viele mögliche Treffer gehen verloren, weil der Nutzer nach einer bestimmten grammatikalischen Form eines Suchbegriffes sucht.
+So findet die Suche nach dem Begriff Auto zwar alle im Suchindex enthaltenen Seiten, die diesen Begriff enthalten, nicht aber jene mit dem Begriff Autos.
+Manche Suchmaschinen erlauben die Suche mittels Wildcards, mit denen sich dieses Problem teilweise umgehen lässt (z. B. berücksichtigt die Suchanfrage Auto* auch den Begriff Autos oder Automatismus), allerdings muss der Nutzer die Möglichkeit auch kennen.
+Weiterhin wird oft Stemming verwendet, dabei werden Wörter auf ihren Grundstamm reduziert.
+So ist einerseits eine Abfrage nach ähnlichen Wortformen möglich (schöne Blumen findet so auch schöner Blume), außerdem wird die Anzahl der Begriffe im Index reduziert.
+Die Nachteile des Stemmings können durch eine linguistische Suche ausgeglichen werden, indem alle Wortvarianten erzeugt werden.
+Eine weitere Möglichkeit ist der Einsatz statistischer Verfahren, mit denen die Suchmaschine die Anfrage z. B. durch das Auftauchen verschiedener verwandter Begriffe auf Webseiten danach bewertet, ob mit der Suche nach Auto reparieren auch die Suche nach Autos reparatur oder Automatismus repariert gemeint gewesen sein könnte.
+Fachbegriffe und Produktbezeichnungen, zu deren Eigennamen ein Satzzeichen gehört (z. B. Apples Webservice .Mac oder C/net), können bei den gängigen Suchmaschinen nicht effektiv gesucht und gefunden werden.
+Lediglich für ein paar sehr häufige Begriffe (z. B. .Net, C#, oder C++) wurden Ausnahmen geschaffen.
+Die Datenmengen wachsen oft sehr schnell.
+Mit Datenmengen, welche beispielsweise zu groß, zu komplex, zu schnelllebig oder zu schwach strukturiert sind, um sie mit manuellen und herkömmlichen Methoden der Datenverarbeitung auszuwerten, beschäftigt sich Big Data.
+Viele Dokumente werden häufig aktualisiert, was die Suchmaschinen zwingt, diese Seiten nach definierbaren Regeln immer wieder neu zu indexieren.
+Dieses ist auch notwendig, um zwischenzeitlich aus der Datenbasis entfernte Dokumente zu erkennen und nicht länger als Ergebnis anzubieten.
+Suchen auf sehr großen Datenmengen so umzusetzen, dass die Verfügbarkeit hoch ist (trotz Hardware-Ausfällen und Netzengpässen) und die Antwortzeiten niedrig (obwohl oft pro Suchanfrage das Lesen und Verarbeiten mehrerer 100 MB Index-Daten erforderlich ist), stellt große Anforderungen an den Suchmaschinenbetreiber.
+Systeme müssen sehr redundant ausgelegt sein, zum einen auf den Computern vor Ort in einem Rechenzentrum, zum anderen sollte es mehr als ein Rechenzentrum geben, das die komplette Suchmaschinenfunktionalität anbietet.
+Websuchmaschinen haben ihren Ursprung in Information-Retrieval-Systemen.
+Die Datenbeschaffung erfolgt durch den Webcrawler der jeweiligen Suchmaschine wie bspw. Googlebot.
+Etwa ein Drittel aller Suchanfragen im Internet bezieht sich auf Personen und deren Aktivitäten.
+Suchanfragen lassen sich auf verschiedene Art kategorisieren.
+Im Online-Marketing und in der Suchmaschinenoptimierung (Suchmaschinenmarketing) spielt diese Einteilung eine Rolle.
+Die Seite, auf der die Suchergebnisse dem Benutzer ausgegeben werden (manchmal auch als Search engine results page, kurz: SERP, bezeichnet), gliedert sich (häufig auch räumlich) bei vielen Websuchmaschinen in die Natural Listings und die Sponsorenlinks.
+Während letztere ausschließlich gegen Bezahlung in den Suchindex aufgenommen werden, sind in ersteren alle dem Suchwort entsprechenden Webseiten aufgelistet.
+Einige Anbieter zeigen dem Nutzer, neben den eigentlichen Suchergebnissen, weitere zur Suche passende Schlagwörter an.
+Um dem Anwender die Benutzung der Websuchmaschinen zu erleichtern, werden Ergebnisse nach Relevanz (Hauptartikel: Suchmaschinenranking) sortiert, wofür jede Suchmaschine ihre eigenen, meistens geheim gehaltenen Kriterien heranzieht.
+Dazu gehören:
+Siehe auch:
+Verordnung zur Förderung von Fairness und Transparenz von Online-Vermittlungsdiensten und Online-Suchmaschinen der Europäischen Union.
+Websuchmaschinen werden meistens international betrieben und bieten somit Benutzern Ergebnisse von Servern, die in anderen Ländern stehen.
+Da die Gesetzgebungen der verschiedenen Länder unterschiedliche Auffassungen davon haben, welche Inhalte erlaubt sind, geraten Betreiber von Suchmaschinen oft unter Druck, gewisse Seiten von ihren Ergebnissen auszuschließen.
+So zeigen die marktführenden Websuchmaschinen seit 2006 bei aus Deutschland stammenden Suchanfragen keine Webseiten mehr als Treffer an, die von der Bundesprüfstelle für jugendgefährdende Medien als jugendgefährdend eingestuft wurden.
+Diese Praxis erfolgt von Seiten der Suchmaschinen freiwillig als automatisiertes Verfahren (Filtermodul) im Rahmen des Vereins Freiwillige Selbstkontrolle Multimedia-Diensteanbieter.
+Das regelmäßige Herunterladen der mehreren Milliarden Dokumente, die eine Suchmaschine im Index hat, stellt große Anforderungen an die Netzwerkressourcen (Traffic) des Suchmaschinenbetreibers.
+Mittels Suchmaschinen-Spamming versuchen manche Website-Betreiber, den Ranking-Algorithmus der Suchmaschinen zu überlisten, um eine bessere Platzierung für gewisse Suchanfragen zu bekommen.
+Sowohl den Betreibern der Suchmaschine als auch deren Kunden schadet dieses, da nun nicht mehr die relevantesten Dokumente zuerst angezeigt werden.
+Vor allem bei einer Personensuchmaschine ist der Datenschutz ein heikles Thema.
+Wenn über eine Personensuchmaschine eine Suche nach einem Namen gestartet wird, betreffen die Ergebnisse der Suche nur Daten, die allgemein zugänglich sind.
+Diese Daten sind auch ohne die Suchmaschine für die Allgemeinheit ohne Vornahme einer Registrierung bei einem Dienst oder Ähnlichem zugänglich.
+Die Personensuchmaschine selbst hält keine eigenen Informationen vor, sondern vermittelt nur den Zugang zu diesen.
+Korrekturen oder Löschungen müssen an der jeweiligen Ursprungsquelle vorgenommen werden.
+Weitere rechtliche Fragen ergeben sich bzgl. der Anzeige von Daten durch die Autovervollständigung (siehe Rechtslage in Deutschland).
+Da jede Suchanfrage (Server-)Strom verbraucht, gibt es Anbieter (sogenannte "grüne Suchmaschinen"), die auf CO2-ausgleichende oder -sparende Maßnahmen setzen (z. B. Bäume pflanzen, den Regenwald wiederaufforsten).

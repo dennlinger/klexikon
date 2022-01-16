@@ -1,0 +1,356 @@
+Twitter (englisch für "Gezwitscher") ist ein Mikrobloggingdienst des Unternehmens Twitter Inc.
+Auf Twitter können angemeldete Nutzer telegrammartige Kurznachrichten verbreiten.
+Die Nachrichten werden "Tweets" (von englisch to tweet "zwitschern") genannt.
+Twitter wurde im März 2006 unter dem Namen "twttr" mit einem grünen Markenzeichen gegründet und gewann weltweit rasch an Popularität:
+Der erste "Tweet" wurde am 21. März 2006 durch den Mitgründer Jack Dorsey mit dem Inhalt "just setting up my twttr." verschickt.
+Im Herbst 2006 wurde der Dienst ein Teil der Muttergesellschaft Obvious.
+Im April 2007 wurde Twitter Inc. von Jack Dorsey, Biz Stone und Evan Williams gegründet und damit von der bisherigen Muttergesellschaft Obvious ausgegliedert.
+Twitter verzeichnete stetiges Wachstum; alleine im Jahr 2010 registrierten sich rund 100 Millionen neue Nutzer.
+Seit April 2010 besitzt Twitter eine App für Smartphones und Tablets.
+Heute sind Apps für Android, iOS, Windows Phone, Blackberry, Firefox OS und einige Nokia-Handys verfügbar.
+Im April 2010 hatte Twitter 105 Millionen aktive Nutzer, im September 2011 200 Millionen und im zweiten Quartal 2015 304 Millionen.
+Im Juni 2012 wurde das Twitter-Logo ("Larry the bird") grundlegend verändert.
+Es ist seitdem einfarbig und wird bis heute verwendet.
+Im November 2013 ging die Twitter Inc. an die Börse, einen Monat zuvor zählte Twitter rund 218 Millionen aktive Nutzer.
+Ursprünglich wurde Twitter als SMS-basierende Plattform entwickelt, daher rührt auch das Zeichenlimit von 140 Zeichen.
+Im Oktober 2015 kamen Gerüchte auf, Twitter wolle die Grenze von 140 Zeichen für einen Tweet auflösen oder zumindest eine Möglichkeit schaffen, direkt auf der Plattform längere Texte einzubinden.
+Im März 2016 gab Jack Dorsey bekannt, an der 140-Zeichen-Grenze festzuhalten.
+Am 19. September 2016 lockerte jedoch Twitter die 140-Zeichen-Begrenzung.
+Künftig würden "angehängte Fotos und Videos sowie zitierte Tweets nicht mehr auf die Gesamtlänge des eigenen Beitrags angerechnet und verkürzen damit nicht mehr den verbleibenden Platz." Zudem startete das Unternehmen einen Test mit einer Verdopplung des bisherigen Zeichenlimits einzelner Tweets auf 280 Zeichen.
+Definierte Nutzergruppen sollten diese Funktion in allen Sprachen bis auf Japanisch, Chinesisch und Koreanisch testen.
+In diesen Sprachen würden ohnehin nur sehr kurze Nachrichten "getwittert".
+Seit Mai 2018 werden Tweets von Accounts, die durch Trolling und Verletzung der Twitter-Richtlinien aufgefallen sind, automatisch verborgen und erst durch Betätigen einer entsprechenden Schaltfläche geladen.
+Im Juli 2019 wurde die voreingestellte Webanwendung für Desktop- und Laptoprechnerbenutzer zur umgestalteten progressiven Webanwendung gewechselt.
+Diese basiert auf der erstmals im April 2017 für Mobilgeräte eingeführten progressiven Webanwendung "Twitter Lite".
+Am 1. Juni 2020 wurde der Zugriff auf die klassische, seit 2014 bestehende "Desktop"-Version der Webpräsenz für alle Benutzer endgültig deaktiviert.
+Twitter wird als Kommunikationsplattform, soziales Netzwerk oder meist öffentlich einsehbares Online-Tagebuch definiert.
+Privatpersonen, Organisationen, Unternehmen und Massenmedien nutzen Twitter als Plattform zur Verbreitung von kurzen (max. 280 Zeichen) Textnachrichten (Tweets) im Internet.
+Im Gegensatz zu Facebook steht nicht der Kontakt mit bekannten Freunden im Vordergrund.
+Nach der Anmeldung bei Twitter erhält man grundsätzlich zwei unterschiedliche Seiten.
+Unter www.twitter.com/eigenerName erscheinen chronologisch alle eigenen Tweets.
+Unter www.twitter.com/home werden eigene Tweets und Tweets von Seiten denen man folgt angezeigt.
+Als zentralisiert betriebenes Angebot ist Twitter - im Gegensatz zu dezentralen Plattformen wie Memo.cash - zensierbar.
+Tweets können daher gelöscht werden, und zwar sowohl vom Autor als auch vom Plattform-Betreiber.
+Wie der Betrieb erfolgt auch die Entwicklung der Plattform zentralisiert, im Gegensatz zu Plattformen wie Mastodon, die den gesamten Quelltext und das verwendete Protokoll ActivityPub öffentlich dokumentieren.
+Für die Anmeldung werden drei bisher nicht bei Twitter verwendete Angaben benötigt:
+Eine E-Mail-Adresse, eine Profilbezeichnung (das ist der Nutzername) und eine Telefonnummer für die Verifizierung des Kontos.
+Bei der Anmeldung wird zwar auch ein "vollständiger Name" erfragt, dieser dient jedoch vor allem dazu, diese Angabe neben diversen anderen im Profil anzuzeigen.
+Ein Echtname wird im Gegensatz zu Facebook nicht erwartet.
+Überdies ist es möglich, den Namen sowie den @-Nutzernamen später beliebig oft zu ändern.
+Es wird außerdem ein Passwort benötigt.
+Die maximale Länge eines Tweets ist seit November 2017 auf 280 Unicode-Zeichen (vorher 140) angehoben worden.
+Er ist standardmäßig öffentlich, also auch für unangemeldete Leser sichtbar.
+Er kann Hashtags (mit #), Links (als URL), Verweise auf andere Nutzerprofile (mit @) sowie Bilder (als URL oder direkt eingefügt) und Standorte enthalten.
+Tweets werden in erster Linie den sogenannten "Followern" eines Benutzers angezeigt, vor allem über Hashtags oder Verlinkungen/ Retweets kann aber auch ein breiteres Publikum erreicht werden.
+Die Beiträge sind häufig aus der Ich-Perspektive geschrieben und können völlig unterschiedliche Inhalte haben; häufig werden persönliche Meinungen und aktuelle Tätigkeiten veröffentlicht.
+Es werden auch mit anderen Nutzern Konversationen geführt.
+Letzteres führt dann zu einem Thread, der einzeln angezeigt werden kann.
+Seit Dezember 2017 können auch mehrere Tweets (max. 25) eines Nutzers zu "Threads" verkettet werden.
+Damit sollen Nutzer die Möglichkeit erhalten, längere Beiträge zu veröffentlichen.
+Die Beiträge anderer Nutzer können favorisiert ("gelikt"), durch das eigene Benutzerkonto weiter verteilt ("geteilt" / "retweetet") oder mit einem eigenen Tweet kommentiert werden.
+Die Verfasser selbst werden als "Twitterer" oder als "Tweeter", seltener als "Tweeps" bezeichnet.
+Das Mikroblog bildet ein Echtzeit-Medium zur Darstellung von Meinungen und Aspekten des eigenen Lebens.
+Kommentare oder Diskussionen der Leser zu einem Beitrag sind denen möglich, die ein Twitter-Konto haben, wodurch eine beschränkte Form der Kommunikation möglich ist.
+Die Tätigkeit des Schreibens auf Twitter wird als "Twittern", die Liste der abonnierten Beiträge häufig als "Timeline" oder kurz "TL" bezeichnet.
+Ursprünglich wurden die Tweets bei Twitter chronologisch angezeigt.
+Ab Februar 2016 wurde die Reihenfolge der Tweets in der Timeline durch einen Algorithmus bestimmt, der Tweets nicht mehr chronologisch, sondern nach Relevanz sortierte.
+Im September 2018 revidierte Twitter die Abschaffung der chronologische Timeline.
+Nutzer können nun selbst entscheiden, welche der beiden Ordnungen sie wählen wollen.
+Es besteht die Möglichkeit, sämtliche verfasste Tweets nur akzeptierten Followern zugänglich zu machen, diese Option heißt geschützte Tweets.
+Am 8. Januar 2010 hat die American Dialect Society den Begriff tweet zum Word of the Year 2009 gewählt.
+Ein Hashtag (z. B. #wikipedia) ist ein Begriff in Form eines Tags, der ein Wort oder eine Zeichenkette in einem Tweet hervorhebt.
+Die Bezeichnung stammt vom Doppelkreuz "#" (englisch hash), mit dem der betreffende Begriff markiert wird.
+Im Gegensatz zu anderen Tag-Konzepten werden Hashtags direkt in die eigentliche Nachricht eingefügt.
+Daher werden in einem Tweet alle Begriffe, vor denen ein Doppelkreuz steht, von Twitter als Tags interpretiert.
+Das Hashtag kann aus Buchstaben und Ziffern bestehen, es dürfen jedoch weder Satz- noch Leerzeichen enthalten sein.
+Retweets oder Re-Tweets (deutsch "wieder" oder "zurück Tweeten") dienen dazu, den Tweet eines anderen Nutzers mit den eigenen Followern zu teilen.
+Über die integrierte Retweet-Funktion wird immer auch der Urheber des ursprünglichen Tweets angegeben.
+Der Ausgangstweet kann beim Retweeten auch kommentiert werden.
+Im deutschen Twitterjargon werden Retweets mit Kommentar gelegentlich als "Drüber-Kommentare", kurz DrüKos, (analog "Drunter-Kommentare", DruKos) genannt.
+Einen Tweet nur teilweise zu zitieren ist über die Retweet-Funktion allerdings nicht möglich.
+Nutzer haben die Möglichkeit, einen Tweet zu "liken" bzw. zu "faven".
+Dargestellt wurde dies bis zum 3. November 2015 mit einem kleinen Sternensymbol, dem sogenannten "Favstar" (dt.
+"Favoriten-Stern").
+Inzwischen wurde es durch ein kleines Herzsymbol ersetzt.
+Grund für die Änderung war, dass viele Twitter-Nutzer den "Favstar" bereits zum "Liken" eines Tweets verwendet haben, weil sie es von Facebook oder Instagram so kennen.
+Für das "Liken" haben Nutzer unterschiedliche Motivationen, dennoch bringen sie dadurch meist zum Ausdruck, dass ihnen etwas gefällt, sie etwas zustimmen oder sie etwas unterstützen.
+Will man zukünftig über Beiträge anderer Nutzer informiert werden, kann man ihnen "folgen".
+So abonniert man den Nutzer entsprechend, und dessen Tweets werden daraufhin in der eigenen Timeline angezeigt.
+Ein Nutzer, der einem anderen folgt, wird als "Follower" (von englisch follow "folgen") bezeichnet.
+Um die Beiträge einer selbst definierten Gruppe von Nutzern angezeigt zu bekommen, kann man eine Liste erstellen.
+Dazu sucht man einen kurzen Listennamen (maximal 25 Zeichen) aus, erstellt eine kurze Beschreibung und legt fest, ob die Liste privat (Zugriff nur durch den Listenersteller) oder öffentlich (jeder kann die Liste abonnieren) sein soll.
+Eine öffentliche Liste ist auch ohne ein eigenes Twitter-Konto einsehbar, sofern die dazugehörige URL bekannt ist.
+Nicht jede Kommunikation muss auf Twitter öffentlich verlaufen, es ist ebenso möglich, anderen Nutzern private Direktnachrichten zu senden.
+Die Nutzer können dabei einstellen, ob sie nur von gefolgten Nutzern Nachrichten erhalten möchten oder von allen Twitter-Nutzern.
+Im Juli 2012 kündigte Dick Costolo eine Funktion an, die den Export sämtlicher Tweets eines Nutzers in eine Datei ermöglichen soll.
+Damit werden Anwender befähigt, ihre Tweets und Retweets auf ihrem eigenen Rechner zu archivieren.
+Ende Dezember 2012 wurde die Funktion für alle Twitterer freigeschaltet.
+Am 17. November 2020 führte Twitter die Funktion des "Fleets" ein.
+Das Kofferwort steht für "fleeting Tweets" (flüchtige Tweets) und bezeichnet Text-, Bild- und Videonachrichten, die nur 24 Stunden angezeigt werden.
+Laut dem Unternehmen gehe es darum, zurückhaltende Benutzer zu animieren und einen Raum für persönliche und flüchtige Gedanken bereitzustellen.
+Eine ähnliche Funktion wurde erstmals von dem Instant-Messaging-Dienst Snapchat angeboten und vor Twitter bereits von einigen anderen Diensten wie Instagram und WhatsApp adaptiert.
+Über eine Programmierschnittstelle (API) stellen Komplementoren die über Twitter veröffentlichten Nachrichten zur Verfügung, damit die Aktualisierungen auf verschiedenen Kanälen von vielen Diensten abgerufen und von dort auch wieder eingespeist werden können.
+Dem Benutzer stehen unter anderem Kommunikationstechniken wie SMS (nur Vereinigte Staaten, Kanada und Indien) zur Verfügung.
+Im August 2008 hat Twitter den Versand von SMS-Kurznachrichten außerhalb der Vereinigten Staaten, Kanadas und Indiens eingestellt.
+Zudem stehen auch einfache Eingabehilfen über die Twitter-Website (RSS) oder Desktop-Software zur Verfügung.
+Bei Veranstaltungen kann eine Twitterwall eingesetzt werden - eine "Wand", an die oder auf der Tweets zu einem vorher bestimmten einheitlichen Hashtag projiziert werden, sodass sie von allen Teilnehmenden gelesen werden können.
+Seit Mai 2012 ist es möglich, sich die besten Tweets der Woche per E-Mail zusenden zu lassen.
+So erhält der Nutzer eine Übersicht über die relevantesten Tweets jener Konten, denen er folgt, beziehungsweise über jene, die von abonnierten Konten besonders häufig geteilt oder kommentiert wurden.
+Im Juni 2012 wurde bekannt, dass in Tweets gesetzte Links verschiedener Medien künftig Vorschauen und Bilder in sich tragen.
+Über einen Button, der mit einer Glocke versehen ist, kann man sich via App neue Tweets von bestimmten Nutzern als Push-Benachrichtigung auf dem Smartphone anzeigen lassen.
+Über die Twitter-eigene mobile Applikation Periscope haben Anwender die Möglichkeit der Video-Direktübertragung (Live-Streaming) vom Mobiltelefon aus.
+Twitter setzt Java für die Erzeugung von Webseiten ein.
+Ursprünglich war die Message Queue, die für die Weiterleitung der eigentlichen Nachrichten zuständig ist, in Ruby geschrieben.
+Diese musste jedoch aufgrund von Skalierungsproblemen neu geschrieben werden, was in der Programmiersprache Scala erfolgte.
+Für die Oberflächengestaltung verwendet Twitter ein eigens entwickeltes UI-Framework namens Bootstrap, welches als Open-Source-Projekt der Allgemeinheit zur Verfügung gestellt wird.
+Die Twitter-API erlaubt die Integration von Twitter in andere Webdienste und Anwendungen.
+Twitter kann neben spezialisierten Clients wie Seesmic Desktop auch in verschiedenen anderen Programmen verwendet werden, beispielsweise im Kundenbeziehungsmanagement-Dienst Salesforce.com, den Instant-Messaging-Client-Diensten Adium, Digsby oder im Flock-Browser.
+T-Mobile USA hat in sein Sidekick-Mobiltelefon neben Facebook auch Twitter integriert.
+Mittels Erweiterungen lassen sich zusätzliche Informationen über den Absender und die Empfängergruppe anzeigen, wie etwa der jeweilige Standort auf dem Kartendienst Google Maps.
+Mit spezialisierten Clients wie TweetDeck lassen sich Nachrichten übersichtlicher darstellen.
+So kann auch bei mehreren Twitter-Konten die Übersicht behalten werden.
+Am 9. April 2010 wurde bekannt, dass Twitter die Entwicklerschmiede des mobilen Clients Tweetie übernommen hat und zukünftig eine Applikation für das Apple iPhone kostenlos anbieten möchte.
+Die offizielle Twitter-Applikation erschien am 19. Mai 2010 im App Store.
+Twitter war 2007 ungefähr zu 98 Prozent der Zeit erreichbar, das heißt, insgesamt über einen Zeitraum von sieben vollen Tagen nicht.
+Twitters Ausfallzeiten fielen insbesondere während gut besuchter Veranstaltungen der Technologie-Industrie auf, wie der Macworld-Conference-&-Expo-Eröffnungsansprache im Jahre 2008.
+Im Mai 2008 wurde die Software-Architektur dem Wachstum des Dienstes angepasst, jedoch führten Stabilitätsprobleme zu Ausfallzeiten oder zum zeitweisen Entfernen von Funktionen.
+Im August 2008 zog Twitter die freien SMS-Dienste zeitweise für den größten Teil der Welt zurück.
+Die erste Sicherheitslücke bei Twitter wurde am 7. April 2007 von Nitesh Dhanjani gemeldet.
+Das Problem entstand dadurch, dass Twitter die Absenderangabe einer SMS als Authentifizierung für ein Benutzerkonto nutzte.
+Nitesh verwendete einen Free-SMS-Dienst, um eine SMS zu manipulieren, woraufhin Twitter die Nachricht im Namen des Opfers verbreitete.
+Diese Sicherheitslücke kann nur ausgenutzt werden, wenn die Telefonnummer des Opfers bekannt ist.
+Wenige Wochen nach dieser Entdeckung führte Twitter eine optionale PIN ein, um SMS authentifizieren zu können.
+Am 20. März 2009 wurde eine weitere Sicherheitslücke entdeckt, nachdem Twitter kurz zuvor ein Problem mit fälschbaren SMS-Aktualisierungen zumindest provisorisch hatte lösen können.
+Bei der neuen Lücke handelt es sich um eine Cross-Site-Scripting-Lücke, die prinzipiell sogar ein Wurm ausnutzen könnte.
+Am 21. September 2010 wurde das Webinterface von Twitter das Opfer eines Angriffs via Cross-Site-Scripting, bei dem der JavaScript-Befehl "onmouseover" genutzt wurde.
+Dies veranlasste die Nutzer dazu, teilweise automatisch die ungewünschten Inhalte unter ihren Followern weiterzuverbreiten, ähnlich der Weiterverbreitung eines Computerwurms.
+Die Auswirkungen betrafen dabei nicht die Benutzung des Dienstes über Apps bzw. Clients.
+Nach ersten Medienberichten führte ein Bug beim Kurz-URL-Dienst "t.co" von Twitter zur clientseitigen Ausführung des Javascript-Codes.
+Im Mai 2018 gab das Unternehmen bekannt, dass Passwörter von Benutzerkonten unverschlüsselt bzw. unmaskiert in einer Verzeichnisdatei gespeichert wurden.
+Nach Twitter-Angaben ist der Fehler intern entdeckt und behoben worden; Hinweise auf Missbrauch oder Datendiebstahl gäbe es nicht.
+Aus Sicherheitsgründen forderte das Unternehmen seine User auf, ihre Kennwörter zu ändern.
+Wie viele der insgesamt über 300 Millionen Twitter-Konten von der Sicherheitslücke betroffen seien, gab das Unternehmen nicht bekannt.
+Twitter sammelt personenbezogene Daten seiner Benutzer und teilt sie Dritten mit.
+Twitter sieht diese Informationen als einen Aktivposten und behält sich das Recht vor, sie zu verkaufen, wenn das Unternehmen seinen Eigentümer wechselt.
+Im Mai 2011 händigte Twitter, vermutlich erstmals, nach einer Klage vor einem kalifornischen Gericht die IP-Adressen, Mobilfunknummern, E-Mail-Adressen und weitere Daten von mehreren Nutzerkonten an den Gemeinderat des englischen South Tyneside aus, um den Urheber von Beleidigungen gegen Ratsmitglieder zu identifizieren.
+Seit Mitte Mai 2012 kann mithilfe des Do-Not-Track-Headerfeldes (DNT) einiger Browser das Sammeln personenbezogener Daten deaktiviert werden.
+Dies wurde von Mozilla, den Erfindern des DNT-Feldes, begrüßt.
+Im Juli 2020 kündigte Twitter an, dass das Unternehmen keine Daten an die Behörden von Hongkong mehr weiter gäbe, während das Unternehmen das von der chinesischen Regierung auferlegte nationale Sicherheitsgesetz von Hongkong bewertete.
+Der Gründer Evan Williams sammelte etwa 22 Millionen US-Dollar Risikokapital zum Betrieb und Ausbau seines Dienstes ein.
+Twitter ist durch Fred Wilsons Union Square Ventures, Digital Garage, Spark Capital und Jeff Bezos' Bezos Expeditions finanziell abgesichert.
+The Industry Standard verwies auf das Fehlen von Einnahmen als Gefahr für die langfristige Lebensfähigkeit.
+2008 verkaufte Twitter keine Werbung und erzielte keinerlei Einnahmen.
+Am 12. September 2013 reichte das Unternehmen bei der US-Börsenaufsichtsbehörde SEC einen Börsenprospekt als Voraussetzung für eine Börsennotierung ein.
+Am 7. November war Twitter mit einem Ausgabekurs von 26 USD erstmals an der New York Stock Exchange (NYSE) notiert und schloss an diesem Tag mit einem Kurs von 44,90 USD, nachdem vormittags sogar kurzzeitig um 50 USD erreicht worden sind.
+Von 2011 bis 2016 erwirtschaftete das Unternehmen einen Verlust von 2 Milliarden Dollar.
+2013 übernahm Twitter das Unternehmen MoPub für rund 350 Millionen Dollar.
+2014 folgte die Anzeigenplattform Namo Media für weniger als 100 Millionen Dollar.
+Laut einer Nutzerstatistik des Marktforschungsunternehmens Nielsen hatte Twitter im Juni 2009 in Deutschland 1,8 Millionen Nettonutzer (Unique Audience).
+Damit habe sich die Nutzerzahl von Twitter in Deutschland laut dieser Nielsen-Studie von April 2009 bis Juni 2009 fast verdoppelt.
+Allerdings zeigt die "Loyalitätsanalyse" von Nielsen, dass lediglich "35,7 Prozent der Nutzer des Vormonats im Juni erneut Twitter besucht haben." Die Studie fand weiterhin heraus, dass der Großteil der Twitter-Nutzer im Juni 2009 nur einmal (71,1 Prozent) und nur 14,8 Prozent der Nutzer mindestens dreimal auf der Webseite waren.
+Und nur 6,5 Prozent der Twitter-Nutzer hätten im Juni 2009 mehr als 30 Minuten auf der Seite verbracht.
+Das Fazit von Nielsen zum Nutzerverhalten der Twitter-Nutzer aus dieser Studie lautet: "Auf der einen Seite steht das enorme Interesse und der Zuwachs der Nutzerzahlen.
+Auf der anderen Seite statteten die Nutzer Twitter nur wenige Besuche ab und viele Nutzer des Vormonats sind nicht wieder zurückgekehrt."
+Zahlen für Österreich werden regelmäßig durch den Social Media Radar Austria erhoben.
+Demnach hatte Twitter im Mai 2015 128.505 österreichische Nutzer, wovon 41.275 schreibende Konten waren.
+Insgesamt existierten in Österreich 58.452 aktive Konten.
+Die Daten von Social Media Radar Austria basieren auf der Twitter-Programmierschnittstelle und wurden von Social Media Radar Austria mit eigens entwickelten Algorithmen extrahiert.
+Hierbei können nur die User richtig zugeordnet werden, die einen korrekten Wohnort in Österreich eingetragen haben.
+Die durch Social Media Radar Austria erhobenen Reichweiten-Zahlen entsprechen angeblich nicht der reellen Twitter Reichweite in Österreich.
+Es wird vermutet, dass die tatsächliche Twitter Reichweite in Österreich ca. 4-mal so hoch sein könnte.
+Die vom Unternehmen verbreiteten Reichweiten-Zahlen können über ads.twitter.com eingesehen werden.
+Demographische Informationen über die Twitter-Nutzer: Laut einer Online-Twitterumfrage vom März 2009, in der 2779 brauchbare Datensätze ausgewertet wurden, war das Durchschnittsalter der deutschen Twitter-Nutzer 32 Jahre, 74 Prozent der Nutzer waren männlich und 78 Prozent hatten Abitur.
+Laut dieser Umfrage würden zudem zwei von drei Twitter-Nutzern selbst einen eigenen Blog betreiben und unter anderem über Technik, Web-2.0-Themen oder Privates schreiben.
+50 Prozent der Nutzer würden aus der Medien- oder Marketingbranche stammen und jeder Vierte sei Führungskraft oder Unternehmer.
+Laut plattformeigenen Angaben haben sich per Ende 2011 rund 100 Millionen Nutzer mindestens einmal pro Monat mit einem eigenen Konto bei Twitter eingeloggt, rund die Hälfte davon täglich.
+Im November 2013 hatte Twitter gut 230 Millionen aktive Nutzer.
+55 % der User nutzen mobile Endgeräte.
+40 % der User nutzen Twitter lediglich zur Informationsbeschaffung, ohne selber Kurznachrichten zu publizieren.
+Mittlerweile hat Twitter mehr als 1,48 Milliarden Mitglieder (Stand Juni 2013).
+Japanische Version
+Am 22. April 2008 gab Twitter in seinem Blog bekannt, dass es eine Version für japanische Benutzer geschaffen habe, weil diese wichtige Anwender des Dienstes seien.
+Die Benutzeroberfläche blieb jedoch vollständig auf Englisch.
+Eine Woche nach dem Start wurde berichtet, dass die japanische Version von Twitter an Fahrt gewinne.
+Japanisch war zu diesem Zeitpunkt nach Englisch die zweithäufigste verwendete Sprache bei Twitter.
+Weitere Sprachversionen
+Im November/Dezember 2009 wurde das Benutzerinterface von Twitter nacheinander in den Sprachen Spanisch, Französisch, Italienisch und Deutsch verfügbar gemacht.
+Die Übersetzungen wurden durch die Mithilfe freiwilliger Übersetzer erstellt.
+Der Tweet mit der höchsten Reichweite stammt von der Familie von Chadwick Boseman welche mit folgenden Worten und einem Bild des Verblichenen dessen Ableben bekanntgibt: "It is with immeasurable grief that we confirm the passing of Chadwick Boseman.
+Chadwick was diagnosed with stage III colon cancer in 2016, and battled with it these last 4 years as it progressed to stage IV...".
+Am 3. April 2021 erreichte der Tweet mehr als 7,4 Millionen Likes.
+Im Netz werden viele Aktionen angeboten, mit denen man seine Followerzahlen erhöhen kann.
+Auch der Dienst "Twittercounter" (der von Twitter offiziell betrieben wurde) bietet Twitter-Follower gegen Geld an.
+Mit dem Service "Tweepi" kann man mehreren Personen gleichzeitig folgen.
+Ob diese Personen dann auch zurück folgen, ist diesen freigestellt und hängt von der empfundenen Relevanz ab.
+Mehrfaches Folgen und Entfolgen derselben Person wird in der Regel als Spamming aufgefasst.
+Forscher gingen 2013 davon aus, dass nur etwa 35 % der "Follower" eines durchschnittlichen Twitternutzers reale Personen sind, während der Rest aus sogenannten "Socialbots" besteht, Computerprogrammen, die sich als reale Personen tarnen.
+Die Zwecke, für die Twitter über die individuelle Kommunikation hinaus genutzt wird, sind vielfältig.
+Öffentliche Einrichtungen stellen Informationen bereit; z. B. unterhält die US-Weltraumbehörde NASA Twitter-Feeds zu diversen Projekten; es wurden auch Feeds vom Weltraum aus bedient.
+Das Los Angeles Fire Department verwendete den Service zur Informationsverbreitung während der Waldbrände in Südkalifornien 2007.
+In der Hochschullehre werden bereits erste Erfahrungen zum Einsatz von Twitter gesammelt.
+Einzelne Universitäten verteilen Informationen an ihre Studenten und nutzen Twitter zur Bewertung der Lehre.
+Auch Wissenschaftler nutzen Twitter während Konferenzen, um abwesende Kollegen zu informieren.
+Unternehmen nutzen Twitter, um Produktinformationen bereitzustellen und mit ihren Kunden zu kommunizieren.
+Das Mikro-Blogging dient dabei auch als Marketing- und Marktforschungsinstrument zur Produkt- und Unternehmensentwicklung.
+So hat es beispielsweise Microsoft geschafft, erfolgreich einen Supportkanal für seine Spielkonsole Xbox zu etablieren.
+Ein firmeneigenes Team durchsucht Twitter mit Monitoring Tools automatisch auf relevante Schlüsselwörter, die mit der Xbox zu tun haben.
+Daraufhin wird aktiv reagiert, wenn ein Nutzer eine Frage oder ein Problem hat und dies in seinem eigenen Twitter-Profil kundtut.
+Microsoft kontaktiert diese Benutzer dann direkt und bietet Hilfestellung an.
+Nachrichtenagenturen sowie renommierte Medien wie die BBC und das ZDF haben ebenfalls begonnen, Twitter zu benutzen.
+Durch seinen Kurznachrichten-Charakter sind Hinweise auf aktuelle Ereignisse bei Twitter oft sogar schneller zu finden, als redaktionell bearbeitete Medien dies leisten könnten.
+Beispiele sind die Notwasserung von US-Airways-Flug 1549 oder der Amoklauf von Winnenden.
+An letzterem zeigte sich jedoch auch, dass die Unmittelbarkeit der Nachrichtenübertragung per Twitter dazu führen kann, dass unüberprüfbare Falschmeldungen und Gerüchte multipliziert werden.
+Google News hat bestimmten Twitter-Benutzern dieselbe News-Priorität wie kleineren Zeitungen zugeteilt und deren "Aktualisierungen" erscheinen gelegentlich auf der amerikanischen Version von Google News.
+Auch Technorati durchsucht die aktuellen Einträge nach Auswertbarem, OneRiot hat sich auf Twitter und vergleichbare Dienste spezialisiert.
+Im politischen Raum wird Twitter ebenso eingesetzt; so hielt z. B. das Wahlkampfteam von Barack Obama im Jahre 2008 alle Helfergruppen mit Kurznachrichten "online".
+So kommunizierten die Wahlkampfteams des US-Präsidentschaftskandidaten Barack Obama per Twitter.
+Auf dem Parteikonvent 2008 der Demokraten kam Twitter verstärkt zum Einsatz.
+US-Präsident Donald Trump (bzw. Personen aus seinem Team) twitterte praktisch täglich und steuerte damit die Wahrnehmung zentraler Positionen der amerikanischen Regierung weltweit.
+Politische Aktivisten koordinierten Straßenproteste gegen einen Parteitag der US-Republikaner in Minneapolis/St. Paul.
+Im Rahmen der Wahlen im Iran 2009 erwies sich Twitter als wichtiges Instrument der Opposition.
+So konnten Anhänger von Hussein Mussawi trotz Internet-Zensur der iranischen Regierung Informationen weltweit verbreiten, die Sender wie die ARD, das ZDF oder verstärkt der US-Sender CNN ihrerseits für Berichte nutzten.
+Es wurde jedoch kritisiert, dass Nachrichtendienste zunehmend die Berichterstattung via Twitter beeinflussen wollten.
+Ein systematischer Literaturüberblick zeigt, dass Twitter während einer Reihe sozialer und politischer Bewegungen eingesetzt wurde: 2007 WikiLeaks, 2009 Moldau, 2009 Österreichische Studentenproteste, 2009 Israel-Gaza, 2009 Arabischer Frühling, 2009 Toronto G20, 2010 Venezuela, 2010 Stuttgart21 Deutschland, 2011 Ägypten, 2011 England, 2011 USA Occupy Wall Street, 2011 Spanien, 2011 Griechenland, 2011 Italien, 2011 USA Wisconsin, 2012 Israel Hamas, 2013 Brasilien, 2013 Türkei.
+Anlässlich der Bundesversammlung 2009 wurden verschiedene Textnachrichtendienste genutzt, um vorab das Ergebnis der Wahl des Bundespräsidenten zu streuen.
+So wurden bereits ab 14:00 Uhr SMS mit dem Auszählungsergebnis versendet, um 14:15 Uhr twitterte dann der SPD-Abgeordnete Ulrich Kelber das Ergebnis.
+Gegen 14:18 Uhr veröffentlichte die CDU-Abgeordnete Julia Klöckner, die überdies in der Stimmauszählungskommission saß, das Resultat der Wahl.
+Die frühzeitige Bekanntgabe des Wahlergebnisses über Twitter führte zu heftigen Diskussionen in Kreisen des Bundestages.
+Die SPD verlangt deshalb, im Bundestag die Einrichtung von Störsendern zu prüfen.
+Auch bei Wahlen für die Landtage im Saarland, in Sachsen und Thüringen gelangten Wahlprognosen vor der Schließung der Wahllokale mittels Twitter an die Öffentlichkeit.
+Die veröffentlichten Zahlen unterschieden sich nicht maßgeblich von denen, die um 18 Uhr in der ARD und im ZDF veröffentlicht wurden.
+Durch diesen Sachverhalt entstand die Diskussion um eine mögliche Beeinflussung und entsprechende Ungültigkeit der Wahlen.
+In der CDU twittern neben einigen Bundestagsabgeordneten beispielsweise die ehemalige Bundesfamilienministerin Kristina Schröder und Wirtschaftsminister Peter Altmaier.
+Von den Spitzengrünen twittert Volker Beck, der allerdings die Spezifität des Mikro-Bloggings als Kommentarmöglichkeit versteht.
+Er wird laut FAS "in der sog. Internetgemeinde allseits als sachverständigster Twitterer gelobt.
+Er verzichtet völlig auf private Anekdoten und glaubt offensichtlich tatsächlich an den Dialog mit seinen Anhängern." Auch der ehemalige Parteivorsitzende Reinhard Bütikofer hat nach anfänglicher Skepsis Twitter als intensiven Kommunikations- und Dialogkanal entdeckt.
+Die stellvertretende Parteivorsitzende der Linken Halina Wawzyniak twittert seit Januar 2009.
+Auch die FDP-Fraktion im Deutschen Bundestag setzte diese Kommunikationstechnik ein, um auf ihre Pressemitteilungen aufmerksam zu machen.
+Die Bundespartei und einige Landesverbände der Grünen twittern und berichten dabei über ihre Parteitage und Veranstaltungen.
+Der ehemalige Generalsekretär der SPD, Hubertus Heil, hatte als Gast auf dem Kongress der US-Demokraten die Twitter-Technik kennengelernt und für die SPD-Gremien und die Fraktion eingeführt.
+In Deutschland unterhielten verschiedene Politiker im Wahlkampf zur Landtagswahl in Hessen 2009 Twitter-Feeds.
+Mindestens ein Kanal wurde dabei vom Satire-Magazin Titanic persifliert, das einen eigenen Kanal eröffnete und sich für den betroffenen Politiker ausgab.
+Der erste Wahlkampf in Deutschland, in dem Twitter seinen Einsatz fand, war die hessische Landtagswahl 2009, in der alle großen Parteien eigene Twitter-Seiten hatten, etwa die CDU mit einem Blog sowie der SPD-Spitzenkandidat Thorsten Schäfer-Gümbel mit einem personalisierten Twitter-Konto.
+Im Landtagswahlkampf Baden-Württemberg 2011 spielte Twitter neben klassischer Präsent- und Plakatwerbung hingegen kaum eine Rolle.
+Aufgrund der Diskussion über den Obama-Wahlkampf versuchten auch Medien-Institute, im Vorfeld des Bundestagswahlkampfes 2009 auf sich aufmerksam zu machen.
+So hat eine Studie von Nielsen Media Research die gefälschten und tote Konten nicht aussortiert und danach die Twitter-Stärke der Parteien bewertet.
+Durch die Auswertung von Hashtags kann ein politisches Stimmungsbild der Benutzer von Twitter wiedergegeben werden.
+Auch Museen, Theater, Orchester und soziokulturelle Zentren nutzen immer häufiger aktiv Twitter.
+In einer im Herbst 2009 durchgeführten Umfrage unter Twitter-Nutzern, die im Kulturbereich tätig sind, meinten 84 Prozent, dass Kultureinrichtungen Twitter erfolgreich für Marketing und Werbung einsetzen können, jedoch nur 45 Prozent, dass Twitter verstärkt Teil des Kulturschaffens werden sollte, also z. B. in Form einer Twitter-Oper (wie in der Londoner Royal Opera aufgeführt).
+Als Hauptgründe für die Twitter-Nutzung wurde angegeben, dass man durch Twitter zu kulturellen Ereignissen besser informiert ist und neue Kontakte zu Kulturschaffenden gewonnen habe.
+Über 40 Prozent der Befragten gaben an, dass zur Pflege ihrer kulturellen Interessen Twitter unverzichtbar geworden sei.
+Zudem kann Twitter als Analyseinstrument für Kinoerfolge dienen.
+Wissenschaftler des HP-Labs in Palo Alto haben verschiedene Algorithmen entwickelt, mithilfe derer man mit einer Genauigkeit von über 95 Prozent die Besucherzahlen am Startwochenende eines neuen Kinofilms berechnen kann.
+Seit es Twitter in Deutschland gibt, treffen sich regelmäßig Nutzer der Plattform auch im "realen Leben".
+Eine Zeit lang gab es fast jeder Großstadt einen Twitter-Stammtisch, teilweise auch unter Namen "Pl0gbars", etwa in München, Köln, Essen oder in Hamburg.
+Zu den größten regelmäßigen Treffen dieser Art gehört die letztmals 2018 unter dem Namen "#twerlin" organisierte Zusammenkunft, die bislang achtmal stattgefunden hat.
+In der Regel kommen bei solchen Treffen Nutzer einer bestimmten Bubble zusammen, um im lockeren Rahmen über die Plattform Twitter zu diskutieren.
+Noch einen Schritt weiter gingen die Veranstalter des im Sommer 2019 in Krefeld ausgerichteten Twitter-Festivals ("Twytter-Festiv@l"), bei dem Künstler, die zur deutschsprachigen Twitter-Szene gehören, auftraten, darunter unter anderem Kathrin Weßling, MC Smook, Johannes Floehr, Teresa Hossa, Krieg und Freitag sowie Worst of Chefkoch.
+Die Erlöse des Festivals, zu dem 350 Zuschauer kamen, wurden an Sea-Watch gespendet (ca. 3.100 €).
+Twitter kann durch Spamming für Werbung missbraucht werden.
+Darunter fallen u. a. die Publikation einer großen Anzahl von Links sowie das Folgen von Profilen unbekannter Personen mit dem Zweck, dass diese auch den Tweets des Spammers folgen (Aggressive Following).
+Auch die Trending Topics werden von Spammern missbraucht, indem sie ihre Meldungen automatisch mit Begriffen aus den aktuellen Trending Topics versehen.
+Ziel des Spammings kann es z. B. sein, durch zahlreiche Wiederholungen eigene Trending Topics zu erstellen, Google-Suchergebnisse zu beeinflussen und/oder die Werbemeldungen glaubwürdiger erscheinen zu lassen, da viele verschiedene (in Wirklichkeit ,gefakte') Konten diese Werbebotschaft senden.
+Das Forschungsvorhaben "Truthy Projekt" an der Indiana University hat das Ziel zu erforschen, wie in Twitter Meinungskampagnen durch Spamming organisiert werden.
+Es ist einfach, das Erstellen von Twitter-Profilen bei dubiosen Dienstleistungsunternehmen zu kaufen.
+Mitunter kommt es auch vor, dass Agenturen ohne das Wissen ihrer Kunden Follower kaufen.
+Zudem sind auch Fälle bekannt, in denen Unternehmen oder Organisationen Twitter-Follower für deren Wettbewerber kaufen, um deren Reputation zu schädigen.
+Anfang Januar 2011 wurde bekannt, dass das US-Justizministerium mittels einer Subpoena von Twitter die Herausgabe sämtlicher Benutzerdaten prominenter WikiLeaks-Unterstützer gefordert hatte.
+Ob und inwieweit Twitter dem Folge leistete, ist unklar.
+Im April 2013 wurde bekannt, dass der britische Technologie-Pionier Kevin Ashton für die Erstellung eines bis dahin als "echt" geltenden mexikanischen "Social Media"-Gurus namens "Santiago Swallow" verantwortlich ist.
+Die virtuelle Internet-Persönlichkeit "Santiago Swallow" hatte etwa 90.000 Twitter-Follower und verfügte über eine glaubhaft scheinende Biographie auf der englischsprachigen Wikipedia.
+Kevin Ashton bezeichnete die Einrichtung dieser Kunstfigur als Versuch darzustellen, dass die Anzahl der Twitter-Follower nichts darüber aussagt, wie glaubwürdig die Person ist, der gefolgt wird.
+Mitte Juli 2020 hatten sich Hacker Zugriff auf die Administrationsoberfläche von Twitter verschafft und dadurch mehrere Twitter-Konten von berühmten Personen, darunter Bill Gates, Barack Obama, Elon Musk sowie den Unternehmen Apple und Coinbase gehackt.
+Mit den gehackten Benutzerkonten wurde über eine vermeintliche Spendenaktion mit Zahlung über Bitcoin getwittert.
+Twitter Inc. reagierte nach etwa drei Stunden auf dieses Ereignis und deaktivierte für manche Konten die Funktion zu twittern oder das Passwort zurückzusetzen.
+Die Psychologin Tracy Alloway von der University of Stirling in Schottland stellte im September 2009 die These auf, das soziale Netzwerk Facebook mache seine Nutzer klüger, der Mikroblogging-Dienst Twitter hingegen dümmer.
+Während Facebook das Arbeitsgedächtnis erweitere und deshalb auch die Intelligenz fördere, bewirke Twitter das Gegenteil.
+Allerdings wurde diese These bislang nicht bestätigt.
+Medienberichte, nach denen Forscher der University of Southern California einen Verfall von Moral und Empathie der Nutzer von Twitter und Facebook festgestellt hätten, stellten sich als falsch heraus.
+Kurznachrichtendiensten wie Twitter, die zu Demonstrationen aufrufen und vor Polizeiaktionen warnen, wird seit der Revolution in Tunesien 2010/2011 wie anderen sozialen Netzwerken eine wichtige Rolle bei der Organisation politisch motivierter Protestgruppen zugeschrieben.
+Kritiker halten die Gewichtung zwar für übertrieben, mussten aber eingestehen, dass solche Dienste insbesondere dort, wo klassische Medien unter Zensur leiden, die einzige Möglichkeit darstellen, unbeeinflusst zu berichten.
+Unstrittig sei dagegen, dass durch Twitter und Facebook vor allem junge Menschen motiviert werden, sich an Protestkundgebungen zu beteiligen.
+Mittlerweile ist Twitter auch als Motiv in der Popkultur angekommen.
+So findet sich beispielsweise in der Episode 7.13 der US-amerikanischen Arztserie Grey's Anatomy eine Szene, in der eine Assistenzärztin die Schnitte ihrer Vorgesetzten während einer Operation twittert und dadurch Lösungsansätze für ein Problem erhält.
+In der Episode 3.18 der Fernsehserie Castle fragt ein verdächtiger Fan einer Fernsehserie während eines Verhörs, ob sie kurz den Tod der Haupt-Drehbuchautorin twittern dürfe.
+In der Literatur ist im Jahr 2009 bei Penguin Books in London von Alexander Aciman & Ement Rensin das Buch Twitterature.
+The World's Greatest Books Retold Through Twitter erschienen.
+In dem 146-seitigen Bändchen werden 60 Bücher mit jeweils maximal 20 Tweets dargestellt.
+Yassin Musharbash schrieb im April 2013 einen Essay über die Rolle bzw. die Auswirkungen von Twitter in den Tagen nach dem Anschlag auf den Boston-Marathon, während sich der Botschafter von Tschechien darüber beklagte, dass in Twittermeldungen militärische Schläge gegen sein Land gefordert wurden, weil die Autoren der Tweets es offenbar mit Tschetschenien verwechselt hatten.
+Im März 2021 publizierte der Biologe Tobias Pfingstl, Universität Graz, dass er auf einem Twitter Beitrag eines Fischers und Hobbyfotographen aus Japan auf einem Bild eine neue Art Hornmilbe entdeckt, später mikroskopiert und nach dem Blog Ameronothrus twitter benannt hat.
+Die Verbindung zum sozialen Netzwerk LinkedIn wurde im Juni 2012 beendet.
+Damit hat Twitter erstmals den Zugriff eines Mitbewerbers auf seine API aktiv eingeschränkt.
+Nutzer können keine Tweets mehr innerhalb ihres LinkedIn-Profils lesen oder versenden.
+Als Grund für diese Entscheidung wurde angeführt, Twitter wolle Nutzer stärker an seine eigenen Apps binden, um ein konsistenteres "Erlebnis" zu bieten.
+Im August 2012 wurde bekannt, dass Twitter den Zugriff auf seine API-Schnittstelle weiter einschränken wird.
+Grund dafür ist die Aktualisierung der API auf Version 1.1, die ausschließlich noch authentifizierte Abrufe ermöglicht und deren Zahl auf maximal 350 je Stunde beschränkt.
+Twitter möchte auf diesem Weg besonders Dienste für professionelle Nutzer und Unternehmen stärken, schränkt damit aber gleichzeitig die Unterstützung dritter Twitter-Apps massiv ein.
+Da die hauseigenen Apps teilweise nicht den gleichen Funktionsumfang aufweisen und recht instabil sind, wurde diese Entscheidung massiv kritisiert.
+Da Twitter unter anderem durch Twitter-Clients bekannt wurde, fühlen sich vor allem Entwickler, die schon früh Apps für Twitter entwickelt haben, durch diese Änderungen benachteiligt.
+Viele Entwickler haben daraufhin die aktive Entwicklung ihres Twitter-Clients aufgegeben.
+Im November 2012 hat der Jüdische Studentenverband Frankreichs in Paris Anzeige gegen das Unternehmen erstattet.
+Grund dafür sind antisemitische Tweets.
+Der Verband wirft Twitter vor, nicht ausreichend gegen solche Tweets aktiv zu werden und verlangt insbesondere die Herausgabe der Adressen der entsprechenden Nutzer nach richterlichem Beschluss.
+Twitter fordert dafür aber unter Berufung auf die durch die amerikanische Verfassung garantierte Meinungsfreiheit den Beschluss eines amerikanischen Richters.
+Nach Ansicht von Eric Posner (Professor für Internationales Recht an der University of Chicago) führt Twitter dazu, dass sich die Nutzer untereinander entfremden, während sie mit Werbeanzeigen berieselt werden.
+In der nichtvirtuellen Welt seien Menschen darauf bedacht, kontroverse Meinungsäußerungen auf eine vorsichtige und respektvolle Art zu tätigen.
+Auf Twitter hingegen suchten sie den Glücksschub, wenn ihr Tweet gelikt oder retweetet wird.
+Likes oder Retweets machen Menschen, die ihre Meinung bestätigt sehen.
+Deshalb werden Tweets regelmäßig dezidiert abfällig oder im Tonfall der Empörung verfasst, um Gleichgesinnte effektiver zu erreichen.
+Dabei vergessen die Menschen aber, dass auch Menschen, die nicht jede einzelne Ansicht teilen, solche Tweets lesen können.
+So käme es zu Missverständnissen und Anfeindungen, die auch in die nichtvirtuelle Welt hineinreichen könnten.
+Im November 2017 wird Twitter in den Veröffentlichungen der Paradise Papers aufgelistet.
+Es wurde kritisiert, dass Twitter Beiträge verschiedener Benutzerkonten weniger sichtbar macht.
+Die Maßnahmen reichen dabei von fehlender Auto-Vervollständigung des Nutzernamens in der Suche bis hin zu einem völligen Verstecken der eigenen Kommentare vor anderen, die einem nicht folgen.
+Twitter benachrichtigt weder Betroffene, noch veröffentlicht das Unternehmen Gründe und Algorithmen, die über diese Maßnahmen entscheiden.
+Von Kritikern wurden diese Maßnahmen als "Shadowbans" (aus dem Englischen shadow bans) bezeichnet.
+Da die Beiträge betroffener Nutzer im schlimmsten Fall jedoch nicht völlig unsichtbar sind, sondern bei aktivem Aufrufen der Benutzerseite eingesehen werden können, widersprechen Medien und auch Twitter selbst dieser Bezeichnung.
+Am 26. Januar 2012 kündigte Twitter in einem Blogbeitrag an, dass künftig Tweets gefiltert würden, sofern sie Inhalte verbreiten, die in bestimmten Staaten gegen geltendes Recht oder gesellschaftliche Konventionen verstießen.
+Am 26. Mai 2020 hat Twitter erstmals zwei Tweets von Donald Trump mit Warnhinweisen versehen.
+Wer darauf klickt wird auf eine von Twitter eigens erstellte Seite mit der Überschrift: "Trump makes unsubstantiated claim that mail-in ballots will lead to voter fraud" ("Trump behauptet unbelegt, dass Briefwahlzettel zu Wahlbetrug führen werden.").
+Nach dem Todesfall George Floyd am 25. Mai 2020 kam es in einigen Städten zu Ausschreitungen und Plünderungen.
+Trump twitterte Ende Mai 'When the looting starts, the shooting starts' (etwa wenn das Plündern beginnt, beginnt das Schießen).
+Twitter schrieb, dieser Tweet verstoße gegen Twitter-Regeln zum Thema Gewaltverherrlichung.
+Man lasse den Tweet zugänglich, weil möglicherweise ein öffentliches Interesse daran bestehe.
+Er lässt sich durch Anklicken wieder anzeigen.
+Allerdings können Nutzer den Beitrag nicht mehr mit "Gefällt mir" markieren (liken), darauf antworten oder ihn kommentarlos teilen.
+Twitter-Konkurrent Snapchat nahm diesen Tweet zum Anlass für die Ankündigung, Trumps Konto nicht mehr zu bewerben.
+Nach dem Sturm auf das Kapitol in Washington am 6. Januar 2021 kündigte Twitter zunächst an, das Konto von Trump für 12 Stunden zu sperren, zeitgleich kündigten soziale Netzwerke wie Facebook an, Trumps Benutzerkonten mindestens bis zu seinem Ausscheiden aus dem Präsidentenamt zu sperren.
+Zwei Tage später teilte Twitter am 8. Januar 2021 mit, dass Trumps Benutzerkonto aufgrund des "Risikos einer weiteren Anstiftung zu Gewalt" dauerhaft gesperrt werde, unter anderem um einen geplanten zweiten Angriff auf das Kapitol am 17. Januar 2021 zu verhindern.
+Am 18. Oktober 2012 wurde zum ersten Mal ein ganzes Twitter-Konto in einem einzelnen Land gesperrt.
+Auf Anfrage der Polizei Hannover sperrte Twitter das Konto "@hannoverticker", da dieses von einer verbotenen Neonazi-Gruppierung betrieben wurde.
+Die Sperrung ist ausschließlich in Deutschland aktiv - in anderen Ländern ist das Konto nach wie vor aufrufbar.
+2015 meldete Newsweek mit Bezug auf Twitters halbjährlichen Transparenzbericht, Deutschland belege im 2. Halbjahr 2014 hinter der Türkei und Russland Platz drei bei staatlichen und staatlich sanktionierten Löschanträgen.
+Anträge aus der Türkei (477 im Berichtszeitraum) bezögen sich in der Regel auf angebliche Verletzungen der Persönlichkeitsrechte von Privatpersonen oder Regierungsbeamten, Anträge aus Russland (91) reichten von der Löschung von Werbung für illegale Drogen bis zu Versuchen, nicht-gewalttätige Demonstrationen zu unterdrücken.
+Die meisten Anträge aus Deutschland (43) bezogen sich auf hassfördernde und diskriminierende Inhalte.
+37 % der deutschen Anträge sei entsprochen worden, gegenüber etwa 13 % in den anderen beiden Ländern.
+Im Vergleich zum vorangegangenen Halbjahr sei die Zahl der Anträge weltweit um 84 % angestiegen.
+Im August 2017 schrieb der Satiriker Shahak Shapira mit Sprühkreide 30 von Twitter trotz Aufforderung nicht gelöschte Hass-Tweets auf die Stufen vor Twitters Deutschland-Zentrale.
+Im Rahmen eines sechsmonatigen Experiments hatte er zuvor über 300 solcher Tweets gemeldet, wobei Twitter zu lediglich neun seiner Meldungen mit einer Absage reagierte und die restlichen Meldungen unbeantwortet ließ.
+Das Projekt sorgte für weltweites Aufsehen und inspirierte Nachahmer zu einem Protest mit Projektionen vor Twitters Hauptsitz in San Francisco.
+In Interviews erklärte Shapira, sein Projekt fordere keine Zensur, sondern sei lediglich eine Kritik an Twitters nachlässiger Durchsetzung seiner eigenen Richtlinien.
+Den Vorwurf des Vandalismus wies er zurück, da die Verwendung von Kreidespray auf öffentlicher Straße in Deutschland legal sei.
+Justizminister Maas forderte Twitter auf, mehr gegen Hassrede zu unternehmen.
+Twitter reagierte nicht.
+Im Sommer 2020 wurden rechtsextreme Konten der Identitären Bewegung gesperrt.
+Zuletzt waren der Seite 30.000 Twitter-Nutzer gefolgt.
+Mit diesem Schritt stellt sich auch Twitter gegen das rechtsextreme Gedankengut.
+Facebook und Instagram haben diese Gruppierung schon lange vorher von der Plattform verbannt.
+In der Nacht vom 20. auf den 21. März 2014 ließ die Regierung der Türkei den Zugang zu Twitter sperren.
+Wer seither in der Türkei Twitter erreichen will, gelangt auf eine Seite mit einer offiziellen Stellungnahme der "türkischen Aufsichtsbehörde für Telekommunikation" mit der Information, dass der Kurznachrichtendienst gesetzlich gesperrt sei.
+Der damalige türkische Ministerpräsident Recep Tayyip Erdogan hatte somit seine Drohung wahr gemacht, dieses soziale Netzwerk zu sperren.
+Die Reaktionen der internationalen Gemeinschaft "seien ihm egal".
+Erdogan sagte außerdem, dass dies nichts mit "Unterbindung der Meinungsfreiheit" zu tun habe.
+Das Eindringen ins Privatleben oder das Ausspionieren von Staatsgeheimnissen durch soziale Netzwerke sei von der Meinungsfreiheit nicht gedeckt.
+Bereits Anfang März 2014 hatte Erdogan mit dem Verbot von YouTube und Facebook gedroht.
+Nach der Sperrung erklärte ein Pressesprecher der türkischen Regierung gemäß der türkischen Tageszeitung Hürriyet und der Nachrichtenagentur Reuters, dass die Verantwortlichen bei Twitter mehrere Gerichtsbeschlüsse ignoriert hätten, welche die Entfernung von verschiedenen Links bzw. Inhalten angeordnet hatten.
+Twitter hat sich nicht zu dieser Sperrung geäußert.
+Der Kurznachrichtendienst informierte jedoch seine rund 10 Millionen türkischen Nutzer per "Tweet" darüber, dass diese über SMS weiterhin "Tweets" versenden konnten - trotz der Sperre.
+Der damalige türkische Staatspräsident Abdullah Gül ging jedoch von einer baldigen Aufhebung der Twitter-Blockade in der Türkei aus.
+Weiterhin sei es seiner Meinung nach "technisch unmöglich, eine derart global vernetzte Kommunikationstechnik zu unterbinden".
+Viele türkische Internet-Aktivisten und auch Erdogan-Kritiker hofften nun darauf, dass mit einem Veto des als durchaus Internet-freundlich geltenden Gül die Twitter-Sperre eine neue Wendung nehmen würde.
+Am 2. April 2014 gab das Verfassungsgericht der Republik Türkei einer Klage gegen das Twitter-Verbot einstimmig recht.
+Im Urteil wurde festgehalten, dass das Verbot dem Artikel 26 der Verfassung der Republik Türkei über die Freiheit der Äußerung und Verbreitung der Meinung widerspricht.
+Auch nach dem Anschlag in Suruc 2015 blockierten türkische Internetanbieter Twitter.
+Ein Gericht hatte angeordnet, dass Fotos und Videos vom Selbstmordanschlag nicht veröffentlicht werden dürfen.
+Nachdem Facebook durch die Sperre von Pro-Regierungsaccounts im Vorfeld der Präsidentschaftswahlen 2021 die Aufmerksamkeit der ugandischen Regierung auf sich gezogen hatte, verhängte diese am 12. Januar 2021 eine Sperre von sozialen Netzwerken, inklusive Twitter.
+Nach eigenen Angaben hatte Facebook Fake-Accounts und Mehrfachaccounts entfernt.

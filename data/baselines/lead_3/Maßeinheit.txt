@@ -1,0 +1,3 @@
+Werte von geometrischen und physikalischen Größen werden in Maßeinheiten (auch Größeneinheit oder physikalische Einheit) angegeben, die einen eindeutigen (in der Praxis feststehenden, wohldefinierten) Wert haben.
+Alle anderen Werte der jeweiligen Größe werden als Vielfache oder Bruchteile der zu messenden Einheit angegeben.
+Bekannte Maßeinheiten sind beispielsweise Meter, Sekunde, Kilowattstunde, Hertz oder Kilometer pro Stunde.

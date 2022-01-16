@@ -1,0 +1,140 @@
+Ein Satz ist eine aus einem Wort oder mehreren Wörtern bestehende in sich geschlossene sprachliche Einheit.
+Definitionen des Satzbegriffs sind in verschiedenen Perspektiven gegeben worden, die sich miteinander nicht decken.
+Vor allem kann der Begriff Satz grammatikalisch definiert werden, als größte Einheit, die durch die Regeln der Syntax erzeugt werden kann.
+Manche Auffassungen sehen den Satz auch kommunikativ als die kleinste Verständigungseinheit, mit der eine Sprechhandlung (ein Sprechakt) vollzogen wird, nach anderen Auffassungen wird hierzu der Begriff der Äußerung genutzt.
+
+== Begriff
+
+Es existieren vielfältige Ansätze, den Satzbegriff zu bestimmen, Sammlungen kommen auf annähernd 200 Definitionen von Satz.
+Jede linguistische Schule entwickelt ihren eigenen Satzbegriff.
+Die unterschiedlichen logischen, philosophischen, kommunikationswissenschaftlichen und psychologischen Perspektiven werden als "kaum miteinander in Einklang" zu bringen angesehen.
+Entsprechend wird angenommen, "dass hinter der Bezeichnung Satz nicht ein einzelner Begriff, sondern eine ganze Familie sich überschneidender Begriffe steht."
+
+=== Definitionsbefund
+
+Hier können nur einige verbreitete Definitionen des Satzes wiedergegeben werden:
+
+==== Schulduden
+
+Eine Schulduden-Definition des Satzes ist: "Der Satz ist eine geschlossene sprachliche Einheit, die sich aus kleineren Einheiten (Wörtern und Wortgruppen) zusammensetzt."
+
+Da es auch Sätze aus einem Wort gibt (Beispiel: "Geh!"), kann mit einer solchen Definition der Satz nicht in allen Fällen vom Wort unterschieden werden.
+Es muss auch definiert werden, was mit dem Begriff "geschlossene sprachliche Einheit" gemeint ist.
+Je nach Definition könnte auch eine zusammenhängende Wortgruppe (Konstituente) unter so eine Bezeichnung fallen.
+So ist in der obigen Definition die Wortfolge "in sich geschlossene sprachliche Einheit" auch in gewissem Sinn eine in sich geschlossene sprachliche Einheit.
+Es soll also eine besondere Art von Abgeschlossenheit geben, die den Satz auszeichnet.
+
+==== Duden-Grammatik
+
+Die Duden-Grammatik bietet mehrere Satzdefinitionen an.
+Die erste ähnelt der oben angeführten Schulduden-Definition:
+
+Ein Problem hierbei ist, dass wohl auch syntaktisch falsche Strukturen als Sätze bezeichnet werden können (Beispiel: "Ich habe fertig!" (Trapattoni)).
+Auch gibt es nicht regelgerecht gebildete Sätze, die akzeptiert werden (Akzeptabilität trotz fehlender (schulmäßiger) Grammatikalität).
+So bei bewussten Verstößen gegen Selektionsbeschränkungen (Beispiel: "Wir sind Papst" (Bild-Zeitung)).
+
+Diese Definition lehnt sich an die Satzdefinition von Bloomfield an, der den Satz "als größte selbständige syntaktische Form, die durch keinerlei grammatische Konstruktionen ihrerseits in eine größere syntaktische Form eingebettet ist", definierte und dessen Satzdefinition als die des amerikanischen Strukturalismus gilt.
+Dieser Wortlaut wiederum hebt nur auf "Wurzelsätze" ab und lässt offen, wie Nebensätze einzustufen sind.
+
+Diese Definition hebt darauf ab, dass die Wörter wir und die Wortgruppe zogen nach dem Südenfür sich genommen noch kein Satz sind, erst die Wortfolge Wir zogen nach dem Süden ist ein Satz.
+In dieser Definition ist nicht berücksichtigt, wie Ellipsen einzustufen sind.
+Ebenso werden infinite Nebensätze nicht berücksichtigt.
+
+==== Satz als Subjekt- und Prädikateinheit
+
+Der Satz wird auch definiert als sprachliche Einheit, die aus Subjekt und Prädikat besteht.
+Dies soll auf Aristoteles zurückgehen.
+
+Entsprechend definiert die traditionelle Grammatik den Satz als bestehend aus:
+Satzaussage (Prädikat), Satzergänzung (Objekt) und Satzgegenstand (Subjekt).
+Unter dem Einfluss des nicht-aristotelischen Prädikatsbegriffs der modernen Logik kann auch formuliert werden, dass Satz im Sinne einer Aussage aus der Benennung eines Objekts (Subjekt) und die Verbindung des benannten Objekts mit einer Eigenschaft im weiteren Sinne (Prädikat) bestehe.
+
+Damit wird jedoch nicht der grammatische Satz im Allgemeinen, sondern nur der Deklarativsatz in der Perspektive der traditionellen oder modernen Logik beschrieben.
+Satz im engeren Sinn ist für die Logik eine "sprachliche Form", deren Eigentümlichkeit es ist, wahr oder falsch zu sein.
+Werden in der modernen Philosophie und Logik auch Satz und Deklarativsatz häufig in gleichem Sinne (synonym) verwendet, so werden durch eine solche definitorische Engführung Fragesätze, Befehlssätze und Wunschsätze etc. nicht erfasst.
+
+==== Satz als Rede- oder Textelement
+
+Der Satz wird auch definiert als Grundeinheit, aus der eine Rede oder ein Text besteht.
+
+Damit wird aber die Schwierigkeit, den Satz zu definieren, mit der Schwierigkeit, die Rede oder den Text zu definieren, eingetauscht.
+Zudem gibt es das Phänomen 1-Wort = 1-Satz = 1-Text (Beispiel: "Hilfe!").
+
+==== Satz als kommunikative Einheit
+
+Der Satz erscheint so nur pragmatisch kommunikativ definierbar.
+So definierte schon Bühler Sätze als "die einfachen selbständigen, in sich abgeschlossenen Leistungseinheiten oder kurz die Sinneinheiten der Rede." Ähnlich kann Satz auch definiert werden als "jede selbständige, abgeschlossene sprachliche Äußerung, die in einem kommunikativen Handlungszusammenhang geäußert wird (und prinzipiell verstanden werden kann)" oder als kleinste kommunikative Verständigungseinheit, durch die ein Sprechakt vollzogen wird.
+
+== Satz als Bestandteil der parole oder langue
+
+Herrschend wird der Satz der Ebene der parole (de Saussure) zugeordnet oder als "Sinneinheit der Rede" (Bühler) (s. o.) bezeichnet.
+Es soll nicht sinnvoll sein, "auch auf der Ebene der langue ... nach einer zeichenhaften Einheit ,Satz' zu suchen, die - wie Wort und Morphem - aus einer festen Ausdrucks- und Inhaltsseite besteht".
+Gleichwohl werden in der Grammatik (vor allem?) "auch die lautlichen oder schriftlichen Träger eines Satzes ... syntaktisch ... also sekundär auf Ebene der langue, untersucht".
+
+== Satzklassifikation
+
+Sätze können nach unterschiedlichen Gesichtspunkten eingeteilt werden.
+Unter anderem:
+
+=== Stirnsatz, Kernsatz, Spannsatz
+
+Nach der Stellung des finiten Verbs unterscheidet man zwischen:
+
+=== Einfache und zusammengesetzte Sätze
+
+Eine traditionelle Unterscheidung ist die zwischen einfachem Satz und zusammengesetztem Satz.
+
+==== Einfacher Satz
+
+Der einfache Satz (auch: Einzelsatz) ist ein Satz, der nur ein konjugiertes Verb enthält.
+
+Der einfache Satz kann darüber hinaus noch weitere Satzglieder enthalten, entweder als notwendige Ergänzung (zum Beispiel Subjekt) oder als Angabe (zum Beispiel Attribute oder adverbiale Bestimmungen)
+
+Zu den einfachen Sätzen zählen auch elliptische Sätze und Kurzformen.
+
+==== Zusammengesetzter (komplexer) Satz
+
+Ein zusammengesetzter Satz (auch: komplexer Satz) ist ein Satz, in dem mehr als ein finites Verb vorkommt oder - mit anderen Worten - der aus einfachen Sätzen (Teilsätzen) zusammengesetzt ist.
+
+Sind die Teilsätze eines zusammengesetzten Satzes gleichgeordnet, so nennt man sie Hauptsätze und bezeichnet den Satz insgesamt auch als Satzreihe oder Parataxe.
+
+Im Fall der Über- und Unterordnung bezeichnet man den komplexen Satz auch als Satzgefüge (auch Hypotaxe) und unterscheidet zwischen den Hauptsätzen (HS) und Nebensätzen (NS).
+Der Nebensatz ist der einem anderen inhaltlich untergeordnete Teilsatz - der etwa die Aussagen eines anderen Teilsatzes näher bestimmt.
+Der Teilsatz, der keinen anderen Teilsatz näher beschreibt, ist ein Hauptsatz.
+
+Von einem Nebensatz kann ein weiterer Nebensatz abhängen.
+
+Einen komplexen Satz mit Satzreihen und Satzgefügen nennt man auch Satzperiode.
+
+Sätze können mit einer Konjunktion (syndetisch) oder mit mehreren Konjunktionen (polysyndetisch) oder ohne Konjunktionen (asyndetisch) miteinander verbunden werden.
+
+Beispiel:
+
+Der Nebensatz ist im Deutschen oft an der Stellung der gebeugten (finiten) Verbform erkennbar.
+Ein Teilsatz mit Einleitewort (Relativpronomen, Fragewort, unterordnende Konjunktion) und finiter Verbform am Ende ist ein Nebensatz.
+Daneben existieren allerdings auch uneingeleitete Nebensätze.
+
+=== Unvollständiger Satz
+
+Unter den Begriff "Satz" fallen auch unvollständige Sätze, also Sätze, denen ein notwendiges Satzglied oder auch mehr fehlt.
+Es werden verschiedene Typen unterschieden:
+
+== Der Satz in der gesprochenen Sprache
+
+Beim Reden trennt eine kurze Pause einen Satz von einem vorhergehenden.
+Die Satzmelodie hängt von der Art des Satzes (Aussage, Frage, Aufforderung) ab.
+Ein Satz ist (meist) als Einheit zu erkennen.
+Die Zuordnung von Sätzen und ihrer Bedeutung ist nicht immer eindeutig.
+
+== Der Satz und die (deutsche) Orthografie
+
+Zur schriftlichen Kennzeichnung wird im Deutschen der Satzanfang großgeschrieben; der Satz endet mit einem Satzzeichen:
+Punkt , Ausrufezeichen , Fragezeichen und gegebenenfalls Auslassungspunkte .
+Im Inneren von zusammengesetzten Sätzen dienen auch Komma , Semikolon und der Gedankenstrich zur Kennzeichnung des Satzbaus.
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

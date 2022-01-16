@@ -1,0 +1,20 @@
+Die Kugel ist der gleichmäßigste geometrische Körper.
+Als geometrischer Körper ist er nur etwas, das die Menschen sich vorstellen.
+Aber auch in der Natur gibt es manchmal etwas, das so aussieht wie eine Kugel oder fast so.
+Die gesamte Oberfläche der Kugel ist gekrümmt, sie hat keine Ecken oder Kanten.
+Jeder Punkt auf der Oberfläche der Kugel ist vom Mittelpunkt im Inneren gleich weit entfernt.
+Diesen Abstand nennt man den Radius der Kugel.
+Das Doppelte des Radius ist der Durchmesser der Kugel.
+Diesen kann man sich so vorstellen, als würde man einen Stab genau durch den Mittelpunkt der Kugel stechen.
+Man misst dann den Abstand zwischen den beiden Stellen, wo man hineingestochen hat und wo der Stab wieder herausgekommen ist.
+Ist der Radius oder der Durchmesser der Kugel bekannt, kann man ausrechnen, wie groß die Oberfläche und der Inhalt der Kugel ist.
+Von welcher Seite auch immer man eine Kugel betrachtet, sieht der Umriss aus wie ein Kreis.
+Auch bei jedem ebenen Schnitt durch die Kugel entsteht eine kreisförmige Oberfläche.
+Gehen die Schnitte durch den Mittelpunkt, entstehen zwei Halbkugeln.
+Unter allen geometrischen Körpern hat die Kugel die kompakteste Form:
+Im Verhältnis zu ihrem Inhalt ist ihre Oberfläche am geringsten.
+Wer etwas umhüllen will, braucht bei einer Kugel nur wenig Hülle.
+Aus diesem Grund kommt die Kugelform auch oft in der Natur vor:
+Igel, Gürteltiere und manche Tausendfüßer rollen sich bei Gefahr zu Kugeln zusammen, um ihre Körper bestmöglich zu schützen und wenig Angriffsfläche zu bieten.
+Seifenblasen ziehen sich nach dem Pusten zu Kugeln zusammen, um die darin enthaltene Luft mit möglichst geringer Oberfläche zu umschließen.
+Und auch unsere Erde, der Mond und die Sonne wurden von ihrer eigenen Schwerkraft zu beinahe regelmäßigen Kugeln geformt.

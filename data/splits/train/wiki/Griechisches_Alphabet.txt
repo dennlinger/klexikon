@@ -1,0 +1,299 @@
+Das griechische Alphabet (altgriechisch vo ao hellenikos alphabetos; neugriechisch vo aao elliniko alfavito, auch v aaa elliniki alfavita) ist die Schrift, in der die griechische Sprache seit dem 9. Jahrhundert v. Chr. geschrieben wird.
+Das griechische Alphabet umfasst heute 24 Buchstaben, die ebenso wie im lateinischen Alphabet als Majuskeln (Großbuchstaben) und Minuskeln (Kleinbuchstaben) vorkommen.
+
+Die griechische Schrift ist eine Weiterentwicklung der phönizischen Schrift und war die erste Alphabetschrift im engeren Sinne.
+Vom griechischen Alphabet stammen u. a. das lateinische, kyrillische und koptische Alphabet ab (siehe Ableitung der lateinischen und kyrillischen aus griechischen Buchstaben).
+
+== Zeichen
+
+=== Klassische Zeichen
+
+=== Nichtklassische Zeichen
+
+=== Namen der Buchstaben
+
+Die Bezeichnungen der Buchstaben haben im Griechischen keine Bedeutung.
+Sie wurden größtenteils aus dem Phönizischen übernommen.
+Dort bezeichnen die Buchstabennamen Begriffe, denen nach dem akrophonischen Prinzip ein Lautwert zugeordnet wurde.
+Beispielsweise bedeutet aleph "Ochse" und beth "Haus".
+
+Die Namen einiger Vokale gehen auf die byzantinische Zeit zurück.
+Ihre Bezeichnungen in klassischer Zeit unterschieden sich teils, z. B. wurden die Buchstaben Omikron und Omega schlicht o    und     genannt.
+Erst als die Aussprache der beiden Buchstaben zusammenfiel, erhielten die Buchstabenbezeichnungen die unterscheidenden Zusätze mikron und mega (Omikron bedeutet "kleines O", Omega "großes" bzw. "breites O").
+Ähnlich verhält es sich bei den Namen Epsilon ("einfaches E") und Ypsilon ("einfaches Y"), bei denen psilon zur Unterscheidung von den inzwischen gleichlautenden Buchstabenkombinationen  und o angefügt wurde.
+
+=== Aussprache
+
+Die antiken und modernen Lautwerte der griechischen Buchstaben unterscheiden sich recht stark, weil die tiefgreifenden lautlichen Veränderungen, die die griechische Sprache in über zweieinhalb Jahrtausenden durchlebte, in der Orthografie nicht mitvollzogen wurden.
+Daher sind alt- und neugriechische Wörter im Schriftbild oft identisch oder sehr ähnlich, obwohl sich ihre Aussprache grundlegend unterscheidet.
+
+==== Altgriechisch
+
+In der antiken Aussprache des Griechischen war die Laut-Buchstaben-Zuordnung recht eindeutig.
+Bei der Darstellung der Vokale musste das Altgriechische aber mit sieben Buchstaben für 12 Phoneme auskommen.
+Alpha, Iota und Ypsilon konnten sowohl für lange oder für kurze Laute stehen.
+Bei den e- und o-Lauten wurde dagegen zwischen Epsilon bzw. Omikron für die Kurzvokale   ,    und Eta bzw. Omega für die offenen Langvokale   ,    unterschieden.
+Für die geschlossenen Langvokale    und    verwendete man indes die Digraphen Epsilon-Iota () und Omikron-Ypsilon (ou).
+Daneben ist zu beachten, dass die Diphthonge Alpha-Ypsilon (au) und Epsilon-Ypsilon (u) als und gesprochen wurden.
+
+Die im Schulunterricht westlicher Länder etablierte Aussprache ist länderspezifisch akademisch (z. B. im deutschen Schulsystem für u sowie für  und  unterschiedslos ) und weicht in einigen Punkten von der heute nach wissenschaftlichen Kriterien rekonstruierten Aussprache ab.
+So wurden Theta, Phi und Chi in der Antike als aspirierte Verschlusslaute und nicht als Reibelaute gesprochen.
+In Griechenland selbst wird heute für alle Texte, auch für altgriechische, die neugriechische Aussprache verwendet.
+Auch in anderen orthodoxen Ländern ist die dem Neugriechischen nahestehende byzantinische statt der antiken Aussprache Grundlage für die Aussprache griechischer Wörter.
+
+==== Neugriechisch
+
+Im Neugriechischen ist die Orthographie durch den Lautwandel weit weniger phonematisch.
+Durch den Zusammenfall vieler altgriechischer Vokalphoneme kann z. B. der Laut im Neugriechischen mit , , u, , u oder o geschrieben werden.
+Dadurch ist das Erlernen der griechischen Rechtschreibung auch für Muttersprachler mit Schwierigkeiten verbunden.
+
+Die wichtigste Änderung bei der Aussprache der Konsonanten betrifft die stimmhaften und die aspirierten Verschlusslaute (, , , , , ) des Altgriechischen, die zu Reibelauten geworden sind.
+Daneben setzt das Neugriechische in größerem Maße Digraphen ein, z. B. stehen anlautende ,  und v für , und .
+
+=== Transkription
+
+Für die Transkription altgriechischer Wörter in die lateinische Schrift gibt es eine recht eindeutige Norm (siehe Tabelle oben).
+Einzig bei der Wiedergabe der Buchstaben  und  (mit oder ohne Makron), des Digraphen ou (ou oder u) und des einfachen u (normalerweise y, in Diphthongen u; v. a. im englisch-amerikanischen Sprachraum auch generell als u) gibt es kleinere Unterschiede.
+
+Die Umschrift des Neugriechischen wird nicht einheitlich gehandhabt, eine existierende ISO-Norm konnte sich bislang nicht durchsetzen.
+Zum Teil orientiert sich die Umschrift an der Aussprache, zum Teil am griechischen Schriftbild.
+
+=== Weitere Zeichen
+
+Einige Zeichen aus dem phönizischen Alphabet existierten in bestimmten älteren Formen des griechischen Alphabets.
+Durch die Standardisierung des Alphabets wurden sie abgeschafft.
+Die Buchstaben Digamma, Koppa und Sampi blieben aber als Zahlenzeichen bestehen.
+
+Infolge der Übernahme des griechischen Alphabets für andere Sprachen wurde ein Zeichen ergänzt, dessen Lautwert es im Griechischen nicht gab:
+
+==== Moderne Zeichen
+
+Im 19. Jahrhundert wurde aus dem lateinischen Alphabet das kleine j unter dem aus dem Deutschen entlehnten Namen Jot (griechisch o giot) zur Darstellung innerhalb griechischer Wörter im wissenschaftlichen Kontext übernommen, um vor allem in frühaltgriechischen und protogriechischen Texten das Phonem /j/ in Abgrenzung zum vokalischen /i/ wiedergeben zu können.
+
+Im Unicode-Block Griechisch und Koptisch wurden diesem Buchstaben die Positionen U+037F und U+03F3 zugewiesen.
+
+=== Ligaturen
+
+Des Weiteren gibt es Ligaturen aus byzantinischer Zeit.
+Diese wurden in der Minuskel-Handschrift entwickelt, und im frühen Buchdruck wurden einige von ihnen weiter verwendet.
+Heute sind jedoch nur noch drei von ihnen gebräuchlich:
+
+=== Spiritus und Akzente
+
+Als der Buchstabe H, der ursprünglich für stand, den Lautwert [  ] erhielt, entwickelte man durch Halbierung des H das Zeichen  (Heta), um weiterhin den -Laut wiedergeben zu können.
+Später entwickelte sich daraus der Spiritus asper, ein diakritisches Zeichen, das wie ein hochgestelltes kleines c aussieht und über dem anlautenden Vokal steht.
+In Analogie zum Spiritus asper wurde später der Spiritus lenis, der die Form eines spiegelverkehrten Spiritus asper hat, für einen vokalischen Anlaut ohne entwickelt.
+
+Beispiele:
+
+Das Altgriechische verfügte über einen musikalischen Akzent mit drei verschiedenen Tönen.
+Diese können bedeutungsunterscheidend sein, z. B. bedeutet pan mit steigend-fallendem Ton "alles", während dasselbe Wort im steigenden Ton der Name des Gottes Pan ist.
+Der musikalische Akzent wandelte sich schon in hellenistischer Zeit zu einem dynamischen Akzent, wie er im Deutschen und den meisten anderen europäischen Sprachen vorkommt.
+Um die antiken Texte weiterhin korrekt aussprechen zu können, entwickelte man drei Zeichen als Bezeichnung der Töne:
+
+Im modernen Griechisch (das keinen h-Laut mehr hat und auch keine Töne mehr kennt) wurden diese Akzente und Spiritus 1982 abgeschafft.
+Die Akzente wurden durch ein einziges Zeichen, den Tonos (ovo) ersetzt, der heute in mehrsilbigen Wörtern die betonte Silbe kennzeichnet.
+Dieses vereinfachte System wird "monotonisch" (ovoovo monotoniko) genannt; hin und wieder wird jedoch noch das alte, "polytonische" Akzentsystem (ouovo polytoniko) inklusive Spiritus verwendet - sowohl in literarischen Produktionen als auch in privaten Alltagstexten.
+
+Anmerkung
+
+=== Weitere diakritische Zeichen
+
+Das Trema () zeigt im Altgriechischen an, dass zwei Vokale keinen Diphthong bilden, sondern in zwei Silben gesprochen werden.
+So wird  ("Atride, Sohn des Atreus") viersilbig als Atre-ides gesprochen.
+Im Neugriechischen kennzeichnet das Trema die getrennte Aussprache eines der Digraphen (o, o, a, ), z. B. das "Boot" a, sprich , wäre ohne Trema .
+
+In den Langdiphthongen ei, oi und ai verstummte das i bereits früh.
+Ab dem 12. Jahrhundert wurde es als Iota subscriptum ("untergeschriebenes Iota") unter den vorangehenden Vokal gesetzt, Bsp.  statt  (te "der", Dativ des bestimmten femininen Artikels).
+Bei Großbuchstaben wird das Iota meist als Iota adscriptum ("dazugeschriebenes Iota") neben den vorangehenden Vokal gesetzt, Bsp. , sprich Hades ("Hades, Unterwelt").
+Im Neugriechischen wurde das Iota subscriptum im Zuge der Reform von 1982 abgeschafft.
+
+== Zahlzeichen
+
+Die altgriechischen Schriftzeichen sind zugleich Zahlzeichen.
+Es gab zwei Zählweisen, die Thesische und die Milesische, wohl von Milet abgeleitet.
+Der Gebrauch beider Zählweisen ist schon in der Ilias belegt.
+
+Die thesische Zählweise ist erst 1935 durch Peter Friesenhahn wiederentdeckt worden und zweifelsfrei in Ilias und Septuaginta nachgewiesen worden.
+Sie weist den Buchstaben Alpha bis Omega je nach ihrem Standort im Alphabet die dazugehörige Ordnungszahl als Wert zu.
+Alpha hat den Wert eins und Omega den von vierundzwanzig.
+Nach dieser Zählweise sind die Gesänge Homers nummeriert.
+
+Die milesische Zählweise ist mit geringen Abweichungen aus der im phönizischen benutzten konstruiert.
+Auch das hebräische Alphabet benutzt diese Technik für die Zahlenwerte.
+Alpha bis Theta nehmen die Werte eins bis neun an, Iota bis Koppa, nicht mit Kappa zu verwechseln, die zum vorigen parallelen Zehnerwerte, nämlich zehn, zwanzig ... bis neunzig, und Rho bis Sampi die entsprechenden Hunderter, so dass Alpha dann wieder auch Tausend bedeuten kann.
+
+== Geschichte
+
+=== Frühere ägäische Schriftsysteme
+
+Schon einige Jahrhunderte vor Entstehung des griechischen Alphabets war die griechische Sprache schriftlich festgehalten worden.
+Die mykenische Kultur verwendete vom 14. bis 12. Jahrhundert v. Chr. die Silbenschrift Linear B, die aus der Linear A-Schrift der Minoer Kretas entwickelt worden war.
+Nach dem Untergang der mykenischen Kultur geriet sie aber während der sogenannten "dunklen Jahrhunderte" (12.-9. Jahrhundert v. Chr.) wieder in Vergessenheit.
+Einzig auf Zypern hielt sich die kyprische Schrift, die den kretisch-minoischen Schriften nahestand.
+Das griechische Alphabet steht in keiner Verbindung zur Linearschrift B.
+
+=== Entstehung
+
+Das griechische Alphabet stammt von dem phönizischen Alphabet ab.
+Die genauen Umstände sowie Ort und Zeit der Entstehung sind weitgehend unbekannt.
+Wahrscheinlich geschah die Übernahme im 9. Jahrhundert v. Chr., auch wenn manche Forscher einen früheren Zeitpunkt annehmen.
+Als Entstehungsorte werden Euböa, Kreta, Rhodos und Zypern vorgeschlagen.
+Die ersten überlieferten griechischen Inschriften, auf der Dipylon-Kanne von Athen und dem Nestorbecher von Pithekussai, stammen aus der zweiten Hälfte des 8. Jahrhunderts v. Chr.
+
+Das phönizische Alphabet war, wie auch die anderen semitischen Schriften, eine Konsonantenschrift.
+Im Griechischen spielten aber die Vokale eine weitaus größere Rolle als in den semitischen Sprachen, weshalb für sie auch eigene Buchstaben benötigt wurden.
+Zu diesem Zweck wurden phönizische Buchstaben, die im Griechischen nicht vorkommende Laute bezeichneten, zu Vokalzeichen umfunktioniert.
+Es ist unklar, ob es sich bei der Schaffung der Vokalzeichen um eine geplante Innovation oder eine bloße Fehlinterpretation des phönizischen Systems handelte.
+Aus dem Aleph für den Knacklaut wurde das Alpha für , aus dem He für das Epsilon für , aus dem Jodh für das Iota für und aus dem Ajin für den speziellen semitischen Kehllaut    das Omikron für .
+Aus dem phönizischen Waw entwickelten sich im Griechischen zwei Buchstaben: das konsonantische Digamma für und das vokalische Ypsilon für (später ).
+Dadurch war das griechische Alphabet die erste Schrift, die sowohl Konsonanten als auch Vokale durch eigenständige Zeichen darstellte, und somit die erste Alphabetschrift im engeren Sinne.
+Es ist aber davon auszugehen, dass die Entwicklung der Vokalzeichen in einem einzigen Schritt vonstattenging, da sie schon in den frühesten bekannten griechischen Inschriften vorhanden sind und keinerlei Schriftdenkmäler bekannt sind, in denen Griechisch in einer Konsonantenschrift geschrieben würde.
+
+Ansonsten entsprachen sich die phönizischen und griechischen Buchstaben weitgehend.
+Einige Konsonantenzeichen wurden in ihrem Lautwert angepasst:
+Aus dem phönizischen Tet für das emphatische wurde das griechische Theta () für das aspirierte , aus dem phönizischen Zajin für wurde das Zeta (), das ursprünglich wahrscheinlich oder gesprochen wurde.
+Im Phönizischen gab es drei verschiedene s-Laute, Samech, Sade und Schin, im Griechischen jedoch nur einen.
+Daher wurde das Samech zum Xi () für umfunktioniert; aus dem Sade entwickelte sich der griechische Buchstabe San (), der aber schon früh zugunsten des aus dem Schin hervorgegangenen Sigma () aufgegeben wurde.
+Die phönizische Sprache unterschied zwischen dem Kaph für und dem Qoph für .
+Im Griechischen wurden daraus die Buchstaben Kappa () und Koppa (), die beide gesprochen wurden.
+Weil sich zwei Buchstaben für denselben Laut als redundant erwiesen, wurde das Koppa später abgeschafft.
+Das phönizische Heth, das einen im Griechischen nicht vorkommenden h-ähnlichen Laut bezeichnete, wurde zum griechischen , das zunächst Heta genannt wurde und für stand.
+Erst später wurde es zum Vokalzeichen für .
+
+Die Reihenfolge der Buchstaben hatten die Griechen von den Phöniziern übernommen.
+An das Ende des Alphabets wurden die neuentwickelten Zeichen , , ,  und  angehängt.
+Das Ypsilon () stammte ebenso wie das Digamma von dem phönizischen Waw ab, den Buchstaben Omega () für bildeten die Griechen aus dem Omikron neu.
+Genuin griechische Neubildungen ohne Entsprechung im Phönizischen sind Phi () für , Chi () für und Psi () für .
+
+=== Epichorische Alphabete
+
+Ursprünglich war das griechische Alphabet ebenso wie das phönizische linksläufig, d. h., es wurde von rechts nach links geschrieben.
+Danach wurde furchenwendig, d. h. abwechselnd links- und rechtsläufig (als Bustrophedon), geschrieben, erst später setzte sich die rechtsläufige Schreibrichtung durch.
+Bis ins 9. Jahrhundert n. Chr. gab es nur die heutigen Großbuchstaben, die ohne Wortzwischenräume oder Satzzeichen geschrieben wurden.
+
+Zunächst war die griechische Schrift keineswegs einheitlich.
+Es bildeten sich lokale (sogenannte epichorische) Alphabete mit jeweils unterschiedlichen Zeichen.
+Sie werden nach der Einteilung des Gräzisten Adolf Kirchhoff in drei Hauptgruppen und nach den Farben benannt, die Kirchhoff in seinen Studien zur Geschichte des Griechischen Alphabets von 1887 zu ihrer Markierung verwendete.
+Das wichtigste Unterscheidungsmerkmal sind die sogenannten Supplement-Zeichen, also die zusätzlich zu der übernommenen phönizischen Schrift neu geschaffenen Zeichen ,  und .
+Bei den "grünen" Alphabeten auf Kreta fehlen diese Supplement-Zeichen völlig.
+Die "roten Alphabete", die z. B. auf Euböa und in Lakonien verwendet wurden, haben  und  mit den Lautwerten und .
+Die "blauen" Alphabete unterteilen sich in zwei Untergruppen.
+Die "hellblauen" Varianten in Attika verwenden  und  für und .
+Die "dunkelblauen" Alphabete etwa in Korinth und auf Rhodos haben zusätzlich dazu noch das Zeichen  mit dem Lautwert .
+
+=== Standardisierung
+
+Ab dem 5. Jahrhundert v. Chr. begann sich die ionische Variante des griechischen Alphabets (meist als ionisches Alphabet oder milesisches Alphabet bezeichnet) auch in anderen Städten durchzusetzen.
+In Athen wurde 403 v. Chr. unter dem Archonten Eukleides das ionische Alphabet amtlich eingeführt.
+Das milesische Alphabet besaß einige zusätzliche Buchstaben, gleichzeitig wurden nicht mehr benötigte Buchstaben wie das Digamma abgeschafft.
+Im alten attischen Alphabet gab es keine Unterscheidung zwischen langen und kurzen e- und o-Lauten, beide wurden mit Epsilon bzw. Omikron geschrieben.
+Für das lange war im milesischen Alphabet das Omega () entwickelt worden.
+Weil im ionischen Dialekt der h-Laut ausgefallen war, hatte man in Milet das  zum Vokalzeichen für umfunktioniert.
+In Attika hatte man die Lautfolgen und zuvor mit  und  geschrieben, nun gab es dafür die Buchstaben Xi () und Psi ().
+Durch die Vormachtstellung Athens wurde das milesische Alphabet zur Standardvariante der griechischen Schrift und verdrängte nach und nach die epichorischen Alphabete.
+
+=== Spätantike und Mittelalter
+
+Im 3. Jahrhundert v. Chr. entwickelte Aristophanes von Byzanz in Alexandrien die Tonzeichen zur Unterscheidung der Töne.
+Diese ursprünglich als Lesehilfe gedachten Akzente benötigte man für poetische und Theatertexte, zumal der dezentralisierende Akzent einem zentralisierenden zu weichen begann.
+Die Minuskeln entwickelten sich erst in byzantinischer Zeit, wohl in Syrien im 9. Jahrhundert, aus einer Vereinfachung der Alltagsschrift (Kursive).
+Noch im 12. Jahrhundert wanderte das nicht ausgesprochene Iota unter den vorangehenden Vokal (Iota subscriptum).
+
+In der Spätantike entstanden in Griechenland ähnlich wie im Westen Europas neue Schriftformen, die für die neuen Schreibstoffe und -techniken besser geeignet waren.
+Daraus ging die mittelalterliche griechische Buchschrift hervor, zunächst die sogenannten Unziale, dann über Zwischenstufen die Minuskel.
+
+=== Neuzeit
+
+Während die Antike nur Großbuchstaben (Versalien) kannte, die für das Schreiben von Briefen und Büchern lediglich kursiver geschrieben wurden, entstanden mit der Minuskel erstmals jene Kleinbuchstaben (Gemeine), die noch heute in den griechischen Druckschriften fortleben.
+Die dabei übliche Zuordnung, Großbuchstaben am Beginn von Namen sowie gegebenenfalls von Sätzen zu verwenden, kam jedoch erst in der frühen Neuzeit auf; im Mittelalter wurden Handschriften zunächst vollständig in der Unziale, später vollständig in Minuskel geschrieben, wobei die Großbuchstaben höchstens für Überschriften u. ä. Auszeichnungen gebraucht wurden.
+
+In der frühen Neuzeit gab es in der gedruckten Schrift zahlreiche Ligaturen und Abkürzungen, die später wieder verschwanden.
+Einzig das Stigma (, ), die Ligatur aus Sigma und Tau, und die Verbindung aus Omikron und Ypsilon ( und , in moderner Typographie mit  und  wiedergegeben) haben sich bis heute erhalten.
+
+Gleichzeitig hat sich in Griechenland eine Schreibschrift herausgebildet, die teilweise auf andere Formen der griechischen Minuskeln zurückgeht als die heute übliche Druckschrift.
+Es existieren aber auch einige Varianten in der Druckschrift, die den schreibschriftlichen Formen ähneln, so  für ,  für  oder  für .
+Einige Buchstaben der Schreibschrift gleichen Formen der lateinischen Schreibschrift, so das Vita dem b, das Ita dem n oder das Psi dem y. Diese Schreibschrift, bei der nicht alle Buchstaben miteinander verbunden sind, ist auch die Grundlage der heutigen persönlichen Handschriften griechischer Schreiber.
+
+Die in Spätantike und Mittelalter entwickelte Orthographie für das Altgriechische blieb auch für das Neugriechische zunächst verbindlich, obwohl viele Unterscheidungen phonetisch nicht mehr benötigt wurden.
+Erst 1982 vereinfachte man das Alphabet, indem man den Spiritus abschaffte und statt der drei Akzente einen einzigen, reinen Betonungsakzent einführte.
+
+== Weitere Verwendung
+
+Außer für das Griechische wurde das griechische Alphabet in der Antike auch für einige weitere antike Sprachen verwendet.
+Dazu gehörten in Kleinasien gesprochene Sprachen wie Phrygisch und Lydisch, die auf dem Balkan gesprochene thrakische Sprache sowie einige weitere ausgestorbene Sprachen wie Baktrisch in Zentralasien.
+Von allen diesen Sprachen sind jedoch nur spärliche Schriftquellen erhalten.
+
+Heute findet das griechische Alphabet praktisch nur für die griechische Sprache Verwendung.
+Daneben werden nur vereinzelt einige in Griechenland gesprochene Minderheitensprachen wie Aromunisch oder Arvanitisch in griechischer Schrift aufgezeichnet.
+Außerdem schreiben die Karamanli, eine christlich-orthodoxe Minderheit aus der Türkei, ihre türkische Mundart in griechischer Schrift.
+Bei allen diesen Minderheitensprachen ist allerdings die schriftliche Verwendung sehr selten.
+
+Die mathematisch-naturwissenschaftliche Notation greift oft auf griechische Buchstaben zurück.
+So werden Winkel meist mit griechischen Kleinbuchstaben bezeichnet.
+Viele spezielle Funktionen sind nach griechischen Buchstaben benannt, ebenso wie mathematische und physikalische Konstanten.
+Die wohl bekanntesten Beispiele sind die Kreiszahl  {\displaystyle \pi } und die lemniskatische Konstante  {\displaystyle \varpi } .
+Daher spielt das griechische Alphabet beim Formelsatz eine wesentliche Rolle.
+
+Das griechische Alphabet wird häufig zur Nummerierung von Rangfolgen verwendet:
+
+== Weiterentwicklungen aus der griechischen Schrift
+
+Das lateinische Alphabet geht über das von den Etruskern verwendete altitalische Alphabet auf eine westgriechische Variante zurück.
+Einige Unterschiede in Lautwert griechischer und lateinischer Zeichen erklären sich mit dem westgriechischen Ursprung; so stand X dort ebenso wie im Lateinischen für und nicht für .
+Andere Unterschiede sind der etruskischen Überlieferung geschuldet; z. B. verfügte die etruskische Sprache nicht über die Laute und , weshalb den griechischen Buchstaben  und  die Lautwerte bzw. zugeordnet wurden.
+Die Römer übernahmen sie in Form der Buchstaben C und F.
+In späterer Zeit wurden die Buchstaben Y und Z direkt aus dem griechischen Alphabet übernommen, um griechische Lehnwörter wiedergeben zu können.
+
+Das kyrillische Alphabet wurde im 10. Jahrhundert auf Grundlage einer griechischen Unzialschrift entwickelt.
+Zusätzlich zu den im griechischen Alphabet vorhandenen Zeichen enthält das kyrillische Alphabet für Laute, die im Griechischen nicht vorkamen, Zeichen aus dem glagolitischen Alphabet.
+Die Aussprache des Griechischen hatte sich zu dieser Zeit bereits gewandelt, weshalb etwa die kyrillischen Buchstaben  und  ebenso wie  und  im Neugriechischen als und ausgesprochen werden.
+Ursprünglich wurden auch diejenigen griechischen Buchstaben übernommen, deren Aussprache im Kirchenslawischen mit der anderer Lettern zusammenfiel, wie  (Fita), das auf das griechische  zurückging und gesprochen wurde, und  (Omega).
+Nach der Oktoberrevolution wurden  (Fita) und  (Ksi) abgeschafft, im Russischen auch das  (Iota).
+Letzteres blieb aber im Ukrainischen, Weißrussischen und Kasachischen als Vokal  (im Ukrainischen zudem als ), im Serbischen und Mazedonischen als Konsonant  erhalten.
+
+Die Kopten in Ägypten verwenden für die mittlerweile nur noch als Sakralsprache verwendete koptische Sprache das koptische Alphabet.
+Dabei handelt es sich um eine Abwandlung des griechischen Alphabets, das mit Zeichen aus der altägyptischen demotischen Schrift erweitert wurde.
+
+Die ausgestorbene gotische Sprache wurde mit dem gotischen Alphabet geschrieben.
+Dieses entwickelte im 4. Jahrhundert der Bischof Wulfila ebenfalls auf Grundlage des griechischen Alphabets.
+Daneben enthält die gotische Schrift Buchstaben, die aus dem lateinischen Alphabet oder der Runenschrift übernommen wurden.
+
+Die armenische und die georgische Schrift wurden beide im 5. Jahrhundert vom Heiligen Mesrop neu entwickelt.
+Dabei zeigt vor allem die Reihenfolge der Buchstaben griechischen Einfluss.
+Ähnlich verhält es sich mit dem glagolitischen Alphabet, das im 9. Jahrhundert von Kyrill von Saloniki, nach dem das kyrillische Alphabet benannt ist, erschaffen wurde.
+
+== Typografie und Zeichenkodierung
+
+Der erste bekannte Druck mit Lettern in griechischer Schrift ist ein Ausschnitt aus dem platonischen Dialog Gorgias, enthalten in einer römischen Ausgabe der Noctes Atticae des Aulus Gellius aus dem Jahr 1469.
+Im 16. Jahrhundert wirkte als bedeutendster Drucker mit griechischen Typen der Pariser Drucker Robert Estienne.
+
+Seit Einführung des Fotosatzes entstanden zahlreiche digitale Schriftsätze wie die Sophia CF oder die Demo CF.
+
+Für die Kodierung griechischer Zeichen existieren verschiedene Standards.
+ISO 8859-7 und Windows-1253 sind zwei ähnliche, aber inkompatible 8-Bit-Zeichenkodierungen, die die Zeichen der neugriechischen Schrift umfassen.
+Die Zeichen für Griechisch in Unicode umfassen dagegen auch Buchstaben mit Diakritika für die polytonische Orthographie.
+
+== Griechisch auf der Computertastatur
+
+Die griechischen Zeichen können auf der Computertastur mit einem Code eingeben werden.
+Die monotonischen Zeichen (ohne Akut) finden sich im Unicodeblock Griechisch und Koptisch, die polytonischen Zeichen (mit Diakritika) im Unicodeblock Griechisch, Zusatz.
+In Textprogrammen können die Zeichen zusammen mit den Codes auch im Menüpunkt Sonderzeichen einfügen gefunden und generiert werden.
+
+Beispiel: a entsteht unter Windows (Word-Dokument) durch die
+
+Eingabemethoden für andere Betriebs- und Textsysteme, siehe Unicode#Verwendung auf Computersystemen.
+
+Unter Windows gibt es unverändert seit Windows 98 ein praktikable Methode.
+Es lassen sich fast alle - Ausnahmen:
+   - griechische Zeichen durch bestimmte Tastenkombinationen erzeugen.
+Voraussetzung ist, dass statt der Deutsch-Tastatur die griechische, genauer die Griechisch (Polytonisch)-Tastatur angewählt und benutzt wird, möglicherweise muss sie dazu über die Systemeinstellungen heruntergeladen und hinzugefügt werden.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,145 @@
+Eine Seilbahn ist ein zu den Bahnen gehörendes Verkehrsmittel für den Personen- oder Gütertransport.
+
+== Begriff
+
+Seilbahnen werden nach folgenden Kriterien unterschieden:
+
+Der Begriff Seilbahn wird im Sprachgebrauch als generischer historischer Begriff eher für Luftseilbahnen verwendet, woraus sich der Gebrauch ergeben hat, Standseilbahnen immer mit der Vorsilbe Stand- zu kennzeichnen.
+Seilbahnen, die auf Berge führen, gehören genauso wie die Zahnradbahnen zu den Bergbahnen.
+Wird eine Strecke mit mehreren Seilbahnen überbrückt, so werden die getrennten Streckenabschnitte als Sektionen bezeichnet.
+
+Seilbahnen können sowohl touristische Ziele wie z. B. Berggipfel anfahren als auch innerstädtisch im öffentlichen Personennahverkehr eingesetzt werden.
+Letzteres ist vor allem in (Süd)amerika verbreitet.
+Mit dem Seilbahnwesen im Allgemeinen befasst sich die Internationale Organisation für das Seilbahnwesen.
+
+=== Fremdsprachige Bezeichnungen
+
+Der Begriff 'cable car' bezeichnet im Britischen Englisch generell Luftseilbahnen, aber im Amerikanischen Englisch Kabelstraßenbahnen, dort werden Luftseilbahnen 'gondola' (für Gondelbahn) oder 'aerial tram' (für Pendelbahn) differenziert bezeichnet, eine Standseilbahn heißt im gesamten englischen Sprachraum 'funicular railway' oder gekürzt 'funicular'.
+
+=== Klassifizierungen nach CEN
+
+Seilbahnen werden nach CEN nach verschiedenen Kriterien klassifiziert:
+
+== Bauarten
+
+=== Luftseilbahnen
+
+Luftseilbahnen sind Bahnen, bei denen die Fahrzeuge an Trag- oder Förderseilen hängend ohne Bodenkontakt verkehren.
+Der vorgesehene Abstand der Seile zum Boden wird durch Seilbahnstützen gewährleistet.
+Sie sind die zahlenmäßig bei weitem häufigste Konstruktionsart der Seilbahnen.
+Der Begriff umfasst Pendelbahnen, Gondelbahnen, Sessellifte, Sesselbahnen, Kombibahnen sowie Materialseilbahnen.
+
+=== Schienenseilbahnen
+
+Diese Seilbahnen fahren auf Schienen auf einem eigenen Gleiskörper am Boden oder auf aufgeschütteten oder aufgeständerten Trassen.
+
+=== Schlepplifte
+
+Schlepplifte und Schlittenseilbahnen zur Beförderung von am Boden fahrenden Wintersportlern werden ebenfalls zu den Seilbahnen gezählt.
+
+=== Sonderkonstruktionen
+
+=== Anlagenbestand weltweit
+
+Die 61. Internationale Tagung der Technischen Aufsichtsbehörden (ITTAB) veröffentlichte für das Jahr 2011 folgende weltweiten Anlagen- und Beförderungsfallzahlen:
+
+== Eigenschaften
+
+=== Fahrgeschwindigkeit
+
+Die aufgrund technischer Gegebenheiten und gesetzlicher Vorschriften erreichbaren Maximalgeschwindigkeiten betragen
+
+Kuppelbare Fahrbetriebsmittel werden innerhalb der Station beschleunigt und abgebremst, fix geklemmte außerhalb der Station, was sich auf die nötige Baulänge der Stationen, aber auch auf die erreichbare Endgeschwindigkeit auswirkt.
+Um Energie zu sparen, können Seilbahnen mit geringeren Geschwindigkeiten gefahren werden.
+Die Maximalgeschwindigkeit kommt bevorzugt zum Einsatz, um großen Andrang und hohe Fahrgastzahlen bedienen zu können.
+
+=== Energiebedarf
+
+Seilbahnen werden überwiegend elektrisch angetrieben.
+Da der Antrieb ortsfest in einer Station erfolgt, müssen in Fahrzeugen keine Akkumulatoren und Antriebssysteme bewegt, beschleunigt oder verzögert werden.
+Allerdings muss bei Seilbahnen Energie dafür aufgewendet werden, um die tonnenschweren Zug- oder Förderseilschleifen mitsamt den daran befindlichen Fahrbetriebsmitteln zu beschleunigen und zu bewegen.
+Das Anfahren ist  abgesehen nach Notstopps  bei umlaufenden Förderseilen nur beim täglichen Betriebsbeginn nötig, kuppelbare Fahrbetriebsmittel werden gesondert beschleunigt und abgebremst.
+Bei der Umlenkung von Zug- und Förderseilen reiben die Drahtseillitzen aneinander, infolge dieser inneren Reibung werden Biege- und Bewegungsenergie in Wärme umgesetzt.
+Zur Verminderung der inneren Seilreibung werden die Drahtseile gefettet, die Durchmesser der Umlenk- und Antriebsseilscheiben passend zum Seildurchmesser möglichst groß gewählt sowie (senkrechte, größenbeschränkte) Trag-, Stütz- und Niederhalterollen als vielzählige Abfolge (Laufkatze, Rollenbatterie; siehe Seilbahnstütze#Führung von laufenden Seilen) ausgeführt.
+
+Seilbahnen können mit modernen rückspeisefähigen Asynchronmotoren mit Frequenzumrichtern als Antriebsmaschinen ausgerüstet werden, die im Bremsbetrieb (Tallast größer als die Berglast) als Nutzbremse im Generatorbetrieb Strom wieder in das Versorgungsnetz zurückspeisen können.
+Genutzt wird das vor allem bei Zubringerbahnen, die Skifahrer von einem höhergelegenen Skigebiet (Gletscher) wieder zu Tal bringen, und bei Materialseilbahnen, die dauernd Lasten bergab transportieren.
+
+Bei allen zweispurigen Seilbahnen mit gemeinsamer Zug- oder Förderseilschlaufe (Umlaufseilbahnen, Pendelbahnen, Standseilbahnen) stehen die Massen der auf- und abwärts bewegten Seile und leeren Fahrbetriebsmittel bei vorhandenen Höhendifferenzen meist annähernd im Gleichgewicht.
+Es muss nur Antriebsenergie zum Anheben der bergfahrenden Last, zur Überwindung der Reibungsverluste, der Trägheit und des Luftwiderstandes aufgewendet werden.
+Diese Seilbahnen nutzen die potentielle Energie talfahrender Lasten durch die mechanische Kopplung unmittelbar aus, um den Leistungsbedarf für den Höhengewinn bergfahrender Lasten (bei Steigungen oder beim Seildurchhang) oder für die sonstige aufzubringende Energie zumindest teilweise zu kompensieren und dadurch den Energieverbrauch zu vermindern.
+Im Vergleich zu anderen strombetriebenen nutzbremsenden Nahverkehrsmitteln bringt diese systembedingte Vermeidung von getrennten, verlustbehafteten Umwandlungen von elektrischer Energie in mechanische Arbeit und zurück einen Vorteil, der Seilbahnen zum energieeffizientesten strombetriebenen Verkehrsmittel überhaupt macht.
+
+Von 100 % elektrischer Leistungsaufnahme einer Umlaufbahn (Lenzerheide Bergbahnen (Schweiz), mit 65 % Auslastung bei voller Geschwindigkeit) waren im Schnitt 40 % für die Transportleistung, 40 % für Seilreibung und Rollenreibung, 11 % für Antriebsverluste (bei Motor, Getriebe und Umrichter), 5 % für die Bahninfrastruktur (Bewegung der Kabinen in der Station) und 4 % für Windverluste nötig
+
+In einer von einem Seilbahnhersteller beauftragten Vergleichsuntersuchung eines Strategieberatungsunternehmens zur Klimafreundlichkeit der vier Verkehrsmittel Seilbahn, Bus, Bahn und Auto ergaben sich für eine Auslastung von 50 % für eine Seilbahn - beim Bergauffahren aber auch in der Ebene, im Sommer und im Winter - (für die nötige Stromerzeugung) die geringsten CO2-Emissionen (Benzin-Pkw im Mittel 248 g CO2 pro Person und Kilometer (g/Pkm), ein Diesel-Linienbus 38,5 g/Pkm, die Bahn mit E-Lokomotive 30 g/Pkm und die Seilbahn 27 g/Pkm).
+
+Der tatsächliche Energiebedarf pro Person und km sowie die damit verbundenen CO2-Emissionen hängen maßgeblich von der Auslastung ab.
+Gemäß Veröffentlichung eines Seilbahnherstellers wurden während der Bundesgartenschau 2011 in Koblenz 1.046 MWh an Energie für die dortige Seilbahn benötigt, während die Beförderung der Besucher nur mit Shuttlebussen 4.036 MWh erfordert hätte.
+
+=== Sicherheit
+
+Wie alle exponierten Bauwerke laufen die Fahrzeuge, Stützen, Masten und Seile von Luftseilbahnen und die Fahrzeuge, Schienen und Ständerkonstruktionen von Standseilbahnen Gefahr, von Blitzen getroffen zu werden.
+Da die Seile über gummigefütterte Rollen geführt werden und dort kein Erdschluss zustande kommt, helfen spezielle Blitzschutzmaßnahmen, Personen- und Materialschäden zu vermeiden.
+Geschlossene Fahrzeuge sind dabei wie Faradaysche Käfige sicher für die Beförderten, Erdschluss bei Schleppliftbenutzern kann tödlich verlaufen (mehr dazu bei Blitzschutz bei Seilbahnen).
+
+Zur Erkennung technischer Mängel werden alle Seilbahnanlagen entsprechend den gesetzlichen Vorgaben einer technischen Erstabnahme bei Fertigstellung und im Betrieb wiederkehrend überprüft.
+Zur regelmäßigen Überprüfung der Drahtseile kommen dabei Verfahren der zerstörungsfreien Werkstoffprüfung wie die magnetinduktive Methode zur Anwendung.
+
+Als Folge der Brandkatastrophe der Gletscherbahn Kaprun 2 im Jahre 2000 mit 155 Todesopfern wurden die gesetzlichen Vorschriften und Leitfäden bezüglich des Brandschutzes in Seilbahnen überarbeitet und die Anforderungen verschärft.
+
+Ausgearbeitete Bergungskonzepte (etwa Abseilen der Fahrgäste, Bergung mit Bergefahrzeugen oder per Hubschrauber bei Luftseilbahnen, Notstiegen bei Standseilbahnen) oder in jüngerer Zeit alternativ Räumungskonzepte (Fahrt aller Fahrbetriebsmittel in die nächste Station auch bei Ausfall des Hauptantriebs) sind die Voraussetzungen zur Erlangung einer Seilbahn-Betriebsbewilligung.
+
+Dazu siehe auch:
+
+=== Barrierefreiheit
+
+Luftseilbahnen mit geschlossenen Fahrbetriebsmitteln (Gondeln) können, falls dies für den Einsatzzweck gefordert ist, ab einer gewissen Größe der Gondeln (ab ca. 8er-/10er Gondel) weitgehend barrierefrei gestaltet werden, bei kleineren Fahrzeugen kann es zu Einschränkungen bei der Türbreite und dem Platzangebot für Rollstühle oder Kinderwägen kommen.
+Bei Standseilbahnen können sich Einschränkungen aufgrund der meist der Streckenneigung angepassten Bahnsteige ergeben.
+In der Schweiz müssen nach dem Behindertengleichstellungsgesetz Seilbahnen ab neun Plätzen pro Transporteinheit (mit Ausnahme der Skilifte und Sesselbahnen) behindertengerecht sein.
+
+== Vorschriften
+
+=== Seilbahngesetze
+
+Die Europäische Union hat die Vorschriften für Seilbahnen in der EU-Richtlinie 2000/9/EG des Europäischen Parlamentes und Rates vom 20. März 2000 für Seilbahnen für den Personenverkehr harmonisiert und den Regelungsinhalt der Landesgesetze in den Mitgliedsstaaten für industriell hergestellte und auf dem Markt gehandelte Komponenten von Seilbahnanlagen (Sicherheitsbauteile und Teilsystemen) reguliert.
+
+Bau und Betrieb einer Seilbahn müssen behördlich nach den jeweiligen nationalen Gesetzen und Verordnungen genehmigt werden.
+Dies sind beispielsweise
+
+Seilbahnen, die ihren Betrieb behördlich als öffentlichen Verkehr konzessioniert oder bewilligt bekommen haben, unterliegen im Regelfall sowohl einer gesetzlichen Betriebspflicht (Aufrechterhaltung des genehmigten fahrplanmäßigen Betriebes) als auch einem Beförderungszwang bzw. Kontrahierungszwang und sind verpflichtet, Fahrgäste mitzunehmen, solange sich diese an die Beförderungsbedingungen halten und den Anweisungen des Personals zum ordnungsgemäßen Betrieb Folge leisten.
+
+=== Nicht den Seilbahngesetzen unterliegende Anlagen
+
+Nicht zu den in den vorgenannten Seilbahngesetzen geregelten Seilbahnen gehören folgende Anlagen, die Seile als Förder- oder Kraftübertragungsmittel einsetzen:
+
+== Bedeutende Konstrukteure und Seilbahnpioniere
+
+(in alphabetischer Reihenfolge)
+
+=== Hersteller (Auswahl)
+
+Die Doppelmayr/Garaventa-Gruppe und die Leitner-Gruppe dominieren rund 90 % des Weltmarkts.
+
+Weitere Hersteller sind oder waren:
+
+Außer in den Alpenländern existieren noch Seilbahnhersteller in der Türkei (beispielsweise STM), Japan (beispielsweise Anzen Sakudo, Nippon Cable, Taihei), Indien (beispielsweise Dadomar Ropeways, Conveyor&Ropeway Services), China (beispielsweise ENFI, Beijing Goodyou Ropeway Engineering), den Vereinigten Staaten u. a. m. sowie Hersteller, die auf den Bau von Seilbahnkabinen, Schleppliften, Sesselliften oder Materialseilbahnen spezialisiert sind.
+Auch komplette Seilbahnen sind dabei nicht von Produktpiraterie verschont.
+
+=== Seilbahnen als Kulturgüter
+
+Das Schweizer Bundesamt für Kultur publiziert seit 2011 ein Seilbahninventar mit näheren Angaben über Schweizer Seilbahnen von besonderer kulturhistorischer oder technischer Bedeutung.
+Das Inventar enthält 67 Objekte von nationaler und 44 Objekte von regionaler Bedeutung sowie 18 besonders innovative neuere Seilbahnanlagen.
+Insgesamt sind in der Schweiz rund 3.000 Seilbahnen zugelassen.
+
+In Deutschland steht z. B. die Predigtstuhlbahn in Bad Reichenhall unter Denkmalschutz.
+Die 1928 errichtete Bahn ist die weltweit älteste original erhaltene Seilschwebebahn.
+
+Mitunter werden Gondeln abgebrochener Seilbahnen an Interessenten verkauft, für Tourismuswerbung oft im Freien aufgestellt, kleine auch auf Messen, als Gartenhütte oder Unterstand am Berg, als Fotomotiv, Spielgerät oder Dekoration genutzt.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

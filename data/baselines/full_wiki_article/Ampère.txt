@@ -1,0 +1,25 @@
+Das Ampere mit Einheitenzeichen A, benannt nach dem französischen Mathematiker und Physiker Andre-Marie Ampere, ist die SI-Basiseinheit der elektrischen Stromstärke und zugleich SI-Einheit der abgeleiteten Größe magnetische Durchflutung.
+Obwohl man den Nachnamen des Namensgebers Ampere mit Gravis schreibt, wird die SI-Einheit im deutschen und englischen Sprachraum ohne Akzent geschrieben, also "Ampere".
+Ein Ampere entspricht einem Fluss von 1 Coulomb (C) pro Sekunde durch den Leiterquerschnitt:
+Das Coulomb ist im Internationalen Einheitensystem über die festgelegte Elementarladung e = 1,602 176 634 * 10 - 19 As {\textstyle e=1{,}602\,176\,634\cdot 10^{-19}{\text{As} }} definiert.
+Ein Ampere entspricht daher genau einem Strom von 1 / ( 1,602 176 634 * 10 - 19 ) {\textstyle 1/(1{,}602\,176\,634\cdot 10^{-19}) } Elementarladungen pro Sekunde, bei einem Fluss von Elektronen sind dies ca. 6,2 * 1018 (6,2 Trillionen) Elektronen pro Sekunde.
+Ein Fluss von 1 A über eine Spannung von 1 Volt (V) bedeutet eine Leistung von 1 Watt (W).
+Bevor das Ampere als internationale Einheit der Stromstärke festgelegt wurde, gab es eine Reihe von unterschiedlichen Einheiten und Definitionen.
+In Deutschland und einigen anderen Ländern war die "Webersche Einheit" der Stromstärke in Gebrauch, die 0,1 Ampere entsprach.
+In Großbritannien schlug man zunächst vor, die Einheit der Stromstärke mit "Galvat", nach dem italienischen Biophysiker Luigi Galvani, zu benennen, die in etwa dem heutigen Ampere entsprochen hätte.
+Später wurde ebenfalls eine "Weber-Einheit" für die Stromstärke eingeführt, die aber einen zehnmal so hohen Wert hatte wie die in Deutschland gebräuchliche (also dem heutigen Ampere entsprach).
+Noch verwickelter wurde es dadurch, dass der Name Weber auch für die Einheit der elektrischen Ladung benutzt wurde, so dass dann die Stromstärke gleich "Weber-Einheit/Sekunde" war.
+Zeitweise gab man der Weber-Einheit auch den Namen "Farad", womit später die Einheit der elektrischen Kapazität benannt wurde.
+Auf dem internationalen Elektrizitätskongress 1881 wurde der Einheitenname "Ampere" beschlossen.
+In einem System mit den drei Basisgrößen "Länge", "Masse" und "Zeit" lassen sich elektromagnetische Einheiten zwar auf die drei Basiseinheiten zurückführen, es treten aber zwangsläufig halbzahlige Exponenten auf, wie das etwa beim CGS-Einheitensystem geschieht.
+Dies lässt sich durch Hinzunahme einer vierten Basiseinheit vermeiden.
+1956 wurde beschlossen, dass dies die Einheit der Stromstärke sein sollte (MKSA-System).
+1898 wurde 1 Ampere im "Gesetz, betreffend die elektrischen Maßeinheiten" des Deutschen Kaiserreichs als die Stärke desjenigen Stromes definiert, der aus einer wässrigen Silbernitrat-Lösung mittels Elektrolyse in einer Sekunde 1,118 mg Silber abscheidet.
+Das so definierte Ampere ist später als internationales Ampere bezeichnet worden; das mit den restlichen Basiseinheiten kompatible dagegen als absolutes Ampere.
+1948 wurde das Ampere wie folgt über die Lorentzkraft zweier Leiter aufeinander definiert:
+Mit dieser Definition, die dem "absoluten Ampere" entsprach, wurde zugleich der Wert der magnetischen Feldkonstante 0 festgelegt.
+Am 16. November 2018 wurde auf der 26. Generalkonferenz für Maß und Gewicht beschlossen, das Ampere und andere SI-Basiseinheiten mit Wirkung zum 20. Mai 2019 neu zu definieren.
+Mit dieser Neudefinition des Internationalen Einheitensystems basiert das Ampere auf der Elementarladung, der ein fester Zahlenwert zugewiesen wurde.
+Seitdem hängt die Definition des Amperes nur noch von der Definition der Sekunde ab, nicht mehr jedoch vom Meter und vom Kilogramm.
+Die Neudefinition wurde vorgenommen, da diese leichter zu realisieren ist.
+Die magnetische Feldkonstante 0 ist seitdem eine mit einer Messunsicherheit behaftete Messgröße, die experimentell bestimmt werden muss.

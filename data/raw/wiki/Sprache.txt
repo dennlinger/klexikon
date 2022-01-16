@@ -1,0 +1,202 @@
+Unter Sprache versteht man im allgemeinen Sinn alle komplexen Systeme der Kommunikation.
+Darunter fallen die menschlichen natürlichen Sprachen sowie auch konstruierte Sprachen, aber auch im Tierreich existieren Zeichensysteme und kommunikative Handlungen, die als Sprache bezeichnet werden, etwa die Tanzsprache der Bienen.
+Unter den menschlichen natürlichen Sprachen ist eine wesentliche Unterteilung die zwischen Lautsprache und Gebärdensprache.
+Die geschriebene Sprache ist oft eine Abbildung einer Lautsprache (z. B. bei Alphabetschriften), kann aber auch davon unabhängig sein (Logografie).
+
+Die wissenschaftliche Disziplin, die sich mit der menschlichen Sprache allgemein beschäftigt (vor allem mit natürlicher Sprache), ist die Linguistik (Allgemeine Sprachwissenschaft).
+Sprache und Sprachverwendung erscheinen auch als Themen in anderen Wissenschaften wie Psychologie, Neurologie, Kognitionswissenschaft, Kommunikationswissenschaft, Rhetorik, Sprechwissenschaft, Philosophie (Sprachphilosophie), Medienwissenschaft, Informatik, Semiotik, Literaturwissenschaft, Religionswissenschaft, Anthropologie und Ethnologie.
+
+Die Zahl der menschlichen Sprachen beläuft sich weltweit gegenwärtig auf etwa 6.000, wobei Schätzungen zufolge ungefähr 90 Prozent davon am Ende dieses Jahrhunderts verdrängt sein werden.
+Im Weltatlas der gefährdeten Sprachen listet die UNESCO alle weltweit vom Aussterben bedrohten Sprachen auf.
+Mit dem Erlöschen einer Sprache geht auch ein kulturelles Gedächtnis verloren.
+Heute wird versucht, mit politischen und rechtlichen Initiativen diesem drohenden Verlust entgegenzuwirken.
+Jede Sprache gilt als Immaterielles Kulturerbe und unterliegt damit internationalem Schutz.
+
+== Sprache als Zeichensystem
+
+=== Einzelsprachen
+
+Im speziellen Sinn bezeichnet das Wort Sprache eine bestimmte Einzelsprache wie Deutsch, Japanisch oder Swahili.
+Die gesprochenen Sprachen der Menschheit werden gemäß ihrer genetischen Verwandtschaft in Sprachfamilien gegliedert.
+Jede einzelne Sprache wird dabei anhand der sogenannten Language Codes nach den ISO-639-Teilnormen international eindeutig klassifiziert.
+Von den heute rund 6500 gezählten Einzelsprachen - laut National Geographic Society seien 2005 weltweit sogar 6912 Sprachen aktiv verwendet worden - sind mehr als die Hälfte vom Sprachtod bedroht, da sie kaum noch gesprochen und häufig auch nicht mehr an Kinder weitergegeben werden.
+Man vermutet, dass daher in den nächsten 100 Jahren ein großer Teil der heute noch vorhandenen Sprachen verschwinden wird.
+Derzeit werden die häufigsten 50 Sprachen von rund 80 Prozent der Menschheit als Muttersprache (und von rund 90 % auch als Zweitsprache) gesprochen, alle anderen (noch) existierenden Sprachen von den restlichen 20 Prozent der Menschen.
+
+Die Abgrenzung von Sprache und Dialekt war lange Zeit sehr umstritten, sei jedoch heute nach den Theorien von Heinz Kloss aufgrund von wissenschaftlichen Kriterien fast immer möglich (siehe hierzu auch den Artikel Dialekt).
+
+Aus ethnologischer und soziolinguistischer Sicht werden die vom Menschen im Alltag verwendeten Sprachen hinsichtlich ihrer Entstehung in natürlich entstandene Sprachen wie Englisch oder Spanisch und in bewusst ausgearbeitete konstruierte Sprachen wie Esperanto oder Klingonisch unterteilt.
+
+Auch die natürliche Sprache kann von bewusster Planung beeinflusst werden, so etwa im Falle des Deutschen in der Bibelübersetzung von Martin Luther.
+Diese Varietät war eine konstruierte Form, die allerorten verstanden werden sollte.
+In der Folge wurde sie letztlich zur Verkehrssprache.
+Varianten von ethnischen Sprachen werden im Zuge von sprachpolitischen Maßnahmen manchmal zu einer Varietät nach Plan vereinheitlicht, wie etwa im Falle des Ladinischen in Südtirol/Norditalien.
+Es gibt jedoch Grenzen der Regelbarkeit von natürlicher Sprache, da es sich bei sprachlichem Wissen um unbewusstes Wissen handelt, das auch sehr früh im Leben und unbewusst erworben wird.
+Jede natürliche Sprache zeigt in diesem Kontext historische Veränderung, die über Normierungsversuche oft hinweggeht.
+
+=== Konstruierte und formale Sprachen
+
+Anders als die natürlichen Einzelsprachen sind formale Sprachen durch Logik und Mengenlehre beschreibbar (aufzählbare Menge von Basisausdrücken, klare Regeln der Komposition, wohlgeformte Ausdrücke).
+Sie finden z. B. in der theoretischen Informatik, vor allem bei der Berechenbarkeitstheorie und dem Compilerbau Anwendung.
+Programmiersprachen wie ALGOL, APL, Fortran, COBOL, BASIC, C, C++, Ada, Lisp, Prolog, Python, Java oder Perl sind für bestimmte Zwecke konstruiert und beruhen auf theoretischen sowie pragmatischen Überlegungen.
+
+Der Mathematiker Paul Lorenzen verfolgte mit seinem Projekt des Orthosprachenprogramms die Konstruktion einer eindeutigen und methodisch aufgebauten Wissenschaftssprache, was aber selbst "in der methodischen Philosophie höchst umstritten" war.
+
+Die Beschreibungsprinzipien der formalen Logik werden auch auf die natürliche Sprache angewendet; Pionierarbeit hat dazu der amerikanische Logiker Richard Montague geleistet.
+
+=== Die menschliche gesprochene Sprache als Zeichensystem
+
+Auch die menschliche gesprochene Sprache kann als Zeichensystem (siehe Semiotik) verstanden werden, bestehend aus einer Vielzahl von Zeichen, die eine Bedeutung haben (siehe Semantik), welche mittels grammatikalischer Regeln (Syntaktik) zu unendlich vielen Aussagen verknüpft werden können.
+Ferdinand de Saussure konzipierte das Sprachzeichen als eine willkürliche, nicht zwingende Verbindung von Lautbild (signifiant = das Bezeichnende) und mentaler Vorstellung (signifie = das Bezeichnete).
+
+Wie eine Kritik der Semiotik des 20. Jahrhunderts liest sich Humboldts Bemerkung über die Konventionstheorie der Sprache:
+
+D.h.
+die Bedeutung der Wörter wird im lebendigen Dialog weiterentwickelt; die Sprache hebt die Realität des Objekts und des Subjekts in sich auf, sie vermittelt zwischen beiden und so kann in der Sprache jenseits der Konvention "jede neue immer etwas Neues entdecken".
+Selbst bei empirischen Gegenständen sind die Wörter verschiedener Sprachen nie vollkommene Synonyma; umso mehr gilt dies bei Bezeichnungen für Gedanken und Empfindungen mit noch unbestimmteren Umrissen.
+
+== Evolution der Sprachfähigkeit
+
+=== Sprache als "Instinkt zu lernen"
+
+Bereits Darwin unterschied zwischen der biologischen Fähigkeit des Menschen, die ihm ermöglicht, Sprache zu erwerben, und bestimmten Sprachen als solchen.
+Diese theoretische Unterscheidung wird von der modernen Kognitionsbiologie übernommen.
+Babys haben einen Instinkt zu brabbeln, müssen aber Sprache lernen.
+Für den Ethologen Peter Marler war daher Sprache wie für Darwin kein Instinkt, sondern "Sprache ist ein Instinkt zu lernen, deren Ausdruck beinhaltet, dass sowohl biologische als auch externe Voraussetzungen erfüllt sind".
+Auf diesen "Instinkt", Sprache zu lernen, ist die biologisch evolutionäre Erforschung der Sprachfähigkeit gerichtet.
+Ein wichtiges sprachbezogenes Gen, das in diesem Umfeld entdeckt wurde, ist FOXP2, ein phylogenetisch alter Transkriptionsfaktor, der für die flexibel oral-motorische Stimmkontrolle eine Rolle spielt.
+FOXP2 erfuhr bei der Gattung Mensch vor mindestens 400.000 Jahren eine entscheidende Mutation, was man daraus schließt, dass der Neandertaler dasselbe Allel besitzt.
+Für simple Aspekte der Syntax wurde ein Satz von vier charakteristischen Genen identifiziert.
+
+=== Anatomie
+
+Die vorherrschende Ansicht zur evolutionären Sprachfähigkeit des Menschen war bis etwa 2010, dass den anatomisch modernen Menschen (Homo sapiens) sein Sprechvermögen von den Menschenaffen unterscheide.
+Variationsreiche Sprache wurde demnach erst durch anatomische Veränderungen im Laufe der Stammesgeschichte des Menschen möglich.
+Wie ausgeprägt das Sprechvermögen beim gemeinsamen Vorfahren von Neandertaler und Homo sapiens, dem Homo erectus, entwickelt war, ist unbekannt.
+Ebenso ist unbekannt, wie "fortgeschritten" das morphologische und funktionale Potential für differenzierte sprachliche Kommunikation beim Übergang von Homo erectus zum frühen anatomisch modernen Menschen war.
+Die Vergrößerung des Rachenraumes (als Resonanzkörper), die Absenkung des Kehlkopfes und die bereits beim Homo erectus beginnende Aufwölbung des Gaumens wurden als Notwendigkeit zur größeren Bewegungsfreiheit der Zunge gesehen.
+Im Zusammenwirken von Rachenraum, Mund- und Nasenhöhle, Gaumensegel, Lippen und Zunge kann danach der von den Stimmbändern erzeugte Grundton zu Vokalen und Konsonanten moduliert werden.
+Schädelfunde belegen, dass die Aufwölbung des Gaumens und die Absenkung des Kehlkopfes vor etwa 100.000 Jahren abgeschlossen waren.
+
+In der Kebara-Höhle bei Haifa in Israel wurde bei einem etwa 60.000 Jahre alten Skelett eines Neandertalers ein Zungenbein gefunden, was den Schluss zulässt, dass dieser Mann zur Lautsprache fähig war.
+Anthropologen aus Durham vermuten, dass die Vorfahren der Neandertaler bereits vor mehr als 300.000 Jahren sprechen konnten.
+Sie verglichen die Größe des "Canalis nervi hypoglossi", einer Öffnung in der Schädelbasis, in Schädeln des modernen Menschen mit verschiedenen Fossilien.
+Nach Ansicht dieser Anthropologen ist ein großer Nervus hypoglossus die Voraussetzung für eine differenzierte Sprache.
+Durch diese Öffnung an der Schädelbasis verläuft der Nerv, über den das Gehirn die Zungenbewegung steuert.
+Wissenschaftler stellten fest, dass der Canalis nervi hypoglossi bei Neandertalern ähnlich groß war wie beim heutigen Menschen.
+Bei den Vormenschen der Gattung Australopithecus, die vor rund zwei Millionen Jahren lebten, ist er dagegen deutlich kleiner.
+
+Jüngere Forschungsergebnisse belegen, dass die Absenkung des Kehlkopfs kein allein menschliches Merkmal war, sondern im Tierreich vielfach vorkam, etwa beim Rothirsch oder Wapiti-Hirsch.
+Gleichzeitig wird die früher geleugnete Dynamik und Rekonfigurierbarkeit des Stimmumfangs heute in empirischen Untersuchungen für Tiere bestätigt, etwa bei vielen Säugetieren wie Hunden, Ziegen, Robben, ferner auch bei Alligatoren.
+Wegen der phylogenetisch unterschiedlichen Abstammung der genannten Artenbeispiele wird angenommen, dass die Absenkung des Kehlkopfs ein evolutionär frühes Merkmal war.
+Die Gründe dafür können, etwa beim Hirsch, in sexueller Selektion durch tieferliegende Vokalisation liegen.
+Die Lernfähigkeit für Gesang ist auch Vögeln eigen.
+Diese Erkenntnisse bedeuten, dass erstens der Vokaltrakt zu jedem Zeitpunkt der Primatenevolution ausreichend flexibel für komplexe Sprachentwicklung war und zweitens Fossilfunde von Menschenvorfahren wenig Hinweise für die Sprachfähigkeit liefern.
+Die evolutionären Voraussetzungen für Sprache werden heute vielmehr in der neurologischen Kontrolle bzw. in neurologischen Mechanismen und weniger in der Anatomie des Vokaltrakts gesehen.
+
+=== Neuronale Voraussetzungen
+
+Während Sprache früher als monolithische Einheit behandelt wurde, zerlegt die Kognitionsbiologie heute kognitive Sprachvoraussetzungen in trennbare Komponenten und analysiert diese komparativ bei verschiedenen Tierstämmen.
+Als Voraussetzungen für die Evolution von Sprache werden dabei gesehen: soziale Intelligenz, Imitation, Blickkontakt-Sensitivität, räumliche Blickfolgefähigkeit sowie die Theory of Mind.
+Diese Mechanismen formen Kernelemente tierischen sozialen Verhaltens.
+Unsere Fähigkeit, Gedanken sozial auszutauschen, erlaubt menschlichen Kulturen, Wissen auf eine Weise anzuhäufen, die ohne Sprache nicht möglich wäre.
+Vorstufen der Sprache wurden in den vergangenen Jahren empirisch erforscht.
+Nach heutigem Forschungsstand existiert keine evolutionär lineare Höherentwicklung der Sprache mit zunehmender Annäherung von Tierstämmen an den Menschen.
+Bei Vögeln werden in Tests ähnliche kognitive, voraussetzende Fähigkeiten gesehen wie bei Primaten.
+
+=== Protosprachenmodelle
+
+Die Sprachevolution erforscht Modelle von Protosprachen.
+Protosprache unterscheidet sich von Ursprache und meint alternative Kommunikations-Urformen (Modelle), aus denen die Ursprache, falls existent, erst entstehen konnte.
+Es werden drei Modelle unterschieden: das lexikale Modell, das gestische Modell und das musikalische Modell.
+Alle Modelle sollten auf drei Komponenten der Sprache Antworten liefern, Signale, Syntax und Semantik.
+Diese Komponenten können als evolutionäre Schlüsselinnovationen betrachtet werden, die seit der Abspaltung des Menschen vom letzten gemeinsamen Vorfahren evolviert sind.
+Die lexikale Protosprache enthielt gesprochene Wörter.
+Syntax als Innovation kam später hinzu, ihr Entstehen, vor allem im Hinblick auf mehrere semantische Hierarchien, ist unklar, ebenso noch immer die kognitiven Mechanismen, um bei mehrdeutigen Worten eindeutige Wortmeinung im Sprachkontext eindeutig zu interpretieren.
+Situativ wechselnde Alarmrufe der südlichen Grünmeerkatze können als Beispiel für einen Urzustand lexikaler Protosprache gelten, die Rufe sind aber nicht erlernt im Sinne des Sprachlernens.
+Die lexikale Protosprache hat auch nicht die Eigenschaft der Absicht für Informationsübermittlung.
+Das gestische Modell nimmt an, dass Sprache aus Zeigegesten entstanden ist.
+Zeichensprache kann heute eine vollständige Sprache sein mit Syntax und Semantik.
+Menschenaffen beherrschen Zeigegesten besser als Sprache.
+Dann stellt sich die Frage, warum dieses Modell durch Sprache abgelöst wurde.
+Das musikalische Modell geht auf Charles Darwin zurück.
+Darwin nahm an, dass Vogelgesänge und Sprache eine gemeinsame evolutionäre Wurzel besitzen.
+Darwin erkannte bereits die mehreren Komponenten der Sprache.
+Das Modell erfährt wieder zunehmende Anerkennung, kann aber nicht das Entstehen von Semantik innerhalb von Melodien erklären.
+Musik mit Instrumenten lässt sich beim Homo sapiens etwa 40.000 Jahre zurückverfolgen.
+Alle drei genannten Modelle können einen analogen oder konvergente Ursprünge haben; im ersten Fall ist eine Protoform einmal entstanden, im zweiten Fall mehrmals unabhängig.
+
+== Sprache als Handlung
+
+=== Menschliche gesprochene Sprache
+
+==== Die kommunikative Funktion von Sprache
+
+Sprache ist Träger von Sinn und Überlieferung, Schlüssel zum Welt- und Selbstverständnis sowie zentrales Mittel zwischenmenschlicher Verständigung.
+Nach der Definition von Edward Sapir (1921) ist Sprache "eine ausschließlich dem Menschen eigene, nicht im Instinkt wurzelnde Methode zur Übermittlung von Gedanken, Gefühlen und Wünschen mittels eines Systems von frei geschaffenen Symbolen".
+
+Viele Medientheorien - vor allem die technischen - fassen Sprache nicht als Medium, sondern als Kommunikationsinstrument auf, d. h. als neutrale Ermöglichungsbedingung für die eigentlichen Medien.
+Sprache dient solchen Auffassungen nach lediglich der Repräsentation oder auch Übermittlung mentaler Entitäten (Konzepte, Begriffe), wobei letztere als unabhängig von der Sprache gedacht werden.
+Man spricht deshalb von Repräsentationsmitteln.
+
+==== Sprache als Medium des Denkens
+
+Geschriebene und gesprochene Sprache ist ein "Medium des Denkens und der Weltauffassung schlechthin":
+Diese Definition, wie sie zuerst Wilhelm von Humboldt vorlegte, geht davon aus, dass Sprache für alle komplexeren Tätigkeiten und Denkvorgänge des Menschen unverzichtbar ist.
+Sprache ist damit nicht erst ein "nachträgliches" Mittel zur Verständigung zwischen Menschen, sondern jede Auffassung von Dingen und Sachverhalten in der Welt ist schon sprachlich strukturiert.
+Dinge und Sachverhalte werden durch die sprachliche Auffassung der Welt in Sinnzusammenhänge gebracht.
+Der Mensch lebt demnach nicht in einer sinnlich aufgefassten Welt, über die er sich erst nachträglich und gelegentlich mittels Sprache verständigt, sondern er lebt und arbeitet "in der Sprache".
+
+==== Sprache und Macht
+
+Sprache kann zur Einschüchterung und zur Erhaltung von Macht eingesetzt werden (z. B. Mobbing, Denunziation, Demütigung).
+Als Unterdrückungsmechanismen in der mündlichen Kommunikation stellte Berit s die fünf Herrschaftstechniken heraus.
+Der Verweis auf solche Wirkungen bestehenden Sprachgebrauchs kann es erlauben, einen solchen Zusammenhang überhaupt erst thematisierbar zu machen.
+
+Ein bekanntes Beispiel aus der Literatur für den Versuch, durch Sprache Einfluss auf das Denken der Bevölkerung auszuüben, ist der 1949 veröffentlichte Roman 1984 von George Orwell.
+In diesem Werk wird ein fiktives diktatorisch herrschendes Regime beschrieben, das eine vorgeschriebene konstruierte Sprache namens "Neusprech" einsetzt, um die Kommunikation und das Denken der Bevölkerung in enge, kontrollierte Bahnen zu lenken.
+
+Der Psychologe Steven Pinker betrachtete die so genannte euphemism treadmill (Euphemismus-Tretmühle) - den Effekt, dass euphemistische Neologismen alle negativen Assoziationen der Wörter aufnahmen, die sie ersetzten.
+Ein deutsches Wort in diesem Zusammenhang ist das euphemistische Wort "Restrukturierung", welches das Wort "Schließung von Betrieben und Einrichtungen" ersetzen sollte, dabei jedoch den negativen Charakter übernahm.
+
+==== Körpersprache
+
+Als Körpersprache oder nonverbale Kommunikation (Verständigung ohne Worte) wird jener Teil der zwischenmenschlichen Kommunikation bezeichnet, der nichtsprechend erfolgt.
+Träger entsprechender Botschaften sind Gestik, Mimik, Blickkontakt oder nichtsprachliche Lautierungen wie beispielsweise das Lachen, aber auch psycho-vegetative Äußerungen wie Erröten sowie die Gestaltung des Erscheinungsbilds durch Kleidung, Accessoires, Frisur, u. a.
+
+==== Gebärdensprache
+
+Eine Gebärdensprache ist eine visuell wahrnehmbare und manuell produzierte natürliche Sprache, die insbesondere von nicht hörenden und schwer hörenden Menschen zur Kommunikation genutzt wird: sie besteht aus einer Verbindung von Gesichtsmimik, lautlos gesprochenen Wörtern und Körperhaltung.
+Die verschieden kombinierten Elemente werden in Sätzen und im Diskurs in einer bestimmten Reihenfolge aneinander gereiht.
+
+== Sprachwissenschaft
+
+Die Wissenschaft, die sich mit allen Aspekten von Sprache und Sprachgebrauch sowie mit einzelnen konkreten Sprachen befasst, ist die Linguistik oder Sprachwissenschaft.
+Dabei untersucht die Allgemeine Linguistik die menschliche Sprache als System und allgemeine Prinzipien, Regeln und Bedingungen von Sprache.
+Die Angewandte Linguistik behandelt Themen, die in Zusammenhang mit dem konkreten Gebrauch von Sprache stehen.
+Die Historische Linguistik befasst sich mit der Entwicklung und der genetischen Verwandtschaft von Sprachen, mit der Entwicklung und Veränderung von einzelnen Sprachelementen sowie mit Sprachwandel generell.
+Die Vergleichende Sprachwissenschaft erarbeitet Unterschiede und Gemeinsamkeiten zwischen Sprachen, klassifiziert sie nach bestimmten Kriterien und versucht Sprachuniversalien, also Eigenschaften, die alle oder sehr viele Sprachen gemeinsam haben, zu eruieren.
+Die Biolinguistik schließlich befasst sich mit den biologischen Grundlagen - der Evolution - von Sprache.
+
+Innerhalb der Sprachwissenschaft existiert eine Vielzahl von größeren und kleineren Teilgebieten, die sich mit speziellen Aspekten von Sprache befassen, so etwa mit gesprochener und geschriebener Sprache, mit dem Zusammenhang zwischen Sprache und Denken, Sprache und Realität (siehe Sprachphilosophie) oder Sprache und Kultur.
+Der Gebrauch von Sprache unter normativen Aspekten wird beschrieben in Wörterbüchern (Rechtschreibwörterbüchern, Stilwörterbüchern etc.) und in Gebrauchsgrammatiken.
+
+== Sprache im Tierreich
+
+Tiere kommunizieren mit Hilfe ihrer körpersprachlichen Signale, Duftstoffe, Laute, ihrer Farbgebung, u. a.
+Die entsprechenden Signale im Tierreich sind in der Regel festgelegt; sie können nicht ohne Weiteres zu neuen Bedeutungen bzw. Aussagen frei kombiniert werden.
+
+Einige Tiere können Lautfolgen wie Menschen bilden, ggf. also sprachliche Äußerungen von Menschen nachahmen (Papageien, Robben, Delfine, Raben, Elefanten).
+
+Der Schwänzeltanz der Bienen wird oft Bienen- oder sogar Tanzsprache genannt; es ist allerdings fraglich, ob und ggf. wieweit in dem damit gemeinten, real instinktiv geregelten Signalverhalten eine Ähnlichkeit zur menschlichen Sprache besteht.
+Ob Vögel, Delfine oder Primaten eine der menschlichen Lautsprache ähnliche Sprache kennen und mit ihrer Hilfe wechselseitig kommunizieren, wird diskutiert.
+Es handelt sich hier allem Anschein nach lediglich um einen eingliedrigen und einseitigen Signalgang zwischen Sender und Empfänger, wie Tierhalter ihn sich bei der Dressur beispielsweise von Hunden zunutze machen.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

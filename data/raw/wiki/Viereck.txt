@@ -1,0 +1,91 @@
+Ein Viereck (auch Tetragon, Quadrangel oder Quadrilateral) ist eine Figur der ebenen Geometrie, nämlich ein Vieleck mit vier Ecken und vier Seiten.
+Analog zu Dreiecken ist auch eine Verallgemeinerung des Vierecksbegriffes auf nichteuklidische Geometrien (gekrümmte Vierecke) möglich.
+In der projektiven Geometrie spielen vollständige Vierecke und die dazu dualen vollständigen Vierseite eine wichtige Rolle.
+In der endlichen Geometrie werden Inzidenzeigenschaften des Vierecks zur Definition des Begriffs "Verallgemeinertes Viereck" verwendet.
+
+== Einteilung
+
+Ein Viereck hat zwei Diagonalen.
+Liegen beide Diagonalen innerhalb des Vierecks, so ist das Viereck konvex, liegt genau eine Diagonale außerhalb, so hat das Viereck eine konkave Ecke.
+Das Viereck ist das einfachste Vieleck, das konkav sein kann.
+Bei einem überschlagenen Viereck liegen beide Diagonalen außerhalb des Vierecks, zum Beispiel beim verschränkten Trapez.
+Überschlagene Vierecke sind verallgemeinerte Polygone und werden normalerweise nicht zu den Vierecken gerechnet.
+Gleiches gilt für entartete Vierecke, bei denen zwei oder mehr Eckpunkte zusammenfallen oder mehr als zwei Eckpunkte auf einer Geraden liegen.
+
+Die Summe der Innenwinkel im Viereck beträgt 360°, weil sich jedes Viereck in zwei Dreiecke zerlegen lässt.
+
+Ein Trapez ist ein Viereck mit mindestens zwei parallelen Seiten.
+Sind je zwei einander gegenüberliegende Seiten parallel, spricht man vom Parallelogramm.
+Ein Viereck, welches vier gleich große Innenwinkel von 90°, also rechte Winkel, hat, ist ein Rechteck.
+Ein Rechteck, das vier gleich lange Seiten hat, ist ein Quadrat.
+Das Quadrat ist das regelmäßige Viereck.
+
+Beim Drachenviereck (Deltoid) stehen die Diagonalen senkrecht aufeinander, und eine Diagonale wird durch die andere halbiert.
+Dies ist gleichbedeutend damit, dass es zwei Paare benachbarter Seiten gibt, die jeweils gleich lang sind.
+Bei vier gleich langen Seiten spricht man von einer Raute (Rhombus).
+Ein Quadrat ist eine Raute mit vier gleich großen Innenwinkeln.
+
+Bei einem Sehnenviereck sind die vier Seiten Sehnen des Umkreises.
+Sind die vier Seiten Tangenten eines Inkreises, so spricht man von einem Tangentenviereck.
+
+Zwischen den einzelnen Vierecktypen gelten Mengenrelationen, insbesondere die in der Abbildung dargestellten Teilmengenbeziehungen, wie zum Beispiel
+
+Die Quadrate sind eine Teilmenge der Rechtecke, die Rechtecke sind eine Teilmenge der Parallelogramme usw.
+
+Ferner gelten auch noch folgende Beziehungen für Schnittmengen:
+
+Die ebenen Vierecke werden nach verschiedenen Gesichtspunkten eingeteilt:
+
+Die wichtigsten Eigenschaften der besonderen Vierecke sind in folgender Tabelle dargestellt:
+
+== Formeln
+
+Ein konvexes Viereck kann durch fünf voneinander unabhängige Bestimmungsstücke wie
+
+beschrieben werden.
+Ein Beispiel nicht unabhängiger Größen sind die vier Innenwinkel, weil sich der vierte Innenwinkel aus den drei anderen und der Innenwinkelsumme von 360° berechnen lässt.
+Sind auch nichtkonvexe Vierecke zugelassen, gibt es mehrdeutige Kombinationen, z. B. vier Seiten und ein Innenwinkel, da die dem gegebenen Winkel gegenüberliegende Ecke konvex oder konkav sein kann.
+
+Wenn ein spezielles Viereck vorliegt, reichen weniger Größen aus, um seine Form zu beschreiben:
+
+== Ungleichungen
+
+Für ein konvexes Viereck mit den Seitenlängen a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} , d {\displaystyle d} , den Diagonalen e {\displaystyle e} , f {\displaystyle f} und dem Flächeninhalt A {\displaystyle A } gelten folgende Ungleichungen:
+
+Aus der Formel von Bretschneider folgt mit s = a + b + c + d 2 {\displaystyle s={\frac {a+b+c+d}{2} }} die Ungleichung
+
+== Schwerpunkt
+
+Bei punktsymmetrischen Vierecken, den Parallelogrammen, ist der Schwerpunkt das Symmetriezentrum, also der Diagonalenschnittpunkt.
+
+Im Allgemeinen muss man unterscheiden zwischen dem Eckenschwerpunkt (alle Masse sitzt in den Ecken, jede Ecke hat die gleiche Masse) und dem Flächenschwerpunkt (die Masse ist gleichmäßig über die Fläche des Vierecks verteilt).
+Beim Dreieck stimmen diese beiden Schwerpunkte überein.
+Daneben gibt es noch den Kantenschwerpunkt (die Masse ist gleichmäßig auf die Kanten verteilt, die Masse jeder Kante ist proportional zu ihrer Länge).
+Der Kantenschwerpunkt wird jedoch selten betrachtet.
+Er stimmt auch beim Dreieck nicht mit dem Flächen- und Eckenschwerpunkt überein, sondern entspricht dort dem Inkreismittelpunkt des Mittendreiecks.
+
+Den Flächenschwerpunkt eines Vierecks kann man wie folgt konstruieren:
+Man zerlegt das Viereck durch eine Diagonale in zwei Dreiecke und bestimmt jeweils deren Schwerpunkt als Schnittpunkt der Seitenhalbierenden.
+Diese beiden Punkte verbindet man durch eine Gerade.
+Dasselbe wiederholt man, indem man das Viereck durch die andere Diagonale teilt.
+Der Schnittpunkt der beiden Verbindungsgeraden ist der Schwerpunkt des Vierecks.
+
+Die Gerade durch die beiden Dreiecksschwerpunkte ist eine Schwerlinie beider Dreiecke und damit auch des Vierecks.
+Also muss der Schwerpunkt auf dieser Geraden liegen.
+
+Den Eckenschwerpunkt erhält man, indem man die Mittelpunkte gegenüberliegender Seiten verbindet.
+Der Schnittpunkt der beiden Verbindungslinien ist der Eckenschwerpunkt.
+Ist ein kartesisches Koordinatensystem gegeben, so kann man die Koordinaten des Eckenschwerpunkts S ( x S | y S ) {\displaystyle S(x_{S}|y_{S})} aus den Koordinaten der Ecken A ( x A | y A ) , B ( x B | y B ) , C ( x C | y C ) , D ( x D | y D ) {\displaystyle A(x_{A}|y_{A}),B(x_{B}|y_{B}),C(x_{C}|y_{C}),D(x_{D}|y_{D})} berechnen:
+
+Die nebenstehende Darstellung, konstruiert ähnlich wie oben beschrieben, beinhaltet auch eine alternative Vorgehensweise.
+Dazu sind in zwei sich kreuzenden Dreiecken deren Schwerpunkte S 1 {\displaystyle S_{1} } und S 2 {\displaystyle S_{2}} zu ermitteln.
+Abschließend wird eine Halbgerade ab S 1 {\displaystyle S_{1} } parallel zur Diagonale B D  {\displaystyle {\overline {BD} }} und eine Halbgerade ab S 2 {\displaystyle S_{2 } } parallel zur Diagonale A C  {\displaystyle {\overline {AC}}} gezogen.
+Somit ist der Schnittpunkt der beiden Halbgeraden der Flächenschwerpunkt S {\displaystyle S} des Vierecks.
+Dies bedeutet, die gepunkteten Linien, der Punkt H {\displaystyle H} und die Schwerpunkte S 3 {\displaystyle S_{3 } } und S 4 { \displaystyle S_{4 } } sind für die alternative Vorgehensweise nicht erforderlich.
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

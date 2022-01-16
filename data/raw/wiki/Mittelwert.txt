@@ -1,0 +1,268 @@
+Ein Mittelwert (kurz auch nur Mittel; anderes Wort Durchschnitt) ist eine, nach einer bestimmten Rechenvorschrift, aus gegebenen Zahlen ermittelte weitere Zahl.
+Einige von beliebig vielen berechenbaren Mittelwerten sind das arithmetische, das geometrische und das quadratische Mittel.
+
+Mittelwerte werden am häufigsten in der Statistik angewendet, wobei mit Mittel oder Durchschnitt meistens das arithmetische Mittel gemeint ist.
+Der Mittelwert ist ein Kennwert für die zentrale Tendenz einer Verteilung.
+Eng verwandt ist der Mittelwert mit dem Erwartungswert einer Verteilung.
+Dabei beruht der Erwartungswert auf der theoretisch zu erwartenden Häufigkeit, während der (arithmetische) Mittelwert aus konkretem Datenmaterial ermittelt wird.
+
+== Geschichte
+
+In der Mathematik treten Mittelwerte, insbesondere die drei klassischen Mittelwerte (arithmetisches, geometrisches und harmonisches Mittel), bereits in der Antike auf.
+Pappos von Alexandria kennzeichnet zehn verschiedene Mittelwerte m {\displaystyle m} von zwei Zahlen a {\displaystyle a} und b {\displaystyle b} ( a < b {\displaystyle a<b} ) durch spezielle Werte des Streckenverhältnisses ( b - m ) : ( m - a ) {\displaystyle (b-m):(m-a)} .
+Auch die Ungleichung zwischen harmonischem, geometrischem und arithmetischem Mittel ist in der Antike bereits bekannt und geometrisch interpretiert.
+Im 19. und 20. Jahrhundert spielen Mittelwerte in der Analysis eine spezielle Rolle, dort im Wesentlichen im Zusammenhang mit berühmten Ungleichungen und wichtigen Funktionseigenschaften wie Konvexität (Hölder-Ungleichung, Minkowski-Ungleichung, Jensensche Ungleichung usw.).
+Dabei wurden die klassischen Mittelwerte in mehreren Schritten verallgemeinert, zunächst zu den Potenzmittelwerten (siehe Abschnitt Hölder-Mittel unten) und diese wiederum zu den quasi-arithmetischen Mittelwerten.
+Die klassische Ungleichung zwischen harmonischem, geometrischem und arithmetischem Mittel geht dabei über in allgemeinere Ungleichungen zwischen Potenzmittelwerten bzw. quasi-arithmetischen Mittelwerten.
+
+== Visualisierung des arithmetischen Mittels
+
+Den meistbenutzten Mittelwert, das arithmetische Mittel, kann man z. B. mithilfe gleich schwerer Kugeln auf einer Wippe visualisieren, die aufgrund der Hebelgesetze durch ein Dreieck (Drehpunkt) ausbalanciert sind.
+Unter der Annahme, dass das Gewicht des Balkens vernachlässigt werden kann, entspricht die Position des Dreiecks, das die Balance herbeiführt, dem arithmetischen Mittel der Kugelpositionen.
+
+== Definitionen der drei klassischen Mittelwerte
+
+Im Folgenden seien x 1 , ... , x n {\displaystyle x_{1},\dotsc ,x_{n}} gegebene reelle Zahlen, in der Statistik etwa Messwerte, deren Mittelwert berechnet werden soll.
+
+=== Arithmetischer Mittelwert
+
+Das arithmetische Mittel ist die Summe der gegebenen Werte geteilt durch die Anzahl der Werte.
+
+=== Geometrisches Mittel
+
+Im Fall von Zahlen, die nicht auf Grund ihrer Summe, sondern ihres Produktes interpretiert werden, kann das geometrische Mittel berechnet werden.
+Dazu werden die Zahlen miteinander multipliziert und die n-te Wurzel gezogen, wobei n der Anzahl der zu mittelnden Zahlen entspricht.
+
+=== Harmonischer Mittelwert
+
+Das harmonische Mittel findet Verwendung, wenn die Zahlen im Bezug auf eine Einheit definiert sind.
+Dazu wird die Anzahl der Werte durch die Summe der Kehrwerte der Zahlen geteilt.
+
+== Beispiele für die Verwendung unterschiedlicher Mittelwerte
+
+Im Folgenden soll beispielhaft an den sieben rechts angegebenen Einträgen in der Wertetabelle gezeigt werden, wo welche Definition des Mittelwerts sinnvoll ist.
+
+Das arithmetische Mittel wird beispielsweise zum Berechnen der Durchschnittsgeschwindigkeit genutzt, die Werte werden also als Geschwindigkeiten interpretiert:
+Läuft eine Schildkröte erst eine Stunde lang drei Meter pro Stunde, dann drei Stunden lang je zwei Meter und beschleunigt für jeweils eine Stunde nochmals auf drei, vier und fünf Meter pro Stunde, so ergibt sich als arithmetisches Mittel bei einer Strecke von 21 Metern in 7 Stunden:
+
+Auch das harmonische Mittel kann zur Berechnung einer durchschnittlichen Geschwindigkeit sinnvoll sein, wenn nicht über gleiche Zeiten, sondern über gleiche Strecken gemessen wird.
+In dem Fall geben die Werte der Tabelle die Zeiten an, in der eine einheitliche Strecke zurückgelegt wird:
+Die Schildkröte laufe den 1. Meter mit 3 Metern pro Stunde, weitere 3 m mit jeweils 2 m/ h und beschleunigt auf den letzten 3 Metern nochmals auf jeweils 3, 4 und 5 m/ h. Die Durchschnittsgeschwindigkeit ergibt sich bei einer Strecke von 7 Metern in 157 60 {\displaystyle {\tfrac { 157}{60} } } Stunden:
+
+Mit dem geometrischen Mittel errechnet man den mittleren Wachstumsfaktor.
+Die Wertetabelle wird also als die Angabe von Wachstumsfaktoren interpretiert.
+Eine Bakterienkultur wachse beispielsweise am ersten Tag auf das Fünffache, am zweiten auf das Vierfache, dann zweimal auf das Dreifache und die letzten drei Tage verdoppelt sie sich täglich.
+Der Bestand nach dem siebten Tag errechnet sich also durch Anfangsbestand * 5 * 4 * 3 * 3 * 2 * 2 * 2 = Endbestand .
+{\displaystyle {\text{Anfangsbestand}}\cdot 5\cdot 4\cdot 3\cdot 3\cdot 2\cdot 2\cdot 2={\text{Endbestand }}.
+} Alternativ kann mit dem geometrischen Mittel der Endbestand ermittelt werden, denn
+
+und somit ist
+
+Ein tägliches Wachstum der Bakterienkultur um das 2,83-Fache hätte also nach sieben Tagen zum selben Ergebnis geführt.
+
+== Gemeinsame Definition der drei klassischen Mittelwerte
+
+Die Idee, die den drei klassischen Mittelwerten zugrunde liegt, lässt sich auf folgende Weise allgemein formulieren:
+
+Beim arithmetischen Mittel sucht man die Zahl m {\displaystyle m} , für die
+
+gilt, wobei sich die Summe links über n {\displaystyle n} Summanden erstreckt.
+Das arithmetische Mittel mittelt also bzgl. der arithmetischen Verknüpfung "Summe".
+Anschaulich bestimmt man mit dem arithmetischen Mittel aus Stäben verschiedener Länge einen mit einer durchschnittlichen oder mittleren Länge.
+
+Beim geometrischen Mittel sucht man die Zahl m {\displaystyle m} , für die
+
+gilt, wobei sich das Produkt links über n {\displaystyle n} Faktoren erstreckt.
+Das geometrische Mittel mittelt also bzgl. der arithmetischen Verknüpfung "Produkt".
+
+Das harmonische Mittel m {\displaystyle m} löst die Gleichung
+
+== Zusammenhänge
+
+=== Zusammenhang mit Erwartungswert
+
+Der generelle Unterschied zwischen einem Mittelwert und dem Erwartungswert ist, dass der Mittelwert auf einen konkreten Datensatz angewendet wird, während der Erwartungswert Information über die Verteilung einer Zufallsvariablen liefert.
+Von Bedeutung ist die Verbindung zwischen diesen beiden Parametern.
+Wenn der Datensatz, auf den das Mittel angewendet wird, eine Stichprobe der Verteilung der Zufallsvariablen ist, ist das arithmetische Mittel der erwartungstreue und konsistente Schätzer des Erwartungswertes der Zufallsvariablen.
+Da der Erwartungswert dem ersten Moment einer Verteilung entspricht, wird der Mittelwert daher häufig genutzt, um aus empirischen Daten die Verteilung einzuschränken.
+Im Falle der häufig genutzten Normalverteilung, die durch die ersten beiden Momente vollkommen festgelegt ist, ist der Mittelwert daher von entscheidender Bedeutung.
+
+=== Zusammenhang von arithmetischem, harmonischem und geometrischem Mittel
+
+Der Kehrwert des harmonischen Mittels ist gleich dem arithmetischen Mittel der Kehrwerte der Zahlen.
+
+Für n = 2 {\displaystyle n=2} hängen die Mittelwerte untereinander in folgender Weise zusammen:
+
+oder nach dem geometrischen Mittel aufgelöst
+
+=== Ungleichung der Mittelwerte
+
+Die Ungleichung vom arithmetischen und geometrischen Mittel vergleicht die Werte des arithmetischen und geometrischen Mittels zweier gegebener Zahlen:
+Es gilt für positive Variable stets
+
+Die Ungleichung lässt sich auch auf weitere Mittelwerte ausdehnen, z. B. (für positive Variable)
+
+Für zwei (positive) Variablen gibt es auch eine grafische Veranschaulichung:
+
+Das geometrische Mittel folgt direkt aus dem euklidischen Höhensatz und das harmonische Mittel aus dem euklidischen Kathetensatz mit der Beziehung
+
+== Vergleich zu anderen Maßen der zentralen Tendenz
+
+Häufig wird ein Mittelwert dazu genutzt um einen zentralen Wert eines Datensatz zu beschreiben.
+Dabei gibt es weitere Parameter die ebenfalls diese Funktion erfüllen, Median und Modus.
+Der Median beschreibt einen Wert, der den Datensatz in zwei Hälften teilt, während der Modus den Wert mit der höchsten Häufigkeit im Datensatz angibt.
+Im Vergleich zum Median ist der Mittelwert anfälliger für Ausreißer und daher weniger robust.
+Auch ist es möglich, da der Median ein Quantil der Verteilung beschreibt, dass dieser einen Wert aus der Ausgangsmenge beschreibt.
+Dies ist vor allem dann interessant, wenn die Zahlen zwischen den gegebenen Daten aus anderweitigen - beispielsweise physikalischen - Überlegungen nicht aussagekräftig sind.
+Der Median wird allgemein mit der folgenden Rechenvorschrift ermittelt.
+
+x  m e d = { x ( n + 1 2 ) , n ungerade, 1 2 ( x ( n 2 ) + x ( n 2 + 1 ) ) , n gerade.
+{\displaystyle {\bar { x}}_{\mathrm { med } }={\begin{cases}x_{\left({\frac {n+1}{2}}\right)},&n{\text{ ungerade,}}\\{\frac {1}{2}}\left(x_{\left({\frac {n}{2}}\right)}+x_{\left({{\frac {n}{2}}+1}\right)}\right),&n{\text{ gerade.}}\end{cases } } }
+
+== Weitere Mittelwerte und ähnliche Funktionen
+
+=== Gewichtete Mittel
+
+Die gewichteten oder auch gewogenen Mittelwerte entstehen, wenn man den einzelnen Werten unterschiedliche Gewichte zuordnet, mit denen sie in das Gesamtmittel einfließen; zum Beispiel, wenn bei einer Prüfung mündliche und schriftliche Leistung unterschiedlich stark in die Gesamtnote einfließen.
+
+Die genauen Definitionen finden sich hier:
+
+=== Quadratisches und kubisches Mittel
+
+Weitere Mittel die Verwendung finden sind das quadratisches Mittel und kubisches Mittel.
+Das quadratische Mittel wird mit der folgenden Rechenvorschrift berechnet:
+
+Das kubische Mittel wird wie folgt ermittelt:
+
+=== Logarithmischer Mittelwert
+
+Der logarithmische Mittelwert x  a , b , ln {\displaystyle {\bar {x}}_{a,b,\ln }} von x a {\displaystyle x_{a } } und x b {\displaystyle x_{b}} ist definiert als
+
+Für x a  x b {\displaystyle x_{a}\neq x_{b} } liegt der logarithmische Mittelwert zwischen dem geometrischen und dem arithmetischen Mittelwert (für x a = x b {\displaystyle x_{a}=x_{b} } ist er wegen der Division durch null nicht definiert).
+
+=== Winsorisiertes und getrimmtes Mittel
+
+Kann man davon ausgehen, dass die Daten durch "Ausreißer", das heißt einige wenige zu hohe oder zu niedrige Werte, kontaminiert sind, so kann man die Daten entweder durch Stutzen oder durch "Winsorisieren" (benannt nach Charles P. Winsor) bereinigen und den getrimmten (bzw. gestutzten) x  t a {\displaystyle {\bar {x}}_{t\alpha }} (engl. truncated mean) oder winsorisierten Mittelwert x  w a {\displaystyle {\bar {x}}_{w\alpha }} (engl. Winsorized mean) berechnen.
+In beiden Fällen sortiert man die Beobachtungswerte zuerst nach aufsteigender Größe.
+Beim Trimmen schneidet man sodann eine gleiche Anzahl von Werten am Anfang und am Ende der Folge ab und berechnet von den übrig bleibenden Werten den Mittelwert.
+Hingegen werden beim "Winsorisieren" die Ausreißer am Anfang und Ende der Folge durch den nächstkleineren (bzw. -größeren) Wert der restlichen Daten ersetzt.
+
+Beispiel: Hat man 10 aufsteigend sortierte reelle Zahlen x 1 , ... , x 10 {\displaystyle x_{1},\dotsc ,x_{10}} , so ist das 10-%-getrimmte Mittel gleich
+
+Indes ist der 10-%-winsorisierte Mittelwert gleich
+
+D. h., das getrimmte Mittel liegt zwischen dem arithmetischen Mittel (keine Stutzung) und dem Median (maximale Stutzung).
+Üblicherweise wird ein 20-%-getrimmtes Mittel verwendet, d. h., 40 % der Daten bleiben unberücksichtigt für die Mittelwertberechnung.
+Die Prozentzahl richtet sich im Wesentlichen nach der Zahl der vermuteten Ausreißer in den Daten; für Bedingungen für eine Trimmung von weniger als 20 % sei auf die Literatur verwiesen.
+
+=== Quartilsmittel
+
+Das Quartilsmittel ist definiert als der Mittelwert des 1. und 3. Quartils:
+
+Hierbei bezeichnet x ~ 0 , 25 {\displaystyle {\tilde {x}}_{0{,}25} } das 25-%-Quantil (1. Quartil) und entsprechend x ~ 0 , 75 {\displaystyle {\tilde {x}}_{0{,}75 } } das 75-%-Quantil (3. Quartil) der Messwerte.
+
+Das Quartilsmittel ist robuster als das arithmetische Mittel, aber weniger robust als der Median.
+
+=== Mitte der kürzesten Hälfte
+
+Sei [ a , b [ {\displaystyle [a,b[ } das kürzeste Intervall unter allen Intervallen mit F ( b ) - F ( a ) >= 1 2 {\displaystyle F(b)-F(a)\geq {\frac {1}{2}}} , so ist b - a 2 {\displaystyle {\frac {b-a}{2} }} dessen Mitte (middle of the shortest half).
+Bei unimodalen symmetrischen Verteilungen konvergiert dieser Wert gegen das arithmetische Mittel.
+
+=== Gastwirth-Cohen-Mittel
+
+Das Gastwirth-Cohen-Mittel nutzt drei Quantile der Daten: das a {\displaystyle \alpha } -Quantil und das ( 1 - a ) {\displaystyle (1-\alpha )} -Quantil jeweils mit Gewicht  {\displaystyle \lambda } sowie den Median mit Gewicht 1 - 2  {\displaystyle 1-2\lambda } :
+
+mit 0  a  0 , 5 {\displaystyle 0\leq \alpha \leq 0{,}5} und 0    0 , 5 {\displaystyle 0\leq \lambda \leq 0{,}5 } .
+
+Spezialfälle sind
+
+=== Bereichsmittel
+
+Das Bereichsmittel (englisch Mid-range) ist definiert als der arithmetische Mittelwert aus dem größten und dem kleinsten Beobachtungswert:
+
+Dies ist gleichbedeutend mit:
+
+=== Das "a-Mittel"
+
+Für einen gegebenen reellen Vektor a = ( a 1 , ... , a n ) {\displaystyle a=(a_{1},\dotsc ,a_{n})} mit  i = 1 n a i = 1 {\displaystyle \sum _{i=1}^{n}a_{i}=1} wird der Ausdruck
+
+wobei über alle Permutationen  {\displaystyle \sigma } von { 1 , ... , n } {\displaystyle \{1,\dotsc ,n\}} summiert wird, als " a {\displaystyle a} -Mittel" der nichtnegativen reellen Zahlen x 1 , ... , x n {\displaystyle x_{1},\dotsc ,x_{n}} bezeichnet.
+
+Für den Fall a = ( 1 , 0 , ... , 0 ) {\displaystyle a=(1,0,\dotsc ,0)} , ergibt das genau das arithmetische Mittel der Zahlen x 1 , ... , x n {\displaystyle x_{1},\dotsc ,x_{n}} ; für den Fall a = ( 1 n , ... , 1 n ) { \displaystyle a=\left({\tfrac {1}{n}},\dotsc ,{\tfrac {1}{n}}\right) } ergibt sich genau das geometrische Mittel.
+
+Für die a {\displaystyle a} -Mittel gilt die Muirhead-Ungleichung.
+
+Beispiel: Sei a = ( 1 2 , 1 3 , 1 6 ) {\displaystyle a=\left({\tfrac {1}{2}},{\tfrac {1}{3}},{\tfrac {1}{6}}\right) } und
+
+Damit ergibt sich
+
+=== Gleitende Durchschnitte
+
+Gleitende Durchschnitte werden in der dynamischen Analyse von Messwerten angewandt.
+Sie sind außerdem ein gängiges Mittel der technischen Analyse in der Finanzmathematik.
+Mit gleitenden Durchschnitten kann das stochastische Rauschen aus zeitlich voranschreitenden Signalen herausgefiltert werden.
+Häufig handelt es sich dabei um FIR-Filter.
+Jedoch muss beachtet werden, dass die meisten gleitenden Durchschnitte dem echten Signal hinterherlaufen.
+Für vorausschauende Filter siehe z. B. Kalman-Filter.
+
+Gleitende Durchschnitte benötigen normalerweise eine unabhängige Variable, die die Größe der nachlaufenden Stichprobe bezeichnet, bzw. das Gewicht des vorangehenden Wertes für die exponentiellen gleitenden Durchschnitte.
+
+Gängige gleitende Durchschnitte sind:
+
+In der Finanzliteratur können außerdem sogenannte adaptive gleitende Durchschnitte gefunden werden, die sich automatisch einer sich ändernden Umgebung (andere Volatilität/Streuung etc.) anpassen:
+
+Für die Anwendung von gleitenden Durchschnitten siehe auch Gleitende Durchschnitte (Chartanalyse) und MA-Modell.
+
+=== Kombinierte Mittelwerte
+
+Mittelwerte lassen sich kombinieren; so entsteht etwa das arithmetisch-geometrische Mittel, das zwischen dem arithmetischen und geometrischen Mittel liegt.
+
+== Verallgemeinerte Mittelwerte
+
+Es gibt eine Reihe weiterer Funktionen, mit denen sich die bekannten und weitere Mittelwerte erzeugen lassen.
+
+=== Hölder-Mittel
+
+Für positive Zahlen x i {\displaystyle x_{i } } definiert man den k {\displaystyle k} -Potenzmittelwert, auch Hölder-Mittel (englisch k {\displaystyle k} -th power mean) als
+
+Für k = 0 {\displaystyle k=0 } ist der Wert durch stetige Ergänzung definiert:
+
+Man beachte, dass sowohl Notation als auch Bezeichnung uneinheitlich sind.
+
+Für k = - 1 , 0 , 1 , 2 , 3 {\displaystyle k=-1,0,1,2,3} ergeben sich daraus etwa das harmonische, das geometrische, das arithmetische, das quadratische und das kubische Mittel.
+Für k = -  {\displaystyle k\to -\infty } ergibt sich das Minimum, für k = +  {\displaystyle k\to +\infty } das Maximum der Zahlen.
+
+Außerdem gilt bei festen Zahlen x i {\displaystyle x_{i } } : Je größer k {\displaystyle k} ist, desto größer ist x  ( k ) {\displaystyle {\bar {x}}(k)} ; daraus folgt dann die verallgemeinerte Ungleichung der Mittelwerte
+
+=== Lehmer-Mittel
+
+Das Lehmer-Mittel ist ein anderer verallgemeinerter Mittelwert; zur Stufe p {\displaystyle p} ist es definiert durch
+
+Es hat die Spezialfälle
+
+=== Stolarsky-Mittel
+
+Das Stolarsky-Mittel zweier Zahlen a , c {\displaystyle a,c} ist definiert durch
+
+=== Integraldarstellung nach Chen
+
+Die Funktion
+
+ergibt für verschiedene Argumente t  R {\displaystyle t\in \mathbb {R} } die bekannten Mittelwerte von a {\displaystyle a} und b {\displaystyle b} :
+
+Aus der Stetigkeit und Monotonie der so definierten Funktion f {\displaystyle f} folgt die Mittelwertungleichung
+
+== Mittelwert einer Funktion
+
+Das arithmetische Mittel einer stetigen Funktion f ( x ) {\displaystyle f(x)} in einem geschlossenen Intervall {\displaystyle } ist
+
+Das quadratische Mittel einer stetigen Funktion ist
+
+Diese finden in der Technik erhebliche Beachtung, siehe Gleichwert und Effektivwert.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

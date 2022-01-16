@@ -1,0 +1,178 @@
+Ein Mikrowellenherd, auch Mikrowellenofen oder Mikrowellengerät (kurz Mikrowelle), ist ein Gerät zum schnellen Erwärmen, Garen und Kochen von Speisen, Flüssigkeiten und anderen geeigneten Stoffen.
+Seine Wirkung beruht auf der Umwandlung elektromagnetischer Feldenergie in Wärmeenergie bei der Absorption von Mikrowellen.
+Der US-amerikanische Ingenieur Percy Spencer (1894-1970) entdeckte, dass Nahrung per Mikrowellenstrahlung erwärmt werden kann, als er Magnetrone für Radaranlagen bei Raytheon (einem Hersteller von Hochfrequenztechnik) baute.
+Als er gerade an einem Radargerät arbeitete, verspürte er ein seltsames Gefühl und bemerkte, dass ein Schokoriegel in seiner Tasche zu schmelzen begann.
+Er war nicht der erste, der dieses Phänomen bemerkte, allerdings war er als Inhaber von 120 Patenten mit Entdeckungen und Experimenten vertraut und verstand, was geschehen war:
+Das Radar hatte die Schokolade durch die Mikrowellenstrahlung geschmolzen.
+Popcorn war das erste Nahrungsmittel, das gezielt auf diese Weise zubereitet wurde, das zweite ein Ei (welches vor den Augen der Experimentatoren explodierte).
+In Nordamerika ist Mikrowellen-Popcorn eine der am häufigsten in der Mikrowelle zubereiteten Speisen.
+Andere Verfahren der privaten Zubereitung (beispielsweise mit Heißluft) wurden fast vollständig verdrängt.
+Im Jahr 1946 baute Spencer das erste Exemplar eines "Radarherdes" (Mikrowellenherd), genannt Raydarange (1947 Radarange genannt); er war fast 1,80 m hoch und wog 340 kg.
+Er besaß eine Wasserkühlung und hatte eine Leistung von 3000 W, etwa das Dreifache von heute üblichen Haushaltsgeräten.
+1954 hatte einer der ersten kommerziellen Mikrowellenherde eine Leistung von 1600 W und kostete zwischen 2000 und 3000 USD.
+Mikrowellenherde wurden von Unternehmen entwickelt und angeboten, die Erfahrungen mit Magnetronen aus der Entwicklung von Radargeräten hatten; sie wurden zunächst hauptsächlich für Passagierflugzeuge hergestellt, bevor die Geräte auch ihren Weg in Großküchen und die privaten Haushalte fanden.
+Als gemeinsame Entwicklung mit Raytheon brachte das US-amerikanische Unternehmen Tappan 1955 den ersten Mikrowellenherd für den Heimgebrauch mit wohnraumtauglichen Abmessungen auf den Markt.
+Bis 1964 wurde das Modell RL-1, trotz des hohen Preises von 1.300 USD 1396 mal verkauft.
+Ein Modell steht heute im National Museum of American History.
+1965 kam das erste Gerät mit weiter Verbreitung für 495 USD (Kaufkraft 2015, je nach Berechnungsmethode, mindestens 3700 USD) auf den Markt.
+Da die Preise für Mikrowellenherde in den 1970er Jahren rapide sanken, stiegen die Verkaufszahlen deutlich an.
+1970 wurden in den USA 40.000 Geräte verkauft, 1975 war es schon eine Million.
+1997 besaßen 95 % der amerikanischen Haushalte ein Mikrowellengerät, in Deutschland waren es 2016 74 %.
+Mikrowellen erwärmen bestimmte Materialien anders, als es beispielsweise durch Absorption von Infrarotstrahlung oder durch Wärmeleitung geschieht.
+Die Erwärmung erfolgt zwar ebenfalls durch Absorption, jedoch ist im Bereich der Mikrowellen die Eindringtiefe sehr viel größer - es zeigt sich quasi eine gewisse Transparenz -, so dass die Absorption auch in der Tiefe des Kochguts stattfindet.
+Übliches Mikrowellengeschirr ist praktisch vollkommen transparent für Mikrowellen (Ausnahme: Bräunungsgeschirr).
+Bei der konventionellen Erwärmung über Strahlung (z. B. Feuer, Grill, Ofen, Glaskeramikkochfeld) hingegen findet die Absorption in den obersten Schichten statt, da thermische Strahlung im relevanten Wellenlängenbereich nur eine sehr geringe Eindringtiefe hat - zumindest bei üblichen Materialien, aus denen Speisen und Kochgeschirr bestehen; diese Materialien sind gleichsam undurchsichtig.
+Von der Oberfläche verteilt sich die Wärme durch Wärmeleitung und ggf. Konvektion.
+Genauer betrachtet regt Mikrowellenstrahlung eine Drehbewegung der Moleküle an; Voraussetzung ist, dass die Moleküle ein elektrisches Dipolmoment besitzen.
+Ein ganz anderer Mechanismus wirkt, wenn Infrarotstrahlung (also der wesentliche Beitrag thermischer Strahlung) auf Moleküle trifft:
+Sie regt Molekülschwingungen an, wobei die Atomkerne Zitterbewegungen um ihre Ruhelage ausführen.
+Für diese Anregung ist ein äußeres Dipolmoment nicht erforderlich.
+Weitere Voraussetzung der Wirkung von Mikrowellenstrahlung ist, dass die Dipol-Moleküle sich drehen können.
+In einer Kristallstruktur, wie beispielsweise in gefrorenem Wasser (Eis), ist diese Beweglichkeit nicht gegeben.
+In flüssigem Wasser dagegen sind die bewegungshemmenden Wasserstoffbrücken sehr kurzlebig, in der Größenordnung von 200 fs (Femtosekunden; zum Vergleich: die Periodendauer der üblichen 2,455 GHz-Schwingung ist mehr als zweitausendmal größer), sodass die Wassermoleküle mit einer ausreichenden Anregung in Bewegung versetzt werden können.
+Bei der Bestrahlung mit Mikrowellen bewirkt die elektrische Feldstärkekomponente der elektromagnetischen Welle (E-Feld-Komponente) nun eine Kraftwirkung auf das Wassermolekül (Kraft ist gleich Feldstärke mal Ladung), sodass auf das Molekül ein Drehmoment wirkt und es eine Drehbewegung vollzieht.
+Benachbarte Moleküle erfahren ebenfalls ein Drehmoment und drehen sich.
+Durch die Rotation erhöht sich die kinetische Energie des Wassers und somit die Temperatur.
+Ein quantitatives Modell dieser dielektrischen Erwärmung wurde von Peter Debye entwickelt und nach ihm benannt.
+Gemäß der Debye-Relaxation existiert keine Resonanzfrequenz im strengen Sinn, wohl aber ein breiter Frequenzbereich, in dem der dielektrische Verlustfaktor (das ist der Imaginärteil der komplexen Permittivität eines Materials bei vorgegebener Frequenz) besonders groß ist.
+Für Wasser liegt er, abhängig von der Temperatur und vom Salzgehalt, in der Größenordnung von 30 GHz.
+Bei zu hohen Frequenzen können die Moleküle auf Grund ihrer Trägheit nicht mehr der Änderung des elektromagnetischen Feldes folgen, und es findet keine Rotationsanregung und somit keine Temperaturerhöhung statt.
+In der technischen Praxis ist dies allerdings weitgehend irrelevant, da aus anderen Gründen sowieso deutlich niedrigere Frequenzen zum Einsatz kommen.
+Die weit verbreitete Annahme, dass die Frequenz des Mikrowellenherds einer besonderen Resonanzfrequenz des Wassers entspreche, ist falsch.
+Die niedrigste Resonanzfrequenz des freien Wassermoleküls liegt bei 22,23508 GHz.
+Sobald seine unmittelbare Nachbarn das Molekül beeinflussen - was bei flüssigem oder festem Wasser auf jeden Fall gegeben ist -, wird die entsprechende Spektrallinie bis zur Unkenntlichkeit verbreitert, sodass auch relativ weit davon entfernte Frequenzen zu einer Anregung führen.
+Wegen der weiteren technischen und praktischen Randbedingungen wird eine deutlich niedrigere Frequenz eingesetzt:
+In der Praxis hat sich weitgehend die Frequenz von 2,455 GHz durchgesetzt, entsprechend einer Wellenlänge von 12,22 cm.
+Ein Magnetron zur Erzeugung elektromagnetischer Felder mit dieser Frequenz lässt sich kostengünstig und kompakt herstellen; dessen Frequenz ist durch die inneren mechanischen Abmessungen unveränderlich.
+Die Eindringtiefe in organische Stoffe und auch Wasser liegt dann im Bereich einiger Zentimeter.
+In manchen Ländern wie den Vereinigten Staaten kommt für industrielle Mikrowellenherde auch die Frequenz um 915 MHz zum Einsatz.
+Dort ist der Bereich zwischen 902 und 928 MHz als ISM-Frequenzband frei verwendbar.
+Zwar wandelt ein Mikrowellenherd nur 65 Prozent der aufgenommenen elektrischen Energie in Mikrowellenstrahlung um (der Rest wird Abwärme), die erzeugten Mikrowellen erwärmen aber nur das Gargut und nicht den Herd selbst oder dessen Umgebung.
+Deshalb ist der Mikrowellenherd bei kleineren Portionen energetisch effizienter.
+Als Richtwert gelten 250 ml Flüssigsubstanz.
+Es ist günstiger, 250 ml Flüssigkeit (oder 250 Gramm einer wasserhaltigen Speise) im Mikrowellenherd zu erhitzen statt in einem Topf auf dem Elektroherd.
+Dazu kommt, dass im Mikrowellenherd Speisen direkt auf dem Teller und Getränke (etwa Milch) in der Tasse bzw. im Glas erwärmt werden können.
+Die nach der Benutzung eines gewöhnlichen Herdes zusätzlich notwendige Reinigung des Kochgeschirrs entfällt.
+Schließt man deren Ressourcenverbrauch (Energie, Wasser, Reinigungsmittel) in die Betrachtung ein, verschlechtert sich die Effizienz der gesamten Zubereitung auf einem konventionellen Herd weiter.
+Die Mikrowellen werden mit Hilfe eines Magnetrons erzeugt und mittels eines Hohlleiters in den Garraum geleitet.
+Der Garraum ist metallisch und Hochfrequenz-dicht, wodurch die Ausbreitung der Mikrowellen aus dem Gerät heraus verhindert wird.
+Zur Versorgung des Magnetrons ist eine hohe Anodenspannung erforderlich (etwa 5 kV), die im Gerät mit Hilfe eines Hochspannungstransformators und einer Spannungsverdopplerschaltung erzeugt wird.
+Die an der Kathode anliegende Hochspannung wechselt dabei mit einer Frequenz von 50 Hz periodisch zwischen 0 und etwa -5 kV.
+Die Schwellspannung des Magnetrons bewirkt, dass lediglich dann, wenn die Versorgungsspannung größer als die Schwellspannung wird, kurze Stromimpulse auftreten.
+Die Anode des Magnetrons ist mit dem Gehäuse des Mikrowellenherdes, also mit Erdpotential verbunden, sodass die Sendeantenne nicht auf Hochspannungspotential liegt.
+Der Transformator versorgt auch die Glühkathode des Magnetrons mit Strom.
+Ein Ventilator kühlt Magnetron und Transformator und bläst deren Verlustwärme durch den Garraum, um ihn trocken zu halten.
+Das Strahlungsfeld der eingebauten Mikrowellenantenne füllt den Garraum des Herdes ungleichmäßig aus.
+Um eine gleichmäßige Erwärmung der Speisen zu erreichen, werden sogenannte Wobbler oder Stirrer - rotierende metallische Flügelräder - eingesetzt, die die Schwingungsmoden des Garraumes ständig ändern.
+Diese Räder sitzen meist unter einer Kunstglimmer- oder Plaste-Abdeckung in der Decke des Garraumes und werden durch den Kühlluftstrom angetrieben.
+In vielen Geräten rotiert das Gargut außerdem auf einem Drehteller.
+Die Tür ist in mehrfacher Hinsicht sicherheitsrelevant.
+Sie schirmt die Mikrowellen nach außen hin ab und verhindert durch ihren Verschlussmechanismus, dass das Gerät bei geöffneter Tür arbeitet.
+Weiterhin gewährt sie durch eine Scheibe, vor der sich innen ein Lochblech befindet, Einblick in den Garraum.
+Die Öffnungen im Lochblech sind sehr viel kleiner als die Wellenlänge der Mikrowellen von etwa 12 cm, sodass die Umgebung jenseits der vorgebauten Scheibe vom elektromagnetischen Feld im Garraum abgeschirmt bleibt.
+Der Türrahmen bildet mit dem Rand des Garraumes einen umlaufenden Spalt.
+Es handelt sich um eine sogenannte Resonanzdichtung.
+Die Breite des Türspaltes beträgt ein Viertel der Wellenlänge (/4), also ca. 3 cm, die Dicke des Spaltes (Abstand Tür/Garraum) ist unkritisch.
+Der Spalt wirkt ohne elektrischen Kontakt als frequenzselektive Dichtung für die elektromagnetischen Felder im Ofen.
+Die Funktion beruht auf der geschickten Kombination von Stücken, die eine Länge von /4 haben.
+Ähnliches wird bei Hohlleiteranschlüssen angewendet.
+Die Leistungsregulierung eines Mikrowellenherdes erfolgt bei den meisten Geräten durch Intervallbetrieb mittels einer elektromechanischen Schaltuhr oder einem Mikrocontroller.
+Das Magnetron wird zum Erreichen der vom Bediener eingestellten Leistung im Rhythmus von einigen Sekunden samt seiner Heizspannung über den Transformator ein- und ausgeschaltet.
+Durch das Verhältnis von Ein- und Auszeit wird die mittlere Leistung gesteuert.
+Ein 1200-Watt-Gerät, das der Bediener auf 600 Watt Leistung eingestellt hat, wird also wechselnd beispielsweise 5 Sekunden lang 1200 Watt Strahlungsleistung auf das Kochgut geben und danach 5 Sekunden im Leerlauf sein.
+Die Leistungsvorgabe über das Bedienfeld ist dabei der Mittelwert.
+Die Schaltperiode ist aufgrund der mechanischen Schalter (Relais, Schaltuhr) und des lebensdauerverringernden Einschaltens des Magnetrons ohne Kathodenvorheizung nicht weiter verkürzbar und kann je nach Maximalleistung auch bei gleicher Leistungsvorwahl zu unterschiedlichen Ergebnissen führen; bei empfindlichen Speisen, wie z. B. Fisch, kann auch die kurzzeitige Anwendung des Leistungsmaximums zu lokalen Verbrennungen führen.
+Es gibt daher Geräte mit Schaltnetzteil (sogenannte Inverter-Technologie), die die Kathode durchgehend heizen und den mittleren Anodenstrom elektronisch steuern können.
+Vom Magnetron wird dann quasi durchgehend die gewünschte Leistung abgegeben.
+Ein Mikrowellenherd sollte nie mit leerem Garraum eingeschaltet werden, da die abgegebene Leistung des Magnetrons immer ausreichend absorbiert werden muss.
+Andernfalls wird sie ins Magnetron zurückreflektiert, wodurch es Schaden nehmen könnte.
+Aufgrund der Reflexionen entsteht im Garraum ein dreidimensionales Muster aus Interferenzmaxima, hot spots genannt, an denen mehr Energie an das Gargut abgegeben wird.
+Durch Einlegen von Thermopapier lässt sich die Lage von Hotspots detektieren.
+Trotz Gegenmaßnahmen wie Drehtellern oder Reflexionsdrehspiegeln (Stirrer, englisch für "Rührer") können daher einzelne Areale im Gargut überhitzt werden.
+Wegen des unterschiedlichen Wassergehalts verschiedener Speisen kann es trotz Stirrer und Drehteller zu inhomogener Erwärmung kommen.
+So erwärmen sich Knochen im Vergleich zum Fleisch nur gering.
+Salziges erwärmt sich stärker als Fettiges.
+Zum sicheren Durchgaren der Speisen ist es daher ratsam, diese abzudecken und gegebenenfalls mit geringerer Leistung länger zu garen oder nach kurzen Aufwärmphasen umzurühren.
+So ist besonders bei erwärmter Babykost das Umrühren vor der Verabreichung sinnvoll, um heiße Bereiche zu vermischen.
+In trockenen Speisen können hot spots Verkohlungen hervorrufen und es entstehen Schadstoffe.
+Der Effekt des Überhitzens von Wasser (siehe Siedeverzug) in glatten Gefäßen ist eine mögliche Gefahrenquelle.
+Dabei kann es passieren, dass Wasser über den Siedepunkt hinaus erhitzt wird, ohne zu sieden - diese Gefahr besteht vor allem bei wiederholtem Erhitzen in der Mikrowelle aufgrund des geringer werdenden Anteils gelöster Gase.
+Das überhitzte Wasser kann bei Bewegung (beispielsweise bei der Entnahme) plötzlich verdampfen; dabei verdampft ein Teil des Wassers explosionsartig, siedendes Wasser wird aus dem Gefäß geschleudert.
+Ein ins Gefäß gestellter Glasstab oder Löffel und vorheriges Kratzen mit diesen Geräten am Gefäßboden helfen, den Siedeverzug zu vermeiden, da die Berührungsstellen am Boden als Keim für die Dampfblasenbildung wirken.
+Geschirr aus Porzellan, Glas oder thermoplastischem Kunststoff absorbiert keine Mikrowellen und wird somit durch die Strahlung nicht erwärmt, sondern nur indirekt vom Gargut durch Wärmeleitung.
+Kunststoffe können jedoch ab einer bestimmten Temperatur erweichen oder schmelzen.
+Daher werden manche Behälter mit dem Zeichen "mikrowellengeeignet" ausgestattet.
+Spezielles sogenanntes Bräunungsgeschirr sowie andere verlustbehaftete dielektrische oder elektrisch mittelmäßig leitfähige Stoffe sowie ferromagnetische Keramik werden dagegen auch direkt erwärmt.
+Unglasiertes Steingut-Geschirr oder solches mit Rissen in der Glasur kann Wasser enthalten, wodurch es dann ebenfalls direkt erwärmt wird.
+Steingut-Keramik kann auch Eisenoxid enthalten, welches ebenfalls Mikrowellen absorbiert.
+Das kann dazu führen, dass Gefäße sehr heiß werden, während der Inhalt kaum erwärmt ist.
+Mikrowellenstrahlung wirkt auch auf menschliches Gewebe erwärmend.
+Bei handelsüblichen 2,45 GHz wird die Eindringtiefe mit einigen Zentimetern angegeben.
+Durch lokales Erhitzen kann sie zu Schädigungen des Gewebes (Verbrennungen, Denaturierungen) führen.
+Insbesondere schwach durchblutetes Gewebe, das Wärme über den Blutkreislauf nicht schnell abführen kann und das außerdem oberflächennah gelegen ist (wie zum Beispiel die Augen), ist gefährdet.
+Auch durch Mikrowellen induzierte Augenstruktur- und Funktionsveränderungen im Bereich niedriger mittlerer Leistung ohne relevante Temperaturerhöhung wurden im Tierversuch nachgewiesen.
+Bei einem intakten Mikrowellenherd ist die Leckstrahlung aufgrund der Abschirmung des Garraums verhältnismäßig gering.
+Gemäß Bundesamt für Strahlenschutz ist in den geltenden Sicherheitsnormen hierfür ein "Emissionsgrenzwert von fünf Milliwatt pro Quadratzentimeter (entspricht 50 Watt pro Quadratmeter) in einem Abstand von fünf Zentimeter von der Geräteoberfläche" festgelegt (Strahlungsdichte oder Leistungsflussdichte in W/m2).
+Die Grenzwerte seien bei Kontrollen stets eingehalten worden.
+Dennoch empfiehlt das BfS "grundsätzlich, unnötige Belastung mit hochfrequenten Feldern zu vermeiden".
+Daher solle "insbesondere darauf geachtet werden, dass sich Kinder während der Zubereitung des Essens nicht unmittelbar vor oder neben dem Gerät aufhalten".
+Weiterhin nennt das BfS Schwangere als besonders gefährdete Personen.
+In 30 Zentimetern Entfernung ist nur "noch etwa fünf bis zehn Prozent der an der Oberfläche des Gerätes gemessenen Mikrowellenintensität" vorhanden.
+Mikrowellenherde sind auch im Fehlerfall durch mehrfach vorhandene Sicherungen gut gegen Betrieb mit offener Tür geschützt.
+Geräte mit beschädigtem oder verbogenem Gehäuse oder Türen sollten nicht weiterverwendet werden, da in diesem Fall auch außerhalb des Geräts verhältnismäßig starke hochfrequente elektromagnetische Felder auftreten können, die eine Verletzungsgefahr bergen.
+Die vereinzelt anzutreffende Meinung, der Umgang mit Mikrowellen erzeuge Krebs, ist wissenschaftlich nicht haltbar.
+Eine mutagene Wirkung elektromagnetischer Strahlung tritt nur bei ionisierender Strahlung auf.
+Der Bereich ionisierender Strahlung beginnt bei Wellenlängen kürzer als etwa 250 nm, entsprechend einer Frequenz größer als 1.200.000 GHz; das ist im Ultraviolettbereich (Übergang von UV-A zu UV-B).
+Die Frequenz von Mikrowellen liegt aber fast sechs Größenordnungen unterhalb der Grenze zur ionisierenden Strahlung.
+Wegen der hohen Sendeleistung des Magnetrons können in allen leitfähigen Materialien, so auch Metallteilen im Garraum, Ströme von mehr als 20 Ampere fließen.
+Dünne Metallschichten, beispielsweise Alufolie oder der Goldrand von Tellern, können schmelzen oder aufgrund von Lichtbögen verdampfen.
+Dickere Metallgegenstände wie Besteck werden zuweilen heiß.
+Wenn man Metallstücke mit ungeeigneter Geometrie, wie etwa Gabeln, oder mit geringem Abstand zur Wandung in den Garraum einbringt, können Funkenüberschläge entstehen, falls die erzeugte elektrische Feldstärke ausreichend ist (= 106 V*m-1).
+Die Erwärmung von Speisen, die ganz oder teilweise in Aluminiumfolie verpackt sind, birgt die Gefahr von Funken und Lichtbögen an Überlappungen und Kanten, zudem reflektiert das Aluminium die Mikrowellen.
+Vollständig metallisch gekapseltes Gargut wird nicht erwärmt und aufgrund Fehlanpassung/ Rückreflexion der Mikrowellen wird das Magnetron thermisch überlastet.
+Das Einbringen von Metall in den Mikrowellenherd ist mit Risiken verbunden.
+Bestimmte Speisen und andere Stoffe können sich in einer Mikrowelle so weit erhitzen, dass sie zu schwelen oder zu brennen beginnen.
+Mikrowellen erhitzen nicht nur Wassermoleküle, sondern alle Moleküle mit einem Dipolmoment und elektrisch leitfähige Stoffe.
+Durch die hohen Feldstärken kann es auch zur Bildung von Lichtbögen in Lebensmitteln kommen.
+Starke induzierte Ströme können ebenfalls zu Verkohlungen führen.
+Diese sind oft nicht - zumindest von außen - sichtbar.
+Entstehende Verkohlungen und auch Flammen absorbieren Mikrowellenstrahlung wiederum und verstärken den Effekt.
+Viele Mikrowellenherde besitzen daher über dem Garraum im Bereich des Luftaustritts einen Thermoschalter, der das Gerät bei Überhitzung abschaltet.
+Im Inneren ablaufende Brände sind durch das doppelwandige Gehäuse von der Umgebung isoliert, können jedoch gesundheitsschädliche Brandgase entwickeln, die durch den nach der Heizzeit meist noch nachlaufenden Ventilator auch nach außen geführt werden.
+Mikrowellen selbst haben zu wenig Energie, um chemische Bindungen aufzubrechen.
+Durch die Erwärmung, wie sie auch bei anderen Garmethoden erfolgt, werden jedoch Wasserstoffbrückenbindungen in Wasser und in Biomolekülen gestört und dadurch wird die Denaturierung bewirkt.
+Die Ansicht, Mikrowellenherde würden den Nährstoffgehalt von Nahrungsmitteln durch Zerstörung von Vitaminen und sekundären Pflanzenstoffen stärker als andere Erhitzungsvorgänge verringern, ist weitestgehend unbelegt.
+Eine Studie ergab, dass Antioxidantien zum Beispiel in Brokkoli durch Erhitzung im Mikrowellenherd stärker zerstört würden als durch andere Erhitzungsverfahren.
+Vergleiche mit anderen Erhitzungsverfahren sind kaum anzustellen, weil das konventionelle Kochen eine homogenere Temperaturverteilung bewirkt, das Braten und Backen hingegen eine wesentlich inhomogenere.
+Die Entstehung von Schadstoffen durch das Verfahren der Mikrowellenerwärmung wird wiederkehrend diskutiert.
+Eine mögliche Quelle von Schadstoffen können - wie auch bei anderen Garverfahren - lokale Verbrennungen an Speisen sein.
+Eine tatsächliche Gefahr für die Nährstoffe stellt die Überhitzung von Nahrungsmitteln dar, da viele Nährstoffe bei hohen Temperaturen zerstört werden.
+Das trifft jedoch ebenso auf andere Zubereitungsmethoden zu.
+Wie oben unter Leistungsregulierung schon erwähnt, erfolgt die Erwärmung ungleichmäßig.
+Neben den dort erwähnten hot spots gibt es auch cold spots, also kühle Stellen.
+Sie bergen eine hygienische Gefahr bei der Erwärmung von Nahrungsmitteln mit Mikrowellenstrahlung, da dort Salmonellen bzw. Listerien überleben können.
+Amerikanische Forscher ließen in einem Experiment frisch eingekaufte, listerienbefallene Hähnchen in der Mikrowelle garen.
+In mehr als der Hälfte der Proben waren danach weiterhin Listerien nachweisbar, unabhängig von Leistung, Garraumgröße oder davon, ob ein Drehteller vorhanden war.
+Aus diesem Grund empfiehlt auch die Deutsche Gesellschaft für Ernährung zum Beispiel kein Hähnchen oder Hackfleisch in Mikrowellenherden zu garen.
+Etwa 73 % der Haushalte in Deutschland haben einen Mikrowellenherd.
+Neben dem schnellen Erhitzen von Speisen und Getränken (Portionen bis etwa 500 g) eigenen sich die Geräte auch für das Schmelzen von Butter, Gelantine oder Kuchenglasur oder das Rösten von Kokosraspel oder Mandelstiften.
+Problematisch beim Auftauen ist, dass die Wassermoleküle im Eis wenig beweglich sind.
+Daher absorbieren bereits aufgetaute Bereiche des Gefrierguts Mikrowellen besser als noch gefrorene, sodass die bereits getauten Bereiche schnell wärmer werden als gefrorene Bereiche.
+Das Auftauen von Gefriergut erfolgt teilweise durch Wärmeübergang aus bereits flüssigem Wasser.
+Ebenso wird das Auftauen beschleunigt, wenn dem Gefriergut durch vorherige Arbeitsschritte flüssiges Wasser anhaftet.
+Die Auftaufunktion eines Mikrowellenherds arbeitet daher mit geringer Leistung, sodass genug Zeit bleibt, dass die Wärme von den flüssigen Bereichen an die gefrorenen übergeht.
+Beim normalen Garen (also abgesehen von den schon erwähnten lokalen Verbrennungsvorgängen) in der Mikrowelle werden Temperaturen, wie sie für die Entstehung von Bräunungsreaktionen (Maillard-Reaktion, z. B. bei Braten oder Spiegelei) nötig sind, nicht erreicht.
+Die mit der Maillard-Reaktion einhergehende Bildung von Melanoidinen (Röst-Aromastoffen) bleibt dann aus.
+Aus diesem Grund werden auch Mikrowellenherde mit Grill- bzw. Heißluftfunktion (Kombi-Geräte) angeboten.
+Es gibt auch spezielles Bräunungsgeschirr für kleinere Fleischportionen, wo in der Oberflächenbeschichtung Metalloxide eingelagert sind, die sich durch die Mikrowellenenergie erhitzen und somit Bräunungseffekte erzielen können.
+Große Mikrowellengeräte werden industriell als Alternative zu Autoklaven für die Herstellung von Faserverbundwerkstoffen eingesetzt; deren Einsatzmöglichkeiten werden erforscht.
+Dabei ist die Energieersparnis im Vergleich zu anderen Herstellungsmethoden von Faserverbundwerkstoffen interessant.
+Diese beruht auf der Tatsache, dass nur das Werkstück selbst erhitzt wird (siehe Wirkungsweise und Wirkungsgrad).
+Weitere Anwendungen sind das Trocknen von Lebensmitteln wie zum Beispiel Nudeln, das Hitzestabilisieren von Getreidekeimlingen oder das Trocknen anderer Materialien.
+Weiterhin werden Mikrowellengeräte zur Synthese im chemischen Labor verwendet.
+Mikrowellen mit bis zu mehreren hundert Watt werden auch therapeutisch zur Gewebeerwärmung beim medizinischen Verfahren der Diathermie eingesetzt.
+Der Wärmeeintrag wird wie beim Mikrowellenherd über gepulstes An- und Abschalten gesteuert.
+Mikrowellen mit Leistungen von vielen Kilowatt werden zur industriellen Trocknung und Erwärmung, zur Plasmageneration und in Teilchenbeschleunigern eingesetzt.
+Sie werden wie in der Mikrowelle mit Magnetronen oder auch mit Klystronen erzeugt.
+Nach der Einführung des ePasses wurde seitens des Chaos Computer Clubs und Gegnern zunehmender Überwachungsmaßnahmen als Akt zivilen Ungehorsams dazu aufgerufen, den im Dokument enthaltenen Chip, auf dem persönliche Daten des Inhabers gespeichert sind, mittels eines Mikrowellenherdes zu zerstören.
+Weiterhin wird darauf hingewiesen, dass der Pass dennoch seine Gültigkeit behält, da er nach wie vor eine Identifikation der Person ermöglicht.

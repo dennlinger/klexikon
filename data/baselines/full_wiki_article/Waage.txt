@@ -1,0 +1,72 @@
+Eine Waage ist ein Messgerät zur Bestimmung einer Masse.
+Die Messung der Masse erfolgt üblicherweise über die Gewichtskraft:
+Die Gewichtskraft eines Körpers wird entweder direkt bestimmt, wie etwa mit einer Federwaage, oder sie wird mit der Gewichtskraft einer bekannten Masse verglichen wie bei einer Balkenwaage.
+Bei Waagen der ersten Art geht die Schwerebeschleunigung, die lokal unterschiedlich ist, in die Messung ein.
+Bei Waagen der zweiten Art ist die Schwerebeschleunigung für beide verglichenen Massen dieselbe und ist deshalb für das Ergebnis unerheblich.
+Bei beiden Arten wird der Wägewert durch den statischen Auftrieb in der Luft beeinflusst.
+Je nach der benötigten Genauigkeit werden diese Einflüsse vernachlässigt oder durch geeignete Maßnahmen berücksichtigt.
+Es gilt der Zusammenhang
+In dieser vereinfachten Gleichung sind vernachlässigt (was je nach geforderter Genauigkeit zulässig ist):
+Waagen können mit folgenden Eigenschaften charakterisiert werden:
+Ein Waagebalken aus dem 5. Jahrtausend v. Chr. wurde in einem prähistorischen Grab in Ägypten entdeckt.
+Früheste ägyptische Abbildungen einfacher Balkenwaagen stammen aus der Zeit um 2000 v. Chr.
+Die Aufhängung des Waagebalkens bestand aus einem Seil, an seinen äußeren Enden hingen die Waagschalen.
+Um 500 v. Chr. verbesserten Etrusker die Genauigkeit der Balkenwaage.
+Die Römer kannten auch ungleicharmige Waagen, der längere Arm trug ein verschiebbares Wägestück sowie eine Strichmarkierung.
+In der Renaissance kamen in alchimistischen Labors hochempfindliche Analysewaagen zum Einsatz.
+1669 erfand der Franzose Gilles Personne de Roberval die Tafelwaage.
+Sie hatte den Vorteil, dass die Position der zu wägenden Last auf den Waagschalen das Ergebnis nicht beeinflusste.
+1763 baute der schwäbische Pfarrer Philipp Matthäus Hahn eine Neigungswaage mit direkter Gewichtsanzeige.
+Dezimal- und Küchenwaagen entstanden in der ersten Hälfte des 19. Jahrhunderts.
+Um 1850 wurden Versuche unternommen, das Wägeergebnis automatisch zu drucken.
+1895 kamen in den USA Waagen mit gleichzeitiger Preisanzeige auf (preisrechnende Waagen).
+1939 leiteten zwei amerikanische Ingenieure mit der Nutzung elektrischer Widerstandsänderungen das Zeitalter der elektronischen Waagen ein.
+Bei den Waagen unterscheidet man die oben genannten beiden Grundprinzipien, Gewichtskraftmessung und Massenvergleich.
+Bei der einfachsten Form der Federwaage wird das Wägeobjekt an eine Schraubenfeder gehängt und die Verlängerung gemessen.
+Anhand der Federkonstante wird dadurch die Gewichtskraft ermittelt und mit der entsprechenden Skala auf die Masse abgebildet.
+Verwandte Messprinzipien basieren ebenfalls auf Verformungsmessung, beispielsweise mit Membranen, Kraftsensoren, Kraftmessdosen, Piezoeffekt oder Ringtorsion.
+Es gibt Federwaagen und Kraftmesser für verschiedene Messbereiche.
+Beispiele:
+Die Masse eines Körpers wird durch den Vergleich mit Standardgewichten bestimmt.
+Auch diese Waagen arbeiten mit der Gravitation, müssen jedoch nicht auf die unterschiedlichen örtlichen Bedingungen eingestellt werden und könnten daher auch auf anderen Himmelskörpern, wie zum Beispiel dem Mond verwendet werden.
+Referenzgewichte sind zwischen 1 mg und 5 t normiert.
+Mechanische Geräte werden zunehmend durch elektronische Waagen ersetzt.
+Elektronische Analysenwaagen messen im Bereich von einigen hundert Gramm (typischerweise 200 - 300 g) mit einer Ablesbarkeit bis etwa 0,1 mg, was einer Auflösung von 106 entspricht.
+Manche elektrische Waagen wandeln oft ebenso wie Federwaagen die Gewichtskraft mit einem elastischen Element (Feder bzw. einen Biegebalken) in eine Verformung bzw. einen Weg um.
+Gegenüber mechanischen Waagen ist der Weg bzw. die Dehnung jedoch kleiner.
+Die Dehnung wird mit einem Dehnungsmessstreifen gemessen.
+Entsprechende Baueinheiten sind Wägezellen.
+Die Lageabweichung des elastischen Elementes kann auch über eine Kapazitätsänderung erfasst werden (Änderung des Plattenabstandes eines Kondensators).
+Genauere Waagen arbeiten nach dem Prinzip der elektromagnetischen Kraftkompensation.
+Dabei wird durch eine Spule in einem Permanentmagnetfeld eine Gegenkraft erzeugt, welche der Last der zu messenden Probe auf der Waagschale entspricht.
+Mit dieser Gegenkraft wird das Gleichgewicht gehalten.
+Dies wird durch einen Lagesensor und einen Regelverstärker bewerkstelligt.
+Über ein Hebelsystem ist es möglich, dass mit einer kleineren Gegenkraft eine größere Kraft auf der Waagschale im Gleichgewicht gehalten werden kann.
+Der kraftproportionale Spulenstrom wird gemessen und, umgerechnet in Masse, angezeigt.
+Bei diesem Prinzip entsteht keine Verformung, was zu einer höheren Genauigkeit gegenüber verformenden Prinzipien führt.
+Bekannt sind unter anderem Plattform- und Fahrzeugwaagen, Wägebrücken (Brückenwaage) mit mehreren Messdosen und Messterminal, Straßenbrückenwaagen, Gleisbrückenwaagen für Eisenbahnwagen, Statische / Dynamische Achslastwaagen, Kranwaagen, Palettenwaagen (z. B. 10 bis 1500 kg +/- 0,5 kg) oder Wägeterminals mit Abfüllsteuerung (siehe: Abfüllwaage)
+Zählwaagen bestimmen das Verhältnis des Gewichts einer Stückmenge zu einem einzelnen dieser Stücke (Zählmaß).
+Dazu werden ein oder (bei großen zu zählenden Stückzahlen) mehrere Stücke als Vergleich aufgelegt.
+Übliche elektronische Waagen können diese Funktionalität in Form einer Software in ihrem Bedienumfang enthalten.
+Für Personen und den Haushalt:
+Gewerblich:
+Medizinisch:
+Für Fahrzeuge:
+Historisch:
+Präzisionswaagen erreichen Genauigkeiten bis 0,01 %.
+Einteilung nach Genauigkeit:
+Das Wort Waage (ahd. waga, mhd. wage) ist verwandt mit dem Verb bewegen.
+Beide Wörter gehen auf eine indogermanische Wurzel zurück, die "bewegen" bedeutet.
+Eine Waage ist im ursprünglichen Wortsinn ein sich bewegender, schwingender Gegenstand.
+Das Verb wagen (mhd. wagen) mit der Bedeutung "sich trauen, etwas riskieren" ist eine Ableitung aus mhd.
+wage (= Waage) und bedeutet eigentlich "etwas auf die Waage legen".
+Im Jahre 1927 wurde die Schreibung zur besseren Unterscheidung zu Wagen von Wage auf Waage geändert.
+Die Verben wägen und wiegen bedeuten beide "das Gewicht bestimmen", unterscheiden sich jedoch in der Wortgeschichte und im heutigen Wortgebrauch.
+Das Bestimmen des Gewichts wird heute in der Allgemeinsprache fast nur mit dem jüngeren Verb wiegen ausgedrückt.
+In der Fachsprache hat sich wägen jedoch gehalten.
+Darüber hinaus ist wägen in der Schweiz gebräuchlich.
+Das im Präsens gleichlautende Verb wiegen (aber schwach: wiegte, gewiegt) mit der Bedeutung "sanft hin und her bewegen" ist von Wiege abgeleitet.
+Die Wörter Wiege und Waage sind nicht direkt verwandt, wahrscheinlich gehen sie aber mit der gemeinsamen Grundbedeutung "sich bewegender Gegenstand" auf dieselbe indogermanische Wortwurzel zurück.
+Eine Verbreitung in der religiösen Ikonographie erfuhr das Gerät besonders im Bild der Seelenwaage.
+Das Wort Waage ist auch in Bezeichnungen für einige technische Geräte enthalten, mit denen nicht das Gewicht bestimmt wird:
+Im allgemeinen Sprachgebrauch greifen einige Redewendungen auf das Bild der Waage zurück:

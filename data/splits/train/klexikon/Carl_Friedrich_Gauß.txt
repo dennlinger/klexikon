@@ -1,0 +1,50 @@
+Johann Carl Friedrich Gauß war ein deutscher Mathematiker.
+Doch nicht nur die Mathematik interessierte ihn.
+Er hat auch auf den Gebieten der Astronomie und Physik geforscht und in der Landvermessung gearbeitet.
+Viele wichtige mathematische Entdeckungen gehen auf Gauß zurück oder wurden nach ihm benannt.
+
+Er wurde im Jahr 1777 in Braunschweig geboren.
+Dort ist er auch aufgewachsen und zur Schule gegangen.
+Schon früh erkannte man seine Begabung zur Mathematik.
+Man bezeichnete ihn sogar als "Wunderknaben".
+Deshalb wurde er erst von seinen Lehrern auf der Volksschule gefördert und konnte später das Gymnasium besuchen.
+Dies war damals noch hauptsächlich Kindern von wohlhabenderen Eltern vorbehalten.
+
+Mit vierzehn Jahren wurde Gauß dem Herzog von Braunschweig vorgestellt.
+Dieser unterstützte ihn von da an mit Geld.
+So konnt er erst in Braunschweig und danach in Göttingen studieren.
+In Göttingen wurde Gauß später Professor und verbrachte dort die meiste Zeit seines Lebens.
+Im Jahr 1855 ist er in Göttingen gestorben.
+
+Bekannt ist Carl Friedrich Gauß auch durch den Roman "Die Vermessung der Welt" von Daniel Kehlmann, der später verfilmt wurde.
+Das Buch erzählt in leicht abgeänderter Form seine Lebensgeschichte und die des Naturforschers Alexander von Humboldt.
+
+== Was ist der "kleine Gauß"?
+
+Viele Entdeckungen von Gauß sind schwierig zu verstehen.
+Man muss dazu die Mathematik gut kennen.
+Eine berühmte Erkentnnis können wir hier jedoch nachvollziehen.
+
+Als Gauß neun Jahre alt war, gab sein Mathematiklehrer der Klasse folgende Aufgabe:
+Die Kinder sollten alle Zahlen von 1 bis 100 addieren.
+Während die anderen Kinder fleißig begannen, die Zahlen zusammenzuzählen, fiel Gauß auf, dass es auch einen schnelleren Weg gab.
+
+Schauen wir uns diesen Weg
+Schritt für Schritt an:
+Zuerst sortieren wir die Zahlen um.
+
+Und zwar so, dass sie immer 101 ergeben:
+
+Nun haben wir auf den ersten Blick 100 mal die Zahl 101.
+Doch
+Moment!
+Wir haben nun ja nicht mehr 100 Zahlen, sondern nur noch 50, da wir ja Paare gebildet haben.
+Also müssen wir noch durch zwei teilen:
+
+Und so bekommen wir unser Ergebnis:
+
+Diese Berechnung lässt sich sogar verallgemeinern.
+So ergibt sich für die Summe von 1 bis zu einer beliebigen Zahl n:
+
+Diese Formel nennt man auch den "kleinen Gauß" oder den "kleinen Gauß'schen Satz".
+

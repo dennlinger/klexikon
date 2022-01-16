@@ -1,0 +1,3 @@
+Funktechnik oder Funk ist eine Bezeichnung für die Methode, Signale aller Art mit Hilfe modulierter elektromagnetischer Wellen im Radiofrequenzbereich drahtlos zu übertragen.
+Eine Form der drahtgebundenen Nachrichtenübertragung dieser Signale ist die sogenannte Trägerfrequenztechnik.
+Anwendungen in Industrie und Medizin, die Hochfrequenz nur als Werkzeug einsetzen , verwenden dagegen in der Regel unmodulierte Radiowellen ohne aufgeprägte Informationen und werden deshalb nicht der Funktechnik zugeordnet.

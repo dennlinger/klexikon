@@ -1,0 +1,695 @@
+Epilepsie (von altgriechisch i epilepsis, deutsch ,Angriff', ,Überfall', über ia und lateinisch epilepsia, seit dem 16. Jahrhundert nachweisbar), im Deutschen in früheren Jahrhunderten, abgeleitet von Fall ,Sturz', ,Fall', Fallsucht (auch mittelhochdeutsch ,fallende Sucht' und lateinisch Morbus caducus) und auch heute manchmal noch zerebrales Anfallsleiden oder zerebrales Krampfleiden genannt, bezeichnet eine Erkrankung mit mindestens einem spontan aufgetretenen epileptischen Anfall, der nicht durch eine aktuell bestehende, erkennbare Ursache (beispielsweise eine akute Entzündung des Gehirns, einen Schlaganfall oder eine Kopfverletzung) oder einen Auslöser (wie Entzug von Alkohol bei bestehender Alkoholabhängigkeit oder massiven Schlafmangel) hervorgerufen wurde.
+Voraussetzung für die Diagnosestellung schon nach einem Anfall ist ein erkennbar hohes Wiederholungsrisiko, ansonsten liegt definitionsgemäß erst nach zwei Anfällen im Abstand von mindestens 24 Stunden eine Epilepsie vor.
+
+Ein epileptischer Anfall ist eine Folge plötzlich auftretender, synchroner elektrischer Entladungen von Nervenzellen (Neuronengruppen) im Gehirn, die zu unwillkürlichen stereotypen Bewegungs- oder Befindensstörungen führen.
+
+== Diagnose
+
+Zur Diagnose werden sowohl mit Hilfe der Betroffenen als auch der Angehörigen oder Dritter, die Anfälle beobachtet haben, die Krankengeschichte erhoben (Anamnese bzw. Fremdanamnese) und ein Elektroenzephalogramm (EEG; "Hirnstromkurve") abgeleitet.
+Auch bildgebende Untersuchungen gehören in aller Regel zur Routinediagnostik, während speziellere Verfahren besonderen Fragestellungen vorbehalten sind.
+Die Behandlung besteht zunächst in der Gabe von anfallsunterdrückenden Medikamenten (Antikonvulsiva).
+In therapieresistenten Fällen kommen auch andere Methoden wie die Epilepsiechirurgie zum Einsatz.
+
+Eine Epilepsie hat für den Betroffenen vielfältige Auswirkungen auf das Alltagsleben (wie zum Beispiel die Eignung für bestimmte Berufe oder das Autofahren), die in der Behandlung ebenfalls zu berücksichtigen sind.
+
+Epilepsie betrifft nicht nur Menschen, sondern kann in ähnlicher Form auch bei vielen Tieren auftreten.
+Siehe unter Epilepsie bei Haustieren.
+
+== Epidemiologie
+
+Die Inzidenz (Häufigkeit des Neuauftretens) von Epilepsien ist abhängig vom Lebensalter.
+Pro Jahr tritt bei etwa 60 von 100.000 Kindern eine Epilepsie erstmals auf, mit einer Spannbreite von 43-82/100.000.
+Dabei sind Fieberkrämpfe und einzelne unprovozierte Anfälle nicht mit eingerechnet.
+Im Erwachsenenalter sinkt die Inzidenz zunächst auf etwa 30-50/100.000 im Jahr ab und steigt im hohen Lebensalter ab 60 Jahren auf bis zu 140/100.000 im Jahr an.
+Rechnet man bis zum 74. Lebensjahr alle Epilepsien zusammen, kommt man auf eine Häufigkeit von etwa 3,4 Prozent.
+Die Prävalenz aktiver Epilepsien liegt im Kindesalter wiederum altersabhängig bei 3-6/1000 Kindern.
+Im frühen Kindesalter überwiegen dabei die Epilepsien mit generalisierten Anfällen (generalisierte Epilepsien), während im Erwachsenenalter Epilepsien mit fokalen Anfällen dominieren, die sich teilweise zu generalisierten Anfällen entwickeln können.
+
+== Ursachen von Epilepsien
+
+Lassen sich für eine Epilepsie keine hirnorganischen oder metabolischen Ursachen finden, so sprach man früher auch von genuiner Epilepsie, bei identifizierbaren Ursachen von symptomatischer Epilepsie.
+Für beide Erkrankungsgruppen und auch für sog. Gelegenheitsanfälle (siehe Abschnitt Epidemiologie) lässt sich eine genetische Disposition feststellen.
+Mit der technischen Fortentwicklung der bildgebenden Verfahren und der Labordiagnostik tritt die Diagnose einer genuinen Epilepsie zahlenmäßig zurück.
+
+Ursachen symptomatischer Epilepsien:
+
+Ursachen von Gelegenheitsanfällen:
+
+=== Pathophysiologie
+
+Obwohl das Wissen über die Entstehung von Epilepsien in den letzten Jahrzehnten deutlich zugenommen hat, sind die Zusammenhänge noch immer nicht vollständig geklärt.
+Zum Auftreten epileptischer Anfälle tragen zum einen eine Übererregbarkeit von Nervenzellen, zum anderen eine abnorme gleichzeitige elektrische Aktivität von größeren Nervenzellverbänden (neuronale Netze) bei.
+So nimmt man an, dass ein Ungleichgewicht von Erregung und Hemmung in diesen neuronalen Netzen epileptische Anfälle entstehen lässt.
+
+Verstärkte Erregung oder verminderte Hemmung können sowohl durch Veränderungen in den Membraneigenschaften der Nervenzellen als auch in der Erregungsübertragung von Nervenzelle zu Nervenzelle durch die Überträgersubstanzen (Neurotransmitter) bewirkt werden.
+So können sich Defekte in den Ionenkanälen für Natrium- und Calciumionen an der Entstehung und Ausbreitung von Anfallsentladungen beteiligen.
+Als erregende Neurotransmitter sind die Aminosäuren Glutamat und Aspartat beteiligt, die über eine Bindung an NMDA- oder AMPA-Rezeptoren Ionenkanäle öffnen.
+Gamma-Aminobuttersäure (GABA) stellt als hemmender Überträgerstoff sozusagen den Gegenspieler dar.
+Defekte in der Biosynthese, gesteigerter Abbau oder Hemmung der Rezeptoren (GABA-Rezeptoren) können ebenfalls zum Anfallsgeschehen beitragen.
+Elektrolytungleichgewichte aufgrund fortgesetzter Erregung hemmender GABA-verwendender Synapsen können diese zu erregenden Synapsen machen (Kandel, 2001).
+Die zentral hemmende Wirkung einiger Neuropeptide, wie beispielsweise Neuropeptid Y und Galanin, wird als körpereigener Mechanismus der Verhütung epileptischer Krämpfe diskutiert.
+
+Die Mechanismen, die dazu führen, dass aus einzelnen Anfällen eine Epilepsie entsteht, sind weitaus komplexer und noch unbekannt.
+Da die Mehrzahl der Anfälle Einzelereignisse bleiben, scheinen sie nicht zwangsläufig epilepsieauslösende Veränderungen zu verursachen.
+Allerdings hat das tierexperimentelle Modell des Kindling auch die Vorstellung zur Entstehung von Epilepsien beim Menschen geprägt.
+Unter Kindling versteht man einen dynamischen Vorgang, bei dem die wiederholte Anwendung elektrischer Reize, die zunächst noch nicht ausreichen, einen Anfall hervorzurufen, eine zunehmende Verstärkung der Anfallsbereitschaft hervorrufen, bis schließlich Anfälle auftreten.
+Anschließend bleibt die erhöhte Empfindlichkeit gegenüber dem Reiz bestehen.
+
+Klinische Untersuchungen über den Abstand zwischen den Anfällen zu Beginn einer Epilepsie konnten allerdings zumindest nicht einheitlich zeigen, dass sich die Intervalle verkürzen, weil ein Anfall den nächsten bahnt.
+
+=== Genetische Befunde bei Epilepsien
+
+In einigen wenigen Fällen wurde durch Stammbäume und molekulargenetische Untersuchungen nicht nur ein Vererbungsmodus, sondern sogar ein Genort für die mutierten Gene festgestellt.
+Einen Überblick gibt die Tabelle.
+Als veränderte Genprodukte konnten zum Beispiel spannungsabhängige Kanäle für Natrium-Ionen oder Rezeptoren von Neurotransmittern identifiziert werden.
+
+Außerdem können Epilepsien auch bei Krankheiten auftreten, denen eine Veränderung des Erbgutes zu Grunde liegt, bei denen das Anfallsleiden aber nur ein Symptom der Erkrankung ist.
+Beispiele hierfür sind die tuberöse Sklerose oder das Angelman-Syndrom.
+
+== Einteilung der Anfallsformen
+
+Epileptische Anfälle können sehr verschieden ablaufen.
+Die Internationale Liga gegen Epilepsie (ILAE) beschloss in den 1960er Jahren erstmals, eine einheitliche Klassifikation (Einteilung) der Anfälle sowie der Epilepsien und Epilepsie-Syndrome zu erstellen.
+Die 1970 veröffentlichte erste Fassung der Anfallsklassifikation wurde 1981 revidiert, die nächste Überarbeitung erfolgte erst 2017 zusammen mit einer Erläuterung zu ihrer Benutzung.
+Weil es einige Jahre dauern wird, bis sich die letzte Revision allgemein durchgesetzt hat, werden die Einteilungen von 1981 und 2017 hier noch nacheinander vorgestellt.
+In beiden wird grundsätzlich zwischen fokalen oder Herdanfällen und sogenannten generalisierten Anfällen unterschieden.
+Mit "generalisiert" ist dabei gemeint, dass beide Hälften des Gehirns am Anfall beteiligt sind, was man entweder an seinem Ablauf, einem während des Anfalls aufgezeichneten EEG oder an beidem erkennen kann.
+Es ist nicht ungewöhnlich, dass bei einer Epilepsie mehrere Anfallsformen auftreten, seien es mehrere fokale, mehrere generalisierte oder auch fokale und auch generalisierte.
+
+=== Klassifikation der Anfallsformen von 1981
+
+==== Fokale Anfälle
+
+Andere Ausdrücke für einen fokalen epileptischen Anfall sind Herdanfall oder früher auch partieller Anfall (letztere Bezeichnung wurde verlassen, weil sie häufiger zu dem Missverständnis eines "teilweisen" Anfalls Anlass gab).
+Diese Anfallsform ist dadurch gekennzeichnet, dass sie in einer umschriebenen Region einer Großhirnhälfte beginnt und sich entsprechend bemerkbar macht.
+
+Dabei ist es gleich, ob es im weiteren Verlauf (sekundär) zu einer Ausbreitung auf beide Gehirnhälften kommt (= sekundäre Generalisierung).
+Insbesondere ein Anfallsbeginn mit einer Aura hat einen hohen Aussagewert darüber, in welcher Hirnregion der Anfall seinen Ursprung hat, denn sie ist das Ergebnis einer umschriebenen Aktivierung von Nervenzellverbänden.
+
+Unterteilung:
+
+==== Generalisierte Anfälle
+
+Ein Anfall wird als generalisiert bezeichnet, wenn der Verlauf und die Symptome keine Hinweise auf eine anatomisch begrenzte Lokalisation geben und keine Zeichen eines lokalen (herdförmigen) Beginns zu erkennen sind.
+
+Unterteilung:
+
+= siehe auch den Abschnitt Generalisierte Epilepsien und Syndrome
+
+==== Nicht klassifizierbare epileptische Anfälle
+
+=== Klassifikation der Anfallsformen von 2017
+
+Die neue Klassifikation unterscheidet zwischen Anfällen mit fokalem, generalisiertem und unbekanntem Beginn, dabei jeweils mit den beiden Untergruppen motorisch (= mit Bewegungsstörungen) und nicht-motorisch (= ohne Bewegungsstörungen) und bei den fokal beginnenden Anfällen der zusätzlichen Angabe, ob eine Störung des Bewusstseins vorliegt oder nicht.
+Dabei gibt es für das im Englischen anstelle consciousness benutzte Wort awareness keine adäquate Übersetzung.
+
+==== Anfälle mit fokalem Beginn
+
+Zunächst ist (bei allen Formen fokaler Anfälle) festzuhalten, ob sie mit einer Bewusstseinsstörung einhergehen oder nicht.
+
+Unterteilung:
+
+==== Anfälle mit generalisiertem Beginn
+
+Wie bei den Anfällen mit fokalem Beginn wird unterschieden, ob es sich um Anfälle mit oder ohne motorische Störungen handelt.
+
+==== Anfälle mit unbekanntem Beginn
+
+Wie bei den anderen Anfallsformen wird unterschieden, ob es sich um Anfälle mit oder ohne motorische Störungen handelt.
+Darüber hinaus gehören auch nicht klassifizierbare Anfälle in diese Gruppe.
+
+=== Besondere Anfallsformen
+
+==== Gelegenheitsanfälle
+
+Gelegenheitsanfälle (Oligoepilepsie), die nach einem Vorschlag der Internationalen Liga von 2010 auch als akute symptomatische Anfälle bezeichnet werden, sind erfahrungsgemäß nicht nur bei einer Epilepsie oder genetischer Disposition zu einer Epilepsie wahrscheinlich.
+Sie sind epileptische Anfälle, die aufgrund außergewöhnlicher Umstände oder Bedingungen auftreten (provozierte epileptische Anfälle), wie
+
+Diese Anfälle begründen auch bei wiederholtem Auftreten nicht die Diagnose einer Epilepsie.
+
+==== Isolierte Anfälle
+
+Einzelne epileptische Anfälle ohne erkennbare Provokation ("unprovozierte" Anfälle) fallen entsprechend der ILAE-Klassifikation nicht unter die Gelegenheitsanfälle oder akuten symptomatischen Anfälle.
+Definitionsgemäß liegt hierbei aber ebenfalls noch keine Epilepsie vor, sofern keine Hinweise auf ein hohes Wiederholungsrisiko bestehen.
+
+==== Aura
+
+Der Begriff Aura stammt aus dem Griechischen und bedeutet die ,Wahrnehmung eines Lufthauches'.
+Man könnte sie auch mit einem "unbestimmten Vorgefühl" umschreiben.
+Wenn die Aura isoliert bleibt, kann sie das einzige - subjektive - Symptom eines einfach fokalen Anfalls darstellen.
+Sie ist das Ergebnis einer epileptischen Aktivierung der Nervenzellen einer umschriebenen Hirnregion.
+Aufgrund der funktionellen Zuordnung der Symptome zu den entsprechenden Arealen der Hirnrinde kommt ihnen eine hohe Bedeutung in der Lokalisationsdiagnostik von epilepsieauslösenden Herden zu.
+Breitet sich die epileptische Aktivität aus, kann ein sogenannter sekundär generalisierter Anfall folgen.
+
+Beispiele für Auren sind die sogenannte epigastrische oder viszerale Aura, ein Aufsteigen unbestimmt unangenehmer Gefühle aus der Magengegend, als häufigste Aura bei Schläfenlappenepilepsie (Temporallappenepilepsie), "Taubheitsgefühle, Kribbeln oder Nadelstiche" als Aura bei Scheitellappenepilepsie (Parietallappenepilepsie) oder "visuelle Halluzinationen" bei Hinterhauptslappenepilepsie (Okzipitallappenepilepsie).
+Andere Beispiele für eine Aura können Konzentrationsschwierigkeiten, Vergesslichkeit und das nicht mehr richtige Wahrnehmen der Umgebung sein.
+
+==== Status epilepticus
+
+Die meisten epileptischen Anfälle enden nach wenigen Minuten von selbst und der Betroffene erholt sich auch ohne therapeutische Maßnahmen.
+Man kann sich aber nicht darauf verlassen.
+
+Wenn mehrere Anfälle kurz hintereinander als Serie erfolgen, ohne dass der Betroffene sich dazwischen wieder vollständig erholen konnte, und im Falle von mehr als fünf Minuten anhaltenden Anfällen auch ohne Bewusstlosigkeit liegt ein Status epilepticus vor.
+Je länger so ein Zustand anhält, desto größer ist insbesondere beim Grand mal die Gefahr einer irreversiblen Schädigung des Gehirns oder je nach Anfallsform auch die eines tödlichen Verlaufes.
+
+== Einteilung der Epilepsien
+
+Wie bei den Formen epileptischer Anfälle hat die Internationale Liga gegen Epilepsie (ILAE) in den 1960er Jahren erstmals beschlossen, eine einheitliche Klassifikation der Epilepsien und Epilepsie-Syndrome zu erstellen.
+Die 1985 veröffentlichte erste Fassung der Epilepsieklassifikation wurde 1989 revidiert.
+die nächste Überarbeitung erfolgte erst 2017.
+Weil es einige Jahre dauern wird, bis sich die letzte Revision allgemein durchgesetzt hat, werden die Einteilungen von 1989 und 2017 hier noch nacheinander vorgestellt.
+In beiden wird grundsätzlich zwischen fokalen und sogenannten generalisierten Epilepsien unterschieden.
+
+=== Klassifikation der Epilepsien von 1989
+
+==== Lokalisationsbezogene Epilepsien und Syndrome
+
+Bei dieser Form der Epilepsien - auch fokale, lokale, partielle oder herdförmige Epilepsie genannt - beschränkt sich die anfallsartige Entladung zumindest zu Beginn der Anfälle auf eine begrenzte Region der Hirnrinde, sie geht von einem Herd oder Fokus aus.
+Im Verlauf kann sich die Anfallsaktivität aber auch ausbreiten und schließlich die gesamte Hirnrinde erfassen.
+Dann spricht man auch von einem sekundär generalisierten Anfallsleiden.
+
+Diese Anfallsart wird auch Rolandi-Epilepsie oder Rolando-Epilepsie genannt.
+Sie ist durch schlafgebundene Anfälle mit tonischer Verkrampfung der Gesichtsmuskulatur, vermehrtem Speichelfluss und der Unfähigkeit zu sprachlichen Äußerungen verbunden.
+Die Sprechstörung kann auch nach Abklingen der Verkrampfung noch einige Minuten fortbestehen, was ein wegweisendes Symptom darstellt.
+Der Beginn liegt zwischen dem zweiten und zwölften Lebensjahr mit einem Erkrankungsgipfel zwischen dem fünften und neunten Lebensjahr.
+Im EEG finden sich typische Veränderungen, sogenannte zentro-temporale Sharp waves.
+Das "Gutartige" an diesen Epilepsien bezieht sich darauf, dass sie immer mit Abschluss der Pubertät ausheilen.
+Mit etwa 10-15 Prozent aller Epilepsien im Kindesalter stellen diese Epilepsien die häufigste Anfallsart im Kindesalter dar.
+
+Diese Epilepsie (1981 erstmals von Henri Gastaut beschrieben) ist wesentlich seltener als die vorbeschriebene.
+Sie ist durch Anfälle mit visuellen Symptomen, gefolgt von motorischen oder psychomotorischen Manifestationen charakterisiert.
+Das Elektro-Enzephalogramm (EEG) zeigt wiederholte epilepsietypische Entladungen in der Region des Hinterhauptlappens.
+Die betroffenen Kinder seien sonst normal entwickelt und die Anfälle würden im Erwachsenenalter verschwinden.
+
+Bei dieser Form einer Reflexepilepsie werden die Anfälle durch - besonders lautes - Lesen ausgelöst.
+Auch andere sprachliche Aktivitäten können Anfälle auslösen.
+Diese äußern sich in Verkrampfungen der Kaumuskulatur und manchmal auch der Arme.
+Wenn der Reiz nicht unterbrochen wird, können sie sich auch zu generalisierten Anfällen ausweiten.
+Es besteht eine starke genetische Komponente.
+Im Elektroenzephalogramm (EEG) finden sich epilepsietypische Veränderungen bevorzugt der linken Scheitel-Schläfenregion.
+Der Verlauf ist gutartig.
+Die Vermeidung der spezifischen Auslösereize ist die Behandlung der Wahl.
+Falls notwendig, ist auch eine medikamentöse Therapie möglich.
+Sofern nur durch Lesen ausgelöste Anfälle auftreten, wird auch von einer primären Leseepilepsie gesprochen, treten wie z. B. bei einer juvenilen myklonischen Epilepsie auch sonstige Anfallsformen, von einer sekundären Leseepilepsie.
+
+Bei symptomatischen Epilepsien stellen die Anfälle Symptome einer zugrundeliegenden Hirnschädigung dar.
+Diese Kategorie umfasst sehr unterschiedliche Krankheiten, deren Einordnung auf der anatomischen Lokalisation und den damit verbundenen Anfallsmerkmalen sowie anderen klinischen Merkmalen beruht.
+
+Diese in der Fachsprache Epilepsia partialis continua oder "Koschewnikow-Epilepsie" genannte Form der Epilepsie besteht in Zuckungen einer Körperregion, die stunden- bis monatelang anhalten können.
+Durch gelegentliche Ausbreitung können sekundär andere Anfallsformen hinzutreten.
+Sie tritt in Assoziation mit unterschiedlichen Hirnschädigungen (unter anderem Durchblutungsstörungen, Neubildungen, Hirnschädigung durch Sauerstoffmangel unter der Geburt) auf.
+Die Zuckungen einzelner Muskeln sind therapieresistent.
+In manchen speziellen Fällen können epilepsiechirurgische Maßnahmen die Anfälle reduzieren.
+
+Bei dieser Form der Epilepsie (Temporallappenepilepsie oder früher auch Psychomotorische Epilepsie) haben die Anfälle ihren Ursprung in definierten anatomischen Strukturen des Schläfenlappens, dem Hippocampus, der Windung um den Hippocampus herum und dem Mandelkern.
+Sie stellt mit etwa 30 Prozent die häufigste Form der anatomisch klassifizierbaren lokalisationsbezogenen Epilepsien dar.
+Neuropathologisches Korrelat ist in der überwiegenden Zahl der Fälle eine Hippokampussklerose oder mesiale temporale Sklerose.
+Die Anfälle sind charakterisiert durch meist viszerale Auren mit Aufsteigen unangenehmer Gefühle aus der Magengegend.
+Sie werden meist gefolgt von fokalen Anfällen mit Bewusstseinsverlust, die sich in schmatzend-kauenden Mundbewegungen äußern - welche die Reaktion der Patienten auf einen oft von ihnen beschriebenen "seltsamen Geschmack" im Mund sind -, gefolgt von sich wiederholenden Handbewegungen, dann Umherschauen und schließlich Bewegungen des ganzen Körpers (Automatismen).
+Die medikamentöse Therapie ist bei Temporallappenepilepsien insofern schwierig, nur etwa ein Viertel der Patienten wird anfallsfrei, bei einem weiteren Drittel wird zumindest eine Abnahme der Anfallshäufigkeit erreicht.
+In therapieresistenten Fällen stellt auch hier die Epilepsiechirurgie eine Möglichkeit dar.
+Sonderformen der Temporallappenepilepsie sind u. a. die transiente epileptische Amnesie (TEA) und die musikogene Epilepsie.
+
+In der Fachsprache heißt diese Epilepsie Frontallappenepilepsie.
+Entsprechend den vielfältigen Funktionsbereichen des Stirnlappens sind die von ihm ausgehenden Anfälle in ihrem Erscheinungsbild sehr vielgestaltig.
+Es treten gewöhnlich kurz dauernde, vorwiegend schlafgebundene fokale klonische oder asymmetrisch tonische Anfälle, aber auch komplex ausgestaltete Automatismen bis hin zu Sprachäußerungen auf.
+Eine nur minimale oder ganz fehlende Verwirrtheit nach dem Anfall spricht ebenfalls für einen Ursprung im Frontallappen.
+Therapeutisch kommt auch bei den Frontallappenepilepsien nach einer medikamentösen Therapie die Epilepsiechirurgie in Frage, wenn eine definierte Läsion gefunden und ohne nachteilige Folgen entfernt werden kann.
+
+Ihren Ursprung haben diese herdförmigen Anfälle im Parietallappen.
+Charakteristisch für diese Form der Epilepsien sind so genannte sensible Herdanfälle, die sich in Missempfindungen in Form von Taubheitsgefühl, Kribbeln oder Nadelstichen äußern.
+Eher selten kommt auch anfallsartiger brennender Schmerz, auch als Bauchschmerz oder Kopfschmerz oder einer ganzen Körperhälfte vor.
+Die Therapie entspricht der bei den anderen symptomatischen fokalen Epilepsien.
+Liegt eine umschriebene Schädigung des Scheitellappens als Ursache vor, sind die Ergebnisse eines epilepsiechirurgischen Vorgehens gut.
+
+Die Hinterhauptslappenepilepsie (Okzipitallappenepilepsie) stellt mit 5-10 Prozent aller symptomatischen fokalen Epilepsien die seltenste Form dar.
+Sie entspringen dem Hinterhauptslappen, wo auch die Sehrinde liegt.
+Typischerweise gehen die Anfälle mit visuellen Halluzinationen in Form anhaltender oder blitzender Flecken oder einfacher geometrischer Figuren, vorübergehender Erblindung und seltener tonischen oder klonischen Augenbewegungen einher.
+
+Epilepsiesyndrome mit herdförmigen Anfällen, für die keinerlei Ursache gefunden wird, werden als kryptogen kategorisiert.
+
+==== Generalisierte Epilepsien und Syndrome
+
+Bei generalisierten Anfällen ist immer von Anfang an die gesamte Hirnrinde von der elektrischen Anfallsaktivität betroffen.
+Diese Anfallsformen gehen daher auch im Regelfall mit einem Bewusstseinsverlust einher (Ausnahme ist die juvenile myoklonische Epilepsie).
+Sie werden nochmals in sogenannte kleine (französisch Petit-mal ,kleines Übel') und große (französisch Grand mal ,großes Übel') Anfälle unterschieden.
+
+Der Begriff idiopathisch wird in Verbindung mit Krankheiten genutzt, die selbstständig entstehen.
+Bei der kryptogenen Epilepsie existiert (noch) keine bekannte, beweisbare Ursache im Sinne einer Entstehung durch äußere Einflüsse (Umweltfaktoren), sondern vermutlich oder auch bereits nachgewiesenermaßen sind sie anlagebedingt (erblich) oder eine andere vermutete Grunderkrankung.
+
+Hierbei handelt sich um ein gutartiges (benignes), seltenes, aber gut definiertes autosomal dominant vererbtes Krankheitsbild.
+Es wurden zwei Loci auf Chromosom 20 und auf Chromosom 8 identifiziert.
+Ein weiterer, noch nicht identifizierter existiert.
+Betroffen sind reifgeborene Neugeborene, die am zweiten oder dritten Lebenstag eine bis drei Minuten andauernde Anfälle mit Atemstillständen (Apnoen), Augenbewegungen sowie tonischen und klonischen Äußerungen zeigen.
+Die Anfälle hören im Lauf der ersten sechs Lebensmonate auf.
+Die Kinder entwickeln sich altersentsprechend.
+
+Dies ist eine sporadisch auftretende, nicht erblich bedingte Form von Krampfanfällen im Neugeborenenalter, die typischerweise am fünften Lebenstag (englisch fifth-day-fits, Spannweite 3.-7. Lebenstag) auftreten.
+Sie äußern sich in klonischen Zuckungen und Atemstillständen, nie in tonischen Anfällen.
+Sie sind durch Medikamente kaum zu beeinflussen, hören aber spontan wieder auf.
+Die Prognose ist gut.
+
+Die benigne myoklonische Epilepsie des Kleinkindalters stellt mit etwa 0,2 Prozent aller Epilepsien im Kindesalter eine seltene Erkrankung dar.
+Es wird vermutet, dass es sich um eine frühe Verlaufsform der juvenilen myoklonischen Epilepsie handelt.
+Sie tritt im Alter zwischen vier Monaten und vier Jahren bei normal entwickelten Kindern auf und äußert sich ausschließlich in kurzen generalisierten Myoklonien.
+Sie spricht gut auf eine medikamentöse Therapie an und hat eine gute Prognose.
+
+Eine im deutschen Sprachraum noch benutzte andere Bezeichnung für diese Epilepsie ist Pyknolepsie.
+Die Absencen-Epilepsie ist die häufigste Form einer idiopathischen generalisierten Epilepsie im Kindesalter.
+Diese Epilepsieform ist durch typische, fünf bis fünfzehn Sekunden andauernde Abwesenheitszustände (Absencen) gekennzeichnet.
+Sie treten täglich einige Male bis mehrere hundert Male mit Bewusstseinsverlust und Erinnerungslücken auf und beginnen vor der Pubertät bei sonst unauffälligen Kindern.
+Im Verlauf können Grand-mal-Anfälle folgen.
+Familiäre Häufung, Zwillingsstudien und die Assoziation mit einem Genort auf Chromosom 8 weisen auf eine genetische Ursache des Syndroms hin.
+Die Diagnose wird durch typische Anfallsmuster im Elektro-Enzephalogramm (EEG) gestützt (3/s-Spike-Wave-Komplexe).
+Die Absencen lassen sich relativ gut medikamentös (Ethosuximid, Lamotrigin) behandeln.
+Diese Epilepsie hat eine gute Prognose mit einem Rezidivrisiko von 20 Prozent.
+
+Im Gegensatz zur vorherigen Epilepsieform ist dieses Krankheitsbild auch als nicht-pyknoleptische Absencen bekannt.
+Die juvenile Absence-Epilepsie gehört ebenfalls zu den erblich bedingten generalisierten Epilepsien mit altersgebundener Manifestation.
+Der Beginn fällt zumeist mit dem Beginn der Pubertät zusammen und liegt im Gipfel bei zehn bis zwölf Jahren.
+Die Anfälle gleichen denen bei der Absence-Epilepsie des Kindesalters, sind jedoch weniger häufig und dauern dafür etwas länger an.
+Etwa 80 Prozent der Patienten haben zusätzlich generalisierte, tonisch-klonische Anfälle (Grand mal), meist nach dem Aufwachen.
+Die medikamentöse Therapie ist nicht ganz so erfolgversprechend wie bei der Pyknolepsie und dementsprechend die Prognose etwas kritischer.
+
+Die juvenile myoklonische Epilepsie (JME, Janz-Syndrom), im deutschsprachigen Raum manchmal auch Impulsiv-Petit-mal-Epilepsie genannt, ist zum Teil erblich bedingt und manifestiert sich vor allem im Jugend und Adoleszentenalter (12-20 Jahre).
+Die myoklonischen Anfälle zeigen sich in plötzlichen, kurzen, meist bilateral symmetrischen Muskelzuckungen der Schultern und Arme, die vom Patienten bewusst als "ein elektrischer Schlag" wahrgenommen werden.
+Sie treten einzeln oder unregelmäßig wiederholt vor allem in den Morgenstunden auf und sind von stark wechselnder Stärke.
+Das Bewusstsein bleibt bei dieser Form von Anfällen erhalten.
+Bei bis zu 95 Prozent der Patienten kommt es im weiteren Verlauf der Krankheit nach Monaten bis Jahren zudem zu generalisiert tonisch-klonischen Anfällen.
+Weniger häufig (15-40 Prozent der Patienten) treten Absencen auf.
+Neben der pharmakologischen Therapie muss die Vermeidung oder Reduktion von anfallsauslösenden Faktoren (Ermüdung/Schlafentzug, Alkoholgenuss) gewährleistet sein.
+
+Diese ebenfalls zu den genetisch bedingten Epilepsien gehörende Form manifestiert sich mit einem Häufigkeitsgipfel um das 17. Lebensjahr (Spannweite 14 bis 24).
+Es treten generalisierte tonisch-klonische Krampfanfälle ohne Aura ausschließlich oder überwiegend in den ersten Stunden nach dem Aufwachen auf, seltener auch im Anschluss an die aktive Tagesphase bei Entspannung als "Feierabend-Grand-mal".
+Neben der Vermeidung von Auslösefaktoren gründet sich die Therapie auf die Gabe eines anfallsdämpfenden Medikaments (unter anderem Valproinsäure).
+Die Prognose ist umso günstiger, je jünger die Patienten bei Erkrankungsbeginn sind.
+
+Bei diesen Epilepsien werden tonisch-klonische Anfälle als Antwort auf spezifische, gut abgrenzbare Reize ausgelöst.
+Daher heißen sie auch Reflexepilepsien.
+Sie sind überwiegend idiopathisch.
+In seltenen Fällen von symptomatischen Reflexepilepsien treten auch fokale Anfälle auf.
+Zu den auslösenden Reizen gehören überwiegend Flickerlicht und andere visuelle Reize (siehe Photosensibilität).
+Diese seltene Form der Epilepsie liegt vor, wenn Anfälle durch Fernsehen oder Videospiele ausgelöst werden.
+Bildschirme können durch Hell-Dunkel-Wechsel, durch wechselnde Farbkombinationen und durch Muster bei empfänglichen Menschen epileptische Anfälle provozieren.
+Durch sehr schnelle Farb- und Hell-Dunkel-Wechsel löste 1997 in Japan die Episode Denno Senshi Porygon der Kindersendung Pokemon bei über 600 Zuschauern ohne epileptische Vorgeschichte, zumeist Kindern, epileptische Reaktionen aus, so dass 200 von ihnen im Krankenhaus übernachten mussten.
+Ähnliche Wirkungen sind bei Computerspielen möglich.
+In vielen Handbüchern zu Computerspielen findet sich daher an prominenter Stelle eine Epilepsiewarnung.
+Eine weitere Form der Reflexepilepsie sind sogenannte Startle-Anfälle, auch Schreck-Anfälle, bei denen z. B. plötzliche Geräusche oder unerwartete Berührungen einen meist tonischen oder sekundär generalisierten tonisch-klonischen Reflexanfall auslösen können.
+
+Beim West-Syndrom, im deutschsprachigen Raum manchmal auch noch Epilepsie mit Blitz-, Nick-, Salaam-Krämpfen (BNS-Epilepsie) genannt, handelt es sich um eine altersgebunden auftretende Epilepsie, die fast immer im Säuglingsalter mit Serien von 2 bis 150 kurzdauernden Anfällen beginnt und mit einem typischen Muster im Elektro-Enzephalogramm (EEG), der sogenannten Hypsarrhythmie einhergeht.
+Die Prognose ist insbesondere hinsichtlich der kognitiven Entwicklung auch bei erfolgreicher medikamentöser Therapie meist ungünstig, wobei dies in der Regel auf bestehende hirnorganische Schädigungen zurückzuführen ist und nicht auf die epileptischen Anfälle selbst.
+
+Das Lennox-Gastaut-Syndrom ist eine der schwersten Epilepsien des Kindes- und Jugendalters.
+Es ist durch häufiges Auftreten von verschiedenen generalisierten Anfallsformen, insbesondere von tonischen Sturzanfällen charakterisiert.
+Es besteht meist eine Therapieresistenz und die Patienten haben meist mittelschwere bis schwere kognitive Defizite.
+Die Abgrenzung gegen andere Epilepsiesyndrome ist allerdings häufig schwierig.
+
+Die myoklonisch-astatische Epilepsie, auch Doose-Syndrom genannt, beginnt zumeist in den ersten fünf Lebensjahren.
+Neben den namengebenden astatischen Sturzanfällen durch plötzlichen Verlust der Spannung der Muskulatur, meist eingeleitet von kurzen Zuckungen können auch Absencen und generalisierte tonisch-klonische Anfälle auftreten.
+Die Patienten sprechen unterschiedlich gut auf die medikamentöse Therapie an und die Prognose kann bei häufigen generalisierten tonisch-klonischen Anfällen getrübt sein.
+
+Hierbei handelt es sich um eine spezielle Epilepsie des Kindesalters, bei der ausschließlich oder überwiegend Absencen auftreten, die von stark ausgeprägten, rhythmischen und beidseitigen Zuckungen vor allem der Schultern und Arme, weniger der Beine, begleitet werden.
+Im Elektro-Enzephalogramm (EEG) finden sich die auch bei den übrigen Absence-Epilepsien typischen Anfallsmuster.
+Bei fast der Hälfte der Kinder ist schon vor Beginn der Epilepsie eine geistige Entwicklungsstörung vorhanden.
+Da ein beträchtlicher Teil der Kinder nicht anfallsfrei wird, kommen im Verlauf der Erkrankung noch etwa ein Viertel dazu.
+Sprechen die Absencen jedoch rasch und anhaltend auf die Therapie an, bleibt die Intelligenz erhalten.
+
+Diesen Epilepsien liegt eine nachgewiesene Hirnschädigung zurückliegender Art zugrunde.
+
+==== Epilepsien und Syndrome, die nicht als lokalisationsbezogen oder generalisiert bestimmbar sind
+
+Hiervon spricht man bei streng auf die ersten vier Lebenswochen beschränkten Anfällen, die in den allermeisten Fällen auf eine Schädigung des Gehirns, zum Beispiel durch Infektion, vorübergehenden Sauerstoffmangel oder Unterzuckerung zurückzuführen und somit symptomatischer Natur sind.
+
+Das Dravet-Syndrom ist extrem selten.
+Es beginnt bei sonst gesunden Kindern im ersten Lebensjahr mit häufig wiederkehrenden, generalisierten oder halbseitigen Anfällen mit und ohne Fieber, die eher einen verlängerten Verlauf haben.
+Im zweiten bis dritten Lebensjahr treten einzelne oder kurze Serien (zwei bis drei Abfolgen) von Zuckungen vor allem der Rumpfmuskulatur von sehr unterschiedlicher Stärke auf.
+Die Therapie ist schwierig und die Prognose dementsprechend schlecht.
+
+Das Besondere an diesem Epilepsiesyndrom ist das Auftreten von durchgehenden generalisierten epilepsietypischen Entladungen im Elektro-Enzephalogramm (EEG) während des gesamten sogenannten synchronisierten Schlafes.
+In Verbindung hiermit kommt es bei den Kindern zu einem geistigen Abbau sowie einer erheblichen Beeinträchtigung der Sprache und der zeitlichen und räumlichen Orientierung.
+Es treten häufige und vielfältige Anfälle (einseitige fokale motorische Anfälle, atypische Absencen, atonische Anfälle mit Stürzen, generalisierte tonisch-klonische Anfälle - aber nie tonische Anfälle) mit Beginn im Alter von vier Jahren (im Mittel) auf.
+
+Das Aphasie-Epilepsie-Syndrom ist auch unter der Bezeichnung Landau-Kleffner-Syndrom bekannt.
+In der ILAE-Klassifikation wird dieses Syndrom von der Epilepsie mit anhaltenden spike-wave-Entladungen im synchronisierten Schlaf getrennt, obwohl vermutet wird, dass beide Syndrome wahrscheinlich nur unterschiedliche Erscheinungsformen ein und derselben Krankheit sind.
+Allerdings tritt hierbei bei der Mehrzahl der Fälle im Alter von drei bis acht Jahren ein Verlust der Sprachfähigkeit (Aphasie) als erstes Symptom auf.
+Bei etwa 40 Prozent der Kinder äußert sich die Erkrankung zuerst in unterschiedlichen epileptischen Anfällen.
+Die Prognose ist bezüglich der Anfälle gut, bezogen auf die Sprachfunktion aber durchaus kritisch.
+
+== Komplikationen und Folgen
+
+Epileptische Anfälle können mit einer Reihe von Komplikationen verbunden sein, von denen die wichtigsten sind:
+
+Nach einem meist generalisierten tonisch-klonischen (Grand mal) Anfall können Betroffene noch für einige Zeit - dies kann bis zu mehreren Stunden dauern - in einen harmlosen tiefen Schlaf fallen (Terminalschlaf) oder einen postiktalen Dämmerzustand durchmachen.
+
+== Diagnostik
+
+=== Differentialdiagnose
+
+Verschiedene Krankheitszustände, die mit vorübergehenden anfallsartigen Erscheinungen einhergehen, können epileptischen Anfällen sehr ähnlich sein und daher mit ihnen verwechselt werden.
+Eine Fehldeutung solcher Zustände als Epilepsie sollte möglichst vermieden werden, da sie nicht nur zu einer unnötigen Verunsicherung der Patienten oder der Angehörigen, sondern darüber hinaus zu einer überflüssigen Behandlung mit Antiepileptika führt.
+Umgekehrt können echte epileptische Anfälle als nicht epileptisch verkannt werden und eine notwendige und hilfreiche Behandlung unterbleiben.
+
+Die wichtigste Differentialdiagnose epileptischer Anfälle im Erwachsenenalter sind psychogene nicht-epileptische Anfälle.
+Sie werden auch dissoziative Anfälle genannt und können epileptischen Anfällen ähnlich sehen.
+Eine sichere Unterscheidung ist oft nur durch eine Langzeit-Video-EEG-Aufzeichnung möglich.
+Psychogene Anfälle sind nicht organisch (durch eine Funktionsstörung im Gehirn), sondern seelisch bedingt.
+Ursächlich kann beispielsweise eine Depression, eine Angststörung oder eine posttraumatische Belastungsstörung sein.
+Nicht selten finden sich in der Lebensgeschichte traumatische Erlebnisse wie etwa sexueller Missbrauch.
+Diese Anfälle sind nicht simuliert (vorgetäuscht).
+Sie erfordern eine psychiatrische medikamentöse Therapie oder eine Psychotherapie, oft auch beides.
+Eine Behandlung mit Antiepileptika ist sinnlos.
+
+Eine wichtige Differentialdiagnose epileptischer Anfälle im Kindes- und Jugendalter - deren Auftreten aber nicht auf dieses Alter beschränkt ist - sind Synkopen durch Kreislaufregulationsstörungen oder Herzrhythmusstörungen.
+Speziell im Kindesalter sind respiratorische Affektkrämpfe, Atemstillstände oder Zyanose bei Rückfluss von saurem Magensaft in die Speiseröhre sowie der benigne paroxysmale Schwindel des Kleinkindesalters zu beachten.
+In diesem Alter kann auch Masturbation vor allem bei Mädchen mit plötzlichen Versteifungen der Oberschenkel oder wippenden Bewegungen epileptischen Phänomenen gleichen.
+
+Weitere seltene Differentialdiagnosen sind einfache, nur mit Aura einhergehende oder komplizierte Migräneformen, nächtliche beziehungsweise schlafbezogene episodische Ereignisse wie Nachtschreck, Schlafwandeln, Alpträume oder Narkolepsie, anfallsartige motorische Phänomene wie Tics sowie episodische psychiatrische Störungen wie Tagträume, Hyperventilationssyndrom, Angst- und Panikattacken oder episodische Wutanfälle.
+
+Speziell im höheren Lebensalter stellen bei Anfällen aus dem Schlaf heraus REM-Schlaf-Verhaltensstörungen eine wichtige Differentialdiagnose dar.
+
+=== Neuropsychologie in der Epilepsiediagnostik
+
+Die neuropsychologische Diagnostik bei Epilepsiepatienten, das heißt die Untersuchung verschiedener kognitiver Funktionen wie etwa der Konzentration, der unmittelbaren Merkfähigkeit oder der mittelfristigen Gedächtnisleistungen, der basalen oder höheren Sprachleistungen etc., erfolgt zur Beantwortung mehrerer Fragestellungen:
+
+Während früher Fragen der Lateralisation und der Lokalisation der Epilepsie im Vordergrund standen, interessieren heute infolge der großen Fortschritte im Bereich der strukturellen und funktionellen Bildgebung mehr Fragen der funktionellen Beeinträchtigung kognitiver Leistungen durch die Epilepsie selbst bzw. deren somatische Grundlage, unerwünschte Effekte der medikamentösen Behandlung oder das Risiko kognitiver Einbußen durch einen eventuellen epilepsiechirurgischen Eingriff.
+Diese Aufgaben der Neuropsychologie lassen sich letztendlich unter dem Stichwort der Qualitätskontrolle, das heißt der Beurteilung der Vertretbarkeit und Verträglichkeit einer gewählten Therapiemethode, recht gut zusammenfassen.
+
+Zusätzlich beantwortet werden sollen auch Fragen nach der Alltagsrelevanz epilepsieassoziierter kognitiver Störungen beispielsweise auf die schulische Leistungsfähigkeit oder den Beruf und dienen auch zur Feststellung der Notwendigkeit der Durchführung einer rehabilitativen Maßnahme und wiederum auch deren Validierung.
+
+Üblicherweise erfolgen viele Tests noch mit Papier und Stift, einige Verfahren sind heute aber auch schon als computergestützte Testverfahren erhältlich.
+Zusätzlich wird in den spezialisierten Zentren immer häufiger auch auf die Methode der funktionellen Bildgebung wie etwa der funktionellen Magnet-Resonanz-Tomographie zur Lateralisation der hemispheriellen Sprachdominanz zurückgegriffen.
+Bei Unklarheiten in der Interpretation der Ergebnisse resultiert unter Umständen die Notwendigkeit zur Durchführung des invasiven intra-carotidalen Amobarbitaltests (auch Wada-Test genannt), der über die temporäre Narkotisierung einer Hirnhemisphäre eine recht zuverlässige Aussage über die Hemisphärenlateralisierung für Sprache erlaubt.
+Ziel dieser Verfahren ist es, die Risiken bei einem epilepsiechirurgischen Eingriff für weitere kognitive Einbußen möglichst gering zu halten.
+
+Weitere Aufgaben der Neuropsychologie betreffen auch die kurz-, mittel- und langfristigen psycho-sozialen Folgen, die eine chronische Erkrankung wie Epilepsie auf das Leben der Betroffenen hat.
+Anhand von mehr oder weniger standardisierten Fragebögen und Interviews versucht man, diese Effekte zu erfassen.
+Letztendlich müssen sich auch die unterschiedlichen Therapiemethoden an ihren Auswirkungen auf die psycho-soziale Entwicklung der Patienten bezüglich ihrer Wirksamkeit messen lassen.
+
+== Behandlung
+
+Ziel der Behandlung bei Epilepsien ist die völlige Anfallsfreiheit mit möglichst wenigen oder ohne Nebenwirkungen.
+Bei Kindern soll durch die Therapie darüber hinaus eine unbeeinträchtigte Entwicklung gewährleistet werden.
+Allen Patienten soll eine Lebensform ermöglicht werden, die den Fähigkeiten und Begabungen gerecht wird.
+Dabei ist zwischen der Akutbehandlung eines epileptischen Anfalls und der Dauerbehandlung zu unterscheiden.
+Diese Therapieziele werden in erster Linie durch eine geeignete Arzneimittelbehandlung erreicht.
+Mit Hilfe einer Monotherapie mit Carbamazepin, Eslicarbazepinacetat, Lamotrigin, Levetiracetam, Oxcarbazepin, Valproinsäure oder einem anderen Antikonvulsivum gelingt es in circa zwei Drittel der Fälle, die Krampfanfälle zu kontrollieren.
+Bei den übrigen Patienten spricht man von einer pharmakoresistenten Epilepsie.
+Der zusätzliche Einsatz weiterer Antiepileptika (Add-on-Therapie) führt bei pharmakoresistenten Epileptikern (etwa 10 Prozent) zwar nur selten zur dauerhaften Anfallsfreiheit, jedoch sind Teilerfolge, wie etwa eine reduzierte Anfallsfrequenz oder mildere Anfallsformen, erzielbar.
+
+Bei pharmakoresistenten Epileptikern sollte ebenfalls frühzeitig geprüft werden, ob sie geeignete Kandidaten für einen epilepsiechirurgischen Eingriff sind.
+Die Epilepsiechirurgie kann mittlerweile - bei pharmakoresistenten fokalen Epilepsien - die Epilepsie "heilen", wenn das epileptogene Areal im Hirn genau identifiziert werden kann und operabel ist.
+Die Chance auf Anfallsfreiheit durch einen epilepsiechirurgischen Eingriff liegt je nach Befundkonstellation bei 50-80 Prozent.
+
+Zu einem umfassenden Behandlungskonzept gehören auch eine Aufklärung und Beratung bis hin zur Patientenschulung, die Anleitung zur Anfallsdokumentation gegebenenfalls durch Führen eines Anfallstagebuchs und Hilfen zur Integration in Familie, Schule, Beruf und Gesellschaft.
+Gesellschaftlich wird hierbei eine offene Auseinandersetzung empfohlen, die auf Respekt beruht.
+
+=== Akutbehandlung
+
+Die meisten epileptischen Anfälle enden nach wenigen Minuten von selbst.
+Je nach Art des Anfalles kann sich der Betroffene dennoch durch Stürze oder - beispielsweise während einer Phase von Zuckungen oder durch Handlungen im Zustand einer Bewusstseinstrübung - an Gegenständen in seiner Umgebung verletzen.
+Durch Aussetzen der Schutzreflexe kann es auch zu Aspiration von Essen, Mageninhalt oder - bei Badenden - großer Mengen Wasser kommen.
+Insbesondere Grand-mal-Anfälle führen durch ineffektive Atmung zu akutem Sauerstoffmangel, der das Gehirn noch weiter schädigen kann.
+Diese Gefahr ist umso größer, je länger die Anfälle ohne zwischenzeitliches Erwachen anhalten (Status epilepticus).
+
+==== Erste Hilfe
+
+Vorrangig sollte man darauf achten, dass sich die Betroffenen insbesondere im Stadium der Bewusstseinstrübung keine Verletzungen zuziehen:
+
+Schäden durch Sauerstoffmangel vermeiden:
+Außer in dem Fall, dass Angehörige oder Betreuer eines Menschen mit Epilepsie über die Möglichkeit einer Akutbehandlung verfügen, ist ein Notruf durchzuführen.
+Der Notarzt oder das Rettungsdienstpersonal kann durch die Injektion von Medikamenten einen länger anhaltenden Anfall beenden und kurzfristige Folgeanfälle verhindern.
+
+Grundsätzlich ist es für die behandelnden Ärzte auch hilfreich, wenn der Anfallsverlauf genau beobachtet und seine Dauer notiert wird, da dies die genaue Diagnosestellung und Behandlung erleichtert.
+
+==== Medikamentöse Therapie
+
+Menschen, bei denen selbst oder bei ihren Angehörigen eine schwere Form der Epilepsie bekannt ist, führen in der Regel ein ärztlich verordnetes Notfallmedikament mit sich, das bei Bedarf von jeder darin geübten Person verabreicht werden kann.
+Es handelt sich hierbei um Tropfen, die je nach Darreichungsform entweder in die Wangentasche gegeben oder in Form eines Mikroklistiers in den Enddarm eingeführt werden.
+Der akute epileptische Anfall kann durch diese Gabe von Antikonvulsiva aus der Gruppe der Benzodiazepine in den meisten Fällen unterbrochen werden.
+Es haben sich insbesondere Diazepam, Clonazepam, Lorazepam, Midazolam und Nitrazepam in der Akuttherapie etabliert, wobei Midazolam den schnellsten Wirkungseintritt zeigt (< 30 Minuten).
+Jedoch ist die Wirksamkeit und Verträglichkeit jener Medikamente individuell unterschiedlich.
+Auch Thiopental, ein Barbiturat, wird als intravenös zu verabreichende Lösung zur Therapie beim Krampfanfall eingesetzt.
+Für die Dauerbehandlung werden diese Arzneistoffe nur in Ausnahmefällen eingesetzt, da sie bei regelmäßiger Einnahme insbesondere zu einer psychischen Abhängigkeit führen können.
+
+=== Dauerbehandlung
+
+Ein so genannter Epilepsiehelm schützt vor Kopfverletzungen.
+Zur Vorbeugung epileptischer Anfälle stehen inzwischen sehr viele Medikamente (Antiepileptika) zur Verfügung.
+Von den älteren Wirkstoffen werden für Epilepsien mit fokalen Anfällen nach wie vor Carbamazepin und für Epilepsien mit generalisierten Anfällen Valproinsäure häufig eingesetzt.
+Von den inzwischen zahlreichen neueren Wirkstoffen werden Lamotrigin und Levetiracetam am häufigsten verordnet.
+Anstelle Carbamazepin wird wegen der vergleichbaren Wirksamkeit, aber schwächerer Enzyminduktion häufiger seinem Ketoanalogon Oxcarbazepin oder Eslicarbazepinacetat der Vorzug gegeben.
+Valproinsäure wird bei der Dauerbehandlung primär generalisierter Anfälle bevorzugt, bei Frauen im gebärfähigen Alter allerdings nur bei fehlenden Alternativen.
+Als Monotherapeutika stehen darüber hinaus die klassischen Antiepileptika Phenytoin, Phenobarbital und Primidon mit allerdings recht ungünstigem Nebenwirkungsprofil zur Verfügung.
+Von den neueren Antiepileptika haben auch Topiramat und Zonisamid Zulassungen zur Monotherapie, wohingegen Brivaracetam, Perampanel, Rufinamid und Stiripentol nur zur Zusatzbehandlung eingesetzt werden sollen.
+Eine spezielle Gruppe von Epilepsien des Kindesalters, die gutartigen ("benignen") idiopathischen Partialepilepsien, werden bevorzugt mit Sultiam behandelt.
+Ethosuximid hat seinen besonderen Stellenwert in der Behandlung der Absence-Epilepsie des Schulalters, bei der es sich in einer großen Vergleichsstudie gegenüber Lamotrigin und Valproinsäure als überlegen erwiesen hat.
+
+Ihre Effekte erzielen diese Arzneistoffe über eine Erhöhung der Reizschwelle durch Hemmung von Natrium-Ionenkanälen (Valproinsäure, Carbamazepin, Oxcarbazepin und Phenytoin) oder durch eine Aktivierung von GABA-Rezeptoren (Phenobarbital und sein Prodrug Primidon) im Zentralnervensystem.
+
+Die Zahl der Patienten, die nicht compliant sind, ist in der Neurologie besonders hoch.
+Bei Patienten mit Epilepsie liege die Rate der Medikamentenverweigerer bei 50 Prozent.
+Jede zweite Einweisung ließe sich verhindern, wenn Patienten ihre Medikamente nicht eigenmächtig absetzen würden.
+
+Da die Monotherapie epileptischer Erkrankungen bei einem Teil der Patienten nicht zu einem befriedigenden Ergebnis führt, kann eine Therapie unter Verwendung eines Zusatztherapeutikums mit einem ergänzenden Wirkmechanismus erwogen werden.
+Als Zusatztherapeutika haben sich die GABA-Analoga Gabapentin, Pregabalin, Tiagabin und Vigabatrin, welche die GABA-Konzentration im Gehirn erhöhen, etabliert.
+Alternativ stehen die Ionen-, Calcium- und Natriumkanal hemmenden Suximide Mesuximid und Ethosuximid, Lamotrigin, Levetiracetam, Felbamat, Topiramat und Eslicarbazepinacetat zur Verfügung.
+
+Nach längerer Zeit der Anfallsfreiheit - wenigstens zwei Jahre - kann in Abhängigkeit vom Risiko des Wiederauftretens von Anfällen und den möglichen psychosozialen Auswirkungen erneut auftretender Anfälle einerseits und den wahrgenommenen Beeinträchtigungen durch die Therapie andererseits auch ein ausschleichendes Beendigen der medikamentösen Therapie erwogen werden.
+Zahlreiche Studien haben das Risiko des Wiederauftretens von Anfällen nach Beendigung der Medikamenten-Behandlung untersucht.
+Zusammengefasst besteht eine Chance von etwa 70 Prozent für eine dauerhafte Anfallsfreiheit ohne Medikamente, wenn
+
+=== Sonstige Methoden der Epilepsiebehandlung
+
+==== Alternative pharmakologische Maßnahmen
+
+Neben den im eigentlichen Sinne anfallsunterdrückenden Arzneistoffen gibt es für verschiedene schwer behandelbare Epilepsien noch weitere medikamentöse Behandlungsansätze.
+Beim West-Syndrom hat sich die Behandlung mit ACTH (adrenocorticotropes Hormon aus der Hirnanhangdrüse, das die Nebennieren zu vermehrter Produktion von Cortison stimuliert) oder Corticosteroiden direkt als wirksam erwiesen.
+Diese nebenwirkungsreiche Behandlung (unter anderem Bluthochdruck, Verdickung der Herzmuskulatur mit eingeschränkter Pumpfunktion, Nierenverkalkung, Diabetes mellitus) wird auch beim Landau-Kleffner-Syndrom, der myoklonisch astatischen Epilepsie und dem Lennox-Gastaut-Syndrom mit unterschiedlichen Erfolgsaussichten eingesetzt.
+
+Die Beobachtung, dass bei epilepsiekranken Kindern mit Heuschnupfen eine Injektion von Immunglobulinen zu einer Verbesserung des Anfallsleidens führte, hat dazu geführt, auch diese systematisch anzuwenden.
+Warum Immunglobuline bei Epilepsie überhaupt wirksam sind, ist noch unklar.
+Auch fehlen noch Kriterien, die bei der Vorhersage helfen, bei welchen therapieschwierigen Epilepsien diese Therapie erfolgversprechend ist.
+Eine Übersichtsarbeit, die 24 Studien zusammenfasste, konnte bei erheblich unterschiedlicher Behandlungsdauer und Dosierung in den einzelnen Behandlungen insgesamt eine Anfallsfreiheit von etwa 20 Prozent und eine Reduktion der Anfallshäufigkeit von etwa 50 Prozent zeigen.
+
+==== Ketogene Diät
+
+Ausgehend von der Erfahrung, dass bei Menschen mit Epilepsie Fasten vorübergehend zu einer Anfallsfreiheit führe, wurde seit 1921 mit einer Diät mit sehr hohem Fett-, geringem Kohlenhydrat- und moderatem Eiweißanteil zur Erzeugung einer anhaltenden Stoffwechsellage mit überwiegender Fettverbrennung und Bildung von Ketonkörpern (Ketose) der biochemische Effekt des Fastens imitiert.
+Diese sogenannte ketogene Diät erwies sich bei Epilepsiepatienten als effektiv.
+Der genaue Wirkmechanismus ist dabei bis heute nicht geklärt.
+Zahlreiche Studien konnten aber zeigen, dass etwa ein Drittel der behandelten Patienten anfallsfrei werden und etwa ein weiteres Drittel eine deutliche Reduktion der Anfälle um mindestens die Hälfte erfährt.
+Sie ist aus praktischen Gründen besonders gut für Kinder von ein bis zehn Jahren geeignet, aber auch bei Jugendlichen und Erwachsenen wirksam.
+Am besten scheinen myoklonische und atonische Anfälle, weniger gut generalisierte tonisch-klonische und fokale Anfälle und am schlechtesten Absencen anzusprechen.
+Die Diät soll normalerweise zwei Jahre lang durchgeführt werden, bei einem Teil der Patienten hält der erzielte Effekt über die Beendigung hinaus an.
+Als Nebenwirkungen können zu Beginn Erbrechen, Durchfall, Verstopfung und Diätverweigerung auftreten.
+Insbesondere bei zusätzlichen akuten Erkrankungen kann sich eine Übersäuerung des Körpers einstellen.
+Das Risiko für die Bildung von Nierensteinen ist erhöht.
+Häufig zeigt sich auch eine teilweise massive Erhöhung der Blutfettwerte.
+Die mögliche Langzeitauswirkung auf Herz-Kreislauf-Erkrankungen lässt sich nicht abschätzen.
+Besonders bei schwer verlaufenden Epilepsien stellt die ketogene Diät eine wirksame Behandlungsalternative dar.
+
+==== Epilepsiechirurgie
+
+Wenn trotz optimaler Auswahl der Antiepileptika in der maximal verträglichen Dosierung keine befriedigende Anfallskontrolle erreicht werden kann und eine strukturelle Läsion des Gehirns als ursächlich für die Anfälle nachgewiesen werden kann, kommt auch eine chirurgische Therapie des Anfallsleidens in Frage (Epilepsiechirurgie).
+Hierzu muss in sorgfältigen und ausgedehnten Untersuchungen vor dem Eingriff (prächirurgische Diagnostik) das anfallsauslösende Areal exakt lokalisiert und die funktionelle Beeinträchtigung nach Verlust des entsprechenden Hirngewebes abgeschätzt werden (zum Beispiel Wada-Test).
+
+==== Vagusnervstimulation (VNS)
+
+Bei der Vagusnervstimulation wird durch einen elektrischen Stimulator entweder in festen Intervallen oder auf Aktivierung durch den Patienten bei einem Anfallsvorgefühl der linke Vagusnerv am Hals mit elektrischen Strömen gereizt.
+Der Stimulator mit einer Batterie wird an der Brustwand eingesetzt.
+Der stimulierte Vagusnerv leitet die Erregung ins Gehirn weiter, wodurch die Anfallsfrequenz gesenkt werden kann.
+
+Als Nebenwirkungen können lokale Schmerzen oder Missempfindungen, Veränderungen der Stimmlage, Luftnot, Übelkeit und Durchfälle auftreten.
+Obwohl der Vagusnerv auch direkt den Herzmuskel versorgt und an der Steuerung der Herzfrequenz beteiligt ist, wurde nicht über Veränderungen der Herzfrequenz berichtet.
+
+==== Transkutane Vagusnervstimulation (ohne OP)
+
+Bei der transkutanen Vagusnervstimulation sind weder eine Operation noch ein Klinikaufenthalt notwendig.
+Über eine mit einem Stimulationsgerät verbundenen Ohrelektrode wird durch die Haut ein Ast des Vagusnervs an einer bestimmten Stelle der Ohrmuschel stimuliert.
+Die Stärke der Stimulation stellt der Patient so ein, dass er ein angenehmes Kribbeln verspürt.
+Durch den Ast des Vagusnervs wird die Erregung ins Gehirn weitergeleitet, wodurch Anfälle reduziert und gemildert werden können.
+
+Die Anwendung der Therapie erfolgt allein durch den Patienten und kann gut in den Alltag integriert werden.
+Diese Form der Epilepsietherapie kann bereits früh zum Einsatz kommen und hat nur geringe Nebenwirkungen, die in der Regel nach Beenden der Stimulation schnell abklingen.
+Die bislang einzige publizierte randomisierte Doppelblindstudie konnte allerdings keine Wirksamkeit nachweisen.
+
+==== Verhaltenstherapie
+
+Über ein Biofeedback-Modell und Verhaltenstherapie konnten einige Epilepsie-Patienten die Anzahl der Anfälle reduzieren.
+Vor und nach dem Anfall gibt es eine veränderte Hirnaktivität, über die Verhaltenstherapie konnten die Patienten einen gewissen Einfluss auf diese Aktivitäten erlangen, wodurch Anfälle verhindert werden konnten.
+
+==== Frühwarnsysteme
+
+== Prognose
+
+Die Prognose von Epilepsien hängt von verschiedenen Faktoren wie dem vorliegenden Epilepsiesymdrom und dessen Ursache, der Art und Häufigkeit der Anfälle, dem Manifestationsalter sowie zusätzlich vorhandenen begleitenden Erkrankungen des Nervensystems ab.
+Sie kann sie unter den unterschiedlichen Gesichtspunkten der langfristigen Anfallsfreiheit (Remission), der psychosozialen Beeinträchtigungen oder der Sterblichkeit betrachtet werden.
+
+=== Remission
+
+Fasst man die unterschiedlichen Studien zur Prognose zusammen, erreichen insgesamt etwa 50 bis 80 Prozent aller Epilepsie-Patienten eine anhaltende Anfallsfreiheit.
+Dabei haben Kinder mit einem Erkrankungsalter zwischen einem und zehn Jahren die größte statistische Wahrscheinlichkeit, anfallsfrei zu werden.
+Genetische (idiopathische) und Epilepsien unbekannter Ursache haben allgemein eine bessere Prognose als solche mit nachweisbarer Ursache.
+Entsprechend verschlechtert sich die Prognose bei Patienten mit begleitenden neurologischen Erkrankungen oder geistigen Behinderungen.
+Anhaltende EEG-Veränderungen gehen ebenfalls mit einer niedrigeren Remissionsrate einher.
+Ein gutes prognostisches Zeichen stellt das rasche Ansprechen auf die Therapie dar, wohingegen bisher nicht belegt werden konnte, dass sich die Langzeitprognose durch ein frühes Einsetzen der antiepileptischen Behandlung günstig beeinflussen lässt.
+
+=== Sogenannte epileptische Wesensänderung
+
+Das in manchen psychiatrischen Lehrbüchern lange Zeit tradierte Konzept einer spezifischen epileptischen Wesensänderung gilt heute als überholt.
+Es wurde in Deutschland seit den 1930er-Jahren in Form von Auffassungs-, Merk- und Urteilsstörungen, einer allgemeinen Verlangsamung, Haften im Denken, Umständlichkeit, Pedanterie, Selbstgerechtigkeit oder gutmütige Stumpfheit als vermeintlich typisch beschrieben, was rückblickend auch im Rahmen der nationalsozialistischen Rassenpolitik mit dem Ziel einer Ausrottung von Erbkrankheiten gesehen werden muss (siehe auch Aktion T4 und Euthanasie).
+
+=== Mortalität
+
+Grundsätzlich haben Menschen mit Epilepsien ein erhöhtes Risiko, vorzeitig zu versterben.
+Mögliche Ursachen dafür sind direkte Folgen eines sogenannten Status epilepticus, Unfälle während eines Anfalles - beispielsweise Sturz oder Ertrinken -, Selbsttötung, plötzlicher unerwarteter Tod bei Epilepsie (SUDEP, Sudden Unexpected Death in Epilepsy, siehe unten) oder die Grunderkrankung, durch die die Epilepsie verursacht wird.
+Das relative Sterblichkeitsrisiko ist etwa zwei- bis dreifach gegenüber der gesunden Vergleichsbevölkerung erhöht.
+Am geringsten erhöht ist es bei genetischen (früher: idiopathischen) Epilepsien und am stärksten bei symptomatischen Epilesiesyndromen aufgrund fassbarer Veränderungen am Gehirn, besonders bei Kindern mit von Geburt an bestehenden neurologischen Defiziten.
+
+Plötzlicher unerwarteter Tod bei Epilepsie (SUDEP - Sudden Unexpected Death in Epilepsy)
+
+Als SUDEP (von englisch sudden unexpected death in epilepsy) wird ein plötzlicher unerwarteter Tod bei Epilepsie bezeichnet.
+In einer Studie wurden folgende Risikofaktoren identifiziert:
+
+Die Forschung nach Todesursachen von Epileptikern und die Erfassung ihrer Mortalität ist in Deutschland noch wenig ausgeprägt, weshalb nur wenige Informationen hierzu in der Literatur zu finden sind.
+Von den Menschen mit Epilepsie liegt die Sterblichkeitsrate bei 600 von 100.000 Personen pro Jahr, bei Neubetroffenen bei 60 von 100.000 Personen pro Jahr.
+Das Risiko für einen SUDEP liegt bei etwa 50 von 100.000 bis 100 von 100.000 Personen pro Jahr; liegt eine schwere Epilepsie oder eine neurologische Beeinträchtigung vor, sind es sogar bis zu 500 von 100.000 Personen pro Jahr.
+In Großbritannien wird die Zahl der an oder infolge von Epilepsie gestorbenen Menschen mit 1000 pro Jahr angegeben.
+Es wird geschätzt, dass es sich bei den meisten dieser Todesfälle um SUDEP handelt.
+
+== Psychosoziales
+
+Obwohl viele Menschen mit Epilepsie durch medikamentöse Behandlung kaum noch Anfälle haben, können die Beeinträchtigungen groß sein.
+Es kann sich hierbei um objektiv vorhandene Beeinträchtigungen handeln wie Medikamentennebenwirkungen.
+Es kommen jedoch psychologische Faktoren hinzu.
+Einen Grand-mal-Anfall in der Öffentlichkeit oder am Arbeitsplatz gehabt zu haben, ist unangenehm.
+Epilepsie unterscheidet sich von anderen "Volkskrankheiten" wie Diabetes dadurch, dass ihr immer noch ein Stigma anhaftet, auch wenn sich die Einstellung in der Bevölkerung verbessert hat.
+Der Informationsstand ist jedoch, bedingt dadurch, dass Epilepsie in den Medien praktisch nicht präsent ist, immer noch unzureichend.
+Der Arbeitslosenanteil unter den Menschen mit Epilepsie ist überproportional hoch, selbst unter den Menschen mit Behinderungen allgemein.
+Dieser hohe Anteil ist nicht allein mit objektiv vorhandenen Leistungsverminderungen zu erklären.
+
+Das Spektrum der Erkrankung ist jedoch groß, es reicht von Formen mit guter Prognose und wenigen Anfällen bis zu Formen mit hoher Anfallsfrequenz und eintretenden Gehirnschädigungen.
+Auch wenn Menschen mit Epilepsie in etlichen Lebensbereichen heute noch auf Schwierigkeiten stoßen, führen sie meist ein relativ normales Leben.
+
+== Geschichte
+
+Epilepsie ist älter als die Menschheit (da jedes Gehirn genügender Komplexität gleichförmige Entladungen mit epileptiformen Folgen hervorbringen kann) und gehört zu den häufigsten chronischen Krankheiten überhaupt.
+Da das Erscheinungsbild bei epileptischen Anfällen spektakulär sein kann, sind Menschen mit Epilepsie im Lauf der Geschichte sowohl positiv wie negativ stigmatisiert worden.
+
+So galten von einer Epilepsie, wobei der antike Begriff - insbesondere die byzantinische ia - nicht in jedem Fall als identisch mit dem heutigen Krankheitsbild anzusehen ist, betroffene Menschen in manchen antiken Kulturen als Heilige, da ihnen der (scheinbare) Übergang in Trancezustände so leicht fiel.
+Bereits im antiken Ägypten und zur Zeit des babylonischen Königs Hammurabi war Epilepsie bekannt und gefürchtet.
+
+Bei Griechen der Antike galt Epilepsie als "heilige Krankheit", "als Besessensein von der göttlichen Macht" und wird daher auch heute zuweilen noch als Morbus sacer bezeichnet.
+Je nach Art des Anfalls wurden verschiedene Götter mit ihr in Verbindung gebracht (Kybele, Poseidon, Enodia, Apollon Nomios, Ares).
+Um 400 v. Chr. wandte sich jedoch der griechische Arzt Hippokrates bzw. der Verfasser von Über die heilige Krankheit gegen die Heiligkeit der Krankheit.
+Der Verfasser betonte, an anderer Stelle (im Prognostikon) die Eigenschaft des Göttlichen für alle Krankheiten in gleicher Weise postulierend, auch diese Krankheit habe eine natürliche Ursache und die Therapie habe dementsprechend auch mit natürlichen Mitteln zu erfolgen.
+Die rational fassbare Ursache war seiner Meinung nach:
+Kalter Schleim fließt in das warme Blut, daraufhin kühlt das Blut ab und kommt zum Stehen.
+Die Behandlung erfolgte nach dem Heilprinzip contraria contrariis , Entgegengesetztes mit Entgegengesetztem bekämpfen': Diätetik, Arzneimittel, Schröpfen, Purgieren, Aderlass, Brenneisen und Trepanation.
+Galen (ca. 129-200) beschrieb erstmals die Aura als Anzeichen für einen beginnenden Anfall.
+Alexandros von Tralleis (ca. 525-605), der bereits das Gehirn als Ursprungsort der Epilepsie annahm, erkannte, dass Alkohol das Auftreten von epileptischen Anfällen begünstigen kann, und empfahl Pflanzenbestandteile des Ysop und Eisenkraut.
+
+Im antiken Rom mussten angehende Soldaten bei ihrer Musterung durch ein rotierendes Wagenrad in eine Lichtquelle (zum Beispiel die Sonne) schauen.
+Erlitten sie einen Anfall, wurden sie ausgemustert.
+
+Das Markusevangelium schildert die spontane Heilung (9,17-29 EU) eines Falles von Epilepsie und konstituiert als einzig mögliche Therapie "Gebet und Fasten" (9,29 EU) (nach anderen Textzeugen nur Gebet).
+
+Aus dem 11. und 12. Jahrhundert stammen die Funde zweier Handschriften mit dem spätalthochdeutschen Zauber- oder Segenspruch (Contra caducum morbum, von morbus caducus "Fallsucht, fallende Sucht") gegen epileptische Anfälle.
+
+Im Mittelalter wurde ein Anfall häufig als "Angriff von oben", als göttliche Strafe oder "dämonische Besessenheit" interpretiert und konnte für den Betroffenen schwerwiegende Konsequenzen haben, beispielsweise einen Exorzismus (Contra caducum morbum).
+Im Fall der Anneliese Michel geschah dies in Deutschland noch 1976.
+Paracelsus (1493-1541) betonte allerdings, dass keine unnatürliche, mystische Ursache vorliege, und verwies darauf, dass auch Tiere ("vih") an Epilepsie erkranken können.
+Es sei zwar nicht immer möglich, die Ursache ("wurzen") zu heilen, doch könne man die Symptome mildern ("das die wurzen nimmer wachs").
+Paracelsus glaubte, die Epilepsie könne ihren Sitz auch in der Leber, im Herzen, in den Eingeweiden oder in den Gliedmaßen haben.
+Entsprechend seiner Konzeption der Übereinstimmung von Makro- und Mikrokosmos nahm er an, das "erdbidmen" (Erdbeben) sei ebenfalls epileptischer Natur.
+
+Im 17. und 18. Jahrhundert erhielt Epilepsie allmählich (wieder) ihren neuzeitlichen Stellenwert in der Reihe der übrigen Krankheiten, so unterschied zum Beispiel Simon-Auguste Tissot (1728-1797) zwischen idiopathischen (anlagebedingten) und sympathischen (aus einer Grunderkrankung, etwa einem Hirntumor folgenden) Epilepsien, grenzte die Epilepsie von psychogenen Anfällen ab, differenziert den Grand mal (Großen Anfall) vom Petit mal (dem Kleinen Anfall) und wendete Baldrian an; doch erst in der zweiten Hälfte des 19. Jahrhunderts gelang es, wissenschaftlich zu beweisen, dass Epilepsie einen natürlichen Ursprung hat.
+John Hughlings Jackson (1835-1911) veröffentlichte exakte Beschreibungen von Anfällen:
+
+Während der Diktatur des Nationalsozialismus in Deutschland galten Menschen, die von einer genetischen oder häufig auch nur vermeintlich genetischen Epilepsie betroffen waren, wie viele andere "Behinderte" als "lebensunwertes Leben".
+Nach dem Gesetz zur Verhütung erbkranken Nachwuchses (GezVeN) vom 14. Juli 1933 wurden Menschen mit "erblicher Fallsucht" zwangssterilisiert.
+Viele von ihnen fielen ab 1940 den Krankenmorden der sogenannten Aktion T4 zum Opfer.
+
+In früheren Jahrhunderten wurde Epilepsie als Fallsucht und fallende Sucht bezeichnet.
+Mit Krämpfen verbundene Erkrankungen von Kleinkindern wurden im 19. Jahrhundert regional, vor allem im südwestlichen Teil des Königreichs Sachsen, als "Unkraut" bezeichnet.
+Als wichtigste Heilige und Helfer gegen Fallsucht, Muskelkrämpfe und andere Nervenkrankheiten wurde unter den Gläubigen der heilige Valentin und der heilige Papst Cornelius angesehen.
+Cornelius' Anrufung bei Epilepsie war so populär, dass sie auch als "Kornelkrankheit" oder "Corneliuskrankheit" bekannt war.
+In den Niederlanden wurde sie Corneliuseuvel genannt.
+Im Rheinland, in Belgien und den Niederlanden sind insgesamt etwa 40 Orte bezeugt, an denen Cornelius wegen dieser Leiden angerufen wurde.
+Zu vielen dieser Orte erfolgten an bestimmten Tagen Wallfahrten, großenteils noch bis zur Mitte des 20. Jahrhunderts.
+
+== Museum
+
+In Kehl-Kork (Baden-Württemberg) gibt es seit 2001 das Deutsche Epilepsiemuseum, das weltweit einzige zum Thema Epilepsie.
+
+== Tag der Epilepsie, Purple Day und Internationaler Epilepsie-Tag
+
+Seit 1996 findet in den deutschsprachigen Ländern um den 5. Oktober herum der Tag der Epilepsie statt, ein gemeinsamer Aktionstag der Epilepsie-Fachgesellschaften und Laien-Organisationen.
+Dabei wird in vielen Städten und an Kliniken und Einrichtungen mit Informationstagen auf diese Krankheit aufmerksam gemacht.
+Seit 2008 findet ausgehend von den USA jährlich am 26. März der Purple Day statt, ein internationaler Tag zur Aufklärung über Epilepsie.
+Seit einigen Jahren gibt es aufgrund einer gemeinsamen Initiative des Internationalen Büros für Epilepsie (International Bureau for Epilepsy; IBE) und der Internationalen Liga gegen Epilepsie (International League Against Epilepsy; ILAE) zusätzlich am zweiten Montag des Februars den Internationalen Epilepsie-Tag (International Epilepsy Day).
+
+== Recht, Schwerbehinderung und Kraftfahreignung
+
+Hat ein Mensch öfter epileptische Anfälle und kann auch durch Behandlung nicht über mindestens ein Jahr anfallsfrei bleiben, darf er in Deutschland kein Auto fahren und keine Tätigkeit verrichten, die ihn selbst oder andere gefährdet.
+Epilepsiekranke haben daher auch größere Probleme mit der Berufswahl und sollten neben einem Spezialisten für Neurologie bei Bedarf auch einen Facharzt für Arbeitsmedizin konsultieren.
+
+Viele Berufsunfähigkeitsversicherungen und auch Unfallversicherungen verweigern die Aufnahme von Epilepsiekranken, wenn diese nicht mindestens zwei Jahre anfallsfrei sind.
+
+=== Kraftfahreignung
+
+In Deutschland gelten bei der Kraftfahreignung für Menschen mit Epilepsie folgende Regeln:
+
+Wer wiederholt unter epileptischen Anfällen leidet, ist nicht in der Lage, ein Kraftfahrzeug zu führen, da er sich und andere Verkehrsteilnehmer gefährdet.
+Zur weiteren Differenzierung werden die Wagenführer in zwei Gruppen geteilt:
+
+Bestimmungen für Gruppe 1:
+
+Die Fahrerlaubnis wird erteilt:
+
+Bestimmungen für Gruppe 2:
+
+Nach zwei unprovozierten epileptischen Anfällen bleibt der Betroffene in der Regel von dieser Gruppe ausgeschlossen, einzige Ausnahme ist eine vom Arzt bestätigte fünfjährige Anfallsfreiheit ohne Behandlung mit Antikonvulsiva.
+
+=== Schwerbehinderung
+
+Menschen mit Epilepsie haben in Deutschland die Möglichkeit, auf Antrag einen Schwerbehindertenausweis zur Gewährung steuerlicher und beruflicher Nachteilsausgleiche zu erhalten.
+Nach den "Anhaltspunkten für die gutachterliche Tätigkeit" gelten dabei folgende Grade der Behinderung (GdB):
+
+=== Merkzeichen
+
+Je nach Art und Häufigkeit der Anfälle können zusätzlich die folgenden Ausweismerkmale zuerkannt werden:
+
+== Fachgesellschaften und Betroffenen-Organisationen
+
+Die für Epilepsie zuständige Fachgesellschaft ist auf internationaler Ebene die Internationale Liga gegen Epilepsie (engl.: International League Against Epilepsy; ILAE), deren deutschsprachige Sektionen sind die
+
+Die Betroffenen- oder Laienorganisation auf internationaler Ebene ist das Internationale Büro für Epilepsie (engl.: International Bureau for Epilepsy; IBE), nationale bzw. regionale Organisationen im deutschsprachigen Raum sind u. a.
+
+Deutschland
+
+Österreich
+
+Schweiz
+
+== Siehe auch
+
+== Literatur
+
+Allgemeines
+
+Leitlinien
+
+Lehrbücher und Ratgeber
+
+Kinder- und Jugendbücher zum Thema Epilepsie
+
+Geschichte
+
+Erfahrungsberichte
+
+Übersichtsarbeiten
+
+== Weblinks
+
+== Einzelnachweise
+

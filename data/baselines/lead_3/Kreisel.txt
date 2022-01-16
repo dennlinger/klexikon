@@ -1,0 +1,3 @@
+Ein Kreisel ist ein (starrer) Körper, der um eine Achse rotiert.
+Er kann sich ansonsten frei bewegen (freier Kreisel), kann aber auch mit einer Achse in eine bestimmte Richtung gezwungen sein (gefesselter Kreisel).
+Kreisel müssen in der Physik nicht notwendigerweise rotationssymmetrisch sein.

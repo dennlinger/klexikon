@@ -1,0 +1,39 @@
+Das Wort Motor kommt aus dem Lateinischen und heißt so viel wie "Beweger".
+Motoren bewegen zum Beispiel Maschinen, Schiffe oder Autos.
+Dazu wandeln sie Energie in Bewegung um.
+Je nachdem woraus sie die Energie gewinnen, unterscheidet man Elektromotoren und Verbrennungsmotoren.
+
+Elektromotoren wandeln elektrischen Strom in Bewegung um.
+Sie sind ähnlich aufgebaut wie Dynamos und bestehen aus einem oder mehreren Magneten, die sich in einer Drahtspule drehen.
+Wenn Strom durch die Spule fließt, entsteht eine Kraft, die auf die Magneten wirkt und sie in Bewegung versetzt.
+Elektromotoren können sehr klein sein und finden sich zum Beispiel in CD-Spielern, Spielzeugautos oder Küchengeräten.
+Große Elektromotoren treiben Straßenbahnen oder Eisenbahn-Lokomotiven an.
+
+Autos und Schiffe fahren hingegen mit Benzin oder Diesel.
+Beides sind Flüssigkeiten, die man aus Erdöl herstellt.
+Im Motor werden sie mit Luft zu einem Gas vermischt und zur Explosion gebracht, also verbrannt.
+Deshalb nennt man das einen Verbrennungsmotor.
+Beim Verbrennen entstehen heiße Abgase, die sich sehr schnell ausdehnen.
+Dabei drücken sie auf einen Kolben, der sich in einem Zylinder auf und ab bewegt.
+Eine Kurbelwelle wandelt diese Bewegung in eine Drehbewegung um.
+Ein Getriebe überträgt sie dann auf die Räder des Autos oder die Schraube des Schiffes.
+
+Bei einer anderen Bauart wird das entstehende Gas durch ein Rohr geleitet, in dem es eine Art Propeller bewegt.
+Solche Motoren nennt man Turbinen.
+Mit ihnen kann man zum Beispiel in Kraftwerken Generatoren antreiben und wieder Strom herstellen.
+
+Auch die Triebwerke von Flugzeugen und Raketen sind Verbrennungsmotoren.
+In ihnen wird flüssiger oder auch fester Treibstoff verbrannt.
+Das entstehende Gas bewegt dort aber keinen Kolben oder Propeller, sondern schießt einfach mit großem Druck an einer Seite heraus und drückt dabei das Flugzeug vorwärts oder die Rakete nach oben.
+
+Eine Dampfmaschine ist kein Verbrennungsmotor.
+In ihr wird zwar auch etwas verbrannt, nämlich Kohle.
+Allerdings wird nicht das entstehende Gas genutzt, um Bewegung zu erzeugen.
+Stattdessen wird mit der Wärme erst Wasser zu Dampf erhitzt, der dann die Maschine antreibt.
+
+Die Dampfmaschinen und die ersten Verbrennungsmotoren arbeiteten rein mechanisch.
+Es brauchte also keine Elektronik für eine Steuerung oder für andere Vorgänge.
+Heute ist das nicht mehr so.
+Die Elektronik wurde immer wichtiger:
+Sie berechnet, wann die Explosion erfolgen soll, wie viel Benzin oder Diesel der Luft beigemischt werden soll und viele andere Dinge.
+

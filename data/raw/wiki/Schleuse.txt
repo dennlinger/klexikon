@@ -1,0 +1,484 @@
+Eine Schleuse - genauer eine Schiffsschleuse oder Schifffahrtsschleuse - ist ein Ingenieurbauwerk des Verkehrswasserbaus, das Wasserstraßen mit unterschiedlichem Wasserstand miteinander verbindet.
+An Flüssen dienen sie der Überwindung von Staustufen und bei der Trassierung im Kanalbau der Bewältigung der Höhenunterschiede im Gelände.
+Zentrales Bauelement ist die Schleusenkammer, in der die Schiffe in senkrechter Richtung schwimmend angehoben bzw. abgesenkt werden.
+Dazu wird Wasser in die Kammer gefüllt bzw. aus der Kammer abgelassen, um das jeweils andere Wasserstandsniveau zu erreichen.
+Diese als Kammerschleuse bezeichneten Bauwerke ermöglichen den Wasserfahrzeugen eine durchgängige Befahrbarkeit der Wasserstraßen.
+
+== Allgemeines
+
+Das Wort Schleuse leitet sich vom mittellateinischen sclusa ("Wehr") ab, das seinen Ursprung im lateinischen excludere ("ausschließen") hat.
+Der Begriff steht für den Verschluss einer Öffnung innerhalb eines Querbauwerks, das ein Gewässer anstaut.
+Aus diesem Grund wurden die ersten Schleusen als Stauschleuse bezeichnet.
+Im weiteren Sinn begrenzt eine Schleuse das "Strömende" in seinem Abfluss nach Zeit und Menge.(S. 1) Im Französischen wurde daraus ecluse und in Spanien ist esclusa gebräuchlich.
+Das Niederländische nennt diese technischen Einrichtungen sluizen als Plural von sluis und in der Englischen Sprache werden die Schleusen als Verschluss (englisch lock) bezeichnet.
+
+Neben den Schiffshebewerken, Geneigten Ebenen und Bootsgassen (für kleinere Sportboote) gehören Schleusen zu den Abstiegsbauwerken im Verkehrswasserbau.
+Im Allgemeinen werden Schleusen für Fallhöhen bis etwa 25 Meter eingesetzt und bei größeren Hubhöhen werden meist Schiffshebewerke gebaut.
+Erste Ausnahme in Deutschland wird die neue Schleuse Lüneburg sein, die 38 Meter Hubhöhe aufweisen wird.
+
+Allgemein lassen sich die Schleusen in Seeschleusen und Binnenschleusen unterteilen.
+Aufgrund der Größe von Seeschiffen sind die Seeschleusen deutlich größer als die Binnenschleusen, die sich zu Flussschleusen und Kanalschleusen aufteilen.
+Hafenschleusen sind häufig Bestandteil eines Hafens oder liegen an seiner Zufahrt, unabhängig ob See- oder Binnenhafen.
+Bisweilen werden Hafenschleusen nur deshalb so bezeichnet, weil sie in der Nähe eines Hafens liegen.
+
+Die unterschiedlichen Ausführungen bzw. Typen von Kammerschleusen sind Weiterentwicklungen und Anpassungen, um den unterschiedlichen betrieblichen, topografischen und wasserwirtschaftlichen Anforderungen Rechnung zu tragen.
+Die Sonderformen sind beispielsweise solche für große Hubhöhen, verkehrsreiche Wasserstraßen oder wasserarme Gebiete.
+
+Neben ihrer Funktion für die Schifffahrt als Verbindungselement von Wasserstraßen werden Schleusen auch im Rahmen des Wasserhaushalts als Sperrschleusen zur Regulierung von Wasserständen und des Durchflusses eingesetzt.
+
+Details siehe Abschnitt:
+Sperrschleusen
+
+== Begriffe
+
+Schleusen werden an Staustufen, Kanalstufen, Wasserstraßenkreuzen, Sperrwerksanlagen oder Hafenanlagen angelegt.
+Wenn zwei oder mehrere Schleusen konstruktiv unabhängig voneinander errichtet sind werden sie als Schleusengruppe bezeichnet.
+Ansonsten sind für mehrere Schleusen die Begriffe Schleusenanlage oder Schleusenkomplex gebräuchlich.
+
+Der Vorgang der Durchfahrt durch eine Schleuse ist eine Schleusung.
+Je nach Richtung wird nach Bergschleusung (aufschleusen) und Talschleusung (abschleusen) unterschieden.
+Der Bereich vor der Schleuse mit dem höheren Wasserstand wird als Oberwasser (auch Oberstrom) und der andere als Unterwasser (auch Unterstrom) bezeichnet.
+In diesen beiden Bereichen liegen die Vorhäfen, wo die Schiffe anlegen können, um auf die Schleusung zu warten.
+
+Aus den Vorhäfen gelangen die Schiffe in die Schleusenkammer.
+Sie wird an beiden Kopfseiten begrenzt durch Oberhaupt bzw. Unterhaupt, in denen die Schleusentore untergebracht sind.
+Der Drempel an den Schleusenhäuptern bestimmt den maximal möglichen Tiefgang der Schiffe für die Schleusenfahrt.
+Die Lage der Drempel kann durch gelbe Striche an der Kammerwand markiert sein, wodurch die Nutzlänge der Kammer festgelegt wird.
+Während einer Schleusung bleiben die Verschlussorgane geschlossen, damit der Kammerwasserstand unabhängig von den äußeren Wasserständen verändert werden kann.
+
+Die Füllung der Schleusenkammer erfolgt in der Regel durch Entnahme von Wasser aus dem Oberwasser und die Entleerung durch Ablassen in das Unterwasser.
+Im einfachsten Fall erfolgt dies über verschließbare Öffnungen im Tor oder durch leichtes, vorsichtiges Öffnen.
+Auf jeden Fall sollte das Füllen und Entleeren stets behutsam erfolgen, um keine starken Schiffsbewegungen innerhalb und außerhalb der Kammer zu erzeugen.
+In den meisten Fällen werden zu diesem Zweck beidseits der Schleusenhäupter absperrbare Umlaufkanäle angeordnet, deren Konstruktion relativ aufwändig ist.
+Sehr hilfreich ist ein ausreichend dimensionierter Grundlauf unter der Kammersohle, von dem aus die Füllung und Entleerung sehr gleichmäßig vonstatten geht.
+
+Die Schleusentore müssen die Schleusenkammer gegenüber den angrenzenden Kanalhaltungen möglichst dicht abschließen.
+Zur Sicherheit müssen sie jeweils ca. ein Meter über den Wasserspiegel im Oberwasser bzw. Unterwasser reichen.
+Je nach Anwendungsfall kommen verschiedenartige Schleusentore zum Einsatz.
+Die wichtigsten sind: Stemmtor, Hubtor, Klapptor, Segmenttor und Schiebetor.(S. 54) Ein voll funktionsfähiges Schleusentor ist Voraussetzung für einen geregelten Schleusenbetrieb.
+Daher müssen die Tore gegen Beschädigungen besonders geschützt werden.
+Größte Gefahr droht beim Einfahren eines Schiffes, wenn dieses vor dem Tor nicht mehr angehalten werden kann.
+Spezielle Stoss-Schutzausrüstungen mit Dämpfungselementen können dies verhindern oder wenigstens abmildern.
+Für Stemmtore sind in den Seiten der Schleusenhäupter Tornischen vorhanden, in die das Tor bei der Öffnung einschwenkt, damit die Schiffe vollkommen freie Durchfahrt erhalten.
+Gleiches gilt für Klapptore und Segmenttore, die im Boden in einer vorgesehene Vertiefung abgelegt werden.
+
+== Der Schleusungsvorgang
+
+Wenn ein Schiff an einer Schleuse eintrifft muss es warten bis das Schleusentor geöffnet werden kann.
+Unter Umständen kann dies dauern, wenn beispielsweise der Kammerwasserspiegel erst auf Unterwasser fallen bzw. Oberwasser steigen muss.
+Im Regelfall bedeutet dies auf den Abschluss der nächsten Schleusung zu warten.
+
+Wenn, wie in nebenstehender Grafik gezeigt, ein Schiff von Unterstrom kommend auf eine Schleuse trifft (1), kann es bei geöffnetem Untertor in die Kammer einfahren (2).
+Dies wird mit entsprechenden Lichtsignalen in "rot" oder "grün" dem Schiffsführer angezeigt.
+Dabei bleibt das Obertor geschlossen, damit kein Wasser von oberstrom eintritt und der Wasserstand in der angrenzenden Haltung gehalten werden kann.
+Liegt das Schiff in der Kammer wird das Untertor geschlossen (3) und der Schleusungsvorgang wird gestartet.
+Dazu läuft Wasser aus der oberen Haltung in die Kammer (4) und das Schiff hebt sich.
+Der Zustrom von Wasser erfolgt so lange bis der Wasserstand in der Kammer das Niveau des Oberwassers erreicht hat (5).
+Dann wird das Obertor geöffnet (6) und das Schiff kann seine Fahrt fortsetzen (7).
+
+Damit ist die Schleusenkammer frei für die nächste Abschleusung.
+Durch das geöffnete Obertor darf das nächste Schiff aus dem oberen Vorhafen in die Kammer einfahren (8).
+Nach Festmachen des Schiffs in der Kammer (9) wird das Obertor geschlossen (10) und die Abschleusung beginnt mit der Öffnung der Auslässe am Untertor (11).
+Dadurch sinkt das Schiff allmählich bis auf den Wasserstand der unteren Haltung (12).
+Nach Öffnung des Untertors (13) verlässt das Schiff die Schleuse (14).
+
+Das in das Unterwasser abgegebene Wasservolumen wird als Schleusenverlust bezeichnet, da es dem Oberwasser anschließend fehlt.
+Bei Kanälen ohne weitere externe Speisung von Wasser muss das Verlustwasser ersetzt werden.
+Dafür werden häufig Rückpumpwerke eingesetzt, die das Wasser aus der unteren Haltung in die obere zurückführen.
+
+Die Manöver zum Ein- und Ausfahren mit Abbremsen und Anlegen in der Schleusenkammer können bis zu 70 Prozent der Gesamtzeit, die für eine Schleusung benötigt wird, beanspruchen.
+Die zwei Vorgänge von Berg- und Talschleusung im direkten Wechsel werden als Kreuzungsschleusung bezeichnet.
+Der Zeitbedarf dafür ist von der Hubhöhe abhängig und ein Maß für die Leistungsfähigkeit einer Schleusenanlage.
+
+Überwiegt eine Art der Schleusung, so spricht man von Richtungsschleusung.(S. 332)
+
+Neben der eigentlichen Schleuse gehören auch die Vorhäfen zum Schleusenbereich, in dem bestimmte Verhaltensregeln gelten, um gegenseitige Behinderungen oder Kollisionen zu vermeiden.
+Bei Annäherung an den Schleusenbereich müssen die Fahrzeugführer die Geschwindigkeit herabsetzen.
+Das Überholen ist verboten und für eine Vorbeifahrt an liegenden Schiffen gilt ein seitlicher Abstand von zehn Meter.
+Als Manövrierhilfe dienen Leitwerke, Dalben und Poller.
+
+Die Einfahrt in die Schleusenkammer muss ausreichend langsam und vorsichtig erfolgen, damit jederzeit ein sicheres Abstoppen auch ohne Maschinenkraft möglich ist und ein Anprall an ein Schleusentor oder an ein anderes Fahrzeuge auszuschließen ist.
+In der Kammer ist durch Belegen der Poller bzw. Haltekreuze mit Drahtseilen oder Tauen das Schiff zu stoppen und während der Schleusung zu sichern.
+Zum Schutz der Kammerwände oder anderer Schiffe sind außenbords Fender zu verwenden.
+Schwimmpoller dürfen zum Abstoppen nicht benutzt werden und Anker müssen angehoben sein.
+
+== Elemente einer Schleusenanlage
+
+== Schleusen nach Lage und Wasserstraße
+
+=== Flussschleuse
+
+Flussschleusen werden im Rahmen der Schiffbarmachung eines Flusses errichtet, die durch das Anlegen von künstlichen Staustufen gekennzeichnet ist.
+Der Grund liegt entweder in einem für den Schiffsverkehr zu starken Gefälle (Stromschnelle) oder der Herstellung eines schiffbaren Wasserstands, der wie bei der Elbe im Sommer sehr niedrig werden kann.
+Ein Damm sperrt und staut dazu an einer geeigneten Stelle im Flussverlauf das Wasser, das dadurch langsamer fließt und einen höheren Wasserspiegel einnimmt.
+Zur Regelung und für einen möglichst gleichbleibenden Wasserstand im Oberlauf sorgt ein Wehrbauwerk mit beweglichen Verschlüssen.
+Besonders für den Hochwasserfall muss das Wehr ausreichend breit dimensioniert sein, um keine schädlichen Auswirkungen auf die Uferbereiche zu erzeugen.
+Meist wird die Fallhöhe an der künstlich erzeugten Fallstufe zur Erzeugung von elektrischer Energie durch ein Wasserkraftwerk genutzt.
+Um die Durchgängigkeit für die Schifffahrt herzustellen ist eine Schleuse erforderlich.
+
+Bei Flussstaustufen wird der Oberwasserspiegel im Allgemeinen als Stauziel innerhalb geringer Schwankungsbreiten konstant gehalten, während der Unterwasserspiegel entsprechend der jeweiligen Abflussmenge im Fluss größeren Schwankungen unterworfen ist.
+Daher ist bei einer Flussschleuse die Hubhöhe nicht konstant und erreicht ihr Maximum beim niedrigsten Schifffahrtswasserstand im Unterwasser.
+
+Bei einigen Flussstaustufen nutzt man die Schleusen auch zur Hochwasserabfuhr.
+Dies ist erforderlich, wenn in Stadtgebieten oder engen Flusstälern der Breitenausdehnung der Wehranlage Grenzen gesetzt sind.
+Grundsätzlich eignet sich jede in einer Flussstaustufe oder in einem Durchstich angeordnete Flussschleuse auch zur Ableitung von Hochwasser.
+Dabei muss die Schleuse nicht notwendigerweise in Höhe der Wehrachse angeordnet sein und kann auch wie an der Staustufe Geesthacht der Elbe in einem Durchstich liegen.
+Es sind jedoch einige bauliche und betriebliche Voraussetzungen zu prüfen bzw. zu schaffen, um das Wasser durch die Schleusenkammer hindurchführen zu können.
+Wichtig ist die Sicherung der Untergrundverhältnisse der gesamten Schleusenanlage, damit keine Unterspülung mit Erosion auftreten kann.
+Vorteilhaft ist die Tieferlegung des oberen Vorhafens und entsprechenden Ausgestaltung des Oberhaupts.(S. 357)
+
+Ein großes Problem der Querbauwerke in einem Fluss ist die fehlende Durchgängigkeit, denn für Fische ist das Sperrbauwerk ein unüberwindbares Hindernis und verhindert die Fischwanderung zu den Laichgebieten.
+Die Schleuse eignet sich nur bedingt als Durchgang für Fische, da die starken Schiffsgeräusche und Wirbel der Schiffspropeller die Fische davon abhalten hindurch zu schwimmen.
+Daneben stehen die Querbauwerke dem natürlichen Geschiebetransport im Gewässerbett im Weg und es werden Veränderungen der Hydromorphologie erzeugt.
+Ablagerungen und Versandungen in den Staustufen können die Folgen sein.
+Die darin lebenden Kleinlebewesen werden ebenfalls in ihrer natürlichen Wanderbewegung behindert.
+Durch die Wasserrahmenrichtlinie der Europäische Union werden die Mitgliedstaaten aufgefordert die Durchgängigkeit wieder herzustellen.
+
+=== Kanalschleuse
+
+Gemäß der Topografie können Kanäle nicht durchgehend auf einem Niveau trassiert werden und besitzen daher einzelne Haltungen in verschiedenen Höhenlagen.
+Zur Überwindung der Geländeübergänge an den Fallstufen müssen Schleusen die Verbindung der Haltungen herstellen.
+
+Die erste Kanalschleuse am Übergang zu einem Fluss kann auch als Flussschleuse bezeichnet werden.
+In ihrer Funktion ist sie eine Sperrschleuse und notwendig, um das Abflussgeschehen eines Flusses mit unterschiedlichen Wasserständen wie beispielsweise Hochwasser von der ersten Kanalhaltung fern zu halten.
+
+Gegenüber von Flussschleusen muss bei Kanalschleusen der Wasserverlust durch den Schleusungsvorgang im Blick behalten werden.
+Besonders in Scheitelhaltungen ist für Ersatz zu sorgen, damit stets ein ausreichender Wasserstand für den Tiefgang der Schiffe zur Verfügung steht.
+Zur Reduzierung des Verlustwassers werden Sparschleusen gebaut.
+
+=== Seeschleuse
+
+Seeschleusen haben die Aufgabe das Tidegeschehen des offenen Meeres von einem Hafen, Küstenkanal oder Flussabschnitt zu entkoppeln.
+Durch die Gezeiten (Tide) wechseln ihre beiden Seiten zwischen Unter- und Oberwasser hin und her und deshalb werden die Schleusenhäupter bei Seeschleusen als Außenhaupt (Seeseite) und Binnenhaupt bezeichnet.
+Auch die beiden Tore werden den Tidezuständen entsprechend benannt.
+Das seeseitige, das die Flut zurückhalten soll, wird als Fluttor bezeichnet und das innere als Ebbtor, da es bei Ebbe den Wasserstand landseitig höher halten kann.(S. 32)
+
+Für den Fall, dass an einer Seeschleuse beidseitig höhere und niedrigere Wasserstände auftreten können - dies gilt auch für Kanalschleusen am Fluss mit Hochwassergefahr - müssen bei der Verwendung von Stemmtoren beidseitig der Schleusenkammer die Tore doppelt ausgeführt werden.
+Die beiden Tore zeigen jeweils in unterschiedliche Richtungen, damit bei Bedarf jede Richtung gesperrt werden kann.
+Dies entfällt bei Schiebetoren, da diese immer in beide Richtungen sperren können.
+
+Gegenüber Flussschleusen besitzen Seeschleusen meist nur eine geringe Hubhöhe.
+Bei Flut kann das Seewasser Probleme durch die Salzwasserintrusion bereiten, da der Salzgehalt Fauna und Flora Schaden zufügen kann.
+Die großen Abmessungen der neuen Schleusen von 500 Meter Länge und bis zu 70 Meter Breite wie z. B. die neue Seeschleuse IJmuiden am Nordseekanal können eine enorme Salzfracht mit sich bringen.
+Bei 20 Zentimeter Fallhöhe würden durch diese Schleuse rund 10.000 m^3 Meerwasser in den Kanal eindringen, die einem Salzeintrag von etwa 40 LKW-Ladungen Salz entsprechen.
+
+=== Hafenschleuse
+
+Der Begriff einer Hafenschleuse wird an der Küste und im Binnenland benutzt.
+Die meisten Seeschleusen sind im Grunde Hafenschleusen, da sie die Zufahrt zum Hafen darstellen.
+An einem Fluss mit seinen wechselnden Wasserständen (Hochwasser) hält eine Hafenschleuse den Wasserstand im Hafen konstant.
+Bisweilen bildet sie auch gleichzeitig den Übergang in die erste Haltung eines weiter führenden Kanals.
+
+Abzweige von einem Kanal führen zu einem wichtigen Ort des Güterverkehrs mit einem Hafen.
+Eine Schleuse an diesem Stichkanal wird ebenfalls als Hafenschleuse bezeichnet.
+
+== Varianten der Kammerschleusen
+
+Die Kammerschleuse ist heutzutage der ausschließlich gebaute Schleusentyp, wenn kein Hebewerk gewählt wird.
+Der Wasserbau-Ingenieur und Professor an der TH Hannover Otto Franzius schrieb 1927 dazu in seinem Wasserbau-Handbuch "Der Verkehrswasserbau":(S. 392)
+
+Im Grundriss sind die Schleusenkammern meist rechteckig von ausreichender Länge und Breite für das der Bemessung zu Grunde liegende Schiff.
+Ausreichend bedeutet, dass rings um das Schiff genügend Raum zum sicheren Befahren der Schleuse bleibt.
+Damit mehr Schiffe in der Kammer Platz finden konnten baute man früher Bassinschleusen, deren Kammern breiter als die Torbreite waren und deren Seitenwände nicht streng parallel, sondern gebuchtet waren.
+
+=== Schachtschleuse
+
+Eine Schachtschleuse ist eine Kammerschleuse mit großer Fallhöhe.
+Aus Wirtschaftlichkeitsgründen sollte die Hubhöhe deutlich über 10 Meter liegen.
+Dann kann im Unterhaupt oberhalb einer Durchfahrtsöffnung eine Quermauer (Maske) eingezogen werden.
+Neben der aussteifenden Wirkung für die hohen seitlichen Kammerwände können dadurch die Abmessungen des Untertors in der Höhe kleiner gewählt werden.
+
+Schachtschleusen konnten vielfach mehrere Kammerschleusen mit geringem Gefälle und kurzen Haltungen dazwischen oder eine Koppelschleuse ersetzen.
+Ihr Vorteil besteht in der Gewinnung möglichst langer Haltungen und die dadurch bedingte Verringerung der Aufenthalte bzw. Zeitverluste an den Schleusen.
+Jedoch ergibt sich durch die vergrößerte Hubhöhe eine längere Schleusungsdauer.
+Der mit dem Kammervolumen gesteigerte Wasserverbrauch einer Schachtschleuse lässt sich durch Anlegen von Sparbecken kompensieren.
+
+=== Sparschleuse
+
+Sparschleusen werden in der Regel an den Schifffahrtskanälen notwendig.
+Ohne Gegenmaßnahmen würden sich ansonsten die Kanalhaltungen durch das Schleusen allmählich talwärts entleeren.
+Um das Verlustwasser bei einer Schleusung zu minimieren werden Sparschleusen gebaut.
+Ihr Kennzeichen sind die meist nebenliegenden Sparbecken, die beim Abschleusen einen Teil des Schleusungswassers aufnehmen.
+Beim nächsten Aufschleusen steht dieses Wasser zur Füllung der Kammer wieder zur Verfügung.
+Bei Doppelschleusen werden die Sparbecken auch in den Schleusenwänden integriert, sodass ein kompackter Baukörper entsteht.
+Der unvermeidliche Schleusenverlust muss durch ein Rückpumpwerk ausgeglichen werden.
+
+=== Doppelschleuse
+
+Bei stärkerem Schiffsaufkommen an einer Fallstufe werden oft zwei Schleusen gleicher Größe nebeneinander angeordnet, die bei Errichtung als Gesamtbauwerk konstruktiv miteinander verbunden werden.
+Wenn die Schleusungen völlig unabhängig voneinander mit jeweils eigenem Füll- und Entleerungssystemen erfolgen können, wird die Anlage als Doppelschleuse bezeichnet.
+Bisweilen wird dafür auch der Begriff Parallelschleuse verwendet.
+Als Sparschleusen ausgeführt müssen auch die Sparbecken jeweils doppelt vorhanden sein.
+
+=== Zwillingsschleuse
+
+Eine Zwillingsschleuse sieht von außen betrachtet wie eine Doppelschleuse aus, jedoch stehen die beiden Schleusenkammern über ein Verschlussorgan miteinander in Verbindung.
+Erfolgt in einer Kammer eine Aufschleusung und gleichzeitig eine Abschleusung in der anderen Kammer kann die zweite Kammer als Sparbecken für die erste Kammer dienen.
+Dadurch kann der Schleusenverlust um bis zu etwa 45 Prozent reduziert werden.
+
+=== Koppelschleuse
+
+Bei einer Koppel- oder Kuppelschleuse liegen mindestens zwei Schleusenkammern direkt und ohne Zwischenraum hintereinander.
+An der Verbindungsstelle besitzen sie ein gemeinsames Schleusentor.
+Das Untertor der höher gelegenen Kammer ist dann gleichzeitig das Obertor der darunter liegenden Kammer.
+Dadurch wird der Höhenunterschied an einer Fallstufe in zwei Etappen überwunden.
+Sie wurden errichtet, weil man in der Vergangenheit noch nicht in der Lage war größere Höhenunterschiede mit einer einzigen Schleuse, wie heute durch eine Schachtschleuse, zu überwinden.
+Dabei wurden der Einfachheit halber die Schleusen gleich groß und mit gleicher Hubhöhe errichtet.
+Unter dem Aspekt des Wasserverbrauchs würde dieser bei einer Koppelschleuse geringer ausfallen als bei einer einzelnen Kammerschleuse ohne Spareinrichtung.
+Gegen den Einsatz von Koppelschleusen spricht jedoch der Zeitbedarf, da bei einer Kreuzungsschleusung das andere Schiff länger warten muss.
+Daher ist es vorteilhafter, wenn sich zwischen den beiden Schleusenkammer eine weitere Haltung befindet, wodurch sich aber der Platzbedarf vergrößert.
+
+=== Schleusentreppe
+
+Eine Schleusentreppe ist die "Steigerungsform" einer Koppelschleuse, bei der mehrere Schleusen unmittelbar aufeinander folgen.
+Ab einer Anzahl von vier wird von einer Schleusentreppe gesprochen.
+Bei geringerer Anzahl werden sie als Zwei- oder Dreifachschleusen bezeichnet, da der Begriff Doppelschleuse schon vergeben ist.
+Die Schleusen können gemeinsame Tore aufweisen aber auch aus einer Folge von Einzelschleusen mit kurzen Zwischenhaltungen bestehen.
+Aus wirtschaftlicher Sicht ist es aber sinnvoll, mit möglichst wenigen Fallstufen auszukommen.
+
+Bei der stillgelegten Schleusentreppe Niederfinow mit vier Stufen und 260 Meter langen Zwischenhaltungen wird der Begriff Verbundschleuse verwendet, wenn ansonsten im Fall mit Zwischenhaltungen von einer Schleusengruppe die Rede ist.
+In der Englischen Sprache wird dieser Fall als lock flight bezeichnet im Gegensatz zur staircase lock.
+
+=== Schleppzugschleuse
+
+Die früher üblichen Schleppzüge mit einem Schlepper und unmotorisierten Schleppkähnen sollten möglichst vollständig in einer Schleuse untergebracht werden können.
+Dazu baute man Schleppzugschleusen mit größeren Kammerabmessunge, um den Schleppzug möglichst komplett in der Kammer unterzubringen.
+Für heutige Zwecke sind diese immer noch brauchbar für die Schubschifffahrt und werden als Großschifffahrtsschleusen bezeichnet.
+
+=== Rundkammerschleuse
+
+Zur gleichzeitigen Schleusung von mehreren Schiffen bietet sich auch eine kreisrunde Form der Schleusenkammer an, die als Rundkammerschleuse oder Kesselschleuse bezeichnet wird.
+Beispielsweise fanden in der historischen Palmschleuse in Lauenburg/ Elbe bis zu 12 der kleinen Schiffe Platz.
+Eine Kesselschleuse kommt auch zur Verbindung von mehr als zwei Schifffahrtskanälen zur Anwendung und weist dann mehr als zwei Schleusentore auf.
+Die runde Kammer erleichtert dabei das Drehen des Schiffs, um von einem in den anderen Kanal zu wechseln.
+
+== Sperrschleusen
+
+Nach Franzius ist das Kennzeichen einer Schleuse, dass sie zu jeder Zeit den Durchfluss von Wasser an einer Fallstufe verhindert und vornehmlich der Schifffahrt dient.
+Sperrschleusen werden im Wesentlichen zur Regulierung des Wasserstroms und zum Halten von Wasserständen eingesetzt.
+Sie stehen nur zeitweise offen, um einen freien Durchfluss zu ermöglichen und ggf. Schiffen einen Durchlass zu gewähren.
+Nach seiner Definition ordnet Franzius die Sperrschleusen den beweglichen Wehren zu.(S. 392)
+
+Hauptsächlicher Einsatzzweck einer Sperrschleuse ist der Hochwasserschutz, weshalb Sperrschleusen auch als Schutzschleusen bezeichnet werden.
+Als einfache Schleuse bestehen sie nur aus einem Haupt, um diese Funktion auszuführen.
+Als Deichschleusen oder Hafenschleusen sind sie auch heute an der Küste zu finden.
+Seeschleusen sind von ihrer Funktionalität her gleichzeitig Sperrschleusen, denn sie schützen das dahinter liegende Land bzw. den Hafen vor dem Tidehochwasser.
+Dazu müssen diese Schleusen in die Deichlinie für den Hochwasserschutz integriert sein.
+Voraussetzung für den funktionierenden Hochwasserschutz auch bei Sturmfluten sind Fluttore mit ausreichender Höhe.
+Bei gleichem Wasserstand außen und innen kann die Schleusenfunktion zeitweise ausgesetzt werden und die Tore bleiben für die Schifffahrt geöffnet.
+
+Auch im Binnenland sind Schutzschleusen an den Flüssen zu finden, die bei Flusshochwasser einen Hafen oder eine erste Kanalhaltung vor einem zu hohen Wasserstand zu schützen.
+
+=== Sielschleuse
+
+Die Siele an der Küste mit einem beweglichen Verschluss dienen der Entwässerung des Hinterlandes.
+Als Durchlassbauwerk im Deich werden sie auch als Deichschleuse bezeichnet und gehören zu den Sperrschleusen.
+Bei Tideniedrigwasser können sie das Wasser durch den Deich abfließen lassen und bei Hochwasser sperren sie gegen hohe Außenwasserstände zum Schutz des Hinterlandes.
+Die in früheren Zeiten als Ständersiel errichteten Bauwerke besaßen häufig ein zweiflügeliges Fluttor, das gegen die Flut stemmte und bei Ebbe offen stand.
+Das selbsttätige Öffnen und Schließen der Tore erfolgte durch den jeweils höheren Wasserstand außen bzw. innen.
+Je nach Größe konnten kleine Schiffe das Siel passieren und die hinter dem Deich angelegten Kanäle oder das Meer erreichen.
+
+Eine Variante der Sielschleuse ist die Spülschleuse.
+
+=== Sperrwerk
+
+Ein Sperrwerk kommt zum Einsatz, wenn nur selten ein hoher Außenwasserstand zu erwarten ist.
+Ein oder mehrere Tore können bei Gefahr geschlossen werden und schützen den dahinter liegenden Hafen vor Überschwemmungen.
+Stemmtore stemmen für den Fall nach außen und werden für den Fall besonders hoher Außenwasserstände doppelt hintereinander angeordnet.
+Unter Umständen wird zur Sicherheit auch ein Ebbtor eingebaut, das zur Binnenseite sperrt und das Binnenwasser zurückhalten kann.
+Erst durch den Bau von mindestens zwei Schleusenhäuptern mit einer Kammer dazwischen erhält man eine Schleusenfunktion unter Beibehaltung der gleichen Funktionalität, aber mit mehr Nutzen für die Schifffahrt und den Hafen.
+
+=== Dockschleuse
+
+Eine Dockschleuse findet sich an Seehäfen, die als Dockhafen ausgebildet sind.
+Wegen der wechselnden Außenwasserstände muss ein Dockhafen mindestens ein abschließbares Dockhaupt aufweisen, das nur bei ausgespiegelten Wasserständen für die Schifffahrt geöffnet wird.
+Damit kann im Hafen ein weitgehend gleicher Wasserstand gehalten werden und ein Leerlaufen bei Ebbe wird verhindert.
+
+Dockhäfen wurden vielfach im 18. und 19. Jahrhundert an den Küsten Englands errichtet, da durch den großen Tidenhub ein Anlaufen der Häfen nur bei Hochwasser möglich war - berühmt sind beispielsweise die ehemaligen London Docks.
+Aus Sicherheitsgründen sowie für Wartungs- und Reparaturarbeiten waren auch zwei Tore im Dockhaupt installiert, zwischen denen auch ein separates Tidebassin angelegt sein konnte.
+Um das höhere Niveau im Dockhafen halten zu können und einen Ausgleich für abfließendes Wasser zu schaffen mussten zusätzlich Pumpwerke angelegt werden.
+
+Kennzeichen einer Dockschleuse sind Stemmtore, die gegen den Binnenwasserstand im Hafen stemmen.
+Hat die Tide den ungefähren Hafenwasserstand erreicht kann die Dockschleuse geöffnet werden, damit die Schiffe ein- und ausfahren können.
+Das Zeitfenster hierfür beträgt etwa ein bis zwei Stunden.
+Dies ist ein gravierender Nachteil dieses Schleusentyps, da die Zugänglichkeit des Hafens nicht jederzeit gegeben ist.(S. 30)
+
+Für den Fall, dass ein Dockhafen auch durch extreme Tidewasserstände beaufschlagt werden kann, wird eine Kombination aus Schutz- und Dockschleuse erforderlich, die gegen beide Richtungen sperren kann.
+Bei Stemmtoren sind dazu zwei Paar Tore im Schleusenhaupt erforderlich, ein Paar für die jeweilige Richtung.
+Vorteilhafter sind in dem Fall Schiebetore oder Rolltore, die systembedingt in beiden Richtungen dichten und das Wasser abhalten können.
+
+Jedes Trockendock besitzt zum Abschluss und Entleeren des Docks eine Dockschleuse.
+Bei Trockendocks mit großer Dockbreite wird im Dockhaupt ein Schiebetor angeordnet, die aufgrund der hohen Belastung eine große Konstruktionsbreite (-tiefe) und ein hohes Gewicht aufweisen.
+Zum leichteren Bewegen dieser Massen werden die Tore durch Lufteintrag zum Schweben gebracht und zum Schließen geflutet.
+Das größte Trockendock in Europa liegt in Frankreich: das Bassin C der Werft Chantiers de l'Atlantique in Saint-Nazaire hat eine Länge von 450 Meter bei 150 Meter Breite.
+
+Vielfach wurden die ehemaligen Dockschleusen zu Kammerschleusen erweitert, um auch unabhängig von der Flut Schleusungsvorgänge abwickeln zu können.
+Aus historischen Gründen werden diese Schleusen noch immer als Dockschleuse bezeichnet.
+Falls Schiffe länger als die Nutzlänge der Schleusenkammer sind kann bei Bedarf und bei Tidehochwasser auch eine Dockschleusung mit nur einem Tor durchgeführt werden.
+Das Schiff ragt dabei in den Dockhafen hinein und der gesamte Hafen ist in dem Fall die Schleuse.
+Aber das Schiff kann bei Tidehochwasser trotzdem den Dockhafen erreichen oder verlassen.
+
+=== Schleusendock
+
+Eine Sonderform der Dockschleuse ist ein Schleusendock, bei dem eine Schleusenkammer auch als Trockendock genutzt werden kann.
+Nach Schließen der beiden Tore wird mit Hilfe von leistungsfähigen Pumpen die Kammer entleert und das Schiff auf den an der Sohle angebrachten Pallen abgesetzt.
+Diesem Lastfall entsprechend muss die Schleusenkammer besonders solide ausgeführt sein, da die Kammer auch gänzlich entleert und mit dem Schiffsgewicht belastet die auftretenden Kräfte sicher ableiten bzw. dem Auftrieb standhalten muss.
+
+=== Hafensperrschleuse
+
+In Häfen mit verzweigten und miteinander verbundenen Hafenbecken, die durch die Tide beeinflusst sind, können durch den regelmäßigen Wasseraustausch Schlick- und Sinkstoffe in die Hafenbecken eingespült werden und sich dort absetzen.
+Zur Verhinderung werden in den Verbindungskanälen zum Strömungsschutz Sperrschleusen platziert, die keine durchgehende Strömung erlauben.
+
+In der Liste zum Hamburger Hafen werden noch vier Sperrschleusen aufgeführt: Ellerholzschleuse, Rugenberger Schleuse, Reiherstiegschleuse und Harburger Hafenschleuse.
+
+== Antriebstechnik
+
+In der Anfangszeit stand nur die menschliche Kraft zur Verfügung, um die Verschlüsse einer Schleuse zu bewegen.
+Dazu war es notwendig, dass Schleusenwärter ständig vor Ort waren, um die Schleuse zu bedienen.
+Häufig war ein Schleusenwärterhaus in der Nähe der oberen Einfahrt errichtet, von dem aus der ganze Bereich mit der Zufahrt überblickt werden konnte.
+Die Wärter bewegten die Tore, regelten und sicherten die Durchfahrt und den Schleusenvorgang.
+
+Bei einer Stauschleuse waren es die hölzernen Stautafeln, die einzeln von Hand gesteckt bzw. gezogen werden mussten.
+Die traditionellen hölzernen Stemmtore konnte durch lange Kanthölzer von Land aus gedreht werden.
+Die Hölzer waren in Verlängerung der Tortafel angebracht und wirkten als Hebelarm, der am freien Ende einen Stein als Gegengewicht aufweisen konnte.
+
+Die Zunahme der Schiffsgrößen machte die Vergrößerung der Schleusen erforderlich, die eine Mechanisierung nach sich zog.
+Zur Bewegung der schweren Tore kamen Zahnstangen in Gebrauch, die zunächst durch Handkurbeln bewegt wurden.
+Es gab Zahnstangen in gerader Bauform oder der Stemmtorbewegung angepasst in runder Ausführung.
+Mit dem Aufkommen der Elektrifizierung wurden die Handantriebe durch Elektromotore ersetzt.
+Diese konnten auch für die Schütze der Füll- und Entleerungseinrichtungen eingesetzt werden.
+Seit den 1950er Jahren hat sich die Entwicklung der Linearantriebe mit Hydraulikzylindern durchgesetzt, die bis in die 1990er Jahre über stationäre Hydraulikaggregate betrieben wurden.
+Deren Weiterentwicklung führte zum hydraulische Kompaktantrieb und den Elektrohubzylinder.
+
+Mit der Verbreitung der Fernüberwachung über Videosysteme und Sensoren sitzt heute der Schleusenwärter zur Bedienung der Schleuse nicht mehr vor Ort, sondern meist in einer zentralen Steuerstelle, von wo gleichzeitig mehrere Schleusen überwacht und gesteuert werden.
+
+Zum Antrieb der Schleusentore gab es in der Vergangenheit interessante Entwicklungen und Erfindungen:
+
+=== Hotopp-Schleuse
+
+Die Ende des 19. Jahrhunderts von Ludwig Hotopp entworfenen und am Elbe-Lübeck-Kanal gebauten Schleusen stellen eine Besonderheit dar.
+Da es seinerzeit im Kanalverlauf keine ausreichende Stromversorgung für den Betrieb einer Schleuse gab konstruierte er für das Bewegen der Schleusentore und Schieber einen pneumatischen Antrieb.
+Die dafür erforderliche Druckluft wird durch den Druckunterschied und Wasserstrom zwischen Ober- und Unterwasser in einem separaten Saugkessel unter Zuhilfenahme eines Hebers erzeugt.
+Mit dem Ein- bzw. Ausblasen von Luft erfolgt die Bewegung der mechanischen Betriebsteile.
+Die Schleusen sind jetzt über 100 Jahre alt und immer noch funktionsfähig.
+
+=== Fächertor
+
+Fächertore sind eine Sonderausführung der Stemmtore aus den Niederlanden.
+Die Erfindung geht auf Jan Blanken zurück, der Anfang des 19. Jahrhunderts als Generalinspekteur für die Wasserwirtschaft zuständig war.
+Seine Waaiersluis (niederländisch waaier für Fächer) kann die Schleusentorbewegung aus dem Druckunterschied von Ober- und Unterwasser gewinnen.
+Dazu ist ein Verbindungskanal zwischen den beiden Haltungen erforderlich.
+Je nach Richtung der Schleusung wird durch Schütze der Wasserdruck in die viertelkreisförmige Torkammer geführt, um das Tor zu bewegen.
+In dieser Kammer ist ein Sektortor mit senkrechter Achse, dass unterschiedlich lange Tortafeln besitzt.
+Das große Tor hat 6/5 mal die Länge des kleinen Tors.
+Der Vorteil der Konstruktion ist der, dass das Öffnen und Schließen des Tors auch gegen den hohen Druck des Oberwassers erfolgen kann.
+Dadurch ist der Füllvorgang der Schleusenkammer durch behutsames Öffnen des Tors möglich.
+Mehrere Schleusen mit Fächertoren sind in den Niederlanden noch in Betrieb.
+
+Beispiel:
+Waaiersluis bei Gouda an der Hollandse IJssel
+
+Als Nachteil der Konstruktion ist das Versagen des Antriebs bei gleich hohem Binnen- und Außenwasserstand, so dass für den Fall ein zusätzlicher maschineller Antrieb vorgehalten werden muss.
+Bei kleinen Schleusen können daher Stemmtore mit modernem Schubstangenantrieb wirtschaftlicher sein.(S. 4641)
+
+== Abmessungen und Rekorde
+
+Die Abmessungen der Schleusenbauwerke richten sich nach der Größe der Schiffe, die den Kanal bzw. Flussabschnitt benutzen oder in Zukunft befahren sollen.
+Daher bestimmen die Abstiegsbauwerke für längere Zeit die maximalen Schiffsgrößen im Verlauf der Schifffahrtsstraßen, da Vergrößerungen bestehender Bauwerke einen erheblichen Aufwand bedeuten.
+
+=== Binnenschleusen
+
+Die Binnenwasserstraßen in Deutschland sind nach der europaweiten Klassifikation eingeteilt, die zur Förderung eines einheitlichen Binnenwasserstraßennetzes geschaffen wurde.
+Für jede Wasserstraßenklasse sind maximale Schiffsgrößen festgelegt nach denen alle die Schifffahrt betreffenden Einrichtungen wie z. B. die Länge der Schleusenkammer ausgelegt werden.
+Seit Ende der 1960er Jahre war das 85 Meter lange Europaschiff der Wasserstraßenklasse IV das maßgebende Typschiff für den Ausbau und die Instandhaltung aller Kanäle.
+Aus diesem Grund beträgt die Troglänge des Schiffshebewerks Lüneburg 'nur' 100 Meter, die für heutige Verhältnisse zu kurz sind und nicht mal das Großmotorgüterschiff der Klasse Va aufnehmen kann.
+Ausbauziel für die westdeutschen Kanäle ist durchgängig die Wasserstraßenklasse Vb, womit längenmäßig ein Schubverband mit zwei Leichtern alle Strecken befahren können soll.
+Dem entsprechend müssen die Schleusenkammer mindestens 185 Meter lang sein.
+Aus diesem Grund soll bis 2032 neben dem Hebewerk in Lüneburg die neue Schleuse Lüneburg mit großer Länge gebaut werden.
+Sie wird nach Fertigstellung die größte Sparschleuse der Welt werden und gleichzeitig die Schleuse mit der größten Hubhöhe sein.
+Viele Schleusen besitzen 225 Meter lange Schleusenkammern und können darin zwei Großmotorgüterschiffe von 110 Meter Länge aufnehmen.
+Die neueren Abstiegsbauwerke werden derzeit mit 12,5 Meter Breite errichtet und sind damit um rund ein Meter breiter als das Typschiff bzw. die Schubleichter mit 11,45 Meter.
+
+In Deutschland ist für den Ausbau und den Betrieb der Wasserstraßen die Generaldirektion Wasserstraßen und Schifffahrt zuständig.
+Über die nachgeordneten 17 Wasserstraßen- und Schifffahrtsämter werden insgesamt 315 Schleusenanlagen unterhalten.
+Davon besitzen 95 Anlagen zwei Kammern und bei neun Anlagen sind drei Kammern zu finden.
+
+=== Seeschleusen
+
+Durch die Schiffsgrößen der Seeschifffahrt müssen Seeschleusen entsprechend größer sein.
+Die Schleusen am Panamakanal hatten ab 1914 Maßstäbe gesetzt und die Panamax-Schiffsgröße mit 294,3 Meter Länge und 32,3 Meter Breite definiert, die für eine Kanalpassage zulässig war.
+Ab 1930 ging der Längenrekord für lange Zeit an die Nordschleuse in IJmuiden am Nordseekanal:
+Kammerlänge 400 Meter und 50 Meter Breite.
+Durch das stete Anwachsen der Schiffsgrößen über das Panamax-Maß hinaus sind in Panama seit 2016 neue Schleusen mit 427 Meter Länge und 55 Meter Breite in Betrieb.
+Gleichzeitig konnte damit auch der maximale Tiefgang von 13 Meter auf über 18 Meter angehoben werden.
+Als längste Schleuse gelten derzeit zwei Schleusen in Antwerpen mit 500 Meter Länge und 68 Meter Breite.
+Ab Frühjahr 2022 wird die Fertigstellung der größten Schleuse der Welt erwartet:
+Am Nordseekanal entsteht die Seeschleuse IJmuiden mit 500 Meter Länge und 70 Meter Breite, die für einen Tiefgang von 18 Meter ausgelegt ist.
+
+Die größte Schleuse in Deutschland ist die zum Vorhafen der Marine gehörende Seeschleuse der IV. Einfahrt in Wilhelmshaven.
+Sie hat zwei Schleusenkammern mit einer Länge von 390 m, einer Breite von 60 m und einer Drempeltiefe von 14,75 m unter mittlerem Hafenwasserstand (Volumen rund 320.000 m^3).
+Ein Schleusentor (Schiebetor) mit einer Durchfahrtsbreite von 60 m wiegt ungefähr 1.700 Tonnen.
+Zum Vergleich mit einer Binnenschleuse:
+Die Mainschleuse in Ottendorf hat eine Länge von 301 m bei 12 m Breite (Volumen rund 27.500 m^3).
+
+== Geschichte
+
+Die viel größere Tragfähigkeit von Schiffen wurde schon im Altertum genutzt und gab den Anstoß zum Bau von Kanälen, um Landbrücken zu durchstechen und Stromgebiete für die Schifffahrt zu erweitern.
+Zur Überwindung von Höhenrücken oder wenn zusammen hängenden Wasserflächen durch Dämme getrennt wurden ergab sich zwangsläufig die Notwendigkeit zum Bau eines Verbindungsbauwerks, um die verschieden hohen Wasserflächen miteinander zu verbinden.
+Ohne ein solches Bauwerk musste man sich mit dem Umladen der Fracht behelfen, wie es bei der Ruhrschifffahrt noch bis ins 18. Jahrhundert praktiziert wurde.
+
+Für sehr kleine Schiffe kamen Schräge Ebenen mit Holzstammrollen oder Kleiauflagen in Gebrauch.
+Zur Überwindung von Wehren gab es lange Zeit Bootsrutschen, bei denen mit geringer Wasserüberdeckung ein "Darüberrutschen" auf einer Rampe möglich war.
+Die Rampe eignete sich auch für ein Hinaufziehen der Boote.
+Solche Bootsrutschen waren auf kleinen kommerziell genutzten Wasserläufen bis ins 19. Jahrhundert im Gebrauch.
+Am Hochrhein zwischen Eglisau und Rheinfelden sind mehrere Bootsrutschen (amtlich: Slipp-Anlagen) und Transportkarren für Motorboote bis zu 20 m oder 30 m Länge erhalten.
+An Schleusen anderer Gewässer werden für die Passage von Schiffen oder kleinen Sportbooten Fischtreppen oder Bootsgassen als Schussrinne für Sportboote errichtet.
+
+Eine ähnliche Transportmöglichkeit für Schiffe wurde am Oberländischen Kanal mit den Geneigten Ebenen geschaffen.
+Zur Schonung des Schiffsrumpfs fährt das Schiff über Schienen auf einem Transportwagen über die Landbrücken.
+
+=== Altertum
+
+Der griechische Historiker Diodor berichtet, bei der Wiederherstellung des (unter Pharao Necho II. begonnenen, aber wohl erst unter dem Perserkönig Dareios I. im Jahr 498 v. Chr. vollendeten) Bubastis-Kanals zwischen Nil und rotem Meer um 280 v. Chr. habe der griechische König Ptolemaios II. Philadelphos (284 bis 246 v. Chr.) an dessen Ostende eine Doppel(?)-Schleuse einbauen lassen.
+Dieser Kanal verfiel im 1. Jh. v. Chr., wurde aber unter dem römischen Kaiser Trajan im 2. Jh. n. Chr. wiederhergestellt.
+Mit Einschränkungen war der Kanal bis ins späte 8. Jh. n. Chr. in Benutzung.
+
+In China wurde die Kanalschleuse für Schiffe im Jahre 984 durch Qiao Weiyue, stellvertretenden Kommissar für Transport in Huainan erfunden.
+Bis dahin wurden in den dortigen Kanälen Höhengefälle durch Rutschbahnen oder Rampen überwunden, was die Schiffe wiederholt beschädigte und zum Diebstahl der Ladung führte.
+Bei Trockenheit war der Betrieb der Rutschbahnen zudem sehr eingeschränkt.
+Qiao Weiyue ließ nun zwei "hängende Tore" im Abstand von 50 Schritten (76 m) errichten, den Zwischenraum überdachen, das Ufer befestigen und baute so eine Schleuse.
+Fortan waren Höhenunterschiede von 1,2 bis 1,5 m pro Schleuse kein Problem mehr.
+
+=== Mittelalter
+
+In Europa gab es in Deutschland, Holland und Italien eigene Entwicklungen von Kammerschleusen.
+In Deutschland wurde erstmals im Jahr 1325 über den Bau einer doppelten Stauschleuse berichtet, die zwischen den beiden Wehren eine Art 'Kammer' bildete.
+Durch die Verbindung der beiden Wehre mit seitlichen Holzwänden entstanden daraus die Kastenschleusen oder Kistenschleusen als direkte Vorgänger der Kammerschleusen, von denen aus Holland mit Datum 1413 berichtet wird.(S. 394)
+
+Für den Transport von Salz zwischen Lüneburg und Lübeck wurde 1391 mit dem Bau des Stecknitzkanals begonnen.
+Auf 97 Kilometer Länge überwand er einen Höhenunterschied von 18 Meter.
+Dazu wurden anfangs Stauschleusen und später Kistenschleusen errichtet.
+
+In Italien kam im 15. Jahrhundert die Muschelschleuse in Gebrauch, die als historischer Vorgänger der Rundkammerschleuse zu zählen ist.
+Das Prinzip war das Gleiche wie bei einer Stauschleuse mit einer im Grundriss muschelförmigen Kammer.
+Durch den Stauverschluss füllte sich die Kammer über den ungehinderten Zufluss von oberstrom.(S. 393) 1492 wurde eine Ausführung als doppelte Stauschleuse vorgeschlagen, woraus 1497 Leonardo da Vinci eine erste Kammerschleuse entwickelte, die er erstmals mit Einrichtungen zum Füllen und Entleeren versah.
+
+Um zwischen Hamburg und Lübeck eine schiffbare Verbindung herzustellen, wurde im 15. und 16. Jahrhundert der Alster-Beste-Kanal gebaut.
+Hierfür wurden in der Alster neun Alsterschleusen (zum Ausgleich des Gefälles von 17 m), im Alster Canal vier Schleusen (Gefälle von 8 m) und in der Beste acht Schleusen (Gefälle von 15 m) gebaut.
+Die Strecke Hamburg - Lübeck war 91 Kilometer lang.
+Im Verlauf dieser Baumaßnahmen entstanden um 1448 die Wulksfelder, Wohldorfer und Fuhlsbütteler Schleuse.
+Nach vier Jahren Bauzeit wurde das Projekt aus Geldmangel unterbrochen.
+Der Schifffahrtsweg entlang der Alster von Stegen bis Hamburg war 1465 fertiggestellt.
+Zwischen 1527 und 1529 wurden die Sandfelder, Rader, Heidkruger, Mellingburger und Poppenbüttler Schleusen neu gebaut bzw. alte Schleusen ersetzt.
+
+Die älteste in Europa noch in Betrieb stehende Kammerschleuse ist die Kolksluis Spaarndam in den Niederlanden aus dem Jahr 1280.
+Der Bericht über eine erste massive Kammerschleuse stammt aus dem Jahr 1569.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

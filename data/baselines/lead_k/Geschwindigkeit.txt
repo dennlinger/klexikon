@@ -1,0 +1,12 @@
+Die Geschwindigkeit ist neben dem Ort und der Beschleunigung einer der grundlegenden Begriffe der Kinematik, eines Teilgebiets der Mechanik.
+Die Geschwindigkeit beschreibt, wie schnell und in welcher Richtung ein Körper oder ein Phänomen (beispielsweise ein Wellenberg) im Lauf der Zeit seinen Ort verändert.
+Eine Geschwindigkeit wird durch ihren Betrag und die Bewegungsrichtung angegeben; es handelt sich also um eine vektorielle Größe.
+Als Formelzeichen ist v = {\displaystyle {\vec {v} }} üblich nach dem lateinischen bzw. englischen Wort für Geschwindigkeit (lateinisch velocitas, englisch velocity).
+Oft wird mit dem Wort Geschwindigkeit nur ihr Betrag gemeint (Formelzeichen v {\displaystyle v} ), der anschaulich gesprochen das momentane "Tempo" der Bewegung wiedergibt, wie es beispielsweise im Auto vom Tachometer angezeigt wird.
+v {\displaystyle v} gibt an, welche Wegstrecke ein Körper innerhalb einer bestimmten Zeitspanne zurücklegt, wenn die Geschwindigkeit entsprechend lange konstant bleibt.
+Die international verwendete Einheit ist Meter pro Sekunde (m/s), gebräuchlich sind auch Kilometer pro Stunde (km/h) und - vor allem in der See- und Luftfahrt - Knoten (kn).
+Die höchstmögliche Geschwindigkeit, mit der sich die Wirkung einer bestimmten Ursache räumlich ausbreiten kann, ist die Lichtgeschwindigkeit c {\displaystyle c} .
+Diese Obergrenze gilt also auch für jedwede Informationsübertragung.
+Körper, die eine Masse besitzen, können sich nur mit geringeren Geschwindigkeiten als c {\displaystyle c} bewegen.
+Eine Geschwindigkeitsangabe ist immer relativ zu einem Bezugssystem zu verstehen.
+Ruht ein Körper in einem Bezugssystem, so hat er in einem anderen Bezugssystem, welches sich gegenüber dem ersten mit der Geschwindigkeit v = {\displaystyle {\vec {v}}} bewegt, die entgegengesetzt gleich große Geschwindigkeit - v = {\displaystyle -{\vec {v} }} .

@@ -1,0 +1,731 @@
+Die Photosynthese (altgriechisch  phos, deutsch ,Licht' und uv synthesis, deutsch ,Zusammensetzung', auch Fotosynthese geschrieben) ist ein physiologischer Prozess zur Erzeugung von energiereichen Biomolekülen aus energieärmeren Stoffen mithilfe von Lichtenergie.
+Sie wird von Pflanzen, Algen und manchen Bakterien betrieben.
+Bei diesem biochemischen Vorgang wird mithilfe von lichtabsorbierenden Farbstoffen wie Chlorophyll Lichtenergie in chemische Energie umgewandelt.
+Diese wird dann zum Aufbau energiereicher organischer Verbindungen (primär Kohlenhydrate) aus energiearmen anorganischen Stoffen (Kohlenstoffdioxid (CO2) und Wasser (H2O)) verwendet.
+Da die energiereichen organischen Stoffe zu Bestandteilen des Lebewesens werden, bezeichnet man deren Synthese als Assimilation.
+
+Man unterscheidet zwischen oxygener und anoxygener Photosynthese.
+Bei der oxygenen wird molekularer Sauerstoff (O2) erzeugt.
+Bei der anoxygenen, die nur von manchen Bakterien betrieben wird, entstehen statt Sauerstoff andere anorganische Stoffe, beispielsweise elementarer Schwefel (S).
+
+Die Photosynthese ist der einzige biochemische Prozess, bei dem Lichtenergie, meistens Sonnenenergie, in chemisch gebundene Energie umgewandelt wird.
+Von ihr hängen indirekt auch nahezu alle heterotrophen (nicht zur Photosynthese fähigen) Lebewesen ab, da sie ihr letztlich ihre Nahrung und auch den zur Energiegewinnung durch aerobe Atmung nötigen Sauerstoff verdanken.
+Aus dem Sauerstoff entsteht außerdem die schützende Ozonschicht.
+
+Auch die UVB-abhängige Bildung von Cholecalciferol (Vitamin D) wird als Photosynthese bezeichnet.
+
+== Überblick
+
+Die Photosynthese kann in drei Schritte unterteilt werden:
+
+Die ersten beiden Schritte werden als Lichtreaktion bezeichnet und laufen bei Pflanzen im Photosystem I und Photosystem II ab.
+Der letzte Schritt ist eine weitgehend lichtunabhängige Reaktion.
+
+Die Synthese der energiereichen organischen Stoffe geht überwiegend von der Kohlenstoffverbindung Kohlenstoffdioxid (CO2) aus.
+Für die Verwertung von CO2 muss dieses reduziert werden.
+Als Reduktionsmittel (Reduktans, Elektronendon(at)oren) dienen die Elektronen oxidierbarer Stoffe:
+Wasser (H2O), elementarer, molekularer Wasserstoff (H2), Schwefelwasserstoff (H2S), zweiwertige Eisenionen (Fe2+) oder einfache organische Stoffe (wie Säuren und Alkohole, z. B. Acetat bzw. Ethanol).
+Darüber hinaus können die Elektronen auch aus der Oxidation einfacher Kohlenhydrate gewonnen werden.
+Welches Reduktans verwendet wird, hängt vom Organismus ab, von seinen Enzymen, die ihm zur Nutzung der Reduktantien zur Verfügung stehen.
+
+=== Photosynthesebilanz
+
+Das Gesamtreaktionsschema der Photosynthese lässt sich im Fall von CO2 als Ausgangsstoff allgemein und vereinfacht mit den folgenden Summengleichungen formulieren, in denen <CH2O> für die gebildeten energiereichen organischen Stoffe steht.
+
+Mit einem Reduktans, das durch Abgabe von Wasserstoff (H) reduziert, wie Wasser (H2O), Schwefelwasserstoff (H2S) und elementarer, molekularer Wasserstoff (H2), (alle hier mit dem allgemeinen Ausdruck <H> symbolisiert):
+
+Mit einem Reduktans, das durch Abgabe von Elektronen (e-) reduziert, wie zweiwertige Eisenionen (Fe2+) und Nitrit (NO2-):
+
+Manche Bakterien verwenden organische Verbindungen als Reduktans, wie beispielsweise Lactat, das Anion der Milchsäure:
+
+Die Gesamtreaktion der Photosynthese mit Wasser oder Schwefelwasserstoff als Reduktans kann auch durch die folgende allgemeine, vereinfachte Summengleichung formuliert werden:
+
+Als allgemeine Formulierung steht hier H2A für das Reduktans H2O bzw. H2S.
+
+Alle Algen und grünen Landpflanzen verwenden ausschließlich Wasser (H2O) als Reduktans H2A.
+Auch Cyanobakterien verwenden überwiegend Wasser als Reduktans.
+Der Buchstabe A steht in diesem Fall für den im Wasser gebundenen Sauerstoff (O).
+Er wird als Oxidationsprodukt des Wassers bei der sogenannten oxygenen Photosynthese als elementarer, molekularer Sauerstoff (O2) freigesetzt.
+Der gesamte in der Erdatmosphäre und Hydrosphäre vorkommende Sauerstoff wird durch oxygene Photosynthese gebildet.
+
+Die photosynthetischen Bakterien (Chloroflexaceae, Chlorobiaceae, Chromatiaceae, Heliobacteria, Chloracidobacterium) können ein viel größeres Spektrum an Reduktantien nutzen, vorwiegend nutzen sie jedoch Schwefelwasserstoff (H2S).
+Auch viele Cyanobakterien können Schwefelwasserstoff als Reduktans verwenden.
+Da in diesem Fall A für den im Schwefelwasserstoff gebundenen Schwefel steht, wird bei dieser Art der bakteriellen Photosynthese elementarer Schwefel (S) und kein Sauerstoff freigesetzt.
+Diese Form der Photosynthese wird deshalb anoxygene Photosynthese genannt.
+
+Einige Cyanobakterien können auch zweiwertige Eisenionen als Reduktans nutzen.
+
+Auch wenn bei oxygener und anoxygener Photosynthese unterschiedliche Reduktantien verwendet werden, so ist doch beiden Prozessen gemein, dass durch deren Oxidation Elektronen gewonnen werden.
+Unter Ausnutzung dieser mit Lichtenergie auf ein hohes Energieniveau (niedriges Redoxpotential) gebrachten Elektronen werden die energiereichen Verbindungen ATP und NADPH gebildet, mittels derer aus CO2 energiereiche organische Stoffe synthetisiert werden können.
+
+Der bei der Synthese der energiereichen organischen Verbindungen benötigte Kohlenstoff kann aus Kohlenstoffdioxid (CO2) oder aus einfachen organischen Verbindungen (z. B. Acetat) gewonnen werden.
+Im ersten Fall spricht man von Photoautotrophie.
+Der weitaus größte Teil der phototrophen Organismen ist photoautotroph.
+Zu den photoautotrophen Organismen gehören z. B. alle grünen Landpflanzen und Algen.
+Bei ihnen ist eine phosphorylierte Triose das primäre Syntheseprodukt und dient als Ausgangsmaterial für den nachfolgenden Aufbau von Bau- und Reservestoffen (d. h. verschiedenen Kohlenhydraten).
+Photoautotrophe treiben mit ihrem Photosynthese-Stoffwechsel (direkt und indirekt) nahezu alle bestehenden Ökosysteme an, da sie mit dem Aufbau organischer Verbindungen aus anorganischem CO2 anderen Lebewesen energiereiche Baustoff- und Energiequellen liefern.
+Werden einfache, organische Verbindungen als Ausgangsstoffe genutzt, bezeichnet man diesen Prozess, der nur bei Bakterien vorkommt, als Photoheterotrophie.
+
+== Forschungsgeschichte
+
+Seit der Antike (Aristoteles) herrschte die Vorstellung, dass die Pflanze ihre Nahrung aus der Erde entnimmt.
+Erst 1671 unterzog Marcello Malpighi diese Anschauung einer experimentellen Überprüfung, wobei er zu dem Ergebnis kam, dass der Nahrungssaft in den Blättern durch die Kraft des Sonnenlichts verarbeitet ("ausgekocht") wird und erst dadurch das Wachstum bewirken kann.
+Nach der Entdeckung des Sauerstoffs in den 1770er Jahren zeigte Jan Ingenhousz 1779, dass dieser in grünen Blättern gebildet wird, wenn sie dem Licht ausgesetzt sind.
+In einer weiteren Publikation 1796 stellte er fest, dass die Pflanze der aufgenommenen "Kohlensäure" (Kohlendioxid) den Kohlenstoff als Nahrung entnimmt und den Sauerstoff "aushaucht".
+
+Trotz dieser Befunde konnte sich die Humustheorie bis in die Mitte des 19. Jahrhunderts halten, weil die meisten Forscher davon überzeugt waren, dass Lebendes nur aus Lebendem hervorgehen kann.
+Erst durch die Erfolge Justus von Liebigs (1840) mit Mineraldünger wurde es unabweisbar, dass Pflanzen anorganische Substanzen assimilieren können.
+In den 1860er Jahren beschrieb Julius von Sachs, dass Chloroplasten im Licht Stärke ansammeln, die vermutlich aus Zucker als dem primären Produkt der Photosynthese gebildet wird.
+
+Wie die Assimilation des Kohlendioxids vor sich geht und wie dieser Vorgang mit der Einwirkung des Lichts zusammenhängt, blieb noch lange Zeit unklar.
+Neben der Annahme, dass das Kohlendioxid direkt durch das Chlorophyll photolytisch gespalten wird, postulierten Frederick Blackman und Gabrielle Matthaei 1905, dass zwischen einer photochemischen Lichtreaktion und einer enzymatischen Dunkelreaktion zu unterscheiden sei.
+1930 schlug Cornelis Bernardus van Niel in Analogie zu seinen Ergebnissen mit Schwefelbakterien vor, dass die Photosynthese ein Austausch von Wasserstoff zwischen einem Donator und Kohlendioxid als Akzeptor sei, wobei der Donator das Wasser sei (bei Schwefelbakterien analog H2S).
+Einen beeindruckenden Beleg für diese Thesen lieferte Robert Hill 1937, indem er berichtete, dass isolierte Chloroplasten auch in Abwesenheit von Kohlendioxid Sauerstoff bilden, wenn Eisensalze als künstliche Elektronenakzeptoren vorhanden sind (Hill-Reaktion).
+Im Laufe der 1950er Jahre wurden dann von zahlreichen Forschern die Einzelheiten der Licht- und Dunkelreaktionen aufgeklärt.
+
+== Absorption von Lichtenergie
+
+Die Energie des Lichtes wird bei phototrophen Organismen durch Farbstoffe eingefangen.
+In grünen Pflanzen sowie Cyanobakterien sind es Chlorophylle, in anderen Bakterien Bakteriochlorophylle.
+Licht von unterschiedlichen Wellenlängenbereichen wird durch diese Farbstoffe absorbiert.
+Die sogenannte Grünlücke führt dabei zur charakteristischen grünen Farbe.
+Der spektrale Optimalbereich für die Photosynthese wurde durch den Engelmannschen Bakterienversuch erstmals experimentell bestimmt.
+Die lichtabsorbierenden Farbstoffe werden auch Chromophore genannt.
+Bilden diese mit umgebenden Proteinen Komplexe, werden diese auch als Pigmente bezeichnet.
+
+Trifft Licht auf ein Pigment, so geht das Chromophor in einen angeregten Zustand über.
+Je nachdem, wie die konjugierten Doppelbindungen des Chromophors aufgebaut sind, unterscheidet sich die Energie für solch eine Anregung und damit das Absorptionsspektrum.
+Bei den in Pflanzen vorkommenden Chlorophyllen a und b werden hauptsächlich blaues und rotes Licht absorbiert, grünes Licht dagegen nicht.
+Das durch Licht angeregte Chlorophyll kann sein angeregtes Elektron nun auf einen anderen Stoff, einen Elektronenakzeptor übertragen, es bleibt ein positiv geladenes Chlorophyllradikal (Chl*+) übrig.
+Das übertragene Elektron kann über eine Elektronentransportkette schließlich über weitere Elektronenüberträger zum Chlorophyllradikal zurückgelangen.
+Auf diesem Wege transloziert das Elektron Protonen durch die Membran (Protonenpumpe), somit wird die Lichtenergie in ein elektrisches und osmotisches Potential umgesetzt (chemiosmotische Kopplung).
+
+=== Lichtsammelkomplexe
+
+Eine Photosynthese durch einfache Pigmente wäre relativ ineffizient, da diese dem Licht nur eine geringe Fläche entgegenstellen würden und zudem nur in einem engen Wellenlängenbereich absorbieren würden.
+Durch die Anordnung von chlorophyllhaltigen Lichtsammelkomplexen zu Antennen um ein gemeinsames Reaktionszentrum wird sowohl der Querschnitt vergrößert, als auch das Absorptionsspektrum verbreitert.
+Die eng benachbarten Chromophore in den Antennen geben die Lichtenergie von einem Pigment zum anderen weiter.
+Diese definierte Menge (Quant) Anregungsenergie bezeichnet man auch als Exziton.
+Die Exzitone gelangen schließlich in wenigen Pikosekunden in das Reaktionszentrum.
+Der Exzitonentransfer erfolgt vermutlich innerhalb eines Lichtsammelkomplexes durch delokalisierte Elektronen und zwischen einzelnen Lichtsammelkomplexen strahlungslos durch den Förster-Mechanismus.
+
+In Pflanzen bilden die Lichtsammelkomplexe eine Zentralantenne (core) und eine äußere Antenne und sind zusammen mit dem Reaktionszentrum in die Thylakoidmembran eingebettet.
+Als Chromophore dienen aber nicht nur Chlorophyll a und b, sondern auch Carotine und Xanthophylle.
+Diese schützen zum einen die Antenne, falls ein Chlorophyllmolekül einen schädlichen Triplettzustand ausbildet.
+Zum anderen verbreitern diese Chromophore den Wellenlängenbereich zum Einfangen von Licht.
+
+In Cyanobakterien sind die Antennen von außen auf die Thylakoidmembran aufgelagert.
+Die Antennenkomplexe werden Phycobilisomen genannt, deren Phycobilinproteine insbesondere grünes Licht absorbieren.
+
+Grüne Schwefelbakterien und Grüne Nichtschwefelbakterien verwenden für ihre anoxygene Photosynthese sogenannte Chlorosomen.
+Diese sind längliche, lipidähnliche Partikel, die auf der cytoplasmatischen Seite der Membran liegen und in Verbindung mit dem photosynthetischen Reaktionszentrum stehen.
+Sie sind besonders effektive Lichtsammler.
+
+== Oxygene Photosynthese
+
+Die grünen Pflanzen, Algen und Cyanobakterien nutzen die Energie des Lichts, um Energie in Form von Adenosintriphosphat (ATP) zu speichern und als Reduktionsmittel Elektronen aus Wasser zu gewinnen.
+Wasser (H2O) wird oxidiert, indem ihm Elektronen entzogen werden, und dabei werden molekularer Sauerstoff (O2) und Protonen (H+) freigesetzt (Photolyse des Wassers).
+Diese Form der Photosynthese wird wegen der Freisetzung von Sauerstoff (Oxygenium) als oxygene Photosynthese bezeichnet.
+Die gewonnenen Elektronen werden dabei über eine Reihe von Elektronenüberträgern in der Thylakoidmembran auf den finalen Akzeptor NADP+ übertragen, welche im Stoffwechsel des Organismus vor allem für den Aufbau von Kohlenhydraten ("Dunkelreaktion") notwendig sind.
+
+Während dieses Vorgangs werden gleichzeitig Protonen in das Lumen der Thylakoide transportiert.
+Durch den entstehenden Protonengradienten P (elektrochemischer Gradient) wird über chemiosmotische Kopplung das Enzym ATP-Synthase angetrieben, welches ATP aus ADP und Phosphat bildet und regeneriert (Photophosphorylierung):
+
+Die oben angegebene Zahl der entstehenden ATP-Moleküle von 3 ATP pro 2 H2O ergibt sich indirekt aus dem Energiebedarf des Calvin-Zyklus ("Dunkelreaktion").
+Ob tatsächlich genau drei Moleküle ATP aus der Spaltung von zwei Molekülen Wasser gebildet werden, ist unbekannt.
+Um einerseits Wasser oxidieren und andererseits NADP+ reduzieren zu können, sind zwei verschiedene Photosysteme hintereinander geschaltet, deren Redoxpotentiale durch Absorption von Licht geändert werden.
+Photosystem II stellt ein starkes Oxidationsmittel zur Oxidation von Wasser bereit, während an Photosystem I ein starkes Reduktionsmittel zur Reduktion von NADP+ erzeugt wird.
+Diese Reaktion wird gemeinhin als "Lichtreaktion" bezeichnet, da dieser Teil der Photosynthese direkt von Licht abhängig ist.
+
+In der Gesamtbilanz werden in der Lichtreaktion ein Molekül Sauerstoff gebildet, zwei Moleküle NADP zu NADPH reduziert und etwa drei Moleküle ADP zu ATP phosphoryliert:
+
+Oder allgemeiner für die Spaltung von 12 Wassermolekülen:
+
+Das bei der Lichtreaktion gewonnene Reduktionsmittel (NADPH) und die ebenfalls dabei gewonnene Energiequelle (ATP) werden anschließend im sogenannten Calvin-Zyklus ("Dunkelreaktion") verwendet, in dem Kohlenhydrate aus Kohlenstoffdioxid aufgebaut werden.
+Das NADPH wird dabei für die Reduktion von 1,3-Bisphosphoglycerat zu Glycerinaldehyd-3-phosphat verwendet.
+
+Der freigesetzte Sauerstoff stammt also nicht aus dem fixierten CO2, sondern aus Wasser.
+Daher stehen in der folgenden ersten Summengleichung auf der linken Seite 12 Wassermoleküle, rechts 6 O2-Moleküle.
+In der Gesamtgleichung der oxygenen Photosynthese dient Glucose (C6H12O6) als Beispiel, sie stellt das primäre Produkt dar:
+
+Oxygene Photosynthese wird von Cyanobakterien und allen eukaryotischen phototrophen Lebewesen betrieben.
+Beispiele hierfür sind neben allen grünen Pflanzen auch zahlreiche einzellige Algen (Protisten).
+Die Bedeutung dieses Vorgangs liegt in der Primärproduktion von organischen Stoffen, die chemoheterotrophen Lebewesen als Energie- und Baustoffquelle dienen, und in der Bildung von Sauerstoff, der für alle obligat aeroben Lebewesen lebensnotwendig ist und auf der Erde fast ausschließlich durch oxygene Photosynthese gebildet wird.
+
+=== Lineare (nicht-zyklische) Photophosphorylierung
+
+Bei Organismen mit oxygener Photosynthese sind die zwei membranintegralen Photosysteme II und I in Serie geschaltet.
+Ähnlich der Atmungskette sind die beiden Photosysteme durch eine Elektronentransportkette verbunden, die neben dem kleinen Molekül Plastochinon auch einen weiteren membranintegralen Proteinkomplex (Cytochrom-b6f-Komplex) und das kleine Protein Plastocyanin umfasst.
+Werden die Redoxpotentiale aller an der Reaktion beteiligten Redoxpartner aufgetragen, ergibt sich eine Art Zick-Zack-Verlauf, der an ein gedrehtes "Z" erinnert (Z-Schema, vgl. Abbildung).
+
+Die für den Elektronentransfer in den Reaktionszentren der Photosysteme benötigte Anregungsenergie wird in Form von Strahlung vor allem durch die Lichtsammelkomplexe aufgenommen, die neben Chlorophyll-a auch Chlorophyll-b und Carotinoide enthalten, die in einem weiten Bereich des sichtbaren Wellenlängenspektrums absorbieren (vgl. obiges Spektrum).
+Bei Absorption eines roten Lichtquants wechselt das Molekül in den angeregten Energiezustand S1, bei Absorption eines blauen Lichtquants in den Zustand S2 mit höherer Energie.
+Nur der S1-Zustand ist für die Photochemie nutzbar.
+Jedoch kann unter Abgabe der überschüssigen Energie als Wärme (interne Konversion) vom S2 auf das S1-Niveau gewechselt werden, was auch höherenergetische Lichtquanten nutzbar macht.
+
+Durch strahlungslosen Energietransfer kann die Energie der Anregungszustände zwischen eng benachbarten Chlorophyll-Molekülen bis zu den Reaktionszentren der Photosysteme übertragen werden.
+Der Rückfall auf das Ausgangsniveau S0 erfolgt unter Abgabe von Energie, wobei die Art der Abgabe abhängig von der Effizienz des jeweiligen Prozesses ist.
+
+Mit einer Quantenausbeute von etwa 85 % der Anregungsenergie wird in den offenen Reaktionszentren von Photosystem II eine Ladungstrennung durchgeführt, bei der ein Elektron von den gepaarten Chlorophyll-a-Molekülen (special pair, P680) auf einen primären Akzeptor, ein Phäophytin (Phe) der D1-Untereinheit, transferiert wird.
+Von dort gelangt es über das fest gebundene Plastochinon QA (D2-Untereinheit) auf ein locker gebundenes Plastochinon (QB) (D1-Untereinheit).
+Nach Aufnahme von zwei Elektronen und Protonierung durch H+ aus dem Stroma wird QB als Plastochinol (auch Plastohydrochinol, PQH2) in die Membranmatrix entlassen, in der es frei diffundieren kann.
+Ein kürzlich entdecktes drittes Plastochinon (QC) vermittelt dabei den Austausch von QB mit dem Chinonpool der Membran.
+
+Das verbleibende oxidierte P680*+-Radikal, welches mit einem Redoxpotential von mehr als +1 V ein sehr starkes Oxidationsmittel ist, wird durch einen Tyrosinrest (Tyrz) reduziert.
+Dieser wird wiederum durch den Mangan-Cluster des wasserspaltenden Komplexes regeneriert.
+
+PQH2 diffundiert in der Thylakoidmembran zu dem Cytochrom-b6f-Komplex.
+Der Komplex nimmt eine zentrale Rolle in der Elektronentransportkette ein und vermittelt zwei aufeinanderfolgende Elektronenübergänge.
+Das erste Elektron wird PQH2 durch das Rieske-Protein, ein 2-Eisen-2-Schwefel-Protein, entzogen.
+Dieses Protein verdankt seinen Namen dem Entdecker John S. Rieske, der 1964 mit Mitarbeitern das Protein isolierte.
+Das Rieske-Protein gibt das Elektron an das Cytochrom-f der Cytochrom-f-Untereinheit weiter.
+Das Cytochrom-f wiederum gibt ein Elektron an ein Plastocyanin ab.
+Das Plastocyanin befindet sich bei der Aufnahme des Elektrons an der dem Lumen zugewandten Seite des Cytochrom-b6f-Komplexes.
+
+Der zweite Elektronenübergang läuft über die membranintegrale b-Untereinheit des Cytochrom-b6-Komplexes welche zwei Cytochrome des b-Typs enthält.
+Diese übertragen das zweite Elektron vom Semichinon-Radikal PQH*- auf ein Plastochinon, welches durch H+ aus dem Stroma protoniert wird (Q-Zyklus).
+Die PQH2-Reoxidation am Cytochrom-b6f-Komplex ist mit einer Dauer von etwa 5 ms der langsamste und somit ratenlimitierende Schritt der Elektronentransportkette.
+Begründet ist dies wahrscheinlich in der notwendigen Konformationsänderung des Rieske-Proteins und der eingeschränkten Diffusion des PQH2 zum aktiven Zentrum des Komplexes, das sich in einer tief eingesenkten Tasche befindet.
+
+In Summa wird PQH2 zu PQ reoxidiert, ein Elektron wird im Q-Zyklus recycelt und ein Elektron wird schließlich auf das Protein Plastocyanin (PC), das ein Elektron aufnehmen kann, übertragen.
+Bei dieser Weitergabe wird außerdem pro Elektron ein Proton aus dem Stroma der Chloroplasten in das Thylakoidlumen transloziert.
+
+Plastocyanin ist ein wasserlösliches kupferhaltiges Protein, dessen Kupferatom zwischen den Oxidationsstufen CuI und CuII wechselt und somit ein Elektron aufnehmen und wieder abgeben kann.
+Es diffundiert dabei im Lumen des Thylakoiden.
+Von seiner Funktion ähnelt es dem Cytochrom c der Atmungskette.
+In einigen Cyanobakterien und Algen wird Plastocyanin durch die Variante Cytochrom c6 ersetzt.
+
+Das vom Cyt-b6f-Komplex freigesetzte reduzierte Plastocyanin gelangt schließlich an den Photosystemkomplex I (PS I).
+PS I enthält auch ein Chlorophyll-Molekülpaar und besitzt ein Absorptionsmaximum bei etwa 700 nm und ein Redoxpotential E'0=+0,45 V. Wie P680 im PS II wird das Chlorophyll-a-Paar im Reaktionszentrum in einen energetisch höheren Zustand versetzt (E'0=-1,3 V) und gibt ein Elektron ab.
+Dabei entsteht ein positives Chlorophyllradikal (Chl-a*+), das ein Elektron aus dem angedockten Plastocyanin aufnimmt und dadurch zu Chl-a reduziert wird.
+PC kann nach Abgabe des Elektrons wieder durch den Cyt-b6f-Komplex reduziert werden.
+
+Das Elektron, das durch das Chlorophyll-a-Molekül abgegeben wurde, trifft zunächst auf einen ersten Akzeptor, A0. Man geht davon aus, dass es sich hierbei um ein besonderes Chlorophyll handelt.
+Dieses ist ein ungewöhnlich starkes Reduktionsmittel und reduziert ein festgebundenes Phyllochinon (Q, auch A1).
+Von dort wird das Elektron an ein Eisen-Schwefel-Zentrum übertragen (Fx) und gelangt über weitere Eisen-Schwefel-Zentren (FA, FB) schließlich auf Ferredoxin (Fd).
+Dieses befindet sich an der Stromaseite der Thylakoidmembran.
+Das reduzierte Fd bindet an einer Ferredoxin-NADP-Reduktase und reduziert NADP+ zu NADPH.
+
+Der Elektronentransport ist an eine Protonentranslokation vom Stroma in das Lumen gekoppelt.
+Pro vollständig von Wasser auf NADPH übertragenem Elektron werden drei Protonen ins Lumen transloziert.
+Es entsteht somit ein Protonen-Konzentrationsunterschied (pH), sowie ein elektrisches Feld über der Thylakoidmembran, die in Summe protonmotorische Kraft H+ (engl. proton motive force) genannt wird.
+Die protonmotorische Kraft wird entsprechend Peter Mitchells chemiosmotischer Theorie durch die ATP-Synthase genutzt, um mit Hilfe von 14 Protonen drei ATP aus ADP und anorganischem Phosphat zu erzeugen.
+Dieser Vorgang wird auch Photophosphorylierung genannt.
+In der Bilanz werden durch den linearen Elektronentransport unter Berücksichtigung des Q-Zyklus je Elektron drei Protonen transportiert.
+Da zur Erzeugung von drei ATP nicht etwa 12, sondern 14 Protonen nötig sind, werden ATP und NADPH nicht etwa in einem Verhältnis von 3:2=1,5, sondern in einem festen Verhältnis von 9:7=1,3 erzeugt.
+
+=== Sauerstoffproduzierender Komplex
+
+Die Elektronenlücke des Chlorophyllradikals im Reaktionszentrum des PS II muss noch geschlossen werden.
+Hierbei werden die Elektronen aus Wasser (E'0=+0,82 V) bezogen.
+An dieser "Wasserspaltung" sind ein Tyrosinrest der D1-Untereinheit (Tyr161 = TyrZ) und ein Mangan-Cluster beteiligt.
+Das Chl a-Radikal entzieht dem reaktiven Tyrosinrest ein Elektron, wodurch dieser selbst zu einem Tyrosinradikal oxidiert wird.
+Damit das Tyrosinradikal wieder reduziert wird, benötigt es ein Elektron aus einem besonderen Metallkomplex, dem Mangan-Calcium-Cluster.
+Der Mangan-Calcium-Cluster (Mn4CaO5) ist der wichtigste Bestandteil des sauerstoffproduzierenden Komplexes ("oxygen-evolving complex", OEC).
+Der Cluster ist im Wesentlichen aus vier Manganatomen, einem Calciumatom und einem peripheren Chloratom aufgebaut.
+Diese ungewöhnliche Zusammensetzung von fünf Metallatomen ist äußerst selten.
+Es ist nur ein Beispiel einer CO-Monohydrogenase bekannt, bei dem andere Metallatome (Fe, Ni) über Schwefelbrücken eine ähnliche Zusammenstellung aufweisen.
+Funktionell kann das Calciumatom durch ein Strontiumatom und das essentielle Chloratom durch ein Bromatom ersetzt werden.
+
+Die genaue Geometrie der Metallatome ist trotz intensiver Studien noch nicht ganz geklärt.
+Möglicherweise liegen die Metallatome mit Sauerstoffatomen wie in der Abbildung rechts vor und werden von verschiedenen Aminosäuren der D1- bzw. CP43-Untereinheit komplexiert.
+Hierbei sind alle Manganatome von sechs Molekülen koordiniert und zwei Moleküle Wasser binden an Manganatom Nr. 4 (Mn4).
+
+Der Mn4CaO5-Cluster funktioniert wie eine Art Batterie.
+Nach und nach geben drei Manganionen jeweils ein Elektron ab und wechseln zwischen den Oxidationsstufen MnIII und MnIV (vgl. Abbildung).
+Dadurch können verschiedene Oxidationsstufen des Clusters (S0 bis S4) erreicht werden.
+Da die Elektronen im Cluster stark delokalisiert sind, ist das Nennen einer genauen Oxidationsstufe der Manganatome jedoch erschwert.
+Es wurde diskutiert, dass das vierte Manganatom im S4-Zustand eine formale Oxidationsstufe von V erreicht.
+Wahrscheinlicher ist indes, dass sich ein Oxoradikal bildet (vgl. Abbildung).
+2014 konnten Wissenschaftler mit Hilfe einer speziellen Anwendung von Röntgenstrahlung-Freie-Elektronen-Röntgenlasern (serielle Femtosekunden-Röntgenstrukturanalyse) Bilder der unterschiedlichen Anregungszustände des Photosystems II aufnehmen.
+Der genaue Oxidationszustand ist (Stand 2014) noch nicht eindeutig geklärt.
+Es wird postuliert, dass das Sauerstoffatom Nr. 5 (O5) nicht als Oxoligand (O2-) vorliegt, sondern als Wassermolekül während des S0-Zustandes und als Hydroxidion (OH-) während des S1-Zustandes.
+Ferner soll es eines der beiden Wassermoleküle sein, die im Zuge der Wasserspaltung zur Sauerstoffbildung dienen.
+
+Erst wenn vier Elektronen an das TyrZ abgegeben wurden (S4), wird Sauerstoff gebildet und freigesetzt und der reduzierte Zustand (S0) ist wieder erreicht.
+Dieser Zyklus wird auch als "Kok-Zyklus" bezeichnet.
+Für das Freisetzen eines Moleküls Sauerstoffs werden insgesamt vier Exzitone benötigt, was die Untersuchungen von Pierre Joliot und Bessel Kok ergeben haben.
+
+Vermutlich würde ein schrittweises Oxidieren des Wassers viele reaktive Sauerstoffspezies (ROS) freisetzen.
+Mit dem oben geschilderten Mechanismus wird dieses Risiko also minimiert.
+Das Besondere an diesem Enzym ist jedoch nicht die Tatsache, dass es Sauerstoff freisetzt (Katalasen könnten dies auch tun), sondern dass es zwischen zwei Wassermolekülen eine O-O-Bindung ausbildet.
+
+=== Zyklische Photophosphorylierung
+
+Der zyklische Elektronentransport in der Lichtreaktion erfolgt nur beim Photosystem I.
+Dabei werden die Elektronen vom Ferredoxin nicht wie bei dem üblichen nicht-zyklischen Elektronentransport an die NADP+-Reduktase weitergegeben (siehe oben), sondern zurück zum Cytochrom-b6f-Komplex geführt.
+Von dort gelangen die Elektronen zurück zum Photosystem I und füllen schließlich die Elektronenlücke im Reaktionszentrum.
+Bei dem Prozess wird zwar kein NADPH gebildet, stattdessen eine protonmotorische Kraft aufgebaut, die der ATP-Gewinnung dient.
+Da es sich dabei um einen Kreislauf handelt, heißt dieser Vorgang auch zyklische Photophosphorylierung.
+
+C4-Pflanzen haben einen erhöhten ATP-Bedarf und könnten somit die zyklische Photophosphorylierung intensiver nutzen als C3-Pflanzen.
+Aber auch letztere sind auf eine zyklische Photophosphorylierung angewiesen, um den Bedarf an NADPH und ATP für den Calvin-Zyklus (inklusive Photorespiration) stöchiometrisch zu decken.
+
+=== Pseudozyklischer Elektronentransport
+
+Im nicht-zyklischen Elektronentransport gibt Ferredoxin (Fd) sein Elektron auf NADP+ ab, so dass NADPH entsteht.
+Durch den hohen Reduktionsgrad besteht aber auch die Möglichkeit, dass das Elektron an Sauerstoff (O2) übertragen wird.
+Dabei entsteht das Superoxidradikal in der sogenannten Mehler-Reaktion.
+Sie wurde nach den Arbeiten von Alan H. Mehler benannt:
+
+Dieses Radikal gehört zu den hoch reaktiven Sauerstoffspezies (ROS) und kann Proteine, Membranen sowie DNA schädigen.
+Daher wird dieses zunächst mit einer Superoxiddismutase (EC 1.15.1.1) zu Sauerstoff und Wasserstoffperoxid (H2O2) disproportioniert.
+Die Reaktion kann aber auch spontan ablaufen:
+
+Wasserstoffperoxid ist ebenfalls eine ROS und wird durch eine in den Thylakoidmembranen vorhandene Ascorbat-Peroxidase (EC 1.11.1.11) unschädlich gemacht.
+Bei dieser Entgiftung wird Ascorbat zu Monodehydroascorbat oxidiert, während H2O2 zu Wasser reduziert wird.
+Durch vorhandenes Ferredoxin wird Monodehydroascorbat wieder zu Ascorbat regeneriert.
+In der Bilanz ergibt sich damit:
+
+und damit insgesamt :
+
+Aus der Wasserspaltung am PS II werden normalerweise vier Elektronen freigesetzt und auf Ferredoxin übertragen.
+Diese werden nun im Verlauf der Mehler-Reaktion wiederum zur Wasserbildung verwendet, so dass man von einem pseudozyklischen Elektronentransport spricht.
+Wie im zyklischen Elektronentransport werden die Elektronen nicht auf NADP+ übertragen.
+Dieser Zyklus wurde in der Literatur auch als Wasser-Wasser-Zyklus (water-water cycle) bezeichnet:
+Ein Molekül Wasser wird gespalten und später ein anderes wieder erzeugt.
+In der Gesamtbilanz wird also formal die Wasserspaltung des PS II umgekehrt und keine Reduktionsäquivalente aufgebaut.
+
+Die Mehler-Reaktion tritt v. a. dann auf, wenn viel reduziertes NADPH und damit auch viel reduziertes Ferredoxin vorliegt.
+Beim pseudozyklischen Elektronentransport wird wie beim zyklischen nur ein Protonengradient im Q-Zyklus erzeugt, so dass ATP generiert wird.
+Normalerweise fehlt unter diesen Bedingungen aber ADP zum Aufbau von ATP, so dass nur ein hoher Protonengradient entsteht.
+Überschüssige Anregungsenergie kann damit leicht in Wärme umgewandelt werden.
+Möglicherweise dient dies als "Überlaufventil" unter hohen Lichtstärken und schützt dabei das Photosystem II nicht nur in Pflanzen, sondern auch in allen photosynthetisch aktiven Algen und Cyanobakterien.
+Dies setzt aber voraus, dass genügend Ascorbat vorliegt.
+
+Zwei Moleküle Monodehydroascorbat können aber auch zu Ascorbat und Dehydroascorbat disproportionieren.
+Um Dehydroascorbat zu regenerieren, wird Glutathion oxidiert, welches wiederum durch eine Glutathion-Reduktase (EC 1.8.1.7) reduziert wird.
+Dabei wird NADPH verbraucht.
+Formal ändert dies aber nichts an der oben beschriebenen Gesamtbilanz.
+
+=== Regulation des Elektronentransports der oxygenen Photosynthese
+
+Werden Elektronen oder Anregungszustände unkontrolliert auf Sauerstoff übertragen, kann es zu Schädigungen etwa des Photosyntheseapparates, der Membransysteme und der Proteine kommen.
+Eine Regulation des Elektronentransports ist deshalb äußerst wichtig.
+Nicht zuletzt muss er auch auf den Bedarf der Pflanze an NADPH und ATP angepasst werden.
+Langfristige, auf transkriptionaler Ebene stattfindende Regulationsmechanismen werden in diesem Abschnitt nicht beleuchtet, finden aber definitiv statt.
+
+==== Laterale Ungleichverteilung der Photosynthesekomplexe in der Thylakoidmembran
+
+Die Photosynthesekomplexe Photosystem II PS II, Cytochrom-b6f und Photosystem I PS I sind in die Thylakoidmembran eingebettet.
+Die Photosysteme sind dabei jedoch lateral nicht gleichmäßig verteilt.
+PS II befindet sich wegen seiner Interaktion mit den Lichtsammelkomplexen in den gestapelten Bereichen des Thylakoiden (Granalamellen), die stromale Seite von PS I muss für die NADP+-Reduktion frei zugänglich sein und befindet sich deshalb in Bereichen, die dem Stroma exponiert sind.
+Dazu gehören ungestapelte Bereiche (Stromalamellen, Nr. 8 in rechter Abbildung), sowie die Randbereiche des Granastapels (margins und end membranes).
+Auch die ATP-Synthase benötigt Platz auf der Stromaseite der Membran und ist somit nur in diesen Bereichen zu finden.
+
+Die räumliche Trennung der beiden Photosysteme soll des Weiteren ein unkontrolliertes Überfließen (spillover) der Exzitonen vom PS-II- zum PS-I-Komplex verhindern.
+Während nämlich Exzitonen höchst effizient von den Antennen zum PS I abfließen (funnel trap), kann die Anregungsenergie sogar aus dem PS II wieder herausspringen (shallow trap).
+Daher würden bei einer direkten Nachbarschaft der beiden Photosynthesekomplexe die Exzitonen auf Kosten des PS II häufiger dem PS I zugeschlagen werden.
+
+==== Umverteilung der Lichtsammelkomplexe LHC-II (state transitions)
+
+Unter bestimmten Umständen können die Photosysteme unterschiedlich stark angeregt werden, da sie unterschiedliche Absorptionsspektren besitzen.
+Perzipiert wird dieser Zustand von der Pflanze über den Redoxzustand des Plastochinon-Pools.
+
+Die Umverteilung der LHCs wird state transitions (engl., etwa "Zustandswechsel") genannt:
+Sind alle LHC-II mit PS II assoziiert, liegt Zustand 1 (state 1) vor.
+Sind sie jedoch mit PS I assoziiert, liegt Zustand 2 vor (state 2).
+
+==== Thermische Dissipation überschüssiger Energie
+
+Unter bestimmten Umständen wird mehr NADPH und ATP erzeugt, als von der Dunkelreaktion verbraucht werden kann.
+Dies kann beispielsweise bei hoher Lichtintensität der Fall sein, oder auch bei hohen Temperaturen oder Trockenstress, wenn die Spaltöffnungen geschlossen werden, um den Wasserverlust zu drosseln.
+Damit ist auch die Aufnahme von CO2 reduziert, sodass die Dunkelreaktion durch die CO2-Konzentration limitiert und verlangsamt wird.
+Bei niedrigen Temperaturen ist vor allem die enzymatische Aktivität des Stoffwechsels verlangsamt, die Elektronentransfers in der Lichtreaktion jedoch kaum, sodass ATP und NADPH im Überschuss erzeugt werden.
+Da der Elektronentransportkette in diesen Fällen kein Akzeptor für die gewonnenen Elektronen zur Verfügung steht, erhöht sich die Wahrscheinlichkeit für die Bildung reaktiver Sauerstoffspezies (ROS), die den Photosyntheseapparat und die Zelle beschädigen können.
+
+Um die überschüssige Energie abzuleiten, tritt Zeaxanthin als Teil des Xanthophyllzyklus in Aktion.
+Hierbei bindet Zeaxanthin an eine Untereinheit des LHC-II-Komplexes und kann die Energie angeregter Chlorophyllmoleküle aufnehmen und als Wärme abgeben.
+Etwa 50-70 % aller absorbierten Photonen wird auf diese Weise in Wärme überführt.
+Bei Kieselalgen wird anstatt Zeaxanthin Diatoxanthin in einem ähnlichen Zyklus verwendet.
+
+Zur Beseitigung überschüssiger Lichtenergie trägt neben den oben genannten Reaktionen insbesondere bei Trockenstress auch die Reassimilation des durch Photorespiration freigesetzten CO2 bei, der Anteil der einzelnen Prozesse am Verbrauch der Lichtenergie variiert allerdings in Abhängigkeit vom untersuchten Blattgewebe (Palisaden- oder Schwammparenchym), von der untersuchten Pflanzenart und vom Typ des Stoffwechsels (C3- oder C4-Pflanze).
+
+== Anoxygene Photosynthese
+
+Viele phototrophe Bakterien betreiben eine anoxygene Photosynthese.
+Hierbei ist ein einziges Photosystem involviert, entweder eines mit einem Reaktionszentrum des pflanzlichen Typs I (PS I) oder Typs II (PS II).
+Im Gegensatz zu Cyanobakterien und phototrophen Eukaryoten enthalten die Reaktionszentren Bakteriochlorophylle.
+Wie bei der oxygenen Photosynthese wird dieses Chlorophyllenpaar (special pair) durch Lichtenergie angeregt, wodurch sein Redoxpotential stark abfällt.
+Dadurch gibt das angeregte Bakteriochlorophyllpaar sein Elektron an einem primären Akzeptor ab.
+Je nach Reaktionszentrum ist der erste stabile Elektronenakzeptor entweder ein Eisen-Schwefel-Protein (PS I) oder ein Chinon (PS II).
+Von dort wird es über einen Q-Zyklus schließlich zurück zum Reaktionszentrum geleitet (zyklischer Elektronentransport).
+Bei diesem Vorgang wird ein Protonenkonzentrationsunterschied aufgebaut, durch den eine ATPase betrieben wird.
+Da zwar ATP, aber kein Reduktionsmittel aufgebaut wird, muss letzteres aus externen Elektronendonatoren (anorganische oder organische Verbindungen) gebildet werden.
+
+Neben diesem zyklischen Elektronentransport gibt es auch einen nicht-zyklischen, durch den Reduktionsmittel direkt gebildet werden.
+Um die dadurch entstehende Elektronenlücke zu füllen, werden externe Elektronendonatoren verwendet, beispielsweise H2S, zweiwertige Eisen-Ionen (Fe2+) oder Nitrit (NO2-) Hierbei entstehen elementarer Schwefel (S), dreiwertige Eisenionen (Fe3+) bzw. Nitrat (NO3-) als Reaktionsprodukte.
+
+Das Redoxpotential des Bakteriochlorophyll-Pigmentes reicht für eine Wasserspaltung nicht aus.
+Dementsprechend fehlt ein wasserspaltender Komplex (vgl. oben).
+Wasser kann also bei der anoxygenen Photosynthese nicht als Elektronenquelle verwendet werden und somit kann auch kein molekularer Sauerstoff entstehen.
+
+=== Anoxygene Photosynthese des Typs II
+
+Grüne Nichtschwefelbakterien (Chloroflexi) und Purpurbakterien (Schwefelpurpurbakterien und schwefelfreie Purpurbakterien) verwenden bei der anoxygenen Photosynthese ein Reaktionszentrum des Typs II.
+Das Absorptionsmaximum des Bakteriochlorophylls a bzw. b im Zentrum liegt bei 870 nm.
+Gelangt dieses durch Lichtenergie in einen angeregten Zustand, fällt sein Standardredoxpotential E'0 von +0,6 V auf -0,8 V stark ab.
+Es gibt sein Elektron auf ein Bakteriophäophytin ab.
+Von dort gelangt es über ein fest gebundenes Menachinon (QA) schließlich auf ein assoziiertes Chinon (QB, E'0=+0,0 V).
+Falls dieses durch zwei Elektronen zum Chinol reduziert wird, verlässt es den PS II-Komplex und diffundiert in der Membran zu einem Cytochrom bc1-Komplex.
+Während des Q-Zyklus werden die Elektronen auf diesen Komplex übertragen, dabei wird ein Protongradient (H+) aufgebaut.
+Dieser betreibt eine ATPase, wodurch ATP gebildet wird.
+Das Elektron im Cytochrom bc1-Komplex gelangt von dort auf ein Cytochrom c (Cyt c2), was membranassoziiert im Cytoplasma zum Reaktionszentrum zurückdiffundiert.
+Dort wird die Elektronenlücke durch Oxidation des Cyt c2 geschlossen, ein neuer zyklischer Elektronentransport kann beginnen.
+
+Um Reduktionsmittel zu bilden, oxidieren schwefelfreie Purpurbakterien (Rhodospirillum, Rhodobacter) und Grüne Nichtschwefelbakterien (z. B. Chloroflexus) bevorzugt organische Verbindungen; sie wachsen damit meistens photoorganothroph.
+Die meisten anoxygen phototrophen Bakterien können aber auch (CO2) fixieren, wenn sie anorganische Elektronendonatoren wie Wasserstoff (H2) oder auch (H2S) nutzen, damit sind sie daher oft auch fakultativ photolithoautotroph.
+
+Das Chinon kann seine Elektronen aber auch in einem nicht-zyklischen Elektronentransport auf NAD(P)+ übertragen, was eine NADH-Chinon-Oxidoreduktase katalysiert.
+Jedoch ist das Redoxpotential des Chinons zu hoch, um NAD(P)+ (E'0=-0,32 V) direkt zu reduzieren.
+Daher wird für diesen revertierten (rückläufigen) Elektronentransport Energie in Form der protonenmotorischen Kraft H+ angezapft.
+Da das Elektron aus dem Kreislauf entnommen wurde, verbleibt das Bakteriochlorophyll a im Reaktionszentrum zunächst als positiv geladenes Radikal.
+Um diese Lücke zu schließen, werden Elektronen aus externen Quellen verwendet.
+Schwefelpurpurbakterien (z. B. Chromatium, Ectothiorhodospira) oxidieren hierzu H2S zu Schwefel, welcher intra- oder extrazellulär abgelagert wird.
+
+Bei Rhodopseudomonas viridis, einem Purpurbakterium, sind die Kinetiken der Elektronenübertragung bekannt.
+Nach Anregung des Bakteriochlorophyllenpaares gelangt das Elektron nach 3 ps auf das Bakteriophäophytin.
+Von dort wird es nach 200 ps auf das Menachinon QA transferiert und gelangt von dort relativ langsam (6 s) zum Ubichinon QB.
+Die Elektronenlücke im Bakteriochlorophyllenpaar des Reaktionszentrums wird durch Cytochrom c2 nach 0,27 s geschlossen.
+
+=== Anoxygene Photosynthese des Typs I
+
+Grüne Schwefelbakterien (z. B. Chlorobium) bzw. auch Heliobacteriaceae (Heliobacterium) verfügen über ein Reaktionszentrum des Typs I.
+Bei ersteren liegt ein Bakteriochlorophyll a mit einem Absorptionsmaximum von 840 nm, bei Heliobakterien ein Bakteriochlorophyll g mit 798 nm vor.
+Im zyklischen Elektronentransport gelangt das Bakteriochlorophyll a (E'0=+0,3 V) nach Anregung durch Licht in einen energetisch höheren Zustand (E'0=-1,2 V) und gibt sein Elektron an ein weiteres Bakteriochlorophyll ab.
+Von dort gelangt es über ein fest gebundenes Menachinon und diverse Eisen-Schwefel-Zentren (Fx, FA/FB, E'0=-0,5 V) auf Ferredoxin (Fd).
+Fd gibt sein Elektron an in der Membran lokalisiertes Menachinon ab, welches in einen Q-Zyklus eingespeist wird.
+Hierbei wird ein Protonenkonzentrationsunterschied an der Membran aufgebaut.
+Über einen Cyt bc1-Komplex wird schließlich eine Tetracytochromeinheit (Cyt c553) reduziert, welche zur PS I zurückkehrt, um die Elektronenlücke im Reaktionszentrum zu schließen.
+
+Auch hier besteht die Möglichkeit eines nichtzyklischen Elektronentransportes:
+Wenn die Elektronen vom Eisen-Schwefel-Zentrum auf ein Ferredoxin übertragen werden, gelangen sie von dort auf NAD(P)+.
+Dieses katalysiert eine Ferredoxin-NADP+-Oxidoreduktase.
+Da das Redoxpotential des Fd niedriger ist als das von NAD(P)+, kann diese Reaktion ohne Energieaufwand ablaufen.
+Um die entstandene Elektronenlücke beim Bakteriochlorophyll im nicht-zyklischen Elektronentransport zu füllen, oxidieren beispielsweise Grüne Schwefelbakterien H2S zu Schwefel.
+
+Bei Heliobakterien ist kein Weg bekannt CO2 zu fixieren.
+Sie besitzen kein RuBisCO bzw. keine ATP-Citrat-Lyase (für den reduktiven Citratzyklus), sondern vergären organische Verbindungen wie Pyruvat, Lactat, Butyrat und Acetat.
+Manche Stämme können auch mit Zuckern und mit Ethanol wachsen.
+Damit wachsen sie heterotroph.
+
+=== Anoxygene Photosynthese in der Tiefsee
+
+Die meisten photosynthetisch aktiven Organismen nutzen die einfallende Sonnenstrahlung als Lichtenergie, weshalb die Photosynthese hauptsächlich an der Erdoberfläche stattfindet.
+An einem etwa 2.500 Meter tiefen schwarzen Raucher am ostpazifischen Rücken wurde ein Grünes Schwefelbakterium entdeckt, das eine anoxygene Photosynthese mit Schwefelwasserstoff oder Schwefel als Reduktans betreibt.
+In dieser Tiefe gelangt kein Sonnenlicht zu den Bakterien.
+Seine äußerst lichtempfindlichen Chlorosomen vermögen aber die schwache Infrarotstrahlung der hydrothermalen Quelle aufzufangen und für die Photosynthese nutzbar zu machen.
+
+== Kohlenstoffdioxid-Assimilation
+
+Die in der Lichtreaktion gewonnenen Reduktionsäquivalente und ATP werden zum Aufbau von Kohlenhydraten genutzt.
+Die dabei ablaufenden Vorgänge werden daher auch als Sekundärreaktion der Photosynthese bezeichnet.
+Da sie nicht direkt vom Licht abhängig sind, werden sie auch als Dunkelreaktion bezeichnet.
+Diese Bezeichnung ist aber irreführend.
+Sie entspricht zwar der Tatsache, dass die Prozesse getrennt von der "Lichtreaktion" der Photosynthese ablaufen und per se auch kein Licht benötigen.
+Da sie jedoch ATP und NADPH aus der Lichtreaktion benötigen, findet die Dunkelreaktion nicht im Dunkeln statt und ist zumindest indirekt vom Licht abhängig.
+Zudem sind einige der involvierten Enzyme nur im Licht aktiv.
+
+Für die Kohlenstoffdioxidassimilation gibt es verschiedene Möglichkeiten:
+
+=== Calvin-Zyklus
+
+Alle Organismen mit oxygener Photosynthese sowie auch einige Mikroorganismen mit anoxygener Photosynthese (Purpurbakterien) können Kohlenstoffdioxid im sogenannten Calvin-Zyklus fixieren.
+Als Wesensmerkmal kondensiert hierbei CO2 an Ribulose-1,5-bisphosphat (RubP), was durch das Enzym Ribulose-1,5-bisphosphat-Carboxylase/-Oxygenase (RuBisCO) katalysiert wird.
+Durch folgende Reduktionen unter Verbrauch von NADPH und ATP wird Glycerinaldehyd-3-phosphat (G3P) aufgebaut.
+Die Reaktionen finden bei Pflanzen in den Stroma der Chloroplasten statt.
+Die an diesem Prozess beteiligten Enzyme sind sauerstoffunempfindlich.
+Jedoch neigt RuBisCO dazu, Sauerstoff anstatt Kohlenstoffdioxid zu verwenden (Photorespiration), was die Effizienz der Kohlenstoffdioxidfixierung verringert.
+
+Bei der Fixierung des Kohlendioxids werden drei Varianten unterschieden.
+Die meisten Pflanzen gehören dabei zum Typ der C3-Pflanzen, deren erstes nachweisbares Zwischenprodukt (G3P) drei Kohlenstoffatome enthält.
+C4-Pflanzen haben sich anatomisch und vom Stoffwechseltyp an starke Sonneneinstrahlung angepasst und sind in dem Bereich leistungsfähiger.
+Bei ihnen findet eine räumlich getrennte CO2-Vorfixierung statt.
+CAM-Pflanzen können dagegen die primäre CO2-Fixierung von der eigentlichen Photosynthese zeitlich trennen und bei Wassermangel ihre Stomata nur nachts öffnen und das aufgenommene Kohlendioxid in Form von Äpfelsäure speichern.
+Nach Sonnenaufgang schließen sie die Stomata, setzen das Kohlendioxid aus der Äpfelsäure frei und führen es dem Calvinzyklus zu.
+
+=== Reduktiver Citratzyklus
+
+Im Zuge der anoxygenen Photosynthese bei grünen Schwefelbakterien bzw. grünen Nichtschwefelbakterien wird CO2 durch den reduktiven Citratzyklus bzw. den Hydroxypropionatzyklus assimiliert.
+
+=== Heliobakterien
+
+Heliobakterien sind zwar nur photoheterotroph und nicht photoautotroph, weil sie nicht mit CO2 als alleiniger Kohlenstoffquelle wachsen, sondern organische C-Quellen benötigen, wie beispielsweise Gärprodukte.
+Sie können aber über mehrere anaplerotische Reaktionen eines unvollständigen reduktiven Citratzyklus trotzdem CO2 assimilieren.
+Dafür benötigtes Reduktionsmittel und ATP gewinnen sie über ein anoxygenes Typ-I-Photosystem.
+
+== Energiebilanz
+
+Für die Quantifizierung des Effekts der Photosynthese im Verhältnis zur aufgewendeten Energie gibt es verschiedene Größen.
+
+Der Wirkungsgrad ist das Verhältnis der Zunahme des Energiegehalts bei der Synthese des Photosyntheseprodukts zu der für die Photosynthese aufgewendeten Lichtenergie, er ist also ein dimensionsloser Quotient (0-1 oder 0-100 %).
+Auch andere Größen für das Photosyntheseprodukt (z. B. Masse oder Stoffmenge) können zum Energieaufwand ins Verhältnis gesetzt werden.
+Die erhaltenen Größen bezeichnet man als Effektivität, deren Maßeinheit der gewählten Größe für das Photosyntheseprodukt entspricht (z. B. Gramm je Joule bzw. Mol je Joule).
+
+Soll der primäre Effekt der Photosynthese eines Chloroplasten oder eines Mikroorganismus dargestellt werden, so wird der Energiegehalt (Maßeinheit Joule), die Masse (Maßeinheit Gramm) oder die Stoffmenge (Maßeinheit Mol) eines der ersten Syntheseprodukte, in der Regel Glucose, eingesetzt.
+Für Betrachtungen einer ganzen Pflanze, einer Pflanzengesellschaft, einer Mikroorganismenpopulation oder für globale Betrachtungen ist es günstig, die Masse der gesamten gebildeten Biotrockenmasse (oder des in ihr enthaltenen Kohlenstoffs) einzusetzen.
+
+Bei der Frage, welchen Energiegehalt das zur Verfügung stehende Licht hat, gibt es verschiedene Ansatzpunkte.
+Entweder wird die Energie des gesamten Spektrums der Einstrahlung von der Sonne berücksichtigt.
+Oder es wird nur der Teil des Spektrums für die Berechnungen herangezogen, der prinzipiell für die Photosynthese nutzbar ist.
+Dieser Anteil der Strahlung stellt die photosynthetisch nutzbare Strahlung dar (englisch "photosynthetically active radiation", Abkürzung "PAR").
+Je nach angenommenem Wellenlängenbereich beträgt die Energie der PAR 40 bis 50 Prozent derjenigen der gesamten Einstrahlung.
+Bei Pflanzen und Algen wird - je nach Autor - teils der Wellenlängenbereich von 360 bis 720 nm angenommen, teils der von 360 bis 700 nm und teils der von 400 bis 700 nm.
+
+Der theoretische Wirkungsgrad  {\displaystyle \eta } der Photosynthese ergibt sich aus dem Verhältnis der gewonnenen chemischen Energie E c h e m {\displaystyle E_{\mathrm {chem} }} zu der absorbierten Energie der elektromagnetischen Strahlung E a b s {\displaystyle E_{\mathrm {abs} }} :
+
+== Energiebilanz bei Pflanzen und anderen Organismen mit oxygener Photosynthese
+
+=== Wirkungsgrad
+
+Um aus 6 Mol CO2 im Calvin-Zyklus 1 Mol Kohlenhydrat D-Glucose aufzubauen, werden unter Standardbedingungen 2872 kJ benötigt:
+
+Die benötigte Energie wird durch NADPH + H+ und ATP bereitgestellt, die bei der Primärreaktion durch Licht entstehen.
+
+Durch Photolyse von Wasser werden je Mol O2 2 Mol NADPH + H+ gebildet.
+Die gebildete Menge ATP je Mol O2 hängt vom Q-Zyklus ab und beträgt ohne Q-Zyklus 2 Mol und bei vollständigen Q-Zyklus 3 Mol.
+Bezogen auf die Bildung von einem Molekül Glucose müssen also 12 Mol NADPH und 12 Mol bzw. 18 Mol ATP in der Sekundärreaktion zur Verfügung stehen.
+
+Die molare freie Standardbildungsenthalpie für NADPH + H+ beträgt:
+
+Die molare freie Standardbildungsenthalpie für ATP aus ADP + Pi beträgt:
+
+Daher liegt der Ertrag der endergonischen Lichtreaktion je Mol O2 zwischen:
+
+Sowohl E c h e m 1 {\displaystyle {E_{chem_{1 } } } } als auch E c h e m 2 {\displaystyle {E_{chem_{2}}} } liegen über der molaren freien Standardbildungsenthalpie für die CO2-Fixierung von 2872 kJ/ mol.
+
+In der endergonischen Lichtreaktion müssen dafür an den beiden Photosystemen jeweils 4 Exzitone als Anregungsenergie absorbiert werden, also mindestens 4 Mol Photonen mit einer Wellenlänge von 680 nm am PS II und mindestens ebenso viele mit einer Wellenlänge von 700 nm am PS I.
+Die Energie der Photonen beträgt:
+
+Experimentell wurde anhand der Quantenausbeute jedoch ein Bedarf von 9 bis 10 Photonen ermittelt.
+Da 6 Mol Wasser gespalten werden, um 1 Mol Glucose zu bilden, liegt die absorbierte elektromagnetische Energie daher zwischen:
+
+Daraus ergeben sich für den Wirkungsgrad Werte zwischen:
+
+Da in natürlicher Umgebung - also im Sonnenlicht - nicht nur Photonen des roten Teils des Spektrums einstrahlen, liegt der tatsächliche (Brutto)-Wirkungsgrad bei maximal 20 %.
+
+=== Nettoprimärproduktion
+
+Die Effektivität der Photosynthese bezogen auf das gesamte auf die Erde einfallende Sonnenlicht lässt sich wie folgt angeben:
+
+Von der Pflanze wird also nur ein kleiner Teil der auftreffenden Sonnenenergie genutzt, um Kohlenstoffdioxid in der Nettoprimärproduktion zu Zellmaterial aufzubauen.
+Da ein Teil der Energie verwendet wird, um den Metabolismus aufrechtzuerhalten, wird der oben abgeschätzte (Brutto-)Wirkungsgrad von 20 % noch weiter reduziert.
+Daher sinkt der (Netto)-Wirkungsgrad auf maximal 1 bis 2 %, abhängig von den vorherrschenden Umweltbedingungen.
+
+Die gesamte jährliche Nettoprimärproduktion wird auf 1,54*1011 Tonnen pflanzlicher Biomasse (Trockenmasse) geschätzt.
+
+Ein Hektar Laubwald baut etwa pro Jahr 12 Tonnen organische Stoffe in der Nettoprimärproduktion auf.
+Diese Biomasse entspricht einem Energiegehalt von 230*109 Joule.
+
+Die tatsächliche Effektivität unter Feldbedingungen ist jedoch aus verschiedenen Gründen geringer, unter anderem wegen suboptimaler Kohlenstoffdioxidkonzentration.
+
+=== Abhängigkeit von abiotischen Faktoren
+
+Die Photosynthese ist von einigen abiotischen Faktoren abhängig, die sich auch gegenseitig beeinflussen.
+Dabei gilt das Gesetz des Minimums:
+Die Photosynthese wird durch die im Verhältnis knappste Ressource eingeschränkt.
+Um die Photosynthese zu quantifizieren, kann man die sogenannte Photosyntheserate definieren.
+Sie wird entweder als die Menge produzierten Sauerstoffs oder Glucose je Zeiteinheit gemessen.
+Sie kann auch als CO2-Aufnahme je Zeiteinheit angegeben werden.
+
+Wachstum und Ertrag bei Kulturpflanzen werden durch Berücksichtigung unten genannter Faktoren in Gewächshauskulturen gesteigert.
+
+==== Kohlenstoffdioxid
+
+Da in der Photosynthese Kohlenstoffdioxid fixiert wird, ist diese von einer ausreichend hohen CO2-Konzentration abhängig.
+In der heutigen Erdatmosphäre (2019) beträgt die CO2-Konzentration 0,041 Volumen-% (Vol.-%).
+In 1  m^3 Luft befinden sich bei Raumtemperatur damit 14 bis 19 mmol CO2.
+
+Die Photosyntheserate von C3-Pflanzen erhöht sich mit steigender CO2-Konzentration der Luft (vgl. Abbildung rechts).
+Erst bei ausreichend hoher CO2-Konzentration übertrifft sie die Photosyntheserate der C4-Pflanzen.
+Unter atmosphärischen Bedingungen (0,04 Vol.-%) ist die Photosynthese bei C3-Pflanzen der von C4-Pflanzen immer unterlegen und suboptimal.
+Falls die CO2-Konzentration zu stark fällt, übersteigt der Kohlenstoffverlust der Atmung den Kohlenstoffgewinn der Photosynthese.
+Der Punkt, an dem sich Atmung und Photosynthese, also CO2-Bildung und -Fixierung, in der Waage halten, ist der CO2-Kompensationspunkt .
+Dieser Punkt liegt bei C3-Pflanzen bei C3 = 0,005 bis 0,010 Vol.-% CO2-Konzentration, eine Sättigung der Photosyntheserate tritt bei 0,05 bis 0,10 Vol.-% ein.
+Bei C4-Pflanzen liegt C4 bei 0,001 Vol.-%.
+Durch ihre CO2-Pumpe können diese Pflanzen somit auch bei einer sehr niedrigen CO2-Konzentration Photosynthese betreiben.
+
+Die lokale CO2-Konzentration in bodennahen Luftschichten kann durch Düngung mit Kompost erhöht werden.
+Hierbei verwerten Mikroorganismen das organische Material oxidativ, so dass u. a. CO2 freigesetzt wird.
+In Gewächshäusern wird die CO2-Konzentration durch Begasung erhöht und führt über eine gesteigerte Photosynthese zu vermehrter Biomasseausbeute.
+Jedoch darf die Lichtintensität nicht zum begrenzenden Faktor werden (vgl. nächsten Abschnitt).
+
+Eine zu hohe CO2-Konzentration (über 1 Vol.-%) kann vielen Pflanzen schaden.
+
+==== Licht
+
+Die Photosynthese ist ein lichtbetriebener Prozess und die Photosyntheserate hängt in erster Linie von der Lichtstärke ab.
+Bis zu einer artspezifischen Lichtstärke nimmt die Photosyntheserate mit der Lichtstärke zu.
+Häufig folgen die Blätter einer Pflanze dem Sonnenstand und sind möglichst senkrecht zum Licht ausgerichtet, um die Beleuchtungsstärke zu erhöhen.
+Auch die Stellung der Chloroplasten wird für eine möglichst hohe Photosyntheserate ausgerichtet.
+Bei Schwachlicht, zum Beispiel bei starker Bewölkung, ist die Breitseite der Chloroplasten dem Licht ausgesetzt, während dies unter Starklicht die Schmalseite ist.
+Diese Orientierung wird durch das Cytoskelett vermittelt.
+
+Bei C3-Pflanzen tritt bei zunehmender Beleuchtungsstärke eine Sättigung ein, eine weitere Erhöhung der Beleuchtungsstärke erhöht die Photosyntheserate nicht.
+Dieser Punkt ist der Lichtsättigungspunkt.
+Der Grund dafür ist die begrenzende CO2-Konzentration der Luft.
+Diese ist mit 0,03 Vol.-% bei C3-Pflanzen suboptimal (vgl. Abschnitt oben).
+C4-Pflanzen sind jedoch im Vergleich zu C3-Pflanzen nicht von der atmosphärischen CO2-Konzentration abhängig.
+Daher erfährt ihre Photosyntheserate bei Erhöhung der Lichtintensität - selbst im vollen Sonnenlicht - keine Sättigung und ist immer lichtlimitiert.
+Weiterhin tritt die Lichtsättigung bei verschiedenen Pflanzen bei verschiedenen Beleuchtungsstärken ein: "Lichtpflanzen" und "Schattenpflanzen".
+
+An niedrigere Lichtstärken sind die so genannten "Schattenpflanzen", an höhere die sogenannten "Sonnenpflanzen" oder "Lichtpflanzen" angepasst.
+Auch innerhalb ein und derselben Pflanze kann es zu einer analogen Differenzierung der Blattform kommen.
+So gibt es bei der Buche beispielsweise dicke, kleine Sonnenblätter, während die dünnen, großen Schattenblätter sich in Bodennähe bei geringeren Lichtintensitäten befinden.
+Auch das Palisadenparenchym ist bei den Sonnenblättern vielschichtiger, so dass die starke Sonnenstrahlung besser ausgenutzt werden kann.
+
+Sonnenpflanzen (und Sonnenblätter) wie Kresse haben erst bei hohen Lichtstärken eine hohe Photosyntheserate, die Lichtsättigung liegt hier viel höher als bei Schattenpflanzen (bzw. Schattenblättern).
+Schattenpflanzen, beispielsweise Sauerklee, können bereits bei geringeren Lichtintensitäten Photosynthese betreiben.
+Jedoch ist bei ihnen die Photosyntheserate niedriger als bei Sonnenpflanzen, da die Lichtsättigung bei niedrigen Beleuchtungsstärken erreicht wird (vgl. auch Abbildung).
+
+Bei niedrigen Beleuchtungsstärken läuft die Photosynthese mit sehr geringer Effizienz ab, so dass der Kohlenstoffgewinn in Form von Assimilaten (und die Erzeugung von Sauerstoff) geringer ist als der Kohlenstoff(Assimilat-)verlust (und Sauerstoffverbrauch) in der Zellatmung.
+Der Punkt, an dem sich Photosynthese und Zellatmung in der Waage halten, ist der Lichtkompensationspunkt.
+Dieser ist bei verschiedenen Pflanzen verschieden hoch, bei C4-Pflanzen am höchsten, niedriger bei Sonnenpflanzen.
+Schattenpflanzen haben den geringsten Lichtkompensationspunkt und können infolgedessen auch bei sehr niedrigen Lichtintensitäten noch Netto-Photosynthese betreiben.
+
+Eine zu hohe Beleuchtungsstärke kann zu Schäden (Photodestruktion) und damit zu einer Verminderung der Photosyntheserate führen.
+Dies ist beispielsweise der Fall bei Schattenpflanzen, die plötzlich der prallen Sonne ausgesetzt werden.
+Auch kann Sonnenlicht bei niedrigen Temperaturen wegen der verminderten Enzymaktivität zu Schäden führen.
+
+Nachdem erkannt wurde, dass die Photosyntheserate mit einer Mischung verschiedener Lichtfarben höher ist als bei Bestrahlung mit monochromatischem Licht (Emerson-Effekt), also eine wechselseitige Beeinflussung gegeben ist, wurde 2009 vorgeschlagen, für die Ermittlung der photosynthetisch aktiven Strahlung die Quantenausbeute von zusätzlichem monochromatischen Licht unterschiedlicher Wellenlängen unter weißer Grundbeleuchtung zu messen.
+Das führte zur Erkenntnis, dass die photosynthetische Quantenausbeute bei grünem Licht etwa gleich der bei rotem Licht ist und größer als die bei blauem Licht.
+Praktische Versuche führten bereits 2004 zu schnellerem Pflanzenwachstum und höherer Biomasseausbeute nach Zugabe von grünem Licht (500 bis 600 nm).
+Zudem kann die Ausrichtung der Blätter (in Richtung der Lichtquelle) mithilfe von Grünlicht aufgrund der Photomorphogenese zu einer höheren Photosyntheserate führen, woraus mehr Biomasse resultiert.
+
+==== Wasserversorgung und Luftfeuchtigkeit
+
+Wasser geht zwar in die Photosynthesegleichung ein, ist für die biochemische Reaktion indes immer in ausreichenden Mengen vorhanden.
+Es wird geschätzt, dass 1875 km^3 Wasser pro Jahr in der Photosynthese umgesetzt werden.
+Jedoch erfolgt der CO2-Einstrom in die Blätter durch die Spaltöffnungen, die - je nach Luftfeuchtigkeit oder Wasserversorgung des Blattes - offen oder geschlossen vorliegen.
+Dadurch wirkt sich die Luftfeuchtigkeit wie auch die Wasserversorgung der höheren Pflanzen über die Wurzeln (Wasserstress, Trockenstress) auf die Photosyntheseleistung aus:
+Bei Trockenheit sind die Spaltöffnungen durch die Schließzellen geschlossen, um die Pflanze vor Austrocknung zu schützen.
+Dadurch gelangt aber auch kaum noch CO2 in das Blatt, so dass es zum limitierenden Faktor wird.
+C4-Pflanzen sind durch ihre CO2-Anreicherung nicht so stark betroffen wie C3-Pflanzen (vgl. oben).
+Eine spezielle Anpassung an Wassermangel ist der Crassulaceen-Säurestoffwechsel bei den sogenannten CAM-Pflanzen.
+
+Durch künstliche Bewässerung kann die Luftfeuchtigkeit und damit die Photosyntheserate erhöht werden.
+
+==== Temperatur
+
+Bei der Photosynthese handelt es sich zum Teil um biochemische Reaktionen.
+Wie jede (bio)chemische Reaktion ist diese auch von der Temperatur abhängig - im Gegensatz zu den photochemischen Prozessen.
+Dabei bestimmt die optimale Temperatur für die Enzyme (hauptsächlich für den lichtunabhängigien Teil der Fotosynthese) auch die optimale Temperatur für eine maximale Fotosyntheserate.
+Dies liegt daran, dass der Elektronenakzeptor des lichtabhängigen Teil der Fotosynthese (NADP+) im Calvin-Zyklus regeneriert (oxidiert) wird und bei einem Mangel an NADP+ auch die Fotosynthese eingeschränkt wird.
+Erst ab einer Mindesttemperatur kann die Photosynthese ablaufen, sie beträgt bei frostharten Pflanzen beispielsweise -1 °C.
+(vgl. auch untenstehende Tabelle).
+Mit steigender Temperatur nimmt die Photosyntheserate zu.
+Nach der van 't Hoff'schen RGT-Regel verdoppelt bis vervierfacht sich hierbei allgemein die Reaktionsgeschwindigkeit bei einer Temperaturerhöhung um 10 °C.
+Die Photosynthese erreicht schließlich ein Temperaturoptimum.
+Bei den Pflanzen in unseren Breiten liegen die Optima bei 20 bis 30 °C.
+Bei thermophilen Cyanobakterien liegt das Temperaturoptimum aber bei 70 °C.
+
+Nach Erreichen dieses Optimums fällt die Photosyntheseleistung wegen der beginnenden Denaturierung der Proteine der für die Photosynthese zuständigen Enzyme wieder ab und kommt schließlich ganz zum Erliegen.
+
+==== Chlorophyllgehalt
+
+Durch den hohen Chlorophyllgehalt in den Zellen wird dieser nie zum begrenzenden Faktor in der Photosynthese.
+Es sind nur gewisse Variationen von Sonnen- und Schattenpflanzen beobachtbar.
+Letztere haben einen höheren Chlorophyllgehalt als Sonnenpflanzen und besonders große Grana.
+Auch die größeren Antennen der Schattenpflanzen weisen ein höheres Chlorophyll a/ b-Verhältnis als Sonnenpflanzen auf.
+Dies schließt die Grünlücke etwas besser.
+
+== Bedeutung
+
+Unter den derzeitigen Bedingungen der solaren Energieeinstrahlung werden pro Jahr etwa 440 Milliarden Tonnen Kohlendioxid von Pflanzen gebunden, davon werden ca. 220 Milliarden Tonnen durch pflanzliche Atmung wieder in die Atmosphäre freigesetzt, der Rest wird als Biomasse gebunden oder in den Erdboden eingetragen.
+Die Photosynthese treibt direkt oder indirekt alle biogeochemischen Kreisläufe in allen bestehenden Ökosystemen der Erde an.
+Selbst die lithotrophen Lebensgemeinschaften an hydrothermalen Quellen, welche anorganische Verbindungen geothermalen Ursprungs als Energiequelle verwenden und vom Licht der Sonne völlig abgeschnitten sind, sind auf den Sauerstoff, das Nebenprodukt der Photosynthese, angewiesen.
+
+Gegenwärtig sind die terrestrischen Pflanzen verantwortlich für etwa 50 % der photosynthetischen Primärproduktion.
+30 % entfallen auf Algen und autotrophe Protisten etwa unter den Dinoflagellaten, 20 % auf Prokaryoten wie die Cyanobakterien.
+
+Die globale CO2-Fixierung erfolgt fast ausschließlich durch den Prozess der oxygenen Photosynthese, durch Pflanzen und photosynthetische Bakterien.
+Photosynthetische aerobe Bakterien im Meer besitzen einen Anteil von 2 bis 5 % an der marinen Photosynthese.
+Die Bedeutung der anoxygenen Photosynthese für die globale CO2-Fixierung liegt unter 1 %.
+Hierfür sind zwei Gründe ausschlaggebend.
+Zum einen kommen phototrophe Schwefelbakterien, welche die dominierende Gruppe unter den anoxygenen phototrophen Organismen in den Ökosystemen darstellen, nur in einigen limnischen und marinen Gezeitenzonen in hohen Dichten vor.
+Die für diese Organismen in Frage kommenden Ökosysteme tragen auch nur mit etwa 4 % zur globalen Primärproduktion bei.
+In Seen mit phototrophen Schwefelbakterien liegt zudem der Anteil an der Primärproduktion durch die anoxygene Photosynthese bei etwa 29 %.
+Daher wird entsprechend aktuellen Forschungsergebnissen angenommen, dass die anoxygene Photosynthese weniger als 1 % zur globalen Primärproduktion beisteuert.
+Der zweite limitierende Faktor für den Beitrag der anoxygenen Photosynthese zur globalen Primärproduktion liegt in der Abhängigkeit dieser Organismen von reduzierten Schwefelverbindungen.
+Diese Verbindungen entstehen beim anaeroben Abbau von organischen Verbindungen zu CO2 mit Sulfat; die sogenannte bakterielle Sulfatreduktion.
+Da dieser organische Kohlenstoff zuvor schon durch eine oxygene Photosynthese fixiert wurde, erfolgt bei der Photosynthese auf der Grundlage bakteriogener Schwefelverbindungen keine Nettozunahme an organischen Verbindungen für die höheren trophischen Stufen in der Nahrungskette.
+Aus diesem Grund wurde dafür von Norbert Pfennig 1978 der Begriff der "sekundären Primärproduktion" eingeführt.
+Anoxygen phototrophe Organismen können daher nur die Verluste an organischen Verbindungen, die bei der Mineralisation entstehen, kompensieren.
+Eine Ausnahme hiervon bilden die geothermalen Schwefelquellen, da hier die reduzierten Schwefelverbindungen aus abiotischen Quellen stammen.
+
+Bei der oxygenen Photosynthese spielt neben der CO2-Fixierung auch die Bildung von Sauerstoff eine wichtige Rolle.
+Auf der Erde liegt der elementare, molekulare Sauerstoff (Dioxygen, O2) gasförmig in der Erdatmosphäre und gelöst in den Gewässern vor.
+Der Sauerstoff entstammt zu etwa 99 % aus der Photosynthese.
+Ohne die oxygene Photosynthese könnten aerobe Organismen wie Menschen und Tiere nicht leben, da sie ihn für die Atmung benötigen.
+
+== Evolution
+
+Aufgrund der Bedeutung der Photosynthese für das Leben auf der Erde hat sich die Wissenschaft schon sehr früh mit der Entstehung und Entwicklung der Photosynthese befasst.
+Zur Klärung dieser Frage wurden Daten aus unterschiedlichen Fachdisziplinen wie Geologie, Biogeochemie, vergleichende Biochemie und molekulare Evolution gesammelt.
+Dennoch bleibt die Beantwortung dieser Frage eine wissenschaftliche Herausforderung und sie ist bis heute nicht abschließend geklärt.
+Teilweise wird sogar die Auffassung vertreten, dass die zur Beantwortung notwendigen Spuren gar nicht mehr existieren, da die Photosynthese schon sehr früh in der Entwicklung des Lebens und der Erde entstanden ist und ihre Spuren im Laufe der Zeit verloren gingen.
+
+Sicher ist jedoch, dass die anoxygene Photosynthese vor der oxygenen aufgetreten ist.
+Die anoxygene Photosynthese könnte sich vor etwa 3,5 Milliarden Jahren (Ga) etabliert haben.
+Nach einer anderen Schätzung wurde bereits vor 3,8 Ga eine Photosynthese mit Wasserstoff (H2) als Reduktionsmittel durchgeführt.
+Vor 3,4 Ga wurde Photosynthese mit H2S, vor 3,0 Ga auch mit Fe2+ als Reduktionsmittel betrieben (von Protocyanobakterien und Proteobakterien).
+
+Von großem Interesse ist die Bestimmung der Epoche, in der oxygene Photosynthese von Protocyanobakterien durchgeführt wurde.
+Dies wird in der Wissenschaft noch kontrovers diskutiert, es zeichnet sich aber mehrheitlich die Meinung ab, dass die oxygene Photosynthese bereits gut etabliert gewesen sein muss, als sich die nahezu anoxische Atmosphäre mit Sauerstoff anreicherte (Great Oxidation Event).
+Dieser Zeitpunkt der atmosphärischen Sauerstoffanreicherung liegt vermutlich zwischen 2,3 und 2,4 Ga vor der Gegenwart.
+Aus diesem Ereignis kann man aber nicht schließen, wann die oxygene Photosynthese begann.
+Denn der erste biochemisch erzeugte Sauerstoff ist aller Wahrscheinlichkeit nach nicht in die Atmosphäre gelangt, sondern für die Oxidation von gelösten Stoffen (unter anderem von Fe2+) verbraucht worden.
+
+Um die Zeit einzugrenzen, werden verschiedene Hinweise (Marker) aus drei Hauptrichtungen angeführt:
+Stromatolithen, Mikrofossilien und als Biomarker bezeichnete Moleküle.
+
+Stromatolithen sind laminierte Kalksteine aus alternierenden Schichten aus Biofilm (Biomatten) und Sedimentablagerungen.
+Stromatolithen lassen sich durch Fossilienfunde ab - 2,8 Ga belegen.
+Es gibt aber auch Hinweise für bis zu 3,1-3,5 Ga alte Stromatolithen.
+In einigen dieser fossilen Stromatolithen lassen sich Strukturen erkennen, welche als Reste von fadenförmigen Bakterien gedeutet wurden, die den phototrophen Cyanobakterien ähneln, welche sich in den rezenten Stromatolithen nachweisen lassen.
+Aber weder der biogene Ursprung dieser Mikrofossilien noch deren Aktivität als oxygene Phototrophe noch die biogene Entstehung der meisten Stromatolithen ist gesichert.
+
+Neben nicht ganz zuverlässigen phylogenetischen Befunden an phototrophen Mikroorganismen (siehe unten) werden auch Markermoleküle analysiert.
+Diese sind spezielle Kohlenwasserstoffe, das Vorkommen redoxsensitiver Metalle (Mo, Re) und die Zusammensetzung spezifischer, isotopischer Systeme.
+Einzigartige Kohlenwasserstoffmarker für Cyanobakterien sind Hopane, es werden aber auch Sterane untersucht.
+Aus der isotopen Zusammensetzung von Uran-Thorium-Blei kann eingeschätzt werden, ob anoxische oder oxische Bedingungen vorlagen:
+So bildet unter oxischen Bedingungen nur das Uran lösliche Oxide und ist damit "beweglicher".
+
+Aus den gesammelten Daten lässt sich folgender Zeitplan abschätzen:
+
+Dennoch wird der oben genannte Zeitplan auch kritisiert und der Zeitpunkt für die Entstehung der oxygenen Photosynthese zum Zeitpunkt der Makganyene-Eiszeit (vor etwa 2,2 Ga) eingeordnet.
+Dies liegt daran, dass sich beispielsweise Wasserstoffperoxid (H2O2) im Eis sammelt und später in größeren Mengen freigesetzt werden kann.
+H2O2 und auch O2 werden durch abiotische, photochemische Prozesse mittels UV-Licht aus Wasser erzeugt.
+Ferner ist es möglich, dass Hopane auch durch anoxygene Phototrophe gebildet werden.
+
+Eine früher verwendete Methode war auch die Analyse der Isotopenzusammensetzung von Kohlenstoff.
+Diese lässt Rückschlüsse darauf ziehen, ob CO2 biotisch fixiert wurde.
+Ausschlaggebend ist hierfür das Schlüsselenzym der oxygenen Photosynthese, RubisCO.
+Bei der Assimilation von C aus CO2 während der Photosynthese erfolgt eine Diskriminierung des schwereren aber stabilen 13C-Kohlenstoffisotops, während das leichtere 12C-Kohlenstoffisotop verstärkt durch die RuBisCO eingebaut wird.
+Dadurch ist in organischen Stoffen gebundener Kohlenstoff im Vergleich zu Kohlenstoff in anorganischen Stoffen ärmer an 13C. Messungen an organischen und anorganischen Kohlenstoffverbindungen aus 3,5-3,8 Ga alten Sedimenten ergaben ein 13C von -27 bis +7  für den organischen Anteil und +0,4 bis +2,6  für den anorganischen Anteil.
+Da sich diese Werte sehr gut mit den heutigen Messungen decken, wurde dies lange für einen Hinweis auf eine erste biogene CO2-Fixierung angesehen.
+Ob es sich hierbei allerdings um eine photosynthesegetriebene CO2-Fixierung handelte, kann aus den Daten nicht abgeleitet werden, da auch chemolithotrophe CO2-Fixierer ähnliche 13C-Werte aufweisen.
+Damit ist diese Methode für die Datierung der Photosynthese ungeeignet.
+
+=== Photosynthesesysteme
+
+Ein Vergleich des Genoms von fünf Bakterienarten, die jeweils eine der fünf Grundtypen bakterieller Photosynthese darstellen, ergab, dass sich die Bestandteile der Photosyntheseapparate zunächst bei verschiedenen Bakterien unabhängig voneinander entwickelt haben und durch horizontalen Gentransfer zusammengesetzt wurden.
+Ein Vergleich der Gene, die diese Bakterien gemeinsam haben, mit den Genomen anderer, zur Photosynthese nicht fähiger Bakterien ergab, dass die meisten der Photosynthese-Gene auch bei diesen vorkommen.
+Ob die Chloroflexaceae (Grüne Nichtschwefelbakterien) dabei als erste Organismen durch horizontalen Gentransfer photoautotroph wurden, steht zur Debatte.
+Als guter Kandidat für eine erste Photoautotrophie zählen mittlerweile ausgestorbene Protocyanobakterien (syn.
+Procyanobakterien oder Pro-Protocyanobakterien), hypothetische anoxygene Vorläufer der heutigen Cyanobakterien.
+Diese könnten Gene vermöge des horizontalen Gentransfers an Heliobacteria, Chloroflexaceae, Purpurbakterien und Chlorobiaceae weitergegeben haben.
+
+Aus Sequenzdaten allein kann nicht geschlossen werden, welche Bakterienart als erste Photosynthese betrieben hatte.
+Hierfür müssen Daten aus weiteren (unabhängigen) Quellen (siehe Abschnitt oben) herangezogen werden.
+
+== Technik
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

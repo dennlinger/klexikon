@@ -1,0 +1,228 @@
+Ein Bagger ist eine Baumaschine zum Lösen und Bewegen von Boden und Fels, insbesondere zum Ausheben und Wiederverfüllen von Erdvertiefungen wie etwa Baugruben und Schächten.
+Auch zur Bewegung von Schütt- und anderen Gütern und bei der Gewinnung von Kohle und Erzen im Tagebau werden Bagger eingesetzt.
+
+Bagger sind bis auf wenige Ausnahmen, etwa Schwimmbagger, selbstfahrende Landfahrzeuge und werden auf unebenem bzw. nicht-befestigten Terrain eingesetzt.
+Daher sind sie meist auf hohe Geländegängigkeit ausgelegt, was in der Regel mit einem Allradantrieb oder Gleisketten erzielt wird.
+Die mechanische Bewegung der Ausleger und der Schaufel oder eines Schaufelrades wird üblicherweise per Hydraulik oder mit Elektromotoren bewirkt.
+Als Antrieb des Baggers dienen meist ein oder mehrere Diesel-, seltener auch Gas- oder Elektromotoren, die gegebenenfalls auch über Hydraulikpumpen den Öldruck für die Bagger-Hydraulik erzeugen.
+
+Früher allgemein üblich, werden Seilzugmechanismen für die Schaufel- oder Löffelbewegung heute meist nur noch bei großen und sehr großen Baggern eingesetzt.
+
+== Etymologie
+
+Der Begriff Bagger kommt aus dem Niederländischen (vgl. Baggeren) und bezeichnet dort ursprünglich einen Sand- oder Schlammräumer (einen mit der Hafenboden-freilegenden Tätigkeit beschäftigten Arbeiter).
+
+== Gliederung der Baggermaschinen
+
+Auf Grund der vielfältigen Bauformen und Anwendungsgebiete von Baggern lassen sich diese nach unterschiedlichen Kriterien gliedern.
+Eine übergeordnete Unterscheidung ist anhand des verwendeten Wirkprinzip zum Lösen von Boden oder Fels möglich.
+Dabei wird in
+
+Löseverfahren unterschieden.
+Auch Kombinationen wie das mechanisch-hydraulische Lösen finden Anwendung.
+In der Fachliteratur werden Bagger, die Boden und Fels rein mechanisch mittels eines Grabgefäßes lösen, nach Art des Grabgefäßes in Eingefäßbagger, Mehrgefäßbagger und Flachbagger unterschieden.
+Die Anordnung und Gestalt des Grabgefäßes bestimmt maßgeblich die Einsatzbedingungen und die Leistung eines Baggers bei bestimmten Bodenverhältnissen.
+Auch die Fels- und Bodenfräsen lösen Boden und insbesondere Fels ebenfalls rein mechanisch, im Gegensatz zu den Gefäßbaggern allerdings mit mehreren Meißeln.
+
+Zu den Baggern, die Boden rein hydraulisch lösen, zählen die Saugbagger, wobei bei diesen Maschinen eine Kombination aus mechanischen und hydraulischen Lösen zum Einsatz kommt.
+Bagger, die ein pneumatisches Löseverfahren verwenden, werden als Pneumatikbagger bezeichnet.
+Gegenüber den mechanisch und hydraulisch lösenden Baggern sind Pneumatikbagger eher selten anzutreffen.
+
+=== Eingefäßbagger
+
+Eingefäßbagger zeichnen sich dadurch aus, dass diese zum Graben und Laden mit einem einzigen Grabgefäß ausgestattet sind.
+Da ein Wechselspiel aus Graben und Laden stattfindet, spricht man bei den Eingefäßbaggern von einem unstetigen oder auch diskontinuierlichen Baggerprozess.
+Der Unterschied zum Flachbagger besteht darin, dass der Vorschub zum Abtragen des Erdreiches nicht durch das Verfahren des gesamten Baggers erzeugt wird, sondern das Grabgefäß der Maschine bewegt wird.
+Man spricht auch von einem Standbagger.
+Eine weitere Gliederung der Eingefäßbagger erfolgt anhand des Einsatzzweckes in Einzweck- und Mehrzweckmaschinen.
+Einzweckmaschinen sind für eine ganz bestimmte Gewinnungsaufgabe, teils sogar für einen spezifischen Einsatzort konzipiert.
+Sie werden hauptsächlich im Tagebau oder bei Großbauprojekten, wie dem Kanalbau, eingesetzt.
+Mehrzweckmaschinen, auch als Universalbagger bezeichnet, können mit verschiedenen Arbeitsaustattungen betrieben werden, wodurch sie für den universellen Einsatz im Bauwesen besonders geeignet sind.
+In kleineren Gewinnungsbetrieben, wie Steinbrüchen oder Kiesgruben, werden Universalbagger eingesetzt.
+Gegenüber den Einzweckmaschinen ist ein Transport mit vertretbarem Aufwand möglich.
+
+Eine weitere Gliederung erfolgt auf Grund der historischen Entwicklung der Eingefäßbagger sowohl für Ein- als auch für Mehrzweckmaschinen anhand des verwendeten Prinzips der Kraftübertragung in Seilbagger und Hydraulikbagger.
+Bei Seilbaggern wird die Antriebsenergie mittels Winden und Stahlseilen auf das Grabwerkzeug übertragen.
+Hydraulikbagger hingegen verfügen über ein Hydraulikaggregat.
+Die Grabwerkzeuge werden über Hydraulikzylinder bewegt.
+
+Die konstruktive Ausführung von Eingefäßbaggern richtet sich maßgeblich nach den Grabwerkzeugen, die anhand der Bodenbeschaffenheit ausgewählt werden.
+Auf Grund der unterschiedlichen Funktionsweise der Seil- und Hydraulikbagger sind nicht alle Grabwerkzeuge für beide Maschinentypen einsetzbar.
+Neben den eigentlichen Grabwerkzeugen wurden für die Universalbagger auch weitere Anbaugeräte entwickelt, die nicht zum Lösen und Bewegen von Baggergut eingesetzt werden.
+Die folgende Tabelle gibt einen Überblick der wichtigsten Grab- und Ladewerkzeuge von Eingefäßbaggern und deren Verwendungsmöglichkeiten.
+Da zwischen der konstruktiven Ausführung von landgestützten und schwimmenden Eingefäßbaggern deutliche Unterschiede bestehen, werden diese getrennt beschrieben.
+Oft werden schwimmende Baggermaschinen auch als Nassbagger, landgestützte Bagger als Trockenbagger bezeichnet.
+Streng genommen zählen jedoch all diejenigen Bagger zu den Nassbaggern, die Baggergut fördern, dass unterhalb der Wasseroberfläche liegt.
+Beispiel hierfür ist ein Seilbagger mit Schürfkübel, der vom Ufer aus Kies fördert.
+
+Weitere Anbaugeräte, die mit Universalbaggern verwendet werden, sind beispielsweise Rammeinrichtungen, Abrissbirnen, Felsmeißel sowie Bohr- und Verrohrungsgeräte.
+Siehe auch Anbaugeräte.
+
+=== Mehrgefäßbagger
+
+Mehrgefäßbagger verfügen über mehrere Grabgefäße, die endlos miteinander verbunden sind und umlaufend angetrieben werden.
+Dadurch findet ein stetiges Graben und Entladen statt, weshalb man bei Mehrgefäßbaggern auch von stetig oder kontinuierlich arbeitenden Baggern spricht.
+Der Vorschub erfolgt bei Mehrgefäßbaggern entweder durch ein Verstellen des Baggerwerkzeuges oder durch ein Verfahren der gesamten Maschine.
+Anhand der Art der Kraftübertragung auf die Grabgefäße werden die Mehrgefäßbagger in Eimerkettenbagger und Schaufelradbagger unterschieden.
+Bei beiden Maschinentypen wird das Baggergut mit dem Grabgefäßen aufgenommen und an einer anderen Stelle wieder abgegeben.
+In der Regel erfolgt die Abgabe auf ein Förderband.
+
+==== Eimerkettenbagger
+
+Bei den Eimerkettenbaggern sind eimerförmige Grabgefäße an einer endlosen Kette, der Eimerkette, befestigt.
+Die Kette wird über einen Antriebsturas mittels Motor und Getriebe angetrieben und an ein oder mehreren Stellen umgelenkt.
+Das Baggergut wird von den umlaufenden Eimern gelöst und in diesen bis zur Abgabestelle befördert.
+
+Eimerkettenbagger lassen sich anhand ihres Einsatzortes in landgestützt und schwimmend unterteilen.
+Eine weitere Gliederung erfolgt oft anhand der Baugröße und der Anwendung.
+Schwimmende Eimerkettenbagger lassen sich zudem in Flussbagger und Seebagger unterteilen.
+Während Flussbagger in Binnengewässern zur Kies- und Sandgewinnung sowie zur Vertiefung und Instandhaltung von Wasserstraßen eingesetzt werden und über keinen eigenen Fahrantrieb verfügen, sind Seebagger hochseetaugliche Schiffe oft mit eigenem Fahrantrieb.
+Während Flussbagger gerade in der ersten Hälfte des 20. Jahrhunderts vielerorts im Einsatz waren, sind Seebagger als Eimerkettenbagger seltener anzutreffen.
+Sie werden zur Landgewinnung sowie im Meeresbergbau eingesetzt.
+
+==== Schaufelradbagger
+
+Bei den Schaufelradbaggern sind die Grabgefäße fest an einem Rad befestigt, das über ein Getriebe angetrieben wird.
+Einteilung Schaufelradbagger: mit Vorschub, ohne Vorschub.
+
+=== Flachbagger
+
+Flachbagger unterscheiden sich gegenüber den Gefäßbaggern durch die Art des Bodenabtrages in Form von dünnen Schichten.
+Diese werden durch das Baggerwerkzeug gelöst und verschoben oder mittels eines Kübels aufgenommen.
+Die Grabbewegung findet durch Verfahren der gesamten Baggermaschine statt.
+Flachbagger werden hauptsächlich für horizontale Erdarbeiten wie das Planieren von Flächen oder Geländeformen eingesetzt, wohingegen die Ein- und Mehrgefäßbagger ihre Hauptanwendung bei vertikalen Erdarbeiten finden.
+Flachbagger gliedern sich in:
+
+=== Fels- und Bodenfräsen
+
+=== Saugbagger
+
+Saugbagger verwenden zum Lösen des Baggermaterials hydraulische Verfahren.
+Das Haupteinsatzgebiet dieser Bagger ist die Nassbaggerei, d. h. die Gewinnung bzw. Beseitigung von Sand, Kies oder Schlick vom Grund eines Gewässers oder dem Meeresboden (bis auf eine vorgegebene Tiefe).
+Ein Saugbagger besteht im Wesentlichen aus einer Kreiselpumpe und einer bis zum Grund reichenden Saugleitung.
+Beim Baggern wird direkt über dem Grund Wasser eingesaugt, wobei das Baggergut um den Saugkopf herum durch den Unterdruck gelöst und mit in die Saugleitung befördert wird.
+Das Gemisch aus Wasser und Baggergut wird an Bord des Saugbaggers entweder direkt mit Pumpen durch eine schwimmende Rohrleitung zum Zielort weiterbefördert oder wieder voneinander getrennt, wobei das Wasser in das Gewässer zurückgeleitet wird.
+Da ein Einsaugen von schwer lösbaren Böden nur mit hohem Druck möglich ist, werden bei einigen Saugbaggertypen zusätzlich auch mechanische Löseverfahren verwendet.
+Bei den Schneidkopfsaugbaggern wird beispielsweise das Baggergut durch rotierende Meißel am Saugkopf gelöst und dann eingesaugt.
+
+== Konstruktive Merkmale von Baggern
+
+=== Fahr- bzw. Schreitwerke
+
+Bei landgestützten Baggern kommen folgende Fahr- bzw. Schreitwerke zum Einsatz:
+
+=== Auslegertypen
+
+=== Klassifizierung nach Größe
+
+== Allgemeine Beschreibungen
+
+Ein Standbagger zeichnet sich in der Regel durch einen um 360° drehbaren Aufbau mit einem Ausleger aus, an dessen Ende ein Anbaugerät montiert werden kann.
+Es gibt zweigeteilte Ausleger, die Verstellausleger genannt werden, und Monoblockausleger.
+Die Ausleger und die Anbaugeräte werden durch Hydraulik bewegt.
+Daher wird er auch Hydraulikbagger genannt.
+Darüber hinaus gibt es auch Seilbagger, Schaufelradbagger, Schürf- bzw. Löffelbagger, Saugbagger u.v.m.
+
+Als spezielle Variante sind Zweiwegebagger in der Lage, auch auf den Gleisen von Eisenbahnen zu fahren.
+Weiterhin gibt es Schreitbagger mit zwei Rädern und zwei Stützen speziell für unwegsames Gelände.
+
+Im Unterschied zum Radlader ist ein Tieflöffelbagger durch seinen weit heb- und senkbaren Ausleger in der Lage, auch deutlich unterhalb seiner eigenen Standebene zu arbeiten, und wird dadurch bevorzugt zum Ausheben von Baugruben u. Ä. eingesetzt.
+Eine Kombination der beiden stellt der Baggerlader dar.
+
+Bagger haben fast immer nur einen Fahrersitz.
+Beim Bewegen im öffentlichen Verkehrsraum wird nur die Fahrerlaubnisklasse L benötigt, da deren bauartbestimmte Höchstgeschwindigkeit in der Regel nicht höher als 20 km/h ist.
+
+== Anbaugeräte
+
+1 hydraulisch betrieben
+
+Zwischen den oben genannten Anbaugeräten und dem Baggerstiel ist meist eine Schnellwechseleinrichtung eingebaut (auf dem Foto des Raupenbaggers gut zu sehen, rot lackiert).
+Damit lassen sich die Anbaugeräte in kürzester Zeit vom Baggerfahrer wechseln, ohne dass er sein Führerhaus verlassen muss.
+
+== Bagger für Sondereinsätze
+
+Für spezielle Anwendungszwecke wie z.B. den Deichbau oder allgemein die Erstellung von Böschungsprofilen werden Bagger mit besonders langen oder Teleskopauslegern eingesetzt, die durch eine vergrößerte Reichweite bessere und genauere Flächenbearbeitungen erlauben.
+
+Ein Bagger mit langer Abbruchausrüstung ist eine besondere Maschinengattung, die in der Regel zum Abbruch eingesetzt wird.
+Er kann Gebäude mit einer Höhe von bis zu 60 m abbrechen, ein Novum auf diesem Gebiet ist ein Teleskopabbruchbagger einer holländischen Abbruchfirma mit 62 m Reichhöhe.
+
+Zu unterscheiden ist der Bagger von den Baggern mit Böschungsausrüstung, die für andere Aufgabengebiete entwickelt sind.
+
+Ein Bagger mit langer Abbruchausrüstung verfügt standardmäßig über einen Langen Ausleger, der je nach Einsatzfall aus bis zu drei Teilen besteht.
+Zwei lange Auslegerteile sind mit einem kurzen Mittelstück verbunden und so flexibel und universell steuerbar.
+Generell ist auch eine normale Tieflöffelausrüstung, Fachbegriff: Erdbauausrüstung, verfügbar, die mit dem Abbruchausleger ausgetauscht werden kann.
+
+== Hersteller
+
+=== Hersteller von Baggern (alphabetisch sortiert)
+
+=== Nicht mehr existente Hersteller
+
+== Rekorde
+
+Die größten Bagger sind Schaufelradbagger.
+Das 1978 von Krupp Industrietechnik gebaute Modell "288" arbeitet zurzeit im Tagebau Garzweiler (RWE Power) und ist seit seiner Inbetriebnahme bis heute der größte Bagger der Welt.
+Er hat ein Dienstgewicht von 12.840t, eine Höhe von 96 m und eine Länge von 215 m.
+
+Die nächste Größenordnung sind Schürfkübelbagger mit elektrischem Seilantrieb und Schreitwerk.
+Der Big Muskie arbeitete in den 1970ern und 1980ern in den USA.
+Er hatte ein Dienstgewicht von 13.500t und einen Schaufelinhalt von 166 m^3.
+
+Der größte Hochlöffelbagger war der seilgetriebene Marion 6360 mit Kettenlaufwerk, genannt Capitain, von Marion Power Shovel in den USA.
+Das Dienstgewicht betrug 12.700t und die Schaufel fasste etwa 138 m^3.
+Er wurde 1992 verschrottet.
+Der nächstkleinere Hochlöffelbagger namens Big Brutus kann noch betrachtet werden.
+
+Der größte hydraulische Hochlöffelbagger der Welt ist seit 2013 der Caterpillar 6120B H FS mit einem Dienstgewicht von 1270 t und einem Löffelinhalt von bis zu 65 m^3. Bis vor wenigen Jahren hielt diesen Rekord der Bucyrus RH 400 (ehemals Orenstein & Koppel) mit 980 t Einsatzgewicht und einem Löffelinhalt von 52 m^3 inne.
+Produziert wird er in Deutschland, im Bucyrus-Werk in Dortmund-Dorstfeld.
+
+Der größte hydraulische Tieflöffelbagger der Welt ist der 2012 vorgestellte Liebherr R9800 mit einem Dienstgewicht von 800-810 t und einem Löffelinhalt von bis zu 47,5 m^3.
+
+Der größte Abbruchbagger mit langer Ausrüstung Deutschlands ist im Einsatz bei der Plannerer Abbruch GmbH aus Pullenreuth, welcher die Bezeichnung BHD-3010 trägt und von der Firma BURDE Engineering GmbH, aus der Nähe von Mainz, entwickelt und gebaut wurde.
+Die Maschine wird im Februar 2015 der Öffentlichkeit präsentiert.
+Der BHD-3010 ist mit einer Erdbauausrüstung, einer 30 m langen Heavy-Duty Ausrüstung für Werkzeuge mit 10 t Einsatzgewicht und einem Teleskopausleger ausgestattet.
+Die Maschine hat ein Gesamtgewicht von über 150 Tonnen.
+
+Der größte Abbruchbagger mit langer Ausrüstung in Europa war der bis zu 90 m hoch reichende Cat 5110B, der vom inzwischen aufgelösten niederländischen Unternehmen Rusch gebaut worden war.
+Der Verbleib der Maschine ist unbekannt.
+
+Die weltweit größten Abbruchbagger baut Kobelco.
+Der SK 3500D ist eine Maschine von Kobelco mit einem Einsatzgewicht von bis zu 327 t.
+Der SK 3500D kann auf einer Höhe von 65 m mit einer 2,9 t schweren Abbruchschere arbeiten.
+
+== Lärm
+
+Als Anhaltspunkt für den Baustellenlärm eines typischen Baggers wurden in einem WHO-Bericht 90 dB in 10 m Entfernung, d. h. etwa 32 Sone, angegeben.
+
+== Sicherheit
+
+== Modellbau, Spielzeug
+
+Es gibt voll funktionsfähige, funkferngesteuerte Baggermodelle, die kleinere Erdarbeiten verrichten können.
+Wie die großen Bagger verfügen sie über eine Hydraulik.
+
+Einfache mechanische Blechspielzeug-Seilbagger für das Zimmer funktionierten über Schnurzug via 2 kleine Kurbeln, Schwenken und Verfahren - alles direkt von Hand.
+Mit Metall- oder Holzbaukästen können mit viel Aufwand frei oder nach Vorlage funktionierende Bagger gebaut werden.
+
+== Spielgeräte
+
+In Automatenspielhallen gibt es an 2 bis 4 Seiten verglaste Geräte, in denen - elektromotorisch über Bedienhebel oder -tasten - mit einem an der Decke verfahrbaren Seil-Doppelgreifer oder aber einem Knickarm-Greifer Spielobjekte, wie etwa farbige Bälle versetzt werden können, um Punkte zu erzielen.
+Bei einem anderen Typ besteht bei knapp bemessener Spielzeit die Chance eine von vielen transparenten Kugeln in eine Ausgabeöffnung zu baggern, um den Inhalt der Kugel als Belohnung zu erhalten.
+
+Mit rein mechanischen Konstruktionen zum Aufsitzen, Schwenken mit den am Boden ruhenden Beinen und Betätigen von Arm und Schaufel mittels Hebeln für rechte und linke Hand, einem Tieflöffel, indoors Kunststoffbälle oder outdoors Sand zu baggern.
+Kostenloses Geschicklichkeitsspiel auf Spielplätzen oder im Foyer von Einkaufszentren oder Möbelhäusern.
+
+== Mediale Bedeutung
+
+In der Fernsehsendung Wetten, dass..? gab es Wetten, die mit Baggern durchführt wurden; z. B. einen Turm besteigen, ein Feuerzeug anzünden, Tennis spielen oder mit einem Pinsel die Buchstaben des Senders "ZDF" auf das Dach eines PKWs zu schreiben.
+
+== Siehe auch
+
+== Literatur
+
+== Medienberichte
+
+== Weblinks
+
+== Einzelnachweise
+

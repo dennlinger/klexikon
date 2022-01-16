@@ -1,0 +1,125 @@
+Ein Kalender ist eine Übersicht über die Tage, Wochen und Monate eines Jahres.
+Eine veraltete Bezeichnung ist Jahrweiser.
+
+Das Wort "Kalender" entstammt dem lateinischen Calendarium (Schuldbuch).
+Dies war ein Verzeichnis der Kalendae, der jeweils ersten, auszurufenden (calare "ausrufen") Tage der antiken Monate.
+An diesen wurden Darlehen ausgezahlt und Darlehensrückführungen sowie Zinsforderungen fällig.
+
+Es gibt verschiedene Kalendersysteme, heute ist weltweit überwiegend der gregorianische Kalender in Gebrauch.
+
+Kalender gibt es in verschiedenen - gedruckten, bebilderten, elektronischen - Formen (siehe auch Kalendarium).
+
+Die Regeln zur Aufstellung von Kalendern ergeben sich aus astronomischen Gegebenheiten (Mondphasen, Sonnenjahr) und entsprechenden Kalenderberechnungen.
+Die wissenschaftliche Kalenderkunde ist ein Teilgebiet der astronomischen Chronologie.
+Die vorwissenschaftliche Kunst, Kalender zu erstellen, nennt man Hemerologie.
+
+== Geschichte
+
+=== Entstehung des Kalenderwesens
+
+==== Paläolithikum
+
+Die Kenntnis regelmäßig stattfindender Tierwanderungen war bereits für die frühen Jägerkulturen wichtig.
+
+Ein Bewusstsein für jahreszeitlich und astronomisch sich wiederholende Ereignisse, für entsprechende Zyklen seiner Umwelt, dürfte der Mensch schon sehr früh gehabt haben.
+Dazu gehörte der Wechsel von Tag und Nacht sowie die Mondphasen.
+Jahreszeitlich bedingte Klimaschwankungen spielten in der Landwirtschaft der meisten Weltregionen eine bedeutende Rolle und konnten vom Menschen spätestens in der Altsteinzeit wahrgenommen werden.
+Eine Beobachtung der Veränderungen des Nachthimmels sowie der Eigenbewegungen der Planeten war zu dieser Zeit ebenfalls möglich.
+
+==== Seßhaftwerdung und Jungsteinzeit
+
+Schon der Turm von Jericho aus dem 9. Jahrtausend v. Chr. deutet auf die Kenntnis der Sommersonnenwende hin und jungsteinzeitliche Bauten wie etwa Stonehenge zeugen von den Bemühungen der sesshaft gewordenen Bevölkerung, die natürliche Jahreslänge und ausgewählte zyklisch wiederkehrende Himmelsereignisse wie Sonnenwende und Tag-und-Nacht-Gleiche exakt bestimmen zu können.
+Gerade für die Landwirtschaft war wichtig, eine von den konkreten Wetterbedingungen unabhängige Bestimmung der Zeitpunkte für Aussaat und Ernte vornehmen zu können.
+Mit der systematischen Himmelsbeobachtung verbunden waren religiöse Fruchtbarkeitskulte - getragen von der Hoffnung auf eine günstige Wiederkehr der Fruchtbarkeitsbedingungen.
+So wurden bestimmte landwirtschaftliche Termine an Feste gebunden, die wiederum an Himmelsereignisse geknüpft waren.
+
+Für den Übergang von Jägerkulturen zum Ackerbau im Neolithikum (Jungsteinzeit) wird eine Veränderung kalendarischer Vorstellungen vom Mond- zum Sonnenkalender angenommen.
+Dieser steinzeitliche Kalender, auch neolithischer Kalender (von Alexander Thom auch megalithischer Kalender genannt) beinhaltet wohl die ältesten kalendarischen Vorstellungen der Menschheit und ist die Grundlage späterer Kalendervarianten.
+Analog zum Begriff der Neolithischen Revolution (Übergang zum Ackerbau) wird auch von der Neolithischen Kalender-Revolution gesprochen.
+
+==== Kupfer- und Bronzezeit
+
+Die ältesten heute noch bekannten Kalender stammen aus den frühen Hochkulturen Ägyptens und Mesopotamiens.
+Hier zeigten sich schon zwei grundlegende Kalendertypen, die bis heute die meisten Kalendersysteme prägen: der an den Mondphasen orientierte Mondkalender und der astronomische Kalender, der den Lauf der Himmelskörper widerspiegelt.
+
+Spätestens von den Babyloniern wurde der siebentägige Wochenzyklus entwickelt, der heute fast weltweit den Ablauf des Alltags regelt.
+In anderen Kalendern gab es ähnliche Zyklen, zwischen fünf und zehn Tagen.
+
+Die Anpassung von Wochen und Monatsfolgen an die feste Größe des astronomischen Jahres war nicht einfach zu lösen.
+Es kam zur Herausbildung verschiedener Kalendersysteme.
+
+=== Beobachtungskalender
+
+Frühe Kalendersysteme wurden durch Beobachtung gewonnen (astronomische Kalender).
+Mit dem Eintritt eines bestimmten definierten Himmelsereignisses (z. B. des Neumonds oder der Tag-und-Nacht-Gleiche im Frühling) begann ein neuer Zyklus.
+Sie mussten regelmäßig nachgeregelt werden.
+
+Diese Methode hatte einen entscheidenden Nachteil:
+In großen Herrschaftsräumen konnte ein Ereignis an unterschiedlichen Orten eventuell zu unterschiedlichen Zeiten wahrgenommen werden, so dass auch unterschiedliche Daten gezählt wurden.
+Wenn dagegen der Eintritt eines Ereignisses nur an einem bestimmten Ort (z. B. der Hauptstadt oder dem Haupttempel) maßgeblich war, dann konnten weit entfernt gelegene Gebiete oft erst nach Tagen davon unterrichtet werden.
+Solche Probleme gab es beispielsweise im früheren jüdischen Kalender, wo der Hohepriester über die erste Sichtung der Mondsichel bei Neumond entschied.
+Durch die langen Informationswege konnte es passieren, dass ein religiöses Fest in abgelegenen Gebieten am "falschen" Tag gefeiert wurde.
+Auch war es kurz vor Monatsende nicht möglich vorherzusagen, welches Datum z. B. in sieben Tagen sein würde, weil der Neumond nicht vorausberechnet, sondern durch tagesaktuelle Beobachtung ermittelt wurde.
+
+Immer mehr Kulturen begannen deshalb, ihre Kalender zu berechnen.
+Der letzte ernsthafte Versuch, einen Beobachtungs-Kalender zu etablieren, wurde in der Französischen Revolution unternommen (Französischer Revolutionskalender).
+
+=== Kalenderberechnung
+
+Die Berechnung von Kalendern (arithmetische Kalender) setzt umfangreiche astronomische und mathematische Kenntnisse voraus.
+Bei der Entwicklung des frühen ägyptischen astralen Sothiskalenders waren diese Kenntnisse vorhanden.
+Die Einführung eines ägyptischen Verwaltungskalenders auf 365-Tage-Basis folgte spätestens im dritten Jahrtausend v. Chr.
+Dieser konnte jedoch das Durchwandern der Jahreszeiten nicht verhindern.
+Die ägyptischen Könige bemängelten die Jahreszeitenverschiebung, doch erst Ptolemaios III. unternahm 238 v. Chr. einen Versuch zur Einführung eines Schalttages.
+Nach seinem Tod wurde neben dem neuen Schalttageskalender jedoch wieder der alte ägyptische Verwaltungskalender benutzt.
+Der julianische Kalender, der 45 v. Chr. von Julius Cäsar eingeführt wurde, stützte sich gleichwohl auf die Kalenderform des Ptolemaios III.
+
+==== Schalttage
+
+Sowohl Mond- als auch Sonnenkalender müssen mit Schalttagen oder unterschiedlichen Monatslängen arbeiten, die nach einer festgelegten mathematischen Regel in den normalen Kalenderlauf eingefügt sind.
+Ein Sonnenkalender benötigt normalerweise einen zusätzlichen Tag circa alle vier Jahre (im gregorianischen Kalender ist dies der 29. Februar), um die durchschnittliche Tageszahl der Länge des Sonnenjahrs anzupassen.
+Ein Mondkalender muss die Monatslängen zwischen 29 und 30 Tagen variieren, denn die Zeit zwischen zwei gleichen Mondphasen dauert durchschnittlich circa 29,531 Tage.
+
+Der Einschub eines zusätzlichen Tages, Monats oder Jahres in ein Kalendersystem wird als Embolismus (altgriechisch av "einschalten") bezeichnet.
+
+== Kalendersysteme
+
+=== Mondkalender
+
+Lunar- oder Mondkalender orientieren sich an den Mondphasen.
+Das deutsche Wort Monat leitet sich etymologisch von Mond ab.
+Allerdings hat der Monat des gregorianischen Kalenders außer dem Namen nichts mehr mit dem Mondzyklus zu tun, da er mit einer durchschnittlichen Länge von 30,437 Tagen fast einen Tag länger dauert als der durchschnittliche synodische Monat.
+
+Der Nachteil eines reinen Lunarkalenders besteht darin, dass er nicht mit dem Sonnenjahr korrespondieren kann, eine Eigenschaft, die in subtropischen und tropischen Breiten oft nicht die Bedeutung hat, die ihm in von den Jahreszeiten abhängigen Kulturen zukommt.
+So dauert im bekanntesten heute noch gebräuchlichen lunaren Kalender, dem islamischen Kalender, das Jahr mit 12 Monaten durchschnittlich 354,372 Tage.
+Die islamischen Monate "wandern" dadurch Jahr für Jahr zirka elf Tage im gregorianischen Kalender nach vorne.
+Auch das Osterdatum folgt einem lunaren Kalender (Computus (Osterrechnung))
+
+=== Solarkalender
+
+Die meisten Kulturen orientierten sich bei ihrer Zeitmessung an den durch die Sonne bestimmten Jahreszeiten (Solar- oder Sonnenkalender).
+Dementsprechend hat der Grundtyp des Solarkalenders die meisten Varianten hervorgebracht.
+Das Solarjahr orientiert sich am tropischen Jahr, dem auf den Frühlingspunkt bezogenen Umlauf der Erde um die Sonne.
+Dieses ist die Ausgangsbasis für den allgemeinen Jahresbegriff.
+Der heute weltweit verbreitete gregorianische Kalender ist ein solarer Kalender.
+
+=== Lunisolarkalender
+
+Der Lunisolarkalender stellt den Versuch dar, einen reinen Lunarkalender an das Sonnenjahr anzupassen.
+Da die Länge der Monate durch die Mondphasen festgelegt ist, können keine Schalttage wie beim Sonnenkalender eingefügt werden.
+Die Lösung liegt in der Einfügung von Schaltmonaten.
+Die Jahreslänge der Lunisolarkalender schwankt deshalb zwischen zirka 353 und zirka 385 Tagen.
+Bekannte Lunisolarkalender sind der jüdische, der traditionelle chinesische und der keltische Kalender.
+
+=== Andere Systeme
+
+Es sind nur wenige Kalendersysteme bekannt, die sich weder am Mond noch an der Sonne orientieren.
+Der astronomische ägyptische Kalender orientierte sich an dem sehr hellen Stern Sirius.
+Die Maya-Kalender basierten auf einer regelmäßigen Folge von 20 Tagen und einer 52 Jahre dauernden Kalenderrunde.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+

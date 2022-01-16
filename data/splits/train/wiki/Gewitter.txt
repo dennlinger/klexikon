@@ -1,0 +1,353 @@
+Ein Gewitter ist eine mit luftelektrischen Entladungen (Blitz und Donner) verbundene komplexe meteorologische Erscheinung.
+Im Durchschnitt treten auf der Erde etwa 1600 Gewitter gleichzeitig auf, die auf über 0,3 Prozent der Erdoberfläche stattfinden.
+
+Gewitter werden in der Regel von kräftigen wolkenbruchartigen Regen- oder Hagelschauern begleitet.
+Vor einer Gewitterfront wehen böige Winde mit bis zu Sturmstärke.
+Seltenere Begleiterscheinungen sind Tornados und Downbursts.
+Starke Gewitter können auch als Unwetter bezeichnet werden.
+Sommergewitter treten wesentlich häufiger auf als Wintergewitter, die auch mit kräftigen Schneeschauern verbunden sein können.
+
+Durch aufsteigende feuchtwarme Luftmassen baut sich eine große Gewitterwolke (auch Cumulonimbus genannt) bis in die höhere, kältere Troposphäre auf.
+Solche aufsteigenden Luftströmungen bilden sich, wenn in einem begrenzten Gebiet eine höhere Temperatur als in der näheren Umgebung erreicht wird (z. B. infolge der Sonneneinstrahlung oder unterschiedlicher Wärmeabgabe des Untergrundes, wie bei Wasserflächen, Feldern und Waldgebieten oder Wärmefreisetzung durch Kondensation).
+
+== Entstehung
+
+Für die Entstehung von Gewittern werden 3 Faktoren benötigt:
+
+=== Entstehungsbedingungen
+
+Gewitter können entstehen, wenn eine hinreichend große vertikale Temperaturabnahme in der Atmosphäre vorhanden ist, d. h. wenn die Temperatur mit zunehmender Höhe so stark abnimmt, dass ein Luftpaket durch Kondensation instabil wird und aufsteigt (bedingt labile Schichtung).
+Dafür muss die Temperatur pro 100 Höhenmeter um mehr als 0,65 K abnehmen.
+Ein aufsteigendes auskondensiertes Luftpaket kühlt sich beim Aufstieg um ca. 0,65 K/100 m (feuchtadiabatischer Aufstieg) ab.
+Durch die freiwerdende Kondensationswärme kühlt es dabei jedoch weniger schnell als die umgebende Luft ab.
+Dadurch wird es wärmer und damit aufgrund der Dichteabnahme leichter als die Umgebungsluft; ein Auftrieb wird erzeugt.
+Aus diesem Grund ist für die Entstehung eines Gewitters eine feuchte Luftschicht in Bodennähe notwendig, die über die latente Wärme den Energielieferanten für die Feuchtekonvektion darstellt und somit die Gewitterbildung überhaupt erst ermöglicht.
+Die latente Wärme ist die im Wasserdampf verborgene Energie, die bei der Kondensation in Form von Wärme freigesetzt wird.
+Der Konvektiv-Index, als meteorologische Größe, ist einer von vielen Indikatoren für die Gewitterneigung.
+
+Auch wenn die Grundbedingungen (geeignete Temperaturschichtung und Feuchte in Bodennähe) für ein Gewitter erfüllt sind, muss nicht zwangsläufig eines entstehen.
+Erst die Hebung der feucht-warmen Luftschicht am Boden löst ein Gewitter aus.
+Dafür sind Faktoren wie Wind- und Luftdruckverhältnisse, die Topographie, sowie die Luftschichtung relevant.
+Da einige dieser Faktoren durch Vorhersagemodelle schwierig vorauszuberechnen sind und von Ort zu Ort stark variieren, ist die Vorhersage von Gewittern außerordentlich schwierig.
+
+Wie Forscher der Universität Karlsruhe herausfanden, hat sich im langjährigen Durchschnitt die Heftigkeit der Gewitter, aber nicht deren Häufigkeit erhöht.
+Ablesbar sei das vor allem an der Zunahme der Hagelunwetter.
+
+=== Vorwarnzeiten
+
+Gewitter bilden sich an den mitteleuropäischen Meeresküsten meist über einen längeren Zeitraum.
+Dem entspricht z. B. die Sprachregelung des britischen Seewetterdienstes für Sturmwarnungen: imminent (unmittelbar bevorstehend) bedeutet innerhalb der nächsten sechs Stunden, soon (bald) bedeutet innerhalb von zwölf Stunden und later (später) in der danach folgenden Zeit.
+Der deutsche Seewetterbericht gibt Sturmwarnungen für die nächsten zwölf Stunden heraus.
+
+Ein sich tatsächlich näherndes oder aufbauendes Gewitter lässt sich an der Küste und im Inland meist schon früh an den dunkel und bedrohlich wirkenden Wolken erkennen.
+Im Gegensatz dazu kann in den Alpen und im Alpenvorland ein Gewitter innerhalb von 10 bis 15 Minuten buchstäblich "aus heiterem Himmel" entstehen, das sich allenfalls in Änderungen des Luftdrucks, der Temperatur und der Luftfeuchtigkeit ankündigt, die ohne Messgeräte meist nur von Einheimischen erfühlt werden können.
+
+=== Entstehungsprozess einer Gewitterzelle
+
+Durch Hebung kühlt ein feuchtes Luftpaket zunächst trockenadiabatisch (1,0 K/100 m) ab, bis seine Temperatur die Taupunkttemperatur erreicht.
+Ab dieser Temperatur beginnt der im Luftpaket enthaltene Wasserdampf zu kondensieren und es bildet sich eine Quellwolke, die schließlich bei geeigneten Bedingungen zu einer Gewitterwolke, einem sogenannten Cumulonimbus (kurz: Cb), anwachsen kann.
+Bei dem Kondensationsvorgang wird im Wasserdampf gespeicherte Energie (latente Wärme) in Form von Wärme freigesetzt, wodurch die Temperatur steigt.
+Dadurch sinkt die Dichte des Luftpakets relativ zur Umgebung und es erhält zusätzlichen Auftrieb.
+Liegt eine sogenannte bedingt labile Schichtung der Atmosphäre vor, so steigt das Luftpaket bis in eine Höhe auf, wo die Temperaturdifferenz pro Höheneinheit (Temperaturgradient) wieder abnimmt.
+Dadurch verringert sich der Temperatur- und Dichteunterschied im Vergleich zur Umgebungsluft wieder.
+Ist die Dichte des Luftpakets schließlich gleich der Dichte der Umgebungsluft, verschwindet die Auftriebskraft, und die aufsteigende Luft wird gebremst.
+Dieses Niveau wird Gleichgewichtsniveau (Equilibrium Level) genannt und an dieser Luftmassengrenze kann sich die Wolke horizontal ausbreiten.
+Dadurch entsteht ihre charakteristische diapirartige Ambossform, weshalb sie auch Ambosswolke genannt wird.
+Meistens befindet sich dieses Gleichgewichtsniveau in der Nähe der Tropopause.
+Diese liegt in Mitteleuropa zwischen 8 km Höhe im Winter und 12 km Höhe im Sommer.
+In den Tropen liegt die Tropopause auf ca. 16 km Höhe.
+Deswegen werden die Gewitter in den Tropen wesentlich höher als in unseren Breiten.
+
+Die Bewegungsenergie, die ein Luftpaket bei seinem Aufstieg erhält, wird auch als Labilitätsenergie bezeichnet.
+Je größer die Labilitätsenergie, desto höher ist die maximale Aufwindgeschwindigkeit in der Gewitterwolke.
+Die Intensität von Gewittern hängt eng mit der vorhandenen Labilitätsenergie zusammen.
+Aufgrund ihrer Trägheit können die Luftpakete ähnlich einem Springbrunnen über das Gleichgewichtsniveau hinausschießen (konvektives Überschießen), und zwar umso höher, je größer die Labilitätsenergie und damit die Geschwindigkeit des Aufwindes ist.
+Solche overshooting tops können Höhen von über 20 km erreichen.
+
+==== Niederschlagsbildung
+
+In der Gewitterwolke herrschen starke Aufwinde, die unter Umständen verhindern, dass kleinere Regentropfen aus der Wolke nach unten fallen.
+Die Regentropfen und Eiskörnchen werden dann immer wieder nach oben getragen, wo sie gefrieren und sich neues Eis anlagert.
+Dieser Vorgang wiederholt sich so oft, bis die Eiskörner so schwer geworden sind, dass sie von den Aufwinden nicht mehr gehalten werden können.
+Dann fallen entweder sehr dicke, kalte Regentropfen, Graupel oder sogar Hagelkörner aus der Gewitterwolke auf die Erde.
+Je stärker die Aufwinde in der Gewitterwolke sind, desto größer können die Hagelkörner werden.
+Bei sehr großtropfigem konvektivem Niederschlag (Platzregen) handelt es sich in der warmen Jahreszeit oder in den Tropen meistens um aufgeschmolzene Hagelkörner.
+
+==== Blitzbildung
+
+Der Blitz entsteht aufgrund der hohen Vertikalwindgeschwindigkeiten, die nur innerhalb von Gewitterwolken auftreten können.
+Eine weitere Bedingung für die Entstehung von Blitzen sind Eiskristalle innerhalb der Gewitterwolke.
+Eiskristalle transportieren aufgrund ihrer Größe unterschiedliche Ladungen und führen an den Grenzflächen zwischen Auf- und Abwinden zur weiteren Ladungstrennung.
+Die Blitzentladung sorgt schließlich für einen Abbau der aufgebauten elektrischen Spannung.
+
+=== Trockengewitter
+
+Wenn bei einem Gewitter der Niederschlag am Erdboden ausbleibt, spricht man von einem Trockengewitter.
+Dazu kommt es, wenn in sehr trockener Luftmasse zwischen Wolkenuntergrenze und Boden der gesamte Regen verdunstet.
+Dabei ist die Brandgefahr besonders hoch, da die brandhemmende Wirkung des Regens ausbleibt.
+Großbrände der portugiesischen Bergwälder im Sommer 2017 wurden mit Trockengewittern in Zusammenhang gebracht.
+In Deutschland sind Trockengewitter selten.
+
+== Arten von Gewitterzellen
+
+Eine Gewitterzelle ist die kleinste abgeschlossene Einheit, aus der ein Gewitter aufgebaut sein kann.
+Sie durchläuft immer drei Stadien, ein Wachstumsstadium, ein Reifestadium und ein Zerfallsstadium.
+Eine Gewitterzelle ist aus einer Cumulonimbuswolke aufgebaut, in der Auf- und Abwinde auftreten.
+Häufig schließen sich mehrere Gewitterzellen zusammen und bilden größere, zusammenhängende Einheiten von Gewittern.
+
+=== Einzelzellengewitter
+
+Bei der Einzelzelle handelt es sich um eine einzelne Gewitterzelle.
+Es ist die kleinstmögliche abgeschlossene Form, in der ein Gewitter auftreten kann.
+Ihre Lebensdauer beträgt zwischen 30 Minuten und einer Stunde.
+Sie entsteht bei schwacher Windscherung, das heißt, wenn der Wind mit der Höhe nur unwesentlich zunimmt.
+Meistens verursachen Einzelzellen relativ schwache Gewitter.
+
+==== Lebenszyklus einer Gewitterzelle
+
+Die Einzelzelle durchläuft drei Stadien:
+
+=== Impulsgewitter
+
+Eine Sonderform der Einzelzelle ist ein Impulsgewitter, das dann auftritt, wenn viel Labilitätsenergie bei geringer Windscherung vorhanden ist.
+Ein Impulsgewitter ist kräftiger als eine gewöhnliche Einzelzelle und kann schwache Tornados, kräftige Fallböen (Downbursts) und Hagel verursachen.
+
+Isolierte Einzelzellen sind selten.
+Meistens treten mehrere Gewitterzellen nebeneinander auf, sogenannte Multizellengewitter.
+
+=== Superzellengewitter
+
+Bei Superzellen handelt es sich um eine Sonderform von Einzelzellen, die durch ihren hohen Grad an organisierter Struktur ausgezeichnet sind.
+Sie können auch in einem Zell-Cluster oder einer Böenlinie eingebettet sein.
+
+Wesentliches Merkmal einer Superzelle ist eine hochreichende persistente Rotation des Aufwindbereiches, die sogenannte Mesozyklone.
+Hochreichend heißt, dass mindestens ein Drittel der Aufwinde rotiert; persistent heißt, dass die Rotation mindestens so lange andauert wie ein Konvektionszyklus.
+Das sind gewöhnlich etwa 10 bis 20 Minuten, per Definition muss allerdings mindestens 30 Minuten lang Rotation vorliegen, damit man von einer Superzelle sprechen kann.
+Dabei überwiegt die zyklonale Rotation: auf der Nordhalbkugel entgegen dem Uhrzeigersinn, auf der Südhalbkugel umgekehrt.
+
+Ursächlich ist eine vertikale Windscherung, also eine Änderung der Windgeschwindigkeit und -richtung mit der Höhe.
+Meistens nimmt dabei der Wind unter Rechtsdrehung mit der Höhe zu.
+Die Corioliskraft hat keinen direkten Einfluss hierauf, da Mesozyklonen zu kleinräumig sind.
+Indirekt spielt sie aber insofern eine Rolle, als das großräumige Windfeld, in das die Mesozyklone eingebettet ist, durch die Corioliskraft - neben Druckgradient, Zentrifugalkraft und Bodenreibung - mit bestimmt wird.
+Die erwähnte Rechtsdrehung des Windes mit der Höhe ist ein solcher Effekt.
+
+Weitere Kennzeichen einer Superzelle sind neben dem Vorhandensein einer Mesozyklone eine räumliche Trennung der Auf- und Abwindbereiche.
+Dabei ist der Aufwind durch die vertikale Geschwindigkeitszunahme geneigt, meistens in Richtung des Windes im mittelhohen Niveau (ca. 5 km).
+Der im Abwindbereich ausfallende Niederschlag stört somit nicht durch seine Verdunstungskühlung die Zufuhr feuchtwarmer Luft in den Aufwindbereich.
+
+Es werden anhand der Niederschlagsintensität drei Typen von Superzellen unterschieden:
+
+Daneben gibt es noch die Sonderform flacher Superzellen (low-topped supercell, mini supercell) geringerer Höhenerstreckung, aber mit persistenter Mesozyklone.
+Diese treten in der Regel in Kaltluftmassen auf.
+Wichtig ist auch, dass eine Superzelle keine elektrische Aktivität (Blitze) zeigen muss, auch wenn die meisten Superzellen nicht nur als Schauer, sondern auch als Gewitter auftreten.
+
+Die Unterschiede einer Superzelle gegenüber einer normalen Zelle:
+
+Lange Zeit galten Superzellen mit wenigen Ausnahmen allein auf die USA beschränkt (nach letzten Erkenntnissen sind es hier mehrere tausend pro Jahr), mittlerweile hat sich aber gezeigt, dass sie bei geeigneten Bedingungen in vielen Gebieten der Erde (auch in den Tropen) auftreten können.
+
+Vermutlich liegt die Anzahl rotierender Stürme an der Gesamtzahl der Gewitter um 5 % (Untersuchungen aus den USA sowie Mitteleuropa), der Versuch einer Aufnahme aller jährlichen Superzellen in eine statistische Auswertung ist derzeit jedoch nur aus Österreich bekannt (von 2003 bis 2005 im Schnitt etwas mehr als 50 rotierende Gewitter jährlich registriert).
+
+Nahezu alle sehr starken oder verheerenden Tornados (F3 und darüber auf der Fujita-Skala) gehen aus Superzellen bzw. den zugehörigen Mesozyklonen hervor.
+Schwächere Tornados (F0 bis F2) können sowohl mesozyklonalen als auch nicht-mesozyklonalen Ursprungs sein.
+Je nach Region überwiegt hier aber der letztgenannte Typ.
+
+Superzellen sind in eindeutiger Weise nur anhand der Rotation (TVS, Tornado Vortex Signature) erkennbar, die auch beim Doppler-Velocity-Scan im Wetterradar sichtbar wird.
+
+=== Multizellengewitter
+
+Eine Multizelle besteht aus mehreren einzelnen Gewitterzellen, die relativ nahe beieinander liegen und interagieren.
+Die Zellen können sich in unterschiedlichen Entwicklungsstadien befinden.
+Bei der Multizelle lässt der Abwind einer Gewitterzelle eine neue Zelle entstehen.
+Obwohl die Lebensdauer einer Zelle innerhalb des Komplexes nicht höher ist als die einer isolierten Einzelzelle, kann das ganze System insgesamt wesentlich länger als eine Stunde existieren.
+Die Gewitterzellen treten entweder in Gruppen (Multizellen-Clustern) auf oder ordnen sich entlang einer Multizellen-Linie an.
+
+==== Multizellen-Linie
+
+Die Gewitterzellen können sich linienförmig anordnen.
+Diese Gewitterlinien können mehrere 100 km lang werden.
+Man bezeichnet sie auch als Böenlinien (engl. squall lines), da an der Vorderseite von diesen häufig kräftige Sturmwinde auftreten.
+Diese Böenfront sorgt dafür, dass ständig neue Gewitterzellen entstehen, welche die alten ersetzen.
+Dieses geschieht, indem sich die kühlere und schwerere Luft, die unter den Gewittern entsteht, vor die Gewitterlinie schiebt.
+Dort wird die feucht-warme und somit energiereiche Luftmasse angehoben, wodurch eine neue Zelle entsteht.
+Dieser Prozess hält solange an, wie die Luft an der Vorderseite instabil geschichtet und ausreichend feucht ist.
+
+==== Derecho
+
+Bei einem Derecho ([[IPA|]] vom Spanischen derecho) handelt es sich um eine langgezogene, langlebige Gewitterlinie, die verbreitet starke Sturmwinde (Downbursts) verursacht.
+Um der Definition eines Derechos gerecht zu werden, muss sie auf mindestens 450 km Länge wirksam sein und dabei immer wieder schwere Sturmböen über 93 km/h hervorbringen.
+
+Im August 2020 vernichtete ein Derecho über 40 % der Ernten in Iowa.
+
+==== Multizellen-Cluster
+
+Gewitterzellen können sich zu sogenannten Clustern gruppieren, die als Ganzes gesehen eine längere Lebensdauer aufweisen.
+Cluster zeigen sich im Satellitenbild als Ansammlungen von runden oder ovalen Punktwolken, wobei die Punkte die Einzelzellen darstellen.
+
+== Klassifikation von Gewittern
+
+Die Bildung von hochreichender konvektiver Bewölkung und Gewittern setzt neben einer bedingt labilen Schichtung zur Auslösung der Feuchtekonvektion einen Hebungsantrieb voraus.
+Hinsichtlich der Auslösemechanismen können verschiedene Gewittertypen unterschieden werden.
+
+=== Luftmassengewitter
+
+Luftmassengewitter treten in einer einheitlichen Luftmasse auf, d. h. die Temperatur verändert sich in horizontaler Richtung kaum.
+Die Temperatur muss aber mit der Höhe hinreichend stark abnehmen und es muss ein bodennaher Heizmechanismus vorliegen (man spricht von thermischer Auslösung des Gewitters).
+Man unterscheidet zwischen zwei Haupttypen von Luftmassengewittern:
+Wärmegewitter und Wintergewitter.
+
+==== Wärmegewitter
+
+Wärmegewitter (auch Sommergewitter oder Konvektionsgewitter genannt) entstehen in Mitteleuropa praktisch ausschließlich im Sommerhalbjahr.
+Die starke Sonneneinstrahlung erwärmt die Luft vor allem in Bodennähe und lässt zudem viel Wasser durch Evapotranspiration verdunsten.
+Dadurch erhöht sich der vertikale Temperaturgradient im Tagesverlauf.
+Die Temperatur steigt vor allem am Boden stark an, während sie in der Höhe nahezu konstant bleibt.
+Ab einer bestimmten Temperatur (Auslösetemperatur) beginnen Warmluftblasen in die Höhe zu steigen, da sie wärmer und somit leichter sind als die Luft in ihrer Umgebung.
+Dabei kühlen sie sich ab und erreichen schließlich das Kondensationsniveau.
+Ist die Atmosphäre darüber feuchtlabil geschichtet, so werden auf diese Weise thermische Gewitter ausgelöst.
+Wärmegewitter treten meistens in den Nachmittags- und Abendstunden auf.
+
+==== Wintergewitter
+
+Wintergewitter entstehen im Winterhalbjahr.
+Sie sind deutlich seltener als Wärmegewitter im Sommer.
+Ihre Entstehung ist prinzipiell dieselbe wie die der Wärmegewitter.
+Allerdings fehlt im Winter oft eine ausreichend starke Sonneneinstrahlung.
+Deswegen kann ein hoher Temperaturgradient nur durch starke Abkühlung in der Höhe zustande kommen.
+Das geschieht durch Zufuhr von Höhenkaltluft, die meistens polaren Ursprungs ist.
+Über See wird die Feuchtekonvektion spontan und tageszeitunabhängig thermisch durch den starken Temperaturgradienten zwischen der relativ warmen Meeresoberfläche und der darüber geführten relativ kalten Luft ausgelöst.
+Auf Satellitenbildern sind diese Luftmassen an der zellulären konvektiven Bewölkung deutlich zu erkennen.
+Über Land hingegen tritt dieser Mechanismus zurück, und es ist unter Einfluss der - wenn auch schwachen - Einstrahlung ein Tagesgang der Konvektion zu beobachten.
+Wintergewitter treten am häufigsten in den Mittags- und frühen Nachmittagsstunden auf.
+Allerdings ist die in den unteren Schichten über dem Meer erwärmte Luft oft recht weit ins Binnenland hinein noch genügend labil, um Konvektion auszulösen.
+Am heftigsten sind die Wettererscheinungen dabei in den Küstenregionen (Lake effect snow).
+Wintergewitter sind oft mit kräftigen Graupelschauer- und Schneeschauern verbunden.
+Da kältere Luft jedoch weniger Wasserdampf enthält und somit weniger energiereich ist, sind diese Gewitter meistens weniger intensiv als Wärmegewitter im Sommer.
+Allerdings können Gewitter im Winterhalbjahr zu oft unerwartet starken Stürmen führen.
+
+=== Frontgewitter
+
+Frontgewitter entstehen durch dynamische Hebung, die durch die Fronten verursacht wird.
+Es müssen allerdings bereits vor dem Frontdurchzug die Grundbedingungen für Gewitter erfüllt sein.
+Die Front ist lediglich der Auslöser (engl. "Trigger" genannt).
+Frontengewitter treten vor allem an der Vorderseite von Kaltfronten auf.
+Nur in seltenen Fällen können sie auch an Warmfronten auftreten.
+In diesem Fall wird die Atmosphäre durch den Einschub feucht-warmer Luftmassen in den unteren Bereichen der Troposphäre labilisiert, und es kommt zu sogenannten Warmlufteinschubgewittern.
+
+Wenn eine Kaltfront aufzieht, schiebt sich die kalte Luft wie ein Keil unter die feuchtwarme Luft, wodurch diese in die Höhe gehoben wird.
+Auf einer bestimmten Höhe kondensiert der Wasserdampf, und es bilden sich Quellwolken, die schließlich bei geeigneten Bedingungen zu Gewitterwolken anwachsen können.
+Solche Frontgewitter können das ganze Jahr über auftreten, sind allerdings im Sommer häufiger als im Winter und fallen in der Regel auch heftiger aus.
+
+==== Präfrontale Konvergenz
+
+Eine Besonderheit, die vor allem in der warmen Jahreszeit auftritt, sind linienhaft angeordnete Gewitter entlang von Konvergenzen, die vielfach einer Kaltfront vorgelagert sind und in diesem Fall als präfrontale Konvergenzen bezeichnet werden.
+Im Bereich der Konvergenz, wo Windströmungen aus unterschiedlichen Richtungen zusammenfließen, kommt es noch nicht zu einem Luftmassenwechsel.
+Die Konvergenz macht sich am Boden bemerkbar durch einen Windsprung, der durch das konvergente Windfeld bedingt ist.
+Auslöser bzw. Hebungsmechanismus ist hier die zusammenströmende Luft, die entlang der Konvergenz zum Aufsteigen gezwungen wird.
+Im Winter sind solche Konvergenzen meistens wenig wetteraktiv, während im Sommer die Haupt-Gewittertätigkeit oft an der Konvergenz und nicht an der nachfolgenden Kaltfront zu finden ist.
+Innerhalb von Kaltluftmassen hinter einer Kaltfront kommt es entlang von Troglinien zu Hebungsvorgängen, die Feuchtekonvektion und auch Gewitter auslösen können.
+Dieser Mechanismus ist zu allen Jahreszeiten zu beobachten, schwerpunktmäßig dabei im Winter, da dann die Dynamik von Tiefdruckgebieten am ausgeprägtesten ist.
+
+=== Orographische Gewitter
+
+Orographische Gewitter entstehen durch Hebung an Gebirgen.
+Überströmt eine Luftmasse ein Gebirge, wird sie zwangsläufig gehoben.
+Dabei kühlt sie sich ab und kann auskondensieren.
+Es kann sich bei geeigneten Bedingungen eine Gewitterwolke bilden.
+Orographische Gewitter können in Staulagen enorme Regenmengen verursachen, da sie sich unter Umständen immer wieder an derselben Stelle bilden.
+
+== Elektrische Phänomene
+
+Die elektrostatische Aufladung der Atmosphäre in der Nähe von Gewittern kann zu zwei verschiedenen Phänomenen führen: Erdblitz und Elmsfeuer.
+Letzteres kann besonders an hohen Schiffsmasten, Kirchturmspitzen oder am Cockpit-Fenster von Flugzeugen beobachtet werden und deutet auf einen unmittelbar bevorstehenden Blitzeinschlag hin.
+
+== Biologische Phänomene
+
+Bei Gewittern haben besonders viele Menschen Asthmabeschwerden.
+Nach einer australischen Studie von 2001 liegt das daran, dass bei einem Gewitter zuerst Pollen von den Feldern nach oben gewirbelt werden und anschließend die Böen mit den Pollen wieder nach unten gedrückt werden.
+Zudem kann der Regen die Pollenkörner aufbrechen, so dass kleine Partikel entstehen, die in die Lunge eindringen können.
+In Melbourne starben am 27. November 2016 bei solch einem "Asthma-Gewitter" sechs Menschen.
+Dabei hatte der Sturm Weidelgraspollen zum Platzen gebracht.
+8500 Menschen mussten medizinisch behandelt werden.
+
+Das häufig beobachtete schnellere Verderben von Lebensmitteln bei Gewittern ist darauf zurückzuführen, dass Wärme und Feuchtigkeit vor und während eines Gewitters Mikroorganismen ideale Bedingungen bieten, sich zu vermehren.
+
+== Gefahren
+
+In manchen Fällen bergen starke Gewitter Gefahren wie z. B. Sturmschäden durch Fallböen (Downbursts) oder Tornados, Überschwemmungen durch starken Regen und Schäden durch Hagel.
+Selten kommt es zu Schäden durch Blitze, etwa zu Kurzschlüssen, Bränden oder gar Verletzungen.
+Seit der Erfindung des Blitzableiters sind viele Gebäude vor Blitzen geschützt.
+Jedoch kommt es immer noch zu Blitzeinschlägen in Bauernhöfe (vor allem auf dem Land), die dann Großbrände zur Folge haben.
+Der Aufenthalt in Wäldern während eines Gewitters ist mitunter lebensgefährlich.
+Schlägt der Blitz in einen Baum ein, kann das darin enthaltene Wasser durch die Blitzenergie schlagartig verdampfen und den Baum sprengen.
+
+Die Gefahr eines Blitzschlages besteht auch in einiger Entfernung zu der eigentlichen Gewitterzelle noch, mitunter wird von Blitzschlägen aus Nieselregen heraus ohne zuvor hör- und sichtbare Gewitter berichtet.
+Wolken-Boden-Blitze legen zum Teil sogar sehr große Entfernungen von 32 Kilometern und mehr zurück.
+Deshalb sollte man sich bei gemeldeten Gewittern nicht in der Nähe von Metallgegenständen aufhalten, wozu im Gebirge auch die Drahtseilsicherung an Klettersteigen zählt.
+
+=== Verhaltensregeln beim Aufenthalt im Freien während eines Gewitters
+
+Um die Wahrscheinlichkeit, vom Blitz verletzt zu werden, zu minimieren, gilt es, Folgendes zu beachten:
+
+Die Sicherheit hängt vom vorausschauenden Verhalten ab:
+Ein Gewitter kommt, außer in den Alpen und im Alpenvorland, niemals "aus heiterem Himmel"; wer regelmäßig einen Blick in den Himmel wirft, kann ein sich näherndes Gewitter schon früh an den dunkel und bedrohlich wirkenden Wolken erkennen.
+Wenn das Gewitter bemerkt wurde, sollte abhängig von seiner Entfernung und Geschwindigkeit der sicherste erreichbare Zufluchtsort angestrebt werden.
+Anhand der Zeitdifferenz t {\displaystyle t} zwischen Blitz (Lichtgeschwindigkeit) und Donner (Schallgeschwindigkeit c S {\displaystyle c_{\text{S} }} , ca. 340 m/s) lässt sich die Entfernung d {\displaystyle d} des Blitzes berechnen:
+
+Durch Wiederholung der Berechnung lässt sich die Bewegungsrichtung und -geschwindigkeit des Gewitters abschätzen:
+Jede Sekunde, die der Abstand zwischen Blitz und Donner kürzer wird, ist es 340 m näher gekommen.
+Unter 6 Sekunden zwischen Blitz und Donner, also unter ca. 2 km Entfernung, ist jederzeit die Möglichkeit eines Einschlags in der Nähe gegeben.
+
+Anhand folgender Faustformel lässt sich die Entfernung des Blitzes abschätzen:
+
+Lebensgefährlich ist ein altes deutsches Sprichwort:
+
+Eine Lesart geht davon aus, dass früher niedrige Gewächse (Büsche) im Deutschen als "Bucken" bezeichnet wurden.
+Man soll sich also eher ins Gebüsch schlagen, als sich neben einen Baum zu stellen.
+Eine andere Lesart basiert auf der Beobachtung, dass Buchen seltener vom Blitz zersprengt werden.
+Das liegt aber nicht daran, dass sie nicht getroffen würden, sondern an ihrer glatten Rinde, die bei Gewitter großflächig nass wird und dann einen natürlichen Blitzableiter bildet, der den Blitz daran hindert, das Innere des Baumes zu durchlaufen.
+
+=== Verhalten in Gebäuden während eines Gewitters
+
+Innerhalb eines Gebäudes können Gefahren durch von außen hereinkommende Leitungen bestehen (u. a. Strom- oder Wasserleitungen).
+Durch ordnungsgemäße Erdung in Form eines Hauptpotentialausgleiches lassen sich diese aber vermeiden.
+Lediglich in Gebäuden ohne diesen vorschriftsmäßigen Blitzschutz sollte bei Gewitter deshalb möglichst nicht geduscht, gebadet oder mit elektrischen Geräten hantiert werden, da dann durchaus Lebensgefahr bestehen kann.
+Eine weitere Gefahr können hier Telefone darstellen, besonders bei oberirdischer Zuführung der Telefonleitung ans Haus.
+Es sollte dann möglichst nicht mit schnurgebundenen Festnetztelefonen telefoniert werden.
+Schlägt der Blitz in die Leitung ein, stellt man mit dem Telefonhörer in der Hand eine gute Verbindung zur Erde dar.
+Schnurlostelefone stellen konstruktionsbedingt keine Gefahr dar.
+
+Generell gilt die Regel, dass man bei Gewitter Aufzüge nicht benutzen sollte, um bei Stromausfall nicht steckenzubleiben.
+
+=== Betrieb von Fahrzeugen während eines Gewitters
+
+Der Innenraum aller Fahrzeuge mit geschlossener Metallkarosserie (Landfahrzeuge, Luftfahrzeuge, Schiffe) stellt einen Faradayschen Käfig dar, in dem keine direkte Gefahr eines Blitzschlages besteht.
+Offene Fenster beeinträchtigen dabei das Schutzvermögen des Fahrzeuges an sich nicht.
+Bei Versuchen in Hochspannungs-Labors wurden Brandspuren am Lack sowie quer über die Reifenflanken festgestellt.
+Nach unbelegten Vermutungen könnten indes Sekundärschäden eines Blitzeinschlages auch die Insassen betreffen.
+
+Bei Gefahr eines Blitzeinschlages sollte die Fahrgeschwindigkeit reduziert werden, um bei Versagen der Bordelektronik oder eingeschränkter Fahrtüchtigkeit sofort anhalten zu können.
+Da Gewitter jedoch häufig von Hagel und schweren Wolkenbrüchen begleitet werden, empfiehlt sich ohnehin eine reduzierte Fahrgeschwindigkeit.
+Auf Autobahnen darf auch bei Gewitter nur mit eingeschalteter Warnblinkanlage auf dem Standstreifen gehalten werden.
+
+Schiffe aus Metall (Ganzmetallkonstruktionen) bieten im Inneren den besten Schutz, ein Aufenthalt an Deck während eines Gewitters sollte vermieden werden.
+Hier gilt wie bei Landfahrzeugen, Fenster und Türen geschlossen zu halten und den Kontakt mit metallischen Gegenständen zu meiden.
+Boote hingegen, die aus Kunststoff oder Holz gefertigt sind, bieten wenig bis gar keinen Schutz, es sei denn, es befindet sich ein eingearbeitetes und durchgehendes Drahtgitter in Kajüte und Rumpf, oder das Boot besitzt einen eigenen Blitzableiter.
+
+Aus Metall konstruierte Flugzeuge und Hubschrauber bieten einen guten Schutz, wenn sie rundum geschlossen sind und geprüfte Blitzschutzeinrichtungen besitzen.
+Aufgrund des Einsatzes moderner Verbundwerkstoffe bei Luftfahrzeugen kommt es aber immer wieder zu Komplikationen, da diese nicht oder nur schwach leitend sind.
+In Folge dessen kann ein Blitzeinschlag auf der Außenhaut des Flugzeuges sogenannte Brandflecken hinterlassen.
+Aus diesen Grund werden ständig weitere Blitzschutzsysteme für Luftfahrzeuge entwickelt.
+Blitzeinschläge haben, bis auf wenige Ausnahmefälle in der Vergangenheit, keine nachhaltigen Auswirkungen auf die Betriebstauglichkeit heutiger Verkehrsluftfahrzeuge.
+Dennoch werden Gewitter in fast allen Fällen umflogen, da man die Flugzeugstruktur und die Passagiere vor Turbulenzen bewahren möchte und Beschädigungen der Außenhülle durch Hagelkörner vermeiden will.
+Kleinere Flugzeuge meiden Gewitter generell, zumal sie, abgesehen von der Blitzschlaggefahr, auch nicht für die in und um Gewitterzellen auftretenden starken Winde konstruiert sind.
+
+== Siehe auch
+
+== Literatur
+
+== Medien
+
+== Weblinks
+
+== Einzelnachweise
+

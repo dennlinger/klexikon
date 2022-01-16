@@ -1,0 +1,91 @@
+Chat (; von englisch to chat "plaudern, sich unterhalten") oder Online-Chat bezeichnet die elektronische Kommunikation mittels geschriebenem Text in Echtzeit, meist über das Internet.
+Die erste Ausprägung des Online-Chats bot ab 1980 der US-amerikanische Internetdienstanbieter Compuserve in Form des "CB-Simulators".
+Auch das Usenet und im weiteren Sinn der CB-Funk hatten Chat-Funktionen.
+
+== Arten
+
+Die ursprünglichste Form des Internet-Chats ist der reine Textchat, bei dem nur Zeichen ausgetauscht werden können.
+Mittlerweile kann - je nach System - eine Ton- und/oder Videospur dazukommen bzw. den Textchat ersetzen.
+Man spricht dann von "Audio-" bzw. "Videochat".
+
+Heute werden, technisch gesehen, hauptsächlich drei Chatformen unterschieden:
+
+IRC und Instant Messaging beinhaltet meistens weitere Funktionalitäten wie das Erstellen von Gesprächsprotokollen ("chat logs") oder das Übermitteln von Dateien und Hyperlinks.
+Allen drei Varianten ist gemeinsam, dass meistens nicht unter bürgerlichem Namen gechattet wird, sondern unter einem Pseudonym (Nickname).
+Im IRC und in Web-Chats ist der Austausch meistens in Chaträumen bzw. Channels organisiert, die sich speziellen Themen widmen.
+Chats mit mehr als zwei Chattern finden in Chaträumen statt.
+Nach einer Erhebung des Statistischen Bundesamtes nutzten 2009 46 Prozent der 10- bis 15-jährigen Internetnutzer Chats, Blogs oder Internetforen als Kommunikationsmittel.
+Bei Studenten und Schülern beträgt dieser Anteil 89 Prozent.
+
+== Chatiquette
+
+Zu beachten ist die Chatiquette.
+Hierbei handelt es sich um spezielle Regeln für die Umgangsformen in einem Chat.
+Um Missverständnisse aufgrund der fehlenden visuellen Kommunikation zwischen den Teilnehmern zu vermeiden, sollten diese Regeln eingehalten werden.
+
+Allgemeine Regeln für die Umgangsformen im Internet beschreibt die Netiquette.
+
+== Chatter-Treffen
+
+Da man sich in einem Chat nur "virtuell" unterhalten kann, werden von manchen Chat-Communitys oder auch Privatpersonen sogenannte Chatter-Treffen (CT) organisiert.
+Hier treffen sich die Chatter dann auch im wirklichen Leben, um sich auszutauschen oder organisatorische Dinge zu besprechen.
+Treffen, bei denen sich Mitglieder eines Chat-Kanals (z. B. IRC-Channel) treffen, nennt man Channelparty.
+
+Die ersten Chatter-Treffen Europas fanden schon 1987 statt und nannten sich Relay-Partys entsprechend dem Vorläufer von IRC, Bitnet Relay.
+
+== Gefahren und Probleme
+
+=== Falsche Identitäten
+
+Nutzer können sich in Chats nie sicher sein, ob das Gegenüber auch wirklich das ist, wofür er oder sie sich ausgibt.
+Dies gilt auch für Chats, in denen die Benutzer Steckbriefe besitzen.
+Scheinbar persönliche Informationen und Fotos stimmen nicht unbedingt mit der realen Person überein, da die Registrierungsdaten üblicherweise nicht verifiziert werden.
+Chatter, die sich für etwas ausgeben, was sie nicht sind, nennt man Fakes oder Catfish.
+So kann es vorkommen, dass jemand mit einem Mann spricht, der sich als eine Frau ausgibt etc.
+Hierbei kann es auch zum Romance Scam (,Liebesschwindel') kommen.
+Selbst wenn eine Verifizierung stattfindet, muss diese nicht zuverlässig sein.
+Nach Wolak et al. sollten gerade Kinder und Jugendliche auf diesen möglichen Unterschied zwischen "Online-Persönlichkeit" und Realität hingewiesen werden, insbesondere in Bezug auf die Gefahr durch Sexualstraftäter ("Online predator").
+
+=== Chatsucht
+
+Der Spaß am Chatten kann zu einer Chatsucht werden.
+Dies wird häufig bei Personen beobachtet, die gerade begonnen haben zu chatten.
+Vor allem bei Personen mit einem gestörten sozialen Umfeld kann sich dieses Problem verfestigen.
+Die Chatsucht kann in Verbindung mit einer Onlinesucht auftreten.
+Begünstigt wird dies durch die Anonymität, so dass man sich anderen Teilnehmern gegenüber als Persönlichkeit ausgeben kann, die man im tatsächlichen Leben nicht ist.
+Dies kann zu Realitätsverlust führen, da man sich auch außerhalb des Chatrooms für die im Chat erstellte Person halten kann.
+
+== Kommunikation im Chat
+
+Die Kommunikation im Chat findet fast zeitgleich (synchron) statt und nicht über eine lange Zeit versetzt (asynchron), wie z. B. in der E-Mail-Kommunikation.
+Die teilnehmenden Chatter tippen ihre Gesprächsbeiträge in ein Eingabefeld und schicken sie durch eine Eingabe ab.
+Ab dem Zeitpunkt seiner Zustellung an die Adressatenrechner ist der Beitrag für alle im selben Chatraum präsenten Chat-Beteiligten fast sofort sichtbar; bis zum Zeitpunkt seiner Verschickung ist bei den meisten Chat-Systemen aber die Aktivität des Tippens für die Partner ersichtlich.
+Ferner können sich Beiträge überlappen.
+Die Kommunikation im Chat teilt - trotz ihrer medial schriftlichen Realisierung - mehr Merkmale mit dem mündlichen Gespräch als mit Texten, ihre charakteristischen Unterschiede zum mündlichen Gespräch bestehen aber in mehr als lediglich der Tatsache, dass Chat-Beiträge im Gegensatz zu Gesprächsbeiträgen getippt werden.
+Wegen der kommunikativen Rahmenbedingungen ist trotz der synchronen Präsenz der Kommunikationsbeteiligten vor ihren Rechnern keine simultane Verarbeitung von Verhaltensäußerungen zur Laufzeit ihrer Hervorbringung möglich; in diesem Punkt unterscheidet sich die Chat-Kommunikation vom mündlichen Gespräch (vgl. z. B. Beißwenger 2007).
+
+== Sprache im Chat
+
+Im Chat steht eine korrekte Verwendung der Sprache auf syntaktischer und orthographischer Ebene nicht im Vordergrund.
+Anakoluthe (Konstruktionsbrüche), Aposiopesen (Satzbrüche) sowie umgangssprachliche Kontraktionen, Ellipsen, Interjektionen, dialektale und soziolektale Ausdrücke verleihen der Sprache im Chat einen Slang-Charakter.
+Tippfehler und grammatikalische Fehler sind häufig, Satzzeichen spielen fast keine Rolle, und oft wird konsequent klein geschrieben.
+"Das Ökonomieprinzip steht eindeutig als Maxime der Äußerungsproduktion im Vordergrund." Die fehlenden parasprachlichen Mittel werden ersetzt durch Emoticons (etwa :-) als Smiley), Akronyme (lol = laughing out loud "lautes Lachen") oder durch Abkürzungen.
+
+== Fremdsprachen lernen im Chat
+
+Möchte man als Lernender das Medium Chat nutzen, um seine Fremdsprachenkenntnisse zu verbessern, sollte man aufgrund der besonderen Kommunikations- und Sprachmerkmale von Chats Räume wählen, die extra dafür eingerichtet wurden, sogenannte Lernchats oder didaktische Chat-Räume.
+
+== Software und Protokolle
+
+Bekannte Chatsoftware und Protokolle sind:
+
+Chatprogramme, die mehrere Protokolle unterstützen:
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

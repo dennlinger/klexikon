@@ -1,0 +1,510 @@
+Kernenergie, Atomenergie, Atomkraft, Kernkraft oder Nuklearenergie ist die Technologie zur großtechnischen Erzeugung von Sekundärenergie mittels Kernspaltung.
+Diese Technologie wird seit den 1950er Jahren in großem Maßstab zur Stromproduktion genutzt.
+Mit Stand Januar 2020 waren 447 Reaktorblöcke mit einer Gesamtleistung von 397 GW in 31 Ländern in Betrieb.
+Weitere 53 Reaktorblöcke mit einer Gesamtleistung von 54,7 GW befinden sich in Bau.
+Dazu sind mehr als 100 Kernkraftwerke für das kommende Jahrzehnt in Planung.
+Da parallel zu den Neubauten bisher auch schon 181 Kernkraftwerksblöcke abgeschaltet wurden, blieb die Zahl der Reaktoren seit den 1990er Jahren weitgehend konstant.
+Durch die weltweit steigende Stromerzeugung sank der Anteil der Kernkraft von 1996 bis 2018 von 17,5 % auf 10,15 %.
+2018 war die in Kernkraftwerken erzeugte elektrische Energie gut vier Prozent geringer als 2006, als diese ein historisches Hoch erreichte.
+In der EU decken Kernkraftwerke etwa 25 % der verbrauchten Elektrizität (787 TWh Erzeugung bei 117 GW installierter Leistung).
+Neben stationären Kernreaktoren gibt es etwa 180 Reaktoren auf ca. 140 Wasserfahrzeugen, darunter Atom-U-Boote, Flugzeugträger, einige Atomeisbrecher, 4 Frachtschiffe, sowie ein seegestütztes Kernkraftwerk.
+Es wurden auch bereits Satelliten mit Kernreaktoren betrieben und Reaktorkonzepte für Flugzeuge erforscht.
+Zu den Vor- und Nachteilen der Kernspaltungsenergie gibt es unterschiedlichste Ansichten, sodass ihre Nutzung im Allgemeinen als auch ihre Sicherheit im Speziellen sowohl in der Wissenschaft als auch in der Öffentlichkeit kontrovers diskutiert werden.
+Als einer der ersten prägte der Physiker Hans Geitel 1899 den Begriff Atomenergie für die im Zusammenhang mit radioaktiven Zerfallsprozessen auftretenden Phänomene.
+Später kamen die Synonyme Atomkernenergie, Atomkraft, Kernkraft und Kernenergie hinzu.
+Die Verwendung dieser Begriffe hat eine politisch-ideologisch motivierte Verschiebung erfahren.
+In den 1950er-Jahren war Franz Josef Strauß Bundesminister für Atomfragen.
+Eine 1955 in Genf abgehaltene Konferenz mit hochrangigen Wissenschaftlern trug den Titel International Conference on the Peaceful Uses of Atomic Energy und wurde in deutschen Medien als Atomkonferenz bekannt.
+In der Folge dieser Konferenz wurde 1957 die Internationale Atomenergie-Organisation (IAEA) gegründet.
+Der Lobbyverband der an der Technik interessierten deutschen Unternehmen wurde 1959 als Deutsches Atomforum gegründet.
+In den folgenden Jahrzehnten distanzierten sich die Befürworter der Technik von der Vorsilbe Atom und verwendeten in Deutschland ausschließlich Kern.
+Parallel dazu geschah im englischen Sprachraum eine Verschiebung von atomic zu nuclear.
+Als Grund gilt die unerwünschte Assoziation mit dem zunehmend negativ besetzten Begriff der Atombombe; die technisch-physikalische Rechtfertigung betont, dass die relevanten Prozesse im Kern ablaufen, und nicht im gesamten Atom, dessen chemische Eigenschaften von der Atomhülle bestimmt werden.
+Kritiker behielten dagegen die Vorsilbe Atom sowohl in der Eigenbezeichnung Atomkraftgegner als auch in Slogans wie etwa "Atomkraft?
+Nein danke" bei.
+Sie sprachen weiterhin von Atomenergie und Atomkraftwerken mit der Abkürzung AKW.
+Das Synonym Atomkernenergie wurde in der ersten Zeit der technischen Nutzung verwendet (Namensänderung des Atomministerium in Bundesministerium für Atomkernenergie 1961) und bis heute als atomrechtlicher Begriff etwa beim Länderausschuss für Atomkernenergie.
+Um 1890 wurden erste Experimente zur Radioaktivität durchgeführt.
+Das Ziel Antoine Henri Becquerels, Marie und Pierre Curies und anderer war die Erforschung von Kernreaktionen.
+1938 entdeckten Otto Hahn und Fritz Straßmann die induzierte Kernspaltung von Uran, die 1939 von Lise Meitner und Otto Frisch theoretisch erklärt wurde.
+Zusammen mit dem insbesondere von Frederic und Irene Joliot-Curie erbrachten Nachweis, dass eine Kettenreaktion möglich ist, weil bei jeder durch ein Neutron ausgelösten Kernspaltung mehrere weitere Neutronen freigesetzt werden, wurden die praktischen Anwendungsmöglichkeiten der Kernspaltung klar.
+Zuerst wurden diese Erkenntnisse für die militärische Forschung während des Zweiten Weltkrieges genutzt.
+Im Rahmen des Manhattan-Projekts gelang Enrico Fermi am 2. Dezember 1942 die erste kontrollierte nukleare Kettenreaktion in einem Kernreaktor in Chicago (Chicago Pile One).
+Während das Ziel des von Robert Oppenheimer geleiteten Manhattan-Projekts mit der ersten erfolgreich gezündeten Atombombe am 16. Juli 1945 (Trinity-Test) erreicht wurde, gelang es der deutschen Forschungsgruppe unter Werner Heisenberg und Carl Friedrich von Weizsäcker bis zum Kriegsende nicht, einen funktionierenden Kernreaktor zu entwickeln (Uranprojekt).
+Nach dem Zweiten Weltkrieg wurde die militärische Forschung fortgesetzt.
+Parallel wurde die zivile Verwendung der Kernenergie entwickelt.
+Ende 1951 erzeugte der Versuchsreaktor EBR-I im US-Bundesstaat Idaho erstmals elektrischen Strom aus Kernenergie und erleuchtete am 20. Dezember vier Glühlampen.
+Das erste Kraftwerk zur großtechnischen Erzeugung von elektrischer Energie wurde 1954 mit dem Kernkraftwerk Obninsk bei Moskau in Betrieb genommen.
+1955 folgte das Kernkraftwerk Calder Hall in Nord-West England auf dem Gelände des Nuklearkomplexes Sellafield.
+In Deutschland wurde 1957 mit dem Forschungsreaktor München in Garching der erste Forschungsreaktor in Betrieb genommen.
+1961 wurde auf der Gemarkung der Gemeinde Karlstein am Main aus dem Kernkraftwerk Kahl mit einer Leistung von 15 MW zum ersten Mal elektrischer Strom aus Kernenergie in das westdeutsche Versorgungsnetz eingespeist.
+1966 nahm in der DDR das Kernkraftwerk Rheinsberg seinen Betrieb auf.
+Der Ausbau der Kernenergie in Westdeutschland erfolgte dabei nicht marktgetrieben bzw. als Reaktion auf eine Energieknappheit.
+Stattdessen kam staatlichen Instanzen die Schlüsselrolle zu, während z. B. die Energieversorgungsunternehmen "lange der bremsende Faktor bei der Durchsetzung der Kernenergie" waren.
+Es wird sogar die Auffassung vertreten, dass in den Anfangsjahren der entscheidende Antrieb für das deutsche Kernenergieprogramm darin bestand, damit die Option auf eine Nuklearbewaffnung zu schaffen.
+Während die deutsche Atompolitik in Fortsetzung des Atomprojekts während der NS-Diktatur zunächst auf den Schwerwasserreaktor setzte, übernahm man in den 60er Jahren das günstigere amerikanische Konzept des Leichtwasserreaktors, ein "Sieg der Ökonomen über die Techniker".
+Mit dieser Nachahmung der Amerikaner ergaben sich für Deutschland spezifische Probleme:
+So waren die zivilen amerikanischen Reaktoren in Anbetracht des Status der USA als Atommacht derart gewählt, dass sie von den militärischen Uran- und Plutoniumanlagen profitierten, womit eine fließende Grenze zur Militärtechnik eine Grundvoraussetzung der dortigen Reaktorentwicklung war.
+Deshalb war die Eignung der amerikanischen Reaktortechnik für Deutschland insoweit fraglich, zumindest für den Fall, dass sich Deutschland für alle Zeiten als Nichtatommacht begriffen hätte.
+Zudem war die Sicherheitsphilosophie beiderseits des Atlantiks eine andere:
+In den USA war man sich bewusst, dass Leichtwasserreaktoren eine geringere inhärente Sicherheit boten als andere zu dieser Zeit diskutierte Reaktortypen.
+Deshalb war es weitgehend Konsens, dass man mit dem Schlimmsten rechnen müsse und Kernkraftwerke dementsprechend vorwiegend in dünnbesiedelten und leicht zu evakuierenden Regionen gebaut werden sollten.
+In der viel dichter besiedelten Bundesrepublik war dies dagegen nicht möglich, da man sonst kaum Reaktorstandorte hätte ausweisen können.
+Stattdessen wurde, um einen entsprechenden Sicherheitsabstand vermeiden zu können, überlegt, Kernkraftwerke unterirdisch zu errichten, was aber von der Atomindustrie vehement abgelehnt wurde.
+Andere Planungen sahen dagegen dezidiert Kernkraftwerke vor, die nahe den Großstädten Ludwigshafen am Rhein bzw. Frankfurt am Main liegen sollten, um die dort ansässige Chemieindustrie mit Prozesswärme zu versorgen; maßgeblich aus den Überlegungen heraus motiviert, die besondere Zuverlässigkeit deutscher Kernkraftwerke zu beweisen.
+In den 1960er Jahren wurden zahlreiche weitere Kernkraftwerke mit deutlich höherer Leistung gebaut.
+So hatte das 1966 in Betrieb gehende Kernkraftwerk Gundremmingen eine Leistung von 250 MW.
+1968 wurde der Erzfrachter "Otto Hahn" als nuklear betriebenes Forschungsfrachtschiff in Betrieb genommen; nach dem Ende des nuklearen Betriebs 1979 wurde es wieder auf Dieselantrieb umgerüstet.
+In den 1970er Jahren wurde insbesondere nach der ersten Ölkrise 1973 der Bau von Kernkraftwerken forciert.
+Diese Kernreaktoren, wie etwa der Block B des Kernkraftwerks Biblis, leisten etwa 1,3 GW (= 1300 MW).
+Im Zuge der Proteste der Anti-Atomkraft-Bewegung gegen den Bau des Kernkraftwerks Wyhl 1975 in Deutschland entstand eine größere Opposition gegen die zivile Nutzung der Kernenergie.
+In Österreich wurde 1978 in einer Volksabstimmung beschlossen, das bereits fertig gebaute Kernkraftwerk Zwentendorf nicht in Betrieb zu nehmen.
+Die Kritik an der Kernkraft verstärkte und verschärfte sich insbesondere durch das schwere Reaktorunglück im Kernkraftwerk Three Mile Island bei Harrisburg (USA) am 28. März 1979, bei dem es erstmals zu einer partiellen Kernschmelze kam.
+1983 wurde in Schmehausen der Thorium-Hochtemperaturreaktor (Kernkraftwerk THTR-300) in Betrieb genommen.
+Er geht auf die Entwicklungen durch Rudolf Schulten zurück.
+Dieser Prototyp eines Kugelhaufenreaktors wurde sechs Jahre später nach mehreren technischen Störungen, langen Stillstandsphasen und nur 14 Monaten Volllastbetrieb stillgelegt.
+Die Stilllegung war notwendig geworden, da die Anlage 1989 am Rande der Insolvenz stand und keine Einigung über die Übernahme der auch weiterhin zu erwartenden hohen Betriebsverluste erzielt werden konnte.
+Der THTR wurde in den Sicheren Einschluss überführt.
+Am 26. April 1986 ereignete sich die Katastrophe von Tschernobyl, bei der nach einer Kernschmelze auch in Westeuropa große Mengen von Radioaktivität niedergingen.
+In der Folge nahm insbesondere in Europa die Kritik an der Nutzung der Kernenergie deutlich zu.
+Im Jahr 2000 wurde in Deutschland auf Druck der Bundesregierung der Ausstieg aus der kommerziellen Nutzung der Kernenergie bis etwa 2020 beschlossen.
+In diesem Rahmen wurden bis 2005 zwei Kernkraftwerke vom Netz genommen.
+2010 beschloss die schwarz-gelbe Koalition Kabinett Merkel II eine Laufzeitverlängerung deutscher Kernkraftwerke um 8 bzw. 14 Jahre.
+Dieser Beschluss war politisch und gesellschaftlich stark umstritten (erst recht seit der Nuklearkatastrophe von Fukushima in Japan seit März 2011).
+Der schwere Unfall in Fukushima hat gezeigt, dass der weltweit verbreitete Leichtwasserreaktor mit Mark-I Containment von General Electric den Ansprüchen an Sicherheit nicht abschließend genügt, wobei die Gründe für den Unfall auch in Fehlentscheidungen des Betreibers (Wirtschaftlichkeit vor Sicherheit) und Nachlässigkeit der Behörden lagen.
+Als Reaktion darauf verkündete die Bundesregierung im März 2011 zunächst ein dreimonatiges Atom-Moratorium, schließlich wurde im Atomkonsens der Ausstieg bis zum Jahr 2022 beschlossen, die acht ältesten Kernkraftwerke wurden sofort stillgelegt.
+Laut IAEA/PRIS sind die Anzahl der Kernkraftwerke und die installierte Leistung seit 1995 gestiegen.
+Die Anzahl der Reaktorblöcke erhöhte sich von 434 auf 445, die verfügbare Leistung stieg von 341 GW auf 387,4 GW.
+Im Jahr 2011 waren laut IAEA 65 Reaktoren weltweit im Bau sowie 114 in Planung.
+Nach der Nuklearkatastrophe von Fukushima wurden jedoch zahlreiche Neubaupläne revidiert.
+Beispielsweise stoppte China vorübergehend sämtliche Neubaupläne.
+In den USA kündigte Präsident Barack Obama den Bau einer "neuen Generation sicherer, sauberer Atomkraftwerke" an und bot dafür staatliche Kreditgarantien in Höhe von 38,6 Mrd. Euro.
+Mit Stand Februar 2020 befinden sich in den USA zwei Atomreaktoren in Bau.
+Die ehemalige französische Regierung unter Francois Fillon bekräftigte 2011, dass die Kernenergie der Grundpfeiler der seit 40 Jahren andauernden Politik der Energieunabhängigkeit bleiben werde.
+Der im Mai 2012 neugewählte Präsident Hollande hat im Wahlkampf mit den (französischen) Grünen vereinbart, 24 der 58 französischen Reaktoren abschalten zu wollen.
+In Indien werden mit Stand Februar 2020 sieben Kernkraftwerke gebaut.
+Es ist vorgesehen, bis 2050 25 % des Elektrizitätsbedarfs durch Kernenergie zu decken.
+In China befinden sich mit Stand Februar 2020 10 Kernkraftwerke in Bau, etwa 148 weitere Reaktorblöcke befinden sich in Planung.
+Im März 2011 setzte die Regierung die Genehmigung neuer Kernkraftwerke vorübergehend aus.
+Bis 2020 war eine Verachtfachung der installierten Leistung auf insgesamt 80 GW vorgesehen, bis Februar 2020 waren es jedoch nur 45,53 GW.
+Im Juli 2011 wurde berichtet, dass China wieder auf einen rasanten Ausbau der Kernenergie setzen würde.
+Die Atomkatastrophe von Fukushima habe daran nicht viel geändert.
+Russland betreibt mit Stand Februar 2020 38 Reaktoren und baut 4, 31 befinden sich in Planung.
+Südkorea trieb die Kernenergie ehemals voran, derzeit sind noch 5 Reaktoren im Bau.
+Im Juni 2017 kündigte der südkoreanische Präsident Moon Jae-in an, bis 2057 vollständig aus der Atomkraft auszusteigen.
+Die bestehenden AKW sollen künftig nach 40 Jahren vom Netz gehen, der älteste Reaktorblock, Kori 1 wurde dementsprechend am 18. Juni 2017 abgeschaltet.
+Italien hat nach einem Volksentscheid im Juni 2011, in dem sich 95 % der Bürger gegen den Wiedereinstieg entschieden, den von der Regierung Berlusconi geplanten Wiedereinstieg ad acta gelegt.
+Tschechien hat Neubaupläne für Atomkraftwerke verworfen.
+Die Ausschreibung für die zwei neuen AKW-Blöcke am Standort Temelin wurde vom halbstaatlichen Energiekonzern CEZ zurückgezogen.
+Deutschland entschied sich bereits unter der Regierung Schröder für einen Atomausstieg bis etwa 2020/21.
+Die Regierung Merkel verlängerte zunächst die Laufzeiten, leitete jedoch nach dem Reaktorunfall von Fukushima einen beschleunigten Atomausstieg bis 2021 ein.
+In Japan gingen bis zum 5. Mai 2011 sukzessive alle Reaktoren aus Wartungsgründen vom Netz.
+Für die Wiederanfahr-Erlaubnis sind die lokalen Parlamente zuständig, die lange alle Anträge abschlägig beschieden haben.
+Mitte September 2012, eineinhalb Jahre nach der Nuklearkatastrophe von Fukushima, beschloss die japanische Regierung den schrittweisen Ausstieg aus der Atomenergie bis spätestens 2040.
+Die Regierung von Shinzo Abe hat diesen Ausstieg allerdings wieder rückgängig gemacht.
+Das Kernkraftwerk Sendai wurde am 10. August 2015 als erstes Kernkraftwerk nach der Nuklearkatastrophe von Fukushima wieder angefahren.
+Für weitere 25 Reaktoren liefen Anträge auf Wiederzulassung.
+Nach dem Abschalten der Kernkraftwerke sind die Strompreise um 20 bis 30 % gestiegen; Japan musste im Jahr fossile Brennstoffe für geschätzte 26 Mrd. € zusätzlich importieren.
+Bis 2019 gingen 8 Reaktoren wieder ans Netz, 21 wurden endgültig abgeschaltet und 25 sind offiziell in Betrieb, obwohl sie größtenteils nie wieder ans Netz gehen werden.
+So war zum Beispiel Fukushima II seit März 2011 ausser Betrieb, wurde offiziell aber erst am 30. September 2019 endgültig stillgelegt.
+Für die Nutzung der Kernernergie werden nicht nur Kernkraftwerke benötigt, sondern auch Bergwerke zur Förderung von Uranerz, Anlagen zur Uran-Anreicherung, um das Erz in Kernbrennstoff zu verwandeln, Zwischenlager zur sicheren Aufbewahrung von abgebrannten Brennstäben, kernchemische Anlagen, um den anfallenden radioaktiven Abfall zur langfristigen Lagerung herzurichten und schließlich Endlager, in denen der radioaktive Abfall aufbewahrt wird, bis er durch radioaktiven Zerfall ungefährlich geworden ist.
+Wenn die nach nicht gespaltenen Anteile des Uans und neu entstandene spaltbare Elemente in abgebrannten Brennstäben zur weiteren Erzeugung von elektrischer Energie in Kernkraftwerken verwendet werden soll, dann kommen zusätzlich Wiederaufbereitungsanlagen zum Einsatz.
+Bei der induzierten Kernspaltung zerfällt ein Atomkern eines Uran- oder Plutonium-Isotops, nachdem er ein Neutron absorbiert hat, in (meist) zwei leichtere Kerne (die Spaltfragmente).
+Die frei werdende Energie stammt aus der Differenz an Bindungsenergie der Spaltfragmente gegenüber dem Ursprungskern und wird in Form von kinetischer Energie der Spaltfragmente und als Gammastrahlung freigesetzt.
+Einschließlich der Energie, die beim nachträglichen radioaktiven Zerfall der Spaltfragmente noch frei wird, ergeben sich pro Spaltung etwa 200 MeV, also knapp 1 MeV pro Nukleon.
+Außer den Spaltprodukten werden bei der Spaltung auch 2-3 prompte Neutronen freigesetzt.
+Diese können weitere Kernspaltungen bewirken und führen so zu einer Kettenreaktion.
+Die nach der Spaltung aus den Spaltfragmenten noch abgegebenen verzögerten Neutronen ermöglichen es, die Kettenreaktion in einem Kernreaktor technisch zu steuern (siehe Kritikalität).
+Der Energieausbeute von rund 200 MeV pro Spaltung entspricht eine thermische Energie von etwa 0,96 MWd (Megawatt-Tagen) pro Gramm Uran-235 oder Plutonium-239.
+Die gleiche thermische Energie kann durch Verbrennen von 2,8 t Steinkohle, 10 t Braunkohle oder 1,9 t leichtem Heizöl gewonnen werden.
+Kernkraftwerke wandeln die Energie aus Kernspaltung in Wärmeenergie und diese in elektrische Energie um.
+Kernkraftwerke führen gesteuerte Kettenreaktionen von Kernspaltungen in Kernreaktoren durch.
+Mit der bei diesem Prozess freiwerdenden Hitze wird Wasserdampf produziert, der auf Turbinen geleitet wird, die Generatoren antreiben und dabei elektrischen Strom produzieren.
+Weiterhin sind im militärischen Bereich einige Flugzeugträger, Atom-U-Boote und wenige Atomkreuzer mit Kernenergieantrieb ausgestattet; im zivilen Bereich hat sich dieser Antrieb lediglich für Atomeisbrecher durchgesetzt (siehe auch: Liste ziviler Schiffe mit Nuklearantrieb).
+Die Sicherheit von Kernspaltungskraftwerken spielt eine immer größer gewordene Rolle, besonders infolge der Reaktorunfälle von Tschernobyl und Fukushima, bei denen die Kettenreaktion bzw. die Nachwärmeproduktion außer Kontrolle gerieten.
+Die immer schärferen Sicherheitsvorschriften führten zu vielen zusätzlichen Sicherheitsmaßnahmen, aber auch zu erhöhten Betriebskosten.
+Für die Gesamtheit der Arbeitsschritte, die zur Versorgung von Kernreaktoren mit Brennelementen dienen, einschließlich der notwendigen Maßnahmen zur Entsorgung des radioaktiven Abfalls ist der Oberbegriff Brennstoffkreislauf üblich.
+Dieser Begriff wurde ursprünglich in der Diskussion um die Errichtung der Wiederaufarbeitungsanlage Wackersdorf bekannt.
+Mit "Kreislauf" ist nicht eine vollständige Wiederverwertung des Materials gemeint; in Wiederaufarbeitungsanlagen soll der gebrauchte Brennstoff nach Entnahme aus dem Reaktor in seine Bestandteile zerlegt und so Ausgangsmaterial für neue Brennelemente gewonnen werden.
+Ähnlich wie bei den fossilen Brennstoffen sind die Vorräte an Kernbrennstoffen auf der Erde begrenzt.
+Die Tabelle gibt einen Überblick über die bekannten abbaubaren Uranreserven und verwendet den derzeitigen Verbrauch von knapp 62.000 tU/Jahr.
+Zurzeit (7/2016) liegt der Uranpreis bei etwa 60 $/kg.
+Da das Uran nur einen Bruchteil in der Wertschöpfungskette der Kernenergie ausmacht (lt. Info-Brief der 'Wissenschaftliche Dienste des Deutschen Bundestages' etwa 5 %) würde aber selbst eine Vervielfachung des Uranpreises die Gesamtkosten und damit den Strompreis nur gering beeinflussen.
+Von verschiedener Seite wird die Nutzung von Thorium (Th232) als Kernbrennstoff vorgeschlagen.
+Allerdings ist Thorium nicht spaltbar, es muss zunächst in einem Brutvorgang in spaltbares U233 umgewandelt werden, ähnlich wie bei der Nutzung des U238. Thorium ist in der Erdkruste mit 9,6 ppm etwa dreimal häufiger als Uran mit 2,7 ppm, von dem bisher nur das U235 mit einem Gewichtsanteil von 0,7 % genutzt wird.
+Mithilfe dieser Bruttechnologie, die bis heute nicht im großen Maßstab eingesetzt wird, könnte die in der Tabelle angegebene Reichweite somit etwa um eine Faktor 100 (U238) bzw. 300 (Thorium) verlängert werden.
+Da in Deutschland kein Kernbrennstoff mehr abgebaut wird, sind die deutschen Kernkraftwerke auf Importe angewiesen.
+Das Erz wird nach dem Abbau gemahlen und das Uran chemisch - üblicherweise als Triuranoctoxid (U3O8) - extrahiert.
+Anschließend wird das U3O8 in gasförmiges Uranhexafluorid (UF6) umgewandelt.
+Während in Schwerwasserreaktoren und in Brutreaktoren Uran mit der natürlichen Isotopenverteilung von 99,3 % 238U zu 0,7 % 235U verwendet werden kann, benötigen die weitverbreiteten Leichtwasserreaktoren angereichertes Uran mit einem Anteil von bis zu etwa 6 % 235U.
+Die Anreicherung von 235U erfolgt üblicherweise mittels Gasdiffusion oder Ultrazentrifugen von Uranhexafluorid.
+Das an U-235 angereicherte Uran wird dann als Urandioxid, eventuell zusammen mit Plutoniumdioxid als Mischoxid, zu Brennstäben verarbeitet.
+Mehrere Brennstäbe werden dann zu Brennelementen zusammengefasst.
+Etwa die Hälfte der Uranförderung findet derzeit in dünn besiedelten Gebieten Kasachstans, Kanadas und Australiens statt.
+Uran und Thorium werden zumeist beim Bergbau für andere verbreitetere Metalle gewonnen, so etwa im Bergwerk Olympic Dam in Australien.
+Der Urangehalt derzeit genutzter Lagerstätten schwankt mit 0,03 bis 18 Prozent erheblich.
+Historisch und für die Waffenproduktion bedeutend war der Uranabbau in der ehemaligen DDR, namentlich bei der Wismut.
+Beim Betrieb von Kernreaktoren entsteht durch die Bestrahlung von Uran mit Neutronen spaltbares Plutonium.
+Es wird bei der Wiederaufbereitung aus dem abgebrannten Brennstoff gewonnen und kann für neue Brennelemente verwendet werden.
+Eine weitere, derzeit (2016) bedeutende Quelle stellen Uran und Plutonium aus ehemaligen Kernwaffen dar, die infolge der Abrüstung außer Dienst gestellt wurden.
+Die World Nuclear Association hält eine Erhöhung der Uranreserven mit der Gewinnung aus Kohlekraftwerksasche für möglich.
+Bei der Kernspaltung entstehen viele verschiedene radioaktive Isotope.
+Daher strahlen verbrauchte Brennelemente stark; ihr Material darf nicht in die Umwelt gelangen.
+Direkt nach dem Einsatz ist die Strahlung so stark, dass eine weitere Verarbeitung nicht möglich ist.
+Die Brennelemente werden aus diesem Grund für einige Monate oder Jahre im Zwischenlager des Kernkraftwerks in einem Abklingbecken gelagert.
+Nach dieser Zeit sind kurzlebige Isotope weitgehend zerfallen.
+Es verbleiben jedoch langlebige Isotope, wodurch die Brennelemente weiterhin hoch radioaktiv sind und auch laufend Wärme produzieren.
+Ein Teil dieser Isotope ist spaltbar und lässt sich nach chemischer Abtrennung im Prinzip als Kernbrennstoff verwenden.
+Der Rest muss gelagert werden, bis er durch radioaktiven Zerfall unschädlich geworden ist.
+Für den Abtransport und die Lagerung der Brennelemente außerhalb des Abklingbeckens verwendet man spezielle Transportbehälter, beispielsweise Castor-Behälter.
+Abgebrannte, nicht wiederaufgearbeitete Brennelemente und radioaktiver Abfall aus Wiederaufarbeitungsanlagen werden in Lagerungsbehältern in Zwischenlagern so lange gelagert, bis die Wärmeentwicklung so weit abgeklungen ist, dass eine Endlagerung möglich ist.
+Dies dauert einige Jahrzehnte.
+In Wiederaufarbeitungsanlagen - wie etwa der Wiederaufarbeitungsanlage La Hague in Frankreich - können die in abgebrannten Brennelementen enthaltenen 95 % Uran und 1 % Plutonium von den 4 % Spaltprodukten und höheren Aktiniden getrennt werden.
+Vom abgetrennten Uran können nach erneuter Anreicherung (z. B. in Sewersk, Russland) etwa 10 % wiederverwendet werden.
+90 % sind weiterhin radioaktiver Abfall.
+Der Anteil an hochaktivem Abfall sinkt jedoch beträchtlich (z. B. 5 %).
+Laut Untersuchungen von Greenpeace werden in La Hague jährlich rund 0,5 Mrd. Liter radioaktiv kontaminiertes Abwasser in den Ärmelkanal geleitet sowie radioaktiv kontaminierte Abluft über Europa freigesetzt.
+Besonders signifikant ist der Anteil von radioaktivem Krypton (85Kr) in der Abluft (circa 90.000 Bq pro Kubikmeter Luft).
+In Deutschland war eine Wiederaufarbeitungsanlage in Wackersdorf in Bau, wurde aber aus finanziellen Gründen und aufgrund des starken Widerstands aus der Bevölkerung nicht fertiggestellt.
+Eine Möglichkeit zur Umwandlung langlebiger radioaktiver Abfälle besteht in der Transmutation dieser Abfälle in Isotope, die entweder stabil sind oder deren Radioaktivität in wenigen hundert Jahren auf ein unschädliches Maß abgeklungen ist.
+Diese Anlagen sind zurzeit in der Forschung und Entwicklung und werden auf europäischer Ebene durch das Eurotrans-Projekt gefördert.
+Technisch bestehen diese Anlagen aus einem Protonenbeschleunigersystem und einem Target, in dem schnelle Neutronen erzeugt werden.
+Einige der problematischen Isotope können durch den Beschuss mit schnellen Neutronen in unproblematischere Isotope umgewandelt werden.
+Allerdings erfordert die Transmutation mehrfache, komplexe Wiederaufarbeitung.
+Die erste Versuchsanlage soll 2020 im Rahmen des Myrrha-Projekts in Belgien entstehen.
+Der radioaktive Abfall eines Kernkraftwerks strahlt auch nach Jahrzehnten noch stark.
+Hochradioaktiver Abfall (High Active Waste) ist erst nach einigen Tausend bis einigen Hunderttausend Jahren (je nachdem, was man als ungefährlich einstuft) ausreichend abgeklungen.
+Zudem sind einige darin enthaltene Elemente auch chemisch sehr giftig.
+Deshalb muss radioaktiver Abfall in einem Endlager so gelagert werden, dass er von der Biosphäre dauerhaft ferngehalten wird.
+Hochradioaktiver Abfall muss zuvor soweit abgeklungen sein, dass die Zerfallswärme nicht mehr zur Schwächung des Aufbewahrungsbehälters (z. B. durch Korrosion) führen kann.
+Dies erfolgt in Zwischenlagern, die als Trocken- oder Nasslager ausgeführt werden können.
+In Deutschland ist die Trockenlagerung üblich, die stählernen Aufbewahrungsbehälter - zum Beispiel Castoren - werden stehend gelagert und haben Kühlrippen.
+2015 erteilte die finnische Regierung die Baugenehmigung für das weltweit erste Endlager für hochradioaktiven Abfall, dem Endlager Onkalo in Olkiluoto.
+Mit der Einlagerung soll 2020 begonnen werden.
+Am Ende der Laufzeit eines Kernkraftwerks nach etwa 40 Jahren erfolgt die Stilllegung und der Rückbau des Kernkraftwerks.
+So sollen laut IEA bis 2024 etwa 200 Kernkraftwerke altersbedingt stillgelegt werden.
+Die Kosten für den Rückbau dieser Kernkraftwerke schätzt die IEA auf über 100 Milliarden USD.
+Der Aufwand ist deshalb so hoch, weil fast sämtliche Bauteile radioaktiv sind, getrennt und entsprechend ihrer Halbwertszeit gelagert werden müssen.
+Die Wirtschaftlichkeit der Kernspaltungsenergie ist sowohl im fachlichen wie auch im öffentlichen Diskurs umstritten.
+Während abgeschriebene Kernkraftwerke als günstig gelten, ist die Wirtschaftlichkeit neu gebauter Kernkraftwerke fraglich, weshalb diesbezügliche Kostenangaben mit großer Unsicherheit behaftet sind.
+Nach Konstantin betragen beispielsweise die Produktionskosten eines vollständig abgeschriebenen Kernkraftwerks der 1,3-GW-Klasse 2,18 Cent pro Kilowattstunde, während in einer Studie des Öko-Instituts, das aus der Anti-Atomkraft-Bewegung hervorgegangen ist, von Betriebskosten in Höhe von 1,7 Cent pro Kilowattstunde ausgegangen wird.
+Allerdings geraten auch abgeschriebene Kernkraftwerke in Märkten, in denen die Strompreise infolge aktueller wirtschaftlicher Entwicklungen wie des Schiefergasbooms in den USA sowie des Ausbaus von erneuerbaren Energien in vielen Staaten der Welt gefallen sind, wirtschaftlich unter Druck.
+In den USA wurden deshalb in den letzten Jahren mehrere Kernkraftwerke lange vor ihrem genehmigten Laufzeitende außer Betrieb genommen.
+Bei Neubauten sorgen neben eventuellen steigenden Investitionskosten insbesondere die ebenfalls zu berücksichtigenden wirtschaftliche Risiken sowie externe Kosten für große Unsicherheit.
+Diese sind nur bedingt abschätzbar, beeinflussen die Wirtschaftlichkeit aber erheblich.
+Zudem ergeben sich aufgrund der hohen Investitionskosten sehr lange Refinanzierungszeiträume von über 30 Jahren nach Inbetriebnahme (zuzüglich Planungs- und Bauzeit), in denen die Betreiber gerade in liberalisierten Märkten mit den dort herrschenden schwer prognostizierbaren Erlösen einem hohen Investitionsrisiko unterliegen.
+Schon 2009 veröffentlichte die Citibank eine Studie mit dem aussagekräftigen Titel: "New Nuclear - The Economics Say No".
+In einigen Staaten werden deshalb geplante Kraftwerksprojekte aufgeschoben oder aufgehoben, während in anderen Staaten wie beispielsweise den USA oder Großbritannien Subventionen gewährt werden, um den Bau von Kraftwerken wirtschaftlich zu machen.
+Die Stromgestehungskosten ergeben sich bei der Kernenergienutzung vor allem aus den verglichen mit anderen Kraftwerken hohen Kosten für ihren Bau sowie den Finanzierungsbedingungen am Kapitalmarkt.
+Bei neuen Reaktoren des Typs EPR wird der Anteil der Investitionskosten an den Stromgestehungskosten auf etwa 65 % geschätzt, während Brennstoffkosten nur etwa 12 % ausmachen.
+Kernkraftwerke sind daher teuer im Bau, günstig zu betreiben und teuer im Rückbau.
+Konstantin schätzte 2009 die spezifischen Investitionskosten für Kernkraftwerke als mehr als doppelt so hoch ein wie die großer Braunkohlekraftwerke.
+Für den EPR mit 1600 MW elektrischer Leistung prognostizierte er bei angenommenen Baukosten von 4,2 Mrd. Euro (entspricht 2625 Euro/kW), Rückstellungen für den Rückbau in Höhe von 320 Mio. Euro, 48 Monaten Bauzeit und Inbetriebnahme 2004 Stromgestehungskosten von 5,02 Cent pro Kilowattstunde.
+Bis 2014 sind die Investitionskosten der in Bau befindlichen EPR gegenüber den ursprünglichen Planungen deutlich angestiegen:
+Sowohl beim Reaktor Olkiluoto 3 in Finnland als auch beim französischen Kernkraftwerk Flamanville kam es zu massiven Überschreitungen der ursprünglich geplanten Baukosten sowie zu Verzögerungen im Bauablauf von bis zu über 9 Jahren.
+Wurden ursprünglich Baukosten von 3 bzw. 3,3 Mrd. Euro angestrebt, lagen diese mit Stand 2012 bei jeweils 8,5 Mrd., wodurch sich Investitionskosten von etwa 5300 Euro/kW ergeben.
+Für zwei weitere Kernkraftwerksblöcke dieses Typs in Großbritannien wird mit einer Investitionssumme von zusammen umgerechnet knapp 19 Mrd. Euro kalkuliert, was bei einer kombinierten Nennleistung von 3200 MW einer Investitionssumme von knapp 6000 Euro pro kW entspricht.
+Um das Projekt dennoch wirtschaftlich zu machen wird eine auf 35 Jahre garantierte Einspeisevergütung von 92,50 Pfund/MWh (umgerechnet 11 Ct/kWh) zzgl. Inflationsausgleich berechnet.
+Das liegt unterhalb der Einspeisevergütung für große Photovoltaik- und Offshore-Windkraftanlagen in Großbritannien, jedoch oberhalb der von Onshore-Windkraftanlagen.
+Damit liegt die Einspeisevergütung doppelt so hoch wie der aktuelle Marktpreis.
+Zugleich bürgt der Staat zu 65 Prozent für die Baukosten.
+Da weltweit unterschiedliche Reaktortypen verschiedener Hersteller mit uneinheitlichen Sicherheitsstandards errichtet werden, müssen die Kosten des EPR nicht notwendigerweise repräsentativ für alle derzeit in Bau befindlichen Kernkraftwerke sein.
+Bei dem in den USA in Bau befindlichen Kernkraftwerk Vogtle, bei dem zwei Reaktoren des Typs Westinghouse AP 1000 mit jeweils circa 1100 MW Leistung zum Einsatz kommen sollen, ging man Anfang 2012 zunächst von einer Investitionssumme von 14 Milliarden Dollar (10,5 Milliarden Euro) für zwei Reaktoren aus, was 4800 Euro/kW entspricht.
+Im Februar 2014, wenige Monate nach Baubeginn, waren die Baukosten auf 15,5 Mrd. Dollar gestiegen, die ursprünglich geplanten Fertigstellungstermine 2016 und 2017 wurden jeweils um zwei Jahre nach hinten verschoben.
+Die Baukosten der Blöcke 3 und 4 des slowakischen Kernkraftwerks Mochovce, in welchem der russische Typ WWER-440/213 mit einer Nennleistung von 405 MW eingesetzt wird, werden hingegen mit 3,8 Mrd. Euro angegeben, was einer Investitionssumme von etwa 4700 Euro/kW entspricht.
+In Staaten mit niedrigerer Kaufkraft können die Werte niedriger liegen.
+So soll z. B. in China der Bau von acht AP1000 zusammen 24 Mrd. US-Dollar kosten, d. h. circa 2000 Euro/ kW bei einem Wechselkurs von 1,35 zu 1.
+Infolge dieser Preissteigerungen bei diversen Kraftwerksprojekten wird die betriebswirtschaftliche Rentabilität der Kernenergie daher bereits seit einigen Jahren insbesondere in liberalisierten Märkten infrage gestellt und mehrere Kraftwerksprojekte beendet.
+Der Neubau von Kernkraftwerken beschränkt sich aktuell daher weitestgehend auf Staaten, in denen staatliche Betreiber das Risiko der Projekte tragen.
+Nach Neles und Pistner werden aktuell neue Kernkraftwerke nur dort realisiert, in denen bestimmte Bedingungen erfüllt sind.
+Diese sind:
+Auch Uekötter verweist darauf, dass ein weiterer Zubau der Kernenergie heute vor allem in autoritär geführten Staaten stattfindet, wo die Gesetze des Marktes nicht zum Tragen kommen und zudem die Mitbestimmung der Bevölkerung gering ist.
+Die relative Wettbewerbsfähigkeit der Kernenergie ist schwer zu bestimmen, da kaum valide Vergleichsdaten vorliegen und auch historische Daten kein klares Bild vermitteln.
+Dazu kommt, dass die Kernenergie weltweit in allen Nutzerländern von staatlicher Seite sehr umfangreich gefördert wurde.
+Diese Subventionen flossen auf verschiedenen Wegen in die Kernenergie und waren teilweise in technischen Details versteckt, wobei nach Uekötter insbesondere die Vermischung mit der militärischen Nutzung der Kernenergie wichtig war.
+Es sei jedoch sicher, dass die Kernenergienutzung ohne die massiven staatlichen Hilfen "keine Chance" gehabt habe.
+Herrschte in den 1950ern und 1960er Jahren in bestimmten Kreisen eine wahre Atomeuphorie, so kippte diese Stimmung in den 1970er Jahren, als sich zeigte, dass die Wirtschaftlichkeit der realisierten Kernkraftwerke deutlich schlechter war als man bis dahin geglaubt hatte.
+In Europa ging deshalb nach einem Boom in den 1960er und 1970er Jahren der Bau von Kernkraftwerken zurück und ebbte anschließend in den frühen 1980er Jahren gänzlich ab.
+Ursächlich für diesen praktisch europaweiten Baustopp waren nach Uekötter maßgeblich ökonomische Erwägungen, während die Nuklearkatastrophe von Tschernobyl kaum einen Einfluss auf die Nuklearprogramme der Staaten hatte, zu diesem Zeitpunkt waren die weiteren Ausbaupläne bereits gestoppt.
+Nach Hans-Joachim Braun war beispielsweise Anfang der 1980er Jahre, als weltweit mit 326 GW bereits der Großteil der heute installierten Leistung aus Kernkraftwerken ans Netz angeschlossen war, die Stromproduktion mit Kernkraftwerken in Deutschland weiterhin teurer als die Stromproduktion mittels Kohlekraftwerken.
+In Westeuropa und Kanada boten Kernkraftwerke nach den französischen Autoren Debeir/Deleage/ Hemery Mitte der 1980er Jahre einen Kostenvorteil gegenüber Kohlekraftwerken, während in den USA die Konkurrenzfähigkeit erreicht war, jedoch sich die Kohlestromerzeugung gegenüber der Kernenergie weiter verbilligte.
+Großer Einfluss wurde hierbei einerseits der Entwicklung der fossilen Brennstoffpreise zugeschrieben, während die Autoren andererseits betonten, dass sich bereits in den 1970er Jahren die Bauzeiten amerikanischer Kernkraftwerke von sechs auf zehn Jahre verlängerten und parallel dazu die Baukosten der Kernkraftwerke immer weiter anstiegen.
+Letztendlich sei "der Atomstrom auch nach dreißig Jahren wirtschaftlich und finanziell noch nicht wirklich rentabel".
+Mit der immer offensichtlicher werdenden Globalen Erwärmung kam es im 21. Jahrhundert vor dem Hintergrund ihrer nur geringen CO2-Emissionen zu einer erneuten Debatte um die Nutzung der Kernenergie, der bisher jedoch nur eine sehr geringe Bautätigkeit folgte.
+Nach der Nuklearkatastrophe von Fukushima sind zudem durch erhöhte Sicherheitsmaßnahmen höhere Gestehungskosten zu erwarten.
+Kritiker halten die Kernenergie heutzutage für unwirtschaftlich, weil die hohen Kapitalkosten durch die niedrigen Brennstoffkosten nicht aufgewogen werden könnten.
+Zudem wurden in der Vergangenheit oft Entsorgungsaufwände nicht den verursachenden Stromkonzernen in Rechnung gestellt, sondern vom Staat bezahlt.
+Kosten für die Kernenergie in Deutschland werden in Milliardenhöhe durch den Staat übernommen z. B. für die Stilllegung von Forschungsreaktoren oder die Sanierung von Forschungsendlagern wie die Asse.
+In einer Studie der Citibank wurde der Neubau von Kernkraftwerken ohne staatliche Subventionierung als zu risikoreich und wirtschaftlich nicht darstellbar festgestellt: "New Nuclear - The Economics Say No".
+Ausweislich einer Analyse der Hertie School of Governance zu Großprojekten in Deutschland fielen beim Bau von Offshore-Windparks deutlich weniger Mehrkosten an als bei den historisch errichteten Atomkraftwerken.
+Fallstudien zum Bau von acht Offshore-Windparks und sechs Atomkraftwerken zeigten, dass bei Windparks trotz erheblicher Planungsrisiken deutliche Lerneffekte zu verzeichnen waren; in der Folge waren die Mehrkosten der Offshore-Windparks um 20 % höher als ursprünglich veranschlagt, bei den Atomkraftwerken jedoch dreimal höher.
+Lerneffekte konnten dabei im Fall der Atomkraftwerke nicht festgestellt werden.
+Eine weitere Studie kam 2010 zu dem Ergebnis, dass die Gesamtkosten für Solarstrom unterhalb der Stromgestehungskosten aus neuen Kernkraftwerken lägen.
+Eventuell anfallende Kosten für die Speicherung des Solarstroms und die erforderliche Regelleistung wurden dabei allerdings nicht berücksichtigt.
+Im Falle eines nuklearen Unfalls sind in Deutschland die Folgekosten bis zu einer Höhe von 2,5 Mrd. € im Rahmen der Haftpflicht versichert.
+Die Summe ist im Atomgesetz festgelegt.
+Darüber hinaus haften die Betreiber mit ihrem ganzen Vermögen für weitere Kosten.
+Nach den Erfahrungen der Katastrophen von Tschernobyl und Fukushima gilt jedoch als sicher, dass weder die finanzielle Absicherung durch die Betreiber noch die Unterstützung durch die Öffentliche Hand ausreichen würde, um alle Schäden eines solchen Ereignisses auszugleichen.
+Das Handbuch Europäisches Atomrecht.
+Recht der Nuklearenergie. hält fest:
+Eine französische Regierungsstudie, die vom französischen Institut für Strahlenschutz und nukleare Sicherheit (IRSN) erstellt wurde, veranschlagt die volkswirtschaftlichen Schäden eines katastrophalen Unfalls in einem französischen Kernkraftwerk auf 430 Mrd. €, was einem Viertel der jährlichen Wirtschaftsleistung des Landes entspricht.
+Bei privaten Versicherungen der Bürger (Hausratversicherung, Gebäudeversicherung) werden Risiken aus Kernenergie generell ausgeschlossen.
+Auch wer die Kosten für den Rückbau stillgelegter Kernkraftwerke bei Insolvenz der Betreiber trägt, ist offen.
+Im Entwurf der Arbeitsgruppe Umwelt für den Koalitionsvertrag von Union und SPD heißt es: "Zur Sicherstellung der Finanzierung der nuklearen Entsorgung könnte ein öffentlich-rechtlicher Fonds in Betracht kommen".
+Die Koalitionäre erwägen, die Rückstellungen der AKW-Betreiber für Stilllegung und die Endlagerung in einem solchen Fonds zu bündeln.
+Befürchtet wird, dass der Staat im Fall von Insolvenzen für Kosten aufkommen müsste.
+Bislang konnten e.on, RWE, EnBW und Vattenfall 32,6 Milliarden Euro Rückstellungen bilden und das Geld sofort in Kraftwerke und Netze investieren.
+Staatlich kontrollierte Fonds werden schon seit längerem gefordert.
+Laut einer Studie des ISE, die von der Bundestagsfraktion von Bündnis 90/Die Grünen in Auftrag gegeben wurde, sind Atomkraftwerke in Zeiten negativer Börsenstrompreise mit bis zu 96 % der installierten Leistung gefahren worden.
+Die minimale Auslastung lag bei 49 %.
+Die Studie kommt daher zu dem Schluss, dass bei Atomkraftwerken eine feinstufige, dem Bedarf angepasste Abregelung anhand der untersuchten Daten nicht festzustellen ist.
+Eine Laufzeitverlängerung deutscher Kernkraftwerke wäre nach Darstellung des Bundesverbands der Verbraucherzentralen (vzbv) kein Mittel, den Strompreis für den Privatverbraucher spürbar zu senken.
+Für einen Durchschnittshaushalt würde die monatliche Stromrechnung durch weiteren Bezug von Strom aus Kernenergie im Schnitt um "gerade einmal 50 Cent pro Monat" abnehmen.
+Auf den europäischen Strommärkten herrscht trotz aller Bemühungen um Liberalisierung und Regulierung unvollständiger Wettbewerb, der zu überhöhten Preisen führt.
+Dies gilt vor allem auch für die Verhältnisse in Deutschland.
+Im Kraftwerksbereich dominieren hier die vier großen Unternehmen RWE, E.ON, EnBW und Vattenfall, auf die rund 85 % der gesamten Kapazitäten entfallen.
+Kapitalintensive Kraftwerkstypen wie Kernkraftwerke, die auch große Energiemengen produzieren, sichern ihren Betreibern dabei eine starke Position auf dem Markt.
+Für den deutschen Strommarkt liegen mehrere aktuelle Studien vor, die den Einfluss unvollständigen Wettbewerbs empirisch belegen.
+Der Einfluss durch die marktbeherrschende Stellung der großen Energiekonzerne auf den Börsenpreis von Strom wird dabei mit etwa 0,69 ct/kWh angegeben.
+Die Mehreinnahmen durch die Kernenergie aufgrund des unvollständigen Wettbewerbs werden im Jahr 2003 mit 1,8 Mrd. Euro angegeben.
+Die Internationale Atomenergieorganisation (IAEO) soll die internationale Zusammenarbeit auf dem Gebiet der friedlichen Nutzung der Kernenergie und der Anwendung radioaktiver Stoffe fördern und gleichzeitig den Missbrauch dieser Technologie (insbesondere die Proliferation von Kernwaffen) durch Überwachungsmaßnahmen verhindern.
+Diverse internationale Verträge wie der Atomwaffensperrvertrag und das Atomhaftungsübereinkommen geben entsprechende Richtlinien vor.
+In Deutschland ist die Rechtsgrundlage der zivilen Verwendung der Kernenergie das deutsche Atomgesetz (Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen ihre Gefahren).
+In der Schweiz war bis 2005 das schweizerische Atomgesetz (Bundesgesetz über die friedliche Verwendung der Atomenergie) Rechtsgrundlage, seither ist es das Kernenergiegesetz.
+In Österreich dagegen gibt das Bundesverfassungsgesetz für ein atomfreies Österreich dem Verbot der kommerziellen Nutzung von Kernreaktoren nach einem nationalen Referendum seit 1999 Verfassungsrang.
+Weitere Verordnungen, wie die Atomrechtliche Deckungsvorsorge-Verordnung (AtDeckV), setzen internationale Richtlinien in Deutschland um.
+Die Deckungsvorsorge für ein Kernkraftwerk beträgt 2,5 Milliarden Euro, die zu einem Teil als Haftpflichtversicherung und zum anderen Teil als Solidarvereinbarung unter den Kernkraftwerksbetreibern abgesichert sind.
+Die Haftungshöchstgrenze bei Schäden, die unmittelbar auf Handlungen eines bewaffneten Konfliktes, von Feindseligkeiten, eines Bürgerkrieges, eines Aufstandes oder auf eine schwere Naturkatastrophe außergewöhnlicher Art zurückzuführen sind, liegt bei ebendiesen 2,5 Milliarden Euro.
+Für Schäden aus anderen Ursachen haften die Betreiber theoretisch unbegrenzt, de facto ist die Haftung durch das Eigenkapital der Betreiber begrenzt.
+Andere Versicherungen, wie z. B. Kasko-Autoversicherungen, schließen die Abdeckung von Schäden, die durch Kernenergieunfälle verursacht werden könnten, in aller Regel ausdrücklich aus.
+Die Kernenergie wurde sowohl in Deutschland als auch weltweit umfangreich staatlich subventioniert.
+Seit der Gründung der Europäischen Atomgemeinschaft 1957 wird die Kernenergie politisch und wirtschaftlich gefördert.
+Nach Angaben des Informationsdienst dpa Insight EU wird die Subvention der Kernenergie in den EU-Staaten einem internen Bericht der EU-Kommission zufolge im Jahr 2011 auf 35 Mrd. Euro geschätzt, verschiedenen Medien greifen diese Zahl auf.
+Demnach lagen die Subventionen der Kernenergie höher als die Subventionen für Erneuerbare Energien (30 Mrd.) und für fossile Energien (26 Mrd.); für Effizienzmaßnahmen wurden 15 Mrd. ausgegeben.
+Aufgrund geringer Transparenz sind die genauen Förderkosten für die Kernenergie in Europa derzeit unklar.
+Nach Einschätzung von Radkau und Hahn besteht die größte Subvention der Kernenergie im Verzicht auf eine Haftpflichtversicherung mit ausreichender Deckungssumme, was der Zusage einer weitgehenden Übernahme der Folgekosten schwerer Reaktorunfälle durch den Staat gleichkommt.
+Da derzeit (2012) kaum Unternehmen bereit sind, die sehr hohen Investitionskosten beim Bau von Kernkraftwerken zu tragen, fordern laut Süddeutscher Zeitung Großbritannien, Frankreich, Polen und Tschechien Subventionen für die Stromerzeugung mittels Kernenergie.
+Demnach sollen unter anderem Einspeisevergütungen analog der Förderung von Erneuerbaren Energien für Atomstrom eingeführt werden und Kernkraftwerke als "emissionsarme Technologien" den Erneuerbaren Energien gleichgestellt werden.
+Auch der Bau der Kraftwerke selbst soll subventioniert werden.
+Der Energiekommissar der EU, Günther Oettinger, kündigte bereits seine Bereitschaft an, "verschiedene Optionen zu diskutieren".
+Zuvor waren mehrere geplante Projekte für Kernkraftwerke aus finanziellen Gründen abgesagt worden, der Bau der beiden Kernkraftwerke Flamanville 3 in Frankreich und Olkiluoto 3 hatte sich stark verteuert.
+In Deutschland war die Kernenergie die erste Technologie, die mit umfangreichen staatlichen Fördergeldern vorangetrieben wurde, ohne dass ein konkreter Bedarf bestanden hätte.
+In den 50er Jahren, zu Zeiten der Atomeuphorie, galt ihre Nutzung schlichtweg als selbstverständlich.
+Die Initiative ging dabei zunächst von der Chemieindustrie aus, Energieunternehmen (und auch das Bundeswirtschaftsministerium) bremsten dagegen bei der Entwicklung, und wurden deswegen wiederholt von Seiten der Kernenergiebefürworter kritisiert.
+Als RWE Ende der 1950er Jahre seinen ersten Kernreaktor plante, geschah dies "um den Anschluss an die Technologie nicht zu verlieren".
+Die zugehörige Bestellung erfolgte allerdings erst 1969 mit dem Kernkraftwerk Biblis.
+Am 21. Oktober 1955 wurde Franz Josef Strauß Minister im neugegründeten Bundesministerium für Atomfragen.
+Ziel dieses Ministeriums war die Einführung der Kernenergie, ihre Förderung und die Schaffung der gesetzlichen Grundlagen hierfür.
+1957, ein Jahr vor Verabschiedung des Atomgesetzes, wurde von staatlicher Seite die Reaktorplanungen vorangetrieben.
+Entwickelt und gebaut werden sollten die Reaktoren von Konzernen, während der Staat Verlustbürgschaften und umfangreiche Investitionshilfen gewährte.
+Gebaut wurden letztendlich jedoch nur zwei Reaktoren, während die bisher aufgewendeten Fördergelder in Milliardenhöhe in den Aufbau von Entwicklungsabteilungen flossen.
+Am 13. November 1960 ging das Kernkraftwerk Kahl als Versuchsreaktor mit 15 MW in Betrieb, mit US-amerikanischer Reaktortechnik von General Electric.
+In den Anfangsjahren glaubte man: "Kein AKW in Deutschland könne jemals mit einem Kohlekraftwerk konkurrenzfähig sein".
+Deshalb wurde sowohl der Bau der ersten Kernreaktoren als auch der eingespeiste Strom staatlich subventioniert.
+Insgesamt wurden in Westdeutschland mehrere Forschungsprogramme aufgelegt, die jeweils mit mehreren Mrd. Mark ausgestattet waren.
+Die Förderung wird in Deutschland mit rund 2000 Euro/kW installierter Leistung angegeben.
+Das Deutsche Institut für Wirtschaftsforschung (DIW) kam in einer Studie aus dem Jahr 2007 zu dem Ergebnis, dass sich allein die deutschen Ausgaben des Bundes und der Länder für nukleare Energieforschung und -technologie von 1956 bis zum Jahr 2006 auf mindestens 50 Mrd. Euro belaufen.
+Nicht enthalten sind darin unter anderem öffentliche Ausgaben für die innerdeutsche Uranerzbergbausanierung (6,6 Mrd. €) und Anteile an Stilllegung/ Rückbau kerntechnischer Anlagen (2,5 Mrd. €).
+Addiert man diese Kosten und bezieht sie auf die bis Ende 2006 mittels Kernenergie erzeugte Strommenge von rund 4100 TWh, ergibt sich eine durchschnittliche Unterstützung von 1,5 Cent pro Kilowattstunde (ct/kWh).
+Betrachtet man nur die im Jahr 2006 wirksame Summe aller quantifizierten Effekte (soweit Angaben vorliegen, einschließlich vereinigungsbedingter Lasten und internationaler Projekte) zur Förderung der Kernenergie, beträgt die Geldmenge 3,7 Mrd. Euro (Währungswert von 2006).
+Dies entspricht einer Unterstützung (167,4 TWh Strom aus Kernenergie im Jahr 2006 in Deutschland) von 2,2 ct/kWh (Währungswert von 2006).
+Die Werte sind dabei als untere Grenze zu verstehen, da sich viele Kosten der Kernenergie kaum oder gar nicht konkret beziffern lassen und die Zahlen "längst noch nicht alle öffentlichen Ausgaben zugunsten der Atomenergie" enthalten.
+Beispielsweise sind Schäden durch Kernenergie in keiner privaten Hausratversicherung abgedeckt, die Kosten weder für den Salzstock Gorleben noch für die Stilllegung der Schachtanlage Asse II bezifferbar.
+2010 erstellte das Forum Ökologisch-Soziale Marktwirtschaft im Auftrag von Greenpeace eine umfangreiche Studie: "Staatliche Förderungen der Atomenenergie" (2010).
+Diese ermittelte eine Gesamtsumme der Fördermittel von 203,7 Milliarden Euro für den Zeitraum von 1950 bis 2010, was 4,3 ct/kWh entsprechen würde.
+Dies beinhaltet Steuervergünstigungen, die Stilllegungen von Meilern, Forschung inklusive Kernfusionsforschung, Mitgliedschaft in internationalen Organisationen wie Euratom sowie die Sanierung der Uranbergbauanlagen in der ehemaligen DDR.
+Zudem wäre sie laut Greenpeace um bis zu 2,70 Euro pro kWh teurer, falls bei Kernkraftwerken die gleichen Haftungsregeln gelten würden wie in allen anderen Wirtschaftsbereichen.
+In dieser weitgehenden Befreiung von einer Haftpflichtversicherung sehen die beiden Volkswirtschaftler Peter Hennicke und Paul J. J. Welfens eine versteckte Subvention der Atomstromwirtschaft, die "absurde Investitionsanreize schafft, den Wettbewerb in der Strom- bzw. Energiewirtschaft grotesk verzerrt und völlig unnötige Risiken für Milliarden Menschen befördert".
+So übertreffe die "Schattensubvention" bei Atomstrom prozentual alle anderen Sektoren der Wirtschaft.
+Zum gleichen Ergebnis kommen Radkau und Hahn, die im Verzicht auf eine ausreichende Haftpflichtversicherung die entscheidende Subventionierung der Kernenergie sehen, welche die Kernenergienutzung überhaupt erst ermöglichte.
+Nach Berechnungen von Finanzmathematikern würde eine Haftpflichtpolice für ein Atomkraftwerk 72 Mrd. Euro jährlich kosten.
+Der Strompreis eines Atomkraftwerks könnte damit auf mehr als das Vierzigfache steigen.
+Für den Rückbau von Kernkraftwerken müssen die Betreiber in Deutschland (und in der Schweiz) eine Rückstellung von etwa 500 Millionen Euro je Kraftwerk bilden.
+Diese Rückstellungen bleiben in Deutschland über den gesamten Zeitraum steuerfrei und dürfen auch investiert werden, um zum Beispiel Unternehmensbeteiligungen zu erwerben oder am eigenen Kraftwerk eingesetzt werden.
+Kritiker sehen in den Rückstellungen, die mittlerweile insgesamt 36 Milliarden Euro betragen, "die Bank der Stromkonzerne".
+Im Mai 2014 wurden Pläne der drei deutschen Kernkraftwerksbetreiber E.on, EnBW und RWE publik, ihre Kernkraftwerke in eine neu zu gründende und in Staatsbesitz befindliche Stiftung abgeben zu wollen.
+Diese soll die Kernkraftwerke bis zu ihrem Laufzeitende betreiben und anschließend als sog. Bad Bank fungieren und für den Rückbau, die Endlagerung und alle sonstigen Risiken aufkommen.
+Hierfür wollen die Betreiber Rückstellungen in Höhe von rund 30 Mrd. Euro einbringen, zudem steht im Raum eventuell Schadensersatzklagen wegen des Atomausstieges in Milliardenhöhe fallen zu lassen.
+Eine Analyse des Handelsblatts kam 2015 zu dem Schluss, dass Atomkraft "die wahrscheinlich größte und schlechteste Investition in der Geschichte der Bundesrepublik" war.
+In Frankreich erteilte Premierminister Francois Fillon im Mai 2011, neun Wochen nach dem Beginn der Nuklearkatastrophe von Fukushima, dem Obersten Rechnungshof in Frankreich den Auftrag, die Kosten der Kernenergie und des erzeugten Stroms zu ermitteln.
+Der Rechnungshof legte den Bericht am 31. Januar 2012 vor.
+Damit wurde erstmals versucht, alle französischen Forschungsaufwendungen auf dem Gebiet der Stromerzeugung aus Kernenergie seit 1957 zu ermitteln.
+Demnach kosteten die Erforschung, Entwicklung sowie der Bau der 58 französischen Kernkraftwerke insgesamt etwa 188 Mrd. Euro (in Kaufkraft von 2010).
+Diese Kosten konnten durch den Verkauf der Elektrizität bislang zu etwa 75 % amortisiert werden (Zusammenfassung, S. 12 unten).
+Allerdings wurden bislang für Rückbau und Atommüllzwischen- und Endlagerung bei weitem nicht die erforderlichen Summen zurückgestellt.
+Der französische Industrieverband Uniden forderte im März 2014 von der französischen Regierung eine Preisbegrenzung für Atomstrom, da die Stromkosten für große industrielle Abnehmer in Deutschland bald um 35 % niedriger lägen als in Frankreich.
+In Großbritannien wurde für das neue Kernkraftwerk Hinkley Point C eine auf 35 Jahre garantierte Einspeisevergütung in Höhe von 92,5 Pfund/MWh (ca. 11,2 Cent/kWh) plus einem jährlichen Inflationsausgleich von der Regierung zugesagt.
+Dies ist etwa das Doppelte des derzeitigen englischen Börsenstrompreises und liegt unterhalb der Einspeisevergütung für große Photovoltaik- und Offshore-Windkraftanlagen und oberhalb von Onshore-Windkraftanlagen.
+Im Oktober 2014 genehmigte die EU-Kommission die Förderzusage als vereinbar mit dem EU-Wettbewerbsrecht.
+Die EU-Kommission geht dabei von Baukosten von 31 Mrd. Euro aus, während Herstellerfirma und britische Regierung von nur ca. 19 Mrd. Euro sprechen.
+Die Atomic Energy Commission (AEC) wurde 1946 gegründet und war bis 1974 die zentrale Behörde für die Forschung und Entwicklung der Nutzbarmachung atomarer Energie.
+1977 wurden ihre Aufgaben auf das Energieministerium der Vereinigten Staaten übertragen.
+Der 2005 verabschiedete Energy Policy Act beinhaltete Subventionen und staatliche Garantien, um die Kernenergie auszubauen.
+Aufgrund dieses Gesetzes wurden 32 Anträge für den Neubau von Reaktoren bei der Nuclear Regulatory Commission bis Januar 2008 eingereicht.
+Auf der Datenbasis von 2001 lagen die spezifischen Treibhausgasemissionen bei 15 Kilotonnen pro Terawattstunde und damit deutlich günstiger als etwa Kohle (rund 1.000 kt/TWh) oder Öl (778 kt/TWh).
+Windenergie lag bei 9 kt/TWh und Photovoltaik bei 13 kt/TWh.
+Laufwasserkraft hat mit 2 kt/ TWh das niedrigste Potenzial.
+Nach einer Studie des Paul-Scherrer-Instituts aus dem Jahr 2005 produzierten Kernkraftwerke während ihres gesamten Lebenszyklus (Herstellung, Betrieb, Rückbau) ähnlich wenig CO2 wie Windenergie und weniger als Photovoltaik.
+Die Schwefeldioxid-Emissionen liegen bei 3 Tonnen pro Terawattstunde und deutlich günstiger als bei Öl (8013 t/TWh) und Kohle (5274 t/TWh).
+Windkraft lag 2001 bei 69 t/TWh, Photovoltaik bei 24 t/TWh.
+Die niedrigsten Emissionen hat die Fluss-Wasserkraft mit 1 t/TWh.
+Die direkten Flächenansprüche der Kernenergie liegen bei 0,5 Quadratkilometern pro Terawattstunde.
+Windkraft lag 2001 bei 72 km^2/TWh (hier wurde die (zum größten Teil weiter nutzbare) Abstandsfläche zwischen den Anlagen berücksichtigt, nicht die reine Standfläche), Photovoltaik bei 45 km^2/TWh (ohne Berücksichtigung, dass in der Realität hauptsächlich schon bebaute Flächen/ Dächer genutzt werden).
+Die Kernenergie hat bei dieser Betrachtung von allen Energieformen die geringsten Flächenansprüche.
+Der Erntefaktor, also das Verhältnis von gewonnener zu aufgewendeter Energie, liegt für Photovoltaik bei 3 bis 7 und für Windkraft bei 16 bis 25. Wasserkraft hat standortabhängig einen Erntefaktor von 10 bis 270.
+Der Erntefaktor der Kernenergie liegt in einer Bandbreite von 5 bis 15, für optimierte neue Anlagen bis 24.
+Eine kürzliche Veröffentlichung sieht tendenziell ungünstigere Erntefaktoren für erneuerbare Energien, gibt aber für konventionelle Kernkraftwerke Erntefaktoren von 75 bis 106 an und hält für zukünftige Kernkraftwerke sogar Werte von 2000 für möglich.
+In dieser Studie wird optimistisch eine AKW-Laufzeit von 60 Jahren mit einer Arbeitsverfügbarkeit von 91,3 % angenommen (2009: gemittelt 74,2 % in Deutschland).
+Kernkraftwerke erzeugen im laufenden Betrieb kein CO2.
+Jedoch ist der Energieeinsatz bei der Herstellung der Kraftwerke, bei ihrem Betrieb (bei Kernspaltungskraftwerken einschließlich Brennstoffbeschaffung und Abfallentsorgung) und bei ihrem Abriss grundsätzlich mit CO2-Freisetzungen verbunden.
+Der Wissenschaftliche Dienst des Deutschen Bundestages wertet 2007 verschiedene Quellen aus, die zwischen 6 und 126 Gramm CO2 pro erzeugter kWh Strom nennen.
+Elektrischer Strom aus Kohlekraftwerken liegt bei etwa 950 g/kWh (Steinkohle) und 1150 g/kWh (Braunkohle).
+Der wissenschaftliche Dienst kommt angesichts der Abschätzungsunsicherheiten zum Ergebnis "diverse Formen der erneuerbaren Energien, aber auch die Kernkraft" gehören zur "Spitzengruppe" der CO2-armen Energieträger.
+Die insgesamt über den gesamten Lebenszyklus freigesetzte CO2-Menge ist bei Kernkraftwerken also deutlich geringer als bei Erzeugung der gleichen Strommenge mittels konventioneller (fossil gefeuerter) Kraftwerke.
+Ähnliche CO2-Reduktionsfaktoren können mit Windkraft- und Wasserkraftwerken erreicht werden, während andere Erneuerbare Energien, insbesondere die Fotovoltaik, nur etwas kleinere CO2-Reduktionsfaktoren erreichen.
+Die CO2-Emissionen bei Kernspaltungsenergie hängen vom Urangehalt des Erzes - pro Tonne Uranoxid fallen derzeit zwischen 1.000 und 40.000 Tonnen Abraum an - und dem gewählten Verfahren der Urananreicherung ab.
+Die Begrenztheit des Urans bedingt, dass zunehmend Erze mit immer geringerem Urangehalt als Brennstoffe aufbereitet werden.
+Damit steigen bei Verwendung nicht CO2-neutraler Energiequellen für Uranabbau und -anreicherung die CO2-Emissionen pro kWh Strom.
+Weiter ist anzumerken, dass keine der zitierten Studien die Verbesserung der Abbrandparameter neu konzipierter Kernkraftwerke, wie z. B. des EPR, berücksichtigt, die zu einer Senkung des Uraneinsatzes bei gleichbleibender Leistung führen soll.
+Nicht alle Kraftwerke erzeugen im Betrieb CO2, jedoch entsteht bei der Herstellung, beim Betrieb und bei ihrem Abriss grundsätzlich auch klimaschädliches CO2.
+Die insgesamt (über den gesamten Lebenszyklus) freigesetzte Menge ist sehr unterschiedlich, wie die folgende Tabelle zeigt.
+Die rot unterlegten Felder zeigen, dass in Deutschland die Kohlekraftwerke nur 47 % der gesamten elektrischen Energie erzeugen, aber 80 % des dabei erzeugten Kohlendioxids verursachen.
+Der CO2-Anteil, den Kernkraftwerke bei 22,6 % Stromerzeugungsanteil indirekt beitragen, ist mit 0,7 % sehr gering.
+In den beiden rechten Spalten ist die aktuelle Verteilung im Nachbarland Frankreich gegenübergestellt.
+Welche Einsparungen durch politische Vorgaben möglich sind, zeigt der Vergleich der Kraftwerkparks der Nachbarländer Frankreich und Deutschland:
+Obwohl auch in Frankreich CO2 durch die 15 Kohlekraftwerke freigesetzt wird, ist die Gesamtmenge erheblich geringer, wie die folgende Tabelle zeigt.
+Nach Angaben der EDF werden 95 % der elektrischen Energie in Frankreich CO2-frei erzeugt.
+Bei fast gleicher elektrischer Gesamtenergie produziert man in Frankreich nicht einmal 10 % des in Deutschland freigesetzten Klimagases CO2.
+Die Energiewirtschaft verursacht weniger als die Hälfte des anthropogenen CO2-Ausstosses.
+Im Pro-Kopf Ausstoss liegt Frankreich etwa um ein Drittel niedriger als Deutschland (2008).
+Eine im Oktober 2020 veröffentlichte wissenschaftliche Studie (Sovacool et al.) mit Daten zu 123 Ländern über 25 Jahre erklärte, eine Tendenz zu deutlich gesenkten CO2-Emissionen durch Kernkraft nicht statistisch signifikant belegen zu können, während dies für erneuerbare Energieträger gelungen sei.
+Eine Analyse derselben Daten durch eine andere Gruppe von Wissenschaftlern fand hingegen, dass die CO2-Einsparungen durch Kernkraft und erneuerbare Energieträger vergleichbar hoch seien, und dass dies statistisch signifikant aus den Daten hervorgehe, im Einklang mit den theoretischen Einsparpotenzialen.
+Die Diskrepanz der beiden Ergebnisse wurde auf schwere methodische Fehler in der Datenanalyse von Sovacool et al. zurückgeführt, insbesondere die Misinterpretation von statistischen Hypothesentests sowie der Einfluss zahlloser unbeobachteter Störfaktoren.
+Sovacool et al. hingegen erklärten ihr unerwartetes Ergebnis mit Spannungen zwischen verschiedenen nationalen Entwicklungsstrategien, die deren klimaschützende Effektivität reduzieren könnte - etwa aufgrund unterschiedlicher Infrastrukturbedarfe und begrenzter Budgets für Investitionen in das Energie-System.
+Die gesellschaftliche Zuteilung von Ressourcen für die Kernenergieproduktion könne mit der Zuteilung von Ressourcen für Forschung, Entwicklung, Bau, Ausbau und Verbesserung von Technologien und Strukturen im Zusammenhang mit erneuerbaren Energien konkurrieren.
+In der ersten "Deutschen Risikostudie" aus dem Jahr 1979, erstellt durch die Gesellschaft für Reaktorsicherheit, werden mögliche Unfallfolgen von bis zu 14.500 Soforttoten und 104.000 späteren Todesfällen mit einer Eintrittswahrscheinlichkeit von einmal alle Zwei Milliarden Jahre angegeben.
+Auch könnte laut der Gesellschaft für Reaktorsicherheit eine Fläche von bis zu 5600 Quadratkilometern so stark kontaminiert werden, dass 2,9 Millionen Menschen evakuiert und umgesiedelt werden müssten.
+In der Risikostudie Phase B wurde für den Druckwasserreaktor Biblis B eine Wahrscheinlichkeit für einen Unfall mit Kernschmelze von 3,6 * 10 pro Jahr ermittelt.
+Das entspricht in etwa einem Unfall alle 280.000 Betriebsjahre.
+Der Erwartungswert liegt damit bei knapp 0,5 Toten/Betriebsjahr.
+Bei der Katastrophe von Tschernobyl, dem bis dahin größten Nuklearunfall der Geschichte, wurden 1986 große Landflächen - auch in Deutschland - mit radioaktiven Nukliden kontaminiert.
+Knapp 50 Menschen sind an den Folgen der hohen Strahlung gestorben.
+Die Prognose der Todesfälle infolge von durch die Strahlung induzierten Krebs beinhaltet große Unsicherheiten, die Schätzungen von Weltgesundheitsorganisation und Internationaler Atomenergie-Organisation bewegen sich in der Größenordnung von insgesamt 9000 zusätzlichen Todesfällen.
+Andere Organisationen schätzen eine weit höhere Anzahl Opfer:
+Greenpeace nennt 200.000 zusätzliche Tote als Folge des Unfalls, die IPPNW ermittelte eine Anzahl von 50.000 bis 100.000 Toten und 540.000 bis 900.000 Invaliden bis zum Jahr 2006, und der TORCH-Report nennt 30.000 bis 60.000. Diese hochgerechneten Opferzahlen legen das nuklearmedizinisch umstrittene Linear No Threshold Modell zugrunde, welches besagt, das eine bestimmte Dosis ionisierender Strahlung im Wesentlichen immer gleich schädlich ist, egal über welchen Zeitraum sie aufgenommen wurde.
+Es gibt inzwischen einige retrospektive Studien, welche Zweifel an der Richtigkeit des LNT-Modell vorbringen.
+Die Schäden eines Unfalls mit erheblicher Freisetzung von Radioaktivität bezifferte eine Studie der Prognos AG 1992 mit 5 bis 12 Billionen DM (2,6 bis 6,1 Billionen €), entsprechend dem drei- bis vierfachen des damaligen jährlichen deutschen Bruttosozialproduktes.
+Da ein solcher Unfall in Deutschland nur einmal in rund 1700 Jahren zu erwarten ist, beträgt der "Schadenserwartungswert" demnach 6,4 Milliarden Mark (3,3 Mrd. €) pro Jahr, oder 4,3 Pfennig (2 Cent) je Kilowattstunde Atomstrom.
+Im Mai 2012 erschien eine Studie der Max-Planck-Gesellschaft für Chemie, nach der das Risiko katastrophaler Kernschmelzen bei Reaktoren wie in Tschernobyl (Veralteter RBMK-Typ ohne Sicherheitsbehälter) und Fukushima (BWR/3-5 Typ ohne ausreichenden Flut- und Erdbebenschutz, gebaut an einem Tsunami- und Erdbeben-gefährdeten Gebiet) wesentlich höher ist als bisher abgeschätzt, und zwar einmal in 10 bis 20 Jahren bzw. 200-mal häufiger als bisher angenommen.
+Ob Kernkraftwerke wie in Tschernobyl oder Fukushima repräsentativ für weltweit alle Kernkraftwerke sind, bleibt in dem Artikel offen, zumal sich beim Bau neuer Kernkraftwerke ein globaler Trend zur passiven Sicherheit abzeichnet.
+Die meisten der zur Zeit (Stand 2020) im Bau befindlichen Kernkraftwerke wie der AP1000 von Westinghouse, der russische WWER 1200, der koreanische APR1400, der indische IPHWR-700 oder der europäische EPR sind mit erweiterten passiven Sicherheitsfeatures ausgestattet.
+Derartige Reaktoren können über mehrere Tage einen Kühlmittelverlust ohne externe Stromversorgung nur durch passive Kühlung kompensieren, ohne dass es zu einer Kernschmelze kommt.
+Ein Unfall wie in Fukushima wäre damit ausgeschlossen.
+Zusätzlich ist beispielsweise in den USA seit dem Reaktorunfall im Kernkraftwerk Three Mile Island die Häufigkeit ungeplanter Reaktorabschaltungen um etwa den Faktor 25 gesunken.
+Global sank die Anzahl ungeplanter Reaktorabschaltungen seit 1990 etwa auf ein Drittel, die Zahl von Industrieunfällen in Kernkraftwerken auf ein Fünftel In der oben genannten Studie der Max-Planck-Gesellschaft für Chemie wurden die genannten Trends nicht berücksichtigt.
+Der Abbau von Uran ist mit negativen Umwelteinflüssen verknüpft, die sowohl während des Bergbaus selbst auftreten als auch nach Abschluss der Bergbautätigkeit durch die zumeist ungenügend gesicherten bergbauliche Hinterlassenschaften langfristig wirksam bleiben.
+Uran wird vorwiegend im Tage- und Untertagebau abgebaut, wobei der Großteil des Urans aus Staaten stammt, "deren Bergbau-Umweltstandards als unterentwickelt gelten".
+In Staaten wie Russland, Kanada, Niger oder Kasachstan gibt es darüber hinaus keine Vorgaben zum Umgang mit Rückstandsdeponien.
+Damit einher gehen Flächeninanspruchnahme, Wasserverbrauch und -verschmutzung sowie generelle Umweltverschmutzung und gesundheitliche Gefährdung für Minenarbeiter und die betroffene Bevölkerung.
+Spezifisch für die Urangewinnung ist die dadurch verursachte Freisetzung von und Belastung durch Radioaktivität, die in der Geschichte des Uranbergbau zu vermehrten (Lungen-)Krebsfällen geführt hat.
+Von Atomkraftgegnern wird kritisiert, dass die CO2-Emissionen im Uranbergbau in Betrachtungen zur Ökobilanz der Kernenergie nicht berücksichtigt werden.
+In Australien sind Aborigines in der Nähe von Uran-Abbaustätten auffällig häufig von Krebs betroffen.
+Auch der Uranabbau in Deutschland (in der ehemaligen DDR, zur Wiedervereinigung 1990 eingestellt; siehe Wismut) führte zu Erkrankungen von Bergleuten.
+Durch Berichte, medizinische Dossiers und Prozessakten gilt dieser Uranbergbau als der weltweit am besten dokumentierte.
+Eine Studie des Bundesamtes für Strahlenschutz aus dem Jahr 2007 belegt eine statistisch signifikant erhöhte Leukämiehäufigkeit bei Kindern, die weniger als fünf Kilometer von einem Kernkraftwerk entfernt aufgewachsen sind.
+Danach erkrankten von 1980 bis 2003 im Fünf-Kilometer-Umkreis um die Kernkraftwerke in Deutschland 37 Kinder neu an Leukämie - im statistischen Mittel wären es 17 Kinder gewesen.
+Die Ursachen für diese Korrelation sind bis heute nicht geklärt, nach derzeitigem Kenntnisstand ist der Zusammenhang nicht strahlenbiologisch erklärbar.
+Über die Interpretation dieses Befundes herrscht keine Einigkeit.
+Während die Autoren der Studie der Auffassung sind, dass die von deutschen Kernkraftwerken im Normalbetrieb emittierte ionisierende Strahlung wegen der um ein Vielfaches höheren natürlichen Strahlenbelastung nicht als Ursache in Betracht kommt, gelangt das externe Expertengremium des BfS zur KiKK-Studie zur Überzeugung, dass aufgrund des besonders hohen Strahlenrisikos für Kleinkinder sowie der unzureichenden Daten zu Emissionen von Leistungsreaktoren dieser Zusammenhang keinesfalls ausgeschlossen werden kann.
+Andere Studien sind dagegen kontrovers.
+Sie zeigen keinen bis hin zu einem deutlichen Zusammenhang zwischen dem Wohnen in der Nähe eines Kernkraftwerkes und dem Auftreten von Krebsfällen.
+Es wird auch darauf verwiesen, dass 'viele eventuell miteinander kombinierte Faktoren ... als Krankheitsursache denkbar (sind) und ... möglicherweise in der Umgebung deutscher Kernkraftwerke gehäuft auf(-treten)', es sich also nicht um noch unbekannte Emissionen von Leistungsreaktoren handelt.
+Plutonium und noch nicht verbrauchtes Uran sowie weitere radioaktive Wertstoffe (zum Beispiel Americium), die in abgebrannten Brennstäben enthalten sind, werden in der französischen Wiederaufarbeitungsanlage La Hague und im britischen Sellafield gewonnen; die verbleibenden Reststoffe werden für die Endlagerung konditioniert.
+Bei diesem Verfahren entsteht in La Hague täglich 400 Kubikmeter radioaktives Abwasser; dieses wird in den Ärmelkanal geleitet.
+Dies ("direkte Einleitung") ist legal; das Versenken von Fässern mit Atommüll im Meer ist seit 1993 verboten.
+Die Entsorgung der hoch radioaktiven Brennelemente bzw. der Rückstände aus der Wiederaufarbeitung ist noch immer ungesichert.
+Weltweit ist mit Stand 2012 kein Endlager für hochradioaktive Stoffe vorhanden.
+Als Gründe hierfür werden genannt:
+In Deutschland behilft man sich seit Jahrzehnten mit einer Vielzahl sogenannter Zwischenlager sowie "Versuchslagern" wie der bekannten Schachtanlage Asse, um die bisher angefallenen radioaktiven Abfälle zu lagern.
+Am 27. Juli 2013 trat ein neues Standortauswahlgesetz (StandAG) in Kraft, nachdem bis Ende 2015 neue Vorschläge zu Sicherheitsanforderungen sowie zu geologischen Ausschluss- und Auswahlkriterien erarbeitet werden sollen.
+Erst im Anschluss daran erfolgt eine neue Standortsuche.
+Weil einige der anfallenden Nuklide sehr große Halbwertszeiten haben (239Pu beispielsweise 24.000 Jahre), sind die Anforderungen im Besonderen an die geologische Langzeitstabilität dementsprechend hoch.
+Zwar könne die Halbwertszeit durch Wiederaufarbeitung und Transmutation auf wenige hundert Jahre gesenkt werden; dies erhöhe jedoch gleichzeitig die gegenwärtige Strahlenbelastung, die mit solchen Verfahren verbunden sei.
+Nach Ansicht verschiedener Organisationen und Experten sind auch Atommülltransporte wegen möglicher Unfälle nicht sicher.
+Bei der Wiederaufarbeitung extrahiertes Plutonium könne zur Herstellung von Kernwaffen verwendet werden.
+Außerdem gäbe es insbesondere zur Wiederaufarbeitungsanlage Sellafield Medienberichte, dass dort unkontrolliert Radioaktivität ausgetreten sei und die benachbart wohnenden Familien mit einigen Fällen von darauf zurückzuführenden Leukämie-Erkrankungen ihrer Kinder und Senioren konfrontiert seien.
+Ein solcher Zusammenhang konnte bisher nicht wissenschaftlich bestätigt werden.
+Bis in die 1970er Jahre wurden rund 100.000 Fässer mit radioaktiven Abfällen auf hoher See verklappt, zum Teil in Fischfanggebieten.
+Die Folgen für Ökologie und menschliche Ernährung werden aufgrund der starken Verdünnung als vernachlässigbar eingestuft.
+Einige Wissenschaftler haben in der Vergangenheit vorgeschlagen, die Atommüllverklappung in den Weltmeeren wieder aufzugreifen, da der Beitrag natürlicher im Meerwasser aufgelöster, radioaktiver Isotope rein rechnerisch etwa fünf Millionen Mal größer sei als die der Verklappung sämtlicher Atommüllmengen Amerikas.
+Die unterschiedlichen Effekte von verschiedenen Formen der Stromerzeugung auf die Gesundheit sind nur schwer zuzuschreiben.
+Einer Schätzung auf Basis von Daten aus der Europäischen Union zufolge liegt die Zahl der durch Atomkraft verursachten Todesfälle in der Öffentlichkeit in Europa bei 0,003 und bei Beschäftigten im Kernenergiesektor bei 0,019 (jeweils pro erzeugter Terawattstunde).
+Todesfälle durch Luftverschmutzung aufgrund der Kernenergienutzung liegen bei 0,052, schwere Erkrankungen bei 0,22.
+Im Vergleich dazu liegt die Zahl der Todesfälle durch Elektrizitätsgewinnung mit Braunkohle bei 0,02 (Unfälle in der Öffentlichkeit), 0,1 (Unfälle bei Beschäftigten), 32,6 (Luftverschmutzung) bzw. 298 (schwere Erkrankungen).
+Als wesentlichere Probleme der Kernenergie sehen die Autoren deswegen nicht die Luftverschmutzung und den normalen Betrieb, welche vergleichsweise wenige Todesfälle verursachten, sondern eher langfristige Gefahren verbunden mit der Lagerung der nuklearen Abfälle, die militärische Nutzung und die Schäden im Falle eines Unfalls.
+Diese Einschätzung wurde auch nach der Nuklearkatastrophe von Fukushima u. a. von James E. Hansen bestätigt.
+Er verglich in einer 2013 erschienenen Studie die Risiken verschiedener Energieträger und sprach sich dabei für die Kernenergie als deutlich risikoärmere und emissionsärmere Technologie aus.
+Gegner der Kernkraft argumentieren, dass es nicht möglich sei, zivile und militärische Nutzung faktisch zu trennen.
+Die Kernenergie trage zur Verbreitung von Technologie und Material zur Herstellung von Atomwaffen bei, insbesondere die Anreicherungs- und Wiederaufbereitungsanlagen, bei denen waffenfähiges Plutonium produziert wird.
+Indien, Nordkorea und Südafrika begannen zivile Atomprogramme mit speziellen Forschungsreaktoren.
+Ob waffentaugliches Plutonium in diesen hergestellt wurde oder in speziellen Anlagen, ist umstritten.
+Südafrika gab seine Kernwaffen zwischenzeitlich auf.
+Der Iran sowie Israel besitzen in jüngster Zeit keine Kernkraftwerke zur kommerziellen Energiegewinnung.
+Südafrika nahm sein bisher einziges kommerzielles Kernkraftwerk in Betrieb, lange nachdem es Kernwaffen erworben hatte.
+John Large, ein führender Atomenergie-Experte Großbritanniens, meint: Jedes zivile Nuklearprogramm eignet sich per se dazu, ein Waffenprogramm zu verbergen In vielen Bereichen ist die militärische von der zivilen Nutzung kaum zu unterscheiden.
+Anlagen zur 235Uran-Anreicherung, wie die deutsche Urananreicherungsanlage Gronau, könnten auch zur Herstellung von kernwaffenfähigem Material, mit einem Anteil von 80 % 235U, verwendet werden.
+Während der Herstellung nuklearer Brennstäbe muss der Anteil des spaltbaren Uran-Isotops 235 zur Verwendung in den meisten Reaktortypen (nicht aber in Schwerwasserreaktoren und einigen graphitmoderierten Reaktorbauarten) vom natürlichen Anteil von 0,7 % auf etwa 4 % erhöht werden ("Uran-Anreicherung"), damit es in der Lage ist, eine Kettenreaktion hervorzurufen.
+Kernkraftgegner befürchten, dass Anlagen zur Uran-Anreicherung jederzeit so umgebaut werden könnten, dass man dort waffenfähiges Uran mit etwa 80 % Uran-235-Gehalt produzieren könnte.
+Die in Wiederaufarbeitungsanlagen eingesetzten Techniken eignen sich prinzipiell auch zur Gewinnung von Plutonium aus abgebrannten Brennstäben, das ebenfalls zur Energiegewinnung in MOX-Brennelementen verwendet werden kann.
+Die Waffentauglichkeit des gewonnenen Plutoniums sinkt zwar mit zunehmendem Abbrand der Brennelemente.
+Aber aus Plutonium hoch abgebrannter Brennelemente lässt sich noch ein Nuklearsprengsatz geringerer Effizienz herstellen.
+Viele Technologien, die im Zusammenhang mit der zivilen Kernenergie stehen, sind gleichzeitig relevant für die Entwicklung und Herstellung von Kernwaffen.
+Daher können zivile Kernenergieprogramme, falls es ein Staat so will, als Deckmantel für ein geheimes militärisches Kernwaffenprogramm genutzt werden.
+Das iranische Atomprogramm ist eines der prominenten Beispiele dafür.
+Ein grundlegendes Ziel nationaler und weltweiter Sicherheitsbestreben besteht darin, das Proliferationsrisiko zu minimieren, welches mit der weltweiten Nutzung und dem Ausbau der zivilen Kernenergienutzung einhergeht.
+Sofern die Entwicklung "schlecht umgesetzt wird oder die Maßnahmen zur Eindämmung des Poliferationsrisikos fehlschlagen, wird es in Zukunft gefährlich".
+Das Global Nuclear Energy Partnership ist ein Ansatz, um Staaten mit Bedarf nach Kernbrennstoff eben solchen günstig zur Verfügung zu stellen.
+Als Gegenleistung verpflichten sich die Staaten, auf eigene Programme zur Urananreicherung zu verzichten.
+Benjamin K. Sovacool zufolge haben einige "hohe Offizielle, sogar innerhalb der vereinten Nationen, argumentiert, dass sie wenig unternehmen können, um Staaten davon abzuhalten, Kernreaktoren für die Herstellung von Kernwaffen zu nutzen".
+Ein Report der Vereinten Nationen von 2009 besagt:
+Auf der anderen Seite können Leistungsreaktoren dazu verwendet werden, Kernwaffenarsenale zu reduzieren.
+Im Zuge des Megatonnen-zu-Megawatt-Programms wurden bisher 425 Tonnen hochangereichertes Uran aus ehemaligen Kernwaffen zu Kernbrennstoff für Reaktoren verarbeitet.
+Dies entspricht etwa 17.000 Nuklearsprengköpfen.
+Damit ist dies das bisher erfolgreichste Anti-Proliferationsprogramm.
+Professor Matthew Bunn meint dazu:
+Im April 2012 gab es in 31 Ländern Kernkraftwerke.
+2013 sagte Mark Diesendorf, dass die Regierungen Frankreichs, Indiens, Nordkoreas, Pakistans, Englands und Südafrikas Leistungs- und Forschungsreaktoren dazu verwendet haben, Kernwaffen zu entwickeln oder Kernwaffenbestände aus militärischen Reaktoren zu erweitern.
+Die Entwicklungen von neuen Reaktorsystemen und zugehörigen Brennstoffkreisläufen durch das Generation IV International Forum haben explizit das Ziel, ein Entnehmen von kernwaffenfähigem oder terroristisch einsetzbarem Material so unattraktiv wie möglich zu machen.
+Kernkraftwerke gelten als Ziele für terroristische Angriffe, wobei diese Erkenntnisse nicht erst seit den Anschlägen vom 11. September diskutiert werden.
+Bereits beim Bau der ersten Kernkraftwerke wurde von Sicherheitsgremien auf diese Problematik hingewiesen.
+Auch sind aus mehreren Staaten konkrete Angriffsdrohungen gegen Kernkraftwerke durch Terroristen oder Kriminelle dokumentiert.
+Während in Deutschland ältere Kernkraftwerke ohne besonderen Schutz gegen Flugunfälle gebaut wurden, sind die später gebauten Kernkraftwerke mit einem massiven Betongebäude teilweise gegen Flugunfälle gesichert.
+Ausgelegt sind sie gegen den Aufprall von Kampfflugzeugen mit einer Geschwindigkeit von etwa 800 km/ h. Hierbei wurde als Bemessungsgrundlage der Aufprall eines Flugzeugs des Typs Phantom II mit einer Masse von 20 Tonnen und Geschwindigkeit von 215 m/s angenommen.
+Diskutiert werden mittlerweile auch die Gefahren, die aus einem terroristischen Anschlag mittels eines Großflugzeugs auf ein Kernkraftwerk entstehen.
+Ein solcher Terroranschlag könnte katastrophale Folgen haben.
+So hat beispielsweise die Bundesregierung bestätigt, dass das Kernkraftwerk Biblis A nicht gegen den Absturz eines Militärflugzeuges gesichert sei.
+Nach den Terroranschlägen in Brüssel 2016 wurden mehrere Kernkraftwerke teilevakuiert.
+Zugleich wurde bekannt, dass die Terroristen auch die Atomkraftwerke ausgespäht hatten.
+Mehrere Mitarbeitern wurde die Zugangsberechtigungen entzogen.
+Darüber hinaus stellt auch "Nuklear-Terrorismus", z. B. durch Einsatz sog. "schmutziger Bomben" durch Terroristen ein erhebliches Gefahrenpotenzial dar.
+Für deren Herstellung würden beliebige radioaktive Abfälle oder das für Kernkraftwerke angereicherte Uran in Frage kommen, allerdings stellt das bei weitem größte Bedrohungspotential der Bestand radioaktiver Stoffe in der Nuklearmedizin dar, weil die Be- und Überwachung nuklearmedizinischer Bestände bei weitem nicht so streng organisiert ist wie in der stromerzeugenden Kernindustrie.
+Allein der Diebstahl nuklearmedizinischer Geräte und Behälter hat in der Vergangenheit zu Zwischenfällen mit erheblicher Kontamination und einer beträchtlichen Zahl Strahlungsopfer (zum Teil mit Todesfolge) geführt, beispielsweise der Goiania-Unfall oder der Nuklearunfall von Samut Prakan
+Die Diskussion um die Kernenergie ist eine gesamtgesellschaftliche Auseinandersetzung über die für zivile Zwecke genutzte Kernspaltung zur Stromgewinnung aus Kernbrennstoffen.
+Die Diskussion erreichte in den 1970er und 1980er eine Hochphase; in einigen Ländern wurde damals über Kernenergie intensiver diskutiert als jemals zuvor über eine Technologie.
+Besonders in Deutschland war die Anti-Atomkraft-Bewegung jahrzehntelang gesellschaftlich stark verankert:
+Zunächst durch die Grünen, später auch durch die SPD erhielt sie eine politische Plattform.
+Ihr Wirken mündete in eine Vorreiterrolle Deutschlands beim Atomausstieg.
+Befürworter sehen in der Kernenergie eine nachhaltige Technologie, die die Versorgungssicherheit erhöht, da sie die Abhängigkeit vom Import von fossilen Brennstoffen reduziert.
+Befürworter haben betont, dass durch Nutzung der Kernenergie eine viel geringere Menge an Treibhausgasen oder Smog als durch fossile Kraftwerke entsteht.
+Anders als bestimmte Erneuerbaren Energien, insbesondere Windenergie und Solarenergie, die nur in Kombination mit Speicherkraftwerken hohe Anteile am Strommix erreichen können, ist die Kernenergie grundlastfähig.
+Befürworter haben behauptet, das mit der Endlagerung verbundene Risiko sei klein und könne durch Einsatz fortschrittlicher Technologien weiter gesenkt werden.
+Die (historische) Sicherheitsbilanz der Kernenergie in der westlichen Welt sei ausgezeichnet im Vergleich zu anderen großen Energieträgern.
+Gegner der Kernenergie argumentieren, dass diese viele Gefahren für Mensch und Umwelt impliziert.
+Es gab und gibt Probleme bei der Verarbeitung, beim Transport und bei der Lagerung von radioaktivem Abfall, das Risiko der Proliferation und des Terrorismus, sowie Gesundheitsrisiken und Risiken durch den Uranabbau.
+Sie weisen darauf hin, dass bei Kernkraftwerken Fehlfunktionen und Fehlbedienungen möglich und auf Dauer unvermeidlich sind (siehe auch Liste von Unfällen).
+Man könne die Risiken der Kernenergie durch technische Weiterentwicklungen nicht vollständig ausräumen.
+Unter Berücksichtigung der gesamten Kette vom Uranbergbau bis zur Endlagerung und dem Abbau der einzelnen Kernkraftwerke ist die Kernenergie weder eine CO2-neutrale noch eine wirtschaftliche Energiequelle.
+Weitere Kritikpunkte sind die Begrenztheit nuklearer Brennstoffe sowie die Abhängigkeit von Uranlieferländern.
+Auch dass die Kernkraftwerksbetreiber in Deutschland von 1979 bis 2017 durch die Beteiligung an der Deutschen Gesellschaft zum Bau und Betrieb von Endlagern für Abfallstoffe (DBE) an der Entsorgung ihrer eigenen Abfälle verdienten, ist kritisiert worden.
+Argumente zur Wirtschaftlichkeit der Kernenergie sind von beiden Seiten vorgebracht worden.
+In den Jahren 2006 bis 2008 war etwa die Hälfte der deutschen Bevölkerung gegen Kernenergie.

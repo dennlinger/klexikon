@@ -1,0 +1,769 @@
+Das Virus SARS-CoV-2 (Abk. für englisch severe acute respiratory syndrome coronavirus type 2), auch als Schweres akutes Atemwegssyndrom-Coronavirus-Typ 2 bezeichnet, umgangssprachlich (neuartiges) Coronavirus genannt, ist ein dem SARS-Erreger ähnliches Betacoronavirus mit wahrscheinlich zoonotischem Ursprung.
+Das Virus wurde Anfang 2020 als ätiologischer Erreger der Krankheit COVID-19 identifiziert.
+
+COVID-19 trat laut Chinas Regierung erstmals Ende 2019 in der chinesischen Stadt Wuhan als "Lungenkrankheit unbekannter Genese" in Erscheinung.
+Die Weltgesundheitsorganisation (WHO) nannte COVID-19 am 30. Januar 2020 eine "gesundheitliche Notlage von internationaler Tragweite".
+Da die Erkrankung sich weltweit ausbreitete, wurde COVID-19 am 11. März 2020 als Pandemie eingestuft (siehe COVID-19-Pandemie).
+
+Das Virus ist zwischen 60 und 140 Nanometern groß und wird in der Regel im nahen menschlichen Kontakt durch Tröpfchen und Aerosole übertragen.
+Für die weltweite Ausbreitung spielten hierbei besonders größere Übertragungsereignisse, sogenannte Superspreading-Events, eine wichtige Rolle.
+Das Virus hat mittlerweile zahlreiche Varianten (Mutationen) ausgebildet.
+Klinisch-diagnostische und epidemiologische Erfahrungen sprechen dafür, dass einige Varianten leichter als andere von Mensch zu Mensch übertragen werden können und möglicherweise auch schwerere Krankheitsverläufe bewirken.
+Die Wirksamkeit der neu entwickelten Corona-Impfstoffe bezüglich neuer Varianten wird momentan (Stand: Januar 2021) geprüft.
+
+== Entdeckungsgeschichte
+
+Im Dezember 2019 wurden in der Großstadt Wuhan gehäuft schwere Lungenentzündungen unbekannter Ursache festgestellt.
+Am 30. Dezember 2019 informierte der chinesische Arzt Li Wenliang in einer WeChat-Gruppe seine Arztkollegen über sieben Patienten, die wegen Verdachts auf Infektion mit dem SARS-Virus im Zentralkrankenhaus Wuhan behandelt wurden; dafür wurde er von der chinesischen Polizei ermahnt.
+Li selbst erkrankte später an COVID-19 und starb.
+
+Das Chinesische Zentrum für Krankheitskontrolle und -prävention entsandte am 31. Dezember 2019 ein Team in die Stadt.
+Am selben Tag wurde das China-Büro der WHO durch die chinesischen Behörden offiziell informiert, dass im Dezember 2019 in Wuhan mehrere Personen an schwerer Lungenentzündung erkrankt waren und dass als deren Ursache ein uncharakterisierter Erreger vermutet werde.
+Bis zum 3. Januar 2020 wurden der WHO insgesamt 44 Erkrankte gemeldet, darunter Schwerkranke.
+Da mehrere Erkrankte auf dem örtlichen wet market "Südchinesischer Großhandelsmarkt für Fische und Meeresfrüchte Wuhan" (chinesisch , Pinyin Whan huanan hixian pifa shchng) gearbeitet hatten, wurde dort der primäre Infektionsort vermutet.
+Kurz nach Auftreten der Krankheit im Dezember 2019 hatten 27 (66 %) der ersten 41 Krankenhauspatienten den Markt im Zentrum Wuhans besucht.
+Die Infektionen von 13 der übrigen Betroffenen hingen allerdings nicht mit diesem Ort zusammen.
+
+Am 7. Januar 2020 gab der die Virusidentifizierung leitende chinesische Virologe Xu Jianguo () bekannt, der Krankheitserreger sei ein bisher unbekanntes Coronavirus.
+Dies hätten Untersuchungen von Blutproben und Rachenabstrichen von 15 Erkrankten ergeben.
+Die WHO bestätigte diese Erkenntnis am 9. Januar 2020.
+Am 13. Januar 2020 wurde die komplette RNA-Genomsequenz eines Isolats des neuen Coronavirus in der NCBI-GenBank hinterlegt (GenBank-Nummer MN908947).
+Nahezu gleichzeitig wurde ein erstes Nachweisverfahren publiziert.
+
+Eine phylogenetische Analyse der Genomsequenzen aus Umweltproben des Marktes (etwa von Oberflächen) zeigte, dass sie mit den Viren der ersten Patienten aus Wuhan sehr nahe verwandt sind.
+Nach einer Studie des Wuhan Hospitals hatte der erste identifizierte Patient den Markt nicht besucht.
+Keines der untersuchten Tiere vom Markt wurde positiv auf SARS-CoV-2 getestet, was die Annahme stützt, das Virus sei nicht dort auf den Menschen übergesprungen.
+Offenbar hatte sich das Virus bereits zuvor unbemerkt unter Menschen etabliert.
+Der Markt könnte daher Schauplatz eines frühen Superspreader-Ereignisses gewesen sein.
+
+Aus Modellierungen aufgrund der Untersuchung der Veränderungen des Erbmaterials RNA des Virus wird als erstes Auftreten des Virus als wahrscheinlich zwischen Oktober und Anfang Dezember 2019 eingegrenzt.
+Die Verbreitungsmuster der verschiedenen unterscheidbaren Virusmutationen spricht für eine massenhafte weltweite Ausbreitung des Virus durch eine Vielzahl von verschiedenen Ausbreitungsereignissen.
+
+Als Patient null wird ein 55-jähriger Mann aus der Provinz Hubei vermutet, der sich bereits am 17. November 2019 infiziert haben könnte.
+Nicht alle frühen COVID-19-Fälle können mit dem Markt in Verbindung gebracht werden; die Historie des Ausbruchs ist wohl komplizierter als zunächst angenommen.
+In einer Vorab-Publikation aus dem Herbst 2020 konnte aufgrund umfangreichen Genomvergleichs eine vermutliche RNA-Sequenz der Ausgangsform ("Stammvater", en. progenitor: proCoV2) ermittelt werden, die (wie zu erwarten) vom Genom der real existierenden Referenzform etwas abweicht.
+Aus den Daten lässt sich ableiten, dass dieses Virus bereits einige Wochen vor den im Dezember 2019 entdeckten Erkrankungen Menschen infiziert hat.
+Nach Gesprchen mit chinesischen Medizinern schtzte die WHO die Anzahl der Corona-Patienten vor Dezember 2019 auf rund 1000 Personen.
+Zudem wurden 13 Virus-Stmme isoliert, die sich nicht alle dem Ausbruch in Wuhan zuordnen lassen.
+Es könnte sich bei 72.000 früheren Erkrankungen mit Symptomen wie Lungenentzündung, Grippe oder Fieber um SARS-CoV-2 gehandelt haben.
+Die Forscher lokalisieren dieses Virus und seine unmittelbaren Nachfolger in China.
+
+Am 10. November 2019 begab sich eine damals 25-jährige Mailänderin wegen eines Hautausschlags in ärztliche Behandlung.
+Anfang 2021 konnten von einem internationalen Forscherteam, koordiniert von der Universität Mailand, in der seinerzeit entnommenen Hautprobe Nukleotidsequenzen (genetische Spuren) der Ribonukleinsäure (RNA) von SARS-CoV-2 in den Schweißdrüsen nachgewiesen werden.
+Mit Ausnahme des unspezifischen Hautausschlags traten bei der Frau keine weiteren Symptome auf.
+Entsprechend einer Veröffentlichung der Wissenschaftler im British Journal of Dermatology konnten bei einem serologischen Test bei der Mailänderin noch im Juni 2020 Antikörper nachgewiesen werden.
+Nach Aussage des Biochemikers Thomas Carell von der Universität München liefert die Kurzmitteilung in der britischen Fachzeitschrift wenig Details, "doch in einer der Abbildungen sieht man, wie sich die markierten Viren um eine entzündete Schweißdrüse verteilen".
+Er gab jedoch auch zu bedenken, dass es sich um eine Verunreinigung handeln könnte.
+Die Spuren der Viren im Hautgewebe der Mailänderin wurden mit der Methode RNA-FISH zum Leuchten gebracht, mit der auch Thomas Carell arbeitet.
+Um nachzuweisen, dass tatsächlich Spuren der RNA von SARS-CoV-2 markiert worden waren, brachten die Wissenschaftler anschließend ein Enzym auf die Hautprobe, worauf das Leuchten verschwand.
+Daraus wurde abgeleitet, dass das Enzym die Spuren des viralen Erbgutes in der Probe zerstört hatte.
+Ob die Mailänderin nicht nur in Italien, sondern eventuell auch weltweit der "Patient null" ist, muss jedoch noch geklärt werden.
+
+Ein noch früheres Vorkommen könnten Blutproben belegen, die im September 2019 Italienern entnommen wurden und laut einer Untersuchung im November 2020 Antikörper gegen SARS-CoV-2 enthielten.
+
+== Benennung
+
+Das Virus SARS-CoV-2 wird umgangssprachlich (nach der Virusfamilie) als "neuartiges Coronavirus", "neues Coronavirus", "Coronavirus" oder (in deutschsprachigen Ländern) nur als "Corona" bezeichnet.
+Die von der WHO vom 13. Januar bis zum 11. Februar 2020 verwendete Bezeichnung "2019-nCoV" galt nach deren Aussage nur vorläufig.
+Das National Center for Biotechnology Information (NCBI) nahm es als Wuhan seafood market pneumonia virus isolate Wuhan-Hu-1 in die Taxonomie-Datenbank auf.
+Das NCBI ist jedoch für Virusnamen und -klassifikationen nicht maßgebend.
+Das Virus wurde dort - ebenfalls vorläufig - als Wuhan seafood market pneumonia virus geführt; als Synonyme galten 2019-nCoV und Wuhan coronavirus.
+
+Die WHO griff diverse Namensvorschläge nicht auf, die gemeinsam hatten, das Virus nach dem Ort seiner Erstidentifikation als Wuhan respiratory syndrome coronavirus (WRS-CoV) zu benennen.
+In der Vergangenheit hatte es Beschwerden gegeben, als Viren ihren Namen nach Ländern oder Regionen erhielten.
+(Beispiele: Marburg-Virus, MERS-CoV).
+Daher hatte die WHO 2015 Benennungen nach dem Entdeckungsort für unerwünscht erklärt.
+In der NCBI-Taxonomie-Datenbank aufgeführte Synonyme waren im Februar 2020: 2019-nCoV, COVID-19, COVID-19 virus, Wuhan coronavirus und Wuhan seafood market pneumonia virus.
+
+Am 11. Februar 2020 gab die WHO bekannt, die durch das Virus verursachte Erkrankung als COVID-19 (oder "Covid-19" für coronavirus disease 2019) benannt zu haben.
+Am selben Tag schlug die Coronavirus Study Group (CSG) des International Committee on Taxonomy of Viruses (ICTV) auf dem Preprint-Server bioRxiv für das Virus die nun offizielle Bezeichnung SARS-CoV-2 vor (für severe acute respiratory syndrome coronavirus 2).
+Dem widersprach eine Woche später eine Gruppe chinesischer Virologen, die stattdessen "HCoV-19" ("Humanes Coronavirus 2019") einführen wollten.
+Damit würde der Virusname an den von der WHO bestimmten Namen der Krankheit COVID-19 angeglichen.
+Außerdem bestünde Gefahr, SARS-CoV-2 mit SARS-CoV zu verwechseln.
+Sie betonten, dass sich "2019-nCoV" von dem SARS-Virus in biologischer und epidemiologischer Hinsicht unterscheide, ebenso wie die klinischen Symptome von COVID-19 und SARS verschieden seien.
+Zur Unterscheidung wird der Erreger von SARS auch als SARS-CoV-1 bezeichnet.
+
+Vergleichbare Diskussionen gibt es in Bezug auf die Benennung der zahlreichen SARS-CoV-2-Varianten.
+
+== Merkmale
+
+=== Systematik
+
+Das Coronavirus SARS-CoV-2 ist ein Vertreter der Spezies Severe acute respiratory syndrome-related coronavirus (SARS-assoziiertes Coronavirus, Akronym SARSr-CoV).
+Zu dieser Spezies gehören nur die Coronaviren SARS-CoV-2 und SARS-CoV-1. Letztere war bisher unter dem Akronym SARS-CoV bekannt und Ursache der Erkrankung SARS, während SARS-CoV-2 die COVID-19-Erkrankung auslösen kann.
+
+Die Spezies Severe acute respiratory syndrome-related coronavirus ist aktuell die einzige Spezies in der Untergattung Sarbecovirus.
+Der Name "Sarbecovirus" bezieht sich auf die englische Bezeichnung SARS-like betacoronavirus (bzw. SARS-related betacoronavirus).
+
+Die Untergattung Sarbecovirus gehört der heutigen Gattung Betacoronavirus an.
+Die frühere Gattung Coronavirus wurde abgeschafft und deren Mitglieder auf die neuen Gattungen Alpha-, Beta-, Gamma- und Deltacoronavirus aufgeteilt.
+Zu den Beta-Coronaviren gehören u. a. auch SARS-CoV und MERS-CoV.
+
+Die Gattung Betacoronavirus gehört zur Unterfamilie der Orthocoronavirinae (früher schlicht Coronavirinae), und diese zur Familie der Coronaviridae, diese zur Unterordnung Cornidovirineae, diese zur Ordnung Nidovirales.
+Letztere wird noch in den virologischen Realm der RNA-Viren bzw. Riboviren (Riboviria) klassifiziert, da ihr Erbmaterial aus RNA besteht.
+Dadurch werden aber keine weiteren Verwandtschaftsbeziehungen im phylogenetischen Sinne ausgedrückt.
+
+=== Molekulargenetik und Phylogenetik
+
+Das Virusgenom besteht, wie in Coronaviren üblich, aus einzelsträngiger RNA (ssRNA) mit positiver Polarität.
+Das Isolat Wuhan-Hu-1 (NCBI-GenBank-Nummer MN908947) umfasst 29.903 nt (Nukleotide) mit zwei 265 nt bzw. 229 nt langen untranslatierten Bereichen am 5'-Ende bzw. am 3'-Ende.
+Die putativen (vermuteten) Gene könnten für zehn Proteine codieren: ein 7096 Aminosäuren (AS) langes ORF1ab-Polyprotein (Replikase-Komplex), ein 1273 AS langes Oberflächen-Glykoprotein (S für englisch spikes, vergleiche Peplomer), ein 75 AS langes Hüllprotein (E für engl. envelope, vergleiche Virushülle), ein 222 AS langes Membran-Glykoprotein (M), ein 419 AS langes Nukleokapsid-Phosphoprotein (N) und weitere fünf Proteine (ORF3a, ORF6, ORF7a, ORF8 und ORF10).
+Die Abfolge der Gene entspricht jener des SARS-Virus und der aller anderen Coronaviren.
+Im November 2020 wurde nachträglich die Identifizierung eines "versteckten" (überlappenden) Gens ORF3d bekannt gegeben.
+
+Mit Stand 16. Februar 2020 gab es mehr als 40 vollständige Genomanalysen von SARS-CoV-2-Isolaten.
+Die Genomgröße liegt zwischen 29.825 und 29.903 nt.
+Der GC-Gehalt (der Anteil der Nukleinbasen Guanin und Cytosin) liegt bei 38,0 Mol-Prozent.
+Die beiden Virusisolate HKU-SZ-002a (NCBI-GenBank-Nummer MN938384) und HKU-SZ-005b (NCBI-GenBank-Nummer MN975262) stammen von Patienten einer Familie aus Shenzhen und unterscheiden sich lediglich durch zwei Nukleotide.
+Die Genomanalyse dieser beiden Isolate ergab, dass sie nahe verwandt mit den bei Fledermäusen (englisch bat) auftretenden SARS-ähnlichen Coronaviren bat-SL-CoVZXC21 (NCBI-GenBank-Nummer MG772934) und bat-SL-CoVZC45 (NCBI-GenBank-Nummer MG772933) sind, zu letzterem besteht eine Übereinstimmung in der Nukleotidabfolge von 89 %.
+Das Genom der beiden Fledermaus-Coronaviren wurde 2018 sequenziert, bat-SL-CoVZC45 wurde bei der Chinesischen Hufeisennase (Rhinolophus sinicus) aus der Familie der Hufeisennasen (Rhinolophidae) gefunden, die Wirtstiere wurden in Zhoushan in der ostchinesischen Provinz Zhejiang in den Jahren 2015 und 2017 untersucht.
+
+Ein weiteres Virusisolat (WIV04, NCBI-GenBank-Nummer MN996528) von SARS-CoV-2 aus der bronchoalveolären Spülflüssigkeit eines der ersten Patienten zeigt ebenfalls phylogenetisch größte Ähnlichkeit mit einem bei einer anderen Fledermausart (Java-Hufeisennase, wissenschaftlich Rhinolophus affinis, englisch intermediate horseshoe bat, verbreitet in Indonesien (Java), Indien, Vietnam, China) in der chinesischen Provinz Yunnan isolierten Coronavirus BatCoV RaTG13; die Genomsequenzen stimmen zu 96,2 % überein.
+Auch eine am 27. Januar 2020 publizierte genetische Analyse verwies auf Fledermäuse als mutmaßlicher Ursprungswirt des Virus.
+Am 29. Januar 2020 wurde in der Fachzeitschrift The Lancet eine genetische Analyse von zehn Virusproben publiziert, die bei neun Erkrankten gewonnen worden waren.
+Demnach war die Genomsequenz aller zehn Proben zu 99,98 Prozent identisch, was darauf hinweist, dass die neu entdeckte Coronavirusvariante erst vor Kurzem auf den Menschen übergegangen ist.
+Die Genomsequenz stimmt zu 88 bzw. 87 % Prozent mit den Genomsequenzen der bei Fledermäusen auftretenden bat-SL-CoVZC45 und bat-SL-CoVZXC21 überein.
+Die zehn Proben zeigen hingegen nur rund 79 Prozent Übereinstimmung in der Genomsequenz zu SARS-CoV und rund 50 Prozent zu MERS-CoV.
+Die Ergebnisse der phylogenetischen Untersuchungen werden auch als phylogenetischer Baum, der die Verwandtschaftsverhältnisse von SARS-CoV-2 innerhalb der Coronaviridae zeigt, veranschaulicht.
+Eine darauf basierende Darstellung ist im Artikel Betacoronavirus zu finden.
+
+Der Aufbau des Genoms sowohl der SARS-CoV-2-Isolate wie auch der genannten Fledermaus-Coronaviren ist typisch für Viren der Lineage B (Untergattung Sarbecovirus, englisch SARS-like Betacoronavirus) der Gattung Betacoronavirus.
+Aufgrund der genetischen Distanzen zu SARS-CoV und zu MERS-CoV wurde SARS-CoV-2 zunächst als eine in Bezug auf den Menschen neue, ihn infizierende Betacoronavirus-Spezies angesehen.
+Aufgrund der großen genetischen Übereinstimmung mit dem ursprünglichen SARS-Coronavirus hatte am 11. Februar 2020 die Coronavirus Study Group des ICTV jedoch vorgeschlagen, das neue Virus derselben Spezies Severe acute respiratory syndrome-related coronavirus zuzuordnen wie das bisherige.
+
+Das Spike-Protein ist für die Bindung an die Wirtszelle verantwortlich, funktionell wird es in die S1-Domäne und die S2-Domäne unterschieden.
+Die S1-Domäne vermittelt die Bindung an den Oberflächenrezeptor der Wirtszelle, die S2-Domäne vermittelt die Fusion der Zellmembran, durch Endozytose erfolgt dann der Eintritt des Virus in die Zelle.
+Das S-Gen von SARS-CoV-2 zeigt mit 75 % eine eher geringe Übereinstimmung in der Nukleotidsequenz mit den beiden Fledermausisolaten bat-SL-CoVZC45 und bat-SL-CoVZXC21 im Vergleich zur Genomanalyse.
+Insbesondere die Nukleotidsequenz, die für die S1-Domäne codiert, unterscheidet sich von diesen deutlich (68 % Übereinstimmung) und weist aber eine größere Ähnlichkeit mit der entsprechenden Nukleotidsequenz von BatCoV RaTG13 auf.
+Es wurde aufgezeigt, dass SARS-CoV-2 und SARS-CoV den gleichen Zellrezeptor nutzen, das Angiotensin-konvertierende Enzym 2 (ACE2).
+Dies konnte experimentell sicher nachgewiesen werden.
+(vgl. Krankheitsentstehung bei COVID-19)
+
+Beim Vergleich des Genoms von SARS-CoV-2 mit dem verwandter Fledermaus-Coronaviren zeigten sich neben der bekannten Änderung am Spike-protein zwei weitere "stille Mutationen" (in den Nichtstrukturproteinen NSP4 und NSP16, siehe Coronaviridae §Genom), die zwar nichts an den kodierten Proteinen ändern, aber einen Einfluss auf die 3D-Faltung der RNA haben.
+Es wird vermutet, dass dies dazu beitragen könnte, dass infizierte Personen (anfangs) zwar ansteckend, aber (noch) symptomfrei sind.
+
+=== Morphologie
+
+Die in einer Zellkultur über mehrere Tage vermehrten Viren können nach Abtrennung durch Ultrazentrifugation für die Untersuchung im Transmissionselektronenmikroskop (TEM) vorbereitet werden, dabei wird eine Negativkontrastierung verwendet.
+Das TEM-Bild zeigt Virionen von kugelförmiger bis pleomorpher Gestalt mit einem Durchmesser von 60 bis 140 Nanometer (nm).
+Auf der Oberfläche sind 9 bis 12 nm lange Spikes zu erkennen.
+Die Morphologie entspricht der anderer bekannter Vertreter der Familie der Coronaviridae.
+Die Wirtszellen, die im lichtmikroskopischen Bild einen cytopathischen Effekt aufweisen, können nach Fixierung und anschließendem Ultradünnschnitt (Dicke von 80 nm) ebenfalls mit dem TEM untersucht werden.
+Hier zeigen sich neben Virionen auch Einschlusskörperchen, die mit Viren gefüllte membrangebundene Vesikel im Cytoplasma enthalten.
+
+=== Replikationszyklus
+
+Der Replikationszyklus der Viren verläuft über mehrere Stufen:
+
+(1) Zunächst bleiben SARS-CoV-2-Virionen an speziellen Rezeptoren haften, die sich an der Oberfläche möglicher Wirtszellen befinden.
+Das geschieht, indem sich die Spike-Proteine der Vironen an die ACE2-Rezeptoren der Zellmembran binden.
+Der ACE2-Rezeptor der Wirtszellen ist deshalb ein möglicher Therapieansatz, um den Ausbruch einer COVID-19-Erkrankung nach einer Infektion mit dem Coronavirus zu verhindern.
+Ob weitere Moleküle der Zelloberfläche das Spike-Protein binden, ist noch nicht geklärt.
+Im Vergleich zu SARS-CoV hat das Spike-Protein eine RGD-Peptidsequenz entwickelt, womit Rezeptoren der Integrinfamilie ebenfalls als mögliche Bindungspartner in Frage kommen.
+
+(2) Nach Bindung an den ACE2-Rezeptor spaltet die membranständige Serinprotease TMPRSS2 das virale Glykoprotein S, wodurch das Spike-Protein als fusogenes Protein aktiviert wird und der Eintritt in die Wirtszelle erfolgt.
+Auch TMPRSS2 ist ein potentieller Ansatzpunkt für ein wirksames Medikament.
+
+(3) Die Erreger werden in die Wirtszelle aufgenommen (vereinfachte Darstellung).
+
+(4) Vor Beginn der Virusvermehrung muss die Erbsubstanz (RNA) des Virus aus dem Kapsid freigesetzt werden (nur ein möglicher Weg dargestellt).
+
+(5) Nun kann der eigentliche Vermehrungsvorgang erfolgen, die Replikation.
+Da SARS-CoV-2 über RNA positiver Polarität verfügt, kann die RNA direkt als "Bauanleitung" für virusspezifische Proteine dienen, ähnlich zelleigener mRNA bei der Translation.
+Für die Wirtszelle ist die Virus-RNA praktisch nicht von eigener mRNA zu unterscheiden und der Proteinsyntheseapparat (Ribosomen) der Wirtszelle produziert so anhand der viralen RNA-Vorlage die virusspezifischen Proteine (S, M, E, N, RNA-Polymerase).
+
+(6) Die RNA trägt die genetische Information des Virus.
+Sie wird als dessen Erbsubstanz in der Wirtszelle durch Kopieren vervielfältigt (RNA-Replikation).
+Dazu sind die Enzyme der Wirtszelle nicht in der Lage; diese Aufgabe übernimmt die virale RNA-Polymerase und stellt zahlreiche Kopien der gesamten Virus-RNA her.
+
+(7) Sind in der Wirtszelle virale RNA-Kopien und Virusproteine in hinreichender Menge hergestellt, werden sie in das endoplasmatische Retikulum (ER) aufgenommen und lagern sich dort zu neuen Viren zusammen (Selfassembly).
+
+(8) Die fertigen Viruspartikel werden als Golgi-Vesikel aus dem ER abgeschnürt (Knospung).
+
+(9) Durch Exozytose gelangen die Viren aus der Wirtszelle und liegen nun als Virion vor, womit wiederum mögliche Wirtszellen infiziert werden können (siehe 1).
+
+=== Umweltfaktoren
+
+Ein weiterer Beschleunigungsfaktor für die Ausbreitung des Virus könnte in der Außentemperatur liegen, da sich das Virus laut einer chinesischen Studie bei 4 Grad Celsius als besonders persistent (langfristig aktiv) erwiesen hat.
+In der Luft liegt die kürzeste Überlebensdauer des Virus bei Raumtemperatur und mittlerer Feuchte, was mit den virentötenden Sauerstoffradikalen (ROS) zu tun haben könnte.
+Weitere Untersuchungen erweisen UV-Licht zur Vitamin-D-Produktion, höhere Temperaturen und Wind als limitierende natürliche Faktoren für die Ausbreitung des Virus.
+Eine Saisonalität von Sars-Cov-2 könnte in mittleren Breiten mit Temperaturen knapp über dem Gefrierpunkt von Wasser und einer Luftfeuchtigkeit von 40 bis 60 Prozent oder von 68 bis 88 Prozent einhergehen (also hierin zwei notwendige Bedingungen haben), während Bevölkerungsdichte, menschliches Verhalten, bevorzugte Aufenthaltsorte über Tag, medizinische Versorgung, Immunabwehr, Virusmutationen und Impfungen als maßgebliche Faktoren zu gelten haben, wenn es um den Verlauf und die Phasen dieser wie anderer Pandemien geht.
+In den Regionen der subtropischen Klimazone scheinen hohe Temperaturen die Ansteckung mit Sars-Cov-2 zu fördern; so etwa in Indien in der Zeit vor und während des Monsuns, wenn die Menschen wegen Hitze und Nässe zu Hause bleiben.
+Eine Übertragung durch Schmierinfektion wurde hingegen nicht beobachtet, ist aber nicht ganz auszuschließen.
+Im März 2021 publizierte die Wissenschaftsfachzeitschrift PNAS das Forschungsergebnis einer internationalen Forschergruppe unter der Leitung von Forschern der Technischen Universität München, laut dem eine hohe Pollenkonzentration in der Luft signifikant korreliert mit deutlich steigenden SARS-CoV-2-Infektionsraten.
+Die Hoffnung auf Entspannung durch frühjahrsbedingte höhere Temperaturen wäre dadurch konterkariert.
+Dem üblichen Einwand, es sei nur eine Korrelation, entgegnen die Forscher, dass eine mögliche Kausalität besteht, dass der menschliche Organismus bei zunehmender Pollenkonzentration in der Luft weniger antivirale Interferone produziere, die potenziell vor einer Ansteckung schützen.
+
+== Mutationen
+
+Die Erhebung der Laborverbunde zeigt eine Detektionsrate der dominierenden VOC B.1.1.7 (Britische Variante) in 45.601 von insgesamt ca. 48.451 (88%) auswertbaren, nicht vorselektierten Untersuchungen auf SARS-CoV-2 in KW12/2021 (KW10: 78%) in Deutschland.
+(B.1.351-1% und die Mutation N501Y-1%) Alle anderen SARS-CoV-2 Varianten 10%.
+Seitdem SARS-CoV-2 in Menschen zirkuliert und sich explosionsartig ausgebreitet hat, erwerben die Viren trotz Korrekturaktivität der viralen Exonuklease eine zunehmende Anzahl von polymorphen Nukleoidsequenzen in verschiedenen Leserastern des viralen Genoms, anhand derer die Viren in Linien unterteilt werden.
+Bei den Mutationen des Virus werden unterschieden:
+
+Mutationen können zudem die Infektiosität des Virus erhöhen - eine Befürchtung, die grundsätzlich auch beim bisher nur schwer von Mensch zu Mensch übertragbaren MERS-CoV besteht.
+Besonders besorgniserregende, bekannte Mutationen sind:
+
+=== Britische Variante (B.1.1.7)
+
+Im Dezember 2020 wurde in der britischen Grafschaft Kent die Variante VOC-202012/01 (auch mit B.1.1.7, VUI-202012/01 und N501Y.V1 bezeichnet) des Coronavirus SARS-CoV-2 mit den Mutationen 69-70del, P681H und N501Y (letztere am Spike-Protein) festgestellt.
+Diese hat nach Mitteilung der britischen Regierung vom 19. Dezember 2020 gegenüber den anderen Varianten bereits die Oberhand gewonnen.
+Die New and Emerging Respiratory Virus Threats Advisory Group (NERVTAG) ist der Ansicht, dass sich der neue Virusstamm, zu dem auch Varianten mit der Mutation P681H oder der Deletion von H69 und V70 im Spike-Protein gehören, schneller verbreiten kann; die molekulare Ursache könnte im Fall der N501Y-Mutation die bessere Bindung an den menschlichen Zellrezeptor ACE2 des viralen Spike-Proteins sein, während die Deletion von H69 und V70 die Bindung mancher menschlicher Antikörper an das Spike-Protein verschlechtern könnte.
+Mit Stand März 2021 wurde die B.1.1.7-Variante in 82 Ländern nachgewiesen.
+Von Ende Januar 2021 bis zur zweiten Märzwoche stieg der Anteil der britischen Variante an den in Deutschland positiven SARS-CoV-2-Proben von 6 % auf 72 %.
+Eine Auswertung britischer Daten zeigt eine Zunahme des Reproduktionsfaktors R um 43-90 % im Vergleich zum Wildtyp.
+Ähnliche Beobachtungen liegen aus den USA und Dänemark vor.
+Eine Kohortenstudie aus dem Vereinigten Königreich kam auf Basis von rund 100.000 Krankheitsverläufen zu dem Schluss, dass die Variante das Sterberisiko um rund 64 % gegenüber dem Wildtypvirus erhöhe.
+
+=== Südafrikanische Variante (B.1.351)
+
+Am 18. Dezember 2020 meldete das südafrikanische Gesundheitsministerium die Entdeckung der Variante N501Y.V2 aus der Linie B.1.351.
+Sie weist ebenfalls die N501Y-Mutation auf, deren Auftreten anscheinend unabhängig vom Auftreten in der südenglischen Grafschaft Kent ist.
+Diese Variante soll möglicherweise noch ansteckender sein und auch bei jungen Leuten einen schweren Krankheitsverlauf verursachen können.
+Am 8. Februar 2021 wurde diese Variante bereits in mehr als 30 Ländern nachgewiesen.
+
+In Österreich gibt es z. Z. (Stand: Februar 2021) Hinweise darauf, dass sich in Teilen des Bundeslands Tirol die südafrikanische SARS-CoV-2-Mutante verstärkt ausbreitet.
+Derzeit wird etwa die Hälfte der dort durch eine Mutation verursachten Infektionen auf diese Variante des Virus zurückgeführt.
+80 % der Neuinfektionen mit SARS-CoV-2 würden vom ursprünglichen Virus, dem Wildtyp, verursacht und jeweils 10 % von der britischen oder südafrikanischen Variante, wie die Virologin Dorothee von Laer von der Medizinischen Universität Innsbruck der Nachrichtenagentur dpa mitteilte.
+
+=== Indische Doppelmutante (B.1.617)
+
+Diese Kombination aus britischer und südafrikanischer Variante von SARS-CoV-2 wurde erstmals bei Stichproben aus dem indischen Bundesstaat Maharashtra nachgewiesen.
+Sie weist die beiden Mutationen E484Q und L452R auf und betrifft das Spike-Protein des Virus.
+Da diese Variante von SARS-CoV-2 zwei Mutationen aufweist, wird sie auch als "Doppelmutante" bezeichnet.
+Medienberichten zufolge seien bis Mitte April 2021 von dieser Virusvariante bereits 60 Prozent der neuen COVID-19-Erkrankungen in Maharashtra verursacht worden; am 15. April 2021 wurde dort mit 200.739 Neuinfektionen zum siebten mal in nur acht Tagen ein neuer Höchstwert registriert.
+Die Zahl der zu behandelnden Kinder, vor allem in der Altersgruppe zwischen ein und fünf Jahren, sei stark gestiegen.
+Behörden meldeten, dass bei religiösen Großveranstaltungen und Wahlkampfkundgebungen Superspreading-Events aufgetreten seien.
+Von der Weltgesundheitsorganisation (WHO) wurde die neue Variante bereits als "Variant of interest" eingestuft.
+
+=== Brasilianische Variante (P.1)
+
+Am 10. Januar 2021 wurde eine neue Variante aus Brasilien gemeldet, die im brasilianischen Bundesstaat Amazonas zirkuliert.
+Sie ähnelt den aus England und Südafrika bekannten Varianten und weist ebenfalls die N501Y-Mutation auf.
+Die brasilianische Mutante stammt von der Linie B.1.1 ab und wird als 501Y.V.3 oder auch Lineage P.1 bezeichnet.
+Am 22. Januar 2021 wurde bekannt, dass die brasilianische Variante erstmals in Deutschland gefunden worden war.
+Bei einem aus Brasilien kommenden Hessen, der am Flughafen Frankfurt eingereist war, konnte eine Infektion mit der Mutante mittels PCR-Test nachgewiesen werden.
+Eine DNA-Sequenzierung stand zu diesem Zeitpunkt jedoch noch aus.
+Ebenso wie die britische und südafrikanische Variante steht diese Mutante im Verdacht, ansteckender zu sein als der Wildtyp des Coronavirus SARS-CoV-2.
+Laut Aussage der Virologin Sandra Ciesek gibt es (Stand Mitte Januar) keine Hinweise darauf, dass diese Varianten schwerere Verläufe verursachen als der Wildtyp des Virus.
+
+Im Departement Moselle, das an das Saarland, Rheinland-Pfalz und Luxemburg grenzt, sind auffallend hohe Häufungen der südafrikanischen und brasilianischen Virus-Mutanten registriert worden.
+Der französische Gesundheitsminister Olivier Veran sagte, vom 8. bis 11. Februar 2021 seien 300 Fälle der südafrikanischen und brasilianischen Mutanten nachgewiesen und in den Tagen zuvor weitere 200 Fälle.
+
+=== B.1.525
+
+B.1.525 vereint Genveränderungen der britischen und der südafrikanischen Variante.
+Sie ist in mehreren Ländern nachgewiesen worden, zum Beispiel in Dänemark, Italien, Nigeria, Norwegen, Kanada, Großbritannien und den USA.
+Am 9. März 2021 wurde gemeldet, B.1.525 sei in Deutschland erstmals nachgewiesen worden, und zwar am Flughafen BER.
+Das Unternehmen Centogene, das die Probe analysiert hat, teilte kurz darauf mit, die Variante sei auch schon in anderen Proben nachgewiesen worden.
+B.1.525 enthält die Mutation E484K.
+
+=== Sonstige Varianten
+
+=== Variantenklassifizierungsschema
+
+Eine Beratergruppe der US-Regierung hat ein Schema entwickelt, nach dem die SARS-CoV-2-Varianten drei Klassen zugeordnet werden können:
+
+Die Varianten B.1.1.7, B.1.351, P.1, B.1.427 und B.1.429 wurden als Variant of Concern klassifiziert.
+Bis zum 16. März 2021 wurden keine weitere von SARS-CoV-2-Varianten dieser Klasse zugeordnet.
+
+=== Zeitliches Verhalten und räumliche Ausbreitung
+
+Einen Stammbaum der bis Ende Februar 2020 bekannten SARS-CoV-2-Isolate, der ihre Verwandtschaft untereinander zeigt, findet man bei Li et al.
+Die Isolate gliederten sich in zwei Hauptgruppen (L-Typ nach der Aminosäure Leucin und S-Typ nach Serin), was Anlass zur Vermutung gab, das Virus könnte sich in zwei (unterschiedlich infektiöse) Zweige aufgeteilt haben.
+Allerdings war es nach Meinung anderer Experten Anfang März 2020 noch zu früh, darüber eindeutige Aussagen machen zu können.
+Die in beiden Hauptzweigen des Stammbaums basal liegenden Isolate stammen aus Wuhan, was ein Beleg dafür war, dass das Virus dort seinen Ausgang genommen hat.
+Gleichwohl ist nicht ausgeschlossen, dass es einen unbekannten Vorläufer von anderswo, etwa aus der chinesischen Provinz Yunnan, in Tieren oder Menschen, gegeben haben könnte; auch das Einschleppen nach China durch den Import von Wirtstieren ist nicht auszuschließen (= Herkunft und Wirtsspektrum).
+
+Eine weitere Studie Anfang April 2020 machte drei Stämme A, B und C aus.
+Stamm A war dem Fledermausvirus BatCoV/RaTG13 am ähnlichsten und scheint sich von Wuhan aus weltweit verbreitet zu haben; in Festlandchina selbst war aber Stamm B vorherrschend, der außer in China auch andernorts in Ostasien verbreitet war.
+Stamm C war der hauptsächliche Typ in Europa.
+
+Das Virus mutiert offenbar relativ langsam - ein bis zwei Mutationen pro Monat wurden beobachtet (zum Vergleich:
+Influenzaviren mutieren zwei- bis viermal so häufig).
+Das bedeutet zum einen, dass es per Genomanalyse keine sehr hohe Auflösung bezüglich der Ausbreitungswege des Virus gibt, zum anderen lässt es darauf hoffen, dass eine nach überstandener Krankheit erworbene Immunität lange (monatelang) anhält.
+Allerdings hatten isländische Virologen von deCODE Genetics (isländisch slensk erfagreining) bis zum 24. März 2020 vierzig verschiedene Mutationen allein bei Infizierten aus diesem Land identifiziert.
+Eine der Betroffenen war mit zwei verschiedenen Ausprägungen von SARS-CoV-2 coinfiziert.
+
+Die im Westen dominierende Form des Virus, die sich ab Februar 2020 in Europa stark ausbreitete und von dort auch in andere Länder, hat eine Mutation D614G im Spike-Protein und weicht damit von der Wuhan-Variante ab.
+Insbesondere hat diese Mutation vier- bis fünfmal mehr Spikes auf der Oberfläche des Virus.
+
+In einer italienischen Studie vom Juli 2020 wurden zu diesem Zeitpunkt sechs SARS-CoV-Varianten unterschieden.
+Stamm G ist in Europa am häufigsten, dieser ist seit Ende Februar 2020 weiter mutiert in die Stämme GR und GH.
+Der ursprüngliche Stamm L aus Wuhan wird immer weniger gefunden, wie auch der Stamm V.
+Ein Stamm S wurde in einigen Gebieten der USA und Spaniens gefunden.
+
+Der Anteil der britischen, südafrikanischen und brasilianischen SARS-CoV-2-Mutanten (Varianten) an den Infektionszahlen kann anhand einer neuen Überprüfungsmethode, die von einem gemeinsamen Nukleotid der drei Mutanten ausgeht, schneller ermittelt werden.
+Diese Untersuchungen sollen zweimal im Februar und einmal Anfang März 2021 in Deutschland wiederholt werden.
+
+== Herkunft und Wirtsspektrum
+
+Seit dem Bekanntwerden der Viruskrankheit werden verschiedene Tiergruppen als Ursprung oder zumindest Überträger des Erregers diskutiert.
+Eine molekulare Datierungsschätzung mittels Genom-Vergleich der verschiedenen SARS-CoV-2-Isolate legt einen Ursprung der Virusvariante im November 2019 nahe.
+Van Dorp und ihre Kollegen ermittelten aufgrund phylogenetischer Analysen der verschiedenen Virusvarianten Anfang Mai 2020, dass das Virus zwischen dem 6. Oktober und dem 11. Dezember 2019 auf den Menschen übergesprungen sein dürfte.
+
+Eine vergleichende Studie zum Infektionsrisiko von SARS-CoV-2 / COVID-19 wurde im August 2020 von Joana Damas et al. vorgelegt.
+Danach ist das Bindungspotential des Spike-Proteins an den jeweiligen ACE2-Rezeptor bei Primaten (Mensch, Bonobo, Gemeiner Schimpanse, Westlicher Flachlandgorilla) am größten, bei folgenden Spezies dagegen sehr gering:
+Kalifornischer Seelöwe, Hausmaus, Amerikanerkrähe und Mississippi-Alligator.
+Insgesamt können mehr als 60 Säugetier-Arten von SARS-CoV-2 infiziert werden, darunter auch Füchse, Yaks, Riesenpandas und Koalas.
+(Stand: 6. November 2020).
+
+=== Schlangen und Vögel
+
+Fachleute vermuteten zu Beginn der Epidemie in China, dass als Hauptwirt ein anderes Säugetier oder Geflügel infrage komme.
+Der Übergang vom Tier auf den Menschen könne jedoch über einen noch nicht identifizierten Zwischenwirt erfolgt sein.
+Chinesische Forscher verwiesen im Journal of Medical Virology auf Schlangen wie den Vielgebänderten Krait (Bungarus multicinctus) und die Chinesische Kobra (Naja atra), die auf dem Großmarkt, der als Infektionsort der ersten Infizierten vermutet wird, neben anderen lebenden Wildtieren (sogenannten Ye Wei) wie Fledermäusen oder Kaninchen angeboten werden.
+Diese Hypothese wurde von anderen Virologen für unwahrscheinlich erklärt, da es bisher keine Evidenz dafür gebe, dass Coronaviren auch Reptilien infizieren können.
+Bisher seien Coronaviren ausschließlich bei Säugetieren und Vögeln gefunden worden.
+Weitere Untersuchungsergebnisse zu Hühnern und Enten (Galloanserae spp.) siehe unten.
+
+=== Fledertiere und Schuppentiere
+
+Hufeisennasen - möglicherweise mehrere höhlenbewohnende Arten - waren das Reservoir des Erregers SARS-CoV, der die SARS-Pandemie 2002/2003 ausgelöst hatte, mit dem Larvenroller (Paguma larvata, englisch masked palm civet) als möglichem Zwischenwirt zwischen Fledertier und Mensch.
+Seitdem wurden verschiedene weitere Betacoronaviren (insbesondere auch SARS-artige der Untergattung Sarbecovirus) vor allem bei Fledertieren, aber auch bei Menschen gefunden.
+
+BatCoV RaTG13 Virus
+
+Wie im November 2020 bekannt wurde, litten bereits in der zweiten Hälfte des Jahres 2012 vier Minenarbeiter an schweren Atemwegserkrankungen, die zuvor in einer Höhle beim Ort Tongguan () im Landkreis Mojiang () in der chinesischen Provinz Yunnan gearbeitet hatten.
+Bei den Untersuchungen an den Patienten und in den Höhlen in diesem und den folgenden Jahren fand man SARS-ähnliche Viren (SARSr-CoVs, Untergattung Sarbecovirus) mit Ähnlichkeiten zu dem Fledermaus-Coronavirus SARSr-CoV Rp3.
+Eine der dabei gefundenen Varianten wurde später in BatCoV RaTG13 umbenannt, aber keine der damals gefundenen Varianten ist identisch mit SARS-CoV-2.
+
+SARS-ähnliche Coronaviren
+
+Bis 2017 wurden in den Höhlen in Yunnan SARS-ähnliche Coronaviren in folgenden Fledermausspezies gefunden: in Hufeisennasenarten bei der Java-Hufeisennase (Rhinolophus affinis, en.
+intermediate horseshoe bat), der Chinesischen Hufeisennase (R. sinicus) und der Großen Hufeisennase (R. ferrumequinum); sowie in der Stoliczka-Dreizackblattnase (Aselliscus stoliczkanus, en. Stoliczka's trident bat).
+
+In Kot einer Horn-Hufeisennase (Rhinolophus cornutus, en. little Japanese horseshoe bat) aus der Präfektur Iwate im Norden der japanischen Hauptinsel Honshu vom Jahr 2013 wurde im Herbst 2020 ein Rc-o319 genannter Sarbecovirus-Stamm gefunden, dessen Genom zu 81 % mit dem von SARS-CoV-2 übereinstimmt.
+
+BatCoV RaTG13 und SARS-CoV-2
+
+Aufgrund der Ähnlichkeit der Bindungsstelle (en. receptor binding domain, RBD) des Spike-Proteins an den menschlichen Rezeptor ACE2 (hACE2) gilt inzwischen das Virus-Isolat BatCoV RaTG13 (gefunden in Java-Hufeisennasen Rhinolophus affinis, englisch intermediate horseshoe bat in Yunnan, in Bruchstücken auch bei erkrankten und verstorbenen Minenarbeitern aus Yunnan 2016), als wichtiger Kandidat für den Ursprung von SARS-CoV-2, auch wenn nicht klar ist, ob die Übertragung direkt erfolgte.
+Die Übereinstimmungen der Gesamtgenomsequenzidentitt zwischen RaTG13 und SARS-COV-2, festgestellt beim Screening durch eine veröffentlichte Pan-CoV-2-PCR-Methode bei der 13 der 100 Rektaltupfer positiv waren, betrgt nach Sequenzierung von PCR-Amplicons die höchste Sequenzidentitt von 96,22 % zum Fledermaus RaTG13 und zu 95,86 % zum menschlichem SARS-CoV-2 (in genetischen Maßstäben gering).
+Trotz der Übereinstimmung divergiert die Spitze von RaTG13 in der Rezeptorbindungsdomäne, was darauf hindeutet, dass es sich wahrscheinlich nicht gut an menschliches ACE2 bindet.
+Seitdem wurde von mehr SARS-CoV-verwandten viralen Genomsequenzen von Fledermusen aus Ostchina, Kambodscha, Thailand (RmYN02) und Japan sowie von Pangolinen in China berichtet.
+RaTG13 ist das unmittelbare tierische Vorlufervirus das zu 99 % identische Sequenzen zum 2003 ausgebrochenen SARS-CoV-1 Virus enthlt und in Fledermäusen und Larvenrollern nachgewiesen wurde.
+Der unmittelbare tierische Vorfahr oder das Vorlufervirus für SARS-CoV-2 ist weiterhin unbekannt.
+
+Zu Beginn der Pandemie kannte man praktisch keine nah mit SARS-CoV-2 Verwandte Viren.
+Die hochaffine Bindung des SARS-CoV-2 Spike-Proteins an menschliches ACE2 ist höchstwahrscheinlich das Ergebnis einer natürlichen Selektion an einer menschlichen oder menschenähnlichen ACE2, die eine optimale Bindungslösung gestattet.
+Dass die Genetik des Spike-Proteins von SARS-CoV-2 so gut zum Menschen passt, wird immer wieder als Argument für einen Labor-Ursprung des Virus benutzt.
+Die wissenschaftlichen Daten zeigen aber unwiderlegbar, dass SARS-Cov-2 nicht von einem verwendeten Virusrückgrat abgeleitet ist, und auch, dass es keinen Hinweis für die sonst in labortechnischen Systemen verfügbaren und für Menschen infektiösen Betacoronaviren gibt.
+Theoretisch wäre ein kulturbasiertes Szenario möglich, wobei der Befund von SARS-CoV-2 ähnlichen Coronaviren aus Pangolinen eine stärkere und einfachere Erklärung darstellt.
+
+Die ehemals auf dem Huanan-Markt in Wuhan aufgetretenen Fälle von COVID-19 deuten darauf hin, dass eine zoonotische Quelle bei Wildtieren anwesend war, wie bei den ähnlich feuchten Märkte die bei dem SARS-Ausbruch von 2002-2003 verwickelt waren.
+Dafür spricht die Tatsache dass SARS-CoV-2 ähnliche SARS-CoVs gefunden wurden, die in Reservoirwirten bei Fledermäusen zirkulieren.
+In der Nähe des S1-S2-Übergangs von Coronaviren können Mutationen, Insertionen und Deletionen aufkommen, sodass die polybasische Spaltstelle durch einen natürlichen Evolutionsprozess entstehen kann, wobei bei den bisher erforschten SARS-CoVs (Betacoronaviren) im tierischen Wirtsspektrum der Fledermäuse und Pangoline keine gesichtet wurden.
+Wahrscheinlich ist eine hohe tierische Wirtspopulationsdichte (Effiziens) notwendig, damit ein Vorläufervirus die polybasische Spaltstelle und Mutationen im Spike-Protein bekommt, die zur Bindung an menschliches ACE2 geeignet sind und eine ACE2-Codierung aufweist, die mit der menschlichen evolutionär übereinstimmt.
+Die Fledermausfauna Chinas ist mit mehr als 100 Fledermausarten und mehreren endemischen Arten, die sowohl die Paläarktis als auch die indo-malaiische Region repräsentierent beschrieben.
+Ein SARS-CoV-2 Vorgänger könnte in den Menschen gesprungen sein und die oben beschriebenen genomischen Merkmale durch Anpassung während einer unentdeckten Übertragung von Mensch zu Mensch erworben haben.
+Einmal erworben, würden diese Anpassungen es der Pandemie ermöglichen, eine ausreichend große Anzahl von Fällen auszulösen, um das Kontrollsystem zu umgehen.
+
+Schuppentiere
+
+Nachdem in Malaiischen Schuppentieren (Manis javanica, en. Sunda pangolin) Coronaviren mit hoher genetischer Übereinstimmung zum SARS-CoV-2 gefunden wurden (Manis-CoV, genauer Pan_SL-CoV_GD/P1L, Isolate SRR10168377 und SRR10168378) , gerieten diese in Verdacht, der Ursprung der Pandemie zu sein, obwohl Pangoline Einzeltiere sind die relativ kleine Populationsgrößen aufweisen, aber trotz Verbots in China gehandelt werden.
+(Rote Liste gefährdeter Arten) Die Übereinstimmung betrug in diesem Fall 90 % über das gesamte Genom, aber 99 % in einer spezifischen Region des Spike-Proteins (S-Protein), die es dem Virus erlaubt, an die ACE-Rezeptoren der menschlichen Zellen zu binden.
+Interessanterweise ist das in den Java-Hufeisennasen (R. affinis) isolierte Virus RaTG13 gerade in diesem Genom-Abschnitt zu SARS-CoV-2 mit nur 77 % Übereinstimmung vergleichsweise unterschiedlich.
+Dies bedeutet, dass die aus den Malaiischen Schuppentieren isolierten Coronaviren in menschliche Zellen eindringen können, das aus Java-Hufeisennasen isolierte jedoch nicht.
+Außerdem ist dieses Ergebnis verträglich mit der Annahme, dass SARS-CoV-2 das Ergebnis einer Rekombination der RNA-Moleküle zweier verschiedener Viren sein könnte, eines dem RaTG13 aus Fledermäusen von Yunnan, das andere dem Pan_SL-CoV_GD aus den Schuppentieren von Guangdong nahestehend.
+Dann wäre SARS-CoV-2 entstanden als eine neue Chimäre aus zwei Viren, die diesen beiden Linien jeweils sehr nahestanden.
+Diese Annahme wurde durch eine weitere Studie von Xiaojun Li und Kollegen (Duke University, Los Alamos National Laboratory, University of Texas, El Paso und New York University) Ende Mai 2020 unterstützt.
+
+Bemerkenswert war laut Tommy Tsan-Yuk Lam, Virologe am Joint Institute of Virology (Shantou University and The University of Hong Kong), Guangdong-Hongkong, P. R. China, die Beobachtung mutmaßlicher Rekombinationssignale zwischen den Pangolin-Coronaviren, dem Fledermaus-Coronavirus RaTG13 und menschlichem SARS-CoV-2.
+Insbesondere zeigt SARS-CoV-2 eine sehr hohe Sequenzähnlichkeit zu den Guangdong-Pangolin-Coronaviren in der Rezeptorbindungsdomäne (RBD) (97,4%).
+Historische Daten vom Mai 2003 haben gezeigt, dass eines von sieben Pangolinseren positiv für SARS-CoV war.
+Es kann nicht ausgeschlossen werden, dass Pangoline ihre SARS-CoV-2-verwandten Viren unabhängig von Fledermäusen oder einem anderen tierischen Wirt erworben haben.
+
+Zwar besitzen Coronaviren - anders als etwa Influenzaviren - ein unsegmentiertes Genom (monopartit), d. h. nur ein einziges Nukleinsäuremolekül (hier RNA).
+Eine Rekombination von Segmenten als Ganzes (Reassortment) ist also im Gegensatz zu diesen nicht möglich.
+Insbesondere um den Ursprung des alten SARS-Virus SARS-CoV zu erklären, wurde bereits früher bei dieser Virusfamilie ein Rekombinationsmechanismus, und zwar innerhalb des (einzigen) Genom-Segments, beschrieben (homologe Rekombination).
+Eine solche Rekombination kann, egal ob segmentiertes oder unsegmentiertes Genom, zu einem neuen Virus führen, das eine neue Wirtsspezies befallen und krank machen kann.
+Das Rekombinationsereignis kann daher zum Ausgangspunkt einer neuen Epidemie werden, wie es bei SARS vermutet (und bei Influenza stets befürchtet) wird.
+Voraussetzung ist die Doppelinfektion (Koinfektion) eines (einzelnen) Wirtsindividuums durch die beiden Ausgangsviren.
+Allerdings bleibt bislang (Stand 2. Juni 2020) ungeklärt, in welcher Spezies die hypothetische Doppelinfektion stattgefunden haben könnte, und unter welchen Umständen dies geschehen sein könnte.
+Bei den konfiszierten Pangolinen die in Quarantnezentren untergebracht wurden konnten hochspeziefische SARS-CoV-2 Antigene festgestellt werden.
+
+Alternatives Szenario
+
+Als alternatives Szenario, das ohne Rekombination auskommt, wird verschiedentlich etwa folgendes vorgeschlagen:
+Die gemeinsamen Vorfahren von RaTG13 und SARS-CoV-2 stammen danach ursprünglich von den Schuppentier-Coronaviren ab, von deren SARS-CoV-2-ähnlichstem Stamm sie sich vor mehr als 140 Jahren trennten.
+Diese Linie spaltete sich vor etwa 40-70 Jahren erneut auf: eine Linie verblieb in Fledermäusen und verlor dort die Bindungsfähigkeit ihres Spike-Proteins an das menschliche ACE2 (hACE2).
+Die andere behielt diese Fähigkeit und sprang zuletzt als SARS-CoV-2 auf den Menschen über.
+Die verschiedenen Möglichkeiten werden auch von Halloy et al. in einem PrePrint vom Juli 2020 diskutiert.
+Auch Boni et al. vertreten Ende Juli 2020 die Ansicht, dass SARS-CoV-2 nicht direkt aus einer Rekombination von Fledermaus- und Schuppentier-Coronaviren hervorgegangen ist, sondern dass sich seine Entwicklungslinie von der des Fledermausvirus RaTG13 vor ca. 50 Jahren getrennt hat.
+
+Weiteres zu Nilflughunden siehe unten (Abschnitt Weitere Wirbeltiere).
+
+Anfang Dezember 2020 wurde erstmals über Funde SARS-CoV-2-ähnlicher Coronaviren bei Fledermäusen außerhalb Chinas berichtet.
+Neben dem oben erwähnten Fund von Rc-o319 bei der Horn-Hufeisennase aus Japan könnte man bei zwei bereits im Jahr 2010 eingefrorenen Exemplaren der Kochang-Hufeisennase (Rhinolophus shameli, en.
+Shamel's horseshoe bat) aus dem Norden Kambodschas fündig geworden sein, die Genom-Analyse ist aber erst zu 70 % abgeschlossen (Stand 6. Dezember 2020).
+Die Ergebnisse von Fledermausstudien waren jedoch im Allgemeinen beruhigend.
+Eine Untersuchung der ACE2-Rezeptoren in den Zellen von 46 Fledermausarten ergab, dass die Mehrheit arme Wirte waren.
+Einige Arten, wie z. B. Fruchtfledermäuse (Rousettus aegyptiacus), die infiziert wurden konnten die Infektion auf andere Fledermäuse übertragen.
+
+=== Marderhunde als mögliche Zwischenwirte
+
+Laut Christian Drosten könnten Marderhunde (Nyctereutes procyonoides, eine Fuchsart) möglicherweise die gesuchten Zwischenwirte sein.
+Auch das ursprüngliche SARS-Virus (SARS-CoV-1) wurde in Marderhunden gefunden, die wegen ihres Fells in China gezüchtet werden und somit als Überträger auf den Menschen in Frage kommen.
+
+=== Haustiere als Wirte
+
+Haushunde und Hauskatzen waren die ersten Tiere, bei denen es im Haushalt ihrer Besitzer zu Übertragungen von Mensch zu Tier kam.
+Testtiere beider Arten wurden daher auch in Laborexperimenten infiziert, um den Verlauf der Krankheit und mögliche Rückübertragungen auf den Menschen zu erforschen.
+Einer im September 2020 publizierten Studie zufolge gibt es keine Hinweise für eine Rückübertragung der Viren auf den Menschen, wohl aber Belege dafür, dass die Immunantwort von infizierten Tieren beider Arten diese vor einer zweiten Infektion schützt.
+Laut WHO gab es bereits im März 2020 Hinweise, dass Haustiere SARS-CoV-2 nicht als Träger weiterverbreiten.
+Jedoch können einige andere Viren aus der Virusfamilie Coronaviridae auch bei Haustieren Erkrankungen auslösen, z. B. die beiden Alphacoronaviren CCoV (Hunde) und FCoV (Katzen).
+
+Nachfolgend einige Beispiele für die Erkrankungen bei Haustieren.
+
+==== Hunde
+
+Am 28. Februar 2020 gab die Regierung Hongkongs bekannt, erstmals einen Hund positiv auf das Virus getestet zu haben, der im Haushalt seiner infizierten Halter lebte.
+Die WHO bestätigte, die SARS-CoV-2-Proben seien "schwach positiv" getestet worden.
+Obwohl bei dem Hund das Virus im Blut nachgewiesen werden konnte, löste es bei ihm keine klinisch nachweisbaren Hinweise auf eine Erkrankung aus.
+Das Tier wurde zuletzt am 12. und 13. März 2020 mit negativem Befund auf SARS-CoV-2 getestet, so dass seine Quarantäne beendet und es dem Besitzer zurückgegeben wurde.
+Zwei Tage nach Ende der Quarantäne verstarb der Hund, ohne dass ein direkter Zusammenhang mit dem Virusbefall nachweisbar war.
+
+Mitte März 2020 wurden in Hongkong zwei weitere Hunde positiv auf SARS-CoV-2 getestet, die ebenfalls ohne auffällige Symptome einer Infektion waren.
+Aus Japan wurde im September 2020 bekannt, dass dort zwischen April und August vier Hunde von an SARS-CoV-2 erkrankten Haltern positiv getestet, ohne auffällige Symptome einer Infektion isoliert und nach wiederholtem, negativem Test an ihre gesundeten Halter zurückgegeben worden waren.
+
+Mitte April 2020 erschien ein Artikel über die Möglichkeit von streunenden Hunden als Zwischenwirt für die Übertragung von Sarbecoviren (RaTG13, Pangolin-CoV) von Wildtieren (Fledermäusen, Schuppentieren) auf den Menschen.
+Eine wichtige Rolle spielt dabei das Zinkfingerprotein ZAP.
+
+Bei einer experimentellen Studie wurden drei Hunde mit dem Virus infiziert.
+Keiner der Hunde zeigte klinische Zeichen einer Infektion und es konnte auch keine Ausscheidung von vermehrungsfähigem Virus nachgewiesen werden.
+
+==== Katzen
+
+In Lüttich (Belgien) wurde Ende März 2020 die Hauskatze eines Infizierten positiv auf SARS-CoV-2 getestet.
+Das Tier litt vorübergehend an Durchfall, Erbrechen und erschwerter Atmung.
+Eine Ende März 2020 in Hongkong bei einer Hauskatze nachgewiesene Infektion verlief hingegen symptomlos.
+Antikörpernachweise hatten zuvor bereits in Wuhan ergeben, dass dort auch Katzen infiziert worden waren.
+Zudem wurde mehrfach in Laborexperimenten belegt, dass infizierte Katzen die Viren an andere Katzen weitergeben können.
+Es besteht der Verdacht, dass eine Katze das Virus zwischen Bewohnern eines Altenheims in Bayern übertragen haben könnte, obwohl sie voneinander isoliert waren.
+Eine weitere infizierte Katze wurde in Barcelona untersucht.
+Das Tier war wegen einer Herzerkrankung eingeschläfert worden, jedoch ergab die Autopsie, dass es nicht an, sondern mit SARS-CoV-2 am Herz erkrankt war.
+Auch in der Schweiz wurde das Virus Ende 2020 bei einer Katze nachgewiesen.
+
+Eine experimentelle Studie, bei der sieben Katzen infiziert worden waren, zeigte, dass diese rund fünf Tage übertragbares Virus ausschieden und auch andere Katzen infizieren konnten.
+Keine der untersuchten Katzen zeigte klinische Zeichen einer Infektion.
+Die durchgemachte Infektion schützte die Tiere im Falle einer Reexposition mit dem Virus.
+Ein Team unter der Leitung des Virologen Bu Zhigao führte Proben des SARS-CoV-2-Virus in die Nase von fünf Hauskatzen ein.
+Als zwei der Tiere sechs Tage später eingeschläfert wurden, fanden die Forscher virale RNA sowie infektiöse Viruspartikel in ihren oberen Atemwegen.
+Die anderen drei infizierten Katzen wurden neben nicht infizierten Katzen in Käfige gesetzt.
+Das Team entdeckte später virale RNA in einer dieser exponierten Katzen, was darauf hindeutet, dass es das Virus aus Tröpfchen kontrahierte, die von den infizierten Katzen ausgeatmet wurden.
+Alle vier infizierten Katzen produzierten auch Antikörper gegen SARS-CoV-2.
+Die Überwachung auf SARS-CoV-2 bei Katzen sollte als Teil der Bemühungen zur Eliminierung von COVID-19 beim Menschen betrachtet werden.
+Als Sporadische Infektionsquelle bei Menschen könnten Katzen nicht ausgeschlossen werden, sagte Jan Felix Drexler, Virologe am Charite-Krankenhaus in Berlin.
+Laut chinesischen Berichten wurden bereits seit 2019 ungefähr 30.000 Wild,- Zucht- und Haustiere wissenschaftlich auf entsprechende Infektionen getestet.
+Lediglich im März 2020 entdeckte man dabei in Wuhan einige wahrscheinlich infizierte Katzen.
+
+=== Marderverwandte
+
+Im April und Mai 2020 wurden erstmals Infektionen und Erkrankungen von Amerikanischen Nerzen (Neovison vison, wie im Englischen auch Mink genannt) festgestellt, und zwar in mehreren niederländischen Nerz-Farmen.
+Die erkrankten Nerze zeigten ähnliche Symptome wie erkrankte Menschen:
+Atemwegsbeschwerden, Probleme mit dem Verdauungstrakt, erhöhte Sterblichkeit.
+Auch in der vom Feinstaub belasteten Luft der Tierhaltungen wurde virale RNA nachgewiesen.
+Das Virus sei - so die anfängliche Vermutung - von infizierten Mitarbeitern eingeschleppt und danach von Tier zu Tier weitergegeben worden.
+Detaillierte Analysen des genetisches Codes der in den Farmen und im Umland der Farmen umlaufenden SARS-CoV-2-Varianten erbrachten zudem Anhaltspunkte dafür, dass sich zwei infizierte Mitarbeiter der Farmen bei den Nerzen angesteckt haben und dass zudem mehrere im Bereich der Farmen frei laufende Katzen ebenfalls "farm-typische" SARS-CoV-2-Varianten aufwiesen, weswegen auch sie als mögliche Überträger von Viren auf die Nerze infrage kommen.
+Auch gab es Hinweise darauf, dass das Virus zwischen Mensch und Amerikanischem Nerz hin- und zurück gesprungen ist, dass also eine Übertragung zoonotisch (von Nerz auf Menschen) möglich ist; untersucht wurden Ausbrüche auf 16 Nerzfarmen.
+Nach Ansicht der WHO-Expertin Maria Van Kerkhove ist das Risiko einer Ansteckung des Menschen durch ein solches Tier jedoch nur "sehr begrenzt".
+Eine ausführliche Stellungnahme mit Empfehlungen zum Umgang mit Nerzen hat die Europäische Gesundheitsbehörde (ECDC) am 12. November 2020 abgegeben.
+
+Im US-Bundesstaat Utah wurden zwischen Juli und September 2020 - nach auffälligen Häufungen von Todesfällen in mehreren Zuchtbetrieben - ebenfalls infizierte Nerze entdeckt.
+Ein wilder Nerz, der in Utah positiv getestet wurde, "könnte nur die Spitze des Eisbergs sein", sagte Sarah Hamer, Epidemiologin und Tierärztin an der Texas A & M University in der College Station.
+" Je mehr wir schauen, desto mehr könnten wir finden.
+" Mitte Oktober 2020 wurde bekannt, dass Massenkeulungen vorgenommen wurden.
+So wurden allein im US-Bundesstaat Utah fast 10.000 Tiere getötet, in Spanien über 92.000 und (von denen 90 % mit SARS-CoV-2 infiziert gewesen sein sollen) in den Niederlanden über eine Million.
+Anfang November wurde von amtlichen Stellen in Dänemark angekündigt, sämtliche im Land gehaltenen - bis zu 17 Millionen Nerze - zu töten.
+Vorausgegangen waren Erkenntnisse über Mutationen des Virus in Nerzen, gegen die einige der in Entwicklung befindlichen Impfstoffe gegen das Virus beim Menschen voraussichtlich nicht wirksam wären.
+Die Nerzzucht in Dänemark ist ein bedeutender Wirtschaftszweig mit jährlich rund 17 Millionen Fellen in rund 1100 Zuchtfarmen, auf denen die Tiere auf engem Raum in Käfigen gehalten werden.
+Bei den Nerzen in Dänemark wurde eine Virusvariante ("Cluster 5") entdeckt.
+Mitte November teilte die dänische Regierung mit, dass diese Variante ausgemerzt sei.
+Insgesamt war es bis November 2020 in sechs Ländern zu Ausbrüchen in Nerzfarmen gekommen.
+Bis Januar 2021 wurde das Virus in Nerzfarmen von acht Ländern in der EU/im EWR nachgewiesen.
+Dem Friedrich-Loeffler-Institut (FLI) zufolge waren für Deutschland keine besonderen Schutzmaßnahmen nötig, da es wegen des Verbots der Haltung von Nerzen als Pelztiere in Deutschland keine Nerzfarmen gibt.
+In Wuhan wurden zehn Marktstände gefunden, an denen wilde oder gezüchtete Tiere aus Farmen in Südchina verkauft wurden, darunter Kaninchen, Zibetkatzen, Waschbären und Frettchen.
+Peter Daszak forderte eine Untersuchung der Bestände und Mitarbeiter dieser Farmen, ob sich dort möglicherweise noch Antikörper gegen das Virus finden lassen.
+
+Durch Laborexperimente in Korea wurde belegt, dass Frettchen empfänglich für eine SARS-CoV-2-Infektion sind und die Viren auch an Artgenossen weitergeben können.
+Das FLI bestätigte aufgrund eigener Tests den Befund aus Korea und wies zugleich darauf hin, dass auch Nilflughunde empfänglich für eine SARS-CoV-2-Infektion sind, Schweine und Hühner hingegen nicht.
+Insbesondere die Empfänglichkeit von Frettchen sei ein wichtiger Befund, "da sie als Modelltiere für die Infektion des Menschen zur Erprobung von Impfstoffen oder Medikamenten eingesetzt werden könnten".
+
+Ein experimentelles Vakzin gegen COVID-19 wurde an den in ihrem Bestand stark gefährdeten (Endangered, IUCN 3.1) Schwarzfußiltissen erprobt.
+Finnland entwickelt einen Impfstoff für Marderhunde und Amerikanische Nerze, um in den Pelztierfarmen keine Massenkeulungen vornehmen zu müssen.
+Auch Russland entwickelt einen Impfstoff für Nerze, Katzen und Nagetiere.
+
+=== Primaten
+
+Ein Übergang von SARS-CoV-2 vom Menschen auf Menschenaffen wurde erstmals Anfang 2021 nachgewiesen, und zwar bei den Gorillas im San Diego Zoo Safari Park.
+Laut einer Mitteilung der Zooverwaltung hatten zwei Gorillas am 6. Januar 2021 zu husten begonnen, weswegen Fäkalien der Tiere auf das Virus getestet wurden.
+Aufgrund der positiven Befunde wurden weitere Tests durch das veterinärmedizinische Labor des U.S. Department of Agriculture durchgeführt, die ebenfalls positive Befunde erbrachten.
+Abgesehen vom Husten waren in der Gorilla-Gruppe keine gesundheitlichen Auffälligkeiten zu beobachten.
+
+Weitere Befunde:
+
+=== Weitere Wirbeltiere
+
+Im New Yorker Bronx Zoo wurde Anfang April 2020 ein erwachsener Tiger positiv auf SARS-CoV-2 getestet, nachdem bei ihm trockener Husten und keuchender Atem aufgefallen waren, jedoch keine Atemnot.
+Weiterhin wiesen auch zwei Löwen und fünf Tiger ähnliche Symptome auf, weswegen auch bei ihnen eine Infektion mit SARS-CoV-2 vermutet wurde.
+Infiziert wurden die Tiere vermutlich von einem asymptomatischen Bediensteten des Zoos.
+Wenige Tage nach dem Auftreten von Krankheitszeichen erholten sich die Tiere wieder.
+Im Joburg Zoo in Johannesburg (Südafrika) infizierte sich im Juli 2020 ein Puma bei einem infizierten Tierbetreuer.
+Chinesische Forscher berichteten im April 2020 in der Fachzeitschrift Science, dass sich das Virus in Hunden, Schweinen, Hühnern und Enten nur schlecht ("poorly") vermehre, und bestätigten, dass Frettchen und Katzen infiziert werden können.
+Auch Goldhamster, die nach einer Infektion mit SARS-CoV nur sehr schwache Symptome entwickelt hatten und daher als Modelltiere ungeeignet waren, ließen sich im Labor mit SARS-CoV-2 infizieren, zeigten deutliche Symptome und wiesen hohe Viruskonzentrationen in Lunge und Darm auf.
+
+Wie bereits oben erwähnt, hatte das Friedrich-Loeffler-Institut (FLI) aufgrund eigener Tests solche Befunde bestätigt:
+Nilflughunde sind neben Frettchen (im Gegensatz zu Schweinen und Hühnern) empfänglich für eine SARS-CoV-2-Infektion.
+
+Diese Ergebnisse wurden durch eine Studie von Kore Schlottau (WHO) et al. (veröffentlicht im Juli 2020) ein weiteres Mal bestätigt und vertieft.
+Getestet wurden Nilflughunde (Rousettus aegyptiacus, englisch fruit bats), Frettchen (von den Autoren als Mustela putorius bezeichnet), Hausschweine (Sus scrofa domesticus) und Haushühner (Gallus gallus domesticus).
+Die Hausschweine und Haushühner erwiesen sich auch hier als nicht empfänglich für SARS-CoV-2.
+Als die Forscher begannen, Schweine und Ferkel künstlich mit SARS-CoV-2 zu infizieren, stellten sie fest, dass es sich nicht gut replizierte.
+Sieben von neun Nilflughunden erkrankten zunächst an Rhinitis, das Virus wanderte mit weiterem Fortschreiten der Erkrankung über die Luftröhre teilweise bis in die Lunge.
+Bei den Frettchen wurde zwar eine noch effizientere Virusreplikation, aber bis auf eine mögliche leichte Rhinitis keine Krankheitssymptome beobachtet.
+Sie entwickelten wie auch die Nilflughunde Antikörper gegen SARS-CoV-2.
+
+Laut einer Studie des Friedrich-Loeffler-Instituts (FLI) zeigen Rinder eine geringe Empfänglichkeit gegenüber SARS-CoV-2.
+
+Während im Labor infizierte Mäuse offenbar keine Krankheitssymptome entwickeln, war es Y.-C. Wang und Kollegen in China möglich, bei C57BL/6-Labormäusen mit CRISPR/Cas9 das ACE2 der Mäuse (mACE2, murines ACE2) durch das des Menschen (hACE2, humanes ACE2) zu ersetzen.
+Die hACE2-Mäuse zeigten Virusreplikation von SARS-CoV-2 in ihren Lungen, der Luftröhre und im Gehirn.
+Auch der Verdauungstrakt war betroffen, so wie es bei manchen menschlichen Patienten beobachtet wird.
+Sie scheinen damit geeignet, um etwa einen Impfstoff zu testen, bevor er Menschen verabreicht wird; eine Alternative zur Methode die Wirkung eines Mittels auf künstlich mutierte Sarbecoviren zu testen, wie jüngst bei Remdesivir und SARS-CoV/SARS-CoV-2 RdRp (altes SARS-Virus mit RdRP-Gen von SARS-CoV-2) geschehen.
+
+== Risikogruppe nach Biostoffverordnung
+
+Für Beschäftigte, die durch ihre berufliche Tätigkeit mit Infektionserregern in Kontakt kommen können, gilt in Deutschland die Biostoffverordnung (BioStoffV).
+Der bei der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) eingerichtete Ausschuss für Biologische Arbeitsstoffe (ABAS) hat SARS-CoV-2 am 19. Februar 2020 vorläufig in die Risikogruppe 3 nach der BioStoffV eingeordnet (zweithöchste Stufe).
+Grundsätzlich erfolgt die Einstufung in Risikogruppen in den Technischen Regeln für biologische Arbeitsstoffe (TRBA), die von der BAuA veröffentlicht werden, für Viren ist dies die TRBA 462: Einstufung von Viren in Risikogruppen.
+Beim Auftreten neuartiger, noch nicht zugeordneter Krankheitserreger erfolgt zunächst eine vorläufige Einstufung durch den ABAS.
+In der Begründung wird auf die Ähnlichkeit von SARS-CoV-2 mit dem SARS-CoV-1 hingewiesen, der die SARS-Pandemie 2002/2003 ausgelöst hat, und auch die Ähnlichkeit in geringerem Umfang mit dem MERS-CoV wird erwähnt.
+Diese beiden Viren wurden ebenfalls der Risikogruppe 3 zugeordnet.
+Der ABAS nennt die "derzeit fehlenden Möglichkeiten zu Impfprävention und Therapie sowie die große Verbreitungsmöglichkeit in der Bevölkerung" als Begründung für die vorläufige Zuordnung zur Risikogruppe 3.
+
+Außerdem werden Empfehlungen zur Arbeit mit dem Virus bei der Diagnostik im Labor gegeben:
+Nicht gezielte Tätigkeiten (vergleiche § 5 BioStoffV) - ausgehend vom Untersuchungsmaterial, also beispielsweise die Probenvorbereitung, Probenaufbereitung und die Inaktivierung, um den Nachweis mittels RT-PCR (siehe Abschnitt Nachweismethoden) durchzuführen - können unter den Bedingungen der Schutzstufe 2 durchgeführt werden.
+Dabei sind alle Tätigkeiten, bei denen mit Aerosolbildung zu rechnen ist, in einer mikrobiologischen Sicherheitswerkbank der Klasse II durchzuführen.
+Außerdem ist die entsprechende persönliche Schutzausrüstung zu tragen.
+Gezielte Tätigkeiten nach § 5 BioStoffV dürfen nur in Laboratorien der Schutzstufe 3 durchgeführt werden, dies betrifft z. B. die Vermehrung des Virus in einer Zellkultur.
+Die amerikanische Gesundheitsbehörde CDC hatte zuvor ähnliche Empfehlungen herausgegeben.
+
+== Klinische Erscheinungen
+
+== Nachweismethoden
+
+=== Vorgehensweise beim Nachweis
+
+=== RT-PCR-Test
+
+Der sogenannte "PCR-Test" (genauer: real-time quantitative Reverse-Transkriptase-Polymerase-Kettenreaktion) gilt als Goldstandard für den Nachweis von SARS-CoV-2.
+
+=== Weitere Methoden
+
+==== Genomanalyse
+
+Laboratorien mit Ausstattung für eine Genomanalyse (DNA-Sequenzierung des Genoms), also einem Sequenzierautomaten, können SARS-CoV-2 auch auf diese Weise identifizieren.
+Vollständige Genomanalysen von SARS-CoV-2-Isolaten zum Vergleich sind beispielsweise in der Gendatenbank des National Center for Biotechnology Information (NCBI) oder über die GISAID-Plattform verfügbar (vergleiche Abschnitt Molekulargenetik und Phylogenetik).
+
+==== Nukleinsäurenachweis
+
+Die Weltgesundheitsorganisation (WHO) berichtete bereits Mitte Januar 2020 über die Entwicklung von vereinfachten molekularbiologischen Verfahren, die Nucleic Acid Amplification Technology (NAAT), deren Assays validiert wurden.
+Die NAAT-Methode beruht ebenfalls auf der RT-PCR, das fertig zusammengestellte Assay bietet jedoch den Vorteil, einfacher in der Handhabung zu sein und lässt sich von entsprechend ausgestatteten Routine-Laboratorien verwenden.
+
+Am 5. Februar 2020 gab die US-amerikanische Behörde CDC bekannt, ein derartiges Assay für die Anwendung in akkreditierten Diagnoselaboratorien zur Verfügung zu stellen.
+Das Assay wird als Centers for Disease Control and Prevention (CDC) 2019-Novel Coronavirus (2019-nCoV) Real-Time Reverse Transcriptase (RT)-PCR Diagnostic Panel bezeichnet und ist für den Nachweis sowohl von SARS-CoV-2 als auch SARS-ähnlicher Coronaviren in Proben der oberen und unteren Atemwege von Patienten vorgesehen.
+Zuvor erfolgte eine beschleunigte Zulassung durch die Gesundheitsbehörde Food and Drug Administration (FDA), somit darf das Assay seit 4. Februar 2020 auch außerhalb von Forschungseinrichtungen verwendet werden.
+Ein Testkit ermöglicht die Untersuchung von 700 bis 800 Proben, 100 dieser Packungen gingen an US-amerikanische Labore, weitere 100 an internationale Laboratorien, die beispielsweise im Auftrag der WHO Untersuchungen durchführen.
+Die Untersuchung dauert von der Probevorbereitung bis zum Vorliegen der Ergebnisse etwa vier Stunden.
+Das Hamburger Unternehmen Altona Diagnostics sowie das Darmstädter Unternehmen R-Biopharm bieten seit Februar 2020 ein ähnliches Testkit für die RT-PCR an, das ebenfalls weltweit vertrieben wird.
+Ein Testkit ermöglicht die Analyse von etwa 100 Proben.
+Allerdings sind diese bisher nur für die Verwendung in der Forschung zugelassen.
+
+==== Schnelltest
+
+Der in den Medien verwendete Begriff Schnelltest ist nicht klar definiert, einerseits ist damit die Erwartung verbunden, die Zeitdauer bis zum Vorliegen eines Testergebnisses im Vergleich zur mittlerweile routinemäßig eingesetzten RT-qPCR-Methode zu verkürzen, andererseits kann damit auch gemeint sein, dass es sich um ein Point-of-Care-Testing (deutsch patientennahe Labordiagnostik) handelt, bei dem der Schritt "Probentransport zur Analyse im Zentrallabor" entfällt, da entsprechende Geräte vor Ort, beispielsweise in einer Arztpraxis verwendet werden.
+Somit werden auch Kartuschensysteme, die auf der RT-PCR-Methode beruhen, in den Medien manchmal als Schnelltest bezeichnet, hier aber in einem eigenen Abschnitt dargestellt.
+
+Ende Januar 2020 hatte Xinhua berichtet, dass die chinesische Behörde National Medical Products Administration (NMPA) am 26. Januar vier Testkits eines neuen Testverfahrens zugelassen habe.
+Das Assay ist von dem Biotechnologieunternehmen Sansure Biotech aus Changsha entwickelt worden.
+Mit Hilfe der dafür geeigneten Laborautomatisierung sollen Testergebnisse bereits nach 30 Minuten vorliegen.
+Die staatliche Nachrichtenagentur teilte weiterhin mit, dass eine in Wuxi in der östlichen Provinz Jiangsu ansässige Firma in Zusammenarbeit mit dem National Institute for Viral Disease Control and Prevention eine Schnellmethode entwickelt habe.
+Mit dem Testkit soll das Virus innerhalb von 8-15 Minuten nachgewiesen werden, die Firma könne täglich so viele Testkits produzieren, dass damit die Untersuchung von 4000 Proben möglich sei und das Verfahren soll bereits in der Provinz Hubei eingesetzt worden sein.
+Die Xinhua-Meldungen enthalten keinen Hinweis auf die dabei verwendeten molekularbiologischen Methoden.
+Weiterhin wird an der chinesischen Tianjin-Universität in Zusammenarbeit mit einer Pekinger Biotechnologiefirma ein Schnellverfahren entwickelt, bei dem nach 15 Minuten Resultate vorliegen sollen.
+Es befindet sich im Probeeinsatz (Stand Februar 2020).
+
+Forscher der Hong Kong University of Science and Technology meldeten Anfang Februar 2020 die Entwicklung eines tragbaren Gerätes, mit dem SARS-CoV-2 innerhalb von 40 Minuten nachweisbar sein soll.
+Für das im Vergleich zur herkömmlichen qRT-PCR schnellere Verfahren werden modifizierte Chip-Thermocycler verwendet.
+Auch Forscher des Institute for Health Innovation & Technology (iHealthtech) an der National University of Singapore berichteten im Februar 2020 darüber, eine Schnellmethode zu entwickeln.
+Sie basiert auf der seit 2018 verwendeten enVision-Technologie, mit der Nukleinsäuren innerhalb von 30 bis 60 Minuten nachgewiesen werden.
+Es wird geschätzt, dass bis zur Marktreife des neuen Testverfahrens noch mehrere Monate benötigt werden.
+
+Eine deutsche Forschergruppe der Universität Bonn um Hendrick Streeck hat im April 2020 die Ergebnisse einer Schnelltestvalidierung vorgestellt.
+Hierbei wurde der CoV-2 Rapid Test im Rahmen eines Screenings der Bevölkerung getestet und mit parallel gewonnenen Proben zur PCR-Diagnostik verglichen.
+Von insgesamt 49 Personen waren 22 positiv in der PCR; der Schnelltest erkannte jedoch nur acht davon richtig als positiv (Sensitivität 36,4 %).
+Von den 27 PCR-negativen Personen wurden durch den Schnelltest 24 richtig als negativ diagnostiziert (Spezifität 88,9 %).
+
+==== Antigen-Schnelltest
+
+Antigen-Tests zum Nachweis von SARS-CoV-2 weisen keine Antikörper nach, die vom Infizierten gebildet wurden, sie sind also keine Antikörpertests.
+Antigen-Tests weisen vielmehr spezifische Proteine (Eiweiße aus der Hülle des Virus) nach und testen somit, ob aktuell eine Infektion vorliegt.
+Hierfür gibt es verschiedene Varianten von Antigen-Tests.
+Antigen-Schnelltests im engeren Sinne sind entweder fluoreszenz- oder chemilumineszenz-basierte Teste, bei denen das Virusprotein anhand einer bestimmten Färbung nachgewiesen wird und die ein Auswertegerät benötigen, oder lateral-flow-Tests zur unmittelbaren visuellen Auswertung vor Ort.
+Grundsätzlich sind Sensitivität und Spezifizität der Tests geringer als bei PCR-Tests.
+
+Derzeit (Stand: Anfang 2021) laufen unabhängige Evaluierungen verschiedener Tests.
+Sie deuten darauf hin, dass sich Sensitivität und Spezifizität in der Praxis deutlich von den Herstellerangaben unterscheiden können und dass zwischen den unterschiedlichen Tests erhebliche Leistungsunterschiede bestehen.
+Beispielsweise fand ein Vergleich von 7 Tests Spezifizitätswerte zwischen 98,53 % und 100 % bei 5 Produkten, mit zwei Ausreißern mit 94,85 % und 88,24 % Spezifizität.
+
+Wegen der geringeren Spezifizität sollte ein positives Ergebnis im Antigen-Test grundsätzlich mittels PCR bestätigt werden.
+Die geringere Sensitivität bedeutet, dass ein negatives Ergebnis eine Infektion nicht ausschließt.
+Insbesondere in der Frühphase der Infektion kann es dazu kommen, dass Infektionen nicht erkannt werden.
+Nach Einschätzung der Nationalen Akademie der Wissenschaften bilden Antigen-Tests daher nur eine Momentaufnahme der Virusmenge der getesteten Person.
+Ein negatives Ergebnis eines solchen Tests hat demnach nur eine Gültigkeit von etwa einem Tag.
+
+==== Kartuschentest
+
+Bei einem Kartuschensystem wird ein technisch aufwändiges, aber dennoch von den Größenabmessungen transportables Gerät (englisch analyzer) verwendet, in dem eine dafür konstruierte Kartusche (englisch cartridge) eingesetzt wird.
+Die Kartusche wird zuvor mit dem Probenmaterial, z. B. dem Abstrichtupfer bestückt, weitere Chemikalien und biologische Arbeitsstoffe für die Probevorbereitung und die Analyse sind in der Kartusche enthalten.
+Die für den Einmalgebrauch konzipierte Kartusche verkürzt die Dauer bis zum Vorliegen des Testergebnisses und bietet für den Benutzer den Vorteil, den Kontakt mit den Infektionserregern zu minimieren (vergleiche Abschnitt Risikogruppe nach Biostoffverordnung).
+Kartuschentests, auch als engl. panel bezeichnet, werden seit 2018 für die Diagnostik von Krankheitserregern, die Atemwegserkrankungen verursachen, eingesetzt.
+Die Methode basiert auch hier auf der RT-qPCR, der real-time quantitativen Reverse-Transkriptase-Polymerase-Kettenreaktion, da aber gleichzeitig Gene mehrerer Krankheitserreger analysiert werden, wird sie der Multiplex-PCR zugerechnet.
+
+Das Biotechnologieunternehmen Qiagen N.V. entwickelte am Standort in Hilden einen Kartuschentest als Schnelltest, der auf einem bereits international für die Diagnostik von Krankheitserregern zugelassenen Verfahren basiert, mit dem sich u. a. SARS-assoziierte Viren und EHEC nachweisen lassen.
+Das Verfahren wurde um den Nachweis der im SARS-CoV-2-Genom vorhandenen Gene ORF1b und E erweitert und die Ergebnisse wurden mit denen der RT-PCR-Methode verglichen.
+Das Unternehmen arbeitete mit der WHO zusammen, um eine Validierung zu erreichen.
+Das tragbare Diagnosegerät ist für den Einsatz in Arztpraxen oder an Flughäfen geeignet.
+Als Probenmaterial ist ein Abstrich aus dem Rachenraum oder eine Blutprobe geeignet, Testergebnisse liegen innerhalb von 60 Minuten vor.
+In Deutschland ist die vorläufige Zulassung durch das Bundesinstitut für Arzneimittel und Medizinprodukte beantragt.
+Die Diagnosegeräte wurden im Februar 2020 in französischen und chinesischen Krankenhäusern getestet und erhielten die Zulassung der US-amerikanischen und europäischen Behörden (Stand 27. März 2020).
+Im Vergleich zur routinemäßig eingesetzten RT-qPCR-Methode sind Kartuschentests teurer, zudem wird das dazugehörige Analyse-Gerät benötigt.
+
+Zwei weitere Diagnostik-Firmen in Deutschland entwickeln ebenfalls derartige Schnelltests.
+Die US-amerikanische Firma Cepheid Inc hat im März 2020 eine beschleunigte Zulassung durch die FDA erhalten.
+Auch hier handelt es sich um ein Kartuschensystem auf der Basis von RT-qPCR mit dazugehörigem Analyzer, Testergebnisse sollen nach 45 Minuten vorliegen.
+Von den passenden Analyse-Geräten werden zurzeit weltweit etwa 23.000 verwendet, zumeist in Krankenhäusern, ein Analyzer kann bis zu vier Kartuschen gleichzeitig aufnehmen (Stand 27. März 2020).
+Die Robert Bosch GmbH entwickelte zusammen mit der britischen Firma Randox Laboratories ebenfalls einen Kartuschentest, mit dem Testergebnisse nach 2,5 Stunden vorliegen sollen.
+Das Testsystem kam im April 2020 auf den Markt, zuerst nur mit einer Zulassung für Forschungseinrichtungen.
+Im September 2020 wurde eine verkürzte Analyszeit von 39 Minuten veröffentlicht.
+
+==== Antikörpernachweis
+
+Die Weltgesundheitsorganisation (WHO) berichtete Mitte Januar 2020 über die Entwicklung von Antikörpernachweisen als serologische Untersuchung.
+Dadurch wird es ein Assay geben, beispielsweise ein Immunassay wie ELISA oder einen Lateral Flow Test, mit dem Antikörper aus Patientenproben (Blutserum) durch Antigen-Antikörper-Reaktion nachweisbar sind.
+Der Lateral Flow Test kann als Schnelltest (siehe oben) bezeichnet werden, im Sinne von Point-of-Care-Testing (deutsch: patientennahe Labordiagnostik), ein bekanntes darauf basierendes Beispiel ist der Schwangerschaftstest.
+
+Je nachdem, auf welche Antikörper geprüft wird, ist noch eine aktuelle Infektion nachweisbar (frühe Antikörper Immunglobulin M (IgM)) oder eine bereits abgeschlossene Infektion durch späte Antikörper Immunglobulin G (IgG), dieser Antikörperklassenwechsel wird als Serokonversion bezeichnet.
+Es gab den Vorschlag, IgM-Antikörpernachweise zur Diagnose akuter Infektionen zu nutzen, allerdings zeigte die Untersuchung chinesischer Wissenschaftler von 535 Plasmaproben von 173 Patienten, dass im Zeitraum 1 bis 7 Tage nach Einsetzen der Symptome nur bei knapp 30 % der Patienten IgM nachweisbar waren, während es im Zeitraum 8 bis 14 Tage 73 % der Patienten waren.
+Damit kann der IgM-Antikörpernachweis die PCR-Testung nur ergänzen.
+
+Die WHO und das Robert Koch-Institut in Deutschland rufen dazu auf, Serumproben von bestätigten oder Verdachtsfällen in der Akutphase zu sammeln und zu asservieren.
+Die WHO empfiehlt, die erste Probe in der ersten Krankheitswoche und die zweite Probe drei bis vier Wochen später zu nehmen.
+Damit lässt sich eine Serokonversion überprüfen.
+Nach Kontakt mit SARS-CoV-2 werden nach etwa drei Wochen (entspricht etwa zwei Wochen nach Auftreten der Symptome) die Antikörper Immunglobulin A (IgA) gebildet, nach etwa 4 Wochen die IgG-Antikörper.
+Bei der Untersuchung von 153 Patienten wurde ermittelt, dass die Serokonversion 20-30 Tage nach Einsetzen der Symptome erfolgt, also IgG-Antikörper in ausreichender Menge vorhanden sind.
+Antikörpertests auf IgA und IgG sind somit nicht für die Akutdiagnostik erkrankter Patienten gedacht und ersetzen nicht die PCR-Analytik.
+Ihre Ergebnisse liefern epidemiologische Daten, mit denen das Ausmaß des Ausbruchs ermittelt werden kann und helfen bei der Überprüfung der Wirksamkeit von Impfstoffen.
+
+Für die Aussagekraft des Antikörpertests ist die Wahl des richtigen Antigens ausschlaggebend.
+Falls ein bestimmter Antikörper an mehr als einem Antigen bindet, handelt es sich um eine Kreuzreaktivität, die zu falsch positiven Testergebnissen führt, da mehr als das eigentliche Antigen reagiert.
+Als Antigene von SARS-CoV-2 sind die im Abschnitt Merkmale beschriebenen Strukturen geeignet, beispielsweise das Nukleokapsidprotein (N) oder das Spikeprotein (S) als Ganzes bzw. alternativ die S1- und S2-Domäne.
+In der Literatur werden mögliche Kreuzreaktionen zu den Coronaviren SARS-CoV-1, MERS-CoV, HCoV-HKU1, HCoV-OC43, HCoV-NL63, HCoV-229E sowie bei Katzen und Schweinen vorkommende Coronaviren genannt.
+Bei der Validierung der entwickelten Methoden zum Antikörpernachweis sind die diagnostische Sensitivität (Richtig-positiv-Rate) und Spezifität (Richtig-negativ-Rate) wichtige Qualitätskriterien, die mit Hilfe folgender Tabelle veranschaulicht werden.
+
+Die Sensitivität des Testverfahrens gibt den Anteil der positiv Getesteten zur Gesamtheit der tatsächlich Infizierten an, die Spezifität hingegen gibt den Anteil der negativ Getesteten zur Gesamtheit der tatsächlich Nicht-Infizierten an, als Formeln ausgedrückt:
+
+Für ein zuverlässiges Testergebnis werden für beide Kriterien Werte nahe 100 % angestrebt, eine hohe Sensitivität stellt sicher, dass kein Infizierter versehentlich übersehen wird, eine hohe Spezifität spricht dafür, dass kein "Fehlalarm" (z. B. durch Kreuzreaktivität) ausgelöst wird.
+Für die Methodenvalidierung serologischer Nachweise wird als Referenzmethode (auch als Goldstandard bezeichnet) der Neutralisationstest (NT), im Detail der Plaque-Reduktions-Neutralisationstest (PRNT) verwendet.
+Für die als Proben eingesetzten Patientenseren gilt, dass bei den Patienten zuvor das SARS-CoV-2 durch PCR nachgewiesen wurde bzw. bei den Kontrollen die anderen Coronaviren oder weiteren Viren.
+Für die Aussagekraft der Spezifität ist weiterhin wichtig, dass Proben mit Antikörpern gegen viele verschiedene Viren getestet werden.
+
+In einem chinesischen Forschungslabor wurden im Januar 2020 erste ELISA-Tests durchgeführt, als Antigen wurde das Nukleokapsidprotein (N) eines Fledermaus-Coronavirus mit Ähnlichkeit zu SARS-CoV-2 verwendet.
+Damit ließen sich in Serumproben eines Patienten die Antikörper IgG und IgM nachweisen und deren Titer über mehrere Tage während des Krankheitsverlaufes bestimmen.
+In einem zweiten Test wurden Serumproben, die 20 Tage nach den ersten Symptomen entnommen wurden, untersucht.
+Alle Patientenseren, aber nicht die Seren von Gesunden zeigten eine stark positive IgG-Reaktion, einige Patientenseren zeigten zusätzlich eine IgM-Reaktion, was auf eine aktuelle Immunantwort, also eine momentane Infektion hindeutet.
+
+Seit März 2020 sind kommerzielle Antikörpernachweistests verfügbar.
+Im Rahmen der Validierung wurden zwei ELISA-Tests überprüft, die auf einer IgA- und IgG-Reaktion auf das S1-Protein basieren, dabei wurde eine eher geringe Spezifität festgestellt, da es zur Kreuzreaktivität mit dem Humanen Coronavirus OC43 kam und damit zu falsch positiven Ergebnissen.
+In der Sensitivität schnitt das IgA-ELISA besser ab.
+Allerdings basiert die Validierungsstudie nur auf einer geringen Anzahl von Patientenseren, einmal n=10 von drei COVID-19-Patienten, zum anderen n=31 von neun COVID-19-Patienten.
+
+=== Zellkultur
+
+Die Vermehrung des Virus zu Forschungszwecken in einer Zellkultur ist unter anderem in China, Australien, Frankreich, Deutschland und den USA gelungen.
+Die chinesischen Wissenschaftler verwenden hierbei Epithelzellen des menschlichen Atemtrakts, die das mehrschichtige mukoziliäre Epithelgewebe (Flimmerepithel) simulieren, ebenso werden die Zelllinien Vero E6 und Huh-7 (isoliert aus humanem Leberkarzinom) eingesetzt.
+
+== Behandlung
+
+Für die Krankheit COVID-19 gibt es bisher keine spezifische Behandlung, eine Therapie zielt darauf ab, die Symptome zu lindern.
+Es wird jedoch untersucht, ob bereits bekannte Virostatika auch bei einer Infektion mit SARS-CoV-2 wirksam sind.
+
+== Vorbeugung
+
+=== Impfstoffe/Impfung gegen COVID-19
+
+Bereits unmittelbar nach Veröffentlichung der RNA-Sequenz des Virus wurde in mehreren Laboren mit der Impfstoffentwicklung begonnen.
+Die internationale Impfstoffinitiative CEPI (Coalition for Epidemic Preparedness Innovations) plante, bis Mitte Juni 2020 erste Tests mit bis dahin entwickelten Impfstoffen durchzuführen.
+Dafür erhielten mehrere potentiell geeignete Unternehmen finanzielle Unterstützung.
+In Deutschland betraf dies u. a. die Tübinger Biotechnologiefirma Curevac, die zusammen mit dem Paul-Ehrlich-Institut an der schnellen Impfstoffentwicklung arbeitete.
+
+Bei oder nach der Klinischen Prüfung der Arzneimittelstudie (Phase-III-Studie) sind unter anderem die RNA-Impfstoffe Tozinameran (BioNTech/Pfizer) und mRNA-1273 (Moderna) sowie die Vektorimpfstoffe: Vaxzevria, zuvor AZD1222, (AstraZeneca/Oxford) und Ad26.COV2.S (Janssen Pharmaceutica/ Johnson & Johnson) zugelassen worden.
+Weltweit werden 278 Impfprojekte vorangetrieben (Stand: 26.03.2021).
+Es wird bei der Impfung unterschieden zwischen Lebendimpfstoffen mit Vektorviren die mit Oberflächenproteinen von SARS-CoV-2 ergänzt wurden und die so abgeschwächt sind dass sie keine krankmachenden Eigenschaften mehr besitzen, Totimpfstoffen mit Virusproteinen die die Kaskade der Immunantwort in Gang bringen und RNA-Impfstoffen mit ausgewähltem Gen des Virus in Form von RNA.
+
+Um den anfänglich knappen Impfstoff einer gerechten Verteilung zuzuführen, wurde für Deutschland ein gemeinsames Positionspapier zur Priorisierung der COVID-19-Impfmaßnahmen durch die Ständige Impfkommission (STIKO) beim Robert Koch-Institut, den Deutschen Ethikrat und die Nationale Akademie der Wissenschaften Leopoldina entwickelt.
+
+Durch eine Impfung kann es allerdings dazu kommen, dass nicht-neutralisierende Antikörper entwickelt werden, die eventuell sogar die Infektion der Makrophagen erleichtern und damit die Infektion verschlimmern.
+Dies wurde beispielsweise bei der Impfung von Katzen gegen Felines Coronavirus beobachtet; dort tritt diese Infektionsverstärkung nicht nur aufgrund einer Impfung, sondern auch aufgrund einer vorher durchgemachten Erkrankung mit dem Virus auf.
+= Siehe auch: Infektionsverstärkende Antikörper
+
+=== Impfung gegen andere Infektionen
+
+Die Berliner Senatsgesundheitsverwaltung empfahl Ende Februar 2020 allen Menschen über 60 Jahre und chronisch Kranken, ihren Impfstatus zu überprüfen und gegebenenfalls die Impfung gegen Pneumokokken (Impfstoffe wie Pneumovax 23 waren jedoch im März 2020 nur noch eingeschränkt lieferbar) und Keuchhusten (Pertussis) durchführen oder auffrischen zu lassen.
+Da Menschen über 60 Jahren und chronisch Kranke durch SARS-CoV besonders gefährdet sind, seien sie vorsorglich zu schützen.
+
+=== Hygienemaßnahmen
+
+Die wichtigsten dieser Maßnahmen sind:
+
+== Epidemische Lage
+
+SARS-CoV-2 verursacht die Erkrankung COVID-19 (für englisch corona virus disease 2019), die im Dezember 2019 in der Millionenstadt Wuhan der chinesischen Provinz Hubei auffällig wurde, sich im Januar 2020 in der Volksrepublik China zur Epidemie entwickelte und sich dann weltweit als COVID-19-Pandemie ausbreitete.
+Um einer Ausbreitung in Staaten ohne leistungsfähige Gesundheitssysteme entgegenzuwirken, rief die Weltgesundheitsorganisation (WHO) am 30. Januar 2020 die Gesundheitliche Notlage internationaler Tragweite (internationale Gesundheitsnotlage) aus.
+Am 11. März 2020 stufte die WHO die bisherige Epidemie zu einer Pandemie hoch.
+Nach einer entsprechenden Änderung des Infektionsschutzgesetzes (IfSG) hat der Deutsche Bundestag mit Wirkung zum 28. März 2020 aufgrund der COVID-19-Pandemie in Deutschland eine epidemische Lage von nationaler Tragweite von unbestimmter Dauer festgestellt.
+
+== Meldepflicht
+
+In Deutschland ist der direkte und indirekte Nachweis von SARS-CoV-2 seit dem 23. Mai 2020 gemäß § 7 Abs. 1 Nr. 44a des Infektionsschutzgesetzes (IfSG) für Labore namentlich meldepflichtig, sofern der Nachweis auf eine akute Infektion hindeutet.
+Die Meldepflicht wurde bereits zum 1. Februar 2020 durch Verordnung eingeführt.
+Seit der gesetzlichen Regelung durch das Zweite Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite im IfSG war auch das Untersuchungsergebnis (einschließlich negativer Testergebnisse) nichtnamentlich durch Labore zu melden (§ 7 Abs. 4 Nr. 1 IfSG alter Fassung).
+Diese nichtnamentliche Meldepflicht für Untersuchungsergebnisse (und damit für negative Testergebnisse) war jedoch ausgesetzt, solange das Robert Koch-Institut noch nicht über das Deutsche Elektronische Melde- und Informationssystem für den Infektionsschutz (DEMIS) verfügte.
+Seit dem 19. November 2020 ist diese Meldepflicht aufgehoben.
+Allerdings besteht für Ärzte noch eine Meldepflicht hinsichtlich der durch das Virus verursachten Atemwegserkrankung COVID-19 in Bezug auf Menschen.
+Seit den 2. Juli 2020 besteht eine Meldepflicht, wenn Haustiere positiv getestet wurden.
+
+In Österreich besteht ebenfalls Anzeigepflicht, und zwar nach dem Epidemiegesetz 1950 zusammen mit einer Verordnung.
+Die Pflicht zur Anzeige besteht für Verdachts-, Erkrankungs- und Todesfälle aufgrund dieses Virus.
+Zudem wurde auch die Absonderungsverordnung um das neue Coronavirus erweitert.
+
+Auch in der Schweiz existiert eine Meldepflicht.
+Diese folgt aus dem Epidemiengesetz der Schweiz in Verbindung mit der Epidemienverordnung und der Verordnung des EDI über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen Nach Anhang 1 der Verordnung des EDI müssen Ärzte einen klinischen Verdacht und die Veranlassung einer erregerspezifischen Labordiagnostik und den nötigen epidemiologischen Zusammenhang melden.
+Nach Anhang 3 der Verordnung des EDI müssen Labore einen positiven und negativen Befund (also Nachweis) melden.
+Das Bundesamt für Gesundheit hat hierzu Verdachts-, Beprobungs-, Meldekriterien veröffentlicht.
+
+== Weblinks
+
+=== Von Behörden in Deutschland
+
+=== Von Behörden in Österreich
+
+=== Von Behörden in der Schweiz
+
+=== Von internationalen Organisationen
+
+=== Von anderen Anbietern
+
+== Anmerkungen
+
+== Einzelnachweise
+

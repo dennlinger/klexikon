@@ -1,0 +1,1281 @@
+Eine Windkraftanlage (Abk.: WKA) oder Windenergieanlage (Abk.: WEA) wandelt die Energie des Windes in elektrische Energie, um sie dann in ein Stromnetz einzuspeisen.
+Umgangssprachlich werden auch die Bezeichnungen Windkraftwerk oder Windrad oder auch Windkraftkonverter verwendet.
+Windkraftanlagen sind heute mit Abstand die wichtigste Form der Nutzung der Windenergie.
+Die mit großem Abstand dominierende Bauform ist der dreiblättrige Auftriebsläufer mit horizontaler Achse und Rotor auf der Luvseite, dessen Maschinenhaus auf einem Turm montiert ist und der Windrichtung aktiv nachgeführt wird.
+Eine Reihe weiterer Konstruktionsformen, insbesondere mit anderer Bauweise des Rotors, haben sich bisher nicht durchgesetzt.
+
+Windkraftanlagen können in allen Klimazonen genutzt werden.
+Sie werden an Land (onshore) und in Offshore-Windparks im Küstenvorfeld der Meere installiert.
+Heutige Anlagen werden fast ausschließlich mit Netzanschluss betrieben und weisen durch Einspeisung über Leistungselektronik im Gegensatz zu älteren Anlagen mit direkt netzgekoppeltem Asynchrongenerator eine sehr gute Netzverträglichkeit auf.
+Die mittlere Nennleistung der in 2018 neu installierten Onshore-Anlagen lag bei 3,34 MW (Deutschland).
+Die durchschnittliche Nennleistung aller installierten Offshore-Anlagen lag Ende 2018 weltweit bei 3,94 MW, in deutschen Projekten bei 4,83 MW.
+
+Als Windgenerator bezeichnet man Kleinanlagen im Leistungsbereich von wenigen 100 Watt bis zu mehreren kW. Sie können auch als einzelne Anlage wirtschaftlich sein.
+
+Als Windpark bezeichnet man Gruppen jeweils mehrerer Windkraftanlagen.
+
+Weitere Anwendungen sowie energiepolitische Aspekte siehe auch: Windenergie, Erneuerbare Energien, Energiewende und Energiewende nach Staaten.
+
+== Geschichte der Windkraftanlagen
+
+=== Windmotoren, Testanlagen und gescheiterte Großprojekte
+
+Die erste belegte windbetriebene Anlage zur Stromerzeugung errichtete 1887 der Schotte James Blyth, um Akkumulatoren für die Beleuchtung seines Ferienhäuschens aufzuladen.
+Seine einfache, robuste Konstruktion mit einer vertikalen Achse von zehn Metern Höhe und vier auf einem Kreis von acht Metern Durchmesser angeordneten Segeln hatte eine bescheidene Effizienz.
+Nahezu zeitgleich orientierte sich Charles Francis Brush in Cleveland, Ohio mit einer 20 Meter hohen Anlage an den damals recht fortgeschrittenen amerikanischen Windpumpen.
+Bei Pumpen kommt es eher auf das Drehmoment als auf die Drehzahl an; Brush verwendete eine zweistufige Übersetzung mit Riementrieben, um einen 12-kW-Generator anzutreiben.
+
+Der Däne Poul la Cour kam um 1900 durch systematische Versuche - unter anderem an aerodynamisch geformten Flügelprofilen in Windkanälen - zum Konzept des Schnellläufers, bei dem nur wenige Rotorblätter ausreichen, die Energie der Strömung über die ganze Rotorfläche auszunutzen.
+Während des Ersten Weltkrieges waren über 250 Anlagen dieses Typs in Dänemark in Betrieb.
+Auch in anderen Staaten wurden im frühen 20. Jahrhundert Windmotoren zur dezentralen Stromerzeugung errichtet.
+Mit der flächendeckenden Elektrifizierung in der Zwischenkriegszeit verschwanden viele dieser Anlagen wieder, zumal die mit Gleichstromgeneratoren und Akkuspeichern ausgerüsteten Windmotoren nicht mit Wechselstrom-Stromnetzen kompatibel waren.
+
+Nach dem Zweiten Weltkrieg wurde in verschiedenen Staaten die Windenergieforschung vorangetrieben.
+Staaten wie Frankreich und Großbritannien investierten bis ca. 1965 große Summen in die Windkraftforschung.
+Die durch die Luftfahrt vorangetriebene Verbesserung der Profilgeometrien in den 1950er und 1960er Jahren auf Gleitzahlen weit über 50 erlaubte extreme Schnellläufer mit nur noch einem einzigen Rotorblatt.
+Rotoren mit mehr als zwei Blättern galten als rückständig.
+Angesichts niedriger Energiepreise wurden mit Ausnahme von wenigen Prototypen aber kaum Anlagen errichtet.
+
+Zu einer Renaissance der Windenergienutzung kam es ab den 1970er Jahren unter anderem infolge der Umwelt- und Energiedebatte und zweier Ölkrisen.
+In den 1970er und 1980er Jahren wurden eine Vielzahl verschiedener Konstruktionen erprobt, wobei sich letztlich Turbinen mit horizontaler Achse durchsetzten.
+In einigen Staaten (wie unter anderem Deutschland und USA) setzte man zunächst auf anspruchsvolle industrielle Großprojekte wie den zweiflügeligen GROWIAN; diese hatten aber große technische Probleme und erwiesen sich als Fehlschläge.
+Ausgehend von Dänemark, wo es außer den Kenntnissen zum Bau von Kleinanlagen auch eine idealistische Kundschaft für derartige Anlagen gab, setzte sich das Dänische Konzept zahlreicher robuster Anlagen kleiner Leistung durch, die anfangs häufig von Kleinunternehmen und Bastlern mit zunächst einfachen Mitteln hergestellt wurden.
+
+Die in den 1980er Jahren auch zu Tausenden in die USA exportierten Anlagen hatten drei starre Rotorblätter (starr = keine Blattwinkelverstellung) und eine ohne Frequenzumrichter ans Netz gekoppelte Asynchronmaschine mit ein oder zwei festen Drehzahlen.
+Die Leistung wurde durch beabsichtigten Strömungsabriss begrenzt.
+Archetyp dieses sehr erfolgreichen Konzeptes war die von Johannes Juul konstruierte und 1957 in Betrieb genommene Gedser-Windkraftanlage.
+Sie arbeitete bis zu ihrer vorläufigen Stilllegung 1966 und wurde 1977 für ein gemeinsames Testprogramm von dänischen Wissenschaftlern und NASA für einige Jahre wieder in Betrieb genommen.
+
+Auf Basis dieser nach heutigen Maßstäben kleinen Anlagen fand dann in den 1990er und 2000er Jahren die weitere Entwicklung hin zu Großturbinen mit variabler Drehzahl und verstellbaren Rotorblättern statt.
+Seither ist Dänemark das Land mit dem größten Windkraftanteil an der Stromerzeugung.
+
+=== Technische Entwicklung seit den 1990er Jahren bis heute
+
+Mit dem Stromeinspeisungsgesetz von 1991 begann der Aufschwung der Windenergie auch in Deutschland; er setzte sich mit dem Erneuerbare-Energien-Gesetz (in Kraft seit dem 1. April 2000) fort.
+Diese politischen Rahmenbedingungen trugen dazu bei, dass deutsche Windkraftanlagenhersteller heute weltweit zu den Technologie- und Weltmarktführern zählen.
+
+Im Bestreben nach immer niedrigeren Stromgestehungskosten wurden die Windkraftanlagen im Laufe der Entwicklung sukzessive größer.
+Die mittlere Nennleistung der in Deutschland neu installierten Windkraftanlagen betrug 164 kW im Jahr 1990, im Jahr 2000 erstmals über 1 MW, im Jahr 2009 erstmals über 2 MW.
+Im Jahr 2011 lag sie bei über 2,2 MW, wobei Anlagen mit einer installierten Leistung von 2,1 bis 2,9 MW mit einem Anteil von 54 % dominierten.
+Ein weiterer Anstieg der durchschnittlichen Nennleistung ist absehbar: bei Onshore-Windkraftanlagen wird die 3-MW-Klasse eingeführt, in den zunehmend gebauten Offshore-Windparks werden hauptsächlich Großanlagen mit 3,6 bis 6 MW errichtet.
+
+Zur Leistungserhöhung wurde u. a. der Rotordurchmesser größer.
+Eine Verdopplung der Rotorblattlänge bewirkt gemäß der Kreisformel eine Vervierfachung der Rotorfläche.
+Noch bis Ende der 1990er Jahre lag der Durchmesser neu errichteter Anlagen meist unter 50 Meter, nach etwa 2003 meist zwischen 60 und 90 Meter.
+Bis 2018 wuchs der durchschnittliche Rotordurchmesser auf 118 m, die durchschnittliche Nabenhöhe auf 132 m und die Nennleistung auf 3,233 MW, mit deutlichen Unterschieden aufgrund regionaler Windhöffigkeit.
+Weltweit überstieg die Durchschnittsleistung neu installierter Anlagen im Jahr 2017 erstmals die 2,5-MW-Marke.
+
+Moderne Schwachwindanlagen haben mittlerweile Rotordurchmesser bis über 140 Meter und Nabenhöhen bis über 160 Meter.
+Im Offshore-Bereich sind neue Baureihen mit Rotordurchmessern von 160 bis 170 Metern und bis etwa 9 MW Nennleistung erhältlich.
+Enercon setzt seit ca. 1995 auf getriebelose Anlagen und war zunächst lange der einzige Hersteller mit Direktantrieb; mittlerweile nutzen jedoch deutlich mehr Hersteller ein getriebeloses Design, das inzwischen als "zweite Standardbauweise" gilt.
+Im Jahr 2013 betrug der weltweite Marktanteil der getriebelosen Anlagen 28,1 %.
+
+Windkraftanlagen wurden bis etwa 2010 stationär per Dockmontage gefertigt.
+Seitdem setzen Hersteller aus Kostengründen zunehmend auf Serienfertigung im Fließbandverfahren und auf eine Industrialisierung und Standardisierung ihrer Produkte.
+Parallel dazu setzen sich - wie im Automobilbau seit langem Standard - modulare Plattformstrategien durch, bei denen auf der gleichen technischen Basis Anlagentypen bzw. -varianten für verschiedene Windklassen entwickelt werden, z. B. durch unterschiedliche Rotorgrößen bei weitgehend identischem Triebstrang oder unterschiedlichen Generatorkonzepten bei gleichem Rotordurchmesser.
+
+Nicht alle neu installierten Anlagen stehen an neuen Standorten:
+Teilweise werden alte Anlagen abgebaut und durch leistungsstärkere ersetzt, was als Repowering bezeichnet wird.
+Innerhalb von Windparks sinkt dabei in der Regel die Anzahl der Einzelanlagen, während die installierte Leistung und Ertrag steigen.
+
+== Energieangebot und -ertrag
+
+=== Leistungsdichte des Windes
+
+Die Dichte der kinetischen Energie der Strömung steigt quadratisch mit der Windgeschwindigkeit v und hängt von der Luftdichte  ab:
+
+Bei einer Windgeschwindigkeit von 8 m/s ( Windstärke 4 Bft) beträgt sie knapp 40 J/ m^3.
+
+Diese Energie wird mit dem Wind herantransportiert.
+In der freien Strömung weit vor dem Rotor der Windkraftanlage beträgt die Leistungsdichte dieses Transports
+
+im Beispiel also 320 W/m^2.
+
+Aufgrund dieses starken Anstiegs der Leistungsdichte mit der Windgeschwindigkeit sind windreiche Standorte besonders interessant.
+Die Turmhöhe spielt dabei eine große Rolle, besonders im Binnenland, wo Bodenrauigkeit (Bebauung und Vegetation) die Windgeschwindigkeit verringert und den Turbulenzgrad erhöht.
+
+=== Verlustloser Leistungsbeiwert
+
+Die Leistungsfähigkeit eines Windrotors wird üblicherweise ausgedrückt, indem seine an die Welle abgegebene Leistung auf die Rotorfläche und auf die Leistungsdichte des Windes bezogen wird.
+Dieser Bruchteil wird nach Albert Betz als Leistungsbeiwert cP bezeichnet, umgangssprachlich auch als Erntegrad.
+Er leitete 1920 aus grundlegenden physikalischen Prinzipien einen maximal erreichbaren Leistungsbeiwert ab.
+Der Grund ist, dass durch die Leistungsentnahme die Strömungsgeschwindigkeit sinkt, die Luftpakete in Strömungsrichtung kürzer werden und die Stromlinien ihre Abstände zueinander vergrößern, siehe Abbildung.
+Je stärker der Wind abgebremst wird, desto mehr strömt ungenutzt am Rotor vorbei.
+Das Optimum von 16/27 = 59,3 % würde durch einen verlustlosen Rotor erreicht, der die Strömung durch einen Staudruck von 8/9 der Energiedichte des Windes auf 1/3 der Windgeschwindigkeit abbremst.
+Der Rest dieser Leistung befindet sich noch in der Strömung: 1/3 = 9/27 in den Stromfäden, die dem Rotor ausgewichen sind, 1/9 von 2/3 = 2/27 in der abgebremsten Luftmasse.
+
+=== Leistungsgrenzen und Verluste
+
+Wie alle Maschinen erreichen auch reale Windkraftanlagen das theoretische Maximum nicht.
+Aerodynamische Verluste ergeben sich durch Luftreibung an den Blättern, durch Wirbelschleppen an den Blattspitzen und durch Drall im Nachlauf des Rotors.
+Bei modernen Anlagen reduzieren diese Verluste den Leistungsbeiwert von cP,Betz  0,593 auf cP = 0,4 bis 0,5.
+Von den genannten 320 W/m^2 sind also bis zu 160 W/m^2 zu erwarten.
+Ein Rotor mit 113 m Durchmesser (10.000 m^2 Fläche) gibt dann 1,6 Megawatt an die Welle ab.
+Zur Berechnung der Leistung am Netzanschluss müssen zusätzlich noch die Wirkungsgrade aller mechanischen und elektrischen Maschinenteile berücksichtigt werden.
+
+Der Leistungsbeiwert des Rotors wird beim Vergleich verschiedener Bauarten oft überbewertet.
+Ein um zehn Prozent niedrigerer Leistungsbeiwert kann durch eine fünfprozentige Erhöhung des Rotordurchmessers ausgeglichen werden.
+Für den wirtschaftlichen Erfolg ist es von höherer Bedeutung, mit gegebenem Materialeinsatz eine möglichst große Rotorfläche abzudecken.
+In dieser Hinsicht ist die heute übliche Bauform mit horizontaler Drehachse und wenigen schlanken Rotorblättern anderen Bauformen überlegen.
+
+=== Ertrag
+
+Zur Abschätzung des Jahresertrages wird für den Standort der Windkraftanlage die sogenannte mittlere Windgeschwindigkeit angegeben.
+Sie ist ein Durchschnittswert der über das Jahr auftretenden Windgeschwindigkeiten.
+Die untere Grenze für den wirtschaftlichen Betrieb einer Anlage liegt, abhängig von der Einspeisevergütung, bei einer mittleren Windgeschwindigkeit von etwa 5-6 m/s auf Nabenhöhe.
+Dabei sind jedoch noch weitere Faktoren zu berücksichtigen.
+
+Ein Windgutachten auf Basis der Häufigkeitsverteilung der Windgeschwindigkeit für einen Standort dient der optimalen Wahl der Nennwindgeschwindigkeit (meist das 1,4- bis 2fache der mittleren Windgeschwindigkeit) bzw. bei gegebenen Anlagendaten der Abschätzung der pro Jahr erzeugten Energie, branchenüblich als Volllaststunden angegeben.
+Abhängig von verschiedenen Faktoren wie z. B. Standortgüte und Anlagenauslegung erreichen Windkraftanlagen etwa zwischen 1400 und 5000 Volllaststunden im Jahr.
+Das entspricht einem Nutzungsgrad von 16 bis 57 Prozent.
+
+Über Rechenprogramme im Internet lässt sich der Ertrag bestimmter Anlagen unter zu wählenden Bedingungen näherungsweise bestimmen.
+Aufschluss über die tatsächlichen Erträge eines Standortes können jedoch nur auf Windmessungen basierende Windgutachten geben.
+Dabei ist der Turbulenzgrad aufgrund topografischer Gegebenheiten, Vegetation, höherer Bauten oder benachbarter Windkraftanlagen zu berücksichtigen.
+Die Ertragsminderung durch verminderte Windgeschwindigkeit und Turbulenz hinter anderen Windkraftanlagen wird als Wake- oder Nachlaufverlust bezeichnet.
+
+Da das Leistungsangebot mit der dritten Potenz der Windgeschwindigkeit steigt, ist es sinnvoll, die Anlage für eine deutlich höhere als die mittlere Windgeschwindigkeit auszulegen.
+Ihre Nennleistung, manchmal als installierte Leistung bezeichnet, erreicht eine Windkraftanlage bei der Nennwindgeschwindigkeit.
+Darüber wird die Leistung der Anlage konstant gehalten, um Überlastungen zu vermeiden.
+Bei sehr großen Windgeschwindigkeiten (Sturm) wird die Anlage ganz abgeschaltet (Details siehe unten im Abschnitt: Regelung und Betriebsführung).
+
+Bei gegebenen Investitionskosten kann die Nennleistung auf Kosten der Rotorfläche erhöht werden oder umgekehrt.
+Eine Anlage mit höherer Nennleistung nutzt einen größeren Teil des Energieangebotes aus, eine Anlage mit größerem Rotor speist unterhalb der Nennwindgeschwindigkeit mehr Leistung in das Stromnetz ein.
+Bei Onshore-Anlagen in Deutschland, wo v. a. Anlagen mit vergleichsweise hohen Nennleistungen zum Einsatz kommen, wurden im Mittel der letzten Jahre ca. 1640 Volllaststunden erreicht, wobei bei neu installierten Windkraftanlagen deutlich bessere Ergebnisse erzielt werden als bei älteren Modellen.
+So erreichten Anlagen mit Baujahr um 2010 knapp 2000 Volllaststunden, 2013 errichtete Anlagen rund 2150 Volllaststunden.
+Erwartet wird, dass die Volllaststunden von Anlagen an Land im Schnitt auf mindestens 2250 VLS ansteigen werden, während Offshore mit 4500 VLS gerechnet wird.
+In anderen Ländern liegen die Kapazitätsfaktoren z. T. deutlich höher.
+In den USA, wo 2015 noch keine Offshore-Windparks in Betrieb waren, erreichen Windkraftanlagen beispielsweise vergleichsweise hohe Kapazitätsfaktoren von 30-40 %, entsprechend etwa 2600-3500 Volllaststunden.
+
+Tendenziell ist onshore wie offshore ein Trend zu höheren Kapazitätsfaktoren erkennbar, ausgelöst durch größere Nabenhöhen sowie eine höhere Rotorfläche pro kW installierter Leistung.
+Auch wurden seit etwa 2010 von mehreren Herstellern sog. Schwachwindanlagen mit besonders großer spezifischer Rotorfläche (ca. 4,5 - 5 m^2/kW) entwickelt, mit denen auch auf windschwächeren Standorten deutlich mehr Volllaststunden als oben angegeben erreicht werden können.
+Der vergleichsweise schwächer ausgelegte Triebstrang und Generator führt nur zu geringen Einbußen bei der jährlichen Stromerzeugung, senkt jedoch die auf die Anlage wirkenden mechanischen Lasten, erhöht die Volllaststundenzahl und wirkt sich positiv auf die Windleistungsprognose aus.
+Zugleich verstetigt sich die Windstromproduktion, der Ausbaubedarf des Stromnetzes wird geringer und die Stromgestehungskosten sinken.
+
+Beispiele für derartige Schwachwindanlagen sind die Nordex N131/3000, die GE 2.5-120 oder die Gamesa G114-2.0.
+Mit Nabenhöhen von 130 m und mehr erzielen solche Anlagen unter Referenzbedingungen über 3500 Volllaststunden; beispielsweise liegt die Nordex N117/2400 mit einer Nabenhöhe von 141 m bei ca. 3960 Volllaststunden.
+Für die Zukunft wird erwartet, dass der Trend in Richtung Schwachwindanlage anhält und die Rotorfläche weiterhin schneller ansteigt als die Generatorleistung.
+Jedoch ist es auch für windhöffigere Standorte sinnvoll, die Rotorfläche pro Nennleistung zu erhöhen, um die Volllaststunden zu vermehren und die Kosten zu senken.
+
+== Bauformen
+
+Je nach dem aerodynamischen Prinzip, das zur Erzeugung der Drehbewegung genutzt wird, werden Windkraftanlagen in Widerstands- und Auftriebsläufer unterschieden.
+
+Ein Widerstandsläufer ist ein Anlagentyp dessen Wirkungsweise vorwiegend auf der Ausnutzung des Strömungswiderstandes basiert, wie bei der bis ins 7. Jahrhundert zurückverfolgten persischen Windmühle.
+
+Beim Auftriebsläufer wird der dynamische Auftrieb genutzt.
+Die schmaleren, profilierten Rotorblätter dieser Anlagen bewegen sich viel schneller und quer zum Wind.
+So lässt sich mit geringerem Materialaufwand eine große Fläche abernten.
+Besonders bei kleineren Windgeneratoren ist dieses Prinzip durch verschiedene Bauformen verwirklicht worden, darunter einfache Versionen der im folgenden Kapitel ausführlich besprochenen eigentlichen Windkraftanlagen, also Bauformen mit einem sternförmigen Rotor mit wenigen (meist drei) Blättern, die vor einem Mast oder Turm um eine horizontale Achse rotieren.
+Diese Anlagen werden in der Fachliteratur gelegentlich auch als HAWT d. h. horizontal axis wind turbine (Windkraftanlage mit horizontaler Achse) bezeichnet.
+
+Der für diese Anlagen nötige aktive Windnachführungsmechanismus kann bei sogenannten Leeläufern, bei denen der Rotor hinter dem Turm läuft, unter Umständen entfallen, da der Wind den Rotor automatisch in die richtige Richtung drehen kann.
+In der Praxis sind solche Konzepte jedoch nur schwer umzusetzen und mit gravierenden Problemen behaftet.
+Hierzu zählt insbesondere die Gefahr schneller Gondeldrehungen mit den sich daraus ergebenden hohen Biegebelastungen für die Rotorblätter.
+Erfolgreiche Anlagen mit passiver Windrichtungsnachführung sind nur im Bereich kleiner und mittlerer Leistungen dokumentiert, erfolgreiche Großanlagen wurden hingegen nicht realisiert.
+
+Auftriebsläufer lassen sich auch mit vertikaler Rotationsachse realisieren (VAWT nach englisch vertical axis wind turbine).
+Unter diesen dominieren Darrieus-Rotoren, die bis in den mittleren Leistungsbereich gebaut werden, in klassischer 'Schneebesenform' oder als H-Darrieus-Rotor, dessen Blätter beim Umlauf einen Zylindermantel bilden.
+Bei einer vertikal stehenden Rotationsachse muss der Rotor der Windrichtung nicht nachgeführt werden.
+Allerdings stehen die Blätter in Teilbereichen des Umlaufs ungünstig zur Strömung, die Blattfläche muss entsprechend vergrößert werden.
+Durch zyklische Lastwechsel treten Schwingungen und Belastungen der gesamten Konstruktion auf.
+Der konstruktive Mehraufwand, zusammen mit dem Leistungsbeiwert von durchschnittlich 0,3 im Vergleich zu 0,4 bis 0,5 bei Rotoren mit horizontaler Drehachse erklärt den geringen Marktanteil.
+
+Eine Bauform des H-Darrieus-Rotors mit wendelförmig gebogenen Blättern hat ein gleichmäßigeres Drehmoment als der klassische H-Rotor und benötigt so keine Anfahrhilfe, wie sie bei klassischen Darrieus-Rotoren mit hoher Schnelllaufzahl erforderlich ist.
+Savonius-Rotoren kommen aufgrund ihrer geringen Schnelllaufzahl und dem niedrigen Leistungsbeiwert zur Stromerzeugung nicht in Frage, sind aber für den Einsatz als Windpumpe geeignet.
+
+== Auslegung des Rotors
+
+=== Schnelllaufzahl
+
+Optimiert wird ein Rotor für den Bereich unterhalb der Nennleistung des Generators.
+Eine für die Auslegung jeglicher Strömungsmaschine wichtige Kennzahl ist die Schnelllaufzahl  {\displaystyle \lambda } (lambda).
+Sie gibt das Verhältnis der Umfangsgeschwindigkeit des Rotors zur (hier) Windgeschwindigkeit an.
+Bei gleicher Schnelllaufzahl scheinen sich große Rotoren im Vergleich zu kleineren gemächlich zu drehen.
+Übliche Dreiblattrotoren haben heute Schnelllaufzahlen von 7 bis 8. Nebenstehende Abbildung zeigt die Geschwindigkeits-, Kraft- und Winkelverhältnisse für solch eine Schnelllaufzahl an einem Blattquerschnitt bei etwa 2/3 des Radius.
+
+Das Drehmoment ist umgekehrt proportional zu  {\displaystyle \lambda } , d. h., bei niedrigeren Schnelllaufzahlen erhöht sich das Drehmoment, was einen größeren Generator oder ein kräftigeres Getriebe mit höherer Übersetzung nötig macht und den Wirkungsgrad senkt, weil der den Rotor durchsetzende Luftstrom in Rotation versetzt wird.
+Dazu kommen Verluste durch die Umströmung der Blattspitzen.
+Dieser induzierte Widerstand nimmt mit der Zahl der Blätter und mit der Schnelllaufzahl ab.
+Mit steigender Schnelllaufzahl sind daher weniger Blätter notwendig, um den induzierten Widerstand auf einem konstant niedrigen Niveau zu halten (prinzipiell proportional zu 1 /  {\displaystyle 1/\lambda } , aber die Blattanzahl muss natürlich eine ganze Zahl sein).
+Wegen der Proportionalität des Auftriebs zur Blattfläche und zum Quadrat der Strömungsgeschwindigkeit ist mit steigender Schnelllaufzahl außerdem weniger gesamte Blattfläche (proportional zu 1 /  2 {\displaystyle 1/\lambda ^{2}} ) notwendig, um die gesamte Rotorfläche abzuernten.
+
+Eine größere Blattfläche als nötig, bei geringerem Auftriebsbeiwert, wird vermieden, weil das zu erhöhtem Luftwiderstand führen würde.
+Zudem senkt eine kleinere Windangriffsfläche der im Sturm stillgelegten Anlage die mechanische Belastung der gesamten Struktur, vom Rotor über den Turm bis zum Fundament.
+Schlanke Blätter mit geringer Fläche bedingen aber ein Stabilitätsproblem.
+Da die Biegefestigkeit und Verwindungssteifigkeit überproportional mit der Profildicke zunehmen, wird die gesamte Blattfläche, unter Beachtung obiger Zusammenhänge, auf möglichst wenig Blätter aufgeteilt.
+
+Ohne die Festigkeitsproblematik müsste nach dem bisher Gesagten die Schnelllaufzahl sehr hoch gewählt werden.
+Jedoch wird mit dementsprechend flacheren Anströmwinkel ein immer kleinerer Anteil des aerodynamischen Auftriebs als Vortrieb wirksam (siehe Abbildung), während der Strömungswiderstand etwa gleich bleibt.
+Bei einer Schnelllaufzahl, die der Gleitzahl des Profils entspricht, liefert das Profil keinen Vortrieb mehr (im Außenbereich der Blätter).
+
+=== Anzahl der Rotorblätter
+
+Zu jeder Anzahl von Blättern und ansonsten je nach Schnelllaufzahl optimierter Geometrie gibt es deshalb eine optimale Schnelllaufzahl, bei der der Leistungsbeiwert maximal wird.
+Das Maximum ist allerdings jeweils recht flach.
+Es liegt für Ein-, Zwei- und Dreiblattrotoren bei 15, 10 bzw. 7 bis 8.
+
+Die Höhe des Maximums nimmt mit der Zahl der Blätter zunächst zu, von Ein- zu Zweiblattrotoren um etwa 10 %, zu drei Blättern allerdings nur noch um 3 bis 4 %.
+Dieser geringe Zuwachs allein rechtfertigt kein drittes Rotorblatt.
+Jedoch sind Dreiblatt-Rotoren leiser und schwingungstechnisch einfacher beherrschbar als Zweiblatt-Rotoren.
+Die beiden bedeutendsten Gründe dafür sind:
+
+Maßnahmen gegen diese Lastspitzen sind Pendelnaben, elastische Lagerung des gesamten Triebstranges sowie ein überlastsicherer Antrieb der Windrichtungsnachführung.
+Diese erfordern jedoch höheren Bauaufwand und stellen eine potentielle Fehlerquelle dar, die sich in einem größeren Wartungs- und Reparaturaufwand und damit höheren Stillstandszeiten äußern kann.
+Nachdem Zweiflügler in der Vergangenheit eine gewisse Rolle spielten, werden heutzutage nahezu ausschließlich Anlagen mit drei Rotorblättern und starrer Nabe gebaut, die technisch einfacher beherrschbar sind als Anlagen mit weniger als drei Rotorblättern und sich im Laufe der Entwicklungsgeschichte deshalb als wirtschaftlich-technisch optimales Konzept herauskristallisierten.
+
+Allerdings besitzen Zweiflügler gerade im Offshore-Einsatz theoretische Vorteile, sodass - die Beherrschung des problematischen dynamischen Verhaltens vorausgesetzt - die Möglichkeit besteht, dass Zweiflügler in diesem Bereich in Zukunft wieder eine größere Rolle spielen werden.
+So sind im Offshore-Einsatz Lärmemissionen weniger relevant, wodurch sich die Rotordrehzahl durch Verzicht auf das dritte Blatt erhöhen und zugleich die nötige Getriebeübersetzung verringern lässt.
+Auch wäre mit Zweiblattrotoren eine einfachere Logistik und Installation möglich.
+Im Offshore-Einsatz könnten Zweiblattanlagen damit trotz der bisher eher negativen Erfahrungen aus Kostengründen einen Vorteil gegenüber Dreiblattanlagen haben.
+Drastische Kostensenkungen gegenüber der Standardbauart, durch die die Stromgestehungskosten in einer ganz anderen Größenordnung liegen, werden aber für unrealistisch gehalten.
+Das größere Potential für Kostensenkung liegt in größeren Bauserien sowie der weiteren Optimierung bestehender Konzepte.
+Bisher kam es jedoch zu keiner Rückkehr der Zweiflügler, lediglich einzelne Prototypen werden errichtet.
+
+=== Typenklasse (Windklasse)
+
+Windkraftanlagen können für verschiedene Windklassen zugelassen werden.
+International ist die Norm IEC 61400 am geläufigsten.
+In Deutschland gibt es zudem die Einteilung des Deutschen Institutes für Bautechnik (DIBt) in Windzonen.
+Die IEC-Windklassen spiegeln die Auslegung der Anlage für windstarke oder windschwache Gebiete wider.
+Charakteristisch für Schwachwindanlagen sind größere Rotordurchmesser bei gleicher Nennleistung.
+Mittlerweile existieren Anlagen, die pro kW Nennleistung 4-5 m^2 Rotorfläche aufweisen, während gängige Starkwindanlagen bei 1,5-2,5 m^2 pro kW Nennleistung liegen.
+Oft haben Schwachwindturbinen ein angepasstes Blattprofil und eine größere Nabenhöhe.
+
+Als Bezugswerte werden die durchschnittliche Windgeschwindigkeit in Nabenhöhe und ein Extremwert des 10-Minuten-Mittels verwendet, der statistisch nur ein Mal innerhalb von 50 Jahren auftritt.
+
+== Bestandteile und Technik von Windkraftanlagen
+
+Eine Windkraftanlage besteht im Wesentlichen aus einem Rotor mit Nabe und Rotorblättern sowie einer Maschinengondel, die den Generator und häufig ein Getriebe beherbergt.
+Es gibt auch getriebelose Anlagen.
+Die Gondel ist drehbar auf einem Turm gelagert, dessen Fundament die notwendige Standsicherheit gibt.
+Dazu kommen die Überwachungs-, Regel- und Steuerungssysteme sowie die Netzanschlusstechnik in der Maschinengondel und im Fuß oder außerhalb des Turmes.
+
+=== Rotorblätter
+
+Heutige Windkraftanlagen verfügen fast ausnahmslos über drei Rotorblätter.
+Diese sind elementarer und prägender Bestandteil einer Windkraftanlage.
+Mit ihnen wird der Strömung Energie entnommen und dem Generator zugeführt.
+Sie sind für einen wesentlichen Teil der Betriebsgeräusche verantwortlich und werden daher nicht nur auf einen hohen Wirkungsgrad, sondern insbesondere nahe den Blattspitzen auch auf Geräuschminderung hin optimiert (siehe z. B. Hinterkantenkamm).
+Die maximale Blattlänge aktueller Windkraftanlagen liegt Stand 2013 bei rund 65 Metern im Onshore- und 85 Metern im Offshore-Bereich.
+Das Gewicht solcher Blätter beträgt etwa 25 Tonnen.
+Zum einfacheren Transport kommen zunehmend sog. Rotorblattadapter zum Einsatz, mit denen die Flügel beim Passieren enger Straßen oder der Passage durch unwegsames Gelände auf dem letzten Transportabschnitt nach oben geschwenkt werden können.
+Rotorblätter bestehen in der Regel aus glasfaserverstärktem Kunststoff und werden zumeist in Halbschalen-Sandwichbauweise mit Versteifungsholmen oder -stegen im Inneren hergestellt.
+Vermehrt kommen bei langen Rotorblättern Kohlenstofffasern zum Einsatz, vor allem bei hohen Belastungen ausgesetzten Starkwind- und Offshore-Anlagen, aber ebenfalls bei Schwachwindanlagen mit großen Rotordurchmessern.
+Die Kräfte in Längsrichtung werden von Gurten aus Glas- oder Kohlenstofffasern aufgenommen.
+Diese Gurte bestehen entweder aus Endlosfasern, sogenannten Rovings, oder Gelegen.
+
+Da Blitzeinschläge an großen Windkraftanlagen nicht zu vermeiden sind, sind die Rotorblätter mit einem Blitzschutzsystem ausgestattet.
+In der Nähe der Blattspitze befinden sich an der Oberfläche des Rotorblatts ein oder mehrere Punkte aus Metall (die sog. Rezeptoren).
+An diesen schlagen Blitze bevorzugt ein.
+Alternativ werden Blattspitzen aus Aluminium verwendet.
+Von dort aus werden die Ströme über im Blatt integrierte metallische Leiter über Gondel und Turm in den Boden abgeleitet, wobei die Überbrückung von Lagern (Blattlager, Rotorhauptlager, Turmkopflager) durch Funkenstrecken oder Schleifringe realisiert wird.
+Statistisch wird eine Windkraftanlage alle zehn Jahre von einem Blitz getroffen, in exponierten Mittelgebirgen deutlich häufiger.
+
+Mit einer leichten Sichelform im äußeren Bereich der Rotorblätter weichen in Böen die Blattspitzen nach Lee aus.
+Die damit einhergehende Verwindung der Blätter mindert den Anströmwinkel und damit die Windlast.
+Entsprechend kann Material gespart werden.
+Zudem lassen sich Rotorblätter mit Turbulatoren wie Vortex-Generatoren und Zackenbändern ausrüsten.
+Ein relativ neuer Trend in der Formgebung von Rotorflügeln sind Tuberkel auf der Oberfläche und Kämme an der Flügelhinterkante.
+Diese Maßnahmen ermöglichen sowohl eine Ertragssteigerung um wenige Prozent als auch eine Geräuschreduktion im Betrieb.
+
+Ein mögliches Phänomen an den Blättern ist Eisbildung.
+Sie mindert den Wirkungsgrad, da sie die Form und damit das aerodynamische Profil der Blätter verändert.
+Auch Unwucht des Rotors kann eine Folge sein.
+Herabfallende oder durch die Drehbewegung weggeschleuderte Eisbrocken stellen eine Gefahr unterhalb der Rotorblätter und in der näheren Umgebung dar.
+Als Sicherheitsabstand wird daher die 1,5-fache Summe aus Turmhöhe und Rotordurchmesser empfohlen.
+Die Anlagen schalten sich bei Eisansatz automatisch ab, der in der Regel durch eine Änderung der intern aufgezeichneten Leistungskurve (Leistung und Wind passen wegen schlechterer Aerodynamik nicht mehr zusammen) und durch Beobachtung der Temperatur oder Unwucht am Rotor ermittelt wird.
+Die Rotorblätter einiger Firmen können mit einem Rotorblattenteisungssystem ausgerüstet werden.
+Dieses soll Eisansatz an Blättern vermindern beziehungsweise das Abtauen beschleunigen.
+Die Heizung hat eine Leistung im ein- bis zweistelligen Kilowattbereich pro Rotorblatt, was jedoch wenig ist gegenüber der eingespeisten Leistung (mehrere hundert bis einige tausend Kilowatt).
+Bei einigen Anlagen wird zur Blattheizung die Abluft aus der Gondel (dem Generatorhaus auf dem Turm) durch die Rotorblätter gepumpt, so dass die Abwärme von Generator und Stromwandler genutzt wird.
+Eisabbruch wurde schon mehrfach dokumentiert, jedoch keine Personen- oder Sachschäden, da er wegen der verschlechterten Aerodynamik nur bei geringer Drehzahl oder im Trudelbetrieb nach Eisabschaltung auftritt.
+
+=== Maschinenhaus
+
+Im Maschinenhaus, auch als Gondel bezeichnet, sind der Triebstrang, ein Teil der elektrischen Ausrüstung, die Windrichtungsnachführung, die Rotorkopflagerung, sowie Hilfsausrüstung wie z. B. Kühlsysteme, Elektronik usw. untergebracht.
+Obwohl damit die Montage des Maschinenhauses sowie die Zugänglichkeit und Wartung der Aggregate im Maschinenhaus komplizierter ist als bei anderen Konzepten, hat sich diese Bauweise aufgrund ihrer Vorteile (kurze mechanische Übertragungswege, geringe dynamische Probleme) als Standardlösung durchgesetzt.
+Gewöhnlich sind bei älteren Anlagen die Triebstrangkomponenten in der Regel hintereinander auf einer tragenden Bodenplatte angeordnet.
+Bei neueren Anlagen verbreiten sich im vorderen Teil des Maschinenhauses zunehmend gegossene Maschinenträger, die Rotorlasten sowie das Eigengewicht der Gondel direkt in den Turm leiten, während Generator und Hilfsaggregate im hinteren Bereich der Gondel auf einer leichteren Stahlblechkonstruktion ruhen.
+Auch Öl- und Hydraulikversorgung, Heizung, Datenerfassungs- und Verarbeitungssysteme, Brandmelde- und ggf. Feuerlöschanlagen sind im Maschinenhaus installiert.
+In vielen Anlagen finden sich Kransysteme, mit denen einzelne Systemkomponenten ohne Einsatz eines aufwendigen mobilen Kranes gewartet oder ausgetauscht werden können.
+Auf dem Maschinenhaus sind in der Regel Umweltsensoren montiert, bei manchen Offshore-Anlagen auch eine Hubschrauberplattform.
+
+==== Maschinenstrang
+
+Zum mechanischen Triebstrang zählen alle sich drehenden Teile, d. h. Nabe, Rotorwelle und ggf. Getriebe.
+Lange Zeit wurden vorwiegend Anlagen mit zumeist dreistufigem Getriebe und Asynchrongeneratoren sowie getriebelose Anlagen mit fremderregtem Synchrongenerator verwendet (letztere fast ausschließlich durch das Unternehmen Enercon).
+Seit Ende der 2000er Jahre ist jedoch eine starke Ausdifferenzierung der Antriebsstränge sowie ein Trend zu direktangetriebenen Windkraftanlagen mit Permanentmagnetgenerator zu beobachten.
+Gerade bei Offshore-Anlagen gibt es einen Trend zu getriebelosen WKA.
+
+Obwohl zugleich Teil des Rotors, stellt die Rotornabe die erste Komponente des mechanischen Triebstrangs dar.
+In Windkraftanlagen mit Pitchregelung (Blattverstellung), wie sie seit Jahren Standard sind, sind die Komponenten zur Blattverstellung in der Rotornabe untergebracht.
+Hierzu zählen z. B. die elektrischen oder hydraulischen Stellmotoren und deren Notenergieversorgung, um auch im Falle einer Netzunterbrechung die Anlage sicher bremsen und abschalten zu können.
+Da die Rotornabe zu den mechanisch höchstbelasteten Teilen einer Windkraftanlage zählt, kommt ihrer Fertigung besondere Bedeutung zu.
+Rotornaben großer Anlagen bestehen zumeist aus Stahlguss, speziell Kugelgraphitguss.
+In der Vergangenheit auch Bauformen aus Stahlblech oder Schmiedeteile verbreitet.
+
+Heutzutage kommen bei größeren Serienmaschinen praktisch ausschließlich starre Naben zum Einsatz.
+Früher wurde mit Schlaggelenk und Pendelnabe experimentiert, um die mechanische Belastung der Gesamtanlage reduzieren zu können.
+Nachteilig sind die Komplexität, höhere Kosten und Störanfälligkeit.
+Es wird daher üblicherweise nur zwischen Naben mit fest installierten Rotorblättern und Naben mit Pitchregelung unterschieden.
+
+Ein Übersetzungsgetriebe dient der Erhöhung der Drehzahl.
+Je schneller ein Generator läuft, desto kleiner kann er ausgelegt werden.
+Getriebe sind üblich, aber technisch nicht zwingend notwendig:
+Getriebelose Designs waren bis etwa 2005 nur wenig verbreitet, seither gewinnen sie Marktanteile.
+Mittlerweile ist das Getriebe zu einer Zulieferkomponente geworden, die mit gewissen Anpassungen durch die Hersteller aus der Serienfertigung übernommen wird.
+Getriebeprobleme resultierten in der Vergangenheit häufig aus zu schwach dimensionierten Getrieben.
+Moderne Anlagen werden laut Hau (2014) angemessen ausgelegt.
+
+Üblicherweise sind Windkraftgetriebe mehrstufig gestaltet; die Bandbreite reicht von einer bis vier Getriebestufen.
+Während bei kleinen Anlagen bis ca. 100 kW häufig reine Stirnradgetriebe zum Einsatz kommen, werden bei größeren Anlagen aufgrund hoher Lagerreaktionskräfte bei Stirnradgetrieben zumindest für die erste Getriebestufe Planetengetriebe verwendet.
+Bei Anlagen über 2,5 MW kommt auch bei der zweiten Stufe ein Planetengetriebe zum Einsatz.
+Diese besitzen üblicherweise drei bis fünf Planeten und damit mehrere Eingriffspunkte, wodurch die einzelnen Komponenten durch die Aufteilung des Drehmomentes entlastet werden und zugleich das Getriebe kompakter gebaut werden kann.
+Auch lässt sich auf diese Weise eine Leistungsverzweigung erreichen.
+
+Die letzte Getriebestufe ist in aller Regel als Stirnradstufe ausgeführt, sodass ein Achsversatz zwischen Eingangs- und Ausgangswelle erreicht wird.
+So ist mittels einer Hohlwelle eine einfache Durchführung von Energieversorgung und Steuerungskabeln für die in der Nabe befindlichen Pitch-Motoren durch das Getriebe hindurch möglich, ohne dass diese auch durch den Generator geführt werden müssen.
+
+Ebenfalls zum Antriebsstrang gehört eine Bremse, deren Art von der Wahl der Rotorblattsteuerung abhängt.
+Bei Anlagen mit Stallregelung muss die Bremse in der Lage sein, die gesamte Bewegungsenergie des Rotors und des Generators im Notfall aufzunehmen.
+Sie muss deshalb sehr leistungsfähig sein.
+Teilweise wird sie auch als Betriebsbremse eingesetzt, um die Rotordrehzahl bei Windböen innerhalb der Toleranzen zu halten.
+Hierzu kommen meist große Scheibenbremsen zum Einsatz.
+Anlagen mit aktiver Stallregelung und Pitchregelung können die Rotorblätter aus dem Wind drehen und aerodynamisch abbremsen.
+Eine mechanische Bremsanlage fällt dann kleiner aus oder kann sogar ganz entfallen.
+Alle Anlagen müssen mit zwei voneinander unabhängigen Bremssystemen ausgerüstet sein.
+Dazu zählen unabhängig voneinander verstellbare Rotorblätter.
+
+Zertifizierungsgesellschaften wie z. B. der Germanische Lloyd setzen Vorgaben fest für die Teile des Antriebsstranges in Bezug auf Geräusche, Schwingungsverhalten und Lastprofile.
+Dies ist von großer Bedeutung, da diese Teile außergewöhnlichen Beanspruchungen unterliegen.
+
+==== Generator
+
+Für die Umwandlung mechanischer in elektrische Leistung werden Drehstrom-Asynchron- oder -Synchron-Generatoren eingesetzt.
+Der Generator wird auf Lebensdauer, Gewicht, Größe, Wartungsaufwand, Kosten und Wirkungsgrad optimiert, wobei sich Wechselwirkungen mit Getriebe und der Netzanbindung ergeben.
+Die Drehzahl des Generators (und damit des Rotors) kann konstant, zweistufig (für niedrige und hohe Windgeschwindigkeit) oder stufenlos anpassbar sein.
+Für niedrige Drehzahlen, wie sie bei getriebelosen Anlagen (sog. Direktantrieb) vorliegen, sind Synchrongeneratoren notwendig.
+
+Die einfachste Art eines Asynchrongenerators ist ein solcher mit Kurzschlussläufer.
+Ist er nicht polumschaltbar, kann man ihn direkt am Netz nur mit einer Drehzahl betreiben: bei einer Polpaarzahl von z. B. 2 (d. h. vier Pole) ergibt sich mit der Netzfrequenz von 50 Hertz eine synchrone Drehzahl von 1500/min.
+Im Generatorbetrieb liegt die Läuferdrehzahl (Drehzahl der Generatorwelle) über der der synchronen Drehzahl (im Motorbetrieb darunter, daher der Name Asynchronmaschine).
+
+Bei polumschaltbaren Asynchrongeneratoren gibt es die Möglichkeit, die Windkraftanlage wahlweise mit zwei festen Drehzahlen zu betreiben, entsprechend besitzt der Generator getrennte Wicklungen z. B. mit zwei oder drei Polpaaren.
+Damit liegen die synchronen Drehzahlen bei 1500 und 1000/min.
+Der Vorteil besteht darin, dass so der Generator sowohl bei niedrigen als auch bei hohen Windgeschwindigkeiten mit hohem Wirkungsgrad arbeiten kann.
+Diese einfachen Varianten mit Asynchrongeneratoren kommen heute in der Regel nicht mehr zum Einsatz.
+
+Trotz zunehmender Konkurrenz durch getriebelose Anlagenkonzepte und Anlagen mit Vollumrichter stellen Windkraftanlagen mit Getriebe, doppelt gespeisten Asynchronmaschinen mit Schleifringläufer und läuferseitigem Frequenzumrichter nach wie vor die häufigste Bauart von Windkraftanlagen dar.
+Sie sind zwar teurer als Anlagen mit direkt netzgekoppeltem Asynchrongenerator, sind dafür aber über einen weiten Drehzahlbereich regelbar und zeigen somit einen hohen Wirkungsgrad.
+Die Leistung, die der Frequenzumrichter liefern muss, entspricht im Verhältnis zur Generatorleistung nur der relativen Abweichung der Drehzahl von der Synchrondrehzahl, üblicherweise ca. 30 % der Generatorleistung.
+Da der Asynchrongenerator eine hohe Drehzahl benötigt, ist bei dieser Bauart ein Getriebe nötig.
+Obwohl in beiden Fällen der Stator seine Leistung netzsynchron abgibt, lässt sich hier über die Phase der Erregung der Blindleistungsbedarf regeln, womit derartige Antriebsstränge ähnliche Vorteile bieten wie solche mit Synchrongeneratoren und Vollumrichtern.
+
+Der Einsatz von Synchrongeneratoren mit Frequenzumrichter erlaubt aufgrund ihrer wesentlich höheren Polpaarzahl von bis zu 36, dass auf ein Vorschaltgetriebe verzichtet werden kann - sie können mit der Drehzahl des Rotors betrieben werden.
+Vorteile dieses Konzeptes mit fremderregtem Generator sind eine höhere Zuverlässigkeit und ein geringerer Wartungsaufwand.
+Eingeführt wurde dieses Konzept, das sich sehr rasch am Markt etablierte und bewährte, Anfang der 1990er Jahre mit der Enercon E-40.
+Allerdings wird dies ebenso mit Nachteilen erkauft: neben höheren Investitionskosten u. a. mit einem vergrößerten Generatordurchmesser (nennleistungsabhängig ungefähr zwischen drei und zwölf Meter, letzterer für Enercon E-126) und einem folglich höheren Generatorgewicht.
+Zwar wirkt sich das höhere Turmkopfgewicht im Leistungsbereich zwischen 2 und 3 MW noch nicht allzu stark aus, bei Multi-MW-Anlagen über 5 MW werden die hohe Turmkopfmasse und damit die Kosten für Rohstoffe, Bau und Logistik jedoch zunehmend problematisch.
+
+Wie bei allen mit variabler Drehzahl betriebenen Synchrongeneratoren muss die mit der Drehzahl des Rotors schwankende Frequenz der erzeugten Spannung zunächst in Gleichstrom gleichgerichtet und dann mit einem netzgeführten Wechselrichter wieder in einen Wechselstrom umgeformt werden, um mit den gewünschten Werten von Spannung, Frequenz und Phasenwinkel ins Netz zu gelangen.
+Der Umrichter muss die volle Generatorleistung verarbeiten; durch die Entkoppelung von Generator und Einspeisung erreichen diese Anlagen jedoch eine hohe Effizienz und beim heutigen Stand der Leistungselektronik eine sehr gute Netzverträglichkeit.
+
+Permanenterregte Generatoren (PMG) nutzen Dauermagnete und weisen gegenüber fremderregten Generatoren einige Vorteile auf.
+Neben einem etwas höherem Wirkungsgrad aufgrund des Wegfalls der Erregerleistung lassen sie sich durch ihre höhere Feldstärke kompakter und leichter bauen, wovon insbesondere getriebelose Konzepte mit großen Generatoren (von z. B. Siemens Wind Power, Vensys, Goldwind) profitieren.
+Vorteile hat die Nutzung von Permanentmagnetgeneratoren damit vor allem bei getriebelosen Offshore-Windkraftanlagen der Multi-MW-Klasse, während für Onshore-Anlagen mehrere andere bewährte Generatorkonzepte existieren.
+PMGs kommen aber auch in Getriebeanlagen mit kompakten Generatoren (von z. B. General Electric und Vestas) vor.
+Die benötigten Dauermagnete bestehen üblicherweise aus Seltenerdmagneten wie Neodym-Eisen-Bor.
+Zur lang anhaltenden Gewährleistung der Feldstärke bei hohen Temperaturen kann zusätzlich Dysprosium beigemischt werden.
+Neodym und Dysprosium sind Metalle der Seltenen Erden und unterliegen Preisschwankungen.
+Das Marktpreisrisiko für die Hersteller und die Umweltprobleme, die mit dem Abbau und der Gewinnung von Seltenen Erden verbunden sind, wirken sich nachteilig aus.
+Die in der Vergangenheit bestandene schlechtere Regelbarkeit hat sich durch technische Fortschritte bei Frequenzumrichtern relativiert.
+
+An der RWTH Aachen wurde im Institut für fluidtechnische Antriebe und Steuerungen ein vollhydrostatischer Antriebsstrang für Windkraftanlagen auf einem Prüfstand untersucht.
+Bei diesem Antriebskonzept sind unterschiedlich große Radialkolbenpumpen direkt mit der Rotorwelle verbunden und das große Drehmoment der Rotorblätter wird direkt in hydraulische Energie gewandelt.
+Volumengeregelte Hydraulikmotoren treiben einen mit konstanter Drehzahl laufenden Synchrongenerator an, sodass keine Frequenzumrichter für die Netzanpassung erforderlich sind.
+Die Direkteinspeisung über einen mit Netzfrequenz laufenden Synchrongenerator steigert einerseits die Qualität des eingespeisten Stroms durch reine Sinusform, zugleich bietet das Antriebskonzept als Ganzes den Vorteil sehr guter Dämpfungseigenschaften gegenüber hohen Momentenstößen, wie sie durch Windböen verursacht werden, wodurch die Anlagenstruktur geschont wird.
+
+==== Windrichtungsnachführung
+
+Die Windrichtungsnachführung erfolgt mit Stellmotoren (auch Azimutantrieb oder Giermotoren genannt).
+Die Windrichtung wird dabei über Sensoren, sogenannte Windrichtungsgeber ermittelt.
+Die Nachführung erfolgt langsam, um hohe Kreiselmomente zu vermeiden.
+Um Schwingungen der Anlagen um die Turmachse zu vermeiden, werden die Stellmotoren (meist sind mehrere vorhanden) gegeneinander verspannt, oder das gesamte Lager wird mit einer Bremse festgesetzt, wenn es nicht in Bewegung ist.
+Auch die natürliche Dämpfung von Gleitlagern wird genutzt.
+
+Die elektrische Anbindung der Gondel für Steuersignale und den erzeugten Strom an der Turminnenseite nach unten erfolgt über frei hängende, torsionsflexible Kabel.
+Schleifkontaktringe sind bei den hohen elektrischen Strömen zu wartungsintensiv.
+Um diese Kabel nicht zu sehr zu verdrehen, ist die Anzahl der Gondelumdrehungen je Richtung von der Mittelstellung begrenzt.
+Übliche Verdrehwinkel sind 500 bis 600°, was durch Verwindungszähler kontrolliert wird.
+Wird die maximal zulässige Verdrillung erreicht, dreht sich die Gondel bei stehendem Rotor zur Entspannung der Kabel einige Male um die Hochachse in entgegengesetzte Richtung.
+
+=== Elektrik/Einspeisung
+
+Die elektrische Ausrüstung lässt sich in den Generator, in das System zur Netzeinspeisung und in das Steuer- und Überwachungssystem für den Anlagenbetrieb unterteilen.
+
+Bei den älteren, drehzahlstarren Anlagen ist der Generator, teils mit Zwischentransformator zur Spannungsanpassung, direkt an das öffentliche Stromnetz gekoppelt - er läuft mit Netzfrequenz.
+Bei einem Asynchrongenerator mit Kurzschlussläufer wird eine Vorrichtung zur Blindleistungskompensation parallel zum Generator geschaltet.
+Bei modernen Anlagen wird die Generatordrehzahl mittels Wechselstrom-Umrichter von der Netzfrequenz entkoppelt.
+
+Bei beiden Generatorvarianten wird die Spannung zuletzt auf die in den jeweiligen Mittelspannungsnetzen übliche Netznennspannung transformiert.
+Die Windkraftanlage wird über Leistungsschalter mit dem öffentlichen Stromnetz verbunden, dabei dienen Messwandler zur Ermittlung der übertragenen Leistungen.
+Während Kleinanlagen ggf. in Niederspannungsnetze einspeisen können, werden normale Windkraftanlagen fast immer ans Mittel- oder Hochspannungsnetz angeschlossen, müssen daher zur Sicherung der Netzstabilität die Mittelspannungsrichtlinie erfüllen.
+Für die Inbetriebnahme ist ein Nachweis der Netzkonformität notwendig:
+der Betreiber muss u. a. nachweisen, dass die geltenden Richtlinien (z. B. in Bezug auf Einhaltung der Netzspannung, Flicker, Oberschwingungen und Netzstützung bei kurzzeitigen Spannungseinbrüchen im Verbundnetz) eingehalten werden.
+
+Moderne Windkraftanlagen sind in der Lage, Regelenergie zu liefern und weitere Systemdienstleistungen zur Sicherheit des Stromnetzes zu übernehmen; eine Fähigkeit, die mit zunehmendem Anteil erneuerbarer Energien an Bedeutung gewinnt.
+Zudem müssen Windkraftanlagen in der Lage sein, bei Kurzschlüssen sogenannte Kurzschlussleistung zur Verfügung zu stellen ohne sich unmittelbar vom Netz zu trennen, um die Netzstabilität zu sichern.
+Neuere Windparks sind in ihrer Gesamtheit regelbar.
+
+Anlagen mit Pitch-Regelung können in Inselnetzen, in denen nicht wie im Verbundnetz eine maximale Erzeugung angestrebt wird, entsprechend der Leistungsnachfrage im Lastfolgemodus betrieben werden.
+Zudem ist wie bei konventionellen Kraftwerken grundsätzlich ein angedrosselter Betrieb möglich, der in gewissen Grenzen eine gleichbleibende Energieeinspeisung bei nachlassendem Wind ermöglicht.
+
+Neben der Bereitstellung von negativer Regelleistung durch Drosseln der Leistung sind drehzahlvariable Windkraftanlagen mit Vollumrichter grundsätzlich ebenfalls in der Lage, durch Erhöhung der Leistung kurzfristig (d. h. für einige Sekunden) positive Regelleistung ins Netz einzuspeisen.
+Damit könnten Windkraftanlagen mit entsprechender Anlagensteuerung sowohl bei Über- als auch bei Unterfrequenz zur Frequenzstabilität des Stromnetzes beitragen.
+Die hierfür benötigte Energie stammt aus der gespeicherten kinetischen Energie von Rotor und Triebstrang, dessen Drehzahl dabei absinkt.
+Mit Stand 2015 arbeiten erste Hersteller daran, ihre Anlagen mit dieser Boost-Funktion auszustatten, um verstärkt Systemdienstleistungen zur Netzunterstützung bereitstellen zu können.
+
+Ein weiterer wichtiger Teil ist die Sensorik zur Anlagensteuerung und -überwachung.
+Die Windkraftanlagen besitzen eine permanente Überwachung ihrer mechanischen Komponenten, um Veränderungen zu erkennen und Schadensereignissen durch rechtzeitige Maßnahmen vorbeugen zu können (z. B. mittels Schwingungsdiagnose).
+Die Versicherer von Windkraftanlagen fordern solche Fernüberwachungs- oder auch Condition-Monitoring-Systeme, wenn die Anlagen günstig versichert werden sollen.
+
+Die Anlagen sind an ein Ferndiagnosenetz angeschlossen, das alle Werte und Betriebszustände und eventuelle Störungen an eine Zentrale übermittelt.
+Diese koordiniert alle Wartungsarbeiten.
+Die wichtigsten Kenndaten einer Windkraftanlage können in speziellen Internetangeboten den Eigentümern zur Ansicht gestellt werden.
+Es gibt auch Systeme, die die Eigentümer zusätzlich beim Anfahren, Abschalten oder bei Störungen per SMS informieren.
+
+=== Turm
+
+Der Turm ist zeitweise hohen Belastungen ausgesetzt, denen er unter allen Betriebsbedingungen sicher widerstehen muss.
+Größer als das Gewicht von Rotor und Maschinengondel, deren Masse von zusammen bis zu mehreren hundert Tonnen in Verbindung mit Schwingungen an Bedeutung gewinnt, ist in Böen die Windlast, die als überwiegend horizontale Last insbesondere am Turmfuß hohe Biegemomente bewirkt.
+Je höher der Turm - entscheidender Faktor für den Ertrag der Anlage -, desto breiter der Turmfuß.
+Die Turmkonstruktion berücksichtigt den Transport zur Baustelle, die Errichtung und möglichst auch den Rückbau; die Berechnung der Türme erfolgt für die vorgesehene Lebensdauer der Anlage.
+Vorhandene Türme können daher nach Ablauf dieser Lebensdauer in der Regel nicht weiter als Träger für modernere Anlagengenerationen genutzt werden.
+Mit der Zustandsmessung z. B. zwanzig Jahre alter Türme gibt es kaum Erfahrungen: die heute 20 oder 25 Jahre alten Türme sind meist so niedrig, dass ein Abriss und Neubau (Repowering) attraktiver erscheint als das Ausrüsten eines alten Turmes mit einer neuen Gondel bzw. neuen Flügeln.
+
+Bei kleinen Anlagen wurden zum Teil Türme mit Außenaufstieg, also einer Leiter außen am Turm, verwendet.
+Dies erlaubte eine schlankere Gestaltung der Türme, da dann das Innere nicht begehbar sein musste.
+Größere Anlagen werden, mit Ausnahme von Gittermasten, grundsätzlich innerhalb des Turmes bestiegen.
+Türme über 80 m Höhe haben im Inneren neben einer Leiter mit Steigsicherung oft einen Fahrkorb oder Aufzug, der den Aufstieg erleichtert.
+Daneben gibt es häufig eine Seilwinde oder einen Bordkran für den Materialtransport.
+
+Während an Küstenstandorten schon relativ kleine Türme ausreichen, rechnet man im norddeutschen Binnenland mit etwa 0,7 % Mehrertrag pro Meter Höhe, wobei der Wert je nach Standort zwischen 0,5 und 1 % schwanken kann.
+Daher bieten die Hersteller verschiedene Turmhöhen und -varianten für die gleiche Rotorgröße an.
+Ein hoher Turm wird üblicherweise in einzelnen Teilen aufeinander gesetzt, da er nicht am Stück zur Baustelle zu transportieren ist.
+Die Einzelteile sind dabei so groß wie möglich.
+Das gilt sowohl für Türme aus Stahlröhren, für Stabwerke aus Stahl (siehe Mastschuss) und für solche aus Holz (siehe unten), denn Montagearbeiten am Boden oder gar im Werk sind schneller und sicherer als mit schwebenden Lasten.
+
+Je größer die Turmhöhe, desto unwirtschaftlicher wird der Einsatz mobiler Krane für das Errichten des Turmes und die Montage von Gondel und Rotor.
+Obendrehende Turmkrane mit Verankerungen zum wachsenden Turm wiegen weniger, sind über schmalere Zuwege zur Baustelle zu bringen und finden dort auf dem Fundament des Turmes Platz und Halt, ein Vorteil insbesondere in Waldgebieten.
+
+Bei einigen Windkraftanlagen werden die Türme auch als Standort für Sendeantennen von Funkdiensten mit kleiner Leistung im Ultrakurzwellen-Bereich wie dem Mobilfunk genutzt.
+
+==== Stahltürme
+
+Unterschieden wird in Stahlrohrtürme und Stahlschalentürme.
+Stahlrohrtürme sind die heutige Standardbauweise für Windkraftanlagentürme.
+Sie besitzen eine konische Form und bestehen meist aus zwei bis fünf Teilen, die mit Flanschverbindungen verschraubt werden.
+Mit ihnen können bei herkömmlicher Bauweise Nabenhöhen bis etwa maximal 120 m erreicht werden (Stand 2014), wobei die Wandstärken 10 bis 50 Millimeter betragen.
+Nicht zu große Rohrstücke können im Werk gefertigt und dann über die Straße transportiert werden.
+Optimal sind Durchmesser der Turmbasis von über 6 m, da mit größeren Durchmessern Material gegenüber Türmen mit schmalerem Turmfuß eingespart werden kann, allerdings erlauben herkömmliche Bauweisen nur Durchmesser bis ca. 4,5 m.
+
+Jedoch besteht die Möglichkeit, durch Zusammenschrauben mehrere Längsplatten anstelle von gewalzten Türmen die Turmbasis zu vergrößern und somit größere Nabenhöhen zu erzielen.
+Bei manchen Herstellern wie Vestas oder Siemens ist daher entgegen dem Branchentrend eine verstärkte Nutzung von Stahltürmen festzustellen.
+Beispielsweise stellte Vestas 2015 einen aus drei 120°-Segmenten bestehenden Stahlturm mit einem Turmbasisdurchmesser von mehr als 6 m und einer Nabenhöhe von 149 m vor, bei dem die Wandstärke gegenüber Standardtürmen etwa halbiert werden konnte.
+
+Bei diesen sogenannten Stahlschalentürmen bestehen die Turmschalen nicht aus einem zusammenhängenden Blech, sondern mehreren gekanteten und tangential verschraubten Blechen, so dass sich ein Polygon als Querschnitt ergibt.
+Zwar weist diese Turmvariante eine wesentlich höhere Anzahl an Schraubverbindungen gegenüber Stahlrohrtürmen auf, jedoch lassen sich die gekanteten Bleche der einzelnen Turmsegmente relativ aufwandsarm transportieren.
+Zudem lässt sich ein großer Turmfußdurchmesser realisieren, so dass Bleche von geringerer Dicke eingesetzt werden können, als sie beim Stahlrohrturm mit vorgegebenem Turmfußdurchmesser erforderlich wären.
+Stahlschalentürme werden als Prototypen sowohl als reine Stahlschalentürme sowie als Hybridtürme eingesetzt.
+Lagerwey baut beim Typ L 136 diesen Stahlschalenturm mit einem Fußdurchmesser von bis zu 12,70 m und testet den Aufbau dieser Windkraftanlage mit einem Kletterkran.
+
+==== Hybridtürme
+
+Bei hohen Türmen werden bisher fast immer Hybridkonstruktionen eingesetzt, deren unterer Teil aus Beton besteht, wobei sowohl Ortbeton eingesetzt werden kann, oder, was die übliche Bauweise darstellt, Fertigteile, die vor Ort preiswert und schnell zu Ringen verbunden werden können.
+Im Binnenland, wo hohe Türme nötig sind, stellen Hybridtürme die Standardturmvariante dar, da dort herkömmlich gefertigt weder reine Stahl- noch reine Betontürme wirtschaftliche Alternativen sind.
+Die Betonringe, die je nach Position im Turm aus ein bis drei Kreissegmenten zusammengesetzt und jeweils knapp vier Meter hoch sind, werden bis zum Übergang zum Stahlteil übereinander geschichtet, wobei sich der Turm mit zunehmender Höhe verjüngt.
+In jedem Fall ist ein Betonturm mit Spanngliedern vorzuspannen.
+Sie können in Hüllrohren im Innern der Betonschale verlaufen oder auf der Innenseite der Wandung.
+Letzteres hat den Vorteil der Zugänglichkeit zwecks Kontrolle oder gar Austausch und erleichtert den Rückbau des Turmes.
+Bei den Hybridtürmen leitet ein Zwischenstück die Zug- und Druckkräfte aus dem oberen Stahlabschnitt des Turmes an die Spannglieder bzw. an den Beton weiter.
+
+==== Gittermasten
+
+Eine weitere Turmvariante ist der Gittermast, der früher v. a. in Dänemark oft gebaut wurde.
+Vorteilhaft sind der geringere Materialbedarf und die gegenüber Stahlrohrtürmen höhere Eigendämpfung.
+Die Fertigung ist relativ lohnkostenintensiv, weil es wenig Möglichkeiten zur Automatisierung gibt.
+Deswegen sind Gittermasttürme heute (2013) v. a. in Staaten mit niedrigen Lohnkosten verbreitet.
+Auch die Verwendung abgespannter Masten ist möglich.
+
+==== Holztürme
+
+Als vielversprechendes Konstruktionsmaterial der Zukunft gilt Holz.
+Das für diesen Zweck genutzte Fichtenholz ist einfach verfügbar und die Herstellung setzt im Gegensatz zu anderen Baumaterialien kein Kohlenstoffdioxid frei.
+Zudem weist es eine große Ermüdungsfestigkeit auf und hat deswegen bei entsprechender Verarbeitung laut dem Hersteller eine Lebensdauer von 40 Jahren.
+Dazu ist es im Gegensatz zu bestehenden Türmen sehr einfach in 40-Fuß-Containern zu transportieren und vollständig recyclebar.
+Es wird damit gerechnet, dass gerade bei großen Nabenhöhen Holztürme günstiger zu fertigen sind als herkömmliche Turmkonzepte.
+
+Mit der Windkraftanlage Hannover-Marienwerder wurde im Oktober 2012 ein erster Prototyp errichtet und im Dezember 2012 in Betrieb genommen.
+Zum Einsatz kommt eine Anlage des Typs Vensys 77 mit 1,5 MW auf einem 100 Meter hohen Holzturm der Timbertower GmbH.
+Der Holzturm besteht aus 28 Stockwerken und besitzt eine stabile achteckige Außenwand von ca. 30 cm Wandstärke aus Sperrholz.
+Es wurden etwa 1000 Bäume gefällt, um diesen Turm zu produzieren (ca. 400 m^3 Holz = ca. 200 t).
+Maschinenhaus und Rotor der Windkraftanlage lasten mit einem Gewicht von ca. 100 t auf dem Turm.
+Zur Ableitung von Blitzen ragen ca. 70 Drahtspitzen aus der Turmwand hervor.
+Eine UV-stabile PVC-Folie bildet die schützende Außenhaut des Turmes.
+
+=== Fundament
+
+Die Windkraftanlage muss eine hohe Standsicherheit haben.
+An Land wird aus Kostengründen am häufigsten eine Flachgründung gewählt.
+Bei inhomogenen Bodenverhältnissen kann vor dem Fundamentbau ein Bodenaustausch zur Verbesserung der Tragfähigkeit notwendig sein.
+Stehen in der Gründungsebene nur sehr weiche Böden an, dann werden Pfähle in tragfähigere Schichten gebohrt oder gerammt und deren gekappte Köpfe mit der Fundamentbewehrung verflochten (Pfahlgründung oder Tiefgründung).
+Da die Pfähle Druck- und Zugkräfte abtragen können, sind Pfahlkopf-Fundamente in der Regel kleiner als Flachgründungs-Fundamente.
+Negativ sind allerdings die gegenüber einem Standard-Flachfundament deutlich höheren Kosten.
+
+Da Anlagen mit Stallregelung während Sturmphasen deutlich höheren Belastungen ausgesetzt sind als Anlagen mit Pitch-Regelung, die ihre Rotorblätter aus dem Wind drehen können, müssen Fundamente von stallgeregelten Anlagen bei gleicher Leistung größer dimensioniert werden.
+Daher liegen die Kosten für solche Anlagen um bis zu 50 % höher als bei Anlagen mit Blattverstellmechanismus.
+
+Für die Gründung von Anlagen in Offshore-Windparks gibt es verschiedene Verfahren.
+Häufig werden hohle Stahlpfähle eingerammt.
+Kleine Windkraftanlagen können auf einzelnen Pfählen montiert werden (Monopile), für größere sind drei oder vier üblich (Tripod/Tripile bzw. Jacket).
+Statt Pfählen werden zunehmend Bucket-Fundamente verwendet, die durch Unterdruck statt lärmendes Rammen eingebracht werden.
+Bei der Schwergewichtsgründung handelt es sich um die Flachgründung mit einem Betonfertigteil.
+
+Es gibt Konzepte für Windkraftanlagen mit auf am Meeresboden verankerten Schwimmkörpern, die sich vor allem darin unterscheiden, wie der Krängung entgegengewirkt wird.
+Einige Prototypen solcher schwimmender Windkraftanlagen sind bereits in der Erprobung (Stand 2018).
+Sie können an steiler abfallenden Küsten installiert werden, wie an der amerikanischen Westküste oder in Japan, sind aber teurer.
+
+=== Offshore-Ausrüstung
+
+Windkraftanlagen auf dem offenen Meer sind, wie alle Offshore-Installationen, durch die aggressive, salzhaltige Meeresluft stark korrosionsgefährdet.
+Es werden daher zusätzliche Schutzmaßnahmen ergriffen.
+Dazu zählt unter anderem die Verwendung meerwasserbeständiger Werkstoffe, die Verbesserung des Korrosionsschutzes, die vollständige Kapselung bestimmter Baugruppen sowie die Verwendung von mit Überdruckbelüftung ausgestatteten Maschinenhäusern und Türmen.
+
+Zum Aufbau, beim Austausch von Komponenten und bei der Wartung vor Ort muss auf die Offshore-Bedingungen Rücksicht genommen werden.
+So wird die Anlage auf durchschnittlich höhere Windgeschwindigkeiten (andere Windklasse) ausgelegt, was z. B. eine entsprechende Konstruktion des Rotors und seine Abstimmung auf den Generator notwendig macht.
+Ein weiteres Standortproblem sind die Schwingungen, zu denen eine Windkraftanlage durch die See (Wellengang und Wasserströmung) angeregt werden kann.
+Unter ungünstigen Bedingungen können sie selbstverstärkend wirken, so dass ihr Auftreten ebenfalls in der Konstruktion und Betriebsführung berücksichtigt werden muss.
+
+Wo wie in Deutschland die meisten Offshore-Windparks nicht in der Nähe der Küste, sondern in der Regel in der ausschließlichen Wirtschaftszone in relativ großer Küstenentfernung in tiefem Wasser geplant werden (siehe auch Seerecht), muss besondere Rücksicht auf den Zugang zu den Anlagen gelegt werden.
+Einige Konzepte sehen dabei auch Hubschrauberplattformen vor.
+Auch der Transport der erzeugten elektrischen Energie bis zum Einspeisepunkt an der Küste bedarf besonderer Maßnahmen.
+Es werden Hochspannungsleitungen als Seekabel verlegt, wobei bei größeren Entfernungen zum Einspeisepunkt vor allem die Hochspannungs-Gleichstrom-Übertragung in Form von Offshore-HGÜ-Systemen zum Einsatz kommt.
+
+== Regelung und Betriebsführung
+
+Für die Regelung der Anlagen existieren verschiedene Konzepte, die sich zum Teil auf die Anlagenkonstruktion und deren Bestandteile auswirken.
+Die technische Verfügbarkeit von Windkraftanlagen liegt bereits seit etwa einem Jahrzehnt im Bereich von 98 % und darüber (Stand 2014).
+
+=== Anlauf- und Abschaltwindgeschwindigkeit
+
+Die Windkraftanlagen werden von der Regelelektronik bei ertragsversprechenden Windgeschwindigkeiten (Anlaufwindgeschwindigkeit) angefahren und bei zu großen Windgeschwindigkeiten (Abschaltwindgeschwindigkeit) wieder abgeschaltet.
+Die Windgeschwindigkeit kann dabei von der Steuerung über das Anemometer ermittelt oder aus der Drehzahl des Rotors und der abgegebenen Leistung abgeleitet werden.
+
+Ist die Windgeschwindigkeit für einen wirtschaftlichen Betrieb zu gering, wird die Anlage in Leerlauf- bzw. Trudelzustand versetzt.
+Dabei werden bei Anlagen mit Pitchregelung die Blätter in Segelstellung gedreht, Anlagen mit Stallregelung als Ganzes (Rotor mit Gondel) aus dem Wind gedreht.
+Ein Festsetzen des Rotors würde die Lager mehr belasten als der Trudelbetrieb mit leichter Bewegung.
+Der Generator beziehungsweise der Wechselrichter wird vom Stromnetz getrennt.
+Die Steuerelektronik und die Stellantriebe für Rotorblattverstellung und Windrichtungsnachführung beziehen dann ihre Energie aus dem Netz.
+Eine Notstromversorgung erlaubt ein sicheres Abschalten (Blätter in Segelstellung drehen oder bremsen) bei Netzausfall.
+
+Bei einer Einschaltwindgeschwindigkeit von typisch 3-4 m/s (Windstärke 2-3 Bft) schaltet die Steuerung die Windkraftanlage ein, da erst dann nennenswerte Energiemengen in das Stromnetz abgegeben werden können.
+Im normalen Betrieb wird die Anlage dann entsprechend den konstruktiv festgelegten Drehzahlregelkonzepten (siehe folgende Absätze) betrieben.
+
+Ältere Anlagen wurden bei großen Windgeschwindigkeiten schlagartig abgeschaltet, um Schäden durch mechanische Überbelastung zu vermeiden, was sich jedoch belastend auf die Sicherheit des Stromnetzes auswirkte.
+Pitch-geregelte Anlagen drehten ihre Blätter in Segelstellung und gingen in den Trudelbetrieb, stallgeregelte Anlagen wurden aus dem Wind gedreht und durch die Bremse festgesetzt.
+Neuere Anlagen sind hingegen mit Regelmechanismen ausgestattet, die bei der Abschaltung die Blätter sukzessive aus dem Wind drehen und damit ein sanftes Abschalten durch kontinuierliches Absenken der Einspeisung ermöglichen.
+Ein weiterer Vorteil dieser Regelung ist, dass sowohl Abschalt- als auch Anfahrtszeiten verringert werden, was Stromertrag und Netzstabilität erhöht.
+Ergänzend rüsten einige Hersteller ihre Anlagen mit sogenannten Sturmregelungen aus, die eine schnelle Abschaltung durch eine kontinuierliche Drehzahlabsenkung verhindern.
+Ein Abschalten ist bei derartigen Anlagen somit nur noch bei sehr hohen Windgeschwindigkeiten im Bereich von über 30-35 m/s notwendig, wie sie nur sehr selten vorkommen.
+
+Von zu hohen oder zu niedrigen Windgeschwindigkeiten abgesehen können noch weitere Gründe dazu führen, dass eine Windkraftanlage vom Netz genommen werden muss.
+Dazu zählen:
+
+=== Drehzahlregelung
+
+Eine Windkraftanlage arbeitet optimal, wenn die Rotordrehzahl auf die Windgeschwindigkeit abgestimmt ist.
+Dabei muss auf die Kombination der Regelkonzepte für Rotor (Stall, aktiver Stall oder Pitch) und Generator (drehzahlkonstant, zweistufig oder variabel) Rücksicht genommen werden.
+
+==== Regelkonzepte
+
+Beim nicht verstellbaren Rotorblatt wird mit "passiver Stallregelung" oberhalb der Wind-Nenngeschwindigkeit durch Strömungsabriss die Drehzahl begrenzt.
+"Stallregelung" bedeutet, dass die Rotorblätter bis weit über dem Anstellwinkel für Maximalauftrieb (Anstellwinkel ca. +15°) betrieben werden (siehe Flügelprofil).
+Diese "Regelung" wird wegen ihrer großen Nachteile bei Windkraftanlagen (WKA) über 500 kW Leistung nicht mehr verwendet.
+Mit der ebenfalls nicht mehr aktuellen "aktiven Stallregelung" (verstellbare Rotorblätter) konnte die Drehzahl besser konstant gehalten werden.
+Heute wird praktisch nur noch die aktive Pitchregelung eingesetzt.
+Dies bedeutet, dass die Rotorblätter nur noch im Anstellwinkelbereich von Nullauftrieb bis Maximalauftrieb gesteuert werden (Anstellwinkel ca. -5 ° bis +15°).
+Aktive Stellmotoren ändern den Anstellwinkel des Rotorblattes in Abhängigkeit von Windgeschwindigkeit und Generatorlast.
+Der Generator bringt ein Gegenmoment zum Rotor auf.
+Bei mehr Einspeisung ins Netz bremst er mehr.
+
+==== Drehzahlvariable pitchgeregelte Anlagen
+
+Drehzahlvariable, pitchgeregelte Anlagen stellen heute den Stand der Technik im Windkraftanlagenbau dar.
+Sie vereinen eine Reihe von Vorteilen in sich:
+Hierzu zählen u. a.:
+
+Nachteilig sind hingegen die Notwendigkeit von Wechselrichtern inklusive deren Nachteile sowie die höhere Komplexität gegenüber einfacheren Konstruktionen.
+
+Es wird zwischen zwei Betriebszuständen unterschieden: der Drehzahlregelung im Teillastbetrieb (Momentenregelung) und der Drehzahlregelung im Volllastbetrieb (Pitchregelung).
+
+Diese Windkraftanlagen besitzen keine mechanische Betriebsbremse, sondern werden bei Abschaltungen über die Pitchregelung angehalten und nur zu Wartungsarbeiten festgesetzt.
+
+==== Netzsynchrone Anlagen mit Stallregelung
+
+Dieser Anlagentyp wurde als "Dänisches Konzept" bekannt und kam bis in die 1990er Jahre im Windkraftanlagenbau bis zu einer Nennleistung von etwa 500 Kilowatt zum Einsatz.
+Er besteht aus einem Dreiblattrotor mit nicht verstellbaren Rotorblättern, dessen Drehzahl über das Getriebe mit der des Generators im festen Verhältnis gekoppelt ist.
+Der Generator läuft netzsynchron, der Rotor also mit konstanter Drehzahl.
+Daher steigt mit der Windgeschwindigkeit der Anströmwinkel der Blätter und damit der Auftrieb.
+Ein zunehmender Anteil des Auftriebs wird als Vortrieb wirksam, sodass Drehmoment und Leistung grob genähert quadratisch mit der Windgeschwindigkeit ansteigen.
+Stallregelung bedeutet nun, dass die Anlagen so ausgelegt waren, dass vor Erreichen des maximal zulässigen Drehmoments der Anströmwinkel so groß wird, dass die Strömung abreißt, also ein stall eintritt.
+Dies brachte jedoch starke Geräuschentwicklungen mit sich.
+
+Durch die Anwendung der Dahlander-Polumschaltung am Generator können zwei Drehzahlen im Verhältnis 1:2 gefahren werden, um den Teillast- und Volllastbereich abzudecken.
+
+Dieser Anlagentyp ist maßgeblich für den schlechten Ruf der Windkraftanlage in Bezug auf die Netzverträglichkeit verantwortlich.
+Es ist nur in einem Toleranzbereich möglich, die Rotordrehzahl konstant zu halten.
+Windböen können kurzzeitige Einspeisespitzen verursachen, die zu Spannungsschwankungen, Spannungs- und Stromoberwellen im Stromnetz führen.
+Dieses Manko konnte durch drehzahlvariable Anlagen mit einem Wechselrichter behoben werden.
+Viele dieser Anlagen verfügen über eine mechanische Betriebsbremse, eine große Scheibenbremse zwischen Getriebe und Generator, die bei Überdrehzahl eingesetzt wird, um den Rotor wieder auf Nenndrehzahl zu bringen.
+Aus Sicherheitsgründen ist zumeist auch eine aerodynamische Bremse, häufig eine so genannte Blattspitzenbremse installiert.
+Kommt es zu Überdrehzahlen des Rotors, wird das Ende des Rotorblattes durch die Fliehkraft auf einer schneckenförmigen Welle aus dem Blatt herausgezogen und dabei quer zur Anströmung gestellt, wodurch ein Strömungsabriss ausgelöst wird.
+
+Ohne Blattwinkelverstellung waren diese Anlagen oft nicht in der Lage, bei wenig Wind selbstständig anzulaufen.
+Daher wurde bei nicht ausreichender Windgeschwindigkeit der Generator kurz als Motor verwendet, um den Rotor in Drehung zu versetzen.
+
+==== Netzsynchrone Anlagen mit aktiver Stallregelung
+
+Windkraftanlagen mit aktiver Stallregelung sind der Versuch, das Konzept der Stallregelung und des netzsynchronen Betriebs ohne teureren Gleich- und Wechselrichter auf größere Anlagen bis in den Megawattbereich zu übertragen.
+Bei diesen Anlagen lässt sich der Strömungsabriss an den Rotorblättern zusätzlich über eine Blattverstellung steuern.
+Schwankungen im Wind (Böen) können so besser als mit passiver Stallregelung ausgeglichen werden.
+Die Blattverstellung arbeitet entgegengesetzt der Pitchregelung und erhöht den Anstellwinkel immer weiter, bis es zum Strömungsabriss kommt.
+Im Sturmfall können die Blätter mit der Hinterkante nach vorn gedreht werden.
+Die Anlage muss dann nicht aus dem Wind geschwenkt werden.
+
+=== Eigenbedarf
+
+Für Steuerung und Regelung benötigen Windkraftanlagen elektrische Energie, den sog. Kraftwerkseigenbedarf.
+Bei Windkraftanlagen liegt dieser Eigenbedarf im Bereich von 0,35-0,5 % der produzierten elektrischen Energie.
+Bei zwei in Eberschwang errichteten 500-kW-Anlagen des Typs Enercon E-40/5.40 wurde bei einer gemeinsamen Jahresproduktion von rund 1,45 Mio. kWh ein Eigenbedarf von zusammen 8000 kWh ermittelt, was ca. 0,55 % entspricht.
+Ein konventionelles Wärmekraftwerk hat hingegen bei Nennleistung einen Eigenbedarf von ca. 5 %.
+
+=== Lebensdauer und Recycling
+
+Traditionell sind die meisten Windkraftanlagen für eine Lebensdauer von 20 Jahren konzipiert.
+Dies entspricht den von der IEC und dem DIBt als Untergrenze für die Zertifizierung von Windkraftanlagen festgelegten Normen.
+Angesichts der Erfahrungen mit bestehenden Anlagen wird jedoch eine Lebensdauer von 30 Jahren als realistischer eingeschätzt.
+Eine Reihe neuer Anlagen wird mittlerweile für 25 Jahre ausgelegt und zertifiziert; 2014 wurde von Enercon eine neue Produktplattform mit einer zertifizierten Betriebsdauer von 30 Jahren angekündigt.
+
+Beim Repowering werden Altanlagen durch größere und moderne Neuanlagen ersetzt.
+Infolge technischen Fortschritts sind neue Anlagen leiser und effizienter, zugleich ermöglichen sie höhere Erträge bei spezifisch geringeren Wartungskosten und einer Entlastung des Landschaftsbildes durch wenige große statt einer Vielzahl kleiner Anlagen.
+Sinnvoll ist ein Repowering zumeist erst nach einem Betriebszeitraum von ca. 20 Jahren, im Einzelfall jedoch auch schon erheblich früher.
+
+Ein Weiterbetrieb von Windkraftanlagen über die ursprünglich zertifizierte Auslegungslebensdauer ist möglich, sofern der Nachweis der Betriebssicherheit durch unabhängige Gutachter erbracht werden kann.
+In Deutschland sind die hierfür vom Betreiber zu erfüllenden Kriterien in der "Richtlinie für den Weiterbetrieb von Windenergieanlagen" festgeschrieben.
+Von mehreren Herstellern werden Turbinenupgrades angeboten, um den technischen Weiterbetrieb von Anlagen zu vereinfachen oder überhaupt erst zu ermöglichen.
+In der Verlängerung der Betriebszeit - sowohl der Auslegungslebensdauer als auch dem Weiterbetrieb über die ursprünglich geplante Lebensdauer hinaus - wird großes Potential zur Senkung der Stromgestehungskosten der Windenergie gesehen.
+
+Das Umweltbundesamt Deutschland hat in einer Studie untersucht, ob die zum Rückbau von den Windkraftunternehmen zu bildenden Rücklagen und ob die Recyclingkapazitäten ausreichend sind und kam zu dem Schluss, dass insbesondere für die pro Jahr erwarteten bis zu 70.000 Tonnen Faserverbundwerkstoffe nicht genügend Recyclingkapazität vorliegt, während Bestandteile wie Beton, Stahl und andere Metalle kein Problem darstellten.
+Für das Jahr 2038 wurde in der Studie eine Lücke der Rückbau-Finanzierung von über 300 Millionen Euro prognostiziert.
+
+== Auswirkungen auf die Umwelt
+
+Wie andere Bauwerke und Anlagen zur Energieerzeugung stehen Windkraftanlagen in Wechselwirkungen mit der Umwelt.
+Dazu gehören Auswirkungen auf die Tierwelt, die Pflanzenwelt, Schallemission, Schattenwurf und Beeinflussung des Landschaftsbildes.
+Generell wird die Windenergie von Naturschutzverbänden als flächen- und energieeffizienteste Form regenerativer Energiegewinnung angesehen und deren weiterer Ausbau begrüßt.
+Allerdings muss beim Ausbau der Windenergieerzeugung dafür gesorgt werden, dass die Gefährdung ohnehin schon bedrohter Vogel- und Fledermausarten nicht weiter erhöht wird.
+
+=== Flächenverbrauch
+
+Der Flächenverbrauch von Windkraftanlagen ist vergleichsweise gering, die Flächenversiegelung sowohl im Vergleich mit anderen regenerativen als auch mit fossilen Erzeugungsarten sehr gering.
+Der überwiegende Anteil heute installierter Windkraftanlagen befindet sich auf landwirtschaftlich genutzten Flächen, die fast ohne Einschränkung weitergenutzt werden können.
+So stehen ca. 99 % der von einem Windpark beanspruchten Fläche weiterhin für Ackerbau usw. zur Verfügung.
+Direkt benötigt werden nur die Standfläche der Windkraftanlage und ein Zuweg für die Montage und Wartung.
+Dauerhaft muss für eine aktuelle Windkraftanlage der Drei-Megawatt-Klasse eine befestigte aber unversiegelte Fläche von etwa 2.500 m^2 für die Wartung frei und zugänglich bleiben.
+Zudem ist in einem gewissen Umkreis manch alternative Flächennutzung ausgeschlossen.
+Das BImSchG verlangt zwar keinen Meterabstand, aber einen Schallabstand:
+Nachts dürfen an der nächsten belebten Hauswand nicht mehr als 40 dB(A) erreicht werden.
+Dadurch kann die gemeindliche Entwicklung (Ausweisung neuer Wohn- und Gewerbegebiete) durch eine Windkraftanlage negativ beeinflusst werden, da genehmigte Anlagen Bestandsschutz genießen.
+
+Eine 3-MW-Anlage hat eine Fundamentfläche von ca. 300 m^2.
+Damit ergibt sich bei einem jährlichen Regelarbeitsvermögen von ca. 6,4 Mio. kWh eine Jahresproduktion von rund 21 MWh/ m^2 Fundamentfläche.
+Dies liegt oberhalb des Wertes eines 750-MW-Steinkohlekraftwerks mit 4000 Volllaststunden, das unter Berücksichtigung von Nebengebäude und Kohlelager (aber ohne Bergbauflächen) Werte von 15 bis 20 MWh/m^2 erreicht.
+Mit zunehmender Anlagengröße wird der relative Platzbedarf von Windkraftanlagen kleiner.
+
+In Deutschland wird dieses Problem mit einem Flächennutzungsplan und in Österreich mit einem Flächenwidmungsplan angegangen, so dass ein "Wildwuchs" von Einzelanlagen vermieden wird.
+Wurden in einem Flächennutzungsplan so genannte Vorrangflächen für die Windenergie festgelegt, so ist die Errichtung an einem anderen Standort innerhalb der Gemeinde oder des Kreises unzulässig.
+
+In Deutschland nimmt der Bedarf an Waldflächen bei der Suche nach neuen Standorten für die Windenergienutzung zu.
+Bis Ende 2019 wurden in Deutschland 2.020 Windenergieanlagen in Wäldern errichtet.
+Dies entspricht 7 % des gesamten Anlagenbestandes bzw. 10 % der Nennleistung der in Deutschland installierten Windkraftanlagen.
+Je Anlage wird dabei im Mittel eine dauerhaft gerodete Waldfläche von 0,47 ha beansprucht.
+Während der Bauphase wird zusätzlich eine gerodete Waldfläche von durchschnittlich 0,40 ha pro Anlage benötigt.
+In der Regel muss als Ersatz für die umgewandelten Flächen eine Erstaufforstung auf einer geeigneten Ausgleichsfläche im Verhältnis von mindestens 1:1 vorgenommen werden.
+Durch den Ausbau der Windkraft können jedoch auch neue Lebensräume entstehen, etwa durch geeignete Ausgleichsmaßnahmen.
+Ein Beispiel ist der Ersatz von Monokulturen im Wald durch Mischkulturen.
+Bei der Windkraft auf See können künstliche Riffe entstehen.
+
+=== Vogel- und Fledermausschlag
+
+Im Zusammenhang mit Vorkommen besonders betroffener Großvogelarten, wie Rotmilan, Seeadler, Wiesenweihe, Uhu und Schwarzstorch wirft die Windenergie Probleme auf.
+Um Kollisionen von Vögeln und Fledermäusen mit Windkraftanlagen zu vermeiden, ist die Einbeziehung der ökologischen Ansprüche der betroffenen Tierarten bei der Standortwahl entscheidend.
+Zur Senkung des Kollisionsrisikos sind das Monitoring sowie gegebenenfalls Abschaltungen in bestimmten Zeiten oder andere Steuerungsmaßnahmen hilfreich.
+
+==== Vögel
+
+Schon Anfang der 1980er-Jahre wurde bei der deutschen Versuchsanlage Growian diskutiert, ob vermehrt Vögel an rotierenden Flügeln zu Schaden kommen.
+Während unstrittig ist, dass Vögel von Windkraftanlagen getötet werden, ist das Ausmaß des Vogelschlags umstritten.
+
+In 140 Windparks in Nordspanien mit 4083 Windkraftanlagen wurden von 2000 bis 2006 insgesamt 732 getötete Gänsegeier gefunden.
+Es war dabei schwierig, eine direkte Verantwortung der Windparks zu ermitteln.
+Somit betrug das zusätzliche jährliche Sterberisiko für in der Nähe (15 km Radius) von Windparks brütende Gänsegeier etwa 1,5 %.
+
+In der Schweiz wurde die Wirkung von Warnsystemen evaluiert.
+Ein Fledermaus-System mit Ultraschall-Mikrofonen erkannte die Tiere gut, im Gegensatz zum optischen System für Vögel mit 70 Prozent Fehlalarmen auch durch Insekten.
+Vögel werden akustisch gewarnt, bei beiden Systemen wäre eine Abschaltung der Turbine zu langsam.
+
+2016 erschien die PROGRESS-Studie Ermittlung der Kollisionsraten von (Greif-)Vögeln und Schaffung planungsbezogener Grundlagen für die Prognose und Bewertung des Kollisionsrisikos durch Windenergieanlagen.
+Hierbei wurde erstmals in Deutschland, und zwar im norddeutschen Tiefland, eine großmaßstäbliche quantitative Untersuchung der Kollisionsraten von Vögeln an Windkraftanlagen mit paralleler Erfassung der Flugaktivität durch Sichtbeobachtungen durchgeführt.
+Die Studie ergab, dass für die meisten untersuchten Arten keine Bestandsgefährdung zu erkennen sei, bei manchen Arten aber die stark gestiegene Zahl an Windkraftanlagen in Deutschland durch kollisionsbedingte Mortalität bereits zu negativen Einflüssen auf Vogel-Populationen führen kann.
+Regional starke Bestandsrückgänge der Population des Mäusebussards werden unter anderem auf die Windkraftnutzung zurückgeführt, eine Gefährdung des Bestandes sei aber nicht zu erkennen.
+Bei fortgesetztem Ausbau der Windkraftnutzung sind Bestandsrückgänge auch bei weiteren Arten möglich.
+Die Studie fordert, dass weitergehende Populationsstudien Effekte von Vogel-Kollisionen mit Windkraftanlagen näher untersuchen sowie Maßnahmen Konflikte durch Kollisionen vermeiden, um Bestände betroffener Vogelarten zu stützen.
+
+Bei einem 2019 durchgeführten Vergleich der Populationsentwicklung des Rotmilans durch den Dachverband Deutscher Avifaunisten von 2005 bis 2014 mit der Windkraftanlagendichte im Jahr 2015 zeigen sich regionale Unterschiede.
+Es gab deutliche Bestandszunahmen in Südwest- und Westdeutschland nur in Gebieten, wo bisher kaum Windkraftanlagen standen.
+Deutliche Bestandsrückgänge lagen in Kreisen mit hoher Windkraftanlagendichte wie in Sachsen-Anhalt und Ostwestfalen vor.
+Im Durchschnitt ergab sich eine hochsignifikante negative Korrelation zwischen Rotmilan-Bestandsveränderung und Windkraftanlagendichte auf Landkreisebene.
+Bei zunehmender Dichte der Windkraftanlagen sinkt die Zahl der Rotmilane.
+
+Eine über 11 Jahre auf der Insel Smola durchgeführte Studie des norwegischen Instituts für Naturforschung ergab, dass die Anzahl getöteter Vögel um 72 % reduziert wurde, nachdem eines von drei weißen Rotorblättern schwarz lackiert wurde.
+Große Vögel und Raubvögel, speziell Adler und Geier, nutzte dies am meisten.
+Rotierende, rein weiße Rotorblätter können die Vögel wegen Bewegungsunschärfe-ähnlicher Effekte kaum erkennen.
+Eingestreute schwarze Rotorblätter mildern dieses Problem deutlich.
+
+In einer 2013 publizierten Metastudie über Hunderte Untersuchungen schätzte man, dass von Windkraftanlagen geringere Gefahren für die Vogelwelt in den Vereinigten Staaten ausgehen als von anderen Energiegewinnungsformen.
+Es wurde geschätzt, dass Windkraftanlagen durch Vogelschlag für ca. 0,27 getötete Vögel pro GWh elektrischer Energie verantwortlich sind, während Kohlekraftwerke u. a. durch Bergbau und Schadstoffemissionen mit 5,2 Vögeln pro GWh einen fast 20-mal höheren Verlust an Vögeln verursachen.
+Eine in Kanada durchgeführte Studie schätzt die Zahl der jährlich durch Windkraftanlagen getöteten Vögel auf ca. 20.000 bis 28.300, während insgesamt in Kanada 270 Millionen Vögel durch menschliche Aktivitäten, 200 Millionen durch Katzen und 25 Millionen durch Kollisionen mit Gebäuden getötet werden.
+
+Nach einer in der Fachzeitschrift Nature erschienenen Studie gilt die Zahl getöteter Vögel durch Windkraftanlagen in den USA im Allgemeinen als vernachlässigbar.
+So würden Windkraftanlagen nur einige Tausend Vögel töten.
+Allerdings bestehe für einige Greifvögel-Populationen in kritischen Durchzugsgebieten signifikante Gefahr.
+Während in den USA an sehr früh genutzten Standorten wie z. B. am Altamont Pass eine relativ hohe Kollisionsgefahr von Vögeln mit Windkraftanlagen bestand (u. a. durch Errichtung in sehr vogelreichen Regionen sowie die Nutzung kleiner, sehr schnell drehender Anlagen), gingen Fälle von Vogelschlag bei neueren Windparks deutlich zurück, wie eine 2015 erschienenen Review-Studie ergab.
+Dort werden die Todesfälle mit 0,02 bis 7,36 Vögeln pro Anlage und Jahr angegeben, als Extremwert wurden 20,53 Vögel genannt.
+Greifvögel waren stärker gefährdet als andere Arten.
+
+==== Fledermäuse
+
+Auch Fledermäuse können an Windkraftanlagen verunglücken.
+Zunächst fiel dies in den USA sowie in Australien auf.
+Später folgten in Europa Untersuchungen, um Umfang und Hintergründe zu ermitteln.
+Drei bundesweite Vorhaben untersuchen die Reduktion des Kollisionsrisikos von Fledermäusen an Onshore-Windenergieanlagen (Renebat I bis III).
+Ziel des Forschungsvorhabens Renebat I war die Validierung bestehender Untersuchungsmethodiken zum Auftreten von Fledermäusen an Windenergieanlagen.
+Ziel von Renebat II war die Weiterentwicklung der Methoden und der Test fledermausfreundlicher Betriebsalgorithmen.
+Ziel von Renebat III ist es, den Erfassungsaufwand zu reduzieren, der nötig ist, um das Schlagrisiko von Fledermäusen zu ermitteln.
+Die Autoren einer weiteren Studie schätzen, dass in Deutschland jedes Jahr mehr als 250.000 Fledermäuse durch Windkraftanlagen getötet werden könnten, sofern keine vorbeugenden Maßnahmen wie angepasste Betriebsmodi getroffen werden.
+
+Bei allen Arten der Gattung der Fledermäuse (Microchiroptera) handelt es sich um besonders geschützte Arten gemäß Bundesnaturschutzgesetz.
+Sie sind sog. Anhang-IV-Arten der Fauna-Flora-Habitat-Richtlinie.
+Hinsichtlich einer Gefährdung von Fledermausarten durch Windkraftanlagen ist insbesondere maßgeblich, ob sich die betroffenen Bereiche als bevorzugte Jagdgebiete darstellen oder Hauptflugrouten durch diese verlaufen.
+
+In Deutschland fand man bis April 2013 17 verunglückte Fledermausarten an den Anlagen, vor allem Große Abendsegler, die Rauhautfledermaus und die Zwergfledermaus.
+Weitere schlagopfergefährdete Arten sind die Breitflügelfledermaus, der Kleine Abendsegler, die Mückenfledermaus, die Nordfledermaus sowie die Zweifarbfledermaus.
+Allen Arten ist gemein, dass sie auch im freien Luftraum und in großen Höhen jagen.
+Zudem scheint es während der Migration zwischen Winter- und Sommerquartieren von Abendseglern und Rauhautfledermäusen häufiger zu Kollisionen zu kommen.
+Eine Rolle spielt vermutlich auch die nach der Auflösung der Wochenstuben stattfindende Erkundungs- und Schwärmphase, durch die vermutlich die Zwergfledermaus häufiger an Windkraftanlagen verunglückt.
+Einige Standorte, etwa im Wald oder in dessen Nähe, gelten als besonders schlagträchtig.
+Während der Zugzeit im August und September kommt es vermehrt zu Kollisionen, auch bestimmte Witterungsbedingungen - Temperatur, Windgeschwindigkeit - begünstigen den Fledermausschlag.
+
+Als Strategien zur Vermeidung von Kollisionen mit Fledermäusen gelten der Verzicht auf besonders gefahrenträchtige Standorte sowie das Abschalten der Anlagen zu bestimmten Jahres- und Nachtzeiten bei niedrigen Windgeschwindigkeiten, in denen die Aktivität von Fledermäusen hoch ist.
+Daher können durch die Anhebung der Anlaufgeschwindigkeit die Fledermausunfälle bei nur geringem Ertragsverlust für die Betreiber drastisch reduziert werden.
+Untersuchungen ergaben 2008, dass kein direkter Kontakt zwischen Fledermaus und Windkraftanlage als Todesursache notwendig ist, sondern viele Tiere ein Barotrauma erleiden, das durch Druckunterschiede, vor allem an den Rotorblattenden, ausgelöst wird.
+Besonders gefährlich sind Windräder für Fledermausweibchen und -junge.
+
+Ein Forschungsvorhaben an der Ostseeküste Lettlands ergab, dass Fledermäuse vermutlich von der Befeuerung angelockt werden, die nachts an Windkraftanlagen rot blinkt.
+Daher schlagen die Autoren eine bedarfsgerechte Befeuerung vor.
+
+Eine britische Studie aus dem Jahr 2010 legt nahe, dass das helle Grau, mit dem Windkraftanlagen üblicherweise gestrichen werden, auf Fluginsekten anziehend wirkt, während andere Farben weniger Insekten anlockten.
+Da eine hohe Insektenaktivität Insektenfresser wie Vögel oder Fledermäuse anlockt, könnten Vögel und Fledermäuse durch einen anderen Farbanstrich geschützt werden.
+
+=== Insektensterben
+
+Eine Studie des DLR aus den Jahren 2017 bis 2018 kam zu dem Ergebnis, dass Windkraftanlagen eine Ursache für das Insektensterben in Deutschland darstellen könnten.
+Der Bericht weist darauf hin, dass aufgrund mangelnder Forschung keine Aussage darüber getroffen werden kann, welchen Anteil Windkraftanlagen am Rückgang der Insekten neben anderen Ursachen wie dem Einsatz von Insektiziden und Herbiziden, Monokulturen, Verkehr, Kontamination, Klimawandel und Urbanisierung darstellen und welches die Hauptursachen sind.
+Es wurde jedoch festgestellt, dass Windkraftanlagen jedes Jahr für den Verlust von über tausend Tonnen an Fluginsekten verantwortlich sind.
+Die Forscher legten besonderen Wert auf die Aussage, dass bei einer wie auch immer gearteten Erholung der Insektenpopulation die deutschen Windparks einen signifikanten, negativen Einfluss auf diese Erholung hätten.
+So würde z. B. bei einer Erholung der Fluginsektenpopulation auf die Insektendichte pro Kubikmeter Luft von 2003 auch die Vernichtung von Insekten durch Windparks ihren Schätzungen nach auf über 3500 Tonnen pro Jahr ansteigen.
+
+Vor dem Hintergrund dieser Ergebnisse mahnen die Forscher weitere Forschungen in diesem Bereich und die umgehende Entwicklung von Gegenmaßnahmen für Windkraftanlagen und deren Umsetzung an.
+
+Insektenforscher bewerten die DLR-Kalkulationen uneinheitlich.
+Lars Krogmann vom Staatlichen Museum für Naturkunde Stuttgart merkt an, dass gerade die durch Rote Listen erfassten Insektengruppen in derartigen Höhen kaum vorkämen und die Folgen von Lebensraumverlust, Monokulturen und Überdüngung demgegenüber "deutlich schlüssiger und relativ eindeutig belegt" seien.
+Thomas Schmitt, Direktor am Senckenberg Deutsches Entomologisches Institut, regt (wie die Studie selbst) den Einsatz genetischer Methoden an, um die betroffenen Arten bestimmen zu können.
+Auch Professor Johannes Steidle, Tierökologe an der Universität Hohenheim, warnt davor, den Aspekt des Habitatverlusts zu vernachlässigen: "Entscheidend für die Größe von Insektenpopulationen ist weniger die Frage, ob irgendwo Tiere sterben, sondern ob sie den richtigen Lebensraum zur Vermehrung finden." Da Insekten die offene See meiden, kommt bei der Offshorewindkraft ein Insektentod kaum vor.
+
+=== Auswirkungen auf das lokale Klima
+
+Windkraftanlagen vermischen mit ihren Rotoren höhere und niedrigere Luftschichten.
+Dadurch erhöht sich die Bodentemperatur auf der Leeseite eines Windparks besonders nachts und in den Morgenstunden.
+Tagsüber erzeugt der von der Sonne erwärmte Boden Thermik, so dass die unteren Luftschichten auch ohne Windkraftanlagen vermischt sind.
+Diese Erwärmung ist auf die Umgebung des Windparks innerhalb einiger Kilometer beschränkt.
+Solarzellen erwärmen ebenfalls ihre Umgebung, indem sie auf der von ihnen bedeckten Fläche mehr Sonnenlicht absorbieren.
+Die Erhöhung der Bodentemperatur durch Windkraftwerke fällt etwa um den Faktor zehn größer aus als die von Solarparks mit gleicher elektrischer Leistung.
+
+Es wurde vorgeschlagen, sehr große Offshore-Windparks zu installieren, dicht gestaffelt bis in 100 km Abstand von der Küste, um diese vor Wirbelstürmen zu schützen.
+Neben der Windgeschwindigkeit würde auch die Höhe der Sturmflut abnehmen.
+
+=== Auswirkungen bei Standorten im Meer
+
+Um die erheblich stärkeren Winde auf See nutzen zu können, werden in Europa Offshore-Windparks geplant und gebaut.
+Deutschland, Dänemark, Schweden und Großbritannien haben bereits zahlreiche nahe der Küste liegende ("Nearshore") Windparks errichtet.
+Befürchtet werden beispielsweise Kollisionen mit vom Kurs abgekommenen Schiffen und eine Beeinträchtigung der Meeresökologie.
+Unsicher sind die Auswirkungen von Offshore-Windparks auf Meeressäuger wie Delfine und Schweinswale.
+Mögliche Naturschutzbedenken werden bei den Standortplanungen der Parks berücksichtigt.
+Die Verlegung von Kabeln von den Offshore-Windparks zum Land könnte zu Baumaßnahmen im Wattenmeer führen, das in Deutschland fast komplett als Biosphärenreservat und Nationalpark (wichtiges Gesetz hier: Eingriffsregelung) ausgewiesen ist.
+
+Die konkreten Auswirkungen einer großflächigen Nutzung der Offshore-Windenergie auf die Meeresökologie sind derzeit Gegenstand der Forschung; die bisher gewonnenen Erkenntnisse deuten darauf hin, dass Offshore-Windparks verglichen mit Onshore-Anlagen eher geringere Umweltbelastungen verursachen.
+
+Bei einer Untersuchung des Offshore-Windparks Egmond aan Zee kamen niederländische Wissenschaftler zu dem Ergebnis, dass sich der fertig errichtete Windpark weitgehend positiv auf die Tierwelt auswirkt.
+Meerestiere könnten in dem Windpark Ruhestätten und Schutz finden; die Biodiversität innerhalb des Windparks sei größer als in der Nordsee.
+Zwar würden einige auf Sicht jagende Vögel den Windpark meiden, andere Vogelarten jedoch fühlten sich durch den Windpark nicht gestört.
+Negative Auswirkungen gab es dagegen während des Baus.
+Allerdings weicht das lärmintensive Einhämmern von Pfählen zunehmend dem Einsaugen von Bucket-Fundamenten.
+
+=== Stoffeinsatz und Energiebilanz
+
+==== Ressourceneinsatz
+
+Neben einer Vielzahl weiterer Rohstoffe wie z. B. Kupfer für das elektrische System oder GFK bzw. CFK für die Rotorblätter bestehen Windkraftanlagen zum größten Teil aus Beton und Stahl.
+Der Ressourceneinsatz der Windenergienutzung gilt durch eine große Zahl von Studien und Lebenszeitanalysen als gut untersucht (siehe auch Tabelle Energierücklaufzeit).
+Eine systematische Zusammenfassung für den Bestand der deutschen Infrastruktur, in der auch die Windenergie untersucht wurde, wurde vom Wuppertal Institut für Klima, Umwelt, Energie 2011 in der Studie "Materialbestand und Materialflüsse in Infrastrukturen" publiziert.
+
+Demnach betrug der Materialbestand der Windkraftanlagen in Deutschland 2009 ca. 14,5 Mio. Tonnen, wobei Beton mit ca. 9,9 Mio. Tonnen den Löwenanteil ausmachte.
+Anschließend folgten Stahl mit 3,6 Mio. t, GFK mit 0,37 Mio. t und Gusseisen mit 0,36 Mio. t.
+Die angenommenen Recyclingraten für komplette Turbinen schwanken zwischen 80 % und 100 %.
+Verglichen mit anderen Kraftwerkstypen liegt bei Windkraftanlagen der Einsatz von in der Produktion energieintensivem Metall mit 28,5 % über dem Durchschnitt.
+So betrug beispielsweise der Materialbestand der deutschen Kohlekraftwerke 17,0 Mio. t, wobei 14,5 Mio. t auf Beton entfielen.
+Bei diesem Vergleich wird allerdings der fossile Brennstoffbedarf der Wärmekraftwerke nicht berücksichtigt.
+
+Die Metalle werden aufgrund ihres hohen Preises oft sehr gut recycelt, Stahl kann nach dem Einschmelzen sogar ohne Qualitätseinbußen wiederverwendet werden.
+Der Beton wird geschreddert und unter anderem im Straßenbau als Füllstoff eingesetzt.
+Schwieriger ist das Recycling von GFK, das lange Zeit ein großes Problem darstellte.
+Es kann allerdings thermisch verwertet werden, indem es in der Zementindustrie als Ersatzbrennstoff genutzt wird.
+
+Das Recycling von Windkraftanlagen ist eine gesetzliche Pflichtaufgabe für die Eigentümer und soll durch verpflichtende Rücklagen garantiert werden.
+In einer umfangreichen Untersuchung kam das deutsche Umweltbundesamt 2019 zu dem Schluss, das Deutschland auf den verstärkten Rückbau ab 2021 nicht ausreichend vorbereitet sei.
+Für das Jahr 2038 prognostizierte es eine Finanzierungslücke von 300 Millionen Euro.
+
+==== Energierücklaufzeit
+
+Die Energierücklaufzeit (energetische Amortisationszeit) beschreibt die Zeit, die vergeht, bis ein Kraftwerk genauso viel Energie erzeugt hat, wie zu dessen Produktion, Transport, Errichtung, Betrieb usw. benötigt wurde.
+Die Energierücklaufzeit beträgt bei Windkraftanlagen etwa drei bis sieben Monate und liegt auch nach konservativen Schätzungen deutlich unter einem Jahr.
+Der produzierten elektrischen Energie wird in der Regel die eingesparte Primärenergie gegenübergestellt.
+Eine kWhelektrisch ist energetisch etwa dreimal so wertvoll wie eine kWhthermisch, da der Wirkungsgrad der Umwandlung bei ca. 0,3 bis 0,4 liegt.
+Die thermische Energie lässt sich aufgrund des Umwandlungwirkungsgrades von 0,8 bis 0,9 etwa der Primärenergie gleichstellen Energetisch können sich nur Kraftwerke amortisieren, die regenerative Energiequellen nutzen, da fossile Brennstoffe verwendende Kraftwerke ständig nicht-regenerative Energievorräte verbrauchen.
+
+Während erste Untersuchungen aus der Pionierzeit der Windenergienutzung (1970er- und frühe 1980er-Jahre), beruhend auf unausgereiften Testanlagen mit nur wenigen Betriebsstunden durchaus den Schluss zuließen, dass eine energetische Amortisation kaum möglich ist, belegen zahlreiche Studien seit Ende der 1980er-Jahre bis in die Gegenwart, dass sich die heutigen ausgereiften Serienanlagen in wenigen Monaten energetisch amortisieren.
+Bei den Ergebnissen der verschiedenen Untersuchungen gibt es allerdings gewisse Unterschiede.
+Dies hängt zum einen mit den stark unterschiedlichen, standortabhängigen Energieerträgen von Windkraftanlagen zusammen, zum anderen mit dem betrachteten Lebenszyklus.
+Zudem unterscheiden sich oft die Bilanzierungsmethoden.
+So wurde z. B. in alten Untersuchungen nur die Herstellung der Anlage betrachtet.
+In modernen Lebenszyklusanalysen werden hingegen der Energieaufwand für Transport, Wartung über die Lebenszeit und Rückbau mit hinzugerechnet.
+
+In der Literatur schwanken die Angaben des Erntefaktors etwa zwischen Faktor 20 und 50.
+Der Erntefaktor ergibt sich aus Betriebsdauer der Anlage geteilt durch die energetische Amortisationszeit.
+Ardente u. a. ermittelten in ihrer Arbeit für einen italienischen Windpark einen primärenergetisch gewichteten Erntefaktor von 40-80 und konstatieren, dass selbst unter schlechtesten Voraussetzungen die Energierücklaufzeit unter einem Jahr liegt.
+Aus diesen Werten schlussfolgern sie, dass Windparks - auch verglichen mit anderen regenerativen Energien - zu den umweltschonendsten Energiegewinnungsformen zählen.
+Eine 2017 in der Fachzeitschrift Renewable Energy erschienene Systematische Übersichtsarbeit, die 17 seit dem Jahr 2000 erschienene Studien auswertete, kam zum Ergebnis, dass die Energierücklaufzeit von Windkraftanlagen größtenteils unter einem Jahr liegt.
+Für Onshore-Anlagen lag die Energierücklaufzeit zwischen 3,1 und 12 Monaten, im Durchschnitt bei 6,8 Monaten, bei Offshore-Anlagen 4,7 und 11,1 Monaten, mit Durchschnittswerten von 7,8 Monaten.
+
+Hau gibt für eine Anlage mit einer Nennleistung von 1 MW und einem Rotordurchmesser von 53 m detaillierte Daten an.
+Die Herstellung einer derartigen Anlage erfordert demnach einen Primärenergieeinsatz von rund 2 Mio. kWh, wobei etwa 1,6 Mio. kWh auf die Stahlherstellung entfallen.
+Das jährliche Regelarbeitsvermögen dieser Anlage beträgt 2,4 Mio. kWhelektrisch, entsprechend 6,85 Mio. kWhPrimärenergie.
+Die energetische Amortisationszeit ist folglich 3,4 Monate, der Erntefaktor liegt bei einer Betriebsdauer von 20 Jahren bei 70.
+
+==== Verwendung von Seltenerdmagneten
+
+Nach Schätzungen aus dem Jahr 2011 werden bei rund einem Sechstel der Windkraftanlagen Synchrongeneratoren mit Permanentmagneten aus Neodym-Eisen-Bor eingesetzt.
+Auch Dysprosium kann beigemischt werden.
+Die Elemente Neodym und Dysprosium zählen zu den sog. Seltenen Erden, die je nach Studie zu 90 bis 97 % in China unter erheblichen Belastungen für die Umwelt und die Gesundheit der Anwohner abgebaut und aufbereitet werden.
+
+Im Jahr 2007 waren rund 62.000 Tonnen Neodym im Umlauf, wovon ca. 10.000 Tonnen in Windkraftanlagen verbaut waren.
+Deren große Magnete sind aber leicht zu recyclen, während die Rückgewinnung aus Produkten, in denen Neodym kleinteilig verteilt und stark verdünnt vorkommt, beispielsweise Computer, Handys und Audiosysteme, problematisch ist.
+Trotzdem weisen einige Windkraftanlagenhersteller wie zum Beispiel Senvion und Enercon ausdrücklich darauf hin, dass in ihren Generatoren kein Neodym eingesetzt wird.
+Nach Preisspitzen im Jahr 2011 kehrten andere Hersteller wie Vestas und General Electric, die in ihren Anlagen zuvor zeitweise Seltenerdmagnete einsetzten, bei vielen ihrer Anlagen zum doppelt-gespeisten Asynchrongenerator zurück.
+Im Zuge einer Leistungssteigerung stellte Vestas 2013 dann ebenfalls neue Anlagentypen, die (neodymlose) Asynchrongeneratoren mit Vollumrichter verwenden, vor.
+Für Befestigungen am Stahlturm werden Dauermagnete weiterhin eingesetzt.
+Um den Anteil an Dysprosium in den Generatoren auf unter 1 % zu verringern, setzt z. B. Siemens Wind Power auf eine spezielle Kühlung.
+
+=== Unfallrisiken
+
+Die Nutzung der Windenergie ist sowohl in Hinblick auf die Häufigkeit des Auftretens als auch der Schwere von Unfällen eine sehr sichere Technologie, gerade auch im Vergleich zu anderen Arten der Energiegewinnung.
+Zwar treten Unglücksfälle auch bei Windkraftanlagen auf, doch da sie meist fernab von Siedlungen stehen und Unfälle vor allem während Sturmphasen geschehen, kommt es abgesehen von Arbeitsunfällen bei der Montage und Wartung meist nicht zu Personenschäden.
+Neben Blitzschlägen und defekten Rotorblättern sind Turmberührungen bei extremen Böen Gründe für Unfälle.
+Dabei kann eine Anlage umstürzen oder Teile der Rotorblätter verlieren.
+In Mitteleuropa wurden bei rund 40.000 installierten Windkraftanlagen bisher ca. 15 Blattabbrüche registriert (Stand Anfang 2014).
+Die Auswirkungen von Unfällen sind begrenzt und ausschließlich lokal, beispielsweise kann die umliegende Vegetation durch abbrechende Rotorblattteile geschädigt werden.
+
+Ebenfalls können Anlagen in Brand geraten, wobei Brände in der Regel durch die Feuerwehr nur im unteren Turmbereich bekämpft werden können.
+Bei vielen Anlagen wird inzwischen standardmäßig ein Brandschutzsystem installiert, um Brände in der Mechanik und Elektronik bekämpfen zu können.
+Durch Brände können lokal Stofffreisetzungen auftreten, wie sie auch bei anderen Energietechnologien möglich sind.
+Um Umweltbelastungen durch Ölaustritte zu vermeiden, sind Windkraftanlagen mit ölgeschmiertem Getriebe mit Auffangwannen ausgerüstet.
+Typisch herrschen an Standorten stärkere Winde vor, die entstandene Brände anfachen können.
+Von 28.000 in Deutschland installierten Windkraftanlagen sind mit Stand Oktober 2013 zumindest 100 durch Brand total verloren gegangen.
+
+Die Rotorblätter von alten Anlagen ohne Eiserkennung können bei entsprechender Witterung Eis ansetzen, das sich bei Tauwetter bei stehender und als Eiswurf bei anlaufender Anlage ablösen kann.
+Die Wahrscheinlichkeit, durch Eiswurf einer Windkraftanlage zu Schaden zu kommen, ist weitgehend vernachlässigbar und entspricht etwa der Wahrscheinlichkeit, von einem Blitz getroffen zu werden.
+Alle modernen Anlagen verfügen über eine Eiserkennung, beruhend auf Temperatur, Windsensorstatus, Windgeschwindigkeits- und Leistungsdaten, sodass sie bei Vereisung automatisch abschalten.
+Wenn die Anlage wieder eisfrei ist (Außentemperaturen über dem Gefrierpunkt) fährt die Anlage im automatischen Betrieb von selbst wieder an.
+Im manuellen Betrieb ist sie vom Windmühlenwart oder Servicepersonal vor Ort (ggf. nach einer Sichtkontrolle) wieder in Betrieb zu nehmen.
+Durch Rotorblattheizungen kann das Abtauen bei Stillstand nach einem Eisansatz beschleunigt werden.
+In entsprechenden Klimazonen kann durch Beheizung der Rotorblätter im laufenden Betrieb der Ertrag deutlich gesteigert werden.
+
+Eisabwurf ist öfter (bei Raureif, seltener Eisregen) zu beobachten, es wurden jedoch bisher noch keine Personen- oder Sachschäden dokumentiert.
+Die Wurfweite (Anlage geht bei Vereisung in Trudelstellung) ist meist gering, wobei gilt: je kompakter die Eisstücke, desto näher bei der Anlage (z. B. nach Eisregen), je leichter, desto weiter werden sie von eventuellen Windböen getragen - als relevante Entfernung kann die Rotorspitzenhöhe angenommen werden (= ca. 45° Fallwinkel).
+Bei Eiswetterlage oder Tauwetter sollte man den Aufenthalt unter Windkraftanlagen ebenso wie unter anderen hohen Gebäuden oder Konstruktionen - zum Beispiel Freileitungsmasten - vermeiden.
+Meist wird auf Hinweisschildern an den Zugangswegen vor der Gefahr gewarnt.
+
+Die beschriebenen Unfälle können Infrastrukturobjekte gefährden, die sich in unmittelbarer Nähe von Windenergieanlagen befinden.
+Mit Bezug auf diese Gefährdung werden von Behörden oder Betreibern dieser Infrastrukturobjekte Mindestabstände gefordert, die in der Regel aus den maximalen Abständen von theoretischen Auswirkungen dieser Unfälle festgelegt werden.
+Alternativ kann die Gefährdung durch probabilistische Betrachtungen bewertet werden.
+Ergebnis dieser Betrachtungen ist die Bewertung der Gefährdung bzw. die Angabe von Mindestabständen für Regelfälle in konkreten Projekten.
+
+Im Januar 2019 bezeichnete der Verband der Technischen Überwachungs-Vereine (VdTÜV) Windkraftanlagen als tickende Zeitbomben und forderte eine bundesweit einheitliche Prüfpflicht für alle Anlagen.
+Wegen des Alters der Windkraftanlagen wurden in Zukunft Personenschäden befürchtet.
+Der VdTÜV geht aktuell von etwa 50 schweren Havarien, wie abknickende Türme, abbrechende Rotorblätter und brennenden Gondeln pro Jahr in Deutschland aus.
+Der Bundesverband Windenergie hingegen spricht von durchschnittlich sieben Havarien pro Jahr seit 2013.
+Daten zu Havarien werden bisher in Deutschland nicht dokumentiert.
+
+== Auswirkungen auf die Gesellschaft
+
+=== Gesellschaftliche Akzeptanz
+
+Eine 2011 in insgesamt 24 Ländern weltweit durchgeführte Umfrage ergab, dass 93 % der Befragten den Ausbau von Windkraftanlagen befürworteten.
+
+==== Deutschland
+
+Auch in Deutschland herrscht in der Bevölkerung ein weitgehender Konsens, dass den erneuerbaren Energien in einem zukünftigen Energiesystem die tragende Rolle zukommen soll.
+Die dritte jährliche Forsa-Umfrage zur Akzeptanz der Erneuerbaren Energien in Deutschland wurde 2009 durchgeführt.
+Sie war repräsentativ und ergab unter anderem:
+
+Diese Ergebnisse wurden durch weitere Umfragen seitdem im Wesentlichen bestätigt.
+Allerdings kommt es gerade beim Bau von Windkraftanlagen im Vorfeld angesichts befürchteter Nachteile häufig zu lokalem Widerstand, was oft als Nimby-Phänomen bezeichnet wird.
+Dieses Konzept erfährt mittlerweile in der wissenschaftlichen Debatte deutliche Kritik, da eine Reihe von Untersuchungen zu dem Ergebnis kam, dass ein Kernbestandteil dieser These, die sog. "proximity-hypothesis", nicht zutrifft.
+Diese geht davon aus, dass der Widerstand umso größer ist, je näher die Anwohner an den Windkraftanlagen wohnen.
+In der Realität wird jedoch häufig genau das Gegenteil beobachtet, also dass die Unterstützung von Windkraftanlagen mit zunehmender Nähe zunimmt.
+Daneben legen weitere Studien nahe, dass nach Installation der Anlagen die Unterstützung ansteigt.
+Weiteren Einfluss auf die Zustimmung hat die Möglichkeit der Beteiligung.
+Ist eine kommunale Beteiligung an den Anlagen möglich, führt dies zu deutlich höheren Akzeptanzwerten in der Bevölkerung.
+
+Dennoch kommt es mancherorts zur Bildung von Bürgerinitiativen.
+Neben Initiativen, welche die Windenergienutzung generell ablehnen, existieren Initiativen, die nur konkrete Anlagen in der näheren Umgebung ablehnen, prinzipiell aber die Windenergienutzung befürworten.
+Kritikpunkte sind z. B. der Abstand der Anlagen zur Wohnbebauung, eine als nachteilig empfundene Veränderung des Landschaftsbildes (siehe auch Kulturlandschaftsschutz) sowie die Beeinträchtigung von Tieren wie Vögeln und Fledermäusen.
+
+Einige Bürgerinitiativen geben vor, die Weltgesundheitsorganisation würde einen Mindestabstand von 2000 Metern zu Wohnbebauungen fordern.
+Auf Anfrage gab die Organisation an, sie habe keine Richtlinie zu Geräuschen von Windturbinen herausgegeben.
+Sie verwies lediglich auf eine Empfehlung des kanadischen Umweltministeriums und auf die allgemein gültigen Lärm-Richtlinien der WHO.
+
+==== Schweiz
+
+Eine im November 2015 veröffentlichte Studie der Universität St. Gallen erhob in der Ostschweiz eine deutliche Mehrheit der Befragten, welche eine Entwicklung der Windkraft sowohl national als auch in der eigenen Umgebung akzeptierten.
+
+=== Gesundheit
+
+Eine Metastudie des Umweltbundesamtes in Deutschland kam 2016 zu der Erkenntnis, dass die die gesundheitlichen Gefährdungen von Windenergieanlagen als "sehr gering" einzuschätzen sind und technische Vorschriften dies heute sicherstellen.
+Die Studie untersuchte die Auswirkungen von hörbarem Schall, nicht hörbarem Schall, Schattenwurf und Stroboskopeffekt, Lichtemissionen, Eiswurf und subjektive Wahrnehmungen.
+Nach dem Bundes-Immissionsschutzgesetz (siehe auch Technische Anleitung Lärm) darf die von einer technischen Anlage verursachte Schallimmission in Deutschland in reinen Wohngebieten nachts einen A-bewerteten Dauerschalldruckpegel von 35 dB nicht überschreiten (allgemeines Wohngebiet 40 dB, Dorf- und Mischgebiet 45 dB, Gewerbegebiet 50 dB).
+Tagsüber liegen die Werte höher.
+Für baurechtlich nicht festgesetzte Gebiete (z. B. Einzelgehöft im Außenbereich) werden nach aktueller Rechtsprechung die Werte für Mischgebiete angesetzt.
+Beim Bauantrag für eine Windkraftanlage ist im Rahmen des Genehmigungsverfahrens neben einer rechnerischen Vorhersage der erwarteten Schallimmissionen auch eine Betrachtung der möglichen Auswirkungen des Schattenwurfs vorzulegen.
+
+==== Schattenwurf
+
+Der Schattenwurf wird als unangenehm empfunden, weil der Schatten einer Windkraftanlage im Gegensatz zum Schatten von unbewegten Gegenständen periodische Helligkeitsschwankungen am Immissionsort hervorruft.
+Die Ursache ist der drehende Rotor.
+Der Schatten einer stehenden Windkraftanlage ist hingegen nicht anders zu bewerten als der Schatten eines normalen Gebäudes.
+Das Auftreten des Schattenwurfes hängt von der Lage und Größe der Windkraftanlage, der Lage des Immissionspunktes, der Gondelausrichtung und vom Anteil der Direktstrahlung an der Globalstrahlung ab.
+
+Nach dem Bundes-Immissionsschutzgesetz darf der Schattenwurf (auch Schlagschatten genannt) durch Windkraftanlagen in Deutschland auf (bestehende) Wohnhäuser jeweils nicht mehr als 30 Stunden pro Jahr und 30 Minuten pro Tag betragen.
+Diese Grenzwerte gelten unabhängig von Anlagenzahl und -größe.
+Bei dem Jahresgrenzwert handelt es sich um eine theoretische Größe, die sich unter Annahme von stetigem Wind, Betrieb, Sonnenschein und maximaler Schattenprojektion ergibt.
+In Deutschland liegt das Verhältnis von realem zu geometrischem Schattenwurf bei ca. 1 zu 4, sodass sich reale Belastungen von etwa acht Stunden im Jahr pro Immissionspunkt ergeben.
+Diese müssen über Mess- und Steuerungseinrichtungen in den Anlagen (Schattenwurfabschaltmodul) eingehalten werden.
+
+Insbesondere der flackernde Schatten des drehenden Rotors wird oft als belästigend empfunden.
+Anlagen, bei denen Gutachten zur Genehmigung eine Überschreitung der Grenzwerte zeigen, werden heute mit einer sonnenstands- und wetterabhängigen Schattenwurfregelung ausgerüstet, die durch die automatische zeitweise Abschaltung der Anlagen für die Einhaltung der Grenzwerte sorgen.
+
+Der "Diskoeffekt" bezeichnet periodische Lichtreflexionen durch die Rotorblätter, er wird häufig mit der Schattenwurf-Erscheinung des Rotors verwechselt.
+Er trat vor allem bei Anlagen aus den Anfängen der Windenergienutzung auf, als noch glänzende Lackierungen an den Rotorblättern benutzt wurden.
+Seit langem werden die Oberflächen der Anlagen mit matten (nicht gerichtet reflektierenden) Lackierungen versehen.
+Daher spielt der Diskoeffekt bei der Immissionsbewertung durch moderne Windkraftanlagen keine Rolle mehr.
+
+==== Schall
+
+Der Schall von Windkraftanlagen ist in der Hauptsache das Windgeräusch der sich im Wind drehenden Rotorblätter.
+Der A-bewertete Schallleistungspegel wird nach genormten Verfahren durch akustische Messungen bestimmt.
+Typische Werte liegen bei ca. 95 dB für kleine Windenergieanlagen bis 100 kW und 105 bis 107 dB für Multimegawattanlagen mit Rotordurchmesser bis 130 m.
+Ältere Zweiblattrotoren erreichten z. T. deutlich höhere Werte.
+Wird für die Vorhersage der Schallimmission an weit entfernten Orten die Anlage vereinfachend als Punktschallquelle und die Schallausbreitung in alle Richtungen als gleichmäßig angenommen, so sinkt bei doppelter Entfernung der Schallpegel am Immissionsort um 6 dB.
+Allerdings ist das eine idealisierte Vorstellung.
+In der Realität wird der Wert maßgeblich von der Windrichtung beeinflusst und kann daher höher oder niedriger sein.
+
+Die stärkste Wahrnehmbarkeit wird bei 95 Prozent der Nennleistung angenommen, also bei Windgeschwindigkeiten zwischen etwa 10 und 12 m/s in Nabenhöhe.
+Bei niedrigeren Windgeschwindigkeiten sind die Schallleistungspegel geringer, bei höheren werden sie von den weiter in der Lautstärke ansteigenden Umgebungsgeräuschen überlagert.
+
+Drehzahlvariable Windkraftanlagen können in einen schallreduzierenden Betriebszustand gebracht werden, um zu bestimmten lärmsensiblen Zeiten, üblicherweise nachts, Rücksicht auf die in der Nähe befindlichen Wohngebiete zu nehmen.
+Derartige Betriebsmodi werden von fast allen Herstellern für ihre Anlagen angeboten.
+Da die Schallemission besonders von der Blattspitzengeschwindigkeit und - sofern vorhanden - dem Getriebe abhängt, wird dazu die Anlage mit suboptimaler Drehzahl gefahren.
+Die Verringerung von Schallemissionen ist eines der Hauptziele bei der Weiterentwicklung der Anlagen, bei der in den letzten Jahren große Fortschritte erzielt wurden.
+Durch den Verzicht auf ein Getriebe, bessere Körperschallentkopplung durch Einbau von Elastomeren an Tragpunkten, Schalldämpfung von Lüftungsschächten und Aerodynamik können die Geräuschemissionen stark gesenkt werden.
+Einzeltöne, etwa durch Einrastfrequenzen im Getriebe, und Impulshaltigkeit, die einen Aufschlag von bis zu 6 dB(A) rechtfertigen, treten bei modernen Anlagen durch konstruktive Maßnahmen nicht mehr auf.
+
+Niederfrequente Schwingungen wie Infraschall entstehen vor allem bei Anlagen mit Stallregelung, wie sie heute nicht mehr errichtet werden.
+In geringem Maße sind sie auch bei modernen Anlagen mit Pitch-Regelung nachzuweisen.
+Dieser Infraschall ist bereits in geringer Entfernung von den Anlagen nicht mehr wahrnehmbar.
+Durch die von der TA Lärm in Deutschland geforderten Abstände von Windkraftanlagen zur Bebauung gehen keine Gefahren für Anwohner aus.
+Wind erzeugt am eigenen Haus sehr viel intensiveren Infraschall als eine Windkraftanlage oder ein Windpark im gesetzlich vorgeschriebenen Abstand.
+
+Eine Besonderheit ist das Phänomen der Amplitudenmodulation, zu dem inzwischen erste Messergebnisse vorliegen.
+Dieses Phänomen wurde bei mittleren Pegeln zwischen 46,2 und 29,7 dB und Entfernungen zwischen 550 und 1000 Metern an mehreren Windparks untersucht.
+
+Vorbehaltlich belastbarer wissenschaftlicher Grundlagen empfiehlt die Weltgesundheitsorganisation (WHO), die Schallimmission von Windenergieanlagen im 24-h-Durchschnitt solle 45 dB nicht überschreiten.
+
+=== Hindernis-Kennzeichnung
+
+Die bei Windkraftanlagen mit mehr als 100 Metern Höhe vorgeschriebene Hinderniskennzeichen dient der Sicherheit des Flugverkehrs.
+Die Tageskennzeichnung besteht aus zwei roten Streifen an den Rotorblattspitzen, die Nachtkennzeichnung aus roten Lampen auf dem Dach der Maschinengondel.
+Diese Kennleuchten arbeiten bei alten Anlagen mit Leuchtstoffröhren, bei neueren mit Leuchtdioden (LED) oder Blitzlampen.
+Mit ihrem charakteristischen Blinkmuster können sie - besonders bei größeren Ansammlungen von Anlagen - störend auf Anwohner wirken.
+Neuerdings dürfen die Warnlichter bei guter Sicht gedimmt werden.
+
+Mittlerweile existieren radargestützte Befeuerungssysteme, die sich nur dann einschalten, wenn sich ein Flugzeug in der Nähe befindet.
+Tests mit einem solchen System, das gemeinsam von Enertrag und Airbus entwickelt wurde, begannen 2012, 2015 wurde es durch die deutschen Behörden zugelassen.
+Pro Windpark müssen mindestens vier Radargeräte installiert werden.
+Ihre Sendeleistung von 4 Watt ist nur etwa doppelt so groß wie die eines Handys.
+Damit kann während ca. 98 % der Zeit auf den Einsatz der Hindernisbefeuerung verzichtet werden.
+Erste größere Projekte zur Nachrüstung des Systems in bestehenden Windparks laufen; beispielsweise sollen noch 2017 rund 90 % aller Windkraftanlagen im Landkreis Uckermark von Dauerbefeuerung auf bedarfsgesteuerte Befeuerung umgestellt werden.
+Seit März 2017 sind insgesamt 23 Windkraftanlagen in Schleswig-Holstein mit dem System airspex ausgerüstet.
+Als Anreiz für die Ausstattung mit solch einem System ist für Alt- und Neuanlagen ein Abschlag auf die Ersatzzahlung für den Landschafts-Bildeingriff möglich.
+
+=== Landschaftsbild
+
+Bei der ästhetischen Bewertung von Windkraftanlagen spielen subjektives Empfinden, Gewöhnung und gesellschaftliche Einstellungen, insbesondere Landschaftsideale, eine wichtige Rolle.
+Die landschaftsästhetische Bewertung von Windenergieanlagen ist äußerst kontrovers:
+Manche sehen in ihnen eine Bereicherung des Landschaftsbildes, andere eine Beeinträchtigung, insbesondere der Eigenart und Natürlichkeit von Landschaften.
+Kritisiert wird u. a. eine Technisierung/ Industrialisierung der Landschaft.
+Wegen der zumeist schlank aufragenden Türme der Windkraftanlagen wird in diesem Zusammenhang abwertend von einer Verspargelung der Landschaft gesprochen.
+
+=== Einfluss auf Radaranlagen und Funknavigation
+
+Windkraftanlagen in der Nähe von stationären Radargeräten unterliegen zusätzlichen Baubeschränkungen.
+Die Luftraumüberwachung der zivilen Flugverkehrskontrolle ist durch deren mäßige Winkelauflösung in Elevation für Objekte oberhalb von Windkraftanlagen beeinträchtigt.
+Der Schutzbereich der Anlagen beträgt bis zu 15 km.
+Die auch an niedrig fliegenden Objekten interessierte militärische Luftraumüberwachung kann durch Abschattung und Beugung an Windkraftanlagen bezüglich Reichweite, Zielerfassung und -ortung beeinträchtigt werden.
+Innerhalb des Interessenbereichs von 50 km wird die Anlagenplanung einer Prüfung durch das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr unterzogen.
+
+Die Anlagen der Flugzeuge zur terrestrischen Funknavigation sind leichter zu irritieren.
+Die Deutsche Flugsicherung verteidigt einen Bereich von 15 km Radius um (D) VOR Drehfunkfeuer.
+
+=== Immobilienpreise
+
+Von Bürgerinitiativen wird häufig eine dauerhafte Wertminderung von Immobilien durch den Bau von Windkraftanlagen befürchtet.
+2003 wurde z. B. durch den Verband Deutscher Makler von langjährigen Wertverlusten berichtet: "Zahlreiche Immobilien in der Nähe von WKA sind quasi unverkäuflich." Ferner wird in Niedersachsen und Schleswig-Holstein beklagt, "dass einige Häuser seit Jahren mit Preisabschlägen von bis 40 Prozent angeboten würden." Es gebe noch nicht einmal Interessenten für diese Objekte.
+Dieser Darstellung widersprechen aber die Immobilienökonomen Philippe Thalmann von der Hochschule Lausanne und Günter Vornholz von der EBZ Business School in Bochum.
+Laut Thalmann löst jedoch häufig diese Befürchtung eines Preisrückgangs den tatsächlichen Preisrückgang in Form einer selbsterfüllenden Prophezeiung erst aus.
+So kam es insbesondere dort zu einem temporären Einbruch der Immobilienpreise, wo vor Ort großer Widerstand gegen Windkraftanlagen geleistet wurde.
+Allerdings ist Vornholz zufolge dieser Preisrückgang nur von kurzer Dauer, da durch die Debatte zunächst potentielle Investoren abgeschreckt würden.
+Nach Errichtung der Windkraftanlagen, wenn sich die Menschen an sie gewöhnt hätten, stabilisiere sich der Wert der Immobilien jedoch wieder auf dem vorhergehenden Niveau.
+
+Allerdings wird auch auf die methodischen Schwierigkeiten hingewiesen, den Einfluss von Windenergieanlagen von anderen Faktoren wie der wirtschaftlichen oder demographischen Entwicklung abzugrenzen.
+Zudem wird auf Wissensdefizite hingewiesen, so etwa 2015 von einem Mitarbeiter des Umweltamtes der Stadt Dortmund.
+
+=== Tourismus
+
+Vor allem in touristisch bedeutsamen Regionen werden häufig ein stark negativer Einfluss auf den Fremdenverkehr sowie fallende Übernachtungszahlen befürchtet.
+Derartige Auswirkungen konnten bisher jedoch wissenschaftlich nicht nachgewiesen werden.
+
+2005 befragte die Hochschule Bremerhaven unter Projektleitung von Michael Vogel im Auftrag der WAB 840 zufällig ausgewählte Menschen in elf touristisch relevanten Nordsee-Gemeinden mit Windkraftanlagen in der näheren Umgebung.
+Dabei sollten 20 Hypothesen verifiziert bzw. falsifiziert werden, die zuvor von der WAB vorgegeben wurden.
+Die Studie kam zu dem Ergebnis, dass Windkraftanlagen zwar nicht unumstritten waren, im Durchschnitt jedoch nicht als störend empfunden und z. T. als charakteristisch für die Nordseeküste gesehen würden.
+Windkraftanlagen wurden eher als nützlich für die zukünftige Energieversorgung betrachtet, zudem äußerten sich Menschen umso positiver über Windkraftanlagen, je jünger sie waren bzw. je weiter sie von den Anlagen entfernt wohnten.
+Hauptablehnungsgrund war eine befürchtete Lärmbelästigung vor optischen Gründen, zudem würden wenige große Anlagen stärker akzeptiert als viele Kleinanlagen.
+Beschäftigte in der Tourismusbranche, bzw. Menschen mit Bekannten in dieser Branche sahen Windparks positiver als der Durchschnitt der Befragten.
+Auch befürchten diese keine Ablehnung durch Touristen und damit sinkende Übernachtungen.
+
+2012 führte das Institut für Regionalmanagement im Auftrag des Naturparks Hohes Venn-Eifel eine repräsentative Studie durch, bei der 1326 Personen befragt wurden, davon 159 mit Wohnsitz innerhalb des Naturparks.
+Demnach empfanden 59 % der Befragten die Windkraftanlagen als nicht störend, 28 % als störend aber akzeptabel.
+8 % empfanden sie als störend und 4 % als sehr störend.
+91 % der Befragten gaben an, dass sie auch bei einem weiteren Zubau von Windkraftanlagen wiederkommen würden, 6 % empfanden dies als so störend, dass sie auf einen weiteren Besuch verzichten würden.
+Eine Konzentration von Anlagen befürworteten 53 %, während 37 % eher eine breite Verteilung über das Land bevorzugten.
+Zudem wurden Windkraftanlagen als wichtig für die künftige Energieversorgung Deutschlands beurteilt.
+63 % empfanden die Windenergie als sehr wichtig, 32 % als durchschnittlich wichtig, 4 % als unwichtig.
+Auch in dieser Studie konnte wieder eine Korrelation zwischen Alter der Befragten und Akzeptanz der Windenergie festgestellt werden:
+Während von den Befragten unter 20 Jahren nahezu 80 % Windkraftanlagen als nicht störend und nahezu niemand als störend oder sehr störend beurteilten, lag bei den Befragten über 59 Jahren der Anteil der Befragten, die Windkraftanlagen als nicht störend empfanden, nur zwischen 40 und 50 %.
+Als störend, aber akzeptabel beurteilten Windkraftanlagen in dieser Altersklasse ca. 30 % der Befragten; die Zahl derer, die Windkraftanlagen als sehr störend empfanden, blieb in allen Altersklassen unter 10 %.
+
+In bestimmten Regionen wird die Windenergienutzung bewusst in das lokale Tourismusangebot mit eingebunden.
+So gibt es mancherorts z. B. Tourismuslehrpfade, Windwanderwege, Windenergieradwege oder dergleichen.
+Auch existieren einige wenige Windkraftanlagen mit Aussichtsplattform, die von Touristen bestiegen werden können und häufig mit einem Besucherinformationszentrum kombiniert sind.
+In Pfaffenschlag bei Waidhofen an der Thaya, Niederösterreich wurde von einem lokalen Windkraftanlagenbetreiber ein am Boden aufgestelltes Maschinenhaus (Gondel und Nabe) eines Windrads zur Besichtigung von innen aufgestellt.
+
+== Rahmenbedingungen
+
+=== Genehmigungsgrundlage
+
+In Deutschland erfolgt die Zulassung von Windkraftanlagen in der Regel in zwei getrennten Verwaltungsverfahren.
+Zunächst werden Flächen ausgewiesen, wo die Nutzung von Windenergie geeignet und gewollt ist.
+Im zweiten Schritt erfolgt die Genehmigung zur Errichtung und zum Betrieb der Anlage.
+
+==== Planungsrecht in Deutschland
+
+In Landesentwicklungsprogrammen der Bundesländer können Ausbauziele festgelegt werden.
+Dabei gelten die Regelungen der Landesplanung in Deutschland.
+In der Regionalplanung werden die Ausbauziele konkretisiert und Flächen für Windkraftnutzung an Land festgelegt.
+Sind solche Festlegungen getroffen worden, ist Windkraftnutzung außerhalb dieser Flächen nicht zulässig.
+Die räumliche Steuerung der Windkraftnutzung kann auch kleinteiliger auf kommunaler Ebene erfolgen.
+Dann legen die Gemeinden Flächen für Windkraft im Flächennutzungsplan fest.
+Um Widersprüche in der Landes- und Flächennutzungsplanung zu vermeiden, gilt das Gegenstromprinzip (Raumordnungsrecht).
+Die Bundesländer Schleswig-Holstein, Niedersachsen und Mecklenburg-Vorpommern können im Küstenmeer auch marine Flächen für Offshore-Windparks festlegen.
+Ist eine räumliche Steuerung in einem Planungsraum nicht erfolgt oder unwirksam geworden, ist Windkraftnutzung überall zulässig.
+Denn die Windkraftnutzung ist ein privilegiertes Bauvorhaben.
+
+Die räumliche Steuerung der Offshore-Windparks in der AWZ der Nord- und Ostsee erfolgte durch zwei Raumordnungspläne, die das Bundesministerium für Verkehr, Bau und Stadtentwicklung 2009 verordnet hat.
+Die Pläne werden seit 2012 durch den Bundesfachplan Offshore des Bundesamtes für Seeschifffahrt und Hydrographie (BSH) ergänzt.
+Seit 2017 ist das BSH für den Gesamtplanungsprozess der Flächen inklusive Entwicklung und Voruntersuchung zuständig.
+
+==== Genehmigungsrecht in Deutschland
+
+Jede einzelne Windenergieanlage an Land mit einer Gesamthöhe von mehr als 50 m ist eine genehmigungsbedürftige Anlage.
+Die Errichtung und der Betrieb einer Windenergieanlage bedürfen also einer Genehmigung.
+Das Genehmigungsverfahren erfolgt seit dem 1. Juli 2005 auf Grundlage des Bundes-Immissionsschutzgesetzes.
+Ältere Windenergieanlagen wurden nach Bauordnungsrecht genehmigt.
+Offshore-Windparks im Küstenmeer werden auch immissionsschutzrechtlich genehmigt.
+Offshore-Windparks in der AWZ der Nord- und Ostsee unterliegen dem Seeanlagenrecht und der Zuständigkeit des BSH.
+
+=== Kleinwindanlagen
+
+Die Genehmigung von Windkraftanlagen mit einer Höhe geringer als 50 Meter basiert nicht auf dem Bundes-Immissionsschutzgesetz, sondern auf Landesrecht.
+In jedem Bundesland gibt es somit unterschiedliche Regelungen für die Baugenehmigung kleiner Windkraftanlagen.
+Einige Bundesländer sind dazu übergegangen, für Kleinstanlagen bis 10 Meter Höhe auf eine Genehmigungspflicht zu verzichten.
+
+=== Stromgestehungskosten und Förderung
+
+Die Stromgestehungskosten von Windkraftanlagen sind von der jeweiligen Standortqualität abhängig.
+Sie liegen aber auf ähnlichem Niveau wie von Wärmekraftwerken, deren Kosten durch sich verteuernde Brennstoffkosten in Zukunft weiter ansteigen werden.
+Auf sehr guten Onshore-Standorten sind Windkraftanlagen mit Stromgestehungskosten von bis zu 4,5 ct/kWh laut Fraunhofer ISE bereits heute in der Lage günstiger zu produzieren als die meisten konventionellen Kraftwerke (Stand 2013).
+Mit sinkender Standortgüte steigen die Stromgestehungskosten an, sodass Windkraftanlagen auf sehr schlechten Standorten mit bis zu 10,7 Ct/kWh noch teurer sind als Kohle- und Gaskraftwerke.
+Offshore-Anlagen liegen z. T. deutlich über diesen Werten.
+
+Ähnliche Werte sind in der Literatur zu finden.
+Gasch u. a. nennen z. B. für einen exemplarischen Windpark Stromgestehungskosten von 6,5 Ct/kWh, die bei 10 % besseren Windverhältnissen auf 5 ct/kWh sinken können.
+Kaltschmitt und Streicher geben in ihrer bereits 2009 erschienenen Arbeit für Österreich zwischen 6 und 9 Ct/kWh an.
+An den besten Standorten liegen die Stromgestehungskosten von Windkraftanlagen mittlerweile bei 40-50 US-Dollar/MWh (33,1-41,4 Euro/MWh), wenn diese auch stark abhängig sind von der Standortqualität und den Finanzierungsbedingungen; in den USA sind Onshore-Windkraftanlagen nach gasbefeuerten GuD-Anlagen bereits die zweitgünstigsten Kraftwerke.
+Langfristig wird davon ausgegangen, dass sich die Windenergie weltweit zur günstigsten Form der Stromproduktion entwickeln wird.
+
+Da Investitionen in Windkraftanlagen und andere alternative Energiequellen in vielen Ländern gefördert wurden und werden, steigt seit Jahrzehnten die jährlich neu installierte Leistung.
+Während in der Anfangszeit Forschungsförderung dominierte, ist heute die Einspeisevergütung verbreitet, etwa im deutschen Erneuerbare-Energien-Gesetz.
+Weitere Fördermechanismen sind Steuervergünstigungen und Mindestquoten für Strom aus regenerativen Quellen.
+
+=== Preise
+
+Die Preise für Windkraftanlagen unterliegen marktüblichen Schwankungen.
+Zum einen halten sich die Anbieter eher bedeckt, zum anderen müssen individuelle Rahmenbedingungen berücksichtigt werden.
+Dazu zählen beispielsweise der Baugrund, die Infrastruktur (Zuwegung zur Baustelle, Entfernung zum Stromnetz), Vorschriften zur Stromqualität und Lärmemission usw. und davon abhängig die verwendete Technik (Art des Fundamentes, Art der Einspeisung etc.).
+Getriebelose Anlagen sind in der Regel in der Installation teurer als herkömmliche Windkraftanlagen mit Getriebe, jedoch zuverlässiger, wartungsärmer und leiser.
+
+Hau nannte für zwei an Land errichtete Windkraftanlagen mit jeweils 3 MW Nennleistung, einem Rotordurchmesser von 100 m und einer Nabenhöhe von 100 m, jedoch unterschiedlichen technischen Konzepten exemplarische Werte:
+Demnach beträgt der kalkulatorische Verkaufspreis einer drehzahlvariabel arbeitenden Getriebeanlage mit doppelt-gespeistem Asynchrongenerator und Teilumrichter 3.058.500 Euro bzw. 1019 Euro/ kW. Eine drehzahlvariable getriebelose Anlage mit Permanentmagnet-Generator und Vollumrichter mit ansonsten gleichen Spezifikationen kostet ca.
+3.305.250 Euro bzw. 1102 Euro/ kW.
+Hinzu kommen Kosten für den Bau von Zuwegung, Fundamenten, Netzanschluss, Projektplanung, Umweltgutachten, ökologische Ausgleichsmaßnahmen usw.; sodass die installierten Kosten, d. h. die Kosten für die Errichtung einer betriebsfertigen Windkraftanlage, bei ca. 125-135 % der Anlagenpreise ab Werk liegen.
+Offshore-Windkraftanlagen sind teurer als Onshore-Anlagen, insbesondere sind die Installationsnebenkosten offshore deutlich höher als onshore.
+
+=== Weiterbetrieb ausgeförderter Ü20-Anlangen
+
+Nach dem Ende der 20-jährigen Förderung gibt es unter anderem die Möglichkeit einer Direktvermarktung, der Vermarktung über ein Power Purchase Agreement (PPA) oder des Repowering.
+Darüber hinaus gibt es im Rahmen der Diskussion über das EEG 2020 Überlegungen für eine angemessene Anschlussvergütung.
+
+== Forschung und Entwicklung
+
+Da die Windenergietechnik noch relativ neu ist und dementsprechend noch große technische Fortschritte zu erzielen sind, investieren Windkraftanlagenhersteller einen relativ hohen Anteil ihrer Umsätze in Forschung und Weiterentwicklung.
+Seit Windkraftanlagen in großer Zahl hergestellt werden, ist auch die staatliche Forschung in Universitäten und Forschungsinstituten verstärkt worden.
+In Deutschland sind hier z. B. das 1990 gegründete Deutsche Windenergie-Institut (DEWI) sowie das Fraunhofer-Institut für Windenergie und Energiesystemtechnik zu nennen, das sich mit anwendungsorientierter Forschung befasst.
+Beispiele für international bedeutsame Forschungsinstitute im Bereich der Windenergie sind das US-amerikanische National Renewable Energy Laboratory sowie das dänische Riso DTU.
+Wichtige internationale wissenschaftliche Fachzeitschriften, in denen Forschungsarbeiten zu Windkraftanlagen publiziert werden, sind z. B. Wind Energy, Renewable Energy und Renewable and Sustainable Energy Reviews.
+
+Zentraler Ansatzpunkt bei der Weiterentwicklung von Windkraftanlagen ist die weitere Senkung der Stromgestehungskosten, um die volle Konkurrenzfähigkeit mit fossilen Kraftwerken zu erlangen.
+Dieses Ziel soll nach einer 2015 erschienenen Review-Studie in naher Zukunft erreicht werden können.
+Die technische Weiterentwicklung umfasst vor allem Kostenreduktionen durch eine effizientere Serienproduktion und stärkeren Maschineneinsatz, insbesondere bei den noch z. T. in Handarbeit hergestellten Rotorblättern.
+Bei Rotorblättern ist ein Trend zu immer größeren Flügellängen festzustellen, die den Ertrag pro Anlage steigern und die Stromgestehungskosten senken sollen.
+Um die Belastungen durch das steigende Eigengewicht niedrig zu halten, wird hierfür u. a. am Einsatz leichterer und stabilerer Materialien wie CfK geforscht, die jedoch andere technische Eigenschaften wie die weiter verbreiteten Blätter auf GFK-Basis haben.
+Daneben sind neue Profile, teilbare Flügel für leichteren Transport und "intelligente" Blätter ein Forschungsziel.
+Zudem rückt die Erschließung von weniger windstarken Regionen durch spezielle Schwachwind-Anlagen in den Fokus von Herstellern und Forschung.
+
+Ebenso werden neue Triebstrang- und Generatorkonzepte entwickelt.
+Als vielversprechend gerade für Offshore-Anlagen mit großen Leistungen gelten Generatoren mit Erregung durch Hochtemperatursupraleiter und dementsprechend hoher Energiedichte.
+Verglichen mit herkömmlichen Bauweisen lassen sich mit Hochtemperatursupraleiter deutlich kleinere und leichtere Generatoren bauen, die Kostenersparnisse versprechen.
+
+Ein weiterer Schwerpunkt der Forschung sind Offshore-Windkraftanlagen, die in Deutschland unter anderem durch die Installation der FINO-Forschungsplattformen begleitet wurde.
+Untersucht wird z. B. deren Einfluss auf die Ökosysteme vor der Küste.
+Es gibt vermehrt Überlegungen für Offshore-Windkraftanlagen mit nur zwei Rotorblättern, da ein Aufbau solcher Anlagen auf See sehr viel einfacher wäre.
+Mit schwimmenden Windkraftanlagen sollen Gewässer von über 50 m Tiefe erschlossen werden, womit sehr viel größere Bereiche der Meere für die Windkraftnutzung erschlossen werden könnten.
+Mehrere Prototypen existieren bereits, kommerzielle Projekte wurden jedoch noch keine realisiert.
+Herausforderungen stellen die Wirtschaftlichkeit infolge der teuren schwimmenden Gründungsstrukturen sowie das komplexe dynamische Verhalten bei Seegang dar.
+
+Auch fliegende Windkraftanlagen, sogenannte Flugwindkraftwerke sind Gegenstand aktueller Forschung.
+
+== International erreichte Rekorde
+
+== Windkraftanlagen im deutschsprachigen Raum
+
+=== Deutschland
+
+Listen der Windkraftanlagen in Deutschland wurden nach Bundesländern zusammengestellt:
+
+Baden-Württemberg, Bayern, Berlin und Brandenburg, Bremen, Hamburg und Niedersachsen, Hessen, Mecklenburg-Vorpommern, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen.
+
+=== Österreich
+
+Die größten Anlagen sind in einer Liste österreichischer Windkraftwerke aufgeführt.
+
+Siehe auch Liste niederösterreichischer Windkraftwerke, Windenergie in Oberösterreich#Standorte und Windenergie in der Steiermark#Standorte.
+
+Zwei besonders leistungsfähige Windkraftanlagen vom Typ E-126 (Hersteller Enercon) wurden in der Nähe von Potzneusiedl durch die BEWAG-Tochter Austrian Wind Power (AWP) errichtet und Anfang 2012 in Betrieb genommen.
+Sie haben eine Nennleistung von je 7,5 MW, eine Nabenhöhe von etwa 135 m und eine Rotorspitzenhöhe von etwa 198,5 m.
+
+=== Schweiz
+
+In der Schweiz gibt es (Stand Mitte 2014) etwa 55 Windkraftanlagen.
+16 davon stehen im Windpark Mont Crosin auf der Passhöhe des Mont Crosin.
+
+Die 2012/13 errichtete Windenergieanlage Calandawind (Nabenhöhe 119 Meter) ist die erste 3-MW-WKA der Schweiz.
+
+Der höchstgelegene Windpark in Europa ist der Windpark Gries mit vier Windrädern zwischen dem Nufenenpass und dem Griespass.
+
+Siehe auch:
+
+== Windkraftanlagenhersteller
+
+Größter Hersteller nach installierter Leistung war 2015 Goldwind, gefolgt von Vestas, General Electric und Siemens.
+
+== Drehrichtung, Rotor- und Blattanordnung
+
+Von der weit überwiegenden Sorte Windräder mit im Wesentlichen horizontaler Rotordrehachse wurden in den Anfangsjahren links- und rechtsdrehende aufgestellt.
+Inzwischen setzte sich - aus Sicht des ankommenden Winds - die Drehrichtung im Uhrzeigersinn durch.
+Der Rotor liegt dabei in aller Regel vor dem Mast, da dieser die Windströmung verwirbelt und ein Rotor hinter dem Mast seine Blätter regelmäßig durch diese Wirbelschleppe führen würde, was zu Lärm, Blattbelastung und Effizienzminderung führen würde.
+
+Der Windwiderstand der gedachten Rotorfläche lässt den Wind graduell zur Seite hin ausweichen.
+Weiters verbiegen sich die Blätter im starken Windstrom in Windrichtung.
+Damit trotz beider Effekte die Blätter eher rechtwinkelig zur lokalen Windströmung stehen, werden diese in einem (sehr flachen) Kegel mit der Basis gegen den Wind angeordnet.
+Das hilft auch zu verhindern, dass ein Blatt am Mast streift.
+Um ausreichenden Spielraum zwischen Blatt und Mast und auch dem ihm etwas vorstehenden Luftstau zu schaffen, wird typisch auch die Rotorachse gegen den Wind etwas angehoben konstruiert.
+
+2020 kam eine Arbeitsgruppe des DLR mittels Computersimulation zum Ergebnis, dass in Windparks auf der Nordhalbkugel die mindestens in zweiter Reihe stehenden Windräder bis zu 23 Prozent mehr Energie gewinnen könnten, wenn sie links- statt rechtsdrehend ausgeführt wären, während auf der Südhalbkugel rechtsdrehende Windräder die optimale Drehrichtung hätten.
+Dieser auf die Corioliskraft zurückzuführende Effekt ergebe sich vor allem nachts.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

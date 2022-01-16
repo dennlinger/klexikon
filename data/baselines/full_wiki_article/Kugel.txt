@@ -1,0 +1,148 @@
+Eine Kugel ist in der Geometrie die Kurzbezeichnung für Kugelfläche oder Kugelkörper.
+Die Kugelfläche ist die bei der Drehung einer Kreislinie um einen Kreisdurchmesser entstehende Fläche.
+Sie ist eine Rotationsfläche sowie eine spezielle Fläche zweiter Ordnung und wird beschrieben als die Menge (der geometrische Ort) aller Punkte im dreidimensionalen euklidischen Raum, deren Abstand von einem festen Punkt des Raumes gleich einer gegebenen positiven reellen Zahl r {\displaystyle \!\ r} ist.
+Der feste Punkt wird als Mittelpunkt oder Zentrum der Kugel bezeichnet, die Zahl r {\displaystyle \!\ r} als Radius der Kugel.
+Die Kugelfläche teilt den Raum in zwei getrennte offene Untermengen, von denen genau eine konvex ist.
+Diese Menge heißt das Innere der Kugel.
+Die Vereinigungsmenge einer Kugelfläche und ihres Inneren heißt Kugelkörper oder Vollkugel.
+Die Kugelfläche wird auch Kugeloberfläche oder Sphäre genannt.
+Sowohl Kugelfläche als auch Kugelkörper werden oft kurz als Kugel bezeichnet, wobei aus dem Zusammenhang klar sein muss, welche der beiden Bedeutungen gemeint ist.
+Eine Kugelfläche mit Mittelpunkt ( x 0 {\displaystyle \!\ x_{0}} , y 0 {\displaystyle \!\ y_{0}} , z 0 {\displaystyle \!\ z_{0}} ) und Radius r {\displaystyle \!\ r} ist die Menge aller Punkte ( x {\displaystyle \!\ x} , y {\displaystyle \!\ y} , z {\displaystyle \!\ z} ), für die
+erfüllt ist.
+In Vektorschreibweise mit x = = ( x y z ) {\displaystyle {\vec {x}}={\begin{pmatrix}x\\y\\z\end{pmatrix} }} , m = = ( x 0 y 0 z 0 ) {\displaystyle {\vec {m}}={\begin{pmatrix}x_{0}\\y_{0}\\z_{0}\end{pmatrix} } } :
+Die Punkte auf der Kugelfläche mit dem Radius r {\displaystyle \!\ r} und dem Zentrum im Ursprung können durch Kugelkoordinaten wie folgt parametrisiert werden:
+mit 0     {\displaystyle 0\leq \theta \leq \pi } und 0   < 2  {\displaystyle 0\leq \varphi <2\pi } .
+Ist der Schnitt ein Kreis, so lässt er sich in Parameterform x = = ( e = 0 + e = 1 cos  t + e = 2 sin  t ) T {\displaystyle \;{\vec {x}}=({\vec {e}}_{0}+{\vec {e}}_{1}\cos t+{\vec {e}}_{2}\sin t)^{T}\; } darstellen: s. Ebene Schnitt eines Ellipsoids.
+Allerdings kann eine Kugel auch kompliziertere Flächen in einem Kreis schneiden:
+Im Bild schneidet eine Kugel einen Zylinder in zwei Kreisen.
+Wäre der Radius des Zylinders gleich dem Kugelradius, bestünde der Schnitt aus einem Berührkreis.
+Ein Rotations-Ellipsoid mit demselben Mittelpunkt wie die Kugel und dem Kugelradius als großer Halbachse würde die Kugel in zwei Punkten (Scheiteln) berühren.
+Diese Eigenschaft wird in der darstellenden Geometrie zur Konstruktion von Punkten der Schnittkurve von Rotationsflächen verwendet (siehe Hilfskugelverfahren.)
+Ist die Kugel in Parameterform
+gegeben, so erhält man Clelia-Kurven, wenn man
+setzt.
+Spezialfälle davon sind: vivianische Kurven ( c = 1 {\displaystyle c=1} ) und Kugelspiralen ( c > 2 {\displaystyle c>2} ).
+Die Kurve auf der Erdkugel, welche die Meridiane (Längskreise) immer unter dem gleichen Winkel schneidet, ist eine Loxodrome.
+Sie schlingt sich spiralartig um die Pole, die ihre beiden asymptotischen Punkte sind, d. h. sie enthält nicht die Pole.
+Sie ist keine Kugelspirale im obigen Sinne.
+Es besteht kein einfacher Zusammenhang zwischen den Winkeln  {\displaystyle \varphi } und  {\displaystyle \theta } .
+Wird eine Kugel von einer anderen Quadrik (Zylinder, Kegel ...) geschnitten, so entstehen bei geeigneten Radien, Parameter ... Schnittkurven.
+Beispiel: Kugel - Zylinder
+Die Schnittkurve der Kugel mit der Gleichung x 2 + y 2 + z 2 = r 2 {\displaystyle \;x^{2}+y^{2}+z^{2}=r^{2}\; } und dem Zylinder mit der Gleichung ( y - y 0 ) 2 + z 2 = a 2 {\displaystyle \;(y-y_{0})^{2}+z^{2}=a^{2}\; } besteht aus den Lösungen des nicht linearen Gleichungssystems
+(s. implizite Kurve, Bild)
+Das Kugelvolumen ist der Rauminhalt einer Kugel, der durch die Kugeloberfläche begrenzt wird.
+Nach einer Überlegung des griechischen Mathematikers Archimedes gibt es zu einer Halbkugel mit Radius r {\displaystyle \!\ r} einen Vergleichskörper, dessen Volumen mit dem der Halbkugel übereinstimmt, aber einfach zu berechnen ist.
+Dieser Vergleichskörper entsteht dadurch, dass man aus einem Zylinder (genauer: einem geraden Kreiszylinder) mit Grundflächenradius r {\displaystyle \!\ r} und Höhe r {\displaystyle \!\ r} einen Kegel (genauer: einen geraden Kreiskegel) mit Grundflächenradius r {\displaystyle \!\ r} und Höhe r {\displaystyle \!\ r} entfernt.
+Zum Nachweis, dass die Halbkugel und der Vergleichskörper gleiches Volumen haben, kann man das Prinzip von Cavalieri heranziehen.
+Dieses Prinzip beruht auf der Idee, die betrachteten Körper in unendlich viele Scheiben infinitesimaler (unendlich kleiner) Dicke zu zerlegen.
+(Eine Alternative zu diesem Verfahren wäre die Anwendung der Integralrechnung.) Nach dem erwähnten Prinzip untersucht man für beide Körper die Schnittflächen mit den Ebenen, die zur jeweiligen Grundfläche parallel sind und von dieser einen vorgegebenen Abstand h {\displaystyle \!\ h} haben.
+Im Falle der Halbkugel ist die Schnittfläche eine Kreisfläche.
+Der Radius s {\displaystyle \!\ s} dieser Kreisfläche ergibt sich aus dem Satz des Pythagoras:
+Damit erhält man für den Inhalt der Schnittfläche
+Im Falle des Vergleichskörpers ist die Schnittfläche dagegen ein Kreisring mit Außenradius r {\displaystyle \!\ r} und Innenradius h {\displaystyle \!\ h} .
+Der Flächeninhalt dieser Schnittfläche ist demzufolge
+Für einen beliebigen Abstand h {\displaystyle \!\ h} zur Grundfläche stimmen die beiden Schnittflächen also im Flächeninhalt überein.
+Damit folgt mit dem Prinzip von Cavalieri, dass die Halbkugel und der Vergleichskörper das gleiche Volumen haben.
+Das Volumen des Vergleichskörpers und damit auch der Halbkugel lässt sich nun leicht berechnen:
+Man subtrahiert vom Zylindervolumen das Kegelvolumen.
+Daher gilt für das Volumen der (Voll-)Kugel:
+Die Kugel kann in unendlich viele Pyramiden mit der Höhe r {\displaystyle \!\ r} zerteilt werden (Spitzen im Mittelpunkt der Kugel), deren gesamte Grundfläche der Oberfläche der Kugel (siehe weiter unten) entspricht.
+Damit beträgt das gesamte Volumen aller Pyramiden: V = O r 3 = ( 4  r 2 ) r 3 = 4 3  r 3 {\displaystyle V={\frac {O\,r}{3}}={\frac {(4\pi r^{2})r}{3}}={\frac {4}{3}}\pi r^{3 } } .
+Radius im Abstand x {\displaystyle \!\ x} :
+Kreisfläche im Abstand x {\displaystyle \!\ x} :
+Volumen der Kugel V {\displaystyle \!\ V} :
+Auf die gleiche Art kann man das Volumen eines Kugelsegments V K S { \displaystyle \!\ V_{\mathrm {KS} }} der Höhe h {\displaystyle \!\ h } berechnen:
+Eine Kugel mit Radius R {\displaystyle R} , deren Mittelpunkt im Koordinatenursprung liegt, lässt sich durch die Gleichung
+beschreiben, wobei x , y , z {\displaystyle x,\ y,\ z} die Raumkoordinaten sind.
+Über die Integralrechnung lässt sich dieses Problem auf zwei Arten lösen:
+Wir parametrisieren die Kugel bis auf eine Lebesgue-Nullmenge durch
+Mit der Funktionaldeterminante
+ergibt sich das benötigte Volumenelement d V {\displaystyle \!\ \mathrm {d} V } als
+Das Volumen der Kugel ergibt sich daher als
+Eine weitere Möglichkeit besteht über die Polarkoordinaten:
+Nun wird das kartesische Koordinatensystem in das Polarkoordinatensystem transformiert, was bedeutet, dass die Integration nach dem "Wechsel" des Koordinatensystems mittels der Variablen  {\displaystyle \!\varphi } und r {\displaystyle \!r} fortgeführt wird, anstatt wie zuvor durch x {\displaystyle \!x} und y {\displaystyle \!y} .
+Motivation dieser Transformation ist die erhebliche Vereinfachung der Rechnung im weiteren Verlauf.
+Für das Differential bedeutet das: d y d x = wird zu r d r d  {\displaystyle \mathrm {d} y\,\mathrm {d} x\;{\xrightarrow {\text{wird zu}}}\;r\,\mathrm {d} r\,\mathrm {d} \varphi } (Stichwort: Flächenelement)
+Weiterer Weg mit Hilfe der Formel für Rotationskörper
+Lässt man ein Flächenstück um eine feste Raumachse rotieren, erhält man einen Körper mit einem bestimmten Volumen.
+Bei einer Kreisfläche entsteht so eine Kugel.
+Anschaulich kann man sich das als eine rotierende Münze vorstellen.
+Die allgemeine Formel für Rotationskörper, die um die x-Achse rotieren, ergibt
+Die Gleichung für den Kreis ist
+mit Mittelpunkt
+Eingesetzt in die Gleichung für den Kreis erhalten wir
+Durch Einsetzen in die Formel für Drehkörper um die x-Achse erhält man
+Die Kugeloberfläche ist die zweidimensionale Fläche, die den Rand der Kugel bildet.
+Sie ist also die Menge aller Punkte, deren Abstand zum Kugelmittelpunkt einen festen Wert r {\displaystyle \!\ r} hat.
+Sie ist eine geschlossene, zweidimensionale Mannigfaltigkeit.
+Ihr Flächeninhalt ist A = 4  r 2 {\displaystyle {A}=4\pi {r^{2} }} und damit gleich groß wie der der Mantelfläche des Kreiszylinders, der die Kugel umhüllt.
+Die Kugel besitzt bei gegebenem Volumen die kleinste Oberfläche aller möglichen Körper.
+Teilt man eine Kugel auf in:
+und lässt man d {\displaystyle d} nach 0 {\displaystyle 0 } streben,
+Die Länge multipliziert mit der Breite ist demzufolge stets gleich groß, d. h. alle viereckigen Felder haben denselben Flächeninhalt.
+Der Flächeninhalt am Äquator beträgt d 2 {\displaystyle d^{2}} ( c * d {\displaystyle c\cdot d} wobei c {\displaystyle c} gegen d {\displaystyle d} strebt, da r x {\displaystyle {\frac {r}{x}}} am Äquator schneller gegen 1 {\displaystyle 1} strebt als d {\displaystyle d} gegen 0 {\displaystyle 0} ).
+Da alle Felder also den Inhalt d 2 {\displaystyle d^{2}} haben und es insgesamt (Anzahl der Felder in horizontaler Richtung multipliziert mit der Anzahl der Felder in vertikaler Richtung, also) Umfang d * Durchmesser d = 2  r * 2 r d 2 {\displaystyle {\frac {\text{Umfang}}{d}}\cdot {\frac {\text{Durchmesser}}{d}}={\frac {2\pi r\cdot 2r}{d^{2}} }} Felder gibt, beträgt der Gesamtflächeninhalt aller Felder: A = 4  r 2 {\displaystyle {A}={4}\pi {r^{2}}} .
+Eine Kugel kann man sich aus unendlich vielen, infinitesimalen (unendlich kleinen) Pyramiden zusammengesetzt vorstellen.
+Die Grundflächen dieser Pyramiden ergeben zusammen die Kugeloberfläche; die Höhen der Pyramiden sind jeweils gleich dem Kugelradius r {\displaystyle r} .
+Da das Pyramiden-Volumen durch die Formel V P = 1 3 G h {\displaystyle V_{P}={\tfrac {1}{3}}Gh} gegeben ist, gilt eine entsprechende Beziehung für das Gesamtvolumen aller Pyramiden, also das Kugelvolumen:
+Wegen V = 4 3  r 3 {\displaystyle V={\tfrac {4}{3}}\pi r^{3 } } ergibt sich:
+Da das Kugelvolumen mit
+definiert ist und andererseits die Oberfläche eine Veränderung des Volumens laut
+ist, ergibt sich die Oberflächenformel sofort aus der Ableitung der Volumenformel.
+Aus der ersten Guldin'schen Regel
+für die Mantelfläche eines Rotationskörpers ergibt sich:
+Für das Flächenelement auf Flächen r {\displaystyle r} = konstant gilt in Kugelkoordinaten:
+Damit lässt sich die Oberfläche einfach berechnen:
+Der Begriff der Kugel lässt sich auf Räume anderer Dimension übertragen.
+Analog zur dreidimensionalen Vollkugel ist für eine natürliche Zahl n {\displaystyle n} eine n {\displaystyle n} dimensionale Kugel definiert als Menge aller Punkte des n {\displaystyle n} dimensionalen euklidischen Raumes, deren Abstand zu einem gegebenen Punkt (dem Mittelpunkt) kleiner gleich einer positiven reellen Zahl r {\displaystyle r} (dem Radius) ist.
+Den Rand der n {\displaystyle n} dimensionalen Kugel, also die Menge aller Punkte, deren Abstand vom Mittelpunkt gleich r {\displaystyle r} ist, bezeichnet man als ( n - 1 ) {\displaystyle (n-1)} dimensionale Sphäre oder kurz ( n - 1 ) {\displaystyle (n-1) } Sphäre.
+Wenn man ohne weitere Angaben von der n {\displaystyle n} dimensionalen Kugel spricht, meint man meist die n {\displaystyle n} dimensionale Einheitskugel; in diesem Fall liegt der Mittelpunkt im Ursprung des Koordinatensystems und der Radius ist gleich 1.
+Nach dieser Definition ist eine dreidimensionale Kugel also eine gewöhnliche Kugel; ihre Oberfläche entspricht einer 2Sphäre.
+Eine zweidimensionale Kugel ist eine Kreisfläche, der zugehörige Kreisrand eine 1Sphäre.
+Eine eindimensionale Kugel schließlich ist eine Strecke, wobei die beiden Streckenendpunkte als 0Sphäre aufgefasst werden können.
+Hinweis: Diese Begriffe werden nicht einheitlich verwendet.
+Sphären im Sinne der hier gegebenen Definition werden zuweilen Kugeln genannt.
+Außerdem sprechen manche Autoren von n {\displaystyle n} Sphären, wenn sie ( n - 1 ) {\displaystyle (n-1)} dimensionale Sphären im n {\displaystyle n} dimensionalen Raum meinen.
+Das n {\displaystyle n} -dimensionale Volumen einer n {\displaystyle n} -dimensionalen Kugel mit dem Radius r {\displaystyle r} ist
+Hier ist  {\displaystyle \Gamma } die Gammafunktion, eine kontinuierliche Erweiterung der Fakultät.
+Den ( n - 1 ) {\displaystyle (n-1)} dimensionalen Inhalt der ( n - 1 ) {\displaystyle (n-1)} dimensionalen Oberfläche, also der ( n - 1 ) {\displaystyle (n-1) } Sphäre erhält man durch Ableitung des Volumens nach dem Radius:
+Für eine Einheitskugel in n {\displaystyle n} Dimensionen findet man also folgende Volumen und Oberflächeninhalte:
+Eine n {\displaystyle n} -Sphäre ist ein Beispiel einer kompakten n {\displaystyle n} -Mannigfaltigkeit.
+Den Begriff der Kugel kann man auf alle Räume verallgemeinern, in denen man einen Abstandsbegriff hat, das sind die metrischen Räume.
+Ist ( X , d ) {\displaystyle (X,d)} ein metrischer Raum, a  X {\displaystyle a\in X } und r  R {\displaystyle r\in \mathbb {R} } , r > 0 {\displaystyle r>0} , so nennt man
+die offene Kugel mit Mittelpunkt a {\displaystyle a} und Radius r {\displaystyle r} .
+Die Menge:
+heißt abgeschlossene Kugel.
+Manche Autoren schreiben auch U ( a , r ) {\displaystyle U(a,r)} für die offenen und B ( a , r ) {\displaystyle B(a,r)} für die abgeschlossenen Kugeln.
+Andere Schreibweisen für die offenen Kugeln sind B r ( a ) {\displaystyle B_{r}(a) } und U r ( a ) {\displaystyle U_{r}(a)} .
+Die dichteste Kugelpackung ist diejenige gegenseitige Anordnung gleich großer Kugeln, die den kleinsten Raum beansprucht.
+Der leere Raum zwischen den dichtest gepackten Kugeln nimmt nur etwa 26 % des Gesamtraumes ein, bzw. die Packungsdichte beträgt etwa 74 %:
+Diese Anordnung kann auf zweierlei Art beschrieben werden:
+Sie besteht aus ebenen Schichten aus sich berührenden Kugeln,
+Die erste der beiden Beschreibungen ist die bevorzugt gebrauchte.
+Die darin enthaltene Schicht wird als hexagonale (regelmäßig sechseckige) Kugel-Schicht, die im zweiten Fall als tetragonale (quadratische) Kugel-Schicht bezeichnet.
+Die Kugelform gilt seit altersher als "vollkommene Form".
+Erst seit dem Aufkommen der Drechseltechniken war sie - zumindest aus Holz oder weichem Stein - nahezu perfekt herzustellen.
+Später wurde sie zu einem Sinnbild der Unendlichkeit (manchmal auch des Kosmos).
+Mit dem Aufkommen von Feuerwaffen wurden Kanonen- und Gewehrkugeln immer mehr auch zu einem Inbegriff von Stärke und Macht (siehe auch: Kugel (Heraldik)).
+Im Bereich der Waffentechnik benutzt man den Begriff Kugel auch heute noch für Büchsenmunition, obwohl diese oft nicht mehr die geometrische Form einer Kugel aufweisen.
+Die Erde, der Mond und der Mars haben annähernd die Form einer Kugel.
+Die Erde hat den mittleren Durchmesser 12742 km, also den mittleren Radius r = 6371 k m {\displaystyle r=6371\ \mathrm {km} } .
+Die Masse der Erde beträgt etwa 5,9724 * 1024 kg.
+Daraus ergibt sich mithilfe der oben genannten Formeln für das Volumen, die mittlere Dichte und die Oberfläche:
+Der Mond hat den mittleren Durchmesser 3474 km, also den mittleren Radius r = 1737 k m {\displaystyle r=1737\ \mathrm {km} } .
+Die Masse des Mondes beträgt etwa 7,346 * 1022 kg.
+Daraus ergibt sich:
+Der Mars hat den mittleren Durchmesser 6780 km, also den mittleren Radius r = 3390 k m {\displaystyle r=3390\ \mathrm {km} } .
+Die Masse des Mars beträgt etwa 6,417 * 1023 kg.
+Daraus ergibt sich:
+Ein Fußball ist kugelförmig und hat einen Umfang von etwa 68 Zentimetern, also einen Radius von r = 68 c m 2 *   10 , 8 c m {\displaystyle r={\frac {68\ \mathrm {cm} }{2\cdot \pi } }\approx 10{,}8\ \mathrm {cm} } .
+Die Masse eines Fußballs beträgt etwa 410 Gramm.
+Daraus ergibt sich:
+Die folgende Tabelle zeigt den Umfang, das Volumen, die Masse und die mittlere Dichte (ungefähre Werte) von verschiedenen Bällen im Vergleich:
+Im Roman Kryonium.
+Die Experimente der Erinnerung von Matthias A. K. Zimmermann steht die Formel zur Berechnung eines Kugelvolumens (4/3 *  * r^3) im Zentrum der Geschichte; sie wird dem Leser anschaulich erläutert.
+Der Roman ist Archimedes gewidmet, der diese Formel hergeleitet hatte.
+Die Hauptfigur gerät in eine Welt des Vergessens und der Dunkelheit, die sich aus zahlreichen Elementen der Mathematik zusammensetzt.
+Die Geschichte dreht sich um eine verwunschene 1001-teilige Schneekugelsammlung, welche die geheimnisvollen Vorgänge auf einem Schloss lenkt.
+In dem Roman lassen sich unterschiedliche Verweise auf die Mathematik finden wie beispielsweise ein Winterwald, der wie ein Möbiusband gekrümmt ist, ein Ungeheuer aus Fraktal, ein Kartesisches Koordinatensystem, Zahlenpalindrome, Lateinische Quadrate, das Dualsystem, Leonhard Euler und Ada Lovelace.

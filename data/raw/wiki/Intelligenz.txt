@@ -1,0 +1,656 @@
+Intelligenz (von lateinisch intellegere "erkennen", "einsehen"; "verstehen"; wörtlich "wählen zwischen ..." von lat. inter "zwischen" und legere "lesen, wählen") ist in der Psychologie ein Sammelbegriff für die kognitive bzw. geistige Leistungsfähigkeit.
+Der Begriff bezeichnet vor allem die Fähigkeit, die Gesamtheit unterschiedlich ausgeprägter kognitiver Fähigkeiten zur Lösung eines logischen, sprachlichen, mathematischen oder sinnorientierten Problems einzusetzen.
+Da einzelne kognitive Fähigkeiten unterschiedlich stark ausgeprägt sein können und keine Einigkeit besteht, wie diese zu bestimmen und zu unterscheiden sind, gibt es keine allgemeingültige Definition der Intelligenz.
+Vielmehr schlagen die verschiedenen Intelligenztheorien unterschiedliche Operationalisierungen des alltagssprachlichen Begriffs vor.
+
+Mit Intelligenz befassen sich die Allgemeine Psychologie, die Differentielle Psychologie und die Neuropsychologie.
+Die Erforschung der Intelligenz auf dem Gebiet der Allgemeinen Psychologie unter dem Aspekt der Informationsverarbeitung bezeichnet man heute oft als Kognitive Psychologie.
+Diese wiederum greift auf Methoden und Erkenntnisse der Hirnforschung, der Entwicklungspsychologie und zunehmend auch der künstlichen Intelligenz zurück.
+
+== Generalfaktor der Intelligenz nach Spearman
+
+Der von Charles Spearman eingeführte g-Faktor der Intelligenz (g-Faktor) ist eines der am weitesten verbreiteten Maße für die allgemeine Intelligenz.
+Er ist eines der reliabelsten und validesten Konstrukte der Psychologie.
+
+=== Rezeption
+
+Laut Robert Plomin sagt er schulischen Erfolg und Prestige des später erreichten Berufs besser vorher als jede andere erfassbare Eigenschaft.
+Seine Voraussagekraft auf Variablen wie Berufsprestige und Einkommen eines Individuums wird verringert, wenn man eine mit ihm korrelierte Variable den sozioökonomischen Status des Elternhauses einbezieht.
+Auch in diesem Fall leistet er einen eigenständigen Beitrag zur Varianzaufklärung.
+
+Unumstritten ist, dass Menschen ihren Verwandten bezüglich des g-Faktors ähnlicher sind als zufällig ausgewählten Personen.
+Unklar ist hingegen, inwiefern biologische oder soziale Faktoren die Ursache für diese Ähnlichkeit sind.
+Diese Frage zählt zu den am umfangreichsten diskutierten Fragen in der Psychologie.
+Während heute weitestgehend Einigkeit darüber herrscht, dass unter normalen Bedingungen beide Faktoren eine Rolle spielen, herrscht eine erhebliche Uneinigkeit darüber, wie stark der Einfluss welches Faktors ist.
+Dieser Konflikt wird im Englischen als "Nature versus Nurture" (engl. "nature" für Natur im Sinne des genetischen Anteils und engl. "nurture" für Erziehung im Sinne der sozialen Faktoren) bezeichnet.
+
+Die Vertreter, die davon ausgehen, dass der g-Faktor stark durch erbliche Faktoren beeinflusst wird, werden als Hereditarians bezeichnet.
+Dagegen werden als Environmentalists diejenigen bezeichnet, die die These vertreten, dass der g-Faktor stark durch Umwelteinflüsse bedingt ist.
+Es gibt heute eine Fülle von Studien zur Erblichkeit des g-Faktors, die jedoch von den verschiedenen Lagern unterschiedlich interpretiert werden.
+Die Interpretation wird dadurch erschwert, dass die Erblichkeit des g-Faktors sich nicht unter allen Bedingungen gleich gestaltet.
+
+Die Debatte um die Erblichkeit der Intelligenz ist nicht frei von Skandalen geblieben.
+Als umstritten gelten dabei zum Beispiel Cyril Burt, der eine Erblichkeit der Intelligenz von 70 bis 80 % annahm, und Rick Heber, der aufgrund eines Experimentes, an dessen Existenz Zweifel aufgekommen sind, annahm, dass der Intelligenzquotient sich durch entsprechende Programme um circa 35 Punkte steigern lasse.
+Cyril Burt wurde von Leon J. Kamin verdächtigt, Daten gefälscht zu haben.
+Es ist heute unbestritten, dass auf Burts Daten zur Zwillingsforschung aus der ersten Hälfte des 20. Jahrhunderts nicht zurückgegriffen werden kann.
+Ob es sich um eine Fälschung oder nachlässige Forschung handelt, wird unter Wissenschaftlern kontrovers diskutiert.
+Burts Schüler Hans Jürgen Eysenck empfand, dass Burt nachlässig war, aber nicht gefälscht hat.
+Er sah nicht alle Arbeiten Burts als unbrauchbar an, sondern nur die zur Zwillingsforschung, und griff auf andere zurück.
+Obwohl diese Forscher heute als äußerst umstritten gelten, werden sie noch immer (Stand 2009) von anderen Wissenschaftlern aus den entsprechenden Lagern z. T. unkritisch zitiert.
+
+== Differentielle Psychologie und psychologische Diagnostik
+
+Die differentielle und Persönlichkeitspsychologie ist Quelle eines Großteils der Forschung zum Konstrukt Intelligenz.
+In dieser Disziplin wird Intelligenz als Teilbereich der Persönlichkeit im weiteren Sinne gesehen.
+Dabei bemüht man sich darum, die unscharfen Begrifflichkeiten zu vermeiden, die im alltäglichen Sprachgebrauch verwendet werden (Denkvermögen, Auffassungsgabe, Rationalität, Logik, Urteilsvermögen), um die geistigen Fähigkeiten des Menschen zu kennzeichnen, Intelligenz messbar zu machen und von anderen Konstrukten der psychologischen Forschung wie z. B. Kreativität abzugrenzen (vgl. diskriminante Validität, Testgütekriterien).
+
+Aus der Grundlagendisziplin der differentiellen Psychologie geht die Intelligenzdiagnostik bzw. die Psychometrie als Anwendungsgebiet hervor.
+Hier bemüht man sich darum, quantitative Unterschiede der Intelligenz zwischen Menschen festzustellen.
+Als Fachbegriff der Psychometrie wurde "intelligence - Intelligenz" in der Zeit um 1900 geprägt, wobei der inhaltliche Impuls aus dem französischen (Alfred Binet) und englischen Sprachraum kam (Louis Leon Thurstone, Charles Spearman).
+Einige Intelligenztests sind adaptiv und passen sich in der Schwierigkeit dem Vermögen des Probanden an (sog. adaptives Testen).
+
+=== Intelligenztest
+
+Ein Intelligenztest dient dazu, die kognitiven Fähigkeiten eines Menschen zu erfassen.
+Es existiert eine Vielzahl unterschiedlicher Tests für unterschiedliche Zielgruppen und Anwendungsfälle.
+Ergebnis eines solchen Tests ist häufig der sogenannte Intelligenzquotient (IQ).
+
+Intelligenztests liegt die Annahme zugrunde, dass der Intelligenzquotient der Bevölkerung normalverteilt ist.
+Damit beschreibt der IQ die Abweichung vom Mittelwert 100, eine Standardabweichung beträgt 15 IQ-Punkte.
+
+Der Validitätsnachweis von Intelligenzmessungen ist eine Voraussetzung, solche Ergebnisse in der psychodiagnostischen Praxis zu verwenden.
+
+=== Intelligenzquotient
+
+1904 wurde eine Gesellschaft für Kinderpsychologie, die Societe Libre pour l'Etude Psychologique de l'Enfant, von der französischen Regierung damit beauftragt, einen Test zu erstellen, mit dem man geistig behinderte Kinder, die vom normalen Schulunterricht nicht mehr profitieren, identifizieren könnte.
+Alfred Binet und Theodore Simon entwickelten daraufhin den ersten IQ-Test.
+Der IQ wurde dabei als Quotient von Intelligenzalter und Lebensalter definiert.
+
+Später wurde von anderen Forschern (David Wechsler) ein neues Intelligenzkonzept eingeführt, bei dem die Leistung des Einzelnen auf den Mittelwert der entsprechenden Altersklasse bezogen wird.
+
+=== Modelle
+
+Der Verfasser des ersten Intelligenztests, Alfred Binet, sah Intelligenz als ein Bündel zahlreicher Einzelfähigkeiten, auch wenn sein Test zu zeigen schien, dass Intelligenz etwas Einheitliches, Ganzes sei.
+Ein genaueres Strukturmodell erstellte er jedoch nicht.
+
+Im Laufe der Zeit entstanden verschiedene Erklärungsmodelle, die vor allem auf die Faktorenanalyse zurückgreifen.
+
+=== Intelligenz als Persönlichkeitseigenschaft
+
+Intelligenz korreliert mit einer Reihe anderer Variablen.
+So sind intelligente Menschen oft schulisch erfolgreicher als weniger intelligente Menschen und besetzen im Durchschnitt höhere Berufspositionen (dies gilt insbesondere für Männer, deren IQ-Wert um 0,7 mit dem Berufsprestige korreliert, bei Frauen ist die Korrelation u. a. wegen Kindererziehung geringer).
+Unter Studenten und unter Auszubildenden erbringen die intelligenteren bessere Leistungen als die weniger intelligenten.
+Überdurchschnittlich begabte Menschen leben in der Regel gesünder und haben eine höhere Lebenserwartung.
+
+Es konnte gezeigt werden, dass zumindest in den USA die soziale Herkunft einen viel stärkeren Einfluss auf den Verdienst hat als die Intelligenz.
+
+Intelligenz korreliert jedoch auch mit Krankheiten.
+So sind intelligente Menschen etwa häufiger kurzsichtig.
+Auch mit bestimmten Erbkrankheiten besteht ein Zusammenhang.
+
+Für psychische Störungen wie Schizophrenie konnte gezeigt werden, dass sowohl besonders intelligente als auch besonders wenig intelligente Personen verstärkt darunter leiden - durchschnittlich intelligente jedoch weit seltener.
+
+=== Biologische Korrelate
+
+Es ist statistisch nachweisbar, dass Intelligenz und Hirnvolumen positiv zusammenhängen.
+
+=== Kritik am Intelligenzbegriff
+
+Intelligenz wird häufig als statistisches Konstrukt kritisiert.
+Es gibt einen starken Zusammenhang zwischen IQ und Sozialschicht.
+Mitglieder der unteren Sozialschichten und deren Kinder erreichen auf standardisierten Intelligenztests einen niedrigeren IQ als Leute aus den oberen Sozialschichten und deren Kinder.
+Es wird diskutiert, ob dies daran liegt, dass traditionelle Intelligenztests gegenüber Arbeitern und deren Kindern unfair sind, IQ-Tests wurden deswegen als klassistisch kritisiert.
+Zudem scheint es eine operational von Intelligenz unterscheidbare Fähigkeit zu geben, aus der Formulierung des Tests die richtige Antwort zu erraten (engl. test-wiseness) Dies gilt insbesondere für Auswahlfragebogen.
+Auch ist es möglich, dass die Vertrautheit mit der Form von Fragebogentests oder mit klassischen Intelligenztestaufgaben sowohl die test-wiseness trainiert als auch die konkret abgefragten kognitiven Fähigkeiten oder die bloße Antwortgeschwindigkeit.
+
+=== Regression zur Mitte
+
+Bereits Francis Galton stellte als Erster fest, dass die Intelligenzwerte von Kindern gegenüber ihren Eltern eine "Regression zur Mitte" (regression to the mean) aufweisen, das bedeutet, sie nähern sich dem Durchschnittswert an.
+Kinder von Hochbegabten und Höchstbegabten sind im Durchschnitt nicht ganz so intelligent wie ihre Eltern, sondern ihre Intelligenz ist etwas geringer (wenn auch noch immer überdurchschnittlich).
+Im Gegensatz dazu sind Kinder von unterdurchschnittlich intelligenten Menschen im Durchschnitt etwas intelligenter als die Eltern (wenn auch noch immer unterdurchschnittlich).
+
+=== Hereditätsdebatte
+
+In der Psychologie besteht heute breiter Konsens, dass sowohl Vererbung als auch Umwelteinflüsse bei der Intelligenzentwicklung eine Rolle spielen.
+
+Zahlreichen Studien unterstützen Schätzungen, dass 30 bis 80 % der Gesamtvarianz (Gesamtstreuung) in der allgemeinen Intelligenz durch genetische Faktoren erklärt werden kann.
+Die Heritabilität von Intelligenz, also der Anteil, der auf genetischen Einflüssen beruht, nimmt mit steigendem Alter zu, von etwa 30 % in der frühen Kindheit auf 70 bis 80 % im Erwachsenenalter.
+Diese Zunahme der Heritabilität von Intelligenz mit dem Alter könnte darauf zurückzuführen sein, dass Erwachsene stärker als Kinder dazu tendieren, ihre Umwelt entsprechend ihrem Genotyp auszuwählen und zu formen, sodass genetische Unterschiede verstärkt werden.
+James R. Flynn erklärt ihn mit Interaktionen: ursprünglich relativ kleine ererbte Unterschiede führen zu unterschiedlichen Erfahrungen, die diese Unterschiede verstärken.
+Für den Befund wurde sogar ein eigener Name vorgeschlagen: Wilson-Effekt (benannt nach dem Verhaltensgenetiker Ronald S. Wilson (1933-1986)).
+Der Effekt ist in jungen Erwachsenjahren am ausgeprägtesten, lässt sich aber bis ins hohe Alter nachweisen.
+
+Zahlreiche Forscher vertreten die Ansicht, dass Intelligenz in jedem Fall einen erblichen Anteil habe, da "die heute als klassisch anzusehende Metaanalyse von Bouchard und McGue (1981) die empirische Suche nach der Antwort auf die Frage, ob allgemeine Intelligenz erblich ist, mit einem eindeutigen ,ja'" beantwortet habe.
+
+Andere Autoren weisen außerdem darauf hin, dass die relevanten Umwelteinflüsse meist nicht näher identifiziert werden können und dass es sich dabei um nicht familiär geteilte Umweltaspekte handelt, also um solche, die beispielsweise auf gemeinsam aufwachsende Geschwister in unterschiedlicher Weise wirken.
+
+Richard Lewontin argumentiert, dass die Meinung, Intelligenz sei zum Großteil erblich und Umwelteinflüsse seien nicht innerhalb der Familie zu suchen, durch falsche Interpretation von Adoptionsstudien zustande gekommen sei.
+Bei richtiger Interpretation der Studien sei es offensichtlich, dass die von Geschwistern geteilte familiäre Umwelt eine große Rolle spiele.
+
+Lewontin erklärt diese These mit einem Gleichnis:
+
+Ebenso sieht Lewontin es mit dem sozialen Umfeld:
+Die IQ-Unterschiede innerhalb einer Schicht können zu einem gewissen Prozentsatz genetisch sein, doch dies würde nicht zur Folge haben, dass die Unterschiede zwischen zwei Schichten ebenfalls genetisch sein müssten.
+Als Beweis nennt er Adoptionsstudien, zum Beispiel die von Skodak und Skeels oder die Minnesota Transracial Adoption Study.
+
+Als Analogie nennt er auch die Körpergröße, von der bekannt ist, dass sie zum Großteil genetisch bedingt ist.
+Diese Ursache kann jedoch nur innerhalb einer Schicht als ausreichend angesehen werden, zwischen verschiedenen sozialen Schichten entsteht trotzdem ein Unterschied, der heute mit drei bis vier Zentimetern angegeben wird.
+Mit zunehmend wirtschaftlichem Wohlstand steigt auch die Körpergröße ganzer Nationen.
+
+Borkenau kritisiert, dass Lewontins Einschätzung unzutreffend und pauschalisierend sei:
+
+Ferner wiesen Rainer Riemann und Frank Spinath darauf hin, dass sich der Erblichkeitsanteil bei Kindern und Erwachsenen anders darstellt, als Lewontin anführt:
+
+== Intelligenzentwicklung
+
+=== Risikofaktoren in der Kindheit
+
+Sogenannte Risikofaktoren, wie etwa Drogenkonsum der Eltern, Armut oder eine schlechte psychische Verfassung der erziehenden Personen, können einen erheblichen negativen Einfluss auf die Intelligenzentwicklung ausüben.
+In einer Studie wurde festgestellt, dass erst durch das gleichzeitige Auftreten mehrerer Risikofaktoren die kindliche Entwicklung stark beeinträchtigt wird.
+
+Die quantitativen Ergebnisse dieser Studie sind in der Tabelle dargestellt.
+
+Zu diesem Ergebnis kam auch eine andere Längsschnittstudie.
+Ein oder zwei Risikofaktoren hatten nur eine sehr geringe Auswirkung auf die kognitive Entwicklung, kamen jedoch weitere hinzu, so zeigten sich starke Auswirkungen.
+Kinder, die von acht bis neun Risikofaktoren betroffen waren, hatten gar einen im Schnitt um 30 Punkte geringeren IQ als unbelastete Kinder.
+
+=== Adoptionsstudien
+
+Studien zu Adoptivkindern ermöglichen es, zu untersuchen, welchen Einfluss das soziale Umfeld auf die Intelligenzentwicklung eines Kindes hat.
+Da die adoptierten Kinder mit ihren Eltern und Geschwistern nicht verwandt sind, müsste bei einer rein vererbten Intelligenz ihr IQ von dem der adoptierenden Familie unabhängig sein.
+Sollte jedoch nur das sozioökonomische Umfeld die Intelligenzentwicklung beeinflussen, so dürfte kein signifikanter Unterschied im IQ zwischen Adoptivkind und seinen Adoptiveltern oder -geschwistern bestehen.
+
+Die 1975 begonnene Minnesota Transracial Adoption Study war eine methodisch aufwändige, groß angelegte und detailliert dokumentierte Studie zur Adoption von Kindern aus Familien der Unter- und Arbeiterschicht, die von Familien der oberen Mittelschicht adoptiert wurden.
+Am Anfang der Studie wurden sowohl die Adoptionseltern als auch deren leibliche Kinder getestet, als die Adoptivkinder 7 Jahre alt waren.
+Der IQ der leiblichen Eltern wurde nicht erfasst, nur deren Ausbildung, aufgrund derer der Durchschnitts-IQ auf etwa 85 bis 90 geschätzt wurde.
+10 Jahre später wurden mit einem anderen Test alle noch lokalisierbaren Kandidaten nochmals getestet (die Ergebnisse fallen aufgrund des Tests etwas niedriger aus).
+
+Die erste im Jahr 1975 im Alter von 7 Jahren durchgeführte Testung gelangte zu dem Ergebnis, dass der durchschnittliche IQ der weißen Adoptivkinder (IQ 112) höher lag als der IQ schwarzen Adoptivkinder (IQ 97).
+Ferner zeigte sich, dass der IQ der Adoptiveltern sowie ihrer leiblichen Kinder höher war als die der Adoptivkinder aller Gruppen.
+Der IQ der leiblichen Kinder lag 20 IQ-Punkte über dem IQ der schwarzen Adoptivkinder (mit zwei schwarzen Elternteilen).
+
+Die zweite Testung im Jahr 1985 mit 17 Jahren ergab deutlich niedrigere Testergebnisse.
+Während in der ersten Testung mit 7 Jahren schwarze Adoptivkinder IQ-Testergebnisse erzielten, die über dem Durchschnitt der schwarzen Bevölkerung in den USA lagen, ist ein zentrales Ergebnis der zweiten Testung mit 17 Jahren, dass sich der IQ von schwarzen Jugendlichen, die in weißen Familien aufgewachsen sind, im Schnitt nicht signifikant von dem IQ schwarzer Jugendlicher unterscheidet, die bei ihren leiblichen Eltern aufgewachsen sind.
+
+Ausgehend von den Daten, die gewonnen wurden, als die Kandidaten 17 Jahre alt waren, konnte eine Korrelation mit der Ausbildung der biologischen Mutter (nicht jedoch der des biologischen Vaters) gezeigt werden (Faktor: 0,23).
+Weiterhin wurde ein signifikanter Zusammenhang zum Alter, mit dem das Kind zur Adoption freigegeben wurde, festgestellt:
+Je jünger dieses gewesen war, desto intelligenter war es später (-0,30).
+Während keine Verbindung zum Einkommen oder der Ausbildung der Adoptiveltern gefunden wurde, waren deren Intelligenzquotienten entscheidend (Vater: 0,20, Mutter: 0,18).
+Auch die "Qualität der Pflegefamilie vor der Adoption" korrelierte (0,30).
+
+Die Interpretation der Studie ist zum Teil umstritten.
+Das liegt auch daran, dass die Autoren der Studie, Scarr und Weinberg, im Interpretationsteil ihres 1992 veröffentlichen Studienartikels die gemessenen Resultate - wie sie später selbst zugaben - entlang einer umweltdeterministischen Sichtweise auszulegen versuchten, und das schlechtere Abschneiden farbiger Kinder mit rassenspezifischer Diskriminierung und der Tatsache, dass viele erst in höherem Alter zur Adoption freigegeben wurden, zu erklären versuchten.
+Später bezeichnete Scarr dies als einen Fehler.
+
+Den großen Einfluss von Umweltfaktoren auf die Ergebnisse legt ebenfalls Eyferths Studie nahe.
+Bezogen auf bi-ethnische Kinder gibt es die in Deutschland durchgeführte vergleichende Studie des Psychologen Klaus Eyferth aus dem Jahre 1959, der in einer Testreihe die durchschnittliche Intelligenz von 264 "Besatzungskindern", also Kinder einer deutschen Mutter und weißer bzw. afroamerikanischer in Deutschland stationierter Soldaten ermittelte:
+
+Die Untersuchung zeigt, dass es keinen signifikanten Unterschied zwischen Kindern mit zwei weißen Elternteilen und Kindern mit einem schwarzen und einem weißen Elternteil gab.
+Während häufig kritisiert wird, die schwarzen Soldaten seien keine Repräsentanten der afroamerikanischen Bevölkerung gewesen, da sie durch die Auswahlkriterien der US-Armee (bezogen auf ihre ethnische Zugehörigkeit) möglicherweise überdurchschnittlich intelligent gewesen seien, ging jedoch aus den Testergebnisprotokollen der Armee hervor, dass schwarze Soldaten im Schnitt niedrigere IQ-Werte erzielten als weiße Soldaten, was auch dem Gesamtbild der US-amerikanischen Intelligenzverteilung entspricht.
+Flynn zog daraus 1980 nach extensiver Analyse den Schluss, dass auch Auswahlkriterien (der U.S. Army) dieses Ergebnis nicht erklären könnten und bemerkte, dass es wohl substanzielle Intelligenzunterschiede zwischen den beteiligten weißen und afroamerikanischen Vätern gegeben haben muss, diese jedoch, wider Erwarten, keinen Einfluss auf die Intelligenz der zwei Gruppen der Kinder hatten.
+
+Adoptionsstudien von Clark und Hanisee (1982) und Winick, Meyer und Harris (1975) legen den Zusammenhang zwischen der Intelligenz des Kindes und seinem sozialen Umfeld ebenfalls nahe:
+So konnte gezeigt werden, dass vietnamesische und koreanische Waisenkinder, welche von amerikanischen Mittelschichtsfamilien aufgezogen wurden, später einen überdurchschnittlichen IQ hatten.
+In den Studien lag er für ausreichend ernährte Kinder im Schnitt zwischen 112 und 120. Unterernährte Kinder hatten durchschnittlich einen IQ von etwa 102 bis 106. Waisenkinder, welche in Vietnam von Verwandten aufgezogen wurden oder in Heimen aufwuchsen, hatten dagegen einen unterdurchschnittlichen IQ.
+
+In einer französischen Adoptionsstudie wurde gezeigt, dass auch durch vergleichsweise späte Adoption, verbunden mit einer Verbesserung des sozialen Umfeldes, der IQ eines vor der Adoption unterdurchschnittlich intelligenten vernachlässigten/missbrauchten Kindes gesteigert werden kann.
+Außerdem zeigte sich, dass Kinder, die von Familien mit hohem sozioökonomischem Status adoptiert wurden, eine höhere Intelligenz entwickelten (IQ-Durchschnitt: 98) als Kinder, die von Familien mit niedrigem sozioökonomischen Status aufgenommen wurden (IQ-Durchschnitt: 85).
+
+Vielzitiert ist auch die Adoptionsstudie von Harold M. Skeels und Skodak.
+Diese untersuchten ursprünglich 181 Adoptivkinder auf ihren IQ.
+Sie verfolgten deren geistige Entwicklung bis zur Adoleszenz.
+Zu diesem Zeitpunkt waren noch 100 Personen in der Stichprobe.
+Sie kamen zu folgenden Ergebnissen:
+
+Zu dem Ergebnis, dass sowohl Gene als auch Umwelt eine Rolle spielen, kam eine Adoptionsstudie, welche von Capron und Duyme durchgeführt wurde.
+In den allermeisten Fällen stammen die leiblichen Eltern adoptierter Kinder aus der Armutsschicht.
+Nur wenig ist über die adoptierten Kinder bekannt, deren leibliche Eltern wohlhabend sind.
+Die Adoptiveltern hingegen entstammen meist den oberen Schichten, schon allein deshalb, weil es armen Leuten nur selten erlaubt wird, ein Kind zu adoptieren.
+Um diese Wissenslücke zu schließen, suchten Capron und Duyme nun gezielt Kinder mit wohlhabenden leiblichen Eltern und außerdem Kinder mit armen Adoptiveltern.
+
+Es konnte gezeigt werden, dass drei Gruppen von Kindern einen IQ über 100 erreichten:
+
+Einen IQ von unter 100 dagegen erreichten:
+
+Nebenstehende Tabelle zeigt die Ergebnisse im Einzelnen:
+
+Es wird jedoch kritisiert, dass die Erblichkeit des IQ überschätzt werde, da eine Mehrheit der Adoptiveltern "weiß, volljährig, wohlhabend, gebildet und in stabiler Ehe lebend" sind.
+Das bedeutet, dass es in den adoptierenden Familien nicht das volle Spektrum der Umwelteinflüsse gibt.
+Die Umwelt ist in diesen Familien meistens besonders förderlich für die IQ-Entwicklung, so dass man aus dem geringen Einfluss der Umwelt in diesen Studien nur schließen kann, dass es keine große Rolle spielt, ob ein Kind beim gebildeten, wohlhabenden Paar A oder beim gebildeten, wohlhabenden Paar B aufwächst.
+
+=== Genetische Veranlagung
+
+Für einige Gene konnte ein Zusammenhang mit der Intelligenzentwicklung nachgewiesen werden.
+Der Einfluss einzelner Gene ist jedoch relativ gering.
+Zudem ist umstritten, ob die Befunde reproduzierbar sind.
+
+Intelligenz wird nicht durch ein einzelnes Mastergen oder nur eine nur kleine Gruppe von Genen bestimmt, sondern ist eine multigenetische Veranlagung.
+Mit Hilfe der SNP-Microarray-Technik wurden insgesamt 47 Genabschnitte identifiziert, die mit der Intelligenzentwicklung korrelierten.
+Jedoch trägt keine dieser Genvarianten mehr als 0,4 % zur Intelligenz bei, die sechs einflussreichsten Genvarianten zusammengenommen steuern lediglich etwas mehr als 1 % zur Ausprägung der Intelligenz eines Individuums bei.
+Da die Intelligenz eines Menschen eng mit dem Gehirn verknüpft ist und mindestens die Hälfte des Genoms zu dessen individuellem Aufbau beiträgt, vermuten die Forscher noch eine Vielzahl weiterer Gene.
+Andere Wissenschaftler fanden etwas einflussreichere Genvarianten.
+Durch diese konnten bis zu 3 % des IQ erklärt werden.
+Ein Mastergen konnte nicht gefunden werden.
+
+Es konnte unter anderem für folgende Gene eine Korrelation nachgewiesen werden:
+
+Bestimmte Formen der geistigen Behinderung sind genetisch bedingt.
+Dazu zählen das Down-Syndrom, das Fragiles-X-Syndrom und (wenn unbehandelt) die Folgen einer Phenylketonurie.
+
+=== Einfluss der sozioökonomischen Umgebung
+
+In allen Studien zu dem Thema konnten schichtspezifische Unterschiede in der Intelligenz Jugendlicher festgestellt werden.
+Diese sind jedoch nicht überall gleich stark ausgeprägt:
+Die Unterschiede in ländlichen Gebieten sind weit geringer als die in der Stadt.
+Die genauen Gründe dafür sind unbekannt.
+Es wird vermutet, dass sich in den Städten stärker als auf dem Land Unterschichtenmilieus bilden und soziale Probleme, etwa Arbeitslosigkeit und Drogenkonsum, dazu beitragen, dass die Kinder nicht ausreichend gefördert werden.
+
+Für Deutschland gibt es keine direkten Untersuchungen.
+Jedoch wurde im Rahmen der PISA-Studie die "Problemlösekompetenz" untersucht, die der Intelligenz sehr ähnlich ist.
+Auch hier zeigte sich, dass die Unterschiede zwischen den Schichten auf dem Lande geringer waren als in der Stadt.
+Es zeigten sich starke Unterschiede zwischen Ost- und Westdeutschland.
+In Ostdeutschland sind sich Jugendliche aus unterschiedlichen sozialen Schichten hinsichtlich ihrer Problemlösekompetenz sehr viel ähnlicher als im Westen.
+Die Gründe dafür sind unklar.
+
+==== Soziale Schicht
+
+Auch die soziale Schicht hat einen Einfluss auf die Intelligenz.
+Hier zeigt sich, dass Intelligenztests, die hohe sprachliche Anforderungen stellen, einen größeren Zusammenhang mit der Intelligenz feststellen, als Intelligenztests, die nur geringe verbale Anforderungen aufweisen.
+Derartige Tests werden als Culture-Fair-Tests bezeichnet.
+
+Turkheimer hat darauf hingewiesen, dass bei der Erblichkeit der Intelligenz die soziale Klasse eine große Rolle spiele.
+Während Intelligenz in der Mittelschicht zu einem großen Teil erblich sei, sei sie dies in der Unterschicht nicht.
+Zwillingsstudien seien bisher hauptsächlich in der Mittel- und Oberschicht durchgeführt worden und hätten damit zu einem Ergebnis geführt, welches die größere Bedeutung der Umwelt in unteren Schichten nicht berücksichtige.
+Die schlechten Umweltbedingungen in der Unterschicht führten dazu, dass die Kinder ihr genetisch vorgegebenes Potential nicht entwickeln könnten.
+Auf einer Skala von 0,00 bis 1,00 sei der IQ in der Mittelschicht zu 0,72 von den Genen bestimmt, in der Unterschicht jedoch nur zu 0,10, so Turkheimer.
+
+==== Ernährung
+
+Hertzig, Birch, Richardson und Tizard stellten 1972 fest, dass Unterernährung in der frühen Kindheit gravierende Folgen für die Intelligenzentwicklung und das Sozialverhalten von Kindern hat.
+Sie untersuchten Kinder, die wegen Unterernährung in ein Krankenhaus mussten und danach in ihre Familien zurückkamen.
+Ihr Durchschnitts-IQ war 58. Clark und Hanisee untersuchten den Lebensweg von aus Entwicklungsländern adoptierten Kindern, die unterernährt waren und traumatische Kindheitserfahrungen gemacht hatten.
+Die Kinder wurden von amerikanischen Familien aus der oberen Mittelschicht adoptiert.
+Entgegen der Annahme, dass diese Kinder unter schweren Beeinträchtigungen leiden würden, erwiesen sie sich als überdurchschnittlich intelligent und überdurchschnittlich sozial kompetent.
+Beim Peabody Picture Vocabulary Test, der verbale Intelligenz messen soll, erreichten sie einen IQ von 120, auf der Vineland Social Maturity Scale erreichten sie im Schnitt 137 Punkte.
+100 Punkte gelten als Durchschnitt, 137 als außerordentlich gut.
+Clark und Hanisee kamen zu dem Ergebnis, dass unterernährte und traumatisierte Kinder sich als erstaunlich resilient erweisen, wenn sie in stabile Familienverhältnisse adoptiert werden.
+Winick, Meyer und Harris untersuchten koreanische Adoptivkinder, die im Alter von unter drei Jahren von amerikanischen Paaren adoptiert wurden.
+Sie teilten die Kinder in drei Gruppen auf: eine schwer unterernährte, Grenzfälle und eine ausreichend ernährte.
+Die schwer unterernährte Gruppe erreichte einen IQ von 102, die Grenzfälle einen IQ von 106 und 112 die Kinder, welche nicht unterernährt waren.
+Winick Meyer und Harris kamen zu dem Schluss, dass Unterernährung in der frühen Kindheit einen schädlichen Einfluss auf die Entwicklung des IQs hat, jedoch keinesfalls zu einem Leben mit geistiger Behinderung verdammt.
+Wenn sie spätestens im dritten Lebensjahr adoptiert werden, so erreichen selbst schwer unterernährte Kinder einen normalen IQ.
+Die überdurchschnittlichen IQ-Werte der ausreichend ernährten Kinder erklären sich wahrscheinlich durch die Adoptivfamilien.
+Familien, welchen erlaubt wird, ein Kind zu adoptieren, haben in der Regel einen hohen sozioökonomischen Status und können den Kindern besonders gute Lebensbedingungen bieten.
+
+Seit langem ist bekannt, dass Jodmangel in der Schwangerschaft oder frühen Kindheit zur Intelligenzminderung führen kann.
+Eine Metaanalyse aus 10 verschiedenen klinischen Studien zeigte, dass ein chronischer Jodmangel zu einer mittleren IQ-Minderung um 13,5 Punkte führte.
+Dass chronischer Jodmangel bei Kindern zu Intelligenzminderung führt wurde durch Studien aus allen Teilen der Welt belegt.
+Jodmangel gilt als the world's greatest single cause of preventable brain damage and mental retardation (die weltgrößte einzelne Ursache vermeidbarer Hirnschäden und geistiger Behinderungen).
+
+Durch Vitamintabletten konnte der IQ von Grundschulkindern aus den USA gesteigert werden.
+Der Versuch wurde an zwei Grundschulen, deren Schüler größtenteils Hispanics waren, gemacht.
+Der Versuchsgruppe wurden Vitamintabletten gegeben, die Kontrollgruppe erhielt einen Placebo.
+Der Durchschnitts-IQ der Versuchsgruppe stieg um 2,5 Punkte.
+
+Die Ernährung während der Schwangerschaft kann einen positiven Effekt auf den IQ haben.
+In einer Studie waren die Kinder von Frauen, die während der Schwangerschaft Fischölkapseln erhalten hatten, intelligenter als die Kinder der Frauen, die einen Placebo erhalten hatten.
+Mütter, die während der Schwangerschaft viel Fisch verzehrten, haben Kinder mit einem höheren IQ und einem besseren Sozialverhalten als andere Mütter.
+Der Effekt bleibt auch erhalten, wenn man andere Variablen (etwa Sozialschicht oder ob die Mutter gestillt hat) kontrolliert.
+Einige Fischsorten sind jedoch durch die zunehmende Umweltverschmutzung hoch mit Quecksilber belastet.
+Diese sollten in der Schwangerschaft gemieden werden.
+Außerdem sollte in der Schwangerschaft darauf geachtet werden, dass genügend Jod konsumiert wird, da Jodmangel während der Schwangerschaft mit IQ-Einbußen beim Kind einhergehen kann.
+Neben einer jodreichen Grundnahrung, beispielsweise Fische, Meeresfrüchte und einige Gemüse, wird die ergänzende Zufuhr von 100 (bis 150) g Jod pro Tag in Tablettenform empfohlen.
+
+==== Erziehung
+
+Das schließt zunächst nicht aus, dass Erziehung zu diesen Umwelteinflüssen gehört, da man aus der Erziehungsstil-Forschung weiß, dass dieselben Eltern ihre einzelnen Kinder unterschiedlich erziehen.
+Vertreter des Erbe-Standpunktes deuten dies jedoch so, dass Eltern mehrerer Kinder unterschiedlich auf verschiedene genetisch bedingte Temperamente ihrer verschiedenen Kinder reagieren (vgl. reziproker Interaktionismus).
+
+Wie komplex das Zusammenwirken von Erbgut und Umwelt ist, ging bereits früh aus heute als klassisch eingestuften Experimenten zur Vererbung von Lernleistungen hervor.
+So wurden Ratten zunächst einem sogenannten disruptiven Selektionsdruck mit dem Ziel ausgesetzt, ihre Lernleistung beim Durchqueren eines Labyrinths zu verändern.
+Über sieben Generationen hinweg wurden - unter Aufrechterhaltung gleicher Haltungsbedingungen - zum einen jeweils nur die Nachkommen jener Mütter weiter gezüchtet, die in der Zuchtlinie der "klugen" Ratten besonders rasch das Durchqueren des Labyrinths lernten.
+Zugleich wurden in einer zweiten Zuchtlinie, ausgehend von der gleichen Anfangspopulation, die Nachkommen jener Mütter weiter gezüchtet, die das Durchqueren des Labyrinths besonders langsam lernten.
+Schließlich konnte man statistisch signifikante Unterschiede zwischen den Testtieren der beiden Zuchtlinien nachweisen:
+Infolge der Entfernung der jeweils ungeeigneten Testtiere aus der Zucht hatten sich demnach Veränderungen der Lernfähigkeit ergeben, die nur durch eine Veränderung im Genpool der beiden Zuchtlinien erklärbar waren; die Lernfähigkeit der Ratten hat also eine genetische Basis.
+Robert Rosenthal erwog hingegen eine andere Erklärung:
+Er argumentierte, dass es sich möglicherweise um einen sogenannten Versuchsleitereffekt gehandelt habe.
+In einem Experiment analysierte er das Verhalten von Forschern, die angeblich "schlaue" und "dumme" Ratten zu testen hatten.
+Das Ergebnis war, dass die rein zufällig ausgewählten Testtiere starke Unterschiede in der vom Versuchsleiter jeweils erwarteten Ausprägung ihres Verhaltens zeigten.
+Rosenthal führte das auf unbewusste stärkere Zuneigung zu den angeblich schlaueren Ratten zurück.
+
+Dass die Gene das Lernverhalten der Ratten aber nur unter bestimmten Umweltbedingungen determinieren, ergab einige Jahre später eine weitere Studie an Tieren solcher "intelligenten" bzw. "unintelligenten" Zuchtlinien.
+Testtiere aus einer langsam lernenden Zuchtlinie wurden nun nämlich in besonders abwechslungsreich mit Tunnels, Rutschen und Spielzeug ausgestatteten Käfigen aufgezogen und gehalten; umgekehrt wurden Testtiere aus der rasch lernenden Zuchtlinie in einer besonders reizarmen Umgebung untergebracht:
+Unter diesen veränderten Umweltbedingungen war kein Unterschied zwischen den beiden Zuchtlinien mehr nachweisbar.
+Bei unverändertem Genpool in jeder der beiden Zuchtlinien ist dies ein Beleg dafür, dass die Umwelt die Lernleistung im Labyrinth maßgeblich beeinflusst.
+Die Autoren der Studie argumentierten daher, dass erst das Zusammenwirken von Erbe und Umwelt das sichtbare Verhalten hervorbringe und eine Trennung in angeboren und erworben letztlich weder sinnvoll noch möglich sei.
+
+Längsschnittuntersuchungen zeigen, dass es deutliche Intelligenzunterschiede gibt zwischen Kindern, deren Eltern Wert auf intellektuelle Leistungen legen, und Kindern von Eltern, die das nicht tun.
+Die erste Gruppe von Kindern war intelligenter.
+Eine andere Untersuchung zeigt, dass die Kinder von Eltern, die ein warmherziges und demokratisches Erziehungsverhalten an den Tag legten, intelligenter waren als Kinder von Eltern, die sich autoritär und strafend verhielten.
+
+==== Vernachlässigung
+
+Laut Rene A. Spitz kann Vernachlässigung im frühen Kindesalter zu Hospitalismus führen.
+Dieser ist unter anderem durch seelische Retardierung und einen niedrigen IQ gekennzeichnet.
+Hospitalismus ist jedoch heilbar, wenn das Kind später liebevoll betreut wird.
+Interessant sind in diesem Zusammenhang auch die Experimente von Harry Harlow mit jungen Rhesusaffen sowie die Forschungsarbeiten von Harold M. Skeels zur Entwicklung der Intelligenz bei Menschen, die in Heimen aufwuchsen.
+
+==== Sprachumfeld
+
+Das Sprachumfeld spielt ebenfalls eine wichtige Rolle und korreliert eng mit dem sozialen Status der Eltern.
+In einer Studie wurde ermittelt, dass Eltern aus der Mittel- und Oberschicht wesentlich häufiger und deutlich mehr mit ihren Kindern sprachen als solche aus der Unterschicht, und dass sie komplexere Sätze bildeten.
+Dies hat nach den Autoren einen enormen Einfluss auf die Intelligenzentwicklung; der IQ der benachteiligten Kinder lag bei durchschnittlich 79, während die sozial gut gestellten Kinder, mit denen viel geredet wurde, im Durchschnitt auf 117 kamen.
+
+==== Armut
+
+Kinder aus ärmlichen Verhältnissen sind oft weniger intelligent, haben ein schlechteres Sprachvermögen und entwickeln geringere soziale Fähigkeiten.
+Bei einer Untersuchung in den USA 1997 lag der IQ von Kindern aus besonders armen Haushalten, die weniger als die Hälfte des Wertes der Armutsschwelle verdienten, um 6 bis 13 Punkte unter demjenigen, die etwa das Doppelte der Armutsschwelle verdienten.
+80-90 % der Kinder in Schulen für Lernbehinderte stammen aus dem Armutsmilieu.
+Die unsichere berufliche und finanzielle Situation der Eltern, schlechte Wohnbedingungen, das Leben in sozialen Brennpunkten, unvollständige Familien, eingeschränkte und einseitige Anregungen und soziale Isolation tragen laut Schlack dazu bei, dass in dieser Lebenswelt die Bedürfnisse der Kinder nicht befriedigt werden können.
+Dies führt dazu, dass sie ihr intellektuelles Potential nicht erreichen können.
+
+Fehlernährung und Unterernährung ist ein wesentlicher Faktor.
+Wenn Kleinkindern eine gesunde Ernährung zur Verfügung gestellt wird, kann der Einfluss von Armut auf den IQ verringert werden.
+Möglicherweise geht der Einfluss der Armut auf die Intelligenz vor allem auf umweltbedingte Entwicklungsstörungen des kindlichen Gehirns zurück, die sich im MRT-Bild nachweisen ließen.
+
+Doch gibt es Ausnahmen von der Regel, dass Armut zu niedriger Intelligenz führt.
+So zeigten etwa die Oakland Growth and Berkeley Guidance Studies keine signifikanten Auswirkungen von Armut bei Jungen aus der Arbeiter- und Mittelschicht.
+Arme Mittelschichtsjungen hatten einen Durchschnitts-IQ von 115,9, arme Jungen aus der oberen Arbeiterschicht einen Durchschnitts-IQ von 113,1.
+Die Ergebnisse dieser Studien, die sich mit Individuen beschäftigen, die zwischen 1920 und 1929 in Kalifornien geboren wurden, lassen sich nicht uneingeschränkt auf die heutige Zeit übertragen.
+Auch sind dies Jungen, die trotz Armut in einer relativ guten sozialen Umgebung aufwuchsen.
+
+=== Stabilität von Intelligenz
+
+Im Kleinkindalter bis etwa vier Jahren ist die Intelligenz noch sehr instabil, sodass intrapersonale Prognosen nicht sinnvoll sind.
+So beträgt die Korrelation für die Altersspanne von einem bis fünf Jahren nur r=.18.
+Ab drei Jahren werden die Vorhersagen verlässlicher.
+Ab dem Erwachsenenalter ist die Stabilität der Intelligenz sehr hoch.
+Für einen Zeitraum von sieben Jahren lassen sich Korrelationen von r=.89 bis r=.96 nachweisen.
+
+Im Jahr 1932 wurde bei 87.498 schottischen Kindern im Alter von zehneinhalb bis elfeinhalb Jahren den Moray House Intelligence Test durchgeführt.
+Das Ziel war es Arbeiterkinder zu identifizieren, die von einer weiterführenden Ausbildung auf der Grammar School profitieren könnten.
+Nach der Millenniumswende wurde bei den noch lebenden Testteilnehmern (die nun 80 Jahre alt waren) erneut ein Intelligenztest durchgeführt.
+Die Korrelation war mit r=.66 hoch.
+
+=== Alkoholkonsum
+
+Alkoholkonsum der Mutter während der Schwangerschaft kann ein Fetales Alkoholsyndrom, auch FAS oder Alkohol-Embryopathie genannt, verursachen.
+Dieses ist häufig auch mit geringen IQ-Werten verbunden.
+Das Fetale Alkoholsyndrom ist die häufigste geistige Behinderung, die nicht genetisch bedingt ist.
+
+=== Umweltverschmutzung
+
+Wissenschaftler nehmen an, dass Umweltverschmutzungen, insbesondere durch Bleibelastung die Intelligenzentwicklung heranwachsender Kinder nachteilig beeinflussen.
+
+== Unterschiede im Intelligenztest
+
+Die Intelligenztestwerte in der Bevölkerung folgen in etwa einer Normalverteilung, mit Ausnahme eines leichten Überhangs am unteren Ende, ausgelöst durch schwere kognitive Störungen.
+Die männliche Intelligenzverteilung hat dabei eine etwas höhere Varianz, also einen höheren Anteil von Männern mit extrem hoher und extrem niedriger Intelligenz.
+
+In Industrieländern wurden bis in die 1990er Jahre Zuwächse bei den durchschnittlichen IQ-Testergebnissen beobachtet (sog. Flynn-Effekt).
+Seit den 1990er Jahren stagnierte bzw. sank der IQ in einigen Industriestaaten, während er inzwischen wieder deutlich ansteigt.
+
+=== IQ-Unterschiede zwischen ethnischen Gruppen
+
+==== USA
+
+Die Debatte um die Intelligenz in den USA ist durch zwei Untersuchungsergebnisse charakterisiert:
+
+Es wird allerdings von einigen Menschen bestritten, dass IQ-Tests ein objektives Bild der Fähigkeiten von Menschen aus allen ethnischen Gruppen vermitteln.
+Es wird Ihnen vorgeworfen, kulturelle Vorstellungen des amerikanischen Mainstreams zum Standard zu erheben.
+Selbst kulturfreie Test benachteiligen laut einigen Wissenschaftlern Angehörige von Minderheiten.
+So wurde in den USA im Fall "Larry P. v. Riles" entschieden, dass IQ-Tests nicht benutzt werden dürfen um afroamerikanische Kinder Sonderschulklassen zuzuweisen, da sie gegen diese diskriminierten.
+
+Rushton & Jensen (2005) schrieben, dass die meisten Studien in den Vereinigten Staaten Schwarze und Weiße, die sich selbst so bestimmen, behandeln.
+Die Studien zeigen, dass der Unterschied zwischen IQ-Werten von Schwarzen und Weißen etwa 15 bis 18 Punkte ist oder 1 bis 1,1 Standardabweichungen, was bedeutet, dass etwa 11 bis 16 % der schwarzen Bevölkerung IQ-Werte über 100 haben (der Medianwert der Gesamtbevölkerung).
+
+Der Evolutionsbiologe Richard Lewontin, der Psychologe Leon J. Kamin und der Neurobiologe Steven P. Rose argumentierten 1987, dass Intelligenz in jeder Umgebung ein Selektionsvorteil ist, es also unlogisch wäre, wenn bestimmte ethnische Gruppen durch die Evolution intelligenter wären als andere.
+Vielmehr falle auf, dass Intelligenzunterschiede zwischen verschiedenen Gruppen innerhalb einer Schicht praktisch nicht existent sind.
+Dass einige ethnische Gruppen bei IQ-Tests schlechter abschneiden als andere, wird daher von vielen Wissenschaftlern darauf zurückgeführt, dass überdurchschnittlich viele Menschen aus diesen ethnischen Gruppen zur sozialen Unterschicht gehören.
+Armut aber kann zu Einbußen im IQ führen und wird deswegen von vielen Wissenschaftlern für IQ-Unterschiede zwischen ethnischen Gruppen verantwortlich gemacht.
+
+1994 schrieben Herrnstein und Murray ihr umstrittenes Buch The Bell Curve.
+In diesem vertraten sie erneut die These, es gebe genetische IQ-Unterschiede zwischen den Rassen.
+Elsbeth Stern und Ilonca Hardy kommentierten folgendermaßen:
+
+Diesem Argument schließen sich Philip Zimbardo und Richard Gerrig an.
+Sie betonen, dass die Tatsache, dass der IQ innerhalb einer Gruppe stark erblich sei, nicht darauf hinweise, dass Gruppenunterschiede auch durch die Gene zustande gekommen wären:
+
+==== Deutschland
+
+In einer Studie wurden die deutschlandweiten Intelligenztests der Kreiswehrersatzämter aus dem Jahr 1998 herangezogen.
+Demzufolge gab es weit überdurchschnittliche Testergebnisse in den Kreiswehrersatzamtsbezirken Stuttgart und Chemnitz sowie in fast jedem zweiten bayerischen Kreiswehrersatzamtsbezirk.
+Besonders schlecht hingegen schnitten die Wehrpflichtigen in den Bundesländern Brandenburg und Sachsen-Anhalt ab.
+
+In Deutschland sorgte eine Äußerung von Dieter Lenzen, Präsident der Freien Universität Berlin, für Aufsehen.
+Dieser sagte, dass laut einer Studie türkische Einwanderer nach Deutschland im Durchschnitt weniger intelligent sein könnten als Deutsche.
+Die Studie habe nicht-sprachliche, figurale Aufgaben verwendet, um die türkischen Schüler nicht schon aufgrund der Sprache zu benachteiligen.
+Niemand behaupte, dass Einwandererkinder von Geburt an dumm seien, so Lenzen.
+Allerdings blieben sie in der Studie nachweisbar hinter den deutschen Kindern zurück.
+Diese Studie gebe keinen Anlass für rassistische Mutmaßungen.
+Auch gehe es nicht um Gene.
+Vielmehr folge aus der Studie vor allem eines: "Die schulische Förderung von Einwanderern muss mehr leisten als reine Sprachförderung Schulische Förderung muss zusätzlich kognitive Defizite ausgleichen, die in der sozialen Herkunft der Kinder begründet sind."
+
+Laut Lernpsychologin Elsbeth Stern lässt sich daraus, dass Türken bei IQ-Tests schlechter abschneiden, nicht schließen, dass diese dümmer sind.
+"Als Deutschland Türken ins Land holte, brauchte man vor allem Leute, die am Fließband stehen, also Menschen aus der bildungsfernen Unterschicht." Die schlechten Leistungen der Türken hätten vor allem soziale Ursachen - keine ethnischen.
+Zudem könne man bei Intelligenztests letztlich nie das Umfeld ausblenden.
+"Der eingesetzte Test verlangt vor allem, dass man logische Strukturen in Figurenfolgen erkennt.
+Wer zu Hause beispielsweise viel mit Puzzles spielt, ist gegenüber anderen Kindern im Vorteil".
+
+==== Andere Länder
+
+Der Intelligenzforscher John Ogbu konnte nachweisen, dass soziale Stigmatisierung einer ethnischen Gruppe oder Kaste zu schlechten Leistungen bei IQ-Tests führt.
+So haben beispielsweise die japanischen Burakumin einen um 15 Punkte niedrigeren IQ als andere Japaner.
+
+Richard E. Nisbett hat drei sozial und akademisch überdurchschnittlich erfolgreiche ethnische Gruppen in den USA - Amerikaner mit asiatischem Hintergrund (Asian-Americans), Schwarze aus der Karibik (West Indian Blacks) und Juden - untersucht, die sich sowohl bezüglich geographischer Herkunft als auch von ihrer Geschichte her sehr unterscheiden.
+Abgesehen vom Energieaufwand, zu immigrieren und einen Neuanfang zu wagen (immigrant drive), ist den drei Gruppen gemein, dass sie großen Wert auf Fleiß, Erziehung und Ermutigung von Kindern legen und dass Individuen, die auf diese Weise erfolgreich sind, eher respektiert als beneidet werden.
+In Nisbetts Worten: "Intelligence and academic achievement are very much under people's control." (Intelligenz und akademische Leistungen können sehr gut von Menschen gesteuert werden).
+
+=== Zwischen Männern und Frauen
+
+Es gibt sowohl kognitive Aufgaben, bei denen Männer besser abschneiden, als auch solche, bei denen Frauen besser abschneiden:
+Männer vornehmlich bei mathematischen Aufgaben und solchen, die das räumliche Denken betreffen, Frauen bei sprachbezogenen.
+Beide erreichen im Durchschnitt bei Intelligenztests die gleichen Mittelwerte.
+Dies ist dadurch zu erklären, dass dieses Ergebnis von den Testkonstrukteuren erwünscht ist: Aufgaben, bei denen jeweils Männer bzw. Frauen besser abschneiden, werden im Test so gewichtet, dass sie sich ausgleichen.
+
+Die Varianz in den IQ-Werten ist bei Männern häufig größer als bei Frauen.
+Das heißt, es gibt sowohl mehr hochbegabte als auch mehr schwach begabte Männer als Frauen, deren Testergebnisse tendenziell näher beim Durchschnitt liegen.
+
+Männer und Frauen verfügen manchen Studien zufolge im Durchschnitt über die gleiche mathematische Intelligenz.
+In einer Reihe von Studien, die zusammengenommen an etwa 3 Millionen zufällig ausgewählten Probanden durchgeführt wurden, zeigten sich im Mittel ähnliche Fähigkeiten.
+Auffällig war, dass die Männer dabei sowohl bei den sehr talentierten als auch bei den extrem untalentierten Individuen in der Überzahl waren.
+Dies wird von einigen Forschern als möglicher Grund dafür angesehen, dass es mehr eminente Mathematiker als Mathematikerinnen gibt.
+Hierbei muss natürlich berücksichtigt werden, dass Frauen lange Zeit keinen Zugang zu Universitäten hatten und auch ansonsten gesellschaftlich benachteiligt waren.
+Darüber hinaus treten diese Unterschiede nicht in allen ethnischen Gruppen und Nationen auf und sind zudem laut Meinung einiger Wissenschaftler abhängig vom Maß an gesellschaftlicher Gleichstellung von Männern und Frauen.
+Andere Studien ergaben hingegen im Einklang mit den "klassischen" Ergebnissen der Bildungsforschung einen gewissen Vorteil von Männern in standardisierten Tests mathematischer Begabung und visuell-räumlicher Verarbeitung und einen gewissen Vorteil von Frauen in Maßen der Schreibfähigkeit und des Sprachgebrauchs; somit bleibt also festzuhalten, dass es in Durchschnittswerten bestimmter Maße, die vermutlich die Intelligenz widerspiegeln, Unterschiede zwischen Männern und Frauen gibt.
+
+== Intelligenz und Bildungserfolg
+
+Die Korrelation zwischen Intelligenz und Bildungserfolg ist positiv.
+Dieser Korrelation können mehrere Erklärungen zugrunde liegen, z. B. könnten intelligentere Menschen aufgrund ihrer höheren Intelligenz durchschnittlich besser gebildet sein, oder gebildetere Menschen könnten aufgrund ihrer höheren Bildung durchschnittlich intelligenter sein.
+Viele Wissenschaftler gehen davon aus, dass Bildung kurzfristig einen positiven Effekt auf die Intelligenz hat, dieser Effekt jedoch langfristig verebbt.
+
+Laut einer Studie mit über 70.000 englischen Kindern liegt die Korrelation zwischen psychometrischer Intelligenz im Alter von 11 Jahren und dem Bildungserfolg in 25 Schulfächern im Alter von 16 Jahren bei 0,81. Dieses Ergebnis zeigt den großen positiven Einfluss der Intelligenz auf den Bildungserfolg.
+Eine Studie beschäftigte sich mit der Frage, wie stark jeweils Bildungserfolg und Intelligenz voraussagen können, inwieweit ein Laie die wirtschaftswissenschaftlichen Ansichten eines durchschnittlichen Ökonomen teilt.
+Dabei zeigte sich anhand von Daten des General Social Surveys, dass zwar sowohl höhere Bildung, als auch höhere Intelligenz die Wahrscheinlichkeit erhöhen, dass ein Laie die Ansichten eines Ökonomen teilt, jedoch ist auf den meisten Gebieten die Intelligenz ein besserer Prädiktor als der Bildungserfolg.
+Eine Folgerung aus diesen Ergebnissen lautet, dass die positiven Effekte der Bildung auf die Intelligenz kleiner sein könnten, als bisher erwartet.
+
+Es gibt einige Versuche, durch Bildungsprogramme die Intelligenz zu steigern.
+Unterprivilegierte Kinder haben oft einen niedrigen IQ und sind primäres Ziel dieser Programme.
+Vor allem in den USA wurde im Rahmen der Great Society Domestic Agenda eine Vielzahl von Programmen gestartet, denen allesamt das Konzept der kompensatorischen Erziehung zugrunde liegt.
+Beispiele dafür sind das (mittlerweile eingestellte) Milwaukee Project und Head Start, sowie das Abecedarian Early Intervention Project und das High/Scope Perry Preschool Project.
+In Großbritannien wurden nach dem Vorbild von Head Start das sogenannte Early Excellence Centre gegründet und das Programm Sure Start ins Leben gerufen.
+Auch in Deutschland wurde bereits das erste Early Excellence Centre eröffnet.
+Allgemein lässt sich feststellen, dass diese Programme die Intelligenz kurzfristig steigern können, jedoch neigen die Zugewinne nach dem Verlassen des Programmes dazu, wieder zu verschwinden.
+
+Eine 2012 veröffentlichte Studie zu den Folgen der Anfang der 1960er Jahre in Norwegen von 7 auf 9 Jahre verlängerten Schulpflicht ergab, dass sich der im Alter von 19 Jahren bei den Schülern gemessene IQ um durchschnittlich 3,7 Punkte pro zusätzlich durchlaufenem Schuljahr erhöhte.
+
+=== Schulform
+
+In Deutschland bieten sich aufgrund des mehrgliedrigen Schulsystems Untersuchungen zur Frage an, ob bei gleicher Eingangsvoraussetzung die Intelligenzleistung durch den Besuch des Gymnasiums stärker ansteigt als durch den Besuch der Haupt- oder Realschule.
+Das Max-Planck-Institut für Bildungsforschung führte dazu eine Studie durch (die BIJU).
+Es konnten starke Effekte nachgewiesen werden:
+Bei Kontrolle der Ausgangsleistung im Intelligenztest in Klasse 7 konnten die Schüler, die das Gymnasium besuchten, ihre Intelligenzleistung um 11,39 Punkte mehr steigern als die Schüler, welche die Realschule besuchten.
+
+In Amerika konnte in einer Studie, an der 1450 Schulen teilnahmen, ein Zusammenhang zwischen Qualifikation des Lehrers und IQ der von ihm unterrichteten Kinder nachgewiesen werden.
+Selbst nachdem die Einflüsse anderer Faktoren (wie etwa Armut) kontrolliert worden waren, war von einem wenig qualifizierten Lehrer unterrichtet zu werden mit niedrigeren IQ-Werten korreliert.
+
+=== Bedrohung durch Stereotype
+
+Als Bedrohung durch Stereotype bezeichnet man es, wenn eine Person glaubt, zu einer leistungsschwachen Gruppe zu gehören, und deswegen bei einem IQ-Test versagt.
+Das Phänomen konnte beispielsweise für Frauen nachgewiesen werden:
+Steele ließ männliche und weibliche Studierende an einem Test der mathematischen Fähigkeiten teilnehmen.
+Der Hälfte der Stichprobe wurde kurz vor dem Test gesagt, dass es bei diesem Test in der Regel starke Geschlechtsunterschiede gebe.
+Tatsächlich schnitten die Frauen nun deutlich schlechter ab als die Männer.
+Die andere Hälfte der Stichprobe erhielt diesen Hinweis nicht.
+Hier konnten keine signifikanten Geschlechtsunterschiede gezeigt werden.
+Auch andere Gruppen können durch Stereotype bedroht sein - wie Angehörige von ethnischen Minderheiten oder Angehörige der unteren Sozialschichten.
+Manchmal kann auch für ganze Nationen eine Bedrohung durch Stereotype nachgewiesen werden.
+So konnte Harold Stevenson nachweisen, dass Amerikaner im Vergleich zu Angehörigen asiatischer Nationen stärker durch Stereotype bedroht waren und deswegen schlechtere Leistungen in Tests der mathematischen Fähigkeiten erbrachten.
+
+=== Milwaukee Project
+
+Das Projekt wurde von der University of Wisconsin durchgeführt mit dem Ziel, zu erforschen, wieso ein Drittel aller geistig behinderten Kinder in Milwaukee aus demselben Viertel der Stadt, in dem nur 3 % der Bevölkerung lebten, stammte.
+Weiterhin sollte eine Lösung für dieses Problem gefunden werden.
+
+Für das Projekt wurden Kinder ausgewählt, deren Mütter einen IQ von höchstens 80 hatten, und dann in eine Behandlungs- und eine Kontrollgruppe aufgeteilt.
+Die Kinder der Behandlungsgruppe wurden schon als Babys in ein sogenanntes Infant Stimulation Center gebracht, wo sie von persönlichen Trainern, die allesamt promovierte Akademiker aus dem Gebiet der Pädagogik und Psychologie waren, individuell und intensiv betreut wurden.
+Beispielsweise spielten die Trainer Lernspiele mit den Kindern oder lasen ihnen vor.
+Zusätzlich erhielten die Kinder einen individuellen Speiseplan, der von einem Arzt erstellt wurde.
+
+Mit 6 Jahren erwiesen sich die Kinder aus der Behandlungsgruppe als überdurchschnittlich intelligent.
+Sie hatten einen Durchschnitts-IQ von 120 und es waren etliche Hochbegabte darunter.
+Die Kinder der Kontrollgruppe dagegen hatten einen IQ von 87, und es waren keine Hochbegabten darunter.
+Danach endete die Betreuung.
+
+Die Kinder wurden nicht mehr gefördert und besuchten die schlechten öffentlichen Schulen ihres Viertels.
+Ihr IQ fing an zu sinken, so dass sie im Alter von 14 Jahren durchschnittlich einen IQ von 101 aufwiesen.
+Sie waren damit durchschnittlich intelligent und vor allem deutlich intelligenter als die Kinder der Kontrollgruppe.
+
+=== Head Start
+
+Head Start ist ein US-amerikanisches Programm zur kompensatorischen Erziehung, das seit 1965 versucht, die Bildungschancen von Kindern aus sozial schwachen Familien zu verbessern.
+Etwa 24 Millionen Vorschulkinder nahmen bis 2007 an dem Programm teil, dessen Budget fast 7 Milliarden US-Dollar beträgt.
+
+Das Programm ist in mehrere Unterprojekte gegliedert.
+Early Head Start kümmert sich bereits während der Schwangerschaft um die werdenden Eltern, insbesondere die Mütter, und bietet verschiedene Beratungs- und Kursangebote.
+Das eigentliche Head Start betreut die Kinder nach der Schule, etwa durch Hausaufgabenhilfe oder Besuche von Ausstellungen.
+Mit Migrant and Seasonal Head Start wurde ein Programm für Kinder von Migranten und Saisonarbeitern geschaffen.
+
+Der Effekt des Programms ist umstritten.
+Während einige Studien Head Start insgesamt oder zumindest in Teilbereichen Erfolg bescheinigen, kritisieren andere, dass nicht am gesamten Problem, also der sozialen Gesamtsituation, gearbeitet, sondern nur ein Teilaspekt herausgegriffen werde.
+
+=== Follow Through
+
+Das Project Follow Through war mit 100.000 Teilnehmern und Kosten von einer Milliarde Dollars die bisher weltweit größte Studie mit dem Ziel, wirkungsvolle Methoden zum Unterrichten von benachteiligten Kindern zu finden.
+Sie war ursprünglich als Sozialplan zur Erweiterung des Head Start Programms geplant und dauerte von 1967 bis 1995.
+
+Die vom Department of Education zugelassenen 22 verschiedenartigen Modelle wurden von Erziehungswissenschaftlern renommierter Universitäten entwickelt.
+Es gab nur eine Ausnahme, das Modell Direkte Instruktion des Vorschullehrers Siegfried Engelmann.
+Ziel der Studie war, die ökonomisch und bildungsmäßig ärmsten Schulen in den USA auf das amerikanische Durchschnittsniveau anzuheben.
+
+Die Auswertung der Follow-Through-Daten erfolgte durch zwei unabhängige Institute.
+Das Modell der Direkten Instruktion erreichte als einziges in allen Fächern und beim Selbstwertgefühl positive Ergebnisse in der Nähe des amerikanischen Durchschnittsniveaus.
+
+=== Pygmalion-Effekt
+
+Möglicherweise kann der von Rosenthal und Jacobson postulierte Pygmalion-Effekt zu einer Steigerung der Intelligenz bis hin zur Hochbegabung führen.
+Es handelt sich dabei um eine Art selbsterfüllende Prophezeiung:
+Die Wissenschaftler erklärten Lehrern von Grundschulen, dass einige Kinder in ihrer Klasse als hochbegabt identifiziert worden seien; in Wirklichkeit waren sie aber zufällig ausgewählt worden.
+Aufgrund der angeblichen Hochbegabung der Schüler beschäftigten die Lehrer sich nun verstärkt mit diesen Schülern, woraufhin starke IQ-Zuwächse bei den Schülern festgestellt werden konnten.
+Auch wenn die Versuche von Rosenthal und Jacobson kritisiert wurden, unter anderem von Hans Jürgen Eysenck, der den Autoren methodische Fehler vorwarf, zeigen sie trotzdem, wie wichtig individuelle Förderung für die Intelligenzentwicklung ist.
+
+=== Musikunterricht
+
+Musikunterricht hat einen positiven Einfluss auf den IQ, sofern er schon im jungen Alter stattfindet.
+Eine Studie konnte keinen Effekt des Musikunterrichts auf das räumliche Vorstellungsvermögen, jedoch einen Effekt auf den verbalen IQ nachweisen.
+Es konnten signifikante Unterschiede in der Gehirnstruktur zwischen Musikern und Menschen, die kein Instrument spielten, festgestellt werden.
+Einige Studien deuten auf positive Auswirkungen frühen musikalischen Trainings auf die Sprach- und Lesekompetenz.
+
+Eine andere Studie bewies einen kleinen, aber signifikanten positiven Einfluss von Keyboardunterricht und Gesangsunterricht auf den IQ.
+Der Einfluss blieb erhalten, wenn Einkommen und Bildung der Eltern kontrolliert wurden.
+In einer weiteren Studie, bei der Vorschulkinder ein computerbasiertes kognitives vierwöchiges Kurztraining mit zehn Stunden pro Woche erhielten, ergab ein Kurztraining mit musikalischen Inhalten eine höhere positive Wirkung als ein Kurztraining mit Elementen der darstellenden Kunst.
+
+Als eine Erklärung für die Wirkung von Musikunterricht auf die Sprachkompetenz wird postuliert, dass Musik und Sprache die gleichen sensorischen oder kognitiven Verarbeitungsmechanismen im Gehirn einbeziehen, wobei die Musik höhere Anforderungen stelle.
+Zugleich bringe die Musik eine emotionale Belohnung und häufige Wiederholungen mit sich und setze konzentrierte Aufmerksamkeit voraus.
+Durch diese Faktoren werde die neuronale Plastizität aktiviert, die zu langfristigen Änderungen im Gehirn führe und die Sprachverarbeitung beeinflusse.
+
+== Medikamentöse Leistungssteigerung
+
+Trotz der Komplexität des menschlichen Gehirns ist es mittlerweile möglich, Teilfaktoren der Intelligenz gesunder Erwachsener pharmakologisch zu verbessern.
+So steigert der Wirkstoff Methylphenidat die Kapazität des räumlichen Arbeitsgedächtnisses und die Fähigkeit zum Planen, sofern es sich um unbekannte Aufgaben handelt.
+Modafinil dagegen erhöht die Leistung bei der Mustererkennung und beim räumlichen Planen und verbessert das Kurzzeitgedächtnis für Zahlen.
+Der Acetylcholinesterase-Hemmer Physostigmin verbessert das Arbeitsgedächtnis bei der Gesichtserkennung.
+Das Hormon Erythropoetin, von dem angenommen wird, dass es die Neuroplastizität erhöht, vergrößert eine Woche nach einer einmaligen, die Blutzusammensetzung nicht beeinflussenden, Injektion die Wortflüssigkeit.
+Schließlich steigert auch der noch in der Zulassungsphase befindliche Nikotinagonist GTS-21 die Leistungsfähigkeit des Arbeitsgedächtnisses.
+Interessanterweise fallen die Verbesserungen durch Modafinil und Methylphenidat bei Personen mit im Verhältnis geringerer geistiger Leistungsfähigkeit stärker aus.
+Die relativ geringe absolute Stärke der Effekte, die teilweise hohen Kosten, die manchmal vorhandenen starken Nebenwirkungen und ungeklärte neuroethische Fragen verhindern allerdings eine breite Anwendung dieser Medikamente.
+Obwohl auf dem Gebiet der Steigerung der geistigen Leistungsfähigkeit umfangreiche Forschungen betrieben werden, hemmen besonders offene Haftungsfragen und das Fehlen rechtlicher und gesellschaftlicher Normen die Weiterentwicklung.
+
+== Intelligenz in anderen Disziplinen
+
+=== Neuronale Grundlagen
+
+Die Neurowissenschaften beschäftigen sich unter anderem mit den neuronalen Grundlagen der Intelligenz bzw. der Verarbeitung von Signalen und Information beim Menschen.
+Für die Intelligenz besonders relevant sind die Vorgänge im Großhirn (vgl. auch Cortex), wogegen das Kleinhirn (lat. Cerebellum) und phylogenetisch ältere Bereiche (z. B. das Stammhirn) in der Forschung zu neuronalen Grundlagen der Intelligenz weniger Beachtung finden.
+Dies heißt jedoch nicht, dass Intelligenz in bestimmten Gehirnarealen lokalisiert werden könnte.
+
+=== Künstliche Intelligenz
+
+In der Informatik beschäftigt man sich mit dem Thema im Rahmen der Forschung zur künstlichen Intelligenz (KI).
+Sie bezeichnet die Nachbildung menschlicher Intelligenz innerhalb der Informatik.
+Die KI findet zunehmend Einsatz in vielen Bereichen.
+Anwendungsgebiete sind z. B. Optimierungsprobleme (Routenplaner, Schienenverkehr), Umgang mit natürlicher Sprache (Spracherkennung, maschinelle Übersetzung, Suchmaschinen im Internet, social bots z. B. cleverbot usw.), Umgang mit natürlichen Signalen (Bildverstehen, Bilderkennung, Gesichtserkennung, Mustererkennung usw.), humanoide Roboter (z. B. Atlas, ASIMO, Pepper), autonome Waffen usw.
+Auch in Computerspielen wird die KI oft für vom Computer gesteuerte Gegner verwendet.
+(siehe auch Anwendungen künstlicher Intelligenz).
+
+Neuronale Netze im menschlichen Gehirn hat man in Grundlagen verstanden.
+Solche Netze werden im Computer simuliert, und damit wird die Funktionsweise des menschlichen Gehirns simuliert (s. künstliches neuronales Netz).
+Durch immer leistungsstärkere Computer werden solche künstlichen Netze immer leistungsfähiger.
+Maschinen werden so lernfähig ähnlich dem Gehirn (s. maschinelles Lernen).
+Der Zeitpunkt, an dem künstliche Intelligenz die menschliche Intelligenz übertrifft, nennt man Technologische Singularität.
+
+Ein Maß, ob eine Maschine eine dem Menschen ebenbürtige Intelligenz aufweisen kann, ist der Turing-Test.
+Wenn bei diesem Test ein Mensch nicht mehr in der Lage ist zu erkennen, ob das Gegenüber (z. B. bei einem Telefongespräch) eine Maschine oder ein Mensch ist, gilt die Maschine in diesem Teilbereich als intelligent.
+Die Maschinen bestehen den Turing-Test bereits in einigen abgegrenzten Bereichen.
+Eine KI, die man selbst online testen kann, ist z. B. der cleverbot, der auf Small-Talk spezialisiert ist (s. a. Vergleich von KI mit menschlicher Intelligenz).
+
+Was der KI aber bislang fehlt, ist ein Selbstbewusstsein oder auch Bewusstsein (s. a. Bewusstsein von künstlicher Intelligenz).
+Ebenso haben künstliche Intelligenzen bislang keine Emotionen (s. a. Emotionen von künstlichen Intelligenzen).
+
+Ein System, das offensichtlich intelligentes Verhalten zeigt, bleibt nur ein Werkzeug, so lange kein Selbstbewusstsein vorhanden ist und keine Motivation, aus "eigenem" Antrieb zu handeln und "eigene" Interessen zu verfolgen (s. a. Philosophischer Zombie).
+Eine ausreichend intelligente Technologie, welche auch diese Grenze überschritte und darüber hinaus womöglich Reaktionen zeigte, welche als emotional interpretierbar wären, würde diverse ethische Fragen bezüglich Rechten und Verantwortlichkeiten eines solchen Systems aufwerfen.
+Dabei wäre unter anderem zu diskutieren, ob eine "biologische" Intelligenz grundsätzlich anders zu werten sei als eine "technologische".
+
+=== Übertragung in die Zoologie und Botanik
+
+Aufgrund der uneindeutigen Definition von Intelligenz ist eine Übertragung des Konzepts auf Tiere nur schwer möglich.
+Gleichwohl werden aber auch Erkenntnisse aus Tierexperimenten der Verhaltensforschung vor dem Hintergrund der Theorien zu Intelligenzleistungen beim Menschen interpretiert.
+Es wird daher auch Tieren und vereinzelt sogar Pflanzen (siehe Pflanzenintelligenz) Intelligenz zugesprochen.
+Intelligentes Verhalten bei Tieren meint meist eine kognitive Leistung, welche über instinktives, nur von Schlüsselreizen ausgelöstes Verhalten hinausgeht, und eine gewisse Beurteilung einer Situation sowie das Abwägen von Handlungsalternativen erkennen lässt.
+
+Verhaltensbiologische Befunde, die solcherart interpretiert wurden, liegen beispielsweise vor für Kopffüßer (siehe auch Pazifischer Riesenkrake), Raben und Krähen, Elstern, Warane, Papageien, Ameisen, Bienen, Rhesusaffen und Menschenaffen.
+Auch der sogenannte Spiegeltest wird häufig vor dem Hintergrund des Intelligenz-Konzeptes diskutiert.
+
+== Emotionale Intelligenz
+
+Emotionale Intelligenz ist ein von John D. Mayer (University of New Hampshire) und Peter Salovey (Yale University) im Jahr 1990 eingeführter Terminus.
+Er beschreibt die Fähigkeit, eigene und fremde Gefühle (korrekt) wahrzunehmen, zu verstehen und zu beeinflussen.
+Das Konzept der emotionalen Intelligenz beruht auf der Theorie der multiplen Intelligenzen von Howard Gardner, deren Kerngedanke bereits von Edward Lee Thorndike und David Wechsler als "soziale Intelligenz" bezeichnet wurde.
+Diesen verdeutlichte Thorndike schon 1920 mit einem Beispiel, wonach der (fachlich) beste Mechaniker als Vorarbeiter scheitern wird, wenn es ihm an sozialer Intelligenz fehlt.
+Das Thema "emotionale Intelligenz" ist somit auch ein Beitrag zur Diskussion der Frage nach dem Erfolg im Leben und Beruf.
+
+== Soziale Intelligenz
+
+Soziale Intelligenz ist ein Komplex von Fähigkeiten, die dazu dienen, in Kommunikations- und Interaktionssituationen entsprechend den Bedürfnissen der Beteiligten Realitätskontrolle zu übernehmen und effektiv zu handeln.
+Als effektiv kann Handeln bezeichnet werden, wenn sich dadurch positive (erwünschte) Konsequenzen maximieren und negative (unerwünschte) minimieren lassen.
+Die Vielzahl an Definitionen lassen sich danach unterscheiden, ob darin soziale Kompetenz als einheitliches Konstrukt (molar) oder als Zusammenfassung mehrerer sozial relevanter Verhaltensmuster (molekular) beschrieben werden.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

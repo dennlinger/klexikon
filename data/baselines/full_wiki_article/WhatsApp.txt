@@ -1,0 +1,232 @@
+WhatsApp ist ein 2009 gegründeter Instant-Messaging-Dienst, der seit 2014 Teil der Facebook Inc. ist.
+Benutzer können über WhatsApp Textnachrichten, Bild-, Video- und Ton-Dateien sowie Standortinformationen, Dokumente und Kontaktdaten zwischen zwei Personen oder in Gruppen austauschen.
+Außerdem ist seit Frühjahr 2015 das internetbasierte Telefonieren über die App möglich.
+Das kalifornische Unternehmen WhatsApp Inc. bietet dabei das eigentliche mobile Anwendungsprogramm (App) namens WhatsApp-Messenger für verschiedene Smartphone-Betriebssysteme an und betreibt die dazugehörigen Server.
+Dem bis Anfang 2016 kostenpflichtigen, nun aber kostenlosen Dienst wird die weitgehende Ablösung der SMS zugeschrieben.
+Wichtige Konkurrenten sind Signal, Telegram und Threema.
+Das Unternehmen hat seinen Sitz in Mountain View, Kalifornien.
+Das Unternehmen WhatsApp Inc. wurde 2009 in Santa Clara, Kalifornien, von Jan Koum und Brian Acton gegründet.
+Der Name ist ein Wortspiel: WhatsApp klingt nach englisch "What's up?" ("Was ist los?", "Was geht?") und enthält das Kürzel App (Applikation, "Anwendung").
+WhatsApp startete als einfache App, bei der man Status-Meldungen veröffentlichte, die von allen Freunden gelesen werden konnten.
+Diese App erweiterten die Entwickler zu einem äußerst erfolgreichen Kurznachrichtendienst, den das US-Unternehmen Facebook Inc. am 19. Februar 2014 für 19 Milliarden US-Dollar - 4 Milliarden in bar, der Rest in Form von Facebook-Aktien - übernommen hat.
+WhatsApp-Mitgründer Jan Koum wechselte in den Facebook-Verwaltungsrat.
+Nach der Übernahme im Februar 2014 wurden in Medien vielfach Datenschützer und Datenschutzbeauftragte mit der Empfehlung zitiert, statt WhatsApp verschlüsselte Dienste zu bevorzugen.
+Am 18. November 2014 ging WhatsApp eine Partnerschaft mit Open Whisper Systems ein, um eine Ende-zu-Ende-Verschlüsselung, basierend auf dem Protokoll des TextSecure-Messengers, zu entwickeln.
+Am 5. April 2016 veröffentlichte WhatsApp ein White Paper, wonach Texte, Medien und Anrufe durch die Ende-zu-Ende-Verschlüsselung nun geschützt seien.
+Anfang April 2015 verzeichnete WhatsApp 800 Millionen aktive Nutzer und galt als der am schnellsten wachsende Dienst in der Geschichte des Internets.
+Seine Bewertung ist umstritten, seitdem das Unternehmen von Facebook erworben wurde.
+Angeführt werden hauptsächlich Bedenken bezüglich einer kommerziellen Weiternutzung privater Nutzerdaten, der Sicherung der Privatsphäre, der informationellen Selbstbestimmung der Nutzer und des Quasi-Monopols von Facebook im Bereich Social Networking und bei der mobilen Kommunikation (Messaging).
+Einige Datenschutzbeauftragte und -experten empfahlen Apps europäischer Anbieter.
+So übermittelt WhatsApp standardmäßig alle Namen und Nummern aus Telefon-Adressbüchern seiner Nutzer an Server in den USA - auch von allen den Dienst nicht nutzenden Kontaktpersonen.
+Daher ermittelten 2014 niederländische und kanadische Behörden wegen Datenschutz-Verletzungen.
+Am 18. Januar 2016 wurde bekannt, dass WhatsApp wieder kostenlos werden soll.
+Im September 2017 kündigte einer der beiden Gründer, Brian Acton, an, dass er das Unternehmen verlassen werde.
+Über eine gemeinnützige Stiftung, an der er sich mit 50 Millionen US-Dollar beteiligt hat, unterstützt er die weitere Entwicklung von Signal, einem alternativen Messengerdienst, der besonderen Wert auf sichere Verschlüsselung legt.
+Im Mai 2018 verließ auch der zweite Mitgründer von WhatsApp, Jan Koum, den Konzern.
+Ein Grund für seine Kehrtwendung wird darin gesehen, dass Facebook sich dafür entschieden hat, WhatsApp nun doch für Werbung zu nutzen, um auf diese Weise Nutzerdaten zu monetarisieren.
+Entsprechende Ankündigungen wurden durch Facebook im Mai 2018 getätigt.
+Ein solches Geschäftsmodell hatten sowohl Koum als auch Acton entschieden abgelehnt.
+Der Konflikt besteht auch, weil seitens WhatsApp in diesem Zusammenhang eine Abschwächung der Kryptografie befürchtet wird.
+Die Nutzer sollen den neuen Nutzungsbedingungen bis zum 15. Mai 2021 zustimmen.
+Eine Zustimmung kann auch nach dem 15. Mai erfolgen, allerdings werden dann die Funktionen der App, bis zur Annahme, stark eingeschränkt.
+Zur Nutzung von WhatsApp ist nach der Installation eine Registrierung unter Angabe der eigenen Handynummer vorgesehen.
+Die weltweit eindeutige Mobilfunknummer übernimmt die Funktion der Benutzerkennung und ist somit nicht frei wählbar.
+Laut einem Artikel auf t-online.de erkennt WhatsApp durch gespeicherte, standardmäßig ausgelesene Telefon-Adressbucheinträge von anderen Nutzern in den meisten Fällen den Namen des Neubenutzers und die App zeigt diesen kurz nach dem Eintippen der eigenen Telefonnummer auch an.
+Laut WhatsApp FAQ werden nur die Telefonnummern übertragen.
+Es ist daher wahrscheinlicher, dass der im Betriebssystem eingegebene Benutzername übernommen wird.
+Zum Abschluss der Registrierung eines WhatsApp-Kontos wird normalerweise via SMS ein Freischaltcode übertragen und so die Handynummer verifiziert.
+Kann der WhatsApp-Server keine SMS zustellen, wird der Freischaltcode stattdessen per telefonischer Ansage übermittelt.
+Man muss daher nicht unbedingt die Nummer des Handys verwenden, von dem aus man WhatsApp nutzen möchte.
+Will man die Handynummer nicht preisgeben, kann man seine Festnetznummer oder die Nummer eines Zweithandys verwenden.
+WhatsApp ist im Gegensatz zu SMS kein eigener Dienst eines Mobilfunkanbieters, sondern nutzt den Internetzugang.
+Die Anwendung gehört zur Gruppe der Instant-Messaging-Programme.
+Zugrunde liegt der App das Extensible Messaging and Presence Protocol (XMPP) mit proprietären Erweiterungen, welches allerdings auf die Nutzung der WhatsApp-eigenen Server begrenzt ist.
+WhatsApp ist für die Betriebssysteme Android, iOS, Symbian, Nokia Series 40, Windows Phone und MeeGo erhältlich.
+Alternativ lässt sich ein Android-Emulator nutzen, um WhatsApp in der mobilen Oberfläche zu nutzen.
+Hiermit ist jedoch kein paralleler Betrieb mit einem Smartphone und einem PC möglich, da die Nummer erneut registriert werden muss.
+Außerdem ist eine Telefonnummer für die Registrierungs-SMS notwendig.
+Ebenfalls ist WhatsApp auf dem Handy-Betriebssystem Firefox OS nur mit einer speziellen, nicht offiziell von WhatsApp unterstützten Webapp nutzbar.
+Hierbei muss der Nutzer jedoch einige Nachteile in Kauf nehmen.
+Zusätzlich zum Senden von Text- und Sprachnachrichten ist es möglich, Foto-, Kontakt-, Video- und Audiodateien auszutauschen sowie den eigenen Standort mitzuteilen, der beispielsweise per GPS ermittelt wurde.
+Seit Ende März 2015 kann über WhatsApp mittels eines Android-Smartphones auch telefoniert (Voice over IP) werden.
+Dabei fallen etwa 1,5 Megabyte pro Minute an.
+Am 21. April 2015 wurde diese Funktion auch für iOS und am 24. Juni 2015 für Windows Phone verfügbar gemacht.
+Ende Oktober 2017 stellte WhatsApp eigene Emojis für Android zur Verfügung, nachdem zuvor die Piktogramme von Apple genutzt wurden.
+Die Emojis von WhatsApp orientieren sich stark an denen von Apple, um den Nutzern den Umstieg einfach zu machen.
+Seit dem 3. März 2020 gibt es sowohl für iOS als auch für Android einen Dunkelmodus (Benutzeroberfläche mit dunklem Hintergrund).
+Am 21. Januar 2015 wurde die browsergestützte Version WhatsApp Web offiziell vorgestellt.
+Diese Website ermöglicht es, per Internetzugang am PC/ Notebook auf bestehende Nachrichten zuzugreifen und neue zu verfassen.
+Hierzu muss vom Smartphone ein QR-Code gescannt werden, wodurch eine Verbindung über die WhatsApp-Server mit dem Smartphone über ein WebSocket hergestellt wird.
+Für die Nutzung von WhatsApp Web muss das Smartphone eingeschaltet und mit dem Internet verbunden sein.
+Während anfangs offiziell nur der Browser Google Chrome unterstützt wurde, wurde die Kompatibilität Ende Februar 2015 um die Browser Opera und Firefox erweitert.
+Seit dem 20. August 2015 ist WhatsApp Web auch für iOS-Geräte verfügbar.
+WhatsApp Web kann von Dritten dazu verwendet werden, die gesamte Kommunikation eines WhatsApp-Kontos in Echtzeit mitzuverfolgen und die Kontakte auszuforschen, ohne eine Überwachungssoftware auf dem Mobiltelefon installieren zu müssen.
+2020 ist beispielsweise bekannt geworden, dass das Bundeskriminalamt diese Funktion seit Jahren einsetzt.
+Am 10. Mai 2016 stellte WhatsApp die Desktop-App für Windows 8+ und OS X Mavericks (10.9) vor.
+Ähnlich wie WhatsApp Web ist die Desktop-App eine Erweiterung der Telefon-App und kann nach Abscannen eines QR-Codes mit dem Handy, auf welchem WhatsApp installiert ist, verwendet werden.
+Anders als die webbasierte WhatsApp-Version muss die Desktop-App vor dem Start installiert werden und bietet dann den vollen Funktionsumfang.
+Unter anderem sind Desktopbenachrichtigungen und Tastenkürzel als Verbesserungen gegenüber der Weboberfläche hinzugekommen.
+Im November 2016 wurde nach wochenlangen Beta-Versionen die Videotelefonie für Android, iOS und Windows zur Verfügung gestellt.
+Damit ist es möglich, Videoanrufe zu führen.
+Dabei können bis zu sechs Megabyte pro Minute an Daten anfallen.
+Im Januar 2018 wurde die App WhatsApp Business als Kommunikationskanal für kleine Firmen und deren Kunden im Playstore zunächst in den USA, Großbritannien, Italien, Mexiko und Indonesien bereitgestellt.
+Am 25. Januar 2018 startete das Betatestprogramm für vorregistrierte Android-Nutzer in Deutschland.
+In der Zwischenzeit ist die Android-Version der Business-App für die Öffentlichkeit im Play Store freigegeben.
+Am 8. Februar 2018 integrierte WhatsApp eine Bezahlfunktion, mit der Nutzer Zahlungen senden und empfangen können.
+Dazu ist es zunächst notwendig, ein Referenzkonto bei einer Bank zu hinterlegen.
+Diese Funktion steht zunächst nur Nutzern in Indien zur Verfügung.
+WhatsApp wird unter anderem für seine allgemeinen Geschäftsbedingungen kritisiert, die dem Unternehmen erlauben, Medien der Nutzer zu kommerziellen Zwecken zu verwenden.
+Ende November 2015 wurde bekannt, dass der WhatsApp-Client für Android Links zur Website des Konkurrenz-Messengers Telegram - telegram.org, telegram.me und telegram.com - innerhalb der App blockiert sowie das Kopieren des Links gezielt verhindert.
+Seit Anfang November 2019 scheint WhatsApp systematisch sämtliche Mitglieder von Gruppen mit bestimmten Namen zu sperren.
+Nach diversen Nachforschungen hat sich herausgestellt, dass bei den meisten der gleiche Grund für die Sperrung zugrunde liegt:
+Die Mitgliedschaft in einer WhatsApp-Gruppe mit verdächtigem oder böswilligem Namen.
+Es scheint irrelevant, wie viele Benutzer die Gruppe hat oder wer für den Namen verantwortlich ist.
+Kontaktversuche zu WhatsApp diesbezüglich werden ignoriert oder erhalten eine automatische Antwort mit schwammigen Informationen.
+Mitglieder müssen daher ihre Telefonnummer ändern, wenn sie WhatsApp weiterhin nutzen wollen, was einen erheblichen Aufwand bedeutet.
+Gegebenenfalls kann man seine Chatverläufe aus einem Backup wiederherstellen, jedoch ist nicht klar, wie es dann weitergeht, denn vermutlich wird denjenigen die Sperre wieder treffen.
+Bereits im Mai 2011 wurde eine Sicherheitslücke entdeckt, die es Unbefugten ermöglichte, Benutzerkonten zu übernehmen.
+In WhatsApp getätigte Konversationen wurden unverschlüsselt in Klartext gesendet und empfangen, weshalb diese für Unbefugte mitlesbar waren.
+Seit August 2012 werden die Gespräche der Nutzer Ende-zu-Ende verschlüsselt und versendet.
+Am 6. Januar 2012 veröffentlichte ein Unbekannter eine Website, die es ermöglichte, den Status eines beliebigen WhatsApp-Benutzers zu ändern, sofern dessen Telefonnummer bekannt war.
+Nach Angaben des Hackers wurde hierbei nur eine von vielen Sicherheitslücken ausgenutzt.
+Am 9. Januar 2012 berichtete die WhatsApp Inc., dass die betroffene Website endgültig gelöscht werden würde, jedoch war das Blockieren der IP-Adresse der Website die einzige Maßnahme, die getroffen worden war.
+Als Reaktion darauf wurde vom Hacker eine Windows-Anwendung zum Herunterladen bereitgestellt, mit der diese Blockade umgangen werden konnte.
+Einige Tage später, am 13. Januar 2012, entfernte Apple WhatsApp ohne Angabe von Gründen vier Tage lang aus seinem App Store, bis eine neue App-Version bereitgestellt wurde.
+Im September 2012 wurde bekannt, dass sich fremde Konten mit leicht zugänglichen Informationen kapern lassen.
+Dazu genügen unter Android die Telefonnummer des Nutzers und die Seriennummer (IMEI) seines Smartphones und bei iOS die MAC-Adresse der WLAN-Schnittstelle.
+Aus beiden Daten lässt sich mit einem einfachen Skript das Passwort zu dem WhatsApp-Konto errechnen.
+Ein Hacker hatte eine Website erstellt, über die sich so Nachrichten von fremden Konten versenden lassen.
+Die zwischenzeitlich geschlossene Sicherheitslücke trat im November 2012 erneut auf.
+Am 24. Juli 2013 veröffentlichte die Berliner Sicherheitsfirma Curesec eine Sicherheitslücke, die es ermöglicht, im Zahlungsprozess der Chat-Applikation in den Besitz von Zahlungsdaten für Google Wallet und PayPal zu kommen.
+Am 8. Oktober 2013 gelang es einer Hackergruppe, die sich Palestinian Hackers nennt, einen DNS-Server so zu manipulieren, dass er eine falsche IP-Adresse für die WhatsApp-Domain zurücklieferte (DNS-Spoofing).
+Thijs Alkemade, der Chefentwickler des Instant-Messaging-Clients Adium, äußerte im Oktober 2013 die Ansicht, dass die Verschlüsselung der Nachrichten als zu schwach und als kompromittiert betrachtet werden müsse, da der schwache Algorithmus RC4 mit in beiden Kommunikationsrichtungen gleichem Schlüssel, gleichem Initialisierungsvektor und gleichem HMAC-Schlüssel verwendet worden sei.
+Die gesamten WhatsApp-Nachrichtenverläufe werden auf dem Smartphone in einer mit Crypt verschlüsselten Datenbank gespeichert.
+Dadurch sind die Nachrichten mittlerweile durch einen temporären AES-Schlüssel vor Fremdzugriffen geschützt.
+Bis Mitte 2014 war dies noch ein allgemeiner, von WhatsApp vergebener und regelmäßig wechselnder AES-Schlüssel.
+Nachdem dieser öffentlich bekannt geworden war, hat WhatsApp auch diese Lücke geschlossen und weist jedem Gerät einen eigenen Schlüssel zu.
+Theoretisch könnten dadurch andere Apps auch auf die Inhalte der WhatsApp-Datenbank zugreifen.
+Im Juni 2015 wurde erstmals offiziell bekannt, dass amerikanische Behörden die Möglichkeit haben, WhatsApp-Nachrichten mitzulesen.
+Vorangegangen waren Razzien der belgischen Polizei gegen mutmaßliche Terrorverdächtige, die mit Hilfe der US-Behörden abgehört worden waren.
+Am 5. April 2016 wurde in der neuesten Version von WhatsApp die Ende-zu-Ende-Verschlüsselung eingeführt, die dem Benutzer nach dem Scannen eines QR-Codes bestätigt wird.
+Die Nachrichten und Anrufe können nur noch vom Sender und Empfänger der Nachricht entschlüsselt und gelesen werden.
+Da es sich bei WhatsApp um proprietäre Software handelt, ist es jedoch nicht möglich, zu überprüfen, ob tatsächlich eine sichere Verschlüsselung implementiert wurde oder ob potentielle Hintertüren eingebaut wurden.
+Im Oktober 2016 veröffentlichte die Electronic Frontier Foundation eine Stellungnahme zur Sicherheit von Whatsapp.
+Obwohl Nachrichten verschlüsselt versendet werden, würden Backups nicht verschlüsselt, wodurch die Vertraulichkeit von Nachrichten verletzt wird.
+Der deutsche Bundesnachrichtendienst nannte WhatsApp 2016 als Beispiel dafür, dass "Verschlüsselungstechniken ... inzwischen standardmäßig in die meisten Kommunikationsdienste integriert" seien, was "die Identifizierung nachrichtendienstlich relevanter Nutzer und die inhaltliche Erschließung der zugehörigen Kommunikation stark beeinträchtig".
+Am 13. Januar 2017 wurde auf der Website des Guardian veröffentlicht, dass der deutsche Sicherheitsforscher Tobias Boelter herausfand, dass WhatsApp beim Versenden von Nachrichten an Empfänger, die gerade nicht online sind, die Nachrichten automatisch erneut sendet, wenn dem Sender zwischenzeitlich ein neuer öffentlicher Schlüssel des Empfängers mitgeteilt wird.
+In diesem Falle ist aber nicht mehr sichergestellt, dass der Empfänger dieser erneut gesendeten Nachricht tatsächlich der gewollte Empfänger ist.
+Wenn WhatsApp einem Nutzer gezielt einen neuen Schlüssel zuweist und somit das erneute Versenden einer Nachricht an einen von WhatsApp bestimmten Empfänger auslöst, kann dies beispielsweise Regierungen in die Lage versetzen, jede erneut gesendete Nachricht ebenfalls zu empfangen.
+Lediglich der Sender wird, sofern im Messenger so eingestellt, über den Wechsel der öffentlichen Schlüssel informiert, nicht aber der Empfänger.
+Dies stellt laut dem Guardian eine ganz erhebliche Sicherheitslücke dar.
+WhatsApp erklärte dazu, es handle sich um eine "Design-Entscheidung", die verhindere, dass Millionen von Nachrichten verloren gingen.
+Moxie Marlinspike, der Entwickler des Signal-Protokolls, bezeichnete den Umgang von WhatsApp mit nicht gesendeten Nachrichten bei einem Wechsel des Telefons als "akzeptablen Trade-off" und widersprach der Behauptung, dass es sich um eine Backdoor handle.
+Namhafte Sicherheitsforscher kritisierten die Berichterstattung des Guardian in einem offenen Brief als verantwortungslos und bemängelten, dass die Reporter keine Stellungnahmen von Experten eingeholt hätten.
+Am 15. Januar 2017 veröffentlichte ein Forscherteam der Ruhr-Universität Bochum eine Sicherheitsanalyse der Gruppen-Chat-Protokolle von WhatsApp, Signal und Threema.
+Neben anderen Unzulänglichkeiten fanden sie heraus, dass letztlich die WhatsApp-Server die Mitgliedschaft der Nutzer in Gruppen steuern können, sodass ein Server beliebige Nutzer (bspw. sich selbst) zu Gruppen hinzufügen und damit die Vertraulichkeit zukünftiger Nachrichten brechen kann.
+Zwar können diese Manipulationen der Mitgliedschaft vom Nutzer erkannt werden, jedoch stellt dies eine Einschränkung der Ende-zu-Ende-Sicherheit dar.
+Eine andere wissenschaftliche Abhandlung dreier Forscher der Ruhr-Universität-Bochum hat Anfang 2018 zudem auf Schwachstellen der Ende-zu-Ende-Verschlüsselung bei WhatsApp-Gruppenchats aufmerksam gemacht.
+Am 10. Oktober 2018 berichtete das Fachportal Heise über eine Sicherheitslücke, die es Angreifern ermöglicht, ein Smartphone mit einem einzigen Video-Call zu kapern.
+Alle WhatsApp-Nutzer wurden dazu aufgefordert, zu überprüfen, ob sie die aktuelle Version des Messengers verwenden.
+Alle seit dem 28. September veröffentlichten Versionen wurden dabei als "sicher" eingestuft.
+Im Mai 2012 kritisierte die Stiftung Warentest das Datensendeverhalten der App, da diese alle gespeicherten Telefonnummern (die bei WhatsApp als Nutzerkennungen dienen) unverschlüsselt an den WhatsApp-Server überträgt, und vergab das Urteil "sehr kritisch".
+Auch in einem Schnelltest im Februar 2014 erhielt die App das Urteil "sehr kritisch" im Bereich Datenschutz.
+Niederländische und kanadische Behörden ermitteln gegen das Unternehmen wegen Verletzung von Datenschutzbestimmungen.
+WhatsApp greift auch auf Informationen über Nichtnutzer des Dienstes zu und speichert diese.
+Zudem ist die Sicherheit der Nachrichten weiterhin ungewiss.
+Im November 2014 wurde die "Gelesen"-Funktion eingeführt.
+So kann man anhand blauer Häkchen sehen, dass der Empfänger die Nachricht gelesen hat.
+Außerdem wurde im selben Monat bekanntgegeben, dass die App in den nächsten Versionen eine Ende-zu-Ende-Verschlüsselung erhalten soll, wodurch ein Mitlesen der Nachrichten praktisch unmöglich sei.
+Zum Einsatz kommt dabei dasselbe quelloffene Protokoll, das bereits im Messenger Signal implementiert wurde.
+Allerdings werden zukünftige WhatsApp-Versionen weiterhin proprietär bleiben, wodurch unabhängige Quellcodeanalysen nicht möglich sind.
+Eine Untersuchung von Heise online im April 2015 deutet darauf hin, dass Nachrichten zwischen Android-Endgeräten zumindest in den untersuchten Fällen tatsächlich Ende-zu-Ende-verschlüsselt übertragen werden, Nachrichten von oder an iPhones hingegen nicht.
+Der Nutzer hat keine Möglichkeit, herauszufinden, ob eine Nachricht Ende-zu-Ende-verschlüsselt übertragen wird oder nicht.
+Im April 2015 wurde bekannt, dass WhatsApp in der Version 2.12.45 alle über die App geführten Anrufe ungefragt protokolliert und diese im lokalen Speicher dauerhaft verbleiben.
+Der Hersteller erklärte daraufhin, es handle sich dabei um eine rein interne Version, die in keinem offiziellen App-Store zum Herunterladen bereitgestellt wurde.
+Eine Gesprächsaufzeichnung finde mit den offiziellen Versionen nicht statt.
+Der Bundesdatenschutzbeauftragte Ulrich Kelber hält den Einsatz von WhatsApp in Bundesbehörden für ausgeschlossen.
+Dies konstatiert er in einem Rundschreiben an alle Bundesministerien und obersten Bundesbehörden.
+Ulrich Kelber kritisiert in einem Interview, dass WhatsApp an mehreren Stellen gegen europäisches Recht verstoße.
+Das Bundeskartellamt leitete am 12. November 2020 eine Sektoruntersuchung zu Messenger-Diensten ein.
+In einer Pressemitteilung heißt es: "Untersuchungen und Medienberichte weisen immer wieder auf mögliche Verbraucherrechtsverstöße in der Branche hin." Die Ergebnisse der Untersuchung stehen noch aus.
+Facebook versprach bei der Übernahme von WhatsApp im Jahr 2014 gegenüber der EU-Kommission, dass die Nutzerprofile nicht abgeglichen werden und dass dies technisch auch nicht möglich sei.
+Mit der Datenschutzerklärung vom 25. August 2016 räumt sich WhatsApp allerdings das Recht ein, regelmäßig Telefonnummern von Kontakten im Adressbuch des Nutzers an Facebook weiterzugeben.
+Diese Telefonnummern sowie weitere Daten wie die Nutzungsdauer dienen dem Mutterkonzern Facebook u. a. der Personalisierung von Werbung.
+Nutzer können diese Personalisierung untersagen, nicht aber die Erfassung und Weitergabe eigener Daten und Daten Dritter.
+Die EU-Kommission verhängte deshalb eine Strafe gegen Facebook in der Höhe von 110 Millionen Euro wegen "irreführender Angaben zur Übernahme von WhatsApp".
+Auch Verbraucherschützer halten die Whatsapp Datenschutzerklärung vom 25. August 2016 für unzulässig.
+Am 27. September 2016 untersagte der Hamburger Datenschutzbeauftragte Johannes Caspar Facebook die Nutzung und Weitergabe der WhatsApp-Daten.
+Facebook habe keine eindeutige Zustimmung der Nutzer von WhatsApp zur Weitergabe und Verwendung der Daten eingeholt.
+Bisher gespeicherte Daten seien zu löschen.
+Da das Deutschlandgeschäft Facebooks aus Hamburg geleitet wird, habe Caspar die Zuständigkeit, deutsches Datenschutzrecht gegenüber Facebook und dem Tochterunternehmen WhatsApp durchzusetzen.
+Facebook kündigte an, die Entscheidung anzufechten.
+Zwar hat das Oberverwaltungsgericht Hamburg im März 2018 die Anordnung bestätigt.
+Mit Inkrafttreten der Datenschutz-Grundverordnung ist die Zuständigkeit allerdings auf Irland übergegangen, und WhatsApp hat begonnen, Daten an Facebook zu übertragen.
+Am 7. Januar 2021 wurden die Nutzungsbedingungen geändert:
+Ohne ausdrückliche Zustimmung des Nutzers zur Weitergabe von Daten an andere Facebook-Unternehmen wird der Zugriff dieses Nutzers auf WhatsApp gesperrt.
+Die Zustimmung der Nutzer soll bis am 15. Mai 2021 erfolgen.
+Obwohl Mark Zuckerberg Zugriffsmöglichkeiten von Seiten Facebooks auf WhatsApp-Inhalte verneinte, existiert diese Möglichkeit.
+iOS-Apps sind in einer Sandbox getrennt vom Betriebssystem und voreinander, doch für Apps desselben Entwicklers existiert eine Ausnahme:
+Innerhalb der gleichen "App Group" können Programme einen gemeinsam Ordner nutzen.
+Die App "WhatsApp" wurde nach dem Aufkauf von Facebook Teil der Facebook-App-Gruppe und kann mit Apps im Verzeichnis group.com.facebook.family Daten austauschen.
+Auf einem entsperrten iPhone lassen sich Telefonnummern, Namen, Zeitmarkierungen und Nachrichten-Inhalte samt Verweisen auf Anhänge aus der lokalen WhatsApp-Datenbank im Klartext auslesen.
+In einer Entscheidung des Amtsgerichts Bad Hersfeld im März 2017 gelangt das Gericht nach ausführlicher Würdigung zur Ansicht, dass durch die Nutzung von WhatsApp fortlaufend Daten aus dem Smartphone-Adressbuch an das Unternehmen übermittelt werden.
+Nutzer, die dies zulassen, müssen von den Kontakten im eigenen Telefon-Adressbuch jeweils die Erlaubnis dazu haben, oder sie begehen eine deliktische Handlung, die Grundlage für eine kostenpflichtige Abmahnung sein kann.
+Diese Tatsache trifft jedoch nur bei einer kommerziellen Nutzung mit Spam-Charakter zu.
+Bei Beachtung bestimmter Kriterien kann die Nutzung von WhatsApp sogar illegal sein.
+Im März 2018 warnte der Thüringer Datenschutzbeauftragte Lutz Hasse vor der illegalen Weitergabe von Kontaktdaten.
+Durch die Nutzung des Dienstes ist der Nutzer gezwungen, sämtliche Kontakte in seinem Adressbuch mit WhatsApp zu teilen.
+Facebook verarbeitet diese dann weiter und kann Nutzerprofile erstellen.
+Diese Freigabe ist laut Hasse illegal, sofern keine schriftliche Einverständniserklärung aller Personen im Kontaktbuch vorliegt.
+Demnach handeln über 99 % aller WhatsApp-Nutzer illegal.
+Des Weiteren warnte Hasse davor, persönliche Daten über den Messenger preiszugeben, so sei er z. B. nicht für die Verwendung in Schulen geeignet.
+Im September 2020 kam der Rechtsanwalt Christian Solmecke zu der Einschätzung, dass weiterhin auch im Hinblick auf die Datenschutz-Grundverordnung, einzig die Einwilligung der anderen Person ein Rechtfertigungsgrund für die Weitergabe der Kontaktdaten darstellt.
+Der Verbraucherzentrale Bundesverband klagte 2014 vor dem Landgericht Berlin erfolgreich gegen WhatsApp, da die Allgemeinen Geschäftsbedingungen (AGB) des Messaging-Dienstes nur auf Englisch zur Verfügung standen.
+Außerdem wurde das unzureichende Impressum beklagt, das weder eine Anschrift noch eine Telefonnummer aufwies.
+Daraufhin ging WhatsApp in Berufung.
+Am 8. April 2016 fällte das Kammergericht Berlin sein Urteil, gegen das keine Berufung mehr eingelegt werden kann.
+Es bestätigte das erstinstanzlichen Urteil und verpflichtete WhatsApp zur Verwendung deutschsprachiger AGB.
+Das Unternehmen muss bei jedem Verstoß eine Strafe von bis zu 250.000 € zahlen.
+Außerdem kritisierten die Richter fehlende Angaben zu Kontaktmöglichkeiten auf der WhatsApp-Seite.
+Im Januar 2017 hat der Verbraucherzentrale Bundesverband (vzbv) erneut Klage vor dem Landgericht Berlin gegen WhatsApp eingereicht.
+In diesem Fall geht es darum, dass der Messenger-Dienst Daten seiner Nutzer teils widerrechtlich sammle, speichere und sie an Facebook weitergebe, was nunmehr zu unterlassen sei.
+Außerdem wurde gefordert, dass alle bisher an Facebook weitergegebenen Nutzerdaten gelöscht werden müssen.
+In diesem Zusammenhang will der Verbraucherzentrale Bundesverband auch gegen acht Klauseln aus den AGB vorgehen.
+So wird z. B. der Rechtsvorbehalt zur Übermittlung von Werbematerial ohne Einwilligung der WhatsApp-Nutzer aus der Facebook-Unternehmensgruppe genannt.
+siehe auch: Schattenprofil
+WhatsApp lässt sich durch den offiziellen Vertriebskanal der jeweiligen Plattformen beziehen.
+WhatsApp ist für iOS, Android, Windows Phone, Blackberry, das Nokia S60, Windows und macOS verfügbar.
+Der Messaging-Dienst hat angekündigt, den Support für zahlreiche ältere Mobil-Betriebssysteme zum 31. Dezember 2016 einzustellen.
+Dies betrifft Blackberry (inklusive Blackberry 10), die Nokia-Systeme Serie 40 und Symbian S60, die Android-Versionen 2.1 (Eclair) und 2.2 (Froyo) sowie Version 7.1 von Windows Phone.
+Auf Blackberry-Smartphones mit OS 10 kann - mit Hilfe des im Betriebssystem integrierten Android-Emulators - WhatsApp über Umwege auch nach dem 31. Dezember 2016 genutzt werden.
+Diese Nutzungsfrist für mobile Altgeräte bzw. dessen ältere Betriebssysteme wurde jedoch bis einschließlich 30. Juni 2017 verlängert und schließlich am 19. Juli 2017 beendet, sodass nur noch Android, iPhone und Windows Phone unterstützt werden.
+Auch der Support für Windows Phones werde ab dem 31. Dezember 2019 komplett eingestellt.
+Die Nutzungsbedingungen von WhatsApp beinhalten eine Altersbeschränkung.
+Die Nutzung von WhatsApp ist nur zulässig, wenn der Nutzer mindestens 16 Jahre alt ist, sofern es sich um einen Nutzer mit Wohnsitz innerhalb einem Land in der sog. Europäischen Region (dazu gehört unter anderem die Europäische Union, die Schweiz, Norwegen, Vatikanstadt sowie deren Hoheitsgebiete) handelt, bzw. mindestens 13 Jahre alt ist, sofern es sich um einen Nutzer mit Wohnsitz außerhalb der Europäischen Region, handelt.
+Während die Altersbeschränkung für Nutzer mit einem Alter von mindestens 13 Jahren bereits von Beginn an bestand, erfolgte die Anhebung der Altersgrenze für Nutzer innerhalb der Europäischen Region im Mai 2018 im Zuge der Einführung verschärfter Datenschutzbestimmungen durch die Datenschutz-Grundverordnung (DSGVO).
+Bei der Installation der Software muss vom Nutzer nicht nur die Einhaltung der Nutzungsbedingungen bestätigt werden, sondern es erfolgt ergänzend eine ausdrückliche Abfrage, in der bestätigt werden muss, dass der Nutzer die Altersvoraussetzungen für die Nutzung des Programms erfüllt.
+Eine Kontrolle der Angaben des Nutzers erfolgt nicht.
+Bei einer falschen Angabe liegt ein Verstoß gegen die Nutzungsbedingungen von WhatsApp vor und die Nutzung des Programms und der damit verbundenen Netzwerkinfrastruktur erfolgt illegal.
+Für Eltern bietet WhatsApp einen kostenlosen Service an, mit dem Eltern das WhatsApp-Konto ihrer Kinder sperren lassen können, sofern diese die Altersvoraussetzungen für die Nutzung des Programms nicht erfüllen.
+Im April 2014 wurden über WhatsApp täglich mehr als 20 Milliarden Nachrichten verschickt und 44 Milliarden Nachrichten empfangen, wobei letztere Nachrichten häufig über die Gruppenfunktion an mehrere Empfänger ausgeliefert wurden.
+Laut dem Magazin Focus machten im September 2012 rund 42,9 % der befragten Android-Nutzer vom WhatsApp-Messenger Gebrauch.
+WhatsApp hat in Deutschland nach eigenen Angaben vom Januar 2014 mehr als 30 Millionen aktive Nutzer.
+Während die Zahl der Nutzer weltweit im August 2014 noch bei 600 Millionen lag, stieg sie bis Anfang Februar 2016 auf eine Milliarde, die täglich 42 Milliarden Nachrichten, 1,6 Milliarden Fotos und 250 Millionen Videos versandten.
+Bis 2019 stieg die Zahl der Nutzer auf 1,5 Milliarden Menschen und die Anzahl der täglich versendeten Nachrichten auf über 65 Milliarden an.
+Mit der Etablierung von WhatsApp sank das SMS-Aufkommen.
+Für 2012 verzeichnete der Schweizer Mobilfunkanbieter Swisscom im Vergleich zu Vorjahr einen Rückgang versendeter Textnachrichten um 10 auf 65 Millionen durch die vermehrte Nutzung von WhatsApp und ähnlichen Apps.
+Auch in Deutschland sank die Nutzung der SMS stetig.
+Die Zahl der jährlich versandten SMS sank von 59,8 Milliarden (2012) auf 16,6 Milliarden (2015).
+Im Februar 2020 teilte das Unternehmen mit, weltweit über 2 Milliarden Nutzer zu haben.
+Ab Anfang 2012 veröffentlichte Mounib Al Rifai (Rafalense) einen modifizierten WhatsApp-Client für Android unter dem Namen WhatsApp+ bzw. WhatsApp Plus, mit welchem zusätzliche Funktionen wie das Ändern des Themes und erweiterte Privatsphäreoptionen ermöglicht wurden.
+Im Juli 2013 erwirkte die WhatsApp Inc. mittels einer DMCA-Anfrage das Entfernen eines Themas im Entwicklerforum XDA Developers, das Herunterladen und die Nutzung des Clients waren jedoch weiterhin über alternative Wege, unter anderem Google+, möglich.
+Im Januar 2015 erwirkte das Unternehmen mittels einer Unterlassungserklärung die Einstellung der Entwicklung des alternativen Clients durch Rifai.
+Einige Nutzer von WhatsApp+ wurden temporär, bei weiterer Nutzung des alternativen Clients dauerhaft vom Dienst ausgesperrt.
+Nach der Einstellung von WhatsApp+ veröffentlichten viele andere Entwickler eigene Modifikationen, die überwiegend auf Rifais Entwicklungen basierten.
+Das Open WhatsApp Project war eine andere quelloffene Neuimplementierung der WhatsApp-Client-Software durch eine von WhatsApp unabhängige Gruppe, welche inzwischen ebenfalls eingestellt wurde.
+Es existieren inzwischen keine funktionierenden alternativen Clients mehr.
+Da der Quellcode von Whatsapp nicht veröffentlicht wird, wird dies vermutlich auch in Zukunft nicht ohne erheblichen Aufwand möglich sein.
+WhatsApp kommuniziert über den TCP-Port 5222 (siehe auch Extensible Messaging and Presence Protocol) zum Empfangen und Senden von Nachrichten.
+Bilder werden jedoch nicht über diesen Kommunikationskanal ausgetauscht, sondern über Port 80 (HTTP) und den Server s.whatsapp.net.
+Beim Konfigurieren einer Firewall oder eines Internet-Filters sind beide Kommunikationswege zu berücksichtigen.
+Seit September 2017 ist WhatsApp in China dauerhaft von staatlicher Seite gesperrt.
+In Togo, Brasilien und Sri Lanka war der Zugriff während politischen Phasen der Unruhe temporär eingeschränkt worden, ist dort jedoch nun wieder verfügbar.

@@ -1,0 +1,280 @@
+Das Genus (Plural: Genera; von lateinisch genus "Art, Gattung, Geschlecht", als grammatischer Fachausdruck in Anlehnung an altgriechisch vo genos), oder deutsch das grammatische Geschlecht, ist eine in vielen Sprachen vorkommende Klassifikation von Substantiven, denen jeweils ein Genus zugeordnet ist.
+Mit diesem Genus muss dann die Wortform anderer Wörter übereinstimmen, die sich auf das Substantiv beziehen, im Deutschen beispielsweise die Form von Artikeln, Adjektiven und Pronomen.
+Man bezeichnet solche Übereinstimmungsregeln als Kongruenz.
+Eine Sprache hat also ein Genussystem, wenn es derartige Regeln der Genus-Kongruenz gibt, aus denen man dann verschiedene Klassen von Substantiven ersieht.
+Die Klassifikation der Substantive, die sich an der Kongruenz zeigt, kann die Deutung von Pronomina unterstützen:
+In einer Konstruktion wie "der Deckel der Kiste, der/die grün gestrichen ist" weiß man nur durch das Genus des Relativpronomens, worauf sich der Relativsatz bezieht.
+Im Deutschen und anderen Sprachen gibt es Genera, die die Namen der biologischen Geschlechter "männlich/maskulin" oder "weiblich/feminin" tragen.
+Es besteht dabei durchaus bei vielen Wörtern ein gewisser Zusammenhang zwischen biologischem und grammatischem Geschlecht (siehe unten).
+Das Genus bezeichnet jedoch nicht biologische oder andere Eigenschaften des mit dem Wort bezeichneten Lebewesens, Gegenstands oder Begriffs, sondern nur die Weise der Kongruenz anderer Wörter.
+Auch bezeichnen die meisten maskulinen und femininen Wörter etwas, das gar kein biologisches Geschlecht hat.
+In anderen Genussystemen braucht die Zuordnung der Genera zu den Substantiven überhaupt nichts mit biologischen Geschlechtern zu tun zu haben.
+In Sprachen, die Genera haben, ist - außer in wenigen Sonderfällen - jedem Substantiv eindeutig ein Genus zugeordnet.
+Dieses wirkt sich so aus, dass andere Wörter, die sich auf das Substantiv beziehen, in Abhängigkeit vom Genus des Substantivs gebeugt (flektiert) werden, also ihre Form verändern.
+Das Genus ist die dieser Beugung zugrundeliegende grammatische Kategorie.
+Zum Beispiel passen sich die Adjektive in dem Ausdruck
+dem Genus (Maskulinum) des Substantivs Prinz an .
+Die Übereinstimmungsregel besteht zwischen dem Substantiv und seinen Attributen sowie dem Artikel ein (im Beispiel haben wir zwei getrennte Attribute, daher zweimal Beugung).
+Eine solche Übernahme einer grammatischen Kategorie bei einer Beugung heißt Kongruenz.
+Das Substantiv Prinz dagegen trägt das Genus "maskulin" als ein festes Merkmal, es entsteht dort nicht durch Kongruenz mit der grammatischen Umgebung.
+Das Genus eines Substantivs ist diesem also fest zugeordnet, so dass es keine Beugung von Substantiven nach dem Genus gibt.
+Fälle wie Koch / Köchin (sogenannte Movierung) sind kein Gegenbeispiel, denn es handelt sich hierbei um Ableitung eines neuen Wortes, nicht um verschiedene Beugungsformen desselben Wortes.
+Man sieht dies daran, dass die Basis der Ableitung, nämlich Koch, selbst schon ein maskulines Genus trägt, das abgeleitete Köchin ist ein neues Wort, mit einem anderen Genus.
+Daher ergibt sich auch der Unterschied, dass der Plural eines Substantivs sehr wohl eine Beugungsform ist, im Gegensatz zum Genus:
+Der Plural kommt erst durch die Beugungsform an den Wortstamm des Substantivs, dieses Merkmal ist nicht schon im Wortstamm vorhanden.
+Für den Nachweis, ob eine Sprache Genus hat, ist es somit wichtig, nicht einfach auf das "Geschlecht" eines Substantivs zu schauen, sondern Genus als grammatisches Merkmal zeigt sich nur in der Beugung anderer Wörter aufgrund von Kongruenzregeln.
+Welche Wortarten in einer Sprache hinsichtlich des Genus mit dem Substantiv kongruieren, ist von Sprache zu Sprache verschieden (siehe Abschnitt Genuskongruenz).
+In einigen Fällen kann auch ein Pronomen ein eigenes Genus haben, mit dem dann andere Wörter kongruieren (siehe Abschnitt Genus von Pronomen).
+In manchen Sprachen kann man aus der Form des Substantivs und aus den Beugungsformen nach Numerus und Kasus auf sein Genus schließen.
+Oder es besteht ein Zusammenhang zwischen Wortbedeutung und Genus.
+Solche morphologischen (die Wortformen betreffenden) oder semantischen (die Bedeutung betreffenden) Zusammenhänge machen aber nicht das Genus aus; dieses ist vielmehr durch die Genuskongruenz anderer Wörter charakterisiert.
+Das zu unterscheiden ist wichtig, weil solche Zusammenhänge oft nicht alle Substantive abdecken oder einige Ausnahmen haben, wohingegen die Kongruenzen durch das Genus eindeutig bestimmt sind, selbst wenn die Zuordnung des Genus zum Substantiv irregulär erscheint.
+Beispielsweise haben im Deutschen Wörter, die nur weibliche Personen oder Tiere bezeichnen, regelmäßig - aber nicht ausnahmslos - feminines Genus, Diminutive auf "-chen" dagegen neutrales.
+Das Wort "Mädchen", bei dem sich diese beiden Regeln widersprechen, hat trotzdem ein eindeutiges Genus, das im selben Satz alle Kongruenzen eindeutig bestimmt, nämlich das neutrale.
+Im Teilsatz "das Mädchen, das seine Haare offen trug" kann es mit "Mädchen" keine femininen Kongruenzen geben. - Zur Abgrenzung der Genera von morphologischen und semantischen Eigenschaften von Substantiven siehe den Abschnitt Abhängigkeiten des Genus.
+Neben dem Genus gibt es weitere Kategorien des Substantivs, die ebenfalls auf kongruierende andere Wörter einwirken können.
+Hier geht es um das Zusammenspiel mit dem Genus.
+Oft werden Genus, Numerus und - falls in der Sprache vorhanden - Kasus als die drei für Substantivkongruenzen verantwortlichen Kategorien genannt (KNG-Kongruenz), aber auch andere Kategorien, insbesondere Definitheit und Belebtheit, können eine Rolle spielen.
+Manche Sprachen unterscheiden die Genera nur im Singular, nicht im Plural.
+Das gilt für das Deutsche und die anderen germanischen Sprachen bis auf Färöisch und Isländisch, ebenso für die nordostslawischen Sprachen Weißrussisch, Russisch und Ukrainisch und die südostslawischen Sprachen Makedonisch und Bulgarisch.
+Bei diesen Sprachen sind im Plural die kongruierenden Artikel und Adjektive in allen Kasus unabhängig vom Genus des Substantivs:
+Sämtliche baltische und viele romanische Sprachen unterscheiden dagegen auch in der Pluralform zwei Genera, nämlich maskulin und feminin, ebenso die semitischen Sprachen.
+Wenn die Genusunterschiede im Plural verschwunden sind, lässt sich bei Wörtern ohne Singular (den Pluraliatantum) das zugrundeliegende Genus nicht aus den Kongruenzen ermitteln, sondern allenfalls aus der Wortgeschichte wie bei Kosten und Ferien, die vom mittelhochdeutschen femininen koste und vom lateinischen femininen Pluralwort feriae abstammen.
+In Wörterbüchern wird dann oft statt eines Genus "Mehrzahl" angegeben.
+In einigen Tochtersprachen des Lateinischen gibt es sogenannte ambigene Substantive, welche ein Überbleibsel der alten Klasse der Neutra fortsetzen.
+Diese Substantive verhalten sich im Singular stets wie Maskulina, im Plural dagegen wie Feminina.
+Im Französischen und Italienischen handelt es sich hierbei nur um eine Handvoll Wörter, während dieses Schema im Rumänischen eine große Zahl von Substantiven erfasst hat (mehrere tausend); die Gruppe dieser Substantive wird im Rumänischen darum häufig als Neutra etikettiert, obwohl sie keine eigenen Formen aufweist, sondern sich lediglich numerusabhängig der jeweiligen Formen der anderen beiden Genera bedient.
+Auch im Albanischen gibt es Ambigenera.
+Beispiele für Ambigenera:
+Setzt man nicht voraus, dass Genus und Numerus völlig unabhängig voneinander sind, kommt man zu einer Beschreibung, in welcher die meist zwei Numeri je in eine oder mehrere Klassen zerfallen und zu jedem Wort festliegt, in welcher Singular- und Pluralklasse es liegt, falls es im jeweiligen Numerus überhaupt vorkommt.
+In diesem Modell gäbe es beispielsweise für das Deutsche vier Klassen: die drei Singulargenera und eine gemeinsame Klasse für alle Pluralwörter einschließlich der Pluraliatantum, da die Kongruenzen von Pluralwörtern nicht vom Genus des Singularwortes abhängen.
+Im Rumänischen oder Französischen gäbe es auch vier Klassen, nämlich maskulin und feminin je in Singular und Plural, und auch die Ambigenera passen in das Schema.
+Bei den Nominalklassen der Bantusprachen wird das so gemacht; für die Genera der indogermanischen und semitischen Sprachen ist es nicht üblich.
+Kasus ist eine Kategorie, die am Substantiv und an kongruierenden Wörtern - mehr oder weniger dieselben, die auch hinsichtlich des Genus mit dem Substantiv kongruieren - die Wortform ändert.
+Im Deutschen werden die Substantive kaum noch verändert (nur Genitiv-s bei maskulinen und neutralen Wörtern im Singular sowie Dativ-n im Plural), so dass sich der Kasus hauptsächlich am Artikel zeigt sowie dann am Adjektiv, wenn der Artikel fehlt oder keine genus- und kasusspezifische Endung hat.
+Voll ausgebildete Kasus gibt es in den meisten slawischen, baltischen und inselnordischen Sprachen, wohingegen die übrigen germanischen und die romanischen Sprachen die Kasusunterscheidung aufgegeben haben.
+Die Definitheit eines Substantivs ist eine grammatische Kategorie, mit der bezeichnet wird, ob mit dem Substantiv bestimmte Dinge oder Personen gemeint sind oder unbestimmte.
+Sie kann gemeinsam mit den Kategorien Genus, Numerus und Kasus auf kongruierende Wörter einwirken wie im Folgenden beschrieben.
+Im Deutschen und vielen anderen Sprachen wird Definitheit durch Verwendung des bestimmten Artikels ausgedrückt, der mit dem Substantiv nach Genus, Numerus und Kasus kongruiert.
+Die Ersetzung des definiten durch den indefiniten Artikel wird aber nicht als Beugung des Artikels nach der Kategorie Definitheit aufgefasst.
+Der Artikel kann auch am Substantiv selbst als Nachsilbe (so in den skandinavischen Sprachen je nach Kontext sowie im Rumänischen und im Albanischen) oder als Vorsilbe (so im Arabischen und Hebräischen) angebracht sein.
+Andere kongruierende Wörter wie Adjektive sind seltener betroffen.
+Beispielsweise wird im Hebräischen nicht nur das Substantiv mit der genus- und numerusunabhängigen Artikelvorsilbe ha- versehen, sondern auch Adjektive, und die Konstruktion der gesamten Nominalphrase ist abhängig von Genus und Definitheit:
+In vielen Sprachen wird in der Grammatik ein Unterschied zwischen belebten und unbelebten Substantiven gemacht, wobei die Grenze meist zwischen Mensch und Tier einerseits und Pflanzen, Dingen und Abstrakta andererseits verläuft, manchmal auch zwischen Mensch und Tier.
+In den anatolischen Sprachen, einem ausgestorbenen Zweig der indogermanischen Sprachen, ist die Belebtheit das Hauptkriterium für die Zuordnung von Substantiven zu den beiden Genera.
+In Sprachen mit einem anderen Genussystem kann die Belebtheitkategorie die Genera weiter differenzieren.
+Beispiele:
+In Grammatiken verzichtet man darauf, diese Unterscheidungen als gesonderte Genera zu betrachten und beschreibt die Abweichungen bei belebten Substantiven stattdessen als ergänzende Regeln über Deklination und Genuskongruenz.
+Im Deutschen betrifft die Belebtheit - wie in den ersten beiden Beispielen oben - hauptsächlich Pronomen (wer/was, jemand/etwas); siehe dazu den Abschnitt Genus von Pronomen.
+Belebtheit ist durch die Bedeutung des Wortes gegeben, so dass Synonyme dieselbe Belebtheit aufweisen.
+Beim Genus kommt es dagegen vor, dass es wechseln kann, wenn ein Wort durch ein Synonym ersetzt wird: "ein Mensch und sein Beruf", aber "eine Person und ihr Beruf", oder "ein Weib und sein Beruf", aber "eine Frau und ihr Beruf".
+Kommt so etwas in der Sprache nirgends vor, ist es fraglich, ob es sich um eine Genusunterscheidung handelt.
+Ein Beispiel einer anderen Kategorisierung nach Wortbedeutung, die üblicherweise nicht als Genus betrachtet wird, sind die Zähleinheitswörter in ostasiatischen Sprachen, die man als Modifikationen des davor stehenden Zahlworts oder Demonstrativpronomens betrachten kann und die vom danach stehenden Substantiv abhängen.
+Nicht immer ist das Genus eines Substantivs eindeutig, auch wenn es sich nicht um zufällige Gleichheit (Homonymie) verschiedener Wörter handelt wie bei der / die Kiefer oder der / das Tau.
+Manchmal wird ein und dasselbe Wort regional oder individuell mit verschiedenem Genus benutzt, ohne dass eines der Genera als richtig und das andere als falsch gilt: der / das Gummi, der / das Katheder, die / das Cola, der / die Abscheu, der / die Dispens, der / das Traktat.
+Bei einigen Wörtern hat sich bei der Auseinanderentwicklung der Bedeutungen desselben Wortes (Polysemie) gleichzeitig das Genus differenziert:
+der / das Schild, der / das Verdienst, der / das Korpus, die / das Anerkenntnis, der / das Teil, der / die See.
+Zur Uneindeutigkeit des Genus bei Pluraliatantum und Ambigenera siehe den Abschnitt Numerus.
+Manche scheinbaren Uneindeutigkeiten des Genus kommen auch von der Erwartung, das Genus müsse immer dem biologischen Geschlecht entsprechen.
+So nennt der antike Grammatiker Dionysios Thrax (2. Jhdt.
+v. Chr.) in seiner griechischen Grammatik neben den üblichen drei Genera, die er als unzweifelhaft existent ansieht, zwei weitere, die "manche hinzufügen":
+Die lateinischen Bezeichnungen wurden von Aelius Donatus (4. Jhdt.
+n. Chr.) geprägt, der die Einteilung des Dionysios mit Abänderungen übernahm.
+Die deutschen Bezeichnungen aus frühneuhochdeutschen Übersetzungen von Donatus werden heute kaum mehr verwendet.
+Im allgemeinen deutschen Wortschatz findet sich das Wort Epicönum (auch Epikoinon) für ein dem Genus epicoenum angehöriges Substantiv.
+Diese Bezeichnungen werden nicht immer einheitlich verwendet.
+Im Englischen und Französischen wird das Adjektiv epicene oder epicene in beiden oben beschriebenen Bedeutungen verwendet.
+Genus commune wird auch synonym mit Utrum benutzt.
+Der Ausdruck Nominalklasse wurde im 19. Jahrhundert eingeführt, zunächst mit Bezug auf eine Klassifikation von Substantiven in Bantusprachen (wie Swahili).
+Wie beim Genus, das seit der Antike aus Griechisch und Latein bekannt war, dient dabei das Substantiv als Bezugspunkt von anderen Wörtern im Satz, die mit ihm kongruieren; Nominalklasse genügt also derselben Definition wie Genus.
+Man spricht üblicherweise von Genus, wenn es um die klassischen Sprachen wie Sanskrit, Hebräisch, Griechisch und Latein und um andere indogermanische und semitische Sprachen geht: diese haben zwei oder drei Genera, von denen meistens eines maskulin und eines feminin heißt.
+Bei Sprachen mit feinerer Klasseneinteilung und bei Vergleichen ganz verschiedener Klassifizierungssysteme spricht man eher von (Nominal-)Klassen, aber auch Genus wird so verwendet.
+Es ist eine eher historische Unterscheidung ohne scharfe Trennlinie.
+Die Nominalklassen der Bantusprachen unterscheiden sich in folgenden Punkten von den Genera der indogermanischen und semitischen Sprachen:
+Dieser Abschnitt beschreibt die Situation im Deutschen.
+In anderen Sprachen mit Genus können andere Regeln gelten.
+Im engeren, moderneren Sinn sind Pronomen Wörter, die im Satz die Stelle eines Substantivs oder Eigennamens einnehmen: Personal-, Indefinit- und Fragepronomen, außerdem Possessiv- und Demonstrativpronomen, wenn sie kein Substantiv begleiten.
+Sie haben ein Genus, das von einem Possessivpronomen (Genus des Besitzers, nicht des Besitzes) oder einem Relativpronomen aufgegriffen werden kann.
+Beispiele:
+Handelt es sich um Personalpronomen (Bsp. 1 bis 3), so ist das Substantiv, das sie vertreten, vorher genannt worden, und sie übernehmen fast immer dessen Genus (Gegenbeispiele siehe weiter unten).
+Possessivpronomen und Demonstrativpronomen, die kein Substantiv begleiten (Bsp. 4 und 5), haben das Genus des fehlenden Substantivs, das mehrdeutig sein kann (im Bsp. 4 meiner für mein Wagen oder meines für mein Auto).
+Indefinit- und Fragepronomen (Bsp. 6 bis 10) haben ein eigenes Genus, das sie nicht von einem Substantiv oder Eigennamen übernommen haben.
+Sie sind für Personen maskulin (jemand, man, wer) und für Sachen neutral (etwas, was), unabhängig davon, welches Genus und auch welchen Sexus das Gemeinte hat.
+Will man bei Personen das natürliche Geschlecht mit Hilfe des Genus einfließen lassen, kann man etwa sagen:
+Indefinitpronomen mit nachfolgendem Relativpronomen werden gern durch Fragepronomen ersetzt, ohne dass sich am Genus etwas ändert:
+Nicht immer nehmen Personalpronomen Genus und Numerus des Substantivs auf, das sie vertreten.
+Besonders für eine Person, deren natürliches Geschlecht bekannt ist, verwendet man häufig Pronomen mit dem dazugehörigen Genus.
+Das Pronomen wird dann so verstanden, dass es weniger auf ein Wort bezogen ist als auf die damit bezeichnete Person.
+Ebenso können Singulare, die eine Mehrzahl von Dingen oder Personen bezeichnen, durch Pluralpronomen wieder aufgenommen werden und umgekehrt.
+Solch eine Wahl des Pronomens heißt Constructio ad sensum.
+Wie bei allen Stilmitteln, die die formale Grammatik verletzen, ist ihr Gebrauch umstritten.
+Oft wird der Bruch gemildert, indem ein anderes Substantiv oder ein Name mit dem neuen Genus als Prädikatsnomen dazwischengestellt wird:
+Im Allgemeinen können sich aber Personalpronomen nicht auf Prädikatsnomen beziehen:
+Reflexive Possessivpronomen (also sein/ihr, so dass sein/ihr eigenes gemeint ist) sollten möglichst dem Genus des Bezugswortes folgen, sei es ein Substantiv oder Pronomen:
+Relativpronomen folgen stets dem Genus des Wortes, auf das sie sich beziehen:
+Das Genus ist eine feste grammatische Kategorie des Substantivs, die an diesem selbst markiert sein kann.
+Bei italienischen Substantiven wie origano "Oregano" oder salvia "Salbei" erkennt man in der Regel an der Endung (-o oder -a) das maskuline oder feminine Genus; bei deutschen Substantiven wie Salbei, Akelei, Einerlei erkennt man es nicht.
+Dies ist jedoch nicht entscheidend; wichtig ist, dass das Genus an anderen Wörtern im Satz markiert ist, die mit dem Bezugssubstantiv kongruieren, d. h. dasselbe Genus aufweisen.
+So kongruiert etwa im Deutschen das Adjektivattribut mit dem Bezugsnomen im Genus: frischer Salbei - frische Petersilie - frisches Basilikum.
+Häufig ist die Genuskongruenz von Determinantien und Attributen eines Substantivs.
+Mit Partizipien bei der Bildung bestimmter Zeiten, wie im Russischen und Arabischen, oder beim Passiv kongruieren in zahlreichen Sprachen auch Teile des Prädikats mit seinem Subjekt in Genus und nicht nur im Numerus.
+In romanischen Sprachen kongruiert dasselbe Partizip in Passiv-Bildungen mit dem Subjekt, in Perfekt-Bildungen aber nicht.
+Demonstrativpronomina können auch in Subjektsfunktion mit ihrem Prädikationsnomen kongruieren, so im Lateinischen und Italienischen (faccenda ist feminin, problema maskulin):
+Für das Deutsche ist es üblich, das Genus eines Substantivs zu bezeichnen, indem man die Form des bestimmten Artikels dazu angibt.
+Das ist aber nicht für alle Sprachen mit Genera so möglich:
+Adjektive verändern meist ihre Form nach Genus, Numerus, und - soweit in der Sprache vorhanden - Kasus des zugehörigen Substantivs.
+im Deutschen gibt es darüber hinaus auch bei gleichem Genus, Kasus und Numerus bis zu drei Formen, je nachdem, ob das Adjektiv attributiv oder prädikativ gebraucht wird, und im ersteren Fall, ob ein bestimmter Artikel oder Demonstrativpronomen vorangeht.
+Ähnliche Unterscheidungen gibt es auch in anderen Sprachen; hier Beispiele aus dem Dänischen, Deutschen und Russischen:
+Abkürzungen:
+m = Maskulinum f = Femininum n = Neutrum u = Utrum p = Plural (in diesen drei Sprachen nur ein Plural für alle Genera)
+In manchen Sprachen unterscheiden sich die Zahlwörter auch jenseits der Eins für Substantive verschiedener Genera, so im Hebräischen oder in Bantusprachen wie Swahili.
+Im Russischen werden die Zahlwörter zwar dekliniert, aber nur die Zwei ist nach Genus unterschiedlich.
+Im Hebräischen gibt es die Besonderheit, dass die Zahlwörter zum Zählen maskuliner Objekte feminine Endungen tragen und umgekehrt.
+Personal- und Demonstrativpronomen sind in Sprachen mit Genera meistens vom Genus des bezeichneten Substantivs abhängig.
+Possessivpronomen können sich sowohl nach dem Genus des Besitzers (seine/ihre) richten und auch nach dem des Besitzes (sein/seine).
+In vielen Sprachen wird nur eine der Unterscheidungen gemacht.
+Als Funktionswörter müssen Pronomen nicht unbedingt eigene Wörter sein; sie können auch die Form von Klitika oder Affixen haben.
+Beispiel: Die Phrase ihn/ sie sehen heißt auf Französisch le/la voir und auf Spanisch verlo/verla.
+Im Deutschen sind es zwei Wörter, die auch einzeln vorkommen - beispielsweise als Antwort auf eine Frage - und zwischen die man beliebig weitere Wörter einschieben kann; im Französischen kommt le/la als Objektpronomen nicht einzeln vor, sondern nur als unbetontes Klitikon vor dem Verb, und im Spanischen wird es gleich als Suffix mit dem Verb zusammengeschrieben, was weniger einen sprachlichen Unterschied ausmacht als einen rein orthografischen.
+In Swahili treten die Personalpronomen nur ausnahmsweise als eigenständige Wörter in Erscheinung, hauptsächlich zur Unterstreichung der grammatischen Person und daher genusunabhängig.
+Sonst wird ihre Funktion von genusabhängigen Verbpräfixen übernommen, etwa amelitazama (er/sie hat es angeschaut; mit dem Subjektpräfix a-, dem Objektpräfix li- und dazwischen dem Tempuspräfix me- für das Perfekt).
+Anders als in den vorhergehenden Beispielen ersetzen diese pronominalen Präfixe nicht nur Subjekt und Objekt, sondern dienen gleichzeitig zur Konjugation des Verbs, das am Verbstamm nicht verändert wird: mama amelitazama gari (die Frau hat das Auto angeschaut; wörtl.
+Frau sie-hat-es-angeschaut Auto).
+Hier zeigt also die Verbform Kongruenz mit dem Genus von Subjekt und Objekt - es sei denn, man betrachtet die Präfixe als Klitika und ihre Zusammenschreibung mit dem Verbstamm nur als orthografische Konvention.
+Auch Possessivpronomen haben in manchen Sprachen die Form von Affixen, die dann mit dem Genus des Besitzers kongruieren, etwa im Hebräischen sefer/sifro/sifrah (Buch/ sein Buch/ihr Buch), sfarim/sfaraw/sfarejha (Bücher/seine Bücher/ihre Bücher).
+Hinsichtlich der möglichen Genuskongruenzen verhalten sich finite und Infinite Verbformen verschieden.
+Finite Verbformen sind solche, an denen eine Vielzahl von grammatischen Kategorien wie Person, Numerus, Tempus, Genus verbi und Modus markiert sind.
+Im Deutschen und anderen indogermanischen Sprachen ist der Numerus des Subjekts am finiten Verb markiert, nicht aber sein Genus; in anderen Sprachen kann darüber hinaus auch Genus und Numerus von Subjekt und Objekt am Verb markiert sein.
+Ein Beispiel dafür aus Swahili, einer Sprache mit agglutinierend gebildeten Verformen, wurde im vorangegangenen Abschnitt diskutiert.
+Es gibt aber solche Kongruenzen auch in finiten Verbformen von flektierenden Sprachen.
+Ein Beispiel von Subjektkongruenz aus dem modernen Hebräisch:
+Im biblischen Hebräisch gibt es genau dieselben Formen mit anderer Wortstellung und etwas anderer Bedeutung; die Subjektkongruenz ist aber dieselbe.
+Aufs biblische Hebräisch beschränkt ist die Objektkongruenz, wenn das Objekt ein Pronomen ist:
+Infinite Verbformen werden im Satz ähnlich verwendet wie andere Wortarten, nämlich Infinitive wie Substantive und Partizipien wie Adjektive oder Adverbien.
+Hinsichtlich der Genuskongruenzen erben sie die Eigenschaften dieser Wortarten.
+Beispielsweise haben deutsche Präsenspartizipien die Eigenschaft von Adjektiven, beim attributiven Gebrauch genuskongruent mit dem Substantiv zu sein: ein lächelnder Verkäufer, aber eine lächelnde Verkäuferin.
+Die folgenden französischen Beispiele zeigen, dass dabei Genuskongruenzen sowohl mit dem Subjekt als auch dem Objekt des Verbs auftreten können:
+Eine Mittelstellung zwischen finiten und infiniten Verbformen nehmen solche Formen ein, die sprachgeschichtlich Partizipien sind, neben denen es aber kein finites Verb im selben Satz gibt, wenn nämlich ein dazuzudenkendes Verb sein nicht explizit dazugesetzt wird, weil es in der Sprache optional ist.
+Solche Formen werden von den Sprechern wie finite Verbformen empfunden.
+Auf diese Weise kann auf Kosten der Personenkongruenz eine Genuskongruenz mit dem Subjekt zustande kommen, auch wenn sie sonst nicht in der Sprache vorkommt.
+Zu welchem Genus oder welcher Nominalklasse ein Wort gehört, kann von vielen Faktoren abhängen, die oft heute nicht mehr nachvollziehbar sind.
+Hier sind ein paar davon.
+= Zum Roman von Roland Barthes siehe Das Neutrum.
+Viele Sprachen haben maskulin (m.) und feminin (f.) unter ihren Genera, manche davon, unter ihnen das Deutsche, zusätzlich neutral (n.).
+Das heißt nun nicht, dass alle maskulinen und femininen Wörter männliche oder weibliche Wesen bezeichnen und neutrale Wörter Sachen - das ist für keine der hier betrachteten Sprachen der Fall.
+Ein Wort heißt generisch, wenn es auf Wesen beider Geschlechter anwendbar ist, andernfalls (geschlechts-)spezifisch.
+Diese beiden Begriffe haben nichts mit Genera zu tun und sind daher auch im Zusammenhang mit Sprachen anwendbar, die gar keine Genera haben (wie das Ungarische) oder deren Genussystem nichts mit Geschlechtern zu tun hat (wie Swahili); die Wörter für Mädchen und Mensch sind auch in diesen Sprachen spezifisch oder generisch.
+Für Wörter, die etwas bezeichnen, das kein biologisches Geschlecht hat (wie Dinge oder Abstrakta), sind die Bezeichnungen generisch und spezifisch sinnlos, selbst dann, wenn diese Wörter im Zusammenhang mit nur einem Geschlecht auftreten, beispielsweise Wörter für Geschlechtsorgane oder für geschlechtstypische Kleidungsstücke.
+Ein Genussystem hat dann einen Bezug zu biologischen Geschlechtern, wenn spezifische Wörter, die also Wesen nur eines Geschlechts bezeichnen, ganz überwiegend - mit wenigen systematischen oder individuellen Ausnahmen wie etwa im Deutschen Diminutive oder Weib - ein vom Geschlecht abhängiges Genus haben: dann heißt das regelmäßige Genus für männliche Wesen Maskulinum und das für weibliche Femininum.
+Daneben kann es wie im Deutschen ein drittes Geschlecht geben, das Neutrum (lateinisch ne-utrum "keines von beiden").
+Generische Wörter und Wörter für Dinge und Abstrakta können in solchen Sprachen jedes der Genera haben.
+Maskuline generische Personenbezeichnungen, zu denen es auch eine weibliche Form gibt, werden auch spezifisch für Männer eingesetzt, was je nach Kontext missverständlich oder mehrdeutig sein kann (siehe Generisches Maskulinum).
+Der Gegensatz von Neutrum ist Utrum (lateinisch utrum "eines von beiden"; von uter "welcher von beiden?, wer immer von beiden").
+Dieses Wort wird verwendet, wenn das frühere Maskulinum mit dem früheren Femininum bis auf geschlechtsspezifische Pronomen für Lebewesen zusammengefallen ist und das gemeinsame Genus jetzt den Gegensatz zum Neutrum bildet, wie im Dänischen, Schwedischen sowie in einigen norwegischen Dialekten.
+Das Utrum enthält dabei auch Unbelebtes und das Neutrum auch Belebtes, so wie es auch im Deutschen viele unbelebte Maskulina und Feminina und einige belebte Neutra gibt, etwa deutsch das Kind, dänisch et barn, in beiden Sprachen ein Neutrum.
+Es handelt sich also nicht einfach um einen Gegensatz von Belebtem und Unbelebtem.
+Anders ist es in den ausgestorbenen anatolischen Sprachen Hethitisch und Luwisch: dort steht das Utrum für Lebewesen (nicht unbedingt genau nach der heutigen Definition) dem Neutrum für Unbelebtes gegenüber.
+Das Utrum wird in beiden Fällen manchmal auch als Genus commune bezeichnet.
+Diese Bezeichnung hat aber ursprünglich eine andere Bedeutung, nämlich dass ein und dasselbe Wort je nachdem, welchen Geschlechts das bezeichnete Lebewesen ist, verschiedenem Genus angehört.
+Im Schwedischen heißt das Utrum auch Realgenus.
+Nichts mit Genera zu tun hat der Begriff der Movierung, also der morphologischen Veränderung eines generischen oder geschlechtsspezifischen Wortes, um daraus eines mit anderem Geschlechtsbezug zu machen.
+Häufig geht es um die Schaffung eines Wortes für weibliche Wesen (Lehrer = Lehrerin, Hund = Hündin), gelegentlich auch für männliche (Witwe = Witwer, Pute = Puter).
+In Sprachen mit geschlechtsabhängigen Genera hat dann das movierte Wort das entsprechende Genus, aber auch in Sprachen ohne Genera kann es durchaus Movierung geben, etwa ungarisch tanar (Lehrer) = tanarnö (Lehrerin).
+In Sprachen mit Kasus werden Wörter mit verschiedenem Genus oft verschieden dekliniert; sie liegen dann in verschiedenen Deklinationsklassen.
+Diese dürfen aber nicht mit den Genera verwechselt werden.
+Den Unterschied kann man sich an folgendem Beispiel aus dem Russischen klarmachen:
+Die Deklination von Nikita ist dieselbe wie von Anna aufgrund ihrer gleichen Endung -a, die nur bei sehr wenigen nicht-femininen Substantiven auftritt.
+Die Adjektivform, also die Kongruenz mit einem anderen Wort ist dagegen dieselbe wie bei Fjodor.
+Da es in der Definition von Genus nur um solche Kongruenzen geht, hat die Gleichheit der Flexionsendungen der Namen nichts mit den Genera zu tun, wohl aber die Gleichheit der Formen des Adjektivs.
+In Sprachen mit Genus, aber ohne Kasus beschränkt sich die Deklination auf die Pluralbildung.
+Ein Beispiel aus dem Hebräischen: Maskuline Substantive und Adjektive bilden den Plural mit -im, feminine mit -ot, so dass die Endungen für beide Wortarten gleich sind, etwa morim tovim (gute Lehrer), morot tovot (gute Lehrerinnen), battim tovim (gute Häuser), arazot tovot (gute Länder).
+Hat nun ausnahmsweise ein maskulines Substantiv eine Pluralendung -ot oder ein feminines -im, so erkennt man wegen der Genuskongruenz die Genera an den Endungen der Adjektive, etwa schulchanot tovim (gute Tische), schanim tovot (gute Jahre).
+Eng verwandt ist die Frage, ob einem Substantiv sein Genus an der Wortform anzusehen ist, etwa an Vorsilben oder Endungen.
+In vielen Sprachen ist das für viele Wörter der Fall, jedoch selten für alle.
+Im Deutschen beschränkt sich das auf Nachsilben, die eindeutiges Genus zur Folge haben, wie -ung(f), -heit(f), -keit(f), -schaft(f), -in(f), -tum(n, selten auch m), -lein(n), -chen(n), -ling(m).
+Im Deutschen werden die folgenden Genera unterschieden:
+Zu Sprachen mit anderen Genus-Systemen siehe den Abschnitt Genussysteme.
+Im Deutschen entspricht das Genus eines personenbezeichnenden Substantivs teilweise dem Sexus der betreffenden Person (etwa die Frau, der Mann); typische Ausnahme sind die Verkleinerungsformen (Diminutiva), die immer sächlich sind (etwa das Mädchen, das Männlein), aber in die umgekehrte Richtung ist keine verlässliche Aussage möglich.
+Ist das natürliche Geschlecht unbekannt oder nicht wichtig oder soll über eine gemischtgeschlechtliche Gruppe gesprochen werden, so besteht im Deutschen die Möglichkeit, geschlechtsneutrale Oberbegriffe zu verwenden: mit maskulinem Genus der Mensch, der Gast, mit femininem die Person, die Geisel oder mit neutralem das Mitglied, das Kind.
+Für Personenbezeichnungen existieren nur wenige generische Feminina (die Person, die Geisel, die Wache, die Waise), für Tierbezeichnungen gibt es solche und generische Neutra häufiger.
+Dabei gibt es fließende Übergänge zwischen Substantiven, die generisch für beide Geschlechter und solchen, die spezifisch für nur ein Geschlecht stehen können (vergleiche Movierte Tierbezeichnungen).
+Dagegen gibt es auch Generika, die sich auf kein spezifisches biologisches Geschlecht beziehen, sondern nur auf eine Tierart insgesamt.
+Dabei werden große Tiere und Fleischfresser häufiger dem Maskulinum zugeordnet, die wichtigsten Weidetiere dem Neutrum, die meisten Insekten und zahlreiche, überwiegend kleine Vögel dem Femininum.
+In einigen Fällen sind Genus und Sexus bei Animata voneinander entkoppelt,
+Nicht zu verwechseln mit der Asymmetrie bei den zuletzt genannten Geschlechtsbezeichnungen im Tierreich ist die Asymmetrie, die sich aus der Geschlechtsform von Rollenbezeichnungen ergibt:
+So ist der Student etwa gleichzeitig die allgemeine Bezeichnung für beide Geschlechter, aber auch die spezielle Form für männliche Studenten.
+Die Studentin bezeichnet hingegen eindeutig nur weibliche Personen.
+Diese Asymmetrie wird in der feministischen Linguistik stark kritisiert, weil Männer bevorzugt und Frauen "unsichtbar" gemacht würden, diese Deutung ist jedoch umstritten.
+Die sogenannte geschlechtergerechte Sprache versucht, diese Asymmetrie aufzubrechen.
+Die meisten Substantive des Deutschen lassen keinen verallgemeinerbaren Zusammenhang zwischen der Bedeutung (Semantik) des Wortes und seinem Genus erkennen.
+Jedoch sind für einige Gruppen von Bezeichnungen empirisch gewisse Regeln festzustellen:
+Ein semantischer Zusammenhang der Kategorie Genus wird auch mit der Kategorie Numerus vermutet.
+Diese Vermutung fußt auf der Beobachtung des Sprachwissenschaftlers Joseph H. Greenberg, der zufolge die Kategorie Genus nur in Sprachen mit der Kategorie Numerus existiert.
+Die Umkehrung gilt nicht: Sprachen mit Numerus müssen kein Genus besitzen (vergleiche etwa das Türkische).
+Das Femininum des Deutschen wäre demnach eine Kategorie für Kollektivpluralität (wie etwa dt.
+Burschen-schaft), wie bereits Ende des 19. Jahrhunderts für die indogermanischen Sprachen von dem deutschen Sprachwissenschaftler Karl Brugmann angenommen.
+In der Frühzeit der deutschen Grammatikschreibung - der Renaissance- und Barockzeit - wurden Genus und Sexus vermischt.
+Das Genus der Personenbezeichnungen wurde direkt mit ihrer Geschlechtsbedeutung in Verbindung gebracht, sodass beispielsweise Justus Georg Schottelius maskuline Personenbezeichnungen als "Namen der Männer" auffasste.
+Zur Zeit der Aufklärung konzipierten Denker wie Johann Christoph Gottsched und Johann Christoph Adelung das Genus als eine mit dem Sexus (und allen stereotypen Vorstellungen darüber) im Zusammenhang stehende Kategorie, die zentrale Eigenschaften von Mann und Frau widerspiegle.
+Auf das generische Maskulinum wird in dieser Zeit nicht eingegangen, außer ansatzweise bei Indefinitpronomen, die etwa Adelung als geschlechtsneutral betrachtet.
+Das 18. und 19. Jahrhundert wurde von der mit Jacob Grimm einsetzenden Tendenz gekennzeichnet, das grammatische Geschlecht mit dem biologischen zu verknüpfen.
+So ließ Grimm sämtliche Vorstellungen von Eigenschaften, Verhaltensweisen und Auffälligkeiten, die an das Bild von Mann und Frau geknüpft waren, in seine Auffassung der Genera einfließen: "das masculinum scheint das frühere, größere, festere, sprödere, raschere, das thätige, bewegliche, zeugende; das femininum das spätere, kleinere, weichere, stillere, das leidende, empfangende (...) Diese Kennzeichen stimmen zu den bei dem natürlichen Genus (...) aufgestellten".
+Das maskuline (grammatische) Geschlecht wurde von Grimm wie auch zuvor von Adelung analog zum biologisch männlichen Geschlecht als anders und höherwertig postuliert.
+Dementsprechend war für Grimm "die Hand" weiblich, weil sie kleiner, passiver und empfänglicher sei als "der Fuß".
+Passivität, geringe Größe und Femininum einerseits und Aktivität, Größe und Maskulinum andererseits gehörten seiner Ansicht nach zusammen.
+Grimm fand für viele andere Substantive eine vergleichbare sexusbasierte Erklärung.
+Er sah das Maskulinum als das "lebendigste, kräftigste und ursprünglichste" unter allen Genuskategorien und erwähnte als Erster die Möglichkeit, maskuline Personenbezeichnungen in Bezug auf Frauen anzuwenden.
+Eine geschlechtsneutrale Bedeutung schreibt Grimm jedoch nur dem Neutrum zu.
+Ende des 19. und Anfang des 20. Jahrhunderts wurde weiterhin überwiegend angenommen, dass sich das Genus von Personenbezeichnungen aus dem Sexus der Bezeichneten ergibt.
+Zu dieser Zeit gab es u. a. von Wilhelm Wilmanns die ersten expliziten Beschreibungen des Phänomens des generischen Maskulinums.
+Ab den 1960er Jahren entstanden über das Verhältnis von Genus und Sexus und hinsichtlich der Behandlung des generischen Maskulinums in der Linguistik zwei radikal unterschiedliche Auffassungen:
+Der ersten Auffassung zufolge gibt es eine Kongruenz zwischen Sexus und Genus bei Personenbezeichnungen.
+Bei der Bezeichnung von Verwandtschaftsverhältnissen werde sie konsequent eingehalten (der Vater, aber die Mutter), und Sprachen unterschieden einerseits zwischen Animata (Belebtem, Leitfrage: Wer?) und Inanimata (Unbelebtem, Leitfrage: Was?), andererseits zwischen Männlichem und Weiblichem.
+Diese beiden Trennungen kämen in der Dreizahl der Genera zum Ausdruck.
+Um Abweichungen von der Kongruenz zu verstehen, sei ein hohes Maß an Abstraktionsvermögen erforderlich.
+Diese Abweichungen und nicht die Einhaltung der Kongruenz müssten gerechtfertigt werden.
+Der zweiten Auffassung zufolge haben Genus und Sexus in Sprachen wie dem Deutschen nichts miteinander zu tun:
+Wenn ein Tisch "männlich" sei, dann könne ein Teil von ihm, nämlich das Tischbein, eigentlich nicht "sächlich" sein.
+Tatsächlich aber sei die Zuordnung von Genera zu Wörtern zufällig und willkürlich, wie auch die Genuszuordnung beim Besteck: der Löffel, die Gabel, das Messer.
+Auch seien nicht alle Hunde (generisches Maskulinum) männlich und nicht alle Katzen (generisches Femininum) weiblich.
+"Sachen" seien Pferde (generisches Neutrum) allenfalls für Juristen und Ökonomen.
+Auch bei Lebewesen gebe es also chaotische Verhältnisse bei der Zuordnung von Oberbegriffen zu Genera.
+Folglich sei nichts dagegen einzuwenden, wenn auch Menschen mit einem von ihrem Sexus abweichenden Wort bezeichnet würden.
+Der Grammatik-Duden von 1966 (S. 137, § 1255) sieht den Ursprung des Genussystems als semantisch motiviert an, d. h. in Zusammenhang mit dem Sexus stehend.
+Ab seiner dritten Auflage von 1973 (S. 150, § 321) verneint der Grammatik-Duden aber strikt einen Zusammenhang zwischen Genus und Sexus.
+Ungefähr die Hälfte aller Sprachen kennt kein Genus.
+Beispiele für indogermanische Sprachen ohne Genus sind:
+Nichtindogermanische Sprachen ohne Genus sind zum Beispiel:
+Einige Sprachen kennen zwar kein Substantivgenus (mehr), verfügen aber (weiterhin) über ein Pronominalgenus.
+So richtet sich häufig das Personalpronomen der 3. Person Sg.
+nach dem Sexus, manchmal auch andere.
+Beispiele für germanische Sprachen ohne Substantivgenus sind:
+Auch die meisten Plansprachen haben keine Genuskategorie.
+Es gibt auch Sprachen, etwa Hindi-Urdu oder Pandschabi, in denen die Substantive sich nach Genera unterscheiden, die Pronomina aber nicht.
+Die meisten modernen romanischen Sprachen verzichten auf das Neutrum, haben also nur noch die beiden Genera Maskulinum und Femininum.
+Reste des Neutrums gibt es im Spanischen für substantivierte Adjektive, etwa lo malo, das Übel.
+Im Italienischen sind nur einzelne nach der heutigen Grammatik unregelmäßige Pluralbildungen mit dem Suffix -a übrig geblieben, etwa mille (tausend) = due mila (zweitausend, mit der weiblichen Form von dui/due, zwei, dui veraltet).
+Viele indoiranische Sprachen
+Die heutigen baltischen Sprachen
+Die keltischen Sprachen
+Eine einzige slawische Sprache unter italienischem Einfluss
+Andere indoeuropäische Sprachen:
+Semitische Sprachen:
+und auch alle anderen afroasiatischen Sprachen, wie :
+= Siehe oben:
+Neutrum, Utrum
+In den festlandskandinavischen Sprachen
+und im
+ist das Utrum aus dem früheren Maskulinum und Femininum entstanden, enthält also auch vieles Unbelebte.
+Einige dravidische Sprachen Indiens unterscheiden nur zwischen Maskulinum und Nicht-Maskulinum; ein Femininum fehlt.
+Dies sind vor allem die Dravidasprachen der Zentralgruppe (Kui, Kuwi, Kolami, Parji, Ollari und Gadaba), sowie einige aus der Gruppe Süd-Zentral (Gondi und Konda).
+Alle diese Sprachen sind Sprachen indischer Adivasis ohne Schrifttradition.
+Gondi hat immerhin drei Millionen Sprecher.
+Noch spezieller ist der Fall bei Telugu, der mit 81 Mio. Sprechern (2011) größten Dravidasprache und Amtssprache zweier indischer Bundesstaten:
+Hier gibt es im Singular ebenso nur Maskulinum und Nicht-Maskulinum, im Plural aber Utrum und Neutrum.
+Es gibt im Telugu zwar feminine Pronomen, aber diese werden im Singular genau wie Neutra behandelt.
+Von den germanischen Sprachen haben folgende die drei indogermanischen Genera bewahrt:
+Von den romanischen Sprachen:
+Die slawischen Sprachen mit Ausnahme des Moliseslawischen, darunter:
+Andere indogermanische Sprachen wie:
+Nichtindogermanische Sprachen wie:

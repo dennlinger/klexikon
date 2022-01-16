@@ -1,0 +1,89 @@
+Eine Maschine (entlehnt aus französisch machine, von lateinisch machina, dieses von altgriechisch av mechan, deutsch ,Werkzeug', ,künstliche Vorrichtung', ,Mittel') ist ein technisches Gebilde mit durch ein Antriebssystem bewegten Teilen.
+Maschinen werden als technische Arbeitsmittel vor allem für mechanische Einwirkung verwendet.
+In der Vergangenheit stand der Energie- und/oder Stofffluss im Vordergrund.
+Der Informationsfluss spielte zuerst in feinmechanischen Geräten eine Rolle, ist heute aber in fast allen Maschinen von Bedeutung (Automatisierung).
+Reizvolle Ziele für die Erfindung von Maschinen waren aus der Sicht eines Arbeiters eine Verstärkung der eigenen Kraft, Zeitgewinn, Genauigkeit, feinere Bearbeitungsmöglichkeit und Fertigung von größeren Mengen identischer Produkte.
+Es folgte auch eine Entlastung des Produktionsarbeiters von körperlicher und geistiger Arbeit durch Maschinen und Geräte.
+Diese modernen Arbeitsmittel übernehmen vor allem Routine- und auch gefährliche Arbeiten.
+
+Jede Maschine enthält individuell angefertigte Einzelteile, wie wenigstens Gestell und Gehäuse.
+Einen erheblichen Anteil nehmen Teile mit einer Standardfunktion ein; diese Maschinenelemente werden gesondert als Massenartikel produziert.
+Fixe Maschinenelemente sind zum Beispiel Schrauben und Dichtungen, bewegliche Elemente sind zum Beispiel Zahnräder und Hebel.
+
+== Definitionen
+
+=== Begriffsgeschichte
+
+Maschinen sind immer Produkte des Menschen.
+Aufgrund der antiken Bedeutung (vgl. "Deus ex machina") wurde die Maschine bis in die Neuzeit hauptsächlich als Mittel zu einer Täuschung - dem Erzeugen unnatürlicher, also unmöglicher Effekte - und erst in zweiter Linie als Arbeitshilfe verstanden.
+
+In der Renaissance entwickelte sich ein genaueres Konzept über Mechanismen:
+Mechanismen sind Komplexe von Bauteilen, bei denen die Bewegung eines Elements zwangsläufig die Bewegung anderer Elemente bewirkt.
+Sie haben in der Regel bewegliche Komponenten und sind im Vergleich zum apparatus (dem ,Werkzeug') erheblich komplexer.
+
+In dieser Zeit war ein Mechanismus primär ein Werk, eine Form von Getrieben, die Kräfte übertragen.
+Zu den kompliziertesten Mechanismen gehörte die Grande Complication (Große Komplikation) in mechanisch-automatischen Uhrwerken.
+In diesem Sinne ist auch der Mechanismus von Antikythera zu verstehen, ein antikes Artefakt, das die Himmelsmechanik nachbildete.
+
+In dieser Zeit bezeichnete auch Kunst (artes mechanicae) noch das Ingenieurwesen, und noch im 19. Jahrhundert wurden im Bergbau von Wasserkraft oder Pferden angetriebene Maschinen Bergmännische Kunst genannt.
+
+=== Mechanische Grundlagen: einfache Maschine und Automat
+
+Die Entwicklung der klassischen Mechanik als wissenschaftliche Disziplin seit der Aufklärung führt dazu, nach den Grundelementen mechanischer Systeme zu suchen, im Sinne der ,Atome', der Bauteile, die sich nicht weiter zerlegen lassen - angedacht wurde das schon von den antiken griechischen Ingenieuren (Aristoteles):
+So werden die einfachen Maschinen definiert, nämlich Seil und Stab, Rolle, Hebel, sowie schiefe Ebene (in der Antike noch die Schraube, die sich aber als Stab und schiefe Ebene modellieren lässt).
+
+Mehr oder weniger komplexe Mechanismen kommen in praktisch allen Ingenieurwissenschaften und technischen Disziplinen vor.
+Das Spektrum möglicher Maschinen reicht von einer einfachen Gerätschaft mit verbundenen, beweglichen Teilen (Mechanismen) bis zu sich über Kilometer erstreckenden komplexen Bauwerken (Anlagen).
+
+In der technischen Anwendung haben Maschinen meist einen Antrieb (zum Beispiel einen Motor), der mehr oder minder kontinuierlich Energie liefert.
+Mit dieser Energie arbeiten die Maschinen, weshalb sie Arbeitsmaschinen genannt werden.
+Der Motor und andere Maschinen, die verschiedene Energieformen in meist rotierende Bewegungsenergie umwandeln, werden als Kraftmaschinen bezeichnet.
+
+Weil die Maschine, wenn sie einen kontinuierlichen Antrieb hat, Arbeitsvorgänge in eine Folge wiederholbarer Schritte teilt, überschneidet sich ihre Bedeutung mit der des Automaten.
+Sie kann (unberechenbare) Handlungen von Menschen oder Tieren durch planbare Tätigkeiten (einen Algorithmus) ersetzen.
+Der aoao automatos, "der sich aus eigenem Willen bewegt", ist ursprünglich ein auf Räderwerken aufgebautes, ebenfalls illusionistisches Spielzeug - er entspricht aber den mechanistischen Leitbildern der Aufklärung, die auch die Natur als zwangsläufige, determinierbare Abfolge zu erklären sucht.
+
+=== Entwicklung der Definition in der Industrialisierung
+
+19. Jahrhundert:
+Verbindungen widerstandsfähiger Körper, welche so eingerichtet sind, dass mittels ihrer mechanische Naturkräfte genötigt werden können, unter bestimmten Bewegungen zu wirken (Reuleaux).Die Verbindung der Körper zu einer Maschine schließt nicht alle und jede Bewegung aus, sondern verhindert nur die für den Zweck der Maschine unnötigen und störenden Bewegungen, sodass die zweckmäßigen Bewegungen als die allein möglichen übrigbleiben.
+
+20. Jahrhundert:
+Normungsbestrebungen gehen dahin, zwischen Maschine, Gerät, Apparat, Automat, Werkzeug, Instrument und Anlage zu unterscheiden:
+
+Ende 20. Jahrhundert:
+In Europa ist die Maschine in der Maschinen-Richtlinie definiert.
+Infolge der Elektronisierung und Automatisierung im 20. Jahrhundert hat sich der Begriff der Maschine auf Computerprogramme ausgedehnt, mit denen Maschinen simuliert werden.
+In der Ingenieurtechnik wird aber meist zwischen mechanischer Maschine und elektronischen Automaten unterschieden.
+
+=== Die Europäische Maschinen-Richtlinie als Definitionshilfe
+
+Mit Hilfe der Richtlinie 2006/42/EG (Maschinenrichtlinie) wird ein einheitliches Schutzniveau zur Unfallverhütung für Maschinen beim Inverkehrbringen innerhalb des Europäischen Wirtschaftsraumes (EWR) sowie der Schweiz und der Türkei geregelt.
+Darin ist auch festgelegt, was als Maschine aufgefasst werden muss:
+
+Nach 2006/42/EG Artikel 2 Abs. a (bzw. Umsetzung in nationales Recht, durch 9. ProdSV § 2, Absatz 2) bezeichnet "Maschine"
+
+Eine Maschine ist als eigenständige Einheit im Wesentlichen unabhängig von der Umgebung funktionsfähig, während ihre Einzelkomponenten meist nicht unabhängig von der Maschine sinnvoll verwendbar sind.
+
+Nicht unter den Regelungsbereich der Maschinenrichtlinie fallen jedoch "Maschinen, deren einzige Kraftquelle die unmittelbar angewandte menschliche Arbeitskraft ist, mit Ausnahme von Maschinen, die zum Heben von Lasten verwendet werden, ..." (2006/42/EG Artikel I Absatz 2a).
+Diese Eingrenzung des Begriffes grenzt somit viele Geräte aus, die im alltagssprachlichen Sinne Maschinen sind.
+Im Verordnungstext werden noch weitere Ausnahmen und Ergänzungen definiert.
+
+Die Neufassung der Maschinenrichtlinie 2006/42/EG führt daneben auch unvollständige Maschinen auf, die dadurch gekennzeichnet sind, dass sie dazu bestimmt sind, in eine andere Maschine oder andere unvollständige Maschinen eingebaut oder mit ihnen zusammengefügt zu werden, um zusammen mit ihnen eine Maschine im Sinne der Richtlinie zu bilden.
+
+Beispiele, mit den daraus folgenden zugehörigen Anforderungen der EU-Richtlinien:
+
+=== Speziellere Definitionen
+
+=== Zeittafel / historische Beispiele
+
+== Maschinen in Mythologie und Literatur
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

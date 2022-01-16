@@ -1,0 +1,8 @@
+Software (dt.
+= weiche Ware soft = leicht veränderbare Komponenten , Komplement zu ,Hardware' für die physischen Komponenten) ist ein Sammelbegriff für Programme und die zugehörigen Daten.
+Sie kann als Beiwerk zusätzlich Bestandteile wie z. B. die Softwaredokumentation in der digitalen oder gedruckten Form eines Handbuchs enthalten.
+Software bestimmt, was ein softwaregesteuertes Gerät tut und wie es das tut .
+Die Hardware führt Software aus und setzt sie so in die Tat um.
+Software ist die Gesamtheit von Informationen, die man der Hardware hinzufügen muss, damit ein softwaregesteuertes Gerät für ein definiertes Aufgabenspektrum nutzbar wird.
+Durch das softwaregesteuerte Arbeitsprinzip kann eine starre Hardware individuell arbeiten.
+Es wird heute nicht nur in klassischen Computern angewendet, sondern auch in vielen eingebetteten Systemen, wie beispielsweise in Waschmaschinen, Mobiltelefonen, Navigationssystemen und modernen Fernsehgeräten.

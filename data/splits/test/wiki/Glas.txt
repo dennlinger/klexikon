@@ -1,0 +1,787 @@
+Glas (von germanisch glasa "das Glänzende, Schimmernde", auch für "Bernstein") ist ein Sammelbegriff für eine Gruppe amorpher Feststoffe.
+Die meisten Gläser bestehen hauptsächlich aus Siliciumdioxid, wie Trink- oder Fenstergläser; diese - meist lichtdurchlässigen - Silikat-Gläser haben wirtschaftlich die weitaus größte Bedeutung aller Gläser.
+Auch amorph erstarrte Metalle sind Gläser.
+Gläser aus organischen Materialien sind beispielsweise der natürliche Bernstein oder viele Kunststoffe wie Acrylglas.
+Durch sehr schnelles Abkühlen aus dem flüssigen oder gasförmigen Zustand kann nahezu jeder Stoff in ein (metastabiles) Glas überführt werden.
+Es gibt eine sehr große Anzahl von Gläsern verschiedener Zusammensetzungen, die aufgrund ihrer Eigenschaften von wirtschaftlichem oder wissenschaftlichem Interesse sind.
+Wegen der breiten Palette von Anwendungen für Gläser gibt es auch vielfältige Techniken zu deren Erzeugung und Formgebung.
+Viele dieser Techniken sind bereits sehr alt und werden - von ihrem Grundprinzip her unverändert - auch heute noch industriell umgesetzt.
+
+== Definition
+
+Glas ist eine amorphe Substanz, die durch Schmelzen erzeugt wird.
+Die Herstellung von Glas ist auch durch die Erwärmung von Sol-Gel und durch Stoßwellen möglich.
+Thermodynamisch wird Glas als gefrorene, unterkühlte Flüssigkeit bezeichnet.
+Diese Definition gilt für alle Substanzen, die geschmolzen und entsprechend schnell abgekühlt werden.
+Das bedeutet, dass sich bei der Erstarrung der Schmelze zum Glas zwar Kristallkeime bilden, für den Kristallisationsprozess jedoch nicht genügend Zeit bleibt.
+Das erstarrende Glas ist zu schnell fest, um noch eine Umordnung der Bausteine zu einem Kristall zu erlauben.
+Vereinfachend dargestellt entspricht somit der atomare Aufbau eines Glases in etwa dem einer Flüssigkeit.:3 Der Transformationsbereich, das ist der Übergangsbereich zwischen Schmelze und Feststoff, liegt bei vielen Glasarten um 600 °C.
+
+Trotz des nicht definierten Schmelzpunkts sind Gläser Festkörper.
+Allerdings werden sie in der Fachterminologie als "nichtergodisch" bezeichnet.
+Das heißt, ihre Struktur befindet sich nicht im thermodynamischen Gleichgewicht.
+Viele Kunststoffe, wie zum Beispiel Plexiglas, fallen wegen ihres amorphen Aufbaus und eines Glasübergangs ebenfalls in die Kategorie Gläser, obwohl sie eine völlig andere chemische Zusammensetzung aufweisen als Silikatgläser.
+Sie werden daher oft als organisches Glas bezeichnet.
+
+Der Unterschied zwischen Gläsern und anderen amorphen Feststoffen liegt darin, dass Gläser beim Erhitzen im Bereich der Glasübergangstemperatur in den flüssigen Zustand übergehen, während nicht glasartige amorphe Substanzen dabei kristallisieren.
+
+Aus der Beobachtung der Eigenschaften der Gläser und ihrer Struktur wurden viele Versuche angestrengt, eine umfassende Definition für den Begriff Glas zu geben.
+Der anerkannte Glaswissenschaftler Horst Scholze führte eine Auswertung der gängigsten Definitionsversuche des Begriffs Glas durch.
+In seiner Monographie "Der Glaszustand" (1933) formierte Gustav Tammann folgende Definition: "Im Glaszustand befinden sich die festen, nicht kristallisierten Stoffe.", während die ASTM 1945 als Definition "Glas ist ein anorganisches Schmelzprodukt, das im wesentlichen ohne Kristallisation erstarrt." vorschlug.
+Franz Eugen Simon gab bereits 1930 eine Definition aus thermodynamischer Sicht: "Im physikochemischen Sinn ist Glas eine eingefrorene unterkühlte Flüssigkeit.".
+Nach Scholze haben alle dieser Definitionen ihre Berechtigungen, jedoch auch ihre Schwächen.
+So ist die Definition nach Tammann zu allgemein und schließt Kieselgel, das ebenfalls ein nichtkristalliner Festkörper ist, nicht als Glas aus.
+Die Beschränkung der ASTM-Definition auf anorganische Substanzen wurde von Scholze als bedenklich bewertet, da mittlerweile einige organische Gläser bekannt sind.:3 ff.:27 ff.
+Eine umfassende Definition wurde von der Kommission für Terminologie der UdSSR gegeben:
+"Als Gläser werden alle amorphen Körper bezeichnet, die man durch Unterkühlung einer Schmelze erhält, unabhängig von ihrer chemischen Zusammensetzung und dem Temperaturbereich ihrer Verfestigung und die infolge der allmählichen Zunahme der Viskosität die mechanischen Eigenschaften der fester Körper annehmen.
+Der Übergang aus dem flüssigen in den Glaszustand muß dabei reversibel sein." Die Beschränkung der Gläser auf Festkörper, die aus einer Schmelzphase erhalten wurden, ist aus heutiger Sicht ebenfalls bedenklich, da auch der Sol-Gel-Prozess amorphe Festkörper bzw. Gläser hervorbringen kann.:76 f.
+Die Besonderheit des Glaszustandes der Materie geht so weit, dass einige Forscher ihn als "vierten Aggregatzustand zwischen Festkörper und Flüssigkeit" ansahen.:3
+
+== Einteilung der Gläser
+
+== Eigenschaften
+
+=== Struktur
+
+Obwohl Glas zu den ältesten Werkstoffen der Menschheit gehört, besteht noch Unklarheit in vielen Fragen des atomaren Aufbaus und seiner Struktur.
+Die mittlerweile allgemein anerkannte Deutung der Struktur ist die Netzwerkhypothese, die 1932 von W. H. Zachariasen aufgestellt und B. E. Warren 1933 experimentell bekräftigt wurde.
+Diese besagt, dass im Glas grundsätzlich dieselben Bindungszustände oder Grundbausteine wie in einem Kristall vorliegen müssen.
+Im Falle silikatischen Glases also die SiO4-Tetraeder, welche aber im Gegensatz zu einem Quarzkristall ein regelloses Netzwerk bilden.
+Um die Glasbildung weiterer chemischer Verbindungen vorhersagen zu können, stellte Zachariasen weitere Regeln in seiner Netzwerkhypothese auf.
+Unter anderem muss ein Kation in einer Verbindung relativ klein im Verhältnis zum Anion sein.
+Die sich bildenden Polyeder aus den Anionen und Kationen dürfen nur über deren Ecken verbunden sein.
+Werden die betrachteten Verbindungen auf Oxide beschränkt, so erfüllen unter anderen Phosphorpentoxid (P2O5), Siliziumdioxid (SiO2) und Bortrioxid (B2O3) diese Bedingungen zur Netzwerkbildung und werden daher als Netzwerkbildner bezeichnet.:5 ff.
+
+Wie die zweidimensionalen Abbildungen des Quarzes und des Quarzglases zeigen, liegt der Unterschied in der Regelmäßigkeit des atomaren Aufbaus.
+Beim Quarz, welcher ein Kristall ist, liegt ein Gitteraufbau vor - beim Quarzglas hingegen ein regelloses Netzwerk von aneinandergereihten SiO4-Tetraedern.
+Zur besseren Anschaulichkeit ist die vierte Oxidbindung, die aus der Zeichenebene hinaus ragen würde, nicht dargestellt.
+Die Bindungswinkel und Abstände im Glas sind nicht regelmäßig und die Tetraeder sind ebenfalls verzerrt.
+Der Vergleich zeigt, dass Glas ausschließlich über eine Nahordnung in Form der Tetraeder verfügt, jedoch keine kristalline Fernordnung aufweist.
+Diese fehlende Fernordnung hat die sehr schwierige Analyse der Glasstruktur zur Folge.
+Insbesondere die Analyse in mittlerer Reichweite, also die Verbindungen mehrerer Grundformen (hier den Tetraedern), ist Gegenstand der Forschung und wird zu den heutigen größten Problemen der Physik gezählt.:90 ff.
+Das liegt zum einen daran, dass Gläser röntgenographischen Untersuchungen nur sehr schwer zugänglich sind und zum anderen daran, dass die strukturbildenden Prozesse teilweise bereits in der Schmelze beginnen, wobei die vorliegenden Temperaturen eine genaue Untersuchung zusätzlich erschweren.:68
+
+Das Material, das diese Grundstruktur des Glases bestimmt, heißt Netzwerkbildner.
+Neben dem erwähnten Siliciumoxid können auch andere Stoffe Netzwerkbildner sein, wie Bortrioxid und auch nichtoxidische wie Arsensulfid.
+Einkomponentengläser sind jedoch sehr selten.
+Das trifft auch auf reines Quarzglas zu, das als einziges Einkomponentenglas wirtschaftliche Bedeutung hat.
+Die Ursache hierfür sind die enorm hohen Temperaturen (über 2000 °C) welche zu dessen Erzeugung notwendig sind.:154
+
+Weitere Stoffe binden sich anders in das Glasnetzwerk der Netzwerkbildner ein.
+Hier werden Netzwerkwandler und Stabilisatoren (oder auch Zwischenoxide) unterschieden.:5 ff.:51 f.
+
+Netzwerkwandler werden in das vom Netzwerkbildner gebildete Gerüst eingebaut.
+Für gewöhnliches Gebrauchsglas - Kalk-Alkali-Glas (gebräuchlicher ist allerdings der engere Terminus Kalk-Natron-Glas) - sind dies Natrium- bzw. Kaliumoxid und Calciumoxid.
+Diese Netzwerkwandler reißen die Netzwerkstruktur auf.
+Dabei werden Bindungen des Brückensauerstoffs in den Siliciumoxid-Tetraedern aufgebrochen.
+Anstelle der Atombindung mit dem Silicium geht der Sauerstoff eine deutlich schwächere Ionenbindung mit einem Alkaliion ein.:5 ff.:51 f.
+
+Zwischenoxide wie Aluminiumoxid können als Netzwerkbildner und -wandler fungieren, das heißt, sie können ein Glasnetzwerk verfestigen (stabilisieren) oder genau wie die Netzwerkwandler die Strukturen schwächen.
+Ihre jeweilige Wirkung in einem Glas ist stets abhängig von einer Reihe von Faktoren.
+Allerdings sind Zwischenoxide allein nicht zur Glasbildung fähig.:5 ff.:51 f.
+
+=== Übergang von der Schmelze zum festen Glas
+
+Während bei kristallinen Materialien der Übergang von der Schmelze zum Kristall durch langsame Abkühlung erfolgt, ist dieser Vorgang bei Gläsern so rasch, dass sich keine Kristallstruktur bilden kann.
+Der Übergangsbereich von einer Schmelze zum Glas wird Transformationsbereich genannt.:29 f.
+Im Laufe der Abkühlung nimmt die Viskosität des Materials stark zu.
+Dies ist das äußere Zeichen für eine zunehmende innere Struktur.
+Da diese Struktur kein regelmäßiges Muster aufweist, heißt der Zustand der Schmelze im Transformationsbereich, wie auch des erstarrten Glases, amorph.
+Am kühlen Ende des Transformationsbereichs liegt ein thermodynamischer Übergang, der für Glas charakteristisch ist und daher den Namen Glasübergang trägt.
+An ihm wandelt sich die Schmelze in den festen, glasartigen Zustand, den das Glas auch bei weiterer Abkühlung beibehält.
+Der Glasübergang zeichnet sich durch eine sprunghafte Änderung des Wärmeausdehnungskoeffizienten sowie eine Abnahme der spezifischen Wärme C p {\displaystyle C_{\mathrm {p} } } aus.:36 ff.:3 ff.
+Diese Abfolge von Transformationsbereich und Glasübergang ist charakteristisch für alle Gläser, auch solche, die wie Plexiglas aus Kohlenwasserstoffen bestehen.
+Der amorphe, viskose Zustand der Schmelze im Transformationsbereich wird für die Bearbeitung von Glas durch Glasbläser ausgenutzt.
+Er erlaubt eine beliebige Verformung, ohne dass Oberflächenspannung und Gravitation das Werkstück sofort zerfließen lassen.:7 f.
+
+=== Physikalische Eigenschaften
+
+Die im allgemeinen Sprachgebrauch tragende Eigenschaft von Glas ist die optische Durchsichtigkeit.
+Die optischen Eigenschaften sind so vielfältig, wie die Anzahl der Gläser.
+Neben klaren Gläsern, die in einem breiten Band für Licht durchlässig sind, kann die Zugabe von speziellen Materialien zur Schmelze die Durchlässigkeit blockieren.
+Zum Beispiel werden damit optisch klare Gläser für infrarotes Licht undurchdringbar, die Wärmestrahlung ist blockiert.
+Die bekannteste Steuerung der Durchlässigkeit ist die Färbung.
+Die verschiedensten Farben können erzielt werden.
+Andererseits gibt es undurchsichtiges Glas, das schon aufgrund seiner Hauptkomponenten oder der Zugabe von Trübungsmitteln opak ist.:149, 286 f., 304 ff.
+
+Gebrauchsglas hat eine Dichte von ca. 2500 kg/m^3 (Kalk-Natron-Glas).
+Die mechanischen Eigenschaften variieren sehr stark.
+Die Zerbrechlichkeit von Glas ist sprichwörtlich.
+Die Bruchfestigkeit wird stark von der Qualität der Oberfläche bestimmt.:240 Glas ist weitgehend resistent gegen Chemikalien.
+Eine Ausnahme ist Flusssäure; sie löst das Siliciumdioxid und wandelt es zu Hexafluorokieselsäure.:305 f.
+Durch Verwitterung, bspw. jahrzehntelange Lagerung im Erdreich, entstehen mikroskopisch feine Risse an der Glasoberfläche, die sogenannte Glaskrankheit.
+Klarglas erscheint dann für das menschliche Auge trüb.:310 ff.
+Bei Raumtemperatur hat Kalk-Natron-Glas einen hohen elektrischen Widerstand, der allerdings mit steigender Temperatur stark abfällt.
+Quarzglas (glasartig erstarrtes reines Siliciumdioxid) ist auch noch bei deutlich höheren Temperaturen ein Isolator.:272 ff.
+Neben den Silikatgläsern gibt es aber auch sog. metallische Gläser wie Fe80B20, die bereits bei Raumtemperatur höhere Leitfähigkeiten besitzen, weil sie sich ähnlich wie eingefrorene flüssige Metalle verhalten.:226
+
+Wegen seiner Natur als unterkühlte Schmelze kann Glas auch in sehr begrenztem Umfang fließen.
+Dieser Effekt macht sich aber erst bei höheren Temperaturen bemerkbar.
+Die häufige Behauptung, dass Kirchenfenster unten dicker seien, weil das Glas im Laufe der Jahrhunderte durch die Schwerkraft nach unten geflossen sei, ist falsch, derartige Fließvorgänge hätten bei Raumtemperatur Jahrmillionen benötigt.
+Die Verdickung ist auf das damalige Produktionsverfahren (Zylinderblasen) zurückzuführen.
+
+== Produktionsprozesse
+
+=== Gemenge
+
+Das Kalk-Natron-Glas ist das vorherrschende Massenglas und macht circa 90 % des weltweit produzierten Glases aus.
+Grundsätzlich besteht dieses Glas aus Siliziumdioxid (SiO2), Natriumoxid (Na2O) und Calciumoxid (CaO).
+Im alltäglichen Gebrauchsglas, welches nach wie vor zur Familie der Kalk-Natron-Gläser gehört, werden aber verschiedene weitere Bestandteile zugegeben, um die Gebrauchseigenschaften und Herstellungsbedingungen zu optimieren.
+Geringfügige Verunreinigungen der Rohstoffe, die mit den normalen Qualitätsanforderungen an das Gebrauchsglas vereinbar sind, stellen ebenfalls Quellen für weitere (unbeabsichtigte) Glasbestandteile dar.
+In normalem Glas, wie es zur Fertigung von farblosen Behältern oder Flachglas verwendet wird, finden sich oft gewisse Mengen Aluminiumoxid, Magnesiumoxid und Kaliumoxid, welche bewusst zugegeben werden.
+Durch Verunreinigungen finden sich weiterhin kleinere Mengen von Eisenoxiden, Titanoxid und beispielsweise Chrom(III)-oxid im Glas wieder.
+Die häufigsten Rohstoffe in der Massenglasproduktion können der nachfolgenden Liste entnommen werden:
+
+Für Spezialgläser kommen auch Mennige, Borax, Bariumcarbonat und seltene Erden zum Einsatz.
+
+=== Schmelze
+
+Die Glasschmelze lässt sich in drei Phasen unterteilen:
+
+Bei chargenweise arbeitenden Tageswannen und Hafenöfen geschehen diese Schritte nacheinander in demselben Becken.
+Dieses historische Produktionsverfahren findet heute nur noch bei kunsthandwerklicher Produktion und speziellen, optischen Gläsern in geringen Mengen statt.
+Im industriellen Maßstab finden ausschließlich kontinuierlich arbeitende Öfen Verwendung.
+Hier ist die Abfolge obiger Schritte nicht zeitlich, sondern räumlich getrennt, auch wenn die einzelnen Abschnitte fließend ineinander übergehen.
+Die Menge des zugeführten Gemenges muss derjenigen der Glasentnahme entsprechen.
+Die notwendige Energie zum Erschmelzen des Glases kann durch fossile Brennstoffe oder elektrische Energie, mittels Stromdurchgang durch die Schmelze, erbracht werden.
+
+Das Gemenge wird der Schmelzwanne mit einer Einlegemaschine am Einlegevorbau, dem Doghouse, aufgegeben.
+Da das Gemenge eine geringere Dichte als die Glasschmelze besitzt, schwimmt dieses auf der Schmelze und bildet den sogenannten Gemengeteppich.
+Bei Temperaturen von ca. 1400 °C und mehr schmelzen die verschiedenen Bestandteile langsam auf.
+Einige der Gemengebestandteile können zusammen Eutektika bilden und bereits bei wesentlich geringeren Temperaturen erste Schmelzphasen bilden.
+Die Konvektion im Glasbad bewirkt einen kontinuierlichen Abtransport von Material, das sich vom Gemengeteppich löst.
+Gleichzeitig bewirkt sie eine Erwärmung des Gemenges.
+Somit erzeugt sie sowohl eine thermische, als auch eine chemische Homogenität der Schmelze.
+Diese kann durch ein Bubbling, die Eindüsung von Luft oder Gasen in die Schmelze, unterstützt werden.
+
+Im Läuterbereich, der dem Schmelzbereich unmittelbar folgt, und häufig auch durch einen Wall in der Schmelze von diesem getrennt ist, werden in der Schmelze verbliebene Gase ausgetrieben.
+Zu diesem Zweck wird dem Gemenge zuvor ein sogenanntes Läutermittel zugegeben.
+Dieses Läutermittel zersetzt sich bei einer bestimmten Temperatur unter Gasbildung.
+Aufgrund von Partialdruckdifferenzen diffundieren nun Gase aus der Schmelze in die Läutermittel-Gasblasen ein, welche dadurch anwachsen und aufsteigen.
+Um diesen Prozess in wirtschaftlich vertretbaren Zeiten durchführen zu können, herrschen im Läuterteil einer Glasschmelzwanne ähnlich hohe Temperaturen wie im Schmelzteil, weil eine zu hohe Viskosität der Schmelze das Aufsteigen der Gasblasen stark verlangsamen würde.
+Da die Läuterung bestimmend für die Glasqualität ist, gibt es vielfältige unterstützende Maßnahmen.
+
+Dem Läuterbereich schließt sich die baulich klar getrennte Arbeitswanne an.
+Da für die Formgebung niedrigere Temperaturen als zur Schmelze und Läuterung nötig sind, muss das Glas vorher abstehen, das Gefäß heißt daher auch Abstehwanne.
+Der Kanal, der Schmelzwanne und Arbeitswanne verbindet, wird Durchlass genannt und arbeitet nach dem Siphonprinzip.
+Bei Flachglaswannen sind Schmelz- und Arbeitswanne nur durch eine Einschnürung getrennt, da ein Durchlass eine optische Unruhe im Fertigprodukt entstehen ließe.
+
+Von der Arbeitswanne fließt das Glas weiter zum Entnahmepunkt, wo dann die Formgebung stattfindet.
+Bei der Produktion von Hohlglas sind dieses die Speiser oder Feeder.
+Hier werden Tropfen erzeugt, die über ein Rinnensystem in darunter stehende Glasmaschinen geleitet werden.
+Bei der Flachglasherstellung nach dem Floatglasverfahren fließt das Glas über einen Lippstein in das Floatbad.
+
+=== Formgebung
+
+Je nach Produkt wird Glas unterschiedlich geformt.
+Die Formung erfolgt durch Pressen, Blasen, Schleudern, Spinnen, Walzen oder Ziehen:
+
+=== Kühlung
+
+In jedem Glasgegenstand entstehen bei der Formgebung mechanische Spannungen als Folge einer Zwangsformgebung oder Dehnungsunterschiede im Material aufgrund von Temperaturgradienten.:46 Diese Spannungen lassen sich mit optischen Spannungsprüfern unter polarisiertem Licht geometrisch messen (Spannungsdoppelbrechung).
+Die Spannungsanfälligkeit hängt vom Ausdehnungskoeffizienten des jeweiligen Glases ab und muss thermisch ausgeglichen werden.:107 ff.
+
+Für jedes Glas lässt sich ein Kühlbereich festlegen, welcher von der sogenannten oberen und unteren Kühltemperatur begrenzt wird.
+Die Lage dieser Temperaturen definiert sich nach der Viskosität, so ist die obere Kühltemperatur diejenige Temperatur bei der das Glas eine Viskosität von 1012 Pa*s besitzt.
+Bei der unteren Kühltemperatur liegt eine Viskosität 1013,5 Pa*s vor.
+In der Regel erstreckt sich der Kühlbereich, für die meisten kommerziell genutzten Gläser, zwischen 590 °C und 450 °C.
+Die Spannungen werden durch Tempern verringert, also durch definiertes langsames Abkühlen, da bei den hier vorherrschenden Viskositäten eine Spannungsrelaxation gerade noch möglich ist und bleibende Spannungen im Glaskörper vermieden werden.:7-10
+
+Die Zeit, in der ein Glasgegenstand den Kühlbereich durchlaufen kann, hängt maßgeblich von der je nach Glasart zu überbrückenden Temperatur und der Stärke (Dicke) des Gegenstands ab.
+Im Hohlglasbereich sind dies zwischen 30 und 100 Minuten, bei großen optischen Linsen mit 1 m Durchmesser und mehr kann eine langsame Abkühlung von einem Jahr notwendig sein, um sichtbare Spannungen und somit Bildverzeichnungen der Linse zu vermeiden.:46 ff.
+Die Kühlrate ist bei optischen Gläsern, nach der chemischen Zusammensetzung, der zweite wichtige Parameter zur Einstellung von Brechungsindex bzw. Dispersion und deshalb generell von besonderer Bedeutung im Produktionsprozess.
+
+Es gibt zwei Arten von Kühlaggregaten, die zum Entspannungskühlen von Glasgegenständen genutzt werden können: die periodisch arbeitenden Kühlöfen und kontinuierlich betriebene Kühlbahnen.
+In der Praxis geschieht jedoch zumeist keine klare Abgrenzung zwischen diesen beiden Fällen, so wird beispielsweise das kontinuierlich betriebene Kühlaggregat in der Flachglasindustrie häufig als Rollenkühlofen bezeichnet.
+
+Kühlöfen eignen sich nur für Sonderfertigungen und Kleinstchargen, da nach jeder Entnahme der Werkstücke der Ofen wieder auf Temperatur gebracht werden muss.
+Industriell werden Kühlbahnen genutzt.
+In der Hohlglasindustrie erfolgt der Transport der Glasgegenstände auf Stahlmatten oder Kettenbändern durch die Kühlbahn, während das kontinuierliche Glasband in der Flachglasindustrie mittels Rollen durch die Kühlbahn transportiert wird.
+Vor den Kühlbahnen (regional auch Kühlbänder genannt) wurden für mittlere Sortimente sogenannte Zugöfen verwendet.
+Nachdem der Zug im Ofen mit Gläsern gefüllt war, wurde der eine Wagen aus dem Ofen heraus- und ein leerer Wagen hereingefahren.
+Der heiße Wagen wurde mit isolierten Blechen verhängt und konnte langsam abkühlen, bevor er entleert wurde.
+Pro Schicht wurden meist drei Wagenwechsel durchgeführt.
+
+Die bisher geschilderten Vorgänge lassen sich unter dem Begriff des Entspannungskühlen, also dem Kühlen eines Glaskörpers mit dem Zweck bleibende Spannungen zu vermeiden, zusammenfassen.
+Als einen umgekehrten Fall kann das thermische Vorspannen von Glas zur Herstellung von beispielsweise Einscheibensicherheitsglas betrachtet werden.
+Dabei wird das Glas von einer Temperatur oberhalb seiner Transformationstemperatur so schnell abgekühlt, dass die thermisch erzeugten Spannungen nicht mehr abgebaut werden können.
+Infolgedessen entstehen im Glasvolumen Zugspannungen und in der Glasoberfläche Druckspannungen, die ursächlich für eine gesteigerte Festigkeit und Temperaturwechselbeständigkeit des Glaskörpers sind.
+
+=== Oberflächenveredelung
+
+Eine Oberflächenveredelung entsteht durch das Aufbringen von Schichten oder das Abtragen von Schichten, sowie das Modifizieren der Struktur oder der Chemie der Glasoberfläche.
+Sinn und Zweck solcher Maßnahmen ist die Verbesserung der bestehenden Gebrauchseigenschaften eines Glasgegenstandes oder die Erzeugung neuer Anwendungsgebiete für einen Glasgegenstand.
+
+=== Qualitätskontrolle
+
+Um die Qualität des Glases sicherzustellen, müssen regelmäßig umfangreiche Untersuchungen durchgeführt werden, hierzu zählen:
+
+=== Glasfärbung und Entfärbung
+
+==== Grundsätze
+
+Die meisten Glassorten werden mit weiteren Zusatzstoffen produziert, um bestimmte Eigenschaften, wie ihre Färbung, zu beeinflussen.
+Grundsätzlich werden bei Gläsern drei Farbgebungsmechanismen unterschieden, die Ionenfärbung, die kolloidale Färbung und die Anlauffärbung.
+Während die erstgenannte Möglichkeit hauptsächlich auf der Wechselwirkung des Lichtes mit den Elektronenhüllen der farbgebenden Elemente beruht, treten bei den letzten beiden unterschiedlichste Beugungs-, Reflexions- und Brechungserscheinungen des Lichts auf, die stark abhängig von dispergierten Phasen sind.
+Im Falle der Anlauffärbung handelt es sich um eine Elektronenanregung im Kristallgitter des Chromophors.
+:275 ff.
+
+==== Ionenfärbung
+
+Als färbende Substanzen in Gläsern werden Metalloxide, sehr häufig 3d-Elemente, eingesetzt.
+Die Entstehung der Farbwirkung beruht auf der Interaktion der äußeren Elektronen mit elektromagnetischen Wellen.
+Dabei kann es zur Absorption bestimmter Wellenlängen und zur Emission anderer Wellenlängen kommen.
+Werden Wellenlängen des sichtbaren Lichtes absorbiert, entsteht eine Farbwirkung, da das übriggebliebene Wellenlängenspektrum kein weißes Licht mehr ergibt.
+Die Färbung kann also als eine selektive Transmission betrachtet werden.:255 ff.
+Die tatsächliche Färbung eines Glases ist von einer Vielzahl von Parametern abhängig.
+Neben der Konzentration der farbgebenden Ionen ist auch deren Koordination und die umgebende Glasstruktur von entscheidender Bedeutung.
+Beispielsweise ergibt Cobalt(II)-oxid in einem Silikatglas einen anderen Blauton als in einem Phosphatglas.:251 ff.
+Um einen speziellen Farbton zu erhalten, können die verschiedenen farbgebenden Oxide miteinander kombiniert werden, jedoch müssen dabei eventuell auftretende Wechselwirkungen beachtet werden.:264 f.
+
+==== Anlauffärbung
+
+Zu den Anlaufgläsern gehören die durch Chalkogenide gefärbten Gläser, die hauptsächlich in silikatischen Gläsern mit hohen Zink- und Kaliumoxidgehalten Anwendung finden.
+Am häufigsten werden hierfür Cadmiumsulfid oder Cadmiumselenid in geringen Prozentbereichen zugegeben, aber auch andere Metallchalkogenide sind denkbar.:266 Das Glas wird unter reduzierenden Bedingungen erschmolzen, wobei zunächst farbloses Glas entsteht.
+Erst eine anschließende Temperung bewirkt, dass die Gläser farbig werden - sie laufen an.
+Mit zunehmender Dauer wandert die UV-Kante des Glases immer mehr in den sichtbaren Bereich hinein.
+Durch eine gezielte Temperung können somit unterschiedliche Farbwirkungen erzielt werden.
+Ursache für dieses Verhalten sind mikroskopische (Cadmium-)Chalkogenidkristalle, die sich während des Temperns bilden und mit andauernder Temperzeit weiter wachsen.:267 Es handelt sich also um eine gesteuerte Entglasung.
+Untersuchungen zeigten, dass sich mit zunehmender Kristallisation des Chalkogenids die Verbotene Zone zwischen Valenz- und Leitungsband vergrößert, was die Ursache für die Verschiebung der UV-Kante in den sichtbaren Bereich ist.:275 ff.
+Aufgrund ihrer scharfen Farbkante werden diese Gläser häufig als Filtergläser eingesetzt.:268
+
+==== Kolloidale Färbung
+
+Kolloidalgefärbte Gläser werden oft auch als (echte) Rubingläser bezeichnet.
+Bei diesen Gläsern werden Metallsalze der Schmelze zugegeben.
+Zunächst ergibt sich ebenfalls ein farbloses Glas.
+Durch eine anschließende Temperaturbehandlung werden Metalltröpfchen aus der Glasmatrix ausgeschieden und wachsen an.
+Die Farbwirkung der Kolloide beruht sowohl auf der Absorption des Lichtes durch die Teilchen als auch der Rayleigh-Streuung des Lichtes an ihnen.
+Je größer die erzeugten Kolloide werden, umso mehr nimmt ihre Extinktion zu.
+Gleichzeitig verschiebt sich die Wellenlänge ihrer maximalen Absorption zu langwelligerem Licht hin.
+Außerdem nimmt mit zunehmender Kolloidgröße der Effekt der Streuung zu, jedoch muss hierfür die Größe des Kolloids sehr viel kleiner als die Wellenlänge des zu streuenden Lichtes sein.:281 ff.
+
+==== Farbwirkung einzelner Bestandteile (Auswahl)
+
+Die nachfolgende Liste enthält einige der häufigeren zur Färbung genutzten Rohstoffe, unabhängig von deren Farbgebungsmechanismus.:226, 284
+
+==== Entfärbung von Gläsern
+
+Die Entfärbung eines Glases ist dann notwendig, wenn durch Verunreinigungen der Rohstoffe größere Mengen an farbgebenden Bestandteilen im Glas vorhanden sind (ungewollter Farbeffekt), oder falls in der regulären Glasproduktion ein Erzeugnis anderer Farbe hergestellt werden soll.
+Die Entfärbung eines Glases kann sowohl chemisch, als auch physikalisch geschehen.
+Unter der chemischen Entfärbung werden Änderungen an der Chemie des Glases verstanden, die zur Folge haben, dass die Färbung reduziert wird.
+Dies kann im einfachsten Fall durch eine Veränderung der Glaszusammensetzung geschehen.
+Sollten polyvalente Elemente in der Schmelze vorliegen, entscheidet neben deren Konzentration auch deren Oxidationszustand über die Farbwirkung.
+In diesem Fall kann ein veränderter Redoxzustand einer Glasschmelze die Farbwirkung des fertigen Produktes ebenfalls beeinflussen.
+Sofern eine Färbung des Glases durch Chalkogenide (Anlauffärbung) verursacht ist, kann der Schmelze Oxidationsmittel zugegeben werden.
+Diese bewirken eine Zersetzung der Chalkogenide in der Glasschmelze.:267 Eine weitere Möglichkeit, Fehlfarben in einem Glas zu kompensieren, stellt die physikalische Entfärbung dar.
+Dazu werden kleinste Mengen farbgebender Bestandteile der Schmelze zugegeben.
+Grundsätzlich dient die komplementäre Farbe zur Beseitigung von Farbstichen.
+Dadurch entsteht der Effekt eines farblosen Glases.
+Mit steigender Intensität der ursprünglichen Fehlfärbung werden auch höhere Mengen an Entfärbungsmitteln notwendig, wodurch das Glas zwar farblos, aber zunehmend dunkler wirkt.
+Entfärbemittel werden Glasmacherseifen (auch Glasseifen) genannt.
+
+==== Phototropie und Elektrotropie
+
+Hierbei handelt es sich um Färbungen und Entfärbungen, die unter dem Einfluss von mehr oder weniger Sonnenlicht zustande kommen; sie eignen sich für bei starkem Sonnenlicht automatisch dunkel werdende Brillengläser.
+
+Ein ähnlicher Effekt ist mit einem veränderlichen elektrischen Feld erzielbar; er wird u. a. für verdunkelbare Windschutzscheiben verwendet.
+
+=== Einstellung der Glaseigenschaften allgemein
+
+Glaseigenschaften können mittels statistischer Analyse von Glasdatenbanken ermittelt und optimiert werden.
+Sofern die gewünschte Glaseigenschaft nicht mit Kristallisation (z. B. Liquidustemperatur) oder Phasentrennung in Zusammenhang steht, ist einfache lineare Regressionsanalyse anwendbar, unter Zuhilfenahme algebraischer Gleichungen der ersten bis zur dritten Ordnung.
+Viele Verfahren zur Vorausberechnung von Glaseigenschaften sind hauptsächlich empirischer Natur.:162
+
+Die nachstehende Gleichung zweiter Ordnung ist ein Beispiel, wobei C die Konzentrationen der Glaskomponenten wie Na2O oder CaO darstellen.
+Die b-Werte sind variable Koeffizienten, und n ist die Anzahl aller Glaskomponenten.
+Der Glas-Hauptbestandteil SiO2 ist in der dargestellten Gleichung ausgeschlossen und wird mit der Konstante bo berücksichtigt.
+Der Großteil der Glieder in der Beispielgleichung kann aufgrund von Korrelations- und Signifikanzanalyse vernachlässigt werden.
+Weitere Einzelheiten und Anwendungen siehe.
+
+Oft ist es erforderlich, mehrere Glaseigenschaften sowie die Produktionskosten gleichzeitig zu optimieren.
+Dies geschieht mit der Methode der kleinsten Quadrate, wodurch der Abstand zwischen den gewünschten Eigenschaften und den vorausberechneten einer fiktiven Glassorte durch Variation der Zusammensetzung minimiert wird.
+Es ist möglich, die gewünschten Eigenschaften unterschiedlich zu wichten.
+
+Glas-Zuschlagstoffe sind unter anderem:
+
+== Geschichte der Glasherstellung
+
+=== Frühzeit
+
+Natürliches Glas wie Obsidian wurde wegen seiner großen Härte und des scharfen Bruchs seit frühester Zeit für Werkzeuge wie Keile, Klingen, Schaber und Bohrer benutzt.
+Obsidian konnte jedoch - anders als künstlich hergestelltes Glas - mit antiken Mitteln nicht geschmolzen oder gefärbt werden.
+
+Auch die natürlich vorkommenden transluzenten und spaltbaren Minerale Glimmer und Marienglas wurden als Fensterglas verwendet, bevor man in der Lage war, entsprechend große und gleichmäßig dicke Scheiben künstlich herzustellen.
+Die Römer nannten Marienglas Lapis specularis.
+Der römische Geschichtsschreiber Plinius der Ältere (23-79) beschrieb in seiner Enzyklopädie Naturalis historia den Abbau und die Verarbeitung von Lapis specularis zu Fensterscheiben und Lampen.
+
+Ob die Glasherstellung in Mesopotamien, im alten Ägypten oder an der Levanteküste erfunden wurde, lässt sich nicht mit letzter Gewissheit sagen.
+Die ältesten Glasfunde stammen aus Mesopotamien; altägyptische Quellen deuten für die Anfangsphase der Glasnutzung in Ägypten auf einen Import aus dem Osten hin.
+Die älteste textliche Erwähnung stammt aus Ugarit und wird auf etwa 1600 v. Chr. datiert.
+Als älteste Funde gelten die Nuzi-Perlen.
+Das älteste sicher zu datierende Glasgefäß ist ein Kelch, der den Thronnamen von Pharao Thutmosis III. trägt und um 1450 v. Chr. entstand.
+Der Kelch befindet sich seit dem 20. Jahrhundert im Staatlichen Museum Ägyptischer Kunst in München.
+
+Glas wurde in Ägypten seit etwa 1450 v. Chr. zu Gefäßen verarbeitet (siehe unten).
+Der Herstellungsort dieses frühesten Glases ist allerdings unbekannt, er wird in Theben vermutet, gegenüber dem heutigen Luxor.
+Die bekannteste Verarbeitungstechnik beruht auf dem Herstellen von Hohlgefäßen durch das Wickeln von erweichten Glasstäbchen um einen porösen Keramikkern, der anschließend herausgekratzt wurde.
+Die besten Funde hierzu liegen aus den Grabungen von Flinders Petrie aus Amarna vor.
+Die bislang einzige bekannte bronzezeitliche Glashütte, in der Glas aus seinen Rohstoffen hergestellt wurde, datiert in die Ramessidenzeit und wurde Ende der 1990er Jahre bei Grabungen des Roemer- und Pelizaeus-Museums (Hildesheim) unter der Leitung von Edgar Pusch im östlichen Nil-Delta in Qantir-Piramesse gefunden.
+Untersuchungen gaben Aufschluss über das Schmelzverfahren.
+So wurde Quarzgestein zerkleinert, mit sodahaltiger Pflanzenasche vermengt, in einen Krug gefüllt und bei vielleicht 800 °C zu einer Fritte geschmolzen.
+Diese Fritte wurde nach dem Abkühlen vermutlich zerkleinert und in einer zweiten Schmelze in speziell hergestellten Tiegeln bei 900 bis 1100 °C zu einem 8 bis 10 cm hohen Barren mit 10 bis 14 cm Durchmesser geschmolzen.
+Das Glas wurde dabei durch Beimischen von Metall-Oxiden schwarz, violett, blau, grün, rot, gelb oder weiß gefärbt.
+Ein konkreter Zusammenhang von Glasherstellung und Metallgewinnung ist trotz der ähnlichen Temperaturen nicht nachzuweisen.
+Das gefärbte Rohglas wurde in Barrenform an die weiterverarbeitenden Werkstätten geliefert, die daraus monochrome und polychrome Objekte herstellten.
+Solche Glasbarren wurden im Schiffswrack von Uluburun nahe dem türkischen Bodrum gefunden, das auf das 14. Jahrhundert v. Chr. datiert ist.
+Die erste bekannte Rezeptur ist aus der Bibliothek des assyrischen Königs Assurbanipal überliefert, die auf ca. 650 v. Chr. datiert wird:
+Nimm 60 Teile Sand, 180 Teile Asche aus Meerespflanzen und 5 Teile Kreide und du erhältst Glas.
+Zu dieser Zeit wurde schon wesentlich mehr Glas verarbeitet, und es entwickelte sich eine neue Glasschmelztechnik.
+
+=== Antike
+
+Plinius der Ältere beschreibt in der Historia naturalis die Herstellung des Glases.
+Chemische Analysen und Erkenntnisse der experimentellen Archäologie haben Plinius in vielen Fragen bestätigt.
+Zur Römerzeit wurde Glas (lateinisch vitrum) mit Flusssand und Natron aus Ägypten geschmolzen.
+Das ägyptische Natron wurde am Wadi Natrun, einem natürlichen Natronsee in Nord-Ägypten, abgebaut und über Alexandria von den Phöniziern in den Mittelmeerraum exportiert.
+Dieses war verhältnismäßig rein und enthielt mehr als 40 Prozent Natriumoxid (die Angabe wurde wie in der Petrologie üblich auf das Oxid bezogen, faktisch liegt aber Natriumcarbonat vor) und bis zu 4 Prozent Kalk.
+Die Zusammensetzung machte es zu einem idealen Schmelzmittel.
+Plinius schreibt weiter von Glassandlagern in Italien, Hispanien und Gallien, aber an keiner dieser Stätten entwickelte sich eine so bedeutende Glasherstellung wie an der palästinischen Küste zwischen Akkon und Tyros sowie in den ägyptischen Glashütten rund um den Wadi Natrun bei Alexandria.
+
+Kaiser Diokletian legte im Jahr 301 die Preise für eine ganze Reihe von Produkten fest, unter anderem für Rohglas.
+Unterschieden wurde judaicum und alexandrium, wobei Letzteres teurer und wahrscheinlich entfärbtes Glas war.
+Zu dieser Zeit war die Glasproduktion im Wesentlichen noch immer in Primär- und Sekundärwerkstätten gegliedert.
+In den Primärwerkstätten wurde in großen Schmelzwannen Rohglas geschmolzen, das dann an die Sekundärwerkstätten geliefert wurde, wo es in Tiegeln eingeschmolzen und verarbeitet wurde.
+In Bet Eli'ezer im heutigen Israel wurden 17 Glasschmelzwannen freigelegt, die jeweils 2 x 4 m groß sind.
+Nachdem das Gemenge in die Wanne eingelegt worden war, wurde der Ofen zugemauert und 10 bis 15 Tage lang befeuert.
+Acht bis neun Tonnen blaues bzw. grünes Rohglas wurden so in nur einem Arbeitsgang erschmolzen.
+Nach dem Feuerungsstopp und dem Abkühlen wurde das Gewölbe des Ofens abgetragen, der Glasblock herausgestemmt und das Rohglas zur weiteren Verarbeitung versandt.
+Ein Schiffswrack aus dem 3. Jahrhundert, das an der südfranzösischen Küste gefunden wurde, hatte mehr als drei Tonnen Rohglas geladen.
+In Ägypten wurden Rohglashütten gefunden, die bis ins 10. Jahrhundert reichten.
+Die Ägypter benutzten Antimon zur Entfärbung, konnten also farbloses, durchsichtiges Glas herstellen.
+
+Die Sekundärglashütten waren im ganzen Römischen Reich verbreitet und stellten Hohlglas, Flachglas und Mosaiksteine her.
+Das Rohglas wurde in einem Tiegel eingeschmolzen und mit der Pfeife im zähflüssigen Zustand aus dem Ofen genommen und verarbeitet.
+An der Pfeife konnte das Glas aufgeblasen werden, was die Herstellung von größeren Gefäßen und neuen Formen ermöglichte.
+Wurde bis dahin Glas für Perlen, Parfümfläschchen und Trinkschalen verwendet, verbreitete sich im Römischen Reich vor allem Behälterglas - im Gegensatz zu den üblichen Ton-, Holz-, Metall- oder Lederbehältnissen ist Glas geschmacksneutral - sowie Karaffen zum Kredenzen und in der Spätantike auch Trinkgläser.
+Erste Fenstergläser fanden sich in Aix-en-Provence und Herculaneum.
+Die Funde haben Größen von bis zu 80 cm x 80 cm.
+Allerdings erwähnt keine schriftliche Überlieferung das Herstellungsverfahren.
+Für das frühe, dickwandige und einseitig matte Fensterglas gibt es in der Fachwelt unterschiedliche Auffassungen zu dessen Herstellung.
+Einerseits wird eine manuelle Strecktechnik in Betracht gezogen, zum Anderen wird von einem Gussverfahren für dessen Herstellung ausgegangen.
+Für das ab dem 2. Jh. n. Chr. aufkommende, dünnwandige und beidseitig klare Fensterglas ist das Zylinderblasverfahren wahrscheinlich.
+
+Glasarmringe sind eine typische Schmuckform, die neben gläsernen Fingerringen und Ringperlen zur mittleren La-Tene-Zeit im keltischen Mitteleuropa als Frauenschmuck aufkommt und als Grabbeigabe gefunden wird.
+
+=== Mittelalter und Neuzeit
+
+Im frühen Mittelalter stellten die Germanen überall dort, wo die Römer sich zurückgezogen hatten, Glas her, das nahtlos an die schon germanisierte spätantike Formensprache anschließt.
+Man geht heute davon aus, dass für das fränkische Glas noch vorhandene römische Gläser wiederverwertet wurden.
+
+==== Waldglas
+
+Mit De diversis artibus des Benediktinermönches Theophilus Presbyter steht erstmals eine längere schriftliche Quelle zur Verfügung, die die Glasherstellung, das Blasen von Flachglas und Hohlglas sowie die Ofentechnologie beschreibt.
+Theophilus, der wahrscheinlich in Konstantinopel war, vermischte Asche von getrocknetem Buchenholz mit gesiebtem Flusssand im Verhältnis 2:1 und trocknete dieses Gemenge im Ofen unter ständigem Rühren, so dass es nicht schmelzen oder verkleben konnte, einen Tag und eine Nacht.
+Danach wurde diese Fritte in einen Tiegel gefüllt und in einer Nacht unter starker Hitze zu Glas geschmolzen.
+
+Dieser am Anfang des 12. Jahrhunderts wohl in Köln entstandene Text bildet wahrscheinlich die Grundlage für die Kirchenfenster der Gotik und auch für das Waldglas.
+Die Pflanzenasche mit allen Verunreinigungen lieferte auch einen Teil des Kalks, der für die Herstellung guten Glases nötig war.
+Um die enorme Menge an Holz, die für die Befeuerung der Öfen und für die Aschegewinnung nötig war, nicht über lange Wege befördern zu müssen, wurden die Glashütten in abgelegenen Waldgebieten angelegt.
+Diese Waldglashütten stellten überwiegend Glas her, welches durch Eisenoxid (aus verunreinigtem Sand) grünlich verfärbt war.
+
+Im 15. Jahrhundert wurde auch Blei zur Herstellung von Glas verwendet.
+
+In Georgius Agricolas De re metallica gibt es eine kurze Beschreibung der Glaskunst.
+Er hat von 1524 bis 1527 in Venedig gelebt und wohl die Insel Murano besuchen dürfen, was die detaillierten Beschreibungen der Öfen vermuten lassen.
+
+Als Rohstoff sind durchsichtige Steine genannt, also Bergkristall und "weiße Steine", also Marmor, die im Feuer gebrannt, im Pochwerk zu grobem Grieß zerstoßen und danach gesiebt werden.
+Weiter führt er Kochsalz, Magnetstein und Soda an.
+Kochsalz und Magnetstein werden von späteren Autoren als unnütz verworfen.
+Marmor und Soda gab es in Altare und in Mailand; sie sind in Deutschland nicht zu erhalten.
+Einzig eine Andeutung "salz das aus laugen dargestellt wird" weist auf ein venezianisches Geheimnis hin.
+
+Die Glasschmelzöfen der Waldglashütten und Venedigs waren eiförmige Konstruktionen mit 3 Meter Durchmesser und bis zu 3 Meter Höhe, gemauert aus mit gebrannter Schamotte versetzten Lehmziegeln.
+Im unteren Stock lag der Befeuerungsraum mit ein oder zwei halbrunden Öffnungen für den Holzeinwurf.
+In der Mitte schlugen die Flammen durch eine große runde Öffnung in den zweiten Stock, in dem die Hafenöfen standen.
+Dieser etwa 1,20 Meter hohe Raum war rundum mit 20 x 20 cm großen Ofentoren versehen, durch die das Gemenge eingelegt und das Glas entnommen werden konnte.
+Im Obergeschoss, das durch eine kleine Öffnung mit dem Schmelzraum verbunden war, lag der Kühlofen, der nur 400 °C heiß war.
+Der Kühlofen war mit einer kleinen Öffnung versehen, durch die fertige Werkstücke eingetragen wurden.
+Am Abend wurde das Loch zwischen Schmelzraum und Kühlraum mit einem Stein verschlossen, so dass das Glas über Nacht abkühlen konnte.
+
+==== Venedig
+
+Am Anfang der venezianischen Glastradition steht wohl der Handel mit byzantinischen Glaserzeugnissen, die schon im 10. Jahrhundert importiert und nach ganz Europa exportiert wurden.
+Erste Glasmacher finden sich in den Registern des 11. Jahrhunderts.
+Sie werden phiolarius ("Flaschner") genannt.
+Ein an der Südküste der Türkei havariertes Handelsschiff, das um 1025 gesunken ist, transportierte nicht weniger als drei Tonnen Rohglas, das aus Caesarea in Palästina stammte.
+Ob es für Venedig bestimmt war, lässt sich nicht mit Gewissheit sagen, ist aber naheliegend.
+Bis 1295 werden alle Glasmacher auf der Insel Murano angesiedelt und ihre Reisefreiheit per Gesetz eingeschränkt.
+Auf dieser von der Welt abgeschnittenen Insel konnte Angelo Barovier Mitte des 15. Jahrhunderts das Geheimnis der Glasentfärbung lüften und erstmals ungetrübtes, klar durchsichtiges Glas in Europa herstellen.
+Das crystallo, ein Soda-Kalk-Glas, das mit Manganoxid entfärbt war, sollte den Weltruhm des venezianischen Glases begründen.
+Die Soda wurde aus der Levante oder Alexandria importiert, ausgelaugt und versotten, bis ein reines Salz entstand.
+Als Sand wurde ein reiner Glassand aus dem Ticino oder gebrannter Marmor verwendet.
+Die Manganerze wurden wahrscheinlich von reisenden Erzsuchern aus Deutschland beschafft, die dort als Walen oder Venediger bekannt waren.
+Eine weitere venezianische Wiederentdeckung ist das lattimo (Milchglas), ein opakes weißes Glas, das mit Zinndioxid und Knochenasche getrübt war und das chinesische Porzellan nachahmte.
+
+Viele neue Techniken wurden entwickelt, insbesondere im 19. und 20. Jahrhundert.
+Den Höhepunkt erreichte die Branche in den 1950er und 1960er Jahren.
+Berühmte Techniken aus dieser Zeit sind zum Beispiel: Anse Volante, Battuto, Canna, Colorazione a caldo senza fusione, Fenicio, Incamiciato, Murrina, Oriente, Pezzato, Pulegoso, Scavo, Siderale, Sommerso, Tessuto.
+Muranoglas gilt heute als begehrtes Sammlerobjekt.
+Es werden teilweise sehr hohe Summen für seltene und besondere Stücke bezahlt.
+Berühmte historische Glasmanufakturen sind zum Beispiel Venini & C., Pauly & C., Barovier & Toso, Seguso Vetri d'Arte.
+Einige dieser Manufakturen bestehen noch heute.
+
+==== Glasperlen
+
+Die Glasperlen wurden zu einer begehrten Handelsware und breiteten sich schnell über ganz Europa aus.
+Über Jahrhunderte waren Glasperlen ein beliebtes Zahlungsmittel im Tauschhandel mit Gold, Elfenbein, Seide und Gewürzen.
+Seit einigen Jahren sind die bunten Kunstwerke begehrte Objekte für Sammler.
+
+Glasperlen aus Venedig sind die bekanntesten und begehrtesten Perlen der Welt.
+Venezianische Glaskünstler haben während mehrerer Jahrhunderte Perlenhersteller auf der ganzen Welt beeinflusst.
+Dort werden die Glasperlen über offener Flamme hergestellt.
+Es ist ein sehr zeitaufwendiges Verfahren, da jede Perle einzeln gefertigt wird.
+
+Ein Glasstab wird unter der Verwendung einer Lötlampe bis zum Schmelzen erhitzt und um einen Metallstab gewickelt, bis die gewünschte Perlenform erreicht wird.
+Auf diese Grundperle können nach und nach weitere Glasfarben aufgeschmolzen werden und unterschiedliche Dekorationselemente, wie dünne Glasfäden oder hauchdünne Glasplättchen (Confettis), aufgebracht werden.
+Dann wird die Perle sehr langsam abgekühlt und von der Stange entfernt, wodurch ein Loch entsteht, durch das die Perle später aufgefädelt werden kann.
+Diese Perlen heißen Wickelperlen.
+
+==== Fensterglas
+
+Funde von Fensterglas in Pompeji belegen, dass die Römer bereits im 1. Jahrhundert Fensterglas kannten, das beispielsweise in Thermen oder Villen zum Einsatz kam.
+Es gibt sogar vereinzelte Berichte von gläsernen Gewächshäusern.
+Meist handelte es sich um rechteckige Platten von ca. 20 cm x 30 cm bis zu 80 cm x 80 cm Größe und einer Stärke von 3 bis 5 mm, die eine glatte Seite und eine raue Seite aufweisen.
+Ab dem 2. Jh. n. Chr. scheint beidseitig glattes, dünnwandiges Fensterglas das dickwandige und aufgrund seiner rauen Seite nur mäßig transparente Fensterglas zu verdrängen, welches im archäologischen Befund oftmals schwer von Gefäßglas und rezentem Glas zu unterscheiden ist.
+Dieses dünnwandige Fensterglas ist wahrscheinlich im Zylinderblasverfahren entstanden.
+Zu einer breiteren Verwendung kommt es mit der aufkommenden Gotik im 12. Jahrhundert.
+
+Bei dem Mondglasverfahren, das bereits im vierten Jahrhundert im vorderen Orient belegt ist und später breite Anwendung in Frankreich fand, wird ein Glastropfen mit der Glasmacherpfeife zu einer Kugel vorgeblasen.
+Die heiße Glaskugel wird auf der gegenüberliegenden Seite an einem Metallstab befestigt, und die Glasmacherpfeife abgesprengt.
+Die Kugel hat nun ein Loch, dessen Ränder nach außen gestülpt werden.
+Zur weiteren Verarbeitung wurde die Kugel wieder auf Temperatur gebracht.
+Bei ca. 1000 °C war das Glas weich genug, um mittels Zentrifugalkraft in Tellerform geschleudert zu werden.
+Die Kugel öffnete sich um das Loch, an dem vorher die Pfeife befestigt war.
+Durch diese Technik wurden Glasplatten von ca. 1,20 m Durchmesser erzeugt.
+Anschließend wurde der äußere Rand zu Rechtecken geschnitten.
+Diese fanden Verwendung als z. B. Kirchenglas mit Bleieinfassungen.
+Das Mittelstück mit der Anschlussstelle des Schleuderstabs heißt Butze und wurde für Butzenscheiben von 10 bis 15 cm Durchmesser verwendet.
+
+Das Walzglasverfahren wurde zum ersten Mal 1688 in Saint-Gobain, der Keimzelle des heutigen gleichnamigen Weltkonzerns, dokumentiert.
+Geschmolzenes Glas wird auf den Walztisch gegossen, verteilt und schließlich gewalzt.
+Im Gegensatz zu den vorher genannten Verfahren wurde hier eine gleichmäßige Dicke erreicht.
+Auch waren erstmals Scheibengrößen von 40 x 60 Zoll möglich, was für die Produktion von Spiegeln genutzt wurde.
+Probleme bereitet jedoch die ungleichmäßige Oberfläche.
+Fensterglas dieses Herstellungsverfahrens ist oft blind und Spiegelglas nur durch aufwendiges kaltes Polieren zu erzielen.
+
+=== Industrialisierung und Automatisierung
+
+Die Industrialisierung und Automatisierung der Glaserzeugung setzte schrittweise im 19. Jahrhundert ein.
+Zunächst wurden einzelne Verfahrensabschnitte optimiert.
+So wurden 1847 durch Joseph Magoun Metallformen in der Hohlglasproduktion eingeführt, welche die bis dahin hauptsächlich genutzten Holzformen ersetzten.
+1856 entwickelte Friedrich Siemens den ersten Glasofen mit Regenerativfeuerung, was 1867 zum ersten kontinuierlichen Wannenofen ebenfalls durch Friedrich Siemens führte.
+Die regenerative Befeuerung ermöglichte erhebliche Energieeinsparungen und zugleich eine verbesserte Temperaturführung in der Glasschmelzwanne.
+Wenig später, im Jahr 1884, gründeten Ernst Abbe und Otto Schott in Jena ein Glaswerk für optische Spezialgläser.
+
+==== Flachglas
+
+Im Jahr 1905 entwickelte der Amerikaner John H. Lubbers ein Verfahren zur Flachglasherstellung, wobei er den manuellen Prozess des Zylinderblasverfahrens im industriellen Maßstab umzusetzen versuchte.
+Dabei wurden Zylinder direkt aus der Schmelz gezogen, diese konnten einen Durchmesser von 80 cm erreichen und waren bis zu 12 m hoch.
+Der Zylinder wurde anschließend aufgeschnitten und geplättet.
+Das Verfahren war jedoch sehr umständlich, insbesondere das Umlegen der Zylinder in die Horizontale bereitete Schwierigkeiten.
+
+Ein Patent zur verbesserten Flachglasproduktion sollte 1902 von Emile Fourcault folgen.
+Das nach ihm benannte Fourcault-Verfahren zur Ziehglasherstellung.
+Das Glas wird dabei kontinuierlich als Glastafel durch eine Düse aus der Schmelze senkrecht nach oben gezogen.
+Das Flachglas wurde somit ohne Umweg über einen Zylinder erzeugt.
+Nach dem Hochziehen durch einen senkrechten Kühlkanal auf ca. 8 m Höhe kann gekühltes Flachglas am oberen Ende zugeschnitten werden.
+Durch Variation der Ziehgeschwindigkeit konnte die Glasdicke eingestellt werden.
+Das Fourcault-Verfahren kam ab 1913 zum Einsatz und bedeutete eine große Verbesserung.
+
+Ein ähnliches Verfahren ließ der Amerikaner Irving Wightman Colburn 1904 patentieren.
+Das Glasband wurde ebenfalls senkrecht aus der Schmelz gezogen, aber zur besseren Handhabung über eine Umlenkrolle in einen horizontalen Kühlkanal umgeleitet.
+Mit einer eigenen Fabrik wurde bis 1912 versucht, das Verfahren zu beherrschen, blieb aber letztlich erfolglos, so dass Insolvenz angemeldet wurde.
+Das Patent ging an die Toledo Glass Company.
+1917 kam das nunmehr sogenannte Libbeys-Owens-Verfahren zur industriellen Anwendung.
+Die Vorteile gegenüber dem Fourcault-Verfahren lagen in der einfacheren Kühlung.
+Hingegen konnten bei jenem mehrere Ziehmaschinen an einer Glasschmelzwanne arbeiten.
+Da der Kühlofen beliebig lang sein konnte, erreichte dieses Verfahren etwa die doppelte Produktionsgeschwindigkeit.
+In der Folgezeit existierten beide Verfahren parallel.
+1925 verbesserte die Plate Glass Company die Vorteile der Verfahren von Fourcault und Colburn; sie erzielte mit dem Pittsburg-Verfahren dadurch eine deutliche Steigerung der Produktionsgeschwindigkeit.
+
+Dem Deutschen Max Bicheroux gelang 1919 der entscheidende Schritt bei der Gussglasherstellung.
+Im Gegensatz zu den bisher genannten Verfahren wurde hier keine Glastafel aus der Schmelze gezogen, sondern die flüssige Glasmasse wurde dabei zwischen gekühlten Walzen zu einem Glasband geformt.
+Im noch erwärmten Zustand wurde das Glasband zu Tafeln geschnitten und in Öfen abgekühlt.
+Mit diesem Verfahren konnten Scheiben bis zu 4,5 m Breite hergestellt werden.
+Ein ähnliches Verfahren wurde 1921 von Pilkington und dem Fahrzeugfabrikanten Ford zur kontinuierlichen Herstellung von Automobilglas als Walzglas entwickelt.
+Dieses Verfahren lieferte allerdings geringere Breiten als das von Bicheroux.
+
+Die Firma Pilkington bewältigte in den 1960er Jahren als erste die technischen Probleme der Floatglasfertigung, wobei die Glasschmelze auf ein Bad aus flüssigem Zinn gegossen wurde.
+Dieses Prinzip revolutionierte die Flachglasfertigung, da es eine sehr hohe Produktivität aufwies und die Spiegelglasherstellung ohne weitere Nachbearbeitungsschritte ermöglichte.
+In den 1970er Jahren wurde dieses Verfahren allgemeiner Standard und verdrängte die Übrigen nahezu vollkommen.
+Das Verfahren basiert auf einer Idee von Henry Bessemer, die William E. Heal bereits 1902 zum Patent angemeldet hatte.
+
+==== Hohlglas
+
+Im frühen 19. Jahrhundert wurden neue mechanische Hilfsmittel zum Blasen der Gläser benutzt.
+Es wurden Formen benutzt, die ein zu erzeugendes Relief als Negativ aufwiesen.
+Durch den Blasdruck wird das Glas an die Form gedrückt und das Werkstück erhält so seine Gestalt.
+Allerdings ist die Lungenkraft des Glasmachers nicht ausreichend hoch für tiefere Reliefs, so dass mechanische Hilfsmittel eingeführt wurden.
+Durch den Einsatz von Luftpumpen wurde genügend Druck erzielt.
+
+Eine weitere Neuerung in der Mitte des 19. Jahrhunderts war die Einführung von Metallformen.
+Erstmals 1847 ersetzten die von Joseph Magoun entwickelten Formen die alten aus Holz, was deren Haltbarkeit beträchtlich erhöhte.
+
+Die erste halbautomatische Flaschenblasmaschine entwickelten die Briten Alexander Mein und Howard M. Ashley in Pittsburg im Jahr 1859.
+Doch noch immer waren manuelle Arbeitsschritte vonnöten.
+
+Ein Meilenstein war die 1903 von Michael Joseph Owens eingeführte Owens-Maschine als erste vollautomatische Glasmaschine überhaupt.
+In einem in der Schmelze eingetauchten Speiser wird ein Vakuum erzeugt und so die benötigte schmelzflüssige Glasmenge exakt aufgenommen.
+Der Arm des Speisers schwenkt zurück und drückt den Tropfen in die Form.
+Mit Pressluft wird der Tropfen in die Metallform geblasen und das Werkstück erhält seine endgültige Gestalt.
+Diese Technik heißt Saug-Blas-Verfahren.
+Damit war es möglich, die zu dieser Zeit enorme Menge von vier Flaschen pro Minute zu produzieren.
+
+Trotz dieser Errungenschaft blieben maschinell geblasene Flaschen noch viele Jahre schwerer als mundgeblasene.
+Um die Glasmacher zu übertreffen, mussten die Maschinen noch sehr viel genauer arbeiten.
+So ist auch zu erklären, dass die verschiedenen Produktionsverfahren noch lange parallel betrieben wurden.
+
+Wesentliche Verbesserungen der Tropfenentnahme durch den Tropfenspeiser von Karl E. Pfeiffer im Jahre 1911 führten ebenfalls zu einer Steigerung der Produktivität.
+Die Portionierung der Glasmasse erfolgte nicht mehr durch Abschöpfen oder Saugen einer Menge Glas von der blanken Schmelzoberfläche, sondern indem ein Tropfen durch eine Öffnung am Ende des Feeders (Speiserkanals) abläuft.
+Durch die genauer mögliche Dosierung der Glasmenge konnten gleichmäßigere Flaschen gefertigt werden.
+
+1924 wurde die IS-Maschine von den Namensgebern Ingle und Smith patentiert, die erste industrielle Anwendung folgte wenige Jahre später.
+Diese Maschine, die die Vorteile des Tropfen-Verfahrens erst richtig nutzt, arbeitet nach dem Blas-Blas-Verfahren.
+Ein Tropfen wird in eine Metallform geleitet und vorgeblasen.
+Der vorgeformte Tropfen wird in eine zweite Form geschwenkt, in der das Werkstück fertig geblasen wird.
+
+Erste Anwendungen des neuen Verfahrens folgten wenige Jahre später.
+Die erste Maschine von 1927 hatte vier Stationen:
+Ein Feeder beschickte eine Maschine und diese konnte parallel vier Flaschen fertigen.
+Das Prinzip des Blas-Blas-Verfahrens ist auch heute noch in der Massenfabrikation gültig.
+
+==== Rohrglas
+
+Glasrohre wurden bis ins 19. Jahrhundert ebenfalls (mundgeblasen) ausschließlich diskontinuierlich aus einer Charge oder einem Glasposten hergestellt.
+Die industriellen Prozesse zur Glasrohrerzeugung werden in Verfahren mit rotierender Pfeife und Ziehverfahren mit Düsen unterteilt.
+Letztere können weiter unterteilt werden in Varianten, bei denen das Glasrohr senkrecht nach unten oder oben aus der Schmelze gezogen wird.
+1912 entwickelte E. Danner (Libbey Glass Company) in den USA das erste kontinuierliche Röhrenziehverfahren, worauf 1917 ein Patent erteilt wurde.
+
+Beim Danner-Verfahren fließt eine Glasschmelze als Band auf einen schräg nach unten geneigten, rotierenden keramischen Hohlzylinder - die Dannerpfeife.
+Nach Zuführung von Druckluft über das Innere der Pfeife gelingt das Abziehen des sich bildenden Glasrohres in Richtung der Pfeifenachse.
+Die Ziehgeschwindigkeit des Rohrs sowie Höhe des Drucks der zugeführten Luft bestimmen hierbei die Rohrdimension.
+
+In Frankreich wurde 1929 von L. Sanches-Vello ein vertikales Ziehverfahren ausgearbeitet.
+Dabei handelt es sich um ein senkrechtes Rohrziehverfahren.
+Die Schmelze wird durch eine Düse im Boden der Schmelzwanne nach unten gezogen und kurz darauf in die Horizontale umgeleitet.
+
+Für die Produktion von Rohrglas existieren eine Reihe weiterer Verfahren, die aber alle nach sehr ähnlichen Prinzipien arbeiten.
+
+== Märkte für Glas
+
+Glas ist ein vielseitiges Material, das in vielen Bereichen des täglichen Lebens zum Einsatz kommt.
+So spielt Glas eine wichtige Rolle in Forschung und Wissenschaft, in der modernen Architektur sowie in Zukunftsbranchen.
+Kernbereiche, in denen Glas eingesetzt wird, sind: Bauindustrie, Ernährungs- und Getränkeindustrie, Kraftfahrzeugindustrie, Elektro(nik)industrie, Haushalt und Gastronomie, Medizin, Forschung und Wissenschaft, Chemie, Pharmazie, Kosmetik, Möbelindustrie und Innenausbau, Kunststoff- und Textilindustrie.
+
+== Kunsthandwerk und Glaskunst
+
+=== Ägypten
+
+Das Glashandwerk im pharaonischen Ägypten lässt sich bis an den Beginn der 18. Dynastie zurückverfolgen; zunächst handelt es sich dabei um Kleinfunde wie Perlen, Amulette oder Kettenglieder sowie farbigen Einlagen in den typischen ägyptischen Schmuckobjekten (z. B. Pektorale).
+Diese sind meist in Türkis oder Dunkelblau gehalten, da sie solche Objekte aus Lapislazuli oder Türkis imitieren sollten; dies galt nicht als billiger Schmuck, sondern die Imitation dieser edlen, hoch machtgeladenen Steine galt als besondere Kunst.
+Das Verfahren war für die damalige Zeit sehr aufwändig und man arbeitete solche Kleinfunde aus Rohglasstücken, ganz und gar vergleichbar mit solchen aus Stein.
+Dafür spricht auch, dass ein ägyptisches Wort für "Glas" so nicht existierte; es hieß künstliches Lapislazuli bzw. künstliches Türkis im Gegensatz zum wahren/echten Türkis bzw. Lapislazuli.
+In der Ersten ägyptischen Glaskunstblüte (18. bis 20. Dynastie) traten stabgeformte Gefäße auf (die auch kerngeformt genannt werden, nach der Sandkerntechnik).
+Sie gehen auf Vorbilder zeitgenössischer Gefäße, insbesondere solchen aus Stein, zurück.
+Typische Formen ägyptischer Glasgefäße sind Lotoskelchbecher, Granatapfelgefäße, Krateriskoi und Schminkgefäße wie Kohltöpfe und Kohlpalmsäulchen (für schwarze Augenschminke, sprich "kochel").
+Seit Thutmosis III., aus dessen Regierungszeit auch die ältesten Hohlglasfunde stammen, treten auch Importgefäßformen aus dem Mittelmeergebiet hinzu (z. B. Amphoriskoi, Linsenflasche, Henkelflasche, Bilbils und andere Sonderformen); diese werden allgemein in das Spektrum der Gefäßformen eingeführt und betreffen somit auch Gefäßformen aus Keramik und Fayence beispielsweise.
+Die älteren kerngeformten Gefäße (etwa in der Zeit Thutmosis' III. bis Amenophis III.) sind meistens türkis bis kräftig blau (wie der echte Türkis und Lapislazuli, denn Glas galt als Imitation dieser edlen Steine).
+Später, besonders in der Ramessidenzeit, wurden Gläser in hellen, kräftigen Farben wie Gelb und Grün, Weiß aber auch Braun beliebt.
+Als Dekor entstanden Fadenverzierungen in Zickzack- oder Girlandenform in Gelb, Weiß, und Hellblau sowie tordierte Fäden im Hell-Dunkel-Kontrast, manchmal wurden sie auch monochrom belassen und nur die Henkel oder Schulterumbrüche durch Fadenzier betont.
+Die ägyptischen Glasgefäße dienten der Aufbewahrung von Kosmetika wie Salben, Ölen, Parfümen und Augenschminke.
+Das stark gefärbte, undurchsichtige Glas wirkte konservierend.
+
+In der Spätzeit (ab der 3. Zwischenzeit bis zur Griechischen Epoche) blieb das Hohlglashandwerk unterrepräsentiert, nur gelegentlich kamen Hohlgläser vor, weiterhin in Form von kleinen meist unverzierten Salbgefäßen.
+Dagegen waren Glaseinlagen in Schmuck oder Figuren nicht selten und wurden wie zuvor den Edelsteinen gleichrangig behandelt.
+In der hellenistischen Zeit gewann die Glasproduktion wieder an Bedeutung, auch in Ägypten.
+Zusammen mit neuen Herstellungstechniken trat eine völlig neue Formenwelt auf, ist aber nicht für Ägypten, sondern eher zeittypisch.
+Bereits im 5. Jahrhundert v. Chr. hatte sich Rhodos als wichtiges Zentrum der Glasherstellung etabliert.
+Neben Intarsien und Perlen fanden sich nun vielfarbige Mosaikschalen und die Gefäße der Canossa-Gruppe.
+
+=== Römisches Reich
+
+Im 1. Jahrhundert stieg die Glasproduktion derart, dass das vormals rare und teure Material für weite Kreise erschwinglich wurde.
+Eine umfangreiche Produktion von Trinkgefäßen, Krügen, Schalen und Tellern setzte ein, anfangs meist manuell geformt oder abgesenkt, dann zunehmend mundgeblasen.
+Eine Vielzahl hochwertiger Spezialgläser beweist handwerkliche Meisterschaft, so die Mosaik-Fadengläser, Kameogläser, Goldfoliengläser, Gläser mit Emailmalerei und besonders die Diatretgläser, meist glockenförmige, prunkvolle Leuchtgefäße in Netzglastechnik, die bis heute wegen ihrer künstlerischen Qualität bewundert werden.
+Eines der berühmtesten römischen Gläser ist der im Besitz des Britischen Museums befindliche Lykurgosbecher aus dem 4. Jahrhundert, an dem eine dreidimensionale figurative Darstellung angebracht ist, die im Gegenlicht rot und im Auflicht opak-gelbgrün erscheint.
+
+=== Venezianisches Glas
+
+Venedig etablierte ab der Hälfte des 15. Jahrhunderts seinen internationalen Ruf als exquisiter Glashersteller mit der "Erfindung" des cristallo.
+Diese Neuerung beruht auf der Einführung eines vorgelagerten Prozesses bei der HErstellung des vitrum blanchum, bei dem aus der Levantine-Asche unerwünschte Stoffe wie Eisen, die das Glas verunreinigten, entfernt wurden.
+Diese Weiterentwicklung geht auf den Muraneser maestro Angelo Barovier zurück.
+Um diese Zeit entstand beispielsweise die in ausnahmslosem Zustand erhaltene Coppa Barovier und die Flasche mit den Wappen der Familie Bentivoglio und Sforza, heute im Museo Civico in Bologna (2. Hälfte 15. Jahrhundert).
+Zu den aus dem 16. Jahrhundert erhaltenen Meisterwerken gehören ein emaillierter Kelch (ca. 1510), der 1902 unter dem eingestürzten Turm von San Marco gefunden wurde (heute im Museo del Vetro, Murano) und Handwaschgefäße in Form eines Schiffes aus durchsichtigem und blauem Glas (heute im Museo del Vetro, Murano).
+Über die Variationsbreite der venezianischen Renaissance-Gläser, ihre Formen und Dekore geben vor allem Gemälde aus naher Umgebung Venedigs, aber auch niederländische und flämische Stillleben Auskunft.
+Es handelt sich größtenteils um Becher, Schalen, Kannen und Flaschen, die aus hohl geblasenen Balustern zusammengesetzte Schäfte mit flachen Füßen hatten.
+Diese Schäfte wurden an dem späten 17. Jahrhundert immer ausgeklügelter, Flügel wurden in phantasievollen Ornamenten und figürlichen Dekorationen angesetzt, manchmal war auch der Schaft in figürlicher, beispielsweise in Tiergestalt ausgeführt.
+
+Für die Wandung gab es besondere Veredelungstechniken.
+Beim Eisglas (ital. ghiaccio) hergestellt durch Abschrecken in eiskaltem Wasser oder durch Rollen über kleine Splitter, wird auf der Oberfläche ein Effekt wie bei einem durch Eisblumen überzogenen Fensterglas erzielt.
+Beim Faden- oder Netzglas (italienisch latticinio / vetro a filigrano / reticello) - wurden Milchglas-Fäden in die klare Glasmasse eingeschmolzen und die so erhaltenen Glasstäbe durch Applizieren auf einen geblasenen Glaskörper so verwoben, dass ein faden- bzw. netzartiges Muster entstand.
+Diese Technik war in Ansätzen schon in der Antike bekannt, erlebte jedoch während des 17. und 18. Jahrhunderts ein Revival in Venedig, mit dem die Republik mit starken Konkurrenten aus Frankreich, England und Böhmen konkurrieren sollte.
+Dem Gusto des Barock entsprechend, wurde mit üppiger Transparenz gearbeitet - weniger mit Farben, stattdessen aber auf vielfältige Texturen (z. B. battuto) gesetzt und vor allem pflanzliche Motive in Glas nachgeahmt (Blumen, Bäume etc.).
+Einer der herausragendsten Künstler dieser Zeit war Giuseppe Briarti, der eine Reihe bemerkenswert aufwendiger Lüster sowie Tischaufsätze schuf.
+Nach der Auflösung der Gilden um 1800 durch Napoleon, beeinflusst durch die starke ausländische Konkurrenz, erlebte die Glaskunst einen Untergang in Venedig.
+Um 1850 wurde sie durch Nachkommen der berühmten Glasmacher-Familien wieder zum Leben gebracht.
+Alte Rezepte wurden wiederentdeckt und verbessert.
+Die Skills der alten Meister übte man vorrangig durch Kopieren der eigenen Produktion aus der Frühen Neuzeit (es entstanden beispielsweise einige Kopien der Flasche der Bentivoglio, der Coppa Barovier und des Klechs von San Marco bei Venice and Murano Company/ Salviati & Co.).
+Aber auch antike Glasformen wurden vielfach nachgeahmt, beflügelt durch neuste archäologische Entdeckungen.
+Dabei wurden nicht nur Gefäßtypen und Dekorationen/ Techniken wie z. B. das Cameo nachgeahmt, sondern auch der Zustand der Funde.
+Mit avventurina-Glas imitierte man z. B. die Oxidation und Anlagerung von Sediment auf antiker Keramik.
+
+Als Glas a la facon de Venise fand der venezianische Stil trotz aller Versuche der Republik Venedig, ihre Kunst geheim zu halten, Zugang in die Länder nördlich der Alpen.
+
+=== Schmucktechniken im Barock und Rokoko
+
+Barockes Schnittglas (und Rokoko-Glas) vornehmlich aus Böhmen und Schlesien, aber auch Nürnberg, Brandenburg und Sachsen, seltener Thüringen, Hessen, Norddeutschland und den Niederlanden lief ab dem 18. Jahrhundert venezianischem Glas den Rang ab, da deren Glas für den Glasschnitt und Glasschliff aufgrund seiner Dünnwandigkeit nicht geeignet war.
+
+Die Formen mit Fuß, Baluster-Schaft und dünnwandiger Kuppa ähnelten dem farblosen venezianischen Glas, jedoch ohne Flügel und wiesen eine stärkere Wandung auf.
+In Potsdam, Schlesien, Böhmen, Kassel und anderen Gebieten experimentierte man mit den Rezepten von Glas, um eine Masse herzustellen, die den Schliff und Schnitt erlaubte.
+Die Themen des Schnittes waren vielseitig.
+Jagdszenen waren häufig, Landschaften, aber auch allegorische Figuren mit Beischriften, Blumen- und Blattornamente sowie zeitgenössische Persönlichkeiten und Schlachtenszenen.
+
+Bereits im 17. Jahrhundert signierten Glasschneider vereinzelt ihre Werke und auch aus dem 18. Jahrhundert sind Glasschneider bekannt, etwa: Christian Gottfried Schneider und Friedrich Winter prägten den Glasschnitt Schlesiens wie Martin Winter und Gottfried Spiller denjenigen von Potsdam, Johann Christoph Kießling arbeitete für August den Starken, Franz Gondelach stand im Dienst des Landgrafen Carl von Hessen und David Wolff arbeitete in den Niederlanden.
+
+Gelegentlich weisen die barocken Schnittgläser Vergoldungen an Fuß, Schaft oder am Lippenrand auf.
+Im 18. Jahrhundert waren auch die Zwischengoldgläser beliebt.
+Für deren Herstellung wurden zwei Gläser verwendet, wobei eines passgenau in das Zweite, daher größere Glas, passte.
+Auf die Außenwand des inneren Glases wurde eine Goldfolie aufgelegt und mit einer Radiernadel Motive darin eingeritzt.
+Dann wurde es in das zweite Glas eingepasst und weiterverarbeitet.
+
+Von der Porzellanmalerei her kam die Technik der Schwarzlotmalerei, die in anderem Zusammenhang bereits im Mittelalter bekannt war.
+Johann Schaper und Ignaz Preissler prägten diese Kunst in Nürnberg und Schlesien, Böhmen und Sachsen.
+
+Eine rurale Veredelungstechnik barocken Glases ist die Emailmalerei.
+Sie findet sich vor allem an Gebrauchsglas in ländlichen Gegenden (z. B. Bierhumpen der Schützenvereine und Schnapsflaschen).
+Passend zur Provenienz sind die Motive: Bauer mit Vieh und Ackergerät, Wirtshausszenen, Spielkarten, Sinnsprüche.
+In Böhmen entsteht die Emailmalerei auch auf opakem Milchglas, was diese Technik in die Nähe der Porzellanmalerei rückt.
+
+=== Biedermeierglas
+
+Die Engländer übernahmen im 18. Jahrhundert die Arten und Formen der böhmischen Gläser und beherrschten mit Hilfe der Reinheit ihres Bleikristalls, dessen hervorragende lichtbrechende Eigenschaften durch den Brillantschliff wirkungsvoll zur Geltung kamen, Anfang des 19. Jahrhunderts schließlich den zu der Zeit von klassizistischen Geschmacksvorstellungen geprägten Markt.
+Um den Vorsprung der Engländer wettzumachen, bemühten sich die böhmischen Glasfabrikanten um größere Reinheit ihres bleifreien Kristallglases.
+Zugleich nutzten sie alle Möglichkeiten des Musterschliffes für abwechslungsreiche Dekore und versuchten vor allem auch, billiger zu produzieren.
+Das Ergebnis dieser Anstrengungen lässt sich an den meisterlich geschliffenen Biedermeiergläsern ablesen, die als bewundernswerte Beispiele kunsthandwerklichen Glasschliffs gelten.
+
+In den 1830ern erreichte der Biedermeierstil seinen Höhepunkt.
+Um Produktion und Absatz auszuweiten, bereicherten die Glashütten nach 1840 ihr Angebot mit dem neuentwickelten Farbglas und verdrängten damit das farblose Glas mehr und mehr vom Markt.
+Besonders die nordböhmischen Glashütten gestalteten ihre Gläser in immer wirkungsvollerer Farbigkeit.
+Im Zuge dieser Entwicklung verlor jedoch der Glasschliff gegenüber der Buntheit der Dekore an Bedeutung, Form und Schliff wurden nicht zuletzt aus Kostengründen zunehmend einfacher.
+
+Die Mannigfaltigkeit der aus Farbglas und überfangenem bzw. gebeiztem (siehe Rotbeize) Kristallglas mit Schnittdekor sowie aus Steinglas (Lithyalinglas und Hyalithglas, das mit Gold, Email- und Transparentfarben bemalt wurde) hergestellten Produkte erreichte schließlich ein bis dahin nicht gekanntes Ausmaß.
+Gängig waren zum Beispiel Trinkgläser und Karaffen aus buntem Glas, ganze Likör- und Dessertservice, Garnituren für Kommoden und Waschtische, Schreibzeuge und Parfümflakons, Schalen, Teller, Tafelaufsätze, und vor allem Vasen.
+Hinzu kamen die unzähligen Andenken- und Freundschaftsgläser, Dekorations- und Ehrenpokale, außerdem Exportartikel wie Wasserpfeifen und Sprenggefäße für Rosenwasser.
+
+=== Jugendstilglas
+
+Um 1900 waren sich die Gestalter der jungen Generation einig in ihrer Abkehr vom überkommenen Historismus.
+Für das daraus resultierende kunstgewerbliche Streben nach neuen, frischen, originellen Ausdrucksformen auf der Basis alter handwerklicher Techniken bürgerte sich im deutschsprachigen Raum, den Niederlanden und den Nordischen Ländern der Begriff Jugendstil ein, während sonst die Bezeichnung Art nouveau gebräuchlich ist.
+Die Fantasie der Jugendstil-Künstler wurde vor allem von der Farben- und Formenwelt des fernen Ostens beflügelt.
+So sind die wesentlichen Teile oder Elemente des Jugendstils durch dekorativ geschwungene Linien sowie flächenhafte florale Ornamente und Asymmetrie gekennzeichnet.
+
+Glas nahm in der Entwicklung des Jugendstils eine zentrale Rolle ein.
+Der Grund dafür ist in den gestalterischen Möglichkeiten zu suchen, die dem angestrebten organischen Wesen der Formgebung entgegenkamen.
+Die Zusammenarbeit von Designern und Handwerkern brachte fantasievolles, in limitierten Auflagen von Hand hergestelltes Atelierglas hervor, das durch die Vielfalt der Farbeffekte besticht.
+Französische Glasmacher wie Emile Galle und die Daum Freres schufen geschnittenes und geätztes Überfangglas in kräftigen Farben.
+Das böhmische Jugendstilglas hat seinen guten Ruf vor allem Max Ritter von Spaun, Besitzer der Firma Joh.
+Loetz Witwe in Klostermühle in Böhmen, zu verdanken.
+Von jenseits des Großen Teiches, aus New York, kamen das irisierende Glas und die berühmten, in Europa als beispielhaft angesehenen Kreationen von Louis Comfort Tiffany.
+
+Der konstruktive Stil, der bestrebt war, alle Formen mit Hilfe einfachster Gebilde wie Quadrat, Rechteck, Kreis und Ellipse zu gestalten und starke Farbgegensätze zu verwenden, wurde am konsequentesten von der Wiener Schule verfolgt.
+Ihre führenden Repräsentanten waren Josef Hoffmann und Koloman Moser.
+
+Mit den wachsenden wirtschaftlichen Schwierigkeiten in der Zeit des Ersten Weltkrieges ging die Ära des Jugendstils zu Ende.
+Sie währte knapp zwanzig Jahre, ihre Auswirkungen sind jedoch weiterhin spürbar.
+
+=== Fusing
+
+Beim Fusing (dt. Verschmelzung) oder Fusen (neudeutsch für Glasverschmelzung) werden verschiedene (weiße oder farbige, eventuell mit Glasschmelzfarbe bemalte) Glasstücke bei 780-900 °C miteinander verschmolzen.
+Die Schmelztemperatur ist von Zusammensetzung und Dicke der Gläser abhängig.
+Temperaturbeständige Gegenstände, wie etwa Metalle, können mit eingeschmolzen werden.
+
+Fusing ist in seinen Grundlagen, nach bisherigem archäologischem Wissensstand, ein mindestens 2200 Jahre altes Glasverarbeitungsverfahren.
+In den letzten Jahrzehnten wurde es zu einer der vielseitigsten und technisch anspruchsvollsten Glasverarbeitungstechniken weiterentwickelt.
+Viele Glasereien und künstlerische Glasstudios können Glas nach der Fusing-Technik verarbeiten.
+Das Verfahren wird in großer Variationsbreite eingesetzt:
+Von Modeschmuck und der Dekoration von Gegenständen bis hin zu Kunstobjekten (z. B. in Murrine- und Millefiori-Technik), großen künstlerisch gestalteten Fenstern und anderen Glaselementen in Architektur und Innenarchitektur.
+
+Folgende Grundvarianten des Fusing werden unterschieden:
+
+Konventionell handwerklich kann Fusing folgendermaßen ablaufen:
+Aus verschiedenfarbigen Glasplatten werden passende Teile mit einer besonderen Zange abgezwickt oder mit einem Glasschneider abgeschnitten.
+Die Glasstücke setzt der Glaskünstler dem Entwurf entsprechend zusammen, beispielsweise als Muster für den Rahmen eines Spiegels oder für die Herstellung einer Glasschüssel.
+Zwischenräume werden oft mit Glaspulver aus zerstampften Glasplatten ausgefüllt.
+Nun werden die Stücke in einem Glasfusingofen verschmolzen.
+Die Temperaturen werden so gewählt, dass das Glas noch nicht als Flüssigkeit verläuft, alle Glasteile und Partikel aber eine dauerhafte Verbindung eingehen.
+Bei entsprechender Temperaturführung kann ein vollkommen geschlossener und harter Glaskörper hergestellt werden.
+Dieser Brennvorgang dauert, abhängig von Dicke und Durchmesser des Glases, etwa 18 bis 22 Stunden.
+
+Der Glaskörper wird zunächst zu einer flachen Platte verschmolzen, die bei Bedarf in einem zweiten Arbeitsgang in einem Glasschmelzofen weiter geformt wird, z. B. wenn daraus eine Glasschüssel entstehen soll.
+Dazu werden Trägerformen oder Modelle verwendet, die oft aus Ton oder unglasierter Keramik bestehen.
+In konkave Modelle kann sich die erhitzte Glasplatte absenken und über konvexe Modelle kann sie sich aufbiegen.
+Die Form muss etwas größer als die Glasplatte sein, da Glas sich bei Erwärmung ausdehnt und beim Abkühlen zusammenzieht.
+Auf die entstandenen Objekte können nach dem Abkühlen Glasveredelungstechniken angewendet werden:
+Gravieren, Glasmalen, Schleifen, Sandstrahlen oder Ätzen.
+
+Eine fortgeschrittene Anwendung des Verfahrens ist die Herstellung großer selbsttragender Glasscheiben oder Glasobjekte, die beispielsweise als Gegenwartskunst oder als Kirchenkunst künstlerisch kontrolliert gestaltet werden können.
+Dafür werden auch industriell hergestellte Glasbruchstücke (Fritten) und Glaspulver aus farblosen und farbigen Gläsern verwendet.
+Beispiele für Fusingtechnik in der Glaskunst schafft die Künstlerin Ulrike Umlauf-Orrom.
+
+Die Herstellung derartiger Fusing-Stücke setzt künstlerisches Talent und die Kenntnis der Verfahrenstricks voraus.
+So müssen die zusammengeschmolzenen Gläser den gleichen Ausdehnungskoeffizienten (AKW) haben und die Erhitzung und Abkühlung des Glases muss genau kontrolliert bestimmten Temperaturkurven folgen.
+Andernfalls können im Glas mechanische Spannungen entstehen, die es zerreißen oder zerspringen lassen.
+Große Fusing-Stücke können daher nur in einem Flachbett in digital gesteuerten Brennöfen hergestellt werden.
+
+Besonders fortgeschrittene Glaskünstler verwenden Glasöfen der Bauart Glory Hole, weil sie es gestatten, kleinere Glasmassen direkt in verschiedenen angeschmolzenen oder nahezu flüssigen Zuständen künstlerisch zu bearbeiten.
+Glas wird dabei immer wieder für einen neuen Arbeitsgang durch das Loch in der Ofenwand gehalten und aufgeheizt, um es dann außerhalb des Ofens bearbeiten zu können.
+
+Zur ebenso direkten Bearbeitung dienen Öfen mit ausziehbarem Flachbett.
+Das im Flachbett liegende Glas wird auf Bearbeitungstemperatur gebracht und dann für kurze Zeit aus dem Ofen hervorgezogen.
+Unter Beachtung der richtigen Verfahren und Vorsichtsmaßnahmen werden dann beispielsweise Chemikalien, Metallstaub oder farbige Glaspulver auf das angeschmolzene oder geschmolzene Glas gebracht.
+Besondere Kenntnisse setzt es voraus, mit Werkzeugen direkt gestalterisch in diese Glasmasse einzugreifen.
+
+Eine weitere neue Variante ist die Pate-de-Verre-Herstellung großformatiger Glasplastiken.
+
+== Siehe auch
+
+=== Glasarten und Verwandtes
+
+=== Herstellung
+
+=== Medizin
+
+In der Medizin werden Implantate mit einer Glasbeschichtung versehen um eine Abstoßung vom Organismus zu unterdrücken.
+Je nach Zusammensetzung kann die Biokompatibilität angepasst werden.
+Bioglas mit der Bezeichnung 45S5 steht für 45 gewichts % SiO2 und einem molaren Verhältnis von 5:1 von Calcium zu Phosphor.
+
+=== Spezifika
+
+=== Sonstiges
+
+== Literatur
+
+=== Glaschemie
+
+=== Glasherstellung und Glastechnik
+
+=== Geschichte der Glasherstellung
+
+=== Kunsthandwerk und Glaskunst
+
+=== Restaurierungen historischen Glases
+
+== Weblinks
+
+== Anmerkungen
+

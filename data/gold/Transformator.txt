@@ -1,0 +1,21 @@
+Ein Transformator wird dazu verwendet, um elektrische Spannungen zu verändern.
+Die Spannung im europäischen Stromnetz beträgt 230 Volt.
+Mit einem Transformator können höhere oder tiefere Spannungen erreicht werden.
+Transformator stammt vom lateinischen Wort "transformare", das "umwandeln" bedeutet.
+Ein Transformator besteht immer aus zwei Spulen.
+Eine Spule ist ein langer Draht, der aufgewickelt wurde.
+Meistens bestehen die Spulen aus Kupfer, einem rötlichen Metall.
+Die Spulen sind auf einem Kern aus Eisen, um den Transformator zu verstärken.
+Um die Spannung umzuwandeln, haben die beiden Spulen nicht die gleiche Anzahl Windungen.
+Eine Windung ist eine Wicklung, also einmal mit dem Draht drum herum.
+Die erste Spule hängt an der Steckdose mit 230 Volt.
+Wenn die zweite Spule nur halb so viele Windungen hat wie die erste, dann wird auch die Spannung halb so groß.
+Wenn die zweite Spule jedoch doppelt so viele Windungen hat wie die erste, dann wird auch die Spannung doppelt so hoch.
+Mit der Stromstärke verhält es sich gerade umgekehrt.
+Wenn die Windungen zum Beispiel verdoppelt oder verdreifacht werden, dann halbiert oder drittelt sich die Stromstärke.
+Dabei bleibt aber die Leistung in beiden Spulen gleich.
+Viele Dinge wie Laptops, Mobiltelefone, MP3-Player, Modelleisenbahnen brauchen viel weniger Spannung, zum Beispiel nur fünf oder zwölf Volt.
+Damit diese Geräte nicht kaputt gehen, wenn sie an die Steckdose angeschlossen werden, verwendet man einen Transformator, der die Spannung von 230 Volt in eine niedrigere Spannung verwandelt.
+Doch auch schon ein elektrischer Schlag von 230 Volt kann lebensgefährlich sein.
+Trotzdem braucht man hohe Spannungen, wenn man Strom über eine weite Strecke transportieren muss.
+Wenn die Spannung zu tief ist, wird das Kabel am Strommasten zu heiß und der Strom kommt nicht mehr am anderen Ende an.

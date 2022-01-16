@@ -1,0 +1,3 @@
+Eine Antenne ist eine technische Anordnung zur Abstrahlung und zum Empfang elektromagnetischer Wellen, oft zur drahtlosen Kommunikation.
+Als Sendeantenne wandelt sie leitungsgebundene elektromagnetische Wellen in Freiraumwellen um, oder umgekehrt als Empfangsantenne die als Freiraumwelle ankommenden elektromagnetischen Wellen zurück in leitungsgebundene elektromagnetische Wellen.
+Wesentlich dafür ist die Transformation des Wellenwiderstandes der Leitung durch die Antennenanordnung in den Wellenwiderstand des Vakuums.

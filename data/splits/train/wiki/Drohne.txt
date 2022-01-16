@@ -1,0 +1,460 @@
+Ein unbemanntes Luftfahrzeug (englisch unmanned aerial vehicle, UAV, oft Teil eines umfassenderen Systems, engl. unmanned aircraft system, UAS) ist ein Luftfahrzeug, das ohne eine an Bord befindliche Besatzung autark durch einen Computer oder vom Boden über eine Fernsteuerung betrieben und navigiert werden kann.
+
+Die für die Organisation der weltweiten Luftfahrt zuständige ICAO rechnet bei ihrer Tätigkeit Flugmodelle nicht als UAVs, die Deutsche Flugsicherung unterscheidet nach dem Einsatzzweck:
+Flugmodelle zur Freizeitgestaltung oder für Luftsportaktivitäten sind keine "unbemannten Luftfahrzeuge".
+
+In der deutschen Sprache werden unbemannte Luftfahrzeuge umgangssprachlich oft auch als Drohnen bezeichnet; der Begriff wird sowohl für militärisch oder kommerziell genutzte unbemannte Luftfahrzeuge als auch für per First Person View gesteuerte Flugmodelle wie Multicopter genutzt.
+In der Luftfahrt bezeichnet der Begriff Drohne ursprünglich ein unbewaffnetes Übungsziel.
+
+Nachfolgender Artikel beschreibt unbemannte Luftfahrzeuge gemäß der ICAO-Definition sowie der Definition in Deutschland; zu Quadrocoptern u. ä. für Freizeit- und Luftsportaktivitäten siehe den Artikel Flugmodell.
+
+== Geschichtliche Entwicklung
+
+Unbemannte, ferngesteuerte Flugkörper werden für verschiedene Zwecke seit dem frühen 20. Jahrhundert eingesetzt.
+Während anfänglich experimentelle Ziele verfolgt wurden, kam es mit Beginn des Kalten Krieges bald zur Übernahme militärischer Aufgaben.
+Anfangs und auch weiterhin dienten die UAs als "Zieldrohnen" zur Zielsimulation der Flugabwehr, dazu kam die militärische Aufklärung:
+Mit der Lockheed D-21 wurde 1966 einerseits ein überschallschnelles Aufklärungs-UA entwickelt.
+Mit der Westland Wisp flog andererseits 1976 ein Hubschrauber-System.
+Seit 1995 standen mit der General Atomics MQ-1 dem Militär mit Luft-Boden-Raketen bewaffnete unbemannte Luftfahrzeuge zur gezielten Bekämpfung von Bodenzielen zur Verfügung.
+Als bislang größtes Flugzeug wurde im Rahmen der Controlled Impact Demonstration 1984 ein Verkehrsflugzeug ferngesteuert und kontrolliert zum Absturz gebracht.
+
+In jüngerer Zeit wurden UAs zunächst zum Gegenstand öffentlicher Debatten wegen ihrer regelmäßigen Verwendung zur umstrittenen "gezielten Tötung" von Terrorverdächtigen durch die Vereinigten Staaten, vor allem bei geheim gehaltenen Einsätzen in Pakistan.
+Mit der zunehmenden Verbreitung kleiner, preiswerter UAs bei gewerblichen und staatlichen Betreibern sowie von aufzeichnungsfähigen Flugmodellen bei Privatpersonen, die zur Überwachung eingesetzt werden können, gewannen die Themen informationelle Selbstbestimmung und Datenschutz neues Gewicht.
+
+== Einsatzspektrum
+
+Ein unbemanntes Luftfahrzeug kann abhängig von Leistungsfähigkeit, Einsatzzweck und Ausstattung Nutzlasten, zum Beispiel Kameras und Sensoren für Kontroll- und Überwachungsaufgaben und/oder Waffen für militärische Operationen tragen.
+Je nach Definition fallen auch sehr kleine Bauformen unter die UAS, oder erst Nicht-Flugmodelle.
+Daher können die Abmessungen von wenigen Zentimetern (Mikrodrohne) bis zur Größe eines Verkehrsflugzeuges mit etwa 60 m Spannweite (Boeing Condor) reichen.
+Unbemannte Luftfahrzeuge werden auch für geheimdienstliche, polizeiliche, zivile/kommerzielle oder für wissenschaftliche Zwecke wie in der Klimaforschung eingesetzt.
+
+Aerones hat am 12. Mai 2017 in Mai, Bezirk Amata, (Sender: 57,083256° N, 25,590652° E) erstmals den Absprung eines Fallschirmspringers - Ingus Augstkalns - von einer Drohne realisiert.
+Der Springer wurde sicherheitshalber von einem 120 m hohen Sendemast von der Drohne abgehoben und in 330 m über Grund geliftet bevor er absprang.
+
+Droneboarding unter schrägem Zug von einer Aerones-Drohne gelang in 2 Varianten:
+Als Wakeboarding auf Wasser und Snowboarding auf Schnee.
+Den Erstflug einer Drohne mit 100 kg Kapazität zeigte Aerones am 1. September 2016.
+
+Aerones zeigte 2016 mit einer Drohne die von der Wasseroberfläche startet, das Heben einer Person aus dem Wasser.
+Diese legt sich einen am Seil gebrachten Brust-Rettungsgurt an und wird in geringer Höhe über dem Wasser bis nahe zum Ufer geflogen.
+
+Mai 2017 präsentierte der norwegische Hersteller Griff Aviation den Typ GRIFF 300, eine "Giant Heavy Lift Drone" mit einem Eigengewicht von ca. 75 kg (160 lb) und einer Hubkapazität von 225 kg, bei der sowohl die 4 Paar Rotorarme als auch die Rotorblätter faltbar sind.
+
+2016 berichtet der U.S. Forest Service über Versuche, von Drohnen etwa kleine Feuerbälle ("firebombs") mit etwa 3 cm Durchmesser abzuwerfen.
+Diese werden an der Drohne gelagert, und unmittelbar vor dem Abwurf automatisiert mit Alkohol gefüllt, sodass sie sich kurz nach dem Abwurf entzünden um dort durch Abbrennen von Vegetation einem Waldbrand Nahrung zu entziehen.
+
+Am 10. April 2017 stellt Micromulticopter Aero Technology, Co. Ltd.
+(MMC), China, HYDrone 1800 (mit 1800 mm Länge) vor, eine Drohne die - erstmals kommerziell - ihre Elektromotoren energetisch über Wasserstoff-Brennstoffzellen versorgt.
+Eine Rekordschwebezeit von über 4,5 Stunden wurde damit erzielt.
+MMC spricht im Mai 2017 davon, mit seinen Drohnen und bei MMC geschulten Piloten während weltweit sechs Jahren eine Erfahrung von über 300.000 km gezogenen Freileitungen zu haben.
+Typisch wird mit der Drohne "Spider" mit 5 kg Hublast zuerst eine rote Pilotleine mit 2 mm Stärke über die mit Menschen besetzten Leitungsmasten fliegend gezogen und zuletzt abgeworfen.
+Dann wird damit bodenbasiert eine weiße z. B. 8 mm Kunststoffleine zurückgezogen, mit der dann das schwere Freileitungskabel wiederum im Gegenzug mit einer kraftvollen Winde eingezogen wird.
+Ersetzt werden damit manuell gezogene Luftschiffe (Blimps), Ultraleichtflugzeuge oder Helikopter.
+
+Mit mehreren autonom aus einem sich öffnenden Depot startenden Drohnen, die autonom fliegen und als Schwarm miteinander kommunizieren, können selbständig Waldbrände oder Katastrophengebiete erforscht und an eine Informationszentrale gemeldet werden, von der ausrückende Hilfskräfte geeignet dirigiert werden können.
+
+== Klassifizierung und Terminologie
+
+=== UAV/UA
+
+Mit Unmanned Aerial Vehicle (UAV) oder neuer Unmanned Aircraft (UA) wird ausschließlich auf das Flugobjekt Bezug genommen.
+
+=== UAS
+
+Mit Unmanned Aircraft System (UAS) erfolgte gemäß ICAO eine neuere allgemeine Bezeichnung und löste die Bezeichnung UAV ab.
+Weithin verbreitet ist auch noch die Bedeutung Unmanned Aerial System.
+Bezieht neben dem Fluggerät (UAV/UA) aber alle Teile des Gesamt-Systems (z. B. Steuerelemente, Bodenstationen etc.) mit ein.
+
+Eine Klassifizierung und Kennzeichnung von unbemannten Luftfahrtsystemen in Deutschland liegt noch nicht vor.
+Das Deutsche Institut für Normung e. V. plant hierzu ein Projekt zur Neuentwicklung einer Taxonomie für Unmanned Aerial Systems (UAS).
+
+Bis 2010 konnte eine weltweite UAS-Klassifikation noch nicht abschließend entwickelt werden.
+Innerhalb Europas hat die European Organization for Civil Aviation Equipment (EUROCAE1 Arbeitsgruppe 73) und die in den Vereinigten Staaten zuständige Radio Technical Commission for Aeronautics (RTCA2) den gemeinsamen Prozess noch nicht abgeschlossen und nur ein vorläufiges Gruppensystem präsentiert.
+Die britische Civil Aviation Authority übernahm das in der Arbeitsgruppe erarbeitete Klassifizierungssystem.
+
+Das US-Verteidigungsministerium hat 2011 die UAV nach dem Joint Concept of Operations for Unmanned Aircraft Systems u. a. nach dem Gewicht in fünf Gruppen eingeteilt.
+
+=== URAV
+
+Als Unmanned Reconnaissance Aerial Vehicle (URAV) werden Aufklärungsdrohnen bzw. aufklärende UAV bezeichnet.
+Die Reichweite großer Drohnen ist vergleichbar mit der von Verkehrsflugzeugen.
+Je nach Konzeption entsprechen die Flugeigenschaften denen von Aufklärungsflugzeugen oder Luftschiffen.
+Sie können ein bis zwei Tage in der Luft bleiben.
+
+Besonders bei den Aufklärungsdrohnen erfolgt zudem noch eine gesonderte Einteilung nach der Einsatzhöhe über 10.000 m:
+
+==== MALE
+
+==== HALE
+
+=== UCAV
+
+Unmanned Combat Aerial Vehicle (UCAV) oder Unmanned Combat Aerial System (UCAS) sind Bezeichnungen für unbemannte, bewaffnete Luftfahrzeuge.
+Allgemein werden diese Fluggeräte auch als Kampfdrohnen bezeichnet.
+Diese Waffensysteme werden zunehmend in militärischen Konflikten zur Bekämpfung von Zielen eingesetzt.
+2012 hat die US-amerikanische Luftwaffe erstmals mehr Piloten für Drohnen als für Kampfflugzeuge und Bomber zusammen ausgebildet.
+
+=== Sonstige Bezeichnungen
+
+== Militärischer Einsatz
+
+Bereits 1931 rüstete die britische Royal Air Force drei Maschinen des Typs Fairey IIIF unter der Bezeichnung Fairey Queen mit Funksteuerung aus und setzt sie als Zieldrohnen und Übungsziele für Jagdpiloten ein.
+
+Unbemannte Luftfahrzeuge werden zunehmend zu militärischen Zwecken eingesetzt, wobei sie zum einen als sogenannte englisch unmanned combat air vehicle (UCAV) mit Waffen ausgerüstet und zur Luftnahunterstützung eingesetzt werden können ("Kampfdrohne").
+Die Drohnen werfen dazu Bomben bzw. feuern Raketen ab oder fliegen ins Ziel (Loitering Weapon).
+Zum anderen gibt es Experimentalflugzeuge zur Erprobung des unbemannten Einsatzes als Kampfflugzeuge zur Luftzielbekämpfung.
+Ein dritter militärischer Einsatzbereich ist die Aufklärung und Überwachung.
+Daneben dienen sie unter anderem Logistik- und Transport-Zwecken.
+Derzeit (Stand 2014) setzen zwischen 55 und 78 Staaten UAV für militärische Zwecke ein.
+
+=== Vorteile
+
+=== Entwicklung
+
+In den USA sind verschiedene Stellen mit Forschung und Entwicklung von UCAVs beschäftigt, beispielsweise das Joint Unmanned Combat Air Systems Program der Defense Advanced Research Projects Agency (DARPA) der United States Air Force und der United States Navy., Nach einem Bericht des britischen The Guardian im Jahr 2009 planten die United States Air Force eine umfangreiche Aufstockung ihrer UAV-Flotte bis 2047.
+Bereits in jenem Jahr 2009 bildete die Air Force mehr Soldaten in der Bedienung von UCAVs aus als Flugzeugpiloten.
+Die Technik entwickelte sich dahingehend, dass 2006 noch 12 Fluggeräte gleichzeitig gesteuert werden konnten, im August 2009 bereits 50.
+Das amerikanische Militär wollte Drohnen entwickeln, die sich anhand von Algorithmen in Kampfverbänden selbständig als "Schwarm" organisieren (Low Cost Autonomous Attack Systems, Locaas).
+DARPA und NASA erforschen und entwickeln darüber hinaus unbemannte Systeme mit Morphing Adaptable Structures (MAS), welche dank sogenannter Intelligenter Werkstoffe (Smart Materials) ihre Form, Oberflächenstruktur und aerodynamischen Eigenschaften verändern und an verschiedene Flugphasen anpassen können wie den Cormorant.
+Nach Ansicht des Autors Ronen Bergman wurde die von den Amerikanern benutzte Technologie der unbemannten Flugkörper zum großen Teil in Israel entwickelt.
+Israel steht bei der Produktion derartiger Drohnen weltweit an erster Stelle weitere Produzenten sind die USA, Frankreich, Deutschland und Großbritannien
+
+Auch in Europa wird an UCAVs geforscht und entwickelt: siehe z. B. Dassault Neuron und im Rahmen der European Technology Acquisition Programme (ETAP).
+
+Russland entwickelte nach einem Auftrag im Jahr 2011 die schwere Su-70 und 2014 erfolgte der Auftrag zur Entwicklung einer 6-Tonnen-Langstrecken-Drohne durch das OKB Kasan.
+
+Eine weitere Entwicklungsstufe ist der Bau sogenannter Mikrodrohnen (Micro Air Vehicle bzw. Micro Aerial Vehicle (MAV)).
+
+=== Bekannte Einsätze
+
+1998/1999 setzte die Bundeswehr im Kosovokrieg Aufklärungsdrohnen vom Typ CL 289 ein.
+Ferner hat die Bundeswehr die Drohne LUNA seit dem Jahr 2000 im operativen Einsatz.
+Auch die Inspektionen der UN-Waffeninspektoren im Irak 2003 wurden von unbemannten Luftfahrzeugen unterstützt.
+Bis 2008 wurden zudem sechs Gesamtsysteme der allwetterfähigen Aufklärungsdrohnen vom Typ KZO ("Kleinfluggerät-Zielortung") eingeführt.
+Zur Fernmelde- und Elektronischen Aufklärung (SIGINT) hat die Bundeswehr die fünf EuroHawks bestellt, deren Prototyp 2010 fliegen sollte.
+
+2003 versuchte die Hamas im Gazastreifen in den Besitz einer israelischen Drohne zu kommen.
+Israel hatte diese mit Sprengstoff präpariert, zündete diesen während des Zusammenbaus am 16. Februar 2003 und tötete damit drei ranghohe Führer der Kassam-Brigaden.
+
+2004 wurde bekannt, dass die Schweizer Armee bei Trainingsflügen mit der Aufklärungsdrohne Ranger ADS 95 zufällig ausgewählte Privatautos und Zivilpersonen filmte.
+
+2006 lieferte der Iran UAVs vom Typ Ababil an die Hisbollah, welche diese unter der Bezeichnung Mirsad 1 zur Aufklärung oder wie Marschflugkörper einsetzt.
+Das UAV Ababil ist 83 kg schwer, hat einen Gefechtskopf von höchstens 40 kg und eine Maximalgeschwindigkeit von 290 km/ h. Am 7. August 2006 schoss ein israelisches Kampfflugzeug vom Typ F-16 10 Kilometer vor der Küste von Haifa mit einer Luft-Luft-Rakete vom Typ Python 5 ein UAV vom Typ Ababil der Hisbollah ab.
+
+Am 5. August 2009 wurde durch den Angriff einer US-UCAVs der pakistanische Talibanführer Baitullah Mehsud getötet (= siehe auch Hauptartikel Drohnenangriffe in Pakistan).
+Ende Januar 2012 hat US-Präsident Obama erstmals offiziell eingeräumt, dass das US-Militär über pakistanischem Gebiet Angriffe mit UCAVs durchführt.
+Diese Angriffe wurden einige Zeit zuvor öffentlich bekannt und bis zu Obamas Äußerung vom Verteidigungsministerium der Vereinigten Staaten weder dementiert noch bestätigt.
+Obamas Darstellung, dass die Angriffe ein "minimales Risiko" für Zivilisten darstellen würden, wird von Experten bezweifelt.
+Bis August 2011 kamen bei über 300 Angriffen über 2400 Menschen ums Leben, darunter über 400 Zivilisten.
+Der ehemalige Drohnenpilot der US-Luftwaffe Brandon Bryant, der bei seiner Entlassung im April 2011 bescheinigt bekam, an 1626 gezielten Tötungen beteiligt gewesen zu sein, gab in einem im April 2014 erschienenen Interview an, dass bei allen Drohneneinsätzen des US-Militärs die Daten über den US-Militärstützpunkt Ramstein in Deutschland flössen.
+
+Im Juni 2012 starb Abu Yahya al-Libi, die "Nummer Zwei" des Terrornetzwerks al-Qaida, bei einem UCAV-Angriff.
+Laut US-Berichten sei der Tod des Libyers der schwerste Schlag gegen al-Qaida seit der Tötung Osama bin Ladens im Mai 2011.
+
+Im Juni 2013 wurde bekannt, dass syrische Regierungstruppen und regimetreue Milizen vermehrt unbemannte Luftfahrzeuge iranischer Bauart im Syrischen Bürgerkrieg zur Aufklärung und zur Artilleriebeobachtung im Kampf gegen Rebellen benutzen.
+
+Am 5. Januar 2017 wurde der syrische Militärflugplatz Hmeimim, der von den russischen Luftstreitkräften benutzt wurde, nach russischen Militärangaben von insgesamt 13 Drohnen angegriffen, die versuchten, mit kleinen Sprengkörpern als Ladung auf das Gelände des Stützpunktes zu gelangen.
+Die russische Flugabwehr habe sieben der Drohnen abgeschossen, die übrigen habe man durch elektronische Kriegsführung zum Absturz gebracht.
+
+2019 kam es zu mehreren Drohnenangriffen der jemenitischen Huthis gegen Öl-Anlagen in Saudi-Arabien:
+
+Der iranische Generalmajor Qasem Soleimani, der die Quds-Brigaden der iranischen Revolutionsgarde kommandierte und nach Revolutionsführer Ali Chamenei als zweitmächtigster militärisch-politischer Führer des Landes galt, wurde am 2. Januar 2020 auf Befehl von US-Präsident Donald Trump durch einen Raketenangriff mit einer Drohne vom Typ MQ-9 Reaper getötet.
+
+Im Bürgerkrieg in Libyen setzten beide Seiten massiv auf den Einsatz von Drohnen.
+Zunächst setzten die Kämpfer der LNA ab 2016 chinesische Langstreckendrohnen vom Typ Chengdu Wing Loong ein, die von Piloten der Vereinigten Arabischen Emirate gesteuert wurden.
+Nachdem die GNA Truppen bis in die Hauptstadt Tripolis zurückgedrängt worden waren, versorgte sie die Türkei mit TB2-Drohnen, mit deren Hilfe es ihnen gelang die LNA- Truppen innerhalb weniger Monate aus dem gesamten Westen Libyens zu vertreiben.
+Der UN-Sondergesandte Ghassan Salame beschrieb den Konflikt folglich als den bisher größten Drohnenkrieg der Geschichte.
+
+Im Bergkarabachkonflikt greifen beide Konfliktparteien besonders seit der Gewalteskalation im September 2020 massiv auf Drohnen zurück.
+Bereits seit 2016 nutzt Aserbaidschan UAV der israelischen Firmen IAI und Aeronautics, sowie MALE der israelischen Firma Elbit.
+Die Orbiter 1K-Drohne von Aeronautics produziert Aserbaidschan in Lizenz unter dem Nahmen Zarba selbst.
+Im de-Facto-Staat Arzach etablierte sich eine eigene Drohnenproduktionen, wobei die Drohnen der Firma AZDynamics spätestens seit 2017 einsatzbereit waren.
+2018 kündigte Armenien an Drohnen aus Arzach für das eigene Militär anzuschaffen.
+Berichten zu Folge wurden auch erst türkische TB2-Drohnen vom Typ Bayraktar über Bergkarabach gesichtet.
+
+=== Abstürze
+
+Die Zeitung Washington Post untersuchte ein Jahr lang 50.000 Seiten Unfallberichte des US-Militärs und berichtet über 418 Abstürze von UAs des US-Militärs seit 2001.
+Bei den Abstürzen kamen keine Menschen zu Schaden; die meisten - 67 - stürzten ab in Afghanistan, gefolgt von USA (47) - davon eine in Pennsylvania in unmittelbarer Nähe einer Grundschule - und im Irak (41).
+Weitere in der Nähe von Dschibuti, in Pakistan und Mali.
+
+=== Stress für Piloten
+
+Piloten von militärischen UAs klagen über verschiedene Arten von Stress.
+Studien ermittelten bei Drohnenpiloten mitunter höhere Werte von Gefechtsstress als bei anderen Einheiten in Afghanistan.
+Hinzu kommen zudem hohe Ermüdungserscheinungen, emotionale Erschöpfung sowie Burnout.
+Trotz der großen Distanz zum eigentlichen Kriegsgeschehen werden auch bei Drohnenpiloten posttraumatische Belastungsstörungen festgestellt.
+Ursachen dafür sind laut einem Bericht der New York Times die vom Kampfgeschehen isolierte Arbeitsumgebung und unflexible Schichtarbeitszeiten.
+Außerdem führe die fehlende räumliche und zeitliche Distanz zwischen Familienleben und Kampfeinsätzen zu psychischen Belastungen.
+Die Studie berichtet darüber hinaus von Stress aufgrund von Personalengpässen.
+Auch haben Drohnenbediener über längere Zeiträume einen direkten Überblick über das Gefechtsgeschehen - teilweise mit hochauflösenden Kameras - ohne immer eingreifen zu können.
+Auch dieser Umstand wird als Ursache der psychischen Belastung von Drohnenbedienern angenommen.
+
+Der ehemalige US-Verteidigungsminister Leon Panetta hatte zu seinem Abschied 2013 eine neue Ehrenmedaille zur Auszeichnung von Soldaten für besondere Leistungen im Drohnen- und Computer-Krieg vorgeschlagen.
+Sein Nachfolger im Amt, US-Verteidigungsminister Chuck Hagel, nahm jedoch bereits wenige Wochen nach seiner Amtseinführung Abstand von diesem Vorhaben.
+
+=== Militärischer Einsatz und das Völkerrecht
+
+Die unbemannte Kriegsführung steht in der Kritik, da die Souveränität von Staaten und die Rechtsstaatlichkeit verletzt werden können und bei UCAV-Angriffen häufig auch unbeteiligte Zivilisten ums Leben kommen.
+Bislang ist unbekannt, wie viele Zivilpersonen irrtümlich getötet wurden.
+
+Die Rechtslage ist umstritten, insbesondere die US-Regierung verweist - auch unter Präsident Obama - auf die Bush-Doktrin des Präventivschlags.
+
+Jedoch ist nicht jeder Drohneneinsatz rechtlich problematisch.
+Aus dem humanitären Völkerrecht lässt sich - ohne Verbotskonvention - nämlich in der Regel kein Verbot eines bestimmten Waffensystems herleiten.
+
+Völkerrechtlich ist zwischen Kampfeinsätzen innerhalb eines bewaffneten Konflikts und außerhalb eines bewaffneten Konflikts zu unterscheiden.
+Die Ersteren sind rechtlich am humanitären Völkerrecht zu messen und nicht am Menschenrechtspakt, die Letzteren unterliegen dem Regime der allgemeinen Menschenrechte.
+
+Das humanitäre Völkerrecht unterscheidet zwischen internationalen bewaffneten Konflikten zwischen Staaten, bei denen die Genfer Konventionen von 1949 und das Zusatzprotokoll I von 1977 anzuwenden sind, und innerstaatlichen (bewaffneten) Konflikten, auf die nur der gemeinsame Artikel 3 der Genfer Konventionen von 1949 und das Zusatzprotokoll II von 1977 Anwendung finden.
+
+In nicht-internationalen bewaffneten Konflikten wird Aufständischen generell das "Kombattantenprivileg" versagt, d. h. eine strafrechtliche Verfolgung nach den nationalen Rechtsordnungen ist möglich.
+Solange diese unmittelbar an Kämpfen teilnehmen, dürfen im Umkehrschluss Angriffe auf diese rechtmäßig durchgeführt werden.
+Terroristen, die an Kampfhandlungen teilnehmen - wie z. B. Al-Qaida-Terroristen in Afghanistan, verlieren trotz ihres Status als Zivilisten, für die Dauer der unmittelbaren Teilnahme an Feindseligkeiten den Schutz des humanitären Völkerrechts.
+
+Sonderfall Pakistan Der Einsatz von US-amerikanischen unbemannten Luftfahrzeugen auf dem Gebiet von Pakistan stellt keinen Verstoß gegen Art. 2 Abs. 4 der Charta der Vereinten Nationen dar, da diese mit Billigung des pakistanischen Staates erfolgten und die Drohnen dort teilweise sogar stationiert waren.
+Die USA und Pakistan schlossen kurz nach den Terroranschlägen vom 11. September 2001 einen Vertrag, dessen Inhalt aber nicht öffentlich bekannt ist (Stand 2012).
+
+Allerdings wurden die US-amerikanischen UCAV-Angriffe in Pakistan von der CIA (d. h. von Zivilisten) durchgeführt, diese gelten jedoch nicht als Kombattanten und verfügen damit auch über kein "Kombattantenprivileg".
+Ihre Handlungen können nach nationalem Recht (z. B. Recht Pakistans oder der USA) strafbar sein.
+
+Seitdem 2012 ein Memorandum der US-Regierung öffentlich wurde, wird in den USA über moralische Fragen beim Einsatz von UCAVs diskutiert.
+Ein Thema ist dabei, dass auch US-Bürger im Ausland Opfer (sei es als Kollateralschaden oder als Ziel) eines UCAV-Angriffs werden können.
+Als im Januar John O. Brennan als nominierter CIA-Direktor vor den Senat berufen wurde, musste er zu diesem Thema Stellung nehmen.
+
+Gemäß US-amerikanischem Recht (Stand 2012) ist die Tötung von Terroristen durch die CIA im Ausland weiterhin legal.
+
+Im Mai 2013 hat ein pakistanisches Gericht in Peschawar die UCAV-Angriffe der USA in den pakistanischen Stammesgebieten als Kriegsverbrechen bezeichnet.
+Es fordert eine Entschädigung durch die USA und ein UNO-Tribunal.
+Geklagt hatten Opfer von Luftschlägen.
+
+=== Trivia
+
+Irakische Aufklärer fingen 2009 die unverschlüsselt übertragenen Videodaten einer US-Militär-Drohne ab und konnten so den Einsatz des UAs verfolgen.
+
+Der Tatort:
+Vom Himmel hoch (2018) thematisiert das Leid der Opfer und das Leid der Täter.
+
+== Ziviler Einsatz
+
+Die zunehmende gewerbliche Nutzung von Drohnen sowie von aufzeichnungsfähigen Modellflugzeugen durch Privatpersonen wirft neue juristische Fragen im Zusammenhang mit der Nutzung des Luftraumes sowie dem Schutz und der Wahrung der Privatsphäre auf.
+
+November 2017 - Zum ersten Mal in der Geschichte der Luftfahrt hat die Bundesluftfahrtbehörde der Vereinigten Staaten (Federal Aviation Administriation - FAA) auf Antrag der US-amerikanischen Firma Flightscan Corporation für die unbemannte Hubschrauberdrone Camcopter S-100 die Luftfahrtregulierung (FAA airworthiness certification) zur Integration in den nationalen Luftraum erlassen.
+
+=== Landwirtschaft
+
+Seit 2013 wurde im Regierungsbezirk Freiburg der Einsatz von Helikopterdrohnen zur biologischen Schädlingsbekämpfung getestet.
+In Maisstärkekapseln verpackte Schlupfwespeneier wurden dabei ferngesteuert über den Maisfeldern abgeworfen.
+Dort schlüpften die Wespenlarven und fressen dann die Eier des Maiszünslers.
+Dabei werden die Koordinaten des Feldes eingegeben und die Verteilung der Kapseln erfolgt GPS-gesteuert.
+
+In Feldversuchen stellte das International Water Management Institute 2015 fest, dass man mit Drohnen, die über entsprechende Kameras verfügen, die Temperaturschwankungen erkennen kann, die Pflanzen bei Wassermangel, Schädlingsbefall oder Düngermangel entwickeln, bis zu zehn Tage bevor die Probleme mit dem bloßen Auge zu sehen sind.
+Durch eine solche Kontrolle könnten Ernteausfälle auf ein Minimum beschränkt werden.
+
+Im Juli 2016 wurde in Österreich ein weiterer Verwendungszweck im Bereich der Schädlingsbekämpfung erprobt, bei dem der Winzerfalke, eine als Nurflügler ausgeformte Drohne, die in Kontur und Flugbewegungen einem Falken nachgebildet ist und auch Falkenschreie simuliert zum Schutz von Rebstöcken eingesetzt wird.
+Seine Aufgabe ist es Stare, die Weinkulturen befallen, zu vertreiben.
+Er soll bis zum Ende der Weinlese täglich 14 Stunden fliegen.
+Das Pilotprojekt wird von der Stadt Rust, der Winzergemeinschaft und dem Land Burgenland finanziert.
+
+Eine Studie eines Branchenverbandes ergab 2016, dass bislang 4 % der landwirtschaftlichen Betriebe in Deutschland Drohnen einsetzen.
+
+Im Mai 2017 wird der Einsatz einer Drohne mit Wärmebildkamera zur Detektion von Rehkitzen kurz vor der Mahd in Baden-Württemberg bekannt.
+Die Rehkitze, denen in den ersten vier Lebenswochen der Fluchtinstinkt noch fehlt, sind außen 25 °C warm und können am besten morgens dargestellt werden.
+
+=== Logistik
+
+=== Medien
+
+Drohnen finden als Foto- oder Videodrohnen zunehmend Verwendung zur Herstellung von Fotos und Videos aus der Luft.
+
+Die FAA genehmigte 2015 den Testeinsatz von Drohnen des Nachrichtensenders CNN.
+
+=== NGOs
+
+Im Dezember 2011 setzte die Umweltschutzorganisation Sea Shepherd Conservation Society eine Drohne ein, um die Nisshin Maru, das Flaggschiff der japanischen Walfangflotte, auf hoher See zu lokalisieren.
+
+Die österreichische Tierschützer-NGO Verein gegen Tierfabriken (VgT) setzte anlässlich einer Gatterjagd eine Filmdrohne ein.
+Diese wurde von Jägern beschossen.
+
+=== Behörden
+
+==== Feuerwehren
+
+Eine Ausspäh-Drohne, entwickelt von oder mit der New Yorker Feuerwehr hat eine 61 m (200 ft) lange Rückzugsleine, für den Fall, dass Funkfernsteuerung oder die Drohne versagen.
+- Flammen sind ionisiertes Gas, das die Funkausbreitung abschattet, heißes Brandgas kann die Elektronik und Motore zum Abschalten bringen.
+
+Die Löschdrohne des lettischen Herstellers Aerones, aus Anfang 2017, hat - mit 16 Rotoren - eine Hebekraft für 100 kg Nutzlast bei 70 kg Eigenmasse - ohne Akku, der am Boden bleibt.
+Ende August 2017 hat die Drohne bei einem Erprobungsflug für Rosenbauer in Treffling einen Hochdruckschlauch, mit dem das Kabel für die elektrische Stromzufuhr mitgeleitet wurde, 85 m hoch gehoben.
+Mit 40 bar Pumpendruck wurde 98 l/s Durchfluss durch das ferngesteuerte Hochdruckstrahlrohr Nepiro erzielt.
+Mit der Stromversorgung vom Boden ist dauerhafter Betrieb möglich, der Akku kann dazu dienen, die Stromversorgung unterbrechungsfrei zu gewährleisten.
+
+Aerones präsentierte 2017 ein Konzept, nach dem diese Drohne einen noch weitaus längeren Schlauch leer hebt und ihn an seiner halben Länge an der Fensteröffnung eines Hochhauses zwischenverankert.
+Mit dieser Stütztechnik sollten 200-400 m Höhe erreichbar werden.
+
+First Responder im Brandfall haben die Aufgabe den Brandherd zu lokalisieren und Personen zu suchen.
+Kleine Drohnen mit Wärmebildkamera und Videoübertragung zum Piloten am Boden sind mit Stand November 2019 bereits mehrere am Markt.
+
+==== Polizei
+
+Seit 2009 wurde im Rahmen von INDECT, einem EU-Projekt zur Kriminalitätsprävention im öffentlichen Raum mittels Videoüberwachung, u. a. erforscht, wie Personen mit "auffälligem Verhalten" automatisch identifiziert und von autonomen Kamera-Drohnen verfolgt werden können.
+
+==== Rettungswesen
+
+Im März 2011 wurden Global Hawks der USAF im Rahmen der Operation Tomodachi eingesetzt, um die Schäden des Tohoku-Erdbebens und Tsunamis, insbesondere am Kernkraftwerk Fukushima Daiichi, einzuschätzen.
+Im Juni 2011 kam es zu einer Notlandung einer T-Hawk, die für Strahlungsmessungen auf dem Reaktorgelände eingesetzt war, auf einem Reaktorgebäude.
+
+Bei der Begutachtung von Schäden durch Sturm, Brand oder Wasser werden Drohnen eingesetzt, da diese in geringer Höhe den Schadensort überfliegen können und deren eingebaute Kamera einen Überblick aus der Vogelperspektive liefern kann.
+Die Technische Universität Dortmund, die Universitäten Paderborn und Siegen sowie verschiedene Unternehmen haben gemeinsam eine Drohne entwickelt, die mit Gasmessgeräten ausgestattet ist und die bei Katastrophen von Feuerwehren oder dem THW eingesetzt werden soll.
+Das vom BMBF geförderte Projekt trägt den Namen Airshield ("Airborne Remote Sensing for Hazard Inspection by Network Enabled Lightweight Drones", zu deutsch: luftgestütztes ferngesteuertes Suchen nach gefährlichen Stoffen durch netzwerkgestützte leichtgewichtige Drohnen)
+
+Auf den Salomonen-Inseln konnten im April 2014 mit Hilfe eines Multicopters die bei schweren Regenfällen entstandenen Verwüstungen als Erstes eruiert werden.
+Satellitenaufnahmen waren wegen der dichten Bewölkung nicht verwertbar.
+
+Im April 2019 präsentierte die Schweizerische Rettungsflugwacht REGA eine neue, selbstentwickelte Drohne.
+Der zwei Meter lange Mini-Helikopter soll ab 2020 für die Personensuche in schwer zugänglichem Gelände oder bei schlechten Sichtverhältnissen eingesetzt werden.
+Die Drohne ist u. a. mit einer Wärmebildkamera und Handyortung ausgerüstet.
+
+==== Gesundheitswesen
+
+Im August 2013 wurde der Defikopter vorgestellt, eine Helikopterdrohne, die nach Aktivierung durch eine Handy-App vollautomatisch GPS-gesteuert einen mobilen automatisierten externen Defibrillator (AED) am Einsatzort landet oder per Fallschirm abwirft.
+
+==== Bildungsministerien
+
+Regierungsbehörden der Volksrepublik China setzten im Sommer 2015 erstmals Drohnen ein, um Schüler bei den Prüfungen für Universitätszulassungen zu überwachen.
+Ein Hexacopter kreiste dabei über dem Prüfungsort und suchte nach Signalen von verbotenen Kommunikationsgeräten.
+
+=== Vermessung
+
+Drohnen finden zunehmend Anwendung in der Vermessung und werden als "fliegende Stative" genutzt, die moderne Kameratechnik transportieren.
+Die Drohne fliegt dabei definierte Flugrouten mit festgelegten Wegpunkten ab und nimmt kontinuierlich sich überlappende Einzelbilder auf.
+Diese Einzelbilder werden im Anschluss georeferenziert und mosaikartig zusammengesetzt.
+Aus der anschließend erzeugten Punktwolke können sehr hoch aufgelöste digitale Höhenmodelle (DEM, DGM), Gittermodelle (Mesh) oder True Orthofotos abgeleitet werden, die messtechnisch ausgewertet werden können.
+Typische Anwendungen finden sich u. A. in der Flächen- und Volumenberechnung (z. B. von Erdmassen), im Trassen- und Straßenbau, sowie bei Fassadenaufmaßen.
+
+=== Wissenschaft
+
+==== Atmosphären- und Weltraumforschung
+
+Seit April 2010 betreiben NASA und National Oceanic and Atmospheric Administration ein Projekt zur Atmosphärenforschung, bei dem Global-Hawk-UAS mit zusätzlichen Sensoren für wissenschaftliche Zwecke eingesetzt werden.
+Im August und September 2010 sammelte eine Drohne Informationen über die Hurrikans Earl und Frank.
+In der Luftbildarchäologie und Luftbildfotografie werden Drohnen für die Datensammlung verwendet, ebenso in Windparks um den Windpark-Effekt zu erforschen.
+
+Eine von der NASA seit Anfang der 2000er Jahre entwickelte Drohne mit dem Namen Aerial Regional-scale Environmental Survey (ARES) sollte ursprünglich 2008 den Planeten Mars erkunden.
+Nachdem das Projekt auch 2013 nicht zum Zuge kam, ist beabsichtigt, ARES im Rahmen eines der nächsten Mars-Scout-Programme einzusetzen.
+
+Seit Mitte 2017 wird im Kibo-Modul der Internationalen Raumstation ISS die Kamera-Drohne Int-Ball erprobt.
+Sie soll die Astronauten von Fotografiearbeiten entlasten sowie in Kooperation mit Bodenpersonal die Durchführung von Experimenten verbessern.
+
+==== Archäologie
+
+Eine Drohne (dann auch Archäodrohne genannt) kann z. B. den Vermessungsaufwand im Zusammenhang mit archäologischen Fragestellungen erheblich verringern und macht die entsprechende Erkundung effizienter.
+Insbesondere die Luftbildarchäologie wird dadurch wesentlich billiger.
+
+==== Tierwelt
+
+Australische Wissenschaftler zählen mit kleinen Drohnen Vogelkolonien genauer, einfacher und störungsfreier für die Vögel, bisher (2016) bei zwölf Kolonien von Pinguinen, Schwalben und Fregattvögeln.
+
+Eine Studie des Shark Lab an der California State University setzt unter anderem Drohnen zur Luftüberwachung der weißen Haie entlang der Küste Südkaliforniens ein, um auch die Risiken für menschliche Strandgänger zu bewerten.
+Damit werden die bisherigen Hubschrauber sowie Flugzeuge ersetzt und Kosten eingespart.
+
+Rehkitze verbergen sich gerne in höherem Bewuchs.
+Um sie vor Verletzung durch Mähmaschinen in landwirtschaftlichen Feldern zu schützen, erfliegen Ehrenamtliche oder Dienstleister automatisationsunterstützt ein Wärmebild dieser Flächen aus der Sicht von oben.
+So aufgespürte Tiere können aus dem Feld getragen werden.
+
+=== Nutzung durch Privatpersonen
+
+Modellflugzeuge, insbesondere Multicopter-"Drohnen", gelten nicht als "unbemannte Luftfahrzeuge" gemäß ICAO-Definition sowie gemäß deutscher Rechtsprechung, solange sie privaten Freizeit- und/oder Luftsport-Aktivitäten (FPV Racing) dienen.
+
+== Rechtliche Situation
+
+=== ICAO
+
+Die "International Civil Aviation Organization" koordiniert international die Einteilung und Spezifikation von Luftfahrzeugen; ausgenommen sind jedoch Flugmodelle für den Freizeitgebrauch ("model aircraft, intended for recreational purposes only").
+
+=== Deutschland
+
+Die relevanten rechtlichen Regelungen für den Einsatz unbemannter Luftfahrtsysteme und Flugmodelle sind überwiegend in den §§ 21a bis 21f der Luftverkehrs-Ordnung normiert.
+
+Für das Anfertigen von Luftbildern/ Videos aus solchen Luftfahrzeugen oder aus nicht-Freizeit-Anlässen ist eine Genehmigung des jeweiligen Bundeslandes erforderlich.
+
+In Deutschland wird der Einsatz von Luftfahrzeugen mit Video- oder Fotomöglichkeit über privatem Gelände als Beeinträchtigung des Eigentums und der Privatsphäre betrachtet und man benötigt daher die Erlaubnis des Besitzers - auch wenn die Aufnahmen nicht weitergegeben werden sollen.
+Wenn Personen auf Aufnahmen zu identifizieren sind, dürfen diese nur mit deren Zustimmung veröffentlicht oder weitergegeben werden; Aufnahmen, die nicht weitergegeben/veröffentlicht werden (und die Privatsphäre nicht beeinträchtigen), benötigen diesbezüglich keine Genehmigung.
+Weiterhin fallen Fotos und Videos, die aus Luftfahrzeugen von bestimmten Gebäuden angefertigt wurden, oft nicht unter die Panoramafreiheit und berühren zum Beispiel das bestehende Urheberrecht eines Architekten - sie dürfen dann nur mit dessen Genehmigung veröffentlicht werden.
+
+Im Dezember 2011 gab der Bundestag eine Änderung des Luftverkehrsgesetzes ohne Diskussion in die Ausschüsse.
+Es trat in Kraft und stellte "unbemannte Luftfahrtsysteme" den anderen elf Klassen von Luftfahrzeugen gleich.
+Nur unbemannte Luftfahrtsysteme außerhalb von Freizeitaktivitäten wurden hier erfasst - Flugmodelle, die zur Freizeitgestaltung verwendet werden, sind hier nicht reglementiert worden und eine politische Debatte um diese Modelle, etwa bezüglich des Schutzes der Privatsphäre, blieb aus.
+
+In der öffentlichen Wahrnehmung stehen Drohneneinsätze oft in unmittelbarem Zusammenhang mit der Strategie des targeted killing - der gezielten Tötung von hochrangigen Terroristen.
+Diesbezüglich vertrat der damalige Bundesminister für Verteidigung Thomas de Maiziere 2012, als er für den Ankauf und Einsatz bewaffneter Drohnen warb, die Meinung, dass Deutschland sich niemals an "extralegalen Tötungen" beteiligen würde.
+
+In Deutschland befinden sich 455.000 Consumer-Drohnen in privater Hand.
+Die Zahl der Fluggeräte in kommerziellem Gebrauch in Deutschland beträgt 19.000 (Stand Februar 2019).
+
+=== Österreich
+
+In Österreich wurde mit der Gesetzesnovelle des Luftfahrtgesetzes (LFG) vom 1. Januar 2014 die Nutzung von unbemannten Luftfahrzeugen per § 24c bis l reglementiert.
+Es wird luftfahrtrechtlich zwischen folgenden Klassen unterschieden:
+
+Bei einem Kameraflug - ob gewerblich oder privat - wird zusätzlich das Datenschutzrecht relevant:
+Aufnahmen im öffentlichen Raum sind erlaubt, solange keine Einzelpersonen identifizierbar sind (ohne deren Einwilligung); am eigenen Privatgrund ist jede Aufnahme erlaubt, auf fremdem Privatgrund aber gar keine.
+Dasselbe gilt für Mikrofone und andere Sensoren analog.
+
+=== Schweiz
+
+In der Schweiz sind zivile Drohnenflüge erlaubt, sofern die Drohne nicht mehr als 30 Kilogramm wiegt und sich nicht größeren Menschenansammlungen (24 Personen auf engem Raum) näher als 100 Meter nähert.
+Für Drohnen über 500 Gramm ist zudem eine Haftpflichtdeckung über mindestens eine Million Schweizer Franken abzuschließen.
+Des Weiteren muss die Drohne jederzeit vom Piloten gesehen werden (Augenkontakt, keine Videobrillen!) und darf nicht im Umkreis von 5 km um militärische oder zivile Flughäfen fliegen.
+Allfällige Ausnahmen sind mit der Schweizer Flugsicherung (Skyguide) oder dem Platzwart zu vereinbaren.
+
+Eine Sonderregelung der Stadt Zürich, welche Drohnenflüge verbot, wurde am 1. April 2015 aufgehoben.
+
+Ab Juni 2020 übernimmt die Schweiz die Registrierungspflicht der EU.
+
+=== Weitere Staaten
+
+Erste Beschränkungen wurden in den Vereinigten Staaten durch die FAA im Juni 2014 mit einer Richtlinie erlassen.
+Demnach sind Flugmodelle für private Zwecke erlaubt, aber die Definition eines Flugmodells ist streng gefasst:
+Ein Model muss unter 25 kg wiegen und muss während der Benutzung, ohne die Verwendung von Hilfsmitteln, für den Piloten sichtbar sein.
+Eine Steuerung durch "First Person View", etwa über eine Sichtbrille oder ein Mobiltelefon, ist demnach stark eingeschränkt, weil das Sichtfeld des Piloten bei solchen Geräten zu begrenzt und nach Einschätzung der Behörde das Unfallrisiko zu groß ist.
+Drohnen, die als Modelle gelten, dürfen keine kommerziellen Einsätze fliegen.
+Bei Annäherung an einen Flughafen auf weniger als 5 Meilen ist vom Piloten der betroffene Tower zu informieren.
+Unter Druck durch die ständig steigende Zahl von Drohnen für Freizeitzwecke ("Recreational Drones"), die im gesperrten Luftraum unterwegs sind, kündigten Regierungsvertreter im Oktober 2015 eine künftige Registrierungspflicht für sämtliche Drohnen dieser Art in den USA an.
+
+Im Vereinigten Königreich verlangt die CAA Flüge nur in Sichtweite des Piloten, jedoch nicht höher als 122 Meter oder weiter als in 500 Meter Entfernung.
+Mit Kameras ausgerüstete Drohnen sollen mindestens 50 Meter Abstand von Gebäuden, Fahrzeugen und Personen halten.
+Nur bei einem Gewicht über 20 kg oder bei einer kommerziellen Nutzung, müssen unbemannte Luftfahrzeuge registriert werden.
+
+== Abwehrtechniken
+
+Nachdem auch Kriminelle Logistikdrohnen zum Beispiel zum Drogenschmuggel in Justizvollzugsanstalten eingesetzt haben, erwägen die Länder Bremen und Niedersachsen den Einsatz von GPS-Jammern.
+Niedersachsen stellte eine weitere Technik zur Drohnen-Erkennung vor:
+die sogenannten "drone tracker".
+Die Geräte überwachen den Luftraum mittels Schall, Wärmebild, Tag-Nacht-Kamera und in späteren Ausgaben auch via Radar.
+Nach erfolgreichem Abschluss der technischen Entwicklung wäre es möglich, Gefängnisse damit auszustatten, sagte das niedersächsische Justizministerium.
+Systeme wie "Drone Tracker" sollen die Signale der Fernsteuerung einer funkferngesteuerten Drohne über eine Datenbank dem Typ zuordnen können, sofern bekannt, und den Anwender des Systems vor dem Objekt warnen.
+
+Die niederländische Polizei erprobte 2016 erfolgreich Adler, die Drohnen als Beute sehen, diese in der Luft ergreifen und mit ihnen landen.
+
+Die Deutsche Telekom will demnächst Unternehmen und Behörden Drohnenabwehrsysteme anbieten.
+
+Der russische Konzern Kalaschnikow stellt die tragbare Anti-Drohnenhandwaffe REX-1 her, die bei den russischen Streitkräften eingesetzt wird.
+Mithilfe unterschiedlicher aufsetzbarer Module kann im Frequenzbereich von 800 MHz bis 5,8 GHz gestört werden.
+
+== Hersteller
+
+Wichtige Hersteller unbemannter militärischer Luftfahrzeuge sind die US-Firmen Northrop Grumman, Lockheed Martin und Boeing sowie kleinere Unternehmen wie General Atomics, Sikorsky und AAI.
+Auch nicht-amerikanische Hersteller wie Airbus Group (EADS), Elbit Systems, Dassault Aviation, Baykar Technologies, TAI, IAI, Saab, Safran und BAE Systems entwickeln und bauen unbemannte Luftfahrzeuge.
+
+Weitere Hersteller unbemannter Luftfahrzeuge sind z. B.:
+
+== Sport
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

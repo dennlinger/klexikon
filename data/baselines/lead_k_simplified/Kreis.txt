@@ -1,0 +1,9 @@
+Ein Kreis ist eine ebene geometrische Figur.
+Er wird definiert als die Menge aller Punkte einer Ebene, die einen konstanten Abstand zu einem vorgegebenen Punkt dieser Ebene haben.
+Der Abstand der Kreispunkte zum Mittelpunkt ist der Radius oder Halbmesser des Kreises, er ist eine positive reelle Zahl.
+Der Kreis gehört zu den klassischen und grundlegenden Objekten der euklidischen Geometrie.
+Schon die alten Ägypter und Babylonier versuchten, den Flächeninhalt des Kreises näherungsweise zu bestimmen.
+Besonders in der griechischen Antike war der Kreis wegen seiner Vollkommenheit von großem Interesse.
+Beispielsweise versuchte Archimedes erfolglos, mit den Werkzeugen Zirkel und Lineal den Kreis in ein Quadrat mit gleichem Flächeninhalt zu überführen, um so den Flächeninhalt des Kreises bestimmen zu können.
+Ein solches Verfahren zur Berechnung des Flächeninhalts nennt man die Quadratur des Kreises.
+Erst 1882 konnte Ferdinand von Lindemann durch Nachweis einer besonderen Eigenschaft der Kreiszahl zeigen, dass diese Aufgabe unlösbar ist.

@@ -1,0 +1,7 @@
+Ein Winkel ist in der Geometrie ein Teil der Ebene, der von zwei in der Ebene liegenden Strahlen (Halbgeraden) mit gemeinsamem Anfangspunkt begrenzt wird.
+Der gemeinsame Anfangspunkt der beiden Strahlen wird Scheitelpunkt des Winkels, Winkelscheitel oder kurz Scheitel genannt; die Strahlen heißen Schenkel des Winkels.
+Ein Winkel kann durch drei Punkte festgelegt werden, von denen einer den Scheitel des Winkels bildet und die beiden anderen auf je einem Schenkel des Winkels liegen.
+Die physikalische Größe, die die relative Lage der Strahlen zueinander beschreibt, wird als Winkelweite oder Winkelabstand (Winkeldistanz) bezeichnet, üblicherweise auch verkürzend als Winkel, wenn eine Unterscheidung von dem geometrischen Objekt nicht notwendig ist, beispielsweise in der Physik.
+Die Größe des Winkels wird mit einem Winkelmaß angegeben.
+Die Winkelweite kann auch als Maß einer ebenen Drehung definiert werden.
+Zur Unterscheidung vom Raumwinkel wird der hier definierte Winkel auch als ebener Winkel bezeichnet.

@@ -1,0 +1,179 @@
+Claudius Ptolemäus (altgriechisch auo oao Klaudios Ptolemaios, lateinisch Claudius Ptolomaeus; * um 100, möglicherweise in Ptolemais Hermeiou, Ägypten; + nach 160, vermutlich in Alexandria) war ein griechischer Mathematiker, Geograph, Astronom, Astrologe, Musiktheoretiker und Philosoph.
+Er lebte in Alexandria in der römischen Provinz Ägypten.
+Insbesondere seine drei Werke zur Astronomie, Geografie und Astrologie galten in Europa bis zur frühen Neuzeit als wissenschaftliche Standardwerke und wichtige Datensammlungen.
+
+Das geographische Werk hatte 561/62 noch Cassiodor in der Hand, doch erst mit der lateinischen Übersetzung einer Abschrift aus Konstantinopel, die in Florenz ab 1397 erfolgte, wurde die Geographike Hyphegesis wieder rezipiert.
+
+Ptolemäus verfasste die aa uva mathematike syntaxis ("mathematische Zusammenstellung"), später  uva megiste syntaxis ("größte Zusammenstellung"), heute Almagest (abgeleitet vom Arabischen al-maisi) genannte Abhandlung zur Mathematik und Astronomie in 13 Büchern.
+Dieses Werk blieb bis zum Ende des Mittelalters das Standardwerk der Astronomie im europäischen Raum.
+Es enthielt neben einem ausführlichen Sternenkatalog eine detaillierte Ausarbeitung des geozentrischen Weltbilds, die später nach ihm ptolemäisches Weltbild genannt wurde.
+
+Damit verwarf er, wie auch der größte Teil seiner Zeitgenossen, das von Aristarchos von Samos und Seleukos von Seleukia vertretene heliozentrische Weltbild, das erst 1400 Jahre später durch Nikolaus Kopernikus, Johannes Kepler und Galileo Galilei in Europa durchgesetzt werden sollte.
+
+== Leben
+
+Über das Leben des Ptolemäus ist wenig bekannt, im Wesentlichen nur das, was er in seinen Werken selbst überlieferte.
+Das sind Daten von astronomischen Beobachtungen, die älteste vom 26. März 127, die jüngste vom 2. Februar 141.
+In einem späteren Kommentar steht, er habe unter Kaiser Hadrian gelebt und bis zur Herrschaft von Mark Aurel.
+In seinen astronomischen Beobachtungen wird nur Alexandria erwähnt und es gibt keinen Grund anzunehmen, dass er jemals anderswo gelebt habe.
+Der Astronom Theodoros Meliteniotes schrieb um 1360, dass er in Ptolemais Hermiou geboren wurde, was aber ansonsten nicht belegt ist.
+Sein Name Ptolemaios deutet auf griechische oder hellenisierte Vorfahren und seine Herkunft aus Ägypten, der Vorname Claudius darauf, dass einer seiner Vorfahren unter Kaiser Claudius oder Kaiser Nero das römische Bürgerrecht erwarb.
+
+Ptolemäus erwähnt nur zwei Zeitgenossen, einen gewissen Syron, dem er seine astronomischen und astrologischen Werke widmete, und einen gewissen Theon, der ihm Beobachtungen mitteilte.
+
+Seine Werke veröffentlichte er in griechischer Sprache.
+Das früheste seiner Hauptwerke, der Almagest, entstand zwischen 141 - dem Zeitpunkt der letzten dort verzeichneten Beobachtung - und der im zehnten Regierungsjahr von Kaiser Antoninus Pius (147/148) gesetzten Inschrift von Kanobos, die teilweise verbesserte Einzelheiten aus dem Almagest aufführt.
+Da so wenig über ihn bekannt war, lebte er anscheinend zurückgezogen, musste aber aus einer wohlhabenden Familie stammen, was ihm die Beschäftigung mit Mathematik und Astronomie ermöglichte.
+Er war auch in Philosophie, besonders platonischer und aristotelischer Philosophie, sowie in Mathematik bewandert, hatte aber wenig Interesse an Biologie und Medizin.
+Zu seiner Zeit hatte Alexandria als Forschungszentrum nicht mehr die gleiche Stellung wie in hellenistischer Zeit, war aber weiterhin ein bedeutendes Zentrum astronomischer Forschung.
+Die Bibliothek von Alexandria wird für das Werk des Ptolemäus ein wichtiges Arbeitsinstrument gewesen sein.
+
+== Astronomie
+
+=== Ptolemäisches Weltbild
+
+Nach Ptolemäus befindet sich die Erde fest im Mittelpunkt des Weltalls, dem Centrum Mundi.
+Alle anderen Himmelskörper (Mond, Sonne, die fünf damals bekannten Planeten und der Sternhimmel) bewegen sich in kristallenen Sphären auf als vollkommen angesehenen Kreisbahnen (Deferent) um ihren Mittelpunkt Centrum Deferentis.
+Die Bewegung auf dem Deferent ist nicht gleichförmig.
+Es gibt jedoch einen weiteren Punkt, von dem die Bewegung auf dem Deferent gleichförmig erscheint.
+Dies ist das Centrum Aequantis.
+Alle drei Zentren liegen auf einer Linie (Linie der Zentren) und sind jeweils um die Exzentrizität des Planeten gegeneinander versetzt.
+Um astronomische Beobachtungen, insbesondere die zeitweise rückwärtige Bewegung der Planeten mit diesem System in Einklang zu bringen, war es allerdings notwendig, alle Himmelskörper auf ihren Bahnen weitere Kreise (Epizykel) um diese Deferenten ziehen zu lassen - siehe Epizykeltheorie - und teilweise noch weitere Bewegungen um die primären Epizykel, oder die Linie der Zentren rotieren zu lassen (Mondtheorie und Merkurtheorie).
+Durch den Einsatz solcher (gegeneinander leicht geneigter) Bahnen konnte Ptolemäus sein Modell mit den damals noch freiäugigen Beobachtungen in Einklang bringen.
+
+In der Sprache heutiger Mathematik könnte man Ptolemäus' Berechnungsart als empirischen Vorläufer der Fourieranalyse bezeichnen, mit der die sekundären Perioden der Planetenbahnen (u. a. die Mittelpunktsgleichung) empirisch bestimmt wurden.
+
+Das ptolemäische Weltbild war in der Genauigkeit seiner Bahnvorhersage dem heliozentrischen Weltbild des Nikolaus Kopernikus (16. Jh.) überlegen.
+Das ptolemäische System wurde um 1600 durch das ebenfalls noch geozentrische tychonische Weltsystem (benannt nach Tycho Brahe) abgelöst.
+Erst Keplers Entdeckung, dass die Planeten auf Ellipsen um die Sonne laufen, führte dann zu einem damals ausreichend genauen und unter Astronomen allgemein akzeptierten Modell des kopernikanischen Weltbildes.
+Ptolemäus' Berechnungsmethoden waren äußerst präzise und in ihrer Grundidee als Berechnungsmethode auch richtig, nicht allerdings in ihrer philosophischen Deutung, dass sich alles um die Erde als Mittelpunkt drehe.
+Der Durchbruch und Erfolg der keplerschen Berechnungen lag weniger darin begründet, dass die Sonne und nicht mehr die Erde im Mittelpunkt der Bewegungen stand, sondern in der Tatsache, dass Kepler Ellipsenbahnen und keine Kreisbahnen mehr verwendete, was zu einer größeren Übereinstimmung mit den von Tycho Brahe und später Galileo Galilei tatsächlich gemessenen Planetendaten führte.
+
+=== Kritik
+
+In neuerer Zeit wurden die Leistungen des Ptolemäus jedoch sehr viel kritischer bewertet.
+Schon Tycho Brahe sprach um 1600 von "Betrug".
+1817 warf ihm der französische Astronom und Mathematiker Jean-Baptiste Joseph Delambre gefälschte und fingierte Beobachtungen, vorgefasste Meinungen, Lügen und Plagiat vor.
+Dies wurde 1977 und nochmals 1985 durch den US-amerikanischen Astronomen Robert Russell Newton in vollem Umfang wiederholt.
+So sollen laut Newton fast alle von Ptolemäus angeblich selbst gemachten Beobachtungen fiktiv oder von Hipparchos übernommen sein, dessen Längenangaben nur 2° 40', der Wert der aufgelaufenen Präzession, hinzugefügt wurden (korrekt wären 3° 40' gewesen).
+Diesem vernichtenden Urteil über Ptolemäus hat sich B. L. van der Waerden in seinem 1988 erschienenen Buch Die Astronomie der Griechen angeschlossen.
+
+Andererseits präsentierte bereits 1796 Pierre Simon Laplace eine simple Erklärung:
+Die Differenz von einem Bogengrad lasse sich durch einen gleich großen Fehler in der damaligen Theorie der Sonnenbewegung begründen.
+Bradley E. Schaefer kam 2002 zu dem Schluss, eine beträchtliche Anzahl der von Ptolemäus genannten Beobachtungsdaten habe dieser (bzw. seine Assistenten) selbst gewonnen.
+Er habe jedoch dann, wenn ältere Daten besser zu seinem Modell passten als seine eigenen, diese ohne ausdrückliche Quellenangabe übernommen.
+Diese Vorgehensweise war zu einer Zeit, in der man an wissenschaftliche Arbeiten noch nicht die heutigen Maßstäbe anlegte, üblich.
+
+=== Weitere Werke
+
+Ein weiteres astronomisches Werk des Ptolemäus sind seine "Planetenhypothesen", in dem er die Ergebnisse des Almagest dazu benutzte, Aussagen über die Dimensionen des Universums im Großen zu treffen.
+So schätzte er aufgrund seines Modells die mittlere Distanz zur Sonne als 1.210 (tatsächlich: 23.480) und die Distanz zur Fixsternsphäre als 20.000 Erdradien.
+Gezeigt wird darin auch, wie ein anschauliches mechanisches Modell des Kosmos gebaut werden kann.
+
+Eine weitere vor allem für praktische Zwecke gedachte Sammlung sind seine "Handlichen Tabellen".
+In der Phaseis (Aufgänge und Niedergänge der Sterne mit Wetterzeichen) stellte er zudem einen Sternkatalog basierend auf dem Lauf der Sterne übers ganze Jahr zusammen und erweiterte jenen von Hipparchos um etwa ein Viertel.
+Zur Anwendung der Mathematik auf astronomische Fragestellungen stammen von ihm die beiden Schriften Analemma und Planisphaerium.
+Astronomisch auch erwähnenswert ist die auf einer Stele erhaltene Kanobusinschrift.
+
+Seinen chronologischen Angaben bezüglich astronomischer Aufzeichnungen ordnet Ptolemäus Daten des ägyptischen Kalenders zu.
+Um Mehrdeutigkeiten zu vermeiden, nennt er für nächtliche Ereignisse den ausgehenden und beginnenden altägyptischen Tag.
+Aufgrund jener präzisen Angaben sind die jeweiligen Vorkommnisse im julianischen Kalender exakt datierbar.
+
+== Mathematik
+
+Einzig bekanntes eigenständiges mathematisches Werk ist die nur noch bei Proklos überlieferte Abhandlung über das Parallelenpostulat, in dem er einen Beweis für das Parallelenaxiom von Euklid geben wollte, der aber mathematisch falsch ist.
+Andere mathematische Ausführungen wurden in die genannten primär anwendungsorientierten astronomischen Schriften eingearbeitet.
+
+So stammt von ihm der Satz von Ptolemäus.
+Dieser mathematische Lehrsatz gilt für Sehnenvierecke, also Vierecke, zu denen ein Kreis durch alle vier Ecken konstruiert werden kann.
+Der Satz von Ptolemäus besagt, dass bei einem Sehnenviereck die Summe aus dem Produkt gegenüberliegender Seitenlängen das Produkt der beiden Diagonalen ergibt.
+Somit gilt ac + bd = ef.
+Da auch symmetrische Trapeze einen Umkreis haben, erhält man für die symmetrischen Schenkel b = d und den Diagonalen e = f den Sonderfall ac + b2 = e2.
+Der Satz gilt ferner auch für Rechtecke, die ebenfalls einen Umkreis haben.
+Hier gilt dann a = c, so dass der Satz von Ptolemäus den Satz des Pythagoras als Spezialfall enthält: a2 + b2 = e2.
+Wie auch der Satz des Pythagoras ist der Satz von Ptolemäus umkehrbar.
+
+Im Almagest (I 10) findet sich folgende Konstruktion der Seitenlängen des regelmäßigen Fünf- bzw. Zehnecks:
+Zum gegebenen Umkreis (Durchmesser ) des gesuchten Fünf- oder Zehnecks wird der Radius halbiert (Mittelpunkt M) und der Kreis um M durch C gezeichnet.
+Der Schnittpunkt dieses Kreises mit dem Durchmesser ist der Punkt D. Dann ist s 10 {\displaystyle s_{10 } } = OD die Seitenlänge des zugehörigen Zehnecks und s 5 {\displaystyle s_{5 } } = CD die des zugehörigen Fünfecks.
+Außerdem ist s 6 {\displaystyle s_{6 } } = r = OC die Seitenlänge des zugehörigen Sechsecks.
+Die Konstruktion beruht auf zwei Sätzen der Elemente des Euklid, nämlich XIII 10 ( s 5 2 = s 6 2 + s 10 2 {\displaystyle s_{5}^{2}=s_{6}^{2}+s_{10}^{2}} ) und XIII 9 ( ( s 6 + s 10 ) :
+s 6 = s 6 : s 10 {\displaystyle (s_{6}+s_{10}):s_{6}=s_{6}:s_{10}} ) sowie der Konstruktion II 11 (stetige Teilung).
+
+Für seine astronomischen Berechnungen im Almagest verwendet Ptolemäus die heute nicht mehr gebräuchliche Winkelfunktion Chord: chord  ( a ) {\displaystyle \operatorname {chord} (\alpha )} ist die Länge der Sehne zum Mittelpunktswinkel a {\displaystyle \alpha } im Einheitskreis.
+In Kapitel I.11 ist diese Funktion für den Bereich a = 1 2  {\displaystyle \alpha ={\tfrac {1}{2}}^{\circ }} bis 180  {\displaystyle 180^{\circ } } mit Schrittweite 1 2  {\displaystyle {\tfrac {1}{2}}^{\circ }} tabelliert.
+Solche Sehnentafeln dienten denselben Zwecken wie Sinus-Tabellen, da gilt:
+
+Als Beispiel für die erreichte Genauigkeit soll die Angabe aus dem Almagest dienen:
+
+Im Sechzigersystem bedeutet dies
+
+Damit wird etwa eine 5-stellige Genauigkeit erreicht, wie der Vergleich zeigt:
+
+In der Abbildung gilt:
+
+Im Einheitskreis hat der Satz des Pythagoras dann die Form:
+
+== Geographie
+
+Neben dem zusammenfassenden Kanon bedeutender Städte verfasste Ptolemäus die Geographia (Geographike Hyphegesis, Explicatio geographica, "geografische Anleitung"), in der er die bekannte Welt und ihre Bewohner aufzeichnete.
+
+Als Referenz für die Längengrade (+/-180°) definierte er den bis in das 19. Jahrhundert verwendeten Meridian durch die von ihm so genannten "makaron nesoi" (lateinisch: "insulae fortunatae"), die heutigen Kanarischen Inseln (Ferro-Meridian).
+Seine Definition der Breitengrade ist bis heute gültig (Äquator 0°, Pole +/-90°).
+Außerdem legt er darin seine Hypothese vom unbekannten Südkontinent Terra Australis dar.
+Ptolemäus war wie früher schon Aristoteles bekannt, dass die Erde eine Kugel ist; er stellte zu deren Darstellung in einer Blattebene mehrere geeignete Projektionen vor.
+Er nahm auch verschiedene Verbesserungen am früheren Werk des Marinos von Tyros vor.
+Allerdings nutzte er Informationen aus zweiter Hand oder Legenden, so dass seine Darstellungen, insbesondere der behandelten Völker, oft ungenau oder sogar irreführend sind.
+Er befasste sich auch mit den Berechnungen des Erdumfangs von Eratosthenes und Poseidonios.
+Dabei übernahm er die falschen Ergebnisse des Letzteren, die dann in die allgemein bekannte Literatur übergingen und bis zu Christoph Kolumbus auf einen zu geringen Erdumfang von ca. 17.000 Seemeilen (30.000 km) schließen ließen.
+
+Ptolemäus überlieferte lediglich schriftliche Anleitungen und Tabellen zur Erstellung von Karten, zeichnete selbst aber nur wenige grobe Skizzen.
+Später wurden in seinem Namen Geographien geschrieben und im Laufe der Jahrhunderte durch zahlreiche Karten ergänzt.
+
+== Musiktheorie
+
+Ptolemäus schrieb auch die aus drei Büchern bestehende "Harmonik", das wichtigste erhaltene musiktheoretische Werk der Spätantike nach Aristoxenos und Euklid.
+Er versuchte - wie wahrscheinlich schon Eratosthenes - einen Kompromiss zwischen Aristoxenos und den Pythagoreern, an dem sich später auch Boethius orientierte.
+Rechnerisch vertrat er die Position von Euklid, ideell und terminologisch aber die auf der musikalischen Wahrnehmung aufgebaute Lehre des Aristoxenos.
+Er überlieferte in seiner Harmonik viele Details älterer antiker Musiktheoretiker, etwa die Tetrachorde (Tongeschlechter) von Archytas, Eratosthenes und Didymos, die ansonsten verloren wären.
+
+== Optik und Erkenntnistheorie
+
+Sein Werk Optik befasst sich mit den Eigenschaften des Lichtes.
+Er behandelt experimentell und mathematisch unter anderem die Reflexion, Brechung und Farben.
+Daneben werden optische Täuschungen erwähnt.
+In der philosophischen Abhandlung peri kriteriou kai hegemonikou (lat. de iudicandi facultate et animi principatu, "Von der Urteilskraft und dem Verstand") vertritt er eine Mischung aus neuplatonischen und stoischen Anschauungen.
+
+Daneben verfasste er auch das zweiteilige Werk Kriterion zur Erkenntnistheorie, nach dem für das Erkennen von Wahrheit allein die Vernunft genügt.
+Dabei geht er auch auf das Denken von Tieren ein und bestimmt das sogenannte Hegemonikon, das Funktionszentrum des Körpers, einerseits zum "Leben" im Herzen und andererseits zum Fällen ethischer Entscheide d. h. zum "Gut Leben" im Gehirn.
+
+== Astrologie
+
+Darüber hinaus verfasste Ptolemäus das viele Jahrhunderte vorbildlich wirkende vierbändige astrologische Grundlagenwerk Tetrabiblos ("vier Bücher"; griechisch oaa Apotelesmatika lautete vielleicht der von Ptolemäus selbst gegebene Titel des Werkes), das auf seinen astronomischen Schriften basiert und die Grundlagen der Astrologie und die Auswirkungen der Himmelskörper auf die irdische Sphäre und Materie sowie den Menschen darstellt.
+
+== Namensgeber
+
+Der Mondkrater Ptolemaeus wurde 1935 nach ihm benannt, 1962 der Mount Ptolemy in der Antarktis, ebenso der Ptolemäus-See in Nubien.
+
+== Textausgaben
+
+Für die Ausgaben des Almagest und Geographike Hyphegesis und Literatur dazu siehe dort.
+
+== Literatur
+
+Übersichtsdarstellungen in Handbüchern
+
+Untersuchungen
+
+== Weblinks
+
+Texte Almagest
+
+Geographike
+
+Tetrabiblos
+
+Digitalisate
+
+== Fußnoten
+

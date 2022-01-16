@@ -1,0 +1,13 @@
+Eine Karte ist ein digitales oder analoges Medium zur Darstellung der Erdoberfläche oder anderer Himmelskörper.
+Sie ist ein eingeebnetes, verkleinertes und generalisiertes, mit Beschreibungen und Zeichen versehenes Abbild der Erdoberfläche oder anderer Himmelskörper.
+Beim Karteninhalt unterscheidet man zwei Hauptgruppen von Karten: topografische Karten und thematische Karten.
+Bei der Herkunft wird zwischen amtlichen und privaten Karten unterschieden.
+In ihnen werden raumbezogene Gegenstände, Sachverhalte oder Prozesse maßstäblich generalisiert und mit Hilfe eines Zeichensystems grafisch in ihren Raumbeziehungen dargestellt.
+Im weitesten Sinne veranschaulicht eine Karte abstrakte, raumbezogene Daten und nur schwer formulierbare räumliche Zusammenhänge mit dem Ziel, diese für den Betrachter leicht verständlich zu machen.
+Darstellungsräume einer Karte sind vor allem die Erde und die Erdteile.
+Aber auch andere Himmelskörper, der Sternhimmel oder fiktive Welten können Gegenstand einer Kartendarstellung sein.
+Die Wissenschaft und Technik zur Darstellung der Erdoberfläche in topografischen und thematischen Karten ist die Kartografie.
+Traditionell wird eine Karte auf Papier gedruckt, wobei ihre thematischen Ebenen wie Gelände, Flüsse, Straßen, Wald usw. im Mehrfarbendruck aufgebracht werden.
+Heute werden die Layer nicht mehr als Druckfolien archiviert, sondern in einer Datenbank gespeichert.
+Die Karte kann dann auf einem Bildschirm präsentiert und auch leichter aktualisiert werden.
+Eine digitale Karte erlaubt darüber hinaus die Einbeziehung weiterer, beispielsweise bildlicher und akustischer Medien sowie die interaktive Kommunikation mit dem Benutzer.

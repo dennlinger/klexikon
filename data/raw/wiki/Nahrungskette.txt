@@ -1,0 +1,257 @@
+Eine Nahrungskette ist ein Modell für die linearen energetischen und stofflichen Beziehungen zwischen verschiedenen Arten von Lebewesen, wobei jede Art Nahrungsgrundlage einer anderen Art ist, ausgenommen die Art am Ende der Nahrungskette.
+Man spricht auch von trophischen Beziehungen (abgeleitet von griechisch trophein "sich ernähren").
+Am Beginn von Nahrungsketten stehen Vertreter der Produzenten (vor allem Pflanzen), dann folgen Konsumenten (Pflanzenfresser und Fleischfresser).
+Am Ende einer solchen Kette steht oft ein Spitzenprädator.
+Nahrungsketten werden in der Ökologie untersucht und sind auch in der Ökotoxikologie von Bedeutung.
+
+Nahrungsketten sind vereinfachte Modelle.
+Die meisten Pflanzen- und Tierarten dienen mehreren anderen Arten als Nahrung und die meisten Konsumenten ernähren sich von mehreren anderen Arten.
+Allesfresser ernähren sich sowohl von Pflanzen als auch von Tieren.
+Spitzenprädatoren sind nach ihrem Tod Nahrungsgrundlage für Aasfresser oder Destruenten - ebenso viele Organismen der anderen Stufen.
+Die trophischen Beziehungen in realen Ökosystemen sind daher wesentlich komplexer und werden als Nahrungsnetz bezeichnet.
+
+== Trophieniveaus
+
+Nahrungsketten werden häufig gedanklich nach Trophieniveaus strukturiert.
+Ein Trophieniveau umfasst alle Organismen (bzw. Arten) mit gleicher Position in der Nahrungskette.
+Das unterste Trophieniveau sind die Produzenten, die sich gar nicht von anderen Organismen ernähren, aber solchen selbst als Nahrung dienen können (in der Regel grüne Pflanzen).
+Alle Organismen, die keine Produzenten sind, kann man als Konsumenten zusammenfassen, die zur Ernährung andere Organismen benötigen.
+Meist werden Konsumenten gegliedert in Primärkonsumenten, d. h. Pflanzenfresser (auch Herbivoren oder Phytophagen genannt), und Sekundärkonsumenten, also "Räuber" (auch Carnivoren, Prädatoren, Zoophagen oder Beutegreifer genannt).
+Prädatoren, die Sekundärkonsumenten erbeuten, werden als Tertiärkonsument bezeichnet.
+Das oberste Trophieniveau sind Spitzenprädatoren (oder Top-Prädatoren), die nicht oder nur ausnahmsweise anderen Organismen als Nahrung dienen.
+Die "zwischen" den Phytophagen und den Top-Prädatoren liegenden Organismen ernähren sich selbst von anderen Organismen (sie sind also Konsumenten), dienen selbst aber ebenfalls als Nahrung für andere.
+Je nach Komplexität umfassen Ökosysteme unterschiedlich viele Trophieniveaus, aber nicht unbegrenzt viele.
+
+Während die Position der Herbivoren noch relativ eindeutig zu definieren ist, ist die Rolle der Prädatoren schwieriger zu fassen, weil sie sich in der Regel von verschiedenen Organismen ernähren, die durchaus unterschiedliche Position in der Nahrungskette haben können.
+Zum Beispiel können Habichte Tauben erbeuten (Tauben sind Samenfresser, also Phytophagen).
+Die Nahrungskette umfasst dann drei Glieder, mit dem Habicht in dritter Position.
+Zu ihrem Beutespektrum gehören aber auch Meisen; diese sind Insektenfresser, also ihrerseits Prädatoren.
+Hier wäre der Habicht in vierter Position (Pflanze > Insekt > Meise > Habicht), oder sogar in fünfter, wenn das von der Meise erbeutete Insekt ebenfalls bereits ein Prädator war.
+Eine Art kann also mehr als eine Trophiestufe besitzen.
+Das Trophieniveau wird in der Regel nach der gemittelten Bedeutung der Nahrungsbeziehungen für die betreffende Art bestimmt.
+Problematisch für die Bestimmung des Trophieniveaus sind außerdem die Allesfresser ("Omnivoren"), sie ernähren sich sowohl von Pflanzen als auch als Prädatoren.
+Problematisch sind ferner kannibalistische Arten, bei denen Alttiere zum Beispiel Jungtiere derselben Art fressen.
+Meist werden auch Parasiten bei der Definition der trophischen Ebenen außer Acht gelassen.
+
+== Nahrungsnetze
+
+Eine Nahrungskette in einem Ökosystem ist in der Regel eine gedankliche Abstraktion, weil sich Arten von mehreren Beutearten ernähren können und auch selbst verschiedenen Arten von Räubern zum Opfer fallen können.
+Nahrungsketten sind deshalb in der Regel verzweigt, man spricht vom Nahrungsnetz.
+
+Die Untersuchung von Nahrungsnetzen realer Ökosysteme ist wegen der extremen Komplexität, die bereits in artenarmen Ökosystemen auftreten kann, ein schwieriges Problem der Ökologie.
+Zudem sind alle Populationen im Ökosystem ständigen Schwankungen unterworfen, die sich über die Abhängigkeiten im Nahrungsnetz direkt oder indirekt auf die Populationen mehrerer anderer Arten auswirken und deren Nahrungsauswahl beeinflussen.
+Eine mathematische Beschreibung der Populationsdynamik, wie sie für einzelne Räuber-Beute-Beziehungen in den Lotka-Volterra-Gleichungen möglich ist, lässt sich nur begrenzt auf Nahrungsnetze anwenden.
+Neben vereinfachenden Annahmen kommen auch Untersuchungen in künstlich vereinfachten Ökosystemen, den sogenannten Mesokosmen, zur Anwendung.
+
+Unterschieden wird zwischen "kumulativen" Netzen, die alle Arten umfassen, von denen trophische Beziehungen bekannt sind, und Netzen zu jeweils bestimmten Zeitpunkten.
+Diese sind regelmäßig viel kleiner als kumulative Netze, aber schwieriger zu erfassen.
+Kumulativ ermittelte Netze neigen dazu, die Stärke der Interaktionen zwischen den beteiligten Arten (die "Koppelungsdichte") zu überschätzen.
+
+== Saprophagen- und Lebendfresser-Subsysteme
+
+Ein Großteil der pflanzlichen Biomasse in realen Ökosystemen wird nicht von Herbivoren konsumiert, sondern bleibt bis zum Tod der Pflanze oder ihrer Organe erhalten.
+Beispielsweise fällt in einem Waldökosystem der größte Teil der Produktion als Falllaub oder Totholz an.
+Diese tote Substanz wird ebenfalls von darauf spezialisierten Konsumenten gefressen, die als Saprophagen bezeichnet werden.
+Letztlich wird die tote Biomasse (von geringen, möglicherweise dauerhaft gespeicherten Resten abgesehen) von Bakterien und Pilzen, den Destruenten, wieder zu anorganischen Bestandteilen abgebaut (mineralisiert).
+Da die Destruenten energiereicher sind als die Pflanzenstreu selbst, sind sie für die Ernährung der Saprophagen meist von entscheidender Bedeutung.
+Auch die Saprophagen und Destruenten haben ihre Prädatoren.
+In realen Ökosystemen existieren dadurch in der Regel zwei unterschiedliche Nahrungsketten, die beide von den Produzenten ausgehen, aber ansonsten nicht direkt gekoppelt sein müssen.
+Typisch für das Saprophagensystem sind enge Zyklen oder Schleifen, die dadurch entstehen, dass dieselbe Biomasse von verschiedenen Saprophagen mehrfach hintereinander gefressen werden kann (dies ist dadurch möglich, weil energetisch entscheidend ja die darin enthaltene Biomasse der Destruenten ist).
+Die von den Herbivoren und den Saprophagen ausgehenden Nahrungsketten können durch gemeinsame Räuber gekoppelt sein.
+Man beobachtet z. B. in Wäldern, dass insektenfressende Vögel wie Meisen sich überwiegend von Insekten wie z. B. Mücken ernähren, die (über ihre Larven) dem Saprophagensystem angehören.
+Bei Massenvermehrung von Schmetterlingsraupen (Herbivoren) schwenken sie aber auf diese als Hauptnahrung über.
+
+Bei der Bestimmung der Länge einer Nahrungskette wird in der Regel streng zwischen den Subsystemen unterschieden, obwohl auch die tote Biomasse von Herbivoren und Prädatoren letztlich (z. B. durch Aasfresser) in die Saprophagenkette eingeht.
+Hauptgrund dafür ist, dass Herbivoren und ihre Prädatoren direkt auf die grünen Pflanzen und damit auf die Produktion des Ökosystems einwirken können.
+Saprophagen hingegen können die Menge der anfallenden toten Biomasse (wie z. B. der Pflanzenstreu) nicht beeinflussen.
+Man spricht hier von "donor-kontrollierten" Systemen.
+
+== Energie- und Stoffumsätze
+
+Die trophischen Beziehungen in Nahrungsketten bewirken Stoff- und Energieumsätze, die letztlich auf dem primären Aufbau organischer Substanz (Biomasse) durch die Produzenten beruhen (Netto-Primärproduktion).
+Der über die Nahrungsketten ablaufende Teil des Energieumsatzes eines Ökosystems wird daher durch die Produktion des Ökosystems begrenzt.
+Da die Konsumenten mit der aufgenommenen Energie ihren Stoffwechsel aufrechterhalten (siehe Respiration, "Veratmung"), geht dem System bei jedem Umsatzschritt entlang der Nahrungskette ein Teil der nutzbaren Energie in Form von Wärme oder energiearmen Abfallprodukten verloren.
+
+Aus chemischer Sicht ist darauf hinzuweisen, dass im Allgemeinen als "energiereich" bezeichnete Stoffe nicht per se Energie speichern.
+Die Fähigkeit eines Organismus, durch den Verzehr von Stoffen wie Zucker oder Zellulose Arbeit verrichten, d. h. ihren Stoffwechsel antreiben zu können (siehe Definition von Energie), hängt gleichermaßen an der Verfügbarkeit von Elektronenakzeptoren.
+In vielen Land- und Wasserökosystemen spielt der molekulare Sauerstoff O2 diese Rolle.
+Nur bestimmte (Archae-)Bakterien können unter Luftabschluss und Sauerstoffmangel andere Elektronenakzeptoren nutzen (Anaerobie).
+Ein Beispiel ist die Carbonatatmung der Methanbildner, bei der Kohlenstoffdioxid (CO2) als ultimativer Elektronenakzeptor fungiert.
+
+Entlang der Nahrungskette nehmen die Konsumenten auch den weit überwiegenden Teil der Nährstoffe auf, die sie zum Aufbau ihrer eigenen Biomasse benötigen.
+Der Kohlenstoffumsatz ist dabei direkt an den Energieumsatz gekoppelt.
+Stickstoff muss als Bestandteil der Proteine aufgenommen werden.
+Phosphor wird für zahlreiche lebenswichtige biologische Funktionen benötigt, größere Mengen z. B. zur Synthese von DNA und RNA.
+Eine ausgewogene Aufnahme dieser Elemente kann etwa für einen Pflanzenfresser ein Problem sein.
+Holz enthält beispielsweise viel grundsätzlich nutzbare Energie in Form des reduzierten Kohlenstoffs der Zellulose, aber in der Regel nur wenig nutzbaren Stickstoff oder Phosphor.
+
+Für die reine Funktion des einfachsten denkbaren Ökosystems wären Produzenten (die Biomasse aufbauen) und Destruenten (die sie wieder mineralisieren) ausreichend.
+Die Anwesenheit von Konsumenten kann Produktion und viele weitere Strukturparameter eines Ökosystems stark beeinflussen und unter Umständen "steuern".
+Art und Ausbildung von Nahrungsketten können dadurch eine Schlüsselrolle für Ausprägung der Struktur und der Funktion eines ökologischen Systems sein.
+Die Suche nach Regeln und Regelmäßigkeiten solcher Beeinflussung ist ein wesentliches Feld ökologischer Forschung.
+Je nach Fragestellung der Forschung kann daher der Energie- und Stoffumsatz selbst, oder die Beziehungen und das Gefüge der am Nahrungsnetz beteiligten Organismen und Arten im Zentrum des Interesses stehen.
+
+Je nach Fragestellung werden anstelle der gespeicherten und in der Nahrungskette weitergegebenen Energie im Rahmen von Energieflussmessungen, auch einzelne Stoffe bzw. Stoffflüsse (Kohlenstoff, Stickstoff usw.) untersucht.
+Durch die Destruenten (Pilze, Bakterien, aber auch an der mechanischen Zersetzung beteiligte Würmer, Gliedertiere usw.), die ihre Nahrung allen übrigen Trophieniveaus entnehmen und dabei die Stoffe aus der Nahrungskette zurückführen, ergibt sich für die Stoffe keine Kette, sondern ein Stoffkreislauf (vgl. z. B. Stickstoff- und Kohlenstoffkreislauf).
+
+== Energetische und allometrische Beschränkungen von Nahrungsketten und Nahrungsnetzen
+
+Grundlegend für die energetische Betrachtung von Nahrungsketten sind der englische Zoologe Charles Sutherland Elton und der amerikanische Limnologe Raymond Laurel Lindeman.
+Auf Elton geht das Konzept der Nahrungspyramide (Elton'schen Zahlenpyramide) zurück, die als Energiepyramide die verschiedenen Trophieniveaus eines Ökosystems charakterisiert.
+Durch die mit jedem Konsumtionsvorgang unvermeidlichen Verluste an Energie steht für jede trophische Ebene weniger Energie als für die darunter liegende zur Verfügung, meist wird als Faustformel ein übrig bleibender Anteil von 10 % angenommen (d. h. ein Verlust von 90 %), der in der Größenordnung durch zahlreiche Studien bestätigt worden ist.
+Durch diesen exponentiellen Energieverlust ist die Länge der möglichen Nahrungsketten begrenzt, weil irgendwann nicht mehr genügend Energie für ein weiteres trophisches Niveau übrig bleibt.
+Weiterhin sollte die Länge der Ketten von der Produktivität des betrachteten Ökosystems abhängig sein.
+In tatsächlich untersuchten Ökosystemen liegt die typische Länge der Nahrungsketten (im oben definierten Sinn!) zwischen zwei und fünf, fast immer entweder bei drei oder vier.
+Beziehungen zur Produktivität konnten im Großen und Ganzen bestätigt werden.
+
+Die genannte Form der Energiepyramide gilt in dieser Form nur für die tatsächliche Produktion eines Ökosystems bzw. seiner einzelnen trophischen Ebenen.
+Betrachtet man anstelle der Produktion die (viel leichter messbare) vorhandene Biomasse, werden die Zusammenhänge komplexer.
+Als (wahrscheinlicher) Hauptgrund hat sich der Einfluss der Größenverhältnisse der beteiligten Organismen herausgestellt.
+Die Zwänge, denen ein größer werdender Organismus aus rein physikalischen und physiologischen Gründen unterliegt, werden als Allometrie bezeichnet.
+Empirisch gefundene Zusammenhänge bei zunehmender Größe (Skalengesetze, am bekanntesten ist Kleibers Gesetz) sind durch neuere Forschungen in die ökologische Theorie integriert worden.
+
+Ist ein trophisches Niveau aus großen Organismen zusammengesetzt, steigt die Biomasse bei gleich bleibender Produktionsrate an, und zwar nicht linear, sondern exponentiell (über die tatsächliche Größe des Exponenten gibt es noch keine Einigkeit).
+Da größere Organismen pro Einheit Körpermasse die Energie langsamer umsetzen (und umsetzen müssen), ändert sich die (pro Fläche betrachtete) Produktivität des Systems als Ganzes dabei fast gar nicht.
+Die großen Organismen haben also zwar mehr Biomasse, ihre Produktion liegt aber nicht höher.
+Dieser Zusammenhang wurde über mehr als 12 Größenordnungen bestätigt (z. B.: planktische Algen zu Waldbäumen).
+Er gilt naturgemäß für Konsumenten in gleicher Weise (z. B. weidende Huftiere gegenüber Schmetterlingsraupen).
+Die gleich bleibende (und nur durch die Ressourcen und die zur Verfügung stehende Energie begrenzte) Produktivität von Ökosystemen, unabhängig von den sie zusammensetzenden Arten, wurde bereits früher festgestellt (ein Beispiel sind die genau untersuchten Ökosysteme des Solling-Projekts), konnte aber damals noch nicht erklärt werden.
+
+Durch diese Zusammenhänge gibt es "umgedrehte" Pyramiden
+
+Umgedrehte Pyramiden für die Produktivität selbst sind unmöglich.
+
+Da die Einflüsse der Körpergröße sich pro Fläche betrachtet aufheben, ist die Länge der Nahrungsketten in einem Ökosystem hingegen nicht von der Größe der beteiligten Organismen abhängig.
+
+== Muster und Prozesse in realen Nahrungsnetzen
+
+Die großen Fortschritte im Verständnis der Funktion zahlreicher Ökosysteme haben gezeigt, dass der über Nahrungsketten und Nahrungsnetze vermittelte Effekt auf Systeme extrem komplex und zwischen verschiedenen Systemen sehr unterschiedlich ist.
+
+=== Unterschiede zwischen aquatischen und terrestrischen Nahrungsnetzen
+
+Dominierende Produzenten im Meer und in Süßwasserseen sind einzellige Algen (Phytoplankton).
+Terrestrische Systeme beruhen in der Regel auf Gefäßpflanzen, am häufigsten Bäume (Wälder) oder Gräser (Savannen, Steppen, Tundren, vom Menschen geschaffenes Weideland).
+Daraus ergeben sich u. a. folgende Unterschiede:
+
+Insgesamt ergibt sich aus diesen Unterschieden, dass der Einfluss der Phytophagen auf die Produzenten in aquatischen Systemen tendenziell höher ist (es gibt zahlreiche Ausnahmen und Gegenbeispiele!).
+Vermutlich sind mehr aquatische Systeme entscheidend durch den Einfluss der Phytophagen und der auf sie einwirkenden Prädatoren geprägt und mehr terrestrische Systeme von den Produzenten.
+Vor allem in Waldökosystemen erwies sich der Einfluss der Pflanzenfresser vielfach als überraschend gering.
+
+=== Trophische Kaskaden
+
+Trophische Kaskade nennt man den indirekten Effekt, den Prädatoren auf Primärproduzenten ausüben können, indem sie die Bestandsdichte der Herbivoren (Phytophagen) begrenzen.
+Ist in einem Ökosystem eine solche trophische Kaskade wirksam, ist die Produktion an pflanzlicher Biomasse hoch und die Phytophagendichte ist relativ gering.
+Dies liegt aber nicht daran, dass Letztgenannte die Wachstumsraten ihrer Populationen nicht zu steigern vermögen, sondern ist darauf zurückzuführen, dass ihre Bestandsdichte von den Prädatoren gering gehalten wird.
+Dies wird deutlich, wenn die Prädatoren (z. B. experimentell) entfernt werden:
+Die Herbivorendichte steigt stark an und die Primärproduktion sinkt stark ab.
+Ist eine trophische Kaskade wirksam, wird also über die Nahrungskette die tatsächliche Struktur des Ökosystems determiniert.
+Trophische Kaskaden sind in etlichen Ökosystemen nachgewiesen worden.
+Trotzdem besteht über ihre generelle Bedeutung keine Einigkeit.
+Das Meinungsspektrum reicht von "Kernthese der Ökologie" bis "seltene Ausnahmeerscheinung."
+
+=== Schlüsselarten
+
+In einer klassischen Studie beobachtete der amerikanische Ökologe R.T.Paine an der pazifischen Felsenküste, dass sich an ansonsten identischen Stellen vollkommen verschiedene Lebensgemeinschaften einstellen können, je nachdem, ob eine räuberische Seesternart vorhanden ist oder fehlt Diese räuberische Art ist demnach eine Schlüsselart (engl.:
+keystone predator) für das System.
+Seit dieser Studie wurde auch in anderen Systemen nach solchen Schlüsselarten gesucht und in einigen Fällen auch gefunden.
+In zahlreichen anderen Ökosystemen blieb die Suche nach Schlüsselarten aber erfolglos.
+
+== Fallbeispiele
+
+=== Wölfe, Wapiti-Hirsche und Biber im Yellowstone-Nationalpark
+
+Im amerikanischen Yellowstone-Nationalpark wurden die Wölfe in den ersten Jahrzehnten des 20. Jahrhunderts verfolgt und bis 1926 ausgerottet, um die Population der Bisons zu sichern.
+Daraufhin wurde in dem Gebiet eine extreme Dichte von Wapiti-Hirschen beobachtet, die in manchen Regionen dicht wie Rinder auf der Weide standen.
+Nachdem Versuche, die Dichte der Wapitis durch Abschießen zu begrenzen, fehlgeschlagen waren, wurde der Wolf im Jahr 1995 erneut angesiedelt und unter Schutz gestellt.
+Nun kam es zu folgenden Effekten:
+
+=== Huftiere in der Serengeti
+
+Der Serengeti-Nationalpark in Ostafrika ist weltberühmt für die großen Herden von Huftieren, von kleinen Gazellen bis hin zu Büffeln und Nashörnern.
+Die Interaktionen zwischen den großen Weidegängern und der Vegetation wird seit Jahrzehnten erforscht.
+Auch in der Serengeti wird die Balance zwischen Bäumen und Gräsern durch die Weidegänger geprägt.
+Die Baumbestände gingen z. B. nach der Wiedereinführung der Elefanten (im Jahr 1951) stark zurück.
+Überraschenderweise führte der Rückgang der Wildtierdichte durch die Maul- und Klauenseuche (mit Rindern eingeschleppt) nicht zu einer Ausbreitung, sondern zum Rückgang des Baumbestands.
+Grund war hier der Einfluss des Feuers.
+Durch die rückläufige Beweidung häufte sich viel tote Biomasse an, die zu stärkeren Feuern führte.
+Durch Ausschluss der Beweider mit Zäunen auf Versuchsparzellen zeigte sich, dass die Produktivität des Graslands mit Weidetieren höher war als ohne sie.
+Dies lag einerseits an den beschleunigten Nährstoffzyklen, insbesondere der schnelleren Stickstoff-Nachlieferung durch Urin und Kot (60 % Steigerung der Produktion), andererseits daran, dass ohne Weidetiere höhere Grasarten mit mehr Stützgewebe und niedrigerer Produktivität zunahmen.
+Die Gesamt-Produktivität der Serengeti wird aber nicht durch die Weidetiere, sondern durch die Niederschläge begrenzt.
+
+=== Nahrungsnetz im Hubbard Brook Experimental Forest
+
+Eine der umfangreichsten und sorgfältigsten Langzeitstudien in einem Ökosystem weltweit läuft seit 1963 im Hubbard Brook Experimental Forest im Tal des Hubbard Brook (White Mountains, New Hampshire, USA).
+Es handelt sich um eines der wenigen Systeme, in dem versucht wurde, alle wesentlichen Energie- und Stoffflüsse zu quantifizieren.
+Die Ergebnisse zeigen, dass in diesem Laubwald etwa 0,8 % der eingestrahlten Sonnenenergie photosynthetisch zum Aufbau pflanzlicher Biomasse genutzt wird.
+Etwa die Hälfte der aufgebauten Biomasse ging durch Atmung der Bäume direkt wieder verloren, so dass der tatsächliche Zuwachs (die Netto-Primärproduktion) etwa 0,4 % der Einstrahlung betrug.
+Die Produktion teilt sich in oberirdische (Blätter und Stämme) und unterirdische Produktion (Wurzeln und durch die Wurzeln abgegebene Stoffe).
+Da es sich um einen sommergrünen Laubwald handelt, sterben alle neu gebildeten Blätter im selben Jahr ab.
+Von der jährlich gebildeten Blattbiomasse wurden durchschnittlich etwa 99 % als Falllaub abgeworfen und gehen damit in die Saprobionten-Nahrungsketten ein.
+Ca. 1 % wurden durchschnittlich durch Phytophage genutzt, von denen Schmetterlingsraupen in diesen Wald die wichtigsten sind.
+Ähnliche Größenordnungen wurden in den meisten bislang untersuchten Wäldern beobachtet (z. B.).
+Die Hubbard Brook-Studie zeigte allerdings, dass die Verhältnisse in einzelnen Jahren erheblich von den Durchschnittswerten abweichen können.
+Bei einer Massenvermehrung blattfressender Schmetterlingsraupen konnte der Anteil der konsumierten Blattbiomasse bis auf 40 % ansteigen.
+Die Schmetterlingsraupen nehmen unabhängig vom Jahr etwa 14 % der gefressenen Blattbiomasse tatsächlich auf, der Rest geht v. a. als Kot verloren.
+Von den aufgenommenen 14 % werden circa 60 % im Stoffwechsel veratmet, während etwa 40 % dem Wachstum dienen.
+
+Unter den Wirbeltieren sind Singvögel die wichtigsten Fraßfeinde der Schmetterlingsraupen.
+Insgesamt verbrauchen Vögel etwa 0,2 % der jährlichen oberirdischen Netto-Primärproduktion in diesem Wald.
+Vögel als kleine, warmblütige Organismen haben einen höheren Ruhestoffwechsel als Schmetterlingsraupen.
+Sie verbrauchen deshalb nahezu 98 % der aufgenommenen Nahrung für ihren Stoffwechsel.
+Nur 2 % dienen also zum Aufbau ihrer eigenen Biomasse.
+Im Hubbard Brook Versuchswald leben dauerhaft etwa 15 Arten von Brutvögeln.
+Weitere 10-12 Arten treten unregelmäßig auf.
+Die weitaus meisten Arten sind Zugvögel.
+Die Dichte der Brutvögel betrug zu Beginn der regelmäßigen Untersuchungen Ende der 1960er Jahre ca. 20 Tiere/ha.
+Die Dichte ist bis Mitte der 2000er Jahre auf 7,5 bis 9 Tiere/ha abgesunken.
+Der Rückgang ist vor allem darauf zurückzuführen, dass 3 vorher häufige Arten verschwunden sind.
+Wie alle wichtigen Prädatoren in diesem Wald (z. B: Mäuse, Eich- und Streifenhörnchen, Spitzmäuse, Salamander, Hundertfüßler, Spinnen und Käfer) sind die Singvögel opportunistische, unspezialisierte Räuber, die je nach Angebot sowohl Bodentiere der Saprobiontenkette wie Pflanzenfresser erbeuten können.
+Zusätzlich spielen auch Samen eine Rolle, die Vögel sind also teilweise selbst Phytophage.
+
+In Jahren mit Massenvermehrung von Schmetterlingsraupen stieg die Dichte der Brutvögel sehr stark an.
+Auch durch experimentelle Nahrungsverknappung oder -zugabe konnte gezeigt werden, dass das Nahrungsangebot ein wesentlicher Faktor für die Vogelhäufigkeit war.
+Ein weiterer wichtiger Faktor war Prädation von Eiern und Nestlingen, der je nach Jahr 17 bis 42 % der Nester zum Opfer fielen.
+Die wichtigste Nestprädatoren waren Eichhörnchen.
+Da die Dichte der Eichhörnchen vom Samenangebot der Waldbäume (v. a. der Buche) abhing, sank der Bruterfolg der Singvögel in Mastjahren stark ab, obwohl die Vögel selbst teilweise Samenfresser sind.
+Die Prädation adulter Vögel kommt vor, ist aber aus Perspektive des Nahrungsnetzes bedeutungslos.
+
+Als Ergebnis der langjährigen Forschungen könnte man also festhalten:
+In diesem System sind bereits Pflanzenfresser im Hinblick auf die Stoff- und Energieflüsse von geringer Bedeutung und Räuber weitgehend bedeutungslos.
+Nahrungsketten mit einer Länge von mehr als drei Gliedern sind oberirdisch kaum anzutreffen bzw. unbedeutend.
+Dieses Urteil beruht allerdings nur auf einer quantitativ-energetischen Betrachtung des Nahrungsnetzes.
+Die Frage nach der Steuerung der Struktur der trophischen Beziehungen bzw. des betrachteten Ökosystems ist damit nicht beantwortet.
+
+== Warum ist die Länge der Nahrungsketten limitiert?
+
+Schon der Biologe Charles Elton stellte in den 1920er Jahren fest, dass Nahrungsketten in den meisten Fällen auf eine Länge von vier bis fünf Glieder beschränkt sind, also in der Regel über nur vier bis fünf Stationen (Trophieebenen) reichen.
+Zur Erklärung dieser Begrenzung liegen zwei Ansätze vor:
+
+Die neuere Forschung berücksichtigt beide Ansätze und versucht aufzuklären, welche Faktoren die Länge der Nahrungsketten in einem bestimmten Ökosystem begrenzen und wie sie zusammenwirken.
+An die Stelle einer monokausalen Erklärung tritt damit die fallspezifische Untersuchung verschiedener Einflussgrößen.
+Dazu gehören die Größe des Ökosystems, seine Zusammensetzung und seine bisherige Entwicklung, die Häufigkeit und Intensität von störenden Ereignissen (z. B. Dürreperioden oder das Eindringen neuer Arten) und die einzelnen Räuber-Beute-Beziehungen.
+Beispielsweise hängt die Länge der Nahrungsketten auch davon ab, ob die Räuber in der Lage sind, ihr Ernährungsverhalten dem Nahrungsangebot flexibel anzupassen.
+
+== Bedeutung für die Ökotoxikologie
+
+Ins öffentliche Interesse rückte der Begriff in Zusammenhang mit der Beobachtung einer Anreicherung von Schadstoffen bei aufeinander folgenden Gliedern (Nahrungsketten- oder Trophieebenen).
+Die in diesem Zusammenhang am häufigsten zitierte Arbeit ist diejenige von Woodwell und Mitarbeitern aus dem Jahre 1967.
+Tatsächlich können sich vor allem fettlösliche und nicht oder nur langsam abbaubare Stoffe (z. B. persistente Chlorkohlenwasserstoffe, Schwermetallionen) in aufeinander folgenden Nahrungskettengliedern unter bestimmten Bedingungen anreichern.
+Man spricht in diesem Zusammenhang auch von Biomagnifikation.
+
+Dieser Effekt wurde zunächst als allgemein gültig betrachtet, erwies sich aber auf Basis einer Vielzahl an Untersuchungen als insbesondere für luftatmende und/oder terrestrisch lebende Organismen (Vögel, Robben usw.) bedeutsam.
+Auch der Mensch kann dieser Form der Schadstoffanreicherung unterliegen (z. B. in der Muttermilch).
+Bei primären Wassertieren (z. B. Wasserschnecken, Wasserflöhe, Fische) in rein aquatischen Nahrungsketten ist der direkte Austausch der Stoffe aus der Wasserphase über die Epithelien der Organismen (der Vorgang der so genannten Biokonzentration in den Organismus hinein und die Elimination über Kiemen oder Hautoberflächen aus dem Organismus heraus) bedeutsamer als die durch Fressen kontaminierter Nahrung hervorgerufene Biomagnifikation, wenngleich starke Unterschiede zwischen den verschiedenen Stofftypen und den einzelnen Organismengruppen auftreten.
+
+Eine nähere Analyse ist im Einzelfall nur durch Messung realer Stoffflüsse und durch Anwendung geeigneter Kompartimentmodellierung möglich.
+Eine wichtige Stoffeigenschaft bei fettlöslichen Stoffen ist dabei z. B. der Oktanol-Wasser-Verteilungskoeffizient; ein wichtiges Charakteristikum der untersuchten Organismen ist die Größe der Fläche sowie die Durchlässigkeit ihrer Membranen bzw. Epithelien, welche den Stoffaustausch mit der Umwelt ermöglichen.
+
+== Fossile Überlieferung
+
+Das älteste fossile Zeugnis einer dreigliedrigen Wirbeltier-Nahrungskette stammt aus den 290 Millionen Jahre alten frühpermischen Ablagerungen des "Humberg-Sees" aus dem Saar-Nahe-Becken.
+Im Verdauungstrakt eines Fossils des etwa 70 Zentimeter langen Xenacanthiformen Triodus, ein "Süßwasserhai", fand sich die Larve einer temnospondylen Amphibie, die einen Stachelhai erbeutet hatte.
+Damit sind drei Trophieniveaus zugleich erhalten.
+
+== Weblinks
+
+== Einzelnachweise
+

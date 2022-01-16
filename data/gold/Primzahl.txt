@@ -1,0 +1,23 @@
+Eine Primzahl ist eine bestimmte Art von Zahl.
+Ihren Namen hat sie aus dem Latein: "prima" bedeutet "die Erste".
+Eine Primzahl ist eine natürliche Zahl, die nur durch eins und sich selber teilbar ist.
+0 und 1 gelten dabei noch nicht als Primzahlen.
+Die kleinste Primzahl ist die 2.
+Ein Beispiel für eine Primzahl ist die 7.
+Wenn man einen Kuchen mit sieben Stücken hat, und man will ihn gerecht auf mehrere Personen aufteilen, wird das schwierig.
+Entweder könnte man den ganzen Kuchen einer Person geben.
+Oder aber es gibt sieben Personen, und jede bekommt ein Stück.
+Man könnte den Kuchen schlecht zum Beispiel unter drei Leuten aufteilen:
+Dann würde jemand mehr als die anderen bekommen, oder etwas bleibt übrig.
+Wenn der Kuchen hingegen 8 Stücke hätte, könnte man ihn auf unterschiedliche Weise aufteilen.
+Zunächst durch 1 oder durch 8, wie bei einer Primzahl.
+Zusätzlich kann man ihn aber auch zum Beispiel durch 4 Personen aufteilen.
+Dann bekommt jede zwei Stück.
+Die 8 ist also keine Primzahl:
+Man kann sie durch 1, durch 2, durch 4 und durch die 8 teilen.
+Schon die Alten Ägypter scheinen Primzahlen gekannt zu haben.
+Soweit man es weiß, haben aber erst die Alten Griechen sich mit ihnen gründlich beschäftigt.
+Vor über 2300 Jahren hat Euklid bewiesen, dass es unendlich viele Primzahlen gibt.
+Viele Mathematiker haben Freude daran gehabt, möglichst große Primzahlen zu finden.
+Nutzen hatte das lange Zeit nicht.
+Heute aber helfen Primzahlen dabei, wenn man eine Nachricht verschlüsseln will.

@@ -1,0 +1,228 @@
+Ein Fax (Kurzform von Telefax, das wiederum von Telefaksimile), auch Fernkopie genannt, ist die Übertragung eines oder mehrerer Dokumente in Form eines in Linien und Pixel gerasterten Bildes über das Telefonnetz oder per Funk (z. B. Wetterfax).
+
+Als Sender und Empfänger dienen dabei meistens Faxgeräte für analoge Anschlüsse.
+Faxe verschicken und empfangen kann man auch von und zu einem PC mittels einer der folgenden Lösungen:
+
+Dabei ist jedes Faxdokument eine Bilddatei.
+
+Zur Faxübertragung werden die Normen G2 oder G3 verwendet (siehe CCITT Recommendation T.4 Standardization of Group 3 Facsimile Apparatus for Document Transmission und T.30-Protokoll).
+Für Fax zwischen ISDN-Anschlüssen gibt es die Norm G4.
+Nach einer Umfrage des Meinungsforschungsunternehmens YouGov nutzte im Jahr 2015 in Deutschland jeder fünfte Erwerbstätige die Technik, um berufliche Dokumente zu versenden.
+Ein Grund dafür dürfte sein, dass Fax-Sendungen in Deutschland eine kostengünstige und zeitsparende Alternative zu Einschreiben darstellen, weil sie vor Gericht - je nach Richter - als Anscheinsbeweis für eine Übermittlung überwiegend anerkannt werden.
+Ebenso gehört die Fax-Übermittlung zu einem preiswerten Ausstattungsmerkmal vieler Drucker und Kopierer.
+
+== Geschichte
+
+Der schottische Uhrmacher Alexander Bain konstruierte bereits 1843 einen Kopiertelegrafen, der es gestattete, Handschriften und Zeichnungen, also Schwarzweiß-Bilder, elektrisch zu übertragen.
+Das also noch bevor überhaupt in Europa das erste Mal die Morsetelegrafie im Jahre 1848 genutzt wurde.
+Sein System wurde vor allem durch Frederick Collier Bakewell im Jahre 1847 dadurch verbessert, dass er das zu übertragende Bild auf einer rotierenden Walze aufspannte und Bildelement für Bildelement durch einen Metallstift schraublinienförmig abtastete.
+Die Registrierung erfolgte auf der Empfangsseite in ähnlicher Weise.
+Der erste kommerzielle Telefax-Dienst wurde 1865 zwischen Paris und Lyon mit Pantelegraphen eingerichtet, einer Entwicklung des italienischen Physikers Giovanni Caselli, die teilweise Konzepte der Bainschen und Bakewellschen Geräte vereinte.
+Diese teleautographische Methode wurde später durch Elisha Gray, Arthur Korn und Max Dieckmann verbessert, denen während des Ersten Weltkrieges recht gute Bildübertragungen gelangen.
+Viele andere waren ebenfalls auf diesem Gebiet aktiv, so auch Rudolf Hell.
+Mitte der 1920er Jahre wurden mit diesem System auch Bilder per Rundfunk übertragen.
+Das System Hell für Schriftübertragung lieferte auch bei stark gestörtem Übertragungskanal noch lesbare Schrift.
+
+Der frühe Bildtelegraph wurde aufgrund von Aufwand und Kosten nur punktuell eingesetzt, etwa in Polizeiverwaltung und Zeitungsredaktionen.
+1966 brachte die Xerox Corporation in den USA mit dem Magnafax Telecopier das erste allgemein verwendbare Gerät auf den Markt.
+Erste Geräte in Deutschland finden sich in den 1970er Jahren, damals noch unter der Bezeichnung Fernkopierer.
+
+1974 brachte Infotec mit dem Infotec 6000 erstmals einen Fernkopierer auf den freien Markt.
+Die Technik der Infotec 6000 war die Basis für den heute immer noch gültigen Gruppe-3-Standard.
+
+In Japan konnten sich Fernkopierer leichter durchsetzen, weil die bisher üblichen Fernschreiber mit ihren nur etwa 60 Zeichen die japanische Schrift, insbesondere die Kanji, nur unvollständig übertragen konnten.
+Der in Kanji geschriebene Text musste in lateinischem Alphabet neu geschrieben (transkribiert) werden.
+Daher war dort die Nachfrage nach einer bildlichen Übertragungsmethode höher.
+
+1979 wurde der Faxdienst durch die Deutsche Bundespost offiziell eingeführt.
+
+Zunächst fehlte es an einer Welt-Norm.
+Zwischen Japan und Deutschland war wegen Norm-Unterschieden offiziell kein Fax-Verkehr möglich.
+Inoffiziell wurden aber Umwandler eingebaut.
+
+Heimisch wurde das Faxgerät in den deutschen Büros aber erst Ende der 1980er Jahre.
+Besonders als das zunächst für den Empfang benötigte Thermopapier durch normales Schreibpapier ersetzt werden konnte, ging es rasant aufwärts.
+Bereits ab Anfang der 1990er Jahre kam kaum mehr ein Büro ohne Faxgerät aus.
+
+Anzahl der Telefax-Anschlüsse in der Bundesrepublik Deutschland:
+
+Quelle: Fernmeldetechnisches Zentralamt, Darmstadt
+
+Im deutschen Verfahrensrecht gewann das Faxgerät an Bedeutung, nachdem Behörden den fristwahrenden Zugang eines Dokuments auch dann anerkannten, wenn der Schriftsatz innerhalb der Frist per Fax übermittelt worden war.
+Im materiellen Zivilrecht blieb es hingegen dabei, dass ein Faxschreiben lediglich eine (Fern-)Kopie darstellt und deshalb die gesetzliche oder vertragliche Schriftformerfordernis im Sinne von § 126 BGB nicht wahrt.
+Die Schriftform erfordert den Zugang einer Willenserklärung mit originaler Namensunterschrift.
+Eine Vielzahl zivilrechtlicher Erklärungen, so zum Beispiel der Widerruf von Fernabsatzverträgen gemäß § 355 BGB, kann mittlerweile rechtswirksam per Telefax abgegeben werden.
+Das Faxschreiben genügt der Textform im Sinne von § 126b BGB.
+
+Mit der allgemeinen Verbreitung des Internets ab Mitte der neunziger Jahre wurde der Telefaxdienst zunehmend durch E-Mail verdrängt.
+Die private Nutzung von Faxgeräten verschiebt sich zugunsten von Online-Faxdiensten, die zum Teil sogar kostenfrei zu nutzen sind.
+
+Die Beweistauglichkeit von Faxen ist beschränkt.
+Da nur ein Abbild der händischen Unterschrift übertragen wird (sehr geringe Auflösung, keinerlei Information über Druck, Schriftführung und Geschwindigkeit), sind diese Unterschriften für eine Schriftvergleichung ungeeignet, so dass ein Echtheitsnachweis nur schlecht geführt werden kann.
+Ein weiteres Problem besteht darin, dass die Gegenstation nicht sicher identifizierbar ist.
+Das wird von dubiosen Firmen genutzt, die unverlangt Werbung oder sogar unseriöse bis betrügerische Vertragsangebote zuschicken (mit unterdrückter Faxnummer).
+Beim klassischen Fernschreiben war dieses Problem bereits gelöst:
+Durch einfachen Tastendruck konnten die Details der Gegenstation angefordert werden (Taste Wer Da?).
+
+== Technik und Normung
+
+Für ISDN existiert mit der Norm G4 ein Standard für ein digitales Fax, der mit einer deutlich höheren Geschwindigkeit (64 kbit/s) als die Norm G3 für analoge Anschlüsse (bis 14,4 kbit/s; Super G3 bis 33,6 kbit/s) arbeitet, in der Praxis jedoch nur selten verwendet wird.
+
+Für die Übertragung per Fax over IP stehen die ITU-T-Empfehlungen T.37 für asynchrone und T.38 für synchrone Übertragung zur Verfügung.
+
+Der MIME-Typ image/g3fax und die Dateiendung .g3 sind nach der Norm G3 benannt.
+
+Programme, mit denen Faxe am PC empfangen und dann betrachtet werden können, sind zum Beispiel:
+
+Es gibt auch Faxsoftware, die mit TIFF-/FAX- (FAX Type Image, vom Telefax abgeleitet:
+FAX/*.fax =/ TIF?), GIF- oder SFF-Dateien arbeitet.
+
+=== Codierung und Komprimierung der Daten
+
+In Schwarz-Weiß-Faxen werden die Bildinformationen nach dem Auslesen durch eine Fotodiodenzeile verlustfrei mit den Algorithmen MH (Modified Huffman, RLE-basiert), MR (Modified READ, auch als "Fax Group 3" oder eindimensionale Kodierung bezeichnet, siehe auch Error Correction Mode) oder MMR (Modified Modified READ, auch als "Fax Group 4" oder zweidimensionale Kodierung bezeichnet) komprimiert.
+Die Komprimierungsraten sind abhängig von den Bilddaten, im Allgemeinen liefert MMR jedoch die beste Komprimierung, gefolgt von MR.
+Die relativ einfach zu implementierende MH-Kodierung wird heute noch verwendet, um mit älteren Faxgeräten oder mit Faxsoftware über die CAPI-Schnittstelle zu kommunizieren.
+
+Die Bildinformationen in Farbfaxen werden üblicherweise mit verlustbehafteter JPEG-Kompression übertragen.
+Verlustfreie JPEG-Komprimierung ist zwar vorgesehen, wird jedoch so gut wie nicht verwendet.
+Die Farbinformationen sind dabei im Lab-Farbraum kodiert.
+Graustufenbilder enthalten nur die L-Komponente.
+
+Zum Beginn einer Verbindung, vor Übermittlung des Nachrichteninhalts, stimmen sich sendendes und empfangendes Gerät über die verwendete Kodierung ab.
+Das dauert bis zu ca. 10 Sekunden.
+
+=== Papierformate und Auflösungen
+
+Bei der Aushandlung der Parameter (englisch negotiation) am Beginn einer Verbindung wird dem Empfänger auch das vom Sender verwendete Papierformat mitgeteilt.
+Dieses bestimmt die Länge der abgetasteten Zeile (Scanline).
+Zusammen mit der Anzahl der abgetasteten Bildpunkte pro Zeile ergibt sich die Auflösung.
+Nach T.4 sind folgende horizontale Auflösungen möglich:
+
+Mögliche vertikale Auflösungen für Faxe sind:
+
+Im Annex E zu T.4 werden für Farbfaxe nicht nur die Auflösungen 200 dpi und 400 dpi, sondern zusätzlich 300 dpi, was 11,55 Zeilen/mm entspricht, zugelassen.
+Bei Farbfaxen gilt die Einschränkung, dass horizontale und vertikale Auflösung übereinstimmen müssen.
+
+Die beiden gebräuchlichsten Schwarz/Weiß-Formate sind:
+
+Farbfaxe sind wenig verbreitet.
+
+Einfaches Nach- und Umrechnen zeigt, dass die in T.4 aufgeführten Zeilenbreiten und Auflösungen ungenau oder widersprüchlich sind.
+So muss eine 1728 Pixel breite 200-dpi-Zeile etwa 219,5 mm lang sein; beim Ausdruck eines Farbfaxes kann das zu Problemen führen.
+Eine Scanline von 215 mm Breite entspricht den US-Formaten Letter und Legal, ist aber auf A4 nicht darstellbar.
+Um eine Zeile mit 1728 Bildpunkten auf A4 darzustellen, wird eine Auflösung von 209 dpi benötigt.
+In diversen Dateiformaten, die zum Speichern von Faxdokumenten geeignet sind (zum Beispiel TIFF), werden für Faxdokumente häufig horizontale Auflösungen von 200, 203 oder 204 dpi sowie vertikale Auflösungen von 98/100 dpi und 196/200 dpi verwendet.
+
+Das Papierformat bestimmt lediglich die horizontalen Abmessungen des Faxdokumentes.
+Die Länge einer Faxseite ist nicht festgelegt.
+Sie kann wenige Zeilen betragen oder sich über mehrere Papierseiten erstrecken, so dass beispielsweise ein zweiseitiges Faxdokument auf drei oder mehr Papierseiten ausgedruckt werden muss.
+
+Die meisten Geräte sind nicht in der Lage, eine Seite über ihre gesamte Breite zu bedrucken oder einzuscannen.
+Der Faxstandard begegnet dieser Tatsache, indem die Übertragung einiger Millimeter der Seitenränder nicht garantiert wird.
+
+=== Kennung
+
+Aufgrund des vermeintlichen Dokumentencharakters von Faxen war das Einstellen der Absendernummer in Faxgeräten in Deutschland bis Ende 1992 ausschließlich den Servicetechnikern des Geräteherstellers vorbehalten und die korrekte Einstellung wurde beim Eintrag in das Faxtelefonbuch überprüft.
+Zum Schutz vor unbefugter Veränderung war die Absendernummer nur in einem versteckten Servicemodus einstellbar.
+(Siehe auch: Security through obscurity.)
+
+=== Sendebericht
+
+Nach dem Senden eines Fax kann ein Sendebericht ausgedruckt werden.
+Meist kann am Gerät eingestellt werden, ob dieser Bericht nie, immer, als Sammelbericht nach einer bestimmten Anzahl von Sendungen oder nur im Fehlerfall ausgedruckt werden soll.
+Eine Sonderform ist der "qualifizierte Sendebericht".
+Hier wird zusätzlich noch der Inhalt des gesendeten Dokumentes in verkleinerter Form mit ausgedruckt.
+Das soll die Beweiskraft eines Fax erhöhen.
+Generell gilt allerdings für jedes Vorbringen vor Gericht, dass es der Beweiswürdigung durch den Richter unterliegt.
+Auch ein qualifizierter Sendebericht ist somit kein rechtssicherer Beweis dafür, dass ein bestimmtes Schreiben einen bestimmten Empfänger überhaupt und/oder zu dem angegebenen Termin erreicht hat.
+
+=== Fax-Protokoll
+
+Das T.30-Protokoll ist die Grundlage des G3-Faxstandards, welches die Kommunikation zwischen Faxgeräten, -modems, -karten und -servern ermöglicht.
+
+In diesem Protokoll wird der Verbindungsaufbau, die Übertragung von Rufnummer, Datum und Uhrzeit sowie die Empfangsquittierung definiert.
+Die Übertragung kann dabei mit einer Datenübertragungsrate von 2400 bit/ s bis 33.600 bit/s erfolgen.
+
+Begrüßungsantwort eines angerufenen Faxes?/i
+
+Bei der Übermittlung eines Fax werden Daten in Töne umgewandelt.
+Damit sich die Geräte verstehen, legt das Fax-Protokoll fest, wie Sender und Empfänger aufeinander reagieren (Handshake).
+
+CNG (Calling tone / Rufton)
+
+CED (Called terminal identification / Identifikation des Angerufenen)
+
+DIS (Digital identification signal / digitales Identifikationssignal)
+
+DCS (Digital command signal / digitales Kommandosignal)
+
+Training und TCF (Training check function / Trainingsprüfungsfunktion)
+
+CFR (Confirmation to receive / Bestätigung der Empfangsbereitschaft)
+
+Training, Daten und EOP (End of procedure / Prozedurende)
+
+MCF (Message confirmation / Empfangsbestätigung)
+
+DCN (Disconnect / Verbindungstrennung)
+
+=== Faxübertragungen über Funk
+
+Faxübertragungen können auch über Funk erfolgen.
+
+Der Deutsche Wetterdienst (DWD) betreibt Lang- und Kurzwellensender in Pinneberg bei Hamburg.
+Dort werden Wetterberichte und -vorhersagen als Funkfernschreiben (RTTY) und Wetterkarten als Faksimile (Modulationsart F1C, Wefax) gesendet.
+
+=== Faxübermittlung als Telebrief
+
+Der Telebrief ist ein historischer Briefdienst, bei dem der Transport eines Briefes durch Faxübermittlung der Post über das Fernsprechnetz oder Satellitenfunk ersetzt wurde.
+Dabei kann ein Kunde ohne Faxgerät einen Brief über ein Postformular bei einer Telebriefstelle aufgeben und an eine empfangende Telebriefstelle übermitteln lassen, von wo aus er dann als Ausdruck per Postversand oder Eilzustellung den Empfänger erreicht oder zur Abholung bereitgelegt wird.
+In Deutschland und den meisten anderen Ländern wurde der Telebriefdienst inzwischen als "technisch überholt" eingestellt.
+
+=== Berührungspunkte mit anderen Techniken
+
+Es existieren auch Kombilösungen, bei denen eine E-Mail an ein Gateway gesendet wird, welche diese dann als Fax weiterschickt (siehe Mail2Fax).
+Da das Fax über das öffentliche Fernsprechnetz gesendet wird, sind diese Lösungen zumeist kostenpflichtig.
+Auch den umgekehrten Weg gibt es.
+Einige E-Mail-Anbieter bieten Faxnummern an, um eingehende Faxe in Dateien umzuwandeln und diese als E-Mail-Anlage an den Empfänger weiterzuleiten, der somit kein eigenes Faxgerät benötigt (Fax2Mail).
+Diese finanzieren sich entweder über die Einnahmen aus der Servicerufnummer oder über Gebühren, mit denen der Inhaber der Faxnummer belastet wird.
+
+Als weitere Entwicklung ist die Integration des Faxgeräts in sogenannte Multifunktionsgeräte zu beobachten, die Scanner-, Drucker-, Fotokopierer- und Faxfunktionalität beinhalten.
+
+Analogmodems (früher die einzige Faxschnittstelle vom und zum PC) sind ebenfalls in der Regel faxtauglich.
+Faxe werden über einen virtuellen Fax-Druckertreiber aus jedem druckenden Programm heraus gesendet, eingehende Faxe vom Modemtreiber empfangen, teilweise auch in einem Puffer-Speicher des Modems bei ausgeschaltetem PC und stehen nach dem Start des Computers zur Verfügung.
+
+Um 1980 wurden in Österreich zwischen Zeitungsredaktionen und Nachrichtenagenturen analog per Telefonleitung Bilder übertragen.
+
+Wettersatelliten funken - etwa NOAA-Satelliten der NASA per analogen Verfahren Automatic Picture Transmission (APT), oder MetOp-Satelliten von EUMETSAT digital per Low Rate Picture Transmission (LRPT) - Bilder der Bewölkung zur Erde.
+
+=== Militärische Faxgeräte und Standardisierung
+
+Für die militärische Nutzung von Faxgeräten bzw. Fernkopierern bedeutet dies, dass die Geräte frei von kompromittierender Abstrahlung sind und mit allen gebräuchlichen taktischen Datenschlüsselgeräten (z. B. Elcrobit 3-1 nach SAVILLE) eingesetzt werden können.
+So nutzte beispielsweise das frühere Amt für Nachrichtenwesen der Bundeswehr (ANBw) bzw. das Zentrum für Nachrichtenwesen der Bundeswehr und die BildSchreibTrupps und BildFunkTrupps ab 1995 das abstrahlsichere Fernkopiergerät vom Typ ANTFAX 10 der Bosch Telecom oder das auch in Dänemark und den Niederlanden eingesetzte Easy Fax 9100 E von Siemens mit V.24/V.28-Schnittstellen.
+Diese entsprechen der in der NATO gültigen STANAG 5000.
+Geschützt sind militärische Faxgeräte vor Van-Eck-Phreaking nach NATO-Standard (Zone 0 - NATO SDIP 27 Level A (ehemals AMSG 720B)).
+Die deutsche Luftwaffe, das Auswärtige Amt und Behörden weltweit nutzten auch das Datensicherungsmodul DSM Fax von Siemens für sichere Faxübertragungen, das für marktübliche Faxgeräte ein vollautomatisches Verschlüsseln und Entschlüsseln von Fax-Signalen mit dem Kryptochip SCA95 nach dem RSA-Kryptosystem durchführte.
+Die Autorisierung erfolgte dabei durch personalisierte Chipkarten.
+Noch heute kommen Fax-Geräte beim Militär und Sicherheitsbehörden zum Einsatz.
+Das US-amerikanische Faxgerät TS-21 BLACKJACK verfügt dabei beispielsweise über eine Shannon-Fano-Kodierung.
+
+=== Datenschutz (Deutschland)
+
+Das OVG Lüneburg hat die fehlende Verschlüsselung der Faxübertragung bemängelt (Beschluss vom 22. Juli 2020, Az.
+11 LA 104/19), weil die Vertraulichkeit im Sinne des Artikel 32 EU Datenschutz-Grundverordnung nicht gegeben sei.
+Insofern sollte auf datenschutzfreundlichere Wege ausgewichen werden (z. B. Brief, Bote, verschlüsselte E-Mail).
+Außerdem gilt es zu überdenken, ob man die eigene Faxnummer veröffentlicht, um es anderen Personen zu ermöglichen, ihre personenbezogenen Daten zur Verfügung zu stellen.
+
+Es ist nicht ausgeschlossen, dass die Übermittlung personenbezogener Daten per Fax als eine Datenschutzverletzung im Sinne des Artikel 33 Datenschutz-Grundverordnung EU angesehen wird; Schadenersatzforderungen DS-GVO und Bußgelder gemäß Artikel 82 DS-GVO und Bußgelder gemäß Artikel 83 (4a) sind denkbar.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+
+== Anmerkungen
+

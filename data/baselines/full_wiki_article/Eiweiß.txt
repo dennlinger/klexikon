@@ -1,0 +1,170 @@
+Ein Protein, umgangssprachlich Eiweiß (veraltet Eiweißstoff) genannt, ist ein biologisches Makromolekül, das aus Aminosäuren aufgebaut wird, die durch Peptidbindungen verknüpft sind.
+Proteine finden sich in jeder Zelle und machen zumeist mehr als die Hälfte des Trockengewichts aus.
+Sie dienen ihr als molekulare "Werkzeuge" und erfüllen je nach der besonderen Struktur unterschiedliche Aufgaben, indem sie beispielsweise Zellbewegungen ermöglichen, Metabolite transportieren, Ionen pumpen, chemische Reaktionen katalysieren oder Signalstoffe erkennen können.
+Überwiegend aus Proteinen bestehen so auch Muskeln, Herz, Hirn, Haut und Haare.
+Die Gesamtheit aller Proteine in einem Lebewesen, einem Gewebe, einer Zelle oder einem Zellkompartiment, unter exakt definierten Bedingungen und zu einem bestimmten Zeitpunkt, wird als Proteom bezeichnet.
+Das Wort Protein wurde erstmals 1839 in einer Veröffentlichung von Gerardus Johannes Mulder benutzt.
+Diese Bezeichnung wurde ihm 1838 von Jöns Jakob Berzelius vorgeschlagen, der sie von dem griech.
+Wort o proteios für ,grundlegend' und ,vorrangig', basierend auf o protos für ,Erster' oder ,Vorrangiger', abgeleitet hatte.
+Dahinter stand die irrtümliche Idee, dass alle Proteine auf einer gemeinsamen Grundsubstanz basieren.
+Daraus entstand ein heftiger Streit mit Justus von Liebig.
+Dass Proteine aus Aminosäurenketten über Peptidbindungen aufgebaut sind, wurde zuerst 1902 auf der 14. Versammlung deutscher Naturforscher und Ärzte unabhängig von Emil Fischer und Franz Hofmeister, die beide Vorträge hielten, vermutet.
+Fischer führte dabei den Begriff Peptid ein.
+Bausteine der Proteine sind bestimmte als proteinogen, also proteinaufbauend, bezeichnete Aminosäuren, die durch Peptidbindungen zu Ketten verbunden sind.
+Beim Menschen handelt es sich um 21 verschiedene Aminosäuren - den 20 seit langem bekannten, sowie Selenocystein.
+Auf acht Aminosäuren ist der menschliche Organismus besonders angewiesen, denn sie sind essenziell, was bedeutet, dass der Körper sie nicht selbst herstellen kann, sondern mit der Nahrung aufnehmen muss.
+Die Aminosäureketten können eine Länge von bis zu mehreren tausend Aminosäuren haben, wobei man Aminosäureketten mit einer Länge von unter ca. 100 Aminosäuren als Peptide bezeichnet und erst ab einer größeren Kettenlänge von Proteinen spricht.
+Die molekulare Größe eines Proteins wird in der Regel in Kilo-Dalton (kDa) angegeben.
+Titin, das mit ca. 3600 kDa größte bekannte menschliche Protein, besteht aus über 30.000 Aminosäuren und beinhaltet 320 Proteindomänen.
+Die Aminosäurensequenz eines Proteins - und damit sein Aufbau - ist in der Desoxyribonukleinsäure (DNA) codiert.
+Der dazu verwendete genetische Code hat sich während der Evolution der Lebewesen kaum verändert.
+In den Ribosomen, der "Proteinproduktionsmaschinerie" der Zelle, wird diese Information verwendet, um aus einzelnen Aminosäuren eine Polypeptidkette zusammenzusetzen, wobei die je von einem Codon bestimmten Aminosäuren in der von DNA vorgegebenen Reihenfolge verknüpft werden.
+Erst mit der Faltung dieser Kette im wässrigen Zellmilieu entsteht dann die dreidimensionale Form eines bestimmten Proteinmoleküls.
+Das haploide humane Genom enthält rund 20.350 Protein-codierende Gene - viel weniger, als vor der Sequenzierung des Genoms angenommen.
+Tatsächlich codieren nur etwa 1,5 % der gesamten genomischen DNA für Proteine, während der Rest aus Genen für non-coding RNA, sowie Introns, regulatorischer DNA und nichtcodierenden Desoxyribonukleinsäuren besteht.
+Da viele der Protein-codierenden Gene - etwa durch alternatives Splicing des Primärtranskripts (Präkursor-mRNA) eines Gens - mehr als ein Protein produzieren, kommen im menschlichen Körper weit mehr als nur 20.350 verschiedene Proteine vor.
+Darüber hinaus kennt man heute Proteine, deren Bildung auf Exons von Genen oder Gensegmenten in räumlich weit entfernten Chromosomregionen, mitunter sogar unterschiedlichen Chromosomen, zurückgeht.
+Mithin ist die traditionelle Ein-Gen-ein-Enzym-Hypothese (auch: Ein-Gen-eine mRNA-ein-Protein-Hypothese) für höhere Organismen heute nicht mehr haltbar.
+Kleine Peptide werden als Oligopeptide bezeichnet, wobei Dipeptide nur aus zwei Aminosäuren aufgebaut sind, Tripeptide aus drei, Tetrapeptide aus vier Aminosäuren etc.
+Größere Peptide mit mehr als zehn Aminosäuren werden Polypeptide genannt.
+Die meisten Proteine sind Ketten von 100 bis 300 Aminosäuren, selten haben sie über tausend (siehe Balkengrafik).
+Das größte bekannte Protein besteht aus einer Kette von über 30.000 peptidisch verknüpften Aminosäuren und ist in Muskelzellen zu finden: Titin.
+Proteine brauchen für ihre Funktion eine gewisse Größe.
+So können Oligopeptide als Signalstoffe - etwa als Hormon oder als Neurotransmitter - eingesetzt werden, für eine Enzymfunktion sind aber meist mehr als 50 Aminosäuren nötig.
+Unbegrenzt viele Aminosäuren kann ein Protein schon deshalb nicht enthalten, da nur eine begrenzte Menge Aminosäuren zur Verfügung steht.
+Zudem hängt die Dauer für den Zusammenbau einer Aminosäurenkette ab von der Anzahl der Aminosäuren (siehe Proteinbiosynthese).
+Die räumliche Struktur bedingt die Wirkungsweise der Proteine.
+Die Proteinstruktur lässt sich auf vier Betrachtungsebenen beschreiben:
+Die Einteilung in Primär- bis Quartärstruktur erleichtert das Verständnis und die Beschreibung der Faltung von Proteinen.
+Unter physiologischen Bedingungen faltet eine definierte Primärstruktur zu einer bestimmten Tertiärstruktur auf.
+Anders gesagt: Der Gehalt an Information, der schon in der Primärstruktur als lineare Aminosäuresequenz enthalten ist, äußert sich in Gestalt einer bestimmten dreidimensional formierten Proteinstruktur.
+Für diese Faltung der Polypeptidkette in die charakteristische dreidimensionale Form des nativen Proteins sind aber besondere Umgebungsbedingungen erforderlich - so unter anderem ein wässriges Medium, ein pH-Wert in einem bestimmten engen Bereich, eine Temperatur innerhalb gewisser Grenzen.
+Sie werden erfüllt im Milieu der Zelle innerhalb deren Membran.
+Dennoch würden viele komplexe Proteine nicht spontan zu jener Struktur falten, die in der Zelle funktionstragend ist, sondern brauchen dazu Faltungshelfer, sogenannte Chaperone.
+Die Chaperone binden an neugebildete (naszierende) Polypeptide - oder denaturierte bzw. beschädigte Aminosäureketten - und verhelfen ihnen unter Verbrauch chemischer Energie zur physiologisch funktionellen Struktur.
+Man kann Proteine nach der äußeren Form in zwei Hauptgruppen einteilen:
+Weiterhin werden Proteine nach ihrer Zusammensetzung eingeteilt, z. B. bei konjugierten Proteinen.
+Daneben ist auch eine Einteilung nach der Funktion möglich, z. B. Strukturproteine.
+Vereinfachend wird stellvertretend für die komplexe Proteinstruktur oft nur das Rückgrat (Backbone) des Proteins abgebildet (z. B. Abbildungen rechts oben).
+Zum Verständnis der Funktion ist jedoch die Oberfläche des Proteins von großer Bedeutung.
+Da die Seitenketten der Aminosäuren vom Rückgrat aus in den Raum ragen, tragen auch sie entscheidend zur Struktur bei:
+Der Verlauf des Rückgrats bestimmt den generellen dreidimensionalen Aufbau, aber die Konturen der Oberfläche und die biochemischen Eigenschaften des Proteins werden von den Seitenketten bestimmt.
+Zum besseren Verständnis von Aufbau und Funktion ist es unerlässlich, die räumliche Gestalt von Proteinen mithilfe geeigneter Grafikprogramme darzustellen.
+Das meistverbreitete Dateiformat für Atompositionsdaten von Proteinen ist das PDB-Format der freizugänglichen Protein Data Bank.
+Eine PDB-Datei enthält zeilenweise Einträge für jedes Atom im Protein, sortiert nach der Aminosäuresequenz; im einfachsten Fall sind das Atomart und kartesische Koordinaten.
+Es handelt sich also um ein systemunabhängiges Klartext-Format.
+Auf Basis dieser Datei kann dann z. B. in Jmol die 3D-Struktur dargestellt werden.
+Ist die natürliche 3D-Struktur noch nicht ermittelt, hilft nur noch die Proteinstrukturvorhersage.
+Die Aufreinigung und Anreicherung von Proteinen aus biologischem Material ist ein wichtiger Schritt in der biochemischen Identifikation und Charakterisierung von neu entdeckten Proteinen.
+In der Biotechnologie und dort besonders bei rekombinanten Proteinen ist die reproduzierbare, sorgfältige Proteinreinigung - meist in großem Maßstab - eine wichtige Voraussetzung zur Verwendung dieser Proteine in der Diagnostik oder Therapie.
+Folgende Nachweise, die keine Absolutmessungen darstellen und alle ihre Limitationen haben (z. B. Fehlmessungen durch interferierende Substanzen; Bezug auf ein bestimmtes Standardprotein etc.), dienen zur Quantifizierung von Proteinen:
+Der Nachweis der Identität eines Proteins kann über vielfältige Methoden erfolgen.
+Auch kann ein indirekter Nachweis über andere Eigenschaften als die Primärstruktur erfolgen, welche jedoch aus ihr folgen, z. B. über die Anwesenheit seiner Funktion (Enzymkinetik) im Probengefäß oder über immunologische Eigenschaften, die unter anderem in einem Western Blot verwendet werden.
+Sowohl durch chemische Einflüsse, wie zum Beispiel Säuren, Salze oder organische Lösungsmittel, als auch durch physikalische Einwirkungen, wie hohe oder tiefe Temperaturen oder auch Druck, können sich die Sekundär- und Tertiärstruktur und damit auch die Quartärstruktur von Proteinen ändern, ohne dass sich die Reihenfolge der Aminosäuren (Primärstruktur) ändert.
+Dieser Vorgang heißt Denaturierung und ist in der Regel nicht umkehrbar, das heißt, der ursprüngliche dreidimensionale räumliche Aufbau kann ohne Hilfe nicht wiederhergestellt werden.
+Bekanntestes Beispiel dafür ist das Eiklar im Hühnerei, das beim Kochen fest wird, weil sich der räumliche Aufbau der Proteinmoleküle geändert hat.
+Der ursprüngliche flüssige Zustand kann nicht mehr hergestellt werden.
+Das Wiederherstellen des ursprünglichen Zustandes des denaturierten Proteins heißt Renaturieren.
+Mit der Kontrolle über das Feuer wurde Menschen auch das Kochen möglich, womit nicht zuletzt Speisen bekömmlicher und leicht verdaulich zubereitet werden können.
+Durch Denaturierung beim Erhitzen ändern sich die physikalischen und physiologischen Eigenschaften von Proteinen, etwa beim Spiegelei, das durch die Hitze in der Pfanne verändert wird.
+Auch sehr hohes Fieber kann oberhalb einer gewissen Temperatur körpereigene Proteine denaturieren.
+Diese Proteine können ihre Aufgaben im Organismus dann nicht mehr erfüllen, was für den Menschen lebensgefährlich werden kann.
+Einige Proteine der roten Blutkörperchen denaturieren beispielsweise bereits bei 42 °C.
+Der geregelte Fieberanstieg bleibt daher unterhalb solcher Temperaturen.
+Die Erhöhung der Körpertemperatur beim Fieber bedeutet eine Beschleunigung der Stoffwechselprozesse (siehe RGT-Regel) und erlaubt damit dem Abwehrsystem raschere Reaktionen.
+Dieses Fieber wird vom Körper selber erzeugt (siehe Pyrogen), um sich besser gegen eingedrungene Erreger oder Fremdkörper (siehe auch Antigen) wehren zu können.
+Viele der körperfremden Proteine denaturieren schon bei geringeren Temperaturen als die körpereigenen.
+Die durch hydrolytische Spaltung der Proteinketten (Proteolyse) entstehenden Teilstücke sind ein Gemisch aus Peptiden und Aminosäuren; sind diese unter katalytischer Wirkung von Pepsin entstanden, nennt man sie Pepton, im Falle von Trypsin Trypton.
+Durch reaktive Sauerstoffspezies können Proteine oxidiert werden.
+Dieser Vorgang heißt Proteinoxidation und spielt bei der Alterung und einer Reihe von pathologischen Prozessen eine wichtige Rolle.
+Die Oxidation kann einen weitgehenden Funktionsverlust bedeuten und zur Ansammlung von degenerierten Proteinen in der Zelle führen.
+Proteine können im Organismus folgende, sehr spezielle Funktionen haben:
+Mutationen in einem bestimmten Gen können potentiell Veränderungen im Aufbau des entsprechenden Proteins verursachen, woraus sich folgende mögliche Auswirkungen auf die Funktion ergeben:
+Proteine erfüllen im menschlichen Körper zahlreiche Aufgaben und sind für alle Organfunktionen von Bedeutung, insbesondere bei der Heilung von Wunden und Krankheiten.
+Zum Aufbau, zum Erhalt und zur Erneuerung der Körperzellen brauchen Menschen eine Nahrung, die Protein enthält.
+Bezogen auf das Körpergewicht (KG) ist der Bedarf in den Wachstumsphasen zu Lebensbeginn am höchsten.
+Im ersten Lebensmonat sollte der Säugling täglich eine Proteinmenge von etwa 2,5 Gramm pro Kilogramm Körpergewicht (g/kg KG) aufnehmen, gegen Ende des ersten Lebensjahrs genügen etwa 1,3 g/kg KG.
+Ab dem zweiten Lebensjahr empfiehlt die Deutsche Gesellschaft für Ernährung für die tägliche Aufnahme von Protein mit der Nahrung lebensaltersabhängige Referenzwerte zwischen 1,0 und 0,8 g/kg.
+Bei Kleinkindern (1,0) ist der Bedarf höher als bei älteren Kindern und Jugendlichen (0,9), bei jüngeren Erwachsene (0,8) niedriger als bei über 65 Jahren alten (geschätzt 1,0) - jeweils bezogen auf das Normalgewicht, nicht das tatsächliche Körpergewicht.
+Übergewichtige brauchen nicht mehr als normalgewichtige Menschen.
+Dagegen ist bei schwangeren Frauen der Bedarf um circa 20 % erhöht (1,0), bei stillenden liegt er noch höher (1,2).
+Es gibt jedoch eine Übersichtsarbeit von 2010, die auch in einem Bericht einer Expertenkommission der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (2013) Beachtung fand, welche den Tagesproteinbedarf für durchschnittliche Erwachsene mit (0,91-1,2) deutlich höher einschätzt.
+Bei körperlicher Aktivität steigt der Bedarf an Protein laut DGE nicht an.
+Eine Nierenschädigung aufgrund erhöhten Eiweißkonsums wurde mehrmals in Langzeitstudien widerlegt.
+Das mit der Nahrung aufgenommene Protein wird in Magen und Darm verdaut, in kleinere Bestandteile zerlegt und in Bausteine aufgespalten.
+Zellen der Darmschleimhaut resorbieren diese und geben die einzelnen Aminosäuren in die (portale) Blutbahn ab, die zur Leber führt.
+Der menschliche Organismus kann einige der Aminosäuren nicht selber herstellen, braucht sie aber als Baustein seiner eigenen Proteine.
+Mit der Nahrung zugeführtes Protein muss also hinreichen, den Bedarf für jede dieser unentbehrlichen (essenziellen) Aminosäuren abzudecken.
+Ein Mangel an Protein kann eine Reihe von Symptomen hervorrufen.
+Andauernder Eiweißmangel führt zu Marasmus, Kwashiorkor oder zu beidem und letzten Endes zum Tod.
+Zu einem Eiweißmangel kommt es in den Industrieländern allerdings sehr selten und nur bei extrem proteinarmen Ernährungsformen.
+Die durchschnittliche deutsche Mischkost enthält mit 100 Gramm Eiweiß pro Tag mehr als genug Protein.
+Obgleich in der Werbung Eiweißpulver als für Breitensportler empfehlenswert angepriesen werden, deckt "unsere übliche Ernährung auch den Eiweißbedarf von Sportlern ab", wie es dazu in einem Bericht des Ministeriums für Ernährung und Ländlichen Raum Baden-Württembergs heißt.
+Sehr proteinhaltige Nahrungsmittel (in alphabetischer Reihenfolge) sind:
+Eine weitere Proteinquelle ist die Quinoa-Pflanze, welche neben ihrem hohen Eiweiß-Gehalt (etwa 14 g auf 100 g) alle 9 essentiellen Aminosäuren enthält.
+Ihrer Bedeutung als Nahrungsquelle bewusst, erklärte der ehemalige UN-Generalsekretär Ban Ki-moon das Jahr 2013 zum Jahr der Quinoa, da sie besonders in der Zeit des Klimawandels als wichtige Nahrungsquelle dienen und den Hunger in den Entwicklungsländern bekämpfen soll.
+Stand bislang vor allem die Menge von Proteinen in Vordergrund, so rückt zunehmend die Quelle von Proteinen und deren gesundheitliche Wirkung in den Blick der Forschung.
+Heute wird aus gesundheitlicher Sicht zum vermehrten Konsum pflanzlicher Proteinquellen geraten.
+So zeigt eine Studie aus dem Jahr 2016 dass der Konsum von pflanzlichen Proteinquellen zu einer geringeren Mortalität führte, während tierisches Eiweiss zu einer erhöhten Mortalität aufgrund von Herzkreislauferkrankungen führte.
+Eine Studie aus dem Jahr 2021 bestätigt dieses Ergebnis.
+In ihr waren pflanzliche Eiweissquellen sowohl mit einer geringeren Gesamtmortalität verbunden als auch mit einer geringerer Mortalität aufgrund von Demenz und Herzkreislauferkrankungen.
+Tierisches Eiweiss wie verarbeitetes rotes Fleisch und Eier waren hingegen mit einer höheren Gesamtmortalität verbunden.
+Der Protein Digestibility Corrected Amino Acid Score (PDCAAS) wird von der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO/WHO) und der US Food and Drug Administration als "die beste Methode" zur Bestimmung der Proteinqualität angenommen.
+Die Kennzahl berücksichtigt sowohl die Aminosäurenzusammensetzung als auch die Verdaulichkeit dieser.
+Besondere Bedeutung kommt hierbei dem Gehalt an essentiellen Aminosäuren zu.
+Darüber hinaus gibt es das ältere und mittlerweile überholte Konzept der biologischen Wertigkeit.
+2013 hat die FAO außerdem den Digestible Indispensable Amino Acid Score (DIAAS) als Bewertungsmethode zur Bestimmung der Proteinqualität ins Spiel gebracht.
+Hauptunterschied ist, dass beim DIAAS die echte ileale Verdaulichkeit gemessen wird.
+Der DIAAS wird grundsätzlich nicht gekürzt und kann auch Werte über 100 % annehmen.
+Nur bei der Betrachtung der gesamten Proteinzufuhr, unabhängig davon, ob es sich um eine Mischkost oder um ein einzelnes Nahrungsmittel, wie beispielsweise Säuglingsnahrung, handelt, muss der DIAAS auf 100 % gekürzt werden.
+Die Gesamtmenge der als nachwachsende Rohstoffe in der stofflichen Nutzung verwendeten Proteine wird für Deutschland im Regelfall mit etwa 55.000 t pro Jahr angegeben.
+Genaue Angaben über die Herkunft dieser Proteine gibt es nicht, es ist jedoch anzunehmen, dass sie zu einem großen Teil tierischer Herkunft sind.
+Der Großteil pflanzlicher Proteine wird für die Futtermittelindustrie aufgewendet, so die als Nebenprodukte bei der Pflanzenölpressung und -extraktion anfallenden Preßrückstände (z. B. Raps- und Sojakuchen, Extraktionsschrot) und Nebenprodukte der Gewinnung von Stärke aus Getreide.
+Pflanzen, die zur Hauptnutzung als Proteinpflanzen angebaut werden, wie bspw. Lupine, Eiweißerbse und Ackerbohne, haben nur eine geringe Bedeutung - die Gesamtfläche für den Anbau dieser Pflanzen als nachwachsende Rohstoffe in Deutschland liegt bei etwa 30 ha pro Jahr.
+Etwa 1.000 t Weizenproteine finden jährlich Einsatz in der chemischen Industrie.
+Von zentraler Bedeutung für die chemisch-technische und biotechnologische Industrie sind dagegen tierische Proteine.
+Dabei spielt vor allem die Gelatine eine zentrale Rolle, die in Europa vor allem aus Rinderspalt, Schweineschwarten sowie Knochen von Rindern und Schweinen gewonnen wird.
+In Deutschland werden jährlich etwa 32.000 t Gelatine in Speisequalität hergestellt, die europäische Gesamtproduktion beträgt 120.000 t (70 % Schweineschwarten, 18 % Knochen, 10 % Rinderspalt, 2 % Sonstige).
+Verwendet werden in Deutschland etwa 90.000 t, wobei 2/3 im Ernährungsbereich und von dem Rest etwa die Hälfte für den Futtermittelbereich aufgewendet werden.
+Etwa 15.000 t werden in der chemischen und pharmazeutischen Industrie verwendet.
+Dabei finden sich die Haupteinsatzbereiche in der Pharmaindustrie, mit Umhüllungen von Tabletten und Vitaminpräparaten (Hart- und Weichkapseln) sowie Gelatinezäpfchen.
+Außerdem wird Gelatine für blutstillende Schwämmchen sowie als Blutplasmaersatz eingesetzt.
+In der analogen Fotografie stellt Gelatine die Basis für die fotoempfindlichen Schichten auf dem Film und dem Fotopapier dar.
+Auch moderne Druckerpapiere zum Ausdrucken von Farbbildern sind mit Gelatine beschichtet.
+Neben Gelatine stellt Casein eine wichtige Proteinquelle für die chemische Industrie dar.
+Das aus Milcheiweiß gewonnene Protein wird vor allem als Beschichtungsmaterial für Glanzpapiere sowie als Zusatz für Streichfarben verwendet (ca. 1-2 % je nach Hersteller).
+Zudem findet es Verwendung als Etikettenkleber auf Glasflaschen.
+Jährlich werden in Deutschland etwa 8.000 bis 10.000 t Casein eingesetzt.
+Die Nutzung von Proteinen aus Blutmehl zur Herstellung von bio-basierten Kunststoffen (z. B. Pflanztöpfe) befindet sich noch in der Entwicklung, ebenso ein Verfahren zur biotechnologischen Herstellung von Fasern aus Seidenproteinen zur Verarbeitung in Schäumen, Vliesstoffen oder Folien.
+Etwa 6.000 bis 7.000 t Proteine sind Autolyseprodukte aus Hefen (Hefeextrakte).
+Diese finden Anwendung vor allem in der Pharmazeutischen Industrie und der Nahrungsmittelindustrie sowie in der Biotechnologischen Industrie als Nährlösung für Mikroorganismen.
+Pflanzliche Proteine können aus Soja, Erbsen, Lupinen oder Raps gewonnen werden.
+Hierfür muss das Protein aus der Pflanze isoliert werden:
+Die Flocken oder Mehl werden mit Wasser versetzt und angemaischt.
+Die proteinarmen Fasern und Feststoffe werden im nächsten Schritt mit Hilfe von Industriezentrifugen von der proteinreichen Lösung abgetrennt.
+Dann folgt die sogenannte Ausfällung.
+Hier wird der pH-Wert der proteinreichen Lösung auf den isoelektrischen Punkt eingestellt.
+Dadurch setzen sich die Proteinpartikel ab.
+Diese werden dann wiederum mittels Zentrifugen von der Lauge abgetrennt.
+Um alle Bestandteile der Mutterlauge aus dem ausgefällten und abgetrennten Protein zu entfernen, wird das Protein erneut mit Wasser versetzt und wieder mit Hilfe der Zentrifugalkraft abgetrennt.
+Als vollwertigen Ersatz des proteinreichen Fischmehls durch Protein aus Fliegenlarvenmehl züchtet ein Unternehmen auf dem agrarwissenschaftlichen Gelände der Universität Stellenbosch in Elsenburg (Südafrika) millionenfach Stubenfliegen (Musca domestica) heran.
+Aus einem Kilogramm Fliegeneier können in nur 72 Stunden ungefähr 380 bis 420 Kilogramm Protein entstehen.
+Bei entsprechender Großproduktion könnte ein großer Teil der weltweiten Fischmehlproduktion eingespart und die Weltmeere vom industriellen Fischfang entlastet werden.
+Noch 2012 will das Unternehmen "Agriprotein" in die Massenherstellung gehen.
+Täglich werden 65 t Blut aus herkömmlichen Schlachtereien benötigt, um 100 t Fliegenlarven innerhalb eines Zeitraumes von ca. 3 Tagen auf eine Länge von jeweils rund 12 mm heranzuziehen.
+Im Wege der Trocknung, Vermahlung zu Madenmehl und anschließenden Pelletierung können so täglich 20 t des Proteinprodukts gewonnen werden.
+Eine weitere Pilotanlage in Deutschland wird von der deutschen Regierung mit 50 % gefördert.
+Das Unternehmen hat 2012 den People and Environment Achievement Award erhalten.
+Die Herstellung rekombinanter Proteine mit genau festgelegter Aminosäuresequenz und möglicherweise weiteren Veränderungen (z. B. eine Glykosylierung) geschieht sowohl im Labor als auch großtechnisch entweder durch Peptidsynthese oder biotechnologisch durch Überexpression in verschiedenen Organismen und folgender Proteinreinigung.
+Im Zuge des Protein-Engineerings können Eigenschaften des gewünschten Proteins gezielt (über das Proteindesign) oder zufällig (über eine gerichtete Evolution) verändert werden.
+Prinzipiell können industriell dieselben Verfahren angewandt werden wie im Labor, jedoch ist die Verwendung von Nutzpflanzen durch Pharming am besten für die großtechnische Nutzung geeignet, bei der mit Bioreaktoren in Reinräumen gearbeitet wird.
+Um die geeigneten Organismen zu erhalten, werden gentechnische Methoden eingesetzt.
+Die technische Produktion nativer Proteine findet weltweit hauptsächlich in der Pharmazie (Biopharmazeutika) und zur industriellen Verwendung von Enzymen als Waschmittelzusätze (Proteasen, Lipasen, Amylasen und Cellulasen) oder in der Milchverarbeitung (Lactasen) statt.
+Proteine für die Nahrungsmittelindustrie müssen nicht notwendigerweise in nativer Form hergestellt werden, da eine biologische Aktivität nicht immer erforderlich ist, z. B. bei Käse oder Tofu.
+Insbesondere mit Hilfe verbesserter Methoden der Massenspektrometrie ist es heute möglich, Proteine oder Teile von Proteinen aus archäologischen und paläontologischen Funden zu analysieren.
+Aus der Rekonstruktion "fossiler" Proteine kann zudem auf die sie codierenden Gene und damit auf den Bau der aDNA zurückgeschlossen werden.
+"Seidenglanz-Proteine", die als Zusatz für Haarwaschmittel für Menschen und zur Fellpflege für Tiere beworben werden (um vorgeblich Glanz zu erzeugen), werden aus den Resten von Puppen der Seidenraupen, nach Ablösung der diese umhüllenden Seidenfäden, hergestellt.
+Im Februar 2020 berichteten Wissenschaftler den Fund eines Protein "Hemolithin" im Inneren des 1990 gefundenen Meteoriten "Acfer 086".
+Proteine sind essentielle Bauteile für die Entstehung von Leben.
+Falls ihre kontroverse Studie im Peer-Review bestätigt wird, könnte dies die Panspermie-Hypothese stützen.
+Das Protein könnte in protoplanetarem oder interstellarem Gas entstanden sein.

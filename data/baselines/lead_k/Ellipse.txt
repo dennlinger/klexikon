@@ -1,0 +1,11 @@
+Ellipsen sind in der Geometrie spezielle geschlossene ovale Kurven.
+Sie zählen neben den Parabeln und den Hyperbeln zu den Kegelschnitten.
+Eine anschauliche Definition verwendet die Eigenschaft, dass die Summe der Abstände eines Ellipsenpunktes von zwei vorgegebenen Punkten, den Brennpunkten, für alle Punkte gleich ist.
+Sind die Brennpunkte identisch, erhält man einen Kreis.
+Jede Ellipse lässt sich in einem geeigneten Koordinatensystem durch eine Gleichung x 2 a 2 + y 2 b 2 = 1 {\displaystyle \;{\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1\; } oder Parameterdarstellung ( a cos  t , b sin  t ) {\displaystyle \;(a\cos t,b\sin t)\; } beschreiben.
+Hieran erkennt man, dass man eine Ellipse als einen an der x-Achse um a {\displaystyle a} und an der y-Achse um b {\displaystyle b} gestreckten Einheitskreis auffassen kann.
+Die Ellipse (von griechisch  elleipsis ,Mangel') wurde von Apollonios von Perge (etwa 262-190 v. Chr.) eingeführt und benannt, die Bezeichnung bezieht sich auf die Exzentrizität  < 1 { \displaystyle \varepsilon <1 } .
+Ellipsen treten nicht nur als ebene Schnitte eines Kegels auf.
+Auch auf Zylindern, Ellipsoiden, Hyperboloiden und elliptischen Paraboloiden gibt es Ellipsen.
+In der Natur treten Ellipsen in Form von ungestörten keplerschen Planetenbahnen um die Sonne auf.
+Auch beim Zeichnen von Schrägbildern werden häufig Ellipsen benötigt, da ein Kreis durch eine Parallelprojektion im Allgemeinen auf eine Ellipse abgebildet wird (siehe Ellipse (Darstellende Geometrie)).

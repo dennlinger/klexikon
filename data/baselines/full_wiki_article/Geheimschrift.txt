@@ -1,0 +1,96 @@
+Kryptographie bzw. Kryptografie (altgriechisch uo kryptos, deutsch ,verborgen', ,geheim' und av graphein, deutsch ,schreiben') ist ursprünglich die Wissenschaft der Verschlüsselung von Informationen.
+Heute befasst sie sich auch allgemein mit dem Thema Informationssicherheit, also der Konzeption, Definition und Konstruktion von Informationssystemen, die widerstandsfähig gegen Manipulation und unbefugtes Lesen sind.
+Der Begriff Kryptographie bedeutet Geheimschrift.
+Die Kryptographie befasste sich historisch mit der Erzeugung, Betrachtung und Beschreibung von Verfahren, um "geheim zu schreiben", also mit Verschlüsselungsverfahren.
+Seit Ende des 20. Jahrhunderts werden sie zur sicheren Kommunikation und für sichere Berechnungen eingesetzt.
+Kryptoanalyse (auch Kryptanalyse) bezeichnet hingegen die Erforschung und Anwendung von Methoden, mit denen kryptographische Verfahren gebrochen ("geknackt") werden können.
+Ein Kryptosystem dient zur Geheimhaltung von übertragenen oder gespeicherten Informationen gegenüber Dritten.
+Oft werden die Begriffe Kryptographie und Kryptologie gleichwertig benutzt, während sich z. B. beim US-Militär Kryptographie meist auf kryptographische Techniken bezieht und Kryptologie als Oberbegriff für Kryptographie und Kryptoanalyse verwendet wird.
+Die Kryptographie kann also auch als Teilgebiet der Kryptologie gesehen werden.
+Das Untersuchen von Merkmalen einer Sprache, die Anwendung in der Kryptographie finden (z. B. Buchstabenkombinationen), wird Kryptolinguistik genannt.
+Sowohl Kryptographie als auch Steganographie haben zum Ziel, die Vertraulichkeit einer Nachricht zu schützen.
+Allerdings unterscheiden sie sich im Ansatzpunkt der Verfahren:
+Kryptographische und steganographische Verfahren können kombiniert werden.
+Beispielsweise führt eine Verschlüsselung (Kryptographie) einer Nachricht, die über einen verdeckten Kanal kommuniziert wird (Steganographie), dazu, dass selbst nach dem Entdecken und erfolgreichen Auslesen des Kanals der Inhalt der Nachricht geheim bleibt.
+Die moderne Kryptographie hat vier Hauptziele zum Schutz von Datenbeständen, Nachrichten und/oder Übertragungskanälen:
+Kryptographische Verfahren und Systeme dienen nicht notwendigerweise gleichzeitig allen der hier aufgelisteten Ziele.
+Kryptographische Verfahren werden unterteilt in die klassischen und modernen Verfahren.
+Der früheste Einsatz von Kryptographie findet sich im dritten Jahrtausend v. Chr. in der altägyptischen Kryptographie des Alten Reiches.
+Hebräische Gelehrte benutzten im Mittelalter einfache Zeichentausch-Algorithmen (wie beispielsweise die Atbasch-Verschlüsselung).
+Im Mittelalter waren in ganz Europa vielfältige Geheimschriften zum Schutz des diplomatischen Briefverkehrs in Gebrauch, so etwa das Alphabetum Kaldeorum.
+Auch für heilkundliche Texte waren Geheimschriften in Gebrauch, etwa zur Niederschrift von Rezepten gegen die ab 1495 sich ausbreitende Syphilis.
+Ende des 19. Jahrhunderts kam es aufgrund der weiten Verbreitung des Telegrafen (den man auf einfache Weise anzapfen und abhören konnte) zu neuen Überlegungen in der Kryptographie.
+So formulierte Auguste Kerckhoffs von Nieuwenhof mit Kerckhoffs' Prinzip einen Grundsatz der Kryptographie, wonach die Sicherheit eines kryptographischen Verfahrens nur von der Geheimhaltung des Schlüssels und nicht von der des Verfahrens abhängen soll.
+Das Verfahren selbst kann vielmehr veröffentlicht und von Experten auf seine Tauglichkeit untersucht werden.
+Im Zweiten Weltkrieg wurden mechanische und elektromechanische Schlüsselmaschinen, wie T52 oder SZ 42, zahlreich eingesetzt, auch wenn in Bereichen, wo dies nicht möglich war, weiterhin Handschlüssel wie der Doppelkastenschlüssel verwendet wurden.
+In dieser Zeit wurden große Fortschritte in der mathematischen Kryptographie gemacht.
+Notwendigerweise geschah dies jedoch nur im Geheimen.
+Die deutschen Militärs machten regen Gebrauch von einer als ENIGMA bekannten Maschine, die ab 1932 durch polnische und ab 1939 durch britische Codeknacker gebrochen wurde.
+Das Zeitalter moderner Kryptographie begann mit Claude Shannon, möglicherweise dem Vater der mathematischen Kryptographie.
+1949 veröffentlichte er den Artikel Communication Theory of Secrecy Systems.
+Dieser Artikel, zusammen mit seinen anderen Arbeiten über Informations- und Kommunikationstheorie, begründete eine starke mathematische Basis der Kryptographie.
+Hiermit endete auch eine Phase der Kryptographie, die auf die Geheimhaltung des Verfahrens setzte, um eine Entschlüsselung durch Dritte zu verhindern oder zu erschweren.
+Statt dieser - auch Security by obscurity genannten - Taktik müssen sich kryptografische Verfahren nun dem offenen wissenschaftlichen Diskurs stellen.
+1976 gab es zwei wichtige Fortschritte.
+Erstens war dies der DES (Data Encryption Standard)-Algorithmus, entwickelt von IBM und der National Security Agency (NSA), um einen sicheren einheitlichen Standard für die behördenübergreifende Verschlüsselung zu schaffen (DES wurde 1977 unter dem Namen FIPS 46-2 (Federal Information Processing Standard) veröffentlicht).
+DES und sicherere Varianten davon (3DES) werden bis heute z. B. für Bankdienstleistungen eingesetzt.
+DES wurde 2001 durch den neuen FIPS-197-Standard AES ersetzt.
+Der zweite und wichtigere Fortschritt war die Veröffentlichung des Artikels New Directions in Cryptography von Whitfield Diffie und Martin Hellman im Jahr 1976.
+Dieser Aufsatz stellte eine radikal neue Methode der Schlüsselverteilung vor und gab den Anstoß zur Entwicklung von asymmetrischen Kryptosystemen (Public-Key-Verfahren).
+Der Schlüsselaustausch war bis dato eines der fundamentalen Probleme der Kryptographie.
+Vor dieser Entdeckung waren die Schlüssel symmetrisch, und der Besitz eines Schlüssels erlaubte sowohl das Verschlüsseln als auch das Entschlüsseln einer Nachricht.
+Daher musste der Schlüssel zwischen den Kommunikationspartnern über einen sicheren Weg ausgetauscht werden, wie beispielsweise durch einen vertrauenswürdigen Kurier oder beim direkten Treffen der Kommunikationspartner.
+Diese Situation wurde schnell unüberschaubar, wenn die Anzahl der beteiligten Personen anstieg.
+Auch wurde ein jeweils neuer Schlüssel für jeden Kommunikationspartner benötigt, wenn die anderen Teilnehmer nicht in der Lage sein sollten, die Nachrichten zu entschlüsseln.
+Ein solches Verfahren wird als symmetrisch oder auch als ein Geheimschlüssel-Verfahren (Secret-Key) oder Geteiltschlüssel-Verfahren (Shared-Secret) bezeichnet.
+Bei einem asymmetrischen Kryptosystem wird ein Paar zusammenpassender Schlüssel eingesetzt.
+Der eine ist ein öffentlicher Schlüssel, der - im Falle eines Verschlüsselungsverfahrens - zum Verschlüsseln von Nachrichten für den Schlüsselinhaber benutzt wird.
+Der andere ist ein privater Schlüssel, der vom Schlüsselinhaber geheim gehalten werden muss und zur Entschlüsselung eingesetzt wird.
+Ein solches System wird als asymmetrisch bezeichnet, da für Ver- und Entschlüsselung unterschiedliche Schlüssel verwendet werden.
+Mit dieser Methode wird nur ein einziges Schlüsselpaar für jeden Teilnehmer benötigt, da der Besitz des öffentlichen Schlüssels die Sicherheit des privaten Schlüssels nicht aufs Spiel setzt.
+Ein solches System kann auch zur Erstellung einer digitalen Signatur genutzt werden.
+Die digitale Signatur wird aus den zu signierenden Daten oder ihrem Hashwert und dem privaten Schlüssel berechnet.
+Die Korrektheit der Signatur - und damit die Integrität und Authentizität der Daten - kann durch entsprechende Operationen mit dem öffentlichen Schlüssel überprüft werden.
+Public-Key-Verfahren können auch zur Authentifizierung in einer interaktiven Kommunikation verwendet werden.
+Am 17. Dezember 1997 veröffentlichten die britischen Government Communications Headquarters (GCHQ) ein Dokument, in welchem sie angaben, dass sie bereits vor der Veröffentlichung des Artikels von Diffie und Hellman ein Public-Key-Verfahren gefunden hätten.
+Verschiedene als geheim eingestufte Dokumente wurden in den 1960er- und 1970er-Jahren u. a. von James H. Ellis, Clifford Cocks und Malcolm Williamson verfasst, die zu Entwürfen ähnlich denen von RSA und Diffie-Hellman führten.
+Ein homomorphes Verschlüsselungsverfahren erlaubt es, Berechnungen auf verschlüsselten Daten durchzuführen.
+Dem Kryptologen Craig Gentry gelang es 2009 nachzuweisen, dass ein Verschlüsselungsverfahren existiert, das beliebige Berechnungen auf verschlüsselten Daten zulässt.
+Eine homomorphe Verschlüsselung spielt eine wichtige Rolle beim Cloud-Computing.
+Um Datenmissbrauch bei der Verarbeitung sensibler Daten zu vermeiden, ist es wünschenswert, dass der Dienstleister nur auf den verschlüsselten Daten rechnet und die Klartexte nie zu Gesicht bekommt.
+Die Sicherheit der meisten asymmetrischen Kryptosysteme beruht auf der Schwierigkeit von Problemen, die in der algorithmischen Zahlentheorie untersucht werden.
+Die bekanntesten dieser Probleme sind die Primfaktorzerlegung und das Finden diskreter Logarithmen.
+Die Sicherheit der faktorisierungsbasierten Public-Key-Kryptographie liegt in der Verwendung eines Produkts aus großen Primzahlen, welches als öffentlicher Schlüssel dient.
+Der private Schlüssel besteht aus den dazugehörenden Primfaktoren bzw. davon abgeleiteten Werten.
+Die Zerlegung einer hinreichend großen Zahl gilt aufgrund der sehr aufwendigen Faktorisierung als nicht praktikabel.
+Beispiel zur Faktorisierung Anschaulich gesprochen ist es trotz ausgefeilter Faktorisierungsverfahren schwierig, zu einer gegebenen Zahl, die das Produkt zweier großer Primfaktoren ist, z. B. der Zahl 805963, einen dieser Faktoren zu finden.
+Der Berechnungsaufwand zum Finden eines Faktors wächst dabei mit zunehmender Länge der Zahl sehr schnell, was bei genügend großen Zahlen dazu führt, dass die Faktorisierung auch auf einem Supercomputer tausende Jahre dauern würde.
+In der Praxis werden daher Zahlen mit mehreren hundert Dezimalstellen verwendet.
+Für die Multiplikation großer Zahlen existieren hingegen effiziente Algorithmen; es ist also leicht, aus zwei Faktoren (919 und 877) das Produkt (805963) zu berechnen.
+Diese Asymmetrie im Aufwand von Multiplikation und Faktorisierung macht man sich in bei faktorisierungsbasierten Public-Key-Verfahren zu Nutze.
+Kryptographisch sichere Verfahren sind dann solche, für die es keine bessere Methode zum Brechen der Sicherheit als das Faktorisieren einer großen Zahl gibt, insbesondere kann der private nicht aus dem öffentlichen Schlüssel errechnet werden.
+Außer dem Faktorisierungsproblem finden sowohl das Problem des Diskreten Logarithmus (Elgamal-Kryptosystem) als auch fortgeschrittene Methoden der algebraischen Zahlentheorie, wie etwa die Verschlüsselung über elliptische Kurven (ECC) breite Anwendung.
+Ein weiteres Anwendungsgebiet ist die Kodierungstheorie, die sich in ihrer modernen Form auf die Theorie der algebraischen Funktionenkörper stützt.
+Die derzeit wichtigsten Public-Key-Verfahren (RSA), Verfahren, die auf dem Diskreten Logarithmus in endlichen Körpern beruhen (z. B. DSA oder Diffie-Hellman), und Elliptic Curve Cryptography könnten theoretisch durch so genannte Quantencomputer in Polynomialzeit gebrochen werden und somit ihre Sicherheit verlieren.
+In Zeiten des Internets wurde der Ruf auch nach privater Verschlüsselung laut.
+Bislang waren es Regierungen und globale Großunternehmen, die die RSA-Verschlüsselung aufgrund notwendiger, leistungsstarker Computer einsetzen konnten.
+Der amerikanische Physiker Phil Zimmermann entwickelte daraufhin eine RSA-Verschlüsselung für die breite Öffentlichkeit, die er Pretty Good Privacy (PGP) nannte und im Juni 1991 im Usenet veröffentlichte.
+Neu bei diesem Verfahren war die Möglichkeit, eine E-Mail mit einer digitalen Unterschrift zu unterzeichnen, die den Urheber der Nachricht eindeutig ausweist.
+Da es moderne, computergestützte Verfahren jedem möglich machen, Informationen sicher zu verschlüsseln, besteht seitens der Regierungen ein Bedürfnis, diese Informationen entschlüsseln zu können.
+Die US-Regierung prüfte im Jahr 1996, ob ein Verfahren gegen den Erfinder von PGP, Phil Zimmermann, wegen illegalen Waffenexports eingeleitet werden könne.
+Sie stellte das Verfahren jedoch nach öffentlichen Protesten ein.
+In den USA unterliegt Kryptographie, wie auch in vielen anderen Ländern, einem Exportbeschränkungsgesetz.
+In den USA regelt der Arms Export Control Act und die International Traffic in Arms Regulations den Export von Kryptographietechniken.
+Oft gelingt Untersuchungsbehörden die Entschlüsselung eines Beweisstücks nur mit Hilfe des privaten Schlüssels.
+Es gibt in verschiedenen Ländern Mitwirkungspflichten bei der Entschlüsselung von Beweismaterial.
+Teilweise wird dabei auch vom Verdächtigten verlangt, den Schlüssel preiszugeben.
+In Großbritannien wurden Zuwiderhandlungen schon mit langen Haftstrafen geahndet.
+Nach Ansicht von Kritikern widerspricht dies dem Aussageverweigerungsrecht.
+In Frankreich gab es von 1990 bis 1996 ein Gesetz, das zum Deponieren dieses Schlüssels bei einer "vertrauenswürdigen Behörde" verpflichtete.
+Damit verbunden war ein Verbot anderer Verfahren und Schlüssel.
+Einem Journalisten, der dies praktizieren wollte, ist es allerdings nicht gelungen, eine dafür zuständige Behörde zu finden.
+Nach einer Lockerung des Gesetzes 1996 ist die Verwendung bestimmter Kryptographieverfahren genehmigungspflichtig.
+Auch in Deutschland und in der EU gibt es seit Jahren Debatten über gesetzliche Kontrolle der Kryptographie.
+Ein Verbot der Kryptographie ist nicht praktikabel, da die Algorithmen bekannt sind und jeder mit den notwendigen Programmierkenntnissen ein entsprechendes Programm selbst schreiben könnte.
+Web-Anwendungen wie z. B. elektronisches Banking oder Shopping sind ohne Kryptographie nicht denkbar.
+Im Rahmen der digitalen Rechteverwaltung werden Kryptographieverfahren eingesetzt, deren Umgehung (mittels Kryptoanalyse) unter Strafe gestellt ist.

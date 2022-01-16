@@ -1,0 +1,53 @@
+Android ist ein Betriebssystem für tragbare kleine Computer, also gerade für Tablets und Smartphones.
+Das Wort kommt aus dem Griechischen und meint eigentlich einen Roboter, der so ähnlich wie ein Mensch aussieht.
+Android ist aber kein Roboter, sondern steuert Geräte wie Telefone und Tablet-Computer.
+
+Diese Geräte haben Bildschirme, die merken, wenn man sie mit dem Finger berührt.
+Man nennt das "Touch Screen", zu Deutsch etwa "Bildschirm zum Berühren".
+Man macht mit dem Finger das, was man sonst normalerweise mit einer Maus machen würde.
+
+== Was macht Android?
+
+Android ist dafür zuständig, dass alle anderen Programme (Apps) auf dem Gerät funktionieren.
+Man nennt es darum auch Betriebssystem, weil es für den Betrieb der anderen Programme auf dem Gerät gebraucht wird.
+Dadurch können wir die Apps auf dem Gerät finden, starten und beenden.
+
+Android kümmert sich aber auch darum, dass der Bildschirm auf unsere Finger reagiert, und es lässt uns mit dem Gerät telefonieren.
+Es zeigt uns auf dem Bildschirm, was die Apps machen und lässt uns Töne und Musik hören.
+Man nennt diesen Teil von Android deshalb "Benutzeroberfläche":
+Benutzer sind wir Menschen, und durch die Oberfläche können wir mit dem Computer darunter in Kontakt treten.
+
+Android ist nicht die einzige Benutzeroberfläche für kleine Computer.
+Die Firma Apple hat für ihre Geräte eine eigene gebaut: iOS, gesprochen Ei-O-Es.
+Und die Firma Microsoft hat ebenfalls ein eigenes: Windows, das englische Worts für Fenster.
+
+== Wie sieht Android aus?
+
+Auf einem Gerät mit Android sieht man eine bunte Fläche mit mehreren Zeichen, auch Symbole genannt.
+Die Fläche nennt man Startseite oder auch "Homescreen", also "Zuhause-Bildschirm".
+Auf diese Startseite kann man immer wieder zurückkehren, um sich auf dem Gerät zurechtzufinden.
+
+Berührt man die Symbole auf der Startseite, öffnen sich verschiedene Programme und Möglichkeiten des Gerätes, zum Beispiel die Kamera-Funktion mit dem Kamerazeichen.
+Mit dem Finger kann man durch "wischen" wie in einem kleinen Buch zwischen verschiedenen Ansichten und Seiten wechseln.
+Es gibt auch Zeichen, um eine Seite zurück, zur Startseite oder zu einer Liste aller benutzten Apps zu kommen.
+
+Ein Teil von Android ist eine Art Geschäft, wo man sich Apps, Spiele, Musik oder elektronische Bücher auf das Gerät holen kann.
+In Android heißt das dann "Play Store", also "Spiel-Geschäft".
+Manche Apps kosten nichts, für andere muss man Geld bezahlen.
+
+Das Zeichen für Android ist ein kleiner grüner Roboter.
+Es gibt auf der Welt sehr viele Android-Geräte, über eine Milliarde.
+Android wurde von der Firma Google entwickelt, ist aber bei vielen verschiedenen Herstellern von Telefonen oder Tablet-PCs von Anfang an auf den Geräten drauf.
+Es gibt das Programm seit dem Jahr
+2008.
+
+== Ist Android immer dasselbe?
+
+Android wird immer wieder ein wenig verbessert und kommt in einer neuen Version heraus.
+Das passiert fast jedes Jahr.
+Diese Versionen benennt Google immer nach Süßigkeiten.
+
+Es ist wichtig, dass man sich immer die neueste Version auf sein Telefon oder auf seinen Tablet-Computer holt.
+Diese Version funktioniert meistens nicht nur besser.
+Sie ist auch wichtig für die Sicherheit, damit nicht fremde Leute von außen etwas Schlimmes machen können.
+

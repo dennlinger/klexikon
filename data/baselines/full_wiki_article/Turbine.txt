@@ -1,0 +1,47 @@
+Eine Turbine (lateinisch turbare ,drehen') ist eine rotierende Strömungsmaschine, die das Abfallen der inneren Energie eines strömenden Fluides (Flüssigkeit oder Gas) in mechanische Leistung umwandelt (Drehmoment mal Drehzahl), die sie über ihre Welle abgibt.
+Dem Fluidstrom wird durch die möglichst wirbelfreie (laminare) Umströmung der Turbinenschaufeln ein Teil seiner inneren Energie (meistens vor allem bestehend aus Bewegungs-, Lage- und Druckenergie) entzogen, der auf die Laufschaufeln der Turbine übergeht.
+Über diese wird dann die Turbinenwelle in Drehung versetzt, die nutzbare Leistung wird an eine angekuppelte Arbeitsmaschine, wie beispielsweise an einen Generator, abgegeben.
+Kraftwerksturbinen gehören zu den leistungsfähigsten Maschinen.
+Ihre mechanisch nutzbare Leistung erreicht heute in den größten Kernkraftwerken fast 1,8 Gigawatt, wobei bei großen Leistungen eine Turbine aus mehreren Teilturbinen (Hoch-, Mittel- und Niederdruckturbine(n)) besteht.
+Die steile Drehmoment-Kennlinie des Generators sorgt für eine konstante Drehzahl der Kraftwerksturbine, ansonsten muss die Drehzahl über einen Regler konstant gehalten werden.
+Umgangssprachlich wird der Begriff Turbine auch für Düsentriebwerke verwendet, obwohl die Turbine nur ein Teil des Triebwerks ist; das Triebwerk besteht auch aus Verdichter, Brennkammer und weiteren Komponenten.
+Der Begriff "Turbine" wurde von dem französischen Ingenieur Claude Burdin geprägt.
+Die theoretischen Fundamente zur Berechnung eines beliebigen Turbinentyps wurden bereits im 18. Jahrhundert durch Leonhard Euler gelegt.
+Die Grundlage der Eulerschen Turbinengleichung findet sich in der Erhaltung des Drehimpulses eines Stoffstromes in einem geschlossenen System:
+Die Veränderung des Impulses innerhalb eines Teilsystemes (hier: die Turbinenschaufeln) erzeugen ein Drehmoment um das Zentrum der Turbine:
+Sinnvollerweise können nur Anteile der Strömungsgeschwindigkeit des Fluids einen Anteil zum Drehmoment liefern, die senkrecht im Sinne des Hebelgesetzes zum Turbinendrehpunkt stehen.
+Solche Anteile werden mit dem Index u gekennzeichnet.
+Eine Integration der Formel liefert folgendes Ergebnis:
+Aus dem Zusammenhang zwischen Drehmoment, der Drehzahl n {\displaystyle n} und der Leistung P {\displaystyle P } errechnet sich:
+mit u {\displaystyle u} als der größtmöglichen Umfangsgeschwindigkeit in einem betrachteten Querschnitt .
+Eine erneute Integration liefert
+Die letzte Gleichung wird Eulersche Turbinengleichung genannt.
+Ihre Lösung ergibt sich zu:
+Y {\displaystyle Y} ist hier die spezifische Schaufelarbeit, u {\displaystyle u} die Umfangsgeschwindigkeit der sich drehenden Schaufelspitze am Eintritt (Index 1) und Austritt (Index 2), desgleichen die nutzbare Fluidgeschwindigkeit c u {\displaystyle c_{u} } am Ein- und Austritt.
+In der Wirklichkeit muss für die überschlägige Turbinenauslegung auch noch mit den Reibungsverlusten des strömenden Fluids gerechnet werden.
+In der Regel sind mehrere Schaufeln auf einer Nabe angebracht, sodass ein Schaufel- oder Laufrad entsteht.
+Die Schaufeln sind gekrümmt profiliert, ähnlich einer Flugzeugtragfläche.
+Sind Turbinen in einem durchströmten Gehäuse montiert, dann befindet sich vor jeder Laufradstufe ein Leitrad.
+Die Leitschaufeln ragen vom Gehäuse in das strömende Medium hinein und erteilen ihm einen Drehimpuls (Drall).
+Der im Leitrad erzeugte Drall (kinetische Energie) wird im darauffolgenden Laufrad möglichst vollständig abgebaut, um die Welle, auf der die Laufradschaufeln über die Nabe montiert sind, anzutreiben.
+Die Rotation der Welle kann genutzt werden, um zum Beispiel einen Generator anzutreiben.
+Letztlich wird so die mechanische Strömungsenergie von Wasserkraft, Dampf oder Luft in elektrische Energie überführt.
+Leitrad und Laufrad zusammen bezeichnet man als Stufe.
+Bei Gas- und besonders bei Dampfturbinen sind mehrere solcher Stufen hintereinandergeschaltet, Wasserturbinen sind einstufig ausgeführt.
+Da das Leitrad stillsteht, können seine Leitschaufeln sowohl am Gehäuseinneren als auch am Gehäuseäußeren befestigt sein, und somit für die Welle des Laufrads ein Lager anbinden.
+Freistehende Turbinen (zum Beispiel bei Windkraftanlagen) haben in der Regel kein Leitrad und nur eine Stufe.
+Maßgeblich für die Stufeneinteilung sind die Laufräder - jedes ist Grundlage einer eigenen Stufe.
+Turbinen können direkt mit schnell umlaufenden Generatoren gekoppelt sein, die die mechanische Rotationsenergie in elektrische Energie umwandeln.
+Diese schnell umlaufenden, niederpoligen Generatoren werden auch Turbogeneratoren genannt.
+Eine Zusammenstellung aus Turbine und Turbogenerator heißt Turbosatz.
+Wird eine Turbine mit Hilfe eines Verdichters und eines Verbrennungssystems für Gas oder Öl angetrieben, nennt man das Gesamtsystem eine "Gasturbine".
+Gasturbinen werden zum Beispiel in Flugzeugen, Schiffen oder in Gas- und Ölkraftwerken verwendet.
+Turbinen-Strahltriebwerke sind Gasturbinen, die Flugzeuge ganz oder teilweise durch den Rückstoß ihrer beschleunigten Abgase antreiben (Schub).
+Mantelstromtriebwerke erzeugen einen größeren Teil des Schubes durch ein turbinengetriebenes Gebläse ("Fan").
+Es gab Windturbinen, die mit nur einem Rotorblatt (und einem Gegengewicht) ausgeführt wurden, die sogenannten Einflügler.
+Die Ljungströmturbine ist eine Bauform einer Dampfturbine, die ohne Leitschaufeln auskommt.
+Die radial von innen nach außen durchströmte Turbine besteht aus zwei ineinandergreifenden Hälften, die in entgegengesetzter Richtung drehen.
+Dabei wirken die Laufradschaufeln der einen Hälfte als Leitschaufeln der anderen Hälfte.
+Bei der Pelton- und der Lavalturbine ist der Leitapparat auf eine oder mehrere Düsen reduziert.
+Turbinen können nach verschiedenen Kriterien unterschieden werden:
+Unterscheidung nach Anströmrichtung des Mediums:

@@ -1,0 +1,71 @@
+Telegrafie ist eine Technik, mit der man Nachrichten übertragen kann.
+Man erfährt so an einem Ort, was jemand an einem anderen Ort sagen will.
+Das Gerät dafür ist ein Telegraf, und wer damit umgeht, ist ein Telegrafist.
+
+Die Telegrafie wurde vor über hundert Jahren erfunden.
+Sie hat die Übermittlung der Nachrichten enorm viel schneller gemacht.
+Das war nicht nur wichtig für die Zeitungen und übrigen Nachrichten, sondern auch für die Armeen, die Eisenbahn und viele andere Unternehmen.
+Heute verwendet man allerdings kaum noch Telegrafie, da es Telefon und Internet gibt.
+
+Das Wort Telegrafie hat griechische Wörter in sich.
+Übersetzt heißt Telegrafie "Fernschreiben".
+So nennt man heute noch die Nachricht, die man erhält: ein Telegramm.
+Die Menschen haben auf verschiedene Weise telegrafiert.
+Die bekannteste war die Art, bei der man Strom über Drähte schickt.
+Darum nannte man später den Funk auch die "drahtlose Telegrafie".
+
+== Was ist "optische Telegrafie"?
+
+Schon die alten Chinesen überlegten sich, wie man rasch Nachrichten übermittelt, ohne dass ein Bote die ganze Strecke reiten muss.
+Sie hatten auf Bergen Wachstationen errichtet.
+Wenn Feinde kamen, machten die Leute auf so einer Station ein Feuer.
+Auf dem nächsten Berg war noch so eine Wachstation, wo man das Feuer sah und ebenfalls ein Feuer entfachte.
+Solche Systeme nutzten auch andere Völker.
+
+Im Jahr 1792 machten die französischen Brüder Chappe eine Erfindung, die man heute "optische Telegrafie" nennt:
+Sie stellten auf Gebäuden oder Bergen weithin sichtbare Signalarme auf.
+Die Arme konnte man in verschiedene Stellungen bringen.
+Jede Stellung bedeutete einen bestimmten Buchstaben oder eine bestimmte Zahl.
+Die Information konnte so von einer Station zur nächsten weitergegeben werden.
+Dabei mussten sich die Stationen in Sichtweite befinden.
+In Frankreich gab es damals über 500 solcher Stationen.
+Überall brauchte man Menschen, die diese Stationen bedienen und die Signale entschlüsseln konnten.
+
+== Was bewirkte die Elektrizität?
+
+Schon wenige Jahre später führte der spanische Physiker Francesc Salva i Campillo seinen elektrischen Telegrafen vor.
+Bei dieser Erfindung wurden die Nachrichten elektrisch über ein Kabel übertragen.
+Salva hatte damals schon die Idee, dass die Signale irgendwann sogar ohne Kabel übertragen werden könnten.
+
+In der Zeit um 1830 gab es auch die ersten Eisenbahnstrecken.
+Die Eisenbahn war sehr an schneller Nachrichtenübermittlung interessiert.
+Auch die Elektrizität wurde in dieser Zeit immer besser erforscht.
+Nun haben sich sehr viele Leute damit beschäftigt, wie man die Elektrizität für die Telegrafie nutzen kann.
+Der bekannteste ist wohl der Amerikaner Samuel Morse.
+Heute kennen wir Morse vor allem durch das Morsealphabet, das nach ihm benannt wurde.
+
+Die Telegrafie ohne Kabel, also die drahtlose Telegrafie wurde erst 1898 durch den Physiker Ferdinand Braun.
+Seine erste Anlage in Frankreich wurde schnell weiterentwickelt und verbessert.
+Später hat dann das Telefon die Telegrafie abgelöst.
+Heute nutzen wir Mobilfunk und Internet zur schnellen Nachrichtenübermittlung.
+
+== Was bedeutet "morsen"?
+
+Samuel Morse war ein Mann, der über die elektrische Telegrafie nachgedacht hat.
+Er hat auch selbst einen Telegrafen gebaut.
+Beim Telegrafieren werden kurze oder lange Signale mit Pausen dazwischen übertragen.
+Das nennt man auch morsen.
+Lange Zeit war es nicht so einfach, ein empfangenes Signal in Buchstaben zu übersetzen, da es viele verschiedene Alphabete gab und die Länge der Signale nicht einheitlich war.
+
+Ein Buchstabe oder eine Zahl wird beim Morsen zu einer bestimmten Folge von kurzen oder langen Signalen.
+So bedeuten drei kurze Signale schnell hintereinander den Buchstaben S.
+Drei lange Signale schnell hintereinander bedeuten ein O. Dreimal kurz, dreimal lang und wieder dreimal kurz bedeutet also SOS.
+Das ist ein internationales Notsignal.
+Man schreibt es als Morsecode auch:
+*  *  * -  -  - *  *
+*
+
+Erst später kam man auf die Idee, das Signal SOS könnte eine Abkürzung sein für den englichen Satz "Save our souls" oder "Save our ship".
+Das bedeutet "Rettet unsere Seelen" oder "Rettet unser Schiff".
+Ursprünglich war das aber nicht so gedacht.
+

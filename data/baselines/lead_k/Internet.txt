@@ -1,0 +1,8 @@
+Das Internet (von englisch internetwork, zusammengesetzt aus dem Präfix inter und network ,Netzwerk' oder kurz net ,Netz'), umgangssprachlich auch Netz, ist ein weltweiter Verbund von Rechnernetzwerken, den autonomen Systemen.
+Es ermöglicht die Nutzung von Internetdiensten wie WWW, E-Mail, Telnet, SSH, XMPP, MQTT und FTP.
+Dabei kann sich jeder Rechner mit jedem anderen Rechner verbinden.
+Der Datenaustausch zwischen den über das Internet verbundenen Rechnern erfolgt über die technisch normierten Internetprotokolle.
+Die Technik des Internets wird durch die RFCs der Internet Engineering Task Force (IETF) beschrieben.
+Die Verbreitung des Internets hat zu umfassenden Umwälzungen in vielen Lebensbereichen geführt.
+Es trug zu einem Modernisierungsschub in vielen Wirtschaftsbereichen sowie zur Entstehung neuer Wirtschaftszweige bei und hat zu einem grundlegenden Wandel des Kommunikationsverhaltens und der Mediennutzung im beruflichen und privaten Bereich geführt.
+Die kulturelle Bedeutung dieser Entwicklung wird manchmal mit der Erfindung des Buchdrucks gleichgesetzt.

@@ -1,0 +1,473 @@
+Der Merkur ist mit einem Durchmesser von knapp 4880 Kilometern der kleinste, mit einer durchschnittlichen Sonnenentfernung von etwa 58 Millionen Kilometern der sonnennächste und somit auch schnellste Planet im Sonnensystem.
+Er hat mit einer maximalen Tagestemperatur von rund +430 °C und einer Nachttemperatur bis -170 °C die größten Oberflächen-Temperaturschwankungen aller Planeten.
+
+Aufgrund seiner Größe und seiner chemischen Zusammensetzung zählt er zu den erdähnlichen Planeten.
+
+Wegen seiner Sonnennähe ist er von der Erde aus schwer zu beobachten, da er nur einen maximalen Winkelabstand von etwa 28° von der Sonne erreicht.
+Freiäugig ist er nur maximal eine Stunde lang entweder am Abend- oder am Morgenhimmel zu sehen, teleskopisch hingegen auch tagsüber.
+Details auf seiner Oberfläche sind ab einer Fernrohröffnung von etwa 20 cm zu erkennen.
+
+Benannt ist der Merkur nach dem Götterboten Mercurius, dem römischen Gott der Händler und Diebe.
+Sein astronomisches Symbol ist .
+
+== Himmelsmechanik
+
+=== Umlaufbahn
+
+Als sonnennächster Planet hat Merkur auf einer Umlaufbahn mit der großen Halbachse von 0,387 AE (57,9 Mio. km) - bei einer mittleren Entfernung zum Sonnenzentrum von 0,403 AE (60,4 Mio. km) - mit knapp 88 Tagen auch die kürzeste Umlaufzeit.
+Mit einer numerischen Exzentrizität von 0,2056 ist die Umlaufbahn des Merkur stärker elliptisch als die aller anderen großen Planeten des Sonnensystems.
+So liegt sein sonnennächster Punkt, das Perihel, bei 0,307 AE (46,0 Mio. km) und sein sonnenfernster Punkt, das Aphel, bei 0,467 AE (69,8 Mio. km).
+Ebenso ist die Neigung seiner Bahnebene gegen die Erdbahnebene mit 7° größer als die aller anderen Planeten.
+Eine dermaßen hohe Exzentrizität und Bahnneigung sind ansonsten eher typisch für Zwergplaneten wie Pluto und Eris.
+
+==== Periheldrehung
+
+Bereits die newtonsche Mechanik sagt voraus, dass der gravitative Einfluss der anderen Planeten das Zweikörpersystem Sonne-Merkur stört.
+Durch diese Störung führt die große Bahnachse der Merkurbahn eine langsame rechtläufige Drehung in der Bahnebene aus.
+Der Merkur durchläuft also streng genommen keine Ellipsen-, sondern eine Rosettenbahn.
+In der zweiten Hälfte des 19. Jahrhunderts waren die Astronomen in der Lage, diese Veränderungen, insbesondere die Lage des Merkurperihels, mit großer Genauigkeit zu messen.
+Urbain Le Verrier, der damalige Direktor des Pariser Observatoriums, bemerkte, dass die Präzession (Drehung) des Perihels für Merkur 5,74" (Bogensekunden) pro Jahr beträgt.
+Dieser Wert konnte allerdings nicht völlig mit der klassischen Mechanik von Isaac Newton erklärt werden.
+Laut der newtonschen Himmelsmechanik dürfte er nur 5,32" betragen, der gemessene Wert ist also um 0,43" pro Jahr zu groß, der Fehler beträgt also 0,1" (bzw. 29 km) pro Umlauf.
+Darum vermutete man neben einer verursachenden Abplattung der Sonne noch einen Asteroidengürtel zwischen dem Merkur und der Sonne oder einen weiteren Planeten, der für diese Störungen verantwortlich sein sollte.
+
+Die Existenz dieses weiteren Planeten galt als so wahrscheinlich, dass mit Vulkan bereits ein Name festgelegt wurde.
+Dennoch konnte trotz intensiver Suche kein entsprechendes Objekt innerhalb der Merkurbahn gefunden werden.
+Dies wurde zunächst auf die große Nähe zur Sonne zurückgeführt, die eine visuelle Entdeckung des Planeten erschwerte, da die Sonne ihn überstrahlte.
+
+Die Suche nach Vulkan erübrigte sich erst dann vollständig, als die Allgemeine Relativitätstheorie die systematische Abweichung zwischen der berechneten und der beobachteten Bahn nicht mit einem zusätzlichen Massenkörper erklärte, sondern mit relativistischer Verzerrung der Raumzeit in Sonnennähe.
+Der anhand der ART berechnete Überschuss von 43,03" (Unsicherheit: 0,03") je Jahrhundert stimmt gut mit der beobachteten Differenz von 42,96" (Unsicherheit: 0,94") überein.
+Für eine komplette Periheldrehung von 360° benötigt der Merkur rund 225.000 Jahre bzw. rund 930.000 Umläufe und erfährt so je Umlauf ein um rund 1,4" gedrehtes Perihel.
+
+==== Mögliche zukünftige Entwicklung
+
+Konstantin Batygin und Gregory Laughlin von der University of California, Santa Cruz sowie davon unabhängig Jacques Laskar vom Pariser Observatorium haben durch Computersimulationen festgestellt, dass das innere Sonnensystem auf lange Sicht nicht stabil ist.
+In ferner Zukunft - in einer Milliarde Jahren oder mehr - könnte Jupiters Anziehungskraft Merkur aus seiner jetzigen Umlaufbahn herausreißen, indem ihr Einfluss nach und nach Merkurs große Bahnexzentrizität weiter vergrößert, bis der Planet in seinem sonnenfernsten Punkt die Umlaufbahn der Venus kreuzt.
+
+Daraufhin könnte es vier Szenarien geben:
+Merkur stürzt in die Sonne; er wird aus dem Sonnensystem geschleudert; er kollidiert mit der Venus oder mit der Erde.
+Die Wahrscheinlichkeit, dass eine dieser Möglichkeiten eintrifft, bevor sich die Sonne zu einem Roten Riesen aufblähen wird, liegt jedoch nur bei rund 1 %.
+
+=== Rotation
+
+Die Achse von Merkurs rechtläufiger Rotation steht fast senkrecht auf seiner Bahnebene.
+Deswegen gibt es auf dem Merkur keine Jahreszeiten mit unterschiedlicher Tageslänge.
+Allerdings variiert die Sonneneinstrahlung aufgrund der Exzentrizität der Bahn beträchtlich:
+Im Perihel trifft etwa 2,3-mal so viel Energie von der Sonne auf die Merkuroberfläche wie im Aphel.
+Dieser Effekt, der beispielsweise auf der Erde wegen der geringen Exzentrizität der Bahn klein ist (7 %), führt zu Jahreszeiten auf dem Merkur.
+
+Radarbeobachtungen zeigten 1965, dass der Planet nicht, wie ursprünglich von Giovanni Schiaparelli 1889 angenommen, eine einfache gebundene Rotation besitzt, das heißt, der Sonne immer dieselbe Seite zuwendet (so, wie der Erdmond der Erde immer dieselbe Seite zeigt).
+Vielmehr besitzt er als Besonderheit eine gebrochen gebundene Rotation und dreht sich während zweier Umläufe exakt dreimal um seine Achse.
+Seine siderische Rotationsperiode beträgt zwar 58,646 Tage, aber aufgrund der 2:3-Kopplung an die schnelle Umlaufbewegung mit demselben Drehsinn entspricht der Merkurtag - der zeitliche Abstand zwischen zwei Sonnenaufgängen an einem beliebigen Punkt - auf dem Planeten mit 175,938 Tagen auch genau dem Zeitraum von zwei Sonnenumläufen.
+Nach einem weiteren Umlauf geht die Sonne dementsprechend am Antipodenort auf.
+Durchläuft der Merkur den sonnennächsten Punkt seiner ziemlich stark exzentrischen Bahn, das Perihel, steht das Zentralgestirn zum Beispiel immer abwechselnd über dem Calorisbecken am 180. Längengrad oder über dessen chaotischem Antipodengebiet am Nullmeridian im Zenit.
+Während des Merkurs höchsten Bahngeschwindigkeiten im Perihelbereich ist die Winkelgeschwindigkeit seiner Bahnbewegung größer als die seiner Rotation, sodass die Sonne am Merkurhimmel eine rückläufige Schleifenbewegung vollführt.
+
+Zur Erklärung der Kopplung von Rotation und Umlauf wird unter Caloris Planitia (der "heißen" Tiefebene) eine Massekonzentration ähnlich den sogenannten Mascons der großen, annähernd kreisförmigen Maria des Erdmondes, angenommen, an der die Gezeitenkräfte der Sonne die vermutlich einst schnellere Eigendrehung des Merkurs zu dieser ungewöhnlichen Resonanz heruntergebremst haben.
+
+=== Planet ohne Mond
+
+Der Merkur hat keinen Mond.
+Die Existenz eines solchen wurde auch niemals ernsthaft in Erwägung gezogen.
+Es besteht jedoch seit Mitte der 1960er Jahre von verschiedenen Wissenschaftlern die Hypothese, dass der Merkur selbst einmal ein Mond der Venus war.
+Anlass zu der Annahme gaben anfangs nur einige Besonderheiten seiner Umlaufbahn.
+Später kamen seine spezielle Rotation sowie die zum Erdmond analoge Oberflächengestalt von zwei auffallend unterschiedlichen Hemisphären hinzu.
+Mit dieser Annahme lässt sich auch erklären, warum die beiden Planeten als einzige im Sonnensystem mondlos sind.
+
+Am 27. März 1974 glaubte man, einen Mond um den Merkur entdeckt zu haben.
+Zwei Tage bevor Mariner 10 den Merkur passierte, fing die Sonde an, starke UV-Emissionen zu messen, die kurz darauf aber wieder verschwanden.
+Drei Tage später tauchten die Emissionen wieder auf, schienen sich aber vom Merkur fortzubewegen.
+Einige Astronomen vermuteten einen neu entdeckten Stern, andere wiederum einen Mond.
+Die Geschwindigkeit des Objekts wurde mit 4 km/s berechnet, was etwa dem erwarteten Wert eines Merkurmondes entsprach.
+Einige Zeit später konnte das Objekt schließlich als Stern 31 Crateris identifiziert werden.
+
+== Aufbau
+
+Merkur gleicht äußerlich dem planetologisch-geologisch inaktiven Erdmond, doch das Innere entspricht anscheinend viel mehr dem der geologisch sehr dynamischen Erde.
+
+=== Atmosphäre
+
+Der Merkur hat keine Atmosphäre im herkömmlichen Sinn, denn sie ist dünner als ein labortechnisch erreichbares Vakuum, ähnlich wie die Atmosphäre des Mondes.
+Die "atmosphärischen" Bestandteile Wasserstoff H2 (22 %) und Helium (6 %) stammen sehr wahrscheinlich aus dem Sonnenwind, wohingegen Sauerstoff O2 (42 %), Natrium (29 %) und Kalium (0,5 %) vermutlich aus dem Material der Oberfläche freigesetzt wurden (die Prozentangaben sind ungenaue Schätzungen für die Volumenanteile der Gase).
+Der Druck der Gashülle beträgt nur etwa 10-15 Bar am Boden von Merkur und die Gesamtmasse der Merkuratmosphäre damit nur etwa 1000 Kilogramm.
+
+Aufgrund der hohen Temperaturen und der geringen Anziehungskraft kann der Merkur die Gasmoleküle nicht lange halten, sie entweichen durch Photoevaporation stets schnell ins All.
+Bezogen auf die Erde wird jener Bereich, für den dies zutrifft, Exosphäre genannt; es ist die Austauschzone zum interplanetaren Raum.
+Eine ursprüngliche Atmosphäre als Entgasungsprodukt des Planeteninnern ist dem Merkur längst verloren gegangen; es gibt auch keine Spuren einer früheren Erosion durch Wind und Wasser.
+Das Fehlen einer richtigen Gashülle, welche für einen gewissen Ausgleich der Oberflächentemperaturen sorgen würde, bedingt in dieser Sonnennähe extreme Temperaturschwankungen zwischen der Tag- und der Nachtseite.
+Gegenüber den Nachttemperaturen, die bis auf -173 °C sinken, wird die während des geringsten Sonnenabstands beschienene Planetenseite bis auf +427 °C aufgeheizt.
+Während des größten Sonnenabstands beträgt die höchste Bodentemperatur bei der großen Bahnexzentrizität vom Merkur noch rund +250 °C.
+
+=== Oberfläche
+
+Wegen der schwierigen Erreichbarkeit auf der sonnennahen Umlaufbahn und der damit verbundenen Gefahr durch den intensiveren Sonnenwind haben bislang erst zwei Raumsonden, Mariner 10 und Messenger, den Planeten besucht und eingehender studiert.
+Bei drei Vorbeiflügen in den 1970er Jahren konnte Mariner 10 lediglich etwa 45 % seiner Oberfläche kartieren.
+Die Merkursonde Messenger hatte gleich bei ihrem ersten Vorbeiflug im Januar 2008 auch einige von Mariner 10 nicht erfasste Gebiete fotografiert und konnte die Abdeckung auf etwa 66 % erhöhen.
+Mit ihrem zweiten Swing-by im Oktober 2008 stieg die Abdeckung auf rund 95 %.
+
+Die mondähnliche, von Kratern durchsetzte Oberfläche aus rauem, porösem, dunklem Gestein reflektiert das Sonnenlicht nur schwach.
+Die mittlere sphärische Albedo beträgt 0,06, das heißt, die Oberfläche streut im Durchschnitt 6 % des von der Sonne praktisch parallel eintreffenden Lichtes zurück.
+Damit ist der Merkur im Mittel noch etwas dunkler als der Mond (0,07).
+
+Anhand der zerstörerischen Beeinträchtigung der Oberflächenstrukturen untereinander ist, wie auch bei Mond und Mars, eine Rekonstruktion der zeitlichen Reihenfolge der prägenden Ereignisse möglich.
+Es gibt in den abgelichteten Gebieten des Planeten keine Anzeichen von Plattentektonik; Messenger hat aber zahlreiche Hinweise auf vulkanische Eruptionen gefunden.
+
+==== Krater
+
+Die Oberfläche des Merkurs ist mit Kratern übersät.
+Die Verteilung der Einschlagstrukturen ist gleichmäßiger als auf dem Mond und dem Mars; demnach ist das Alter seiner Oberfläche gleichmäßig sehr hoch.
+Mit ein Grund für die hohe Kraterdichte ist die äußerst dünne Atmosphäre, die ein ungehindertes Eindringen von Kleinkörpern gestattet.
+Die große Anzahl der Krater je Fläche - ein Maß für das Alter der Kruste - spricht für eine sehr alte, das heißt, seit der Bildung und Verfestigung des Merkurs von vor etwa 4,5 bis vor ungefähr 4 Milliarden Jahren sonst wenig veränderte Oberfläche.
+
+Wie auch beim Mond zeigen die Krater des Merkurs ein weiteres Merkmal, das für eine durch Impakt entstandene Struktur als typisch gilt:
+Das hinausgeschleuderte und zurückgefallene Material, das sich um den Krater herum anhäuft; manchmal in Form von radialen Strahlen, wie man sie auch als Strahlensysteme auf dem Mond kennt.
+Sowohl diese speichenartigen Strahlen als auch die Zentralkrater, von denen sie jeweils ausgehen, sind aufgrund des relativ geringen Alters heller als die Umgebung.
+Die ersten Beobachtungen der Strahlen des Merkurs machte man mit den Radioteleskopen Arecibo und Goldstone und mithilfe des Very Large Array (VLA) des nationalen Radioobservatoriums der Vereinigten Staaten (siehe auch Astrogeologie).
+Der erste Krater, der durch die Raumsonde Mariner 10 während ihrer ersten Annäherung erkannt wurde, war der 40 km breite, aber sehr helle Strahlenkrater Kuiper (siehe Bild rechts).
+Der Krater wurde nach dem niederländisch-US-amerikanischen Mond- und Planetenforscher Gerard Kuiper benannt, der dem Mariner-10-Team angehörte und noch vor der Ankunft der Sonde verstarb.
+
+Nördlich des Äquators liegt Caloris Planitia, ein riesiges, kreisförmiges, aber ziemlich flaches Becken.
+Mit einem Durchmesser von etwa 1550 km ist es das größte bekannte Gebilde auf dem Merkur.
+Es wurde vermutlich vor etwa 3,8 Milliarden Jahren von einem über 100 km großen Einschlagkörper erzeugt.
+Der Impakt war so heftig, dass durch die seismischen Schwingungen um den Ort des Einschlags mehrere konzentrische Ringwälle aufgeworfen wurden und aus dem Innern des Planeten Lava austrat.
+Die von Messenger neu entdeckten vulkanischen Strukturen finden sich insbesondere im Umfeld und auch im Inneren des Beckens.
+Das Beckeninnere ist von dem Magma aus der Tiefe anscheinend aufgefüllt worden, ähnlich wie die Marebecken des Mondes.
+Den Boden des Beckens prägen viele konzentrische Furchen und Grate, die an eine Zielscheibe erinnern und ihm Ähnlichkeit mit dem annähernd vergleichbar großen Multiringsystem auf dem Mond geben, in dessen Beckenzentrum das Mare Orientale liegt.
+Das ziemlich flache Caloris-Becken wird von den Caloris Montes begrenzt, einem unregelmäßigen Kettengebirge, dessen Gipfelhöhen lediglich etwa 1 km erreichen.
+
+==== Ebenen
+
+Auch andere flache Tiefebenen ähneln den Maria des Mondes.
+Mare (Mehrzahl: Maria, deutsch ,Meere') ist in der Selenologie - der "Geologie" des Erdtrabanten - der lateinische Gattungsname für die glatten und dunklen Basaltflächen, die zahlreiche Krater und Becken des Mondes infolge von aus Bodenspalten emporgestiegener und erstarrter Lava ausfüllen.
+Die glatten Ebenen des Merkurs sind aber nicht dunkel wie die "Mondmeere".
+Insgesamt sind sie anscheinend auch kleiner und weniger zahlreich.
+Sie liegen alle auf der Nordhalbkugel im Umkreis des Caloris-Beckens.
+Ihre Gattungsbezeichnung ist Planitia, lateinisch für Tiefebene.
+
+Dass sich die mareähnlichen Ebenen auf dem Merkur nicht wie die Maria des Mondes mit einer dunkleren Farbe von der Umgebung abheben, wird mit einem geringeren Gehalt an Eisen und Titan erklärt.
+Damit ergibt sich jedoch ein gewisser Widerspruch zu der hohen mittleren Dichte des Planeten, die für einen verhältnismäßig sehr großen Metallkern spricht, der vor allem aus Eisen besteht.
+Dunkle Böden wurden durch Messenger im Caloris-Becken nur als Füllung kleinerer Krater gefunden, und obwohl für deren Material ein vulkanischer Ursprung vermutet wird, zeigen die Messdaten, anders als bei solchem Gestein zu erwarten ist, ebenfalls nur einen sehr geringen Anteil an Eisen.
+Das Metall ist in Merkurs Oberfläche zu höchstens 6 Prozent enthalten.
+
+==== Besonderheiten
+
+Zwei Formationen findet man ausschließlich auf der Merkuroberfläche:
+
+Der in der Planetengeologie profilierte amerikanische Geologe Robert G. Strom hat den Umfang der Schrumpfung der Merkuroberfläche auf etwa 100.000 km^2 abgeschätzt.
+Das entspricht einer Verringerung des Planetenradius um bis zu etwa 2 km.
+Neuere Schätzungen, die wesentlich auf den Messungen der Raumsonde Messenger beruhen, kommen auf einen deutlich höheren Wert von etwa 7 km Kontraktion.
+
+Als Ursache der Kontraktion wird die Abkühlung des Planeten im Anschluss an eine heiße Phase seiner Entstehung gesehen, in der er ähnlich wie die Erde und der Mond von vielen großen Asteroideneinschlägen bis zur Glutflüssigkeit aufgeheizt worden sein soll.
+Dieser Abschnitt der Entwicklung nahm demnach erst vor etwa 3,8 Milliarden Jahren mit dem "Letzten Schweren Bombardement" seinen Ausklang, während dessen Nachlassens die Kruste langsam auskühlen und erstarren konnte.
+Einige der gelappten Böschungen wurden offenbar durch die ausklingende Bombardierung wieder teilweise zerstört.
+Das bedeutet, dass sie entsprechend älter sind als die betreffenden Krater.
+Der Zeitpunkt der Merkurschrumpfung wird anhand des Grades der Weltraum-Erosion - durch viele kleinere, nachfolgende Einschläge - vor ungefähr 4 Milliarden Jahren angenommen, also während der Entstehung der mareähnlichen Ebenen.
+
+Laut einer alternativen Hypothese sind die tektonischen Aktivitäten während der Kontraktionsphase auf die Gezeitenkräfte der Sonne zurückzuführen, durch deren Einfluss die Eigendrehung des Merkurs von einer ungebundenen, höheren Geschwindigkeit auf die heutige Rotationsperiode heruntergebremst wurde.
+Dafür spricht, dass sich diese Strukturen wie auch eine ganze Reihe von Rinnen und Bergrücken mehr in meridionale als in Ost-West-Richtung erstrecken.
+
+Nach der Kontraktion und der dementsprechenden Verfestigung des Planeten entstanden kleine Risse auf der Oberfläche, die sich mit anderen Strukturen, wie Kratern und den flachen Tiefebenen überlagerten - ein klares Indiz dafür, dass die Risse im Vergleich zu den anderen Strukturen jüngeren Ursprungs sind.
+Die Zeit des Vulkanismus auf dem Merkur endete, als die Kompression der Hülle sich einstellte, sodass dadurch die Ausgänge der Lava an der Oberfläche verschlossen wurden.
+Vermutlich passierte das während einer Periode, die man zwischen die ersten 700 bis 800 Millionen Jahre der Geschichte des Merkurs einordnet.
+Seither gab es nur noch vereinzelte Einschläge von Kometen und Asteroiden.
+
+Eine weitere Besonderheit gegenüber dem Relief des Mondes sind auf dem Merkur die sogenannten Zwischenkraterebenen.
+Im Unterschied zu der auch mit größeren Kratern gesättigten Mondoberfläche kommen auf dem Merkur zwischen den großen Kratern relativ glatte Ebenen mit Hochlandcharakter vor, die nur von verhältnismäßig wenigen Kratern mit Durchmessern von unter 20 km geprägt sind.
+Dieser Geländetyp ist auf dem Merkur am häufigsten verbreitet.
+Manche Forscher sehen darin die ursprüngliche, verhältnismäßig unveränderte Merkuroberfläche.
+Andere glauben, dass ein sehr früher und großräumiger Vulkanismus die Regionen einst geglättet hat.
+Es gibt Anzeichen dafür, dass sich in diesen Ebenen die Reste größerer und auch vieler doppelter Ringwälle gleich solchen des Mondes noch schwach abzeichnen.
+
+==== Möglichkeit des Vorhandenseins von Eis und kleinen organischen Molekülen
+
+Für die Polregionen des Merkurs lassen die Ergebnisse von Radaruntersuchungen die Möglichkeit zu, dass dort kleine Mengen von Wassereis existieren könnten.
+Da des Merkurs Rotationsachse mit 0,01° praktisch senkrecht auf der Bahnebene steht, liegt das Innere einiger polnaher Krater stets im Schatten.
+In diesen Gebieten ewiger Nacht sind dauerhafte Temperaturen von -160 °C möglich.
+Solche Bedingungen können Eis konservieren, das z. B. durch eingeschlagene Kometen eingebracht wurde.
+Die hohen Radar-Reflexionen können jedoch auch durch Metallsulfide oder durch die in der Atmosphäre nachgewiesenen Alkalimetalle oder andere Materialien verursacht werden.
+
+Im November 2012 veröffentlichte Messungen der Raumsonde Messenger weisen auf Wassereis im Inneren von Kratern am Merkurnordpol hin, die ständig im Schatten liegen.
+Außerdem wurden Spuren von organischen Molekülen (einfache Kohlenstoff- und Stickstoffverbindungen) gefunden.
+Da diese Moleküle als Grundvoraussetzungen für die Entstehung von Leben gelten, rief diese Entdeckung einiges Erstaunen hervor, da dies auf dem atmosphärelosen und durch die Sonne intensiv aufgeheizten Planeten nicht für möglich gehalten worden war.
+Es wird vermutet, dass diese Spuren an Wasser und organischer Materie durch Kometen, die auf dem Merkur eingeschlagen sind, eingebracht wurden.
+
+Die Radiowellen, die vom Goldstone-Radioteleskop des NASA Deep Space Network ausgesandt wurden, hatten eine Leistung von 450 Kilowatt bei 8,51 Gigahertz; die vom VLA mit 26 Antennen empfangenen Radiowellen ließen helle Punkte auf dem Radarschirm erscheinen, Punkte, die auf depolarisierte Reflexionen von Wellen vom Nordpol des Merkurs schließen lassen.
+
+Die Studien, die mit dem Radioteleskop von Arecibo gemacht wurden, das Wellen im S-Band (2,4 GHz) mit einer Leistung von 420 kW ausstrahlte, gestatteten es, eine Karte von der Oberfläche des Merkurs anzufertigen, die eine Auflösung von 15 km hat.
+Bei diesen Studien konnte nicht nur die Existenz der bereits gefundenen Zonen hoher Reflexion und Depolarisation nachgewiesen werden, sondern insgesamt 20 Zonen an beiden Polen.
+Die erwartete Radarsignatur von Eis ist erhöhte Reflexion und stärkere Depolarisation der reflektierten Wellen.
+Silikatgestein, das den größten Anteil der Oberfläche ausmacht, zeigt dieses nicht.
+
+Andere Untersuchungsmethoden der zur Erde zurückgeworfenen Strahlen legen nahe, dass die Form dieser Zonen kreisförmig sind, und dass es sich deshalb um Krater handeln könnte.
+
+Am Südpol des Merkurs scheinen sich Zonen hoher Reflexion mit dem Krater Chao Mang-Fu und kleinen Gebieten zu decken, in denen ebenfalls bereits Krater identifiziert wurden.
+
+Am Nordpol gestaltet sich die Situation etwas schwieriger, weil sich die Radarbilder mit denen von Mariner 10 offenbar nicht decken lassen.
+Es liegt deshalb nahe, dass es Zonen hoher Reflexion geben kann, die sich nicht mit der Existenz von Kratern erklären lassen.
+
+Die Reflexionen der Radarwellen, die das Eis auf der Oberfläche des Merkurs erzeugt, sind geringer als die Reflexionen, die sich mit reinem Eis erzeugen ließen; eventuell liegt es am Vorhandensein von Staub, der die Oberfläche des Kraters teilweise überdeckt.
+
+==== Nomenklatur der Oberflächenstrukturen
+
+In der planetaren Nomenklatur der IAU sind für die Bezeichnung von Oberflächenstrukturen auf dem Merkur folgende Konventionen festgelegt:
+
+Ferner wurde die einzige Hochebene (Catuilla Planum) nach dem quechuanischen Wort für (den Planet) Merkur benannt.
+Für die 32 benannten Albedomerkmale - Gebiete mit besonderem Rückstrahlvermögen - wurde ein Großteil der Namen aus der Merkurkartierung von Eugene Michel Antoniadi übernommen.
+
+=== Innerer Aufbau
+
+Der Merkur ist ein Gesteinsplanet wie die Venus, die Erde und der Mars und ist von allen der kleinste Planet im Sonnensystem.
+Sein Durchmesser beträgt mit 4878 km nur knapp 40 Prozent des Erddurchmessers.
+Er ist damit sogar kleiner als der Jupitermond Ganymed und der Saturnmond Titan, dafür aber jeweils mehr als doppelt so massereich wie diese sehr eisreichen Trabanten.
+
+Das Diagramm zeigt, wie stark die mittlere Dichte der erdähnlichen Planeten einschließlich des Erdmondes bei ähnlicher chemischer Zusammensetzung mit dem Durchmesser im Allgemeinen ansteigt.
+Der Merkur allerdings hat mit 5,427 g/ cm^3 fast die Dichte der weit größeren Erde und liegt damit für seine Größe weit über dem Durchmesser-Dichte-Verhältnis der anderen.
+Das zeigt, dass er eine "schwerere" chemische Zusammensetzung haben muss:
+Sein sehr großer Eisen-Nickel-Kern soll zu 65 Prozent aus Eisen bestehen, etwa 70 Prozent der Masse des Planeten ausmachen und einen Durchmesser von etwa 3600 km haben.
+Neueste Messungen zeigen sogar einen Wert von 4100 km Kerndurchmesser, das wären drei Viertel des Planetendurchmessers, der Kern wäre damit größer als der Erdmond.
+Auf den wohl nur 600 km dünnen Mantel aus Silikaten entfallen rund 30 Prozent der Masse, bei der Erde sind es 62 Prozent.
+Die Kruste ist mit einigen 10 km relativ dick und besteht überwiegend aus Feldspat und Mineralien der Pyroxengruppe, ist also dem irdischen Basalt sehr ähnlich.
+Die dennoch etwas höhere Gesamtdichte der Erde resultiert aus der kompressiveren Wirkung ihrer starken Gravitation.
+
+==== Ursache des hohen Eisengehalts
+
+Des Merkurs relativer Gehalt an Eisen ist größer als der jedes anderen großen Objektes im Sonnensystem.
+Als Erklärung werden verschiedene Hypothesen ins Feld geführt, die alle von einem ehemals ausgeglicheneren Schalenaufbau und einem entsprechend dickeren, metallarmen Mantel ausgehen:
+
+So geht eine Theorie davon aus, dass der Merkur ursprünglich ein Metall-Silikat-Verhältnis ähnlich dem der Chondrite, der meistverbreiteten Klasse von Meteoriten im Sonnensystem, aufwies.
+Seine Ausgangsmasse müsste demnach etwa das 2,25-fache seiner heutigen Masse gewesen sein.
+In der Frühzeit des Sonnensystems, vor etwa 4,5 Milliarden Jahren, wurde der Merkur jedoch - so wird gemutmaßt - von einem sehr großen Asteroiden mit etwa einem Sechstel dieser Masse getroffen.
+Ein Aufschlag dieser Größenordnung hätte einen Großteil der Planetenkruste und des Mantels weggerissen und lediglich den metallreichen Kern übrig gelassen.
+Eine ähnliche Erklärung wurde zur Entstehung des Erdmondes im Rahmen der Kollisionstheorie vorgeschlagen.
+Beim Merkur blieb jedoch unklar, weshalb nur ein so geringer Teil des zersprengten Materials auf den Planeten zurückfiel.
+Nach Computersimulationen von 2006 wird das mit der Wirkung des Sonnenwindes erklärt, durch den sehr viele Teilchen verweht wurden.
+Von diesen Partikeln und Meteoriten, die nicht in die Sonne fielen, sind demnach die meisten in den interstellaren Raum entwichen und 1 bis 2 Prozent auf die Venus sowie etwa 0,02 Prozent auf die Erde gelangt.
+
+Eine andere Theorie schlägt vor, dass der Merkur sehr früh in der Entwicklung des Sonnensystems entstanden sei, noch bevor sich die Energieabstrahlung der jungen Sonne stabilisiert hat.
+Auch diese Theorie geht von einer etwa doppelt so großen Ursprungsmasse des innersten Planeten aus.
+Als der Protostern sich zusammenzuziehen begann, könnten auf dem Merkur Temperaturen zwischen 2500 und 3500 K (Kelvin), möglicherweise sogar bis zu 10.000 K geherrscht haben.
+Ein Teil seiner Materie wäre bei diesen Temperaturen verdampft und hätte eine Atmosphäre gebildet, die im Laufe der Zeit vom Sonnenwind fortgerissen worden sei.
+
+Eine dritte Theorie argumentiert ähnlich und geht von einer langanhaltenden Erosion der äußeren Schichten des Planeten durch den Sonnenwind aus.
+
+Nach einer vierten Theorie wurde der Merkur kurz nach seiner Bildung von einem oder mehreren Protoplaneten gestreift, die doppelt bis viermal so schwer waren wie er - wobei er große Teile seines Gesteinsmantels verlor.
+
+=== Magnetfeld
+
+Trotz seiner langsamen Rotation besitzt der Merkur eine Magnetosphäre, deren Volumen etwa 5 Prozent der Magnetosphäre der Erde beträgt.
+Es hat mit einer mittleren Feldintensität von 450 Nanotesla an der Oberfläche des Planeten ungefähr 1 Prozent der Stärke des Erdmagnetfeldes.
+Die Neigung des Dipolfeldes gegen die Rotationsachse beträgt rund 7°.
+Die Ausrichtung der Magnetpole entspricht der Situation der Erde, das heißt, dass beispielsweise der magnetische Nordpol des Merkurs im Umkreis seiner südlichen Rotationsachse liegt.
+Die Grenze der Magnetosphäre befindet sich in Richtung der Sonne lediglich in einer Höhe von etwa 1000 Kilometern, wodurch energiereiche Teilchen des Sonnenwinds ungehindert die Oberfläche erreichen können.
+Es gibt keine Strahlungsgürtel.
+Insgesamt ist Merkurs Magnetfeld asymmetrisch.
+Es ist auf der Nordhalbkugel stärker als auf der Südhalbkugel, sodass der magnetische Äquator gegenüber dem geografischen Äquator rund 500 Kilometer nördlich liegt.
+Dadurch ist die Südhalbkugel für den Sonnenwind leichter erreichbar.
+
+Möglicherweise wird Merkurs Dipolfeld ganz ähnlich dem der Erde durch den Dynamo-Effekt zirkulierender Schmelzen im Metallkern erzeugt; dann müsste seine Feldstärke aber 30-mal stärker sein, als von Mariner 10 gemessen.
+Einer Modellrechnung zufolge (Ulrich Christensen 2007 im Max-Planck-Institut für Sonnensystemforschung Katlenburg-Lindau) werden große Teile eines im Inneren entstehenden, fluktuierenden Feldes durch elektrisch leitende und stabile Schichtungen des äußeren, flüssigen Kerns stark gedämpft, sodass an der Oberfläche nur ein relativ schwaches Feld übrig bleibt.
+
+Eigentlich sollte der Merkur aufgrund seiner geringen Größe - ebenso wie der wesentlich größere und bereits erstarrte Mars - seit seiner Entstehung schon längst zu stark abgekühlt sein, um in seinem Kern Eisen oder ein Eisen-Nickel-Gemisch noch flüssig halten zu können.
+Aus diesem Grund wurde eine Hypothese aufgestellt, welche die Existenz des Magnetfeldes als Überbleibsel eines früheren, mittlerweile aber erloschenen Dynamo-Effektes erklärt; es wäre dann das Ergebnis erstarrter Ferromagnetite.
+Es ist aber möglich, dass sich zum Beispiel durch Mischungen mit Schwefel eine eutektische Legierung mit niedrigerem Schmelzpunkt bilden konnte.
+Durch ein spezielles Auswertungsverfahren konnte bis 2007 ein Team amerikanischer und russischer Planetenforscher um Jean-Luc Margot von der Cornell-Universität anhand von Radarwellen die Rotation des Merkurs von der Erde aus genauer untersuchen und ausgeprägte Schwankungen feststellen, die mit einer Größe von 0,03 Prozent deutlich für ein teilweise aufgeschmolzenes Inneres sprechen.
+
+=== Entwicklungsetappen
+
+Nach der herkömmlichen Theorie zur Entstehung des Planetensystems der Sonne ist der Merkur wie alle Planeten aus einer allmählichen Zusammenballung von Planetesimalen hervorgegangen, die sich zu immer größeren Körpern vereinten.
+In der letzten Phase der Akkretion schluckten die größeren Körper die kleineren und in dem Bereich des heutigen Merkurorbits bildete sich binnen etwa 10 Millionen Jahren der sonnennächste Planet.
+
+Mit der Aufheizung des Protoplaneten, also des "Rohplaneten", durch den Zerfall der radioaktiven Elemente und durch die Energie vieler großer und andauernder Einschläge während des Aufsammelns der kleineren Brocken begann das, was man mangels eines merkurspezifischen Begriffes als geologische Entwicklung bezeichnen kann.
+Der bis zur Glut erhitzte Körper differenzierte sich durch seine innere Gravitation chemisch in Kern, Mantel und Kruste.
+Mit dem Ausklingen des Dauerbombardements konnte der entstandene Planet beginnen, sich abzukühlen, und es bildete sich aus der äußeren Schicht eine feste Gesteinskruste.
+
+In der folgenden Etappe sind anscheinend alle Krater und andere Spuren der ausklingenden Akkretion überdeckt worden.
+Die Ursache könnte eine Periode von frühem Vulkanismus gewesen sein.
+Dieser Zeit wird die Entstehung der Zwischenkraterebenen zugeordnet sowie die Bildung der gelappten Böschungen durch ein Schrumpfen des Merkurs zugeschrieben.
+
+Das Ende des Schweren Bombardements schlug sich in der Entstehung des Caloris-Beckens und den damit verbundenen Landschaftsformen im Relief als Beginn der dritten Epoche eindrucksvoll nieder.
+
+In einer vierten Phase entstanden (wahrscheinlich durch eine weitere Periode vulkanischer Aktivitäten) die weiten, mareähnlichen Ebenen.
+
+Die fünfte und seit etwa 3 Milliarden Jahren noch immer andauernde Phase der Oberflächengestaltung zeichnet sich lediglich durch eine Zunahme der Einschlagkrater aus.
+Dieser Zeit werden die Zentralkrater der Strahlensysteme zugeordnet, deren auffällige Helligkeit als ein Zeichen der Frische angesehen werden.
+
+Die Abfolge der Ereignisse hat im Allgemeinen eine überraschend große Ähnlichkeit mit der Geschichte der Oberfläche des Mondes; in Anbetracht der ungleichen Größe, der sehr verschiedenen Orte im Sonnensystem und den damit verbundenen unterschiedlichen Bedingungen war das nicht zu erwarten.
+
+== Erforschung
+
+Der Merkur ist mindestens seit der Zeit der Sumerer (3. Jahrtausend v. Chr.) bekannt.
+Die Griechen der Antike gaben ihm zwei Namen, Apollo, wenn er am Morgenhimmel die Sonne ankündigte, und Hermes, wenn er am Abendhimmel der Sonne hinterherjagte.
+
+Die griechischen Astronomen wussten allerdings, dass es sich um denselben Himmelskörper handelte.
+Nach nicht eindeutigen Quellen hat Herakleides Pontikos möglicherweise sogar schon geglaubt, dass der Merkur und auch die Venus um die Sonne kreisen und nicht um die Erde.
+1543 veröffentlichte Nikolaus Kopernikus sein Werk De revolutionibus orbium coelestium (lat.:
+Über die Umschwünge der himmlischen Kreise), indem er die Planeten ihrer Geschwindigkeit nach in kreisförmigen Bahnen um die Sonne anordnete, womit der Merkur der Sonne am nächsten war.
+
+Die Römer benannten den Planeten wegen seiner schnellen Bewegung am Himmel nach dem geflügelten Götterboten Mercurius.
+
+=== Erdgebundene Erforschung
+
+Die Umlaufbahn des Merkurs bereitete den Astronomen lange Zeit Probleme.
+Kopernikus etwa schrieb dazu in De revolutionibus: "Der Planet hat uns mit vielen Rätseln und großer Mühsal gequält als wir seine Wanderungen erkundeten".
+1629 gelang es Johannes Kepler mithilfe von Beobachtungsdaten seines Vorgängers Tycho Brahe erstmals einen sogenannten Merkurtransit für den 7. November 1631 (auf etwa einen halben Tag genau) vorherzusagen.
+Als Pierre Gassendi diesen Durchgang vor der Sonne beobachten konnte, stellte er feste, dass der Merkur nicht wie von Ptolemäus im 2. Jahrhundert geschätzt ein Fünfzehntel des Sonnendurchmessers maß, sondern um ein Vielfaches kleiner war.
+
+Nach der Erfindung des Fernrohrs entdeckte Giovanni Battista Zupi im Jahre 1639, dass der Merkur Phasen zeigt wie der Mond, und bewies damit seinen Umlauf um die Sonne.
+Als Sir Isaac Newton 1687 die Principia Mathematica veröffentlichte und damit die Gravitation beschrieb, konnten die Planetenbahnen nun exakt berechnet werden.
+Der Merkur jedoch wich immer von diesen Berechnungen ab, was Urbain Le Verrier (der Entdecker des Planeten Neptun) 1859 dazu veranlasste, einen weiteren noch schnelleren sonnennäheren Planeten zu postulieren: Vulcanus.
+Erst Albert Einsteins Relativitätstheorie konnte diese Abweichungen in Merkurs Umlaufbahn richtig erklären.
+
+Die ersten, nur sehr vagen Merkurkarten wurden von Johann Hieronymus Schroeter skizziert.
+Die ersten detaillierteren Karten wurden im späten 19. Jahrhundert, etwa 1881 von Giovanni Schiaparelli und danach von Percival Lowell angefertigt.
+Lowell meinte, ähnlich wie Schiaparelli bei seinen Marsbeobachtungen auf dem Merkur Kanäle erkennen zu können.
+Besser, wenn auch immer noch sehr ungenau, war die Merkurkarte von Eugene Michel Antoniadi aus dem Jahr 1934.
+Antoniadi ging dabei von der geläufigen, aber irrigen Annahme aus, dass der Merkur eine gebundene Rotation von 1:1 um die Sonne aufweist.
+Für seine Nomenklatur der Albedomerkmale bezog er sich auf die Hermes-Mythologie.
+Audouin Dollfus übernahm sie großteils für seine genauere Karte von 1972.
+Die Internationale Astronomische Union (IAU) billigte diese Nomenklatur für heutige Merkurkarten auf der Grundlage der Naherkundung.
+Für die topografischen Strukturen wurde ein anderes Schema gewählt.
+So bekamen die den Maria des Mondes ähnlichen Tiefebenen den Namen des Gottes Merkur in verschiedenen Sprachen.
+
+Im Koordinatensystem des Merkurs werden die Längengrade von Ost nach West zwischen 0 und 360° gemessen.
+Der Nullmeridian wird durch den Punkt definiert, der am ersten Merkurperihel nach dem 1. Januar 1950 die Sonne im Zenit hatte.
+Die Breitengrade zwischen 0° und 90° werden nach Norden positiv und nach Süden negativ gezählt.
+
+Gesteinsbrocken des Merkurs, die durch den Einschlag größerer Asteroiden ins All geschleudert wurden, können als Meteoriten im Laufe der Zeit auch die Erde erreichen.
+Als mögliche Merkurmeteoriten werden der Enstatit-Chondrit Abee und der Achondrit NWA 7325 diskutiert.
+
+=== Erforschung mit Raumsonden
+
+Der Merkur gehört zu den am wenigsten erforschten Planeten des Sonnensystems.
+Dies liegt vor allem an den für Raumsonden sehr unwirtlichen Bedingungen in der Nähe der Sonne, wie der hohen Temperatur und intensiven Strahlung, sowie an zahlreichen technischen Schwierigkeiten, die bei einem Flug zum Merkur in Kauf genommen werden müssen.
+Selbst von einem Erdorbit aus sind die Beobachtungsbedingungen zu ungünstig, um den Planeten mit Teleskopen zu beobachten.
+Der Spiegel des Hubble-Weltraumteleskops nähme durch die Strahlung der Sonne großen Schaden, wenn er auf einen dermaßen sonnennahen Bereich ausgerichtet würde.
+
+Der mittlere Sonnenabstand des Merkurs beträgt ein Drittel desjenigen der Erde, sodass eine Raumsonde über 91 Millionen Kilometer in den Gravitationspotentialtopf der Sonne fliegen muss, um den Planeten zu erreichen.
+Von einem stationären Startpunkt bräuchte die Raumsonde keine Energie, um in Richtung Sonne zu fallen.
+Da der Start aber von der Erde erfolgt, die sich mit einer Orbitalgeschwindigkeit von 30 km/s um die Sonne bewegt, verhindert der hohe Bahndrehimpuls der Sonde eine Bewegung Richtung Sonne.
+Daher muss die Raumsonde eine beträchtliche Geschwindigkeitsänderung aufbringen, um in eine Hohmannbahn einzutreten, die in die Nähe des Merkurs führt.
+
+Zusätzlich führt die Abnahme der potenziellen Energie der Raumsonde bei einem Flug in den Gravitationspotentialtopf der Sonne zur Erhöhung ihrer kinetischen Energie, also zu einer Erhöhung ihrer Fluggeschwindigkeit.
+Wenn man dies nicht korrigiert, ist die Sonde beim Erreichen des Merkurs bereits so schnell, dass ein sicherer Eintritt in den Merkurorbit oder gar eine Landung erheblich erschwert werden.
+Für einen Vorbeiflug ist die hohe Fluggeschwindigkeit allerdings von geringerer Bedeutung.
+Ein weiteres Hindernis ist das Fehlen einer Atmosphäre; dies macht es unmöglich, treibstoffsparende Aerobraking-Manöver zum Erreichen des gewünschten Orbits um den Planeten einzusetzen.
+Stattdessen muss der gesamte Bremsimpuls für einen Eintritt in den Merkurorbit mittels der bordeigenen Triebwerke durch eine Extramenge an mitgeführtem Treibstoff aufgebracht werden.
+
+Diese Einschränkungen sind mit ein Grund dafür, dass der Merkur vor Messenger nur mit der einen Raumsonde Mariner 10 erforscht wurde.
+Eine dritte Merkursonde BepiColombo wurde am 20. Oktober 2018 gestartet.
+
+==== Mariner 10
+
+Die Flugbahn von Mariner 10 wurde so gewählt, dass die Sonde zunächst die Venus anflog, dann in deren Anziehungsbereich durch ein Swing-by-Manöver Kurs auf den Merkur nahm.
+So gelangte sie auf eine merkurnahe Umlaufbahn um die Sonne, die mit einer Trägerrakete vom Typ Atlas-Centaur nur auf diese Weise erreicht werden konnte; ohne den Swing-by an der Venus hätte Mariner 10 eine deutlich größere und teurere Titan IIIC benötigt.
+Der schon lange an der Erforschung des innersten Planeten interessierte Mathematiker Giuseppe Colombo hatte diese Flugbahn entworfen, auf welcher der Merkur gleich mehrmals passiert werden konnte, und zwar immer in der Nähe seines sonnenfernsten Bahnpunktes - bei dem die Beeinträchtigung durch den Sonnenwind am geringsten ist - und am zugleich sonnennächsten Bahnpunkt von Mariner 10.
+Die anfänglich dabei nicht vorhergesehene Folge dieser himmelsmechanischen Drei-Körper-Wechselwirkung war, dass die Umlaufperiode von Mariner 10 genau zweimal so lang geriet wie die vom Merkur.
+Bei dieser Bahneigenschaft bekam die Raumsonde während jeder Begegnung ein und dieselbe Hemisphäre unter den gleichen Beleuchtungsverhältnissen vor die Kamera und erbrachte so den eindringlichen Beweis für die genaue 2:3-Kopplung von Merkurs Rotation an seine Umlaufbewegung, die nach den ersten, ungefähren Radarmessungen Colombo selbst schon vermutet hatte.
+Durch dieses seltsame Zusammentreffen konnten trotz der wiederholten Vorbeiflüge nur 45 Prozent der Merkuroberfläche kartiert werden.
+
+Mariner 10 flog im betriebstüchtigen Zustand von 1974 bis 1975 dreimal am Merkur vorbei:
+Am 29. März 1974 in einer Entfernung von 705 km, am 21. September in rund 50.000 km und am 16. März 1975 in einer Entfernung von 327 km.
+Zusätzlich zu den herkömmlichen Aufnahmen wurde der Planet im infraroten sowie im UV-Licht untersucht, und über seiner den störenden Sonnenwind abschirmenden Nachtseite liefen während des ersten und dritten Vorbeifluges Messungen des durch die Sonde entdeckten Magnetfeldes und geladener Partikel.
+
+==== Messenger
+
+Eine weitere Raumsonde der NASA, Messenger, startete am 3. August 2004 und schwenkte im März 2011 als erste Raumsonde in einen Merkurorbit ein, um den Planeten mit ihren zahlreichen Instrumenten eingehend zu studieren und erstmals vollständig zu kartografieren.
+Die Raumsonde widmete sich dabei der Untersuchung der geologischen und tektonischen Geschichte Merkurs sowie seiner Zusammensetzung.
+Weiterhin suchte die Sonde nach dem Ursprung des Magnetfeldes, bestimmte die Größe und den Zustand des Planetenkerns, untersuchte die Polarkappen des Planeten und erforschte die Exosphäre sowie die Magnetosphäre.
+Um sein Ziel zu erreichen, flog Messenger eine sehr komplexe Route, die ihn in mehreren Fly-by-Manövern erst zurück zur Erde, dann zweimal an der Venus sowie dreimal am Merkur vorbeiführte.
+Der erste Vorbeiflug am Merkur fand am 14. Januar 2008 um 20:04 Uhr MEZ statt und der zweite am 6. Oktober 2008.
+Dabei wurden bereits Untersuchungen der Oberfläche durchgeführt und Fotos von bisher unbekannten Gebieten aufgenommen.
+Der dritte Vorbeiflug, durch den die Geschwindigkeit der Sonde verringert wurde, erfolgte am 30. September 2009.
+Da die Sonde kurz vor der Passage unerwartet in den abgesicherten Modus umschaltete, konnten für geraume Zeit keine Beobachtungsdaten gesammelt und übertragen werden.
+Die gesamte Reise nahm etwa 6,5 Jahre in Anspruch.
+Die Mission im Merkurorbit ist in Jahresabschnitte geteilt, welche jeweils am 18. März beginnen.
+Vom 18. März 2011 bis 18. März 2012 wurden während der sogenannten primären Mission die wichtigsten Forschungen vorgenommen; anschließend begann die erste erweiterte Mission, welche bis zum 18. März 2013 lief.
+Danach wurde die Mission noch einmal bis März 2015 verlängert.
+Gegen Ende der Mission wurde die Sonde in Umlaufbahnen um den Planeten gebracht, deren niedrigster Punkt nur 5,3 km über der Oberfläche lag.
+Der verbleibende Treibstoff für die Triebwerke der Sonde wurde genutzt, um dem bremsenden Effekt der schwachen, aber doch vorhandenen Atmosphäre entgegenzuwirken.
+Die letzte dieser Kurskorrekturen erfolgte am 25. März 2015.
+Am 30. April 2015 stürzte die Sonde dann auf die erdabgewandte Seite des Merkurs.
+
+==== BepiColombo
+
+Die europäische Raumfahrtorganisation ESA und die japanische Raumfahrtbehörde JAXA erforschen den sonnennächsten Planeten mit der kombinierten Merkursonde BepiColombo.
+Das gemeinsame Unternehmen ist nach dem Spitznamen des 1984 verstorbenen Giuseppe Colombo benannt und besteht aus zwei am Ziel getrennt eingesetzten Orbitern: einem Fernerkundungsorbiter für eine 400 km x 1500 km messende polare Umlaufbahn und einem Magnetosphärenorbiter für einen polaren Merkurumlauf von 400 km x 12.000 km.
+Die Komponenten werden sich jeweils der Untersuchung des Magnetfeldes sowie der geologischen Zusammensetzung in Hinsicht der Geschichte des Merkurs widmen.
+Die Sonde startete am 20. Oktober 2018, ihre Reise zum Merkur wird mit Ionentriebwerken und Vorbeiflügen an den inneren Planeten unterstützt und soll 2025 in eine Umlaufbahn eintreten.
+Am Ziel wird die Sonde Temperaturen von bis zu 250 °C ausgesetzt sein und soll mindestens ein Jahr lang (d. h. über vier Merkurjahre) Daten liefern.
+
+== Beobachtung
+
+=== Immer nur nahe der Sonne
+
+Der Merkur kann sich als innerster Planet des Sonnensystems nur bis zu einem Winkel von maximal 28 Grad (größte Elongation) von der Sonne entfernen und ist daher schwierig zu beobachten.
+Er kann in der Abend- oder Morgendämmerung als orangefarbener Lichtpunkt mit einer scheinbaren Helligkeit von etwa 1 mag bis maximal -1,9 mag in der Nähe des Horizonts mit bloßem Auge wahrgenommen werden.
+Bei Tagbeobachtungen ist er - je nach Sichtverhältnissen - ab einer Fernrohröffnung von etwa 10 bis 20 cm gut zu erkennen.
+
+Durch die Horizontnähe wird seine Beobachtung mit Teleskopen sehr erschwert, da sein Licht eine größere Strecke durch die Erdatmosphäre zurücklegen muss und durch Turbulenzen und Lichtbrechung und Absorption gestört wird.
+Der Planet erscheint meist als verwaschenes, halbmondförmiges Scheibchen im Teleskop.
+Auch mit leistungsfähigen Teleskopen sind kaum markante Merkmale auf seiner Oberfläche auszumachen.
+
+Da die Merkurbahn stark elliptisch ist, schwanken die Werte seiner größten Elongation zwischen den einzelnen Umläufen von 18 bis 28 Grad.
+
+Bei der Beobachtung des Merkurs sind - bei gleicher geographischer nördlicher oder südlicher Breite - die Beobachter der Nordhalbkugel im Nachteil, denn die Merkur-Elongationen mit den größten Werten finden zu Zeiten statt, bei denen für einen Beobachter auf der Nordhalbkugel die Ekliptik flach über dem Horizont verläuft und der Merkur in der hellen Dämmerung auf- oder untergeht.
+In den Breiten Mitteleuropas ist er dann mit bloßem Auge nicht zu sehen.
+Die beste Sichtbarkeit verspricht eine maximale westliche Elongation (Morgensichtbarkeit) im Herbst, sowie eine maximale östliche Elongation (Abendsichtbarkeit) im Frühling.
+
+In großer Höhe über dem Horizont kann der Merkur mit bloßem Auge nur während einer totalen Sonnenfinsternis gesehen werden.
+
+Wegen der großen Bahnneigung zieht der Planet nur alle paar Jahre vor der Sonnenscheibe vorbei (siehe nächster Abschnitt).
+Hingegen kann er gerade deshalb manchmal doppelsichtig werden, indem er mit freiem Auge sowohl in der hellen Morgen- wie in der hellen Abenddämmerung beobachtbar sein kann.
+Dies ist in den Tagen um die Untere Konjunktion möglich, wenn er nicht knapp an der Sonne vorbeizieht, sondern bis zu 8° nördlich von ihr.
+
+=== Merkurtransit
+
+Aufgrund der Bahneigenschaften des Merkurs und der Erde wiederholen sich alle 13 Jahre ähnliche Merkursichtbarkeiten.
+In diesem Zeitraum finden im Allgemeinen auch zwei sogenannte Transits oder Durchgänge statt, bei denen der Merkur von der Erde aus gesehen direkt vor der Sonnenscheibe als schwarzes Scheibchen zu sehen ist.
+Ein solcher Transit des Merkurs ist sichtbar, wenn er bei der unteren Konjunktion - während er die Erde beim Umlauf um die Sonne auf seiner Innenbahn überholt - in der Nähe eines seiner beiden Bahnknoten steht, also die Erdbahnebene kreuzt.
+Ein solches Ereignis ist aufgrund der entsprechenden Geometrie nur zwischen dem 6. und dem 11. Mai oder zwischen dem 6. und dem 15. November möglich, da die beiden Bahnknoten am 9. Mai oder am 11. November von der Erde aus gesehen vor der Sonne stehen.
+Der letzte Merkurdurchgang fand am 11. November 2019 statt, der nächste folgt am 13. November 2032.
+
+=== Sichtbarkeit
+
+In der folgenden Tabelle sind die speziellen Konstellationen des Merkurs für das Jahr 2021 angegeben.
+Östliche Elongation bietet Abendsichtbarkeit, westliche Elongation Morgensichtbarkeit:
+
+== Kulturgeschichte
+
+In der altägyptischen Mythologie und Astronomie galt der Merkur hauptsächlich als Stern des Seth.
+Sein Name Sebeg (auch Sebgu) stand für eine weitere Erscheinungsform der altägyptischen Götter Seth und Thot.
+Im antiken Griechenland bezog man den Planeten auf den Gott und Götterboten Hermes, assoziierte ihn aber auch mit den Titanen Metis und Koios.
+Der zumeist nur in der Dämmerung und dann auch nur schwer zu entdeckende, besonders rastlose Planet wurde auch als Symbol für Hermes als Schutzpatron der Händler, Wegelagerer und Diebe gesehen.
+
+Bei den Römern entsprach Hermes spätestens in der nachantiken Zeit dem Mercurius, abgeleitet von mercari (lat. für Handel treiben).
+Der von ihnen nach dem Merkur benannte Wochentag dies Mercurii ist im Deutschen der Mittwoch.
+In der Zuordnung der Wochentage besteht die namentliche Verbindung des Merkurs mit dem Mittwoch noch im Französischen (mercredi), im Italienischen (mercoled), im Spanischen (miercoles), im Rumänischen (miercuri) und im Albanischen (e merkure).
+Den Germanen wird als Entsprechung des Gestirns der Gott Odin bzw. Wotan zugeschrieben, dem ebenso der Mittwoch (im Englischen wednesday, im Niederländischen woensdag) zugeordnet wurde.
+
+Im Altertum und in der Welt der mittelalterlichen Alchemisten hat man dem eiligen Wandelstern als Planetenmetall das bewegliche Quecksilber zugeordnet.
+In vielen Sprachen basiert der Name des Metalls heute noch auf diesem Wortstamm (englisch mercury, französisch mercure).
+
+== Rezeption in Literatur, Film und Musik
+
+In der Musik hat Gustav Holst dem Merkur in seiner Orchestersuite The Planets (Die Planeten, 1914-1916) den dritten Satz gewidmet: Mercury, the Winged Messenger (Merkur, der geflügelte Bote).
+
+In der Unterhaltungsliteratur schrieb Isaac Asimov im Jahr 1956 für seine Lucky-Starr-Reihe den Science-Fiction-Roman Lucky Starr and the Big Sun of Mercury.
+Darin startet auf dem Planeten der lebensfeindlichen Temperaturextreme ein Projekt neuer Energiegewinnungs- und -transportmethoden für den wachsenden Energiebedarf der Erde, das jedoch von Sabotage betroffen ist.
+Die deutsche Ausgabe erschien erstmals 1974 unter dem Titel Im Licht der Merkur-Sonne.
+
+In dem Film Sunshine, von Regisseur Danny Boyle im Jahr 2007 in die Kinos gebracht, dient eine Umlaufbahn um den Merkur als Zwischenstation für ein Raumschiff, dessen Fracht die Sonne vor dem Erlöschen bewahren soll.
+
+Der im Jahr 2012 erschienene Roman 2312 von Kim Stanley Robinson handelt in eben jenem Jahr 2312, unter anderem in Merkurs Hauptstadt Terminator, die sich ständig auf Schienen entlang des Äquators bewegt und plötzlich mit gezielten Meteoroiden angegriffen wird.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+Medien
+
+== Einzelnachweise
+

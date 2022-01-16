@@ -1,0 +1,203 @@
+Grundwasser ist Wasser unterhalb der Erdoberfläche, das durch Versickern von Niederschlägen und teilweise auch durch Versickern des Wassers aus Seen und Flüssen dorthin gelangt.
+
+Der Gesteinskörper, in dem sich das Grundwasser aufhält und fließt, wird als Grundwasserleiter (aus dem Lateinischen auch: Aquifer, wassertragend bzw. Wasserträger) bezeichnet.
+
+Die Fachgebiete, die sich mit Grundwasser befassen, sind die Hydrogeologie und die Grundwasserhydraulik.
+
+== Grundlagen und Begriffsbestimmung
+
+Grundwasser wird nach DIN 4049 definiert als
+
+Das Wasserhaushaltsgesetz bestimmt Grundwasser als
+
+Die treibenden Kräfte für die Grundwasserströmung sind die Gewichtskraft und die durch sie hervorgerufenen Druckkräfte.
+Grundwasser bewegt sich (strömt, fließt) infolge von Differenzen in der Piezometerhöhe (= hydraulisches Potential) durch die Hohlräume des Untergrunds.
+Nach dieser Definition zählt auch Stauwasser zum Grundwasser.
+
+Nicht zum Grundwasser zählt das hygroskopisch, durch die Oberflächenspannung sowie durch Kapillareffekte gebundene unterirdische Wasser der ungesättigten Bodenzone (Bodenfeuchte, Haftwasser, siehe auch Grenzflurabstand).
+Auch das sich vorwiegend vertikal bewegende Sickerwasser in der ungesättigten Bodenzone gehört nicht zum Grundwasser.
+
+Die in der Definition genannten Hohlräume der Erdrinde sind je nach geologischer Beschaffenheit des Untergrunds:
+Poren (klastische Sedimente und Sedimentgesteine wie zum Beispiel Sand, Kies, Schluff), Klüfte (Festgesteine wie beispielsweise Granit, Quarzit, Gneis, Sandsteine) oder durch Lösung entstandene große Hohlräume (zum Beispiel Kalkstein).
+Dementsprechend unterscheidet man: Porengrundwasser (siehe auch: Porenwasser), Kluftgrundwasser und Karstgrundwasser.
+
+Grundwasser nimmt am Wasserkreislauf teil.
+Die Verweilzeit im Untergrund kann allerdings stark schwanken und reicht von unter einem Jahr bis hin zu vielen Millionen Jahren.
+Sehr alte Grundwässer werden auch als fossiles Wasser bezeichnet.
+
+== Hydrogeologische Begriffe
+
+Ein Grundwasservorkommen oder ein abgrenzbarer Teil eines Grundwasservorkommens wird als Grundwasserkörper bezeichnet.
+Die obere Begrenzungsfläche eines Grundwasserkörpers heißt Grundwasserspiegel, die untere Begrenzungsfläche wird Grundwassersohle, Grundwassersohlfläche oder Grundwasserunterfläche genannt.
+Der vertikale Abstand von der Grundwassersohle zur Grundwasseroberfläche wird als Grundwassermächtigkeit bezeichnet.
+
+Gesteinskörper, die in der Lage sind, nennenswerte Mengen an Wasser aufzunehmen und zu leiten, werden als Grundwasserleiter ("Aquifer") bezeichnet.
+Sie müssen jedoch nicht notwendigerweise immer Wasser enthalten.
+Der Teil eines Grundwasserleiters, der zu einem bestimmten Zeitpunkt mit Wasser gefüllt ist, wird als Grundwasserraum bezeichnet.
+Grundwasserleiter sind nach unten durch wasserundurchlässige oder als wasserundurchlässig angesehene Gesteinskörper begrenzt.
+Ein solcher Grundwassernichtleiter wird auch als Aquiklud bezeichnet.
+Bei vertikaler Abfolge von mehreren Grundwasserleitern und Grundwassernichtleitern können mehrere übereinander liegende Grundwasserstockwerke vorliegen.
+
+Bei einem ungespannten Grundwasserleiter ist der hydrostatische Druck definitionsgemäß gleich dem Luftdruck; praktischerweise wird der Luftdruck in der Hydromechanik oft gleich Null gesetzt; das hydraulische Druckpotential (engl. hydraulic head) ist an der freien Grundwasseroberfläche gleich der Summe aus ihrer geodätischen Höhe und dem Luftdruck (bzw. Null).
+Die in einer Grundwassermessstelle freiliegende Grundwasseroberfläche bezeichnet man als Standrohrspiegel.
+Der Abstand zwischen Geländeoberfläche und Grundwasseroberfläche wird mit Flurabstand oder Grundwasserflurabstand bezeichnet.
+Sofern die über dem Grundwasserleiter liegende geologische Einheit, die Grundwasserüberdeckung, eine wasserdurchlässige Schicht ist, herrschen ungespannte Verhältnisse vor.
+Ist die Grundwasserüberdeckung wasserundurchlässig, können gespannte Grundwasserverhältnisse vorliegen, was bedeutet, dass das hydraulische Potenzial höher liegt als die tatsächliche Grundwasseroberfläche (gespanntes, bei Überschreiten der Erdoberfläche artesisches Grundwasser).
+Schichtenwasser ist durch wasserstauende Schichten oberhalb des Grundwassers am Versickern gehindertes, meist oberflächennahes, vom Hauptgrundwasserleiter unabhängiges Grundwasser.
+Befindet sich darunter eine nicht wassergesättigte Zone, spricht man von schwebendem Grundwasser.
+
+Wie Oberflächengewässer folgt auch Grundwasser der Schwerkraft und fließt in Richtung des größten (piezometrischen) Gefälles.
+Für Grundwasserströmungsgebiete lässt sich dieses aus Karten ermitteln, auf denen Standrohrspiegelhöhen als Hydroisohypsen dargestellt sind (Grundwassergleichenplan).
+Das größte Gefälle und damit die Grundwasserströmungsrichtung bzw. die Grundwasserstromlinien liegen immer im rechten Winkel zu den Grundwassergleichen.
+Die einfachste Methode zur Erstellung eines Grundwassergleichenplans ist die Anwendung des Verfahrens des hydrologischen Dreiecks.
+
+Im Vergleich zu Oberflächengewässern fließt Grundwasser zumeist mit sehr viel geringerer Geschwindigkeit.
+Man beachte auch den Unterschied zwischen Filtergeschwindigkeit und Abstandsgeschwindigkeit.
+In Kies (Korngrößen 2-63 mm) beträgt die Abstandsgeschwindigkeit 5-20 m/Tag (Maximalwerte liegen bei 70-100 m/Tag), in feinporigeren Sedimenten wie Sand (Korngrößen 0,063-2 mm) nur etwa 1 m/Tag, immer abhängig auch vom Gefälle.
+In tiefen Grundwasserleitern kann sich die Geschwindigkeit bis auf wenige m/Jahr verringern.
+
+Grundwasser fließt (exfiltriert, entlastet) in einen Vorfluter (Gerinne oder entwässernde Geländesenke) oder tritt in Quellen an der Erdoberfläche aus.
+
+Der Begriff Wasserader (Radiästhesie) ist ein pseudo- oder parawissenschaftlicher Begriff und wird in der naturwissenschaftlichen, hydrologischen und hydrogeologischen Fachsprache nicht verwendet.
+
+Zur Prognose oder Nachbildung von Grundwasserströmungen werden mathematische Grundwassermodelle eingesetzt, mit denen man Zuströmung, Entnahme, Absenkung und Neubildung von Grundwasser gut und detailgenau darstellen kann.
+Auch Gefährdungen (Migration von Umweltschadstoffen) lassen sich damit frühzeitig erkennen, selbst historische Zustände kann man damit nachvollziehen, zum Beispiel bei der Altlastenerkundung.
+
+== Grundwasserneubildung und Grundwassermenge
+
+Grundwasser entsteht dadurch, dass Niederschläge versickern oder Wasser im Sohl- und Uferbereich von Oberflächengewässern durch Migration oder künstliche Anreicherung (Infiltrationsanlagen, zum Beispiel Sickerbeete, Schlitzgräben, Infiltrations-Brunnen) in den Untergrund infiltriert.
+Von den 22,6 Mio. km^3 Grundwasser der oberen zwei Kilometer der Erdkruste sind etwa 0,1-5,0 Mio. km^3 jünger als 50 Jahre.
+Hierbei spricht man auch von Umsatzwasser, das rezenter Bestandteil des Wasserkreislaufes ist.
+Im Gegensatz dazu steht fossiles Grundwasser, das im tieferen Untergrund seit geologischen Zeiträumen (wenige zehntausende bis viele Millionen Jahre) vom Wasserkreislauf abgeschnitten ist.
+
+=== Einfluss der Bodenpassage
+
+Bei der lang andauernden Untergrundpassage wird das Grundwasser durch physikalische, chemische und mikrobiologische Prozesse verändert; es stellt sich ein chemisches und physikalisches Gleichgewicht zwischen der festen und flüssigen Phase des Bodens oder Gesteins ein.
+So entsteht beispielsweise durch Aufnahme von Kohlenstoffdioxid (aus der Atmung der Bodenorganismen) und seine Reaktion mit dem Calcit und Dolomit die Wasserhärte.
+Bei genügend langer Verweilzeit können pathogene Mikroorganismen (Bakterien, Viren) so weit eliminiert werden, dass sie keine Gefährdung mehr darstellen.
+Diese Prozesse sind aus wasserwirtschaftlicher Sicht überwiegend positiv für die Beschaffenheit des Grundwassers und werden daher summarisch auch als Selbstreinigung bezeichnet.
+
+Allerdings kann es bei der Versickerung saurer Wässer, beispielsweise saurer Regen oder aus Tagebau-Restseen, auch zur Auslösung erheblicher Mengen an Aluminium aus Kristallingestein kommen, auch aus Böden in Fichten- und Tannenwäldern.
+Ferner können saure Grundwässer, speziell durch Pyritverwitterung versauerte Grundwässer, hohe Gehalte an Eisen(II)-Verbindungen aufweisen.
+
+== Gefahren für das Grundwasser und Grundwasserschutz
+
+=== Gefahren
+
+Menschliche Eingriffe können sich qualitativ und quantitativ negativ auf das Grundwasser auswirken:
+Z. B. in China sind 60 bis 80 Prozent des Grundwassers schwer verschmutzt und nicht mehr als Trinkwasser geeignet.
+In Deutschland sind mengenmäßige Engpässe durch übermäßige Grundwasserentnahme nur lokal von Bedeutung.
+In semiariden oder ariden Regionen mit geringer Grundwasserneubildung führt eine übermäßige Entnahme von Grundwasser zu einer großflächigen Absenkung der Grundwasseroberfläche und zu entsprechenden Umweltschäden.
+Bei grobem Verstoß gegen geltende Gesetze wird oftmals ein Strafverfahren gegen Umweltverschmutzer eingeleitet.
+
+Gefahren für die Grundwasserbeschaffenheit sind beispielsweise die Deposition und Bodenpassage von Luftschadstoffen, die übermäßige Ausbringung von Dünge- und Pflanzenschutzmitteln durch die Landwirtschaft oder hochkonzentrierte Schadstofffahnen aus Altlasten.
+
+Der pflegende (kurative) und wiederherstellende (sanierende) Grundwasserschutz hat daher eine wichtige Bedeutung im Umweltschutz.
+Zum vorbeugenden Grundwasserschutz zählt die Ausweisung von Wasserschutzgebieten im Einzugsgebiet (Gewinnungsanlagen) von Wasserwerken.
+Die Sanierung von Grundwasserschäden ist meist teuer und zeitaufwändig.
+
+Für küstennahe Brunnen und die Wasserversorgung auf Inseln kann eine Salzwasserintrusion problematisch sein:
+Aufgrund des empfindlichen hydrostatischen Gleichgewichtes zwischen Süß- und Salzwasser im Untergrund kann dort bereits eine geringfügige Entnahme von Süßwasser zu einer rapiden Verringerung der Mächtigkeit der Süßwasserschicht durch den Aufstieg von Salzwasser führen.
+Infolgedessen kann das Wasser an der Entnahmestelle für Menschen ungenießbar oder für die Bewässerung unbrauchbar werden.
+
+=== Weltkarte zur Grundwassergefährdung
+
+Die "Weltkarte zur Grundwassergefährdung durch Hochwasser und Dürren" (Global Map of Groundwater Vulnerability to Floods and Droughts) entstand in Zusammenarbeit des Projekts "Grundwasser für Notsituationen" (Groundwater for Emergency Situations, GWES) des "Internationalen Hydrologischen Programms" (International Hydrological Programme, IHP) der UNESCO mit der "Internationalen Vereinigung der Hydrogeologen" und dem "Weltweiten hydrogeologischen Kartier- und Datenerhebungsprogramm" (World-wide Hydrogeological Mapping and Assessment Programme, WHYMAP), koordiniert durch die UNESCO und die deutsche Bundesanstalt für Geowissenschaften und Rohstoffe (BGR).
+Die Karte, die eigentlich aus mehreren Karten besteht, basiert im Wesentlichen auf der Karte "Grundwasserressourcen der Erde 1:25000000" (Groundwater Resources of the World 1:25000000) des WHYMAP von 2011; sie zeigt in drei Stufen, "niedrig", "mittel", "hoch", wie stark das Grundwasser in den verschiedenen Regionen der Erde aufgrund der jeweiligen natürlichen Gegebenheiten im Hinblick auf bestimmte Naturkatastrophen gefährdet ist.
+Die Karte wurde der Öffentlichkeit beim siebten Weltwasserforum vorgestellt, das vom 12. bis zum 17. April 2015 im südkoreanischen Daegu stattfand.
+
+=== Auswirkungen des Klimawandels
+
+Die meisten weltweiten Grundwasservorkommen befinden sich hinsichtlich der Zu- und Abfluss-/Entnahmemengen aktuell noch etwa im Gleichgewicht.
+Es käme hingegen zu einem Absinken und schließlich Versiegen des Grundwassers, wenn in einem Gebiet die mittleren Zufluss- die mittleren Abfluss- und Entnahmemengen nicht mehr ausgleichen könnten.
+Anhand einer in internationaler Zusammenarbeit erstellten Grundwassermodellierung wurde aufgezeigt, dass im Zuge des Klimawandels in den kommenden 100 Jahren nur noch etwa die Hälfte der weltweiten Grundwasservorkommen im Gleichgewicht sein könnten.
+Bei der anderen Hälfte könnten selbst extreme Regenfälle durch die Häufung von Trockenperioden die Reservoirs im Mittel nicht mehr auffüllen.
+Obschon sich dies erst mit einer zeitlichen Verzögerung bemerkbar machte, so versiegten diese Grundwasservorkommen letztlich doch vollständig.
+Gerade das verzögerte Eintreten der Auswirkungen des Klimawandels auf die Grundwasserneubildung wird hierbei als "Umwelt-Zeitbombe" beschrieben.
+
+Die Atmosphärenerwärmung zieht auch eine Erwärmung des Grundwassers nach sich.
+In Ballungsräumen wird als Folge vor allem des Wärmeinsel-Effektes eine Erwärmung des Grundwassers beobachtet.
+Diese "thermische Verschmutzung" wird von Hydrogeologen als potenzielle Bedrohung für die Lebewesen im Grundwasser und mithin für die Grundwasserqualität betrachtet.
+
+=== Schutz in der Europäischen Union
+
+Das Grundwasser ist in der Wasserrahmenrichtlinie der EU als Schutzgut eingestuft.
+Spezielle Vorgaben macht die Richtlinie 2006/118/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum Schutz des Grundwassers vor Verschmutzung und Verschlechterung.
+Sie begründet das mit der besonderen Bedeutung dieses Schutzes für grundwasserabhängige Ökosysteme und für die Nutzung des Grundwassers zur Versorgung mit Wasser für den menschlichen Gebrauch.
+Sie verpflichtet die Mitgliedsstaaten zur Überwachung insbesondere mit Hilfe von Grundwassermessstellen und bestimmt Kriterien zur Beurteilung der Wassergüte.
+Demnach sei ein Grundwasserkörper als Grundwasser in gutem chemischen Zustand zu betrachten, wenn insbesondere die von den Mitgliedsländern für diverse Stoffe festzulegenden Schwellenwerte und die in der Richtlinie festgelegten Grundwasserqualitätsnormen an allen Messstellen eingehalten sind.
+Für Nitrat bestimmt sie diese Qualitätsnorm auf 50 mg/l und für Pestizidwirkstoffe (einschließlich aller relevanten Reaktions- oder Abbauprodukte) auf je 0,1 g/l oder insgesamt 0,5 g/ l.
+
+== Ökosystem Grundwasser
+
+("Lebewesen, die bevorzugt oder ausschließlich im Grundwasser leben" und "in der Geologie der von Grundwasser durchströmte Hohlraum in den Gesteinen im Untergrund unterhalb der Böden")
+
+Grundwasserräume gehören zu den größten und ältesten (das heißt langzeitstabilsten) kontinentalen Lebensräumen der Welt; sie sind dabei mit konstant relativ kühlen Temperaturen von z. B. 14 ° Celsius auch thermisch sehr stabil; viele der hier lebenden Arten sind "lebende Fossilien", z. B. Brunnenkrebse, dabei vermutlich auch noch viele unentdeckt.
+
+=== Monitoring (Überwachung)
+
+Der ökologische Zustand von Fließ- bzw. Oberflächengewässern wie von Grundwasser wird in der Europäischen Union (EU) nach der Richtlinie 2000/60/EG (EU-Wasserrahmenrichtlinie, WRRL) nach verschiedenen Kriterien analysiert und nach fünf Graden eingeteilt: "sehr gut", "gut", "mässig", "unbefriedigend", "schlecht".
+2015 waren z. B. in Niedersachsen 13 Grundwasserkörper in einem "schlechten chemischen Zustand".
+
+Als erstes deutsches Bundesland überwacht Baden-Württemberg im Rahmen eines Monitorings die Grundwasserfauna.
+Dabei wurden an einer Messstelle in Neuenburg am Rhein eine auch im internationalen Vergleich relativ hohe Anzahl an Arten gefunden, nämlich 21: Durchschnittlich werden sonst an solch einer Untersuchungsstelle lediglich zwei bis drei Arten gefunden.
+
+==== Schweiz
+
+Der Zustand und die Entwicklung des Grundwassers in der Schweiz wird durch die Nationale Grundwasserbeobachtung NAQUA des Bundesamts für Umwelt ermittelt.
+2014 wurde bei mehr als der Hälfte aller Grundwassermessstellen Rückstände von Pflanzenschutzmitteln nachgewiesen.
+Bei rund 20 Prozent der Messstellen lagen die Konzentrationen von Pflanzenschutzmittel-Metaboliten über 0,1 g/ l.
+Von 2014 bis 2017 haben Atrazin, Bentazon und Metolachlor jedes Jahr an mehreren Messstellen den Grenzwert überschritten.
+2019 war der Einsatz von Chlorthalonil besonders in der Fokus der Öffentlichkeit gelangt, da die Grenzwerte vielerorts nicht eingehalten werden konnten.
+Bei den Arzneimitteln konnten die Wirkstoffe Sulfamethoxazol (Antibiotikum), Carbamazepin (Antiepileptikum), Amidotrizoesäure und Iopamidol (beides Röntgenkontrastmittel) am häufigsten im Grundwasser nachgewiesen werden.
+Im Jahr 2021 werden alle rund 550 NAQUA-Messstellen auf mehr als zwanzig verschiedene per- und polyfluorierte Alkylverbindungen (PFAS) untersucht.
+
+=== Rechtlicher Status
+
+Trotz der ökologischen Bedeutung besteht für die Grundwasserräume bei der rechtlichen Anerkennung als Lebensraum Nachholbedarf, da Grundwasser bislang im Gegensatz zu z. B. Oberflächengewässern in erster Linie als "unbelebte" Ressource behandelt und gesehen wird.
+
+=== Tierwelt
+
+Grundwassertiere sind meist durchsichtig oder weiß und "blind".
+Zur Fauna des Grundwassers wurden in Europa bislang über 2.000 Tierarten nachgewiesen, in Deutschland über 500; dabei vorherrschend sind - wohl weltweit - Krebstiere; daneben sind zu finden "Wenigborster-Würmer" (Regenwurm-Verwandte), Fadenwürmer, zum Teil kleine Schnecken.
+In der Regel sind diese Tiere recht klein, die größten sind dabei mit bis zu vier Zentimetern Länge Höhlenflohkrebse bei genügend Platz im Lückensystem.
+Viele der hier lebenden Arten sind mit einem Millimeter oder weniger Größe sehr klein - und werden vor einer etwaigen menschlichen Nutzung des Grundwassers herausgefiltert.
+
+Den im Grundwasser lebenden Tieren wird eine nicht unbedeutende Funktion für die Reinigung des Grundwassers von organischen Bestandteilen zugesagt:
+Sie ernähren sich zwar von Bakterienfilmen auf den Gesteinsoberflächen und Sedimentkörnern, wobei ebendiese Bakterien den überwiegenden Anteil an der Reinigung des Grundwassers haben, aber die Fraßtätigkeit der Grundwassertiere dämmt das Wachstum der Bakterien ein und hält den Poren- und Kluftraum in den Grundwasserleitern offen.
+So wird die Selbstreinigungskraft des Ökosystems aufrecht erhalten.
+
+== Forschung
+
+Mit den GRACE-Satelliten kann seit 2002 die Zu- und Abnahme des Grundwassers grob gemessen werden.
+
+== Gefahren durch Grundwasser für den Menschen
+
+Normalerweise geht von Grundwasser keine direkte Gefahr für den Menschen (wie zum Beispiel bei unmittelbar benachbarter magmatischer Aktivität, siehe phreatomagmatische Explosion) aus.
+Es kommt jedoch gelegentlich zu Überschwemmungen und Unterspülungen durch austretendes Grundwasser.
+Eine tödliche Gefahr stellt eintretendes Grundwasser beim Tunnelbau dar.
+Grundwasser kann Beton und die Stahlbewehrung angreifen.
+Deshalb muss grundsätzlich dort, wo Betonteile mit Wasser in Berührung kommen können, eine Grundwasserprobe entnommen werden, die gemäß DIN 4030 auf Betonaggressivität untersucht werden muss.
+
+Weltweit beziehen rund 300 Mio. Menschen ihr Wasser aus Grundwasservorräten.
+Rund 10 Prozent der Grundwasserbrunnen sind jedoch mit Arsen oder Fluorid kontaminiert.
+Diese Spurenstoffe sind meist natürlichen Ursprungs und werden vom Wasser aus Felsen und Sedimenten ausgewaschen.
+
+2008 präsentierte das Schweizer Wasserforschungsinstitut Eawag eine neue Methode, mit der sich Gefahrenkarten für geogene Giftstoffe im Grundwasser erstellen lassen, ohne dass sämtliche Brunnen und Grundwasservorräte einer Region dafür überprüft werden müssen.
+2016 machte die Eawag ihr Wissen auf der Grundwasser Assessment Plattform (GAP) frei zugänglich.
+Dieses Internetportal bietet Behördenmitgliedern, Mitarbeitern von NGOs und anderen Fachleute die Möglichkeit, eigene Messdaten hochzuladen und Risikokarten für Gebiete ihrer Wahl zu erstellen.
+
+=== Bauwesen
+
+Grundwasser, im Bauwesen auch als Druckwasser bezeichnet, stellt besonders im Tiefbau ein Problem dar, wenn wechselnde, in den Baubereich reichende Grundwasserstände nicht beachtet werden oder wenn bewusst ins Grundwasser gebaut wird, das dann in die Baugrube beziehungsweise das Bauwerk drückt.
+Eine auf wasserundurchlässigem Beton basierende und damit grundwasserfeste Bauweise von Kellern und sonstigen Bauwerken wird als Weiße Wanne bezeichnet.
+Dabei muss stets der Auftrieb (Auftrieb = Gewicht der verdrängten Flüssigkeit) berücksichtigt werden, der die Wanne nach oben drückt.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Fußnoten
+

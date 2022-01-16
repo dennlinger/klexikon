@@ -1,0 +1,74 @@
+Eine Website (, auch oder englisch ), auch Webpräsenz, Webauftritt, Webangebot oder Netzauftritt, ist die - unter einer individuellen Webadresse erreichbare - Präsenz eines Anbieters von Telemedien im weltweiten Netz (World Wide Web).
+Sie ist mit Webtechniken, beispielsweise HTML, erstellt und kann mit einem Nutzeragenten, beispielsweise einem Browser, wiedergegeben werden.
+Zur Webpräsenz gehören Webseiten und optional vorhandene herunterladbare Schriftstücke.
+Anders ausgedrückt:
+Eine Webpräsenz ist ein virtueller Platz im World Wide Web, an dem sich meist mehrere Webseiten, Dateien und andere Ressourcen befinden, die üblicherweise durch eine einheitliche Navigation (durch Hypertext-Verfahren) miteinander verknüpft sind.
+
+Der englische Name website oder web site leitet sich ab von site (deutsch ,Ort', ,Platz', ,Stelle'), dies wiederum von lateinisch situs (deutsch ,Lage', ,Stellung').
+Die weiteren deutschen Bezeichnungen Internetauftritt, Internetpräsenz und Internetangebot sind unpräziser, da die Fokussierung auf das World Wide Web (als Teil des gesamten Internets) in diesen Begriffen nicht zum Ausdruck kommt.
+Die ebenfalls häufige Bezeichnung Homepage setzt die eigentlich als Homepage bezeichnete Einstiegsseite der Webpräsenz mit der ganzen Webpräsenz gleich.
+
+== Begriff
+
+Indem die Webpräsenz alle unter einer bestimmten Domain zusammengefassten und einem Anbieter gehörenden Webseiten und eventuellen herunterladbaren Dokumente im World Wide Web umfasst, bildet sie das bevorzugte - wenn auch nicht das einzige - Medium, mit dem über das Internet Anbieter und Nutzer zusammenfinden.
+
+Die Verkürzung des Langausdrucks World Wide Web Site zu einem einzigen, im Englischen kleingeschriebenen Wort website spiegelt eine typische Entwicklung technischer Ausdrücke wider.
+Führende Nachrichtenagenturen wie Reuters und The Chicago Manual empfehlen im Englischen die zusammengeschriebene Schreibweise website, ähnlich auch Wörterbücher und Enzyklopädien wie das kanadische Oxford Dictionary.
+
+Bei großen Internetkonzernen wie Google und Apple ist die Verwendung der Schreibweise website zu erkennen.
+Microsoft hingegen nutzt beide Schreibweisen, sowohl website als auch web site.
+
+Die Begriffe Website, Webpräsenz, Internetplattform, Internetauftritt und Internetpräsenz werden im Allgemeinen synonym verwendet.
+Im Fachdiskurs wird manchmal Internetpräsenz (Webanwendungen + Dienste/ Daemons wie FTP und E-Mail) weiter gefasst als Webpräsenz (nur Webanwendungen).
+Während Internetplattform im Allgemeinen synonym mit Website verwendet wird, wird Webplattform häufig nur in einem Teil der Fälle synonym mit Website verwendet.
+
+== Geschichte
+
+Die erste Website, die online ging, wurde am 13. November 1990 von dem am CERN beschäftigten Wissenschaftler Tim Berners-Lee geschaffen und veröffentlicht.
+Am 30. April 1993 kündigte das CERN an, dass das World Wide Web für jedermann frei zugänglich sein werde.
+Eine Kopie dieser Website ist heute wieder online.
+
+== Bestandteile
+
+Eine Website besteht im einfachsten Fall zumindest aus einer HTML-Datei, die in einem Verzeichnis im Pfad einer Domain liegt.
+Im Allgemeinen ist sie heute aber aus zahlreichen HTML-Dateien aufgebaut, die auch in einer verschachtelten Verzeichnisstruktur untergebracht werden können.
+Außerdem ist zu beachten, dass eine HTML-Datei selbst meist aus einer Datei mit der Endung .html oder auch .htm und einem gleichnamigen Verzeichnis besteht, in dem die nicht HTML-konformen Elemente (Bilder, Medien usw.) untergebracht sind; dazu gehören Dateien über die CSS-Klassentypisierungen und diverse Skriptdateien (JavaScript).
+
+So stellt es sich zumindest dar, wenn die angezeigte Seite vom Browser auf der Festplatte des Besuchers abgespeichert wird.
+Der Anbieter kann sie allerdings dynamisch aus Vorlagen und Datenbankinhalten erzeugt haben, so dass die Existenz einer echten Datei lediglich vorgetäuscht wird (teilweise deshalb, weil man sich davon bessere Positionen bei Suchmaschinen verspricht).
+CSS- und JavaScript-Dateien werden typischerweise für eine Website zentral vorgegeben und bei Massenhostern sogar vom Provider für den ganzen Webspace vorgegeben.
+
+Eine Homepage ist die Seite eines Webauftritts, die als zentraler Dreh- und Angelpunkt angelegt ist.
+Die Startseite (auch Eintritt-, Index-Seite) ist die erste aufgerufene Seite einer Website.
+In den meisten Fällen ist die Homepage auch die Startseite einer Website.
+In besonderen Fällen ist ihr jedoch eine Intro-Seite vorgeschaltet, in der Regel deshalb, weil anschließend eine Frame-Lösung gezeigt wird, deren Erfassung durch Suchmaschinen oft nicht optimal ist.
+Das Intro soll dann über die für den Besucher unsichtbaren, für Suchmaschinen bestimmten Inhalte und Stichworte die nötigen Informationen liefern, sofern die Folgeseiten für diese unsichtbar bleiben.
+Daher erscheint das Intro oft extrem spartanisch und sagt für den Besucher nichts aus; es wird oft als lästig und als Hindernis empfunden.
+Vielfach wird versucht, dem mit Flash-Animationen zu begegnen, die jedoch von vielen Besuchern ebenfalls als Zumutung und Zeitverschwendung betrachtet werden.
+Als Reaktion darauf wird meist ein Link zum Überspringen angeboten.
+
+== Technische Umsetzung
+
+Websites werden vorwiegend in der plattformunabhängigen Auszeichnungssprache HTML oder XHTML geschrieben, um zu gewährleisten, dass sie von möglichst allen Browsern dargestellt werden können.
+Heute werden Websites mit CSS gestaltet, denn diese ermöglichen eine einfache Gestaltung von Inhalten, die mit HTML oder XHTML strukturiert wurden.
+Bei aufwendigeren Websites erfolgt das Erzeugen des HTML-Quelltextes meist unter Verwendung serverseitiger Skript- (PHP, Perl, Python, Ruby, VBScript) oder Programmiersprachen (Java), die unter anderem auch die Verwendung von Datenbanksystemen (MySQL, PostgreSQL, Oracle) erlauben.
+Oft kommen auch clientseitige Skriptsprachen wie JavaScript zum Einsatz, die normalerweise mehr für die Benutzerinteraktion als für die vollständige Erstellung einer Website verwendet werden.
+Serverseitige Skripte oder Programme erzeugen als Ausgabe vorzugsweise HTML-Text, der dann vom Browser des Benutzers gerendert wird.
+Die Website wird auf einem Webserver abgelegt, der häufig in einem Rechenzentrum von einem so genannten Webhoster betrieben und an den Inhaber der Website vermietet wird.
+
+Die Entwicklung von Websites wird als Webdesign oder Webauthoring bezeichnet.
+
+== Zwecke
+
+Mit Hilfe vielfältiger Kommunikationsangebote baut eine Website eine Beziehung zwischen dem Anbieter, dem Betreiber und dem Nutzer (User) der Website auf.
+So ist etwa die Wikipedia als Gesamtes eine Website, die im Internet auf einem oder mehreren Host-Rechnern (Servern) gespeichert ist, während das, was im Browser angezeigt wird, speziell als ein einzelnes Dokument betrachtet wird.
+Die Website der deutschsprachigen Wikipedia als Beispiel umfasst derzeit über fünf Millionen Webseiten.
+
+Websites dienen zahlreichen Zwecken:
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

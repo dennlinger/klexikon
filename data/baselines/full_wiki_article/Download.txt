@@ -1,0 +1,30 @@
+Als Download oder Herunterladen bezeichnet man in der elektronischen Datenverarbeitung (EDV) das Empfangen von Daten auf dem eigenen Computer, dem Client, die über ein Netzwerk, meistens das Internet, von einem Server stammen.
+Auch die übertragenen oder zur Übertragung bereitgestellten Daten selbst werden als Download bezeichnet.
+Im Gegensatz etwa zum Aufrufen einer Webseite oder dem Streamen eines Videos ist das Ziel und Ergebnis eines Downloads die dauerhafte Speicherung der dabei heruntergeladenen Daten, meist einer einzelnen Datei, auf dem Gerät des Nutzers.
+Der Download oder das Herunterladen ist das Gegenstück zum Upload bzw. dem Hochladen.
+Seit der weiten Verbreitung schneller Internet-Anschlüsse spielen Downloads eine zunehmend wichtige Rolle beim kommerziellen Vertrieb und dem privaten Austausch von digitalen Gütern wie Software, Musik, Filmen und E-Books.
+Zudem haben Downloads bei vielen Arten von Dokumenten die früher übliche Verbreitung in Papierform weitgehend verdrängt, zum Beispiel bei technischen Dokumentationen, Industriestandards und Normen, Produktkatalogen, wissenschaftlichen Studien und umfangreicheren Bedienungsanleitungen.
+Das Grundprinzip des Downloads besteht darin, eine oder mehrere Dateien, die von einem Bereitsteller zum Download angeboten bzw. bereitgestellt werden, aktiv anzufordern und diese daraufhin auf dem eigenen Gerät zu empfangen und zu speichern.
+Das eigene Gerät, welches die Daten empfängt, ist dabei häufig ein Personal Computer, Smartphone oder Tabletcomputer.
+Hingegen besteht das Grundprinzip des Uploads darin, dass der Bereitsteller eine oder mehrere Dateien vom eigenen Gerät aktiv zu einer Gegenstelle sendet ("hochlädt"), die die Dateien empfängt.
+Häufig ist die empfangende Gegenstelle ein Server bzw. Host.
+Das seit 1985 bestehende Dateiübertragungsprotokoll FTP dient als Internetprotokoll (IP) für das Herunterladen und Hochladen von Dateien sowie einer Reihe von speziellen Anwendungen.
+Wenn allerdings Daten von einer Webseite im World Wide Web heruntergeladen werden, wird das FTP unterbrochen um den gewünschten Speicherort durch den Benutzer zu erfragen.
+Nach der Bestätigung des Speicherortes wird die Übertragung fortgesetzt.
+Das Kommunikationsprotokoll HTTPS ist ein sicheres Hypertext-Übertragungsprotokoll und wird zur Verschlüsselung und zur Authentifizierung der heruntergeladenen bzw. hochgeladenen Daten zwischen dem Server und dem Client verwendet.
+Die Authentifizierung dient dazu, dass sich jede Seite der Identität des Verbindungspartners vergewissern kann und es erfolgt eine sichere Datenübertragung.
+Die Überprüfung der Integrität der heruntergeladenen Datei kann über Hash-Werte (Streuwertfunktionswerte) erfolgen.
+Vom Anbieter eines Downloads werden Prüfsummen nach dem 1991 entwickelten Message-Digest Algorithm 5 (MD5) erstellt, die beispielsweise als separate Dateien bereitgestellt werden.
+Nach erfolgter Übertragung wird die fehlerfreie Übertragung verifiziert, indem der Empfänger aus der übertragenen Datei mit einem speziellen Programm die MD5-Prüfsumme erstellt und diese mit der des Anbieters vergleicht.
+Stimmen beide Summen überein, ist die Datenübertragung mit extrem hoher Wahrscheinlichkeit vollständig erfolgt.
+Die heruntergeladene Datei kann jedoch trotzdem fehlerhaft oder mit Malware (Schadprogramm) und Computerviren infiziert sein, da die MD5-Funktion inzwischen nicht mehr als sicher gilt, da es mit überschaubarem Aufwand möglich ist, unterschiedliche Nachrichten zu erzeugen, die den gleichen MD5-Hashwert aufweisen.
+Der Begriff Download (Herunterladen) wird oft dahingehend allgemein interpretiert, dass empfangene Daten dauerhaft gespeichert werden oder zumindest nur vorübergehend gespeichert werden sollen.
+Im Gegensatz dazu wird der Begriff Download jedoch aus dem verwandten Datenübertragungsverfahren des Streaming entnommen, was bedeutet, dass empfangene Daten sofort verwendet werden können, während die Übertragung noch nicht abgeschlossen ist.
+Würde nun die allgemeine Definition des Begriffes Herunterladen zutreffen, würde das bedeuten, dass die Daten nur nutzbar sind, wenn sie in ihrer Gesamtheit empfangen wurden.
+In diesem Zusammenhang bedeutet Download spezifisch "empfangen und speichern" statt einfach nur "empfangen".
+Ein wichtiges Kriterium der Unterscheidung ist auch die Datenübermittlung per E-Mail.
+Bei einem Versand von Daten mittels E-Mail werden diese Daten nur als Anhang (Anlage) versendet.
+Es handelt sich dabei um keinen Download im spezifischen Sinn.
+Ein Download ist immer abhängig von der zur Verfügung stehenden Datenübertragungsrate zwischen Server und Client.
+Diese hat einerseits ein absolutes Limit bei den physikalischen Grenzen des jeweiligen Übertragungskanals beziehungsweise bei den Spezifikationen der jeweiligen Geräte.
+Andererseits ist es bei der Verwendung des Internets jedoch relevanter, dass der oder die Provider zwischen Client und Server in den meisten Fällen die Datenübertragungsrate vorsätzlich drosseln um eine gleichbleibende Behandlung der Kunden zu gewährleisten.

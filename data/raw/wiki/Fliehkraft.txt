@@ -1,0 +1,237 @@
+Die Zentrifugalkraft (von lateinisch centrum, Mitte und fugere, fliehen), auch Fliehkraft, ist eine Trägheitskraft, die bei Dreh- und Kreisbewegungen auftritt und radial von der Rotationsachse nach außen gerichtet ist.
+Sie wird durch die Trägheit des Körpers verursacht.
+Die Auswirkungen der Zentrifugalkraft sind im Alltag vielfach erlebbar, beispielsweise wenn beim Kettenkarussell die Sitze nach außen gedrängt werden, in der Salatschleuder das Wasser nach außen geschleudert wird oder sich ein Zweiradfahrer "in die Kurve legen" muss.
+
+In der klassischen Mechanik bezeichnet die Zentrifugalkraft:
+
+Die Zentrifugalkraft ist eine Scheinkraft und genügt daher nicht dem Prinzip von Actio und Reactio.
+
+== Geschichte
+
+Eine qualitative Beschreibung der Zentrifugalkraft findet sich bereits in den 1644 erschienenen Prinzipien der Philosophie von Rene Descartes.
+Quantitativ wurde sie erstmals 1669 in einem Brief von Christian Huygens an den Sekretär der Royal Society Henry Oldenbourg abgeleitet, auch in Huygens' Horologium Oscillatorium von 1673 ohne Ableitung erwähnt und ausführlich in seiner nachgelassenen Schrift aus dem Jahr 1659 De Vis Centrifuga (erschienen 1703).
+Huygens gewann die Formel aus der Betrachtung, wie sich ein von der Schleuder gelöster Stein in anfänglich quadratischer Weise von der Fortsetzung der Kreisbewegung entfernt.
+Der Begriff der Zentrifugalkraft ist damit noch älter als der der allgemeinen Massenanziehung, die 1686 durch Isaac Newton bekannt gemacht wurde.
+Auch Newton beschrieb die Zentrifugalkraft, aber erst nach Huygens und unabhängig von diesem.
+Aus der Beobachtung, dass die Zentrifugalkraft in einem rotierenden Eimer die Wasseroberfläche verformt, schloss Newton, dass eine Drehbewegung sich absolut feststellen lässt, mithin ein Absoluter Raum existieren muss.
+
+Nach langer Unklarheit über den Ursprung der Zentrifugalkraft wurde 1746 von Daniel Bernoulli erkannt, dass sie keine ursprüngliche, der Natur innewohnende Gegebenheit ist, sondern von der Wahl des zur Beschreibung genutzten Bezugssystems abhängt.
+Kurz zuvor hatte Jean-Baptiste le Rond d'Alembert das allgemeine Konzept der Trägheitskraft als das Negative des Produkts aus Masse und Beschleunigung des Körpers formuliert.
+Kurz danach erkannte Leonhard Euler das allgemeine Konzept von Trägheitskräften in einem beschleunigten Bezugssystem.
+
+== Trägheitswiderstand
+
+=== D'Alembertsche Trägheitskraft
+
+Beschreibt der Schwerpunkt eines Körpers mit der Masse m {\displaystyle m} in einem Inertialsystem eine gekrümmte Bahn, so ist dafür eine Kraft erforderlich, die eine zur Bahnkurve senkrechte Komponente besitzt.
+Diese Komponente wird Zentripetalkraft F = Zp {\displaystyle {\vec {F}}_{\text{Zp} }} genannt.
+Gemäß dem zweiten newtonschen Gesetz bewirkt sie eine zu ihr proportionale Zentripetalbeschleunigung a = Zp {\displaystyle {\vec {a}}_{\text{Zp}}} , die zum (momentanen) Krümmungsmittelpunkt der Bahn gerichtet ist:
+
+Nach d'Alembert schreibt man diese Grundgleichung der Mechanik in der Form
+
+und fasst den zweiten Term formal als Kraft auf .
+Diese Kraft wird als Zentrifugalkraft F Zf {\displaystyle F_{\text{Zf} }} bezeichnet.
+Sie ist eine Trägheitskraft, genauer eine d'Alembertsche Trägheitskraft.
+Es gilt
+
+und daher
+
+Die Zentrifugalkraft ist stets entgegengesetzt gleich groß wie die Zentripetalkraft.
+
+Der Trägheitswiderstand quantifiziert eine Eigenschaft der Trägheit, die sich dadurch äußert, wie sich ein Körper durch eine Trägheitskraft ("vis inertiae") der Änderung einer bestehenden Bewegung widersetzt.
+
+Die Zentrifugalkraft im d'Alembertschen Sinn setzt immer das Wirken einer Zentripetalkraft voraus.
+Sie bildet zusammen mit der Zentripetalkraft ein dynamisches Gleichgewicht.
+Das ist aber kein Kräftepaar im Sinne von "Actio und Reactio", denn beide Kräfte greifen am selben Körper an.
+
+Die als d'Alembertsche Trägheitskraft zur Zentripetalbeschleunigung definierte Zentrifugalkraft stimmt in Richtung und Stärke mit der Zentrifugalkraft überein, wie sie als Scheinkraft in einem Bezugssystem mit dem Ursprung im Krümmungsmittelpunkt berechnet wird, und in dem der Körper ruht (siehe unten).
+
+Ein Beispiel für das dynamische Gleichgewicht von Zentripetalkraft und Zentrifugalkraft ist das Experiment, bei dem z. B. ein Ball der an einem Seil befestigt ist, im Kreis bewegt wird.
+Das Seil, das den Ball auf einer Kreisbahn hält, wird durch die Zentripetalkraft (Kraft (2) im nebenstehenden Bild) gespannt.
+Dies kann z. B. auch mit einer Federwaage unabhängig vom Bezugssystem gemessen werden.
+
+In dieser Sichtweise, die einer gängigen Vorstellung entspricht, übt die Feder eine Zentripetalkraft auf den Ball aus, sodass dieser auf eine Kreisbahn gezwungen wird, und umgekehrt zieht auch der Ball an der Feder.
+Da aber von außen betrachtet außer der Federkraft keine weitere äußere Kraft vorhanden ist, entspricht dieses Bild der d'Alembertschen Sicht des dynamischen Gleichgewichts zwischen äußerer Kraft und Trägheitskraft.
+Zur Erklärung des Vorgangs ist die Zentrifugalkraft nicht erforderlich.
+
+=== Formeln
+
+Für eine Kreisbahn ist die Zentrifugalkraft F Zf {\displaystyle F_{\text{Zf} } } radial vom Mittelpunkt nach außen gerichtet.
+Ihre Stärke kann mithilfe der Masse m {\displaystyle m} , des Radius r {\displaystyle r} des Kreises und der Bahngeschwindigkeit v {\displaystyle v} nach derselben Formel berechnet werden wie die Zentripetalkraft.
+Es gilt (zur Herleitung siehe Zentripetalkraft#Mathematische Herleitung):
+
+Diese Gleichung gilt ganz allgemein, auch wenn ein Körper eine beliebig gekrümmte Bahn durchläuft.
+Dabei ist der Krümmungsradius r {\displaystyle r} der Radius des Kreises, der sich am jeweiligen Ort des Körpers an seine Bahn anschmiegt.
+
+Die Kreisbewegung kann auch als Rotation um den Krümmungsmittelpunkt mit der Winkelgeschwindigkeit  {\displaystyle \omega } aufgefasst werden.
+Die Bahngeschwindigkeit v {\displaystyle v } hängt mit der Winkelgeschwindigkeit und dem Radius des Kreises zusammen durch
+
+Daher kann die Zentrifugalkraft auch in Abhängigkeit von der Winkelgeschwindigkeit angegeben werden:
+
+=== Alltagserfahrungen
+
+Da die Zentrifugalkraft aber eine Volumenkraft als Folge einer Beschleunigung ist, sind die Angriffspunkte von Zentripetalkraft und Zentrifugalkraft unterschiedlich.
+Die Zentrifugalkraft ist wie die Gewichtskraft stets im Schwerpunkt eines Körpers anzusetzen.
+Die Zentripetalkraft setzt sich dagegen in der Regel aus mehreren Einzelkräften an unterschiedlichen Orten zusammen, z. B. aus den Seitenkräften beim Auto.
+
+Wegen des unterschiedlichen Charakters von Zentripetal- und Zentrifugalkraft werden diese auch unterschiedlich wahrgenommen.
+Im allgemeinen Sprachgebrauch wird daher der Begriff Zentrifugalkraft dann benutzt, wenn die Wirkung auf den gesamten Körper beschrieben werden soll.
+Bei Kampfpiloten gehört der Aufenthalt in Humanzentrifugen zur Ausbildung.
+Die Zentrifugalkraft wirkt sich hier wie eine stark erhöhte Gravitation aus, da nach dem Äquivalenzprinzip Schwerkraft und Beschleunigung nicht unterschieden werden können.
+Der Charakter als Volumenkraft ist hier besonders stark spürbar, das sie sich auf die inneren Organe und den Blutkreislauf auswirkt.
+Wie zuvor gezeigt wurde, ist die Zentrifugalkraft bei allen Beispielen als d'Alembertsche Trägheitskraft aufzufassen.
+
+== Bezugssystemabhängige Scheinkräfte
+
+=== Allgemein beschleunigtes Bezugssystem
+
+Scheinkräfte müssen immer dann berücksichtigt werden, wenn man eine Bewegungsgleichung in einem Bezugssystem aufstellt, das selbst gegenüber dem Inertialsystem beschleunigt wird.
+Betrachtet man z. B. die Funken, die sich von einer Schleifscheibe lösen, in einem Inertialsystem, so bewegen sich diese geradlinig, da sie kräftefrei sind.
+Im rotierenden Bezugssystem der Schleifscheibe wird die Relativbeschleunigung der Teilchen dagegen mit einer Scheinkraft erklärt.
+
+==== Bewegungsgleichung
+
+Um zwischen den Größen eines Objektes (Ort, Geschwindigkeit, Beschleunigung) in zwei Bezugssystemen zu unterscheiden, wird die normale Notation im Inertialsystem verwendet und das nichtinertiale Bezugssystem erhält den gleichen Buchstaben mit einem Apostroph (engl. prime).
+Letzteres wird dann auch als "gestrichenes Bezugssystem" bezeichnet.
+
+Das zweite newtonsche Gesetz gilt in seiner ursprünglichen Form nur im Inertialsystem.
+Die Impulsänderung ist in diesem Bezugssystem proportional zur äußeren Kraft F = {\displaystyle {\vec {F} }} :
+
+Möchte man eine analoge Bewegungsgleichung in einem Bezugssystem aufstellen, das kein Inertialsystem ist, müssen Scheinkräfte berücksichtigt werden.
+Mit Hilfe kinematischer Beziehungen wird die Beschleunigung im Inertialsystem durch Größen ausgedrückt, die in einem beschleunigten Bezugssystem gegeben sind:
+
+Einsetzen in die Newtonsche Bewegungsgleichung und Umstellung nach dem Term mit der Relativbeschleunigung ergibt:
+
+Das Produkt aus Masse m {\displaystyle m} und Relativbeschleunigung a = ' {\displaystyle {\vec {a}}{\;' }} entspricht der Summe der in diesem Bezugssystem wirkenden Kräfte.
+Diese setzen sich aus den äußeren Kräften und den Scheinkräften zusammen.
+
+Der Term - m  = x (  = x r = ' ) {\displaystyle -m\,{\vec {\omega }}\times ({\vec {\omega }}\times {\vec {r}}{\;'})} ist die Zentrifugalkraft, die berücksichtigt werden muss, wenn der Impulssatz im beschleunigten Bezugssystem angewandt wird.
+Diese Kraft ist unabhängig davon, ob eine Zentripetalkraft vorhanden ist oder nicht.
+Die Zentrifugalkraft ist senkrecht zur Winkelgeschwindigkeit  = {\displaystyle { \vec {\omega }}} im Bezugssystem radial nach außen gerichtet.
+Die Zentrifugalkraft ist auf einer Achse, die durch den Ursprung des Bezugssystems geht und in Richtung der Winkelgeschwindigkeit zeigt null, selbst wenn der Ursprung des Bezugssystems eine Kreisbewegung ausführt.
+Die weiteren Scheinkräfte sind - m a = B {\displaystyle -m\,{\vec {a}}_{B} } (zuweilen Einsteinkraft genannt), die Eulerkraft und die Corioliskraft.
+
+Stehen Radiusvektor und Winkelgeschwindigkeit senkrecht aufeinander, so ergibt sich mit r = | r = ' | {\displaystyle r=\left|{\vec {r}}{\;'}\right|} für den Betrag der Zentrifugalkraft:
+
+=== Rotierendes Bezugssystem
+
+Rotationen werden häufig in einem Bezugssystem beschrieben, bei dem der Ursprung im ortsfesten oder momentanen Krümmungsmittelpunkt liegt und das sich mit einer Winkelgeschwindigkeit  = {\displaystyle {\vec {\omega }}} um diesen Krümmungsmittelpunkt dreht.
+Der Ursprung des Bezugsystems ist nicht beschleunigt.
+Nimmt man an, dass als äußere Kraft nur die Zentripetalkraft wirkt, lautet die Bewegungsgleichung im rotierenden Bezugssystem allgemein:
+
+==== Spezialfälle
+
+Zunächst wird der Spezialfall betrachtet, dass der Körper im rotierenden Bezugssystem ruht und  = {\displaystyle {\vec {\omega } }} konstant bleibt.
+Dann sind die Relativbeschleunigung, die Corioliskraft und die Eulerkraft null.
+Es bleibt:
+
+Es ergibt sich dieselbe Beziehung wie beim dynamischen Gleichgewicht.
+Dennoch ist das Ergebnis an unterschiedliche Voraussetzungen geknüpft.
+Während sich die d'Alembertsche Trägheitskraft als negatives Produkt aus Masse und Absolutbeschleunigung im Inertialsystem ergibt, wird hier ein spezielles Bezugssystem vorausgesetzt.
+
+In diesem Bezugssystem kompensieren sich die nach außen gerichtete Fliehkraft F = Zf {\displaystyle {\vec {F}}_{\text{Zf} }} und die nach innen gerichtete Zentripetalkraft F = Zp {\displaystyle { \vec {F}}_{\text{Zp} }} .
+Anschaulich formuliert: Wenn ein Objekt auf einer rotierenden Scheibe "stehen bleiben" soll, muss etwas das Objekt festhalten.
+Die Fliehkraft und die Zentripetalkraft addieren sich zu null, sodass der Körper "in Ruhe", also an derselben Stelle des rotierenden Bezugssystems bleibt.
+
+Beispiele:
+
+Beim nächsten wichtigen Spezialfall fehlt die äußere Kraft (z. B. bei den Funken, die sich ablösen):
+
+Die Zentrifugalkraft hängt bei dieser Definition von der Wahl des Bezugssystems ab, aber unabhängig davon ob eine äußere Kraft vorhanden ist oder nicht.
+Die Relativbewegung kann in diesem Fall aber nur durch eine Kombination mehrerer Scheinkräfte interpretiert werden, von denen z. B. auch die Corioliskraft eine radiale Richtung haben kann.
+Beispiel hierfür wäre die Bewegung eines im Inertialsystem ruhenden Körpers, die in einem rotierenden Bezugssystem beschrieben wird.
+
+Beispiele:
+
+==== Zentrifugalpotential
+
+Die Zentrifugalkraft im rotierenden Bezugssystem ergibt sich aus einer reinen Umrechnung von Koordinaten zwischen einem rotierenden und einem inertialen Bezugssystem.
+Von ihr kann also auch gesprochen werden, ohne dass ein bestimmter Körper in einem Inertialsystem eine gekrümmte Bahn beschreibt oder dass überhaupt ein bestimmter Körper betrachtet wird.
+Damit ist die Zentrifugalkraft in einem rotierenden Bezugssystem so präsent wie ein zusätzliches Kraftfeld.
+Dies Kraftfeld ist konservativ, so dass es auch durch ein Potential ausgedrückt werden kann:
+
+Es trägt den Namen Zentrifugalpotential, sein Gradient, negativ genommen, ist die Zentrifugalbeschleunigung.
+Die direkte physikalische Bedeutung (nach Multiplikation mit der Masse) ist die (negativ gezählte) kinetische Energie des im rotierenden Bezugssystem ruhenden Körpers, die dieser aufgrund seiner Umlaufgeschwindigkeit v = =  = x r = {\displaystyle {\vec {v}}={\vec {\omega }}\times {\vec {r}}} hat:
+
+Mit diesem Zentrifugalpotential kann man im rotierenden Bezugssystem genau so rechnen wie mit den üblichen potentiellen Energien im Inertialsystem, die zu den durch Wechselwirkungen verursachten Kraftfeldern (z. B. Gravitation, Coulomb-Kraft) gehören.
+Im Unterschied zu diesen ist das Feld der Zentrifugalkraft nicht auf einen anderen Körper bezogen, der die Quelle dieses Feldes wäre.
+Die Zentrifugalkraft ist stattdessen auf die Rotationsachse des Bezugssystems bezogen, und sie wird mit steigendem Abstand nicht schwächer, sondern stärker.
+Mit einem anderen Zentralpotential kann das Zentrifugalpotential zum effektiven Potential zusammengefasst werden.
+
+Zum Beispiel leistet man Arbeit gegen die Zentrifugalkraft, wenn man einen Körper ausschließlich mit inneren Kräften näher an die Rotationsachse heranführt (z. B. das Halteseil anzieht).
+Diese Arbeit findet sich quantitativ in der Erhöhung der potentiellen Energie im Zentrifugalpotential wieder.
+Zur Berechnung muss man berücksichtigen, dass die Winkelgeschwindigkeit sich bei der Annäherung erhöht, denn der Drehimpuls L =  m r 2 {\displaystyle L=\omega mr^{2 } } bleibt konstant (Formel vereinfacht für Koordinatenursprung in der Bewegungsebene).
+Damit variieren längs des Weges die Winkelgeschwindigkeit und die potentielle Zentrifugalenergie gemäß
+
+Dieselbe Änderung der potentiellen Energie ergibt sich, wenn man die Zentrifugalkraft entsprechend ausdrückt
+
+und durch Integration über den Radius die Arbeit ermittelt .
+Bei anschließender Lockerung des Seils gibt die Zentrifugalkraft diese Arbeit vollständig zurück.
+
+== Praktische Beispiele
+
+=== Rotierende Flüssigkeit
+
+Bei einem mit Wasser gefüllten zylinderförmigen Gefäß, das um seine senkrechte Achse rotiert, nimmt die Wasseroberfläche eine gekrümmte Form an, wobei der Wasserstand außen höher ist als in der Mitte.
+Die Wasserteilchen werden durch eine Zentripetalkraft auf eine Kreisbahn gezwungen.
+Im stationären Zustand muss die Vektorsumme von Zentrifugalkraft und Gewichtskraft an jedem Punkt der Oberfläche auf dieser senkrecht stehen.
+Bezeichnet g {\displaystyle g} die Erdbeschleunigung, r {\displaystyle r} den Abstand von der Rotationsachse ( 0  r  R {\displaystyle 0\leq r\leq R} ) und a {\displaystyle \alpha } den Winkel der Wasseroberfläche gegenüber der Waagrechten, so gilt:
+
+Der Tangens des Winkels ist die Steigung der Wasseroberfläche:
+
+Da die Zentrifugalkraft proportional zum Abstand von der Achse ist, hat die Oberfläche die Form eines Rotationsparaboloides und deren Querschnitt durch Integration die Gleichung:
+
+Aus der Volumenkonstanz ergibt sich für den Anstieg des Wasserstands am Rand des Glases:
+
+Da aber ein physikalisches Phänomen nicht durch eine Scheinkraft, die vom gewählten Bezugssystem abhängt erklärt werden kann, findet sich eine gleichwertige Herleitung auf der Basis der Newtonschen Kräfte.
+Jedes Teilchen des Wasserkörpers wird auf eine Kreisbahn gezwungen.
+Dazu ist ein Druckgradient in radialer Richtung erforderlich.
+Dieser wird durch den Gradienten des hydrostatischen Drucks ebenfalls in radialer Richtung erzeugt.
+Die Steigung der Wasseroberfläche ist das Verhältnis der beiden Druckgradienten und führt wie oben auf die Beziehung:
+
+Die parabolische Form einer Licht reflektierenden Flüssigkeitsoberfläche findet Anwendung bei den flüssigen Spiegeln astronomischer Spiegelteleskope, die im einfachsten Fall aus Quecksilber bestehen.
+Deren Brennweite beträgt:
+
+=== Schleudern von Wäsche
+
+Eine Waschmaschine mit einem Trommeldurchmesser von 50 cm hat im Schleudergang eine Drehzahl von 1200 Umdrehungen pro Minute.
+Die Zentrifugalbeschleunigung für ein mitrotierendes Wäschestück ergibt sich zu
+
+Hierbei ist  {\displaystyle \omega } die Winkelgeschwindigkeit.
+
+Das Ergebnis entspricht etwa dem 400-Fachen der Erdbeschleunigung.
+Auf ein Kleidungsstück an der Trommelwand wirkt somit eine Zentrifugalkraft, die 400-mal so groß ist wie seine Gewichtskraft.
+
+=== Achterbahn
+
+Die Zentrifugalkraft ist für die Konstruktion von Achterbahnen von Bedeutung, bei denen für den menschlichen Körper unangenehme Kräfte möglichst vermieden werden sollen, aber solche, die der Schwerkraft entgegenwirken und somit ein Gefühl der Schwerelosigkeit erzeugen, erwünscht sind.
+Beispielsweise ergibt sich bei kreisförmigen Loopings, bei denen im höchsten Punkt gerade Schwerelosigkeit erzeugt wird, am Einstiegspunkt ein abrupter Anstieg der Beschleunigung um 5 g {\displaystyle 5g} , sodass für den mitbewegten Körper plötzlich die fünffache Gewichtskraft als Trägheitskraft auftritt.
+Deshalb wurde vom Achterbahnkonstrukteur Werner Stengel für Loopings eine Klothoidenform (Cornu-Spirale) der Bahnkurve entwickelt, bei der der Krümmungsradius umgekehrt proportional zur Bogenlänge ist, was zu einem sanften Anstieg der im Fahrzeug auftretenden Trägheitskräfte führt.
+Die Klothoide war zuvor schon im Straßenbau benutzt worden.
+
+=== Technische Anwendungen
+
+Technische Anwendungen der Zentrifugalkraft sind die Zentrifuge, der Fliehkraftabscheider, der Schneckentrieur, das Fliehkraftpendel und der Fliehkraftregler.
+Bei übermäßiger Beanspruchung kann es auch zum Fliehkraftzerknall kommen.
+
+=== Zentrifugalkraft als Ersatz für die Schwerkraft
+
+Für künftige Raumstationen unterschiedlicher Größe hat man geplant, die Zentrifugalkraft als Ersatz für die Schwerkraft zu verwenden, weil längere Schwerelosigkeit der Gesundheit des Menschen schaden kann.
+Der erste Versuch, in einem bemannten Raumfahrzeug Zentrifugalkraft zu nutzen, fand 1966 statt.
+Dabei hat man die Gemini-11-Kapsel mit der Agena-Raketenstufe durch ein 30 Meter langes Sicherheitsband verbunden und beide Objekte mit etwa einer Umdrehung alle sechs Minuten um den gemeinsamen Schwerpunkt rotieren lassen.
+
+Als Folge der Zentrifugalkraft zeigt in einer rotierenden Raumstation ein Lot an jedem Ort von der Rotationsachse weg nach außen.
+Frei "fallende" Gegenstände entfernen sich von dieser Lotrichtung, und zwar entgegen der Rotationsrichtung der Raumstation.
+Diese Abweichung kann als eine Folge der Corioliskraft aufgefasst werden.
+Die Bahnkurve eines frei fallenden Gegenstands hat im rotierenden Bezugssystem der Raumstation die Form einer Kreisevolvente und ist von der Rotationsgeschwindigkeit der Raumstation unabhängig.
+Jedoch hängt der Größenmaßstab der Kreisevolvente vom Radius der anfänglichen Kreisbahn ab, d. h. von der anfänglichen Entfernung des Gegenstandes von der Rotationsachse.
+Von einem nicht rotierenden Bezugssystem aus gesehen bewegen sich frei "fallende" Gegenstände mit konstanter Geschwindigkeit auf einer geraden Linie, die tangential zu ihrer vorherigen Kreisbahn liegt.
+
+Während viele Satelliten Rotation zur Stabilisierung nutzen, wurde bei der deutschen Mission EuCROPIS (2018/19) dieser Effekt ganz bewusst zur Schwerkraftsimulation eingesetzt.
+Mit Blick auf zukünftige Mondmissionen sollte das Pflanzenwachstum unter verringerter Schwerkraft untersucht werden.
+Durch einen technischen Fehler konnte das Gewächshaus jedoch nicht wie geplant betrieben werden.
+
+== Weblinks
+
+== Einzelnachweise
+

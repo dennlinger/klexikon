@@ -1,0 +1,205 @@
+Das Ebolavirus ist eine Gattung aus der Familie der Filoviridae.
+Diese Gattung umfasst fünf Spezies, deren Vertreter behüllte Einzel(-)-Strang-RNA-Viren sind.
+Die Ebolaviren verursachen das Ebolafieber.
+Neben dem Menschen infizieren sie andere Primaten (Gorillas, Schimpansen) und lösen bei ihnen ein hämorrhagisches Fieber aus.
+Ebolaviren waren die Auslöser der Ebolafieber-Epidemien 2014 bis 2016 in Westafrika und ab 2018 bis 2020 in der Demokratischen Republik Kongo und Uganda.
+Das Ebolavirus besitzt eine fadenförmige (lateinisch filum ,Faden'), manchmal auch bazillusförmige Gestalt.
+Es kann in seiner Grundstruktur aber auch gelegentlich U-förmig gebogen sein.
+In seiner Länge variiert es zwischen 1 und 4 Mikrometern (m), jedoch beträgt der Durchmesser konstant 80 nm und es gehört damit zusammen mit der Gattung Marburgvirus aus derselben Familie zu den größten bekannten RNA-Viren.
+Als weitere Besonderheit besitzt dieser Erreger auch die Matrixproteine VP40 und VP24.
+Ebolaviren sind fähig, sich in fast allen Zellen des Wirtes zu vermehren.
+Dabei kommt es aufgrund der schnellen Virensynthese zu einem Viruskristall (Crystalloid), der vom Bereich des Zellkerns nach außen dringt und einzelne Viren nach Auflösung beziehungsweise Zerfall der Zelle (Lyse) freilässt.
+Das Ebolavirus weist in seinem Inneren einen elektronendichten Zentralkörper auf, das sogenannte Nukleokapsid.
+Das Nukleokapsid besitzt einen Durchmesser von 50 nm und ist helikal gewunden.
+In der äußeren Virushülle, die vergleichbar mit der Zellmembran ist, befinden sich Trimere des Oberflächenproteins GP, die die sogenannten Spikes bilden.
+Diese weisen in der Regel eine Größe von 8 nm auf und ragen aus dem Partikel.
+Die genetische Grundausstattung des Ebolavirus besteht aus annähernd 19.000 Nukleotiden, was einer Größe von 19 kb (Kilo-Basenpaare) entspricht.
+Die Genabfolge der viralen Strukturproteine, die sich auf dem Genom befinden, ist linear folgend angeordnet:
+3'-NP-VP35-VP40-GP-VP30-VP24-L-5'
+Die Enden dieser Genabfolge 3'-5' beinhalten Sequenzen, die wichtige Funktionen für die Replikation sowie Transkription des Genoms enthalten und diese zudem steuern.
+Zudem sind nicht transkribierende Bereiche zwischen den einzelnen Genen vorhanden, die möglicherweise die Stabilität der viralen mRNA beeinflussen sowie potenzielle Steuersignale der viruseigenen Polymerase L aufweisen.
+Die viralen Strukturproteine umfassen sieben strukturgebende und ein nicht strukturgebendes Protein.
+Vier von den sieben strukturgebenden Proteinen sind Teil des Nukleokapsidkomplexes und umschließen das Nukleokapsid.
+Hierzu zählen das NP, das Nukleoprotein, das mengenmäßig am häufigsten vorkommt und aus 715 Aminosäuren besteht.
+Seine Funktion besteht darin, die Verpackung des viralen Genoms zu übernehmen.
+Zudem steht es mit den Proteinen VP35 und VP30 in Verbindung und ist über VP35 mit der Polymerase L verbunden.
+Ein anderer Vertreter des Nukleokapsidkomplexes ist das Protein VP35.
+Es besitzt strukturgebende Elemente, die wichtig für den Aufbau des Nukleokapsids sind.
+Auch das VP30 ist Teil dieses Komplexes und hat die Aufgabe, bei der Transkription als Aktivator zu fungieren, zudem handelt es sich bei diesem Protein um ein stark phosphoryliertes.
+Der letzte Teil des Komplexes ist die Polymerase L, die das größte Protein darstellt.
+Es ist zuständig für die Transkription und Replikation des viralen Genoms und ist zudem mit dem Nukleokapsid über VP35 verbunden.
+Der Nukleokapsidkomplex wiederum wird durch die Proteine VP40 und VP24 umgeben, und somit von der äußeren Virushülle abgegrenzt.
+Diese beiden Proteine bilden somit eine Matrix zwischen der Virushülle und dem Nukleokapsid.
+VP40 ist das Hauptprotein der Matrix und dient der Freisetzung von neugebildeten Virionen.
+Das zweite Matrixprotein VP24 spielt eine wichtige Rolle bei dem Transport von Nukleokapsiden und ist möglicherweise auch an der Bildung von funktionellen Nukleokapsiden beteiligt.
+Im Vergleich zu den anderen Proteinen ist es jedoch das bislang am wenigsten verstandene.
+Die äußere Virushülle stellt die Begrenzung dar und beinhaltet das Oberflächenprotein GP.
+Hier unterscheidet man zudem zwei Typen von Oberflächenproteinen, zum einen das lösliche sGP, welches in den Zellüberstand abgesondert wird, und zum anderen das GP, das sich direkt in der äußeren Virushülle befindet.
+Als Aufgabe hat das GP die Anheftung bzw. die Adsorption an das Zielmolekül während der Infektion.
+Das Andocken des Ebola-Erregers an die Plasmamembran der Zielzelle innerhalb des Organismus stellt den Start des Replikationsmechanismus dar.
+Hierbei wird das Andocken über das Oberflächenprotein GP vermittelt.
+Anschließend erfolgt eine rezeptorvermittelte Endozytose, wodurch der Erreger in die Zielzelle gelangt.
+Das nun in das Zytoplasma geschleuste Nukleokapsid wird als Matrize der initialen Transkription der viralen mRNA verwendet.
+Dieser Vorgang wird durch die viruseigene Polymerase L gewährleistet.
+Die initiale Transkription sowie Replikation kann nur über die genomische RNA erfolgen, die sich in dem Nukleokapsid befindet und somit als Matrize fungiert.
+Somit ist für die Neubildung eines replikationsfähigen Genoms die Synthese von Nukleokapsidproteinen essentiell, um die neugebildete RNA zu verpacken.
+Anschließend erfolgt die Translation der viralen mRNA durch zelluläre Ribosomen, wodurch neue Proteine gebildet werden, die sich im Anschluss der Replikation zu neuen Virionen zusammensetzen.
+Bei der Replikation des viralen Genoms wird zuerst ein positivsträngiges Antigenom gebildet, das anschließend als Vorlage für die negativsträngige RNA dient.
+Im Anschluss werden die nun reifen Nukleokapside über die Matrixproteine VP24 und VP40 zur Plasmamembran geschleust, wo nun die Freisetzung der Virionen erfolgt.
+Die Viren stammen aus den tropischen Regenwäldern Zentralafrikas und Südostasiens (Spezies Reston-Ebolavirus).
+Von Wissenschaftlern wurden sie zum ersten Mal 1976 in Yambuku, Zaire (seit 1997 Demokratische Republik Kongo) entdeckt; sie traten nahezu gleichzeitig im Sudan auf.
+Die Gattung wurde nach dem kongolesischen Fluss Ebola benannt, in dessen Nähe es zum ersten allgemein bekannten Ausbruch kam.
+In 55 Dörfern entlang dieses Flusses erkrankten 318 Menschen, von denen 280 starben, was einer Sterberate von 88 Prozent entspricht.
+Der erste Fall trat in einem belgischen Missionskrankenhaus der Zusters van het H. Hart van Maria auf und wurde anfangs als "Gelbfieber mit hämorrhagischen Merkmalen" beschrieben.
+Kurz darauf waren fast alle Nonnen und Krankenschwestern - sowie die meisten, die das Krankenhaus besucht hatten oder noch dort waren - erkrankt.
+Die Schwestern besaßen nur fünf Injektionsnadeln, die sie, ohne sie zwischendurch zu desinfizieren oder zu sterilisieren, für Hunderte Patienten verwendet hatten.
+Ein mit dem Ebolavirus verwandtes Virus (Marburgvirus) wurde 1967 mit Affen aus Uganda in wissenschaftliche Labore in Marburg eingeschleppt.
+Das natürliche Reservoir der Ebolaviren (Hauptwirt, Reservoirwirt) konnte bisher nicht zweifelsfrei gefunden werden.
+Fledermausarten gerieten in das Visier der Wissenschaftler, da diese bereits in anderen Kontinenten als mögliche Reservoirwirte für ebenfalls ungewöhnliche Virusinfektionen identifiziert worden waren, so beispielsweise für das Hendra-Virus in Australien und das Nipah-Virus in Malaysia.
+Mittlerweile gibt es starke Hinweise auf verschiedene Arten von Flughunden, die in Afrika weit verbreitet sind und eine Infektion mit Ebolaviren überleben.
+In einer großangelegten Untersuchung von Fledermäusen zwischen 2003 und 2008 haben Wissenschaftler zudem festgestellt, dass sehr wahrscheinlich der Nilflughund (Rousettus aegyptiacus) und der Hammerkopf (Hypsignathus monstrosus) als Reservoirwirte sowohl für das Ebolavirus als auch für das Marburgvirus dienen.
+Allerdings war Rousettus aegyptiacus die einzige Spezies, in der gleichzeitig Antikörper gegen das Ebola- wie auch gegen das Marburgvirus in hoher Konzentration nachweisbar waren.
+Weiterhin wurden bei dieser Untersuchung Antikörper gegen das Ebolavirus in den Flughundarten Epomops franqueti, Schmalkragen-Flughund (Myonycteris torquata), Micropteropus pusillus und Mops condylurus gefunden.
+2010 wurden ebenfalls entsprechende Antikörper bei Palmenflughunden (Eidolon helvum) nachgewiesen.
+Vermutlich sind insbesondere in Höhlen lebende Arten betroffen, wobei die weitere Übertragung durch Fallenlassen von angefressenen und anschließend zumeist von Affen verzehrten Früchten als wahrscheinlich erscheint.
+2019 wurde bekannt, dass in einer Langflügelfledermaus der Art Miniopterus inflatus in Westafrika Ebola-Erreger vom Zaire-Typ nachgewiesen wurden und die Bevölkerung in Liberia vor Jagd auf Fledermäuse gewarnt.
+Sowohl Antikörper gegen das Virus als auch genetisches Material des Virus wurden gefunden.
+Derselbe Virustyp löste 2013/16 in Westafrika eine große Epidemie aus.
+In hunderten anderen untersuchten Fledermausproben fand sich allerdings kein Ebolavirus.
+Eine Übertragung des Virus vom Reservoirwirt auf den Menschen ist bislang ein eher seltener Vorgang, und der genaue Übertragungsweg ist noch nicht vollends geklärt.
+Nach Angaben der Weltgesundheitsorganisation (WHO) ist eine Übertragung des Virus auf den Menschen auch durch Körperkontakt mit infizierten, kranken oder toten Wildtieren aufgetreten, als Beispiele werden Schimpansen, Gorillas und andere Affen, Flughunde, afrikanische "Waldantilopen" und Stachelschweine genannt.
+Eine in Teilen Afrikas gängige Art solcher Kontakte stellt das Jagen, der Handel, die Zubereitung und der Verzehr von als Reservoirwirten in Betracht kommenden Wildtieren ("Buschfleisch") dar.
+Daher wird davon abgeraten.
+Eine Mensch-zu-Mensch-Übertragung der Ebolaviren erfolgt durch direkten Körperkontakt und bei Kontakt mit dem Blut, anderen Körperflüssigkeiten oder entnommenen Organen infizierter Personen per direkter Kontaktinfektion.
+Dabei werden Blut, Kot und Erbrochenes durch die WHO als besonders infektiös bezeichnet.
+Weiterhin wurde das Virus in der Muttermilch, im Urin und in der Samenflüssigkeit Infizierter nachgewiesen.
+An Ebolafieber erkrankte Menschen können nach Auftreten der ersten Symptome das Virus solange übertragen, wie in ihrem Blut und anderen Körperflüssigkeiten, einschließlich Samenflüssigkeit und Muttermilch, Ebolaviren nachweisbar sind.
+Männer, welche die Infektion überlebt haben, können das Virus noch bis zu zehn Wochen nach ihrer Genesung in ihrem Ejakulat übertragen.
+Auch eine Übertragung durch Speichel und Tränenflüssigkeit wird durch die WHO nicht ausgeschlossen, allerdings lieferten bisherige Studien hierzu keine eindeutigen Ergebnisse.
+Laut WHO konnte das Ebolavirus im Schweiß bisher nicht nachgewiesen werden.
+Die Centers for Disease Control and Prevention (CDC) werteten verschiedene Berichte über vergangene Epidemien (u. a. in Kikwit, Demokratische Republik Kongo, 1995) hinsichtlich der maximalen Dauer der Nachweisbarkeit der Virus-RNA in verschiedenen Körperflüssigkeiten aus.
+Die Virus-RNA wird im Labor mittels Reverser Transkriptase-PCR untersucht.
+Nach Beginn der Symptome war in Samenflüssigkeit bis zu 101 Tagen, in Vaginalabstrichen bis zu 33 Tagen, in Abstrichen des Rektums bis zu 29 Tagen, im Urin bis zu 23 Tagen, in Bindehautabstrichen bis zu 22 Tagen, im Blut bis zu 21 Tagen, in Muttermilch bis zu 15 Tagen, im Speichel bis zu acht Tagen und auf der Haut bis zu sechs Tagen Virus-RNA zu finden.
+Der Nachweis in Muttermilch bezieht sich allerdings auf nur einen dokumentierten Erkrankungsfall, so dass daraus keine Empfehlung abgeleitet werden kann, nach welchem Zeitraum die Muttermilch wieder als Säuglingsnahrung geeignet ist.
+Eintrittspforten für Ebolavirus-Virionen (Viruspartikel) sind Schleimhäute und verletzte Hautbereiche.
+Eine Übertragung durch sexuelle Kontakte ist nachgewiesen, wobei aber dieser Übertragungsweg eine untergeordnete Rolle spielt.
+Das Robert Koch-Institut (RKI) berichtet, "es gibt bisher keine Hinweise auf eine Übertragung von Filoviren auf den Menschen durch die Atemluft" und bezieht sich dabei auf die von der WHO herausgegebenen Empfehlungen.
+Dies wurde auch während der Ebolafieber-Epidemie 2014 bis 2016 von der WHO und den CDC bestätigt.
+Ein "hohes Expositionsrisiko" sieht das RKI für eine Person, die "engen Kontakt ohne Schutzkleidung zu einem schwer mit Ebola-/ Marburgvirus-Erkrankten hatte, der z. B. gehustet hatte." Auch die WHO geht davon aus, dass eine Übertragung durch Spritzer ("splashes") erfolgen kann.
+Dem medizinischen Personal und sonstigen Kontaktpersonen empfiehlt die WHO die Einhaltung entsprechender Hygienemaßnahmen und das Tragen von Schutzmasken (Gesichtsschild oder Mund-Nasen-Schutz und Schutzbrille), langärmeligem Schutzkittel und Schutzhandschuhen.
+Die Empfehlungen des RKI sehen Handschuhe, Schutzbrillen, mindestens FFP3-Halbmasken, Kopfhauben und wasserabweisende Schutzkittel vor.
+Während der Behandlung wird außerdem eine seuchenhygienische Isolation des Patienten mit "Barrier Nursing" empfohlen.
+Transporte erkrankter Personen sollten vorsichtshalber in "Hochkontagiös-Rettungswagen" erfolgen.
+Auch eine Übertragung durch kontaminierte Gegenstände ist möglich.
+Das Virus erhält seine Infektiosität bei Raumtemperatur und hinunter bis 4 °C stabil über mehrere Tage aufrecht.
+Bei -70 °C kann es unbegrenzte Zeit überdauern.
+Daher kann eine Ansteckung auch als Schmierinfektion über Spritzen und andere Gegenstände erfolgen, die mit infektiösen Körperflüssigkeiten kontaminiert wurden.
+Nach einer Einschätzung der WHO ist das Risiko einer Schmierinfektion gering und kann durch entsprechende Reinigungs- und Desinfektionsmaßnahmen weiter reduziert werden.
+Nach Eintritt in den Körper infizieren die Ebolaviren im Frühstadium vor allem Makrophagen, Leberzellen sowie Zellen in den Lymphknoten und in der Milz, im Spätstadium eine ganze Reihe von weiteren Wirtszellen.
+Auf zellbiologischer Ebene konnte erst kürzlich entschlüsselt werden, wie das Ebolavirus in das Zellinnere eindringt.
+Das Zaire-Ebolavirus aktiviert über einen bislang unbekannten Membranrezeptor der Rezeptor-Tyrosinkinase-Klasse die sogenannte Phosphoinositid-3-Kinase (PI3K) und bewirkt so seine Internalisierung in die Zelle in Form von Endosomen.
+Inhibitoren der PI3K und nachgeschalteter Enzyme verhinderten die Infektion in Zellkulturversuchen, was Hoffnung auf zukünftige Behandlungsmöglichkeiten gibt.
+Weitergehend ist bekannt, dass die Expression des Glykorezeptors "liver and lymph node sinusoidal endothelial cell C-type lectin" (LSECtin) auf myeloischen Zellen dem Ebolavirus seine Bindungskapazität verleiht.
+Bei Nagetieren, Hunden, Pferden, Schweinen, Antilopen und Buschschweinen wurden bisher Antikörper gegen das Ebolavirus festgestellt.
+In einem Versuch 2012 übertrugen Wildschweine nur durch Tröpfcheninfektion und ohne direkten Kontakt Ebolaviren an Primaten, ohne dabei selbst tödlich zu erkranken.
+Damit gerieten sie auch in Verdacht, größere, alljährliche Epidemien in Afrika auszulösen.
+Anlässlich der Ebolafieber-Infektionen 2014 in den USA und Spanien wurde auch eine mögliche Übertragung durch Haustiere diskutiert.
+Die US-Behörde Centers for Disease Control and Prevention (CDC) teilte mit, dass bis dato keine Berichte bekannt waren, dass Hunde oder Katzen an Ebolafieber erkrankt sind oder das Ebolavirus auf den Menschen oder andere Tiere übertragen haben.
+Dies gilt auch für Gebiete in Afrika, in denen Ebolafieber-Ausbrüche stattfanden.
+Bei einem Ausbruch in Gabun (2001-2002) zeigte eine Untersuchung an Hunden, dass zwischen 10 und 30 % der untersuchten Tiere - je nachdem in welchen Gebieten sie lebten - Antikörper gegen das Ebolavirus gebildet hatten.
+Sie zeigten jedoch keine Krankheitssymptome.
+Für den Fall, dass eine in den USA infizierte Person ein Haustier besitzt, empfahlen die CDC eine Abschätzung der Exposition des Tieres und darauf folgende, zusammen mit Veterinärmedizinern festgelegte Maßnahmen.
+Im Fall der in Spanien infizierten Krankenschwester wurde ihr Hund vorsorglich eingeschläfert.
+Die Inkubationszeit variiert normalerweise zwischen 2 und 21 Tagen, am häufigsten beträgt sie 8-10 Tage.
+Anlässlich der Ebolafieber-Epidemie 2014 in Westafrika durchgeführte Studien haben gezeigt, dass bei 95 % der laborbestätigten Erkrankungsfälle die Inkubationszeit zwischen einem und 21 Tagen beträgt, bei weiteren 3 % liegt die Inkubationszeit in einem Zeitintervall von 22 bis 42 Tagen, zu den verbleibenden 2 % der Fälle werden keine Angaben gemacht.
+Ein Vergleich der Angaben aus bisherigen Epidemien mit gesicherten Angaben während der Epidemie 2014 ergibt, dass die Annahme einer Inkubationszeit von maximal 21 Tagen für einen Teil der Infizierten möglicherweise nicht ausreichend ist.
+Nach diesem Vergleich liegt bei 0,2 bis 12 % der untersuchten Fälle die Inkubationszeit darüber.
+Die Angabe, dass die Inkubationszeit bei etwa 95 % der laborbestätigten Erkrankungsfälle zwischen einem und 21 Tagen beträgt, wird daher als Kompromiss zwischen den Kosten der verlängerten Quarantäne-Maßnahmen und der Reduzierung des Risikos, noch infektiöse Patienten zu entlassen, gedeutet.
+Das Deutsche Ärzteblatt sieht diese 95-Prozent-Grenze als vernünftigen Kompromiss an.
+Dieser Wert gibt an, wie viele Erreger notwendig sind um die Infektion des Wirtes auszulösen.
+Die Infektionsdosis für die Ansteckung mit hämorrhagischem Fieber reicht von 1 bis 10 Viruspartikeln.
+Dieser Wert wurde mittels Tierversuchen an Primaten im Zuge der Biowaffenforschung ermittelt.
+Die Viruspartikel wurden den Versuchstieren in Form eines Aerosols über die Atemluft zugeführt.
+Bei Milzbrand (Anthrax) liegt die Infektionsdosis zum Vergleich bei 8.000-50.000 Bakteriensporen.
+In Deutschland ist in der Verordnung über anzeigepflichtige Tierseuchen die Ebolavirus-Infektion als anzeigepflichtige Tierseuche aufgeführt (§ 1 TierSeuchAnzV).
+In der Europäischen Union wird das Ebolavirus durch die Richtlinie 2003/99/EG als Zoonoseerreger klassifiziert.
+Aufgrund der hohen Letalität (50-90 %) und Infektionsgefahr wird der Erreger in die höchste Risikogruppe 4 nach der Biostoffverordnung eingeordnet.
+Die Einstufung gemäß Biostoffverordnung in Verbindung mit der TRBA (Technische Regeln für Biologische Arbeitsstoffe) 462 gilt für die vier Spezies Bundibugyo Ebolavirus, Tai Forest Ebolavirus (früher Cote d'Ivoire Ebolavirus), Sudan Ebolavirus und Zaire Ebolavirus, während das Reston Ebolavirus der Risikogruppe 2 zugeordnet wird.
+Durch die Biostoffverordnung werden für biologische Arbeitsstoffe vier Risikogruppen definiert.
+Das Arbeiten hat unter Berücksichtigung entsprechender Schutzmaßnahmen zu erfolgen, die durch die Biostoffverordnung in vier biologische Schutzstufen (englisch: biosafety level, BSL) eingeteilt werden.
+Demzufolge müssen Arbeiten mit dem Ebolavirus (Ausnahme Reston Ebolavirus, s. o.) unter den strengen Vorgaben der Schutzstufe 4 erfolgen.
+Weltweit werden Filoviren an 20 Laboratorien erforscht (Stand 2013).
+Diese müssen daher die Schutzstufe 4 beachten und werden auch als BSL-4-Laboratorien bezeichnet.
+Für Deutschland trifft dies auf das Bernhard-Nocht-Institut für Tropenmedizin und das Institut für Virologie der Universität Marburg zu.
+Die CDC klassifizierten Ebolaviren als mögliche biologische Waffe.
+In der Gattung Ebolavirus wurden fünf Spezies unterschieden, die jeweils nach den Orten ihres ersten bekannten Auftretens benannt wurden.
+Die ICTV Filoviridae Study Group hat 2010 eine aktualisierte Systematik und Nomenklatur der Vertreter der Filoviridae vorgeschlagen, die in dem 9th ICTV Report von 2011 umgesetzt wurde.
+Demnach soll die folgende Nomenklatur verwendet werden, die auch bereits in entsprechenden Veröffentlichungen der Weltgesundheitsorganisation (WHO) und der Centers for Disease Control and Prevention (CDC) Anwendung findet:
+Anmerkungen:
+Das Cote d'Ivoire ebolavirus wurde umbenannt in Tai Forest ebolavirus, Die offizielle Schreibweise ist Tai Forest ebolavirus (ohne diakritische Symbole).
+Die Spezies Zaire ebolavirus (auch mit der Schreibweise Zaire ebolavirus zu finden) hat als einzigen Vertreter das Ebola virus, das als EBOV abgekürzt wird.
+Im Englischen ist die Schreibweise Ebola virus (nicht kursiv gesetzt für das Virus, d. h. den Subtyp), die Getrenntschreibung unterscheidet dieses Virus von der Gattung, die im Englischen Ebolavirus geschrieben wird.
+Vom Ebola-Virus (EBOV) sind mehrere Varianten bekannt, z. B. Mayinga (abgekürzt als EBOV/May).
+Hier wird von der zuständigen Expertengruppe geraten, auf die Bezeichnung als "Stamm" ("Virusstamm") oder "Subtypus" zu verzichten und sie stattdessen als Variante (engl. variant) zu benennen.
+Die vier Spezies Tai Forest ebolavirus, Sudan ebolavirus, Zaire ebolavirus und Bundibugyo ebolavirus verursachen beim Menschen ein hämorrhagisches Fieber mit einer Letalitätsrate von etwa 50 bis 90 %.
+In Einzelfällen z. B. bei Erkrankungen durch das Bundibugyo Virus (BDBV), ist die Letalitätsrate auch geringer.
+Diese hohe Sterblichkeit deutet wie bei den Marburgviren darauf hin, dass die Ebolaviren mit ihren Varianten noch nicht an den Menschen angepasst und neu in die Population eingedrungen sind.
+Die Schädigung seines Wirts bis hin zu seinem Tod ist für ein Virus nicht vorteilhaft, da es zur eigenen Vermehrung auf diesen Wirt angewiesen ist.
+Die dennoch beim Wirt ausgelösten Symptome sind Nebenwirkungen der Infektion.
+Die bei den Ebolaviren vorliegende Verbreitungsstrategie des Erregervirus wird als Hit and Run bezeichnet.
+Ist ein Virus besser an seinen Wirt angepasst, ist auch seine Chance größer, sich weiter zu verbreiten, denn von einem solchen Virus wird der Wirt nicht mehr in der akuten Erkrankungsphase getötet.
+Für den Fall, dass der Wirt nicht sofort wirksame Antikörper entwickelt, welche das Virus neutralisieren, kann das Virus den Wirt viel länger für seine eigene Vermehrung benutzen, wobei es hiermit die sogenannte Infect-and-persist-Strategie anwendet.
+Diese Spezies ist mit einer Letalitätsrate von 60 bis 90 % die gefährlichste aus der Familie der Filoviridae.
+Wie alle Ebolaviren hat das früher als Subtyp Zaire bezeichnete Virus einen Durchmesser von etwa 80 nm und eine Länge von 990 bis 1086 nm.
+Das Genom des Virus besteht aus etwa 19.000 Basen.
+Erstmals beobachtet wurde das Zaire Ebolavirus 1976 in Zaire (1997 in Demokratische Republik Kongo umbenannt) und verursachte 280 Tote bei 318 Infizierten (Letalität 88 %).
+Ein Jahr später erkrankte und verstarb eine weitere Person in Zaire.
+1994 erkrankten 52 Menschen, 31 von ihnen verstarben (Letalität 60 %).
+1995 infizierten sich 315 Bewohner, 250 von ihnen verstarben (Letalität 81 %).
+1996-1997 wurden in Gabun in zwei Wellen 21 von 37 Menschen (Letalität 57 %) bzw. 45 von 60 (Letalität 75 %) getötet.
+Dazu kam noch ein Todesfall aus Südafrika.
+2001-2002 kam es wieder in Gabun zu einer Epidemie, der 53 von 65 Menschen zum Opfer fielen (Letalität 82 %).
+Gleichzeitig kam es auch in der Demokratischen Republik Kongo zu 44 Toten bei 59 Infizierten (Letalität 75 %).
+2002-2003 verstarben 128 von 143 Personen an dem Virus, als es in der Demokratischen Republik Kongo erneut zu einer Epidemie kam (Letalität 89 %).
+Von Dezember 2008 bis Januar 2009 gab es einen Ausbruch in der Demokratischen Republik Kongo.
+Dort infizierten sich 32 Menschen (Verdachts-, wahrscheinliche und bestätigte Fälle), 15 von ihnen starben (Letalität 46 %).
+Im Mai 2011 bestätigte die WHO einen Todesfall in Uganda.
+Im Sommer 2014 erkrankten (Stand: 14. September 2014, ohne Fälle der DR Kongo) 5400 Menschen in Guinea, Liberia, Sierra Leone, Nigeria und Senegal, von welchen 2600 verstarben (Letalität 49 %).
+Diese Spezies löst in Makaken und Schweinen eine Erkrankung aus.
+Diese beiden Arten stellen die Hauptwirte des Virus dar.
+Aufgrund der unterschiedlichen geographischen Verbreitung von infizierten Schweinen und Makaken geht man von zwei unabhängigen Anpassungsschritten des Virus auf die beiden Wirte aus.
+Beim Menschen findet lediglich eine subklinische Infektion statt, das heißt, es treten keinerlei Krankheitszeichen auf.
+Es werden jedoch Antikörper gegen das Virus gebildet.
+Die nach einer Virusinfektion auftretende Infektionskrankheit beim Menschen wird als Ebolafieber bezeichnet.
+Ein typisches Symptom ist ein hämorrhagisches Fieber, gekennzeichnet durch hohes Fieber mit > 38,5 °C in Verbindung mit Blutungen.
+Seit 1976 kam es wiederholt zu Ausbrüchen des Ebolafiebers.
+Insbesondere im tropischen Teil Afrikas kosteten diese Ausbrüche zahlreichen Personen das Leben, siehe Dokumentiertes Auftreten und Epidemien der Ebola-Viruskrankheit.
+In Westafrika erfolgte 2014 die bisher größte dokumentierte Ebolafieber-Epidemie.
+Der zweitgrößte dokumentierte ist die aus der Demokratischen Republik Kongo, die 2018 begann.
+Zurzeit gibt es keine standardisierte Therapieform.
+Die symptomatische Behandlung des durch die Infektion hervorgerufenen hämorrhagischen Fiebers steht im Vordergrund.
+Hierbei wird gezielt gegen die auftretenden Symptome vorgegangen und möglichst unter intensivmedizinischen Bedingungen sowie Isolierung gearbeitet.
+Dazu existiert die Serumtherapie, bei welcher die Patienten Blutplasma und damit Ebola-Antikörper von Überlebenden erhalten.
+Im Jahr 2020 wurde mit Inmazeb das erste Ebola-spezifische Therapeutikum von der FDA zugelassen.
+Es enthält die drei monoklonalen Antikörper Atoltivimab, Maftivimab, und Odesivimab.
+Sie binden alle dasselbe Glykoprotein auf der Oberfläche des Virus.
+Da die Übertragung des Ebolavirus nur unter sehr spezifischen Umständen erfolgt - vor allem die Pflege von Erkrankten, die Leichenwaschung und die Bestattung - können weitere Ansteckungen prinzipiell sehr leicht verhindert werden.
+Für den Kontakt mit Erkrankten und Verstorbenen ist eine persönliche Schutzausrüstung notwendig.
+Ende Juli 2015 erklärte die Weltgesundheitsorganisation, dass der Impfstoff VSV-EBOV erfolgreich zur Bekämpfung von Ebola eingesetzt werden könnte.
+Bei einem Feldversuch mit 4000 Guineer stellte sich heraus, dass der Impfstoff die Probanden nach 10 Tagen hundertprozentig vor dem Virus schützte.
+Um weitere Informationen über den Impfstoff und die Bekämpfung des Virus herauszufinden, sind weitere Studien notwendig.
+Während einer Epidemie - und bei einem Mangel von Laboruntersuchungen - wird aufgrund der Symptome die Diagnose gestellt.
+Ein Nachweis des Ebola-Virus ist die Polymerase-Kettenreaktion (PCR), welches bestimmte Genabschnitte des Ebola-Virus kopiert.
+Es bestehen Test-Kits, die für die sogenannte Echtzeit-PCR geeignet sind.
+Falls die Probe positiv ist, ist das Resultat schneller ersichtlich.
+Dabei werden Blutproben, Urin, aber auch Speichelproben herangezogen, welche den Ebola-Erreger beinhalten können.
+Enthält das Ausgangsmaterial Ebola-Erreger, so lassen sich diese binnen 90 Minuten über das Verfahren nachweisen.
+Weitere Virusnachweisverfahren erfolgen mittels Virusanzucht oder über elektronenmikroskopische Untersuchungen.
+Jedoch kann auch der Nachweis von spezifischen Antikörpern mittels Immunfluoreszenztest, ELISA oder Neutralisationstest einen Aufschluss geben.
+Nach den Regelungen der Biostoffverordnung (BioStoffV) müssen in Deutschland alle bei einem Verdachtsfall auf Ebolafieber anfallenden Abfälle noch vor Ort thermisch inaktiviert werden.
+Lässt sich dies nicht realisieren, gelten für Verpackung und Transport dieser gefährlichen Abfälle spezielle Vorschriften.
+Unter dem Abfallschlüssel AS 180103* entsprechend der Abfallverzeichnis-Verordnung müssen sie nach der Verpackungsvorschrift P620 und mit der UN-Nummer UN 2814 zu einer zugelassenen Sonderabfallverbrennungsanlage gebracht werden.
+Das Europäische Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) sowie die Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB) sind hier bindend.
+Die Bundesanstalt für Materialforschung und -prüfung (BAM) hat für kleinere Materialmengen entsprechende Behälter zugelassen.
+In Deutschland ist der direkte oder indirekte Nachweis des Ebola-Virus namentlich meldepflichtig nach § 7 des Infektionsschutzgesetzes, soweit der Nachweis auf eine akute Infektion hinweist.
+In der Schweiz ist der positive und negative laboranalytische Befund zum Ebola-Virus meldepflichtig und zwar nach dem Epidemiengesetz (EpG) in Verbindung mit der Epidemienverordnung und Anhang 3 der Verordnung des EDI über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen.

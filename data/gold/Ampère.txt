@@ -1,0 +1,27 @@
+Ampere ist die Maßeinheit für die elektrische Stromstärke.
+Die Einheit ist nach dem französischen Mathematiker und Physiker Andre-Marie Ampere benannt.
+Es gibt noch eine andere wichtige Maßeinheit, und zwar für die elektrische Spannung, nämlich Volt.
+Auch diese Einheit ist nach einer Person benannt worden: dem italienischen Physiker Alessandro Volta.
+Damit elektrischer Strom fließen kann, sind mehrere Dinge nötig:
+Man braucht Teilchen, die elektrisch geladen sind.
+Das können Elektronen sein.
+Außerdem müssen sich diese geladenen Teilchen frei bewegen können.
+Das können sie zum Beispiel gut in Kabeln aus Kupfer.
+Und schließlich braucht man noch etwas, was die Teilchen anzieht oder abstößt, wie zum Beispiel der Pluspol oder Minuspol einer Batterie.
+Wenn sich die Teilchen dann alle in eine Richtung bewegen sagt man:
+Es fließt ein elektrischer Strom.
+Es gibt außer Ampere und Volt noch weitere elektrische Maßeinheiten.
+Viele sind nach Wissenschaftlern benannt, die sich mit der Elektrizität beschäftigt haben.
+Strom kann man sich gut vorstellen durch einen Vergleich mit Wasser in einem Bach.
+Wasser fließt immer bergab.
+Ist das Gelände recht eben, dann hat das Wasser kaum Antrieb, um zu fließen.
+Es fließt wenig Wasser in einer bestimmten Zeit durch den Bach, die Strömung ist schwach.
+Ist das Gelände aber sehr steil, dann gibt es einen starken Antrieb und es fließt sehr viel Wasser in derselben Zeit.
+Die Strömung ist stärker.
+Die elektrische Stromstärke ist ein Maß für den Durchfluss an geladenen Teilchen:
+Ist zum Beispiel die Stromstärke 2 Ampere, dann fließen in einer Sekunde doppelt so viele Elektronen durch das Kabel wie bei 1 Ampere.
+Der Strom ist doppelt so stark.
+Der Antrieb, der den elektrischen Strom zum Fließen bringt, wird elektrische Spannung genannt.
+Im Vergleich mit dem Wasser ist das das Gefälle des Geländes.
+Wird ein Lämpchen zum Beispiel an eine Spannung von 6 Volt angeschlossen, so fließen doppelt so viele Elektronen als wenn es nur 3 Volt sind.
+Die Stromstärke wird durch den stärkeren "Antrieb" also auch höher und das Lämpchen leuchtet heller.

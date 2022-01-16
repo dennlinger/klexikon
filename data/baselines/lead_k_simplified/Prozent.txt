@@ -1,0 +1,6 @@
+Zahlenangaben in Prozent sollen Größenverhältnisse veranschaulichen und vergleichbar machen, indem die Größen zu einem einheitlichen Grundwert ins Verhältnis gesetzt werden.
+Daher wird das Prozent auch als Hilfsmaßeinheit für Verhältnisgrößen verwendet.
+Vor allem ältere Gesetzestexte verwenden den Ausdruck "vom Hundert" ; das DIN empfiehlt jedoch, diesen Ausdruck zu vermeiden.
+Prozentangaben werden durch das Prozentzeichen % kenntlich gemacht .
+Laut DIN 5008 wird dabei zwischen der Zahl und dem Prozentzeichen ein Leerzeichen gesetzt.
+Die Prozentrechnung kann dann als Bruchrechnung oder im Dezimalsystem durchgeführt werden.

@@ -1,0 +1,301 @@
+Eine Primzahl (von lateinisch numerus primus ,erste Zahl') ist eine natürliche Zahl, die größer als 1 und ausschließlich durch sich selbst und durch 1 teilbar ist.
+Dabei bedeutet primus speziell "Anfang, das Erste (der Dinge)", sodass eine "Anfangszahl" gemeint ist, die aus keiner anderen (vorhergehenden) Zahl multiplikativ konstruiert werden kann.
+
+Die Menge der Primzahlen wird in der Regel mit dem Symbol P {\displaystyle \mathbb {P} } bezeichnet.
+Mit P {\displaystyle \mathbb {P} } verknüpft ist die Folge ( p n ) n  N {\displaystyle \left(p_{n}\right)_{n\in \mathbb {N} }} der nach ihrer Größe geordneten Primzahlen, die man auch Primzahlfolge nennt.
+Es ist demnach
+
+mit
+
+Die Bedeutung der Primzahlen P {\displaystyle \mathbb {P} } für viele Bereiche der Mathematik beruht auf drei Folgerungen aus ihrer Definition:
+
+Diese Eigenschaften werden in der Algebra für Verallgemeinerungen des Primzahlbegriffs genutzt.
+
+Eine Zahl, die das Produkt von zwei oder mehr Primfaktoren ist, nennt man zusammengesetzt.
+Die Zahl 1 ist weder prim noch zusammengesetzt, was mit ihrer Invertierbarkeit zusammenhängt.
+Alle anderen natürlichen Zahlen sind eines von beiden, entweder prim (also Primzahl) oder zusammengesetzt.
+
+Schon im antiken Griechenland interessierte man sich für die Primzahlen und entdeckte einige ihrer Eigenschaften.
+Obwohl Primzahlen seit damals stets einen großen Reiz auf die Menschen ausübten, sind viele die Primzahlen betreffenden Fragen bis heute ungeklärt, darunter solche, die mehr als hundert Jahre alt und leicht verständlich formulierbar sind.
+Dazu gehören die Goldbachsche Vermutung, wonach außer 2 jede gerade Zahl als Summe zweier Primzahlen darstellbar ist, und die Vermutung, dass es unendlich viele Primzahlzwillinge gibt (das sind Paare von Primzahlen, deren Differenz gleich 2 ist).
+
+Primzahlen und ihre Eigenschaften spielen in der Kryptographie eine große Rolle, weil Primfaktoren auch mit dem Aufkommen elektronischer Rechenmaschinen nicht wirklich effizient gefunden werden können.
+Andererseits ermöglichen diese Maschinen eine effiziente Verschlüsselung sowie, wenn man den Schlüssel kennt, Entschlüsselung auch langer Texte.
+
+== Eigenschaften von Primzahlen
+
+Die Primzahlen sind innerhalb der Menge N {\displaystyle \mathbb {N} } der natürlichen Zahlen dadurch charakterisiert, dass jede von ihnen genau zwei natürliche Zahlen als Teiler hat.
+
+Mit Ausnahme der Zahl 2 sind alle Primzahlen p {\displaystyle p} ungerade, denn alle größeren geraden Zahlen lassen sich außer durch sich selbst und 1 auch noch (mindestens) durch 2 teilen.
+Damit hat jede Primzahl außer 2 die Form 2 k + 1 {\displaystyle 2k+1} mit einer natürlichen Zahl k {\displaystyle k} .
+
+Jede Primzahl p  2 {\displaystyle p\neq 2 } lässt sich einer der beiden Klassen "Primzahl der Form 4 k + 1 {\displaystyle 4k+1} " oder "Primzahl der Form 4 k + 3 {\displaystyle 4k+3} " zuordnen, wobei k {\displaystyle k} eine natürliche Zahl ist.
+Jede Primzahl p  3 {\displaystyle p\neq 3 } lässt sich zudem einer der beiden Klassen "Primzahl der Form 3 k + 1 {\displaystyle 3k+1} " oder "Primzahl der Form 3 k + 2 {\displaystyle 3k+2} " zuordnen, wobei k {\displaystyle k} eine natürliche Zahl ist.
+Darüber hinaus hat jede Primzahl p > 3 {\displaystyle p>3} die Form p = 6 k + 1 {\displaystyle p=6k+1} oder p = 6 k - 1 {\displaystyle p=6k-1 } , wobei k {\displaystyle k} eine natürliche Zahl ist.
+Nach dem dirichletschen Primzahlsatz gibt es in jeder dieser Klassen unendlich viele Primzahlen.
+
+Jede natürliche Zahl der Form 4 m + 3 {\displaystyle 4m+3 } mit einer nichtnegativen ganzen Zahl m {\displaystyle m} enthält mindestens einen Primfaktor der Form 4 k + 3 {\displaystyle 4k+3} .
+Eine entsprechende Aussage über Zahlen der Form 4 m + 1 {\displaystyle 4m+1} oder Primfaktoren der Form 4 k + 1 {\displaystyle 4k+1} ist nicht möglich.
+
+Eine Primzahl p > 2 {\displaystyle p>2 } lässt sich genau dann in der Form a 2 + b 2 {\displaystyle a^{2}+b^{2}} mit ganzen Zahlen a , b {\displaystyle a,b} schreiben, wenn p {\displaystyle p} die Form 4 k + 1 {\displaystyle 4k+1} hat.
+In diesem Fall ist die Darstellung im Wesentlichen eindeutig, d. h. bis auf Reihenfolge und Vorzeichen von a , b {\displaystyle a,b} .
+Diese Darstellung entspricht der Primfaktorzerlegung
+
+im Ring der ganzen gaußschen Zahlen.
+
+Die Zahl -1 ist ein quadratischer Rest modulo jeder Primzahl der Form 4 k + 1 {\displaystyle 4k+1} und quadratischer Nichtrest modulo jeder Primzahl der Form 4 k + 3 {\displaystyle 4k+3} .
+
+Eine Primzahl p > 3 {\displaystyle p>3} lässt sich zudem genau dann eindeutig in der Form a 2 + 3 b 2 {\displaystyle a^{2}+3b^{2} } mit ganzen Zahlen a , b {\displaystyle a,b} schreiben, wenn p {\displaystyle p} die Form 3 k + 1 {\displaystyle 3k+1} hat.
+
+=== Der kleine Satz von Fermat
+
+Es sei p {\displaystyle p} eine Primzahl.
+Für jede ganze Zahl a {\displaystyle a} , die nicht durch p {\displaystyle p} teilbar ist, gilt (für die Notation siehe Kongruenz):
+
+Für nicht durch p {\displaystyle p } teilbare Zahlen a {\displaystyle a} ist die folgende Formulierung äquivalent:
+
+Es gibt Zahlen n {\displaystyle n} , die keine Primzahlen sind, sich aber dennoch zu einer Basis a {\displaystyle a} wie Primzahlen verhalten, d. h., es ist a n - 1  1 mod n { \displaystyle a^{n-1}\equiv 1{\bmod {n} }} .
+Solche n {\displaystyle n} nennt man fermatsche Pseudoprimzahlen zur Basis a {\displaystyle a} .
+Ein n {\displaystyle n} , das Fermatsche Pseudoprimzahl bezüglich aller zu ihm teilerfremden Basen a {\displaystyle a} ist, nennt man Carmichael-Zahl.
+
+In diesem Zusammenhang zeigt sich die Problematik Fermatscher Pseudoprimzahlen:
+sie werden von einem Primzahltest, der den kleinen Satz von Fermat nutzt (Fermatscher Primzahltest), fälschlicherweise für Primzahlen gehalten.
+Wenn allerdings ein Verschlüsselungsverfahren wie RSA eine zusammengesetzte Zahl statt einer Primzahl verwendet, ist die Verschlüsselung nicht mehr sicher.
+Deshalb müssen bei solchen Verfahren bessere Primzahltests verwendet werden.
+
+=== Euler und das Legendre-Symbol
+
+Eine einfache Folge aus dem kleinen Satz von Fermat ist die folgende Aussage:
+Für jede ungerade Primzahl p {\displaystyle p} und jede ganze Zahl a {\displaystyle a} , die nicht durch p {\displaystyle p} teilbar ist, gilt entweder
+
+oder
+
+Man kann zeigen, dass der erste Fall genau dann eintritt, wenn es eine Quadratzahl m 2 {\displaystyle m^{2}} gibt, die kongruent zu a {\displaystyle a} modulo p {\displaystyle p} ist, siehe Legendre-Symbol.
+
+=== Binomialkoeffizient
+
+Für Primzahlen p {\displaystyle p} und 1  k < p {\displaystyle 1\leq k<p} gilt
+
+zusammen mit dem binomischen Satz folgt daraus
+
+Für ganze Zahlen a , b {\displaystyle a,b } folgt diese Aussage auch direkt aus dem kleinen Fermatschen Satz, aber sie ist beispielsweise auch für Polynome mit ganzzahligen Koeffizienten anwendbar; im allgemeinen Kontext entspricht sie der Tatsache, dass die Abbildung x  x p {\displaystyle x\mapsto x^{p} } in Ringen der Charakteristik p { \displaystyle p} ein Homomorphismus ist, der sogenannte Frobenius-Homomorphismus.
+
+Aus dem Satz von Wilson ( p {\displaystyle p} ist genau dann eine Primzahl, wenn ( p - 1 ) !
+ - 1 ( mod p ) {\displaystyle (p-1)!\equiv -1{\pmod {p} }} ist) folgt, dass für jede Primzahl p {\displaystyle p } und jede natürliche Zahl n {\displaystyle n} die Kongruenz
+
+erfüllt ist.
+
+Charles Babbage bewies 1819, dass für jede Primzahl p > 2 {\displaystyle p>2 } diese Kongruenz gilt:
+
+Der Mathematiker Joseph Wolstenholme (1829-1891) bewies dann 1862, dass für jede Primzahl p > 3 {\displaystyle p>3 } die folgende Kongruenz gilt:
+
+=== Giuga
+
+Aus dem kleinen Satz von Fermat folgt, dass für eine Primzahl p {\displaystyle p} gilt:
+
+Beispiel p = 5 {\displaystyle p=5} :
+
+Giuseppe Giuga vermutete, dass auch die umgekehrte Schlussrichtung gilt, dass also eine Zahl mit dieser Eigenschaft stets prim ist.
+Es ist nicht geklärt, ob diese Vermutung richtig ist.
+Bekannt ist aber, dass ein Gegenbeispiel mehr als 10.000 Dezimalstellen haben müsste.
+Im Zusammenhang mit Giugas Vermutung werden die Giuga-Zahlen untersucht.
+
+=== Lineare Rekursionen
+
+Den kleinen Fermatschen Satz kann man auch in der Form lesen:
+In der Folge a n - a {\displaystyle a^{n}-a} ist das p {\displaystyle p} -te Folgenglied für eine Primzahl p {\displaystyle p} stets durch p {\displaystyle p} teilbar.
+Ähnliche Eigenschaften besitzen auch andere Folgen von exponentiellem Charakter, wie die Lucas-Folge ( p  L p - 1 {\displaystyle p\mid L_{p}-1} ) und die Perrin-Folge ( p  P p {\displaystyle p\mid P_{p}} ).
+Für andere lineare Rekursionen gelten analoge, aber kompliziertere Aussagen, beispielsweise für die Fibonacci-Folge ( f n ) n = 0 , 1 , 2 , ... = 0 , 1 , 1 , 2 , 3 , 5 , ... {\displaystyle (f_{n})_{n=0,1,2,\dotsc }=0,1,1,2,3,5,\dotsc } :
+Ist p {\displaystyle p} eine Primzahl, so ist f p - ( p 5 ) {\displaystyle f_{p}-{\Big (}{\frac {p}{5}}{\Big )} } durch p {\displaystyle p} teilbar; dabei ist
+
+das Legendre-Symbol.
+
+=== Divergenz der Summe der Kehrwerte
+
+Die Reihe der Kehrwerte der Primzahlen ist divergent.
+Somit gilt:
+
+Das ist gleichbedeutend mit der Aussage, dass die durch a n =  i = 1 n 1 p i {\displaystyle \textstyle a_{n}=\sum _{i=1}^{n}{\frac {1}{p_{i}}}} definierte Folge keinen endlichen Grenzwert besitzt, was wiederum bedeutet, dass sich für ein genügend groß gewähltes n {\displaystyle n} jede erdenkliche reelle Zahl übertreffen lässt.
+Dies ist zunächst einmal verblüffend, da die Primzahllücken im Schnitt immer weiter zunehmen.
+Der Satz von Mertens trifft eine Aussage über das genaue Wachstumsverhalten dieser divergenten Reihe.
+
+== Primzahltests
+
+Ob eine beliebige natürliche Zahl prim ist, kann mit einem Primzahltest herausgefunden werden.
+Es gibt mehrere solcher Verfahren, die sich auf besondere Eigenschaften von Primzahlen stützen.
+In der Praxis wird der Miller-Rabin-Test am häufigsten verwendet, der eine extrem kurze Laufzeit hat, allerdings mit kleiner Wahrscheinlichkeit falsch-positive Ergebnisse liefert.
+Mit dem AKS-Primzahltest ist es möglich, über die Primalität ohne Gefahr eines Irrtums in polynomieller Laufzeit zu entscheiden.
+Allerdings ist er in der Praxis deutlich langsamer als der Miller-Rabin-Test.
+
+== Primzahlzertifikat
+
+Herauszufinden, ob eine natürliche Zahl prim ist oder nicht, kann sehr aufwändig sein.
+Zu jeder Primzahl lässt sich aber eine Kette von Behauptungen angeben, die alle unmittelbar nachvollziehbar sind, zusammen die Primalität belegen und deren Gesamtlänge höchstens proportional ist zum Quadrat der Länge der Primzahl.
+Ein solcher Beleg wird Zertifikat (engl. primality certificate) genannt.
+
+Bei der Zusammengesetztheit (Nichtprimalität) einer Zahl ist der Unterschied zwischen Beleg und Finden eines Belegs noch augenfälliger:
+Als Beleg genügen zwei Faktoren, deren Produkt die zusammengesetzte Zahl ergibt; das Finden eines echten Teilers kann aber sehr viel Aufwand bedeuten.
+
+== Größte bekannte Primzahl
+
+Der Grieche Euklid hat im vierten Jahrhundert vor Christus logisch geschlussfolgert, dass es unendlich viele Primzahlen gibt; diese Aussage wird als Satz von Euklid bezeichnet.
+Euklid führte einen Widerspruchsbeweis für die Richtigkeit dieses Satzes (Elemente, Buch IX, § 20):
+Ausgehend von der Annahme, dass es nur endlich viele Primzahlen gibt, lässt sich eine weitere Zahl konstruieren, die eine bisher nicht bekannte Primzahl als Teiler hat oder selbst eine Primzahl ist, was einen Widerspruch zur Annahme darstellt.
+Somit kann eine endliche Menge niemals alle Primzahlen enthalten, also gibt es unendlich viele.
+Heute kennt man eine ganze Reihe von Beweisen für den Satz von Euklid.
+
+Der Satz von Euklid besagt, dass es keine größte Primzahl gibt.
+Es ist jedoch kein Verfahren bekannt, das effizient beliebig große Primzahlen generiert - deshalb gab es stets eine jeweils größte bekannte Primzahl, seitdem sich die Menschen mit Primzahlen befassen.
+Derzeit (Stand: Dezember 2018) ist es 2 82.589.933 - 1 , {\displaystyle 2^{82.589.933}-1,} eine Zahl mit 24.862.048 (dezimalen) Stellen, die am 7. Dezember 2018 berechnet wurde.
+Für den Entdecker Patrick Laroche gab es für den Fund 3.000 US-Dollar vom Projekt Great Internet Mersenne Prime Search, das Mersenne-Primzahlen mittels verteiltem Rechnen sucht.
+
+Die größte bekannte Primzahl war fast immer eine Mersenne-Primzahl, also von der Form 2 n - 1 , {\displaystyle 2^{n}-1,} da in diesem Spezialfall der Lucas-Lehmer-Test angewendet werden kann, ein im Vergleich zur allgemeinen Situation sehr schneller Primzahltest.
+Bei der Suche nach großen Primzahlen werden deshalb nur Zahlen dieses oder eines ähnlich geeigneten Typs auf Primalität untersucht.
+
+== Liste der Rekordprimzahlen nach Jahren
+
+== Verteilung und Wachstum
+
+=== Pi-Funktion und Primzahlsatz
+
+Zur Untersuchung der Verteilung der Primzahlen betrachtet man unter anderem die Funktion
+
+die die Anzahl der Primzahlen  n {\displaystyle \leq n} angibt und auch Primzahlzählfunktion genannt wird.
+Zum Beispiel ist
+
+Diese Funktion und ihr Wachstumsverhalten ist ein beliebter Forschungsgegenstand in der Zahlentheorie.
+Mit der Zeit wurden einige Näherungsformeln entwickelt und verbessert.
+
+Der Primzahlsatz besagt, dass
+
+gilt, das heißt, dass der Quotient von linker und rechter Seite für x =  {\displaystyle x\to \infty } gegen 1 strebt:
+
+Der dirichletsche Primzahlsatz dagegen schränkt die Betrachtung auf Restklassen ein:
+Es sei m {\displaystyle m} eine natürliche Zahl.
+Ist a {\displaystyle a} eine ganze Zahl, die zu m {\displaystyle m} nicht teilerfremd ist, so kann die arithmetische Folge
+
+höchstens eine Primzahl enthalten, weil alle Folgenglieder durch den größten gemeinsamen Teiler von a {\displaystyle a} und m {\displaystyle m} teilbar sind.
+Ist a {\displaystyle a} aber teilerfremd zu m {\displaystyle m} , so besagt der Dirichletsche Primzahlsatz, dass die Folge unendlich viele Primzahlen enthält.
+Beispielsweise gibt es unendlich viele Primzahlen der Form 4 k + 1 {\displaystyle 4k+1} und unendlich viele der Form 4 k + 3 {\displaystyle 4k+3} ( k {\displaystyle k } durchläuft jeweils die nichtnegativen natürlichen Zahlen).
+
+Diese Aussage kann noch in der folgenden Form präzisiert werden:
+Es gilt
+
+dabei ist  ( m ) {\displaystyle \varphi (m) } die eulersche Phi-Funktion.
+In diesem Sinne liegen also für ein festes m {\displaystyle m} in den Restklassen a + m Z {\displaystyle a+m\mathbb {Z} } mit g g T ( a , m ) = 1 {\displaystyle \mathrm {ggT} (a,m)=1} jeweils "gleich viele" Primzahlen.
+
+=== Schranken
+
+Die (bewiesene) Bonsesche Ungleichung garantiert, dass das Quadrat einer Primzahl kleiner ist als das Produkt aller kleineren Primzahlen (ab der fünften Primzahl).
+
+Nach der (unbewiesenen) Andricaschen Vermutung ist die Differenz der Wurzeln der n {\displaystyle n} -ten und der ( n + 1 ) {\displaystyle (n+1)} -ten Primzahl kleiner als 1.
+
+=== Primzahllücken
+
+Die Differenz zwischen zwei benachbarten Primzahlen heißt Primzahllücke.
+Diese Differenz schwankt, und es gibt Primzahllücken beliebiger Größe.
+Es gibt aber auch Beschränkungen für die Lückengröße in Abhängigkeit von ihrer Lage:
+
+Der Satz von Bertrand sichert die Existenz einer Primzahl zwischen jeder natürlichen Zahl n {\displaystyle n} und ihrem Doppelten 2 n {\displaystyle 2n} .
+
+Nach der (unbewiesenen) Legendreschen Vermutung gibt es stets mindestens eine Primzahl zwischen n 2 {\displaystyle n^{2 } } und ( n + 1 ) 2 {\displaystyle (n+1)^{2}} .
+
+=== Abschätzungen zu Primzahlen und Folgerungen aus dem Primzahlsatz
+
+Im Folgenden sei die Folge der Primzahlen mit ( p n ) n  N {\displaystyle (p_{n})_{n\in \mathbb {N} }} bezeichnet.
+
+==== Abschätzungen
+
+Für Indizes n  N {\displaystyle n\in \mathbb {N} } gelten folgende Abschätzungen:
+
+==== Folgerungen aus dem Primzahlsatz
+
+Mit dem Primzahlsatz ergeben sich folgende Resultate:
+
+Für jede positive reelle Zahl x {\displaystyle x} existiert eine Folge ( q n ) n  N {\displaystyle (q_{n})_{n\in \mathbb {N} }} von Primzahlen mit
+
+Die Menge der aus allen Primzahlen gebildeten Quotienten ist eine dichte Teilmenge der Menge aller positiven reellen Zahlen.
+D. h.:
+Für beliebige positive reelle Zahlen a , b {\displaystyle a,b} mit 0 < a < b {\displaystyle 0<a<b} existieren stets Primzahlen p , q {\displaystyle p,q} , sodass
+
+erfüllt ist.
+
+== Generierung von Primzahlen
+
+Einer der ältesten Algorithmen zur Bestimmung von Primzahlen ist das Sieb des Eratosthenes.
+Bis heute ist kein effizienter Primzahlgenerator bekannt.
+Es gibt allerdings Formeln, bei denen eine gewisse Wahrscheinlichkeit besteht, dass die erzeugten Zahlen prim sind.
+Solche Zahlen müssen nachträglich noch auf ihre Primalität getestet werden.
+
+== Spezielle Primzahlen und Primzahlkonstellationen
+
+Weitere spezielle Arten von Primzahlen finden sich in der Kategorie:Primzahl.
+
+== Verallgemeinerung
+
+In der Ringtheorie wird das Konzept der Primzahl auf die Elemente eines beliebigen kommutativen unitären Rings verallgemeinert.
+Die entsprechenden Begriffe sind Primelement und irreduzibles Element.
+
+Die Primzahlen und deren Negative sind dann genau die Primelemente und auch genau die irreduziblen Elemente des Rings der ganzen Zahlen.
+In faktoriellen Ringen, das sind Ringe mit eindeutiger Primfaktorisierung, fallen die Begriffe Primelement und irreduzibles Element zusammen; im Allgemeinen ist die Menge der Primelemente jedoch nur eine Teilmenge der Menge der irreduziblen Elemente.
+
+Insbesondere im zahlentheoretisch bedeutsamen Fall der Dedekindringe übernehmen Primideale die Rolle der Primzahlen.
+
+== Primfaktorzerlegung
+
+Es gilt der Fundamentalsatz der Arithmetik:
+Jede positive ganze Zahl lässt sich als Produkt von Primzahlen darstellen, und diese Darstellung ist bis auf die Reihenfolge der Primzahlen eindeutig.
+Diese Primzahlen nennt man die Primfaktoren der Zahl.
+Die Eins wird dabei als leeres Produkt dargestellt.
+
+Weil sich jede natürliche Zahl größer null durch Multiplikation von Primzahlen eindeutig darstellen lässt, nehmen die Primzahlen eine besondere atomare Stellung in der Mathematik ein, sie "erzeugen" gewissermaßen alle anderen natürlichen Zahlen.
+Alexander K. Dewdney bezeichnete sie als den Elementen der Chemie weitgehend ähnlich.
+
+Daraus wird auch klar, warum es unzweckmäßig ist, die Eins als Primzahl zu definieren:
+Sie ist das neutrale Element der Multiplikation und kann somit multiplikativ keine weiteren Zahlen erzeugen.
+Sie wird für die Darstellung der Zahlen als Produkt von Primfaktoren nicht benötigt.
+Würde man die 1 zu den Primzahlen zählen, verlöre sich darüber hinaus die Eindeutigkeit der Primfaktorzerlegung, weil man an jede Zerlegung beliebig viele Einsen anhängen kann, ohne den Wert der Zahl zu ändern.
+
+Man hat eine Reihe von Faktorisierungsverfahren entwickelt, um die Primfaktoren von allgemeinen Zahlen oder auch solchen von spezieller Form möglichst schnell zu bestimmen.
+Man kennt aber bisher keine Methode, um beliebige Zahlen effizient zu faktorisieren, d. h. in einer Zeit, die höchstens polynomiell mit der Länge der gegebenen Zahl wächst.
+Die Faktorisierungsannahme besagt, dass es eine solche Methode auch nicht gibt.
+
+== Primzahlen in der Informatik
+
+Bei der Informationssicherheit und insbesondere bei der Verschlüsselung von Nachrichten (siehe Kryptographie) spielen Primzahlen eine wichtige Rolle.
+Sie werden oft in asymmetrischen Kryptosystemen wie etwa Public-Key-Verschlüsselungsverfahren eingesetzt.
+Wichtige Beispiele sind der Diffie-Hellman-Schlüsselaustausch, das RSA-Kryptosystem, das unter anderem bei OpenPGP zum Einsatz kommt, das Elgamal-Kryptosystem und das Rabin-Kryptosystem.
+Dabei werden die Schlüssel aus großen, zufällig erzeugten Primzahlen berechnet, die geheim bleiben müssen.
+
+Solche Algorithmen basieren auf Einwegfunktionen, die schnell ausführbar sind, deren Umkehrung aber mit der aktuell bekannten Technologie praktisch unmöglich zu berechnen ist.
+Neue Informationstechnologien, zum Beispiel Quantencomputer, könnten das aber ändern.
+Das ungelöste P-NP-Problem steht damit in Zusammenhang.
+
+== Primzahlen in der Natur
+
+Manche Tier- und Pflanzenarten (z. B. bestimmte Zikaden oder Fichten) vermehren sich in Zyklen von Primzahlen (etwa alle 11, 13 oder 17 Jahre) besonders stark, um es Fressfeinden zu erschweren, sich auf das massenhafte Auftreten einzustellen.
+
+== Warum 1 keine Primzahl ist
+
+Seit hunderten von Jahren diskutieren Mathematiker, ob die Zahl n = 1 {\displaystyle n=1} eine Primzahl ist oder nicht.
+Der bedeutende Mathematiker Godfrey Harold Hardy bezeichnete zum Beispiel noch im Jahr 1908 die Zahl 1 als Primzahl, aber spätestens im Jahr 1929 nicht mehr.
+Generell gilt seit dem 20. Jahrhundert unter den allermeisten Mathematikern die Übereinkunft, die Zahl 1 nicht zu den Primzahlen zu zählen.
+
+Das Argument dafür, dass 1 eine Primzahl ist, ist das folgende:
+
+Argumente dagegen, dass also 1 keine Primzahl ist, sind die folgenden:
+
+Es gibt noch weitere mathematische Sätze über Primzahlen, die man ebenfalls umformulieren müsste, wäre die Zahl n = 1 {\displaystyle n=1} eine Primzahl.
+
+Die Beispiele zeigen, dass man die Menge der Primzahlen ohne eine 1 dringend braucht - dringender als den Begriff der die 1 einschließenden Primzahlen.
+Da es bei Definitionen immer Freiheitsgrade gibt, hat man um der Ökonomie der Begriffe willen sich dafür entschieden, (neben der 0) die 1 (und etwas allgemeiner alle Einheiten) von den Primzahlen (resp.
+Primelementen) auszuschließen.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

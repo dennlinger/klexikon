@@ -1,0 +1,87 @@
+Ein Sechseck oder Hexagon (von griech.
+a, hexa, "sechs" und via, gonia, "Winkel; Ecke") ist ein Polygon (Vieleck), bestehend aus sechs Ecken und sechs Seiten.
+Sind alle sechs Seiten gleich lang, spricht man von einem gleichseitigen Sechseck.
+Sind darüber hinaus alle Winkel an den sechs Ecken gleich groß, dann wird das Sechseck regulär oder regelmäßig genannt.
+
+== Mathematische Zusammenhänge
+
+Die zugrundeliegenden Zusammenhänge des regulären Sechsecks beschrieb erstmals Euklid in seinem 15. mathematischen Satz des 4. Buchs Die Elemente.
+Werden die gegenüberliegenden Ecken des Sechsecks miteinander verbunden, ergeben sich sechs gleichseitige Dreiecke.
+Werden dagegen alle nicht gegenüberliegenden Ecken miteinander verbunden, so erhält man ein Hexagramm.
+
+== Formeln
+
+== Konstruktion bei gegebenem Umkreis
+
+Ein reguläres Sechseck lässt sich als Konstruktion mit Zirkel und Lineal sehr einfach aus einem Kreis darstellen, indem der Radius des Kreises sechsmal auf dem Kreisrand abgetragen wird (siehe Konstruktion 1).
+Die erhaltenen Punkte sind die Ecken des Sechsecks.
+Alternativ genügt nach Euklid das zweimalige Abtragen auf dem Kreisrand.
+Die fehlenden Ecken können dann über die Geraden durch den Mittelpunkt des Umkreises und die bereits bekannten Ecken konstruiert werden (siehe Konstruktion 2 nach Euklid, als animierte Grafik).
+
+== Konstruktion bei gegebener Seitenlänge
+
+Ein reguläres Sechseck lässt sich ebenfalls konstruieren, wenn eine vorhandene Strecke als Seitenlänge verwendet werden soll.
+
+== Näherungsweise Konstruktion
+
+Eine für praktische Zwecke oft ausreichende Annäherung an ein reguläres Sechseck erhält man, wenn man das Hexagon aus annähernd gleichseitigen Dreiecken konstruiert, welche ein Verhältnis Höhe zu Grundseite von 7:8 haben.
+Diese Annäherung findet dort Anwendung, wo ein Fehler von knapp 1 % toleriert werden kann.
+So können zum Beispiel Karten oder Spielfelder in leicht zu zeichnende und leicht zu berechnende Sektoren eingeteilt werden.
+
+Die Punkte Pi (x|y) sind im Folgenden nach den Ziffern einer Uhr nummeriert, das Zentrum ist (0|0):
+
+Eine bessere Annäherung erhält man, wenn man bei den obigen Koordinaten die Zahlen 4, 7 und 8 durch 15, 26 bzw. 30 ersetzt.
+Weitere mögliche Tripel sind (56, 97, 112) oder (209, 362, 418).
+Bei allen diesen Tripeln weichen die aus den entsprechenden Seitenlängen gebildeten Dreiecke nur sehr wenig von einem rechtwinkligen Dreieck mit den spitzen Winkeln 30° und 60° ab.
+Weitere solche Dreiecke findet man iterativ, indem man aus den "Katheten" a {\displaystyle a} und b {\displaystyle b} (mit a < b {\displaystyle a<b} ) eines schon bekannten solchen Dreiecks die neuen Katheten 2 a + b , 3 a + 2 b {\displaystyle 2a+b,3a+2b} bildet.
+Die "Hypotenuse" ist wegen der 30°-Eigenschaft stets das Doppelte der kurzen Kathete.
+
+== Sechseckige Parkettierungen
+
+Das reguläre Sechseck ist neben dem gleichseitigen Dreieck und der Raute (mit dem Quadrat als Spezialfall) das einzige gleichseitige Polygon, mit dem eine Ebene lückenlos parkettiert werden kann.
+Anders als bei der Parkettierung mit Dreiecken oder Rauten hat das einzelne Polygon in einer hexagonalen Parkettierung nur Nachbarn, die über vollständige Kanten verbunden sind, aber keine, die nur über Ecken oder Kantenteile verbunden sind.
+Der Abstand der Mittelpunkte zweier direkt benachbarter Sechsecke beträgt
+
+Die Möglichkeit zur Bildung sechseckiger Parkettierungen ist eine Ursache dafür, dass Sechsecke deutlich häufiger sind als regelmäßige Fünfecke, Siebenecke und als die höheren Polygone.
+
+Die Zahlen unter den Abbildungen geben an, wie viele Ecken die regelmäßigen Polygone haben, die jeweils an einem Punkt zusammenstoßen.
+Die Innenwinkel ergeben zusammen 360°.
+
+== Polyeder mit regelmäßigen Sechsecken
+
+Einige Polyeder haben regelmäßige Sechsecke als Seitenflächen, zum Beispiel der Tetraederstumpf, der Oktaederstumpf, das Große Rhombenkuboktaeder, der Ikosaederstumpf und das Große Rhombenikosidodekaeder.
+Die genannten Polyeder sind archimedische Körper.
+
+== Vorkommen von Sechsecken und hexagonalen Strukturen
+
+Regelmäßige Sechsecke sind in Kunst, Kultur, Natur und Technik häufig anzutreffen.
+Die folgende Liste zeigt nur einige Beispiele.
+
+=== Natur
+
+=== Kunst und Kultur
+
+In der Architektur, Malerei und Grafik des Judentums und des Christentums liegt bei der Verwendung des Hexagons die Symbolik der Zahl 6 zugrunde, deren Bedeutung sich aus der Summe der ersten drei Zahlen (1+2+3) und deren Zahlensymbolik ergibt.
+Sie und damit das gleichseitige Hexagon symbolisieren in beiden Religionen die Allmacht Gottes.
+Sie stehen aber auch für Gleichgewicht und Harmonie des Göttlichen und Weltlichen, die zudem in der Gleichseitigkeit des Hexagons sowie in dessen Zusammensetzung aus sechs gedachten oder geometrisch sichtbaren gleichseitigen Dreiecken liegen, also auch die Symbolik der Zahl 3 enthalten.
+Die Zahl 6 und das Hexagon können, je nach Zusammenhang, auch Symbol des Sechstagewerks der Schöpfung (1. Buch Mose) sein.
+
+Ein Beispiel aus der christlichen Malerei des Spätmittelalters ist der hexagonale Tisch im "Paradiesgärtlein" des Oberrheinischen Meisters (um 1410; Frankfurt, Städelsches Kunstinstitut):
+Er beherrscht farblich leuchtend in Form und Symbolkraft des Sechsecks das Bild und ist entscheidender Faktor zum Verständnis des Bildes, der auch durch seine Rolle in der Bildkomposition betont wird.
+
+Weitere Beispiele der Verwendung des Hexagons, jedoch nur eingeschränkt von symbolischer Bedeutung:
+
+=== Technik
+
+=== Spiele
+
+Bei vielen Spielen, besonders bei Konfliktsimulationsspielen, besteht der Spielplan aus einem Sechseckraster.
+Dadurch können unter anderem Entfernungen zwischen zwei Feldern einfacher bestimmt werden als bei einem Quadratraster (zum Beispiel einem Schachbrett).
+Als besonders prominent gilt hier das Spiel Die Siedler von Catan, bei dem sowohl das Spielbrett selbst als auch die einzelnen Landschaftsplättchen die Sechseckform aufweisen.
+
+== Siehe auch
+
+== Weblinks
+
+== Anmerkungen und Einzelnachweise
+

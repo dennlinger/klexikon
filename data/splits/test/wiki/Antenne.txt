@@ -1,0 +1,479 @@
+Eine Antenne ist eine technische Anordnung zur Abstrahlung und zum Empfang elektromagnetischer Wellen, oft zur drahtlosen Kommunikation.
+Als Sendeantenne wandelt sie leitungsgebundene elektromagnetische Wellen in Freiraumwellen um, oder umgekehrt als Empfangsantenne die als Freiraumwelle ankommenden elektromagnetischen Wellen zurück in leitungsgebundene elektromagnetische Wellen.
+Wesentlich dafür ist die Transformation des Wellenwiderstandes der Leitung durch die Antennenanordnung in den Wellenwiderstand des Vakuums.
+Dabei entsteht eine elektromagnetische Freiraumwelle erst im Fernfeld.
+Anordnungen für Frequenzen unterhalb der Schumann-Resonanzen von etwa 16 Hz können aufgrund der großen Wellenlänge auf der Erde keine Freiraumwelle erzeugen.
+
+Die Baugröße liegt in der Größenordnung der halben Wellenlänge, bei kurzen Wellenlängen auch ein Vielfaches und bei sehr langen auch einen Bruchteil davon und reicht von mehreren hundert Metern für den Längstwellenbereich bei unter 10 kHz bis hinab zu Bruchteilen von Millimetern für den Höchstfrequenzbereich bei über 1 THz.
+Zur Beeinflussung der Richtwirkung werden oft mehrere Einzelantennen zu einer Gruppenantenne zusammengeführt.
+
+== Geschichte
+
+Antennen aus gestreckten Drähten gehen zurück auf den Physiker Heinrich Hertz, der mit seinen Versuchen die theoretischen Vorhersagen des Physikers James Clerk Maxwell aus dem Jahr 1865 überprüfen wollte.
+Am 11. November 1886 gelang ihm der erste experimentelle Nachweis der Übertragung elektromagnetischer Wellen von einem Sender zu einem Empfänger mit Hilfe zweier Hertzscher Dipole.
+Die verwendete Wellenlänge lag mit etwa 2 m im UKW-Bereich.
+Da es für so hohe Frequenzen zunächst keine Nachweisgeräte gab, wurden die nachfolgenden Versuche von anderen Experimentatoren mit elektromagnetischen Wellen durchgeführt, die eine erheblich größere Wellenlänge hatten.
+Die verwendete Wellenlänge - wahrscheinlich einige 100 m - lässt sich kaum ermitteln, weshalb sich die Frage erübrigt, ob die verwendeten Antennen auf Resonanz abgestimmt waren.
+
+Im Jahre 1893 begann Nikola Tesla Experimente mit verschiedenen einfachen Oszillatoren wie Funkenstrecken und konnte Ende 1896 zwischen einer Sendestation in New York und einer 30 Kilometer entfernten Empfangsstation auf zwei Megahertz gute Fernübertragungsergebnisse erzielen.
+Am 2. September 1897 meldete er zwei Patente (Nr. 649.621 und 645.576) zur drahtlosen Energieübertragung an.
+
+Guglielmo Marconi stellte am 10. Mai 1897 sein Verfahren der Öffentlichkeit vor und sendete Signale über den Bristolkanal.
+Im Oktober 1897 betrug die Distanz 15 km.
+Auf Marconi geht auch der Begriff "Antenne" zurück, der gegen Anfang des 20. Jahrhunderts von den meisten europäischen Sprachen übernommen wurde.
+Als antenna bezeichnete er indes zunächst nur Funkempfänger (erstmals 1895), erst in späteren Schriften dann auch Sendeanlagen.
+Das Wort "antenna" bedeutete ursprünglich "Segelstange" (Rah), war aber auch als zoologische Bezeichnung für die Fühler von Insekten, Spinnentieren oder Schnecken in Gebrauch.
+Das Etymologische Wörterbuch der deutschen Sprache hält daher sowohl eine Ableitung von der Form (Stange) als auch von der Funktion (informationsaufnehmendes Instrument) für möglich.
+Der Linguist Jost Trier hat in zwei Fachaufsätzen die These vertreten, dass hier die Analogie zur Zoologie, also zu den mit zahlreichen Rezeptoren ausgestatteten tierischen Fühlern entscheidend war.
+
+Mit einer Drachenantenne in 100 m Höhe überbrückte Marconi 1901 als erster den Atlantik von Irland nach Neufundland.
+Marconi erhielt 1909 neben Ferdinand Braun den Nobelpreis in Physik für die Entwicklung der drahtlosen Telegraphie.
+Nach ihm ist die Marconi-Antenne benannt.
+
+Der Erste Weltkrieg markiert 1914 den eigentlichen Beginn der Antennentechnik.
+Man benutzte zunächst Rahmenantennen als Empfänger, um 1920 folgten Antennenarrays (s. u.), später Hornstrahler und Parabolantennen.
+
+== Prinzip
+
+Ganz allgemein kann man Antennen als Koppelelemente zwischen geführten und ungeführten elektromagnetischen Wellen, d. h. als Wandler zwischen Leitungs- und Freiraumwellen, auffassen.
+Quelle ist immer ein elektrischer oder magnetischer Dipol.
+Durch eine (Raum-)Transformation im Nahbereich, bei der die Richtungen der Felder (innerhalb der Fortpflanzungsgeschwindigkeit) gedreht werden, entsteht im Fernbereich die gelöste Wellenfront einer elektromagnetischen Welle.
+
+Elektromagnetische Wellen bestehen aus polarisierten elektrischen und magnetischen Feldern, die sich durch Kopplung wechselseitig erzeugen und im Vakuum ohne Verluste als Transversalwellen räumlich ausbreiten.
+Bei vorgegebenen Randbedingungen liefern die Maxwellschen Gleichungen eine exakte Beschreibung.
+In der Praxis berechnet man die Abstrahlung der Energie aber durch Näherungsverfahren.
+
+Eine Antenne erzeugt immer sowohl elektrische als auch magnetische Felder.
+Die Grafik erläutert am Beispiel einer resonanten Dipolantenne, wie aus einem Schwingkreis aus Kondensator und Spule (Start der Animation) durch räumliche Erweiterung (ausklappen der Stäbe, bzw. Erzeugung der Raumtransformation durch 90°-Drehung des elektrischen Feldes) eine Antenne entsteht:
+Die Leiterstäbe werden dabei je um +/-90° nach außen gedreht und zwischen den Stäben wirken elektrische Felder (blau gezeichnet); längs der Leiterstäbe wirken magnetische Felder (rot als Kreis gezeichnet).
+Die Felder breiten sich nicht unendlich schnell, sondern mit Lichtgeschwindigkeit aus und innerhalb dieses sog. "Informationsdurchmessers" mit v  c sind die Felder über Ursache und Wirkung gekoppelt (Durchmesser der Kugel: /2).
+Wird die Antenne resonant angeregt, bilden sich geschlossene Feldlinien; das sich ändernde elektrische Feld erzeugt zugehörige magnetische Feldlinien, das sich ändernde magnetische Feld erzeugt zugehörige elektrische Feldlinien.
+Im Nahbereich der Antenne bildet sich ein Blindfeld, d. h., die Ausbreitung der Felder geschieht von der Quelle weg und wieder zurück.
+Das sich ausbreitende Feld verliert am Randbereich die Kopplung an die Antenne, wenn sich die Richtung der Feldvektoren umkehrt.
+Die Felder werden durch die Umkehr abgestoßen und können nicht mehr zurück zur Antenne.
+Eine elektromagnetische Welle wird in den Raum abgestrahlt.
+Außerhalb des "Informationsdurchmessers" (Fernfeld) gibt es keine Kopplung an die Antenne mehr, da die Lichtgeschwindigkeit für die Übertragung von Informationen nicht überschritten werden kann.
+
+Die technische Erzeugung der elektromagnetischen Wellen erfolgt mit einer elektrischen oder einer magnetischen Feldquelle aus einem speisenden Wechselfeld bzw. Wechselstrom.
+Dementsprechend gibt es als elementares Grundelement (d. h. Länge < /10) zur Felderzeugung nur:
+
+Diese werden auch als Grund-Feldelemente bei der numerischen Feldberechnung (Momente-Methode oder Finite-Elemente-Methode) verwendet.
+Alle anderen Antennenformen lassen sich auf diese beiden Grundelemente zurückführen.
+
+Räumlich kann man Antennenformen unterscheiden durch ihre Strahlungslänge in Vielfachen oder Bruchteilen der Wellenlänge  (griechischer Buchstabe Lambda):
+
+Entsprechend der o. a. Grundelemente gibt es:
+
+Im Nahfeld sind jedoch zwischen beiden Antennentypen die Felder reziprok vertauschbar (Babinetsches Prinzip):
+
+Im Nahfeld ist noch Blindleistung im Raum gespeichert.
+Im Fernfeld haben sich elektrisches und magnetisches Feld miteinander verkoppelt (Verhältnis E/H = Z0), d. h., es ist dort nicht mehr rückführbar (bzw. unterscheidbar), ob die Feldquelle elektrisch oder magnetisch war und Wirkleistung wandert mit der Welle.
+
+Grundsätzlich wird nach Erzeugung des Wechselstroms im Sender die Sendeleistung über eine Speiseleitung an das Antennengebilde abgegeben.
+Auf der einen Seite wird durch die Vorgabe der Leitungsimpedanz (E/H-Verhältnis der Leitung ist typisch ca. 50 ) die Sendeendstufe optimiert, d. h., die Ausgangsimpedanz der Sendeendstufe wird, technisch daraus folgend, auf 50  eingestellt (Leitungsanpassung:
+Leitung hat 50  = Ausgangsstufe bekommt 50 , technisch kein Problem).
+Auf der anderen Seite, bei den reinen Antennen sind die Werte (ohne Leitungswandler) ja in etwa physikalisch vorgegeben.
+So wird ein /4-Strahler immer etwa 36  als E/H-Verhältnis haben.
+Die Wirkung einer Antenne, d. h. auch der Wirkungsgrad des gesamten Systems, hängt allerdings direkt von der Einspeisung des Leitungsstromes in das Antennengebilde ab (Einspeisestelle).
+Folglich versucht man dort anzusetzen und den Blindwiderstandsanteil möglichst auf null zu reduzieren (Resonanz) und den Strahlungswiderstand des Antennengebildes möglichst hoch zu machen (hoher Strahlungswiderstand = hohe Raumkopplung).
+Wenn das Anpassverhältnis sehr von 1 abweicht, werden Leitungstransformatoren zur Anpassung eingesetzt, welche immer einige wenige Ohm (Wirbelstrom-)Zusatzverluste haben.
+Beispiel: Kabelimpedanz: Z = 50 , Leitungstransformator: Rv = 2  (Wirbelstromverluste)
+
+Antennen, die deutlich kürzer sind als ein Zehntel der Wellenlänge, haben zwar theoretisch dieselbe Feldankopplung an den Raum wie die längeren Antennen mit /2, nur praktisch sind bei ersteren die Verluste größer.
+
+=== Unterscheidung elektrischer und magnetischer Antenne
+
+Als Bezugspunkt gilt der Feldwellenwiderstand im freien Raum von etwa 377 . Feldquellen mit höherer Impedanz haben ein überwiegend kapazitives Feld und bilden elektrische Antennen, Feldquellen mit niedrigerer Impedanz haben ein überwiegend induktives Feld und bilden reziprok-magnetische Antennen.
+Das Verhältnis der Raumimpedanz zu den 377  bestimmt den Anteil des reziproken Feldes, d. h., eine Feldquelle mit 37,7  hat zu 90 % ein elektrisches Feld und zu 10 % ein magnetisches Feld (elektromagnetische Kopplung, E-Feld neunmal so groß wie H-Feld).
+Dementsprechend empfängt sie zu 90 % elektrische Felder.
+Im Fernfeld sind alle Antennen gleich, weil E- und H-Feld nun wirklich senkrecht zueinander stehen und sich dadurch dort die Feldquellen-Impedanz an den Feldwellenwiderstand angepasst hat.
+Im Nahbereich muss jede Antenne frequenzselektiv sein, da sie als elektrische bzw. magnetische Quelle mit dem Raum einen Resonanzkörper bildet und ein Vektorfeld (Größenordnung eine halbe Wellenlänge) aufbaut.
+Dieses Vektorfeld spannt sich im Fernfeld zum Poynting-Vektor auf, welches sich dort als elektromagnetische Welle koppelt und nun ein Leistungsfeld bildet, bei dem elektrisches und magnetisches Feld phasengleich sind mit dem Amplitudenverhältnis E/H = 377 .
+
+=== Reziprozität
+
+Reziprozität oder Umkehrbarkeit ist gegeben, wenn in einer Anordnung Ursache und Wirkung miteinander vertauscht werden können, ohne dass sich die charakteristischen Verhältnisse ändern.
+Antennen sind theoretisch reziprok, können also mit gleichen charakteristischen Eigenschaften sowohl zum Senden als auch zum Empfangen verwendet werden.
+Das bedeutet, dass einige typische Begriffe für Sendeantennen, zum Beispiel die "Ausleuchtung" oder der "Überstrahlungsfaktor" von Reflektoren, auch für reine Empfangsantennen genutzt werden können, da sie für den Empfangsfall einen vergleichbaren Einfluss haben (wie in diesem Beispiel auf die effektive Antennenwirkfläche der Antenne).
+So wird das aktive Element einer Antenne unabhängig davon, ob es als Sendeantenne oder Empfangsantenne genutzt wird, "Strahler" genannt.
+
+In der Praxis ist die Sendeleistung einer Antenne begrenzt durch den Proximity-Effekt (Extremfall: Funkenüberschläge) sowie durch Nichtlinearitäten der Hilfselemente (Ferrite, Schwingkreise).
+Manche Antennen vertragen nur kleine oder überhaupt keine Sendeleistung (beispielsweise aktive Empfangsantennen).
+Optimierte Empfangsantennen mit Verstärker werden generell anders angepasst als Sendeantennen.
+
+Im Zusammenhang mit breitbandigen Signalen (UWB) ist zu beachten, dass Reziprozität nicht bedeutet, dass ein Empfänger mit einer gleichartigen (Breitband)-Antenne wie der Sender eine getreue Kopie des Sendesignals gewinnt.
+
+In der Praxis gilt die Reziprozität nur begrenzt.
+Eine Antenne, die für den Empfang ausgelegt ist, wird evtl. beschädigt, wenn sie die hohen elektrischen Leistungen einer Sendeanlage abstrahlen soll.
+Als Sendeantennen sind auch solche Empfangsantennen ungeeignet, deren nichtlineare Elemente wie beispielsweise Ferrite nicht entsprechend ausgelegt sind.
+
+Der Reziprozität widerspricht scheinbar, dass unterhalb von etwa 30 MHz der Wirkungsgrad der Empfangsantenne weniger wichtig ist als der der Sendeantenne.
+Ursache sind die Rauschtemperatur der Atmosphäre und Störungen durch elektrische Geräte und Gewitter.
+Diese dominieren auf niedrigen Frequenzen auch bei Empfangsantennen mit sehr schlechtem Wirkungsgrad das Eigenrauschen des Verstärkers.
+Vorteile bieten große Empfangsantennen auf Grund ihrer Richtwirkung, mit der sie Störungen aus anderen Richtungen ausblenden.
+Ein typisches Beispiel für eine reine Empfangsantenne mit sehr schlechtem Wirkungsgrad ist die Beverage-Antenne.
+
+=== Antennenparameter
+
+Antennen werden durch verschiedene Parameter und Begriffe charakterisiert.
+Einige der Begriffe entstehen aus der Theorie durch Vereinfachungen.
+
+Folgende Vereinfachungen sind üblich:
+
+Wenn Reflexionsstellen mit Phasenverschiebungen entstehen (Länge > /4) werden analytische Berechnungen meist zu kompliziert und stattdessen werden Kennwerte durch Simulation (Finite-Elemente-Modelle) bestimmt und durch Messung verifiziert.
+(Verkürzungsfaktor, Strahlungswiderstand, Bandbreite, Nah- bzw. Fernbereich).
+
+==== Polarisation
+
+Antennen strahlen polarisierte Wellen ab.
+Als Polarisationsebene wurde die Richtung des elektrischen Feldvektors gewählt.
+So schwingt bei vertikaler Polarisation der elektrische Feldvektor zwischen oben und unten, bei horizontaler Polarisation zwischen links und rechts.
+Empfangs- und Sendeantenne sollen in ihrer Polarisation übereinstimmen, andernfalls wird die Signalübertragung stark gedämpft.
+
+Das kann mit zirkular polarisierter Strahlung umgangen werden:
+Änderungen der Polarisationsebene wie bei rotierenden Satelliten werden dadurch vermieden, da der elektrische Feldvektor nicht in einer Ebene schwingt, sondern rotiert.
+Zirkular polarisierte Signale kehren ihre Drehrichtung allerdings bei Reflexion um.
+Man erzeugt sie z. B. mit Kreuzdipolen, wobei horizontal und vertikal polarisierte Wellen gleicher Phasenlage überlagert werden.
+Bei 90° Phasenverschiebung zwischen der horizontal und der vertikal polarisierten Welle spricht man von zirkularer Polarisation.
+Je nach Phasenfolge spricht man von rechtszirkularer oder linkszirkularer Polarisation.
+Sind die beiden Komponenten unterschiedlich stark, entsteht eine elliptische Polarisation.
+
+Eine verbreitete Antenne zur Erzeugung zirkular polarisierter Wellen ist die Wendelantenne.
+
+==== Fußpunktwiderstand 
+
+Wenn bei Resonanz der Blindwiderstand jX einer Antenne verschwindet, ist der Fußpunktwiderstand (oder Eingangswiderstand) einer Antenne reellwertig und ergibt sich rechnerisch aus der zugeführten Leistung P und dem Strom I, der an den Anschlussklemmen gemessen werden kann.
+Meist wird er zerlegt in die Summe aus Verlustwiderstand und Strahlungswiderstand.
+
+Der Verlustwiderstand enthält Beiträge wie den ohmschen Widerstand der Leitungsdrähte, zusätzlich den Skin-Effekt des Leiters, Verluste im Anpassnetzwerk und bei einer unsymmetrischen Antenne (wie der Groundplane-Antenne) den Erdungswiderstand (zusammengefasste Verluste der spiegelnden Antennenebene).
+
+Nach Art der verwendeten Kabel nutzt man Antennen mit möglichst passendem Fußpunktwiderstand.
+Daher gilt:
+
+Um den Fußpunktwiderstand der Antenne auf die Impedanz des Kabels anzupassen und so das Stehwellenverhältnis möglichst nahe bei dem Wert 1 zu halten, werden Impedanzwandler oder Resonanztransformatoren eingesetzt.
+
+==== Strahlungswiderstand
+
+Der Strahlungswiderstand R s {\displaystyle R_{\mathrm {s} }} einer Antenne ist eine Größe, die den Zusammenhang zwischen dem Antennenstrom I an den Anschlussklemmen und der abgestrahlten Leistung P  {\displaystyle {\overline {P}}} beschreibt.
+
+Der Strahlungswiderstand ist die wichtigste Kenngröße einer Antenne, da er direkt proportional der Strahlungsleistung ist, d. h. der Größe, welche beim Abstrahlen genutzt wird.
+Als Strahlungswiderstand bezeichnet man den Anteil, der im Raum, d. h. zwischen den Leitungen, den Wirbelstrom induziert (in Luft bzw. Vakuum).
+Gleichzeitig werden im elektrischen Leiter Wirbelströme induziert (sog. Skin-Effekt, mit wesentlich geringerem Wirbeldurchmesser).
+Der Wirbelstrom (mit Poynting-Vektor) außerhalb des Leiters (Strahlungswiderstand) und der innerhalb des Leiters (Skin-Effekt), sind verwandt, allerdings bringt für die Raumabstrahlung nur der Strahlungswiderstand im Vakuum bzw. in der Luft (keine Verluste) einen Nutzen.
+Der Strahlungswiderstand muss somit immer geringer als der Fußpunktwiderstand sein (andere Summenwiderstände) und kann in Sonderfällen theoretisch berechnet werden.
+Ein /2-Dipol, der nicht durch seine Umgebung beeinflusst wird, hat auf seiner Resonanzfrequenz eine Impedanz von 73,2 .
+Eine Groundplane mit unendlich ausgedehnter, ideal leitender Erdungsebene hat halb so viel, also 36,6 .
+Bei einer stark kapazitiv belasteten T-Antenne liegt er bei weniger als 20 .
+
+==== Wirkungsgrad
+
+Bei exakter Anpassung sollte im Idealfall die einer Antenne zugeführte Energie auch vollständig abgestrahlt werden.
+Dieser Idealfall wird nie erreicht:
+Ein Teil der zugeführten Energie wird als Verlustleistung in Wärme umgewandelt.
+Das Verhältnis von abgestrahlter Leistung zur zugeführten Wirkleistung wird als Wirkungsgrad einer Antenne  A {\displaystyle \eta _{\mathrm {A} }} bezeichnet:
+
+Da die Leistungen bei konstantem Speisestrom proportional zu den entsprechenden Widerständen gesetzt werden können, kann für den Resonanzfall ( j X = 0 {\displaystyle jX=0} ) folgende Beziehung gesetzt werden:
+
+Nicht abgestimmte Langdrahtantennen erreichen selten mehr als 1 % Wirkungsgrad.
+Die Parabolantenne liegt meistens über 50 %, der Hornstrahler bei 80 % und mehr.
+
+Der Wirkungsgrad hängt auch davon ab, wie ungestört sich das Fernfeld ausbilden kann:
+
+==== Richtfaktor und Antennengewinn
+
+Keine Antenne strahlt gleichmäßig in alle Richtungen.
+Der Richtfaktor D ist das Verhältnis der in Vorzugsrichtung gemessenen Strahlungsintensität zum Mittelwert über alle Richtungen.
+D = 1 entspricht dem als Bezugsantenne verwendeten nicht realisierbaren Isotropstrahler.
+Der Antennengewinn G verwendet im Nenner statt der mittleren Strahlungsintensität die gespeiste Sendeleistung geteilt durch den vollen Raumwinkel (4).
+Er berücksichtigt also zusätzlich noch den Wirkungsgrad der Antenne: G =  A * D {\displaystyle G=\eta _{\mathrm {A} }\cdot D} .
+Da es einfacher ist, die eingespeiste Energie zu messen, als in allen Richtungen die Strahlungsintensität, wird meist nur der Antennengewinn gemessen und in den Datenblättern kommerzieller Antennen genannt.
+Beide Größen sind relative Zahlenangaben und werden meist in Dezibel angegeben.
+Weil aber unterschiedliche Vergleichsantennen zugrunde liegen können, wird der Antennengewinn entweder in dBd (Bezug: Dipolantenne) oder dBi (Bezug: Isotropstrahler) angegeben.
+
+Das Antennendiagramm einer Antenne stellt die Winkelabhängigkeit der Abstrahlung bzw. der Empfangsempfindlichkeit für eine bestimmte Frequenz und Polarisation grafisch dar.
+Eine verallgemeinerte Form des Antennendiagramms wird auch als Richtcharakteristik bezeichnet.
+Die in der Praxis gemessenen stark ausgefransten und zerklüfteten Antennendiagramme werden hier einer geometrischen oder theoretisch berechneten Grundform angenähert (z. B. eine Achtercharakteristik für den Dipol oder die Cosecans^2-Charakteristik einer Radarantenne).
+
+Siehe auch:
+
+==== Absorptionsfläche (Wirkfläche)
+
+Eine Empfangsantenne entnimmt einer ebenen Welle Energie.
+Die Strahlungsdichte der Welle ist eine Leistung pro Flächeneinheit.
+Der empfangenen Leistung kann eine Fläche zugeordnet werden, die effektive Absorptionsfläche AW oder Wirkfläche.
+Für einen Aperturstrahler (s. u.) ist die Wirkfläche typischerweise etwas kleiner als die geometrische Fläche A.
+So beträgt (bei 100 % Wirkungsgrad, s. o.) die Wirkfläche eines rechteckigen Hornstrahlers mit den Abmessungen a und b
+
+Die Absorptionsfläche eines / 2-Dipols beträgt
+
+Die Wirkfläche ist per definitionem proportional zum Gewinn G:
+
+==== Antennenfaktor, effektive Antennenlänge (bzw. Antennenhöhe bei Vertikalantennen)
+
+Der Antennenfaktor AF einer (als Empfangsantenne verwendeten) Antenne ist das (grundsätzlich frequenzabhängige) Verhältnis der elektrischen Feldstärke E der einfallenden Welle zur Ausgangsspannung U der Antenne:
+
+und wird auch als Wandlungsmaß oder Umwandlungsmaß bezeichnet.
+Er entspricht dem Kehrwert der (effektiven) Antennenlänge bzw. -höhe, hat die Einheit 1/m und ist eng verknüpft mit der Absorptionsfläche (Wirkfläche).
+Üblicherweise wird der Antennenfaktor logarithmiert in dB angegeben,
+
+==== Nahbereich und Fernbereich
+
+Im Nahbereich erzeugt der elektrische oder magnetische Dipol eine Feldverteilung, bei der ein Großteil der Energie immer wieder in die Antenne zurückfällt.
+Ab einem bestimmten Abstand schnürt sich die Feldverteilung ab und eine elektromagnetische Welle breitet sich räumlich aus.
+Dieser Bereich ist als Fernfeld definiert.
+Eine scharfe Abgrenzung gegen den Nahbereich ist nicht möglich.
+Eine Voraussetzung für die sich selbstständig fortbewegende Welle ist, dass die Phasenverschiebung zwischen elektrischem und magnetischen Feld verschwindet, während sie in Antennennähe 90° beträgt.
+Über die Phase lassen sich dadurch Nahbereich, Fernbereich und Übergangsbereich definieren.
+
+==== Bandbreite
+
+Grundsätzlich muss unterschieden werden zwischen:
+
+Die (Einspeise-)Bandbreite einer resonanten (Schmalband-)Antenne hängt von ihrem Belastungswiderstand ab, d. h., bei +/-45° Phasenverschiebung sinkt die Güte (steigt die Dämpfung) des gesamten resonanzfähigen Gebildes.
+Je kleiner der Lastwiderstand, desto größer die Bandbreite, meist auf Kosten des Wirkungsgrades.
+Bei aktiven (Empfangs-)Antennen (mit FET-Eingangsstufe) kann der Lastwiderstand viel größer ausgelegt werden, um dadurch die Bandbreite des Systems zu vergrößern.
+
+Bei nicht resonanten Breitbandantennen (Resonanz erst außerhalb ihres Nutzfrequenzbereiches) werden Reflexionen vermieden und die eingespeiste Welle (siehe B. mit 50  Leitungsimpedanz) durch Aufweitung der Speiseleitung langsam an den Feldwellenwiderstand (377 ) angepasst.
+Die Grenzen des Frequenzbereiches werden dabei durch die Halbwertsbreite bestimmt.
+Das ist der Bereich, in dem die abgestrahlte Energie vom Maximalpunkt aus halbiert wird (-3 dB).
+Echte Breitbandantennen sind nicht resonant und durch besondere konstruktive Maßnahmen bleiben ihre elektrischen Eigenschaften in einem weiten Frequenzbereich nahezu konstant (Beispiele sind bikonische Antennen, Spiralantennen und LPA).
+Bei der logarithmisch-periodische Antenne (LPA) wäre der Einzelstrahler zwar (schwach) resonant, durch das Zusammenwirken mit den Nachbarelementen entsteht jedoch die Breitbandigkeit.
+
+==== Höhe der Antenne über Grund
+
+Die Höhe der Antenne über Grund (nicht zu verwechseln mit der effektiven Antennenhöhe) bestimmt die Ablöseeigenschaften der Kugelwelle (/2-Strahler im Bsp. für Höhenangaben vorausgesetzt) vom Erdboden.
+Die Höhe spielt ab > 2  praktisch keine Rolle mehr (s. u.) .
+Generierte Kugelwellen (/2-Strahler) erzeugen hemmende Gegenfelder (Strom erzeugt Gegenstrom, verschlechternder Strahlungswiderstand) für einen Bereich /2 unter ihnen (insgesamt , negatives Spiegelfeld, Erdfelder).
+Darunter (2 ) entsteht ein förderndes Spiegelbild (2 ), d. h. mit fördernder, gleichgerichteter Phase (erhöhender Strahlungswiderstand).
+Die Höhe der Antenne über Grund ist für die Abstrahlungseigenschaften von Bedeutung, besonders bei Frequenzen < 30 MHz.
+Im Bereich bis 300 MHz muss sie beachtet werden (h < 2 ).
+Ab 300 MHz aufwärts spielt sie praktisch keine Rolle.
+
+== Antennen-Bauformen
+
+Eine Aufzählung von Antennenarten bzw. -bauformen findet sich in der Kategorie Antennenbauformen.
+
+Die Baugröße einer Antenne muss immer in Relation zur halben Wellenlänge betrachtet werden.
+Ist eine Antenne deutlich kleiner als ein Viertel der Wellenlänge, wird ihr Strahlungswiderstand sehr klein, weshalb ihr Wirkungsgrad gering wird.
+Je größer eine Antenne im Vergleich zur halben Wellenlänge wird, umso komplexer wird ihr Strahlungsdiagramm, weil Mehrfachreflexionen entstehen und sich überlagern.
+Die größten Antennen wurden Ende des 19. und Anfang des 20. Jahrhunderts gebaut, als für Funk-Weitverbindungen ausschließlich Langwellensender benutzt wurden.
+
+Die Gliederung von Antennenbauformen kann nach vielen Eigenschaften kategorisiert werden.
+Meist wird sie nach der Geometrie der Antenne vorgenommen, kann aber auch andere Kriterien (z. B. Bandbreite, Richtcharakteristik, Betriebsfrequenz) erfassen.
+Der Punktstrahler hat nur eine theoretische Bedeutung als Bezugsantenne zur einfacheren mathematischen Berechnung.
+Elektromagnetische Wellen sind Transversalwellen und benötigen wegen der Polarität als Feldquellen daher Dipole (elektrische oder magnetische).
+
+Andere Unterteilung von Antennen:
+
+Nach Anwendung bzw. Montageart können Antennen auch unterschieden werden in:
+
+=== Lineare Antennen
+
+Der Begriff lineare Antennen bezeichnet Antennen, die eine linienhafte Stromverteilung in der Antennenstruktur aufweisen.
+In Praxis wird die Linie, diese muss nicht geradlinig verlaufen, als ein gegenüber der Wellenlänge dünner elektrischer Leiter aus einem metallischen Draht oder aus einem metallischen Stab gebildet.
+Zu den linearen Antennen gehören alle Formen von Langdrahtantennen sowie Dipolantennen und auch Faltdipole.
+
+Die lineare Antenne ist eine der gebräuchlichsten Strahlerformen.
+Sie wird beispielsweise als Sendemast in Rundfunksendern im Lang- und Mittelwellenbereich, als Drahtantenne im Kurzwellenrundfunk und auf Kurzwelle im Amateurfunk und Schiffsfunk, und als / 2-Dipol als Strahler in Yagiantennen im VHF- bis UHF-Bereich sowie als / 4-Dipol in Stabantennen für Kurzwelle bis jenseits des UHF-Bereiches (Funkdienste, Funktelefone, CB-Funk usw.) eingesetzt.
+Der Strom entlang der Antennenstäbe bzw. -drähte ist bei Längen unter /5 nahezu linear, bei Längen darüber sinusförmig verteilt.
+Es treten an den Enden (und bei längeren Antennen in Abständen der halben Wellenlänge) Stromknoten ( I _ = 0 {\displaystyle {\underline {I}}=0} ) und Spannungsbäuche ( U _ = U ^ {\displaystyle {\underline {U}}={\hat {U}}} ) auf .
+
+Die sinusförmige Stromverteilung auf Dipolantennen-Stäben wird zwar experimentell gut bestätigt, kann aber zur Berechnung des Eingangswiderstandes einer Antenne nicht herangezogen werden, da Strom und Spannung zeitlich nicht ganz um 90° phasenverschoben sind.
+Die Impedanz einer Antenne am Speisepunkt sollte jedoch keinen Blindwiderstandsanteil aufweisen, sie ist im Idealfall der äquivalente Serien- oder Parallelwiderstand, der durch die abgestrahlte Wirkleistung und - in geringem Maße - durch die Antennenverluste entsteht.
+Die Fußpunktimpedanz einer Antenne ist also ein rein ohmscher Widerstand, er sollte gleich der Leitungsimpedanz (Wellenwiderstand) der speisenden Leitung sein.
+Weicht die Antennen-Fußpunktimpedanz in ihrem Real- oder Imaginärteil davon ab, müssen Anpassglieder (Spulen, Baluns, -Glieder, Anpassübertrager) eingesetzt werden.
+
+Bei linearen Antennen ist die Länge im Verhältnis zur Wellenlänge  maßgeblich.
+Die Verteilung der Strommaxima entlang der Strahler-Elemente einer symmetrischen, gestreckten Antenne ist ebenfalls symmetrisch und feststehend.
+
+==== Halbwellendipol
+
+Ist ohne Längenangabe von einer Dipolantenne die Rede, so ist meist ein Halbwellendipol gemeint.
+Seine Länge ist die Hälfte der Wellenlänge .
+Er wird symmetrisch gespeist.
+Im Speisepunkt ist er aufgetrennt; dort liegen ein Strommaximum und ein Spannungsminimum, die Impedanz beträgt 73,2 .
+
+Ein Faltdipol entsteht, indem der Stromweg eines Halbwellendipols auf zwei Wege aufgeteilt wird.
+In nur einem dieser Wege ist er aufgetrennt, dort liegt der Speisepunkt.
+Durch die induktive bzw. kapazitive Kopplung an den ungespeisten Stab halbiert sich der Speisestrom bei verdoppelter Speisespannung.
+Durch diese Impedanztransformation (auf jeder Seite ein /4-Transformator) vervierfacht sich beim Faltdipol die Impedanz des Speisepunktes auf etwa 240-300 Ohm.
+Der Vorteil des Faltdipols ist dessen mögliche geerdete Befestigung am Antennenträger sowie früher die Verwendbarkeit preiswerter symmetrischer Speiseleitungen, der sogenannten Bandleitung.
+
+Eine breitbandigere Form ist der Flächendipol, auch er zählt zu den linearen Antennen.
+
+In Fällen, bei denen eine Richtwirkung nicht erwünscht ist, z. B. bei angestrebtem Rundum-Empfang oder -Senden, kann ein Knickdipol eingesetzt werden, bei dem die beiden Strahlerhälften im Winkel von 90° zueinander angeordnet sind.
+Alternativ werden die Strahlerhälften auch halbkreisförmig gebogen.
+Diese Bauform wird als Ringdipol bezeichnet.
+
+==== Viertelwellenstrahler
+
+Der Viertelwellenstrahler, auch als Monopolantenne oder Groundplane-Antenne bezeichnet, ergibt gespiegelt einen Halbwellendipol, wobei nur ein Zweig des Halbwellendipols als Antennenstab benötigt wird.
+Durch eine gut elektrisch leitfähige Oberfläche oder durch mehrere abstehende Stäbe im Antennenfußpunkt entsteht durch Induktionsströme eine (elektrisch messbare) Spiegelung des Antennenstabes.
+Je besser die Leitfähigkeit der Spiegelfläche, desto besser wird ein "Gegengewicht" zum Strahler generiert.
+Bei einem Handfunkgerät mit elektrischem Strahler wirkt der Körper des Benutzers mit seiner (wirksamen, doch nicht optimalen) Leitfähigkeit als Gegengewicht, bei KFZ-Antennen die gut leitende Karosserie und bei Funktelefonen und vielen Funkfernsteuerungen die Leiterplatte bzw. das Gehäuse.
+
+Verwendet wird der Viertelwellendipol als Antenne für Handfunkgeräte und andere mobile Geräte z. B. in Kraftfahrzeugen.
+Er ist der kleinste optimale elektrische Strahler, falls eine gute Spiegelfläche existiert.
+Kleinere Strahler erkaufen sich die Kleinheit mit höheren Verlusten in den Verkürzungselementen und bilden immer einen Kompromiss.
+
+Als Teleskopantenne ist der Viertelwellendipol in mehrere kleinere Abschnitte unterteilt, die stufenförmig verjüngt teleskopartig ineinandergeschoben werden können.
+Das ergibt ein kleineres und somit besser transportfähiges (im nichtaktiven Zustand) Format für eine Empfangsantenne.
+Alle diese Abschnitte müssen sehr guten elektrischen Kontakt untereinander haben.
+Verwendet wird eine solche Teleskopantenne oft bei kleinen Taschenradios und tragbaren Funkgeräten.
+Eine Teleskopantenne kann durch Beschaltung des Fußpunktes mit einer zusätzlichen Induktivität elektrisch verkürzt werden und ist nur effektiv angepasst, wenn sie in voller Länge ausgezogen ist.
+
+==== Ganzwellendipol
+
+Setzt man zwei gleichphasig schwingende Halbwellendipole gestreckt aneinander, entsteht ein sogenannter Ganzwellendipol.
+Am Speisepunkt in der Mitte liegen ein Stromknoten und gegenphasige Spannungsmaxima, so dass die Impedanz hoch ist (> 1 k).
+Wie beim Viertelwellendipol halbiert sich die Impedanz, wenn die untere Hälfte durch das Spiegelbild der oberen an einer leitenden Fläche gebildet wird.
+Eine gängige Antennenimpedanz von 240  bildet sich ebenfalls durch Parallelschaltung von vier Ganzwellenstrahlern in einer Gruppenantenne.
+
+==== Verkürzte lineare Antennen
+
+Ist eine lineare elektrische Antenne kürzer als /4, hat die Fußpunktimpedanz eine kapazitive Komponente, die zur Anpassung kompensiert werden muss.
+Das kann durch Einfügen einer Serien-Induktivität (Verlängerungsspule) nahe beim Speisepunkt, eine zur Speisung parallel geschaltete Spule oder eine Dachkapazität am Antennenende erfolgen.
+Konstruktionen mit Dachkapazität erreichen eine bessere Stromverteilung und erzeugen einen besseren Wirkungsgrad als solche mit Verlängerungsspule.
+Eine typische Antenne mit Dachkapazität ist die T-Antenne.
+
+Beispiele für Antennen mit Verlängerungsspulen sind die sogenannten Gummiwurst-Antennen an Handfunkgeräten, CB-Funk-Antennen mit Längen < 3 m und fast alle Antennen in Funkfernsteuerungen unterhalb des 433-MHz-ISM-Bandes (/4 = 18 cm).
+
+Unterhalb von etwa 100 MHz ist der Wirkungsgrad einer Antenne nur für Sender wirklich wichtig.
+Bei reinen Empfangsantennen ist die entscheidende Frage, ob das gesamte Empfangssystem einen ausreichenden Signal-Stör-Abstand erreicht.
+Bei Antennen ohne starke Richtwirkung dominieren Umgebungsstörungen und das sogenannte atmosphärische Rauschen, nicht aber das Rauschen der Empfänger-Eingangsstufen.
+In diesem Fall sinken mit dem Wirkungsgrad sowohl das Signal als auch der Störpegel, das Verhältnis bleibt gleich.
+
+Im Mittelwellenbereich sind elektrische Empfangsantennen und ihre Antennenkabel klein gegen die Wellenlänge.
+Ihre Impedanz am Speisepunkt ist deshalb nahezu kapazitiv.
+Deshalb verwendete man früher bei hochwertigen Empfängern - vor allem bei Autoradios - diese Kapazität als Kondensator des Eingangskreises.
+Die Abstimmung erfolgte dabei mit der veränderlichen Induktivität (Variometer) dieses Kreises.
+
+Heute sind die üblichen Autoradio-Antennen in aller Regel aktive Antennen, d. h., sie bestehen aus einem kurzen Stab und einem Verstärker mit hochohmigem, kapazitätsarmem Eingang.
+Die früher üblichen ausziehbaren Antennen sind in Neufahrzeugen kaum noch zu finden.
+Im Prinzip reicht als Verstärker ein Impedanzwandler wie ein als Sourcefolger beschalteter Feldeffekttransistor.
+Da eine solche Antenne aber sehr breitbandig ist, muss man das Großsignalverhalten mit erhöhtem Aufwand verbessern.
+
+==== Langdrahtantenne
+
+Bei einer Langdrahtantenne übersteigt die Drahtlänge die halbe Wellenlänge  wesentlich.
+Die unter diesem Begriff zusammengefassten Antennenbauformen sind alle horizontal polarisiert und unterscheiden sich hauptsächlich durch die Art der Speisung und die Form der Verlegung des Strahlers.
+Mit zunehmender Länge nähert sich die Hauptstrahlrichtung der Antennenlängsrichtung symmetrisch an.
+Wird das von der Speisung entferntere Leiterende mit einem Abschlusswiderstand gegen Erde versehen, dann kann sich auf der Antenne keine stehende Welle ausbilden.
+Man spricht in diesem Fall von einer aperiodischen Antenne, die durch die auf dem Leiter entlanglaufende Wanderwelle ein besseres Vor-Rück-Verhältnis erhält.
+
+Solche langen Antennen haben, besonders bei niedriger Aufhängung (Höhe der Antenne über Grund), einen sehr schlechten Wirkungsgrad.
+Sie werden aber häufig als Richtantennen für Empfangszwecke (Beverage-Antenne) genutzt.
+
+=== Flächenantennen
+
+Der Begriff Flächenantennen (oder Flächenstrahler) bezeichnet Antennen, die im Gegensatz zu den linearen Antennen eine leitungsgeführte Welle an einer Flächenausdehnung, beispielsweise eine Öffnung in einem Hohlleitersystem, in Freiraumwellen umwandeln und umgekehrt.
+Flächenstrahler werden bei Frequenzen oberhalb von etwa 1 GHz als Richtstrahler eingesetzt.
+Ein technisch einfaches Beispiel ist der Rechteckhornstrahler, bei dem ein Rechteckhohlleiter aufgeweitet wird bis die Öffnung in ihren Abmessungen groß gegenüber der Wellenlänge  ist.
+
+==== Aperturstrahler
+
+Aperturstrahler sind Antennen, die über eine strahlende Öffnung (Apertur) elektromagnetische Energie abstrahlen oder aufnehmen.
+Je größer die Öffnung im Verhältnis zur Wellenlänge, desto stärker die Bündelung der Strahlung entsprechend dem Rayleigh-Kriterium.
+Aperturstrahler haben meistens die Form eines Hohlleiters, der sich allmählich zum Horn aufweitet.
+Dadurch bleibt die Feldverteilung der eingespeisten Welle weitgehend erhalten und der Übergang in den Freiraum ist nahezu reflexionsfrei.
+
+==== Reflektorantennen
+
+Als Reflektorantennen bezeichnet man Antennen, deren Ende entgegen der Strahlungsrichtung aus einer reflektierenden Fläche besteht.
+Im einfachsten Fall ist das eine Yagi-Antenne, deren Rückseite z. B. aus einer Vielzahl von Reflektorstäben oder einer im Verhältnis zur Wellenlänge größeren metallischen Fläche besteht.
+
+Sofern Reflektorflächen von mindestens 10 Wellenlängen Durchmesser praktikabel sind, sind Parabolantennen in aller Regel das Mittel der Wahl.
+Vergleichbare Antennengewinne lassen sich, wenn überhaupt, nur durch Gruppenantennen erreichen, die komplexer aufgebaut sind.
+Im Brennpunkt eines Parabolspiegels (die Fläche ist ein Paraboloid) sitzt der Primärstrahler.
+Das Strahlungsdiagramm dieser Antenne wird so gewählt, dass sie den Spiegel möglichst gut ausleuchtet, ohne darüber hinaus zu strahlen.
+Dafür eignen sich, je nach Frequenz, z. B. Hornstrahler oder kurze Yagi-Antennen.
+
+Die Spiegel müssen keine geschlossenen Metallflächen sein, sondern dürfen Öffnungen von etwa 1/10 der Wellenlänge aufweisen, wodurch sich der Fertigungsaufwand und die Windlast senken lassen.
+Auch die Form der Fläche darf Abweichungen in dieser Größenordnung aufweisen.
+Für die Form des Spiegels kann im Prinzip ein beliebiger Teil des Paraboloiden genutzt werden.
+So benutzen viele Antennen für den Fernsehsatelliten-Empfang sogenannte Offsetantennen, bei denen der Brennpunkt nicht in der Symmetrieachse liegt, sondern daneben.
+
+=== Weitere Formen
+
+Antennen-Bauformen, die sich nicht unter vorgenannte Typen einordnen lassen, sind z. B.:
+
+=== Gruppenantennen
+
+Eine Aufzählung von Gruppenantennen siehe unter Kategorie:Gruppenantenne.
+
+Der Begriff Gruppenantenne (auch Antennenarrays genannt) bezeichnet Antennen, die aus einer Anzahl von Einzelstrahlern konstruiert sind, deren abgestrahlte Felder sich überlagern und durch konstruktive Interferenz zu einem gemeinsamen Antennendiagramm formen.
+Als Einzelstrahler können fast alle Antennenbauformen eingesetzt werden, also auch im Aufbau komplizierterer Antennen, wie Yagi-Antennen.
+
+Alle Einzelantennen befinden sich meist geometrisch in einer Ebene senkrecht zur Abstrahlrichtung und müssen jeweils phasenrichtig zueinander gespeist werden.
+Satelliten-Empfangsantennen, die wie eine flache, meist rechteckige Fläche aussehen, sind typische Vertreter einer Gruppenantenne.
+Gruppenantennen kann man als den Spezialfall eines Phased Array betrachten, bei dem alle Antennen mit der gleichen Phasenlage angesteuert werden.
+
+==== Phased Array
+
+Eine Verallgemeinerung der Gruppenantenne ist das Phased-Array.
+Bei dieser Antennengruppe können die einzelnen Strahlerelemente oder Strahlergruppen mit unterschiedlicher Phasenlage und manchmal auch mit unterschiedlicher Leistung gespeist werden.
+So lässt sich das Richtdiagramm der Antenne rein elektronisch, also sehr schnell, ändern und wird für Radar-Anlagen benutzt.
+
+==== Monopuls-Antenne
+
+Eine Monopuls-Antenne wird bei modernen Radargeräten verwendet, um die Genauigkeit der Winkelmessung bei der Richtungsbestimmung sowie das Zeitbudget des Radars zu verbessern.
+Bei der Monopulsantenne werden die einzelnen Strahler in zwei Hälften (oder vier Quadranten für dreidimensionales Radar) aufgeteilt.
+Aus deren Empfangssignalen werden in einem Monopuls-Diplexer sowohl Summen- als auch Differenzsignale gebildet, die in zwei bis vier identischen Empfangskanälen weiterverarbeitet werden.
+Mit diesen Signalen kann ein Rechner die Position eines Zieles innerhalb des Peilstrahls bestimmen.
+
+=== Magnetische Antennen
+
+Magnetische Antennen verwenden primär ein Magnetfeld zur Strahlungserzeugung bzw. empfangen primär die magnetische Feldkomponente der elektromagnetischen Strahlung.
+Sie bestehen aus einer Leiterschleife (im einfachsten Fall mit nur einer Windung) und besitzen durch das Vektorfeld eine Richtwirkung (bei stehender Spule eine Achtcharakteristik) und können, wie alle verkürzten Antennen, gegenüber der Wellenlänge sehr klein sein, wenn die Spule aus mehreren Windungen besteht.
+Zu den magnetischen Antennen zählen auch die Rahmenantennen, aus einer drehbaren Spule bestehende Peilantennen und Ferritantennen, jedoch nicht induktiv verlängerte Antennen wie die Gummiwurst.
+Auch die Wendelantenne ist keine magnetische Antenne, da der gewundene Leiter zur Führung der Welle dient und dort schon das Fernfeld anfängt.
+
+== Antennensimulation
+
+Neben der messtechnischen Bestimmung von Antennenparametern hat die Simulation von Antennen bzw. ganzer Antennensysteme samt in der Nähe befindlicher weiterer Einflussfaktoren (Masten, metallische Abspannseile usw.) per Computer an Bedeutung gewonnen.
+Die Rechnersimulation erlaubt eine hohe Genauigkeit, wenn es denn gelingt, die Antenne (und gegebenenfalls deren relevante Umgebung) auch genau in den Rechner zu "übernehmen".
+Eine ausreichend genaue Modellierung einer Antenne im Rechner wirft aber meistens geringere Probleme auf als die messtechnische Erfassung und ist deshalb auch billiger.
+Insbesondere ab Frequenzen im UHF-Bereich und bei sehr kleinen Funkmodulen - z. B. für Nutzung in den ISM-Bändern - wird eine messtechnische Erfassung der Antennenimpedanzwerte deutlich ungenauer sein als eine Simulation.
+Gleiches gilt auch für das Abstrahlverhalten bei harmonischen Frequenzen (sog. Oberwellen).
+Viele Computerprogramme für die Antennensimulation beruhen auf dem NEC2-Algorithmus (Numerical Electromagnetic Code), der ursprünglich für die US-amerikanischen Streitkräfte entwickelt wurde und frei zugänglich ist.
+
+Mit Hilfe von modernen und handelsüblichen Simulationsprogrammen können die verschiedenen Parameter der Antenne (z. B. die Antennenimpedanz, Strahlungscharakteristik) auch über einen größeren Frequenzbereich berechnet werden.
+So kann beispielsweise die räumliche Strahlungscharakteristik anschaulich als dreidimensionale Fläche mit entsprechenden Erhöhungen "Bergen" und Vertiefungen "Tälern" als Falschfarbendarstellung visualisiert werden.
+Außerdem ist es auch möglich, die Stromverteilung entlang der Antenne anzugeben, um hieraus konstruktive Verbesserungen abzuleiten.
+
+== Sicherheitsbestimmungen beim Antennenbau
+
+=== Blitzschutz
+
+Werden Antennen im Freien an hohe Masten montiert, welche die Umgebung überragen, so müssen sie vor Blitzschlag geschützt werden.
+Die Vorschriften dazu sind im Baurecht des jeweiligen Landes oder Staates enthalten.
+Für Deutschland siehe das Merkblatt des VDE.
+
+=== Statik
+
+Antennen bieten starkem Wind einen Widerstand, Windlast genannt.
+Die Antennen- und Mastkonstruktion muss diese zusätzlichen Kräfte aufnehmen können.
+Beim Errichten von Antennenanlagen muss diese Windlast, die in den Datenblättern von Antennenherstellern angegeben wird, bei der statischen Berechnung berücksichtigt werden.
+Aufgrund starker Verformungen der Seilnetzwerke von Vorhangantennen infolge hoher Windlasten ist es erforderlich, die statische Untersuchung nach Theorie III. Ordnung vorzunehmen und die hochfrequenztechnische Antennensimulation am verformten System anzusetzen.
+
+=== Vereisung
+
+Antennen, Mastkonstruktionen und Abspannungen können im Winter vereisen.
+Dabei können das Gewicht der Antennenkonstruktion und die Angriffsfläche für die Windlast erheblich vergrößert werden, sowie eine starke Dämpfung des Signals auftreten.
+Außerdem können durch herabfallende Eisbrocken Menschen verletzt werden.
+Deshalb sind beim Aufbau und Betrieb einer Antennenanlage mögliche Gefahren, die durch Vereisung entstehen können, zu berücksichtigen.
+
+In Einzelfällen werden Teile der Antennenanlage auch geheizt, um die Leistungsverluste der Antenne im Winter zu kompensieren und einer Vereisung vorzubeugen.
+Eine andere Möglichkeit, einer Vereisung bis zu einem gewissen Grad vorzubeugen, sind hohle Antennenträger aus glasfaserverstärktem Kunststoff (GFK) mit glatter Außenoberfläche, in welche die Antennen eingebaut werden, oder durchgehende Kunststoffschalungen als Vorbau, auch als Radom bezeichnet.
+Diese Techniken werden vor allem bei UHF-Fernsehsendern, manchmal aber auch bei VHF- und UKW-Sendern angewendet.
+
+== Bilder
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

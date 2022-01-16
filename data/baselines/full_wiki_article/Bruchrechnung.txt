@@ -1,0 +1,139 @@
+Im engeren Sinn bezeichnet Bruchrechnung das Rechnen mit gemeinen Brüchen (manchmal auch gewöhnlichen Brüchen) in der "Zähler-Bruchstrich-Nenner-Schreibweise" (siehe unten).
+Bruchrechnung gehört damit zur Arithmetik, einem Teilgebiet der Mathematik.
+In einem weiteren Sinn wird das Wort auch für das Rechnen mit rationalen Zahlen gebraucht, gleichgültig, in welcher Schreibweise sie vorliegen.
+Eine wichtigere Erweiterung besteht in der Zulassung von Bruchtermen, das sind Ausdrücke, die formal wie gemeine Brüche gebildet werden, bei denen aber Zähler und Nenner Terme sein können, die Variablen enthalten.
+Für diese Bruchterme gelten die Bruchrechenregeln sinngemäß.
+Das Rechnen mit Bruchtermen gehört aber zur Algebra.
+Die Regeln der Bruchrechnung beziehen sich auf die Grundrechenarten, also auf Addition, Subtraktion, Multiplikation, Division, sowie auf die Kehrwertbildung.
+Insbesondere bei Bruchtermen kommen auch Regeln für Potenzen und Wurzeln hinzu.
+Außerdem gibt es eine Kürzungs- und Erweiterungsregel, die eine Besonderheit der Bruchrechnung sind.
+Sie beruht auf dem Unterschied zwischen Bruch und Bruchzahl, der im folgenden Abschnitt genauer dargestellt wird.
+Die Bruchschreibweise, also die Schreibweise mit Bruchstrich, geht auf Leonardo von Pisa zurück, der sie 1228 einführte.
+Sie wird ganz allgemein in verschiedenen Bereichen der Mathematik, besonders in der Algebra, immer dann verwendet, wenn in der untersuchten Struktur die elementaren Bruchrechenregeln, insbesondere die Kürzungs- und Erweiterungsregel, gelten.
+Auch hier spricht man immer dann von "Bruchrechnung", wenn diese Regeln angewendet werden.
+Die Bruchrechnung beruht darauf, dass sich das Ganze (die Eins aus dem Rechnen mit natürlichen Zahlen) noch unterteilen lässt.
+Einen Kuchen kann man zum Beispiel in vier Teile teilen.
+Wenn diese Teile gleich groß sind, so ist jedes Teil ein Viertel des Kuchens.
+Wenn, wie im Bild, eines der Viertel schon fehlt, so sind drei Viertel Kuchen dargestellt.
+Geschrieben wird dies gewöhnlich in der "Zähler-Bruchstrich-Nenner-Schreibweise":
+Die Zahl unter dem Bruchstrich - der sogenannte Nenner oder auch Teiler - gibt an, in wie viele Teile das Ganze geteilt wurde; die Zahl über dem Bruchstrich - der Zähler - gibt an, wie viele Teile davon in diesem Falle gemeint sind.
+So erhält man einen Bruch.
+Man kann diesen auch so deuten:
+Der Zähler gibt an, wie viele Ganze gemeinsam in so viele gleich große Teile zu teilen sind, wie der Nenner angibt.
+(Man legt drei Kuchen übereinander und teilt den Stapel in vier gleiche Teilstapel.)
+Wird das Ganze (die Torte) stattdessen in acht Teile geteilt und werden davon sechs genommen, so ist das ein anderer Bruch: 6 8 {\displaystyle {\frac {6}{8} }} statt 3 4 {\displaystyle {\frac {3}{4} }} .
+Aber diese beiden Brüche stehen offenbar für die gleiche Menge Kuchen:
+Sie stehen für dieselbe Bruchzahl.
+Für jede Bruchzahl gibt es viele (unendlich viele) verschiedene Darstellungen, verschiedene Brüche, die alle denselben Wert (dieselbe Größe) verkörpern, aber auf unterschiedliche Weise.
+Von einem Bruch zum anderen gelangt man durch Erweitern und Kürzen.
+Dadurch ändert sich der Wert einer Bruchzahl nicht, man erhält aber für diese Zahl verschiedene Darstellungsweisen: verschiedene Brüche.
+Brüche lassen sich zunächst in gemeine Brüche (auch gewöhnliche Brüche genannt) und Dezimalbrüche (= Dezimalzahl, umgangssprachlich: "Kommazahl") einteilen, daneben gibt es noch die Darstellung als gemischter Bruch.
+Wenn man von einem Bruch spricht, meint man in der Regel einen gemeinen Bruch, das Rechnen mit Dezimalbrüchen wird meistens nicht als Bruchrechnung bezeichnet.
+In der nachfolgenden Tabelle sind gebräuchliche Bezeichnungen für Brüche zusammengefasst, die in diesem Abschnitt erklärt werden.
+Die in der Tabelle weiter unten stehenden Begriffe fallen jeweils unter die darüberstehenden Oberbegriffe, zum Beispiel ist jeder Scheinbruch ein gemeiner Bruch, nebeneinanderstehende Begriffe müssen sich nicht ausschließen.
+Dabei ist zu beachten, dass es sich um Bezeichnungen für Zahlschreibweisen und nicht für die dargestellten Zahlen handelt.
+Eine bestimmte Zahl kann verschiedene Darstellungen haben, die jeweils mit unterschiedlichen Begriffen aus der Tabelle bezeichnet werden.
+So kann man zum Beispiel jeden unechten Bruch auch als gemischten Bruch schreiben.
+Weitere Formen, in denen Bruchzahlen dargestellt werden können (Kettenbruch, Prozent- und Promilleschreibweise, Binärbrüche usw.), werden in je eigenen Artikeln behandelt und in dieser Tabelle nicht aufgeführt.
+Gemeine Brüche werden im Allgemeinen durch eine Übereinanderstellung von Zähler und Nenner, getrennt durch einen waagerechten Strich, dargestellt:
+Zähler und Nenner eines Bruches sind ganze Zahlen.
+Dabei darf der Nenner N {\displaystyle N} nicht null sein, da eine Division durch Null nicht definiert ist.
+Jeder Bruch kann nämlich auch als Divisionsaufgabe verstanden werden.
+Dabei ist der Zähler Z {\displaystyle Z} der Dividend, der Nenner N {\displaystyle N} der Divisor:
+Das Entscheidende bei der Bruchrechnung ist, dass hier jede Division (außer durch null) möglich ist und ein einfach darstellbares Ergebnis hat, während ja im Bereich der ganzen Zahlen die Teilbarkeitsregeln gelten.
+Üblicherweise werden für Zähler und Nenner natürliche Zahlen verwendet und ein eventuell vorhandenes negatives Vorzeichen wird vor den Bruch gesetzt, also beispielsweise - 3 4 {\displaystyle -{\tfrac {3}{4 } } } statt - 3 4 {\displaystyle {\tfrac {-3}{4}}} oder 3 - 4 {\displaystyle {\tfrac {3}{-4}}} .
+Sind Zähler und Nenner negativ, so bezeichnet das nach den Regeln der Division von ganzen Zahlen den positiven Bruch: - 3 - 4 = 3 4 {\displaystyle {\tfrac {-3}{-4}}={\tfrac {3}{4} }}
+Bei einer Variante dieser Schreibweise, die oft verwendet wird, wenn gemeine Brüche in Texten vorkommen, werden Zähler, Bruchstrich und Nenner hintereinandergeschrieben und als Bruchstrich ein Schrägstrich verwendet, zum Beispiel 1/2, 3/8.
+Bei der Schreibweise mit Schrägstrich an Stelle des waagrechten Bruchstrichs werden (vor allem) einstellige Zähler und Nenner manchmal verkleinert über bzw. unter den Schrägstrich geschrieben: 6/7.
+Zu diesem Zweck existieren in vielen Druckzeichensätzen Sonderzeichen, wie zum Beispiel  oder .
+Wenn bei einem Bruch der Betrag des Zählers kleiner als der des Nenners ist, dann spricht man von einem echten oder eigentlichen Bruch (z. B. 6 7 {\displaystyle {\tfrac {6}{7} }} oder 2 5 {\displaystyle {\tfrac {2}{5}}} ), andernfalls von einem unechten oder uneigentlichen Bruch (z. B. 7 7 {\displaystyle {\tfrac {7}{7}}} oder 11 3 {\displaystyle {\tfrac { 11}{3 } }} ).
+Echte Brüche sind also die, deren Betrag kleiner ist als ein Ganzes.
+Ist der Zähler in einem gemeinen Bruch gleich 1 (z. B. 1 2 {\displaystyle {\tfrac { 1}{2}} } oder 1 9 {\displaystyle {\tfrac {1}{9}}} ), spricht man von einem Stammbruch, ansonsten von einem abgeleiteten Bruch oder Zweigbruch.
+Unechte Brüche, bei denen der Zähler ein ganzzahliges Vielfaches des Nenners ist (z. B. 12 3 {\displaystyle {\tfrac {12}{3} }} ) , bezeichnet man als Scheinbrüche, da sie sich durch Kürzen in ganze Zahlen umwandeln lassen (im Beispiel in die Zahl 4).
+Insbesondere lässt sich jede ganze Zahl n {\displaystyle n} als Scheinbruch n 1 {\displaystyle {\tfrac {n}{1} }} schreiben.
+Unechte Brüche, die keine Scheinbrüche sind, lassen sich immer als gemischte Brüche (auch: als gemischte Zahlen, in gemischter Schreibweise) darstellen.
+Dabei wird zunächst der ganzzahlige Anteil, d. h. die zur Null hin gerundete Zahl, geschrieben und anschließend direkt danach der verbleibende Anteil als echter Bruch.
+Zum Beispiel 1 1 3 {\displaystyle 1{\tfrac {1}{3} } } statt 4 3 {\displaystyle {\tfrac {4}{3} }} oder - 3 3 5 {\displaystyle -3{\tfrac {3}{5}}} statt - 18 5 {\displaystyle -{\tfrac {18}{5}}} .
+Ein Problem der gemischten Schreibweise ist, dass sie als Produkt missverstanden werden kann:
+So steht 2 1 3 {\displaystyle 2{\tfrac { 1}{3} } } meist für 2 + 1 3 = 7 3 {\displaystyle 2+{\tfrac {1}{3}}={\tfrac {7}{3} }} und nicht für 2 * 1 3 = 2 3 {\displaystyle 2\cdot {\tfrac {1}{3}}={\tfrac {2}{3} }} .
+Schreibt man dagegen a b c {\displaystyle a{\tfrac { b}{c } }} , so handelt es sich nicht um einen Bruch in gemischter Schreibweise, sondern (wegen der Variablen) um einen Term.
+Hier muss das weggelassene Rechenzeichen ein Malpunkt sein (andere Rechenzeichen dürfen in Termen nicht weggelassen werden).
+a b c {\displaystyle a{\tfrac {b}{c} }} muss also als a * b c {\displaystyle a\cdot {\tfrac {b}{c} }} verstanden werden und niemals als a + b c {\displaystyle a+{\tfrac {b}{c}}} .
+Beim Rechnen mit Brüchen in den vier Grundrechenarten Addition, Subtraktion, Multiplikation und Division werden jeweils zwei Brüche verknüpft, sodass eine dritte Zahl entsteht.
+Dies darf nicht verwechselt werden mit dem Umformen von Brüchen, wobei ein einziger Bruch eine neue Form erhält, ohne dass sein Wert sich ändert.
+Das Umformen (die Formänderung) ist oft die Voraussetzung dafür, dass mit Brüchen gerechnet werden kann.
+Deshalb wird es hier zuerst behandelt.
+Um einen Bruch in eine Dezimalzahl umzuwandeln, dividiert man einfach den Zähler durch den Nenner.
+3 4 {\displaystyle {\tfrac { 3}{4} } } ergibt 0,75 beziehungsweise 75 % vom Ganzen.
+Der Wert der durch einen Bruch dargestellten Bruchzahl ändert sich nicht, wenn man Zähler und Nenner des Bruches mit derselben Zahl (ungleich 0) multipliziert (den Bruch erweitert) oder durch einen gemeinsamen Teiler von Zähler und Nenner teilt (den Bruch kürzt).
+Beispiel: 2 3 = 2 * 3 3 * 3 = 6 9 {\displaystyle {\tfrac {2}{3}}={\tfrac {2\cdot 3}{3\cdot 3}}={\tfrac {6}{9} }} .
+Von links nach rechts gelesen wurde der Bruch erweitert, von rechts nach links gekürzt.
+Der Wert einer in gemischter Schreibweise dargestellten Bruchzahl ändert sich nicht, wenn man den ganzzahligen Anteil als Scheinbruch mit dem Nenner des Bruchteils schreibt und die verbliebenen Bruchanteile hinzuzählt.
+Umgekehrt kann man bei einem unechten Bruch die Bruchteile, die Ganze ergeben, abspalten und die verbleibenden als Bruch anfügen.
+Beispiel: 8 3 = 6 3 + 2 3 = 2 + 2 3 = 2 2 3 {\displaystyle {\tfrac {8}{3}}={\tfrac {6}{3}}+{\tfrac {2}{3}}=2+{\tfrac {2}{3}}=2{\tfrac {2}{3 } }} .
+Von links nach rechts gelesen wurden Ganze abgespalten, von rechts nach links wurde die gemischte Zahl eingerichtet.
+Gemeine Brüche, die in ihrem Nenner übereinstimmen, heißen gleichnamig.
+Werden Brüche so erweitert, dass sie danach die gleichen Nenner haben, so nennt man das gleichnamig machen.
+Beim praktischen Rechnen sollte dazu der Hauptnenner der Brüche bestimmt werden, das ist das kleinste gemeinsame Vielfache (kgV) der Nenner.
+Beispiel: Die Brüche 2 7 ; 1 6 ; 9 14 {\displaystyle {\tfrac {2}{7}};{\tfrac {1}{6}};{\tfrac {9}{14}} } sollen gleichnamig gemacht werden.
+Das kgV der Nenner ist 2 * 3 * 7 = 42 {\displaystyle 2\cdot 3\cdot 7=42} , also werden alle drei Brüche so erweitert, dass ihr Nenner 42 lautet:
+Die gleichnamigen Darstellungen lassen sich nun beispielsweise verwenden, um die dargestellten Bruchzahlen der Größe nach zu ordnen, indem man ihre Zähler vergleicht:
+Die Brüche, die addiert oder subtrahiert werden sollen, werden zunächst gleichnamig gemacht, anschließend werden ihre Zähler addiert bzw. subtrahiert.
+Beispiel: 1 6 + 2 15 = 5 30 + 4 30 = 9 30 = 3 10 {\displaystyle {\tfrac {1}{6}}+{\tfrac {2}{15}}={\tfrac {5}{30}}+{\tfrac {4}{30}}={\tfrac {9}{30}}={\tfrac {3}{10} }} .
+Brüche werden multipliziert, indem man ihre Zähler und Nenner miteinander multipliziert.
+Das Produkt der Zähler ist dann der Zähler des Ergebnisses, das Produkt der Nenner ist dann der Nenner des Ergebnisses.
+Beispiel: 2 3 * 9 14 = 2 * 9 3 * 14 = 3 7 {\displaystyle {\tfrac {2}{3}}\cdot {\tfrac {9}{14}}={\tfrac {2\cdot 9}{3\cdot 14}}={\tfrac {3}{7}}} .
+Durch einen Bruch wird dividiert, indem man mit seinem Kehrwert multipliziert.
+Beispiel: 2 15 : 14 27 = 2 15 * 27 14 = 2 3 * 5 * 3 * 9 2 * 7 = 1 * 9 5 * 7 = 9 35 {\displaystyle {\tfrac {2}{15}}:{\tfrac {14}{27}}={\tfrac {2}{15}}\cdot {\tfrac {27}{14}}={\tfrac {2}{3\cdot 5}}\cdot {\tfrac {3\cdot 9}{2\cdot 7}}={\tfrac { 1\cdot 9}{5\cdot 7}}={\tfrac {9}{35} }} .
+Dabei dürfen, wie im Beispiel dargestellt, Zwischenergebnisse gekürzt werden (hier beispielsweise die 3 und die 2 im vorletzten Schritt).
+Beim Multiplizieren oder Dividieren von gemischten Brüchen ist es meist nötig, diese zunächst in gewöhnliche Brüche umzuwandeln.
+(Außer bei ganz einfachen Aufgaben, wie etwa 6 1 3 : 2 = 3 1 6 {\displaystyle 6{\tfrac {1}{3}}:2=3{\tfrac {1}{6}}} .)
+Beim Addieren und Subtrahieren dagegen ist es viel günstiger, die Ganzen für sich zu betrachten und Bruchrechnung nur bei den verbleibenden echten Brüchen anzuwenden.
+Beim Addieren kann hier ein zusätzliches Ganzes auftreten, beim Subtrahieren mögen die Bruchteile nicht ausreichen, sodass eines der Ganzen zu einem Scheinbruch aufgeteilt werden muss:
+Die folgenden Regeln gelten sowohl beim Bruchrechnen im engeren Sinn als auch beim Rechnen mit Bruchtermen.
+Beim Rechnen mit Brüchen stehen die Variablen a , b , c , d , n {\displaystyle a,\;b,\;c,\;d,\;n\; } in den Regeln für bestimmte ganze Zahlen.
+Setzt man stattdessen für diese Variablen andere Ausdrücke, z. B. selbst wieder echte Brüche, Dezimalbrüche oder Terme ein, dann erhält man Regeln für das Rechnen mit Bruchtermen, das Bruchrechnen im weiteren Sinn.
+Beim Rechnen mit Brüchen liefern die abstrakten Rechenregeln stets korrekte Ergebnisse, häufig ist die Rechnung mit den "praktischen Rechenregeln" weniger aufwändig.
+Hilfreiche Eselsbrücken hierzu sind:
+Aus der Äquivalenz a b = a * c b * c {\displaystyle {\frac {a}{b}}={\frac {a\cdot c}{b\cdot c} }} für beliebige natürliche Zahlen c > 0 {\displaystyle c>0} folgt, dass jede rationale Zahl durch unendlich viele verschiedene Brüche dargestellt werden kann, denn es gilt a b = 2 a 2 b = 3 a 3 b = 4 a 4 b =  {\displaystyle {\frac {a}{b}}={\frac {2a}{2b}}={\frac {3a}{3b}}={\frac {4a}{4b}}=\dotsb } .
+Man dividiert also durch einen Bruch, indem man mit dem Kehrwert des Bruches, der als Divisor fungiert, multipliziert.
+Die Division wird also auf die Multiplikation zurückgeführt.
+Bruchterme, also Rechenausdrücke in der Form von gemeinen Brüchen, spielen in der elementaren Algebra eine wichtige Rolle.
+Im Allgemeinen enthalten Bruchterme neben Zahlen auch Variablen.
+Die Rechenregeln für Brüche können auch auf Bruchterme angewendet werden.
+Bei der Bestimmung des Definitionsbereiches eines Bruchterms ist zu beachten, dass der Nenner nicht den Wert 0 haben darf.
+Beispielsweise wäre der von x {\displaystyle x} abhängige Bruchterm 1 6 - 2 x {\displaystyle {\tfrac {1}{6-2x}}} beim Einsetzen von x = 3 {\displaystyle x=3} nicht definiert.
+Der Definitionsbereich ist also D = R  { 3 } {\displaystyle D=\mathbb {R} \setminus \{3\}} , wenn als Grundmenge die Menge der reellen Zahlen vorausgesetzt wird.
+In komplizierteren Fällen sollte der Nenner in Faktoren zerlegt werden, damit der Definitionsbereich erkennbar wird.
+Beispiel: x x 2 - 9 = x ( x + 3 ) ( x - 3 ) {\displaystyle {\tfrac {x}{x^{2}-9}}={\tfrac {x}{(x+3)(x-3)} }} hat den Definitionsbereich D = R  { - 3 ; + 3 } {\displaystyle D=\mathbb {R} \setminus \{-3;+3\}} .
+Kürzen bedeutet, dass man Zähler und Nenner durch denselben Rechenausdruck dividiert.
+Wichtig dabei ist, dass nur Faktoren von Produkten herausgekürzt werden können.
+Summen und Differenzen im Zähler und im Nenner müssen gegebenenfalls zuerst in Produkte zerlegt werden (Faktorisierung).
+Beispiele:
+Beim Kürzen eines Bruchterms kann sich der Definitionsbereich ändern!
+So ist im ersten Beispiel der ungekürzte, links stehende Term nur definiert, wenn a , b , c  0 {\displaystyle a,b,c\neq 0} gilt, der rechtsstehende bereits, wenn nur a  0 {\displaystyle a\neq 0} gilt.
+Im zweiten Beispiel ist der ungekürzte Term nur definiert, wenn x  3 y {\displaystyle x\neq 3y} gilt, der gekürzte ist ohne Einschränkungen definiert.
+Die Änderung des Definitionsbereiches eines Bruchterms beim Kürzen ist eine der Techniken, mit denen Funktionsterme stetig fortgesetzt werden können.
+Wie bei Zahlen ist es nötig, die gegebenen Bruchterme gleichnamig zu machen, d. h. auf den gleichen Nenner zu bringen.
+Man bestimmt einen möglichst einfachen gemeinsamen Nenner (Hauptnenner), der durch alle gegebenen Nenner teilbar ist.
+Beispiel:
+Als Hauptnenner ergibt sich 2 a 2 b {\displaystyle 2a^{2}b} .
+Die Erweiterungsfaktoren der drei gegebenen Bruchterme erhält man dadurch, dass man jeweils den gefundenen Hauptnenner durch den bisherigen Nenner dividiert.
+Die Erweiterungsfaktoren sind also b {\displaystyle b} , a {\displaystyle a} und 2 a 2 b {\displaystyle 2a^{2}b} .
+Häufig lässt sich der Hauptnenner nur erkennen, wenn man die Nenner in Faktoren zerlegt (Faktorisierung).
+Dabei greift man oft auf die Methode des Ausklammerns zurück oder verwendet binomische Formeln.
+Beispiel:
+Beim Multiplizieren von Bruchtermen müssen sowohl die Zähler als auch die Nenner multipliziert werden.
+Gemeinsame Faktoren von Zähler und Nenner sollten herausgekürzt werden.
+Beispiel: 4 x y z 2 * x z 6 y = 4 x 2 y z 6 y z 2 = 2 x 2 3 z {\displaystyle {\frac {4xy}{z^{2}}}\cdot {\frac {xz}{6y}}={\frac {4x^{2}yz}{6yz^{2}}}={\frac {2x^{2}}{3z } }}
+In komplizierteren Aufgaben sollte man Zähler und Nenner in Faktoren zerlegen, um sie bereits vor der eigentlichen Multiplikation herauskürzen zu können.
+Beispiel: a - 2 b 4 a + 1 * 16 a 2 - 1 a 2 - 4 a b + 4 b 2 = a - 2 b 4 a + 1 * ( 4 a + 1 ) ( 4 a - 1 ) ( a - 2 b ) 2 = 4 a - 1 a - 2 b {\displaystyle {\frac {a-2b}{4a+1}}\cdot {\frac {16a^{2}-1}{a^{2}-4ab+4b^{2}}}={\frac {a-2b}{4a+1}}\cdot {\frac {(4a+1)(4a-1)}{(a-2b)^{2}}}={\frac {4a-1}{a-2b } }}
+Die Division von Bruchtermen lässt sich auf die Multiplikation zurückführen.
+Man dividiert durch einen Bruchterm, indem man mit seinem Kehrwert multipliziert.
+Beispiel: 2 x - 3 5 x : 4 x 2 - 9 10 x 2 = 2 x - 3 5 x * 10 x 2 ( 2 x + 3 ) ( 2 x - 3 ) = 2 x 2 x + 3 {\displaystyle {\frac {2x-3}{5x}}:{\frac {4x^{2}-9}{10x^{2}}}={\frac {2x-3}{5x}}\cdot {\frac {10x^{2}}{(2x+3)(2x-3)}}={\frac {2x}{2x+3}} }
+Brüche kann man oft in sogenannte Partialbrüche zerlegen, deren Nenner ganze Potenzen von Primzahlen sind; z. B.:
+Es gibt auch Zerlegungen als sogenannte ägyptische Brüche (Stammbrüche), z. B.
+die alten Ägypter kannten nur solche Summen und haben mit diesen gerechnet.
+Das Zahlentripel ( 1 5 , 24 35 , 5 7 ) {\displaystyle ({\tfrac {1}{5}},{\tfrac {24}{35}},{\tfrac {5}{7}})} ist ein Beispiel eines pythagoreischen Bruchs (siehe auch pythagoreisches Tripel), denn
+Siehe Rationalisierung (Bruchrechnung).
+Die Konstruktion des Körpers der rationalen Zahlen als Brüche aus dem Ring der ganzen Zahlen wird in der abstrakten Algebra durch das Konzept des Quotientenkörpers auf beliebige Integritätsringe verallgemeinert.

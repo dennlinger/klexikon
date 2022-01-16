@@ -1,0 +1,142 @@
+Der Kasus (Pl.: Kasus mit langem u ) (auch: der Fall) ist eine grammatische Kategorie, das heißt eine Kategorie in der Flexion der nominalen Wortarten.
+Sie drückt die Abhängigkeit eines Satzteils aus, der von einem Wort regiert wird, oder bezeichnet verschiedene adverbielle Funktionen.
+Deshalb kann sie genauer auch als eine morpho-syntaktische Kategorie bezeichnet werden.
+Die Bezeichnung Kasus geht etymologisch auf das lateinische Wort casus (,gefallen', ,Fall'; zu cadere, ,fallen') zurück.
+Dieses Wort ist eine Lehnübersetzung vom griechischen Wort ptosis () (,Fall', auch in Bezug auf das Fallen der Würfel).
+Der griechische Grammatiker Dionysios Thrax hatte die Nomina als vom Verb ,abfallend' (,abhängig') aufgefasst (etwa wie noch heute in der Dependenzgrammatik) und dies als ptosis bezeichnet.
+Der Ausdruck "Kasus" ist mehrdeutig.
+In einem engeren Sinne ist mit "Kasus" der morphologische Kasus gemeint, das heißt die "Kasusmarkierung durch grammatische Morpheme".
+In der Morphologie ist der Kasus eine morphologische Kategorie, die durch ein System einander gegenüberstehender Formenreihen gekennzeichnet ist, üblicherweise definiert als
+Dieser morphologische Kasusbegriff ist auch auf das Deutsche anwendbar, da das Deutsche noch ein ausgeprägtes Flexionssystem der nominalen Wortarten kennt.
+Im Deutschen werden in der Deklination mit dem Kasus auch zugleich das Genus und der Numerus morphologisch gekennzeichnet.
+Hinsichtlich der Art der Markierung wird für das Deutsche manchmal zwischen einem reinen Flexionskasus (Beispiel: "Müllers Auto") und einem Präpositionalkasus (Beispiel: "das Auto von Müller") unterschieden.
+Im engeren Sinn ist mit Kasus jedoch Flexionskasus gemeint.
+Es gibt zwei Mechanismen, wie Wörter einen Kasus erhalten können:
+Die Zuweisung eines Kasus z. B. durch ein Verb an sein Objekt wird als Rektion bezeichnet.
+Eine zweite Möglichkeit ist Kongruenz, also z. B. die Übereinstimmung zwischen Substantiv, Adjektiv und Artikel innerhalb eines Objekts.
+Beispiel:
+Hier regiert das Verb bestellen den Akkusativ an seiner Ergänzung und die Präposition mit den Dativ an ihrer Ergänzung (die Ergänzung als ganze ist jeweils eingeklammert).
+Akkusativ bzw. Dativ zeigen sich dann an mehreren Ausdrücken innerhalb der Akkusativ- bzw. Dativergänzung, dies letztere ist nun die Wirkung der Kongruenzregel.
+Wie das Beispiel zeigt, ist die Kasusform am Substantiv selbst im Deutschen am wenigsten zu sehen, am eindeutigsten zeigt oft der Artikel den Kasus.
+Aus dem Griechischen stammt die Einteilung in Casus rectus (Nominativ, Vokativ oder Nominativ) und Casus obliquus (Genitiv, Dativ, Akkusativ, Ablativ oder Genitiv, Dativ, Akkusativ, Vokativ, Ablativ).
+Weitere Einteilungen sind die in lexikalischen und strukturellen Kasus (so in der generativen Syntax) und in syntaktischen und semantischen Kasus.
+Typischerweise trägt ein Wort nur eine einzige Kasusmarkierung, in einigen Sprachen gibt es jedoch auch Wörter mit zwei und mehr Kasusmarkierungen (Suffixaufnahme).
+Unabhängig von einer morphologischen Realisierung kann man den Kasus abstrakt definieren als "grammatische Kategorie der nominalen Wortarten ..., die der grammatischen Organisation des Satzes dient, indem die syntaktische Rolle von Substantivgruppen gekennzeichnet wird."
+Dieser Kasusbegriff bietet sich "für nicht flektierende Sprachen wie dem Englischen und Französischen (an), in denen syntaktische Funktionen hauptsächlich durch Wortstellung bzw. Satzstruktur kodiert werden." Ein abstrakter Kasusbegriff wird in der Sprachvergleichung verwendet.
+Als Spielart des abstrakten Kasus kann auch der Kasusbegriff der Kasusgrammatik angesehen werden.
+Die Kasusgrammatik bezeichnet mit "Kasus" (Tiefenkasus) die "semantisch/thematischen Relationen/Rollen" bzw. die "abstrakte logisch-semantische Relation zwischen Nominalphrase und Verb".
+Die deutsche Sprache kennt vier morphologische (durch Wortformen des Substantivs und Artikels markierte) Kasus:
+Beispielsweise ist in dem Satz
+Die Frau das Subjekt (im Nominativ), ihrem Bruder das Dativ-Objekt (= Ergänzung im Dativ), den Hut das Akkusativ-Objekt (= Ergänzung im Akkusativ) und ihres Mannes das Genitiv-Attribut (= Ergänzung im Genitiv).
+In der Regel findet bei Neutra und bei stark deklinierten Maskulina höchstens noch im Genitiv Singular und im Dativ Plural immer eine Kasus-Beugung, d. h. eine Veränderung der Wortform durch das Anhängen einer Endung an den Wortstamm bzw. den Pluralstamm, statt.
+Der Dativ Singular der starken Maskulina und Neutra wurde im 20. Jahrhundert oft noch flektiert: der Mann = dem Manne.
+Obwohl diese Form der Flexion heutzutage nicht mehr obligatorisch, sondern nur noch optional ist, erhält sich dieser Stand in vielen Redewendungen:
+Im echten Manne ist ein Kind versteckt:
+Das will spielen.
+(Friedrich Nietzsche); außerdem bleibt sie bei zahlreichen Substantiven - und besonders deren Wortverbindungen - üblich: dem Tode (nahe, geweiht ...) ist beispielsweise wesentlich gebräuchlicher als dem Tod.
+Schwache Maskulina sowie alle substantivierten Adjektive und Partizipien haben auch in anderen Kasus Flexionsendungen (des Menschen, den Boten, mit der Schönsten, für den Gebildeten).
+Der Verlust der Endungen ist wiederum Ursache für den Zusammenfall gleichlautender Kasus, wie im Englischen und Niederdeutschen (siehe unten).
+Das Deutsche scheint auf dem Wege zu sein, auch den Genitiv als Objekt-Kasus ("ich schäme mich seiner") zu verlieren (Sprachdrift).
+Bei den nicht mehr durch Endungen gekennzeichneten Fällen zeigen die Artikel den Kasus des entsprechenden Wortes an.
+In vielen deutschen Mundarten ist das Kasussystem einfacher als im Hochdeutschen.
+So kommt der Genitiv in den deutschen Mundarten oft nur noch in festen Redewendungen vor.
+Er wird in der Regel durch eine Kombination von Präposition und Substantiv ersetzt.
+Beispiel: das Haus meines Vaters wird ersetzt durch das Haus von meinem Vater oder durch meinem Vater sein Haus.
+In einigen Dialekträumen fallen Nominativ und Akkusativ zusammen, in anderen Dativ und Akkusativ (dieser Gemeinschaftskasus heißt dann Akkudativ oder Objektfall).
+In manchen Gegenden bleibt die Unterscheidung zwischen allen drei Kasus erhalten, in anderen verschwindet die Unterscheidung zwischen allen drei Kasus vollständig, sodass dort ein Einheitskasus aus Nominativ, Dativ und Akkusativ entsteht.
+Bei den Kasus in den deutschen Mundarten muss man zwischen den einzelnen Wortarten (Artikel, Adjektiv, Substantiv und Personalpronomen) und zwischen den drei grammatischen Geschlechtern (Genera) unterscheiden.
+Zum Beispiel verhält sich beim bestimmten Artikel die männliche Form (hochdeutsch der) anders als die weibliche und die sächliche Form (die bzw. das).
+Das Alemannische ist ein Dialektverbund der oberdeutschen Sprache, die sehr wenige Fälle kennt.
+Hier werden die Fälle anhand eines Luzerner Dialekts demonstriert.
+Es gibt keine einheitliche Angabe der Fälle im Alemannischen, da sie in den verschiedenen Dialekten teilweise sehr unterschiedlich sein können.
+Tatsächlich ist in konservativen alemannischen Dialekten das Kasussystem mitunter noch sehr viel besser erhalten, etwa im Walliserdeutschen.
+Substantive
+Die Formen des Nominativs und des Akkusativs sind in allen Genera identisch.
+Im Dativ wird als Artikel "am/de" verwendet.
+Das Wort selbst verändert sich nicht.
+Der Genitiv muss gesondert aufgeführt werden.
+Da ein Genitiv eigentlich gar nicht existiert, entfallen die wenigen Verben, die im Standarddeutschen noch ein Genitivobjekt fordern, (z. B. "bedürfen", "gedenken" oder "sich rühmen") im Alemannischen oder werden mit entsprechenden Präpositionen aufgeführt.
+Beispiel:
+Wird der Genitiv in einem Genitivattribut gefordert, wird er wie folgt angegeben:
+Er setzt sich also zusammen aus dem Dativ, auf den ein Possessivpronomen folgt.
+In der ersten Spalte ist angegeben, welches Genus das nachfolgende Wort hat.
+Je nachdem ändert sich auch das Possessivpronomen.
+Im Plural gibt es nur ein Possessivpronomen, weshalb die Genera im Plural nicht mehr einzeln aufgeführt sind.
+Diese Form eines Genitivs, der ja eigentlich gar keiner ist, kann nur auf Genitivattribute angewendet werden.
+Als Genitivobjekt ist sie nicht zu gebrauchen.
+Sie existiert auch im Standarddeutschen, wird aber heute nur noch sehr selten verwendet.
+So ist sie zu übersetzen (das Genus des Bezugswortes ist jeweils in Klammern angegeben):
+Außerdem existiert im Alemannischen eine zweite Form.
+Auch diese Form ist im Standarddeutsch vorhanden und wird auch heute öfter gebraucht.
+Diese Form eines rekonstruierten Genitivs setzt sich aus der Präposition "von", dem Artikel (bei maskulinen und neutralen Substantiven miteinander verschmolzen) und dem eigentlichen attributiven Substantiv zusammen.
+Das Bezugswort steht vor dem "Genitiv".
+Das Genus und der Numerus des Bezugswortes spielen in diesem Fall keine Rolle.
+Diese Form ist so zu übersetzen:
+In der hypothetischen indogermanischen Ursprungssprache markieren Adpositionen die grammatischen Relationen von Nominalsyntagmata.
+So lässt sich die Entwicklung des indoeuropäischen Kasussystems aus der sukzessiven Verschmelzung von zunächst eigenständigen Postpositionen mit den entsprechenden Nomina erklären.
+Folglich gehören Kasusaffixe aller Art in die gleiche Wortklasse wie die Adpositionen, denn beide Wortklassen stehen über den Vorgang der Verschmelzung miteinander in Verbindung (Wortbildung).
+Deshalb besteht zwischen den Kasusendungen der (traditionellen) Grammatik und den Prä- und Postpositionen nur ein Unterschied hinsichtlich ihres Verschmelzungsgrades.
+Dabei sind die Kasusendungen stärker, die Prä- und Postpositionen geringer verschmolzene Relatoren, die eine grammatische Relation am Nominalsyntagma markieren.
+In der weiteren Sprachdynamik kam es zu Ausdrucksveränderungen, die dann die komplexen und verschiedenen Kaususendigungen mit sich brachten.
+So kann als Beispiel der lateinische Ablativ Plural mit der Endung "-ibus" angeführt werden, dieser geht wahrscheinlich auf die proto-indoeuropäischen Postposition "*bhi" zurück.
+Das Urindogermanische kannte acht oder neun Fälle:
+Diese sind der Nominativ, der Vokativ (Anrede, Anruf), der Akkusativ (direktes Objekt des Satzes, Bewegung zum Gegenstand hin), der Instrumental (Mittel, Werkzeug) der Dativ (indirektes Objekt, Nutznießer), der Ablativ (Bewegung vom Gegenstand weg, Grund), der Genitiv (nominales Attribut, Zugehörigkeit, Bereich) und der Lokativ (Ort des Gegenstandes, Angabe der Zeit).
+Ein eventueller neunter Kasus, der Direktiv oder Allativ (Bewegung zum Gegenstand hin), wird angesichts einiger Spuren im Althethitischen diskutiert.
+In fast allen indoeuropäischen Sprachen zeigt sich eine in der Zeit verlaufende Abtragung von Kasusendungen.
+Von den ursprünglichen acht bzw. neun postulierten indogermanischen Kasus - wobei im Sanskrit acht und im Latein sieben Kasus erhalten geblieben sind - trat in fast allen Sprachen dieser Familie ein Kasussynkretismus auf, d. h. einige Kasus fielen zusammen.
+So wurden etwa im Deutschen die Funktionen der ursprünglichen Kasus Instrumental, Ablativ und Lokativ vom Dativ übernommen.
+In der zeitlichen Entwicklung der indoeuropäischen Sprachen kann man einen allmählichen Abbau der morphologischen Kasus unter deren Ersetzung durch Präpositionen oder durch funktionale Fixierung bestimmter Positionen im Satz beobachten.
+In der hypothetischen proto-indoeuropäischen Sprache lassen sich drei Kasus mit adverbialen Funktionen ausmachen, so der Ablativ, der Instrumental und der Lokativ.
+Darüber hinaus lassen sich eine große Anzahl von Adverbien auf ursprüngliche Kasusformen zurückführen, die adverbiale Funktionen erfüllten.
+Das Adverb als Wortart modifiziert Verben, Adjektive, Adverbiale oder Satzteile semantisch.
+Man subsumiert die Adverbien zusammen mit den Prä- und Postpositionen sowie den Konjunktionen zu den nichtflektierbaren Partikeln.
+Die daraus entstandenen Sprachen (baltische, slawische Sprachen, sowie Latein oder Altgriechisch) haben diese vollständig oder nur zum Teil erhalten (teilweise unter anderen Namen).
+Auch das Deutsche besaß bis vor etwa eintausend Jahren noch einen Instrumental-Kasus.
+Man vergleiche dazu die Entwicklung der Kasusformen von der rekonstruierten Ursprache bis heute in folgender Tabelle anhand des Beispielnomens ,Wolf':
+Der Themavokal =o verschmilzt in den indogermanischen Tochtersprachen mit den Kasusausgängen häufig zu einem neuen Suffix.
+Von den acht Kasus des Indogermanischen haben sich im Altgriechischen fünf erhalten:
+Nominativ, Akkusativ, Genitiv, Dativ und Vokativ (Anredeform).
+Nach ihrer Verwendungsweise werden zahlreiche verschiedene Kasusfunktionen unterschieden.
+Das altgriechische Kasussystem ähnelt in seinen Grundzügen dem deutschen.
+Zu Einzelheiten siehe Altgriechische Sprache.
+Das Lateinische kennt sechs ausgeprägte Kasus: Nominativ, Genitiv, Dativ, Akkusativ, Vokativ und Ablativ.
+Der Vokativ gleicht meist dem Nominativ, nur in der O-Deklination ist er systematisch geschieden, ferner haben griechische Fremdwörter der ersten (Beispiel: Nominativ Aeneas, Vokativ Aenea), zweiten (Panthus, Panthu) und dritten Deklination (Paris, Pari) teilweise eine eigene Vokativform.
+Bei Städtenamen der a/o-Klasse erscheinen überdies Reste des Lokativs.
+Einzelheiten unter Lateinische Grammatik.
+Meisenberg und Gabriel (2007) bemerken:
+An die Stelle eines Flexionskasus tritt ein Präpositionalkasus.
+Im Altfranzösischen gab es noch ein Zweikasussystem.
+Das Kasussystem als solches aber wurde in den übrigen romanischen Sprachen weitgehend aufgegeben.
+Statt (lateinisch):
+(spanisch):
+Reste eines morphologischen Kasus finden sich bei den romanischen Sprachen noch bei den Personalpronomina.
+Lediglich im Rumänischen gibt es noch "ein rudimentäres Kasussystem".
+Von den indogermanischen acht Kasus werden nur sechs im Urgermanischen fortgeführt; von diesen Formen wiederum gehen in den Nachfolgesprachen allmählich immer mehr verloren:
+Im Niederländischen ist das Kasussystem weitestgehend verschwunden.
+Bei den Substantiven und Adjektiven gibt es keine Unterscheidung zwischen den Kasus mehr.
+Bei den Personalpronomina gibt es noch die Unterscheidung zwischen Subjektfall und Objektfall, z. B. ik ,ich' (Subjektfall)  mij, me ,mir oder mich' (Objektfall).
+Dabei ist me die unbetonte Form von mij.
+Gelegentlich kommen noch Reste weiterer Kasusunterscheidungen vor.
+In der Schriftsprache gibt es beim Personalpronomen der dritten Person Plural die Unterscheidung zwischen hen und hun.
+Dieser Unterschied wird in der Schriftsprache aber selten gemacht und kommt in der gesprochenen Sprache nicht vor.
+Weitere Kasusunterscheidungen kommen in feststehenden Ausdrücken und in Archaismen vor.
+Beispiele:
+Der weibliche und der sächliche bestimmte Artikel haben im niederdeutschen Sprachraum einen Einheitskasus.
+Eine Ausnahme bilden bei den sächlichen Artikeln feste Formen wie to'n Bispill (zum Beispiel), in denen noch ein Dativrelikt aus früheren Sprachstufen zu finden ist.
+Der männliche bestimmte Artikel hat nur in einem kleinen Teil des Sprachraums (nämlich in Südschleswig) den Einheitskasus Nominativ-Dativ-Akkusativ.
+Ein niederdeutsches Beispiel für die vorhandene Opposition Nominativ-Objektfall (Akkudativ) beim männlichen Nomen ist folgendes:
+Weitere Kasusrelikte finden sich beim Genitiv.
+Im westlichen Sprachgebiet gibt es, wohl durch das Niederländische beeinflusst, Formen wie s'Avends (des Abends).
+Die slawischen Sprachen lassen sich in zwei Gruppen unterteilen.
+In den baltischen Sprachen Litauisch und Lettisch unterscheidet sich die Anzahl der Fälle.
+Nicht-indogermanische Sprachen (z. B. finno-ugrische) kennen zum Teil deutlich mehr Fälle als die indogermanischen Sprachen.
+Im Estnischen sind es beispielsweise 14, im Finnischen 15, im Wepsischen 24, und im Ungarischen je nach Zählung zwischen 0 und 31.
+Jedoch ist es recht schwierig, dem Begriff des Kasus eine allgemeingültige Definition zu geben.
+Manche Linguisten bezweifeln, dass er auf alle Sprachen (z. B. Englisch oder Ungarisch) anwendbar ist.
+Die folgende Liste ist zum einen nicht vollständig und satzlogische Funktionen mehrerer Kasus können sich zum anderen überlappen.
+Eine Satzrolle (Aktant), die in einer Sprache durch einen der aufgeführten Kasus ausgefüllt wird, mag in einer anderen durch einen anderen ausgefüllt werden - meist kennt sie dann nur den einen der beiden.
+Dabei beschreiben die Aktanten eine semantische Rolle, aber keine syntaktische Funktion, weshalb etwa auch zwischen Agens und Subjekt klar unterschieden werden muss.
+Der Kasus bildet eine syntaktische Relation in einem Satz ab.
+Deshalb besteht die Hauptaufgabe dieser Formen darin, grammatische Relationen wie die zwischen Subjekt und Objekt zu markieren.
+In den Sprachen der Welt zeigt sich, dass ein Teil der Sprachen Kasusmarkierungen verwendet, wo ein anderer Teil Adpositionen (Prä- bzw. Postpositionen) benutzt, d. h., der Unterschied zwischen beiden Strategien äußert sich häufig nur in der Morphologie, nicht jedoch in der Funktion (Semantik).
+Von einigen zeitgenössischen Sprachtypologen wird daher der engl. Begriff flag bzw. flagging ("Flagge" bzw. "Beflaggung") verwendet, um beide Phänomene im Hinblick auf ihre Semantik unter einem Oberbegriff zusammenzufassen.

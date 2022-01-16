@@ -1,0 +1,112 @@
+Als Sonnenenergie oder Solarenergie bezeichnet man die Energie der Sonnenstrahlung, die in Form von elektrischem Strom, Wärme oder chemischer Energie technisch genutzt werden kann.
+Sonnenstrahlung ist dabei die elektromagnetische Strahlung, die auf der Sonnenoberfläche wegen ihrer Temperatur von ca. 5500 °C als Schwarzkörperstrahlung entsteht, was letztlich auf Kernfusionsprozesse im Sonneninneren (das Wasserstoffbrennen) zurückgeht.
+
+Die Sonnenenergie lässt sich sowohl direkt (z. B. mit Photovoltaikanlagen oder Sonnenkollektoren) als auch indirekt (z. B. mittels Wasserkraftwerken, Windkraftanlagen und in Form von Biomasse) nutzen.
+Die Nutzung der Solarenergie ist ein Beispiel für eine moderne Backstop-Technologie.
+
+== Intensität
+
+Die auf die Erde treffende Sonnenstrahlung ist, seitdem sie gemessen wird, annähernd konstant.
+Es gibt auch keine Hinweise auf deutliche Schwankungen in historischer Zeit.
+Die durchschnittliche Intensität der Sonneneinstrahlung beträgt an der Grenze der Erdatmosphäre etwa 1367 W/m^2.
+Dieser Wert wird auch als Solarkonstante bezeichnet.
+Ein Teil der eingestrahlten Energie wird von der Atmosphäre von festen (z. B. Eiskristallen, Staub) oder flüssigen Schwebeteilchen sowie von den gasförmigen Bestandteilen gestreut und reflektiert.
+Ein weiterer Teil wird von der Atmosphäre absorbiert und bereits dort in Wärme umgewandelt.
+Der Rest geht durch die Atmosphäre hindurch und erreicht die Erdoberfläche.
+Dort wird er wiederum zum Teil reflektiert und zum Teil absorbiert und in Wärme umgewandelt.
+Unter anderem in der Photosynthese, der Photothermik und der Photovoltaik wird diese Energie nutzbar gemacht.
+Die prozentuale Verteilung der Einstrahlung auf Reflexion, Absorption und Transmission hängt vom jeweiligen Zustand der Atmosphäre ab.
+Dabei spielen die Luftfeuchtigkeit, die Bewölkung und die Länge des Weges, den die Strahlen durch die Atmosphäre zurücklegen, eine Rolle.
+Die auf die Erdoberfläche auftreffende Strahlung beträgt weltweit im Tagesdurchschnitt (bezogen auf 24 Stunden) noch ungefähr 165 W/m^2 (mit erheblichen Schwankungen je nach Breitengrad, Höhenlage und Witterung).
+Die gesamte auf die Erdoberfläche auftreffende Energiemenge ist mehr als fünftausend Mal größer als der Energiebedarf der Menschheit.
+Letztlich wird die gesamte Energie der Sonne in Form von reflektiertem Licht und Wärmestrahlung wieder an den Weltraum abgegeben.
+
+== Nutzung der Sonnenenergie
+
+Der Menge nach größter Nutzungsbereich der Sonnenenergie ist die Erwärmung der Erde, so dass im oberflächennahen Bereich biologische Existenz in den bekannten Formen möglich ist, gefolgt von der Photosynthese der Algen und Höheren Pflanzen.
+Die meisten Organismen, die Menschen eingeschlossen, sind entweder direkt (als Pflanzenfresser) oder indirekt (als Fleischfresser) von der Sonnenenergie abhängig.
+Brennstoff und Baumaterial stammen ebenfalls daraus.
+Die Sonnenenergie ist weiterhin dafür verantwortlich, dass es in der Atmosphäre zu Luftdruckunterschieden kommt, die zu Wind führen.
+Auch der Wasserkreislauf der Erde wird von der Sonnenenergie angetrieben.
+
+Neben diesen "natürlichen" Effekten gibt es zunehmend eine technische Nutzung vor allem im Bereich Energieversorgung.
+Da die Sonnenenergie eine regenerative Energiequelle ist, wird ihre Nutzung in vielen Ländern gefördert, in Deutschland beispielsweise durch das Erneuerbare-Energien-Gesetz (EEG).
+
+Mit Hilfe der Solartechnik lässt sich die Sonnenenergie auf verschiedene Arten sowohl direkt als auch indirekt nutzen:
+
+Direkte Nutzungsformen umfassen:
+
+Indirekt wird Sonnenenergie genutzt:
+
+== Speicherung der Sonnenenergie
+
+Die solare Einstrahlung unterliegt tages- und jahreszeitlichen Schwankungen von Null bis zum Maximalwert der Bestrahlungsstärke von rund 1000 W/m^2.
+Um die notwendige Energieversorgungssicherheit zu gewährleisten, sind deshalb immer zusätzlich Maßnahmen wie Energiespeicher, Regelungstechnik oder auch Zusatzsysteme wie zum Beispiel ein mit Brennstoff betriebener Heizkessel notwendig.
+
+Im März 2011 ging in der Morbacher Energielandschaft die erste Solargas-Anlage in Deutschland in Betrieb.
+Dabei wird Sonnenenergie in synthetisches Erdgas umgewandelt und in Gasform gespeichert.
+
+Thermische Solaranlagen verwenden unterschiedliche Arten von Wärmespeichern.
+Diese reichen bei Geräten für Warmwasser meist für einige Tage aus, damit - zumindest im Sommerhalbjahr - auch in der Nacht und während einer Schlechtwetterperiode ausreichend Wärme zur Verfügung gestellt werden kann.
+Langzeitspeicher, die sommerliche Wärme in den Winter übertragen, sind technisch möglich, aber noch relativ teuer.
+
+In solarthermischen, elektrischen Kraftwerken wird durch Spiegel konzentrierte Sonnenstrahlung genutzt, um Flüssigkeiten zu verdampfen und mittels Dampfturbinen Strom zu gewinnen.
+Wärmespeicher (beispielsweise Flüssigsalztanks) können darüber hinaus einen Teil der Wärme (mit geringen Verlusten) tagsüber speichern, um kurzfristige Bedarfsschwankungen auszugleichen oder die Dampfturbine nachts anzutreiben.
+
+In photovoltaischen Kraftwerken wird elektrischer Strom mittels Halbleitereffekten erzeugt.
+Der dadurch produzierte Gleichstrom wird entweder im Rahmen einer dezentralen Stromerzeugung in einem Inselstromnetz als solcher verwendet (Pufferung zum Beispiel durch Akkumulatoren) oder über Wechselrichter in ein vorhandenes Wechselstromnetz eingespeist.
+Dort ist die Speicherung über dezentrale Batterien und die Umwandlung in Wasserstoff und Methan und der anschließenden Speicherung im Erdgasnetz möglich.
+Die bereits bestehenden Erdgasspeicher in Deutschland würden ausreichen, um hier den Speicherbedarf einer Stromversorgung zu decken, die überwiegend auf der Erzeugung durch Photovoltaik- und Windkraftanlagen basiert.
+
+== Potenzial der Sonnenenergie
+
+Als die größte Energiequelle liefert die Sonne pro Jahr eine Energiemenge von etwa 1,5 * 1018 kWh auf die Erdoberfläche.
+Diese Energiemenge entspricht mehr als dem 10.000fachen des Weltenergiebedarfs der Menschheit im Jahre 2010 (1,4 x 1014 kWh/Jahr).
+
+Die Zusammensetzung des Sonnenspektrums, die Sonnenscheindauer und der Winkel, unter dem die Sonnenstrahlen auf die Erdoberfläche fallen, sind abhängig von Uhrzeit, Jahreszeit und Breitengrad.
+Damit unterscheidet sich auch die eingestrahlte Energie.
+Diese beträgt beispielsweise etwa 1.000 kWh pro Quadratmeter und Jahr in Mitteleuropa und etwa 2.350 kWh pro Quadratmeter und Jahr in der Sahara.
+Es gibt verschiedene Szenarien, wie eine regenerative Energieversorgung der EU realisiert werden kann, unter anderem auch mittels Energiewandlung in Nordafrika und Hochspannungs-Gleichstrom-Übertragung.
+So ergaben zum Beispiel satellitengestützte Studien des Deutschen Zentrums für Luft- und Raumfahrt (DLR), dass mit weniger als 0,3 Prozent der verfügbaren Wüstengebiete in Nordafrika und im Nahen Osten durch Thermische Solarkraftwerke genügend Energie und Wasser für den steigenden Bedarf dieser Länder sowie für Europa erzeugt werden kann.
+Die Trans-Mediterranean Renewable Energy Cooperation, ein internationales Netzwerk von Wissenschaftlern, Politikern und Experten auf den Gebieten der erneuerbaren Energien und deren Erschließung, setzt sich für eine solche kooperative Nutzung der Solarenergie ein.
+Eine Veröffentlichung aus den USA namens Solar Grand Plan schlägt eine vergleichbare Nutzung der Sonnenenergie in den USA vor.
+
+Es wurde auch darüber nachgedacht, Solarenergie per Satellit einzufangen und auf die Erde zu übermitteln.
+Der Vorteil läge in einer höheren Energiedichte am Boden und in der Vermeidung von Tag-Nacht-Schwankungen.
+Auf Grund des großen dafür nötigen Aufwands, weit oberhalb von aller bisherigen Raumfahrttechnik, wurde jedoch keines dieser Projekte bisher realisiert.
+
+== Abhängigkeit der Strahlungsleistung vom Einfallswinkel
+
+Die Sonneneinstrahlung auf die Erdoberfläche ist die Haupteinflussgröße des Wettergeschehens und des regionalen wie globalen Klimas.
+Die Strahlungsstromdichte (engl. heat flux density, irradiation), also die Strahlungsenergie pro Fläche und Zeitspanne, hängt vom Winkel der Sonneneinstrahlung ab.
+Bei flachem Winkel treffen weniger Photonen pro Fläche auf dem Boden auf und erwärmen ihn weniger stark als bei senkrechtem Einfall.
+Dies kommt durch folgende Formel zum Ausdruck:
+
+Hierbei bezeichnet J {\displaystyle J } die Strahlungsleistung, J 0 {\displaystyle J_{0}} die Strahlungsleistung bei senkrechtem Einfallswinkel und  {\displaystyle \beta } den Einfallswinkel gegenüber dem Horizont.
+
+Verstärkt wird der Effekt durch den verlängerten Weg, den das Licht bei flachen Winkeln durch die Atmosphäre zurücklegen muss.
+
+== Umweltbilanz
+
+Nach Berechnungen des deutschen Umweltbundesamtes amortisieren sich Photovoltaikanlagen energetisch auch im verhältnismäßig sonnenarmen Deutschland nach ein bis zwei Jahren Betriebsdauer.
+D. h. nach dieser Zeit hat eine Anlage soviel Energie erzeugt, wie für ihre Herstellung, den Betrieb und die Entsorgung aufgewendet werden müssen.
+Hinsichtlich der Treibhausgas-Emissionen entstehen durch die Herstellung, den Betrieb und die Entsorgung einer Photovoltaikanlage bei einer Nutzungsdauer von 30 Jahren rechnerische Emissionen in Höhe von 67 Gramm CO2-Äquivalenten / kWh.
+Bei Steinkohle- und Gaskraftwerken wird dieser Wert auf 694 Gramm CO2-Äquivalente / kWh geschätzt.
+Photovoltaikanlagen verursachen pro produzierter Energieeinheit also nur etwa ein Zehntel der Treibhausgasbelastung von Steinkohle- und Gaskraftwerken.
+
+== Bewertung der Sonnenenergienutzung
+
+Die Nutzung der Sonnenenergie bietet spezifische Vorteile, weist aber auch (potentielle) Nachteile auf.
+
+=== Vorteile
+
+=== Nachteile
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

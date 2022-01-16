@@ -1,0 +1,14 @@
+Das Maschinenelement Zahnrad ist ein Rad mit über den Umfang gleichmäßig verteilten Zähnen.
+Zwei oder mehr miteinander gepaarte Zahnräder bilden ein Zahnradgetriebe.
+Es wird vorwiegend zur Übertragung zwischen zwei Drehungen oder einer Drehung und einer linearen Bewegung (Paarung eines Zahnrades mit einer Zahnstange) gebraucht.
+Zahnradgetriebe bilden unter den Getrieben die größte Gruppe.
+Sie sind formschlüssig, und somit schlupffrei.
+Soll das Übersetzungsverhältnis auch im Kleinen konstant sein, das heißt vom Eingriff des vorherigen bis zum Eingriff des nachfolgenden Zahns in die Lücken des Gegenrades, so ist das erste Verzahnungsgesetz zu beachten.
+Der Formschluss geht nicht verloren, wenn dafür gesorgt wird, dass der nachfolgende Zahn bereits im Eingriff ist, bevor der Eingriff des vorangehenden Zahns abbricht (zweites Verzahnungsgesetz).
+Die Form der Zähne ist unter Beachtung der Verzahnungsgesetze grundsätzlich beliebig.
+Die für eine Eingriffsfläche gewählte Form bestimmt aber die Form der Eingriffsfläche am Gegenrad.
+Praktisch beschränkt man sich auf Zahnformen, die einfach herstellbar (damit auch geometrisch einfach beschreibbar) sind.
+Die größte Verbreitung haben die Evolventenverzahnung und die Zykloidenverzahnung mit jeweils eigenen Vorteilen im Gebrauch.
+Neben reinen Zahnpaarungen in Zahnradgetrieben gibt es Paarungen zwischen Kettengliedern und Zähnen von Zahnrädern in Kettengetrieben.
+Hier greifen Kettenglieder in Zahnlücken ein (zum Beispiel bei einer Fahrradkette am Kettenrad und Ritzel).
+In einem Zahnriemengetriebe ist die Kette durch einen Riemen mit Zähnen (Zahnriemen) ersetzt (zum Beispiel für den Antrieb der Nockenwelle in Viertaktmotoren).

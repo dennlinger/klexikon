@@ -1,0 +1,115 @@
+Software (dt.
+= weiche Ware soft = leicht veränderbare Komponenten , Komplement zu ,Hardware' für die physischen Komponenten) ist ein Sammelbegriff für Programme und die zugehörigen Daten.
+Sie kann als Beiwerk zusätzlich Bestandteile wie z. B. die Softwaredokumentation in der digitalen oder gedruckten Form eines Handbuchs enthalten.
+Software bestimmt, was ein softwaregesteuertes Gerät tut und wie es das tut (in etwa vergleichbar mit einem Manuskript).
+Die Hardware (das Gerät selbst) führt Software aus (arbeitet sie ab) und setzt sie so in die Tat um.
+Software ist die Gesamtheit von Informationen, die man der Hardware hinzufügen muss, damit ein softwaregesteuertes Gerät für ein definiertes Aufgabenspektrum nutzbar wird.
+Durch das softwaregesteuerte Arbeitsprinzip kann eine starre Hardware individuell arbeiten.
+Es wird heute nicht nur in klassischen Computern angewendet, sondern auch in vielen eingebetteten Systemen, wie beispielsweise in Waschmaschinen, Mobiltelefonen, Navigationssystemen und modernen Fernsehgeräten.
+Der Begriff Software ist bis heute nicht einheitlich und auch nicht eindeutig definiert.
+Das geht u. a. darauf zurück, dass "innerhalb der Softwaretechnik eine einheitliche solide, konsistente und systematische Begriffsbildung durch eine hohe Innovationsgeschwindigkeit und Praxisnähe behindert" wird.:22 Es existieren daher verschiedene Definitionen, die sich je nach Autor und Kontext oft auch nur in Details unterscheiden.
+Die Bezeichnung Software wird im allgemeinen Sprachgebrauch meist nur auf Programme bezogen, nicht aber auf andere Daten.
+Daneben können aber auch der Quelltext, weitere Daten oder die Dokumentation je nach Definition hinzugezählt werden.
+Außerdem wird Software auch als Gattungsbegriff für unterschiedliche Arten von Programmen verwendet (Grafiksoftware, Anwendungssoftware, Standardsoftware, Sicherheitssoftware u. v. a.).
+Der Ausdruck Software ist ein Kunstwort, das von John W. Tukey im Jahr 1958 im American Mathematical Monthly als Gegenstück zu dem wesentlich älteren Wort Hardware das erste Mal verwendet wurde.
+Dabei bezeichnet Hardware alle physischen Bestandteile eines Computers.
+In diesem Sinn könnten unter Software - als dem Gegenstück zur Hardware - grundsätzlich alle elektronisch gespeicherten Daten verstanden werden.
+Als Definition genügt diese Sichtweise jedoch nicht.
+Die aktuelle ISO/IEC-Norm 24765 ersetzte die DIN-Norm 44300 und enthält für Software folgende Definitionen:
+Welche dieser Definitionen zutrifft, hängt vom jeweiligen Kontext ab, wobei auch hier die Übergänge fließend sind.
+Software als Programm
+In der Softwaretechnik besteht Software aus "Computerprogrammen in jeder Erscheinungsform, vom Quelltext bis zum direkt ausführbaren Maschinencode".
+Computerprogramme bestehen oft aus mehreren Komponenten, die sich auch über mehrere Dateien verteilen können.
+Software als Programm und Dokumentation
+Im Softwarerecht (oft im Zusammenhang mit dem Softwareerwerb) wird Software auch als Softwareprodukt bezeichnet, das "als Beiwerk zusätzlich Bestandteile wie z. B. die Dokumentation in digitaler oder gedruckter Form enthalten kann oder muss".
+So auch im Urheberrecht, bei dem das Entwurfsmaterial zur Software gehört, wie der Quelltext, auch Quellprogramm genannt.
+D. h. der Urheberrechtsschutz gilt i. d. R. auch für den Quellcode .
+Software als Programm, Dokumentation und Daten
+Einige Definitionen nennen neben dem Programm selbst (und evtl. der Dokumentation) auch weitere Daten als zur Software gehörend ("zugehörige Daten").
+Im Glossar des IEEE für Softwareentwickler werden Beispiele für derartige nicht-ausführbare Softwareteile genannt, wie Schriftarten, Grafiken, Audio- und Videoaufzeichnungen, Vorlagen, Wörterbücher, Dokumente und Informationsstrukturen (wie Datenbank-Datensätze).
+Weiterhin gibt es Software-Definitionen, die sämtliche Daten umschließen, die das Computerprogramm nutzt und darüber hinaus auch die Dokumentation einbeziehen.
+Demgegenüber gibt es auch Definitionen, die sowohl die Dokumentation als auch die zur Verarbeitung vorgesehenen Daten ausschließen.
+Eine klare Trennlinie ist jedoch nicht näher definiert, die beschreibt, welche Daten konkret gemeint sind (z. B. die zu verarbeitenden Daten) oder welche Daten ,notwendig' oder ,zugehörig' sind.
+In den 1950er Jahren waren Software und Hardware noch verbunden und als Einheit wahrgenommen.
+Die Software war dabei Teil der Hardware und wurde als Programmcode bezeichnet.
+1958 prägte der Statistiker John W. Tukey den Begriff Software erstmals.
+Später sorgte dann die Entscheidung der US-Regierung in den 1970er Jahren für eine Neuheit, dass IBM auf Rechnungen Software und Hardware getrennt zu berechnen und aufzuführen habe.
+Das entsprach einer Anerkennung der Einzelhaftigkeit von Software von offizieller Seite und einer endgültigen Aufspaltung von Hardware und Software bzw. einer Abgrenzung der Software von der Hardware.
+Dieser Entwicklung folgte dann in den 1970er Jahren die Gründung von Firmen, die erstmals nur mit Software handelten und nur Software und keine Hardware entwickelten.
+Zu diesen Firmen gehörte in den USA Microsoft und in Deutschland SAP.
+Die Existenz solcher Firmen erscheint im 21. Jahrhundert als Selbstverständlichkeit, stellte damals jedoch eine erhebliche Neuerung dar.
+Der logische Übergang zwischen Hard- und Software lässt sich an den frühen Spielhallenspielen verdeutlichen, wie das Spiel Breakout, das im April 1976 veröffentlicht wurde.
+Damals bestand deren komplettes Programm (der Ablauf, die Logik) bildlich gesehen aus "vorverdrahteten Schalttafeln".
+Das von Atari produzierte Spielhallengerät verwendete keinen Prozessor.
+Bereits ein Jahr später, als das Spiel für den Computer programmiert wurde und man anfing, bei prozessorgesteuerten Geräten zwischen den Begriffen ,Hardware' und ,Software' zu unterscheiden, gab es Breakout als Software.
+Das Spiel bestand nicht mehr aus "vorverdrahteten Schalttafeln", sondern aus Anweisungen für einen Prozessor inklusive der für die Abarbeitung notwendigen weiteren Informationen, die gemeinsam auf einem Datenträger hinterlegt wurden.
+Software ist immateriell und besteht aus den Sprachen und Notationen, in denen sie formuliert ist.:37 Software kann zwar auf bestimmten Medien gespeichert, gedruckt, angezeigt oder transportiert werden.
+Diese sind aber nicht die Software, sondern sie enthalten sie nur.
+Es ist zwar vorstellbar, Bits sichtbar und greifbar auf einem Trägermedium zu hinterlegen, doch grundsätzlich ist ,Software' ein abstrakter, von Trägermedien unabhängiger Begriff .
+Das trifft für den Gattungsbegriff ohnehin zu, aber auch für konkrete Ausprägungen wie ein bestimmtes Anwendungsprogramm.
+Als Analogie dazu ist es für den Begriff ,Oper' oder ,Zauberflöte' nicht begriffsbestimmend, ob sie im Theater aufgeführt, über Radio/TV übertragen oder als CD verkauft oder gehört wird, ob sie im Opernführer beschrieben oder in der Partitur aufgezeichnet ist.
+Zur Verarbeitung bestimmte Daten zählen im allgemeinen Sprachgebrauch nicht zum Begriff Software.
+Jedoch ist die Grenze zwischen Software und Daten fließend, denn je nach Situation können Daten und Programme in unterschiedlichen Rollen auftreten und die Begriffe dabei vertauscht werden:
+Dieser Zusammenhang, dass ein Programm sowohl als Daten als auch als Funktion auftreten kann, ist zentral in verschiedenen Disziplinen der Informatik, darunter die theoretische Informatik (u. a. Rekursionstheorie, Automatentheorie, Domaintheorie) und die technische Informatik (z. B. Von-Neumann-Architektur).
+Je nach Zusammenhang ist bei der Unterscheidung zwischen Hard- und Software eine oder mehrere der folgenden Bedeutungen gemeint:
+Die Gegensätze sind in der englischsprachigen Begriffsprägung (soft=weich, hard=hart) beabsichtigt.
+Software kann aus vielen unterschiedlichen Gesichtspunkten betrachtet werden, zum Beispiel:
+Obwohl dem Begriff ,Software' teilweise Attribute wie Flexibilität, Individualität, Leistungsfähigkeit etc. zugeschrieben werden, wird letztlich alles, was der Computer ,tatsächlich tut', nicht von der Software, sondern ausschließlich durch die Hardware ausgeführt.
+Software ,beschreibt' lediglich, was getan werden soll und in welcher Form das geschieht.
+Dazu wird auf unterster Ebene der Maschinencode der Software unter Nutzung des Betriebssystems (d. h. ebenfalls durch dessen Maschinenbefehle) in den Hauptspeicher des Computers geladen und dem Rechenwerk Schritt für Schritt (siehe Befehlszähler) zur Ausführung zugeführt.
+Dieses Arbeitsprinzip gilt für jede Art von Software, auch wenn sie z. B. von Interpretern ausgeführt wird:
+Diese sind ebenfalls Software, deren Maschinencode an der Hardwareschnittstelle ebenfalls wie beschrieben ausgeführt wird und die Maschinenbefehle nur speicherintern erzeugt.
+Auch Compiler, Makroprozessoren und jede andere Art von Systemsoftware werden nach diesem Prinzip ausgeführt.
+Der Maschinencode muss dafür in einer Form/Struktur vorliegen, die von der Hardware über deren darin implementierte Schnittstelle interpretiert und ausgeführt werden kann.
+Die Befehle zeigen durch ihren Inhalt und ihre Struktur an, was zu tun ist, welche Datenbereiche im Hauptspeicher dabei benutzt oder verändert werden sollen (über im Befehl enthaltene Adressierungsangaben) und gegebenenfalls an welcher Stelle das Programm fortzusetzen ist.
+Bei der Ausführung wirken also viele Schichten zusammen und führen als Gesamtheit zu Zustandsänderungen in der Hardware bzw. final zu den vorgesehenen Ergebnissen, etwa der Ausgabe einer Druckzeile, einem Datenzugriff oder der Anzeige eines Feldinhalts am Bildschirm.
+Bei in höheren Programmiersprachen entwickelten Anwendungen können so schon für relativ einfache Funktionen (wie Lesen aus der Datenbank) oft Hunderttausende oder Millionen von Maschinenbefehlen durchlaufen werden.
+Das in modernen Computern mögliche parallele Ausführen mehrerer Programme/ Prozesse wird im Wesentlichen durch das Betriebssystem bewirkt, das bei bestimmten Ereignissen den Wechsel von einer zur anderen Task einleitet und verwaltet.
+Siehe auch Multitasking.
+Im systematischen Zusammenwirken vieler Komponenten, das nur unter Anwendung klar definierter Schnittstellen möglich ist, "gehört Software also zu den komplexesten Artefakten, die Menschen bislang geschaffen haben".:37
+Die Software trägt zudem maßgeblich dazu bei, wie effizient die Hardware genutzt wird.
+Je nach Gestaltung der Algorithmen können mit derselben Hardware unterschiedliche Systemleistungen erreicht werden.
+Die Entwicklung von Software ist ein komplexer Vorgang.
+Dieser wird durch die Softwaretechnik, ein Teilgebiet der Informatik, systematisiert.
+Hier wird die Erstellung der Software schrittweise in einem Prozess von der Analyse über die Softwaremodellierung bis hin zum Testen als wiederholbarer Prozess beschrieben.
+In aller Regel wird die Software nach der Entwicklung mehrfach angepasst und erweitert.
+Der Software-Lebenszyklus kann durchaus mehrere Jahre betragen.
+In der Entscheidung zur Anschaffung von Software lässt sich i. W. der Einsatz von Standardsoftware oder die eigene Herstellung (Individualsoftware) unterscheiden.
+Besonders im betrieblichen Umfeld zieht diese Entscheidung häufig hohe Kosten nach sich.
+Auch können solche Entscheidungen Grundlage zur Umsetzung der Unternehmensstrategie sein oder sollen Unternehmensprozesse maßgeblich verbessern.
+Zur Vermeidung von Fehlinvestitionen sollte der Anschaffung ein systematischer Entscheidungsprozess vorausgehen.
+Im Wesentlichen für betriebliche Anwendungssoftware geltend kann Software aus (betriebs-)wirtschaftlicher Sicht als ,im Voraus geleistete geistige Arbeit', also als Investition betrachtet werden.
+Zum Beispiel erarbeiten die Programmautoren ein Lösungsverfahren für die korrekte Trennung aller deutschen Wörter in einem Textverarbeitungsprogramm.
+Damit ist im Voraus, also bevor diese Tätigkeit tatsächlich anfällt, schon für alle Schreiber, die mit diesem Textverarbeitungsprogramm arbeiten, die geistige Arbeit "korrektes Trennen deutscher Wörter" geleistet.
+Dabei wird die Eigenschaft von Computern genutzt, auf sie verlagerte Aufgaben erheblich schneller und zuverlässiger ausführen zu können als es bisher Menschen möglich war.
+Besonders auch in der Softwareentwicklung wird intensiv auf "im Voraus" entwickelte Algorithmen und Codeteile - als Teile eines Programms - zurückgegriffen (,Software-Wiederverwendung').
+Ein ähnlicher Zusammenhang wird in der Arbeitssoziologie gesehen:
+Derartige softwarebasierte Maßnahmen sind geeignet, Arbeitsinhalte und -abläufe erheblich zu verändern.
+Die Bandbreite reicht dabei vom Bereitstellen einfacher Hilfsmittel (etwa zur Summierung oder Durchschnittsermittlung) bis hin zur völligen Umgestaltung von Prozessen (durch Konzentration früher getrennter oder durch Zerlegung früher zentralisierter Arbeitsabläufe) - oder gar bis zu deren vollständigem Ersatz durch IT-Lösungen.
+Brödner u. a. nennen das "materialisierte" Kopfarbeit.
+Siehe auch Rationalisierung, Optimierung, Taylorismus.
+Für die Erstellung und den Betrieb von Software wurden bestimmte Qualitätskriterien festgelegt.
+Diese sollen als funktionale oder nicht-funktionale Eigenschaften von Software implementiert werden und beziehen sich auf die Funktionalität, Zuverlässigkeit, Benutzbarkeit, Effizienz, Änbderbarkeit und Übertragbarkeit.
+Detailliertere Angaben zu jedem dieser Haupt-Qualitätskriterien nennt beispielsweise die Norm ISO/IEC 9126.
+Für jeden Einzelfall von Softwareerstellung soll/kann festgelegt werden, welche konkreten Anforderungen im Detail zu berücksichtigen sind.
+Nach ISO/IEC 2382 wird Software wie folgt gegliedert (und bezeichnet):
+Unterteilung nach dem Grad der Individualität
+Rechtlich wird beim Erwerb von Software zwischen Individualsoftware und Standardsoftware unterschieden:
+Für Individualsoftware wird ein Werkvertrag bzw. Werklieferungsvertrag abgeschlossen, der Erwerb von Standardsoftware gilt als Sachkauf.
+Unterteilung nach der Art der erzeugten Ergebnisse
+Diese entstehen im Verlauf des Herstellungsprozesses von Software und können beispielsweise sein:
+Software nach der Art der Einbettung
+Einstufung nach Nutzungsrecht (Lizenz)
+Unterteilung nach Quellcode-Verfügbarkeit
+Einstufung nach Verfügbarkeit
+Weitere Softwarebegriffe
+Die Verbreitung und Nutzung von Software unterliegt dem Urheberrecht.
+In diesem Zusammenhang gibt es mehrere typische Überlassungsmodelle:
+Zwischen den oben genannten Hauptformen der Softwareverbreitung gibt es zahlreiche Zwischen- und Mischstufen.
+,Freie Software' ist eine soziale Bewegung, die unfreie Software als gesellschaftliches Problem begreift.
+Wobei "frei" hier nicht ,kostenlos' bedeutet (,Freie Software' ist nicht dasselbe wie ,Freeware'), sondern die Freiheiten für die Gesellschaft meint, die ein derart lizenziertes (auch kommerzielles) Produkt bietet.
+In den Augen der von Richard Stallman 1985 gegründeten Free Software Foundation (FSF) ist die Entscheidung für oder gegen freie Software deshalb primär eine ethische und soziale Entscheidung.
+Dagegen begreift die 1998 gegründete Open Source Initiative (OSI) quelloffene Software als bloßes Entwicklungsmodell, wobei die Frage, ob Software quelloffen sein sollte, dort eine rein praktische und keine ethische Frage darstellt.
+Die FSF wirft der OSI daher eine Ablenkung von den wesentlichen Punkten vor.
+Eric S. Raymond hat den Begriff ,Open Source' in der Annahme eingeführt, dass das unpopuläre Thema ,Freiheit' Geldgeber für solche Projekte abschrecken könne.
+Auch wenn es sich heute um zwei unterschiedliche Bewegungen mit unterschiedlichen Ansichten und Zielen handelt, verbindet sie die gemeinsame Wertschätzung für quelloffenen Code, was in zahlreichen Projekten mündet, in denen sie zusammenarbeiten.

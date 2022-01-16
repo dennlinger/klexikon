@@ -1,0 +1,125 @@
+Ein Winkel ist in der Geometrie ein Teil der Ebene, der von zwei in der Ebene liegenden Strahlen (Halbgeraden) mit gemeinsamem Anfangspunkt begrenzt wird.
+Der gemeinsame Anfangspunkt der beiden Strahlen wird Scheitelpunkt des Winkels, Winkelscheitel oder kurz Scheitel genannt; die Strahlen heißen Schenkel des Winkels.
+Ein Winkel kann durch drei Punkte festgelegt werden, von denen einer den Scheitel des Winkels bildet und die beiden anderen auf je einem Schenkel des Winkels liegen.
+Die physikalische Größe, die die relative Lage der Strahlen zueinander beschreibt, wird als Winkelweite oder Winkelabstand (Winkeldistanz) bezeichnet, üblicherweise auch verkürzend als Winkel, wenn eine Unterscheidung von dem geometrischen Objekt nicht notwendig ist, beispielsweise in der Physik.
+Die Größe des Winkels wird mit einem Winkelmaß angegeben.
+Die Winkelweite kann auch als Maß einer ebenen Drehung definiert werden.
+Zur Unterscheidung vom Raumwinkel wird der hier definierte Winkel auch als ebener Winkel bezeichnet.
+In der Geometrie sind zur Definition des Winkels als Objekt verschiedene Ansätze möglich.
+Dabei lassen sich zwei Typen unterscheiden:
+Die eingangs angeführte Definition zweier von einem Punkt ausgehenden Strahlen ist in die Anwendungen wie etwa die Koordinatensysteme und deren Achsen eingebunden.
+Der Winkel ist ein geometrisches Gebilde bestehend aus zwei Halbgeraden mit dem selben Ursprung.
+Über die "ursprünglichen" Geraden ermöglicht diese Darstellung etwa Betrachtungen über die verschiedenen Winkelpaare.
+Diese Definition wird im Schulunterricht verwendet und betont das "Körperhafte" des Gebildes und dient - über die Festlegung eines Innen- und Außenraums - der Einführung in die Dreiecksgeometrie:
+Das Dreieck lässt sich als Schnittmenge zweier Winkel mit einem gemeinsamen Schenkel definieren.
+Ad hoc ist bei diesen drei Ansätzen der Winkel ein ungerichteter Winkel, erst eine zusätzliche Auszeichnung einer der beiden Halbstrahlen oder Halbgeraden als die "erste" ermöglicht die Angabe eines gerichteten Winkels.
+Man kann auch sagen, dass ein Winkel durch eine Drehung eines Strahls oder einer Halbgeraden in einer Ebene um seinen bzw. ihren Anfangspunkt entsteht.
+Da es zwei verschiedene Möglichkeiten gibt, den Strahl zu drehen, muss zusätzlich die Drehrichtung angegeben werden:
+In der Mathematik ist es üblich, die Drehung gegen den Uhrzeigersinn - also im mathematisch positiven Drehsinn - auszuführen.
+Wenn die Drehung andersherum erfolgen soll, sollte dies ausdrücklich angegeben werden.
+In der Geodäsie (Vermessungswesen) wird der Winkel im Uhrzeigersinn, also rechtsdrehend von 0 gon bis 400 gon gezählt.
+Da es in der Geodäsie per Definition keine negativen Winkel gibt, ist der Drehsinn positiv.
+Analog zur Uhr, auch hier wird von 0 bis 24 h positiv, rechtsdrehend gezählt.
+Alle geodätischen Messinstrumente werden zur Richtungs- oder Winkelmessung rechtsherum gedreht.
+Die Angabe eines Winkels erfolgt nach DIN 1302 oder ISO 80000-2.
+Für den Formelsatz steht das Zeichen "" (HTML &ang;/&#8736;, TeX \angle, Unicode U+2220) zur Verfügung, für den gerichteten Winkel auch "" (TeX \measuredangle, U+2221 measured angle, keine HTML-Entität), die sich beide im Unicode-Block Mathematische Operatoren finden.
+Das liegende Winkelzeichen entspricht den angloamerikanischen Gewohnheiten, im europäischen Formelsatz ist ein Zeichen üblich, das dem amerikanischen "" U+2222 für den Raumwinkel zum Verwechseln ähnlich sieht.
+"" findet auch für Neigung und Winkligkeit (Lagetoleranz, DIN EN ISO 1101) Verwendung.
+Speziell für den rechten Winkel verwendet man "", einen punktierten Winkel, in der Technik auch ein Quadrat, oder  {\displaystyle \perp } .
+Ausführliche Informationen bietet der Hauptartikel Winkelmaß, Umrechnungen sind bei den einzelnen Maßen zu finden.
+Weitere Formen der Angabe eines Winkels:
+Zwischen zwei sich schneidenden Geraden gibt es vier Winkel.
+Jeweils zwei nebeneinander liegende summieren sich dabei zu 180  {\displaystyle 180^{\circ } } .
+Der rechte Winkel hat die Besonderheit, dass diese beiden Winkel genau gleich sind.
+Jeweils zwei gegenüberliegende Winkel sind gleich.
+Der Vollwinkel hat die Besonderheit, dass zwei der Winkel null sind.
+Zwei Geraden oder Strecken, die sich im rechten Winkel schneiden, nennt man zueinander orthogonal.
+In einer Zeichnung wird der rechte Winkel durch einen Viertelkreis mit Punkt oder durch ein Quadrat dargestellt.
+Der Vollwinkel ist in Deutschland, Österreich und der Schweiz eine gesetzliche Einheit im Messwesen, er besitzt kein Einheitenzeichen.
+Die Geometrie kennt besondere Bezeichnungen für Paare von Winkeln, die zueinander in einer besonderen Beziehung stehen.
+Die für solche Winkel geltenden Gesetze helfen bei der Untersuchung komplexerer geometrischer Objekte.
+Zwei Winkel heißen Komplementwinkel oder Komplementärwinkel, wenn sie sich zu einem rechten Winkel ( 90  {\displaystyle 90^{\circ }} ) ergänzen.
+Zwei Winkel heißen Supplementwinkel (auch: Supplementärwinkel), Supplement, Ergänzungswinkel oder kurz E-Winkel, wenn sie sich zu 180  {\displaystyle 180^{\circ }} ergänzen.
+Schneiden sich zwei Geraden, so bezeichnet man ein Paar benachbarter Winkel als Nebenwinkel.
+Sie sind also Supplementwinkel.
+Schneiden sich zwei Geraden, so bezeichnet man das Paar gegenüberliegender Winkel als Scheitelwinkel oder Gegenwinkel.
+Die Bezeichnung Scheitelwinkel kommt daher, dass die beiden Winkel durch Punktspiegelung am Scheitelpunkt aufeinander abgebildet werden.
+Schneidet eine Gerade g {\displaystyle g} zwei Geraden h {\displaystyle h } und h ' {\displaystyle h'} , so heißen die Winkel, die auf derselben Seite von g {\displaystyle g} und auf einander entsprechenden Seiten von h {\displaystyle h} bzw. h ' {\displaystyle h'} liegen, Stufen- oder F-Winkel.
+Für den Fall, dass die Geraden h {\displaystyle h } und h ' {\displaystyle h'} parallel sind, gilt:
+Aus der Winkelgleichheit kann umgekehrt auf die Parallelität von Geraden geschlossen werden: Wird ein Geradenpaar h {\displaystyle h} , h ' {\displaystyle h'} von einer weiteren Geraden g {\displaystyle g} so geschnitten, dass die Schnittwinkel auf derselben Seite von g {\displaystyle g} und auf einander entsprechenden Seiten von h {\displaystyle h } und h ' {\displaystyle h'} gleich groß sind, so sind die Geraden h {\displaystyle h } und h ' {\displaystyle h'} parallel.
+Schneidet eine Gerade g {\displaystyle g} zwei Geraden h {\displaystyle h } und h ' {\displaystyle h'} , so heißen die Winkel, die auf unterschiedlichen Seiten von g {\displaystyle g} und entgegengesetzten Seiten von h {\displaystyle h} bzw. h ' {\displaystyle h'} liegen, Wechsel- oder Z-Winkel.
+Für den Fall, dass die Geraden h {\displaystyle h } und h ' {\displaystyle h'} parallel sind, gilt:
+Aus der Winkelgleichheit kann umgekehrt auf die Parallelität von Geraden geschlossen werden: Wird ein Geradenpaar h {\displaystyle h} , h ' {\displaystyle h'} von einer weiteren Geraden g {\displaystyle g} so geschnitten, dass die Schnittwinkel auf unterschiedlichen Seiten von g {\displaystyle g} und unterschiedlichen Seiten von h {\displaystyle h} bzw. h ' {\displaystyle h'} gleich groß sind, so sind die Geraden h {\displaystyle h } und h ' {\displaystyle h'} parallel.
+Schneidet eine Gerade g {\displaystyle g} zwei weitere parallele Geraden h {\displaystyle h } und h ' {\displaystyle h'} , so bezeichnet man die Winkel, die auf derselben Seite von g {\displaystyle g} , aber auf unterschiedlichen Seiten von h {\displaystyle h} und h ' {\displaystyle h'} liegen, als Nachbar- oder E-Winkel.
+Aus der Ergänzung der Winkel zu 180  {\displaystyle 180^{\circ } } kann umgekehrt auf die Parallelität von Geraden geschlossen werden: Wird ein Geradenpaar h {\displaystyle h} , h ' {\displaystyle h'} von einer weiteren Geraden g {\displaystyle g} so geschnitten, dass sich die Schnittwinkel, die auf derselben Seite von g {\displaystyle g} , aber jeweils auf unterschiedlichen Seiten von h {\displaystyle h} und h ' {\displaystyle h'} liegen, zu 180° ergänzen, so sind die Geraden h {\displaystyle h } und h ' {\displaystyle h'} parallel.
+Die Eigenschaft, dass sich Nachbarwinkel zu 180  {\displaystyle 180^{\circ }} ergänzen, folgt direkt aus dem Parallelenaxiom der euklidischen Geometrie.
+Die oben genannten Eigenschaften von Stufen- und Wechselwinkeln lassen sich aus der Betrachtung von Neben- und Scheitelwinkeln von Nachbarwinkeln herleiten.
+Zwei Winkel, deren Schenkel paarweise senkrecht aufeinander stehen, sind gleich groß oder ergänzen sich zu 180  {\displaystyle 180^{\circ } } .
+Vergleiche nebenstehende Abbildungen.
+Einige Winkel kann man allein mit Zirkel und Lineal konstruieren.
+Dazu gehören der 90-Grad-, 60-Grad-, 72-Grad- und 54-Grad-Winkel, sowie sämtliche Winkel, die durch Verdoppelung, Halbierung, Addition oder Subtraktion (siehe unten) dieser Winkel entstehen.
+Die Winkel 0  < a  180  {\displaystyle 0^{\circ }<\alpha \leq 180^{\circ } } sind in Dezimalgrad als Näherungskonstruktion mithilfe des dritten Strahlensatzes in Kombination mit Zahlengeraden konstruierbar.
+Man konstruiert genauer gesagt die Senkrechte zu einer bereits gegebenen Strecke s {\displaystyle s} .
+Bei beliebigem Schnittpunkt entfällt die Festlegung symmetrischer Punkte auf der Geraden
+Man muss die Kreise nicht vollständig zeichnen.
+Es reicht, wenn die Schnittpunkte erkennbar sind.
+Prinzipiell wird die Konstruktion umso genauer, je größer der Abstand der beiden Schnittpunkte voneinander ist.
+Denn mit größerem Abstand werden die Auswirkungen von solchen Fehlern kleiner, die dadurch entstehen, dass die neugezeichnete Gerade oder auch schon die gezeichneten Schnittpunkte nicht genau mit den idealen Schnittpunkten übereinstimmen.
+Andererseits wird die genaue Erkennbarkeit der Schnittpunkte geringer, je flacher sich die Kreise schneiden, was umso mehr der Fall ist, je weiter die Kreisradien von einem Idealradius entfernt sind, bei dem sich die Kreise senkrecht schneiden.
+Man halbiert eine gegebene Strecke, indem man die Endpunkte A {\displaystyle A} und B {\displaystyle B} der Strecke als Mittelpunkte zweier gleicher Kreisbögen wählt und deren zwei gemeinsamen Kreuzungspunkte P {\displaystyle P} und Q {\displaystyle Q} miteinander verbindet.
+Der dadurch erzeugte Schnittpunkt M {\displaystyle M} liefert somit die gesuchte Mitte der Strecke A B  {\displaystyle {\overline {AB} }} .
+Die nebenstehende Abbildung (Bild 3) zeigt eine alternative Vorgehensweise, die neben dem gegebenen Punkt P {\displaystyle P} und der gegebenen Geraden g 1 {\displaystyle g_{1}} nur vier Kreise mit gleichem Radius und die Gerade g 2 {\displaystyle g_{2 }} für die Lösung benötigt.
+Im Verlauf der Konstruktion werden für das Ziehen eines Kreises stets zwei Punkte genutzt.
+Der Abstand der beiden Punkte ist gleich dem Kreisradius, aufgrund dessen könnte auch ein sogenannter euklidischer oder kollabierender Zirkel eingesetzt werden.
+Der erste Gedanke ist vielleicht, die Konstruktionen des 60-Grad-Winkels zu verwenden, um den 30-Grad-Winkel durch einfache Halbierung des 60-Grad-Winkels zu erreichen.
+Die ersten beiden im Folgenden beschriebenen Vorgehensweisen zeigen aber, es geht auch mit weniger Konstruktionsschritten.
+Die Darstellung im Bild 6 zeigt eine alternative Vorgehensweise.
+Sie benötigt für die Lösung, neben dem gegebenen Punkt P {\displaystyle P} und der gegebenen Geraden g 1 {\displaystyle g_{1}} , nur fünf Kreise mit gleichem Radius und die Gerade g 2 {\displaystyle g_{2}} .
+Die Konstruktion ist eine Weiterführung der Konstruktion des 60-Grad-Winkels (Bild 3).
+Dafür bedarf es nur noch des fünften Kreises, gezogen um Punkt D {\displaystyle D} durch P {\displaystyle P} , und schließlich der Geraden g 2 {\displaystyle g_{2}} durch die Punkte P {\displaystyle P} und E .
+{\displaystyle E.
+} Die Gerade g 2 {\displaystyle g_{2 } } schneidet die Gerade g 1 {\displaystyle g_{1 }} im Scheitelpunkt F {\displaystyle F } und liefert somit den Winkel A F P {\displaystyle AFP} mit der gesuchten Winkelweite 30  .
+{\displaystyle 30^{\circ }.
+}
+Die etwas exotischere Konstruktion eines 72- oder 54-Grad-Winkels findet man im regelmäßigen Fünfeck.
+Jeder Winkel lässt sich zu einem anderen Winkel konstruktiv, sprich geometrisch, addieren und subtrahieren.
+Mit anderen Worten, möchte man z. B. (siehe drei Bilder) einen Winkel um die Größe eines anderen vermehren bzw. vermindern, so zeichnet man zunächst um die Scheitelpunkte der Winkel jeweils einen für beide Winkel gleich großen Kreisbogen, der beide Schenkel des jeweiligen Winkels schneidet oder berührt.
+Zuerst wird der Kreisbogen A B C 1 {\displaystyle ABC_{1 } } des ersten Winkels B A C 1 {\displaystyle BAC_{1 } } über C 1 {\displaystyle C_{1}} hinaus verlängert, damit darauf auch der zweite Winkel B A C 2 {\displaystyle BAC_{2 }} genügend Platz findet.
+Nun nimmt man die Winkelweite a 2 {\displaystyle \alpha _{2}} am Abstand | B C 2 | {\displaystyle |BC_{2}| } in den Zirkel und überträgt sie damit, ab dem Schnittpunkt C 1 , {\displaystyle C_{1},} auf den verlängerten Kreisbogen.
+Es ergibt sich der Schnittpunkt C 3 .
+{\displaystyle C_{3 }.
+} Abschließend wird der neue Winkelschenkel A C 3  {\displaystyle {\overline {AC_{3} }}} eingezeichnet.
+Der somit durch geometrische Addition erzeugte Summenwinkel B A C 3 {\displaystyle BAC_{3 } } hat die Winkelweite a 1 + a 2 .
+{\displaystyle \alpha _{1}+\alpha _{2}.
+}
+Um den kleineren Winkel B A C 1 {\displaystyle BAC_{1 }} vom größeren Winkel B A C 2 {\displaystyle BAC_{2} } zu subtrahieren (Bild: Winkelweite a 1 {\displaystyle \alpha _{1} } und a 2 {\displaystyle \alpha _{2}} ), nimmt man die Winkelweite a 1 {\displaystyle \alpha _{1} } am Abstand | B C 1 | {\displaystyle |BC_{1}|} in den Zirkel und überträgt sie damit, ab dem Schnittpunkt C 2 , {\displaystyle C_{2},} auf den Kreisbogen A B C 2 .
+{\displaystyle ABC_{2 }.
+} Es ergibt sich der Schnittpunkt C 3 .
+{\displaystyle C_{3 }.
+} Abschließend wird der neue Winkelschenkel A C 3  {\displaystyle {\overline {AC_{3} }}} eingezeichnet.
+Der somit durch geometrische Subtraktion erzeugte Differenzwinkel B A C 3 {\displaystyle BAC_{3 } } hat die Winkelweite a 2 - a 1 .
+{\displaystyle \alpha _{2}-\alpha _{1}.
+}
+Ein Winkel besteht stets aus zwei Schenkeln, die sich im Scheitelpunkt treffen.
+Zieht man nun zwei gleich große Kreise auf je einem Schenkel durch den Scheitelpunkt, so bildet die Strecke zwischen den Kreisschnittpunkten die Winkelhalbierende.
+Jeder Punkt auf der Winkelhalbierenden ist gleich weit von den Schenkeln entfernt.
+Der zuerst gezeichnete Kreisbogen um den Scheitelpunkt A , {\displaystyle A,} mit einem beliebigen Radius, schneidet die Schenkel des Winkels in B {\displaystyle B} bzw. C .
+{\displaystyle C.} Nun wird, entweder mit der gleichen (siehe Bild) oder mit geänderter Zirkelöffnung, um die Schnittpunkte B {\displaystyle B} und C {\displaystyle C} jeweils ein gleich großer Kreisbogen geschlagen.
+Abschließend zieht man ab dem Scheitelpunkt A , {\displaystyle A,} durch den zuletzt entstandenen Schnittpunkt D , {\displaystyle D,} eine Halbgerade und erhält somit die Winkelhalbierende.
+Die allgemeine Dreiteilung des Winkels ist mit euklidischen Werkzeugen nicht möglich.
+Es gibt jedoch (Hand-)Zeichengeräte (z. B. Tomahawk) für diese Aufgabe.
+Was allerdings auch möglich ist, sind Näherungskonstruktionen mit geringen Winkelfehlern.
+Die beliebige Teilung erfordert ein Hilfsmittel mit dem ein Winkel proportional auf eine Strecke abgebildet werden kann und umgekehrt, beispielsweise eine Schablone, mit einer als Archimedische Spirale oder Quadratrix des Hippias geformten Kante.
+Damit lässt sich eine Winkelteilung in eine Streckenteilung überführen.
+Anwendungen davon gibt es in der Konstruktion bestimmter regelmäßiger Polygone, die allein mit Zirkel und Lineal nicht konstruierbar sind, wie z. B. des Elfecks.
+Konstruiert man die obigen Winkel (90°, 60°, 72° oder 54° oder deren Summen bzw. Differenzen), so lassen sich aus diesen per Winkelhalbierung weitere Winkel (45°, 30°, 36° und 27° oder den zugehörigen Summen bzw. Differenzen) konstruieren, die und deren Abkömmlinge sich wieder halbieren lassen.
+Den Winkel 3° erhält man z. B. durch folgende Vorgehensweise: 72°/2 = 36°/2 = 18° - 15° = 3°.
+Generell lassen sich alle Winkel konstruieren, deren Sinus (und damit auch deren Kosinus) durch einen mathematischen Ausdruck dargestellt werden kann, der nur aus ganzen Zahlen, Grundrechenarten und Quadratwurzeln besteht.
+Das gilt z. B. für ganzzahlige Winkel (Gradmaß), die ein Vielfaches von 3° sind:
+Die Winkelhalbierung kann durch Substitution der Halbwinkelformeln
+ausgedrückt werden.
+Das Antragen eines Winkels an einen anderen kann durch Substitution der Additionstheoreme
+ausgedrückt werden.
+Darüber hinaus hat der Kosinus des Zentriwinkel des 17-Ecks noch den Wert:
+woraus sich seine Konstruierbarkeit ergibt.
+Bei der Winkelmessung wird mit Hilfe technischer Einrichtungen ermittelt, in welchem Winkel zwei Geraden oder zwei sonstige Richtungen zueinander stehen.

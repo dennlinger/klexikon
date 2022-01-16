@@ -1,0 +1,245 @@
+Geld ist das in einer Gesellschaft allgemein anerkannte Tausch- und Zahlungsmittel.
+
+== Etymologie
+
+Das Wort stammt vom althochdeutschen gelt, das soviel bedeutete wie "Entgelt, Zins, Lohn, Opfer, Einkommen, Wert, gelten" und erstmals im Jahre 790 auftauchte.
+Später übernahm es das Mittelhochdeutsche als geld/gelt (bereits in der Bedeutung Geld bzw. Zahlungsmittel), wie es heute noch mit den Begriffen Entgelt oder abgelten geläufig ist.
+Im praktischen Gebrauch ist Geld ein Zahlungsmittel, das sich von einfachen Tauschmitteln dadurch unterscheidet, dass es nicht unmittelbar den Bedarf eines Tauschpartners befriedigt, sondern auf Grund allgemeiner Akzeptanz zu weiterem Tausch eingesetzt werden kann.
+Letztlich setzte sich die Definition durch, dass Geld das vom Staat oder einer durch ihn ermächtigten Behörde als Wertträger zum Umlauf ausgegebenes und für den öffentlichen Verkehr bestimmtes Zahlungsmittel ist.
+
+== Allgemeines
+
+Die verschiedenen Einzelwissenschaften, die sich mit Geld als Erkenntnisobjekt befassen, haben klassische Definitionen hervorgebracht.
+Dazu gehören die Volkswirtschaftslehre, Soziologie und die Rechtswissenschaft.
+Volkswirtschaftlich ist für Friedrich Bendixen Geld eine "Anweisung auf das Sozialprodukt", die einzelne Geldeinheit stellt einen "hypothetischen Inhaberanteil am staatlichen Sozialprodukt, einen ideellen Anspruch auf das Potential wirtschaftlicher Befriedigungsmöglichkeiten, dar".
+Damit fasste er Geld als Legitimation zum Empfang von Gegenleistungen aufgrund von vorangegangenen Vorleistungen auf.
+Günter Schmölders sah im Geld ein "dokumentiertes Wertversprechen allgemeiner Geltung".
+Rechtlich ist Geld das vom Staat vorgeschriebene gesetzliche Zahlungsmittel mit vorgegebenen Denominationen, ein "Geschöpf der Rechtsordnung".
+
+== Arten
+
+Im Hinblick auf seine physische Präsenz unterscheidet man Bargeld, das in Form von Münzen und Banknoten (Papiergeld) als Kassenbestand vorhanden ist und Buchgeld (bzw. Giralgeld), einem Zahlungsanspruch einer Nichtbank gegenüber einem Kreditinstitut auf einem Girokonto.
+Bargeld ist nach Definition der Europäischen Zentralbank im Aggregat M 0 {\displaystyle M0} außerhalb der Zentralbank (inklusive Kassenbestände der Geschäftsbanken) plus dem Zentralbankgeldbestand der Kreditinstitute auf Konten bei der Zentralbank enthalten.
+Das Aggregat M 1 {\displaystyle M1} erfasst den Bargeldumlauf bei Nichtbanken (also ohne Kassenbestände der Geschäftsbanken) plus Sichteinlagen der Nichtbanken.
+In den weiteren Aggregaten M 2 {\displaystyle M2 } und M 3 {\displaystyle M3 } sind zusätzlich Verbindlichkeiten von Banken gegenüber Kunden mit einer Laufzeit von bis zu zwei Jahren enthalten.
+Je länger die Bindungsdauer (Frist) einer Verbindlichkeit ist, desto mehr verliert sich deren Charakter als flüssiges Zahlungsmittel für den Inhaber.
+Daher sind Geldmengen von ihrer Definition abhängig.
+Diese unterscheiden sich zwischen den Währungsräumen.
+
+Das in der Währungsverfassung eines Staates als gesetzliches Zahlungsmittel bestimmte Geld bezeichnet man als Währung.
+
+== Geldfunktionen
+
+In der Volkswirtschaftslehre wird Geld funktional definiert.
+Karl Marx beschreibt in seinem Hauptwerk Das Kapital die Funktion des Geldes als "spezifische Äquivalentware", als "Maß der Werte" im Prozess der "Warenzirkulation", die wiederum mittels des Geldes Ausgangspunkt des Kapitals ist.
+
+Konstitutiv ist für das Wesen des Geldes lediglich die Funktion als transaktionsdominierendes Tauschmittel.
+Dies verleiht dem Geld die höchste Liquidierbarkeit von Eins, weil es ohne Disagio zum Nominalwert angenommen werden muss.
+
+Je besser ein Gut die Geldfunktionen erfüllt, umso eher wird es als Geld angesehen.
+
+== Geldschöpfung
+
+Geld entsteht heutzutage üblicherweise im zweistufigen Bankensystem aus Zentralbank und (Geschäfts)-Banken.
+
+Zentralbankgeld besteht aus dem Bargeld und den Guthaben der Geschäftsbanken bei der Zentralbank.
+Verkaufen die Geschäftsbanken der Zentralbank Wechsel, Devisen oder Wertpapiere, so erhalten diese Zentralbankgeld in Form von Geldscheinen, Geldmünzen oder Zentralbankguthaben.
+Zentralbankgeld kann auch durch verzinsliche Kreditvergabe der Zentralbank an Geschäftsbanken gegen Pfandhinterlegung entstehen.
+Den Prozess der Zentralbankgeldschöpfung kann die Zentralbank über ihr geldpolitisches Instrumentarium (insbesondere Leitzins und Offenmarktpolitik) steuern.
+Geld entsteht auch, wenn die Zentralbank Ausgaben tätigt, für die sie mit Zentralbankgeld bezahlt.
+
+Giralgeld entsteht hauptsächlich, indem eine Bank einen Kredit vergibt und dem Kunden den entsprechenden Betrag auf seinem Konto gutschreibt (Giralgeldschöpfung).
+Hierbei kommt es zu einer Bilanzverlängerung; die Aktivseite der Bankbilanz wächst um den Kreditbetrag, die Passivseite wächst um das Kontoguthaben des Kunden.
+Banken können die Geldmenge jedoch nicht beliebig durch Kreditvergabe erhöhen, weil sie verpflichtet sind, diese Kredite je nach Ausfallrisiko mit bis zu 8 % Eigenkapital zu unterlegen.
+Weitere begrenzende Faktoren sind generell die Bereitschaft der Banken zu Kreditvergaben sowie der Kunden zu Kreditaufnahmen (im Falle von Banken-, Wirtschafts- oder Finanzkrisen kann die Giralgeldschöpfung nachlassen und die Giralgeldmenge sinken - vgl. Nettokreditaufnahme).
+
+== Geldmengen
+
+Die Geldmenge ist eine wichtige ökonomische Größe, weil sie im Zusammenhang mit der gesamtwirtschaftlichen Nachfrage nach Gütern und Dienstleistungen steht und Hinweise auf die zukünftige Preisentwicklung liefert.
+Die Geldmengendefinition ist nicht ganz einheitlich; im Folgenden wird beispielhaft die Geldmengendefinition der Europäischen Zentralbank dargestellt.
+Die Geldmenge M0, auch Geldbasis genannt, erfasst das Zentralbankgeld.
+Um den Umfang des geschöpften Giralgeldes zu messen, beobachtet die Zentralbank die Geldmengen M1-M3, die den Geldbestand von Nichtbanken erfassen.
+Die Geldmengen M1-M3 werden nach dem Grad der Verfügbarkeit des Geldes für die Bankkunden unterteilt.
+
+== Geldmarkt und Geldpolitik
+
+Über den Geldmarkt können Zentralbanken auf das Verhältnis von Geldangebot und Geldnachfrage einwirken.
+Das Geldangebot kann die Zentralbank weitgehend steuern.
+Die Geldnachfrage ist abhängig von dem Verhalten der Wirtschaftssubjekte (Unternehmen, Privathaushalte, der Staat nebst seinen Untergliederungen).
+
+Monetäre Ursachen für Inflation und Deflation:
+Übersteigt das Geldangebot die Geldnachfrage, so steigen die Preise (Inflation).
+Ist das Geldangebot kleiner als die Geldnachfrage, fallen die Preise (Deflation).
+Zentralbanken haben ein geldpolitisches Dilemma.
+Einerseits möchten sie durch niedrige Zinsen für Zentralbankgeld die Wirtschaft ankurbeln, denn niedrige Zinsen fördern Investitionen und Wirtschaftswachstum.
+Andererseits soll das Geldangebot (die EZB beobachtet hauptsächlich die Geldmenge M3) die Geldnachfrage nicht übersteigen, damit die Inflation niedrig bleibt.
+Hierzu muss ggf. durch Zinserhöhungen gegengesteuert werden.
+Zinserhöhungen verteuern die Geldschöpfung von Zentralbankgeld.
+Die Zentralbanken müssen also immer den situativ richtigen Zinspfad finden.
+
+Realwirtschaftliche Ursachen: Inflation ist nicht immer ein monetäres Phänomen, sie kann auch realwirtschaftliche Ursachen haben.
+Auf dem Gütermarkt können sich bestimmte Güter z. B. Rohöl verknappen, dies führt zu Preissteigerungen, die sich als Preissteigerungen in nachgelagerten Märkten (z. B. Transportgewerbe) fortpflanzen.
+
+== Geldtheorie
+
+Die Geldtheorie ist eine Disziplin der Volkswirtschaftslehre, in der Wesen und Funktionen, Wert sowie Wirkungen des Geldes untersucht werden.
+Teilgebiete der Geldtheorie sind unter anderem die Theorie der Geldnachfrage, die Theorie des Geldangebotes (siehe Geldschöpfung), die Erklärung des geldpolitischen Transmissionsmechanismus, die Inflationstheorie, die Zinstheorie und die Theorie der Geldpolitik.
+
+== Rechtsfragen
+
+Auch der Bundesgerichtshof (BGH) hat sich mit dem (strafrechtlichen) Begriff des Geldes befassen müssen.
+Danach ist Geld "... jedes vom Staat oder einer durch ihn ermächtigten Stelle als Wertträger beglaubigte, zum Umlauf im öffentlichen Verkehr bestimmtes Zahlungsmittel ohne Rücksicht auf einen allgemeinen Annahmezwang".
+Hierin kommen die bisher bereits erwähnten Grundfunktionen des Geldes zum Ausdruck.
+Regelmäßig ist der Staat oder eine von ihm beauftragte Stelle für die Ausgabe dieses verkehrsfähigen Zahlungsmittels zuständig, das als Wertträger fungieren soll.
+Dieses Monopol des Staates, Geld zu drucken und in Umlauf zu bringen, schließt mithin aus, dass nicht Autorisierte ebenfalls Geld drucken und in Umlauf bringen, sodass deren Handlungen als strafbare Fälschung von Zahlungsmitteln gelten (vgl. Falschgeld).
+
+Nach deutschem Recht wird Geld als Rechtsbegriff den Inhaberpapieren gleichgestellt (§ 935 Abs. 2 BGB).
+Das bedeutet, dass Geld gutgläubig sogar dann noch erworben werden kann, wenn es dem rechtmäßigen Eigentümer gestohlen wurde, verloren gegangen oder sonst abhandengekommen ist.
+Für andere bewegliche Sachen gilt das nicht (§ 935 Abs. 1 BGB), weil bei Geld und Inhaberpapieren deren Verkehrsfähigkeit nicht eingeschränkt werden soll.
+
+Münzen und Scheine gehen ins Eigentum des Inhabers über; die oft behauptete Aussage, die Europäische Zentralbank sei Eigentümer, der Inhaber nur berechtigter Besitzer, gilt nicht für den Euro.
+Das Eigentum an Geld wird wie bei Inhaberpapieren durch einfache Einigung und Übergabe verschafft (§ 929 Satz 1 BGB).
+Euroscheine sind Sachen im Sinne von § 90 BGB.
+An Sachen kann jeder Eigentum gemäß allgemeinen zivilrechtlichen Regelungen erwerben.
+Banknoten und Münzen gehören somit demjenigen, dem sie übereignet worden sind.
+Der Eigentümer kann mit ihm gehörenden Sachen in den durch die Rechtsordnung gesetzten Grenzen nach Belieben verfahren.
+Für den Euro gilt, dass die Zerstörung von Zahlungsmitteln weder rechtswidrig noch strafbar ist.
+In Deutschland gilt § 903 BGB, wonach der Eigentümer mit seinen Sachen grundsätzlich nach Belieben verfahren darf.
+Jeder Besitzer von Geld kann entscheiden, sein Geld nie mehr auszugeben und damit für immer aus dem Umlauf zu nehmen.
+Mit einer unumkehrbaren Beschädigung von Zahlungsmitteln wird Geld auch nicht vernichtet, sondern nur unumkehrbar aus dem Umlauf genommen.
+Die Bundesbank leistet jedoch für absichtlich beschädigte Geldscheine keinen Ersatz.
+
+In manchen Ländern (wie den USA) kann die Zerstörung von Zahlungsmitteln strafbar sein, beispielsweise wenn durch die Zerstörung die Abbildung eines Staatsoberhauptes oder geschützte Symbole beschädigt werden und eine solche Beschädigung strafbar ist.
+
+== Geschichte
+
+Geld ist, was Geldfunktion erfüllt.
+Im Alltag sind dies heute vor allem Münzen und Banknoten.
+Aber auch immaterielles Geld in Form von Bankguthaben und Karten mit Geldfunktion spielt heute eine große Rolle.
+Entwickelt haben sich die heutigen Geldformen aus Primitivgeld, z. B. Muscheln oder Reis, die im Geschäftsleben als Tauschmittel akzeptiert wurden.
+Geld gehörte anfangs zur kultischen und rechtlichen Sphäre und bezeichnete "das, womit man Buße und Opfer erstatten bzw. entrichten kann".
+Erst nach dem 14. Jahrhundert nahm es seine aktuelle Bedeutung als "geprägtes Zahlungsmittel" an.
+Ab Mitte des 19. Jahrhunderts existierte in vielen Ländern der Goldstandard bei dem der Umtausch von gesetzlichen Zahlungsmitteln (Münzen, Banknoten) in eine feststehende Menge Gold versprochen wurde.
+Um 1930 herum haben fast alle größeren Staaten den Goldstandard aufgegeben.
+An die Stelle eines solchen Standards traten geldpolitische Maßnahmen der Notenbanken, die eine Preisniveaustabilität sicherstellen sollten.
+Mit der Einführung der Blockchain-Technologie wurde digitales Geld ermöglicht, sogenannte Kryptowährungen.
+
+== Volkstümliche Bezeichnungen
+
+Aufgrund der universellen Verbreitung und der großen Bedeutung des Geldes für den Alltag entstehen im Volksmund dafür immer wieder zahlreiche synonyme Bezeichnungen, wobei die Benennungsmotive unterschiedlicher Art sein können.
+
+=== Für Geld generell
+
+Viele Bezeichnungen stammen aus einer anderen Sprache, so etwa die weit verbreiteten Ausdrücke
+
+Etliche Bezeichnungen stammen aus dem Wortfeld Brennstoff, stehen also stellvertretend für die Tatsache, dass mit Geld Dinge erworben werden können, die die Wärme und Energie für das Leben liefern, so etwa:
+
+Synonyme Bezeichnungen für Geld stehen auch in Zusammenhang mit Lebensmitteln, die also den Brennstoff für die körperliche Energie darstellen und so stellvertretend für das Geld stehen, mit dem die Grundbedürfnisse des Lebens befriedigt werden können.
+(In vielen Kulturen war oder ist daher die Menge an vorhandener Nahrung, in erster Linie Getreide oder Vieh, auch gleichbedeutend mit dem Wohlstand einer Person, und Tiere gelten dort auch als Einheitswert für den Tauschhandel.)
+
+Für bestimmte Arten von Geld werden beispielsweise folgende Wörter verwendet:
+
+Einige weitere, oft auch nur regional, zeitlich begrenzt oder von bestimmten Personengruppen verwendete Benennungen verschiedenen Ursprungs sind:
+
+=== Für spezielle Denominationen
+
+Für spezielle Denominationen werden bei bestimmten Geldwerten vorwiegend lautliche Varianten und Verballhornungen der entsprechenden Zahlwörter gebildet oder stehen meist in anderem unmittelbaren Zusammenhang mit dem jeweiligen Geldstück bzw. -schein, so etwa:
+
+=== Für bestimmte Währungen
+
+Bei volkstümlichen Bezeichnungen für bestimmte Währungen wird oft ein scherzhafter Charakter offenkundig.
+Mit solchen neuen Wörtern ist aber vielfach nicht (nur) die Währung als solche gemeint, sondern das stoffliche Äquivalent, also Münze oder Schein, und der Wert 1 dieser Währung.
+Daher wird in solchen Fällen der Ausdruck in erster Linie gemeinsam mit einem Zahlwort verwendet.
+
+== Rezeption
+
+=== Mythologie und Psychologie
+
+In Mythen und Märchen spielt auch das Geld eine Rolle.
+Die antike Sage, dass der kleinasiatische König Midas sich von den Göttern gewünscht habe, alles, was er berühre, solle zu Gold werden, und der deshalb zu verhungern und zu verdursten drohte, ist wahrscheinlich ein Echo der Tatsache, dass Münzgeld historisch zuerst in Lydien geprägt worden ist.
+
+In Träumen und Märchen kann Geld die Bedeutung von Reichtum und Macht wie auch von Lebensenergie haben, aber auch die des moralisch Schmutzigen.
+
+Die Knappheit des Geldes und das Leben aus der Fülle heraus sind zwei Aspekte, die unter Verwendung der C.G. Jungschen Archetypenlehre in dem Buch Mysterium Geld von Bernard A. Lietaer näher beleuchtet werden.
+Es wird die These vertreten, dass verschiedene Währungsmechanismen - Geldentstehung, Umlauf und Knappheitssicherung - auch zu verschiedenen Wahrnehmungen und Haltungen gegenüber dem Geld führen.
+
+=== Pädagogische Psychologie
+
+Gelderziehung vermittelt ein Verständnis für materielle Werte und den Wert von Arbeitsleistungen, ein Verständnis für numerische Geldbeträge und den Umgang mit Zahlungsmitteln aller Art sowie für nicht sichtbares Kapital und das Geldwesen insgesamt.
+Im Vordergrund der Gelderziehung stehen das Taschengeld, Hinzuverdienste im Haus und mit Schülerjobs sowie der Umgang mit Sparbüchern und Schülerkonten.
+Untersuchungen zufolge verschlechtert zunehmender Besitz das Sozialverhalten.
+
+==== Geld als Belohnung
+
+=== Philosophie
+
+Nach den Ausführungen von Karl Marx in seinem Hauptwerk Das Kapital erhält im Geld der Tauschwert als Warenfetisch eine eigene Existenzweise.
+Im Gegensatz zu den anderen Waren sei Geld keinerlei materieller Gebrauchswert, sondern nur - ähnlich einem "Fetisch" - ein in der Gesellschaft allgemein anerkannter Tauschwert beizumessen.
+
+Etliche Klassiker (so Georg Simmel und Alfred Sohn-Rethel) haben bedeutende Beiträge vorgelegt.
+Beachtenswert ist die wissenssoziologische Analyse Sohn-Rethels, dass die abstrakte Wertform, die das Geld seit seiner Einführung als Münzgeld im Lydien des 7. vorchristlichen Jahrhunderts verkörperte, auch denkerischen Abstraktionen in anderen Bereichen (so in der frühen ionischen Naturphilosophie) angebahnt habe.
+Untermauert wird dieser von Sohn-Rethel gesehene Geld-Geist-Zusammenhang durch die neueren Arbeiten des Altphilologen Richard Seaford.
+Eine ökonomietheoretische und soziologische Aufarbeitung der historischen Befunde zu den Anfängen dieser Parallelentwicklung hat Othmar Franz Fett geliefert.
+
+Zeichen- und wertetheoretisch wirksam und wichtig ist der früh (1897) von dem Philosophen und Begründer der Soziologie in Deutschland Ferdinand Tönnies ausgearbeitete Ansatz einer Loslösung der Begriffe aus einer natürlichen Denkungsart hin zu einer der Wissenschaft angemessenen Terminologie.
+Mit einer Analogie von "Begriff" und "Geld" unternimmt Tönnies, die Bedeutung der Zeichen - und dann die Kategorie der Werte - und das Verständnis von Geld als Zeichen herzustellen.
+Eine anfangs auf einer Situationserfahrung basierende Terminologie strebt hin zu einem unabhängig von sonstigen Vorstellungen und Gedanken entkontextualisiertem Konstruktionsprinzip einer reinen Wissenschaft, nämlich dass eigentliche Wissenschaft sich ihre "Begriffe ausschließlich für ihre eigenen Zwecke, als bloße Gedankendinge, gleichgültig gegen ihr Vorkommen in irgendwelcher Erfahrung, ja mit dem Wissen der Unmöglichkeit eines solchen Vorkommens" bildet.
+Über die natürliche Entstehung allgemeiner Begriffe bzw. Begriffsnamen, die Tönnies "Allgemeinvorstellungen" nennt, wird die Zeichen-Bedeutungs-Relation bis zur "Erfindung" fort entwickelt, d. h. Konstruktion und Fiktionalisierung des zu benennenden Gegenstandes, der als "Ding oder Vorgang gedacht" wird.
+Die damit implizierte Identität von Gegenstand und Idee ermöglicht im Gegensatz zur Merkmalsverarmung der Allgemeinvorstellung im Abstraktionsprozess eine zweckbestimmte, tendenziell geradezu unbegrenzte Merkmalausstattung des konstruierten Begriffs, der damit seiner eigenen Idee, der Idee eines Allgemeinen, das zugleich singulär (individuell) ist, entspricht.
+Daher kommt wie den Begriffen auch dem Geld Bedeutung zu.
+Wie Begriffe auf die natürliche Sprache zurückzuführen sind und insofern empirisch gegeben sind, so hat auch das "abstrakte" Geld empirisch nur Bedeutung durch seinen Bezug auf das natürliche, also das gemünzte Geld.
+
+Tönnies unterscheidet das "ursprüngliche Geld", das durch den Gebrauch als absatzfähiges Gut, also als allgemein gültiges Tauschmittel etabliert wird, aber erst durch den öffentlichen Glauben als vom Gemeinwesen mit Garantiestempel geprägte Münze bestimmtes Gewicht und damit bestimmte Bedeutung erhält.
+Durch die Verpflichtung des Gemeinwesens, Geld als Kredit der Staatsregierung anzuerkennen, wird konventionelles Papiergeld - vorerst als nur kaufmännischer Kredit - dem Geld angeähnelt, ihm wird kraft künstlichen sozialen Willens Bedeutung als gesetzliches Zahlungsmittel zugewiesen.
+Die Bedeutung des Geldes als etwas, das nicht ist, sondern nur bedeutet und gilt, wird in der Banknote zum Zeichen materiellen Wertes, durch die Abkunft vom Metallgeld jedoch noch mitgedacht als Gegenstand.
+Damit stellt Tönnies die soziale Funktion der jeweiligen Zeichen - hier zum Beispiel des Geldes - in Beziehung zu den jeweiligen Erfordernissen sozialer Organisationen hinsichtlich der Generierung und Stabilisierung normativer Regelungen des sozialen Lebens, die zunehmend abstrakter und zweckrationaler werden.
+
+=== Physik und Informationstheorie
+
+Lange dienten zur Sicherung des Geldwertes materielle Güter, insbesondere Gold.
+Daraus ergibt sich aber noch keine Äquivalenz von Materie und Geld, sondern hergestellt wurde nur ein Bezug von Geld zu dem Wert des Goldes.
+Populär ist die Annahme, Geld könne mit Energie verglichen werden.
+Jedoch gälte dann der Energieerhaltungssatz, und Geld könnte weder entstehen noch vernichtet werden.
+Einen Bezug zwischen Geld und Entropie stellte im Jahr 1887 der Mathematiker Georg Helm her.
+In seiner Lehre von der Energie postulierte er, dass Geld das ökonomische Äquivalent niedriger Entropie sei.
+In den Wirtschaftswissenschaften ist die Akzeptanz von physikalischen Analogien zu Geld eher niedrig, jedoch brachte Nicholas Georgescu-Roegen im Jahr 1971 Helms Gedanken wieder in Erinnerung.
+In der Physik kann der Begriff der Entropie heute aus der Informationstheorie heraus erklärt werden, entsprechend liegt dann bei der Anwendung des Entropiebegriffes auf Geld keine physikalische Analogie vor, sondern eine informationstheoretische Deutung.
+Damit kann unter anderem mit der Beschreibung der Entropiezunahme als Informationsverlust die Möglichkeit der "Geldvernichtung" erklärt werden.
+Hierzu gehören auch die Beschreibung von Irreversibilität in der Ökonomie und ihre Bedeutung für Wechselkursmodelle.
+
+=== Soziologie
+
+Oft traten in der Neuzeit ein Unbehagen über das Geld und ein damit verbundenes Gefühl von Ungerechtigkeit zutage.
+Es gab deshalb viele Entwürfe utopischer Gesellschaften, die ohne Geld auszukommen versuchten.
+Sie alle waren aber mit einer gemeinschaftsorientierten sittlichen Pflicht zur Arbeit verbunden, die die individuelle Freiheit einschränkte.
+Solche Entwürfe stammen etwa von Robert Owen, Francois Babeuf oder Pierre-Joseph Proudhon.
+
+Anfänglich gab es bis in die Gegenwart hinein Stammes- und Volkswirtschaften, die ohne Geld auskamen.
+Solche Wirtschaftsformen sind als Naturalwirtschaft oder Subsistenzwirtschaft bekannt.
+In diesen herrscht entweder eine Verteilwirtschaft (in Stammeskulturen wird die Ernte gemeinschaftlich eingebracht und nach bestimmten Regeln an die Stammesmitglieder verteilt), oder es herrscht weitgehende Selbstversorgung, bei welcher kaum Handel und dann nur Tauschhandel getrieben werden.
+
+Soziologisch wird darauf verwiesen, dass die ursprüngliche Etablierung von gemünztem Geld im 6. vorchristlichen Jahrhundert historisch auf große Schwierigkeiten stieß und dass dabei die antiken Tempel als erste Depotbanken dessen Einführung erleichterten, weil die dem gemünzten Geld zunächst eine diffuse symbolische (sakrale) Garantie mitgaben (vergleiche den Tempel der Iuno Moneta im alten Rom).
+
+Auf die Bedeutung des neu entstandenen Münzgeldes für das abstrakte Denken, zuerst in der ionischen Naturphilosophie, hat Alfred Sohn-Rethel hingewiesen (Theorem der "Realabstraktion").
+
+Die neuere, über die Soziologie hinaus greifende Systemtheorie abstrahiert den Geldbegriff und sieht darin ein "symbolisch generalisiertes Kommunikationsmedium".
+
+=== Religionswissenschaft/Theologie
+
+Das Verhältnis von Religion(en) zu Geld ist historisch gesehen kontrovers insofern, als Geld mitunter kritisiert wird als falscher Gott in Form des Mammon (dem man nicht gleichzeitig dienen kann) oder als "irdischer got" (H. Sachs) oder als "allergewöhnlichsten Abgott auf Erden" (M. Luther).
+Es gibt aber auch Religionen, in denen eine positive, affirmative Beziehung zum Geld als Repräsentant von ökonomischer Prosperität zu finden ist, etwa im Konfuzianismus, bei bestimmten Hindu-Gottheiten wie Lakshmi oder entsprechend der These Max Webers im Protestantismus.
+
+=== Sprache
+
+Karl Friedrich Wilhelm Wander hat in seiner fünfbändigen Ausgabe von Deutsches Sprichwörter-Lexikon (Wanders Deutsches Sprichwörter-Lexikon) im ersten Band 1420 Sprichwörter zu "Geld" gesammelt, sieht man einmal von den damit zusammengesetzten Worten (Geldbeutel, Geldbrotz, Geldgeber usw.) ab.
+
+== Kritik
+
+== Literatur
+
+== Weblinks
+
+== Siehe auch
+
+== Einzelnachweise
+

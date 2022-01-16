@@ -1,0 +1,88 @@
+Ein Kreisel ist ein (starrer) Körper, der um eine Achse rotiert.
+Er kann sich ansonsten frei bewegen (freier Kreisel), kann aber auch mit einer Achse in eine bestimmte Richtung gezwungen sein (gefesselter Kreisel).
+Kreisel müssen in der Physik nicht notwendigerweise rotationssymmetrisch sein.
+
+== Abgrenzung
+
+Als Kreisel oder Gyro (griechisch.) werden auch Messinstrumente bezeichnet, die ähnliche Aufgaben wie ein Kreiselinstrument wahrnehmen, auch wenn sie keinen rotierenden Kreisel enthalten.
+Beispiele sind Laserkreisel, Faserkreisel oder Vibrationskreisel.
+
+== Verwendung
+
+== Physik 
+
+=== Allgemein
+
+Ein um seine Figurenachse rotierender Kreisel behält bei kardanischer Aufhängung seine Orientierung im Raum bei, auch wenn das Tragegestell verdreht wird.
+Das schwache Drehmoment, das durch die Lagerreibung der Aufhängung wirkt, erzeugt eine vernachlässigbar kleine Änderung des Drehimpulses, die nicht zu einer beobachtbaren Veränderung der Rotationsachse führt.
+Verglichen mit dem ruhenden Kreisel sind große äußere Momente erforderlich, um die Ausrichtung zu ändern.
+
+Weiterhin lässt sich beobachten:
+Wenn beim rotierenden Kreisel versucht wird, seine Rotationsachse zu kippen, dann lässt sich eine Kraftwirkung senkrecht zur Kipprichtung der Rotationsachse registrieren.
+Je schneller der Kreisel rotiert, desto größer sind die auftretenden Kräfte (die auch Kreiselkräfte genannt werden).
+Erklären lässt sich das mit dem hohen Drehimpuls des Kreisels, der in seiner Richtung geändert werden muss.
+Dessen Änderung erfolgt in der Richtung, in der die Rotationsachse gekippt wird, und erfordert ein Drehmoment, das in der Kippebene liegt.
+Das aufzubringende Drehmoment bedingt die Kraftwirkung senkrecht zur Kipprichtung.
+
+Umgekehrt bewirkt ein Drehmoment senkrecht auf einen rotierenden Kreisel nicht, dass er seine Ausrichtung um die Achse des Drehmoments ändert, sondern in die Richtung der Drehmomentachse kippt.
+
+Die Erklärung des Kreiselverhaltens mag zwar rechnerisch logisch sein, aber schon der Drehimpuls selbst ist eine wenig anschauliche Größe.
+Daher sei nun zur Plausibilisierung der Abläufe ein Körper angenommen, der im Kreisel eingeschlossen ist.
+Solange der Kreisel stabil um seine Figurenachse rotiert, muss der Kreisel auf den eingeschlossenen Körper nur eine Zentripetalkraft ausüben.
+Spannend wird es, wenn nun die Rotationsachse des Kreisels gekippt wird und die Bewegung des Körpers dabei analysiert wird.
+Dann bewegt sich der eingeschlossene Körper auch in Kipprichtung, wechselt aber ständig die Seite und damit seine Bewegungsrichtung, also seine Geschwindigkeit.
+In Richtung der Senkrechten zur Kippebene führt der eingeschlossene Körper eine sinusförmige Schwingung aus.
+Das bedeutet, im Scheitel gibt es einen Ruhepunkt und im "Nulldurchgang", beim Wechsel der Kippseite, findet die größte Änderung der "Kippgeschwindigkeit" und damit die größte Kraftwirkung statt.
+Der Kreisel will also beim Kippen zur Seite ausbrechen.
+
+=== Kreiselmoment
+
+Wenn die Winkelgeschwindigkeit des Kreisel  deutlich größer als die Kippwinkelgeschwindigkeit  ist, dann gilt die im Weiteren folgende Näherungsrechnung.
+Die Drehimpulsänderung d L = {\textstyle \mathrm {d} {\vec {L}} } ergibt sich aus der Winkeländerung d und der Ausrichtung der Kippachse e =  {\displaystyle {\vec {e}}_{\Omega }} nach der folgenden Formel.
+Das Kreuzprodukt bedeutet, hier interessiert nur die Komponente des Drehimpulses, die senkrecht zur Kippachse e =  {\displaystyle {\vec {e}}_{\Omega }} steht.
+Der Anteil parallel zur Kippachse sei vernachlässigt.
+
+Die Winkeländerung d über die Zeit dt stellt des Weiteren die Kippwinkelgeschwindigkeit  dar.
+Im nächsten Schritt sei die Drehimpulsänderung eingesetzt in den Eulerschen Drehimpulssatz.
+Damit folgt das resultierende Drehmoment M aus den Kreiselparametern Rotationsrate  und Trägheitsmoment der Figurenachse I, verbunden mit der Kippwinkelgeschwindigkeit .
+
+=== Deviationsmoment
+
+Das Deviationsmoment ist ein Maß für das Bestreben eines Kreisels, seine Rotationsachse zu verändern, wenn er nicht um eine seiner Hauptträgheitsachsen rotiert.
+
+=== Eulersche Kreiselgleichungen
+
+Eine Verallgemeinerung der Kreiselbewegung ergibt sich aus dem Drehimpulssatz.
+Dabei folgt der Drehimpuls L = {\displaystyle {\vec {L}}} aus dem Produkt von Trägheitstensor I  {\displaystyle {\bar {I}}} und Drehgeschwindigkeit  = {\displaystyle {\vec {\omega }}} des Kreisels.
+Wie die Masse für die translatorische Bewegung angibt, wie "schwer" ein Körper zu beschleunigen ist, so beschreibt der Trägheitstensor für die Drehbewegung, wie "schwer" es ist, die Drehung eines Kreisels zu ändern.
+Im Trägheitstensor sind die Trägheitsmomente für Drehungen um die verschiedenen Drehachsen des Kreisels zusammengefasst.
+Berechnet man die Änderung des Drehimpulses durch dessen Ableitung nach der Zeit, ergibt sich:
+
+Das heißt, die Änderung des Drehimpulses L =  {\textstyle {\dot {\vec {L}}} } setzt ein Drehmoment M = {\displaystyle {\vec {M}}} voraus.
+Sie ist abhängig von der Änderung der räumlichen Richtung des Drehimpulses (Term  = x ( I  *  = ) {\displaystyle {\vec {\omega }}\times \left({\bar {I}}\cdot {\vec {\omega }}\right)} ) sowie von der Änderung der momentanen Winkelgeschwindigkeit  =  {\textstyle {\dot {\vec {\omega } } }} (Term I   =  {\displaystyle {\bar {I}}{\dot {\vec {\omega }}}} ).
+
+Durch die Rotation in ein Bezugssystem, in dem der Trägheitstensor eine Diagonalmatrix bildet, können die einzelnen Komponenten der Vektoren in ein besonders einfaches System von Differentialgleichungen umformuliert werden.
+Sie sind nach ihrem Entdecker Leonhard Euler als die Eulerschen Kreiselgleichungen bekannt.
+
+=== Einteilung
+
+Nach Eigenschaften:
+
+Nach Aufhängung:
+
+== Beispiele für Spielzeugkreisel
+
+Das Spielzeug gibt es in zahlreichen Bauformen und Varianten:
+
+== Technische Anwendungen
+
+Anfang des 20. Jahrhunderts wurden Kreisel - z. B. der Musilsche Farbkreisel - zur Untersuchung der menschlichen Farbwahrnehmung eingesetzt.
+
+== Populärkultur des Kreisels
+
+In dem Film Inception aus dem Jahr 2010 benutzt der Protagonist Cobb einen Kreisel als "Totem".
+
+== Literatur
+
+== Weblinks
+

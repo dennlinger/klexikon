@@ -1,0 +1,970 @@
+Die Nuklearkatastrophe von Tschernobyl ereignete sich am 26. April 1986 im Reaktor-Block 4 des Kernkraftwerks Tschernobyl nahe der 1970 gegründeten ukrainischen Stadt Prypjat.
+Auf der siebenstufigen internationalen Bewertungsskala für nukleare Ereignisse wurde sie als erstes Ereignis in die höchste Kategorie katastrophaler Unfall (INES 7) eingeordnet.
+Dies ist nicht zu verwechseln mit einem GAU, also dem technischen Auslegungsstörfall einer kerntechnischen Anlage.
+
+Bei einer unter der Leitung von Anatoli Djatlow durchgeführten, am 25. April 1986 begonnenen Simulation eines vollständigen Stromausfalls kam es aufgrund schwerwiegender Verstöße gegen die Sicherheitsvorschriften sowie der bauartbedingten Eigenschaften des graphitmoderierten Kernreaktors vom Typ RBMK-1000 zu einem unkontrollierten Leistungsanstieg, der am 26. April um 1:23 Uhr zur Explosion des Reaktors und zum Brand des als Moderator eingesetzten Graphits führte.
+Innerhalb der ersten zehn Tage nach der Explosion wurde eine Radioaktivität von mehreren Trillionen Becquerel in die Erdatmosphäre freigesetzt.
+Die so in die Atmosphäre gelangten radioaktiven Stoffe, darunter die Isotope 137Caesium mit einer Halbwertszeit (HWZ) von rund 30 Jahren und 131Iod (HWZ: 8 Tage), kontaminierten infolge radioaktiven Niederschlags hauptsächlich die Region nordöstlich von Tschernobyl sowie durch Windverfrachtung viele Länder in Europa.
+Nach der Katastrophe begannen sogenannte Liquidatoren mit der Dekontamination der am stärksten betroffenen Gebiete.
+Unter der Leitung des Kurtschatow-Instituts errichtete man bis November 1986 einen aus Stahlbeton bestehenden provisorischen Schutzmantel (russisch oe "pe", objekt "Ukrytije"), der meist als "Sarkophag" bezeichnet wird.
+
+Über die weltweiten gesundheitlichen Langzeitfolgen, insbesondere jene, die auf eine gegenüber der natürlichen Strahlenexposition erhöhte effektive Dosis zurückzuführen sind, gibt es seit Jahren Kontroversen.
+Die WHO hält in einem gemeinsam mit den Vereinten Nationen und der Internationalen Atomenergie-Organisation erstellten Bericht insgesamt weltweit ca. 4000 Todesopfer vor allem durch Krebserkrankungen für möglich.
+Direkt der Katastrophe zugeschriebene Todesfälle, größtenteils infolge von akuter Strahlenkrankheit, gab es laut diesem Bericht weniger als 50.
+Die mittelbaren und statistisch ermittelten Todesopferzahlen werden dagegen wesentlich höher beziffert.
+Die IPPNW bringt in einem Report von 2016 Hunderttausende Todesfälle statistisch in Verbindung mit der Nuklearkatastrophe.
+Unter gesundheitlichen Spätfolgen leiden demnach Millionen Menschen.
+Der im Jahr 2008 veröffentlichte Bericht der UNSCEAR kam zu dem Schluss, dass zu diesem Zeitpunkt insgesamt 43 Todesfälle auf den Reaktorunfall zurückzuführen waren.
+
+Als wesentlichster Effekt wurde in den stark kontaminierten Gebieten um Tschernobyl das vermehrte Auftreten von Schilddrüsenkrebs beobachtet, einer Krebsform mit sehr guter Prognose.
+Dieses vermehrte Auftreten hätte mit einfachen medizinischen Mitteln, durch eine sog. Jodblockade, von der damaligen Regierung verhindert werden können.
+
+Der damalige Generalsekretär des Zentralkomitees der KPdSU, Michail Gorbatschow, bezeichnete 1986 in einer öffentlichen Stellungnahme die westliche Berichterstattung über das Unglück mit angeblich Tausenden von Toten als "zügellose antisowjetische Hetze" und rief in der Rede zur internationalen Zusammenarbeit im Bereich der friedlichen Nutzung der Kernenergie auf.
+
+2006 schreibt Gorbatschow in einem Buch, Tschernobyl sei vielleicht mehr noch als seine Perestroika die wirkliche Ursache für den Zusammenbruch der Sowjetunion.
+
+== Hergang
+
+=== Ursachen
+
+Die Katastrophe ereignete sich bei einem unter der Leitung von Anatoli Djatlow durchgeführten Versuch, der einen vollständigen Ausfall der externen Stromversorgung des Kernreaktors simulieren sollte.
+Dieser Versuch sollte den Nachweis erbringen, dass in der Anlage selbst durch den Nachlauf der Hauptturbine genügend elektrische Energie produziert wird, um die bei einem Stromausfall weiterhin benötigten Kühlsysteme bis zum Anlaufen der Dieselgeneratoren versorgen zu können.
+
+Als Hauptursachen für die Katastrophe gelten erstens die bauartbedingten Eigenschaften des graphit-moderierten Kernreaktors (Typ RBMK-1000), der im niedrigen Leistungsbereich instabiles Verhalten zeigt, und zweitens schwerwiegende Verstöße der Operatoren gegen geltende Sicherheitsvorschriften während des Versuchs, insbesondere der Betrieb des Reaktors in diesem instabilen Leistungsbereich.
+
+Kennzeichnend für diesen Reaktortyp ist ein stark positiver Void-Koeffizient:
+Bilden sich im Kühlwasser Dampfblasen - zum Beispiel wegen einer lokalen Leistungssteigerung an einer Stelle im Reaktor oder wegen Druckverlusts im Reaktor nach dem Platzen eines Rohres -, so erhöht sich die Reaktivität im Reaktor.
+Grund hierfür ist, dass sich die Neutronenabsorption des Kühlwassers entsprechend der Dampfblasenbildung reduziert, während zugleich die Moderationswirkung des im Reaktor verbauten Graphits erhalten bleibt.
+Bei den meisten anderen kommerziellen Reaktortypen ist hingegen der Void-Koeffizient negativ, weil dort das Kühlwasser zugleich als Moderator dient.
+Kommt es bei diesen zur Dampfblasenbildung, reduziert sich die Reaktivität und damit auch die Wärmeproduktion.
+
+Beim Unglücksreaktor wurde der Void-Koeffizient zudem durch den fortgeschrittenen Abbrand des Kernbrennstoffs weiter erhöht.
+Weiterhin wurde die Einhaltung der betrieblichen Reaktivitätsreserve (minimal erforderliche Reaktivitätsbindung durch hinreichend in den Reaktor eingefahrene Steuerstäbe) nicht vom automatischen Reaktorsicherheitssystem überwacht.
+Stattdessen war sie lediglich in den Betriebsvorschriften vorgegeben.
+Tatsächlich war der vorgegebene Minimalwert der Reaktivitätsreserve bereits Stunden vor Beginn des Versuchs unterschritten - der Reaktor hätte abgeschaltet werden müssen.
+Außerdem hatte die Betriebsmannschaft bestimmte Sicherheitssysteme abgeschaltet, um im Bedarfsfall den Versuch wiederholen zu können.
+Die automatisch arbeitenden Sicherheitssysteme hätten das ansonsten planmäßig verhindert, indem sie während des Versuchs eine Schnellabschaltung auslösten.
+
+Die endgültige Auslösung der explosionsartigen Leistungsexkursion ist wahrscheinlich auf eine weitere konstruktive Besonderheit des Steuerstabsystems zurückzuführen: ein Großteil der Steuerstäbe hat an ihrem unteren Ende Graphitspitzen, die beim Einfahren aus der oberen Endlage zunächst eine positive Reaktivitätszufuhr (Leistungssteigerung) in Höhe eines halben  bewirken; eine Leistungsminderung bewirken sie erst bei größerer Einfahrtiefe.
+
+Als der Schichtleiter Alexander Akimow schließlich Leonid Toptunow befahl, manuell die Reaktorschnellabschaltung (russisch apa aa 5- aeop (-5), Awarijnaja Saschtschita 5-j kategorii (AZ-5), "Notfallschutz der 5. Kategorie") auszulösen, trat genau dieser Effekt ein:
+Viele Stäbe fuhren gleichzeitig ein und ihre Graphitspitzen führten dadurch dem Reaktor sogar noch mehr Reaktivität zu.
+Der wurde prompt überkritisch, das heißt, die Kettenreaktion der Kernspaltungen lief auch ohne verzögerte Neutronen immer schneller und war daher nicht mehr regelbar.
+Die Leistung stieg innerhalb von Sekundenbruchteilen auf ein Vielfaches (vermutlich das Hundertfache) der Nennleistung an.
+Schlagartig verdampften große Mengen Kühlwasser, und der dabei entstehende hohe Druck ließ den Reaktor bersten.
+Zudem bildeten sich bei den hohen Temperaturen durch chemische Reaktionen des Wasserdampfs mit den weiteren Reaktorkomponenten (insbesondere Graphit-Moderator und Metall) Wasserstoff und Kohlenmonoxid, die sich kurz darauf mit Luft mischten, was zu einer zweiten Explosion führte.
+
+Eine weitere Schwäche des RBMK-Designs als Druckröhrenreaktor war das Fehlen eines Sicherheitsbehälters.
+Unklar ist allerdings, ob ein solcher den Explosionen standgehalten hätte.
+
+Wesentlich zum Zustandekommen des Unfalls beigetragen hat die Verschiebung des Versuchs um rund einen halben Tag.
+Die lange Haltezeit auf Teillast führte zu einer Anreicherung des Reaktors mit neutronenabsorbierendem 135Xenon.
+Durch die Xenonvergiftung wurde das neutronenphysikalische Verhalten des Reaktors wesentlich komplexer und unübersichtlicher.
+
+=== Geplanter Versuchsablauf
+
+Auch ein abgeschaltetes Kernkraftwerk ist auf die Versorgung mit elektrischer Energie angewiesen, beispielsweise zur Aufrechterhaltung der Kühlung und für die Instrumentierung und Überwachung.
+Im Normalfall wird der Eigenbedarf eines abgeschalteten Kraftwerks aus dem öffentlichen Energieversorgungsnetz oder von Nachbarblöcken gedeckt.
+Ist das nicht möglich, laufen Notstromaggregate an.
+Jedoch benötigen diese eine gewisse Zeit, bis sie ausreichend Strom produzieren.
+
+Im Rahmen einer wegen Wartungsarbeiten anstehenden Abschaltung des Reaktors sollte nun gezeigt werden, dass die Rotationsenergie der auslaufenden Turbinen bei gleichzeitig unterstelltem Netzausfall ausreicht, die Zeit von etwa 40 bis 60 Sekunden bis zum vollen Anlaufen der Notstromaggregate zu überbrücken.
+Nach Sicherheitsvorschriften hätte der Versuch eigentlich bereits vor der kommerziellen Inbetriebnahme im Dezember 1983 durchgeführt werden sollen.
+Jedoch waren die finanziellen Anreize für die Projektleiter für die rechtzeitige Inbetriebnahme so hoch, dass dieser eigentlich erforderliche Sicherheitstest erst nachträglich durchgeführt wurde.
+
+Ein im Block 3 des Kraftwerks bereits durchgeführter analoger Versuch war 1985 gescheitert, da die Spannung des Generators an der Hauptturbine zu schnell abfiel, so dass die Stromversorgung aus dem Generator nicht gereicht hätte, die Zeit bis zum Anspringen und Hochfahren der Notstromaggregate zu überbrücken.
+Nun sollte der Versuch im Block 4 mit einem verbesserten Spannungsregler wiederholt werden.
+
+Es war vorgesehen, den Versuch bei reduzierter Reaktorleistung (zwischen 700 und 1000 MWthermisch) durch Schließung der Dampfzufuhr zu den Turbinen einzuleiten.
+
+=== Chronologie
+
+Freitag, 25. April 1986 01:06 Uhr (OESZ):
+Als erster Schritt sollte die thermische Leistung des Reaktors von ihrem Nennwert bei 3200 MW auf 1000 MW reduziert werden, wie bei einer Regelabschaltung üblich.
+Der Reaktor sollte sowohl für eine Revision als auch für den Test heruntergefahren werden.
+
+13:05 Uhr:
+Etwa 50 % Reaktorleistung wurden erreicht.
+Eine der beiden zugeordneten Turbinen wurde abgeschaltet.
+Bei diesen etwa 50 Prozent Leistung wurde der Turbogenerator 7 abgeschaltet.
+Es reicherte sich neutronenabsorbierendes 135Xenon an.
+
+14:00 Uhr:
+Es wurde damit begonnen, das Notkühlsystem abzuschalten.
+Grund dafür war, dass bei einem Notkühlsignal kein Wasser in den Reaktor gepumpt werden sollte.
+Inzwischen war aufgrund erhöhter Stromnachfrage auf Anweisung des Lastverteilers in Kiew die Leistungsabsenkung bei einer erreichten Leistung von 1600 MW unterbrochen und der Reaktor mit dieser Leistung konstant weiterbetrieben worden.
+Das Betriebspersonal vergaß nun, die Notkühlsysteme wieder zu aktivieren.
+
+23:10 Uhr: Nachdem der Strombedarf gedeckt war, wurde mit dem weiteren Abfahren des Reaktors begonnen.
+Ziel war es, 25 Prozent der Nennleistung zu erreichen.
+
+Samstag, 26. April 1986 00:00 Uhr:
+Eine neue Schichtmannschaft übernahm den Reaktor.
+
+00:28 Uhr:
+Bei 500 MW erfolgte eine Umschaltung innerhalb der Reaktorleistungsregelung.
+Durch einen Bedienfehler, durch den der Sollwert für die Gesamtleistungsregelung möglicherweise nicht richtig eingestellt wurde, oder aufgrund eines technischen Defekts sank die Leistung weiter bis auf nur noch etwa 30 MW, rund 1 Prozent der Nennleistung.
+
+Wie nach jeder Leistungsabsenkung erhöhte sich die Konzentration des Isotops 135Xe im Reaktorkern ("Xenonvergiftung").
+Da 135Xe als Neutronengift die für die nukleare Kettenreaktion benötigten Neutronen sehr stark absorbiert, nahm aufgrund der Konzentrationszunahme die Reaktivität des Reaktors immer weiter ab.
+Als die Betriebsmannschaft am 26. April 1986 um 00:32 Uhr die Leistung des Reaktors durch weiteres Ausfahren von Steuerstäben wieder anheben wollte, gelang ihr das infolge der mittlerweile aufgebauten Xe-Vergiftung nur bis zu etwa 200 MW oder 7 Prozent der Nennleistung.
+
+Obwohl der Betrieb auf diesem Leistungsniveau unzulässig war (laut Vorschrift durfte der Reaktor nicht unterhalb von 20 Prozent der Nennleistung betrieben werden, was 640 MW entspricht) und sich zu diesem Zeitpunkt außerdem viel weniger Steuerstäbe im Kern befanden, als für einen sicheren Betrieb vorgeschrieben waren, wurde der Reaktor nicht abgeschaltet, sondern der Betrieb fortgesetzt.
+
+01:03 Uhr bzw. 01:07 Uhr:
+Beim Schließen der Turbineneinlassventile läuft normalerweise das Kernnotkühlsystem an.
+Dieses war jetzt jedoch ausgeschaltet.
+Um dessen Stromverbrauch für den Versuch zu simulieren, wurden nacheinander zwei zusätzliche Hauptkühlmittelpumpen in Betrieb genommen.
+Der dadurch erhöhte Kühlmitteldurchsatz verbesserte an einigen Stellen die Wärmeabfuhr aus dem Reaktorkern und reduzierte demgemäß den durchschnittlichen Dampfblasengehalt des Kühlmittels im Kern.
+Der positive Dampfblasen-Koeffizient bewirkte eine globale Reaktivitätsabnahme, auf welche die (automatische) Reaktorregelung mit dem Herausfahren weiterer Steuerstäbe reagierte.
+Der Reaktorzustand verschob sich weiter in den unzulässigen Bereich.
+
+01:19 Uhr: Die Wasserzufuhr in den Reaktor wurde erhöht, um so die Warnsignale zum Stand von Wasserspiegel und Druck zu deaktivieren, die zu einer Abschaltung geführt hätten.
+Diese Vorgehensweise war laut Betriebsanleitung nicht verboten.
+
+01:22 Uhr: Es gelang, den Reaktor zu stabilisieren und den Wasserpegel im Reaktor auf zwei Drittel des vorgeschriebenen Werts zu steigern.
+
+01:23:04 Uhr: Der eigentliche Test begann durch Schließen der Turbinenschnellschlussventile.
+Dadurch wurde die Wärmeabfuhr aus dem Reaktor unterbrochen, sodass die Temperatur des Kühlmittels nun anstieg.
+Infolge des positiven Dampfblasen-Koeffizienten kam es jetzt zu einem Leistungsanstieg, auf den die automatische Reaktorregelung folgerichtig mit dem Einfahren von Steuerstäben reagierte.
+Infolge der relativ langsamen Einfahrgeschwindigkeit der Steuerstäbe konnte die Leistung allerdings nicht stabilisiert werden, sodass der Neutronenfluss weiter anstieg.
+Dies bewirkte einen verstärkten Abbau der im Kern angesammelten Neutronengifte (insbesondere 135Xe).
+Dadurch stiegen Reaktivität und Reaktorleistung weiter an, wodurch immer größere Mengen an Dampfblasen entstanden, die ihrerseits wieder die Leistung erhöhten.
+Die Effekte schaukelten sich so gegenseitig auf.
+
+01:23:40 Uhr:
+Der Schichtleiter Alexander Akimow gibt Leonid Toptunow den Befehl, manuell den Knopf des Havarieschutzes auszulösen, Typ 5 (Notabschaltung des Reaktors).
+Dazu wurden alle zuvor aus dem Kern entfernten Steuerstäbe wieder in den Reaktor eingefahren; doch hier zeigte sich ein weiterer Konzeptionsfehler des Reaktortyps:
+Durch die an den Spitzen der Stäbe angebrachten Graphitblöcke wurde beim Einfahren eines vollständig herausgezogenen Stabs die Reaktivität zunächst kurzzeitig im unteren Bereichs des Reaktors um den Wert eines halben Beta erhöht, bis der Stab tiefer in den Kern eingedrungen war.
+Dadurch bildete sich im unteren Bereich des Reaktors ein Bereich, in dem die Leistung die Auslegung der Struktur des Reaktors überschritt, wodurch ein weiteres Einfahren der Steuerstäbe unmöglich wurde.
+
+Die durch das gleichzeitige Einfahren aller Stäbe massiv gesteigerte Neutronenausbeute ließ die Reaktivität so weit ansteigen, dass schließlich (um 01:23:44 Uhr) mehr prompte Neutronen (also ohne die verzögerten Neutronen) erzeugt wurden, als für den Erhalt der Kettenreaktion nötig war (prompte Überkritikalität) und infolgedessen die Leistung innerhalb von Sekundenbruchteilen das Hundertfache des Nennwerts überschritt (Leistungsexkursion).
+
+Durch diese Leistungsexkursion im Reaktorkern erhitzten sich Kühlwasser, Graphit, Steuerstäbe und Brennstäbe enorm.
+Erste Explosionen fanden möglicherweise in den Brennelementen statt.
+Nachfolgend begannen Druckröhren zu bersten, so dass die Reaktorauslegung überschritten wurde, die maximal zwei gleichzeitig zerstörte Kanäle vorsah.
+Die einfahrenden Steuerstäbe erreichten nicht die Endposition, sondern wurden möglicherweise durch eine überdruckbedingte Verschiebung von Reaktorbauteilen blockiert.
+Das Zirconium in den Ummantelungen der Brennstäbe wie auch der Graphit konnten mit dem heißen Dampf reagieren.
+Wasserstoff und Kohlenmonoxid entstanden in größeren Mengen und konnten aufgrund der Beschädigungen des Reaktorkerns entweichen.
+Unterhalb des Reaktorgebäudedeckels bildeten diese mit dem Sauerstoff der Luft ein explosives Gemisch aus Knallgas und Wassergas, das sich vermutlich entzündete und zu einer zweiten Explosion nur Sekunden nach der nuklearen Leistungsexkursion führte.
+Welche Explosion zum Abheben des über 1000 Tonnen schweren Deckels des Reaktorkerns (biologischer Schild) führte, ist unklar.
+Außerdem zerstörten die Explosionen das (nur als Wetterschutz ausgebildete) Dach des Reaktorgebäudes, sodass der Reaktorkern nun nicht mehr eingeschlossen war und direkte Verbindung zur Atmosphäre hatte.
+Der glühende Graphit im Reaktorkern fing sofort Feuer.
+Insgesamt verbrannten während der folgenden zehn Tage 250 Tonnen Graphit, das sind etwa 15 Prozent des Gesamtinventars.
+
+Große Mengen an radioaktiver Materie wurden durch die Explosionen und den anschließenden Brand des Graphits in die Umwelt freigesetzt, wobei die hohen Temperaturen des Graphitbrandes für eine Freisetzung in große Höhen sorgten.
+Insbesondere die leicht flüchtigen Isotope 131I und 137Cs bildeten gefährliche Aerosole, die in einer radioaktiven Wolke teilweise Hunderte oder gar Tausende Kilometer weit getragen wurden, bevor sie der Regen aus der Atmosphäre wusch.
+Radioaktive Stoffe mit höherem Siedepunkt wurden hingegen vor allem in Form von Staubpartikeln freigesetzt, die sich in der Nähe des Reaktors niederschlugen.
+
+04:30 Uhr : Akimow meldete einem Mitglied der Kraftwerksleitung, Nikolai Fomin, dass der Reaktor intakt geblieben sei.
+Obwohl überall Bruchstücke der Brennstäbe sowie Graphitelemente verstreut lagen und die Situation bei Tageslicht offensichtlich war, beharrten die Operatoren sowie die Kraftwerksleitung noch bis zum Abend des 26. April darauf, dass der Reaktor intakt sei und nur gekühlt werden müsse.
+Entsprechende Meldungen wurden nach Moskau übermittelt.
+Dieser Umstand ist nach Grigori Medwedew die Hauptursache für die späte Evakuierung der Stadt Prypjat.
+
+Gegen 05:00 Uhr:
+Die Brände außerhalb des Reaktors waren durch die Werkfeuerwehr gelöscht.
+Block 3 wurde abgeschaltet.
+
+Gegen 15:12 Uhr:
+Der Werksfotograf Anatoli Rasskasow machte von einem Hubschrauber aus die ersten Aufnahmen der radioaktiven Rauchfahne und des zerstörten Reaktorblocks 4.
+Ein Großteil seiner Aufnahmen waren infolge der hohen Strahlungsaktivität geschwärzt.
+Einige Abzüge behielt er für sich, und die anderen Fotos mitsamt den Negativen wurden dem Notfallstab und den Sicherheitsbehörden übergeben.
+Einige Aufnahmen wurden erst am 30. April 1986 retuschiert im sowjetischen Fernsehen gezeigt, um das Ausmaß des Unglücks weniger dramatisch darstellen zu können.
+
+Sonntag, 27. April 1986 Die Blöcke 1 und 2 wurden um 01:13 bzw. 02:13 Uhr abgeschaltet.
+Es wurde begonnen, den Reaktor von Block 4 mit Blei, Bor, Dolomit, Sand und Lehm zuzuschütten.
+Dies verringerte die Spaltproduktfreisetzung und deckte den brennenden Graphit im Kern ab.
+Insgesamt wurden ca. 40 t Borcarbid abgeworfen, um die Kettenreaktion zu unterbinden, ca. 800 t Dolomit, um den Graphitbrand zu unterdrücken und die Wärmeentwicklung zu verringern, ca. 2400 t Blei, um die Gammastrahlung zu verringern wie auch eine geschlossene Schicht über dem schmelzenden Kern zu bilden, und ca. 1800 t Sand und Lehm, um die radioaktiven Stoffe zu filtern.
+Rund 1800 Hubschrauberflüge waren hierfür nötig.
+Das zur Kühlung in den Block 4 eingeleitete Wasser sammelte sich aufgrund der geborstenen Leitungen in den Räumen unter dem Reaktor, wo es stark kontaminiert wurde und mit etwa 1000 Röntgen (= 10 Gray) pro Stunde strahlte.
+Zur gleichen Zeit begann die Evakuierung der in der Nähe liegenden Stadt Prypjat mit 48.000 Einwohnern.
+
+Montag, 28. April 1986 09:00 Uhr: Im über 1200 Kilometer entfernten Kernkraftwerk Forsmark in Schweden wurde aufgrund erhöhter Radioaktivität auf dem Gelände automatisch Alarm ausgelöst.
+Messungen an der Arbeitsbekleidung der Angestellten ergaben erhöhte radioaktive Werte.
+Nachdem die eigenen Anlagen als Verursacher hatten ausgeschlossen werden können, richtete sich der Verdacht aufgrund der aktuellen Windrichtung gegen eine kerntechnische Anlage auf dem Gebiet der Sowjetunion.
+
+21:00 Uhr:
+Nachdem die sowjetischen Behörden zunächst eine Nachrichtensperre erlassen hatten, meldete die amtliche Nachrichtenagentur TASS erstmals einen "Unfall" im Kernkraftwerk Tschernobyl.
+Um 21:30 Uhr wurde in der Nachrichtensendung Wremja eine Meldung verlesen, dass der Reaktor in Tschernobyl beschädigt sei und man "Maßnahmen zur Beseitigung der Folgen der Havarie" ergriffen habe.
+Um 19:32 Uhr MEZ schickte die Deutsche Presse-Agentur eine erste Eilmeldung an die Nachrichtenredaktionen in der Bundesrepublik Deutschland ab.
+
+Dienstag, 29. April 1986 Sowjetische Quellen sprachen erstmals von einer "Katastrophe" und von zwei Todesopfern.
+Internationale Medien berichteten erstmals ausführlicher über den Unfall, verfügten aber über kein Bild- oder Filmmaterial vom Unglücksort.
+US-Militärsatelliten lieferten ab dem Nachmittag erste Aufnahmen und Informationen, die nicht an die Öffentlichkeit gelangten.
+
+Mittwoch, 30. April 1986 Im sowjetischen Fernsehen wurde erstmals ein Foto vom Unglücksort gezeigt, das aber retuschiert war.
+Die ARD-Nachrichtensendung Tagesschau zeigte dieses Foto ebenfalls.
+
+Donnerstag, 1. Mai 1986 Der erst im Februar 1986 in die Erdumlaufbahn entsandte französische Erderkundungssatellit SPOT 1 lieferte den internationalen Fernsehmedien Aufnahmen von Infrarotbildern der nuklearen Rauchfahne über dem Reaktor.
+Am 3. Mai lieferten auch Landsat-Satelliten erstmals Aufnahmen, die allerdings sehr ungenau waren und keine Aufschlüsse über das Ausmaß der Katastrophe geben konnten.
+
+4. und 5. Mai 1986 Es wurde unterhalb der Anlage begonnen, gasförmigen Stickstoff einzublasen, um so das Feuer zu ersticken.
+Zunächst hatte dies den Nebeneffekt, dass die Wärme im Kern anstieg und so auch mehr radioaktive Partikel hinausgeblasen wurden.
+
+6. Mai 1986 Die Freisetzung der Spaltprodukte war weitgehend unterbunden.
+Man begann, ein Stickstoffkühlsystem unter dem Reaktor einzubauen.
+
+== Reaktion und Gegenmaßnahmen
+
+Nachdem Prypjat am 27. April 1986 evakuiert worden war, erfasste der nächste Evakuierungs-Schritt bis zum 3. Mai sämtliche Einwohner aus einem Umkreis von 10 km um den Reaktor.
+Am 4. Mai 1986 wurde ein Gebiet 30 km um den Reaktor evakuiert, davon waren weitere 116.000 Menschen betroffen.
+In den folgenden Jahren wurden nochmals 210.000 Einwohner umgesiedelt.
+Mittlerweile beträgt die Sperrzone 4300 km^2, was einem Kreis mit dem Radius von 37 km entspricht.
+
+Zunächst war die Reaktion auf den Unfall in Tschernobyl von einer Unterschätzung der Lage und von Desinformation geprägt.
+So war die sowjetische Regierung noch am Morgen nach der Explosion nur über ein Feuer im Atomkraftwerk informiert, nicht über eine Explosion.
+Erst als der Zivilschutz in Prypjat am Tag gefährlich hohe Strahlungsbelastungen maß und nach Moskau meldete, berief Parteichef Michail Gorbatschow einen Krisenstab ein und entsandte Experten zum Unglücksort.
+Zwar war in Prypjat von einem Zwischenfall die Rede, es wurde jedoch nur die Anweisung gegeben, Iodtabletten einzunehmen und Fenster wie Türen zu schließen.
+Die Stadt liegt weniger als 5 km von dem Atomkraftwerk entfernt, in dem auch ein Großteil der Einwohner arbeitete.
+Während 30 Stunden nach der Explosion im Reaktorblock 4 mit der Evakuierung der Stadt Prypjat begonnen wurde, die mit Hilfe von 1000 Bussen bewerkstelligt wurde, richteten sich die Experten dort - zunächst ohne jegliche Schutzmaßnahmen gegen die radioaktive Belastung - ein.
+Erst als man zwei Tage nach der Explosion erhöhte Radioaktivität an einem Atomkraftwerk in Schweden maß und Wissenschaftler herausfanden, dass die Strahlung von außerhalb kam, fragte man in Moskau nach, ob dort Ursachen bekannt seien.
+
+Nun unternahm man die ersten Schritte, um den havarierten glühenden Reaktorblock zu kühlen und weitere sich auftuende Probleme zu vermeiden.
+Um die Strahlung zu mindern, warf man von Hubschraubern, die teils aus Afghanistan abgezogen worden waren, aus einer Höhe von 200 m Sand und Borsäure in den Reaktorblock.
+Doch zeigte dies keine Wirkung, und die Temperatur stieg.
+Daraufhin entschied man, auf Blei umzusteigen.
+Das Löschwasser, das sich unter dem Reaktor gesammelt hatte, drohte in Berührung mit dem geschmolzenen Corium aus Brennstäben, Graphit und Beton zu kommen, was zu einer Dampfexplosion hätte führen können.
+
+Man entschloss sich, das Löschwasser mit Hilfe der Feuerwehr aus Prypjat abzupumpen.
+Zudem entschied man sich, mit der Hilfe von eilig nach Tschernobyl verlegten Bergleuten einen 150 Meter langen Zugang vom dritten unter den vierten Reaktorblock zu graben und dort eine Kammer mit einem Rauminhalt von 4500 m^3 auszuheben, um eine komplexe Kühlanlage zu installieren.
+Letztlich wurde diese Kammer mit Beton ausgefüllt, denn man wollte vermeiden, dass die Strahlung das Grundwasser um den Reaktor, das die gesamte Ukraine versorgte, verseuchte.
+Als weitere Maßnahmen riss man alle kleinen Dörfer um Prypjat ab und versuchte, einen Großteil der Tiere zu töten.
+
+Zwar ging die Evakuierung im Umkreis um das Kraftwerk weiter, bis schließlich eine 30-km-Zone geräumt wurde, die Bevölkerung in den umliegenden Gebieten wurde aber nach wie vor nicht über die Gefahr in Kenntnis gesetzt, da man eine Massenpanik vermeiden wollte.
+Während der Feierlichkeiten zum 1. Mai befanden sich besonders viele Menschen im Freien, ohne über die Gefahr informiert zu sein.
+International wurde der Vorfall aber mittlerweile bekanntgegeben.
+Am 5. Mai besuchte Hans Blix, Direktor der IAEA, auf Einladung von Gorbatschow Tschernobyl und besichtigte bei einem Hubschrauberflug den havarierten Reaktor.
+Auf einer Pressekonferenz in Moskau kündigten Blix und die sowjetischen Verantwortlichen öffentlich eine internationale Konferenz zum Tschernobyl-Vorfall in Wien an, auf der die Sowjetunion alle verfügbaren Informationen zur Verfügung stellen wollte.
+Am 14. Mai wandte sich Gorbatschow in einer Fernsehansprache an das Volk und stimmte die Menschen auf die Bewältigung der Folgen des Unglücks ein.
+
+Kurz darauf wurde damit begonnen, zur Versiegelung des havarierten Reaktors und zur Säuberung des stark belasteten Umkreises des Kraftwerks eine große Zahl von Helfern nach Tschernobyl zu transportieren.
+Die sogenannten Liquidatoren, die unter dem Oberbefehl von General Nikolai Tarakanow jeweils nur für kurze Zeit unter lebensgefährlichen Bedingungen tätig waren, hatten nun die Aufgabe, das restliche Gebiet zu dekontaminieren.
+Die Liquidatoren wurden zum Teil unter den aus der 30-km-Sperrzone Evakuierten rekrutiert, es waren jedoch auch u. a. Soldaten und Reservisten im Einsatz.
+
+Die nächste große Gegenmaßnahme bestand darin, das Dach des vierten Reaktorblocks von hoch verstrahltem Material zu reinigen.
+Dies war der erste Schritt, langfristigen Schutz gegen die Strahlung zu gewährleisten.
+Über dem havarierten Reaktor wurde ein Sarkophag aus Stahl und Beton gebaut.
+Dies geschah mit Hilfe von Hubschraubern und Kränen, die mit Stahl- und Bleiplatten vor der Strahlung geschützt wurden.
+Die Arbeiten auf dem Dach des Reaktors, wo die Strahlenbelastung am größten war, sollten zuerst von ferngesteuerten Fahrzeugen erledigt werden.
+Nachdem diese jedoch unter den extremen Bedingungen versagt hatten, kamen auch hier Menschen zum Einsatz.
+Laut offiziellen Angaben liegen 97 % der Brennstäbe begraben unter dem Sarkophag; jedoch wird diese Angabe bezweifelt, da schon bei der Explosion mehr als 3 % von deren Masse aus dem vierten Reaktorblock geschleudert wurde.
+
+Um den radioaktiven Staub auf dem Boden zu binden, wurde um den Reaktor mit Hubschraubern eine klebrige Substanz auf Polymerbasis verteilt, der man den Namen Burda (russisch für "dünne Brühe") gab.
+In den Siedlungen wurden die Dächer aller Gebäude gesäubert.
+Auf dem Reaktorgelände wurden 300.000 m^3 kontaminierte Erde abgetragen, in Gräben geschoben und mit Beton versiegelt.
+
+Ein neuer Sarkophag (New Safe Confinement; auch als "Arka" bezeichnet) wurde nach langjähriger Bauzeit im November 2017 direkt neben dem havarierten Kraftwerksblock über die alte rissige Ummantelung geschoben, die keinen ausreichenden Schutz mehr bietet.
+Heutzutage leben etwa 300 Liquidatoren in der Sperrzone.
+Diese sind an dem Neubau und der Instandhaltung des alten Sarkophags beteiligt.
+
+== Folgen
+
+=== Kontroverse Beurteilung
+
+Die Folgen der Reaktorkatastrophe werden nach wie vor sehr kontrovers erörtert.
+Ein im September 2005 veröffentlichter Report des Tschernobyl-Forums beschreibt die gesundheitlichen, ökologischen und sozioökonomischen Auswirkungen aus der Sicht der Mitglieder dieses Forums.
+
+Das Tschernobyl-Forum ist eine Arbeitsgruppe unter dem Dach der Internationalen Atomenergie-Organisation (IAEO).
+Das Tschernobyl-Forum besteht aus vier Nebenorganen der Vereinten Nationen (dem Umweltprogramm der Vereinten Nationen (UNEP), dem Entwicklungsprogramm der Vereinten Nationen (UNDP), dem UN-Nothilfekoordinator (OCHA) und dem Wissenschaftlichen Komitee der Vereinten Nationen über die Wirkungen atomarer Strahlungen (UNSCEAR)), vier autonomen Organisationen, die mit der UNO durch Verträge verbunden sind (der Internationalen Atomenergie-Organisation (IAEO), der Weltbank, der Weltgesundheitsorganisation (WHO) und der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO)) sowie aus den Regierungen von Weißrussland, Russland und der Ukraine.
+
+Die Ausarbeitung des Tschernobyl-Forums wird von einigen Wissenschaftlern und Nichtregierungsorganisationen wie Greenpeace oder IPPNW kritisiert.
+Dem Report werden Parteilichkeit, vorsätzliche Verharmlosung der Folgen des Reaktorunglücks sowie methodische Mängel vorgeworfen.
+So umfasse die Studie lediglich die Folgen in Weißrussland, Russland und der Ukraine, obwohl ein erheblicher Teil der Strahlenbelastungen in Mittel- und Westeuropa anfiel.
+Außerdem habe die Studie des Tschernobyl-Forums Publikationen, die höhere Opferzahlen nahelegen, unberücksichtigt gelassen.
+Schließlich wird kritisiert, dass die Untersuchungen erst fünf Jahre nach dem Unglück begonnen wurden.
+
+Mit The Other Report on Chernobyl (Kurzbezeichnung TORCH) wurde ein "Gegenreport" zur Ausarbeitung des Tschernobyl-Forums veröffentlicht.
+Dieser Report wurde von den britischen Wissenschaftlern Ian Fairlie und David Sumner erarbeitet.
+Er sagt weitaus schwerwiegendere gesundheitsschädigende Folgen des Reaktorunglücks voraus.
+In Auftrag gegeben wurde die Studie von der Grünen Europaabgeordneten Rebecca Harms und unterstützt von der "Altner-Combecher-Stiftung für Ökologie und Frieden".
+
+Die nachfolgenden Angaben stammen im Wesentlichen aus obigen beiden Studien.
+Beide Studien arbeiten mit dem nuklearmedizinisch umstrittenen Linear-No-Threshold-Modell, welches davon ausgeht, dass eine geringe Strahlenbelastung über einen langen Zeitraum im Wesentlichen genau so erbgutschädigend ist wie eine hohe Strahlenbelastung über einen kurzen Zeitraum.
+Dabei wird ignoriert, dass lebende, gesunde Zellen über gut untersuchte DNA-Reparaturmechanismen verfügen, die eine Schädigung des Erbguts bis zu einem gewissen Grad reparieren können.
+So gibt es auf der Welt Wohngegenden, in denen stellenweise eine Jahresdosis von 500 mSv durch natürliche Radioaktivität erreicht wird, ohne dass dort über längere Zeiträume eine erhöhte Krebsrate festgestellt werden konnte.
+
+=== Kontaminierte Gebiete
+
+Die größten Freisetzungen radioaktiver Stoffe fanden während des Zeitraums von zehn Tagen nach der Explosion statt.
+Etwa 15 Prozent der Freisetzung erfolgte durch die Kritikalitätsexkursion schon am 26. April 1986, der größte Teil verteilte sich in den folgenden Tagen aufgrund des Graphitbrandes.
+Aufgrund der großen Hitze des bauartbedingten Graphitbrandes gelangten gasförmige oder leicht flüchtige Stoffe (z. B. Jod oder Cäsium) in Höhen von 1500 bis 10.000 m.
+Die Wolken mit dem radioaktiven Fallout verteilten sich zunächst über weite Teile Europas und schließlich über die gesamte nördliche Halbkugel.
+Wechselnde Luftströmungen trieben sie zunächst nach Skandinavien, dann über Polen, Tschechien, Österreich, Süddeutschland und bis nach Norditalien.
+Eine dritte Wolke erreichte den Balkan, Griechenland und die Türkei.
+Innerhalb dieser Länder wurde der Boden je nach regionalen Regenfällen unterschiedlich hoch belastet.
+
+Vollends für die menschliche Nutzung aufgegeben werden mussten ca. 6400 km^2 an landwirtschaftlicher Fläche und Waldgebieten, die nahe dem Kraftwerk gelegen und dementsprechend sehr hoch belastet waren.
+Insgesamt wurden etwa 218.000 km^2 mit mehr als 37 Kilobecquerel (37 kBq) 137Cs pro Quadratmeter radioaktiv belastet.
+Mehr als 70 Prozent dieser Gebiete liegen in Russland, der Ukraine und Weißrussland.
+Während hier die stärksten Konzentrationen an flüchtigen Nukliden und Brennstoffpartikeln entstanden, wurde mehr als die Hälfte der Gesamtmenge der flüchtigen Bestandteile und heißen Partikel außerhalb dieser Länder abgelagert.
+Finnland, Schweden, Norwegen, Bulgarien, Rumänien, Polen, Deutschland, Österreich und Jugoslawien erhielten jeweils mehr als ein Petabecquerel (1015 Bq) an 137Cs.
+Zu den weniger betroffenen Staaten Europas gehörten Belgien, Niederlande, Luxemburg, Frankreich, Großbritannien, Irland, Spanien und Portugal.
+Auch einige Regionen in Großbritannien und Skandinavien sowie im Alpenraum sind teilweise hohen Cäsium-Kontaminationen ausgesetzt; die Belastung nimmt im Laufe der Jahre nur langsam ab, weil die Halbwertszeiten einiger radioaktiver Isotope des Fallout mehrere Jahrzehnte betragen.
+In einigen Ländern gelten weiterhin Einschränkungen bei Produktion, Transport und Verzehr von Lebensmitteln, die immer noch durch den radioaktiven Niederschlag von Tschernobyl belastet sind.
+Insgesamt wurden in Europa etwa 3.900.000 km^2, das heißt 40 Prozent der Gesamtfläche, mit mindestens 4 kBq/ m^2 137Cs kontaminiert.
+Außerhalb Europas waren vor allem Vorderasien und Nordafrika betroffen.
+
+Österreich gehörte zu den am stärksten betroffenen Ländern.
+Es kam zu einer durchschnittlichen 137Cs-Kontamination von 18,7 kBq/m^2.
+Die Maximalwerte erreichten in einigen Gegenden fast 200 kBq/m^2.
+Höhere Werte wurden nur in Weißrussland, Russland und der Ukraine sowie einigen Gebieten Skandinaviens gemessen.
+
+In den am stärksten belasteten Gebieten Deutschlands, im Südosten von Bayern, lagen die Bodenkontaminationen bei bis zu 74 kBq/m^2 137Cs.
+Auch heute noch sind in einigen Regionen im Süden Deutschlands Pilze, Waldbeeren und Wildtiere vergleichsweise hoch belastet.
+Laut Bundesamt für Strahlenschutz ist die Kontamination dort rund zehnmal höher als im Norden Deutschlands.
+Im Jahr 2002 wurden im Muskelfleisch von Wildschweinen aus dem Bayerischen Wald 137Cs-Werte von bis zu 20 kBq/kg gemessen.
+Hierbei betrug der Durchschnittswert 6,4 kBq/kg und damit mehr als das Zehnfache des EU-Grenzwerts von 0,6 kBq/kg.
+Laut einem Bericht des Daily Telegraph ist 2014 die Strahlenbelastung der Wildschweine in Sachsen immer noch so hoch, dass 297 von 752 erlegten Tieren den Grenzwert von 0,6 kBq/kg überschritten und vernichtet werden mussten.
+
+Die durch das Reaktorunglück in Tschernobyl verursachte mittlere effektive Dosis eines Erwachsenen ging in Deutschland von 0,11 mSv im Jahr 1986 auf weniger als 0,012 mSv im Jahre 2009 zurück.
+Zum Vergleich: Sie liegt damit im Bereich der durch die in der Atmosphäre durchgeführten Kernwaffenversuche verursachten Belastung, die mit weniger als 0,01 mSv angegeben wird.
+Die mittlere effektive Dosis durch natürliche Strahlenexposition liegt im Mittel bei 2,1 mSv pro Jahr, die durch röntgendiagnostische und nuklearmedizinische Untersuchungen verursachte künstliche Strahlenexposition bei etwa 1,8 mSv pro Jahr.
+
+Die in den Jahren 2004 bis 2009 vom vTI-Institut für Fischereiökologie durchgeführten Messungen der Radioaktivität in Speisefischen von Nord- und Ostsee zeigen, dass die radioaktive Belastung der Fische mit 137Cs in der Ostsee auf Grund der Katastrophe von Tschernobyl um eine Größenordnung über der Belastung von Fischen aus der Nordsee liegt.
+Die radioaktive Belastung liegt allerdings deutlich unterhalb der gesetzlichen Grenzwerte.
+
+Am 5. April 2020 teilte der ukrainische Umweltinspektionsdienst mit, dass durch einen Waldbrand auf einer Fläche von rund 100 Hektar in der Sperrzone um das Kernkraftwerk Radioaktivität freigesetzt wurde.
+Als Ursache für den Waldbrand wird vermutet, dass Anwohner am 4. April 2020 den Brand durch das illegale Verbrennen von Müll ausgelöst haben.
+Zwei Wochen nach Ausbruch waren schätzungsweise 11.500 Hektar nach Auswertungen von Satellitenbildern abgebrannt.
+Darüber hinaus kam es aufgrund der Feuer zu anhaltenden und dichten Smog in Kiew.
+Durch die Feuer wurden in der benachbarten Oblast Schytomyr 38 Wohnhäuser zerstört, nachdem die Brände auf Dörfer übergegriffen hatten.
+Die Brände wurden von mehr als 700 Feuerwehrleuten bekämpft, die auch Hubschrauber einsetzten.
+Zur Unterstützung und Eindämmung bzw. Löschung der Brände stellte die Bundesrepublik Deutschland 80 Dosimeter zur Radioaktivitätsmessung sowie ein Tanklöschfahrzeug zur Verfügung.
+
+=== Exponierte Personengruppen
+
+Unmittelbar nach dem Unglück und bis Ende 1987 wurden etwa 200.000 Aufräumarbeiter ("Liquidatoren") eingesetzt.
+Davon erhielten ca. 1000 innerhalb des ersten Tages nach dem Unglück Strahlendosen im Bereich von 2 bis 20 Gray (Gy).
+Die später eingesetzten Liquidatoren erhielten demgegenüber wesentlich geringere Strahlendosen bis zu maximal etwa 0,5 Gy bei einem Mittelwert von etwa 0,1 Gy.
+Die Zahl der Liquidatoren erhöhte sich nach Angaben der WHO in den folgenden Jahren auf 600.000 bis 800.000.
+Die Zahl ist nicht exakt bezifferbar, da nur 400.000 Liquidatoren registriert wurden und auch deren Daten unvollständig sind.
+Die Liquidatoren wurden später für ihre Arbeit mit einer Medaille gewürdigt.
+
+Im Frühjahr und Sommer 1986 wurden etwa 116.000 Personen aus der 30-Kilometer-Zone rund um den Reaktor evakuiert.
+Später wurden zirka 240.000 weitere Personen umgesiedelt.
+Für die ukrainischen Evakuierten wurde ein mittlerer Dosiswert von 17 mSv (Schwankungsbereich 0,1 bis 380 mSv) errechnet, für die weißrussischen Evakuierten ein Mittelwert von 31 mSv (mit einem maximalen Durchschnittswert in zwei Ortschaften von 300 mSv).
+
+In den ersten Tagen nach dem Unfall führte die Aufnahme von radioaktivem Iod mit der Nahrung zu stark schwankenden Schilddrüsendosen in der allgemeinen Bevölkerung von im Mittel etwa 0,03 bis 0,3 Gy mit Spitzenwerten bis zu etwa 50 Gy.
+Eine Ausnahme davon bildeten die wenigen Einwohner von Prypjat, die durch die rechtzeitige Ausgabe von Tabletten mit stabilem Jod (Iodblockade) wesentlich geringere Schilddrüsendosen erhielten.
+
+Die nicht evakuierte Bevölkerung erhielt während der mehr als 20 Jahre seit dem Unfall sowohl durch externe Bestrahlung als auch durch Aufnahme mit der Nahrung als interne Strahlenexposition effektive Gesamtdosen von im Mittel etwa 10 bis 20 mSv bei Spitzenwerten von einigen 100 mSv.
+Heute erhalten die fünf Millionen Betroffenen in kontaminierten Gebieten generell Tschernobyl-bedingte Dosen von unter 1 mSv/Jahr, doch rund 100.000 erhalten immer noch mehr als 1 mSv pro Jahr.
+
+=== Gesundheitliche Folgen
+
+Laut WHO und IAEA (2008) starben an den Folgen akuter Strahlenkrankheit knapp 50 Menschen.
+In den drei am stärksten betroffenen Ländern sei aufgrund der erhöhten Strahlenexposition mit etwa 9000 zusätzlichen tödlichen Krebs- und Leukämieerkrankungen zu rechnen.
+Für Gesamteuropa schätzte Elisabeth Cardis 2006 ab, dass bis 2065 mit etwa 16.000 zusätzlichen Schilddrüsenkrebserkrankungen und 25.000 sonstigen zusätzlichen Krebserkrankungen zu rechnen sei.
+
+Die am besten dokumentierte Gesundheitsfolge ist ein signifikanter Anstieg der Schilddrüsenkrebserkrankungen um etwa 1800 Fälle nach dem Unfall.
+Laut UNSCEAR ist dies der größte Anstieg von Erkrankungen an einer einzelnen Krebsart, der durch ein einzelnes Ereignis ausgelöst wurde.
+Die zweite umfassend untersuchte Erkrankung ist Leukämie, insbesondere unter Kindern und Aufräumarbeitern.
+Manche Studien fanden eine erhöhte Rate, andere nicht.
+Viele Wissenschaftler sind der Ansicht, dass es noch zu früh sei, definitive Schlussfolgerungen zur Zahl der Leukämiefälle zu ziehen.
+
+Bezüglich der Zahl der Todesfälle gibt es eine bis heute andauernde erbitterte Debatte.
+Dies ist zum Teil auf die methodologischen Schwierigkeiten zurückzuführen, niedrige Strahlendosen mit statistischen Krankheitseffekten in Verbindung zu bringen.
+Zudem wird der unfallbedingte Anstieg der Krebsfälle von einer viel größeren Zahl von Krebsfällen überlagert, die auch ohne den Unfall aufgetreten wären.
+Nicht zuletzt spielen politische Motivationen bei diesen Schätzungen eine Rolle.
+In Publikationen von atomenergiekritischen Verbänden und Umweltorganisationen finden sich hundertfach höhere Zahlen von Erkrankungen und Todesfällen als in den Massenmedien.
+
+Angesichts der anhaltenden Kontroverse riefen IAEA und andere internationale Organisationen das Tschernobyl-Forum zusammen, um einen autoritativen Konsens zu formulieren.
+Im September 2005 kam das Forum zu dem Schluss, dass die Gesamtzahl der auf den Unfall zurückzuführenden Todesopfer bei etwa 4000 liege.
+Die Rezeption dieses Reports war jedoch keineswegs einheitlich zustimmend.
+Das Hauptproblem war, dass sich der Bericht auf die am schwersten betroffenen Gebiete Weißrusslands, der Ukraine und Russlands beschränkte und damit die größere Gesamtbevölkerung dieser sowie weiterer Länder ignorierte.
+
+Neben Krebs sind wohl die sozialen und psychischen Traumata die größten Probleme für die Bevölkerung in den Gebieten um Tschernobyl.
+Einige Wissenschaftler halten diese psychischen Folgen für das größte Gesundheitsproblem infolge des Unfalls.
+Die weißrussische Autorin und Nobelpreisträgerin Swetlana Alexijewitsch thematisiert in ihrem Werk diesen Aspekt der Katastrophe.
+
+==== Strahlenkrankheit
+
+Bei 134 Personen, insbesondere bei Kraftwerksbeschäftigten und Feuerwehrleuten, wurde unmittelbar nach dem Ereignis eine Strahlenkrankheit diagnostiziert.
+28 von ihnen starben im Jahr 1986 infolge der Strahlenkrankheit, die meisten in den ersten Monaten nach dem Reaktorunfall.
+In den Jahren 1987 bis 2004 starben 19 weitere von der Strahlenkrankheit betroffene Helfer, einige davon möglicherweise an den Langzeitfolgen der Strahlenkrankheit.
+
+==== Schilddrüsenkrebs
+
+Schilddrüsenkrebs ist eine seltene Krebserkrankung des Hormonsystems mit einer weltweiten Prävalenz von 4,7/100.000 bei Frauen und 1,5/100.000 bei Männern.
+In den meisten Regionen der Erde wurde in den vergangenen 30 Jahren ein deutlicher Anstieg der Zahl der Erkrankungen beobachtet.
+Die Ursachen hierfür sind noch nicht geklärt.
+Die Schilddrüse ist ein Organ, das für die Produktion von Schilddrüsenhormonen Iod benötigt und dieses daher aktiv aufnimmt und speichert.
+Zudem ist es ein kleines Organ, sodass auch geringe Mengen radioaktiven Iods eine hohe lokale Strahlendosis auslösen können.
+
+Eine große Menge von radioaktivem Iod wurde durch den Unfall freigesetzt.
+Dennoch war die Schilddrüsen-Strahlendosis, welche die allgemeine Bevölkerung erlitt, relativ gering; bei kleinen Kindern etwa 2 Gy in der Nähe der Anlage und 2,2 Gy in den am stärksten kontaminierten Gebieten (Gomel in Weißrussland).
+
+Die Zunahme von Schilddrüsenkrebs wurde erstmals schon wenige Jahre nach der Katastrophe beobachtet, am deutlichsten bei Personen, die zum Zeitpunkt des Unglücks unter fünf Jahre alt waren.
+Bei Kindern, die nach dem 1. Dezember 1987 geboren wurden - also, nachdem das radioaktive Iod praktisch vollständig zerfallen war - lässt sich keine Zunahme beobachten.
+
+Der differenzierte Schilddrüsenkrebs als mit Abstand häufigster Typ hat allerdings bei rechtzeitiger medizinischer Behandlung eine der besten Prognosen unter den Krebserkrankungen.
+Durch zielgerichtete Strahlentherapie mit radioaktivem Iod ist er gut therapierbar und vielfach auch heilbar.
+Auch ein eventuell auftretendes Rezidiv ist normalerweise nicht resistent gegen eine erneute Therapie mit radioaktivem Iod und lässt sich meist zurückdrängen.
+Bis heute wurden in Russland, Weißrussland und der Ukraine etwa 6000 Fälle diagnostiziert.
+Obwohl etwa 30 % der Patienten ein Rezidiv erleiden, werden voraussichtlich nur ein Prozent an der Erkrankung sterben.
+Von den 6000 Fällen verstarben (bis 2011) 15. Schilddrüsenkrebs bleibt also, trotz der sehr dramatischen Zunahmen von mehreren hundert Prozent in den betroffenen Gebieten, immer noch eine verhältnismäßig seltene Krebserkrankung mit sehr wenigen Todesfällen.
+
+Umstritten ist, ob ein erhöhtes Schilddrüsenkrebsrisiko auch für Menschen besteht, die zum Zeitpunkt der höchsten Belastung durch radioaktives Jod bereits erwachsen waren.
+
+==== Leukämie
+
+Die Zunahme von Leukämie in den signifikant kontaminierten Gebieten um Tschernobyl wird kontrovers diskutiert.
+
+Eine zehn Jahre andauernde Untersuchung an Kindern, die 1986 in der Ukraine geboren wurden, ergab eine signifikante Erhöhung aller Leukämiearten: "Die Risikorate für die Akute lymphatische Leukämie ist für Jungen dramatisch erhöht und in nicht ganz so starker Ausprägung auch für Mädchen.
+Für beide Geschlechter kombiniert ist das relative Risiko für die Akute Lymphatische Leukämie in belasteten Bezirken mehr als dreifach höher als in unbelasteten (relatives Risiko RR = 3,4)." (Zitat IPPNW-Bericht: Gesundheitliche Folgen von Tschernobyl, 2006, Seite 50 ff.) Der 2011 erstellte, überarbeitete Bericht kommt zu ähnlichen Ergebnissen.
+Es werden zahlreiche medizinische Studien angeführt, die eine Zunahme der Leukämie bei der betroffenen Bevölkerung beweisen, unter anderem auch in anderen europäischen Ländern:
+"In Griechenland erkrankten Kinder, die zum Zeitpunkt der Reaktorkatastrophe von Tschernobyl im Leib ihrer Mutter heranwuchsen, 2,6 mal so häufig an Leukämie wie Kinder, die vor oder längere Zeit nach der Katastrophe geboren wurden." (Zitat IPPNW-Bericht:
+Gesundheitliche Folgen von Tschernobyl, 2011, Seite 76)
+
+Eine 1993 erschienene Publikation in dem renommierten Wissenschaftsjournal Nature kam zu dem Schluss, dass es keine Häufung von Leukämiefällen in und um Tschernobyl gab.
+Allerdings wurde die Möglichkeit genannt, dass eine Häufung auch noch zu späteren Zeitpunkten auftreten könnte.
+
+Eine Metastudie von 2007, veröffentlicht im Fachjournal Health Physics (mit Peer-Review), kam zu dem Ergebnis, dass es keinen statistisch signifikanten Anstieg von Leukämie-Fällen gab.
+
+==== Weitere Krebserkrankungen
+
+Der Anstieg der Inzidenz zahlreicher anderer Krebsarten in Europa aufgrund Tschernobyl wurde durch verschiedene Studien wissenschaftlich untersucht.
+Die Zunahme von Brustkrebs in Weißrussland wird durch eine Arbeit von Pukkala et al. im International Journal of Cancer vom 27. Februar 2006 belegt.
+In der Ukraine verkürzte sich die Lebenszeit nach einer Diagnose von Magen- und Lungenkrebs deutlich.
+Auch Tumoren im Zentralnervensystem und Hirntumoren bei Kleinkindern in der Ukraine nahmen zu.
+Neben der Chronisch Lymphatischen Leukämie und dem Multiplen Myelom stehen vor allem auch die Lymphdrüsenkrebs-Arten wie das Non-Hodgkin-Lymphom und das Hodgkin-Lymphom im Fokus.
+Die vorliegenden Studien untersuchten zwar nur die aufgetretenen Fälle in den jeweiligen Ländern oder Gebieten.
+Sie geben aber Aufschluss darüber, für welche Krebserkrankungen auch in den anderen betroffenen Ländern ein erhöhtes Risiko besteht.
+
+==== Genetische und teratogene Schäden
+
+Die deutsche Sektion der Internationalen Ärzte für die Verhütung des Atomkrieges (IPPNW) schrieb dazu 2006: "Insgesamt müssen wir mit 18.000 bis 122.000 genetisch geschädigten Menschen in Europa infolge der Tschernobylkatastrophe rechnen." Schon eine Woche nach Tschernobyl wurden bei Deutschen, die aus der Ukraine zurückkehrten, vermehrt Chromosomenschäden festgestellt.
+Von 1985 bis 1994 wurden fünf bis zwölf Wochen alte Föten in Weißrussland auf Fehlbildungen untersucht.
+In diesem Zeitraum gab es eine erhöhte Anzahl an Missbildungen.
+Anfang 1987 wurde eine Häufung der Trisomie 21 bei Babys in Weißrussland festgestellt.
+Teratogene Schäden aufgrund von Tschernobyl wurden in zahlreichen Ländern Europas nachgewiesen.
+In Westdeutschland und der DDR trat zum Beispiel bei Neugeborenen um etwa 10 % häufiger als vor dem Unglück die Lippen-Kiefer-Gaumenspalte auf.
+In der Türkei wurde eine Zunahme der Anenzephalie und der Spina bifida um etwa das dreifache (20 statt 6 von Tausend Neugeborenen) beobachtet und Tschernobyl als Erklärung nahegelegt.
+Beides sind sehr schwerwiegende Fehlbildungen, die in der Embryonalentwicklung entstehen.
+
+Eine Studie von Michail Malko 2014 ergab eine Steigerung des Risikos für angeborene Missbildungen von 0,58 auf 0,70 % im stark kontaminierten Bereich und von 0,58 auf 0,60 % im schwach kontaminierten Bereich um den Reaktor vor und nach dem Unglück.
+In ähnlichen Größenordnungen bewegte sich der Anstieg des Krebsrisiko für alle Krebsformen außer Schilddrüsenkrebs.
+Hier stieg, wie oben beschrieben, das Risiko teilweise um das bis zu hundertfache an.
+Das Risiko einer Leukämie-Erkrankung stieg von 0,0028 % auf 0,0032 % und sank sechs Jahre nach dem Unglück wieder auf 0,0029 %
+
+Eine Studie aus dem American Journal of Obstetrics & Gynecology kam 1992 zu dem Ergebnis, dass es zu keiner nennenswerten Zunahme von Geburtsfehlern nach dem Reaktorunglück kam.
+
+"Das Tschernobyl-Forum sieht nach Auswertung der vorliegenden epidemiologischen Studien weder einen Beweis noch einen Hinweis auf verringerte Fruchtbarkeit bei Männern und Frauen, auf die Zahl der Totgeburten, auf andere negative Geburtsfolgen, auf Komplikationen bei der Geburt und auf die allgemeine Intelligenz und Gesundheit der Kinder, die eine direkte Folge ionisierender Strahlung sein könnten.
+Die gesunkenen Geburtenraten in den kontaminierten Gebieten könnten auf die Ängste der Bevölkerung und auf den Wegzug vieler jüngerer Menschen zurückzuführen sein.
+Ein mäßiger, aber beständiger Anstieg von berichteten angeborenen Fehlbildungen in kontaminierten und nichtkontaminierten Gebieten Weißrusslands scheine auf eine vollständigere Erfassung und nicht auf Strahlung zurückzugehen.
+
+Die Forscher bzw. Herausgeber der einen Position haben wiederholt den Vertretern der anderen Position Voreingenommenheit unterstellt oder deren Befunde wegen unvollständiger Absicherung der Daten und anderer methodischer Mängel zurückgewiesen.
+Auch gibt es widersprüchliche Ergebnisse zum Beispiel aus Beobachtungen in der Tierwelt, wonach die Mutationsrate "in der Nähe von Aufbereitungsanlagen oder unfallfreien AKWs" höher sei.
+Autoren, die ökologische Dosis-Wirkungs-Beziehungen für Totgeburten, Fehlbildungen sowie für das Geschlechtsverhältnis bei der Geburt - unter anderem in unterschiedlich hoch belasteten bayerischen Landkreisen - vermuten, wird entgegengehalten, dass vor dem Hintergrund der vergleichsweise geringen Strahlendosiserhöhungen in Deutschland, die sich innerhalb der Schwankungsbreite der natürlichen Strahlenexposition bewegten, nicht zu verstehen sei, dass solche massiven Effekte nachweisbar sein sollten.
+Diese Skepsis werde unterstützt durch zahlreiche negative epidemiologische Befunde in Deutschland und anderen europäischen Ländern mit zum Teil deutlich höheren Strahlendosen.
+Zudem sind bisher keine biologischen Mechanismen gefunden worden, die einen solchen ursächlichen Zusammenhang in dem beschriebenen Ausmaß plausibel machen könnten.
+
+Gegen negative epidemiologische Befunde wird wiederum vorgebracht, dass die Nichtsignifikanz fälschlich als Nachweis eines nichtvorhandenen Effekts ausgegeben werde.
+Korrekt wäre die in einigen Studien auch so offen formulierte Aussage, dass solche Effekte entweder tatsächlich nicht vorhanden sind oder aufgrund des Studiendesigns nicht nachgewiesen werden konnten.
+Zudem wurde bisher nicht gezeigt, dass es auch in relativ unbelasteten Gebieten stark erhöhte Raten von Totgeburten und Fehlbildungen gab.
+Dies wäre ein Hinweis auf andere Ursachen oder auf einen rein zufälligen Zusammenhang.
+
+Einige Forscher nehmen einen Zuwachs von genetischen Mutationen bei Kindern von vom Unfall betroffenen Eltern an und beobachteten diesen nach der Nuklearkatastrophe von Tschernobyl.
+Es liegen jedoch keine vergleichbaren Nachweise für Erbschäden bei den Kindern von Überlebenden der Atombombenabwürfe von Hiroshima und Nagasaki vor.
+Es mangele, so der Forscher Dillwyn Williams, unter anderem durch die fragmentarisch angelegten Studien bisher an gesicherten Erkenntnissen über die Schäden.
+
+==== Andere (körperliche) Gesundheitsfolgen
+
+In den am stärksten von der Tschernobyl-Katastrophe betroffenen Ländern ist ein erheblicher Anstieg auch bei vielen nichtbösartigen Erkrankungen zu beobachten.
+Die durchschnittliche Lebenserwartung ist deutlich gesunken.
+Beides gilt jedoch auch für die nichtkontaminierten Gebiete.
+Es ist umstritten, wie weit diese Veränderungen auf höhere Strahlenbelastung oder auf andere Faktoren (z. B. Armut, schlechte Ernährung, ungesunde Lebensbedingungen, wirtschaftliche und soziale Verwerfungen nach dem Zusammenbruch der Sowjetunion, psychische Belastungen im Zusammenhang mit der Katastrophe sowie den Evakuierungen und Umsiedlungen, selbstschädigendes Verhalten, bessere Diagnostik und Erfassung von Krankheiten) zurückzuführen ist.
+Die Zuverlässigkeit der Daten und die methodische Qualität vieler Studien sind sehr unterschiedlich.
+
+Bei Erkrankungen der Augenlinsen (z. B. dem Grauen Star) ist ein Zusammenhang mit radioaktiver Belastung wahrscheinlich.
+Schon relativ geringe Dosen in der Größenordnung von 250 mGy scheinen eine Zunahme der Bildung von Grauem Star zu bewirken.
+Einer solchen Dosis waren u. a. viele Aufräumarbeiter in den ersten Tagen nach der Explosion ausgesetzt.
+Auch bei anderen Augenerkrankungen (Akkommodationsstörungen, Makuladystrophien und Gefäßveränderungen) wird ein Zusammenhang mit der Strahlungsaktivität vermutet.
+Hier sind weitere Beobachtungen nötig.
+
+Hohe Strahlungsaktivität kann ein breites Spektrum kardiovaskulärer Komplikationen verursachen.
+Die Auswirkungen chronischer und niedriger Strahlungsbelastung auf das Herz-Kreislauf-System sind weniger klar.
+
+In Russland wurde in einer großen Studie an Notfall-Einsatzkräften von Tschernobyl ein signifikant höheres Risiko für tödliche Herz-Kreislauf-Krankheiten festgestellt.
+Ob dieses höhere Risiko allein auf höhere Strahlendosen oder auf konkurrierende Krankheitsursachen zurückzuführen ist, muss in weiteren Untersuchungen beobachtet werden.
+Es deckt sich aber mit Ergebnissen von Studien, die an Überlebenden von Atombombenangriffen durchgeführt wurden.
+
+In mehreren Studien wurden Beeinträchtigungen des zellulären und humoralen Immunsystems gefunden.
+Die Interpretation dieser Befunde ist jedoch schwierig, weil sie auch andere Ursachen (Stress, chronische Infektionen, Ernährungsmängel, Chemikalien) haben können.
+Die Langzeitfolgen solcher Beeinträchtigungen sind noch unklar.
+
+==== Autoimmunerkrankungen der Schilddrüse
+
+In der Region um Tschernobyl gibt es zudem eine hohe Prävalenz von Autoimmunthyreoiditis, die auf ernährungsbedingten Iodmangel und kurzlebige Iodisotope zurückzuführen ist.
+Bei Kindern, die unmittelbar vor dem Reaktorunglück geboren wurden, ist der Effekt am stärksten.
+Sie zeigen schon früh Antikörper gegen die Schilddrüse, noch bevor diese durch das eigene Immunsystem geschädigt wird.
+Da davon auszugehen ist, dass die Risikogruppe später an einer Autoimmunerkrankung der Schilddrüse erkrankt, sollte neben einer Krebsvorsorge auch auf diese geachtet werden.
+
+==== Psychische Gesundheit und psychosoziale Auswirkungen
+
+Eine erhebliche Belastung für die Gesundheit durch die Katastrophe von Tschernobyl liegt, wie auch der britische Kernphysiker Peter E. Hodgson 1999 herausstellte, in direkt oder indirekt von ihr verursachten mentalen und psychosozialen Folgen.
+Als psychische Folgen des Unglücks werden unter anderem Angst vor möglichen Folgen der Strahlung, das Drängen in eine Opferrolle, die zu einem Gefühl sozialer Ausgrenzung führt, sowie Stress in Zusammenhang mit Evakuierung und Umsiedlung genannt.
+Epidemiologen verweisen darauf, dass die Katastrophe durch die sozialen Auswirkungen dadurch auch Einfluss auf die breite Bevölkerung gehabt hat.
+Angst und Hoffnungslosigkeit können zu Krankheitserscheinungen und zu gesundheitsschädigendem Lebenswandel (Ernährung, Alkohol, Tabak) führen, Faktoren, die die Gesundheitsschäden deutlich erhöhen.
+
+Stress, Depressionen, Furcht und medizinisch nicht erklärte physische Symptome waren zwei- bis viermal höher bei vom Unfall betroffenen Bevölkerungsteilen als bei Kontrollgruppen, wenngleich keine erhöhte Rate von diagnostizierten psychischen Störungen festzustellen war.
+Symptome fanden sich bis elf Jahre nach dem Unfall.
+Die Schwere der Störungen steht in einem signifikanten Zusammenhang mit der individuellen Risikowahrnehmung und der Diagnose eines Gesundheitsproblems infolge des Unfalls.
+Allgemein waren die psychischen Folgen konsistent mit denen der Atombombenabwürfe auf Hiroshima und Nagasaki, dem Reaktorunfall im Kernkraftwerk Three Mile Island oder der Katastrophe von Bhopal.
+Die Weltgesundheitsorganisation sowie israelische und amerikanische Forscher fanden keine Schäden der Hirnentwicklung von Ungeborenen und Kleinkindern durch Strahlenbelastung.
+Ukrainische Berichte, die kognitive Schäden bei Liquidatoren infolge der Strahlenbelastung suggerierten, wurden nicht unabhängig bestätigt.
+Eine Studie fand einen signifikanten Anstieg von Selbstmorden bei Liquidatoren, was für eine bedeutende emotionale Belastung spricht.
+Wissenschaftler empfehlen angesichts der Persistenz der psychischen Folgen in der Bevölkerung Aufklärungsprogramme und psychosoziale Interventionen.
+
+=== Wirtschaft
+
+Die Katastrophe von Tschernobyl verursacht immense Kosten und schadet der Wirtschaft in der Region.
+Wegen des ökonomischen Umbruchs aufgrund des Zusammenbruchs der UdSSR sind die wirtschaftlichen Auswirkungen des Unglücks aber nicht genau zu beziffern.
+In einem Brief vom 6. Juli 1990 an den Generalsekretär der Vereinten Nationen Javier Perez de Cuellar schätzte das sowjetische Finanzministerium die direkten wirtschaftlichen Verluste und die Ausgaben infolge der Katastrophe für den Zeitraum von 1986 bis 1989 auf etwa 9,2 Milliarden Rubel.
+Das entsprach etwa 12,6 Milliarden US-Dollar.
+In der Ukraine entfallen 20 Jahre nach dem Unfall jährlich 5 bis 7 % des Staatsbudgets darauf.
+1991 waren es noch 22,3 %, die bis 2002 auf 6,1 % sanken.
+
+Besonders betroffene Zweige der lokalen Wirtschaft sind Land- und Forstwirtschaft.
+So können aufgrund der Strahlenbelastung knapp 800.000 Hektar Land und 700.000 Hektar Wald nicht mehr wirtschaftlich genutzt werden.
+Die Landwirtschaft der Region leidet aber auch unter dem "Stigma Tschernobyl", das zu sehr geringer Nachfrage nach Produkten aus der Region führt.
+Aufgrund dieser Tatsache werden kaum private Investitionen im Agrarbereich der Region getätigt.
+
+=== Personelle Besonderheiten
+
+Umstritten ist auch, welchen Anteil die Fehlentscheidungen des Kraftwerkpersonals am Zustandekommen des Unglücks hatten.
+Dass Betriebsvorschriften verletzt wurden, ist eine Tatsache.
+In welchem Umfang sie dem Personal bekannt waren, ist fraglich.
+Unerfahrenheit und unzureichende Kenntnisse, insbesondere in Zusammenhang mit der Leistungsanhebung des (mit Xenon vergifteten) Reaktors, werden angeführt.
+Da beim Versuch ein neuartiger Spannungsregler getestet werden sollte, bildeten Elektrotechniker einen Großteil des anwesenden Personals.
+Auch war zum Zeitpunkt des Versuchs ein anderes Schichtpersonal als ursprünglich geplant anwesend.
+
+Kraftwerksdirektor Wiktor Brjuchanow und fünf leitende Mitarbeiter wurden 1987 zu langjährigen Gefängnisstrafen verurteilt.
+Der Ingenieur Nikolai Antonowitsch Dolleschal, der als Leiter des nach ihm benannten Forschungs- und Konstruktionsinstituts für Energotechnik (NIKITE) als hauptverantwortlich für die Entwicklung des Reaktortyps RBMK galt, war bereits 87 Jahre alt und ging erst nach der Reaktorkatastrophe in den Ruhestand.
+Der Zusammenhang zwischen diesem Schritt und dem Super-GAU von Tschernobyl wurde jedoch niemals offiziell bestätigt.
+
+== Reaktionen in anderen europäischen Ländern
+
+=== Bundesrepublik Deutschland
+
+==== Politische Diskussion zur Kernenergie
+
+In Süddeutschland beherrschten monatelang Diskussionen über das Ausmaß der radioaktiven Belastung von Lebensmitteln und anderer möglicher Kontaminationen sowie der adäquate Umgang damit die Öffentlichkeit.
+Dabei wurde die gesellschaftliche Auseinandersetzung zum einen von Sachdiskussionen geprägt, zum anderen rückte verstärkt die grundsätzliche Einstellung zur Kernenergie in den Fokus der Diskussion, zumal zeitgleich die Kontroverse um die Wiederaufarbeitungsanlage Wackersdorf geführt wurde.
+Es wurden Empfehlungen zum Unterpflügen von Feldfrüchten oder zum Sperren von Kinderspielplätzen gegeben, wobei es aus heutiger Sicht strittig ist, inwieweit diese angemessen und notwendig waren.
+
+In der Folge des Reaktorunglücks bröckelte der ohnehin schon durch die Anti-Atomkraft-Bewegung in Frage gestellte Konsens über die Verwendung der Atomenergie.
+Große Teile der Bevölkerung waren nun für einen Ausstieg aus der Atomenergie.
+In der Politik wurde diese Forderung nun auch von der SPD übernommen, u. a. durch Erhard Eppler und den SPD-Kanzlerkandidaten Johannes Rau, der einen schrittweisen Ausstieg befürwortete.
+Bundeskanzler Helmut Kohl (CDU) sprach sich auch im Namen seiner Fraktion im Bundestag in der Zukunft für eine Senkung des Anteils der Kernenergie an der Energieversorgung (1985: rund 31 %) aus, für einen baldigen Ausstieg komme dies aber nicht in Frage, da dieser weder notwendig noch machbar sei.
+Ministerpräsident Lothar Späth (CDU) nannte die Kernenergie eine Übergangsenergie, und nach Tschernobyl gelte es konsequent über eine Energiepolitik nachzudenken, die langfristig der Kernenergie nicht bedürfe.
+Die FDP bezeichnete die Kernenergie auf ihrem Bundesparteitag 1986 in Hannover ebenfalls als eine Übergangsenergie, auf deren Verzicht als Bestandteil der Energieversorgung hingearbeitet werden müsse.
+
+Nach Tschernobyl fühlten sich 58 Prozent der westdeutschen Bevölkerung persönlich stark bedroht.
+Unter dem Eindruck des Unfalls verdoppelte sich der Anteil der vehementen Kernkraftgegner in Deutschland von 13 auf 27 Prozent.
+Ereignisse, wie dass es nur neun Tage nach Tschernobyl im THTR Hamm-Uentrop zu einem meldepflichtigen Störfall mit Radioaktivitätsaustritt kam, der von Betreiber-Seite zunächst geleugnet, später aber eingestanden wurde, trugen zu diesem Ansehensverlust der Kernkraft mit bei.
+
+Wenige Wochen nach dem Unglück wurde in der Bundesrepublik Deutschland das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gegründet.
+Die Gründung dieses Ministeriums war vor allem eine Reaktion auf den als unzureichend koordiniert empfundenen Umgang der Politik mit der Katastrophe von Tschernobyl und ihren Folgen.
+Am 11. Dezember 1986 verabschiedete der Deutsche Bundestag das Strahlenschutzvorsorgegesetz (StrVG), zum Schutz der Bevölkerung, die Radioaktivität in der Umwelt zu überwachen und die Strahlenexposition der Menschen und die radioaktive Kontamination der Umwelt im Falle radioaktiver Unfälle oder Zwischenfälle so gering wie möglich zu halten.
+
+Zu einem grundlegenden Wandel in der Atompolitik führte die Katastrophe von Tschernobyl jedoch nicht.
+Man führte den Ausbau der Kernenergie gegen alle Widerstände fort und ließ bis 1989 noch sechs bereits im Bau befindliche bzw. weitgehend fertiggestellte Kernkraftwerke in Betrieb nehmen: Brokdorf, Hamm-Uentrop, Mülheim-Kärlich, Isar 2, Emsland, Neckarwestheim.
+Nur der Schnelle Brüter von Kalkar und die Wiederaufarbeitungsanlage Wackersdorf ließen sich aufgrund massiver Proteste nicht mehr durchsetzen.
+
+==== Sicherheitsüberprüfungen an deutschen Kernkraftwerken
+
+Die deutschen Kernkraftwerke wurden vor dem Tschernobyl-Hintergrund einer Sicherheitsüberprüfung unterzogen.
+1987 fiel kurz nach Vorliegen von ersten Untersuchungsergebnissen die Entscheidung, den graphitmoderierten Kugelhaufenreaktor AVR (Jülich) 1988 endgültig stillzulegen, was (obwohl es offiziell nie bestätigt wurde) als Konsequenz aus einem nicht hinreichenden Schutz dieses Reaktors gegen Graphitbrände wie in Tschernobyl angesehen werden kann.
+
+==== Bodenbelastungen und Auswirkungen bei Frischmilch und Gemüse
+
+In der Bundesrepublik Deutschland wurden nach Bekanntwerden des Reaktorunglücks die Landwirte durch die Strahlenschutzkommission des Bundes aufgefordert, den eigentlich für Anfang Mai 1986 anstehenden Umstieg von der Winterfütterung der Milchkühe auf Sommerfütterung (und Weide) noch bis nach den ersten Regenfällen hinauszuzögern.
+Die Katastrophe fiel mit einer mehrwöchigen Schönwetterperiode zusammen, die einerseits das Wachstum der Wiesen sehr anregte, auf der anderen Seite aber auch mit einem stetig blasenden Ostwind die Verbreitung des radioaktiven Staubs nach Westen bewirkte.
+Später gab es dann eine Ausgleichszahlung für die landwirtschaftlichen Betriebe für die entstandenen Mehrkosten bei der Fütterung.
+
+Die Strahlenschutzkommission gab zudem Grenzwerte für Frischmilch und Blattgemüse aus, bei deren Überschreitung die Produkte nicht verkauft werden durften.
+Der Umsatz auch von freigegebenen Milchprodukten, sowie von Obst und Gemüse ging drastisch zurück.
+Die Lebensmittelgruppe Rewe vernichtete allein im Mai 1986 unverkäufliche Milchprodukte und Frischgemüse im Wert von rund 3 Millionen DM.
+
+Am 15. September 1986 teilte die Strahlenschutzkommission in Bonn mit, die Kontamination der Lebensmittel in der Bundesrepublik durch Radioaktivität sei bis auf wenige Ausnahmen stark zurückgegangen.
+
+==== Kontaminierte Molke und Entsorgungsprobleme
+
+Einige Molkereien in besonders betroffenen Gebieten in Süddeutschland waren angewiesen worden, die Molke von der Milch abzutrennen und nicht zu verkaufen, sondern einzulagern, da in der Milch der Kühe 134Cs und 137Cs mit Halbwertszeiten von zwei bzw. dreißig Jahren festgestellt wurden.
+Der Vorschlag, diese Molke als Dünger auf Felder aufzubringen, hatte keinerlei Chancen auf Umsetzung.
+Das bayerische Landwirtschaftsministerium riet den Molkereien, sich von Milch und Joghurt vorübergehend auf die Produktion von Käse umzustellen - das strahlende Radionuklid wird mit der Molke ausgeschieden, dem Käswasser, das aus der geronnenen Milch abläuft.
+Aus der Molke wurden bei der Meggle AG in Wasserburg am Inn insgesamt 5046 Tonnen Molkepulver gewonnen.
+Dadurch konzentrierte sich die Radioaktivität und ergaben bei Messungen Werte bis zu 8000 Becquerel je Kilogramm Molkepulver.
+Für die freie Verkehrsfähigkeit von kontaminiertem Molkepulver lag der Grenzwert bei 1850 Becquerel.
+Das kontaminierte Molkepulver wurde ab Mai 1986 in Waggons der Bundesbahn auf Abstellgleisen bei Rosenheim gelagert.
+Für die nicht mehr verkehrsfähige Ware wurde die Meggle AG vom Bundesverwaltungsamt mit 3,8 Millionen DM entschädigt.
+
+Das bayerische Umwelt- und Ernährungsministerium verkaufte am 23. Januar 1987 rund 3000 Tonnen des kontaminierten Molkepulvers für 150.000 DM an das Unternehmen LOPEX mit Sitz in Linden.
+LOPEX wollte die Waggons nach Köln und Bremen transportieren, was die Medien mit großem Interesse verfolgten.
+Die zuständigen Behörden in den Bundesländern verlangten daraufhin einen Rücktransport nach Bayern.
+Rund 2000 Tonnen des kontaminierten Molkepulvers lagerten zudem noch in einem Lagerhaus im bayerischen Forsting bei Pfaffing.
+Ab Februar 1987 schaltete sich Bundesumweltminister Walter Wallmann ein und ließ das kontaminierte Molkepulver, das als Abfall deklariert ist, ohne entsprechende Rechtsgrundlage in den Besitz des Bundes übergehen.
+Ab Februar 1987 wurden insgesamt 242 Bundesbahnwaggons mit dem radioaktiven Abfall (Molkepulver) dem Schutz der Bundeswehr anvertraut und auf den Standorten Feldkirchen (Niederbayern) und auf dem Gelände der Wehrtechnischen Dienststelle 91 in Meppen zwischengelagert.
+
+Am 22. Juli 1987 teilte der deutsche Bundesumweltminister Klaus Töpfer mit, dass das auf den Bundeswehrstandorten gelagerte kontaminierte Molkepulver im hessischen Hungen entsorgt und zu Viehfutter verarbeitet werden soll.
+Die Kosten in Höhe von 13 Millionen DM werden dabei vom Bund übernommen.
+Daraufhin kam es ab 1. August zu heftigen Protesten der Bürger in Hungen.
+Das radioaktiv belastete Molkepulver wurde nunmehr auf dem Gelände des stillgelegten Kernkraftwerks Lingen zwischengelagert.
+Mit einem von der Tierärztlichen Hochschule Hannover entwickelten Ionenaustauschverfahren wurde in eigens errichteten Spezialanlagen der Noell GmbH (Tochter der Preussag AG) ab Februar 1989 das Molkepulver in Lingen behandelt.
+Danach betrug die Kontamination noch 100 Becquerel pro Kilogramm.
+Ab März 1990 fuhren insgesamt 242 Waggons der Bundesbahn (150 aus Meppen und 92 aus Straubing) in Lingen ein.
+Bis Ende 1990 wurde die Dekontamination abgeschlossen.
+Die flüssige Molke wurde später als Dünger auf Äcker verstreut und konzentriertes Cäsium in rund 180 Fässern gesammelt.
+Diese Fässer mit radioaktivem Müll wurden in das Endlager für radioaktive Abfälle Morsleben (ERAM) eingelagert.
+Die Anlage selbst wurde demontiert und größtenteils verschrottet.
+Die Kosten für das Aufbereiten bzw. Entsorgen der Molke und ihrer Rückstände betrugen nach Angaben der Bundesregierung aus dem Jahr 2016 insgesamt 34 Millionen Euro.
+
+==== Pilze und Wildfleisch
+
+In einigen Waldgebieten in Süddeutschland (z. B. Alpen und Voralpenland, Münchener Umland, Bayerischer Wald, Oberpfälzer Wald) regnete es kurz nach der Katastrophe; durch radioaktiven Regen gelangten viel strahlende Stoffe in den Boden.
+Radioaktives Cäsium-137 (Cs-137) hat eine Halbwertszeit von 30,17 Jahren.
+
+Röhrenpilze (zum Beispiel Maronen oder Birkenröhrlinge) akkumulieren Cäsium stärker als andere Pilzarten.
+Am wenigsten belastet sind Sorten, die auf Holz wachsen, z. B. die Krause Glucke.
+Das Bayerische Landesamt für Umwelt bietet auf seiner Homepage aktuelle Informationen.
+
+1997 entdeckte das Umweltinstitut München Proben von Pfifferlingen (österr. Eierschwammerl) mit überhöhten Werten an Radioaktivität durch Cäsium, die nicht in den Handel hätte gebracht werden dürfen.
+Die Ware war mit Herkunft "Ungarn" und "Makedonien" deklariert, Recherchen ergaben jedoch, dass sie umdeklariert worden war und vermutlich aus der Ukraine stammte.
+Noch 2009 wurde bei einer Probe von Pfifferlingen mit der Herkunftsangabe "Karpaten" der Richtwert überschritten.
+Gemäß der Stellungnahme des Umweltinstituts sei es Praxis, dass Pfifferlinge aus Weißrussland im gering belasteten Litauen abgepackt werden und diese Ware dann als Pfifferlinge aus Litauen auf den Markt käme und zur sicheren Unterschreitung des Höchstwertes hoch und gering belastete Pilze vermischt würden.
+Diese Praktiken werden als Ursache dafür angesehen, dass die radioaktive Belastung osteuropäischer Pfifferlinge unerwartet tendenziell weiter zunehme und die Belastung von Pilzen aus Weißrussland abnehme.
+Maronen-Röhrling und Semmel-Stoppelpilz gälten als "Cäsiumsammler", andere Arten wie die Schirmlinge nähmen nur geringe Mengen auf, Pfifferling und Steinpilz nähmen eine mittlere Position ein.
+Bayerische Maronenröhrlinge und eine Probe aus Österreich wiesen 2012 Höchstwerte von über 1000 Bq/kg auf und lägen damit deutlich über dem Grenzwert.
+
+Die Höhe der Cs-137-Kontamination schwankt je nach Pilzart und von Standort zu Standort erheblich.
+Aktivitäten von mehr als 1 000 Bq/kg Cs-137 wurden in den Jahren 2014 bis 2016 in Orangefalben (Hygrophorus unicolor) und Braunscheibigen Schnecklingen (Hygrophorus discoideus), Gemeinen Erdritterlingen (Tricholoma terreum), Rotbraunen Semmelstoppelpilzen (Hydnum rufescens), Semmelstoppelpilzen (Hydnum repandum), Maronenröhrlingen (Xerocomus badius) und Braunen Scheidenstreiflingen (Amanita umbrinolutea) gemessen.
+
+Da Wildschweine insbesondere bestimmte Trüffelarten suchen, die Cäsium anreichern können, ist Wildschweinfleisch nach wie vor teilweise hochbelastet.
+
+=== Deutsche Demokratische Republik
+
+Im Gegensatz zur Informationspolitik in der Bundesrepublik wurde in der DDR durch die SED-Führung versucht, aus Rücksicht auf den sowjetischen Bruderstaat die Bevölkerung durch unterbliebene und falsche Meldungen zu beruhigen.
+Erst am vierten Tag nach dem Unfall wurde eine kurze Pressemitteilung der sowjetischen Nachrichtenagentur TASS veröffentlicht, in der über eine Havarie berichtet wurde, bei der in Tschernobyl ein Kernreaktor beschädigt wurde.
+Danach sei den "Betroffenen (...) Hilfe erwiesen" worden und es wurden Maßnahmen zur Beseitigung der Schäden ergriffen.
+Über die freigesetzte Radioaktivität wurde nicht berichtet und entsprechende Messwerte wurden erst veröffentlicht, als diese nach mehreren Tagen nicht mehr die anfänglich bedrohliche Höhe erreichten.
+Als einige Tage nach dem Unglück in westlichen Medien fälschlicherweise von tausenden Toten berichtet wurde (laut WHO und IAEA (2008) starben an den Folgen akuter Strahlenkrankheit knapp 50 Menschen), kam es zu Dementis durch die DDR-Führung, die diese Nachrichten als "plumpe antisowjetische Hetze" bezeichnete.
+
+In den Wochen nach dem Unglück gab es in der DDR plötzlich ein reichhaltiges Angebot an Gemüse; es war jenes, das den Ostblocklieferanten vom Westen nicht abgekauft wurde.
+Da viele Bürger aufgrund der über westliche Radio- und Fernsehprogramme empfangenen Warnungen diese Angebote nicht einkauften, wurde dieses Obst kostenlos in Kindergärten und Schulen verteilt.
+Erich Honecker wurde zitiert, dass er Müttern empfahl, frischen Salat vor dem Essen zu waschen.
+Die interne Warnung durch das Amt für Atomsicherheit, dass durch frisches Futter die Milch kontaminiert würde und somit eine Futterumstellung ratsam sei, wurde nicht veröffentlicht, da es an konserviertem Futter aus dem Vorjahr fehlte.
+Insbesondere im Gebiet von Sachsen-Anhalt lag aufgrund von Regenfällen die Radioaktivität in der so erzeugten Milch 700 % über dem Grenzwert für Säuglingsmilch, worüber die Bevölkerung nicht informiert wurde.
+Der Leiter des Amts kommentierte das Unglück mit den Worten: "Jeder Schuster kloppt sich mal auf den Daumen."
+
+Gleichzeitig war in den wenigen Berichten von einer Stabilisierung der Radioaktivität auf niedrigem Niveau in den Zeitungen zu lesen, ohne über das Niveau vor der Katastrophe zu schreiben.
+Das damalige Mitglied des Politbüros Günter Schabowski informierte sich zwar auch in den West-Medien und machte sich Gedanken; im Katastrophenfall habe aber ein eisernes Gesetz gegolten: "Auf jeden eigenen Kommentar verzichten.
+Da wird nur erzählt, was die in Moskau fabrizieren." So behaupteten dann "führende Experten" in der DDR, dass durch die Havarie keine Gefahr bestünde.
+Die Berichte im Westen seien eine gezielte Kampagne, um von der dortigen Aufrüstung und der Gefahr durch Kernwaffen abzulenken.
+Gegenüber Oskar Lafontaine und Johannes Rau äußerte sich Erich Honecker am 6. Mai 1986 mit den Worten:
+
+In Wirklichkeit wurden Honecker und das SED-Politbüro frühzeitig informiert, ohne darauf zu reagieren oder auch nur weitere Einschätzungen anzufordern.
+So wurde dann auch erst am 20. Mai 1986, vier Wochen nach dem Unglück, die Bevölkerung umfassender durch einen Bericht des Amtes für Strahlenschutz eher beruhigt als informiert.
+In diesem hieß es, dass die "durchgeführten dichten Kontrollen belegen", dass für Bewohner der DDR "keinerlei gesundheitliche Gefährdungen... bestanden haben oder bestehen".
+
+Zur Beruhigung der Bevölkerung mussten DDR-Spitzensportler an der Internationalen Friedensfahrt 1986 teilnehmen, deren Startort das nur 100 km vom Unglücksreaktor entfernte Kiew war.
+Der Gesamtsieger des Rennens Olaf Ludwig sagte dazu später, dass er sich dem Start hätte verweigern können, was aber zum unweigerlichen Ende seiner sportlichen Karriere geführt hätte.
+Journalisten waren angewiesen, nicht vom "strahlenden Sieger" zu schreiben und den Startverzicht von fast der Hälfte der gemeldeten Mannschaften zu relativieren.
+
+Für Umweltschutzgruppen in der DDR war das Ereignis ein Aufbruchsignal.
+Erstmals begann eine Debatte um die friedliche Nutzung der Kernenergie.
+In Eingaben an die Volkskammer und den Ministerrat forderten DDR-Bürger erstmals den Ausstieg aus der Kernenergie (in der DDR waren die Kernkraftwerke Rheinsberg sowie Greifswald in Betrieb, dessen Reaktor 5 wurde am 24. November 1989 abgeschaltet, die Reaktoren 1 bis 4 im Februar 1990).
+
+=== Österreich
+
+==== Radioaktive Umweltkontamination
+
+Das österreichische Bundesgebiet zählt zu den am stärksten betroffenen Gebieten Westeuropas:
+Von den insgesamt 70 PBq freigesetzten Radiocäsiums wurden 1,6 PBq, also 2 %, in Österreich deponiert, die durchschnittliche Belastung 137Cs aus den Tschernobyl-Ereignis lag 1986 bei 19,1 kBq/m^2, wobei besonders das Salzkammergut und Nachbargebiete, die Welser Heide und die Hohen Tauern betroffen waren, sowie die Niederen Tauern und die Koralpregion/ Südostkärnten (mit Durchschnittskontamination > 100 kBq/m^2), auf die Bevölkerung bezogen der Linzer Zentralraum und die Stadt Salzburg mit > 11 (kBq/m^2)/(EW/km^2), und Wien, Graz, Klagenfurt, Villach und Innsbruck  10.
+
+==== Damalige Maßnahmen
+
+Als Maßnahmen wurden primär Kontrollen im Nahrungsmittelbereich gesetzt, um die Ingestion gering zu halten: Verkaufsverbot für Grüngemüse und von Schaf- und Ziegenmilch, der Grünfutterfütterung bei Milchkühen, des Genusses von Zisternenwasser, und langfristiger etwa Importverbote für Nahrungsmittel aus hochbelasteten Agrarproduktionsländern, Verbot des Wildabschusses, Fütterungspläne in der heimischen Landwirtschaft (Ersatzfüttermittel, Verdünnung mit unkontaminiertem Futter, Endmast mit niedrig kontaminiertem Futter, Futterzusatzstoffe zu Verminderung der Cäsium-Resorption) oder Grenzwerte für die Klärschlammausbringung.
+
+In späteren Studien hat sich gezeigt, dass diese in der Öffentlichkeit nur wenig beachteten Maßnahmen auf Produktions- und Handelsseite mehr Schutzwirkung gebracht haben als etwa Empfehlungen zu direkten Verhaltensänderungen.
+
+==== Langfristige Auswirkungen
+
+Die Strahlenbelastung ist innerhalb von 20 Jahren von anfangs etwa 0,7-0,4 mSv Erstjahresdosis auf 0,003 mSv pro Einwohner (2001) gesunken und liegt in den 2010er Jahren unter 1  der Gesamtstrahlenbelastung (ca. 4,3 mSv/a).
+Insgesamt dürften in Österreich lebende Personen bis 2006 einer zusätzlichen Effektivdosis von durchschnittlich 0,6 mSv durch den Reaktorunfall ausgesetzt gewesen sein, das ist nur 15 der üblichen Einjahres-Belastung aus natürlichen Quellen (natürliches Radon, kosmische Strahlung u. ä., ca. 3 mSv/a).
+
+Bis dato, 30 Jahre nach Tschernobyl im April 2016, ist die Kontaminierung von Wild noch so hoch, dass erlegte Tiere verpflichtend auf deren Strahlenbelastung zu überprüfen sind, bevor sie in den Nahrungskreislauf kommen dürfen.
+Wenn die zulässigen Werte überschritten sind, ist die Jagdbeute der professionellen Tierkörperverwertung zuzuführen.
+Das Sammeln von Pilzen ist in manchen Landstrichen weiterhin ohne genauere Kenntnis der örtlichen Belastung als kritisch einzustufen.
+
+==== Politische Auswirkungen
+
+Die deutlichsten Folgen des Tschernobyl-Ereignisses in Österreich sind politischer Natur:
+
+Bereits einige Jahre vor dem Tschernobyl-Unfall war Ende der 1970er Jahre das Kernkraftwerk im niederösterreichischen Zwentendorf an der Donau fast fertiggestellt.
+Nach Einbringen der schon angelieferten Brennstäbe sollte es 1978/79 in den Probebetrieb gehen.
+Die österreichische Anti-Atomkraft-Bewegung war jedoch zwischenzeitlich so erstarkt, dass es im November 1978 zur "Volksabstimmung Zwentendorf" kam - gegen den erklärten Willen von Bundeskanzler Bruno Kreisky, dessen politisch unbedingtes Ziel es war, dass Zwentendorf auf jeden Fall in Betrieb geht.
+Abgestimmt wurde über die Frage: "Soll der Gesetzesbeschluss des Nationalrates vom 7. Juli 1978 über die friedliche Nutzung der Kernenergie in Österreich (Inbetriebnahme des Kernkraftwerkes Zwentendorf) Gesetzeskraft erlangen?"
+
+Mit der äußerst knappen Abstimmungsmehrheit von 50,5 % wurde das Inkrafttreten des Bundesgesetz zur friedlichen Nutzung der Kernenergie in Österreich (Inbetriebnahme des Kernkraftwerks Zwentendorf) abgelehnt und indirekt die Inbetriebnahme verhindert.
+
+Im Dezember 1978 wurde das Bundesgesetz über das Verbot der Nutzung der Kernspaltung für die Energieversorgung in Österreich, das sogenannte Atomsperrgesetz, verabschiedet.
+Das fertige Kraftwerk wurde folgend zur Investitionsruine und in den Jahren danach zum Ersatzteillager für Reaktoren gleichen Typs, sowie zum vielfältig genutzten Schulungszentrum für Mitarbeiter von Kernkraftwerken.
+
+In den 2010er Jahren erfuhr das Kraftwerk eine weitere Umnutzung: "Zwentendorf", das österreichische Synonym für "Anti-Atomkraft", wurde von der Nachfolgeeigentümerin, der niederösterreichischen Energiegesellschaft EVN, zu einem Standort zur Erzeugung für erneuerbare Energien umgewidmet.
+
+Vor und nach "Zwentendorf" liegen zwei andere richtungsweisende Ereignisse der österreichischen Geschichte:
+Der Bau des Kraftwerks Kaprun in den Wiederaufbaujahren - als wirtschaftliche "Erfolgsgeschichte" - und die Besetzung der Hainburger Au 1984 - als Wendepunkt des Demokratieverständnisses - im energiepolitischen Sektor.
+Selbst bei den großen Energieversorgern wird deswegen seit den 1980er Jahren ein Kurs Richtung erneuerbarer Energien verfolgt, der auch den natürlichen Ressourcen Österreichs entgegenkommt.
+
+"Tschernobyl" hat 1986 die österreichische Anti-Atom-Politik sogar noch verfestigt, sie war seither sowohl gesellschaftlich, wie auch parteipolitisch einhelliger Konsens und wurde nie mehr in Frage gestellt.
+Gesamtösterreichisch gab es danach keinen bedeutenden innenpolitischen Konflikt mehr um Energiefragen.
+Der EU-Beitritt Österreichs am 1. Januar 1995 hat daran ebenfalls nichts verändert.
+
+In der Folge des Tschernobyl-Unfalls kam es in den Jahren danach von österreichischer Seite zu einigen Initiativen gegen ausländische Kernkraftanlagen:
+
+Im Juli 1997 wurde im Nationalrat einstimmig ein Initiativantrag verabschiedet.
+Mit diesem "Atomfrei-Paket", das mehrere Maßnahmen für die Umsetzung einer anti-nuklearen Politik umfasste.
+Zwischen der Regierung einerseits und den Umweltorganisationen Greenpeace, Global 2000 und der Anti Atom International (AAI) auf der anderen Seite wurden Teile des Pakets in einem Abkommen festgehalten.
+Ende November 1997 kam es zum Volksbegehren "Atomfreies Österreich".
+
+Unter der österreichischen EU-Präsidentschaft (2. Halbjahr 1998) und im Hinblick auf die sich anbahnende EU-Osterweiterung 2004 verabschiedete die Bundesregierung unter Bundeskanzler Viktor Klima in ihrer 103. Ministerratssitzung am 6. Juli 1999 einen Aktionsplan.
+Dieser wurde einstimmig am 13. Juli 1999 als Entschließung des Nationalrates betreffend die "Umsetzung des Aktionsplans für die weitere österreichische Anti-Atom-Politik im europäischen Zusammenhang" angenommen.
+Mit selbem Tag wurde ebenfalls einstimmig das Bundesverfassungsgesetz für ein atomfreies Österreich beschlossen, worin die bisherigen Bestimmungen des Atomsperrgesetzes von 1978 in den Verfassungsrang erhoben wurden.
+Es trat mit der Verkündung am 13. August 1999 in Kraft.
+
+Im Juni 2003 wurde ein von der FPÖ initiiertes und relativ erfolglos gebliebenes Volksbegehren "Atomfreies Europa" abgehalten.
+Als bislang letzter Markstein nach dem Tschernobyl-Unfall verabschiedete der Nationalrat am 8. Juli 2010 eine "Entschließung betreffend Fortsetzung der österreichischen Anti-Atom-Politik und der Bemühungen um eine Reform des EURATOM-Vertrages".
+
+=== Polen
+
+Die sowjetische Führung war darauf bedacht, nur so wenige Personen und Institutionen über die Nuklearkatastrophe zu informieren, wie unbedingt notwendig.
+Aus diesem Grund wurden in den ersten Tagen auch keine Informationen über die Explosion in Tschernobyl an die Bruderstaaten in Mitteleuropa weitergegeben, obwohl das betroffene Kernkraftwerk beispielsweise nur 418 km von der polnischen Grenze entfernt steht.
+
+Der Wind hatte das radioaktive Material zunächst nach Skandinavien transportiert, nach zwei Tagen jedoch zurück nach Mitteleuropa.
+Am 28. April bemerkte eine Strahlenmessstation in Mikolajki im Nordosten von Polen gegen 5:33 Uhr als erste einen rapiden Anstieg der Radionuklide in der Luft.
+Der gemessene Wert war eine halbe Million Mal höher als üblich.
+Gegen 9:00 Uhr informierte man die zentrale Strahlenschutzbehörde in Warschau, das Centralne Laboratorium Ochrony Radiologicznej (kurz CLOR).
+Das CLOR löste unverzüglich einen internen Alarm aus, weil es von der Detonation einer Kernwaffe ausging.
+Im Laufe des Tages erkannte man allerdings, dass die Strahlung aus einem Reaktor stammen musste.
+Anfragen an die sowjetischen Behörden hierzu blieben jedoch unbeantwortet.
+Erst um 18:00 Uhr erfuhr das CLOR über die BBC von den Ereignissen in Tschernobyl.
+
+In der Nacht auf den 29. April legte das CLOR der polnischen Regierung nahe, entsprechende Schutzmaßnahmen zu ergreifen und unverzüglich Tabletten mit stabilem Iod an die Bevölkerung zu verteilen.
+Gegen 11:00 Uhr entschied die Führungsspitze der PVAP, in den elf Woiwodschaften nahe der Grenze zur Sowjetunion Iod an die Bevölkerung auszugeben.
+Mangels entsprechender Tabletten wurde eine flüssige Iod-Kaliumiodid-Lösung verabreicht.
+Innerhalb eines Tages gelang es, fast 19 Millionen Polen mit Iod zu versorgen.
+Darüber hinaus wurden landwirtschaftliche Betriebe angewiesen, ihr Vieh von den Weiden zu nehmen.
+Ferner wurde in einigen Regionen empfohlen, vorübergehend keine frische Milch, Obst, Gemüse oder Pilze zu konsumieren.
+Erst am 30. April 1986 informierte die polnische Presse landesweit über "den Austritt einer radioaktiven Substanz in einem Kernkraftwerk in der Sowjetunion".
+Aufgrund der anstehenden Erster-Mai-Feierlichkeiten verzichtete die PVAP jedoch auf weitere Maßnahmen.
+
+Die gesamtpolnische Bevölkerung erfuhr erst im Zuge des politischen Systemwechsels 1989 vom Ausmaß der Katastrophe.
+In der Folge kam es landesweit zu Demonstrationen gegen das an der polnischen Ostseeküste seit 1982 in der Bauphase befindliche Kernkraftwerk arnowiec.
+Die massiven Proteste gegen die Anlage führten zuerst zu umfangreichen Untersuchungen und schließlich zum Stopp des Baus.
+1990 wurde das Kernkraftwerk unter dem ersten demokratisch gewählten Ministerpräsidenten Tadeusz Mazowiecki aufgegeben.
+
+=== Frankreich
+
+Im Mai 1986 gab das französische Institut für Strahlenschutz SCPRI an, 137Cs-Belastungen zwischen 25 Bq/m^2 in der Bretagne und 500 Bq/m^2 im Elsass gemessen zu haben; 2006 nannte das Nachfolgeinstitut IRSN Werte zwischen 10.000 und 20.000 Bq/m^2 vom Elsass bis Korsika.
+137Cs war ein Hauptbestandteil des radioaktiven Niederschlags.
+Angeblich ist nicht mehr nachzuvollziehen, wie die Werte von 1986 zustande kamen.
+Der damalige Umweltminister Carignon kritisierte 20 Jahre später die Fehler von damals.
+
+Am 1. und 2. Mai 1986 berichteten Le Figaro und France-Soir, dass Frankreich von der radioaktiven Wolke betroffen war.
+Erste Tests von Wasser- und Milchproben, deren Ergebnisse teilweise am 6. Mai veröffentlicht wurden, lieferten laut SCPRI zu geringe Belastungen, um eine Gesundheitsgefahr darzustellen, weswegen für Frankreich keine Schutzmaßnahmen empfohlen wurden.
+Da jedoch andere Länder Schutzmaßnahmen angeordnet hatten, wurde in der Presse schnell der Vorwurf der Passivität laut.
+2001 und 2002 legten mehr als 500 kranke Menschen Beschwerde gegen das damalige Verhalten der Regierung ein.
+Wenngleich Schilddrüsenkrebserkrankungen zunahmen, seien sie laut französischen Nuklearexperten nicht auf den Unfall zurückzuführen.
+Der ehemalige Arzt und Mitarbeiter des Commissariat a l'energie atomique et aux energies alternatives Bernard Lerouge warf den Medien vor, sich auf die pessimistischen Schätzungen der Anti-Atomkraftbewegung konzentriert zu haben.
+TV-Dokumentationen warf er Verzerrungen und Manipulation der öffentlichen Meinung vor, da die Meinungen der Wissenschaftsgemeinde ignoriert worden seien.
+
+=== Weitere Länder
+
+In Schweden ergaben Umfragen im September 1986, dass die Einstellungen gegenüber der Kernenergie im Durchschnitt negativer wurden.
+Viele Interviewte zählten die Risiken der Kernenergie zu den bedrohlichsten aller Risiken.
+Spätere Umfragen ergaben, dass die Einstellung in der schwedischen Bevölkerung relativ schnell wieder auf das tendenziell befürwortende Niveau vor dem Unfall zurückkehrte.
+
+Eine 1988 veröffentlichte Analyse zur Berichterstattung über das Ereignis und seine Folgen in sieben europäischen Ländern kam zu dem Schluss, dass die Medien einigermaßen gut die Informationen aus offiziellen Quellen wiedergaben, wenngleich einige Mängel im Bezug auf Themen wie Strahlenbelastung und ihre Risiken festgestellt wurden.
+Eine in den 1990er Jahren von der Europäischen Kommission beauftragte Untersuchung in fünf Ländern (Deutschland nicht inbegriffen) konnte keine Hinweise auf einen verstärkenden Einfluss der medialen Berichterstattung über den Unfall auf die öffentliche Wahrnehmung des Risikos finden, wenngleich die Berichterstattung in der Öffentlichkeit häufig als alarmierend empfunden wurde.
+Eine Analyse der Berichterstattung der US-amerikanischen Tageszeitungen New York Times, Washington Post, Philadelphia Inquirer, Wall Street Journal und Morning Call aus Allentown in Pennsylvania sowie der Abendnachrichten der Fernsehsender ABC, CBS und NBC in den ersten zwei Wochen nach der Katastrophe ergab, dass nicht ausreichend Informationen vermittelt wurden, um der Öffentlichkeit das Verständnis von Kernenergie und die Einordnung des Unfalls zu erleichtern.
+Übertriebene Panikmache oder einen Überschuss an negativen Berichten konnten jedoch nicht beobachtet werden.
+
+Als Reaktion auf die Nuklearkatastrophe boten US-amerikanische Hämatologen der University of California in Los Angeles wenige Tage nach dem Ereignis ihre Hilfe an und, mit Hilfe der politischen Vermittlung von Armand Hammer, im Frühjahr 1986 führte ein von ihnen entsandtes Transplantationsteam unter Leitung von Robert P. Gale, Richard E. Champlin, Paul Terasaki und Yair Reisner im Moskauer Krankenhaus Nummer 6 in Zusammenarbeit mit sowjetischen Hämatologen Knochenmarktransplantationen an Strahlenopfern aus Tschernobyl zur Behandlung der das Blut schädigenden Strahlenkrankheit durch, allerdings mit nur mäßigen Heilerfolgen.
+
+== Gegenwärtige Situation
+
+Die Nachbarstadt Prypjat ist heute eine Geisterstadt und bildet das Zentrum des Zone genannten Sperrgebiets.
+In der Stadt wurden viele Gebäude renoviert, die als Unterkünfte für die Arbeiter und Ingenieure des ehemaligen Kraftwerkparks Prypiat, für Soldaten, Polizisten und Feuerwehrleute dienen.
+Im Umland und im Stadtgebiet von Tschernobyl leben heute rund 700 von einst 14.000 Personen, die entweder ablehnten, die Region zu verlassen, oder nach der Katastrophe 1986 in ihre Dörfer zurückkehrten.
+Die Umweltschutzorganisation Blacksmith Institute zählte in ihrer 2006, 2007 und 2013 veröffentlichten Liste Tschernobyl jeweils zu den zehn Orten mit der größten Umweltverschmutzung weltweit.
+
+=== Endgültige Abschaltung des Kraftwerkes
+
+Alle drei noch funktionsfähigen Blöcke wurden nach dem Ende der Aufräumarbeiten wieder hochgefahren.
+Nach den Dekontaminierungsarbeiten in den Jahren 1986 und 1987 war die Regierung der Ansicht, dass die Strahlung keine weiteren Auswirkungen auf das Personal habe.
+Der zweite Reaktorblock wurde im Oktober 1991 nach einem Feuer in der Turbinenhalle abgeschaltet.
+
+Bei einer Tagung im Juni 1994 in Korfu beschloss die Europäische Union, der Ukraine ein Programm zur Zusammenarbeit vorzuschlagen, das zur Stilllegung des Kernkraftwerkes in Tschernobyl führen sollte.
+Die G7-Staaten unterstützten bei ihrem Treffen in Neapel im Juli 1994 diesen Vorstoß der EU.
+Dies führte schließlich am 20. Dezember 1995 im kanadischen Halifax zur Unterzeichnung eines Memorandum of Understanding durch den ukrainischen Präsidenten Leonid Kutschma, in dem die Abschaltung der Reaktoren bis zum Jahr 2000 angestrebt wurde.
+Die Finanzierung erfolgte über das TACIS-Programm der EU.
+Im November 1996 wurde Block 1 vom Netz genommen, im Dezember 1997 beschloss die ukrainische Regierung, den Reaktor 3 stillzulegen.
+Im Juni 2000 wurde schließlich die Entscheidung getroffen, Block 3 am 15. Dezember 2000 endgültig außer Betrieb zu nehmen.
+
+=== Erste Schutzhülle
+
+Der havarierte Reaktorblock war durch einen provisorischen, durchlässigen sogenannten "Sarkophag" gedeckelt.
+Im Inneren ist weitgehend die Situation nach der Explosion in heißer Form konserviert.
+Von rund 190 Tonnen Reaktorkernmasse befinden sich Schätzungen zufolge noch rund 150 bis 180 Tonnen innerhalb des Sarkophags: teils in Form von Corium, teils in Form von Staub und Asche, ausgewaschener Flüssigkeiten im Reaktorsumpf und Fundament oder in anderer Form.
+
+Im Jahr 1992 veranstaltete die Ukraine zusammen mit einer französischen Firma einen Konzeptwettbewerb, um Ideen für eine langfristige Lösung für Block 4 zu finden.
+Nach kurzer Zeit entschied man sich für eine effektive Schutzummantelung und kürte einen Gewinner.
+Hierzu sollte eine vollständige Ummantelung von Block 3 und Block 4 gebaut werden.
+Da aber für dieses Konzept der damals noch aktive Block 3 hätte abgeschaltet werden müssen, verwarf man dieses Projekt wieder.
+Die Kosten dafür schätzte man auf drei bis vier Milliarden US-Dollar.
+
+Im Februar 2013 stürzte aufgrund großer Schneemassen das Dach der Maschinenhalle ein, die etwa 70 Meter vom Sarkophag entfernt ist.
+Nach Angaben des ukrainischen Zivilschutzministeriums traten dabei keine radioaktiven Partikel aus.
+
+=== Zweite Schutzhülle ("New Safe Confinement")
+
+Der internationale "Shelter Implementation Plan" hatte als Ziel, einen neuen, haltbareren Sarkophag zu errichten:
+Als erste Maßnahmen wurden das Dach des ursprünglichen Sarkophags verstärkt und seine Belüftungsanlage verbessert.
+Der neue Sarkophag wurde von 2010 bis 2016 ca. 200 Meter neben dem havarierten Reaktor aufgebaut und anschließend auf Kunststoffgleitschienen über den alten Sarkophag gefahren.
+Dadurch soll es möglich sein, den alten Sarkophag zu entfernen, ohne dass weitere radioaktive Stoffe freigesetzt werden.
+Das ist mit zwei Kränen vorgesehen, die unter hoher Strahlenbelastung speziell vor Ort für diesen Zweck hergestellt wurden.
+Unter anderem können sie auch radioaktiv kontaminierte Stoffe zerkleinern.
+Am 17. September 2007 wurde der Auftrag dem Konsortium Novarka erteilt.
+
+Die deutsche Bundesregierung hat bis März 2016 etwa 97 Mio. Euro in den Chernobyl Shelter Fund (CSF) eingezahlt, noch zu erfüllende Beitragszusagen belaufen sich auf etwa 19 Mio. Euro.
+
+Am 14. November 2016 wurde begonnen, die neue Schutzhülle in Richtung des alten Sarkophags zu verschieben.
+Ihre endgültige Position hat sie am 29. November eingenommen.
+Am 25. April 2019 vermeldete die Europäische Bank für Wiederaufbau und Entwicklung (EBWE) den Abschluss eines 72-Stunden-Testbetriebs der Schutzhülle.
+Die offizielle Inbetriebnahme im Beisein des ukrainischen Präsidenten Wolodymyr Selenskyj erfolgte am 10. Juli 2019.
+
+== Gedenken und Rezeption
+
+Anders als andere Unfälle und Umweltkatastrophen dieser Größenordnung, wie beispielsweise der bisher folgenreichste Unfall der chemischen Industrie im indischen Bhopal des Jahres 1984, hat die Nuklearkatastrophe von Tschernobyl in der westlichen Welt wie auch in den Nachfolgestaaten der Sowjetunion einen nachhaltigen Eindruck hinterlassen.
+
+=== Veranstaltungen
+
+Bereits kurz nach der Katastrophe etablierten sich in größeren Städten, vor allem der ehemaligen Sowjetunion, jährliche Gedenkveranstaltungen.
+Hierbei werden im Frühjahr Kundgebungen oder Gottesdienste abgehalten, bei denen tausende Teilnehmer mit brennenden Kerzen, Schweigeminuten, Mahnwachen oder Glockenläuten der Opfer der Reaktorexplosion gedenken.
+Sie demonstrieren damit auch für die friedliche Nutzung der Atomenergie oder langfristig auch für die Stilllegung aller Atomreaktoren.
+
+=== Museum und Mahnmale
+
+Ein in der ukrainischen Hauptstadt Kiew eingerichtetes National-Museum zeigt Bilder, Videos, Reste von Kleidung oder verweist mit durchgestrichenen Ortstafeln auf die nicht mehr existenten Dörfer.
+
+Inzwischen gibt es auch mahnende Denkmale, wie in der russischen Hauptstadt Moskau oder in den ukrainischen Städten Kiew, Charkiw oder Saporischschja.
+In Charkiw erinnern zwei Monumente an die Katastrophe: eines aus rotem Porphyr und ein weiteres, dreifarbig gestaltetes, im Park der Jugend.
+Ein weiteres Denkmal, das den Helfern ("Liquidatoren") im Gelände des Kernkraftwerks gewidmet war, wurde zerstört.
+In Saporischschja hat ein Bildhauer einen Stein an einem Brunnen wie ein gespaltenes Atom gestaltet, unweit davon befindet sich ein Granitfindling mit einer Tafel für die Opfer der Katastrophe.
+In der nach dem Reaktorunglück neu errichteten Stadt Slawutytsch gibt es ein Mahnmal mit Fotos und Lebensdaten einiger Opfer.
+Kiew erinnert mit einem Denkmal an die Feuerwehrleute und Ingenieure, die infolge ihres Einsatzes bei der Katastrophe gestorben sind.
+An dem symbolhaften verbogenen Metall legen Politiker des Landes regelmäßig Gedenkkränze nieder.
+Auf dem Mitinskoje-Friedhof (coe ae) (Moskau) befinden sich die Grabstätten von 28 verstorbenen Feuerwehrmännern und ein Denkmal.
+Auch in der religiösen Kunst und in der Ikonenmalerei fand die Katastrophe von Tschernobyl ihren Niederschlag.
+
+=== Ausstellungen, Konzerte und andere Aktivitäten
+
+Im Jahr 1990 wurde die gemeinnützige Organisation Heim-statt Tschernobyl gegründet.
+Seit 1991 fahren, jährlich in den Sommermonaten Gruppen freiwilliger Helfer aus Deutschland für drei Wochen nach Weißrussland und errichten, im Rahmen eines Umsiedlungs-Programms, im nicht-kontaminierten Norden gemeinsam mit betroffenen Familien jeweils ein neues Haus.
+Wesentlicher Bestandteil des Konzeptes ist die ökologische Bauweise und der verantwortungsvolle Umgang mit Energie.
+
+Der deutsche Künstler Till Christ organisierte in Zusammenarbeit mit Studenten der Staatlichen Akademie für Design und Kunst aus Charkow im Berliner Kunsthaus Tacheles die Ausstellung "Visual Energy - Nach Tschernobyl:
+Ressourcen, Energien und wir".
+Sie war zwischen Oktober 2005 und April 2006 zu sehen.
+Im Jahr 2006 führte die schweizerische Stadt Thun in ihrem Rathaus eine Gedenkausstellung mit Unterstützung der Botschafter der Ukraine, von Weißrussland und von Russland durch.
+
+Die Literaturnobelpreisträgerin Swetlana Alexijewitsch hat sich in ihrem literarischen Werk immer wieder mit der Reaktorkatastrophe auseinandergesetzt und u. a. ein "Tschernobyl-Gebet" verfasst, das im Jahr 2006 von dem französischen Komponisten Alain Moget als Oratorium unter dem Titel "Und sie werden uns vergessen" vertont und uraufgeführt wurde.
+
+In jedem Jahr kommen weitere Aktivitäten in aller Welt zum Gedenken hinzu wie Fotoausstellungen, Konzerte, Veröffentlichungen oder wissenschaftliche Tagungen.
+
+Als Beispiel für die Rezeption der Nuklearkatastrophe in der bildenden Kunst sei der 1986 entstandene Zyklus "Aschebilder" des Künstlers Günther Uecker genannt.
+
+In Bamberg steht ein Denkmal für Tschernobyl: eine auf dem Rücken liegende, hilflose Schildkröte aus schwarzem Granit.
+Auf ihrem Bauch ist die Weltkarte eingraviert.
+Die Schildkröte ist einen Entwurf des südkoreanischen Künstlers Kang Jinmo, den er im Rahmen eines Wettbewerbs des Bund Naturschutz in Bayern im Jahr 1987 eingereicht hatte.
+Die Schildkröte symbolisiert die Hilflosigkeit gegenüber der atomaren Verseuchung weiter Teile Europas nach der Reaktorkatastrophe im April 1986.
+
+Vom 3. bis 5. April 2006 veranstaltete die Gesellschaft für Strahlenschutz in Berlin einen Internationalen Kongress mit dem Titel "20 Jahre nach Tschernobyl - Erfahrungen und Lehren für die Zukunft".
+
+Auf drei internationalen Kongressen in den Jahren 2004, 2006 und 2011 diskutierte die IPPNW gemeinsam mit der Öffentlichkeit über die Folgen der Tschernobylkatastrophe sowie Perspektiven einer Welt frei von Atomkraftwerken und Atomwaffen.
+Der vom 8. bis 10. April 2011 abgehaltene Kongress mit dem Motto "Zeitbombe Atomenergie: 25 Jahre Tschernobyl - Atomausstieg jetzt!" fand unter dem Eindruck der Nuklearkatastrophe von Fukushima statt.
+
+== Filme, Medien und Veranstaltungen über die Katastrophe
+
+1990 wurde der Film Raspad - Der Zerfall bei den Internationalen Filmfestspielen von Venedig vorgestellt und erhielt die Goldmedaille des Präsidenten des italienischen Senats.
+
+1991 entstand für Turner Home Entertainment das TV Drama Tschernobyl - Die letzte Warnung unter der Regie von Anthony Page.
+
+2006 entstand unter der Produktion von ITV das Drama The Girls Who Came To Stay.
+Der Film erzählt die Geschichte eines Paares, die zwei Mädchen aus Weißrussland in Pflege nehmen.
+Es stellt sich heraus, dass die Mädchen zum Zeitpunkt des Unglücks hoher Strahlung ausgesetzt waren.
+
+2011 entstand der vielfach preisgekrönte Kurzfilm Seven Years of Winter unter der Regie von Marcus Schwenzel.
+Der Regisseur erzählt in seinem Kurzfilm das Drama des Waisenkinds Andrej, der vier Jahre nach der Tschernobyl-Katastrophe vom Hehler Artjom in die nukleare Umgebung des Reaktors geschickt wird, um die verlassenen Wohnungen zu plündern.
+
+Im Februar 2011 nahm der Spielfilm An einem Samstag am Wettbewerbsprogramm der Berlinale 2011 teil.
+Die russisch-ukrainisch-deutsche Koproduktion zeigt die Geschichte vom Scheitern des Fluchtversuchs eines jungen Parteifunktionärs und seiner Freunde.
+Er hatte bereits unmittelbar nach dem Unglück dessen schwerwiegende Folgen erkannt.
+
+Ebenfalls aus dem Jahr 2011 ist der Spielfilm Verwundete Erde.
+Er handelt von den Folgen der Katastrophe auf das Leben einer jungen Frau.
+
+Am 26. April 2011 fand in der Berliner Philharmonie ein Benefizkonzert anlässlich des 25. Jahrestages der Tschernobylkatastrophe statt.
+
+2011 veröffentlichte die Wendländische Filmkooperative ein Porträt über Rostislav Omeljaschko, Mitbegründer der historisch-kulturellen Expeditionen in die Sperrzone von Tschernobyl und begleitete ihn mehrmals in die Sperrzone.
+
+Die im Jahre 2015 ausgestrahlte Dokumentation Die Wölfe von Tschernobyl beschäftigt sich mit den Auswirkungen der Radioaktivität auf die Tierwelt.
+
+In der Dokumentation ZDF History:
+Das Tschernobyl-Vermächtnis aus dem Jahr 2016 geht es insbesondere um die Erkenntnisse - wie einen deutlich größeren Kreis an Verantwortlichen und umfangreichere Folgen - die Waleri Legassow, der Leiter des Untersuchungskomitees, in seiner Audio-Hinterlassenschaft benannt hat und vorher nie veröffentlichen durfte.
+
+Die Fernsehserie Chernobyl von HBO aus dem Jahr 2019 zeigt die Folgen der Nuklearkatastrophe vom April 1986 und soll sich dabei weitgehend auf reale Gegebenheiten berufen.
+Mehrfach wurde die Reihe allerdings für teilweise sachlich falsche Darstellungen und Übertreibungen kritisiert.
+Vom Publikum wurde die Serie aber überwiegend begeistert aufgenommen und war kurzzeitig die bestbewertete Serie in der Internet Movie Database.
+Tourismusveranstalter berichteten, das Interesse an Tschernobyl-Reisen sei "dramatisch angestiegen", nachdem die HBO-Serie ausgestrahlt wurde.
+Russische Medien bezeichneten die Serie als "gegen Russland gerichtetes Propagandawerk".
+
+2020 veröffentlichte der ukrainische Geheimdienst SBU und das Institut des nationalen Gedächtnis bisher geheime Dokumente und Protokolle von Dienstgesprächen zur Nuklearkatastrophe.
+
+== Trivia
+
+Im 1987 erschienenen Album Liebe, Tod & Teufel der österreichischen Musikgruppe EAV wurde das in Reaktion auf die Nuklearkatastrophe entstandene Lied Burli veröffentlicht.
+
+Am 23. März 2007 wurde das Spiel S.T.A.L.K.E.R.: Shadow of Chernobyl, das nach einem fiktiven Unfall 2008 in der Zone um das AKW Tschernobyl spielt, herausgegeben.
+Es folgten die Teile S.T.A.L.K.E.R.: Clear Sky (5. September 2008, EU) und S.T.A.L.K.E.R.: Call of Pripyat (5. November 2009, DE).
+
+Am 25. Mai 2012 lief mit Chernobyl Diaries von Brad Parker ein Horrorfilm in den USA an.
+Der Film, der auf einem Skript von Oren Peli beruht, spielt 25 Jahre nach der Katastrophe in Prypjat.
+
+Der Actionfilm Stirb langsam - Ein guter Tag zum Sterben (2013) spielt teilweise im verstrahlten Sperrgebiet, aus dem kernwaffenfähiges Uran geborgen werden soll.
+
+Die Internationale Atomenergie-Organisation hat vor der Nuklearkatastrophe von Tschernobyl auch diesen RBMK-Reaktortyp erwähnt.
+In einer auf ihrer Website abrufbaren Publikation (IAEO Bulletin, Vol. 22, No. 2) spricht sie vom "ökonomisch vollumfänglich gerechtfertigten Bau" dieses Reaktortyps und davon, dass mit recht geringem Aufwand (durch Erhöhung der Leistungsdichte im Kern) eine Leistungssteigerung von 1000 MW el.
+auf 1500 MW el.
+erzielbar sei.
+
+Der ukrainische Name opo (Tschornobyl) bezeichnet die Pflanzenart Artemisia vulgaris (Beifuß), die gelegentlich mit dem Wermutkraut (Artemisia absinthium) verwechselt wird.
+Daher wurde die Nuklearkatastrophe mit einer Stelle aus der biblischen Offenbarung in Verbindung gebracht:
+"Der Name des Sterns ist Wermut.
+Ein Drittel des Wassers wurde bitter und viele Menschen starben durch das Wasser." (Offb 8,11 EU)
+
+== Siehe auch
+
+== Literatur
+
+Deutschland:
+
+Österreich:
+
+== Weblinks
+
+== Einzelnachweise
+
+51.38944444444430.099166666667Koordinaten: 51° 23' 22" N, 30° 5' 57" O
+

@@ -1,0 +1,321 @@
+Johann Carl Friedrich Gauß (latinisiert Carolus Fridericus Gauss; * 30. April 1777 in Braunschweig; + 23. Februar 1855 in Göttingen) war ein deutscher Mathematiker, Statistiker, Astronom, Geodät und Physiker.
+Wegen seiner überragenden wissenschaftlichen Leistungen galt er bereits zu seinen Lebzeiten als Princeps Mathematicorum ("Fürst der Mathematiker"; "Erster unter den Mathematikern").
+
+Mit 18 Jahren entwickelte Gauß die Grundlagen der modernen Ausgleichungsrechnung und der mathematischen Statistik (Methode der kleinsten Quadrate), mit der er 1801 die Wiederentdeckung des ersten Asteroiden Ceres ermöglichte.
+Auf Gauß gehen die nichteuklidische Geometrie, zahlreiche mathematische Funktionen, Integralsätze, die Normalverteilung, erste Lösungen für elliptische Integrale und die gaußsche Krümmung zurück.
+1807 wurde er zum Universitätsprofessor und Sternwartendirektor in Göttingen berufen und später mit der Landesvermessung des Königreichs Hannover betraut.
+Neben der Zahlen- und der Potentialtheorie erforschte er u. a. das Erdmagnetfeld.
+
+Bereits 1856 ließ der König von Hannover Gedenkmedaillen mit dem Bild von Gauß und der Inschrift "Mathematicorum Principi" (deutsch: "dem Fürsten der Mathematiker") prägen.
+Da Gauß nur einen Bruchteil seiner Entdeckungen veröffentlichte, erschloss sich der Nachwelt die Tiefgründigkeit und Reichweite seines Werks in vollem Umfang erst, als 1898 sein Tagebuch entdeckt und ausgewertet wurde, und als der Nachlass bekannt wurde.
+
+Nach Gauß sind viele mathematisch-physikalische Phänomene und Lösungen benannt, mehrere Vermessungs- und Aussichtstürme, zahlreiche Schulen, außerdem Forschungszentren und wissenschaftliche Ehrungen wie die Carl-Friedrich-Gauß-Medaille der Braunschweigischen Akademie und die festliche Gauß-Vorlesung, die jedes Semester an einer deutschen Hochschule stattfindet.
+
+== Leben
+
+=== Eltern, Kindheit und Jugend
+
+Carl Friedrich war das einzige Kind der Eheleute Gebhard Dietrich Gauß (1744-1808) und Dorothea Gauß geborene Bentze (1743-1839) und wurde im Haus Wilhelmstraße 30 in Braunschweig geboren.
+Die Mutter Dorothea war die Tochter eines Steinmetzen aus Velpke, der früh starb, und wurde als klug, von heiterem Sinn und festem Charakter geschildert.
+Gauß hatte zeitlebens eine enge Beziehung zu seiner Mutter, die zuletzt bei ihm auf der Sternwarte in Göttingen wohnte.
+Sie arbeitete zunächst als Dienstmädchen, bevor sie die zweite Frau von Gebhard Dietrich Gauß wurde.
+Dieser hatte viele Berufe, er war unter anderem Gärtner, Schlachter, Maurer, Kaufmannsassistent und Schatzmeister einer kleinen Versicherungsgesellschaft.
+Einige Anekdoten besagen, dass bereits der dreijährige Carl Friedrich seinen Vater bei der Lohnabrechnung korrigierte.
+Später sagte Gauß von sich selbst, er habe das Rechnen vor dem Sprechen gelernt.
+Sein Leben lang behielt er die Gabe, selbst komplizierteste Rechnungen im Kopf durchzuführen.
+
+Eine Anekdote, deren Ursprung auf die Erzählungen von Wolfgang Sartorius von Waltershausen zurückgeht, beschreibt das frühe mathematische Talent des kleinen Carl Friedrich:
+
+Im Alter von sieben Jahren sei Gauß in die Volksschule gekommen.
+Als er neun Jahre alt war, habe sein Lehrer Büttner den Schülern zur längeren Beschäftigung die Aufgabe gestellt, die Zahlen von 1 bis 100 zu addieren.
+Gauß habe sie allerdings nach kürzester Zeit gelöst, indem er 50 Paare mit der Summe 101 gebildet (1 + 100, 2 + 99, ..., 50 + 51) und 5050 als Ergebnis erhalten habe.
+Er legte die Antwort mit den Worten in Braunschweiger Plattdeutsch "Ligget se" (svw: "Hier liegt sie") dem Lehrer auf den Tisch.
+
+Die daraus resultierende Formel wird gelegentlich als "der kleine Gauß" bezeichnet.
+Gauß' Lehrer Büttner erkannte und förderte seine außergewöhnliche mathematische Begabung, indem er (u. a.) ein besonderes Rechenbuch aus Hamburg für ihn beschaffte und, unterstützt von seinem Assistenten Martin Bartels, dafür sorgte, dass Gauß 1788 das Katharineum besuchen konnte.
+
+Als der "Wunderknabe" Gauß vierzehn Jahre alt war, wurde er dem Herzog Karl Wilhelm Ferdinand von Braunschweig bekanntgemacht.
+Dieser unterstützte ihn sodann finanziell.
+So konnte Gauß von 1792 bis 1795 am Collegium Carolinum studieren, das zwischen höherer Schule und Hochschule anzusiedeln ist und der Vorgänger der heutigen Technischen Universität in Braunschweig ist.
+Dort war es der Professor Eberhard August Wilhelm von Zimmermann, der sein mathematisches Talent erkannte, ihn förderte und ihm ein väterlicher Freund wurde.
+
+=== Studienjahre
+
+Im Oktober 1795 wechselte Gauß an die Universität Göttingen.
+Dort hörte er bei Christian Gottlob Heyne Vorlesungen über klassische Philologie, die ihn damals genauso wie die Mathematik interessierte.
+Letztere wurde durch Abraham Gotthelf Kästner, der zugleich Dichter war, repräsentiert.
+Bei Georg Christoph Lichtenberg hörte er im Sommersemester 1796 Experimentalphysik und sehr wahrscheinlich im folgenden Wintersemester Astronomie.
+In Göttingen schloss er Freundschaft mit Wolfgang Bolyai.
+
+Im Alter von 18 Jahren gelang es Gauß als Erstem, die Konstruierbarkeit des regelmäßigen Siebzehnecks zu beweisen, und zwar auf Basis einer rein algebraischen Überlegung - eine sensationelle Entdeckung, denn seit der Antike hatte es auf diesem Gebiet kaum noch Fortschritte gegeben.
+Danach konzentrierte er sich auf das Studium der Mathematik, das er 1799 mit seiner Doktorarbeit an der Academia Julia, der Universität in Helmstedt, abschloss.
+Die Mathematik war hier durch Johann Friedrich Pfaff - der sein Doktorvater wurde - vertreten, und nicht zuletzt legte Gauß' Gönner, der Herzog von Braunschweig, Wert darauf, dass Gauß nicht an einer ausländischen Universität promoviert werden sollte.
+
+=== Ehen, Familie und Kinder
+
+Im November 1804 verlobte er sich mit Johanna Elisabeth Rosina Osthoff (* 8. Mai 1780; + 11. Oktober 1809), der Tochter eines Weißgerbers aus Braunschweig, und heiratete sie am 9. Oktober 1805.
+Am 21. August 1806 wurde in Braunschweig ihr erstes Kind Joseph (+ 4. Juli 1873) geboren, benannt nach Giuseppe Piazzi, dem Entdecker des Zwergplaneten Ceres, dessen Wiederauffindung Gauß' Bahnberechnung 1801 ermöglicht hatte.
+
+Nachdem die Familie nach Göttingen gezogen war, wurden am 29. Februar 1808 die Tochter Wilhelmine, genannt Minna, und am 10. September 1809 der Sohn Louis geboren.
+Am 11. Oktober 1809 starb Johanna Gauß an den Folgen der Geburt, Louis selbst starb am 1. März 1810.
+Durch diese Ereignisse fiel Gauß eine Zeit lang in eine Depression, in der er eine 1927 von seinem Enkel Carl August Gauß (1849-1927) gefundene auf tränenbedecktem Papier geschriebene "Totenklage" auf seine verstorbene Frau verfasste.
+Carl August Gauß war sein einziger in Deutschland geborener Enkel, Gutsbesitzer (Gut Lohnde bei Hannover) und Sohn von Joseph.
+Wilhelmine heiratete den Orientalisten Heinrich Ewald, der später als einer der Göttinger Sieben das Königreich Hannover verließ und Professor in Tübingen wurde.
+
+Am 4. August 1810 heiratete der Witwer, der zwei kleine Kinder zu versorgen hatte, Friederica Wilhelmine Waldeck (genannt Minna; * 15. April 1788; + 12. September 1831), Tochter des Göttinger Rechtswissenschaftlers Johann Peter Waldeck, die die beste Freundin seiner verstorbenen Frau gewesen war.
+Mit ihr hatte er drei Kinder.
+Eugen zerstritt sich als Student der Rechte mit seinem Vater und wanderte 1830 nach Amerika aus, wo er als Kaufmann lebte und die "First National Bank" von St. Charles gründete.
+Wilhelm folgte Eugen 1837 nach Amerika und brachte es ebenfalls zu Wohlstand.
+Seine jüngste Tochter Therese führte ihrem Vater nach dem Tod der Mutter bis zu seinem Tod den Haushalt.
+Minna Gauß war nach 13-jähriger Leidenszeit an Tuberkulose verstorben.
+
+=== Spätere Jahre
+
+Nach seiner Promotion lebte Gauß in Braunschweig von dem kleinen Gehalt, das ihm der Herzog zahlte, und arbeitete an seinem Werk Disquisitiones Arithmeticae.
+
+Einen Ruf an die Petersburger Akademie der Wissenschaften lehnte Gauß aus Dankbarkeit gegenüber seinem Gönner, dem Herzog von Braunschweig, und wohl in der Hoffnung, dass dieser ihm eine Sternwarte in Braunschweig bauen würde, ab.
+Nach dem plötzlichen Tod des Herzogs nach der Schlacht bei Jena und Auerstedt wurde Gauß im November 1807 Professor an der Georg-August-Universität Göttingen und Direktor der dortigen Sternwarte.
+Dort musste er Lehrveranstaltungen halten, gegen die er aber eine Abneigung entwickelte.
+Die praktische Astronomie wurde dort durch Karl Ludwig Harding vertreten, den mathematischen Lehrstuhl hatte Bernhard Friedrich Thibaut inne.
+Mehrere seiner Studenten wurden einflussreiche Mathematiker, darunter Richard Dedekind und Bernhard Riemann.
+
+In fortgeschrittenem Alter beschäftigte er sich zunehmend mit Literatur und war ein eifriger Zeitungsleser.
+Seine Lieblingsschriftsteller waren Jean Paul und Walter Scott.
+Er sprach fließend Englisch und Französisch und las, neben seiner Vertrautheit mit den klassischen Sprachen der Antike aus seiner Jugendzeit, mehrere moderne europäische Sprachen (Spanisch, Italienisch, Dänisch, Schwedisch), wobei er zuletzt noch Russisch lernte und sich versuchsweise mit Sanskrit befasste, was ihm aber nicht zusagte.
+
+Seit 1804 war er korrespondierendes Mitglied der Academie des sciences und ab 1820 associe etranger der Akademie.
+Ebenfalls 1804 wurde er Fellow der Royal Society und 1820 der Royal Society of Edinburgh.
+1808 wurde er zum korrespondierenden und 1820 zum auswärtigen Mitglied der Bayerischen Akademie der Wissenschaften sowie 1822 in die American Academy of Arts and Sciences gewählt.
+1838 erhielt er die Copley-Medaille der Royal Society.
+1842 wurde er in die Friedensklasse des Ordens Pour le Merite aufgenommen.
+Im selben Jahr lehnte er einen Ruf nach Wien ab.
+1845 wurde er Geheimer Hofrat und 1846 zum dritten Mal Dekan der Philosophischen Fakultät.
+1849 feierte er sein Goldenes Doktorjubiläum und wurde Ehrenbürger von Braunschweig und Göttingen.
+1852 unternahm er seine letzte wissenschaftliche Arbeit, die Wiederholung des foucaultschen Pendelversuchs zum Nachweis der Erdrotation.
+
+Er sammelte numerische und statistische Daten aller Art und führte zum Beispiel Listen über die Lebenserwartung berühmter Männer (in Tagen gerechnet).
+So schrieb er am 7. Dezember 1853 an seinen Freund und Kanzler seines Ordens Alexander von Humboldt u. a.: "Es ist übermorgen der Tag, wo Sie, mein hochverehrter Freund, in ein Gebiet übergehen, in welches noch keiner der Koryphäen der exacten Wissenschaften eingedrungen ist, der Tag, wo Sie dasselbe Alter erreichen, in welchem Newton seine durch 30.766 Tage gemessene irdische Laufbahn geschlossen hat.
+Und Newtons Kräfte waren in diesem Stadium gänzlich erschöpft:
+Sie stehen zur höchsten Freude der ganzen wissenschaftlichen Welt noch im Vollgenuss Ihrer bewundernswürdigen Kraft da.
+Mögen Sie in diesem Genuss noch viele Jahre bleiben." Gauß interessierte sich für Musik, besuchte Konzerte und sang viel (ob er ein Instrument spielte, ist nicht bekannt).
+Er befasste sich mit Aktienspekulation und hinterließ so bei seinem Tod ein beträchtliches Vermögen von 170.000 Talern (bei einem Professoren-Grundgehalt von 1000 Talern jährlich) überwiegend in Wertpapieren, darunter vielfach von Eisenbahnen.
+Hierzu findet sich eine der wenigen Stellen im Briefwechsel, in denen er sich kritisch zur Politik und mit dieser kooperierenden Banken äußert, denn von ihm erworbene Eisenbahnaktien von Hessen-Darmstadt verloren drastisch an Wert, als bekannt wurde, dass die Eisenbahn jederzeit verstaatlicht werden konnte.
+
+Er war noch gegen Ende seines Lebens wissenschaftlich aktiv und hielt 1850/51 Vorlesungen über die Methode der kleinsten Quadrate.
+Zwei seiner bedeutendsten Schüler, Bernhard Riemann (der bei Gauß 1851 promoviert wurde und Gauß 1854 mit seinem Habilitationsvortrag über die Grundlagen der riemannschen Geometrie stark beeindruckte) und Richard Dedekind, hatte er erst gegen Ende seiner Laufbahn.
+
+Gauß war sehr konservativ und monarchistisch eingestellt, die Revolution von 1848 hieß er nicht gut.
+
+=== Tod
+
+Gauß litt in seinen letzten Jahren an Herzinsuffizienz (diagnostiziert als Wassersucht) und an Schlaflosigkeit.
+Im Juni 1854 reiste er mit seiner Tochter Therese zur Baustelle der Eisenbahnlinie von Hannover nach Göttingen, wobei die vorüberfahrende Eisenbahn die Pferde scheuen ließ und die Kutsche umwarf, der Kutscher wurde schwer verletzt, Gauß und seine Tochter blieben unverletzt.
+Gauß nahm noch an der Einweihung der Eisenbahnlinie am 31. Juli 1854 teil, danach war er durch Krankheit zunehmend auf sein Haus eingeschränkt.
+Er starb am 23. Februar 1855 morgens um 1:05 Uhr in Göttingen in seinem Lehnstuhl.
+
+
+Das Grabmal auf dem Albani-Friedhof wurde erst 1859 aufgestellt und entstand nach einem Entwurf des hannoverschen Architekten Heinrich Köhler.
+Es galt bald als Göttinger Sehenswürdigkeit.
+
+== Leistungen
+
+=== Begründung und Beiträge zur nicht-euklidischen Geometrie
+
+Gauß misstraute bereits mit zwölf Jahren der Beweisführung in der elementaren Geometrie und ahnte mit sechzehn Jahren, dass es neben der euklidischen noch eine andere, nicht-euklidische Geometrie geben müsse.
+
+Diese Arbeiten vertiefte er in den 1820er Jahren:
+Unabhängig von Janos Bolyai und Nikolai Iwanowitsch Lobatschewski bemerkte er, dass das euklidische Parallelenaxiom nicht denknotwendig ist.
+Seine Gedanken zur nichteuklidischen Geometrie veröffentlichte er jedoch nicht, nach den Berichten seiner Vertrauten vermutlich aus Furcht vor dem Unverständnis der Zeitgenossen.
+Als ihm sein Studienfreund Wolfgang Bolyai, mit dem er korrespondierte, allerdings von den Arbeiten seines Sohnes Janos Bolyai berichtete, lobte er ihn zwar, konnte es aber nicht unterlassen zu erwähnen, dass er selbst schon sehr viel früher darauf gekommen war (" loben hiesse mich selbst loben").
+Er habe darüber nichts veröffentlicht, da er "das Geschrei der Böotier scheue".
+Lobatschewskis Arbeiten fand Gauß so interessant, dass er noch in fortgeschrittenem Alter Russisch lernte, um sie zu studieren.
+
+=== Primzahlverteilung und Methode der kleinsten Quadrate
+
+Mit 18 Jahren entdeckte er einige Eigenschaften der Primzahlverteilung und fand die Methode der kleinsten Quadrate, bei der es darum geht, die Summe der Quadrate von Abweichungen zu minimieren.
+Er sah vorläufig von einer Veröffentlichung ab.
+Nachdem Adrien-Marie Legendre 1805 seine "Methode des moindres carres" in einer Abhandlung veröffentlicht hatte und Gauß seine Ergebnisse erst 1809 bekannt machte, entstand daraus ein Prioritätsstreit.
+
+Nach dieser Methode lässt sich etwa das wahrscheinlichste Ergebnis für eine neue Messung aus einer genügend großen Zahl vorheriger Messungen ermitteln.
+Auf dieser Basis untersuchte er später Theorien zur Berechnung von Flächeninhalten unter Kurven (numerische Integration), die ihn zur gaußschen Glockenkurve gelangen ließen.
+Die zugehörige Funktion ist bekannt als die Dichte der Normalverteilung und wird bei vielen Aufgaben zur Wahrscheinlichkeitsrechnung angewandt, wo sie die (asymptotische, das heißt für genügend große Datenmengen gültige) Verteilungsfunktion von zufällig um einen Mittelwert streuenden Daten ist.
+Gauß selbst machte davon unter anderem in seiner erfolgreichen Verwaltung der Witwen- und Waisenkasse der Göttinger Universität Gebrauch.
+Er stellte über mehrere Jahre eine gründliche Analyse an, in der er zu dem Schluss kam, dass die Pensionen leicht erhöht werden konnten.
+Damit legte Gauß auch Grundlagen in der Versicherungsmathematik.
+
+=== Einführung der elliptischen Funktionen
+
+Als 19-Jähriger führte er 1796, bei Betrachtungen über die Bogenlänge auf einer Lemniskate in Abhängigkeit von der Entfernung des Kurvenpunktes zum Ursprung, mit den lemniskatischen Sinusfunktionen die historisch ersten, heute so genannten elliptischen Funktionen ein.
+Seine Notizen darüber hat er jedoch nie veröffentlicht.
+Diese Arbeiten stehen in Zusammenhang mit seiner Untersuchung des arithmetisch-geometrischen Mittels.
+Die eigentliche Entwicklung der Theorie der elliptischen Funktionen, den Umkehrfunktionen der schon länger bekannten elliptischen Integrale, erfolgte durch Niels Henrik Abel (1827) und Carl Gustav Jacobi.
+
+=== Fundamentalsatz der Algebra, Beiträge zur Verwendung komplexer Zahlen
+
+Gauß erfasste früh den Nutzen komplexer Zahlen, so in seiner Doktorarbeit von 1799, die einen Beweis des Fundamentalsatzes der Algebra enthält.
+Dieser Satz besagt, dass jede algebraische Gleichung mit Grad größer als null mindestens eine reelle oder komplexe Lösung besitzt.
+Den älteren Beweis von Jean-Baptiste le Rond d'Alembert kritisierte Gauß als ungenügend, aber auch sein eigener Beweis erfüllt noch nicht die späteren Ansprüche an topologische Strenge.
+Gauß kam auf den Beweis des Fundamentalsatzes noch mehrfach zurück und gab neue Beweise 1815 und 1816.
+
+Gauß kannte spätestens 1811 die geometrische Darstellung komplexer Zahlen in einer Zahlenebene (gaußsche Zahlenebene), die schon Jean-Robert Argand 1806 und Caspar Wessel 1797 gefunden hatten.
+In dem Brief an Bessel, in dem er dies mitteilt, wurde auch deutlich, dass er weitere wichtige Konzepte der Funktionentheorie wie das Kurvenintegral im Komplexen und den Cauchyschen Integralsatz kannte und erste Ansätze zu Perioden von Integralen.
+Er veröffentlichte darüber aber nichts bis 1831, als er in seinem Aufsatz zur Zahlentheorie Theoria biquadratorum den Namen komplexe Zahl einführte.
+In der Veröffentlichung der Begründung der komplexen Analysis war ihm inzwischen Augustin-Louis Cauchy (1821, 1825) zuvorgekommen.
+1849 veröffentlicht er zu seinem Goldenen Doktorjubiläum eine verbesserte Version seiner Dissertation zum Fundamentalsatz der Algebra, in der er im Gegensatz zur ersten Version explizit komplexe Zahlen benutzt.
+
+=== Beiträge zur Zahlentheorie
+
+Am 30. März 1796, einen Monat vor seinem neunzehnten Geburtstag, bewies er die Konstruierbarkeit des regelmäßigen Siebzehnecks und lieferte damit die erste nennenswerte Ergänzung euklidischer Konstruktionen seit 2000 Jahren.
+Dies war aber nur ein Nebenergebnis bei der Arbeit für sein zahlentheoretisch viel weiterreichendes Werk Disquisitiones Arithmeticae.
+
+Eine erste Ankündigung dieses Werkes fand sich am 1. Juni 1796 im Intelligenzblatt der Allgemeinen Literatur-Zeitung in Jena.
+Die 1801 erschienenen Disquisitiones wurden grundlegend für die weitere Entwicklung der Zahlentheorie, zu der einer seiner Hauptbeiträge der Beweis des quadratischen Reziprozitätsgesetzes war, das die Lösbarkeit von quadratischen Gleichungen "mod p" beschreibt und für das er im Laufe seines Lebens fast ein Dutzend verschiedene Beweise fand.
+Neben dem Aufbau der elementaren Zahlentheorie auf modularer Arithmetik findet sich eine Diskussion von Kettenbrüchen und der Kreisteilung, mit einer berühmten Andeutung über ähnliche Sätze bei der Lemniskate und anderen elliptischen Funktionen, die später Niels Henrik Abel und andere anregten.
+Einen Großteil des Werks nimmt die Theorie der quadratischen Formen ein, deren Geschlechtertheorie er entwickelt.
+
+Es finden sich aber noch viele weitere tiefliegende Resultate, oft nur kurz angedeutet, in diesem Buch, die die Arbeit späterer Generationen von Zahlentheoretikern in vielfältiger Weise befruchteten.
+Der Zahlentheoretiker Peter Gustav Lejeune Dirichlet berichtete, er habe die Disquisitiones sein Leben lang bei der Arbeit stets griffbereit gehabt.
+Das Gleiche gilt für die beiden Arbeiten über biquadratische Reziprozitätsgesetze von 1825 und 1831, in denen er die gaußschen Zahlen einführt (ganzzahliges Gitter in komplexer Zahlenebene).
+Die Arbeiten sind wahrscheinlich Teil einer geplanten Fortsetzung der Disquisitiones, die aber nie erschien.
+Beweise für diese Gesetze gab dann Gotthold Eisenstein 1844.
+
+Andre Weil regte die Lektüre dieser Arbeiten (und einiger Stellen im Tagebuch, wo es in versteckter Form um Lösung von Gleichungen über endlichen Körpern geht) nach seinen eigenen Angaben zu seinen Arbeiten über die Weil-Vermutungen an.
+Gauß kannte zwar den Primzahlsatz, veröffentlichte ihn aber nicht.
+
+Gauß förderte auf diesem Gebiet eine der ersten Mathematikerinnen der Neuzeit, Sophie Germain.
+Gauß korrespondierte mit ihr ab 1804 über Zahlentheorie, wobei sie sich erst eines männlichen Pseudonyms bediente.
+Erst 1806 gab sie ihre weibliche Identität preis, als sie sich nach der Besetzung Braunschweigs bei dessen französischem Kommandanten für seine Sicherheit verwendete.
+Gauß lobte ihre Arbeit und ihr tiefes Verständnis der Zahlentheorie und bat sie, ihm für sein Preisgeld, das er mit dem Lalande-Preis erhielt, 1810 in Paris eine genaue Pendeluhr zu besorgen.
+
+=== Beiträge zur Astronomie
+
+Nach der Fertigstellung der Disquisitiones wandte sich Gauß der Astronomie zu.
+Anlass hierfür war die Entdeckung des Zwergplaneten Ceres durch Giuseppe Piazzi am 1. Januar 1801, dessen Position am Himmel der Astronom kurz nach seiner Entdeckung wieder verloren hatte.
+Der 24-jährige Gauß schaffte es, die Bahn mit Hilfe einer neuen indirekten Methode der Bahnbestimmung und seiner Ausgleichsrechnungen auf Basis der Methode der kleinsten Quadrate so zu berechnen, dass Franz Xaver von Zach ihn am 7. Dezember 1801 und - bestätigt - am 31. Dezember 1801 wiederfinden konnte.
+Heinrich Wilhelm Olbers bestätigte dies unabhängig von Zach durch Beobachtung am 1. und 2. Januar 1802.
+
+Das Problem der Wiederauffindung der Ceres als solches lag darin, dass durch die Beobachtungen weder der Ort, ein Stück der Bahn, noch die Entfernung bekannt sind, sondern nur die Richtungen der Beobachtung.
+Dies führt auf die Suche einer Ellipse und nicht nach einem Kreis, wie ihn Gauß' Konkurrenten ansetzten.
+Einer der Brennpunkte der Ellipse ist bekannt (die Sonne selbst), und die Bögen der Bahn der Ceres zwischen den Richtungen der Beobachtung werden nach dem zweiten Keplerschen Gesetz durchlaufen, das heißt, die Zeiten verhalten sich wie die vom Leitstrahl überstrichenen Flächen.
+Außerdem ist für die rechnerische Lösung bekannt, dass die Beobachtungen selbst von einem Kegelschnitt im Raum ausgehen, der Erdbahn selbst.
+
+Im Grundsatz führt das Problem auf eine Gleichung achten Grades, deren triviale Lösung die Erdbahn selbst ist.
+Durch umfangreiche Nebenbedingungen und die von Gauß entwickelte Methode der kleinsten Quadrate gelang es dem 24-Jährigen, für die Bahn der Ceres für den 25. November bis 31. Dezember 1801 den von ihm berechneten Ort anzugeben.
+Damit konnte Zach am letzten Tag der Vorhersage Ceres wiederfinden.
+Der Ort lag nicht weniger als 7° (d. h. 13,5 Vollmondbreiten) östlich der Stelle, wo die anderen Astronomen Ceres vermutet hatten, was nicht nur Zach, sondern auch Olbers gebührend würdigte.
+
+Diese Arbeiten, die Gauß noch vor seiner Ernennung zum Sternwarten-Direktor in Göttingen unternahm, machten ihn mehr noch als seine Zahlentheorie in Europa mit einem Schlag bekannt und verschafften ihm unter anderem eine Einladung an die Akademie nach Sankt Petersburg, deren Mitglied er 1802 wurde.
+
+Die in diesem Zusammenhang von Gauß gefundene iterative Methode wird noch heute angewandt, weil sie es einerseits ermöglicht, alle bekannten Kräfte ohne erheblichen Mehraufwand in das physikalisch-mathematische Modell einzubauen, und andererseits computertechnisch einfach handhabbar ist.
+
+Gauß beschäftigte sich danach noch mit der Bahn des Asteroiden Pallas, auf dessen Berechnung die Pariser Akademie ein Preisgeld ausgesetzt hatte, konnte die Lösung jedoch nicht finden.
+Seine Erfahrungen mit der Bahnbestimmung von Himmelskörpern mündeten jedoch 1809 in seinem Werk Theoria motus corporum coelestium in sectionibus conicis solem ambientium.
+
+=== Beiträge zur Potentialtheorie
+
+In der Potentialtheorie und Physik ist der gaußsche Integralsatz (1835, veröffentlicht erst 1867) grundlegend.
+Er identifiziert in einem Vektorfeld das Integral der Divergenz (Ableitungsvektor angewandt auf das Vektorfeld) über ein Volumen mit dem Integral des Vektorfeldes über die Oberfläche dieses Volumens.
+
+=== Landvermessung und Erfindung des Heliotrops
+
+Auf dem Gebiet der Geodäsie sammelte Gauß zwischen 1797 und 1801 die ersten Erfahrungen, als er dem französischen Generalquartiermeister Lecoq bei dessen Landesvermessung des Herzogtums Westfalen als Berater zur Seite stand.
+1816 wurde sein ehemaliger Schüler Heinrich Christian Schumacher vom König von Dänemark mit der Durchführung einer Breiten- und Längengradmessung in dänischem Gebiet beauftragt.
+Im Anschluss daran erhielt Gauss von 1820 bis 1826 die Leitung der Landesvermessung des Königreichs Hannover ("gaußsche Landesaufnahme"), wobei ihm zeitweise sein Sohn Joseph assistierte, der in der Hannoverschen Armee als Artillerieoffizier tätig war.
+Diese Vermessung setzte die dänische auf hannoverschem Gebiet nach Süden fort, wobei Gauß die von Schumacher gemessene Braaker Basis mitbenutzte.
+Durch die von ihm erfundene Methode der kleinsten Quadrate und die systematische Lösung umfangreicher linearer Gleichungssysteme (gaußsches Eliminationsverfahren) gelang ihm eine erhebliche Steigerung der Genauigkeit.
+Auch für die praktische Durchführung interessierte er sich:
+Er erfand als Messinstrument das über Sonnenspiegel beleuchtete Heliotrop.
+
+=== Gaußsche Krümmung und Geodäsie
+
+In diesen Jahren beschäftigte er sich - angeregt durch die Geodäsie und die Karten-Theorie - mit der Theorie der Differentialgeometrie der Flächen, führte unter anderem die gaußsche Krümmung ein und bewies sein Theorema egregium.
+Dieses besagt, dass die gaußsche Krümmung, die durch die Hauptkrümmungen einer Fläche im Raum definiert ist, allein durch Maße der inneren Geometrie, d. h. durch Messungen innerhalb der Fläche, bestimmt werden kann.
+Daher ist die gaußsche Krümmung unabhängig von der Einbettung der Fläche in den dreidimensionalen Raum, sie ändert sich also bei längentreuen Abbildungen von Flächen aufeinander nicht.
+
+Wolfgang Sartorius von Waltershausen berichtet, Gauß habe bei Gelegenheit der Hannoverschen Landesvermessung empirisch nach einer Abweichung der Winkelsumme besonders großer Dreiecke vom euklidischen Wert 180° gesucht - wie etwa bei dem von Gauß gemessenen planen Dreieck, das vom Brocken im Harz, dem Inselsberg im Thüringer Wald und dem Hohen Hagen bei Dransfeld gebildet wird.
+Max Jammer schrieb über diese gaußsche Messung und ihr Ergebnis:
+
+Der Winkelexzess in diesem Dreieck beträgt aufgrund der Größe der Erde nur 0,25 Winkelminuten.
+Die oben erwähnte Vermutung zur Motivation ist Gegenstand von Spekulationen.
+
+=== Magnetismus, Elektrizität und Telegrafie
+
+Zusammen mit Wilhelm Eduard Weber arbeitete er ab 1831 auf dem Gebiet des Magnetismus.
+Gauß erfand mit Weber das Magnetometer und verband so 1833 seine Sternwarte mit dem physikalischen Institut.
+Dabei tauschte er über elektromagnetisch beeinflusste Kompassnadeln Nachrichten mit Weber aus: die erste Telegrafenverbindung der Welt.
+Mit ihm zusammen entwickelte er das CGS-Einheitensystem, das 1881 auf einem internationalen Kongress in Paris zur Grundlage der elektrotechnischen Maßeinheiten bestimmt wurde.
+Er organisierte ein weltweites Netz von Beobachtungsstationen (Magnetischer Verein), um das erdmagnetische Feld zu vermessen.
+
+Gauß fand bei seinen Experimenten zur Elektrizitätslehre 1833 vor Gustav Robert Kirchhoff (1845) die Kirchhoffschen Regeln für Stromkreise.
+
+=== Sonstiges
+
+Von ihm stammt die Gaußsche Osterformel zur Berechnung des Osterdatums, und er entwickelte auch eine Pessach-Formel.
+
+== Arbeitsweise von Gauß
+
+Gauß arbeitete auf vielen Gebieten, veröffentlichte seine Ergebnisse jedoch erst, wenn eine Theorie seiner Meinung nach vollständig war.
+Dies führte dazu, dass er Kollegen gelegentlich darauf hinwies, dieses oder jenes Resultat schon lange bewiesen zu haben, es wegen der Unvollständigkeit der zugrundeliegenden Theorie oder der ihm fehlenden, zum schnellen Arbeiten nötigen Unbekümmertheit nur noch nicht präsentiert zu haben.
+
+Bezeichnenderweise besaß Gauß ein Petschaft, das einen von wenigen Früchten behangenen Baum mit dem Motto Pauca sed Matura ("Weniges, aber Reifes") zeigte.
+Einer Anekdote zufolge lehnte er es gegenüber Bekannten, die um Gauß' umfangreiche Arbeiten wussten, ab, diesen Wahlspruch zu ersetzen, z. B. durch Multa nec immatura ("Vieles, aber nicht Unreifes"), da er nach seinem Bekunden lieber eine Entdeckung einem anderen überließ, als sie nicht vollständig ausgearbeitet unter seinem Namen zu veröffentlichen.
+Das ersparte ihm Zeit in den Bereichen, die Gauß eher als Randthemen betrachtete, so dass er diese Zeit auf seine originäre Arbeit verwenden konnte.
+
+Gauß' wissenschaftlicher Nachlass wird in den Spezialsammlungen der Niedersächsischen Staats- und Universitätsbibliothek Göttingen aufbewahrt.
+
+== Sonstiges
+
+Nach seinem Tod wurde das Gehirn entnommen.
+Es wurde mehrfach, zuletzt 1998, mit verschiedenen Methoden untersucht, aber ohne einen besonderen Befund, der seine mathematischen Fähigkeiten erklären würde.
+Es befindet sich heute separat, in Formalin konserviert, in der Abteilung für Ethik und Geschichte der Medizin der Medizinischen Fakultät der Universität Göttingen.
+
+Im Herbst 2013 wurde an der Universität Göttingen eine Verwechslung aufgedeckt:
+Die zu diesem Zeitpunkt über 150 Jahre alten Gehirnpräparate des Mathematikers Gauß und des Göttinger Mediziners Conrad Heinrich Fuchs sind - wahrscheinlich schon bald nach der Entnahme - vertauscht worden.
+Beide Präparate wurden in der Anatomischen Sammlung der Göttinger Universitätsklinik in Gläsern mit Formaldehyd aufbewahrt.
+Das Originalgehirn von Gauß befand sich im Glas mit der Aufschrift "C. H. Fuchs", und das Fuchs-Gehirn war etikettiert mit "C. F. Gauss".
+Damit sind die bisherigen Untersuchungsergebnisse über das Gehirn von Gauß obsolet.
+Die Wissenschaftlerin Renate Schweizer befasste sich wegen der vom vermeintlichen Gehirn von Gauß angefertigten MRT-Bilder, die eine seltene Zweiteilung der Zentralfurche zeigten, erneut mit den Präparaten und entdeckte, dass diese Auffälligkeit in Zeichnungen, die kurz nach Gauß' Tod erstellt worden waren, fehlte.
+
+== Gauß als Namensgeber
+
+Von Gauß entwickelte Methoden oder Ideen, die seinen Namen tragen, sind:
+
+Methoden und Ideen, die teilweise auf seinen Arbeiten beruhen, sind:
+
+Zu seinen Ehren benannt sind:
+
+== Schriften
+
+=== Briefwechsel und Tagebuch
+
+=== Gesamtausgabe
+
+In den Bänden 10 und 11 finden sich ausführliche Kommentare von Paul Bachmann (Zahlentheorie), Ludwig Schlesinger (Funktionentheorie), Alexander Ostrowski (Algebra), Paul Stäckel (Geometrie), Oskar Bolza (Variationsrechnung), Philipp Maennchen (Gauß als Rechner), Harald Geppert (Mechanik, Potentialtheorie), Andreas Galle (Geodäsie), Clemens Schaefer (Physik) und Martin Brendel (Astronomie).
+Herausgeber war zuerst Ernst Schering, dann Felix Klein.
+
+=== Übersetzungen
+
+== Kartenwerke
+
+== Denkmäler
+
+=== Statuen und Plastiken
+
+=== Schriftliche Erinnerungskultur
+
+=== Gaußsteine
+
+Zu den zahlreichen auf Anleitung von Gauß aufgestellten Vermessungssteinen gehören:
+
+=== Bildnisse
+
+Von Gauß gibt es relativ viele Bildnisse, unter anderem:
+
+== Belletristische und filmische Darstellungen
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

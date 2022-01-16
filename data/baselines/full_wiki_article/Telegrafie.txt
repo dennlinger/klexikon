@@ -1,0 +1,93 @@
+Als Telegrafie (auch Telegraphie geschrieben, von altgriechisch  tele, deutsch ,fern' und av graphein ,einritzen, schreiben', siehe auch -graphie) wird eine Übermittlung von codierten Nachrichten über eine geographische Distanz bezeichnet, bei der keine Objekte zwischen Sende- und Empfangsort bewegt werden und deren Anfänge bis in die Antike zurückverfolgt werden können.
+Hierbei werden die Bestandteile eines zu übermittelnden Textes (wie Buchstaben, Ziffern und Satz- und ähnliche Zeichen) als einzelne Zeichen übertragen.
+Im Gegensatz zum Sprechfunk und der Telefonie wird bei der Telegrafie nicht gesprochen, sondern die Zeichen werden über einen Code übertragen.
+Eine übertragene Nachricht hieß telegrafische Depesche und ab 1852 auch Telegramm.
+Im Jahr 1898 wurde das erste bezahlte Funktelegramm übermittelt.
+Es bestehen verschiedene Formen der Telegrafie, die älteste ist die optische, bei der die Codes von Menschen noch manuell erzeugt und ausgewertet wurden.
+Besondere Telegrafen waren früher neben dem optischen Telegrafen (auch Semaphor genannt) die Feuer-, Feld-, Eisenbahn-, Haus- und Schiffstelegrafen.
+Bei der jüngeren, der elektrischen bzw. elektromagnetischen Telegrafie, bei der die Zeichen bereits in Form von Morsezeichen übertragen wurden (dementsprechend auch Morsetelegrafie genannt), war dies ebenfalls noch notwendig.
+Erst mit dem Zeigertelegrafen und später dem Fernschreiber wurde die Buchstabenkodierung automatisch durchgeführt.
+Je nach technischem Entwicklungsstand der verwendeten Geräte wuchsen die überbrückbaren Entfernungen, besonders mit den Erfindungen Unterseekabel und Funkentelegrafie im Ausgang des 19. Jahrhunderts.
+Spätestens um das Jahr 2000 endete aber die Verwendung von Telegrafietechnik in fast allen Bereichen wie kommerziellen Anwendungen und im Verkehrswesen, wie im maritimen Bereich beispielsweise im Seefunk oder im Flugverkehr beispielsweise bei ungerichteten Funkfeuern (NDB).
+Im Amateurfunkdienst und teilweise zur militärischen Nachrichtenübermittlung wird die Telegrafie bis in die Gegenwart genutzt.
+Im griechischen Drama Agamemnon aus dem Jahre 458 v. Chr. wird eine Form von Telegrafie mit optischer Übertragung erwähnt.
+In der Neuzeit wurden ebenfalls Geräte entwickelt, die einen optischen Übertragungsweg benutzten, allerdings nicht mehr in der historischen Form per Feuer- oder Rauchsignalen.
+In Europa begann das Zeitalter dieser moderneren optischen Telegrafie im 17. Jahrhundert.
+Sehr erfolgreich wurde das Turmsystem Claude Chappes.
+In Frankreich gab es beispielsweise über 500 Stationen.
+Die Übertragung einer Nachricht über eine Strecke von 20 Stationen dauerte lediglich etwa 2 Minuten.
+Die aufkommenden Techniken der elektrischen bzw. Funkentelegrafie im 19. Jahrhundert lösten die optische Telegrafie ab.
+Dennoch gibt es bis in die Gegenwart verschiedene Verfahren, bei denen der optische Übertragungsweg noch immer Anwendung findet, beispielsweise mit Lichtsignalen insbesondere bei Marineschiffen.
+Die kabelgebundene elektrische Telegrafie konnte sich erst nach 1730 durch die Erkenntnis, dass sich elektrischer Strom entlang eines Leiters bewegt, entwickeln.
+Elektrolyt-Telegrafen waren erst nach der Erfindung der Voltaschen Säule durch Alessandro Volta im Jahr 1800 möglich.
+1774 entwickelte und präsentierte Georges-Louis Le Sage in Berlin die weltweit erste Form der elektrischen Telegraphie, wobei er 24 verschiedene Drähte benutzte, einen für jeden Buchstaben des Alphabets.
+Dieser Telegraph verband zwei Räume miteinander.
+Es war ein elektrostatischer Telegraph, der durch elektrische Leitung Goldblättchen bewegte.
+Einer der ersten Pioniere auf dem Gebiet der elektrischen Telegraphie war der aus Barcelona stammende Arzt, Meteorologe und Physiker Francesc Salva i Campillo.
+Salva führte sein System 1795 der Reial Academia de Ciencies i Arts de Barcelona vor.
+Salva meinte damals schon, es würde eines Tages möglich sein, elektrische Impulse auch drahtlos zu übertragen.
+1804 baut Francesc Salva i Campillo in Spanien einen Elektrolyt-Telegrafen mit 26 Leitungen, an deren Enden sich Glasröhrchen befinden, in denen sich Flüssigkeit bei einem Stromstoß zersetzt.
+Der Anatom Samuel Thomas von Soemmerring konstruierte 1809 in München einen elektrischen Telegrafen, bei dem jedes Zeichen durch einen eigenen Leiter übertragen und durch elektrochemische Zersetzung des Wassers signalisiert wurde.
+Das Original befand sich bis 1905 im Besitz des Physikalischen Vereins in Frankfurt am Main.
+Es steht heute im Deutschen Museum in München, das Museum für Kommunikation Frankfurt besitzt ein Modell seiner Konstruktion.
+Nach den Forschungsarbeiten Michael Faradays zur elektromagnetischen Induktion im Jahre 1832 führten Wilhelm Weber und Carl Friedrich Gauß 1833 Versuche mit einem elektromagnetischen Telegrafen durch.
+Im selben Jahr gelang ihnen die erste telegrafische Nachrichtenübertragung vom Physikgebäude bei der Paulinerkirche in der Göttinger Innenstadt zur Göttinger Sternwarte.
+Zur Nachrichtenübertragung dienten positive oder negative Spannungspulse, die durch gezieltes Umpolen und Auf- und Abbewegen einer Induktionsspule erzeugt wurden.
+Die Spule wurde hierzu über ein Bündel von magnetisierten Stahlschienen geschoben.
+Ein Nachbau, den Weber für die Weltausstellung 1873 in Wien in Auftrag gab, wird in der historischen Sammlung des Ersten Physikalischen Instituts der Universität Göttingen aufbewahrt.
+Ein weiterer Nachbau befindet sich in der Telekommunikationsabteilung des deutschen Museums in München.
+1835 entwickelte Paul Schilling von Canstadt in St. Petersburg einen Nadeltelegrafen, der durch die Ausschläge einer kompassähnlich gelagerten Magnetnadel die Ziffern 1 bis 10 angab.
+Diesen sah der Engländer William Fothergill Cooke 1836 in Heidelberg.
+Zusammen mit Charles Wheatstone schuf dieser daraufhin 1837 die erste betriebssichere Signalleitung für eine Eisenbahnstrecke in England.
+Die Eisenbahngesellschaften trieben die Entwicklung maßgeblich voran, um Informationen schneller als die Züge selbst zu übertragen.
+Dieses System wurde dann auch für die ersten öffentlich genutzten elektrischen Telegrafiestrecken verwendet, in Deutschland zum Beispiel auf der ersten längeren europäischen Linie Bremen-Bremerhaven.
+Carl August von Steinheil konstruierte 1836 den ersten Drucktelegrafen , baute 1837 in München eine 5 km lange funktionierende Telegrafie-Verbindung und entdeckte 1838 bei Versuchen an den Gleisen der Ludwigseisenbahn in Fürth die elektrische "Erdrückleitung", was für die Telegrafie eine wesentliche Vereinfachung bedeutete.
+Er übermittelte Nachrichten mit Hilfe eines eigenen Codes (der Steinheilschrift).
+Ein nachhaltiger Fortschritt kam 1837 mit dem von Samuel Morse konstruierten und 1844 verbesserten Schreibtelegrafen.
+Um 1850 hatte sich Morses Technik auf den deutschen Telegrafenlinien, die sich in wenigen Jahren zu einem zusammenhängenden Netz geschlossen hatten, durchgesetzt.
+Mit der Verlegung von Seekabeln wurde 1850 begonnen (Dover-Calais).
+Der erste Versuch, ein Seekabel zwischen Europa und Nordamerika zu verlegen, gelang 1858 - das Kabel funktionierte jedoch nur einige Wochen und musste dann als unbrauchbar aufgegeben werden.
+Erst 1866 - nach weiteren kostspieligen Fehlschlägen - wurde eine dauerhafte Telegrafenverbindung von Valentia (Irland) nach Heart's Content (Neufundland) hergestellt.
+Im Jahr der Erfindung des elektrischen Telegrafen (1833) begann Israel Beer Josaphat aus Kassel in Göttingen seine Banklehre.
+Er begriff die Möglichkeiten der Erfindung und baute unter dem Namen Paul Julius Reuter ab 1851 von London aus die Nachrichtenagentur Reuters Telegraphic Comp.
+Incorporated auf .
+Um 1870 waren große Teile der Erde schon verkabelt.
+Weil es nur wenig Erfahrung mit der Lebensdauer insbesondere von Tiefseekabeln gab, bauten die Kabelbetreiber immer weiter.
+Zwischen den Telekommunikationsministerien der Länder wurden Verträge über Nutzung und Weiterleitung geschlossen.
+Häufig musste man wegen defekter eigener Telegrafiekabel auf die anderer Nationen ausweichen.
+Der Hauptgrund für eine sich verschlechternde Übertragungsqualität war die Korrosion der Isolierung der Kupferadern.
+Ende des 19. Jahrhunderts nahm die Nutzung der Telegrafie stark zu.
+So liefen zum Beispiel 1871 in einer typischen Woche etwa 60.000 telegrafische Nachrichten über die britischen Postämter, ein Jahr später waren es bereits über 200.000.
+Mit der Einführung des Fernschreibers begann der Niedergang der landgebundenen Telegrafie.
+In Australien und den USA endete sie in den 1960er-Jahren.
+Der Physiker Ferdinand Braun bekam 1909 den Nobelpreis für Physik für seinen Beitrag zur Entwicklung der Telegrafie per Funk.
+Er teilte sich den Preis mit Guglielmo Marconi, dem die praktische Umsetzung und die erste transatlantische Funkübertragung gelang.
+Braun hatte am 20. September 1898 eine erste drahtlose Nachrichtenübermittlung am Physikalischen Institut in Straßburg aufgebaut, die kurz darauf 30 km bis in den Vogesenort Mutzig reichte.
+Marconi gründete 1897 die Wireless Telegraph and Signal Company und errichtete, zunächst versuchsweise, die erste kabellose Verbindung über den Bristolkanal.
+Im gleichen Jahr errichtete Braun von Cuxhaven aus eine 3 km bis zur Kugelbake reichende Funkverbindung.
+Das erste bezahlte Funktelegramm der Geschichte wurde ein Jahr später gesendet.
+Es wurde von Marconi für Lord Kelvin von der Isle of Wight nach Bournemouth verschickt.
+Am 24. September 1900 wurde eine solche Verbindung über die 62 km lange Strecke Cuxhaven-Helgoland geschaffen.
+Am 12. Dezember 1901 gelang Marconi die erste transatlantische Funkübertragung zwischen Poldhu (Halbinsel The Lizard, Cornwall) und St. John's (Neufundland).
+Für die Funktelegrafie wurden in der Anfangszeit sogenannte Knallfunkensender eingesetzt, ab 1908 vorwiegend die daraus abgeleiteten Löschfunkensender.
+Löschfunkensender nutzen die gedämpften Schwingungen, die bei der elektrischen Ladung über einen Funken entstehen.
+(Die Verwendung von Funkenstrecken, die der Funktechnik ihren Namen gab, wurde schon bald durch andere Techniken ersetzt.) Die hochfrequenten Schwingungen wurden mit Hilfe einer Morsetaste nach dem Morsecode getastet und in eine Antenne eingespeist, sodass sie als Funkwellen abgestrahlt wurden.
+Der Empfänger bestand in der Anfangszeit aus einem sogenannten Kohärer (auch Fritter genannt), einem heute nicht mehr gebräuchlichen Bauelement, das in Abhängigkeit von hochfrequenten Schwingungen seinen elektrischen Widerstand ändert.
+Im ersten Jahrzehnt des 20. Jahrhundert wurde der Fritter nach und nach durch Möglichkeiten zum Hörempfang von Telegrafiesignalen ersetzt.
+Im Vergleich mit der Alternative Sprechfunk, also drahtloser Telefonie, hat die drahtlose Telegrafie Vor- und Nachteile:
+Die Morsetelegrafie wurde lange Zeit in der Schifffahrt eingesetzt.
+Bis Ende 1999 war Seeschiffen international vorgeschrieben, Notrufe in Morsecode absetzen zu können.
+Die große deutsche Küstenfunkstelle Norddeich Radio beendete ihre Kurzwellen-Telegraphie am 30. September 1996, einen Tag vor ihrem Kurzwellen-Sprechfunkdienst.
+Morsetelegrafie ("CW") ist bis heute eine der gängigen Betriebsarten für Funkverbindungen zwischen Funkamateuren.
+Nach verschiedenen Schätzungen kann die Hälfte von ihnen morsen bzw. sind ein Siebtel der deutschen Funkamateure aktive Morsetelegrafen.
+Auch spezielle Vereine widmen sich der Amateurfunktelegrafie.
+Neben den standardisierten Abkürzungen für den zeitsparenden Gebrauch im Funkverkehr haben sich im Amateurfunk zahlreiche weitere eingebürgert.
+Eine drahtlose Übertragungstechnik, wie sie auch die Funkentelegrafie anwendet, ist die Lichttelegrafie.
+Sie entstand infolge der Erfindung des Photophons von Alexander Graham Bell und Charles Sumner Tainter aus dem Jahre 1880.
+Hierbei wurden Buchstaben und Ziffern als akustische Morsesignale in einem mit Selenzelle erzeugten und mehreren Spiegeln abgelenkten und dann gebündelten Lichtstrahl gesendet.
+Durch Siemens & Halske in Deutschland und in Großbritannien im Auftrag der Admiralität erfolgte 1916 bis 1917 im Ersten Weltkrieg jeweils das Entwickeln militärischer Photophone mit einer speziellen Kombination aus u. a. Spiegel, Bogenlampe für eine Distanz von bis zu 15 Kilometern.
+Auch im Zweiten Weltkrieg kam es nochmals zum Einsatz von Geräten basierend auf dem Photophonprinzip.
+Bis in die Gegenwart entwickelten Technikamateure das Prinzip mittels Laser-, Infrarot- und jüngst LED-Technik weiter und erreichten dabei Übertragungen über Entfernungen bis etwa 100 Kilometer.
+Telegrafie stellte die erste Form weltumspannender Vernetzung von adressiertem Datenverkehr dar, bevor in der Folge Telefonie samt Fax und später Internet diese Funktion verbesserten und teilweise ablösten.
+Zuvor konnten Informationen nur durch materielles Reisen einer Person oder Versand von Poststücken zusammengetragen werden.
+Durch Schiffsfahrten und Nachforschungen stellte der österreichische Geowissenschafter Ferdinand von Hochstetter 1868 erstmals einen Zusammenhang zwischen einem Erdbeben in Peru und fernen Wellen im Pazifik, etwa in Neuseeland her und beschrieb somit erstmals das Phänomen Tsunami, und zwar bevor hier noch entsprechend weitlaufende Kommunikationsnetze in Form von Seekabel oder Funk vorlagen.

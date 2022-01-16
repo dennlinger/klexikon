@@ -1,0 +1,373 @@
+Als Immunsystem (von lateinisch immunis ,unberührt, frei, rein') wird das biologische Abwehrsystem höherer Lebewesen bezeichnet, das Gewebeschädigungen durch Krankheitserreger verhindert.
+Dieses körpereigene Abwehrsystem entfernt in den Körper eingedrungene Mikroorganismen, fremde Substanzen und ist außerdem in der Lage, fehlerhaft gewordene körpereigene Zellen zu zerstören.
+Das Immunsystem ist ein komplexes Netzwerk aus verschiedenen Organen, Zelltypen und Molekülen und der zentrale Forschungsgegenstand der Immunologie.
+
+Das Immunsystem hat eine große Bedeutung für die körperliche Unversehrtheit von Lebewesen, denn praktisch alle Organismen sind ständig den Einflüssen der Umwelt ausgesetzt; manche dieser Einflüsse stellen eine Bedrohung dar:
+Wenn schädliche Mikroorganismen in den Körper eindringen, kann dies zu Funktionsstörungen und Krankheiten führen.
+Typische Krankheitserreger sind Bakterien, Viren und Pilze sowie einzellige (z. B. Protozoen wie Plasmodien) beziehungsweise mehrzellige Parasiten (z. B. Bandwürmer).
+
+Auch Veränderungen im Inneren des Körpers können die Existenz eines Lebewesens bedrohen:
+Wenn normale Körperzellen im Laufe der Zeit ihre gesunde Funktion verlieren, dann sterben sie meist ab und müssen abgebaut werden (Nekrose) oder bauen sich dabei selbst ab (Apoptose).
+In seltenen Fällen können sie auch krankhaft entarten und zur Entstehung von Krebs führen.
+
+Alle Lebewesen verfügen daher über Schutzfunktionen.
+Schon einfache Organismen besitzen solche Abwehrmechanismen, die eine so genannte angeborene Immunantwort vermitteln.
+Diese entstand bereits sehr früh in der Stammesgeschichte der Lebewesen und wurde seitdem weitgehend unverändert beibehalten.
+Die Wirbeltiere entwickelten zusätzlich eine komplexe, anpassungsfähige, so genannte adaptive Immunabwehr, die sie noch effektiver vor Krankheitserregern schützt.
+
+Die pflanzliche Immunantwort hat Ähnlichkeiten mit der angeborenen Immunantwort bei Tieren.
+Pflanzen besitzen keine adaptive Immunantwort, also auch keine T-Zellen oder Antikörper.
+
+== Einteilung
+
+Es gibt zwei grundlegend verschiedene Mechanismen der Immunabwehr, je nachdem, ob diese angeboren und daher in gewisser Weise (vgl. aber unten: bow-tie-architecture) erregerunspezifisch, oder ob diese erworben und daher erregerspezifisch ist.
+
+=== Angeborene oder unspezifische Immunabwehr
+
+Schon sehr früh in der Stammesgeschichte der Lebewesen entwickelte sich die unspezifische oder angeborene Immunabwehr (engl. innate immunity).
+Dazu zählen anatomische und physiologische Barrieren wie Epithelien, aber auch zellvermittelte Gegenwehr durch Phagozytose, sowie allgemein entzündliche Reaktionen und das Komplementsystem.
+Die angeborene Immunantwort findet innerhalb von Minuten statt, ist aber durch die Erbinformation lebenslang festgelegt.
+
+=== Adaptive oder spezifische Immunabwehr
+
+Die spezifische oder adaptive Immunabwehr, früher auch "erworbenes Immunsystem" genannt, entwickelte sich im Laufe der Phylogenese der Wirbeltiere aus der angeborenen Immunabwehr.
+Sie zeichnet sich durch die Anpassungsfähigkeit gegenüber neuen oder veränderten Krankheitserregern aus.
+Im Rahmen dieser Anpassung sind die Zellen der adaptiven Immunabwehr in der Lage, spezifische Strukturen (Antigene) der Angreifer zu erkennen und gezielt zelluläre Abwehrmechanismen und molekulare Antikörper zu bilden.
+Neben Antigenpräsentierenden Zellen (APC) wie Dendritischen Zellen, stellen zwei Gruppen von Zellen die wesentlichen Elemente der adaptiven Immunität dar.
+Die T-Lymphozyten, welche zum einen die zellvermittelte Immunantwort gewährleisten und zum anderen die B-Lymphozyten unterstützen, sowie die B-Lymphozyten selbst, die für die humorale Immunität verantwortlich sind, also für jene Abwehrmaßnahmen, die sich über sezernierte Antikörper gegen Eindringlinge in den Körperflüssigkeiten (Humores) richten.
+Nach der Infektion bleiben spezifische Antikörper und Gedächtniszellen erhalten, um bei erneutem Kontakt mit dem Krankheitserreger binnen kurzer Zeit eine angemessene Abwehrreaktion zu ermöglichen.
+
+Das adaptive Immunsystem ersetzt aber nicht das angeborene, sondern arbeitet mit diesem zusammen.
+Die verschiedenen Bestandteile des Immunsystems bedingen sich gegenseitig.
+Erst durch ein gut koordiniertes Zusammenspiel der angeborenen und adaptiven Immunabwehr wird die komplexe Immunreaktion des Körpers ermöglicht.
+
+Erst in den Jahren 2005-2007 wurde das CRISPR-Cas-System in vielen Bakterien und Archaeen entdeckt.
+Es ist ein vollständiges adaptives Immunsystem gegen Viren und mobile DNA.
+
+== Bestandteile
+
+Die Bestandteile des Immunsystems sind:
+
+=== Mechanische und biochemische Barrieren
+
+Die mechanischen und biochemischen Barrieren und Abwehrmechanismen des Körpers sind die erste Verteidigungslinie gegen Krankheitserreger.
+Sie sorgen dafür, dass die Pathogene erst gar nicht in den Körper eindringen können oder ihn möglichst schnell wieder verlassen:
+
+=== Zelluläre Bestandteile
+
+Die Zellen des Immunsystems zirkulieren in den Blutgefäßen und Lymphbahnen und kommen in den Geweben des Körpers vor.
+Dringt ein Krankheitserreger in den Körper ein, so können die Abwehrzellen ihn bekämpfen.
+Neutrophile Granulozyten, Monozyten/Makrophagen und dendritische Zellen können beispielsweise durch Aufnahme und Verdauung (Phagocytose) den Erreger selbst vernichten oder durch die Produktion von Immunmodulatoren und Zytokinen die Immunreaktion des Organismus steuern und andere Abwehrzellen zum Ort der Entzündung locken.
+
+==== Granulozyten
+
+Granulozyten (von lateinisch Granulum ,Körnchen') machen den Großteil der weißen Blutkörperchen (Leukozyten) aus.
+Sie können die Blutbahn verlassen und ins Gewebe einwandern.
+Granulozyten haben in ihrem Zytoplasma zahlreiche Bläschen (Vesikel oder Granula genannt), die aggressive Stoffe enthalten, mit denen Krankheitserreger unschädlich gemacht werden können.
+Andere Stoffe (beispielsweise Histamin) spielen bei der Entzündungsreaktion und bei Allergien eine Rolle.
+Die unterschiedlichen Gruppen von Granulozyten werden nach ihrer Färbereaktion in der Giemsa-Färbung eingeteilt.
+
+Die Neutrophilen Granulozyten (auch: Neutrophile) machen 40 bis 50 Prozent der zirkulierenden Leukozyten aus.
+Aktiviert durch Zytokine, die vom Ort der Infektion ausgesondert werden, wandern sie aus den Blutgefäßen in das betroffene Gewebe ein.
+Die Granula der Neutrophilen enthalten unter anderem saure Hydrolasen, Defensine (30 % des Inhalts), Myeloperoxidase und Proteasen, wie Elastase, Kollagenase, Neuraminidase und Cathepsin G.
+Dieser "Cocktail" ermöglicht es den Neutrophilen, sich einen Weg durch das Gewebe zu bahnen und zu den Bakterien vorzudringen.
+Dort sind sie in der Lage, Krankheitserreger (beispielsweise Bakterien) unter anderem durch Phagozytose zu vernichten.
+
+Eosinophile Granulozyten (auch: Eosinophile) machen etwa 3-5 Prozent der Zellen im Differentialblutbild aus.
+Ihren Namen beziehen sie vom Farbstoff Eosin, mit dem sie angefärbt werden können.
+Auch Eosinophile sind zur Chemotaxis befähigt, d. h., sie können sich in Richtung eines Entzündungsortes fortbewegen.
+Eosinophile enthalten in ihren Granula basische Proteine, zum Beispiel das Major Basic Protein, die sie nach Stimulation durch Antikörper der IgE-Klasse freisetzen.
+Eosinophile spielen eine wichtige Rolle bei der Parasitenabwehr; bei einem Befall mit Parasiten kommt es daher zu einer starken Vermehrung der Eosinophilen im Blut.
+Auch bei Allergien ist die Anzahl der Eosinophile im Blut erhöht, was darauf hinweist, dass die Eosinophilen auch bei dieser Erkrankung eine - wenig zuträgliche - Rolle spielen.
+
+Basophile Granulozyten (auch: Basophile) besitzen zahlreiche grobe unregelmäßige Granula, die unter anderem Histamin und Heparin enthalten.
+Im Differentialblutbild machen sie nur einen geringen Anteil aus (< 2 Prozent).
+Wenn ihre Rezeptoren durch an IgE gebundene Allergene stimuliert werden, schütten Basophile toxische Mediatoren, wie Histamin und Plättchenaktivierenden Faktor (PAF) aus.
+Über die physiologische Bedeutung der Basophilen besteht aber weitgehend Unklarheit.
+
+==== Makrophagen
+
+Makrophagen (Riesenfresszellen) stellen ebenfalls einen Teil der Patrouille des Immunsystems dar.
+Makrophagen reifen aus Monozyten (einkernige weiße Blutkörperchen = mononukleäre Leukozyten) heran, welche die Blutbahn verlassen.
+Makrophagen halten sich im Gewebe auf, dort erkennen und fressen (phagozytieren) sie eingedrungene Erreger.
+Können die Erreger nicht durch die Makrophagen allein bekämpft werden, so können Makrophagen die adaptive Immunabwehr aktivieren.
+Dazu werden die aufgenommenen Teile der Erreger im Inneren der Makrophagen in einzelne Peptide (Epitope) zerlegt und durch MHC-II-Moleküle auf der Oberfläche präsentiert.
+Der Makrophage wird also zu einer Antigen-präsentierenden Zelle.
+Die Antigene können erst dadurch von T-Helferzellen erkannt werden, die daraufhin eine adaptive Immunantwort initiieren, die letztendlich zur Vernichtung des Erregers führt.
+Makrophagen spielen außerdem bei der Bekämpfung und Beseitigung von schädlichen Substanzen und Abfallprodukten (beispielsweise Teer aus Zigarettenrauch in der Lunge) eine entscheidende Rolle, weshalb sie gelegentlich auch als "Müllabfuhr des Körpers" bezeichnet werden.
+
+==== Natürliche Killerzellen
+
+Die 1975 entdeckten Natürlichen Killerzellen (NK-Zellen) sind Teil der angeborenen Immunabwehr.
+Obwohl NK-Zellen keine antigenspezifischen Rezeptoren auf ihrer Oberfläche tragen, werden sie zu den Lymphozyten gezählt, da sie eine gemeinsame Vorläuferzelle im Knochenmark haben.
+
+NK-Zellen sind eine der ersten Verteidigungslinien im Kampf gegen Infektionen und Krebs, weil sie infizierte Zellen vernichten können, ohne vorher mit dem Krankheitserreger selbst in Kontakt gewesen zu sein.
+Sie verwenden dazu einen Mechanismus, der in den 1980er Jahren von dem schwedischen Immunologen Klas Kärre entdeckt wurde und als Fehlendes Selbst (englisch missing self) bezeichnet wird.
+NK-Zellen erkennen unter anderem den MHC-I-Komplex, der auf nahezu allen gesunden Körperzellen vorkommt.
+Wird eine Zelle durch Viren infiziert oder wandelt sie sich in eine Tumorzelle um, so geht unter Umständen der MHC-I-Komplex auf der Oberfläche verloren.
+Das fein ausbalancierte Gleichgewicht von inhibierenden und aktivierenden Rezeptorsignalen wird dadurch zugunsten der NK-Zell-Aktivierung verschoben und die erkrankte Zelle fällt einer durch NK-Zellen ausgelösten Immunreaktion anheim.
+
+==== Dendritische Zellen
+
+Dendritische Zellen sind Zellen des Immunsystems, die sich je nach Typ aus Monozyten oder Vorläufern der T-Zellen entwickeln.
+Sie nehmen als Fresszellen (Phagozyten) Krankheitserreger auf, wandern in den nächsten Lymphknoten, und stimulieren die adaptive Immunabwehr indem sie die Antigene des zerlegten Erregers an ihrer Oberfläche den T-Lymphozyten präsentieren.
+Es genügt eine dendritische Zelle, um 100 bis 3.000 Antigen-spezifische T-Zellen zu aktivieren.
+Dies macht sie effizienter als z. B. Monozyten.
+Dendritische Zellen sorgen auch für immunologische Toleranz gegenüber Selbstantigenen.
+Sie kommen vor allem in der Haut und in den Schleimhäuten vor.
+Dendritische Zellen können auch mit B- und NK-Zellen interagieren.
+
+==== T-Lymphozyten
+
+T-Lymphozyten, auch T-Zellen genannt, entstehen im Knochenmark aus den Lymphoblasten und wandern in den Thymus, wo sie ausreifen (daher das T, von Thymus-abhängig).
+T-Zellen tragen an ihrer Oberfläche einen T-Zell-Rezeptor (TCR), mit dem jede T-Zelle jeweils ein spezifisches Antigen erkennen kann (Schlüssel-Schloss-Prinzip).
+Im Gegensatz zu den B-Lymphozyten, die auch freie Antigene erkennen, erkennen T-Zellen nur Antigene, die im Komplex mit MHC-Molekülen auf den Oberflächen von körpereigenen Zellen präsentiert werden.
+Die unterschiedlichen Typen von T-Zellen werden eingeteilt nach den Proteinen auf ihrer Zellmembran, die gleichzeitig für die Funktionen der Zellen wichtig sind:
+T-Helferzellen tragen beispielsweise das CD4-Protein (die Abkürzung CD steht für engl. Cluster of differentiation), die zytotoxischen T-Zellen haben das CD8-Protein auf ihrer Oberfläche.
+
+Die T-Helferzellen koordinieren die Immunreaktion.
+Sie erkennen über ihren spezifischen T-Zell-Rezeptor Antigene, die ihnen von den antigenpräsentierenden Zellen (dendritische Zellen, Makrophagen, B-Lymphozyten) auf MHC-II-Komplexen dargeboten werden.
+Diese Aktivierung veranlasst die T-Helferzelle sich zu teilen und ihre Botenstoffe freizusetzen: die Lymphokine der Zellen vom Subtyp TH1 führen dabei eher zur Verstärkung der zellulären Immunantwort, während TH2-Zellen mehr die Produktion von Antikörpern stimulieren.
+
+Die Mitte der 1990er erstmals beschriebenen regulatorischen T-Zellen tragen neben dem CD4-Rezeptor noch andere Proteine an ihrer Oberfläche (CD25, FoxP3).
+Ihre Aufgabe ist die Modulation der Immunreaktion.
+Des Weiteren sind regulatorische T-Zellen vermutlich für die Unterdrückung einer überschießenden Immunantwort auf ansonsten 'harmlose' Antigene und Toleranzentwicklung gegen körpereigene Strukturen zuständig.
+
+Die zytotoxischen T-Zellen können Antigene erkennen, die ihnen mithilfe der MHC-I-Komplexe präsentiert werden - körpereigene Zellen, die durch Krankheitserreger (zum Beispiel Viren) befallen sind, melden so ihren Zustand an das Immunsystem.
+Die zytotoxischen T-Zellen heften sich dann mit ihren T-Zell-Rezeptoren an diese Körperzellen; bei diesem Vorgang spielt ihr CD8-Rezeptor eine entscheidende Rolle.
+Wenn sich noch weitere Rezeptoren, zum Beispiel der CD28-Rezeptor der zytotoxischen T-Zellen, an das fremde Eiweiß geheftet haben, beginnen sich die T-Zellen schnell zu vermehren, und schütten Substanzen aus, welche die infizierte oder krankhaft veränderte Zelle absterben lassen (sogenannte Apoptose, programmierter Zelltod).
+
+==== B-Lymphozyten
+
+B-Lymphozyten, oder kurz B-Zellen, gehören ebenfalls zu den Leukozyten (weiße Blutkörperchen).
+Die Bezeichnung "B-Zellen" stammte ursprünglich von ihrem Bildungsort in der Bursa Fabricii bei Vögeln.
+Bei Säugetieren entstehen die B-Zellen, wie alle anderen Abwehrzellen auch, im Knochenmark, daher erhielt der Buchstabe B hier nachträglich die Bedeutung bone marrow (engl. für ,Knochenmark').
+Bindet eine B-Zelle an den Stoff (Antigen), der zu ihrem Rezeptor passt, kann sie durch Lymphokine aktiviert werden, die von aktivierten T-Helferzellen ausgeschüttet werden.
+Die derart aktivierten B-Zellen können sich daraufhin zu antikörperproduzierenden Plasmazellen oder zu Gedächtniszellen entwickeln.
+
+B-Zellen sind im Gegensatz zu T-Zellen in der Lage, auch freie Antigene zu erkennen und sie einer Immunreaktion zuzuführen.
+
+=== Humorale Bestandteile
+
+Die humoralen Bestandteile des Immunsystems (von humor ,Flüssigkeit') bezeichnen verschiedene Plasmaproteine, die passiv im Blut, bzw. der Lymph- und Gewebsflüssigkeit zirkulieren.
+Sie sind im Gegensatz zu den Abwehrzellen nicht in der Lage, aktiv an den Ort einer Infektion zu wandern.
+
+==== Antikörper
+
+Zur Abwehr von in den Organismus eingedrungenen Bakterien, Bakterientoxinen, Viren oder anderen Fremdstoffen produzieren die B-Lymphozyten und Plasmazellen maßgeschneiderte Antikörper, die bestimmte Proteine oder auch Zuckerketten (Antigene) an der Oberfläche der Fremdstoffe erkennen und sich an diese heften können.
+Antikörper haben prinzipiell drei Funktionen:
+
+Die einfachsten Antikörper, die der so genannten IgG-Klasse, bestehen aus zwei identischen schweren Ketten und zwei identischen leichten Ketten.
+Die schweren Ketten sind unter anderem für die Verankerung des Antikörpers auf der Oberfläche von Granulozyten zuständig; die leichten Ketten bilden zusammen mit den schweren Ketten die für die Erkennung eines spezifischen Antigens verantwortliche Antigendeterminante im Fab-Fragment.
+Durch somatische Rekombination, somatische Hypermutation und Kombination verschiedener leichter und schwerer Ketten können Antikörper mehr als 100 Millionen verschiedene Fab-Fragmente bilden und damit eine Unzahl verschiedener Antigene erkennen.
+
+==== Komplementsystem
+
+Das Komplementsystem ist Teil der angeborenen Immunantwort, es besteht aus einer Gruppe von über 30 Plasmaproteinen mit ganz unterschiedlichen Eigenschaften.
+Ein Teil der zum Komplementsystem gehörenden Proteine sind zum Beispiel Proteasen, die sich an Mikroorganismen binden können und die Zellwände des Eindringlings schädigen, wodurch der Eindringling zerstört wird.
+Andere Proteine des Komplementsystems, die Anaphylatoxine, haben gefäßerweiternde Wirkung und fördern die Entzündungsreaktion.
+Viele Komplementfaktoren können außerdem Abwehrzellen zum Ort der Infektion locken und sind in der Lage, Fresszellen zu aktivieren, die die Eindringlinge dann verschlingen.
+
+==== Interleukine
+
+Die zu den Zytokinen gehörenden Interleukine sind körpereigene Botenstoffe, die von den Zellen des Immunsystems gebildet werden.
+Man kennt heutzutage bereits eine große Zahl von Interleukinen (IL-1 bis IL-35; Stand November 2009), die jeweils auf ganz unterschiedliche Abwehrzellen wirken - manche regen beispielsweise Leukozyten zu Wachstum, Reifung und Teilung an oder sorgen für deren Aktivierung.
+
+== Ablauf einer Immunreaktion
+
+Falls Erreger die mechanischen Barrieren überwinden, mit denen sich der Körper vor einer Infektion schützt, so hängt der Ablauf der Immunreaktion davon ab, ob das Immunsystem bereits zuvor einmal einen Kontakt mit diesem bestimmten Erreger hatte.
+
+Bei einer Erstinfektion beginnt die Immunreaktion meist mit den antigenpräsentierenden Zellen, hierzu gehören z. B. Makrophagen oder dendritische Zellen; diese Zellen sind als Teil der angeborenen Immunabwehr in der Lage, typische Merkmale von Krankheitserregern zu erkennen, ohne zuvor mit diesem Erreger Kontakt gehabt zu haben.
+Sie können die Krankheitserreger aufnehmen (phagozytieren) und in ihrem Inneren einschließen - förmlich "fressen", daher werden sie auch als Fresszellen bezeichnet.
+Anschließend präsentieren sie Bruchstücke der Erreger an ihrer Oberfläche den Zellen der adaptiven Immunabwehr (B- und T-Lymphozyten), die daraufhin in einen aktivierten Zustand übergehen.
+Einige Abwehrzellen können daraufhin die Erreger durch Phagozytose oder die Ausschüttung aggressiver Substanzen direkt abtöten, andere beginnen mit der Produktion von Antikörpern, die an die Erreger binden und diese einerseits bewegungsunfähig und damit unschädlich machen, andererseits sie für die Vernichtung durch weitere Abwehrzellen markieren.
+Nach der ersten Infektion mit einem Erreger bleiben die Antikörper und so genannte Gedächtniszellen erhalten, um bei einer erneuten Infektion wesentlich schneller und effizienter auf den Eindringling reagieren zu können.
+
+Ob nach einer Infektion tatsächlich auch eine Erkrankung auftritt, hängt von einem komplexen Wechselspiel des Immunsystems mit dem (ungebetenen) Gast ab.
+Eine Rolle spielen etwa die Menge der eingebrachten Erreger und deren krankmachenden Eigenschaften (Virulenz), sowie der Zustand des Immunsystems der betroffenen Person.
+So kann durch vorherigen Kontakt mit diesem Erreger bereits eine Immunität bestehen, die Erregerdosis oder -virulenz für einen Krankheitsausbruch zu gering sein oder das Immunsystem in der Lage sein, trotz Infektion Krankheitssymptome zu verhindern .
+Bei intaktem Immunsystem und geringer Erregerdosis kann also eine Erkrankung wie beispielsweise eine Erkältung entweder überhaupt nicht ausbrechen oder einen weniger schweren Verlauf nehmen.
+Solange sich keine eindeutigen Symptome zeigen, kann der Verlauf einer Infektion kaum oder gar nicht vorhergesagt werden.
+
+Wenn ein Krankheitserreger oder eine Tumorzelle keine Immunantwort erzeugt, dem Immunsystem also entkommt, wird dies als Immunescape bezeichnet.
+
+== Reifung und Alterung
+
+Das Immunsystem eines Neugeborenen ist noch unreif.
+Es erhält aber bereits vor der Geburt mütterliche IgG-Antikörper über die Plazenta.
+Bei vielen Säugetieren können Antikörper die Plazenta gar nicht passieren, die Aufnahme erfolgt dann über das Antikörper-reiche Kolostrum.
+Der sogenannte Nestschutz hilft den Babys in den ersten Monaten.
+Darüber hinaus kann Stillen durch unspezifische sIgAs, die sich den Schleimhäuten anlagern, noch etwas länger vor Infektionen der oberen Atemwege und Magen/ Darmkeimen schützen.
+Da die transplacentalen Antikörper im Blut des Babys mit einer Halbwertszeit von ungefähr 3 Wochen abgebaut werden, stellt sich innerhalb 3 bis 12 Monate nach Geburt ein IgG-Mangel im Serum ein; infolgedessen erhöht sich das Infektionsrisiko.
+Dagegen steigt der eigene IgM-Spiegel an, was darauf hinweist, dass das adaptive Immunsystem nach der Geburt unmittelbar aktiv wird.
+IgG und IgA des Babys können etwa erst ab Monat 6 im Serum deutlich nachgewiesen werden und erhöhen sich kontinuierlich, bis nach mehreren Jahren die Werte von Erwachsenen erreicht werden.
+Diese initiale Verzögerung liegt an der Unreife der T-Zellen, so dass der Klassenwechsel anfangs ineffizient ist.
+
+Das kindliche Immunsystem ist bei Geburt überwiegend auf Anti-Inflammation eingestellt:
+es sind keine NK-Zellen nachweisbar, es liegen unreife B-Zellen vor und es gibt eine verstärkte T-Suppressoraktivitat (wegen dominant vorliegenden TH2- und regulatorischen T-Zellen).
+Dies soll eine TH1-dominierte Antwort unterdrücken, um den Körper vor Abstoßungsreaktionen zu schützen.
+Für eine erfolgreiche Abwehr von Infektionserregern bedarf es daher einer Umstellung.
+Durch die Besiedlung von Mikroorganismen werden Signale für einen Wechsel ausgelöst und das Immunsystem trainiert.
+Auch Lebendimpfungen tragen dazu durch sogenannte heterologe Effekte bei; diese können die Kindersterblichkeit stärker als erwartet senken und die Häufigkeit von Infektionen auch gegenüber nicht-geimpften Krankheiten reduzieren.
+
+Neuere Untersuchungen zeigen aber, dass die T-Zellen Neugeborener durchaus mit einer entzündlichen Reaktion reagieren können (Pro-Inflammation) und nicht notwendigerweise unterdrückt werden.
+So setzen T-Zellen Interleukin-8 (IL-8) frei, das u. a. neutrophile Granulozyten rekrutiert.
+Diese gehen dann unspezifisch gegen schädlichen Eindringlinge vor.
+IL-8 produzierende T-Zellen sind in Erwachsenen dagegen selten vorhanden, so dass sich T-Zellen Neugeborener von denen Erwachsener qualitativ unterscheiden.
+
+In den ersten Lebensmonaten beginnt das Immunsystem, sich auf die Abwehr von Krankheitszellen vorzubereiten.
+Dies geschieht durch einen Vorgang der negativen Selektion; das heißt, der Körper bildet zunächst durch zufällige genetische Rekombination viele Millionen unterschiedlicher Abwehrzellen, von denen eine jede ein anderes Antigen erkennen kann.
+Im Anschluss werden solche Zellen eliminiert, die eine Immunreaktion auf körpereigene Strukturen veranlassen würden (Diesen Vorgang fasst man unter dem Begriff Selbsttoleranz zusammen).
+Bei den T-Zellen geschieht dies im Thymus, der Reifungsstätte der T-Zellen.
+Hier differenzieren sich die T-Zellen in die verschiedenen Typen (wie CD4+ und CD8+ Zellen) und werden anschließend mit körpereigenen Substanzen konfrontiert.
+Wenn eine T-Zelle einen dazu passenden Rezeptor trägt und an die körpereigene Struktur bindet, stirbt die T-Zelle ab.
+Das Immunsystem lernt so "fremd" von "eigen" zu unterscheiden.
+
+Das Immunsystem erreicht bei Jugendlichen volle Funktionalität.
+Statistisch gesehen sind Jugendliche oder Erwachsene seltener krank als Neugeborene/ Kleinkinder oder ältere Personen, da noch ständig neue T-Zellen im Thymus gebildet werden.
+Die T-Zellen-Bildung nimmt aber allmählich im Erwachsenenalter ab, parallel zur Menge naiver T-Zellen.
+Die Zusammensetzung des T-Zellen-Pools ändert sich daher in eine ungünstige Richtung.
+
+Mit fortschreitendem Lebensalter, etwa ab 60, steigert sich die Anfälligkeit des Menschen gegenüber Krankheiten und anderen Störungen wieder.
+Dies liegt vor allem daran, dass sich im Alter die Bildung von B- und T-Lymphozyten verringert.
+Dies kann beispielsweise bei Influenza-Infektionen problematisch werden, da weniger influenzaspezifische T-Zellen und eine geringere, wirksame Menge Influenza-Hämagglutinin-spezifischer Antikörper (sog.r niedrigerer Antikörpertiter) gebildet werden, sei es nach einer Impfung oder nach einer Infektion.
+Die Immunoseneszenz betrifft innates und adaptives Immunsystem, ist aber nicht notwendigerweise vom Lebensalter selbst abhängig.
+Des Weiteren sind die Abwehrzellen insgesamt weniger aktiv, was zu einer Schwächung der Immunabwehr führt, einhergehend mit erhöhtem Infekt- und Krebsrisiko.
+Zudem erhöht sich das basale Inflammationsniveau.
+
+== Störungen und Erkrankungen
+
+Wie bei allen biologischen Systemen können sich auch beim Immunsystem Fehler einschleichen.
+So kann das Immunsystem seine Fähigkeit verlieren, auf Erreger oder körpereigene Zellen angemessen zu reagieren: je nach Ursache der Störung kommt es entweder zu einer zu schwachen oder gar fehlenden Immunantwort oder zu einer zu starken, überschießenden Immunreaktion.
+Auch die Zellen des Immunsystems können maligne entarten und eine Krebserkrankung auslösen.
+Ebenso wird ein Einfluss von depressiven Störungen, Stress und anderen psychischen Erkrankungen auf das Immunsystem vermutet.
+
+=== Immundefekte
+
+Fehlen einzelne Komponenten der Immunantwort oder funktionieren diese nicht mehr richtig, so kann das Immunsystem Krankheitserreger nicht mehr effektiv bekämpfen und selbst Erkrankungen, die normalerweise harmlos sind, können lebensbedrohliche Verläufe annehmen.
+Immundefekte können angeboren oder erworben sein:
+
+=== Überschießende Immunantwort
+
+=== Krebserkrankungen
+
+Auch die Zellen des Immunsystems können bösartig entarten und so zu Krebserkrankungen führen, die meist den gesamten Körper befallen und sich vor allem in den Organen des Immunsystems abspielen und zur Abnahme der Immunabwehr und Verdrängung der normalen Blutbildung im Knochenmark führen.
+Durch die große Zahl unterschiedlicher Zellen und deren Vorläufer gibt es eine Vielzahl von verschiedenen Krebserkrankungen mit ganz unterschiedlichen Symptomen und Krankheitsverläufen, die aber grob in zwei Gruppen eingeteilt werden können:
+Geht der Krebs von den Vorläuferzellen im Knochenmark aus, so spricht man von Leukämien, die akut oder chronisch verlaufen können.
+Bösartige Tumoren der Lymphknoten nennt man Lymphknotenkrebs oder malignes Lymphom.
+
+Andererseits ist ein therapeutischer Ansatz bei Krebserkrankungen, die Krebsimmuntherapie, die Aktivierung des Immunsystems gegen Tumorzellen.
+
+=== Sonstige Schwachpunkte
+
+== Einflüsse
+
+Bei einem intakten Immunsystem spricht man von Immunkompetenz.
+Die Abwehrfunktion kann auf verschiedene Weise positiv oder negativ beeinflusst werden.
+
+=== Allgemeine Stärkung
+
+Die einfachste Stärkung des körperlichen Immunsystems oder des psychischen Immunsystems besteht darin, sämtliche "schwächende" Faktoren zu vermindern, beispielsweise
+
+Die Redewendungen "Stärkung des Immunsystems" und "Stärkung der Abwehrkräfte" werden häufig als Claim in der Werbung für Nahrungsergänzungsmittel, Functional Food und alternativmedizinische Heilmittel verwendet.
+So nimmt auch das Heilfasten für sich in Anspruch, das Immunsystem zu stärken.
+Problematisch sind hierbei fehlende medizinische Definitionen dafür, was unter "Stärkung" zu verstehen ist.
+Solche Verweise auf allgemeine, nichtspezifische Vorteile eines Produkts sind nach EU-Recht laut Artikel 10 Absatz 3 der Health-Claims Verordnung verboten, sofern ihnen nicht eine durch die Europäische Behörde für Lebensmittelsicherheit genehmigte spezielle gesundheitsbezogene Angabe beigefügt ist.
+Für eine Aufnahme in die entsprechende Positivliste genehmigter Angaben muss die Art und Weise, in der das Produkt auf das Immunsystem wirkt, angegeben und die Wirksamkeit wissenschaftlich belegt werden.
+
+Auch Methoden aus dem Fitness- und Wellnessbereich werden als Maßnahmen zur "Steigerung der Immunfunktion" beworben, was dann in Einzelfällen mit Studien zu speziellen Funktionen des Immunsystems belegt werden soll.
+Eine Meta-Analyse zeigt, dass regelmäßiger Sport (im Vergleich zu keinem Sport) zwar die Dauer und Schwere von Atemwegsinfekten möglicherweise reduzieren kann, jedoch nicht die Erkrankungshäufigkeit.
+Psychotherapeutische Verfahren, insbesondere Methoden zur Stressbewältigung sollen sich solchen Studien zufolge auf Funktionen des Immunsystems auswirken.
+Die klinische Hypnotherapie hat suggestive Methoden zur Behandlung einzelner Immunerkrankungen entwickelt.
+
+Dennoch gibt es keine wissenschaftlich aussagekräftige Untersuchungen, inwieweit Saunieren, kalte Bäder bzw. kalte Duschen, Wassertreten nach Kneipp oder einzelne Lebensmittel einen Einfluss auf das Immunsystem haben.
+Falls das Immunsystem nicht von Geburt an oder durch Erkrankungen (z. B. HIV) bzw. bei einer Fehlernährung eingeschränkt arbeitet, liegen keine Evidenzen vor, wie man es "stärken" bzw. seine Leistung verbessern könnte.
+Eine Leistungssteigerung könnte sogar schädlich (Allergien, Asthma) oder lebensbedrohlich (Zytokinsturm) sein (siehe auch Immunsystem#Überschießende Immunantwort).
+
+=== Elektrische Stimulation
+
+Ausgehend von der neueren Erkenntnis, dass das zentrale Nervensystem der Menschen, der Nervus Vagus mit dem Immunsystem interagiert, konnten holländische Forscher Mitte 2016 mithilfe schwacher elektrischer Impulse (ähnlich dem Effekt eines Herzschrittmachers) deutlich positive Wirkungen bei der Behandlung der Autoimmunkrankheit Rheumatoide Arthritis erzielen.
+
+=== Immunsuppression
+
+In manchen Situationen ist eine Immunsuppression, also eine medikamentöse Hemmung oder sogar komplette Unterdrückung der Immunantwort notwendig.
+Dies ist zum Beispiel der Fall bei Patienten, die ein fremdes Organ als Transplantat erhalten haben.
+Auch bei Autoimmunerkrankungen (inklusive Erkrankungen des rheumatischen Formenkreises) und Allergien ist manchmal eine Immunsuppression notwendig.
+Das am längsten bekannte immunsuppressive Medikament ist Cortison, die Vorstufe des körpereigenen Hormons Cortisol.
+Neuere Wirkstoffe wie Tacrolimus oder Cyclosporin A sind jedoch teilweise deutlich wirksamer und/oder haben geringere Nebenwirkungen.
+
+=== Impfung
+
+Die Impfung ist eine Methode zur Stärkung der Immunabwehr und eine vorbeugende Maßnahme gegen bestimmte Infektionskrankheiten.
+Bei der aktiven Immunisierung, der häufigsten Form der Impfung, wird das Immunsystem zur Bildung einer Immunkompetenz angeregt, ohne die Erkrankung selbst auszulösen.
+Hierzu werden abgeschwächte Erreger, tote Erreger oder bestimmte typische Eiweiße (Proteine) und Zuckermoleküle, also Bruchstücke des Erregers, als Impfstoffe in den Körper eingebracht.
+Die Reaktion des Organismus auf diese Antigene führt zur Bildung spezifischer Antikörper und Gedächtniszellen, die weiterhin im Blut und den Lymphbahnen zirkulieren, wodurch der Schutz gegen diese Antigene lange erhalten bleibt.
+Falls der Körper erneut mit dem Erreger in Kontakt kommt, hat er durch die Gedächtniszellen eine sehr viel effizientere und schnellere Immunantwort zur Verfügung, die die Erreger bekämpft, bevor es zu einer Erkrankung kommt.
+
+=== Schädigende Faktoren
+
+Abgesehen vom Altern gibt es weitere Faktoren, die die Funktion des Immunsystems schädigen und herabsetzen können.
+Dazu zählen unter anderem eine starke gesundheitliche Beeinträchtigung durch Vorschädigung wie beispielsweise bei chronischen Erkrankungen, eine medikamentöse Immunsuppression wie beispielsweise nach Organtransplantationen, Drogenmissbrauch (auch Nikotin und Alkohol), eine Mangelernährung und damit verbundene Unterversorgung auch mit Vitaminen und Spurenelementen, eine ungesunde oder unausgeglichene Ernährung, die Aufnahme von Umweltgiften aus der Umgebung, die Einwirkung von ionisierender Strahlung, andauernder Stress, zu wenig Schlaf, Bewegungsmangel und auch eine übermäßige Kälteeinwirkung im Sinne von längerer Auskühlung oder gar Unterkühlung (Hypothermie).
+Im Sport kommt es nach erschöpfenden Belastungen zur vorübergehenden Beeinträchtigung der Abwehrfunktion, die als Open-Window-Phänomen bekannt ist.
+Eine Kombination von mehreren Faktoren kann natürlich eine verstärkte Belastung für das Immunsystem darstellen.
+
+Auch psychologische Faktoren wie Stress beeinträchtigen das Immunsystem.
+Stress führt dazu, dass allgemein physiologische Prozesse heruntergefahren werden, welche in hohem Maße Energie erfordern, jedoch nicht für das kurzfristige Überleben notwendig sind.
+Dazu zählt auch das Immunsystem.
+Die immunsuppressive Wirkung von Stress wird über die Ausschüttung von Glucocorticoiden (beim Menschen insbesondere Cortisol) aus der Nebennierenrinde bedingt, welche wiederum durch Adrenocorticotropin aus dem Vorderlappen der Hypophyse angestoßen wird, welches wiederum die Produktion von Zytokinen hemmt.
+Im Falle von chronischem Stress kommt es zu einer Einschränkung des Adaptiven Immunsystems, das seine beschützende Funktion via T- und B-Zellen ausübt.
+
+=== Sonnenlicht und Vitamin D
+
+Sonnenlicht kann einen Einfluss auf das Immunsystem haben.
+Bereits vor mehr als 100 Jahren war das tägliche Sonnenbad ein fester Bestandteil der Tuberkulosetherapie (allerdings in Ermangelung von Antibiotika, die erst um 1930 entdeckt und nach 1940 am Menschen erprobt wurden).
+Hierbei spielt Vitamin D eine wichtige Rolle im Immunsystem.
+Die Forschung konnte den zugrundeliegenden Mechanismus darstellen:
+Bestimmte Abwehrzellen besitzen auf ihrer Oberfläche einen so genannten Toll-like Receptor; dieser wird bei einer Bakterieninfektion aktiviert und veranlasst die Abwehrzelle, eine Vorstufe von Vitamin D (25-Hydroxy-Vitamin-D) zu produzieren.
+Gleichzeitig bildet dieselbe Zelle verstärkt einen weiteren Rezeptortyp aus, der auf die Erkennung von Vitamin D spezialisiert ist.
+Das Sonnenlicht wandelt die Vitamin-D-Vorstufe in das aktive Vitamin D um, welches sich nun an den Rezeptor heftet.
+Dadurch wird die Abwehrzelle dazu angeregt, das antibakteriell wirkende Cathelizidin zu bilden.
+Der Zusammenhang erklärt auch, warum Menschen mit dunkler Haut für Infektionen wie beispielsweise die Hauttuberkulose besonders empfänglich sind:
+In ihrem Blut finden sich in der Regel deutlich geringere Mengen der Vitamin-D-Vorstufe, wobei diskutiert wird, ob die zusätzliche Einnahme von Vitamin-D-Präparaten zur Stärkung des Immunsystems den Mangel ausgleichen kann.
+
+Der mögliche Zusammenhang von Vitamin D und Virus-Infektionen ist Gegenstand der Forschung.
+Eine tägliche, niedrigdosierte Vitamin D-Gabe (400-1000 IU/Tag) kann bei Kleinkindern oder Jugendlichen (1-16 Jahren) einen schwachen Schutzeffekt vor akuten Atemwegsinfektionen (acute respiratory infection) entfalten.
+Höhere Dosierungen zeigten keinen Vorteil, andere Altersgruppen profitieren nicht.
+
+Neben anderen Faktoren ist die (tageszeit- und jahreszeitabhängige) Höhe des Sonnenstands und entscheidend für einen ausreichenden UV-B-Anteil im Sonnenlicht zur Bildung von Vitamin-D3-Bildung, im Winter kann nördlich des 51. Breitengrads (Köln-Erfurt-Dresden) zeitweise selbst zur Mittagszeit bei einem Ganzkörpersonnenbad kein Vitamin D3 in der Haut gebildet werden, was zu Vitamin-D-Mangel führen kann.
+
+Eine Schwächung des Immunsystems kann eine Folge der teilweise immunsuppressiven Wirkung der UV-B-Strahlen sein, die die T-Zell-abhängige Immunantwort stört.
+Eine übermäßige UVB-Belastung der Haut fördert die Entwicklung von bösartigen Hauttumoren wie Basalzellkarzinomen und Plattenepithelkarzinomen und mindert die Abwehr von Krankheitserregern wie Bakterien, Pilzen oder Viren deutlich.
+
+== Evolution
+
+Die komplexe Wechselbeziehung zwischen dem Wirtsorganismus und den Erregern kann unter evolutionären Gesichtspunkten als ein "Angreifer-Verteidiger-System" angesehen werden.
+Durch die Abwehrmaßnahmen des Immunsystems kommt es zu einem starken Selektionsdruck, unter dessen Einfluss sich die Erreger immer besser an den (menschlichen) Organismus anpassen müssen, um weiter fortzubestehen.
+Gleichzeitig üben Krankheitserreger oder Parasiten einen Selektionsdruck auf das Immunsystem des Wirts aus, so kann es zu einer Koevolution von Parasit und Wirt kommen, die zu einer Symbiose führen kann.
+Dann können die ehemaligen Erreger den Wirt für ihre Vermehrung nutzen, ohne ihn zu schädigen.
+Ein Beispiel für eine solche erfolgreiche Koevolution sind die Mitochondrien, welche ehemals als körperfremder Schädling in die Zellen von Eukaryoten eindrangen und die sich im Laufe der Jahrmillionen zu einer wichtigen Zellorganelle entwickelten.
+
+Bei Infektionen mit Krankheitserregern, welche an den Menschen als ihren Reservoirwirt angepasst sind, kann eine Erkrankung - bei intaktem Immunsystem und geringer Erregerdosis - entweder überhaupt nicht ausbrechen oder einen weniger schweren Verlauf nehmen.
+Bei Infektionen mit an einen Wirt nicht oder nur wenig angepassten Erregern hängt es von vielen Faktoren (Zustand des Immunsystems, Aggressivität der Erreger) ab, wie schwer eine Erkrankung verläuft und wie lange sie dauert oder ob der Erkrankte an den Folgen der Infektion sogar verstirbt.
+Die Höhe der durchschnittlichen Letalität einer Erkrankung lässt nach dieser Theorie beispielsweise Rückschlüsse zu, wie gut oder schlecht Krankheitserreger an den Wirt angepasst sind.
+
+Nach gängiger evolutionärer Betrachtungsweise sollten Parasiten und Krankheitserreger im Lauf ihrer Evolution eine verminderte Virulenz für ihre Wirte entwickeln, da virulente Parasiten und Krankheitserreger ihre Wirte und infolgedessen sich selbst eher zum Aussterben bringen.
+In vielen wissenschaftlichen Studien wurden Hinweise für die Richtigkeit dieser Betrachtungsweise gefunden, Nach einer alternativen Perspektive allerdings wird die Selektion das Maß der Virulenz begünstigen, sodass die Steigerungsrate des Parasiten oder Erregers maximiert würde.
+
+Die evolutionäre Theorie der Immunologie kann noch nicht abschließend bewertet werden, ähnlich der Theorie der Inselverzwergung (wonach kleine Nagetiere zum Inselgigantismus neigen).
+Etliche Wissenschaftler tendieren dazu, dass Modelle, bei denen mittlere Virulenz bevorzugt wird, auf lange Sicht eine einfache Erklärung für die Entwicklung einer reduzierten Virulenz bieten.
+
+== Einfluss auf die Partnerwahl
+
+Untersuchungen mit Tieren am Max-Planck-Institut für Immunbiologie erbrachten unter anderem Hinweise auf einen Zusammenhang zwischen dem individuellen Immunsystem eines Lebewesens und der Partnerwahl.
+Über den Geruchssinn kann die genetische Individualität und Verschiedenheit erfasst und bewertet werden.
+Die Untersuchungen ergaben: MHC-Peptide erlauben dem Immunsystem, durch die Analyse der MHC-Peptidkomplexe an der Zelloberfläche durch die T-Zellrezeptoren Information über den Status von einzelnen Zellen zu erlangen.
+Und die Analyse der Struktur dieser Peptide ermöglicht über olfaktorische Neuronen Informationen über den genetischen Status eines Gegenübers zu gewinnen.
+Dies ist möglich, weil die Struktur der Ankerreste von Peptiden Rückschlüsse auf die Struktur von MHC-Molekülen und damit Rückschlüsse auf die Kodierungskapazität von Organismen erlauben.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,3 @@
+Das Grad Celsius ist eine Maßeinheit der Temperatur, die nach Anders Celsius benannt wurde.
+Die Celsius-Temperatur t {\displaystyle t} ist über die Absolute Temperatur (thermodynamische Temperatur) T {\displaystyle T} mit der Einheit Kelvin (K) wie folgt definiert: { t }  C = { T } K - 273 , 15 {\displaystyle \left\{t\right\}_{\mathrm {^{\circ }C} }=\left\{T\right\}_{\mathrm {K} }-273{,}15} .
+Das heißt, die Zahlenwerte bei Verwendung der Celsius- bzw. Kelvin-Skala unterscheiden sich um den konstanten Wert 273,15.

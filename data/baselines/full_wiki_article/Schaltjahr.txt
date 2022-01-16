@@ -1,0 +1,108 @@
+Als Schaltjahr (lateinisch annus intercalarius oder annus bissextus) wird in der Kalenderrechnung ein Jahr bezeichnet, das im Unterschied zum Gemeinjahr einen zusätzlichen Schalttag oder Schaltmonat enthält.
+Der bis 1582 übliche Julianische Kalender fügt genau alle vier Jahre einen Schalttag ein.
+Dann hat der Februar 29 statt 28 Tage und das Jahr 366 statt 365 Tage.
+Im gregorianischen Kalender entfallen in 400 Jahren drei dieser Schalttage.
+Dadurch ist das Kalenderjahr im Durchschnitt dem die Jahreszeiten bestimmenden Sonnenjahr (tropisches Jahr) besser (bis auf knapp eine halbe Minute) angepasst.
+Im Religionskalender des Islam - einem reinen Mondkalender - führt der zusätzliche Schalttag eines Schaltjahrs zur religiös begründeten Angleichung des Kalenderjahrs an den Zeitraum von 12 Mondmonaten (astronomisches Mondjahr).
+Das astronomische Mondjahr ist um Bruchteile eines Tages länger als das 354 Tage lange gemeine Mondjahr.
+In einem an das Sonnenjahr angepassten Mondkalender (gebundener Mondkalender) - wie im religiösen jüdischen Kalender - wird dem Mondjahr gelegentlich ein 13. Mondmonat (Schaltmonat) zugefügt.
+Die Einschaltung eines zusätzlichen Tages oder Monats wird auch als Interkalation bezeichnet.
+Eine Sonderform der Schalttage sind Epagomene.
+Wenn von einem Schaltmonat, einem Schalttag oder einer Schaltsekunde die Rede ist, so ist damit meistens genau diese Zeitspanne (Monat, Tag, Sekunde) gemeint, die extra hinzukommt.
+Ist hingegen von einem Schaltjahr die Rede, so ist damit kein zusätzliches Jahr gemeint, sondern eben nur ein Jahr, das sich durch zusätzliche (Schalt-)Tage oder (Schalt-)Monate von einem Gemeinjahr unterscheidet.
+Ein Sonnenkalender richtet sich im Unterschied zu einem Mondkalender nach dem Lauf der Sonne.
+Das davon bestimmte tropische Jahr hat eine Länge von 365,24219 Tagen (ca. 365 Tage, 5 Stunden, 48 Minuten und 45 Sekunden).
+Diesem Wert kommen die nachfolgend beschriebenen Sonnenkalender mit Hilfe von Einschaltungen mehr oder weniger nahe.
+Unter Julius Cäsar wurde der bis dahin geltende römische Kalender gründlich reformiert (=Kalenderreform des Julius Cäsar).
+Diese begann mit dem sogenannten "Verworrenen Jahr" von 47 bis 45 v. Chr., in dem die Differenz ausgeglichen werden sollte, die sich über die Jahre zwischen den Kalenderdaten und den ihnen ursprünglich zugeordneten Sonnenständen angesammelt hatte.
+Ab dem Jahr 45 v. Chr. galt dann der Julianische Kalender.
+Dabei griff Cäsar (bzw. dessen Astronom Sosigenes aus Alexandria) auf dieselbe Lösung zurück, die bereits Pharao Ptolemaios III. 238 v. Chr. im Kanopus-Dekret für den altägyptischen Kalender angeordnet hatte:
+Alle vier Jahre sollte ein zusätzlicher Schalttag im Februar hinzukommen.
+Warum gerade im Februar?
+Erklärung: Im römischen Kalender gab es den Schaltmonat Mercedonius oder Mensis intercalaris, den man immer am Ende des Jahres nach einem komplizierten und manchmal beliebigen Rhythmus einfügte.
+Da das römische Jahr im Februar (Februarius) endete, wurde auch der Schaltmonat im Februar eingefügt, und zwar nach den Terminalia-Festlichkeiten am 23. Februarius und vor dem Regifugium-Fest am 24. Februarius.
+Dieses Einschubdatum behielt man auch bei, nachdem im Jahr 153 v. Chr. der Jahresbeginn auf den Januar (Ianuarius) vorverlegt wurde.
+Obwohl der Februarius nun nicht mehr der letzte Monat des Jahres war, wurde der Mercedonius weiterhin im Februarius eingefügt.
+Im neuen julianischen Kalender, bei den man nun statt eines Schaltmonats einen Schalttag benötigte, hielt man an "dem Tag, der auf den 23. Februar" folgt, als Einschubdatum fest.
+Der 24. Februar war der ante diem sextum kalendas martias, wortwörtlich der "sechste Tag vor den Kalenden des März".
+(Da inklusiv gezählt wurde, war es der fünfte Tag vor den Kalenden des März.) Diesem wurde ein zweiter 24. Februar (ante diem bis sextum kalendas martias, das heißt "zweiter sechster Tag vor den Kalenden des März") als Schalttag vorangestellt.
+Am Ende wurde auch im gregorianischen Kalender dieses Einschubdatum übernommen, verlor jedoch aufgrund des einfachen Durchnummerierens bis 29 an Bedeutung.
+Beim christlichen Fest für den Hl.
+Matthias erkennt man noch die alte römische Regelung: in Gemeinjahren findet es am 24. statt, in Schaltjahren am 25. Februar.
+Das julianische Kalenderjahr hatte eine durchschnittliche Länge von 365,25 Tagen, während das astronomische ("tropische") Jahr näherungsweise 365,24219 Tage umfasst.
+Der Fehler betrug etwa 11 Minuten pro Jahr oder 1 Tag in etwa 128 Jahren.
+1582 fand die Frühlingstagundnachtgleiche nach dem julianischen Kalender schon am 11. März statt.
+Für den Tag des Frühlingsanfangs war aber der 21. März festgelegt (erste Konzil von Nicäa im Jahr 325).
+Die aufgelaufene Differenz betrug somit 10 Tage.
+Auf Anordnung von Papst Gregor XIII. wurden 1582 zehn Kalendertage ausgelassen (auf den 4. Oktober folgte der 15. Oktober, wobei die Abfolge der Wochentage nicht verändert wurde: auf einen Donnerstag folgte ein Freitag).
+Damit künftig kein (oder kein wesentliches) Auseinanderlaufen zwischen Sonnen- und Kalenderjahr stattfindet, wurde die julianische vierjährige Schalttagsregelung ergänzt.
+Die gregorianische Schalttagsregelung besteht aus folgenden drei einzelnen Regeln:
+In 400 Jahren gibt es also 97 Schaltjahre (und ebenso viele Schalttage).
+Die mittlere Länge eines gregorianischen Kalenderjahres beträgt damit 365  97400 Tage (als Dezimalzahl: 365,2425 Tage).
+Seit dieser Regelung beträgt der Fehler bei der Länge des durchschnittlichen Kalenderjahres einen Tag pro ungefähr 3231 Jahren, da das tropische Jahr (365 Tage, 5 Stunden, 48 Minuten, 45,216 Sekunden) dem gregorianischen Kalenderjahr (365 Tage, 5 Stunden, 49 Minuten, 12 Sekunden) um 26,739 Sekunden hinterherläuft.
+So muss voraussichtlich um das Jahr 4813 (Jahr 1582 + 3231 Jahre) ein Schalttag ausfallen, um das Kalenderdatum 21. März wieder in der Nähe des Zeitpunkts des Primar-Äquinoktiums zu positionieren.
+Da in Wirklichkeit das tropische Jahr keine exakt konstante Länge hat, ist auch die o. g. Differenz zwischen tropischem und gregorianischem Jahr nicht konstant.
+Rechnet man die derzeitige Verkürzung des tropischen Jahres um 0,5 s pro Jahrhundert ein, ergibt sich eine mit gleicher Rate größer werdende Differenz und daraus ein deutlich früherer bester Zeitpunkt zum Ausfall eines Schalttages.
+Bei Annahme, diese Verkürzung wäre seit 1582 und bis auf Weiteres konstant, müsste bereits im Jahre 4324 ein Schalttag ausfallen.
+Bis dahin betrüge die aufgelaufene Differenz 23 Stunden, 59 Minuten und 43,968 Sekunden.
+Es ergibt sich also ein verbleibender Fehler von 16,032 Sekunden.
+Auch nach der Einführung des gregorianischen Kalenders war es noch eine Zeit lang wie im julianischen Kalender üblich, in einem Schaltjahr den 24. Februar zu verdoppeln (siehe Missale Romanum, nebenstehendes Bild).
+Bei der Zählung der Kirchentage in der katholischen Kirche galt diese Praxis sogar noch bis 2001.
+Erst seitdem wird in den Ausgaben des Martyrologium Romanum die Durchnummerierung der Kalendertage zugrunde gelegt und folglich der 29. Februar verwendet.
+Das gregorianische Kalender-Jahr ist im Durchschnitt etwas länger als das Sonnenjahr.
+Deshalb schlug die orthodoxe Kirche, nachdem sie jahrhundertelang die gregorianische Kalenderreform verweigert hatte, in jüngster Zeit folgende Schaltregel vor:
+Abweichend vom gregorianischen Kalender sind die Säkularjahre nur dann Schaltjahr, wenn sie durch 900 geteilt den Rest 200 oder 600 ergeben.
+Damit wäre das Jahr 2800 kein Schaltjahr, sondern erst das Jahr 2900.
+Das Kalenderjahr nach dem orthodoxen Kirchenkalender hat eine durchschnittliche Länge von 365,24222 Tagen.
+Die Differenz zum astronomischen Jahr ist ungefähr ein Zehntel der des gregorianischen Kalenderjahrs.
+Im Französischen Revolutionskalender war auch alle vier Jahre ein Schaltjahr.
+Man begann mit den Jahren 3, 7 und 11 der neuen Jahreszählung.
+Im Jahr 15 war der Kalender schon nicht mehr in Anwendung.
+Mittelfristig sollte wie im gregorianischen Kalender geschaltet werden.
+Langfristig sollte eine bessere Anpassung an das Sonnenjahr erreicht werden.
+Man diskutierte, jedes 3600. oder 4000. Jahr zu einem Gemeinjahr zu machen.
+Bei einem alle 3600 | 4000 Jahre fehlenden Schalttag wäre das durchschnittliche Kalenderjahr 365,24222 | 365,24225 Tage lang gewesen (gregorianisch:
+365,24250 Tage; tropisches Jahr: 365,24219 Tage).
+In Lunarkalendern werden Schaltmonate benötigt, um mit der synodischen Periode des Mondes von 29,530589 Tagen konform zu laufen.
+Dabei bietet sich ein regelmäßiger Wechsel von "vollen Monaten" zu 30 und Schaltmonaten ("hohler Monat") zu 29 Tagen an.
+Mit Sonderregeln werden die fehlenden 0,0306 Tage pro Monat (Metonischer Zyklus, Kallippischer Zyklus und andere) korrigiert.
+Daneben gibt es auch Schalttage, um das Lunarjahr mit zwölf Mondmonaten von etwa 354 Tagen durch Einschalten von meist elf "Toten Tagen", der Zeit zwischen den Jahren, auf einen nicht-interkalierenden Mondkalender zu ergänzen.
+Im islamischen Kalender, einem synodischen, also reinen Lunarkalender, ist die Bestimmung eines Schaltjahres wie folgt festgelegt:
+Nach einem gebräuchlichen System sind alle Jahre, die bei einer Division durch 30 einen Rest von 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 oder 29 haben, Schaltjahre.
+Alle ungeradzahligen Monate haben 30 und alle geradzahligen Monate 29 Tage.
+In Schaltjahren wird dem zwölften Monat ein Tag hinzugefügt, so dass er dann 30 Tage hat.
+Somit besteht ein Jahr des islamischen Kalenders durchschnittlich aus 354,36667 Tagen.
+Astronomisch dauern 12 Lunationen 354,367068 Tage.
+Das islamische Mondjahr ist also um 34,6752 Sekunden zu kurz.
+Dennoch ist eine gute Näherung in Hinblick auf die Mondphasen erreicht:
+Erst nach 2492 islamischen Kalenderjahren (also nach 29.904 Lunationen, oder zirka 2418 Sonnenjahren) müsste ein zusätzlicher Schalttag eingeschoben werden, um den Kalender mit der Mondphase wieder im Einklang zu bringen.
+Gegenüber dem Sonnenjahr ist das islamische Jahr allerdings um 10,876 Tage zu kurz.
+Deswegen wandert der islamische Jahresbeginn alle 34 Jahre einmal rückwärts durch alle Jahreszeiten.
+Im römischen Kalender gab es Schaltjahre, die einen Schaltmonat - einen sogenannten Mensis intercalaris - enthielten.
+Der jüdische Kalender ist ein Lunisolarkalender beziehungsweise ein gebundener Lunarkalender.
+Seine Bindung an das Sonnenjahr wird mit Hilfe des Meton-Zyklus vorgenommen.
+Das Kalenderjahr besteht aus 12 Mond-Monaten mit insgesamt 353, 354 oder 355 Tagen oder aus 13 Mond-Monaten mit insgesamt 383, 384 oder 385 Tagen.
+Die Schwankungen um einen Tag sind durch religiöse Bräuche bestimmt, sie haben keine astronomische Ursache.
+In allen Jahren, die bei einer Division durch 19 einen Rest von 0, 3, 6, 8, 11, 14 oder 17 haben, wird vor dem Monat Adar ein Schaltmonat mit 30 Tagen eingefügt.
+Dieser heißt dann Adar aleph oder Adar rischon (erster Adar), der "normale" Adar wird zum Adar beth bzw. Adar scheni (zweiten Adar).
+Alle Feste finden erst im Adar beth statt.
+Das ist eine Analogie zum Schalttag im julianischen und im gregorianischen Kalender, bei dem im Schaltjahr ursprünglich der 24. Februar verdoppelt wurde.
+Die Verdopplung ist nicht mehr zu erkennen, seit der Einfachheit halber im üblichen Rhythmus weitergezählt wird.
+Heute wird der 29. Februar als Schalttag eingefügt.
+Das langjährige Mittel aus den sechs verschiedenen Jahreslängen beträgt 365,2468 Tage.
+Der Lauf der Sonne wird mit einem kleineren Fehler als im julianischen Kalender nachgebildet.
+Die Abweichung beträgt einen Tag in etwa 219 Jahren (julianisch: in etwa 128 Jahren).
+Der Chinesische Kalender besteht aus einer Kombination eines Solar- mit einem Lunisolarkalender.
+Ein Schaltjahr im lunisolaren Kalender hat 13 Monate mit 383, 384 oder 385 Tagen statt der zwölf des Gemeinjahres mit 353, 354 oder 355 Tagen.
+Die Schaltjahre (ergo -monate) folgen keinem einfachen Rhythmus.
+Zur Berechnung zählt man die Anzahl der Neumonde zwischen dem elften Monat eines Jahres (dem Monat der Wintersonnenwende) und dem elften Monat des folgenden Jahres.
+Fallen in diesen Zeitraum 13 Neumonde, so wird ein Schaltmonat eingefügt.
+Der erste Monat, der keine der 12 zentralen Einteilungen des Sonnenjahrs (zhong q) enthält, erhält dieselbe Nummer wie der Vormonat mit einem Zusatz als Schaltmonat.
+Wenn der Schaltmonat beispielsweise dem zweiten Monat () folgt, dann heißt er einfach "Geschalteter Zweiter Monat" (chinesisch  / , Pinyin rn'eryue).
+Hierbei handelt es sich um "Schalt"-Tage, die jedes Jahr eingefügt werden.
+Der im Altertum gebräuchliche altägyptische Verwaltungskalender, auch Wandeljahrkalender genannt, verwendete Jahre, die regulär 365 Tage dauerten.
+360 Tage davon waren in 12 Monate a 30 Tage aufgeteilt waren.
+Die "fehlenden" fünf Tage kamen jedes Jahr als Heriu-renpet hinzu.
+Im Jahr 238 v. Chr. ordnete Ptolemaios III. an, alle vier Jahre einen zusätzlichen Schalttag einzufügen, um die Verschiebung der Jahreszeiten zu verhindern.
+Der Haab-Zyklus des Maya-Kalenders bestand aus 18 Perioden ("Monaten") mit je 20 Tagen, was 360 Tage ergibt.
+Dazu kam jedes Jahr ein 19. "Schalt"-monat (Uayeb "namenlos") bestehend aus fünf Tagen, womit man auf eine Jahreslänge von 365 Tagen kam.

@@ -1,0 +1,101 @@
+Zahlenangaben in Prozent (von lateinisch-italienisch per cento "von Hundert, Hundertstel") sollen Größenverhältnisse veranschaulichen und vergleichbar machen, indem die Größen zu einem einheitlichen Grundwert (Hundert) ins Verhältnis gesetzt werden.
+Daher wird das Prozent auch als Hilfsmaßeinheit für Verhältnisgrößen verwendet.
+Vor allem ältere Gesetzestexte verwenden den Ausdruck "vom Hundert" (abgekürzt: "vH" oder "v. H."); das DIN empfiehlt jedoch, diesen Ausdruck zu vermeiden.
+Prozentangaben werden durch das Prozentzeichen % kenntlich gemacht (zum Beispiel 63,7 %).
+Laut DIN 5008 wird dabei zwischen der Zahl und dem Prozentzeichen ein Leerzeichen gesetzt.
+Die Prozentrechnung kann dann als Bruchrechnung (19 % = 19/100) oder im Dezimalsystem (19 % = 0,19) durchgeführt werden.
+Das Prozentzeichen lässt sich mathematisch als einstelliger Postfix-Operator definieren, der den davorstehenden Prozentfuß p {\displaystyle p} (auch Prozentzahl genannt) durch 100 teilt und ihm somit den zugehörigen Prozentsatz zuordnet.
+Er ist durch eine lineare Funktion definiert, die von den reellen Zahlen in die reellen Zahlen abbildet:
+Beispiele:
+Prozentangaben beschreiben Größenverhältnisse und beziehen sich dabei auf einen Grundwert G {\displaystyle G} .
+Der Grundwert ist die Ausgangsgröße, auf die sich der Prozentsatz p % {\displaystyle p\,\%} bezieht.
+Der Prozentfuß p {\displaystyle p} gibt an, wie viele Hundertstel des Grundwertes die Prozentangabe beträgt und bezeichnet so ein Größenverhältnis relativ zum Grundwert.
+Die absolute Bestimmung dieser Größe nennt man "Prozentwert" W {\displaystyle W} .
+Der Prozentwert hat dieselbe Einheit wie der Grundwert.
+Es gilt die Grundformel
+Das ergibt umgeformt:
+Beispiel:
+Der Begriff "Prozentsatz" wird in der Literatur unterschiedlich verwendet.
+Einige Autoren verwenden ihn für den Ausdruck p % {\displaystyle p\,\%} , andere verwenden ihn für den Ausdruck p {\displaystyle p} .
+Einige Autoren verwenden um der besseren Unterscheidung willen die Begriffe Prozentfuß für den Ausdruck p {\displaystyle p} und Prozentsatz für den Ausdruck p % {\displaystyle p\,\%} .
+Für die Übertragung von Texten in Berechnungen ist ein präzises Verständnis erforderlich
+Prozentangaben erfüllen die gleiche Funktion wie die Formulierungen "ein Halbes" oder "ein Viertel".
+Dabei bedeutet "ein Halbes" das Gleiche wie "50 Prozent" und "ein Viertel" das Gleiche wie "25 Prozent".
+Prozentangaben können darüber hinaus auch feinere Mengenverhältnisse ausdrücken als die in der Alltagssprache gängigen Formulierungen, zum Beispiel "23 Prozent", was 23 Hundertstel eines Grundwertes entspricht.
+Genau wie "ein Halbes" oder "ein Viertel" drückt eine Prozentangabe ein Verhältnis zu einem Grundwert aus:
+ein Halbes von welchem Grundwert?
+= 50 Prozent von welchem Grundwert?
+Hier muss sprachlich zwischen den Ausdrücken "um" und "auf" unterschieden werden:
+Eine Angabe, dass eine Größe um p Prozent gestiegen ist, entspricht einer Multiplikation mit dem Faktor S t = 1 + p 100 , {\displaystyle St=1+{\tfrac {p}{100}}\,,} welcher wiederum als Prozentsatz ausgedrückt werden kann:
+Also bedeutet eine Steigerung um beispielsweise fünf Prozent eine Multiplikation mit dem Faktor 1 , 05 .
+{\displaystyle 1{,}05\,.
+} Eine Angabe, dass eine Größe auf p Prozent gestiegen ist, bezieht sich hingegen direkt auf den Faktor, bei 1 , 05 {\displaystyle 1{,}05} , also eine Steigerung auf 105 % .
+{\displaystyle 105\%\,.
+}
+Analoges gilt für eine Verringerung.
+Eine Verringerung um p Prozent entspricht einer Multiplikation mit dem Faktor : F = 1 - p 100 , {\displaystyle F=1-{\tfrac {p}{100}}\,,} als Prozentsatz ausgedrückt also
+Eine Verringerung um fünf Prozent ist eine Multiplikation mit dem Faktor 0 , 95 .
+{\displaystyle 0{,}95\,.
+} , also eine Verringerung auf 95 Prozent.
+Vergleicht man Prozentwerte, kann man dies in Prozentpunkten oder in Prozent vom Ausgangsprozentsatz ausdrücken.
+Beispiel: Das Wahlergebnis einer Partei steigt von 4 % auf 5 %.
+Die Partei verbessert sich um 1 Prozentpunkt oder um 25 % (auf 125 % des Ausgangsprozentsatzes).
+Prozentpunkte geben die einfache Differenz zwischen zwei Prozentsätzen an.
+Wird der Unterschied aber in Prozent (des Ausgangsprozentsatzes) ausgedrückt, dann muss der Ausgangsprozentsatz gedanklich auf 100 % gesetzt werden.
+Im obigen Beispiel sind 5 % gleich 125 % von 4 %.
+Besondere Vorsicht ist bei der Verkettung mehrerer Steigerungen oder Verminderungen geboten.
+Wird ein Ausgangswert A {\displaystyle A} nacheinander um den gleichen Prozentsatz p {\displaystyle p} (ungleich Null) erhöht und dann verringert, so ergibt sich keineswegs wieder der Ausgangswert als Ergebnis E {\displaystyle E} , sondern ein kleinerer Wert, weil sich die zweite Operation auf das Ergebnis der ersten und damit auf einen anderen Grundwert bezieht.
+Das wird bei Berechnung mittels Faktoren deutlich:
+Beispiel: "Wenn 100 Euro zunächst um 10 % erhöht und dann um 10 % verringert wird, so ergibt das:
+Es ergeben sich also nur noch 99 Euro.
+Das gilt wegen der Kommutativität der Multiplikation auch für die umgekehrte Reihenfolge.
+Die Prozentrechnung wird je nach Voraussetzungen und Anforderungen auf unterschiedliche Weise ausgeführt und unterrichtet.
+So können mit Proportionen die üblichen Formeln gewonnen werden, was diese sich zu merken erspart.
+Beim sogenannten Kopfrechnen wird meist die vermittelnde Frage, was 100 % bzw. 1 % ist (entspricht), gestellt.
+Beispiel:
+42 kg sind 7 %.
+Wie viel sind (entsprechen) 100 %?
+Gegeben sind W (Prozentwert) und p % (Prozentsatz).Gesucht ist G (Grundwert).
+Wir verwenden die bereits oben eingeführten Abkürzungen:
+Damit lautet die Grundformel für den Prozentsatz als Verhältnis aus Prozentwert und Grundwert:
+Für den Prozentfuß an Stelle des Prozentsatzes nimmt die Formel folgende Form an:
+Je nach Verwendungszweck kann die Grundformel auch nach dem Grundwert G oder nach dem Prozentwert W aufgelöst werden:
+und
+Beispiel
+Wenn 42 kg genau 7 % sind, welches Gewicht entspricht den vollen 100 %?
+Hier sind also folgende Größen bekannt:
+Gesucht wird der Grundwert G.
+Die Lösung ergibt sich mit der nach G aufgelösten Prozentsatz-Grundformel als
+Ein alltägliches Beispiel ist die Berechnung der Umsatzsteuer.
+Diese ist definiert durch den Wert eines Produktes (Nettobetrag) multipliziert mit einem Umsatzsteuersatz, der in Prozent angegeben wird.
+Der Grundwert dieser Prozentangabe ist also der Nettobetrag.
+Der Bruttobetrag ist die Summe von Nettobetrag und Umsatzsteuer:
+Sind 100 Euro der Nettobetrag und der Umsatzsteuersatz beträgt 19 %, so errechnet man die Umsatzsteuer durch:
+Demzufolge errechnet sich der Bruttobetrag folgendermaßen:
+Durch Einsetzen in die Formel erhält man:
+Im gegebenen Beispiel mit einem Umsatzsteuersatz von 19 % erhält man
+Durch Umstellung dieser Formel lässt sich aus dem Bruttobetrag der Nettobetrag einfach errechnen durch
+Die im Bruttobetrag enthaltene Umsatzsteuer beträgt
+Im allgemeinen Sprachgebrauch wird bei Angaben in Zusammenhang mit Prozenten häufig nicht auf die mathematische Definition geachtet, was die Ursache für Ungenauigkeiten und Fehler ist.
+Beispiele dafür sind:
+In der Technik (zum Beispiel Rohrleitung) wird auch die Steigung (bzw. das Gefälle) in Prozent angegeben.
+Diese Prozentangabe drückt das Verhältnis von Höhenunterschied und waagerechter Strecke aus.
+Eine Steigung von 100 % bedeutet demzufolge einen Steigungswinkel von 45°.
+Eine Steigung von 10 % bedeutet, dass auf einer horizontalen Strecke von 100 m ein Höhenunterschied von 10 m zurückgelegt wird.
+Im Straßenverkehr gibt der auf einem Verkehrsschild angegebene Wert nicht die durchschnittliche Steigung der gesamten Strecke an, sondern die maximale Steigung, die auf dem Radabstand eines die Strecke zurücklegenden Kraftfahrzeugs wirkt.
+Mathematisch kann man eine Steigungsangabe in Prozent über die Arcustangens-Funktion in eine Winkelangabe (je nach DRG-Einstellung des Taschenrechners in Grad, rad oder gon) umrechnen:
+Die folgende Tabelle gibt für einige typische Werte für Eisenbahnstrecken (Bereich um 1 %), Gebirgsstraßen (Bereich zwischen 10 % und 30 %), Skipisten (Bereich bis 100 %) sowie zur Illustration einige extreme Werte an.
+Zu beachten ist auch, dass Prozentangaben für den Gehalt eines Stoffes als Mengenverhältnis Gramm pro 100 Gramm angegeben werden können, wobei zu spezifizieren und zu differenzieren ist, ob (wie bei Löslichkeitsangaben) Gramm Stoff pro 100 g des Lösungsmittels gemeint sind oder Gramm Stoff pro 100 Gramm einer fertigen Lösung (im Sinne einer Konzentrationsangabe) (mehr dazu siehe Gehaltsangabe).
+Bei Prozentangaben von Stoffgemischen muss angegeben sein, ob sich diese auf den Massenanteil oder den Volumenanteil bezieht.
+Haben die Stoffe unterschiedliche Dichten, so sind diese beiden Angaben verschieden.
+Beispielsweise wird bei Getränken der Alkoholanteil in Volumenprozent (% Vol.) angegeben.
+Da Alkohol eine geringere Dichte (ca. 0,8 g/cm^3) als Wasser (ca. 1 g/cm^3) hat, ist der Anteil des Alkohols in Masseprozent geringer als der in Volumenprozent.
+Beispielsweise beträgt für ein Getränk mit 50 % Vol. Alkohol der Masseanteil des Alkohols lediglich 44,4 % (Masse).
+Taschenrechner unterschiedlicher Bauart und Hersteller behandeln die Tastatureingabe einer Prozentrechnung unterschiedlich.
+Dies kann zu Verwirrungen bzw. dazu führen, dass Benutzer von Taschenrechnern bei Prozentrechnungen auf die Prozenttaste verzichten und eher auf den Dreisatz oder auf die obenstehende Formel zurückgreifen.
+Der Begriff Prozent entstammt der Kaufmannsprache und taucht im Deutschen erstmals im 15. Jahrhundert in kaufmännischen Dokumenten aus Süddeutschland auf.
+Dort wird jedoch noch nicht das heutige Wort verwendet, sondern das aus dem Italienischen übernommene per cento (dt. pro hundert).
+Das italienische cento wiederum leitet sich von dem lateinischen centum (dt.
+hundert) ab .
+Im 16. Jahrhundert setzte sich im hochdeutschen Sprachraum dann eine Umstellung auf pro cento durch, die dann zum heutigen Prozent und der inzwischen veralteten relatinisierten Form pro centum geworden ist.
+In Österreich jedoch blieb die ursprüngliche italienische Form weiterhin erhalten und wurde zu dem heutigen (inzwischen allerdings auch veralteten) Perzent.

@@ -1,0 +1,127 @@
+Ein Verkehrsstau (kurz Stau) oder Verkehrsinfarkt ist ein stark stockender oder zum Stillstand gekommener Verkehrsfluss auf einer Straße.
+Als einer der Gründe dafür gilt eine zu hohe Anzahl von Fahrzeugen pro Zeiteinheit (oder pro Streckenlänge).
+Jedoch können Staus auch entstehen, obwohl die Kapazität der Straße bei gleichmäßig verteiltem und fließendem Verkehr ausreichte.
+Im Gegensatz zum Halten zählt der Verkehrsstau zum fließenden Verkehr.
+
+Staus - auch solche auf Wasserstraßen, Eisenbahnschienen, auf Flughäfen oder im Luftraum ("Warteschleife") - sind ein Forschungsgegenstand der Verkehrswissenschaften.
+Fluchtwege für Fußgänger in Gebäuden und bei Großveranstaltungen werden zur Reduktion von Staugefahr breit und flüssig gestaltet und Besucherzahlen begrenzt.
+
+Verkehrsexperten unterscheiden zwischen "Stau" und "stockendem Verkehr".
+Der ADAC spricht von einem Stau, wenn mehrere Fahrzeuge mindestens fünf Minuten lang im Schnitt unter 20 km/h schnell sind und das auf einer Länge von mindestens einem Kilometer.
+Gleichzeitig wird stockender Verkehr zwischen 20 und 40 km/h angenommen.
+In der Schweiz wird beispielsweise "fachlich" von einem Stau gesprochen, wenn der Straßenverkehr mindestens für eine Minute mit weniger als 10 km/h fließt.
+Liegt die Geschwindigkeit im Bereich zwischen 10 und 30 km/h, spricht man von stockendem Verkehr.
+
+== Ursachen
+
+Typischerweise liegt die Kapazität einer Straße bei 1500 bis 2500 Fahrzeugen pro Stunde und Spur.
+Herabgesetzt werden kann die Kapazität zum Beispiel durch ungünstige Witterung wie Regen, Schnee- oder Glatteis sowie ineffektives Verhalten der Verkehrsteilnehmer, zum Beispiel durch Schaulust.
+Dadurch können Staus aus dem Nichts entstehen, bei denen den Verkehrsteilnehmern auch nach Ende des Staus die Ursache verborgen bleibt (im Gegensatz zu Unfällen und Baustellen, bei denen die Ursachen bei der Vorbeifahrt erkannt werden können).
+
+Eine lokal verringerte Kapazität des Verkehrswegs durch Ereignisse wie Spursperrungen aufgrund von Baustellen oder Unfällen sowie Fahrbahnverengungen zum Beispiel vor Tunneln begünstigen die Stauentstehung ebenfalls.
+Eine solche kapazitätslimitierende Verengung des Verkehrsweges wird auch Nadelöhr genannt.
+
+Auch ein erhöhtes Verkehrsaufkommen kann für Staus verantwortlich sein.
+Gründe dafür können Berufsverkehr, Reiseverkehr (besonders zu Beginn und am Ende von Ferien sowie samstäglicher "Bettenwechsel" in Urlaubsgebieten) und Großveranstaltungen sein.
+
+== Stau-Erkennung
+
+Über freiwillige Staumelder, Polizeistreifen, Kameras und Hubschrauber werden Straßen und Verkehrsknotenpunkte visuell beobachtet.
+
+Mittels fest montierter Sensoren an der Autobahn wird der Verkehrsfluss objektiv gemessen.
+Hierbei wird nur die linke Fahrspur überwacht, da über die Parameter Abstand und Geschwindigkeit auf der linken Spur auf die Verkehrsdichte der anderen Spuren geschlossen werden kann.
+Auf deutschen Autobahnen befindet sich im Schnitt alle 4 Kilometer ein Sensor, so dass hier insgesamt rund 4000 Sensoren im Einsatz sind.
+
+Bei diesem modernen Verfahren werden in Fahrzeugen mitgeführte Mobiltelefone oder eingebaute Geräte (i. d. R. mit einem Sender ausgerüstete GPS-Empfänger) zur Messung der Verkehrsgeschwindigkeit und der Reisezeit verwendet.
+Das Verfahren Floating Cellular Data mit den Mobiltelefonen ist unpräziser als GPS, jedoch um vieles günstiger, da keine zusätzliche Hardware (Mobiltelefone), Infrastruktur (Antennen) oder Netzbelastung (Senden von Daten) notwendig ist und für allgemeine Aussagen genügend präzise.
+
+Die Netzwerk-Betreiber anonymisieren die Signale der Mobiltelefone und lassen sie durch Spezialfirmen auf Geschwindigkeit analysieren.
+Diese Daten sind nützlich und Basis für die meisten Intelligent Transportation Systems (ITS), wie aktive Verkehrsführung, Notfall- und Evakuationsmanagement, Stau-Umfahrung, Zeitschätzung.
+Es bietet ein Echtzeit-Bild des aktuellen Verkehrsgeschehens; fortgeschrittene Software wird auf Grund der Echtzeit-Daten auch Verkehrsbelastung und Staus voraussagen (predictive).
+
+FCD-Verfahren mittels Handys haben gegenüber herkömmlichen Systemen (Sensoren, Kameras etc.) große Vorteile:
+
+Es gibt bezüglich der Nutzung dieser Daten datenschutzrechtliche Bedenken.
+
+== Staumeldung
+
+=== Stauwarnanlage
+
+Warnung der Verkehrsteilnehmer können mit Hilfe von entsprechenden Gefahrzeichen oder durch die Anzeige von Texten geschehen.
+Zusätzlich können Geschwindigkeitsbeschränkungen angeordnet werden oder Ausweichrouten vorgeschlagen werden.
+Bei Gotthardstau beispielsweise wird die San Bernardino-Route vorgeschlagen.
+Stauwarnanlagen verfügen meistens über eine automatische Erkennung und kommen an Schilderbrücken in Form von Wechselverkehrszeichen zum Einsatz.
+
+=== Radio
+
+Staumeldungen werden im Verkehrsfunk vorgelesen und über TMC (Traffic Message Channel) im nichthörbaren Bereich des UKW-Signals in digitaler Form gesendet.
+Allerdings ist der TMC-Bereich sehr schmal, so dass sämtliche Meldungen nur etwa alle 15 Minuten übertragen werden.
+Da es außerdem häufig vorkommt, dass ein Empfänger eine Meldung verpasst, kann der Empfang der TMC-Meldung sich erheblich verzögern.
+Staumeldungen über TMC können von Navigationssystemen empfangen und verarbeitet werden.
+
+=== Weitere Infokanäle
+
+Staumeldungen werden im Videotext und im Internet von verschiedenen Anbietern veröffentlicht.
+Des Weiteren können sie individuell über Mobiltelefone abgefragt werden.
+Hierzu wird die Position des Anfragenden automatisch lokalisiert und weitere Information zur Fahrtroute abgefragt.
+
+== Verhalten im Verkehrsstau
+
+Da ein Stau neben Verzögerungen auch Unfallrisiken birgt, gibt es vom ADAC, ASTRA oder anderen Interessengruppen Hinweise zum Fahrverhalten, die meistens wie folgt lauten:
+
+Auf Autobahnen ist im Stau in Deutschland, Österreich, Tschechien und Ungarn eine Rettungsgasse in der Mitte der zwei Fahrstreifen freizulassen, bei drei- oder mehrstreifigen Fahrbahnen ist national unterschiedlich geregelt, zwischen welchen Fahrstreifen die Rettungsgasse gebildet werden muss.
+Sämtliche Einfahrten sind freizulassen, egal ob Behelfsanschlussstelle oder normale Anschlussstelle, damit nachalarmierte Kräfte in die Rettungsgasse einbiegen können.
+In der Schweiz und in Slowenien wird die Bildung einer Rettungsgasse ausdrücklich empfohlen.
+
+Bei noch fließendem Verkehr sollte jegliches Kolonnenspringen unterlassen werden.
+Die Standspur darf nur auf polizeiliche Anweisung als Fahrstreifen benutzt werden (etwa um zur nächsten Autobahnausfahrt zu gelangen).
+In Ausnahmefällen (z. B. A99 Ring München oder A1 Morges-Ecublens) kann durch entsprechende Beschilderung der Standstreifen bzw. Pannenstreifen für den Verkehr freigegeben werden.
+
+== Folgen
+
+Für direkt betroffene Stauteilnehmer können bezifferbare Schäden durch den Zeitverlust eintreten.
+Volkswirtschaftlich werden Stau-Schäden in Milliardenhöhe hochgerechnet.
+Arbeitszeit, staubedingte Unfallkosten und Kraftstoffverbrauch werden dazu abgeschätzt.
+In Deutschland erreichen solche Schätzwerte bis zu 100 Milliarden Euro.
+Im Durchschnitt verbringt nach diesen Schätzungen jeder Bundesbürger 50 Stunden pro Jahr im Stau.
+
+== Vermeidung
+
+Es gibt mehrere Möglichkeiten Stau zu vermeiden.
+Im Rahmen einer Verkehrswende ist die Verkehrsvermeidung ein Mittel der Stauvermeidung.
+Klassische Ansätze in der Verkehrspolitik setzen auf den Ausbau der Straßen, in neuerer Zeit z. B. auch dem Umbau von Kreuzungen zum Kreisverkehr.
+Wobei Kreisverkehre Staus jedoch auch nicht ganz oder immer vermeiden können, da Kreisverkehre, wenn sie denn hoch frequentiert sind, andere, nahegelegene (!) Verkehrswege und ampellose Kreuzungen wiederum dort mit Staus bzw. erheblichen Beeinträchtigungen nach sich ziehen können.
+Die Förderung anderer Transportmittel hilft auch, Staus zu vermeiden.
+
+== Psychologische Ansätze in der Stau-Forschung
+
+Gängige Erklärungen von Verkehrs-Lehrstuhlinhabern, wie etwa die der Physiker Michael Schreckenberg und Martin Treiber, gehen von physikalischen Wirkparametern aus, deren Interpretation darauf hinausläuft, dass "falsches" Fahrverhalten und hohe Fahrgeschwindigkeit Stauursache sind.
+
+Demgegenüber ist seit Jahrzehnten nicht mehr umstritten, dass das Fahrerverhalten wesentlich auf der Wahrnehmung von Fahrbahn und Peripherie beruht.
+Verhaltensbestimmende Wahrnehmungsinhalte im Blickfeld des Fahrers sind beispielsweise Tiefe und Breite des Blickfeldes.
+So führen Blickfeldverkürzungen zu spontaner Verlangsamung, während umgekehrt eine Ausweitung des Blickfeldes zu Beschleunigung führt.
+Geschwindigkeitsverändernde Parameter sind auch Helligkeits- und Farbkontraste, Dichte und abrupte Wechsel im Blickfeld.
+Diese Parameter sind nicht nur in Straßenführung und Peripherie nachgewiesen, sondern werden auch durch das Eintreten richtungsgleicher Fahrzeuge in das Blickfeld erwartet.
+
+Die von Seiten der Physik geforderte Fähigkeit des Fahrers, einen definierten Abstand zum vorausfahrenden Fahrzeug einzuhalten, geht schon deswegen ins Leere, weil der Wahrnehmungs- und Reaktionsapparat des Menschen eine solche Fahrleistung nicht vorsieht.
+Von der Strömungsphysik abgeleitete Verkehrsmodelle kranken durchwegs daran, dass sich der Mensch anders als eine physikalische Strömungseinheit bewegt.
+
+== Superlative, Statistiken
+
+Das Guinness-Buch der Rekorde verzeichnet den längsten Stau der Welt 1980 zwischen Paris und Lyon mit 176 km Länge.
+Betrachtet man auch Verkehrsstaus in einem zusammenhängenden Streckennetz und nicht nur auf einer Einzelstrecke, so wurde dies inzwischen überboten.
+Am 11. Juni 2009 gab es in Sao Paulo gegen 19 Uhr Ortszeit im Streckennetz des Großraumes Stau auf insgesamt 293 km Länge.
+
+Ein Stau infolge eines Wintereinbruchs am 2. Dezember 2012 auf der Autobahn M10 nördlich von Moskau hatte laut Medienberichten eine Länge von 200 km; offiziell wurde er aber mit 20 km angegeben.
+
+TomTom veröffentlicht jährlich einen Traffic Index mit statistischen Angaben zu über 400 Städten, die das Unternehmen aus Daten seiner Navigationsgeräte erstellt.
+Es nannte als staureichste deutsche Städte (gemessen daran, wie viel Prozent länger eine Fahrt infolge eines Staus dauert) Hamburg, Berlin, Wiesbaden, München, Nürnberg, Stuttgart, Bonn, Kassel, Bremen und Frankfurt am Main.
+
+== Siehe auch
+
+== Literarische Verarbeitung
+
+== Weblinks
+
+== Einzelnachweise
+

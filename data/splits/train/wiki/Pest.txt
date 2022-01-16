@@ -1,0 +1,495 @@
+Die Pest (lateinisch pestis "Seuche, Epidemie, Beulenpest, Pestplage", altgriechisch oo loimos; englisch plague), veraltet auch Pestilenz (lateinisch pestilentia) genannt, ist eine hochgradig ansteckende Infektionskrankheit, die durch das Bakterium Yersinia pestis ausgelöst wird.
+Sie kann in verschiedenen Formen auftreten, unter anderem der Beulenpest (Bubonenpest) und der Lungenpest.
+
+Ursprünglich ist die Krankheit eine Zoonose, also eine vom Tier zum Menschen und umgekehrt übertragbare Krankheit, die von Nagetieren (Murmeltieren, Ratten, Eichhörnchen) kam, bei deren Populationen sie enzootisch sein kann.
+Die Übertragung zum Menschen erfolgt klassischerweise über den Biss eines infizierten Flohs, es ist aber auch eine direkte Mensch-zu-Mensch-Ansteckung über Tröpfcheninfektion möglich.
+
+Es existiert inzwischen eine Impfung gegen den Erreger, die von der WHO aber nur für Risikogruppen empfohlen wird.
+Die Behandlung einer Infektion ist mit Antibiotika möglich, auch wenn zunehmend Resistenzen beobachtet werden.
+
+In Deutschland, Österreich und der Schweiz ist die Pest eine meldepflichtige Erkrankung.
+
+Als sogenannter Schwarzer Tod führte die Pest im 14. Jahrhundert und mit der Justinianischen Pest auch bereits im 6. Jahrhundert zu den verheerendsten Epidemien der Menschheitsgeschichte.
+Ein historischer Überblick über die Krankheit und weitere, ebenfalls als Pest bezeichnete Seuchen, die viele Menschenleben forderten, ist unter Geschichte der Pest nachzulesen.
+
+== Erreger
+
+Die Pest wird bei Mensch und Tier durch das Bakterium Yersinia pestis (früher unterteilt in Yersinia pestis orientalis, Yersinia pestis antiqua und Yersinia pestis medievalis) ausgelöst.
+Dieses Bakterium, eine Mutation des für den Menschen relativ ungefährlichen Bakteriums Yersinia pseudotuberculosis, ist sehr anpassungsfähig, und es werden sehr viele verschiedene Varianten beschrieben.
+Die krankmachenden Eigenschaften von Yersinia pestis entstehen durch Ektotoxin-, Endotoxin- und Bakterienkapselbildung.
+
+== Vorkommen
+
+Die Verbreitung der Pest hängt von der Verbreitung der Zwischenwirte ab.
+Wo sie festgestellt werden, sind immer auch Pestfälle möglich.
+Ob diese zu Epidemien auswachsen können, hängt von mehreren Faktoren ab, wie beispielsweise Resistenz der Bakterien gegen Medikamente, den vorherrschenden hygienischen Verhältnissen und der Bekämpfung der lokalen Zwischenwirte.
+
+== Übertragungsweg
+
+=== Infektionskette
+
+Die Pest kann auf verschiedene Weise übertragen werden: zum einen durch den Biss von mit Krankheitserregern verseuchten Insekten, vorwiegend Flöhen, zum anderen durch Tröpfcheninfektion.
+Letztere Übertragungsart führt zur primären Lungenpest.
+
+Verkürzt dargestellt verläuft der typische Infektionsweg bei der Beulenpest "von Ratte - Rattenfloh - Mensch, Mensch - Menschenfloh - Mensch und weiter bei der Lungenpest durch Tröpfcheninfektion von Mensch zu Mensch".
+
+=== Flöhe
+
+Das Zwischenglied bei der Übertragung von der Ratte auf den Menschen ist der Floh.
+Als erster entdeckte diesen Zusammenhang 1898 Paul-Louis Simond.
+An erster Stelle steht die tropische Flohart Xenopsylla cheopis (Rattenfloh).
+Über die Bedingungen und Mechanismen der Verbreitung der Pest durch diesen Floh siehe dort.
+Diese Flohart kommt in Europa wegen der für diese Art zu kühlen Witterungsbedingungen nicht vor.
+A. W. Bacot vermutete, dass der Menschenfloh (Pulex irritans), der in Europa verbreitet ist und sich durch eine große Variationsbreite in Bezug auf Wirtstiere auszeichnet, für die Übertragung verantwortlich sei.
+Die Forscher Hariette Chick und C. J. Martin schlugen Nosopsyllus fasciatus (= Ceratopsyllus fasciatus) als Überträger vor.
+Diese Flohart macht die Hälfte der Flöhe in England aus.
+Diese beiden Arten kommen mit tieferen Temperaturen weit besser zurecht als Xenopsylla cheopis.
+Hinzu kommt, dass dessen Eier bei 13 °C absterben, so dass Bacot meinte, dass mindestens 15,5 °C vorliegen müssten, um dessen Flohpopulation am Leben zu erhalten.
+Demgegenüber überlebte ein Teil der Eier von Pulex irritans noch bei 8 °C, und die Hälfte der Eier von Nosopsyllus fasciatus überstand sogar Temperaturen von 5 °C.
+Heute geht man von einem Temperaturfenster von 0 bis 40 °C für diesen Floh aus.
+Nosopsyllus fasciatus und Pulex irritans finden sich weit verbreitet in England, Wales, Schottland, den Shetlands, den Orkneys sowie in Irland.
+
+Diese Floharten unterscheiden sich in ihrer Vektor-Effektivität.
+Damit bezeichnet man die Effektivität, mit der eine Flohart zur Krankheitsübertragung in der Lage ist.
+C. M. Wheeler und J. R. Douglas betrachteten die Vektoreffektivität als von drei Potentialen abhängig, deren jedes ein Maß für die jeweils nachgenannte Frage ist:
+
+Man führte dann den Vektor-Index ein, um die verschiedenen Floharten miteinander in diesem Punkte vergleichen zu können.
+Die Xenopsylla-Arten wurden zum Maßstab genommen.
+Nosopsyllus fasciatus kommt diesen am nächsten.
+Dagegen zeigt Pulex irritans geringe Vektoreffektivität, ähnlich wie Katzen- und Hundeflöhe, weil bei ihnen die erforderliche Blockade durch Bakterienklumpen selten vorkommt.
+Bei Laborversuchen kam Nosopsyllus fasciatus auf den 2. Platz hinter Xenopsylla cheopis.
+Bei Pulex irritans kam es nur bei einem von 57 Exemplaren zur Blockade, und dieses Exemplar starb, bevor es seine Infektion weitergeben konnte.
+Georges Blanc und Marcel Baltazard gingen einen anderen Weg:
+In der Pest von 1940 in Marokko fingen sie Pulex irritans in Häusern Pestverstorbener in Marrakesch, zerdrückten sie und spritzten ihre Lösung in Meerschweinchen, die alsbald an Pest verstarben.
+Damit lenkten sie den Blick auf die Möglichkeit, dass die Pest ohne Ratte vom Menschenfloh unmittelbar übertragen werden konnte, worauf sie in einer weiteren Veröffentlichung hinwiesen.
+Die marokkanischen Häuser waren voll von Menschenflöhen.
+Von gut 3500 eingesammelten Flöhen waren 3000 Pulex irritans, während nur knapp 600 Exemplare Xenopsylla cheopis gefunden wurden.
+Dagegen wandte Georges Girard ein, dass die Pestepidemien in Indien, Senegal und Madagaskar starke Unterschiede zu der marokkanischen aufwiesen, obgleich auch dort Pulex irritans in Mengen aufgetreten waren.
+Er bestritt im Übrigen aus seiner Erfahrung die Effektivität als Übertragungsvektor von Pulex irritans.
+Aber er hielt es für möglich, dass die Menge der Flöhe in Marokko den Mangel an Effektivität ausgeglichen habe.
+Andere Untersuchungen von Pest in Nordafrika, besonders in Ägypten, zeigten, dass der Menschenfloh an der Verbreitung der Pest nicht beteiligt war, obgleich er in hohem Grad von der Pest infiziert war.
+Atilio Macchiavello stellte andererseits das vollständige Fehlen von Xenopsylla cheopis bei einem Pestausbruch in Peru 1946 in 600-700 m Höhe fest.
+Robert Pollitzer und Karl F. Meyer bestimmten dann die Pestübertragung durch Flöhe näher als massenhaften Befall von Flöhen, deren Saugwerkzeuge von vorherigem Befall von Nagern infiziert waren (mechanische Übertragung), oder als Bisse von im Verdauungssystem blockierten Flöhen (biologische Übertragung).
+In Nordamerika ist der Hauptüberträger der Pest von Tier auf Mensch der Floh Oropsylla montana, obwohl bei diesem keine Blockade eintritt.
+
+Ein wesentlicher Faktor bei der Übertragung der Pest durch den Floh ist die Zahl der Bakterien, die er bei einem Biss injiziert.
+Ole Jorgen Benedictow ging von 25.000 Bakterien pro Biss eines blockierten Flohs aus.
+Allerdings waren die Zahlen vor Einführung der PCR-Technik sehr ungenau.
+Mit dieser Methode hat man um die 100.000 Bakterien von Yersinia pestis in den infizierten Exemplaren gefunden.
+
+Auch wurde bei Untersuchungen von Flöhen in New Mexico und Colorado ein Zusammenhang zwischen Bakterienkonzentration und Mikromilieu der Flöhe festgestellt: Flöhe, die sich vom Wirtstier gelöst und in die Erde vergraben hatten, hatten höhere Konzentrationen als solche im Pelz des Wirtstieres.
+Die vom Boden aufgesammelten Flöhe waren nicht alle infiziert, aber die, die es waren, hatten eine ausreichende Konzentration für die Blockierung, während bei den Flöhen im Pelz eines Wirtstieres dies nur bei einem von 50 Flöhen der Fall war.
+Dafür war die Infektionsrate bei den Letzteren höher.
+
+Der Aufenthalt der Flöhe außerhalb von Wirtstieren in Nestern und im Boden ist jedoch keine besondere Verhaltensweise bestimmter Floharten, so dass die Unterscheidung zwischen Pelzfloh und Nestfloh nicht weiterführt.
+Pollitzer und Meyer stellten fest, dass es zwischen Nestflöhen und Pelzflöhen keine Trennungslinie gibt.
+Das unterschiedliche Verhalten in diesem Zusammenhang zwischen Xenopsylla cheopis und Nosopsyllus fasciatus beruht auf ihren Fressgewohnheiten:
+cheopis beißt oft und verlässt daher selten und nur kurz das Wirtstier, während fasciatus seltener beißt und daher längere Zeit auch ohne Wirtstier lebt.
+Nach Pollitzer und Meyer hängt dies aber nicht mit der Art, sondern mit dem Klima zusammen, in welchem die Flöhe leben:
+cheopis in tropischen Breiten, fasciatus in kühleren Gegenden.
+Von diesen Erkenntnissen ausgehend ist fasciatus nicht unbedingt ein schlechterer Pestvektor als cheopis.
+
+=== Warmblütige Wirtstiere
+
+Es hat sich gezeigt, dass die Pest über 200 Säugetierarten befallen kann, also nicht auf Ratten beschränkt ist.
+Sie wurde auch bei Hunden und Katzen festgestellt.
+Neben der braunen bis schwarzen Hausratte (Rattus rattus) und der grau-braunen Wanderratte (Rattus norvegicus) wurde auch der Hausmaus (Mus musculus) die Auslösung von Epidemien zugeschrieben, so die in Südost-Russland in den 20er Jahren, in Brasilien 1936-1945 und in Saigon 1943.
+Gleichwohl spielt die Hausmaus in diesem Zusammenhang nur eine untergeordnete Rolle, da sie nicht die hohe Bakterienkonzentration im Blut entwickelt, die erforderlich ist (Pollitzer 1954 S. 299-300).
+Außerdem ist deren Floh Leptopsylla segnis ein schlechter Überträger.
+Er nimmt nur wenig Pestbakterien auf.
+Auch ist der Floh in hohem Grade auf die Maus fixiert.
+Die Ratten standen daher immer im Vordergrund.
+Das beruhte auf der Beobachtung bei der Pest 1905 in Bombay, dass es zu dieser Zeit dort eine Überfülle von Ratten beider Arten gab.
+Die Kommission beobachtete, dass die Seuche zuerst die Wanderratte ergriff, etwa 10 Tage danach die Hausratte, und der Höhepunkt der Sterblichkeitsrate bei den Menschen knapp 1 Monat später auftrat.
+1910 starben einige Kilometer entfernt von Ipswich einige Personen an einer bakteriologisch identifizierten Pest.
+Daraufhin machte man Jagd auf Ratten, und von den 568 gefangenen Exemplaren wiesen 17 Pestbakterien auf.
+Alle in dieser ländlichen Gegend waren Wanderratten.
+Aber man geht davon aus, dass die Schwarze Ratte der wichtigste Vermittler der Pestepidemie von Indien 1898 bis Madagaskar 1998 gewesen ist.
+Der Floh bleibt nur bei lebenden Tieren.
+Sobald das befallene Lebewesen erkaltet, verlässt der Floh den Wirt.
+Da in Südamerika häufig Meerschweinchen gegessen werden, kommt es auch in neuerer Zeit immer wieder zu Ansteckungen.
+
+== Krankheitsentstehung
+
+Wenn bei der Infektion ausreichend viele Bakterien in die Blutbahn gelangt sind, sodass die körpereigene Abwehr ihrer nicht mehr Herr wird, kommt es nach kurzer Zeit zu einer hohen Bakterienkonzentration im Blut, die dann zu einer Sepsis führt.
+
+Die blutvergiftende Wirkung wird ausgelöst, wenn die Bakterien ihren normalen Lebenszyklus vollenden und absterben.
+Dabei werden große Mengen toxischen Sekrets direkt in den Blutkreislauf abgegeben; Nieren und Leber können nekrotisch werden, wenn sie versuchen, den Organismus von Toxinen zu reinigen.
+Am Ende erliegt das Opfer einem toxischen Schock.
+
+== Klinische Erscheinungen
+
+Man unterscheidet vier Erscheinungsformen der Pest: Beulenpest, auch Bubonenpest genannt (von griechisch ouv "Drüse in der Schamgegend, Geschwulst"), Pestsepsis, Lungenpest sowie die abortive Pest.
+Bei Pandemien treten alle Formen der Erkrankung auf, am häufigsten jedoch die Beulenpest und die Lungenpest.
+Aus einer Beulenpest entwickelt sich ohne Behandlung oftmals eine Pestsepsis, die zu einer Lungenpest führt.
+Selten tritt auch die Pestmeningitis auf, wenn die hämatogene Streuung der Pesterreger (Yersinia pestis) nach Beulenpesterkrankung die Hirnhäute befällt.
+
+Als Hautpest bezeichnet man die (sekundär) in Folge der Beulenpest auftretenden Hauterscheinungen.
+Seltener ist die primäre Hautpest mit Roseolen, Karbunkeln und oft ausgedehnten Haut- und Schleimhautblutungen, die zur Bezeichnung der Pest als Schwarzer Tod beigetragen haben.
+
+=== Beulenpest
+
+Bei der Beulenpest oder Bubonenpest erfolgt die Ansteckung gewöhnlich durch den Biss eines Rattenflohs, der den Erreger als Zwischenwirt in sich trägt.
+Durch den Wirtswechsel wird das Bakterium von einem infizierten auf ein bislang gesundes Nahrungsopfer übertragen, nachdem es sich im Floh vermehrt hat.
+Neben der Übertragung von Ratte über Rattenfloh zum Mensch besteht auch ein Übertragungsweg über den Menschenfloh von Mensch zu Mensch.
+
+Die Inkubationszeit liegt bei wenigen Stunden bis sieben Tagen.
+Die Symptome sind Fieber, Kopf- und Gliederschmerzen, starkes Krankheitsgefühl und Benommenheit.
+Später kommt es zu Bewusstseinsstörungen.
+Der Name Beulenpest stammt von den stark geschwollenen, sehr schmerzhaften Beulen (Bubonen, die ein Paket geschwollener Lymphknoten des Sekundärkomplexes bilden können) am Hals, in den Achselhöhlen und in den Leisten (axilläre und inguinale Bubonen), die durch die Infektion der Lymphknoten und Lymphgefäße im Bereich des Flohbisses entstehen.
+Diese Beulen bzw. "Drüsenschwellungen" können einen Durchmesser von bis zu zehn Zentimetern erreichen und sind aufgrund innerer Blutungen in den Lymphknoten blau-schwarz gefärbt.
+Die Geschwülste zerfallen, nachdem sie eitrig eingeschmolzen sind.
+
+=== Pestsepsis
+
+Die (primäre) Pestsepsis entsteht durch Eintritt der Bakterien von ihrem Vermehrungsort in die Blutbahn.
+Dies kann durch Infektion von außen, zum Beispiel über offene Wunden, geschehen, aber auch als Komplikation aus den beiden anderen schweren Verlaufsformen, zum Beispiel durch Platzen der Pestbeulen nach innen.
+Die Erreger im Blut verteilen sich mit dem Blutstrom im gesamten Körper.
+Die Infektion bewirkt hohes Fieber, Schüttelfrost, Kopfschmerzen, Schwindelerscheinungen und ein allgemeines Unwohlsein, später Schock, großflächige Haut- und Organblutungen (daher der Name "Schwarzer Tod").
+Pestsepsis ist unbehandelt praktisch immer tödlich, in der Regel spätestens nach 36 Stunden.
+
+Heute kann durch die Behandlung mit Antibiotika die Sterblichkeit deutlich gesenkt werden.
+
+=== Lungenpest
+
+Die durch Tröpfcheninfektion übertragene und höchstinfektiöse Lungenpest kommt heute relativ selten vor.
+Sie ist die einzige Pestform mit spezifischem Ansteckungsweg und Ausbreitungsmuster.
+Sie dürfte der Influenza ähneln, wenn auch die Ausbreitungskraft wesentlich schwächer ist.
+Die Ausbreitung ist so spezifisch, dass sie nur unter besonders begünstigenden Umständen zur Epidemie werden kann.
+Zunächst sind die Ansteckungsquellen selten.
+Nur ein kleiner Teil der pestinfizierten Bevölkerung bekommt Lungenpest, etwa bei bestehender Beulenpest und Resistenzschwäche.
+Man kann zwar durch Säugetiere angesteckt werden, aber dabei handelt es sich in aller Regel um Schoßtiere.
+So hatten sich im 21. Jahrhundert die meisten Patienten mit Lungenpest in Amerika bei infizierten Katzen angesteckt.
+
+Die physische Nähe zur Pestquelle ist eine weitere Voraussetzung.
+Der kritische Abstand zum Gesicht eines Lungenpestkranken für eine Ansteckung liegt bei 30 cm und darunter.
+Im Gegensatz zu den Influenza-Viren sterben die Pestbakterien in der Luft rasch ab.
+Ein weiteres Moment, das die Ausbreitung vermindert, ist, dass die Infizierten sehr schnell sterben und damit nur eine geringe Zeitspanne verbleibt, in der die Lungenpest weitergegeben werden kann.
+Die Inkubationszeit wird mit 1 bis 3 Tagen angegeben, die Sterblichkeitsrate liegt bei 95 %, und der ansteckungsgefährliche Bluthusten tritt erst im fortgeschrittenen Stadium der Krankheit auf.
+
+Gleichwohl sind im 20. Jahrhundert Lungenpestepidemien dokumentiert, die von pestinfizierten Reisenden ausgelöst wurden.
+Die beiden größten Lungenpestepidemien traten Anfang des 20. Jahrhunderts in der chinesischen Grenzregion Mandschurei auf.
+Das Auftreten war vor allem an ein kaltes Klima geknüpft.
+Die Epidemie in der Mandschurei 1910-1911 fand im Winter (September bis April) statt und war an die Hauptverkehrswege geknüpft.
+Die Pest wurde über 2.700 km innerhalb von 7 Monaten transportiert.
+Es starben mindestens 60.000 Menschen an der Pest.
+
+Wu Lien-Teh beobachtete, dass die Lungenpest in der Mandschurei an die Jagd auf die Tabarganer oder auch Sibirischen Murmeltiere (Marmota sibirica) gekoppelt und auf den wertvollen Pelz zurückzuführen war.
+Der Preis für die Felle war vor 1910 um das Vierfache gestiegen.
+Heutige Erfahrungen haben gezeigt, dass die Lungenpest regelmäßig mit der Erkrankung von Nagetierpopulationen auftritt.
+Der Zusammenhang zwischen der Lungenpest und einer vorangegangenen Nagererkrankung mit epidemischer Beulenpest ist gut dokumentiert.
+
+Wenn die Erreger bei einer Beulenpest über die Blutbahn im Verlaufe einer Pestsepsis in die Lunge geraten, spricht man von sekundärer Lungenpest.
+Wird sie aber durch eine Tröpfcheninfektion von Mensch zu Mensch übertragen, spricht man von primärer Lungenpest.
+
+Die Lungenpest verläuft heftiger als die Beulenpest, weil die Abwehrbarrieren der Lymphknoten durch direkte Infektion der Lunge umgangen werden.
+Sie beginnt mit Atemnot, Husten, Blaufärbung der Lippen und schwarz-blutigem Auswurf, der extrem schmerzhaft abgehustet wird.
+Daraus entwickelt sich ein Lungenödem mit Kreislaufversagen, welches unbehandelt nach zwei bis fünf Tagen zum Tod führt.
+
+=== Abortive Pest
+
+Die abortive Pest ist die harmlose Variante der Pest.
+Sie äußert sich meist nur in leichtem Fieber und leichter Schwellung der Lymphknoten.
+Nach überstandener Infektion werden Antikörper gebildet, die eine langanhaltende Immunität gegen alle Formen der Krankheit gewährleisten.
+
+== Untersuchungsmethoden
+
+Die Diagnose erfolgt über den Nachweis der Erreger im Blut, im Sekret der Beulen oder bei der Lungenpest im Auswurf.
+Das französisch-madagassische Forschungsteam um Suzanne Chanteau vom Institut Pasteur de Madagascar (IPM) hat sowohl für die Lungen- als auch die Beulenpest 2003 einen Schnelltest entwickelt, mit dem sich Antikörper schon innerhalb von 15 Minuten nachweisen lassen.
+Davor ließen beide Erkrankungen sich erst nach einer 14-tägigen Auswertungsdauer nachweisen.
+
+Bei den immerhin noch jährlich 4000 weltweit auftretenden Pestfällen ist eine rasche Diagnose innerhalb von 24 Stunden entscheidender Bestandteil einer erfolgreichen Behandlung.
+In 20 Ländern, vor allem in Afrika, tritt die Pest nach wie vor auf.
+
+Die zunächst vieldeutigen und oft nur schwachen Symptome erforderten bislang in der Regel bakteriologische Untersuchungen, manchmal sogar über die DNA für eine eindeutige Zuordnung.
+Dabei sind Verwechslungen mit Blinddarmentzündung, Hirnhautentzündung und Streptokokkeninfektionen in den USA dokumentiert.
+
+Der mikrobielle Nachweis wird aus Sputum, Blut oder Bubonenaspirat (Eiter) erhoben.
+
+== Differenzialdiagnose
+
+Im Frühstadium muss, wenn kein Labor zur Verfügung steht, differenzialdiagnostisch an eine "Tularämie , Lymphknotentuberkulose, Yersiniose, Brucellose, Toxoplasmose, Katzenkratzkrankheit, Listeriose, HIV-Infektion und Lymphogranulomatose" gedacht werden.
+"Wegen des hohen Fiebers kommen auch Typhus, Denguefieber, Malaria und Sepsis in Betracht.
+Eine Lungenpest ist gegen andere Pneumonien abzugrenzen." "Eine pustulöse Pest erfordert den Ausschluss von Variola bzw. Varizellen."
+
+== Epidemiologie
+
+Die Pestausbreitung in den Epidemien von 1910 und 1921 ist auch auf die Entwicklung der Transportmittel zurückzuführen.
+1921 traten die Pestfälle vor allem an den Eisenbahnstationen von Harbin bis Wladiwostok auf.
+Harbin war der Knotenpunkt zwischen der Transsibirischen und der Ostchinesischen Eisenbahn und besonders betroffen.
+Aber auch die Reise zu Pferd verbreitete die Pest über weite Strecken, wie die Pestausbrüche in den Jahren 1878-1925 in Astrachan und dem südlichen Ural beweisen, wo es keine Eisenbahnverbindungen gab.
+Es starben über 5.000 Menschen, davon 70 % an Lungenpest.
+Schuld am Ausbruch waren dort die unhygienischen Wohnverhältnisse: dunkel, schmutzig und überbelegt.
+10-15 Menschen wohnten auf ca. 10 m^2.
+Die Menschen wuschen sich selten oder nie und wechselten auch die Kleider nicht.
+Die Pestkranken wurden von vielen Menschen besucht, und die Gäste wischten den Auswurf mit Händen oder Kleidern ab.
+Dies galt auch für die Pestepidemie von 1910, wo sich als erste die Tarbagan-Jäger bei der Jagd nach Murmeltieren zur Gewinnung der Murmelfelle an den verseuchten Tieren ansteckten.
+Sie schliefen in besonders kleinen Hütten, bis zu 40 Mann in Kojen, was die Weiterverbreitung begünstigte.
+Ein weiteres Indiz waren die Verhältnisse an den Bitumen-Gruben am See Dalai Nur.
+Während der Pestepidemie von 1921 arbeiteten dort 4.000 Chinesen und 2.000 Russen.
+Von den insgesamt 1.027 Toten waren nur 4 Russen.
+Die Chinesen lebten zusammengepfercht in kleinen Hütten, halb in die Erde eingegraben, die Russen lebten in oberirdischen Häusern.
+Die Übertragung der Lungenpest per Tröpfcheninfektion kam also am Anfang des 20. Jahrhunderts durchaus vor.
+
+=== Verlauf einer Epidemie
+
+Der endemische Verlauf der Pest folgt einem für diese Seuche typischen Muster, das so bei keiner anderen Seuche festzustellen ist:
+Der Tod setzt bei Ratten nach Befall einer Kolonie mit der Zeit immer schneller ein.
+Während anfangs mit ca. 7 Flöhen pro Ratte diese einen normalen Krankheitsverlauf zeigen, wird der Befall mit der Dezimierung der Kolonie bei den verbleibenden Ratten immer stärker, so dass 50 bis 100 Flöhe pro Ratte vorkommen, was zu einer wesentlich höheren Verseuchung führt.
+Nach 10 bis 14 Tagen ist die Rattenkolonie so stark reduziert, dass die Flöhe kaum noch Wirte finden.
+Diese Dauer von 10 bis 14 Tagen ist die erste wichtige Phase der Verbreitung.
+Danach nehmen die Flöhe ungefähr 3 Tage lang kein Blut auf, bis ihr Drang so groß ist, dass sie, da sie keine Ratten finden, nunmehr den Menschen anfallen.
+Es folgt die Inkubationsperiode von 3 bis 5 Tagen.
+Ihr folgt die Krankheitsperiode von 3 bis 5 Tagen, die bei der Mehrzahl der Befallenen zum Tode führt.
+Von der Ansteckung bis zum Tode vergehen durchschnittlich 8 Tage.
+Von der Erstinfizierung einer Rattenkolonie bis zum ersten Todesfall vergehen also 20 bis 28 Tage, gewöhnlich sind es 24 Tage.
+
+Der Kontakt zwischen verseuchten und frischen Rattenkolonien führt zu einer langsamen Ausbreitung.
+Wichtiger ist der Ausbreitungsprozess über die Besuchspersonen.
+Sie nehmen die verseuchten Flöhe nach Hause mit und stecken so die eigene Rattenkolonie an.
+Das bedeutet, dass diese Form der Ausbreitung sich erst auswirkt, wenn die Pest bei einem Menschen sichtbar ausgebrochen ist, so dass im Spätmittelalter diese Form der Ausbreitung mit Krankenwache, Totenwache, Begräbnisfeier und Erbteilung einsetzte.
+Dieser Zeitpunkt ist etwa 3 bis 4 Wochen nach dem Einschleppen der Pest an einen Ort erreicht.
+Eine Woche später hat sich die Pest auf die Heimathöfe der Besucher verteilt, und die epidemische Phase beginnt.
+Bis dahin sind also ungefähr 40 Tage oder 5 Wochen vergangen.
+
+Ein weiteres typisches Kennzeichen der Pestepidemie ist der Zusammenbruch im Winter.
+Es ist keine Epidemie der Beulenpest in einem Winter bekannt.
+Das hängt damit zusammen, dass bei Kälte die septische Bakteriendichte in den Ratten geringer ist, so dass die Flöhe weniger Bakterien aufnehmen, und damit, dass sich die Flöhe bei Kälte nicht vermehren.
+Das Ende von Pestepidemien, die durch Flöhe verbreitet werden, fällt regelmäßig auf die Wintermonate.
+Wurde die Pest erst im Spätherbst eingeschleppt, brach sie erst im nächsten Frühjahr aus.
+
+=== Wilde Nagetierpopulationen als Rückzugsgebiet des Pestbakteriums
+
+Die Pestbakterien kommen auch heute noch in wild lebenden Nagetierpopulationen vor - wie beispielsweise bei den Präriehunden, Erdhörnchen und Murmeltieren.
+Diese Populationen sind die natürlichen Reservoire des Pestbakteriums, von denen aus gelegentlich häusliche Nager wie beispielsweise Ratten infiziert werden.
+
+Während in Europa und Australien keine infizierten Tierpopulationen bekannt sind, kommen solche im Kaukasus, in Russland, in Südostasien, der Volksrepublik China, der Mongolei, Süd- und Ostafrika, Mittel- und Südamerika sowie im Südwesten der USA vor.
+
+Nach Nordamerika gelangte der Erreger dabei über ein Handelsschiff während einer Pestepidemie, die ab 1894 in Südostasien grassierte.
+Obwohl nur sehr wenige Menschen in Nordamerika an der Pest erkrankten, infizierte der Erreger die amerikanische Eichhörnchenpopulation.
+Gelegentlich kommt es daher auch heute noch in Nordamerika zu Übertragungen von Tier zu Mensch.
+Meist sind es Jäger, die sich bei einem Nagetier anstecken.
+Norman F. Cantor verweist jedoch auch auf einen nordamerikanischen Fall aus den 1980er Jahren, bei dem eine Frau ein Grauhörnchen mit einem Rasenmäher überfuhr und sich dabei mit der Pest infizierte.
+
+Weltweit registriert die Weltgesundheitsorganisation (WHO) etwa eintausend bis dreitausend Pestfälle pro Jahr, meistens in Form kleinerer, örtlich begrenzter Epidemien.
+In Europa gab es den letzten dokumentierten Pestausbruch im Zweiten Weltkrieg.
+Man nimmt an, dass die Pest in Europa nicht mehr existiert.
+
+== Behandlung
+
+Behandelt wird die Pest heutzutage mit Antibiotika über 10 Tage.
+Bei frühzeitiger Diagnose bestehen gute Chancen auf Heilung.
+Eingesetzte Wirkstoffe sind beispielsweise Streptomycin oder Gentamicin und Chloramphenicol sowie Kombinationen aus Tetracyclinen und Sulfonamiden.
+Chloramphenicol ist zwar hochwirksam, gilt aber wegen seiner Nebenwirkungen nur als Reservemedikament.
+Prophylaktisch und über sieben Tage verabreicht kommen gegebenenfalls die auch zur Behandlung eingesetzten Antibiotika Doxycyclin und Ciprofloxacin in Betracht.
+Die Letalität steigt exponentiell zum Fortschreiten der Erkrankung.
+
+== Vorbeugung und Meldepflicht
+
+Es stehen Schutzimpfungen zur Verfügung, die aber eine Immunität lediglich für drei bis sechs Monate gewähren, und dies auch nur bei der Beulenpest, nicht aber bei der Lungenpest.
+Die Autoren Eberhard-Metzger und Ries weisen jedoch auf die schlechte Verträglichkeit dieser Schutzimpfungen hin.
+Die Weltgesundheitsorganisation empfiehlt die Impfung daher nur Risikogruppen, zu denen beispielsweise Bauern, Landarbeiter und Jäger in Regionen zählen, in denen infizierte Nagetierpopulationen verbreitet sind.
+
+Weitere Maßnahmen, um eine Pestepidemie einzudämmen, sind verbesserte Hygiene, Bekämpfung der Ratten und die Verhinderung des Transports von Ratten auf Schiffen.
+Da nach dem Tod der Ratten die Flöhe ihren Wirt wechseln, müssen die Menschen mit Insektiziden vor den Flöhen geschützt werden.
+
+Länderübergreifende Quarantäneregelungen für Schiff-, Luft-, Zug- oder Kraftfahrzeugverkehr sind in den Internationalen Gesundheitsvorschriften von 1971 festgehalten.
+
+In Deutschland gehört die Pest bzw. das Pestfieber neben den hämorrhagischen Fiebern (Ebola, Lassa und anderen) in Deutschland zu den zwei Quarantäne-Krankheiten nach § 30 Infektionsschutzgesetz.
+Derart erkrankte Patienten müssen in speziellen Infektionsabteilungen abgeschirmt werden.
+Ein Hinweis auf die Pest, die Erkrankung an oder der Tod durch Pest müssen in Deutschland nach dem Infektionsschutzgesetz auch bei Verdacht namentlich gemeldet werden (§ 6 des Infektionsschutzgesetzes).
+Die Meldungen werden von den Gesundheitsämtern an die Landesgesundheitsbehörde und das Robert Koch-Institut weitergeleitet.
+Das Robert Koch-Institut meldet sie gemäß internationalen Vereinbarungen an die Weltgesundheitsorganisation.
+
+In Österreich ist die Pest eine anzeigepflichtige Krankheit gemäß § 1 Abs. 1 Epidemiegesetz 1950.
+Anzeigepflichtig sind Verdachts-, Erkrankungs- und Todesfälle.
+
+In der Schweiz ist Pest ebenfalls eine meldepflichtige Krankheit und zwar nach dem Epidemiengesetz (EpG) in Verbindung mit der Epidemienverordnung und Anhang 1 der Verordnung des EDI über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen.
+Es bestehen die Pflichten zur Meldung eines klinischen Verdachts, zur Rücksprache mit Fachärztin oder Facharzt für Infektiologie und zur Veranlassung einer erregerspezifischen Labordiagnostik.
+
+== Geschichte
+
+=== Erstes Auftreten
+
+Genetische Untersuchungen eines 3800 Jahre alten Grabes in der russischen Region Samara im Jahr 2018 konnten zwei Yersinia-pestis-Genome rekonstruieren, die gleichzeitig zirkulierten.
+Eines davon weist die Gene auf, die für die Beulenpest als charakteristisch gelten, und ist Vorfahre der heutigen Stämme.
+Das Alter dieser Abstammungslinie wurde auf 4000 Jahre berechnet.
+
+Sehr lange war umstritten, ob bereits die spätantike Justinianische Pest, die ab 541 Europa und Vorderasien schwer traf und um 770 wieder verschwand, durch einen Erreger vom Stamm Yersinia pestis verursacht wurde.
+Schließlich zeigte Anfang 2013 eine an verschiedenen Laboratorien parallel durchgeführte internationale Studie unter der Leitung von Michaela Harbeck und Holger C. Scholz anhand von DNA-Material aus Gräbern aus Aschheim, die eindeutig in das spätere 6. Jahrhundert datiert werden können, dass für diese erste historisch belegbare Pestpandemie im engeren Sinne tatsächlich ein heute ausgestorbener Strang des Erregers Yersinia pestis verantwortlich war.
+
+Zudem gelang eine phylogenetische Einordnung des betreffenden Erregers zwischen den frühen Stammbaum-Abzweigungen N03 und N05.
+Mithin kann es nach aktuellem Forschungsstand als nahezu gesichert gelten, dass ein Erreger vom Stamm Yersinia pestis an der Justinianischen Pest zumindest prominent beteiligt war und es sich bei der Seuche somit tatsächlich um die Pest gehandelt hat.
+Als erster Ausbruch der Krankheit hatte bis 2013 vielen Forschern der Schwarze Tod von 1347 bis 1351 gegolten.
+Wieso die Pest um 770 für mehrere Jahrhunderte wieder aus Europa verschwunden zu sein scheint, ist bislang ungeklärt.
+
+=== Forschungsgeschichte
+
+Mit der Pestpandemie von 1890 in Indochina begann die moderne Beschreibung der Krankheit.
+Alexandre Yersin, der zur gleichen Zeit wie der Japaner Kitasato (Erforscher der Pest in Hongkong) forschte, hatte den später nach ihm benannten, bis 1944 Pasteurella pestis genannten Bazillus Yersinia pestis am 20. Juni 1894 entdeckt, isoliert und der Pest zugeordnet.
+Gleichzeitig wurde in Indien von dem Franzosen Paul-Louis Simond die Übertragung von der Schwarzen Ratte (Rattus rattus) über den orientalischen Rattenfloh auf den Menschen entdeckt.
+
+Das führte zu einer Beschreibung der Pest als eine einheitliche Krankheit.
+Die Entdeckung der Ausbreitung der Pest in Indien hatte eine beherrschende Bedeutung in der Anschauung der Pest in ihrer heutigen Bedeutung als moderne Krankheit.
+Sie führte zunächst zu der Auffassung, dass es nur diese eine Art der Ausbreitung der Krankheit gebe.
+Inzwischen haben sich die Forschungen auf eine große Zahl von Nagern und eine große Zahl von Floharten ausgeweitet.
+Die hohe Sterblichkeit in den Kolonien führte zu erhöhten Forschungsanstrengungen mit einer Kartografie der epidemischen Züge.
+Dass es sich immer um die Pest handele, war nicht hinterfragter Ausgangspunkt.
+So wurde die Krankheit mit dem historischen Begriff Pest belegt und auch die Bakterien danach benannt.
+Die Identität der mittelalterlichen Pest mit der in Indien erforschten Seuche wurde vorausgesetzt.
+Bei der Erforschung der Pest und ihrer Ausbreitung waren die Vorgaben der englischen Pestforschungskommission maßgeblich, die 1905 nach Indien entsandt worden war.
+
+Viele Forschergruppen reisten nach Indien, darunter auch eine deutsche mit Wissenschaftlern aus der Umgebung Robert Kochs.
+Diese stellten 1897 fest: "Aus vielen Orten ist berichtet, dass dem Ausbruch der Pest eine seuchenartige Krankheit und massenhaftes Sterben der Ratten voranging." Eine vom indischen Vizekönig eingesetzte englische Kommission verkündete 1910 definitiv, dass die Pestepidemie in Indien direkt von der Pest in der Rattenpopulation abhängig sei.
+Für andere Tiere als Wirtstier wurden keine Belege gefunden.
+Dabei unterschied die Kommission zwischen Beulenpest und anderen klinischen Formen.
+Alle Beobachtungen deuteten darauf hin, dass die Pestepidemien ausschließlich in Form der Beulenpest auftraten.
+
+Die Ansteckung der Ratten untereinander geschah nachweislich durch die Flöhe.
+(Zum Nachweis wurden gesunde und kranke Ratten getrennt gehalten, wobei die Trennung für die Flöhe durchlässig war).
+Hinsichtlich der Pest bei den Menschen zog die Kommission eine Reihe von Schlüssen:
+1. Die Pest wird nicht von Mensch zu Mensch übertragen, denn die Pfleger in den Krankenhäusern steckten sich nicht an.
+2.
+Die Epidemie war nach ihrer Meinung fest mit der Epidemie unter den Ratten verknüpft.
+3.
+Die in Indien vorherrschende Flohart Pulex cheopis, heute Xenopsylla cheopis, hatte sich erwiesen als eine, die auch Menschen anfällt, insbesondere, wenn ihre natürlichen Wirtstiere fehlten.
+Wiederholte Versuche mit Meerschweinchen und Affen in pestverseuchten Häusern zeigten, dass sie erkrankten, wenn sie nicht gegen Flöhe geschützt wurden.
+Weder pestverseuchter Boden noch die Kleider oder das Bettzeug von Pestkranken waren im Stande, ohne Flöhe mit Pest anzustecken.
+Da die Kommission experimentell feststellte, dass die Pestbakterien nur wenige Tage außerhalb eines Wirtstiers überleben konnten, kam sie zu dem Schluss, dass die Pest in den Landstädten von außerhalb hereingetragen worden sein musste.
+Da in den Großstädten die Pest auch außerhalb der pestgefährlichen Monate auftrat, meinte sie, dass die Pest dort in kleinen Rattenpopulationen oder einzelnen Menschen als Reservoir zwischen den Pestsaisonen erhalten blieb.
+Bei einem Untersuchungsgebiet in der Größe Indiens stellte sich die Frage nach den Ausbreitungswegen.
+Da die Ratten kaum große Distanzen zurücklegen konnten, meinte die Kommission, dass die Verbreitung in bislang pestfreie Zonen über den Warenverkehr stattgefunden haben müsse.
+Diese Untersuchungen und Schlussfolgerungen bezogen sich ausschließlich auf die in Indien damals aufgetretene Beulenpest.
+
+=== Genomentschlüsselung
+
+2011 wurde das Genom des Yersinia-pestis-Stammes beschrieben, der von 1348 bis 1350 während der Zeit des "Schwarzen Todes" Menschen in England infiziert hatte.
+
+Mit den Ergebnissen kann die Evolution von Krankheitserregern besser nachvollzogen werden.
+Laut Studie veränderten sich die Pesterreger seit der Epidemie zwischen 1348 und 1353 kaum.
+Vermutungen, der Erreger sei in Ostasien im 13. oder 14. Jahrhundert entstanden, was bedeutete, dass frühere Pestepidemien wie die Justinianische Pest, die im 6. Jahrhundert weltweit zum Tod von mehr als 100 Millionen Menschen führte, von einem anderen, bisher nicht identifizierten Erreger verursacht worden wären, stellten sich Anfang 2013 als falsch heraus:
+Auch die Infektionen aus dem 6. Jahrhundert sind auf den Erreger Yersinia pestis zurückzuführen.
+Das Erbmaterial der jahrhundertealten Pesterreger gewannen die Forscher aus den Skeletten von Pestopfern, die im Mittelalter auf dem East-Smithfield-Friedhof in London begraben worden waren.
+Dieser Friedhof gilt als der am besten dokumentierte Pestfriedhof in ganz Europa; er wurde nur drei Jahre lang - von 1348 bis 1350 - benutzt.
+
+=== Die Pest heute
+
+Die Pest gehört heute zu den "vergessenen" Krankheiten, die gut behandelbar sind, aber bei zu später Entdeckung noch immer tödlich verlaufen.
+Neben den traditionellen Wirts- und Zwischenwirtsträgern wie Flöhen und Ratten, die sich u. a. mit Hygienemaßnahmen gut bekämpfen lassen, sind die Ausbrüche heute oft an Murmeltiere, Präriehunde, Erdhörnchen, aber auch an wild lebende Katzen, Hasen und Kaninchen gebunden.
+Ausbrüche kommen deshalb fast weltweit vor, sind aber selten und konnten mit Ausnahme von Madagaskar meist schnell eingegrenzt werden und erreichen nur niedrige Fallzahlen.
+Eine große Gefahr ist im Frühstadium der Erkrankung aufgrund erster Symptome die Verwechselung mit einer Erkältung, die am besten durch eine ärztliche Differenzialdiagnostik (Krankheitssymptome und Zugehörigkeit zu einer Risikogruppe) ausgeschlossen werden kann.
+Von 1978 bis 1992 meldete die Weltgesundheitsorganisation (WHO) 1451 Todesfälle in 21 Ländern.
+In den USA gab es beispielsweise 1992 dreizehn Infektionen und zwei Todesfälle.
+Für den Zeitraum 2010 bis 2015 verzeichnete die WHO 3248 Fälle weltweit, darunter 584 an der Pest Verstorbene.
+
+==== Regionale Pestereignisse in verschiedenen Ländern
+
+Eine größere Pestepidemie ereignete sich von August bis Oktober 1994 im indischen Surat.
+Die WHO zählte 6344 vermutete und 234 erwiesene Pestfälle mit 56 Toten.
+Der dort festgestellte Pesterreger wies dabei bislang noch nicht beobachtete Eigenschaften auf.
+Er zeichnete sich durch eine schwache Virulenz aus und gilt aufgrund einiger molekularbiologischer Besonderheiten als neuartiger Erregerstamm.
+
+Im Jahr 2003 kam es in Algerien nach 50 Jahren wieder zu einem Pestausbruch.
+
+Im Februar 2005 breitete sich die Lungenpest in Bas-Uele im Norden der Demokratischen Republik Kongo aus.
+Nach Berichten der WHO gab es 64 Tote.
+Durch das Eingreifen der Organisation Ärzte ohne Grenzen konnte eine weitere Verbreitung verhindert werden.
+Am 14. Juni 2006 wurden im Kongo 100 Pesttote gemeldet, wobei die am stärksten betroffene Region der Distrikt Ituri im Nordosten war mit bis zu 1000 Fällen pro Jahr, sowohl Lungenpest als auch Beulenpest.
+
+Im November 2008 wurde ein erneuter Ausbruch der Erkrankung in Uganda von den lokalen Zeitungen gemeldet.
+Betroffen waren insgesamt zwölf Menschen, von denen drei starben.
+
+In den südwestlichen US-amerikanischen Bundesstaaten treten immer wieder Pestfälle auf.
+Das silvatische (von lateinisch silva "Wald") Erregerreservoir bilden hier Präriehunde.
+Werden erkrankte Präriehunde von Hauskatzen erbeutet, so erkranken diese in 10 % der Fälle an Lungenpest und scheiden große Mengen des Erregers aus.
+Sie sind dann eine Infektionsquelle für den Tierbesitzer und andere Kontaktpersonen.
+Insgesamt erkranken in den USA jährlich zehn bis zwanzig Menschen an der Pest, wobei die Zahlen rückläufig sind.
+Dies wird vom Osloer Biologen Nils Christian Stenseth auf den Klimawandel zurückgeführt.
+Anfang August 2009 wurde in Ziketan in der tibetisch geprägten Provinz Qinghai im Nordwesten Chinas bei elf Menschen die Infektion mit Lungenpest festgestellt.
+Ein Mensch starb.
+2014 wurde eine chinesische Kleinstadt unter Quarantäne gestellt, nachdem ein Mann an der Pest gestorben war.
+
+Anfang Juni 2018 wurde laut dem Nachrichtenmagazin Stern im US-Bundesstaat Idaho bei einem Menschen die Beulenpest festgestellt.
+Der letzte Fall der Beulenpest in Idaho lag bis dahin 26 Jahre zurück.
+
+2019 starb in der Mongolei ein Ehepaar nach Verzehr eines vermutlich infizierten Murmeltieres.
+
+==== Pestvorkommen in Madagaskar seit 2008
+
+Anfang 2008 brach auch in Madagaskar die Pest aus, 18 Menschen fanden dabei den Tod.
+2010 starben 18 Menschen.
+Von Jahresbeginn bis März 2011 waren 60 Menschen gestorben und 200 weitere erkrankt.
+Betroffen sind vor allem abgeschiedene Regionen wie der Bereich um das Städtchen Ambilobe im Nordwesten, weitere Fälle gab es im Osten und im Hochland.
+
+Ende 2013 starben im abgelegenen Norden der Tropeninsel Madagaskar im Distrikt Mandritsara 20 Menschen an der Lungenpest.
+Seit September 2013 sind in vier verschiedenen Distrikten auf Madagaskar 36 Menschen der Infektionskrankheit zum Opfer gefallen.
+
+Im Jahr 2014 starben in Madagaskar, in einem Mitte November noch grassierenden Pestausbruch, erneut mindestens 40 Menschen.
+
+Ende Oktober 2017 wurde gemeldet, dass die Zahl der Toten durch den jüngsten Pestausbruch auf Madagaskar auf 107 gestiegen ist.
+Mehr als 1100 Menschen haben sich mit der Krankheit infiziert, knapp 700 davon konnten bislang geheilt werden.
+Seit 2010 sind auf Madagaskar rund 600 Menschen an Pest gestorben.
+
+== Kulturelle Aspekte
+
+Seit der Pestepidemie von 1348 entstanden Pestbilder, die den göttlichen Zorn, meist in Form von Pfeilen oder Lanzen malerisch dargestellt, als Erklärung für die Erkrankungen versinnbildlichen sollten.
+Oft ist auf diesen Bildern eine vor diesem Gotteszorn schützende Schutzmantelmadonna abgebildet oder es werden die Schutzheiligen Sebastian oder auch Rochus gezeigt.
+Zum Dank für das Erlöschen von Pestepidemien wurden vielerorts prachtvolle Pestsäulen aufgestellt.
+
+Die Oberammergauer Passionsspiele finden als Einlösung eines Versprechens nach der überstandenen Pest 1634 statt.
+Seit 1680 finden sie im zehnjährigen Rhythmus statt und zählen zu den weltweit bekanntesten Passionsspielen.
+In ähnlicher Weise wird in der Stadt Flörsheim am Main seit 1666 bis in die Gegenwart am letzten Montag im August der sogenannte "Verlobte Tag" zum Dank für die Verschonung der Bevölkerung von der Pest als örtlicher Feiertag begangen.
+
+Am 5. März 1838 wurde die Oper Guido et Ginevra, ou La Peste de Florence von Fromental Halevy nach einem Libretto Eugene Scribes an der Pariser Oper uraufgeführt.
+Die Handlung spielt in der Toscana im Jahre 1552.
+1881 veröffentlichte der dänische Schriftsteller Jens Peter Jacobsen die Novelle Pesten i Bergamo ("Die Pest in Bergamo").
+Arnold Böcklin schuf zu diesem Thema 1898 in Italien das Bild Die Pest oder auch Der Schwarze Tod, das heute im Kunstmuseum Basel ausgestellt ist.
+Böcklin personifiziert die Pest in seinem Bild als einen auf einem fliegenden Ungeheuer reitenden Sensenmann, vor dem es kein Entrinnen gibt.
+Die Sense und die skelettartige Gestalt greifen auf die mittelalterliche Todesallegorie zurück.
+
+Nach einem Drehbuch von Fritz Lang entstand 1919 als erster Film der Monumentalfilmreihe Decla-Weltklasse der Stummfilm Die Pest in Florenz, in dem die Pest das Florenz der Renaissance heimsucht.
+In der letzten Sequenz des Filmes zieht eine Personifikation der Pest tanzend und Geige spielend als eine Form des Totentanzes durch die Stadt.
+Die Darstellung der Pest dabei zeigt sehr deutliche Bezüge zu Arnold Böcklins Gemälde.
+1921/1922 drehte Friedrich Wilhelm Murnau den Stummfilm Nosferatu - Eine Symphonie des Grauens, in dem ein Vampir symbolisch mit der Pest gleichgesetzt wird und deren bildhaft-körperliche Personifizierung darstellt.
+Noch deutlicher wird diese Metaphorik in Werner Herzogs Tonfilm-Adaption Nosferatu - Phantom der Nacht (1979) mit Klaus Kinski in der Titelrolle herausgearbeitet.
+Veit Harlan schildert in seinem 1938 gedrehten Seuchendrama Verwehte Spuren, einer Adaption des gleichnamigen Hörspiels von Hans Rothe, einen angeblich authentischen Pestfall während der ersten Pariser Weltausstellung im Jahr 1867.
+Ingmar Bergman drehte 1957 Das siebente Siegel (Det sjunde inseglet) mit Max von Sydow; der Film behandelt eine Pestepidemie im Schweden des 14. Jahrhunderts.
+
+Albert Camus schrieb den Roman Die Pest (französisch La Peste) über einen neuzeitlichen Pestausbruch in der algerischen Stadt Oran (publiziert 1947).
+Darin trifft ein Arzt trotz der Aussichtslosigkeit und Absurdität des Kampfes gegen die Pest auf Menschlichkeit und Solidarität.
+Die Pest wird hierbei oft als Symbol für den Nationalsozialismus interpretiert.
+Vier Jahre zuvor veröffentlichte Raoul Maria de ngelis den Roman La peste a Urana ("Die Pest in Urana").
+Auch Marcel Pagnol schrieb eine Erzählung über die Pest.
+Sie hat die Verwüstung von Marseille 1720 zum Thema.
+Les Pestiferes erschien postum 1977 in Band IV der Souvenirs d'Enfance, Le Temps des Amours.
+1973 entstand das 1975 in Spoleto aufgeführte Theaterstück Il sonno dei carnefici ("Der Traum der Totengräber") des Biologen und Schriftstellers Giorgio Celli, das sich mit der Pest in Sevilla befasst.
+
+== Der Pesterreger als biologische Waffe
+
+Der Pesterreger wird von der Weltgesundheitsorganisation zu den zwölf gefährlichsten biologischen Kampfstoffen gezählt.
+Zu diesen sogenannten dreckigen Dutzend gehören auch die des Milzbrands und der Tularämie sowie Pocken-, Ebola- und Marburg-Viren.
+
+Es gibt die populäre Hypothese, dass die Pest als biologische Waffe bereits im 14. Jahrhundert zum Einsatz kam - als 1346 in der genuesischen Hafenstadt Kaffa auf der Krim der Tatarenführer Dschanibek Pestleichen über die Mauern der Stadt werfen ließ und die Belagerten vor der Pest nach Italien flüchteten.
+Nach einem Bericht von Gabriel des Mussis aus Piacenza sollen bei der Belagerung Kaffas beteiligt gewesene Genuesen und Venezianer die Seuche mit Galeeren nach Messina, Pisa, Genua und Venedig eingeschleppt haben, von wo aus sie sich dann über ganz Italien verbreitete.
+Dies wird jedoch kontrovers beurteilt und ist nicht eindeutig belegt.
+
+Während des zweiten Chinesisch-Japanischen Krieges stellte die Japanische Armee im Einheit 731 genannten Gefangenenlager bei Harbin in der Mandschurei biologische Waffen her, die aus mit dem Pesterreger infizierten Flöhen bestanden und deren Einsatz in der Republik China in den Jahren 1940 bis 1942 lokale Pestausbrüche verursachte.
+Bei der Zerstörung der Produktionsstätten durch die japanische Armee 1945 bei Kriegsende kamen mit Pest infizierte Ratten frei und lösten in den chinesischen Provinzen Heilongjiang und Jilin eine Epidemie mit über 20.000 Todesopfern aus.
+Während des Kalten Krieges beschäftigten sich sowjetische Wissenschaftler des Direktorium-15 im militärischen Forschungskomplex Biopreparat unter Leitung von Ken Alibek mit dem Einsatz von Pesterregern als biologische Waffe.
+
+In Deutschland beschäftigt sich das Robert Koch-Institut mit den Gefahren durch biologische Kampfführung.
+Dort wurde auch die Informationsstelle des Bundes für biologische Sicherheit (IBBS) eingerichtet.
+Wie groß die Gefahr eines Angriffs mit biologischen Kampfstoffen tatsächlich ist, ist umstritten.
+Die IBBS rät nicht zu einer Impfung gegen die Pest in Deutschland.
+Diese Empfehlung gilt sowohl für die Bevölkerung insgesamt als auch für Risikogruppen.
+
+Am 28. August 2014 berichtete die Zeitschrift Foreign Policy von einem in einem Versteck der Organisation "Islamischer Staat" gefundenen Computer, der unter anderem Anleitungen zur Erstellung von Beulenpest-Waffen enthalten haben soll.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

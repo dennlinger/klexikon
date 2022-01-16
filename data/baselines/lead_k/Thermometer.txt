@@ -1,0 +1,7 @@
+Ein Thermometer (altgriechisch o thermos, deutsch ,warm' und altgriechisch ov metron, deutsch ,Maß, Maßstab') ist ein Messgerät zur Bestimmung der Temperatur.
+Viele Thermometer basieren auf der Temperaturabhängigkeit der Ausdehnung von Flüssigkeiten, Gasen oder Festkörpern, deren Ausdehnungskoeffizient bekannt ist.
+Dazu muss die Messstelle des Thermometers die Temperatur des Messgegenstands annehmen.
+Neben diesem mechanischen Messeffekt werden verschiedene von der Temperatur abhängige elektrische Einflüsse genutzt, z. B. der Einflusseffekt der Temperatur auf den elektrischen Widerstand.
+Pyrometer hingegen messen ohne Berührung des Messgegenstands anhand seiner für die Temperatur charakteristischen ausgesendeten Temperaturstrahlung.
+Jedes Thermometer besteht aus einem Temperatur-Sensor (in dem der Messeffekt auftritt) und einer Anzeige (z. B. anhand einer Skale) oder einer Anschlussstelle für ein elektrisches Signal.
+Thermometer werden anhand von festen Temperaturpunkten, wie den Tripel- oder Schmelzpunkten bestimmter Materialien, oder anhand eines geeichten Referenzthermometers justiert.

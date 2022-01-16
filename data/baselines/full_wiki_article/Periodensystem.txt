@@ -1,0 +1,683 @@
+Das Periodensystem (Langfassung Periodensystem der Elemente, abgekürzt PSE oder PSdE) ist eine Liste aller chemischen Elemente, geordnet nach steigender Kernladung (Ordnungszahl).
+Die Liste wird so in Zeilen (Perioden) unterteilt, dass in jeder Spalte (Hauptgruppe/Nebengruppe) der entstehenden Tabelle Elemente mit ähnlichen chemischen Eigenschaften stehen.
+Der Name Periodensystem (von griechisch ioo periodos, deutsch ,Umgang, Umlauf, Kreislauf') weist darauf hin, dass sich mit ansteigender Ordnungszahl viele Eigenschaften der Elemente periodisch wiederholen.
+Das Periodensystem wurde 1869 unabhängig voneinander und fast identisch von zwei Chemikern vorgestellt, zunächst von dem Russen Dmitri Mendelejew (1834-1907) und wenige Monate später von dem Deutschen Lothar Meyer (1830-1895).
+Historisch war das Periodensystem für die Vorhersage von noch unentdeckten Elementen und deren Eigenschaften von besonderer Bedeutung, da die Eigenschaften eines Elements näherungsweise vorhergesagt werden können, wenn die Eigenschaften der umgebenden Elemente im Periodensystem bekannt sind.
+Heute dient es vor allem als übersichtliches Organisationsschema der Elemente und zur Ermittlung möglicher chemischer Reaktionen.
+Ein Periodensystem ist eine systematische tabellarische Zusammenstellung der chemischen Elemente, in der die Elemente nach zwei Prinzipien angeordnet sind:
+Sie sind einerseits nach ansteigender Ordnungszahl (also der für jedes Element eindeutigen und charakteristischen Anzahl der Protonen im Atomkern) angeordnet.
+Andererseits ist die Darstellung so gewählt, dass Elemente mit ähnlichem chemischen Verhalten nahe zusammen stehen.
+Mit ansteigender Ordnungszahl ähneln sich die Eigenschaften der Elemente in gleichmäßigen, wenn auch unterschiedlich langen periodischen Abständen.
+Die Bezeichnung "Periodensystem" weist darauf hin, dass diese Periodizitäten durch die gewählte Anordnung der Elemente dargestellt werden.
+Es gibt verschiedene Varianten von Periodensystemen.
+Die bekannteste Darstellung ordnet die Elemente unter Berücksichtigung der Periodizitäten in einem zweidimensionalen tabellarischen Gitterraster an, in dem jedem Element ein Gitterkästchen entspricht.
+Die waagerechten Zeilen der Darstellung werden als Perioden bezeichnet, die senkrechten Spalten als Gruppen.
+Innerhalb jeder Periode nimmt die Ordnungszahl der Elemente von links nach rechts zu.
+Die Zeilenumbrüche sind so gewählt, dass chemisch ähnliche Elemente jeweils in derselben Spalte (Gruppe) stehen.
+Die Elemente einer Gruppe weisen also ähnliches chemisches Verhalten auf.
+So gibt es etwa die Gruppe der chemisch trägen Edelgase oder die Gruppe der reaktionsfreudigen Halogene.
+Die Perioden weisen unterschiedliche Längen auf.
+Die erste Periode umfasst nur zwei Elemente.
+Es folgen zwei Perioden mit je acht Elementen, zwei weitere Perioden mit je achtzehn Elementen und schließlich zwei Perioden mit je zweiunddreißig Elementen.
+Die Langform des Periodensystems, in der die beiden letzten Perioden als durchgehende Zeilen dargestellt werden, ist wegen der benötigten Breite der Darstellung oft ungünstig.
+In der meistens benutzten mittellangen Form sind aus diesen Perioden herausgeschnittene Elementgruppen platzsparend unterhalb des Hauptsystems dargestellt.
+In dieser Form besitzt das Periodensystem sieben Perioden und achtzehn Gruppen.
+Es gibt auch eine noch kompaktere, aber heutzutage nur selten verwendete Kurzform des Periodensystems.
+Üblicherweise sind die Elemente mit ihrer Ordnungszahl und ihrem Elementsymbol aufgeführt.
+Je nach Anwendungszweck können weitere Informationen zum Element wie beispielsweise vollständiger Name, Masse, Schmelztemperatur, Dichte und Aggregatzustand angegeben sein.
+Etwaige Angaben zu "Schalen" beziehen sich auf das Schalenmodell der Atomphysik.
+Oft werden farbliche Kodierungen benutzt, um unterschiedliche Eigenschaften darzustellen, beispielsweise die Zugehörigkeit zu den Metallen, Halbmetallen oder Nichtmetallen.
+Die Besonderheit des Periodensystems gegenüber einer bloßen tabellarischen Auflistung von Element-Eigenschaften liegt jedoch in der Information über die Beziehungen der Elemente untereinander, die sich aus der Platzierung der betreffenden Elemente ergibt.
+Die Zugehörigkeit eines Elements zu einer bestimmten Gruppe lässt sofort auf die wesentlichen chemischen Charakteristiken des Elements schließen, wie etwa seine Reaktionsfreudigkeit oder bevorzugte Bindungspartner.
+Die Positionierung innerhalb des Gesamtsystems erlaubt Rückschlüsse bezüglich derjenigen Eigenschaften, die einen systematischen Trend im Periodensystem aufweisen, wie etwa die Ionisierungsenergie.
+Mit der bisher letzten Erweiterung des Periodensystems im Jahre 2015 sind nun die Elemente 1 (Wasserstoff) bis 118 (Oganesson) lückenlos entdeckt oder erzeugt und beschrieben.
+In der Natur kommen die Elemente der Ordnungszahlen 1 bis 94 vor, wobei Technetium (Ordnungszahl 43), Promethium (61), Astat (85), Neptunium (93) und Plutonium (94) in so geringen Mengen natürlich vorkommen, dass sie zuerst künstlich erzeugt und beschrieben wurden.
+Von diesen 94 natürlichen Elementen sind 83 primordial, existieren also seit der Entstehung der Erde.
+Die ursprünglichen Bestände der übrigen 11 sind wegen ihrer geringeren Halbwertszeiten längst zerfallen, sie werden aber durch radioaktive Zerfälle in den natürlichen Zerfallsreihen der primordialen Elemente ständig neu gebildet.
+Die Elemente der Ordnungszahlen 95 bis 118 wurden ausschließlich künstlich erzeugt.
+Die zuletzt entdeckten Elemente 113, 115, 117 und 118 wurden am 30. Dezember 2015 von der IUPAC bestätigt, womit nun auch die siebte Periode des Periodensystems vollständig ist.
+Bilder der jeweiligen Elemente finden sich in der Bildtafel der chemischen Elemente.
+Alle Substanzen sind aus Atomen aufgebaut.
+Ein Atom besteht aus Protonen und Neutronen, die den Atomkern bilden, und aus Elektronen, die den Atomkern als "Elektronenhülle" umgeben.
+Die Protonen tragen jeweils eine positive und die Elektronen eine negative Elementarladung, so dass die Anzahl der Elektronen in der Elektronenhülle gleich der Anzahl der Protonen im Atomkern sein muss, wenn das Atom elektrisch neutral sein soll.
+Die Anzahl der Protonen beziehungsweise Elektronen eines elektrisch neutralen Atoms heißt seine "Ordnungszahl".
+Chemische Verbindungen sind Substanzen, die aus zwei oder mehr Atomsorten aufgebaut sind.
+Dabei verbinden sich die Atome zu Molekülen.
+Die Bindungskräfte, welche die Atome in einem Molekül zusammenhalten, werden durch Wechselwirkungen der Elektronen vermittelt.
+Ausschlaggebend für die Eigenschaften der Bindungskräfte sind hauptsächlich die Eigenschaften der im äußeren Bereich der Hülle befindlichen Elektronen, der Valenzelektronen.
+Das chemische Verhalten eines Atoms - beispielsweise seine Neigung, mit bestimmten anderen Atomarten bevorzugt Verbindungen einzugehen - wird also durch die Struktur der Elektronenhülle und insbesondere der Valenzelektronen maßgeblich bestimmt.
+Diese Struktur ist für eine gegebene Anzahl von Elektronen stets dieselbe, so dass die Ordnungszahl das chemische Verhalten des Atoms bestimmt.
+Atome mit gleicher Ordnungszahl und daher gleichem Verhalten bei chemischen Reaktionen werden als chemische Elemente bezeichnet.
+Im Periodensystem sind alle existierenden Elemente so angeordnet, dass die aus dem Aufbau der Atome resultierenden Gesetzmäßigkeiten in den chemischen und atomphysikalischen Eigenschaften der Elemente erkennbar werden.
+Die Elektronenhülle eines Atoms weist Strukturen auf, die von der Quantenmechanik untersucht und beschrieben werden.
+Sie kann in Hauptschalen unterteilt werden.
+Jede Hauptschale lässt sich wiederum in Unterschalen unterteilen, die aus Orbitalen bestehen.
+Der quantenmechanische Zustand, in dem sich ein gegebenes Elektron befindet, wird durch vier Quantenzahlen beschrieben:
+Die Hauptquantenzahl, die Nebenquantenzahl, die Magnetquantenzahl und die Spinquantenzahl.
+Die Hauptquantenzahl n = 1, 2, 3, ... nummeriert die Hauptschalen.
+Alternativ können diese Schalen als K-Schale (für n = 1), L-Schale (für n = 2), M-Schale (für n = 3) und so weiter bezeichnet werden.
+Der Durchmesser der Hauptschalen nimmt mit steigender Hauptquantenzahl zu.
+Eine Hauptschale mit der Hauptquantenzahl n besitzt n Unterschalen, die sich in ihrer Nebenquantenzahl unterscheiden.
+Die Unterschalen werden mit den Buchstaben s, p, d, f und so weiter bezeichnet (die Wahl dieser Buchstaben ist historisch bedingt).
+Eine gegebene Unterschale in einer bestimmten Hauptschale wird durch ihren Buchstaben mit davorgesetzter Hauptquantenzahl identifiziert, beispielsweise 2p für die p-Unterschale in der L-Schale (n = 2).
+Die einzelnen Unterschalen teilen sich in Orbitale, die durch die Magnetquantenzahl unterschieden werden.
+Jede s-Unterschale enthält ein Orbital, jede p-Unterschale enthält drei Orbitale, jede d-Unterschale enthält fünf Orbitale und jede f-Unterschale enthält sieben Orbitale.
+Die Spinquantenzahl beschreibt die beiden möglichen Spinausrichtungen des Elektrons.
+Das Paulische Ausschließungsprinzip besagt, dass keine zwei Elektronen in einem Atom in allen vier Quantenzahlen übereinstimmen können.
+Zwei Elektronen, die sich in demselben Orbital befinden, stimmen bereits in drei Quantenzahlen überein (nämlich jenen, die dieses Orbital beschreiben).
+Die beiden Elektronen müssen sich also in der vierten Quantenzahl, ihrer Spinausrichtung, unterscheiden.
+Damit sind die Variationsmöglichkeiten für die Quantenzahlen in diesem Orbital ausgeschöpft, jedes einzelne Orbital kann also maximal von zwei Elektronen besetzt werden.
+Es ergeben sich für die verschiedenen Schalen daher die folgenden maximalen Elektronenzahlen:
+Allgemein kann eine Schale mit der Hauptquantenzahl n insgesamt maximal 2*n2 Elektronen aufnehmen.
+Im Allgemeinen sind Elektronen, die sich auf einer höheren Hauptschale aufhalten, energiereicher als Elektronen auf weiter innen liegenden Schalen.
+Die Hauptschalen können sich jedoch energetisch überlappen, da innerhalb einer Hauptschale die Energie der Unterschalen im Sinne s = p = d = f zunimmt und energiereichere Unterschalen einer gegebenen Hauptschale eine höhere Energie besitzen können als die energieärmsten Unterschalen der nächsten Hauptschale.
+Dies hat Konsequenzen für den systematischen Aufbau des Periodensystems.
+Das nebenstehende Diagramm zeigt eine schematische, nicht-maßstäbliche Darstellung der Energieniveaus in der Elektronenhülle.
+Die Striche auf der linken Seite symbolisieren die Hauptschalen, die Striche auf der rechten Seite deren Unterschalen.
+Die Kästchen stellen die Orbitale in jeder Unterschale dar, von denen jedes mit zwei Elektronen ("Spin up" und "Spin down") belegt werden kann.
+Ab der Hauptschale n=3 überlappen sich die Unterschalen aufeinanderfolgender Hauptschalen energetisch.
+Denkt man sich die Atome der verschiedenen Elemente der Reihe nach so erzeugt, dass einem Atom des vorhergehenden Elements ein Proton im Kern und ein Elektron in der Hülle (sowie gegebenenfalls die benötigten Neutronen) hinzugefügt werden, dann besetzt das hinzugekommene Elektron stets das energieärmste der noch freien Orbitale ("Aufbauprinzip").
+Da sich beim sukzessiven Auffüllen mit dem Beginn jeder neuen Schale das Besetzungsmuster der einzelnen Orbitale wiederholt, wiederholen sich auch die Strukturen der Valenzelektronen und dadurch bedingt die chemischen Eigenschaften der Atome.
+Der besseren Übersicht halber wird im folgenden Text jedem Elementnamen seine Ordnungszahl als Index vorangestellt.
+Die Farbe der Elementkästchen kennzeichnet die Schale, die gerade aufgefüllt wird.
+Das einfachste Atom ist das 1Wasserstoff-Atom, das ein Proton im Kern und ein Elektron in der Hülle besitzt (es existieren auch Isotope mit einem oder mit zwei Neutronen).
+Das Elektron befindet sich in der s-Unterschale der K-Schale.
+Es folgt das 2Helium-Atom mit zwei Protonen (sowie einem oder zwei Neutronen) und zwei Elektronen.
+Das hinzugekommene Elektron besetzt den noch freien Platz im einzigen Orbital der s-Unterschale.
+Damit ist die K-Schale ausgeschöpft und die erste Periode des Periodensystems gefüllt.
+Mit dem nächsten Elektron beginnt das Auffüllen der L-Schale:
+3Lithium hat ein Elektron im 2s-Orbital, 4Beryllium hat ein zweites Elektron im 2s-Orbital, das damit vollständig gefüllt ist.
+Nun beginnt das Auffüllen der 2p-Orbitale: 5Bor hat zusätzlich zum gefüllten 2s-Orbital ein Elektron im 2p-Orbital.
+Es folgen 6Kohlenstoff, 7Stickstoff, 8Sauerstoff, 9Fluor und 10Neon.
+Mit diesen acht Elementen ist auch die L-Schale vollständig gefüllt und die zweite Periode beendet.
+Das Auffüllen der M-Schale beginnt mit demselben Muster.
+Bei Betrachtung der jeweiligen Konfigurationen der Valenzelektronen wird bereits deutlich, dass beispielsweise das erste Element dieser Periode (11Natrium, mit einem Valenzelektron) chemische Ähnlichkeiten mit dem ersten Element der vorhergehenden Periode (3Lithium, ebenfalls mit einem Valenzelektron) aufweisen wird.
+Nach dem achten Element der dritten Periode, dem 18Argon, kommt es jedoch zu einer Unterbrechung der Regelmäßigkeit.
+Bis dahin wurden die 3s- und 3p-Unterschalen der M-Schale aufgefüllt, es sind noch zehn Plätze in deren 3d-Unterschale frei.
+Da jedoch das 4s-Orbital der nächsthöheren Schale (N, n = 4) eine geringere Energie besitzt als die 3d-Orbitale der M-Schale, wird zunächst dieses 4s-Orbital mit zwei Elektronen gefüllt (19Kalium, 20Calcium).
+Das 19Kalium besitzt ein Valenzelektron und damit chemische Ähnlichkeit mit 11Natrium und 3Lithium.
+Da das Periodensystem diese und andere Ähnlichkeiten herausstellen soll, wird mit dem 19Kalium eine neue Periode begonnen.
+Erst nach 19Kalium und 20Calcium wird die 3d-Unterschale der M-Schale gefüllt, dies geschieht vom 21Scandium bis zum 30Zink.
+Diese im Periodensystem "eingeschobenen" Elemente haben alle eine gefüllte 4s-Unterschale und unterscheiden sich nur im Füllungsgrad der darunter liegenden M-Schale.
+Sie weisen daher nur relativ geringe chemische Unterschiede auf, sie gehören zu den "Übergangsmetallen".
+Mit dem 30Zink ist die M-Schale nun vollständig gefüllt, es folgt das weitere Auffüllen der restlichen N-Schale mit den Elementen 31Gallium bis 36Krypton.
+Das Auffüllen der N-Schale wird jedoch nach dem 36Krypton erneut unterbrochen.
+Mit dem 36Krypton ist die 4p-Unterschale abgeschlossen, und es sind noch die Unterschalen 4d und 4f zu füllen.
+Abermals hat jedoch die s-Unterschale der nächsthöheren Schale (O, n = 5) eine geringere Energie und wird bevorzugt aufgefüllt (37Rubidium, 38Strontium), womit man auch wieder eine neue Periode beginnen lässt.
+Dann folgen die zehn Übergangsmetalle 39Yttrium bis 48Cadmium, mit denen die verbliebene 4d-Unterschale gefüllt wird und anschließend die sechs Elemente 49Indium bis 54Xenon, mit denen die 5p-Unterschale gefüllt wird.
+In den weiteren Perioden wiederholt sich dieses Schema, das durch die energetische Lage der jeweiligen Unterschalen bestimmt wird.
+In der sechsten Periode werden nacheinander die folgenden Unterschalen gefüllt: 6s (55Cäsium und 56Barium), 5d (57Lanthan), 4f (58Cer bis 71Lutetium), 5d (72Hafnium bis 80Quecksilber) und 6p (81Thallium bis 86Radon).
+Im obigen Diagramm ist das Auffüllen der 4f-Unterschale als Einschub dargestellt, um die Breite des Diagramms zu beschränken.
+In der siebten Periode werden gefüllt:
+7s (87Francium und 88Radium), 6d (89Actinium), 5f (90Thorium bis 103Lawrencium), 6d (104Rutherfordium bis 112Copernicium) und 7p (113Nihonium bis 118Oganesson).
+Einige Unregelmäßigkeiten beim Auffüllen der einzelnen Unterschalen sind der Einfachheit halber hier nicht wiedergegeben.
+Während des Auffüllens der 4d-Schale wandert beispielsweise bei einigen Elementen eines der s-Elektronen in die d-Unterschale.
+So hat etwa das 47Silber nicht wie erwartet zwei Elektronen in der 5s-Unterschale und neun Elektronen in der 4d-Unterschale, sondern nur ein 5s-Elektron und dafür zehn 4d-Elektronen.
+Eine Liste dieser Ausnahmen findet sich im Artikel zum Aufbauprinzip.
+Zusammenfassend ergibt sich das folgende Auffüllungsmuster (dargestellt in der Langform des Periodensystems):
+In Darstellungen des Periodensystems sind die Perioden üblicherweise mit arabischen Ziffern von eins bis sieben durchnummeriert.
+Die Periodennummer ist gleichzeitig die Hauptquantenzahl der äußersten mit Elektronen belegten Hauptschale.
+Eine Hauptschale kann, während sie die äußerste ist, nur bis zu acht Elektronen enthalten (die K-Schale: bis zu zwei).
+Das nächste hinzugefügte Elektron legt eine neue Hauptschale an, die nun die neue äußerste wird.
+Die betrachtete Hauptschale ist während ihres weiteren Auffüllens nur noch die zweitäußerste, drittäußerste und so weiter.
+Jedes Element besitzt also ungeachtet des Fassungsvermögens seiner äußersten Schale nur zwischen einem und acht Valenzelektronen.
+Der oben beschriebene systematische Aufbau des Periodensystems geschah in der Weise, dass die Elemente in der Reihenfolge ansteigender Ordnungszahlen angeordnet wurden und mit bestimmten Elementen eine neue Zeile ("Periode") begonnen wurde.
+Das Kriterium für den Beginn einer neuen Periode war dabei nicht das physikalische Kriterium des Füllgrades der jeweiligen Hauptschale, sondern die chemische Ähnlichkeit mit den darüberstehenden Elementen der vorhergehenden Periode, also die gleiche Anzahl von Valenzelektronen.
+Daraus folgt die Struktur des Periodensystems, das dafür konstruiert ist, diese Zusammenhänge sichtbar zu machen.
+Es ergibt sich die folgende Einteilung des Periodensystems in verschiedene Blöcke:
+In den ersten beiden Spalten ("Gruppen") des Periodensystems werden die beiden Orbitale der s-Unterschale der jeweils aktuellen Hauptschale aufgefüllt (s-Block).
+In den letzten sechs Gruppen werden die sechs p-Unterschalen der aktuellen Hauptschale aufgefüllt (p-Block).
+Diese acht Gruppen sind die Hauptgruppen des Periodensystems.
+Von einer Hauptgruppe zur nächsten nimmt die Anzahl der Valenzelektronen um jeweils eins zu.
+Für die 50 Hauptgruppenelemente ist aus ihrer Gruppenmitgliedschaft also sofort die Anzahl ihrer Valenzelektronen und damit ihr chemisches Verhalten in seinen wesentlichen Zügen ersichtlich.
+Sofern die Stoffeigenschaften der Elemente von den Valenzelektronen bestimmt werden, finden sich in den Elementen derselben Gruppe daher viele Übereinstimmungen.
+Die üblicherweise in römischen Ziffern geschriebene Gruppennummer ist zugleich die Anzahl der Elektronen in der jeweils äußersten Hauptschale (mit Ausnahme des 2Helium, das sich als Edelgas in der VIII.
+Hauptgruppe befindet, aber nur zwei Elektronen besitzt).
+Die Elemente der ersten Hauptgruppe besitzen jeweils ein Valenzelektron.
+Es handelt sich (mit Ausnahme des 1Wasserstoffs) um weiche, silbrig-weiße und sehr reaktionsfreudige Metalle, die Alkalimetalle.
+Ein Beispiel für die chemische Ähnlichkeit der Alkalimetalle ist der Umstand, dass sie alle mit 17Chlor zu farblosen Salzen regieren, die in Würfelform kristallisieren.
+Auch die Formeln dieser Verbindungen entsprechen einander: LiCl, NaCl, KCl, RbCl, CsCl und FrCl.
+Es folgen die Erdalkalimetalle als zweite Hauptgruppe.
+Die Borgruppe ist die dritte Hauptgruppe, die Kohlenstoffgruppe die vierte und die Stickstoffgruppe die fünfte.
+Die Chalkogene stellen die sechste Hauptgruppe dar und die Halogene die siebte.
+Wie sich quantenmechanisch begründen lässt , sind nicht nur abgeschlossene Hauptschalen, sondern auch abgeschlossene Unterschalen besonders stabil.
+Die Elemente in der achten Hauptgruppe weisen alle eine abgeschlossene Haupt- oder Unterschale auf:
+Beim 2Helium ist die erste Hauptschale und damit auch deren einzige Unterschale 1s vervollständigt.
+Bei den anderen Elementen 10Neon, 18Argon, 36Krypton, 54Xenon und 86Radon ist jeweils - bei noch nicht vollständiger Hauptschale - die p-Unterschale vervollständigt, diese Elemente besitzen acht Valenzelektronen (ein Oktett).
+Wegen der Stabilität ihrer Valenzelektronenstrukturen gehen diese Elemente so gut wie keine chemischen Bindungen ein.
+Sie sind alle gasförmig und werden als Edelgase bezeichnet.
+Andere Elemente können durch Abgabe oder Aufnahme von Elektronen ebenfalls Edelgasschalen und damit besonders stabile Zustände erreichen.
+So geben die Alkalimetalle ihr einzelnes Valenzelektron leicht ab und treten dann als einwertige Kationen auf, beispielsweise 3Li+, 11Na+ usw.
+Die Erdalkalimetalle erreichen die Edelgaskonfiguration durch Abgabe ihrer beiden Valenzelektronen und bilden dann zweiwertige Kationen, beispielsweise 4Be++, 12Mg++ usw.
+Den Halogenen andererseits fehlt ein Elektron zur Komplettierung eines Oktetts.
+Sie nehmen daher bevorzugt ein Elektron auf, es resultieren die einwertigen Anionen 9F-, 17Cl- usw.
+Zwischen den Hauptgruppen ist ein Block mit Nebengruppen eingeschoben:
+In den letzten vier Perioden wurde das Auffüllen der jeweils äußersten Hauptschale unterbrochen, um die d-Unterschale der zweitäußersten Hauptschale aufzufüllen.
+Die d-Unterschalen fassen jeweils 10 Elektronen, es ergibt sich in diesen vier Perioden also ein zusätzlicher Block mit 10 Gruppen.
+Alle 40 Elemente in diesem d-Block sind Metalle, sie werden als "äußere Übergangsmetalle" bezeichnet.
+Sie alle besitzen zwei Valenzelektronen in der äußersten Schale (Ausnahmen siehe = Aufbauprinzip) und weisen daher geringere Unterschiede in ihrem chemischen Verhalten auf als die Hauptgruppenelemente.
+Die vorhandenen Unterschiede sind auf die unterschiedlichen Elektronenstrukturen der jeweils nächsttieferen Hauptschale zurückzuführen.
+Entsprechend dem sich wiederholenden Auffüllungsmuster zeigen auch in diesem Block untereinanderstehende Elemente deutliche Ähnlichkeiten in ihren chemischen Eigenschaften.
+In den letzten beiden Perioden wurde zusätzlich das Auffüllen der d-Unterschalen der jeweils zweitäußersten Hauptschale unterbrochen durch das Auffüllen der f-Unterschalen der jeweils drittäußersten Hauptschale.
+Die f-Unterschalen fassen jeweils vierzehn Elektronen, es ergibt sich also in diesen beiden Perioden ein zusätzlicher Block mit 14 Gruppen.
+Die 28 Elemente in diesem f-Block werden als innere Übergangselemente bezeichnet.
+Sie besitzen zwei Valenzelektronen in der äußersten Hauptschale, ein Elektron in der d-Unterschale der vorletzten Hauptschale und unterscheiden sich nur im Füllungsgrad der jeweils drittletzten Hauptschale (Ausnahmen siehe = Aufbauprinzip).
+Ihre chemischen Unterschiede sind entsprechend gering.
+Die auf das 57Lanthan folgenden 14 inneren Übergangsmetalle von 58Cer bis 71Lutetium in der sechsten Periode heißen auch Lanthanoide.
+Die auf das 89Actinium folgenden 14 inneren Übergangsmetalle von 90Thorium bis 103Lawrencium in der siebten Periode heißen auch Actinoide.
+Einige Eigenschaften der Elemente variieren in systematischer Weise mit der Position im Periodensystem.
+Geht man innerhalb einer Periode von einer Hauptgruppe zur nächsten über ("von links nach rechts"), ändern sich die physikalischen und chemischen Eigenschaften in systematischer, charakteristischer Weise, weil dabei die Anzahl der Valenzelektronen um jeweils eines zunimmt.
+In der nächsten Periode wiederholen sich die Eigenschaften, sofern sie von der Anzahl der Valenzelektronen bestimmt werden, in ähnlicher Weise, weil die Anzahl der Valenzelektronen erneut auf dieselbe Weise zunimmt.
+Geht man innerhalb einer Hauptgruppe von einer Periode zur nächsten über ("von oben nach unten"), sind die betreffenden Eigenschaften in der Regel ähnlich (gleiche Anzahl von Valenzelektronen), aber graduell verschieden (verschiedene Hauptschalen als äußerste Schale).
+Der Atomradius nimmt generell innerhalb einer Periode von links nach rechts ab, weil aufgrund der zunehmenden Kernladungszahl die Elektronen immer näher an den Kern herangezogen werden.
+Beim Übergang zur nächsten Periode nimmt der Atomradius sprunghaft wieder zu, weil nun die Belegung der nächstäußeren Hauptschale beginnt.
+Innerhalb einer Gruppe wird der Radius in der Regel von oben nach unten größer, weil jeweils eine Hauptschale hinzukommt.
+Die "erste Ionisierungsenergie" ist die Energie, die aufgewendet werden muss, um ein Elektron aus der Elektronenhülle zu entfernen, so dass aus dem neutralen Atom ein einfach positiv geladenes Ion wird.
+Das einzelne Valenzelektron der Alkalimetalle ist besonders locker gebunden und kann leicht abgelöst werden.
+Beim Fortschreiten innerhalb einer Periode muss wegen der zunehmenden Kernladungszahl eine immer größere Ionisierungsenergie aufgewendet werden, bis sie beim Edelgas mit seiner besonders stabilen Oktett-Konfiguration den maximalen Wert der Periode erreicht.
+Die Elektronenaffinität ist die Bindungsenergie, die freigesetzt wird, wenn ein Atom ein zusätzliches Elektron an sich bindet, so dass aus dem neutralen Atom ein einfach negativ geladenes Ion wird.
+Die Halogene haben eine besonders große Elektronenaffinität, weil sie durch Aufnahme eines Elektrons ihr Elektronenoktett vervollständigen können.
+Sind zwei Atome verschiedener Elemente chemisch aneinander gebunden, so zieht in der Regel eines der beiden die Elektronen der gemeinsamen Elektronenhülle stärker an, so dass sich der Ladungsschwerpunkt der Elektronenhülle zu diesem Atom hin verschiebt.
+Die Fähigkeit eines Atoms, in einer Bindung die Elektronen an sich zu ziehen, wird durch seine Elektronegativität gemessen.
+Die Elektronegativität der Hauptgruppenelemente wächst innerhalb einer Periode von links nach rechts, weil die Kernladung zunimmt.
+Innerhalb einer Gruppe wächst sie in der Regel von unten nach oben, weil in dieser Richtung die Anzahl besetzter Hauptschalen abnimmt und damit auch die Abschirmung der Kernladung durch die inneren Elektronen.
+Das Element mit der kleinsten Elektronegativität (0,7 nach Pauling) ist das links unten im Periodensystem stehende 55Cäsium.
+Das Element mit der größten Elektronegativität (4,0 nach Pauling) ist das rechts oben stehende 9Fluor, gefolgt von seinem linken Nachbarn, dem 8Sauerstoff (3,5).
+1Wasserstoff und die Halbmetalle nehmen mit Werten um 2 eine Mittelstellung ein.
+Die meisten Metalle haben Werte um 1,7 oder weniger.
+Die Verschiebung des Ladungsschwerpunkts im Molekül hängt von der Differenz der Elektronegativitäten der beiden Atome ab.
+Je stärker der Ladungsschwerpunkt verschoben ist, um so größer ist der ionische Anteil der Bindung, weil die elektrostatische Anziehung der beiden ungleichnamigen Teilladungen um so stärker zur Bindung beiträgt.
+Besonders ausgeprägt ist der ionische Bindungscharakter wegen der beschriebenen Tendenz der Elektronegativitäten in Bindungen, bei denen der eine Bindungspartner links und der andere rechts im Periodensystem steht.
+Ein Beispiel dafür ist Natriumchlorid N a C l {\displaystyle \mathrm {NaCl} } .
+Bindungen, bei denen beide Partner aus der linken Hälfte des Periodensystems stammen und daher beide zu den Metallen (siehe unten) gehören, sind metallische Bindungen.
+Bindungen, bei denen beide Partner aus der rechten Seite stammen, sind hauptsächlich kovalente Bindungen.
+Eines der charakteristischsten Merkmale eines Elements ist seine Wertigkeit, also seine Eigenschaft, sich bei Bildung einer chemischen Verbindung mit bestimmten bevorzugten Anzahlen von Atomen der verschiedenen Partnerelemente zu vereinigen.
+Ein Atom, dem noch ein Elektron zur Komplettierung eines Valenzelektronen-Oktetts fehlt, kann eine Bindung mit einem einzelnen 1Wasserstoff-Atom eingehen, um in der gemeinsamen Elektronenhülle das einzelne Valenzelektron des Wasserstoff zur Vervollständigung seines eigenen Oktetts zu nutzen.
+Ein Atom, dem noch zwei Elektronen fehlen, wird dazu tendieren, eine Verbindung mit zwei 1Wasserstoff-Atomen einzugehen.
+Wie diese Beispiele zeigen, ist im Allgemeinen ein Zusammenhang zwischen der bevorzugten Anzahl der Bindungspartner und der Struktur der Valenzelektronen-Hülle - also der Gruppenzugehörigkeit im Periodensystem - zu erwarten.
+Allerdings sind die Zusammenhänge oft deutlich komplexer als in den hier dargestellten Beispielen.
+Ein einfaches Maß für die Wertigkeit eines Elements ist die Anzahl der 1Wasserstoff-Atome, die das Element in einem binären Hydrid an sich bindet.
+Ein anderes mögliches Maß ist das Doppelte der Anzahl an 8Sauerstoff-Atomen, die das Element in seinem Oxid bindet.
+Die Elemente der ersten und der vorletzten Hauptgruppe (der Alkalimetalle beziehungsweise Halogene) haben die Wertigkeit 1, ihre Hydride haben also die Formeln
+Die Elemente der zweiten und der drittletzten Hauptgruppe (der Erdalkalimetalle und der Sauerstoffgruppe) haben im Allgemeinen die Wertigkeit 2, ihre Hydride sind also
+In den anderen Hauptgruppen werden die Bindungsmöglichkeiten vielfältiger (so existieren unzählige Kohlenwasserstoff-Verbindungen), aber man trifft auch beispielsweise in der Stickstoffgruppe auf A s H 3 {\displaystyle \textstyle \mathrm {AsH_{3} } } oder S b H 3 {\displaystyle \textstyle \mathrm {SbH_{3} } } und in der Kohlenstoffgruppe auf P b H 4 {\displaystyle \textstyle \mathrm {PbH_{4}} } .
+Der 8Sauerstoff ist zweiwertig, typische Oxide der einwertigen Alkalimetalle sind daher
+und typische Oxide der zweiwertigen Erdalkalimetalle sind
+es kommen aber auch andere Oxidationsstufen vor.
+Die drei letztgenannten Oxide waren der Ausgangspunkt für Döbereiners Triadensystem (siehe unten).
+Die Basizität der Oxide und Hydroxide der Elemente nimmt von oben nach unten zu, von links nach rechts ab.
+In Wasser gelöste Oxide und Hydroxide von Metallen (siehe unten) bilden Laugen, in Wasser gelöste Oxide und Hydroxide von Nichtmetallen bilden Säuren.
+In Wasser gelöstes Calciumoxid bildet beispielsweise die Lauge Kalkwasser.
+Dasselbe Ergebnis erhält man, wenn man Calciumhydroxid in Wasser löst.
+Sowohl Natriumoxid als auch Natriumhydroxid ergeben in Wasser gelöst Natronlauge.
+Sowohl Kaliumoxid als auch Kaliumhydroxid ergeben in Wasser gelöst Kalilauge.
+Die Metalle aus der ersten Hauptgruppe lösen sich sogar als Elemente in Wasser und ergeben basische ("alkalische") Lösungen.
+Sie heißen daher Alkalimetalle.
+In Wasser gelöstes 11Natrium ergibt beispielsweise Natronlauge, in Wasser gelöstes 19Kalium ergibt Kalilauge.
+Kohlenstoffdioxid C O 2 {\displaystyle \mathrm {CO_{2} } } ist ein Beispiel für ein Nichtmetall-Oxid, das bei Lösung in Wasser eine Säure ergibt, nämlich Kohlensäure.
+Ein anderes Beispiel ist Schwefeltrioxid S O 3 {\displaystyle \mathrm {SO_{3}} } , dessen wässrige Lösung Schwefelsäure ist.
+Die reaktionsfreudigsten Elemente befinden sich in der I. und der VII.
+Hauptgruppe (Alkalimetalle beziehungsweise Halogene), weil diese Elemente eine besonders starke Tendenz aufweisen, durch Abgabe (bei den Alkalimetallen) beziehungsweise Aufnahme (bei den Halogenen) eines Elektrons ein vollständiges Elektronen-Oktett zu erlangen.
+Die Atomisierungsenthalpie, also die Energie, die zum Zerlegen eines aus einem Element E gebildeten Moleküls Ex benötigt wird, zeigt für die Hauptgruppenelemente eine deutliche Periodizität in Abhängigkeit von der ebenfalls periodischen Bindigkeit der Elemente, weil von dieser die Anzahl x der gebundenen Atome abhängt.
+Die Atomisierungsenthalpie zeigt Minima bei den 0-wertigen Edelgasen und Maxima bei den vierwertigen Elementen der IV. Hauptgruppe.
+Die Dichte der Hauptgruppenelemente zeigt den gleichen Verlauf, weil sie eng mit der Bindigkeit des jeweiligen Elements zusammenhängt:
+Die Alkalimetalle haben besonders kleine Bindigkeiten und Dichten, die größten Werte liegen bei den Elementen der mittleren Gruppen.
+Ein ähnliches Muster zeigt sich bei den Dissoziationsenthalpien von E2-Molekülen:
+Die Minima liegen wieder bei den Edelgasen, die Maxima jetzt bei den Elementen der V. Hauptgruppe (N2, P2 usw.), entsprechend den bei zweiatomigen Molekülen möglichen Bindigkeiten.
+Die Schmelz- und Siedetemperaturen, die Schmelz- und Verdampfungswärmen sind weitere Beispiele für physikalische Eigenschaften der Elemente, die ein periodisches Verhalten zeigen.
+Dies gilt sogar für die betreffenden Eigenschaften einfacher binärer Verbindungen, also beispielsweise die Schmelztemperaturen oder Schmelzwärmen der Hydride, Fluoride, Chloride, Bromide, Iodide, Oxide, Sulfide und so weiter.
+Die weitaus meisten Elemente sind Metalle.
+Sie sind meistens silbrig glänzend, formbar, gering flüchtig sowie strom- und wärmeleitend.
+Der Metallcharakter ist bei den links unten im Periodensystem stehenden Elementen am deutlichsten ausgeprägt und nimmt nach rechts oben hin ab.
+In dieser Richtung schließen sich die Halbmetalle an (mattgrau glänzend, spröde, gering flüchtig, nur mäßig strom- und wärmeleitend).
+Rechts oben im Periodensystem stehen die Nichtmetalle (farbig, nicht glänzend, spröde, meistens flüchtig, nicht stromleitend und nur schlecht wärmeleitend).
+Die ersten beiden Hauptgruppen (die Alkali- und Erdalkalimetalle) enthalten daher ausschließlich Metalle, die letzten beiden Hauptgruppen (die Halogene und Edelgase) nur Nichtmetalle.
+Die durch die Halbmetalle markierte Grenze zwischen Metallen und Nichtmetallen verläuft schräg durch die mittleren Hauptgruppen, so dass diese im Allgemeinen im oberen Teil Nichtmetalle, darunter Halbmetalle und im unteren Teil Metalle enthalten.
+Typische Halbmetalle sind etwa 5Bor, 14Silizium oder 32Germanium.
+Auf der Grenze befindliche Elemente können sogar je nach vorliegender Modifikation ihre Zugehörigkeit wechseln:
+Das auf der Grenze zwischen Metallen und Halbmetallen liegende 50Zinn ist als weißes -Zinn ein Metall, als graues a-Zinn ein Halbmetall.
+Der auf der Grenze zwischen Halbmetallen und Nichtmetallen liegende 6Kohlenstoff ist als Graphit ein Halbmetall, als Diamant ein Nichtmetall.
+In der V. und VI.
+Hauptgruppe lässt sich der innerhalb einer Gruppe stattfindende Übergang gut beobachten:
+Die oben in den Gruppen stehenden Elemente 7Stickstoff, 8Sauerstoff und 16Schwefel sind ausgeprägte Nichtmetalle.
+Die darunter stehenden Elemente 15Phosphor, 33Arsen und 34Selen kommen sowohl in nichtmetallischen Modifikationen vor (weißer, roter und violetter Phosphor, gelbes Arsen, rotes Selen) wie auch in halbleitenden (schwarzer Phosphor, graues Arsen, graues Selen).
+Die unten in den Gruppen stehenden Elemente 51Antimon, 52Tellur, 83Bismut und 84Polonium treten bevorzugt in halbmetallischer oder metallischer Form auf.
+Die typischen Vertreter der Metalle auf der linken Seite des Periodensystems besitzen stets nur eine kleine Anzahl von Valenzelektronen und geben diese bereitwillig ab (niedrige Ionisierungsenergie, siehe oben), um ein Valenzelektronen-Oktett zu erreichen.
+Wenn Metallatome sich mittels chemischer Bindungen zu einem Metallgitter zusammenfügen, bilden die abgegebenen Valenzelektronen ein "Elektronengas", das die positiv geladenen Metallatome einbettet und zusammenhält.
+Dies ist die so genannte metallische Bindung.
+Aus den Eigenschaften dieser Bindungsart folgen die für die Metalle charakteristischen Eigenschaften wie beispielsweise ihr Glanz oder ihre leichte Verformbarkeit.
+Insbesondere führt die große Anzahl frei beweglicher Elektronen zu einer hohen elektrischen Leitfähigkeit.
+Das Periodensystem ordnet die Elemente so an, dass die einer Gruppe zugehörigen Elemente einander chemisch und physikalisch ähnlich sind.
+Der Grad der Ähnlichkeit ist durchaus von Fall zu Fall unterschiedlich, es fällt jedoch auf, dass die ersten Mitglieder jeder Hauptgruppe (die "Kopfelemente" Li, Be, B, C, N, O, F) weniger Ähnlichkeit mit den restlichen Mitgliedern ihrer Gruppe haben als diese jeweils unter sich.
+Gründe dafür sind unter anderem, dass aufgrund der kleinen Atomradien die Valenzelektronen dieser Atome besonders stark an die Kerne gebunden sind, und dass die Kopfelemente im Gegensatz zu den anderen Gruppenmitgliedern in der Außenschale ein Elektronenoktett nicht überschreiten können.
+Ein Beispiel für diese Sonderstellung ist die Gasförmigkeit von 7Stickstoff und 8Sauerstoff im Gegensatz zu anderen Vertretern der jeweiligen Gruppe.
+Ein anderes Beispiel ist der Umstand, dass die Kopfelemente keine höheren Oxidationszahlen annehmen können als ihrer Valenzelektronen-Struktur entspricht.
+So kann der 8Sauerstoff höchstens die Oxidationszahl +2 annehmen, während die anderen Mitglieder der Sauerstoffgruppe oft die Oxidationszahlen +4 und +6 aufweisen, die sie durch Beteiligung der dem Sauerstoff fehlenden d-Orbitale an der jeweiligen Bindung erlangen.
+Die Sonderstellung des Kopfelements ist besonders stark ausgeprägt im s-Block des Periodensystems (insbesondere wenn man den 1Wasserstoff anstelle des 3Lithiums als Kopfelement zählt), weniger ausgeprägt im p-Block, zwar vorhanden aber nur gering ausgeprägt im d-Block und noch weniger im f-Block.
+Die genannten Kopfelemente ähneln den im Periodensystem rechts unter ihnen stehenden Hauptgruppenelementen mehr als ihren eigenen Gruppenmitgliedern und sind damit Beispiele für Schrägbeziehungen.
+Dies betrifft insbesondere Ähnlichkeiten zwischen 3Lithium und 12Magnesium, 4Beryllium und 13Aluminium, 5Bor und 14Silicium.
+Der Grund dafür liegt darin, dass einige wichtige Trends von Elementeigenschaften wie etwa die Elektronegativität, die Ionisierungsenergie oder die Atomradien von links unten nach rechts oben und damit "schräg" im Periodensystem verlaufen.
+Bewegt man sich im Periodensystem nach unten, nimmt beispielsweise die Elektronegativität ab.
+Bewegt man sich nach rechts, nimmt sie zu.
+Bei einer Bewegung nach unten rechts heben sich die beiden Trends näherungsweise auf und die Elektronegativität ist nur wenig verändert.
+Eine weitere Schrägbeziehung ist der Grimmsche Hydridverschiebungssatz.
+Eine ungewöhnliche Beziehung zwischen Elementen ist die Springer-Beziehung nach Michael Laing, die in Analogie zur Schachfigur des Springers dadurch gekennzeichnet ist, dass manche metallische Elemente ab der vierten Periode in einigen Merkmalen (z. B. Schmelzpunkte und Siedepunkte) ähnliche Eigenschaften wie ein metallisches Element besitzen, das eine Periode darunter und zwei Gruppen weiter rechts liegt.
+Beispiele sind 30Zink und 50Zinn, die gleiche Eigenschaften bei einer Legierung mit Kupfer, bei der Beschichtung von Stahl und in ihrer biologischen Bedeutung als Spurenelement aufweisen.
+Weitere Beispiele sind 48Cadmium und 82Blei, 47Silber und 81Thallium, sowie 31Gallium und 51Antimon.
+Es bestehen zahlreiche Ähnlichkeiten zwischen einer gegebenen Gruppe n und der um zehn Spalten weiter rechts liegenden Gruppe n+10.
+Ein markantes Beispiel sind 12Magnesium aus der zweiten und 30Zink aus der zwölften Gruppe, deren Sulfate, Hydroxide, Carbonate und Chloride sich sehr ähnlich verhalten.
+Andere ausgeprägte Beispiele sind 21Scandium aus der dritten Gruppe und 13Aluminium aus der dreizehnten Gruppe sowie 22Titan aus der vierten Gruppe und 50Zinn aus der vierzehnten Gruppe.
+Lediglich zwischen den Alkalimetallen in der ersten Gruppe und den Edelmetallen (29Kupfer, 47Silber, 79Gold) in der elften Gruppe besteht keinerlei Ähnlichkeit.
+In der heute gebräuchlichen mittellangen Form des Periodensystems sind diese Beziehungen nicht sehr offensichtlich.
+Den frühen Pionieren des Periodensystems, die sich ausschließlich an chemischen Ähnlichkeiten orientieren konnten, waren sie jedoch wohlbekannt.
+Die Beziehungen führen dazu, dass die "langen" Perioden vier bis sieben (ohne die separat dargestellten Lanthanoide und Actinoide) eine doppelte Periodizität aufweisen:
+Sowohl ihre linke Hälfte (bis zu den Edelmetallen) als auch ihre rechte Hälfte (bis zu den Edelgasen) haben Eigenschaften, die mit den Hauptgruppen in den kurzen Perioden zwei und drei tendenziell parallel laufen.
+Das so genannte Kurzperiodensystem berücksichtigt diese Ähnlichkeiten, indem es die beiden kurzen Perioden zwei und drei als einen geschlossenen (nicht wie sonst zweigeteilten) Block darstellt, während es die vier langen Perioden teilt und ihre linke und rechte Hälfte jeweils als separate Zeilen untereinander aufführt.
+Man fasst dazu in jeder der 18 Elemente enthaltenden langen Perioden die Elemente der Eisen-, der Cobalt- und der Nickelgruppe zu einer Gruppe zusammen.
+Diese Perioden lassen sich dann in zwei Hälften zu je acht Gruppen (eine davon eine Dreiergruppe) teilen, die im Kurzperiodensystem untereinander angeordnet werden.
+Das Kurzperiodensystem hat dementsprechend nur 8 Spalten.
+Wegen der Existenz einer Dreiergruppe entspricht jedoch trotz der acht Spalten der Übergang zu dem eine Zeile tiefer liegenden Element dem Übergang zu dem in der Langform um zehn Gruppen weiter rechts liegenden Element.
+Durch unterschiedliche Einrückung können die ursprünglichen Haupt- und Nebengruppen unterschieden werden.
+Die Kurzform des Periodensystems stellt insbesondere den zwischen Neben- und Hauptgruppen parallelen Verlauf der Wertigkeiten (genauer: der maximalen Oxidationszahlen) dar, der in den Langformen verloren gegangen ist und dort nur noch in Form der Gruppen-Nummerierung überlebt (siehe nächsten Abschnitt).
+Die Kurzform ist andererseits weniger übersichtlich als die Langformen, außerdem betont sie die Ähnlichkeiten zwischen Haupt- und Nebengruppen insgesamt stärker als sie tatsächlich sind.
+Zwei der drei gebräuchlichen Nummerierungssysteme für die Gruppen gehen auf die Gruppenanordnung im soeben beschriebenen Kurzperiodensystem zurück.
+Die acht Gruppen des Kurzperiodensystems werden mit römischen Ziffern von I bis VIII durchnummeriert.
+Zieht man das Kurzperiodensystem wieder zur Langform auseinander, müssen die in einer Gruppe der Kurzform vereinigten Haupt- und Nebengruppenelemente wieder auf je zwei in der Langform separate Gruppen aufgeteilt werden.
+Will man dabei die Gruppennummerierung der Kurzform beibehalten, ergibt sich eine Verdoppelung jeder Gruppennummer.
+Zur Unterscheidung hängt man an die Gruppennummer ein a oder b an.
+In der hauptsächlich in den USA gebräuchlichen Konvention erhalten die Hauptgruppenelemente ein a, die Nebengruppenelemente ein b.
+Es ergibt sich die Nummerierungsfolge (Hauptgruppen fett dargestellt):
+In der hauptsächlich in Europa gebräuchlichen Konvention erhält die erste Serie von I bis VIII durchgängig ein a, die zweite ein b.
+Es ergibt sich die Nummerierungsfolge
+Der Vorteil der beiden aus der Kurzform abgeleiteten Nummerierungssysteme besteht darin, dass für die Hauptgruppen die Gruppennummer identisch ist mit der Zahl der Valenzelektronen.
+Es ist also sofort ersichtlich, dass beispielsweise die Elemente der IVten Hauptgruppe vier Valenzelektronen besitzen.
+Die IUPAC empfiehlt, die Gruppen der Reihe nach mit arabischen Ziffern von 1 bis 18 durchzunummerieren.
+Während diese Nummerierung transparent und eindeutig ist, geht der Zusammenhang zwischen der Gruppennummer und der Anzahl der Valenzelektronen verloren.
+Die Elemente mit vier Valenzelektronen befinden sich beispielsweise in Gruppe 14.
+Die Eigenschaften unbekannter Elemente können näherungsweise vorausgesagt werden, wenn die Eigenschaften der umgebenden Elemente im Periodensystem bekannt sind.
+Die gesetzmäßige Variation der Eigenschaften innerhalb der Gruppen und Perioden wird jedoch durch zahlreiche Ausnahmen unterbrochen, die zur Komplexität des Fachgebiets Chemie beitragen.
+Je höher die Ordnungszahl wird, desto weniger eignet sich die Systematik des Periodensystems zur Vorhersage der Stoffeigenschaften, da aufgrund der höheren Ladung des Atomkerns die Geschwindigkeit kernnaher Elektronen und somit relativistische Effekte zunehmen.
+Bei Elementen ab der vierten Periode rücken die Elektronen der innersten Schalen (insbesondere die s-Orbitale) aufgrund der steigenden Anzahl positiver Ladungen im Atomkern näher an den Atomkern, wodurch die Geschwindigkeit dieser Elektronen beinahe Lichtgeschwindigkeit erreicht.
+Dadurch nimmt der Ionenradius entgegen der allgemeinen Tendenz ab und die Ionisierungsenergie für diese Elektronen zu (Effekt des inerten Elektronenpaares).
+Als weitere Informationen, die aber mit der Elektronenkonfiguration und daher mit der Stellung im PSE nichts zu tun haben, sind die radioaktiven Elemente gekennzeichnet:
+Das Element 82 (Blei) ist das letzte Element, von dem stabile, also nicht radioaktive Isotope existieren.
+Alle nachfolgenden (Ordnungszahl 83 und höher) weisen ausschließlich instabile und somit radioaktive Isotope auf.
+Dabei ist 83 (Bismut) ein Grenzfall.
+Es besitzt nur instabile Isotope, darunter jedoch eines mit einer extrem langen Halbwertszeit (209Bi mit t 1 / 2 = 1 , 9 * 10 19 {\displaystyle t_{1/ 2}=1{,}9\cdot 10^{19 } } a).
+Auch unterhalb Element 82 gibt es zwei Elemente mit ausschließlich instabilen Isotopen: 43 (Technetium) und 61 (Promethium).
+So bleiben tatsächlich nur 80 stabile Elemente übrig, die in der Natur vorkommen - alle anderen sind radioaktive Elemente.
+Von den radioaktiven Elementen sind nur Bismut, Thorium und Uran in größeren Mengen in der Natur vorhanden, da diese Elemente Halbwertszeiten in der Größenordnung des Alters der Erde oder länger haben.
+Alle anderen radioaktiven Elemente sind bis auf ein Isotop des Plutoniums entweder wie das Radium intermediäre Zerfallsprodukte einer der drei natürlichen radioaktiven Zerfallsreihen oder entstehen bei seltenen natürlichen Kernreaktionen oder durch Spontanspaltung von Uran und Thorium.
+Elemente mit Ordnungszahlen über 94 können nur künstlich hergestellt werden; obwohl sie ebenfalls bei der Elementsynthese in einer Supernova entstehen, wurden aufgrund ihrer kurzen Halbwertszeiten bis heute noch keine Spuren von ihnen in der Natur gefunden.
+Das letzte bislang nachgewiesene Element ist Oganesson mit der Ordnungszahl 118, dieses hat allerdings nur eine Halbwertszeit von 0,89 ms.
+Vermutlich gibt es bei höheren Ordnungszahlen eine Insel der Stabilität.
+Da die Anzahl der Protonen im Atomkern mit der Ordnungszahl des Atoms identisch ist, nimmt die Atommasse mit der Ordnungszahl zu.
+Während die Ordnungszahl von einem Element zum nächsten jedoch stets um eine Einheit zunimmt, verläuft die Zunahme der Atommassen deutlich unregelmäßiger.
+Die Masse eines Protons beträgt 1,0073 atomare Masseneinheiten (1 u = 1,66*10-27 kg), die eines Neutrons 1,0087 u. Die Masse eines Elektrons von 0,0005 u ist dem gegenüber meist vernachlässigbar.
+Die Masse eines aus einem Proton und einem Elektron bestehenden Wasserstoffatoms beträgt 1,0078 u.
+Da alle Atome eine jeweils ganzzahlige Anzahl von Protonen und Neutronen (mit jeweils etwa 1 u Masse) im Kern besitzen, haben sie grundsätzlich auch eine in guter Näherung ganzzahlige Atommasse, die gerundet der Anzahl der im Kern enthaltenen Protonen und Neutronen entspricht (die Atommassen sind meist etwas kleiner als eine ganze Zahl, der "Massendefekt" entspricht der bei der Bildung des Kerns freigesetzten Bindungsenergie).
+Im scheinbaren Widerspruch dazu weichen jedoch einige der Massenangaben im Periodensystem deutlich von der Ganzzahligkeit ab.
+Für das Chlor beispielsweise findet sich die Angabe 35,45 u.
+Der Grund dafür ist, dass zwei Atome mit derselben Anzahl von Protonen unterschiedliche Zahlen von Neutronen besitzen können.
+Solche Atome haben dieselbe Ordnungszahl und damit dasselbe chemische Verhalten, gehören also definitionsgemäß zum selben chemischen Element und befinden sich daher am selben Platz im Periodensystem.
+Weil sie aber verschiedene Neutronenzahlen besitzen, sind sie verschiedene "Isotope" dieses Elements (von altgriechisch o isos "gleich" und oo topos "Ort, Stelle").
+Die 20 Elemente
+bestehen nur aus einem einzigen natürlich vorkommenden Isotop, sie sind Reinelemente.
+Die anderen Elemente sind Mischelemente; sie bestehen in ihrem natürlichen Vorkommen aus einer Mischung verschiedener Isotope.
+Für diese Mischelemente ist im Periodensystem die mittlere Atommasse der natürlich vorkommenden Isotopenmischung eingetragen.
+Das natürlich vorkommende Chlor beispielsweise besteht zu 75,77 % aus dem Chlor-Isotop mit der Massenzahl 35 (mit 17 Protonen und 18 Neutronen im Kern) und zu 24,23 % aus dem Chlor-Isotop 37 (17 Protonen und 20 Neutronen).
+Seine mittlere Atommasse ist das mit der Häufigkeit gewichtete Mittel aus den (beinahe ganzzahligen) Atommassen 34,97 u und 36,97 u, beträgt also die oben genannten 35,45 u.
+Haben die Isotope zweier im Periodensystem aufeinanderfolgender Elemente sehr verschiedene Häufigkeitsverteilungen, kann es vorkommen, dass die mittlere Atommasse vom einen Element zum nächsten abnimmt.
+So hat das auf das 18Argon folgende 19Kalium zwar eine höhere Ordnungszahl, aber eine kleinere mittlere Atommasse.
+Dasselbe gilt für 27Cobalt und 28Nickel, 52Tellur und 53Iod, sowie 90Thorium und 91Protactinium.
+Da die Atommassen (von den erwähnten Ausnahmen abgesehen) einigermaßen regelmäßig mit der Ordnungszahl anwachsen, konnten sie im 19. Jahrhundert erfolgreich anstelle des eigentlichen Ordnungsprinzips, der noch unbekannten Ordnungszahl, der Suche nach Gesetzmäßigkeiten zugrunde gelegt werden.
+Im antiken Griechenland und im antiken China wurde bereits vor mehr als 2000 Jahren spekuliert, dass die Vielzahl der Erscheinungen in der Natur sich auf eine kleine Anzahl von "Elementen" zurückführen lassen müsse.
+In Griechenland vertrat Empedokles die Vier-Elemente-Lehre mit den Elementen Feuer, Wasser, Erde und Luft.
+In China gab es in der Fünf-Elemente-Lehre die Elemente Holz, Feuer, Erde, Metall und Wasser.
+Der heutige Begriff eines Elements als eines nicht weiter zerlegbaren Stoffes geht auf Joachim Jungius und Robert Boyle zurück.
+Antoine Laurent de Lavoisier legte 1789 eine erste systematische, 33 Einträge umfassende Tabelle mit vermuteten "einfachen Stoffen" vor, von denen in der Tat 21 bereits Elemente im heutigen Sinn waren.
+Über die innere Struktur der Elemente und damit aller Materie überhaupt herrschte allerdings noch völlige Unklarheit.
+Gemäß John Daltons Atomhypothese (1808) setzen sich alle Stoffe aus kleinsten, nicht weiter teilbaren "Atomen" zusammen, wobei die Atome eines chemischen Elements untereinander identisch, aber von den Atomen eines anderen Elements in Form und Gewicht verschieden sind.
+Chemische Reaktionen waren gemäß der Hypothese als Umgruppierungen der unzerstörbaren Atome anzusehen, und auch die Gesetze der konstanten Proportionen und der multiplen Proportionen war damit leicht erklärbar.
+Obwohl Atome von vielen Chemikern als Arbeitshypothese akzeptiert wurden, lag kein Beweis für ihre Existenz vor.
+Während die Dichten der verschiedenen Elemente schon lange bekannt waren, war es wegen der Unkenntnis über die Anzahl und die Größe der Atome nicht möglich, deren absolute Massen zu ermitteln.
+Dalton hatte bereits eine auf den konstanten Proportionen beruhende, 14 Elemente umfassende und noch ziemlich ungenaue Liste von Verhältnissen der Atommassen zueinander erstellt.
+William Prout bemerkte, dass viele Atommassen ungefähr ganzzahlige Vielfache der Atommasse des Wasserstoffs waren und stellte 1815 die Hypothese auf, dass alle Elemente aus entsprechenden Mengen Wasserstoff als "Ursubstanz" zusammengesetzt seien.
+Die bislang als nicht-ganzzahlig gelisteten Atommassen würden sich bei genaueren Messungen schon noch als ganzzahlig herausstellen.
+Prouts Hypothese veranlasste genauere Massenbestimmungen, hauptsächlich durch Jöns Jakob Berzelius und Jean Servais Stas, die die Nicht-Ganzzahligkeit vieler Atommassen bestätigten und damit Prouts Hypothese widerlegten, wegen ihrer deutlich verbesserten Genauigkeit aber auch als Grundstock für zuverlässigere Untersuchungen dienten.
+Der Grund für die auffallend große Zahl von Elementen mit ungefähr ganzzahligen Atommassen blieb freilich ungeklärt.
+In den 1850er-Jahren griff Stanislao Cannizzaro die von Amedeo Avogadro 1811 aufgestellte, aber bislang unbeachtet gebliebene Hypothese wieder auf, dass gleiche Volumina verschiedener Gase bei gleicher Temperatur und gleichem Druck die gleiche Anzahl von Teilchen enthalten.
+Diese Hypothese erlaubte es, die Massen gleicher (wenn auch unbekannter) Anzahlen von Atomen in gasförmigen Verbindungen systematisch miteinander zu vergleichen und so unter Bezug auf ein Referenzelement die relativen Atommassen der Elemente zu ermitteln.
+Mit ihrer Hilfe konnten auch zahlreiche bislang falsch angenommene Mengenverhältnisse in chemischen Verbindungen korrigiert werden.
+Auf dieser Grundlage veröffentlichte Cannizzaro zwischen 1858 und 1860 als Vorbereitung auf den Karlsruher Kongress (den auch Meyer und Mendelejew besuchten) zuverlässigere und konsistente Atommassen, die in den 1860er-Jahren schnelle Fortschritte bei der Entwicklung periodischer Systeme erlaubten.
+Anfang des 19. Jahrhunderts wurde bereits nach Regelmäßigkeiten in den Beziehungen zwischen den Elementen gesucht.
+Hindernisse waren dabei unter anderem die Unsicherheiten in den Atommassen und der Umstand, dass zahlreiche Elemente noch gar nicht bekannt waren.
+Döbereiner stellte erstmals einen Zusammenhang zwischen der Atommasse und den chemischen Eigenschaften einzelner Elemente fest.
+Im Jahr 1824 veröffentlichte Falckner ein System natürlicher Elementfamilien.
+Gmelin erstellte 1843 eine tabellarische Sortierung der Elemente.
+Weitere Pioniere, die auch Mendelejew kannte, waren Pettenkofer (1850), Odling (1857), Dumas (1858) und Lenßen (1857).
+Chancourtois entwickelte 1862 eine dreidimensionale Darstellung, wobei er die Elemente nach steigenden Atommassen schraubenförmig auf einem Zylinder anordnete.
+Auch von Hinrichs (1864), Baumhauer (1867) und Quaglio (1871) wurden Versuche unternommen, das System spiralförmig darzustellen.
+1863/64 stellte Newlands eine nach Atommassen geordnete Tabelle der Elemente in Achtergruppen (Gesetz der Oktaven) auf.
+Johann Wolfgang Döbereiner unternahm den ersten Versuch, Elemente nach erkannten Gesetzmäßigkeiten zu ordnen.
+Im Jahre 1817 bestimmte er die Molekülmasse von Strontiumoxid S r O {\displaystyle \mathrm {SrO} } und fand (in dem von ihm benutzten Massensystem) den Wert 50.
+Döbereiner bemerkte, dass dies genau das arithmetische Mittel aus den Massen von Calciumoxid C a O {\displaystyle \mathrm {CaO} } (27,5) und Bariumoxid B a O {\displaystyle \mathrm {BaO} } (72,5) war:
+Hieraus schöpfte er anfänglich den Verdacht, Strontium bestünde aus Barium und Calcium, was er aber in entsprechenden Versuchen hierzu nicht bestätigt fand.
+Aus moderner Sicht sind Calcium, Strontium und Barium drei im Periodensystem untereinander stehende Elemente aus der Gruppe der Erdalkalimetalle, was ihre identischen Wertigkeiten und daher ihre Ähnlichkeit bei der Bildung von Oxiden x + O {\displaystyle \mathrm {x+O} } begründet.
+Da in diesem Bereich des Periodensystems die Periodenlänge 18 Elemente beträgt (eine Periode umfasst hier acht Hauptgruppen und zehn Nebengruppen), weisen sie untereinander dieselbe Differenz der Ordnungszahlen auf (18, Döbereiner noch unbekannt):
+und daher auch ungefähr dieselbe Differenz der Atommassen (knapp 50 u) .
+Leopold Gmelin bemerkte 1827 in seinem "Handbuch der theoretischen Chemie" bezüglich der Atommassen "einige merkwürdige Verhältnisse, welche ohne Zweifel mit dem innersten Wesen der Stoffe zusammenhängen." Unter anderem wies er auf eine weitere Dreiergruppe hin, nämlich Lithium, Natrium und Kalium.
+Bildet man das arithmetische Mittel der Atommassen von Lithium und Kalium, "so erhält man ziemlich genau des Natriums, welches Metall auch in seinen chemischen Beziehungen zwischen die beiden genannten zu stehen kömmt."
+Döbereiner veröffentlichte 1829 einen ausführlicheren "Versuch zu einer Gruppirung der elementaren Stoffe nach ihrer Analogie".
+Eine neu aufgefundene Triade enthielt mit Chlor und Iod sowie dem erst im vorhergehenden Jahr isolierten Brom "drei Salzbildner".
+Der Vergleich unter Verwendung der von Berzelius bestimmten Atommassen ergab
+Eine weitere neu gefundene Triade umfasste Schwefel, Selen und Tellur, die sich alle "mit dem Wasserstoff zu eigenthümlichen Wasserstoffsäuren verbinden":
+Bei seinen Ordnungsversuchen legte Döbereiner Wert darauf, dass die zu einer Triade vereinigten Elemente auch tatsächlich chemische Ähnlichkeit aufwiesen: "Der Umstand, dass das arithmetische Mittel der Atomgewichte des Sauerstoffs = 16,026 und des Kohlenstoffs = 12,256 das Atomengewicht des Stickstoffs = 14,138 ausdrückt, kann hier nicht in Betracht kommen, weil zwischen diesen drei Stoffen keine Analogie statt findet." Ebenso bestand er auf der besonderen Bedeutung der Zahl drei.
+Die untereinander sehr ähnlichen Elemente Eisen, Mangan, Nickel, Cobalt, Zink und Kupfer stellten ein Problem für ihn dar, denn "wie soll man sie ordnen, wenn die Dreiheit (Trias) als Princip der Gruppirung angenommen wird?"
+Hatte Gmelin 1827 noch die damals bekannten 51 Elemente einzeln in einer V-förmigen Anordnung dargestellt, um ihre "Verwandtschaft und Verschiedenheit" anschaulich aufzuzeigen, war er 1843 dazu übergegangen, die 55 bekannten Elemente "je nach ihren physischen und chemischen Verhältnissen" in Gruppen von meist drei Elementen zusammenzufassen, die dann wiederum "nach ihren Ähnlichkeiten" in einem nach ansteigender Elektropositivität gereihten V-förmigen Schema angeordnet waren.
+In einigen von Gmelins Gruppen lassen sich heutige Hauptgruppen wiedererkennen (R = Rhodium, heute Rh; L = Lithium, heute Li; G = Glycium, heute Beryllium Be).
+Ernst Lenßen konnte 1857 praktisch alle damals bekannten Elemente in 20 Triaden einteilen (war dabei aber bezüglich der chemischen Ähnlichkeit weniger streng als Döbereiner).
+Er stellte sogar Dreiergruppen von Triaden zu "Enneaden" (Neunergruppen) zusammen, in denen die Atommassen der jeweils mittleren Triaden wiederum über die Mittelwerts-Regel zusammenhingen.
+Er sagte anhand seines Systems unter anderem die Atommassen der zwar schon entdeckten aber noch nicht isolierten Elemente Erbium und Terbium voraus, keine seiner Voraussagen war jedoch erfolgreich.
+Er versuchte auch, Zusammenhänge mit anderen physikalischen und chemischen Eigenschaften herzustellen.
+Die bisherigen Ordnungsversuche waren größtenteils darauf beschränkt, isolierte Gruppen mit jeweils untereinander ähnlichen Elementen ausfindig zu machen.
+John Alexander Reina Newlands veröffentlichte 1864 eine Tabelle mit 24 Elementen (und einer Leerstelle für ein vermeintlich noch unentdecktes Element), in der die Elemente zwar wie üblich in der Reihenfolge wachsender Atommassen angeordnet waren, in der er aber nicht auf Muster in den Atommassen-Unterschieden, sondern auf sich wiederholende Unterschiede in den Platznummern ähnlicher Elemente hinwies.
+Dies war das erste periodische System, also eine Zusammenstellung von Elementen, die zeigt, dass sich die Eigenschaften der Elemente nach gewissen gleichmäßigen Intervallen wiederholen.
+Newlands war auch der erste, der die aus der Atommasse folgende Reihenfolge der Elemente Iod und Tellur vertauschte und der aus den chemischen Eigenschaften folgenden Anordnung den Vorzug gab.
+Im Jahr 1865 entwickelte Newlands ein weiteres System, das nun 65 Elemente umfasste.
+Es sollte zeigen, dass sich die chemischen Eigenschaften in jeder achten Position wiederholen, was er mit den Oktaven aus der Musik verglich.
+(Da die Edelgase noch nicht entdeckt waren, betrug die Periodenlänge in den ersten Perioden von Newlands Tabelle eigentlich sieben Elemente.
+Da er aber beide sich ähnelnde Elemente mitzählte, so wie man auch die Oktave in der Musik z. B. von einem C bis zum nächsten C inklusive zählt, ergibt sich eine Periodenlänge von 8.)
+Newlands nannte diese Beziehung der Elemente untereinander das "Gesetz der Oktaven", womit zum ersten Mal das Wiederholungsmuster in den Elementeigenschaften als Naturgesetz betrachtet wurde.
+Auf die ersten beiden Perioden lässt sich das Gesetz der Oktaven perfekt anwenden, weil dann aber (wie man heute weiß) die Perioden länger werden, war das Gesetz in den darauffolgenden Perioden weniger erfolgreich.
+Auf Newlands geht die erste zutreffende Vorhersage eines noch unentdeckten Elements zurück:
+Aufgrund einer Lücke in einer seiner Tabellen sagte er 1864 die Existenz eines Elements mit der Atommasse 73 zwischen Silizium und Zinn voraus.
+Dem entspricht in der angekündigten Position und mit der Atommasse 72,61 das 1886 entdeckte Germanium.
+Seine Vorhersagen noch unbekannter Elemente zwischen Rhodium und Iridium sowie zwischen Palladium und Platin trafen jedoch nicht ein.
+Die Entdeckung der Periodizität wird gelegentlich auch Alexandre-Emile Beguyer de Chancourtois zugeschrieben, der 1862 die Elemente nach steigender Atommasse entlang einer dreidimensionalen Schraube so anordnete, dass eine Schraubenwindung 16 Einheiten entsprach, Elemente im Abstand von 16 Einheiten also senkrecht übereinander zu stehen kamen.
+Sein System blieb jedoch weitgehend unbeachtet und er entwickelte es nicht weiter.
+Das moderne Periodensystem wurde von Lothar Meyer und Dmitri Iwanowitsch Mendelejew entwickelt.
+Beide publizierten ihre Ergebnisse im Jahre 1869 und erhielten für ihre Arbeit 1882 gemeinsam die Davy-Medaille der britischen Royal Society.
+Mendelejew wird häufiger als Meyer als Begründer des heutigen Periodensystems genannt.
+Zum einen, weil Meyers Periodensystem ein paar Monate später veröffentlicht wurde, zum anderen, weil Mendelejew Voraussagen zu den Eigenschaften der noch nicht entdeckten Elemente machte.
+In Russland wird auch heute noch das Periodensystem als Tabliza Mendelejewa ("Mendelejews Tabelle") bezeichnet.
+Weder Mendelejew noch Meyer kannten die Arbeiten des jeweils Anderen zum Periodensystem.
+Die Arbeiten von Beguyer de Chancourtois von 1862, Newlands von 1863/64 oder Hinrichs von 1866/67 waren Mendelejew auch nicht bekannt.
+In seinem 1864 erschienenen Lehrbuch "Die modernen Theorien der Chemie" präsentierte Meyer bereits eine 28 Elemente enthaltende und nach steigenden Atommassen geordnete Tabelle.
+Die Unterteilung in Zeilen war so vorgenommen, dass jede Spalte (den heutigen Hauptgruppen entsprechend) Elemente derselben Wertigkeit enthielt und die Wertigkeit sich von einer Spalte zur nächsten um eine Einheit änderte.
+Meyer wies darauf hin, dass die Differenz der Atommassen zwischen dem ersten und zweiten Element jeder Spalte ungefähr 16 betrug, die nächsten beiden Differenzen um etwa 46 schwankten und die letzte Differenz stets etwa 87 bis 90 betrug.
+Er äußerte die Vermutung, dies könne - ähnlich wie bei homologen Reihen von Molekülen - auf den systematischen Aufbau der Atome aus kleineren Bestandteilen hinweisen.
+Die Elemente Tellur und Iod hatte Meyer, ihren chemischen Eigenschaften entsprechend, gegenüber der aus den Atommassen folgenden Reihenfolge vertauscht.
+Meyer hatte einige Lücken in der Tabelle lassen müssen, darunter eine zwischen Silizium und Zinn, in der gemäß seinem Differenzenschema ein Element der Atommasse 73 zu erwarten war.
+Das fehlende Element war das 1886 entdeckte Germanium mit der Atommasse 72,61.
+Eine weitere, nicht nach Atommassen geordnete Tabelle enthielt 22 Elemente, die Meyer nicht in seinem Schema untergebracht hatte - sie entsprechen den heutigen Übergangsmetallen.
+Im Jahre 1870 (eingereicht im Dezember 1869, ein knappes Jahr nach Mendelejews erster Publikation eines Periodensystems) veröffentlichte Meyer eine erweiterte Version seiner Tabelle, in der es ihm unter Verwendung aktualisierter Atommassen gelungen war, "sämmtliche bis jetzt hinreichend bekannten Elemente demselben Schema einzuordnen".
+Die Perioden verliefen in diesem System senkrecht, die Gruppen waagerecht.
+Die (noch nicht so genannten) Übergangsmetalle waren jetzt Teil der Tabelle.
+Sie waren ähnlich wie bei einem Kurzperiodensystem in Perioden angeordnet, die sich mit den (noch nicht so genannten) Hauptgruppen abwechselten.
+Um die Variation der Eigenschaften entlang der Perioden zu illustrieren, fügte Meyer ein Diagramm an, das die periodisch variierenden Atomvolumina in Abhängigkeit von der Atommasse zeigt (ähnlich dem Diagramm im Abschnitt Atomradien).
+Diese Veranschaulichung trug erheblich zur Akzeptanz des Periodensystems bei.
+Meyer erörterte verschiedene mit den Atomvolumina parallel laufende und damit ebenfalls periodische physikalische Eigenschaften der Atome, wie etwa die Dichten, Flüchtigkeit, Dehnbarkeit, Sprödigkeit oder die spezifische Wärme.
+Mit dem Periodensystem in seiner heutigen Form ist hauptsächlich Mendelejews Name verbunden.
+Sein Periodensystem war vollständiger als andere Systeme jener Zeit, er bewarb und verteidigte sein System engagiert, arbeitete es über Jahrzehnte hinweg immer weiter aus und nutzte es für weit umfangreichere und detailliertere Vorhersagen als andere Ersteller periodischer Systeme.
+Auf der Suche nach einem Gliederungsschema für sein Chemielehrbuch erstellte Mendelejew am 17. Februarjul.
+/ 1. März 1869greg.
+einen ersten Entwurf seiner Version des Periodensystems.
+Noch im März veröffentlichte er sein System mit einer ausführlichen Erläuterung in der Zeitschrift der Russischen Chemischen Gesellschaft.
+Er wies ausdrücklich darauf hin, dass die meisten Eigenschaften der Elemente nicht als eindeutiges Ordnungsprinzip geeignet sind.
+So können beispielsweise die meisten Elemente verschiedene Wertigkeiten annehmen.
+Die meisten Eigenschaften der freien Elemente hängen von der jeweils vorliegenden Modifikation ab (Graphit und Diamant etwa sind Modifikationen des Kohlenstoffs mit deutlich unterschiedlichen Eigenschaften), und so weiter.
+Die einzige eindeutige und zahlenmäßig erfassbare Eigenschaft eines Elements, die sowohl in allen Modifikationen des freien Elements als auch in allen seinen Verbindungen erhalten bleibe, sei dessen Atommasse (die Ordnungszahl als eine weitere solche Eigenschaft war Mendelejew noch unbekannt).
+Er ordnete die Elemente der bereits als zusammengehörig bekannten "natürlichen Gruppen" (wie etwa der Halogene, der Erdalkalimetalle, der Stickstoffgruppe usw.) nach ihren Atommassen und fand, dass diese Anordnung ohne weiteres Zutun "der unter den Elementen herrschenden natürlichen Aehnlichkeit" entsprach.
+Er stellte fest: "Die nach der Größe ihres Atomgewichtes angeordneten Elemente zeigen eine deutliche Periodicität ihrer Eigenschaften," und versuchte, auf dieser Grundlage auch die übrigen Elemente gemäß ihrem chemischen Verhalten in das Schema einzupassen.
+In diesem Artikel sagte Mendelejew bereits aufgrund von Lücken, die in seinem System geblieben waren, die Existenz von zwei neuen Elementen mit Atommassen zwischen 65 und 75 voraus, die dem Aluminium und Silicium ähneln sollten.
+Auch Mendelejew hatte wie einige seiner Vorgänger Tellur und Iod gegenüber der aus den Atommassen folgenden Reihenfolge vertauscht.
+Seine Vorhersage, dass die Atommasse des Tellur korrigiert werden müsse, weil sie gemäß seinem System nicht 128 sein könne und vielmehr zwischen 123 und 126 liegen müsse, traf jedoch nicht ein - hier liegt tatsächlich eine Unregelmäßigkeit der Atommassen vor.
+Noch im selben Jahr erschienen auch zwei kurze deutschsprachige Beschreibungen des neuen Systems.
+Im Jahr 1871 erschien ein umfangreicher Artikel, in dem Mendelejew zwei weiterentwickelte Varianten seines Periodensystems vorstellte.
+Eine dieser Varianten war das erste Kurzperiodensystem.
+In diesem Artikel demonstrierte er unter anderem, wie sich anhand des Periodensystems die Atommasse eines Elements ermitteln oder korrigieren ließ, wenn sein chemisches Verhalten bekannt war.
+Der Artikel enthält auch die drei bekanntesten Vorhersagen über die Eigenschaften noch unbekannter Elemente, deren Existenz Mendelejew aus verbliebenen Lücken in seinem Periodensystem erschloss.
+Durch geschickte Interpolation zwischen den physikalischen und chemischen Eigenschaften der Nachbarelemente gelang es ihm, zahlreiche Eigenschaften der noch unbekannten Elemente zutreffend vorherzusagen.
+Mendelejew benannte die unbekannten Elemente nach dem in seinem Kurzperiodensystem jeweils über der betreffenden Lücke stehenden Element unter Anfügung der Vorsilbe Eka (sanskr.
+"eins").
+Ekaaluminium wurde 1875 von Paul Emile Lecoq de Boisbaudran entdeckt und nach Frankreich, dem Land der Entdeckung, Gallium genannt.
+Ekabor wurde 1879 von Lars Fredrik Nilson entdeckt und - nach Skandinavien - mit dem Namen Scandium versehen.
+Ekasilizium wurde 1886 von Clemens Winkler entdeckt und erhielt nach dem Entdeckungsland Deutschland die Bezeichnung Germanium.
+Nicht alle von Mendelejews Vorhersagen waren derart erfolgreich.
+Von seinen Vorhersagen neuer Elemente traf insgesamt nur etwa die Hälfte zu.
+Das 1894 entdeckte Edelgas Argon schien eine erhebliche Bedrohung für die Allgemeingültigkeit von Mendelejews Periodensystem darzustellen, da es sich nicht in das bestehende System einfügen ließ.
+Als jedoch in rascher Folge weitere Edelgase entdeckt wurden (1895 Helium, 1898 Neon, Krypton und Xenon, 1900 Radon) wurde offenkundig, dass das Periodensystem lediglich um eine neue Elementgruppe zwischen den Halogenen und den Alkalimetallen erweitert werden musste, um sie alle aufnehmen zu können.
+Mendelejew sprach von einem "kritischen Test", den sein Periodensystem "großartig überlebt" habe.
+Mendelejew veröffentlichte im Laufe der Jahre etwa dreißig Versionen des Periodensystems, weitere dreißig liegen als Manuskript vor.
+Die älteste erhaltene Schautafel des Periodensystems stammt aus dem Zeitraum zwischen 1879 und 1886 und befindet sich in der University of St. Andrews.
+Die Farben geben die heutige Zuordnung der Elemente an:Alkalimetalle, Erdalkalimetalle, 3. Hauptgruppe, 4. Hauptgruppe, 5. Hauptgruppe,6. Hauptgruppe, Halogene, Edelgase, Übergangsmetalle, Lanthanoide, Actinoide.
+Das vermeintliche Element Didymium (Di) stellte sich später als eine Mischung aus den Seltenen Erden Praseodym und Neodym heraus.
+Um das rechts gezeigte moderne Periodensystem von Mendelejews Anordnung in die heute übliche Anordnung zu überführen, sind die beiden letzten Zeilen, um ein Kästchen nach rechts verschoben, oben anzufügen und das ganze System an der von links oben nach rechts unten laufenden Diagonalen zu spiegeln.
+Im gezeigten modernen Periodensystem sind die Atommassen der klareren Darstellung wegen auf ganze Zahlen gerundet.
+Henri Becquerel entdeckte 1896, dass von Uran eine bislang unbekannte Strahlung ausging.
+Das Uranmineral Pechblende sandte deutlich mehr Strahlung aus, als es dem Gehalt an Uran entsprochen hätte.
+Marie und Pierre Curie entdeckten 1898 in der Pechblende die neuen und radioaktiven Elemente Polonium und Radium.
+Das Element Thorium erkannten sie ebenfalls als radioaktiv.
+Joseph John Thomson stellte 1897 fest, dass die in Gasentladungsröhren beobachteten Kathodenstrahlen leichte materielle Teilchen und keine Ätherwellen waren.
+Thomson konnte das Verhältnis e/m von Ladung und Masse der "Elektronen" genannten Teilchen bestimmen und stellte fest, dass es unabhängig von Kathodenmaterial, Füllgas und sonstigen Umständen war, dass also die Elektronen offenbar universelle Bestandteile der Atome waren.
+Thomson erstellte 1904 das Plumpudding-Modell, gemäß dem die Elektronen in eine gleichmäßig positiv geladene Kugel eingebettet waren.
+Bei der Untersuchung radioaktiver Substanzen konnten verschiedene Arten von Strahlung unterschieden werden: Ablenkung im Magnetfeld zeigte, dass die durchdringenden Beta-Strahlen negativ geladen waren; Becquerel identifizierte sie schließlich als Elektronen.
+Ernest Rutherford und Thomas Royds stellten 1908 fest, dass es sich bei der weniger durchdringenden Alpha-Strahlung um zweifach positiv geladene Heliumionen handelte.
+Rutherfords Streuexperimente, bei denen er Metallfolien mit Alphateilchen beschoss, zeigten 1911, dass die positiven Ladungen der Atome in einem kleinen Kern konzentriert sind und die Elektronen sich außerhalb des Kerns aufhalten - ihre Anordnung und Anzahl waren jedoch noch unbekannt.
+Die Analyse seiner Streuexperimente hatte Rutherford 1911 zur Feststellung geführt, dass die positive Ladung der Atomkerne etwa der halben Atommasse entspreche: Z  A / 2 {\displaystyle \textstyle Z\approx A/2} .
+Antonius van den Broek wies darauf hin, dass die Atommasse von einem Element zum nächsten um zwei Einheiten zunehme, dass also gemäß Rutherfords Formel von einem Element zum nächsten die Anzahl der Ladungen im Kern um eins zunehme.
+Die Anzahl der möglichen Elemente sei daher gleich der Anzahl der möglichen Kernladungen und jeder möglichen Kernladung entspreche ein mögliches Element.
+Die Kernladungszahl bestimme demnach auch die Position jedes Elements im Periodensystem.
+(Die Zunahme der Atommassen um jeweils zwei Einheiten trifft nur in grober Näherung zu; van den Broek war hier von seiner Vermutung beeinflusst, alle Atome seien aus halben Alphateilchen der Massenzahl 2 aufgebaut.)
+Henry Moseley bestätigte, dass die Kernladungszahl (auch: Ordnungszahl) ein geeigneteres Ordnungsprinzip für die Elemente ist als die Atommasse.
+Er nutzte den Umstand, dass mit Elektronen beschossene Materialien neben dem Bremsspektrum (Röntgen 1895) auch Röntgenstrahlung mit einer für das Material charakteristischen Wellenlänge abgeben (Barkla, ca. 1906) und dass die Wellenlänge dieser Strahlung mittels Beugung an Kristallen bestimmt werden kann (von Laue 1912).
+Moseley bestimmte die Wellenlängen der charakteristischen Strahlung verschiedener Elemente und stellte fest, dass die Frequenzen dieser Strahlungen proportional zum Quadrat einer ganzen Zahl waren, die die Position des betreffenden Elements im Periodensystem beschrieb (Moseleysches Gesetz).
+Er erkannte diese Zahl als die Anzahl der Ladungen im Atomkern.
+Es war damit möglich, die Ordnungszahl eines Elements experimentell einfach zu bestimmen.
+Moseley wies nach, dass viele der etwa 70 angeblich neu entdeckten Elemente, die um die 16 zu füllenden Lücken in Mendelejews Periodensystems konkurrierten, nicht existieren konnten, weil im Raster der Ordnungszahlen kein Platz dafür war.
+Die gut zehn "Seltenen Erden" (ihre genaue Anzahl war damals nicht bekannt) sind chemisch nur schwer voneinander zu trennen, weil sie einander sehr ähnlich sind.
+Mendelejew hatte keinen Platz für sie in seinem Schema gefunden.
+Moseleys Ordnungszahl wies ihnen eindeutig die Plätze 57 bis 71 zu.
+Die Pioniere des Periodensystems hatten die gelegentlichen Masseninversionen (wie etwa zwischen Iod und Tellur) noch durch Vertauschen der betreffenden Elemente im Atommassen-Schema korrigieren müssen, ohne jedoch eine Begründung dafür geben zu können, außer dass sie so besser ins Schema der chemischen Ähnlichkeiten passten.
+Moseleys Ordnungszahl bestätigte die korrekte Reihenfolge der vertauschten Elemente, die Atommassen waren hier irreführend gewesen.
+Bei Ausbruch des Ersten Weltkriegs meldete Moseley sich zum Kriegsdienst und fiel in der Schlacht von Gallipoli.
+Moseleys Nachfolger vervollständigten die systematischen Messungen und stellten fest, dass das Uran (das bis dahin schwerste bekannte Element) die Ordnungszahl 92 hat, dass also in der Elementreihe von Wasserstoff bis Uran genau 92 Elemente existieren.
+Man erkannte Lücken bei den Ordnungszahlen 43, 61, 72, 75, 85, 87 und 91, die in den folgenden Jahrzehnten mit den betreffenden Neuentdeckungen gefüllt werden konnten.
+Ernest Rutherford und Frederick Soddy stellten 1902 fest, dass die radioaktiven Elemente nicht nur Strahlung abgaben, sondern aus instabilen Atomen bestanden, die sich spontan unter Abgabe von Alpha-, Beta- oder Gamma-Strahlung in neue Elemente umwandelten - in offenkundigem Widerspruch zur bisher angenommenen Unteilbarkeit und Unwandelbarkeit der Atome.
+Beginnend mit Actinium (Debierne 1899) wurden nach Polonium und Radon rasch zahlreiche weitere radioaktive Substanzen entdeckt (1912 war ihre Zahl auf etwa 30 angewachsen).
+Die neuen Substanzen wurden zunächst als eigenständige Elemente angesehen und es schien, als könne das Periodensystem nicht ihnen allen Platz bieten.
+Es stellte sich jedoch heraus, dass sie praktisch durchweg chemisch nicht von bereits bekannten Elementen zu unterscheiden waren und als solche bereits einen Platz im Periodensystem hatten.
+So ließ sich etwa ein zunächst "Radium D" genanntes Zerfallsprodukt nicht von Blei unterscheiden.
+Andererseits zeigten genaue Bestimmungen der Atommassen, dass Bleiproben aus unterschiedlichen Quellen verschiedene Atommassen haben konnten.
+Theodore William Richards fand für Blei aus Pechblende eine Atommasse von 206,4 und für Blei aus Thorit 208,4.
+Aus mehreren ähnlichen Fällen zog Soddy 1911 den Schluss, dass ein und dasselbe Element eine Mischung aus verschiedenen Atommassen sein konnte und prägte 1913 für Atome mit gleicher Kernladungszahl aber unterschiedlicher Massenzahl den Begriff "Isotope".
+Soddy und Kasimir Fajans stellten die Verschiebungssätze auf, gemäß welchen ein Atom eines gegebenen Elements durch Aussendung eines Alpha-Teilchens zwei Kernladungen einbüßt und in dasjenige Element übergeht, das im Periodensystem zwei Plätze weiter links steht, während es bei Aussendung eines Beta-Teilchens um einen Platz weiter nach rechts wandert.
+Für die Elemente zwischen Blei und Uran war damit einleuchtend, warum es sie mit unterschiedlichen Atommassen geben konnte.
+Ein Thorium-Atom (Ordnungszahl 90) kann beispielsweise über einen Alphazerfall aus Uran-235 (Ordnungszahl 92) entstanden sein und hat dann die Masse 231.
+Es kann aber auch über einen Betazerfall aus Actinium-230 (Ordnungszahl 89) entstanden sein und hat dann die Masse 230. Soddy konnte damit für Blei aus Uranerzen die Massenzahl 206 und für Blei aus Thoriumerzen die Massenzahl 208 vorhersagen, noch bevor Richards die Ergebnisse seiner Messungen vorlegte.
+In den 1920er-Jahren stürzte die große Anzahl der neu entdeckten Isotope das Periodensystem in eine Krise, da es schien, als müsse man anstelle der Elemente jetzt die wesentlich größere Zahl von Isotopen mit ihren unterschiedlichen Atommassen in eine systematische Ordnung bringen.
+Fritz Paneth und George de Hevesy zeigten jedoch, dass die chemischen Eigenschaften der Isotope eines Elements praktisch identisch waren, dass es also gerechtfertigt war, sie gemäß ihrer gemeinsamen Ordnungszahl (als neuem Ordnungskriterium anstelle der Atommasse) als dasselbe Element zu betrachten und so das Periodensystem beizubehalten.
+Francis William Aston entwickelte 1919 den ersten Massenspektrographen und stellte fest, dass auch die übrigen, nicht aus Zerfallsreihen stammenden Elemente ein Gemisch verschiedener Isotope sein konnten.
+Damit war geklärt, warum die (mittleren) Atommassen einiger Elemente wie etwa Chlor so deutlich von der Ganzzahligkeit abwichen.
+Und dass beispielsweise Iod zwar eine höhere Ordnungszahl, aber eine kleinere Atommasse hat als Tellur, war damit als Konsequenz der jeweiligen irdischen Isotopenmischungen der beiden Elemente verständlich.
+Wenn ein angeregtes Atom die Anregungsenergie wieder abstrahlt, hat die ausgesandte Strahlung in der Regel eine genau definierte, von der Art des Atoms und dem angeregten Zustand abhängige Wellenlänge.
+Rutherfords Atommodell, in dem die Elektronen sich um einen zentralen Kern bewegten, konnte verständlich machen, warum es überhaupt zu einer Abstrahlung kommt, da die Elektronen als bewegte Ladungen elektromagnetische Wellen aussenden mussten.
+Es konnte jedoch nicht erklären, warum nur bestimmte Wellenlängen abgestrahlt wurden.
+Außerdem hätten die in beständiger Bewegung befindlichen Elektronen ständig Energie abstrahlen und wegen dieses kontinuierlichen Energieverlustes in kürzester Frist in den Kern stürzen müssen.
+Niels Bohr griff Max Plancks Entdeckung auf, dass die Energieverteilung der Schwarzkörperstrahlung nur erklärt werden könne unter der Annahme, dass die Energieabstrahlung nicht kontinuierlich, sondern in Form diskreter "Energiepakete" vonstatten geht.
+Er erstellte 1913 ein Atommodell des Wasserstoffs, bei dem ein Elektron den Kern nicht auf einer beliebigen, sondern auf einer von mehreren erlaubten Bahnen umkreist, wobei es - so ein nicht weiter begründetes Postulat Bohrs - keine Energie abstrahlt.
+Auf den höheren Bahnen ist das Elektron energiereicher.
+Fällt es auf eine tiefere Bahn zurück, gibt es die Energiedifferenz  E {\displaystyle \Delta E} in Form von Strahlung ab.
+Die Frequenz f {\displaystyle f} dieser Strahlung ist nicht (wie gemäß der Maxwellschen Elektrodynamik zu erwarten gewesen wäre) die Oszillationsfrequenz des umlaufenden Elektrons, sondern nach einem weiteren Postulat Bohrs gegeben durch die Plancksche Bedingung h f =  E { \displaystyle hf\,=\,\Delta E } mit der Planck-Konstanten h {\displaystyle h } .
+Es gelang Bohr, die Bedingung für die erlaubten Bahnen so zu formulieren, dass die Energiedifferenzen zwischen je zwei Bahnen gerade den beobachteten Frequenzen der Spektrallinien im Spektrum des Wasserstoffs entsprachen.
+Das Bohrsche Atommodell konnte somit erfolgreich das Wasserstoffspektrum beschreiben, es lieferte ebenfalls gute Ergebnisse für die Spektrallinien anderer Atome mit nur einem Elektron (H, He+, Li++ usw.).
+Bohr versuchte, auch die Elektronenkonfigurationen von Atomen mit mehreren Elektronen zu beschreiben, indem er die Elektronen auf die verschiedenen Bahnen seines Atommodells verteilte.
+Sein "Aufbauprinzip" nahm an, dass die Elektronenkonfiguration eines Elements aus der Konfiguration des vorhergehenden Elements durch Hinzufügen eines weiteren Elektrons (meistens auf der äußersten Bahn) abgeleitet werden könne.
+War eine Bahn (in heutiger Ausdrucksweise eine "Schale") voll, begann das Auffüllen der nächsten Bahn.
+Bohr konnte aus seinem Modell jedoch nicht ableiten, wie viele Elektronen eine Bahn aufnehmen konnte und verteilte die Elektronen, wie es von chemischen und spektroskopischen Gesichtspunkten nahegelegt wurde.
+Auf der Grundlage der mittlerweile angesammelten Fülle von Einzelfakten über das chemische und kristallographische Verhalten der Substanzen formulierte Gilbert Newton Lewis 1916 die Oktett-Theorie der chemischen Bindung.
+Gemäß dieser Theorie streben die Atome stets ein Oktett von Valenzelektronen als besonders stabile Konfiguration an und können im Fall nicht-ionischer Bindungen diesen Zustand erreichen, indem sie mit anderen Atomen eine chemische Bindung eingehen und mit den Valenzelektronen dieser anderen Atome ihr eigenes Oktett komplettieren.
+Eine solche durch gemeinsam genutzte Elektronen vermittelte Bindung nannte Lewis eine kovalente Bindung.
+Er dachte sich die Valenzelektronen an den acht Ecken eines den Kern umgebenden Würfels angeordnet.
+Irving Langmuir ordnete die Oktette in Schalen an, deren Durchmesser den Bahnen im Bohrschen Atommodell entsprachen.
+Er konnte anhand der Oktett-Regel das individuelle Verhalten der chemischen Elemente erklären:
+Die Edelgase haben bereits ein vollständiges Valenzelektronen-Oktett und sind nicht geneigt, chemische Bindungen einzugehen.
+Elemente mit einem oder wenigen Elektronen in der Valenzschale tendieren dazu, diese Elektronen abzugeben.
+Elemente, denen ein oder einige Elektronen zur Vervollständigung eines Oktetts fehlen, streben danach, die fehlende Anzahl von Elektronen aufzunehmen.
+Langmuir konnte sogar die unterschiedlichen Wertigkeiten der Elemente erklären, also ihre Neigung, sich jeweils mit einer bestimmten Anzahl der jeweiligen Partneratome zu verbinden (Edward Frankland hatte das Konzept 1852 eingeführt).
+Nach Langmuir ist die Wertigkeit die Anzahl der zur Vervollständigung eines Oktetts aufgenommenen oder abgegebenen Elektronen.
+So nimmt Chlor ein Elektron auf, ist also einwertig und verbindet sich daher beispielsweise mit genau einem Wasserstoffatom.
+(Der heutige Begriff der Wertigkeit ist allgemeiner gehalten.) Auch die Natur der Isotope konnte von Langmuir verständlich gemacht werden:
+Da das chemische Verhalten von den Valenzelektronen bestimmt wird, haben alle Isotope eines Elements offenbar dieselbe Anzahl von Valenzelektronen und damit dasselbe für dieses Element charakteristische chemische Verhalten.
+Unterschiedliche Anzahlen von Partikeln im Kern hingegen haben zwar unterschiedliche Atommassen zur Folge, beeinflussen das chemische Verhalten aber nicht.
+Bohr griff 1921 das Problem der Hüllenkonfiguration von Mehrelektronen-Atomen wieder auf.
+Arnold Sommerfeld hatte das Bohrsche Atommodell um elliptische Bahnen erweitert und zu deren Beschreibung eine zweite Quantenzahl eingeführt.
+Bohr stellte eine neue Tabelle mit Elektronen-Konfigurationen auf, in der für jede Bahn-Nummer (in heutiger Sprechweise: jede Hauptquantenzahl) eine bestimmte Anzahl der Sommerfeldschen Quantenzahlen (in heutiger Sprechweise: der Nebenquantenzahlen) erlaubt war.
+Edmund Clifton Stoner erstellte 1924 eine Tabelle von Hüllenkonfigurationen, in der er eine dritte mittlerweile von Sommerfeld eingeführte Quantenzahl zum Abzählen der möglichen Elektronenzustände benutzte.
+Er konnte damit die Wertigkeiten der Elemente besser wiedergeben als Bohr.
+Es blieb jedoch nach wie vor das Problem, dass die Anzahl der zusätzlichen Spektrallinien, in die eine Spektrallinie sich aufspaltet, wenn das Atom in ein Magnetfeld gebracht wird, auf doppelt so viele mögliche Zustände der Elektronen schließen ließ, als bisher berücksichtigt worden waren.
+Wolfgang Pauli konnte Stoners Tabelle erklären, indem er eine vierte Quantenzahl (die "Spinquantenzahl") einführte, die zwei verschiedene Werte annehmen kann und so die Anzahl möglicher Zustände verdoppelt, und indem er annahm, dass keine zwei Elektronen in der Atomhülle in allen vier Quantenzahlen übereinstimmen konnten (Paulisches Ausschließungsprinzip).
+Damit war die Begründung gefunden, warum die Hauptschalen jeweils 2, 8, 18, 32 usw. Elektronen aufnehmen können.
+Die von Friedrich Hund 1927 aufgestellte Hundsche Regel beschreibt die Reihenfolge, in der die einzelnen Orbitale einer Unterschale mit Elektronen gefüllt werden:
+Besitzen mehrere Orbitale dasselbe Energieniveau, werden sie zunächst mit einzelnen Elektronen (mit untereinander parallelen Spins) besetzt.
+Erst dann werden die Orbitale mit jeweils einem zweiten Elektron (gemäß dem Pauli-Prinzip mit entgegengesetztem Spin) belegt.
+In den 1920er-Jahren wurde die Quantenmechanik entwickelt, beginnend mit de Broglie (1924), Heisenberg (1925) und Schrödinger (1926).
+Sie ersetzte die anschaulichen Elektronenbahnen des Bohrschen Atommodells durch abstrakte, mathematisch beschriebene "Orbitale".
+Im Falle des einfachen Wasserstoffatoms lässt sich die quantenmechanische Schrödingergleichung exakt lösen.
+Für dieses so genannte "Wasserstoff-Problem" gibt es nicht nur eine einzige Lösung, sondern einen ganzen Satz von Lösungsfunktionen, welche die verschiedenen möglichen Zustände des Elektrons beschreiben.
+Es handelt sich um einen Satz von diskreten, also einzeln abzählbaren mathematischen Funktionen, die daher durch "Kennziffern" voneinander unterschieden werden können.
+Wie sich herausstellt, sind zur eindeutigen Kennzeichnung jedes Zustands genau vier solcher Kennziffern nötig, die sich mit den früher schon aus den Experimenten erschlossenen vier Quantenzahlen identifizieren lassen.
+Der Zusammenhang zwischen den ersten drei Quantenzahlen lässt sich aus der Schrödinger-Gleichung für das Wasserstoffatom ableiten:
+Die Spinquantenzahl m s {\displaystyle m_{s } } kann gemäß Paulis Forderung einen von zwei möglichen Werten annehmen:
+Damit liegt nun auch eine physikalisch-mathematische Begründung für die Anzahl möglicher Elektronenzustände bei gegebener Hauptquantenzahl vor, also für die Anzahl von Elektronen, die jede Hauptschale maximal aufnehmen kann.
+In der Hauptschale mit n = 3 {\displaystyle n\,=\,3 } beispielsweise existieren 3 Unterschalen, die durch die Nebenquantenzahlen l = 0 , 1 , 2 {\displaystyle l\,=\,0,\,1,\,2} unterschieden werden:
+Insgesamt enthält diese Hauptschale also 9 Orbitale.
+Jedes Orbital kann zwei Elektronen mit m s = - 1 2 , + 1 2 { \displaystyle m_{s}\,=\,-{\tfrac {1}{2}},\,+{\tfrac {1}{2}}} aufnehmen, so dass die Hauptschale mit n = 3 {\displaystyle n\,=\,3 } maximal 18 Elektronen enthalten kann.
+Summiert man die möglichen Anzahlen von Unterschalen und Orbitalen auf, stellt man fest, dass eine Hauptschale mit der Hauptquantenzahl n {\displaystyle n} insgesamt 2 n 2 {\displaystyle 2\,n^{2} } Elektronen aufnehmen kann, also für n = 1 , 2 , 3 , 4 , ... {\displaystyle n\,=\,1,2,3,4,\dots } die bereits bekannten 2 , 8 , 18 , 32 , . . .
+{\displaystyle 2,8,18,32,...
+} Elektronen.
+In Atomen mit mehreren Elektronen nehmen die Elektronen nicht die soeben beschriebenen Ein-Elektronen-Zustände des Wasserstoffatoms an, sondern Mehr-Elektronen-Zustände, für welche die eben beschriebenen Quantenzahlen streng genommen nicht mehr gültig sind.
+Sie weisen aber analoge Quantenzahlen auf, für die man dieselben Bezeichnungen verwendet.
+Rutherford stellte 1919 fest, dass mit Alpha-Teilchen beschossener Stickstoff eine neue Art von Teilchen aussandte.
+Gemeinsam mit James Chadwick identifizierte er diese Teilchen als positiv geladene Wasserstoff-Kerne und nannte sie "Protonen".
+Damit war die Quelle der positiven Ladung des Atomkerns identifiziert.
+Blackett und Harkins beobachteten 1925 in einer Nebelkammer, dass in solchen Fällen das Alpha-Teilchen verschluckt wurde, statt nur im Vorbeipassieren ein Proton aus dem Stickstoffkern zu schlagen.
+Daraus ließ sich schließen, dass gemäß der Gleichung
+aus dem Stickstoffatom ein Sauerstoffatom geworden war, das erste Beispiel einer künstlichen Elementumwandlung ("Transmutation").
+Wegen ihrer geringeren Ladung können Protonen die elektrische Abstoßung schwererer Kerne leichter überwinden als Alpha-Teilchen und eignen sich daher besser als Projektile in Beschuss-Experimenten, da sie diese Kerne leichter erreichen können.
+Da es aber keine natürlichen Quellen für Protonen mit der erforderlichen Energie gab, wurden Protonen-Beschleuniger entwickelt, teilweise als Linearbeschleuniger, insbesondere aber in Form des Zyklotrons (Lawrence und Livingston, 1931), was zahlreiche neue Transmutationen ermöglichte.
+Beryllium, Bor und Lithium gaben beim Beschuss mit Alpha-Teilchen eine bisher unbekannte, sehr durchdringende Strahlung ab, die Chadwick als ungeladene Teilchen mit der Masse eines Protons identifizierte.
+Dieses "Neutron" erklärte, warum verschiedene Isotope eines Elements zwar dieselbe Kernladungszahl, aber verschiedene Massen besitzen konnten:
+Sie hatten unterschiedliche Anzahlen von Neutronen im Kern.
+Da es als ungeladenes Teilchen von den Kernen nicht abgestoßen wird, eignet sich das Neutron auch als Projektil in Beschuss-Experimenten.
+Im Zuge der Beschuss-Experimente gelang es, durch Transmutation neue, nicht natürlich vorkommende Isotope herzustellen (als erstes 1934 das Phosphor-Isotop mit der Massenzahl 30 durch Irene und Frederic Joliot-Curie).
+Die künstlich erzeugten Isotope sind radioaktiv ("künstliche Radioaktivität") und fanden wegen ihrer gezielten Herstellbarkeit schnell Anwendung für wissenschaftliche und praktische Zwecke.
+Der Beschuss von Uranatomen mit Neutronen führte 1938 zur Entdeckung der Kernspaltung.
+In den durch Beschuss von Uran mit Neutronen erzeugten Produkten identifizierten Edwin Mattison McMillan und Philip Hauge Abelson 1940 das neue Element Neptunium.
+Mit der Ordnungszahl 93 war es das erste Transuran.
+Eine Arbeitsgruppe um Glenn T. Seaborg untersuchte das neue Element (es konnten in einem Zyklotron 45 Mikrogramm davon hergestellt werden) auf seine chemischen Eigenschaften.
+Es war zu erwarten, dass ein Beta-Zerfall des Isotops Neptunium-239 zur Bildung des Elements mit der Ordnungszahl 94 führen sollte.
+Gezielte Herstellung dieses Isotops durch Beschuss von Uran-238 mit Neutronen erlaubte Seaborg und Kollegen 1941 die Erzeugung des neuen Elements, Plutonium.
+Bis dahin war etabliert, dass die Seltenen Erden ("S.E." im nebenstehenden Periodensystem) einen Einschub in der sechsten Periode des Periodensystems darstellen, in der siebten Periode war die mögliche Existenz eines ähnlichen Einschubs jedoch noch nicht erkannt worden.
+Francium, Radium und Actinium gehörten klar in die erste, zweite und dritte Gruppe der siebten Periode.
+Man ging davon aus, dass die darauffolgenden Elemente Thorium, Protactinium und Uran der vierten, fünften und sechsten Gruppe angehören müssten, im Periodensystem also jeweils unter den Übergangsmetallen Hafnium, Tantal und Wolfram zu stehen kämen.
+Einige Ähnlichkeiten mit diesen Gruppen wie etwa die Wertigkeit 4 des Thoriums oder die Wertigkeit 6 des Urans schienen die Einordnung zu bestätigen.
+Dieser Irrtum verzögerte den Forschungsfortschritt, denn bei der Identifizierung und Abtrennung neuer Elemente wurde oft ihre chemische Ähnlichkeit mit bekannten Elementen benutzt.
+Die neuen Substanzen wurden meist in zu geringen Mengen erzeugt, um sie isolieren zu können.
+Ließ man sie jedoch gemeinsam mit einem bekannten Element an einer chemischen Reaktion teilnehmen, deren Produkt man anschließend ausfällte, und fand sich die leicht messbare Radioaktivität im Niederschlag, dann war die chemische Ähnlichkeit mit dem bekannten Element gezeigt.
+(Marie und Pierre Curie hatten diese Technik genutzt, um das entdeckte Radium in einem Bariumchlorid-Niederschlag zu konzentrieren.) Verblieb die Radioaktivität jedoch in der Lösung, war die vermutete Ähnlichkeit widerlegt.
+Falsch angenommene chemische Ähnlichkeiten hatten unter anderem die Arbeit an Protactinium und Uran verzögert.
+Seaborg erkannte 1944, dass die neu erzeugten Transurane keine Übergangsmetalle waren, sondern zu einem Einschub in der siebten Periode gehören (den Actinoiden), der dem (jetzt Lanthanoide genannten) Einschub in der sechsten Periode entspricht.
+Seaborg und Mitarbeiter stellten 1944 das Element 96 (Curium) durch Beschuss von Plutonium-239 mit Helium-Ionen und kurz darauf Element 95 (Americium) durch Beschuss von Plutonium-239 mit Neutronen her.
+Der Beschuss von Americium-241 mit Heliumionen produzierte 1949 das Element 97 (Berkelium), es folgte Element 98 (Californium) durch Beschuss von Curium-242 mit Heliumionen.
+Mehrere Arbeitsgruppen identifizierten die Elemente 99 (Einsteinium) und 100 (Fermium) im Fallout des Kernwaffentests "Mike" (1952).
+Mit immer größeren Beschleunigern konnten immer schwerere Atome als Projektile verwendet werden, so dass auch die Erzeugung immer schwererer Transurane gelang.
+Das bislang (Stand 2019) schwerste hergestellte Transuran ist Element 118 (Oganesson).
+Auch heute noch gibt es Diskussionen um die Stellung mancher Elemente im Periodensystem.
+Aufgrund der Elektronenkonfiguration, nicht aber aufgrund der Elementeigenschaften, müsste Helium (Elektronenkonfiguration 1s2) in der zweiten Hauptgruppe, also im Periodensystem oberhalb von Beryllium eingeordnet werden.
+Helium besitzt nur zwei Elektronen, im Gegensatz zu den anderen Edelgasen mit acht Elektronen in der äußersten Schale.
+Da sich Helium aber chemisch wie ein Edelgas verhält, befindet es sich in der achten Hauptgruppe mit den anderen Edelgasen.
+Als die Edelgase um 1900 entdeckt wurden, erhielten sie die Zuordnung zur nullten Hauptgruppe, die heute nicht mehr existiert.
+Helium befand sich damals an der Spitze (d. h. in der ersten Periode) der nullten Hauptgruppe.
+Heute sind die Edelgase gemäß IUPAC in der achten Hauptgruppe positioniert.
+Wasserstoff lässt sich im Periodensystem im Vergleich zu Helium eindeutiger positionieren, denn er kann die für die erste Hauptgruppe typischen Oxidationszahlen 0 und +1 annehmen und kann wie das darunterliegende Lithium kovalente Bindungen eingehen und wird dadurch zu den Alkalimetallen gerechnet, auch wenn es das einzige gasförmige Alkalimetall ist und eine vergleichsweise hohe Elektronegativität aufweist.
+Wasserstoff bildet legierungsähnliche Metallhydride mit einigen Übergangsmetallen.
+Dennoch wird Wasserstoff aufgrund der nichtmetallischen chemischen Reaktivität gelegentlich in der siebten Hauptgruppe mit den Halogenen einsortiert.
+Daher wird Wasserstoff, wenn auch selten, in manchen Periodensystemen doppelt aufgeführt, in der ersten und siebten Hauptgruppe.
+Es wurde auch vorgeschlagen, Wasserstoff oberhalb des Kohlenstoffs einzusortieren, weil seine Elektronegativität, seine Elektronenaffinität und sein Ionisierungspotential eher dem Kohlenstoff entspricht, auch wenn es nur mit einem Elektron reagieren kann, im Gegensatz zu den Vertretern der Kohlenstoffgruppe (vierte Hauptgruppe), die mit vier Elektronen reagieren können.
+Um den abweichenden Eigenschaften des Wasserstoffs und des Heliums Rechnung zu tragen, werden beide in seltenen Fällen auch außerhalb des Periodensystems dargestellt.
+Die Einordnung der Lanthanoide und Actinoide erfolgt relativ unterschiedlich im Vergleich zu Elementen anderer Perioden.
+Frühe Versuche reihten die Lanthanoide und Actinoide zwischen den Hauptgruppenelementen ein.
+Bohuslav Brauner sortierte die Lanthanoide und Actinoide 1902 unterhalb Zirkonium ein - diese Anordnung wurde in Anlehnung von mehreren Asteroiden in der gleichen Umlaufbahn als "Asteroid-Hypothese" bezeichnet, die Brauner 1881 in einem Brief an Mendelejew beschrieb.
+Im Jahr 1922 ordnete Niels Bohr die Lanthanoide und Actinoide zwischen den s-Block und den d-Block ein.
+Von Glenn T. Seaborg wurde zwischen 1944 und 1949 ein Periodensystem entwickelt, das die Lanthanoide und Actinoide als Fußnoten unterhalb von Yttrium darstellt.
+Allerdings wurde auch kritisiert, dass eine solche Einteilung die Darstellung des Periodensystems auseinanderreißt.
+Scandium und Yttrium sind heute vergleichsweise festgesetzt, aber die in der ersten Nebengruppe darunter befindlichen Elemente variieren.
+Unterhalb von Yttrium befinden sich, je nach Darstellung, entweder die ersten Vertreter der Lanthanoide und Actinoide (Lanthan und Actinium, also in der Reihenfolge Sc-Y-La-Ac), seltener die letzten Vertreter der Lanthanoide und Actinoide (Lutetium und Lawrencium, also in der Reihenfolge Sc-Y-Lu-Lr) oder eine Lücke mit Fußnoten (also in der Reihenfolge Sc-Y-*-*).
+Diese drei Varianten richten sich nach der Diskussion, wo der f-Block beginnt und endet.
+In einer vierten Variante wird die dritte Gruppe unterbrochen und ein Actinoiden-Lanthanoiden-Zweig und ein Lutetium-Lawrencium-Zweig eingeschoben.
+Es gibt chemische und physikalische Argumente für die Variante mit Lawrencium und Lutetium unterhalb von Yttrium, aber diese Variante findet keine Mehrheit unter den Fachleuten zum Thema Periodensystem.
+Den meisten Chemikern ist diese Diskussion unbekannt.
+Die IUPAC hat 2015 eine Projektgruppe zur Anordnung der Lanthanoide und Actinoide eingerichtet.
+Im Januar publizierte die Projektgruppe einen einstweiligen Bericht.
+Darin formuliert sie drei desiderata: 1) Die Reihenfolge der Elemente soll ihrer Ordnungszahl folgen.
+2) Der d-Block soll nicht zwei in hohem Maße ungleiche Teile aufgespalten werden.
+3) Die Blöcke sollen in Übereinstimmung mit den darunterliegenden quantenmechanischen Anforderungen zwei, sechs, zehn und vierzehn Gruppen umfassen.
+Diese sind nur mit Sc-Y-Lu-Lr möglich.
+Die Datierung der Entdeckung solcher chemischen Elemente, die bereits seit der Frühzeit oder Antike bekannt sind, ist nur ungenau und kann je nach Literaturquelle um mehrere Jahrhunderte schwanken.
+Sicherere Datierungen sind erst ab dem 18. Jahrhundert möglich.
+Bis dahin waren erst 15 Elemente als solche bekannt und beschrieben: 12 Metalle (Eisen, Kupfer, Blei, Bismut, Arsen, Zink, Zinn, Antimon, Platin, Silber, Quecksilber und Gold) und drei Nichtmetalle (Kohlenstoff, Schwefel und Phosphor).
+Die meisten Elemente wurden im 19. Jahrhundert entdeckt und wissenschaftlich beschrieben.
+Zu Beginn des 20. Jahrhunderts waren nur noch zehn der natürlichen Elemente unbekannt.
+Seither wurden vor allem schwer zugängliche, oftmals radioaktive Elemente dargestellt.
+Viele dieser Elemente kommen nicht in der Natur vor und sind das Produkt von künstlichen Kernverschmelzungsprozessen.
+Erst im Dezember 1994 wurden die beiden künstlichen Elemente Darmstadtium (Eka-Platin) und Roentgenium (Eka-Gold) hergestellt.
+Bis zu einer Festlegung der Elementnamen werden neue Elemente mit systematischen Elementnamen bezeichnet.
+Dieses Periodensystem gibt einen Überblick über die Entdecker bzw. Erzeuger der einzelnen Elemente durch Anklicken der Elementenkennung.
+Für die Elemente, für die kein Entdecker/Erzeuger bekannt ist, wird der aktuelle historische Wissensstand unter dem Übersichtsplan kurz wiedergegeben.
+Die Vereinten Nationen (UN) haben 2019 zum "Internationalen Jahr des Periodensystems der chemischen Elemente" (IYPT 2019) erklärt:
+Damit wollen sie weltweit das Bewusstsein dafür wecken, wie Chemie nachhaltige Entwicklung fördern sowie Lösungen für weltweite Herausforderungen bei Energie, Bildung, Landwirtschaft oder Gesundheit bieten kann.
+Es sollen so auch die jüngsten Entdeckungen und Benennungen vierer "superschwerer" Elemente des Periodensystems mit den Ordnungszahlen 113 (Nihonium), 115 (Moscovium), 117 (Tenness) und 118 (Oganesson) bekannter gemacht werden.
+Die Widmung fällt zudem mit dem 150. Jahrestag der Entwicklung des Periodensystems zusammen.
+Veranstaltungen in Paris, Murcia und Tokio werden an das Ereignis erinnern.
+Experimente zur Erzeugung synthetischer Elemente werden fortgesetzt und werden voraussichtlich auch zur Erzeugung von Elementen mit Ordnungszahlen über 118 führen.
+Sofern diese sich in das bisherige Schema einfügen, wird in der achten Periode erstmals eine g-Unterschale (nämlich die der fünften Hauptschale) aufgefüllt.
+Da die g-Unterschale neun Orbitale enthält, die 18 Elektronen aufnehmen können, wird die achte Periode insgesamt fünfzig (2 * 52) Elemente umfassen:
+Acht Hauptgruppenelemente (Auffüllen der 8s- und der 8p-Unterschalen), zehn äußere Übergangselemente (Auffüllen der 7d-Unterschale), vierzehn innere Übergangselemente, bei denen die 6f-Unterschale aufgefüllt wird, und weitere achtzehn innere Übergangselemente, bei denen die 5g-Unterschale aufgefüllt wird.
+Analoges würde für die neunte Periode gelten.
+Möglicherweise werden die mit der Ordnungszahl zunehmenden relativistischen Effekte (siehe oben) jedoch die Periodizitäten immer mehr verschwimmen lassen.
+Sie beeinflussen das Verhalten der Elektronen und damit die chemischen Eigenschaften, so dass diese nicht mehr unbedingt der Position des Elements im Periodensystem entsprechen müssen.
+Dies deutet sich bereits bei den bekannten Elementen an:
+So sollten die Übergangsmetalle 104Rutherfordium und 105Dubnium in ihrem Verhalten den jeweils im Periodensystem darüberstehenden Übergangsmetallen Hafnium beziehungsweise Tantal ähneln.
+Experimente zeigen jedoch ein Verhalten, das eher den Actinoiden Plutonium beziehungsweise Protactinium ähnelt.
+Die darauf folgenden Elemente 106Seaborgium und 107Bohrium hingegen zeigen wieder das ihrer Position im Periodensystem entsprechende Verhalten.
+114Flerovium sollte als Element der vierten Hauptgruppe dem Blei ähneln, scheint sich aber eher wie ein Edelmetall zu verhalten.
+Je schwerer die erzeugten Atome sind, um so kürzer ist im Allgemeinen ihre Lebensdauer.
+Theoretische Abschätzungen lassen erwarten, dass ab Ordnungszahlen von etwas über 170 die Lebensdauer der erzeugten Atome gegen Null geht, so dass gar nicht mehr von erzeugten Atomen gesprochen werden kann.
+Dies wäre, sofern zutreffend, die theoretische Obergrenze für den Umfang des Periodensystems.
+Die heutzutage meistens benutzte mittellange Form des Periodensystems (mit 18 Spalten und platzsparend ausgelagertem f-Block) wurde bereits detailliert erläutert.
+Verzichtet man auf das Auslagern des f-Blocks, der die Lanthanoide und Actinoide umfasst, erhält man die so genannte lange Form des Periodensystems mit 32 Spalten.
+In dieser Darstellung gibt es im Gegensatz zur mittellangen Form keine Unterbrechungen in der Abfolge der Ordnungszahlen.
+Ein erstes Langperiodensystem wurde 1905 von Alfred Werner vorgeschlagen.
+William B. Jensen empfahl das Langperiodensystem, da die in kürzeren Periodensystemen separat dargestellten Lanthanoide und Actinoide den Studenten als unwichtig und langweilig erscheinen würden.
+Trotz der lückenlosen Darstellung wird das Langperiodensystem wegen seines für den Buchdruck unhandlichen Formats selten verwendet.
+Ein über die Ordnungszahl 118 hinausgehendes Periodensystem befindet sich unter Erweitertes Periodensystem.
+Die Form des Periodensystems von Dmitri Mendelejew hat sich durchgesetzt.
+Dennoch gab (und gibt) es weitere Vorschläge für alternative Ordnungen der Elemente nach ihren Eigenschaften.
+In den ersten hundert Jahren seit dem Entwurf Mendelejews von 1869 wurden schätzungsweise 700 Varianten des Periodensystems veröffentlicht.
+Neben vielen rechteckigen Varianten gab es auch kreis-, kugel-, würfel-, zylinder-, spiral-, pyramiden-, schichten-, blumen-, schleifen-, achteck- und dreieckförmige Periodensysteme.
+Die verschiedenen Formen dienen meistens der Hervorhebung bestimmter Eigenschaften.
+Die meisten Darstellungen sind zweidimensional.
+Die erste dreidimensionale Darstellung wurde bereits vor dem Periodensystem Mendelejews im Jahr 1862 von de Chancourtois veröffentlicht.
+Eine weitere dreidimensionale Darstellung aus mehreren Papierschleifen wurde 1925 von M. Courtines publiziert, und eine schichtenförmige wurde von A. N. Wrigley im Jahr 1949 erstellt.
+Paul-Antoine Giguere veröffentlichte 1965 ein aus mehreren Platten zusammengestelltes Periodensystem und Fernando Dufour eine baumfömige Darstellung im Jahr 1996.
+Das Periodensystem von Tim Stowe aus dem Jahr 1989 wurde einschließlich einer Farbdimension als vierdimensional beschrieben.
+Daneben gibt es eher chemisch und eher physikalisch orientierte Darstellungen des Periodensystems.
+Ein chemisch orientiertes Periodensystem wurde 2002 von Geoff Rayner-Canham für anorganische Chemiker veröffentlicht, bei dem Tendenzen und Muster sowie ungewöhnliche chemische Eigenschaften betont sind.
+Ein physikalisch orientiertes Periodensystem wurde 1928 von Charles Janet publiziert, mit einem stärkeren Fokus auf die Elektronenkonfiguration und Quantenmechanik, wie auch von Alper aus dem Jahr 2010.
+Letzteres wurde allerdings aufgrund der mangelnden Darstellung der Periodizität der Eigenschaften kritisiert.
+Zu den Mischformen gehört das Standardperiodensystem, das sowohl chemische als auch physikalische Eigenschaften wie Oxidationszahlen, elektrische und Wärmeleitfähigkeiten aufführt.
+Dessen Verbreitung wird der Ausgewogenheit und Praktikabilität der angezeigten Eigenschaften zugeschrieben.
+Kein alternatives Periodensystem, aber dennoch eine deutlich anders aussehende Darstellung ist das Kurzperiodensystem (siehe oben), bei dem Haupt- und Nebengruppen ineinander verschachtelt sind.
+Andere Klassifikationsmethoden richten sich nach dem natürlichen Vorkommen der Elemente in Mineralien (Goldschmidt-Klassifikation) oder nach der Kristallstruktur.

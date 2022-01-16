@@ -1,0 +1,426 @@
+Ein Antibiotikum (früher auch Antibioticum, von griech.
+vi- anti- "gegen" und io bios "Leben"; Plural: Antibiotika, Antibiotica) im ursprünglichen Sinne ist ein natürlich gebildetes niedermolekulares Stoffwechselprodukt von Pilzen oder Bakterien, das schon in geringer Konzentration das Wachstum anderer Mikroorganismen hemmt oder diese abtötet.
+Als Antibiotikum im weiteren Sinn gilt auch eine antimikrobiell eingesetzte Substanz, die in der Natur nicht vorkommt und teilsynthetisch, vollsynthetisch oder gentechnisch gewonnen wird, nicht jedoch Desinfektionsmittel.
+
+Antibiotika und ihre Derivate werden vielfach als Antiinfektiva (Arzneistoffe zur Behandlung von Infektionskrankheiten) verwendet.
+
+Im allgemeinen Sprachgebrauch bezieht sich die Bezeichnung Antibiotika meistens auf Arzneistoffe oder Arzneimittel zur Behandlung bakterieller Infektionskrankheiten.
+Zusammen mit Mitteln gegen Infektionskrankheiten durch Protozoen (Antiprotozoika), gegen Pilze (Antimykotika), gegen Viren (Virostatika) und Würmer (Anthelminthika) bilden sie die Gruppe der Therapeutika gegen Infektionskrankheiten (Antiinfektiva).
+
+== Zum Begriff
+
+Die Bezeichnung Antibiotikum leitet sich von Antibiose ab, einer von Paul Vuillemin 1889 eingeführten Bezeichnung für eine Beziehung zwischen Lebewesen, die für einen der Beteiligten Nachteile mit sich bringt, indem dessen Wachstum und/oder Fortpflanzung gehemmt oder es abgetötet wird.
+
+Obwohl Antibiose schon lange bekannt ist, gilt als der erste therapeutisch antimikrobiell eingesetzte Stoff das synthetisch hergestellte Arsphenamin.
+Die Bezeichnung Chemotherapeutikum für chemisch-synthetische antimikrobielle Stoffe stammt aus der Zeit der großtechnischen synthetischen Herstellung der Sulfonamide.
+Erst später wurde das Penicillin als erster natürlich vorkommender antimikrobieller Wirkstoff in die antibakterielle Therapie eingeführt.
+Heute bezeichnet man allgemein sowohl Stoffe biologischen Ursprungs (Antibiotika im ursprünglichen Sinn) als auch synthetisch hergestellte Chemotherapeutika als Antibiotika.
+
+Außer im chemischen wird inzwischen auch im biologischen Sinn die Definition weiter gefasst.
+Sie beschränkt den biogenen Ursprung der Antibiotika nicht nur auf Mikroorganismen wie Pilze und Bakterien, sondern umfasst auch Stoffe wie Phytoalexine und Defensine aus höher organisierten Lebewesen wie Pflanzen und Tieren; auch beim Menschen ist das Vorhandensein körpereigener antibiotisch wirksamer Stoffe bekannt.
+
+== Geschichte
+
+=== Hintergrund
+
+Entdeckung und Anwendung der Antibiotika gehören zu den bedeutendsten Entwicklungen der Medizingeschichte und wurden auch in Romanform geschildert.
+Louis Pasteur formulierte den Satz "Leben verhindert Leben", nachdem er 1877 erkannt hatte, dass sich manche Bakterienarten gegenseitig am Wachstum hindern.
+
+=== Balds Augensalbe
+
+2015 wurde von einem englischen Forscherteam das sogenannte Bald's Leechbook aus dem 10. Jahrhundert untersucht.
+Sie fanden heraus, dass eine nach einem darin erwähnten Rezept angefertigte Augensalbe in vitro eine bakterizide Wirkung gegenüber dem Bakterium Staphylococcus aureus zeigte.
+In einem Modell aus infiziertem Mausgewebe vermochte sie die Keimzahl eines multiresistenten Krankenhauskeims Staphylococcus aureus (MRSA) deutlich zu reduzieren.
+Die Salbe enthielt eine Zubereitung aus Knoblauch, Zwiebeln, Wein und Ochsengalle.
+
+=== 1893-1897: Vorarbeiten von Gosio und Duchesne
+
+Aus einem Schimmelpilz der Gattung Penicillium isolierte Bartolomeo Gosio 1893 Mycophenolsäure, die er sogar kristallin darstellen konnte.
+Gosio beobachtete, dass er damit das Wachstum des Milzbranderregers behindern konnte.
+Er veröffentlichte diese Arbeiten 1893 und noch einmal 1896; sie wurden jedoch international nicht wahrgenommen, wohl weil er auf Italienisch schrieb.
+
+Ebenfalls bereits dreißig Jahre vor Alexander Fleming, dem "offiziellen" Entdecker des Penicillins, schrieb der französische Militärarzt Ernest Duchesne seine Doktorarbeit über seine als Medizinstudent gemachte Beobachtung, dass bestimmte Schimmelpilze über antibiotische - also Bakterien abtötende - Eigenschaften verfügen.
+Er gilt heute als erster Entdecker der antimikrobiellen Wirksamkeit von Schimmelpilzen.
+Angeregt wurden seine Forschungen durch die Beobachtung, dass die im Militärhospital beschäftigten arabischen Stallknechte die Sättel für die Pferde in einem dunklen, feuchten Raum aufbewahrten, um die Bildung von Schimmelpilzen zu fördern.
+Auf Duchesnes Frage, warum sie das täten, antworteten die Stallburschen, dadurch würden die Wunden, die durch das Scheuern der Sattel entstünden, schneller abheilen.
+1896 bereitete Duchesne eine Lösung aus diesen Schimmelpilzkulturen zu und injizierte sie mehreren erkrankten Meerschweinchen.
+Wie sich herausstellte, genasen alle Versuchstiere nach verabreichter Injektion.
+
+Anschließend studierte Duchesne die Wechselwirkung zwischen Escherichia coli und Penicillium glaucum in einer Reihe penibel durchgeführter Experimente.
+Dabei stellte sich heraus, dass in einer Kultur, die lediglich diese beiden Spezies enthielt, der Pilz in der Lage war, das Bakterium zu eliminieren.
+Des Weiteren zeigte sich, dass ein Versuchstier, das mit einem Typhusbazillus in einer normalerweise tödlichen Dosis beimpft wurde, keinerlei Anzeichen einer Erkrankung zeigte, mithin also völlig gesund war - sofern es zuvor ebenfalls mit Penicillium glaucum beimpft worden war (in dieser Hinsicht weichen die Ergebnisse von Duchesne von den Ergebnissen von Fleming ab:
+Der von Fleming entdeckte Stamm Penicillium notatum zeigte bei Typhus keinerlei Effekte).
+
+Seine Doktorarbeit mit dem Titel Contribution a l'etude de la concurrence vitale chez les micro-organismes: antagonisme entre les moisissures et les microbes ("Untersuchungen zum Überlebenskampf der Mikroorganismen: Der Antagonismus von Schimmelpilzen und Mikroben"), die er im Jahre 1897 zur Erlangung der Doktorwürde einreichte, war die erste wissenschaftliche Arbeit, die sich mit den Möglichkeiten eines therapeutischen Einsatzes von Schimmelpilzen aufgrund deren antimikrobieller Eigenschaften auseinandersetzte.
+Seinerzeit lehnte das Institut Pasteur die Doktorarbeit des damals völlig Unbekannten und gerade erst 23-Jährigen ab.
+Duchesne drängte auf mehr Forschungen, aber der Militärdienst hinderte ihn daran, auf diesem Gebiet weitere Aktivitäten zu entfalten.
+Erst 1949, fünf Jahre, nachdem Alexander Fleming den Nobelpreis erhalten hatte, wurde Duchesne von der französischen Academie nationale de medecine posthum für seine Verdienste geehrt.
+
+=== 1910: Paul Ehrlich und das Arsphenamin
+
+Vielfach wird heute noch das 1910 von Paul Ehrlich eingeführte Arsphenamin als das zuerst entdeckte Antibiotikum der Geschichte angesehen.
+Sein Wirkungsspektrum war auf Spirochäten begrenzt (Schmalspektrum-Antibiotikum); es ermöglichte dadurch erstmals eine wirksame und relativ ungefährliche Therapie der damals weit verbreiteten Syphilis.
+
+Anders als das spätere Penicillin beruhten Arsphenamin und seine bis 1945 in Deutschland hergestellten Nachfolger (u. a. das 1934 zunächst als Antiinfektivum eingeführte Sulfamidochrysoidin, Handelsname Prontosil) noch nicht auf Schimmelpilzen, sondern auf künstlich hergestellten Farbstoffen.
+Arsphenamin ist in der modernen Medizin inzwischen von neueren Wirkstoffen abgelöst worden.
+Als nächstes Antibiotikum wurde dann 1935 das von Gerhard Domagk entdeckte Sulfonamid auf den Markt gebracht.
+
+=== 1928: Alexander Fleming entdeckt das Penicillin
+
+Die Wiederentdeckung der Penicilline durch Alexander Fleming begann 1928 mit einer vergessenen und verschimmelten Staphylokokkenkultur am St. Mary's Hospital in London, als er entdeckte, dass auf dem Nährboden der Bakterienkultur ein Schimmelpilz (Penicillium notatum) wuchs, der die Vermehrung der Bakterien in der Nachbarschaft des Pilzes verhindert hatte.
+Den aus dem Nährmedium gewonnenen Bakterien tötenden Stoff nannte er Penicillin und veröffentlichte seine Erkenntnisse 1929 im British Journal of Experimental Pathology.
+
+Da Penicillium notatum (heute Penicillium chrysogenum) als das nächste medizinisch eingesetzte Antibiotikum im Gegensatz zu den vorher genannten Antibiotika nicht chemisch synthetisiert werden konnte, sondern durch Mikroorganismen (Pilze) hergestellt werden musste, erfolgte die Behandlung des ersten Patienten mit Penicillin erst 1941 nach Gewinnung in chemisch ausreichend reiner Form durch die Oxforder Gruppe um Ernst B. Chain und Howard W. Florey.
+
+=== Seit 1941: Weite Verbreitung und Forschung bis heute
+
+Mit dem Penicillin begann der eigentliche Siegeszug der Antibiotika in der Medizin.
+Die Erfolge des Penicillins führten zur Suche und Entdeckung vieler weiterer Antibiotika: Streptomycin, Chloramphenicol, Aureomycin, Tetracyclin und vieler anderer.
+Die meisten heute bekannten Antibiotika leiten sich von Naturstoffen ab.
+
+Der bekannteste "Produzent" von Antibiotika ist der Schimmelpilz Penicillium chrysogenum (früher P. notatum).
+Sein Produkt, das Penicillin, ist heute in der Laiensprache ein Synonym für Antibiotika.
+Auch heute noch werden die zahlreichen, medizinisch verwendeten Antibiotika biotechnologisch durch Bakterien wie die Streptomyceten produziert.
+Eine ebenfalls sehr große Gruppe von Antibiotika sind Semisyntheseprodukte, die also chemisch verändert wurden, sich aber auch von natürlichen Produzenten ableiten.
+Nicht selten werden solche Substanzen aber heute mit modernen chemischen Methoden auch vollsynthetisch hergestellt, d. h. man verzichtet vollständig auf einen biotechnologischen Verfahrensschritt.
+
+In den 1970er und 1980er Jahren wurde verstärkt auf dem Gebiet der Antibiotika geforscht.
+Heute zählen Antibiotika zu den weltweit am häufigsten verschriebenen Medikamenten, mit dreizehn Prozent Marktanteil bilden sie den größten Einzelbereich nach der gesamten Erfassung unseres Arzneimittelverbrauchs.
+Von den heute etwa 8.000 bekannten antibiotischen Substanzen werden nur etwa 80 therapeutisch angewendet.
+In Deutschland sind 2005 laut BfArM insgesamt 2.775 Antibiotikapräparate zugelassen.
+1987 hatten 10 bis 15 dieser Präparate einen Marktanteil von etwa vier Fünftel des Gesamtumsatzes.
+Im Jahr 1997 betrug der Anteil des Penicillins 9 %.
+
+== Wirkung antibakteriell wirksamer Antibiotika
+
+Man unterscheidet grundsätzlich zwei Arten der Wirkung:
+
+Ansatzpunkt für die gewünschte Wirkung sind Strukturen oder Mechanismen der Bakterienzellen, die in tierischen bzw. menschlichen Zellen nicht vorkommen.
+So kann die Wirkung beispielsweise durch eine Hemmung der bakteriellen Zellwandsynthese, der Proteinsynthese am Ribosom, der DNA-Replikation oder der Folsäuresynthese erfolgen.
+Bakterien sind die einzigen bekannten Organismen, deren Zellwand aus Murein besteht.
+Dieser Zucker kommt ausschließlich in Bakterien vor - kein anderes bekanntes Lebewesen kann Murein produzieren.
+Ferner besitzen Bakterien andere Ribosomen zur Proteinbiosynthese und andere Enzyme zur DNA-Replikation als der Mensch.
+Menschliche Zellen bilden auch keine Folsäure wie Bakterien, sondern nehmen sie mit der Nahrung auf.
+Nur so ist es möglich, dass Antibiotika für den Menschen vergleichsweise gut verträglich sind.
+
+Die Vielfalt an Bakterien, auf die ein Antibiotikum wirkt, sein Wirkungsspektrum, ist je nach Antibiotikum unterschiedlich breit.
+Antibiotika, bei denen dieses Wirkungsspektrum sehr breit ist, die also auf eine Vielzahl unterschiedlicher Bakterien wirken, nennt man Breitbandantibiotika.
+
+Nach der chemischen Struktur unterscheidet man verschiedene Antibiotikagruppen:
+
+=== -Lactame
+
+-Lactam-Antibiotika (kurz -Lactame) binden fest (kovalent) und irreversibel an bestimmte Penicillin-Binde-Proteine (PBP), die zuständig für das Entstehen von Peptidbindungen in dem bakteriellen Zellwandbestandteil Murein sind.
+Es sind verschiedene solcher PBP, wie etwa die D-Alanin-Transpeptidasen, als Angriffspunkte für -Lactam-Antibiotika bekannt.
+Durch die Blockade dieser Enzyme kommt es zur Störung der Mureinbiosynthese, so dass die wichtigen Zellwandbestandteile nicht neu produziert werden können.
+Aus den entstehenden Läsionen ("Löcher") entsteht eine Instabilität der Zellwand und der hohe osmotische Druck führt zur Lyse und somit zum Absterben der Zelle.
+Unter extremen Bedingungen (Labor) lassen sich regelrecht ,platzende' Bakterienzellen beobachten.
+
+-Lactam-Antibiotika wirken im Prinzip bakterizid.
+Typische Vertreter sind Penicilline, Cephalosporine, Monobactame und Carbapeneme.
+Für eine feinere Unterteilung sei auf den Artikel -Lactam-Antibiotika verwiesen.
+
+-Lactam-Antibiotika werden für bestimmte Anwendungen mit -Lactamase-Inhibitoren kombiniert.
+-Lactamase-Inhibitoren blockieren die von manchen Bakterien gebildeten -Lactamasen, die -Lactam-Antibiotika durch Spaltung unwirksam machen würden.
+Feste Kombinationen sind Clavulansäure + Amoxicillin, Sulbactam + Ampicillin, Tazobactam + Piperacillin.
+
+=== Glykopeptide
+
+Glykopeptide gehören ebenfalls zu den bakteriolytisch wirkenden Antibiotika.
+Sie wirken ausschließlich auf grampositive Bakterien.
+Ähnlich wie -Lactame hemmen sie die Biosynthese des bakteriellen Zellwandbestandteils Murein (Peptidoglycan), jedoch ist der Wirkungsmechanismus ein anderer.
+Glykopeptide verhindern durch Komplexierung von endständigen D-Alanyl-D-Alanin-Sequenzen der Peptidoglykane deren Verlängerung und Quervernetzung, indem so die Transglycosylase gehemmt wird.
+In der wachsenden Bakterienzellwand entstehen Perforationen (Löcher), durch die aufgrund des hohen osmotischen Druckunterschiedes unkontrolliert Wasser in die Bakterienzelle einströmt (diffundiert), weswegen diese schließlich platzt.
+Arzneistoffe aus der Gruppe der Glykopeptide sind beispielsweise Vancomycin, Dalbavancin und Teicoplanin.
+
+Nach Gabe einer initialen Normdosis erfolgt die Bestimmung der Erhaltungsdosis anhand der Serumspiegel im Blut, vor allem bei gleichzeitiger Therapie mit Aminoglykosiden, bei Patienten mit gefährdeter oder unzureichender Nierenfunktion sowie bei hoher Dosierung und/oder längerer Behandlungsdauer.
+
+=== Polyketide
+
+Tetracycline wirken gegen grampositive und gramnegative Bakterien.
+Tetracycline hemmen die bakterielle Proteinsynthese, indem sie sich an die 30 S-Ribosomenuntereinheit anlagern und dadurch die Anlagerung der tRNA verhindern.
+Die Wirkungsweise ist also bakteriostatisch.
+Die Affinität der Tetracycline zu Bakterienribosomen ist wesentlich größer als zu Säugetierribosomen.
+Mit mehrwertigen Kationen wie beispielsweise Calciumionen, wie sie insbesondere in Milch und Milchprodukten vorkommen, oder etwa Magnesiumionen (z. B. enthalten in freiverkäuflichen Antazida), bilden Tetracycline Komplexverbindungen und werden schlechter resorbiert.
+
+Glycylcyclin-Antibiotika hemmen das Bakterienwachstum, indem sie die bakterielle Proteinsynthese blockieren.
+Sie haben ein breites Wirkungsspektrum gegen gramnegative und grampositive Bakterien, sind jedoch wirksamer gegen Tetracyclin-resistente Bakterien.
+Glycylcyclin-Antibiotika wirken gegen resistente Stämme wie Methicillin-resistente Streptococcus pneumoniae, Penicillin-resistente Streptococcus pneumoniae und Vancomycin-resistente Enterokokken.
+Glycylcycline wirken in gleicher Weise wie die strukturverwandten Tetracycline, jedoch mit deutlich höherer ribosomaler Affinität.
+Dies wirkt sich insbesondere auf Protektionsproteine aus.
+Sie sollen das Problem der bakteriellen Resistenz gegen Tetracyclin überwinden.
+
+Resistente Organismen werden häufig aufgrund der weit verbreiteten Verwendung verschiedener Tetracyclin-Mittel in der Vergangenheit gesehen.
+Tetracyclinresistenz resultiert typischerweise aus einem der folgenden Gründe: chemische Modifikation, Austreten von Antibiotika aus der Zelle oder verringerte Bindung von Antibiotika an den Zielrezeptor aufgrund des ribosomalen Schutzes.
+
+Makrolid-Antibiotika binden sich an die 50 S-Ribosomenuntereinheiten.
+Sie blockieren den Tunnel, durch den neu gebildete Polypeptidketten das Ribosom verlassen.
+Infolgedessen kann die Proteinbiosynthese nur bei wenigen Zyklen (etwa vier) stattfinden und steht dann still, weshalb man Makrolid-Antibiotika auch Translationshemmer nennt.
+Diese Antibiotika wirken bakteriostatisch.
+Ein Beispiel hierfür ist Erythromycin.
+
+Ketolide nutzen - ähnlich wie Makrolid-Antibiotika - die 50S-Ribosomenuntereinheiten, sie wechselwirken aber auch mit der 23S-rRNA, wodurch die Translationsaktivität gehemmt wird.
+Außerdem wirken sie durch die Hemmung der Bildung der 30S-Untereinheit.
+Ketolide versprechen neue antimikrobielle Wirkstoffe, die gegen eine Vielzahl von grampositiven Krankheitserregern wirksam sind, auch aufgrund ihrer geringen Neigung, die Expression von Resistenzgenen auszulösen.
+Natürliches Picromycinketolid und die verwandte Verbindung Methymycin werden vom Stamm Streptomyces venezuelae ATCC 15439 hergestellt.
+
+Makrolid- und Katholyd-Antibiotika hemmen die Proteinsynthese in bakteriellen Ribosomen.
+Die Resistenz gegen diese Antibiotika wird durch Dimethylierung in der 23S r20-RNA des Nukleotids A2058 am ribosomalen Übergang induziert.
+
+=== Lincosamide
+
+Lincosamide binden an die 50-S-Untereinheit der Ribosomen und verursachen dort eine Hemmung der Proteinsynthese der Bakterien.
+Aufgrund der ähnlichen Wirkungsweise wie Makrolide kann es zu Kreuzresistenzen kommen.
+Lincosamide haben eine bakteriostatische Wirkung.
+
+=== Aminoglykosid-Antibiotika
+
+Aminoglykoside stören ebenfalls die bakterielle Proteinsynthese.
+Sie lagern sich an die 30 S-Ribosomen an, während die Proteinbiosynthese noch stattfindet.
+Es entstehen Proteine, die das Bakterium nicht nutzen kann und die sogar den Aufbau der Zellwand behindern.
+Diese Antibiotika wirken bakterizid.
+
+=== Polypeptid-Antibiotika
+
+Polypeptid-Antibiotika wirken in der Zellmembran.
+Die Transportmechanismen werden hier gestört, weshalb für die Zellfunktion schädliche Stoffe nicht mehr ausgefiltert werden.
+Zu den Polypeptid-Antibiotika gehören die Polymyxine, Bacitracin und Tyrothricin.
+
+=== Lipopeptid-Antibiotika
+
+Verschiedene Untergruppen von Lipopeptiden zeigen antibiotische Eigenschaften.
+Je nach Untergruppe tritt der antibiotische Effekt durch Porenbildung im Erreger, durch Blockade der Zellwandsynthese (bei Pilzen) oder durch Hemmung der Proteinbiosynthese ein.
+
+=== Epoxid-Antibiotika
+
+Epoxid-Antibiotika sind irreversible Hemmstoffe des Enzyms MurA (UDP-N-Acetylglucosamin-enolpyruvyl-transferase).
+MurA katalysiert den ersten Schritt der Mureinbiosynthese: den Transfer einer Enolpyruvyleinheit aus Phosphoenolpyruvat (PEP) an UDP-N-Acetylglucosamin (UNAG).
+Die Wirkung ist bakterizid.
+
+=== Chinolon-Antibiotika
+
+Chinolon-Antibiotika (kurz: Chinolone) werden ausschließlich synthetisch hergestellt.
+Sie gehören hinsichtlich ihres Wirkungsprinzips zu den Gyrasehemmern.
+Das Enzym DNA-Gyrase ist im Bakterium für das Entdrillen der DNA-Stränge unverzichtbar und führt während der DNA-Replikation zur Verringerung auftretender innermolekularer Spannungen.
+Durch die Verabreichung von Gyrasehemmern wird dieses Enzym inaktiviert, sodass die DNA nicht mehr entdrillt und folglich nicht repliziert werden kann.
+Auch von einigen Chinolonen (Ciprofloxacin, Norfloxacin) ist bekannt, dass sie in Gegenwart von mehrwertigen Kationen (z. B. Ca2+ aus Milch bzw. Milchprodukten oder Mg2+ aus Antazida) schlechter vom Körper aufgenommen werden und schwächer wirken.
+
+=== Streptogramine
+
+Streptogramine existieren in zwei biochemisch unterschiedlich Subgruppen.
+Beide binden an die P-Stelle der 50S-Untereinheit des Ribosoms und hemmen so die Elongation der Proteinsynthese.
+Subgruppe A und B einzeln betrachtet sind nur bakteriostatisch wirksam.
+Zusammen eingesetzt (typischerweise in 70:30-Mischung), zeigt sich ein bakterizider Synergismus, der aufgrund einer Konformationsänderung der 50S-Untereinheit nach Bindung von A-Streptograminen die Aktivität von B-Streptograminen vervielfacht.
+Gruppe-A-Streptogramine alleine blockieren eine frühe Phase der Elongation, indem sie die Donor- und Akzeptorstellen des Ribosoms blockieren.
+Ihnen ist es nur möglich an das Ribosom zu binden, wenn dieses frei von einer gebundenen Acyl-tRNA ist.
+Gruppe-B-Streptogramine jedoch können in jeder Phase der Proteinsynthese das Ribosom besetzen und führen so zu einer Hemmung der Elongation, als auch zu einer Freisetzung von inkompletten Peptiden.
+
+=== Sulfonamide
+
+Sulfonamide sind eine Gruppe synthetischer chemischer Verbindungen, die die eine Sulfonamidgruppe enthalten.
+Sie werden auch als Wachstumsfaktoranaloga bezeichnet und stören die Nucleinsäuresynthese mittels eines Eingriffs in den Folsäurezyklus.
+Die Wirkungsweise ist bakteriostatisch.
+
+Sulfanilamid war der erste 1906 entwickelte Sulfonylharnstoff, der jedoch erst Ende der 1930er Jahre als antimikrobielles Mittel eingesetzt wurde.
+Antimikrobielle Sulfonamid-Mittel sind bakteriostatisch (verhindern die Vermehrung von Bakterien, töten sie jedoch nicht unbedingt ab) und stören die Synthese von Folsäure in Bakterien, die für die Bildung von Nukleinsäuren und letztendlich für DNA und RNA wesentlich ist.
+Menschen erhalten Folsäure aus ihrer Nahrung, aber Bakterien müssen sie synthetisieren.
+Antimikrobielle Sulfonamid-Mittel können mit Trimethoprim kombiniert werden, um sie bakterizid zu machen (Bakterien abzutöten), da Trimethoprim auf ein anderes Enzym im Folsäuresyntheseweg einwirkt.
+
+=== Oxazolidinone
+
+Oxazolidinone hemmen den Beginn der Synthese eines Peptidstrangs an der Stelle, an der sich Ribosom, Boten- oder messenger-RNA und Start-tRNA-AS-Komplex zusammenlagern.
+Sie wirken meist bakteriostatisch auf Gram-positive Bakterien; Cycloserin als ein Vertreterwirkstoff hemmt auch Gram-negative Bakterien sowie das Mycobacterium tuberculosis.
+
+=== Ansamycine
+
+Ansamycine (wichtigste Untergruppe sind die Rifamycine) wirken durch irreversible Bindung an die Beta-Untereinheit der prokaryotischen DNA-abhängigen RNA-Polymerase.
+Auf diese Weise blockieren sie die Bindung des Enzyms an die DNA und damit die Initiierung der Kettenbildung.
+Durch Unterdrückung der RNA-Transkription wird letztlich die Proteinsynthese in Bakterien gehemmt.
+Die Wirkung von Ansamycinen ist bakterizid.
+
+=== Nitroimidazole
+
+Nitroimidazole wirken über reaktive Zwischenprodukte, die - insbesondere in sauerstoffarmen und nur in geringem Umfang in Zellen mit normaler Sauerstoffversorgung - bei der Reduktion der Nitrogruppe entstehen.
+Diese wirken bakterizid, indem sie bei suszeptiblen Erregern (obligat anaerobe Bakterien, bestimmte Protozoen) DNA-Strangabbrüche bewirken.
+Die reaktiven Reduktionsprodukte der neueren bicyclischen Nitroimidazole Delamanid und Pretomanid hemmen bei Mykobakterien die Bildung von Mykolsäuren, die Zellwandbestandteile darstellen.
+
+== Einteilung nach dem Wirkmechanismus
+
+=== Hemmung der Zellwandsynthese
+
+=== Hemmung der Proteinbiosynthese am Ribosom
+
+=== Wirkung auf bakterielle Nukleinsäuren
+
+=== Hemmung des Energiestoffwechsels
+
+== Probleme
+
+=== Nebenwirkungen
+
+In der Regel sind Antibiotika gut verträglich und haben eine große therapeutische Breite.
+Nebenwirkungen sind in erster Linie Allergien, die Störung der Darmflora (Antibiotika-assoziierte Diarrhoe) und das Auftreten von Pilzinfektionen, selten pseudomembranöse Colitis.
+Bei der Behandlung mit Breitbandantibiotika kann durch die Störung bzw. Zerstörung der Darmflora die lebensbedrohliche Infektion mit Clostridium difficile ausgelöst werden.
+Insbesondere eine starke und beständige Behandlung kann zu einer nachhaltigen bzw. endgültigen Schädigung der den Darm besiedelnden Mikroorganismen führen.
+Besonders empfindlich auf Antibiotika reagiert die Darmflora von Kindern bis etwa zum dritten Lebensjahr, da sie in dieser Zeit ihre entscheidende Entwicklungsphase hat.
+
+Fluorchinolone aus der Wirkstoffgruppe der Gyrasehemmer können zu Sehnenrissen und weiteren bislang unbekannten Nebenwirkungen führen.
+Hierzu besteht noch Forschungsbedarf.
+
+Antibiotika wurden in Zusammenhang mit Nierensteinen gebracht.
+Besonders stark ist die Inzidenz bei Kindern.
+
+Eine weitere unerwünschte Wirkung (etwa von Erythromycin, Cotrimoxazol, Pentamidin und Moxifloxacin) kann die im EKG sichtbare Verlängerung der QTc-Zeit mit daraus resultierender Herzrhythmusstörung sein.
+
+Viele Antibiotika sind mit neurotoxischen Nebenwirkungen wie Hörschäden, Neuropathien oder Enzephalopathien assoziiert (Aminoglykoside, Cephalosporine, Penicilline, Carbapeneme, Tetracycline, Sulfonamide, Makrolide, Fluorchinolone, Oxazolidinone, Polymyxine, Clindamycin, Vancomycin und Nitrofurantoin).
+Selten verursachen Antibiotika auch andere organtoxische Wirkungen, etwa Nierenschäden bei Gentamicin und Polymyxinen.
+Manche Antibiotika wie Bacitracin oder Colistin zeigen bei systemischer (innerlicher) Verabreichung so starke Nebenwirkungen, dass sie nur örtlich angewendet werden.
+Man spricht in diesem Falle von Lokalantibiotika.
+Bei manchen Infektionen wie Syphilis oder Borreliose können Antibiotika eine so genannte Herxheimer-Reaktion auslösen, bei der der Organismus mit Giftstoffen aus abgetöteten Bakterien überschwemmt wird.
+
+Nebenwirkungen sind oft temporär, jedoch kann es in seltenen Fällen zu lang anhaltenden Schäden und dauerhaften Behinderungen kommen.
+Fluorchinolone (Ofloxacin, Ciprofloxacin, Levofloxacin, Moxifloxacin) verursachen den Großteil an dauerhaften Behinderungen, aber auch andere Antibiotika wie Cefdinir, Nitrofurantoin, Amoxicillin, Doxycyclin, Amoxicillin-Clavulansäure, Clarithromycin, Cotrimoxazol, Cefalexin und Azithromycin können permanente Schäden hinterlassen.
+
+Nebenwirkungen können durch die Einschränkung der übermäßigen Verordnung, z. B. bei Viruserkrankungen, und eine verzögerte Verordnung reduziert werden.
+Bei der verzögerten Verordnung werden Rezepte nur im Falle einer Verschlechterung eingelöst, da eine spontane Besserung innerhalb der folgenden Tage möglich ist.
+Bei verschiedenen Erkrankungen ist weiterhin eine kürzere Antibiotikatherapie mit gleichbleibendem Behandlungserfolg möglich, was das Risiko für Nebenwirkungen senkt.
+Im Falle von Lungenentzündung 3-5 statt 7-10 Tage, intraabdomineller Infektionen 4 statt 10 Tage, akuter bakterieller Sinusitis 5 statt 10 Tage und chronischer Knochenmarksentzündung 42 statt 84 Tage.
+
+=== Wechselwirkungen
+
+Viele Antibiotika können die Wirkung anderer Medikamente oder Genussmittel beeinflussen.
+So können beispielsweise manche Gyrasehemmer den Abbau des Stimulans Coffein in der Leber behindern; die Wechselwirkung ist möglicherweise klinisch relevant.
+Hohe Coffeinspiegel können Herzklopfen, Kopfschmerz und Schwindel verursachen.
+Verschiedene Antibiotika der Tetracyclin-Gruppe verlieren an Wirkung in Kombination mit Milch, Käse, Quark und Joghurt.
+Sie werden durch die in Milch und Milchprodukten enthaltenen Calciumionen (Ca2+) durch Komplexbildung inaktiviert.
+
+== Resistenzen und Entwicklung neuer Antibiotika
+
+Unter Antibiotikaresistenz versteht man die Widerstandsfähigkeit von Bakterien gegen Antibiotika.
+Durch die Vermehrung von Bakterienindividuen, die durch Antibiotika nicht abgetötet oder in ihrem Wachstum gehemmt werden, entstehen resistente Bakterienstämme, deren Behandlung mit einem bestimmten oder gar mehreren Antibiotika unwirksam ist.
+
+Mittlerweile treten zunehmend multiresistente Bakterien auf (siehe MRSA).
+Auch sind bereits erste "Supererreger" nachgewiesen, die gegen sämtliche bekannte Antibiotika resistent sind.
+Es handelt sich um ein wachsendes Problem:
+Im Jahr 2005 infizierten sich rund drei Millionen Europäer mit Bakterien, die gegen bekannte Antibiotika resistent waren - 50.000 von ihnen starben daran; Besonders in Afrika sterben Menschen an Infektionen mit Krankheiten, die nicht mit Antibiotika behandelt werden können.
+Steuere man nicht an allen Fronten dagegen, dürften um das Jahr 2050 schätzungsweise 10 Millionen Menschen jährlich an solchen resistenten Erregern sterben.
+
+In schweren Fällen wird auf "Reserveantibiotika" zurückgegriffen, die für normale Therapien nicht eingesetzt werden sollen.
+Dazu zählen aktuell Linezolid, Daptomycin, Tigecyclin und Streptogramine (insbesondere Quinupristin und Dalfopristin).
+Die Weltgesundheitsorganisation (WHO) warnte bereits 2012 davor, dass Mutanten der Gonorrhöe bald gegen ein als letzte Behandlungsmöglichkeit geltendes Breitband-Antibiotikum resistent werden können.
+
+Hauptgrund für die zunehmende Resistenz ist der gestiegene Einsatz an Antibiotika.
+
+Zusätzlich zu den bereits seit etlichen Jahren bekannten Resistenzen von grampositiven Bakterien (Methicillin-resistenter Staphylococcus aureus, MRSA, Vancomycin-resistenter Staphylococcus aureus, VRSA, Vancomycin-resistente Enterokokken, VRE) werden jüngst auch zunehmend Resistenzen bei gramnegativen Erregern gegen etwa -Lactam-Antibiotika (NDM-1-bildende Bakterien) beobachtet, die als MRGN (multiresistente gramnegative Bakterien) bezeichnet werden.
+Problematisch sind ferner Multiresistenzen (multi drug resistance, MDR) bei Mykobakterien, den Erregern der immer noch weit verbreitet auftretenden Tuberkulose.
+Durch die weltweite Mobilität von Menschen und Tieren wird die Verbreitung von Resistenzen gefördert.
+
+Die Problematik der Antibiotikaresistenzen macht es erforderlich, dass fortlaufend neue Antibiotika entwickelt werden, mit denen sich die resistenten Erreger im Wachstum hemmen lassen.
+Die Zahl der jährlich neu auf den Markt kommenden Antibiotika geht jedoch kontinuierlich zurück.
+Dies ist als bedenklich anzusehen, da andererseits Antibiotikaresistenzen ständig zunehmen.
+Der Rückgang der neu auf den Markt kommenden Antibiotika wird auf ein Marktversagen zurückgeführt.
+Da neue Antibiotika typischerweise zunächst als Reserve vorgehalten werden, lässt sich daraus kein kurzfristiger Gewinn erzielen.
+Andererseits erfordert die Entwicklung durch notwendige Genehmigungsverfahren, aber auch durch das Aufsetzen der Produktion, hohen finanziellen Aufwand.
+Durch eine vermehrte Fokussierung auf eine Steigerung des Aktionärswerts in der Pharmaindustrie haben zum Stand 2019 fast alle großen Pharmakonzerne ihre Vorausentwicklung in diesem Bereich wegen mangelnder Gewinnaussichten eingestellt.
+Führende Experten auf dem Gebiet der Antibiotikaforschung bewerten die Situation als äußert alarmierend und warnen vor schwerwiegenden zukünftigen Folgen, wie etwa einem starken Anstieg von Todesfällen aufgrund nicht mehr behandelbarer Infektionen.
+Verstärkt wird die Problematik der multiresistenten Keime durch die Produzenten von Antibiotika, die Rückstände aus der Produktion ungefiltert teilweise in die Gewässer der Umwelt fließen lassen wie etwa in Hyderabad in Indien.
+Deutsche Wissenschaftler haben 2017 dort vor Ort dutzende Proben zum Vorhandensein von multiresistenten Keimen genommen und im Labor in Deutschland analysiert.
+Eine ungewöhnlich hohe Anzahl dieser gefährlichen Bakterien wurde dabei in den natürlichen Gewässern und im Wassersystem in weiten Teilen von Hyderabad festgestellt.
+
+== Besondere Anwendungsgebiete
+
+=== Tierhaltung
+
+Antibiotika werden auch in der Tierhaltung eingesetzt.
+Zu unterscheiden sind dabei zwei verschiedene Verwendungen: einerseits als Arzneimittel, die gezielt im Rahmen einer veterinärmedizinischen Behandlung eingesetzt werden.
+Andererseits die Anwendung von Antibiotika als Wachstums- und Leistungsförderer, die besonders umstritten ist.
+Diese letztgenannte Einsatzart ist in der EU Anfang 2006 verboten worden, nachdem sie bereits 1995 in Dänemark, seit 1997 in Vorarlberg und 1999 in der Schweiz aufgrund einzelstaatlicher Selbstbeschränkungen nicht mehr eingesetzt werden dürfen.
+
+Wenn ein einzelnes Tier an einem bakteriellen Infekt erkrankt ist, kann die veterinärmedizinische Behandlung unter Umständen die antibiotische Behandlung des gesamten Bestandes erfordern.
+Bei dieser Metaphylaxe genannten Anwendung wird ein besonders hoher Selektionsdruck auf die in der Stallung vorhandenen Bakterienstämme hervorgerufen, der nur die wenigen (durch natürliche Mutation normalerweise vorhandenen) resistenten Erreger überleben lässt.
+Alle empfindlichen Mikroorganismen werden aber abgetötet.
+Die verbleibenden Erreger bilden dann den resistenten Stamm, wenn sie nicht als Restinfektion durch die Immunreaktion des Tieres oder Menschen abgetötet werden.
+Dadurch kann das Antibiotikum gegen die bekannten Infektionen unwirksam werden.
+Resistente Bakterien können dann andere Organismen erreichen und zu erschwerten Krankheitsverläufen bis hin zu Therapieversagen führen.
+Dadurch haben sich in der Vergangenheit bereits erhöhte Resistenzen gegen Antibiotika bei Tieren und Menschen ereignet.
+Hauptsächlich gefährdet sind Arbeiter in Schweine- und Geflügelbetrieben.
+In den USA wird schätzungsweise mindestens dieselbe Menge Antibiotika an Tiere verabreicht wie an Menschen.
+Antibiotikaresistente Salmonella-, Campylobacter- und Escherichia-choli-Stämme, die humanpathogen sind, werden mit steigender Häufigkeit in großen Geflügel- und Rinderproduktionsbetrieben nachgewiesen.
+
+=== Molekularbiologische Forschung
+
+Antibiotika werden auch als Selektionsmittel in der Molekularbiologie verwendet.
+Beim Klonieren wird die Eigenschaft der Resistenz gegen ein bestimmtes Antibiotikum als Erkennungszeichen benutzt, ob ein Stamm ein bestimmtes Gen trägt, das man dem Bakterium einbauen möchte.
+Sowohl das neue Gen als auch die Resistenzinformationen sind auf einem Plasmid lokalisiert.
+Das Bakterium wird auf einem Medium vermehrt, welches das entsprechende Antibiotikum enthält.
+Dadurch wird auch ein späterer Verlust des Plasmids signalisiert, da bei dessen Verlust auch die Resistenz verloren geht und das Bakterium auf dem Medium stirbt.
+
+== Verbrauchsstatistik
+
+Seit 1992 haben die klassischen -Lactame (Penicilline, Aminopenicilline und Cephalosporine) ihre führende Position gemessen in definierten Tagesdosen ausgebaut, während der Anteil der Tetracycline zurückging.
+Aminopenicilline (überwiegend Amoxicillin) haben dabei die Oralpenicilline praktisch ersetzt.
+
+== Forschung und Alternativen
+
+Neben der Weiterentwicklung bekannter Substanzklassen mit bekannten Wirkprinzipien, die den Großteil der in den letzten Jahrzehnten erfolgten Markteinführungen ausmachen, wird auch die Entwicklung von Substanzen mit neuartigen Angriffspunkten als erforderlich angesehen.
+Neben den bisher vorherrschenden Targets (Zellwandsynthese, ribosomale Proteinsynthese, DNA-Replikation, Folsäuresynthese) könnten etwa
+
+als zusätzliche Angriffspunkte verstärkt von Bedeutung werden.
+Ebenso gewinnt die Ausweitung der Suche nach neuen Molekülen auf ökologische Nischen und die Genome von Mikroorganismen, insbesondere auch nicht kultivierter (Metagenom), an Bedeutung.
+Eine innovative Strategie stellt die Hemmung pathogener Erreger dar, ohne sie abzutöten.
+Dadurch entfällt der Selektionsdruck, der zur Verbreitung einer Resistenz beiträgt.
+
+Einige neue Stoffe bzw. Stoffgruppen und Wirkprinzipien wurden in der jüngeren Vergangenheit aus der präklinischen Forschung beschrieben:
+Plectasin beispielsweise, das aus der Gruppe der bei Pilzen, Tieren und Pflanzen verbreiteten sogenannten Defensine stammt und nicht nur die bakterielle Zellwandsynthese stört, sondern auch das Immunsystem des Wirts stimulieren soll; Platensimycin und Platencin, zwei aus dem Bodenbakterium Streptomyces platensis isolierte Stoffe, die selektiv die bakterielle Lipid-Biosynthese inhibieren; die neuartigen RNA-Polymerase-Hemmer Myxopyronin, Corallopyronin und Ripostatin; die MTAN-Inhibitoren, die in das Quorum sensing eingreifen und die Fähigkeit bestimmter Bakterien unterdrücken schützende Biofilme zu bilden; Closthioamid, ein strukturell ungewöhnliches Molekül mit zahlreichen Schwefelatomen, das vom anaeroben Bodenbakterium Clostridium cellulolyticum gebildet wird und gegen multiresistente Krankheitserreger aktiv ist; das Triclosan-Derivat PT70, das die Mykolsäuresynthese der Mykobakterien hemmt.
+
+In der Phase der Grundlagenforschung befinden sich erst vor kurzem entdeckte und antibiotisch wirksame Acyldepsipeptide (ADEPs).
+Sie setzen in Bakterienzellen eine spezielle Kontrollfunktion außer Kraft, was einen neuartigen Wirkungsmechanismus darstellt.
+Die neuartigen Wirkstoffe haben als Zielmolekül eine ClpP-Protease, ein Proteine-zerschneidendes Enzym.
+Normalerweise bewirkt diese spezielle Protease über einen strikt kontrollierten Prozess das Recycling von defekten Bakterienproteinen.
+Wird dieser Kontrollprozess durch ADEPs unterbunden, baut die ClpP-Protease auch gesunde und für den Stoffwechsel des Bakteriums lebenswichtige Proteine ab, zu denen auch das für die Zellteilung wichtige FtsZ-Protein gehört.
+Die Bakterien können sich somit nicht mehr teilen und sterben ab.
+Mit der neuen Wirkstoffgruppe der ADEPs erhoffen sich die Forscher ein neuartiges, breit wirksames Antibiotikum, das auch in der Lage wäre, multiresistente Bakterien abzutöten.
+
+Forscher der Christian-Albrechts-Universität zu Kiel haben entdeckt, dass der Süsswasserpolyp Hydra magnipapillata ein Protein mit der Bezeichnung Hydramacin-1 bildet, das eine Reihe von Bakterien regelrecht verklumpen lässt und tötet.
+Es gelang ihnen auch das zugehörige Gen zu isolieren, sodass sie das Protein in Reinform für weitere Untersuchungen herstellen konnten.
+Dabei konnten sie feststellen, dass Hydramacin-1 schon in relativ geringer Dosierung Enterobakterien, Klebsiellen, Streptokokken und Yersinien abzutöten vermag.
+Allerdings war es gegen einige andere Keime wie beispielsweise Staphylococcus aureus weniger wirksam.
+
+Hilfe bei Infektionen mit resistenten Bakterien verspricht ferner die Therapie mit Bakteriophagen - hochspezialisierten Viren, welche Bakterien als Wirtszellen nutzen.
+Derzeit arbeiten verschiedene Pharmaunternehmen an der Zulassung der Phagentherapie.
+
+Eine neue Stoffgruppe stellt das Teixobactin aus dem Bodenbakterium Eleftheria terrae dar, das im Januar 2015 durch einen Artikel in der Fachzeitschrift Nature vorgestellt wurde.
+Die gegen Gram-positive Bakterien wirksame Substanz Teixobactin soll bisher keine Resistenzentwicklung bei denjenigen Bakterien zeigen, die für Teixobactin empfindlich sind, weil in den Aufbau der Bakterienzellwand "an vielen entscheidenden Stellen" eingegriffen wird und durch viele gleichzeitig notwendige Anpassungen der Bakterien eine Resistenzbildung erschwert wird.
+
+Eine weitere Gruppe unter den neuartigen Antibiotika sind die gegen gramnegative Keime wirksamen Outer Membrane Protein Targeting Antibiotics (abgekürzt "Ompta").
+Sie interagieren mit Bestandteilen der Außenmembran gramnegativer Bakterien, indem sie einerseits an fettähnliche Membrankomponenten binden und andererseits an das Membranprotein BamA.
+Dieses ist für den Aufbau der äußeren Hülle der Bakterien wichtig.
+Weil die Membran nicht mehr gebildet werden kann, sterben die Keime ab.
+Vorbilder für synthetische Ompta sind natürliche antimikrobielle Proteine wie das im Schwein vorkommende Protegrin oder das Thanatin aus der Wanze.
+Ein erster Kandidat, Murepavadin, war bis 2019 in der klinischen Prüfung gegen Atemwegsinfektionen durch Pseudomonas aeruginos, eine weitere Substanz (POL7306) soll 2020 in die klinische Prüfung am Menschen überführt werden.
+
+== Kritik
+
+=== Missbrauch von Antibiotika
+
+Die Wirksamkeit von Antibiotika steht grundsätzlich außer Frage und ist in vielen Fällen lebensrettend.
+Der organisierte Einsatz von Antibiotika zur Krankheitsvorbeugung und Leistungssteigerung in der Tiermast wird von Medizinern abgelehnt.
+Der Einsatz von Antibiotika bei Virusinfektionen und Entzündungen der oberen Atemwege oder beispielsweise der Nasennebenhöhlen ist aufgrund der Wirkungslosigkeit von Antibiotika gegenüber Viren in der Regel sinnlos (eine Ausnahme ist die Forschungschemikalie Feglymycin) und kann verstärkt zur Resistenzentwicklung von Bakterien beitragen.
+Aus diesen Gründen muss die Indikation für jede Antibiotikatherapie individuell und verantwortungsvoll entschieden werden.
+Dies wird im englischen Sprachraum auch als "Antibiotic Stewardship" bezeichnet.
+
+=== Rückstände in der Umwelt
+
+Antibiotikaresistente Bakterien werden in großen Mengen über Gülle und Mistausbringung aus der Intensivtierhaltung direkt in der Umwelt freigesetzt.
+Daneben werden auch durch direkten Stoffeintrag Antibiotika selbst in die Umwelt eingetragen.
+Dort entfalten sie eine biologische Wirkung und könnten auch dort noch eine Zunahme antibiotikaresistenter Bakterien bewirken.
+Neuere Studien belegen einen starken Anstieg multiresistenter Bakterien in der Umwelt.
+Der Weg der resistenten Erreger zurück zum Menschen ist überall dort möglich, wo Kontakt zu fäkal verunreinigtem Wasser wie Badegewässern besteht.
+Wissenschaftler fordern, den Eintrag von Antibiotika aus der Tierhaltung zu verringern.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

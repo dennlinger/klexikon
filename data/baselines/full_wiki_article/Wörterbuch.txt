@@ -1,0 +1,53 @@
+Ein Wörterbuch ist ein Nachschlagewerk, das Wörter oder andere sprachliche Einheiten in einer meist alphabetisch sortierten Liste verzeichnet und jedem Eintrag (Lemma) erklärende Informationen oder sprachliche Äquivalente zuordnet.
+Ein Wörterbuch im engeren Sinn dient zum Nachschlagen sprachlicher Information, während der Ausdruck in der weiteren Bedeutung auch andere nach Stichwörtern gegliederte Nachschlagewerke mit primär sachbezogener Information sowie Mischformen beider Typen umfasst.
+Der Ausdruck Wörterbuch ist im Deutschen eine durch das Niederländische (woordenboek) beeinflusste Lehnübersetzung des griechischen Wortes lexikon (biblion): "Wörter betreffendes Buch".
+Es ist ein zusammengesetzter Begriff, der nach einem Fremdwort gebildet wurde, indem alle Bestandteile des Fremdwortes einzeln ins Deutsche übersetzt wurden.
+Bis ins 17. Jahrhundert hinein wurden die Begriffe Lexikon und Dictionarium bevorzugt verwendet; dann trat Dictionarium zugunsten der neu eingeführten Übersetzung Wörterbuch (auch Wortbuch) zurück; der Begriff Lexikon blieb erhalten.
+Seit der Einführung des Wortes hat sich die Bedeutung von Wörterbuch im allgemeinen Sprachgebrauch überwiegend auf "Sprachwörterbuch", die Bedeutung von Lexikon hingegen in der Tendenz auf "Sachwörterbuch" verengt, wobei Lexikon oft auch als Synonym für "Enzyklopädie" verwendet wird.
+Im Ergebnis treten damit Wörterbuch einerseits und Lexikon bzw. Enzyklopädie andererseits oft als Gegenbegriffe auf.
+Fachsprachlich, besonders in der Lexikographie (Wörterbuchforschung), wird jedoch Wörterbuch auch noch in der weiteren Bedeutung als Oberbegriff für alle Arten von Nachschlagewerken mit einer Gliederung nach Stichwörtern beibehalten.
+Ebenso wird der Begriff Lexikon in fachsprachlichen Zusammenhängen weiterhin in seiner weiteren Bedeutung, also unter Einschluss sprachlexikographischer Werke, und in der Sprachwissenschaft auch speziell für das Inventar der Lexeme eines Sprechers oder einer Sprachgemeinschaft gebraucht.
+Ein Wörterbuch im engeren Sinn (auch Sprachwörterbuch) dient der Vermittlung sprachlichen Wissens.
+Seine Auswahl der Lemmata (Morpheme, Lexeme, Phrasen und Phraseologismen) soll den Wortschatz einer Einzelsprache oder einen Teilwortschatz dieser Sprache (etwa einen Dialekt, Soziolekt oder Idiolekt) abdecken.
+Bei den zugeordneten Informationen handelt es sich primär um sprachliche Informationen, die die Schreibung, Aussprache und grammatischen Eigenschaften wie Wortart, Genus und Flexion des Lemmas, seine Herkunft, Bedeutung, Verwendungsweise und Übersetzbarkeit betreffen.
+Sie werden in Form von erklärenden Angaben oder durch Zuordnung vergleichbarer Einheiten aus der gleichen Sprache, etwa in einem Synonymenwörterbuch und einem Reimwörterbuch, oder aus einer oder mehreren anderen Sprachen in einem Übersetzungswörterbuch dargestellt.
+Sachinformationen zu den von den Wörtern bezeichneten Realien können dabei ebenfalls einbezogen werden, wenn das für die Erklärung der Wortbedeutung oder Wortgeschichte erforderlich ist, sie bilden jedoch keinen Selbstzweck.
+Eigennamen (Personen und Orte) werden in einem Sprachwörterbuch normalerweise nicht erklärt, abgesehen von Nachschlagewerken zur Namenforschung und Ortsnamenforschung (Onomastik und Toponomastik).
+Ein neuer Ansatz ist es, nicht einzelne Wörter, sondern nur Sätze zu übersetzen ("Sätzebuch").
+Die Suche nach einzelnen Wörter geschieht mithilfe einer elektronischen Suchmaschine, die das Wort im Satzzusammenhang präsentiert; ein Beispiel hierfür ist Tatoeba.
+Bei einem Sachwörterbuch (auch Realwörterbuch, Reallexikon, Realenzyklopädie) steht demgegenüber die Vermittlung von Sach- und Weltwissen statt Sprachwissen im Vordergrund (siehe Enzyklopädie).
+Das Lemma ist nicht als Element eines Wortschatzes Gegenstand sprachlicher Information, sondern beschreibt als thematisches Stichwort das Thema der Sachinformation.
+Sprachliche Eigenschaften des Lemmas werden nicht oder nur insoweit einbezogen, wie es dem Verständnis der vom Lemma bezeichneten Sache dient.
+Die Auswahl der Lemmata bezieht in einem Sachwörterbuch in der Regel auch Eigennamen ein und dient der Abdeckung und Strukturierung eines bestimmten Sach- oder Wissensbereiches, der ein spezielles Fachgebiet sein oder dem Anspruch nach auch das gesamte verfügbare Wissen über die Welt umfassen kann.
+Ein enzyklopädisches Wörterbuch (auch Sprach- und Sachwörterbuch, integriertes Wörterbuch), in Deutschland seit den 1930er-Jahren vereinzelt auch Allbuch genannt und dem Typ nach besonders in Frankreich verbreitet, stellt sprachlexikographische und sachlexikographische Information gleichrangig nebeneinander und will Grundfunktionen beider Wörterbucharten erfüllen.
+Auch sonst treten die Typen von Sprach- und Sachwörterbuch oft in gemischter Form auf, besonders im Bereich der Fachlexika, wo fachsprachliche Wörterbücher oft auch einen eigengewichtigen Anteil an Sachinformation, oder fachspezifische Sachwörterbücher zusätzlich sprachliche Informationen zum Lemma und zu dessen Übersetzbarkeit integrieren.
+Gesamtwörterbücher (Universalwörterbuch) bieten umfassende Informationen zum allgemeinen Wortschatz der Gegenwartssprache (Beispiel: Duden Universalwörterbuch).
+Von ihnen lassen sich andere Wörterbuchtypen unterscheiden, die in der Lemmaauswahl oder den gebotenen Informationen andere Schwerpunkte setzen:
+Ein Wörterbuch besteht in der Regel aus Außentexten und dem Wörterverzeichnis.
+Im Wörterverzeichnis wird zwischen Makrostruktur und Mikrostruktur unterschieden:
+Unter der Makrostruktur versteht man die Auswahl der Lemmata, ihre Anordnung sowie die Anordnung der Außentexte.
+Eine der wichtigsten makrostrukturellen Entscheidungen ist, wie die Lemmata angeordnet werden sollen.
+In den meisten Wörterbüchern geschieht das alphabetisch.
+Wie der einzelne Wörterbucheintrag organisiert ist, d. h. die Anordnung der Wortinformation, ist Teil der Mikrostruktur.
+In der alphabetischen Anordnung gibt es unterschiedliche Möglichkeiten:
+Beispiel für eine Wortstrecke in unterschiedlicher Sortierung:
+Die nischen- und die nestalphabetische Anordnung sind besonders platzsparend, was bei gedruckten Wörterbüchern ein wichtiger Faktor ist.
+Als am benutzerfreundlichsten gilt die glattalphabetische Sortierung, weil jedes Stichwort auf einer separaten Zeile steht und einen eigenen Eintrag eröffnet.
+Insofern stellt die nischenalphabetische Anordnung einen Kompromiss dar.
+Sie gruppiert Lemmata, ohne die alphabetische Reihenfolge zu durchbrechen.
+Anhand der unterschiedlichen Auflagen des Duden Großwörterbuch kann man die verschiedenen Anordnungsformen beobachten:
+Bildete das sechsbändige Großwörterbuch noch Nester, so sind diese in der zweiten, achtbändigen Ausgabe durch Nischen ersetzt und die zehnbändige Ausgabe von 1999 verfolgt einen glattalphabetischen Ansatz.
+Nestalphabetische Wörterbücher mit Anordnung nach dem Grundwort werden teilweise in der wissenschaftlichen Lexikographie verwendet, weil damit beispielsweise das Wort Wagen und seine mit einem Bestimmungswort näher definierten Zusammensetzungen, mithin eine ganze Wortfamilie, gleichzeitig erarbeitet und vom Benützer im gleichen Band nachgeschlagen werden kann.
+Beispiele für solche Wörterbücher sind das Bayerische Wörterbuch, das Schweizerische Idiotikon und das Wörterbuch der bairischen Mundarten in Österreich.
+Weitere makrostrukturelle Überlegungen betreffen die Auswahl der Lemmata und das Datensortiment, also welche Angaben es beispielsweise zu bestimmten Wortarten geben soll.
+Unter der Mikrostruktur dagegen versteht man die konkreten Angaben, die zu einem Lemma gemacht werden.
+Diese Angaben sind in den meisten Sprachwörterbüchern durch Textverdichtung (Abkürzungen, Paraphrasen etc.) gekennzeichnet, um möglichst viele Angaben auf möglichst wenig Raum zusammenzufassen.
+In Sachwörterbüchern werden dagegen sehr unterschiedlich lange Texte geboten.
+In vielen Fällen werden den Artikeln Definitionen vorangestellt, dann folgen die Informationen in fortlaufender Prosa.
+Im Text oder am Ende des Textes werden Querverweise auf andere Artikel gegeben, die inhaltlich mit dem Text in Beziehung stehen.
+Am Schluss des Artikels werden - vor allem bei Enzyklopädien und Konversationslexika - vielfach Literaturhinweise gegeben.
+Wörterbücher sollen den Nutzern helfen, lexikalische Wissenslücken zu schließen, müssen also so strukturiert sein, dass Informationen schnell und gezielt nachgeschlagen werden können.
+Sowohl ein- als auch mehrsprachige Wörterbücher verlangen vom Nutzer zwei Voraussetzungen:
+Die Wörterbuchbenutzungsforschung - oder auch Wörterbuchdidaktik - beschäftigt sich mit Benutzererwartungen an Wörterbücher ("Welche Fragen werden in welchem Wörterbuch beantwortet?") und untersucht die Bedingungen erfolgreicher Wörterbuchbenutzung.
+Die Erkenntnisse fließen in die Erstellung neuer Wörterbücher ein, oder in existierende Wörterbücher, die auf andere Medien übertragen werden.
+Einen ausführlichen Überblick über deutsche Wörterbücher und Lexikographie gibt Haß-Zumkehr (2001).

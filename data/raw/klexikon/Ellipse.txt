@@ -1,0 +1,27 @@
+Eine Ellipse ist in der Geometrie eine Figur in der Ebene.
+Eine Ellipse ergibt sich, wenn man ein kreisrundes Rohr schräg durchschneidet.
+Auch wenn man einen Kegel schräg abschneidet, ergibt sich eine Ellipse als Schnittfläche.
+Oft sagt man, dass eine Ellipse eiförmig ist.
+Das stimmt aber nicht so richtig:
+Ein Ei hat eine spitze und eine stumpfe Seite, die Ellipse sieht aber auf beiden Seiten gleich aus.
+
+Im Alltag sieht man häufig Ellipsen: Jeder Kreis, den man von schräg ansieht, sieht aus wie eine Ellipse.
+Da uns überall Kreise begegnen und wir meist nicht gerade darauf sehen, begegnen uns Ellipsen fast überall.
+
+Eine Ellipse zu zeichnen ist allerdings schwieriger als einen Kreis.
+Es gibt keinen Zirkel, der so etwas kann.
+Trotzdem kann man es mit Hilfe von einer Schnur und zwei Nägeln leicht hinbekommen.
+Man schlägt die zwei Nägel mit etwas Abstand in ein Brett ein.
+Die Schnur knotet man zu einer großen Schlaufe, die man locker über die beiden Nägel legt.
+Nun steckt man einen Stift in die Schlaufe und zieht sie stramm, so dass sie um Stift und Nägel ein Dreieck bildet.
+Wenn man bei straffer Schnur mit dem Stft die beiden Nägel umrundet, ergibt sich eine Ellipse.
+
+So gehen auch Gärtner vor, wenn sie ein elliptisches Blumenbeet anlegen wollen.
+Anstelle von Nägeln brauchen sie dazu zwei Holzpflöcke, die sie in die Erde schlagen.
+Daran befestigen sie dann die Schnur und ziehen mit einem dritten Holzpflock eine elliptische Linie in die Erde.
+In der Geometrie nennt man die Punkte, wo die Holzpflöcke stecken, "Brennpunkte".
+Je weiter sie auseinander liegen, desto dünner wird die Ellipse.
+Wenn sie sich einander annähern, wird die Ellipse einem Kreis immer ähnlicher.
+Verschmelzen sie zu einem Punkt, dann wird aus der Ellipse ein Kreis.
+Man kann also sagen, ein Kreis sei der Sonderfall einer Ellipse, so wie ein Quadrat der Sonderfall eines Rechtecks ist.
+

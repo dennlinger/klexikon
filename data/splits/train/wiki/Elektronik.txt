@@ -1,0 +1,205 @@
+Die Elektronik ist ein Hauptgebiet der Elektrotechnik.
+Sie ist die Wissenschaft von der Steuerung des elektrischen Stromes durch elektronische Schaltungen, das heißt Schaltungen, in denen mindestens ein Bauelement aufgrund von Vakuum- oder Halbleiter-Leitung funktioniert.
+Elektronische Elemente verhalten sich nichtlinear, während das Verhalten anderer elektrischer (nicht-elektronischer) Elemente als linear bezeichnet wird.
+Elektronik befasst sich außerdem mit der Funktion elektronischer Bauelemente selbst.
+Elektronikbauteile und Schaltungen in kleineren Maßstäben wird entsprechend den Strukturgrößen mit SI-Dezimalpräfixe benannt, z. B. Mikroelektronik (typisch <100 Mikrometer) oder Nanoelektronik (typisch <100 Nanometer), welche in der Regel mit dem integrierten Schaltkreis z. B. Silizium-Chip realisiert wird.
+
+Elektronik verarbeitet elektrische Signale informationsmäßig oder erzeugt sie, oder verwandelt elektrische Energie hinsichtlich ihres Spannungs-Strom-Verhältnisses unter Zuhilfenahme von Verstärkern oder Gleichrichtern.
+
+Elektronische Schaltungen werden Mithilfe der Leiterplattenbestückung zumeist auf Platinen aufgebaut und als Modul entweder zu elektronischen Geräten zusammengebaut, oder sie werden Teil elektrotechnischer Apparate.
+
+Die Optoelektronik ist ein Teilgebiet der Elektronik und beschäftigt sich mit der Steuerung durch Licht.
+
+== Wortbildung
+
+Der Begriff Elektronik leitet sich von dem griechischen Wort elektron (ov) ab, das Bernstein bedeutet.
+Elektronik ist ein Kofferwort, das aus den Begriffen Elektron (dem Elementarteilchen) und Technik zusammengefügt wurde.
+Die Elektronik ist sozusagen die Elektronen-Technik.
+
+== Geschichte
+
+1873 entdeckte Willoughby Smith, dass Selen in der Lage ist, bei Licht zu leiten (Photoeffekt).
+Auf diese Erkenntnis hin entdeckte Karl Ferdinand Braun 1874 den Gleichrichtereffekt.
+Stoney und Helmholtz prägten den Begriff des Elektrons als Träger des elektrischen Stromes.
+1883 erhielt Thomas Alva Edison ein Patent auf einen Gleichspannungsregler, der auf der Glühemission (dem Edison-Richardson-Effekt) beruhte, einer Voraussetzung für alle Vakuumröhren.
+1897 begann die Entwicklung der Braunschen Röhre durch Karl Ferdinand Braun.
+Im Jahre 1899 begann daraufhin die Entwicklung der Spitzendiode.
+1904 erlangte John Ambrose Fleming ein Patent auf eine Vakuumdiode.
+
+Zu Beginn des 20. Jahrhunderts war die Entwicklung von Elektronenröhren bereits fortgeschritten.
+Die ersten Elektronenröhren wurden entwickelt und bereits in elektrischen Schaltungen genutzt.
+Mit der Triode stand zum ersten Mal ein brauchbares Bauelement zum Aufbau von Verstärkern zur Verfügung.
+Dadurch wurden Erfindungen wie Rundfunk, Fernsehen und Radar möglich.
+
+Im Jahr 1948 wurde der erste Transistor vorgestellt.
+Transistoren können wie Röhren als Verstärker, elektronische Schalter oder als Oszillator eingesetzt werden.
+Jedoch lassen sich Transistoren im Gegensatz zu Vakuumröhren, die sehr viel Raum und elektrische Leistung brauchen, sehr klein fertigen, denn sie basieren auf Halbleitertechnologie, wodurch sehr viel höhere Stromdichten möglich sind.
+
+In den 1960er Jahren gelang die Fertigung von kompletten, aus mehreren Transistoren und weiteren Bauelementen bestehenden Schaltungen auf einem einzigen Siliziumkristall.
+Die dadurch eingeleitete Technik der integrierten Schaltkreise (kurz IC von engl. integrated circuit) hat seitdem zu einer stetigen Miniaturisierung geführt.
+Heute ist die Halbleiterelektronik der wichtigste Zweig der Elektronik.
+
+Als Schlüsseltechnologie für die Zukunft wird zuweilen die Polytronik gesehen.
+Sie bezeichnet die Zusammenführung kunststoffbasierter Systemfunktionen zu der Vision "intelligentes Plastik".
+
+== Bauelemente
+
+Zu den wichtigen Bauelementen zählen Widerstand, Kondensator, Transistor, Diode, Spule und die Integrierte Schaltung (kurz IC).
+Alle diese Bauelemente werden in einer großen Typenvielfalt angeboten.
+Eine Bauteil-variante sind die SMD-Bauelemente die durch ihre meistens sehr kompakte Bauform direkt an der Oberfläche der Leiterplatte angelötet werden.
+
+Man spricht von passiven Bauelementen, wenn primär Widerstände, Kondensatoren und Induktivitäten gemeint sind.
+Unter den aktiven Bauelementen werden meist alle Arten von integrierten Schaltungen, Halbleiterbauelementen und Elektronenröhren verstanden.
+
+Durch die exakt berechnete Zuordnung der logisch miteinander arbeitenden elektronischen Bauteile auf einer Platine entsteht ein elektronischer Schaltkreis.
+
+Ein selbständig und logisch arbeitender Rechnen-Operator-Chip ist der moderne Prozessor, der nicht nur auf dem Mainboard eines Computers zu finden ist, sondern ein Bestandteil moderner Industrie- und Fahrzeugtechnik ist.
+
+== Entwurf von Leiterplatten und integrierter Schaltkreise
+
+"Entwurfsautomatisierung elektronischer Systeme" ist die deutsche Bezeichnung rechnergestützter Hilfsmittel für den Entwurf von elektronischen Systemen, insbesondere der Mikroelektronik.
+Im Englischen wird dies "Electronic Design Automation" genannt (abgekürzt EDA).
+EDA wird zumeist als Teilgebiet des computer-aided design (CAD) bzw. des computer-aided engineering (CAE) verstanden.
+Alternativ wird anstelle von EDA auch von ECAD (electronic CAD) gesprochen.
+
+== Analogelektronik
+
+Die Analogtechnik beschäftigt sich vor allem mit der Verarbeitung von kontinuierlichen Signalen.
+Man nutzt dabei die physikalischen Gesetze aus, die das Verhalten der Bauelemente (Widerstände, Kondensatoren, Transistoren, Röhren usw.) beschreiben, oder man schafft durch Schaltungsprinzipien günstige Voraussetzungen.
+Typische Grundschaltungen sind Stromquellen, Stromspiegel, Differenzverstärker und Kaskaden, sowie Referenzelemente wie die Bandgap.
+Daraus lassen sich kompliziertere Schaltungen aufbauen, wie z. B. Verstärker, mit deren Hilfe sich weitere Funktionen aufbauen lassen (Oszillator, Filter etc.).
+Der Operationsverstärker ist ein Verstärker mit einem Differenzeingang (Differenzverstärker).
+Sein Name rührt daher, dass mit ihm mathematische Operationen (Subtraktion, Addition, Integration etc.) ausgeführt werden können.
+Operationsverstärker finden in der Analogelektronik breite Anwendung.
+Der Genauigkeit der Signalverarbeitung sind in der Analogelektronik durch die Herstellungstoleranzen der Bauelemente und deren Nichtidealitäten (z. B. Rauschen, Nichtlinearität, Hysterese) sowie durch weitere störende Effekte wie Übersprechen und Einkopplungen von Störsignalen Grenzen gesetzt.
+Es wurden sehr weit fortgeschrittene Verfahren entwickelt, die solche Fehler kompensieren oder minimieren und damit Genauigkeiten in der Präzisionselektronik im Bereich von wenigen ppm erlauben.
+Solche hohe Genauigkeit ist z. B. notwendig, um Analog-Digital-Umsetzer mit 20 Bit Auflösung zu realisieren.
+Die Analogtechnik bildet prinzipiell die Grundlage der Digitaltechnik.
+
+== Digitalelektronik
+
+Die Digitalelektronik oder Digitaltechnik beschäftigt sich mit der Verarbeitung von diskreten Signalen (ausgedrückt als Zahlen oder logische Werte).
+Die Diskretisierung betrifft dabei immer den Wertebereich und oft auch zusätzlich das zeitliche Verhalten.
+In der Praxis beschränkt man sich auf zweiwertige Systeme, d. h.:
+Spannungen oder Ströme sollen - abgesehen von Übergangsvorgängen - nur zwei Werte annehmen (an/aus, 1 oder 0, auch high/low, kurz H/L).
+Die Änderung der Werte kann bei zeitdiskreten Systemen nur zu bestimmten, meist äquidistanten Zeitpunkten stattfinden, die ein Takt vorgibt.
+Bei der Digitalelektronik werden analoge Signale entweder vor der Verarbeitung mit Hilfe von Analog-Digital-Umsetzern digitalisiert (in Digitalsignale umgesetzt) oder existieren bereits von vornherein als diskrete Werte.
+Transistoren werden in der Digitaltechnik in der Regel als Schaltverstärker und nicht als analoge Verstärker eingesetzt.
+
+Der Vorteil der Digitalelektronik liegt in der Tatsache, dass im Anschluss an die Digitalisierung die bei der Analogelektronik erwähnten störenden Effekte keine Rolle mehr spielen, jedoch auf Kosten des Bauteilaufwandes.
+Ist z. B. eine analoge Schaltung mit einem maximalen Fehler von 0,1 % behaftet, so kann dieser Fehler ab ca. 10 Bit Datenbreite von digitalen Schaltungen unterboten werden.
+Ein analoger Multiplizierer benötigt etwa zwanzig Transistoren, ein digitaler Multiplizierer mit derselben Genauigkeit mehr als die zwanzigfache Anzahl.
+Der Aufwand wächst durch die Digitalisierung also zunächst an, was aber durch die immer weiter vorangetriebene Miniaturisierung mehr als kompensiert wird.
+Heute lassen sich auf einem integrierten Schaltkreis eine sehr große Menge von Transistoren realisieren (die Anzahl geht typisch in die 10 Millionen).
+Der Vorteil ist nun, dass z. B. die Spannungspegel in erheblichem Maße variieren können, ohne die korrekte Interpretation als 1 oder 0 zu behindern.
+Damit ist es möglich, dass die Bauelemente der integrierten Schaltungen sehr ungenau sein dürfen, was wiederum die weitere Miniaturisierung ermöglicht.
+Die Eigenschaften der Schaltung werden also weitgehend von den physikalischen Eigenschaften der Bauelemente entkoppelt.
+
+Die vereinfachte Beschreibung digitaler Schaltungen mit den zwei Zuständen H und L reicht vor allem bei immer höheren Geschwindigkeiten und Frequenzen nicht immer aus, um sie zu charakterisieren oder zu entwerfen.
+Im Grenzfall befindet sich die Schaltung den überwiegenden Teil der Zeit im Übergang zwischen den beiden logisch definierten Zuständen.
+Daher müssen in solchen Fällen oft zunehmend analoge und hochfrequenztechnische Aspekte berücksichtigt werden.
+Auch bei langsamen Schaltungen kann es Probleme geben, die nur durch analoge Betrachtungsweisen zu verstehen sind; als Beispiel sei das Problem der Metastabilität von Flipflops genannt.
+
+=== Logik der Digitalelektronik
+
+Digitale Schaltungen - auch Schaltsysteme oder logische Schaltungen genannt - bestehen hauptsächlich aus einfachen Logikelementen, wie AND-, NAND-, NOR-, OR- oder NOT-Gattern und Komponenten, mit denen digitale Signale gespeichert werden können, z. B. Flipflops oder Zählern.
+Alle diese logischen Funktionen lassen sich mit im sogenannten Schalterbetrieb arbeitenden elektronischen Bauelementen (z. B. Transistoren) realisieren.
+Durch die Integration dieser Schaltungen auf einem Chip (monolithische Schaltung) entstehen komplexe elektronische Bauelemente wie beispielsweise Mikroprozessoren.
+
+== Hochfrequenzelektronik
+
+Die Hochfrequenzelektronik oder Hochfrequenztechnik beschäftigt sich vorwiegend mit der Erzeugung und der Ausstrahlung sowie dem Empfang und der Verarbeitung von elektromagnetischen Wellen.
+Anwendungen davon sind z. B. die Funktechnik mit Rundfunk, Fernsehen, Radar, Fernsteuerung, drahtlose Telefonie, Navigation, aber auch die Vermeidung unerwünschter Schwingungen (Störung, EMV) und unkontrollierter Abstrahlung (Abschirmung).
+Weitere Bereiche der Hochfrequenzelektronik sind Mikrowellentechnik, kabelgebundene Informationsübertragung oder Bereiche der Medizinelektronik.
+Der Übergang von der Niederfrequenz- zur Hochfrequenztechnik ist fließend.
+Er beginnt etwa dann, wenn die Frequenz f der elektromagnetischen Welle auf einer Verbindungsleitung der Länge L ein Produkt fL bildet, das zu einer merklichen Phasendrehung ßL = 2 L/ und somit zu stehenden Wellen führt.
+Dabei ist  = 0/(r eff)1/2 die Wellenlänge auf der Leitung, 0 = c/f die Wellenlänge im freien Raum und c die Vakuumlichtgeschwindigkeit.
+Die Größe r eff errechnet sich im einfachsten Fall, je nach Feldverteilung, aus einer Gewichtung der verschiedenen Permittivitätswerte r in der Leitung.
+Selbst verlustlose Leitungen können daher nur für kleine Phasendrehung ßL  1 (entspricht ca. 57,3°) vernachlässigt werden, also nur für fL  c/.
+Bei einer elektronischen Schaltung mit Kabeln von L >= 3 m und r eff = r = 2,3 muss für ßL < 5° dann etwa f < 1 MHz. bleiben.
+Die praktische Hochfrequenzelektronik beginnt somit etwa ab f = 1 MHz, sie ist eine tragende Säule der Informationstechnik.
+
+Selbst im einfachsten Fall benötigt man zwei Angaben zur Beschreibung einer Leitung:
+
+Dabei lassen sich Z0 und r eff in einem quasistatischen Modell auf Platinen bis in den unteren GHz-Bereich noch aus der Leitungskapazität und Leitungsinduktivität pro Längeneinheit berechnen.
+Ab einigen Gigahertz verfeinert man die Näherung, indem aus den Maxwellschen Gleichungen, aus den Feldern und dem sog. Eigenwert ß mit ß = (r eff)1/2 2/0 verbesserte, frequenzabhängige Werte r eff(f) und Z0(f) ermittelt werden.
+Ab einigen 10 GHz sind die Maxwellschen Gleichungen vollnumerisch zu lösen, die Wellen breiten sich im Zick-Zack aus, und es tritt völlig analog zu Lichtwellenleitern der Multimodebetrieb auf, etwa dann, wenn sich zusätzlich auch in transversaler Richtung stehende Wellen ausbilden können.
+Das gilt für jede Leitung, genauer, für jede Struktur bis hin zu Leitungsabzweigungen, Anschlussflächen für Bauelemente und für die Struktur der Bauelemente.
+
+Die Bauelemente R, L und C verlieren selbst in SMD-Bauform schon ab ca. 0,1 GHz ihre idealen Eigenschaften U = RI, U = L dI/dt und I = C dU/dt zwischen Strom I und Spannung U.
+Ein Widerstand z. B. ist mit steigender Frequenz stets durch kapazitive und bei Stromfluss durch induktive Effekte gekennzeichnet.
+Elektronische Bauelemente misst man daher zuvor in einer Ersatzumgebung mit 50--Anschlusskabeln (NWA = Netzwerkanalysator), wobei der Aufbau des Elementes später in der wirklichen Schaltung genau nachgebildet werden muss.
+Die auf den Anschlussleitungen hinlaufenden, am Messobjekt reflektierten und durch das Objekt transmittierten Wellen stehen bei den passiven Elementen und bei nichtlinearen Elementen (z. B. Transistoren) mit nur kleiner Aussteuerung in einem linearen Zusammenhang:
+Bei einer 2-Tor-Messung liefert ein NWA dann für jede Frequenz eine 2x2-Streumatrix (s-Parameter), die bei nichtlinearen Elementen noch vom Arbeitspunkt abhängt und das Strom-Spannungs-Verhalten selbst für f > 50 GHz realitätsnah beschreibt.
+Diese Daten spiegelt man dann in ein CAD-System ein, das die Kirchhoffschen Gesetze anwendet, um alle U und I zu ermitteln.
+Die Elemente L bzw. C lassen sich dabei für hohe Frequenzen durch eine Leitung mit ßL  1 und Kurzschluss bzw. Leerlauf am Ende nachbilden und ein Widerstand R durch eine verlustbehaftete Leitung realisieren, in die eine Welle hineinläuft und wie in einem Sumpf versickert.
+
+Gewisse Bauelemente und Strukturen können aber auch als fertige Modelle aus einem CAD-System übernommen werden, sofern den Modellen vertraut wird, was einer erheblichen Gewissensfrage gleichkommt, denn die gesamte Analyse steht und fällt mit den Modellen.
+Neben fertigen Modellen und NWA-Messungen kann bei passiven Strukturen durch die vollnumerische Lösung der Maxwellschen Gleichungen sozusagen eine "Software-Messung" der s-Parameter vorgenommen werden.
+Um die dabei dramatisch ansteigende Rechenzeit in Grenzen zu halten, greift man in einer Struktur dafür nur die kritischsten Bereiche heraus:
+Anschlussflächen, Kreuze, Stecker, Antennen, Abzweigungen etc.
+
+Bei Großsignalaussteuerung nichtlinearer Elemente kann bis zu einigen Gigahertz die aus der allgemeinen Elektronik bekannte Modellierung nach SPICE versucht werden.
+Dabei sind die SPICE-Parameter, die die physikalischen Gleichungen der Modelle "biegsam" gestalten, so zu wählen, dass die s-Parameter von SPICE-Modell und NWA-Messung bei allen Arbeitspunkten und allen Frequenzen so gut wie möglich übereinstimmen:
+Bei nur 10 Testarbeitspunkten und 50 Frequenzpunkten mit je 4 s-Parametern ergäben sich bereits 2000 zu prüfende komplexe s-Parameterwerte.
+Der Aufwand ist enorm und die Modellierung extrem schwierig, selbst für einen einzigen Arbeitspunkt.
+
+Das Rauschen elektronischer Schaltungen ist schon bei mittleren Frequenzen nicht mehr gut durch SPICE-Modelle beschreibbar.
+Daher misst man analog zur NWA-Messung das Rauschverhalten in einer Ersatzumgebung (Rauschmessplatz).
+Mit den gewonnenen Rauschparametern (min. Rauschzahl bei optimaler Generatorimpedanz zuzüglich einem äquivalenten Rauschwiderstand) lässt sich im CAD-System umrechnen, wie das Bauelement in der tatsächlichen Schaltung rauscht.
+Ein Rauschmessplatz ist sehr komplex und erfordert a priori einen NWA.
+
+Ohne die CAD-Systeme ist die Auswertung der vielen Gleichungen unmöglich.
+Eine sinnvolle Nutzung erfordert darüber hinaus aber tiefe Kenntnisse zu den programmierten Theorien und verwendeten Modellen.
+
+== Leistungselektronik
+
+Leistungselektronik bezeichnet das Teilgebiet der Elektrotechnik, das die Umformung elektrischer Energie mit elektronischen Bauelementen zur Aufgabe hat.
+Die Umformung elektrischer Energie mit Transformatoren oder mit rotierenden Maschinensätzen wird dahingegen nicht zur Leistungselektronik gerechnet.
+
+== Mikroelektronik & Nanoelektronik
+
+Die Mikroelektronik beschäftigt sich mit der Entwicklung und Herstellung integrierter Schaltkreise mit Strukturgrößen bzw. Strukturbreiten typisch unter 100 Mikrometer.
+In einigen Bereichen wurde die 100-Nanometer-Grenze unterschritten, so spricht man hier bereits formal von Nanoelektronik.
+Eine Silizium basierte Pikoelektronik (< 100 Pikometer) wird nie realisiert, da z. B. bei einer Strukturbreite von 5 nm nur noch etwa 20-25 Siliziumatome (in [] der Diamantstruktur) miteinander verbunden sind.
+
+Die kleinsten Strukturbreiten bei integrierten Schaltkreisen in Serienproduktion lagen 2018 bei 7 nm, siehe Apple A12 Bionic, und aktuell (2020) bei 5 nm, siehe Apple A14 Bionic.
+
+== Bedeutung in der Gesellschaft
+
+Die Elektronik umfasst heute unzählige Gebiete, von der Halbleiterelektronik über die Quantenelektronik bis hin zur Nanoelektronik.
+Seit dem Siegeszug des Computers, der stetigen Entwicklung der Informationstechnologie und der zunehmenden Automation hat sich die Bedeutung der Elektronik beständig erweitert.
+Die Elektronik nimmt heute in unserer Gesellschaft einen großen Stellenwert ein und ist aus vielen Bereichen nicht mehr wegzudenken.
+
+== Kommerzielle Elektronikfertigung
+
+Im Jahre 2007 kamen 38 % aller weltweit hergestellten Elektronikprodukte aus der Asien-Pazifik-Region.
+Im Jahre 1995 lag dieser Anteil noch bei 20 %.
+Allein China erhöhte seinen Anteil von 3 % 1995 auf 16 % 2007.
+Unter den Top-10-Ländern befinden sich auch Südkorea, Malaysia, Singapur und Thailand.
+Der Anteil von Westeuropa lag 2007 bei 19 % der globalen Produktion (entspricht ca. 192 Mrd. Euro).
+Für die Leistungsreihenfolge der Größe der Elektronikfertigung in Westeuropa gilt folgende Rangliste (Stand 2006): Deutschland, Frankreich, Großbritannien, Irland, Italien.
+
+== Elektronik und Elektrotechnik in der Berufswelt
+
+=== Ausbildungsberufe
+
+=== Fortbildung
+
+Eine Fortbildung zum Elektromeister findet an einer Meisterschule statt und dauert 1 Jahr Vollzeit bzw. 2 Jahre berufsbegleitend.
+
+Eine Fortbildung zum Elektrotechniker kann an einer Technikerschule in 4 Semestern Vollzeit bzw. 8 Semestern berufsbegleitend absolviert werden.
+
+=== Studienfach
+
+Elektronik wird an vielen Universitäten, Fachhochschulen und Berufsakademien als Studiengang angeboten.
+An Universitäten wird während des Studiums die wissenschaftliche Arbeit betont, an Fachhochschulen und Berufsakademien steht die Anwendung physikalischer Kenntnisse im Vordergrund.
+
+== Siehe auch
+
+== Literatur
+
+== Einzelnachweise
+
+== Weblinks
+

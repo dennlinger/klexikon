@@ -1,0 +1,5 @@
+Die E-Mail ist zum einen ein System zur computerbasierten Verwaltung von briefähnlichen Nachrichten und deren Übertragung über Computernetzwerke, insbesondere über das Internet.
+Zum anderen werden auch die auf diesem elektronischen Weg übertragenen Nachrichten selbst als E-Mails bezeichnet.
+E-Mail ist neben dem World Wide Web ein wichtiger Internetdienst, nicht zuletzt, weil es durch E-Mails möglich ist, Textnachrichten ebenso wie digitale Dokumente typischerweise in wenigen Sekunden rund um die Erde zu senden.
+Im Gegensatz zu Telefon oder Internet Relay Chat, die gleichzeitige Kommunikation ermöglichen, ist die E-Mail - wie die Briefpost - ein asynchrones Kommunikationsmedium:
+Der Sender versendet seine Nachricht unabhängig davon, ob der Empfänger sie sofort entgegennehmen kann oder nicht.

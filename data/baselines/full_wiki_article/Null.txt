@@ -1,0 +1,148 @@
+Die Zahl Null ist die Anzahl der Elemente in einer leeren Ansammlung von Objekten, mathematisch gesprochen die Kardinalität der leeren Menge.
+Null bezeichnet in der Mathematik je nach Kontext verschiedenartig definierte Objekte, die jedoch oft miteinander identifiziert werden können, d. h. als dasselbe Objekt angesehen, das verschiedene miteinander kompatible Eigenschaften vereint.
+Da Kardinalzahlen (Anzahl der Elemente einer Menge) mit speziellen Ordinalzahlen identifiziert werden, und die Null gerade die kleinste Kardinalzahl ist, wird die Null - im Gegensatz zum gängigen Sprachgebrauch - auch als erste Ordinalzahl gewählt.
+Als endliche Kardinal- und Ordinalzahl wird sie je nach Definition auch zu den natürlichen Zahlen gezählt.
+Die Null ist das neutrale Element bezüglich der Addition (anschaulich gesprochen die Differenz zweier gleicher Zahlen) in vielen Körpern, wie etwa den rationalen Zahlen, reellen Zahlen und komplexen Zahlen, und eine gängige Bezeichnung für ein neutrales Element in vielen algebraischen Strukturen, selbst wenn andere Elemente nicht mit gängigen Zahlen identifiziert werden.
+Als ganze Zahl ist die Null Nachfolgerin der Minus-Eins und Vorgängerin der Eins.
+Auf einer Zahlengeraden trennt der Nullpunkt die positiven von den negativen Zahlen.
+Die Null ist die einzige reelle Zahl, die weder positiv noch negativ ist.
+Die Zahl Null ist gerade.
+Dargestellt wird die Null durch die Ziffer "0", deren Einführung Stellenwertsysteme wie die Dezimalzahlen erst möglich machte.
+Erst die Erfindung eines Stellenwertsystems mit dem Lückenzeichen "0" und die Betrachtung von "0" als eigenständige Ziffer, die etwas darstellt, mit dem man wie mit anderen Zahlen rechnen konnte, führte zur Vorstellung, dass die Null "0" eine Zahl sei.
+Damit war eine Grundlage für die weitere Entwicklung der Mathematik gelegt.
+In der Perser- (539-331 v. Chr.) und hauptsächlich der Seleukidenzeit (305-63 v. Chr.) gab es als Vorstufe der Zahl Null ein Fehlzeichen im Sexagesimalsystem der Babylonier, nämlich in sexagesimalen Zahlen an Stellen ohne Wert.
+Davor wurde es nur in altbabylonischer Zeit (um 1800-um 1500 v. Chr.) in manchen Texten verwendet, um Doppeldeutigkeiten wie sexagesimal 30,16 (= 30x60 + 16 = 1816) und 20,26 (= 20x60 + 26 = 1226) oder 10,36 (= 10x60 + 36 = 636) zu verhindern, eine Stelle ohne Wert wurde dann durch eine Lücke dargestellt.
+Meistens musste man aber aus dem Zusammenhang heraus auf das Fehlen von Stellen schließen, was jedoch nur sehr selten nötig war, denn in den erhaltenen Texten findet sich unter Tausenden von Zahlenangaben nur etwa ein Dutzend solcher Fälle.
+Die sexagesimalen Zahlen der Babylonier hatten keine feste Größenordnung, so wurde z. B. dezimal 123 (= 2x60 + 3) genau so geschrieben wie 7380 (= 2x60^2 + 3x60) oder 2,05 (= 2 + 3/60).
+Nur in astronomischen Texten änderte sich dies ab 200 v. Chr. und das Fehlzeichen wurde dort auch am Ende von Zahlen verwendet.
+Bereits in altbabylonischer Zeit traten außerdem in algebraischen Texten Differenzen bei Zwischenergebnissen auf, die auch null wurden.
+In solchen Fällen stand in den Texten aber nur, dass Minuend und Subtrahend gleich seien, es findet sich weder ein Name für null noch wurde eine Anzahl von null als Lösung algebraischer Aufgaben anerkannt.
+Die Babylonier kannten daher noch keine Zahl Null.
+Die Griechen dagegen kannten keine Zahl Null.
+Erst die hellenistische Welt übernahm von den Babyloniern mit der Astronomie auch deren Sexagesimalbrüche, man schrieb diese jedoch mit den ionischen Zahlsymbolen.
+So auch der griechische Astronom Klaudios Ptolemaios, der im 2. Jahrhundert n. Chr. in der berühmten Bibliothek des Museions in Alexandria arbeitete.
+Er verwendete in astronomischen Angaben das Fehlzeichen o, das vermutlich für griechisch ov ouden ("nichts") steht.
+Die römischen Kaiser förderten zwar die Wissenschaften in den ehemals hellenistischen Gebieten ihres Reiches, bedeutende eigene mathematische Leistungen hatten die Römer jedoch nicht vorzuweisen.
+Für die Null gab es kein Zeichen im Lateinischen.
+Vermutlich beeinflusst durch das babylonische Sexagesimalsystem sowie Astronomie und Kalenderrechnung entstand zwischen 300 v. Chr. und 600 n. Chr. in Indien das dezimale Stellenwertsystem mit 0 und Zahlzeichen für 1, ..., 9, die offenbar aus eigenen Zahlzeichen, die es zu indischen Schriften gab, entstanden waren.
+Da in dezimalen Zahlen Stellen mit einer Lücke, d. h. dem Wert null, sehr viel häufiger auftreten als im babylonischen Sexagesimalsystem, wurde ein Lückenzeichen für die Null im dezimalen Stellenwertsystem unentbehrlich, was für die Akzeptanz der Null als Zahl wohl förderlich gewesen sein dürfte.
+Nach der 2017 veröffentlichten Radiokarbondatierung findet sich der älteste materielle Beleg für ein schriftliches Symbol der Null im indischen Raum im Bakhshali-Manuskript.
+Demnach stammten die ältesten Teile des Manuskripts aus dem 3. oder 4. Jahrhundert n.
+Chr.
+Die in der Öffentlichkeit dabei verbreitete Interpretation der Ergebnisse der Radiokarbondatierung ist von anderen Forschern wie Kim Plofker in Frage gestellt worden.
+Nach ihnen zeigt das Manuskript eine Einheitlichkeit sowohl bei Schrift, Inhalt und Erhaltungszustand, die darauf deutet, dass es dem spätesten Zeitpunkt der Datierungen zugeordnet werden sollte.
+Seit dem 7. Jahrhundert n.
+Chr. findet sich in Inschriften ein Punkt oder ein Kreis als Symbol für die "Leere" ("sunya"), wie in Indien spätestens seit dem 5. Jahrhundert n. Chr. die Null genannt wurde.
+In seinem 628 n. Chr. verfassten Lehrbuch "Brahmasphutasiddhanta" gab der in Bhinmal (Rajasthan) lehrende Mathematiker und Astronom Brahmagupta Rechenregeln auch für die Null an.
+Ein früher gesicherter Nachweis der Null als Zahl in Indien (schon früher in Südostasien) ist eine Steintafel aus dem Ort Gwalior 500 km südlich von Neu-Delhi mit den Daten 27. Dezember 786, 10. Januar 787 und 17. Januar 787, die von einer Gartenanlage handelt, deren Länge 270 (hastas) beträgt und 50 Blumengirlanden erhielt.
+Eine weitere frühe schriftliche Verwendung der Null findet sich in der Inschrift K. 151 aus Sambor Prei Kuk in Kambodscha vom Anfang des 7. Jahrhunderts n.
+Chr. und berichtet von der Errichtung einer Götterstatue am 14. April 598:
+Das hier benutzte Jahr der aka-Ära ist 520, wobei die Null mit dem Begriff "Luftraum" ("kha") wiedergegeben ist.
+Ein weiterer Nachweis der Verwendung der Ziffer "0" stammt ebenfalls aus Kambodscha, und zwar in der Inschrift K. 127, wo in Ziffern das akajahr "605" genannt wird, das unserem Jahr 683/84 entspricht.
+Eine ganze Reihe von Inschriften, deren Datum "0" enthält und die aus etwa der gleichen Zeit stammen, wurden auf Sumatra gefunden.
+In den ursprünglichen indischen Systemen war die Reihenfolge der Potenzen umgedreht, die Einer wurden zuerst genannt, dann die Zehner etc.
+Die Ziffer Null erhöhte damit den Wert der folgenden Ziffer.
+Im antiken China kannte man keine Zahl Null, denn Problemstellungen hatten niemals eine Anzahl von null als Lösung und es gab keine eigenständige Null, mit der man wie mit anderen Zahlen rechnen konnte.
+Zahlen wurden jedoch wohl spätestens seit dem 1. Jahrhundert n.
+Chr. (frühe Han-Dynastie) durch Stäbchen ausgelegt (Jiu Zhang Suanshu, Kapitel 8, Problem 3):
+Die Einer senkrecht, die Zehner waagerecht, die Hunderter wieder senkrecht usw., wobei an einer Stelle mit mehr als 5 Stäbchen 5 davon durch ein Stäbchen in jeweils anderer Richtung ersetzt wurden.
+Man verfügte also über ein dezimales Stellenwertsystem, in dem es allerdings - wie im ursprünglichen Sexagesimalsystem der Babylonier - kein Fehlzeichen für Stellen ohne Wert gab.
+Erst in der Übersetzung eines indischen astronomischen Textes aus der Zeit von 713 bis 741 n. Chr. findet sich die früheste bekannte chinesische Erwähnung eines Fehlzeichens (ein Punkt).
+Ebenso war wahrscheinlich schon im 1. Jahrhundert n. Chr. eine Art Matrizenrechnung zur Lösung von linearen Gleichungssystemen bekannt (Jiu Zhang Suanshu, Kapitel 8).
+Dabei traten in den Rechnungen auch negative Werte auf, die man mit Stäbchen - erstmals in der Geschichte - unterschiedlich zu positiven Werten darstellte.
+Für diese wurden Additions- und Subtraktionsregeln angegeben, insbesondere auch für leere Einträge, die Matrizenelementen mit dem Wert null entsprachen.
+Damit hatte man eine rechnerische Vorstufe der Zahl Null.
+Die Vorzeichenregeln der Multiplikation sind in China dagegen erst ab 1299 n. Chr. nachgewiesen.
+Während weite Teile Westeuropas vor allem im Frühmittelalter unter dem Zerfall des römischen Reiches und anderen Faktoren litten, wurde in Byzanz (Universität von Konstantinopel) und in den jetzt islamisierten Gebieten von Muslimen, Juden und Christen weiterhin Mathematik auf einem hohen Niveau betrieben.
+Die indischen Ziffern mit ihrem Dezimalsystem werden erstmals vom syrischen Bischof und Gelehrten Severus Sebokht im 7. Jahrhundert beschrieben, und mit dem Werk Über das Rechnen mit indischen Ziffern (um 825) von al-Chwarizmi, einem choresmischen Mathematiker, über ein großes Gebiet verbreitet.
+Weitere Rechenbücher, wie die von Ibn Ezra im 12. Jahrhundert, folgten.
+Leonardo Fibonacci, ein Mathematiker des Mittelalters, der in Algier als Sohn eines italienischen Handelsvertreters mit den arabisch-indischen Zahlen inklusive der Null vertraut war, führte diese 1202 mit seinem Werk Liber abaci, worin er Beispiele aus der Handelswelt bearbeitete, in Italien ein.
+Er räumt der Null aber nicht den gleichen Stellenwert wie den übrigen Zahlen ein - in seinem Buch nennt er sie Zeichen statt Zahl.
+Die Verwendung der Null im praktischen Rechnen setzte sich aber erst viel später (im 17. Jahrhundert) durch.
+Noch Gerolamo Cardano im 16. Jahrhundert kam ohne sie aus.
+Für die Ziffer und die "neue Zahl" 0 gibt es in vielen europäischen Sprachen eine vom deutschen Wort "null" abweichende Benennung; zu diesen Unterschieden siehe unten bei Herkunft des Wortes.
+In den folgenden Jahrhunderten gewann die Null in vielen Bereichen an Bedeutung.
+Die Null wurde zum Ausgangspunkt für viele Skalen, z. B. bei Temperatur oder Meeresspiegel, und so wuchsen die Begriffe "positiv" und "negativ" im Denken der Menschen.
+Fälschlicherweise wird auch immer wieder behauptet, dass es Papst Silvester II. (mit bürgerlichem Namen Gerbert von Aurillac) gewesen sei, der die arabisch-indischen Zahlen nach Europa gebracht hätte.
+Die Olmeken entwickelten als erstes Volk in Mesoamerika eine erste Form eines astronomischen Kalenders.
+Das früheste Datum in diesem Kalender, das bislang entdeckt wurde, lautet 7.16.6.16.18 und entspricht wahrscheinlich einem Tag im September 32 v. Chr. (Lange Zählung).
+Auch die Maya hatten einen solchen Kalender, aus dem sie eine reine Zahlendarstellung im Vigesimalsystem (Stellenwertsystem zur Basis 20) entwickelten.
+Dabei wurden Stellen mit dem Wert null durch eine Muschel oder ein Schneckenhaus symbolisiert.
+Das älteste bisher gefundene Datum zeigt einen Tag im Jahr 36 v. Chr.
+Für das Volk der Inka ist ein dezimales Stellenwertsystem nachgewiesen:
+Sie verwendeten die Knotenschrift der Quipus, die auf einem solchen System aufgebaut war.
+Als Fehlzeichen diente dabei am Faden eine Stelle ohne Knoten.
+Sofern Verwechslungsgefahr mit dem großen lateinischen Buchstaben O besteht, wird die Ziffer 0 mit einem Schrägstrich oder Punkt gekennzeichnet, z. B.: 0 / {\displaystyle 0\!\!\!{/}} oder 0 oder 0 * {\displaystyle 0\!\!{\cdot }} .
+In der Mathematik steht das Symbol "0" häufig auch allgemein für Nullelemente von Strukturen, selbst wenn diese von einer Zahl 0 unterschieden werden.
+Eine einzeln stehende Ziffer 0 bezeichnet die Zahl Null, ansonsten bedeutet eine Ziffer 0 an einer Stelle, dass der zugehörige Stellenwert in der Stellenwertdarstellung einer Zahl nicht auftritt, z. B. "307" für 3*100 + 0*10 + 7*1.
+Wenn die Ziffer 0 an eine Ziffernfolge angehängt wird, multipliziert sich deren Wert mit der Basis des Stellenwertsystems.
+Führende Nullen werden üblicherweise weggelassen bzw. bei einer formatierten Ausgabe durch Leerzeichen ersetzt.
+Bei Dezimalzahlen werden Nullen nach dem Komma üblicherweise weggelassen, wenn ihnen keine andere Ziffer mehr folgt.
+Bei einer formatierten Ausgabe werden sie entsprechend dem Ausgabeformat geschrieben.
+Eine Ausnahme bilden die Angaben von Messwerten.
+Hier wird die Null oft zusätzlich geschrieben, um die Genauigkeit der Messung zu veranschaulichen.
+Beispiel: Eine Länge wird mit 1,200 m gemessen.
+Die zwei zusätzlichen Nullen zeigen hier, dass die Messung auf drei Stellen hinter dem Komma genau war.
+Typenangaben erfolgen oft mit führender Null, z. B. 001.
+Auch bei Nummerierungen, wie Bestellnummern, Rechnungsnummern, Ausweisnummern und so weiter, deren Ziffernfolge auf eine bestimmte Anzahl von Stellen festgelegt ist, werden nicht genutzte Stellen am Anfang mit führenden Nullen aufgefüllt.
+Die Zahl Null weist einige besondere Eigenschaften auf, die bei der Untersuchung von Rechenregeln hervortreten.
+Die Null symbolisiert im mathematischen Sinne das neutrale Element der Addition in einem kommutativen Monoid, das heißt:
+Für jedes Element a des Monoids gilt
+Die Null im mathematischen Sinne (als neutrales Element eines Monoids) ist stets eindeutig.
+Die Null entsteht als Resultat einer Differenz, bei der der Subtrahend gleich dem Minuenden ist
+Ferner ist
+und
+Durch Einführung der Rechenoperation der Multiplikation, mathematisch formal in der Definition eines Ringes, erhält man folgende Regel:
+Man sagt auch, die Null ist ein absorbierendes Element der Multiplikation.
+Das Ergebnis der Division von null durch eine von null verschiedene Zahl ist stets null.
+Das Ergebnis null tritt nur auf, wenn der Dividend null ist.
+Jede mögliche Definition der Division einer Zahl durch null verstößt gegen das Permanenzprinzip.
+Deshalb ist es in aller Regel zweckmäßig, solche Division undefiniert zu lassen.
+Für natürliche Zahlen kann die Division als wiederholte Subtraktion angesehen werden:
+Um die Frage "Wie oft muss man 4 von 12 abziehen, um 0 zu erhalten?" zu beantworten, also 12 : 4 zu bestimmen, kann man so rechnen:
+Die Anzahl der Subtraktionen ist 3.
+Bei 12 : 0 {\displaystyle 12:0 } lautet die Frage: "Wie oft muss man 0 von 12 abziehen, um 0 zu erhalten?" Antwort: Keine Anzahl von Operationen bringt das gewünschte Ergebnis.
+Anmerkung:
+Bei 0 : 0 {\displaystyle 0:0 } lautet die Frage: "Wie oft muss man 0 von 0 abziehen, um 0 zu erhalten?" Antwort: Jede beliebige (also keine eindeutige) Anzahl von Operationen bringt das gewünschte Ergebnis.
+Für beliebige Zahlenmengen ist die Division als Umkehrung der Multiplikation definiert.
+Bei der Division von b durch a sucht man eine Zahl x, welche die Gleichung a * x = b {\displaystyle a\cdot x=b} erfüllt.
+Diese Zahl x - sofern sie eindeutig bestimmt ist - schreibt man als Quotienten x = b a {\displaystyle x={\frac {b}{a} }}
+Im besonderen Fall, dass a = 0 {\displaystyle a=0} ist, gibt es kein eindeutiges Ergebnis:
+Wir suchen eine Lösung der Gleichung 0 * x = b {\displaystyle 0\cdot x=b} .
+Also gibt es in beiden Fällen kein eindeutiges Ergebnis bei der Division durch null.
+Beim Rechnen mit reellen (oder komplexen) Zahlen ist es also nicht möglich, durch null zu dividieren, da diese Operation kein eindeutiges Ergebnis hätte:
+Die Multiplikation mit 0 ist nicht umkehrbar.
+Dies gilt allgemein für jeden Ring.
+Für Leonhard Euler war die Division von 1 : 0 =  {\displaystyle 1:0=\infty } (Unendlich).
+Entsprechend nahm er an, dass es verschieden große unendliche Zahlen gab, denn z. B. 2 : 0 {\displaystyle 2:0 } würde (so Euler) eine doppelt so große unendliche Zahl wie 1 : 0 {\displaystyle 1:0} ergeben.
+Auch bei den Indern blieb das Problem der Division durch null ungelöst.
+Brahmagupta kam zu keinem Ergebnis, verbot die Division durch null aber auch nicht, während Bhaskara im 12. Jahrhundert wie Euler auf das Ergebnis unendlich kam.
+Für b > 0 {\displaystyle b>0 } ist 0 b = 0 {\displaystyle 0^{b}=0} .
+Für b < 0 {\displaystyle b<0} ist 0 b {\displaystyle 0^{b}} nicht definiert.
+Per Definition gilt a 0 = 1 {\displaystyle a^{0}=1} , für a  0 {\displaystyle a\neq 0} .
+Der Ausdruck 0 0 {\displaystyle 0^{0}} wird entweder undefiniert gelassen oder - sofern dies zweckmäßiger ist - als 1 definiert.
+Siehe Potenz.
+In Restklassenringen (aber nicht nur dort) existieren sogenannte Nullteiler, zum Beispiel gilt im Restklassenring modulo 6 die Gleichung 2 * 3 = 0.
+Daraus folgt jedoch nicht, dass 0 / 2 = 3 ist, denn auch 2 * 0 = 0.
+Man kann also diesen Quotienten nicht eindeutig (und damit sinnvoll) definieren und daher auch nicht durch einen Nullteiler dividieren.
+Mit 0 wird auch das neutrale Element einer beliebigen (additiven) Gruppe, beispielsweise Nullvektoren und Nullmatrizen, bezeichnet.
+Bei Maschinenzahlen werden manchmal die positive (+0) und die negative Null (-0) als zwei verschiedene Zahlen angesehen.
+Beim Datentyp Integer ist die Null in der Betrags-Vorzeichendarstellung und beim Einerkomplement vorzeichenbehaftet, bei Gleitkommazahlen ist es meistens der Fall.
+Die Norm IEEE 754 für binäre Gleitkommazahlen verlangt neben Existenz einer positiven und der negativen Null drei gesondert kodierte Werte namens NaN, +Inf und -Inf (infinity = Unendlichkeit).
+Während die beiden Darstellungen der Null nach IEEE 754 identisch bei numerischen Vergleichen sind, bewirken sie unterschiedliche Ergebnisse bei einigen Berechnungen und haben unterschiedliche Bitmuster.
+Für Computer muss speziell definiert werden, wie sich ein Prozessor oder Programm im Falle einer Division durch null verhalten soll (das heißt, wie die Semantik des Divisionsbefehls lautet).
+Hersteller und Entwickler sind dabei prinzipiell frei in ihren Entscheidungen, daher gibt es keine allgemeingültige Definition für sämtliche Prozessoren und Programme.
+Jedoch gibt es übliche bzw. oft angewandte Definitionen, die im Folgenden dargestellt werden.
+Man unterscheidet üblicherweise zwischen ganzzahliger und Gleitkommadivision.
+Für ganze Zahlen ist es gängig, einen Laufzeitfehler auszulösen, falls ein Programm versucht, durch null zu dividieren.
+Für Gleitkommazahlen ist nach IEEE 754 eine Division durch null definiert, da dort gesondert kodierte Werte für +/-  {\displaystyle \pm \infty } spezifiziert sind.
+Allerdings ist die Division +/- 0 / +/- 0 {\displaystyle \pm 0/\pm 0} numerisch unbestimmt und ergibt NaN (not a number).
+In der Mathematik werden solche Werte im Allgemeinen nicht verwendet, da durch diese gewünschte Eigenschaften des Zahlenraums (etwa der reellen Zahlen) wie etwa das Distributivgesetz nicht mehr anwendbar wären.
+Etwa in der Analysis wird  nicht als Zahl, sondern lediglich symbolisch verwendet, etwa um Grenzwerte oder bestimmte Divergenz zu notieren.
+Diese Herangehensweise entspricht der Verwendung bei der Berechnung von Grenzwerten in der reellen Analysis, das direkte Auftreten etwa einer Division durch null wird jedoch auch formal vermieden, da ansonsten die Anwendung gewisser Rechengesetze zu Widersprüchen führt.
+Mit der Einführung der Ziffer 0, die zugleich einen Zahlwert darstellte, musste für diese 0 eine Benennung gefunden werden, im Deutschen ist es null, in anderen Sprachen zero/zero.
+Die Entwicklung in den modernen europäischen Sprachen war folgende:
+Im Italienischen bildete sich - vom Arabischen entlehnt - das Wort zero, das wurde dann im Französischen und schließlich Englischen gebräuchlich.
+"Null" hat im Englischen - und in der Informatik - eine von 0 zu unterscheidende Bedeutung, siehe Nullwert.
+Die heutige deutsche Bezeichnung stammt vom lateinischen Wort nullus (= keiner) bzw. altitalienisch nulla figura (= keine Ziffer).
+Die ursprüngliche Bedeutung von null im Deutschen steckt noch in der Wendung null und nichtig = ungültig (ohne Wert), dies ist eine Doppelung, auch null bedeutet hier "nichtig".

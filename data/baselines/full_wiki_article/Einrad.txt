@@ -1,0 +1,277 @@
+Das Einrad ist ein Fahrzeug, das - idealisiert - nur mit einem Punkt (dem Rad) den Boden berührt.
+Meist versteht man darunter ein mit Muskelkraft angetriebenes Pedalfahrzeug, das vor allem als Sportgerät, aber auch von Artisten im Zirkus oder Variete genutzt wird.
+Es kann als Sonderform eines Fahrrads, insbesondere Hochrads gesehen werden.
+Die wichtigsten Bestandteile eines Einrads sind: Das Rad (dazu gehören die Felge, der Schlauch, der Reifen, die Speichen, die Nabe und die Achse), die Kurbeln, die Pedale, die Gabel, die Sattelstütze, die Sattelklemme und der bananenförmige Sattel.
+Das Rad ist ähnlich aufgebaut wie bei einem Fahrrad, allerdings gibt es bei einem Einrad eine spezielle Nabe, in der die Achse integriert ist.
+Die Kurbeln sind über die Tretlagerwelle fest mit der Radnabe verbunden.
+Dadurch wird die Drehung der Pedale direkt auf das Rad übertragen.
+Anders als beim Fahrrad gibt es keinen Freilauf - gebremst wird durch Muskelkrafteinwirkung auf das Pedal gegen die Drehrichtung der Kurbel.
+Die Gabel ist an den Lagern der Achse befestigt, während die Kurbeln am Ende der Achse festgemacht sind.
+Die Sattelstütze verbindet die Gabel mit dem Sattel.
+Das Einrad ist eine Art inverses Pendel.
+Der Schwerpunkt des Gesamtsystems aus Einrad und Fahrer befindet sich oberhalb des Drehpunktes.
+Damit das System aus Einradfahrer und Einrad unter dem Einfluss der Schwerkraft nicht umfällt, muss der Fahrer das System ständig aktiv durch Balancieren in einem labilen mechanischen Gleichgewicht halten.
+Der Fahrer sitzt dabei freihändig senkrecht über der Radnabe auf dem Bananensattel und tritt zwecks Bewegung und Balance in die Pedale - ähnlich wie beim Fahrrad.
+Geübte Einradfahrer können ohne Bewegung - im Stillstand - auf dem Rad balancieren.
+Dabei muss der Fahrer den Körperschwerpunkt lotrecht über der Auflagefläche des Rades halten.
+In der Bewegung muss ein labiles Gleichgewicht hergestellt werden, indem das sogenannte Scheinlot - die Resultierende aus Schwerkraft und Fliehkraft - durch die Unterstützungsfläche geführt wird.
+Durch das so genannte Pendeln, bei dem der Einradfahrer das Rad eine halbe Umdrehung vor- und zurückbewegt, kann das Einrad auch quasi auf der Stelle gehalten werden.
+Das Balancieren eines Roboter-Einrads, Segways oder Eunicycles stellt in der Regelungstheorie ein interessantes Problem dar.
+Da die Belastungen beim Einrad aufgrund der Kraftverteilung auf nur ein Rad an manchen Stellen - etwa an den Speichen - höher ausfallen als beim Fahrrad, eignen sich normale Fahrradteile nicht ohne Weiteres, um daraus ein Einrad zusammenzubauen.
+Dazu kommt, dass Einrad-Bestandteile wie Sattel oder Gabel anders geformt sind als beim Fahrrad.
+Einräder gibt es in verschiedenen Größen, von Miniatureinrädern mit einer Radgröße von 12 Zoll bis zu großen Einrädern mit einem Raddurchmesser von 50 Zoll.
+Die verbreitetsten Größen sind Räder mit einem Durchmesser von 20 und 24 Zoll.
+Bei den vielen verschiedenen Arten von Einrädern, wie zum Beispiel Freestyle-Einrad, Trial-Einrad, MUni, Giraffe und Langstrecken-Einrad sind die verschiedenen Bauteile auf den jeweiligen Zweck des Einrads ausgerichtet.
+Kleinere Einräder sind wendiger und eignen sich so besser für Einradtricks, größere Einräder laufen ruhiger und ermöglichen höhere Geschwindigkeiten.
+Ähnlich verhält es sich mit der Kurbellänge:
+Kürzere Kurbeln ermöglichen ein schnelleres Treten, was beispielsweise für das Fahren von Pirouetten vorteilhaft ist, lange Kurbeln bieten mehr Kontrolle, was gut zum Geländefahren ist.
+Einräder mit einer eckigen Gabel ermöglichen es, bei verschiedenen Tricks die Füße darauf zu stellen.
+Das Freestyle-Einrad wird allgemein für Freestyle und Flatland Skills verwendet.
+Es hat normalerweise eine relativ hohe Sattelstütze, einen schmalen Sattel und eine eckige Gabel, die für Einbein-Tricks verwendet wird.
+Ein Freestyle-Rad hat normalerweise einen Raddurchmesser von 20 Zoll, kleinere Fahrer verwenden auch Freestyleräder mit 16 oder 18 Zoll und es gibt auch Fahrer die 24-Zoll-Räder beim Freestyle verwenden.
+Renn-Einräder, meist als Rennhexe oder Race Witch bezeichnet, sind speziell auf die Bedürfnisse des Einradrennens und das dabei geltende Reglement der IUF abgestimmt.
+Dabei kommen 24-Zoll-Laufräder zum Einsatz; der Außendurchmesser des Reifens liegt so nah wie möglich am erlaubten Maximaldurchmesser.
+Es werden Rennrad-Reifen verwendet, die sehr schmal sind und mit hohem Druck gefahren werden.
+Die Kurbellänge liegt beim erlaubten Minimum von 125 mm.
+Im Gegensatz zu den sonst üblichen 100 mm Lagerabstand werden meist kürzere Naben mit 84 mm Lagerabstand verwendet, die Gabel wird zudem nach oben schmaler.
+Durch die kürzere Achse rücken die Pedale näher zusammen, das heißt, der Q-Faktor wird kleiner, was einen ruhigeren Lauf ermöglicht.
+Renneinräder werden mittels Leichtbauweise auf minimales Gewicht getrimmt.
+Trial-Einräder sind besonders stabil konstruiert, um den Anforderungen des Einrad-Trials gerecht zu werden und die Kräfte, die etwa beim Springen und Aufsetzen entstehen, auszuhalten.
+Auch die Kurbeln und Pedale sind robuster gebaut, um den Belastungen standzuhalten.
+Hier haben sich vor allem Vielzahnnaben und die dazugehörigen Kurbeln bewährt, die allerdings teurer als Standard-Vierkantnaben sind.
+Viele Trial-Einräder sind mit dicken 20-Zoll-Reifen ausgestattet, um so einen Teil des Stoßes beim Springen aufzufangen.
+Aufgrund des dicken Reifens werden oft 19-Zoll Felgen verwendet um einen ähnlichen Außendurchmesser wie bei Standard 20-Zoll-Reifen zu erreichen.
+"MUni" ist die Abkürzung für Mountain Unicycle, zu Deutsch Berg-Einrad, und bezeichnet die Mountain-Bike-Variante des Einrads.
+Das MUni ist speziell für das Fahren im Gelände konzipiert.
+Es besteht zum Teil aus denselben Komponenten wie ein Trial-Einrad, es gibt jedoch ein paar Unterschiede.
+Normalerweise hat ein MUni einen Raddurchmesser von 24 oder 26 Zoll und einen breiten Stollenreifen mit grobem Profil.
+Das ermöglicht es dem Fahrer, leichter über verschiedene Hindernisse wie Wurzeln oder Steine zu fahren.
+Hinzu kommen die sehr stabile Nabe und Pedale, die sehr guten Halt bieten.
+Auch der Sattel ist meist dicker und bequemer, um das Fahren im Gelände etwas angenehmer zu machen.
+Ebenso ist es oft steiler angestellt, um die Sitzlast mehr nach hinten zu verlagern.
+So kann überall dort gefahren werden, wo mit einem herkömmlichen Einrad kein Weiterkommen ist, also: Off-Road, auf Felsen, auf Gras, im Sand, auf Schnee oder Eis.
+An vielen MUnis sind auch Bremsen montiert, die vor allem bei steilen Abfahrten zum Einsatz kommen und die Muskeln des Fahrers entlasten.
+Außer hydraulisch betätigten Felgenbremsen werden vermehrt auch Scheibenbremsen eingesetzt.
+Die Bremsscheibe sitzt dabei entweder an der Nabe (Innerhalb der Gabel) oder an der Kurbel (Außerhalb der Gabel, EDB (External Disk Brake) Standard).
+Die Bremszange wird entweder an der Gabel oder der unteren Lagerschale befestigt.
+Der Bremsgriff sitzt entweder unter dem Sattel oder an einem Griff vor dem Sattel.
+Das Touring-Einrad ist für lange Strecken konstruiert.
+Ein Touring-Einrad hat einen großen Raddurchmesser zwischen 26 und 36 Zoll.
+Dadurch wird mit einer Pedal-Umdrehung eine größere Strecke zurückgelegt.
+Der Trend zum Einrad mit großem Raddurchmesser wurde durch ein 36-Zoll-Einrad der Firma Coker Tire ausgelöst.
+Einräder werden auf langen Strecken und mit Rucksackgewicht - vorne gerne mit schmalem Lenker (T-bar) mit nach vorne stehenden bar-ends gefahren, um den Sitzbereich zu entlasten.
+Das Abstützen der Arme erlaubt eine zweite Oberkörperhaltung.
+Ein löffelförmiger Einfinger-Bremshebel kann dann auch zwischen diesen bar-ends enden.
+Florian Schlumpf (Urenkel von Johann Georg Schlumpf) und Kris Holm entwickelten um 2005 ein "GUni" (geared unicycle).
+Die Getriebenabe KH/ Schlumpf weist neben dem Direktgang einen 1:1,5-Schnellgang auf, kann in beide Richtungen gefahren und eingebaut werden , ist sprungfest und wird durch einen Stift geschaltet, der je nach Schaltzustand rechts oder links aus der Tretachse einen Schaltknopf vorstehen lässt.
+Könner schalten per Fersenkick auch während der Fahrt.
+Giraffe: (auch Hoch-Einrad; außerdem, wenn auch doppeldeutig: Hochrad, Stangenrad oder Eifelrad):
+Giraffen sind Einräder, bei denen die Tretachse nicht mit der Radachse identisch ist.
+Durch einen verlängerten Rahmen (Gabel und Sattelrohr) und Kettenantrieb wird die Tretachse senkrecht nach oben verschoben und liegt oberhalb des Laufrades.
+Der Fahrer sitzt somit höher, ohne dass sich für ihn der Abstand zwischen Sattel und Pedal ändert.
+Die niedrigsten Giraffen haben das Tretlager schon wenig über der Laufradoberkante und werden oftmals als Pinguin-Einräder bezeichnet.
+Mit steigender Höhe sind Giraffen zunehmend schwieriger und gefährlicher zu fahren.
+Am häufigsten sind Giraffen mit einer Sattelhöhe von 1,50 m bis 2,50 m anzutreffen, geübte Fahrer können auf diese noch frei aufsteigen.
+Die höchste je gefahrene Giraffe war 35 m hoch und wurde 2004 von Sem Abrahams gefahren.
+Für Giraffen werden meist Tretkurbeln, Innenlager und Naben aus dem Fahrradbereich verwendet, das Antriebsritzel hat meist um die 20 Zähne, das Abtriebsritzel in der Regel einen Zahn mehr oder weniger.
+Die Radachse sitzt in einem vertikalen Ausfallende und ist mit Kettenspannern versehen.
+Große Giraffen sind oft für den Transport in Einzelsegmente zerlegbar.
+Da mit zunehmender Höhe auch die mechanische Belastung auf den Rahmen steigt, werden bei Giraffen ab einer Höhe von etwa 5 Metern Gitterrohrrahmen verwendet.
+Um ein Verbiegen des Rahmens durch die Zugkraft der Kette zu vermeiden sowie um die Antriebssteifigkeit zu erhöhen, werden große Giraffen oft mit zwei parallelen Ketten und kleineren Ritzeln versehen.
+Twice: ist ein Einrad, bei dem zwei Räder übereinander montiert sind, sodass nur ein Rad den Boden berührt.
+Das obere Rad wird wie bei einem normalen Einrad über eine starre Achse, an der die Kurbeln befestigt sind, angetrieben.
+Es berührt unten die Oberseite des unteren Rades und treibt dieses durch Reifenreibung an.
+Um vorwärtszufahren, muss rückwärtsgetreten werden.
+Trice: ist die dreirädrige Version des Twice:
+Das obere Rad treibt das mittlere an, welches das untere Rad antreibt.
+Somit kann wie gewohnt vorwärtsgetreten werden, um vorwärtszufahren.
+Geared Unicycle (GUni): ein Einrad mit Übersetzung, dessen Rad sich schneller dreht als die Trittfrequenz.
+Seit 2008 ist eine spezielle Nabe mit zwei Gängen im Verhältnis 1:1 und 1:1,5 (Schnellgang) auf dem Markt.
+Damit kann vom geübten Radler auch während der Fahrt das Übersetzungsverhältnis verändert werden.
+Es wird für Rennen und Langstrecken verwendet.
+Kangaroo Einrad:
+Bei diesem sind die Kurbeln so montiert, dass sie beide in dieselbe Richtung zeigen, auch sitzt die Achse etwas exzentrisch im Rad.
+Auf dieser Konstruktion treten beide Beine nach unten und der Sattel samt Körper hebt sich dabei - dann umgekehrt.
+In Fahrt erinnert dieses Auf und Ab an das Springen eines Kängurus.
+Ultimate Wheel: Ein Einrad ohne Gabel oder Sattel, das nur aus einem Rad und Pedalen besteht, die direkt drehbar in der meist als Vollscheibe ausgelegten Felge montiert sind.
+Impossible Wheel (BC Wheel): ein Einrad ohne Gabel, Sattel, Kurbeln und Pedale.
+Der Fahrer steht und "rollt" auf Dübeln oder Metallblechen, die die Nabe auf beiden Seiten der Achse verlängern.
+Mit einem solchen puristischen Einrad kann man Coasten und Springen.
+Monocycle (oder monowheel): ein großes Rad, innerhalb dessen der Fahrer wie bei einem Hamsterrad sitzt.
+Das Rad kann entweder mittels Motor oder auch mit Hilfe von Pedalen angetrieben werden.
+Durch den höheren Drehimpuls und die tiefer liegende Masse ist das Monocycle zwar einfacher zu balancieren als ein normales Einrad, gleichzeitig aber schlechter zu manövrieren.
+Erfunden wurde dieser Typ 1869.
+Freilaufendes Einrad (freewheel/ freewheeling unicycle):
+Ein Einrad, bei dem die Nabe freilaufend montiert ist, was dazu führt, dass der Fahrer wie auf einem Fahrrad auch dann vorwärts fahren (coasten) kann, wenn er nicht in die Pedale tritt.
+Ein solches Einrad verfügt normalerweise über Bremsen, weil es nicht wie ein normales Einrad durch Krafteinwirkung auf die Pedale gestoppt werden kann.
+Auch Rückwärtsfahren ist mit einem solchen Einrad nicht möglich.
+Darüber hinaus gibt es noch Tandem-Einräder (zwei Personen hintereinander, Kettenantriebe auf das Laufrad), hydraulische Giraffen, Liege-Einräder (Recumbent Unicycle), Unibikes und motorisierte Einräder.
+Durch Anheben des nichtangetriebenen Rades werden gelegentlich auch Kunstrad, Hochrad und andere Zweiräder (per Wheelie) einrädrig gefahren.
+Große Artistik ist es, das angehobene Rad und eventuell weitere Radteile dabei noch zu demontieren.
+Bekannte Hersteller von Einrädern sind zum Beispiel: Kris Holm Unicycles (CA), Miyata (JP), Unicycle.com (Nimbus, UDC, Club, Hoppley) (US), Qu-Ax (Qu-Ax, QX, Only One) (DE), Torker / TRS (US), Coker (US), Siegmono (DE), Triton (RU/DE), Schlumpf Innovations (CH), Koxx-One / K-124 (FR), M41 / Mad4one (Mad4one, URC) (IT), Impact (FR), Onza (GB), Semcycle (US), Bedford (CA), Pichlerrad (DE), Surly (US), Schwinn (US), DM (GB), Ajata (DE), Hunter (CA), Yuni (US), LiveWire.
+Geschäftstätigkeit nach Insolvenz 2013 eingestellt Einradproduktion eingestellt, nur noch Fahrradproduktion Geschäftstätigkeit eingestellt Hersteller der Schaltbaren Getriebenabe, zwischenzeitlich auch Herstellung ganzer Einräder Geschäftstätigkeit von Unicycle.com (UK) übernommen
+Im Gegensatz zu früher, als das Einradfahren hauptsächlich von Clowns und Artisten im Zirkus betrieben wurde, hat sich Einradfahren heute zu einer stetig wachsenden Sportart entwickelt und das Einrad gewinnt auch als Fortbewegungsmittel zunehmend an Popularität.
+Das Einrad ist dadurch nicht nur mehr im Turnsaal, bei Faschingsumzügen oder im Zirkuszelt zu sehen.
+Etwa seit Beginn des 21. Jahrhunderts wandelt sich das Image des Einrades zunehmend vom Clownrequisit hin zum Trendsportgerät.
+Routinierte Einradfahrer bewegen sich auf dem Einrad so sicher wie Fußgänger und bewältigen problemlos längere Strecken.
+Insbesondere die Weiterentwicklung des Materials hin zu mehr Stabilität und einer höheren Belastbarkeit der Einradteile hat dazu beigetragen, dass verschiedene neue Varianten und Fahrstile entstehen konnten.
+Beim Einradfahren steigt der Fahrer verhältnismäßig oft unbeabsichtigt vom Rad ab ("UPD" engl.: unplanned dismount).
+Jedoch kommt es nur in den seltensten Fällen zu einem Sturz.
+Da sich die Position des Fahrers nicht wie beim Fahrrad innerhalb des Gefährts befindet, ist das Einrad bei einem Abgang nicht im Weg.
+Der Fahrer kommt in den allermeisten Fällen auf den Füßen auf, es kommt nicht zu einem Sturz.
+Das Verletzungsrisiko ist somit beim Einrad geringer als beim Fahrrad.
+Besonders während der Lernphase oder bei Ausübung gefährlicher Disziplinen (Muni, Trial etc.) sollte angemessene Schutzausrüstung benutzt werden.
+Bei einem Fall fängt man sich meist mit den Händen ab.
+Daher sind Hände und Handgelenke besonders gefährdet.
+Handschuhe mit Geleinlage schützen die Handballen beim Sturz vor Verletzungen.
+Sie sind bei manchen Einradveranstaltungen wie etwa bei Rennen vorgeschrieben und können auch fingerlos sein.
+Skating-Handschützer schienen das Handwurzelgelenk und erlauben dank Kunststoffplatte das Gleiten beim Abstützen, stören jedoch beim Halten des Einradsattels oder Sattelgriffes und sind somit nur bedingt geeignet.
+Am häufigsten werden Handschuhe mit integrierter Handgelenkstütze/ -bandage getragen.
+Ähnlich häufig sind Stürze auf die Knie oder Ellenbogen.
+Zum Schutz werden Knie- und Ellenbogenschützer aus den Bereichen Volleyball (Hockey, Rennen), Skating oder Geländeradsport (Muni, Trial) getragen.
+Bei einigen Einradveranstaltungen sind Knieschoner Pflicht.
+Besonders bei den griffigen, scharfkantigen Pedalen in den Disziplinen Trial und Muni besteht ein erhöhtes Verletzungsrisiko für die Schienbeine, weshalb hier entweder zusätzliche Schienbeinschoner oder kombinierte Knie-Schienbeinschoner getragen werden.
+Vor allem beim Offroad-Fahren (Muni) ist auch ein Helm unentbehrlicher Bestandteil der Sicherheitsausrüstung.
+Besonders bei längeren Touren ist die Belastung des Dammes und der Oberschenkelinnenseiten relativ hoch, weshalb von den meisten Fahrern gepolsterte Radhosen getragen werden.
+Freestyle ist die wohl älteste Form des fortgeschrittenen Einradfahrens, vergleichbar ist es am besten mit dem Eiskunstlauf.
+Beim Freestyle werden verschiedene Skills oder Tricks vollführt, die aus den verschiedenen Möglichkeiten auf einem Einrad zu fahren abgeleitet sind und in einer möglichst konsistenten Linie zu einem durchgängigen Ganzen in ästhetisch ansprechender Form kombiniert werden.
+Freestyle ist nicht nur ein stehender Begriff im BMX-Bereich, sondern auch die Bezeichnung für einen Wettbewerb beim Einradfahren.
+Off-Road oder Mountain Unicycling in unwegsamem Gelände ist in den späten 1980er Jahren entstanden und jene Einraddisziplin, die in den letzten Jahren wohl am stärksten gewachsen ist.
+Wer genau der Erfinder des Mountain Unicycling war, ist unklar.
+Zweifellos ist der Kanadier Kris Holm der MUni-Pionier, der am meisten zur Entwicklung des Sports beigetragen hat.
+MUni kann sehr verschiedene Formen haben, die sich meist an die Varianten des Mountainbikens anlehnen.
+So gibt es auch beim MUni Disziplinen wie Cross Country, wobei lange Distanzen abseits befestigter Wege zurückgelegt werden, oder Downhill.
+Auch Shore-Riding ist sehr beliebt:
+Die Einradversion des Mountainbike-Fahrstils aus North Shore im kanadischen British Columbia, bei dem über Knüppelwege und Holzleitern durch eine natürliche Umgebung gefahren wird.
+Generell gilt, dass mit einem MUni all die Strecken, die mit einem Mountainbike zu bewältigen sind, ebenfalls zu schaffen sind, manchmal sogar leichter, weil das Einrad wesentlich wendiger ist.
+Ein traditionelles MUni ist mit einem 2,5 bis 3 Zoll breiten Reifen mit 24 oder 26 Zoll Durchmesser und aggressivem Profil ausgestattet.
+Trial Unicycling ist dem Fahrradtrial ähnlich und hat auch seine Wurzeln in dieser Disziplin.
+Ziel beim Trial ist es, über Hindernisse zu springen oder zu fahren, ohne dabei einen Fuß oder eine Hand abzusetzen ("dabbing").
+Trial kann sowohl in einer städtischen als auch in einer natürlichen Umgebung gefahren werden, wobei beide Varianten eigene Reize, Herausforderungen und Möglichkeiten bieten.
+Ein Trial-Einrad ist traditionell ein 20"-Rad mit einer 19"-Felge, auf die ein 2,5"-Reifen montiert wird.
+Weil das Einrad durch das Springen großen Belastungen ausgesetzt ist, muss es eine besonders stabile Achse, Nabe und Kurbeln haben.
+Beim Street Unicycling (oder von den Einradfahrern oft einfach als "Street" bezeichnet) handelt es sich um einen Fahrstil, bei dem Elemente aus Freestyle und Trials kombiniert werden und der Fahrer die Objekte, die er in einer städtischen Umgebung findet, wie etwa Randsteine, Absätze, Treppen oder Geländer, verwendet, um verschiedene Tricks zu vollführen.
+Typische Street-Elemente sind Crankflips, Unispins und Twists.
+Diese Tricks können in verschiedenen Varianten kombiniert werden und die Bewegungen können auch beim Überwinden von Hindernissen wie Treppen ("stair sets") oder Geländern ("rail grinding") vollführt werden.
+Beispiele für Varianten sind etwa der Hickflip, ein 180 Grad Unispin kombiniert mit einem Crankflip oder ein 180 Flip, der gleichzeitig ein 180 Twist und ein Crankflip ist.
+Im Allgemeinen wird Street auf einem 20"-Trial-Einrad mit einigen Modifikationen gefahren.
+Als Begründer des Street Unicycling gilt der amerikanische Einradfahrer Dan Heaton.
+Wichtige Beiträge lieferten Mike Clark als Erfinder des Crankflip, Brian Lundgren als Erfinder des Backflip und Shaun Johanneson.
+Flatland ist eine relativ junge Form des Einradfahrens, die sich aus einer Kombination aus Street und Freestyle entwickelt hat.
+Laut Definition folgt es den gleichen Regeln wie Freestyle: der Fahrer versucht auf ebenem Untergrund verschiedene Tricks und Bewegungen.
+Beim Flatland kommt jedoch ein gewisses urbanes Flair dazu.
+Oft wird dabei versucht, verschiedene Moves in einer Kombination oder Line zu fahren.
+Die Ursprünge von Flatland gehen auf Dan Heaton zurück, der einen neuen Fahrstil kreierte, nachdem er sich bei einem Einradunfall beide Knöchel gebrochen hatte.
+In letzter Zeit tragen Fahrer wie Adrien Delecroix (Kris Holm) und Krisztian Kovacs (Impact) zur Weiterentwicklung von Flatland bei.
+Auch für Flatland wird normalerweise ein modifiziertes 20"-Trial-Einrad verwendet.
+Einradrennen ist vergleichbar mit Leichtathletik.
+Die Wettkämpfe werden üblicherweise auf Tartanbahn ausgetragen.
+Gefahren werden Rennen über verschiedene Distanzen von 50 m bis 800 m oder 10 km.
+Neben normalem Fahren werden auch Rennen mit nur einem Bein, auf dem Reifen laufend, jonglierend oder ohne Sattel (Drag Seat) ausgetragen.
+Zusätzlich gibt es einen Hütchenparcours (IUF Slalom/ Obstacle) sowie Wettbewerbe im langsam fahren auf einem schmalen Holzbalken.
+Gefahren werden üblicherweise 24-Zoll-Einräder mit schmalen Reifen.
+Der Maximale Raddurchmesser und die minimale Kurbellänge sind vorgeschrieben.
+Bei dieser Disziplin geht es um das Fahren langer Strecken.
+Mit einem Raddurchmesser von 29 bis 36 Zoll lassen sich leicht Geschwindigkeiten von bis zu 30 km/h erreichen.
+Um als Touring-Einrad zu gelten, muss ein Einrad mindestens 26 Zoll Raddurchmesser aufweisen.
+Übliche Distanzen für Rennen sind 10 km und Marathon (42,195 km), es können aber auch andere Strecken vorkommen, so wurde bei der Unicon 16. in Brixen zum Beispiel ein 100 km Rennen ausgetragen, in dem Einzelstarter und Gruppen antreten konnten.
+Einrad-Basketball wird mit einem normalen Basketball auf einem regulären Basketballfeld nach herkömmlichen Regeln gespielt, so muss der Ball etwa beim Fahren gedribbelt werden.
+Darüber hinaus gibt es einige Zusatzregeln:
+Beispielsweise muss der Spieler zumindest einen Fuß auf dem Pedal haben, wenn er den Ball wirft.
+Einrad-Basketball wird normalerweise mit 24"-Einrädern, oder kleineren Rädern und Plastikpedalen gespielt, um den Platz und die Schienbeine der Spieler zu schonen.
+Das beste Einrad-Basketball-Team der Welt kommt derzeit aus Puerto Rico.
+Es hat bei den letzten Weltmeisterschaften durchweg gewonnen.
+Einrad-Hockey wird im Großen und Ganzen nach den Eishockey- beziehungsweise Inlinehockey-Regeln gespielt.
+Dazu werden Eishockeyschläger und ein Tennisball oder Streethockeyball verwendet.
+Im Gegensatz zum Eishockey hat der Tormann beim Einrad-Hockey die gleichen Rechte wie die Feldspieler, darf den Ball also nicht mit der Hand fangen.
+Körperberührungen sind verboten.
+Der Sport gewinnt zusehends an Popularität; in Deutschland, der Schweiz und Großbritannien gibt es aktive Einrad-Hockey-Ligen.
+Bei der Freestyle-Kür werden ähnlich wie beim Eiskunstlauf zur Musik Tricks in einer einstudierten Abfolge gezeigt, die von einer Jury benotet werden.
+Neben Paar- und Gruppenküren gibt es diese Disziplin auch als Einzelbewerb.
+In die Bewertung zählen neben der Schwierigkeit der gezeigten Tricks auch die Sicherheit, mit der sie gefahren werden, und Aspekte der Präsentation wie Kostüm, Musik und Publikumskontakt.
+Vor allem Einradfahrer aus Japan haben diesen Bewerb in den letzten Jahren durch einen eleganten, tänzerischen Stil mit flüssig aufeinander folgenden Tricks und vielen Pirouetten weiterentwickelt und geprägt.
+Das Mannschaftseinradfahren, auch Reigen genannt, gehört zur Abteilung des Kunstradfahrens und stellt das Pendant zum Vierer- und Sechser-Kunstradfahren dar.
+In dieser Disziplin geht es um Synchronizität und Ästhetik.
+Eine Mannschaft aus vier oder sechs Personen muss dabei auf dem Einrad 23 (20 bei Schülern) verschiedene Figuren innerhalb von 5 Minuten auf einer Fläche von 11 auf 14 Metern vorzeigen.
+Diese Figuren werden je nach Schwierigkeitsgrad mit Punkten bewertet.
+Bei Fehlern werden Punkte abgezogen.
+Sieger ist, wer die meisten Punkte ausfährt.
+Im Abstand von zwei Jahren findet die Unicon genannte Weltmeisterschaft im Einradfahren statt, die von der International Unicycling Federation (IUF) ausgerichtet wird.
+In den Zwischenjahren wird die Europameisterschaft Unioec (Unicycle open european championship) ausgetragen.
+Jährlich findet die Offene Deutsche Meisterschaft im Einradfahren statt.
+Hier dürfen alle Einradfahrer in den Disziplinen Einradrennen (Tartanbahn und Straße), Einradfreestyle (Standard Skill, Einradkür, Flat und Street), Einraddownhill und Einradtrial starten.
+Das German MUni and Trial Weekend (GMTW) findet jährlich am Osterwochenende statt.
+Einradfahrer aus vielen Ländern treffen sich zum gemeinsamen Einradfahren und messen sich in verschiedenen Gelände- und Trialdisziplinen wie Hoch- und Weitsprung, Trialparcours oder Downhill.
+Außerdem gibt es für die Disziplinen Trial, Street, Flat und Downhill die EUC (Extreme Unicycling Championship), welche als Winter-, Sommer- oder Downhilledition ausgetragen wird.
+Auch im Rahmen verschiedener Jonglierconventions und Treffen von Einradfahrern finden oft Wettkämpfe in Disziplinen wie Einradrennen und Einradküren statt.
+Marathon wurde mehrere Jahre im Rahmenprogramm des Düsseldorf-Marathons gefahren, an dem die Deutsche Einrad-Marathon-Meisterschaft abgehalten wurde.
+Es war die einzige Marathonveranstaltung in Europa, bei der Einradfahrer teilnehmen durften und offiziell gewertet wurden.
+Nach 2014 wurde Einradfahrern (und Handbikefahrern) die Teilnahme nicht mehr gestattet, offiziell aus Sicherheitsgründen.
+Seit 2014 bietet indes der damals erstmals ausgetragene kleine Erfurt-Marathon eine offizielle Teilnahme an.
+Dieser Marathon führt zum Teil über Crosslauf-ähnliches Gelände, und die Strecke wird in der Innenstadt nicht abgesperrt, so dass die Veranstaltung und die dort erreichten Zeiten nur eingeschränkt mit dem Düsseldorf-Marathon zu vergleichen sind.
+Seit 2017 haben auch der Europamarathon in Görlitz sowie der Lausitzer Seenland 100 in Großräschen Einradmarathon in ihr Programm aufgenommen.
+Inzwischen bieten auch einige Mountainbike-Veranstaltungen Einradwertungen an.
+So beispielsweise die Salzkammergut Trophy, bei der ein Cross Country Marathon sowie die Österreichischen Staatsmeisterschaften im Muni-Downhill ausgetragen werden, oder der Erzgebirgs-Bike-Marathon.
+Beide sind Teil der europäischen Muni-Rennserie Taste of Mud ist.
+Das weltweit erste Einradrennen in mehreren Etappen fand im Juni 2008 in Nova Scotia in Kanada statt.
+Bei dem Rennen, das nach dem Hummerreichtum der Region "Ride the Lobster" genannt wurde, nahmen 35 Teams aus 14 Ländern teil.
+Jedes Team bestand aus drei Fahrern und einer Begleitperson.
+Insgesamt wurde bei dem Rennen innerhalb von fünf Tagen eine Distanz von 800 Kilometern zurückgelegt.
+Einradrennen werden in unterschiedlichen Disziplinen ausgetragen, die weltweit anerkannt sind:
+(*) (bei "w") Rekorde von Frauen/Mädchen, die besser als der entsprechende Rekord eines Mannes/Burschens sind.
+Mit Stand 15. Februar 2021 sind das:
+Quelle: IUF Weltrekordliste
+Viele dieser Tricks können noch zusätzlich erschwert werden, indem man sie rückwärts, seitwärts oder einbeinig, eine Acht oder einen Kreis fährt etc.
+1998 wurden vom Internationalen Einradverband IUF die Skill-Levels, ein Klassensystem zur Einordnung des Könnens eines Einradfahrers, eingeführt.
+Die Skill-Levels reichen von 0 (blutiger Anfänger) bis 10 (Profi) und sind von ihrer Art her in etwa vergleichbar mit den Kyu im japanischen Kampfsport.
+Einradfahrer die an Skill-Level-Prüfungen teilnehmen erhalten einen Pass, in dem ihre erreichten Skill-Level von einem offiziellen Skill-Prüfer eingetragen werden.
+Um ein Skill-Level zu erreichen, muss eine Skill-Level-Prüfung vor einem offiziellen Prüfer abgelegt werde.
+Diese Prüfungen sind vergleichbar mit den Gürtelprüfungen im Kampfsport: Alle zum erreichen einer Stufe nötigen Tricks müssen nacheinander vorgeführt werden und müssen beim ersten Versuch fehlerfrei ausgeführt werden, maximal drei Tricks dürfen beim zweiten Versuch erst gelingen.
+Einräder gibt es üblicherweise von 12 Zoll bis 36 Zoll Raddurchmesser.
+Der verwendete Raddurchmesser richtet sich in erster Linie nach dem Einsatzgebiet.
+Standardgröße für die meisten Fahrer, besonders auch bei Anfängern, ist 20 Zoll.
+Allgemein gelten dabei folgende Abhängigkeiten:
+Es ist wichtig, dass der Abstand zwischen Pedal und Sattel an die Körpergröße des Fahrers angepasst ist.
+Ein zu tiefer Sattel und falsche Fußstellung können zu Knieschmerzen führen.
+Die optimale Höhe hat der Sattel, wenn der Fahrer auf dem Einrad sitzt und - um das Pedal an der tiefsten Stelle zu erreichen - das Knie nur leicht gebeugt, das Bein also beinahe durchgestreckt ist.
+Das Pedal sollte dabei mit den Fußballen und nicht mit dem Mittelfuß getreten werden.
+Das Rad gilt als eine der wichtigsten Erfindungen der Menschheit und stammt ursprünglich wahrscheinlich aus Mesopotamien, wo es im fünften Jahrtausend vor Christus erfunden wurde.
+Um das Jahr 1817 hat Karl Drais in Mannheim ein Zweirad erfunden, das schon bald unter dem Namen Draisine bekannt wurde und bei dem sich der Fahrer mit den Füßen am Boden abstoßen musste, um vorwärtszukommen.
+Das erste Zweirad, das nicht mittels Laufbewegungen, sondern mit Hilfe von Tretkurbeln angetrieben werden konnte, wurde der Legende nach im Jahr 1861 von Pierre Michaux in Paris erfunden.
+Ein ähnlicher Entwurf wurde im Jahr 1866 von Pierre Lallement in den USA patentiert.
+Bei diesen Veloziped genannten Entwicklungen waren die Pedalkurbeln fix an der Vorderachse montiert.
+Bei diesen Fahrrädern mit Vorderradantrieb entsprach eine Drehung der Pedale - konstruktionsbedingt wie beim Einrad - dem zurückgelegten Umfang des Vorderrads.
+Um mit diesem Antrieb höhere Geschwindigkeiten fahren zu können, musste das Vorderrad vergrößert werden.
+Gleichzeitig wurde um das Jahr 1870 der Durchmesser des Hinterrades verkleinert - das Hochrad war erfunden.
+Das Hochrad stellt den Vorfahren des heutigen Einrads dar.
+Das Einrad entstand einer Theorie zufolge Ende des 19. Jahrhunderts aus dem damals populären Hochrad.
+Da das Hinterrad immer kleiner wurde, spielte es schon bald nur noch als Stützrad eine Rolle.
+Schließlich erkannten die Hochradfahrer, dass man das kleinere Hinterrad anheben und letztlich auf dieses verzichten konnte, um nur auf dem Vorderrad zu fahren.
+Das Einrad war geboren.
+Sehr vereinzelt als Kunstobjekte oder Prototypen gibt es auch Motoreinräder, etwa das RIOT wheel, das Jake Lyall für das Burning-Man-Festival gebaut hat.
+Lediglich Einräder der Bauform Monowheel, bei denen der Fahrer im Rad sitzt, werden seit 1904 immer wieder einmal gebaut.
+Aktuell werden diverse Einräder mit Elektroantrieb entwickelt:
+Unechte Einräder:
+Das Einrad gilt als Sport- und Spielgerät im Sinne des § 24 Abs. 1 der StVO (Vergleichbar zu Inline-Skatern).
+Danach darf es nur auf Gehwegen, in Fußgängerzonen und in Spielstraßen fahren.
+Auf Fußgänger muss Rücksicht genommen werden.
+Wenn es nach §§ 63-67 StVZO mit Licht, Reflektoren, Klingel und Bremse ausgestattet ist, darf auch auf der Straße gefahren werden.
+Bei Einrädern handelt es sich nach der Gesetzeslage in Österreich grundsätzlich nicht um Fahrräder, wobei es gemäß § 68 Abs. 3 lit a StVO 1960 auch verboten wäre, auf einem Fahrrad freihändig zu fahren.
+Es handelt sich vielmehr um fahrzeugähnliche Bewegungsmittel, deren Verwendung ein "Spielen" im Sinne des § 88 StVO 1960 darstellt.
+Deren Verwendung ist daher auf der Fahrbahn verboten und auch auf Gehsteigen oder Gehwegen verboten, falls hierdurch der Verkehr auf der Fahrbahn oder Fußgänger gefährdet oder behindert werden.
+Da Einräder keine Lenk- und Bremsvorrichtungen aufweisen, wird von einer derartigen Gefährdung in der Regel ausgegangen, auch wenn - gute Beherrschung vorausgesetzt - ein Einrad besser manövrierbar ist als ein Fahrrad.
+Dies wird damit begründet, dass Benutzer von Einrädern auch unvermutet und unkontrolliert auf die Fahrbahn gelangen könnten.
+In Wohnstraßen ist die Benutzung eines Einrades erlaubt.
+In der Schweiz gelten Einräder als fahrzeugähnliche Geräte.
+Gemäß Art.
+50 Verkehrsregelnverordnung dürfen sie auf Trottoirs, Radwegen, auf Straßen in Tempo 30 Zonen, sowie auf Nebenstraßen (falls Radwege und Trottoirs fehlen und bei geringem Verkehrsaufkommen) benutzt werden.
+Es gelten grundsätzlich die gleichen Verkehrsregeln wie für Fußgänger.
+Aufgrund der vielen Einraddisziplinen und oft noch Einteilung nach Altersgruppen gibt es unter Einradfahrern sehr viele Titel- und sogar Weltmeistertitelträger.
+Als Nischensportart hat das Einradfahren sich bisher aber schwer getan, Fahrer hervorzubringen, die durch ihre Leistungen auch außerhalb der Szene bekannt geworden sind, abgesehen von kurzzeitiger Kenntnisnahme durch Fernsehauftritte.
+Einer der bekanntesten Einradfahrer in der Szene dürfte hingegen Kris Holm (* 1973) sein, ein professioneller kanadischer Trial- und MUni-Fahrer (Trial-Weltmeister 1999, Downhill-Weltmeister 2002), der auch durch die von ihm gegründete gleichnamige Qualitätsmarke für Einräder und Zubehör namhaft geworden bzw. geblieben ist.
+Der bekannteste deutsche Einradfahrer ist der sechsfache Weltrekordhalter Lutz Eichholz, der in Zahlreichen Fernsehshows zu sehen ist und auch in Asien ein Star ist.
+Auch der Österreicher David Weichenberger ist immer wieder in Zeitschriften und Fernsehen zu sehen.
+Als erster Mensch der die Welt auf einem Einrad Umrundete erlangte auch der Brite Ed Pratt Bekanntheit außerhalb der Szene.
+Daneben gibt es einen großen Kreis bekannter Persönlichkeiten, die auch Einrad fahren oder gefahren sind.
+Dazu gehören Sportler (die es zum Teil auch als Gleichgewichtstraining nutzen), so die Skifahrer Franz Klammer, Franz Weber, Ingemar Stenmark und Bode Miller, und die Formel-1-Fahrer Mika Häkkinen, Dave Kennedy, Lewis Hamilton, Nico Rosberg und Jean-Eric Vergne, ferner US-Basketballer Miles Plumlee, American-Football-Profi Steve Young und Profi-Skateboarder Rodney Mullen.
+Weitere bekannte Einradler sind z. B. der ehemalige US-Verteidigungsminister Donald Rumsfeld und der Mathematiker Claude Shannon, Schauspieler Johnny Depp, Ulrich Mühe, Leslie Mann, Patrick Dempsey, Gigi Edgley und Harry Potters "Ron" Rupert Grint, die Take-That-Mitglieder Mark Owen, Jason Orange, Howard Donald, die für ihr "Clown Medley" auch auf der Bühne Einrad fuhren, US-Comedians Demetri Martin und Eddie Izzard, Reggae-Musiker Peter Tosh und sein Sohn Andrew Tosh, Ex-Monkee-Gitarrist Michael Nesmith und Coldplay-Sänger Chris Martin sowie Bassist Victor Wooten.

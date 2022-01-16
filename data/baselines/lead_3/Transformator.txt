@@ -1,0 +1,3 @@
+Ein Transformator (von lateinisch transformare ,umformen, umwandeln'; auch Umspanner, kurz Trafo) ist ein Bauelement der Elektrotechnik.
+Er besteht meist aus zwei oder mehr Spulen (Wicklungen), die in der Regel aus isoliertem Kupferdraht gewickelt sind und sich auf einem gemeinsamen Magnetkern befinden.
+Ein Transformator wandelt eine Eingangswechselspannung, die an einer der Spulen angelegt ist, in eine Ausgangswechselspannung um, die an der anderen Spule abgegriffen werden kann.

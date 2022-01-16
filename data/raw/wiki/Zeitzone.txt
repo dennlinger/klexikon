@@ -1,0 +1,281 @@
+Eine Zeitzone ist ein sich auf der Erde zwischen Süd und Nord erstreckendes, aus mehreren Staaten (und Teilen von größeren Staaten) bestehendes Gebiet, in denen die gleiche, staatlich geregelte Uhrzeit, also die gleiche Zonenzeit, gilt (siehe nebenstehende Abbildung).
+
+Die Zeitzonen basieren auf 15° breiten, die Erdoberfläche zwischen ihren Polen bedeckenden Kugelzweiecken (siehe untere Abbildung), denen je eine der 24 Stunden, die ein Tag lang ist, als Uhrzeit zugewiesen ist.
+
+Die tatsächlichen Zeitzonen weichen davon aber meistens stark ab, weil die Grenzen der sie bildenden Gebiete kaum Meridianen folgen.
+Sie haben vielmehr ausgefranste östliche und westliche Grenzen.
+In ihnen kann die örtliche mittlere Sonnenzeit von der Zonenzeit (entspricht mittlerer Sonnenzeit auf Bezugsmeridian in Kugelzweieck-Mitte) mehr als idealerweise eine halbe Stunde abweichen.
+Die Abweichung ändert sich um eine (oder mehrere) Stunden, wenn als gesetzliche Zeit nicht die der passenden Zeitzone, sondern die einer benachbarten (oder weiter entfernten) Zeitzone gewählt ist.
+Frankreich und Spanien benutzen beispielsweise die Mitteleuropäische Zeit (MEZ, Bezugsmeridian 15° Ost) und haben somit die mitteleuropäische Zeitzone weit nach Westen "ausgebaucht".
+Aufgrund ihrer geographischen Lage wäre eigentlich die westeuropäische Zeitzone mit der Westeuropäischen Zeit (Bezugsmeridian 0°) für diese Länder passender.
+Im Nordwesten von Spanien (geographische Länge etwa 9° West) ist die Abweichung der mitteleuropäischen Zonenzeit von der mittleren Sonnenzeit mit etwa 1 Stunde 36 Minuten am größten.
+
+Die tatsächlichen Zeitzonen können auch unzusammenhängend sein; das ergibt sich in Asien z. B. daraus, dass sich die in ganz China gültige gesetzliche Zeit über fünf 15° breite Zeitzonen erstreckt, während Sibirien und das südliche Asien regulär unterteilt sind.
+
+Es gibt auch Staaten, die keine der 24 auf den Meridian von Greenwich bezogenen Zonenzeiten benutzen und eine eigene (in Nord-Süd-Richtung begrenzte) Zeitzone bilden:
+
+Zeitzonen, die sich als gleich breite Kugelzweiecke von Pol zu Pol der Erde erstrecken, existieren nur über den Ozeanen außerhalb der Küstengewässer einzelner Staaten.
+
+Bei einer Sommerzeitregelung verwendet man während des Sommerhalbjahrs die Zonenzeit der östlich angrenzenden Zeitzone, z. B. in Mitteleuropa anstelle der auf den 15. Längengrad östlich von Greenwich bezogenen Mitteleuropäischen Zeit (MEZ) die auf den 30. Längengrad östlich von Greenwich bezogene Mitteleuropäische Sommerzeit (MESZ), die mit der Osteuropäischen Zeit übereinstimmt.
+
+== Kugelzweiecke und tatsächliche Zeitzonen
+
+=== Kugelzweiecke
+
+Eines von 24 gleichen Kugelzweiecken erstreckt sich von Pol zu Pol über je 7 Längengrade zu beiden Seiten seines mittleren Längengrads.
+Diese Mitten sind ein ganzes Vielfaches von 15° mit Bezug auf den Nullmeridian von Greenwich.
+24 gleiche Kugelzweiecke hätten als Zeitzonen folgende Vorteile:
+
+=== Tatsächliche Zeitzonen
+
+Eine tatsächliche Zeitzone ist die Summe aus allen Staaten und Staatenteilen mit gleicher gewählter Zonenzeit und aus Gebieten der Ozeane, die oft als Kugelzweiecke oder Teile davon hinzugezählt werden.
+
+Eine tatsächliche Zeitzone zeichnet sich zunächst einmal dadurch aus, dass die westlichen und östlichen Grenzen der betroffenen Staaten keinem Längengrad folgen.
+Zudem hat die enge Bindung an die Sonnenzeit nicht immer Priorität vor Traditionen, wirtschaftlichen Rücksichten oder kulturellen Bindungen an Nachbarstaaten.
+Folglich kann die Uhrzeit einer, bezogen auf die Sonnenzeit, benachbarten oder weiter entfernten Zeitzone als gesetzliche Zeit gewählt sein.
+Eine tatsächliche Zeitzone mit bereits ausgefransten Rändern ist somit gelegentlich zusätzlich stückweise in Ost-West-Richtung versetzt und ist nicht immer ein in Nord-Süd-Richtung zusammenhängender Streifen.
+Am ehesten ist sie über den Ozeanen ein längerer Teil eines Kugelzweiecks, weil sie hier nicht für innerstaatliche Zwecke, sondern von der Schiff- und Luftfahrt und vom Militär (zum Beispiel von der NATO, siehe DTG) benutzt wird.
+
+Umgangssprachlich kann mit dem Begriff Zeitzone auch nur das Gebiet eines Staates gemeint sein, anstatt dieses Gebiet als einer Zeitzone zugehörig zu bezeichnen.
+Weitere Verwirrung entsteht, wenn die Begriffe Zeitzone und Zonenzeit synonym verwendet werden.
+Manche Staaten verwenden nicht eine der 24 Uhrzeiten aus dem auf den Greenwicher Meridian bezogenen Raster.
+Sie benutzen eine Uhrzeit dazwischen und schaffen damit eine an ihrer Süd- und Nordgrenze endende Zeitzone (zum Beispiel Indien).
+
+Staaten mit großer Ost-West-Ausdehnung haben in der Regel mehrere Uhrzeiten (zum Beispiel die Vereinigten Staaten, Kanada und Russland).
+Sie unterteilen ihr Gebiet mehr oder weniger in Anlehnung an Kugelzweiecke.
+Es können doppelt oder mehrfach breite innerstaatliche Zeitzonen gebildet sein (so in Russland von 2010 bis 2014).
+Oder im Staat wird nur eine einzige Uhrzeit verwendet wie in der Volksrepublik China, die sich eigentlich über eine Breite von fünf Zeitzonen erstreckt und in der Zeit von 1912 bis 1949 auch in diese fünf innerstaatlichen Zeitzonen aufgeteilt war.
+Durch die heutige Situation grenzt China an mehrere Länder mit verschiedenen anderen Zonenzeiten.
+Der größte Zeitsprung an einer Zeitzonen-Grenze ergibt sich dabei mit 3,5 Stunden an der Grenze zwischen der VR China und Afghanistan.
+
+Die Zonenzeiten wurden relativ zur Greenwich Mean Time gebildet.
+In moderner, u. a. gesetzlicher Definition werden sie auf die Koordinierte Weltzeit (Zeitzone UTC+/-0) bezogen, von der die Greenwich Mean Time höchstens 0,9 Sekunden abweichen kann (siehe Schaltsekunde).
+Beispielhafte Bezeichnungen sind UTC+1h (Mitteleuropäische Zeit MEZ) oder UTC-3:30h (Newfoundland Standard Time).
+Da der Sprachgebrauch nicht immer eindeutig ist, wird eine Zonenzeit UTC+/-x manchmal auch als Zeitzone bezeichnet.
+
+== Weltkarte mit Zeitzonen und Zonenzeiten
+
+Die folgende Karte (identisch mit erster Abbildung ganz oben) zeigt die durch die staatlichen Grenzen und die individuelle staatliche Wahl einer oder mehrerer Zonenzeiten entstandenen tatsächlichen Zeitzonen.
+
+Es gibt mehr als 24 Zeitzonen, da
+
+Die gesetzlichen Uhrzeiten (Zonenzeiten, auch Standardzeiten oder Normalzeiten) der tatsächlichen Zeitzonen sind häufig nicht optimal:
+
+== Entstehung der Zonenzeiten
+
+Ursprünglich hatte jeder Ort seine eigene als Ortszeit bezeichnete Uhrzeit, die sich nach dem täglichen Gang der Sonne richtete:
+Wenn die Sonne im Süden ihren höchsten Stand über dem Horizont erreichte, war es 12 Uhr.
+Reisende richteten sich nach der Ortszeit des jeweils erreichten Ortes.
+Mit der Einführung der Telegrafie und dem Bau längerer Eisenbahnstrecken wurde für deren Betrieb eine einheitliche Zeitangabe erforderlich, die entlang der gesamten Infrastruktur galt.
+Hierfür wählte man oft die Ortszeit einer größeren Stadt an der Strecke oder auch die Ortszeit der Landeshauptstadt.
+Solche im Gebiet einer Eisenbahngesellschaft oder auch im ganzen Land einheitlichen Zeiten wurden Standardzeit genannt.
+Beispiele sind die Berliner, Hamburger, Münchener, Prager, Berner und Genfer Zeit.
+Die in der ersten Hälfte des 19. Jahrhunderts eingeführte Telegrafie ermöglichte es, die Standardzeit an alle Bahnhöfe zur Steuerung der Bahnhofsuhren zu übermitteln.
+Unübersichtlich war die Situation an Bahnhöfen, an denen mehrere Eisenbahnlinien endeten.
+Genf war Durchgangsstation für eine französische (Lyon-Lausanne) und Endstation für eine aus Bern kommende Eisenbahnlinie und hatte die Pariser Zeit und die Berner Zeit neben der örtlichen Genfer Zeit.
+In der Mitte des 19. Jahrhunderts wurde in fast allen europäischen Ländern eine einheitliche Standardzeit festgelegt.
+Dazu wählte man meistens die Ortszeit eines zentral gelegenen astronomischen Observatoriums, vorzugsweise in der jeweiligen Landeshauptstadt.
+
+Die späteren systematischen Zonenzeiten wurden erstmals nicht von Staaten, sondern von den nordamerikanischen Eisenbahngesellschaften 1883 eingeführt.
+Die quer über den Kontinent geführten Eisenbahnstrecken erforderten mehrere Standardzeiten.
+Die Gebiete wurden in vier Zeitzonen mit sich um ganze Stunden unterscheidenden Standardzeiten unterteilt.
+Die USA und Kanada konnten diese Zeitzonen und Zonenzeiten später in ihre staatlichen Regelungen übernehmen, denn die gewählten Bezugslängengrade waren bereits ganzzahlige Vielfache von 15° mit Bezug auf den Greenwicher Meridian (75°, 90°, 105° und 120° West).
+Das weltweite systematische Zeitzonensystem war eine Folge der internationalen Vereinbarung des Greenwicher Meridians als Nullmeridian auf der Internationalen Meridiankonferenz im bereits nächsten Jahr (1884) in Washington.
+Der für die Kartografie wichtige Nullmeridian diente folglich nach amerikanischem Vorbild direkt als Bezugsmeridian für die westeuropäische Zeitzone und indirekt für alle 24 weltweiten Zeitzonen.
+
+=== Einführung der MEZ in Deutschland
+
+Im Deutschen Reich wurde mit dem Zeitgesetz (Gesetz betreffend die Einführung einer einheitlichen Zeitbestimmung) von 1893 die mittlere Mitteleuropäische Zeit (MEZ) als gesetzliche Zeit verankert.
+
+Zuvor galten in den einzelnen Ländern individuelle Zeiten, in Bayern beispielsweise die Münchner Zeit, die gegenüber der in ganz Preußen geltenden Berliner Zeit sieben Minuten (entsprechend etwa zwei Längengraden) nachging.
+Die Münchner Zeit ging auch 23 Minuten gegenüber der damals gültigen Zeit im Königreich Württemberg vor.
+
+Vorreiter einer einheitlichen Zeit waren auch in Deutschland die Eisenbahnen.
+Die Preußischen Staatseisenbahnen verwendeten auf dem Gebiet des ehemaligen Norddeutschen Bundes ab den 1880er Jahren die Berliner Zeit als interne Betriebszeit, die süddeutschen Bahnen jedoch bereits die spätere MEZ.
+1890 einigten sich die im Verein Deutscher Eisenbahnverwaltungen organisierten Staatsbahnen auf die MEZ als gemeinsame Betriebszeit.
+
+Ab dem 1. April 1892 wurde die MEZ für die Südländer Baden, Bayern und Württemberg als allgemeine Zeit im Alltag verbindlich.
+Mit dem Inkrafttreten des erwähnten Zeitgesetzes galt sie ein Jahr später für das gesamte Reichsgebiet (Umstellung am 1. April 1893).
+
+=== Einführung der MEZ in Österreich
+
+Anders als in den meisten anderen Ländern wurde in Österreich Mitte des 19. Jahrhunderts nicht die Zeit der Hauptstadt Wien (16° östlicher Länge), sondern die Prager Zeit (14,5° östlicher Länge) verwendet.
+Im Eisenbahnbereich wurden jedoch neben der Prager, je nach Strecke, die Lindauer, Münchner, Budapester oder Lemberger Zeit verwendet.
+Seit dem 1. August 1872 bildete der Wiener Meridian die Grundlage für die Zeitbestimmung des Zugverkehrs.
+Die Wiener Mittagszeit wurde von der Universitätssternwarte an die Wiener Bahnhöfe telegrafisch signalisiert, von denen das Mittagszeichen an die Hinterbahnen telegrafisch weitergegeben wurde.
+
+Die Mitteleuropäische Zeit MEZ wurde im österreichischen Eisenbahn- und Telegraphendienst 1891 und in Wien durch Beschluss des Gemeinderats 1910 eingeführt.
+Eine gesetzliche Verordnung wie in Deutschland erfolgte nicht.
+Für das damalige Österreich, die Doppelmonarchie Österreich-Ungarn mit einer Ausdehnung vom etwa 9. bis 23. Längengrad war das ein gutes Mittel.
+Da der Unterschied zur Prager Zeit weniger als zwei Minuten betrug, war die Umstellung, zumindest für die Hauptstädter, nicht sehr groß.
+
+=== Einführung der MEZ in der Schweiz
+
+In der Schweiz wurde mit der Gründung des Bundesstaates schon 1848 die Berner Zeit als einheitliche Zeit eingeführt.
+Ab 1859 erfolgte die Ermittlung in der neuen Sternwarte Neuenburg, wurde aber weiterhin in Berner Ortszeit umgerechnet verbreitet.
+Zumindest in einigen Orten wurde parallel die eigene Ortszeit weiter verwendet, so hatte der Genfer Inselturm beispielsweise um 1880 drei Uhren:
+Die rechte zeigte die Berner Zeit, die mittlere zeigte die Ortszeit (Berner Zeit -5 Minuten) und die linke zeigte die Zeit von Paris beziehungsweise die der Bahnlinie nach Paris (Berner Zeit -20 Minuten).
+
+Bedingt durch die Einführung der MEZ in Deutschland und Österreich erließ der (kantonale) Berner Regierungsrat am 18. Mai 1894 eine Weisung, nach der "zur Vermeidung einer verwirrenden Zweispaltigkeit der Zeitbestimmung diese mitteleuropäische Zeit auch für das bürgerliche und amtliche Leben eingeführt wird, und es sollten sämtliche öffentlichen Uhren (Kirchenuhren und andere) auf den 1. Juni nächsthin um 30 Minuten vorgerückt werden".
+Die runde Zahl 30 ergab sich, weil Bern 7,5° östliche Länge hat.
+Der Wechsel der Berner wurde von den anderen Kantonen zum selben Datum mitgemacht.
+
+== Zonenzeiten heute
+
+Zu Lande obliegt es den jeweiligen Staaten, ihre Zeitrechnung gesetzlich zu regeln.
+Die internationale Harmonisierung basiert auf Zusammenarbeit der internationalen und nationalen Zeitinstitute und zwischenstaatlichen Verträgen.
+
+Auf den Weltmeeren und im Luftraum, wie auch in der Raumfahrt gelten die Usancen und Standards der internationalen See-, Luft- und Raumfahrt, die über die meist aus dem militärischen Bereich kommenden nationalen oder supranationalen Verbindlichkeiten wie zum Beispiel die Nautical time (NATO) geregelt sind.
+Bei Ost-West- oder West-Ost-Reisen an Bord eines Schiffes wird die Zeitumstellung recht willkürlich gehandhabt und die Tage, an denen eine Umstellung erfolgt, den betrieblichen Erfordernissen an Bord entsprechend festgelegt.
+In der Regel wird an einem Tag maximal eine Stunde umgestellt.
+Der Tag, an dem das geschieht, muss nicht zwingend mit dem Queren der geographischen Grenze zwischen zwei Zeitzonen zusammenfallen.
+Die Uhr wird in der Regel in mehreren Schritten während der Nacht umgestellt, um die dadurch bedingte Mehr- beziehungsweise Minderarbeit auf alle Wachen gleichmäßig zu verteilen.
+
+=== Länder, die mehr als einer Zeitzone angehören
+
+Die hier aufgeführten Länder erstrecken sich entweder über mehrere Zeitzonen und/oder haben Überseebesitzungen in anderen Zeitzonen.
+Nicht berücksichtigt sind gegebenenfalls international umstrittene Besitzansprüche in der Antarktis und durch Sommerzeiten bedingte Abweichungen.
+
+Die Vereinigten Staaten, Kanada, Russland, Brasilien, Mexiko, Indonesien, die Mongolei, die Europäische Union und Australien haben wegen der großen Ost-West-Ausdehnung mehrere Zonenzeiten.
+Die Volksrepublik China hat dagegen heute nur noch eine (s. u.).
+
+=== Länder mit spezifischen Zonenzeiten
+
+Länder mit spezifischen Zonenzeiten, deren Abweichungen zur UTC bzw. zu den Zonenzeiten benachbarter Länder keine vollen Stunden betragen, sind z. B. der Iran (UTC+3:30h), Afghanistan (UTC+4:30h), Indien (UTC+5:30h), Sri Lanka (UTC+5:30h), Nepal (UTC+5:45h), Myanmar (UTC+6:30h), in Australien das Bundesterritorium Northern Territory sowie der Bundesstaat South Australia (UTC+9:30h), die Kokosinseln (UTC+6:30), die Lord-Howe-Insel (UTC+10:30), die Chatham-Inseln (UTC+12:45h), teilweise Französisch-Polynesien (UTC-9:30), teilweise Neufundland und Labrador (UTC-3:30).
+Zum 9. Dezember 2007 wurden die Uhren auch in Venezuela (zuvor UTC-4h) um eine halbe Stunde zurückgestellt (Venezuelan Standard Time VST, UTC-4:30h); seit dem 1. Mai 2016 gilt wieder UTC-4h.
+Die Gründe für diese Sonderfälle sind meist die geographische Lage zwischen zwei Zeitzonen, wie auch historischer oder politischer Natur.
+
+=== Politisch motivierte Wahl von Zonenzeiten
+
+Die meisten Länder der Europäischen Union haben die MEZ.
+Dass auch große Staaten im Gebrauch mehrerer Zonenzeiten keinen Nachteil sehen, zeigen zum Beispiel die USA und Russland, und so sind für das Gebiet der EU die bisher üblichen drei Zonenzeiten relativ zur Sonnenzeit durchaus passend.
+
+Frankreich und Spanien hatten allerdings schon vor dem europäischen Einigungsbestreben - Frankreich seit der deutschen Besatzung 1940, Spanien seit einem Erlass Francos aus dem Jahr 1942 - anstatt der passenderen Westeuropäischen Zeit (WEZ) die MEZ, die dort bereits mit Normalzeit erheblich von der Sonnenzeit abweicht, so dass z. B. der wahre Mittag im Westen Spaniens erst ungefähr um 13:40 Uhr stattfindet.
+Spanien hatte sich bis 1942, als Diktator Franco die Angleichung der Zeit an Deutschland und Italien verfügte, in der gleichen Zeitzone wie das Nachbarland Portugal befunden; es gibt (Stand: 2013) dort Bestrebungen, wieder zur UTC+/-0h zurückzukehren.
+Eine spanische parlamentarische Kommission etwa konstatierte im September 2013, Spanien habe sich (mit allen negativen Begleiterscheinungen) "für mehr als 71 Jahre nicht in der richtigen Zeitzone befunden", und empfahl dementsprechend die Umstellung.
+Die Diskrepanz zwischen der Sonne und der Uhrzeit sei laut einem Kommissionsmitglied der Grund, warum in Spanien etwa die Mahlzeiten deutlich später stattfinden als im europäischen Durchschnitt: "Wir essen nach dem Sonnenstand um ein Uhr zu Mittag und um acht zu Abend, aber die Uhr sagt 3 Uhr und 10 Uhr."
+
+In der Volksrepublik China - deren Territorium geografisch fünf Zeitzonen (UTC+5h bis UTC+9h) berührt - entschied die Regierung, ab (etwa) 1949 nur eine einzige Zeit (UTC+8h) zu benutzen.
+Diese passt gut zur Hauptstadt Peking und zu Shanghai.
+Im westlichsten Zipfel von China ist wahrer Mittag um 15 Uhr, im östlichsten um 11 Uhr.
+
+In Nepal gilt UTC+5:45h, um sich vom großen Nachbarn Indien (UTC+5:30h) abzugrenzen.
+
+In Kuba wurde 2004 aufgrund einer massiven Energiekrise beschlossen, in der Sommerzeit zu verbleiben.
+Kuba hatte bis Herbst 2006 ganzjährig UTC-4h anstatt der geographisch "richtigen" UTC-5h.
+
+1964 wechselte Venezuela von UT-4:30h zu UT-4h.
+Am 9. Dezember 2007 wurde unter Hugo Chavez die geographisch günstigere UTC-4:30h wieder eingeführt.
+Das war auch politisch motiviert als Unterscheidung von den Gepflogenheiten in den großen amerikanischen Nachbarstaaten.
+Seit dem 1. Mai 2016 gilt wieder die Zeit UTC-4h, dies unter anderem in der Hoffnung, den Stromverbrauch reduzieren zu können.
+
+In der Vergangenheit wurde oft einem besetzten Land die Zonenzeit der Besatzer aufgezwungen.
+So wurde Frankreich 1940 unter der deutschen Besatzung im Zweiten Weltkrieg von WEZ auf MEZ umgestellt.
+Auch in den Niederlanden führte sie die MEZ ein.
+Hier hatte seit 1909 die Amsterdamer Zeit gegolten (auch Niederländische Zeit): ursprünglich UT+0:19h, seit 17. März 1937 auf UT+0:20h gerundet.
+
+1942 eroberte Japan im Zuge des Pazifikkriegs die Malaiische Halbinsel.
+Malaysia wurde unter japanischer Besatzung 1942 von UT+7:30h auf UT+9h umgestellt.
+
+Im März 2014 kam es auf der Krim zum Referendum über den Status der Krim und deren Aufnahme in die Russische Föderation (siehe Krimkrise).
+In der Nacht zum 30. März 2014 wurde die bislang auf der Krim verwendete Uhrzeit UTC+2h der Moskauer Zeit, damals UTC+4h (heute jedoch: UTC+3h) angepasst (d. h. die Uhren wurden um zwei Stunden vorgestellt).
+
+Nordkorea kündigte Anfang August 2015 an, zum 70. Jahrestag der Unabhängigkeit von der japanischen Kolonialherrschaft am 15. August 2015 eine eigene Pjöngjanger Zeit mit UTC+8:30h einzuführen.
+Begründet wurde die Änderung in den staatlichen nordkoreanischen Medien als Revision eines Relikts der Kolonialzeit, Zitat: "Die boshaften japanischen Imperialisten verübten unverzeihliche Verbrechen, wie etwa Korea sogar seine Standardzeit zu nehmen." Tatsächlich hatte (Gesamt-)Korea seit 1908 UT+8:30h und wurde 1912 (2 Jahre nach der Eingliederung in das Japanische Kaiserreich ab 1910) auf japanische Zeit UT+9h umgestellt.
+Nordkorea behielt nach der Unabhängigkeit (1945) diese Zeit bei, während Südkorea - jedoch nur zwischen 1945 und 1961 - zur vor der Kolonisierung gültigen Zeit zurückwechselte.
+Nach dem Nord-Süd-Korea-Spitzentreffen Ende April 2018 kehrte Nordkorea zum 5. Mai 2018 wieder zu UTC+9h zurück und ist damit wieder in derselben Zeitzone wie Südkorea.
+
+== Sommerzeit
+
+Einige Länder der gemäßigten Zonen stellen die Uhrzeit im Frühling eine Stunde vor, im Herbst wieder zurück.
+So gilt im deutschsprachigen Raum im Winter die MEZ (UTC+1h) (Normalzeit), in den Sommermonaten jedoch die mitteleuropäische Sommerzeit (MESZ, UTC+2h).
+
+Die Uhrzeitumstellung hat sich nicht überall bewährt und wurde von Regierung wie Bevölkerung nicht überall widerspruchslos hingenommen.
+In der Schweiz wurde die sommerliche Uhrzeitumstellung vom Volk zwar abgelehnt, später dann aber dennoch eingeführt, um keine Zeitinsel zu bilden.
+Die Sommerzeit wurde in einigen Gebieten der Welt wieder abgeschafft.
+In jüngerer Vergangenheit wurde in Russland (mehrere Zeitzonen, 2011), Chile (2015) und der Türkei (2016) nicht mehr zur Normalzeit zurückgewechselt.
+Die vorherige Sommerzeit wurde zur ganzjährig geltenden Zeit erklärt, was faktisch einen Wechsel in die jeweils nächstöstlichere Zeitzone bedeutet.
+In Russland wurde dieser Schritt im Oktober 2014 jedoch wieder rückgängig gemacht; seitdem gilt dort wieder ganzjährig die angestammte Normalzeit.
+
+Die beiden Wechseltermine sind in den EU-Ländern gleich.
+Andere Staaten verwenden zum Teil andere Termine, so dass die Zeitdifferenz zwischen den EU-Ländern und anderen Ländern um +/- 1 Stunde schwanken kann.
+
+Auf der Südhalbkugel (z. B. in Teilen Australiens) wird von Sommerzeit auf Normalzeit umgestellt, wenn auf der Nordhalbkugel von Normalzeit auf Sommerzeit gewechselt wird und umgekehrt.
+Die Zeitdifferenz von den dortigen Ländern zu Europa schwankt während des Jahres um +/- 2 Stunden.
+Bei anderen Umstellterminen als in den EU-Ländern ändert sie sich kurzzeitig nur um +/- 1 Stunde.
+
+== Liste der Zonenzeiten
+
+Außer der Bezeichnung der Zonenzeiten in Relation zur UTC gibt es andere Bezeichnungen und zugehörige Abkürzungen, die nicht verbindlich sind.
+Die Abkürzungen können mehrdeutig sein.
+Z. B. kann "ECT" bedeuten:
+
+Mehrere Uhrenhersteller sind dazu übergegangen, die dreistelligen IATA-Flughafencodes zu benutzen, z. B. LAX = Los Angeles International Airport, CA, USA, gemeint ist die Pacific Standard Time, die in Kalifornien im Winter gilt.
+
+Innerhalb der NATO werden Zeitangaben gemäß DTG mit Buchstaben von A bis Z gekennzeichnet.
+
+Hinweis: Die Liste erhebt keinen Anspruch auf Vollständigkeit und Aktualität.
+
+=== Zonenzeit UTC-12h bis UTC-9h 30min
+
+Regionen mit einem Stern (*) verwenden eine Sommerzeit.
+
+=== Zonenzeit UTC-9h bis UTC-6h
+
+Regionen mit einem Stern (*) verwenden eine Sommerzeit.
+
+=== Zonenzeit UTC-5h bis UTC-4h
+
+Länder mit einem Stern (*) verwenden eine Sommerzeit und liegen auf der Nordhalbkugel.
+Länder mit zwei Sternen (**) verwenden auch eine Sommerzeit, liegen aber auf der Südhalbkugel.
+
+=== Zonenzeit UTC-3h 30min bis UTC-1h
+
+Länder mit einem Stern (*) verwenden eine Sommerzeit und liegen auf der Nordhalbkugel.
+Länder mit zwei Sternen (**) verwenden auch eine Sommerzeit, liegen aber auf der Südhalbkugel.
+
+=== Zonenzeit UTC bis UTC+3h
+
+Länder mit einem Stern (*) verwenden eine Sommerzeit und liegen auf der Nordhalbkugel.
+
+=== Zonenzeit UTC+3h 30min bis UTC+5h
+
+Regionen mit einem Stern (*) verwenden eine Sommerzeit.
+
+=== Zonenzeit UTC+5h 30min bis UTC+6h 30min
+
+Regionen mit einem Stern (*) verwenden eine Sommerzeit.
+
+=== Zonenzeit UTC+7h bis UTC+9h
+
+Länder mit einem Stern (*) verwenden eine Sommerzeit und liegen auf der Nordhalbkugel.
+Länder mit zwei Sternen (**) verwenden auch eine Sommerzeit, liegen aber auf der Südhalbkugel.
+
+=== Zonenzeit UTC+9h 30min bis UTC+11h
+
+Länder mit einem Stern (*) verwenden eine Sommerzeit und liegen auf der Nordhalbkugel.
+Länder mit zwei Sternen (**) verwenden auch eine Sommerzeit, liegen aber auf der Südhalbkugel.
+
+=== Zonenzeit UTC+12h bis UTC+14h
+
+Länder mit einem Stern (*) verwenden eine Sommerzeit und liegen auf der Nordhalbkugel.
+Länder mit zwei Sternen (**) verwenden auch eine Sommerzeit, liegen aber auf der Südhalbkugel.
+
+== Historische Daten
+
+Eine viel benutzte Quelle für historische Wechsel der Zeitzonen (wie auch der Sommerzeit-Regelungen) ist The International Atlas von Thomas Shanks und Rique Pottenger sowie Edward Whitmans World Time Differences.
+Das halbjährlich aktualisierte Standard Schedules Information Manual des Luftfahrtverbandes IATA gibt ebenfalls über Zeitzonen Auskunft.
+
+Die Internet Assigned Numbers Authority führt auf ihrer Webseite eine weltweit gültige, stets aktualisierte und von Computern lesbare Liste sämtlicher Zeitzonen und Sommerzeiten.
+Damit zum Beispiel für wissenschaftliche Zwecke Zeitspannen auch über Zeitzonen-Wechsel hinweg korrekt berechnet werden , sind darin auch historische Zeitzonen-Regelungen angegeben (z. B. der Wechsel der Niederlande von GMT + 19 min 32,15 s zu GMT + 20 min und schließlich zur MEZ sowie der Wechsel der Krim zur Moskauer Zeit).
+
+== Siehe auch
+
+== Literatur
+
+Grundlagen der Zeitsysteme:
+
+== Weblinks
+
+== Einzelnachweise
+

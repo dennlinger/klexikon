@@ -1,0 +1,4 @@
+Ein Viereck (auch Tetragon, Quadrangel oder Quadrilateral) ist eine Figur der ebenen Geometrie, nämlich ein Vieleck mit vier Ecken und vier Seiten.
+Analog zu Dreiecken ist auch eine Verallgemeinerung des Vierecksbegriffes auf nichteuklidische Geometrien (gekrümmte Vierecke) möglich.
+In der projektiven Geometrie spielen vollständige Vierecke und die dazu dualen vollständigen Vierseite eine wichtige Rolle.
+In der endlichen Geometrie werden Inzidenzeigenschaften des Vierecks zur Definition des Begriffs "Verallgemeinertes Viereck" verwendet.

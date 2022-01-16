@@ -1,0 +1,33 @@
+Neben fest und flüssig ist gasförmig einer der drei klassischen Aggregatzustände.
+Eine Substanz ist dann ein Gas, wenn sich ihre Teilchen in großem Abstand voneinander frei bewegen und den verfügbaren Raum gleichmäßig ausfüllen.
+Im Vergleich zum Festkörper oder zur Flüssigkeit nimmt die gleiche Masse als Gas unter Normalbedingungen den rund tausend- bis zweitausendfachen Raum ein.
+Zusammen mit den Flüssigkeiten zählen Gase zu den Fluiden.
+Die Herkunft des Wortes Gas war lange Zeit unklar.
+Zwar war mehr oder weniger bekannt, dass das Wort als Fachbegriff im 17. Jahrhundert durch den flämischen Arzt und Naturforscher Johan Baptista van Helmont (+ 1644) in Brüssel eingeführt wurde, über die Etymologie bestand jedoch Unsicherheit, und es wurde Herkunft u. a. aus dem Hebräischen, aus niederl.
+geest ("Geist"), aus niederl. gisten ("gären") oder aus deutsch gäsen (bei Paracelsus für "gären"), gäscht ("Schaum" auf gärender Flüssigkeit) vermutet.
+Die Klärung wurde 1859 durch den Sprachwissenschaftler Matthias de Vries herbeigeführt, der eine Aussage aus van Helmonts Ortus Medicinae (Amsterdam 1648) beibrachte, wonach dieser das Wort speziell für den durch Kälte entstandenen Dunst des Wassers bewusst neugeschaffen und hierbei eine Anlehnung an das griechische, im Niederländischen sehr ähnlich ausgesprochene Wort ao ("Chaos") bezweckt hatte: "ideo paradoxi licentia, in nominis egestate, halitum illum gas vocavi, non longe a chao veterum secretum" ("In Ermangelung eines Namens habe ich mir die Freiheit zum Ungewöhnlichen genommen, diesen Hauch Gas zu nennen, da er sich vom Chaos der Alten nur wenig unterscheidet.").
+Der Aggregatzustand "gasförmig" entsteht aus der "festen" oder "flüssigen" Form durch Energiezufuhr (Wärme).
+Für einige Elemente und Verbindungen genügen bereits die Standardbedingungen (Temperatur 20 °C, Druck 101325 Pa), um als Gas vorzuliegen; bei ausreichend hohen Temperaturen wird jedoch jede Materie in den gasförmigen Zustand versetzt.
+Die dabei zugeführte Energie wird zur Bewegungsenergie der einzelnen Teilchen (je nach Temperatur mit Geschwindigkeiten im Bereich um 500 m/s), was den gasförmigen Zustand mit vollständigem Ausfüllen des vorgegebenen Raumes mit statistischer Gleichverteilung der Gasteilchen bewirkt.
+Hierbei strebt das Gesamtsystem den Zustand höchster Entropie an (zweiter Hauptsatz der Thermodynamik).
+Dass dies der wahrscheinlichste Zustand ist, kann man auf folgende Weise anschaulich machen:
+Unterteilt man gedanklich das einem Gas zur Verfügung stehende Volumen in Raumzellen von etwa der Größe eines Moleküls, dann gibt es viel mehr Möglichkeiten, die Moleküle auf die vielen Zellen des ganzen Volumens zu verteilen als auf einen kleinen Bruchteil.
+Der Makrozustand der raumerfüllenden Verteilung weist die meisten Anordnungsmöglichkeiten (Mikrozustände) für die Teilchen auf und damit auch die höchste Entropie.
+Die Zahl der Mikrozustände, das statistische Gewicht, kann berechnet werden.
+Genaueres unter Entropie (Thermodynamik) /Beispiele.
+Bei idealen Gasen ist die freie Beweglichkeit der einzelnen Teilchen entsprechend der kinetischen Gastheorie vollkommen; dieser Zustand wird erst bei hohen Temperaturen gegenüber dem Siedepunkt erreicht (was z. B. für Wasserstoff und Helium bereits bei Zimmertemperatur gilt).
+Füllt man ein beliebiges ideales Gas in ein vorgegebenes Volumen, so befindet sich bei gleichem Druck und gleicher Temperatur darin immer die gleiche Anzahl Teilchen (Atome oder Moleküle), d. h. unabhängig von der Masse jedes Teilchens und somit unabhängig von der Art des Gases.
+Quantitativ ausgedrückt beansprucht bei Normalbedingungen ein Mol (das sind nach Avogadro 6,022 x 1023 Teilchen) jedes beliebigen Gases einen Raum von 22,4 Litern (siehe auch Molares Volumen und Loschmidt-Konstante).
+Bei realen Gasen sind noch mehr oder weniger große Anziehungskräfte der Teilchen untereinander wirksam (Van-der-Waals-Kräfte).
+Der Unterschied ist beim Komprimieren bemerkbar:
+Gase sind kompressibel, das Volumen idealer Gase ist umgekehrt proportional zum Druck (Zustandsgleichung).
+Reale Gase weichen von den vorstehend beschriebenen Gesetzmäßigkeiten mehr oder weniger ab.
+Gase besitzen auch Eigenschaften von Flüssigkeiten:
+Sie fließen und widerstehen Deformationen nicht, obgleich sie viskos sind.
+Den Übergang vom flüssigen in den gasförmigen Aggregatzustand bezeichnet man als Verdampfung (oberhalb des Siedepunktes) oder Verdunstung (unterhalb des Siedepunktes), den umgekehrten Übergang vom gasförmigen in den flüssigen Aggregatzustand als Kondensation.
+Der direkte Übergang vom festen in den gasförmigen Aggregatzustand ist die Sublimation, der umgekehrte Übergang vom gasförmigen in den festen Aggregatzustand heißt Resublimation.
+Um eine möglichst große Menge an Gas in einem Behälter zu speichern, also eine hohe Dichte zu erhalten, wird das Gas stark komprimiert (siehe auch Druckgas).
+Zwecks hoher Druckbelastbarkeit der Gasbehälter werden meist zylinderförmige oder kugelförmige Druckbehälter (z. B. Gasflaschen) eingesetzt.
+Gaskessel oder Gasometer sind Niederdruckspeicher mit großem geometrischen Volumen.
+Aufgrund des geringen Drucks (< 1 bar) ist die gespeicherte Menge aber unbedeutend.
+Gasversorger speichern das Gas üblicherweise im Leitungsnetz (Gasnetz), indem sie Hochdruckleitungen großer Nennweite einsetzen.

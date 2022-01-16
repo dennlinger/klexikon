@@ -1,0 +1,14 @@
+Beschleunigung ist in der Physik die Änderung des Bewegungszustands eines Körpers.
+Als physikalische Größe ist die Beschleunigung die momentane zeitliche Änderungsrate der Geschwindigkeit.
+Sie ist eine vektorielle, also gerichtete Größe.
+Die Beschleunigung ist, neben dem Ort und der Geschwindigkeit, eine zentrale Größe in der Kinematik, einem Teilgebiet der Mechanik.
+In der Umgangssprache bezeichnet Beschleunigung oft nur eine Steigerung des "Tempos", also des Betrags der Geschwindigkeit.
+Im physikalischen Sinn ist aber jede Änderung einer Bewegung eine Beschleunigung, z. B. auch eine Abnahme des Geschwindigkeitsbetrages - wie ein Bremsvorgang - oder eine reine Richtungsänderung bei gleichbleibendem Geschwindigkeitsbetrag - wie bei einer Kurvenfahrt mit einem Auto.
+Darüber hinaus gibt es in Physik und Technischer Mechanik Begriffe wie Zentripetalbeschleunigung oder Gravitationsbeschleunigung o. ä., mit denen diejenige Beschleunigung bezeichnet wird, die sich in der Bewegung des Körpers zeigen würde, wenn ausschließlich die im Begriff genannte Kraft einwirkte.
+Ob und wie der Körper tatsächlich beschleunigt wird, hängt aber allein von der Vektorsumme aller auf ihn wirkenden Kräfte ab.
+Die SI-Einheit der Beschleunigung ist m/ s2.
+Bei einer Beschleunigung von 1 m/s2 verändert sich die Geschwindigkeit pro Sekunde um 1 m/ s.
+In den Geowissenschaften ist daneben auch die Einheit Gal für 0,01 m/s2 gebräuchlich.
+Beschleunigungen kommen bei allen realen Bewegungsvorgängen, z. B. von Fahrzeugen, Flugzeugen oder Aufzügen, vor.
+Durch die mit ihnen auftretende Trägheitskraft wirken sie sich mehr oder weniger deutlich auf beförderte Menschen und Sachen aus.
+Für Kreisbewegungen ist analog die Winkelbeschleunigung als Änderung der Winkelgeschwindigkeit, also die zweite zeitliche Ableitung eines Winkels, definiert.

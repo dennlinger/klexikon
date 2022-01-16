@@ -1,0 +1,16 @@
+Eine Primzahl (von lateinisch numerus primus ,erste Zahl') ist eine natürliche Zahl, die größer als 1 und ausschließlich durch sich selbst und durch 1 teilbar ist.
+Dabei bedeutet primus speziell "Anfang, das Erste (der Dinge)", sodass eine "Anfangszahl" gemeint ist, die aus keiner anderen (vorhergehenden) Zahl multiplikativ konstruiert werden kann.
+Die Menge der Primzahlen wird in der Regel mit dem Symbol P {\displaystyle \mathbb {P} } bezeichnet.
+Mit P {\displaystyle \mathbb {P} } verknüpft ist die Folge ( p n ) n  N {\displaystyle \left(p_{n}\right)_{n\in \mathbb {N} }} der nach ihrer Größe geordneten Primzahlen, die man auch Primzahlfolge nennt.
+Es ist demnach
+mit
+Die Bedeutung der Primzahlen P {\displaystyle \mathbb {P} } für viele Bereiche der Mathematik beruht auf drei Folgerungen aus ihrer Definition:
+Diese Eigenschaften werden in der Algebra für Verallgemeinerungen des Primzahlbegriffs genutzt.
+Eine Zahl, die das Produkt von zwei oder mehr Primfaktoren ist, nennt man zusammengesetzt.
+Die Zahl 1 ist weder prim noch zusammengesetzt, was mit ihrer Invertierbarkeit zusammenhängt.
+Alle anderen natürlichen Zahlen sind eines von beiden, entweder prim (also Primzahl) oder zusammengesetzt.
+Schon im antiken Griechenland interessierte man sich für die Primzahlen und entdeckte einige ihrer Eigenschaften.
+Obwohl Primzahlen seit damals stets einen großen Reiz auf die Menschen ausübten, sind viele die Primzahlen betreffenden Fragen bis heute ungeklärt, darunter solche, die mehr als hundert Jahre alt und leicht verständlich formulierbar sind.
+Dazu gehören die Goldbachsche Vermutung, wonach außer 2 jede gerade Zahl als Summe zweier Primzahlen darstellbar ist, und die Vermutung, dass es unendlich viele Primzahlzwillinge gibt (das sind Paare von Primzahlen, deren Differenz gleich 2 ist).
+Primzahlen und ihre Eigenschaften spielen in der Kryptographie eine große Rolle, weil Primfaktoren auch mit dem Aufkommen elektronischer Rechenmaschinen nicht wirklich effizient gefunden werden können.
+Andererseits ermöglichen diese Maschinen eine effiziente Verschlüsselung sowie, wenn man den Schlüssel kennt, Entschlüsselung auch langer Texte.

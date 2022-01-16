@@ -1,0 +1,364 @@
+Der Regenbogen ist ein atmosphärisch-optisches Phänomen, das als kreisbogenförmiges farbiges Lichtband in einer von der Sonne beschienenen Regenwand oder -wolke wahrgenommen wird.
+Sein radialer Farbverlauf ist das mehr oder weniger verweißlichte Spektrum des Sonnenlichts.
+Das Sonnenlicht wird beim Ein- und beim Austritt an jedem annähernd kugelförmigen Regentropfen abgelenkt und in Licht mehrerer Farben zerlegt.
+Dazwischen wird es an der Tropfenrückseite reflektiert.
+Das jeden Tropfen verlassende Licht ist in farbigen Schichten konzentriert, die aufeinandergesteckte dünne Kegelmäntel bilden.
+Der Beobachter hat die Regenwolke vor sich und die Sonne im Rücken.
+Ihn erreicht Licht einer bestimmten Farbe aus Regentropfen, die sich auf einem schmalen Kreisbogen (einem Farbstreifen des Regenbogens) am Himmel befinden.
+Der Beobachtungswinkel ist identisch mit dem Winkel des Kegelmantels, in dem diese Farbe beim Austritt am Regentropfen konzentriert ist.
+
+Bei guten Lichtverhältnissen vor der Regenwand ist über dem kräftigen Hauptregenbogen ein Nebenregenbogen sichtbar.
+Dieser ist infolge der zweifachen Reflexion des Lichtes in den Wassertropfen lichtschwächer und hat die umgekehrte Farbfolge.
+
+== Charakter des Sonnenlichts und Zusammenfassung der Regenbogenentstehung (Hauptregenbogen)
+
+Das Sonnenlicht ist ein kleiner Teil des Spektrums aller elektromagnetischen Wellen.
+Bei hochstehender Sonne erreichen alle Anteile des Sonnenspektrums die Erdoberfläche und ihre Mischung wird als weißliches Tageslicht wahrgenommen.
+Bei tiefstehender Sonne ist die Lichtfarbe rötlicher, da der kurzwellige blaue Anteil des Sonnenspektrums in der Atmosphäre stärker gestreut wird als der langwellige rote, was zum Beispiel zu Morgenrot führt.
+
+Die Farben des Regenbogens entstehen durch Brechung des Sonnenlichts in den Wassertropfen, wobei dieses wie in einem Prisma wellenlängenabhängig unterschiedlich stark abgelenkt wird.
+Im Regenbogen sind im Allgemeinen die Farben weniger rein und weniger deutlich voneinander getrennt als im zum Beispiel mit Hilfe eines Prismenspektroskops erzeugten Lichtspektrum.
+Ursache ist die teilweise Mischung der beim Eintritt in den Wassertropfen getrennten farbigen Lichter durch ihre innere Reflexion an unterschiedlichen Stellen der kugelförmigen Tropfenfläche und ihre erneute Ablenkung beim Austritt.
+Farbig gleiche Lichtstrahlen aus benachbarten Eingangsstrahlen können vereinigt werden, wobei sie sich durch Interferenz verstärken oder auslöschen können.
+
+Das während oder kurz nach einem Regenereignis parallel auf die fallenden, eng benachbarten Regentropfen wie auf eine Wand treffende Sonnenlicht wird durch jeden von ihnen in einem Kegelmantel konzentriert gegen die Sonne zurückgeworfen.
+Ein solcher Kegel besteht aus ineinander steckenden Kegeln unterschiedlicher Kegelwinkel für die unterschiedlichen Lichtfarben.
+Beim Hauptregenbogen mit einmaliger innerer Reflexion hat der weniger abgelenkte äußere rote Lichtkegel einen Winkel von etwa zweimal 42°, der stärker abgelenkte innere blaue einen Winkel von etwa zweimal 40,2°.
+
+Blickt der Beobachter zur "Regenwand", so empfängt er rotes Licht aus Tropfen, die sich von ihm aus gesehen ebenfalls auf einem Kegelmantel mit einem Winkel von etwa zweimal 42° befinden.
+Der Beobachter befindet sich in der Spitze dieses Kegels, dessen Achse von der Sonne durch den Beobachter zum Sonnengegenpunkt führt.
+Das blaue Licht am inneren Rand des Regenbogens kommt aus Tropfen, die sich auf einem Kegelmantel mit einem Winkel von etwa zweimal 40,2° befinden.
+Aus jedem Tropfen stammt jeweils nur ein Kegelmantelstrahl, der beim Beobachter ankommt.
+Weil die Zahl der Regentropfen aber unvorstellbar groß ist, kommt ein aus farbigen Streifen bestehender Regenbogen in auffallender Helligkeit zustande.
+
+== Strahlengang im Regentropfen
+
+Der Hauptregenbogen entsteht durch Sonnenlicht, das in einen kugelförmigen Wassertropfen eindringt, im Innern einmal reflektiert wird und dann wieder aus dem Tropfen austritt.
+
+Wenn  i {\displaystyle \theta _{i} } der Eintrittswinkel, Winkel zur Senkrechten, ist und  r {\displaystyle \theta _{r} } der Winkel zur Senkrechten im Wassertropfen dann gilt nach dem Brechungsgesetz
+
+Dabei ist n (  ) {\displaystyle n(\lambda ) } der von der Wellenlänge des Lichts  {\displaystyle \lambda } abhängige Brechungsindex des Wassers.
+
+Der Winkel zur Senkrechten beim Eintritt innerhalb des Tropfens, der entsprechende Winkel bei der Reflexion und auch beim Austritt aus dem Tropfen  r {\displaystyle \theta _{r} } tritt in gleichschenkligen Dreiecken mit zwei Seitenlängen gleich dem Radius des Tropfens auf.
+Diese Winkel sind daher alle identisch.
+
+Die gesamte Winkeländerung beim Durchgang durch den Tropfen ergibt damit als
+
+Maximale Intensität tritt auf, wenn der Winkel der gesamten Ablenkung sich bei Variation des Einfallswinkels nicht ändert.
+Dies geschieht, wenn die Ableitung nach dem Eintrittswinkel null wird, also
+
+Diese Bedingung ist für den Winkel  gesamt  180  - 42  {\displaystyle \delta _{\text{gesamt}}\approx 180^{\circ }-42^{\circ }} erfüllt.
+
+=== Mehrere Reflexionen
+
+Der Nebenbogen entsteht bei zwei Reflexionen innerhalb des Tropfens.
+Die Winkeländerung kann völlig analog für eine beliebige Zahl an Reflexionen k = 1, 2, 3, ... berechnet werden:
+
+Maximale Intensität tritt beim Eintrittswinkel
+
+auf , bei dem die Ableitung der Gesamtablenkung nach dem Einfallswinkel gleich null ist.
+
+=== Reflexion, Brechung und Dispersion an einem Regentropfen
+
+Ein Regentropfen ist transparent und während des Falls in guter Näherung eine kleine Kugel.
+Die Abbildung links zeigt den Weg eines Sonnenstrahls durch einen Regentropfen.
+Beim Ein- und Austritt sind die am Tropfenrand reflektierten Teile und bei der inneren Reflexion die austretenden Teile des Strahls nicht gezeichnet.
+Diese Strahlteile sind an der Entstehung des Regenbogens nicht beteiligt, sie reduzieren lediglich dessen Intensität.
+
+Beim Eintritt werden die verschiedenen farblichen Anteile des Sonnenstrahls nach dem farbabhängigen Brechungsgesetz verschieden stark abgelenkt, rot am wenigsten, violett am stärksten.
+Innerhalb des Tropfens werden die entstandenen Farbstrahlen an nicht genau gleichen Stellen der kugelförmigen Rückwand reflektiert.
+Ihr Austritt erfolgt ebenfalls nicht an einer einzigen, genau gleichen Stelle am Tropfenrand.
+Die erneute Ablenkung durch Brechung ist zudem noch von der Farbe jedes Teilstrahls abhängig.
+
+In der Abbildung rechts ist gezeigt, wie das gesamte einen Tropfen passierende Licht an der Mantelfläche eines Kegels konzentriert von diesem zurückgeworfen wird.
+Zur Förderung der Übersichtlichkeit ist der Vorgang für rotes Licht, das heißt nur für eine der im Sonnenlicht enthaltene Farben, dargestellt.
+Die Bilder für die anderen Farben weichen geringfügig davon ab.
+Typischer Unterschied ist der Winkel des begrenzenden Kegelmantels (Regenbogenwinkel: 2 mal 42° für Rot; 2 mal 40,2° für Blau).
+Die Darstellung ist ein Schnitt durch Tropfen- und Kugelmitte.
+Um die horizontal gezeichnete Mittenachse besteht Rotationssymmetrie.
+
+=== Farbige Lichter aus vielen Regentropfen werden als Regenbogen gesehen
+
+Die Abbildung rechts zeigt die Winkelbeziehungen zwischen Beobachter, Regentropfen und Sonne.
+Da der in den Tropfen eintretende und der den Beobachter passierende Sonnenstrahl parallel sind, schneidet ein Strahl zwischen Regenbogen und Beobachter beide Sonnenstrahlen unter gleichen Wechselwinkeln.
+Im Bild sieht der Beobachter einen aus einem Tropfen austretenden roten Strahl (Wechselwinkel 42°).
+Um die Linie zwischen Beobachter und Sonnen-Gegenpunkt besteht bezüglich Licht aus weiteren Regentropfen Rotationssymmetrie.
+Die ihn aus vielen Tropfen erreichenden Lichtstrahlen befinden sich auf einem Kegelmantel mit gleichen Öffnungswinkel wie der Öffnungswinkel der Kegelmantel-Spots der Regentropfen.
+
+In der Abbildung links sind im unteren Teil zwei am Hauptregenbogen beteiligte Regentropfen markiert (einmalige innerer Reflexion; die markierten Tropfen darüber betreffen den Nebenregenbogen, siehe folgenden Abschnitt).
+Vom Licht aus dem blauen Kegelmantel-Spot (unterer Tropfen) und aus dem roten Kegelmantel-Spot (Tropfen darüber) erreichen kleine Ausschnitte den Beobachter.
+Die Wassertropfen sind übertrieben groß gezeichnet.
+In Realität wird jede Lichtfarbe aus vielen kleinen eng beieinander und hintereinander liegenden Tropfen und von nahezu unendlich vielen auf einem kreisförmigen Band liegenden Tropfen gesehen.
+Die Helligkeit ist beschränkt, weil trotz Lichtkonzentration in Kegelmänteln nur kleine Ausschnitte von ihnen gesehen werden.
+
+Die Vorstellung, dass gemäß Abbildung links oben eigentlich Blau die oberste Farbe im Hauptbogen sein müsste, ist irrig.
+Da Blau auf einem spitzeren Kelmantel-Spot austritt, sind die Tropfen, die für einen Beobachter das Blau liefern, dem Zentrum des Regenbogens näher.
+
+Die Auffächerung des Hauptregenbogens durch Dispersion beträgt zwischen Rot und Blau etwa 1,8°.
+Wegen der räumlichen Ausdehnung der Sonne von etwa 0,5° beträgt die Breite jeder Farbe ebenfalls etwa 0,5°.
+Diese Unschärfe liegt deutlich unter der Auffächerung, weshalb der Beobachter noch eine relativ reine rote äußere Farbe sieht.
+Die anderen Farben sind durch Mischung weniger gesättigt beziehungsweise rein.
+Die Addition der endlichen Sonnenausdehnung und der Auffächerung ergibt die Gesamtbreite des Hauptregenbogens von etwa 2,2°.
+Bei einer Entfernung des Regenschauers von 1 km sind Regentropfen über eine radiale Strecke von etwa 35 m am Regenbogen beteiligt.
+
+Von der Erdoberfläche aus gesehen kann der Regenbogen im Maximum nur ein Halbkreis sein (Scheinbare Größe von Höhe 42 Grad, Breite 84 Grad).
+Er tritt bei im Horizont stehender Sonne auf.
+Der Mittelpunkt des Halbkreises ist die im Gegen-Horizont stehende Gegen-Sonne.
+Bei höher stehender Sonne wird der Regenbogen kleiner.
+Da sich jetzt sein Mittelpunkt unter dem Horizont befindet, wird der Scheitel zum Orientierungspunkt.
+Im Scheitel ist in der Regel der Regenbogen auch am deutlichsten ausgeprägt.
+Falls an einer bestimmten Stelle keine Regentropfen vorhanden sind, hat der Regenbogen dort eine Lücke.
+
+Wenn die Sonne höher als 42° steht, liegt auch der Scheitelpunkt des Bogens unter dem Horizont und kann so nur mehr von einem erhöhten Beobachtungsort aus gesehen werden, zum Beispiel beim Blick von der Spitze eines Berges oder Turmes auf eine tiefer liegende Regenwand (siehe Bild links).
+
+Um einen zum Kreis geschlossenen Hauptregenbogen sehen zu können, müssen Regentropfen in voller radialer Ausdehnung um den Sonnengegenpunkt vorhanden sein und von der Sonne beschienen werden.
+Diese Möglichkeit besteht im Allgemeinen nur von einem Flugzeug oder einem Ballon aus (siehe Bild rechts).
+
+== Nebenregenbögen und Sonderformen
+
+=== Nebenregenbogen
+
+Bisher wurden Sonnenstrahlen betrachtet, die einmal im Inneren der Regentropfen reflektiert werden.
+Der oberhalb des Hauptbogens sichtbare Nebenregenbogen entsteht aus dem kleineren Lichtanteil, der erst nach zwei inneren Reflexionen die Tropfen verlässt.
+Er ist entsprechend schwächer als der Hauptregenbogen.
+Eine weitere Schwächung entsteht durch die größere Auffächerung des Lichtstrahls in farbige Teilstrahlen infolge flacheren Ein- und Austritts am Tropfenrand.
+Der Nebenregenbogen kann daher nur bei günstigen Lichtverhältnissen beobachtet werden (siehe Abbildung links).
+
+Das nach zweimaliger innerer Reflexion austretende Licht ist in einen zum Sonnengegenpunkt gerichteten Kegelmantel-Spot konzentriert.
+Der doppelte Kegelwinkel ist aber größer als 180° - der Kegelmantel ähnelt einem vom Wind umgestülpten Regenschirm -, so dass Spot-Licht auch rückwärts zum Beobachter fällt (siehe Abbildung links, unten).
+Die halben Kegelwinkel sind 129° (51° von rückwärts gesehen) für rotes Licht (siehe Abbildung rechts) und 126° (54°) für blaues Licht.
+Weil als Wechselwinkel die Komplementärwinkel der Kegelmantel-Spot-Öffnungswinkel zu 180° gelten, sieht der Beobachter im Nebenregenbogen die umgekehrte Farbreihenfolge im Vergleich zum Hauptregenbogen.
+Der Nebenregenbogen ist innen rot und außen blau (siehe Abbildung oben rechts: obere Strahlen).
+
+=== Alexanders dunkles Band
+
+Im Bild rechts mit einem Haupt- und Nebenregenbogen fällt auf, dass der Himmel im Innern des Hauptbogens deutlich heller als außerhalb erscheint, und dass der Bereich zwischen Haupt- und Nebenregenbogen deutlich dunkler als seine Umgebung ist.
+Dieser Helligkeitskontrast entsteht, weil sich die Farben im Inneren der Kegelmantel-Spots überlagern und schließlich jenseits des blauen weißes Licht von den Regentropfen zum Beobachter reflektiert wird.
+Haupt- und Nebenregenbogen sind einander mit ihrer roten Seite zugekehrt.
+Hier fehlt das zusätzliche weiße Licht.
+Der Raum zwischen ihnen wird dunkler gesehen.
+Dieses dunkle Band wird zu Ehren seines Entdeckers Alexander von Aphrodisias als Alexanders dunkles Band bezeichnet.
+Beim Nebenregenbogen enthalten die Kegelmantel-Spots im Inneren auch weniger Licht (vergleiche die Abbildung oben rechts mit der Abbildung weiter oben), so dass die Aufhellung über ihm weniger stark als unter dem Hauptregenbogen ist.
+
+=== Tertiäre und quartäre Regenbögen
+
+Nebenregenbögen höherer Ordnung, also mit mehr als zwei Reflexionen innerhalb eines Regentropfens, sind wegen der oben beschriebenen Abschwächung mit bloßem Auge nicht mehr erkennbar; sie wurden erstmals von Felix Billet (1808-1882) beschrieben, der auch die zugehörigen Winkelabstände vom Sonnengegenpunkt dafür berechnete.
+Nachdem deren Existenz jedoch theoretisch begründet wurde, ist in jüngeren Jahren auch der Nachweis mit fotografischen Mitteln gelungen.
+
+Es handelt sich um den tertiären Regenbogen unter einem Winkel von etwa 40° gegen die Sonne und den quartären Regenbogen unter etwa 45°.
+Diese Bögen entstehen durch Licht, das drei- oder viermal innerhalb der Regentropfen reflektiert wurde.
+
+=== Sonderformen
+
+==== Mondregenbogen
+
+Mondregenbogen heißt ein Regenbogen bei Nacht, der das Mondlicht als Grundlage hat.
+Er ist naturgemäß wesentlich seltener als ein Regenbogen und erscheint dem Beobachter aufgrund seiner Lichtschwäche weiß.
+Zu sehen ist er, weil das menschliche Auge Helligkeitsunterschiede viel empfindlicher wahrnimmt als Farben (siehe Nachtsehen).
+Bei klarer Luft und ausgeprägtem Vollmond können die Regenbogenfarben sichtbar werden.
+Außerdem sieht man sie prinzipbedingt immer bei farbfotografischen Aufnahmen, wenn das Verfahren lichtempfindlich genug ist, so dass die Abbildung des Mondregenbogens gelingt.
+
+==== Nebelbogen
+
+In Tropfen mit Durchmesser kleiner als 50 Mikrometer ist die Zerlegung des Sonnenlichtes in ihre farbigen Bestandteile zu klein.
+Nebel enthält entsprechend kleine Wassertropfen, weshalb dieser weiß erscheinende Regenbogen Nebelbogen genannt wird.
+
+==== Taubogen
+
+Beim Taubogen findet die Lichtbrechung an Tautropfen statt, beispielsweise dem Tau auf einer Wiese oder an Spinnweben, selten dem Tau an kleinen auf einem See schwimmenden Partikeln.
+Der Taubogen erscheint aber dem Beobachter nicht als Kreis, sondern elliptisch oder hyperbelförmig, je nach Sonnenstand und Neigung der Ebene in der sich die Tautropfen befinden.
+Der Effekt ergibt sich dadurch, dass sich der 42-Grad-Kegel des zurückgeworfenen Lichts an der Oberfläche des Bodens in einer Hyperbel oder Ellipse schneidet.
+Durch den schräg verlaufenden Kegelschnitt ergibt sich die Vorstellung, die Lichterscheinung erstrecke sich in horizontaler Ebene, was nur scheinbar richtig ist.
+Tatsächlich ist der Bogen im Auge des Betrachters immer in einem 42-Grad-Winkel vom Sonnengegenpunkt entfernt.
+
+==== Spiegelbogen
+
+Wenn das Sonnenlicht an einer Wasserfläche gespiegelt wird, bevor es auf die Regentropfen trifft, kann ein zweiter Bogen entstehen, der am Horizont mit dem Hauptbogen zusammentrifft, weiter oben aber wie ein zweiter, den Hauptbogen kreuzender Bogen erscheint.
+Darüber hinaus gibt es Beobachtungen von seitlich versetzten, sich überschneidenden Regenbögen, deren Entstehung bislang unklar ist.
+
+==== Zwillingsregenbogen
+
+Die sehr seltenen gespaltenen Regenbögen oder Zwillingsregenbögen unterscheiden sich von doppelten Regenbögen aus Haupt- und Nebenregenbogen dadurch, dass sie einen gemeinsamen Ursprung haben, sich dann aber (zumindest teilweise) in zwei Regenbögen aufspalten, und dass die Farbabfolge der beiden Bögen sich nicht umkehrt.
+Im Gegensatz zum doppelten Regenbogen, der ein zusammenhängendes Phänomen darstellt, das durch unterschiedliche Brechung innerhalb derselben Menge an Wassertropfen entsteht, handelt es sich bei einem Zwillingsregenbogen tatsächlich um zwei "unabhängige" Regenbögen, die zur selben Zeit an unterschiedlichen Mengen von Wassertropfen entstehen.
+In besonders seltenen Fällen kann jeder der Zwillingsbögen auch selbst wieder einen Nebenregenbogen zeigen.
+Zwillingsregenbögen können entstehen, wenn unterschiedlich große Wassertropfen gleichzeitig vom Himmel fallen, etwa, wenn zwei Regenschauer sich vereinen.
+Die Wassertropfen flachen durch den Luftwiderstand umso mehr ab, je größer sie sind und brechen somit das Licht in leicht unterschiedliche Richtungen, was dazu führt, dass auch die sich je nach Wassertropfenform ergebenden Regenbögen leicht deformiert erscheinen und somit einen Zwillingsregenbogen bilden können.
+
+== Interferenz, Tropfengröße und Polarisation
+
+=== Interferenzbögen
+
+Beim Austritt des Lichtes aus den Tropfen fallen nicht nur Strahlen unterschiedlicher Farbe zusammen, wobei durch additive Mischung die Farbreinheit des Regenbogens geschwächt wird.
+Es fallen auch Strahlen derselben Wellenlänge zusammen, die durch unterschiedlich lange Laufwege im Tropfen gegenseitig phasenverschoben sind.
+Bei ihrer Überlagerung findet Interferenz statt, sie löschen sich gegenseitig aus oder verstärken sich.
+Die für Interferenzerscheinungen typischen Muster begleiten vor allem den Hauptregenbogen an dessen blauer Seite als helle gegenüber dunklen abgesetzte Streifen, die als Interferenz- oder überzählige Bögen bezeichnet werden.
+
+Der Unterschied zwischen den Laufwegen ist eine Funktion der Tropfengröße.
+Überzählige Regenbögen treten erst bei Regentropfen in Erscheinung, deren Durchmesser kleiner als einen halben Millimeter ist.
+
+=== Einfluss der Tropfengröße und der Tropfenform
+
+Die Tropfengröße und die Tropfenform haben generell Einfluss auf die farbliche Erscheinung des Regenbogens.
+
+Häufig sind die Enden des Bogens besonders hell.
+Dieser Effekt wird ebenfalls durch Interferenz verursacht, die außer von der Tropfengröße auch von Abweichungen von der Kugelform abhängt.
+Generell lässt sich feststellen, dass große Tropfen mit Durchmessern von mehreren Millimetern besonders helle Regenbögen mit wohldefinierten Farben erzeugen.
+Bei Größen von weniger als 1,5 mm wird zunächst die Rotfärbung immer schwächer.
+Sehr kleine Tropfen, wie beispielsweise in Nebelschwaden, in denen der Durchmesser oft nur etwa ein Hundertstel Millimeter beträgt, liefern nur noch verwaschene Farben.
+
+=== Polarisation
+
+Das von einem Regenbogen reflektierte Licht hat einen sehr hohen Polarisationsgrad.
+Mit Hilfe eines Polarisationsfilters kann ein Regenbogen, je nach Drehwinkel des Filters vor dem Beobachterauge oder der Kamera, entweder weitgehend gelöscht oder im Kontrast gesteigert werden.
+
+== Andere dispersionsbedingte Himmelserscheinungen
+
+Der optische Effekt der Dispersion des Sonnenlichts lässt sich auch bei anderen optischen Phänomenen als den Regenbogen beobachten.
+Bekannt sind vor allem die Haloerscheinungen.
+
+Einige Erscheinungen sind anders als beim Regenbogen durch Beugung des Sonnenlichtes verursacht.
+
+== Vorkommen
+
+Natürliche Regenbögen entstehen meist dann, wenn nach einem Regenschauer der Himmel schnell aufklart und die tief stehende Sonne das abziehende Niederschlagsgebiet beleuchtet.
+In gemäßigten Klimazonen mit einer westlichen Vorzugswindrichtung wie in Mitteleuropa sind diese Bedingungen häufig am späten Nachmittag im Anschluss an ein Wärmegewitter erfüllt.
+Zu diesen kommt es meist bei Kaltfrontaufzügen, wobei am Vormittag im Mittel weniger Regen fällt als am Nachmittag, was dann auch zur höheren Wahrscheinlichkeit führt, auf einen Regenbogen zu treffen.
+
+Im Sommer ist um die Mittagszeit herum kein Regenbogen zu beobachten, da die Sonne hierfür zu hoch steht.
+Im Winter besteht aber auch zu diesem Zeitpunkt die Möglichkeit einen flachen Regenbogen zu erkennen.
+Unabhängig davon kann ein Regenbogen recht häufig in einem Sprühnebel beobachtet werden, vor allem bei Springbrunnen, Sprinklern und Wasserfällen.
+Da solche Regenbögen nicht auf ein Niederschlagsereignis angewiesen sind, beobachtet man sie viel einfacher und häufiger.
+Bei entsprechendem Sonnenstand ist die Beobachtung von Regenbogenfragmenten auch in der Gischt von größeren Wellen möglich.
+
+Bei Wetter ohne bewölkten Himmel mit strahlendem Sonnenlicht kann der "Regenbogen" so selbst erzeugt werden.
+Ein solcher künstlicher Regenbogen beruht auf den gleichen beschriebenen physikalischen Prinzipien.
+Der einzige Unterschied mag die Größe der Reflexionsfläche sein.
+Um den Scheitelpunkt des Regenbogens zu finden, muss man dabei seinen Blick in Richtung des eigenen Schattens richten.
+
+== Entfernung und Ort des Regenbogens
+
+Der Regenbogen ist ein vielfaches Spiegelbild der Sonne, erzeugt von einem aus einer Unzahl von Wassertropfen bestehenden Spiegel.
+Diese Tatsache ist aber nicht "sonnenklar", da das Original Sonne nicht wirklichkeitsnahe als kleine Scheibe (Sichtwinkel  ° für ihren Durchmesser), sondern als relativ großer Ring (Hauptregenbogen:
+Sichtwinkel  42° für seinen Durchmesser) abgebildet wird.
+Deshalb fragen wir uns, in welcher Distanz sich der Regenbogen vor dem landschaftlichen Hintergrund befindet, und wundern uns, dass er mit uns zur Seite "mitläuft" und über den Hintergrund läuft.
+Ein gleichzeitiger Blick in einen üblichen ebenen Spiegel (z. B. eine breite Fensterfront) kann das Wunder erklären:
+Der Regenbogen ist gleich riesig weit von uns entfernt wie die Sonne (er bzw. das Bild der Sonne in einem ebenen Spiegel sind dem Hintergrund überlagert, denn der Tropfen-Spiegel bzw. die Fensterscheibe sind halbdurchlässig), und er ist wie die Sonne momentan in fast gleicher Himmelsrichtung zu sehen (egal welchen Ort wir quer zum Regenbogen bzw. zur Sonne einnehmen).
+
+Von den Wassertropfen wird ein Sonnenstrahl nicht nur reflektiert (an der Rückseite), sondern auch gebrochen.
+Deshalb erreichen uns keine Sonnenstrahlen vom virtuellen Sonnengegenpunkt aus, sondern von denjenigen Tropfen, die mit ihm den Regenbogenwinkel bilden.
+Somit sehen wir die Sonne nicht als kleine Scheibe, sondern als ziemlich großen, aber schmalen Ring.
+Dieser ist in nochmals schmälere, verschiedenfarbige Ringe unterteilt, weil die Farbanteile des Sonnenlicht beim Eintritt in und beim Austritt aus den Tropfen unterschiedlich gebrochen werden.
+
+== Chronologie der physikalischen Erklärung
+
+Der Regenbogen beflügelt nicht nur die Fantasie des Menschen, verschiedene Erklärungsversuche haben auch den Erkenntnisprozess in der Physik und dort speziell in der Optik wesentlich vorangetrieben.
+
+Die oben angeführte physikalische Erklärung des Regenbogens beruht in ihrem grundlegenden strahlenoptischen Teil auf 1637 veröffentlichten Arbeiten von Rene Descartes.
+Sie sind unter der Überschrift DE L'ARC-EN-CIEL im Anhang Les Meteores seiner philosophischen Schrift Discours de la methode beschrieben.
+Er griff darin die bereits um 1300 von Dietrich von Freiberg in seinem Werk De iride et de radialibus impressionibus entwickelte Idee auf, wonach ein Regenbogen durch die Brechung und Reflexion von Sonnenstrahlen innerhalb einzelner Tröpfchen erklärt werden kann.
+Seine "mysteriöse" Erklärung der Regenbogenfarben war unzutreffend.
+Er wendete das kurz vorher von Willebrord Snell entdeckte Brechungsgesetz an, ohne die Dispersion (die wellenlängenabhängige Brechung des Lichts) zu kennen.
+
+Aus dem Jahre 1700 stammt eine den Regenbogen betreffende Arbeit von Edmond Halley, und 1704 brachte Isaac Newtons Theorie des Lichtes die Dispersion ins Spiel und machte so die Farbenpracht verständlich.
+
+War es zu Newtons Zeiten noch Thema kontroverser Diskussionen, ob Licht nun korpuskularen oder wellenartigen Charakter besitze, so war auch hier der Regenbogen ein wichtiger Ideengeber.
+Das Rätsel der überzähligen Bögen veranlasste 1801 Thomas Young zur Durchführung seines berühmten Doppelspaltexperimentes.
+Er wies damit die Wellennatur des Lichtes nach und konnte anschließend das Rätsel durch die Betrachtung von Interferenzerscheinungen lösen (1804).
+
+Youngs Theorie wurde 1849 von George Biddell Airy weiter verfeinert.
+Er erklärte die Abhängigkeit des exakten Farbverlaufs von der Tröpfchengröße.
+Die eigens entwickelten mathematischen Verfahren spielen im Rahmen der WKB-Näherung noch heute eine wichtige Rolle für die moderne Quantenmechanik.
+
+Moderne physikalische Beschreibungen des Regenbogens und ähnlich gearteter Probleme basieren im Wesentlichen auf der von Gustav Mie 1908 entwickelten und als Mie-Streuung nach ihm benannten Theorie.
+
+Im Schulunterricht kann seit den 1980er Jahren zur Veranschaulichung des Regenbogens und der Auswirkung der Beobachtungssposition ein Glasperlenbogen verwendet werden, bei dem auf einer schwarzen Oberfläche aufgebrachtes Glasperlen-Strahlmittel die Lichtbrechung übernimmt.
+
+== Anwendung in der optischen Messtechnik
+
+Der Regenbogenwinkel hängt - wie oben beschrieben - bei kugeligen Flüssigkeitströpfchen nicht von der Tropfengröße ab, sondern lediglich vom Brechungsindex.
+Diese wiederum ist bei einer bestimmten Wellenlänge eine temperaturabhängige Materialkonstante der tropfenbildenden Flüssigkeit.
+Deshalb kann durch Messung des Regenbogenwinkels, unter dem monochromatische Laserstrahlung von einem Nebel reflektiert wird, die Temperaturverteilung innerhalb des Nebels berührungslos bestimmt werden, falls - wie in technischen Anlagen meist der Fall - bekannt ist, welche Flüssigkeit den Nebel bildet.
+
+== Kulturelle Bedeutungen
+
+Als ein nicht alltägliches und beeindruckendes Naturschauspiel haben Regenbögen ihre Spuren in der Kulturgeschichte der Menschheit hinterlassen und sind zudem ein in unzähligen Kunstwerken dargestelltes Bildmotiv.
+Da der Regenbogen weltweit bekannt und mit zahlreichen positiven Attributen versehen ist, hat er auch immer wieder Einzug in die Symbolik gehalten.
+
+=== Religion und Mythologie
+
+Der Regenbogen ist von jeher ein wichtiges Element zahlreicher Mythologien und Religionen über alle Kulturen und Kontinente hinweg.
+Die Mythen sprechen ihm dabei oft die Rolle eines Mittlers oder einer Brücke zwischen Götter- und Menschenwelt zu.
+Mythologien ohne Regenbogen sind selten.
+Der Regenbogen als Mythos findet sich auch in den Erzählungen relativ isolierter Kulturen; daraus lässt sich schließen, dass dieser Mythos auf der Erde an verschiedenen Orten und zu verschiedenen Zeiten eigenständig erdacht und überliefert worden ist.
+Es geht nicht allein auf den Verkehr und den Austausch unter den großen Kulturen der Menschheit zurück, wenn der Regenbogen-Mythos heute überall auf der Erde aufgefunden werden kann.
+
+Die australischen Ureinwohner, die Aborigines, verehren in ihrer Schöpfungsgeschichte eine Regenbogenschlange als den Schöpfer der Welt und aller Lebewesen.
+Die griechische Mythologie sah ihn als Verbindungsweg, auf dem die Göttin Iris zwischen Himmel und Erde reist.
+Nach der irischen Mythologie hat der Leprechaun seinen Goldschatz am Ende des Regenbogens vergraben.
+In der germanischen Mythologie war er die Brücke Bifröst, die Midgard, die Welt der Menschen, und Asgard, den Sitz der Götter, miteinander verband.
+Während des Ragnarök, des Weltuntergangs der nordischen Mythologie, wird der Regenbogen zerstört.
+Regenbogen tauchen auch in der Schöpfungsgeschichte der Dine auf.
+Bei den Inka vertrat der Regenbogen die Erhabenheit der Sonne.
+
+Im Tanach (Gen 9 EU) ist der Regenbogen ein Zeichen des Bundes, den Gott mit Noach und den Menschen schloss.
+Laut biblischer Erzählung versprach Gott nach dem Ende der Sintflut:
+"Ich will hinfort nicht mehr die Erde verfluchen um der Menschen willen, denn das Dichten und Trachten des menschlichen Herzens ist böse von Jugend auf." (Gen 8,21 EU) Der Regenbogen als Zeichen des Friedens zwischen Mensch und Gott nimmt damit eine altorientalische Tradition auf, nach der das Phänomen als abgesenkter, also nicht schussbereiter Bogen Gottes interpretiert wurde.
+Aufgrund dieser Stelle ist der Regenbogen im Judentum bis heute ein wichtiges religiöses Symbol.
+
+Im Christentum wird ein anderer Traditionsstrang wichtig.
+In Ezechiel 1 sieht der Prophet einen gewaltigen Thronwagen.
+Oben auf dem Thron ist ein heller Schein "wie der Anblick des Bogens, der sich an einem Regentag in den Wolken zeigt.
+... So etwa sah die Herrlichkeit Gottes aus." (Hes 1,28 EU) Im griechisch verfassten Neuen Testament kommt der Regenbogen nur ein einziges Mal vor.
+In der Offenbarung des Johannes 10,1 EU erscheint ein Engel mit einem Buch vom Himmel herab, er ist in eine Wolke gehüllt und über seinem Kopf ist ein Regenbogen.
+Dieses Bild basiert auf Ezechiel 1,28.
+Das griechische Wort für diese Erscheinung heißt "iris", und hier wird deutlich, dass die antike Vorstellung des Kriegsbogens vergessen ist.
+Wichtig an der Erscheinung ist die schillernde Farbenpracht, die Himmel und Erde verbindet.
+Das griechische Wort bezeichnet neben dem Regenbogen auch ganz allgemein einen farbigen Ring (oder Halbring).
+In Offb 4,3 EU steht in vielen deutschen Übersetzungen zwar Regenbogen, aber hier heißt es ausdrücklich, dass es sich um einen grünlich schimmernden Lichtkranz handelt - also einen Heiligenschein, der Gottes Gegenwart anzeigt.
+In der folgenden christlichen Tradition lebt das Symbol auf Ikonen und in der mittelalterlichen Malerei und Bildhauerei.
+Auf Altären und auf den Darstellungen des Jüngsten Gerichts über dem Eingangsportal einer Kirche wird Christus manchmal als der auf (oder in) einem Regenbogen sitzende Richter dargestellt werden - eine freie Aufnahme der Stellen in der Offenbarung vermischt mit Ezechiel.
+Der Regenbogen symbolisiert hier die Göttlichkeit Christi.
+Seit dem 12. Jahrhundert wird auch Maria in einem Regenbogen oder auf einem Regenbogen sitzend dargestellt und dadurch ihre Heiligkeit zum Ausdruck gebracht.
+
+=== Bildende Kunst
+
+Der Regenbogen ist nicht allein ein Motiv in Gemälden von Landschaftsmalern, beispielsweise im 19. Jahrhundert sowohl klassizistischer wie Joseph Anton Koch als auch romantischer wie Caspar David Friedrich.
+Die mit einem Regenbogen verbundenen Naturphänomene, etwa Alexanders dunkles Band (siehe oben), sind in der Naturfotografie ebenfalls ein beliebtes Bildmotiv.
+
+=== Musik
+
+Auch in der Musik wird öfters auf den Regenbogen Bezug genommen.
+So besingt Judy Garland 1939 in dem Pop-Lied Over the Rainbow eine Gegend "irgendwo über dem Regenbogen", wo "Träume wahr werden".
+Dieses Lied von Harold Arlen und E. Y. Harburg wurde 1994 als Coverversion von Marusha zu einer Techno-Hymne.
+Zum gleichen Genre zählt auch Rainbow To The Stars von Dune.
+
+Der französische Komponist Olivier Messiaen, ein Synästhetiker, komponierte in seinem 1944 entstandenen "Quartett auf das Ende der Zeit" (Quatuor pour la fin du temps) einen Satz mit dem Titel "Wirbel der Regenbögen für den Engel, der das Ende der Zeit verkündet" (Fouillis d'arcs-en-ciel, pour l'Ange qui annonce la fin du temps).
+György Ligeti überschrieb 1985 eine seiner Etüden für Klavier mit Arc-en-ciel ("Regenbogen").
+
+Die Rock-Band The Rolling Stones schilderte 1967 in ihrem Song She's A Rainbow ("Sie ist ein Regenbogen") diverse Drogenerfahrungen und bediente sich dabei der Farbenpracht des Regenbogens als Metapher für die Weiblichkeit.
+
+Die deutsche Hardrock-Band Scorpions nannte ihr zweites Studioalbum von 1974 Fly to the Rainbow, worauf sich am Ende das gleichnamige Stück befindet.
+
+Rainbow war eine Hardrock-Band, die 1975 vom Gitarristen Ritchie Blackmore gegründet wurde.
+Das Debütalbum von Rainbow enthält den Song Catch the Rainbow von Blackmore und dem Sänger der Band Ronnie James Dio.
+
+Bezugnehmend auf den sprichwörtlichen Topf mit Gold am Ende des Regenbogens heißt es in dem Lied All Of My Heart (1982) der Pop-Band ABC: "No I won't be told there's a crock of gold at the end of the rainbow."
+
+Im Bereich des Metal ist der Song At The End Of The Rainbow der schwedischen Band Hammerfall zu nennen, wo man am "Ende des Regenbogens mit Gold in den Händen" stehen will (auf ihrem 1998 erschienenen Studioalbum Legacy of Kings).
+Und die deutsche Band Axxis singt Touch the Rainbow (auf ihrem 1990 erschienenen Studio-Album Axxis II).
+
+== Rezeption
+
+Mit dem Erstausgabetag 7. Februar gab die Deutsche Post AG in der Serie Himmelsereignisse ein Postwertzeichen im Nennwert von 70 Eurocent mit der Bezeichnung Regenbogenfragment heraus.
+Der Entwurf stammt von Bettina Walter aus Bonn.
+
+Weitere symbolische Verwendungen
+
+RegenbogenfahnenDie Regenbogenfahne ist ein in der Geschichte vielfach und in verschiedenem Sinne verwendetes Symbol:
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,8 @@
+Eine Turbine ist eine rotierende Strömungsmaschine, die das Abfallen der inneren Energie eines strömenden Fluides in mechanische Leistung umwandelt , die sie über ihre Welle abgibt.
+Dem Fluidstrom wird durch die möglichst wirbelfreie Umströmung der Turbinenschaufeln ein Teil seiner inneren Energie entzogen, der auf die Laufschaufeln der Turbine übergeht.
+Über diese wird dann die Turbinenwelle in Drehung versetzt, die nutzbare Leistung wird an eine angekuppelte Arbeitsmaschine, wie beispielsweise an einen Generator, abgegeben.
+Kraftwerksturbinen gehören zu den leistungsfähigsten Maschinen.
+Ihre mechanisch nutzbare Leistung erreicht heute in den größten Kernkraftwerken fast 1,8 Gigawatt, wobei bei großen Leistungen eine Turbine aus mehreren Teilturbinen besteht.
+Die steile Drehmoment-Kennlinie des Generators sorgt für eine konstante Drehzahl der Kraftwerksturbine, ansonsten muss die Drehzahl über einen Regler konstant gehalten werden.
+Umgangssprachlich wird der Begriff Turbine auch für Düsentriebwerke verwendet, obwohl die Turbine nur ein Teil des Triebwerks ist; das Triebwerk besteht auch aus Verdichter, Brennkammer und weiteren Komponenten.
+Der Begriff "Turbine" wurde von dem französischen Ingenieur Claude Burdin geprägt.

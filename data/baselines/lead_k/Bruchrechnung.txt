@@ -1,0 +1,13 @@
+Im engeren Sinn bezeichnet Bruchrechnung das Rechnen mit gemeinen Brüchen (manchmal auch gewöhnlichen Brüchen) in der "Zähler-Bruchstrich-Nenner-Schreibweise" (siehe unten).
+Bruchrechnung gehört damit zur Arithmetik, einem Teilgebiet der Mathematik.
+In einem weiteren Sinn wird das Wort auch für das Rechnen mit rationalen Zahlen gebraucht, gleichgültig, in welcher Schreibweise sie vorliegen.
+Eine wichtigere Erweiterung besteht in der Zulassung von Bruchtermen, das sind Ausdrücke, die formal wie gemeine Brüche gebildet werden, bei denen aber Zähler und Nenner Terme sein können, die Variablen enthalten.
+Für diese Bruchterme gelten die Bruchrechenregeln sinngemäß.
+Das Rechnen mit Bruchtermen gehört aber zur Algebra.
+Die Regeln der Bruchrechnung beziehen sich auf die Grundrechenarten, also auf Addition, Subtraktion, Multiplikation, Division, sowie auf die Kehrwertbildung.
+Insbesondere bei Bruchtermen kommen auch Regeln für Potenzen und Wurzeln hinzu.
+Außerdem gibt es eine Kürzungs- und Erweiterungsregel, die eine Besonderheit der Bruchrechnung sind.
+Sie beruht auf dem Unterschied zwischen Bruch und Bruchzahl, der im folgenden Abschnitt genauer dargestellt wird.
+Die Bruchschreibweise, also die Schreibweise mit Bruchstrich, geht auf Leonardo von Pisa zurück, der sie 1228 einführte.
+Sie wird ganz allgemein in verschiedenen Bereichen der Mathematik, besonders in der Algebra, immer dann verwendet, wenn in der untersuchten Struktur die elementaren Bruchrechenregeln, insbesondere die Kürzungs- und Erweiterungsregel, gelten.
+Auch hier spricht man immer dann von "Bruchrechnung", wenn diese Regeln angewendet werden.

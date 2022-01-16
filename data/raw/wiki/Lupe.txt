@@ -1,0 +1,147 @@
+Eine Lupe (von frz. loupe), auch Vergrößerungsglas oder Brennglas genannt, ist eine einfache konvexe Sammellinse kleiner Brennweite mit Fassung und Griff oder Vorrichtung zum Aufstellen.
+Befindet sich ein Gegenstand innerhalb der Brennweite f {\displaystyle f} erzeugt eine Lupe ein aufrechtes virtuelles Bild des Gegenstandes.
+
+== Geschichte
+
+Der Vergrößerungseffekt mittels Wasser ist seit dem 1. Jahrhundert durch Seneca d. J. belegt.
+Die Erfindung der Lupe als optische Vorrichtung wird dem arabischen Gelehrten Abu Ali al-Hasan Ibn Al-Haitham (latinisiert Alhazen) zugeschrieben (11. Jahrhundert, Schrift "Schatz der Optik").
+Der Minnesänger Konrad von Würzburg richtete im 13. Jahrhundert folgende Verse an die Jungfrau Maria:
+"Ich habe dich verglichen mit einem krystallenen Stein ...
+Er hat in sich die große und gewaltige Art, daß nie eine Schrift so klein wäre, ihr Aussehen in ihm würde größer:
+Wenn dieser Stein sie überdachte und übergriffe, sofern ihn jemand dünn schliffe und auf die Schrift halten wollte, der sähe durch ihn die kleinen Buchstaben größer erscheinen."
+
+== Funktionsweise
+
+Durch eine Lupe erscheinen Objekte größer, die sich jenseits des Betrachters zwischen Lupe und Brennebene (also innerhalb der Brennweite) befinden.
+Diese Wirkung einer Lupe ergibt sich zum einen daraus, dass man mit ihr aus kürzerer Distanz auf einem Gegenstand akkommodieren kann, als es mit dem freisichtigen Auge möglich wäre.
+Zum anderen liefert die Lupe ein vergrößertes virtuelles Bild.
+Der zweite Effekt wird auch zur Bestimmung der Vergrößerung (siehe unten) herangezogen.
+
+Als Sehhilfe benutzt, gleicht sie Hyperopie (Weitsichtigkeit) oder Presbyopie (Alterssichtigkeit) aus, da das Auge bei Lupendurchsicht auf Unendlich akkommodieren kann (dies wird von den Betroffenen oft als entspannend empfunden).
+Dabei sollte die Benutzung einer Lupe, bei der der Betrachter ein vergrößertes virtuelles Bild sieht, nicht mit der Korrektur einer Hyperopie oder Presbyopie verwechselt werden.
+Bei der Korrektur ist die verwendete Linse ebenfalls eine Konvexlinse, hier aber mit deutlich größerer Brennweite bzw. mit kleinerer Brechkraft ("Dioptriewert") und wird als Brille oder Kontaktlinse direkt vor dem Auge getragen.
+Die Linse der Brille bzw. die Kontaktlinse bildet dabei mit dem optischen Apparat des Auges ein Linsensystem oder eine funktionelle Einheit.
+
+Im Gegensatz zur Brille muss die Lupe bei Hyperopie oder Presbyopie auch nicht angepasst werden.
+Daher kann jede Leselupe auch immer als Notbehelf für eine fehlende Brille oder Kontaktlinse verwendet werden.
+Myopie (Kurzsichtigkeit) kann mit einer Lupe nicht korrigiert werden.
+
+== Konstruktion des virtuellen Bildes
+
+Bei der Konstruktion des virtuellen Bildes (s. Abb.) bedient man sich zweier Strahlen, die von einem Punkt des Gegenstandes (hier: von der Pfeilspitze des Objekts) ausgehen:
+Der "Hauptstrahl" - also jener Strahl, der durch den Mittelpunkt der Linse geht - erfährt näherungsweise keine Brechung.
+Der "Parallelstrahl" (in der Abbildung blau) wird durch Brechung der Linse zum "Brennstrahl", geht also durch den Brennpunkt.
+Der Betrachter, der sich in der Abbildung rechts von der Linse befindet, geht von der geradlinigen Ausbreitung des Lichts aus.
+Für ihn scheint also das Licht von der Stelle auszugehen, wo sich die zurückverfolgten roten Linien kreuzen.
+Also befindet sich die Pfeilspitze des virtuellen Bildes genau dort.
+
+Der Gegenstand muss sich innerhalb der Brennweite f {\displaystyle f} befinden ( s 1  f {\displaystyle s_{1}\leq f} ), um ihn durch die Lupe vergrößert zu sehen.
+Optimal wird die Lupe gehalten, wenn er im Brennpunkt steht ( s 1 = f {\displaystyle s_{1}=f} ).
+Die Strahlen verlaufen dann parallel.
+Der Gegenstand scheint unendlich weit weg zu sein und das Auge kann entspannt auf große Entfernung akkommodieren.
+Die Vergrößerung ergibt sich aus dem Verhältnis des Sehwinkels mit und ohne Sehhilfe.
+Als Bezugsgröße wird oft die deutliche Sehweite gewählt.
+
+== Lupentypen und verwandte Geräte
+
+Neben speziellen Lupen, wie Lesestäben (Lupe mit direkter Auflage auf das Lesegut und Vergrößerung in einer Dimension), Lesesteinen (ebenfalls mit direkter Auflage aber zweidimensionaler Vergrößerung), Messlupen wie z. B. Fadenzählern, Uhrmacherlupen, Lupenbrillen, Lupen mit komplexen Linsensystemen (Aplanate, Achromate etc.), Scheckkartenlupen (Fresnellinse) u. v. a. gibt es zwei grundsätzliche Typen, die sich vor allem in ihrer Anwendung unterscheiden:
+
+=== Leselupe
+
+Leselupen vergrößern meist 2- bis 6-fach.
+Ein weiteres Kennzeichen ist ihr relativ großes Sichtfeld aufgrund eines großen Linsendurchmessers.
+Dieses große Sichtfeld erlaubt es, bei konstantem Abstand zwischen Leselupe und Lesegut (Objekt) einen großzügigen und variablen Abstand zwischen Leselupe und Kopf (Augen) einzunehmen.
+Lesen ist daher in bequemer Haltung möglich.
+Bei genügend Abstand zwischen Leselupe und Augen sowie bei geringer Vergrößerung ist dreidimensionales Sehen möglich.
+
+Während die klassische Leselupe eine große Linse mit Metallfassung und Haltegriff darstellt (man denke an das typische Erscheinungsbild von Sherlock Holmes mit Lupe - pikanterweise verwendet er in den Darstellungen immer eine Leselupe statt einer Detaillupe), sind moderne Leselupen oft mit Beleuchtung (Leuchtlupen), Abstandhalter oder sonstigen Vorrichtungen versehen.
+
+Lesesteine und Lesestäbe (letztere vergrößern als Zylinderlinse nur in einer Dimension) sind auf der Unterseite plan und werden direkt auf das Lesegut aufgelegt.
+Damit ist der Abstand zwischen Lesegut und lupenwirksamer gewölbter Oberseite festgelegt und kein Zittern der Hand kann stören.
+Diese Lesesteine sind ihrem Volumen entsprechend schwer.
+
+=== Detaillupe
+
+Die Detaillupe hat eine typische Vergrößerung von 5- bis 15-fach - bei sehr guter Qualität auch etwas darüber.
+Die Linse hat einen kleinen Durchmesser (etwa 1-3 cm) wodurch das Sichtfeld sehr klein ist.
+
+Diese kleine Bauform erfordert eine völlig andere Arbeitsweise mit der Detaillupe als mit der Leselupe.
+Während hier der Abstand zwischen dem Objekt und der Lupe ebenfalls fix ist, versucht man durch einen sehr kleinen Abstand zwischen Lupe und Auge ein größeres Gesichtsfeld zu erhalten.
+Ein typischer Fall ist die Uhrmacherlupe, die direkt vor dem Auge eingeklemmt wird.
+Aber auch andere Detaillupen (z. B. Lupen zur Naturbeobachtung von Gesteinen und Mineralen im Gelände, oder Blüten und Insekten im Freiland) werden direkt ans Auge herangeführt, um ein größeres Gesichtsfeld zu ermöglichen.
+Der korrekte Umgang mit solchen Lupen erfordert meist etwas Übung, da man normalerweise nicht gewohnt ist, Objekte direkt vor dem Auge zu platzieren.
+
+Dreidimensionales Sehen ist hier nicht möglich.
+An dieser Stelle sei aber auf Lupenbrillen oder spezielle und entsprechend teure binokulare Lupen verwiesen.
+
+== Messung / Berechnung der Brennweite
+
+Die Brennweite einer Lupe bestimmt deren Vergrößerung und ist damit deren wichtigste Kenngröße.
+Um die Vergrößerung zu berechnen (siehe unten), muss daher die Brennweite bekannt sein.
+
+Bei Sonnenlicht lässt sich die Brennweite für den Alltag hinreichend genau bestimmen, indem mit Hilfe der Lupe der kreisförmige Lichtfleck, den sie beim Abbilden auf ein Blatt Papier erzeugt, minimiert wird und dabei der Abstand zwischen Lupe und Papier gemessen wird.
+Dieser Abstand entspricht der Brennweite.
+Ist kein Sonnenlicht verfügbar, lässt sich die Brennweite auch über das (reelle, kopfstehende) Bild weit entfernter Gegenstände messen, etwa anhand des Bildes eines Fensters im Rauminneren (siehe rechts).
+
+Ein weiteres reines Messverfahren ist die Bestimmung der Brennweite mittels Autokollimation.
+
+Exakt berechnen (eine entsprechend gute Messung vorausgesetzt) lässt sich die Brennweite nach mehreren Verfahren:
+
+== Bestimmung der Vergrößerung
+
+Die (quantitative) Vergrößerung einer Lupe wird relativ zur Betrachtung aus der deutliche Sehweite (auch Normsehweite genannt) s 0 = 250 m m {\displaystyle s_{0}=250{\rm {\,mm} } } als Bezugsgröße angegeben.
+
+Ein Gegenstand erscheint in dieser Entfernung unter dem Winkel a {\displaystyle \alpha } (in der nebenstehenden Abbildung  0 {\displaystyle \varphi _{0}} genannt; außerdem entspricht in der Abbildung die deutliche Sehweite dem Abstand d {\displaystyle d} ):
+
+Das Auge ist entspannt, wenn es auf große Entfernung akkommodiert.
+Das ist der Fall für eine große Bildweite s 2 {\displaystyle s_{2 } } .
+Sie nimmt zu, wenn sich die Gegenstandsweite s 1 {\displaystyle s_{1}} der Brennweite f {\displaystyle f} der Lupe nähert.
+
+Im Grenzfall s 1 = f {\displaystyle s_{1}=f} erscheint das vergrößerte Bild unter dem Winkel a v {\displaystyle \alpha _ {v}} (in der Abbildung  {\displaystyle \varphi } genannt):
+
+Für die Vergrößerung V {\displaystyle V} folgt:
+
+Diese Berechnung geht davon aus, dass das Auge entspannt, d. h. unendlich-akkommodiert ist.
+Es entsteht dann gerade kein virtuelles Bild.
+Strengt man das Auge jedoch mit an, kann man den Gegenstand praktisch näher an die Lupe heranbringen, so dass ein virtuelles Bild in der Entfernung der minimalen Sehweite f n a h {\displaystyle f_{\rm {nah}} } des betreffenden Auges entsteht.
+Die Lupe muss sich dazu nah am Auge befinden, die Brechkräfte von Lupe und dem nah-akkommodierten Auge addieren sich und die Vergrößerung beträgt:
+
+Eine Lupe mit der Brennweite 50 mm erlaubt es, einen Gegenstand aus der Entfernung von 50 mm zu betrachten, statt aus der Entfernung der deutlichen Sehweite von 250 mm.
+Nach der Definition vergrößert die Lupe 5-fach (v = 250 mm/50 mm).
+Das nah-akkommodiertem Auge eines jungen oder kurzsichtigen Menschen mit f n a h = 100 m m {\displaystyle f_{\rm {nah}}=100{\rm {\,mm} } } erlaubt praktische Vergrößerungen bis 7,5-fach, bei f n a h = 500 m m {\displaystyle f_{\rm {nah}}=500{\rm {\,mm}} } bis 5,5-fach.
+
+Häufig wird bei Lupen folgende Umrechnung zwischen Vergrößerung und Brennweite (in dpt) angegeben:
+
+Vergrößerung = (Dioptrien/4) + 1
+
+Diese Beziehung ergibt sich unmittelbar aus der Beziehung von v', wenn das Auge in deutlicher Sehweite von 250 mm akkommodiert.
+Dann ist f = f n a h = 250 m m {\displaystyle f=\,f_{\rm {nah}}=250{\rm {\,mm} } } und v' = 2 * v.
+
+Beispiel:
+
+== Verwendung der Lupe als Brennglas
+
+Der Name Brennglas kommt daher, dass die Konvexlinse die einfallenden Sonnenstrahlen bündelt und damit die Energiedichte des Lichts so stark erhöht, dass brennbares Material wie Papier o. ä. entzündet werden kann.
+Diese Eigenschaft der Linse ist auch der Ursprung für die optischen Fachbegriffe Brennpunkt, Brennebene, Brennweite etc.
+
+Den größten Einfluss hat dabei der Linsendurchmesser:
+Je größer, desto mehr Licht(leistung) wird gebündelt.
+Daneben bewirkt eine kürzere Brennweite der Linse (also eine höhere Vergrößerung der Lupe) eine Abbildung der Sonnenscheibe auf einen kleineren Brennfleck.
+Durch die so erhöhte Leuchtdichte steigt die erreichbare Temperatur bei der Absorption des Lichts im bestrahlten Medium.
+Ein idealer Punkt (als Brennpunkt) kann dabei, auch wegen Linsenfehlern, mit einer realen Linse nie erreicht werden.
+
+Ob bzw. wie schnell ein Material zum Brennen gebracht werden kann, hängt neben der Energiedichte, die das Brennglas liefert, auch von der Zündtemperatur des Materials und den thermischen Bedingungen (Materialdicke, Wärmeleitfähigkeit) am Brennfleck ab.
+
+Der Brennglaseffekt wird im Heliographen genutzt, um den Sonnenschein eines Tages zu protokollieren.
+
+== Warnhinweis
+
+Lupen sind bei direkter Sonneneinstrahlung feuergefährlich, da sie Materialien entzünden können, die zufällig vom wandernden Bild der Sonne getroffen werden.
+Lupen, die nicht in Benutzung sind, müssen mit einer Schutzhülle/ Schutzkappe versehen werden oder in einem lichtsicheren Behältnis verwahrt werden.
+Es sind viele Fälle bekannt, in denen die Dekoration von Lupen (auch Fotoobjektiven) in einem Schaufenster einen Brand ausgelöst hat.
+Hingegen reicht der Brennglaseffekt von Glasscherben weggeworfener Flaschen nicht dazu aus, Waldbrände auszulösen.
+
+== Weblinks
+
+== Einzelnachweise
+

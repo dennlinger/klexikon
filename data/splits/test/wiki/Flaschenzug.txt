@@ -1,0 +1,184 @@
+Ein Flaschenzug ist eine Maschine, die den Betrag der aufzubringenden Kraft z. B. zum Bewegen von Lasten verringert.
+Der Flaschenzug besteht aus festen und losen Rollen und einem Seil.
+Bei komplizierten Flaschenzügen sind die Rollen mittels "Scheren" zum Block zusammengefasst.
+
+== Geschichte
+
+Bereits in der Antike war die Kraftminderung durch Anwendung der Hebelgesetze bekannt.
+Der Erfinder des Flaschenzugs ist nicht bekannt (evtl. Archytas), aber die Erfindung des zusammengesetzten Flaschenzuges wird Archimedes zugeschrieben.
+Eine erste bildliche Darstellung der Kombination von Seil und einfacher Rolle befindet sich jedoch schon auf einem assyrischen Relief um 970 v. Chr.
+
+Mit Seilen verspannte Einbaumkräne, die über drei ("Trispastos") oder fünf Rollen ("Pentaspastos") liefen, sind seit 750 v. Chr. bekannt.
+
+Vitruv, ein römischer Architekt, Ingenieur und Architekturtheoretiker des 1. Jahrhunderts v. Chr., beschrieb in seinem 10. Buch über den Maschinenbau ausführlich den Trispastos, Pentaspastos und Polyspastos.
+Zu jener Zeit war es aber kaum möglich, Seile für Flaschenzüge mit sehr vielen Rollen in der erforderlichen Länge und Tragfähigkeit herzustellen, oder sie waren in der benötigten Anzahl fast unbezahlbar.
+
+Der griechische Mathematiker und Ingenieur Heron von Alexandria lebte vermutlich im 1. Jahrhundert und befasste sich ebenfalls mit dem Flaschenzug.
+Unter der regen Bautätigkeit der römischen Kaiser war der Baukran unentbehrlich zur Errichtung der Arenen.
+Dank verschiedener Umlenkrollen konnten die Bedienungsmannschaften bis zu sieben Tonnen schwere Steinblöcke heben.
+Im 6. Jahrhundert, um das Jahr 530, wurde ein Kalksandsteinmonolith mit einem Gewicht von 230 Tonnen als Schlussstein des Kuppeldaches für das Mausoleum des Theoderich bei Ravenna mittels komplizierten Flaschenzügen von 700 Arbeitern auf 16 Meter Höhe gebracht.
+Auch Leonardo da Vinci machte sich in seinen Erfindungen (bspw. im Codex Atlanticus, Codex Forster II & III) den Flaschenzug zunutze.
+
+In der Renaissance fand der Flaschenzug seine spektakulärste Anwendung beim Transport und der Aufrichtung des Obelisken auf dem Petersplatz in Rom vom 30. April bis 16. September 1586 durch den Ingenieur Domenico Fontana.
+907 Arbeiter und 75 Pferde drehten an den 40 Spillen und zogen damit über Umlenkrollen an bis zu 220 Meter langen Seilen die an einem gigantischen Holzgerüst hängenden 40 Flaschenzüge, um den 330 Tonnen schweren und 25,31 Meter langen Obelisken in die Senkrechte zu bringen.
+
+Bis 1861 blieb der Flaschenzug und seine Anwendung weitgehend unverändert.
+Erst mit dem Differenzialflaschenzug, zum ersten Mal in London eingesetzt, konnte eine Effizienzsteigerung erreicht werden.
+Heute werden Flaschenzüge vor allem bei Kränen oder Spannvorrichtungen (Radspannwerke) für Fahrdrähte eingesetzt.
+
+== Funktionsprinzip und Teile des Flaschenzuges
+
+Ein Flaschenzug besteht aus mindestens einer losen Rolle (Scheibe) sowie einem Seil.
+Das Funktionsprinzip ist in dem Bild links (Erklärung des Flaschenzugs) dargestellt.
+In A wird ein Gewicht mit der Masse m hochgezogen, wobei die obere Rolle nur die Kraft umlenkt und somit das Gewicht um genau die Strecke angehoben wird, die das Seil gezogen wird (blaue Markierung und blauer Pfeil).
+In B ist ein einfacher Flaschenzug dargestellt, bei dem das Seil am oberen Balken befestigt ist und das Gewicht an einer Rolle in der Seilschlaufe hängt.
+Wird hier das Seil um die gleiche Länge wie in A gezogen, so hebt sich das Gewicht nur um die Hälfte an.
+Die Seilteile links vom Seilabschnitt, an dem gezogen wird, müssen nämlich insgesamt um die Zugstrecke kürzer werden, die sich jedoch auf zwei Seilabschnitte verteilt.
+Die benötigte Kraft wird folglich halbiert, während das Seil doppelt so lange wie in A gezogen werden muss, um das Gewicht auf eine bestimmte Höhe anzuheben.
+In C ist ein Aufbau gezeigt, bei dem das Gewicht auf vier Seilabschnitte verteilt wird und folglich nur ein Viertel der Kraft benötigt wird.
+Die dargestellte Bauweise ist nicht platzsparend und die Rollen könnten zusammengeschoben werden (D).
+Eine sehr kompakte Bauweise (E) ergibt sich, wenn man die Rollen noch weiter zusammenschiebt und somit die oberen und unteren Rollen jeweils auf einer Achse liegen.
+Verdreht man die oberen Rollen, so ergibt sich dann die übliche Bauform (F).
+
+=== Flaschen
+
+Flaschen wurden die Halterungen der Rollen genannt und waren meist als Block (mhd.
+plock, ploch "großes" oder "zusammenhängendes Stück") aus einem Stück Hartholz (Esche, Rüster) gearbeitet.
+Heute nennt man die flachen Teile beiderseitig am Rand (Backe, Wange) und zwischen den Rollen (Damm) insgesamt Scheren.
+In der Seemannssprache wird der Flaschenzug als Talje bezeichnet.
+
+Als Jungfer werden meist runde oder halbrunde stabile Holzscheiben mit mehreren Löchern genannt, die keinerlei Rollen beinhalten und beispielsweise zum Spannen der Wanten dienten.
+
+=== Rollen
+
+Die Rollen eines Flaschenzuges wurden früher ebenfalls Flaschen oder auch "Scheiben" genannt.
+Der Begriff entstand etwa im 18. Jahrhundert:
+Bei Webmaschinen, speziell bei Bandwebmaschinen, werden die Spannrollen, welche die Kettfäden immer gespannt halten, als Flaschen bezeichnet.
+Bevorzugt sind kugelgelagerte Rollen zu verwenden, um mit wenig Muskelkraft ein günstigeres Übersetzungsverhältnis zu erreichen.
+Bergsteiger benutzen bei Notlösungen (Spaltenbergung) auch einfache Karabiner, die jedoch durch die Gleitreibung die Zugarbeit erschweren.
+
+=== Seil
+
+Das Seil sollte ein Statikseil sein, um keine unnötigen Dehnungen bzw. Streckung zu erhalten, die den Hub verlängern würden.
+Für extreme Belastungen werden Stahlseile verwendet.
+Slacklines, welche über den Ellington-Flaschenzug gespannt werden, haben bevorzugt anstelle des Seils ein Flach- oder Schlauchband.
+Dieser, nach seinem Erfinder benannte Ellington-Flaschenzug, ist außergewöhnlich und besticht durch seine Einfachheit.
+Die Art und Weise, wie das Seil über die Rollen geführt und einfädelt wird, bezeichnet man als Einscherung.
+
+== Bauformen
+
+=== Faktorenflaschenzug
+
+Die Rollen bei einem Flaschenzug können sehr unterschiedlich angeordnet sein.
+Für die Zugkraft entscheidend ist aber immer die Anzahl der tragenden Seile n {\displaystyle n} , auf die sich die Last verteilt.
+In der rechts abgebildeten Grundform des Flaschenzugs ist die Kraft an jeder Stelle des Seils gleich.
+Die Gewichtskraft F L {\displaystyle F_{L}} der Masse m {\displaystyle m} wird daher gleichmäßig auf die tragenden Seile zwischen den unteren und den oberen Rollen verteilt.
+Die Zugkraft berechnet sich mit der Schwerebeschleunigung g {\displaystyle g} zu :
+
+Nach der Goldenen Regel der Mechanik muss der Haken bei zunehmender Zahl der tragenden Seile eine immer längere Strecke s {\displaystyle s} bewegt werden, um die gleiche Höhenänderung h {\displaystyle h} zu erreichen:
+
+Es lässt sich leicht zeigen, dass die dazu benötigte Energie E {\displaystyle E} von n {\displaystyle n} unabhängig ist:
+
+Die Belastung des Deckenhakens ( F H { \displaystyle F_{H }} ) ergibt sich aus der Summe von Zugkraft F Z {\displaystyle F_{Z } } und Gewichtskraft F L {\displaystyle F_{L}} .
+
+Die Belastung des Deckenhakens nimmt mit jeder weiteren Rolle ab.
+
+==== Änderung von Zugrichtung und Angriffspunkt
+
+Wie wichtig auch die Anordnung der Angriffspunkte (Fixpunkt, Zugpunkt und Zugrichtung) ist, zeigt das nebenstehende Bild.
+
+=== Potenzflaschenzug
+
+Beim Potenzflaschenzug wird die Krafteinsparung ausschließlich mittels loser Rollen erzielt:
+Das Seil jeder Rolle ist an der Stütze und der nächsten Rolle befestigt.
+Während auf die untere lose Rolle noch die volle Gewichtskraft wirkt, wird diese beim unteren Seil schon halbiert, sodass an der oberen losen Rolle nur noch die halbe Kraft angreift.
+An dieser Rolle wird die Kraft nochmals halbiert.
+Am Seil der letzten Rolle wirkt schließlich die Zugkraft, die durch eine feste Rolle nach unten umgelenkt wird.
+Dadurch potenziert sich die Wirkung mit der Anzahl n {\displaystyle n} der losen Rollen:
+
+=== Differenzialflaschenzug
+
+Der Differenzialflaschenzug besteht aus zwei festen Rollen, die fest miteinander verbunden sind und unterschiedliche Durchmesser haben.
+Die Last hängt an einer losen Rolle.
+Bei diesem Flaschenzugtyp wird ein durchgehendes (d. h. an den Enden verbundenes) Seil verwendet, in dem die Spannung nicht überall gleich ist.
+Das Seil wird von der größeren Rolle zur Last und auf der anderen Seite über die kleinere Rolle zurückgeführt.
+Beim Hochziehen wickelt sich so das Seil auf die größere Rolle auf und von der kleineren Rolle ab.
+Bei einer Umdrehung wird also die Länge der Seilschlaufe, an der das Gewicht hängt, um die Differenz der beiden Rollenumfänge kürzer.
+Wegen der Schlaufe wird das Gewicht nach dem Prinzip des Flaschenzugs aber nur um die Hälfte dieser Strecke angehoben.
+Zusätzlich wird die Kraft, die für eine Umdrehung der Rollen benötigt wird, durch den Umfang der größeren Rolle bestimmt.
+Dieser Umfang entspricht nämlich gerade der Zugstrecke des Seils für eine Umdrehung, auf die die Arbeit dann verteilt wird.
+Somit ergibt sich für die Kraft:
+
+Ein wichtiger Vorteil dieses Flaschenzugtyps ist die Material- und Gewichtsersparnis.
+Durch das umlaufende Seil ist dessen Länge vom Übersetzungsverhältnis des Flaschenzugs fast unabhängig.
+Weiterhin sind immer nur drei Rollen erforderlich.
+Da für die Funktion ein (rutsch-)fester Kontakt zwischen Seil und Rollen erforderlich ist, wird bei einem Differenzialflaschenzug statt des Seils auch oft eine Kette und statt der Rolle ein Kettenrad verwendet.
+
+Wird stattdessen eine Differenzialwinde mit der Kurbellänge K verwendet (siehe Abbildung, R und r sind weiterhin die Radien der Rollen), so lautet die Formel:
+
+=== Münchhausentechnik
+
+Die Münchhausentechnik ist zur Selbstrettung geeignet, wenn beispielsweise der vorausgehende Bergführer in eine Spalte stürzt und der Partner keine Rettungstechniken beherrscht.
+Eine Variante der Münchhausentechnik besteht in der Verwendung eines Flaschenzugs als Selbstaufzug.
+Die Kräfteverteilung ist hierbei anders als beim gewöhnlichen Flaschenzug zu berechnen.
+Der gestürzte und am Seil hängende Kletterer (FL = Last) zieht sich über zwei Rollen (alternativ mit zwei Umlenkkarabinern) am Zugseil selbst in die Höhe.
+Der einfache Flaschenzug trägt nun den Kletterer mit drei Seilsträngen, wobei sich das Zuggewicht (FZ) am Zugseil auf 1/3 der Gewichtskraft reduziert.
+Somit beträgt unter Vernachlässigung von Reibung das Übersetzungsverhältnis 1:3.
+
+=== Flaschenzug ohne Flaschen oder Rollen
+
+==== Schweizer Flaschenzug
+
+Ein Schweizer Flaschenzug ist ein Verfahren der Spaltenbergung bei Unfällen am Gletscher mit Hilfe eines kombinierten Potenz- und Faktorenflaschenzugs.
+Dabei wird das Seil direkt über die Karabiner umgelenkt, da bei einer solchen Hilfsmaßnahme meistens keine Rollen zur Verfügung stehen.
+
+==== Ellington-Flaschenzug
+
+Der Ellington-Flaschenzug (nach seinem Erfinder benannt) besteht üblicherweise aus zwei Karabinern, durch die ein Band mehrfach geschlauft wird.
+Das Band wird durch die sich überlagernden Umwicklungen zu "Ersatzrollen".
+Beim Spannen wird an der untersten (inneren) Bandlage gezogen und die darüberliegenden bewegen sich parallel dazu mit.
+Die große Reibung des Bandes auf dem Karabiner ergibt jedoch nur einen schlechten Wirkungsgrad.
+
+==== Schnürungen
+
+Schnürungen, beispielsweise an Korsetts oder Schuhen verwenden ebenfalls eine rollenlose Zugtechnik.
+Hierbei ersetzen die Ösen, Haken oder Löcher die Stelle der Rollen.
+Die Vielzahl der Durchführungen erhöht die Reibung und verschlechtert den Wirkungsgrad, jedoch kann immer noch eine verstärkende Zug- bzw. Spannwirkung auf einer breiten Basis erreicht werden.
+
+=== Reversion der Flaschenzüge
+
+Spezialisierte Flaschenzüge nutzen auch eine Umkehrung der Zugfunktion eines Flaschenzuges.
+
+=== Hubhöhe unterschiedlicher Bauformen
+
+Die Anordnung der Rollen, bzw. der Flaschenzug-Bauart spielt auch eine entscheidende Rolle bei der maximal erreichbaren Hubposition.
+Während die übereinander angeordneten Rollen die längste Bauart (Eigenlänge) darstellt, kann die Anordnung auf einer Achse nebeneinander die Baulänge verkürzen.
+Eine der kürzesten Versionen eines Flaschenzuges stellt der Ellington-Flaschenzug dar.
+
+=== Rücklaufsicherung
+
+Beim Bewegen von Lasten kann es notwendig werden, die Last auf einer Höhe kurzfristig zu sichern bzw. zu fixieren.
+Die dafür notwendige Rücklaufsicherung gibt es mit verschiedenen Hilfsmitteln.
+Zum einen gibt es bei einigen Flaschenzügen schon angebaute Rücklaufsicherungen, welche mit Exzenterklemmen das Seil blockieren.
+Des Weiteren sind an- oder einzubauende Zusatzteile nützlich und werden entweder von Hand oder automatisch nachgeschoben.
+Beispiele: Gardaklemme, Kara-Acht-Schlinge, Prusikschlinge, Steigklemme, Tibloc und Tube um nur einige zu nennen.
+Einige dieser Klemmvorrichtungen wirken in eine Richtung blockierend und können sich nicht selbsttätig lockern, um beispielsweise ein Absenken der Last zu ermöglichen.
+Durch verschiedene Kombinationen kann dies jedoch erreicht werden.
+Der Bachmannklemmknoten kann am gezogenen Karabiner (im Bild links: durch die blaue "Reißleine") gelockert werden.
+Der Blake-Knoten lässt sich mit einer durchgeschlauften "Reißleine" (Bild rechts: blaue Leine = nach rechts unten) ebenfalls lockern.
+Somit lässt sich auch aus einiger Entfernung (z. B. von einem Standplatz am Boden) ein Flaschenzug fixieren, lockern und dadurch nochmals absenkend bedienen.
+
+== Reibungsverlust und Wirkungsgrad
+
+Alle oben genannten Gleichungen gelten nur unter der Voraussetzung, dass keine Verluste durch Reibung auftreten.
+In der Praxis jedoch sind die Reibungsverluste der Umlenkrollen selbst, sowie des Seils an den Umlenkrollen nicht zu unterschätzen.
+Auch besitzen das Seil, die beweglichen Umlenkrollen und die untere Aufhängung eine nicht unerhebliche Masse, die sich mit jeder neuen Rolle weiter erhöht.
+Die Zugkraft ist in der Praxis deshalb in jedem Fall größer als theoretisch errechnet:
+F Z > F L n {\displaystyle F_{\mathrm {Z} }> {\frac {F_{\mathrm {L} } }{n} } } .Für den Wirkungsgrad eines Flaschenzuges gilt:  = W nutz W zu = F L * h F Z * s {\displaystyle \eta ={\frac {W_{\text{nutz}}}{W_{\text{zu}}}}={\frac {F_{\mathrm {L} } \cdot h}{F_{\mathrm {Z} } \cdot s} }} .
+
+== Literatur
+
+== Weblinks
+
+== Belege
+

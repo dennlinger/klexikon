@@ -1,0 +1,178 @@
+Das Maschinenelement Zahnrad ist ein Rad mit über den Umfang gleichmäßig verteilten Zähnen.
+Zwei oder mehr miteinander gepaarte Zahnräder bilden ein Zahnradgetriebe.
+Es wird vorwiegend zur Übertragung zwischen zwei Drehungen oder einer Drehung und einer linearen Bewegung (Paarung eines Zahnrades mit einer Zahnstange) gebraucht.
+Zahnradgetriebe bilden unter den Getrieben die größte Gruppe.
+Sie sind formschlüssig, und somit schlupffrei.
+Soll das Übersetzungsverhältnis auch im Kleinen konstant sein, das heißt vom Eingriff des vorherigen bis zum Eingriff des nachfolgenden Zahns in die Lücken des Gegenrades, so ist das erste Verzahnungsgesetz zu beachten.
+Der Formschluss geht nicht verloren, wenn dafür gesorgt wird, dass der nachfolgende Zahn bereits im Eingriff ist, bevor der Eingriff des vorangehenden Zahns abbricht (zweites Verzahnungsgesetz).
+Die Form der Zähne ist unter Beachtung der Verzahnungsgesetze grundsätzlich beliebig.
+Die für eine Eingriffsfläche gewählte Form bestimmt aber die Form der Eingriffsfläche am Gegenrad.
+Praktisch beschränkt man sich auf Zahnformen, die einfach herstellbar (damit auch geometrisch einfach beschreibbar) sind.
+Die größte Verbreitung haben die Evolventenverzahnung und die Zykloidenverzahnung mit jeweils eigenen Vorteilen im Gebrauch.
+Neben reinen Zahnpaarungen in Zahnradgetrieben gibt es Paarungen zwischen Kettengliedern und Zähnen von Zahnrädern in Kettengetrieben.
+Hier greifen Kettenglieder in Zahnlücken ein (zum Beispiel bei einer Fahrradkette am Kettenrad und Ritzel).
+In einem Zahnriemengetriebe ist die Kette durch einen Riemen mit Zähnen (Zahnriemen) ersetzt (zum Beispiel für den Antrieb der Nockenwelle in Viertaktmotoren).
+Die Räder eines Zahnradgetriebes drehen sich zusammen mit den Wellen, auf denen sie befestigt sind, oder drehen sich auf Achsen, auf denen sie gelagert sind.
+Der Radabstand ist so ausgelegt, dass die Zähne ineinander greifen, und somit die Drehbewegung des einen Zahnrades auf das andere übertragen wird.
+Bei der Paarung zweier außen verzahnter Räder kehrt sich die Drehrichtung um.
+Falls das nicht erwünscht ist, wird ein drittes Zahnrad beliebiger Größe dazwischen angeordnet.
+Sind die Räder unterschiedlich groß, wird die Drehzahl erhöht oder verringert, wobei das Drehmoment vermindert oder erhöht wird (Änderung des Übersetzungsverhältnisses).
+Bei den altägyptischen Göpeln findet man nach 300 v. u. Z. die älteste Form des Zahnrades, ein Holzrad, in dessen Umfang man Pflöcke hineinstreckte.
+Die Rolle war bereits bei den Assyrern in Gebrauch und wurde von den Ägyptern übernommen, die Verbindung dieser Rollen mittels Seil führte zum bekannten Flaschenzug.
+Eine direkte Verbindung dieser Rollen wurde bereits 330 v. Chr. von Aristoteles erwähnt, gesichert ist die Anwendung von Zahnrädern bei Heron von Alexandria, überliefert durch Vitruv.
+Ktesibios verwendete um 250 v. Chr. an seiner Wasseruhr einen Stab, der mit Zahnrädchen besetzt war, ebenso Philon von Byzanz um 230 v. Chr. an zwei Apparaten Zahnräder.
+Das bedeutendste Artefakt für die Anwendung von Zahnrädern in der Antike ist der Mechanismus von Antikythera von ca. 100 v. Chr.
+Seit dem 9. Jahrhundert erfolgte in Europa der Einsatz von Zahnrädern in Wassermühlen, ab dem 12. Jahrhundert auch in Windmühlen.
+In Manuskripten Leonardo Da Vincis finden sich um 1500 Zahnräder in verschiedenen Anwendungen.
+Georgius Agricola gab 1556 in seiner Schrift De re metallica libri XII erstmals den Einsatz von Zahnrädern aus Eisen an.
+Allerdings wird in Xi'an im Geschichtsmuseum der Provinz Shaanxi ein Eisenzahnrad gezeigt, das ca. 2000 Jahre alt sein soll.
+Anfangs wurde wenig auf die geeignete Form der Zähne geachtet.
+Nach Angaben von Christiaan Huygens und Gottfried Wilhelm Leibniz empfahl der dänische Astronom Ole Romer um 1674 die Epi-Zykloide als Zahnform.
+Vermutlich war er beim Bau seiner Planetarien, z. B. des Jovilabium an der Pariser Academie des Sciences darauf gekommen.
+Schriftliche Belege dafür gibt es nicht mehr.
+Eine erste gründliche mathematische Untersuchung dieser Zahnräder beschrieb das Akademiemitglied Philippe de La Hire (1640-1718) um 1694 Traite des epicycloides (erschienen 1730).
+Diese epizykloidische Zahnform sichert eine gleichförmige Bewegung der Zahnräder bei gleichmäßiger Gleitreibung.
+Diese wurden gezielt in Uhrwerken eingebaut.
+1759 entwickelte John Smeaton eine eigene Form, gefolgt von Leonhard Euler, der 1760 die Evolvente für die Zahnform vorschlug (Evolventenverzahnung).
+Die Entwicklung der Dampfmaschine im 18. Jahrhundert führte zu einem steigenden Bedarf an Zahnrädern, da die zu übertragende Leistung kontinuierlich stieg und Zahnräder aus Metall anstatt wie bisher aus Holz gefertigt werden mussten.
+1820 erfand Joseph Woollams die Schrägverzahnung und Pfeilverzahnung (Doppelschrägverzahnung) (englisches Patent Nr. 4477 vom 20. Juni 1820), James White baute 1824 daraus ein Differentialgetriebe.
+1829 stellte Clavet eine Zahnhobelmaschine her, da der Werkzeugmaschinenbau ab dem 19. Jahrhundert eine steigende Genauigkeit der Verzahnungen erforderte.
+Die erste brauchbare Maschine zum Fräsen geradverzahnter Stirnräder baute 1887 G. Grant.
+1897 entwickelte Hermann Pfauter daraus eine universale Maschine, mit der sich auch Schnecken- und Schraubräder fertigen ließen.
+Ab 1922 entwickelte Heinrich Schicht bei Klingelnberg ein Verfahren zur Herstellung von Kegelrädern zur Serienreife.
+Neu war, dass hier nun ebenso wie bei Stirnrädern das kontinuierliche Wälzfräsverfahren eingesetzt werden konnte.
+Das Stirnrad (oder Zylinderrad) ist das am häufigsten verwendete Zahnrad.
+Eine zylindrische Scheibe ist auf ihrem Umfang verzahnt.
+Wenn das Gegenrad ebenfalls ein Stirnrad oder eine stirnverzahnte Welle ist, sind die Achsen der beiden Räder parallel, und es entsteht ein Stirnradgetriebe.
+Stirnräder werden aber auch in Getrieben mit sich kreuzenden Achsen verwendet, etwa in Schneckengetrieben und Kronenradgetrieben.
+Neben dem Stirnrad als Außenrad gibt es auch das Innenrad, welches nicht als Stirnrad bezeichnet wird, da mit Stirn eine Außenform gemeint ist.
+Es gibt gerade (achsparallele) Verzahnungen, Schrägverzahnungen, Doppelschräg-Verzahnungen und verschiedene Bogenverzahnungen.
+Bei Doppelschräg-Verzahnungen unterscheidet man zwischen denen mit Freistich oder ohne als echte Pfeilverzahnung.
+Die Zahnstange ist als ein Stirnrad mit unendlich großem Durchmesser vorstellbar.
+Die Paarung einer Zahnstange mit einem Stirnrad wird als Zahnstangengetriebe bezeichnet.
+Die Bewegung der Zahnstange ist geradlinig und durch ihre endliche Länge begrenzt.
+In üblichen Anwendungen findet eine Hin- und Herbewegung statt.
+Eine ungewöhnlich lange, aus vielen Einzelstücken zusammengesetzte Zahnstange ist die Zahnschiene einer Zahnradbahn.
+Die meisten Zahnradgetriebe bestehen aus runden Zahnrädern beziehungsweise aus Radkörpern mit runden Wälzlinien.
+Wenn sich das antreibende Rad gleichmäßig dreht, dreht sich auch das getriebene Rad gleichmäßig.
+Beispiel für ein ungleichmäßig übersetzendes, und damit aus unrunden Rädern bestehendes Zahnradgetriebe ist ein Ellipsenrad-Getriebe.
+Ein Ellipsenrad ist ein unrundes Zahnrad.
+Werden zwei gleiche und gleich große Ellipsenräder kombiniert, so ist der Achsabstand konstant.
+Die Räder drehen je um einen ihrer Ellipsenbrennpunkte.
+Das Übersetzungsverhältnis variiert über eine Umdrehung um den Mittelwert i = 1. Ist nur ein Rad elliptisch, so muss ein Rad auf einer Schwingachse montiert sein.
+Verwendet werden solche Zahnräder zum Beispiel in Webmaschinen.
+Besser bekannt ist ein elliptisches Kettenblatt im Kettenantrieb von Fahrrädern.
+Die Achsen von Kegelrädern sind nicht parallel, sondern schneiden sich.
+Meistens liegt der Schnittwinkel bei 90°.
+Die Grundform ist ein Kegelstumpf, dessen Mantelfläche verzahnt ist.
+Bei zwei miteinander gepaarten Kegelrädern fallen deren Spitzen zusammen.
+Die Zähne verlaufen meistens gerade in Richtung der Mantellinien, beim sogenannten Hypoidgetriebe sind sie bogenförmig.
+Das Zahnhöhenprofil von Kegelrädern entspricht einer Oktoide.
+Bei Spiralkegelrädern unterscheidet man hauptsächlich wie folgt:
+Ein Getriebe mit Kronenrad ist ein Winkelgetriebe und eine Variante zum Kegelradgetriebe.
+Es wurde früher öfter als ein Kegelradgetriebe verwendet (siehe Abbildung: Kronenradgetriebe aus Holz).
+Beim Kronenrad ist die Verzahnung auf der Kreisfläche eines Zylinders angebracht.
+Es bildet zusammen mit einem Stirnrad ein Kronenradgetriebe.
+Ein aus Schneckenrad und Schnecke gebildetes Schneckengetriebe wird neben anderen Getrieben dann verwendet, wenn sich die Wellen kreuzen, aber nicht schneiden.
+Weiteres Merkmal ist das relativ hohe Übersetzungsverhältnis.
+Das Schneckenrad kann im einfachsten Fall ein schräg verzahntes Stirnrad sein.
+Um Linien- anstatt nur Punktberührung zwischen den Zähnen im Getriebe zu erreichen, werden die Zahnflanken des Schneckenrades hohl ausgeführt.
+Die Verzahnung auf der kleinen Schnecke ähnelt einem Gewinde.
+Die Schnecke ist quasi ein Stirnrad mit wenigen sehr schrägen Zähnen, die schraubförmig um den Zylinder gewunden sind.
+Eine Windung entspricht einem Zahn.
+Bei der Globoidschnecke ist die gewindeartige Verzahnung nicht zylindrisch.
+Der Zylinder ist tailliert und passt sich so der Rundung des Schneckenrades an.
+Die Zahnradgetriebe lassen sich nach der Lage der Achsen und der im Eingriff stehenden Räder in Wälzgetriebe und in Schraubgetriebe unterteilen.
+Bei Wälzgetrieben liegen die Achsen entweder parallel (Stirnradgetriebe), oder sie schneiden sich (Kegelradgetriebe).
+Bei der Bewegungsübertragung rollen gedachte Wälzzylinder oder Wälzkegel - ohne zu gleiten - aufeinander ab.
+Gleiten findet nur auf den sich berührenden Zahnflächen in der Profilebene der Zähne statt (Wälzgleiten).
+Die Zähne berühren sich in Linien.
+Bei Schraubgetrieben liegen die Achsen weder parallel zueinander, noch schneiden sie sich.
+Die sich berührenden Zähne gleiten zusätzlich senkrecht zur Profilebene (Gleiten senkrecht zur Profilebene ist die typische Bewegung im Schraubgewinde).
+Schraubgetriebe sind
+Die Flanke eines Zahns ist oberhalb des Wälzpunktes eine Epizykloide und unterhalb eine Hypozykloide.
+Die Triebstockverzahnung ist ein Sonderfall der Zykloidenverzahnung:
+Rollkreis und Wälzkreis sind gleich groß.
+Die Verzahnung kann gerade, d. h. achsparallel, schräg (Schrägverzahnung) oder als Bogenverzahnung ausgeführt sein.
+Die Größe der Verzahnung wird bestimmt als Modul.
+Das Gegenrad muss eine Verzahnung von gleichem Modul aufweisen.
+Die Wildhaber-Novikov-Verzahnung ist eine Kreisbogenverzahnung.
+Mit der zum Übersetzungsverhältnis i {\displaystyle i} passend gewählten Zähnezahl z {\displaystyle z} und dem Modul m {\displaystyle m} ist der Wälzkreisdurchmesser d {\displaystyle d} bestimmt.
+Aus diesen Vorgaben werden die drei Kreisdurchmesser wie folgt errechnet:
+Bei innenverzahnten Hohlrädern ist bei Verwendung der Gleichung zu beachten, dass die Zähnezahl negativ ist und sich somit negative Durchmesser ergeben.
+Der Fußkreisdurchmesser eines Hohlrades ist betragsmäßig größer als der Kopfkreisdurchmesser.
+Die Teilung p {\displaystyle p } der Verzahnung ist die Länge des Bogens von Zahnmitte zu Zahnmitte auf dem Wälzkreis (auch Teilkreis genannt):
+Den Abstand a {\displaystyle a} (Achsabstand) der Achsen der miteinander gepaarten außen verzahnten Räder 1 und 2 geben folgende Gleichungen an:
+Der Modul bei Stirnrädern ist gemäß DIN 780-1 zu wählen.
+Alle Angaben gelten nur für Zahnräder ohne Profilverschiebung, d. h. unkorrigierte Zahnräder.
+Die Herstellung von Zahnrädern kann auf drei Arten erfolgen:
+Aufgrund von höherer Festigkeit und Genauigkeit werden in der industriellen Fertigung von Zahnrädern spanende Fertigungsverfahren bevorzugt.
+Die spanenden Verfahren zur Zahnradherstellung sind:
+Beim Profilfräsen und -schleifen hat das Werkzeug die exakte Form der Zahnflanke.
+Bei Wälzverfahren wird ein Werkzeug von der Herstellungsmaschine so geführt, dass es mit der herzustellenden Zahnflanke "abwälzt".
+Der Materialabtrag erfolgt nur an einem Punkt bzw. auf einer Linie.
+Hier kann ein Werkzeug für viele verschiedene Verzahnungsgeometrien genutzt werden, die Kinematik und somit die Steuerung der Maschine ist aber relativ kompliziert.
+Beim Profilverfahren benötigt man eine große Anzahl verschiedener Werkzeuge oder muss die Schleifscheibe vor ihrem Einsatz erst in die Form der Zahnflanke bringen ("abrichten" der Schleifscheibe).
+Wälzverfahren können kontinuierlich erfolgen, d. h. das ganze Zahnrad kann in einer durchgehenden Bewegung gefertigt werden (z. B. durch einen schneckenförmigen Fräser).
+Profilverfahren arbeiten immer im Teilverfahren, es kann also nur jeweils eine Zahnlücke gefertigt werden, danach wird das Werkrad um eine Lücke weitergedreht.
+Seit einigen Jahren wird bei Einzelteilfertigung oder geringen Stückzahlen verstärkt das Freiformfräsen bzw. 5-Achs-Fräsen auf Bearbeitungszentren angewendet.
+Die Grundidee basiert auf der Erkenntnis, dass ein Zahnrad letztendlich nichts anderes ist als eine Form - vergleichbar aus dem Werkzeug- und Formenbau - jedoch mit komplexer Verzahnungsgeometrie.
+Hierfür werden unprofilierte, von den Verzahnungsdaten des Werkstücks losgelöste, unabhängige Vollhartmetall-Werkzeuge eingesetzt.
+Typische Verzahnungswerkzeuge wie Wälzfräser und Scheibenfräser, Schneidräder, Hobelkämme und Hobelstähle, Messerköpfe mit Kegelradverzahnungsmesser, Kegelradfräser, Schneckenradwälzfräser entfallen.
+Prinzipiell können unterschiedliche Zahnradtypen auf demselben 5-Achs-simultanfähigen Bearbeitungszentrum in der Weich- und Hartbearbeitung (+/- 62 HRC) produziert werden.
+Die 5-Achs-Simultanfähigkeit stellt sicher, dass für die Schlichtbearbeitung von Schrägverzahnungen und Spiralverzahnungen unprofilierte Schaftfräser eingesetzt werden können, anstelle eines langwierigen Abzeilens mittels eines Kugelfräsers.
+Für die Fräsprogrammierung wird in der Regel eine separate CAM-Software verwendet, die den Schwerpunkt auf das Fräsen von Freiformflächen setzt und daher hervorragend auch für Zahnprofile genutzt werden kann.
+Je nach Art des Werkstücks, dem Zahnradmodul und der daraus resultierenden Größe der Zahnlücke können individuelle Frässtrategien für Schrupp-, Zahnfuß- und Schlichtbearbeitung gewählt werden.
+Zahnräder lassen sich nicht nur durch spanende Fertigungsverfahren, sondern auch durch Urform- und Umformverfahren herstellen.
+Diese Herstellungsverfahren spielen im Vergleich zu spanenden Fertigungsverfahren jedoch eine untergeordnete Rolle.
+Urformend können Zahnräder durch Gießen oder Sintern hergestellt werden; bei Zahnrädern aus Kunststoff kommt Spritzgießen zum Einsatz.
+Hauptanwendung ist die Feinwerktechnik, wo keine großen Drehmomente übertragen werden müssen.
+Kleine Zahnräder werden auch geätzt (ähnlich Lithographie) oder galvanisch hergestellt.
+Umformende Verfahren wie Schmieden, Pressen, Ziehen, Walzen (Ringwalzen) oder Stanzen kommen zum Einsatz, wenn keine hohen Anforderungen an die Genauigkeit gestellt werden.
+Geschmiedete Zahnräder finden dabei auch Verwendung in großtechnischen Anwendungen, so werden beispielsweise die Kegelräder von Differentialgetrieben im Fahrzeugbau durch Gesenkschmieden hergestellt.
+Zahnräder werden nach dem Verzahnen häufig gehärtet.
+Die Zahnflanken werden dadurch verschleißfester, im Besonderen gegen die sogenannte Grübchenbildung, und das Zahnrad erträgt höhere Belastungen und hält länger.
+Allerdings entsteht beim Härten Härteverzug, deshalb müssen in der Regel die Flanken nach dem Härten durch Schleifen nachbearbeitet werden, um die gewünschte Verzahnungsqualität zu erreichen.
+Die Konstruktion von Zahnrädern erfolgt rechnergestützt mittels CAD.
+Für die Zahnradfertigung mit Wälzfräsverfahren werden 2D-Zeichnungsdaten und Maschineneinstelldatenblätter, für die Zahnradfertigung mittels Freiformfräsen 3D-Zeichnungsdaten benötigt.
+Zahnräder werden nicht manuell auf Basis von Punktewolken, sondern mit speziell entwickelter Software konstruiert.
+Auf diese Weise wird sichergestellt, dass die Zahnräder im Betrieb sauber ineinandergreifen.
+Einige Programme bieten neben der mathematischen Berechnung auch eine Simulation der Kinematik bei der Herstellung, um beispielsweise unbeabsichtigten Unterschnitt zu vermeiden.
+Die Prüfung von Zahnrädern ist umfangreich und richtet sich nach der Art des Zahnrades.
+Bei der Zahnradprüfung werden die verschiedenen Bestimmungsgrößen von Zahnrädern mittels konventioneller Längen- und Winkelmessverfahren und spezieller Zahnradmessverfahren ermittelt.
+Für sicherheitskritische Anwendungen kommen bei der Fertigungsendprüfung Materialprüfverfahren wie das Röntgen oder Scannen mit Teilchenbeschleunigern zur Anwendung.
+Die Prüfung von Kegelrädern erfolgt hauptsächlich durch Laufprüfung.
+Unter Verwendung einer Laufprüfmaschine wird das zu prüfende Kegelrad mit einem Meisterrad in Eingriff gebracht und bei Sollachsabstand, Sollachswinkel und Solldrehzahl abgewälzt.
+Es wird eigentlich die spätere Funktion im Getriebe simuliert.
+Die Qualität des Kegelrades wird durch das entstandene Tragbild, die Geräuschentwicklung während der Laufprüfung und das Verdrehflankenspiel beurteilt.
+Bei den Laufprüfungen unterscheidet man zwischen Zweiflankenwälzprüfungen und Einflankenwälzprüfungen.
+Ergänzende Prüfungen sind weiterhin die Rundlaufprüfung durch Rundlaufprüfgeräte und die Zahndickenprüfung mit Zahndickenmessgeräten.
+Die rasante Entwicklung der Prüfmethoden ist auch bei der Kegelradprüfung erkennbar.
+Die Verwendung von Koordinatenmessgeräten hat inzwischen auch auf die Kegelradprüfung großen Einfluss.
+Mit entsprechender Software wird die Topografie des Kegelrades ermittelt, das Tragbild und Verdrehflankenspiel berechnet und simuliert.
+Korrekturwerte werden direkt an die Kegelradfräsmaschine weitergeleitet (Closed-Loop).
+Bei der traditionellen Fertigung auf Kegelradfräsmaschinen kommt es grundsätzlich zu mehr oder weniger großen Abweichungen zwischen den theoretischen Berechnungen und dem praktischen Fräsergebnis.
+Beim 5-Achs-Fräsen auf 5-Achs-simultanfähigen Bearbeitungszentren entfallen in der Regel solche nachträglichen Korrekturen, da aufgrund der Herstellmethode das Fräsergebnis und somit auch Position und Größe des Tragbildes auf Anhieb der Berechnung entspricht.
+Wichtigste Grundlagen für die Prüfung von Stirnrädern ist die Norm DIN ISO 1328, in welcher die Toleranzen für Stirnradverzahnungen festgelegt sind.
+Abhängig von den Qualitätsansprüchen werden unterschiedliche Prüfverfahren angewandt.
+Für die Funktion eines Stirnrades ist die Einhaltung der korrekten Zahndicke entscheidend.
+Die direkte Messung der Zahndicke ist jedoch nicht möglich, daher misst man zur Ermittlung der Zahndicke die Zahnweite oder das Maß über zwei in gegenüberliegende Zahnlücken eingelegte Meßrollen (Messung des Rollenmaßes).
+Zur Fertigung von Stirnrädern gibt der Konstrukteur in der Regel die Zahnweite oder das Rollenmaß mit entsprechenden Toleranzen vor.
+Bei der Herstellung von Stirnrädern ist fast immer die Zahnweite das einzuhaltende Fertigungsmaß und daher wird die Zahnweite bei fast allen Stirnrädern direkt an der Maschine gemessen.
+Die Zahnweite kann mit Bügelmeßschrauben auch am noch eingespannten Zahnrad gemessen werden.
+Bei der Zweiflankenwälzprüfung wird der Prüfling mit einem beweglich gelagerten Lehrzahnrad spielfrei in Eingriff gebracht und abgewälzt.
+Die entstehenden Achsabstandsänderungen werden registriert und als Zweiflankenwälzabweichung und Zweiflankenwälzsprung ausgewertet.
+Dabei werden nur Summenabweichungen ermittelt, d. h. Fehlerursachen sind teilweise schwer erkennbar.
+Das Lehrzahnrad muss geometriebezogen mit dem Prüfling übereinstimmen, das heißt in der Regel den gleichen Modul haben.
+Für Zahnräder mit hohen Qualitätsanforderungen ist dieses Verfahren weniger geeignet.
+Die Wälzprüfung kann hervorragend in Fertigungsabläufe integriert werden.
+Vergleichbar mit der Zweiflankenwälzprüfung ist das Verfahren der Einflankenwälzprüfung.
+Vorteilhaft bei diesem Prüfverfahren ist die Zuordnung der Abweichungen zur Rechts- bzw. Linksflanke.
+Die Ermittlung der Einzelfehler eines Stirnrades ist die sicherste und genaueste Methode zur Qualitätsbestimmung.
+Mit speziellen Verzahnungsmeßmaschinen und auch mit Koordinatenmessmaschinen und entsprechender Software werden die Profil-, Flanken- und Teilungsabweichungen sowie die Zahnweite ermittelt und im Messprotokoll ausgewertet.
+Dieser Messvorgang erfolgt automatisch.
+Aus den gemessenen Verzahnungsabweichungen lässt sich die Verzahnungsqualität des Zahnrades bestimmen.
+Eine gezielte Korrektur der Bearbeitungsmaschine ist danach möglich.
+Nach DIN 3961 (zurückgezogen) gibt es 12 Verzahnungsqualitäten, die mit unterschiedlichen Fertigungsmethoden erreicht werden können, wobei 1 die feinste und 12 die gröbste Verzahnungsqualität ist.
+Fertigungsverfahren:
+Folgende Schäden können auftreten:

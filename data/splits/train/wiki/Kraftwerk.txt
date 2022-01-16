@@ -1,0 +1,315 @@
+Ein Kraftwerk (veraltete Bezeichnung: Elektrizitätswerk, heute auch Stromerzeugungsanlage) ist eine technische Anlage zur Stromerzeugung und stellt in manchen Fällen zusätzlich thermische Energie bereit.
+Bei einem Kraftwerk wird mechanische Energie mittels Generatoren in elektrische Energie verwandelt, die in das Stromnetz eingespeist wird.
+Die mechanische Energie zum Antrieb der Generatoren stammt ihrerseits aus
+
+Es gibt auch Anlagen aus vielen gleichartigen kleinen Einheiten, bspw. Photovoltaikanlagen.
+Auch sie werden als Kraftwerke bezeichnet, obwohl sie keine beweglichen Teile enthalten und daher kinetische Energie nicht als Energieform in der Umwandlungskette vorkommt.
+
+Die jeweiligen Primärenergien werden in diesen Energieumwandlungsketten mit unterschiedlichen Wirkungsgraden in elektrische Energie umgewandelt.
+
+Alle Methoden stehen miteinander in wirtschaftlicher Konkurrenz und sind politisch teils gefördert (erneuerbare Energien: Sonne, Wasser, Wind, Geothermie), teils zusätzlich besteuert (Kernspaltung: Brennelementesteuer; Verbrennung: Kohlenstoffdioxid-Emission).
+
+== Geschichtliche Entwicklung
+
+Bis zum Ende des 19. Jahrhunderts wurde die benötigte Energie neben menschlicher und tierischer Kraft durch Dampfkraft erzeugt.
+Dampfmaschinen wurden genutzt, um mechanische Leistung zu erzeugen, die in Fabriken mittels Transmissionen zu den Maschinen übertragen wurde.
+Weitere bekannte Energiequellen waren Wasserkraft und Windkraft.
+Diese Primärenergiequellen konnten nur in unmittelbarer Nachbarschaft genutzt werden.
+
+Erst durch die Erfindung der Dynamomaschine war die Voraussetzung geschaffen, den Ort der Energiefreisetzung vom Ort des Energieverbrauchs räumlich zu trennen.
+Als Erfinder des Generators ohne Permanentmagnete wird bevorzugt Werner von Siemens genannt, der 1866 das dynamoelektrische Prinzip entdeckte und eine erste Dynamomaschine damit ausstattete.
+Bereits vor Siemens hatten jedoch Anyos Jedlik 1851 und Soren Hjorth 1854 mit dem von der Maschine selbst erzeugten Strom die Feldmagnete gespeist und dies beschrieben.
+Das erste Patent wurde 1854 Soren Hjorth erteilt.
+Die ersten Kraftwerke wurden von Dampfmaschinen angetrieben, es entstanden Stromnetze zur Verteilung der Energie.
+Im Stromkrieg, einen Systemwettstreit Ende des 19. Jahrhunderts zwischen den Verfahren der zu verwendeten Stromart, setzte sich bis auf wenige Ausnahmen für Stromnetze der Dreiphasenwechselstrom, eine Form von Wechselstrom mit drei Phasen, durch.
+Mit der Drehstrom-Hochspannungs-Übertragung können in Form von ausgedehnten Verbundnetzen größere Übertragungsstrecken bei akzeptablen Übertragungsverlusten realisiert werden.
+
+Die Verbrennung der Kohle in Dampfkesseln zur Erzeugung von Strom wurde schnell als weiterer Absatzmarkt von den Zechenbetreibern erkannt.
+Ausgehend von den Zechenkraftwerken wurde der Strom an die benachbarte Industrie und Privathaushalte verteilt.
+Nachdem der Strom anfangs vorwiegend für Beleuchtungszwecke genutzt worden war, führte die allgemeine Verfügbarkeit der Energie zu neuen innovativen strombetriebenen Maschinen in der Industrie und in Privathaushalten und damit zu einem weiteren Anstieg der Stromerzeugung.
+Heute ist ein hochentwickelter Staat ohne Kraftwerke und Stromnetz undenkbar.
+
+== Physikalische Grundlagen
+
+Kraftwerke wandeln nichtelektrische Energie (thermische, mechanische, chemische, solare oder auch atomare Energie) in elektrische Energie um.
+Die Energieumwandlung ist immer mit Exergieverlusten verbunden.
+Die eingesetzte Energie (fossile Energie, radioaktive Stoffe, Sonne, Wind, Biomasse, Wasserkraft) bilden die Primärenergie und der Strom die Sekundärenergie.
+Der elektrische Strom bildet eine sehr hochwertige Energie, die sich sehr gut weit übertragen und in andere Energiearten umwandeln lässt.
+Da nur ein Teil der Energie in elektrische Energie überführt werden kann, fällt immer ein nicht nutzbarer Energieanteil an, der als Entropie an die Umgebung abgegeben wird.
+Die bekannteste Form der Abwärme bilden die Kühlturmschwaden.
+Bei der Sonnenenergie erhitzt sich der Siliziumwafer, wenn das auftreffende Photon kein Elektron aus dem Leitungsband angehoben hat.
+Im Falle der Wasserkraft heizt die Reibung das Nutzwasser geringfügig auf.
+
+== Technologie
+
+=== Kraftwerksarten
+
+Folgende Arten von Kraftwerken sind im Einsatz:
+
+Mobile Kraftwerke:
+
+Im experimentellen Stadium befinden sich:
+
+Im experimentellen Stadium hinsichtlich der physikalischen Grundlagen sind:
+
+=== Technische Verfahren
+
+Die Verfahren, die sehr unterschiedlichen Arten von Primärenergie in elektrischen Strom umzuwandeln, unterscheiden sich bezüglich technischem Aufwand, Wirkungsgrad, aber auch Umweltbelastung.
+Einige Verfahren besitzen als Herzstück ein Dampfkraftwerk:
+Heißer Wasserdampf treibt eine Dampfturbine an, diese wiederum einen Generator, der den Strom erzeugt.
+Der Wirkungsgrad liegt bei 46 % und lässt sich - sofern Gas als Brennstoff verwendet wird - in einem Gas-und-Dampf-Kombikraftwerk auf 60 % erhöhen.
+
+Unabhängig davon kann man bei günstigen Umständen - wenn ein Großabnehmer von Niedertemperaturwärme unmittelbar benachbart ist - die Abwärme der Dampfkühlung nach der Turbine nutzen, was man als Kraft-Wärme-Kopplung bezeichnet.
+Dampfkraftwerke unterscheiden sich durch die Art der Wärmeerzeugung:
+
+Die Dampfturbine lässt sich durch andere Antriebsarten ersetzen:
+
+Zu einem Kraftwerk gehören eine Reihe von Komponenten:
+
+Alle diese Komponenten werden mit dem Kraftwerk-Kennzeichensystem erfasst und dokumentiert.
+Dies erleichtert die eindeutige Zuordnung und Benennung der Bauteile und hat sich international durchgesetzt.
+
+In allen heute im großtechnischen Einsatz befindlichen Kraftwerkstypen in Europa wird die elektrische Energie in Form von Drehstrom mit einer Frequenz von 50 Hertz bereitgestellt.
+Allerdings haben in Deutschland, Österreich und der Schweiz manche Kraftwerke noch einen zweiten Generator für Bahnstrom (Einphasenwechselstrom mit einer Frequenz von 16,7 Hertz), wobei es auch Kraftwerke gibt, die nur Bahnstrom erzeugen (Bahnkraftwerke).
+In anderen Gegenden der Welt (überwiegend in Amerika) wird eine Frequenz von 60 Hertz verwendet.
+
+==== Wirkungsgrad
+
+Der Wirkungsgrad eines Kraftwerkes gibt an, in welchem Maße die darin eingesetzte Primärenergie als Nutzenergie verfügbar gemacht wird.
+Dieser hängt stark von der verwendeten Technik ab und reicht von ca. 35 % bei einem Kernkraftwerk über 46 % bei (modernen) Steinkohlekraftwerken bis zu 90 % bei Wasserkraftwerken.
+
+Von der gesamten Nettostromerzeugung in Höhe von 594,3 TWh im Jahr 2013 wurden 107,7 TWh in Kraft-Wärme-Kopplung erzeugt.
+
+==== Vernetzung der Kraftwerke
+
+Nur geographisch isolierte Stromnetze (Inselnetze), beispielsweise auf kleineren, isolierten Inseln, werden von einem einzigen Kraftwerk versorgt.
+Fällt dieses geplant oder ungeplant aus, bricht die Stromversorgung und damit meist auch die lokale Infrastruktur mit gravierenden Folgen zusammen.
+Um solche Effekte zu vermeiden wurde schon 1954 ein HGÜ-Seekabel zwischen der Insel Gotland und dem schwedischen Festland in Betrieb genommen.
+
+Ist das zu versorgende Gebiet ausreichend groß, wird die Gesamtlast stets auf viele Kraftwerke verteilt:
+
+Grundlastkraftwerke haben geringe Primärenergiekosten und können deshalb günstigen Strom erzeugen.
+Durch ihre hohen Kapitalkosten müssen sie aber möglichst kontinuierlich durchlaufen.
+Auch lassen sie sich häufig schlecht regeln (Beispiel: Braunkohlekraftwerke) oder können ihre Primärenergie nicht speichern (Beispiel: Laufwasser-Kraftwerke).
+
+Bei dauerhaft Energie liefernden Kraftwerkstypen spricht man auch von Dauerstrich oder Dauerstrichleistung, in Abgrenzung zu Systemen mit zeitlich wechselnder Leistung, etwa Solarkraftwerken.
+
+Die vorhersehbaren und sich täglich wiederholenden langsamen Schwankungen des Strombedarfes im Tagesverlauf übernehmen die Mittellastkraftwerke.
+Viele Steinkohle-Kraftwerke werden so betrieben, d. h., sie werden am Morgen an- und abends abgefahren.
+
+Für die Aufnahme von kurzzeitigen Laständerungen und für unvorhersehbaren Notfälle werden Spitzenlastkraftwerke eingesetzt, welche die Stromproduktion schnell dem Bedarf anpassen können.
+Spitzenkraftwerke können auch als Mittel- und Grundlastkraftwerke eingesetzt werden.
+Deren Einsatzzeit wird aber typischerweise so kurz als möglich gehalten, da sie durch die höheren Brennstoffkosten (zum Beispiel Öl und Gas) bzw. höheren Betriebskosten auch die höchsten Kosten verursachen.
+
+Für manche Kraftwerkstypen spricht beispielsweise ihre Fähigkeit zum Schnellstart und damit zum Ausgleich von Lastschwankungen im Stromnetz.
+Gasturbinenkraftwerke und bestimmte Typen von Wasserkraftwerken können innerhalb weniger Minuten aus dem Stillstand heraus ihre volle Leistung ins Stromnetz abliefern, Dampfkraftwerke benötigen für diesen Vorgang einige Stunden, Kernkraftwerke benötigen einige Tage.
+Aus diesem Grunde werden die letztgenannten in erster Linie zur Deckung der Grundlast herangezogen, während Gasturbinen- und Wasserkraftwerke (Pumpspeicherkraftwerke) häufig die Spitzenlast im Netz übernehmen.
+
+Diese dezentrale Stromerzeugung ist seit Jahrzehnten Standard in allen Stromnetzen wie dem Europäischen Verbundsystem, wird aber in den letzten Jahren als besonderer Vorzug der Anbindung von Kleinstkraftwerken gepriesen.
+Deren Aufschwung begann in Deutschland mit dem Stromeinspeisungsgesetz von 1991.
+
+==== Steuerung der Kraftwerke
+
+Der Stromverbrauch ist nicht konstant, Kraftwerke können ausfallen und die Kraftwerksleistung kann variieren (siehe Bild).
+Da sich ohne Regelung die Netzfrequenz zu stark ändern würde, muss die Momentanleistung der angeschlossenen Kraftwerke ständig angepasst werden.
+
+Die kurzfristige Leistungsregelung, abhängig von der aktuellen Netzfrequenz, muss im Sekundenbereich geschehen.
+Dazu werden bestimmte Wärme-Kraftwerke leicht angedrosselt gefahren, damit kann durch Öffnen der Regelventile in der Frischdampfleitung die Stromerzeugung innerhalb von Sekunden um bis zu 5 % hochgefahren werden.
+Eine Alternative ist, die Kondensatvorwärmung aus Anzapfdampf zu reduzieren und so mehr Dampf für die Stromerzeugung in der Turbine zu lassen.
+Diese zweite Möglichkeit hat den Vorteil, dass sie den Wirkungsgrad des Kraftwerks nicht so beeinträchtigt wie die Frischdampf-Drosselung.
+Beide Maßnahmen nutzen sehr begrenzte Speicherkapazitäten (Dampf im Dampferzeuger, Wasservorrat im Speisewasserbehälter).
+Sie können also nur sehr kurzfristige Schwankungen ausregeln.
+
+Die Kraftwerksleistung lässt sich nicht beliebig schnell anpassen, die Zeiten liegen zwischen sieben Minuten bei Gasturbinenkraftwerken und einigen Stunden.
+Entsprechend haben Wasserkraftwerke und Gaskraftwerke sehr steile, Kohle- und Kernkraftwerke hingegen flache Lastrampen.
+Auch ist die Leistungsänderung beschränkt, die abgefangen werden kann.
+Als beispielsweise am 4. November 2006 eine Hochspannungsleitung, die gerade 10.000 MW übertrug, überraschend abgeschaltet wurde, erzeugten die Kraftwerke in Nord- und Osteuropa zu viel Leistung, die in West- und Südeuropa fehlte.
+Als Folge zerfiel das europäische Gesamtnetz durch regionale Notabschaltungen in kleine "Inseln", die wieder mühsam synchronisiert werden mussten.
+
+==== Steuerung von Verbrauchern
+
+Im Normalfall bestimmt der Stromverbraucher, wann und wie viel Energie er dem Netz entnimmt.
+Es gibt aber auch Möglichkeiten, die Energiebilanz eines Stromnetzes mit Hilfe der Verbraucher auszugleichen.
+Traditionell benutzt man dafür Rundsteuertechnik, die bereits 1899 erfunden wurde.
+Verbraucher wie Warmwasser- oder Wärmespeicherheizungen können für begrenzte Zeit ohne Energiezufuhr auskommen, ohne ihre Funktion zu verlieren.
+Manche Industriebetriebe schließen auch Verträge mit ihrem Stromversorger in denen sie sich bereit erklären, gelegentlich große Stromverbraucher auf Aufforderung für begrenzte Zeit abzuschalten (s. a. Lastabwurfkunden).
+Insbesondere in der Schweiz werden solche Systeme seit über 50 Jahren eingesetzt.
+Inzwischen werden diesbezüglich auch digitale Lösungen mit höherer Flexibilität entwickelt.
+
+Im Zusammenhang mit intelligenten Stromzählern dürfte diese Möglichkeit der Netzregelung große Bedeutung erlangen (s. a. intelligenter Stromverbrauch).
+Der Verbraucher legt z. B. fest, welchen Strompreis er für seine Waschmaschine maximal zahlen will.
+Der Energieversorger kann den intelligenten Stromzähler jederzeit mit aktuellen Tarifinformationen versorgen.
+Der intelligente Stromzähler schaltet zum passenden Zeitpunkt den Stromkreis der Waschmaschine frei.
+
+== Eigenschaften verschiedener Kraftwerksarten
+
+=== Überblick
+
+Es gibt keinen "besten" Kraftwerkstyp, jeder besitzt spezifische Vor- und Nachteile.
+Insbesondere auf Grund der hohen Flexibilität bezüglich Lastanpassung, geringer Standortabhängigkeit, kurzen Bauzeiten, niedrigen Baukosten und verhältnismäßig niedrigen Emissionen war die Stromerzeugung aus Erdgas mit 83,7 GW der Spitzenreiter bezüglich des Zubaus von neuer Kraftwerksleistung zwischen 2000 und 2008 in der EU, an zweiter Stelle lag Windkraft mit 55,2 GW.
+
+=== Verfügbarkeit von Primärenergie
+
+Die Wahl der Kraftwerkstypen ist abhängig von vielen Faktoren, wobei neben der Verfügbarkeit auch die wirtschaftliche Situation im jeweiligen Land von Bedeutung ist.
+Dabei stellen sich folgende elementare Einzelfragen:
+
+Vorhandene Gebirge bieten die Möglichkeit, günstige Wasserkraftwerke zu betreiben.
+In der Schweiz etwa wurden 2008 52 % des elektrischen Stromes in Wasserkraftwerken erzeugt, in Brasilien etwa 84 %, in Norwegen 98 % und in Kongo sogar über 99 %.
+Aus wetterbedingten Gründen (Niederschlag) ändert sich der Wasserkraftsenergie-Anteil meistens von Jahr zu Jahr.
+
+Manche Primärenergien wie Wind, Wellen oder Sonnenlicht sind kostenlos und weltweit in riesigen Mengen verfügbar.
+Ihrem Ausbau stehen zwar Probleme wie Standortabhängigkeit, wetterabhängige Energielieferung, Widerstand von etablierten Energielieferanten und lokaler Bevölkerung und hohe Investitionskosten gegenüber.
+Jedoch ist bereits heute sehr viel flexible Wasserkraftkapazität installiert (die weltweite Wasserkraftleistung beträgt über 1000 GW), Strom kann über tausende von Kilometern mit geringen Verlusten übertragen werden, die Variation von Windleistung ist kurzzeitig (somit muss Windenergie nicht über große Zeiträume gespeichert werden), vernetzte Windfarmen liefern Grundlast- und reduzierten Spitzenstrom und Wasser- und Solarstrom verhalten sich antizyklisch zu Windstrom (es wird mehr Windstrom und weniger Photovoltaik- und Wasserstrom im Winter generiert); daher ist die Integration von viel mehr Stromerzeugern, die mit kostenloser Primärenergie Strom produzieren, technologisch lösbar.
+
+=== Ortswahl
+
+Die Industriezentren und Großstädte als Großverbraucher elektrischen Stromes sind sehr ungleichmäßig über die Staatsflächen verstreut.
+Zur Vermeidung von Übertragungsverlusten werden nahe gelegene Großkraftwerke bevorzugt.
+Wenn möglich, werden Wärmekraftwerke für gewöhnlich an Flüssen mit ausreichender Wasserführung errichtet.
+Ausnahmen sind Braunkohlekraftwerke, die zugunsten geringer Transportkosten in Nähe der Förderstätten errichtet werden.
+
+Vergleichbare Probleme kennt man von Wasserkraftwerken, die weitab von Industriezentren gebaut wurden, weil genau dort extrem viel elektrische Leistung erzeugt werden kann:
+
+Windkraftwerke können prinzipiell auf jedem freien Feld aufgestellt werden, da zu ihnen während des Betriebes nur selten Materiallieferungen nötig sind und da sie wegen ihrer geringen Leistung den erzeugten Strom ins Nieder- oder Mittelspannungsnetz einspeisen.
+Allerdings muss wegen der Geräuschbelästigung ein Abstand von mehreren hundert Metern zu permanent bewohnten Häusern eingehalten werden.
+Der Standort einer Windkraftanlage muss über eine gute Standfestigkeit verfügen, da Windkraftanlagen schwer sind und bei starken Winden großen Belastungen standhalten müssen.
+
+Bei der Kraft-Wärme-Kopplung werden die insgesamt höchsten Wirkungsgrade - bis nahe 100 % - dann erzielt, wenn die stets anfallende Wärmeleistung keinen weiteren Transportverlusten unterliegt, idealerweise also direkt am Standort des Kraftwerks zum Heizen oder für Prozesswärme genutzt werden kann.
+Damit werden im Unterschied zu den anderen Kraftwerkstypen, deren Wirkungsgrad i.a.
+mit der Größe steigt, gerade kleinere, lokale Anlagen ökonomisch.
+
+=== Baugröße
+
+Die Baugröße wird von der Erfahrung geprägt, dass der elektrische Wirkungsgrad mit der Baugröße zunimmt und die Kosten pro erzeugter Energieeinheit abnimmt.
+Mit anderen Worten: Ein Kraftwerksblock mit 1000 MW (1 GW) kann zu günstigeren Kosten Strom produzieren als ein Kleinkraftwerk mit 1 MW vom gleichen Kraftwerkstyp.
+
+Kleinkraftwerke müssen beim Endverbraucher jedoch nicht mit Grosshandelsstrompreisen konkurrieren, sondern mit jenen für Endverbraucher, sodass ggf. eine bessere Wirtschaftlichkeit erreicht wird, da kein Verteilnetz im Spiel ist.
+Kleinkraftwerke werden zudem teils in Fernwärmenetzen eingesetzt, wodurch ein wesentlicher Teil der eingesetzten Primärenergie (höherer Gesamt-Wirkungsgrad) auch als Wärme verkauft werden kann.
+Mit steigenden Brennstoff- und CO2-Kosten gewinnen deshalb Kraft-Wärme-Kopplungs-Anlagen beziehungsweise BHKWs an Bedeutung.
+Als relativ kleine Kraftwerke können sie ihre Leistung schnell dem Bedarf anpassen, entlasten das Höchstspannungsnetz und mindern Übertragungsverluste durch Verbrauchernähe und verbessern die Versorgungssicherheit durch ihre größere Anzahl.
+
+=== Wirtschaftlichkeit
+
+==== Stromgestehungskosten
+
+Bei der Betrachtung der Energiegestehungskosten sind sowohl interne als auch externe Kosten zu betrachten.
+Interne Kosten werden durch den Produzenten getragen, während externe Kosten durch die Allgemeinheit getragen werden.
+
+Die internen Kosten lassen sich mit den Stromgestehungskosten darstellen.
+Diese können sich abhängig von der Art des Kraftwerkes, der spezifischen Investitionskosten, der Brennstoffkosten und seiner Betriebsweise deutlich unterscheiden.
+Angegeben werden Stromgestehungskosten zumeist in ct/kWh.
+Sie ergeben sich aus den auf die Stromproduktion bezogenen kapitalgebundenen Kosten, den verbrauchsgebundenen Kosten, den betriebsgebundenen und den sonstigen Kosten, wobei für die Berechnung der Kapitalkosten zumeist die Annuitätenmethode eingesetzt wird.
+
+Externe Kosten entstehen vor allem bei der konventionellen Energieerzeugung mit fossilen Energieträgern und der Kernenergie, während sie bei den Erneuerbaren Energien nur in geringem Maß anfallen.
+Sie äußern sich vor allem in Form von Umwelt, Klima- und Gesundheitsschäden; ihre Internalisierung erfordert üblicherweise staatliche Eingriffe.
+Unter gewissen Umständen können sie die Endkundenpreise für Strom übersteigen.
+Das Umweltbundesamt gibt die Externen Kosten von Braunkohle- bzw. Steinkohlekraftwerken mit 8,7ct/kWh bzw. 6,8 ct/kWh an, während sie bei der Stromerzeugung aus Photovoltaik mit 0,8 ct/kWh sowie der Windenergie mit 0,1 ct/kWh deutlich niedriger liegen.
+
+==== Investitionskosten
+
+Die untere Tabelle zeigt unter anderem die Investitionskosten für ein neues Kraftwerk und bezieht sich auf die Erzeugung von 1 kW elektrischer Spitzenleistung.
+Die Investitionen für ein Kraftwerk sind erheblich.
+Für eine Vollkosten-Stromerzeugungs-Rechnung muss man neben den Investitionskosten und der Bauzeit insbesondere auch die jährliche Laufzeit, Brennstoff-, Unterhalts-, indirekte Umwelt-, Rückbau- und Entsorgungskosten berücksichtigen.
+Zudem muss man beachten, wie flexibel ein Kraftwerk Strom erzeugen kann:
+Ein flexibles Kraftwerk (zum Beispiel Gas-, Öl- oder Speicherkraftwerk), das insbesondere zu Zeiten des Spitzenstrombedarfs und damit hoher Strompreise Strom produziert, arbeitet auch bei überdurchschnittlichen Stromerzeugungskosten noch profitabel.
+
+a) Daten für Deutschland, in anderen Ländern z. T. höher
+
+==== Wirtschaftliche Bedeutung
+
+Kraftwerke besitzen eine erhebliche technische Komplexität und haben einen entscheidenden Einfluss auf das Funktionieren einer Volkswirtschaft.
+In ihnen ist ein großer Teil des volkswirtschaftlichen Vermögens eines Staates gebunden, ihnen kommt zudem eine erhebliche Bedeutung im Verbrauch wirtschaftlicher und ökologischer Ressourcen zu.
+
+In Deutschland gibt es einen erheblichen Ersatzbedarf an Kraftwerkskapazitäten:
+Zahlreiche bestehende Braunkohle-, Steinkohle- und Erdgaskraftwerke nähern sich einer Altersgrenze, an der sie durch moderne Kraftwerke ersetzt werden sollten.
+Dafür sprechen technische, wirtschaftliche und ökologische Gründe.
+Dazu kommt der deutsche Ausstieg aus der Kernenergie, sodass weitere Kraftwerke in Zukunft abgeschaltet werden.
+
+=== Umweltbelastungen
+
+==== Kohlenstoffdioxid CO2
+
+Kraftwerke zur Elektrizitätserzeugung verursachen weltweit ca. 45 % der gesamten Kohlenstoffdioxid-Emissionen, die wiederum der Hauptursache für die gegenwärtig stattfindende globale Erwärmung sind.
+Besonders emissionsintensiv sind Kohlekraftwerke.
+Mit mehr als 10 Mrd. Tonnen CO2-Ausstoß im Jahr 2018 verursachen sie weltweit ca. 30 % der gesamten energiebedingten Kohlendioxidemissionen in Höhe von ca. 33 Mrd. Tonnen.
+
+In Deutschland wird etwa 50 % des Stroms durch Dampfkraftwerke erzeugt, in denen fossile Energie verbrannt wird und Kohlenstoffdioxid als Abgas erzeugt wird.
+Im Jahr 2015 stießen Kraftwerke in Deutschland nach vorläufigen Daten ca. 312 Mio. Tonnen Kohlenstoffdioxid aus.
+Der Emissionsfaktor, d. h. die durchschnittliche Kohlendioxidfreisetzung, lag bei 535 g CO2/kWh; 1990 waren es noch 761 g CO2/kWh gewesen.
+Damit sanken die Emissionen pro kWh von 1990 bis 2015 um ca. 29 %.
+Zurückzuführen ist dieser Rückgang auf den Ausbau erneuerbarer Energien und den größeren Wirkungsgrad des heutigen fossilen Kraftwerksparks.
+
+Aufgrund der elementaren Zusammensetzung des Energieträgers Kohle ist der CO2-Anteil bei der Verbrennung signifikant höher als beim Erdgas, dessen wesentlicher Bestandteil Methan bildet.
+Daher sollen für Kohlekraftwerke Versuchsanlagen errichtet werden, um Kohlenstoffdioxid aus dem Rauchgas zu kondensieren und in flüssiger Form bei zirka 60 bar unterirdisch in Klüften aus porösem Gestein zu verpressen (CO2-Abscheidung und -Speicherung, CCS).
+Allerdings ist diese Technologie mit erheblichen Einbußen beim Wirkungsgrad verbunden.
+Für die CO2-Kondensation und ihr Verpressen müssen etwa 10 % der eingesetzten Energie aufgewendet werden, so dass der Gesamtwirkungsgrad auf 35 % bis 40 % sinkt.
+
+Nicht alle Kraftwerke erzeugen im Betrieb CO2, jedoch entsteht bei der Herstellung, beim Betrieb und bei ihrem Abriss grundsätzlich auch klimaschädliches CO2.
+Die insgesamt (über den gesamten Lebenszyklus) freigesetzte Menge ist sehr unterschiedlich, wie die folgende Tabelle zeigt.
+
+In Deutschland beträgt der Anteil des in Kraft-Wärme-Kopplungs-Anlagen (BHKW) mit unterschiedlichen Energieträgern erzeugten Stroms etwa 13 %.
+Bei Erzeugung aus Erdgas wird dabei eine durchschnittliche CO2-Menge von 243 g/kWh freigesetzt.
+
+Beim Vergleich der Emissionsbilanz zwischen einem BHKW und einem Steinkohle- oder Gas- und Dampfkraftwerk sinken zwar die CO2-, SO2- und Feinstaub-Emissionen, dafür steigen jedoch die NOx- und CO-Emissionen.
+Sofern aber BHKWs alte Öl- und Gasheizungen ersetzen, verbessert sich die gesamte Emissionsbelastung (79 % des Deutschen Wärmebedarfs wird nach wie vor mit Öl- und Gasheizungen gedeckt und nur 13 % durch Fernwärme und lediglich 4 % mit Strom).
+
+==== Schädliche Rauchgase
+
+Das Abgas eines Kraftwerkes, in dem Rohstoffe wie Kohle oder Holz verbrannt werden, enthält nicht nur Kohlendioxid (CO2) und Wasserdampf, sondern - je nach Brennstoff - in geringer Beimengung weitere Bestandteile, die umwelt- und gesundheitsschädlich sind und daraus mithilfe sogenannter Rauchgasreinigung entfernt werden sollten.
+In Schwellenländern verzichtet man aus Kostengründen fast immer darauf und nimmt beispielsweise massive Smogbildung in Kauf.
+In Deutschland wurden ab 1974 entsprechende Verfahren gesetzlich vorgeschrieben und schrittweise realisiert.
+Die Entstehung des Atemgiftes Kohlenstoffmonoxid muss schon während der Verbrennung durch eine geeignete Steuerung unterbunden werden.
+
+==== Radioaktive Belastungen
+
+Von kerntechnischen Unfällen bzw. Problemen bei der Lagerung einmal abgesehen, ist die Strahlenbelastung des Menschen durch Gewinnung und Einsatz von Kohle deutlich höher als diejenige durch Kernkraftwerke.
+In Kohle sind Spuren verschiedener radioaktiver Substanzen enthalten, vor allem von Radon, Uran und Thorium.
+Der Gehalt liegt je nach Lagerstätte zwischen wenigen ppm und 80 ppm.
+Da weltweit etwa 7800 Millionen Tonnen Kohle pro Jahr in Kraftwerken verbrannt wird, schätzt man den Gesamtausstoß auf 10.000 Tonnen Uran und 25.000 t Thorium, der zum großen Teil in der Asche enthalten ist.
+Die Asche von europäischer Kohle enthält etwa 80 bis 135 ppm Uran.
+
+Bei der Kohleförderung, vor allem Staub aus Tagebauen, über Abgase von Kraftwerken oder über die Kraftwerksasche werden diese Substanzen freigesetzt und tragen zur künstlichen Strahlenbelastung bei.
+Dabei ist vor allem die Bindung an Feinstaubpartikel besonders kritisch.
+In der Umgebung von Kohlekraftwerken können oft sogar höhere Belastungen gemessen werden als in der Nähe von Kernkraftwerken.
+Nach Schätzungen des Oak Ridge National Laboratory werden durch die Nutzung von Kohle zwischen 1940 und 2040 weltweit 800.000 Tonnen Uran und 2 Millionen Tonnen Thorium freigesetzt werden.
+
+Zwischen 1960 und 1970 wurde in den USA etwa 1100 Tonnen Uran aus Kohleasche gewonnen.
+2007 beauftragte die chinesische National Nuclear Corp die kanadische Firma Sparton Resources, in Zusammenarbeit mit dem Beijing No.
+5 Testing Institute Versuche durchzuführen, Uran aus der Asche des Kohlekraftwerks Xiaolongtang in der Provinz Yunnan zu gewinnen.
+Der Urangehalt der Asche aus diesem Kraftwerk liegt mit durchschnittlich 210 ppm Uran (0,021 % U) über dem Urangehalt mancher Uranerze.
+
+==== Landschaftszerstörung
+
+Die sehr preiswerte Gewinnung von Braunkohle im Tagebau führt zu Zwangsumsiedlung ganzer Dörfer (Liste abgebaggerter Ortschaften), zur Vernichtung von landwirtschaftlich nutzbarer Fläche und zur Niveauabsenkung des Geländes unter den Grundwasserspiegel.
+Nach der großflächigen Zerstörungen der Landschaft folgt oft eine Rekultivierung, wobei tiefer liegenden Gebiete der Abbaugruben geflutet werden.
+Diese können dann - wie das Leipziger Neuseenland - touristisch genutzt werden.
+An den Steilufern der ehemaligen Kohlegruben können sich auch noch Jahrzehnte nach Ende der Abbauarbeiten Erdrutsche wie am Concordiasee mit Todesfällen und hohem Sachschaden ereignen.
+
+==== Erwärmung von Flüssen
+
+Die meisten thermischen Kraftwerke nutzen Flusswasser zum Kühlen, insgesamt jährlich ca. 224 Kubikkilometer in Nordamerika und 121 Kubikkilometer in Europa.
+Um die Umweltbelastung durch die zusätzliche Wassererwärmung durch Kraftwerke nicht zu groß werden zu lassen, müssen deswegen im Sommer Kraftwerke zum Teil gedrosselt bzw. komplett abgeschaltet werden.
+Durch die Globale Erwärmung wird sich dieser Effekt noch weiter verstärken.
+So wird sich in Europa die Wassertemperatur von Flüssen im Hochsommer laut einer Studie zwischen 2031 und 2060 um ca. 0,8-1,0 °C erhöhen, in den USA um 0,7-0,9 °C.
+Dadurch könnte die Produktion von konventionellen Kraftwerken um 6-19 % bzw. 4-16 % geringer ausfallen.
+Dieser Rückgang könnte durch Erneuerbare Energien kompensiert werden.
+Zugleich steigen durch die knapperen (Kühl-)Wasserressourcen in fast allen europäischen Staaten mit Ausnahme von Norwegen und Schweden die Stromgestehungskosten der konventionellen Energieerzeugung.
+Am vorteilhaftesten für die Einsparung von Wasser im Energiesektor ist gemäß Lebenszyklusanalyse der Umstieg auf Photovoltaik- und Windkraftanlagen.
+
+== Kulturelle Bedeutung
+
+Manche Kraftwerke aus der Pionierzeit der Elektrifizierung sind heute noch voll betriebene technische Denkmäler.
+So war das Walchenseekraftwerk früher das Wahrzeichen des Bayernwerks.
+Manche Kraftwerksbauten wurden unter künstlerischen Gesichtspunkten entworfen oder wurden im Rahmen von Kunstprojekten verziert.
+Ein prominentes Beispiel dieser Art ist das Kraftwerk Heimbach, das im Jugendstil entworfen wurde.
+
+== Verweise
+
+=== Siehe auch
+
+=== Literatur
+
+=== Weblinks
+
+=== Fußnoten
+

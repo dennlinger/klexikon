@@ -1,0 +1,104 @@
+Das Ohr ist ein Sinnesorgan, mit dem Schall, also Töne, Laute, Klänge oder Geräusche aufgenommen werden.
+Zum Ohr als Organ gehört auch das Gleichgewichtsorgan.
+
+Zum Hörsystem, das die auditive Wahrnehmung ermöglicht, gehören außer Außen-, Mittel- und Innenohr auch der Hörnerv und die Umschalt- und Verarbeitungsstationen im zentralen Nervensystem, bei Säugetieren also einige Areale im Hirnstamm und Zwischenhirn, bis hinauf zur auditiven Hirnrinde.
+
+== Etymologie
+
+Das gemeingermanische Wort mittelhochdeutsch or(e), althochdeutsch ora beruht auf idg.
+*ous- "Ohr" (vgl. lateinisch auris; altgriechisch o us, Genitiv o otos).
+
+== Ohren im Allgemeinen
+
+Der Hörsinn ist gegen den Vibrationssinn abzugrenzen.
+Letzterer nimmt Substratschall auf, etwa wenn der Untergrund vibriert.
+Hören, d. h. die Wahrnehmung rhythmischer Druckwellen in Luft oder Wasser, ist in der Evolution nur bei relativ wenigen Tiergruppen entstanden.
+Fast alle Landwirbeltiere (Tetrapoden), viele Fische und etliche Insektenarten können demnach hören, ebenso einige Kopffüßer.
+Die meisten Wirbellosen leben jedoch in einer stummen Welt.
+Bei den Wirbeltieren hat die Natur das Hören wahrscheinlich 2- bis 3-mal unabhängig voneinander erfunden.
+Die ersten Hörorgane entstanden im Devon vor etwa 380 Millionen Jahren.
+Ein wesentlicher Schritt zum Erwerb eines guten Hörvermögens war danach die Entwicklung eines Mittel- und Innenohrs, inklusive eines Trommelfelles.
+Bei den Insekten entstand das Hörvermögen sogar mindestens 20-mal unabhängig voneinander.
+
+Aufbau und Platzierung der Hörorgane sind bei den verschiedenen Arten sehr unterschiedlich.
+Bei Heuschrecken sitzen die Ohren am Hinterleib oder den Beinen, bei Zikaden an den Beinen und bei Mücken und Fliegen an den Fühlern.
+Einige Eidechsen- und Salamanderarten hören mit Brustkorb und Lunge.
+Äußere Ohren sind bei den meisten Säugetierarten und Vogelarten vorhanden, Ausnahmen finden sich bei einigen Delfinarten.
+Reptilien, Amphibien und Fische haben keine äußeren Ohren.
+Bei Reptilien und Amphibien sitzt dadurch das Trommelfell direkt an der Außenseite des Kopfes.
+
+Der Hörbereich des menschlichen Ohrs reicht in jungen Jahren von etwa 16 Hertz bis maximal 20.000 Hertz.
+Unter anderem können Elefanten noch tiefere Frequenzen wahrnehmen, den Infraschall, während eine Reihe von Tieren, zum Beispiel Mäuse, Hunde, Delfine und Fledermäuse, noch wesentlich höhere Frequenzen, den Ultraschall, hören können.
+
+Eine Aufgabe des Hörens ist die Orientierung im Raum, also Schallquellen zu lokalisieren, das heißt, deren Richtung und Entfernung zu bestimmen.
+Seitlich einfallender Schall erreicht das zugewandte Ohr eher als das abgewandte und ist dort lauter, da das abgewandte Ohr durch den Kopf abgeschattet wird.
+Diese Laufzeitdifferenzen und Pegeldifferenzen zwischen beiden Ohren werden vom Gehirn ausgewertet und zur Richtungsbestimmung genutzt.
+Darüber hinaus erzeugt die Ohrmuschel je nach Richtung spezifische Veränderungen des Frequenzgangs, die ebenfalls ausgewertet und zur Richtungsbestimmung benutzt werden.
+
+Viele Lebewesen, auch der Mensch, können vorhandene Schallquellen lokalisieren, die Orientierung im Raum erfolgt aber vor allem mit Hilfe des Gleichgewichtssinns und des Gesichtssinns.
+Delfine und Fledermäuse haben in der Evolution den Gehörsinn zu einem besonders hochstehenden Orientierungssystem entwickelt.
+Beide stoßen hochfrequente Signale im Ultraschallbereich aus (bis 200 kHz) und orientieren sich anhand des Echos.
+Dieses aktive Verfahren zur Orientierung nennt man Ortung.
+Bei den Fledermäusen hat das Gehör die Augen weitgehend ersetzt, die in der Dunkelheit von keinem großen Nutzen sind.
+
+== Das Ohr des Menschen
+
+=== Aufbau
+
+Der anatomische Aufbau und die genaue Funktion des Ohres waren im Mittelalter noch weitgehend unbekannt.
+Neuzeitliche Kenntnisse darüber gewannen unter anderem Andreas Vesalius, Bartolomaeus Eustachius, Gabriel Falloppius und Johannes Philippus Ingrassia (1510-1580).
+Beim Menschen und anderen Säugetieren wird das Ohr in drei Bereiche eingeteilt:
+
+=== Gehör
+
+Die Wahrnehmung von akustischen Signalen wird wesentlich davon mitbestimmt, wie Schallschwingungen auf ihrem Weg vom Außenohr über das Mittelohr hin zu den Nervenzellen des Innenohrs jeweils umgeformt und verarbeitet werden.
+Das menschliche Gehör kann akustische Ereignisse nur innerhalb eines bestimmten Frequenz- und Schalldruckpegelbereichs wahrnehmen.
+Zwischen der Hörschwelle und der Schmerzschwelle liegt die Hörfläche.
+
+Der leiseste wahrnehmbare Schalldruck bei normalhörenden Menschen ist bei einem Ton von 2.000 Hz etwa 20 Mikro-Pascal (20 Pa = 2*10-5 Pa), das entspricht Lp = 0 dBSPL Schalldruckpegel.
+Diese Schalldruckveränderungen  p werden über das Trommelfell und die Mittelohrknöchelchen ins Innenohr übertragen, und im Ohr-Gehirnsystem entsteht dann der Höreindruck.
+Weil das Trommelfell als Sensor mit dem Ohrsystem die Eigenschaften eines Schalldruckempfängers hat, beschreibt der Schalldruckpegel als Schallfeldgröße die Stärke des Höreindrucks am besten.
+Die Schallintensität J in W/m^2 ist als Schallenergiegröße hingegen nicht geeignet, den Höreindruck zu beschreiben; aufgrund der komplexen Impedanz des Außen- und Mittelohres bei gleichem Schalldruckpegel .
+Gleiches gilt sinngemäß für die Schallschnelle.
+
+Das menschliche Gehör vermag bereits eine äußerst geringe Schallleistung aufzunehmen.
+Der leiseste wahrnehmbare Schall erzeugt eine Leistung von weniger als 10-17 W im Innenohr.
+Innerhalb einer zehntel Sekunde, die das Ohr braucht, um dieses Signal in Nervenimpulse umzusetzen, wird durch eine Energie von etwa 10-18 Joule schon ein Sinneseindruck erzeugt.
+Daran wird deutlich, wie empfindlich dieses Sinnesorgan eigentlich ist.
+
+Die Schmerzgrenze liegt bei über 130 dBSPL, das ist mehr als der dreimillionenfache Schalldruck des kleinsten hörbaren (63,246:0,00002 = 3.162.300).
+Vor allem das Innenohr und hier die Haarzellen und deren Stereozilien, nehmen bei hohem Schalldruck Schaden.
+
+Beim Richtungshören und bei der Kopfhörer-Stereofonie spielen Laufzeitunterschiede und Pegelunterschiede zwischen beiden Ohren und somit auch der individuelle Ohrabstand eine gewisse Rolle, sowie spektrale Eigenschaften der Ohrsignale.
+
+Die Techniken zur Untersuchung der Hörfähigkeit werden unter dem Begriff Audiometrie zusammengefasst.
+Ein Ergebnis eines Hörtests, der das Hörvermögen bei verschiedenen Frequenzen untersucht, nennt sich Audiogramm.
+Aus diesem lässt sich meistens die Hörschwelle ablesen.
+
+Außerhalb des eigentlichen Ohres liegen jedoch die Nervenbahnen, die zum Hörzentrum des Hirns führen, sowie das Hörzentrum selbst.
+Sind diese beeinträchtigt, so kann auch bei einem funktionsfähigen Ohr die Schallwahrnehmung beeinträchtigt sein.
+
+Der Weg des Schalls: Ohrmuschel = Gehörgang = Trommelfell = Gehörknöchelchen = Hörschnecke = Hörnerv
+
+=== Krankheiten
+
+Das menschliche Ohr kann auf verschiedenartige Weisen erkranken, die jeweils für den betroffenen Teil des Ohres spezifisch sind.
+
+Zur Diagnostik von Erkrankungen des Ohres stehen, insbesondere der Hals-Nasen-Ohren-Heilkunde, neben den allgemein üblichen Methoden der Medizin wie Röntgenuntersuchungen, serologischen und visuellen Untersuchungen auch Hörtests zur Verfügung.
+
+== Ohrabdruck
+
+Der Abdruck der Ohren kann zur Identifizierung einer Person dienen.
+Dabei hat der Ohrabdruck einen ähnlich hohen Beweiswert wie ein Fingerabdruck.
+Die Kriminalistik kann auf Basis der hinterlassenen Ohrabdrücke, z. B. beim Lauschen an Fenstern oder Haustüren, durchaus Straftäter überführen.
+Vorteil gegenüber dem Fingerabdruck ist, dass ein Ohrabdruck meist nicht zufällig entsteht.
+Fingerabdrücke sind meist von vielen Personen am Tatort zu finden.
+
+Das menschliche Außenohr wächst nach der Adoleszenz langsam weiter, mit durchschnittlich etwa 0,2 mm pro Jahr.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

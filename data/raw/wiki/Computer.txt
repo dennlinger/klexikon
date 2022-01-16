@@ -1,0 +1,168 @@
+Ein Computer (englisch; deutsche Aussprache ) oder Rechner ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet.
+Dementsprechend sind vereinzelt auch die abstrahierenden bzw. veralteten, synonym gebrauchten Begriffe Rechenanlage, Datenverarbeitungsanlage oder elektronische Datenverarbeitungsanlage sowie Elektronengehirn anzutreffen.
+
+Charles Babbage und Ada Lovelace gelten durch die von Babbage 1837 entworfene Rechenmaschine Analytical Engine als Vordenker des modernen universell programmierbaren Computers.
+Konrad Zuse (Z3, 1941 und Z4, 1945) in Berlin, John Presper Eckert und John William Mauchly (ENIAC, 1946) bauten die ersten funktionstüchtigen Geräte dieser Art.
+Bei der Klassifizierung eines Geräts als universell programmierbarer Computer spielt die Turing-Vollständigkeit eine wesentliche Rolle.
+Sie ist benannt nach dem englischen Mathematiker Alan Turing, der 1936 das logische Modell der Turingmaschine eingeführt hatte.
+
+Die frühen Computer wurden auch (Groß-)Rechner genannt; ihre Ein- und Ausgabe der Daten war zunächst auf Zahlen beschränkt.
+Zwar verstehen sich moderne Computer auf den Umgang mit weiteren Daten, beispielsweise mit Buchstaben und Tönen.
+Diese Daten werden jedoch innerhalb des Computers in Zahlen umgewandelt und als solche verarbeitet, weshalb ein Computer auch heute eine Rechenmaschine ist.
+
+Mit zunehmender Leistungsfähigkeit eröffneten sich neue Einsatzbereiche.
+Computer sind heute in allen Bereichen des täglichen Lebens vorzufinden, meistens in spezialisierten Varianten, die auf einen vorliegenden Anwendungszweck zugeschnitten sind.
+So dienen integrierte Kleinstcomputer (eingebettetes System) zur Steuerung von Alltagsgeräten wie Waschmaschinen und Videorekordern oder zur Münzprüfung in Warenautomaten; in modernen Automobilen dienen sie beispielsweise zur Anzeige von Fahrdaten und steuern in "Fahrassistenten" diverse Manöver selbst.
+
+Universelle Computer finden sich in Smartphones und Spielkonsolen.
+Personal Computer (engl. für Persönliche Computer, als Gegensatz zu von vielen genutzten Großrechnern) dienen der Informationsverarbeitung in Wirtschaft und Behörden sowie bei Privatpersonen; Supercomputer werden eingesetzt, um komplexe Vorgänge zu simulieren, z. B. in der Klimaforschung oder für medizinische Berechnungen.
+
+== Begriffsgeschichte
+
+=== Rechner
+
+Der deutsche Begriff Rechner ist abgeleitet vom Verb rechnen.
+Zur Etymologie siehe Rechnen#Etymologie.
+
+=== Computer
+
+Das englische Substantiv computer ist abgeleitet von dem englischen Verb to compute.
+Jenes ist abgeleitet von dem lateinischen Verb computare, was zusammenrechnen bedeutet.
+
+Der englische Begriff computer war ursprünglich eine Berufsbezeichnung für Hilfskräfte, die immer wiederkehrende Berechnungen (z. B. für die Astronomie, für die Geodäsie oder für die Ballistik) im Auftrag von Mathematikern ausführten und damit Tabellen wie z. B. eine Logarithmentafel füllten.
+
+In der frühen Kirchengeschichte erfolgte eine Ablösung des jüdischen Kalenders durch den Julianischen Kalender.
+Die hieraus resultierenden Berechnungsschwierigkeiten des Osterdatums dauerten bis zum Mittelalter an und waren Gegenstand zahlreicher Publikationen, häufig betitelt mit Computus Ecclesiasticus.
+Doch finden sich noch weitere Titel, z. B. von Sigismund Suevus 1574, die sich mit arithmetischen Fragestellungen auseinandersetzen.
+Der früheste Text, in dem das Wort Computer isoliert verwendet wird, stammt von 1613.
+
+In der Zeitung The New York Times tauchte das Wort erstmals am 2. Mai 1892 in einer Kleinanzeige der United States Navy mit dem Titel A Computer Wanted ,Ein Rechner gesucht' auf, in der Kenntnisse in Algebra, Geometrie, Trigonometrie und Astronomie vorausgesetzt worden sind.
+
+An der University of Pennsylvania in Philadelphia wurden im Auftrag der United States Army ballistische Tabellen berechnet.
+Das Ergebnis waren Bücher für die Artillerie, die für unterschiedliche Geschütze Flugbahnen unterschiedlicher Geschosse vorhersagten.
+Diese Berechnungen erfolgten größtenteils von Hand.
+Die einzige Hilfe war eine Tabelliermaschine, die zu multiplizieren und zu dividieren vermochte.
+Die Angestellten, die dort rechneten, wurden "computer" (im Sinne eines menschlichen Computers) genannt.
+Erstmals wurde der Begriff 1946 bei der dort entwickelten elektronischen Rechenanlage Electronic Numerical Integrator and Computer (ENIAC) für ein technisches Gerät verwendet.
+Seit 1962 ist der Begriff in Deutschland belegt.
+
+== Grundlagen
+
+Grundsätzlich unterscheiden sich zwei Bauweisen:
+Ein Rechner ist ein Digitalrechner, wenn er mit digitalen Geräteeinheiten digitale Daten verarbeitet (also Zahlen und Textzeichen); er ist ein Analogrechner, wenn er mit analogen Geräteeinheiten analoge Daten verarbeitet (also kontinuierlich verlaufende elektrische Messgrößen wie Spannung oder Strom).
+
+Heute werden fast ausschließlich Digitalrechner eingesetzt.
+Diese folgen gemeinsamen Grundprinzipien, mit denen ihre freie Programmierung ermöglicht wird.
+Bei einem Digitalrechner werden dabei zwei grundsätzliche Bestandteile unterschieden:
+Die Hardware, die aus den elektronischen, physisch anfassbaren Teilen des Computers gebildet wird, sowie die Software, die die Programmierung des Computers beschreibt.
+
+Ein Digitalrechner besteht zunächst nur aus Hardware.
+Die Hardware stellt erstens einen Speicher bereit, in dem Daten portionsweise wie auf den nummerierten Seiten eines Buches gespeichert und jederzeit zur Verarbeitung oder Ausgabe abgerufen werden können.
+Zweitens verfügt das Rechenwerk der Hardware über grundlegende Bausteine für eine freie Programmierung, mit denen jede beliebige Verarbeitungslogik für Daten dargestellt werden kann:
+Diese Bausteine sind im Prinzip die Berechnung, der Vergleich und der bedingte Sprung.
+Ein Digitalrechner kann beispielsweise zwei Zahlen addieren, das Ergebnis mit einer dritten Zahl vergleichen und dann abhängig vom Ergebnis entweder an der einen oder der anderen Stelle des Programms fortfahren.
+In der Informatik wird dieses Modell theoretisch durch die eingangs erwähnte Turing-Maschine abgebildet; die Turing-Maschine stellt die grundsätzlichen Überlegungen zur Berechenbarkeit dar.
+
+Erst durch eine Software wird der Digitalcomputer jedoch nützlich.
+Jede Software ist im Prinzip eine definierte, funktionale Anordnung der oben geschilderten Bausteine Berechnung, Vergleich und bedingter Sprung, wobei die Bausteine beliebig oft verwendet werden können.
+Diese Anordnung der Bausteine, die als Programm bezeichnet wird, wird in Form von Daten im Speicher des Computers abgelegt.
+Von dort kann sie von der Hardware ausgelesen und abgearbeitet werden.
+Dieses Funktionsprinzip der Digitalcomputer hat sich seit seinen Ursprüngen in der Mitte des 20. Jahrhunderts nicht wesentlich verändert, wenngleich die Details der Technologie erheblich verbessert wurden.
+
+Analogrechner funktionieren nach einem anderen Prinzip.
+Bei ihnen ersetzen analoge Bauelemente (Verstärker, Kondensatoren) die Logikprogrammierung.
+Analogrechner wurden früher häufiger zur Simulation von Regelvorgängen eingesetzt (siehe: Regelungstechnik), sind heute aber fast vollständig von Digitalcomputern abgelöst worden.
+In einer Übergangszeit gab es auch Hybridrechner, die einen Analog- mit einem digitalen Computer kombinierten.
+
+Mögliche Einsatzmöglichkeiten für Computer sind:
+
+=== Hardwarearchitektur
+
+Das heute allgemein angewandte Prinzip, das nach seiner Beschreibung durch John von Neumann von 1946 als Von-Neumann-Architektur bezeichnet wird, definiert für einen Computer fünf Hauptkomponenten:
+
+In den heutigen Computern sind die ALU und die Steuereinheit meistens zu einem Baustein verschmolzen, der so genannten CPU (Central Processing Unit, zentraler Prozessor).
+
+Der Speicher ist eine Anzahl von durchnummerierten, adressierbaren "Zellen"; jede von ihnen kann ein einzelnes Stück Information aufnehmen.
+Diese Information wird als Binärzahl, also eine Abfolge von ja/nein-Informationen im Sinne von Einsen und Nullen, in der Speicherzelle abgelegt.
+
+Bezüglich des Speicherwerks ist eine wesentliche Designentscheidung der Von-Neumann-Architektur, dass sich Programm und Daten einen Speicherbereich teilen (dabei belegen die Daten in aller Regel den unteren und die Programme den oberen Speicherbereich).
+Demgegenüber stehen in der Harvard-Architektur Daten und Programmen eigene (physikalisch getrennte) Speicherbereiche zur Verfügung.
+Der Zugriff auf die Speicherbereiche kann parallel realisiert werden, was zu Geschwindigkeitsvorteilen führt.
+Aus diesem Grund werden digitale Signalprozessoren häufig in Harvard-Architektur ausgeführt.
+Weiterhin können Daten-Schreiboperationen in der Harvard-Architektur keine Programme überschreiben (Informationssicherheit).
+
+In der Von-Neumann-Architektur ist das Steuerwerk für die Speicherverwaltung in Form von Lese- und Schreibzugriffen zuständig.
+
+Die ALU hat die Aufgabe, Werte aus Speicherzellen zu kombinieren.
+Sie bekommt die Werte von der Steuereinheit geliefert, verrechnet sie (addiert beispielsweise zwei Zahlen) und gibt den Wert an die Steuereinheit zurück, die den Wert dann für einen Vergleich verwenden oder in eine andere Speicherzelle schreiben kann.
+
+Die Ein-/Ausgabeeinheiten schließlich sind dafür zuständig, die initialen Programme in die Speicherzellen einzugeben und dem Benutzer die Ergebnisse der Berechnung anzuzeigen.
+
+=== Softwarearchitektur
+
+Die Von-Neumann-Architektur ist gewissermaßen die unterste Ebene des Funktionsprinzips eines Computers oberhalb der elektrophysikalischen Vorgänge in den Leiterbahnen.
+Die ersten Computer wurden auch tatsächlich so programmiert, dass man die Nummern von Befehlen und von bestimmten Speicherzellen so, wie es das Programm erforderte, nacheinander in die einzelnen Speicherzellen schrieb.
+Um diesen Aufwand zu reduzieren, wurden Programmiersprachen entwickelt.
+Diese generieren die Zahlen innerhalb der Speicherzellen, die der Computer letztlich als Programm abarbeitet, aus Textbefehlen heraus automatisch, die auch für den Programmierer einen semantisch verständlichen Inhalt darstellen (z. B. GOTO für den "unbedingten Sprung").
+
+Später wurden bestimmte sich wiederholende Prozeduren in so genannten Bibliotheken zusammengefasst, um nicht jedes Mal das Rad neu erfinden zu müssen, z. B.: das Interpretieren einer gedrückten Tastaturtaste als Buchstabe "A" und damit als Zahl "65" (im ASCII-Code).
+Die Bibliotheken wurden in übergeordneten Bibliotheken gebündelt, welche Unterfunktionen zu komplexen Operationen verknüpfen (Beispiel: die Anzeige eines Buchstabens "A", bestehend aus 20 einzelnen schwarzen und 50 einzelnen weißen Punkten auf dem Bildschirm, nachdem der Benutzer die Taste "A" gedrückt hat).
+
+In einem modernen Computer arbeiten sehr viele dieser Programmebenen über- bzw. untereinander.
+Komplexere Aufgaben werden in Unteraufgaben zerlegt, die von anderen Programmierern bereits bearbeitet wurden, die wiederum auf die Vorarbeit weiterer Programmierer aufbauen, deren Bibliotheken sie verwenden.
+Auf der untersten Ebene findet sich aber immer der so genannte Maschinencode - jene Abfolge von Zahlen, mit der der Computer auch tatsächlich gesteuert wird.
+
+=== Computersystem
+
+Als Computersystem bezeichnet man:
+
+== Geschichte
+
+== Arten
+
+=== Basierend auf Arbeitsweise des Computers
+
+=== Basierend auf der Größe
+
+== Zukunftsperspektiven
+
+Zukünftige Entwicklungen bestehen voraussichtlich aus der möglichen Nutzung biologischer Systeme (Biocomputer), weiteren Verknüpfungen zwischen biologischer und technischer Informationsverarbeitung, optischer Signalverarbeitung und neuen physikalischen Modellen (Quantencomputer).
+
+Ein Megatrend ist derzeit (2017) die Entwicklung künstlicher Intelligenz.
+Hier simuliert man die Vorgänge im menschlichen Gehirn und erschafft so selbstlernende Computer, die nicht mehr wie bislang programmiert werden, sondern mit Daten trainiert werden ähnlich einem Gehirn.
+Der Zeitpunkt, an dem künstliche Intelligenz die menschliche Intelligenz übertrifft, nennt man technologische Singularität.
+Künstliche Intelligenz wird heute (2017) bereits in vielen Anwendungen, auch alltäglichen, eingesetzt (s. Anwendungen der künstlichen Intelligenz).
+Hans Moravec bezifferte die Rechenleistung des Gehirns auf 100 Teraflops, Raymond Kurzweil auf 10.000 Teraflops.
+Diese Rechenleistung haben Supercomputer bereits deutlich überschritten.
+Zum Vergleich liegt eine Grafikkarte für 800 Euro (5/2016) bei einer Leistung von 10 Teraflops.
+Vier Jahre später (Dezember 2020) besitzen bereits Videospielkonsolen für ca. 500 € vergleichbare Leistung.
+
+Für weitere Entwicklungen und Trends, von denen viele noch den Charakter von Schlagwörtern bzw. Hypes haben, siehe Autonomic Computing (= Rechnerautonomie), Grid Computing, Cloud Computing, Pervasive Computing, ubiquitäres Computing (= Rechnerallgegenwart) und Wearable Computing.
+
+Die weltweite Websuche nach dem Begriff "Computer" nimmt seit Beginn der Statistik 2004 stetig ab.
+In den zehn Jahren bis 2014 war diese Zugriffszahl auf ein Drittel gefallen.
+
+== Zeitleiste
+
+== Weltweite Marktanteile der Computerhersteller
+
+Wikipedia:WikiProjekt Ereignisse/Vergangenheit/ 2012
+
+Verkaufszahlen und Marktanteile der Computerhersteller nach Angaben des Marktforschungsunternehmens Gartner Inc., basierend auf Verkaufszahlen von Desktop-Computer, Notebooks, Netbooks, aber ohne Tabletcomputer, an Endkonsumenten:
+
+== Bekannte Computerhersteller
+
+=== Aktuelle Hersteller
+
+=== Bekannte ehemalige Computerhersteller
+
+== Literatur
+
+Geschichte:
+
+== Weblinks
+
+Computermuseen
+
+== Einzelnachweise
+

@@ -1,0 +1,243 @@
+Die serbische Sprache (serbisch cpc e srpski jezik) ist eine Standardvarietät aus dem südslawischen Zweig der slawischen Sprachen und basiert wie Kroatisch und Bosnisch auf einem stokavischen Dialekt.
+
+Serbisch wird von ca. 6,7 Millionen Menschen in Serbien, wo es die Amtssprache ist, als Muttersprache gesprochen.
+Daneben wird es auch in Bosnien und Herzegowina, Kosovo, Kroatien, Montenegro und Nordmazedonien von etwa 2 Millionen Menschen gesprochen.
+In Mittel- und Westeuropa, Australien und den USA, wo sich eine große serbische Diaspora befindet, von etwa 3,5 Millionen Auswanderern, wobei deren Sprachkenntnisse unterschiedlich stark ausgeprägt sind.
+Sowohl das lateinische Alphabet als auch das kyrillische Alphabet werden verwendet.
+Nach der im November 2006 in Kraft getretenen Verfassung wird die Sprache in Serbien offiziell in kyrillischer Schrift geschrieben, wobei im Alltag und in den Medien auch die lateinische Form oft zur Anwendung kommt.
+
+Sowohl nach grammatikalischen Kriterien als auch im Vokabular und der Aussprache ist die serbische Sprache der kroatischen und bosnischen Sprache so ähnlich, dass sich alle Serbischsprechenden mühelos mit Sprechern des Bosnischen und Kroatischen verständigen können (siehe auch: Deklaration zur gemeinsamen Sprache und Serbokroatische Sprache).
+
+== Verbreitung
+
+Serbisch wird von über acht Millionen Menschen vorwiegend in Serbien, Montenegro, Bosnien und Herzegowina, im Kosovo und in Kroatien als Muttersprache gesprochen.
+In Rumänien, Ungarn, Albanien und Nordmazedonien gibt es kleinere Gemeinden mit Serbisch als Muttersprache.
+Serbisch ist nationale Amtssprache in Serbien, Montenegro, Kosovo und Bosnien und Herzegowina.
+Auf regionaler und lokaler Ebene ist es Amtssprache in Kroatien und Nordmazedonien.
+Zudem existiert eine große serbische Diaspora.
+
+=== Varianten
+
+Die serbische Sprache existiert heute zum größten Teil in zwei Aussprachevarianten.
+
+Unabhängig von der Aussprachevariante gehören die meisten Sprecher der stokavischen Dialektgruppe an.
+Im Südosten Serbiens werden torlakische Dialekte gesprochen.
+
+== Schrift
+
+=== Kyrillische und lateinische Schrift
+
+Während in der serbischen Verfassung die kyrillische Schrift als Schrift für den offiziellen Gebrauch der Republik Serbien verankert ist, werden im Alltag sowohl die kyrillische als auch die lateinische Schrift benutzt.
+Auch auf der Internetseite der serbischen Regierung steht: "Die offizielle Sprache in Serbien ist Serbisch und die offiziell gebrauchte Schrift ist Kyrillisch, während auch die lateinische Schrift in Gebrauch ist.
+In den Gebieten, die von ethnischen Minderheiten bewohnt werden, sind die Sprachen und Schriften dieser Minderheiten offiziell in Gebrauch, wie gesetzlich gesichert."
+
+Im Alltag macht sich dieser Umstand auch bemerkbar.
+Während in manchen Zeitungen beide Schriften bunt gemischt vorkommen, oder an Schaufenstern mal die lateinische, mal die kyrillische Schrift vorhanden ist, werden offizielle Dokumente größtenteils kyrillisch verfasst.
+
+Die Verwendung der verschiedenen Schriften hängt dabei von mehreren Faktoren ab.
+So werden die jeweiligen Schriftformen in unterschiedlichen Regionen bevorzugt.
+Vor allem in Zentralserbien und der bosnischen Republika Srpska verwendet man eher die kyrillische Schrift, während die Serben Kroatiens und in der nordserbischen Vojvodina die lateinische Schrift bevorzugen.
+In Montenegro wurde noch bis etwa 2004 fast ausschließlich die kyrillische Schrift in allen Gesellschaftsformen verwendet.
+Heutzutage jedoch wird vermehrt auch lateinische Schrift verwendet.
+Eine weitere Rolle spielt die politische Ausrichtung des Schreibers.
+Konservativ ausgerichtete Zeitungen verwenden beispielsweise eher die kyrillische Schrift.
+Der Schriftgebrauch ist auch vom Textgegenstand abhängig.
+Religiöse und traditionelle Texte werden eher mit kyrillischer Schrift geschrieben, für moderne Inhalte verwendet man eher die lateinische Schrift.
+
+=== Alphabete
+
+Das serbische Alphabet (ya Azbuka oder pa irilica) in kyrillischer Schreibweise umfasst 30 Buchstaben in folgender Reihenfolge:
+
+Die davon verschiedene Reihenfolge in lateinischer Schreibweise lautet:
+
+Die Digraphen dz, lj und nj werden in der alphabetischen Ordnung jeweils als ein einzelner Buchstabe aufgeführt.
+Es gibt nur eine sehr geringe Anzahl von Wörtern, in denen diese Zeichengruppen zwei getrennte Laute bezeichnen und deshalb als zwei Buchstaben behandelt werden müssen.
+Ausländische Namen werden im Serbischen in der Regel geschrieben, wie man sie spricht z. B.: Grace Kelly - Grejs Keli oder Shakespeare - Sekspir.
+Im Kroatischen hingegen werden Namen und Eigennamen in ihrer ursprünglichen Form übernommen.
+
+=== Darstellung in Computersystemen
+
+Die Sonderzeichen können in Unicode mit den folgenden Kodierungen aus dem Unicodeblock Lateinisch, erweitert-A erstellt werden, wobei der Buchstabe D nicht mit dem isländischen  (Eth) verwechselt werden darf, da dessen Kleinbuchstabe eine andere Form () hat:
+
+=== Serbische Schreibschrift
+
+Einige Buchstaben unterscheiden sich in serbischer Kursiv- und Handschrift von den entsprechenden Buchstaben der international dominanten russischen Schriftform.
+Kleines  und  kommen in dieser Form nur in serbischer und makedonischer Schreibschrift vor; die übrigen Buchstabenformen von , , ,  und  können auch in russischer Handschrift vorkommen.
+
+Zur Darstellung serbischer Texte, die kursiven Text enthalten, ist also eine besondere Schrift erforderlich.
+Einige OpenType-Schriften wählen automatisch die passende lokale Form, wenn dem Darstellungsprogramm die Textsprache bekannt ist.
+
+== Aussprache
+
+Die Mehrzahl der Buchstaben wird im Großen und Ganzen wie im Deutschen ausgesprochen.
+
+=== Wortakzent
+
+Die serbische Standardsprache und die meisten Mundarten gehören zu den tonalen Sprachen und sind damit entfernt mit dem Chinesischen vergleichbar (im Chinesischen betreffen Tonunterschiede allerdings alle Silben, im Serbischen nur die betonten Silben).
+Die Tonunterschiede können auch Bedeutungsunterscheidungen ausdrücken, in diesen Fällen kann dann die falsche Aussprache, d. h. die Missachtung des Tonverlaufs, zu Missverständnissen führen.
+
+Viele Akzentunterschiede treten in morphologischen Varienten auf:
+
+In der Schrift wird in den allermeisten Fällen auf die Bezeichnung des Tonverlaufs verzichtet.
+Ausnahmen ergeben sich bei gewissen Kombinationen wie etwa
+
+Zu beachten hierbei ist, dass sam die 1. Person Singular vom Verb biti (sein) ist, sam hingegen die 1. Person, männliche Form, vom Adjektiv sam (allein, ) ist.
+Die weibliche und sächliche Form dieses Adjektivs erfahren aber eine Akzentänderung, es heißt daher sama (f.) und samo (n.).
+
+Serbisch kennt vier Wortakzente (siehe unten).
+Die nachfolgenden Silben können entweder lang oder kurz sein, was auch die Bedeutung ändern kann.
+
+==== Entstehung der Tonunterschiede
+
+Fallende Akzente sind älter.
+Heute treten sie meistens am Wortanfang auf (die Ausnahmen werden in Schriftsprachen von manchen Autoren überhaupt nicht akzeptiert).
+Physisch entsprechen diese Akzente dem Englischen und Italienischen und werden von Deutschsprachigen selten richtig ausgesprochen.
+
+a - langfallend, wie z. B. in laz (die Lüge), cast (die Ehre), Marko (Name)
+
+ - kurzfallend, wie z. B. in psti (fallen), zba (der Frosch), Mlica (Frauenname)
+
+==== Steigende Akzente
+
+Steigende Akzente sind jünger, sie treten nur in den so genannten neustokavischen Mundarten und überall dort auf, wo die fallende Betonung nicht auf der ersten Silbe war, sowie in den meisten Entlehnungen aus dem Deutschen.
+
+a - langsteigend, wie z. B. in zaci (untergehen, bspw. die Sonne), tama (die Dunkelheit), cokolada (Schokolade)
+
+a - kurzsteigend, wie z. B. in pratilac (der Verfolger), kaziprst (der Zeigefinger), baklava (Baklave)
+
+==== Unbetonte Vokallängen
+
+a - Kurz und unbetont, wie z. B. die zweite Silbe in lagati (lügen), oder die letzte in sama (allein )
+
+a - Lang und unbetont, wie z. B. dama (der Damen - im Vergleich dazu dama, die Dame ), Jugoslavija (Jugoslawien)
+
+=== Vokalisches "r"
+
+Zur Besonderheit des Serbischen zählt das r, das sowohl einen Vokal als auch einen Konsonanten bezeichnen kann.
+Dieses vokalische r ist ein Relikt aus dem Altkirchenslawischen, und es wird vermutet, dass ursprünglich auch nie ein Vokal im engeren Sinne davor oder dahinter gesetzt wurde.
+Ein weiteres Beispiel für einen solchen Konsonanten, der ehemals auch als Vokal auftrat, ist das l. Aus diesem ist im heutigen Serbischen vorwiegend u hervorgegangen.
+So hieß es früher vlk anstatt des heutigen vuk (Wolf), ebenso mlciti anstatt des heutigen muciti (quälen).
+
+Als Vokal tritt das r in zahlreichen Wörtern auf wie smrt (der Tod), vrteti (drehen), rvati se (ringen; im Serbischen reflexiv, daher se), crtati (zeichnen), prst (der Finger) etc.
+Als Konsonant ist es vor oder nach einem Vokal anzutreffen, wie etwa in ruka (der Arm), praznik (der Feiertag), car (der Kaiser) oder garav (rußig).
+
+Dementsprechend kann auch das vokalische r alle sechs Vokalakzente annehmen, es kann also aufsteigend (vrteti), absteigend (smrt) und unbetont (smrtovnica, die Todesanzeige) auftreten.
+
+== Grammatik
+
+Das Serbische zählt zu den flektierenden Sprachen, d. h., dass sowohl Nomina, daneben auch Pronomina, Adjektive, sowie auch Verben gebeugt werden.
+Dabei haben sich mannigfaltige Formen erhalten.
+Im Gegensatz zum Deutschen besitzt das Serbische keine Artikel.
+Gelegentlich werden Demonstrativpronomen dort eingesetzt, wo es einer sinngemäßen Betonung bedarf.
+Die Nominalflexion ist ähnlich groß und komplex wie die des Russischen und viel reicher als die des Bulgarischen, das einen Gutteil davon verloren hat.
+Bezüglich Verbalflexion und Zeitformen hingegen ist das Serbische sogar weit komplexer als etwa das moderne Russische.
+
+=== Nominalflexion
+
+Das Serbische unterscheidet sieben Fälle (Kasus), die sich nach Genus (Geschlecht des Wortes, also maskulin, feminin oder neutrum) und Numerus (Zahl des Wortes, also Singular, Paukal und Plural) richten.
+Zu den auch im Deutschen bekannten Fällen, Nominativ, Genitiv, Dativ und Akkusativ, treten drei weitere hinzu, Vokativ, Lokativ und Instrumentalis.
+
+Der Vokativ ist der Ruffall, er steht beim unmittelbaren Ansprechen bzw. Anrufen einer Person (oder auch, seltener, einer Sache, wenn sie personifiziert wird).
+Beispiele wären Stevane!
+von Stevan (serb.
+für Stefan), oce - Vater, von otac (der Vater), Boze (moj)! - (mein) Gott!, von Bog (Gott) oder zemljo draga - liebes Land, von zemlja (das Land, die Erde).
+
+Der Lokativ steht auf die Frage wo?
+Während ursprünglich der Lokativ ohne Präposition stand, gibt es ihn im heutigen Serbischen nur noch mit solchen.
+Er steht hauptsächlich nach u (in), aber auch nach etlichen anderen Präpositionen.
+Zu beachten ist, dass die Endung immer die gleiche wie beim Dativ ist, doch sind die beiden Fälle keineswegs als eine Synthese zu einem einzigen zu betrachten, wonach es insgesamt sechs Kasus gäbe.
+Dies wird an der Aussprache ersichtlich.
+So heißt es etwa (k) satu (zur Uhr hin, Dativ), jedoch na satu (auf der Uhr, Lokativ).
+
+Der Instrumentalis steht auf die Frage womit?
+Er kann sowohl mit als auch ohne Präpositionen auftreten und ist damit gut vergleichbar mit dem Lateinischen Ablativ (sowohl mit als auch ohne cum).
+So sagt man etwa nozem (mit dem Messer, von noz), silom (mit Kraft, von sila) oder s drgom (mit dem Freund, von drug).
+Darüber hinaus hat er temporalen Charakter, wie etwa in jutrom (bei Morgen) oder nocu (nachts), ferner pod nogama (unter den Füßen, eigentl.
+Beinen) von noga, poda mnom (unter mir), pod tobom (unter dir) etc.
+
+Anmerkungen:
+
+(Es handelt sich hierbei lediglich um eine unvollständige Aufführung der Deklinationen.
+Sie gilt nicht für alle Wörter, denn es gibt noch etliche weitere Klassen.)
+
+=== Verbalflexion
+
+Die Verben werden nach Tempus, Numerus und Modus flektiert.
+Darüber hinaus existieren im Serbischen, wie im Russischen und anderen slawischen Sprachen, zwei verschiedene Aspekte, der vollendete und der unvollendete.
+Hier soll eine kurze Übersicht dargestellt werden:
+
+Im Serbischen gibt es acht verschiedene Tempora.
+Dieser Reichtum ist allerdings in der gesprochenen Sprache bei Weitem nicht so blühend wie in der geschriebenen.
+Einige Formen sind dabei förmlich untergegangen, sodass deren korrekte Bildung selbst bei Muttersprachlern für Verwirrung sorgen kann, wie z. B. das Imperfekt, das fast ausnahmslos nur noch in der älteren Literatur anzutreffen ist.
+Andere sind wiederum in den anderen slawischen Sprachen kaum oder gar nicht mehr bekannt, weil es sich dabei um sehr alte Formen handelt, wie z. B. der Aorist, der hier und da zwar noch gebräuchlich ist, allgemein jedoch verschwindet, gerade in der Sprache der Kinder und der Jugend.
+
+Diese Formen sind, am Beispiel von peci (braten) hier nur in der ersten Person Singular angeführt:
+
+Präsens (ja) pecem,
+
+vier Vergangenheitsformen:
+
+Aorist, (ja) pekoh, Imperfekt (ja) pecijah, Perfekt ja sam pekao/pekla (m./f.) bzw. pekao/pekla sam, Plusquamperfekt ja sam bio pekao bzw. bio sam pekao,
+
+zwei Zukunftsformen:
+
+Futur ja cu peci bzw. pecicu, Futur II (kad) budem pekao.
+
+und zwei Modi conditionales (ähnlich dem Konjunktiv im Deutschen ):
+
+Konditionalis Präsens ja bih pekao bzw. pekao bih und Konditionalis Perfekt ja bih bio pekao bzw. bio bih pekao.
+pekao (m.), pekla (f.), peklo (n.) sind hierbei die PPA.
+
+Zu beachten ist, dass peci den unvollendeten Aspekt bezeichnet.
+Für den vollendeten sagt man hingegen ispeci.
+So heißt es dann (ja) ispecem statt (ja) pecem, ebenso ja sam ispekao.
+
+Die entsprechenden Formen können sowohl im Aktiv, wie oben dargestellt, als auch im Passiv auftreten.
+Letzteres konstruiert mit dem PPP und den verschiedenen Formen von biti/bivati (sein).
+Die PPP von etwa peci lauten pecen (m.), pecena (f.), peceno (n.).
+
+=== Rektion und Flexion der Numeralia
+
+Beim Zählen ergibt sich eine Besonderheit:
+Handelt es sich um Mengen, die zwischen zwei und vier liegen, so wird nicht der Plural, sondern der Paukal verwendet.
+Alle übrigen Mengen jenseits von fünf werden mit dem Plural, und zwar mit dem Genitiv (Genitivus partitivus) verwendet.
+Der Paukal entstammt einer Zeit, als es im Serbischen noch den Dual gab, der sich im heutigen Slowenischen oder dem Sorbischen immer noch erhalten hat.
+Die Form des Paukals ist bei Substantiven nunmehr fast deckungsgleich mit dem Genitiv Singular, sowohl in Aussprache als auch in Schrift, außer bei Feminina der a-Deklination, wo die Endung (-e) stets kurz statt lang ist; und bei Adjektiven und Pronomina ebenfalls mit dem Genitiv Singular jedoch ausschließlich in der unbestimmten Form.
+
+So heißt es:
+
+Dies gilt bis dvadeset (zwanzig).
+Für 21 (31, 41, ...) gilt Regel 1, für 22-24 (32-34, 42-44, ...) Regel 2 und für alle weiteren Regel 3.
+
+Die Zahlen selbst werden, anders als im Deutschen, auch über eins hinaus gebeugt:
+
+jedan, jedna, jedno (einer, eine, eines)
+
+dva, dvije /dve , dva (zwei, ähnlich wie im Lateinischen duo, duae, duo)
+
+tri (drei), sowie
+
+cetiri (vier) sind für alle Formen gleich im Nominativ.
+
+jedan wird stets parallel zum Substantiv dekliniert, dva hier und da, tri und cetiri hingegen selten.
+So heißt es jednoga muskarca (eines Mannes, Gen.), jednoj zeni (einer Frau, Dat.), dvaju zena (der zwei Frauen bzw. "zweier" Frauen, Gen.), selten troma muskarcima (den drei Männern, Dat.) oder cetirma zenama (den vier Frauen, Dat.).
+Ab pet (fünf) sind die Zahlen indeklinabel.
+
+=== Syntax
+
+Durch den ausgeprägten flektierenden Charakter des Serbischen besteht im Grunde eine freie Wortstellung.
+Dies ergibt sich dadurch, dass Satzelemente eindeutig durch ihr Suffix bestimmt und sie daher leicht zuzuordnen sind, selbst wenn sie über den Satz verstreut sind.
+Die allgemein übliche Wortstellung ist Subjekt-Prädikat-Objekt (SPO), wie z. B.
+
+Allerdings sind auch folgende Konstruktionen durchaus gebräuchlich, besonders, wenn der Satz nicht allein steht:
+
+In allen Fällen kann durch die verschiedene Satzbetonung, eine andere Bedeutung hervortreten, z. B.:
+
+== Sprachbeispiel
+
+Allgemeine Erklärung der Menschenrechte, Artikel 1:
+
+== Quellen
+
+== Weblinks
+

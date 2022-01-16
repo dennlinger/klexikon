@@ -1,0 +1,398 @@
+Backgammon ist eines der ältesten Brettspiele der Welt.
+Es handelt sich um eine Mischung aus Strategie- und Glücksspiel.
+Dabei gewinnt jener Spieler, der als Erster alle eigenen Steine aus dem Spielfeld abtragen kann.
+
+== Geschichte
+
+=== Antike
+
+Die alten Griechen führten die Erfindung des Würfel-Brettspiels auf Palamedes zurück, der damit den vor Troja lagernden Soldaten geholfen haben soll, die Zeit zu vertreiben.
+Damit legt der Mythos die Entstehung des Spiels in die Zeit des Trojanischen Krieges, d. h. in das 12. Jahrhundert v. Chr.
+
+Bereits lange Zeit davor waren im Orient schon Brettspiele bzw. Würfel-Brettspiele bekannt:
+In "Schahr-e Suchte", einer archäologischen Fundstelle in der iranischen Provinz Sistan und Belutschistan, wurde ein über 5000 Jahre altes Spielbrett gefunden, in den 1920er-Jahren entdeckte der britische Archäologe Sir Leonard Woolley in der Stadt Ur ein jüngeres Spielbrett (Königliches Spiel von Ur).
+
+Weitere Spielbretter fand man in Ägypten im Grab von Tutenchamun, die etwa um 1300 vor Christus entstanden sind.
+Viele Grabmalereien zeugen von der Beliebtheit des Brettspieles in allen Schichten des Volkes.
+
+Es wäre jedoch verfehlt, diese altorientalischen Brettspiele, wie etwa das ägyptische Senet als frühe Formen des Backgammon zu bezeichnen, oder gar Backgammon als ein 4000 Jahre altes Spiel, da die Regeln, welche für diese Spiele angeführt werden, lediglich Rekonstruktionen darstellen, und die Autoren dieser Regeln typische Elemente von modernen Würfel-Brettspielen bei der Rekonstruktion verwendet haben.
+
+Wenn man jedoch nicht jedes Würfel-Brettspiel bereits als Backgammon-Variante ansehen möchte, so ist die Theorie vom orientalischen Ursprung des Spiels nicht aufrechtzuerhalten.
+Der erste nahe Verwandte des modernen Backgammon findet sich im römischen Duodecim Scripta oder Ludus duodecim scriptorum (dt.
+etwa: Zwölflinienspiel).
+Kaiser Claudius war ein begeisterter Spieler und verfasste über dieses Spiel ein Buch, das leider verloren gegangen ist.
+In Pompeji wurde eine zweiteilige Wandmalerei entdeckt: im ersten Bild sieht man zwei diskutierende Römer beim Spielen, im zweiten Bild den Besitzer der Herberge, der die beiden gewaltsam aus seinem Haus wirft.
+
+Die Römer spielten mit drei statt mit zwei Würfeln; das Spielbrett war aber dem modernen Backgammonbrett auffallend ähnlich, man braucht lediglich die zwölf Paare einander gegenüberliegender Zacken durch zwölf Linien zu ersetzen.
+Allerdings musste man mit den Steinen die durch die zwölf Linien bezeichnete Strecke dreimal durchlaufen und nicht nur zweimal.
+
+Bei den Römern waren die Bezeichnungen Alea (Würfel), Tabula (Spielbrett, Tafel) oder Tabulae gebräuchlich.
+Mit den Römern verbreitete sich das Spiel im gesamten Römischen Reich.
+
+=== Mittelalter
+
+Im frühen Mittelalter geriet das Spiel in Westeuropa in Vergessenheit, bis es spätestens zur Zeit der Kreuzzüge wiederentdeckt wurde.
+Im Buch der Spiele von König Alfons X. von Kastilien sind mehrere Backgammon-Vorläufer ausführlich beschrieben.
+Zuerst war es ein beliebter Zeitvertreib der Adeligen, allmählich setzte es sich auch in der Bevölkerung durch.
+
+Teile eines Tric-Trac-Brettes aus dem 12. Jahrhundert wurden in Saint-Denis (Frankreich) gefunden.
+Die aus Knochen gefertigten Spielfelder und Randstücke waren als Intarsien in ein Holzbrett eingelassen.
+In Freiburg im Breisgau kam in der Latrine des Augustiner-Eremiten-Klosters ein vollständig erhaltenes Spielbrett mit Spielsteinen zum Vorschein.
+Das Klappbrett stammt aus dem 13./14. Jahrhundert.
+Rahmen und Brett bestehen aus Hartholz, die Spielfelder sind Intarsien aus dunklem Edelholz.
+
+Nirgendwo in der westlichen Welt wurde schon so früh und so intensiv Backgammon gespielt wie in England.
+Laut mündlichen Überlieferungen erließ Richard Löwenherz ob der Spielleidenschaft seiner Soldaten eine Verordnung, dass niemand, der von geringerem Stand als ein Ritter war, um Geld würfeln durfte.
+Im Mittelalter hieß das Spiel deutsch Wurfzabel und unterschied sich nur sehr geringfügig vom heutigen Backgammon.
+
+=== Neuzeit
+
+Während des Dreißigjährigen Kriegs und danach erlebte Backgammon in ganz Europa wieder eine Zeit größter Beliebtheit, aus dieser Epoche stammen die französischen bzw. deutschen Varianten bzw. Namen Tric Trac und Puff.
+Im Englischen wurde das Spiel bis ins 17. Jahrhundert in Anlehnung an die lateinische Bezeichnung Tables genannt.
+Der Name Backgammon wurde im Jahr 1650 erstmals literarisch erwähnt.
+Er setzt sich zusammen aus den Wörtern back und gammon (eine veraltete Form des Substantivs game = Spiel) und rührt daher, dass geschlagene Steine wieder zurück ins Spiel gewürfelt werden müssen.
+Der englische Spieleexperte Edmond Hoyle verfasste im Jahre 1743 eine Broschüre, in der er die Regeln beschrieb und de facto festlegte.
+
+=== 20. Jahrhundert
+
+==== Vereinheitlichung der Regeln
+
+Die letzte entscheidende Veränderung war die Einführung des Verdoppelungswürfels.
+In den 1920er-Jahren wurde in einem New Yorker Spielclub das Verdoppeln erfunden.
+
+Die Regeln des modernen Backgammon stammen vom Card and Backgammon Committee des New Yorker Racquet and Tennis Club aus dem Jahre 1931 und wurde im Jahre 1970 geringfügig modifiziert.
+
+==== Der Backgammon-Boom
+
+Der erste große Boom im modernen Backgammon entstand, als Prinz Alexis Obolensky das erste große internationale Backgammon-Turnier 1964 auf den Bahamas veranstaltete.
+Dieses Turnier wurde fortan jährlich ausgerichtet:
+Alle damaligen Backgammon-Größen wie John R. Crawford, Oswald Jacoby, Walter Cooke u. a. konnten sich in den Siegerlisten verewigen.
+
+War Backgammon in vergangenen Zeiten oft das Spiel der Adeligen und oberen Gesellschaftsklassen, so trugen in der Öffentlichkeit bekannte Persönlichkeiten wie Christina Onassis, Hugh Hefner, Jimmy Connors, Gunter Sachs etc. sowie Medienberichte in Zeitungen und Magazinen wesentlich zur Popularisierung von Backgammon bei.
+Die intensive Beschäftigung forcierte auch die Entwicklung der Theorie zum Spiel; erste analytische Bücher wurden verfasst.
+
+Die erste Backgammon-Weltmeisterschaft wurde 1967 in Las Vegas veranstaltet, der erste Backgammon-Weltmeister hieß Tim Holland.
+Von 1975 bis 1978 wurden die Backgammon-Weltmeisterschaften auf den Bahamas abgehalten, seit 1979 finden sie in Monte Carlo statt.
+
+Nach dem Boom der 1960er-Jahre, der sich bis in die 1980er fortsetzte, erfreut sich Backgammon durch die Möglichkeiten des Computer-Backgammon und des Spiels via Internet wieder eines deutlichen Zuwachses an Beliebtheit.
+
+== Spielregeln
+
+=== Aufbau des Spiels
+
+Das Spielbrett besteht aus 24 Dreiecken, Points oder Zungen genannt, von denen sich jeweils 12 auf einer Seite befinden.
+Zwischen dem 6. und 7. Point auf jeder Seite werden die Points durch die so genannte Bar in das Home- und das Outer-Board oder Heimfeld und Außenfeld aufgeteilt.
+Gespielt wird z. B. mit 15 weißen und 15 schwarzen Steinen, deren Aufstellung fest vorgegeben ist.
+Auf dem jeweils ersten Point (also in dem Bild für Weiß ganz rechts unten, für Schwarz ganz rechts oben) liegen zwei Steine, auf dem in Spielrichtung liegenden 12. Point (ganz links unten für Weiß und ganz links oben für Schwarz) jeweils fünf, dann auf dem 17. Point jeweils drei und auf dem 19. Point wieder jeweils fünf Steine (somit oben rechts von der Bar für Weiß und unten rechts von der Bar für Schwarz).
+
+Abgesehen von der Aufstellung der Steine ist dies aber nur ein Beispiel.
+Weder die Farben der Steine, noch die Zugrichtung noch die Position des Heimfelds sind vorgegeben.
+So kann das Heimfeld für Weiß z. B. auch oben links oder unten rechts liegen, so dass weiß dann linksherum spielen würde.
+Falls hierüber keine Einigung möglich ist, werden diese Regeln ausgewürfelt.
+Die Positionierung des Gegenspielers ergibt sich daraus aber immer zwingend: Wo der eine startet, kann der andere auswürfeln.
+
+Gewürfelt wird mit zwei sechsseitigen Würfeln.
+
+Bei Turnierspielen liegt auf der Bar der Dopplerwürfel.
+
+=== Ziel des Spiels
+
+Wer alle seine Spielsteine ins Home-Board bringt, darf sie dann hinauswürfeln.
+Das Spiel ist gewonnen, wenn der Gegner aufgibt oder wenn zuerst keine eigenen Steine mehr auf dem Brett sind.
+Bei Turnierspielen und wenn um Einsatz gespielt wird, ist das Spiel vorzeitig gewonnen, wenn der Gegner einer Einsatzverdoppelung nicht zustimmt und somit aufgibt.
+
+=== Spielbeginn und Spielablauf
+
+Beim ersten Wurf verwendet jeder Spieler nur einen Würfel.
+Der Spieler, der die höhere Augenzahl gewürfelt hat, beginnt.
+Er darf seine Steine um die eigene Augenzahl und um die des Gegners vorrücken.
+Nach dem Eröffnungswurf würfeln beide Spieler abwechselnd mit je zwei Würfeln.
+
+Jeder Spieler setzt seine Steine entsprechend den gewürfelten Augenzahlen.
+Die Augenzahlen werden nicht zusammengezählt, sondern einzeln gesetzt.
+Beide Augenzahlen können jedoch mit demselben Stein gesetzt werden.
+Welche Augenzahl zuerst gesetzt wird, ist dem Spieler überlassen (soweit es sich um einen zulässigen Zug handelt).
+
+Die Spielsteine werden vom Heimfeld des Gegners aus über das Außenfeld zum eigenen Heimfeld hin gezogen.
+Die Steine können nur auf Felder gesetzt werden, die noch offen sind, d. h. auf denen sich nicht mehr als ein gegnerischer Stein befindet.
+Felder, die bereits mit zwei oder mehr gegnerischen Steinen besetzt sind, können von den eigenen Steinen nicht benutzt werden.
+
+Falls möglich, muss so gesetzt werden, dass beide Zahlen benutzt werden.
+Ist das nicht möglich, muss wenn möglich die höhere Zahl verwendet werden.
+Kann keine der beiden Zahlen verwendet werden, so setzt der Spieler für diesen Zug aus.
+
+==== Pasch
+
+Würfelt man einen Pasch, also zwei gleiche Zahlen (z. B. 6 und 6), so werden die gewürfelten Zahlen doppelt gezogen.
+In diesem Beispiel also viermal die 6.
+
+==== Schlagen
+
+Wird ein Spielstein auf ein Feld gezogen, das von einem einzelnen gegnerischen Stein besetzt ist, so wird dieser geschlagen.
+Dies geschieht auch dann, wenn man auf diesem Feld nur einen "Zwischenstopp" macht, d. h. mit einem Stein beide Augenzahlen setzt.
+Geschlagene Steine werden in die Mitte des Spielfelds auf die Bar gesetzt.
+Der Besitzer dieses Steins darf erst dann andere Steine ziehen, wenn er alle seine geschlagenen Steine von der Bar wieder zurück ins Spiel gebracht hat.
+
+==== Geschlagene Steine ins Spiel zurückbringen
+
+Der Spieler würfelt wie in einem normalen Zug, setzt aber seine Steine gemäß der Augenzahl in das Heimfeld des Gegners.
+Hat der Spieler z. B. eine 3 und eine 5 gewürfelt, so muss er einen Stein auf das 3. oder 5. Feld setzen.
+Gezählt wird hierbei in der eigenen Spielrichtung.
+Kann kein Stein gesetzt werden, so verfällt der ganze Wurf und der Gegner ist am Zug.
+Wurden mehrere Steine geschlagen, so müssen erst alle wieder ins Spiel gebracht werden, bevor der Spieler wieder ziehen kann.
+
+==== Würfeln
+
+Die Würfel müssen beide glatt auf dem Brett aufliegen.
+Ist ein Würfel angekippt oder auf einem Stein gelandet, wird mit beiden Würfeln neu gewürfelt.
+Erst wenn der eine Spieler nach dem Setzen seine Würfel aufgenommen hat, ist der andere Spieler mit Würfeln (oder Verdoppeln) an der Reihe.
+Bei Turnieren ist die Verwendung von Würfelbechern zwingend vorgeschrieben.
+
+==== Auswürfeln
+
+Befinden sich alle 15 Spielsteine im Heimfeld, so darf mit dem Auswürfeln begonnen werden.
+Die Steine werden aus dem Heimfeld entfernt, wenn sie über das letzte Feld des eigenen Heimfelds ins Feld "Null" ziehen können.
+Kann mit einem Wurf ein Stein nicht direkt ausgespielt werden, so muss der Wurf im eigenen Heimfeld gezogen werden.
+Kann der Wurf nicht gezogen werden, weil nur noch auf niedrigeren Feldern Steine sind, so wird der höchste Stein ausgespielt.
+Beispiel: Beim Auswürfeln würfelt der Spieler eine 2 und eine 4.
+Auf Feld 2 befinden sich noch Steine, auf Feld 4 aber nicht.
+Befindet sich nun ein Stein auf Feld 5 oder 6, so muss dieser regulär gesetzt werden.
+Sind die Felder 5 und 6 dagegen ebenfalls leer, so wird statt von der Vier ein Stein vom nächstkleineren besetzten Feld herausgenommen.
+Gewinner ist der Spieler, der zuerst alle Steine herausgewürfelt hat.
+
+Beim Auswürfeln ist auch folgendes möglich:
+Sitzt z. B. auf dem Feld 6 ein einzelner Stein, so kann der Spieler, wenn er 6 und 1 gewürfelt hat, mit der 6 diesen Stein herausnehmen und dann mit einem anderen die Eins rücken.
+Er kann aber auch zuerst mit der Eins von Feld 6 auf Feld 5 rücken, und dann diesen Stein von Feld 5 mit der 6 herausnehmen.
+
+Nicht gültig ist es jedoch seine gewürfelten Augen zu "splitten".
+Der Spieler muss die jeweiligen Augen verwenden, z. B.:
+Der Spieler würfelt eine 3 und eine 5.
+In diesem Falle ist es nicht möglich 6 Augen mit dem einen, und 2 Augen mit dem anderen Stein zu ziehen.
+Man muss mit dem einen eine 5, mit dem anderen eine 3 ziehen.
+
+=== Unzulässige Züge
+
+Wenn ein Spieler einen Zug macht, der nach den Regeln nicht zulässig ist, kann der Gegner verlangen, dass ein legaler Zug gemacht wird, muss es aber nicht.
+Wenn es z. B. einen besseren und legalen Zug gibt, braucht er daher keine Korrektur zu verlangen.
+
+Sobald jedoch der Gegner des Spielers, der den illegalen Zug gesetzt hat, gewürfelt hat, ist der illegale Zug gutgeheißen, und es kann keine Korrektur mehr gefordert werden.
+
+== Gewinnstufen
+
+=== Einfaches Spiel - Single game
+
+Hat ein Spieler alle Steine abgetragen und der Gegner zu diesem Zeitpunkt bereits mindestens einen eigenen Stein herausgewürfelt, so verliert dieser einfach.
+
+=== Doppeltes Spiel - Gammon
+
+Hat der Gegner noch keinen Stein herausgewürfelt, so wird das Spiel doppelt bewertet.
+Diese Situation wird Gammon genannt.
+
+=== Dreifaches Spiel - Backgammon
+
+In dem Fall, dass der Gegner noch keinen Stein herausgewürfelt hat und sich zusätzlich noch mindestens ein Stein des Gegners im Home-Board des Gewinners oder auf der Bar befindet, zählt das Spiel dreifach.
+Diese Gewinnstufe wird Backgammon genannt.
+
+In einigen Mittelmeerländern wird ein Backgammon nur wie ein Gammon, also zweifach, gewertet.
+
+== Dopplerwürfel
+
+Vor allem in Backgammon-Wettkämpfen kommt ein besonderer Würfel zum Einsatz, mit dem allerdings nicht gewürfelt wird.
+Dieser Würfel wird Dopplerwürfel genannt und ist mit den Zahlen 2, 4, 8, 16, 32 und 64 beschriftet.
+Gewinnt während des Spieles einer der Spieler den Eindruck, dass er das Spiel gewinnen wird, so kann er dem Gegner den Dopplerwürfel anbieten.
+Lehnt der Gegner das Angebot ab, so wird ihm das Spiel als verloren angerechnet.
+Akzeptiert der Gegner aber das Angebot, so erhält er den Dopplerwürfel mit der nach oben liegenden Zahl 2 als Hinweis darauf, dass das Ergebnis des Spiels verdoppelt wird.
+Wenn dieser Spieler nun im weiteren Verlauf des Spieles zu der Meinung gelangt, dass er das Spiel gewinnen wird, kann er seinerseits dem Gegner den Dopplerwürfel anbieten.
+Der Würfel wird dann jeweils so gedreht, dass die nächstgrößere Zweier-Potenz sichtbar ist.
+
+Verdoppeln darf der Spieler, in dessen Besitz sich der Dopplerwürfel befindet, und zwar vor dem eigentlichen Würfelwurf mit den beiden Sechser-Würfeln.
+Erst wenn der Gegner angenommen hat, darf dieser Wurf erfolgen.
+Wenn noch nicht verdoppelt wurde, steht beiden Spielern die Möglichkeit offen, dem Gegner ein Doppel anzubieten.
+Wenn eine Verdopplung abgelehnt wird oder das Spiel durch Abtragen aller Steine endet, zählt es mit dem bis dahin erreichten Wert des Dopplerwürfels, wobei die abgelehnte Verdopplung nicht zählt.
+Der Wert wird im Fall eines Gammons oder Backgammons mit zwei bzw. drei multipliziert.
+
+Der Dopplerwürfel geht bis 64, aber nach den Regeln sind weitere Verdopplungen möglich, kommen aber unter Spitzenspielern äußerst selten vor.
+Selbst Verdopplungen bis 16 sind selten.
+In einem Match bis zu einer bestimmten Anzahl von Punkten (meist eine ungerade Zahl) ist ab einem bestimmten Wert weiteres Verdoppeln sinnlos, weil dann der Spieler, der dieses Spiel gewinnt, auch das ganze Match gewinnt, egal wie oft noch weiter verdoppelt wird.
+
+Der Dopplerwürfel wird vor allem eingesetzt, um Spiele, deren Ausgang vorhersehbar ist, schneller zum Abschluss zu bringen.
+Erfahrene Spieler können anhand der Spielstellung besser erkennen, ob sie das Risiko einer Verdopplung eingehen können oder ob sie bei einer Verdopplung durch den Gegner besser aufgeben.
+Die Entscheidung hängt bei einem Match auch vom Punktestand ab.
+Der Spieler im Rückstand wird aggressiver verdoppeln und annehmen, während der Führende eher vorsichtig spielen wird.
+
+Als Faustregel gilt: Wenn man noch mehr als ca. 25 % Gewinnchance hat, sollte ein Verdopplungsangebot angenommen werden (take); sind die Chancen geringer, gibt man besser auf (pass).
+
+Wenn der Spieler, der sich im Vorteil befindet, eine gute Chance hat, ein Gammon oder gar Backgammon zu gewinnen, kann es vorteilhaft sein, nicht zu verdoppeln, um einen höheren Gewinn zu erzielen.
+Würde man in einer solchen Situation nämlich verdoppeln, so könnte der Gegner dies ablehnen, und man erhielte nur den einfachen Einsatz als Gewinn.
+Bezüglich des Verdoppelns siehe auch Kontra.
+
+== Spielweisen und Sonderregeln
+
+=== Turnierspiel (Match play)
+
+Backgammon-Turniere werden zumeist nach dem K.-o.-System ausgetragen.
+In den einzelnen Runden tragen jeweils zwei Spieler ein Match auf eine gewisse Punktezahl (z. B. 11 Punkte) aus.
+
+Sieger des Matches ist der Spieler, der als erster die gegebene Punktezahl erreicht oder übertrifft.
+Die Punktedifferenz ist dabei unerheblich; es macht keinen Unterschied, ob ein Match mit z. B. 11:10 nur knapp oder mit 12:0 (etwa durch ein zweimal verdoppeltes Backgammon) hoch gewonnen wird.
+Der Sieger des Matchs erreicht die nächste Runde, der Verlierer scheidet aus oder spielt in einer Trostrunde (Consolation) weiter.
+
+Diese Turnierform hat großen Einfluss auf die Spielstrategie, sodass man hierbei von Match play (im Gegensatz zu Money play) spricht.
+Die Frage, wie ein bestimmter Zug gesetzt werden soll, bzw. die Entscheidungen bezüglich des Verdoppelns, des Annehmens oder Ablehnens einer Verdopplung richten sich im Turnierspiel nicht allein nach der Position am Brett, sondern insbesondere auch nach dem Stand des Matchs.
+
+Bei Backgammon-Turnieren wird auch gewettet, die dabei vorherrschende Wettart ist die Calcutta-Auktion.
+
+Um sicherzustellen, dass die Würfelzahlen dieselben Wahrscheinlichkeiten aufweisen, werden in Turnieren ausschließlich sog. Präzisionswürfel verwendet.
+
+==== Crawford-Regel
+
+Die Crawford-Regel findet im Turnierspiel Anwendung.
+Steht ein Spieler einen Punkt vor dem Gewinn des Matchs (wenn er etwa soeben 10 Punkte in einem 11-Punkte-Match erreicht hat), so darf im darauffolgenden Spiel nicht gedoppelt werden.
+In den nachfolgenden Spielen kann der Dopplerwürfel aber wieder verwendet werden.
+Die Crawford-Regel ist im Turnierspiel allgemein üblich.
+
+Ohne diese Regel würde der Spieler, dessen Gegner nur noch ein Punkt am Matchgewinn fehlt, "automatisch" verdoppeln, weil er nichts zu verlieren, aber möglicherweise etwas zu gewinnen hat.
+Würde man aber das Verdoppeln, nachdem ein Spieler einen Punkt vor dem Sieg steht, gänzlich verbieten, wäre das wieder ungerecht dem Zurückliegenden gegenüber, weil der Führende sich seinen Vorsprung mit der Möglichkeit des Verdoppelns erkämpft hat, und so wäre es ungerecht, dem Zurückliegenden beim Versuch den Rückstand aufzuholen dieses Mittel zu versagen.
+
+Die Crawford-Regel stellt daher einen bewährten, praktischen Kompromiss dar.
+
+Diese Regel stammt von John R. Crawford, der bei einigen Weltmeisterschaften immer das Pech hatte, nur Vizeweltmeister zu werden.
+
+=== Chouette
+
+Chouette ist eine Spielvariante für drei oder mehr Teilnehmer.
+Zu Beginn legen die Spieler durch Werfen eines Würfels eine Reihenfolge fest; der Spieler mit der höchsten Zahl wird Mann in der Box; der zweithöchste Kapitän, der nächste Erster Berater usw.
+
+Nun spielt der Mann in der Box (Alleinspieler) gegen den Kapitän und sein Team.
+Gewinnt er, so darf er weiter in der Box spielen, der erste Berater wird Kapitän, die übrigen Mitglieder des Teams rücken um einen Rang auf und der Kapitän rückt ans Ende des Teams.
+
+Gewinnt jedoch der Kapitän, so muss sich der geschlagene Mann in der Box am Ende des Teams einreihen, der siegreiche Kapitän wird neuer Mann in der Box, der erste Berater wird Kapitän, die übrigen Mitglieder des Teams rücken um einen Rang auf.
+
+Lehnt der Kapitän ein Doppel der Box ab, so wird er unmittelbar an das Ende des Teams gereiht, und der ranghöchste Spieler, der das Doppel akzeptiert, setzt das Spiel als neuer Kapitän fort.
+Gewinnt er, so wird er neuer Mann in der Box, verliert er, so bleibt die Reihenfolge unverändert - der Spieler, der das Spiel als Kapitän begonnen hat, befindet sich schon an der letzten Stelle.
+
+Bietet der Mann in der Box eine Verdopplung an, so entscheiden die Spieler jeder für sich, ob sie das Doppel akzeptieren wollen oder nicht; Annahme oder Ablehnung eines Doppels der Box haben keine Auswirkungen auf die Rangfolge der Spieler - mit Ausnahme des Kapitäns (s. o.).
+
+Soweit die Grundregeln der Chouette.
+Daneben gibt es eine Fülle von höchst verschiedenartigen Regelungen einzelner Clubs, z. B. kann mit nur einem Verdopplungswürfel gespielt werden (Single cube chouette) oder es kann auch jedes Mitglied des Teams einen eigenen Verdopplungswürfel besitzen (Multi cube chouette).
+
+Chouette bezeichnet ganz allgemein eine Methode, wie ein Zwei-Personen-Spiel zu dritt, zu viert etc. gespielt werden kann, dieses Prinzip findet man in abgewandelter Form auch beim Ecarte (siehe dort), Piquet, Gin Rummy, Craps, Baccara, u. a.
+
+=== Weitere Sonderregeln
+
+==== Jacoby-Regel
+
+Die Jacoby-Regel ist nach Oswald Jacoby benannt.
+Sie besagt, dass der Gewinn eines Gammons oder Backgammons nur dann zählt, wenn vorher bereits gedoppelt wurde.
+Ziel ist es, das Spiel zu beschleunigen.
+Diese Regel bedarf jedoch der vorherigen Vereinbarung, beim Turnierspiel ist die Jacoby-Regel ausdrücklich ausgeschlossen, beim Spiel in einer Chouette ist sie durchaus gebräuchlich.
+
+==== Beaver
+
+Nach dieser Regel, die im Turnierspiel ebenfalls nicht üblich ist, kann ein Spieler, dem die Verdopplung angeboten wurde, den Würfel beim Annehmen gleich noch eine Stufe höher drehen, so dass der Spielwert insgesamt vervierfacht ist.
+Er hat also drei Optionen: aufgeben (Spiel zählt mit dem bisherigen Spielwert), annehmen (Spielwert wird verdoppelt) oder "beavern" (Spielwert wird vervierfacht).
+Als Ergänzung wird manchmal sogar noch die Racoon-Regel angewandt: wenn ein Spieler beavert, kann der andere, der das Doppel angeboten hat, den Wert nochmals verdoppeln, auf insgesamt das achtfache des vorherigen Wertes.
+Auch diese Regel bedarf der gesonderten Vereinbarung, beim Turnierspiel sind Beavers ausdrücklich ausgeschlossen, beim Spiel in einer Chouette sind sie durchaus gebräuchlich.
+
+==== Automatisches Doppel
+
+Würfeln die Spieler am Spielanfang die gleiche Zahl, wenn sie das Recht des ersten Zuges auswürfeln, dann wird der Spielwert verdoppelt.
+Diese Regel bedarf der vorherigen Vereinbarung, gilt als unseriös und ist beim Turnierspiel ausdrücklich ausgeschlossen.
+
+==== Ablehnen des Eröffnungswurfes - California Rule
+
+Diese Regel besagt, dass jeder Spieler seinen Eröffnungswurf ablehnen darf.
+Dafür wird der Dopplerwürfel eine Stufe höher gedreht.
+Diese Regel gilt ebenso wie das Automatische Doppel als unseriös, da beide nur dem Hochtreiben des Einsatzes dienen, und sind beim Turnierspiel ausgeschlossen.
+
+== Notation
+
+Die Spielzüge werden so notiert, dass für jeden Spieler die Zählung rückwärts erfolgt.
+Feld 24 des einen Spielers ist also Feld 1 des anderen, Feld 23 ist Feld 2, Feld 22 ist Feld 3 usw.
+Ein Stein auf der Bar wird als "Bar" oder Feld 25 notiert, herausgenommene Steine werden mit "Off" oder Feld 0 gekennzeichnet.
+Das Schlagen eines gegnerischen Steines wird mit einem "*" markiert.
+Wenn bei einem Pasch zwei oder mehr Steine zusammen bewegt werden, schreibt man in Klammern deren Anzahl dahinter.
+
+== Weitere Spiele auf dem Backgammonbrett
+
+Neben dem international verbreiteten und standardisierten Backgammon gibt es auch andere Spiele auf dem gleichen Brett.
+Diese kann man auch als Backgammon-Variationen bezeichnen.
+In Griechenland ist Tavli (a) sehr verbreitet.
+Man spielt es in drei Varianten.
+Die oben beschriebene Spielvariante (Backgammon) wird leicht abgewandelt und heißt Portes (o), zu deutsch "Türen".
+Sehr beliebt sind auch die Varianten Plakoto (ao) und Fewga (ua).
+In der Türkei, wo das Spiel ebenfalls überaus beliebt ist, heißt es Tavla.
+Auch in Bulgarien wird es gerne gespielt und heißt dort Tabla (aa).
+Die persische Bezeichnung ist Tacht-e Nard (  "Nardbrett"), Nard oder in Kurzform auch Tachte (= Brett).
+
+Weitere Varianten sind
+
+=== Plakoto
+
+Beim Plakoto (griechisch aoo niedergedrückt) werden alle Steine auf die Position 1 des Heimatfeldes gestellt.
+Ziel ist es, die Steine in das Heimatfeld des Gegners zu bringen und dort herauszuwürfeln.
+Ein Schlagen ist nicht möglich.
+Einzelne gegnerische Steine können jedoch blockiert werden, indem einer oder mehrere der eigenen Steine auf dem Feld des gegnerischen Steins bleiben.
+Ein solcher Stein kann nicht gezogen werden, bis der letzte blockierende Stein weitergezogen wird.
+
+=== Fewga/Nardi/Langbackgammon
+
+In Griechenland, der Ukraine, im Kaukasus, besonders in Armenien, Georgien, Kasachstan und in Aserbaidschan wird Backgammon als Nardi oder auch Langbackgammon gespielt.
+In den Neunzigern wurde Nardi auch sehr stark in Russland verbreitet.
+Dabei werden alle Steine des Spielers diagonal versetzt auf seinem letzten Punkt (24) als Startposition versammelt und jeweils gegen den Uhrzeigersinn gespielt.
+Der erste Stein zieht die Augen beider Würfel.
+Hat ein Stein des Gegners ein 6er-Feld noch nicht durchzogen, so ist ihm ein Feld frei zu belassen.
+Die Steine können nicht schlagen.
+Befindet sich auch nur ein Stein auf dem Feld, ist es gesperrt.
+Das Herauswürfeln erfolgt ansonsten wie üblich.
+
+=== Nackgammon
+
+Auf Feld 23 sitzen zu Beginn zwei Steine, dafür auf den Feldern 13 und 6 nur je vier.
+Alle anderen Regeln sind wie beim normalen Backgammon.
+Diese Variante ist nach ihrem Erfinder Nack Ballard benannt.
+
+=== Hyper Backgammon
+
+Diese auch kurz Hypergammon genannte Variante ist auf vielen Webservern beliebt.
+Jeder Spieler hat nur drei Steine, die zu Beginn auf den ersten drei Feldern, aus der Sicht des jeweiligen Spielers, aufgestellt werden.
+Die übrigen Regeln sind gleich.
+
+=== Rückwärts schlagen
+
+Eine weitere moderne Abart von David Pilz und Lutz Wening besteht darin, dass man rückwärts schlagen darf.
+Alle anderen Regeln des klassischen Backgammon bleiben gültig.
+Eine Variante von Rene Schwab erlaubt das Rückwärtsschlagen nur mit der kleineren der gewürfelten Augenzahlen, was langwierige Blockaden vermeiden soll.
+
+== Computerbackgammon
+
+Lange Zeit kamen Backgammonprogramme in ihrer Spielstärke nicht über ein mittelmäßiges Niveau hinaus.
+Erst in den späten 1980er-Jahren gelang es Gerald Tesauro mit TD-Gammon ein Programm zu entwickeln, das in etwa auf dem Niveau menschlicher Experten spielte.
+Dies wurde möglich mit sogenannten neuronalen Netzen, die Backgammon lernten, indem sie hunderttausende Spiele gegen sich selbst spielten und deren Gewichte mit einer Technik namens TD(Lambda) angepasst wurden.
+
+Wenig später gab es ein erstes kommerzielles Programm namens JellyFish, das diese Techniken nutzte.
+JellyFish wird seit ca. 1998 nicht mehr weiterentwickelt.
+Mit der Version "3.5 light" ist auch eine kostenlose Version erhältlich.
+
+Die aktuell stärksten Programme sind die freie Software von GNU mit dem Namen GNU Backgammon (GNUbg), die kommerziellen Programme "Snowie 4" und "eXtreme Gammon" sowie die in Java geschriebene Shareware BGBlitz.
+Laut Aussage von Bill Robertie (zweifacher Backgammon-Weltmeister) und dem Spitzenspieler Neil Kazaross liegt deren Niveau über dem der besten menschlichen Spieler.
+Durch diese Software wurde es möglich, komplexe Stellungen zu untersuchen und so die Backgammon-Theorie zu erweitern.
+
+== Mathematische Analysen
+
+Aus Sicht der mathematischen Spieltheorie handelt es sich bei Backgammon um ein Zwei-Personen-Nullsummenspiel mit perfekter Information.
+Jede Position besitzt damit einen eindeutig bestimmten Wert, bei dem es sich um den Erwartungswert des Gewinns von Weiß bei beidseitig fehlerfreiem Spiel handelt - beim Backgammon wird dieser Erwartungswert als Equity bezeichnet.
+Für Positionen sehr später Endspiele sind diese Werte konkret berechenbar.
+Backgammon-Programme verwenden Verfahren zur approximativen Abschätzung der Positions-Werte.
+
+Ein Spiel kann zwar theoretisch unendlich lang dauern, aber nur mit Wahrscheinlichkeit 0, wie Curt McMullen 1994 bewiesen hat:
+Für jede mögliche Strategie der beiden Spieler (auch wenn sie zusammenarbeiten sollten, um das Spielende hinauszuzögern) gilt, dass mit wachsender Zuganzahl n {\displaystyle n} die Wahrscheinlichkeit, dass das Spiel nach höchstens n {\displaystyle n} Zügen zu Ende ist, gegen 1 strebt.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,13 @@
+Die Breitenkreise legen sich wie Ringe um die Erdkugel.
+Es gibt sie nicht wirklich, sondern der Mensch hat sie sich ausgedacht.
+Zusammen mit den Längenkreisen kann man damit ausdrücken, wo ein Ort auf der Erdkugel liegt.
+Der bekannteste Breitenkreis ist der Äquator.
+Diese Linie ist überall gleich weit vom Nordpol entfernt wie vom Südpol.
+
+Von jedem Ort auf der Erde kann man die Lage auf dem Breitenkreis so berechnen:
+Man zeichnet eine Linie vom Ort zum Erdmittelpunkt und eine vom Erdmittelpunkt zum Äquator.
+Der Winkel dazwischen gibt die Breite an.
+Die Stadt Berlin beispielsweise liegt auf etwa 52° N, sprich 52 Grad nördlicher Breite.
+Zürich liegt auf etwa 47° N, also um fünf Breitengrade südlicher als Berlin.
+Rio de Janeiro in Brasilien liegt auf 22° S, sprich 22 Grad südlicher Breite, also auf der Südhalbkugel der Erde.
+

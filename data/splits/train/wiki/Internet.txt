@@ -1,0 +1,346 @@
+Das Internet (von englisch internetwork, zusammengesetzt aus dem Präfix inter und network ,Netzwerk' oder kurz net ,Netz'), umgangssprachlich auch Netz, ist ein weltweiter Verbund von Rechnernetzwerken, den autonomen Systemen.
+Es ermöglicht die Nutzung von Internetdiensten wie WWW, E-Mail, Telnet, SSH, XMPP, MQTT und FTP.
+Dabei kann sich jeder Rechner mit jedem anderen Rechner verbinden.
+Der Datenaustausch zwischen den über das Internet verbundenen Rechnern erfolgt über die technisch normierten Internetprotokolle.
+Die Technik des Internets wird durch die RFCs der Internet Engineering Task Force (IETF) beschrieben.
+
+Die Verbreitung des Internets hat zu umfassenden Umwälzungen in vielen Lebensbereichen geführt.
+Es trug zu einem Modernisierungsschub in vielen Wirtschaftsbereichen sowie zur Entstehung neuer Wirtschaftszweige bei und hat zu einem grundlegenden Wandel des Kommunikationsverhaltens und der Mediennutzung im beruflichen und privaten Bereich geführt.
+Die kulturelle Bedeutung dieser Entwicklung wird manchmal mit der Erfindung des Buchdrucks gleichgesetzt.
+
+== Bezeichnung
+
+Der Ausdruck Internet ist ein Anglizismus.
+Er entstand als Kurzform des Fachausdrucks internetwork, unter dem in den 1970er und 1980er Jahren die Entwicklung eines Systems zur Vernetzung von bestehenden, kleineren Rechnernetzen diskutiert wurde.
+Aus der allgemeinen englischen Fachbezeichnung für ein internetwork oder internet verbreitete sich das seit 1996 auch in den Duden aufgenommene Wort "Internet" als Eigenname für das größte Netzwerk dieser Art, das aus dem Arpanet entstand.
+Mit der gesellschaftlichen Durchdringung des Internets etablierten sich die Bezeichnungen "Internet" und umgangssprachlich "Netz" auch in der Alltagssprache.
+"Netz" bezeichnet aber in der Informatik nicht zwingend das Internet, sondern es gibt auch diverse andere Netzwerk-Infrastrukturen.
+
+Sprachkritiker, wie beispielsweise verschiedene Sprachvereine und viele rechtsextreme Organisationen wie die NPD, verwenden anstelle des Worts Internet deutsche Wortschöpfungen wie Weltnetz, Zwischennetz oder Internetz.
+Obwohl seit Mitte der 1990er Jahre bekannt, sind diese Wortschöpfungen zwar in diversen sprachkritischen Publikationen zu finden, haben aber in der Alltagssprache keine praktische Bedeutung erlangt.
+Der Begriff Weltnetz wird heute bisweilen im rechtsextremen Umfeld verwendet.
+
+== Geschichte
+
+=== 1969-1983 Vorläufer Arpanet
+
+Das Internet begann am 29. Oktober 1969 als Arpanet.
+Es wurde zur Vernetzung der Großrechner von Universitäten und Forschungseinrichtungen genutzt.
+Das Ziel war zunächst, die Rechenleistungen dieser Großrechner effizienter zu nutzen, zuerst nur in den USA, später weltweit.
+
+Diese Großrechner waren untereinander über Interface Message Processors verbunden, die die Netzwerkkommunikation mittels Paketvermittlung übernahmen.
+Die verwendeten Protokolle waren in heterogenen Umgebungen unzuverlässig, weil sie für ein bestimmtes Übertragungsmedium optimiert waren.
+
+Vinton G. Cerf und Robert E. Kahn entwickelten 1973 und 1974 eine frühe Version von TCP, um andersartige Netze miteinander zu verbinden.
+Nach Weiterentwicklungen in den folgenden Jahren wurde es als TCP/IP bekannt.
+
+Nach einer weit verbreiteten Legende bestand das ursprüngliche Ziel des Projektes vor dem Hintergrund des Kalten Krieges in der Schaffung eines verteilten Kommunikationssystems, um im Falle eines Atomkriegs eine störungsfreie Kommunikation zu ermöglichen.
+Tatsächlich wurden hauptsächlich zivile Projekte gefördert, obwohl die ersten Knoten von der DARPA finanziert wurden.
+
+Die wichtigste Anwendung in der Anfangszeit war die E-Mail.
+In dem Jahr 1971 betrug die Datenmenge des E-Mail-Verkehrs mehr als die Datenmenge, die mit den anderen Protokollen des Arpanet, nämlich Telnet und FTP, übertragen wurde.
+Damit wurde das Ziel, Rechenarbeit nach Angebot und Nachfrage auszulagern, verfehlt.
+
+=== 1981-1993 TCP/IP, DNS und Usenet
+
+1981 wurden mit RFC 790-793 IPv4, ICMP und TCP spezifiziert, die bis heute die Grundlage der meisten Verbindungen im Internet sind.
+Diese sollten nach einer knapp zweijährigen Ankündigungszeit am 1. Januar 1983 auf allen Hosts aktiv sein.
+Mit der Umstellung von den Arpanet-Protokollen auf das Internet Protocol begann sich auch der Name "Internet" durchzusetzen.
+Dies stellt die erste globale Protokollumstellung in der Geschichte des Internets dar und dauerte laut Kahn fast sechs Monate.
+Die anfängliche Verbreitung des Internets ist eng mit der Entwicklung des Betriebssystems Unix verbunden.
+
+Mit dem 1984 entwickelten DNS wurde es möglich, auf der ganzen Welt Rechner mit von Menschen merkbaren Namen anzusprechen.
+
+Das Internet verbreitete sich über immer mehr Universitäten und weitete sich auch über die Grenzen der USA aus.
+Dort fand das Usenet weite Verbreitung und wurde zeitweise zu der dominanten Anwendung des Internets.
+Es bildeten sich erste Verhaltensregeln (Netiquette) und damit erste Anzeichen einer "Netzkultur".
+
+=== Ab 1989 Kommerzialisierung und das WWW
+
+Im Jahr 1990 beschloss die National Science Foundation der USA, das Internet für kommerzielle Zwecke nutzbar zu machen, wodurch es über die Universitäten hinaus öffentlich zugänglich wurde.
+Tim Berners-Lee entwickelte um das Jahr 1989 am CERN die Grundlagen des World Wide Web.
+Am 6. August 1991 machte er dieses Projekt eines Hypertext-Dienstes via Usenet mit einem Beitrag zur Newsgroup alt.hypertext öffentlich und weltweit verfügbar.
+
+Rasanten Auftrieb erhielt das Internet ab 1993, als der erste grafikfähige Webbrowser namens Mosaic veröffentlicht und zum kostenlosen Download angeboten wurde, der die Darstellung von Inhalten des WWW ermöglichte.
+Insbesondere durch AOL und dessen Software-Suite kam es zu einer wachsenden Zahl von Nutzern und vielen kommerziellen Angeboten im Internet.
+Da der Webbrowser fast alles andere verdrängte, wird er auch als die "Killerapplikation" des Internets bezeichnet.
+Das Internet ist ein wesentlicher Katalysator der Digitalen Revolution.
+
+Mit der Verbesserung der Datenübertragungsraten und der Einführung normierter Protokolle wurde die Nutzung der Internet-Infrastruktur für die Telefonie attraktiv.
+Ende 2016 nutzten in Deutschland rund 25,2 Millionen Menschen die Voice-over-IP-Technologie (VoIP).
+
+Als sich eine Verknappung des noch freien IP-Adressraums abzeichnete, begann die Entwicklung eines Nachfolgeprotokolls.
+Im Dezember 1995 wurde die erste Spezifikation von IPv6 veröffentlicht und fortan in Pilotprojekten getestet, etwa im globalen Testnetzwerk 6Bone und im deutschsprachigen Raum im JOIN-Projekt.
+Im Februar 2011 wies die ICANN die letzten IPv4-Adressblöcke an die Regional Internet Registries zur Weiterverteilung zu.
+Je nach Registry werden die restlichen IPv4-Adressblöcke noch zugeteilt oder sind bereits aufgebraucht.
+Infolge des World IPv6 Day und World IPv6 Launch Day im Juni 2011 und Juni 2012 stieg der Anteil von IPv6 am Internetverkehr, betrug insgesamt jedoch weniger als ein Prozent.
+
+=== 2003 bis heute: Web 2.0 und die Cloud
+
+Mit Social-Media-Plattformen wie Facebook, Twitter oder YouTube trat das bidirektionale Austauschen von Inhalten unter den Nutzern (sogenanntem user-generated content) in den Vordergrund, allerdings jetzt auf zentralen, abgeschlossenen Plattformen und praktisch ausschließlich durch Nutzung eines Webbrowsers.
+Das Schlagwort Web 2.0 verweist auf die zunehmende Interaktivität, auch durch Audio- und Videoeinbindung, des Internets.
+
+Mit der zunehmenden Verbreitung von verschiedenen mobilen Endgeräten entwickeln sich über Webseiten ausgelieferte JavaScript-Programme in Kombination mit zentral gehosteten Serveranwendungen und deren Speicher zunehmend zur interoperablen Alternative zu herkömmlichen Anwendungen.
+
+Unter dem Sammelbegriff "Internet der Dinge" wurden Technologien etabliert, die den direkten Anschluss von Geräten, Maschinen, Anlagen, mobilen Systemen usw. an das Internet erlauben.
+Sie dienten der Interaktion dieser "Dinge" untereinander bzw. dem Fernzugriff auf sie durch den menschlichen Bediener.
+Diese Anschlusstechnologien umfassten einerseits Cloud-basierte Dienste, andererseits geräteseitige Anbindungstechnologien.
+
+== Gesellschaftliche Aspekte und Staatliche Eingriffe
+
+Das Internet gilt bei vielen Experten als eine der größten Veränderungen des Informationswesens seit der Erfindung des Buchdrucks mit großen Auswirkungen auf das alltägliche Leben.
+Im Jahr 2013 hat der Bundesgerichtshof erklärt, dass das Internet zur Lebensgrundlage von Privatpersonen gehört.
+
+Eine zunehmende Bedeutung erhält auch der Online-Journalismus, der heute zu einem großen Konkurrenten der klassischen Medienlandschaft geworden ist.
+Aktuell sehen Beobachter zudem einen Wandel des Nutzers vom "surfenden" (passiven) Medienkonsumenten zum aktiven User-generated content-Autor, der sich zu vielerlei Themen in Online-Communitys mit Gleichgesinnten vernetzt, die die klassische, bisher eher techniklastige Netzkultur ergänzt.
+Räumliche Grenzen sind durch das Internet aufgehoben und werden durch themenbezogene Gruppen ersetzt.
+Durch die Vielzahl der Informationsquellen stellt der sinnvolle Umgang mit dem Internet andere Anforderungen an die Medienkompetenz der Benutzer als klassische Medien.
+
+Das Internet wird häufig in politischen Kontexten als rechtsfreier Raum bezeichnet, da nationale Gesetze durch die internationale Struktur des Internets und durch Anonymität als schwer durchsetzbar angesehen werden.
+Bei Anwendungen wie E-Mail zeigt sich, dass die Technik auf das Phänomen des Spam überhaupt nicht vorbereitet ist.
+Dienste wie Myspace oder Facebook sollen den Aufbau sozialer Netzwerke ermöglichen; Funktionen wie Instant Messaging erlauben online nahezu verzögerungsfreie Kommunikation.
+Mit der steigenden Verbreitung des Internets wird in den Medien der Begriff Internetsucht immer wieder thematisiert, der wissenschaftlich jedoch umstritten ist.
+Ob und wann die exzessive Nutzung des Internets einen "schädlichen Gebrauch" oder Missbrauch darstellt und zur Abhängigkeit führt, wird in verschiedenen Studien aktuell untersucht.
+Staatliche Stellen hatten lange Zeit von der Funktion des Internets wenig Kenntnisse und wenig Erfahrung mit der Anwendung der Gesetze.
+Bis zur New Economy ab dem Jahr 1998 war zudem die Bedeutung des Internets seitens der Politik unterschätzt worden.
+Dies änderte sich erst infolge der New-Economy-Entwicklung, Gesetze wurden angepasst und die Rechtsprechung hat eine Reihe von Unsicherheiten zumindest de jure beseitigt.
+Der zunehmende Einfluss des Staates wird dabei teils als Steigerung der Rechtssicherheit begrüßt, teils als Fortschreiten in Richtung auf einen Überwachungsstaat ("Netokratie") kritisiert, etwa durch das am 1. Januar 2008 in Kraft getretene Gesetz zur Vorratsdatenspeicherung, das am 3. März 2010 vom Bundesverfassungsgericht als verfassungswidrig eingestuft wurde.
+
+International wird das Internet durch verschiedene Staaten überwacht, kontrolliert und teilweise gesperrt, so etwa beim in Teilen gesperrten Internet in der Volksrepublik China oder Aufbau eines vom Staat kontrollierbaren Internets in Russland.
+Eine fallweise Sperre des Internets ist aus der Türkei oder Iran bekannt; dort wird das Internet während Demonstrationen ausgeschaltet.
+
+=== Digitale Kluft
+
+Der Begriff digitale Kluft beschreibt Unterschiede im Zugang zu und der Nutzung von Informations- und Kommunikationstechnologie, insbesondere dem Internet, zwischen Volkswirtschaften bzw. verschiedenen Bevölkerungsgruppen aufgrund von technischen und sozioökonomischen Faktoren.
+
+Schon Anfang der 1980er Jahre waren Mailbox-Netze entstanden, basierend auf Datenfernübertragung über das Telefonnetz oder auf Netzen wie Datex-P. Diese Technik blieb aber Experten vorbehalten, wie auch der Zugang zu weltweiten TCP/ IP-Netzen lange Zeit zunächst nur über Universitäten möglich war.
+Erst mit der kommerziellen Verbreitung der Internet-E-Mail Anfang der 1990er und durchgreifend dann mit dem World Wide Web etablierte sich das Internet seit Mitte der 1990er Jahre zunehmend als Standard für die Verbreitung von Informationen jeder Art.
+
+Waren dies in der Anfangszeit vor allem Kommunikation per E-Mail und die Selbstdarstellung von Personen und Firmen, folgte im Zuge der New Economy zum Ende des letzten Jahrtausends der Online-Handel.
+Mit steigenden Datenübertragungsraten und sinkenden Preisen und nicht zuletzt begünstigt durch die Verfügbarkeit von DSL-Flatrates dient es auch der Verbreitung größerer Datenmengen.
+Hiermit verbunden sind allerdings massenhafte Urheberrechtsverletzungen, deren Bekämpfung heute einen Großteil der Internet-Gesetzgebung ausmachen.
+
+== Technik
+
+=== Infrastruktur
+
+Das Internet besteht aus Netzwerken unterschiedlicher administrativer Verwaltung, die zusammengeschaltet sind.
+Darunter sind hauptsächlich
+
+Physikalisch besteht das Internet im Kernbereich, also bei Verbindungen zwischen den oben genannten Netzwerken und in den Backbones großer Netzwerke, kontinental und interkontinental hauptsächlich aus Glasfaserkabeln, die durch Router zu einem Netz verbunden sind.
+Glasfaserkabel bieten eine enorme Übertragungskapazität und wurden vor einigen Jahren zahlreich sowohl als Land- als auch als Seekabel in Erwartung sehr großen Datenverkehr-Wachstums verlegt.
+Da sich die physikalisch mögliche Übertragungsrate pro Faserpaar mit fortschrittlicher Lichteinspeisetechnik (DWDM) aber immens vergrößerte, besitzt das Internet hier zurzeit teilweise Überkapazitäten.
+Schätzungen zufolge wurden im Jahr 2005 nur drei Prozent der zwischen europäischen oder US-amerikanischen Städten verlegten Glasfasern benutzt.
+Auch Satelliten und Richtfunkstrecken sind in die globale Internet-Struktur eingebunden, haben jedoch einen geringen Anteil.
+
+Auf der sogenannten letzten Meile, also bei den Hausanschlüssen, werden die Daten oft auf Kupferleitungen von Telefon- oder Fernsehanschlüssen und vermehrt auch über Funk, mittels WLAN oder UMTS, übertragen.
+Glasfasern bis zum Haus (FTTH) sind in Deutschland noch nicht sehr weit verbreitet.
+Privatpersonen greifen auf das Internet entweder über einen Schmalbandanschluss, zum Beispiel per Modem oder ISDN (siehe auch Internet by Call), oder über einen Breitbandzugang, zum Beispiel mit DSL, Kabelmodem oder UMTS, eines Internetproviders zu.
+Firmen oder staatliche Einrichtungen sind häufig per Standleitung auf Kupfer- oder Glasfaserbasis mit dem Internet verbunden, wobei Techniken wie Kanalbündelung, ATM, SDH oder - immer häufiger - Ethernet in allen Geschwindigkeitsvarianten zum Einsatz kommen.
+
+In privaten Haushalten werden oft Computer zum Abrufen von Diensten ans Internet angeschlossen, die selbst wenige oder keine solche Dienste für andere Teilnehmer bereitstellen und nicht dauerhaft erreichbar sind.
+Solche Rechner werden als Client-Rechner bezeichnet.
+Server dagegen sind Rechner, die in erster Linie Internetdienste anbieten.
+Sie stehen meistens in sogenannten Rechenzentren, sind dort schnell angebunden und in klimatisierten Räumlichkeiten gegen Strom- und Netzwerkausfall sowie Einbruch und Brand gesichert.
+Peer-to-Peer-Anwendungen versetzen auch obige Client-Rechner in die Lage, zeitweilig selbst Dienste anzubieten, die sie bei anderen Rechnern dieses Verbunds abrufen.
+So wird hier die strenge Unterscheidung des Client-Server-Modells aufgelöst.
+
+An Internet-Knoten werden viele verschiedene Backbone-Netzwerke über leistungsstarke Verbindungen und Geräte (Router und Switches) miteinander verbunden.
+Darauf wird der Austausch von Erreichbarkeitsinformationen zwischen jeweils zwei Netzen vertraglich und technisch als Peering, also auf der Basis von Gegenseitigkeit organisiert und somit der Datenaustausch ermöglicht.
+Am DE-CIX in Frankfurt am Main, dem größten Austauschpunkt dieser Art, sind beispielsweise mehr als hundert Netzwerke zusammengeschaltet.
+Eine solche Übergabe von Datenverkehr zwischen getrennten administrativen Bereichen, sogenannten autonomen Systemen, kann auch an jedem anderen Ort geschaltet werden, es ist meist jedoch wirtschaftlich sinnvoller, dies gebündelt an verschiedenen Internet-Knoten vorzunehmen.
+Da in der Regel ein autonomes System, wie ein Internetprovider, nicht alle anderen auf diese Art erreichen kann, benötigt es selbst mindestens einen Provider, der den verbleibenden Datenverkehr gegen Bezahlung zustellt.
+Dieser Vorgang ist technisch dem Peering ähnlich, nur stellt der sog. Upstream- oder Transitprovider dem Kundenprovider alle via Internet verfügbaren Erreichbarkeitsinformationen zur Verfügung, auch diejenigen, bei denen er selbst für die Zustellung des zu ihnen führenden Datenverkehrs bezahlen muss.
+Es gibt derzeit neun sehr große, sogenannte Tier-1-Provider, die ihren gesamten Datenverkehr auf Gegenseitigkeit abwickeln oder an ihre Kunden zustellen können, ohne einen Upstreamprovider zu benötigen.
+
+Da das Arpanet als dezentrales Netzwerk möglichst ausfallsicher sein sollte, wurde schon bei der Planung beachtet, dass es keinen Zentralrechner geben soll, also keinen Ort, an dem alle Verbindungen zusammenlaufen.
+Diese Dezentralität wurde jedoch auf der politischen Ebene des Internets nicht eingehalten.
+Die Internet Corporation for Assigned Names and Numbers (ICANN) ist als hierarchisch höchste Organisation zuständig für die Vergabe von IP-Adressbereichen, die Koordination des Domain Name Systems (DNS) und der dafür nötigen Root-Nameserver-Infrastruktur sowie für die Festlegung anderer Parameter der Internetprotokollfamilie, die weltweite Eindeutigkeit verlangen.
+Sie untersteht formal dem US-Handelsministerium.
+
+Die netzartige Struktur sowie die Heterogenität des Internets tragen zu einer hohen Ausfallsicherheit bei.
+Für die Kommunikation zwischen zwei Nutzern existieren meistens mehrere mögliche Wege über Router mit verschiedenen Betriebssystemen, und erst bei der tatsächlichen Datenübertragung wird entschieden, welcher benutzt wird.
+Dabei können zwei hintereinander versandte Datenpakete beziehungsweise eine Anfrage und die Antwort je nach Auslastung und Verfügbarkeit verschiedene Pfade durchlaufen.
+Deshalb hat der Ausfall einer physikalischen Verbindung im Kernbereich des Internets meistens keine schwerwiegenden Auswirkungen; nur ein Ausfall der einzigen Verbindung auf der letzten Meile lässt sich nicht ausgleichen.
+
+=== Internetprotokoll und Domain Name System
+
+Das Internet basiert auf der Internetprotokollfamilie, die die Adressierung und den Datenaustausch zwischen verschiedenen Computern und Netzwerken in Form von offenen Standards regelt.
+Das Protokoll, in dem die weltweit eindeutige Adressierung von angebundenen Rechnern festgelegt und benutzt wird, heißt Internetprotokoll (IP).
+Die Kommunikation damit geschieht nicht verbindungsorientiert, wie beim Telefon, sondern paketorientiert.
+Das heißt, dass die zu übertragenden Daten in IP-Paketen einer Größe von bis zu ca. 65.000 Byte, meist aber nur 1500 Byte, übermittelt werden, die jeweils IP-Adressen als Absende- und Zielinformation beinhalten.
+Der Empfänger setzt die Daten aus den Paketinhalten, auch Nutzdaten genannt, in festgelegter Reihenfolge wieder zusammen.
+
+Die Netzwerkprotokolle sind je nach Aufgabe verschiedenen Schichten zugeordnet, wobei Protokolle höherer Schicht samt Nutzdaten in den Nutzdaten niederer Schichten transportiert werden.
+Die Standards und Protokolle des Internets werden in RFCs beschrieben und festgelegt.
+Ein großer Vorteil des Internetprotokolls ist, dass die Paketübertragung unabhängig von der Wahl der verwendeten Betriebssysteme und unabhängig von den Netzwerktechniken der Protokollschichten unterhalb von IP geschehen kann, ähnlich wie ein ISO-Container im Güterverkehr nacheinander per Schiff, Bahn und Lastwagen transportiert werden kann, um an sein Ziel zu gelangen.
+
+Um einen bestimmten Computer ansprechen zu können, identifiziert ihn das Internetprotokoll mit einer eindeutigen IP-Adresse.
+Dabei handelt es sich bei der Version IPv4 um vier Byte (32 Bit), die als vier Dezimalzahlen im Bereich von 0 bis 255 durch einen Punkt getrennt angegeben werden, beispielsweise 66.230.200.100.
+Bei der neuen Version IPv6 sind dies 16 Byte (128 Bit), die als acht durch Doppelpunkt getrennte Blöcke aus je vier hexadezimalen Ziffern angegeben werden, z. B. 2001:0db8:85a3:08d3:1319:8a2e:0370:7344.
+Man kann sich diese Adressen wie Telefonnummern für Computer mit dem Domain Name System (DNS) als automatischem Telefonbuch vorstellen.
+
+Das DNS ist ein wichtiger Teil der Internet-Infrastruktur.
+Es ist eine über viele administrative Bereiche verteilte, hierarchisch strukturierte Datenbank, die einen Übersetzungsmechanismus zur Verfügung stellt:
+Ein für Menschen gut merkbarer Domänenname (zum Beispiel "wikipedia.de") kann in eine IP-Adresse übersetzt werden und umgekehrt.
+Dies geschieht - vom Nutzer unbemerkt - immer dann, wenn er etwa im Webbrowser auf einen neuen Hyperlink klickt oder direkt eine Webadresse eingibt.
+Der Browser fragt dann zuerst mittels IP-Paket einen ihm bekannten DNS-Server nach der IP-Adresse des fremden Namens und tauscht dann IP-Pakete mit dieser Adresse aus, um die Inhalte der dort angebotenen Dienste wie beispielsweise Webseiten abzurufen.
+Zum Ermitteln der IP-Adresse befragt oft der DNS-Server selbst der Hierarchie folgend andere DNS-Server.
+Die Wurzel der Hierarchie, die in den Namen durch die Punkte erkennbar wird, bilden die Root-Nameserver.
+So wird also das Erreichen der erwähnten Dienste mit IP-Paketen ermöglicht, durch die den Anwendern erst ein Nutzen aus dem Internet entsteht.
+Auch das DNS selbst ist genau genommen schon ein solcher, wenn auch sehr grundlegender Dienst, ohne den die Nutzer zum Verbinden mit anderen Rechnern IP-Adressen statt Namen angeben müssten.
+
+Im Kernbereich des Internets müssen die IP-Pakete durch ein weit verzweigtes Netz.
+Die Verzweigungsstellen sind Router, die über den kürzesten Weg zur Ziel-IP-Adresse des Paketes entscheiden.
+Sie verwenden dazu Routingtabellen, die über Routingprotokolle automatisch erstellt und aktuell gehalten werden; so wird automatisch auf ausgefallene Verbindungen reagiert.
+In Routingtabellen werden mehrere mögliche Ziel-IP-Adressen mit Hilfe von Netzmasken - bei IPv6 spricht man von Präfixlängen - zu Zielnetzen zusammengefasst, und diesen wird jeweils ein Ausgang des Routers, zum Beispiel in Form der Sprungadresse zum nächsten Router (Next Hop IP Address), zum Weiterleiten zugeordnet.
+Zwischen autonomen Systemen geschieht der Austausch dieser Erreichbarkeitsinformationen heute ausschließlich über das Border Gateway Protocol, innerhalb eines autonomen Systems stehen viele andere Routingprotokolle zu Verfügung.
+Für Computer und Router, die nicht im Kernbereich des Internets stehen, reicht eine statische, nicht durch Routingprotokolle erzeugte, Routingtabelle aus.
+Diese enthält dann eine Default-Route, oft auch Standard- oder Default-Gateway genannt, die für alle Zielnetze, die nicht anders eingetragen sind, in Richtung des Kernbereichs des Internets weist, ähnlich einem Wegweiser "Alle Richtungen" im Straßenverkehr.
+Die Router im Kernbereich verwalten zurzeit Routingtabellen mit bis zu 540.000 Zielnetzen für IPv4 und 21.000 für IPv6.
+
+In den Nutzdaten des Internetprotokolls werden abhängig vom verwendeten Dienst immer noch Protokolle höherer Schichten (wie TCP oder UDP) übertragen, so wie ein ISO-Container im Güterverkehr Postpakete beinhalten kann, in denen wiederum Güter eingepackt sind.
+Die meisten Webseiten benutzen, aufbauend auf TCP, das Hypertext Transfer Protocol (HTTP) und für verschlüsselte Seiten das Hypertext Transfer Protocol Secure (HTTPS).
+E-Mails benutzen das Simple Mail Transfer Protocol (SMTP), ebenfalls aufbauend auf TCP, das DNS wird dagegen weitgehend mittels UDP abgewickelt.
+
+Bei IPv4 erhalten oft viele Arbeitsplatzrechner in dem Netzwerk einer Firma oder Organisation private IP-Adressen, die bei nach außen gerichteter Kommunikation per Network Address Translation (NAT) auf wenige öffentliche, global eindeutige IP-Adressen übersetzt werden.
+Auf diese Rechner kann aus dem Internet nicht direkt zugegriffen werden, was meistens zwar aus Sicherheitsgründen erwünscht ist (siehe auch: Firewall), aber auch offensichtliche Nachteile hat.
+Für IPv6 stehen erheblich mehr öffentliche Adressen zur Verfügung, so kann laut RFC 4864 auf NAT verzichtet werden und die Filterung des Datenverkehrs hat mehr Möglichkeiten.
+
+=== Energieverbrauch
+
+Der Strombedarf in den Privathaushalten für die Nutzung des Internets ist in den letzten Jahren erheblich angestiegen und wird seriösen Schätzungen zufolge auch in den nächsten Jahren weiter steigen.
+Im Jahr 2003 wurden in Deutschland etwa 6,8 Milliarden Kilowattstunden elektrischer Strom für den Betrieb des Internets benötigt, für das Jahr 2010 gehen Schätzungen von einem Energiebedarf des Internets von 31,3 Milliarden Kilowattstunden nur in Deutschland aus.
+Berücksichtigt wurden sowohl die Endgeräte von Privathaushalt und Gewerbe sowie der Energieaufwand zur Bereitstellung der notwendigen Infrastruktur des Internets an Serverstandorten.
+Nicht in diese Rechnung eingegangen ist der Energiebedarf von Serverstandorten im Ausland.
+Am Stromverbrauch eines Privathaushaltes ist die Nutzung des Internets zu einem großen Teil beteiligt.
+
+Für das Jahr 2005 wurde weltweit von einem Energieverbrauch von 123 Milliarden Kilowattstunden nur für den Betrieb der Infrastruktur für das Internet ausgegangen.
+Unberücksichtigt blieben nach dieser Studie die Geräte der Endverbraucher.
+Zu dieser Zeit wurden damit etwa 0,8 % der weltweiten Stromerzeugung für den Betrieb des Internets benötigt.
+Aufgrund der stetigen Vergrößerung des Internets auch in den Entwicklungsländern ist mit einem weiteren Anstieg des Verbrauches zu rechnen.
+
+Laut einer Schätzung ist der Anteil am weltweiten Stromverbrauch von rund 3,9 % im Jahr 2007 auf 4,6 % im Jahr 2012 gestiegen, was gut 900 Terawatt entspricht.
+Darin ist der gesamte Bereich der Informations- und Kommunikationstechnik enthalten.
+Der Energiebedarf im Bereich der Mobilfunknetze steigt durch deren Ausbau am schnellsten, da auf jedem Endgerät hohe Downloadgeschwindigkeiten erwartet werden; die Probleme von Streaming Media sind bekannt.
+
+Laut einer Studie des amerikanischen Wissenschaftlers Jonathan Koomey sind Rechenzentren am weltweiten Stromverbrauch zwischen 1,1 bis 1,5 Prozent beteiligt, in den USA seiner Schätzung nach bis zu 2,2 Prozent.
+Das Borderstep Institut geht für die Rechenzentren in Deutschland von 2 Prozent des gesamten Stromverbrauchs im Jahr 2015 aus - im Raum Frankfurt läge dieser sogar bei bis zu 20 Prozent.
+
+== Sicherheit
+
+Die Informationssicherheit oder IT-Sicherheit ist von hoher Bedeutung für Unternehmen, Verwaltung, Vereine und private wie sonstige Anwender.
+Zu den Bedrohungen im Internet zählen Schadprogramme wie Computerviren, Keylogger, Trojanische Pferde, Phishing-Mails und andere Angriffe von Hackern, Crackern oder Script-Kiddies.
+Als Schutzmechanismen dienen eine Firewall und eine aktuelle Anti-Viren-Software.
+
+== Datenaufkommen
+
+Im Jahr 2012 betrug das Datenaufkommen im festverkabelten, öffentlich zugänglichen Internet mehr als 26,7 Exabyte (1 Exabyte = 1 Mrd. Gigabyte) pro Monat, was einem täglichen Datenaufkommen von annähernd einem Exabyte entspricht.
+Die Datenmenge von einem Exabyte ist vergleichbar mit der mehr als 2500-fachen Datenmenge aller Bücher, die je geschrieben wurden.
+Das mobile Datenaufkommen (Datenaustausch über Mobilfunknetze) beläuft sich im Jahr 2012 auf über 1,1 Exabyte Daten monatlich.
+
+Bis zum Jahr 2015 wird das Datenaufkommen im festverkabelten Internet voraussichtlich auf annähernd 60 Exabyte pro Monat wachsen.
+Im mobilen Internet wird ein Datenaufkommen von mehr als 6,2 Exabyte monatlich prognostiziert.
+Über die Hälfte der übertragenen Daten machen Videodienste (Video-on-Demand) aus.
+
+Weltweit wird der IP-Datenverkehr für 2017 auf 1,4 Zettabyte angenommen, allein in Deutschland werden 38 Exabyte angenommen, gegenüber einem Aufkommen im Jahre 2012 von 17 Exabyte.
+Dabei wird eine Steigerung im mobilen Datenverkehr mit Smartphones und Tablets bis 2017 um jährlich 60 % auf dann 13,6 Exabyte erwartet.
+
+== Nutzerzahlen
+
+Dieser Abschnitt behandelt den Zugang zum Internet unter demographischen Aspekten; technische Aspekte werden im Artikel Internetzugang erläutert.
+
+=== Weltweit
+
+Die Internationale Fernmeldeunion sowie die World Wide Web Foundation kamen nach Schätzungen aus dem Jahr 2020 zu dem Ergebnis, dass in den Jahren 2019 und 2020 ca. 54 % der Weltbevölkerung einen Zugang zum Internet hatten.
+Etwa 3,5 Milliarden der Weltbevölkerung hatten in diesen Jahren dagegen keinen Internetzugang.
+
+Laut dem European Information Technology Observatory nutzten Anfang 2008 etwa 1,23 Milliarden Menschen das Internet.
+Im März 2007 hatten 16,9 Prozent der Weltbevölkerung einen Internetzugang.
+In der EU nutzten Anfang 2008 mehr als die Hälfte (51 Prozent) der 500 Millionen EU-Bürger regelmäßig das Internet, wobei 40 Prozent das Internet gar nicht benutzten.
+In Europa gab es starke Unterschiede bei den regelmäßigen Internetbenutzern.
+80 Prozent der Haushalte mit Internetanschluss verfügen über einen Breitbandzugang.
+In den USA waren es da bereits 75 Prozent, skandinavische Länder lagen bei 70 Prozent, osteuropäische Staaten teilweise bei 14 Prozent.
+Besonders verbreitet war das Internet bereits in Estland, da Estland per Gesetz den kostenlosen Zugang ins Internet garantierte.
+
+In China hatten nach dem Report über die Entwicklung des Internets Mitte 2007 etwa 162 Millionen Menschen einen Internetzugang, davon besaßen 122 Millionen einen Breitbandanschluss.
+Bei jungen Europäern verdrängt das Internet das Fernsehen und andere traditionelle Medien.
+US-Amerikaner nutzen als Nachrichtenquellen vorwiegend (48 Prozent) das Internet.
+
+=== In Deutschland
+
+Die ARD-ZDF-Onlinestudie stellte fest, dass im Jahr 2013 77,2 % der Bevölkerung ab 14 Jahren in Deutschland online waren, was 54,2 Millionen Menschen entspricht.
+Vor allem die mobilen Geräte treiben die Nutzung des Internets voran.
+Innerhalb eines Jahres stieg der Anteil der mobilen Nutzung des Internets von 23 % (2012) auf 41 % (2013).
+
+Klassisches wird von elektronischem Spielzeug verdrängt:
+"Während schon 80 Prozent der 10- bis 13-jährigen mindestens ab und zu im Internet unterwegs sind, ist es bei den 6- bis 9-jährigen jeder Dritte." Neben alten Menschen nutzen in Deutschland auch sozial Schwache und Arbeitslose das Internet weniger.
+In Deutschland verfügen über 80 Prozent der Internetnutzer über einen Breitbandzugang.
+
+Nach einer aktuellen Studie der Stiftung für Zukunftsfragen - eine Initiative von British American Tobacco - sind 2015 rund 73 Prozent der Deutschen regelmäßig im Netz unterwegs.
+Im Zeitraum von 2010 bis 2015 erhöhte sich damit die Zahl der Internetnutzer um 25 Prozent.
+
+Insbesondere bei den 14- bis 24-Jährigen herrscht Vollversorgung.
+In der Altersgruppe 25-49 Jahre können 86 Prozent nicht auf das Internet verzichten und bei den Jungsenioren im Alter von 50-64 Jahren sind mehr als sieben von zehn regelmäßig online.
+Die über 65-Jährigen zeigen sich mit 35 Prozent hingegen auch 2015 noch vergleichsweise zurückhaltend.
+Im Fünfjahresvergleich ergibt sich aber auch hier eine deutliche Steigerung.
+2010 waren es noch 14 Prozent.
+
+Deutsche besuchen statistisch gesehen regelmäßig acht Internet-Seiten.
+(Männer: durchschnittlich 9,4; Frauen: 6,4 Seiten / 14- bis 19-jährige: 5,8; 30 bis 39 Jahre alte: 9,1 Seiten).
+Die Jungen nutzen bevorzugt Unterhaltungsangebote.
+Die deutschen Männer sind im Durchschnitt 1,3 Stunden am Tag online, bei den deutschen Frauen sind es durchschnittlich 0,8 Stunden.
+
+In der Auswertung der Umfrage Private Haushalte in der Informationsgesellschaft 2013 ergaben sich für Deutschland folgende Zahlen
+
+=== In Österreich
+
+Acht von zehn Haushalten waren 2012 mit einem Internetzugang ausgestattet (79 %).
+Für den Internetzugang werden in Haushalten auch immer öfter Breitbandverbindungen genutzt, in 77 % aller Haushalte wurden Breitbandverbindungen eingesetzt.
+60 % nutzten dabei feste Breitbandverbindungen über eine Leitung (DSL, TV-Kabel, Glasfaser), in 41 % wurde mobiles Breitband (z. B. über tragbare Computer mit Modem oder über Mobiltelefon mit zumindest 3G-Technologie, wie UMTS, HSDPA) verwendet.
+
+88 % der Internetnutzer nutzten das Internet um Informationen über Waren und Dienstleistungen zu finden.
+Ebenfalls 57 % der User wickelten ihre Bankgeschäfte über das Internet ab.
+Das Internet wurde von 46 % zum Chatten oder zum Posten von Nachrichten in Social Networking-Sites, in Blogs, in Newsgroups oder auf Online-Diskussionsforen oder zum Nutzen von Instant-Messaging genutzt.
+
+Den größten Anteil an Internetnutzerinnen und Internetnutzern, die das Internet anderswo als zu Hause oder in der Arbeit nutzten, findet man bei den unter 35-Jährigen: 83 % der 16- bis 24-Jährigen haben dies getan, bei den 25- bis 34-Jährigen waren es 71 %.
+
+=== In der Schweiz
+
+Im 1. Quartal 2017 hatte fast die gesamte Schweizer Bevölkerung zwischen 15 und 54 Jahren einen Internetzugang.
+Je nach Alterskategorie sind es zwischen 96 und 99 Prozent.
+Bei den Personen im Alter von 55 bis 64 Jahren nutzen 91 Prozent das Internet, gegenüber 80 Prozent drei Jahre zuvor.
+Bei den 65- bis 74-Jährigen stieg die Zahl von 62 auf 77 Prozent.
+45 Prozent der Personen ab 75 Jahren verwenden das Internet, 2014 waren es 20 Prozentpunkte weniger.
+
+== Digitale Schriftlichkeit
+
+Das Internet hat eine eigene Art der Schriftlichkeit hervorgebracht.
+Ebenso haben soziale Netzwerke zur Entwicklung einer eigenen Netzkultur mit verschiedenen sprachlichen Ausprägungen beigetragen.
+
+=== Charakteristika
+
+Das Internet eignet sich dafür, über zeitliche und räumliche Distanzen hinweg schriftlich zu kommunizieren.
+Es integriert dabei multimediale Aspekte in seine Schriftlichkeit (Emoticons - Symbole, die sich bewegen und bestimmte Gefühlszustände darstellen sollen).
+Außerdem unterliegt es einer beständigen Wandlung und hat keinen Anspruch auf Endgültigkeit.
+Die schriftlichen Produkte im Internet lassen sich schnell verändern und verlangen die Bereitschaft, sich beständig auf Neues einzustellen.
+Durch die Möglichkeiten der lokalen und globalen Verlinkung von einzelnen Wörtern eines Online-Textes, kann auch die Linearität, die einem traditionellen Text innewohnt, teilweise aufgehoben werden.
+Man spricht in dem Zusammenhang auch von Hypertexten.
+
+=== Literatur im Internet
+
+Via Internet wird Literatur zur Verfügung gestellt und Literatur geschrieben.
+So entstanden etwa literarische Gattungen wie Digitale Poesie, Weblogs oder kollaboratives Schreiben im Internet.
+Literarische Produktion via Internet folgt anderen Kriterien als herkömmliche Literatur und Textproduktion.
+Literatur im Internet ist von Aspekten der Technik, Ästhetik und Kommunikation geprägt.
+So haben beispielsweise Neal Stephenson und sein Team mit dem Schreiben eines Romans ("The Mongoliad") via Internet begonnen, bei dem eine Community von Autoren interaktiv mitschreibt.
+Neben dem eigentlichen Text gibt es eine eigene E-Publishing-Plattform ("Subutai") mit Videos, Bildern, einer Art Wikipedia und einem Diskussionsforum zum Roman.
+
+== Literatur
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+

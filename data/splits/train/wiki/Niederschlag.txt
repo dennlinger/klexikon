@@ -1,0 +1,129 @@
+Unter Niederschlag versteht man in der Meteorologie Wasser inklusive dessen Verunreinigungen, das aus Wolken, Nebel oder Dunst (beides Wolken in Kontakt mit dem Boden) oder wasserdampfhaltiger Luft (Luftfeuchtigkeit) stammt und das
+
+== Entstehung
+
+Durch Verdunstung und Sublimation gelangt Wasserdampf in die Atmosphäre.
+Wolken entstehen von Kondensationskeimen ausgehend durch Kondensation der Feuchtigkeit in der Luft.
+Um wieder als Niederschlag auf die Erdoberfläche fallen zu können, muss die Größe (bzw. Masse) der kondensierten Teilchen einen bestimmten Wert überschreiten.
+Durch den Niederschlag wird der Wasserkreislauf geschlossen.
+
+== Auswirkung
+
+Die Häufigkeit und die durchschnittliche Menge des Niederschlages sind charakteristisch für die entsprechenden geographischen Gebiete.
+Der Niederschlag ist dabei ein Faktor, der das lokale Klima mitbestimmt.
+Besonders für die Landwirtschaft ist er relevant, da erst ab einer bestimmten Niederschlagsmenge erfolgreicher Regenfeldbau möglich ist.
+Aus einer angetroffenen Ökozone kann daher meist grob auf eine mittlere Niederschlagsmenge gefolgert werden.
+
+Bei der Kondensation aus feuchter Luft geht Kondensationswärme, beim Resublimieren geht Resublimationswärme aus dem Wasserdampf, beim Gefrieren geht Gefrierwärme aus dem Wasser in die Umgebung (Luft, Wasser, Bewuchs, sonstige Oberflächen) über.
+Gefriert unterkühlter Nebel oder unterkühlter Regen, so ist der Wärmeübergang gering.
+Beim Verdunsten und Sublimieren von Niederschlag wird Wärme der Umgebung entzogen, dies wirkt abkühlend auch auf die Erdoberfläche und reguliert teilweise das (Mikro-)Klima.
+
+== Beispiele für Niederschlag
+
+=== Flüssiger Niederschlag
+
+=== Fester Niederschlag
+
+== Spezifikationen
+
+=== Künstlicher Niederschlag
+
+Niederschlag kann unter bestimmten meteorologischen Konstellationen künstlich erzeugt werden, indem eine große Menge an künstlichen Eiskeimen, also Kondensationskernen (z. B. Silberiodid) in unterkühlte Wolken ausgebracht wird; siehe Hagelflieger.
+Aus großtechnischen Wasserdampfemissionen stammender Industrieschnee ist ebenso künstlicher Niederschlag, der zivilisatorisch bedingt entstehen kann.
+
+=== Abgrenzung
+
+Kunstschnee von Beschneiungsanlagen, Kunsteis und Schwarzeis (gefrorenes See- und Meerwasser) werden nicht zu den Niederschlägen gezählt, weil das Wasser nicht direkt und hauptsächlich aus Wolken, Nebel oder Luftfeuchtigkeit stammt.
+Ortsverlagerter Niederschlag (beispielsweise vom Schneepflug versetzter Schnee, Sprühfahnen, Dachlawinen, Regenwasser in Fließgewässern) bleibt trotzdem Niederschlag.
+
+"Regen" aus Beregnungsanlagen wird i. A. nicht dem Niederschlag zugerechnet, kann jedoch durch die dadurch erhöhte Verdunstung zu vermehrter Wolkenbildung und erhöhtem "allgemeinem Niederschlag" führen.
+
+== Gesetzmäßigkeiten der räumlichen Verbreitung der Niederschläge
+
+== Niederschlagsmessung
+
+=== Messgeräte, Maßeinheiten und Messmethoden
+
+Gemessen wird mit zwei verschiedenen Arten von Messgeräten:
+
+Die meisten Niederschlagsmesser sammeln den Niederschlag als punktuelle Niederschlagsmessung in einem Messgefäß.
+Ein Millimeter (Maßeinheit) entspricht der Wasserhöhe (Niederschlagshöhe) von 1 mm, die sich ergäbe, wenn kein Wasser abflösse oder verdunstete.
+Alternativ wird oft auch die Wassermenge (Niederschlagsmenge) in l / m 2 {\displaystyle \mathrm {l} /\mathrm {m} ^{2}} (ebene Fläche) angegeben.
+Ein Millimeter ist gleich einem Liter pro Quadratmeter.
+Jene Anteile, die nicht in Form flüssigen Wassers vorkommen, werden entweder in die entsprechende Menge desselben umgerechnet (sofern die Dichte bekannt ist), oder bei Schnee und Hagel durch leichte Erwärmung, um die Verdampfung und den Messfehler zu verringern, in Wasser umgewandelt.
+
+Neben der direkten Berechnung vor Ort können Niederschlagsintensitäten auch durch Radarmessungen bestimmt werden.
+Dazu zieht man die von der Stärke des Regens abhängige Radarreflektivität heran.
+Über Niederschlagsradare können die gefallenen Mengen inzwischen auch flächendeckend geschätzt werden.
+Vor allem im Bereich des Hochwassermanagements ist dies von Bedeutung (punktuelle Messwerte verifizieren bzw. kalibrieren).
+Neben der reinen Niederschlags-Höhe bzw. Menge sind dabei vor allem auch die Niederschlagsintensität und die Niederschlagsdauer wichtig.
+
+Langfristige (klimatologische) Niederschlagsmessungen lassen statistische Berechnungen zu, um die mittlere Häufigkeit von unterschiedlichen Niederschlagsereignissen (v. a. Starkregenereignisse) anzugeben, die Intensität und Dauer zueinander in Bezug setzen.
+
+=== Niederschlagshöhe
+
+Die Niederschlagshöhe wird in der Meteorologie für Regen üblicherweise in Millimeter (Wasserhöhe) angegeben und für gefrorene Niederschläge in Zentimeter.
+Sie gibt wiederum Aufschluss über die Niederschlagsmenge.
+
+Wenn die Niederschlagshöhe, bzw. die daraus resultierende Niederschlagsmenge nicht messbar ist, wird sie mit "kleiner 0,1 mm" angegeben.
+Bei Schneefall, Hagel oder Graupel wird sie in c m {\displaystyle \mathrm {cm} } (Zentimeter) angegeben.
+Eine Umrechnung in die Niederschlagsmenge in Liter bzw. in die wasseräquivalente Niederschlagshöhe pro Quadratmeter kann nur nach Bestimmung der Dichte erfolgen, da bei gefrorenen Niederschlägen große Unterschiede bestehen können.
+
+=== Niederschlagsmenge
+
+Man betrachtet das flüssige Wasser (Niederschlagswasser), das sich bei Niederschlag (Regen, Schnee, Hagel, Nebel usw.) in einer definierten Zeitspanne (siehe auch Niederschlagsintensität) in einem nur nach oben offenen Gefäß mit definierter horizontaler Öffnung sammelt.
+Als Niederschlagsmenge bezeichnet man das Volumen der Flüssigkeit bezogen auf die Fläche der Öffnung und gibt sie an in Litern pro Quadratmeter (1 Liter ist 1 Kubikdezimeter).
+Mit der Umrechnung
+
+ist sie nur zahlenmäßig gleich der Niederschlagshöhe in Millimetern.
+Wenn man aus der Millimeter-Angabe also die Niederschlagsmenge in Litern berechnen will, muss die Millimeter-Zahl mit der waagrecht projizierten Sammelfläche in Quadratmetern multipliziert werden:
+Millimeter x Quadratmeter = Liter.
+
+Das übliche Messintervall (es ist immer mit anzugeben) sind 24 Stunden (1 Tag), aber auch 48 oder 72 h und so fort für länger dauernde Starkregen-Ereignisse, für Schlagregen auch 1 Stunde und entsprechend mehr, aber auch bis hin zu 5 Minuten (etwa als Bemessung für Abflusseinrichtungen an Gebäuden) sowie ein Monat, eine Jahreszeit und das ganze Jahr für klimatologische Betrachtungen.
+In den Fällen, in denen man mehrere Standardintervalle addiert, spricht man auch von Niederschlagssumme.
+
+Faktoren wie Verdunstung, Bodenversickerung oder Abfluss werden bei der Messung nicht berücksichtigt.
+
+=== Niederschlagsdauer
+
+Der Begriff Niederschlagsdauer steht für die Zeitdauer eines einzelnen Niederschlagsereignisses.
+Auf Basis der Niederschlagsdauer unterscheidet man zwischen Dauerniederschlägen und Schauern.
+Zudem ist sie für die Festlegung von Wiederkehrsintervallen von Starkregenereignissen und Überschwemmungsszenarien notwendig.
+
+=== Niederschlagsintensität
+
+Als Niederschlagsintensität bezeichnet man den Quotienten aus Niederschlagshöhe bzw. -menge und Zeit.
+Sie wird für Regen in der Regel in Millimeter pro Stunde beziehungsweise Liter je Quadratmeter (und Stunde, was oft unerwähnt bleibt), bei Schnee in Zentimeter pro Stunde angegeben.
+
+Andere Angaben für statistische Zwecke können noch Millimeter (bei Schnee Zentimeter) pro Tag, Woche, Monat oder Jahr sein.
+
+Ein mittelstarker Regenschauer in Mitteleuropa hat eine Intensität um 5 mm/h, ein Starkregen um 30 mm/h oder als Platzregen 5 mm/5 min.
+Bei einem heftigen Unwetter kann die Regenmenge auf 50 mm/h und mehr anwachsen.
+Niederschlagsmengen von wenigen 100 mm in einigen Tagen (etwa 300 mm/4 d) führen schon, wenn sie großflächig sind, zu schweren Hochwasserereignissen an den großen Flüssen.
+Tropenstürme erreichen Werte von 130 mm/h und weit darüber.
+
+=== Langfristige Niederschlagsmengen (mittlerer Niederschlag, kumulierter Niederschlag)
+
+Für die durchschnittliche Höhe des Niederschlags im Laufe einer bestimmten Periode an einem definierten Ort oder in einer bestimmten Region existieren folgende meteorologisch-klimatologischen Ausdrücke.
+
+Für die Charakteristika eines speziellen Jahres werden die gemessenen Niederschläge aufsummiert (kumuliert), und dann mit den mittleren Niederschlägen desselben Bemessungszeitraumes verglichen:
+So kann eine Aussage gemacht werden, ob ein Monat oder Jahr "zu nass" oder "zu trocken", ein Winter "schneereich" ist, oder dass bei einem Starkregenereignis "der Normalniederschlag eines Monats in drei Tagen gefallen" ist.
+Ebenso können Klimata und Jahreszeitcharakteristika verglichen werden, also etwa "wintertrocken", "Niederschlagsmaximum im Spätsommer".
+
+== Niederschlagsrekorde
+
+Regen, Positivrekorde
+
+Regional begrenzte Extremniederschläge können auch deutlich höher liegen.
+So wurde für das Regenereignis am 2. Juni 2008 im baden-württembergischen Killer- und Starzeltal ein Niederschlag von rund 240 Millimeter in einer Stunde ermittelt.
+
+Regen, Negativrekorde
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

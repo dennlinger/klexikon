@@ -1,0 +1,46 @@
+Ein Kreis ist in der Geometrie eine Figur in der Ebene.
+Alle Punkte auf der Kreislinie sind gleich weit vom Mittelpunkt entfernt.
+Den Abstand vom Mittelpunkt nennt man Radius.
+Jede Gerade durch den Mittelpunkt teilt die Kreisfläche in zwei genau gleiche Hälften.
+Diese Geraden nennt man Durchmesser.
+Jeder Kreis hat einen Umfang, das ist die Linie am äusseren Rand.
+Die Kreisfläche ist das, was man ausmalen kann.
+Im Alltag trifft man auf viele Kreise.
+Oft sind es Reifen:
+Armreifen oder Reifen im Gymnastikunterricht oder im Zirkus.
+Die Ränder von Tassen, Tellern oder Gläsern bilden ebenfalls Kreise.
+Allerdings sagt man oft Kreis zu etwas, das nicht vollkommen rund ist.
+Es gibt auch Ableitungen, zum Beispiel den Verkehrskreisel.
+Ein Kreis lässt sich recht einfach zeichnen.
+Wenn der Gärtner seine Blumen im Kreis pflanzen will, steckt er einen Stock in den Boden und bindet eine Schnur daran.
+An das Ende der Schnur bindet er einen weiteren Stock.
+Mit diesem zieht er einen Kreis um den Mittelpunkt.
+Das geometrische Werkzeug für genaue Kreise heißt Zirkel.
+Seine beiden Schenkel lassen sich schmal oder breit öffnen.
+Das Ende mit der Spitze steckt man auf sein Blatt Papier.
+Mit der Bleistiftmine am anderen Ende zieht man den Kreis.
+Dabei darf man die Öffnung nicht verstellen.
+Schon die Ägypter und die Griechen beschäftigten sich in der Geometrie intensiv mit dem Kreis.
+Sie fertigten exakte Zeichnungen und stellten komplizierte Berechnungen an.
+Sie wussten beispielsweise, wie man aus dem Radius die Länge der Kreislinie berechnete oder umgekehrt.
+Auch die Fläche eines Kreises konnten sie berechnen.
+Diese ist ein Maß für die Menge der Farbe die es brauchen würde, um einen Kreis auszumalen.
+Die Kreisfläche berechnet man am besten aus dem Quadrat, das über dem Radius steht.
+Diese Quadratfläche muss man mit einer besonderen Zahl multiplizieren.
+Sie heißt Pi, das ist ein Griechischer Buchstabe.
+Pi hat die Größe von 3,14.
+Die Kreisfläche ist also etwa dreimal so groß wie die Fläche über dem Radius.
+Ähnlich berechnet man den Umfang, nämlich aus dem Durchmesser mal Pi.
+Den Umfang kann man auch ganz einfach mit einem Messband aus weichem Kunststoff messen.
+Das geht besonders gut bei einem Rad oder zum Beispiel bei einer Dose.
+Man kann auch eine Schnur um die Dose legen und dann ihre Länge mit einem Maßstab messen.
+Die Berechnung der Kreisfläche und des Kreisumfangs mit Pi funktionieren bei jeder Größe des Kreises.
+Pi ist in jedem Fall gleich.
+Der Mathematiker sagt: "Pi ist eine Konstante".
+Pi nennt man auch die "Kreiszahl".
+Sie war schon in der Antike bekannt.
+Das griechische Wort "perimetros" bedeutet auf Deutsch "Umfang".
+"Perimetros" beginnt mit dem Buchstaben Pi, das ist unser P. Genau genommen ist Pi auch nicht 3.14, sondern 3,141596... und geht dann immer weiter.
+Vereinfacht kann man auch sagen:
+Man nimmt drei Mal den Durchmesser und noch einen Siebtel des Durchmessers dazu.
+Das ist schon recht genau, denn ein Siebtel ist nur wenig mehr als 0,14. Diese Berechnung gilt auch für die Kreisfläche.

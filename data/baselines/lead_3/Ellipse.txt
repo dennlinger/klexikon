@@ -1,0 +1,3 @@
+Ellipsen sind in der Geometrie spezielle geschlossene ovale Kurven.
+Sie zählen neben den Parabeln und den Hyperbeln zu den Kegelschnitten.
+Eine anschauliche Definition verwendet die Eigenschaft, dass die Summe der Abstände eines Ellipsenpunktes von zwei vorgegebenen Punkten, den Brennpunkten, für alle Punkte gleich ist.

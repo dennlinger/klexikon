@@ -1,0 +1,259 @@
+Die Relativitätstheorie befasst sich mit der Struktur von Raum und Zeit sowie mit dem Wesen der Gravitation.
+Sie besteht aus zwei maßgeblich von Albert Einstein entwickelten physikalischen Theorien, der 1905 veröffentlichten speziellen Relativitätstheorie und der 1916 abgeschlossenen allgemeinen Relativitätstheorie.
+Die spezielle Relativitätstheorie beschreibt das Verhalten von Raum und Zeit aus der Sicht von Beobachtern, die sich relativ zueinander bewegen, und die damit verbundenen Phänomene.
+Darauf aufbauend führt die allgemeine Relativitätstheorie die Gravitation auf eine Krümmung von Raum und Zeit zurück, die unter anderem durch die beteiligten Massen verursacht wird.
+
+Der in der physikalischen Fachsprache häufige Ausdruck relativistisch bedeutet üblicherweise, dass eine Geschwindigkeit nicht vernachlässigbar klein gegenüber der Lichtgeschwindigkeit ist; die Grenze wird oft bei 10 Prozent gezogen.
+Bei relativistischen Geschwindigkeiten gewinnen die von der speziellen Relativitätstheorie beschriebenen Effekte zunehmende Bedeutung, die Abweichungen von der klassischen Mechanik können dann nicht mehr vernachlässigt werden.
+
+In diesem Artikel werden die grundlegenden Strukturen und Phänomene lediglich zusammenfassend aufgeführt.
+Für Erläuterungen und Details siehe die Artikel spezielle Relativitätstheorie und allgemeine Relativitätstheorie sowie die Verweise im Text.
+Zum Begriff der Relativität als solcher siehe Relativität.
+
+== Bedeutung
+
+Die Relativitätstheorie hat das Verständnis von Raum und Zeit revolutioniert und Zusammenhänge aufgedeckt, die sich der anschaulichen Vorstellung entziehen.
+Diese lassen sich jedoch mathematisch präzise in Formeln fassen und durch Experimente bestätigen.
+Die Relativitätstheorie enthält die newtonsche Physik als Grenzfall.
+Sie erfüllt damit das Korrespondenzprinzip.
+
+Das Standardmodell der Teilchenphysik beruht auf der Vereinigung der speziellen Relativitätstheorie mit der Quantentheorie zu einer relativistischen Quantenfeldtheorie.
+
+Die allgemeine Relativitätstheorie ist neben der Quantenphysik eine der beiden Säulen des Theoriengebäudes Physik.
+Es wird allgemein angenommen, dass eine Vereinigung dieser beiden Säulen zu einer Theory of Everything (Theorie von allem) im Prinzip möglich ist.
+Trotz großer Anstrengungen ist solch eine Vereinigung jedoch noch nicht vollständig gelungen.
+Sie zählt zu den großen Herausforderungen der physikalischen Grundlagenforschung.
+
+== Die spezielle Relativitätstheorie
+
+=== Das Relativitätsprinzip
+
+Die beiden folgenden Feststellungen lassen sich als Axiome der Relativitätstheorie interpretieren, aus denen alles Weitere hergeleitet werden kann:
+
+Das Relativitätsprinzip an sich ist wenig spektakulär, denn es gilt auch für die newtonsche Mechanik.
+Aus ihm folgt unmittelbar, dass es keine Möglichkeit gibt, eine absolute Geschwindigkeit eines Beobachters im Raum zu ermitteln und damit ein absolut ruhendes Bezugssystem zu definieren.
+Ein solches Ruhesystem müsste sich in irgendeiner Form von allen anderen unterscheiden - es würde damit aber im Widerspruch stehen zum Relativitätsprinzip, wonach die Gesetze der Physik in allen Bezugssystemen dieselbe Gestalt haben.
+Nun beruhte vor der Entwicklung der Relativitätstheorie die Elektrodynamik auf der Annahme des Äthers als Träger elektromagnetischer Wellen.
+Würde ein solcher Äther als starres Gebilde den Raum füllen, dann würde er ein Bezugssystem definieren, in dem im Widerspruch zum Relativitätsprinzip die physikalischen Gesetze eine besonders einfache Form hätten und welches überdies das einzige System wäre, in dem die Lichtgeschwindigkeit konstant ist.
+Jedoch scheiterten alle Versuche, die Existenz des Äthers nachzuweisen, wie beispielsweise das berühmte Michelson-Morley-Experiment von 1887.
+
+Durch die Aufgabe der konventionellen Vorstellungen von Raum und Zeit und die Verwerfung der Ätherhypothese gelang es Einstein, den scheinbaren Widerspruch zwischen dem Relativitätsprinzip und der aus der Elektrodynamik folgenden Konstanz der Lichtgeschwindigkeit aufzulösen.
+Nicht zufällig waren es Experimente und Überlegungen zur Elektrodynamik, die zur Entdeckung der Relativitätstheorie führten.
+So lautete der unscheinbare Titel der einsteinschen Publikation von 1905, die die spezielle Relativitätstheorie begründete, Zur Elektrodynamik bewegter Körper.
+
+=== Relativität von Raum und Zeit
+
+Raum- und Zeitangaben sind in der Relativitätstheorie keine universell gültigen Ordnungsstrukturen.
+Vielmehr werden der räumliche und zeitliche Abstand zweier Ereignisse oder auch deren Gleichzeitigkeit von Beobachtern mit verschiedenen Bewegungszuständen unterschiedlich beurteilt.
+Bewegte Objekte erweisen sich im Vergleich zum Ruhezustand in Bewegungsrichtung als verkürzt und bewegte Uhren als verlangsamt.
+Da jedoch alle relativ zueinander gleichförmig bewegten Beobachter gleichermaßen den Standpunkt vertreten können, sich in Ruhe zu befinden, beruhen diese Beobachtungen auf Gegenseitigkeit, das heißt, zwei relativ zueinander bewegte Beobachter sehen die Uhren des jeweils anderen langsamer gehen.
+Außerdem sind aus ihrer Sicht die Meterstäbe des jeweils anderen kürzer als ein Meter, wenn sie längs der Bewegungsrichtung ausgerichtet sind.
+Die Frage, wer die Situation korrekter beschreibt, ist hierbei prinzipiell nicht zu beantworten und daher sinnlos.
+
+Diese Längenkontraktion und Zeitdilatation lassen sich vergleichsweise anschaulich anhand von Minkowski-Diagrammen nachvollziehen.
+In der mathematischen Formulierung ergeben sie sich aus der Lorentz-Transformation, die den Zusammenhang zwischen den Raum- und Zeitkoordinaten der verschiedenen Beobachter beschreibt.
+Diese Transformation lässt sich direkt aus den beiden obigen Axiomen und der Annahme, dass sie linear ist, herleiten.
+
+Die meisten dieser relativistisch erklärbaren Phänomene machen sich erst bei Geschwindigkeiten bemerkbar, die im Vergleich zur Lichtgeschwindigkeit nennenswert groß sind.
+Solche Geschwindigkeiten werden von massebehafteten Körpern im Alltag nicht annähernd erreicht.
+
+=== Lichtgeschwindigkeit als Grenze
+
+Kein Objekt und keine Information kann sich schneller bewegen als das Licht im Vakuum.
+Nähert sich die Geschwindigkeit eines materiellen Objektes der Lichtgeschwindigkeit, so strebt der Energieaufwand für eine weitere Beschleunigung über alle Grenzen, weil die kinetische Energie mit zunehmender Annäherung an die Lichtgeschwindigkeit immer steiler ansteigt.
+Zum Erreichen der Lichtgeschwindigkeit müsste unendlich viel Energie aufgebracht werden.
+
+Dieser Umstand ist eine Folge der Struktur von Raum und Zeit und keine Eigenschaft des Objekts, wie beispielsweise eines lediglich unvollkommenen Raumschiffes.
+Würde sich ein Objekt mit Überlichtgeschwindigkeit von A nach B bewegen, so gäbe es immer einen relativ zu ihm bewegten Beobachter, der eine Bewegung von B nach A wahrnehmen würde, wiederum ohne dass die Frage, wer die Situation korrekter beschreibt, einen Sinn gäbe.
+Das Kausalitätsprinzip wäre dann verletzt, da die Reihenfolge von Ursache und Wirkung nicht mehr definiert wäre.
+Ein solches Objekt würde sich übrigens für jeden Beobachter mit Überlichtgeschwindigkeit bewegen.
+
+=== Vereinigung von Raum und Zeit zur Raumzeit
+
+Raum und Zeit erscheinen in den Grundgleichungen der Relativitätstheorie formal fast gleichwertig nebeneinander und lassen sich daher zu einer vierdimensionalen Raumzeit vereinigen.
+Dass Raum und Zeit auf verschiedene Weise in Erscheinung treten, ist eine Eigenheit der menschlichen Wahrnehmung.
+Mathematisch lässt der Unterschied sich auf ein einziges Vorzeichen zurückführen, durch das sich die Definition eines Abstandes im euklidischen Raum von der Definition des Abstands in der vierdimensionalen Raumzeit unterscheidet.
+Aus gewöhnlichen Vektoren im dreidimensionalen Raum werden dabei sogenannte Vierervektoren.
+
+In der Raumzeit gibt es aufgrund der Relativität von Längen und Zeitspannen drei klar unterscheidbare Bereiche für jeden Beobachter:
+
+Praktische Anwendung finden die Raumzeit-Vierervektoren beispielsweise in Berechnungen der Kinematik schneller Teilchen.
+
+=== Äquivalenz von Masse und Energie
+
+Einem System mit der Masse m lässt sich auch im unbewegten Zustand eine Energie E zuordnen, und zwar nach
+
+wobei c die Geschwindigkeit des Lichtes ist.
+Diese Formel ist eine der berühmtesten in der Physik.
+Oft wird irreführend behauptet, sie habe die Entwicklung der Atombombe ermöglicht.
+Die Wirkungsweise der Atombombe kann jedoch mit ihr nicht erklärt werden.
+Allerdings konnte schon 1939 kurz nach der Entdeckung der Kernspaltung mit dieser Formel und den schon bekannten Massen der Atome durch Lise Meitner die enorme Freisetzung von Energie abgeschätzt werden.
+Diese Massenabnahme tritt auch schon bei chemischen Reaktionen auf, war jedoch dort wegen ihrer Kleinheit mit den damaligen Messmethoden nicht bestimmbar, anders als im Fall von Kernreaktionen.
+
+=== Magnetfelder in der Relativitätstheorie
+
+Die Existenz magnetischer Kräfte ist untrennbar mit der Relativitätstheorie verknüpft.
+Eine isolierte Existenz des coulombschen Gesetzes für elektrische Kräfte wäre nicht mit der Struktur von Raum und Zeit verträglich.
+So sieht ein Beobachter, der relativ zu einem System statischer elektrischer Ladungen ruht, kein Magnetfeld, anders als ein Beobachter, der sich relativ zu ihm bewegt.
+Übersetzt man die Beobachtungen des ruhenden Beobachters über eine Lorentz-Transformation in die des Bewegten, so stellt sich heraus, dass dieser neben der elektrischen Kraft eine weitere, magnetische Kraft wahrnimmt.
+Die Existenz des Magnetfeldes in diesem Beispiel lässt sich daher auf die Struktur von Raum und Zeit zurückführen.
+Unter diesem Gesichtspunkt wirkt auch die im Vergleich zum Coulombgesetz komplizierte und auf den ersten Blick wenig plausible Struktur des vergleichbaren biot-savartschen Gesetzes für Magnetfelder weniger verwunderlich.
+Im mathematischen Formalismus der Relativitätstheorie werden das elektrische und das magnetische Feld zu einer Einheit, dem vierdimensionalen elektromagnetischen Feldstärketensor, zusammengefasst, ganz analog zur Vereinigung von Raum und Zeit zur vierdimensionalen Raumzeit.
+
+== Die allgemeine Relativitätstheorie
+
+=== Gravitation und die Krümmung der Raumzeit
+
+Die allgemeine Relativitätstheorie führt die Gravitation auf das geometrische Phänomen der gekrümmten Raumzeit zurück, indem sie feststellt:
+
+Entzieht sich bereits die vierdimensionale Raumzeit der speziellen Relativitätstheorie einer anschaulichen Vorstellbarkeit, so gilt das für eine zusätzlich gekrümmte Raumzeit erst recht.
+Zur Veranschaulichung kann man jedoch Situationen mit reduzierter Anzahl von Dimensionen betrachten.
+So entspricht im Fall einer 2-dimensionalen gekrümmten Landschaft eine Geodäte dem Weg, den ein Fahrzeug mit geradeaus fixierter Lenkung nehmen würde.
+Würden zwei solche Fahrzeuge am Äquator einer Kugel nebeneinander exakt parallel Richtung Norden starten, dann würden sie sich am Nordpol treffen.
+Ein Beobachter, dem die Kugelgestalt der Erde verborgen bliebe, würde daraus auf eine Anziehungskraft zwischen den beiden Fahrzeugen schließen.
+Es handelt sich aber um ein rein geometrisches Phänomen.
+Gravitationskräfte werden daher in der allgemeinen Relativitätstheorie gelegentlich auch als Scheinkräfte bezeichnet.
+
+Da der geodätische Weg durch die Raumzeit von ihrer Geometrie und nicht von der Masse oder sonstigen Eigenschaften des fallenden Körpers abhängt, fallen alle Körper im Gravitationsfeld gleich schnell, wie bereits Galilei feststellte.
+Dieser Umstand wird in der newtonschen Mechanik durch die Äquivalenz von träger und schwerer Masse beschrieben, die auch der allgemeinen Relativitätstheorie zugrunde liegt.
+
+=== Die mathematische Struktur der allgemeinen Relativitätstheorie
+
+Während viele Aspekte der speziellen Relativitätstheorie in ihrer einfachsten Formulierung auch mit geringen mathematischen Kenntnissen nachvollziehbar sind, ist die Mathematik der allgemeinen Relativitätstheorie deutlich anspruchsvoller.
+Die Beschreibung einer krummen Raumzeit erfolgt mit den Methoden der Differentialgeometrie, die die euklidische Geometrie des uns vertrauten flachen Raumes beinhaltet und erweitert.
+
+Zur Beschreibung von Krümmung wird zur Anschauung meist ein gekrümmtes Objekt in einen höherdimensionalen Raum eingebettet.
+Zum Beispiel stellt man sich eine zweidimensionale Kugeloberfläche üblicherweise in einem dreidimensionalen Raum vor.
+Krümmung kann jedoch ohne die Annahme eines solchen Einbettungsraumes beschrieben werden, was in der allgemeinen Relativitätstheorie auch geschieht.
+Es ist beispielsweise möglich, Krümmung dadurch zu beschreiben, dass die Winkelsumme von Dreiecken nicht 180° entspricht.
+
+Die Entstehung der Krümmung wird durch die einsteinschen Feldgleichungen beschrieben.
+Dabei handelt es sich um Differentialgleichungen eines Tensorfeldes mit zehn Komponenten, die nur in speziellen Fällen analytisch, das heißt in Form einer mathematischen Gleichung, lösbar sind.
+Für komplexe Systeme wird daher üblicherweise mit Näherungsmechanismen gearbeitet.
+
+=== Uhren im Gravitationsfeld
+
+In der allgemeinen Relativitätstheorie hängt der Gang von Uhren nicht nur von ihrer relativen Geschwindigkeit ab, sondern auch von ihrem Ort im Gravitationsfeld.
+Eine Uhr auf einem Berg geht schneller als eine im Tal.
+Dieser Effekt ist zwar im irdischen Gravitationsfeld nur gering, er wird jedoch beim GPS-Navigationssystem zur Vermeidung von Fehlern bei der Positionsbestimmung über eine entsprechende Frequenzkorrektur der Funksignale berücksichtigt.
+
+=== Kosmologie
+
+Während die spezielle Relativitätstheorie bei Anwesenheit von Massen nur in Gebieten der Raumzeit gilt, die so klein sind, dass die Krümmung vernachlässigt werden kann, kommt die allgemeine Relativitätstheorie ohne diese Einschränkung aus.
+Sie kann somit auch auf das Universum als Ganzes angewandt werden und spielt daher in der Kosmologie eine zentrale Rolle.
+So wird die Expansion des Weltalls, die die Astronomen beobachten, durch die friedmannschen Lösungen der einsteinschen Feldgleichungen in Kombination mit einer sogenannten kosmologischen Konstanten angemessen beschrieben.
+Danach begann diese Expansion mit dem Urknall, der nach den jüngsten Untersuchungen vor 13,7 Milliarden Jahren stattgefunden hat.
+Er kann auch als der Beginn von Raum und Zeit angesehen werden, bei dem das gesamte Universum auf einem Raumgebiet vom Durchmesser der Planck-Länge konzentriert war.
+
+=== Schwarze Löcher
+
+Eine weitere Vorhersage der allgemeinen Relativitätstheorie sind Schwarze Löcher.
+Diese Objekte haben eine so starke Gravitation, dass sie sogar Licht "einfangen" können, so dass es nicht wieder aus dem schwarzen Loch herauskommen kann.
+Einstein konnte sich mit diesem Gedanken nicht anfreunden und meinte, es müsse einen Mechanismus geben, der die Entstehung solcher Objekte verhindert.
+Heutige Beobachtungen aber belegen, dass es solche Schwarzen Löcher im Universum tatsächlich gibt, und zwar als Endstadium der Sternentwicklung bei sehr massereichen Sternen und in den Zentren von Galaxien.
+
+=== Gravitationswellen
+
+Die allgemeine Relativitätstheorie erlaubt die Existenz von Gravitationswellen, lokalen Deformationen der Raumzeit, die sich mit Lichtgeschwindigkeit ausbreiten.
+Sie entstehen bei der Beschleunigung von Massen, allerdings sind sie nur sehr klein.
+Daher konnten Gravitationswellen lange Zeit nur indirekt bestätigt werden, etwa durch Beobachtungen an Doppelsternsystemen mit Pulsaren.
+Russell Hulse und Joseph Taylor erhielten dafür 1993 den Nobelpreis für Physik.
+Erst beim LIGO-Experiment, am 14. September 2015 um 11:51 MESZ, gelang der direkte Nachweis.
+
+== Entstehungsgeschichte
+
+=== Spezielle Relativitätstheorie
+
+Ausgehend von den Problemen der verschiedenen Äthertheorien des 19. Jahrhunderts und der maxwellschen Gleichungen setzte eine kontinuierliche Entwicklung mit folgenden Hauptstationen ein:
+
+Dies kulminierte in der speziellen Relativitätstheorie Albert Einsteins (1905) durch eine durchsichtige Ableitung der gesamten Theorie aus den Postulaten des Relativitätsprinzips und der Konstanz der Lichtgeschwindigkeit, und der endgültigen Überwindung des Ätherbegriffs durch Reformulierung der Begriffe von Raum und Zeit.
+Die dynamische Betrachtungsweise von Lorentz und Poincare wurde durch die kinematische Einsteins ersetzt.
+Schließlich folgte die mathematische Reformulierung der Theorie durch Einbeziehung der Zeit als vierte Dimension durch Hermann Minkowski (1907).
+
+=== Allgemeine Relativitätstheorie
+
+Während an der Entwicklung der speziellen Relativitätstheorie eine Reihe von Wissenschaftlern beteiligt war - wobei Einsteins Arbeit von 1905 sowohl ein Ende als auch einen Neuanfang darstellte -, war die Entwicklung der allgemeinen Relativitätstheorie, was ihre grundlegenden physikalischen Aussagen betraf, praktisch die alleinige Errungenschaft Einsteins.
+
+Diese Entwicklung begann 1907 mit dem Äquivalenzprinzip, wonach träge und schwere Masse äquivalent sind.
+Daraus leitete er die gravitative Rotverschiebung ab und stellte fest, dass Licht im Gravitationsfeld abgelenkt wird, wobei er die dabei entstehende Verzögerung, die so genannte Shapiro-Verzögerung, bedachte.
+1911 führte er mit verfeinerten Methoden diese Grundgedanken weiter.
+Diesmal vermutete er auch, dass die Lichtablenkung im Gravitationsfeld messbar ist.
+Der von ihm zu dieser Zeit vorhergesagte Wert war jedoch noch um einen Faktor 2 zu klein.
+
+Im weiteren Verlauf erkannte Einstein, dass Minkowskis vierdimensionaler Raumzeitformalismus, welchem Einstein bislang skeptisch gegenüberstand, eine sehr wichtige Bedeutung bei der neuen Theorie zukam.
+Auch wurde ihm nun klar, dass die Mittel der euklidischen Geometrie nicht ausreichten, um seine Arbeit fortsetzen zu können.
+1913 konnte er mit der mathematischen Unterstützung Marcel Grossmanns die im 19. Jahrhundert entwickelte nichteuklidische Geometrie in seine Theorie integrieren, ohne jedoch die vollständige Kovarianz, d. h. die Übereinstimmung aller Naturgesetze in den Bezugssystemen, zu erreichen.
+1915 waren diese Probleme nach einigen Fehlschlägen überwunden, und Einstein konnte schließlich die korrekten Feldgleichungen der Gravitation ableiten.
+Nahezu gleichzeitig gelang dies auch David Hilbert.
+Einstein errechnete den korrekten Wert für die Periheldrehung des Merkurs, und für die Lichtablenkung das Doppelte des 1911 erhaltenen Wertes.
+1919 wurde dieser Wert erstmals bestätigt, was den Siegeszug der Theorie in Physikerkreisen und auch in der Öffentlichkeit einleitete.
+
+Danach versuchten sich viele Physiker an exakten Lösungen der Feldgleichungen, was in der Aufstellung diverser kosmologischer Modelle und in Theorien wie die der Schwarzen Löcher mündete.
+
+=== Weitere geometrische Theorien
+
+Nach der Erklärung der Gravitation als geometrisches Phänomen lag es nahe, auch die anderen damals bekannten Grundkräfte, die elektrische und die magnetische, auf geometrische Effekte zurückzuführen.
+Theodor Kaluza (1921) und Oskar Klein (1926) nahmen dazu eine zusätzliche in sich geschlossene Dimension des Raumes mit so kleiner, nämlich subatomarer Länge an, dass diese Dimension uns verborgen bleibt.
+Sie blieben jedoch mit ihrer Theorie erfolglos.
+Auch Einstein arbeitete lange vergeblich daran, eine solche einheitliche Feldtheorie zu schaffen.
+
+Nach der Entdeckung weiterer Grundkräfte der Natur erlebten diese sogenannten Kaluza-Klein-Theorien eine Renaissance - allerdings auf der Basis der Quantentheorie.
+Die heute aussichtsreichste Theorie zur Vereinigung der Relativitätstheorie und der Quantentheorie dieser Art, die Stringtheorie, geht von sechs oder sieben verborgenen Dimensionen von der Größe der Planck-Länge und damit von einer zehn- beziehungsweise elfdimensionalen Raumzeit aus.
+
+== Experimentelle Bestätigungen
+
+Der erste Erfolg der speziellen Relativitätstheorie war die Auflösung des Widerspruches, der als Anlass für ihre Entdeckung angesehen werden kann: der Widerspruch zwischen dem Ergebnis des Michelson-Morley-Experiments und der Theorie der Elektrodynamik.
+Seither hat sich die spezielle Relativitätstheorie in der Interpretation unzähliger Experimente bewährt.
+Ein überzeugendes Beispiel ist der Nachweis von Myonen in der Höhenstrahlung, die auf Grund ihrer kurzen Lebensdauer nicht die Erdoberfläche erreichen könnten, wenn nicht auf Grund ihrer hohen Geschwindigkeit die Zeit für sie langsamer ginge, beziehungsweise sie die Flugstrecke längenkontrahiert erführen.
+Dieser Nachweis gelang zum Teil bei den Ballonflügen in die Stratosphäre des Schweizer Physikers Auguste Piccard in den Jahren 1931 und 1932, die unter Mitwirkung von Einstein vorbereitet wurden.
+
+Hingegen gab es zur Zeit der Veröffentlichung der allgemeinen Relativitätstheorie nur einen einzigen Hinweis für ihre Richtigkeit, die Periheldrehung des Merkurs.
+1919 stellte Arthur Stanley Eddington bei einer Sonnenfinsternis eine Verschiebung der scheinbaren Position der Sterne nahe der Sonne fest und lieferte mit diesem sehr direkten Hinweis auf eine Krümmung des Raums eine weitere Bestätigung der Theorie.
+
+Weitere experimentelle Tests sind im Artikel zur allgemeinen Relativitätstheorie beschrieben.
+
+Die Relativitätstheorie hat sich bis heute in der von Einstein vorgegebenen Form gegen alle Alternativen, die insbesondere zu seiner Theorie der Gravitation vorgeschlagen wurden, behaupten können.
+Die bedeutendste war die Jordan-Brans-Dicke-Theorie, die jedoch aufwändiger war.
+Ihre Gültigkeit ist bisher nicht widerlegt worden.
+Der Bereich, den der entscheidende Parameter nach heutigem experimentellem Stand einnehmen kann, ist jedoch stark eingeschränkt.
+
+== Rezeption und Interpretation
+
+=== Wahrnehmung in der Öffentlichkeit
+
+Die neue Sichtweise der Relativitätstheorie bezüglich Raum und Zeit erregte nach ihrer Entdeckung auch in der Allgemeinheit Aufsehen.
+Einstein wurde zur Berühmtheit und die Relativitätstheorie erfuhr ein erhebliches Medienecho.
+Verkürzt auf das geflügelte Wort Alles ist relativ wurde sie zuweilen in die Nähe eines philosophischen Relativismus gerückt.
+
+Im April 1922 wurde ein Film mit dem Titel Die Grundlagen der Einsteinschen Relativitätstheorie uraufgeführt, in dem Einsteins spezielle Relativitätstheorie mit vielen Animationen dem Publikum verständlich gemacht werden sollte.
+
+Kritik an der Relativitätstheorie speiste sich aus verschiedenen Quellen, wie Unverständnis, Ablehnung der fortschreitenden Mathematisierung der Physik und teilweise auch Ressentiments gegen Einsteins jüdische Abstammung.
+Ab den 1920er Jahren versuchten in Deutschland einige wenige offen antisemitische Physiker, namentlich die Nobelpreisträger Philipp Lenard und Johannes Stark, der Relativitätstheorie eine deutsche Physik entgegenzusetzen.
+Wenige Jahre nach der nationalsozialistischen Machtergreifung ging Stark mit einem Artikel in der SS-Zeitung Das Schwarze Korps vom 15. Juli 1937 gegen die im Land verbliebenen Anhänger der Relativitäts- und Quantentheorie in die Offensive.
+Unter anderem denunzierte er Werner Heisenberg und Max Planck als weiße Juden.
+Heisenberg wandte sich direkt an Himmler und erreichte seine volle Rehabilitierung; nicht zuletzt mit Blick auf die Bedürfnisse der Rüstungsentwicklung blieb die Relativitätstheorie erlaubt.
+
+Auch viele führende Vertreter der hergebrachten klassischen Physik lehnten Einsteins Relativitätstheorie ab, darunter Lorentz und Poincare selbst und auch Experimentalphysiker wie Michelson.
+
+=== Wissenschaftliche Anerkennung
+
+Die Bedeutung der Relativitätstheorien war anfänglich umstritten.
+Der Nobelpreis für Physik 1921 wurde Einstein im Jahr 1922 für seine Deutung des photoelektrischen Effekts zugesprochen.
+Allerdings sprach er in seiner Preisrede dann über die Relativitätstheorien.
+
+== Literatur und Film
+
+=== Physikalische Einführungen und Diskussion
+
+=== Populäre Literatur
+
+=== Philosophische Einführungen und Diskussion
+
+sowie Überblicksdarstellungen in den meisten Handbüchern zur Naturphilosophie, Philosophie der Physik und oft auch Wissenschaftstheorie.
+
+=== Film
+
+== Weblinks
+
+== Einzelnachweise
+

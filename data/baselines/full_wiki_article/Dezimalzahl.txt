@@ -1,0 +1,110 @@
+Ein Dezimalsystem (von mittellateinisch decimalis, zu lateinisch decem "zehn"), auch als Zehnersystem oder dekadisches System bezeichnet, ist ein Zahlensystem, das als Basis die Zahl 10 verwendet.
+In der Regel wird darunter speziell das Dezimalsystem mit Stellenwertsystem verstanden, das in der indischen Zahlschrift entwickelt, durch arabische Vermittlung an die europäischen Länder weitergegeben wurde und heute weltweit als ein internationaler Standard etabliert ist.
+Als Dezimalsysteme bezeichnet man jedoch auch Zahlensysteme auf der Basis 10 ohne Stellenwertsystem, wie sie, zum Teil in Verbindung mit quinären, vigesimalen oder anders basierten Zahlensystemen, den Zahlwörtern vieler natürlicher Sprachen und älteren Zahlschriften zugrunde liegen.
+Anthropologisch wird die Entstehung von Dezimalsystemen - und Quinärsystemen - mit den zwei mal 5 Fingern des Menschen in Verbindung gebracht.
+Diese dienten als Zähl- und Rechenhilfe (Fingerrechnen).
+Gestützt wird diese Erklärung durch Zahlwörter für 5 ("Hand") und 10 ("zwei Hände") in einigen Sprachen.
+Im Dezimalsystem verwendet man die zehn Ziffern
+die als Dezimalziffern bezeichnet werden.
+Diese Ziffern werden jedoch in verschiedenen Teilen der Welt unterschiedlich geschrieben.
+Indische Zifferzeichen werden auch heute noch in den verschiedenen indischen Schriften (Devanagari, Bengalische Schrift, Tamilische Schrift usw.) verwendet.
+Sie unterscheiden sich stark voneinander.
+Eine Dezimalzahl wird im deutschen Sprachraum meistens in der Form
+aufgeschrieben; daneben existieren je nach Verwendungszweck und Ort noch weitere Schreibweisen.
+Dabei ist jedes z i {\displaystyle z_{i} } eine der oben genannten Ziffern.
+Jede Ziffer hat einen Ziffernwert und je nach Position einen Stellenwert.
+Der Ziffernwert liegt in der konventionellen Zählreihenfolge.
+Der Index i {\displaystyle i} legt den Stellenwert fest, dieser ist die Zehnerpotenz 10 i {\displaystyle 10^{i}} .
+Die Ziffern werden ohne Trennzeichen hintereinander geschrieben, wobei die höchstwertige Stelle mit der Ziffer z m {\displaystyle z_{m}} ganz links und die niederwertigeren Stellen mit den Ziffern z m - 1 {\displaystyle z_{m-1} } bis z 0 {\displaystyle z_{0} } in absteigender Reihenfolge rechts davon stehen.
+Zur Darstellung von rationalen Zahlen mit nicht-periodischer Entwicklung folgen dann, nach einem trennenden Komma, die Ziffern z - 1 {\displaystyle z_{-1} } bis z - n {\displaystyle z_{-n } } .
+Im englischen Sprachraum wird statt des Kommas ein Punkt verwendet.
+Der Wert Z {\displaystyle Z} der Dezimalzahl ergibt sich also durch Summierung dieser Ziffern, welche vorher jeweils mit ihrem Stellenwert multipliziert werden; zusätzlich ist das Vorzeichen voranzustellen; ein fehlendes Vorzeichen bedeutet ein Plus:
+Diese Darstellung nennt man auch Dezimalbruch-Entwicklung.
+Beispiel:
+Mit aufgelösten Potenzen ergibt sich:
+Mit Hilfe der Dezimalbruchentwicklung kann man jeder reellen Zahl eine Folge von Ziffern zuordnen.
+Jeder endliche Teil dieser Folge definiert einen Dezimalbruch, der eine Näherung der reellen Zahl ist.
+Man erhält die reelle Zahl selbst, wenn man von den endlichen Summen der Teile zur unendlichen Reihe über alle Ziffern übergeht.
+Formal wird mit z = 0 , a 1 a 2 a 3 ... {\displaystyle z=0,a_{1}a_{2}a_{3}\ldots } also der Wert der Reihe  i = 1  a i 10 - i {\displaystyle \textstyle \sum _{i=1}^{\infty }a_{i}10^{-i}} bezeichnet.
+Man sagt, dass die Dezimalbruchentwicklung abbricht, wenn die Ziffernfolge ab einer Stelle n nur noch aus Nullen besteht, die dargestellte reelle Zahl also selbst schon ein Dezimalbruch ist.
+Insbesondere bei allen irrationalen Zahlen bricht die Ziffernfolge nicht ab; es liegt eine unendliche Dezimalbruchentwicklung vor.
+Zur Umformung periodischer Dezimalbruchentwicklungen verwendet man die Beziehungen:
+Diese Identitäten ergeben sich aus den Rechenregeln für geometrische Reihen, wonach  i = 0  q i = 1 1 - q {\displaystyle \textstyle \sum _{i=0}^{\infty }q^{i}={\frac {1}{1-q } } } für q < 1 {\displaystyle q<1} gilt.
+Im ersten Beispiel wählt man q = 10 - 1 {\displaystyle q=10^{-1} } und beginnt die Summation erst beim ersten Folgenglied.
+Beispiele:
+Die Periode wird jeweils in den Zähler übernommen.
+Im Nenner stehen so viele Neunen, wie die Periode Stellen hat.
+Gegebenenfalls sollte der entstandene Bruch noch gekürzt werden.
+Etwas komplizierter ist die Rechnung, wenn die Periode nicht unmittelbar auf das Komma folgt:
+Beispiele:
+Eine besondere Eigenschaft bei der Dezimalbruchentwicklung ist, dass viele rationale Zahlen zwei unterschiedliche Dezimalbruchentwicklungen besitzen.
+Wie oben beschrieben, kann man 0 , 9  {\displaystyle 0{,}{\overline {9 } }} umformen und zu der Aussage
+gelangen, siehe den Artikel 0,999...
+Aus dieser Identität kann man weiter folgern, dass viele rationale Zahlen (nämlich alle mit endlicher Dezimalbruchentwicklung mit Ausnahme der 0) auf zwei verschiedene Weisen darstellbar sind: entweder eben als endlicher Dezimalbruch mit Periode 0, oder als unendlicher mit Periode 9.
+Um die Darstellung eindeutig zu machen, kann man die Periode 9 (oder seltener die Periode 0) jedoch schlicht verbieten.
+Für periodische Dezimalbrüche mit einer Null vor dem Komma lässt sich folgende Formel aufstellen:
+Dabei sind p die Zahl, x die Zahl vor Beginn der Periode (als Ganzzahl), m die Anzahl der Ziffern vor Beginn der Periode, y die Ziffernfolge der Periode (als Ganzzahl) und n die Länge der Periode.
+Die Anwendung dieser Formel soll anhand des letzten Beispiels demonstriert werden:
+In der Mathematik bezeichnet man als Periode eines Dezimalbruchs eine Ziffer oder Ziffernfolge, die sich nach dem Komma immer wieder wiederholt.
+Alle rationalen Zahlen, und nur diese, haben eine periodische Dezimalbruchentwicklung.
+Beispiele:
+Auch endliche Dezimalbrüche zählen zu den periodischen Dezimalbrüchen; nach Einfügung unendlich vieler Nullen ist zum Beispiel 0,12 = 0,12000...
+Echte Perioden (also keine endlichen Dezimalbrüche) treten im Dezimalsystem genau dann auf, wenn sich der Nenner des zugrunde liegenden Bruches nicht ausschließlich durch die Primfaktoren 2 und 5 erzeugen lässt.
+2 und 5 sind die Primfaktoren der Zahl 10, der Basis des Dezimalsystems.
+Ist der Nenner eine Primzahl p {\displaystyle p} (außer 2 und 5), so hat die Periode höchstens eine Länge, die um eins niedriger ist als der Wert des Nenners (in den Beispielen fett dargestellt).
+Die genaue Länge der Periode von 1 / p {\displaystyle 1/p} (falls die Primzahl weder 2 noch 5 ist) entspricht der kleinsten natürlichen Zahl n {\displaystyle n} , bei der p {\displaystyle p} in der Primfaktorzerlegung von R n = 10 n - 1 { \displaystyle R_{n}={10^{n}-1}} vorkommt.
+Beispiel zur Periodenlänge 6: (106 - 1) = 999.999:
+999.999 = 3 * 3 * 3 * 7 * 11 * 13 * 37, 1/7 = 0,142857142857... bzw. 1/13 = 0,076923076923...
+Sowohl 1/7 als auch 1/ 13 haben eine Periodenlänge von 6, weil 7 und 13 das erste Mal in der Primfaktorzerlegung von 106 - 1 auftauchen.
+1/37 hat jedoch eine Periodenlänge von nur 3, weil bereits (103 - 1) = 999 = 3 * 3 * 3 * 37.
+Ist der Nenner keine Primzahl, so ergibt sich die Periodenlänge entsprechend als die Zahl n {\displaystyle n} , bei der der Nenner das erste Mal ein Teiler von R n = 10 n - 1 {\displaystyle R_{n}={10^{n}-1}} ist; die Primfaktoren 2 und 5 des Nenners bleiben dabei unberücksichtigt.
+Beispiele: 1/185 = 1/(5*37) hat die gleiche Periodenlänge wie 1/37, nämlich 3.
+1/143 = 1/(11*13) hat die Periodenlänge 6, weil 999.999 = 3 * 3 * 3 * 7 * 143 * 37 (siehe oben)
+1/260 = 1/(2*2*5*13) hat die gleiche Periodenlänge wie 1/13, also 6.
+Um die Periodenlänge n {\displaystyle n} effizient zu bestimmen, kann die Bestimmung der Primfaktorzerlegungen der rasch wachsenden Zahlenfolge 9, 99, 999, 9999 usw. vermieden werden, indem die äquivalente Beziehung 10 n  1 ( mod k ) {\displaystyle 10^{n}\equiv 1{\pmod {k}}} genutzt wird, also wiederholtes Multiplizieren (angefangen bei 1) mit 10 modulo des gegebenen Nenners k {\displaystyle k} , bis dies wieder 1 ergibt.
+Zum Beispiel für k = 13 {\displaystyle k=13 } :
+also hat 1/13 die Periodenlänge 6.
+Für periodische Dezimalbruchentwicklungen ist eine Schreibweise üblich, bei der der sich periodisch wiederholende Teil der Nachkommastellen durch einen Überstrich markiert wird.
+Beispiele sind
+Aufgrund technischer Einschränkungen existieren auch andere Konventionen.
+So kann der Überstrich vorangestellt, eine typografische Hervorhebung (fett, kursiv, unterstrichen) des periodischen Teils gewählt oder dieser in Klammern gesetzt werden:
+Wie im Artikel Stellenwertsystem erläutert, besitzen irrationale Zahlen (auch) im Dezimalsystem eine unendliche, nichtperiodische Nachkommaziffern-Folge.
+Irrationale Zahlen können also nicht durch eine endliche und nicht durch eine periodische Ziffernfolge dargestellt werden.
+Man kann sich zwar mit endlichen (oder periodischen) Dezimalbrüchen beliebig annähern, jedoch ist eine solche endliche Darstellung niemals exakt.
+Es ist also nur mithilfe zusätzlicher Symbole möglich, irrationale Zahlen durch endliche Darstellungen anzugeben.
+Beispiele solcher Symbole sind Wurzelzeichen, wie für 2 {\displaystyle {\sqrt {2 }}} , Buchstaben wie  oder e, sowie mathematische Ausdrücke wie unendliche Reihen oder Grenzwerte.
+Methoden zur Umrechnung von und in das Dezimalsystem werden in den Artikeln zu anderen Stellenwertsystemen und unter Zahlbasiswechsel und Stellenwertsystem beschrieben.
+Einer der ältesten Hinweise auf das Dezimalsystem vorschriftlicher Kulturen findet sich in einem Hortfund von Oberding aus der frühen Bronzezeit (um 1650 v. Chr.) mit 791 weitgehend standardisierten Spangenbarren aus Kupfer aus dem Salzburger Land und der Slowakei.
+Die Mehrzahl dieser Barren war in Gruppen zu 10 mal 10 Bündeln abgelegt worden.
+Dezimale Zahlensysteme - noch ohne Stellenwertsystem und ohne Darstellung der Null - lagen im Altertum unter anderem den Zahlschriften der Ägypter, Minoer, Griechen und Römer zugrunde.
+Es handelte sich dabei um additive Zahlschriften, mit denen beim Rechnen Zahlen zwar als Gedächtnisstütze niedergeschrieben, aber arithmetische Operationen im Wesentlichen nicht schriftlich durchgeführt werden konnten: diese waren vielmehr mit Kopfrechnen oder mit anderen Hilfsmitteln wie den Rechensteinen (griech.
+psephoi, lat. calculi, im Spätmittelalter auch Rechenpfennige oder franz.
+jetons genannt) auf dem Rechnen auf Linien und möglicherweise mit den Fingerzahlen zu leisten.
+Den in römischer und mittelalterlicher Zeit verbreiteten, in etwas anderer Form auch in der arabischen Welt gebrauchten Fingerzahlen lag ein dezimales System für die Darstellung der Zahlen 1 bis 9999 zugrunde, ohne Zeichen für Null, und mit einem Positionssystem eigener Art.
+Hierbei wurden durch genau festgelegte Fingerstellungen auf der linken Hand mit kleinem, Ring- und Mittelfinger die Einer 1 bis 9 und mit Zeigefinger und Daumen die Zehner 10 bis 90 dargestellt, während auf der rechten Hand die Hunderter mit Daumen und Zeigefinger spiegelbildlich zu den Zehnern und die Tausender mit den drei übrigen Fingern spiegelbildlich zu den Einern dargestellt wurden.
+Diese Fingerzahlen sollen nicht nur zum Zählen und zum Merken von Zahlen, sondern auch zum Rechnen verwendet worden sein; die zeitgenössischen Schriftquellen beschränken sich jedoch auf die Beschreibung der Fingerhaltungen und geben keine nähere Auskunft über die damit durchführbaren rechnerischen Operationen.
+Auf den Rechenbrettern des griechisch-römischen Altertums und des christlichen Mittelalters stand demgegenüber für die Darstellung ganzer Zahlen ein vollwertiges dezimales Stellenwertsystem zur Verfügung, indem für eine gegebene Zahl die Anzahl ihrer Einer, Zehner, Hunderter usw. durch Rechensteine in entsprechenden vertikalen Dezimalspalten dargestellt wurde.
+Auf dem antiken Abacus geschah dies durch Ablegen oder Anschieben einer entsprechenden Anzahl von calculi in der jeweiligen Dezimalspalte, wobei zusätzlich eine Fünferbündelung praktiziert wurde, indem je fünf Einheiten durch einen einzelnen calculus in einem seitlichen oder oberen Sonderbereich der Dezimalspalte repräsentiert wurden.
+Auf dem Klosterabacus des Frühmittelalters, der heute meist mit dem Namen Gerberts verbunden wird und vom 10. bis 12. Jahrhundert in Gebrauch war, wurde stattdessen die Anzahl der Einheiten in der jeweiligen Dezimalspalte nur durch einen einzelnen Stein dargestellt, der mit einer Zahl von 1 bis 9 beziffert war, während das spätere Mittelalter und die Frühe Neuzeit wieder zur Verwendung unbezifferter Rechensteine zurückkehrten und die Spalten bzw. nunmehr horizontal gezogenen Linien entweder für dezimales Rechnen mit ganzen Zahlen an der Basiszahl 10 (mit Fünferbündelung), oder für das Finanzrechnen an den aus dem karolingischen Münzwesen (1 libra = 20 solidi = 240 denarii) ererbten monetären Grundeinheiten nicht-dezimal ausrichteten.
+Auf den antiken wie auf den mittelalterlichen Varianten dieses Hilfsmittels erfolgte die Darstellung des Wertes Null jeweils durch Freilassen der betreffenden Dezimalspalte bzw. Linie, und so auch auf dem Klosterabacus, auf dem zwar ein Rechenstein mit einer aus dem Arabischen stammenden Ziffer (cifra) für Null zur Verfügung stand, aber für andere Zwecke bei den abazistischen Rechenoperationen verwendet wurde.
+Mithilfe der antiken und mittelalterlichen Rechenbretter ließen sich Addition und Subtraktion erheblich vereinfachen, während sie für Multiplikation und Division wenig geeignet waren oder verhältnismäßig komplizierte Operationen erforderten, die besonders für den Klosterabacus in mittelalterlichen Traktaten beschrieben wurden und in ihrer Schwierigkeit berüchtigt waren.
+Eine Zahlschrift mit vollwertigem Stellenwertsystem, bei dem auch die Position des Zahlzeichens dessen Wert bestimmt, entwickelten zuerst die Babylonier auf der Basis 60 und ergänzten es vermutlich schon vor dem 4. Jahrhundert vor Chr. auch um ein eigenes Zeichen für Null.
+Eine Zahlschrift mit Stellenwertsystem auf der Basis 10, aber noch ohne Zeichen für die Null, entstand in China vermutlich bereits einige Jahrhunderte vor der Zeitenwende (in Einzelheiten bezeugt seit dem 2. Jahrhundert vor Chr.), wahrscheinlich mithilfe von Rechenstäbchen auf einer schachbrettartig eingeteilten chinesischen Variante des Abacus, und wurde erst unter indischem Einfluss seit dem 8. Jahrhundert auch um ein Zeichen für Null ergänzt.
+In Indien selbst sind die Anfänge des positionellen Dezimalsystems mit Zeichen für die Null nicht sicher zu bestimmen.
+Die ältere Brahmi-Zahlschrift, die vom 3. bis zum 8. Jahrhundert in Gebrauch war, verwendete ein dezimales System mit Ansätzen zu positioneller Schreibung, aber noch ohne Zeichen für Null.
+Die älteste indische Form der heutigen indo-arabischen Ziffern, mit aus der Brahmi-Zahlschrift herzuleitenden Zeichen für 1 bis 9 und einem Punkt oder kleinen Kreis für Null, ist durch sicher datierbare epigraphische Zeugnisse zuerst außerhalb Indiens seit dem 7. Jh. in Südostasien als indischer Export und in Indien selbst seit dem 9. Jahrhundert zu belegen; man nimmt jedoch an, dass die Verwendung dieses Ziffernsystems in Indien bereits im 5. Jahrhundert begann.
+Das gleiche positionelle Dezimalsystem mit Zeichen für Null lag auch dem in etwa gleichzeitigen gelehrten Zahlwortsystem indischer Astronomen zugrunde, in dem umschreibende Ausdrücke wie "Anfang" (1), "Augen" (2), "die drei Zeitstufen" (3) für die Zahlen 1 bis 9 und "Himmel", "Leere", "Punkt" oder andere Wörter für Null gemäß ihrem dezimalen Stellenwert als sprachliche Umschreibung mehrstelliger Zahlen gereiht wurden.
+Als frühes Zeugnis einer solchen positionellen Setzung von in diesem Fall weitgehend unmetaphorischen sprachlichen Zahlenbezeichnungen gilt bereits das 458 in Prakrit verfasste Lokavibhaga, das allerdings nur in einer späteren Sanskritübersetzung erhalten ist.
+Voll ausgebildet findet sich das umschreibende Zahlwortsystem dann bei Bhaskara I. (7. Jh.).
+Von den Arabern und den von ihnen arabisierten Völkern wurde für die Schreibung von Zahlen zunächst das dezimale additive System der alphabetischen griechischen Zahlschrift, anfangs vermittelt durch hebräisches und syrisches Vorbild, übernommen und auf die 28 Buchstaben des arabischen Alphabets übertragen.
+Spätestens seit dem 8. Jahrhundert wurden jedoch zuerst im arabischen Orient und im Verlauf des 9. Jahrhunderts dann auch in Nordafrika und Al-Andalus die indischen Ziffern und darauf beruhenden Rechenmethoden bekannt.
+Die früheste Erwähnung findet sich im 7. Jahrhundert durch den syrischen Bischof Severus Sebokht, der das indische System ausdrücklich lobt.
+Eine wichtige Rolle bei der Verbreitung in der arabischen und der westlichen Welt spielte Muhammad ibn Musa al-Chwarizmi, der die neuen Ziffern nicht nur in seinen mathematischen Werken verwendete, sondern um 825 auch eine nur in lateinischer Übertragung erhaltene Einführung Kitab al-Dscham' wa-l-tafriq bi-hisab al-Hind ("Über das Rechnen mit indischen Ziffern") mit einer für den Anfänger geeigneten Beschreibung des Ziffernsystems und der darauf beruhenden schriftlichen Grundrechenarten verfasste.
+Im 10./11. Jahrhundert waren im lateinischen Westen bereits westarabische oder daraus abgeleitete Ziffern (apices genannt) auf den Rechensteinen des Klosterabacus aufgetaucht.
+Sie wurden aber nicht auch darüber hinaus als Zahlschrift oder sogar für schriftliches Rechnen verwendet.
+Zusammen mit dem Klosterabacus gerieten sie wieder in Vergessenheit.
+Al-Chwarizmi verhalf seit dem 12. Jahrhundert in lateinischen Bearbeitungen und daran anknüpfenden volkssprachlichen Traktaten dem indischen Ziffernrechnen zum Durchbruch.
+Deren Anfangsworte Dixit Algorismi bewirkten, dass "Algorismus", die lateinische Wiedergabe seines Namens, sich weithin als Name dieser neuen Rechenkunst etablierte.
+Besonders in Italien, wo Leonardo Fibonacci es in seinem Liber abbaci auch aus eigener, in Nordafrika erworbener Kenntnis bekannt machte, konnte das indische Ziffernrechnen seit dem 13. Jahrhundert den Abacus (mit unbezifferten Rechensteinen) im Finanzwesen und kaufmännischen Bereich nahezu vollständig verdrängen und sogar dessen Namen (abbaco) annehmen.
+In übrigen Ländern wurde es zwar zum Gegenstand des wissenschaftlichen und kaufmännischen Unterrichts, besaß bis zur Frühen Neuzeit aber im Rechnen auf Linien einen übermächtigen Konkurrenten.
+Auch als einfache Zahlschrift für die praktischen Zwecke des Niederschreibens von Zahlen und des Nummerierens, für die kein Stellenwertsystem benötigt wird, konnten sich die indo-arabischen Ziffern erst seit der frühen Neuzeit allmählich gegen die römischen Zahlen durchsetzen.

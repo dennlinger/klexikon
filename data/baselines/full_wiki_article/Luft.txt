@@ -1,0 +1,126 @@
+Als Luft bezeichnet man das Gasgemisch der Erdatmosphäre.
+Trockene Luft besteht hauptsächlich aus den zwei Gasen Stickstoff (rund 78,08 Vol.-%) und Sauerstoff (rund 20,95 Vol.-%).
+Daneben gibt es noch die Komponenten Argon (0,93 Vol.-%), Kohlenstoffdioxid (0,04 Vol.-%) und andere Gase in Spuren.
+Feste und flüssige Teilchen, Aerosole genannt, sind ebenfalls Bestandteile von Luft.
+Wasser und Wasserdampf ist im Mittel zu 0,4 Vol.-% in der gesamten Erdatmosphäre enthalten.
+Diese Bestandteile werden separat aufgelistet.
+Zusätzlich enthält Luft auch Staub und biologische Teilchen (z. B. Pollen, Pilz- und Farn-Sporen).
+Im natürlichen Zustand ist sie für Menschen geruch- und geschmacklos.
+Die Dichte von Luft beträgt auf Meereshöhe als Faustregel etwa 1,25 kg/m3 - also nur 1/800 der von Wasser - und wird von Temperatur, Wasserdampfgehalt und Druck, der mit der Seehöhe abnimmt, bedeutend beeinflusst.
+In Druckluftflaschen mit einem Druck von typisch 5 bis 300 bar (0,5 bis 30 Megapascal) hat Luft bei 27 °C etwa die 5- bis 270-fache Dichte der Luft bei 1 bar (grob Atmosphärendruck auf Meereshöhe).
+Die in Luft vorkommenden Gasmoleküle (Stickstoff, Sauerstoff usw.) streuen das einfallende Sonnenlicht, abhängig von seiner Wellenlänge, verschieden stark (Rayleigh-Streuung).
+Am stärksten wird das kurzwellige blaue Licht gestreut.
+Dieser Vorgang gibt der Luft ihre typischerweise natürliche blaue Farbe, ein teil-polarisiertes Muster.
+Ist der Weg des Lichtes durch die Luft länger, verschiebt sich die Streuung zu einem rötlichen Farbton hin.
+Dies hängt vom Sonnenlichteinfallswinkel ab.
+Steht die Sonne im Zenit (direkt über dem Betrachter -90° zum Boden), durchläuft das Licht die Erdatmosphäre auf einer Länge von 90 km.
+Während eines Sonnenaufgangs /-abgangs steht die Sonne am Horizont (in horizontaler Augenlinie des Betrachters -0° zum Boden) und durchquert die Atmosphäre mit einer ca. 12-fachen Länge (ca. 1075 km).
+Mit fortschreitender Strecke des Lichtes durch die Atmosphäre wird der blaue vom roten Lichtanteil überlagert, da der Blauanteil immer mehr gestreut wird und der rote Anteil wegen seiner größeren Wellenlänge weniger stark gestreut wird.
+Dieser atmosphärische Effekt ist nur bei wolkenlosem Horizont morgens kurz vor Sonnenaufgang und abends kurz nach Sonnenuntergang zu beobachten.
+Er wird als Morgenröte bzw. Abendrot bezeichnet und reicht in den Farbabstufungen von leichtem Rosa bis Lila über Vollrot zu tiefem Orange.
+Abgesehen von elastischer Streuung der Photonen ist in der Atmosphäre auch inelastische Streuung zu beobachten:
+Rotationsramanstreuung führt zu einer Umverteilung in den Energien der eintreffenden Strahlung innerhalb von einigen 10 cm-1 und führt somit zu einem "Auffüllen" der Fraunhoferlinien, den sogenannten Ring-Effekt.
+Bei einer spektralen Auflösung von 0,5 nm führt dieser Effekt zu optischen Dicken von typischerweise bis zu 2 %, wenn Himmelsstreulicht verschiedener Sonnenstände verglichen wird.
+Dieser Effekt muss in verschiedenen DOAS Fernerkundungsmethoden zur Messung von Spurengasen korrigiert werden.
+Weiterhin kann Vibrationsramanstreuung an Luftmolekülen die Wellenzahl der eintreffenden Photonen von 1550 cm-1(O2) und 2330 cm-1(N2) verschieben und somit ein wellenlängenverschobenes Abbild des Sonnenlichts über das beobachtete Sonnenlicht legen.
+Seine Intensität beträgt bis zu 0,04 % der ursprünglichen Intensität.
+Die Anteile der Atmosphärengase sind keine Naturkonstanten.
+In der seit Jahrmilliarden andauernden Entwicklung der Erdatmosphäre veränderte sich die Zusammensetzung ständig und mehrmals grundlegend.
+Seit 350 Millionen Jahren sind die Hauptbestandteile weitgehend stabil.
+Die aktuelle Mischung ist für trockene Luft in der Tabelle rechts wiedergegeben, wobei zwischen Hauptbestandteilen und Spurengasen unterschieden wird.
+Die angegebenen Konzentrationen stellen globale Mittelwerte für die freie Troposphäre dar.
+Die der chemisch stabilen Komponenten sind abseits von Quellen in der gesamten Homosphäre einheitlich, also bis in eine Höhe von etwa 100 km.
+Bei reaktiven Spurenstoffen gibt es erhebliche Gradienten.
+Tiefkalt verflüssigt kann Flüssige Luft durch fraktionierende Destillation in ihre Bestandteile zerlegt werden, dies erfolgt meist mit Hilfe des Linde-Verfahrens.
+Der Hauptbestandteil der Luft ist chemisch inert.
+Er wird durch die natürliche (biotische und abiotische) Stickstofffixierung organisch gebunden und damit für Lebewesen nutzbar.
+Technisch wird der Luftstickstoff über das Haber-Bosch-Verfahren zur Düngemittelherstellung verwendet.
+Der entgegengerichtete chemische Prozess - die Denitrifikation verläuft rascher, so dass der Stickstoffkreislauf den Stickstoffanteil in der Atmosphäre kaum verändert.
+Aus dem Stickstoff der Luft entstehen durch kosmische Strahlung geringe Mengen radioaktiver Kohlenstoff (14C), was mit der Radiokarbonmethode für archäologische Datierungen ausgenutzt wird.
+Der molekulare Sauerstoff der Luft ist hauptsächlich durch Photosynthese aus Wasser gebildet worden, wobei die im Laufe der Erdgeschichte hergestellte Menge etwa das Zwanzigfache der heute in der Atmosphäre vorliegenden Menge beträgt.
+Er verleiht der Atmosphäre ihren oxidierenden Charakter und stellt das wichtigste Oxidationsmittel dar, das für die biologische Atmung bzw. die chemischen Verbrennungsvorgänge benötigt wird.
+Der in der Luft enthaltene Sauerstoff ist für alle aeroben Lebewesen zum Leben notwendig.
+Durch Atmung führen sie Sauerstoff ihrem Stoffwechsel zur Verbrennung (Katabolismus) zu.
+Pflanzen nutzen das in der Luft enthaltene Kohlenstoffdioxid zur Photosynthese und spalten dabei den Sauerstoff ab.
+Für fast alle Pflanzen ist dies die einzige Kohlenstoffquelle für vitale Prozesse und Körpersubstanz (Anabolismus).
+Bei diesem organischen Prozess wird auch fast der gesamte Luftsauerstoff der Luft regeneriert.
+Der Sauerstoffkreislauf ermöglicht die Aufrechterhaltung und Verteilung eines dauerhaften Vorrats an Ressourcen für Aerobier und photosynthetisch aktive Pflanzen.
+Der gegenwärtige globale Luftsauerstoffgehalt bleibt mit einem Niveau von 20,946 +/- 0,006 Vol. % bemerkenswert konstant, mit einem leichten Rückgang von 0,0004 Vol. %/Jahr (4 ppmv/a), der mit Kohlendioxid aus fossilen Brennstoffen und Biomasseverbrennung gegenkorreliert ist.
+Argon ist als Edelgas äußerst reaktionsträge und mit fast 1 % Gehalt relativ häufig.
+So ist es kostengünstig und wird als Inertgas etwa beim Metallschweißen und zur Füllung von Glühlampen eingesetzt.
+Dort und als Füllung von Mehrscheiben-Isolierglas nutzt man die relativ zu Luft etwas geringere Wärmeleitfähigkeit.
+(Teures, rares Krypton dient in Spezialfällen als noch besseres Wärme-Isoliergas.)
+Argon entsteht langsam durch radioaktiven Zerfall von Kalium-40, ist stabil und dichter als Luft und verbleibt daher in der Atmosphäre.
+Die Umgebungsluft ist nicht "trocken", sondern enthält Wasser im gasförmigen Aggregatzustand (Wasserdampf), man spricht von Luftfeuchtigkeit.
+Der Wasserdampfgehalt schwankt zwischen einem zehntel Volumenprozent an den Polen und drei Volumenprozent in den Tropen, mit einem Mittelwert von 1,3 Vol.-% in Bodennähe.
+Da der Wasserdampfanteil die Dichte der Luft verringert, (62,5 % der Dichte "trockener" Luft), wird feuchtere Luft nach oben gedrückt, wo dann in kühleren Schichten Kondensation auftritt, also der Wasserdampfgehalt im Gasgemisch sinkt.
+Oberhalb der Kondensationsschichten ist der Wasserdampfgehalt sehr gering, sodass über die gesamte Atmosphäre gemittelt nur 0,4 Vol.-% Wasserdampf in der Luft sind.
+Größere Schwankungen über teils wenige Jahre und Jahrzehnte sind auch bei den Spurengasen zu verzeichnen.
+Deren niedrige Konzentrationen können durch vergleichsweise geringe Emissionen beeinflusst werden.
+Ebenso zeigen Vulkanausbrüche häufig einen kurzfristigen Einfluss.
+Nach seinem Anteil ist Kohlenstoffdioxid ein Spurengas, aber das - unter Berücksichtigung von Wasserdampf - fünfthäufigste Atmosphärengas.
+Wegen seiner Bedeutung für Klima und Lebewesen wird es oft zu den Hauptbestandteilen der Luft gerechnet.
+Die biologische Hauptbedeutung des Kohlenstoffdioxids (umgangssprachlich oft auch als Kohlendioxid bezeichnet) liegt in seiner Rolle als Kohlenstofflieferant für die Photosynthese.
+Die atmosphärische Kohlenstoffdioxidkonzentration wirkt stark auf das Pflanzenwachstum.
+Durch den lichtabhängigen Stoffwechselzyklus der Pflanzen, also die Wechselbeziehung zwischen Atmung und Photosynthese, schwanken die bodennahen CO2-Konzentrationen im Tagesgang.
+Es zeigt sich bei ausreichender Pflanzendecke ein nächtliches Maximum und dementsprechend ein Minimum am Tag.
+Der gleiche Effekt ist im Jahresverlauf vorhanden, da die außertropische Vegetation ausgeprägte Vegetationsperioden besitzt.
+Auf der Nordhalbkugel besteht ein Maximum im Zeitraum März bis April und ein Minimum im Oktober oder November.
+Dazu trägt auch die Heizperiode durch erhöhten Verbrauch fossiler Brennstoffe bei.
+Insgesamt hat der Kohlenstoffdioxidgehalt seit Beginn der Industrialisierung um über 40 % zugenommen.
+Dies ist im Zusammenhang mit dem anthropogenen Treibhauseffekt eine der Ursachen für die globale Erwärmung, für die ein Referenzwert im erdgeschichtlichen Klima von weniger als 100 Jahren gilt.
+2013 überstieg die CO2-Konzentration an der Messstation Mauna Loa erstmals den Wert von 400 ppm.
+Während Argon mit rund 1 % zu den Hauptbestandteilen der Luft gehört (siehe oben), zählen die weiteren Edelgase Neon, Helium und Krypton mit Volumenanteilen von jeweils > 1 ppm zu den Spurengasen (vgl. Tabelle).
+Noch seltener ist Xenon (Volumenanteil < 0,1 ppm).
+Radon ist das seltenste Edelgas in der Luft (mittlerer Volumenanteil 1:1021), kann jedoch - isotopenabhängig - über seine Radioaktivität gut bestimmt werden.
+Helium wird bei jedem radioaktiven Alpha-Zerfall frei.
+Helium ist viel leichter als Luft und entweicht in den Weltraum.
+Auch das zweitleichteste Edelgas Neon verflüchtigt sich dorthin, so dass von diesen beiden nur Spuren in der Atmosphäre vorkommen.
+Aus manchem Gestein dringt als Glied radioaktiver Zerfallsreihen Radon, das sich in Kellern anreichern kann und strahlend weiterzerfällt.
+Für die Stratosphäre werden Ozonwerte oftmals nicht in Anteilen, sondern in der Dobson-Einheit angegeben.
+Da die Werte zudem von der Höhe (Ozonschicht, bodennahes Ozon) sowie von Wetterlage, Temperatur, Schadstoffbelastung und Uhrzeit abhängen und Ozon sich sowohl schnell bildet als auch wieder zerfällt, ist dieser Wert sehr variabel.
+Aufgrund der hohen Reaktivität von Ozon spielt es bei chemischen Reaktionen vielfältiger Art in der Atmosphäre eine zentrale Rolle.
+Ein Beispiel sind die ODEs (ozone depletion events), bei denen während des polaren Frühlings regelmäßig starke Einbrüche in der Ozonkonzentration von normalerweise 20-40 ppb auf < 5 ppb beobachtet werden können.
+Diese Erscheinungen werden beispielsweise durch die Freisetzung von Halogenen durch natürliche Prozesse oder durch Mischung von Luftmassen bewirkt.
+Typische Ozonkonzentrationen in gemäßigten Breiten und besiedeltem Gebiet sind 30-60 ppb auf der Nordhalbkugel und tendenziell ca. 10 ppb weniger auf der Südhalbkugel aufgrund der Rolle von Ozon in der Stickoxidchemie.
+Kohlenstoffmonoxid (umgangssprachlich oft auch als Kohlenmonoxid bezeichnet) ist ein unsichtbares brennbares giftiges Gas, das bei der unvollständigen Verbrennung von kohlenstoffhaltigen Substanzen entsteht.
+Es blockiert den Sauerstofftransport im Blut (Kohlenstoffmonoxidintoxikation) und kann schon in geringen Dosen zum Tod führen.
+Auch schädigt es die Photosynthese der Pflanzen.
+Es bildet sich z. B. beim Tabakrauchen und im Verbrennungsmotor.
+Auto- und Flugabgase ohne Abgasnachbehandlung durch einen Fahrzeugkatalysator können bis zu 4 % CO enthalten, der Standardwert für Tabakrauch.
+Brände der Vegetation sind mit ca. 60 % der Emissionen weltweit Hauptquelle für Kohlenstoffmonoxid.
+Die mittlere Molmasse ergibt sich als Summe der Produkte der Molmassen und Stoffmengenanteile der Bestandteile, hauptsächlich Sauerstoff, Stickstoff und Argon.
+Für trockene Luft ist der exakte Wert 28,949 g/mol.
+Enthält die Luft noch Feuchtigkeit, ist die mittlere Molmasse geringer, da die Molmasse von Wasserdampf nur ca. 18 g/mol beträgt.
+Unter Normalbedingungen ist die Luftdichte gleich 1,293 kg/ m3.
+Die Gewichtskraft der Luftsäule erzeugt einen statischen Druck.
+Dieser Druck hängt gemäß der barometrischen Höhenformel von der Höhe über dem Meeresspiegel ab.
+Zusätzlich ist der Luftdruck vom Wetter abhängig.
+Wind und allgemein Änderungen des Wetters bewirken Schwankungen des Luftdrucks.
+Ein Barometer zur Messung des Luftdrucks gehört daher zur Grundausstattung von Wetterstationen.
+Über einem Quadratmeter Bodenfläche beträgt die Luftmasse dem Luftdruck entsprechend etwa 10.000 kg.
+Als Lufttemperatur wird die Temperatur der bodennahen Luft bezeichnet, die weder von Sonnenstrahlung noch von Bodenwärme oder Wärmeleitung beeinflusst ist.
+Die genaue Definition in Wissenschaft und Technik ist unterschiedlich.
+In der Meteorologie wird die Lufttemperatur in einer Höhe von zwei Metern gemessen, wofür häufig weiß gestrichene Wetterhäuschen in freier Umgebung dienen.
+Bei der Luftfeuchtigkeit handelt es sich um den Anteil des Wasserdampfes an der Luft.
+Sie wird über verschiedene Feuchtemaße wie Dampfdruck und Taupunkt sowie relative, absolute und spezifische Luftfeuchte angegeben.
+Unter Normalbedingungen ist die Schallgeschwindigkeit in Luft gleich 331,5 m/ s.
+Der Brechungsindex n {\displaystyle n} der Luft beträgt unter Normalbedingungen für sichtbares Licht ungefähr 1,00029.
+Der Wert hängt von Druck, Temperatur und Zusammensetzung der Luft ab, vor allem aber von der Luftfeuchtigkeit.
+Weil n - 1 {\displaystyle n-1} ungefähr proportional zum Luftdruck ist, lässt sich der Brechungsindex mit einem Michelson-Interferometer bestimmen, dessen einer Arm durch ein Gebiet mit variablem Luftdruck reicht.
+Aus der entstehenden optischen Weglängendifferenz bestimmt man mit bekanntem Druckunterschied den Brechungsindex.
+Spezifische Wärmekapazität unter Normalbedingungen:
+Die Wärmeleitfähigkeit  {\displaystyle \lambda } von Luft ist unter Normalbedingungen 0,026 1 W / ( m * K ) {\displaystyle 0{,}0261\;{\mathrm {W} }/({\mathrm {m} } \cdot {\mathrm {K} })} .
+Die Luftverschmutzung ist der auf die Luft bezogene Teilaspekt der Umweltverschmutzung.
+Gemäß dem Bundes-Immissionsschutzgesetz ist Luftverunreinigung eine Veränderung der natürlichen Zusammensetzung der Luft, insbesondere durch Rauch, Ruß, Staub, Aerosole, Dämpfe oder Geruchsstoffe.
+Von Bedeutung sind erhöhte Ozonwerte für den Smog und Schwefeldioxidkonzentrationen für den sauren Regen, aber auch Konzentrationen von Stickoxiden und flüchtigen organischen Verbindungen, die ihrerseits wiederum einen großen Einfluss auf die Chemie der Luft haben.
+In den meisten Industrieländern ist die lokale Luftverschmutzung aufgrund von gesetzlichen Vorgaben zur Luftreinhaltung in den letzten Jahrzehnten stark zurückgegangen.
+Gleichzeitig hat der Ausstoß von Treibhausgasen wie Kohlenstoffdioxid weiter zugenommen.
+Die lokale und regionale Luftverschmutzung ist für Länder der Dritten Welt sowie Schwellenländer wie China noch ein erhebliches Problem.
+Die Effekte von Spurengasen sind vielfältig und beeinflussen sich in großem Maße auch gegenseitig.
+Beispielsweise spielt Ozon durch seine Rolle in der Hydroxylradikalchemie in bodennahen Luftschichten nicht nur die Rolle eines Schadstoffs und Treibhausgases, es ist auch essentiell für die Selbstreinigungsmechanismen der Atmosphäre insgesamt.
+Besonders viel Mikroplastik wurde in der Luft von London nachgewiesen.
+Auch Pestizide sind in der Luft nachweisbar und werden über weite Distanzen verweht.
+Die griechischen Naturphilosophen hielten Luft für eines der vier Grundelemente, aus denen alles Sein besteht.
+Dem Element Luft wurde der Oktaeder als einer der fünf platonischen Körper zugeordnet.
+Der Asteroid des mittleren Hauptgürtels (369) Aeria ist nach Luft benannt.

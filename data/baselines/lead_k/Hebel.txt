@@ -1,0 +1,5 @@
+Ein Hebel ist in der Physik und Technik ein mechanischer Kraftwandler bestehend aus einem starren Körper, der um einen Drehpunkt drehbar ist.
+Die mathematische Beschreibung eines solchen Systems im (Drehmoment-)Gleichgewicht wird als Hebelgesetz bezeichnet.
+Dieses Gesetz wurde bereits in der Antike durch Archimedes formuliert.
+Unterschieden werden einseitige und zweiseitige Hebel, je nachdem ob die Kräfte nur auf einer Seite oder auf beiden Seiten des Drehpunktes angreifen.
+Weiter gibt es neben dem geraden Hebel auch noch den geknickten Hebel oder Winkelhebel, wie er in der Neigungswaage Anwendung findet.

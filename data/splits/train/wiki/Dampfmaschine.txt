@@ -1,0 +1,231 @@
+Eine Dampfmaschine ist (im engeren Sinne) eine Kolben-Wärmekraftmaschine.
+In einem beheizten Dampferzeuger, der als Bestandteil der Maschine gilt, wird Wasser verdampft.
+Der unter Druck gesetzte Dampf wandelt die in ihm enthaltene Wärmeenergie (auch Druckenergie) durch Verschieben eines in einem Zylinder beweglichen Kolbens in Bewegungsenergie um.
+Üblicherweise ist der Kolben Teil eines Schubkurbelgetriebes, mit dem die hin- und hergehende Bewegung des Kolbens in Rotation eines Schwungrades, das die Arbeitsmaschine antreibt, umgewandelt wird.
+Zur Bewegungsumkehr des Kolbens, wird der Druck jeweils auf dessen anderer zylindrischer Seite umgelenkt.
+
+Eine andere mit Dampf betriebene Wärmekraftmaschine ist die Dampfturbine, die schon ohne einen die Bewegungsart ändernden Folge-Mechanismus (Getriebe) Die Wärmeenergie des Dampfs in Rotationsenergie umwandelt.
+
+Dampfmaschinen sind Wärmekraftmaschinen mit "äußerer Verbrennung", was sie von Verbrennungsmotoren unterscheidet.
+
+Die Anwendungen der ersten funktionsfähigen Dampfmaschine von Thomas Newcomen fanden sich ab Anfang des 18. Jahrhunderts im Steinkohlebergbau zur Wasserhaltung, wo sie zunächst ältere mechanische Kraftquellen wie z. B. Wasserräder ergänzten und später auch ersetzten.
+Nach allmählichen Verbesserungen des Wirkungsgrades lohnte es sich gegen Ende des 18. Jahrhunderts, sie ebenfalls in der wachsenden Textilindustrie zum Antrieb von Textilmaschinen einzusetzen und sie verbreiteten sich schließlich auch in weiteren Industriebranchen, wo sie ebenfalls Wasser- und Windmühlen ergänzten.
+Eine entscheidende Verbesserung gelang James Watt, der 1769 darauf ein Patent erhielt.
+Im Laufe des 19. Jahrhunderts erlangten sie eine wichtige Rolle im Verkehrswesen, insbesondere zum Antrieb von Dampfschiffen und Dampflokomotiven.
+Ebenfalls nicht unbedeutend war zudem der Einsatz als Lokomobile.
+Nach anfänglichen Erfolgen verlor ihre Anwendung in Dampfautomobilen und -lastwagen an Bedeutung und existiert heute praktisch nicht mehr.
+Ähnliches gilt für den Bereich der Dampftraktoren und Lokomobile, wo der Dampfantrieb vor 1900 dominierte.
+Auch das erste Luftschiff wurde 1852 von einer Dampfmaschine angetrieben.
+Abgelöst wurden die Dampfmaschinen in der Wende zum 20. Jahrhundert allgemein durch den Elektromotor und als Fahrzeugantrieb durch den Verbrennungsmotor.
+In Kraftwerken werden bis heute Dampfturbinen genutzt, um elektrische Energie zu erzeugen.
+
+Der folgende Artikel behandelt nur Kolbenkraftmaschinen (Dampfmaschinen "im engeren Sinne").
+
+== Wirkungsweise einer Kolbendampfmaschine
+
+Die Kolbendampfmaschine setzt thermodynamische Energie (Dampfdruck) aus Dampferzeugern in mechanische Rotationsenergie um.
+Dabei bewegt sich ein Kolben in dem zugehörigen Zylinder hin und her, er führt eine oszillierende Bewegung aus.
+Benötigt wird für die mechanische Nutzenergie jedoch zumeist eine Rotationsbewegung.
+
+Die Hinbewegung des Kolbens wird mit Druck des Dampfes als Arbeitstakt ausgeführt.
+Die Rückbewegung wird bei einseitig beaufschlagtem Kolben aus gespeicherter Rotations-Schwungenergie ausgeführt.
+Bei zweiseitig beaufschlagtem Kolben hingegen wird die Rückbewegung des Kolbens ebenfalls als Arbeitstakt verrichtet, per Dampfdruck-Ansteuerung nunmehr auf die Unterseite des Kolbens.
+
+Die Dampfzufuhr in den Zylinder steuert ein Schieber.
+Der Kolben wird mit dem Druck erst nach unten bzw. in Richtung der Kurbelwelle verschoben.
+Die Linearbewegung des Kolbens wird mittels Kreuzkopf und Pleuel als Koppelglied am Kurbelzapfen der Kurbelwelle in eine Rotationsbewegung umgesetzt.
+Das Pleuel schiebt anschließend (im einseitigen Betrieb) mit der im Schwungrad und in der Kurbelwelle gespeicherten Rotationsenergie den Kolben wieder aus der unteren Lage linear zurück in seine obere Ausgangsposition.
+
+Das Arbeitsverfahren einer Dampfmaschine ist somit in zwei Takte gegliedert und ist daher ein Zweitaktverfahren.
+
+=== Atmosphärische Dampfmaschine
+
+In einer atmosphärischen Dampfmaschine wird der Zylinderraum unter dem Kolben mit Wasserdampf gefüllt.
+Im nächsten Arbeitstakt wird Wasser in den Zylinder eingedüst, so dass der Wasserdampf abkühlt und dabei kondensiert.
+Es wird ein Unterdruck erzeugt, so dass der Kolben durch den äußeren Atmosphärendruck in den Zylinder gedrückt wird.
+Die ausfahrende Bewegung des Kolbens erfolgt bei geöffnetem Dampfventil und durch eine Schwungmasse, die an einem Hebelarm, dem sogenannten Balancier, angebracht ist.
+
+Der bekannteste Vertreter dieser Bauart war die atmosphärische Dampfmaschine von Thomas Newcomen ab 1712.
+Die Dampfmaschine wurde vorwiegend für die Wasserhaltung in Kohlenzechen eingesetzt.
+Der energetische Wirkungsgrad dieser Maschine lag bis zur Weiterentwicklung durch James Watt unter 1 %.
+Watt verlegte die Kondensation des Dampfs aus dem Arbeitszylinder in einen nachgeschalteten wassergekühlten Behälter, den Kondensator.
+Dadurch entfiel die dauernde Abkühlung und erneute Erwärmung des Arbeitszylinders in jedem Arbeitstakt, eine Ursache erheblicher Energieverluste.
+
+Die Abbildung rechts stellt dar, wie der Unterdruck bzw. der atmosphärische Druck bei der atmosphärischen Dampfmaschine die Arbeit verrichtet, wenn der heiße Dampf kondensiert und sich dabei stark zusammenzieht.
+Aus dem Zylinder tritt überwiegend flüssiges Wasser.
+Diese Arbeitsweise ist nicht sehr wirtschaftlich, da viel Energie dafür verwendet wird, Zylinder und Kolben bei jedem Takt zu erhitzen und wieder abzukühlen.
+Um den Dampf schnell genug kondensieren zu lassen, wurde nahe dem oberen Totpunkt kaltes Wasser in den Zylinder eingespritzt (hier nicht dargestellt).
+Bei der Expansionsdampfmaschine öffnet das Füllventil zu Beginn des Arbeitstakts nur kurz.
+Im Gegensatz zur Volldruckmaschine verliert der unter hohem Druck eingeströmte Dampf einen Teil seines Drucks während des Arbeitstakts.
+Auch dies führt zwar zu einer Abkühlung des Zylinders, es wird jedoch deutlich weniger Dampf verbraucht, als bei der Volldruckmaschine.
+Um die Abkühlung zu begrenzen, wird der Dampf nicht komplett bis zum Atmosphärendruck entspannt.
+Verbunddampfmaschinen nutzen auch den bei Austritt des Dampfs verbleibenden Druck, indem der Dampf in einen weiteren Zylinder mit größerem Durchmesser geleitet wird.
+(Anmerkung: Entgegen der Darstellung hier kühlt der Dampf während der Abwärtsbewegung des Kolbens kaum noch weiter ab.)
+
+=== Niederdruckdampfmaschine
+
+Bei der Niederdruckdampfmaschine wird der Dampf mit einem leichten Überdruck von einigen 100 mbar aufgegeben.
+Im Gegensatz zur Newcomen-Dampfmaschine wird nicht nur bei der Kondensation, sondern auch bei der Befüllung des Zylinders Arbeit verrichtet.
+Dies führt zur Steigerung der Leistungsfähigkeit und war Ausgangspunkt für die Weiterentwicklung der Dampfmaschine zu höheren Dampfdrücken.
+Die bekanntesten Vertreter dieser Bauart waren die Dampfmaschinen von James Watt ab etwa 1769 (siehe unten).
+
+Watt entwickelte auch die "einfachwirkende" Dampfmaschine, die den Kolben nur von einer Seite beaufschlagt, zur "doppeltwirkenden" Dampfmaschine weiter, bei der der Kolben abwechselnd von der Ober- und Unterseite beaufschlagt wird.
+Dies erbrachte eine Senkung des Gewichts und erhöhte auch Wirkungsgrad und Leistung um ein gewisses Maß, da der Leerhub entfiel.
+Auch die Expansionsmaschine, bei der nur zu Anfang eines Hubes Dampf einströmt, der dann expandiert und mit niedrigerem Druck aus dem Zylinder tritt, war eine Weiterentwicklung der Niederdruckdampfmaschine und brachte eine weitere Effizienzsteigerung gegenüber der Volldruckmaschine, die während des gesamten Hubes vollen Dampfdruck erhält.
+
+=== Hochdruckdampfmaschine
+
+Bei Hochdruckdampfmaschinen wird der Dampf weit über 100 °C erwärmt, so dass sich ein höherer Druck aufbaut.
+Auf eine Abkühlung des aus dem Zylinder austretenden Wasserdampfes kann verzichtet werden, da der Atmosphärendruck im Vergleich zum deutlich höheren Betriebsdruck nicht mehr ins Gewicht fällt (Auspuffbetrieb).
+Der Kondensator kann also wegfallen, was diesen Maschinentyp in Verbindung mit der höheren Energiedichte des unter Druck stehenden Dampfes erheblich leichter macht und damit den Einsatz von Dampfmaschinen in Dampflokomotiven erst ermöglichte.
+Vertreter dieser Bauart sind praktisch alle Kolbendampfmaschinen in Fahrzeugen seit Oliver Evans und Richard Trevithick ab etwa 1802 (s. u.).
+
+=== Verbunddampfmaschine
+
+Eine Verbunddampfmaschine oder Mehrfach-Expansionsmaschine ist eine Dampfmaschine mit mindestens zwei in Dampfrichtung nacheinander geschalteten Arbeitseinheiten.
+
+== Geschichte der Dampfmaschine
+
+=== Vorindustrielle Dampfmaschinen
+
+Die Geschichte der Dampfmaschine reicht zurück bis ins erste nachchristliche Jahrhundert - der erste Bericht über eine technische, rudimentär als "Dampfmaschine" zu bezeichnende Apparatur, den Heronsball (auch Aeolipile oder Äolsball genannt), stammt aus der Feder des griechischen Mathematikers Heron von Alexandria.
+In den Jahrhunderten, die den ersten neuzeitlichen Dampfmaschinen vorangingen, wurden dampfgetriebene "Maschinen" hauptsächlich zu Demonstrationszwecken gebaut, um das Prinzip der Dampfkraft zu illustrieren.
+Die ersten Versuche einer Dampfmaschine kamen unter anderem von Blasco de Garay 1543, de Caus 1615 und dem Italiener Branca 1629.
+
+Wesentliche Fortschritte wurden unter anderem durch Denis Papin 1690 durch die Erfindung des Sicherheitsventils und den Papinschen Topf erzielt.
+Thomas Saverys Dampfpumpe von 1698 gilt als erste praktischen Anwendung von Dampf.
+Sie alle waren aber auf Grund des geringen Wirkungsgrades ohne durchschlagenden wirtschaftlichen Erfolg.
+
+Die erste verwendbare Dampfmaschine wurde 1712 von Thomas Newcomen konstruiert und diente zur Wasserhebung in Bergwerken.
+Diese sogenannte atmosphärische Dampfmaschine erzeugte durch Einspritzen von Wasser in einen mit Dampf gefüllten Zylinder einen Unterdruck gegenüber der Atmosphäre.
+Mit diesem Druckunterschied wurde der Kolben im Arbeitstakt vom atmosphärischen Luftdruck nach unten gedrückt und anschließend durch das Eigengewicht der anzutreibenden Pumpenstange wieder nach oben in die Ausgangsposition gezogen.
+Die Kraftübertragung zwischen Kolbenstange und Balancier erfolgte mittels einer Kette.
+Der Wirkungsgrad der newcomenschen Maschine lag bei 0,5 Prozent und begrenzte ihre Anwendung allein auf Bergwerke.
+
+1720 beschrieb Jacob Leupold, Mathematico und Mechanico in Preußen und Sachsen, eine Hochdruckdampfmaschine mit zwei Zylindern.
+Die Erfindung wurde in seinem Hauptwerk Theatri Machinarum Hydraulicarum Tomus II veröffentlicht.
+Die Maschine verwendete zwei mit Blei belastete Kolben, die ihre kontinuierliche Bewegung einer Wasserpumpe zur Verfügung stellten.
+Jeder Kolben wurde durch den Dampfdruck gehoben und kehrte durch sein Eigengewicht in die ursprüngliche Stellung zurück.
+Die zwei Kolben teilten sich ein gemeinsames Vier-Wege-Ventil, welches direkt mit dem Dampfkessel verbunden war.
+
+=== Wattsche Dampfmaschine
+
+James Watt, dem oft fälschlicherweise die Erfindung der Dampfmaschine zugeschrieben wird, verbesserte den Wirkungsgrad der Newcomenschen Dampfmaschine erheblich.
+Er verlagerte mit seiner 1769 patentierten und sechs Jahre später von John Wilkinson gebauten Konstruktion den Abkühlvorgang aus dem Zylinder heraus in einen separaten Kondensator.
+So konnte Watt auf das atmosphärische Rückführen des Kolbens verzichten und die Maschine bei beiden Kolbenhüben Arbeit verrichten lassen.
+
+Das von ihm erfundene Wattsche Parallelogramm sorgte für die geradlinige Auf- und Abbewegung der Kolbenstange bei diesen einfachwirkenden Dampfmaschinen.
+Sowohl Newcomens als auch Watts Dampfmaschinen hatten ursprünglich nur stehende Zylinder, die die Auf- und Abbewegung des Kolbens über einen Balancier lediglich umlenkten, um sie in den Schacht auf das Pumpengestänge zu übertragen.
+1781 patentierte Watt ein Planetengetriebe auf seinen Namen, das der leitende Ingenieur von Boulton & Watt, William Murdoch konstruiert hatte, um die Kolbenbewegung umzuformen und so die Maschine ein Schwungrad drehen zu lassen.
+Die Verwendung eines Kurbeltriebes war ihm in England durch ein von James Pickard gehaltenes Patent nicht möglich.
+Das Planetengetriebe ist eine wesentlich aufwendigere Lösung des Problems, eine geradlinige in eine rotierende Bewegung umzuformen, hatte andererseits aber den Vorteil, dass damit gleichzeitig eine Über- oder Untersetzung möglich war.
+
+James Watt gilt als Entdecker des Nutzens der Dampfexpansion.
+Bei der Dampfmaschine wird dieser Effekt durch ein vorzeitiges Schließen der Ventile erreicht; dadurch wird die Zuführung von Dampf in den Zylinder unterbrochen, während der darin eingeschlossene Dampf weiter Arbeit leistet.
+Spätere Watt'sche Dampfmaschinen waren doppeltwirkend, der Kolben wurde abwechselnd von der einen und der anderen Seite mit Dampf beaufschlagt.
+Auf der jeweils gegenüberliegenden Seite befand sich der Auslass zum Kondensator.
+
+Weiterhin führte James Watt 1788 den Fliehkraftregler zur Geschwindigkeitsregulierung seiner Maschine ein.
+Vorher war dieses Maschinenelement bereits beim Bau und Betrieb von Mühlen eingesetzt worden.
+
+Die wattsche Dampfmaschine ersparte durch diese Verbesserungen gegenüber ihren Vorgängern ein Vielfaches der Wärmeenergie, die zum Betrieb der Maschine notwendig war.
+Der Wirkungsgrad der wattschen Maschine erreichte schließlich 3 Prozent.
+Um die Fähigkeit seiner Dampfmaschinen zu demonstrieren, erfand Watt die Leistungseinheit Pferdestärke.
+Mit seinem kaufmännischen Teilhaber Matthew Boulton verkaufte er seine Maschinen jedoch nicht, sondern stellte sie seinen Kunden zur Verfügung, um sich einen Teil der eingesparten Brennstoffkosten auszahlen zu lassen.
+Damit war eine frühe Form des Contractings geboren.
+
+Mit diesen Entwicklungen sowie weiteren technischen Verbesserungen wurden Dampfmaschinen ab der zweiten Hälfte des 18. Jahrhunderts - zumindest im Kohlebergbau - nun auch wirtschaftlich.
+Wenn auch allmählich weitere Anwendungsgebiete in Industrie und Transport erschlossen wurden, dauerte es bis in die 1860er Jahre, bis Dampfmaschinen in England massenhaft verwendet wurden.
+In anderen Staaten wie beispielsweise Frankreich und den USA, wo die Wasserkraft ein starker Konkurrent war, erfolgte der endgültige Durchbruch der Dampfmaschine noch etwas später.
+
+=== Hochdruck und Heißdampf
+
+Eine Hochdruckdampfmaschine wurde 1784 von Oliver Evans konstruiert.
+Das erste Exemplar wurde von ihm jedoch erst 1812 gebaut.
+Ihm zuvor kam Richard Trevithick, der 1801 die erste Hochdruckdampfmaschine in ein Straßenfahrzeug einbaute.
+Voraussetzung für die Funktionsfähigkeit der Hochdruckdampfmaschinen war der Fortschritt in der Metallherstellung und -bearbeitung zu dieser Zeit, denn in Hochdruckmaschinen müssen die Maschinenteile sehr passgenau sitzen.
+Außerdem bestand die Gefahr der Explosion des Kessels.
+
+Die kontinuierliche Weiterentwicklung der druckbetriebenen Dampfmaschine, die zuerst mit so genanntem Sattdampf arbeitete, führte über die Heißdampf-Maschine mit einfacher Dampfdehnung zur Verbund- oder Compound-Maschine mit Zwei- und Dreifachexpansion und zuletzt zur mehrzylindrigen Heißdampf-Hochdruck-Dampfmaschine, wie sie von Kemna angeboten wurde.
+Bei einer Sattdampfmaschine befinden sich im Kessel alle Siederohre für die Dampferzeugung im Wasserbett, ein Heißdampfkessel besitzt mit dem Überhitzer ein zweites Röhrensystem, das vom Feuer oder den heißen Rauchgasen bestrichen wird.
+Dadurch erreicht der Dampf Temperaturen um 350 Grad Celsius.
+Eine Compound- oder Verbundmaschine besitzt einen Hochdruckzylinder mit kleiner Bohrung und einen oder mehrere in Serie geschaltete Niederdruckzylinder.
+Der als Heißdampf in den Hochdruckzylinder eingespeiste, nunmehr teilentspannte und kühlere entweichende Dampf hat immer noch genug Arbeitsvermögen, um den mit einer wesentlich größeren Bohrung versehenen Niederdruckzylinder zu betreiben.
+Dabei wird versucht, die Zylinderbohrungen so abzustimmen, dass das erzeugte Drehmoment beider Zylinder auf die Kurbelwelle etwa gleich ist.
+Auch muss das Volumen beider Zylinder auf die Drehzahl der Dampfmaschine abgestimmt sein, damit die Entspannung des Dampfes auf beide Zylinder verteilt wird.
+Kemna baute ab 1908 Dampfmaschinen mit zwei Hochdruckzylindern.
+Bei ortsfesten und Schiffsmaschinen wurde Dreifachexpansion üblich.
+
+Hochdruck-Maschinen erreichten im Jahre 1910 beispielsweise einen Steinkohlenverbrauch von 0,5 kg pro PS-Stunde mit "mittlerer Steinkohlenqualität".
+Das entspricht einem Wirkungsgrad von über 18 %.
+
+=== Deutschland
+
+==== Preußen
+
+In Preußen war man bereits 1769 auf die "Feuermaschinen" aus England aufmerksam geworden.
+Besonders der Oberkonsistorialrat Johann Esaias Silberschlag, der sich auch als Naturwissenschaftler einen Namen gemacht hatte, erkannte frühzeitig den Nutzen dieser Maschine und fertigte bis 1771 mehrere umfangreiche Gutachten darüber an.
+1785 wurde dann die erste, in Preußen nachgebaute Dampfmaschine wattscher Bauart bei Burgörner in Betrieb genommen.
+Bereits 1778 hatte sich James Watt bereiterklärt, der preußischen Bergverwaltung seine verbesserte Dampfmaschine zur Wasserhebung unter fachmännischer Anleitung zu überlassen.
+Seine Firma Boulton & Watt forderte jedoch ein 14-jähriges Liefermonopol, eine Bedingung, auf die man im merkantilistischen Preußen nicht eingehen wollte.
+Unter dem Vorwand einer Erwerbsabsicht wurden der Oberbergrat Waitz von Eschen und der Assessor Carl Friedrich Bückling (1756-1812) vom preußischen Minister Friedrich Anton von Heynitz nach England geschickt.
+Waitz sollte sich speziell mit der Funktionsweise der Maschine vertraut machen und Bückling entsprechende Baupläne anfertigen.
+Wohl lediglich eine englische Dampfmaschine wurde erworben und 1779 auf einer Braunkohlengrube bei Altenweddingen eingesetzt.
+
+Nachdem Bückling noch ein zweites Mal nach England geschickt worden war, war er in der Lage, exakte Baupläne für eine eigene Dampfmaschine nach dem Vorbild der wattschen unter Mitwirkung der Preußischen Akademie der Wissenschaften zu entwerfen.
+Bis 1783 wurde ein verkleinertes, funktionsfähiges Modell gebaut, von da an wurden die Teile in Originalgröße hergestellt und zusammengesetzt.
+Am 23. August 1785 wurde die erste deutsche Dampfmaschine wattscher Bauart auf dem König-Friedrich-Schacht bei Hettstedt offiziell in Betrieb genommen.
+Ihre Störanfälligkeit brachte der Maschine anfangs viel Spott ein.
+Durch die Abwerbung des britischen Dampfmaschinen-Mechanikers William Richards konnten die Probleme in Hettstedt bis 1787 beseitigt werden.
+Die Maschine wurde zu einem ökonomischen Erfolg.
+1794 wurde sie durch eine stärkere ersetzt und nun auf einem Steinkohlenschacht bei Löbejün aufgestellt, wo sie noch bis 1848 arbeitete.
+Im Mansfeld-Museum in Hettstedt steht seit 1985 ein 1:1-Nachbau dieser Dampfmaschine, der in Bewegung vorgeführt werden kann.
+Im oberschlesischen Tarnowitz wurde am 19. Januar 1788 eine Dampfmaschine in Betrieb genommen, die zur Entwässerung der Tarnowitzer Bergwerke diente.
+Von dieser Dampfmaschine wird fälschlich behauptet, sie sei die erste auf dem europäischen Festland gewesen.
+
+Die erste Dampfmaschine des Aachener Reviers stand 1793 in Eschweiler und wurde dort ebenfalls für die Wasserhaltung im Bergbau eingesetzt.
+1803 baute Franz Dinnendahl in Essen die erste Dampfmaschine im Ruhrgebiet.
+Bereits zwei Jahre zuvor hatte Dinnendahl den Einsatz der ersten Dampfmaschine zur Wasserhaltung im Ruhrbergbau betreut.
+Hergestellt in England, wurde diese auf der Zeche Vollmond in Bochum-Langendreer in Betrieb genommen.
+
+==== Andere deutsche Staaten
+
+Etwa zeitgleich wurde im Herzogtum Sachsen-Gotha in einem kleinen Vitriol-Bergwerk bei Mühlberg (Thüringen) vom späteren Ingenieur-Leutnant Carl Christoph Besser, der von 1763 bis 1774 bei dem Bergwerk tätig war, die erste funktionsfähige Dampfmaschine Thüringens aufgebaut und über Wochen in Betrieb gehalten, sie diente zum permanenten Fördern des Grubenwassers und wurde von zwei Heizern bzw. Maschinisten Tag und Nacht am Laufen gehalten.
+Der vielseits talentierte Besser wurde später vom Herzog Ernst als Ingenieur und Architekt beim Bau der Seeberg-Sternwarte und anderer Projekte in Gotha eingesetzt und verlor so das Interesse am Maschinenbau.
+
+Von diesen frühen Anfängen bis zur weiten Verbreitung der Dampfmaschine in der Wirtschaft vergingen jedoch einige Jahrzehnte.
+1836 erstellte man die erste deutsche Dampfmaschinenstatistik, und zwar für den Regierungsbezirk Düsseldorf.
+Durch technische Verbesserungen, der beginnenden Konzentration der sich formierenden Industrie, zunehmend ausgeschöpfter Wasserkraftpotentiale sowie der massiven Verbilligung des Kohletransportes durch die Eisenbahn wurden Dampfmaschinen wirtschaftlich immer rentabler.
+Nach einer nicht ganz vollständigen Statistik des Jahres 1846 gab es im Zollverein 1518 Dampfmaschinen.
+1861 war die Zahl bereits auf 8695 Stück gestiegen.
+
+In der Stahlindustrie wurden Dampfmaschinen unter anderem zum Antrieb von Gebläsen, Pumpen und Walzstraßen eingesetzt.
+Zwei Walzenzugmaschinen mit Leistungen von maximal 10.000 PS, Baujahr 1913, und 15.000 PS, Baujahr 1911, arbeiteten zuverlässig in der Maxhütte (Sulzbach-Rosenberg) bis zu deren Stilllegung im Jahr 2002.
+Sie gehörten zu den stärksten Dampfmaschinen weltweit.
+
+== Dampfmaschinen heute
+
+Als Fahrzeugantrieb sind Dampfmaschinen weitgehend durch Verbrennungsmotoren abgelöst worden, die ohne Aufwärmzeit starten, einen höheren Wirkungsgrad haben, größere Leistung bei geringerem Gewicht bieten und komfortabler zu bedienen sind.
+Weiterhin hat die Dampfmaschine durch die flächendeckende Versorgung mit elektrischer Energie ihre Funktion als zentrale Energiequelle eines Industrieunternehmens verloren, die sie lange Zeit innehatte.
+Im Steinkohlenbergbau wurden und werden noch Dampfmaschinen in Förderanlagen eingesetzt, denn dort kann die Dampfmaschine sowohl als Fördermaschine zum Heben von Kohle als auch als Bremse zum Herablassen von Versatzmaterial dienen.
+Beim Bremsen wird die Energie zur Erhitzung des Dampfes verwendet.
+
+Obwohl die Zeit der Kolbendampfmaschine schon lange vorbei zu sein scheint, ist eine Renaissance nicht ausgeschlossen.
+Einer ihrer Vorteile gegenüber dem Verbrennungsmotor ist ihr kontinuierlicher Verbrennungsvorgang, der sich emissionsärmer gestalten lässt.
+Ein weiterer Vorteil der Dampfmaschine ist ihre extreme Überlastbarkeit bei der Nachfrage von Leistungsspitzen.
+Durch den heute üblichen geschlossenen Kreislauf von Dampf und Speisewasser ergibt sich eine emissionsarme Schmierung von Zylinder und Kolben der Maschine.
+In diesem Sinne ist als modernisierte Dampfmaschine der Dampfmotor entwickelt worden.
+
+Im Auftrag der Volkswagen AG entwickelte die IAV GmbH in den späten 1990er Jahren eine solche moderne "Dampfmaschine", die über eine extrem emissionsarme externe Verbrennung einen gewissen Vorrat an hochgespanntem Dampf erzeugt, der dann wie beim Dieselmotor über Düsen je nach Energiebedarf eingespritzt wird.
+Ende 2000 ging daraus die Firma Enginion hervor, die aus dem ZEE-Prototypen (Zero Emission Engine), der einen Wirkungsgrad von 23,7 % erreichte, die heutige SteamCell weiterentwickelte.
+Diese Maschine arbeitete im Zweitaktverfahren und kam außerdem ohne übliche Schmiermittel aus, weil die Verschleißteile aus modernen Kohlenstoffkomponenten gefertigt waren.
+Enginion musste jedoch 2005 Insolvenz anmelden.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

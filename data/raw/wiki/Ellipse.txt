@@ -1,0 +1,755 @@
+Ellipsen sind in der Geometrie spezielle geschlossene ovale Kurven.
+Sie zählen neben den Parabeln und den Hyperbeln zu den Kegelschnitten.
+Eine anschauliche Definition verwendet die Eigenschaft, dass die Summe der Abstände eines Ellipsenpunktes von zwei vorgegebenen Punkten, den Brennpunkten, für alle Punkte gleich ist.
+Sind die Brennpunkte identisch, erhält man einen Kreis.
+
+Jede Ellipse lässt sich in einem geeigneten Koordinatensystem durch eine Gleichung x 2 a 2 + y 2 b 2 = 1 {\displaystyle \;{\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1\; } oder Parameterdarstellung ( a cos  t , b sin  t ) {\displaystyle \;(a\cos t,b\sin t)\; } beschreiben.
+Hieran erkennt man, dass man eine Ellipse als einen an der x-Achse um a {\displaystyle a} und an der y-Achse um b {\displaystyle b} gestreckten Einheitskreis auffassen kann.
+
+Die Ellipse (von griechisch  elleipsis ,Mangel') wurde von Apollonios von Perge (etwa 262-190 v. Chr.) eingeführt und benannt, die Bezeichnung bezieht sich auf die Exzentrizität  < 1 { \displaystyle \varepsilon <1 } .
+
+Ellipsen treten nicht nur als ebene Schnitte eines Kegels auf.
+Auch auf Zylindern, Ellipsoiden, Hyperboloiden und elliptischen Paraboloiden gibt es Ellipsen.
+
+In der Natur treten Ellipsen in Form von ungestörten keplerschen Planetenbahnen um die Sonne auf.
+Auch beim Zeichnen von Schrägbildern werden häufig Ellipsen benötigt, da ein Kreis durch eine Parallelprojektion im Allgemeinen auf eine Ellipse abgebildet wird (siehe Ellipse (Darstellende Geometrie)).
+
+== Definition einer Ellipse als geometrischer Ort
+
+Es gibt verschiedene Möglichkeiten, Ellipsen zu definieren.
+Neben der üblichen Definition über gewisse Abstände von Punkten ist es auch möglich, eine Ellipse als Schnittkurve zwischen einer entsprechend geneigten Ebene und einem Kegel zu bezeichnen (s. 1. Bild) oder als affines Bild des Einheitskreises.
+
+Eine Ellipse ist der geometrische Ort aller Punkte P {\displaystyle P} der Ebene, für die die Summe der Abstände zu zwei gegebenen Punkten F 1 {\displaystyle F_{1} } und F 2 {\displaystyle F_{2 } } gleich einer gegebenen Konstante ist.
+Diese Konstante wird üblicherweise mit 2 a {\displaystyle 2a} bezeichnet.
+Die Punkte F 1 {\displaystyle F_{1} } und F 2 {\displaystyle F_{2 } } heißen Brennpunkte:
+
+Um eine Strecke auszuschließen, setzt man voraus, dass 2 a {\displaystyle 2a} größer als der Abstand | F 1 F 2 | {\displaystyle |F_{1}F_{2}| } der Brennpunkte ist.
+Falls die beiden Brennpunkte zusammenfallen, ist E {\displaystyle E} ein Kreis mit Radius a {\displaystyle a} .
+Dieser einfache Fall wird in den folgenden Überlegungen oft stillschweigend ausgeschlossen, da die meisten Aussagen über Ellipsen im Kreisfall trivial werden.
+Der Mittelpunkt M {\displaystyle M } der Strecke F 1 F 2  {\displaystyle {\overline {F_{1}F_{2} } } } heißt Mittelpunkt der Ellipse.
+Die Gerade durch die Brennpunkte ist die Hauptachse und die dazu orthogonale Gerade durch M {\displaystyle M} die Nebenachse.
+Die beiden Ellipsenpunkte S 1 , S 2 {\displaystyle S_{1},\;S_{2} } auf der Hauptachse sind die Hauptscheitel.
+Der Abstand der Hauptscheitel zum Mittelpunkt ist a {\displaystyle a} und heißt die große Halbachse.
+Die beiden Ellipsenpunkte S 3 , S 4 {\displaystyle S_{3},\;S_{4} } auf der Nebenachse sind die Nebenscheitel, und ihr Abstand zum Mittelpunkt ist jeweils die kleine Halbachse b {\displaystyle b} .
+Den Abstand e {\displaystyle e } der Brennpunkte zum Mittelpunkt nennt man die lineare Exzentrizität und  = e / a {\displaystyle \varepsilon =e/a} die numerische Exzentrizität.
+Mit dem Satz des Pythagoras gilt a 2 = e 2 + b 2 {\displaystyle a^{2}=e^{2}+b^{2} } (siehe Zeichnung).
+
+Die Gleichung | P F 2 | + | P F 1 | = 2 a {\displaystyle |PF_{2}|+|PF_{1}|=2a} kann man auch so interpretieren:
+Wenn c 2 {\displaystyle c_{2 } } der Kreis um F 2 {\displaystyle F_{2 } } mit Radius 2 a {\displaystyle 2a} ist, dann ist der Abstand des Punktes P {\displaystyle P} zum Kreis c 2 {\displaystyle c_{2 } } gleich dem Abstand des Punktes zum Brennpunkt F 1 {\displaystyle F_{1} } :
+
+c 2 {\displaystyle c_{2 } } heißt Leitkreis der Ellipse bzgl. des Brennpunktes F 2 { \displaystyle F_{2 } } .
+Diese Eigenschaft sollte man nicht verwechseln mit der Leitlinieneigenschaft einer Ellipse (s. unten).
+
+Mit Hilfe Dandelinscher Kugeln beweist man, dass gilt:
+
+Aufgrund der Leitkreis-Eigenschaft ist eine Ellipse die Äquidistanz-Kurve zu jedem ihrer Brennpunkte und dem Leitkreis mit dem anderen Brennpunkt als Mittelpunkt.
+
+== Ellipse in kartesischen Koordinaten
+
+=== Gleichung
+
+A. Führt man kartesische Koordinaten so ein, dass der Mittelpunkt der Ellipse im Ursprung liegt, die x {\displaystyle x} -Achse die Hauptachse ist, und
+
+so ergibt sich für einen beliebigen Punkt ( x , y ) {\displaystyle (x,y)} der Abstand zum Brennpunkt ( e , 0 ) {\displaystyle (e,0)} als ( x - e ) 2 + y 2 {\displaystyle {\sqrt {(x-e)^{2}+y^{2}}}} und zum zweiten Brennpunkt ( x + e ) 2 + y 2 {\displaystyle {\sqrt {(x+e)^{2}+y^{2}}}} .
+Also liegt der Punkt ( x , y ) {\displaystyle (x,y)} genau dann auf der Ellipse, wenn die folgende Bedingung erfüllt ist:
+
+Nach Beseitigung der Wurzeln durch geeignetes Quadrieren und Verwenden der Beziehung b 2 = a 2 - e 2 {\displaystyle b^{2}=a^{2}-e^{2}} (s. o.) erhält man die Gleichung
+
+S 3 = ( 0 , b ) , S 4 = ( 0 , - b ) {\displaystyle S_{3}=(0,b),\;S_{4}=(0,-b) } sind die Nebenscheitel.
+Aus der Beziehung b 2 = a 2 - e 2 {\displaystyle b^{2}=a^{2}-e^{2}} erhält man die Gleichungen
+
+Daraus ergeben sich noch die Beziehungen
+
+Ist a = b {\displaystyle a=b} , so ist  = 0 {\displaystyle \varepsilon =0} und die Ellipse ein Kreis.
+Ist b = e {\displaystyle b=e} , so ist  = 1 2 {\displaystyle \varepsilon ={\tfrac {1}{\sqrt {2} }}} , und man nennt die Ellipse eine gleichseitige Ellipse oder Ellipse schönster Form.
+
+B.
+Die Ellipse in A. lässt sich auch mithilfe einer Bilinearform als Lösungsmenge der Gleichung x = T M x = = 1 {\displaystyle {\vec {x}}^{\mathrm {T} }M\,{\vec {x}}=1} auffassen.
+Hierbei werden die Vektoren x {\displaystyle x} und x T {\displaystyle x^{\mathrm {T} }} mit dem gleichen Punkt X {\displaystyle X} identifiziert.
+Bei Einführung kartesischer Koordinaten ist M {\displaystyle M } die Matrix ( 1 a 2 0 0 1 b 2 ) {\displaystyle {\begin{pmatrix}{\frac {1}{a^{2}}}&0\\0&{\frac {1}{b^{2}}}\end{pmatrix } }} , x = T = ( x , y ) {\displaystyle {\vec {x}}^{\mathrm {T} }=(x,y) } ein Zeilenvektor und x = = ( x y ) {\displaystyle {\vec {x}}={\begin{pmatrix}x\\y\end{pmatrix} }} ein Spaltenvektor.
+
+C.
+Eine Ellipse mit dem Mittelpunkt im Ursprung und den Brennpunkten auf der x {\displaystyle x} -Achse heißt auch in 1. Hauptlage.
+Wenn hier die obige Ellipsengleichung erwähnt wird, wird immer angenommen, dass a >= b {\displaystyle a\geq b} und damit die Ellipse in 1. Hauptlage ist, was im "realen Leben" aber nicht sein muss.
+Da kann durchaus auch a < b {\displaystyle a<b} vorkommen, was bedeutet, dass die Ellipse sich in 2. Hauptlage befindet (die Brennpunkte liegen auf der y {\displaystyle y} -Achse).
+
+Aufgrund der Definition einer Ellipse gilt:
+
+(Die Symmetrieeigenschaft lässt sich auch leicht an der hier abgeleiteten Gleichung einer Ellipse erkennen.)
+
+=== Halbparameter
+
+Die halbe Länge p {\displaystyle p} einer Ellipsensehne, die durch einen Brennpunkt geht und zur Hauptachse senkrecht verläuft, nennt man den Halbparameter, manchmal auch nur Parameter p {\displaystyle p} oder auch semi-latus rectum (die Hälfte des latus rectum = 2 * p {\displaystyle 2\cdot p} ) der Ellipse.
+Mit Hilfe der Gleichung einer Ellipse rechnet man leicht nach, dass
+
+gilt.
+Der Halbparameter hat noch die zusätzliche Bedeutung (s. unten):
+Der Krümmungsradius in den Hauptscheiteln ist p {\displaystyle p} .
+
+=== Tangente
+
+A.
+Für den Hauptscheitel ( a , 0 ) {\displaystyle (a,0)} bzw. ( - a , 0 ) {\displaystyle (-a,0) } hat die Tangente die Gleichung x = a {\displaystyle x=a} bzw. x = - a {\displaystyle x=-a} .
+Die einfachste Weise, die Gleichung der Tangente in einem Ellipsenpunkt ( x 0 , y 0  0 ) {\displaystyle (x_{0},y_{0}\neq 0)} zu bestimmen, ist, die Gleichung x 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1 } der Ellipse implizit zu differenzieren.
+Hiermit ergibt sich für die Ableitung
+
+und damit die Punkt-Steigungs-Form der Tangente im Punkt ( x 0 , y 0 ) {\displaystyle (x_{0},y_{0})} :
+
+Berücksichtigt man x 0 2 a 2 + y 0 2 b 2 = 1 {\displaystyle {\tfrac {x_{0}^{2}}{a^{2}}}+{\tfrac {y_{0}^{2}}{b^{2}}}=1} , so erhält man als Gleichung der Tangente im Punkt ( x 0 , y 0 ) {\displaystyle (x_{0},y_{0})} :
+
+Diese Form schließt auch die Tangenten durch die Hauptscheitel ein.
+Letzteres gilt auch für die Vektorform
+
+B.
+Die in A. eingeführte Tangentengleichung x 0 a 2 x + y 0 b 2 y = 1 {\displaystyle {\tfrac {x_{0}}{a^{2}}}x+{\tfrac {y_{0}}{b^{2}}}y=1 } lässt sich auch ohne Differentialrechnung als Spezialfall einer Polarengleichung einführen (s. u. Herleitung der Lagebeziehungen von Pol und Polare, D.).
+Sie entspricht einer Normalenform mit dem Normalenvektor n = = ( x 0 a 2 , y 0 b 2 ) {\displaystyle {\vec {n}}=\left({\tfrac {x_{0}}{a^{2}}},{\tfrac {y_{0}}{b^{2}}}\right)} .
+Von diesem lässt sich ein dazu rechtwinkeliger Richtungsvektor u = {\displaystyle {\vec {u}}} von t {\displaystyle t} ablesen.
+Da u = {\displaystyle {\vec {u} }} nur bis auf einen Skalar eindeutig ist, hat er die Formen
+
+dies liefert den Richtungsvektor der in A. angegebenen Vektorform und auch die Steigung der dort angegebenen Punktsteigungsform.
+
+Eine zeichnerische Bestimmung von Ellipsentangenten findet man im Artikel Ellipse (Darstellende Geometrie).
+
+=== Gleichung einer verschobenen Ellipse
+
+Verschiebt man die obige Ellipse so, dass der Mittelpunkt der Punkt ( m 1 , m 2 ) {\displaystyle (m_{1},m_{2})} ist, ergibt sich die Mittelpunktsform einer Ellipse, deren Achsen parallel zu den Koordinatenachsen sind:
+
+=== Parameterdarstellungen
+
+Die übliche Parameterdarstellung einer Ellipse verwendet die Sinus- und Kosinus-Funktion.
+Wegen cos 2  t + sin 2  t = 1 {\displaystyle \cos ^{2}t+\sin ^{2}t=1} beschreibt
+
+die Ellipse x 2 a 2 + y 2 b 2 = 1.
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1.
+}
+
+Verschiedene Möglichkeiten, den Parameter t {\displaystyle t} geometrisch zu interpretieren, werden im Abschnitt Ellipsen zeichnen angegeben.
+
+Mit der Substitution u = tan  ( t / 2 ) {\displaystyle u=\tan(t/2) } und trigonometrischen Formeln erhält man
+
+und damit die rationale Parameterdarstellung einer Ellipse:
+
+Die rationale Parameterdarstellung hat folgende Eigenschaften (s. Bild):
+
+Rationale Parameterdarstellungen der Kegelschnitte (Ellipse, Hyperbel, Parabel) spielen im CAD-Bereich bei quadratischen rationalen Bezierkurven eine wichtige Rolle.
+
+Eine Parameterdarstellung, die die Tangentensteigung m {\displaystyle m} in dem jeweiligen Ellipsenpunkt verwendet, erhält man durch Differentiation der Parameterdarstellung x = ( t ) = ( a cos  t , b sin  t ) T {\displaystyle {\vec {x}}(t)=(a\cos t,b\sin t)^{\mathrm {T} }} :
+
+Mit Hilfe trigonometrischer Formeln ergibt sich
+
+Ersetzt man in der Standarddarstellung cos  t {\displaystyle \cos t} und sin  t {\displaystyle \sin t} , erhält man schließlich
+
+Dabei ist m {\displaystyle m} die Tangentensteigung im jeweiligen Ellipsenpunkt, c = + {\displaystyle {\vec {c}}_{+}} die obere und c = - {\displaystyle {\vec {c}}_{-}} die untere Hälfte der Ellipse.
+Die Punkte mit senkrechten Tangenten (Scheitel ( +/- a , 0 ) {\displaystyle (\pm a,0)} ) werden durch diese Parameterdarstellung nicht erfasst.
+Die Gleichung der Tangente im Punkt c = +/- ( m ) {\displaystyle {\vec {c}}_{\pm }(m) } hat die Form y = m x + n {\displaystyle y=mx+n} .
+Der y {\displaystyle y} -Abschnitt n {\displaystyle n} ergibt sich durch Einsetzen der Koordinaten des zugehörigen Ellipsenpunktes c = +/- ( m ) {\displaystyle {\vec {c}}_{\pm }(m)} :
+
+Diese Hauptform der Tangentengleichung ist ein wesentliches Hilfsmittel bei der Bestimmung der orthoptischen Kurve einer Ellipse.
+
+Bemerkung.
+Die Hauptform der Tangentengleichung und die Koordinaten von c = +/- ( m ) {\displaystyle {\vec {c}}_{\pm }(m) } lassen sich auch ohne Differentialrechnung und ohne trigonometrische Formeln herleiten, indem die Tangente als Spezialfall einer Polare aufgefasst wird (s. u. Herleitung der Lagebeziehungen von Pol und Polare, D.)
+
+Eine verschobene Ellipse mit Mittelpunkt ( m 1 , m 2 ) {\displaystyle (m_{1},m_{2})} wird durch
+
+beschrieben.
+
+Eine Parameterdarstellung einer beliebigen Ellipse ist in dem Abschnitt Ellipse als affines Bild des Einheitskreises enthalten.
+
+== Eigenschaften
+
+=== Brennpunkteigenschaft
+
+Die Verbindungslinie zwischen einem Brennpunkt und einem Punkt der Ellipse heißt Brennlinie, Leitstrahl oder Brennstrahl.
+Ihren Namen erhielten Brennpunkte und Brennstrahlen aufgrund der folgenden Eigenschaft:
+
+Zwei Ellipsen mit denselben Brennpunkten F 1 , F 2 {\displaystyle F_{1},\;F_{2} } nennt man konfokal.
+Durch jeden Punkt, der nicht zwischen den Brennpunkten liegt, gibt es genau eine Ellipse mit den Brennpunkten F 1 , F 2 {\displaystyle F_{1},\;F_{2}} .
+Zwei konfokale Ellipsen haben keinen Schnittpunkt (s. Definition einer Ellipse).
+
+Beweis der Brennpunkteigenschaft
+
+Da die Tangente senkrecht zur Normalen verläuft, ist die obige Behauptung bewiesen, wenn die analoge Aussage für die Tangente gilt:
+
+Es sei L {\displaystyle L} der Punkt auf der Geraden P F 2  {\displaystyle {\overline {PF_{2}} }} mit dem Abstand 2 a {\displaystyle 2a} zum Brennpunkt F 2 {\displaystyle F_{2 } } ( a {\displaystyle a} ist die große Halbachse der Ellipse).
+Die Gerade w {\displaystyle w } sei die Winkelhalbierende der Außenwinkel der Brennstrahlen P F 1  , P F 2  {\displaystyle {\overline {PF_{1}}},{\overline {PF_{2}}}} .
+Um nachzuweisen, dass w {\displaystyle w} die Tangente ist, zeigt man, dass auf w {\displaystyle w} kein weiterer Ellipsenpunkt liegen kann.
+Anhand der Zeichnung und der Dreiecksungleichung erkennt man, dass
+
+gilt.
+Dies bedeutet, dass | Q F 2 | + | Q F 1 | > 2 a {\displaystyle |QF_{2}|+|QF_{1}|>2a} ist.
+Wenn Q {\displaystyle Q} ein Punkt der Ellipse wäre, müsste die Summe aber gleich 2 a {\displaystyle 2a} sein.
+
+Bemerkung: Eine Beweis mit Mitteln der analytischen Geometrie befindet sich im Beweisarchiv.
+
+Natürliches Vorkommen und Anwendung in der Technik:
+
+Die Decken mancher Höhlen ähneln einer Ellipsenhälfte.
+Befindet man sich - mit den Ohren - in einem Brennpunkt dieser Ellipse, hört man jedes Geräusch, dessen Ursprung im zweiten Brennpunkt liegt, verstärkt ("Flüstergewölbe").
+Diese Art der Schallübertragung funktioniert in einigen Stationen der Pariser Metro sogar von Bahnsteig zu Bahnsteig.
+Das gleiche Prinzip der Schallfokussierung wird heute zur Zertrümmerung von Nierensteinen mit Stoßwellen verwendet.
+Auch im lampengepumpten Nd:YAG-Laser wird ein Reflektor in Form einer Ellipse verwendet.
+Die Pumpquelle - entweder eine Blitzlampe oder eine Bogenlampe - wird in dem einen Brennpunkt positioniert, und der dotierte Kristall wird in den anderen Brennpunkt gelegt.
+
+=== Direktrix
+
+Für eine echte Ellipse, d. h. e > 0 {\displaystyle e>0} , bezeichnet man eine Parallele zur Nebenachse im Abstand a 2 / e {\displaystyle a^{2}/e } als Direktrix oder Leitlinie.
+Für einen beliebigen Punkt P {\displaystyle P } der Ellipse ist das Verhältnis seines Abstands von einem Brennpunkt zu dem Abstand von der Direktrix d {\displaystyle d} auf der entsprechenden Seite der Nebenachse gleich der numerischen Exzentrizität:
+
+Beweis:
+Mit x 2 a 2 + y 2 b 2 = 1  y 2 = b 2 - b 2 x 2 a 2 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1\Leftrightarrow y^{2}=b^{2}-{\tfrac { b^{2}x^{2}}{a^{2} }}} sowie e 2 + b 2 = a 2 {\displaystyle e^{2}+b^{2}=a^{2}} und den binomischen Formeln ist
+
+Die Umkehrung dieser Aussage gilt auch und kann zu einer weiteren Definition einer Ellipse benutzt werden (ähnlich wie bei einer Parabel):
+
+Die Wahl  = 0 {\displaystyle \varepsilon =0} , also die Exzentrizität eines Kreises, ist in diesem Zusammenhang nicht erlaubt.
+Man kann als Leitlinie eines Kreises die unendlich entfernte Gerade auffassen.
+
+Beweis:
+
+Es sei F = ( f , 0 ) ,  > 0 {\displaystyle F=(f,0),\ \varepsilon > 0} und ( 0 , 0 ) {\displaystyle (0,0)} ein Punkt der Kurve.
+Die Leitlinie d {\displaystyle d} hat die Gleichung x = - f  {\displaystyle x=-{\tfrac {f}{\varepsilon }}} .
+Mit P = ( x , y ) {\displaystyle P=(x,y)} und der Beziehung | P F | 2 =  2 | P d | 2 {\displaystyle |PF|^{2}=\varepsilon ^{2}|Pd|^{2 } } ergibt sich
+
+Die Substitution p = f ( 1 +  ) {\displaystyle p=f(1+\varepsilon ) } liefert
+
+Dies ist die Gleichung einer Ellipse (  < 1 {\displaystyle \varepsilon <1} ) oder einer Parabel (  = 1 { \displaystyle \varepsilon =1} ) oder einer Hyperbel (  > 1 {\displaystyle \varepsilon > 1} ).
+All diese nicht-ausgearteten Kegelschnitte haben den Ursprung als Scheitel gemeinsam (s. Bild).
+
+Für  < 1 {\displaystyle \varepsilon <1} führt man neue Parameter a = p 1 -  2 {\displaystyle a={\tfrac {p}{1-\varepsilon ^{2 }}}} und b 2 = a p  1 -  2 = b 2 a 2 {\displaystyle b^{2}=ap\Rightarrow 1-\varepsilon ^{2}={\tfrac {b^{2}}{a^{2} }}} ein; die obige Gleichung wird dann zu
+
+was die Gleichung einer Ellipse mit Mittelpunkt ( a , 0 ) {\displaystyle (a,0)} , der x {\displaystyle x} -Achse als Hauptachse und den Halbachsen a , b {\displaystyle a,b} ist.
+
+Allgemeiner Fall:
+
+Für den Brennpunkt F = ( f 1 , f 2 ) {\displaystyle F=(f_{1},f_{2})} und die Leitlinie u x + v y + w = 0 {\displaystyle ux+vy+w=0} erhält man die Gleichung
+
+Die rechte Seite der Gleichung benutzt die Hessesche Normalform einer Geraden, um den Abstand eines Punktes von einer Gerade zu berechnen.
+
+Konstruktion der Leitlinie:
+
+Wegen e * a 2 e = a 2 {\displaystyle e\cdot {\tfrac {a^{2}}{e}}=a^{2 }} sind der Punkt D 1 {\displaystyle D_{1 } } der Leitlinie (siehe Bild) und der Brennpunkt F 1 {\displaystyle F_{1} } bezüglich der Spiegelung am großen Scheitelkreis (im Bild grün) invers.
+Damit kann D 1 {\displaystyle D_{1 } } wie im Bild gezeigt aus F 1 {\displaystyle F_{1} } mit Hilfe des großen Scheitelkreises konstruiert werden.
+Eine weitere Begründung für die Konstruktion liefert die Tatsache, dass der Brennpunkt F 1 {\displaystyle F_{1} } und die Leitlinie d 1 {\displaystyle d_{1} } sowohl bezüglich der Ellipse als auch bezüglich des großen Scheitelkreises ein Pol-Polare-Paar (siehe unten) bilden.
+
+=== Konjugierte Durchmesser
+
+Konjugierte Durchmesser (erstrangig von Ellipsen) werden auch auf einer eigenen Wikipedia-Seite behandelt, ebenso der Satz des Apollonius (samt Beweis).
+Ein analytischer Gesamt-Beweis sämtlicher hier aufgeführter Aussagen, der von der gemeinsamen Bilinearform zweier Ursprungsgeraden ausgeht, findet sich im Beweisarchiv.
+Dieser Beweis benötigt weder trigonometrische Funktionen noch Parameterdarstellungen noch eine affine Abbildung.
+
+Eine Anwendungsmöglichkeit im Bereich des technischen Zeichnens besteht in der Möglichkeit, den höchsten Punkt einer Ellipse oder eines Ellipsenbogens beliebiger Lage über einer Linie zu finden - nützlich z. B. für korrekte 2D-Darstellungen nicht-orthogonaler Ansichten zylindrischer Körper oder abgerundeter Kanten ohne Verwendung von 3D-Programmen.
+Wichtig ist dies für den sauberen Anschluss tangential von der Ellipse weg laufender Linien.
+Hierzu sind in die Ellipse oder den Ellipsenbogen zwei Sehnen parallel zur gewünschten Tangentenrichtung und die durch die Mittelpunkte der beiden Sehnen definierte Linie des zugehörigen konjugierten Durchmessers einzuzeichnen.
+Der Schnittpunkt dieser Linie mit der Ellipse oder dem Ellipsenbogen definiert den Anschlusspunkt der Tangente (und normalerweise den Endpunkt des Ellipsenbogens).
+
+=== Orthogonale Tangenten
+
+Für die Ellipse x 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1 } liegen die Schnittpunkte orthogonaler Tangenten auf dem Kreis x 2 + y 2 = a 2 + b 2 {\displaystyle x^{2}+y^{2}=a^{2}+b^{2}} .
+
+Diesen Kreis nennt man die orthoptische Kurve der gegebenen Ellipse, es ist der Umkreis des Rechtecks, das die Ellipse umschreibt.
+
+=== Pol-Polare-Beziehung
+
+Führt man kartesische Koordinaten so ein, dass der Mittelpunkt der Ellipse im Ursprung liegt, so kann eine beliebige Ellipse mit der Gleichung x 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1 } beschrieben werden (s. o. Abschnitt Gleichung).
+Weiter ordnet für eine vorgegebene Ellipse eine Funktion f {\displaystyle f} je einem Punkt P 0 = ( x 0 , y 0 ) {\displaystyle P_{0}=(x_{0},y_{0}) } die Gerade x 0 x a 2 + y 0 y b 2 = 1 {\displaystyle {\frac {x_{0}x}{a^{2}}}+{\frac {y_{0}y}{b^{2}}}=1} zu .
+Bezüglich f {\displaystyle f} heißt P 0 {\displaystyle P_{0} } Pol, die zugeordnete Gerade Polare.
+f {\displaystyle f} ist eine Bijektion; die inverse Funktion bildet je eine Polare auf einen Pol ab.
+Der Ellipsenmittelpunkt ( 0 , 0 ) {\displaystyle (0,0)} ist in keiner so definierten Polare enthalten, entsprechend existiert zu ( 0 , 0 ) {\displaystyle (0,0)} keine Polare.
+Die angegebene Gleichung der Polare lässt sich als Normalenform mit dem zugehörigen Normalenvektor ( x 0 a 2 , y 0 b 2 ) {\displaystyle \left({\tfrac {x_{0}}{a^{2}}},{\tfrac {y_{0}}{b^{2}}}\right)} auffassen.
+
+Eine solche Beziehung zwischen Punkten und Geraden, die durch einen Kegelschnitt vermittelt wird, nennt man Pol-Polare-Beziehung oder einfach Polarität.
+Pol-Polare-Beziehungen gibt es auch für Hyperbeln und Parabeln, siehe auch Pol und Polare.
+
+Zu Pol und Polare gelten folgende Lagebeziehungen:
+
+=== Herleitung der Lagebeziehungen von Pol und Polare; alternative Herleitung einer Tangenten- und einer Ellipsengleichung
+
+A. Ist eine Polare parallel zur y {\displaystyle y} -Achse, so hat sie auch die Form 0  c = x  1 c * x + 0 * y = 1 {\displaystyle 0\neq c=x\Leftrightarrow {\frac {1}{c}}\cdot x+0\cdot y=1} .
+Mit dem zugehörigen Normalenvektor ( x 0 a 2 = 1 c , y 0 b 2 = 0 ) {\displaystyle \left({\tfrac {x_{0}}{a^{2}}}={\tfrac {1}{c}},{\tfrac {y_{0}}{b^{2}}}=0\right)} ist der zugehörige Pol ( x 0 = a 2 c , y 0 = 0 ) .
+{\displaystyle \left(x_{0}={\tfrac {a^{2}}{c}},y_{0}=0\right).
+} Insbesondere folgt für x 0 = a 2 c = e  c = a 2 e {\displaystyle x_{0}={\tfrac {a^{2}}{c}}=e\Leftrightarrow c={\tfrac {a^{2}}{e} }} die Polarität (1) von Brennpunkt und Direktrix.
+
+Einsetzen der betrachteten Polare in die Mittelpunktform einer Ellipse ergibt für die Ordinate y {\displaystyle y} eines beliebigen Schnittpunkts die Bedingung c 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {c^{2}}{a^{2}}}+{\tfrac { y^{2}}{b^{2}}}=1} ; die Diskriminante dieser quadratischen Gleichung in y {\displaystyle y} hat bis auf einen positiven Faktor die Form
+
+B. Ist eine Polare nicht parallel zur y {\displaystyle y} -Achse, so hat sie die Hauptform y = m x + n {\displaystyle y=mx+n} .
+Wegen n  0 {\displaystyle n\neq 0 } lässt sich diese in die Normalenform - m x / n + y / n = 1 {\displaystyle -mx/n+y/ n=1} umformen.
+Vergleich mit der Normalenform ergibt als Darstellung Koordinaten des Pols mit den Parametern der Hauptform:
+
+Einsetzen der Hauptform y = m x + n {\displaystyle y=mx+n} in die Mittelpunktform einer Ellipse ergibt für die Abszisse x {\displaystyle x} eines beliebigen Schnittpunkts die Bedingung x 2 a 2 + ( m x + n ) 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {(mx+n)^{2}}{b^{2}}}=1} ; die Diskriminante dieser quadratischen Gleichung in x {\displaystyle x} hat bis auf einen positiven Faktor die Form
+
+C. Insgesamt erlaubt der Term T = T 1 {\displaystyle T=T_{1 } } bzw. T = T 2 {\displaystyle T=T_{2} } für eine beliebige Polare folgende Unterscheidung paarweise disjunkter Fälle:
+
+D. Ist eine Tangente nicht senkrecht, so ergibt Auflösung der Gleichung T 2 = 0 {\displaystyle T_{2}=0} nach n {\displaystyle n} und Einsetzen von n {\displaystyle n} die Hauptform der Tangente:
+
+y = m x +/- m 2 a 2 + b 2 {\displaystyle \quad \ y=mx\pm {\sqrt {m^{2}a^{2}+b^{2}}}} ;
+
+Einsetzen von n {\displaystyle n} in die Koordinaten x 0 = - m a 2 n , y 0 = b 2 n {\displaystyle x_{0}=-{\tfrac {ma^{2}}{n}},y_{0}={\tfrac {b^{2}}{n}} } des Berührpunkts ergibt die Koordinaten der Parameterdarstellung einer Ellipse mit der Steigung m {\displaystyle m} als Parameter: c = +/- ( m ) = ( - m a 2 +/- m 2 a 2 + b 2 , b 2 +/- m 2 a 2 + b 2 ) T , m  R {\displaystyle \quad \ {\vec {c}}_{\pm }(m)=\left(-{\frac {ma^{2}}{\pm {\sqrt { m^{2}a^{2}+b^{2}}}}}\;,\;{\frac {b^{2}}{\pm {\sqrt {m^{2}a^{2}+b^{2}}}}}\right)^{\mathrm {T} },\,m\in \mathbb {R} } ;
+
+diese Parameterdarstellung erfasst die Hauptscheitel nicht.
+
+E. Ausgehend von der im Abschnitt "Gleichung", B. aufgeführten Bilinearform der Ellipse hat die Polare zum Punkt P {\displaystyle P } die Normalenformen
+
+Ist P {\displaystyle P } ein Punkt der Ellipse, so beschreiben auch diese Gleichungen eine Tangente.
+
+Diese koordinatenfreie rechnerische Darstellung der Polare eignet sich für Beweise.
+Mit den Koordinatendarstellungen P ( x 0 , y 0 ) {\displaystyle P(x_{0},y_{0})} und X ( x , y ) {\displaystyle X(x,y)} sowie den im Abschnitt "Gleichung" angegebenen Matrizenkoordinaten für M {\displaystyle M } entsteht durch Auswertung der Matrizenprodukte wieder die im Abschnitt Pol-Polare-Beziehung angegebene Gleichung x 0 a 2 x + y 0 b 2 y = 1 {\displaystyle {\tfrac {x_{0}}{a^{2}}}x+{\tfrac {y_{0}}{b^{2}}}y=1} .
+
+Beweis von (5) ("Jeder gemeinsame Punkt einer Polare und einer Ellipse ist Berührpunkt einer Tangente vom zugehörigen Pol P {\displaystyle P } an die Ellipse."):
+Da die Ellipsenpunkte S 1 , S 2 {\displaystyle S_{1},S_{2}} auf der Polare zu P {\displaystyle P} liegen, gilt s = 1 T M p = = 1 {\displaystyle {\vec {s}}_{1}^{\mathrm {T} }M{\vec {p}}=1} und s = 2 T M p = = 1 {\displaystyle {\vec {s}}_{2}^{\mathrm {T} }M{\vec {p}}=1} .
+Fasst man in diesen Gleichungen nicht M p = {\displaystyle M{\vec {p}}} , sondern s = 1 T M {\displaystyle {\vec {s}}_{1}^{\mathrm {T} }M } bzw. s = 2 T M {\displaystyle {\vec {s}}_{2}^{\mathrm {T} }M } als Normalenvektor auf, so besagen sie, dass die Tangenten in den Ellipsenpunkten S 1 , S 2 {\displaystyle S_{1},S_{2}} den Punkt P {\displaystyle P} gemeinsam haben.
+
+Beweis von (6) ("Der Schnittpunkt zweier Polaren ist der Pol der Gerade durch die Pole."):
+Für einen Schnittpunkt S {\displaystyle S} zweier Polaren zu P 1 {\displaystyle P_{1 } } und P 2 {\displaystyle P_{2 } } gilt s = T M p = 1 = 1 {\displaystyle {\vec {s}}^{\mathrm {T} }M{\vec {p}}_{1}=1 } und s = T M p = 2 = 1 {\displaystyle {\vec {s}}^{\mathrm {T} }M{\vec {p}}_{2}=1} .
+Fasst man in diesen Gleichungen nicht M p = 1 {\displaystyle M{\vec {p}}_{1}} bzw. M p = 2 {\displaystyle M{\vec {p}}_{2 }} , sondern s = T M = n = T {\displaystyle {\vec {s}}^{\mathrm {T} }M={\vec {n}}^{\mathrm {T} } } als Normalenvektor auf, so besagen sie, dass auf der Polare zu S {\displaystyle S} die Punkte P 1 {\displaystyle P_{1} } , P 2 {\displaystyle P_{2 } } liegen.
+Weiter zeigt die Betrachtung der Parameterform x = = p = 1 +  ( p = 2 - p = 1 ) {\displaystyle {\vec {x}}={\vec {p}}_{1}+\lambda ({\vec {p}}_{2}-{\vec {p}}_{1})} mit
+
+die punktweise Gleichheit der Gerade ( P 1 P 2 ) {\displaystyle (P_{1}P_{2}) } mit der Polare zu S {\displaystyle S} .
+
+== Ellipse als affines Bild des Einheitskreises
+
+Eine andere Definition der Ellipse benutzt eine spezielle geometrische Abbildung, nämlich die Affinität.
+Hier ist die Ellipse als affines Bild des Einheitskreises definiert.
+
+Eine affine Abbildung in der reellen Ebene hat die Form x = = f = 0 + A x = {\displaystyle {\vec {x}}\to {\vec {f}}_{0}+A{\vec {x}}} , wobei A {\displaystyle A} eine reguläre Matrix (Determinante nicht 0) und f = 0 {\displaystyle {\vec {f}}_{0}} ein beliebiger Vektor ist.
+Sind f = 1 , f = 2 {\displaystyle {\vec {f}}_{1},\;{\vec {f}}_{2} } die Spaltenvektoren der Matrix A {\displaystyle A} , so wird der Einheitskreis ( cos  t , sin  t ) , 0  t  2  , {\displaystyle (\cos t,\sin t),0\leq \ t\leq 2\pi ,} auf die Ellipse
+
+abgebildet.
+f = 0 {\displaystyle {\vec {f}}_{0}} ist der Mittelpunkt und f = 1 , f = 2 {\displaystyle {\vec {f}}_{1},\;{\vec {f}}_{2} } sind zwei konjugierte Halbmesser (s. u.) der Ellipse.
+f = 1 , f = 2 {\displaystyle { \vec {f}}_{1},\;{\vec {f}}_{2} } stehen i. A. nicht senkrecht aufeinander.
+D. h., f = 0 +/- f = 1 {\displaystyle {\vec {f}}_{0}\pm {\vec {f}}_{1}} und f = 0 +/- f = 2 {\displaystyle {\vec {f}}_{0}\pm {\vec {f}}_{2 }} sind i. A. nicht die Scheitel der Ellipse.
+Diese Definition einer Ellipse liefert eine einfache Parameterdarstellung (s. u.) einer beliebigen Ellipse.
+
+Da in einem Scheitel die Tangente zum zugehörigen Ellipsendurchmesser senkrecht steht und die Tangentenrichtung in einem Ellipsenpunkt p = ' ( t ) = - f = 1 sin  t + f = 2 cos  t {\displaystyle {\vec {p}}'(t)=-{\vec {f}}_{1}\sin t+{\vec {f}}_{2}\cos t} ist, ergibt sich der Parameter t 0 {\displaystyle t_{0} } eines Scheitels aus der Gleichung
+
+und damit aus cot  ( 2 t 0 ) = f = 1 2 - f = 2 2 2 f = 1 * f = 2 {\displaystyle \cot(2t_{0})={\tfrac {{\vec {f}}_{1}^{\,2}-{\vec {f}}_{2}^{\,2}}{2{\vec {f}}_{1}\cdot {\vec {f}}_{2}}}} .
+(Es wurden die Formeln cos 2  t - sin 2  t = cos  2 t , 2 sin  t cos  t = sin  2 t {\displaystyle \cos ^{2}t-\sin ^{2}t=\cos 2t,\ 2\sin t\cos t=\sin 2t} benutzt.)
+
+Falls f = 1 * f = 2 = 0 {\displaystyle {\vec {f}}_{1}\cdot {\vec {f}}_{2}=0} ist, ist t 0 = 0 {\displaystyle t_{0}=0} und die Parameterdarstellung schon in Scheitelform.
+
+Die 4 Scheitel der Ellipse sind p = ( t 0 ) , p = ( t 0 +/-  2 ) , p = ( t 0 +  ) .
+{\displaystyle {\vec {p}}(t_{0}),{\vec {p}}(t_{0}\pm {\frac {\pi }{2}}),{\vec {p}}(t_{0}+\pi ).
+}
+
+Die Scheitelform der Parameterdarstellung der Ellipse ist
+
+Löst man die Parameterdarstellung mit Hilfe der Cramerschen Regel nach cos  t , sin  t {\displaystyle \;\cos t,\sin t\; } auf und verwendet cos 2  t + sin 2  t - 1 = 0 {\displaystyle \;\cos ^{2}t+\sin ^{2}t-1=0\; } , erhält man die implizite Darstellung
+
+Sind die Vektoren f = 0 , f = 1 , f = 2 {\displaystyle {\vec {f}}_{0},\;{\vec {f}}_{1},\;{\vec {f}}_{2}} aus dem R 3 {\displaystyle \mathbb {R} ^{3}} , so erhält man eine Parameterdarstellung einer Ellipse im Raum.
+
+== Peripheriewinkelsatz und 3-Punkteform für Ellipsen
+
+=== Kreise
+
+Ein Kreis mit der Gleichung ( x - c ) 2 + ( y - d ) 2 = r 2 , r > 0 {\displaystyle (x-c)^{2}+(y-d)^{2}=r^{2},\ r>0 } ist durch drei Punkte ( x 1 , y 1 ) , ( x 2 , y 2 ) , ( x 3 , y 3 ) {\displaystyle (x_{1},y_{1}),\;(x_{2},y_{2}),\;(x_{3},y_{3}) } nicht auf einer Geraden eindeutig bestimmt.
+Eine einfache Methode, die Parameter c , d , r {\displaystyle c,d,r} zu bestimmen, benutzt den Peripheriewinkelsatz für Kreise:
+
+Üblicherweise misst man einen einbeschriebenen Winkel in Grad oder Radiant.
+Um die Gleichung eines Kreises durch 3 Punkte zu bestimmen, ist das folgende Winkelmaß geeigneter:
+
+Peripheriewinkelsatz für Kreise:
+Für vier Punkte P i = ( x i , y i ) , i = 1 , 2 , 3 , 4 {\displaystyle P_{i}=(x_{i},y_{i}),\ i=1,2,3,4} keine drei auf einer Geraden (s. Bild) gilt:
+
+Das Winkelmaß ist zunächst nur für Sekanten, die nicht parallel zur y {\displaystyle y} -Achse sind, verfügbar.
+Die angegebene vereinfachte Formel ist aber schließlich auch für diese Ausnahmen gültig.
+
+Eine Folge des Peripheriewinkelsatzes in dieser Form ist:
+
+3-Punkteform einer Kreisgleichung:
+
+Diese Formel lässt sich durch Verwenden der Ortsvektoren, des Skalarproduktes und der Determinante übersichtlicher schreiben:
+
+Beispiel:
+
+Für P 1 = ( 2 , 0 ) , P 2 = ( 0 , 1 ) , P 3 = ( 0 , 0 ) {\displaystyle P_{1}=(2,0),\;P_{2}=(0,1),\;P_{3}=(0,0) } ergibt sich zunächst die 3-Punkteform
+
+=== Ellipsen
+
+In diesem Abschnitt werden nur Ellipsen betrachtet mit Gleichungen
+
+für die der Quotient a 2 b 2 {\displaystyle {\tfrac {a^{2}}{b^{2} }}} fest (invariant) ist.
+Mit der Abkürzung q = a 2 b 2 {\displaystyle {\color {blue}q}={\tfrac {a^{2}}{b^{2} }}} erhält man die geeignetere Form
+
+Die Achsen solcher Ellipsen sind parallel zu den Koordinatenachsen und ihre Exzentrizität (s. oben) ist fest.
+Die Hauptachse ist parallel zur x {\displaystyle x} -Achse, falls q > 1 {\displaystyle q>1} ist, und parallel zur y {\displaystyle y} -Achse, falls q < 1 {\displaystyle q<1} ist.
+
+Wie beim Kreis ist so eine Ellipse durch drei Punkte nicht auf einer Geraden eindeutig bestimmt.
+
+Für diesen allgemeineren Fall führt man das folgende Winkelmaß ein:
+
+Peripheriewinkelsatz für Ellipsen:
+Für vier Punkte P i = ( x i , y i ) , i = 1 , 2 , 3 , 4 {\displaystyle P_{i}=(x_{i},y_{i}),\ i=1,2,3,4} keine drei auf einer Geraden (s. Bild) gilt:
+
+Das Winkelmaß ist zunächst nur für Sekanten, die nicht parallel zur y {\displaystyle y} -Achse sind, verfügbar.
+Die angegebene vereinfachte Formel ist aber schließlich auch für diese Ausnahmen gültig.
+
+Der Beweis ergibt sich durch einfaches Nachrechnen.
+Dabei kann man im Fall "Punkte auf einer Ellipse ..." annehmen, dass der Mittelpunkt der Ellipse der Ursprung ist.
+
+Eine Folge des Peripheriewinkelsatzes in dieser Form ist:
+
+3-Punkteform einer Ellipsengleichung:
+Die Gleichung der Ellipse durch die 3 Punkte P i = ( x i , y i ) {\displaystyle P_{i}=(x_{i},y_{i}) } nicht auf einer Geraden ergibt sich durch Umformung der Gleichung (Beseitigung der Nenner und quadratische Ergänzung):
+
+Diese Formel lässt sich (wie beim Kreis) übersichtlicher darstellen durch
+
+wobei  {\displaystyle * } das hier geeignete Skalarprodukt u =  v = = u x v x + q u y v y {\displaystyle {\vec {u}}*{\vec {v}}=u_{x}v_{x}+{\color {blue}q}u_{y}v_{y}} beschreibt.
+
+Beispiel:
+
+Für P 1 = ( 2 , 0 ) , P 2 = ( 0 , 1 ) , P 3 = ( 0 , 0 ) {\displaystyle P_{1}=(2,0),\;P_{2}=(0,1),\;P_{3}=(0,0) } und q = 4 { \displaystyle q=4} ergibt sich zunächst die 3-Punkteform
+
+== Ellipsen zeichnen
+
+Ellipsen treten in der darstellenden Geometrie als Bilder von Kreisen auf.
+Es ist also wichtig, geeignete Werkzeuge zur Verfügung zu haben, mit denen man Ellipsen zeichnen kann.
+Es gibt im Wesentlichen drei Typen von Verfahren, mit denen Ellipsen gezeichnet werden:
+
+Den meisten Ellipsenzirkeln liegen die unten beschriebenen zwei Papierstreifenmethoden zugrunde.
+Diese waren schon den Griechen (Archimedes und Proklos) bekannt, wie man auch und vieles andere mehr in dem eigenständigen Artikel Ellipsograph des Archimedes nachlesen kann.
+Wenn kein Ellipsenzirkel zur Verfügung steht, ist die Approximation mit Hilfe der Scheitelkrümmungskreise die schnellste und beste Methode, eine Ellipse zu zeichnen.
+
+Für jede hier beschriebene Methode ist die Kenntnis der beiden (Symmetrie-)Achsen und der Halbachsen a , b {\displaystyle a,b} erforderlich.
+Ist dies nicht der Fall, was in der darstellenden Geometrie oft vorkommt, so muss man wenigstens den Mittelpunkt und zwei konjugierte Halbmesser kennen.
+Mit Hilfe der Rytz-Konstruktion lassen sich dann die Scheitel und damit die Achsen und Halbachsen ermitteln.
+Nur die Parallelogramm-Methode (s. unten) bietet die Möglichkeit, zu zwei konjugierten Halbmessern direkt (ohne Rytz) einzelne Punkte einer Ellipse zu konstruieren.
+
+=== Gärtnerkonstruktion
+
+Die definierende Eigenschaft einer Ellipse - die Summe der Abstände zu zwei Punkten ist konstant - nutzt die Gärtnerkonstruktion als einfache Möglichkeit, eine Ellipse zu zeichnen.
+Hierzu benötigt man einen Faden der Länge 2 a {\displaystyle 2a} und zwei Reißbrettstifte (oder Nägel, Stifte, ...), um die beiden Enden des Fadens in den Brennpunkten der zu zeichnenden Ellipse zu befestigen.
+Führt man einen Stift mit Hilfe des gespannten Fadens (s. Bild) über die Zeichenfläche, so entsteht die durch die Länge des Fadens und die Lage der Brennpunkte definierte Ellipse.
+Diese einfache Methode gibt Gärtnern die Möglichkeit, ellipsenförmige Beete anzulegen, was der Methode den Namen gab.
+
+Eine Variation der Gärtnerkonstruktion zur Konstruktion konfokaler Ellipsen geht auf den irischen Bischof Charles Graves (en) zurück.
+
+=== Antiparallelogramm
+
+Beim Abrollen eines Antiparallelogramms zeichnet der Schnittpunkt der beiden langen Stäbe eine Ellipse (blau im Bild).
+Die Enden des kurzen statischen Stabs definieren die Brennpunkte der Ellipse.
+Durch die symmetrische Geometrie ergibt sich theoretisch auch um den kurzen umlaufende Stab eine Ellipse (im Bild grün).
+Diese Konstruktionsvariante ist mit der Gärtnerkonstruktion verwandt.
+Betrachtet man nur den Anteil innerhalb der statischen Ellipse und ersetzt die beiden inneren Teilstücke der Stäbe mit einer Schur ergibt sich die äquivalente Gärtnerkonstruktion.
+Die Mechanik des bewegten Antiparallelogramms ist ein Koppelgetriebe.
+Die innere Ellipse entspricht der Rastpolbahn die äußere Ellipse ist die Gangpolbahn des umlaufenden kurzen Stabs.
+
+=== Ellipsenzirkel des Frans van Schooten
+
+Im Jahr 1657 veröffentlichte Frans van Schooten in seinem Werk EXERCITATIONUM MATHEMATICARUM LIBRI QUINQUE in LIBER IV die Methode Gärtnerkonstruktion und ein paar Seiten weiter einen Ellipsenzirkel.
+Basis für den Ellipsenzirkel ist die Gärtnerkonstruktion.
+
+Die Hauptelemente des rautenförmigen Ellipsenzirkels sind die fünf gleich langen Stäbe mit ihren Gelenkpunkt-Abständen | O I | {\displaystyle |OI|} , | I P | {\displaystyle |IP|} , | P G | {\displaystyle |PG|} , | G O | {\displaystyle |GO|} und | G H | {\displaystyle |GH|} , als Führungsschiene sowie der deutlich längere Diagonalstab ab O {\displaystyle O} durch P {\displaystyle P} mit dem Klemmelement Q {\displaystyle Q} für den Spielausgleich.
+Der Führungsschiene mit dem Gelenkpunkt-Abstand | G H | {\displaystyle |GH|} und der Diagonalstab überkreuzen sich im Punkt E {\displaystyle E} und sind über Führungsnuten mithilfe eines sogenannten Gleitsteins dreh- und schiebbar verbunden.
+In diesem Gleitstein ist auch der Zeichenstift und ggf. der Handgriff montiert.
+Der zweite Gleitstein befindet sich im Gelenkpunkt P {\displaystyle P } .
+In den Gelenkpunkten H {\displaystyle H} und I {\displaystyle I} des Ellipsenzirkels sind die Zirkelnadeln befestigt.
+
+Die Länge z. B. des Stabes | I O | {\displaystyle |IO|} ist gleich der Länge der Hauptachse | K L | {\displaystyle |KL|} .
+Der Abstand der Gelenkpunkte H {\displaystyle H} und I {\displaystyle I} bestimmt die Länge der Nebenachse.
+Je kleiner dieser Abstand ist, umso mehr ähnelt die Ellipse einem Kreis.
+
+Betrachtet man eine Hälfte der Raute O I P G {\displaystyle OIPG} , d. h. das gleichschenklige Dreieck I G O {\displaystyle IGO} , so ist der Diagonalstab ab O {\displaystyle O} durch P {\displaystyle P} als Mittelsenkrechte M S {\displaystyle M_{S } } des Gelenkpunkt-Abstandes | G I | {\displaystyle |GI|} erkennbar, die den Stab mit Gelenkpunkt-Abstand | G H | {\displaystyle |GH|} in E {\displaystyle E} schneidet.
+Dadurch entsteht das zweite gleichschenklige Dreieck E I G {\displaystyle EIG} mit den Schenkeln | E G | {\displaystyle |EG|} und | E I | {\displaystyle |EI| } .
+Wird nun der Ellipsenzirkel von Hand bewegt, durchläuft der Punkt G {\displaystyle G} den Kreis k 1 {\displaystyle k_{1} } um den Punkt H {\displaystyle H} mit dem Radius | G H | {\displaystyle |GH|} (gleich | K L | {\displaystyle |KL|} ), dabei wirkt der Diagonalstab mit seinem Gelenkpunkt-Abstand | O P | {\displaystyle |OP|} konstant als Mittelsenkrechte der sich kontinuierlich verändernden gleichschenkligen Dreiecke I G O {\displaystyle IGO} und E I G {\displaystyle EIG} .
+Daraus folgt:
+In jeder gedrehten Stellung des Ellipsenzirkels gilt
+
+Werden in die weiter oben beschriebene Definition einer Ellipse als geometrischer Ort die Bezeichnungen der betreffenden Punkte, u. a. die Brennpunkte H {\displaystyle H} und I {\displaystyle I} , aus der Darstellung des Ellipsenzirkels eingesetzt, ergibt sich
+
+Damit wird aufgezeigt:
+Die mit dem rautenförmigen Ellipsenzirkel gezogenen Kurven sind exakte Ellipsen.
+
+Um eine Ellipse zu zeichnen, sticht man zuerst zur Lagefixierung des Ellipsenzirkels die Zirkelnadeln der Gelenkpunkte H {\displaystyle H} und I {\displaystyle I} in die Brennpunkte der Ellipse und zieht anschließend mithilfe des Handgriffs oder ggf. nur mit dem Zeichenstift die Ellipsenlinie.
+
+=== Parameterdarstellung mit Sinus und Kosinus
+
+Die übliche Parameterdarstellung einer Ellipse verwendet die Sinus- und Kosinusfunktion.
+Wegen cos 2  t + sin 2  t = 1 {\displaystyle \cos ^{2}t+\sin ^{2}t=1} beschreibt
+
+die Ellipse x 2 a 2 + y 2 b 2 = 1 .
+{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1\ .
+} Mit Hilfe dieser Darstellung lassen sich die folgenden Ellipsenkonstruktionen leicht verstehen.
+
+=== Punktkonstruktion nach de La Hire
+
+Die nach Philippe de La Hire (1640-1718) benannte Punktkonstruktion benutzt die beiden Scheitelkreise, das sind die Kreise um den Mittelpunkt der Ellipse mit den Halbachsen a , b {\displaystyle a,\;b} als Radien.
+Der Parameter t {\displaystyle t} wird hier als der Steigungswinkel eines von M {\displaystyle M} ausgehenden Strahls interpretiert.
+Mit der in der Zeichnung angegebenen Methode wird ein Punkt mit den Koordinaten ( a cos  t , b sin  t ) {\displaystyle (a\cos t,b\sin t)} , also ein Ellipsenpunkt, konstruiert.
+Dieses Konstruktionsverfahren war allerdings auch schon in der Spätantike bekannt und ging damals auf Proklos Diadochos (412-485) zurück.
+
+=== Papierstreifenmethoden
+
+Die beiden Papierstreifenmethoden verwenden zwei weitere Möglichkeiten der geometrischen Interpretation des Parameters t {\displaystyle t} der obigen Parameterdarstellung einer Ellipse.
+Sie liefern die Grundlagen der meisten Ellipsenzirkel.
+
+1. Methode
+
+Die erste Methode verwendet einen Papierstreifen der Länge a + b {\displaystyle a+b} .
+Der Punkt, in dem sich die Halbachsen treffen, wird mit P {\displaystyle P} markiert.
+Wenn der Streifen nun so bewegt wird, dass die beiden Enden jeweils auf einer Achse gleiten, überstreicht der Punkt P {\displaystyle P } die zu zeichnende Ellipse.
+Der Beweis ergibt sich aus der Parameterdarstellung ( a cos  t , b sin  t ) {\displaystyle (a\cos t,\;b\sin t) } und der Interpretation des Parameters als Winkel des Papierstreifens mit der x {\displaystyle x} -Achse (s. Bild).
+
+Eine weitere technische Realisierung des gleitenden Streifens kann man auch mit Hilfe eines Paares cardanischer Kreise erreichen (s. Animation).
+Der große Kreis hat den Radius a + b { \displaystyle a+b} .
+
+Eine Variation der 1. Papierstreifenmethode geht von der Beobachtung aus, dass der Mittelpunkt N {\displaystyle N} des Papierstreifens sich auf dem Kreis mit Mittelpunkt M {\displaystyle M } und Radius a + b 2 {\displaystyle {\tfrac {a+b}{2}}} bewegt.
+Man kann also den Papierstreifen in der Mitte (Punkt N {\displaystyle N} ) trennen und an dieser Stelle ein Gelenk einfügen und den zuvor auf der y {\displaystyle y} -Achse gleitenden Punkt in den Mittelpunkt der Ellipse verlegen.
+Nach dieser Operation bleibt das abgeknickte Ende des Papierstreifens fest (im Punkt M {\displaystyle M} ) und der unveränderte Teil des Streifens samt dem Punkt P {\displaystyle P } bewegt sich wie zuvor.
+Der Vorteil dieser Variation ist:
+Man benötigt nur einen technisch anspruchsvollen Gleitschuh.
+Auch gegenüber der cardanischen Realisierung der 1. Papierstreifenmethode ist diese Variation technisch einfacher.
+Man beachte, dass immer dasjenige Ende des Streifens, das auf der Nebenachse gleitet, in den Mittelpunkt verlegt wird!
+
+2. Methode:
+
+Die zweite Papierstreifenmethode geht von einem Papierstreifen der Länge a {\displaystyle a} aus.
+Man markiert den Punkt, der den Streifen in zwei Teile der Längen b {\displaystyle b} und a - b {\displaystyle a-b} zerlegt.
+Der Streifen wird so auf den Achsen positioniert, wie im Bild zu sehen ist.
+Der Teil, der die Länge a - b {\displaystyle a-b} besitzt, liegt zwischen den Achsen.
+Das freie Ende P {\displaystyle P} beschreibt dann die zu zeichnende Ellipse.
+Der Beweis ergibt sich aus der Zeichnung:
+Der Punkt P {\displaystyle P } kann durch die Parameterdarstellung ( a cos  t , b sin  t ) {\displaystyle (a\cos t,\;b\sin t) } beschrieben werden.
+Dabei ist t {\displaystyle t} der Steigungswinkel des Papierstreifens.
+
+Diese Methode benötigt zu ihrer technischen Realisierung auch zwei Gleitschuhe, ist aber flexibler als die erste Papierstreifenmethode.
+Sie ist die Grundlage für viele Ellipsenzirkel (s. Weblink Ellipsenzirkel).
+
+Bemerkung: Auch hier ist eine Variation durch Abknicken des Streifenteils zwischen den Achsen möglich.
+Es ist dann, wie bei der ersten Methode, nur ein Gleitschuh nötig.
+
+=== Approximation mit Scheitelkrümmungskreisen
+
+Aus der Formelsammlung (s. unten) ergibt sich:
+
+Die Zeichnung zeigt eine einfache Methode, die Krümmungsmittelpunkte M 1 = ( a - b 2 a , 0 ) , M 3 = ( 0 , b - a 2 b ) {\displaystyle M_{1}=(a-{\tfrac {b^{2}}{a}},0),\;M_{3}=(0,b-{\tfrac {a^{2}}{b}})} des Scheitels S 1 {\displaystyle S_{1 } } und des Nebenscheitels S 3 {\displaystyle S_{3 } } zeichnerisch zu bestimmen:
+
+Die Krümmungsmittelpunkte der restlichen Scheitel ergeben sich aus Symmetrie.
+Man zeichnet die beiden restlichen Scheitelkrümmungskreise.
+Mit Hilfe eines Kurvenlineals lässt sich dann eine gute Näherung der Ellipse zeichnen.
+
+=== Steiner-Erzeugung einer Ellipse (Parallelogramm-Methode)
+
+Die folgende Idee, einzelne Punkte einer Ellipse zu konstruieren, beruht auf der Steiner-Erzeugung eines Kegelschnitts (nach dem Schweizer Mathematiker Jakob Steiner):
+
+Für die Erzeugung einzelner Punkte der Ellipse x 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1 } gehen wir von den Geradenbüscheln in den Scheiteln S 1 , S 2 {\displaystyle S_{1},\;S_{2}} aus.
+Sei nun P = ( 0 , b ) {\displaystyle P=(0,b) } der obere Nebenscheitel der Ellipse und A = ( - a , 2 b ) , B = ( a , 2 b ) {\displaystyle A=(-a,2b),B=(a,2b)} .
+Dann ist P {\displaystyle P} der Mittelpunkt des Rechtecks S 1 , S 2 , B , A {\displaystyle S_{1},\;S_{2},\;B,\;A} .
+Wir unterteilen die Rechteckseite A B  {\displaystyle {\overline {AB} } } in n {\displaystyle n } gleiche Stücke, übertragen diese Unterteilung mittels einer Parallelprojektion in Richtung der Diagonalen A S 2 {\displaystyle AS_{2 }} auf die Strecke S 2 B  {\displaystyle { \overline {S_{2}B } }} (s. Bild) und nummerieren die Unterteilungen wie im Bild.
+Die benutzte Parallelprojektion zusammen mit der Umkehrung der Orientierung vermittelt die nötige projektive Abbildung der Büschel in S 1 {\displaystyle S_{1 } } und S 2 {\displaystyle S_{2 } } .
+Die Schnittpunkte der zugeordneten Geraden S 1 B i {\displaystyle S_{1}B_{i} } und S 2 A i {\displaystyle S_{2}A_{i } } liegen dann auf der durch die Vorgaben (3 Punkte, 2 Tangenten) eindeutig bestimmten Ellipse.
+Mit Hilfe der Punkte C 1 , ... {\displaystyle C_{1},\dotsc } lassen sich Punkte auf dem 2. Viertel der Ellipse bestimmen.
+Analog erhält man Punkte der unteren Hälfte der Ellipse.
+
+Bemerkung: a) Benutzt man statt der Scheitel zwei Punkte eines anderen Durchmessers, so muss man für P {\displaystyle P} einen Punkt des konjugierten Durchmessers wählen und arbeitet dann mit einem Parallelogramm statt eines Rechtecks.
+Daher rührt auch der manchmal gebräuchliche Name Parallelogramm-Methode.
+b) Den Beweis dieser Methode kann man auch am Einheitskreis nachrechnen.
+Da Teilverhältnisse und Parallelität bei affinen Abbildungen invariant bleiben, ist der Beweis dann auch allgemeingültig.
+(Eine Ellipse ist ein affines Bild des Einheitskreises!)
+
+Auch für Parabel und Hyperbel gibt es Steiner-Erzeugungen.
+
+=== Ellipsen in der Computergrafik
+
+Besonders in der Computergrafik lohnt sich die Ableitung einer Ellipse aus einer Kreisform.
+Eine achsenparallele Ellipse ist dabei einfach ein Kreis, der in einer der Koordinatenrichtungen gestaucht oder gedehnt, mit anderen Worten: anders skaliert wurde.
+Eine allgemeine, in beliebigem Winkel gedrehte Ellipse kann man aus so einer achsenparallelen Ellipse durch Scherung erhalten, s. a. Bresenham-Algorithmus.
+Die Punkte werden also numerisch berechnet und gezeichnet.
+
+== Beispiele
+
+== Formelsammlung (Ellipsengleichungen)
+
+=== Ellipsengleichung (kartesische Koordinaten)
+
+Mittelpunkt ( 0 | 0 ) {\displaystyle (0|0)} ,
+
+Aufgelöst nach y 2 { \displaystyle y^{2}} :
+
+Die letzte Form ist praktisch, um eine Ellipse mit Hilfe der beiden Bahnelemente, numerische Exzentrizität und große Halbachse, darzustellen.
+
+Mittelpunkt ( x 0 | y 0 ) {\displaystyle (x_{0}|y_{0})} , Hauptachse parallel zur x {\displaystyle x} -Achse:
+
+=== Ellipsengleichung (Parameterform)
+
+Mittelpunkt ( 0 | 0 ) {\displaystyle (0|0)} , Hauptachse als x {\displaystyle x} -Achse:
+
+Mittelpunkt ( x 0 | y 0 ) {\displaystyle (x_{0}|y_{0})} , Hauptachse parallel zur x {\displaystyle x} -Achse:
+
+Mittelpunkt ( x 0 | y 0 ) {\displaystyle (x_{0}|y_{0})} , Hauptachse um a {\displaystyle \alpha } bezüglich x {\displaystyle x} -Achse rotiert:
+
+Dabei bezeichnet t {\displaystyle t} den Parameter dieser Darstellung.
+Dieser entspricht nicht dem Polarwinkel  {\displaystyle \varphi } zwischen der x {\displaystyle x} -Achse und der Geraden, die durch den Ursprung und den jeweiligen Ellipsenpunkt führt, sondern z. B. dem Polarwinkel t {\displaystyle t} zwischen der x {\displaystyle x} -Achse und der Geraden, die durch den Ursprung und den Punkt mit gleicher y {\displaystyle y} -Koordinate wie der Ellipsenpunkt jedoch auf dem Kreis mit Radius b {\displaystyle b} führt (vgl.
+Konstruktion nach de la Hire).
+In der Astronomie heißt dieser Parameter bei Keplerellipsen die exzentrische Anomalie, bei Meridianellipsen in der Geodäsie heißt er parametrische oder reduzierte Breite, vgl. Referenzellipsoid.
+
+Für nicht rotierte Ellipsen, also a = 0 {\displaystyle \alpha =0} , hängt der Polarwinkel  {\displaystyle \varphi } , der durch tan   = y / x {\displaystyle \tan \varphi =y/x} definiert ist, mit dem Parameter t {\displaystyle t} zusammen über:
+
+Diese Beziehung erlaubt eine anschauliche Interpretation des Parameters t {\displaystyle t} :
+Streckt man die y {\displaystyle y} -Koordinate eines Ellipsenpunktes P = ( x , y ) {\displaystyle P=(x,y)} um den Faktor a / b {\displaystyle a/b} , so liegt dieser neue Punkt P ' = ( x , y ' ) {\displaystyle P'=(x,y')} auf einem Kreis mit Radius a {\displaystyle a} und demselben Mittelpunkt wie die Ellipse.
+Der Parameter t {\displaystyle t} ist nun der Winkel zwischen der x {\displaystyle x} -Achse und der Verbindungslinie M P '  {\displaystyle {\overline {MP'}} } :
+
+=== Ellipsengleichung (Polarkoordinaten bzgl. des Mittelpunkts)
+
+Hauptachse waagrecht, Mittelpunkt als Pol, Polarachse längs Hauptachse nach rechts:
+
+In kartesischen Koordinaten ausgedrückt, parametrisiert durch den Winkel der Polarkoordinaten, wobei der Mittelpunkt der Ellipse bei ( 0 | 0 ) {\displaystyle (0|0)} und ihre Hauptachse entlang der x {\displaystyle x} -Achse liegt:
+
+Aus der Ellipsengleichung in kartesischen Koordinaten ( x / a ) 2 + ( y / b ) 2 = 1 {\displaystyle (x/a)^{2}+(y/b)^{2}=1 } und der Parametrisierung der kartesischen in Polarkoordinaten x = r cos   {\displaystyle x=r\cos \varphi } und y = r sin   {\displaystyle y=r\sin \varphi } folgt:
+
+Umstellen und Radizieren liefert den Radius abhängig vom Polarwinkel.
+
+=== Ellipsengleichung (Polarkoordinaten bzgl. eines Brennpunkts)
+
+Hauptachse waagrecht, rechter Brennpunkt als Pol, Polarachse längs Hauptachse nach rechts (Halbparameter p = b 2 / a {\displaystyle p=b^{2}/a} ):
+
+Hauptachse waagrecht, linker Brennpunkt als Pol, Polarachse längs Hauptachse nach rechts:
+
+Der Wertebereich der Radien erstreckt sich von der Periapsisdistanz r p e r i {\displaystyle r_{\mathrm { peri} } } bis zur Apoapsisdistanz r a p o {\displaystyle r_{\mathrm {apo} }} , die folgende Werte haben:
+
+In kartesischen Koordinaten ausgedrückt, parametrisiert durch den Winkel  R {\displaystyle \varphi _{\mathrm {R} }} bzw.  L {\displaystyle \varphi _ {\mathrm {L} }} der Polarkoordinaten, wobei der rechte Brennpunkt der Ellipse bei ( e | 0 ) {\displaystyle (e|0)} , der linke Brennpunkt bei ( - e | 0 ) {\displaystyle (-e|0)} liegt:
+
+Der Winkel  R {\displaystyle \varphi _{\mathrm {R} }} bzw.  L {\displaystyle \varphi _{\mathrm {L} }} , je nachdem welcher Pol Bezugspunkt ist, heißt in der Astronomie die wahre Anomalie.
+
+Man betrachtet ein Dreieck, das von den beiden Fixpunkten F L {\displaystyle F_{\mathrm {L} }} , F R {\displaystyle F_{\mathrm {R} }} und einem beliebigen Punkt P {\displaystyle P} auf der Ellipse aufgespannt wird.
+
+Die Abstände zwischen diesen Punkten betragen: F L F R  = 2 e {\displaystyle {\overline {F_{\mathrm {L} }F_{\mathrm {R} } }}=2e} sowie F L P  = r L {\displaystyle {\overline {F_{\mathrm {L} }P}}=r_{\mathrm {L} } } und nach der Definition der Ellipse F R P  = 2 a - r L {\displaystyle {\overline {F_{\mathrm {R} }P}}=2a-r_{\mathrm {L} }} .
+Der Winkel bei F L {\displaystyle F_{\mathrm {L} }} sei  L =  F R F L P {\displaystyle \varphi _{\mathrm {L} }=\angle F_{\mathrm {R} }F_{\mathrm {L} }P} .
+Mit dem Kosinussatz gilt nun:
+
+Analog verläuft die Herleitung für den rechten Pol.
+Die Abstände lauten F L F R  = 2 e {\displaystyle {\overline {F_{\mathrm {L} }F_{\mathrm {R} } } }=2e} und F R P  = r R {\displaystyle {\overline {F_{\mathrm {R} }P}}=r_{\mathrm {R} } } und F L P  = 2 a - r R {\displaystyle {\overline {F_{\mathrm {L} }P}}=2a-r_{\mathrm {R} }} .
+Der Winkel bei F R {\displaystyle F_{\mathrm {R} }} sei  -  R =  P F R F L {\displaystyle \pi -\varphi _{\mathrm {R} }=\angle PF_{\mathrm {R} }F_{\mathrm {L} }} , da  R =  ( S R , F R , P ) {\displaystyle \varphi _{\mathrm {R} }=\angle (S_{\mathrm {R} },F_{\mathrm {R} },P) } definiert ist, wobei S R {\displaystyle S_{\mathrm {R} }} den rechten Hauptscheitel markiert.
+
+Durch Gleichsetzen der zweier Darstellungen von r L 2 - r R 2 {\displaystyle r_{\mathrm {L} }^{2}-r_{\mathrm {R} }^{2} } erhält man:
+
+Dies entspricht einerseits mit r R = 2 a - r L {\displaystyle r_{\mathrm { R} }= 2a-r_{\mathrm {L} } } und x = r L cos   L - e {\displaystyle x=r_{\mathrm {L} }\cos \varphi _{\mathrm {L} }-e}
+
+und andererseits mit r L = 2 a - r R {\displaystyle r_{\mathrm {L} }=2a-r_{\mathrm {R} } } und x = r R cos   R + e {\displaystyle x=r_{\mathrm {R} }\cos \varphi _{\mathrm {R} }+e} :
+
+== Formelsammlung (Kurveneigenschaften)
+
+=== Tangentengleichung (kartesische Koordinaten)
+
+Mittelpunkt ( 0 | 0 ) {\displaystyle (0|0)} , Hauptachse als x {\displaystyle x} -Achse, Berührpunkt ( x B | y B ) {\displaystyle (x_{B}|y_{B}) } :
+
+Mittelpunkt ( x 0 | y 0 ) {\displaystyle (x_{0}|y_{0}) } Hauptachse parallel zur x {\displaystyle x} -Achse, Berührpunkt ( x B | y B ) {\displaystyle (x_{B}|y_{B}) } :
+
+=== Tangentengleichung (Parameterform)
+
+Ein (unnormierter) Tangentenvektor an die Ellipse hat die Gestalt:
+
+Die Tangentengleichung lautet in vektorieller Darstellung mit Mittelpunkt bei ( 0 | 0 ) {\displaystyle (0|0)} , Hauptachse als x {\displaystyle x} -Achse und Berührpunkt bei ( x B | y B ) {\displaystyle (x_{B}|y_{B})} :
+
+=== Beziehung zwischen Polar- und Normalenwinkel
+
+Zwischen Polarwinkel  {\displaystyle \varphi } und Normalenwinkel  {\displaystyle \beta } und Ellipsenparameter t {\displaystyle t} besteht folgender Zusammenhang (siehe nebenstehende Grafik)
+
+Der Zusammenhang des Polarwinkels  {\displaystyle \varphi } und dem Steigungswinkel der Normalen  {\displaystyle \beta } (siehe Grafik rechts) lässt sich z. B. so finden:
+
+Auflösen der Tangentengleichung nach y {\displaystyle y}
+
+ergibt die Tangentensteigung tan  ( a ) = - tan  (  - a ) =  y /  x {\displaystyle \tan(\alpha ) =-\tan(\pi -\alpha ) =\Delta y/\Delta x} als Koeffizient von x {\displaystyle x} zu
+
+Mit tan  a = tan  (  +  / 2 ) = - 1 / tan   {\displaystyle \tan \alpha =\tan(\beta +\pi /2)=-1/\tan \beta } erhält man den gesuchten Zusammenhang zwischen  {\displaystyle \beta } und  {\displaystyle \varphi } .
+
+=== Normalengleichung (kartesische Koordinaten)
+
+Mittelpunkt ( 0 | 0 ) {\displaystyle (0|0)} , Hauptachse als x {\displaystyle x} -Achse, Berührpunkt ( x B | y B ) {\displaystyle (x_{B}|y_{B}) } :
+
+oder auch
+
+=== Normalengleichung (Parameterform)
+
+Ein (unnormierter) Normalenvektor an die Ellipse hat die Gestalt:
+
+Die Normalengleichung lautet in vektorieller Darstellung mit Mittelpunkt bei ( 0 | 0 ) {\displaystyle (0|0)} , Hauptachse als x {\displaystyle x} -Achse und Berührpunkt bei ( x B | y B ) {\displaystyle (x_{B}|y_{B})} :
+
+=== Krümmungsradien und -mittelpunkte
+
+Krümmungsradius im Punkt ( x p | y p ) {\displaystyle (x_{p}|y_{p})} :
+
+Mittelpunkt des Krümmungskreises, Krümmungsmittelpunkt M (  |  ) {\displaystyle M(\xi |\eta ) } :
+
+Krümmungsradius und -mittelpunkt in einem der beiden Hauptscheitel ( +/- a | 0 ) {\displaystyle (\pm a|0) } :
+
+Krümmungsradius und -mittelpunkt in einem der beiden Nebenscheitel ( 0 | +/- b ) {\displaystyle (0|\pm b)} :
+
+== Formelsammlung (Flächeninhalt und Umfang)
+
+=== Flächeninhalt
+
+Mit den Halbachsen a {\displaystyle a} und b {\displaystyle b} :
+
+Ist die Ellipse durch eine implizite Gleichung
+
+gegeben, dann beträgt ihr Flächeninhalt
+
+Für eine Ellipse mit den Halbachsen a {\displaystyle a} und b {\displaystyle b} und einen Sektor, der mit der großen Halbachse den Winkel   ] 0 ,  2 0,{\frac {\pi }{2}}\right[ } einschließt, gilt:
+
+Beschreibt man den Ellipsensektor statt durch den Polarwinkel durch den Parameter t {\displaystyle t} aus der Parameterdarstellung ( x , y ) = ( a cos  t , b sin  t ) {\displaystyle (x,y)=(a\cos t,b\sin t)} , so erhält man die Formel
+
+=== Umfang
+
+==== Formel
+
+Der Umfang U {\displaystyle U} einer Ellipse mit großer Halbachse a {\displaystyle a} und kleiner Halbachse b {\displaystyle b} berechnet sich zu
+
+wobei E ( k ) {\displaystyle E(k)} für das vollständige elliptische Integral zweiter Art steht.
+Die numerische Exzentrizität  {\displaystyle \varepsilon } berechnet sich bei Ellipsen als
+
+==== Herleitung
+
+Der Umfang U {\displaystyle U} einer Ellipse kann nicht exakt durch elementare Funktionen ausgedrückt werden.
+Er kann aber mithilfe eines Integrals dargestellt werden, das daher elliptisches Integral genannt wird.
+
+Die Formel für die Bogenlänge L {\displaystyle L} einer Kurve C {\displaystyle {\mathcal {C} }} lautet
+
+Für die Ellipse mit der Parameterdarstellung ( a cos  t , b sin  t ) , 0  t < 2  , {\displaystyle \;(a\cos t,b\sin t),\;0\leq t\;<2\pi ,\; } ergibt sich unter Berücksichtigung der Symmetrie für den Umfang U {\displaystyle U}
+
+Ausklammern von a 2 { \displaystyle a^{2}} , Verwendung von sin 2  t = 1 - cos 2  t {\displaystyle \;\sin ^{2}t=1-\cos ^{2}t\; } und  2 = 1 - b 2 a 2 {\displaystyle \;\varepsilon ^{2}=1-{\frac {b^{2}}{a^{2}}}\; } führt zu
+
+Durch die Substitution  =  2 - t , d t = - d  {\displaystyle \vartheta ={\frac {\pi }{2}}-t,\;\mathrm {d} t=-\mathrm {d} \vartheta } erhalten wir die folgende Form:
+
+Das Integral E (  ) {\displaystyle E(\varepsilon ) } nennt man vollständiges elliptisches Integral zweiter Art.
+
+Der Umfang U {\displaystyle U} der Ellipse ist damit
+
+Der Umfang U {\displaystyle U } hängt also von der numerischen Exzentrizität  {\displaystyle \varepsilon } und der großen Halbachse a {\displaystyle a} ab .
+Mithilfe des nebenstehenden Diagramms kann bei gegebener Exzentrizität  {\displaystyle \varepsilon } der Wert des Faktors k = 4 E (  ) {\displaystyle k=4E(\varepsilon ) } für den Umfang U = k * a {\displaystyle U=k\cdot a} abgelesen werden.
+k {\displaystyle k} liegt für jede Ellipse zwischen den Extremfällen k = 4 {\displaystyle k=4} (  = 1 {\displaystyle \varepsilon =1} , entartete Ellipse als Linie) und k = 2  {\displaystyle k=2\pi } (  = 0 {\displaystyle \varepsilon =0} , Ellipse wird zum Kreis).
+
+==== Reihenentwicklung
+
+Für  {\displaystyle \varepsilon } nahe 1 konvergiert diese Reihenentwicklung extrem langsam.
+Es empfiehlt sich daher eine numerische Integration, z. B. nach dem Romberg-Verfahren.
+
+Eine Reihe, die schneller konvergiert, beruht auf der Gauß-Kummer-Reihe.
+Für eine Ellipse mit den Halbachsen a {\displaystyle a} und b {\displaystyle b} (mit a > b {\displaystyle a>b} ) wird  = a - b a + b {\displaystyle \lambda ={\tfrac {a-b}{a+b } }} definiert.
+Dann ergibt sich:
+
+==== Näherungen
+
+Diese Näherung ist in einem weiten  {\displaystyle \varepsilon } -Bereich von 0    0 , 9 {\displaystyle 0\leq \varepsilon \leq 0{,}9} sehr genau und ergibt im gesamten Bereich stets einen etwas zu kleinen Wert, der monoton mit  {\displaystyle \varepsilon } zunimmt.
+
+Der relative Fehler beträgt:
+
+Für  =  = 1 {\displaystyle \varepsilon =\lambda =1 } erhält man statt 4 den minimal zu kleinen Wert 14 11  {\displaystyle {\tfrac {14}{11}}\pi } .
+
+== Schriftzeichen
+
+Unicode enthält im Block Verschiedene Symbole und Pfeile vier Ellipsensymbole, die als Grafikzeichen oder Schmuckzeichen in beliebigem Text (auch Fließtext) verwendet werden können:
+
+LaTeX kennt außerdem noch eine hohle horizontale Ellipse mit Schatten rechts: \EllipseShadow.
+
+== Siehe auch
+
+== Weblinks
+
+Berechnungen
+
+Konstruktion
+
+Für alle folgenden Links wird ein Java-Plug-in benötigt.
+
+== Literatur
+
+== Einzelnachweise
+

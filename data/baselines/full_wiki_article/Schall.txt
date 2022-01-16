@@ -1,0 +1,44 @@
+Schall (von Althochdeutsch: scal) bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium (Gas, Flüssigkeit, Festkörper).
+Diese Schwingungen pflanzen sich in Form von Schallwellen fort.
+In Luft sind Schallwellen Druck- und Dichteschwankungen.
+Umgangssprachlich bezeichnet Schall vor allem das Geräusch, den Klang, den Ton, den Knall (Schallarten), wie er von Menschen und Tieren mit dem Gehör, also dem Ohr-Gehirn-System auditiv wahrgenommen werden kann.
+Man unterscheidet dabei den Nutzschall, wie Musik oder die Stimme beim Gespräch, und den Störschall, wie Baustellen- oder Verkehrslärm.
+Schall ist ein Kollektivum und wird nur im Singular benutzt.
+Physikalisch gesehen ist Schall eine als Welle fortschreitende mechanische Deformation in einem Medium.
+In ruhenden Gasen und Flüssigkeiten ist Schall immer eine Longitudinalwelle, also näherungsweise auch in Luft.
+Die allgemeine Wellengleichung für dreidimensionale Schallfelder in fluiden Medien lautet:
+Darin ist  {\displaystyle \Delta } der Laplace-Operator.
+Schall breitet sich mit einer für das Medium und dessen Zustand (Temperatur, Druck usw.) charakteristischen und konstanten Schallgeschwindigkeit c {\displaystyle c} aus .
+Bei einer Temperatur von 20 °C beträgt diese in Luft 343 m/s und in Wasser 1484 m/s, siehe auch Schallgeschwindigkeit in verschiedenen Medien.
+Die Wellenlänge  {\displaystyle \lambda } der Schallwelle kann bei gegebener Frequenz f {\displaystyle f} und Schallgeschwindigkeit c {\displaystyle c} über folgende Beziehung berechnet werden:
+In Gasen wie Luft kann Schall als eine dem statischen Luftdruck überlagerte Schalldruckwelle beschrieben werden.
+Meistens sind bei Schallwellen die Schwankungen der Zustandsgrößen Druck und Dichte klein im Verhältnis zu ihren Ruhegrößen.
+Das wird anschaulich, wenn man Schalldruckpegel von 130 dB (Dezibel), das ist etwa die Schmerzschwelle des Menschen, mit dem normalen atmosphärischen Druck vergleicht:
+Der Ruhedruck der Atmosphäre beträgt 101325 Pascal (= 1013,25 Hektopascal), während ein Schalldruckpegel von 130 dB einem Effektivwert des Schalldrucks p von gerade einmal 63 Pascal entspricht.
+Dagegen gibt es in Festkörpern auch Transversalwellen und geführte Wellen.
+Im Vakuum gibt es keinen Schall, da er im Gegensatz zu elektromagnetischen Wellen immer ein Trägermedium braucht.
+Schallausbreitung findet auch im Weltall statt, wegen der geringen Dichte (ca. 1 Mio. Atome je m^3 im interstellaren Raum der Milchstraße) sind die übertragenen Energien sehr gering.
+Überschallereignisse sind beispielsweise Supernovae, deren Überschallknall aber ebenfalls unter der menschlichen Hörschwelle liegen würde.
+Die zugehörige Wissenschaft ist die Akustik.
+Die beiden Energieformen, die sich beim Schall ineinander umwandeln, sind die Kompressionsenergie und die Bewegungsenergie als Schallenergiegröße, charakterisiert werden sie aber durch die Schallfeldgrößen:
+Wellen sind zeitlich und örtlich periodische Veränderungen einer physikalischen Größe g(t, x).
+Der Schalldruck p ist die wichtigste Schallfeldgröße als Skalar überhaupt; siehe auch Druckwelle.
+Dieses hat verschiedene Gründe:
+Der Schalldruck ist eine anschauliche Größe, mit Mikrofonen relativ leicht messbar und auch vom Menschen physiologisch erfassbar.
+Der Schallwechseldruck p ist einfach zu messen.
+Bei einem Schalldruckpegel von 0 dB, also bei der Hörschwelle, hat der Schalldruck als Effektivwert einen Wert von 2 * 10-5 N/m2 (Pascal).
+Dagegen ist die Schallfeldgröße Schallschnelle v ein Vektor, wobei bei Einwirkung von Schall die Geschwindigkeit der Hin- und Herbewegung der Fluidelemente (Luftteilchen) gemeint ist.
+Der Begriff Geschwindigkeit wird hier zur deutlichen Abgrenzung zur Schallgeschwindigkeit c allerdings vermieden.
+Die Schnelle ist nicht so leicht bestimmbar.
+Man muss sich hierbei darüber im Klaren sein, dass die maximal auftretenden Geschwindigkeiten bei der Auslenkung der Fluidelemente im Vergleich zur Schallgeschwindigkeit klein sind:
+Bei einem Schalldruckpegel von 130 dB, der Schmerzschwelle, beträgt die Schallschnelle in Luft gerade einmal 0,153 m/ s.
+Bei der Hörschwelle des Menschen hat der Effektivwert der Schallschnelle einen Wert von 5 * 10-8 m/s entsprechend einem Schallschnellepegel von 0 dB.
+Hierbei werden die Luftpartikel nur ganz gering ausgelenkt.
+Entsprechend dem Frequenzbereich unterscheidet man:
+Die Hörschwelle, Empfindung einer bestimmten Lautstärke und die Grenze zur Schmerzempfindung des Menschen verlaufen im Bereich von 16-20.000 Hz entlang einer Schar von Hörkurven, die im Bereich niedrigster und höchster Frequenzen tendenziell konvergieren.
+Das Hörvermögen insbesondere im Bereich hoher Töne nimmt mit zunehmendem Lebensalter aber auch durch Strapazierung des Gehörs durch laute Musik, Lärm oder Knall teilweise irreversibel ab.
+Hunde und Fledermäuse können auch Töne über 20 kHz hören.
+Infraschall kann vom Menschen unter Umständen mit der Bauchdecke, Fingerspitzen oder beim Stehen mit den Füßen haptisch gefühlt oder an Festkörpern mit dem Auge als Vibration gesehen werden.
+Wird ein Piezo-Ultraschallgeber zum Vernebeln von Wasser mit dem Finger berührt, wird darin eine Hitzeempfindung erzeugt.
+Mit Ultraschall werden insbesondere Plastikgehäuse von Netzteilen dauerhaft verschweißt.
+In Abbildung 1 sind schematische zeitliche Verläufe des Schalldrucks von unterschiedlichen Geräuschen dargestellt:

@@ -1,0 +1,141 @@
+Ein Fachwerk ist ein Stabwerk, dessen Stäbe alleine durch Normalkraft beansprucht werden und "deren Enden in den Knotenpunkten miteinander verbunden sind".
+Ein Fach ist ein zweidimensionales Vieleck, welches durch Stäbe aufgespannt wird.
+Fachwerke bestehen in der Regel überwiegend aus Dreiecken.
+Der Begriff Fachwerk leitet sich vermutlich vom Mittelhochdeutschen vach oder fah für in Felder geteilte Fläche und Geflecht ab.
+
+Gelenkige Knotenverbindungen sind eines von mehreren Merkmalen des sogenannten idealen Fachwerks, die in der Literatur oft als zentrale Eigenschaft des Fachwerks genannt wird.
+Reale Fachwerke werden in der Regel mit biegeweichen Stäben ausgeführt, die sich näherungsweise als gelenkige Knoten modellieren lassen.
+Stabwerke mit biegesteifen Knoten sind keine Fachwerke im engeren Sinne.
+
+Ein Fachwerkträger ist ein gewöhnlich horizontal verlaufendes und im Verhältnis zu seiner Länge schmales und schlankes Tragelement.
+Die an Ober- und Unterseite durchlaufenden Stäbe werden als Ober- und Untergurt bezeichnet.
+Die Stäbe eines Gitterträgers stehen enger als beim Fachwerkträger, so dass der Eindruck eines Gitters entsteht.
+
+== Anwendungen
+
+=== Bauwesen
+
+Konstruktionen aus Fachwerken haben im Allgemeinen im Verhältnis zu anderen üblichen Bauweisen für ihre Tragfähigkeit ein geringes Eigengewicht.
+Nachteilig kann sich ihr großes Volumen auswirken (Beispiel: optisch stark in Erscheinung tretende Fachwerkbrücken).
+Ihre Erdbebensicherheit ist hoch.
+
+Räumliche Gebäude-Fachwerke gibt es als Fassaden, Dächer (auch Vordächer und Hallendächer) und Kuppeln.
+Weitere Anwendungen sind Fachwerkbrücken, Kräne (Portalkräne, Kranbrücken, Turmkräne, Wippkräne u. a.), Masten (Hochspannungsmasten, Oberleitungsmasten, Telefonmasten, Windkraftmasten) und Aussichtstürme.
+
+=== Fahrzeugbau
+
+Im Automobilbau und Motorradbau werden räumliche Fachwerke für Fahrgestelle als sogenannte Gitterrahmen verwendet.
+Sie enthalten aber oft nicht ausschließlich Stabdreiecke, was insbesondere auf die Motorradrahmen zutrifft.
+Dabei handelt es sich um Mischformen aus allgemeinem, biegesteifem Stabwerk und Fachwerk.
+
+Bei Flugzeugen wurde historisch der ganze Rumpf mitsamt Flügeln aus (Holz-)Fachwerk gefertigt und bespannt, etwa beim DFS 230, einem Lastensegler mit Flugzeugrumpf aus einem geschweißten Stahlrohrfachwerk mit Stoffbespannung.
+Auch Starrluftschiffe wurden - im Unterschied zu aufgepumpten Prallluftschiffen - mit Fachwerk-Stützkonstruktionen aufgebaut.
+
+== Ideales und reales Fachwerk
+
+Die Untersuchung der Gebrauchsfähigkeit (Festigkeit und elastische Verformung) von Fachwerken erfolgt mit Hilfe der Festigkeits- und Verformungslehre, die in ihrer Anwendung bei Tragwerken als Baustatik bezeichnet wird.
+In Festigkeits- und Verformungsuntersuchungen fließen immer vereinfachende, d. h. die Realität idealisierende Annahmen ein.
+Das in der Baustatik übliche Begriffspaar ideales Fachwerk / reales Fachwerk betrifft insbesondere die Annahmen über die Steifigkeit der Knoten.
+Ihre relativ geringe Steifigkeit durch Gelenkigkeit zu ersetzen, ist eine Idealisierung.
+
+=== Idealisierungen
+
+Zusammenfassend folgt daraus, dass ausschließlich Normalkräfte in den Stäben beachtet, Biegemomente, Querkräfte und Torsionsmomente vernachlässigt werden.
+
+=== Reales Fachwerk
+
+Die o. g. Idealisierungen (insbesondere nicht alle gemeinsam) werden in der Praxis und dürfen aus Sicherheitsgründen auch nicht immer vorgenommen werden.
+Der Berechnungsaufwand ist entsprechend höher.
+So sind z. B. sogenannte Nebenspannungen (zusätzlich zu Normalspannungen) zu ermitteln und für die zulässigen Materialspannungen und für die zulässige Verformung des Fachwerks zu bewerten.
+
+== Untersuchungs- und Berechnungsmethoden
+
+Die im Folgenden angegebenen Methoden setzen die Annahme eines idealen Fachwerks voraus.
+
+=== Statische Bestimmtheit: Abzählkriterien
+
+Dass Fachwerke statisch bestimmt sind, ist eine bei ihrer Untersuchung zuerst zu beantwortende Frage.
+Sie lässt sich prinzipiell nur bei mit Gelenken (anstatt biegesteifen Knoten) versehenen, also nur bei idealen Fachwerken stellen.
+
+Ein statisch unterbestimmtes Fachwerk scheidet aus, da es auf seinen Fundamenten oder in sich beweglich wäre.
+Statisch überbestimmte Fachwerke haben zu viele Stäbe, was dem Prinzip Leichtbau widerspricht.
+Sie sind aber stabil, haben lediglich den Nachteil, dass der Untersuchungsaufwand größer wird.
+Thermische Ausdehnungen und Versetzungen der Fundamente können bei ihnen sekundäre (bezüglich eigentlichem Gebrauch zusätzliche) Beanspruchungen bewirken.
+
+Die Frage ob ein Fachwerk statisch bestimmt ist wird prinzipiell durch Auswerten der Gleichgewichtsbedingungen (Summe aller Kräfte bzw. Drehmomente ist Null) beantwortet.
+Als vereinfachte Bestimmungsmethode wurden aus ihnen die sogenannten Abzählkriterien entwickelt.
+Sie liefert nur eine Zahl, die aussagt, wie oft unterbestimmt ein System ist minus der Freiheitsgrade.
+Oftmals besitzen statische Systeme entweder Freiheitsgrade oder sind statisch Überbestimmt, oder sind statisch bestimmt, dort und nur dort kann die Formel herangezogen werden wie viele Freiheitsgrade/Überbestimmt ein System ist.
+Die Formel sagt nicht aus, ob sie anwendbar ist oder nicht, daher sollte sie nur zur Kontrolle verwendet werden.
+Die Abzählkriterien sind nur eine notwendige, aber nicht hinreichende Bedingung für den Nachweis statischer Bestimmtheit.
+
+Eine Bestimmung kann mit sogenannten Abbau- bzw. Aufbaukriterien (was passiert, wenn ein Stab entfernt oder hinzugefügt wird?) erfolgen.
+Die sichere Antwort ergibt sich ebenfalls aus der Arbeit mit den Gleichgewichtsbedingungen.
+
+Für ebene Fachwerke wird folgende Formel verwendet:
+
+Hierbei ist
+
+Beispiel: nebenstehend abgebildetes Fachwerk
+
+Für räumliche Fachwerke wird folgende Formel verwendet:
+
+=== Berechnungsverfahren für Fachwerke
+
+==== Knotenpunktverfahren (Rundschnittverfahren)
+
+Mit dem Knotenpunktverfahren lassen sich die Stabkräfte durch Aufstellen eines Gleichungssystems ermitteln.
+Für jeden Knoten eines 2-D-Fachwerkes werden die je maximal zwei linear unabhängigen Gleichgewichtsbedingungen - z. B. die Summe der Kräfte in x- und in y-Richtung muss Null sein - ermittelt.
+Dadurch ergibt sich ein Gleichungssystem, das bei statischer Bestimmtheit des Fachwerkes gelöst werden kann.
+
+Im dreidimensionalen Fall können jeweils maximal drei linear unabhängige Gleichungen aufgestellt werden.
+
+==== Rittersches Schnittverfahren
+
+Das Rittersche Schnittverfahren dient zur Berechnung von Stabnormalkräften im Fachwerk.
+Somit können pro Schnitt im Zweidimensionalen maximal drei Stabkräfte oder im Dreidimensionalen maximal sechs Stabkräfte berechnet werden.
+
+==== Stabtauschverfahren
+
+Das Hennebergsche Stabtauschverfahren wird bei nicht einfachen Fachwerken angewandt.
+
+==== Cremonaplan
+
+Der Cremonaplan dient bei statisch bestimmten Fachwerken der zeichnerischen Bestimmung der Stabkräfte.
+
+== Fachwerknamen und -typen von ebenen Fachwerken
+
+== Raumfachwerk
+
+Raumfachwerke unterscheiden sich von räumlichen Stabwerken und Rahmen dadurch, dass sie auch ohne biegefeste Verbindungen der Stäbe untereinander stabil sind.
+Sie erfüllen damit das Bildungsgesetz für räumliche Fachwerke.
+Die Räumlichkeit der Fachwerke kann entweder durch Anordnung der Stäbe in mehreren Lagen (Untergurt, Diagonalen, Obergurt), oder/und durch Anordnung der Stäbe im Raum erfolgen.
+Im ersten Fall erzeugt man ein ebenes Raumfachwerk, im zweiten Fall ein gestuftes oder gekrümmtes Raumfachwerk, das im Sonderfall (z. B. bei einer Kuppel) auch einlagig sein kann.
+Ein klassisches Beispiel des räumlichen gekrümmten, aber im Prinzip ebenen Fachwerkes ist die geodätische Kuppel.
+
+Die Verbindung der Stäbe erfolgt im Allgemeinen mit Knotenteilen, die massiv (Kugeln, Zylinder) oder aufgelöst (Scheiben) ausgeführt werden können.
+
+=== Geometrie
+
+Die Geometrie der Stabanordnung spielt eine wesentliche Rolle beim Entwurf von Raumfachwerken.
+Die ebenen und gestuften Raumfachwerke lassen sich aus einer Kombination (Komposition) von Tetraeder und (Halb-)Oktaeder ableiten, seltener aus dem Hexaeder (Kubus).
+Die Raumfachwerke für Kuppeln können aus dem Dodekaeder und Ikosaeder abgeleitet werden.
+Die fünf genannten Polyeder bilden die platonischen Körper.
+
+Die Geometrie von Raumfachwerken auf Freiformflächen, insbesondere solche auf NURBS (Non Uniform Rational B-Spline-Flächen), erfordert den Einsatz von CAD-Spezialprogrammen, die die Netzgenerierung auf diesen Flächen zulassen.
+
+=== Planung und Fertigung
+
+Durch die von Computern unterstützte Planung und Fertigung können beliebige Konfigurationen realisiert werden.
+Trotzdem stellt die Orientierung der Verbindungsknoten ein besonderes Problem dar, um Knotengröße und Fräsarbeit insbesondere bei Freiformflächen mit direkt aufliegender Glaseindeckung zu minimieren.
+
+=== Material
+
+Für Fachwerke kann praktisch jedes Baumaterial (Holz, Stahl, Aluminium, Edelstahl, kohlenstofffaserverstärkter Kunststoff und in seltenen Fällen auch Beton) verwendet werden, bzw. Kombinationen daraus.
+Es sind sowohl runde, gebogene als auch (viel-)eckige Profile möglich, als auch beliebige Kombinationen draus.
+Bei Metallen werden Walzerzeugnisse wie z. B. Bleche, Profilträger (I-, L-, U-, T-, Z-Profile) als auch andere Formen eingesetzt.
+
+== Weblinks
+
+== Anmerkungen und Einzelnachweise
+

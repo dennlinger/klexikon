@@ -1,0 +1,19 @@
+Ein Quader ist eine geometrische Figur.
+Er sieht aus wie ein Rechteck, besteht aber im Raum, also dreidimensional.
+In unserer Welt gibt es viele Quader: Schachteln, Kisten, Backsteine und so weiter.
+Auch die meisten Räume in Häusern sind Quader, wenn man mal von den Fensternischen absieht.
+Jeder Quader hat sechs Flächen, die aus Rechtecken bestehen.
+Die beiden gegenüberliegenden Seitenflächen sind immer genau gleich.
+Daher besitzt ein Quader acht Ecken und zwölf Kanten.
+Die Kanten des Quaders bilden zueinander rechte Winkel.
+Ein Würfel ist auch ein Quader, aber ein bestimmter:
+Beim Würfel sind alle Kanten gleich lang.
+In der Natur gibt es keine genauen Quader.
+Sie sind eine sehr alte Erfindung der Menschen.
+Sobald Menschen Lehmziegel herstellten, formten sie diese zu Quadern.
+Auch Steine wurden zu Quadern behauen, beispielsweise bei den Pyramiden.
+Quader lassen sich am besten aufeinanderschichten.
+In der Geometrie kann man rund um den Quader viele Berechnungen anstellen.
+Aus den Kantenlängen lässt sich seine Oberfläche berechnen.
+Oder sein Volumen, das heißt, wie viel Platz da eigentlich drin ist.
+Es gibt auch verschiedene Weisen, den Quader auf ein Blatt zu zeichnen oder mit einem Computerprogramm darzustellen.

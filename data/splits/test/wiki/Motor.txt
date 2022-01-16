@@ -1,0 +1,226 @@
+Ein Motor (auch ; lateinisch motor ,Beweger') ist eine Kraftmaschine, die mechanische Arbeit verrichtet, indem sie eine Energieform, z. B. thermische, chemische, hydraulische, pneumatische oder elektrische Energie, in Bewegungsenergie umwandelt.
+
+In der Regel verfügen Motoren über eine Welle, die sie in Rotation versetzen und durch sie mechanische Vorrichtungen, wie Getriebe, antreiben.
+Ausnahmen sind Raketenmotoren und Linearmotoren.
+Heute sind Verbrennungsmotoren und Elektromotoren von herausragender Bedeutung.
+
+== Geschichte des Motors
+
+Die frühesten Motoren könnten um das Jahr 100 Herons Rauchturbinen zum Öffnen großer Tore gewesen sein.
+Auch sind Vermutungen zum Umgang ägyptischer Priesterschaft mit Heißgasen zum Bewegen riesiger Türen plausibel.
+
+Um 1670 soll Ferdinand Verbiest im Dienste des Kaisers von China das betriebsfähige Modell eines Dampfwagens gebaut haben.
+Das Wirkprinzip basierte wie schon bei früheren Rauchturbinen auf dem Heronsball.
+Das Fahrzeug wird in den zu Astronomia Europea auf Latein im Jahr 1681 zusammengefassten Schriften Verbiests beschrieben, wobei er erstmals den Begriff Motor im heutigen Sinne verwendete.
+Authentische Abbildungen dieses Fahrzeugs existieren jedoch nicht.
+
+Die technische Entwicklung zu heutigen Motoren begann nachvollziehbar mit der von Thomas Savery und Thomas Newcomen erfundenen und 1778 von James Watt weiter entwickelten Dampfmaschine.
+
+Die Dampfmaschine veränderte die wirtschaftlichen und sozialen Strukturen Europas und löste die industrielle Revolution aus.
+Es gab nicht nur ortsfeste Maschinen, sondern nach der Erfindung der Hochdruckdampfmaschine von Richard Trevithick auch die Lokomobile (eine fahrbare, teilweise selbstfahrende Dampfmaschine zum Antrieb von Dreschmaschinen oder zum Dampfpflügen), Dampflokomotiven, Dampfschiffe, Dampftraktoren und -straßenwalzen.
+
+1816 erfand Robert Stirling den später nach ihm benannten Heißgasmotor.
+Er suchte nach einer Maschine ohne den explosionsgefährdeten Kessel.
+
+Einer der ersten brauchbaren Verbrennungsmotoren - ein Gasmotor nach dem Zweitaktprinzip - wurde von Etienne Lenoir erfunden, 1862 von Nikolaus August Otto durch die Entwicklung des Viertaktprinzips verbessert und später nach ihm benannt.
+Der Ottomotor war zunächst zu groß und zu schwer, um in ein Automobil eingebaut werden zu können.
+Dieses Problem lösten nahezu gleichzeitig Gottlieb Daimler und Carl Friedrich Benz.
+
+Auch nach der Erfindung der Verbrennungsmotoren war die Dampfmaschine noch ein viel verwendeter Antrieb - es konnte billige Kohle oder Holz als Brennmaterial verwendet werden.
+Aufgrund deren besseren Wirkungsgrades und der hohen Energiedichte der Kraftstoffe sind seitdem aber Verbrennungsmotoren in den Vordergrund getreten, die die chemische Energie der Brennstoffe in ihrem Inneren in Wärmeenergie und dann in mechanische Energie umwandeln.
+
+Für die Zukunft strebt man einen Wechsel der Energiequelle mobiler Motoren an, um der Verknappung und damit Verteuerung fossiler Brennstoffe zu begegnen.
+Oft verringern sich dadurch auch die Emissionswerte.
+Voraussetzung hierfür sind praktikable Speichermöglichkeiten nicht-fossiler Energieträger vor allem für den mobilen Einsatz (Akkumulatoren, alternative Treibstoffe).
+Elektromotoren und Hybridantriebe sind mögliche Alternativen zum Ersatz oder der Ergänzung des Kolbenmotors.
+
+In allen Größen, von Spielzeugen bis Industrieanlagen, finden Elektromotoren für Gleichstrom, Wechselstrom und Drehstrom Verwendung (elektrische Maschinen).
+Viele Elektromotoren - speziell solche mit Permanentmagneten - können auch als Generatoren arbeiten, wenn sie mechanisch angetrieben werden.
+
+== Anforderungen an Motoren
+
+Motoren und andere Kraftmaschinen wandeln chemische, elektrische oder thermische Energie in mechanische Energie (Arbeit) um.
+Sie sollen aus moderner Sicht
+
+Zu Beginn des Motorenbaues stand - praktisch bei jeder der Grundprinzipien - die Erzielung der nötigen Leistung.
+Weitere Kenngrößen von Motoren sind neben der Leistung (Verbrauch an Strom oder Kraftstoff und abgegebene mechanische Leistung) noch die Masse, die Drehzahl und der Wirkungsgrad.
+
+== Übersicht verschiedener Typen
+
+== Arten von Motoren
+
+=== Dampfmaschine
+
+Die Dampfmaschine ist der "Urmotor" der Industrialisierung der letzten Jahrhunderte.
+Sie wurde von Thomas Newcomen erfunden.
+Sie arbeitet mit heißem Wasserdampf unter Druck.
+Dessen Druckkraft wird vom Dampfkolben aufgenommen.
+Dabei wird wie beim Verbrennungsmotor eine lineare Bewegung über einen Kurbeltrieb in eine Rotationsbewegung umgesetzt.
+Schon um 1850 gab es mehrere Arten dieser Kolbenmaschine.
+
+==== Funktionsweise
+
+Unter Verwendung eines Feuerkessels, in dem mit einem Kohlenfeuer das Wasser auf Siedetemperatur oder höher erhitzt wird, erzeugt das erhitzte Wasser sich ausdehnenden Dampf.
+Dieser Dampf wird über eine mechanische Steuereinheit vom Kurbeltrieb der Dampfmaschine zugeführt.
+Die Steuereinheit bewirkt, dass der Dampfzylinder (in dem der Kolben läuft) des Kurbeltriebes nur dann erneut Dampf erhält, wenn der expandierte Dampf des vorherigen Hub-Taktes weitestgehend entwichen ist.
+
+==== Bewegungsumsetzung
+
+Die lineare Bewegung des Kolbens im expandierenden Zylinderraum, in den zuvor der Wasserdampf eingelassen wurde, wird von einer Pleuelstange am Kurbel- oder Hubzapfen in eine Drehbewegung umgesetzt.
+Dieser Vorgang wiederholt sich kontinuierlich.
+Was das Fortbewegungsmittel aus dem Schornstein bzw. Auspuff entlässt, ist der ausgestoßene Dampf der Kolbenzylinder, vermischt mit den Rauchabgasen der Feuerung.
+
+=== Dampfturbine
+
+Sie ist die moderne Version der Wärmekraftmaschine und nutzt die Dampfkraft mit höherem Wirkungsgrad.
+Dampfdruck treibt eine Turbine an, deren Drehung prinzipiell einen ruhigeren Lauf hat als das Hin und Her eines Dampfkolbens.
+Der Drehmomentverlauf ist daher flacher, das heißt, sie arbeitet gleichmäßiger.
+
+=== Verbrennungsmotoren
+
+Verbrennungsmotoren wandeln in thermodynamischen Zyklen die bei der Verbrennung freigesetzte Wärme über Volumenänderungsarbeit zu mechanischer Arbeit um.
+Dabei wirkt der Druck der Verbrennungsgase auf die Oberfläche eines beweglichen Bauteils (Kolben), das über einen Kurbeltrieb (Pleuel + Kurbelwelle) die Volumenänderungsarbeit der Gaskräfte in mechanische Arbeit umsetzt.
+
+Der Wirkungsgrad von Verbrennungsmotoren ist aufgrund der Umsetzung der chemisch gebundenen Energie des Kraftstoffes über Wärmefreisetzung in mechanische Arbeit stark vom Betriebspunkt abhängig.
+Im optimalen Betriebszustand kann der effektive Wirkungsgrad von Schiffsmotoren unter Nutzung der Abgaswärme bis zu 55 % betragen (Emma-Mrsk-Klasse).
+Berücksichtigt man zudem die Nutzung der Kühlwasserwärme (Blockheizkraftwerk) und sogar der CO2-Emissionen, wie z. B. für Gewächshäuser, kann der Nutzen im Verhältnis zum Aufwand über 90 % betragen.
+Der Wirkungsgrad von PKW-Motoren im Kaltlauf, oder gar im Leerlauf kann unter 10 % liegen.
+Eine allgemeingültige Aussage ist nicht möglich und ist eng mit dem Anwendungsfall verbunden (Wirkungsgrad = Nutzen / Aufwand bzw. Kraftstoffverbrauch).
+
+==== Optimierung der Verbrennungsmotoren
+
+Zur Steuerung der Frischluft läuft in den Standard-Motoren eine Steuerung der ein- und austretenden Gase per Ventilen oder Drehschieber mit den Arbeitstakten synchron.
+
+Durch einen Turbolader oder andere Luftverdichter kann Frischluft mit erhöhter Dichte zugeführt und dadurch der Wirkungsgrad der Motoren erhöht werden.
+Bei Ottomotoren wird die Benzinzufuhr durch Einspritzdüsen verbessert.
+Sie sind elektrisch angesteuert und dadurch in die moderne elektronische Steuerung der Motoren integrierbar.
+Analog dazu kommt bei Dieselmotoren das Pumpe-Düse-System oder die Common-Rail-Einspritzung zur Leistungsverbesserung zum Einsatz.
+
+Mittels Schubabschaltung und Start-Stopp-System erreicht man eine Verbrauchsoptimierung.
+
+==== Selbstzünder (Dieselmotor)
+
+Kann die Verbrennung eines Kraftstoffes ohne Hilfsmittel - nur durch die hohe Verdichtung des Luft-Brennstoffgemisches - erfolgen, so handelt es sich um einen Selbstzünder.
+Er zündet durch Druckbefüllung der Brennkammer.
+Verbesserungen hat es in der Modifikation der Brennräume, Kolben, Einspritzdüsen und Förderpumpen sowie bei der Erhöhung der Einspritzdrücke, der damit verbundenen besseren Mischung des Kraftstoffs mit der Luft und systematischen Variierung der Kraftstoffzumessung gegeben.
+Im Zuge dieser Entwicklungen ist die Wirbelstromkammer vom Direkteinspritzer ersetzt worden.
+
+Die Glühkerzen des Dieselmotors bzw. Mehrstoffmotors sind nur Hilfsmittel zum Kaltstart; alternativ können hoch entzündliche Startbrennstoffe beim Start zugespeist werden.
+Hier gab es keine wesentlichen Neuerungen, sondern nur Modifizierungen der Glühkerzen.
+
+==== Fremdzünder (Ottomotor)
+
+Ist die Verdichtung des Motors nicht so hoch wie bei dem Selbstzünder, dann benötigt er z. B. Zündkerzen, um das Reaktionsgemisch zu entzünden.
+
+==== Entwicklung und Zukunft
+
+Im Fahrzeugbau ist diese Motorengruppe die am häufigsten eingesetzte, insbesondere als Benzin- und Dieselmotor.
+Sie macht den Großteil der Fahrzeug-Antriebe für Auto und Lkw, Diesellok, Panzer etc., kleine Flugzeuge und Motorsegler, Flug - und Motorboote, Yachten, Rasenmäher und viele weitere Anwendungen aus.
+
+Der Verbrennungsmotor ist mechanisch eine Weiterentwicklung der Dampfmaschine und hat, aus heutiger Sicht noch über Jahrzehnte, beste Voraussetzungen, weiter optimiert zu werden im Verbrauch, im Wirkungsgrad und in der Materialverwendung des Motors.
+Die Optimierung geschieht zum Teil durch andere Brennstoffe oder Arbeitsmittel wie Wasserstoff, bei denen fast reiner Wasserdampf entsteht, sowie durch kombinatorische Energie-Nutzungen bei Hybridantriebskonzepten.
+
+=== Gasturbinen
+
+Turbinen mit Verbrennungsgasen gehören wie die Dampfturbine zu den "Thermischen Fluidenergie-Maschinen", aber in die Gruppe der Verbrennungskraftmaschinen.
+Als Strömungsmaschinen gelten sie beide.
+
+Jede Gasturbine hat einen Turbokompressor, eine Brennkammer und eine Turbine, die meist über dieselbe Welle mit dem Verdichter mechanisch gekoppelt ist.
+Die vom Kompressor verdichtete Luft wird in der Brennkammer bei Temperaturen bis 1500 °C mit dem eingespritzten Treibstoff verbrannt.
+Die mit hoher Geschwindigkeit ausströmenden Verbrennungsgase treiben die Turbine an (bei Raketen entfällt sie).
+Die Turbine entzieht ihnen mindestens jene Strömungsenergie, die zum Antrieb des Verdichters nötig ist.
+Der Rest steht als nutzbare Energie zur Verfügung - entweder mechanische Energie zum Antrieb einer Welle (Elektrizitätswerk, Helikopter) oder als Rückstoß.
+
+==== Wirkungsgrad und Anwendungen
+
+Je heißer die Gase sind, desto höher ist der Wirkungsgrad von Gasturbinen.
+Hierin und in der idealen Form der Turbinenschaufeln liegen große Entwicklungsmöglichkeiten des Motorenbaus.
+Wesentlich hierbei ist die thermische Belastbarkeit von Schaufeln und Ummantelung.
+
+Anwendungen in der Luftfahrt sind durch das sehr gute Leistungs-Masse-Verhältnis der Gasturbinen gegeben, etwa als Triebwerk für Hubschrauber oder Turboprop-Flugzeuge.
+Die kinetische Energie der Brenngase ist aber auch für Rückstoß-Antrieb von Flugzeugen nutzbar.
+Bei Jets werden sogenannte Strahltriebwerke eingesetzt, deren Prinzip weitgehend der Gasturbine entspricht:
+Auf die drei Bauteile der reinen Gasturbine folgt eine Düse, durch die der Abgasstrahl austritt.
+Die Turbine erhält nur so viel Energie (Drehgeschwindigkeit), wie sie zum Antrieb des Verdichters benötigt.
+
+Anwendungen in der Schifffahrt:
+Hier kommt es weniger auf ein günstiges Verhältnis Leistung-Masse an als auf geringen Treibstoffverbrauch an.
+Deshalb hat der effizientere Dieselmotor, der im Gegensatz zur Gasturbine auch mit günstigem Schweröl betrieben werden kann, diese im zivilen Bereich verdrängt.
+Für militärische Anwendung wird sie wegen ihrer größeren Laufruhe gelegentlich eingesetzt.
+Auch für Luftkissenfahrzeuge wird oft die Gasturbine gewählt.
+
+Anwendung in Elektrizitätswerken (zwei Bauarten von Gasturbinen werden unterschieden):
+
+Bei einigen Turbinen kann der Anstellwinkel der Turbinenschaufeln verändert werden; siehe auch Variable-Turbinengeometrie-Lader.
+
+=== Stirlingmotor
+
+Der Stirlingmotor wandelt Wärmeenergie in mechanische Energie um, ohne dass dazu zwingend eine Verbrennung stattfinden muss.
+Für den Betrieb muss am Motor ein Temperaturunterschied vorhanden sein und erhalten bleiben.
+
+=== Raketenmotoren
+
+Raketenmotoren erzeugen in der Regel aus chemischer Energie über den Umweg der Wärmeenergie mechanische Energie.
+Siehe auch Rakete, Raketentechnik.
+Ausnahmen, die rein physikalisch arbeiten, sind:
+
+=== Elektromotor
+
+Die am häufigsten eingesetzten Motoren sind Elektromotoren.
+Antriebe der verschiedensten Größe und Leistung finden sich in praktisch allen Maschinen Geräten, Automaten und Produktionsmitteln - von miniaturisierten Servo- und Schrittmotoren über Geräte für Haushalt, Büro, Klima und Auto bis zu Industrieanlagen.
+
+Die Weiterentwicklung findet hier weniger im Motorbau selbst als in der Optimierung seiner Anwendung, z. B. durch leistungselektronische Steuerung, statt.
+
+Elektromotoren sind Energieumwandler, die elektrischen Strom in Rotations- oder lineare Bewegung (Linearmotor) umsetzen.
+Größere Asynchronmotoren sind oft genormt (DIN, Deutschland), was die Produktion und den Einsatz von Motoren vereinheitlicht.
+Europäische Elektro-Motorenprodukte unterliegen oft der der CEE-Norm.
+
+Elektromotoren gibt es für Gleichstrom, Wechselstrom und Drehstrom.
+Sie finden vor allem bei Industrieanlagen und für elektrische Maschinen Verwendung.
+Auch in Spielzeugen oder z. B. in PCs (Lüfter, Laufwerke, Festplatte) und in Haushaltsgeräten werden sie eingesetzt.
+
+Entwicklungstrends sind die Miniaturisierung und die Kombination mit Steuerungstechnik (Sensorik, Leistungselektronik).
+
+Neuere Entwicklungen betreffen die großtechnische Anwendung von Supraleitern, an der intensiv gearbeitet wird.
+Sie wird neben Leistungssteigerungen im Motorbau auch den Transformatorbau betreffen.
+
+Fast alle Elektromotoren können auch "umgekehrt" als Generatoren arbeiten, d. h. bei mechanischem Antrieb elektrische Energie erzeugen.
+Damit kann z. B. beim Bremsen oder bei Fahrstühlen Energie zurückgewonnen werden.
+
+Eine Sonderform von Elektroantrieben sind die Piezomotoren.
+
+==== Verordnung (EG) Nr. 640/2009 der Kommission
+
+Ineffiziente Motoren (IE1 und darunter) dürfen seit dem 16. Juni 2011 nicht mehr vertrieben werden.
+Ab 2015 sind durchschnittliche IE2 Motoren mit Nennausgangsleistung von 7,5 bis 375 kW nur noch mit Drehzahlregelung erlaubt.
+Alternativ können effiziente IE3 Motoren mit oder ohne Drehzahlregelung vertrieben werden.
+
+=== Hydraulikmotor
+
+Hydraulikmotoren arbeiten oft nach dem umgekehrten Prinzip einer Zahnradpumpe.
+Sie erzeugen eine Drehbewegung aus Druck und Strömung einer Hydraulikflüssigkeit.
+Sie sind vergleichsweise klein und können auch im Stillstand hohe Drehmomente erzeugen.
+Sie werden u. a. an Baggern, Tunnelbohrmaschinen und in der Landwirtschaft eingesetzt.
+
+Eine abgeleitete Variante ist in Strömungsgetrieben zu finden, wird dort jedoch nicht so genannt.
+
+=== Druckluftantriebe
+
+Druckluft wird zum Betrieb von Turbinen (z. B. zahnärztliche Turbinen (Bohrer), Zentrifugen) oder Kolbenmaschinen genutzt.
+
+== Geschichte
+
+Wasserkraft und die Windkraft spielen bei der Geschichte des Motors eine Rolle.
+Auch ein Wasserrad ist ein Motor, ein Energiewandler:
+Das Energieangebot von Wasser mit höherer Lage (potenzielle Energie) eines Teiches oder eines Flusses wurde mittels eines Wasserrades in eine Drehbewegung umgesetzt, um Mühlsteine (Wassermühle) oder ein Sägewerk anzutreiben.
+
+Ebenso ist ein Windrad ein Motor:
+Die Kraft der vorbeiströmenden Luft wird verwendet, um z. B. einen Mühlstein (Windmühle), eine Wasserpumpe oder einen Generator anzutreiben.
+
+Weitere historische Antriebe arbeiteten mit Muskelkraft von Tieren oder Menschen (siehe Göpel).
+Noch heute treiben in trockenen Ländern Menschen oder Tiere Pumpwerke an, um Wasser zu fördern.
+
+== Weblinks
+
+== Einzelnachweise
+

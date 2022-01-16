@@ -1,0 +1,236 @@
+Ein Patent ist ein hoheitlich erteiltes gewerbliches Schutzrecht für eine Erfindung.
+Der Inhaber des Patents ist berechtigt, anderen die Nutzung der Erfindung zu untersagen.
+Das Schutzrecht wird auf Zeit gewährt; in Deutschland gemäß § 16 Patentgesetz für 20 Jahre.
+
+Das deutsche Wort wurde im 17. Jahrhundert aus dem französischen patente ("Bestallungsbrief, Gewerbeschein") entlehnt.
+Dieses ist gekürzt aus lettre patente ("offener Brief") und geht auf das lateinische (littera) patens ("offener (Beglaubigungs-)Brief des Landesherrn") zurück.
+Ursprünglich war "eine Urkunde über bestimmte Rechte" gemeint, die heute überwiegende Bedeutung entwickelte sich mit dem modernen Patentwesen seit dem 19. Jahrhundert.
+Weltweit wurden im Jahr 2018 über 3,3 Millionen Patente beantragt.
+
+== Abgrenzung
+
+Im deutschen Sprachraum wird der Begriff "Patent" eindeutig für ein Schutzrecht auf eine technisch geprägte Erfindung verwendet.
+Im englischen Sprachraum kennt das US-Recht allerdings zwei Arten von Patenten, nämlich das utility patent und das design patent.
+Das utility patent ist ein Schutzrecht auf eine technische Erfindung, das design patent, im Englischen manchmal nur als design angesprochen, hingegen ein Schutzrecht auf Formen und Muster - eben auf ein Design.
+
+== Geschichte
+
+== Rechtsfamilien
+
+=== Deutscher Rechtskreis
+
+== Ökonomische Analyse
+
+Der Patenteigner hat das Recht, eine Nachahmung und Nutzung seiner geschützten Erfindung für einen bestimmten Zeitraum zu verhindern.
+Damit wird es ihm ermöglicht, einen monopolistischen Preis zu realisieren und nicht nur eine Kompensation für die Forschungs- und Entwicklungskosten der Erfindung, sondern auch einen Profit zu erhalten.
+
+Das grundsätzliche Problem, das der Patentschutz lösen soll, ist Marktversagen, das sich aus der positiven Externalität von Forschung ergibt:
+In der Regel liegt der soziale Nutzen einer Erfindung deutlich über dem privaten Nutzen.
+Deswegen würde die private Forschung allein zu wenig investieren.
+Zu schwache Eigentumsrechte führen zu suboptimalen Innovationsraten, weil Investoren unzureichend entlohnt werden.
+Der Staat kann dieses Marktversagen bekämpfen, indem er Forschung durch Steuergelder subventioniert, oder indem er geistige Eigentumsrechte definiert und schützt.
+Ein zu starker Eigentumsschutz ist jedoch ebenfalls nicht optimal, weil Erfindungen dann zu wenig genutzt und weiterentwickelt werden können.
+Die Stärke des Eigentumsschutzes variiert entlang verschiedener Dimensionen.
+Die Höhe definiert, welche Erfindungen geschützt werden können.
+Die Länge definiert, wie lange eine Erfindung geschützt werden kann.
+Die Tiefe definiert den Umfang der geschützten Aktivitäten.
+
+Es besteht also im Fall von Patenten ein Trade-off zwischen der Schaffung von Anreizen zur Forschung und Veröffentlichung von Erfindungen einerseits, und der Einschränkung der Nutzung geschützter Erfindungen während der Patentlaufzeit andererseits.
+Neben der Einschränkung der praktischen Nutzung von Erfindungen gibt es auch negative Auswirkungen auf die Geschwindigkeit der Weiterentwicklung des wissenschaftlichen Kenntnisstands (seit Ende der 1990er Jahre unter dem Begriff Anti-Allmende diskutiert):
+Wenn neue wissenschaftliche Erkenntnisse und Methoden patentrechtlich geschützt werden, wird es anderen Forschern erschwert, die Methoden zu nutzen und auf diesem Wissen aufzubauen.
+
+=== Innovationsraten
+
+Wie sich Patente auf den wissenschaftlichen und technischen Fortschritt (bzw. Grundlagenforschung und angewandte Forschung) auswirken, ist nicht abschließend geklärt.
+Patente auf Genfragmente könnten die Forschung aufhalten, weil eine Firma, die diese Genfragmente nutzen will, unter Umständen erst mehrere Lizenzen von verschiedenen Patenteignern erwerben muss.
+Das Gleiche gilt für die Patentierung grundlegender biotechnologischer Konzepte, die für die weitere Forschung wichtig sind, siehe Biopatent.
+
+Laut einem empirischen Test der Anti-Allmende für die Biowissenschaften liegt ein mäßiger negativer Effekt auf die Grundlagenforschung vor (gemessen in Zitationen).
+Dabei ist unklar, welcher Mechanismus dem veränderten Zitationsverhalten zugrunde liegt.
+Möglicherweise verschiebt ein Patentschutz lediglich den Fokus anderer Forscher auf andere, gut substituierbare Projekte; dies würde einen geringen negativen Effekt durch Patente implizieren.
+Unklar ist zweitens, ob vor allem diejenigen Wissenschaftler betroffen waren, die die mit dem später erteilten Patentschutz assoziierte Publikation bereits vorher zitiert hatten, oder ob die Reduktion in erster Linie auf eine Beschränkung von potenziell erstmaligen Zitationen zurückzuführen ist.
+
+Eine internationale Analyse von 177 patentrelevanten Politikmaßnahmen in 60 Ländern über 150 Jahre kam zu dem Ergebnis, dass eine Ausweitung des Patentschutzes Innovation (gemessen im Patentindex) fördert, wenn der Patentschutz anfangs schwach war; sie dagegen behindert, wenn der Patentschutz anfangs stark war.
+
+Einer weiteren Studie zufolge kann eine mit einem starken Patentrecht assoziierte geringere Zahl von Patenten allerdings einen größeren sozialen Nutzen haben als die mit einem schwachen Patentrecht assoziierte größere Zahl von Patenten, wenn ein größerer Anteil der kleineren Zahl von Erfindungen weiterentwickelt wird und den Produktmarkt erreichen.
+
+=== Bekanntgabe
+
+Ein Erfinder hat die Möglichkeit, seine Erfindung entweder geheim zu halten oder der Öffentlichkeit preiszugeben.
+Eine Patentanmeldung (und damit die darin beschriebene Erfindung) wird durch das jeweilige Patentamt publiziert.
+Abgesehen von eher exotischen, geheimzuhaltenden Gebieten ist Patentschutz nur mit einer Veröffentlichung der Erfindung möglich.
+Da ein Patent die Verwendung der Erfindung durch Dritte einschränkt, steigt mit der Möglichkeit Patentschutz zu erlangen die Wahrscheinlichkeit, dass Erfindungen bekanntgegeben werden.
+Eine Bekanntgabe ist aus mehreren Gründen sozial vorteilhaft gegenüber einer Geheimhaltung:
+Nach dem Auslaufen des Patentschutzes (spätestens nach Ablauf der Höchstlaufzeit von üblicherweise 20 Jahren) kann jeder die Erfindung frei nutzen.
+Zudem verringert eine Bekanntgabe die Wahrscheinlichkeit, dass mehrere Wissenschaftler an derselben Erfindung arbeiten, obwohl es effizienter wäre, wenn sie an unterschiedlichen Projekten forschten.
+Drittens kann eine Bekanntgabe neue Ideen inspirieren.
+Aus diesen Gründen können Patente einen gesellschaftlichen Nutzen bringen, selbst wenn sie nicht die Innovationsraten steigern sollten.
+
+Einer Umfrage unter US-amerikanischen und japanischen Firmen zufolge sind die mit der Bekanntgabe assoziierten Spillover relativ gering, da in schnell voranschreitenden Technologiebereichen die Informationen zum Zeitpunkt der Patentvergabe bereits größtenteils veraltet sind.
+Allerdings können Unternehmen durchaus anhand von Patentanmeldungen von Wettbewerbern einen Hinweis auf deren technische Entwicklungsrichtungen erhalten.
+
+=== Technologietransfer
+
+Nachdem ein Patenteigner einen Schutz auf seine Erfindung erhalten hat, kann er entscheiden, ob er die Erfindung selbst nutzt oder das Nutzungsrecht durch eine Lizenzierung an Andere überträgt.
+Empirische Studien zeigen, dass die Stärke des Patentschutzes einen wichtigen, positiven Einfluss in Richtung der Lizenzierung ausübt.
+Starke Patentrechte fördern die vertikale Integration und Arbeitsteilung, da sie die Transaktionskosten von Übertragungsverhandlungen reduzieren.
+In der Halbleiterbranche bildeten sich auf Chipdesign spezialisierte Firmen heraus, nachdem das Patentrecht gestärkt wurde.
+Im Biotechnologie-Sektor wird beobachtet, dass etablierte Pharmakonzerne mit kleinen und jungen Unternehmen arbeitsteilig kooperieren.
+
+Insofern korrigiert ein Patent seine Schwäche, Dritte von einer Nutzung von Erfindungen auszuschließen, zu einem gewissen Grad selbst:
+Ein stärkeres Ausschlussrecht fördert den Transfer von Erfindungen.
+Der Bayh-Dole Act in den USA, der Universitäten ein Patentrecht auf durch öffentliche Mittel finanzierte Erfindungen erlaubte, begünstigte den Austausch von Erfindungen zwischen Universitäten und dem Privatsektor.
+
+Andererseits kann ein stärkeres Patentrecht auch wettbewerbsschädliche Prozesse fördern, wie Kollusion (z. B. durch Kreuzlizenzierungen) und Unternehmenskonzentration.
+Insbesondere in der der Landwirtschaft vorgelagerten Industrie wurden in den 1990er Jahren viele unabhängige Biotechnologie-Firmen von großen Chemiekonzernen übernommen, so Calgene und Asgrow durch Monsanto, Mycogen durch Dow, oder Pioneer durch DuPont.
+
+== Betriebswirtschaftliche Aspekte
+
+=== Ökonomische Modellierung der Frage der Patentierung
+
+Bei dieser Fragestellung geht es um die Frage, ob ein Marktakteur ein Patent anmelden soll oder nicht.
+Dies geschieht unter Prämisse eines gegebenen, wirtschaftlich rational gestalteten Patentsystems.
+
+Eine Patentanmeldung kann in einem bestimmten Entwicklungsbereich (Technik, Software, Pflanzensorten etc.) dann für einen Marktakteur sinnvoll sein, wenn die Entwicklungskosten (die Kosten, die zur Entwicklung der Erfindung notwendig sind) erheblich höher sind als die Plagiierungskosten (die Kosten, die zur Entwicklung einer Kopie der Erfindung notwendig sind).
+Denn nur dann erleidet der Erfinder einen Nachteil, der durch das zeitlich begrenzte Monopol des Erstanbieters eines Produktes basierend auf der Erfindung nicht in jedem Falle ausgeglichen werden kann.
+Diese Kostenstruktur unterscheidet sich je nach Entwicklungsbereich stark:
+
+So sind Entwicklungsprozesse in der Technik langwierig.
+Man muss unter Umständen viele Materialien ausprobieren und mehrere Prototypen entwickeln, bis ein optimales Verfahren gefunden wird.
+Bei Medikamenten dauert es oft Jahre, bis eine gute Wirkstoffkombination gefunden wird.
+Diese optimale Lösung wird aber durch Markteintritt schnell bekannt und kann so leicht kopiert werden.
+So ist in der Technik die Entwicklungszeit viel größer (zum Beispiel 7 Jahre) als die Zeit zum Kopieren nach Markteintritt (zum Beispiel 6 Monate).
+
+Im Rahmen der normativen Gestaltungsfrage des Patentrechtes ist die häufig im juristischen Bereich verwendete Eigentumstheorie/naturrechtliche Argumentation aus ökonomischer Sicht unzulässig, da sich mit ihr keine rationale ökonomische Abgrenzung vornehmen lässt (im Sinne eines Trade-offs von Vorteilen und Nachteilen).
+
+=== Kosten der Patentierung
+
+Durch eine Patentanmeldung entstehen in der Regel drei Kostenarten:
+Amtsgebühren während des Anmeldeprozesses, Honorare für Patentanwälte und sonstige Dienstleister wie Patentrechercheure oder Übersetzer sowie jährliche Amtsgebühren zur Verlängerung des Patentschutzes.
+Die tatsächliche Höhe der Kosten hängt weniger von der zu patentierenden Erfindung, sondern vom angestrebten geographischen Umfang des Patentschutzes, der Inanspruchnahme eines Anwaltes und eventuellen Einsprüchen ab, die begründet und abgewehrt werden müssen.
+Bei einer nationalen Anmeldung können so Kosten von 5.000 € bis zur Erteilung entstehen.
+Eine Anmeldung am Europäischen Patentamt kann unter Umständen Kosten von 10.000 € verursachen und zieht weitere Kosten für die nationale Validierung nach sich.
+Es können 100.000 € und mehr entstehen, wenn die Erfindung in vielen nationalen Märkten geschützt wird.
+Zusätzlich können zudem eventuell Kosten zur Verteidigung bzw. Durchsetzung des Patentschutzes entstehen.
+
+=== Geschäftsgeheimnis
+
+Neben der Patentierung einer Erfindung gibt es auch die Möglichkeit, diese Erfindung geheim zu halten (Betriebsgeheimnis).
+Dies ist nur möglich, wenn die Erfindung nicht in einem Produkt erkennbar ist.
+
+=== Handelbare Wirtschaftsgüter
+
+Patente sind buchhalterisch erfassbar und können einen Marktwert besitzen.
+
+Sie dienen der Information von Marktkonkurrenten über technisches Wissen und Lizenzierungsmöglichkeiten:
+So wird Dritten Doppelarbeit bei der Innovation erspart, während der Patentinhaber seine Erfindung im Wege der Lizenzierung risikoarm kommerzialisieren kann.
+Außerdem werden Dritte mit der Schutzrechtslage über drohende Ansprüche wegen Patentverletzung informiert.
+
+Patente sind auch Basis für Kooperationen:
+Patentierte Erfindungen können in einen arbeitsteiligen Innovationsprozess oder als Einlage in eine zu gründende Gesellschaft eingebracht werden.
+
+Bei Insolvenzen von Patente haltenden Unternehmen besteht mitunter das Problem, dass die Patente an die Gläubiger verpfändet wurden, was die Weiterführung der Geschäfte durch den Insolvenzverwalter oder den Verkauf des insolventen Unternehmens erschwert oder sogar unmöglich macht.
+
+=== Imageeffekt
+
+Patente werden oftmals zu Werbezwecken verwendet.
+Bezeichnungen wie "patentiert" oder engl. "patent pending" assoziieren eine höhere Qualität und können damit auch höhere Produktpreise rechtfertigen.
+Die ETH Zürich wirbt als Bildungsanbieter mit 90 Patentanmeldungen und 200 Erfindungsmeldungen pro Jahr.
+
+=== Patentstrategien
+
+Innovative Unternehmen, die ihre Entwicklungen gegen Nachahmung schützen möchten, versuchen einen Patentschutz für solche Produkte und Verfahren zu erreichen, welche zu einem wirtschaftlichen, technischen oder auch nur einem Marketingvorteil führen, um sich so einen Wettbewerbsvorteil zu verschaffen.
+Ein umfassender Patentbestand eines Unternehmens kann zudem dann hilfreich sein, wenn das Unternehmen von einem Patent eines Wettbewerbers Gebrauch machen möchte (Kreuzlizenzierung), da es im Gegenzug dem Wettbewerber die Benutzung eines oder mehrerer seiner Patente anbieten kann.
+
+Die alternative Strategie für ein Unternehmen, anstelle von Patentanmeldungen zu versuchen, Entwicklungen geheim zu halten, ist in Zeiten von steigender Mitarbeiterfluktuation riskant, da die Gefahr des Bekanntwerdens der Entwicklung außerhalb des Unternehmens groß ist.
+Zudem besteht die Gefahr, dass ein Wettbewerber unabhängig dieselben Entwicklungen macht und seinerseits zum Patent anmeldet.
+Zwar räumen eine Reihe von Ländern dem bereits nutzenden Unternehmen ein sogenanntes Vorbenutzungsrecht ein, dies ist jedoch nicht in allen Ländern der Fall, so dass bei Geheimhaltung sogar die Gefahr droht, dass der Wettbewerber die Nutzung der Entwicklung verbieten kann.
+
+Wenn einerseits der Aufwand zur Erlangung eines Patentschutzes vermieden werden soll, gleichzeitig aber verhindert werden soll, dass ein Wettbewerber, der beispielsweise unabhängig dieselbe Entwicklung macht, ein Patent auf diese Technologie erhält, kann eine Sperrveröffentlichung getätigt werden.
+
+Eine nicht immer scharfe Trennung von Patentarten lautet wie folgt: Vorratspatente werden für Erfindungen angemeldet, deren wirtschaftliche Verwertbarkeit zum Zeitpunkt der Anmeldung noch nicht feststeht.
+Vorratspatente, die lediglich bestehende Patente verbessern, werden als Ausbaupatente bezeichnet.
+Solche Vorratspatente tragen natürlich zu einem Ausbau des eigenen Patentbestands bei (siehe oben).
+
+Als Sperrpatente (nicht zu verwechseln mit der oben genannten Sperrveröffentlichung) werden solche Patente bezeichnet, die vom Patentinhaber nicht genutzt werden, sondern lediglich Dritten den Eintritt in ein bestimmtes Marktsegment verwehren sollen.
+
+Gemeinnützige Verbände (zum Beispiel DVS) und Organisationen (zum Beispiel DIN) erstellen zur Vereinheitlichung von Produkten und Verfahren Normen und Standards.
+In den jeweiligen Ausschüssen arbeiten die Industrie, das Handwerk, Forschungseinrichtungen und Einzelpersonen gleichberechtigt mit.
+Die erstellten Schriftstücke werden der Öffentlichkeit während einer Einspruchsfrist vorgestellt.
+Einwände und Verbesserungsvorschläge müssen vom Ausschuss behandelt werden.
+Produkte und Verfahren, die in einer Norm oder einem Standard beschrieben worden sind, lassen sich nicht patentieren, da sie veröffentlicht sind.
+Mitunter wird befürchtet, dass eine Firma ein patentiertes Verfahren in einen Standardisierungsprozess einbringen und erst hinterher verraten wird, dass sie auf den erarbeiteten Standard Patente hält, um so durch die Standardisierung den eigenen Absatz zu steigern (siehe auch: standardessentielles Patent - Verfahren vor dem EuGH in der Rs. C-170/13 (Huawei gegen ZTE) und die Schlussanträge in diesem Vorabentscheidungsverfahren durch den Generalanwalt Wathelet vom 20. November 2014, unter anderem im Hinblick auf einen möglichen Missbrauch einer marktbeherrschenden Stellung).
+
+Es besteht jedoch grundsätzlich die Möglichkeit, dass bei öffentlichem Interesse eine Zwangslizenz erteilt wird, wenn der Patentinhaber zuvor die Einräumung einer Lizenz gegen eine angemessene Lizenzgebühr verweigert hat.
+
+== Rechtliche Aspekte
+
+Zu Patenten kann man drei wesentliche materiellrechtliche Aspekte unterscheiden:
+
+=== Recht auf das Patent: Patentierung
+
+==== Materielle Voraussetzungen
+
+Damit eine Erfindung patentiert wird bzw. ein einmal erteiltes Patent rechtsbeständig ist, müssen eine Reihe von materiellen Voraussetzungen vorliegen:
+
+==== Verfahren zur Patenterteilung
+
+Es gibt zwei qualitativ unterschiedliche Systemauslegungen:
+Systeme mit Prüfung einer Patentanmeldung vor Erteilung und Systeme mit sofortiger Patentierung, bei denen erst im möglichen Verletzungsverfahren überprüft wird, ob die Erfindung patentfähig ist.
+Die großen Patentsysteme auf der Welt sind mit Prüfungsverfahren vor Erteilung ausgestattet, insbesondere die in Deutschland, England, Europa, USA, Japan und China.
+
+Für das Prüfungsverfahren gibt es die jeweiligen Patentämter, in denen technisch ausgebildete Prüfer die obigen materiellen Kriterien und daneben auch andere vorgeschriebene Kriterien überprüfen.
+Wenn eine angemeldete Erfindung den Kriterien genügt, wird sie zum Patent erteilt, andernfalls zurückgewiesen.
+
+Die Rechtsbeständigkeit eines Patents kann auch nach Erteilung jederzeit notfalls gerichtlich überprüft werden.
+
+Das Patenterteilungsverfahren nennt sich im US-Jargon "patent prosecution".
+
+==== Verfahren nach Patenterteilung
+
+Die meisten Patentsysteme lassen auch nach Erteilung eines Patents die förmliche Überprüfung der Schutzwürdigkeit des Patents zu.
+Es gibt hierzu beispielsweise das Einspruchsverfahren oder die Nichtigkeitsklage.
+
+=== Recht aus dem Patent: Der Schutz aus dem Patent
+
+==== Rechtliche Schutzwirkung
+
+Patente sind nicht Erlaubnisse, etwas tun zu dürfen, sondern Verbietungsrechte.
+Sie entfalten einen Schutzbereich, innerhalb dessen die Erfindung von niemandem außer dem Patentinhaber bzw. von anderen nur mit Genehmigung des Patentinhabers (Lizenz) genutzt werden darf.
+
+Wenn doch Patentverletzung stattgefunden hat, können dem Inhaber einzelfallabhängig einer oder mehrere der folgende Ansprüche gegen den Verletzer zustehen:
+
+==== Patentverletzung
+
+Als Patentverletzung bezeichnet man die unrechtmäßige Nutzung von Patenten.
+Dies kann unabsichtlich sowie vorsätzlich geschehen, wenn eine Technologie, die noch einem Schutzrecht untersteht, ohne Lizenz genutzt wird.
+Nach deutschem Patentrecht muss die jeweilige Technologie noch im verletzten Bereich erteilt sein.
+Bei Verdacht auf eine Patentverletzung kann diese von einem Patentanwalt begutachtet werden.
+Bindende Festlegungen können aber nur die Gerichte erlassen.
+In Deutschland sind zwölf Zivilgerichte mit Patentstreitkammern speziell auf Patentstreitigkeiten ausgerichtet.
+
+=== Inhaberschaft
+
+Erfindungen werden rechtlich als Artefakte mit "Werkcharakter" angesehen, also als Artefakte, die maßgeblich durch die Bemühungen, das Wissen, die Erfahrung und die Anstrengungen, insgesamt also durch die Persönlichkeit des/der sie schaffenden Menschen (Erfinder) geprägt sind.
+Dieser Werkcharakter führt dazu, dass den Erfindern Rechte an ihrer Erfindung zugestanden werden.
+Die folgende Systematik hierzu ist in allen wichtigen Patentsystemen auf der Welt implementiert:
+
+Deutschsprachige Terminologie dazu:
+
+== Anzahl Patente
+
+=== Österreich
+
+2015 wurden beim Patentamt in Österreich fast 10.000 Erfindungen eingereicht, 5 % mehr als 2014.
+3.000 Patente wurden angemeldet, die Hälfte davon wurde patentiert.
+Die meisten Patentanmeldungen gab es in Oberösterreich (544), gefolgt von Wien (419) und der Steiermark (371).
+Die Unternehmen, die die meisten Patente einreichten waren AVL List (Verbrennungsmotorenentwicklung), Zumtobel (Leuchten) und ihre Tochter Tridonic.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

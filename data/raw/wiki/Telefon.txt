@@ -1,0 +1,216 @@
+Ein Telefon, früher auch Telephon (von altgriechisch  tele "fern" und v phone "Laut, Ton, Stimme, Sprache"; Begriff geprägt von Philipp Reis), auch Fernsprechapparat (FeAp) oder Fernsprecher (bahninterne Abkürzung Fspr) genannt, ist ein Kommunikationsmittel zur Übermittlung von Tönen und speziell von Sprache mittels elektrischer Signale.
+Die Begriffe Fernsprecher und Fernsprechapparat gehen auf das Wirken des Generalpostdirektors und Sprachpflegers Heinrich von Stephan zurück.
+Zur Unterscheidung vom Mobiltelefon wird heute auch häufig das Retronym Festnetztelefon verwendet.
+
+Umgangssprachlich wird mit dem Begriff "Telefon" neben dem Endgerät des Telefonnetzes oft auch das Gesamt-Telefonsystem bezeichnet.
+In der Schweiz ist mit "Telefon" oft auch ein Telefongespräch (Telefonat) gemeint: "Geben Sie mir ein Telefon" bedeutet dann "Rufen Sie mich an".
+
+Das Telefonsystem enthält drei Hauptkomponenten:
+
+== Geschichte der Entwicklung des Telefons
+
+== Telefonapparat - Technik
+
+In Telefonapparaten wird der Schall durch ein Mikrofon in elektrische Signale gewandelt und beim Empfänger wieder als Schallwelle ausgegeben.
+
+Die Schallumwandlung auf der Senderseite erfolgt unter Ausnutzung verschiedener physikalischer Effekte.
+So ändert sich bei einem Kohlemikrofon durch Einwirkung von Schallwellen der elektrische Widerstand von lose aufgeschütteten Kohlekörnern.
+Ein Piezo-Mikrofon erzeugt die Spannung durch den Piezoeffekt.
+Mikrofone nach dem elektrostatischen Prinzip (Elektretmikrofon) werden unter anderem vom Hersteller Ericsson verwendet.
+Manchmal erzeugt auch eine Membran-Spulen-Anordnung unter Ausnutzung der elektromagnetischen Induktion die Signalspannung.
+Oft werden die Signale durch eine in die Mikrofonkapsel integrierte Elektronik gleich verstärkt.
+
+Auf der Empfangsseite sind Bauteile nach dem Membran-Spule-Prinzip (elektromagnetischer Wandler) eingesetzt.
+Piezoelektrische Hörkapseln finden ebenso Anwendung.
+Welche Wandler zum Einsatz kommen, hängt vom Baujahr und der Preisklasse des Gerätes ab.
+Der Frequenzbereich des übertragenen Schalls entspricht nicht dem gesamten Bereich, der vom Menschen gehört werden kann, aus Gründen der Wirtschaftlichkeit der Signalübertragung ist er oft von 300 bis 3400 Hertz eingeschränkt.
+Eine ausreichende Silbenverständlichkeit ist bereits gegeben, wenn die obere Übertragungsfrequenz einige Kilohertz und die untere wenige hundert Hertz beträgt.
+In den Anfangszeiten der Fernmeldetechnik wurden dazu umfangreiche Untersuchungen durchgeführt.
+
+Weitere Komponenten steuern den Verbindungsablauf.
+Das sind Gabelumschalter, Nummernschalter bzw. Tastenwahlblock für den automatischen oder halbautomatischen Verbindungsaufbau, der Kurbelinduktor beim manuellen Verbindungsaufbau (oft im OB-Betrieb), Rückfragetaste und besonders im Bereich der Telefonanlagen zahlreiche weitere Bedienelemente.
+Wichtige Begriffe beim Ausbau des immer engmaschigeren Telefonnetzes sind Vermittlungstechnik und Selbstwählferndienst.
+
+Schließlich besitzt ein Telefon eine Klingel.
+Früher arbeitete diese elektromagnetisch, durch einen Kondensator von der Telefonnetz-Gleichspannung entkoppelt, direkt an der zur Signalisation bereitgestellten, der Gleichspannung überlagerten Ruf-Wechselspannung von 25 Hz (Deutschland).
+Heute erfolgt die Auswertung dieser bei analogen Telefonanschlüssen auch heute noch verwendeten Rufspannung meist elektronisch.
+
+== Übertragungsmedium und verwendete Technik
+
+=== Kabeltelefone, das Kabelnetz
+
+Die gleichzeitige Signalübertragung in beiden Richtungen in zwei Adern wird mit einem Differentialtransformator (siehe Gabelschaltung) realisiert.
+Damit wird verhindert, dass man sich im Telefonhörer übermäßig selbst hört.
+Man nennt das auch Rückhördämpfung.
+
+Weiterhin enthalten Telefone einen Generator zur Erzeugung der Wählimpulse (Wählscheibe oder elektronisch) beziehungsweise der modulierten Töne des Mehrfrequenzwahlverfahrens (MFV).
+Die Hör- und Sprechkapseln enthalten einfache Mikrofone beziehungsweise Lautsprecher, ähnlich wie in Kopfhörern.
+
+Von der Teilnehmeranschlussleitung gelangt von der Vermittlungsstelle eine Gleichspannung (etwa 60 V) über Widerstände zum Telefon.
+Im aufgelegten Zustand fließt im Telefon kein nennenswerter Strom - es ist hochohmig.
+Wird der Telefonhörer abgehoben, bricht diese Spannung auf einen definierten Wert (etwa 12 V) zusammen, da das Telefon nun mit einem Widerstand von etwa 600 Ohm an die Leitung geschaltet ist.
+Diese Spannung dient als Speisespannung (früher diente sie lediglich der Speisung des Kohlemikrofons) und signalisiert zugleich den Zustand wie auch beim (veralteten) Impulswahlverfahren die Wählimpulse (diese unterbrechen den Stromkreis periodisch).
+Bevor die Gegenseite das Gespräch annimmt, wird zum anrufenden Telefon ein Tonsignal gesandt (Wählton oder Besetztton, siehe Hörtöne), gleichzeitig wird von der Vermittlungsstelle zum klingelnden Telefon eine der Gleichspannung überlagerte Wechselspannung niedriger Frequenz (in Deutschland 25 Hz) gesandt (Rufspannung).
+Diese Wechselspannung erregte früher direkt ein elektromagnetisches Läutwerk, heute wird sie vom Telefon elektronisch detektiert und kann auch elektronisch erzeugte Klingeltöne steuern.
+
+Bis heute werden Telefone hauptsächlich über die Kabelnetze der Telefongesellschaften an die Ortsvermittlungsstellen angeschaltet.
+Zu Anfang liefen von jedem Telefon zwei Drähte an Telegraphenmasten zu einer Zentralstelle, wo sie auf Glühlampen - oder Klappenschränken abgeschlossen wurden.
+Bei diesem Prinzip gab es bald die von historischen Fotos bekannten unübersehbaren Gewirre von Leitungen und Telegraphenmasten an den Straßen, 50 Leitungen an Doppel- und Dreifachgestängen waren nichts Ungewöhnliches.
+
+Wegen der hohen Störanfälligkeit begann man in Deutschland im Frühjahr 1876 damit, das gesamte Telegrafen-Fernliniennetz als Kabelnetz unterirdisch zu verlegen.
+Das Vorhaben wurde 1881 vorläufig abgeschlossen, 30 Millionen Mark waren verbaut worden.
+Den Anfang des Europäischen Kabelnetzes im Fernsprech-Weitverkehr machte 1913/14 die Verlegung des sog. Rheinlandkabels von Berlin bis Hannover, das wegen Ausbruch des Ersten Weltkrieges zunächst nicht weitergeführt wurde.
+
+Vor allem durch die Autotelefone und Mobiltelefone werden zunehmend auch kabellose Funkkanäle für die Telefonie benutzt.
+
+Die klassischen Telefone werden seit den 2010er Jahren immer stärker durch IP-Telefonie abgelöst.
+
+=== Satellitentelefon
+
+Seit 1982 ist mit Satellitentelefonen ein System verfügbar, mit dem ohne flächendeckende erdgebundene Infrastruktur weltweit telefoniert werden kann.
+
+=== Schnurlostelefone, DECT
+
+Digital Enhanced Cordless Telecommunications (DECT, Digitale, verbesserte schnurlose Telekommunikation; bis 1995 Digital European Cordless Telephony) ist der aktuelle Standard für Schnurlostelefone.
+Dabei wird ab einer Basisstation für den Gesprächsaufbau wieder das Kabelnetz benutzt.
+Nur zwischen Basisstation und Handapparat findet Funkbetrieb statt.
+
+"Schnurlostelefon" entspricht dem englischen Begriff Cordless Telephone, abgekürzt CT.
+Unter dieser Bezeichnung wurden zunächst ab 1984 zwei standardisierte Techniken auf den Markt gebracht, CT1 und CT2. CT1 definiert sich über ein schnurloses Telefon mit 80 analogen Duplex-Kanälen und einem Organisationskanal.
+CT2 hatte 40 Duplex-Kanäle und arbeitete mit einem digitalen Übertragungsverfahren.
+CT1-Telefone sind in Deutschland nicht mehr zugelassen, seit 2009 gilt das auch für CT1+- und CT2-Telefone, seit dem 1. Januar 2003 sind Störungen durch andere Funkdienste möglich.
+Die Benutzung eines Telefons mit CT1+- oder CT2-Standard ab Januar 2009 stellt einen Verstoß gegen das Telekommunikationsgesetz dar.
+Der Besitzer des Telefons kann durch Messungen ermittelt und mit einem Bußgeld belegt werden, das laut Bundesnetzagentur mehr als 1000 Euro betragen kann.
+Laut einer Aussage der Bundesregierung von 2008 wird der Betrieb jedoch geduldet, solange keine Störung durch das Gerät erfolgt.
+
+=== Mobiltelefonie
+
+Das Mobiltelefon, ugs.
+"Handy", ist ein tragbares Telefon, das über Funk mit dem Telefonnetz kommuniziert und daher ortsunabhängig eingesetzt werden kann.
+
+=== HD-Telefonie
+
+HD-Telefonie ist eine Tonübertragung, die eine noch höhere Qualität hat.
+Grundvoraussetzung dafür ist, dass beide Telefonanschlüsse dazu fähig sind.
+
+== Telefonvertrag
+
+Um Fernkommunikation mittels eines Telefons betreiben zu können, bedarf es der Freischaltung in ein Telefonnetz.
+Die dadurch entstehenden Kosten werden gegenüber dem Telefonkunden durch die Telefongesellschaften abgerechnet.
+Grundlage für die Bezahlung ist der dabei geschlossene Telefonvertrag.
+Dieser ist eine Mischung aus Dienst-, Werk- und gegebenenfalls Kaufvertrag.
+Da Telekommunikation der Regulierung der Bundesnetzagentur unterliegt, wird die zivilrechtliche Vertragsfreiheit durch Öffentliches Recht und daraus folgenden Regulierungsmaßnahmen eingeschränkt.
+
+== Geschichte des Telefons
+
+Bevor sich die Sprachübertragung mittels elektrischer Signale durchsetzte, gab es mehr oder weniger erfolgreiche Versuche für nicht elektrisches Fernsprechen.
+Um 1670 stellte Samuel Morland in London Versuche an, Sprache mit Instrumenten zu übertragen, die einer Trompete ähnelten.
+Die Idee wurde etwa 100 Jahre später von Johann Heinrich Lambert nochmals aufgegriffen.
+1783 erschien in Paris anonym ein Prospekt unter dem Titel Über die Fortpflanzung des Schalls und der Stimme in Röhren .
+Damit sollten Mittel für einen Großversuch eingeworben werden.
+Das Projekt kam bei einem geschätzten Stationsabstand von vier Kilometer und wegen der damit verbundenen hohen Störanfälligkeit nicht zum Tragen.
+Im 19. Jahrhundert wurden Sprechrohrleitungen dann für lange Zeit in der Dampfschifffahrt z. B. für die Verbindung der Kommandobrücke mit dem Maschinenraum eingesetzt.
+
+Die Geschichte des Telefons beginnt 1837, als der US-Amerikaner Samuel F. B. Morse den Morsetelegraphen konstruierte.
+Damit wurde die für das Telefon wichtige Vorbedingung der Übermittlung von Signalen durch elektrische Leitungen bereits in die Praxis umgesetzt.
+1854 legte der Pariser Telegraphenbeamte Charles Bourseul (1829-1912) ein Referat über mögliche Techniken der elektrischen Sprachübertragung vor.
+Dem folgten praktische Entwicklungen von prinzipiell funktionierenden Telefonapparaten unter anderem von Innocenzo Manzetti, Antonio Meucci, Tivadar Puskas, Philipp Reis, Elisha Gray und Alexander Graham Bell.
+Von diesen frühen Erfindern hatte jedoch nur Bell die organisatorischen Fähigkeiten, das Telefon über die Labor-Versuchsapparatur hinaus als Gesamtsystem zur Marktreife zu bringen.
+So brachte Bell 1876 in Boston das Telefon erstmals zur praktischen Anwendung.
+
+Bells Gerät bestand aus einem Wandler, der abwechselnd als Mikrofon und als Fernhörer benutzt wurde.
+Es besaß eine biegsame Metallmembran, einen Stabmagneten und eine den Magneten umschließende Drahtspule.
+Die beim Besprechen erzeugten unterschiedlich starken Schallwellen versetzten die Membran in Schwingung.
+Durch den geänderten Magnetfluss wurden in der Spule elektrische Spannungen induziert.
+Die auf diese Weise in elektrische Signale umgewandelten Schallwellen wurden über eine Drahtverbindung zum Empfängertelefon weitergeleitet.
+In dessen Wandler fand nun der umgekehrte Prozess statt.
+Der ankommende modulierte Strom erzeugte ein veränderliches magnetisches Feld, das die Membran in Schwingungen versetzte, wodurch wieder Schallwellen entstanden.
+
+Mit Geräten dieser Art wurden am 26. Oktober 1877 in Berlin unter der Regie von Generalpostmeister Heinrich von Stephan und Generaltelegraphendirektor Budde erfolgreiche Übertragungsversuche über zunächst 6 km, dann 26 km und zuletzt 61 km durchgeführt.
+Stephan ließ nach diesen ersten Versuchen weitere Bell-Telefone von der Firma Siemens & Halske anfertigen.
+Diese Ereignisse kennzeichneten den Beginn der einsatzfähigen Telefonie in Deutschland.
+
+Mit der Erfindung des Kohlemikrofons 1878 durch David Edward Hughes in Verbindung mit der Verbesserung des Hörers durch Werner von Siemens wurde eine wesentlich lautere Übertragung und damit Gespräche über größere Entfernungen möglich (Demonstration auf der Internationalen Elektrischen Ausstellung 1883.) Für den Aufbau von Telefonverbindungen wurde zunächst die sogenannte Handvermittlung durch das "Fräulein vom Amt" eingesetzt.
+
+Um dem Anwender die Möglichkeit zu geben, selbst seine Verbindung aufzubauen (Selbstwähldienst), begann Almon Strowger 1888 mit der Entwicklung eines automatischen Telefonvermittlungssystems.
+Am 10. März 1891 patentierte Strowger, der von Beruf eigentlich Bestatter war, dieses Vermittlungssystem (Automatic Telephone Exchange) unter der US Patent No.
+447,918. Überlieferungen zufolge wurde Strowger zu der Entwicklung eines automatischen Vermittlungssystems angeregt, weil ihm ein konkurrierendes Bestattungsunternehmen gemeinsam mit dem örtlichen "Fräulein vom Amt" die eingehenden Kundenaufträge wegnahm.
+Bei diesem System waren im Telefon für die Einer-, Zehner- und Hunderterstelle der zu wählenden Rufnummer je eine Taste montiert, die der Ziffer entsprechend oft gedrückt werden musste.
+Die Bedienung war entsprechend umständlich und fehleranfällig und der Installationsaufwand hoch, da jede Taste über eine eigene Leitung mit der Vermittlungsstelle verbunden war.
+
+Weitere Selbstwahleinrichtungen für das Telefon folgten, wie der am 11. Januar 1898 von A. E. Keith und den Brüdern John und Charles J. Erickson, die Mitarbeiter der Strowger Automatic Telephone Exchange Company waren, unter der US patent No.
+597,062 patentierte Strowger finger-wheel sub station dial.
+Durch dieses Gerät wurde die Anzahl der Leitungsadern zur Übertragung der Wahlinformationen auf zwei reduziert.
+
+Am 29. April 1913 patentierte die Firma Siemens & Halske den über lange Zeit in Telefonen gebräuchlichen Nummernschalter, der nach dem Impulswahlverfahren arbeitete.
+Der Einsatz von Nummernschaltern in Telefonen ist in Deutschland für das Jahr 1908 und in den USA mindestens ab 1907 dokumentiert.
+
+1955 wurde von den Bell Telephone Laboratories das Mehrfrequenzwahlverfahren (MFV) entwickelt.
+Diese Art der Anwahl über Tasten ist heute die gebräuchlichste bei analogen Telefonen.
+
+Mit der modernen Elektronik und Computertechnologie konnten die elektromechanischen Elemente durch Halbleiter-Bauteile ersetzt werden, die wesentliche Verkleinerungen des Gerätes und die Ausstattung mit immer mehr zusätzlichen Funktionen erlaubten und sowohl die Bedienung vereinfachen als auch andere Nutzungsmöglichkeiten - beispielsweise die akustische Raumüberwachung - bieten.
+
+Während beispielsweise die Anrufsignalisierung zunächst über einen elektromechanischen Wecker erfolgte, ist dieser jetzt durch einen elektronischen, meist einstellbaren Signalton ersetzt.
+Zusätzliche Merkmale sind unter anderem Rufnummernübermittlung abgehender und ankommender Rufe, Nummernspeicher (Telefonbuch, Kurz- oder Direktwahl), Anrufweiterleitung, Konferenzschaltungen, Anrufliste und Freisprechen.
+Darüber hinaus ist das Telefon selbst mittlerweile gelegentlich als Geräteeinheit mit weiteren Endgeräten wie Anrufbeantworter (meist mit Fernabfrage) und Fax-Gerät kombiniert.
+
+Neben seiner primären Funktion für die Sprachkommunikation ist das Telefon mitsamt der dafür notwendigen Übertragungs- und Vermittlungstechnik wesentlicher Bestandteil eines weltweiten Nachrichtennetzes, über das neben der Sprache Informationen jeder Art übertragen werden können.
+
+Die Entwicklung des Mobiltelefons begann 1926 mit einem Telefondienst in Zügen der Deutschen Reichsbahn und Reichspost auf der Strecke zwischen Hamburg und Berlin.
+Seit der Jahrtausendwende werden Mobiltelefone flächendeckend eingesetzt.
+
+Die wichtigsten und bekanntesten Telefonapparate in der Geschichte der deutschen Telekommunikationstechnik waren die Modelle W28 (ab 1928), W38 und W48 (ab 1938 bzw. 1948), sowie der FeTAp 611 (ab 1963).
+
+Im Jahr 1964 wurde das erste in Deutschland entwickelte Tastentelefon vorgestellt: das Siemens Etafon.
+Es besaß zehn Zifferntasten, die in zwei Reihen versetzt angeordnet waren (1 3 5 7 9/ 2 4 6 8 0), vier Tasten (heute als Zielwahltasten bezeichnet), auf denen Telefonnummern abgespeichert werden konnten, sowie eine Freisprecheinrichtung.
+Das Gerät war als Machbarkeitsstudie konzipiert, da die Komponenten für eine Serienproduktion zu teuer waren.
+
+Als erstes in der Bundesrepublik Deutschland verfügbare Festnetz-Tastentelefon war der FeTAp 751 ab November 1976 erhältlich.
+Die seit vielen Jahren üblichen schnurlosen Telefone erreichten Ende der 1980er Jahre den deutschen Markt.
+Als erstes Modell deutschlandweit gilt das Stabo ST930, welches 1988 durch die Deutsche Bundespost genehmigt wurde.
+
+In der Schweiz wurde nach dem Modell 29 (1929) das weit verbreitete Modell 50 (1950, über zwei Millionen Exemplare) als schwarzes Wand- und Tischmodell, letzteres später auch in grau eingeführt.
+Das Modell 70 (1970) hat ein etwas moderneres Aussehen und war zunächst nur in grau, später gegen Aufpreis in anderen Farben und ab den 1980er-Jahren auch mit Tasten (jedoch weiterhin Impulswahl) erhältlich.
+Es waren nur die PTT-geprüften Apparate erlaubt, die man bei der Fernmeldedirektion nur mieten konnte (respektive musste).
+Quasi unerreichbarer Luxus waren die vorne im Telefonbuch abgebildeten Modelle von Nachbauten aus den Anfängen der Telefonie sowie zwei Modelle mit Namen amerikanischer Städte, die rund fünf- bis zehnmal teurer zu mieten waren, jedoch alle die gleiche Impulstechnik und Wählscheibe aufwiesen.
+
+== Sonderformen
+
+Für spezielle Einsatzgebiete wurden besondere Fernsprechapparate entwickelt: Einbautelefon, Feldtelefon, Grubentelefon (schlagwettergeschützt), Hausnotrufanlagen, Notruftelefone.
+Die weltweit verbreitetste Sonderform ist aber die Telefonzelle bzw. fachlich präziser das Telefonhäuschen, mit fest installiertem Münzfernsprecher.
+
+=== Feuermeldestellen
+
+Ursprünglich waren Feuermeldestellen eine Sonderform der Rufsäule, die eine hilfesuchende Person mit der Einsatzzentrale der Feuerwehr verbinden konnten.
+
+=== Notruftelefon
+
+Notruftelefone sind kostenlos benutzbare Fernmeldeeinrichtungen, die es ermöglichen, in abgelegenen oder besonders gefährdeten Gegenden Hilfe herbeizurufen.
+In der Regel kann mittels Betätigen eines Rufhebels bzw. Ruftasters nur ein bestimmter Gesprächspartner erreicht werden (Straßenmeisterei, Notrufzentrale usw.).
+
+=== Hausnotrufanlagen
+
+Unter Hausnotruf (auch Funkfinger, Rufhilfe, Seniorenalarm) versteht man ein auf der Telefontechnik basierendes Notrufsystem, das es alleinwohnenden alten oder behinderten Menschen erleichtert, in Notfällen Hilfe zu rufen, ohne Wählscheibe oder Tastatur nutzen zu müssen.
+Den Betroffenen wird dadurch ermöglicht, länger in ihrer Wohnung zu leben und dennoch die Sicherheit zu haben, notfalls nicht auf rasche Hilfe z. B. von Angehörigen, Ärzten oder Notdiensten verzichten zu müssen.
+Auslöser des Alarms ist üblicherweise ein tragbarer Notrufsender (Klein-Funkgerät mit einer Taste), es kann aber auch ein Sensor sein, der auf Sturz reagiert.
+Nach Angaben des Bundesverbandes Hausnotruf gab es 2006 in etwa 350 deutschen Städten Anbieter solcher Systeme, die auch auf eines der etwa 180 Callcenter aufgeschaltet werden können.
+Dort sind Basisinformationen und früher vereinbarte Verfahrensanweisungen für die verschiedenen Situationen hinterlegt (z. B.: wenn ..., dann informiere Person Xyz, ... alarmiere Rettungsdienst).
+Damit wurden in Deutschland etwa 350.000 in ihrem Privathaushalt lebende Personen versorgt.
+
+== Kunst
+
+Das Telefon ist ein äußerst beliebtes Motiv in der Kunst, Musik, Literatur oder im Film.
+Hier eine kleine Aufzählung von Werken, in denen das Telefon eine Art Hauptrolle spielt:
+
+== Sonstiges
+
+== Vorwahlen
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

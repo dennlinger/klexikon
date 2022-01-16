@@ -1,0 +1,3 @@
+Teilbarkeit ist eine mathematische Beziehung zwischen zwei ganzen Zahlen.
+Eine ganze Zahl ist durch eine andere ganze Zahl teilbar, wenn bei der Division kein Rest verbleibt, also die "Geteilt-Rechnung aufgeht".
+So ist beispielsweise die Zahl 8 durch 4 teilbar, da 8 : 4 genau 2 ergibt; somit ist 4, aber auch 2, Teiler von 8. Dagegen ist die Zahl 9 nicht durch 4 teilbar, weil die 4 zweimal in die 9 "geht", aber ein Rest von 1 übrig bleibt.

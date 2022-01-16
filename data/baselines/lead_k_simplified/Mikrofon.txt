@@ -1,0 +1,6 @@
+Ein Mikrofon oder Mikrophon ist ein Schallwandler, der Luftschall als Schallwechseldruckschwingungen in entsprechende elektrische Spannungsänderungen als Mikrofonsignal umwandelt.
+Dieses unterscheidet Mikrofone von Tonabnehmern, die Festkörperschwingungen umsetzen.
+Unterwasser-Mikrofone werden als Hydrofone bezeichnet.
+In der gängigen Bauform folgt eine dünne, elastisch gelagerte Membran den Druckschwankungen des Schalls.
+Sie bildet durch ihre Bewegung die zeitliche Verteilung des Wechseldrucks nach.
+Ein Wandler, der mechanisch oder elektrisch mit der Membran gekoppelt ist, generiert daraus eine der Membranbewegung entsprechende Tonfrequenz-Wechselspannung oder eine entsprechende pulsierende Gleichspannung.

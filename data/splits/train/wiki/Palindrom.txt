@@ -1,0 +1,180 @@
+Als Palindrom (altgriechisch aivoo palindromos "rückwärts laufend") werden in der Sprachwissenschaft Wörter, Wortreihen oder Sätze bezeichnet, die rückwärts gelesen genau denselben Text oder zumindest einen Sinn ergeben.
+Groß-/Kleinschreibung, Wortgrenzen und Satzzeichen sind beim Rückwärtslesen gegebenenfalls zu ändern.
+
+Ein Wortpalindrom ist ein Wort, das rückwärts gelesen dasselbe Wort ergibt (z. B. Reittier).
+Zu den Palindromen zählen aber auch Wörter, die rückwärts gelesen ein anderes sinnvolles Wort ergeben (z. B. Regal - Lager); in diesem Fall ist das Palindrom eine spezielle Form des Anagramms.
+Bei einem Satzpalindrom ist der Satz vorwärts wie rückwärts gelesen derselbe.
+Ein Palindrom kann auch aus mehreren Sätzen bestehen.
+Es gibt sogar Gedichte in Palindromform.
+
+Der linguistische Begriff des Palindroms wurde in andere Bereiche übernommen, das heißt, Palindrome müssen nicht zwangsläufig aus Buchstaben bestehen.
+So gibt es Zahlenpalindrome (etwa 2442).
+In der Informatik ist ein Palindrom eine Zeichenkette, die vorwärts wie rückwärts gelesen identisch ist.
+Die Genetik kennt palindromische Sequenzen in DNA- oder RNA-Ketten.
+Die spiegelsymmetrische Strukturformel mancher Moleküle lässt sich als palindromartige Darstellung einer chemischen Verbindung auffassen.
+Auch in der Literatur notierter Musik gibt es Palindrome.
+
+== Palindrome in der Sprachwissenschaft
+
+=== Wortpalindrome
+
+Beispiele
+
+Otto, Reittier und Rotor sind zusätzlich Morsecode-Palindrome, da sie ausschließlich aus symmetrischen Morsezeichen bestehen.
+Beispiele für Morsecodepalindrome, die in lateinischen Buchstaben keine Palindrome mehr ergeben, sind du ( * *, * * ) oder an (* ,  *).
+
+Der deutsche Lyriker und Kinderbuchautor Josef Guggenmos schrieb einen Kinderreim über einen Riesen, dessen Name ebenfalls ein Palindrom ist: der Riese "Mutakirorikatum".
+
+Laut Guinness-Buch der Rekorde von 1997 lautet das längste deutsche Ein-Wort-Palindrom Reliefpfeiler mit 13 Buchstaben.
+Das Kompositum wird als Beispiel für Palindrome bereits in Meyers Großem Konversations-Lexikon von 1905 erwähnt.
+Seine "Entdeckung" wird häufig dem Philosophen Arthur Schopenhauer zugeschrieben - eine Behauptung, die der Überprüfung allerdings nicht standhält.
+Das Wort Reliefpfeiler ist fast nur als Beispiel für Palindrome bekannt, ansonsten wird der Fachbegriff Pilaster bevorzugt.
+Länger als Reliefpfeiler ist übrigens das Wort Retsinakanister mit 15 Buchstaben.
+Das längste Wortpalindrom aller Sprachen ist laut Guinness-Buch der Rekorde das finnische Wort saippuakivikauppias ("Seifensteinverkäufer") mit 19 Buchstaben.
+
+Bei manchen Palindromen des Typs Regallager (Zusammensetzung mit Wortfuge in der Mitte) lässt sich durch mittige Einfügung eines geeigneten weiteren Palindroms wie neben ein noch komplexeres Palindrom bilden: Regalnebenlager.
+Allerdings ist die in der Definition geforderte Sinnhaftigkeit des Ergebnisses in solchen Fällen zu bezweifeln, da Wörter wie Regalnebenlager im realen Sprachgebrauch nicht vorkommen.
+
+=== Satzpalindrome
+
+Beispiele für deutsche Satzpalindrome
+
+Beispiele für englische Satzpalindrome
+
+Japanische Satzpalindrome
+
+=== Künstlerische Verwendung
+
+Der Klassische Philologe Friedrich August Wolf verlor 1806 mit der Aufhebung der Universität Halle durch Napoleon seine Professur.
+Man hält ihn für den Verfasser eines kunstvollen lateinischen Palindroms, das auch bei rückläufiger Lektüre ein Gedicht aus korrekten Distichen bleibt.
+Vorwärts gelesen ist der an Napoleon gerichtete Text eine Prophezeiung des Sieges in der Schlacht von Trafalgar.
+Bei rückläufiger Lektüre ergibt sich das Gegenteil: Napoleons Niederlage in dieser Schlacht wird prophezeit, und er heißt nicht mehr Bonaparte, sondern Malaparte.
+Es handelt sich jedoch nur im weiteren Sinn um ein Palindrom, da das lateinische Gedicht nicht buchstabenweise, sondern wortweise rückwärts zu lesen ist.
+
+1968 schuf der Künstler Andre Thomkins, mit anderen, Palindrome, die in der Ausführung von Straßenschildern an der Außenwand des Restaurants des Künstlers Daniel Spoerri angebracht waren.
+Sie behandelten hauptsächlich, teilweise auf absurde Weise, das Thema "Essen und Kochen" im weitesten Sinne, zum Beispiel: "pur ist sirup", "dreh mit forelle teller oft im herd", "bürle knurre grub milch - limburger runkelrüb" (ch = 1 Buchstabe).
+Im Innern der Altstadt-Gaststätte fanden sich weitere Palindrome.
+Das Lokal am Düsseldorfer Burgplatz existiert nicht mehr.
+21 dieser Palindrom-Schilder sind heute im Giardino di Daniel Spoerri zu besichtigen, einem Kunst- und Skulpturenpark in der südlichen Toskana.
+
+In der zeitgenössischen Lyrik wird das Palindrom von einzelnen Autoren als Stilmittel verwendet, z. B. in den Texten von Titus Meyer.
+
+Weitere Beispiele:
+
+=== Kurioses
+
+=== Phonetische Palindrome
+
+Ein phonetisches Palindrom ist ein Stück gesprochener Sprache, das sich rückwärts gesprochen annähernd gleich anhört.
+Die Rückwärts-Aussprache wird in der Regel technisch realisiert (Rückwärts-Abspielfunktion eines Audio-Programms), da Menschen nicht exakt rückwärts sprechen können.
+Meist handelt es sich um kurze Sprachsequenzen und um konstruierte Sätze.
+Um möglichst einen Gleichklang zu erreichen, kann der Sprecher an den kritischen Stellen eine leicht veränderte Aussprache anwenden.
+
+== Zahlenpalindrome
+
+Zahlenpalindrome ergeben von vorne wie von hinten gesehen denselben Wert (z. B. 151).
+Darunter befinden sich auch Primzahlen (siehe Primzahlpalindrom).
+Primzahlen, die rückwärts gelesen nicht denselben Wert, aber eine andere Primzahl ergeben, nennt man Mirpzahlen.
+
+=== Datums-Palindrom
+
+Den Zahlenpalindromen sehr ähnlich sind Datums-Palindrome, z. B. 20.02.2002 oder 02.02.2020, und Zeitpalindrome, z. B. 13:31.
+
+Der 2. Februar 2020 war ein globaler palindromischer Tag.
+Das Kalenderdatum kann sowohl nach der europäischen Notation (02.02.2020), der ostasiatischen bzw. ISO-Notation (2020.02.02 bzw. 2020-02-02) als auch nach der US-Notation (02/02/2020) von beiden Seiten gelesen werden.
+Letztmals war dies am 11.11.1111 der Fall.
+Die beiden nächsten globalen palindromischen Tage sind der 12.12.2121 und der 03.03.3030.
+
+== Palindrome in der Informatik
+
+In der theoretischen Informatik, genauer der Theorie der formalen Sprachen, wurde ein mathematischer Formalismus zum Umgang mit Zeichenketten entwickelt, welche im theoretischen Kontext auch Wörter genannt werden.
+
+=== Definition
+
+Die Definition, dass ein Palindrom ein Wort ist, welches rückwärts geschrieben wieder dasselbe Wort ergibt, schreibt sich formal so:
+
+Ein Palindrom ist ein Wort u {\displaystyle u } über dem Alphabet  {\displaystyle \Sigma } mit der Eigenschaft
+
+wobei u R {\displaystyle u^{R } } bedeutet, dass der Operator R {\displaystyle ^{R}} der Spiegelung (bzw. Umkehrung der Reihenfolge der Zeichen) auf das Wort u {\displaystyle u} angewandt wird.
+
+Zu beachten ist, dass ein Palindrom hier nicht unbedingt einen Sinn ergeben muss; das entsprechende Wort muss lediglich symmetrisch um seine Mitte aufgebaut sein.
+
+=== Symmetrische Zerlegung
+
+Dabei gilt
+
+falls | u | {\displaystyle |u|} (Wortlänge) gerade ist, bzw.
+
+falls | u | {\displaystyle |u|} ungerade ist, wobei v , w    {\displaystyle v,w\in \Sigma ^{*}} (endliche Wörter) und c   {\displaystyle c\in \Sigma } (ein Zeichen des Alphabets) ist.
+
+Dies sieht man jeweils durch Einsetzen, z. B.:
+
+Beispielsweise kann man
+
+zerlegen mit
+
+so dass
+
+=== Erkennung von Palindromen
+
+Die Sprache
+
+(die Menge der endlichen Wörter gerader Wortlänge, welche ein Palindrom sind) ist nicht regulär, d. h. man kann keinen regulären Ausdruck angeben, welcher L {\displaystyle L} spezifiziert bzw. keinen endlichen Automaten (also eine Maschine mit endlichem Speicher), der es schafft L {\displaystyle L} zu erkennen (d. h. zu entscheiden, ob ein Wort zur Sprache L {\displaystyle L} gehört oder nicht).
+
+Da beliebig lange, wenn auch endliche Wörter untersucht werden müssen, ist potentiell unendlich viel Speicher nötig, um sich v {\displaystyle v} zu merken und dann anschließend mit v R {\displaystyle v^{R}} zu vergleichen.
+Man kann zeigen, dass ein nichtdeterministischer Kellerautomat zur Erkennung ausreicht, z. B. indem man konkret eine kontextfreie Grammatik angibt.
+Jedoch gibt es keinen deterministischen Kellerautomaten, der diese Sprache erkennt.
+
+=== Rekursive Definition
+
+Die induktive bzw. rekursive Definition für Palindrome sieht wie folgt aus:
+
+=== Kontextfreie Grammatik für Palindrome
+
+Die obige induktive Definition ist der Ausgangspunkt für die Konstruktion einer kontextfreien Grammatik für Palindrome.
+
+Zur Vereinfachung sei das Alphabet auf zwei Symbole beschränkt, also ein binäres Alphabet  = { 0 , 1 } {\displaystyle \Sigma =\{0,1\}} .
+Dann kann man alle Binärwort-Palindrome mit den folgenden Produktionen ableiten:
+
+Aus dem Startsymbol S {\displaystyle S } kann man sofort die Palindrome  {\displaystyle \epsilon } (leeres Wort), 0 {\displaystyle 0} und 1 {\displaystyle 1} erzeugen.
+Die restlichen Palindrome erhält man, indem man zunächst in beide Richtungen ein symmetrisches Wort generiert und dann das Nichtterminalsymbol in der Mitte durch eines der Terminalsymbole ersetzt.
+
+Beispiele
+
+== Palindrome in der Molekulargenetik
+
+In der Molekulargenetik werden kurze DNA-Abschnitte im Doppelstrang als Palindrome bezeichnet, wenn die beiden Stränge gegenläufig dieselbe Sequenz aufweisen.
+Solche DNA-Abschnitte dienen Restriktionsenzymen häufig als Erkennungssequenz.
+Die Enzyme lagern sich an den entsprechenden Abschnitt an und schneiden den DNA-Doppelstrang in charakteristischer Weise durch.
+
+Beispiel: Die Erkennungssequenz des Enzyms EcoRI
+
+Restriktionsenzyme sind ein überaus wichtiges Hilfsmittel in der Molekulargenetik.
+Weil die Erkennungssequenz für jedes Enzym charakteristisch ist, lassen sich damit DNA-Moleküle ganz gezielt zerschneiden.
+Da an der Schnittstelle oft an einem der beiden Stränge ein wenige Basen langes Stück übersteht (siehe sticky ends), können DNA-Fragmente in ebenso gezielter Weise auch wieder zusammengefügt werden.
+
+Auch Abfolgen in der Nukleotidsequenz im Einzelstrang einer DNA oder RNA werden als palindromische Sequenzen bezeichnet, wenn zwei Regionen desselben Moleküls sich derart entsprechen, dass die eine Sequenz in Gegenrichtung gelesen der anderen Sequenz gleicht.
+Intramolekulare Basenpaarungen zwischen diesen Regionen führen zu doppelstrangähnlichen Aneinanderlagerungen, die zusammen mit der entstehenden Strangschlaufe auch Haarnadelstrukturen genannt werden.
+
+Funktionell treten diese Bildungen in verschiedenen Zusammenhängen auf, beispielsweise in der Regulation der Genexpression durch Attenuation bei Bakterien.
+
+== Palindrome in der Chemie
+
+Palindromartige Darstellungen chemischer Verbindungen sind beispielsweise Strukturformeln, die rückwärts gelesen den gleichen Stoff bezeichnen.
+Ein einfaches Beispiel ist H-O-H für Wasser (H2O), vergleichbar dem Wortpalindrom Tat.
+Zahlreiche Naturstoffe und Arzneistoffe sind kettenförmige Moleküle mit symmetrischer Struktur, deren Formel einem Palindrom entspricht.
+
+== Palindrome in der Musik
+
+Musik-Palindrome sind Musikstücke oder Musik-Sequenzen, die sich vorwärts wie rückwärts gespielt gleich anhören beziehungsweise, wegen des Verklingens von Tönen, nahezu gleich anhören.
+Der Krebskanon ist das Paradebeispiel.
+Das Menuett in Joseph Haydns Symphonie Nr. 47 in G-Dur ist als Palindrom komponiert, ebenso die Verwandlungsmusik im 2. Akt der Oper Lulu von Alban Berg (= Notenausschnitt).
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

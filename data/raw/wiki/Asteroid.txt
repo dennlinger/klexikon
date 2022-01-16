@@ -1,0 +1,314 @@
+Als Asteroiden (von altgriechisch o asteroeids, deutsch ,sternähnlich'), Kleinplaneten oder Planetoiden werden astronomische Kleinkörper bezeichnet, die sich auf keplerschen Umlaufbahnen um die Sonne bewegen und größer als Meteoroiden (Millimeter bis Meter), aber kleiner als Zwergplaneten (ca. tausend Kilometer) sind.
+
+Der Begriff Asteroid wird oft als Synonym von Kleinplanet verwendet, bezieht sich aber hauptsächlich auf Objekte innerhalb der Neptunbahn und ist kein von der IAU definierter Begriff.
+Jenseits der Neptunbahn werden solche Körper auch transneptunische Objekte (TNO) genannt.
+Nach neuerer Definition fasst der Begriff Kleinplanet die "klassischen" Asteroiden und die TNO zusammen.
+
+Bislang sind 1.060.759 Asteroiden im Sonnensystem bekannt (Stand: 17. Februar 2021), wobei jeden Monat mehrere Tausend neue Entdeckungen hinzukommen und die tatsächliche Anzahl wohl in die Millionen gehen dürfte.
+Asteroiden haben im Gegensatz zu den Zwergplaneten definitionsgemäß eine zu geringe Masse, um in ein hydrostatisches Gleichgewicht zu kommen und eine annähernd runde Form anzunehmen, und sind daher generell unregelmäßig geformte Körper.
+Nur die wenigsten haben mehr als einige hundert Kilometer Durchmesser.
+
+Große Asteroiden im Asteroidengürtel sind die Objekte (2) Pallas, (3) Juno, (4) Vesta, (5) Astraea, (6) Hebe, (7) Iris, (10) Hygiea und (15) Eunomia.
+
+== Bezeichnungen
+
+Die Bezeichnung Asteroid bezieht sich auf die Größe der Objekte.
+Asteroid bedeutet wörtlich "sternartig".
+Fast alle sind so klein, dass sie im Teleskop wie der Lichtpunkt eines Sterns erscheinen.
+Die Planeten erscheinen hingegen als kleine Scheibe mit einer gewissen räumlichen Ausdehnung.
+
+Die Bezeichnung Kleinplanet oder Planetoid rührt daher, dass sich die Objekte am Firmament wie Planeten relativ zu den Sternen bewegen.
+Asteroiden sind keine Planeten und gelten auch nicht als Zwergplaneten, denn aufgrund ihrer geringen Größe ist die Gravitation zu schwach, um sie annähernd zu einer Kugel zu formen.
+Gemeinsam mit Kometen und Meteoroiden gehören Asteroiden zur Klasse der Kleinkörper.
+Meteoroiden sind kleiner als Asteroiden, aber zwischen ihnen und Asteroiden gibt es weder von der Größe noch von der Zusammensetzung her eine eindeutige Grenze.
+
+== Zwergplaneten
+
+Seit der 26. Generalversammlung der Internationalen Astronomischen Union (IAU) und ihrer Definition vom 24. August 2006 zählen die großen runden Objekte, deren Gestalt sich im hydrostatischen Gleichgewicht befindet, strenggenommen nicht mehr zu den Asteroiden, sondern zu den Zwergplaneten.
+
+(1) Ceres (975 km Durchmesser) ist das größte Objekt im Asteroidengürtel und wird als einziges Objekt zu den Zwergplaneten gezählt.
+(2) Pallas und (4) Vesta sind große Objekte im Asteroidengürtel, beide sind aber nicht rund und somit per Definition keine Zwergplaneten.
+
+Im Kuipergürtel gibt es neben dem - früher als Planet und heute als Zwergplanet eingestuften - Pluto (2390 km Durchmesser) weitere Zwergplaneten: (136199) Eris (2326 km), (136472) Makemake (1430 x 1502 km), (136108) Haumea (elliptisch, etwa 1920 x 1540 x 990 km), (50000) Quaoar (1110 km) und (90482) Orcus (917 km).
+
+Das Ende 2003 jenseits des Kuipergürtels entdeckte etwa 995 km große Objekt (90377) Sedna dürfte ebenfalls als Zwergplanet einzustufen sein.
+
+== Die Geschichte der Asteroidenforschung
+
+=== Vermuteter Kleinplanet und die "Himmelspolizey"
+
+Bereits im Jahr 1760 entwickelte der deutsche Gelehrte Johann Daniel Titius eine einfache mathematische Formel (Titius-Bode-Reihe), nach der die Sonnenabstände der Planeten einer einfachen numerischen Folge entsprechen.
+Nach dieser Folge müsste es allerdings zwischen Mars und Jupiter einen weiteren Planeten im Sonnenabstand von 2,8 AE geben.
+Auf diesen offenbar noch unentdeckten Planeten setzte gegen Ende des 18. Jahrhunderts eine regelrechte Jagd ein.
+Für eine koordinierte Suche wurde 1800, als erstes internationales Forschungsvorhaben, die Himmelspolizey gegründet.
+Organisator war Baron Franz Xaver von Zach, der seinerzeit an der Sternwarte Gotha tätig war.
+Der Sternhimmel wurde in 24 Sektoren eingeteilt, die von Astronomen in ganz Europa systematisch abgesucht wurden.
+Für den Planeten hatte man bereits den Namen "Phaeton" reservieren lassen.
+
+Die Suche blieb insofern erfolglos, als der erste Kleinplanet (Ceres) zu Jahresbeginn 1801 durch Zufall entdeckt wurde.
+Allerdings bewährte sich die Himmelspolizey bald in mehrfacher Hinsicht: mit der Wiederauffindung des aus den Augen verlorenen Kleinplaneten, mit verbesserter Kommunikation über Himmelsentdeckungen und mit der erfolgreichen Suche nach weiteren Kleinplaneten zwischen 1802 und 1807.
+
+=== Die Entdeckung der ersten Kleinplaneten
+
+In der Neujahrsnacht des Jahres 1801 entdeckte der Astronom und Theologe Giuseppe Piazzi im Teleskop der Sternwarte von Palermo (Sizilien) bei der Durchmusterung des Sternbildes Stier einen schwach leuchtenden Himmelskörper, der in keiner Sternkarte verzeichnet war.
+Piazzi hatte von Zachs Forschungsvorhaben gehört und beobachtete das Objekt in den folgenden Nächten, da er vermutete, den gesuchten Planeten gefunden zu haben.
+Er sandte seine Beobachtungsergebnisse an Zach, wobei er es zunächst als neuen Kometen bezeichnete.
+Piazzi erkrankte jedoch und konnte seine Beobachtungen nicht fortsetzen.
+Bis zur Veröffentlichung seiner Beobachtungen verging viel Zeit.
+Der Himmelskörper war inzwischen weiter in Richtung Sonne gewandert und konnte zunächst nicht wiedergefunden werden.
+
+Der Mathematiker Gauß hatte allerdings ein numerisches Verfahren entwickelt, das es erlaubte, unter Anwendung der Methode der kleinsten Quadrate die Bahnen von Planeten oder Kometen anhand nur weniger Positionen zu bestimmen.
+Nachdem Gauß die Veröffentlichungen Piazzis gelesen hatte, berechnete er die Bahn des Himmelskörpers und sandte das Ergebnis nach Gotha.
+Heinrich Wilhelm Olbers entdeckte das Objekt daraufhin am 31. Dezember 1801 wieder, das schließlich den Namen Ceres erhielt.
+Im Jahr 1802 entdeckte Olbers einen weiteren Himmelskörper, den er Pallas nannte.
+1803 wurde Juno, 1807 Vesta entdeckt.
+
+Bis zur Entdeckung des fünften Asteroiden, Astraea im Jahr 1845, vergingen allerdings 38 Jahre.
+Die bis dahin entdeckten Asteroiden wurden damals noch nicht als solche bezeichnet - sie galten zu dieser Zeit als vollwertige Planeten.
+So kam es, dass der Planet Neptun bei seiner Entdeckung im Jahr 1846 nicht als achter, sondern als dreizehnter Planet gezählt wurde.
+Ab dem Jahr 1847 folgten allerdings so rasch weitere Entdeckungen, dass bald beschlossen wurde, für die zahlreichen, aber allesamt doch recht kleinen Himmelskörper, die die Sonne zwischen Mars und Jupiter umkreisen, eine neue Objektklasse von Himmelskörpern einzuführen: die Asteroiden, die sogenannten kleinen Planeten.
+Die Zahl der großen Planeten sank somit auf acht.
+Bis zum Jahr 1890 wurden insgesamt über 300 Asteroiden entdeckt.
+
+=== Fotografische Suchmethoden, Radarmessungen
+
+Nach 1890 brachte die Anwendung der Fotografie in der Astronomie wesentliche Fortschritte.
+Die Asteroiden, die bis dahin mühsam durch den Vergleich von Teleskopbeobachtungen mit Himmelskarten gefunden wurden, verrieten sich nun durch Lichtspuren auf den fotografischen Platten.
+Durch die im Vergleich zum menschlichen Auge höhere Lichtempfindlichkeit der fotografischen Emulsionen konnten, in Kombination mit langen Belichtungszeiten bei Nachführung des Teleskops quasi im Zeitraffer, äußerst lichtschwache Objekte nachgewiesen werden.
+Durch den Einsatz der neuen Technik stieg die Zahl der entdeckten Asteroiden rasch an.
+
+Ein Jahrhundert später, um 1990, löste die digitale Fotografie in Gestalt der CCD-Kameratechnik einen weiteren Entwicklungssprung aus, der durch die Möglichkeiten der computerunterstützten Auswertung der elektronischen Aufnahmen noch potenziert wird.
+Seither hat sich die Zahl jährlich aufgefundener Asteroiden nochmals vervielfacht.
+
+Ist die Bahn eines Asteroiden bestimmt worden, kann die Größe des Himmelskörpers aus der Untersuchung seiner Helligkeit und des Rückstrahlvermögens, der Albedo, ermittelt werden.
+Dazu werden Messungen mit sichtbaren Lichtfrequenzen sowie im Infrarotbereich durchgeführt.
+Diese Methode ist allerdings mit Unsicherheiten verbunden, da die Oberflächen der Asteroiden chemisch unterschiedlich aufgebaut sind und das Licht unterschiedlich stark reflektieren.
+
+Genauere Ergebnisse können mittels Radarbeobachtungen erzielt werden.
+Dazu können Radioteleskope verwendet werden, die, als Sender umfunktioniert, starke Radiowellen in Richtung der Asteroiden aussenden.
+Durch die Messung der Laufzeit der von den Asteroiden reflektierten Wellen kann deren exakte Entfernung bestimmt werden.
+Die weitere Auswertung der Radiowellen liefert Daten zu Form und Größe.
+Regelrechte "Radarbilder" lieferte beispielsweise die Beobachtung der Asteroiden (4769) Castalia und (4179) Toutatis.
+
+=== Automatisierte Durchmusterungen
+
+Neue und weiterentwickelte Technologien sowie fortgesetzte Leistungssteigerung von Detektoren und elektronischer Datenverarbeitung ermöglichten seit den 1990er Jahren eine Reihe von automatisierten Suchprogrammen mit verschiedenen Zielsetzungen.
+Diese Durchmusterungen haben einen erheblichen Anteil an der Neuentdeckung von Asteroiden.
+
+Eine Reihe von Suchprogrammen konzentriert sich auf erdnahe Asteroiden z. B. LONEOS, LINEAR, NEAT, NeoWise, Spacewatch, Catalina Sky Survey und Pan-STARRS.
+Sie haben erheblichen Anteil daran, dass quasi täglich neue Asteroiden gefunden werden, deren Anzahl Mitte Juli 2020 über 900.000 erreicht hatte.
+
+In naher Zukunft wird sich die Zahl der bekannten Asteroiden nochmals deutlich erhöhen, da für die nächsten Jahre Durchmusterungen mit erhöhter Empfindlichkeit geplant sind, zum Beispiel Gaia und LSST.
+Allein die Raumsonde Gaia soll nach Modellrechnungen bis zu eine Million bisher unbekannter Asteroiden entdecken.
+
+=== Beobachtungen mit Raumsonden
+
+Eine Reihe von Asteroiden konnte mittels Raumsonden näher untersucht werden:
+
+Weitere Missionen sind geplant, unter anderem:
+
+== Benennung
+
+Die Namen der Asteroiden setzen sich aus einer vorangestellten Nummer und einem Namen zusammen.
+Die Nummer gab früher die Reihenfolge der Entdeckung des Himmelskörpers an.
+Heute ist sie eine rein numerische Zählform, da sie erst vergeben wird, wenn die Bahn des Asteroiden gesichert und das Objekt jederzeit wiederauffindbar ist; das kann durchaus erst Jahre nach der Erstbeobachtung erfolgen.
+Von den bisher bekannten 1.060.759 Asteroiden haben 546.846 eine Nummer (Stand: 17. Februar 2021).
+
+Der Entdecker hat innerhalb von zehn Jahren nach der Nummerierung das Vorschlagsrecht für die Vergabe eines Namens.
+Dieser muss jedoch durch eine Kommission der IAU bestätigt werden, da es Richtlinien für die Namen astronomischer Objekte gibt.
+Dementsprechend existieren zahlreiche Asteroiden zwar mit Nummer, aber ohne Namen, vor allem in den oberen Zehntausendern.
+
+Neuentdeckungen, für die noch keine Bahn mit ausreichender Genauigkeit berechnet werden konnte, werden mit dem Entdeckungsjahr und einer Buchstabenkombination, beispielsweise 2003 UB313, gekennzeichnet.
+Die Buchstabenkombination setzt sich aus dem ersten Buchstaben für die Monatshälfte (beginnend mit A und fortlaufend bis Y ohne I) und einem fortlaufenden Buchstaben (A bis Z ohne I) zusammen.
+Wenn mehr als 25 Kleinplaneten in einer Monatshälfte entdeckt werden - was heute die Regel ist - beginnt die Buchstabenkombination von vorne, gefolgt von jeweils einer je Lauf um eins erhöhten laufenden Nummer.
+
+Der erste Asteroid wurde 1801 von Giuseppe Piazzi an der Sternwarte Palermo auf Sizilien entdeckt.
+Piazzi taufte den Himmelskörper auf den Namen "Ceres Ferdinandea".
+Die römische Göttin Ceres ist Schutzpatronin der Insel Sizilien.
+Mit dem zweiten Namen wollte Piazzi König Ferdinand IV., den Herrscher über Italien und Sizilien ehren.
+Dies missfiel der internationalen Forschergemeinschaft und der zweite Name wurde fallengelassen.
+Die offizielle Bezeichnung des Asteroiden lautet demnach (1) Ceres.
+
+Bei den weiteren Entdeckungen wurde die Nomenklatur beibehalten und die Asteroiden wurden nach römischen und griechischen Göttinnen benannt; dies waren (2) Pallas, (3) Juno, (4) Vesta, (5) Astraea, (6) Hebe, und so weiter.
+
+Als immer mehr Asteroiden entdeckt wurden, gingen den Astronomen die antiken Gottheiten aus.
+So wurden Asteroiden unter anderem nach den Ehefrauen der Entdecker, zu Ehren historischer Persönlichkeiten oder Persönlichkeiten des öffentlichen Lebens, Städten und Märchenfiguren benannt.
+Beispiele hierfür sind die Asteroiden (21) Lutetia, (216) Kleopatra, (719) Albert, (1773) Rumpelstilz, (5535) Annefrank, (17744) Jodiefoster.
+
+Neben Namen aus der griechisch-römischen Mythologie kommen auch Namen von Gottheiten aus anderen Kulturkreisen zur Anwendung, insbesondere für neu entdeckte, größere Objekte, wie (20000) Varuna, (50000) Quaoar und (90377) Sedna.
+
+Monde von Asteroiden erhalten zu ihrem Namen keine permanente Nummer und gelten nicht als Asteroiden oder Kleinkörper, da sie nicht selbstständig die Sonne umlaufen.
+
+== Entstehung
+
+Zunächst gingen die Astronomen davon aus, dass die Asteroiden das Ergebnis einer kosmischen Katastrophe seien, bei der ein Planet zwischen Mars und Jupiter auseinanderbrach und Bruchstücke auf seiner Bahn hinterließ.
+Es zeigte sich jedoch, dass die Gesamtmasse der im Hauptgürtel vorhandenen Asteroiden sehr viel geringer ist als die des Erdmondes.
+Schätzungen der Gesamtmasse der Kleinplaneten schwanken zwischen 0,1 und 0,01 Prozent der Erdmasse (Der Mond hat etwa 1,23 Prozent der Erdmasse).
+Daher wird angenommen, dass die Asteroiden eine Restpopulation von Planetesimalen aus der Entstehungsphase des Sonnensystems darstellen.
+Die Gravitation von Jupiter, dessen Masse am schnellsten zunahm, verhinderte die Bildung eines größeren Planeten aus dem Asteroidenmaterial.
+Die Planetesimale wurden auf ihren Bahnen gestört, kollidierten immer wieder heftig miteinander und zerbrachen.
+Ein Teil wurde auf Bahnen abgelenkt, die sie auf Kollisionskurs mit den Planeten brachten.
+Hiervon zeugen noch die Einschlagkrater auf den Planetenmonden und den inneren Planeten.
+Die größten Asteroiden wurden nach ihrer Entstehung stark erwärmt (hauptsächlich durch den radioaktiven Zerfall des Aluminium-Isotops 26Al und möglicherweise auch des Eisenisotops 60Fe) und im Innern aufgeschmolzen.
+Schwere Elemente, wie Nickel und Eisen, setzten sich infolge der Schwerkraftwirkung im Inneren ab, die leichteren Verbindungen, wie die Silikate, verblieben in den Außenbereichen.
+Dies führte zur Bildung von differenzierten Körpern mit metallischem Kern und silikatischem Mantel.
+Ein Teil der differenzierten Asteroiden zerbrach bei weiteren Kollisionen, wobei Bruchstücke, die in den Anziehungsbereich der Erde geraten, als Meteoriten niedergehen.
+
+== Klassifikationsschemata von Asteroiden
+
+Die spektroskopische Untersuchung der Asteroiden zeigte, dass deren Oberflächen chemisch unterschiedlich zusammengesetzt sind.
+Analog erfolgte eine Einteilung in verschiedene spektrale, beziehungsweise taxonomische Klassen.
+
+=== Klassifikationsschema nach Tholen
+
+David J. Tholen veröffentlichte 1984 für die Einordnung von Asteroiden anhand ihrer Spektraleigenschaften ein Klassifikationsschema mit 14 Klassen, die wiederum in 3 Gruppen (C, S und X) zusammengefasst sind:
+
+Das Klassifikationsschema wurde von Tholen 1989 ergänzt:
+
+Nach Tholen können bis zu vier Buchstaben vergeben werden, beispielsweise "SCTU".
+
+Ein Asteroid mit einem derartigen Zusatz ist beispielsweise (2340) Hathor, welches nach Tholen in die Spektralklasse "CSU" einsortiert würde (nach SMASSII als Sq).
+Der Buchstaben "I" ist beispielsweise in der JPL Small-Body Database beim Asteroiden (515) Athalia eingetragen, nach SMASSII wird der Asteroid als "Cb" eingeordnet.
+
+== Zusammensetzung
+
+In der Vergangenheit gingen Wissenschaftler davon aus, dass die Asteroiden monolithische Felsbrocken, also kompakte Gebilde sind.
+Die geringen Dichten etlicher Asteroiden sowie das Vorhandensein von riesigen Einschlagkratern deuten jedoch darauf hin, dass viele Asteroiden locker aufgebaut sind und eher als rubble piles anzusehen sind, als lose "Schutthaufen", die nur durch die Gravitation zusammengehalten werden.
+Locker aufgebaute Körper können die bei Kollisionen auftretenden Kräfte absorbieren ohne zerstört zu werden.
+Kompakte Körper werden dagegen bei größeren Einschlagereignissen durch die Stoßwellen auseinandergerissen.
+Darüber hinaus weisen die großen Asteroiden nur geringe Rotationsgeschwindigkeiten auf.
+Eine schnelle Rotation um die eigene Achse würde sonst dazu führen, dass die auftretenden Fliehkräfte die Körper auseinanderreißen (siehe auch: YORP-Effekt).
+Man geht heute davon aus, dass der überwiegende Teil der über 200 Meter großen Asteroiden derartige kosmische Schutthaufen sind.
+
+== Bahnen
+
+Anders als die Planeten besitzen viele Asteroiden keine annähernd kreisrunden Umlaufbahnen.
+Sie haben, abgesehen von den meisten Hauptgürtelasteroiden und den Cubewanos im Kuipergürtel, meist sehr exzentrische Orbits, deren Ebenen in vielen Fällen stark gegen die Ekliptik geneigt sind.
+Ihre relativ hohen Exzentrizitäten machen sie zu Bahnkreuzern; das sind Objekte, die während ihres Umlaufs die Bahnen eines oder mehrerer Planeten passieren.
+Die Schwerkraft des Jupiter sorgt allerdings dafür, dass sich Asteroiden, bis auf wenige Ausnahmen, nur jeweils innerhalb oder außerhalb seiner Umlaufbahn bewegen.
+
+Anhand ihrer Bahnen werden Asteroiden auch zu mehreren Asteroidenfamilien zugeordnet, die sich durch ähnliche Werte von großer Halbachse, Exzentrizität sowie Inklination ihrer Bahn auszeichnen.
+Die Asteroiden einer Familie stammen vermutlich vom gleichen Ursprungskörper ab.
+Im Jahr 2015 listete David Nesvorny fünf Hauptfamilien auf.
+Etwa 45 % aller Asteroiden des Hauptgürtels können anhand der gegebenen Kriterien einer solchen Familie zugeordnet werden.
+
+=== Asteroiden innerhalb der Marsbahn
+
+Innerhalb der Marsbahn bewegen sich einige unterschiedliche Asteroidengruppen, die alle bis auf wenige Ausnahmen aus Objekten von unter fünf Kilometer Größe (überwiegend jedoch deutlich kleiner) bestehen.
+Einige dieser Objekte sind Merkur- und Venusbahnkreuzer, von denen sich mehrere nur innerhalb der Erdbahn bewegen, manche können sie auch kreuzen.
+Wiederum andere bewegen sich hingegen nur außerhalb der Erdbahn.
+
+Die Existenz der als Vulkanoiden bezeichneten Gruppe von Asteroiden konnte bislang nicht nachgewiesen werden.
+Diese Asteroiden sollen sich auf sonnennahen Bahnen innerhalb der von Merkur bewegen.
+
+==== Erdnahe Asteroiden
+
+Asteroiden, deren Bahnen dem Orbit der Erde nahe kommen, werden als erdnahe Asteroiden, auch NEAs (Near Earth Asteroids) bezeichnet.
+Üblicherweise wird als Abgrenzungskriterium ein Perihel kleiner als 1,3 AE verwendet.
+Wegen einer theoretischen Kollisionsgefahr mit der Erde wird seit einigen Jahren systematisch nach ihnen gesucht.
+Bekannte Suchprogramme sind zum Beispiel Lincoln Near Earth Asteroid Research (LINEAR), der Catalina Sky Survey, Pan-STARRS, NEAT und LONEOS.
+
+=== Asteroiden zwischen Mars und Jupiter
+
+Etwa 90 Prozent der bekannten Asteroiden bewegen sich zwischen den Umlaufbahnen von Mars und Jupiter.
+Sie füllen damit die Lücke in der Titius-Bode-Reihe.
+Die größten Objekte sind hier (1) Ceres, (2) Pallas, (4) Vesta und (10) Hygiea.
+
+==== Asteroiden des Hauptgürtels
+
+Die meisten der Objekte, deren Bahnhalbachsen zwischen der Mars- und Jupiterbahn liegen, sind Teil des Asteroiden-Hauptgürtels.
+Sie weisen eine Bahnneigung unter 20° und Exzentrizitäten unter 0,25 auf.
+Die meisten sind durch Kollisionen größerer Asteroiden in dieser Zone entstanden und bilden daher Gruppen mit ähnlicher chemischer Zusammensetzung.
+Ihre Umlaufbahnen werden durch die sogenannten Kirkwoodlücken begrenzt, die durch Bahnresonanzen zu Jupiter entstehen.
+Dadurch lässt sich der Hauptgürtel in drei Zonen einteilen:
+
+==== Asteroiden außerhalb des Hauptgürtels
+
+Außerhalb des Asteroidengürtels liegen vereinzelt kleinere Asteroidengruppen, deren Umlaufbahnen meist in Resonanz zur Jupiterbahn stehen und dadurch stabilisiert werden.
+Außerdem existieren weitere Gruppen, die ähnliche Längen der Bahnhalbachsen aufweisen wie die Hauptgürtelasteroiden, jedoch deutlich stärker geneigte Bahnen (teilweise über 25°) oder andere ungewöhnliche Bahnelemente aufweisen:
+
+=== Asteroiden außerhalb der Jupiterbahn
+
+==== Transneptunische Objekte, Kuipergürtel-Objekte
+
+Im äußeren Sonnensystem, jenseits der Neptunbahn, bewegen sich die transneptunischen Objekte, von denen die meisten als Teil des Kuipergürtels betrachtet werden (Kuiper belt objects; KBO).
+Dort wurden die bislang größten Asteroiden oder Planetoiden entdeckt.
+Die Objekte dieser Zone lassen sich anhand ihrer Bahneigenschaften in drei Gruppen einteilen:
+
+=== Asteroiden, die sich auf Planetenbahnen bewegen
+
+Asteroiden, die sich in den Lagrange-Punkten der Planeten befinden, werden "Trojaner" genannt.
+Zuerst wurden diese Begleiter bei Jupiter entdeckt.
+Sie bewegen sich auf der Jupiterbahn vor beziehungsweise hinter dem Planeten.
+Jupitertrojaner sind beispielsweise (588) Achilles und (1172) Äneas.
+1990 wurde der erste Marstrojaner entdeckt und (5261) Eureka genannt.
+In der Folgezeit wurden weitere Marstrojaner entdeckt.
+Auch Neptun besitzt Trojaner und 2011 wurde mit 2011 QF99 der erste Uranustrojaner entdeckt.
+
+Manche Asteroiden bewegen sich auf einer Hufeisenumlaufbahn auf einer Planetenbahn, wie zum Beispiel der Asteroid 2002 AA29 in der Nähe der Erde.
+
+=== Interstellarer Asteroid
+
+Im Oktober 2017 wurde mit 1I/'Oumuamua der erste interstellar reisende Asteroid entdeckt.
+Er ist länglich geformt, rund 400 Meter lang und näherte sich etwa im rechten Winkel der Bahnebene der Planeten.
+Nachdem seine Bahn durch die Gravitation der Sonne um etwa 90° abgelenkt wurde, flog er auf seinem neuen Kurs in Richtung des Sternbildes Pegasus in ca. 24 Millionen Kilometern Entfernung am 14. Oktober 2017 an der Erde vorbei.
+
+=== Einzelobjekte
+
+Im Sonnensystem bewegen sich einige Asteroiden, die Charakteristika aufweisen, die sie mit keinem anderen Objekt teilen.
+Dazu zählen unter anderem (944) Hidalgo, der sich auf einer stark exzentrischen, kometenähnlichen Umlaufbahn zwischen Saturn und dem Hauptgürtel bewegt, und (279) Thule, der sich als einziger Vertreter einer potenziellen Gruppe von Asteroiden in 4:3-Resonanz zu Jupiter bei 4,3 AE um die Sonne bewegt.
+Ein weiteres Objekt ist (90377) Sedna, ein relativ großer Asteroid, der weit außerhalb des Kuipergürtels eine exzentrische Umlaufbahn besitzt, die ihn bis zu 900 AE von der Sonne entfernt.
+Inzwischen wurden allerdings mindestens fünf weitere Objekte mit ähnlichen Bahncharakteristika wie Sedna entdeckt; sie bilden die neue Gruppe der Sednoiden.
+
+Einige Charakteristika wie ihre Form lassen sich aus ihrer Lichtkurve berechnen.
+
+=== Orientierung der Bahnrotation
+
+Planeten, Asteroiden und Kometen kreisen typisch alle in derselben Richtung um die Sonne.
+
+2014 wurde ein erster Asteroid entdeckt, 2015 nummeriert und 2019 benannt, nämlich (514107) Ka'epaoka'awela, der in die entgegengesetzte Richtung umläuft; und zwar in der Ko-Orbit-Region des Planeten Jupiter.
+2018 wurde analysiert, dass (514107) Ka'epaoka'awela schon vor der Bildung der Planeten von außerhalb des Sonnensystems eingefangen worden sein muss.
+
+Heute ist bekannt, dass etwa 100 weitere Asteroiden "falsch herum" um die Sonne laufen.
+
+== Einschlagwahrscheinlichkeit und -wirkung
+
+Asteroiden, die mit wesentlich größeren Himmelskörpern wie Planeten kollidieren, erzeugen Einschlagkrater.
+Die Größe des Einschlagkraters und die damit verbundene Energiefreisetzung (Explosion) wird maßgeblich durch die Geschwindigkeit, Größe, Masse und Zusammensetzung des Asteroiden bestimmt.
+
+Die Flugbahnen der Asteroiden im Sonnensystem sind nicht genau genug bekannt, um auf längere Zeit berechnen zu können, ob und wann genau ein Asteroid auf der Erde (oder auf einem anderen Planeten) einschlagen wird.
+Durch Annäherung an andere Himmelskörper unterliegen die Bahnen der Asteroiden ständig kleineren Veränderungen.
+Deswegen wird auf Basis der bekannten Bahndaten und -unsicherheiten lediglich das Risiko von Einschlägen errechnet.
+Es verändert sich bei neuen, genaueren Beobachtungen fortlaufend.
+
+Mit der Turiner Skala und der Palermo-Skala gibt es zwei gebräuchliche Methoden zur Bewertung des Einschlagrisikos von Asteroiden auf der Erde und der damit verbundenen Energiefreisetzung und Zerstörungskraft:
+
+Die Europäische Weltraumorganisation (ESA) publiziert öffentlich eine fortlaufend aktualisierte Risikoliste, in der Asteroiden und deren Wahrscheinlichkeit einer Kollision mit der Erde aufgeführt sind.
+
+=== Nahe Begegnungen mit erdnahen Asteroiden
+
+=== Beispiele für Einschläge auf der Erde
+
+Eine Auflistung irdischer Krater findet sich in der Liste der Einschlagkrater der Erde sowie als Auswahl unter Große und bekannte Einschlagkrater.
+
+=== Mutmaßliche Kollisionen zwischen Asteroiden
+
+Die Wissenschaft benennt mehrere mögliche Kollisionen zwischen Asteroiden untereinander:
+
+== Internationaler Tag der Asteroiden
+
+2001 etablierte das Committee on the Peaceful Uses of Outer Space (COPUOS) der UNO das Action Team on Near-Earth Objects (Action Team 14).
+Empfohlen wurde 2013 die Errichtung eines international asteroid warning network (IAWN) und einer space mission planning advisory group (SMPAG).
+Das Action Team 14 hat sein Mandat erfüllt und wurde 2015 aufgelöst.
+Am 30. Juni 2015 wurde der erste Asteroid Day ausgerufen.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+=== Videos
+
+== Einzelnachweise
+

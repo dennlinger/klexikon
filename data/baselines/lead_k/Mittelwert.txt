@@ -1,0 +1,6 @@
+Ein Mittelwert (kurz auch nur Mittel; anderes Wort Durchschnitt) ist eine, nach einer bestimmten Rechenvorschrift, aus gegebenen Zahlen ermittelte weitere Zahl.
+Einige von beliebig vielen berechenbaren Mittelwerten sind das arithmetische, das geometrische und das quadratische Mittel.
+Mittelwerte werden am häufigsten in der Statistik angewendet, wobei mit Mittel oder Durchschnitt meistens das arithmetische Mittel gemeint ist.
+Der Mittelwert ist ein Kennwert für die zentrale Tendenz einer Verteilung.
+Eng verwandt ist der Mittelwert mit dem Erwartungswert einer Verteilung.
+Dabei beruht der Erwartungswert auf der theoretisch zu erwartenden Häufigkeit, während der (arithmetische) Mittelwert aus konkretem Datenmaterial ermittelt wird.

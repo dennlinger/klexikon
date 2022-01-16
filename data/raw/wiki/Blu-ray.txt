@@ -1,0 +1,222 @@
+Die Blu-ray Disc (BD; meist Blu-ray abgekürzt) ist ein digitales optisches Speichermedium.
+Sie wurde als High-Definition-Nachfolger der DVD entwickelt und bietet ihrem Vorläufer gegenüber eine erheblich gesteigerte Datenrate und Speicherkapazität.
+Auf Blu-rays können daher Filme und Musik (Pure Audio) mit deutlich höherer Auflösung gespeichert werden.
+Blu-ray-Disc-Player (umgangssprachliche Kurzform: Blu-ray-Player) sind in der Regel abwärtskompatibel zu DVDs, sodass auch diese abgespielt werden können.
+BD setzte sich im Formatkrieg gegen die Mitbewerber HD DVD und VMD durch.
+Die Produktion und Weiterentwicklung der konkurrierenden HD-DVD-Technik - einschließlich der Geräte - wurde im März 2008 eingestellt.
+
+== Herkunft des Namens
+
+Der Name Blu-ray Disc ist englischen Ursprungs.
+Blue ray bedeutet wörtlich blauer Strahl, was sich auf den violetten Lichtstrahl des verwendeten Lasers (405 nm) bezieht.
+Die Schreibweise ohne e im Namen wurde gewählt, um diesen als markanten Markennamen eintragen zu können.
+
+== Geschichte
+
+Die Spezifikationen für die Blu-ray Disc wurden am 19. Februar 2002 durch die neun Unternehmen der Blu-ray Group - Panasonic, Pioneer, Philips, Sony, Thomson, LG Electronics, Hitachi, Sharp und Samsung - beschlossen; dieser Gruppierung schlossen sich Ende Januar 2004 Dell und Hewlett-Packard sowie Mitte März 2005 Apple und Acer an.
+Nachdem einige von Hewlett-Packard eingebrachte Verbesserungsvorschläge abgewiesen worden waren, trat HP 2005 aus dem Konsortium aus und wechselte in das HD-DVD-Lager.
+Das Ende der Konkurrenz zwischen der Blu-ray Disc und der HD DVD begann am 19. Februar 2008, als Toshiba als wichtigster HD-DVD-Entwickler den Abbruch der Weiterentwicklung des Konkurrenzformats verkündete.
+
+2009 wurden in Deutschland 450.000 BD-Spieler verkauft, was einem Zuwachs von 150 % gegenüber 2008 entspricht.
+Ab 2010 wurden einige Filmtitel mit jeweils einer DVD und einer Blu-ray im Set (DVD/Blu-ray-Bundle) angeboten.
+Ebenso werden einige Ausgaben von neuen 3D-Blu-ray-Titeln mit dem Erwerb eines 3D-Blu-ray-Players und/oder 3D-Fernsehers verknüpft, sodass diese vorerst nur in Kombination exklusiv erhältlich sind (beispielsweise "Die Chroniken von Narnia III").
+
+Im Jahr 2011 wurden in Europa 806,80 Millionen Euro mit Blu-ray Discs umgesetzt.
+In Deutschland verfügten im Jahr 2012 11,55 Millionen Personen über ein Blu-ray- bzw. HD-DVD-Abspielgerät.
+Im Februar 2019 beendete Samsung die Herstellung der Player, nachdem sich 2018 infolge von Video-on-demand und Streaming der deutliche Rückgang von DVD und Blu-ray-Verkäufen fortgesetzt hatte.
+
+2010 wurden zudem rund 2,9 Mio. Spielfilm- oder Serienprodukte mit einem zeitlich unbeschränkten Nutzungsrecht (sog. Electronic-Sell-Through, EST) per Download aus dem Internet gekauft.
+Quelle: Bundesverband Audiovisuelle Medien e. V.
+
+Quelle: Bundesverband Audiovisuelle Medien e. V.
+
+Samsung gab im Februar 2019 bekannt, keine neuen Blu-ray-Player mehr zu produzieren.
+Dies soll sowohl für HD- als auch für 4K-Modelle gelten.
+Mögliche Gründe dafür könnten die immer bessere Verfügbarkeit von Inhalten über Streaming-Dienste sein, als auch die anhaltend höheren Verkaufszahlen von DVDs.
+
+== Technik
+
+Die Blu-ray Disc gibt es in drei Varianten: als nur lesbare BD-ROM (vergleichbar mit DVD-ROM), als einmal beschreibbare Variante BD-R (vergleichbar mit DVD+/-R) und als wiederbeschreibbare BD-RE (vergleichbar mit DVD+/-RW).
+
+Die Blu-ray Disc basiert auf einem tief-violetten Indiumgalliumnitrid-Diodenlaser mit 405 nm Wellenlänge, die wiederbeschreibbare Blu-ray Disc arbeitet mit der Phase-Change-Technik.
+
+Sie hat - genau wie CD und DVD - einen Durchmesser von 12 cm.
+Eine Blu-ray Disc fasst mit einer Lage bis zu 25 GB und mit zwei Lagen bis zu 50 GB an Daten.
+Alternative Quellen nennen als Bruttokapazität 21,7 GB.
+
+Im März 2013 waren BDs in den Größen 25, 50 und 100 GB im Handel erhältlich.
+
+TDK ist es gelungen, auf einer sechslagigen Scheibe 200 GB unterzubringen, dabei wurde die Kapazität einer Lage auf 33,3 GB erhöht.
+Pioneer erklärte im Juli 2008, Prototypen mit 400 GB auf einer Scheibe mit 16 Lagen erzeugt zu haben; eine Entwicklung einer marktreifen Version war bis zum Jahr 2010 geplant.
+Stattdessen wurde 2010 die vierlagige BDXL mit 128 GB Speicher veröffentlicht.
+Ebenfalls zeigte das Unternehmen auf der Messe "IT Month" in Taiwan eine 400 GB Blu-ray mit 16 Datenschichten bei 25 GB pro Schicht und kündigte für 2013 Versionen mit bis zu 1 TB Speicherkapazität an, was jedoch nicht eingehalten werden konnte.
+Sony und Panasonic haben derweil die Archival Disc entwickelt, durch die jenes Vorhaben verwirklicht wurde.
+
+Des Weiteren soll die neue Phase-Change-Technik eine doppelt so hohe Übertragungsrate (Datentransferrate) von 72 Mbit/s beim Beschreiben anstatt der ursprünglich maximal spezifizierten einfachen 36 Mbit/s ermöglichen.
+Ein wichtiger Bestandteil der Spezifikation ist auch ein Kopierschutz in Form einer eindeutigen Identifikationsnummer.
+Außerdem eignen sich Blu-ray Discs besonders gut für Full-HD-Videos, die dank der hohen Auflösung eine bessere Qualität als die Systeme PAL und NTSC bieten, aber auch dementsprechend mehr Speicherplatz benötigen.
+BD-Spieler unterstützen in der Regel das zuerst von Panasonic und Sony eingeführte hochauflösende AVCHD-Format.
+
+Die Gesamt-Datenrate von Blu-ray-Video-Discs ist auf 53,95 Mbit/s begrenzt.
+Davon sind 40,00 Mbit/s für den reinen Videostream (in Form von MPEG-2, VC-1 und AVC) reserviert, die verbleibenden 13,95 Mbit/s für die Tonspuren (in Form von Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD High Resolution Audio, DTS-HD Master Audio und Linear-PCM).
+
+Eine weitere Neuerung gegenüber der DVD ist der verkleinerte Abstand des Lasers zum Datenträger sowie die geringere Wellenlänge (bzw. andere Farbe) des Laserstrahls.
+Weiterhin ist die Schutzschicht auf der Laser-Seite mit 0,1 mm im Vergleich zu 0,6 mm der DVD deutlich dünner.
+Aufgrund der daraus resultierenden größeren Anfälligkeit gegen Kratzer und Staub war zunächst geplant, die Blu-ray Disc nur in einer Art Kassette (Steckmodul oder Cartridge genannt) anzubieten, ähnlich wie seinerzeit die MiniDisc.
+Stattdessen wurde jedoch eine Beschichtung namens "Durabis" entwickelt, die den Gebrauch eines Kassettengehäuses nicht mehr unbedingt notwendig macht.
+
+Die wesentlich höhere Datendichte und damit eine erhöhte Speicherkapazität wird durch folgende Maßnahmen erreicht:
+
+Technische Daten der Sony SLD3237VF BDXL-Laserdiode (exemplarisch):
+
+Werte bei 25 °C:
+
+== Videoauflösung auf Videoabspielgeräten
+
+Auf einer BD-ROM können die Inhalte beliebig sein.
+Zum Abspielen auf einem Blu-ray-Videoabspielgerät (kein Computerlaufwerk) darf die maximale Auflösung des Videomaterials auf der Blu-ray Disc 1920 x 1080 Pixel bei maximal 59,94 Halbbildern pro Sekunde betragen (Zeilensprungverfahren (i)).
+Im Vollbildverfahren (p) können bei einer Auflösung von 1920 x 1080 Pixel maximal 24 Bilder pro Sekunde, bei 1280 x 720 Pixel bis zu 59,94 Bilder pro Sekunde erreicht werden.
+
+== Kopierschutz
+
+Für die Blu-ray Disc ist wie für die HD DVD der Kopierschutz Advanced Access Content System (AACS) aus dem Bereich des Digital Rights Management vorgesehen.
+Es gibt Programme, deren Vertrieb in Deutschland illegal ist, die diesen Kopierschutz umgehen.
+Seit etwa 2010 enthalten einige Blu-ray-Discs in der Tonspur das Cinavia-Wasserzeichen.
+Seit 1. Februar 2012 müssen alle verkauften Blu-ray-Player dieses erkennen und den Ton oder das Bild nach etwa 10 Minuten ausschalten.
+Der Einsatz des VEIL-Kopierschutzes wurde 2006 erwogen.
+Hinzu kommt die BD+-Technik zur Prüfung der autorisierten Wiedergabe und zur Entschlüsselung.
+Da BD+ ständig weiterentwickelt wird, sind kontinuierliche Updates des Abspielgerätes notwendig.
+Derzeit gelten alle Kopierschutzmaßnahmen der Blu-ray-Disc, obgleich ihr Umgehen strafbar ist, als ausgehebelt.
+
+== Anbieter
+
+=== Hersteller
+
+Die größten Produzenten von bespielten Blu-ray-Discs sind Bertelsmann, Arvato, Cinram, Sony und Technicolor.
+Der deutsche Spezialanlagenbauer Singulus Technologies fertigt automatisierte Blu-ray-Produktionsanlagen.
+
+=== Abspielgeräte
+
+BD-Spieler werden u. a. von Denon, Daewoo, Funai, JVC, Kenwood, Lite-On, LG, Loewe, Marantz, Mitsubishi, Panasonic, Philips, Pioneer, Sharp, Sony, Samsung, Onkyo, Oppo, Toshiba und Yamaha produziert.
+Allerdings haben sowohl Oppo als auch Samsung Anfang 2019 angekündigt, die Produktion von BD-Abspielgeräten einzustellen.
+
+Auch Sonys Spielkonsole PlayStation 3 verfügt über ein BD-Laufwerk.
+Sie kann neben Spielen auch Filme dieses Formates wiedergeben.
+Auch der neue Blu-ray-Disc-Standard 2.0 ist mittlerweile dank eines Firmware-Updates auf der Konsole möglich, was die PlayStation 3 nach Aussage des Herstellers zum ersten BD-Abspieler macht, der diesen Standard überhaupt unterstützt.
+
+Auch die PlayStation 4, die Nachfolgerin der PlayStation 3, ist in der Lage, Blu-rays abzuspielen.
+Ebenso besitzt die Ende 2013 erschienene Xbox One ein BD-Laufwerk, die neueren Modelle Xbox One S und Xbox One X verfügen bereits über ein Ultra HD Blu-ray Laufwerk.
+
+Seit 2011 werden zunehmend auch 3D-fähige Blu-ray-Player produziert.
+
+=== Aufzeichnungsgeräte
+
+Das erste außerhalb Japans verfügbare Aufzeichnungsgerät ist der Panasonic DMR-BW500, der in Australien und Frankreich verkauft wird, wo HDTV mittels DVB-Varianten ausgestrahlt wird.
+Die französische Variante gestattet eine geräteinterne Aufzeichnung des über zwei - speziell für das "TNT HD-System" (ein auf DVB-T basierendes System) konzipierte - Empfangsteile empfangbaren französischen Fernsehprogramms auf der eingebauten 500-GB-Festplatte, sowie nach Transcodierung/ Kompression auf Blu-ray Discs und DVDs.
+Ein Kopieren von DV-Videos ist ebenfalls möglich.
+Für den japanischen Markt erhältliche Blu-ray-Recorder sind aufgrund der dortigen Ausstrahlung mittels ISDB, dem Kopierschutz Copy Once und der Netzspannung nicht in Europa verwendbar.
+Für das Frühjahr 2010 sind die ersten Blu-ray-Recorder mit integriertem Doppel-HDTV-Satellitenempfänger und der Fähigkeit zum HD+-Empfang für Deutschland angekündigt.
+
+=== Computerlaufwerke
+
+Neben den Blu-ray-Videoplayern und -Recordern werden von vielen Herstellern auch PC-Laufwerke angeboten.
+Es existieren reine Leselaufwerke, Kombilaufwerke aus CD-/DVD-Brenner und BD-Leselaufwerk sowie Blu-ray-Brenner zum Beschreiben von BD-R- und BD-RE-Rohlingen.
+Letztere können genau wie DVD-Brenner sowohl zum Speichern von Daten als auch zum Erstellen von Video-BDs benutzt werden, was vor allem für Besitzer von HD-Videokameras interessant ist.
+Selbst erstellte Blu-ray Discs können mittlerweile von den meisten aktuellen Blu-ray-Spielern wiedergegeben werden, sofern das kompatiblere BDMV-Format (mit Startmenü) benutzt wird - BDAV, das zweite Format für Endverbraucher, welches bloß die Videodaten ohne Menü enthält, wird von manchen Geräten nicht einwandfrei gelesen.
+
+Einige BD-Laufwerke können zusätzlich zur Blu-ray Disc auch HD DVDs wiedergeben.
+
+=== Filmstudios
+
+Alle großen Filmstudios wie 20th Century Fox, Metro-Goldwyn-Mayer, Sony Pictures Entertainment, Paramount, Universal Studios, The Walt Disney Company, Warner Bros. und Constantin Film veröffentlichen HD-Filme auf Blu-ray Disc.
+
+== Interaktive Anwendungsschicht
+
+Im Rahmen der Blu-ray-Disc-Spezifizierung wird weiterhin eine interaktive Anwendungsschicht definiert, die unter anderem das bisherige DVD-Menü ersetzen soll.
+Diese Anwendungsschicht heißt BD-J und wird in einer Variante von Java programmiert, die auf einer Abwandlung der Multimedia Home Platform beziehungsweise GEM-Spezifikation (Globally Executable MHP) basiert.
+Mit ihr ist es möglich, interaktive Anwendungen wie interaktive Filme (Wahl eines von mehreren Handlungssträngen oder Filmenden), Einblendungen, Spiele, Webangebote oder multimediale Zusatzinformationen zu integrieren.
+
+== Datenrate
+
+Die Angabe "1x" entspricht einer Datenrate von 36 Mbit/s.
+Die Daten werden damit etwa viermal so schnell gelesen wie bei einer DVD gleicher Rotationsgeschwindigkeit (einmal).
+Laufwerke für den Einsatz in Filmabspielgeräten werden mit dem bis zu 1,6-fachen dieser Geschwindigkeit, also 54 Mbit/s, betrieben, wodurch gleichzeitig die maximale Datenrate eines Content-Streams inklusive aller Kameraperspektiven und Tonspuren auf diesen Wert begrenzt ist.
+Die AV-Bitrate ist auf 48 Mbit/s beschränkt.
+Laufwerke für den Computereinsatz (bzw. für spätere Spielkonsolen) schaffen jedoch bereits die 8-fache Geschwindigkeit (also 288 Mbit/s; ca. 36 MB/s).
+
+== Aufnahmegeschwindigkeit
+
+== Varianten
+
+=== Professional Discs
+
+Diese Varianten entsprechen nicht den Produkten für Konsumenten.
+Sie sind ausschließlich für professionelle Anwendung gedacht und wurden nur in kleinen Stückzahlen hergestellt.
+
+=== Stereoskopische Variante (3D)
+
+Im Dezember 2009 ist von der Blu-ray-Disc-Association eine Spezifikation für stereoskopische Videos veröffentlicht worden, die den Standard MPEG-4 MVC verwendet, eine Erweiterung des bereits eingesetzten Standards MPEG-4 AVC.
+Ein Abspielen entsprechender 3D-Blu-ray-Discs ist auch auf den bisherigen Playern, welche die stereoskopische Videoausgabe nicht unterstützen, monoskopisch möglich.
+
+=== UHD-Nachfolger
+
+Für Ultra-HD-Filme wurde ein Nachfolge-Standard spezifiziert, siehe Ultra HD Blu-ray.
+Stereoskopische Videos werden im neuen Format jedoch nicht mehr unterstützt.
+
+=== Kleinformate
+
+Zur Blu-ray Disc mit 12 cm Durchmesser gibt es zusätzlich auch eine 8 cm große Blu-ray Disc.
+Die 8-cm-Variante kann als einlagige BD-RE oder BD-R 7,5 GB speichern.
+Diese reduzierte Größe soll unter anderem in kleinen Kameras Anwendung finden und wird zurzeit von Hitachis DZ-BD7H und DZ-BD70 genutzt.
+
+Die Mini-Blu-ray Disc ist eine auf dem roten Laser basierende DVD mit Blu-ray-Datenstruktur und -Inhalt, deswegen wird auch die Bezeichnung BD-9 verwendet, eine Mischung aus BD (für Blu-ray Disc) und DVD-9.
+Diese Scheiben zielen auf den normalen Benutzer ab, der noch keinen Blu-ray-Brenner besitzt, aber bereits seine Filme mit einem Blu-ray-Spieler abspielen will.
+Die Scheiben besitzen zwar dieselbe Datenstruktur, können aber noch nicht mit der Verschlüsselung AACS versehen werden.
+Die Scheiben sollten mindestens mit dreifacher Geschwindigkeit rotieren, um eine Datenrate von 30,24 Mbit/s zu erreichen, weshalb sie von vielen Blu-ray-Playern (die üblicherweise nur für einfache Geschwindigkeit ausgelegt sind) nicht einwandfrei wiedergegeben werden.
+
+Blu-ray-Kleinformate oder Ausführungen mit speziellem Design, wie zum Beispiel in Stern-, Sägeblatt- oder Herzform, können nicht mit Slot-In-Laufwerken verwendet werden, wie sie beispielsweise bei der PlayStation 3 (große und Slim-Version) eingebaut sind.
+Die Verwendung mit einer Super-Slim-Version der PlayStation 3 ist aber wiederum möglich, da hier anstelle eines Slot-In-Laufwerks ein Top-Lader verwendet wird.
+
+=== Als Medium für Video- und Computerspiele
+
+Blu-rays dienen auch als Speichermedium sowohl für Video- als auch für Computerspiele.
+Die Spielekonsolen PlayStation 3, PlayStation 4 sowie Xbox One besitzen ein Blu-ray-Laufwerk und können damit Filme und Spiele von Blu-ray Discs einlesen.
+Nintendos Wii U verwendet ein spezielles Blu-Ray Format, das weder das Abspielen von Filmen noch die Verwendung von doppellagigen Medien ermöglicht.
+Blu-ray Discs als Medium für Spiele werden zum einen wegen des höheren Speicherbedarfs an hochwertigeren Texturen und Spielgrafiken eingesetzt, dienen aber auch als indirekter Kopierschutz, da bis zum Erreichen des Massenmarktes von Blu-ray-Brennern und Rohlingen die illegale Vervielfältigung beim Heimanwender nur in geringem Ausmaße geschehen kann.
+Auch im PC-Bereich kann die Blu-ray für Spiele benutzt werden, wurde aber bis jetzt nur von wenigen Anbietern genutzt.
+
+== Abspielgeräte-Profile
+
+Die Blu-ray-Spezifikationen enthalten Anforderungen an Abspielgeräte, die in sogenannten Profilen zusammengefasst sind.
+
+Der für BD-Live erforderliche Speicher muss nicht zwingend in dem Gerät eingebaut sein, sondern kann auch über einen USB-Stick oder eine Speicherkarte zur Verfügung gestellt werden.
+Besonders bei günstigeren Geräten ohne Aufzeichnungsfunktion ist diese Methode üblich.
+
+== Regionalcode
+
+Genauso wie bei der DVD ist bei der Blu-ray Disc wieder ein Regionalcode implementiert, der verhindern soll, dass beispielsweise eine in den USA erworbene Blu-ray Disc auf europäischen Abspielgeräten verwendet werden kann.
+Die Codes unterscheiden sich jedoch von denen der DVD.
+In der Praxis verzichten viele Filmproduktionsfirmen teilweise oder vollständig auf eine Implementierung des Regionalcodes (zum Beispiel Time Warner).
+Das führt dazu, dass im Moment ungefähr 70 Prozent der erhältlichen Filme auf Blu-ray Disc keine Regionalbeschränkung haben.
+
+Anders als der DVD-Regionalcode wird der Blu-ray-Regionalcode auf Computern nur von der Abspielsoftware, nicht aber vom Laufwerk oder Betriebssystem überprüft.
+Er ist in einer Datei der Abspielsoftware oder in der Registry gespeichert (bei Standalone-Playern ist er Teil der Firmware).
+In manchen Internetforen werden Hacks zum Zurücksetzen des Blu-ray-Regionszählers veröffentlicht, manchmal wird auch Deinstallation und Neuinstallation des Abspielprogramms empfohlen.
+
+Eine neuere Variante des Blu-ray-Regioncodes prüft nicht nur die Region, sondern auch den Ländercode der Abspielsoftware oder des Players.
+Das bedeutet aber z. B., dass - obwohl die USA und Japan beide in Region A liegen - einige US-Discs in Japan nicht abgespielt werden können und umgekehrt, da die beiden Länder verschiedene Ländercodes haben (Japan: 19024 , USA: 21843 ).
+
+== Kritik
+
+Neben den erweiterten interaktiven Fähigkeiten von BD-Live (Programmierbarkeit), welche transparent für den Nutzer ablaufen, ist es möglich, dass ohne Wissen des Nutzers Nutzungsprofile erstellt werden können, die in Folge vom Abspielgerät zu den Herstellern per Internet übermittelt werden können.
+Somit ist es möglich, dass der Hersteller einer Blu-ray unbemerkt vom Nutzer Statistiken erhält, wie oft ein Film (oder Teile davon) mit welchen Einstellungen (Sprache, Untertitel usw.) abgespielt wurde.
+Darin sehen Datenschützer ein Problem, zumal der Nutzer weder beim Kauf darüber informiert wird noch der Verwendung zustimmen muss.
+
+== Siehe auch
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

@@ -1,0 +1,65 @@
+Bremsen dienen zur Verringerung bzw. Begrenzung der Geschwindigkeit von bewegten Maschinenteilen oder Fahrzeugen.
+Sie funktionieren meistens durch die Umwandlung der zugeführten Bewegungsenergie über Reibung in Wärmeenergie.
+Im Gegensatz zur Nutzbremse geht dabei die Kinetische Energie für die Fortbewegung verloren.
+Bremsen sind als Maschinenelement eng mit Kupplungen verwandt, die Bremse ist eine spezielle Kupplung, bei der einen Seite feststeht.
+Insofern lassen sich viele Bremsentypen aus Kupplungen ableiten.
+Fahrzeuge im Sinne der StVZO müssen in Deutschland ein Zweikreisbremssystem, also zwei voneinander unabhängig funktionierende Bremsen besitzen.
+Die in Fahrzeugen weitaus am häufigsten verwendeten Bremsenarten sind die Scheibenbremse und die Trommelbremse, eine weiterentwickelte Form der Klotzbremse.
+Meist wird eine Bremse zur Verringerung der Umdrehungsgeschwindigkeit von rotierenden Teilen verwendet.
+Aber viele der angeführten Prinzipien kann man auch zur Verminderung einer linearen Bewegung verwenden, wenn sich auch die Bauweisen etwas unterscheiden.
+Zum Teil wird auch die Art der Betätigung der Bremse zur Kategorisierung verwendet.
+Jedoch sagt beispielsweise die Bezeichnung Druckluftbremse, Hydraulikbremse oder Seilzugbremse nichts über die Bauform aus, sondern gibt nur Art der Kraftübertragung auf die mechanischen Stellelemente an.
+Die Bremsleistung ist von der Bremskraft und der Augenblicksgeschwindigkeit abhängig und wird vollständig in Wärme umgewandelt.
+mit
+Physikalisch wird mit einer Bremse die kinetische Energie (  Q {\displaystyle \Delta Q} ) einer sich um die Geschwindigkeitsdifferenz (  v = v 2 - v 1 {\displaystyle \Delta v=v_{2}-v_{1}} ) abgebremsten (oder verzögerten) physikalischen Masse ( m {\displaystyle m} ) in Wärmeenergie umgewandelt.
+Zu beachten ist, dass die Geschwindigkeit quadratisch in die Berechnung eingeht:
+Infolge der spezifischen Wärmekapazität entsteht Wärmebindung.
+Kühlend wirkt die Wärmestrahlung nach dem Stefan-Boltzmann-Gesetz, die Wärmekonvektion durch Fahrtwind oder Gebläse mit veränderlichem Wärmeübergangskoeffizienten und der Wärmeleitung durch die Verbindungselemente (Konduktion).
+Eine Beispielrechnung zu Erwärmung einer Scheibenbremse enthält der Hauptartikel Bremsscheibe.
+Alle mechanischen Bremsen sind Schleifbremsen und beruhen darauf, eine Bewegung durch Reibung zwischen einem festen und dem bewegten Körper abzubauen.
+Seit den frühesten Tagen ist das Prinzip der Kratzbremse bekannt.
+Ein Hebel ist so an einem Fahrzeug befestigt oder eingeklemmt, dass das (möglichst) kürzere Stück zum Boden und das längere Stück zum Bediener zeigt.
+Durch Anziehen des Bremshebels wird das kurze untere Ende über Hebelwirkung in den Untergrund gedrückt und bremst so das Fahrzeug ab.
+Diese Technik war lange Zeit verbreitet und kommt auch heute noch zur Anwendung, z. B. bei Schlitten, Sportgeräten oder Kinderfahrzeugen.
+Der Hemmschuh stellt eine primitive Form der Klotzbremse dar.
+Die überwiegende Anzahl aller im 20. Jahrhundert verwendeten Bremsen bei Landfahrzeugen lässt sich dem Prinzip der Klotzbremse zuordnen.
+Spindelbremsen an historischen Kutschen haben beispielsweise Bremsklötze aus Lindenholz.
+Die Backenbremse ist eine mechanische Bremse, bei der ein drehender Zylinder von außen durch angedrückte Bremsbeläge gebremst wird.
+Die Trommelbremse verfügt über ein zylinderförmiges umlaufendes Gehäuse (Trommel), an das beim Bremsen innen oder außen liegende, feststehende Bremsbacken gepresst werden.
+Die Betätigung der Bremsbacken erfolgt meist über einen Hydraulikzylinder innerhalb der Trommel oder über sich drehende Exzenterbolzen von außen.
+Je nach Konstruktion werden weitere Bauformen unterschieden.
+Die Scheibenbremse weist eine auf der Welle mitlaufende Bremsscheibe auf, an die die Bremsbeläge beidseitig gepresst werden.
+Solche Bremsen findet man heute bei allen gängigen Fahrzeugen wie Pkw, LKW, Motorrädern, Fahrrädern und auch an Zügen.
+U. a. in Bremsmotoren sorgen Elektromagnete, die eine federbelastete Bremsscheibe aus weichmagnetischem Eisen anziehen, für das Lösen der Bremse.
+Bei manchen Bremsmotoren wird das magnetische Feld des Motors selbst zum Lösen der Bremse verwendet oder die Gleichspannung für das Lösen der Bremse wird mit einem Gleichrichter aus der Betriebsspannung gewonnen.
+Eine Unterkategorie der Scheibenbremse ist die Ölbadbremse (Oft auch als "Nasse Bremse" bezeichnet).
+Hier rotiert eine (oder mehrere durch Zwischenscheiben getrennte) Bremsscheibe(n) in einem Ölbad welche durch Reibung mit der Druckplatte, Reibring(außen) sowie die Zwischenscheiben abgebremst werden.
+Das Anpressen erfolgt durch eine Druckplatte, welche aus zwei Scheiben besteht.
+Zwischen den Platten sind Kugeln in länglichen, flacher werdenden Vertiefungen angebracht.
+Durch das Verdrehen der beiden Scheiben zueinander, welche sich dadurch auf einander zu oder weg bewegen, wird die Anpresskraft auf die Bremsbelag- und Zwischenscheiben angepasst.
+Das Öl dient zum Abtransport der Wärmeenergie.
+Vorteil dieses Systems ist, dass es temperaturstabil (kein Fading) und sehr verschleiß- und somit wartungsarm ist.
+Darüber hinaus bildet sich kein Bremsstaub.
+Nachteilig sind die, im Falle einer Reparatur, meist hohen Kosten.
+Diese Art von Bremsen findet man teilweise in Traktoren und Quads.
+Die Ölbadbremse ist artverwandt mit der Ölbadkupplung, welche häufig in Motorrädern eingesetzt wird.
+Bei der elektronisch geregelten Keilbremse (Bauform der Scheibenbremse) schiebt ein kleiner Elektromotor einen Bremsbelag mit keilförmigem Rückenprofil zwischen Bremsbacken und Bremsscheibe.
+Bei der konventionellen Keilbremse (eingesetzt bei Pferdekutschen) rammt der Kutscher einen Keil zwischen Rad und Radkasten.
+Bei Magnetschienenbremsen wird ein Bremsklotz durch Magnetkraft auf die Schiene gepresst, auf der das Fahrzeug fährt.
+Eine Magnetschienenbremse (abgekürzt Mg) ist eine Bremse für Schienenfahrzeuge.
+Sie besteht aus eisernen Schleifschuhen mit eingebauten Elektromagneten.
+Bei Stromdurchfluss durch den Elektromagneten wird der Schleifschuh an die Schiene gezogen.
+Zwischen der Schiene und dem daraufgepressten und sich mit dem Fahrzeug vorwärtsbewegenden Schleifschuh entsteht Reibung, die die kinetische Energie der Bewegung in Wärme umwandelt (Dissipation) bis die Bewegungsenergie verbraucht ist oder die Bremse deaktiviert wird.
+Zusätzlich tritt eine Wirbelstrominduktion in der Schiene auf, die eine der Bewegung entgegenwirkende Kraft erzeugt.
+Da die Reibungskräfte mit sinkender Geschwindigkeit zu- und die Wirbelstromkräfte abnehmen, wirkt die Bremse im Vergleich zu einer Radbremse mit metallenen Bremsklötzen im gesamten Bereich relativ linear.
+Die Bandbremse ist ebenfalls eine mechanische Bremse, bei der aber im Gegensatz zur Backenbremse ein Band um eine Trommel geschlungen wird.
+Fliehkraftbremsen dienen in der Regel nicht direkt einer starken Verringerung der Umdrehungszahl, sondern der Begrenzung derselben.
+Sie funktionieren nach demselben Prinzip wie Fliehkraftkupplungen.
+Eine übliche Anwendung war die Begrenzung der Rückdrehgeschwindigkeit der Wählscheibe von Telefonen, dem sogenannten Nummernschalter.
+Gleisbremsen sind Rangiertechnik in Gleisen auf Rangierbahnhöfen, d. h. eingebaute Rangiertechnische Einrichtungen (RTE).
+Sie reduzieren die kinetische Energie des den Rangierberg herablaufenden Waggons.
+Es gibt Energieumwandlungen durch Stöße, Reibung und elektrodynamische Wirkprinzipien an den Radsätzen bzw. Puffern.
+Die Arten werden nach Funktion und Wirkprinzip unterschieden.
+Bei bestimmten Bahnfahrzeugen (zum Beispiel Dampflokomotiven mit Riggenbach-Gegendruckbremse), Flugzeugen und Schiffen wird zum Bremsen der Antrieb in die Gegenrichtung geschaltet oder umgelenkt.
+Bei Luftfahrzeugen wird dies als Schubumkehr bezeichnet.
+Auch bei Booten und Schiffen wird das Prinzip der Schubumkehr zum Abbremsen benutzt.

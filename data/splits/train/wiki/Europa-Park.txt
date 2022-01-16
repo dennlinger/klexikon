@@ -1,0 +1,419 @@
+Der Europa-Park ist ein Freizeit- und Themenpark in Rust, Baden-Württemberg.
+Mit rund 5,8 Millionen Besuchern im Jahr 2019 ist er der meistbesuchte Freizeitpark im deutschsprachigen Raum.
+
+Laut AECOM-Theme-Index 2019 ist der Europa-Park auf Platz 19 der 25 besucherstärksten Freizeitparks der Welt und ist nach dem Disneyland Paris der zweitbesucherstärkste Freizeitpark Europas, sowie der besucherstärkste saisonale Freizeitpark der Welt.
+Die "Golden Ticket Award"-Jury der US-Zeitschrift "Amusement Today" wählte den Europa-Park im September 2019 zum sechsten Mal in Folge zum besten Freizeitpark der Welt.
+
+Auf einer Gesamtfläche von rund 950.000 m^2 werden in 18 Themenbereichen über 100 Fahrgeschäfte und mehrere Shows geboten.
+Zum Park gehören sechs Hotels, ein Campingplatz, ein Tipi-Dorf, ein Kino und ein Konferenzzentrum.
+
+== Geschichte
+
+Während einer USA-Reise hatten Franz Mack und sein Sohn Roland 1972 die Idee, einen Freizeitpark zu eröffnen, der als Ausstellungsfläche für die in ihrem Unternehmen in Waldkirch hergestellten Produkte dienen sollte.
+Geeignetes Gelände für den Park wurde zunächst in Breisach gefunden.
+Weil diese Fläche später als Rhein-Überschwemmungsgebiet ausgezeichnet wurde, fiel sie aber als Park-Gelände aus.
+Der Name Europa-Park wurde in Anlehnung an den bei Breisach gelegenen Europasee gewählt.
+
+In der Gemeinde Rust erwarb die Familie Mack den Park des Schlosses Balthasar.
+Als weiteres Gelände wurde ein angrenzender Märchenpark erworben.
+Die Gesamtfläche belief sich auf 16 Hektar und der Park wurde am 12. Juli 1975 eröffnet.
+
+Nach der Gründung des Europa-Parks und dem Einstieg ins Freizeitparkgeschäft 1975 war der Park zunächst als Ausstellungsgelände für Produkte der Familie Mack geplant.
+Er wurde von Franz Mack und seinen Söhnen Roland, später auch Jürgen, geleitet.
+Trotz der anfänglichen Skepsis von Pressevertretern besuchten den Park bereits im ersten Jahr 250.000 Menschen, ein Jahr später 700.000 und 1978 eine Million.
+1982 folgte die Eröffnung des ersten Themenbereichs Italien und die damit verbundene Umsetzung des europäischen Themenkonzeptes.
+1984 und 1985 wurden die ersten beiden größeren Bahnen, der Alpenexpress "Enzian" und die Schweizer Bobbahn eröffnet.
+Mit der Umsetzung des europäischen Themenkonzeptes entstanden Holland (1984), England (1988), Frankreich (1990) (mit dem Wahrzeichen Eurosat), Skandinavien (1992), Schweiz (1993) und Spanien (1994).
+1991 besuchten zwei Millionen Menschen den Europa-Park.
+
+Dem Bedarf an Übernachtungsmöglichkeiten wurde 1995 mit der Eröffnung des El Andaluz, dem ersten Hotel im Freizeitpark, das bereits im ersten Jahr zu 87 Prozent ausgebucht war, Rechnung getragen.
+1999 folgte der Bau des zweiten Hotels Castillo Alcazar.
+Die Auslastung der Hotels lag im Jahr 2000 bei 97,7 Prozent bei drei Millionen Parkbesuchern.
+2001/02 öffnete der Park das erste Mal in der Wintersaison, in welcher 180.000 Gäste gezählt wurden.
+Der Park entwickelte sich vom Eintages- zum Mehrtagesausflugsziel.
+Im Jahr 2011 hatte er ungefähr 4,5 Millionen Besucher.
+2018 umfasst der mittlerweile 90 Hektar große Park dreizehn Achterbahnen, sechs Themenhotels (El Andaluz, Santa Isabel, Castillo Alcazar, Colosseo, Bell Rock und Kronasar) und 100 weitere Attraktionen.
+Bis 2011 wurden knapp 700 Millionen Euro in den Park investiert.
+
+=== Großbrand am 26. Mai 2018
+
+Am 26. Mai 2018 brach gegen 18:20 Uhr im Hallenkomplex, der sich zwischen dem niederländischen und dem skandinavischen Themenbereich befindet und die Themenfahrt Piraten in Batavia, eine Showbühne, ein Restaurant, sowie eine Kostümkammer für Mitarbeiter beinhaltet, ein Feuer aus, weshalb zunächst der Hallenkomplex geräumt wurde.
+Da sich das Feuer aber zu einem Großbrand entwickelte, wurden wenig später auch die beiden angrenzenden Themenbereiche und schließlich der gesamte Park, der an diesem Tag von ca. 25.000 Gästen besucht worden war, evakuiert.
+Trotz des Eingreifens der Feuerwehr wurde der Hallenkomplex sowie der südöstlich daran angrenzende Teil des skandinavischen Themenbereichs mit mehreren Restaurants und den Attraktionen Versunkene Stadt "Vineta" und Andersens Märchenturm komplett zerstört.
+
+Daneben wurde die Attraktion Fjord-Rafting, deren Kanal unter anderem entlang des Hallenkomplexes und des betroffenen Teils des skandinavischen Themenbereichs verläuft, durch Trümmer von abgebrannten Holzfassaden in Mitleidenschaft gezogen.
+Nach Angaben der Betreiber entstand ein Sachschaden in zweistelliger Millionenhöhe.
+Im Verlauf der Löscharbeiten wurden sieben Feuerwehrleute leicht verletzt.
+Unter den Besuchern und Mitarbeitern gab es keine Verletzten.
+Nachdem das Feuer bis auf einige Glutnester gelöscht worden war, öffnete der Park am nächsten Morgen wieder regulär.
+Lediglich die vom Feuer zerstörten Attraktionen, Restaurants, Showbühnen und Läden, das in Mitleidenschaft gezogene Fjord-Rafting, sowie die sehr nahe am betroffenen Areal stehende Attraktion Koffiekopjes blieben zunächst geschlossen.
+Auch die Attraktion Vindjammer war, da einer der zwei Zugänge über den betroffenen Teil des skandinavischen Themenbereichs verläuft, zunächst geschlossen.
+Nachdem der verbliebene Zugang angepasst und der andere Zugang abgesperrt worden war, wurde die Attraktion aber kurz nach der Öffnung des Parks dennoch in Betrieb genommen.
+Am 31. Mai 2018 folgte die Attraktion Koffiekopjes.
+Nach dem Abschluss der Spurensuche zur Brandursache und der anschließenden Befreiung des Fjord-Rafting-Kanals von Trümmern, wurde die Attraktion am 9. Juni 2018 wieder in Betrieb genommen.
+
+Als Ausbruchsort des Feuers wurde zunächst eine Lagerhalle nahe der Piraten in Batavia vermutet.
+Am 6. Juni 2018 gab das Polizeipräsidium Offenburg schließlich bekannt, dass das Feuer nach dem gegenwärtigen Stand der Ermittlungen auf einen technischen Defekt im Bereich des Fjord-Raftings zurückzuführen sei.
+Die Auswertung ist jedoch noch nicht abgeschlossen.
+
+Sowohl das skandinavische Dorf als auch die Piraten in Batavia wurden weitgehend originalgetreu wieder aufgebaut, unter Berücksichtigung aktueller Vorschriften und Bestimmungen sowie Nutzung modernerer Technik (z. B. elektromechanischer anstelle pneumatischer Animatroniken).
+Aus Pietätsgründen entfiel die Brand- bzw. Brandschatzungs-Szene bei den Piraten.
+Skandinavien wurde im Juli 2019 wiedereröffnet, zudem entstand in diesem Themenbereich der neue Dark-Ride Snorri Touren, der sich die Wasserwelt Rulantica und das dazugehörige Maskottchen Snorri zum Thema gemacht hat.
+Die bei vielen Besuchern sehr beliebte Themenfahrt Piraten in Batavia ist seit dem 28. Juli 2020 wiedereröffnet.
+
+== Betreiber
+
+Betrieben wird der Europa-Park von der Europa-Park GmbH & Co Mack KG.
+Familie Mack stellt seit acht Generationen Achterbahnen und Attraktionen her.
+Geschäftsführer des Parks sind Roland Mack, sein Bruder Jürgen Mack und Roland Macks Söhne Thomas Mack und Michael Mack.
+
+Die Betreiberfirma beschäftigte mit Stand von 2016 im Jahresdurchschnitt rund 3600 Mitarbeiter und erzielte einen Umsatz von 300 Millionen Euro.
+
+== Logo und Soundtrack
+
+Das Logo des Parks zeigt den Schriftzug "EUROPA PARK" verziert mit drei fliegenden Sternen, deren Spitzen Flügelbewegungen nachahmen.
+Es ist markenrechtlich geschützt.
+
+Im Juli 2011 stellte der Europa-Park eine orchestrale Soundtrack-CD vor, die ihm eine musikalische Identität verleihen soll.
+Eigens komponiert wurde das Werk vom Freiburger Komponisten Hendrik Schwarzer und eingespielt vom Belarus Philharmonic Orchestra unter der Leitung von Dirigent Bernard Fabuljan.
+Das prominenteste Motiv der Komposition wird mit Bezug auf die fliegenden Sterne des Parklogos als "Flying Stars Fanfare" bezeichnet.
+Die übrigen Stücke des Soundtracks sind überwiegend Variationen dieses Motivs.
+Sie sind seit Juli 2011 in verschiedenen Bereichen des Parks zu hören und werden in Werbe- und Infofilmen verwendet.
+Der Titel "The Old Man And His Dream" ist eine Hommage an den 2010 verstorbenen Parkgründer Franz Mack.
+
+== Eingangsbereich
+
+Im Eingangsbereich zum Europa-Park steht die große Statue des Park-Maskottchens, Ed Euromaus.
+Es folgt der "Brunnen der Begegnung", gleich danach mehrere Kassenhäuschen, und dahinter befinden sich die Kassen für Gruppen- und Bus-Anmeldungen, sowie der eigentliche Eingangsbau.
+In dessen oberem Stockwerk befindet sich der Bahnhof Alexanderplatz, der als Station für die Einschienenbahn EP-Express dient.
+
+== Transportsysteme
+
+Aufgrund der Größe des Parkes dienen die drei Bahnen EP-Express, Monorail-Bahn und Panoramabahn neben ihrer Funktion als Fahrgeschäft auch als Transportsystem.
+Daneben wurde zur Sommersaison 2015 auf dem Parkplatz des Parkes ein Fahrsteig namens Express Lane in Betrieb genommen.
+
+=== Panoramabahn
+
+Die Panoramabahn wurde zusammen mit dem Park 1975 eröffnet.
+Zunächst diente sie ausschließlich als Aussichtsbahn, und ihr Start- und Zielbahnhof lag im Eingangsbereich des Parks.
+Heute hält die Panoramabahn neben dem Bahnhof Deutschland auch an den Bahnhöfen England, Spanien und Russland.
+Der Park besitzt fünf Züge vom Typ C. P. Huntington.
+Hergestellt werden diese Züge von der US-amerikanischen Firma Chance Morgan.
+In der Wintersaison 2019/2020 nahm der Park die erste Elektrolok in Betrieb.
+Von Zeit zu Zeit sollen alle Loks mit Elektroantrieb ausgestattet werden.
+
+=== Monorail-Bahn
+
+Die Monorail-Bahn ist die ältere Einschienenbahn im Europa-Park.
+Ursprünglich war die 1990 eröffnete Bahn eine reine Aussichtsbahn mit Start- und Zielpunkt im Historama im luxemburgischen Themenbereich.
+2009 wurde die Monorail über Island verlängert und hält nun auch in Island.
+
+=== EP-Express
+
+Der EP-Express wurde von AEG von Roll gebaut und ist neben seiner Funktion als Panoramabahn schon von Beginn als Transportmittel angelegt worden.
+Es handelt sich um eine Einschienenbahn nach Art einer Alwegbahn mit geschlossenen, klimatisierten Wagen, die auf einem Rundkurs von 2,5 km Länge in einer durchschnittlichen Höhe von 6 m mit einer Maximalgeschwindigkeit von 20 km/h fährt.
+Gemeinsam mit dem Hotel El Andaluz 1995 eröffnet, diente der EP-Express im Europa-Park auch dazu, das Hotel mit dem Haupteingang zu verbinden.
+Im Laufe der Zeit wurden neben den Bahnhöfen Alexanderplatz (Haupteingang) und Spanien, die Bahnhöfe Griechenland und Europa-Park Hotel-Resort eröffnet.
+
+== Themenbereiche
+
+Der Park ist in 18 Themenbereiche aufgeteilt, von denen 15 europäische Länder/Regionen sind und möglichst authentisch und landestypisch gestaltet sind.
+Sie sollen den Besuchern das Gefühl vermitteln, innerhalb eines Tages mehrere europäische Länder entdecken zu können.
+Der erste Themenbereich war 1982 Italien.
+Als bauliche Vorlage für den Schweizer Themenbereich diente das Schweizer Bergdorf Grimentz.
+Roland Mack ist seit 2006 Ehrenbürger des benachbarten Chandolin.
+Das "Chocoland" war ein Themenbereich ohne direkten Landesbezug.
+2010 wurde es aufgegeben und die Attraktionen dem englischen Themenbereich hinzugefügt.
+Das "Chocoland" wurde zum "Europa-Park-Historama" umgestaltet und im ehemaligen Drehtheater "Zeitreise" eine Ausstellung über die Geschichte des Europa-Parks eingerichtet.
+Im Zuge der Eröffnung von Rulantica wurde das Erdgeschoss inkl. Drehtheater in einen Infobereich für den Wasserpark umgebaut.
+Andere Themenbereiche ohne Landesbezug sind "Abenteuerland" (1978), "Grimms Märchenwald" (2012 neugestaltet) und "Königreich der Minimoys" (2014).
+
+== Attraktionen
+
+Der Freizeitpark bietet eine Mischung aus Fahrgeschäften, Themenbereichen und Parkanlagen.
+
+Eine der Hauptattraktionen ist die Achterbahn Silver Star, die vom Schweizer Ingenieurbüro Bolliger & Mabillard Ingenieurs Conseils SA geplant und in Zusammenarbeit mit Mercedes-Benz erstellt wurde.
+Bis Anfang 2006 war sie die schnellste und bis 2012 die höchste Achterbahn Europas.
+Der Wartebereich der Bahn führt durch ein von Mercedes-Benz ausgestattetes Museum, in dem unter anderem Tourenwagen und Formel-1-Rennwagen betrachtet werden können.
+
+Ein weiteres Fahrgeschäft ist die Poseidon, die erste Wasserachterbahn in Europa.
+
+Weitere Fahrgeschäfte sind die Euro-Mir, welche mit drehbaren Gondeln bestückt ist, so dass die Strecke zeitweise rückwärts durchfahren wird.
+
+In der Eurosat verläuft die Fahrt innerhalb einer mit Weltraumeffekten versehenen großen Kugel.
+Zum Saisonstart 2006 wurde in Anlehnung an die Fußball-Weltmeisterschaft in Deutschland Eurosat mit handgemalten Folien als WM-Ball Teamgeist verkleidet und an Halloween ist sie als der größte Kürbis der Welt verkleidet.
+Die Eurosat war von Sommersaisonende 2017 bis ca. Mitte der Sommersaison 2018 wegen Umbaus geschlossen und wurde zum Eurosat - CanCan Coaster im Stil des berühmten Moulin Rouge umgestaltet.
+
+Im Themenbereich Island befindet sich der Blue Fire Megacoaster, die erste Hochgeschwindigkeitsachterbahn des Europa-Parks mit Linearmotorabschuss und Überschlagelementen - einem Looping, zwei Korkenziehern und einer Heartline Roll.
+Diese Achterbahn beschleunigt von 0 auf über 100 km/ h in 2,5 Sekunden, erreicht eine Höchstgeschwindigkeit von 110 km/ h, ist 38 m hoch und 1.056 m lang.
+
+Ebenfalls im Themenbereich Island wurde 2012 der Wodan - Timburcoaster eröffnet, die erste Holzachterbahn im Europa-Park.
+Die Besonderheit besteht darin, dass sich die Bahn mit dem Blue Fire Megacoaster und Atlantica Supersplash kreuzt.
+Wodan ist 1.050 Meter lang und erreicht eine Geschwindigkeit von über 100 km/ h.
+
+=== Achterbahnen
+
+=== Weitere Fahrgeschäfte
+
+Ergänzt wird das Fahrangebot durch mehrere Wasserfahrgeschäfte, zahlreiche Karussells und Themenfahrten.
+Bei letzteren handelt es sich um Fahrten mit einem Boot in einem Wasserkanal oder einem Wagen auf einer Schiene, welche die Besucher mit Hilfe von computergesteuerten animierten Puppen (sogenannten "Animatronics") in fremde Welten und Szenerien versetzen.
+Beispielhaft hierfür stehen Piraten in Batavia (durch einen Großbrand am 26. Mai 2018 zerstört) oder Madame Freudenreich Curiosites mit Dinosauriern.
+Im Einzelnen bietet der Park:
+
+== Shows, Paraden und 4D-Kino
+
+Der Europa-Park bietet auch rund ein Dutzend unterschiedliche Shows, darunter Eiskunstlauf-, Variete- oder Flamenco-Shows, sowie für Kinder das Marionettentheater und die Junior Club Studios, eine interaktive Show, in der Kinder in die Welt der Filmtechnik eintauchen können.
+
+Eine der Shows war das Drehtheater-Multimediashow "Zeitreise".
+Mittelpunkt war dabei ein kreisförmiges Theater, aufgeteilt in sechs Sektionen, wobei sich die Zuschauerplätze um das Theater drehten und jeder Betrachter so eine Sektion nach der anderen zu sehen bekam.
+Zum 35. Geburtstag des Europa-Parks am 12. Juli 2010 wurde das Theater umgestaltet und erhielt den neuen Shownamen Europa-Park Historama - Die Show.
+Es zeigte die 35-jährige Geschichte des Europa-Parks auf spektakuläre Weise mit 4D-Effekten und einer 180°-Sicht.
+Seit der Sommersaison 2018 dient das Drehtheater als "Preview Center" für den Wasserpark Rulantica.
+
+Im Barocktheater Europa-Park Teatro, dass sich im italienischen Themenbereich befindet, wurde während den Halloween-Saisons 2014-2017 mehrmals täglich das Musical "Spook Me!" aufgeführt.
+In der Sommersaison 2018 und 2019 wurde dort "Rulantica - The Musical" gezeigt.
+Beide Musicals wurden von Hendrik Schwarzer komponiert; zum Ensemble gehört unter anderem Ornella de Santis, die jeweils die weibliche Hauptrolle spielt.
+In der Sommersaison zeigt der Park dort die Zaubershow "It's Magic!", in der u. a. der Magier Peter Valance auftritt.
+Ebenso findet hier im Winter die jährlich thematisch wechselnde Dinnershow "Cirque d'Europe" statt.
+
+In der Arena im spanischen Themenbereich, welche bis zu 2.000 Besucher fasst, werden mittelalterliche Ritterspiele aufgeführt.
+
+Das Eisstadion gehörte bis zur Saison 2007 dem schweizerischen Themenbereich an, heute besitzt es eine griechische Fassade und wird geleitet von Ian Jenkins.
+In der Sommersaison 2018 präsentierte der Park hier die Show "Paddington on Ice".
+
+Ebenso findet tägliche eine große Parade mit bunten Wagen und kostümierten Darstellern statt.
+
+Im 4D-Kino des Parks läuft mehrmals täglich ein etwa 15-minütiger Kurzfilm.
+Abends nach Parkschluss wird im Kino ein aktueller Kinofilm gezeigt, oft jedoch auch mit den zusätzlichen 4D-Effekten.
+Zur Wintersaison 2018/2019 kam ein neuer 4D-Film in das Magic Cinema.
+Der Film heißt Ed & Edda in "Nachts im Park 4D".
+In der Sommersaison 2020 läuft drei Mal täglich der 11-minütige Kurzfilm "Aufbruch nach Batavia", jedoch als 2D-Film.
+Das Magic Cinema fasst insgesamt 448 Besucher, die Größe der Leinwand misst 19 x 9 Meter.
+
+Insgesamt bietet der Europa-Park über sechs Stunden Showprogramm.
+
+=== Fernsehproduktionen aus dem Park
+
+Der Europa-Park gewinnt als Medienstandort für Fernsehproduktionen immer mehr an Bedeutung.
+So produzieren unter anderem die Sender BR, Sat.1, SWR, ZDF, Nickelodeon und ProSieben immer wieder Sendungen im Europa-Park.
+Der SWR überträgt seit dem Sommer 1995 jedes Jahr live die Sendung Immer wieder sonntags aus der IWS-Arena im Europa-Park, die seit 2005 von Stefan Mross moderiert wird.
+Unter anderem werden auch Kombitickets angeboten, mit denen man die Show und den Park am selben Tag besuchen kann.
+
+== Veranstaltungen
+
+=== Euro Dance Festival
+
+In der Winterpause des Parks findet jeweils im Februar das Euro Dance Festival statt.
+Hier treffen sich Tanzbegeisterte aus der ganzen Welt.
+In über 200 Workshops werden neue Schrittkombinationen, Techniken und Tänze von den besten und bekanntesten Tanzpaaren und Tänzern der Welt unterrichtet.
+Zu Gast waren unter anderem schon Detlef D! Soost, William Pino und Alessandra Bucharelli, Isabel Edvardsson, Franco Formica, Oliver Wessel-Therhorn, Kristina & Peter Stokkebroe, Luis Vazquez & Melissa Fernandez.
+
+=== Ladies Only Festival
+
+Das Ladies Only Festival findet in der Winterpause des Europa-Parks zwischen Januar und März an einem Wochenende statt.
+Dabei verbindet das Festival die Elemente Fitness, Tanz, Gesundheit, Beauty und Wellness.
+An vier Tagen finden über 200 Workshops und Seminare bei 80 Trainern statt.
+
+=== Miss-Germany-Wahl
+
+Seit 2002 findet im Februar die offizielle Wahl der Miss Germany im Europa-Park Dome statt.
+Veranstaltet wird sie von der Miss Germany Corporation aus Oldenburg.
+Die Kooperation ist so erfolgreich, dass die Zusammenarbeit 2010 für ein weiteres Jahrzehnt verlängert wurde.
+
+=== Erlebnisgastronomie
+
+Die Erlebnisgastronomie spielt eine weitere Rolle im Park.
+Diese wird nach Parkschluss kombiniert mit Unterhaltungsprogrammen an unterschiedlichen Örtlichkeiten angeboten, unter anderem bei der Dinner-Show, bei der artistischen Abendveranstaltung Indonesia Malam, beim Alemannischen Rittermahl sowie der Abendveranstaltung Dinner & Movie.
+
+=== Science Days
+
+Im Mai jeden Jahres finden die mehrtägigen Science Days für Kinder, im Oktober die Science Days für (ältere) Schüler/innen statt.
+Es handelt sich um das älteste Wissenschaftsfestival Deutschlands mit Ausstellern aus dem Industrie-Bereich, Schulen, Krankenhäusern und Universitäten sowie wissenschaftlichen Vorträgen und Shows.
+
+== Halloween
+
+Seit dem Jahr 1998 findet Halloween im Europa-Park statt.
+Der Park versetzt den Besucher von Ende September bis Anfang November durch unzählige Kürbisse in den verschiedensten Farben, Strohballen, Maisstauden und Skelette in Gruselstimmung.
+Zahlreiche Attraktionen, Shows und auch Gastronomieangebote werden dabei alljährlich dem Halloweenthema angepasst.
+
+In der Saison 2014 fand zudem die Premiere des vom Europa-Park eigenständig produzierten Halloween-Musicals "Spook Me!" statt.
+
+=== Horror Nights
+
+In den Jahren 2007-2011 wurden jeweils im Oktober in Zusammenarbeit mit Marc Terenzi die "Terenzi Horror Nights" veranstaltet.
+Die Besucher konnten 2007 und 2008 dabei in der Dunkelheit durch die italienischen und französischen Themenbereiche laufen.
+2009 wurde die Veranstaltung auf den griechischen, wie auch auf den schweizerischen Themenbereich verlegt.
+Darsteller wurden als verschiedene Monster, zum Beispiel Zombies, verkleidet und jagten den Gästen Angst und Schrecken ein.
+Von 2010 bis 2016 wurde diese Veranstaltung erneut in das Jahresprogramm mit aufgenommen und in den Jahren 2011-2012 und 2015-2016 unter dem Titel "Horror Nights starring Marc Terenzi" vermarktet.
+2013-2015 hieß das Event nur noch "Horror Nights", da es ohne Marc Terenzi stattfand.
+
+=== Traumatica
+
+Im Jahr 2017 wurden die Horror-Nights durch Traumatica ersetzt.
+Diese Veranstaltung findet abends zum Teil im griechischen Themenbereich, zum Teil außerhalb des eigentlichen Parkgeländes statt.
+Der Besucher wird dabei in eine postapokalyptische Welt versetzt, in der fünf verschiedene Gruppierungen um die Vorherrschaft kämpfen, deren Hauptquartiere als Gruselhäuser mit Live-Schauspielern und Spezialeffekten besucht werden können.
+
+=== Tortuga - Vergessene Piraten
+
+2006 befand sich im griechischen und von 2007 bis 2011 im skandinavischen Themenbereich Tortuga - Vergessene Piraten, wo in dunklen Gängen Live-Erschrecker auf die Besucher warteten.
+Der spanische Name Tortuga bezeichnet die zweitgrößte Insel Haitis, die zwischen 1640 und 1670 Anlaufstelle von Piraten war.
+Diese Show gab es nur in den Halloweenwochen.
+
+=== The Villa
+
+Nach dem Wegfall des Tagesmazes Tortuga - Vergessene Piraten lehrte in den Jahren 2012-2013 The Villa den Tagesbesuchern das Fürchten.
+Das als viktorianisches Traumhaus aus dem 19. Jahrhundert gestaltete Grusellabyrinth im griechischen Themenbereich wartete neben zahlreichen Live-Erschreckern mit Spezialeffekten auf die Besucher.
+
+=== Tenems Rache
+
+In den Jahren 2015-2016 gab es unterhalb des Wartebereiches von Poseidon das Tagesmaze Tenems Rache.
+In dem Gruselhaus mussten die Besucher durch dunkle Gänge laufen, wo Live-Erschrecker sowie Licht- und Nebeleffekte auf sie warteten.
+Das Design des Hauses wurde an eine ägyptische Grabkammer angelehnt.
+
+=== Halloween-Festival Mysteria
+
+Die große Halloween-Show Mysteria fand bis 2016 alle zwei Jahre im Wechsel mit einem ca. 30-minütigen Konzert des Schweizer Stars DJ BoBo auf dem Festivalgelände des Parks statt.
+Mit Livegesang, artistischen Darbietungen und Pyro- und Lasereffekten begeistert die Show in der letzten Woche der Sommersaison die Besucher.
+
+Bis 2011 spielte die Show unter dem Motto Castillo Mystico in einer gespenstischen Burg.
+2013 wurde eine gänzlich neue Geschichte rund um zwei verfeindete Gangs in einer Containerlandschaft am Stadtrand.
+
+=== Hellfire Fountains
+
+Seit 2017 wurde die Halloween-Show Mysteria durch die Fontänen- und Feuershow Hellfire Fountains ersetzt, die in der letzten Woche der Saison mehrmals täglich in den Abendstunden präsentiert wird.
+
+== Wintersaison im Europa-Park
+
+In der Saison 2001/2002 öffnete der Europa-Park erstmals auch für eine Wintersaison.
+Die Besucherzahl betrug damals 180.000 Gäste und stieg bis 2011/12 auf knapp 500.000 Besucher an.
+Mit einer Eislauffläche, einer Skibobstrecke, einem großen Weihnachtsmarkt und weihnachtlichem Schmuck und einem eigens aufgebauten Riesenrad wird der Park der Jahreszeit angepasst.
+Seit 2002 findet einmal jährlich das Weihnachtsmann-Treffen statt.
+Besucher, die sich als Weihnachtsmann verkleiden, sparen beim Eintritt.
+
+Folgende Attraktionen sind während der Wintersaison geschlossen: African Queen, Atlantica SuperSplash, Fjord-Rafting, Paddeltour, Poseidon, Tiroler Wildwasserbahn, Wackelsteg und Seilfähre, Wasserspielplatz und der Wasserweg.
+
+Der Blue Fire Megacoaster (seit 2012), Silver Star (seit 2017) und Wodan Timburcoaster (seit 2014) sind bei entsprechender Witterung auch im Winter in Betrieb.
+
+== Europa-Park Resort
+
+Die sechs Hotels und das Europa-Park "Camp Resort" werden im sogenannten Europa-Park Resort zusammengefasst.
+Das größte Hotel-Resort Deutschlands umfasst ca. 5.800 Betten.
+2019 wurde erstmals die Zahl von einer Million Übernachtungsgästen erreicht.
+Von den Hotels erhalten die Gäste einen gesonderten Zugang zum Park und können 30 Minuten vor der regulären Öffnungszeit in den Park.
+Für Gäste des Hotels Kronasar, das etwas weiter entfernt liegt, wird ein kostenloser Bus-Shuttle-Service zum Park angeboten.
+
+Von 1996 bis zur Wintersaison 2015/16 konnten Besucher auch im Gästehaus "Circus Rolando" in unmittelbarer Nähe des Haupteingangs übernachten.
+Die 23 Zimmer waren vergleichsweise schlicht und mit bunten Zirkusmotiven dekoriert.
+Ein Restaurant gab es im Gästehaus nicht.
+Es wurde zu Beginn 2016 geschlossen, um Platz zu schaffen für die neue Attraktion Voletarium.
+
+Das Europa-Park "Camp-Resort" besteht aus einem Tipidorf und Caravaning.
+Im Tipidorf gibt es als Übernachtungsmöglichkeiten Tipizelte, Blockhäuser und Planwagen.
+Sie sind in einem kleinen Westerndorf um einem See herum angeordnet, wo sich auch das Restaurant "Silverlake Saloon" befindet.
+Beim Europa-Park Caravaning stehen den Besuchern 200 Stellplätze für Wohnwagen, Wohnmobile und Zelte zur Verfügung.
+
+Unter dem aus Conference und Entertainment ("Tagen und Feiern") zusammengesetzten Begriff Confertainment stellt der Park seit 1998 auch Tagungs- und Veranstaltungsorte zur Verfügung.
+
+Liste der Hotels im Europa-Park Resort:
+
+Da die vorhandenen Hotels mit einer Auslastung von 95 % an ihrer Kapazitätsgrenze sind, ist für die nächsten Jahre der Bau zweier weiterer Hotels geplant.
+
+== Confertainment Center
+
+Neben zahlreichen kleineren Sälen in den Hotels sowie Räumlichkeiten, die sonst dem normalen Publikumsverkehr dienen, bietet der Europa-Park neben dem Haupteingang ein eigenes Veranstaltungszentrum an.
+Als größere Säle existieren dort der Europa-Park Dome, eine zeltförmige Halle mit rundem Grundriss und einer Größe von 1.250 Quadratmetern, sowie der Ballsaal Berlin, ein in der Mitte teilbarer Raum mit insgesamt achthundert Quadratmetern Fläche.
+2017 wurde die Europa-Park-Arena, eine Halle mit dreitausend Quadratmetern, eröffnet, die unter anderem über eine Empore verfügt.
+Ergänzt wird das Angebot durch kleinere Konferenzräume, die durch ein gemeinsames Foyer verbunden sind.
+Der Zugang erfolgt von außerhalb des Parks, um eine unabhängige Nutzung zu ermöglichen.
+Als Besonderheit verfügt der Ballsaal Berlin zusätzlich über ein eigenes Foyer, das auch als Konferenzraum genutzt werden kann, sowie zusätzlich auch einen direkten Zugang aus dem Park.
+
+== Ed Euromaus
+
+Das Haupt-Maskottchen des Europa-Parks ist Ed Euromaus.
+Seine Freunde sind Edda, Böckli, Louis und Olli Eurofant.
+Der Gegenspieler von Ed Euromaus ist der böse Nachtkrabb.
+In der Geschichtswelt tritt auch die Musik-Band "Die Rustis" in Erscheinung.
+Die Vornamen wurden in der Jubiläumssaison 2015, nach einer öffentlichen Umfrage bekanntgegeben.
+Darüber hinaus gehört seit Mitte der 1980er Jahre Charly, eine stark an Charlie Chaplins Tramp angelehnte Figur, fest zum Darstellerensemble des Parks.
+
+== Verkehr
+
+Der Europa-Park liegt im badischen Rust zwischen Freiburg im Breisgau und Offenburg auf der westlichen Seite der Autobahn A 5.
+Der Rhein, der hier die Grenze zu Frankreich bildet, ist 2,5 km Luftlinie entfernt.
+Der nächste Grenzübergang ist die Fährverbindung zwischen Kappel-Grafenhausen und Rhinau (Elsass) in 7 km Entfernung.
+
+Rust verfügt seit 2002 über eine eigene Autobahn-Anschlussstelle mit einer teils vierspurig ausgebauten Zubringerstraße zum 3 km entfernten Europapark.
+Der nächstgelegene Bahnhof ist Ringsheim, von dort verkehren Regionalzüge unter anderem zum ICE-Bahnhof Offenburg.
+Zwischen dem Bahnhof Ringsheim und dem Haupteingang des Parks verkehrt mehrmals täglich der Südbadenbus (SBG).
+Direktbusse verkehren ferner von Emmendingen und Herbolzheim.
+Die Linien 271 und 531 von Reseau 67, dem ÖV des Departement Bas Rhin (Unterelsass), verbinden den Park mit Straßburg und Schlettstadt (Selestat).
+Außerdem ist der Europa-Park mit den Fernbussen von Flixbus zu erreichen.
+Die Verbindungen 007 (Zürich-Hamburg), 008 (Freiburg-Tübingen) und 011 (Konstanz-Saarbrücken) halten am Rheinweg, ca. 100 m vom Haupteingang entfernt.
+
+Nach der Genehmigung des Regierungspräsidiums Freiburg, den Flughafen Lahr als Zubringerflughafen benutzen zu können, konnten ab Mitte 2007 Zubringerflüge von Wien, Rotterdam und London gebucht werden.
+In der ersten Saison 2007 wurden etwa 3500 Gäste in 51 Flugzeugen zum Europa-Park geflogen.
+Jedoch erwies sich der Flughafen 2008 als nicht rentabel, deshalb wurde der Betrieb 2010 wieder eingestellt.
+Mit Linienflügen ist der Europa-Park über den Flughafen Karlsruhe/Baden-Baden erreichbar, von dem aus Shuttledienste angeboten werden.
+
+== Besucher
+
+Die Gesamtbesucherzahl seit Bestehen des Parks beläuft sich auf über 110 Millionen Gäste.
+Im Jahr 2019 besuchten 5,8 Millionen Gäste den Park.
+
+Von den 5,6 Millionen Parkbesuchern im Jahr 2017 machten die Erstbesucher 18 Prozent und die Wiederholungsbesucher rund 82 Prozent aus.
+23 Prozent sind Mehrtagesgäste, die im Durchschnitt 2,3 Tage verweilen.
+Die Zielgruppe des Europa-Parks sind Familien, die 2008 70 % der Besucher stellten.
+Im Durchschnitt hat der Parkbesucher ein Alter von ca. 29 Jahren.
+
+Die Nationalitäten teilten sich 2017 wie folgt auf:
+
+== Energieversorgung
+
+Die "Alte Elz" fließt durch den Park.
+Im Südteil des Geländes trägt ein Laufwasserkraftwerk am Fluss mit zwei Metern Fallhöhe und 275 kW Maximalleistung zur Stromversorgung des Parks bei.
+Die Wasser-Fahrgeschäfte werden nicht mit Flusswasser versorgt, sondern über mehrere Tiefbrunnen auf dem Parkgelände (siehe auch Oberrhein-Aquifer).
+
+== Restaurant Ammolite
+
+Ammolite - The Lighthouse Restaurant wurde unter Küchenchef Peter Hagen mit zwei Michelinsternen ausgezeichnet.
+Es ist mit Stand von 2015 weltweit das einzige Sternerestaurant in einem Freizeitpark.
+
+== Auszeichnungen
+
+2014 wurde der Europa-Park im Rahmen einer Veranstaltung im SeaWorld-Park in San Diego mit dem Golden Ticket Award in der Kategorie Best Amusement Park ausgezeichnet.
+Auch in den Jahren 2015 bis 2019 konnte man den Titel verteidigen und wurde damit sechsmal in Folge als bester Freizeitpark der Welt ausgezeichnet.
+
+== Rulantica
+
+Am 28. November 2019 wurde südöstlich von Rust der Wasserpark Rulantica, ein Erlebnisbad mit Innen- und Außenbereich mit einer Größe von 46 Hektar, eröffnet.
+In einer zwanzig Meter hohen Halle gibt es unter anderem 17 Wasserrutschen, einen Strömungskanal, ein Wellenbad, mehrere Gastronomieangebote und einen Außenpool mit einer Größe von fünfhundert Quadratmetern.
+Der Wasserpark wurde anhand der Geschichte einer fiktiven Insel im europäischen Nordmeer thematisiert, die auf einer im Coppenrath Verlag erschienen Romanserie basiert.
+
+Neben dem Bad wurde das sechste Themenhotel des Parks errichtet.
+Kronasar ist einem Naturkundemuseum nachempfunden.
+Es bietet in dreihundert Zimmern rund 1300 Gästen Platz.
+Zwischen Wasserpark und Hotel wurde ein künstlicher See angelegt, der einem Fjord nachempfunden ist.
+
+Da sich das neue Gelände in einiger Entfernung zum bestehenden Park und den anderen Hotels befindet, steht Gästen eine regelmäßig verkehrende Busshuttle-Linie zur Verfügung.
+
+== Zukünftige Entwicklungen
+
+Ende 2017 verrieten die Geschäftsführer Roland und Michael Mack in mehreren Interviews, dass im Zeitraum 2020-2021 eine große neue Achterbahn "im Zentrum des Parks" gebaut werden soll.
+
+Die Gemeinden Rust und Ringsheim haben gemeinsam ein Gewerbegebiet entlang der Zufahrtsstraße zum Park ausgewiesen, welches sich vom neuen Wasserpark bis zur Autobahn zieht.
+Diese soll Unternehmen aus dem Dienstleistungs- und Tourismusbereich zur Verfügung stehen.
+Es ist auch als Erweiterungsfläche für den Europa-Park vorgesehen, soll aber nicht für einen zweiten Freizeitpark genutzt werden.
+Bisher ist noch nicht bekannt, welche Nutzung dort zukünftig vorgesehen ist.
+
+Die Bürgermeister von Rust und Ringsheim fordern zur besseren Erschließung des Parks mit dem öffentlichen Verkehr die Einrichtung eines ICE-Halts am Bahnhof Ringsheim.
+Bisher ist der Bahnhof dafür noch nicht geeignet, da er nur eine Bahnsteighöhe von 38 Zentimetern aufweist und die Bahnsteiglänge mit 265 Metern für die meisten ICE-Züge auch zu kurz ist.
+Im Zuge des Ausbaus der Rheintalbahn muss der bisherige Haltepunkt aber ohnehin durch einen Neubau ersetzt werden, da die Strecke in diesem Bereich auf vier Gleise ausgebaut wird.
+Im Zuge dessen könnten die Voraussetzungen für einen zukünftigen Fernverkehrshalt geschaffen werden.
+Ab dem Fahrplanwechsel im Dezember 2020 wird ein ECE-Zug von Frankfurt in Richtung Milano morgens gegen 10 Uhr im Bahnhof Ringsheim halten; nachmittags gegen 17 Uhr hält der Gegenzug ebenfalls in Ringsheim.
+
+== Literatur
+
+== Weblinks
+
+== Einzelnachweise
+

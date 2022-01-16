@@ -1,0 +1,6 @@
+Ein Quader ist ein geometrischer Körper, der von 6 Rechtecken begrenzt wird.
+Ein Quader besitzt
+Gegenüberliegende Flächen eines Quaders sind parallel und kongruent .
+Der Quader ist ein rechtwinkliges dreidimensionales Parallelepiped.
+Im Sonderfall gleicher Kantenlängen a = b = c {\displaystyle a=b=c} , bei dem alle Flächen des Quaders Quadrate sind, ergibt sich ein Würfel.
+Im Fall, dass genau zwei Kantenlängen gleich sind, zum Beispiel a = b c {\displaystyle a=b\neq c} , ergibt sich ein quadratisches gerades Prisma, man spricht gelegentlich von einer quadratischen Platte bzw. einer quadratischen Säule .

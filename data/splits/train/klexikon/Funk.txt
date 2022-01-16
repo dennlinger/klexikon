@@ -1,0 +1,28 @@
+Als Funk oder Funktechnik bezeichnet man es, wenn mit Hilfe von besonderen Wellen Signale drahtlos übertragen werden.
+Man braucht dabei also keine Kabelverbindung.
+Diese Wellen nennt man Funkwellen oder Radiowellen.
+Man kann sie nur mit Messgeräten sichtbar machen.
+Es sind Schwingungen von elektrischen Feldern und von Magnetfeldern, die wir nicht sehen können.
+Wissenschaftler sprechen deshalb auch von elektromagnetischen Wellen.
+
+Die Funkübertragung geht ohne eine Kabelverbindung einfach durch die Luft und zum Teil über sehr große Entfernungen.
+Das macht sie sehr vielseitig verwendbar.
+Wir kennen Funkwellen von der Rundfunkübertragung, also Radio und Fernsehen.
+Auch schnurlose Telefone und Handys nutzen die Funktechnik oder Computer im WLAN-Netz.
+Für Radargeräte benötigt man sie genauso wie für die Sensoren der Einparkhilfe in manchen Autos.
+
+== Was braucht man alles für eine Funkübertragung?
+
+Für die Funktechnik müssen Signale umgewandelt werden.
+Das können zum Beispiel einfache Pieps-Töne sein, die Stellung von den Hebeln einer Fernbedienung, aber auch ganze Spielfilme.
+Hierzu wird eine gleichmäßig schwingende Welle mit technischen Geräten nach einem bestimmten Verfahren verändert.
+Man verändert dann entweder die Höhe der Wellenberge oder den Abstand zwischen den einzelnen Wellenbergen.
+Das nennt man auch modulieren.
+
+Die modulierte Welle wird nun an einen Sender weitergeleitet.
+Dieser Sender strahlt dann das Signal als elektromagnetische Welle in seine Umgebung ab.
+Irgendwo kann dann ein Empfänger diese Strahlung über eine Antenne empfangen.
+Die modulierte Welle muss nun wieder in die ursprünglichen Signale zurückverwandelt werden.
+Dazu muss der Empfänger natürlich das Verfahren kennen, mit dem beim Sender moduliert wurde.
+Bei einem ferngesteuerten Auto müssen zum Beispiel der Empfänger am Auto und der Sender der Fernsteuerung genau zueinander passen.
+

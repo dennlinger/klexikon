@@ -1,0 +1,83 @@
+Eine Batterie ist ein Speicher für elektrische Energie auf elektrochemischer Basis.
+Der Begriff "Batterie" ist aus dem Sprachgebrauch des Militärs entnommen, wo es eine Zusammenstellung mehrerer Geschütze bedeutet, analog dazu wurde eine Zusammenschaltung mehrerer galvanischer Zellen mit diesem Begriff belegt.
+Ab der zweiten Hälfte des 20. Jahrhunderts dehnte sich die Verwendung des Begriffs "Batterie" auch auf einzelne Primär- oder Sekundärzellen aus, wobei für letztere eher die Bezeichnung "Akkuzelle" oder abgekürzt "Akku" verwendet wird.
+Der geschilderte Wandel des Sprachgebrauchs wurde in der DIN-Norm 40729 Akkumulatoren; Galvanische Sekundärelemente; Grundbegriffe angesprochen, welche unter Batterie "immer mehrere verbundene Zellen" verstanden hat, wobei diese Begrifflichkeit sich bei der alltäglichen "Unterscheidung jedoch verwischt" hat.
+Es ist sowohl der Oberbegriff für Energiespeicher, als auch die Bezeichnung für eine Primärbatterie.
+Nicht wieder aufladbare Batterien werden Primärbatterie genannt.
+Batterien, die wieder aufgeladen werden können, werden Sekundärbatterie oder landläufig Akkumulator (kurz Akku) genannt.
+Als Batterien gedeutete antike Gefäßanordnungen wie die "Bagdad-Batterie" hätten durch ein Zusammenspiel von Kupfer, Eisen und Säure eine elektrische Spannung von circa 0,8 V erzeugen können.
+Ob diese Gefäße zum damaligen Zeitpunkt vor etwa 2.000 Jahren als Batterien im heutigen Sinn verwendet wurden, ist umstritten und konnte nicht zweifelsfrei nachgewiesen werden.
+Im Jahr 1780 bemerkte der italienische Arzt Luigi Galvani, dass ein Froschbein, das in Kontakt mit Kupfer und Eisen kam, immer wieder zuckte, und hielt das für eine elektrische Wirkung.
+Das erste funktionierende galvanische Element und damit die erste Batterie wurde in Form der Voltaschen Säule im Jahr 1800 von Alessandro Volta erfunden.
+Es folgten in den Folgejahren konstruktive Verbesserungen wie die Trog-Batterie von William Cruickshank, welche den Nachteil des vertikalen Aufbaus der Voltaschen Säule vermied.
+Historisch wird zwischen Trockenbatterien - mit festem oder gelartigem Elektrolyt - und den heute nicht mehr gebräuchlichen Nassbatterien - mit flüssigem Elektrolyt - unterschieden.
+Zu den historischen Nassbatterien, welche nur in bestimmter Lage betrieben werden können, zählen das Daniell-Element von John Frederic Daniell aus dem Jahre 1836 und die verschiedenen Variationen und Bauformen in Form der Gravity-Daniell-Elemente, das Chromsäure-Element von Johann Christian Poggendorff aus dem Jahre 1842, das Grove-Element von William Grove aus dem Jahre 1844 und das Leclanche-Element von Georges Leclanche aus dem Jahr 1866.
+Einsatzbereich dieser galvanischen Nasszellen war primär die Stromversorgung der drahtgebundenen Telegrafiestationen.
+Aus dem Leclanche-Element gingen über mehrere Entwicklungsschritte die noch heute üblichen lageunabhängigen Trockenbatterien hervor, erste Arbeiten dazu stammen von Carl Gassner, welcher die Trockenbatterie im Jahre 1887 patentierte.
+Im Jahr 1901 setzte Paul Schmidt in Berlin erstmals die Trockenbatterie bei Taschenlampen ein.
+Die kommerziell bedeutendsten Batterien sind heutzutage überwiegend Sekundärbatterien, darunter spielen der Blei-Säure-Akkumulator und der Lithium-Ionen-Akkumulator die größte Rolle.
+Primärbatterien sind dennoch aufgrund deren geringen Kosten für viele kleinere Geräte, wie Taschenlampen und Uhren, weiterhin gefragt.
+Unter den Primärbatterien ist die Alkali-Mangan-Batterie die wirtschaftlich bedeutsamste.
+Eine elektrische Zelle ist ein elektrochemischer Energiespeicher und ein Energiewandler.
+Bei der Entladung wird gespeicherte chemische Energie durch die elektrochemische Redoxreaktion in elektrische Energie umgewandelt.
+Diese kann von einem vom Stromnetz unabhängigen elektrischen Verbraucher genutzt werden.
+Alternativ kann sie auch in einem vom Stromnetz abhängigen Verbraucher eingesetzt werden, um kurzzeitige Netzausfälle zu überbrücken, und so eine unterbrechungsfreie Stromversorgung sicherstellen.
+Primärzellen können nur einmal entladen und nicht wieder aufgeladen werden.
+In diesen Zellen sind die Reaktionen bei der Entladung teilweise umkehrbar, das führt jedoch nicht zur Wiederherstellung eines dem Neuzustand ähnlichen Energieinhalts.
+Dagegen sind die wiederaufladbaren Sekundärbatterien (Akkumulatoren) weitgehend in den Ladezustand ähnlich dem Neuzustand zu bringen, so dass eine mehrfache Umwandlung von chemischer in elektrische Energie und zurück möglich ist.
+Die Elektrodenmaterialien legen die Nennspannung der Zelle fest, die Menge der Materialien die enthaltene Energie.
+Wichtige Begriffe in Bezug auf die elektrischen Eigenschaften einer Batteriezelle sind:
+Die schwächste Zelle bestimmt die Qualität einer Batterie.
+In Parallelschaltung kommt es durch Ausgleichsströme zu größeren Verlusten, wenn die Zelle mit geringerer Kapazität früher entladen ist.
+In Reihenschaltung bricht die Spannung unter Last eher zusammen, weil stärkere, noch geladene Zellen Strom durch schwächere, schon entladene Zellen treiben, an denen dann bereits ein Teil der Spannung abfällt.
+Deren erhöhter Innenwiderstand führt nach dem Ohmschen Gesetz zu einer Zellerwärmung, ohne dass die elektrische Energie nutzbar ist.
+Je nach dem Einsatzgebiet gibt es folgende Begriffe und Zuordnungen:
+Aufgrund der vielfältigen Einsatzbereiche mit sehr unterschiedlichen Anforderungen bezüglich Spannung, Leistung und Kapazität gibt es heute Batterien in vielen Typen.
+Diese werden unterschieden beispielsweise
+Handelsübliche Batterien und Zellen unterscheiden sich sowohl in den elektrischen Werten als auch in der geometrischen bzw. konstruktiven Bauform.
+Von den nachfolgend aufgeführten Bezeichnungen können mehrere zusammen einen Zelltyp beschreiben, z. B. "Alkali-Mangan-Zelle - LR 6/AM-3 - AA - Mignon".
+Oft wird aber nur ein bestimmtes Merkmal gefordert, z. B. die Größe "AA" für eine speziell darauf abgestimmte Taschenlampe.
+Im experimentellen Bereich und zur Veranschaulichung des Funktionsprinzips werden recht exotische galvanische Zellen, wie zum Beispiel Zitronenzellen, eingesetzt.
+Als Primärzellen oder Primärelemente werden galvanische Zellen bezeichnet, die nach der Entladung nicht wieder neu aufgeladen werden können.
+Die verschiedenen Typen werden nach den eingesetzten Materialien bezeichnet (ausgenommen wiederaufladbare alkalische Zellen - diese werden trotzdem zu den Primärzellen gezählt):
+Als Gerätebatterien werden häufig Batterien bezeichnet, die sehr verbreitet für die Energieversorgung von Elektrokleingeräten wie Uhren, Radios, Spielzeug, Taschenlampen u. Ä. und auch in fest installierten Geräten wie Rauchmeldern verwendet werden.
+Gerätebatterien müssen kompakt, lageunabhängig einsetzbar, leicht und trotzdem mechanisch robust sein.
+Bei normaler Lagerung und Verwendung im Gerät dürfen sie weder auslaufen noch ausgasen.
+Sie sind in einer Vielzahl von Ausführungen auf der Basis von Zink-Kohle oder Alkali-Mangan im Handel erhältlich.
+Zink-Kohle-Batterien werden seit den 2000er Jahren immer seltener angeboten und heute kaum noch hergestellt.
+Es gibt sehr viele von der IEC genormte Typen und einige Bezeichnungen vom ANSI sowie inoffizielle Namen, insbesondere für die neun gängigsten Kategorien.
+Bei den IEC-60086-Bezeichnungen steht
+Diesen Buchstaben kann ein weiterer Buchstabe vorangestellt sein, um die Batterien nach ihrer chemischen Zusammensetzung zu kennzeichnen:
+Diesen Buchstaben kann eine Zahl vorangestellt sein, um die Anzahl der in Reihe geschalteten Zellgrößen im Gehäuse anzugeben.
+Mit nachgestellten Zeichen werden abweichende Bau- und Anschlussarten bzw. abweichende elektrische Charakteristiken gekennzeichnet.
+Wie bereits oben erwähnt, unterschied man bis etwa 1950:
+Galvanische Elemente und Batterien wurden kurz galvanische Stromerzeuger genannt und waren in VDE 0807 normiert.
+Die Unterscheidungen schlugen sich in der Benennung von galvanischen Stromerzeugern nieder.
+Diese bestand aus zwei oder drei Buchstaben, der Nennspannung sowie ggf. der Anzahl der Zellen:
+Beispiele:
+Nicht jeder Batterietyp ist überall erhältlich.
+Deshalb gibt es zum Beispiel Flachbatterie-Adapter, die drei AA-Zellen zu je 1,5 V aufnehmen.
+Diese lassen sich in allen Geräten verwenden, in die auch eine 4,5-V-Flachbatterie (3R12) hineinpasst.
+Nützlich sind diese Adapter auch, weil es keine wiederaufladbaren Flachbatterien gibt.
+Die Kontaktierung kleiner Batterien erfolgt mit Federkontakten, zuverlässigere Ausführungen sind vergoldet.
+Fest eingebaute Akkumulatoren sind mit Steckkontakten, Schraubanschlüssen, Polbolzen oder Lötfahnen versehen.
+Konfektionierte wiederaufladbare Batterien, sogenannte Akkupacks, bestehen aus mehreren Zellen, die untereinander fest verbunden und oft mit einer Ummantelung oder einem Gehäuse versehen sind.
+Bei Starterbatterien sind die Zellen untereinander mit Bleistegen, bei Antriebsbatterien in der Regel mit Kupferverbindern kontaktiert.
+Microsoft offerierte 2010 eine "InstaLoad" genannte, rein mechanische Lösung eines Batteriefaches, die das Einlegen von Einzelzellen in beliebiger Orientierung erlaubt.
+Die Kontakte sind dabei so gestaltet, dass keine Verpolung auftreten kann.
+Das Verfahren erlangte jedoch keine Bedeutung.
+Batterien und Akkumulatoren gehören nicht in den Restmüll oder in die Umwelt, da sie umweltschädliche und zudem erneut nutzbare Rohstoffe enthalten, die das Batterierecycling für entsprechende Unternehmen wirtschaftlich attraktiv machen.
+Auch ausgelaufene Batterien sollten mit Vorsicht behandelt werden, da sich teils ätzende Substanzen an den Kontakten befinden.
+Sie müssen ebenfalls einem Recycling zugeführt werden und gelten als Problemstoff.
+In Deutschland regelt die Batterieverordnung die Rücknahme und Entsorgung von Batterien.
+Sie legt unter anderem fest, dass in Deutschland keine Batterien oder Zellen mit einem Quecksilbergehalt von mehr als 0,0005 Gewichtsprozent in den Verkehr gebracht werden dürfen.
+Bei Knopfzellen darf der Quecksilbergehalt nicht über 2,0 Gewichtsprozent liegen.
+Alkali-Mangan-Batterien enthalten seit Beginn der 1990er Jahre kein Quecksilber mehr.
+Davor wurde es zum Amalgamieren des Elektrodenmaterials Zink verwendet.
+Pole von Lithium-Batterien müssen vor Entsorgung abgeklebt werden.
+Kleine Batterien können in Deutschland in Einzelhandelsgeschäfte zurückgebracht werden, wenn diese auch Batterien verkaufen.
+Gesetzlich verpflichtend ist zwar nur die Rücknahme von Batterietypen, die der jeweilige Händler im Sortiment führt; es werden aber üblicherweise auch "fremde" Typen akzeptiert, da dem Händler dadurch keine Nachteile oder Kosten entstehen.
+Zu diesem Zweck müssen dort Sammelbehälter aufgestellt sein.
+Schadstoffhaltige Batterien sind zusätzlich mit chemischen Zeichen versehen.
+Für Starterbatterien existiert in Deutschland seit dem Jahr 2009 ein Pfandsystem.
+Daher werden beinahe 100 Prozent der Bleiakkumulatoren in Deutschland gesammelt und wiederverwertet.

@@ -1,0 +1,157 @@
+Eine Karte (von griechisch a chartes, deutsch ,Blatt der Papyrusstaude', daraus hergestelltes Papier; aus ägyptisch garta) ist ein digitales oder analoges Medium zur Darstellung der Erdoberfläche oder anderer Himmelskörper.
+Sie ist ein eingeebnetes, verkleinertes und generalisiertes, mit Beschreibungen und Zeichen versehenes Abbild der Erdoberfläche oder anderer Himmelskörper.
+Beim Karteninhalt unterscheidet man zwei Hauptgruppen von Karten: topografische Karten (Landkarten, Seekarten ...) und thematische Karten.
+Bei der Herkunft wird zwischen amtlichen und privaten Karten unterschieden.
+In ihnen werden raumbezogene Gegenstände, Sachverhalte oder Prozesse maßstäblich generalisiert und mit Hilfe eines Zeichensystems grafisch in ihren Raumbeziehungen dargestellt.
+Im weitesten Sinne veranschaulicht eine Karte abstrakte, raumbezogene Daten und nur schwer formulierbare räumliche Zusammenhänge mit dem Ziel, diese für den Betrachter leicht verständlich zu machen.
+Darstellungsräume einer Karte sind vor allem die Erde und die Erdteile.
+Aber auch andere Himmelskörper, der Sternhimmel oder fiktive Welten können Gegenstand einer Kartendarstellung sein.
+Die Wissenschaft und Technik zur Darstellung der Erdoberfläche in topografischen und thematischen Karten ist die Kartografie.
+Traditionell wird eine Karte auf Papier gedruckt, wobei ihre thematischen Ebenen (engl. Layer) wie Gelände, Flüsse, Straßen, Wald usw. im Mehrfarbendruck aufgebracht werden.
+Heute werden die Layer nicht mehr als Druckfolien archiviert, sondern in einer Datenbank (siehe Geoinformationssystem) gespeichert.
+Die Karte kann dann auf einem Bildschirm präsentiert und auch leichter aktualisiert werden.
+Eine digitale Karte erlaubt darüber hinaus die Einbeziehung weiterer, beispielsweise bildlicher und akustischer Medien sowie die interaktive Kommunikation mit dem Benutzer.
+Die Karte ist das Ergebnis eines komplexen Arbeitsablaufs.
+An seinem Anfang stehen erfasste oder bereitgestellte Daten mit Raumbezug, sogenannte Basisdaten oder Geodaten.
+Sie repräsentieren die darzustellenden
+Diese Primärdaten werden durch Vermessung der Erdoberfläche (Geländeplan, Luftbilder usw.) bzw. durch spezielle Messungen, Erhebungen oder Zählungen erfasst.
+Dieses Datenmaterial wird unter Anwendung grafischer Gestaltung und Richtlinien zur Generalisierung (Legende für Plan- und Kartenzeichen, Musterblätter usw.) manuell oder mit Hilfe von Datenmodellen und Programmsystemen in kartografische Objekte bzw. darstellbare Sekundärdaten umgewandelt, die ihrerseits in maßstabsgerecht angeordnete kartografische Zeichen (Signaturen, Grenzlinien, Farbcodes usw.) überführt werden.
+In der Darstellungsebene (Papier, Karte, Bildschirm) repräsentieren und veranschaulichen diese Punkte, Zeichen, Linien und Flächen die abzubildenden Raumphänomene.
+Karten lassen sich nach verschiedenen Gesichtspunkten einteilen, beispielsweise nach
+Datenhaltung und Präsentation
+Sie erlauben eine Unterscheidung nach analogen Karten und digitalen Karten.
+Analoge Karten werden als "klassische Landkarten" auf einem Original-Zeichenträger (früher Stein- oder Kupferplatte, später transparente Zeichenträger) geführt und in der Regel auf Papier oder einen anderen geeigneten Zeichenträger gedruckt.
+Digitale Karten sind im Rasterformat oder Vektorformat elektronisch auf einem Datenträger gespeichert und lassen sich mit Hilfe elektronischer Geräte in unterschiedlicher Form ausgeben, z. B. auf eine Druckplatte im computer to plate-Verfahren, auf einen Bildschirm oder auf dem Display eines Navigationssystems oder eines Mobiltelefons.
+Maßstabsverhältnis
+Da Karten gegenüber der realen Welt grundsätzlich in einem Maßstabsverhältnis (Maßstab) stehen, kann man Karten auch nach ihrem Kartenmaßstab klassifizieren.
+Man spricht von einem großen Maßstab, wenn der Maßstabsnenner klein ist, dagegen von einem kleinen Maßstab, wenn der Maßstabsnenner groß ist.
+Bei topografischen Karten bezeichnet man Karten bis zu einem Maßstab 1:10.000 als großmaßstäbig oder auch als topografische Grundkarten, solche mit einem Maßstab von 1:25.000 bis 1:100.000 als mittelmaßstäbig.
+Topografische Karten mit einem Maßstab 1:200.000 oder kleiner werden als kleinmaßstäbig oder als topografische Übersichtskarten bezeichnet.
+Von Karten spricht man immer dann, wenn ihr Maßstab zu einer Generalisierung zwingt.
+Lassen sich Phänomene der realen Welt nahezu ungeneralisiert und dann meist großmaßstäbig darstellen, so spricht man von Plänen (Lageplan, Bebauungsplan).
+Thematik
+Die hauptsächliche Thematik der darzustellenden Raumphänomene ist ein verbreitetes Unterscheidungsmerkmal für Karten.
+In erster Näherung hat man so topografische Karten von thematischen Karten unterschieden.
+Eine differenziertere Betrachtungsweise spricht statt von topografischen Karten auch von Basiskarten und erlaubt bei den thematischen Karten weitere Unterscheidungen, z. B. in Luftfahrtkarten, Seekarten, geowissenschaftliche Karten, Wirtschaftskarten, politische Karten, historische (geschichtswissenschaftliche) Karten.
+(Der Begriff historische Karte ist nicht eindeutig, da er umgangssprachlich auch für veraltete, nicht mehr aktuelle Karten verwendet wird.)
+Raum oder Gebiet
+Der Darstellungsraum einer Karte bildet ein weiteres Unterscheidungskriterium.
+So gibt es z. B. Weltkarten, Europakarten, Deutschlandkarten, Länderkarten, Stadtkarten (in der Regel Stadtpläne genannt) sowie Himmelskarten, Mondkarten, Marskarten usw.
+Von besonderer Ästhetik sind Panoramakarten, die ein Winter- oder Sommerpanorama eines Gebietes darstellen.
+Im ersten Fall dienen sie meistens zur plastischen Darstellung von Skiabfahrten, im zweiten von Wanderwegen.
+Als besonderer Vertreter dieser Kartenkunst erlangte Heinrich C. Berann Weltruhm, der die moderne Kartografie mit klassischer Malerei kombinierte.
+Maß der Aktualität
+Nach dem angegebenen Maß der Übereinstimmung von Karteninhalt und realer Welt kann man zwischen aktuellen Karten und veralteten Karten (Altkarten) unterscheiden.
+Die Bezeichnung historische Karte ist der geschichtswissenschaftlichen Karte vorbehalten und sollte nicht für Altkarten benutzt werden.
+Nutzergruppen oder Anwendungsgebieten
+Sie erlauben eine Unterscheidung von Karten, z. B. in Auto(fahrer)karten, Rad(fahrer)karten, Wanderkarten, Binnenschifffahrtskarten, Schulkarten usw.
+In diese Kategorie gehören auch Blindenkarten, die als taktile Karten gestaltet sind.
+Herausgeber der Karte
+Nach dem Herausgeber einer Karte wird unterschieden in amtliche Karten und Karten der gewerblichen Verlagskartografie.
+Amtliche Karten werden von einer öffentlichen Institution in öffentlicher Aufgabe herausgegeben.
+Sie dienen der öffentlichen Daseinsvorsorge und Sicherheit und beruhen häufig auf einem Gesetz oder einer Verordnung.
+Von der Verlagskartografie herausgegebene Karten sind für den Markt bestimmt und wenden sich an die Verbraucher (im Sektor Tourismus-, Freizeit- und Wanderkarten trifft diese Unterscheidung nicht immer zu, da auch viele Landesvermessungsbehörden solche für den Markt bestimmten Karten herausgeben).
+Weiterhin gibt es eine Vielzahl wissenschaftlicher Spezialkarten, die von Hochschulen und anderen wissenschaftlichen Institutionen im Rahmen der Forschung hergestellt und einem meist begrenzten Nutzerkreis zur Verfügung gestellt werden.
+Eine gedruckte oder am Bildschirm präsentierte Karte ist aus mehreren Elementen aufgebaut, die naturgemäß bei beiden Kartentypen unterschiedlich sind.
+Während die digitale Karte grundsätzlich blattschnittfrei gespeichert und am Bildschirm blattschnittfrei durch "Scrollen" wiedergegeben wird, handelt es sich bei der gedruckten Karte immer um ein begrenztes Kartenblatt.
+Um ein größeres Gebiet, wie ein ganzes Land, abzudecken, stellt man mehrere Kartenblätter her, die entweder einen solchen Blattschnitt haben, dass sie nahtlos aneinander passen oder die sich an den Rändern überlappen.
+Mehrere Kartenblätter, die die gleichen geodätischen Grundlagen, die gleiche Projektion, den gleichen Maßstab, den gleichen Blattschnitt und das gleiche Signaturen- und Gestaltungssystem besitzen, bilden ein Kartenwerk.
+Amtliche topografische Karten bilden so die Landeskartenwerke.
+Eine gedruckte Karte besteht in der Regel aus dem Kartenfeld, dem Kartenrahmen und dem Kartenrand.
+Im Kartenfeld (auch Kartenbild, Kartenspiegel, Blattspiegel) wird die eigentliche Karte, der Karteninhalt, wiedergegeben.
+Dieser ist in einer Zeichenvorschrift, einem Musterblatt oder einem Signaturenkatalog festgelegt.
+Auszüge daraus finden sich in der Legende (Zeichenerklärung), die sich meist im Blattrand, manchmal auch in einem Leerfeld der Karte befindet.
+Viele Karten des Mittelalters sind in sich aufgeteilt, das Kartenfeld hat beispielsweise die Form eines Rades (Radkarte; "TO-Karte"), eines Herzens (Oronce Fine, Paris 1536) oder eines Kleeblatts (Weltkarte von Heinrich Bünting 1581).
+Der Kartenrahmen begrenzt den je nach Abbildungsart quadratischen, rechteckigen oder trapezförmigen Blattschnitt der Karte.
+Er enthält insbesondere die Bezifferungen des der Karte zugrunde liegenden Koordinatensystems, aber auch Hinweise zur Weiterführung der durch den Blattschnitt abgeschnittenen Signaturen.
+Der Kartenrand dient zur Aufnahme von kartentechnischen, redaktionellen, urheberrechtlichen und vertriebstechnischen Erläuterungen sowie von Angaben zum Herausgeber.
+Hier finden sich Name oder Bezeichnung der Karte, des Kartenwerks und des Kartenblatts.
+Das Maßstabsverhältnis ("Maßstab") ist numerisch (z. B. 1 : 25.000), häufig auch grafisch mit Hilfe einer Maßstabsleiste angegeben.
+In der Legende (Zeichenerklärung) sind die wichtigsten Kartenzeichen benutzungsfreundlich zusammengestellt.
+Weiterhin können der Name des Herausgebers, Angaben zu Auflagenummer und Erscheinungsjahr (z. B. 6. Auflage 1996), zum Aktualitätsstand sowie Urheberrechtshinweise und die Internationale Standard-Buchnummer (ISBN) im Kartenrand untergebracht sein.
+Konfektionierte Karten, besonders die von der gewerblichen Verlagskartografie herausgegebenen, besitzen meist einen mit einem attraktiven Titel versehenen Kartenumschlag, der dann auch die Funktionen des Kartenrandes erfüllen kann.
+Wenn ein größeres Gebiet kartografisch erfasst werden soll, das nicht auf einem Kartenblatt Platz findet, wird dieses auf mehrere Blätter aufgeteilt.
+Dazu wird häufig ein regelmäßiges Raster verwendet.
+Dieses kann mit dem Gitter der geografischen Koordinaten oder dem Koordinatensystem der Kartenabbildung in der Ebene zusammenfallen.
+Es wird als Blattschnitt bezeichnet.
+Fällt der Blattschnitt mit ganzzahligen Meridianen und Breitenkreisen zusammen, spricht man auch von Gradabteilungskarten.
+Die am Bildschirm (Display) dargestellte Karte ("Bildschirmkarte") ist die Präsentation einer auf einem Speichermedium (CD, DVD, Festplatte) gespeicherten oder aus dem Internet heruntergeladenen digitalen Karte.
+Ihr Aufbau ist meist nicht in der Karte selbst erkennbar, sondern in der Software und den Kartendaten verborgen.
+Ein wesentliches Merkmal der Bildschirmkarte ist, dass sie in der Regel Aktionen des Benutzers oder Dialoge und Interaktionen mit ihm zulässt, z. B. Vergrößerung oder Verkleinerung des Kartenbildes, Maßstabsveränderung, Ein- und Ausblenden von Kartenthemen, Entfernungsmessungen, Profilschnitte, Positionierung eigener Kartenzeichen, Abfragen.
+Das geschieht üblicherweise über die Bedienelemente einer grafischen Benutzeroberfläche.
+Nach der Erfindung des Kupferstichs war diese Technik lange Zeit die einzige Möglichkeit, Landkarten zu drucken.
+Entscheidend wurde diese Entwicklung von Matthäus Merian geprägt.
+Die Situation änderte sich mit der Lithografie, die auch farbige Drucke ermöglichte.
+Ab Mitte des 19. Jahrhunderts wurden erste systematische Landesaufnahmen in Deutschland gemacht.
+Eine wichtige Grundlage war die Preußische Generalstabskarte.
+Für die Karte des Deutschen Reiches 1909 wurde noch der Kupferstich verwendet.
+Farbige Drucke waren bis ins 20. Jahrhundert mit erheblich höheren Kosten verbunden.
+Seit den 1970er Jahren hat die Speicherung von Karteninformationen auf elektronischen Datenträgern zugenommen.
+Berühmte Karten sind unter anderem:
+Die ersten Karten wurden in Tontafeln oder Tierknochen geritzt.
+Später konnte man sie auf Papyrus oder Pergament zeichnen, aber eine Vervielfältigung war eine mühsame Arbeit.
+Erst mit der Erfindung der Drucktechnik im 15. Jahrhundert konnten höhere Stückzahlen produziert werden.
+Von der Karte wurde je nach Technik eine Vorlage geschaffen, die dann im Druckprozess vervielfältigt wurde.
+Durch verbesserte Verfahren konnten immer feinere Elemente in die Karte aufgenommen und auch Mehrfarbdruck eingesetzt werden.
+Der Holzschnitt, zu Beginn der Kartografie noch oft verwendet, wurde fast gänzlich verdrängt.
+Holzschnitt und Kupferstich reichen bis in das letzte Viertel des 15. Jahrhunderts zurück.
+Der Kupferstich liefert in Bezug auf Schärfe und Tiefe des Strichs sowie Weichheit und Feinheit der Ausführung die schönsten Karten; durch galvanisch erzeugte Hilfsplatten unterstützt, auch in beliebiger Menge.
+Korrekturen sind nicht schwierig auszuführen, namentlich auf den Hochplatten, doch erfordern sie Zeitaufwand und Kosten.
+Der Kupferstich revolutionierte Anfang des 17. Jahrhunderts in der Geschichte des Buchdrucks die Seitengestaltung, da für Illustrationen das Tiefdruckverfahren den Holzschnitt ablöste.
+Kupferstich-Drucke und Radierung ermöglichten den Druck von genaueren Abbildungen und höhere Auflagen, unter anderem von Veduten, künstlerischen Drucken, dem Flugblatt und den militärischen Karten.
+Der Stahlstich, eingeführt ca. 1820, eignet sich für sehr große Auflagen von der Mutterplatte, wird aber, seit Kupferstich in Verbindung mit Galvanoplastik entwickelt wurde, wegen der Schwierigkeit der Plattenkorrekturen kaum noch angewandt.
+Die Lithografie (Steindruck) datiert vom Anfang des 19. Jahrhunderts.
+In Verbindung mit dem Steindruck gestattet sie mittels Schnellpresse eine preiswerte Produktion auch in Farbe.
+Im 19. Jahrhundert hat die Lithografie in Verbindung mit der Buchdruckpresse glänzende Erfolge erreicht, indem lithografisch gravierte Karten zur Verwendung in der Buchdruckpresse durch Überdruck auf Zink (Chemigrafie oder Zinkografie) in Hochdruckplatten verwandelt werden.
+Auch bei dieser Art der Vervielfältigung kann farbiger Druck zum Einsatz kommen, doch ist das Verfahren nur bei sehr großen Auflagen von Vorteil, da umfassendere Korrekturen stets eine Erneuerung der Druckplatten erforderlich machen.
+Kartenabdrücke jeder Art können auch durch das anastatische Verfahren reproduziert werden, doch wird es nur noch selten verwendet, seit man mit Hilfe der Fotografie in technischer Beziehung weit günstigere Resultate erzielt.
+Denn durch Fotolithografie und Heliografie können Originalzeichnungen unmittelbar auf Stein oder Kupfer übertragen und auch verkleinert oder vergrößert werden.
+Die typografische Herstellung (d. h. der Buchdruck mit beweglichen Lettern) von Landkarten wurde schon öfters versucht (1478, 1777, 1839, 1862), aber jedes Mal wieder aufgegeben.
+Bis in die 1990er Jahre galten die Gravierutensilien, der Leuchttisch und die Tuschefeder als Werkzeug des Kartografen.
+Damit konnte er auf die einzelnen Folien oder Glasplatten gravieren und retuschieren, die zur Herstellung der Druckplatten benötigt wurden.
+Die fortschreitende Entwicklung der Computertechnik ermöglichte dann um 1989 den Umstieg von der analogen zur digitalen Kartenherstellung.
+Bedingung war farbliche Grafikdarstellung am - anfangs noch - Röhrenbildschirm mit möglichst planer Oberfläche und großer Auflösung, ausreichend hohe Grafikleistung des Rechners, ein Scanner zum Einlesen von gedruckter Kartengrafik und die Maus als zweidimensionales Zeigegerät, die bald vom Grafiktablett abgelöst wurde.
+Dieses DIN-A4- und mehr große Gerät erlaubt das Auflegen einer gedruckten Karte, das Positionieren einer Stiftspitze oder eines Fadenkreuzes auf einen Punkt dieser Karte und Übernehmen dieses Punkts - oder auch einer verfolgten Linie - in die digitale Grafik per Andrücken oder Tastendruck.
+Anfangs wurden im starken Maße Grafikprogramme (z. B. FreeHand von Macromedia) eingesetzt.
+Im Zuge der Entwicklung kamen auch kartografische Spezialprogramme (z. B. OCAD oder Themak von GraS) und Komplettlösungen (z. B. LorikSoftware von Lorienne S.A.) auf den Markt.
+Heute werden die meisten Karten mit Hilfe von Geoinformationssystemen (z. B. ArcGIS) auf Grundlage von Geobasisdaten (beispielsweise ATKIS) und anderen Geodaten hergestellt.
+Die Geodäsie und die Fernerkundung liefern die Daten, die von den Kartografen dann in Karten umgesetzt werden.
+Die computerbasierte Herstellung führte zu Einbußen bei der Detailtreue und zur Minderung des Kartenbildes.
+Von der Natur vorgegebene Linienführungen, wie Küsten, erscheinen entgegen der analogen Herstellung schematisiert.
+Bei Straßenkarten werden selbst in genauen Maßstäben kurvige Strecken und Gebirgspässe vereinfacht und plump dargestellt, was die Orientierung erschwert.
+Auch die Generalkarte, für die Detailtreue ein Hauptwesensmerkmal ist, erlitt Einbußen.
+Insbesondere bei der Darstellung der stark vereinfachten Ortschaften und Städte erreicht sie nicht einmal mehr die Qualität des 19. Jahrhunderts.
+So sind Hauptstraßen in Städten kaum mehr erkennbar und die Kirchtürme als Orientierungspunkte nicht mehr eingezeichnet.
+Die Beschriftungen, insbesondere bei Bergen und Gebirgen, wirken im Gegensatz zur analogen Darstellung oftmals unbeholfen und plump.
+Zudem hat häufig die Zuverlässigkeit der Karten abgenommen.
+Meist wurde nur das Kartenbild grafisch umgearbeitet, ohne ausreichende (örtliche) geografische Kenntnisse der Bearbeiter und mangelnder Prüfungen vor Ort.
+Die Wesensmerkmale einer Landschaft werden bei heutigen Kartenbearbeitungen oftmals nicht mehr erkannt.
+Der Hauptgipfel eines Gebirges ist beispielsweise häufig nicht mehr in der Beschriftung hervorgehoben oder schnurgerade Römerstraßen werden nicht ebenso abgebildet.
+All das minderte die Orientierung, das Gesamtbild und den ideellen Wert einer Landkarte oder eines Atlasses.
+Lentikulartechnik ist ein Verfahren der Mehrbild-Visualisierung, auch bekannt als "Wackelbild" oder "Linsenraster-Bild".
+Mit dieser Technik lassen sich Echt-3D-Karten herstellen.
+Der Betrachter kann so Höhenrelationen, Hangneigungen und Reliefformen erkennen.
+Möglich wird das durch den Einsatz sogenannter Lentikularabbildungen und -folien.
+Abbildungen und Folie werden so verklebt oder gedruckt, dass sowohl die Abbildungsstreifen als auch die tunnelförmigen Mikrolinsen vertikal verlaufen.
+So entsteht der "Wackelbild"-Effekt und je nach Blickwinkel des Betrachters werden unterschiedliche Abbildungen wahrgenommen.
+So wird das dreidimensionale Sehen ermöglicht.
+Zusätzliche stereoskopische Betrachtungshilfen sind daher nicht mehr notwendig.
+Um den Raumeindruck zu verstärken, kommen bei Echt-3D-Karten eine Reliefschummerung und ein Faktor zur Überhöhung des Geländes hinzu.
+Die Beschriftungen "schweben" über dem Relief.
+Lentikular-Darstellungen können analog als Printprodukte oder auch digital mittels autostereoskopischer Displays (sog. 3D-Monitore) präsentiert werden.
+In beiden Fällen ist zweiäugiges Sehen erforderlich und das ungefähr parallele Ausrichten der West-Ost-Achse der Karte mit der Linie, die beide Augen verbindet.
+Echt-3D-Karten sind auch für den allgemeinbildenden Schulunterricht zu empfehlen, zumal sie dem Betrachter die dritte Dimension der Erdoberfläche als virtuelles Modell ohne technische Sehhilfe servieren können.
+Karten dienen der räumlichen Orientierung sowie der Navigation zu Lande, im Wasser und in der Luft.
+Weiterhin werden sie zur Planung eingesetzt.
+Dabei kann man mit ihnen Entfernungen, Winkel oder Flächen messen oder schätzen.
+Als Hilfsmittel können dabei dienen Kompass, Streckenteiler, Planimeter, Kurvimeter oder Lineal.
+Soll die Karte zum genauen Vergleich mit der Natur oder zur Bestimmung des eigenen Standortes dienen, muss man sie vor der Benutzung nach Norden orientieren.
+Dies erfolgt meist durch Vergleich mit dem letzten zurückgelegten Wegstück, nach dem Sonnenstand oder durch Anpeilen von ein bis zwei fernen Kartenpunkten (Berggipfel, Ortschaften, Straßen- oder Bahnlinien).
+Jede Karte eines größeren Gebietes hat gewisse Verzerrungen.
+Da sie ein ebenes Abbild der gewölbten Erdoberfläche ist, kann sie nicht gleichzeitig flächentreu, längentreu und winkeltreu sein - nur ein Globus ermöglicht eine solche naturgetreue Darstellung der geometrischen Verhältnisse, allerdings notgedrungen in sehr kleinem Maßstab.
+Für alle anderen Anwendungen muss ein geeigneter Kartennetzentwurf (vgl. Liste von Kartennetzentwürfen) verwendet oder die Verzerrung rechnerisch bzw. grafisch berücksichtigt werden.
+Die Karte als Darstellungsmittel bietet vielfältige Möglichkeiten zur Manipulation bis hin zu Zensur mit dem Ziel, bestimmte Aspekte hervorzuheben, zu unterdrücken oder absichtlich falsch wiederzugeben.
+Anlässe können sein:
+Bei der Betrachtung und Verwendung einer Karte ist immer ein gewisses Maß an Skepsis angebracht, besonders wenn sie erkennbar zur Verfolgung eines bestimmten Ziels erstellt wurde.
+Diese Ziele sind oft anhand des Erstellers oder Herausgebers einer Karte erkennbar.
+Eine der umfangreichsten Kartenmanipulationen erfolgte ab den 1930er Jahren unter Josef Stalin, der alle veröffentlichten Karten in seinem Machtbereich aus politischen und militärstrategischen Gründen verfälschen ließ.

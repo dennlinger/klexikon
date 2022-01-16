@@ -1,0 +1,507 @@
+Ein Flugzeug ist ein Luftfahrzeug, das schwerer als Luft ist und den zu seinem Fliegen nötigen dynamischen Auftrieb mit nicht-rotierenden Auftriebsflächen erzeugt.
+In der enger gefassten Definition der Internationalen Zivilluftfahrtorganisation (ICAO) ist es auch immer ein motorisiertes Luftfahrzeug.
+Der Betrieb von Flugzeugen, die am Luftverkehr teilnehmen, wird durch Luftverkehrsgesetze geregelt.
+Umgangssprachlich werden Flugzeuge mitunter auch "Flieger" genannt, der Ausdruck Flieger hat als Hauptbedeutung jedoch den Piloten.
+Die Internationale Zivilluftfahrtorganisation (International Civil Aviation Organization, ICAO) definiert den Begriff Flugzeug wie folgt:
+Im rechtlichen Sprachgebrauch ist ein Flugzeug ein motorgetriebenes Luftfahrzeug, schwerer als (die von ihm verdrängte) Luft, das seinen Auftrieb durch Tragflächen erhält, die bei gleichbleibenden Flugbedingungen unverändert bleiben, allgemeinsprachlich Motorflugzeug genannt.
+Wenn in einem Gesetzestext also von Flugzeugen die Rede ist, dann sind immer nur Motorflugzeuge gemeint, nicht aber Segelflugzeuge, Motorsegler und Ultraleichtflugzeuge.
+Letztere sind in Deutschland eine Unterklasse der Luftsportgeräte.
+Manche Autoren verwenden eine weiter gefasste Definition, nach der auch die Drehflügler eine Untergruppe der Flugzeuge darstellen.
+Die eigentlichen Flugzeuge werden dann zur besseren Abgrenzung als Starrflügler, Starrflügelflugzeug oder Flächenflugzeug bezeichnet.
+Diese Einordnung widerspricht aber sowohl der rechtlichen Definition als auch dem allgemeinen Sprachgebrauch und kann damit als veraltet betrachtet werden.
+Die in diesem Artikel verwendete Definition richtet sich nach der umgangssprachlichen Bedeutung des Begriffes Flugzeug, die sämtliche Luftfahrzeuge umfasst, die einen Rumpf mit festen Tragflächen besitzen.
+Bei Flugzeugen wird der Auftrieb - bei der Vorwärtsbewegung des Luftfahrzeugs - durch die Umlenkung der notwendigen Luftströmung an den Tragflächen (mit geeignetem Profil und Anstellwinkel) erzeugt.
+Durch die Umlenkung wird der Luft ein senkrecht nach unten gerichteter Impuls übertragen.
+Nach dem ersten Newtonschen Gesetz erfordert diese Richtungsänderung der Strömung nach unten eine stetig wirkende Kraft.
+Nach dem dritten Newtonschen Gesetz (Actio und reactio) wirkt dabei eine gleiche und entgegengesetzte Kraft, der Auftrieb, auf die Tragfläche.
+Neben der starren Verbindung von Flügel und Flugzeugrumpf gibt es mit Wandel- und Schwenkflügelflugzeugen auch einige Flugzeugtypen, bei denen die Flügel flexibel am Flugzeugrumpf fixiert sind.
+Damit können bei diesen Typen Einsatzanforderungen realisiert werden, die mit einer starren Tragfläche nicht möglich sind.
+Im weiteren Sinn benutzen das Starrflügelprinzip auch Luftfahrzeuge mit vollkommen flexiblen Tragflächen, wie Gleit- und Motorschirme, sowie mit zerlegbaren Tragflächen wie bei Hängegleitern.
+Bodeneffektfahrzeuge fliegen mit Hilfe von Tragflächen knapp über der Erdoberfläche und ähneln damit tief fliegenden Flugzeugen.
+Sie sind jedoch in der Regel nicht in der Lage, über den Einflussbereich des Bodeneffektes hinaus zu steigen, und gelten daher - ähnlich wie Luftkissenfahrzeuge - nicht als Luftfahrzeuge.
+Bei Drehflüglern (Hubschrauber, Helikopter) sind die Tragflächen in Form eines horizontalen Rotors aufgebaut.
+Die Luftströmung über den Rotorblättern ergibt sich aus der Kombination der Drehbewegung des Rotors und der anströmenden Luft aus Eigenbewegung und Wind.
+Einige Drehflügler, wie zum Beispiel die Verbundhubschrauber oder Kombinationsflugschrauber, besitzen jedoch neben ihrem Hauptrotor auch mehr oder weniger lange, feste Tragflächen, die für zusätzlichen Auftrieb sorgen.
+Ein Zwischending zwischen Starrflügelflugzeugen und Drehflüglern sind die Wandelflugzeuge, die im Flug die Flugmodi (Flugzustände) wechseln können.
+Anders als das Flugzeug fliegt die Rakete mit einem Raketentriebwerk (Rückstoßantrieb) durch Ausstoßen mitgeführter Stützmasse unabhängig von einer Luftströmung, auch wenn sie für Flugphasen in der Atmosphäre aerodynamische Steuerflächen haben kann.
+Diese dienen aber nicht dem Auftrieb, sondern nur der Stabilisierung und Steuerung.
+Ein Sonderfall ist der Raumgleiter, der meist mit einer Trägerrakete startet und im aerodynamischen Flug landet.
+Er kann als Flugzeug angesehen werden.
+Ein Rotorflugzeug besitzt als Tragorgane Flettner-Rotoren, die den Magnus-Effekt nutzen.
+Rotorflugzeuge sind selbst im Modellbau nur selten anzutreffen und haben bisher keine praktische Bedeutung.
+Sie dürfen nicht mit Drehflüglern verwechselt werden.
+Bei Ornithoptern, auch Schwingenflugzeug genannt, bewegen sich die Tragflächen wie Vogelflügel auf und ab, um Auftrieb und Vortrieb zu erzeugen.
+Sie werden daher teils auch Flatterflügel genannt.
+Besonders in der Frühzeit der Luftfahrt wurde versucht, Schwingenflugzeuge nach dem Vorbild der Natur zu bauen.
+Es ist nicht bekannt, dass personentragende Flugzeuge dieses Typs bisher geflogen sind, es gibt aber funktionsfähige, ferngesteuerte Modell-Ornithopter und Kleinstdrohnen, so z. B. das DelFly der TU Delft.
+Traditionell wird ein Flugzeug in drei Hauptgruppen (Konstruktionshauptgruppen) unterteilt: Flugwerk, Triebwerksanlage und Ausrüstung.
+Das Flugwerk besteht aus dem Rumpfwerk, dem Tragwerk, dem Leitwerk, dem Steuerwerk und dem Fahrwerk bei Landflugzeugen bzw. den Auftriebskörpern (Schwimmern) bei Wasserflugzeugen.
+Bei Senkrechtstartern und Segelflugzeugen älterer Bauart kann anstelle von Fahrwerk oder Schwimmern ein Kufenlandegestell vorhanden sein.
+In vielen, meist älteren Veröffentlichungen wird statt Flugwerk der Begriff Flugzeugzelle oder einfach Zelle verwendet.
+Der Flugzeugrumpf ist das zentrale Konstruktionselement der meisten Flugzeuge.
+An ihm ist das Tragwerk angebracht, er beherbergt neben den Piloten auch einen Großteil der Betriebsausrüstung.
+Bei einem Passagierflugzeug nimmt der Rumpf die Passagiere auf.
+Oft ist auch das Fahrwerk ganz oder teilweise am Rumpf.
+Die Triebwerke können in den Rumpf integriert werden.
+Bei Flugbooten bildet der Rumpf den Haupt-Auftriebskörper.
+Man unterscheidet verschiedene Rumpfformen.
+Heute sind runde Rumpfquerschnitte die Regel, wenn die Maschine eine Druckkabine besitzt.
+Frachtmaschinen besitzen oft einen rechteckigen Rumpfquerschnitt, um das Beladevolumen zu optimieren.
+Die meisten Flugzeuge besitzen nur einen Rumpf, daneben gibt es auch Maschinen mit Doppelrumpf und Nurflügelflugzeuge.
+Das Tragwerk besteht neben einer oder mehreren Tragflächen als Hauptkomponente aus sämtlichen Auftrieb liefernden Komponenten.
+Das Leitwerk besteht aus dem Höhenleitwerk mit den Höhenrudern und den zugehörigen Trimmrudern, dem Seitenleitwerk mit dem Seitenruder und dem Trimmruder dafür und den Querrudern.
+Zudem ist die Hauptaufgabe des Leitwerks, die gegebene Fluglage und Richtung zu stabilisieren, ferner die Steuerung um alle drei Achsen des Flugzeuges.
+Das Steuerwerk oder die Steuerung besteht beim Starrflügelflugzeug aus dem Steuerknüppel oder der Steuersäule mit Steuerhorn oder Handrad und den Seitensteuerpedalen, mit denen die Steuerbefehle gegeben werden.
+Für die Übertragung der Steuerkräfte bzw. -signale können Gestänge, Seilzüge, Hydraulik, elektrische (Fly-by-wire) oder optische (Fly-by-light) Signale eingesetzt werden.
+Die Steuersäule wird bei einigen modernen Flugzeugen durch den Sidestick ersetzt.
+Das Fahrwerk ermöglicht einem Flugzeug, sich am Boden zu bewegen, die erforderliche Abhebegeschwindigkeit zu erreichen, die Landestöße zu absorbieren und Stöße z. B. durch Bodenwellen zu dämpfen.
+Fahrwerke werden eingeteilt in starre, halbstarre und Einziehfahrwerke.
+Ein starres Fahrwerk behält auch während des Fluges unverändert seine Position bei; das halbstarre Fahrwerk wird teilweise eingezogen (z. B. nur das Bugfahrwerk).
+Ein Einziehfahrwerk kann nach dem Start eingezogen und gegebenenfalls durch Fahrwerksklappen abgedeckt werden und muss vor der Landung wieder ausgefahren werden.
+Flugzeuge mit hoher Endgeschwindigkeit haben stets Einziehfahrwerke.
+Fahrwerke können auch eingeteilt werden gemäß ihrer Anordnung.
+Weitverbreitete Fahrwerksform ist das "Bugradfahrwerk", bei dem ein oder mehrere kleine Räder am Flugzeugvorderteil angebracht sind und das Hauptfahrwerk hinter dem Flugzeugschwerpunkt liegt.
+Dies ermöglicht während des Rollens am Boden gute Sicht für den Piloten im Vergleich zum ehemals weit verbreitete Heck- oder Spornfahrwerk mit einem kleinen Rad oder einem Schleifsporn am Heck; es kommt heute nur noch selten zum Einsatz.
+Eine Besonderheit ist das Tandemfahrwerk, bei dem die Fahrwerksteile vorne und hinten am Rumpf gleich groß sind und sich die Hauptlast teilen, das Flugzeug wird seitwärts durch Stützräder am Tragwerk stabilisiert.
+Die Triebwerksanlage eines Flugzeuges umfasst einen oder mehrere Motoren (i. Allg.
+von gleicher Bauart) mit Zubehör.
+Die häufigsten Bauweisen sind: Hubkolbenmotor (Flugmotor) mit Propeller, Gasturbine (Wellenleistungstriebwerk) mit Propeller (Turboprop) sowie das Turbinen-Strahltriebwerk, meist in Turbofan-Bauweise.
+Selten/experimentell sind Staustrahltriebwerk, Raketentriebwerk oder Elektromotor.
+Zum Zubehör gehören das Kraftstoffsystem und -leitungen, ggf. eine Schmieranlage, die Motorkühlung, Triebwerksträger und Triebwerksverkleidung.
+Außerhalb der Kampffliegerei sind die Strahltriebwerke aus Wartungsgründen mittlerweile nicht mehr in Flügel oder Rumpf integriert, eine Ausnahme bildet die Nimrod MRA4.
+Als Treibstoff wird meist Kerosin, AvGas, MoGas oder Ethanol verwendet.
+Die Betriebsausrüstung eines Flugzeuges umfasst alle bordseitigen Komponenten eines Flugzeuges, die nicht zu Flugwerk und Triebwerk gehören und die zur sicheren Durchführung eines Fluges erforderlich sind.
+Sie besteht aus den Komponenten zur Überwachung von Fluglage, Flug- und Triebwerkszustand, zur Navigation, zur Kommunikation, aus Versorgungssystemen, Warnsystemen, Sicherheitsausrüstung und gegebenenfalls Sonderausrüstung.
+Der elektronische Teil der Betriebsausrüstung wird auch Avionik genannt.
+Viele Fachautoren zählen inzwischen das Steuerwerk oder die Steuerung nicht mehr zum Flugwerk, sondern zur Betriebsausrüstung, da bei modernen Flugzeugen die Steuerung von den Sensoren der Betriebsausrüstung und von Bordrechnern wesentlich beeinflusst wird.
+Werkstoffe für Flugzeuge sollten eine möglichst große Festigkeit (s. a. Spezifische Festigkeit) gegenüber statischen und dynamischen Beanspruchungen besitzen, damit das Gewicht des Flugzeuges möglichst klein gehalten werden kann.
+Grundsätzlich eignen sich insbesondere Stähle, Leichtmetalllegierungen, Holz, Gewebe und Kunststoffe für den Flugzeugbau.
+Während Holz bis zu mittleren Größen sinnvoll angewendet worden ist, wird heute im Flugzeugbau allgemein die Ganzmetall- und Gemischtbauweise bevorzugt, bei der verschiedene Materialien so kombiniert werden, dass sich ihre jeweiligen Vorteile optimal ergänzen.
+Strukturen an Flugzeugen lassen sich durch verschiedene Bauweisen realisieren.
+Es kann zwischen vier Bauweisen unterschieden werden, der Holzbauweise, Gemischtbauweise, Metallbauweise und FVK-Bauweise.
+Bei der Holzbauweise wird für den Rumpf ein Gerüst aus hölzernen Längsgurten und Spanten geleimt, das anschließend mit dünnem Sperrholz beplankt wird.
+Die Tragfläche besteht aus einem oder zwei Holmen, an die im rechten Winkel vorne und hinten die sog. Rippen angeleimt sind.
+Die Rippen geben dem Flügel die richtige Form.
+Vor dem Holm ist der Flügel mit dünnen Sperrholz beplankt, diese Beplankung wird Torsionsnase genannt.
+Sie verhindert, dass sich der Flügel beim Flug parallel zum Holm verdreht.
+Hinter dem Holm ist der Flügel mit einem Stoff aus Baumwolle oder speziellem Kunststoff bespannt.
+Dieser Stoff wird auf dem Holm oder der Torsionsnase und an der Endleiste, die die Rippen an der Flügelhinterkante verbindet, festgeklebt und mit Spannlack bestrichen.
+Spannlack zieht sich beim Trocknen zusammen und sorgt so dafür, dass die Bespannung straff ist.
+Bei Motorflugzeugen muss der Stoff zusätzlich noch an den Rippen festgenäht werden.
+Modernere Bespannstoffe aus Kunststoff ziehen sich beim Erwärmen zusammen, sie werden zum Spannen gebügelt.
+In die oberen Spannlackschichten wird bei Motorflugzeugen Aluminiumpulver als UV-Schutz eingemischt.
+Beispiele für solche Flugzeuge sind z. B. die Schleicher Ka 2 oder die Messerschmitt M17.
+Die reine Holzbauweise ist inzwischen veraltet.
+Die Metallbauweise ist bei Motorflugzeugen die gängigste Bauweise.
+Der Rumpf besteht aus einem verschweißten oder vernieteten Metallgerüst, das außen mit Blech beplankt ist.
+Die Tragflächen bestehen aus einem, bei großen Flugzeugen auch mehreren, Holmen, an die die Rippen angenietet oder angeschraubt sind.
+Die Beplankung besteht wie beim Rumpf aus dünnem Blech.
+Eines der bekanntesten Motorflugzeuge in Metallbauweise ist die Cessna 172, aber es gibt auch Segelflugzeuge aus Metall, wie den LET L-13 Blanik.
+Die Gemischtbauweise ist eine Mischung aus Holz- und Metallbauweise.
+Üblicherweise besteht hierbei der Rumpf aus einem geschweißten Metallgerüst, das mit Stoff bespannt ist, während die Flügel wie in der Holzbauweise gebaut sind.
+Es gibt allerdings auch Flugzeuge, deren Tragflächen ebenfalls aus einem bespannten Metallgerüst bestehen.
+Der Grundaufbau aus Holmen und Rippen unterscheidet sich aber nur durch die verwendeten Materialien von der Holzbauweise.
+Die Schleicher K 8 ist ein Flugzeug mit einem Rumpf aus Metallgerüst und hölzernen Tragflächen, bei der Piper PA-18 bestehen die Tragflächen aus einem Aluminiumgerüst.
+Die Metallbauweise wird seit einigen Jahren zunehmend durch die Faser-Verbund-Kunststoff-Bauweise (kurz: FVK-Bauweise) verdrängt.
+Das Flugzeug besteht aus Matten, meistens Gewebe aus Glas-, Aramid- oder Kohlenstofffasern, die in Formen gelegt, mit Kunstharz getränkt und anschließend durch Erhitzen ausgehärtet werden.
+An den Stellen des Flugzeuges, die viel Energie aufnehmen müssen, wird zusätzlich ein Stützstoff, entweder Hartschaumstoff oder eine Wabenstruktur eingeklebt.
+Auch hier wird nicht auf Spanten im Rumpf und Holme in den Tragflächen verzichtet.
+Die FVK-Bauweise wurde zuerst im Segelflug angewendet, das erste Flugzeug dieser Bauweise war die FS 24, der Prototyp wurde 1953 bis 1957 von der Akaflieg Stuttgart gebaut.
+Inzwischen gehen aber auch Hersteller von Motorflugzeugen auf die FVK-Bauweise über, z. B. Diamond Aircraft oder Cirrus Design Corporation.
+Beispiele für die FVK-Bauweise sind der Schempp-Hirth Ventus oder die Diamond DA40.
+Vor allem im Großflugzeugbau werden zurzeit auch Kombinationen aus Metallbauweise und FVK-Bauweise hergestellt.
+Ein populäres Beispiel ist der Airbus A380.
+Flugzeuge unterliegen während ihrer gesamten Lebensdauer verpflichtenden Wartungsanforderungen durch zertifizierte Betriebe.
+Diese sind in A-, B-, C- und D-Check eingeteilt, letzterer erfolgt nach ca. sechs bis zehn Jahren oder mehreren 10.000 Flugstunden.
+Dabei wird das gesamte Flugzeug generalüberholt.
+Die Wartungsintervalle der Turbinen liegen bei 20.000 Flugstunden.
+Flugzeuge unterliegen, im Gegensatz zu bestimmten Einzelkomponenten wie Fahrwerken, grundsätzlich keiner maximalen Betriebsdauer.
+Verkehrsflugzeughersteller setzen bei der Konstruktion für ihre Maschinen nur eine Zielgröße für die Lebensdauer fest, bei Boeing Minimum Design Service Objective, bei Airbus Design Service Goal (DSG) genannt.
+Diese Zielgrößen orientieren sich an der typischen Nutzung innerhalb von 20 Jahren.
+Die meisten Typen sind auf etwa 50.000-60.000 Flugstunden konstruiert; die Zahl der möglichen Flüge schwankt zwischen 20.000 bei Langstreckenmaschinen, z. B. Boeing 747, und 75.000 bei Kurzstreckenmaschinen, z. B. Boeing 737.
+Diese Mindestzielgrößen werden insbesondere hinsichtlich des Alters und der Flugstunden in großer Zahl überschritten.
+Airbus bietet, noch bevor die erste Maschine die Grenze des DSG erreicht, eine erweiterte Grenze Enhanced Service Goal (ESG) in Verbindung mit bestimmten Wartungsanforderungen an.
+Seit dem Jahr 1988 stieg durch den Vorfall bei Aloha-Airlines-Flug 243 das Thema ausgedehnte Rissbildung (Widespread Fatigue Damage, WFD) bei älteren Flugzeugen in der Aufmerksamkeit von Behörden und Herstellern.
+Die Federal Aviation Administration verlangt bei Flugzeugen mit einem Höchstabfluggewicht von 75.000 Pfund (34 t) seit dem Jahr 2011 mit Beginn ab 2013-2017 (je nach Alter des Flugzeugtyps) von den Herstellern die Angabe von Limits of Validity (LOV, Grenzen der Gültigkeit), bei deren Überschreitung die Flugzeuge nicht weiter betrieben werden dürfen.
+Diese Obergrenzen liegen deutlich oberhalb der Mindestzielgrößen mit 30.000-110.000 Flügen oder 65.000-160.000 Flugstunden Boeing schätzt, dass bei Inkrafttreten für die ältesten Flugzeuge im Juli 2013 nur 25 Boeing-Maschinen weltweit oberhalb der neuen LOV liegen.
+Militärflugzeuge werden für eine Einsatzzeit von ca. 15 Jahren konzipiert, jedoch nur für 5.000-8.000 Flugstunden.
+Auf dem Rollfeld legt eine Verkehrsmaschine im Mittel 5 km pro Flug zurück.
+Daraus ergibt sich innerhalb der Lebensdauer eine Kilometerleistung am Boden von mehr als 250.000 km.
+Die Größe der dynamischen Auftriebskraft an einer Tragfläche (mit ihrem gegebenen Profil) wird von den Größen Anstellwinkel (dem Winkel zwischen der anströmenden Luft und der Flügelebene), der Profilform, der Tragflächengröße, der Dichte der Luft und ihrer Strömungsgeschwindigkeit bestimmt.
+Durch Erhöhung des Anstellwinkels bei konstanter Fluggeschwindigkeit steigt der Auftrieb proportional; dies trifft bei der Besonderheit des Überschallfluges nicht zu.
+Bei Lifting-Body-Flugzeugen ist der Rumpf aerodynamisch so geformt, dass er einen großen Anteil des Auftriebs liefert.
+Im Geradeausflug ist die Auftriebskraft gleich der Gewichtskraft (Gleichgewicht); bei Flugmanövern wie Start und Steigflug ist sie größer, beim Sinkflug geringer als die Gewichtskraft.
+Um sich vorwärts zu bewegen, muss das Luftfahrzeug Vortrieb erzeugen, um den Widerstand zu überwinden, der die freie Vorwärtsbewegung hemmt.
+Der Luftwiderstand eines Luftfahrzeuges ist abhängig
+Während sich die parasitäre Widerstandsleistung mit zunehmender Fluggeschwindigkeit in dritter Potenz der Geschwindigkeit vergrößert, verringert sich die induzierte Widerstandsleistung umgekehrt proportional.
+Der resultierende Gesamtwiderstand führt während des Fluges zu einem Energieverlust, der durch Energiezufuhr (Treibstoff, Sonnen- oder Windenergie) ausgeglichen werden muss, um den Flug fortzusetzen.
+Ist die zugeführte Energie größer als der Verlust durch den Gesamtwiderstand, wird das Luftfahrzeug beschleunigt.
+Diese Beschleunigung kann auch in Höhengewinn umgesetzt werden (Energieerhaltungssatz).
+Maßgeblich für die aerodynamische Qualität eines Luftfahrzeugs ist sowohl ein günstiger Strömungswiderstandsbeiwert ( c w {\displaystyle c_{w}} -Wert) als auch das Verhältnis vom Widerstandsbeiwert c w {\displaystyle c_{w }} zum Auftriebsbeiwert c a {\displaystyle c_{a}} , die Gleitzahl E {\displaystyle E } .
+Den Zusammenhang zwischen dem Widerstandsbeiwert und dem Auftriebsbeiwert eines bestimmten Flügelprofils und damit dessen aerodynamische Charakteristik nennt man die Profilpolare, dargestellt im Polardiagramm nach Otto Lilienthal.
+Daraus ergibt sich die Auftriebsformel
+sowie die Widerstandsformel
+wobei c a {\displaystyle c_{a}} und c w {\displaystyle c_{w} } für die Beiwerte von Auftrieb und Widerstand, q {\displaystyle q} für Staudruck (abhängig von Geschwindigkeit und Luftdichte) und A {\displaystyle A} für die Bezugsfläche steht.
+Man kann zwischen folgenden Ausdrücken für Geschwindigkeiten unterscheiden:
+Der Flugzeugführer bekommt über seinen Fahrtmesser die Geschwindigkeit gegenüber der umgebenden Luft angezeigt.
+Diese wird aus statischem und dynamischem Druck am Staurohr des Fahrtmessers ermittelt.
+Diese angezeigte Geschwindigkeit (indicated air speed, abgekürzt IAS) ist von der Luftdichte und somit der Flughöhe abhängig.
+Die IAS ist maßgeblich für den dynamischen Auftrieb.
+Sie hat daher die größte Bedeutung für die Piloten.
+In modernen Cockpits wird die IAS rechnerisch um den Instrumentenfehler korrigiert und als CAS angezeigt.
+Der mögliche Geschwindigkeitsbereich eines Flugzeugs in Abhängigkeit von der Flughöhe wird durch die Flugenveloppe dargestellt.
+Die untere Grenze wird dabei von der Überziehgeschwindigkeit, die obere Grenze vom Erreichen der Festigkeitsgrenzen dargestellt.
+Bei Flugzeugen, die bedingt durch die hohe Leistung ihres Antriebs den Bereich der Schallgeschwindigkeit erreichen können, die aber nicht für Überschallflüge konstruiert sind, liegt sie in einem gewissen Abstand unterhalb der Schallgeschwindigkeit.
+Wie schnell ein Flugzeug bezogen auf die Schallgeschwindigkeit fliegt, wird durch die Mach-Zahl dargestellt.
+Benannt nach dem österreichischen Physiker und Philosophen Ernst Mach, wird die Mach-Zahl 1 der Schallgeschwindigkeit gleichgesetzt.
+Moderne Verkehrsflugzeuge mit Strahltriebwerk sind i. A. optimiert für Geschwindigkeiten (IAS) von Mach 0,74 bis 0,90.
+Damit die Tragfläche ausreichend Auftrieb erzeugt, wird mindestens die Minimalgeschwindigkeit benötigt.
+Sie wird auch als Überziehgeschwindigkeit bezeichnet, weil bei ihrem Unterschreiten ein Strömungsabriss (engl. stall) erfolgt und der Widerstand stark ansteigt, während der Auftrieb zusammenbricht.
+Die Überziehgeschwindigkeit verringert sich, wenn Hochauftriebshilfen (wie Landeklappen) ausgefahren sind.
+Beim Drehflügler ist die Fluggeschwindigkeit durch die Aerodynamik der Rotorblätter begrenzt:
+Einerseits können die Blattspitzen den Überschallbereich erreichen, andererseits kann es beim Rücklauf zum Strömungsabriss kommen.
+Die bezogen auf die Masse des Drehflüglers zu installierende Antriebsleistung steigt außerdem überproportional zur möglichen Maximalgeschwindigkeit.
+Flugzeuge starten und landen vorteilhafterweise gegen den Wind.
+Dadurch wird die zum Auftrieb beitragende angezeigte Geschwindigkeit größer als die Geschwindigkeit über Grund, mit der Folge, dass wesentlich kürzere Start- und Landestrecken gebraucht werden als bei Rückenwind.
+Zur Erzeugung des Vortriebs gibt es verschiedene Möglichkeiten, je nachdem, ob und welche Mittel mit welchem Krafterzeugungs- und -übertragungsprinzip eingesetzt werden sollen:
+ohne Eigenantrieb Bei Segelflugzeugen, Hängegleitern und Gleitschirmen ist der Vortrieb auch ohne Eigenantrieb gewährleistet, da vorhandene Höhe verlustarm in Geschwindigkeit umgewandelt werden kann.
+Der Höhengewinn selbst erfolgt durch Windenschlepp, Schleppflugzeuge oder Aufwinde (z. B. Thermik oder Hang- und Wellenaufwinde), oder durch erhöhte Startposition.
+Propeller in Verbindung mit Muskelkraft
+Eine extreme Form des Propellerantriebs stellen Muskelkraft-Flugzeuge (HPA) dar:
+Ein Muskelkraftflugzeug wird nur mit Hilfe der Muskelkraft des Piloten angetrieben, unter Ausnutzung der Gleiteigenschaften der Flugzeugkonstruktion, die verständlicherweise extrem leicht sein muss.
+Propeller in Verbindung mit einem Elektromotor Ein Propeller kann auch durch einen Elektromotor angetrieben werden.
+Diese Antriebsart wird vor allem bei Solarflugzeugen und bei Modellflugzeugen verwendet, mittlerweile auch bei Ultraleichtflugzeugen.
+Propeller in Verbindung mit Kolbenmotoren Propeller in Verbindung mit Kolbenmotoren waren bis zur Entwicklung der Gasturbine die übliche Antriebsart.
+Als praktische Leistungsgrenze für Flugmotoren dieser Art wurden 4.000 PS (ca. 2.900 kW) angesehen, als erreichbare Geschwindigkeit 750 km/ h. Heute ist diese Antriebsart für kleinere ein- bis zweimotorige Flugzeuge üblich.
+Auf Grund der besonderen Anforderungen an die Sicherheit der Motoren werden spezielle Flugmotoren verwendet.
+Turboprop Propellerturbinentriebwerke - kurz Turboprop - werden für Kurz- und Regionalverkehrsflugzeuge, militärische Transportflugzeuge, Seeüberwachungsflugzeuge und ein- oder zweimotorige Geschäftsreiseflugzeuge im Unterschallbereich verwendet.
+Weiterentwicklungen für die zukünftige Verwendung in Verkehrsflugzeugen und militärischen Transportflugzeugen sind "Unducted Propfan", auch "Unducted Fan" (UDF) genannt und "Shrouded Propfan" (z. B. MTU CRISP).
+Turbinenstrahltriebwerk Turbinen-Strahltriebwerke werden für moderne schnelle Flugzeuge bis nahe zur Schallgeschwindigkeit (bis zum Transschallgeschwindigkeitsbereich oder dem transsonischen Geschwindigkeitsbereich) oder auch für Geschwindigkeiten im Transschall- und Überschallbereich eingesetzt.
+Für Flüge im Bereich der Überschallgeschwindigkeit besitzen Turbostrahltriebwerke zur Leistungserhöhung oft eine Nachverbrennung.
+Staustrahltriebwerk Staustrahltriebwerke erreichen Hyperschallgeschwindigkeiten und besitzen nur wenige bewegte Teile.
+Sie funktionieren jedoch i. A. erst bei hohen Geschwindigkeiten und müssen erst anderweitig auf diese beschleunigt werden.
+Eine Kombination aus Turbostrahltriebwerk mit Nachverbrennung und Staustrahltriebwerk wird Turbostaustrahltriebwerk oder Turboramjet genannt.
+Pulsstrahltriebwerk Historisch war das Pulsstrahltriebwerk der Vorgänger des Raketentriebwerks, damals für Marschflugkörper.
+Aufgrund weniger bewegter Teile und einfacher Funktionsweise ist es leicht zu bauen; extrem hoher Verschleiß ermöglicht nur Betriebsdauern von (maximal) wenigen Stunden.
+Wegen des sehr lauten Betriebsgeräusches sind Pulsstrahltriebwerke in einigen Ländern verboten.
+Raketentriebwerke Raketentriebwerke werden bisher nur bei Experimentalflugzeugen verwendet.
+Booster Um den Vortrieb und besonders den Auftrieb beim Start von STOL-Flugzeugen zu erhöhen, wurden zeitweise auch Booster in Form von Strahltriebwerken (Beispiel: Varianten der Fairchild C-123) oder auch Feststoff- oder Dampfraketen (siehe auch Booster (Raketenantrieb)) eingesetzt.
+Wandelflugzeuge, auch als Verwandlungsflugzeuge oder Verwandlungshubschrauber bezeichnet, nutzen beim Senkrechtstart die Konfiguration eines Hubschraubers.
+Beim Übergang zum Vorwärtsflug werden sie zum Starrflügler umkonfiguriert.
+Sie kombinieren so Vorteile von Drehflügler und Starrflügler.
+Die Wandlung erfolgt meist durch Kippen des Rotors, der dann als Zugtriebwerk arbeitet - Kipprotor oder Tiltrotor genannt (z. B. Bell-Boeing V-22).
+Zu den Wandelflugzeugen gehören auch Kippflügel-, Schwenkrotor-, Einziehrotor- und Stopprotorflugzeuge.
+Die meisten nicht durch Strahltriebwerke angetriebenen Senkrechtstarter (VTOL-Flugzeuge) gehören zu den Wandelflugzeugen.
+Die Flugsteuerung, engl. Flight Control System (FCS), umfasst das gesamte System zur Steuerung von Flugzeugen um alle drei Raumachsen.
+Neben der am häufigsten im Flugzeugbau eingesetzten aerodynamischen Flugsteuerung mit Steuerflächen werden auch Gewichtssteuerungen und Schubvektorsteuerungen verwendet.
+Zur Flugsteuerung gehören die Steuerelemente - z. B. Steuerflächen, bewegliche Massen, Steuerdüsen -, die Bedienorgane im Cockpit und die Übertragungselemente für die Steuereingaben von den Bedienorganen zu den Steuerelementen.
+Zur Beschreibung der Steuerung werden Achsen benannt:
+Querachse (englisch pitch), Längsachse (englisch roll), und Hochachse (englisch yaw).
+Jeder Achse ist bei einem 3-Achs-gesteuerten Flugzeug mit aerodynamischer Flugsteuerung eine oder mehrere Steuerflächen zugeordnet.
+Eine 2-Achs-Steuerung verzichtet z. B. auf Querruder oder Seitenruder, die fehlende Komponente wird durch die Eigenstabilität ersetzt.
+Siehe auch: Roll-Pitch-Yaw-Winkel
+Die Steuerelemente der verschiedenen Steuerungssysteme sind
+Beim Senkrechtstarter kommen als weitere Steuerungsmöglichkeiten insbesondere im Schwebe- und Transitionsflug das Kippen bzw. Schwenken von Rotoren oder Strahltriebwerken hinzu.
+Die Steuerung eines Flugzeuges sei am Beispiel der aerodynamischen Steuerung über Ruder dargestellt:
+Das Flugzeug kann simultan um eine oder mehrere dieser Achsen drehen.
+Das Höhenruder ist in der Regel hinten am Flugzeugrumpf angebracht, ebenso das Seitenruder, diese Kombination wird als Heckleitwerk bezeichnet.
+Abweichend davon kann die Höhensteuerung auch vorne platziert sein (Canard).
+Höhen- und Seitenruder können auch kombiniert werden wie beim V-Leitwerk.
+Die Funktion der Querruder kann durch gegenläufigen Ausschlag der Höhenruder ersetzt werden.
+Alle Arten von Trimmrudern dienen der Stabilisierung der Flugzeuglage und erleichtern dem Piloten die Flugsteuerung.
+Bei modernen Flugzeugen übernimmt der Autopilot die Kontrolle der Trimmruder.
+Die Hochauftriebshilfen werden beim Starten, im Steigflug und zum Landeanflug benutzt.
+An der Hinterkante der Flügel befinden sich die Hinterkantenauftriebshilfen oder Endklappen (flaps), die im Gegensatz zu den Rudern immer synchron an beiden Tragflügeln verwendet werden.
+Größere Flugzeuge und STOL-Flugzeuge haben meist auch noch Nasenauftriebshilfen in Form von Vorflügeln (Slats), Krügerklappen oder Nasenklappen (Kippnasen), die analog zu den an der hinteren Tragflächenkante gelegenen Landeklappen an der vorderen Tragflächenkante ausfahren.
+Durch die Klappen kann die Wölbung des Tragflügelprofils so verändert werden, dass die Abrissgeschwindigkeit gesenkt wird und auch beim langsamen Landeanflug oder im Steigflug der Auftrieb erhalten bleibt.
+Für die Begrenzung der Geschwindigkeit im Sinkflug werden auf den Tragflächen angebrachte sogenannten Brems-/Störklappen, "Spoiler" genannt, verwendet.
+Im ausgefahrenen Zustand vermindern sie den Auftrieb an den Tragflächen (Strömungsablösung).
+Durch den verringerten Auftrieb ist ein steilerer Landeanflug möglich.
+Spoiler werden auch zur Unterstützung der - in bestimmten Flugbereichen auch als Ersatz für - Querruder verwendet.
+Nach der Landung werden die Spoiler voll ausgefahren, so dass kein (positiver) Auftrieb mehr wirken kann.
+Dies geschieht meist durch einen Automatismus, der unter anderem durch das Einfedern des Hauptfahrwerks bei der Landung eingeleitet wird.
+Es gibt auch Steuerflächen mit mehrfachen Funktionen:
+Neben der konventionellen Anordnung der Steuerflächen existieren, wie vorher angedeutet, auch Sonderformen:
+Bedienorgane sind diejenigen Hebel und Pedale, die im Cockpit vom Piloten betätigt werden können und zur Steuerung des Flugzeugs dienen.
+Steuerknüppel, Steuerhorn oder Sidestick Steuerknüppel, Steuerhorn oder Sidestick dienen zur Steuerung der Querlage und der Längsneigung und steuern das Querruder und das Höhenruder.
+Der Steuerknüppel eines Flugzeugs dient zum gleichzeitigen Steuern von Querneigung und Längsneigung.
+Er befindet sich vor dem Unterbauch des Piloten und wird normalerweise mit einer Hand gehalten.
+Das Steuerhorn ist eine andere Einheit zur Steuerung von Flugzeugen um die Längs- und Querachse.
+Angeordnet ist es im Cockpit zentral vor dem Piloten und verfügt über Haltegriffe für beide Hände.
+Dabei werden die Kräfte, die während des Fluges auf das Flugzeug wirken, in Form von Widerstand und Ausschlag auf die Steuereinheit übertragen.
+Ein Sidestick ist ein Steuerknüppel, der nicht zentral vor dem Piloten, sondern seitlich angeordnet ist und nur mit einer Hand bedient wird.
+Seitenruderpedale Die Pedale zur Seitensteuerung betätigen das Seitenruder und in der Regel am Boden auch die Bremsen.
+Bei Segelflugzeugen wird die Radbremse (wenn vorhanden) meist durch Ziehen des Bremsklappenhebels betätigt.
+Trimmung Zur dauerhaften Trimmung dienen
+Die Übertragung der Steuereingaben kann erfolgen
+Seine Lage im Raum erkennt der Flugzeugführer entweder durch Beobachtung der Einzelheiten des überflogenen Gebiets und des Horizonts oder durch Anzeigeinstrumente (Flugnavigation).
+Bei schlechter Sicht dient der künstliche Horizont der Anzeige der Fluglage in Bezug auf die Nickachse, also den Anstellwinkel des Flugzeugrumpfes, und bezüglich der Rollachse, der sogenannten Querlage (Banklage).
+Die Himmelsrichtung, in die das Flugzeug fliegt, zeigen der magnetische Kompass und der Kurskreisel.
+Magnetischer Kompass und Kurskreisel ergänzen sich gegenseitig, da der Magnetkompass bei Sink-, Steig- und Kurvenflügen zu Dreh- und Beschleunigungsfehlern neigt, der Kurskreisel jedoch nicht.
+Der Kurskreisel hat jedoch keine eigene "nordsuchende" Eigenschaft und muss mindestens vor dem Start (in der Praxis auch in regelmäßigen Abständen beim Geradeausflug) mit dem Magnetkompass kalibriert werden.
+Der Wendezeiger dient zur Anzeige der Drehrichtung und zur Messung der Drehgeschwindigkeit des Flugzeugs um die Hochachse (engl. rate of turn).
+Er enthält meistens eine Kugellibelle, die anzeigt, wie koordiniert eine Kurve geflogen wird.
+Für die Höhensteuerung sind mindestens zwei Instrumente wichtig:
+Die absolute Höhe in Bezug auf die Meereshöhe wird über den barometrischen Höhenmesser dargestellt, die relative Änderung der Höhe, die sogenannte Steigrate bzw. Sinkrate, ausgedrückt als Höhenunterschied pro Zeiteinheit, bekommt der Flugzeugführer über das Variometer signalisiert.
+Zusätzlich wird bei größeren Flugzeugen im Landeanflug die absolute Höhe über Grund über den Radarhöhenmesser angezeigt.
+Neben der naheliegenden Klassifizierung nach der Bauweise oder der Antriebsart haben sich weitere Klassifizierungen etabliert.
+Zivilflugzeuge dienen der zivilen Luftfahrt, dazu gehört die allgemeine Luftfahrt und der Linien- und Charterverkehr durch die Fluggesellschaften (Airlines).
+Zivilflugzeuge werden hauptsächlich nach folgendem Schema klassifiziert:
+Die ersten Flugzeuge waren Experimentalflugzeuge.
+Experimentalflugzeuge, auch Versuchsflugzeuge genannt, dienen dem Erforschen von Techniken oder dem Testen von Forschungserkenntnissen im Bereich der Luftfahrt.
+Sehr früh in der Geschichte des Flugzeugs entstanden auch die Sportflugzeuge.
+Ein Sportflugzeug ist ein Leichtflugzeug zur Ausübung einer sportlichen Tätigkeit, entweder zur Erholung oder bei einem sportlichen Wettkampf.
+Noch vor dem Ersten Weltkrieg kam es zur Erprobung und zum Bau des Passagierflugzeugs.
+Passagierflugzeuge dienen dem zivilen Personentransport und werden auch als Verkehrsflugzeug bezeichnet.
+Kleinere Passagierflugzeuge werden auch als Zubringerflugzeuge bezeichnet.
+Speziell für Geschäftsreisende entworfene kleine Passagierflugzeuge sind die Geschäftsreiseflugzeuge, für die auch der engl. Ausdruck Bizjet verwendet wird.
+Ein Frachtflugzeug ist ein Flugzeug zum Transport von (kommerzieller) Fracht.
+Flugzeugsitze sind daher nur für die Mannschaft eingebaut, meist enthalten sie heute ein Transportsystem für Paletten und Flugzeugcontainer.
+Eine Unterkategorie des Frachtflugzeugs ist das Postflugzeug.
+Frühe Postflugzeuge konnten auch dem Transport einzelner Personen dienen.
+Für den Bereich der Land- und Forstwirtschaft werden spezielle Flugzeuge verwendet, die Dünger, bodenverbessernde Stoffe und Pflanzenschutzmittel in Behältern mitführen können und über Sprühdüsen, Streuteller oder ähnliche Einrichtungen verbreiten können.
+Sie werden allgemein als Agrarflugzeuge bezeichnet.
+Feuerlöschflugzeuge, auch "Wasserbomber" genannt, sind Flugzeuge, die Wasser und Löschadditive in ein- oder angebauten Tanks mitführen und über Schadfeuern abwerfen können.
+Es gibt unter dem Begriff Rettungsflugzeug (amtlich "Luftrettungsmittel" genannt) verschiedene unterschiedliche Kategorien wie Rettungshubschrauber, Intensivtransporthubschrauber, Notarzteinsatzhubschrauber oder Flugzeuge zur Rückholung von Patienten aus dem Ausland.
+Unter den Überbegriff Search and Rescue (SAR) fallen Flugzeuge, die zum Suchen und Retten von Unfallopfern verwendet werden.
+Es gibt zahlreiche Sonderbauformen wie z. B. Forschungsflugzeuge mit spezieller Ausrüstung (spezielles Radar, Fotokameras, sonstige Sensoren).
+Militärflugzeuge sind Flugzeuge, die der militärischen Nutzung unterliegen.
+Ganz sauber ist die Grenze jedoch nicht immer zu ziehen.
+Viele Flugzeuge erfahren sowohl militärische als auch zivile Verwendung.
+Militärflugzeuge werden nach folgenden Verwendungszwecken unterschieden:
+Ein Jagdflugzeug ist ein in erster Linie zur Bekämpfung anderer Flugzeuge eingesetztes Militärflugzeug.
+Heute spricht man eher vom Kampfflugzeug, da die Flugzeuge dieser Kategorie keiner eindeutigen Aufgabe zugeordnet werden können.
+Sie werden für den Luftkampf, die militärische Aufklärung, die taktische Bodenbekämpfung und/oder andere Aufgaben genutzt.
+Ein Bomber ist ein militärisches Flugzeug, das dazu dient, Bodenziele mit Fliegerbomben, Luft-Boden-Raketen und Marschflugkörpern anzugreifen.
+Ein Verbindungsflugzeug ist ein kleines Militärflugzeug, mit dem in der Regel Kommandeure transportiert werden.
+Es kann außerdem der Gefechtsfeldaufklärung dienen (heute nur noch bei Truppenübungen), als kleineres Ambulanzflugzeug dienen oder für Botendienste eingesetzt werden.
+Heute werden als Verbindungsflugzeug meistens leichte Hubschrauber eingesetzt.
+Luftbetankung bezeichnet die Übergabe von Treibstoff von einem Flugzeug zu einem anderen während des Fluges.
+Üblicherweise ist das Flugzeug, das den Treibstoff zur Verfügung stellt, ein speziell für diese Aufgabe entwickeltes Tankflugzeug.
+Ein Aufklärungsflugzeug ist ein Militärflugzeug, das für die Aufgabe konstruiert, umgebaut oder ausgerüstet ist, Informationen für die militärische Aufklärung zu beschaffen.
+Manchmal werden Aufklärungsflugzeuge auch als Spionageflugzeuge bezeichnet.
+Ein Schlachtflugzeug, auch Erdkampfflugzeug genannt, ist ein militärischer Flugzeugtyp, der besonders für die Bekämpfung von Bodenzielen vorgesehen ist.
+Dieser Typus stellt eine eigene Flugzeugart dar, die ganz spezifische taktische Aufgaben erfüllen soll.
+Da die Angriffe in niedrigen bis mittleren Flughöhen stattfinden und mit starkem Abwehrfeuer zu rechnen ist, werden besondere Schutzmaßnahmen ergriffen, wie Panzerung der Kabine und Triebwerke gegen Bodenfeuer.
+Transportflugzeuge, die mit seitlich ausgerichteten Maschinenwaffen oder gar Rohrartillerie ausgerüstet sind, nennen sich Gunship.
+Drehflügelflugzeuge in der Rolle von Erdkampfflugzeugen werden als Kampfhubschrauber bezeichnet.
+Ein Trainer ist ein Flugzeug, das zur Ausbildung von Piloten benutzt wird.
+Transportflugzeuge sind besondere Frachtflugzeuge, die für den militärischen Lastentransport entwickelt werden.
+Sie müssen robust, zuverlässig, variabel für den Personen-, Material- oder Frachttransport geeignet sowie schnell ein- und ausladbar sein.
+Transportiert werden können, auch in Kombination, zum Beispiel Hilfsgüter, Fallschirmspringer, Fahrzeuge, Panzer, Truppen oder Ausrüstung.
+Die Klassifikation ist in der Praxis nicht immer streng zwischen zivil und militärisch zu trennen, denn manche Zweckbestimmung kann unabhängig vom Einsatz gegeben sein.
+Beispielsweise können Fracht- bzw. Transportflugzeuge je nach Fracht, Sanitätsflugzeuge je nach Arzt/Patient und Trainer je nach Lehrer/Schüler sowohl im Zivil- als auch im Militärbereich vorkommen.
+Flugzeuge, die starre Tragflügel besitzen, werden häufig auch nach der Anzahl und Lage der Tragflügel zum Rumpf kategorisiert.
+Ein Eindecker ist ein Flugzeug mit einer einzigen Tragfläche bzw. einem Paar Tragflügeln.
+Eindecker werden wiederum unterteilt in
+Doppeldecker ist die Bezeichnung für ein Flugzeug, das zwei vertikal gestaffelt angeordnete Tragflächen besitzt.
+Eine Sonderform des Doppeldeckers ist der "Anderthalbdecker".
+Um die Zeit des Ersten Weltkriegs gab es auch Dreidecker.
+Doppelrumpfflugzeuge besitzen zwei Rümpfe, sie sind gewissermaßen die Katamarane unter den Flugzeugen.
+Jeder Rumpf besitzt hierbei in der Regel ein eigenes Cockpit.
+Damit nicht zu verwechseln sind Flugzeuge mit einem doppelten Leitwerksträger, die jedoch nur einen Rumpf aufweisen, der meistens als Rumpfgondel ausgebildet ist.
+Asymmetrische Flugzeuge sind ein sehr seltener Flugzeugtyp, das bekannteste Exemplar ist die Blohm & Voss BV 141 von 1938.
+Hier ist die Flugzeugkanzel auf der Tragfläche, während der Propeller und Motor den Rumpf alleine besetzen.
+Die Tragflächen sind asymmetrisch ausgebildet.
+Als Canard oder Entenflugzeug wird ein Flugzeug bezeichnet, bei dem das Höhenleitwerk nicht konventionell am hinteren Ende des Flugzeugs montiert ist, sondern vor der Tragfläche an der Flugzeugnase; das Flugbild erinnert an eine fliegende Ente.
+Sind im Extremfall beide Tragflächen annähernd gleich groß, wird diese Auslegung auch als Tandemflügel bezeichnet.
+Ein Nurflügel ist ein Flugzeug ohne ein separates Höhenruder, bei dem es keine Differenzierung zwischen Tragflächen und Rumpf gibt.
+Bildet der Rumpf selbst den Auftriebskörper und hat dieser nicht mehr die typischen Dimensionen eines Tragflügels, wird er als Lifting Body bezeichnet.
+Die Vereinigung dieser beiden Konzepte nennt man Blended Wing Body.
+Ein Wasserflugzeug ist ein Flugzeug, das für Start und Landung auf Wasserflächen konstruiert ist.
+Es hat meist unter jeder der beiden Tragflächen einen leichten, bootartigen Schwimmer.
+Bei Flugbooten ist der gesamte Rumpf schwimmfähig.
+Wasserflugzeuge und Flugboote können nur vom Wasser aus starten oder im Wasser landen.
+Sind diese Flugzeuge mit (meist einziehbaren) Fahrwerken versehen, mit denen sie auch vom Land aus starten und auf dem Land landen können, werden sie Amphibienflugzeuge genannt.
+Starrflügelflugzeuge und einige Typen der Drehflügler benötigen eine mehr oder weniger präparierte Start- und Landebahn einer gewissen Länge.
+Die Ansprüche reichen von einem ebenen Rasen ohne Hindernisse bis zur asphaltierten oder betonierten Piste.
+Flugzeuge, die mit besonders kurzen Start- und Landebahnen auskommen, werden als Kurzstartflugzeug oder STOL-Flugzeuge typisiert.
+Flugzeuge, die senkrecht starten und landen können, sind Senkrechtstarter oder VTOL-Flugzeuge.
+Sie benötigen gar keine Start- und Landebahn, sondern nur einen festen Untergrund ausreichender Größe, der ihr Gewicht tragen kann, und auf dem der Abwind (engl. downwash), der durch das VTOL-Flugzeug erzeugt wird, nicht allzu viel Schaden anrichtet, z. B. ein Helipad.
+VTOL-Flugzeuge, die auf dem Boden senkrecht nach oben stehend starten und landen, sind Heckstarter.
+Im zivilen Bereich sind unbemannte Flugzeuge meistens als Modellflugzeug gebräuchlich und werden über Funkfernsteuerungen gesteuert, selten über Programmsteuerungen.
+Unbemannte Flugzeuge im militärischen oder staatlichen Einsatz werden Drohnen genannt.
+Das Spektrum reicht hier von Modellflugzeugen zur Zieldarstellung für Flugabwehrkanonen über unbemannte Aufklärungsflugzeuge bis hin zu unbemannten bewaffneten Kampfflugzeugen (Kampfdrohnen).
+Im staatlichen Bereich werden Drohnen von Polizei und Zoll zur Tätersuche und Verfolgung eingesetzt, häufig mit Video- und Wärmebildkameras, für die bisher bemannte Polizeihubschrauber eingesetzt werden.
+Die Steuerung erfolgt dabei ebenfalls über Funkfern- oder Programmsteuerung.
+Während Drohnen in der Regel wiederverwendbar sind, werden unbemannte Flugzeuge mit fest eingebauten Sprengköpfen als Marschflugkörper bezeichnet.
+1810 bis 1811 konstruierte Albrecht Ludwig Berblinger, der berühmte Schneider von Ulm, seinen ersten flugfähigen Gleiter, führte ihn jedoch der Öffentlichkeit über der Donau unter ungünstigen Windverhältnissen vor und stürzt unter dem Spott der Zuschauer in den Fluss.
+Der englische Gelehrte Sir George Cayley (1773 bis 1857) untersuchte und beschrieb als Erster in grundlegender Weise die Probleme des aerodynamischen Flugs.
+Er löste sich vom Schwingenflug und veröffentlichte 1809 bis 1810 einen Vorschlag für ein Fluggerät "mit angestellter Fläche und einem Vortriebsmechanismus".
+Er beschrieb damit als erster das Prinzip des modernen Starrflügelflugzeugs.
+Im Jahr 1849 baute er einen bemannten Dreidecker, der eine kurze Strecke flog.
+Der Russe Alexander Moschaiski baute ein Flugzeug mit einem Dampfmaschinenantrieb, mit dem er zwischen 1882 und 1886 mehrere Flugversuche unternahm.
+Das Flugzeug konnte vom Boden abheben, verlor jedoch in der Folge an Geschwindigkeit und sackte ab.
+Seine verbesserte Version, die mit mehr Leistung ausgestattet war, wäre nach der Schlussfolgerung des russischen Luftfahrtforschungsinstituts ZAGI (getestet 1982) flugfähig.
+Zu dem Flug ist es jedoch durch den Tod des Konstrukteurs nicht mehr gekommen.
+Der Flugpionier Otto Lilienthal (1848-1896) entwickelte nach ausführlichen theoretischen und praktischen Vorarbeiten Gleitflugzeuge und führte mit ihnen erfolgreiche Gleitflüge nach dem Prinzip "schwerer als Luft" durch.
+Er ist deutlich über 1.000-mal gesegelt.
+Die erzielten maximalen Flugweiten lagen bei 250 Metern.
+Die aerodynamische Formgebung seiner Tragflügel erprobte er auf seinem "Rundlaufapparat", der von der Funktion her ein Vorgänger der modernen Windkanäle war.
+Clement Ader hat mit seiner Eole den ersten (ungesteuerten) motorisierten Flug in der Geschichte ausgeführt.
+Bei der Eole handelte es sich um einen freitragenden Nurflügel-Eindecker, der von einer auf eine vierblättrige Luftschraube wirkenden 4-Zylinder-Dampfmaschine angetrieben wurde.
+Die Eole hob am 9. Oktober 1890 zu ihrem einzigen Flug ab, flog ca. 50 m weit, stürzte ab und wurde dabei zerstört.
+Einen der ersten gesteuerten Motorflüge soll der deutsch-amerikanische Flugpionier Gustav Weißkopf im Jahr 1901 über eine Strecke von einer halben Meile zurückgelegt haben.
+Hierzu gab es lediglich Zeugenaussagen, aber keinen fotografischen Beweis.
+Karl Jatho hat sich, in ihm zugeordneten handschriftlichen Notizen, "Luftsprünge" mit seinem motorisierten Jatho-Drachen ab dem 18. August 1903 zugeschrieben, die von zunächst ca. 18 m, später bis ca. 60 m reichten.
+Der Zeitpunkt der Entstehung dieser Notizen und der Zeitpunkt ihrer Veröffentlichung sind unklar; ebenso unklar ist der Status von Zeugenaussagen zu diesen Luftsprüngen, die im August 1933, also 30 Jahre später, erfolgt sein sollen.
+Für 1907 belegte Flugversuche mit dem Jatho-Drachen scheiterten.
+Die herausragende Leistung der Brüder Wright bestand darin, als Erste ein Flugzeug gebaut zu haben, mit dem ein erfolgreicher, andauernder, gesteuerter Motorflug möglich war, und diesen Motorflug am 17. Dezember 1903 auch durchgeführt zu haben.
+Darüber hinaus haben sie ihre Flüge genauestens dokumentiert und innerhalb kurzer Zeit in weiteren Flügen die Tauglichkeit ihres Flugzeuges zweifelsfrei bewiesen.
+Von herausragender Bedeutung ist, dass Orville Wright bereits 1904 mit dem Wright Flyer einen gesteuerten Vollkreis fliegen konnte.
+Am Rand sei bemerkt, dass der Wright Flyer dem Typ nach ein "Canard" war, sich also die Höhensteuerung vor dem Haupttragwerk befand.
+Samuel Pierpont Langley, ein Sekretär des Smithsonian-Instituts, versuchte einige Wochen vor dem Wright-Flug, sein "Aerodrome" zum Fliegen zu bringen.
+Obwohl sein Versuch scheiterte, behauptete das Smithsonian-Institut einige Zeit, die Aerodrome wäre die erste "flugtaugliche Maschine".
+Der Wright Flyer wurde dem Smithsonian Institut mit der Auflage gestiftet, dass das Institut keinen früheren motorisierten Flug anerkennen dürfe.
+Diese Auflage wurde von den Stiftern formuliert, um die frühere Darstellung des Instituts, Langley hätte mit der Aerodrome den ersten erfolgreichen Motorflug durchgeführt, zu unterbinden.
+Diese Auflage führte immer wieder zu der Vermutung, dass es vor den Wright Flyern erfolgreiche Versuche zum Motorflug gegeben habe, deren Anerkennung aber im Zusammenhang mit der Stiftungsauflage unterdrückt worden sei.
+Die ersten Motorflugzeuge waren meistens Doppeldecker.
+Versuchsweise wurden auch mehr als drei Tragflächen übereinander angeordnet.
+Eine solche Mehrdeckerkonstruktion stammte von dem Engländer Horatio Frederick Phillips.
+Mit dem Fünfzigdecker "Horatio Phillips No. 2" gelang ihm im Sommer 1907 der erste Motorflug in England.
+Im Jahr 1909 setzte Europa weitere praktische Meilensteine in der Geschichte des Flugzeugs.
+Am 25. Juli 1909 überquerte Louis Bleriot mit seinem Eindecker Bleriot XI als erster mit einem Flugzeug den Ärmelkanal.
+Sein Flug von Calais nach Dover dauerte 37 Minuten bei einer durchschnittlichen Flughöhe von 100 Metern.
+Bleriot konnte somit den von der englischen Zeitung Daily Mail für die erste Kanalüberquerung ausgelobten Geldpreis entgegennehmen.
+Mit der Bleriot XI wurde ihr Konstrukteur "Vater der modernen Eindecker".
+Der Erfolg der Maschine machte ihn zum ersten kommerziellen Flugzeughersteller.
+Vom 22. bis zum 29. August 1909 fand mit der "Grande Semaine d'Aviation de la Champagne" eine Flugschau bei Reims statt, die mehrere Rekorde bescherte: Henri Farman flog eine Strecke von 180 Kilometern in drei Stunden.
+Bleriot flog die höchste Fluggeschwindigkeit über die 10-Kilometer-Strecke mit 76,95 km/h. Hubert Latham erreichte auf einer "Antoinette" des Flugzeugkonstrukteurs Levasseur mit 155 m die größte Flughöhe.
+1910 gelang dem französischen Ingenieur Henri Fabre mit dem von ihm konstruierten Canard Hydravion der erste Flug mit einem Wasserflugzeug.
+Im Jahr 1912 erfindet Louis Bechereau die Monocoque-Bauweise für Flugzeuge.
+Die Rümpfe anderer Flugzeuge bestanden aus einem mit lackiertem Stoff überzogenen Gerüst.
+Das von Bechereau entworfene Deperdussin-Monocoque-Rennflugzeug besaß jedoch einen Stromlinienrumpf aus einer Holzschale ohne inneres Gerüst.
+Neu war auch die "DEP"-Steuerung, bei der auf dem Steuerknüppel für die Nickbewegung ein Steuerrad für die Rollbewegung saß, ein Prinzip, das heute noch vielfach Verwendung findet.
+Als Triebwerk besaß das Flugzeug einen speziellen Flugzeugmotor, den Gnome-Umlaufmotor.
+Die Deperdussin Monocoques waren die schnellsten Flugzeuge ihrer Zeit.
+Ein wesentlicher technischer Durchbruch gelang kurz vor dem Ersten Weltkrieg dem russischen Konstrukteur und Piloten Igor Iwanowitsch Sikorski, der später eher als Hersteller von Flugbooten und Konstrukteur von Hubschraubern in den USA bekannt wurde.
+Von 1913 bis 1914 bewies er mit den ersten von ihm konstruierten "Großflugzeugen", dem zweimotorigen Grand Baltiski, dem viermotorigen Russki Witjas und dessen Nachfolger, dem viermotorigen Ilja Muromez, dass solche großen Flugzeuge sicher und stabil fliegen können, selbst wenn ein oder zwei Motoren abgestellt sind oder ausfallen.
+Während des Ersten Weltkrieges erkannten die Militärs den Wert der Luftaufklärung.
+Zugleich wollten sie den Gegner an einer Aufklärung hindern.
+Das Flugzeug entwickelte sich zur Waffe, und die Grundlagen des Luftkrieges mit Propellerflugzeugen wurden gelegt.
+Die zu Anfang des Krieges noch weit verbreiteten Flugzeuge mit Druckpropeller wurden durch die wendigeren und schnelleren Maschinen mit Zugpropeller ersetzt.
+Hierzu trug bei, dass die Synchronisierung der Bordmaschinengewehre mit dem Propeller über ein Unterbrechergetriebe entwickelt wurde, so dass man mit der starren Bewaffnung durch den eigenen Propellerkreis schießen konnte.
+Auf diese Weise konnte der Pilot mit dem Flugzeug den Gegner anvisieren, was den Einsatz von Maschinengewehren im Luftkampf wesentlich erfolgreicher machte.
+Aus den Flugzeugen wurden Granaten, Flechettes und darauf folgend erste spezielle Spreng- und Brandbomben abgeworfen.
+Dabei sollten zunächst die Soldaten in den feindlichen Linien und später auch Fabriken und Städte getroffen werden.
+Während des Ersten Weltkrieges wurde eine Flugzeugindustrie aus dem Boden gestampft, es entstanden die ersten Flugplätze, und die Technik des Flugfunks wurde entwickelt.
+Durch den Einsatz von neuen Metallen (Aluminium) wurden Flugzeugmotoren immer leistungsfähiger.
+Im Jahr 1915 erprobte Hugo Junkers das erste Ganzmetallflugzeug der Welt, die Junkers J 1. Hugo Junkers baute 1919 auch das erste Ganzmetall-Verkehrsflugzeug der Welt, die Junkers F 13, deren Konstruktionsprinzipien richtungweisend für folgende Flugzeuggenerationen wurden.
+Während des Ersten Weltkrieges war die Flugzeugproduktion stark angekurbelt worden.
+Nach diesem Krieg mussten die Flugzeughersteller ums Überleben kämpfen, da nicht mehr so viele Militärflugzeuge gebraucht wurden.
+Gerade in Europa gingen viele der ehemaligen Flugzeughersteller in Konkurs, wenn es ihnen nicht gelang, ihre Produktion auf zivile Güter umzustellen.
+In den USA waren Kampfflugzeuge geradezu zu Schleuderpreisen zu kaufen.
+Ehemalige Piloten von Kampfflugzeugen mussten sich eine neue Beschäftigung suchen.
+Kommerzielle zivile Luftfahrt
+Sowohl in den USA als auch in Europa entstanden viele neue zivile Dienste und Luftfahrtgesellschaften, wie z. B. die Luft Hansa 1926.
+Die bekanntesten Passagierflugzeuge dieser Zeit waren die Junkers F 13, die Junkers G 38, die Dornier Wal, die Handley Page H.P.42 und die Junkers Ju 52/3m.
+Langstreckenflüge
+Die große Herausforderung nach dem Krieg waren Langstreckenflüge, vor allem die Überquerung des Atlantik.
+Diese Aufgabe kostete einige Menschenleben, bis eines von drei in Neufundland gestarteten Curtiss-Flugbooten der US-Navy, die Curtiss NC-4, nach 11 Tagen am 27. Mai 1919 in Lissabon landete.
+In der Zeit vom 14. bis 15. Juni 1919 gelingt den britischen Fliegern Captain John Alcock und Lieutenant Arthur Whitten Brown der erste Nonstop-Flug über den Atlantik von West nach Ost.
+Ihr Flugzeug war ein zweimotoriger modifizierter Bomber Typ Vickers Vimy IV mit offenem Cockpit.
+Charles Lindbergh gelingt zwischen 20. und 21. Mai 1927 mit seinem Flugzeug "Ryan NYP" Spirit of St. Louis der erste Nonstop-Alleinflug von New York nach Paris über den Atlantik.
+Er gewinnt damit den seit 1919 ausgelobten Orteig Prize.
+Allein dieser Überflug brachte der US-amerikanischen Flugzeugindustrie und den US-amerikanischen Fluggesellschaften einen deutlichen Aufschwung.
+Eine von Daniel Guggenheim finanzierte Reise Lindberghs durch alle US-Bundesstaaten führte im ganzen Land zum Bau von Flugplätzen.
+Am 12. April 1928 gelingt der Transatlantikflug von Ost (Baldonnel in Irland) nach West (Greenly Island - Neufundland) durch Hermann Köhl, James Fitzmaurice und Ehrenfried Günther Freiherr von Hünefeld mit einer modifizierten Junkers W 33.
+Flugboote Ab Ende der 20er Jahre beginnt das Zeitalter der großen Flugboote, deren bekannteste Vertreter die Dornier Do X und Boeing 314 waren.
+Haupteinsatzbereich waren weite Transatlantik- und Pazifikflüge.
+Mit der Flugbootkombination Short Mayo war ab 1937 in England für Transatlantikflüge experimentiert worden.
+Der Sinn der Short-Mayo-Kombination war, mit einem leicht betankten Flugboot, in diesem Fall einer Short-S.21, ein schwerbeladenes Wasserflugzeug (eine Short-S.20) auf Flughöhe zu tragen und dort auszuklinken.
+Diese Kombination sollte das Verhältnis zwischen Leistung, Nutzlast und Treibstoff optimieren.
+Katapultflugzeuge Als Pionier im Katapultflugzeugbau gilt Ernst Heinkel, der 1925 eine Abflugbahn (noch kein Katapult) mit Flugzeug auf das japanische Schlachtschiff Nagato aufsetzte und erfolgreich persönlich in Dienst nahm.
+Auf wenigen großen Passagierschiffen wie der Bremen wurden mit dem Aufkommen der Katapulttechnik Katapultflugzeuge eingesetzt, die mittels eines Dampfkatapults gestartet wurden.
+Die Flugzeuge dienten meist zur schnellen Postbeförderung, wie die Heinkel HE 12 und die Junkers Ju 46.
+Im militärischen Bereich wurden Katapultflugzeuge hauptsächlich für die Luftaufklärung eingesetzt.
+Kleine Maschinen, wie die Arado Ar 196, wurden von großen Kriegsschiffen aus eingesetzt und große Katapultflugzeuge, wie die Dornier Do 26, wurden in den 1930er Jahren von der Lufthansa für den Transatlantik-Luftpostverkehr von Flugstützpunktschiffen aus eingesetzt und im Zweiten Weltkrieg als Transportflugzeuge und See-Fernaufklärer.
+Höhenflugzeuge Bereits ab 1937 begann die deutsche Luftwaffe mit dem Bau von Höhenflugzeugen, diese waren mit Druckkabinen ausgestattet und erreichten Höhen zwischen 12.000 und 15.000 m.
+Die bekanntesten Vertreter waren die Junkers EF 61, später die Henschel Hs 130 und die Junkers Ju 388.
+Sie dienten als Höhenaufklärer bzw. Höhenbomber, allerdings wurden sie nur in wenigen Exemplaren gebaut.
+Als erstes Passagierflugzeug mit einer Druckkabine erlaubte der Boeing 307 Stratoliner einen Flug über dem Wetter und damit eine wesentliche Komfortsteigerung für die Passagiere.
+Am 20. Juni 1939 startet mit der Heinkel He 176 das erste Versuchsflugzeug mit regelbarem Flüssigkeitsraketenantrieb.
+Dieses Flugzeug besitzt auch als erstes als Rettungsmittel eine abtrennbare Cockpitkapsel mit Bremsschirm.
+Der Pilot musste sich im Notfall dann allerdings von der Kapsel befreien und mit dem Fallschirm abspringen.
+Das Flugzeug erreichte eine maximale Geschwindigkeit von ca. 750 km/ h.
+Die Heinkel He 178 war das erste Flugzeug der Welt, das von einem Turbinen-Luftstrahltriebwerk angetrieben wurde.
+Der Erstflug erfolgte am 27. August 1939.
+Durch die Luftschlacht um England geriet das Jagdflugzeug zunächst in den Mittelpunkt.
+Die beiden herausstechenden Typen dieser Zeit waren die Messerschmitt Bf 109 und die Supermarine Spitfire, die durch Verbesserungen der Aerodynamik und auch der Leistungsfähigkeit der Motoren im Laufe ihrer Entwicklung wesentlich in ihrer Leistungsfähigkeit gesteigert wurden.
+Die Heinkel He 280 war das erste zweistrahlige Flugzeug der Welt; es besaß zwei Turbostrahltriebwerke.
+Es war auch das erste Flugzeug, das mit einem Schleudersitz ausgerüstet war.
+Der Erstflug fand am 2. April 1941 statt.
+Seinen ersten Einsatz als Rettungsgerät hatte der Schleudersitz wohl am 13. Januar 1943, als sich der Pilot aus einer He 280 katapultieren musste, die wegen Vereisung flugunfähig geworden war.
+Die Alliierten setzten für den strategischen Luftkrieg große viermotorige Bombenflugzeuge ein.
+Da Angriffe wegen der deutschen Luftverteidigung oft nachts geflogen werden mussten hielt die Avionik in den Luftkrieg Einzug.
+Geräte zu Positionsbestimmung, wie das GEE-Verfahren, Radar zur Navigation und zur Nachtjagd und auch Funkgeräte zogen in Einsatz ein.
+Der Kampf führte zu immer größeren Flughöhen und Geschwindigkeiten.
+Um die Bombenflugzeuge wirksam schützen zu können wurden Jagdflugzeuge mit großer Reichweite entwickelt, etwa die North American P-51
+Die Arado Ar 234B-2 von 1944 war der erste vierstrahlige Bomber mit einem Autopiloten (PDS), gefolgt.
+Kurz vor Kriegsende entstand der zweistrahlige Nurflügler Horten H IX.
+Die Außenhülle war mit einer Mischung aus Kohlenstaub und Leim beschichtet, um Radarstrahlen zu absorbieren.
+Mit der Messerschmitt Me 163 wurde Mitte 1944 ein Raketengleiter, ausgehend von einem Segelflugzeug, zur Einsatzreife entwickelt.
+Als Objektschutzjäger eingesetzt bestach das Flugzeug durch seine Steigleistung, war jedoch aufgrund der Einsatzumstände praktisch wirkungslos.
+Während dieser Zeit steigerte sich die Fluggeschwindigkeit bis in den transsonischen Bereich.
+Umfangreiche Forschungsprojekte, insbesondere auf deutscher Seite, führten zu grundlegenden Entdeckungen der in der Hochgeschwindigkeitsaerodynamik, etwa die Anwendung der Tragflächenpfeilung oder die Entdeckung der Flächenregel.
+Produkt dieser Bemühungen war der schwere Strahlbomber Junkers Ju 287 mit negativer Pfeilung der Tragflächen und Anwendung der Flächenregel.
+Die Japaner errangen mit ihrer leichten und wendigen Mitsubishi Zero Sen im Pazifik zunächst herausragende Erfolge.
+Erst spätere Entwicklungen der USA erlaubten es, gegen den Gegner mit Erfolgsaussicht vorzugehen.
+Als die Lage Ende 1944 für Japan immer aussichtsloser wurde, ersannen sie Kamikaze-Flugzeuge, deren Piloten das voll Sprengstoff gepackte Flugzeug selbstmörderisch auf alliierte Schiffe lenkten.
+1947 durchbrach die Bell X-1 als erstes Flugzeug offiziell die Schallmauer, inoffiziell war das nach Berichten deutscher Kampfflieger aus Versehen bereits 1945 mit einer Messerschmitt Me 262 gelungen.
+Die X-1 war ein Experimentalflugzeug mit Raketenantrieb, welches von einer B-29 in ca. 10 km Höhe getragen und dort ausgeklinkt wurde, woraufhin der Raketenantrieb zündete und das Flugzeug die Schallmauer durchbrach.
+Mit dem Kalten Krieg und dem Koreakrieg (1950-1953) begann das Wettrüsten der Strahlflugzeuge.
+Am 8. November 1950 gelang der weltweit erste Sieg in einem Luftkampf zwischen Strahlflugzeugen, bei dem eine MiG-15 von einer Lockheed P-80 abgeschossen wurde.
+Grundsätzlich waren die P-80 und Republic F-84 den sowjetischen Jets jedoch nicht gewachsen und wurden deshalb bald von der F-86 Sabre abgelöst.
+Mit der Inbetriebnahme der britischen De Havilland DH.106 Comet bei der Fluggesellschaft BOAC begann 1952 das Zeitalter der Strahlturbinen auch für Verkehrsflugzeuge.
+Allerdings wurden die wechselnden Druck-Belastungen nicht ausreichend berücksichtigt - der Verkehr fand jetzt in größeren Höhen statt und die Lastwechsel der Druckkabine führten zu Haarrissen im Rumpf.
+Als 1954 zwei Maschinen dieses Typs abstürzten, musste mit großem Aufwand nach den Ursachen geforscht werden; es handelte sich um Materialermüdung.
+Diese Forschung kam allen Konstrukteuren zugute.
+Mit der Tupolew Tu-104 etablierte währenddessen die Sowjetunion ab 1956 erfolgreiche Liniendienste.
+Die Comet nahm mit einem weitgehend neu konstruierten Rumpf als DH.106 Comet 4B im Herbst 1958 ihren Dienst wieder auf, allerdings nur kurz vor der Boeing 707, welche eine etwas höhere Reichweite hatte und mehr als doppelt so viele Passagiere befördern konnte.
+Eine verbesserte Wirtschaftlichkeit brachte ab 1962 der Einsatz der leistungsstärkeren und verbrauchsärmeren Mantelstromtriebwerke (engl. Turbofan).
+Anfang der 1970er Jahre begann der Einsatz von Großraumpassagierflugzeugen wie zum Beispiel dem Boeing 747 "Jumbo-Jet" und der McDonnell Douglas DC-10, später kamen Airbus-Baureihen dazu; größtes Passagierflugzeug ist heute der Airbus A380.
+Mit Beginn der 1950er Jahre begann die Entwicklung weitreichender strategischer Bomber, die auch Atombomben tragen konnten.
+Die bekanntesten Vertreter waren die Boeing B-52, Convair B-58, Mjassischtschew M-4, die Tupolew Tu-95 und die Avro Vulcan.
+Die B-58 war das erste Kampfflugzeug mit einem zentralen Bordrechner, der die zahlreichen Baugruppen zusammenfasste.
+1955 rüstete die französische Firma Sud Aviation ihren Hubschrauber Alouette II mit einer 250-kW-Turbomeca-Artouste-Wellenturbine aus und baute damit den ersten Hubschrauber mit Gasturbinenantrieb.
+Mit dem Hawker Siddeley Harrier begann die Serienherstellung senkrechtstartender VTOL-Flugzeuge ab 1966.
+Allerdings kamen fast alle anderen VTOL-Flugzeuge nicht über das Prototypenstadium hinaus.
+Die USA entwickeln zurzeit (2005) mit dem Lockheed Martin F-35 eine neue Generation von V/STOL-Flugzeugen.
+Mit dem Vietnamkrieg trafen erneut sowjetische und amerikanische Flugzeuge aufeinander.
+Dabei erwies sich die MIG 21 gegenüber der amerikanischen McDonnell F-4 Phantom II in vielen Fällen als überlegen.
+Die Boeing B-52 wurde zu großflächigen Bombardements eingesetzt.
+Der umfangreiche Einsatz von Hubschraubern, wie der CH-47 Chinook und Bell UH-1, wurde immer wichtiger.
+Mit dem Jungfernflug der Tupolew Tu-144 am 31. Dezember 1968 und der Concorde am 2. März 1969 begann die Episode des Überschall-Passagierluftverkehrs.
+Die Amerikaner hatten bei konventionellen zivilen, mit Turbinenstrahltriebwerken angetriebenen Passagierflugzeugen eine Monopolstellung erreicht.
+Diese wollten Engländer und Franzosen durch den Bau der Concorde durchbrechen.
+Der gestiegene Ölpreis (er vervielfachte sich während der Ölkrisen 1973 und 1979/80) machte die Concorde unwirtschaftlich.
+Der enorme Kraftstoffverbrauch galt als ökologisch bedenklich.
+British Airways und Air France - damals beide staatliche Fluggesellschaften - wurden von ihren Regierungen zum Kauf der Concorde genötigt.
+Der letzte Flug einer Concorde fand am 26. November 2003 statt.
+Die Lockheed F-117A Nighthawk der United States Air Force war das weltweit erste einsatzbereite Flugzeug, das sich die Tarnkappentechnik konsequent zunutze machte.
+Die erste F-117A wurde 1982 ausgeliefert.
+Während des Baus der F-117 wurde sie von den amerikanischen Ingenieuren als "hoffnungsloser" Fall bezeichnet, da sie vermuteten, dass das Flugzeug aufgrund seiner Form nie in der Lage sein würde zu fliegen.
+Bevor sie einen offiziellen Namen bekamen, nannten die Ingenieure und Testpiloten die unkonventionellen Flugzeuge, die während des Tages versteckt wurden, um Entdeckung durch sowjetische Satelliten zu verhindern, "Cockroaches" (Kakerlaken).
+Diese Bezeichnung wird noch immer häufig benutzt, weil diese Flugzeuge nach Meinung vieler zu den hässlichsten gehören, die bislang gebaut wurden.
+Das Flugzeug wird auch "Wobblin Goblin" genannt, speziell wegen ihrer unruhigen Flugeigenschaften bei Luftbetankungen.
+Es lässt sich auf Grund seiner instabilen aerodynamischen Eigenschaften nur mit Computerunterstützung fliegen.
+Mit dem Raketenflugzeug SpaceShipOne gelang am 21. Juni 2004 der erste privat finanzierte suborbitale Raumflug über 100 km Höhe.
+Die Maschine wurde von der Firma Scaled Composites im Rahmen des Projekts Tier One entwickelt, um den Wettbewerb Ansari X-Prize der X-Prize Foundation für sich entscheiden zu können.
+Dieser stellte zehn Millionen Dollar für denjenigen in Aussicht, der als Erster mit einem Fluggerät neben dem Piloten zwei Personen oder entsprechenden Ballast in eine Höhe von mehr als 100 Kilometer befördert und dies mit demselben Fluggerät innerhalb von 14 Tagen wiederholt.
+Um der Thematik der notwendigen Treibstoffeinsparung zu begegnen, wird häufig der mögliche Einsatz von Nurflüglern diskutiert.
+Damit soll auch die Lärmbelastung gesenkt werden.
+Ein realistischer Forschungsschwerpunkt ist der erweiterte Einsatz von Leichtbauwerkstoffen wie CFK und bedingt GLARE.
+Auch werden neue Triebwerke mit Wärmerückgewinnung über Wärmeübertrager entwickelt.
+Die Nutzung aerodynamischer Erkenntnisse bei z. B. den Winglets oder den Gurney Flaps werden untersucht.
+Im militärischen Bereich setzen sich immer mehr die Drohnen durch und mit der Boeing AL-1 werden ganz neue Waffensysteme auf Laser-Basis erprobt.
+Die folgende Tabelle gibt einen Überblick über die von Flugzeugen erreichten Geschwindigkeitsrekorde:
+Als größtes Flugzeug der Welt gilt das Frachtflugzeug Antonow An-225 "Mrija".
+Es hat die größte Länge, das höchste Startgewicht und den größten Schub aller Flugzeuge.
+Der Airbus A380 ist aufgrund seiner Kapazität das größte Passagierflugzeug der Welt (max. 853 Passagiere).
+Dennoch ist er nicht das längste Passagierflugzeug:
+Die Boeing 747-8 ist mit 76,30 m das längste Passagierflugzeug der Welt.
+Die größte Spannweite hat das für Raketenstarts vorgesehene Scaled Composites Stratolaunch.
+Das leistungsfähigste Triebwerk hat die zweistrahlige Boeing 777-300 mit 512 kN Schub.
+Die größte Reichweite ist nur schwer festlegbar, da sie bei jedem Flugzeug durch zusätzliche Tanks (im Extremfall bis zum maximalen Startgewicht) erhöht werden kann.
+Das Flugzeug mit der größten serienmäßigen Reichweite ist die Boeing 777-200LR mit 17.446 km.
+Die größte jemals ohne nachzutanken erzielte Reichweite gehört die Voyager mit 42.212 km.

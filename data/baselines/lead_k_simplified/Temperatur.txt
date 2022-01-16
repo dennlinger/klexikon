@@ -1,0 +1,20 @@
+Die Temperatur ist eine Zustandsgröße von zentraler Bedeutung bei der makroskopischen Beschreibung physikalischer und chemischer Zustände und Prozesse in Wissenschaft, Technik und Umwelt.
+Die Temperatur ist ein objektives Maß dafür, wie warm oder kalt ein Gegenstand ist.
+Sie wird mit einem Thermometer gemessen.
+Ihre SI-Einheit ist das Kelvin mit dem Einheitenzeichen K.
+In Deutschland, Österreich und der Schweiz ist die Einheit Grad Celsius ebenfalls zulässig.
+Die gemessene Temperatur kann sich zuweilen erheblich von der gefühlten Temperatur unterscheiden.
+Bringt man zwei Körper mit unterschiedlichen Temperaturen in thermischen Kontakt, findet Wärmeübertragung statt.
+Dadurch nimmt die Temperaturdifferenz so lange ab, bis sich die beiden Temperaturen einander angeglichen haben.
+Die Wärme fließt dabei stets vom heißeren zum kälteren Körper.
+Wenn die Temperaturen gleich sind, herrscht thermisches Gleichgewicht, in dem kein Wärmeaustausch mehr stattfindet.
+Die mikroskopische Deutung der Temperatur ergibt sich in der statistischen Physik, die davon ausgeht, dass jeder materielle Stoff aus vielen Teilchen zusammengesetzt ist , die sich in ständiger ungeordneter Bewegung befinden und eine Energie haben, die sich aus kinetischer, potentieller sowie gegebenenfalls auch innerer Anregungsenergie zusammensetzt.
+Eine Erhöhung der Temperatur verursacht eine Erhöhung der durchschnittlichen Energie der Teilchen.
+Im Zustand des thermischen Gleichgewichts verteilen sich die Energiewerte der einzelnen Teilchen statistisch gemäß einer Häufigkeitsverteilung, deren Form durch die Temperatur bestimmt wird .
+Dieses Bild ist auch anwendbar, wenn es sich nicht um ein System materieller Teilchen, sondern um Photonen handelt .
+Im idealen Gas ist die gesamte innere Energie allein durch die kinetische Energie aller Teilchen gegeben, wobei der Durchschnittswert pro Teilchen proportional zur Absoluten Temperatur ist.
+Die Temperatureinheit Kelvin ist durch Festlegung des Proportionalitätsfaktors definiert und damit direkt an die Energieeinheit Joule angebunden.
+Vor der Revision des Internationalen Einheitensystems von 2019 war das Kelvin noch separat definiert
+Die Temperatur ist eine intensive Zustandsgröße.
+Das bedeutet, dass sie ihren Wert beibehält, wenn man den betrachteten Körper teilt.
+Dagegen hat die Innere Energie als extensive Größe die Eigenschaften einer Menge, die aufgeteilt werden kann.

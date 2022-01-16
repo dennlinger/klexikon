@@ -1,0 +1,3 @@
+Eine Kugel ist in der Geometrie die Kurzbezeichnung für Kugelfläche oder Kugelkörper.
+Die Kugelfläche ist die bei der Drehung einer Kreislinie um einen Kreisdurchmesser entstehende Fläche.
+Sie ist eine Rotationsfläche sowie eine spezielle Fläche zweiter Ordnung und wird beschrieben als die Menge (der geometrische Ort) aller Punkte im dreidimensionalen euklidischen Raum, deren Abstand von einem festen Punkt des Raumes gleich einer gegebenen positiven reellen Zahl r {\displaystyle \!\ r} ist.

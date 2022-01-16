@@ -1,0 +1,285 @@
+Das Fieber (lateinisch Febris) oder die Pyrexie ist ein Zustand erhöhter Körperkerntemperatur mit einem Missverhältnis zwischen chemischer Wärmebildung und physikalischer Wärmeabgabe, der meistens als Begleiterscheinung der Abwehr gegen eindringende Viren, lebende Mikroorganismen oder andere als fremd erkannte Stoffe auftritt sowie als Begleiterscheinung bei bestimmten, insbesondere bösartigen Tumoren, Traumata oder seltener im Rahmen anders verursachter Entzündungsvorgänge vorkommt.
+Die hiermit verbundenen Vorgänge beruhen auf komplexen physiologischen Reaktionen, zu denen unter anderem eine pyrogenvermittelte, vom Organismus aktiv herbeigeführte, geregelte und begrenzte Erhöhung der Körperkerntemperatur gehört.
+Letztere entsteht infolge einer Temperatursollwertänderung im hypothalamischen Wärmeregulationszentrum, beruht also auf einer gesteigerten Erregung und Erregbarkeit des Wärmezentrums im Zwischenhirn durch pyrogene Stoffe.
+Fieber ist damit ein Beispiel für eine regulierte Änderung der Homöostase.
+Zur Messung, Feststellung, Verlaufsbeurteilung oder zum Ausschluss der bei Fieber erhöhten Körpertemperatur wird ein Fieberthermometer verwendet.
+
+== Etymologie
+
+Das Wort "Fieber" geht auf das mittelhochdeutsche vieber (auch biever, biefer) zurück, dies von althochdeutsch fiebar, nachweisbar seit dem 9. Jahrhundert und entlehnt aus lateinisch febris, eigentlich "Hitze".
+
+Das Wort "Pyrexie" von altgriechisch u(), pyrex(is), "Fieber haben", geht auf griechisch uo, pyretos, "brennende Hitze", "Fieber", zurück.
+Vergleiche pyr, "Feuer", und daraus "pyrogen", "Fieber erzeugend".
+
+== Temperaturregulation
+
+Fieber ist in den meisten Fällen nicht Ursache von Krankheit, sondern Teil der Antwort des Organismus auf eine Erkrankung.
+Die häufige Praxis, Fieber ab einer bestimmten Höhe symptomatisch zu senken, um vermeintlichen Schaden vom Kranken abzuwenden, entspricht oft nicht dem Forschungsstand der Fieberphysiologie.
+Anstelle einer routinemäßigen Senkung des Fiebers ab einer bestimmten Temperatur wird empfohlen, eine symptomatische Therapie an der Befindlichkeit und an sekundären Risiken des Fiebers für bestimmte Patientengruppen zu orientieren.
+
+Fieber unterscheidet sich grundsätzlich von ungeregelten Zuständen der Hyperthermie.
+Bei diesen sind keine Pyrogene beteiligt, weshalb eine medikamentöse antipyretische Therapie auch wirkungslos bleibt.
+Die Temperatur bleibt dabei erhöht, obwohl der Organismus an der Grenze seiner gegenregulatorischen Möglichkeiten versucht, seine Temperatur zu senken.
+Solche Überhitzung kann bei überstarker Erwärmung durch die Umgebung und/oder im Rahmen kräftiger körperlicher Bewegung vorkommen, ferner selten bei einer gestörten Temperaturregulation im Rahmen neurologischer Krankheiten oder bei der malignen Hyperthermie.
+
+Fieber ist einer der häufigsten Beratungsanlässe in einer allgemeinmedizinischen oder pädiatrischen Praxis.
+
+== Evolution
+
+Die Fähigkeit mehrzelliger Organismen, fieberartige Reaktionen im Rahmen der angeborenen Immunantwort zu bilden, ist wahrscheinlich etwa 600 Millionen Jahre alt, in der Evolution hochkonserviert und überwiegend erfolgreich:
+Sie kommt bei Säugetieren, Reptilien, Amphibien, Fischen wie auch bei einigen Invertebraten (Wirbellose) bis hin zu den Insekten vor und führt in der Regel zu verbessertem Überleben oder Ausheilen verschiedener Infektionen.
+Gleich- und wechselwarme Tiere ändern im Rahmen einer Fieberreaktion ihr Verhalten, um die von der Fieberreaktion geforderte höhere Körpertemperatur zu erreichen (Aufsuchen wärmerer Umgebung etc.), gleichwarme Tiere haben darüber hinaus effizientere physiologische Möglichkeiten, ihre Körpertemperatur zu erhöhen.
+Dieselben Antipyretika, die bei gleichwarmen Tieren die physiologische Fieberreaktion hemmen, unterdrücken bei wechselwarmen Tieren z. B. das gezielte Aufsuchen eines wärmeren Ortes im Falle einer Infektion.
+
+== Normale Körperkerntemperaturen und Temperaturbereiche bei Fieber
+
+== Fieberphysiologie
+
+=== Fieber ist normale Wärmeregulation auf höherem Niveau
+
+Das oberste thermoregulatorische Zentrum ist die Regio praeoptica des Hypothalamus:
+Hier laufen afferente Signale z. B. von Wärme- und Kälterezeptoren aus der Haut des ganzen Körpers zusammen.
+Die Temperaturinformationen aus der Peripherie werden mit den zentralen Temperaturinformationen verglichen und integriert; es resultiert eine von hier gesteuerte thermoregulatorische Antwort mit einem der beiden folgenden Ziele:
+
+Ferner wird im Hypothalamus das Verhalten über die Wahrnehmung der Eigenwärme beeinflusst (Wechseln der Kleidung, Aufsuchen einer anderen Umgebung etc.).
+Bei einer normalen pyrogeninduzierten Fieberreaktion laufen diese Regulationsmechanismen genauso ab, sie sind also ebenfalls nur mit einer intakten Regio praeoptica des Hypothalamus möglich.
+Daher friert man bei fieberhaft ansteigender Temperatur und fühlt sich an Händen und Füßen kalt an.
+Demgegenüber ist einem warm bis hin zum Schwitzen, wenn die Temperatur nach dem Fieber (oder bei Gabe eines fiebersenkenden Medikamentes) wieder sinkt.
+
+=== Entstehung des Fieberanstiegs
+
+In der Regio praeoptica des Hypothalamus finden sich verschiedene Neurone:
+Etwa 30 % sind wärmesensitiv (das heißt, sie feuern schneller, wenn die Temperatur steigt), über 60 % reagieren nicht auf Temperaturänderungen und weniger als fünf Prozent sind kältesensitiv.
+Es wird vermutet, dass der sogenannte Temperatursollwert durch einen Vergleich der Neuronenaktivität der temperaturinsensitiven Neurone mit den wärmesensitiven Neuronen entsteht.
+Insbesondere die Aktivität der kältesensitiven Neurone ist stark abhängig von excitatorischem und inhibitorischem Input benachbarter Neurone, während die wärmesensitiven Neurone vor allem Input aus der Peripherie bekommen.
+Die wärmesensitiven Neurone werden also ab einer bestimmten Temperatur aktiver und lösen im Endeffekt eine Regulation aus, die den Körper zu mehr Wärmeabgabe bringt.
+
+Diese wärmesensitiven Neurone können durch sogenannte Pyrogene gehemmt werden, wodurch dann das normale regulatorische Gleichgewicht im Thermoregulationszentrum verschoben wird.
+Diese Pyrogene gehören teilweise zu den Akute-Phase-Proteinen, die im Rahmen einer Entzündung vorkommen.
+Eine Vorstellung über die Wirkungszusammenhänge der verschiedenen Pyrogene gewann man vor allem durch tierexperimentelle Fiebererzeugung vor allem mit gespritzten Lipopolysacchariden (Bestandteile aus der Wand gramnegativer Bakterien).
+Dieses exogene Pyrogen führt vor allem in Monozyten, vermittelt unter anderem durch den CD14-Rezeptor, zu einer vermehrten Bildung von endogenen Pyrogenen, und zwar beginnend für Tumornekrosefaktor (TNF), Interleukin-8 und Spuren von Interleukin-1 und etwas später für deutliche Mengen von Interleukin-6. Letzteres korreliert am besten mit dem Fieberverlauf selbst.
+Diese Bildung endogener Pyrogene in durch Lipopolysaccharide angeregten Monozyten läuft bei 42 °C (also einer Temperatur, die knapp über der natürlichen Fiebergrenze liegt) etwas langsamer (und für TNF und Interleukin-8 zeitlich begrenzter) als bei 37 °C.
+Tumornekrosefaktor kann je nach Kontext auch eine fieberbegrenzende Eigenschaft haben.
+Wenn im Experiment Lipopolysaccharide als exogenes oder Interleukin-1 als endogenes Pyrogen gespritzt werden, resultiert ein uniformer, zweigipfliger Fieberanstieg.
+Ein erster Fiebergipfel beginnt rasch und dauert 30-60 Minuten.
+Er wird dadurch hervorgerufen, dass das Interleukin-1 über seinen Interleukin-1-Rezeptor die Neutrale Sphingomyelinase aktiviert, welche die Bildung des löslichen C2-Ceramides katalysiert.
+Ceradmid hemmt die wärmesensitiven Neurone.
+Es gab auch die Hypothese, dass dieser erste Fieberanstieg durch den Vagusnerv vermittelt werde, diesbezügliche Versuche erbrachten aber uneinheitliche Ergebnisse.
+
+Gleichzeitig regt das Interleukin-1 die vermehrte Transkription der Cyclooxygenase-2 zunächst in den Makrophagen an, diese bildet vermehrt Prostaglandine, vor allem auch Prostaglandin E2, welches über die zirkumventrikulären Organe in den Hypothalamus gelangt und den Beginn des zweiten Fieberanstieges bewirkt.
+Dann wird die Cyclooxygenase-2 in den Endothelzellen des Hypothalamus selbst angeregt, welche zentral zu einer erhöhten Prostaglandin-E2-Bildung führt.
+Das entstehende Prostaglandin-E2 kann in das Gehirn gelangen und induziert über seinen EP3-Rezeptor dann letztlich einen längerdauernden Fieberanstieg mit einem Maximum ungefähr drei Stunden nach dem Auftreten des Interleukin-1, ebenfalls über die Hemmung wärmesensitiver Neurone.
+Hierdurch werden wärmeabgebende Prozesse (periphere Gefäßerweiterung, Schwitzen etc.) gehemmt und ferner die Hemmung der wärmesensitiven Neurone auf die kältesensitiven Neurone aufgehoben.
+Dies führt dann zur Wärmebildung bis hin zum Schüttelfrost.
+Alles in allem resultiert ein stereotyper und reproduzierbarer zweigipfliger Fieberanstieg, bis jeweils das neue regulatorische Gleichgewicht hergestellt ist.
+Fieber ist also insgesamt das Ergebnis einer fein abgestimmten Kommunikation des Immunsystems des Organismus mit seinem Nervensystem.
+
+=== Begrenzung des Fieberanstiegs
+
+Bei einer akuten Fieberreaktion steigt die menschliche Körpertemperatur (insbesondere bei Kindern) schnell bis zu Werten zwischen 40 und 41,4 °C an, jedoch fast nie darüber hinaus, unabhängig von der Fieberursache oder dem Ort der Temperaturmessung.
+Der Körper muss also unter normalen Bedingungen in der Lage sein, eine Fieberreaktion regulatorisch wirksam zu begrenzen, bevor sie durch sich selbst gefährlich wird.
+Wenn dies nicht der Fall wäre, hätte sich das Phänomen der Fieberreaktion nicht evolutionär durchsetzen können.
+Allerdings sind die Vorgänge der Fieberentstehung viel länger erforscht und daher ist über sie mehr bekannt als über die Vorgänge der Fieberbegrenzung durch den Organismus selbst.
+
+Der Körper kann mit Hilfe einer Reihe endogener Antipyrogene seine Fieberreaktion begrenzen.
+Hierzu gehören:
+
+Regulatoren auf Zytokinebene
+
+Prostaglandinderivate
+
+Neurotransmitter
+
+Hormone
+
+=== Fieber und Hitzeschockantwort
+
+Vor einer Denaturierung von Zellproteinen, z. B. bei erhöhter Temperatur, schützen sich Zellen durch die Hitzeschock-Antwort.
+Diese ist ein evolutionär uralter und hochkonservierter Prozess, der in allen Lebewesen bis hin zu den Bakterien vorkommt.
+Die dabei gebildeten Hitzeschockproteine haben vielfältige Funktionen, eine der Hauptaufgaben besteht dabei in der Erleichterung der korrekten Faltung denaturierter Proteine.
+Diese Funktion trägt wesentlich zum Zellüberleben unter Stressbedingungen bei.
+Die Gene für die Hitzeschockproteine haben sich die ganze Evolution hindurch erhalten, obwohl neue Möglichkeiten für die höherentwickelten Organismen hinzugekommen sind, mit Stressoren durch die Umwelt umzugehen.
+Die Beziehung zwischen der evolutionär alten Hitzeschock-Antwort und der evolutionär jüngeren Fieberreaktion kann als ein Beispiel dafür angesehen werden, wie neuere Prozesse früher entwickelte Prozesse benutzen.
+Beispiele für die komplexen Zusammenhänge zwischen Fieber und Hitzeschockantwort sind:
+
+=== Modulation des Entzündungsgeschehens
+
+Viele Funktionen der neutrophilen Granulozyten, der Makrophagen und der Lymphozyten, die für die Infektabwehr wichtig sind, wie z. B. Beweglichkeit, Phagozytosefähigkeit, Radikalbildung, Vermehrung, Antikörperbildung usw. sind bei Temperaturen von 38 bis 41 °C verstärkt beobachtbar und nehmen bei Temperaturen über 41 °C wieder ab.
+So fördert Fieber T-Lymphozyten, die auf Infektionsstellen verweisen, indem es ihre Oberflächenproteine verändert.
+Und thermischer Stress (TS) im Fieberbereich von 38 bis 40 °C spielt eine aktive Rolle bei der Steuerung der Lymphozytenmigration in sekundäre lymphoide Organe oder Entzündungsherde.
+TS reguliert Integrine und Selektine, die als wichtige Zelladhäsionsmoleküle, eine Rolle in der Vermittlung des Lymphozytenverkehrs spielen.
+Fieber induziert die Expression des Hitzeschockproteins 90 (HSP90), das dann selektiv an die Lymphozytenoberfläche gebunden und geklustert wird, um die Gefäßadhäsion durch fokale Adhäsionskinase-RhoA-Signalisierung zu fördern.
+Das HSP90 wird nur bei einer Temperatur über 38,5 °C induziert.
+Der HSP90-Spiegel kann dann 48 Stunden lang anhalten, selbst wenn sich die Temperatur wieder normalisiert.
+
+=== Infektabwehr
+
+Für die meisten Infekte - vom einfachen Schnupfen bis hin zur lebensgefährlichen Sepsis - zeigt sich, dass fiebersenkende Maßnahmen den Krankheitsverlauf meistens komplikationsreicher machen und verlängern können.
+Dies gilt sowohl innerhalb klinischer Studien als auch in (tier-)experimentellen Settings, für virale, bakterielle und parasitäre Erkrankungen.
+Einige Beispiele sind in der nachfolgenden Tabelle aufgeführt:
+
+Es gibt auch Studien, die keinen krankheitsverlängernden Effekt fiebersenkender Maßnahmen bei Infektionskrankheiten feststellen konnten.
+Aber verkürzend auf eine Infektionserkrankung wirkt sich eine Fiebersenkung in der Regel nicht aus.
+Eine Fiebersenkung kann bei einigen Patientengruppen aber sekundäre Probleme abmildern.
+Solche Ergebnisse und klinische Erfahrungen sowie die zunehmenden Kenntnisse über die Fieberphysiologie stellen den routinemäßigen Gebrauch von Antipyretika bei Fieber z. B. auf Intensivstationen in Frage.
+Gefordert wird heute vielmehr eine an den individuellen Behandlungszielen orientierte Therapie; Temperatursenkung als Selbstzweck ist bei Fieber kein unbedingtes Behandlungsziel.
+Jedoch sollte bereits eine einmalige Temperaturerhöhung auf über 38,5 °C oder eine zweimalige auf über 38 °C innerhalb von 12 Stunden bei immunsupprimierten Patienten mit Neutropenie (Granulozytenzahl unter 500-1000/L) sofort mit Antibiotika behandelt werden.
+
+=== Fieberkrämpfe, epileptische Anfälle
+
+Fieberkrämpfe treten bei (1 %)-6 %-(14 %) (je nach Bevölkerungsgruppe) aller ein- bis fünfjährigen Kinder auf; die Mechanismen, warum sie auftreten, sind kaum bekannt.
+Man vermutet, dass betroffene Kinder eine komplex vererbte Anlage für Fieberkrämpfe haben.
+Eine zurzeit diesbezüglich verfolgte Hypothese ist, dass es sich bei dieser Anlage um Mutationen eines anfallshemmenden GABA-Rezeptors handeln könnte, der temperaturabhängige Eigenschaften aufweist.
+Im Gegensatz zu einer auch in Lehrbüchern oft geäußerten Vermutung verhindern Antipyretika nicht signifikant ein Fieberkrampfrezidiv.
+Endogene Pyrogene können die Krampfschwelle des Gehirnes senken.
+Dies sind zum Beispiel Tumornekrosefaktor-alpha, Interleukin-1 beta und Interleukin-6, die über die Stimulierung der Cyclooxygenase-2 mit nachfolgender Prostaglandin-E2-Erhöhung zu Fieber führen.
+Eine Fiebersenkung hemmt nur die Cyclooxygenase-2, nicht aber die Ausschüttung dieser Pyrogene.
+Eine erhöhte Temperatur selber wiederum kann aber die Ausschüttung dieser Pyrogene hemmen.
+Eventuell kann auch hierdurch begründet sein, warum Fiebersenkung Fieberkrämpfe nicht verhindert.
+
+Patienten mit Epilepsie müssen von solchen mit Fieberkrämpfen unterschieden werden.
+Da es viele verschiedene Epilepsien gibt, ist der Einfluss von Fieber und erhöhter Temperatur auf die Anfallsaktivität unterschiedlich:
+Sie kann erhöht werden oder gleich bleiben.
+In manchen Fällen kann die Anfallsaktivität durch Fieber aber auch vorübergehend abnehmen.
+
+=== Einfluss von Fieber im 1. Lebensjahr auf Asthma und Allergie
+
+Wiederholte Fieberepisoden im ersten Lebensjahr (die zumeist aufgrund von Luftwegsinfekten auftreten) gehen mit einer höheren Prävalenz von früh begonnenem, nichtallergischem Asthma einher.
+Allerdings treten allergische Sensibilisierungen und später begonnenes Asthma nach häufigeren Fieberepisoden im ersten Lebensjahr seltener auf.
+Wichtig scheint zu sein, dass die fieberhaften Episoden auftreten, bevor eine allergische Sensibilisierung eingetreten ist.
+Es scheinen nur Fieberepisoden zwischen dem siebenten und zwölften Lebensmonat vor atopischer Veranlagung zu schützen, wichtig ist ferner eine ausreichende Fieberhöhe > 39 °C.
+Luftwegsinfekte im ersten Lebensjahr im Allgemeinen scheinen dagegen die Asthmahäufigkeit eher zu erhöhen (siehe z. B.).
+In diesen Studien wurde aber zumeist nicht der Einfluss von Antibiotika und antipyretischen Maßnahmen z. B. durch Paracetamol berücksichtigt; letzteres hat einen asthmabegünstigenden Effekt.
+Kinder aus Familien mit anthroposophischem Lebensstil erhalten unter anderem weniger Antibiotika und Antipyretika und haben seltener Asthma und Allergien.
+
+=== Fieber und Krebs
+
+Seit Krebsdiagnostik und -behandlung im 19. Jahrhundert eine Wissenschaft wurde, wurden immer wieder seltene Fälle mit "unerklärlichen" Spontanheilungen berichtet.
+Vielen dieser Fälle ist eine hochfieberhafte Erkrankung vorausgegangen.
+Dies wurde vor der Chemotherapieära erfolgreich therapeutisch genutzt, z. B. mit der Fiebererzeugung durch ein injiziertes Bakterienextrakt.
+Während man in der Chemotherapie- und Bestrahlungsära ab den 1950er Jahren der Meinung war, dass der Körper keine eigenen Mittel habe, gegen Krebszellen zu kämpfen, wird der Zusammenhang zwischen Fieber und Krebsheilung seit den 1990er Jahren wieder systematischer untersucht.
+Unterdessen ist es unstrittig, dass Fieber, insbesondere wenn es hoch ist, unter Umständen das Immunsystem zu einer besseren Krebsabwehr bringen kann.
+In der praktischen Onkologie müssen solche Überlegungen mit dem Ziel verbunden werden, unangenehme Situationen für den Patienten zu lindern.
+
+Da Krebserkrankungen eine länger schlummernde Erkrankung sind, ist dies auch im Vorfeld einer manifesten Krebserkrankung möglich, also präventiv.
+So erklärt sich, dass in der Vorgeschichte von Krebspatienten seltener Episoden mit fieberhaften Infekten zu finden sind.
+Dies konnte zum Beispiel deutlich für das Melanomrisiko gezeigt werden.
+
+=== Fieber zur Syphilis-Bekämpfung
+
+Vor der Einführung des ersten effektiven Syphilis-Mittels in den 1910er Jahren - Arsphenamin (Salvarsan) - infizierte man Syphilis-Kranke mit Malaria, einer Krankheit, die von heftigem Fieber geprägt ist.
+Das hohe Fieber tötete die Syphilis-Bakterien recht zuverlässig ab.
+Insbesondere Syphilis-Kranke im Spätstadium, in dem neurologische wie psychiatrische Symptome auftreten, wurden so behandelt.
+Die Erkenntnis, dass Syphilis mit Malaria-induzierten Fieberschüben geheilt werden kann, führte zum Medizin-Nobelpreis für den österreichischen Psychiater Julius Wagner-Jauregg.
+
+== Andere Symptome, die mit dem Symptom "Fieber" einhergehen können
+
+Fieber tritt immer im Rahmen einer komplexen körperlichen Entzündungsreaktion auf, die unterschiedlich ausgeprägt sein kann.
+Die Gesamtsymptomatik ist immer von der Grunderkrankung mitgeprägt, daher fällt es schwer, einzelne Symptome in jedem Fall dem Fieber zuzurechnen.
+Häufig kommen jedoch folgende Symptome zusammen mit fieberhaften Erkrankungen vor:
+
+== Fiebermuster
+
+Im Verlauf des Fiebers unterscheidet man den Temperaturanstieg (Stadium incrementi), das Hitze- oder Höhestadium (Fastigium) und den Fieberabfall (Stadium decrementi).
+Der Verlauf der Fieberkurve (graphische Darstellung der Fiebertemperatur in Abhängigkeit von der Zeit) kann Hinweise auf die Fieberursache (z. B. Krankheitserreger) geben, allerdings kann man sich für eine Diagnose nicht alleine darauf verlassen.
+Traditionell wurden folgende Fiebermuster (Fiebertypi) in diagnostisch brauchbare Gruppen zusammengefasst (nach):
+
+== Diagnose
+
+=== Fühlen mit der Hand
+
+Mit der Hand kann die Temperatur von Stirn und Rumpf grob abgeschätzt werden.
+Zudem kann man durch Fühlen an Händen und Füßen mitbeurteilen, ob der Patient friert (Wärmekonzentration beim Temperaturanstieg) oder ob ihm warm ist (die Wärme wird vom Körper wieder verteilt, die Temperatur wird dann nicht mehr schnell steigen).
+
+Eltern können durch das Fühlen der Temperatur recht sicher (höheres) Fieber bei ihren Kindern ausschließen.
+Wenn sie den Verdacht auf Fieber haben, sollten sie die Temperatur dennoch messen.
+
+=== Temperaturmessung
+
+Die Körpertemperatur kann mit verschiedenen Messgeräten und an verschiedenen Stellen gemessen werden.
+
+=== Messmittel
+
+Traditionell wurde mit Quecksilberthermometern gemessen.
+Wegen des enthaltenen Quecksilbers und der Glasbauweise geht von beschädigten Thermometern jedoch eine Gesundheitsgefahr aus.
+Seit April 2009 ist der Vertrieb von Quecksilberthermometern mit Ausnahme des wissenschaftlichen und medizinischen Bereichs innerhalb der EU verboten.
+Zunehmend wird Quecksilber durch nicht-toxisches Gallium ersetzt.
+Es handelt sich um Spitzenwert-Thermometer, das heißt, der im Verlaufe der Messung höchste Wert verbleibt in der Anzeige.
+Vor erneuter Messung ist die Metallsäule deshalb herunterzuschütteln.
+
+Solche analogen Thermometer besitzen gegenüber modernen digitalen Thermometern den Vorteil, ohne elektrischen Strom auszukommen.
+Digitalthermometer weisen dafür eine höhere Bruchfestigkeit auf, ermöglichen eine schnellere Messung und bieten häufig eine Speicherfunktion zur Anzeige früherer Messergebnisse.
+Durch ein akustisches Signal am Ende des Messvorgangs und die einfache Ablesbarkeit sind sie zudem einfacher zu benutzen.
+
+Zunehmende Verbreitung findet die pyrometrische Messung der Infrarotabstrahlung, meist mit Ohr-Thermometern.
+Diese ist wegen der hohen Messgeschwindigkeit vor allem für die Messung bei Kindern beliebt, findet aber auch zunehmend generelle Verwendung in Arztpraxen und Krankenhäusern.
+Moderne Digitalthermometer brauchen oft nur noch 60 Sekunden und signalisieren, dass der Messvorgang abgeschlossen ist.
+Digitale Ohrthermometer brauchen sogar oft nur wenige Sekunden, um die Messung durchzuführen.
+
+Preislich liegen analoge und digitale Thermometer mit kleineren Abweichungen ungefähr gleichauf.
+Ohrthermometer sind je nach Modell um den Faktor 10 bis 40 teurer.
+Ein Kostenfaktor, der bei Ohrthermometern zusätzlich zu berücksichtigen ist, sind die auswechselbaren Kunststoffschalen, die den direkten Hautkontakt mit dem Gerät vermeiden sollen.
+
+=== Messstellen
+
+Die Körpertemperatur kann sublingual (im Mund), rektal (im After), aurikular (im Ohr), vaginal (in der Scheide), inguinal (in der Leiste) oder axillar (in der Achselhöhle) gemessen werden, wobei der rektal gemessene Wert der Körperkerntemperatur am nächsten ist.
+Orientierend ist eine Messung auch an der Stirn möglich.
+Mittels Infrarotmessgeräten ist das, z. B. in der Seuchenkontrolle, auch über Distanz möglich.
+Die rektale Messung ist - insbesondere bei Säuglingen und Kleinkindern bis vier Jahren - am zuverlässigsten, dabei ist die gemessene Temperatur im Vergleich am höchsten.
+Die Temperatur unter der Zunge liegt etwa 0,3-0,5 °C niedriger; die Temperatur unter den Achseln ist um etwa 0,5 °C und im Vergleich zu den anderen Werten unzuverlässiger.
+
+Bei der Messung im Ohr wird pyrometrisch, d. h. anhand der temperaturabhängigen Infrarotabstrahlung, die Temperatur des Trommelfelles gemessen.
+Diese Messmethode ist schnell und prinzipiell genau, liefert jedoch bei Fehlbedienung durch falsche Winkelung und Verlegung des Gehörganges durch Cerumen falsch-niedrige Werte.
+Modernere Geräte bieten technische Möglichkeiten, die dies erkennen sollen.
+
+Um die Messung nicht durch Abkühlung zu verfälschen, sollte das Messgerät vorher auf annähernd Körpertemperatur erwärmt werden.
+Bei hochwertigen Ohrthermometern wird die Spitze vor der Messung elektrisch auf 37 Grad erwärmt.
+Bei Messung im Mund sollte man innerhalb von 15 Minuten keine kühlen Speisen oder Getränke eingenommen haben.
+
+In der Intensivmedizin wird die Temperatur häufig über einen Blasenkatheter mit Thermistor oder über einen Thermistor-Katheter in einer Arterie (der außerdem zur Messung des Herzminutenvolumens dient) gemessen.
+Mund und Achseln sind zu unzuverlässig.
+
+== Behandlung
+
+Bei Fieber ist der Flüssigkeitsbedarf gesteigert, deshalb ist hier besonders auf eine ausreichende Flüssigkeitszufuhr zu achten.
+In der ersten Phase (siehe Symptome), in der vielfach auch Schüttelfrost empfunden wird, sollte Wärmeverlust des Körpers vermieden werden.
+Fiebersenkung durch Wärmeableitung, z. B. Wadenwickel, ist i. d. R. nur sinnvoll bei zusätzlicher Senkung des Sollwertes durch geeignete Medikamente.
+Kühlende Maßnahmen sind zudem sinnvoll bei extrem hohen Temperaturen, dann werden z. B. Eisbeutel in den Leisten platziert.
+Ein Mensch mit Fieber muss nicht unbedingt Bettruhe einhalten, da es bislang keinen Nachweis eines positiven Effektes der Bettruhe gibt.
+Körperliche Schonung, also Vermeidung von körperlichen und geistigen Überanstrengungen, ist empfehlenswert.
+Sollte Schwindel auftreten, ist die Verkehrstüchtigkeit eingeschränkt.
+
+Unter "fiebersenkender Therapie" versteht man Behandlungen zur Senkung fiebriger Körpertemperaturen.
+Es gibt verschiedene Indikationen für eine fiebersenkende Therapie.
+Vor allem ein reduziertes subjektives Wohlbefinden bei Fieber spricht für den Einsatz einer fiebersenkenden Therapie, wobei fiebersenkende Arzneimittel oft zusätzlich auch analgetisch wirken.
+Aber auch die Vermeidung unerwünschter metabolischer Effekte bei Fieber, wie z. B. Dehydratation oder auch unerwünschter kardiovaskulärer Effekte bei Fieber, z. B. Tachykardie, sind Indikationen.
+Speziell Kinder und ältere Menschen sind empfindlich gegenüber hohem Fieber; bei Kleinkindern können Fieberkrämpfe auftreten, insbesondere nach schnellem Fieberanstieg.
+
+Bevor man eine fiebersenkende Therapie einsetzt, sollte man allerdings auch Argumente bedenken, die gegen den Einsatz einer fiebersenkenden Therapie sprechen.
+So verliert man das Fieber als diagnostischen Parameter, wodurch eine Verzögerung von therapeutischen Entscheidungen theoretisch denkbar ist.
+
+Fiebersenkende Medikamente (Antipyretika) sind z. B. Acetylsalicylsäure, Ibuprofen, Paracetamol oder Metamizol.
+Die naturheilkundlich verwendete Weidenrinde enthält Salicin, das im Körper zu Salicylsäure verstoffwechselt wird und ähnlich wie Acetylsalicylsäure wirkt.
+Behandlung durch Ableitung von Körperwärme, wie z. B. Wadenwickel, Rumpf-Reibebad, absteigendes Wannenbad oder Irrigator (Einläufe) werden komplementärmedizinisch verwendet.
+Auch intensivmedizinisch wird im Bedarfsfall durch Wärmeableitung behandelt, dann meist mit Hilfe von mit Eiswasser gefüllten Beuteln, die z. B. in der Leiste platziert werden.
+Dabei findet im Gegensatz zur medikamentösen Fiebersenkung keine Normalisierung des Temperatursollwertes statt, so dass der Körper versucht, der externen Kühlung entgegenzusteuern, was mit einem hohen Energieverbrauch einhergeht.
+Deshalb sind diese Maßnahmen nur sinnvoll, wenn auch medikamentös behandelt wird.
+
+=== Erhöhung der Temperatur zur Fieberbekämpfung
+
+Nach Meinung von Anhängern komplementärer Verfahren eignet sich auch eine Erhöhung der Temperatur zur Fieberbekämpfung.
+Dabei werden vor allem ansteigende Fußbäder, Tees und Sauna empfohlen.
+Einen Wirksamkeitsnachweis für diese Maßnahmen gibt es nicht; insbesondere beim Saunieren besteht die Gefahr eines lebensbedrohlichen Temperaturanstiegs.
+
+=== Ursächliche Behandlung des Fiebers
+
+Bei bekanntem (oder wahrscheinlichem) Erreger kann das Fieber ursächlich behandelt werden:
+Eine Behandlung mit Antibiotika erfolgt bei einem bakteriell bedingten Fieber.
+Wird das Fieber von Pilzen verursacht, helfen Antimykotika; bei manchen Virusinfektionen können Virostatika eingesetzt werden.
+
+== Siehe auch
+
+== Weblinks
+
+== Einzelnachweise
+
