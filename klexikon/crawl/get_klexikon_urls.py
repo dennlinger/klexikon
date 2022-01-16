@@ -24,7 +24,7 @@ def write_url(href, f):
 
 
 if __name__ == "__main__":
-    output_dir = "/home/dennis/klexikon/data/"
+    output_dir = "./data/"
     article_file = os.path.join(output_dir, "article_urls.txt")
     parser = etree.HTMLParser()
 

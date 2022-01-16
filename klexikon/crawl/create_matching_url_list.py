@@ -70,8 +70,8 @@ def get_page_url_by_title(title: str, base_url: str) -> str:
 
 
 if __name__ == "__main__":
-    fn = "/home/dennis/klexikon/data/article_urls.txt"
-    out_fn = "/home/dennis/klexikon/data/articles.json"
+    fn = "./data/article_urls.txt"
+    out_fn = "./data/articles.json"
     urls = get_klexikon_urls(fn)
     titles = get_klexikon_titles(fn)
 
