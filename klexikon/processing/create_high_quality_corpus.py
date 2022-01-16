@@ -7,13 +7,14 @@ to reduce the character set and make the "translations" more homogeneous. Note t
 This should leave you with 2898 files in the end.
 """
 
-from ..analysis.compare_offline_corpus import calculate_number_of_valid_lines
-from ..baselines.utils import directory_iterator
+import string
+import json
+import os
 
 from tqdm import tqdm
 
-import string
-import os
+from ..analysis.compare_offline_corpus import calculate_number_of_valid_lines
+from ..baselines.utils import directory_iterator
 
 
 def clean_text(text):
@@ -148,6 +149,23 @@ def write_clean_text(lines, fp):
         f.write("".join(new_text))
 
 
+def remove_now_unused_articles_from_json(klexikon_dir: str) -> None:
+    with open("./data/articles.json") as f:
+        articles = json.load(f)
+
+    corpus = set(os.listdir(klexikon_dir))
+    remaining_articles = []
+    for article in tqdm(articles):
+        article_title = f"{article['title'].replace(' ', '_').replace('/', '_')}.txt"
+
+        if article_title in corpus:
+            remaining_articles.append(article)
+
+    assert len(remaining_articles) == 2898, "Found incorrect number of articles!"
+    with open("./data/articles.json", "w") as f:
+        json.dump(remaining_articles, f, indent=2)
+
+
 if __name__ == '__main__':
     valid_chars = string.ascii_letters + string.digits + string.punctuation + " " + "äöüßÄÖÜ\n§€°"
     print(valid_chars)
@@ -179,6 +197,9 @@ if __name__ == '__main__':
 
         write_clean_text(wiki_lines, wiki_fp)
         write_clean_text(klexikon_lines, klexikon_fp)
+
+    # Remove the articles that are now non-existent from the articles.json list
+    remove_now_unused_articles_from_json(klexikon_dir)
 
     """
     This code was used to determine the special characters by looking at the most frequent ones that aren't already
