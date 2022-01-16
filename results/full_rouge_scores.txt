@@ -46,3 +46,17 @@ Recall    | low:  8.48, mid:  8.64, high:  8.81
 F1        | low: 11.19, mid: 11.32, high: 11.46
 
 
+------------------------------------
+Results for the full Wikipedia article (with paragraph separators and headings removed):
+----------------rouge1 ---------------------
+Precision | low: 10.18, mid: 10.46, high: 10.73
+Recall    | low: 76.86, mid: 77.31, high: 77.77
+F1        | low: 16.45, mid: 16.81, high: 17.15
+----------------rouge2 ---------------------
+Precision | low:  2.49, mid:  2.56, high:  2.62
+Recall    | low: 22.39, mid: 22.75, high: 23.10
+F1        | low:  4.14, mid:  4.23, high:  4.31
+----------------rougeL ---------------------
+Precision | low:  4.15, mid:  4.25, high:  4.35
+Recall    | low: 35.47, mid: 35.89, high: 36.30
+F1        | low:  6.83, mid:  6.95, high:  7.07
