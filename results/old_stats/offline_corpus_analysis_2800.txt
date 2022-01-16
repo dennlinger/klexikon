@@ -1,0 +1,12 @@
+Average number of sentences for Wikipedia: 233.36
+Average number of sentences for Klexikon:  32.83
+Median number of sentences for Wikipedia: 153.00
+Median number of sentences for Klexikon:  26.00
+Global average ratio between sentences of Wikipedia / Klexikon:       7.10
+Per-docuemnt average ratio between sentences of Wikipedia / Klexikon: 8.60
+Average number of tokens for Wikipedia: 5238.09
+Average number of tokens for Klexikon:  441.09
+Median number of tokens for Wikipedia: 3468.00
+Median number of tokens for Klexikon:  350.00
+Global average ratio between tokens of Wikipedia / Klexikon:       11.87
+Per-docuemnt average ratio between tokens of Wikipedia / Klexikon: 14.50

@@ -1,0 +1,13 @@
+ROUGE scores for lead-3 baseline:
+----------------rouge1 ---------------------
+Precision | low: 36.41, mid: 37.92, high: 39.35
+Recall    | low: 11.61, mid: 12.21, high: 12.88
+F1        | low: 17.04, mid: 17.76, high: 18.51
+----------------rouge2 ---------------------
+Precision | low:  8.59, mid:  9.50, high: 10.46
+Recall    | low:  2.49, mid:  2.80, high:  3.12
+F1        | low:  3.69, mid:  4.12, high:  4.54
+----------------rougeL ---------------------
+Precision | low: 27.44, mid: 28.77, high: 29.98
+Recall    | low:  6.90, mid:  7.34, high:  7.82
+F1        | low: 10.63, mid: 11.20, high: 11.79

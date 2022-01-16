@@ -1,0 +1,109 @@
+Extracting text for 3048 articles.
+  0%|          | 8/3048 [00:21<1:39:32,  1.96s/it]14 https://de.wikipedia.org/wiki/Isabel_Abedi
+  1%|          | 28/3048 [00:55<1:27:14,  1.73s/it]11 https://de.wikipedia.org/wiki/Adler
+  1%|▏         | 43/3048 [01:19<1:34:00,  1.88s/it]10 https://de.wikipedia.org/wiki/Akropolis
+  2%|▏         | 57/3048 [01:42<1:22:31,  1.66s/it]11 https://de.wikipedia.org/wiki/Ali_Baba
+  4%|▎         | 112/3048 [03:08<1:03:27,  1.30s/it]12 https://de.wikipedia.org/wiki/Antilope
+  4%|▍         | 115/3048 [03:11<55:58,  1.15s/it]12 https://de.wikipedia.org/wiki/Anwalt
+  4%|▍         | 128/3048 [03:30<1:15:34,  1.55s/it]14 https://de.wikipedia.org/wiki/Arabische_Halbinsel
+  6%|▋         | 196/3048 [05:23<1:24:45,  1.78s/it]14 https://de.wikipedia.org/wiki/Automat
+  7%|▋         | 219/3048 [05:57<1:11:43,  1.52s/it]11 https://de.wikipedia.org/wiki/Ball
+  8%|▊         | 234/3048 [06:22<1:52:17,  2.39s/it]10 https://de.wikipedia.org/wiki/Barschartige
+  8%|▊         | 244/3048 [06:38<1:00:16,  1.29s/it]14 https://de.wikipedia.org/wiki/Bauberuf
+  9%|▊         | 261/3048 [07:11<1:46:11,  2.29s/it]11 https://de.wikipedia.org/wiki/Beere
+ 11%|█         | 328/3048 [09:05<51:12,  1.13s/it]  13 https://de.wikipedia.org/wiki/Blinde_Kuh
+ 13%|█▎        | 387/3048 [11:04<56:21,  1.27s/it]  10 https://de.wikipedia.org/wiki/Brontosaurus
+ 13%|█▎        | 403/3048 [11:23<47:28,  1.08s/it]10 https://de.wikipedia.org/wiki/Buchstabe
+ 13%|█▎        | 411/3048 [11:32<55:45,  1.27s/it]  12 https://de.wikipedia.org/wiki/B%C3%BCffel
+ 14%|█▍        | 433/3048 [12:25<1:37:06,  2.23s/it]13 https://de.wikipedia.org/wiki/B%C3%BCro
+ 14%|█▍        | 439/3048 [12:33<1:13:59,  1.70s/it]14 https://de.wikipedia.org/wiki/Butterfahrt
+ 15%|█▌        | 466/3048 [13:17<1:38:01,  2.28s/it]10 https://de.wikipedia.org/wiki/Mandarin_(Sprache)
+ 16%|█▋        | 501/3048 [14:18<1:06:13,  1.56s/it]12 https://de.wikipedia.org/wiki/Dalton-Br%C3%BCder
+ 17%|█▋        | 532/3048 [15:13<1:49:50,  2.62s/it]11 https://de.wikipedia.org/wiki/Deutsche_Schrift
+ 17%|█▋        | 533/3048 [15:14<1:18:25,  1.87s/it]11 https://de.wikipedia.org/wiki/Deutsche_Schrift
+ 18%|█▊        | 552/3048 [15:54<56:38,  1.36s/it]14 https://de.wikipedia.org/wiki/Diebstahl
+ 18%|█▊        | 554/3048 [15:55<40:30,  1.03it/s]13 https://de.wikipedia.org/wiki/Erhard_Dietl
+ 19%|█▉        | 593/3048 [17:06<2:04:57,  3.05s/it]10 https://de.wikipedia.org/wiki/Druckerei
+ 20%|██        | 610/3048 [17:40<2:29:11,  3.67s/it]11 https://de.wikipedia.org/wiki/Fahrraddynamo
+ 21%|██        | 627/3048 [18:06<45:33,  1.13s/it]12 https://de.wikipedia.org/wiki/Echte_Eidechsen
+ 22%|██▏       | 665/3048 [19:20<1:49:48,  2.76s/it]11 https://de.wikipedia.org/wiki/Elternsprechtag
+ 22%|██▏       | 666/3048 [19:20<1:18:18,  1.97s/it]14 https://de.wikipedia.org/wiki/Embryo
+ 22%|██▏       | 684/3048 [19:43<54:30,  1.38s/it]  13 https://de.wikipedia.org/wiki/Erdachse
+ 24%|██▍       | 743/3048 [21:28<32:26,  1.18it/s]14 https://de.wikipedia.org/wiki/Fabrik
+ 25%|██▍       | 748/3048 [21:33<38:49,  1.01s/it]12 https://de.wikipedia.org/wiki/Fahrgesch%C3%A4ft
+ 26%|██▌       | 792/3048 [22:35<36:57,  1.02it/s]13 https://de.wikipedia.org/wiki/Finger
+ 27%|██▋       | 815/3048 [23:02<40:12,  1.08s/it]10 https://de.wikipedia.org/wiki/Flohzirkus
+ 27%|██▋       | 828/3048 [23:16<29:07,  1.27it/s]11 https://de.wikipedia.org/wiki/Fl%C3%BCssigkeit
+ 27%|██▋       | 837/3048 [23:24<40:33,  1.10s/it]14 https://de.wikipedia.org/wiki/F%C3%B6tus
+ 28%|██▊       | 852/3048 [24:02<1:08:56,  1.88s/it]14 https://de.wikipedia.org/wiki/Freibad
+ 29%|██▉       | 886/3048 [24:50<44:48,  1.24s/it]13 https://de.wikipedia.org/wiki/Echte_F%C3%BCchse
+ 30%|██▉       | 900/3048 [25:06<46:55,  1.31s/it]11 https://de.wikipedia.org/wiki/G%C3%A4nsehaut
+ 30%|██▉       | 912/3048 [25:16<29:33,  1.20it/s]12 https://de.wikipedia.org/wiki/Geckos
+ 31%|███       | 930/3048 [25:37<45:53,  1.30s/it]11 https://de.wikipedia.org/wiki/Gem%C3%A4lde
+ 31%|███       | 951/3048 [25:59<31:41,  1.10it/s]13 https://de.wikipedia.org/wiki/Gesundheit
+ 33%|███▎      | 1009/3048 [27:35<1:22:06,  2.42s/it]14 https://de.wikipedia.org/wiki/Greifv%C3%B6gel
+ 34%|███▍      | 1050/3048 [28:40<1:03:34,  1.91s/it]10 https://de.wikipedia.org/wiki/Halbinsel
+ 35%|███▌      | 1080/3048 [29:40<42:59,  1.31s/it]14 https://de.wikipedia.org/wiki/Hausboot
+ 35%|███▌      | 1082/3048 [29:46<1:20:25,  2.45s/it]13 https://de.wikipedia.org/wiki/Hauslehrer
+ 36%|███▋      | 1110/3048 [30:38<1:02:44,  1.94s/it]12 https://de.wikipedia.org/wiki/Helles_K%C3%B6pfchen
+ 37%|███▋      | 1127/3048 [31:04<40:30,  1.27s/it]3 https://de.wikipedia.org/wiki/Hieroglyphe
+ 38%|███▊      | 1143/3048 [31:35<1:37:05,  3.06s/it]14 https://de.wikipedia.org/wiki/Hobby
+ 41%|████      | 1249/3048 [35:04<1:10:36,  2.36s/it]14 https://de.wikipedia.org/wiki/Japanisches_Meer
+ 42%|████▏     | 1268/3048 [35:39<45:56,  1.55s/it]10 https://de.wikipedia.org/wiki/Jubil%C3%A4um
+ 42%|████▏     | 1288/3048 [36:12<1:16:05,  2.59s/it]14 https://de.wikipedia.org/wiki/Kaiserschmarrn
+ 44%|████▎     | 1326/3048 [37:25<48:16,  1.68s/it]10 https://de.wikipedia.org/wiki/Kartoffelpuffer
+ 45%|████▍     | 1367/3048 [38:25<39:29,  1.41s/it]14 https://de.wikipedia.org/wiki/Kinderdijk
+ 45%|████▌     | 1386/3048 [38:48<46:31,  1.68s/it]12 https://de.wikipedia.org/wiki/Kleinkunst
+ 46%|████▌     | 1400/3048 [39:09<24:41,  1.11it/s]13 https://de.wikipedia.org/wiki/Knospe
+ 47%|████▋     | 1442/3048 [40:18<26:36,  1.01it/s]12 https://de.wikipedia.org/wiki/Klaus_Kordon
+ 48%|████▊     | 1468/3048 [41:02<55:57,  2.13s/it]  10 https://de.wikipedia.org/wiki/Kreuz
+ 48%|████▊     | 1477/3048 [41:19<57:25,  2.19s/it]12 https://de.wikipedia.org/wiki/Kr%C3%B6ten
+ 51%|█████     | 1562/3048 [43:37<1:07:45,  2.74s/it]11 https://de.wikipedia.org/wiki/Limette
+ 51%|█████▏    | 1566/3048 [43:42<38:30,  1.56s/it]10 https://de.wikipedia.org/wiki/Linden
+ 54%|█████▍    | 1651/3048 [46:33<46:32,  2.00s/it]13 https://de.wikipedia.org/wiki/Margeriten
+ 54%|█████▍    | 1661/3048 [46:44<37:10,  1.61s/it]11 https://de.wikipedia.org/wiki/Mars
+ 55%|█████▌    | 1689/3048 [47:26<19:40,  1.15it/s]10 https://de.wikipedia.org/wiki/Meerestier
+ 56%|█████▌    | 1694/3048 [47:29<14:36,  1.54it/s]14 https://de.wikipedia.org/wiki/Meisen
+ 56%|█████▌    | 1698/3048 [47:31<15:49,  1.42it/s]13 https://de.wikipedia.org/wiki/Melone
+ 57%|█████▋    | 1725/3048 [48:11<29:04,  1.32s/it]12 https://de.wikipedia.org/wiki/Mikroskop
+ 58%|█████▊    | 1761/3048 [48:59<51:41,  2.41s/it]13 https://de.wikipedia.org/wiki/Monokultur
+ 59%|█████▊    | 1787/3048 [49:31<21:17,  1.01s/it]11 https://de.wikipedia.org/wiki/M%C3%BCcken
+ 59%|█████▉    | 1796/3048 [49:52<50:41,  2.43s/it]  14 https://de.wikipedia.org/wiki/Mund
+ 59%|█████▉    | 1797/3048 [49:52<36:31,  1.75s/it]11 https://de.wikipedia.org/wiki/M%C3%BCndung_(Gew%C3%A4sser)
+ 61%|██████    | 1852/3048 [51:23<35:38,  1.79s/it]12 https://de.wikipedia.org/wiki/Nerv
+ 61%|██████    | 1863/3048 [51:38<41:12,  2.09s/it]14 https://de.wikipedia.org/wiki/Neutralit%C3%A4t_(internationale_Politik)
+ 63%|██████▎   | 1908/3048 [53:04<29:28,  1.55s/it]10 https://de.wikipedia.org/wiki/N%C3%BCtzling
+ 65%|██████▍   | 1973/3048 [54:48<14:08,  1.27it/s]13 https://de.wikipedia.org/wiki/Pampelmuse
+ 65%|██████▌   | 1988/3048 [55:12<37:17,  2.11s/it]11 https://de.wikipedia.org/wiki/Pariser_Vorortvertr%C3%A4ge
+ 66%|██████▋   | 2024/3048 [55:55<15:21,  1.11it/s]12 https://de.wikipedia.org/wiki/Pflanze
+ 69%|██████▊   | 2094/3048 [57:38<22:33,  1.42s/it]14 https://de.wikipedia.org/wiki/Prinz
+ 71%|███████   | 2150/3048 [58:29<10:27,  1.43it/s]12 https://de.wikipedia.org/wiki/Raupe_(Schmetterling)
+ 71%|███████   | 2151/3048 [58:30<07:59,  1.87it/s]14 https://de.wikipedia.org/wiki/Ravensburger_Spieleland
+ 71%|███████   | 2154/3048 [58:33<16:46,  1.13s/it]11 https://de.wikipedia.org/wiki/Orthographie
+ 71%|███████   | 2158/3048 [58:39<20:21,  1.37s/it]14 https://de.wikipedia.org/wiki/Rede
+ 72%|███████▏  | 2190/3048 [59:23<25:32,  1.79s/it]14 https://de.wikipedia.org/wiki/Respekt
+ 74%|███████▍  | 2263/3048 [1:01:05<41:27,  3.17s/it]10 https://de.wikipedia.org/wiki/R%C3%BCcken
+ 75%|███████▍  | 2271/3048 [1:01:18<24:42,  1.91s/it]11 https://de.wikipedia.org/wiki/Safari
+ 75%|███████▍  | 2272/3048 [1:01:18<17:50,  1.38s/it]13 https://de.wikipedia.org/wiki/Sage
+ 75%|███████▍  | 2283/3048 [1:01:31<25:36,  2.01s/it]10 https://de.wikipedia.org/wiki/Salzsee
+ 76%|███████▌  | 2318/3048 [1:02:16<12:47,  1.05s/it]13 https://de.wikipedia.org/wiki/Scharlatan
+ 79%|███████▉  | 2407/3048 [1:04:16<14:31,  1.36s/it]10 https://de.wikipedia.org/wiki/Sehne_(Anatomie)
+ 80%|███████▉  | 2437/3048 [1:04:56<14:27,  1.42s/it]13 https://de.wikipedia.org/wiki/Siegess%C3%A4ule
+ 80%|████████  | 2449/3048 [1:05:13<16:13,  1.63s/it]11 https://de.wikipedia.org/wiki/Sirup
+ 81%|████████  | 2474/3048 [1:05:55<16:32,  1.73s/it]11 https://de.wikipedia.org/wiki/Sommersprossen
+ 82%|████████▏ | 2489/3048 [1:06:14<15:03,  1.62s/it]12 https://de.wikipedia.org/wiki/Spaghetti
+ 82%|████████▏ | 2497/3048 [1:06:28<12:45,  1.39s/it]13 https://de.wikipedia.org/wiki/Sphinx
+ 82%|████████▏ | 2504/3048 [1:06:33<07:02,  1.29it/s]13 https://de.wikipedia.org/wiki/Spinnentiere
+ 83%|████████▎ | 2531/3048 [1:07:06<16:35,  1.93s/it]14 https://de.wikipedia.org/wiki/Statue
+ 84%|████████▍ | 2564/3048 [1:07:43<12:53,  1.60s/it]11 https://de.wikipedia.org/wiki/Streichelzoo
+ 84%|████████▍ | 2569/3048 [1:07:48<10:56,  1.37s/it]13 https://de.wikipedia.org/wiki/Strom
+ 85%|████████▌ | 2593/3048 [1:08:29<13:44,  1.81s/it]11 https://de.wikipedia.org/wiki/Sumpf
+ 86%|████████▋ | 2629/3048 [1:09:13<08:28,  1.21s/it]14 https://de.wikipedia.org/wiki/Teekesselchen
+ 87%|████████▋ | 2643/3048 [1:09:27<06:37,  1.02it/s]12 https://de.wikipedia.org/wiki/Terror
+ 88%|████████▊ | 2685/3048 [1:10:27<09:17,  1.54s/it]11 https://de.wikipedia.org/wiki/Tom_Sawyer_und_Huckleberry_Finn
+ 91%|█████████ | 2777/3048 [1:12:39<08:24,  1.86s/it]10 https://de.wikipedia.org/wiki/USB-Stick
+ 92%|█████████▏| 2798/3048 [1:13:16<15:06,  3.63s/it]11 https://de.wikipedia.org/wiki/Venus
+ 93%|█████████▎| 2823/3048 [1:13:50<06:17,  1.68s/it]12 https://de.wikipedia.org/wiki/Vieh
+ 94%|█████████▍| 2877/3048 [1:15:16<04:28,  1.57s/it]13 https://de.wikipedia.org/wiki/Wasserkreislauf
+ 94%|█████████▍| 2880/3048 [1:15:19<03:37,  1.30s/it]13 https://de.wikipedia.org/wiki/Watt_(Einheit)
+100%|██████████| 3048/3048 [1:18:52<00:00,  1.55s/it]

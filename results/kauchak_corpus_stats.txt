@@ -1,0 +1,6 @@
+Average number of kauchak sentences for Wikipedia: 64.52
+Average number of kauchak sentences for Klexikon:  8.46
+Median number of kauchak sentences for Wikipedia: 32.00
+Median number of kauchak sentences for Klexikon:  3.00
+Global average ratio between kauchak sentences of Wikipedia / Klexikon:       7.62
+Per-document average ratio between kauchak sentences of Wikipedia / Klexikon: 16.37

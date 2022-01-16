@@ -1,0 +1,32 @@
+These are the results on the preliminary data set with roughly 2800 articles.
+The remainder consists largely of ambiguous articles.
+Results include the 95% confidence bands (low/high values).
+
+------------------------------------
+Results for Lead-3 baseline:
+----------------rouge1 ---------------------
+Precision | low: 48.59, mid: 48.97, high: 49.38
+Recall    | low:  9.61, mid:  9.79, high:  9.93
+F1        | low: 15.43, mid: 15.66, high: 15.85
+----------------rouge2 ---------------------
+Precision | low: 10.86, mid: 11.12, high: 11.34
+Recall    | low:  2.08, mid:  2.14, high:  2.20
+F1        | low:  3.36, mid:  3.45, high:  3.54
+----------------rougeL ---------------------
+Precision | low: 29.31, mid: 29.59, high: 29.88
+Recall    | low:  5.63, mid:  5.73, high:  5.82
+F1        | low:  9.09, mid:  9.21, high:  9.33
+------------------------------------
+Results for Lead-k baseline (Wikipedia's 'summary section'):
+----------------rouge1 ---------------------
+Precision | low: 44.06, mid: 44.43, high: 44.84
+Recall    | low: 17.67, mid: 18.06, high: 18.45
+F1        | low: 22.37, mid: 22.68, high: 23.02
+----------------rouge2 ---------------------
+Precision | low:  9.16, mid:  9.38, high:  9.61
+Recall    | low:  3.53, mid:  3.63, high:  3.74
+F1        | low:  4.49, mid:  4.60, high:  4.70
+----------------rougeL ---------------------
+Precision | low: 23.43, mid: 23.77, high: 24.12
+Recall    | low:  8.56, mid:  8.73, high:  8.91
+F1        | low: 11.09, mid: 11.22, high: 11.37

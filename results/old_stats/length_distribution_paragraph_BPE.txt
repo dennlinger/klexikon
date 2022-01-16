@@ -1,0 +1,10 @@
+Klexikon average length of paragraphs in BPE: 63.16 +/- 28.31
+Klexikon median length of paragraphs in BPE:  64.00
+Klexikon maximum length of paragraphs in BPE: 221
+Klexikon 95 percentile of paragraphs in BPE:  109.0
+
+Wiki average length of paragraphs in BPE: 75.85 +/- 77.09
+Wiki median length of paragraphs in BPE:  57.00
+Wiki maximum length of paragraphs in BPE: 1130
+Wiki 95 percentile of paragraphs in BPE:  224.0
+Wiki 99.9 percentile of paragraphs in BPE:500.0

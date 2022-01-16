@@ -1,0 +1,62 @@
+------------------------------------
+Results for Lead-3 baseline:
+----------------rouge1 ---------------------
+Precision | low: 48.64, mid: 49.03, high: 49.41
+Recall    | low:  9.63, mid:  9.78, high:  9.95
+F1        | low: 15.45, mid: 15.65, high: 15.86
+----------------rouge2 ---------------------
+Precision | low: 10.83, mid: 11.08, high: 11.32
+Recall    | low:  2.08, mid:  2.14, high:  2.20
+F1        | low:  3.35, mid:  3.44, high:  3.53
+----------------rougeL ---------------------
+Precision | low: 29.31, mid: 29.58, high: 29.86
+Recall    | low:  5.63, mid:  5.73, high:  5.81
+F1        | low:  9.08, mid:  9.21, high:  9.33
+
+
+------------------------------------
+Results for Lead-k baseline (Wikipedia's 'summary section'):
+----------------rouge1 ---------------------
+Precision | low: 43.99, mid: 44.39, high: 44.79
+Recall    | low: 17.78, mid: 18.17, high: 18.59
+F1        | low: 22.47, mid: 22.80, high: 23.14
+----------------rouge2 ---------------------
+Precision | low:  9.14, mid:  9.36, high:  9.59
+Recall    | low:  3.55, mid:  3.66, high:  3.76
+F1        | low:  4.50, mid:  4.62, high:  4.71
+----------------rougeL ---------------------
+Precision | low: 23.32, mid: 23.64, high: 23.94
+Recall    | low:  8.61, mid:  8.78, high:  8.95
+F1        | low: 11.12, mid: 11.25, high: 11.39
+
+
+------------------------------------
+Results for Lead-k-simplified baseline (Wikipedia's 'summary section minus bracket texts'):
+----------------rouge1 ---------------------
+Precision | low: 45.97, mid: 46.40, high: 46.86
+Recall    | low: 16.99, mid: 17.37, high: 17.77
+F1        | low: 21.93, mid: 22.26, high: 22.60
+----------------rouge2 ---------------------
+Precision | low: 10.09, mid: 10.35, high: 10.62
+Recall    | low:  3.47, mid:  3.59, high:  3.69
+F1        | low:  4.53, mid:  4.64, high:  4.75
+----------------rougeL ---------------------
+Precision | low: 25.30, mid: 25.68, high: 26.08
+Recall    | low:  8.40, mid:  8.56, high:  8.73
+F1        | low: 11.10, mid: 11.25, high: 11.39
+
+
+------------------------------------
+Results for the full Wikipedia article (with paragraph separators and headings removed):
+----------------rouge1 ---------------------
+Precision | low:  9.81, mid: 10.12, high: 10.43
+Recall    | low: 70.64, mid: 71.15, high: 71.64
+F1        | low: 15.39, mid: 15.76, high: 16.11
+----------------rouge2 ---------------------
+Precision | low:  2.33, mid:  2.38, high:  2.44
+Recall    | low: 20.00, mid: 20.36, high: 20.69
+F1        | low:  3.77, mid:  3.84, high:  3.92
+----------------rougeL ---------------------
+Precision | low:  4.07, mid:  4.18, high:  4.29
+Recall    | low: 32.97, mid: 33.35, high: 33.73
+F1        | low:  6.50, mid:  6.63, high:  6.74
