@@ -1,4 +1,4 @@
-# Towards End-to-End Text Simplification: A Case for Summarization
+# Klexikon: A German Dataset for Joint Summarization and Simplification
 **Dennis Aumiller and Michael Gertz**  
 Heidelberg University  
 

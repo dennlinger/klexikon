@@ -1,0 +1,48 @@
+------------------------------------
+Results for Lead-3 baseline:
+----------------rouge1 ---------------------
+Precision | low: 52.35, mid: 52.72, high: 53.10
+Recall    | low: 10.43, mid: 10.61, high: 10.77
+F1        | low: 16.72, mid: 16.96, high: 17.17
+----------------rouge2 ---------------------
+Precision | low: 11.84, mid: 12.10, high: 12.37
+Recall    | low:  2.28, mid:  2.34, high:  2.41
+F1        | low:  3.67, mid:  3.77, high:  3.87
+----------------rougeL ---------------------
+Precision | low: 31.00, mid: 31.29, high: 31.57
+Recall    | low:  6.01, mid:  6.10, high:  6.19
+F1        | low:  9.69, mid:  9.80, high:  9.92
+
+
+------------------------------------
+Results for Lead-k baseline (Wikipedia's 'summary section'):
+----------------rouge1 ---------------------
+Precision | low: 43.85, mid: 44.22, high: 44.64
+Recall    | low: 17.93, mid: 18.34, high: 18.73
+F1        | low: 22.64, mid: 22.97, high: 23.27
+----------------rouge2 ---------------------
+Precision | low:  9.12, mid:  9.34, high:  9.57
+Recall    | low:  3.59, mid:  3.69, high:  3.80
+F1        | low:  4.54, mid:  4.65, high:  4.76
+----------------rougeL ---------------------
+Precision | low: 23.18, mid: 23.49, high: 23.83
+Recall    | low:  8.68, mid:  8.86, high:  9.02
+F1        | low: 11.19, mid: 11.33, high: 11.46
+
+
+------------------------------------
+Results for Lead-k-simplified baseline (Wikipedia's 'summary section minus bracket texts'):
+----------------rouge1 ---------------------
+Precision | low: 45.82, mid: 46.24, high: 46.71
+Recall    | low: 17.16, mid: 17.53, high: 17.93
+F1        | low: 22.10, mid: 22.44, high: 22.77
+----------------rouge2 ---------------------
+Precision | low: 10.04, mid: 10.31, high: 10.57
+Recall    | low:  3.51, mid:  3.62, high:  3.72
+F1        | low:  4.55, mid:  4.67, high:  4.78
+----------------rougeL ---------------------
+Precision | low: 25.14, mid: 25.52, high: 25.89
+Recall    | low:  8.48, mid:  8.64, high:  8.81
+F1        | low: 11.19, mid: 11.32, high: 11.46
+
+
