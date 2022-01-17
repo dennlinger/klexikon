@@ -3,4 +3,4 @@
 *.tar.gz
 data/kauchak/
 */2156-data.zip
-.pkl
+*.pkl
