@@ -95,3 +95,15 @@ In the meantime, there have been new articles added to Klexikon, which leaves ro
 * Fix lead sentences
 * Remove unused articles (optional)
 * Generate stratified split
+
+# How to Cite?
+If you use our dataset, or code from this repository, please cite
+```bibtex
+@article{aumiller-gertz-2022-klexikon,
+  title   = {{Klexikon: A German Dataset for Joint Summarization and Simplification}}
+  author  = "Aumiller, Dennis and Gertz, Michael", 
+  year    = 2022,
+  journal = "Under Submission",
+}
+```
+We will update the README shortly with reference to our actual arXiv preprint. 
