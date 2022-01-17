@@ -24,8 +24,7 @@ Das Ergebnis einer Subtraktion nennt man Differenz.
 Ein praktisches Beispiel, bei dem man subtrahieren muss:
 Man möchte ein Brötchen kaufen, das kostet 1 Euro.
 Man hat 3 Euro im Portemonnaie.
-Man rechnet also: 3 - 1 =
-2.
+Man rechnet also: 3 - 1 = 2.
 Nachdem man das Brötchen gekauft hat, hat man noch 2 Euro übrig.
 Bei der Multiplikation nimmt man zwei Zahlen miteinander "mal".
 Als Rechenzeichen schreibt man einen Punkt:
