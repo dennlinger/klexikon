@@ -62,7 +62,7 @@ def get_nouns_verbs_adjectives_adverbs_only(lines: Tuple[str]) -> List[str]:
 def process_text_with_spacy(lines: Tuple[str]) -> Doc:
 
     text = "".join(lines).replace("\n", " ")
-    nlp = get_spacy(disable=("ner", "tok2vec"))
+    nlp = get_spacy(disable=("ner"))
 
     return nlp(text)
 

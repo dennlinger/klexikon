@@ -25,8 +25,8 @@ if __name__ == "__main__":
     counter = 0
     for wiki_fp, klexikon_fp in tqdm(directory_iterator("./data/raw/wiki", "./data/raw/klexikon")):
         counter += 1
-        if counter >= 100:
-            break
+        # if counter >= 50:
+        #     break
 
         with open(wiki_fp) as f:
             wiki_article = tuple(f.readlines())
