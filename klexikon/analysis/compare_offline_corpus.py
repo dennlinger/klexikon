@@ -120,6 +120,9 @@ if __name__ == "__main__":
     wiki_per_doc_vocab_size = []
     klexikon_per_doc_vocab_size = []
 
+    wiki_tokens = []
+    klexikon_tokens = []
+
     for wiki_fp, klexikon_fp in tqdm(directory_iterator("./data/raw/wiki", "./data/raw/klexikon")):
         with open(wiki_fp) as f:
             wiki_article = tuple(f.readlines())
@@ -144,6 +147,9 @@ if __name__ == "__main__":
             wiki_per_doc_vocab_size.append(len(wiki_doc_vocab))
             klexikon_per_doc_vocab_size.append(len(klexikon_doc_vocab))
 
+            wiki_tokens.extend(get_nouns_verbs_adjectives_adverbs_only(wiki_article))
+            klexikon_tokens.extend(get_nouns_verbs_adjectives_adverbs_only(klexikon_article))
+
     # TODO: Include stats for paragraphs?
     print_stats(wiki_number_sentences, klexikon_number_sentences, "sentences")
     print_stats(wiki_number_tokens, klexikon_number_tokens, "tokens")
@@ -160,6 +166,13 @@ if __name__ == "__main__":
 
     print(f"Wikipedia vocab size per doc: {np.mean(wiki_per_doc_vocab_size):.2f} +/- {np.std(wiki_per_doc_vocab_size):.2f}")
     print(f"Klexikon vocab size per doc:  {np.mean(klexikon_per_doc_vocab_size):.2f} +/- {np.std(klexikon_per_doc_vocab_size):.2f}")
+
+    wiki_token_lengths = [len(token) for token in wiki_tokens]
+    klexikon_token_lengths = [len(token) for token in klexikon_tokens]
+    print(f"Wikipedia average token length per noun/verb/adj/adv: {np.mean(wiki_token_lengths):.2f} +/- "
+          f"{np.std(wiki_token_lengths):.2f}")
+    print(f"Klexikon average token length per noun/verb/adj/adv:  {np.mean(klexikon_token_lengths):.2f} +/- "
+          f"{np.std(klexikon_token_lengths):.2f}")
 
     # Plot of the histograms
 
