@@ -3,19 +3,19 @@ Using the available processed corpora, we can also compute basic statistics on t
 """
 
 from functools import lru_cache
-from typing import List, Set
+from typing import List, Set, Tuple
 from tqdm import tqdm
 
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np
 import spacy
+from spacy.tokens.doc import Doc
 
 from .utils import directory_iterator
 
 
-
-def calculate_number_of_valid_lines(lines: List[str]) -> int:
+def calculate_number_of_valid_lines(lines: Tuple[str]) -> int:
     """
     Note that this function does not count empty lines and headings.
     :param lines: Result of a f.readlines() operation, i.e., a list of strings.
@@ -28,34 +28,47 @@ def calculate_number_of_valid_lines(lines: List[str]) -> int:
     return line_counter
 
 
-def count_number_tokens(lines: List[str]) -> int:
+def count_number_tokens(lines: Tuple[str]) -> int:
     """
     Counts the number of valid tokens by running a spacy model over the text.
     :param lines: Input text, in the form of lines in a list.
     :return: Counted number of tokens, as per the spacy tokenizer.
     """
-    text = "".join(lines).replace("\n", " ")
-    nlp = get_spacy()
-
-    doc = nlp(text)
-
-    return len(doc)
+    return len(process_text_with_spacy(lines))
 
 
-def get_unique_lemmas(lines: List[str]) -> Set:
+def get_unique_lemmas(lines: Tuple[str]) -> Set:
     """
     Returns the unique tokens within a single document.
     """
-    text = "".join(lines).replace("\n", " ")
-    nlp = get_spacy(disable=("ner", "tok2vec"))
-
-    doc = nlp(text)
+    doc = process_text_with_spacy(lines)
     vocab = set([token.lemma_ for token in doc])
     return vocab
 
 
+def get_nouns_verbs_adjectives_adverbs_only(lines: Tuple[str]) -> List[str]:
+    relevant_words = []
+    doc = process_text_with_spacy(lines)
+
+    considered_pos_tags = {"NOUN", "ADV", "ADJ", "VERB"}
+    for token in doc:
+        if token.pos_ in considered_pos_tags:
+            relevant_words.append(token.text.lower())
+
+    return relevant_words
+
+
+@lru_cache(maxsize=8)
+def process_text_with_spacy(lines: Tuple[str]) -> Doc:
+
+    text = "".join(lines).replace("\n", " ")
+    nlp = get_spacy(disable=("ner", "tok2vec"))
+
+    return nlp(text)
+
+
 @lru_cache(maxsize=2)
-def get_spacy(model_name="de_core_news_sm",
+def get_spacy(model_name="de_core_news_md",
               disable=("ner", "tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer")
               ):
     """
@@ -68,6 +81,7 @@ def print_stats(wiki_stats: List[int], klexikon_stats: List[int], unit: str = "s
     """
     :param wiki_stats:
     :param klexikon_stats:
+    :param unit:
     :return:
     """
 
@@ -108,9 +122,9 @@ if __name__ == "__main__":
 
     for wiki_fp, klexikon_fp in tqdm(directory_iterator("./data/raw/wiki", "./data/raw/klexikon")):
         with open(wiki_fp) as f:
-            wiki_article = f.readlines()
+            wiki_article = tuple(f.readlines())
         with open(klexikon_fp) as f:
-            klexikon_article = f.readlines()
+            klexikon_article = tuple(f.readlines())
 
             # Since lines equal sentences after preprocessing, we can simply count lines
             wiki_number_sentences.append(calculate_number_of_valid_lines(wiki_article))
