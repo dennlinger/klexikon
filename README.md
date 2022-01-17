@@ -102,7 +102,7 @@ If you use our dataset, or code from this repository, please cite
 @article{aumiller-gertz-2022-klexikon,
   title   = {{Klexikon: A German Dataset for Joint Summarization and Simplification}}
   author  = "Aumiller, Dennis and Gertz, Michael", 
-  year    = 2022,
+  year    = "2022",
   journal = "Under Submission",
 }
 ```
