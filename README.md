@@ -96,6 +96,11 @@ In the meantime, there have been new articles added to Klexikon, which leaves ro
 * Remove unused articles (optional)
 * Generate stratified split
 
+# License Information
+Both Wikipedia and Klexikon make their textual contents available under the CC BY-SA license.
+Per [recommendation of the Creative Commons](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software), we apply a separate license to the software component of this repository.
+Data will be re-distributed under the CC BY-SA license.
+
 # How to Cite?
 If you use our dataset, or code from this repository, please cite
 ```bibtex
@@ -106,4 +111,4 @@ If you use our dataset, or code from this repository, please cite
   journal = "Under Submission",
 }
 ```
-We will update the README shortly with reference to our actual arXiv preprint. 
+We will update the README shortly with reference to our actual arXiv preprint, or accepted paper. 
