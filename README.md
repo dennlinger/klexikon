@@ -19,7 +19,7 @@ python3 -m klexikon.analysis.compare_offline_stats
 ```
 instead of
 ```bash
-python3s klexikon/analysis/compare_offline_stats.py
+python3 klexikon/analysis/compare_offline_stats.py
 ```
 Furthermore, this requires the working directory to be the root folder as well,
 to ensure correct referencing of relative data paths.
