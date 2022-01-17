@@ -2,12 +2,12 @@
 Dummy script to speed up evaluation process
 """
 
+from collections import Counter
 from tqdm import tqdm
 import pickle
 
-import numpy as np
+import spacy
 
-from .compare_offline_corpus import get_unique_lemmas, get_nouns_verbs_adjectives_adverbs_only
 from .utils import directory_iterator
 
 
@@ -19,8 +19,11 @@ if __name__ == "__main__":
     wiki_per_doc_vocab_size = []
     klexikon_per_doc_vocab_size = []
 
-    wiki_tokens = []
-    klexikon_tokens = []
+    wiki_lemmas = []
+    klexikon_lemmas = []
+
+    wiki_articles = []
+    klexikon_articles = []
 
     counter = 0
     for wiki_fp, klexikon_fp in tqdm(directory_iterator("./data/raw/wiki", "./data/raw/klexikon")):
@@ -29,38 +32,26 @@ if __name__ == "__main__":
         #     break
 
         with open(wiki_fp) as f:
-            wiki_article = tuple(f.readlines())
+            wiki_articles.append("".join(f.readlines()).replace("\n", " "))
         with open(klexikon_fp) as f:
-            klexikon_article = tuple(f.readlines())
+            klexikon_articles.append("".join(f.readlines()).replace("\n", " "))
 
-            wiki_doc_vocab = get_unique_lemmas(wiki_article)
-            klexikon_doc_vocab = get_unique_lemmas(klexikon_article)
+    nlp = spacy.load("de_core_news_md", disable=("ner"))
 
-            wiki_vocab = wiki_vocab.union(wiki_doc_vocab)
-            klexikon_vocab = klexikon_vocab.union(klexikon_doc_vocab)
+    for wiki_text, klexikon_text in tqdm(zip(wiki_articles, klexikon_articles)):
+        wiki_lemmas.extend([token.lemma_ for token in nlp(wiki_text)])
+        klexikon_lemmas.extend([token.lemma_ for token in nlp(klexikon_text)])
 
-            wiki_per_doc_vocab_size.append(len(wiki_doc_vocab))
-            klexikon_per_doc_vocab_size.append(len(klexikon_doc_vocab))
+    wiki_counter = Counter(wiki_lemmas)
+    klexikon_counter = Counter(klexikon_lemmas)
 
-            wiki_tokens.extend(get_nouns_verbs_adjectives_adverbs_only(wiki_article))
-            klexikon_tokens.extend(get_nouns_verbs_adjectives_adverbs_only(klexikon_article))
+    wiki_sum_top_1000 = sum([frequency for lemma, frequency in wiki_counter.most_common(1000)])
+    klexikon_sum_top_1000 = sum([frequency for lemma, frequency in klexikon_counter.most_common(1000)])
+    print(f"Share of top 1000 words for Wikipedia: {wiki_sum_top_1000 / len(wiki_lemmas) * 100:.2f}")
+    print(f"Share of top 1000 words for Klexikon:  {klexikon_sum_top_1000 / len(klexikon_lemmas) * 100:.2f}")
 
-    # Vocabulary stats
-    print(f"Wikipedia total distinct tokens: {len(wiki_vocab)}")
-    print(f"Klexikon total distinct tokens:  {len(klexikon_vocab)}")
+    with open("wiki_lemmas.pkl", "wb") as f:
+        pickle.dump(wiki_lemmas, f)
 
-    print(f"Wikipedia vocab size per doc: {np.mean(wiki_per_doc_vocab_size):.2f} +/- {np.std(wiki_per_doc_vocab_size):.2f}")
-    print(f"Klexikon vocab size per doc:  {np.mean(klexikon_per_doc_vocab_size):.2f} +/- {np.std(klexikon_per_doc_vocab_size):.2f}")
-
-    wiki_token_lengths = [len(token) for token in wiki_tokens]
-    klexikon_token_lengths = [len(token) for token in klexikon_tokens]
-    print(f"Wikipedia average token length per noun/verb/adj/adv: {np.mean(wiki_token_lengths):.2f} +/- "
-          f"{np.std(wiki_token_lengths):.2f}")
-    print(f"Klexikon average token length per noun/verb/adj/adv:  {np.mean(klexikon_token_lengths):.2f} +/- "
-          f"{np.std(klexikon_token_lengths):.2f}")
-
-    with open("wiki_tokens.pkl", "wb") as f:
-        pickle.dump(wiki_tokens, f)
-
-    with open("klexikon_tokens.pkl", "wb") as f:
-        pickle.dump(klexikon_tokens, f)
+    with open("klexikon_lemmas.pkl", "wb") as f:
+        pickle.dump(klexikon_lemmas, f)
