@@ -11,3 +11,7 @@ def directory_iterator(source_dir: str = "./data/raw/wiki/", target_dir: str = "
         out_fp = os.path.join(target_dir, fn)
 
         yield in_fp, out_fp
+
+
+def get_filename_from_article_title(title: str) -> str:
+    return f"{title.replace(' ', '_').replace('/', '_')}.txt"
