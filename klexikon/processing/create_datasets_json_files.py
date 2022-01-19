@@ -39,6 +39,10 @@ if __name__ == '__main__':
 
             fn = wiki_fp.split("/")[-1]
 
+            # We keep sentences in separate lines, which we want to maintain for the dataset.
+            wiki_lines = [line.strip("\n ") for line in wiki_lines]
+            klexikon_lines = [line.strip("\n ") for line in klexikon_lines]
+
             # Get meta information from the combined articles dictionary
             metadata = articles[fn]
 
@@ -47,8 +51,8 @@ if __name__ == '__main__':
                 "title": metadata["title"],
                 "wiki_url": metadata["wiki_url"],
                 "klexikon_url": metadata["klexikon_url"],
-                "wiki_sentences": "".join(wiki_lines),
-                "klexikon_sentences": "".join(klexikon_lines)
+                "wiki_sentences": wiki_lines,
+                "klexikon_sentences": klexikon_lines
             }
 
             u_id += 1
