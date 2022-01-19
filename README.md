@@ -127,11 +127,11 @@ Open TODOs:
 # How to Cite?
 If you use our dataset, or code from this repository, please cite
 ```bibtex
-@article{aumiller-gertz-2022-klexikon,
-  title   = {{Klexikon: A German Dataset for Joint Summarization and Simplification}}
-  author  = {Aumiller, Dennis and Gertz, Michael}, 
-  year    = {2022},
-  journal = {arXiv preprint arXiv:2201.07198},
-  url     = {https://arxiv.org/abs/2201.07198},
+@article{aumiller-gertz-2022-klexikon,  
+  title   = {{Klexikon: A German Dataset for Joint Summarization and Simplification}},  
+  author  = {Aumiller, Dennis and Gertz, Michael},  
+  year    = {2022},  
+  journal = {arXiv preprint arXiv:2201.07198},  
+  url     = {https://arxiv.org/abs/2201.07198},  
 }
 ```
