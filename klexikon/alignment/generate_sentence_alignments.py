@@ -52,9 +52,9 @@ if __name__ == '__main__':
 
     for wiki_fp, klexikon_fp in tqdm(directory_iterator(wiki_dir, klexikon_dir)):
         with open(wiki_fp) as f:
-            wiki_lines = f.readlines()[:20]
+            wiki_lines = f.readlines()
         with open(klexikon_fp) as f:
-            klexikon_lines = f.readlines()[:10]
+            klexikon_lines = f.readlines()
 
         wiki_ngram_sentences = generate_sentence_ngrams(wiki_lines)
         klexikon_lines = [line.strip("\n ") for line in klexikon_lines]
