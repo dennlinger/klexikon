@@ -2,7 +2,8 @@
 **Dennis Aumiller and Michael Gertz**  
 Heidelberg University  
 
-*Under submission at LREC 2022*
+*Under submission at LREC 2022*  
+A preprint version of the paper can be found on [arXiv](https://arxiv.org/abs/2201.07198)!
 
 This repository contains the code to crawl the Klexikon data set presented in our paper,
 as well as all associated baselines and splits.
@@ -90,6 +91,8 @@ This means we had to discard around 250 articles from the original list at the t
 In the meantime, there have been new articles added to Klexikon, which leaves room for future improvements.
 
 # Execution Order of Scripts
+TK: I'll include a better reference to the particular scripts in the near future, as well as a script that actually executes everything relevant in order.
+
 * Generate JSON file with article URLs
 * Crawl texts
 * Fix lead sentences
@@ -100,6 +103,14 @@ In the meantime, there have been new articles added to Klexikon, which leaves ro
 Both Wikipedia and Klexikon make their textual contents available under the CC BY-SA license.
 Per [recommendation of the Creative Commons](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software), we apply a separate license to the software component of this repository.
 Data will be re-distributed under the CC BY-SA license.
+
+# Contributions
+Contributions are very welcome. Please either open an issue or pull request if you have any suggestion on how this data can be improved.
+Open TODOs:
+
+* So far, the data does not have more than a few simplistic baselines, and lacks an actually trained system on top of the data.
+* The dataset is "out-of-date", since it does not include any of the more recently articles (~100 since the inception of my version). Potentially, we can increase the availability to almost 3000 articles.
+* Adding a proper data managing script for the Huggingface Datasets version of this dataset.
 
 # How to Cite?
 If you use our dataset, or code from this repository, please cite
