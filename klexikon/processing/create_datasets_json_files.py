@@ -26,7 +26,11 @@ if __name__ == '__main__':
         wiki_dir = os.path.join(split_base_bath, subfolder, "wiki")
         klexikon_dir = os.path.join(split_base_bath, subfolder, "klexikon")
 
-        output_json = []
+        output_samples = []
+        # Clear output file
+        with open(os.path.join(out_path, f"{subfolder}.json"), "w") as f:
+            pass
+
         for wiki_fp, klexikon_fp in tqdm(directory_iterator(wiki_dir, klexikon_dir)):
             with open(wiki_fp) as f:
                 wiki_lines = f.readlines()
@@ -34,10 +38,6 @@ if __name__ == '__main__':
                 klexikon_lines = f.readlines()
 
             fn = wiki_fp.split("/")[-1]
-
-            # We keep sentences in separate lines, which we want to maintain for the dataset.
-            wiki_lines = [line.strip("\n ") for line in wiki_lines]
-            klexikon_lines = [line.strip("\n ") for line in klexikon_lines]
 
             # Get meta information from the combined articles dictionary
             metadata = articles[fn]
@@ -47,15 +47,15 @@ if __name__ == '__main__':
                 "title": metadata["title"],
                 "wiki_url": metadata["wiki_url"],
                 "klexikon_url": metadata["klexikon_url"],
-                "wiki_sentences": wiki_lines,
-                "klexikon_sentences": klexikon_lines
+                "wiki_sentences": "".join(wiki_lines),
+                "klexikon_sentences": "".join(klexikon_lines)
             }
 
-            output_json.append(sample)
             u_id += 1
 
-        with open(os.path.join(out_path, f"{subfolder}.json"), "w") as f:
-            json.dump(output_json, f, indent=2, ensure_ascii=False)
+            with open(os.path.join(out_path, f"{subfolder}.json"), "a") as f:
+                f.write(f"{json.dumps(sample, ensure_ascii=False)}\n")
+
 
 
 
