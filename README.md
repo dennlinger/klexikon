@@ -6,11 +6,18 @@ Heidelberg University
 A preprint version of the paper can be found on [arXiv](https://arxiv.org/abs/2201.07198)!
 
 -------------------------------------------------------------------------------------------
+## Data Availability
+To use data in your experiments, we suggest the existing training/validation/test split, available in [`./data/splits/`](./data/splits).
+This split has been generated with a stratified sampling strategy (based on document lengths) and a 80/10/10 split, which ensure that the samples are somewhat evenly distributed.
+
+Alternatively, we are currently working on a version usable directly through Huggingface Datasets, which should be uploaded soon!
+
 
 ## Installation
 
 This repository contains the code to crawl the Klexikon data set presented in our paper,
 as well as all associated baselines and splits.
+You can work on the existing code base by simply cloning this repository.
 
 Install all required dependencies with the following command:
 ```bash
