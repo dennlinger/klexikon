@@ -5,6 +5,10 @@ Heidelberg University
 *Under submission at LREC 2022*  
 A preprint version of the paper can be found on [arXiv](https://arxiv.org/abs/2201.07198)!
 
+-------------------------------------------------------------------------------------------
+
+## Installation
+
 This repository contains the code to crawl the Klexikon data set presented in our paper,
 as well as all associated baselines and splits.
 
@@ -110,6 +114,7 @@ Open TODOs:
 
 * So far, the data does not have more than a few simplistic baselines, and lacks an actually trained system on top of the data.
 * The dataset is "out-of-date", since it does not include any of the more recently articles (~100 since the inception of my version). Potentially, we can increase the availability to almost 3000 articles.
+* Adding a top-level script that adds correct execution order of different scripts to generate baselines/results/etc.
 * Adding a proper data managing script for the Huggingface Datasets version of this dataset.
 
 # How to Cite?
