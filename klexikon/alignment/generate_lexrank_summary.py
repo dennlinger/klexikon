@@ -7,6 +7,8 @@ import os
 
 import numpy as np
 import pickle
+
+import torch.cuda
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 from sentence_transformers.util import cos_sim
@@ -20,7 +22,9 @@ def remove_empty_lines_and_headings(text):
 
 if __name__ == '__main__':
     num_summary_sentences = 10
+
     model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
+    device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
     base_dir = "./data/raw/wiki/"
     out_dir = "./data/summaries/"
@@ -36,10 +40,10 @@ if __name__ == '__main__':
 
         lines = remove_empty_lines_and_headings(lines)
 
-        # Use tensor instead of numpy to get single element
-        embeddings = model.encode(lines, convert_to_tensor=True)
+        # Models will automatically run on GPU, even without device specification!
+        embeddings = model.encode(lines, convert_to_tensor=True, device=device)
 
-        self_similarities = cos_sim(embeddings, embeddings).numpy()
+        self_similarities = cos_sim(embeddings, embeddings).cpu().numpy()
 
         centrality_scores = degree_centrality_scores(self_similarities, threshold=None, increase_power=True)
 
