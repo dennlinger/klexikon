@@ -6,9 +6,10 @@ Notably, this also contains much longer input texts, which requires longer compu
 import os
 
 import numpy as np
+import pickle
+from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 from sentence_transformers.util import cos_sim
-from tqdm import tqdm
 
 from .LexRank import degree_centrality_scores
 
@@ -18,10 +19,15 @@ def remove_empty_lines_and_headings(text):
 
 
 if __name__ == '__main__':
-    num_summary_sentences = 5
+    num_summary_sentences = 10
     model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
 
     base_dir = "./data/raw/wiki/"
+    out_dir = "./data/summaries/"
+    os.makedirs(out_dir, exist_ok=True)
+
+    index_positions = []
+
     for fn in tqdm(sorted(os.listdir(base_dir))):
         fp = os.path.join(base_dir, fn)
 
@@ -40,9 +46,20 @@ if __name__ == '__main__':
         # Use argpartition instead of argsort for faster sorting, since we only need k << n sentences.
         # most_central_indices = np.argsort(-centrality_scores)
         most_central_indices = np.argpartition(centrality_scores, -num_summary_sentences)[-num_summary_sentences:]
-        # Scores are originally in ascending order
-        list(most_central_indices).reverse()
 
-        print(f"Summary for {fn}:")
-        for idx in most_central_indices:
-            print(lines[idx])
+        # TODO: Figure out whether sorting makes sense here? We assume that Wikipedia has some sensible structure.
+        #   Otherwise, reversing would be enough to get the job done and get the most similar sentences first.
+        # Scores are originally in ascending order
+        # list(most_central_indices).reverse()
+        most_central_indices = sorted(list(most_central_indices))
+
+        index_positions.append(most_central_indices)
+        summary = [lines[idx] for idx in most_central_indices]
+        with open(os.path.join(out_dir, fn), "w") as f:
+            f.write("\n".join(summary))
+        # print(f"Summary for {fn}:")
+        # for idx in most_central_indices:
+        #     print(lines[idx])
+
+    with open("./results/positions.pkl", "wb") as f:
+        pickle.dump(index_positions, f)
