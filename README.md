@@ -3,14 +3,15 @@
 Heidelberg University  
 
 *Under submission at LREC 2022*  
-A preprint version of the paper can be found on [arXiv](https://arxiv.org/abs/2201.07198)!
+A preprint version of the paper can be found on [arXiv](https://arxiv.org/abs/2201.07198)!  
+For easy access, we have also made the dataset available on [Huggingface Datasets](https://huggingface.co/datasets/dennlinger/klexikon)!
 
 -------------------------------------------------------------------------------------------
 ## Data Availability
 To use data in your experiments, we suggest the existing training/validation/test split, available in [`./data/splits/`](./data/splits).
 This split has been generated with a stratified sampling strategy (based on document lengths) and a 80/10/10 split, which ensure that the samples are somewhat evenly distributed.
 
-Alternatively, we are currently working on a version usable directly through Huggingface Datasets, which should be uploaded soon!
+Alternatively, please refer to our [Huggingface Datasets](https://huggingface.co/datasets/dennlinger/klexikon) version for easy access of the preprocessed data.
 
 
 ## Installation
