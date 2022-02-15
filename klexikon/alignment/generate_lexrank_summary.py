@@ -20,6 +20,25 @@ def remove_empty_lines_and_headings(text):
     return [line.strip("\n ") for line in text if line.strip("\n ") and not line.startswith("=")]
 
 
+def compute_lexrank_sentences(model, lines, device):
+    # Models will automatically run on GPU, even without device specification!
+    embeddings = model.encode(lines, convert_to_tensor=True, device=device)
+
+    self_similarities = cos_sim(embeddings, embeddings).cpu().numpy()
+
+    centrality_scores = degree_centrality_scores(self_similarities, threshold=None, increase_power=True)
+
+    # Use argpartition instead of argsort for faster sorting, since we only need k << n sentences.
+    # most_central_indices = np.argsort(-centrality_scores)
+    central_indices = np.argpartition(centrality_scores, -num_summary_sentences)[-num_summary_sentences:]
+
+    # TODO: Figure out whether sorting makes sense here? We assume that Wikipedia has some sensible structure.
+    #   Otherwise, reversing would be enough to get the job done and get the most similar sentences first.
+    # Scores are originally in ascending order
+    # list(most_central_indices).reverse()
+    return sorted(list(central_indices))
+
+
 if __name__ == '__main__':
     num_summary_sentences = 25
 
@@ -41,22 +60,11 @@ if __name__ == '__main__':
 
         lines = remove_empty_lines_and_headings(lines)
 
-        # Models will automatically run on GPU, even without device specification!
-        embeddings = model.encode(lines, convert_to_tensor=True, device=device)
-
-        self_similarities = cos_sim(embeddings, embeddings).cpu().numpy()
-
-        centrality_scores = degree_centrality_scores(self_similarities, threshold=None, increase_power=True)
-
-        # Use argpartition instead of argsort for faster sorting, since we only need k << n sentences.
-        # most_central_indices = np.argsort(-centrality_scores)
-        most_central_indices = np.argpartition(centrality_scores, -num_summary_sentences)[-num_summary_sentences:]
-
-        # TODO: Figure out whether sorting makes sense here? We assume that Wikipedia has some sensible structure.
-        #   Otherwise, reversing would be enough to get the job done and get the most similar sentences first.
-        # Scores are originally in ascending order
-        # list(most_central_indices).reverse()
-        most_central_indices = sorted(list(most_central_indices))
+        # "Compute" summary only if the input text is longer.
+        if len(lines) <= num_summary_sentences:
+            most_central_indices = [idx for idx in range(len(lines))]
+        else:
+            most_central_indices = compute_lexrank_sentences(model, lines, device)
 
         index_positions.append(most_central_indices)
         summary = [lines[idx] for idx in most_central_indices]
