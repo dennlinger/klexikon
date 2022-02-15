@@ -21,10 +21,10 @@ def remove_empty_lines_and_headings(text):
 
 
 if __name__ == '__main__':
-    num_summary_sentences = 10
+    num_summary_sentences = 25
 
-    model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
+    model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2", device=device)
 
     base_dir = "./data/raw/wiki/"
     out_dir = "./data/summaries/"
@@ -34,6 +34,7 @@ if __name__ == '__main__':
 
     for fn in tqdm(sorted(os.listdir(base_dir))):
         fp = os.path.join(base_dir, fn)
+        print(fp)
 
         with open(fp) as f:
             lines = f.readlines()
