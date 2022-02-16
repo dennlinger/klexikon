@@ -7,6 +7,7 @@ Source: https://github.com/crabcamp/lexrank/tree/dev
 
 import numpy as np
 from scipy.sparse.csgraph import connected_components
+from scipy.special import softmax
 
 
 def degree_centrality_scores(
@@ -43,13 +44,14 @@ def degree_centrality_scores(
 
 
 def _power_method(transition_matrix, increase_power=True):
-    eigenvector = np.ones(len(transition_matrix))
+    # Added normalization according to line 1 of Algorithm 2 in the original paper
+    eigenvector = np.ones(len(transition_matrix)) # / len(transition_matrix)
 
     if len(eigenvector) == 1:
         return eigenvector
 
     transition = transition_matrix.transpose()
-
+    counter = 0
     while True:
         eigenvector_next = np.dot(transition, eigenvector)
 
@@ -60,6 +62,10 @@ def _power_method(transition_matrix, increase_power=True):
 
         if increase_power:
             transition = np.dot(transition, transition)
+
+        counter += 1
+        if counter >= 5000:
+            raise ArithmeticError("Not converging")
 
 
 def connected_nodes(matrix):
@@ -81,6 +87,10 @@ def create_markov_matrix(weights_matrix):
 
     row_sum = weights_matrix.sum(axis=1, keepdims=True)
 
+    # normalize probability distribution if we have negative transitions
+    if np.min(weights_matrix) <= 0:
+        return softmax(weights_matrix, axis=1)
+
     return weights_matrix / row_sum
 
 
@@ -90,20 +100,6 @@ def create_markov_matrix_discrete(weights_matrix, threshold):
     discrete_weights_matrix[ixs] = 1
 
     return create_markov_matrix(discrete_weights_matrix)
-
-
-def graph_nodes_clusters(transition_matrix, increase_power=True):
-    clusters = connected_nodes(transition_matrix)
-    clusters.sort(key=len, reverse=True)
-
-    centroid_scores = []
-
-    for group in clusters:
-        t_matrix = transition_matrix[np.ix_(group, group)]
-        eigenvector = _power_method(t_matrix, increase_power=increase_power)
-        centroid_scores.append(eigenvector / len(group))
-
-    return clusters, centroid_scores
 
 
 def stationary_distribution(
