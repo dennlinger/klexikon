@@ -3,6 +3,7 @@ This script transforms the per-article files into three respective JSON files (t
 which are uploaded to Huggingface Datasets.
 """
 
+import regex
 import json
 import os
 
@@ -15,11 +16,38 @@ def clean_text(lines):
     # We keep sentences in separate lines, which we want to maintain for the dataset.
     lines = [line.strip("\n ") for line in lines]
 
+    lines = remove_coordinates(lines)
+
     lines = remove_empty_sections(lines)
 
     lines = remove_last_line_if_empty(lines)
 
     return lines
+
+
+def remove_coordinates(lines):
+    new_lines = []
+    for line in lines:
+        # FIXME: More complicated expression, but doesn't cover everything
+        # expr = r"""
+        # -?                      # Optional negative coordinate
+        # [0-9]{1,3}              # First coordinate
+        # \.                      # Coordinate separator
+        # [0-9]{1,13}             # First decimal digit. 13 is resolution limit of IEEE 754
+        # -?                      # Optional second negative coordinate
+        # [0-9]{1,3}              # Other coordinate
+        # \.[0-9]{2,14}           # And decimal
+        # Koordinaten:            # Fixed string
+        # (\ [0-9]{1,2}°          # Bracket to match highest order of coordinate
+        #     (\ [0-9]{1,2}')?    # Angle minutes
+        #     (\ [0-9]{1,2}")?    # Angle seconds
+        # \ (N|S|W|O),?           # Direction
+        # ){1,4}                  # Can appear probably only two times, but better safe than sorry
+        # """
+        if not (regex.findall(r"[0-9]{2}\.[0-9]{2,}Koordinaten:", line) and len(line.split(" ")) < 12):
+            new_lines.append(line)
+
+    return new_lines
 
 
 def remove_empty_sections(lines):
