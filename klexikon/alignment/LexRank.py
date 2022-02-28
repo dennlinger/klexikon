@@ -43,16 +43,16 @@ def degree_centrality_scores(
     return scores
 
 
-def _power_method(transition_matrix, increase_power=True):
+def _power_method(transition_matrix, increase_power=True, max_iter=10000):
     # Added normalization according to line 1 of Algorithm 2 in the original paper
-    eigenvector = np.ones(len(transition_matrix)) # / len(transition_matrix)
+    eigenvector = np.ones(len(transition_matrix)) / len(transition_matrix)
 
     if len(eigenvector) == 1:
         return eigenvector
 
     transition = transition_matrix.transpose()
-    counter = 0
-    while True:
+
+    for _ in range(max_iter):
         eigenvector_next = np.dot(transition, eigenvector)
 
         if np.allclose(eigenvector_next, eigenvector):
@@ -63,9 +63,8 @@ def _power_method(transition_matrix, increase_power=True):
         if increase_power:
             transition = np.dot(transition, transition)
 
-        counter += 1
-        if counter >= 5000:
-            raise ArithmeticError("Not converging")
+    else:
+        raise ArithmeticError("Not converging")
 
 
 def connected_nodes(matrix):
