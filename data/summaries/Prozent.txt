@@ -1,0 +1,25 @@
+Zahlenangaben in Prozent (von lateinisch-italienisch per cento "von Hundert, Hundertstel") sollen Größenverhältnisse veranschaulichen und vergleichbar machen, indem die Größen zu einem einheitlichen Grundwert (Hundert) ins Verhältnis gesetzt werden.
+Daher wird das Prozent auch als Hilfsmaßeinheit für Verhältnisgrößen verwendet.
+Die Prozentrechnung kann dann als Bruchrechnung (19 % = 19/100) oder im Dezimalsystem (19 % = 0,19) durchgeführt werden.
+Das Prozentzeichen lässt sich mathematisch als einstelliger Postfix-Operator definieren, der den davorstehenden Prozentfuß p {\displaystyle p} (auch Prozentzahl genannt) durch 100 teilt und ihm somit den zugehörigen Prozentsatz zuordnet.
+Prozentangaben beschreiben Größenverhältnisse und beziehen sich dabei auf einen Grundwert G {\displaystyle G} .
+Der Grundwert ist die Ausgangsgröße, auf die sich der Prozentsatz p % {\displaystyle p\,\%} bezieht.
+Der Prozentfuß p {\displaystyle p} gibt an, wie viele Hundertstel des Grundwertes die Prozentangabe beträgt und bezeichnet so ein Größenverhältnis relativ zum Grundwert.
+Einige Autoren verwenden um der besseren Unterscheidung willen die Begriffe Prozentfuß für den Ausdruck p {\displaystyle p} und Prozentsatz für den Ausdruck p % {\displaystyle p\,\%} .
+Prozentangaben erfüllen die gleiche Funktion wie die Formulierungen "ein Halbes" oder "ein Viertel".
+Prozentangaben können darüber hinaus auch feinere Mengenverhältnisse ausdrücken als die in der Alltagssprache gängigen Formulierungen, zum Beispiel "23 Prozent", was 23 Hundertstel eines Grundwertes entspricht.
+Genau wie "ein Halbes" oder "ein Viertel" drückt eine Prozentangabe ein Verhältnis zu einem Grundwert aus:
+ein Halbes von welchem Grundwert?
+Eine Verringerung um p Prozent entspricht einer Multiplikation mit dem Faktor : F = 1 - p 100 , {\displaystyle F=1-{\tfrac {p}{100}}\,,} als Prozentsatz ausgedrückt also
+Vergleicht man Prozentwerte, kann man dies in Prozentpunkten oder in Prozent vom Ausgangsprozentsatz ausdrücken.
+Prozentpunkte geben die einfache Differenz zwischen zwei Prozentsätzen an.
+Wird der Unterschied aber in Prozent (des Ausgangsprozentsatzes) ausgedrückt, dann muss der Ausgangsprozentsatz gedanklich auf 100 % gesetzt werden.
+Beispiel: "Wenn 100 Euro zunächst um 10 % erhöht und dann um 10 % verringert wird, so ergibt das:
+So können mit Proportionen die üblichen Formeln gewonnen werden, was diese sich zu merken erspart.
+Beim sogenannten Kopfrechnen wird meist die vermittelnde Frage, was 100 % bzw. 1 % ist (entspricht), gestellt.
+Gegeben sind W (Prozentwert) und p % (Prozentsatz).Gesucht ist G (Grundwert).
+Damit lautet die Grundformel für den Prozentsatz als Verhältnis aus Prozentwert und Grundwert:
+Für den Prozentfuß an Stelle des Prozentsatzes nimmt die Formel folgende Form an:
+Die Lösung ergibt sich mit der nach G aufgelösten Prozentsatz-Grundformel als
+Der Grundwert dieser Prozentangabe ist also der Nettobetrag.
+Dies kann zu Verwirrungen bzw. dazu führen, dass Benutzer von Taschenrechnern bei Prozentrechnungen auf die Prozenttaste verzichten und eher auf den Dreisatz oder auf die obenstehende Formel zurückgreifen.

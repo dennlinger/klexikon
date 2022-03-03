@@ -1,0 +1,25 @@
+Eine Welle ist eine sich räumlich ausbreitende periodische (Schwingung) oder einmalige (Störung) Veränderung des Gleichgewichtszustands eines Systems bezüglich mindestens einer orts- und zeitabhängigen physikalischen Größe.
+Unterschieden werden mechanische Wellen, die stets an ein Medium gebunden sind, und Wellen, die sich auch im Vakuum ausbreiten können (beispielsweise elektromagnetische Wellen, Materiewellen oder Gravitationswellen).
+Direkt wahrnehmbare Wellen sind zum Beispiel Schallwellen, Wasserwellen und Licht.
+Wellen werden in mehrere Kategorien unterteilt: die "klassischen" Longitudinal- und Transversalwellen (von denen auch Mischformen wie Torsionswellen auftreten können) sowie Materiewellen (nach der Theorie von Louis de Broglie hat ein sich bewegendes Teilchen auch eine Wellenlänge, die bei entsprechendem Versuchsaufbau auch nachgewiesen werden kann) und Wahrscheinlichkeitswellen, die im Rahmen der Quantenphysik die Zustände von physikalischen Systemen beschreiben.
+Mechanische Longitudinalwellen können sich in jedem Medium, ob fest, flüssig oder gasförmig ausbreiten, wogegen sich mechanische, reine Transversalwellen nur in Festkörpern ausbreiten können.
+Wellen, die parallel zur Ausbreitungsrichtung schwingen, werden als Longitudinal- oder Längswelle bezeichnet.
+Ein wichtiges Beispiel ist der Schall, der sich in Gasen und Flüssigkeiten immer als Longitudinalwelle ausbreitet.
+Mechanische Longitudinalwellen sind Druckwellen.
+Longitudinalwellen haben im gleichen festen Medium eine höhere Geschwindigkeit als Transversalwellen des gleichen Typs bei ansonsten gleichen Parametern.
+Wellen, die senkrecht zur Ausbreitungsrichtung schwingen, werden als Transversal-, Quer-, Schub- oder Scherwellen bezeichnet.
+Beispiele sind elektromagnetische Wellen, Gravitationswellen, Biegewellen und Plasmawellen.
+Auch Schallwellen im Festkörper und seismische Wellen können sich bei geeigneter Materialbeschaffenheit als Transversalwelle fortpflanzen.
+Wasserwellen sind als Oberflächenwellen in der Regel eine Mischform aus Longitudinal- und Transversalwellen, können aber als stehende Welle (Seiche) auch als reine Transversalwelle auftreten.
+Sie bilden entweder Schwere- oder Kapillarwellen oder eine Übergangsform zwischen beiden.
+Zur mathematischen Beschreibung von Wellen sind mehrere Größen nötig.
+Funktionen dieses Typs entsprechen der Vorstellung, dass Wellen räumlich ausgedehnte Schwingungen sind.
+Häufig werden daher sehr einfache Lösungen der Wellengleichung herangezogen und die reale Welle als eine Überlagerung von vielen dieser Lösungen angesehen.
+Die gebräuchlichsten Elementarlösungen sind die Ebene Welle und die Kugelwelle.
+Sie ist bei Wellen - im Gegensatz zu Schwingungen - eine vektorielle Größe, da neben der Stärke der Auslenkung auch deren Richtung entscheidend ist.
+Ist die Ausbreitungsrichtung parallel zur Amplitude, handelt es sich um eine Longitudinalwelle, ist sie senkrecht, um eine Transversalwelle.
+In beiden Fällen ist die Intensität der Welle proportional zum Quadrat der Amplitude.
+Eine Kugelwelle lässt sich mit folgender Gleichung beschreiben:
+Quellen für Wellen können pulsförmige Anregungen, Vibrationen oder periodische Schwingungen sein.
+Periodische mechanische und elektromagnetische Wellen können durch periodische Schwingungen erzeugt werden.
+Die Amplitude der Welle wird durch den maximalen Pendelausschlag bestimmt.

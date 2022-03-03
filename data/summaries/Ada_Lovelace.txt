@@ -1,0 +1,25 @@
+Sie arbeitete mit Charles Babbage an der von ihm entwickelten Analytical Engine.
+Die Analytical Engine wurde zwar niemals fertig gestellt, aber Ada Lovelace erkannte das gewaltige Potential dahinter besser als sein Erfinder Babbage, der bloß eine Rechenmaschine herstellen wollte.
+Dies manifestierte sich 1843 in selbst hinzugefügten Notizen zur ihrer Übersetzung eines Artikel von L. F. Menabrea über die Analytical Engine, der drei mal so lange war, wie der ursprüngliche Text.
+Aus ihrem schriftlichen Plan ging hervor, wie Bernoulli-Zahlen mit der Maschine berechnet werden können.
+Mit dieser Erkenntnis hat sie die Informatik um hundert Jahre voraus gedacht und gilt als erste Programmiererin der Welt.
+Da Adas Mutter sehr an Mathematik, Geometrie und Astronomie interessiert war und in ihrer Jugend selbst in diesen Fächern unterrichtet worden war, ermöglichte sie Ada auch eine naturwissenschaftliche Ausbildung.
+Zu ihren Tutoren gehörte Augustus De Morgan, Mathematikprofessor am University College London, der in seiner Forschung grundlegende Beiträge zur Entwicklung der mathematischen Logik lieferte.
+Ada liebte Maschinen und verbrachte viele Stunden damit, neue Erfindungen und technische Diagramme zu studieren.
+Sie zeigte auch in der Öffentlichkeit ein reges Interesse an verschiedenen mathematischen und naturwissenschaftlichen Fragestellungen und verstieß damit gegen die gesellschaftlichen Konventionen ihrer Zeit.
+Im Verlauf ihrer mathematischen Studien lernte Ada Lovelace die Mathematikerin Mary Somerville sowie Charles Babbage kennen, dessen Salon sie im Alter von 17 Jahren besuchte.
+Ada Lovelaces Rolle als Ehefrau und Mutter machte für sie das wissenschaftliche Arbeiten immer schwieriger.
+Lovelace war ihr ganzes Leben lang interessiert an wissenschaftlichen Entwicklungen, inklusive Fragen nach der Möglichkeit zu fliegen oder die Arbeit des Gehirns mathematisch zu beschreiben.
+Nach ihrem ersten Treffen mit Babbage 1833 war sie schnell fasziniert von dessen Arbeit an der "analytischen Maschine".
+Babbage war beeindruckt von Lovelaces Intelligenz und ihren analytischen Fähigkeiten.
+In Lovelaces Notes finden sich eine Reihe dem Stand der Forschung um 1840 weit vorausgreifende Konzepte.
+Während ihre Beiträge zu Rechnerarchitektur und Grundlagen der Programmierung bis zu ihrer Wiederentdeckung in den 1980er Jahren weitgehend in Vergessenheit gerieten, spielten ihre Standpunkte zur künstlichen Intelligenz in erkenntnistheoretischen Debatten als "Lady Lovelace's Objection" bereits bei Begründung dieses Forschungsbereichs der Informatik eine gewisse Rolle.
+Ada Lovelace legte in den Notes einen schriftlichen Plan zur Berechnung der Bernoulli-Zahlen in Diagrammform vor, welcher als das erste veröffentlichte formale Programm gelten kann.
+Ein Kommentar ihrer Notes zeigt, dass sie den entscheidenden Unterschied zwischen einer bloßen Rechenmaschine und einem Computer herausgearbeitet hatte:
+Eine zweite Bemerkung beweist, dass sie auch die Möglichkeit erkannte, mit einem Computer mehr als nur arithmetische Aufgaben zu bearbeiten:
+Lovelace dagegen hatte das weitaus größere Potenzial der Maschine erkannt:
+Auch erkannte Ada Lovelace, dass die Maschine einen physischen Teil hat, nämlich die Kupferräder und Lochkarten, und einen symbolischen, also die automatischen Berechnungen, die in den Lochkarten codiert sind.
+In den Notes schreibt Lovelace 1843: "Die Maschine kann das tun, was wir ihr zu befehlen vermögen, sie kann der Analyse folgen.
+Alan Turing geht in seinem Artikel Computing Machinery and Intelligence aus dem Jahr 1950 auf diesen Einwand als "Lady Lovelace's Objection" ein.
+Einige Forscher urteilen aufgrund der modernen Definition von "Programmierung", dass Ada Lovelace nicht als erste Programmiererin bezeichnet werden sollte, da ihr "Programm" keine Aspekte späterer Programmiersprachen wie Unterprogramme oder Verzweigungen vorweggenommen habe.
+Des Weiteren wird unter anderen vom Charles-Babbage-Forscher Doron Swade darauf hingewiesen, dass Babbages persönliche Aufzeichnungen aus den Jahren 1836/1837 die ersten Programme für die Maschine enthielten, weshalb das Schreiben des ersten Programmes nicht Lovelace zugeschrieben werden sollte.

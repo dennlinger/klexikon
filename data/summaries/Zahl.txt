@@ -1,0 +1,25 @@
+Zahlen sind abstrakte mathematische Objekte beziehungsweise Objekte des Denkens, die sich historisch aus Vorstellungen von Größe und Anzahl entwickelten.
+In der Mathematik, die Zahlen und ihre Struktur formal untersucht, schließt der Begriff verschiedenartige Konzepte mit ein.
+Diese entwickelten sich als Verallgemeinerungen bestehender intuitiver Zahlkonzepte, so dass man sie ebenfalls als Zahlen bezeichnet, obwohl sie wenig Bezug zu den ursprünglich mit Messungen verbundenen Konzepten haben.
+So ergeben sich auch bei den Zahlwörtern Strukturen, die Rückschlüsse auf das Zahlenverständnis erlauben.
+Dabei muss jedoch noch keine Trennung der Zahlen von der Art der gezählten Gegenstände vorliegen: bei manchen Sprachen gibt es so genannte Zählklassen, die für die gleiche Zahl jeweils ein eigenes Zahlwort haben.
+Innerhalb dieses Systems wurden auch allgemeinere rationale Zahlen in einer der heute gebräuchlichen Dezimalbruchentwicklung entsprechenden Weise dargestellt, d. h., es konnten etwa 1 60 {\displaystyle {\tfrac {1}{60} }} - und 1 3600 {\displaystyle {\tfrac {1}{3600}} } -Stellen gebraucht werden.
+Die Mathematik spricht, wenn sie sich mit Zahlen befasst, stets über bestimmte wohldefinierte Zahlbereiche, d. h. nur über bestimmte Objekte unseres Denkens mit festgelegten Eigenschaften, die salopp alle als Zahlen bezeichnet werden.
+Zu unterscheiden sind axiomatische Definitionen von mengentheoretischen Definitionen von Zahlen:
+Die Existenz gewisser Zahlenmengen und Verknüpfungen über ihnen mit gewissen Eigenschaften wird dann aus diesen Axiomen gefolgert.
+Die Prädikatenlogik erster Stufe dagegen ist nicht hinreichend, um gewisse wichtige intuitive Eigenschaften der natürlichen Zahlen zu formulieren und (bei Betrachtung dieser in einer mengentheoretischen Metatheorie, etwa aufgrund des Satzes von Löwenheim-Skolem die Abzählbarkeit) sicherzustellen.
+Elementare Beispiele für zwischen Zahlen definierte Beziehungen sind etwa die allgemein bekannten Rechenoperationen (Grundrechenarten) über den rationalen Zahlen (Brüche), Vergleiche ("kleiner", "größer", "größer gleich" etc.) zwischen rationalen Zahlen und die Teilbarkeitsrelation zwischen ganzen Zahlen ("3 ist ein Teiler von 9").
+Eigenschaften transfiniter (in bestimmten Sinnen "unendlicher" Zahlen) sind allerdings Gegenstand der Mengenlehre.
+Einige wichtige Zahlbereiche seien hier in ihrem mathematischen Kontext vorgestellt.
+Im Laufe der Geschichte der Mathematik wurden immer weitere Zahlbereiche eingeführt, um gegenüber bisherigen Zahlbereichen bestimmte Probleme allgemeiner behandeln zu können.
+Diese drei Eigenschaften sind auch grundlegend für viele allgemeinere Zahlbereiche wie die ganzen, rationalen, reellen und komplexen Zahlen.
+Die Ordnung der natürlichen Zahlen ist in gewisser Hinsicht mit der Addition und Multiplikation verträglich:
+Alternativ lassen sich die reellen Zahlen explizit als Folgen von rationalen Zahlen, die sich einander "annähern", definieren.
+Die Idee des Übergangs von den rationalen zu den reellen Zahlen wird durch verschiedene Konzepte der Vervollständigung verallgemeinert.
+Oftmals lassen sich die reellen Zahlen selbst in diese Strukturen einbetten, wobei die Multiplikation eingeschränkt auf die reellen Zahlen der üblichen Multiplikation von reellen Zahlen entspricht.
+In der Kultur- und Mathematikgeschichte haben sich zahlreiche Zahlensysteme zu solchen systematischen Zahldarstellungen entwickelt.
+Betrachtet man sprachliche Darstellungen von Zahlen formal, so lässt sich nicht jeder Zahl eine solche Darstellung in einem formalen Sinne zuordnen, d. h., in einem mathematischen formalen Sinne existieren mehr Zahlen als mögliche Darstellungen in einer Sprache:
+Da sprachliche Formulierungen stets endlich sind, kann es von ihnen nur abzählbar viele verschiedene geben, während die Mathematik auch überabzählbare Zahlbereiche betrachtet.
+Man spricht dennoch auch von Darstellungen überabzählbarer Zahlbereiche, wenn man sich bei solchen formalen Darstellungen nicht mehr auf zu sprachlichen Formulierungen korrespondierende beschränkt, in ihrer Struktur können sie jedoch den Zahlensystemen ähneln, etwa lassen sich die reellen Zahlen als spezielle formale Reihen definieren, welche der Darstellung in Stellenwertsystemen strukturell ähneln.
+Einige Beispiele für Darstellungen von Zahlen:
+Auch in der reinen Mathematik finden sich Anwendungen dieses Prinzips, wobei üblicherweise nicht als Zahlen aufgefassten mathematischen Objekten Zahlen zugeordnet werden, etwa in Form von Gödelnummern, die logische Formeln oder Algorithmen identifizieren.

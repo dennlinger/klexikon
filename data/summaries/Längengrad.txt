@@ -1,0 +1,25 @@
+Die geographische Länge, auch Längengrad oder kurz Länge genannt (lateinisch longitudo, englisch longitude, internationales Kürzel long oder LON, Formelzeichen ), beschreibt eine der beiden Koordinaten eines Ortes auf der Erdoberfläche, und zwar seine Position östlich oder westlich einer definierten (willkürlich festgelegten) Nord-Süd-Linie, des Nullmeridians.
+Die geographische Länge ist ein Winkel, dessen Weite vom Nullmeridian (0°) ausgehend bis 180° in östlicher und 180° in westlicher Richtung gemessen wird.
+Scheitelpunkt dieses Winkels ist der Mittelpunkt der gedachten Erdkugel, ein Schenkel geht durch den Nullmeridian und der andere durch den Meridian, auf dem der Ort liegt, dessen geographische Länge angegeben werden soll.
+Die geographische Länge wird traditionell im Sexagesimalsystem mit Winkelgrad, Winkelminute und Winkelsekunde angegeben.
+Hierbei ist ein Grad ° gleich 60 Minuten und, ähnlich wie in Zeitangaben, eine Minute ' gleich 60 Sekunden ".
+Ein Großkreis hat 360° oder 21.600'; bei Dezimalgrad werden Nachkommastellen angegeben.
+Vom Erdmittelpunkt aus gemessen entspricht eine Bogenminute entlang des Äquators dem 21.600stel eines Großkreises von etwa 40.075,017 km, also einer Bogenlänge von etwa 1855,32 m.
+Da die Erde aufgrund ihrer Rotation abgeplattet ist, ist ihr Äquatordurchmesser größer als ihr Durchmesser zwischen den beiden Polen.
+Daher ist ein Meridian nur etwa 20.003,932 km lang und eine Bogenminute entspricht entlang eines Längenkreises im Mittel etwa 1852,216 m, rund einer Seemeile (1852 Meter).
+Mit abnehmender geographischer Breite nimmt der Abstand zwischen den Meridianen verschiedener Längengrade zu und wird am Äquator am größten.
+Hier beträgt die Distanz zwischen Orten, deren Äquatorlage sich um genau 1° = 60' in Länge unterscheidet, etwa 111,319 km.
+Ein Grad Unterschied in Länge entspricht auf den Wendekreisen rund 102 km, auf den Polarkreisen rund 44 km und auf 89,0° Breite rund 1,95 km.
+Da es für die Meridiane keine natürliche Nullmarke gibt, wie der Äquator sie für die Breitenmessung darstellt, muss ein Nullmeridian definiert werden.
+Erst 1884 wurde weltweit einheitlich derjenige Meridian festgelegt, auf dem sich die Mittelachse eines bestimmten Teleskops des Observatoriums von Greenwich in London befindet.
+Die Werte der Längengrade liegen zwischen 180°W und 180°O beziehungsweise zwischen -180° und +180° Länge (Long).
+Vor allem in der Seefahrt werden für die Längenangaben 3-stellige Ziffernfolgen bei den Gradangaben bevorzugt, zum Beispiel 010° 43,1' E.
+Dadurch wird die Unterscheidung zu den Breitenangaben deutlicher hervorgehoben, deren Wertebereich von 90°N bis 90°S beziehungsweise von +90° bis -90° Breite (Lat) reicht, womit bei der Gradangabe nicht dreistellige Zahlen erreicht werden.
+Die geographische Länge kann mit unterschiedlicher Genauigkeit angegeben und in verschiedenen Formaten dargestellt werden, z. B.:
+Fehlt die Angabe O, E oder W, so stehen positive Werte für östliche Länge und negative für westliche Länge.
+Der griechische Astronom und Mathematiker Hipparchos (ca. 190-120 v. Chr.) teilte die Erde in ostwestlicher Richtung erstmals in 360 Grad.
+In der europäischen Seefahrt war das Bezugssystem der Längenzählung lange Zeit uneinheitlich.
+Je nach Nation bezogen sich Koordinatennetze auf Nullmeridiane in London, Paris oder St. Petersburg.
+Während die geographische Breite durch Messung von Vertikalwinkeln der Sonne oder des Polarsterns relativ einfach bestimmbar ist, gestaltete sich die Bestimmung der aktuellen geographischen Länge mit ähnlicher Genauigkeit über lange Zeit extrem schwierig.
+Die Angabe einer geographischen Länge kann im Sekundenbereich variieren, wenn unterschiedliche Referenzellipsoide oder ein anderes geodätisches Datum verwendet wird.
+Heutzutage wird die geographische Länge meist mittels Satellitennavigationssystemen bestimmt.

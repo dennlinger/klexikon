@@ -1,0 +1,25 @@
+Über die Atmosphärenphysik, die Klimaforschung und die Verbesserung der Methoden zur Wettervorhersage hinausgehend untersucht die Meteorologie also auch chemische Prozesse (z. B. Ozonbildung, Treibhausgase) in der Lufthülle und beobachtet atmosphärische Himmelserscheinungen.
+Wetterbeobachtung und -forschung kann auch militärischen Zwecken dienen.
+Flugzeuge wurden zu wichtigen Forschungsgegenständen, mit denen man Wetter (z. B. "Wolken von oben") großräumig beobachten bzw. fotografieren und Wetterdaten messen konnte.
+Ein wesentlicher Meilenstein für die Wetterforschung war der Einsatz von Wettersatelliten.
+Bekannte Wetterforscher waren z. B.
+Zwar ist der Hauptfokus der Meteorologie auf die großskaligen dynamischen Prozesse innerhalb der heutigen Erdatmosphäre gerichtet, jedoch sind die im Rahmen eines besseren Verständnisses der Wetterdynamik entwickelten Modellvorstellungen desselben auch auf andere Systeme übertragbar.
+Man zählt daher auch begrenzte Raumklimate bzw. Stadtklimate, extraterrestrische Atmosphären oder Atmosphären vergangener Erdzeitalter (Paläoklimatologie) zu den Studienobjekten der Meteorologie.
+Man versucht daher, durch genaue Beobachtungen der Erdatmosphäre eine gesicherte Datengrundlage auszubilden und gleichzeitig diese Daten für die Schaffung eines immer besseren Verständnisses meteorologischer Prozesse heranzuziehen.
+Wissenschaftliche Fachgebiete, die von der Meteorologie genutzt oder berührt werden, sind:
+Meteorologische Datenerfassung ist daher in der Regel an die von der Natur vorgegebenen Rahmenbedingungen geknüpft, was die Reproduzierbarkeit von Messergebnissen einschränkt und insbesondere den Reduktionismus auf geschlossene, durch eine Messung beantwortbare, Fragestellungen erschwert.
+Die Daten werden durch eine Vielzahl von meteorologischen Messgeräten erfasst, wobei die folgende Aufzählung nur die wichtigsten Beispiele aus dieser Vielfalt auflistet:
+Zu beachten ist hierbei, dass eine einzelne meteorologische Messung nahezu bedeutungslos ist und die Wetterdynamik in größeren Raumskalen nur durch eine Vielzahl von Messungen verstanden und prognostiziert werden kann.
+Diese Messungen müssen hierfür jedoch vergleichbar sein, weshalb die Normung und Standardisierung von Messgeräten und Messverfahren in der Meteorologie sehr wichtig ist, aufgrund vielfältiger praktischer Probleme jedoch nur bedingt umgesetzt werden kann.
+Man spricht daher auch von Messnetzen und der Einrichtung von Wetterstationen.
+Zu einer räumlichen Vergleichbarkeit der Daten, die zur Wettervorhersage notwendig ist, kommt jedoch auch eine zeitliche Vergleichbarkeit, die unter anderem für Klimaprognosen eine entscheidende Rolle spielt.
+In der Meteorologie steht hierbei die räumliche Datenanalyse im Vordergrund, in der ansonsten eng verwandten Klimatologie spielt hingegen die zeitliche Datenanalyse (Zeitreihenanalyse) die Hauptrolle.
+Ein wichtiges Hilfsmittel für Meteorologen, speziell der Satellitenmeteorologie, bilden heutzutage die Satelliten, insbesondere die Wetter- und Umweltsatelliten.
+Hohe räumliche und zeitliche Auflösung von Satellitendaten ist wünschenswert, da man dadurch in die Lage versetzt wird, effektiv Atmosphärenbestandteile und deren Änderung zu überwachen.
+Die fortschreitende Entwicklung der Instrumente und der Trend zu kleinen hoch spezialisierten Satelliten macht es darüber hinaus möglich, auch anthropogen induzierte Störungen der Atmosphärenzusammensetzung zu verfolgen.
+Zusammen mit in-situ durchgeführten Messungen (beispielsweise per Ballon) und Modellrechnungen ergibt sich so nach und nach ein immer geschlosseneres Bild des Zustandes der Erdatmosphäre.
+Ein Beispiel sind Niederschlagsschätzungen oder Windgeschwindigkeitsbestimmungen über den Ozeanen.
+Dort hat man kein enges Messnetz zur Verfügung und war lange Zeit auf großflächige Datenextrapolationen angewiesen, was selbst heute noch dazu führt, dass bei stark maritim geprägten Wetterlagen, beispielsweise an der Westküste Nordamerikas, wesentlich geringere Vorhersagequalitäten erreicht werden können als bei kontinental bestimmten Wetterlagen.
+Satellitendaten werden, beispielsweise über die sogenannte Datenassimilierung, als Grundlage in der Klimatologie genutzt, um deren Modelle zu verbessern bzw. zu stützen und eine umfassende und gleichmäßige Datenerfassung zu ermöglichen.
+Besonders in der Klimatologie (Klimamodell), aber auch in der Meteorologie (Numerische Wettervorhersage) und Fernerkundung spielen Modelle eine herausragende Rolle.
+Diese dienen daher auch nicht ohne Grund in sehr vielen Fällen zur Simulation der Wetter- bzw. Klimadynamik, wobei diese ihre Grenzen, trotz teilweise gigantischer Größendimensionen, schnell erreichen.

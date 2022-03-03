@@ -1,0 +1,25 @@
+Die Scheitel dieser Winkel bezeichnet man als Eckpunkte des Dreiecks.
+Siehe dazu insbesondere Dreiecksgeometrie.
+Ein Dreieck wird durch drei Punkte definiert, die nicht auf einer Geraden liegen.
+Sie werden Ecken des Dreiecks genannt.
+Die Verbindungsstrecken zwischen je zwei Ecken heißen Seiten des Dreiecks.
+Der von je zwei an einem Eckpunkt zusammentreffenden Seiten gebildete Winkel ist eine wichtige Größe zur Charakterisierung des Dreiecks.
+In der Geometrie werden die Eckpunkte des Dreiecks in der Regel mit A {\displaystyle A} , B {\displaystyle B} und C {\displaystyle C} bezeichnet, üblicherweise so wie abgebildet, gegen den Uhrzeigersinn.
+Die drei Kreise, die jeweils eine Seite von außen und die Verlängerungen der beiden anderen Seiten berühren, heißen Ankreise des Dreiecks.
+Der Schwerpunkt eines Dreiecks ist der gemeinsame Schnittpunkt der drei Seitenhalbierenden, also der jeweiligen Verbindungsstrecken der Eckpunkte mit dem Mittelpunkt der gegenüberliegenden Seite.
+Ein Dreieck besitzt drei Seiten und drei Innenwinkel.
+Die Innenwinkel des Dreiecks lassen sich z. B. mit dem Kosinussatz berechnen.
+Ein Dreieck, bei dem alle drei Seiten gleich lang sind, wird gleichseitiges Dreieck genannt.
+Mittelsenkrechte, Seitenhalbierende und Höhe zu einer Seite sowie Winkelhalbierende des gegenüberliegenden Winkels fallen bei einem gleichseitigen Dreieck jeweils aufeinander.
+Entsprechendes gilt für den Umkreismittelpunkt, den Inkreismittelpunkt, den Schwerpunkt und den Höhenschnittpunkt des gleichseitigen Dreiecks, sodass dieser Punkt häufig einfach Mittelpunkt genannt wird.
+Für ein gleichseitiges Dreieck mit der Seitenlänge a {\displaystyle a} gilt:
+Ein gleichschenkliges Dreieck ist nach moderner Auffassung ein Dreieck, bei dem mindestens zwei Seiten gleich lang sind.
+Diese Seiten werden als Schenkel bezeichnet, die dritte Seite heißt Basis des gleichschenkligen Dreiecks.
+Bei einem Geodreieck handelt es sich um ein Lineal in Form eines rechtwinkligen gleichschenkligen Dreiecks.
+In einem gleichschenkligen Dreieck fallen die Mittelsenkrechte der Basis, die Seitenhalbierende der Basis und die Höhe auf der Basis sowie die Winkelhalbierende des Spitzenwinkels aufeinander.
+In Bezug auf einen der spitzen Winkel des Dreiecks bezeichnet man die dem Winkel anliegende Kathete als Ankathete und die dem Winkel gegenüberliegende Kathete als Gegenkathete.
+Durch das Verhältnis zwischen Katheten und Hypotenuse lassen sich auch die beiden spitzen Winkel des rechtwinkligen Dreiecks eindeutig bestimmen.
+Unregelmäßig nennt man ein Dreieck, das diese zwei Bedingungen erfüllt:
+Dreiecke auf einer Kugel, deren drei Seiten Teile von Großkreisen sind, nennt man sphärische Dreiecke oder Kugeldreiecke.
+Ein sphärisches Dreieck hat eine Winkelsumme größer als 180°.
+Die Kongruenzsätze machen Aussagen über die Dreiecksgrößen (Seitenlänge, Winkel), die notwendig sind, um ein Dreieck eindeutig zu bestimmen.

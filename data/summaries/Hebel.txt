@@ -1,0 +1,25 @@
+Ein Hebel ist in der Physik und Technik ein mechanischer Kraftwandler bestehend aus einem starren Körper, der um einen Drehpunkt drehbar ist.
+Unterschieden werden einseitige und zweiseitige Hebel, je nachdem ob die Kräfte nur auf einer Seite oder auf beiden Seiten des Drehpunktes angreifen.
+Weiter gibt es neben dem geraden Hebel auch noch den geknickten Hebel oder Winkelhebel, wie er in der Neigungswaage Anwendung findet.
+Die zentrale physikalische Größe, die zur Beschreibung eines Hebels benötigt wird, ist das Drehmoment M = {\displaystyle { \vec {M}} } in Bezug auf den Drehpunkt A {\displaystyle A} , um den sich der Hebel drehen kann.
+Der Betrag des Drehmoments ist proportional zum Hebelarm.
+Mit einem großen Hebelarm kann daher mit einer kleinen Kraft ein großes Drehmoment ausgeübt werden.
+Die Rechnung vereinfacht sich, wenn man Kräfte betrachtet, die senkrecht zum Hebel stehen.
+Eine weitere Größe, die betrachtet werden kann, ist die Geschwindigkeit an verschiedenen Stellen des Hebels während der Bewegung des Hebels.
+Bei einem einseitigen Hebel liegen Lastarm und Hebelarm auf derselben Seite, da der Drehpunkt sich an einem Ende des Hebels befindet, jedoch haben beide eine unterschiedliche Länge.
+Bei realen Hebeln ist die Wirkung der Reibung im Drehpunkt nicht zu vernachlässigen.
+Das führt dazu, dass der Hebel am Drehpunkt verbiegt oder bricht und nicht die gewünschte Kraft auf die Last überträgt.
+Um diese Effekte zu verringern, werden als Drehpunkt z. B. Kugeln oder Rollen eingesetzt, um zu starkes Abknicken zu verhindern.
+Das Ruder ist ein einseitiger Hebel.
+Last und Kraft greifen auf der gleichen Seite an.
+Der Drehpunkt, hier auch Stützpunkt genannt (der Punkt, an dem sich der Hebel abstützt), liegt am Ruderblatt.
+Weil die Bewegung des Bootes der eigentliche Zweck ist, kann das eingetauchte Ruderblatt als Drehpunkt betrachtet werden, um den sich das Boot bewegt, also in die Wirkrichtung der angreifenden Kraft geschoben wird.
+Die genaue Lage des Drehpunktes hängt davon ab, wie stark das Ruder im Verhältnis zum Boot verankert ist:
+Stützt sich das Ruderblatt von einem Felsen ab, liegt dort der Drehpunkt; beim Rudern in der Luft ist die Dolle der Drehpunkt.
+Dort wird die Wippe durch wechselseitiges Anlegen einer Kraft hin- und hergeschwenkt.
+Ein Nussknacker ist ein einseitiger Doppelhebel.
+In der Fahrzeugtechnik werden Kipphebel verwendet, um die Richtung einer Kraft zu ändern.
+Eine Zange verstärkt die Handkraft und kann je nach Konstruktion ein Werkstück pressend halten oder aufweiten (etwa einen Seegerring, ein Bleirohr).
+Ein Bolzenschneider weist eine doppelte Hebeluntersetzung auf, um hohe Schnittkraft zu erreichen, die langen Bedienhebel werden mit beiden Armen auf relativ langem Weg kräftig zusammengedrückt.
+Eine schließende Pinzette bietet federnde Haltekraft, die kleiner ist als die Fingerkraft.
+Schaufel und Brechstange können an der Front hohe Kräfte ausüben, weil die Armkraft an einem langen Stiel ansetzt.

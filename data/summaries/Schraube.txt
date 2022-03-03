@@ -1,0 +1,25 @@
+Bei Schaftschrauben (Schrauben mit Teilgewinde) ist nur ein Teil des Schafts mit einem Gewinde versehen.
+Über das "Kinn" des Schraubenkopfes (die untere Ringfläche) erfolgt die Kraftübertragung auf das zu befestigende Bauteil.
+Dieser besitzt eine passende Kontur für den Formschluss mit dem Werkzeug, meist ein Schraubendreher oder ein Schraubenschlüssel, mit dem die Schraube ein- und ausgedreht werden kann.
+In der Regel sind mehrere dieser Form-Kriterien für einen bestimmten Schraubenkopf anzuwenden.
+In besonders korrosiven Umgebungen werden Messing-, Edelstahl- oder bei geringer Belastung auch Kunststoffschrauben eingesetzt.
+Kleinere Stückzahlen von Schrauben und Muttern werden auf Drehmaschinen meist aus Stangenmaterial gedreht.
+Bei kleinen Durchmessern werden die Innengewinde mit Hilfe von Gewindebohrern und die Außengewinde mit Schneideisen hergestellt.
+Für große Durchmesser oder Spezialgewinde wird ein Gewindedrehmeißel verwendet.
+Die Schraubenköpfe sind mit einer Anschluss-Geometrie (Schlitz, Sechskant u. a.) zum Kontakt mit einem Montagewerkzeug (Schraubendreher, Schraubenschlüssel) versehen, mit dem das Anzugs-Drehmoment übertragen wird.
+Eine zusätzliche Sicherung gegen Lösen besteht durch die Reibungskräfte zwischen Schraube und Felge, die infolge der Kegelform der Kontaktfläche vergrößert sind.
+Ist das Anzugsmoment vom Hersteller vorgegeben, so kann das durch die Schmierung erleichterte Eindrehen der Schraube zur Überdehnung des Gewindes führen.
+Zur weiteren Reduktion erhalten die Schrauben mancher Hersteller am Übergang zwischen Gewinde und Schaft kurze Fräsrippen, welche die Reibung am Schaft durch Zerfaserung des Holzes herabsetzen.
+Der Schaft kann also deutlich schlanker ausfallen als der angegebene Schraubendurchmesser.
+Für diesen Belastungsfall werden Schrauben angeboten, deren Schaft unterhalb des Kopfes verstärkt ist.
+Nahe dem Rand sowie generell bei Harthölzern sollte zunächst eine Bohrung vorgenommen werden, um das Abscheren des Schraubenkopfes durch den erhöhten Widerstand beim Eindrehen zu vermeiden.
+Das Gewinde stellt eine Kerbung der Oberfläche dar, wodurch die Belastbarkeit des Schafts auf Zug, Scherung und Torsion gegenüber einem glatten Bolzen herabgesetzt ist.
+Man verwendet bei besonders belasteten Schraubverbindungen besonders kerbzähes Material und erreicht durch leicht geringere Steigung der Schraube im Einschraubbereich dort eine gleichmäßigere Lastverteilung im elastischen Bereich.
+Schraubenköpfe mit Schlitzen, deren linke Fläche schräg ist, lassen sich nur einschrauben, jedoch nicht lösen (Beispiel: Einweg-Schlitz).
+Um das Ansetzen der Schraube zu erleichtern, haben selbstformende Schrauben oft eine konische Spitze, manche besitzen ein leicht dreikantiges (trilobulares) Profil, zur Reduzierung der Reibung.
+und Schrauben für Kunststoff formen ebenfalls ein Gewinde .
+Schrauben für weiche Kunststoffe weisen eine ähnlich grobe Gewindesteigung auf wie Holzschrauben.
+Bohrschrauben sind an ihrer Spitze mit zwei Bohrschneiden ausgestattet, die geeignet sind, in Werkstücke ein Loch zu schneiden, in welchem sich das nachfolgende Gewinde selbsttätig verankert.
+Ebenso wie Blechschrauben besitzen Bohrschrauben ein grobes Gewinde, denn sie eignen sich überwiegend zur Verwendung in dünnen oder weichen Materialien.
+Je nach der Kopfform braucht man den entsprechenden Schraubenschlüssel oder Schraubendreher zum Drehen der Schraube.
+Bei hochfesten Schrauben nach DIN 6914 ist eine Unterlegscheibe auch am Schraubenkopf erforderlich, wenn diese entweder als Passschraube eingesetzt oder planmäßig vorgespannt werden.

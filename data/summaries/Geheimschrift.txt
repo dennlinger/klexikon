@@ -1,0 +1,25 @@
+Kryptographie bzw. Kryptografie (altgriechisch uo kryptos, deutsch ,verborgen', ,geheim' und av graphein, deutsch ,schreiben') ist ursprünglich die Wissenschaft der Verschlüsselung von Informationen.
+Der Begriff Kryptographie bedeutet Geheimschrift.
+Die Kryptographie befasste sich historisch mit der Erzeugung, Betrachtung und Beschreibung von Verfahren, um "geheim zu schreiben", also mit Verschlüsselungsverfahren.
+Ein Kryptosystem dient zur Geheimhaltung von übertragenen oder gespeicherten Informationen gegenüber Dritten.
+Die Kryptographie kann also auch als Teilgebiet der Kryptologie gesehen werden.
+Sowohl Kryptographie als auch Steganographie haben zum Ziel, die Vertraulichkeit einer Nachricht zu schützen.
+Kryptographische und steganographische Verfahren können kombiniert werden.
+Beispielsweise führt eine Verschlüsselung (Kryptographie) einer Nachricht, die über einen verdeckten Kanal kommuniziert wird (Steganographie), dazu, dass selbst nach dem Entdecken und erfolgreichen Auslesen des Kanals der Inhalt der Nachricht geheim bleibt.
+Kryptographische Verfahren und Systeme dienen nicht notwendigerweise gleichzeitig allen der hier aufgelisteten Ziele.
+Kryptographische Verfahren werden unterteilt in die klassischen und modernen Verfahren.
+So formulierte Auguste Kerckhoffs von Nieuwenhof mit Kerckhoffs' Prinzip einen Grundsatz der Kryptographie, wonach die Sicherheit eines kryptographischen Verfahrens nur von der Geheimhaltung des Schlüssels und nicht von der des Verfahrens abhängen soll.
+In dieser Zeit wurden große Fortschritte in der mathematischen Kryptographie gemacht.
+Hiermit endete auch eine Phase der Kryptographie, die auf die Geheimhaltung des Verfahrens setzte, um eine Entschlüsselung durch Dritte zu verhindern oder zu erschweren.
+Statt dieser - auch Security by obscurity genannten - Taktik müssen sich kryptografische Verfahren nun dem offenen wissenschaftlichen Diskurs stellen.
+Dieser Aufsatz stellte eine radikal neue Methode der Schlüsselverteilung vor und gab den Anstoß zur Entwicklung von asymmetrischen Kryptosystemen (Public-Key-Verfahren).
+Der Schlüsselaustausch war bis dato eines der fundamentalen Probleme der Kryptographie.
+Ein solches Verfahren wird als symmetrisch oder auch als ein Geheimschlüssel-Verfahren (Secret-Key) oder Geteiltschlüssel-Verfahren (Shared-Secret) bezeichnet.
+Der eine ist ein öffentlicher Schlüssel, der - im Falle eines Verschlüsselungsverfahrens - zum Verschlüsseln von Nachrichten für den Schlüsselinhaber benutzt wird.
+Dem Kryptologen Craig Gentry gelang es 2009 nachzuweisen, dass ein Verschlüsselungsverfahren existiert, das beliebige Berechnungen auf verschlüsselten Daten zulässt.
+Kryptographisch sichere Verfahren sind dann solche, für die es keine bessere Methode zum Brechen der Sicherheit als das Faktorisieren einer großen Zahl gibt, insbesondere kann der private nicht aus dem öffentlichen Schlüssel errechnet werden.
+Die derzeit wichtigsten Public-Key-Verfahren (RSA), Verfahren, die auf dem Diskreten Logarithmus in endlichen Körpern beruhen (z. B. DSA oder Diffie-Hellman), und Elliptic Curve Cryptography könnten theoretisch durch so genannte Quantencomputer in Polynomialzeit gebrochen werden und somit ihre Sicherheit verlieren.
+In Zeiten des Internets wurde der Ruf auch nach privater Verschlüsselung laut.
+Da es moderne, computergestützte Verfahren jedem möglich machen, Informationen sicher zu verschlüsseln, besteht seitens der Regierungen ein Bedürfnis, diese Informationen entschlüsseln zu können.
+Nach einer Lockerung des Gesetzes 1996 ist die Verwendung bestimmter Kryptographieverfahren genehmigungspflichtig.
+Im Rahmen der digitalen Rechteverwaltung werden Kryptographieverfahren eingesetzt, deren Umgehung (mittels Kryptoanalyse) unter Strafe gestellt ist.

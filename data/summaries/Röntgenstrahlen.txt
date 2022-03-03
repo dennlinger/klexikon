@@ -1,0 +1,25 @@
+Röntgenstrahlung oder Röntgenstrahlen sind elektromagnetische Wellen mit Quantenenergien oberhalb etwa 100 eV, entsprechend Wellenlängen unter etwa 10 nm.
+Röntgenstrahlung liegt im elektromagnetischen Spektrum im Energiebereich oberhalb des ultravioletten Lichts.
+Röntgenstrahlung ist eine ionisierende Strahlung.
+Das in Röntgenröhren (siehe unten) erzeugte Strahlungsspektrum ist eine Überlagerung eines kontinuierlichen mit einem diskreten Spektrum.
+Allerdings sind der Erzeugung immer kurzwelligerer Röntgenstrahlung technische Grenzen gesetzt.
+Röntgenstrahlung entsteht durch zwei verschiedene Vorgänge:
+Beide Effekte werden in der Röntgenröhre ausgenutzt, in der Elektronen zunächst von einer Glühwendel (Kathode) aus beschleunigt werden, dabei setzen sie keine Röntgenstrahlung frei, weil die Beschleunigung nicht groß genug ist, und anschließend auf die als Metallblock ausgeführte Anode treffen, in der sie stark abgebremst werden.
+Die Löcher in den Schalen werden durch andere Elektronen aufgefüllt, wobei charakteristische Röntgenstrahlung entsteht.
+Eine weitere Quelle von Röntgenstrahlung sind zyklische Teilchenbeschleuniger, insbesondere zur Beschleunigung von Elektronen.
+Bei passend gewählten Parametern (Stärke des Magnetfeldes und Teilchenenergie) ist dabei auch Röntgenstrahlung vertreten.
+Röntgen-Bremsstrahlung entsteht prinzipbedingt und meist unerwünscht in verschiedenen technischen Geräten wie etwa Elektronenmikroskopen, Elektronenstrahlschweißgeräten und im Bereich der Leistungsstufen von großen Radaranlagen, wo Elektronenröhren wie das Magnetron oder Amplitron zur Erzeugung großer Leistung von nichtionisierender Strahlung eingesetzt werden und im Betrieb zusätzlich Röntgenstrahlung abgeben.
+Auch bei Abbremsung schneller positiver Ionen in Materie entsteht charakteristische Röntgenstrahlung.
+Auf der Erde entsteht Röntgenstrahlung in geringer Intensität im Zuge der Absorption anderer Strahlungsarten, die von radioaktivem Zerfall und der Höhenstrahlung stammen.
+Röntgenstrahlung wird auch in Blitzen produziert und tritt gemeinsam mit terrestrischen Gammablitzen auf.
+Zu den Details der Prozesse, wie Röntgenstrahlung in solchen elektrischen Feldern entstehen, laufen Forschungsarbeiten.
+Des Weiteren werden Röntgenstrahlen bei nichtstreifendem Einfall kaum reflektiert.
+Trotzdem hat man in der Röntgenoptik Wege gefunden, optische Bauelemente für Röntgenstrahlen zu entwickeln.
+Röntgenstrahlung kann Materie durchdringen.
+Röntgenstrahlung ist ionisierend.
+In einer Elektronenstrahl-Mikrosonde (beziehungsweise äquivalent im Elektronenmikroskop) wird die zu analysierende Substanz mit Elektronen bestrahlt, worauf die Atome ionisiert werden und charakteristische Röntgenstrahlung abgeben.
+Statt mit Elektronen kann auch mit Röntgenstrahlen bestrahlt werden.
+Über eine neue Art von Strahlen.
+Er entdeckte die Strahlung, als er fluoreszenzfähige Gegenstände nahe der Röhre während des Betriebs der Kathodenstrahlröhre beobachtete, die trotz einer Abdeckung der Röhre (mit schwarzer Pappe) hell zu leuchten begannen.
+Zu dieser Zeit war der ursächliche Zusammenhang von Kathodenstrahlen und X-Strahlen sowie Entstehung der X-Strahlen in den dünnen Hertz-Lenardschen Metallfolien der Lenardschen Röhre erwiesen.
+Die Natur der Röntgenstrahlung als elektromagnetische Wellen konnte 1912 durch Max von Laue bewiesen werden.

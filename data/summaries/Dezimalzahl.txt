@@ -1,0 +1,25 @@
+Als Dezimalsysteme bezeichnet man jedoch auch Zahlensysteme auf der Basis 10 ohne Stellenwertsystem, wie sie, zum Teil in Verbindung mit quinären, vigesimalen oder anders basierten Zahlensystemen, den Zahlwörtern vieler natürlicher Sprachen und älteren Zahlschriften zugrunde liegen.
+Im Dezimalsystem verwendet man die zehn Ziffern
+die als Dezimalziffern bezeichnet werden.
+Zur Darstellung von rationalen Zahlen mit nicht-periodischer Entwicklung folgen dann, nach einem trennenden Komma, die Ziffern z - 1 {\displaystyle z_{-1} } bis z - n {\displaystyle z_{-n } } .
+Diese Darstellung nennt man auch Dezimalbruch-Entwicklung.
+Mit Hilfe der Dezimalbruchentwicklung kann man jeder reellen Zahl eine Folge von Ziffern zuordnen.
+Jeder endliche Teil dieser Folge definiert einen Dezimalbruch, der eine Näherung der reellen Zahl ist.
+Man sagt, dass die Dezimalbruchentwicklung abbricht, wenn die Ziffernfolge ab einer Stelle n nur noch aus Nullen besteht, die dargestellte reelle Zahl also selbst schon ein Dezimalbruch ist.
+Eine besondere Eigenschaft bei der Dezimalbruchentwicklung ist, dass viele rationale Zahlen zwei unterschiedliche Dezimalbruchentwicklungen besitzen.
+Wie oben beschrieben, kann man 0 , 9  {\displaystyle 0{,}{\overline {9 } }} umformen und zu der Aussage
+Aus dieser Identität kann man weiter folgern, dass viele rationale Zahlen (nämlich alle mit endlicher Dezimalbruchentwicklung mit Ausnahme der 0) auf zwei verschiedene Weisen darstellbar sind: entweder eben als endlicher Dezimalbruch mit Periode 0, oder als unendlicher mit Periode 9.
+Für periodische Dezimalbrüche mit einer Null vor dem Komma lässt sich folgende Formel aufstellen:
+2 und 5 sind die Primfaktoren der Zahl 10, der Basis des Dezimalsystems.
+Beispiel zur Periodenlänge 6: (106 - 1) = 999.999:
+Sowohl 1/7 als auch 1/ 13 haben eine Periodenlänge von 6, weil 7 und 13 das erste Mal in der Primfaktorzerlegung von 106 - 1 auftauchen.
+Beispiele: 1/185 = 1/(5*37) hat die gleiche Periodenlänge wie 1/37, nämlich 3.
+1/143 = 1/(11*13) hat die Periodenlänge 6, weil 999.999 = 3 * 3 * 3 * 7 * 143 * 37 (siehe oben)
+Um die Periodenlänge n {\displaystyle n} effizient zu bestimmen, kann die Bestimmung der Primfaktorzerlegungen der rasch wachsenden Zahlenfolge 9, 99, 999, 9999 usw. vermieden werden, indem die äquivalente Beziehung 10 n  1 ( mod k ) {\displaystyle 10^{n}\equiv 1{\pmod {k}}} genutzt wird, also wiederholtes Multiplizieren (angefangen bei 1) mit 10 modulo des gegebenen Nenners k {\displaystyle k} , bis dies wieder 1 ergibt.
+Wie im Artikel Stellenwertsystem erläutert, besitzen irrationale Zahlen (auch) im Dezimalsystem eine unendliche, nichtperiodische Nachkommaziffern-Folge.
+jetons genannt) auf dem Rechnen auf Linien und möglicherweise mit den Fingerzahlen zu leisten.
+Den in römischer und mittelalterlicher Zeit verbreiteten, in etwas anderer Form auch in der arabischen Welt gebrauchten Fingerzahlen lag ein dezimales System für die Darstellung der Zahlen 1 bis 9999 zugrunde, ohne Zeichen für Null, und mit einem Positionssystem eigener Art.
+Auf den Rechenbrettern des griechisch-römischen Altertums und des christlichen Mittelalters stand demgegenüber für die Darstellung ganzer Zahlen ein vollwertiges dezimales Stellenwertsystem zur Verfügung, indem für eine gegebene Zahl die Anzahl ihrer Einer, Zehner, Hunderter usw. durch Rechensteine in entsprechenden vertikalen Dezimalspalten dargestellt wurde.
+Auf dem Klosterabacus des Frühmittelalters, der heute meist mit dem Namen Gerberts verbunden wird und vom 10. bis 12. Jahrhundert in Gebrauch war, wurde stattdessen die Anzahl der Einheiten in der jeweiligen Dezimalspalte nur durch einen einzelnen Stein dargestellt, der mit einer Zahl von 1 bis 9 beziffert war, während das spätere Mittelalter und die Frühe Neuzeit wieder zur Verwendung unbezifferter Rechensteine zurückkehrten und die Spalten bzw. nunmehr horizontal gezogenen Linien entweder für dezimales Rechnen mit ganzen Zahlen an der Basiszahl 10 (mit Fünferbündelung), oder für das Finanzrechnen an den aus dem karolingischen Münzwesen (1 libra = 20 solidi = 240 denarii) ererbten monetären Grundeinheiten nicht-dezimal ausrichteten.
+Auf den antiken wie auf den mittelalterlichen Varianten dieses Hilfsmittels erfolgte die Darstellung des Wertes Null jeweils durch Freilassen der betreffenden Dezimalspalte bzw. Linie, und so auch auf dem Klosterabacus, auf dem zwar ein Rechenstein mit einer aus dem Arabischen stammenden Ziffer (cifra) für Null zur Verfügung stand, aber für andere Zwecke bei den abazistischen Rechenoperationen verwendet wurde.
+Das gleiche positionelle Dezimalsystem mit Zeichen für Null lag auch dem in etwa gleichzeitigen gelehrten Zahlwortsystem indischer Astronomen zugrunde, in dem umschreibende Ausdrücke wie "Anfang" (1), "Augen" (2), "die drei Zeitstufen" (3) für die Zahlen 1 bis 9 und "Himmel", "Leere", "Punkt" oder andere Wörter für Null gemäß ihrem dezimalen Stellenwert als sprachliche Umschreibung mehrstelliger Zahlen gereiht wurden.

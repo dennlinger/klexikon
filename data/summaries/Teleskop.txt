@@ -1,0 +1,25 @@
+Ein Teleskop ist ein Instrument, das elektromagnetische Wellen sammelt und bündelt, beispielsweise um weit entfernte Objekte beobachten zu können.
+Auch optische Baugruppen, die wie ein optisches Teleskop aufgebaut sind, aber nicht der Beobachtung ferner Gegenstände dienen, werden so bezeichnet.
+Ein solches Teleskop kann zum Beispiel zur Strahlaufweitung (Vergrößern des Strahldurchmessers) von Lasern verwendet werden, um den Strahl über größere Entfernungen übertragen zu können oder um seine Intensität zu verringern.
+Teleskop wird gelegentlich noch weiter verallgemeinert auf Anordnungen von Teilchen- oder Strahlungsdetektoren, die richtungsempfindlich sind, also eine Rekonstruktion der Einfallsrichtung der detektierten Strahlung erlauben (siehe Detektorteleskop).
+Die ersten Teleskope waren Fernrohre mit Linsen.
+Als um 1900 die Linsenfernrohre mit den bis 20 Meter langen Riesenteleskopen an ihre Grenzen stießen, ging die Entwicklung auf die kompakteren Spiegelfernrohre über, die heute 8 bis 10 Meter Durchmesser erreichen.
+Die modernen Weltraumteleskope beobachten auch im UV und Infrarot, während am Boden die Radioteleskope zu großen und flächendeckenden Antennensystemen ausgebaut werden.
+Als erstes Teleskop gilt das Galilei-Fernrohr.
+Kompaktere und lichtstärkere Teleskope erhielt man erst, als um 1750 die Achromate erfunden wurden.
+In der Zwischenzeit setzte man für lichtschwache Himmelsobjekte wie Nebelflecke oder Galaxien die etwas lichtstärkeren Spiegelteleskope ein, deren Metallspiegel jedoch sehr schwer waren und eine höhere Schliffgenauigkeit erforderten.
+Doch als in den USA die Lick- und Yerkes-Sternwarte sogar Teleskope mit Objektiven von 91 und 102 cm installierten, war man an die optisch-mechanischen Grenzen gestoßen:
+Daher ging die Weiterentwicklung wieder auf die Spiegelteleskope über, für die man seit etwa 1900 geeignete Verfahren für den Glasguss entwickelt hatte.
+Den größten Fortschritt brachte das 2,5-Meter-Hooker-Teleskop auf dem Mount Wilson, mit dem erstmals der Rand des Andromedanebels in einzelne Sterne aufgelöst werden konnte und die Spektroskopie auch sehr ferner Objekte gelang.
+Heute (Anfang 21. Jhdt.) gibt es bereits mehrere Spiegelteleskope der 8- bis 10-Meter-Klasse, deren aktive Optik die Spiegelform stabilisiert.
+Dabei wird auch die Verformung wegen der veränderlichen Teleskopneigung korrigiert.
+Als um 1900 die Linsenfernrohre mit den bis 20 Meter langen Riesenteleskopen an ihre Grenzen stießen, ging die Entwicklung auf die kompakteren Spiegelfernrohre über, die heute 8-10 Meter Durchmesser erreichen.
+Die modernen Weltraumteleskope beobachten auch im UV- und Infrarot-Bereich, während am Boden die Radioteleskope zu großen und flächendeckenden Antennensystemen ausgebaut werden.
+Um Teleskope auf ein astronomisches Objekt richten zu können, werden sie zumeist auf einer Montierung angebracht.
+Ausnahmen sind feststehende Großteleskope wie das Arecibo-Observatorium oder Weltraumteleskope, die anders positioniert werden.
+Es gibt ein reichhaltiges Teleskopzubehör (siehe weiter unten), angefangen von Filtern bis hin zu unterschiedlichsten Okularen.
+Größere Teleskope wie das European Extremely Large Telescope oder das Giant Magellan Telescope sind in Planung.
+Visuelle Beobachtungen mit kleineren Teleskopen werden mittels eines Okulars durchgeführt, das hinter dem Fokus angebracht wird.
+Bei großen Teleskopen befinden sich an dieser Stelle verschiedene Zusatzgeräte wie Spektrografen, Fotometer oder Kameras.
+Dafür befindet sich bei einigen Teleskopen dort eine Primärfokuskabine, die den Fangspiegel ersetzt.
+Andere Großteleskope leiten das Primärbild von der Hauptoptik über einen Coude-Strahlengang oder über optische Glasfasern in einen eigenen Auswertungsraum.

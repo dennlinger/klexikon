@@ -1,0 +1,25 @@
+Eine Computermaus (umgangssprachlich auch Maus genannt) ist ein Eingabegerät (Befehlsgeber) bei Computern.
+Die Bewegung der Maus, ausgeführt mit der Hand auf dem Arbeitsplatz - gegebenenfalls mit einer geeigneten Unterlage, wie dem Mauspad - wird über einen Sensor in der Maus aufgenommen, digitalisiert und über eine Schnittstelle an den angeschlossenen Computer übertragen.
+Der Anwender bewegt die Maus auf einer glatten Oberfläche, die Bewegungsinformation wird an den Rechner übertragen.
+Man kann verschiedene Verfahren zur Aufnahme der Mausbewegung unterscheiden:
+Die ersten Mäuse dieser Art benötigten spezielle Mauspads, auf denen ein Gitter oder Punkte aufgezeichnet waren, an denen sich der optische Sensor orientieren konnte (System von Steve Kirsch, Mouse Systems).
+Je nach verwendetem Bewegungsaufnehmer (mechanisch-elektrisch, optomechanisch, optisch mit LED oder Laserdiode) unterscheidet sich die Empfindlichkeit der Maus, also die Strecke, die auf der Unterlage mit der Maus gefahren werden muss, um eine bestimmte Strecke mit dem Mauszeiger auf dem Bildschirm zurückzulegen.
+Im PC-Bereich waren lange Zeit Mäuse mit zwei Tasten dominierend.
+Da die Maus ein einfaches und in der Datenübertragung langsames Gerät ist, das nur für Koordinateninformation und Status der Tasten Daten übermittelt und außerdem seinen Strom mittels eines dafür zweckentfremdeten Handshake-Pins über die Schnittstelle erhalten konnte, war diese Schnittstelle eine recht langlebige Lösung, bei der die Maus auch problemlos im laufenden Betrieb angeschlossen werden kann.
+Unabhängig von der verwendeten physikalischen Schnittstelle findet eine serielle Datenübertragung zwischen dem Computer und der daran angeschlossenen Maus statt.
+An IBM-kompatiblen PCs angeschlossene Mäuse verwenden in der Regel nicht mehr als vier physikalisch verbundene Drähte:
+Durch Befehle des Computers, genauer: des Tastatur-/Mauscontrollers, lassen sich auch Auflösung (Schritte/mm), Abtastrate (Abtastungen/s) und Skaling (Vergrößerungsfaktor der übermittelten Zählerstände) der Maus beeinflussen.
+Da diese Adapter jedoch nicht zwischen den unterschiedlichen Pegeln und Protokollen wandeln können, muss die Elektronik in der Maus erkennen, an welchem Anschluss sie betrieben wird und sich darauf einstellen.
+Die Mitlieferung eines Adapters lässt dabei einen Rückschluss auf die Fähigkeiten der Maus zu, denn auch hier muss sie anhand der gegebenen Verhältnisse entscheiden, ob sie sich wie eine PS/2-Maus oder wie eine Maus am USB-Anschluss verhält.
+Erwähnt sei nur die bereits beschriebene Empfindlichkeitseinstellung der Maus, Zeitabstand für Doppelklick sowie die Zuweisung von programmabhängigen Funktionen zu zusätzlichen Maustasten.
+Die grundlegende Funktion der Maus (also Zeigen und Klicken) ist in der Regel auch ohne derartige Anpassungen gegeben.
+Viele Mäuse verknüpfen das Scrollrad mit der Funktion einer dritten Taste, sodass ein Druck auf das Rad das entsprechende Signal an den Computer gibt.
+Freilich ist der Zeigekomfort einer echten Maus größer, sodass viele Anwender oft noch eine zusätzliche kleine Notebook-Maus anschließen.
+Bei körperlichen Einschränkungen können Mehrfachsensoren die Funktion der Maus (Zeigen und Klicken) nachbilden.
+Das Mauspad ist wohl das bekannteste Mauszubehör, das von den meisten Computernutzern eingesetzt wird.
+Mittlerweile bietet die Industrie auch spezielle Mauspads für Computerspieler an, die besonders wenig Reibung erzeugen sollen, um eine präzise Bewegung zu ermöglichen.
+Ergonomische Mauspads haben eine spezielle erhöhte Auflagefläche für die Handwurzel und entlasten die Hand.
+Optisch die Unterlage abtastende Computermäuse an Workstations für strukturierte, gläserne oder metallene Mauspads werden zur Verbesserung der Gleitfähigkeit an der Unterseite mit austauschbaren, nicht kratzenden Filzstreifen beklebt.
+Einige Kabelhalter sind bereits ins Mauspad integriert, andere müssen beispielsweise am Tisch befestigt werden.
+Gängig ist eine anklebbare Öse für die Tischkante, an der die frei auf dem Tisch verfügbar bleibende Mauskabellänge durch festes Einklemmen bestimmt wird.
+Mit ihm kann die Kabellänge der Maus optimal der überstrichenen Fläche des Mauspads angepasst werden.

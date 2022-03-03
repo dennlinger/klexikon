@@ -1,0 +1,25 @@
+Ein Radargerät ist ein Gerät, das ein sogenanntes Primärsignal als gebündelte elektromagnetische Welle aussendet, die die von Objekten reflektierten Echos als Sekundärsignal empfängt und nach verschiedenen Kriterien auswertet.
+Es gibt je nach Einsatzzweck unterschiedliche Radarprinzipien wie das Wetterradar, das harmonische Radar und das Überhorizontradar.
+Man spricht auch von einem Radarstrahl, insbesondere wenn die Abstrahlung von dem Radargerät aufgrund des Antennenentwurfs weitgehend gebündelt in eine Richtung erfolgt.
+Da die Wellenlänge des Radars je nach Anwendung und Stand der Technik im Bereich der Funkwellen im Kurz- bis Mikrowellenbereich liegt, wurde ursprünglich die Bezeichnung Funkmeßtechnik (kurz Funkmeß) verwendet.
+Als ein Beispiel sei das Synthetic Aperture Radar aus dem Jahr 1951 genannt.
+Radargeräte wurden für verschiedene Verwendungszwecke entwickelt:
+Außerdem wurde das Radar auch für die zivile Schiff- und Luftfahrt eingesetzt.
+Auch Satelliten und Weltraumschrott werden heute durch Radar überwacht.
+Aktive Radargeräte werden in bildgebend und nicht bildgebend eingeteilt.
+Radarsender sind mittels Peilempfängern erkenn- und ortbar.
+Peilempfänger, die die Quelle von Funkwellen (von Radar- und anderen Geräten und deren Störabstrahlung) zu militärischen Zwecken orten können, nennt man auch passives Radar.
+Eine weitere Art von Radargeräten, die nur schwer zu entdecken sind, ist das Rauschradar, welches lange Pulse aussendet, welche wie zufällige Störstrahlung aussehen.
+Je nach Reichweite des Radargerätes wird nach einem gesendeten Impuls einige Mikro- bis Millisekunden lang empfangen, bevor der nächste Impuls ausgesendet wird.
+Auf dem klassischen Radarschirm beginnt die Auslenkung mit dem Sendeimpuls.
+Dreht man die Antenne eines Pulsradars, erhält man ein Rundsichtradar.
+Bekannteste Anwendungsgebiete eines solchen Rundsichtradars sind Luftraumüberwachung und Wetterradar.
+Das Schwenken des Abtaststrahles eines Impulsradars kann statt durch die Ausrichtung der Antenne auch elektronisch durch phasengesteuerte Antennenarrays bewirkt werden.
+Die Antenne ist eines der auffälligsten Teile der Radaranlage.
+Bei Radargeräten sind folgende Antennenbauformen üblich:
+Eine in älteren Radargeräten, jedoch auch heute verwendete Senderbauart sind selbstschwingende Impuls-Oszillatoren, die aus einem Magnetron bestehen.
+Ein in moderneren Radargeräten verwendetes Konzept ist der PAT (Power-Amplifier-Transmitter).
+Radar-Höhenmesser von Flugzeugen und Abstandswarngeräte in Autos arbeiten nach diesem Prinzip.
+Diese Technologie wird auch für Rundsichtradar im marinen Bereich eingesetzt (Broadband Radar).
+Der komplette Hochfrequenzteil eines Radars lässt sich zum Beispiel in einem einzelnen integrierten Schaltkreis unterbringen.
+Das ermöglicht neue Konzepte beim Aufbau größerer Radarsysteme.

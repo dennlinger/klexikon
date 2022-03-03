@@ -1,0 +1,25 @@
+Ein Transformator wandelt eine Eingangswechselspannung, die an einer der Spulen angelegt ist, in eine Ausgangswechselspannung um, die an der anderen Spule abgegriffen werden kann.
+Je nach Auslegung des Transformators kann die Ausgangsspannung somit kleiner, größer oder gleich der Eingangsspannung sein.
+Idealtypisch besteht ein Transformator aus einem magnetischen Kreis, welcher als Transformatorkern bezeichnet wird und mindestens zwei stromdurchflossene Wicklungen hat.
+Streuflüsse bewirken, dass die Sekundärspannung etwas geringer ist als beim idealen Transformator.
+Die Sättigungsmagnetisierung spielt auch beim Einschalten des Transformators eine wichtige Rolle; der Einschaltstrom kann dabei kurzzeitig ein Vielfaches des Nennstroms betragen.
+Transformatoren mit hoher Kurzschlussspannung heißen spannungsweich, solche mit niedriger Kurzschlussspannung heißen spannungssteif.
+Transformatoren, die so ausgelegt sind, dass sie im Kurzschlussfall nicht zerstört werden, werden als kurzschlussfest bezeichnet.
+Die dabei eingesetzten Transformatoren dienen vorwiegend zur galvanischen Trennung und zur Spannungsanpassung, wobei eine Sättigung des Transformatorkerns vermieden wird.
+Bei Verwendung einer ohmschen Last weist der Transformator ein sogenanntes Bandpassverhalten auf.
+Am oberen Ende des Frequenzbereiches stehen Transformatoren der Hochfrequenztechnik, bei denen die Wicklungen häufig nur noch aus wenigen oder sogar nur einer einzigen Windung bestehen.
+Die Sättigungsmagnetisierung spielt auch beim Einschalten des Transformators eine wichtige Rolle; der Einschaltstrom kann dabei kurzzeitig ein Vielfaches des Nennstromes betragen.
+In Elektrogeräten, die nicht direkt mit Netzspannung arbeiten, wandeln Transformatoren die an der Steckdose anliegende Netzwechselspannung von typischerweise 230 V auf die Betriebsspannung des Elektrogeräts um.
+Sie dienen der Impedanzanpassung und/oder der galvanischen Trennung der Signalstromkreise.
+In der Messtechnik werden Transformatoren zur Impedanzwandlung eingesetzt.
+Bei Netztransformatoren mit nur einer Wickelkammer ist die Primärwicklung meist zuunterst gewickelt - bei niedrigeren Ausgangsspannungen schützt so der meist dickere Draht der Sekundärwicklung den dünnen Draht der Primärwicklung.
+Netz- und Signaltransformatoren besitzen eine Schirmwicklung, wenn der Ableitstrom unterbunden werden soll, der ohne Schirm von der Primärseite zur Sekundärseite durch kapazitive Kopplung der Wickel gelangt.
+Besonders Schaltnetzteil- und kleine Hochspannungstransformatoren werden unter Vakuum getränkt oder beim Verguss entlüftet.
+Auch die Sekundärwicklung kann Anzapfungen besitzen, um den Transformator zum Beispiel an unterschiedliche Belastungsfälle anzupassen oder mehrere Spannungen mit gleichem Bezug zu erzeugen.
+Solche Transformatoren werden als Treiber- oder Ausgangsübertrager von Gegentaktendstufen sowie zur Speisung einer Zweiwege-Gleichrichtung eingesetzt.
+Bei einem Ringkerntransformator ist ein vergleichsweise hoher Wirkungsgrad bei kleiner Baugröße möglich.
+Schnittbandkerne haben aufgrund ihrer Restluftspalte eine kleinere Remanenz als Ringkerntransformatoren und damit kleinere Einschaltströme als diese.
+Bei der Einphasenausführung eines Manteltransformators befinden sich beide Windungen auf dem Mittelschenkel, entweder nebeneinander oder übereinander.
+Manche Transformatorkerne dienen jedoch der Zwischenspeicherung magnetischer Energie wie beim Sperrwandler.
+Durch ein zusätzliches unbewickeltes Joch mit Luftspalt wird unter anderem bei Lichtbogen-Schweißtransformatoren und Streutransformatoren (u. a. für Leuchtröhren) eine Strombegrenzung bewirkt.
+Solche Transformatoren sind oft auch kurzschlussfest und besitzen im Falle von Schweißtransformatoren und manchen Leuchtröhren-Transformatoren eine mechanische Verstellmöglichkeit des Joches, sodass der abgegebene Strom eingestellt werden kann.

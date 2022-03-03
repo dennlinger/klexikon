@@ -1,0 +1,25 @@
+Ein Viereck (auch Tetragon, Quadrangel oder Quadrilateral) ist eine Figur der ebenen Geometrie, nämlich ein Vieleck mit vier Ecken und vier Seiten.
+In der projektiven Geometrie spielen vollständige Vierecke und die dazu dualen vollständigen Vierseite eine wichtige Rolle.
+In der endlichen Geometrie werden Inzidenzeigenschaften des Vierecks zur Definition des Begriffs "Verallgemeinertes Viereck" verwendet.
+Ein Viereck hat zwei Diagonalen.
+Liegen beide Diagonalen innerhalb des Vierecks, so ist das Viereck konvex, liegt genau eine Diagonale außerhalb, so hat das Viereck eine konkave Ecke.
+Bei einem überschlagenen Viereck liegen beide Diagonalen außerhalb des Vierecks, zum Beispiel beim verschränkten Trapez.
+Gleiches gilt für entartete Vierecke, bei denen zwei oder mehr Eckpunkte zusammenfallen oder mehr als zwei Eckpunkte auf einer Geraden liegen.
+Die Summe der Innenwinkel im Viereck beträgt 360°, weil sich jedes Viereck in zwei Dreiecke zerlegen lässt.
+Ein Trapez ist ein Viereck mit mindestens zwei parallelen Seiten.
+Ein Viereck, welches vier gleich große Innenwinkel von 90°, also rechte Winkel, hat, ist ein Rechteck.
+Ein Rechteck, das vier gleich lange Seiten hat, ist ein Quadrat.
+Ein Quadrat ist eine Raute mit vier gleich großen Innenwinkeln.
+Bei einem Sehnenviereck sind die vier Seiten Sehnen des Umkreises.
+Sind die vier Seiten Tangenten eines Inkreises, so spricht man von einem Tangentenviereck.
+Die ebenen Vierecke werden nach verschiedenen Gesichtspunkten eingeteilt:
+Ein konvexes Viereck kann durch fünf voneinander unabhängige Bestimmungsstücke wie
+Wenn ein spezielles Viereck vorliegt, reichen weniger Größen aus, um seine Form zu beschreiben:
+Bei punktsymmetrischen Vierecken, den Parallelogrammen, ist der Schwerpunkt das Symmetriezentrum, also der Diagonalenschnittpunkt.
+Er stimmt auch beim Dreieck nicht mit dem Flächen- und Eckenschwerpunkt überein, sondern entspricht dort dem Inkreismittelpunkt des Mittendreiecks.
+Den Flächenschwerpunkt eines Vierecks kann man wie folgt konstruieren:
+Man zerlegt das Viereck durch eine Diagonale in zwei Dreiecke und bestimmt jeweils deren Schwerpunkt als Schnittpunkt der Seitenhalbierenden.
+Dasselbe wiederholt man, indem man das Viereck durch die andere Diagonale teilt.
+Die Gerade durch die beiden Dreiecksschwerpunkte ist eine Schwerlinie beider Dreiecke und damit auch des Vierecks.
+Den Eckenschwerpunkt erhält man, indem man die Mittelpunkte gegenüberliegender Seiten verbindet.
+Somit ist der Schnittpunkt der beiden Halbgeraden der Flächenschwerpunkt S {\displaystyle S} des Vierecks.

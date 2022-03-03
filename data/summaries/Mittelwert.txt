@@ -1,0 +1,25 @@
+Ein Mittelwert (kurz auch nur Mittel; anderes Wort Durchschnitt) ist eine, nach einer bestimmten Rechenvorschrift, aus gegebenen Zahlen ermittelte weitere Zahl.
+Einige von beliebig vielen berechenbaren Mittelwerten sind das arithmetische, das geometrische und das quadratische Mittel.
+Der Mittelwert ist ein Kennwert für die zentrale Tendenz einer Verteilung.
+Eng verwandt ist der Mittelwert mit dem Erwartungswert einer Verteilung.
+Dabei wurden die klassischen Mittelwerte in mehreren Schritten verallgemeinert, zunächst zu den Potenzmittelwerten (siehe Abschnitt Hölder-Mittel unten) und diese wiederum zu den quasi-arithmetischen Mittelwerten.
+Die klassische Ungleichung zwischen harmonischem, geometrischem und arithmetischem Mittel geht dabei über in allgemeinere Ungleichungen zwischen Potenzmittelwerten bzw. quasi-arithmetischen Mittelwerten.
+Den meistbenutzten Mittelwert, das arithmetische Mittel, kann man z. B. mithilfe gleich schwerer Kugeln auf einer Wippe visualisieren, die aufgrund der Hebelgesetze durch ein Dreieck (Drehpunkt) ausbalanciert sind.
+Im Folgenden soll beispielhaft an den sieben rechts angegebenen Einträgen in der Wertetabelle gezeigt werden, wo welche Definition des Mittelwerts sinnvoll ist.
+} Alternativ kann mit dem geometrischen Mittel der Endbestand ermittelt werden, denn
+Beim arithmetischen Mittel sucht man die Zahl m {\displaystyle m} , für die
+gilt, wobei sich das Produkt links über n {\displaystyle n} Faktoren erstreckt.
+Der Kehrwert des harmonischen Mittels ist gleich dem arithmetischen Mittel der Kehrwerte der Zahlen.
+Für n = 2 {\displaystyle n=2} hängen die Mittelwerte untereinander in folgender Weise zusammen:
+Die Ungleichung vom arithmetischen und geometrischen Mittel vergleicht die Werte des arithmetischen und geometrischen Mittels zweier gegebener Zahlen:
+Auch ist es möglich, da der Median ein Quantil der Verteilung beschreibt, dass dieser einen Wert aus der Ausgangsmenge beschreibt.
+Der Median wird allgemein mit der folgenden Rechenvorschrift ermittelt.
+Das quadratische Mittel wird mit der folgenden Rechenvorschrift berechnet:
+D. h., das getrimmte Mittel liegt zwischen dem arithmetischen Mittel (keine Stutzung) und dem Median (maximale Stutzung).
+Das Quartilsmittel ist definiert als der Mittelwert des 1. und 3. Quartils:
+Beispiel: Sei a = ( 1 2 , 1 3 , 1 6 ) {\displaystyle a=\left({\tfrac {1}{2}},{\tfrac {1}{3}},{\tfrac {1}{6}}\right) } und
+Gängige gleitende Durchschnitte sind:
+Mittelwerte lassen sich kombinieren; so entsteht etwa das arithmetisch-geometrische Mittel, das zwischen dem arithmetischen und geometrischen Mittel liegt.
+Außerdem gilt bei festen Zahlen x i {\displaystyle x_{i } } : Je größer k {\displaystyle k} ist, desto größer ist x  ( k ) {\displaystyle {\bar {x}}(k)} ; daraus folgt dann die verallgemeinerte Ungleichung der Mittelwerte
+Das Lehmer-Mittel ist ein anderer verallgemeinerter Mittelwert; zur Stufe p {\displaystyle p} ist es definiert durch
+ergibt für verschiedene Argumente t  R {\displaystyle t\in \mathbb {R} } die bekannten Mittelwerte von a {\displaystyle a} und b {\displaystyle b} :

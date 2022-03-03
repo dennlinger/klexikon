@@ -1,0 +1,25 @@
+Ein Kreis ist eine ebene geometrische Figur.
+Eine zusammenhängende Teilmenge des Kreises (also der Kreislinie) ist ein Kreisbogen.
+Die zugehörigen Kreisbögen heißen Halbkreise.
+Kreissegmente (Kreisabschnitte) werden von einem Kreisbogen und einer Kreissehne eingeschlossen.
+Für die Lage einer Geraden in Bezug auf einen gegebenen Kreis gibt es drei Möglichkeiten:
+Er bewies in dieser Arbeit, dass der Flächeninhalt eines Kreises gleich dem Flächeninhalt eines rechtwinkligen Dreiecks mit dem Kreisradius als der einen und dem Kreisumfang als der anderen Kathete ist.
+Ein wichtiger Spezialfall ist die Koordinatengleichung des Einheitskreises
+Wendet man auch diese Gleichungen speziell auf den Einheitskreis an, so erhält man:
+Für den Einheitskreis ergibt sich dann:
+Der Durchmesser d {\displaystyle d} eines Kreises mit Flächeninhalt A {\displaystyle A} und mit Radius r {\displaystyle r} lässt sich durch
+Die Krümmung  {\displaystyle \kappa } des Kreises im Punkt P {\displaystyle \mathrm {P} } lässt sich durch
+Man kann die Fläche des Kreises aus im Verhältnis zum Radius sehr schmalen Streifen zusammensetzen.
+Bei einer anderen Möglichkeit zur Kreisflächenbestimmung ist in den Kreis ein regelmäßiges Sechseck einzuzeichnen, dessen Ecken auf dem Kreis liegen.
+Entsprechend kann man mit einem Sechseck verfahren, das von außen an den Kreis gezeichnet ist, dessen Seitenmitten also auf ihm liegen.
+Eine Kreissehne mit Endpunkten A und B teilt einen gegebenen Kreis in zwei Kreisbögen.
+Der Kreisbogen, auf dem die Scheitel der Umfangswinkel liegen, heißt Fasskreisbogen.
+In der Elementargeometrie werden noch weitere Kreise am Dreieck betrachtet:
+Ein Viereck, das einen Umkreis besitzt, wird Sehnenviereck genannt.
+Ein Viereck, das einen Inkreis besitzt, wird Tangentenviereck genannt.
+Die dadurch konstruierten Punkte ergeben sich als Schnittpunkte zweier Geraden, zweier Kreise oder einer Geraden mit einem Kreis.
+Dazu werden um A {\displaystyle \mathrm {A} } und B {\displaystyle \mathrm {B} } jeweils zwei kurze Kreisbögen mit dem gleichen Radius r {\displaystyle r} geschlagen, wobei r {\displaystyle r} so groß gewählt werden muss, dass die vier Kreisbögen sich in zwei Punkten C {\displaystyle C} und D {\displaystyle D} schneiden.
+und damit der Flächeninhalt des großen Kreises
+Die auf dem Kreis gelegenen Eckpunkte teilen diesen dann in n {\displaystyle n} gleich lange Kreisbögen.
+Dadurch erhält man als Parametrisierung des Kreises nach der Bogenlänge
+Für die oben hergeleitete Parametrisierung f ^ ( s ) {\displaystyle {\hat {f}}(s)} des Kreises nach seiner Bogenlänge ergibt sich

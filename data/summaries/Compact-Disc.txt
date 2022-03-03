@@ -1,0 +1,25 @@
+Die Compact Disc (kurz CD, englisch für kompakte Scheibe) ist ein optischer Speicher, der Anfang der 1980er-Jahre zur digitalen Speicherung von Musik von Philips/PolyGram und Sony eingeführt wurde und die Schallplatte ablösen sollte.
+Bei einer CD werden Daten mit Hilfe einer von innen nach außen laufenden Spiralspur gespeichert (also umgekehrt wie bei der Schallplatte).
+Daten-CDs können aufgrund der zusätzlichen Fehlerkorrektur-Ebene je nach verwendetem Laufwerk mit höheren Datenübertragungsraten gelesen werden, so dass viele Laufwerke ihre angegebene Geschwindigkeit nur bei Daten-CDs erreichen, mit Audio-CDs dagegen langsamer arbeiten.
+Das Abtasten einer CD erfolgt mittels einer Laserdiode (Wellenlänge 780 nm), wobei die CD von unten gelesen wird.
+Wenn der Lesekopf weiter außen auf der CD liest, wird die CD also langsamer gedreht.
+Viele moderne CD-ROM-Laufwerke, ab etwa 32-facher Lesegeschwindigkeit, lesen Daten-CDs hingegen mit konstanter Umdrehungsgeschwindigkeit, um das zeitraubende Beschleunigen und Abbremsen der CD beim Hin- und Herspringen der Leseposition (aufgrund des notwendigen wahlfreien Zugriffs) zu vermeiden.
+Dadurch hängt bei Daten-CDs die Datenrate von der Position des Lesekopfes, also letztlich der Position auf der CD, ab.
+Daneben gibt es auch CDs, die eine andere Form als eine runde Scheibe haben.
+Es gibt verschiedene Möglichkeiten, Audio-CD-Inhalte und CD-ROM-Inhalte auf einer Scheibe zu kombinieren.
+Dem inzwischen praktisch nichtigen Vorteil, dass der CD-ROM-Teil auch in ausschließlich Single-Session-fähigen CD-ROM-Laufwerken gelesen werden kann, steht der vergleichsweise große Nachteil der Sichtbarkeit dieses Datentracks für normale Audio-CD-Spieler entgegen, insbesondere da manche ältere CD-Spieler die CD-ROM-Daten fälschlich als Audio-Daten interpretieren.
+Natürlich wird für den CD-ROM-Teil ein multisessionfähiges CD-ROM-Laufwerk benötigt.
+Deutlich häufiger anzutreffen sind dagegen CDs mit CD-Text.
+Diese Informationen werden dann von geeigneten Geräten während des Abspielens der CD angezeigt.
+Weitere CD-Formate sind:
+Daneben gibt es noch sogenannte HDCD-CDs.
+Der "Abspielschutz" ergibt sich daraus, dass die Fehler bewirken sollen, dass sich die Scheiben nicht mehr in dem CD-Laufwerk eines PC abspielen lassen.
+Manche CD-Laufwerke und die meisten DVD-Laufwerke lassen sich davon aber nicht beeinflussen und können die Daten trotzdem lesen, wodurch diese Idee des "Kopierschutzes" letztendlich nutzlos wird.
+Stattdessen verursachen die Fehler auf der "kopiergeschützten" CD Probleme auf zahlreichen normalen Audio-CD-Spielern und vielen Autoradios mit integrierter CD-Einheit.
+Beschreibbare CDs gibt es in einer einmal beschreibbaren Variante (CD-R: CD recordable) und in einer mehrfach wiederbeschreibbaren Variante (CD-RW: CD rewritable).
+Während die Reflexionseigenschaften einer CD-R denen einer normalen CD nahezu gleichen und diese somit auch in älteren CD-Laufwerken gelesen werden können sollte, ist das Lesekopf-Ausgangssignal einer CD-RW weitaus schwächer, so dass diese Medien nur von entsprechend ausgestatteten (neueren) Laufwerken bzw. Spielern gelesen werden können.
+Es ist ein sogenannter "CD-Brenner" (bzw. ein CD-Rekorder) notwendig.
+CD-Brenner können CDs nicht nur beschreiben, sondern auch lesen.
+Außerdem können beschreibbare CDs - im Gegensatz zu Festplatten - nicht blockweise beschrieben werden.
+Dafür sind spezielle CD-Brennprogramme nötig.
+Dieses Format erlaubt es, wie zum Beispiel bei einer Diskette, direkt Dateien auf der CD zu speichern.

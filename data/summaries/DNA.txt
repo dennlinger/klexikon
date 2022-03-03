@@ -1,0 +1,25 @@
+Die Grundbausteine von DNA-Strängen sind vier verschiedene Nukleotide, die jeweils aus einem Phosphatrest, dem Zucker Desoxyribose sowie einer von vier Nukleinbasen (Adenin, Thymin, Guanin und Cytosin; oft mit A, T, G und C abgekürzt) bestehen.
+Die Abfolge von Basen (Basensequenz) in bestimmten DNA-Strangabschnitten enthält Information.
+Das Genom einer Zelle liegt zumeist als DNA-Doppelstrang vor, bei dem die beiden basenpaarend einander komplementären Stränge räumlich die Form einer Doppelhelix bilden (siehe Abbildung).
+Bei der Replikation werden sie entwunden und getrennt jeweils durch Basenpaarung wieder komplementär ergänzt, sodass anschließend zwei (nahezu) identische doppelsträngige DNA-Moleküle vorliegen.
+Die Erkenntnisse über diese vier Nukleinbasen sollten für die spätere Strukturaufklärung der DNA von wesentlicher Bedeutung sein.
+Sie bilden das Rückgrat des Moleküls.
+DNA kommt normalerweise als schraubenförmige Doppelhelix in einer Konformation vor, die B-DNA genannt wird.
+Proteine, die sequenzspezifisch an die DNA binden, wie zum Beispiel Transkriptionsfaktoren, binden daher meist an der großen Furche.
+Wenn solche Serien in kurzen Abständen aufeinander folgen, nimmt das DNA-Molekül eine gebogene bzw. eine gekrümmte Struktur an, welche stabil ist.
+Sie bilden die Nukleosomen, um die die DNA auf der niedrigsten Verpackungsebene herumgewickelt wird.
+Die spontane Zusammenlagerung von komplementären Basen zu sog. Stamm-Schleifen-Strukturen wird häufig auch bei Einzelstrang-DNA oder -RNA beobachtet.
+In natürlicher DNA kommen auch modifizierte Basen vor.
+Die DNA kann sich nach dem sog. semikonservativen Prinzip mit Hilfe von Enzymen selbst verdoppeln (replizieren).
+Die DNA-Synthese, d. h. die Bindung der zu verknüpfenden Nukleotide, wird durch Enzyme aus der Gruppe der DNA-Polymerasen vollzogen.
+Das Enzym Helikase bildet eine Replikationsgabel, zwei auseinander laufende DNA-Einzelstränge.
+An dieses RNA-Molekül hängt die DNA-Polymerase nacheinander Nukleotide, die denen der DNA-Einzelstränge komplementär sind.
+Die Verknüpfung der neuen Nukleotide zu einem komplementären DNA-Einzelstrang kann an den beiden alten Strängen nur in 5'=3'-Richtung verlaufen und tut das demzufolge ohne Unterbrechung den alten 3'=5'-Strang entlang in Richtung der sich immer weiter öffnenden Replikationsgabel.
+Der alte Doppelstrang ist aber zu Beginn der Replikation nur ein Stück weit geöffnet, so dass an dem zweiten Strang - in "unpassender" Gegenrichtung - immer nur ein kurzes Stück neuer komplementärer DNA entstehen kann.
+Dadurch entstehen Lücken im neuen DNA-Strang, die durch spezielle DNA-Polymerasen mit DNA-Nukleotiden aufgefüllt werden.
+Zum Abschluss verknüpft das Enzym Ligase die noch nicht miteinander verbundenen neuen DNA-Abschnitte zu einem einzigen Strang.
+Durch wechselseitigen Austausch von Teilen dieser DNA-Stränge, das Crossing-over bei der Meiose, können so neue Eigenschaften entstehen.
+Die Basenpaarung von DNA wird bei verschiedenen zellulären Vorgängen denaturiert.
+Die Basenpaarung wird dabei durch verschiedene DNA-bindende Proteine abschnittsweise aufgehoben, z. B. bei der Replikation oder der Transkription.
+DNA kann durch eine DNA-Reinigung, z. B. per DNA-Extraktion, von anderen Biomolekülen getrennt werden.
+Durch Molecular Combing kann die DNA gestreckt und ausgerichtet werden.

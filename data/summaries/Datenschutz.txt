@@ -1,0 +1,25 @@
+Je nach Betrachtungsweise wird Datenschutz als Schutz vor missbräuchlicher Datenverarbeitung, Schutz des Rechts auf informationelle Selbstbestimmung, Schutz des Persönlichkeitsrechts bei der Datenverarbeitung und auch Schutz der Privatsphäre verstanden.
+Der Wesenskern eines solchen Datenschutzrechts besteht dabei darin, dass die Machtungleichheit zwischen Organisationen und Einzelpersonen unter Bedingungen gestellt werden kann.
+Der Datenschutz soll der in der zunehmend digitalen und vernetzten Informationsgesellschaft bestehenden Tendenz zum sogenannten gläsernen Menschen, dem Ausufern staatlicher Überwachungsmaßnahmen (Überwachungsstaat) und der Entstehung von Datenmonopolen von Privatunternehmen entgegenwirken.
+Datenschutz umfasst zunächst organisatorische und technische Maßnahmen gegen Missbrauch von Daten innerhalb einer Organisation.
+In der Schweiz und in Liechtenstein wird Datenschutz definiert als "Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden" (§ 1 Bundesgesetz über den Datenschutz der Schweiz, Art. 1 Abs. 1 Datenschutzgesetz Liechtenstein).
+In Österreich wird Datenschutz beschrieben als Anspruch auf Geheimhaltung von personenbezogenen Daten, soweit ein schutzwürdiges Interesse besteht (§ 1 Abs. 1 Satz 1 Datenschutzgesetz 2000).
+Im europäischen Rechtsraum wird in der Gesetzgebung auch der Begriff data protection verwendet.
+Datenschutz wurde damals also als Schutz personenbezogener Daten vor einer gesetzlich nicht legitimierten Datenverarbeitung angesehen.
+Seitdem versteht man Datenschutz als Schutz des Rechts auf informationelle Selbstbestimmung (z. B. § 1 Landesdatenschutzgesetz Schleswig-Holstein) oder - etwas allgemeiner - als Schutz des Persönlichkeitsrechts bei der Verarbeitung personenbezogener Daten (§ 1 BDSG).
+Allerdings enthält die Verordnung für bestimmte Aspekte des Datenschutzes Öffnungsklauseln für die nationale Gesetzgebung.
+Der Datenschutz ist nach der Rechtsprechung des Bundesverfassungsgerichts ein Grundrecht (Recht auf informationelle Selbstbestimmung).
+Auf Bundesebene regelt das Bundesdatenschutzgesetz (BDSG) den Datenschutz für die Bundesbehörden und den privaten Bereich (d. h. für alle Wirtschaftsunternehmen, Institutionen, Vereine etc. gegenüber natürlichen Personen).
+Daneben regeln die Datenschutzgesetze der Länder den Datenschutz in Landes- und Kommunalbehörden.
+Datenschutzrechtliche Regelungen finden sich darüber hinaus in etlichen weiteren Gesetzen, etwa dem Telekommunikationsgesetz und dem Telemediengesetz, die jeweils für ihren Anwendungsbereich speziellere Regelungen zum Datenschutz enthalten.
+Möglich ist aber auch die zivilrechtliche Durchsetzung des Datenschutzes bei den ordentlichen Gerichten (insbesondere Löschung und Richtigstellung von fehlerhaften Daten).
+Ähnlich wie in Deutschland regelt das Datenschutzgesetz des Bundes den Datenschutz für die Bundesbehörden und für den privaten Bereich; auf die kantonalen Behörden ist das jeweilige kantonale Datenschutzgesetz anwendbar.
+Hauptprinzipien des Datenschutzes sind
+Wenn Daten aufgrund einer Rechtsgrundlage verarbeitet werden dürfen, so sind technisch-organisatorische Maßnahmen zur Gewährleistung des operativen Datenschutzes bei den technischen Prozessen und Funktionen zu treffen.
+Der Datenschutz bezieht sich auf die Erhebung, die Verarbeitung und die Nutzung personenbezogener Daten.
+Im nicht-öffentlichen Bereich ist die Datenschutzaufsicht landesrechtlich geregelt.
+Datenschutz kollidiert in verschiedenen Bereichen mit anderen Zielen.
+Diese Zielkonflikte müssen durch ein Abwägen des Datenschutzes mit anderen Zielen gelöst werden.
+Hier kollidiert ein eventueller Auskunftsanspruch von Kunden oder Dritten mit dem Datenschutz.
+Ein Datenschutz ist hier jedoch besonders wichtig, da ein Überwachungsstaat mit dem Prinzip eines Rechtsstaates unvereinbar ist.
+Ob die Datenschutzvorschriften einen ausreichenden Schutz bieten, ist strittig.

@@ -1,0 +1,25 @@
+etwa: Zwölflinienspiel).
+Die Positionierung des Gegenspielers ergibt sich daraus aber immer zwingend: Wo der eine startet, kann der andere auswürfeln.
+Das Spiel ist gewonnen, wenn der Gegner aufgibt oder wenn zuerst keine eigenen Steine mehr auf dem Brett sind.
+Welche Augenzahl zuerst gesetzt wird, ist dem Spieler überlassen (soweit es sich um einen zulässigen Zug handelt).
+Die Spielsteine werden vom Heimfeld des Gegners aus über das Außenfeld zum eigenen Heimfeld hin gezogen.
+Wird ein Spielstein auf ein Feld gezogen, das von einem einzelnen gegnerischen Stein besetzt ist, so wird dieser geschlagen.
+Der Spieler würfelt wie in einem normalen Zug, setzt aber seine Steine gemäß der Augenzahl in das Heimfeld des Gegners.
+Hat der Spieler z. B. eine 3 und eine 5 gewürfelt, so muss er einen Stein auf das 3. oder 5. Feld setzen.
+Gezählt wird hierbei in der eigenen Spielrichtung.
+Wurden mehrere Steine geschlagen, so müssen erst alle wieder ins Spiel gebracht werden, bevor der Spieler wieder ziehen kann.
+Erst wenn der eine Spieler nach dem Setzen seine Würfel aufgenommen hat, ist der andere Spieler mit Würfeln (oder Verdoppeln) an der Reihe.
+Beispiel: Beim Auswürfeln würfelt der Spieler eine 2 und eine 4.
+Sitzt z. B. auf dem Feld 6 ein einzelner Stein, so kann der Spieler, wenn er 6 und 1 gewürfelt hat, mit der 6 diesen Stein herausnehmen und dann mit einem anderen die Eins rücken.
+Hat ein Spieler alle Steine abgetragen und der Gegner zu diesem Zeitpunkt bereits mindestens einen eigenen Stein herausgewürfelt, so verliert dieser einfach.
+Hat der Gegner noch keinen Stein herausgewürfelt, so wird das Spiel doppelt bewertet.
+In dem Fall, dass der Gegner noch keinen Stein herausgewürfelt hat und sich zusätzlich noch mindestens ein Stein des Gegners im Home-Board des Gewinners oder auf der Bar befindet, zählt das Spiel dreifach.
+Vor allem in Backgammon-Wettkämpfen kommt ein besonderer Würfel zum Einsatz, mit dem allerdings nicht gewürfelt wird.
+Wenn dieser Spieler nun im weiteren Verlauf des Spieles zu der Meinung gelangt, dass er das Spiel gewinnen wird, kann er seinerseits dem Gegner den Dopplerwürfel anbieten.
+Verdoppeln darf der Spieler, in dessen Besitz sich der Dopplerwürfel befindet, und zwar vor dem eigentlichen Würfelwurf mit den beiden Sechser-Würfeln.
+Wenn eine Verdopplung abgelehnt wird oder das Spiel durch Abtragen aller Steine endet, zählt es mit dem bis dahin erreichten Wert des Dopplerwürfels, wobei die abgelehnte Verdopplung nicht zählt.
+Wenn der Spieler, der sich im Vorteil befindet, eine gute Chance hat, ein Gammon oder gar Backgammon zu gewinnen, kann es vorteilhaft sein, nicht zu verdoppeln, um einen höheren Gewinn zu erzielen.
+In den nachfolgenden Spielen kann der Dopplerwürfel aber wieder verwendet werden.
+Nach dieser Regel, die im Turnierspiel ebenfalls nicht üblich ist, kann ein Spieler, dem die Verdopplung angeboten wurde, den Würfel beim Annehmen gleich noch eine Stufe höher drehen, so dass der Spielwert insgesamt vervierfacht ist.
+Die Spielzüge werden so notiert, dass für jeden Spieler die Zählung rückwärts erfolgt.
+Diese kann man auch als Backgammon-Variationen bezeichnen.

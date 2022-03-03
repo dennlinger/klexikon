@@ -1,0 +1,25 @@
+Um deren Eigenschaften und Verhalten anhand von quantitativen Modellen und Gesetzmäßigkeiten zu erklären, befasst sie sich insbesondere mit Materie und Energie und deren Wechselwirkungen in Raum und Zeit.
+Die Arbeitsweise der Physik besteht in einem Zusammenwirken experimenteller Methoden und theoretischer Modellbildung.
+Physikalische Theorien bewähren sich in der Anwendung auf Systeme der Natur, indem sie bei Kenntnis von deren Anfangszuständen Vorhersagen über spätere Zustände erlauben.
+Die theoretische Physik beschäftigt sich vorwiegend mit formalen mathematischen Beschreibungen und den Naturgesetzen.
+Diese Überprüfung in Form reproduzierbarer Messungen an gezielt gestalteten physikalischen Experimenten oder durch Beobachtung natürlicher Phänomene ist das Gebiet der Experimentalphysik.
+Zur Abgrenzung gegenüber der Biologie wurde die Physik oftmals als die Wissenschaft von der unbelebten im Gegensatz zur belebten Natur bezeichnet, womit jedoch eine Beschränkung impliziert wird, die so in der Physik nicht existiert.
+Die Erkenntnisgewinnung in der Physik verläuft in enger Verzahnung von Experiment und Theorie, besteht also aus empirischer Datengewinnung und -auswertung und gleichzeitig dem Erstellen theoretischer Modelle zu ihrer Erklärung.
+Demnach lassen sich grob Experimentalphysik und theoretische Physik voneinander unterscheiden.
+Während manche Naturwissenschaften wie etwa die Astronomie und die Meteorologie sich methodisch weitgehend auf Beobachtungen ihres Untersuchungsgegenstandes beschränken müssen, steht in der Physik das Experiment im Vordergrund.
+Sie versucht einerseits physikalisches Neuland zu betreten, andererseits überprüft sie von der theoretischen Physik gemachte Vorhersagen.
+Die theoretische Physik sucht die empirischen Modelle der Experimentalphysik mathematisch auf bekannte Grundlagentheorien zurückzuführen oder, falls dies nicht möglich ist, Hypothesen für eine neue Theorie zu entwickeln, die dann experimentell überprüft werden können.
+Experimentalphysik und theoretische Physik stehen also in steter Wechselbeziehung zueinander.
+Zusätzlich zu dieser grundlegenden Teilung der Physik unterscheidet man manchmal noch weitere methodische Unterdisziplinen, vor allem die mathematische Physik und die angewandte Physik.
+Auch die Arbeit mit Computersimulationen hat Züge eines eigenen Bereiches der Physik.
+Die mathematische Physik wird gelegentlich als Teilgebiet der theoretischen Physik betrachtet, unterscheidet sich von dieser jedoch darin, dass ihr Studienobjekt nicht konkrete physikalische Phänomene sind, sondern die Ergebnisse der theoretischen Physik selbst.
+Auf diese Weise entwickelt sie Verallgemeinerungen und neue mathematische Formulierungen bereits bekannter Theorien, die dann wiederum als Arbeitsmaterial der theoretischen Physiker in der Modellierung empirischer Vorgänge Einsatz finden können.
+Die angewandte Physik steht in (unscharfer) Abgrenzung zur Experimentalphysik, teilweise auch zur theoretischen Physik.
+Naturgemäß hat dieser Bereich der Physik zahlreiche Anknüpfungspunkte an die Informatik.
+Beide Theorien enthalten die klassische Mechanik über das sogenannte Korrespondenzprinzip als Grenzfall und haben daher einen größeren Gültigkeitsbereich als diese.
+Während die Relativitätstheorie teilweise auf denselben konzeptionellen Grundlagen beruht wie die klassische Mechanik, löst sich die Quantenphysik deutlich davon.
+Die Theorien der Physik kommen in verschiedenen Themenbereichen zum Einsatz.
+Je nach Problem kommen aber auch Quantentheorie und Relativitätstheorie zum Einsatz, um die Systeme zu beschreiben.
+Nahezu alle anderen Themenbereiche der Physik gehen in die astrophysikalischen Modelle ein, um Prozesse auf verschiedenen Größenskalen zu modellieren.
+Dabei kommen auch Erkenntnisse der Atomphysik und der Teilchenphysik und typische Messmethoden dieser Fachgebiete zur Anwendung, um Rückschlüsse auf astrophysikalische oder kosmologische Zusammenhänge zu ziehen.
+Methoden der Physik finden in vielen Themengebieten Anwendung, die nicht zum Kernthemenbereich der Physik gehören.

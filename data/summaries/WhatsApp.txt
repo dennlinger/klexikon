@@ -1,0 +1,25 @@
+Das kalifornische Unternehmen WhatsApp Inc. bietet dabei das eigentliche mobile Anwendungsprogramm (App) namens WhatsApp-Messenger für verschiedene Smartphone-Betriebssysteme an und betreibt die dazugehörigen Server.
+WhatsApp startete als einfache App, bei der man Status-Meldungen veröffentlichte, die von allen Freunden gelesen werden konnten.
+Zur Nutzung von WhatsApp ist nach der Installation eine Registrierung unter Angabe der eigenen Handynummer vorgesehen.
+Kann der WhatsApp-Server keine SMS zustellen, wird der Freischaltcode stattdessen per telefonischer Ansage übermittelt.
+WhatsApp ist im Gegensatz zu SMS kein eigener Dienst eines Mobilfunkanbieters, sondern nutzt den Internetzugang.
+Für die Nutzung von WhatsApp Web muss das Smartphone eingeschaltet und mit dem Internet verbunden sein.
+WhatsApp Web kann von Dritten dazu verwendet werden, die gesamte Kommunikation eines WhatsApp-Kontos in Echtzeit mitzuverfolgen und die Kontakte auszuforschen, ohne eine Überwachungssoftware auf dem Mobiltelefon installieren zu müssen.
+Bis Mitte 2014 war dies noch ein allgemeiner, von WhatsApp vergebener und regelmäßig wechselnder AES-Schlüssel.
+Nachdem dieser öffentlich bekannt geworden war, hat WhatsApp auch diese Lücke geschlossen und weist jedem Gerät einen eigenen Schlüssel zu.
+Theoretisch könnten dadurch andere Apps auch auf die Inhalte der WhatsApp-Datenbank zugreifen.
+Im Juni 2015 wurde erstmals offiziell bekannt, dass amerikanische Behörden die Möglichkeit haben, WhatsApp-Nachrichten mitzulesen.
+Der deutsche Bundesnachrichtendienst nannte WhatsApp 2016 als Beispiel dafür, dass "Verschlüsselungstechniken ... inzwischen standardmäßig in die meisten Kommunikationsdienste integriert" seien, was "die Identifizierung nachrichtendienstlich relevanter Nutzer und die inhaltliche Erschließung der zugehörigen Kommunikation stark beeinträchtig".
+Am 13. Januar 2017 wurde auf der Website des Guardian veröffentlicht, dass der deutsche Sicherheitsforscher Tobias Boelter herausfand, dass WhatsApp beim Versenden von Nachrichten an Empfänger, die gerade nicht online sind, die Nachrichten automatisch erneut sendet, wenn dem Sender zwischenzeitlich ein neuer öffentlicher Schlüssel des Empfängers mitgeteilt wird.
+WhatsApp erklärte dazu, es handle sich um eine "Design-Entscheidung", die verhindere, dass Millionen von Nachrichten verloren gingen.
+Neben anderen Unzulänglichkeiten fanden sie heraus, dass letztlich die WhatsApp-Server die Mitgliedschaft der Nutzer in Gruppen steuern können, sodass ein Server beliebige Nutzer (bspw. sich selbst) zu Gruppen hinzufügen und damit die Vertraulichkeit zukünftiger Nachrichten brechen kann.
+Im Mai 2012 kritisierte die Stiftung Warentest das Datensendeverhalten der App, da diese alle gespeicherten Telefonnummern (die bei WhatsApp als Nutzerkennungen dienen) unverschlüsselt an den WhatsApp-Server überträgt, und vergab das Urteil "sehr kritisch".
+WhatsApp greift auch auf Informationen über Nichtnutzer des Dienstes zu und speichert diese.
+Im April 2015 wurde bekannt, dass WhatsApp in der Version 2.12.45 alle über die App geführten Anrufe ungefragt protokolliert und diese im lokalen Speicher dauerhaft verbleiben.
+Mit der Datenschutzerklärung vom 25. August 2016 räumt sich WhatsApp allerdings das Recht ein, regelmäßig Telefonnummern von Kontakten im Adressbuch des Nutzers an Facebook weiterzugeben.
+In einer Entscheidung des Amtsgerichts Bad Hersfeld im März 2017 gelangt das Gericht nach ausführlicher Würdigung zur Ansicht, dass durch die Nutzung von WhatsApp fortlaufend Daten aus dem Smartphone-Adressbuch an das Unternehmen übermittelt werden.
+Bei Beachtung bestimmter Kriterien kann die Nutzung von WhatsApp sogar illegal sein.
+WhatsApp lässt sich durch den offiziellen Vertriebskanal der jeweiligen Plattformen beziehen.
+Die Nutzungsbedingungen von WhatsApp beinhalten eine Altersbeschränkung.
+Bei einer falschen Angabe liegt ein Verstoß gegen die Nutzungsbedingungen von WhatsApp vor und die Nutzung des Programms und der damit verbundenen Netzwerkinfrastruktur erfolgt illegal.
+Einige Nutzer von WhatsApp+ wurden temporär, bei weiterer Nutzung des alternativen Clients dauerhaft vom Dienst ausgesperrt.

@@ -1,0 +1,25 @@
+Ein Modell ist ein vereinfachtes Abbild der Wirklichkeit.
+Man unterscheidet die strukturelle und die pragmatische Modellbildung.
+Prozesse der Modellbildung:
+Bei der Modellbildung lassen sich folgende Prozesse differenzieren:
+Ein Ziel eines Modellierers ist generell die Reduzierung der Komplexität des Modells gegenüber der Realität.
+Ein häufiger Trugschluss ist daher, ein Modell mit der Realität gleichzusetzen.
+Damit wird die Zweckbindung des Modells bestimmt.
+Durch die formelle Beschreibung kann ein Modell berechnet und wissenschaftlich geprüft werden.
+Oft werden bei mathematischen Modellen Empirische Funktionen verwendet.
+Die Modelltheorie der Logik wird auch in der modelltheoretischen Semantik verwandt.
+In der Methodologie und Wissenschaftstheorie wird zwischen Modellen unterschieden, die zur Erklärung von bekannten Sachverhalten oder Objekten dienen und solchen, die auf einer hypothetischen Annahme (Hypothese) beruhen und bei denen der Entdeckungszusammenhang beim Test von Theorien im Vordergrund steht.
+Für Theorien werden oftmals abstrakte oder fiktive Modelle gebildet.
+Eine weitere Unterscheidung ist, ob Modelle beschreibend sind (deskriptiv) oder ob durch die Modelle ein Sachverhalt festgelegt wird (präskriptiv).
+Unter bestimmten Bedingungen und Zwecksetzungen besitzen Modelle bei der Untersuchung realer Gegenstände und Prozesse in unterschiedlichen Wirklichkeitsbereichen und beim Aufbau wissenschaftlicher Theorien eine wichtige Erkenntnisfunktion.
+Fiktive Modelle sind Mittel zur tieferen und umfassenderen Erkenntnis der Wirklichkeit.
+Wesentlich ist letztlich die Rechtfertigung der Zulässigkeit der Fiktion durch die tätige Praxis, das heißt der praktische Nachweis, dass die mit Hilfe des Modells aufgebaute Theorie auf reale Objekte effektiv angewendet werden kann.
+Eine gesonderte Diskussion wird in der Wissenschaftstheorie darüber geführt, ob Modelle als Repräsentationen die Realität abbilden (Realismus), oder ob es sich nur um theoretische Konstruktionen handelt (Konstruktivismus).
+Aber auch solche Modelle des Denkens können durchaus reale Wirkungen implizieren (Theoreality).
+Modelle können unter anderem nach folgenden Gesichtspunkten eingeteilt werden:
+In der Informatik dienen Modelle zum einen zur Abbildung eines Realitätsausschnitts, um eine Aufgabe mit Hilfe der Informationsverarbeitung zu lösen.
+Zum anderen können Modelle als Vorlage bei der Konzeption eines informatorischen Systems dienen, man spricht dann von Modellsystemen.
+Zur Modellbildung gehört auch die Mathematisierung physikalischer Gesetzmäßigkeiten.
+Im didaktischen Bereich werden Modelle häufig im Sinne von Analogien zwischen dem zu untersuchenden Objektbereich und schon erforschten Bereichen benutzt.
+Simulationen dienen neben der Veranschaulichung physikalischer Zusammenhänge der Überprüfung von Hypothesen.
+Experimente haben nicht nur im Physikunterricht oft Modellcharakter, indem sie die komplexe Realität vereinfachen und sich bei der induktiven Herleitung von Gesetzmäßigkeiten auf das Wesentliche beschränken.

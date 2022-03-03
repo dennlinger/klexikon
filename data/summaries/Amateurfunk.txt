@@ -1,0 +1,25 @@
+Daneben gibt es für denselben Personenkreis einen zweiten Funkdienst, den Amateurfunkdienst über Satelliten, der mit Stationen an Bord von Amateurfunksatelliten oder Raumstationen geführt wird.
+Funkamateure werden nach einer Prüfung zum Amateurfunkdienst zugelassen und betreiben die Funktechnik als Hobby.
+Über nationalstaatliche, ethische, Sprach- und Religions-Grenzen hinweg kann der Amateurfunk zur Pflege von Freundschaften, der technischen Weiterbildung und der angewandten Forschung dienen.
+Dagegen ist der Sendeempfangsbetrieb mit Funkgeräten von Land zu Land unterschiedlich reglementiert.
+Die Amateurfunk-Genehmigungen (in Deutschland Zulassung zur Teilnahme am Amateurfunkdienst) sind entsprechend dem Schwierigkeitsgrad der abgelegten Prüfung in mehrere Klassen abgestuft mit Einschränkungen bei der Frequenznutzung, Sendeleistung, Modulationsart oder bei der Betriebsart.
+In Unterscheidung zum Amateurfunk, für den weltweit eine jeweilige Funkgenehmigung notwendig ist, existiert ebenso global der sogenannte Jedermannfunk.
+Damit sich Funkamateure leichter mit der Technik auseinandersetzen können, bieten verschiedene Firmen und Funkamateure Bausätze an.
+Die funktionstüchtige Zusammenstellung von Funkgerät, Antenne und messtechnischem Zubehör nennt man Amateurfunkstelle oder in der Amateurfunkwelt auch Rig (engl. Anlage).
+Telegrafie-Funkverbindungen mit einfachen Inhalten sind bei Verwendung der internationalen Amateurfunkabkürzungen auch möglich, wenn die Funkpartner unterschiedliche Sprachkenntnisse haben.
+Ständig werden von Funkamateuren neue digitale Übertragungsverfahren erdacht, die dann weltweit mit anderen Funkamateuren ausprobiert werden.
+Unmittelbar neben den in der WLAN-Technik genutzten ISM-Bändern bei 2,4 und 5,8 GHz gibt es Amateurfunk-Zuweisungen.
+In diesen Amateurfunkbändern findet der Funkverkehr in verschiedenen Betriebsarten statt.
+Darin werden die einzelnen Bänder bestimmten Funkdiensten auf primärer oder sekundärer Basis zugewiesen; nicht alle Amateurfunkbänder können von Funkamateuren deshalb alleinig genutzt werden.
+So ist beispielsweise der Frequenzbereich 144-146 MHz im 2-Meter-Band in Europa der Nutzung für Amateurfunkdienste vorbehalten und wird primär von diesem genutzt.
+Funkamateure haben ihren Sendebetrieb dort so einzurichten, dass die primären Funkdienste nicht gestört werden und müssen ihrerseits Störungen hinnehmen.
+Insbesondere in höheren Frequenzbereichen, bedingt durch Verringerung der Ausbreitung EM-Wellen, sind national abweichende Frequenzbereichzuweisungen für den Amateurfunkdienst möglich.
+Für bestimmte Leistungen, beispielsweise für Funkkontakte in eine bestimmte Anzahl Gebiete, werden Amateurfunkdiplome ausgestellt.
+Die Nutzung eines Ausbildungsrufzeichens bietet dann die Möglichkeit, schon vor der Amateurfunkprüfung unter Aufsicht eines Funkamateurs Funkbetrieb zu beobachten und so das erworbene Wissen auszuprobieren und zu festigen.
+Damit konnten im Vereinigten Wirtschaftsgebiet offiziell Amateurfunklizenzen ausgegeben werden.
+Der Amateurfunk hat vielen technisch interessierten Menschen den Zugang zu Elektronik und Nachrichtentechnik geebnet.
+Amateurfunk ist ebenfalls ein wichtiges Standbein der Kommunikation von im Ausland eingesetzten Helfern mit dem Heimatland, denn auch die lizenzfreie Satellitentelefontechnik funktioniert nicht immer zuverlässig.
+Selbst wenn Hilfsdienste mit ihren eigenen Funksystemen vor Ort sind, kann der Amateurfunk eine wichtige Rolle übernehmen:
+Das Alleinstellungsmerkmal des Amateurfunks, der Umgang mit Hochfrequenztechnik wird bei frei zugänglichem Internet oft nicht mehr als notwendig erachtet.
+Ein gegenläufiger Trend zeigt das steigende Interesse an Amateurfunk-Anwendungen im QRP-Bereich, dem Senden mit kleiner Leistung.
+Die Freifunker interessieren sich für Richtfunk und Netzwerktechnik.

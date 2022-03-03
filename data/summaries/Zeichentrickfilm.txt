@@ -1,0 +1,25 @@
+Ein Zeichentrickfilm ist eine Spezialform der Animation und besteht aus vielen, meist per Hand hergestellten Zeichnungen, die zeitlich nacheinander präsentiert werden.
+Durch geringfügige Änderung des Inhalts, von Bild zu Bild, entsteht beim Betrachter der Eindruck, dass es sich um ein Bewegtbild handelt.
+Die technisch einfachste Art, den Effekt eines Zeichentrickfilms zu erzeugen, ist das Durchblättern eines Daumenkinos.
+In den Anfängen wurden die Zeichnungen noch direkt auf den Film gezeichnet.
+Kurze Zeit später wurde dieser Prozess durch ein leicht verbessertes Verfahren abgelöst, bei dem die Papierblätter mit den Zeichnungen unter die Kamera gelegt und aufgenommen wurden.
+Etwa ab 1920 wurden die Zeichnungen auf Folien ("Cels") übertragen, welche es ermöglichten, die Animation mit aufwendigen Hintergründen zu kombinieren.
+Um nicht ständig komplette Figuren neu zeichnen zu müssen, wurde eine Figur so auf mehrere Ebenen verteilt, dass nur noch die sich tatsächlich bewegenden Teile neu gezeichnet werden mussten.
+In den 1990er Jahren ersetzte das Einscannen das frühere Kopieren der Zeichnungen; nachfolgende Arbeitsschritte wie Kolorieren und Kamera fanden jetzt im Computer statt.
+Heutige Produktionssysteme in großen Studios automatisieren möglichst viele Arbeitsgänge, aber immer noch ist ein Zeichentrickfilm vor allem eine handwerkliche Arbeit, die entweder mit Bleistift und Papier oder auf einem Grafiktablett ausgeübt wird.
+Aber auch bei Charakteren werden teilweise Computeranimationen eingesetzt, die beispielsweise realistisch fallendes Haar ermöglichen, sich aber in die klassisch erstellten Zeichnungen integrieren.
+Das Drehbuch ist Grundlage für das Storyboard, in dem für jede Einstellung mindestens eine Zeichnung steht, aus der Kameraeinstellung, Bewegung der Figuren und Art des Hintergrundes erkennbar sind.
+Nach dem Storyboard werden Layouts gezeichnet, und zwar in der Größe, in der sowohl Animatoren wie Hintergrundkünstler arbeiten.
+Der Animator erhält das Storyboard, die nötigen Modelsheets, eine Kopie des Layouts und das X-Sheet.
+Er entwirft nun mit einigen skizzenhaften Zeichnungen das Gerüst der Animation, die Schlüsselbilder (engl. Keyframes) oder Hauptphasen.
+Der wachsende Stapel Papier gelangt nun zum Inbetweener oder Zwischenphasenzeichner, der die immer noch fehlenden Zeichnungen zwischen die bereits existierenden einfügt.
+Im Laufe der Jahre wurden viele Techniken entwickelt, um Zeichnungen zu sparen, und die Bewegungsillusion statt durch Anfertigung vieler Zeichnungen durch die Wahl der Bildausschnitte, Schnitte oder Kamerafahrten über Standbilder zu erzeugen.
+Auch werden oft Zeichnungen wiederverwendet.
+Sind sämtliche Zeichnungen vorhanden und ist die Szene mehrfach getestet und abgenommen, kann sie koloriert werden.
+Früher wurden sämtliche Zeichnungen auf Folie übertragen oder kopiert und diese dann per Hand auf der Rückseite ausgemalt.
+Der Colorist arbeitet am Bildschirm an den eingescannten Zeichnungen.
+Animationssoftware kann dabei viel automatisieren, per Hand wird beispielsweise nur noch das erste Bild einer Szene koloriert, dann koloriert der Computer alle weiteren Phasen, und schließlich werden nur noch eventuelle Fehler per Hand korrigiert.
+Früher trafen sich die Hintergründe mit den bemalten Folien unter der Kamera wieder, heute werden auch sie eingescannt oder sogar ganz am Computer gemalt.
+Das Zusammenstellen (Compositing) der verschiedenen Teile der Animation über dem Hintergrund bietet Gelegenheit, noch Spezialeffekte einzufügen.
+Sind alle Einzelteile eingefügt, wird die Szene gerendert und entweder digital gespeichert oder auf Film ausbelichtet.
+Für sich wiederholende Bewegungen oder Abläufe werden Endlosschleifen oder Animationszyklen erstellt.

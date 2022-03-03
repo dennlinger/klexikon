@@ -1,0 +1,25 @@
+Die Zentrifugalkraft (von lateinisch centrum, Mitte und fugere, fliehen), auch Fliehkraft, ist eine Trägheitskraft, die bei Dreh- und Kreisbewegungen auftritt und radial von der Rotationsachse nach außen gerichtet ist.
+In der klassischen Mechanik bezeichnet die Zentrifugalkraft:
+Gemäß dem zweiten newtonschen Gesetz bewirkt sie eine zu ihr proportionale Zentripetalbeschleunigung a = Zp {\displaystyle {\vec {a}}_{\text{Zp}}} , die zum (momentanen) Krümmungsmittelpunkt der Bahn gerichtet ist:
+Sie bildet zusammen mit der Zentripetalkraft ein dynamisches Gleichgewicht.
+Die als d'Alembertsche Trägheitskraft zur Zentripetalbeschleunigung definierte Zentrifugalkraft stimmt in Richtung und Stärke mit der Zentrifugalkraft überein, wie sie als Scheinkraft in einem Bezugssystem mit dem Ursprung im Krümmungsmittelpunkt berechnet wird, und in dem der Körper ruht (siehe unten).
+Ein Beispiel für das dynamische Gleichgewicht von Zentripetalkraft und Zentrifugalkraft ist das Experiment, bei dem z. B. ein Ball der an einem Seil befestigt ist, im Kreis bewegt wird.
+Daher kann die Zentrifugalkraft auch in Abhängigkeit von der Winkelgeschwindigkeit angegeben werden:
+Die Zentrifugalkraft ist wie die Gewichtskraft stets im Schwerpunkt eines Körpers anzusetzen.
+Wie zuvor gezeigt wurde, ist die Zentrifugalkraft bei allen Beispielen als d'Alembertsche Trägheitskraft aufzufassen.
+Scheinkräfte müssen immer dann berücksichtigt werden, wenn man eine Bewegungsgleichung in einem Bezugssystem aufstellt, das selbst gegenüber dem Inertialsystem beschleunigt wird.
+Im rotierenden Bezugssystem der Schleifscheibe wird die Relativbeschleunigung der Teilchen dagegen mit einer Scheinkraft erklärt.
+Möchte man eine analoge Bewegungsgleichung in einem Bezugssystem aufstellen, das kein Inertialsystem ist, müssen Scheinkräfte berücksichtigt werden.
+Die Zentrifugalkraft ist senkrecht zur Winkelgeschwindigkeit  = {\displaystyle { \vec {\omega }}} im Bezugssystem radial nach außen gerichtet.
+Die Zentrifugalkraft ist auf einer Achse, die durch den Ursprung des Bezugssystems geht und in Richtung der Winkelgeschwindigkeit zeigt null, selbst wenn der Ursprung des Bezugssystems eine Kreisbewegung ausführt.
+Nimmt man an, dass als äußere Kraft nur die Zentripetalkraft wirkt, lautet die Bewegungsgleichung im rotierenden Bezugssystem allgemein:
+Während sich die d'Alembertsche Trägheitskraft als negatives Produkt aus Masse und Absolutbeschleunigung im Inertialsystem ergibt, wird hier ein spezielles Bezugssystem vorausgesetzt.
+Die Relativbewegung kann in diesem Fall aber nur durch eine Kombination mehrerer Scheinkräfte interpretiert werden, von denen z. B. auch die Corioliskraft eine radiale Richtung haben kann.
+Die Zentrifugalkraft im rotierenden Bezugssystem ergibt sich aus einer reinen Umrechnung von Koordinaten zwischen einem rotierenden und einem inertialen Bezugssystem.
+Damit ist die Zentrifugalkraft in einem rotierenden Bezugssystem so präsent wie ein zusätzliches Kraftfeld.
+Mit diesem Zentrifugalpotential kann man im rotierenden Bezugssystem genau so rechnen wie mit den üblichen potentiellen Energien im Inertialsystem, die zu den durch Wechselwirkungen verursachten Kraftfeldern (z. B. Gravitation, Coulomb-Kraft) gehören.
+Die Zentrifugalkraft ist stattdessen auf die Rotationsachse des Bezugssystems bezogen, und sie wird mit steigendem Abstand nicht schwächer, sondern stärker.
+Zum Beispiel leistet man Arbeit gegen die Zentrifugalkraft, wenn man einen Körper ausschließlich mit inneren Kräften näher an die Rotationsachse heranführt (z. B. das Halteseil anzieht).
+Da die Zentrifugalkraft proportional zum Abstand von der Achse ist, hat die Oberfläche die Form eines Rotationsparaboloides und deren Querschnitt durch Integration die Gleichung:
+Die Zentrifugalkraft ist für die Konstruktion von Achterbahnen von Bedeutung, bei denen für den menschlichen Körper unangenehme Kräfte möglichst vermieden werden sollen, aber solche, die der Schwerkraft entgegenwirken und somit ein Gefühl der Schwerelosigkeit erzeugen, erwünscht sind.
+Als Folge der Zentrifugalkraft zeigt in einer rotierenden Raumstation ein Lot an jedem Ort von der Rotationsachse weg nach außen.

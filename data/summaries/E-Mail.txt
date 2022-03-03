@@ -1,0 +1,25 @@
+Die (auch das) E-Mail (englisch , kurz Mail; engl. electronic mail für "elektronische Post") ist zum einen ein System zur computerbasierten Verwaltung von briefähnlichen Nachrichten und deren Übertragung über Computernetzwerke, insbesondere über das Internet.
+Zum anderen werden auch die auf diesem elektronischen Weg übertragenen Nachrichten selbst als E-Mails bezeichnet.
+E-Mail ist neben dem World Wide Web ein wichtiger Internetdienst, nicht zuletzt, weil es durch E-Mails möglich ist, Textnachrichten ebenso wie digitale Dokumente (also z. B. Grafiken oder Office-Dokumente) typischerweise in wenigen Sekunden rund um die Erde zu senden.
+Dass die sächliche Form überwiegt, wird dadurch unterstrichen, dass "e-mailen" mit "ein E-Mail versenden" erklärt wird.
+In HTML formatierte Mails werden teils ungewollt und unbewusst durch die Voreinstellung des verwendeten E-Mail-Programms, insbesondere von Microsoft-Programmen, versandt, teils bewusst, um Schriftauszeichnungen verwenden zu können, etwa in E-Mail-Newslettern.
+Je nach Ausführung des verwendeten E-Mail-Programms kann der Absender einer E-Mail eine Zustellbestätigung und/oder eine Lesebestätigung anfordern.
+In der Realität zeigen sich allerdings Grenzen durch technische oder administrative Beschränkungen der Systeme, die die E-Mail übertragen oder empfangen.
+Der praktische Aufwand, eine E-Mail zu verschicken und zu empfangen, ist geringer, da kein Ausdrucken, Kuvertieren, Adressieren, Frankieren und Postkasteneinwerfen beim Absender und kein Briefkastenentleeren und Brieföffnen beim Empfänger nötig ist.
+In der praktischen Handhabung bieten E-Mails ebenso Vorteile gegenüber der Papier-Post.
+E-Mail-Systeme bieten des Weiteren einige praktische Automatismen.
+E-Mails lassen sich auf Wunsch automatisch weiterleiten, entweder zu einer anderen E-Mail-Adresse oder auf anderen Kommunikationskanälen, beispielsweise als SMS oder Fax.
+Auch beim Antworten auf E-Mails zeigen sich praktische Vorteile.
+Wie jedes Kommunikationsmittel muss auch die E-Mail verschiedenen Anforderungen genügen, um als sicheres Kommunikationsmittel gelten zu dürfen.
+Der folgende Unterabschnitt soll dazu möglichst plastisch den recht geringen Sicherheits-Standard einer herkömmlichen E-Mail im Vergleich zu einer Postkarte darstellen.
+Aber auch bei einer verschlüsselten E-Mail ist neben dem Absender und den Empfängern (wie bei einem Brief) zusätzlich die Betreffzeile sowie generell alle Kopfzeilen lesbar.
+E-Mails werden wie Postsachen beim E-Mail-Dienstleister wie bei einem Postamt gelagert.
+Somit sind unverschlüsselte E-Mails wie Postkarten beim E-Mail-Dienstleister lesbar.
+Zudem lassen sich E-Mails anders als normale Papier-Post einfach und automatisch nach nutzbaren Informationen durchsuchen und auswerten.
+Herkömmliche E-Mails besitzen zwar auch den Mechanismus der Annahmebestätigung, aber der Empfänger kann die E-Mail trotzdem lesen, ohne gezwungen zu sein, die Annahme dem Absender gegenüber zu bestätigen.
+Eine E-Mail dagegen passiert auf dem Weg durch das Internet üblicherweise die Rechner verschiedener Unternehmen in verschiedenen Ländern.
+Zusammenfassend kann gesagt werden, dass bei herkömmlichen E-Mails ein noch viel geringerer Sicherheitsstandard als bei einer Postkarte allgemein akzeptiert ist, obwohl kaum ein Mensch daran dächte, mit einer Postkarte persönliche sensible Daten zu versenden.
+Anders als beim Telefonat erhalten Absender und Empfänger von E-Mails automatisch eine schriftliche Dokumentation über den kommunizierten Inhalt.
+Andererseits muss - im Gegensatz zum Telefonat - der Verfasser einer E-Mail damit rechnen, dass seine Äußerungen langfristig beliebig oft nachgelesen werden können und vom Empfänger mit geringstem Aufwand oder gar unbedacht an eine praktisch beliebige Auswahl von Mitlesern weitergeleitet werden können.
+Auch mit einfachen E-Mails können rechtserhebliche Erklärungen abgegeben und Verbindlichkeiten begründet werden.
+Diese allgemeine Rechtsprechung dürfte auch auf E-Mails anwendbar sein.

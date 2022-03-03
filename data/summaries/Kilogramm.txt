@@ -1,0 +1,25 @@
+Die Definition des Kilogramms basiert auf einem zahlenmäßig festgelegten Wert der Planckschen Konstanten und den Definitionen von Meter und Sekunde.
+Da sich eine solche Definition nicht für genaue Messungen eignet, wurden Prototypen hergestellt und im Sinne einer Maßverkörperung als Definition gewählt, die bis zur aktuellen Definition eines Kilogramms über Naturkonstanten gültig war.
+Der Einheitenname des Kilogramms weicht von der Systematik des Internationalen Einheitensystems dadurch ab, dass er mit einem SI-Vorsatz, dem "Kilo", beginnt; deshalb dürfen dezimale Teile und Vielfache des Kilogramms nicht vom Kilogramm ausgehend mit Vorsätzen oder Vorsatzzeichen gebildet werden, stattdessen leitet man sie vom Gramm ab.
+"Das Kilogramm, Einheitenzeichen kg, ist die SI-Einheit der Masse.
+Das zuständige Beratungsgremium des BIPM - Consultative Committee for Mass and Related Quantities (CCM) - legt in einer mise en pratique fest, welche Methoden zur Realisierung des Kilogramms anerkannt sind.
+Dazu wurden aus der neuentwickelten härteren, jedoch auch 5 % dichteren Legierung PtIr10 1878 drei 1-kg-Zylinder KI, KII und KIII hergestellt und am Kilogramme des Archives justiert.
+1883 bestimmte das Komitee für Maß und Gewicht daher KIII zum Internationalen Kilogrammprototyp K {\displaystyle {\mathfrak {K} }} .
+Bis 1884 wurden weitere 40 nun auf 1 Kilogramm +/- 1 Milligramm justierte Kilogrammprototypen hergestellt.
+1889 wurde mit dem entsprechenden formellen Beschluss der 1. Generalkonferenz für Maß und Gewicht auch der Wechsel der Definition des Kilogramms von der Masse des kilogramme definitif zu der des Internationalen Kilogrammprototyps vollzogen.
+Von 1889 bis 2019 bildete der Internationale Kilogrammprototyp (auch das Urkilogramm genannt) das Referenznormal für die Maßeinheit Kilogramm.
+Neben dem Internationalen Kilogrammprototyp verfügt das Internationale Büro für Maß und Gewicht (BIPM) über weitere Referenz- und Arbeitsnormale (= Normal), bei denen es sich um Kopien des Internationalen Kilogrammprototyps handelt und die an diesen angeschlossen sind (Anschluss = Kalibrierung an einem Normal höherer Ordnung).
+Die Referenznormale dienen der Kontrolle (z. B. der Drift), während die Arbeitsnormale dem Anschluss der nationalen Kilogrammprototypen dienten, die ebenfalls Kopien des Internationalen Kilogrammprototyps sind.
+Der mit Massekomparatoren vorgenommene Anschluss der Referenz- und Arbeitsnormale hat eine relative Messunsicherheit von 3*10-9, der der nationalen Kilogrammprototypen eine von 5*10-9. Bis 2003 wurden 84 Kilogrammprototypen in den Werkstätten des BIPM hergestellt, die für interne Zwecke als auch als nationale Kilogrammprototypen dienen.
+Die einzelnen metrologischen Staatsinstitute betrieben ein ähnliches System von Referenz- und Arbeitsnormalen wie das BIPM, hier kommen jedoch Stahl- oder Bronzenormale zum Einsatz, insbesondere auch solche mit größeren und kleineren Nennwerten, in Deutschland als Hauptnormalensätze von einem Milligramm bis fünf Tonnen.
+Wegen der angesprochenen Instabilitäten der Artefakt-basierten Definition wurde für die Sitzung der Generalkonferenz für Maß und Gewicht im November 2018 eine Kilogrammdefinition gesucht, so dass es von einer Fundamentalkonstanten der Physik abgeleitet werden kann.
+Dieses Verfahren diente bis 2018 zur Ermittlung des Wertes der Planck-Konstante basierend auf der bis dahin gültigen Definition des Kilogramms über das Ur-Kilogramm.
+Seit der Festlegung des Wertes der Planckschen Konstante dient eine Watt-Waage zur "Realisierung" der Einheit Kilogramm basierend auf dem festgelegten Wert dieser Konstante.
+Eine alternative Definition des Kilogramms wäre auf Basis des Avogadroprojekts möglich gewesen.
+Nach der Festlegung auf die Definition über die Plancksche Konstante werden die entsprechenden Überlegungen zur Realisierung der neuen Kilogrammdefinition vorgeschlagen.
+Die Avogadro-Konstante - heute für die Definition der Einheit Mol auf einen exakten Wert festgelegt - war bis zum 19. Mai 2019 als Menge der Atome in 12 g Kohlenstoff-12 definiert, also ein experimentell zu bestimmender Wert, der unter anderem von der Einheit Kilogramm abhängig war.
+Ein Kilogramm könnte genauer definiert werden als bisher, indem es als die Masse einer bestimmten Anzahl von Atomen eines bestimmten Isotops festgelegt wird.
+Nach verschiedenen Analysen und der Züchtung von Einkristallen, bei der auch die chemische Reinheit durch mehrfache Anwendung des Zonenschmelzverfahrens nochmals erhöht wurde, wurden am National Measurement Institute NMI-A in Australien daraus zwei 1-kg-Kugeln mit einer maximalen Gestaltabweichung von 30 nm bei ca. 93,7 mm Durchmesser hergestellt.
+Damit wurde die vom Beratenden Komitee für die Masse für eine Neudefinition des Kilogramms verlangte Genauigkeit erreicht.
+Mit der Fixierung des Wertes der Planckschen Konstante ist somit auch die XRCD-Methode zur Realisierung der Einheit Kilogramm geeignet.
+Durch Messung des elektrischen Stroms des Ionenstrahls und der Zeit lässt sich dann die Masse eines Atoms in der Einheit Kilogramm berechnen.

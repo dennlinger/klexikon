@@ -1,0 +1,25 @@
+Bereits 1856 ließ der König von Hannover Gedenkmedaillen mit dem Bild von Gauß und der Inschrift "Mathematicorum Principi" (deutsch: "dem Fürsten der Mathematiker") prägen.
+Eine Anekdote, deren Ursprung auf die Erzählungen von Wolfgang Sartorius von Waltershausen zurückgeht, beschreibt das frühe mathematische Talent des kleinen Carl Friedrich:
+Gauß' Lehrer Büttner erkannte und förderte seine außergewöhnliche mathematische Begabung, indem er (u. a.) ein besonderes Rechenbuch aus Hamburg für ihn beschaffte und, unterstützt von seinem Assistenten Martin Bartels, dafür sorgte, dass Gauß 1788 das Katharineum besuchen konnte.
+Im Alter von 18 Jahren gelang es Gauß als Erstem, die Konstruierbarkeit des regelmäßigen Siebzehnecks zu beweisen, und zwar auf Basis einer rein algebraischen Überlegung - eine sensationelle Entdeckung, denn seit der Antike hatte es auf diesem Gebiet kaum noch Fortschritte gegeben.
+Die Mathematik war hier durch Johann Friedrich Pfaff - der sein Doktorvater wurde - vertreten, und nicht zuletzt legte Gauß' Gönner, der Herzog von Braunschweig, Wert darauf, dass Gauß nicht an einer ausländischen Universität promoviert werden sollte.
+Nach seiner Promotion lebte Gauß in Braunschweig von dem kleinen Gehalt, das ihm der Herzog zahlte, und arbeitete an seinem Werk Disquisitiones Arithmeticae.
+Zwei seiner bedeutendsten Schüler, Bernhard Riemann (der bei Gauß 1851 promoviert wurde und Gauß 1854 mit seinem Habilitationsvortrag über die Grundlagen der riemannschen Geometrie stark beeindruckte) und Richard Dedekind, hatte er erst gegen Ende seiner Laufbahn.
+Gauß misstraute bereits mit zwölf Jahren der Beweisführung in der elementaren Geometrie und ahnte mit sechzehn Jahren, dass es neben der euklidischen noch eine andere, nicht-euklidische Geometrie geben müsse.
+Auf dieser Basis untersuchte er später Theorien zur Berechnung von Flächeninhalten unter Kurven (numerische Integration), die ihn zur gaußschen Glockenkurve gelangen ließen.
+Diese Arbeiten stehen in Zusammenhang mit seiner Untersuchung des arithmetisch-geometrischen Mittels.
+Gauß erfasste früh den Nutzen komplexer Zahlen, so in seiner Doktorarbeit von 1799, die einen Beweis des Fundamentalsatzes der Algebra enthält.
+Gauß kannte spätestens 1811 die geometrische Darstellung komplexer Zahlen in einer Zahlenebene (gaußsche Zahlenebene), die schon Jean-Robert Argand 1806 und Caspar Wessel 1797 gefunden hatten.
+Dies war aber nur ein Nebenergebnis bei der Arbeit für sein zahlentheoretisch viel weiterreichendes Werk Disquisitiones Arithmeticae.
+Die 1801 erschienenen Disquisitiones wurden grundlegend für die weitere Entwicklung der Zahlentheorie, zu der einer seiner Hauptbeiträge der Beweis des quadratischen Reziprozitätsgesetzes war, das die Lösbarkeit von quadratischen Gleichungen "mod p" beschreibt und für das er im Laufe seines Lebens fast ein Dutzend verschiedene Beweise fand.
+Das Gleiche gilt für die beiden Arbeiten über biquadratische Reziprozitätsgesetze von 1825 und 1831, in denen er die gaußschen Zahlen einführt (ganzzahliges Gitter in komplexer Zahlenebene).
+Andre Weil regte die Lektüre dieser Arbeiten (und einiger Stellen im Tagebuch, wo es in versteckter Form um Lösung von Gleichungen über endlichen Körpern geht) nach seinen eigenen Angaben zu seinen Arbeiten über die Weil-Vermutungen an.
+Gauß lobte ihre Arbeit und ihr tiefes Verständnis der Zahlentheorie und bat sie, ihm für sein Preisgeld, das er mit dem Lalande-Preis erhielt, 1810 in Paris eine genaue Pendeluhr zu besorgen.
+Nach der Fertigstellung der Disquisitiones wandte sich Gauß der Astronomie zu.
+Der 24-jährige Gauß schaffte es, die Bahn mit Hilfe einer neuen indirekten Methode der Bahnbestimmung und seiner Ausgleichsrechnungen auf Basis der Methode der kleinsten Quadrate so zu berechnen, dass Franz Xaver von Zach ihn am 7. Dezember 1801 und - bestätigt - am 31. Dezember 1801 wiederfinden konnte.
+Diese Arbeiten, die Gauß noch vor seiner Ernennung zum Sternwarten-Direktor in Göttingen unternahm, machten ihn mehr noch als seine Zahlentheorie in Europa mit einem Schlag bekannt und verschafften ihm unter anderem eine Einladung an die Akademie nach Sankt Petersburg, deren Mitglied er 1802 wurde.
+In diesen Jahren beschäftigte er sich - angeregt durch die Geodäsie und die Karten-Theorie - mit der Theorie der Differentialgeometrie der Flächen, führte unter anderem die gaußsche Krümmung ein und bewies sein Theorema egregium.
+Zusammen mit Wilhelm Eduard Weber arbeitete er ab 1831 auf dem Gebiet des Magnetismus.
+Gauß erfand mit Weber das Magnetometer und verband so 1833 seine Sternwarte mit dem physikalischen Institut.
+Gauß arbeitete auf vielen Gebieten, veröffentlichte seine Ergebnisse jedoch erst, wenn eine Theorie seiner Meinung nach vollständig war.
+Von Gauß entwickelte Methoden oder Ideen, die seinen Namen tragen, sind:

@@ -1,0 +1,25 @@
+Licht ist eine Form der elektromagnetischen Strahlung.
+Die physikalischen Eigenschaften des Lichts werden durch verschiedene Modelle beschrieben:
+In der Strahlenoptik wird die geradlinige Ausbreitung des Lichts durch "Lichtstrahlen" veranschaulicht; in der Wellenoptik wird die Wellennatur des Lichts betont, wodurch auch Beugungs- und Interferenzerscheinungen erklärt werden können.
+Trifft Licht auf Materie, so kann es gestreut, reflektiert, gebrochen und verlangsamt oder absorbiert werden.
+Licht ist der für das menschliche Auge adäquate Sinnesreiz.
+Dabei wird die Intensität des Lichts als Helligkeit wahrgenommen, die spektrale Zusammensetzung als Farbe.
+Damit konnte man zwar die Reflexion verstehen, nicht jedoch manche andere optische Phänomene, wie die Beugung, bei der es sich eindeutig um ein Wellenphänomen handelt.
+Andererseits schien unter anderem der Photoeffekt der Wellennatur des Lichts zu widersprechen.
+Im engeren Sinne ist "Licht" nur der für das menschliche Auge sichtbare Teil des elektromagnetischen Spektrums, also Wellenlängen zwischen ca. 380 und 780 nm.
+Darauf beruht unter anderem die Fähigkeit eines Prismas, das Licht in seine spektralen Anteile zu zerlegen.
+Die Strahlenoptik (auch geometrische Optik) macht sich die Näherung zunutze, dass die Ausbreitung des Lichts durch gerade "Strahlen" veranschaulicht werden kann.
+Diese Näherung ist vor allem dann gerechtfertigt, wenn die Abmessungen der Versuchsanordnung groß gegenüber der Wellenlänge des Lichts sind.
+Das Bindeglied zwischen Wellenoptik und Strahlenoptik ist der Wellenvektor, dessen Richtung mit der Richtung des Lichtstrahls übereinstimmt.
+Die Strahlenoptik ist besonders gut geeignet, Phänomene wie Licht und Schatten, Reflexion oder Brechung zu beschreiben.
+Der einfallende und der ausfallende Strahl sowie das Lot auf der reflektierenden Fläche liegen in einer Ebene.
+Der Reflexionsgrad gibt an, wie viel Prozent des auf eine Fläche fallenden Lichtstroms reflektiert werden.
+Licht wird an der Grenzfläche zwischen zwei Medien unterschiedlicher optischer Dichte gebrochen, d. h., ein Strahl ändert an dieser Grenzfläche seine Richtung.
+Demnach setzt sich das Licht aus einzelnen diskreten Energiequanten zusammen, den sogenannten Photonen.
+Das Photon hat einen Impuls von
+wobei  {\displaystyle \lambda } die Wellenlänge des Lichts ist.
+gibt es noch zahlreiche weitere Wechselwirkungen zwischen Licht und Materie.
+Lichtintensität wird als Helligkeit empfunden.
+Trennt man weißes Licht (durch ein Prisma) auf, so erscheinen die Wellenlängen als Farben des Regenbogens.
+Sowohl bei den Stäbchen als auch bei den Zapfen beruht der Sehvorgang auf der Absorption von Photonen durch das Sehpigment (im Falle der Stäbchen: Rhodopsin).
+Außerdem können sie die Polarisationsrichtung des Lichts wahrnehmen.

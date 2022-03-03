@@ -1,0 +1,25 @@
+Die Grundrechenarten (auch Grundrechnungsarten oder schlicht Rechenarten genannt) sind die vier mathematischen Operationen Addition, Subtraktion, Multiplikation und Division.
+Von den vier Grundrechenarten werden in der Arithmetik die Addition und die Multiplikation als Grundoperationen und die Subtraktion und die Division als abgeleitete Operationen angesehen.
+Die Addition ist der Vorgang des Zusammenzählens zweier (oder mehrerer) Zahlen.
+Die Subtraktion ist der Vorgang des Abziehens einer Zahl von einer anderen Zahl.
+Das Ergebnis der Subtraktion zweier natürlicher Zahlen ist jedoch nur dann wieder eine natürliche Zahl, wenn der Minuend größer als der Subtrahend ist.
+Um die Subtraktion uneingeschränkt durchführen zu können, wird daher der Zahlbereich auf die ganzen Zahlen erweitert.
+Die Subtraktion großer Zahlen kann per Hand mit Hilfe der schriftlichen Subtraktion durchgeführt werden.
+Die Multiplikation ist der Vorgang des Malnehmens zweier (oder mehrerer) Zahlen.
+Die Multiplikation großer Zahlen kann per Hand mit Hilfe der schriftlichen Multiplikation durchgeführt werden.
+Unterrichtsinhalte sind auch das kleine Einmaleins, die Division mit Rest, das Lösen einfacher Gleichungen und der Dreisatz.
+Für die Addition und die Multiplikation gelten die Kommutativgesetze
+Bei der Addition oder der Multiplikation mehrerer Zahlen ist es also unerheblich, in welcher Reihenfolge die Teilsummen oder Teilprodukte gebildet werden.
+Weitere Rechenregeln, wie Punkt vor Strich, die Klammerregeln und die Gesetze der Bruchrechnung, finden sich in der Formelsammlung Arithmetik.
+In der Arithmetik betrachtet man Addition und Multiplikation als Grundoperationen.
+Dabei wird die Addition natürlicher Zahlen als wiederholte Ermittlung des Nachfolgers eines Summanden und die Multiplikation natürlicher Zahlen als wiederholte Addition eines Faktors mit sich selbst angesehen.
+Subtraktion und Division führt man als abgeleitete mathematische Operationen der Grundoperationen ein.
+Zur Subtraktion und Division gelangt man über die Frage nach der Lösung elementarer Gleichungen der Form
+Um diese Gleichungen zu lösen, wird eine Umkehroperation zur Addition benötigt, nämlich die Subtraktion, und ebenso eine Umkehroperation der Multiplikation, nämlich die Division:
+Die Subtraktion einer Zahl a {\displaystyle a} wird nun als Addition mit der Gegenzahl - a {\displaystyle -a} definiert und die Division durch eine Zahl a {\displaystyle a} als Multiplikation mit dem Kehrwert 1 a {\displaystyle {\tfrac {1}{a} }} :
+Die Gegenzahl und der Kehrwert einer Zahl werden als die inversen Zahlen bezüglich der Addition und der Multiplikation bezeichnet.
+Auf diese Weise lassen sich die Rechenregeln für die Addition und Multiplikation auch auf die Subtraktion und Division übertragen.
+In der Algebra werden diese zunächst für die Arithmetik geschaffenen Konzepte abstrahiert, um sie auf andere mathematische Objekte übertragen zu können.
+Eine algebraische Struktur besteht dann aus einer Trägermenge (hier einer Zahlenmenge), sowie ein oder mehreren Verknüpfungen auf dieser Menge (hier die arithmetischen Operationen), die nicht aus ihr herausführen.
+Die Multiplikation und die Division waren jedoch keine eigenständigen arithmetischen Operationen.
+Welche arithmetischen Operationen zu den Grundrechenarten gezählt werden, hat sich im Lauf der Zeit stark gewandelt.

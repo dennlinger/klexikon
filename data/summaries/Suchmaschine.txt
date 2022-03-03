@@ -1,0 +1,25 @@
+Eine Suchmaschine ist ein Programm zur Recherche von Dokumenten, die in einem Computer oder einem Computernetzwerk wie z. B. dem World Wide Web gespeichert sind.
+Nach Erstellung einer Suchanfrage, oftmals durch Texteingabe eines Suchbegriffs, liefert eine Suchmaschine eine Liste von Verweisen auf möglicherweise relevante Dokumente, meistens dargestellt mit Titel und einem kurzen Auszug des jeweiligen Dokuments.
+Dabei können verschiedene Suchverfahren Anwendung finden.
+Die wesentlichen Bestandteile bzw. Aufgabenbereiche einer Suchmaschine sind:
+Suchmaschinen sind Metamedien, die gezielt Inhalte anderer Medien auffinden und abgreifen.
+Verschiedene Suchmaschinen können unterschiedliche Arten von Daten durchsuchen.
+Weitere spezialisierte Arten von Suchmaschinen sind zum Beispiel Jobsuchmaschinen, Branchensuchen oder Produktsuchmaschinen.
+Alternativ kann sich eine Suchmaschine darauf beschränken, von Anfang an nur passende Dokumente aufzunehmen.
+Ein anderes Merkmal zur Kategorisierung ist die Quelle, aus der die von der Suchmaschine erfassten Daten stammen.
+Dieser Abschnitt beschreibt Unterschiede in der Realisierung des Betriebs der Suchmaschine.
+Die Suchanfrage eines Nutzers wird vor der eigentlichen Suche interpretiert und in eine für den intern verwendeten Suchalgorithmus verständliche Form gebracht.
+Dadurch lassen sich Webseiten finden, die bestimmte Begriffe enthalten, andere jedoch nicht.
+Eine neuere Entwicklung ist die Fähigkeit von etlichen Suchmaschinen, implizit vorhandene Informationen aus dem Zusammenhang der Suchanfrage selbst zu erschließen und zusätzlich auszuwerten.
+Die bei unvollständigen Suchanfragen typischerweise vorhandenen Mehrdeutigkeiten der Suchanfrage können so reduziert, und die Relevanz der Suchergebnisse (das heißt, die Übereinstimmung mit den bewussten oder unbewussten Erwartungen des/der Suchenden) erhöht werden.
+Die Ergebnismenge wird so um Treffer auf semantisch verwandte, in der Anfrage jedoch nicht explizit eingegebene Suchbegriffe, erweitert.
+Dies führt in der Regel nicht nur zu einer quantitativen, sondern, vor allem bei unvollständigen Anfragen und nicht optimal gewählten Suchbegriffen, auch zu einer qualitativen Verbesserung (der Relevanz) der Ergebnisse, weil die in diesen Fällen eher unscharf durch die Suchbegriffe abgebildeten Suchintentionen durch die von den Suchmaschinen verwendeten statistischen Verfahren in der Praxis erstaunlich gut wiedergegeben werden.
+Unsichtbar mitgegebene Informationen (Ortsangaben, und andere Informationen, im Fall von Anfragen aus dem Mobilfunknetz) oder erschlossene 'Bedeutungsvorlieben' aus der gespeicherten Suchhistorie des Benutzers sind weitere Beispiele für nicht explizit in den eingegebenen Suchbegriffen vorgegebene, von etlichen Suchmaschinen zur Modifikation und Verbesserung der Ergebnisse verwendete Informationen.
+Eine bislang noch nur ansatzweise oder auf beschränkte Informationsgrundlagen realisierbare Fähigkeit von Suchmaschinen ist die Fähigkeit zur Bearbeitung natürlichsprachiger sowie unscharfer Suchanfragen.
+Umgekehrt sollte die Suchmaschine nicht zu stur auf dem eingegebenen Begriff bestehen.
+Websuchmaschinen haben ihren Ursprung in Information-Retrieval-Systemen.
+Die Datenbeschaffung erfolgt durch den Webcrawler der jeweiligen Suchmaschine wie bspw. Googlebot.
+Suchanfragen lassen sich auf verschiedene Art kategorisieren.
+Die Seite, auf der die Suchergebnisse dem Benutzer ausgegeben werden (manchmal auch als Search engine results page, kurz: SERP, bezeichnet), gliedert sich (häufig auch räumlich) bei vielen Websuchmaschinen in die Natural Listings und die Sponsorenlinks.
+Einige Anbieter zeigen dem Nutzer, neben den eigentlichen Suchergebnissen, weitere zur Suche passende Schlagwörter an.
+Um dem Anwender die Benutzung der Websuchmaschinen zu erleichtern, werden Ergebnisse nach Relevanz (Hauptartikel: Suchmaschinenranking) sortiert, wofür jede Suchmaschine ihre eigenen, meistens geheim gehaltenen Kriterien heranzieht.

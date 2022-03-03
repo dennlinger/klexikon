@@ -1,0 +1,25 @@
+Ein Flaschenzug ist eine Maschine, die den Betrag der aufzubringenden Kraft z. B. zum Bewegen von Lasten verringert.
+Der Flaschenzug besteht aus festen und losen Rollen und einem Seil.
+Bei komplizierten Flaschenzügen sind die Rollen mittels "Scheren" zum Block zusammengefasst.
+Ein Flaschenzug besteht aus mindestens einer losen Rolle (Scheibe) sowie einem Seil.
+In B ist ein einfacher Flaschenzug dargestellt, bei dem das Seil am oberen Balken befestigt ist und das Gewicht an einer Rolle in der Seilschlaufe hängt.
+Wird hier das Seil um die gleiche Länge wie in A gezogen, so hebt sich das Gewicht nur um die Hälfte an.
+Die Art und Weise, wie das Seil über die Rollen geführt und einfädelt wird, bezeichnet man als Einscherung.
+Das Seil jeder Rolle ist an der Stütze und der nächsten Rolle befestigt.
+Während auf die untere lose Rolle noch die volle Gewichtskraft wirkt, wird diese beim unteren Seil schon halbiert, sodass an der oberen losen Rolle nur noch die halbe Kraft angreift.
+Am Seil der letzten Rolle wirkt schließlich die Zugkraft, die durch eine feste Rolle nach unten umgelenkt wird.
+Der Differenzialflaschenzug besteht aus zwei festen Rollen, die fest miteinander verbunden sind und unterschiedliche Durchmesser haben.
+Die Last hängt an einer losen Rolle.
+Bei diesem Flaschenzugtyp wird ein durchgehendes (d. h. an den Enden verbundenes) Seil verwendet, in dem die Spannung nicht überall gleich ist.
+Das Seil wird von der größeren Rolle zur Last und auf der anderen Seite über die kleinere Rolle zurückgeführt.
+Beim Hochziehen wickelt sich so das Seil auf die größere Rolle auf und von der kleineren Rolle ab.
+Bei einer Umdrehung wird also die Länge der Seilschlaufe, an der das Gewicht hängt, um die Differenz der beiden Rollenumfänge kürzer.
+Wegen der Schlaufe wird das Gewicht nach dem Prinzip des Flaschenzugs aber nur um die Hälfte dieser Strecke angehoben.
+Dieser Umfang entspricht nämlich gerade der Zugstrecke des Seils für eine Umdrehung, auf die die Arbeit dann verteilt wird.
+Da für die Funktion ein (rutsch-)fester Kontakt zwischen Seil und Rollen erforderlich ist, wird bei einem Differenzialflaschenzug statt des Seils auch oft eine Kette und statt der Rolle ein Kettenrad verwendet.
+Der einfache Flaschenzug trägt nun den Kletterer mit drei Seilsträngen, wobei sich das Zuggewicht (FZ) am Zugseil auf 1/3 der Gewichtskraft reduziert.
+Beim Bewegen von Lasten kann es notwendig werden, die Last auf einer Höhe kurzfristig zu sichern bzw. zu fixieren.
+Zum einen gibt es bei einigen Flaschenzügen schon angebaute Rücklaufsicherungen, welche mit Exzenterklemmen das Seil blockieren.
+Einige dieser Klemmvorrichtungen wirken in eine Richtung blockierend und können sich nicht selbsttätig lockern, um beispielsweise ein Absenken der Last zu ermöglichen.
+Somit lässt sich auch aus einiger Entfernung (z. B. von einem Standplatz am Boden) ein Flaschenzug fixieren, lockern und dadurch nochmals absenkend bedienen.
+Auch besitzen das Seil, die beweglichen Umlenkrollen und die untere Aufhängung eine nicht unerhebliche Masse, die sich mit jeder neuen Rolle weiter erhöht.

@@ -1,0 +1,25 @@
+Aus Sicht des Kunden einer Bank ist "Haben" im Kontosaldo ein Guthaben (eine Forderung gegenüber der Bank) und "Soll" im Kontosaldo eine Schuld (eine Verbindlichkeit gegenüber der Bank).
+Als Kontoinhaber gilt, wer Träger von Rechten und Pflichten des einem Bankkonto zugrunde liegenden Girovertrags ist und nach dem erkennbaren Parteiwillen Gläubiger oder Schuldner des Kreditinstituts werden soll.
+Dem Verfügungsberechtigten (oder Kontobevollmächtigten) hingegen wird vom Kontoinhaber eine Bankvollmacht erteilt, wonach er alle Handlungen und Geschäfte im Namen und für Rechnung des Kontoinhabers vornehmen darf, die in unmittelbarem Zusammenhang mit der Kontoführung stehen.
+Damit ist die Kontovollmacht eine rechtsgeschäftlich begründete Vertretungsmacht für den Kontoinhaber.
+Die von dem Bevollmächtigten im Namen des vertretenen Kontoinhabers abgegebenen Willenserklärungen wirken direkt für und gegen den Kontoinhaber als eine Kontoverfügung.
+Ein- und Auszahlungen auf das Bankkonto sind daher in aller Regel auch Akte zur Begründung oder Erfüllung der genannten Schuldverhältnisse oder einzelner Pflichten aus ihnen.
+Im Hinblick auf die Verfügungsbefugnis wird rechtlich zwischen Einzelkonto und Gemeinschaftskonto unterschieden.
+Zu unterscheiden ist dabei zwischen einem Kontoinhaber und einem Verfügungsberechtigten über ein Bankkonto.
+Je nach Gestaltung des Innenverhältnisses handelt es sich beim Und-Konto entweder um eine Gesamthandsgemeinschaft oder um eine Bruchteilsgemeinschaft nach § 741 BGB, wobei die Konteninhaber lediglich zu gemeinschaftlichen Verfügungen nach § 432 BGB befugt sind.
+Unabhängig davon, ob im Innenverhältnis Gesamthandsgemeinschaft oder Bruchteilsgemeinschaft vorliegen, haften alle Kontoinhaber eines Und-Kontos gegenüber dem Kreditinstitut als Gesamtschuldner.
+Wird im Rahmen der Zwangsvollstreckung gegen einen der Kontoinhaber die Kontoforderung gepfändet, hat der andere Kontoinhaber ein Interventionsrecht gemäß § 771 ZPO.
+Beim Oder-Konto besitzt jeder Einzelne der zwei oder mehr Kontoinhaber eine Einzelverfügungsbefugnis.
+Die Kontoinhaber (z. B. Ehegatten) vereinbaren mit der Bank, dass sie unabhängig voneinander über das Konto verfügen dürfen.
+Als Inhaber eines Oder-Kontos sind die Ehegatten Gesamtgläubiger gemäß § 428 BGB mit der Folge, dass im Innenverhältnis zwischen den Ehegatten eine Ausgleichspflicht nach § 430 BGB in Betracht kommt, soweit ein Ehegatte mehr als die Hälfte der Guthaben für sich verwendet hat.
+Die Haftung beider Ehegatten bleibt aber gegenüber der Bank im Außenverhältnis bestehen, die Bank darf den gesamten Schuldsaldo von einem Kontoinhaber einfordern.
+Die Gesamtgläubigerschaft führt dazu, dass im Falle der Pfändung des Kontos im Rahmen der Zwangsvollstreckung gegen einen Kontoinhaber der andere Kontoinhaber keine Drittwiderspruchsklage (§ 771 ZPO) erheben kann.
+Umstritten ist die Frage, ob ein Kontoinhaber eines Oder-Kontos dieses einseitig in ein Und-Konto umwandeln darf.
+Deshalb ist der Kontoinhaber auch Gläubiger der Kontoguthaben, unabhängig davon, durch wen sie eingezahlt oder überwiesen worden sind.
+Das gilt auch für Schuldsalden auf dem Konto.
+Sie sind Schulden des Kontoinhabers, auch wenn sie durch Verfügungen des kontobevollmächtigten Ehegatten oder Belastungen Dritter entstanden sind.
+Ausnahmsweise kann ein Guthaben auf einem Einzelkonto ganz oder teilweise beiden Ehegatten zustehen, wenn
+Ist auf einem Gemeinschaftskonto ein Guthaben vorhanden, so steht dieses Guthaben im Zweifel jedem Ehegatten zur Hälfte zu.
+Als Gesamtgläubiger trifft die Eheleute im Innenverhältnis nach § 430 BGB eine gegenseitige Ausgleichspflicht, unabhängig von ihren bestehenden güterrechtlichen Verhältnissen.
+Beide Ehegatten haften für Sollsalden hälftig, auch dann, wenn ein Ehegatte ohne Zustimmung des anderen einen größeren Betrag bis zum Kreditlimit für sich abgehoben hat.
+Jeder Ehegatte haftet im Innenverhältnis (also die Eheleute untereinander) hälftig für gemeinsame Schuldsalden aus einem Gemeinschaftskonto, unabhängig davon, wodurch und durch wen die Schulden entstanden sind, die Bank darf jedoch einen der Kontoinhaber für den Gesamtbetrag haftbar machen.

@@ -1,0 +1,25 @@
+Software bestimmt, was ein softwaregesteuertes Gerät tut und wie es das tut (in etwa vergleichbar mit einem Manuskript).
+Die Hardware (das Gerät selbst) führt Software aus (arbeitet sie ab) und setzt sie so in die Tat um.
+Software ist die Gesamtheit von Informationen, die man der Hardware hinzufügen muss, damit ein softwaregesteuertes Gerät für ein definiertes Aufgabenspektrum nutzbar wird.
+Das geht u. a. darauf zurück, dass "innerhalb der Softwaretechnik eine einheitliche solide, konsistente und systematische Begriffsbildung durch eine hohe Innovationsgeschwindigkeit und Praxisnähe behindert" wird.:22 Es existieren daher verschiedene Definitionen, die sich je nach Autor und Kontext oft auch nur in Details unterscheiden.
+Außerdem wird Software auch als Gattungsbegriff für unterschiedliche Arten von Programmen verwendet (Grafiksoftware, Anwendungssoftware, Standardsoftware, Sicherheitssoftware u. v. a.).
+Software als Programm
+In der Softwaretechnik besteht Software aus "Computerprogrammen in jeder Erscheinungsform, vom Quelltext bis zum direkt ausführbaren Maschinencode".
+Software als Programm und Dokumentation
+Im Softwarerecht (oft im Zusammenhang mit dem Softwareerwerb) wird Software auch als Softwareprodukt bezeichnet, das "als Beiwerk zusätzlich Bestandteile wie z. B. die Dokumentation in digitaler oder gedruckter Form enthalten kann oder muss".
+Software als Programm, Dokumentation und Daten
+Einige Definitionen nennen neben dem Programm selbst (und evtl. der Dokumentation) auch weitere Daten als zur Software gehörend ("zugehörige Daten").
+Weiterhin gibt es Software-Definitionen, die sämtliche Daten umschließen, die das Computerprogramm nutzt und darüber hinaus auch die Dokumentation einbeziehen.
+Software ist immateriell und besteht aus den Sprachen und Notationen, in denen sie formuliert ist.:37 Software kann zwar auf bestimmten Medien gespeichert, gedruckt, angezeigt oder transportiert werden.
+Es ist zwar vorstellbar, Bits sichtbar und greifbar auf einem Trägermedium zu hinterlegen, doch grundsätzlich ist ,Software' ein abstrakter, von Trägermedien unabhängiger Begriff .
+Das trifft für den Gattungsbegriff ohnehin zu, aber auch für konkrete Ausprägungen wie ein bestimmtes Anwendungsprogramm.
+Jedoch ist die Grenze zwischen Software und Daten fließend, denn je nach Situation können Daten und Programme in unterschiedlichen Rollen auftreten und die Begriffe dabei vertauscht werden:
+Software kann aus vielen unterschiedlichen Gesichtspunkten betrachtet werden, zum Beispiel:
+Obwohl dem Begriff ,Software' teilweise Attribute wie Flexibilität, Individualität, Leistungsfähigkeit etc. zugeschrieben werden, wird letztlich alles, was der Computer ,tatsächlich tut', nicht von der Software, sondern ausschließlich durch die Hardware ausgeführt.
+Dieser wird durch die Softwaretechnik, ein Teilgebiet der Informatik, systematisiert.
+In der Entscheidung zur Anschaffung von Software lässt sich i. W. der Einsatz von Standardsoftware oder die eigene Herstellung (Individualsoftware) unterscheiden.
+Besonders auch in der Softwareentwicklung wird intensiv auf "im Voraus" entwickelte Algorithmen und Codeteile - als Teile eines Programms - zurückgegriffen (,Software-Wiederverwendung').
+Diese entstehen im Verlauf des Herstellungsprozesses von Software und können beispielsweise sein:
+Software nach der Art der Einbettung
+Weitere Softwarebegriffe
+Zwischen den oben genannten Hauptformen der Softwareverbreitung gibt es zahlreiche Zwischen- und Mischstufen.

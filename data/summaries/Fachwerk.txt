@@ -1,0 +1,25 @@
+Ein Fachwerk ist ein Stabwerk, dessen Stäbe alleine durch Normalkraft beansprucht werden und "deren Enden in den Knotenpunkten miteinander verbunden sind".
+Ein Fach ist ein zweidimensionales Vieleck, welches durch Stäbe aufgespannt wird.
+Fachwerke bestehen in der Regel überwiegend aus Dreiecken.
+Reale Fachwerke werden in der Regel mit biegeweichen Stäben ausgeführt, die sich näherungsweise als gelenkige Knoten modellieren lassen.
+Ein Fachwerkträger ist ein gewöhnlich horizontal verlaufendes und im Verhältnis zu seiner Länge schmales und schlankes Tragelement.
+Die Stäbe eines Gitterträgers stehen enger als beim Fachwerkträger, so dass der Eindruck eines Gitters entsteht.
+Konstruktionen aus Fachwerken haben im Allgemeinen im Verhältnis zu anderen üblichen Bauweisen für ihre Tragfähigkeit ein geringes Eigengewicht.
+Dabei handelt es sich um Mischformen aus allgemeinem, biegesteifem Stabwerk und Fachwerk.
+Die Untersuchung der Gebrauchsfähigkeit (Festigkeit und elastische Verformung) von Fachwerken erfolgt mit Hilfe der Festigkeits- und Verformungslehre, die in ihrer Anwendung bei Tragwerken als Baustatik bezeichnet wird.
+Das in der Baustatik übliche Begriffspaar ideales Fachwerk / reales Fachwerk betrifft insbesondere die Annahmen über die Steifigkeit der Knoten.
+So sind z. B. sogenannte Nebenspannungen (zusätzlich zu Normalspannungen) zu ermitteln und für die zulässigen Materialspannungen und für die zulässige Verformung des Fachwerks zu bewerten.
+Ein statisch unterbestimmtes Fachwerk scheidet aus, da es auf seinen Fundamenten oder in sich beweglich wäre.
+Eine Bestimmung kann mit sogenannten Abbau- bzw. Aufbaukriterien (was passiert, wenn ein Stab entfernt oder hinzugefügt wird?) erfolgen.
+Für ebene Fachwerke wird folgende Formel verwendet:
+Beispiel: nebenstehend abgebildetes Fachwerk
+Für räumliche Fachwerke wird folgende Formel verwendet:
+Das Rittersche Schnittverfahren dient zur Berechnung von Stabnormalkräften im Fachwerk.
+Der Cremonaplan dient bei statisch bestimmten Fachwerken der zeichnerischen Bestimmung der Stabkräfte.
+Raumfachwerke unterscheiden sich von räumlichen Stabwerken und Rahmen dadurch, dass sie auch ohne biegefeste Verbindungen der Stäbe untereinander stabil sind.
+Die Räumlichkeit der Fachwerke kann entweder durch Anordnung der Stäbe in mehreren Lagen (Untergurt, Diagonalen, Obergurt), oder/und durch Anordnung der Stäbe im Raum erfolgen.
+Im ersten Fall erzeugt man ein ebenes Raumfachwerk, im zweiten Fall ein gestuftes oder gekrümmtes Raumfachwerk, das im Sonderfall (z. B. bei einer Kuppel) auch einlagig sein kann.
+Ein klassisches Beispiel des räumlichen gekrümmten, aber im Prinzip ebenen Fachwerkes ist die geodätische Kuppel.
+Die Verbindung der Stäbe erfolgt im Allgemeinen mit Knotenteilen, die massiv (Kugeln, Zylinder) oder aufgelöst (Scheiben) ausgeführt werden können.
+Die Geometrie der Stabanordnung spielt eine wesentliche Rolle beim Entwurf von Raumfachwerken.
+Trotzdem stellt die Orientierung der Verbindungsknoten ein besonderes Problem dar, um Knotengröße und Fräsarbeit insbesondere bei Freiformflächen mit direkt aufliegender Glaseindeckung zu minimieren.

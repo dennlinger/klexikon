@@ -1,0 +1,25 @@
+Es ermöglicht die Nutzung von Internetdiensten wie WWW, E-Mail, Telnet, SSH, XMPP, MQTT und FTP.
+Der Datenaustausch zwischen den über das Internet verbundenen Rechnern erfolgt über die technisch normierten Internetprotokolle.
+Die Verbreitung des Internets hat zu umfassenden Umwälzungen in vielen Lebensbereichen geführt.
+Mit der gesellschaftlichen Durchdringung des Internets etablierten sich die Bezeichnungen "Internet" und umgangssprachlich "Netz" auch in der Alltagssprache.
+"Netz" bezeichnet aber in der Informatik nicht zwingend das Internet, sondern es gibt auch diverse andere Netzwerk-Infrastrukturen.
+In dem Jahr 1971 betrug die Datenmenge des E-Mail-Verkehrs mehr als die Datenmenge, die mit den anderen Protokollen des Arpanet, nämlich Telnet und FTP, übertragen wurde.
+Mit der Umstellung von den Arpanet-Protokollen auf das Internet Protocol begann sich auch der Name "Internet" durchzusetzen.
+Dort fand das Usenet weite Verbreitung und wurde zeitweise zu der dominanten Anwendung des Internets.
+Mit der Verbesserung der Datenübertragungsraten und der Einführung normierter Protokolle wurde die Nutzung der Internet-Infrastruktur für die Telefonie attraktiv.
+Unter dem Sammelbegriff "Internet der Dinge" wurden Technologien etabliert, die den direkten Anschluss von Geräten, Maschinen, Anlagen, mobilen Systemen usw. an das Internet erlauben.
+Erst mit der kommerziellen Verbreitung der Internet-E-Mail Anfang der 1990er und durchgreifend dann mit dem World Wide Web etablierte sich das Internet seit Mitte der 1990er Jahre zunehmend als Standard für die Verbreitung von Informationen jeder Art.
+Privatpersonen greifen auf das Internet entweder über einen Schmalbandanschluss, zum Beispiel per Modem oder ISDN (siehe auch Internet by Call), oder über einen Breitbandzugang, zum Beispiel mit DSL, Kabelmodem oder UMTS, eines Internetproviders zu.
+Firmen oder staatliche Einrichtungen sind häufig per Standleitung auf Kupfer- oder Glasfaserbasis mit dem Internet verbunden, wobei Techniken wie Kanalbündelung, ATM, SDH oder - immer häufiger - Ethernet in allen Geschwindigkeitsvarianten zum Einsatz kommen.
+Das Internet basiert auf der Internetprotokollfamilie, die die Adressierung und den Datenaustausch zwischen verschiedenen Computern und Netzwerken in Form von offenen Standards regelt.
+Ein großer Vorteil des Internetprotokolls ist, dass die Paketübertragung unabhängig von der Wahl der verwendeten Betriebssysteme und unabhängig von den Netzwerktechniken der Protokollschichten unterhalb von IP geschehen kann, ähnlich wie ein ISO-Container im Güterverkehr nacheinander per Schiff, Bahn und Lastwagen transportiert werden kann, um an sein Ziel zu gelangen.
+So wird also das Erreichen der erwähnten Dienste mit IP-Paketen ermöglicht, durch die den Anwendern erst ein Nutzen aus dem Internet entsteht.
+Im Kernbereich des Internets müssen die IP-Pakete durch ein weit verzweigtes Netz.
+Am Stromverbrauch eines Privathaushaltes ist die Nutzung des Internets zu einem großen Teil beteiligt.
+Aufgrund der stetigen Vergrößerung des Internets auch in den Entwicklungsländern ist mit einem weiteren Anstieg des Verbrauches zu rechnen.
+Dieser Abschnitt behandelt den Zugang zum Internet unter demographischen Aspekten; technische Aspekte werden im Artikel Internetzugang erläutert.
+Die Internationale Fernmeldeunion sowie die World Wide Web Foundation kamen nach Schätzungen aus dem Jahr 2020 zu dem Ergebnis, dass in den Jahren 2019 und 2020 ca. 54 % der Weltbevölkerung einen Zugang zum Internet hatten.
+Vor allem die mobilen Geräte treiben die Nutzung des Internets voran.
+Für den Internetzugang werden in Haushalten auch immer öfter Breitbandverbindungen genutzt, in 77 % aller Haushalte wurden Breitbandverbindungen eingesetzt.
+Das Internet hat eine eigene Art der Schriftlichkeit hervorgebracht.
+Das Internet eignet sich dafür, über zeitliche und räumliche Distanzen hinweg schriftlich zu kommunizieren.

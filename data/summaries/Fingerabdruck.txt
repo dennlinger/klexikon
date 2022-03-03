@@ -1,0 +1,25 @@
+Der Fingerabdruck oder das Daktylogramm (altgr.
+Bisher sind keine zwei Menschen mit dem gleichen Fingerabdruck bekannt, und man geht von der Einzigartigkeit des Fingerabdrucks aus.
+Innerhalb dieser werden verschiedene nach Henry-Klassifizierungssystem bestimmbare Merkmale des Fingerabdrucks unterschieden:
+Anhand dieser Merkmale und ihrer Verteilung innerhalb eines Fingerabdrucks kann eine einzigartige Unterscheidbarkeit gewährleistet werden.
+In der Kriminalistik wird am Tatort geprüft, ob Fingerabdrücke auffindbar sind (Daktyloskopie).
+Gefundene Fingerabdrücke werden mit einer Datenbank abgeglichen, um mögliche Verdächtige zu identifizieren.
+Der Abgleich von Fingerabdrücken mit großen Datenbeständen wurde erst durch das Aufkommen leistungsfähiger Computer und genauer mathematischer Beschreibungen der Eigenschaften eines Fingerabdrucks möglich.
+Die Verwendung von Fingerabdrücken in der Kriminalistik ist zum Teil kontrovers.
+Da Fingerabdrücke in keiner Naturwissenschaft (Biologie, Anthropologie) eine direkte Anwendung finden, wurde die Verwendung von Fingerabdrücken schon früh von der Kriminalistik monopolisiert.
+Deshalb ist die Frage berechtigt, ob der Vergleich von Fingerabdrücken naturwissenschaftlichen Kriterien standhält.
+Im Vergleich zu DNA-Profilen oder Spuren-Analysen mit Gaschromatographie-Geräten, wo die Wahrscheinlichkeit eines Fehlschlusses bekannt ist, gibt es zur Zuverlässigkeit von Fingerabdruck-Vergleichen erst wenige Studien.
+Es sind fehlerhafte Zuordnungen von Fingerabdrücken bekannt geworden.
+Der Anteil falsch-positiver Ergebnisse bei Fingerabdruck-Vergleichen wird in dieser Hinsicht am wichtigsten sein.
+Wie der Daubert-Standard von den Gerichten umgesetzt wird, ist von Bedeutung für den Fingerabdruck als Beweismittel.
+Hersteller von biometrischen Systemen setzen den Fingerabdruck, der zumeist optisch oder elektrisch (z. B. kapazitiv) gelesen wird, ebenfalls zur Identifikation ein, um berechtigte von unberechtigten Nutzern zu unterscheiden.
+Damit bei imitierten Fingerabdrücken der Zugang verweigert wird, können Temperatur- und Pulssensoren in die Erkennungsgeräte integriert werden, die prüfen, ob ein lebender Finger auf das Gerät aufgelegt wurde ("Lebenderkennung"), was jedoch nur begrenzt wirksam ist.
+Da das Erfassen des Fingerabdrucks an eine hoheitliche Maßnahme erinnert, ist dieses System nicht bei allen Nutzern beliebt, weshalb oft alternative biometrische Erkennungssysteme zum Einsatz kommen.
+Aus dem vom Fingerabdruckscanner gelieferten Bild werden für jeden Fingerabdruck spezifische Daten gesammelt, die zum Einlernen oder späteren Vergleich mit bestehenden Fingerabdruckdaten ausreichen.
+Die Sicherheit von Fingerabdrucksystemen ist relativ gering, da ein Fingerabdruck leicht nachzumachen ist.
+Mit dem biometrischen Fingerabdruckverfahren (Daktyloskopie) werden Fingerabdrücke verglichen, damit Personen eindeutig identifiziert werden können.
+Datenschutzrechtlich handelt es sich bei Fingerabdrücken um biometrische Daten nach Artikel 9 Abs. 1 DSGVO und um besondere Kategorien personenbezogener Daten im Sinne von § 26 Abs. 3 BDSG.
+Seit 2007 werden in Deutschland digitale Fingerabdrücke in Reisepässen gespeichert.
+So spricht man beispielsweise vom "genetischen Fingerabdruck", vom "akustischen Fingerabdruck" oder vom "digitalen Fingerabdruck" bei der elektronischen Unterschrift oder bei der Prüfsumme elektronischer Nachrichten.
+Bei einer Variante lassen sich Fingerabdrücke als Positiv-Bild darstellen.
+Dazu werden die Fingerabdrücke zunächst mit einem Reagenz behandelt, das an die Bestandteile der Fingerabdrücke bindet.

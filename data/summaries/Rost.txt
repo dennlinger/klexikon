@@ -1,0 +1,25 @@
+Als Rost bezeichnet man das Korrosionsprodukt, das aus Eisen oder Stahl durch Oxidation mit Sauerstoff in Gegenwart von Wasser entsteht.
+Rost ist porös und schützt nicht vor weiterer Zersetzung, anders als die Oxidschicht anderer metallischer Werkstoffe wie bei Chrom, Aluminium oder Zink oder beim nur oberflächlich verrosteten Cortenstahl.
+Chemisch gesehen setzt sich Rost allgemein aus Eisen(II)-oxid, Eisen(III)-oxid und Kristallwasser zusammen.
+Zum Korrosionsschutz werden Eisenwerkstoffe mit Schutzschichten überzogen, mit Opferanoden versehen oder auch nachträglich mit Phosphorsäure oder Citronensäure entrostet und dann neu geschützt.
+Wenn dann Wasser und Luft Zutritt zum Stahl erhalten, kann dieser rosten.
+Eisen reagiert mit Wasserstoff-Ionen im Wasser (bei A) zu Eisen-II-Kationen:
+Die negative Aufladung des Metalles und die Grenzschicht aus positiv geladenen Eisenionen über der Eisenoberfläche verhindern im Allgemeinen eine schnelle Umsetzung mit Protonen: Sauerstoff- und luftfreies Wasser greifen das Eisenmetall nicht an.
+Durch Wasserabgabe bildet sich hieraus schwerlösliches Eisen(III)-oxid-hydroxid, das sich auf der Eisenoberfläche bei  ablagert:
+Wenn Eisen mit einem anderen Metall in Berührung kommt, entsteht an der Kontaktstelle ein Lokalelement, das zur Korrosion des unedleren Metalls führt.
+Wasserfreie Oxidationsprodukte, die sich bei hohen Temperaturen auf der Oberfläche von Eisen bilden, werden als Zunder bezeichnet.
+Auch bei anderen Metallen wie Zink, Chrom, Aluminium oder Nickel, die teilweise auch unedler als Eisen sind, oxidieren nur die obersten Atomlagen zu einer kaum sichtbaren Oxidschicht, die das darunterliegende Metall vor weiterer Reaktion mit Sauerstoff abschirmt (siehe auch Passivierung).
+In Gegenwart von Luft und Wasser können jedoch auch Verwitterungs- und Korrosionsvorgänge eintreten, so z. B. bei Kupfer zu Patina.
+Beim Eisen jedoch kommt die Korrosion an der Rost/ Materialgrenzfläche nicht zum Stillstand, weil die elektrische Leitfähigkeit des schon gebildeten (feuchten) Rosts und seine Sauerstoffdurchlässigkeit die weitere Korrosion an der Grenze Rost/Material begünstigen.
+Stark gerostete Metalle können durch Bürsten oder Schleifen von Rost befreit werden.
+Damit die Säure das Metall nicht angreift, muss sie danach mit viel Wasser abgespült werden.
+Ein Beispiel dafür ist die Passivierung: das Überziehen mit solchen unedleren Metallen, die eine stabile Oxidschicht bilden.
+Ein Metall kann ebenfalls durch Galvanisieren, Verzinken oder Verchromen mit einem anderen Metall als Schutzschicht gegen Oxidation versehen werden.
+Beispiel 1: Feuerverzinkung schützt Eisen nachhaltig vor Rostbefall.
+Kommt es zu einer Schädigung der Beschichtung, bilden Zink und Eisen bei Zutritt von Wasser ein Lokalelement (ähnlich einer Batterie).
+Zink als das unedlere Metall korrodiert und bewahrt das Eisen vor Oxidation.
+Das Eisen rostet, möglicherweise verdeckt von der Schutzschicht (siehe Bild der Getränkedose).
+Die Anwesenheit eines edleren Metalls fördert sogar die Oxidation.
+Das Lokalelement aus Eisen und dem edleren Metall verhindert die schützende negative Aufladung des Eisens (siehe oben).
+Beispiel 2: Eisenrohre werden elektrisch mit einer sogenannten Opferanode aus einem unedleren Metall verbunden.
+Wie im ersten Beispiel wird Eisen auf Kosten der Opferanode geschützt, sofern beide über einen Elektrolyten, zum Beispiel feuchtes Erdreich, im Kontakt stehen.

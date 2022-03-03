@@ -1,0 +1,25 @@
+Funktechnik oder Funk ist eine Bezeichnung für die Methode, Signale aller Art mit Hilfe modulierter elektromagnetischer Wellen im Radiofrequenzbereich (Radiowellen) drahtlos zu übertragen.
+Eine Form der drahtgebundenen Nachrichtenübertragung dieser Signale ist die sogenannte Trägerfrequenztechnik.
+Anwendungen in Industrie und Medizin, die Hochfrequenz nur als Werkzeug einsetzen (wie z. B. Härte- und Schmelzöfen oder Therapiegeräte), verwenden dagegen in der Regel unmodulierte Radiowellen ohne aufgeprägte Informationen und werden deshalb nicht der Funktechnik zugeordnet.
+Die ersten Sendeanlagen arbeiteten mit Funkenstrecken - durch die starken, oberwellenreichen Strom- und Spannungsimpulse entstanden hierbei auch die gewünschten Funkwellen.
+Die erste Funkverbindung gelang Guglielmo Marconi 1895 mit einem Knallfunkensender und dem Nachbau eines Empfängers von Alexander Stepanowitsch Popow über eine Entfernung von etwa fünf Kilometern.
+Diese primitive und heute unerwünschte Erzeugung von Funkwellen erlaubte nur Nachrichtenübermittlung durch Morsezeichen, beispielsweise von der Großfunkstelle Nauen zu den Schiffen der kaiserlichen Marine oder zu den Funkstationen in Deutsch-Südwestafrika.
+Die Funktechnik basiert auf der Tatsache, dass man ein Trägersignal (elektromagnetische Welle) - eine zunächst sinusförmige Wechselspannung konstanter Amplitude - mittels einer Modulationsart durch ein Nachrichtensignal gezielt verändern kann.
+Dabei wird beispielsweise die Frequenz oder die Amplitude der Wechselspannung im Rhythmus des Signals geändert.
+Die modulierte Welle wird über eine Antenne abgestrahlt und auf der Empfängerseite durch eine weitere Antenne empfangen.
+Der Vorteil gegenüber konkurrierenden Übertragungsarten ist, dass
+Beim Hörfunk und Fernsehen sendet ein Teilnehmer, der Radio- oder Fernsehsender, und alle anderen Teilnehmer auf diesem Kanal empfangen nur, ohne selbst zu senden.
+Beim Sprechfunk oder beim Morsen senden mehrere Personen abwechselnd auf demselben Kanal (meist einer Frequenz oder einem Frequenzpaar), so dass Kommunikation in beide Richtungen möglich ist.
+Im Gegensatz zur unidirektionalen Übertragung (z. B. Rundfunk) ist so ein Informationsfluss in beiden Richtungen möglich.
+Neben Morsesignalen und Sprache werden auch stehende und bewegte Bilder, zum Beispiel Wettersatellitenbilder oder Fernsehen, und Daten aller Art übertragen.
+In der jüngeren Geschichte der Funktechnik werden häufig direkt von den Geräten Kommunikationsprotokolle wie GSM, UMTS (beides für Mobiltelefone), IEEE 802.11 (drahtloses Computernetzwerk) oder Bluetooth (drahtlose Kommunikation mit digitalen Peripheriegeräten) verwendet.
+Auch bei der Vernetzung verschiedenartiger Geräte wird die batterielose Funktechnik bereits eingesetzt.
+Da sich elektromagnetische Wellen oberhalb etwa 60 MHz physikalisch gesehen quasioptisch ausbreiten, werden Relaisstationen benötigt, wenn um den Erdball (Kugel) gefunkt werden soll.
+Gase (Erdatmosphäre) können den Signalweg beeinträchtigen.
+Dabei kommt es zu einer Vielzahl von Effekten, die von der benutzten Frequenz, der Dichte des Gases, der Ionisation und der Schichtung im Signalweg abhängig ist.
+Eine Übertragung durch flüssige und feste Medien führt zu einer starken Dämpfung des Signals.
+Bei Frequenzen größer als etwa 100 MHz treten zunehmend Störungen durch Reflexionen an Mauerwerk, Metallbauwerken, Drähten oder Türmen auf.
+Es kommt zu teilweiser oder vollständiger Auslöschung gegenphasiger Signalanteile.
+Die Bewegungen von Sende- oder Empfangsantenne oder anderen Objekten im Signalweg können die Übertragung beeinträchtigen (Anwendung beim Passivradar und in Radar-Bewegungsmeldern!).
+Effekte bei der drahtlosen Ausbreitung in der Erdatmosphäre
+Es gibt zahlreiche Anwendungen der Funktechnik, amtlich werden sie in Funkdienste eingeteilt.

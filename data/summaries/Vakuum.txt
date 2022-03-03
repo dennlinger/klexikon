@@ -1,0 +1,25 @@
+Im Vakuum gibt es keine festen Objekte oder Flüssigkeiten, nur extrem wenig Gas und damit auch einen extrem niedrigen Gasdruck.
+Ein technisches Vakuum wird erzeugt, indem man mit einer Pumpe (Gas-)Moleküle aus einem Behälter entfernt; der Druck darin sinkt (Gasdruck entsteht durch Stöße der Gasmoleküle gegen die Behälterwand).
+Sinkt der Druck im Behälter unter 300 mbar und entfernt man weiter und weiter Moleküle aus dem Raum, so erhält man der Reihe nach Grobvakuum, Feinvakuum, Hochvakuum und zuletzt Ultrahochvakuum.
+(Bei der Vakuumverpackung ("Vakuumierung") wird jedoch im Allgemeinen nicht einmal ein Grobvakuum erreicht.) Technik und Experimentalphysik verwenden den Ausdruck ebenfalls in diesem Sinne:
+Vakuum bezeichnet den Zustand eines Gases in einem Volumen bei einem Druck, der deutlich geringer ist als der Atmosphärendruck bei Normalbedingungen.
+Je nach dem herrschenden Restdruck spricht man von Grobvakuum, Feinvakuum, Hoch- oder Ultrahochvakuum.
+Der beobachtete Effekt ist allerdings keine direkte Eigenschaft des Vakuums, sondern vielmehr durch den Druck der umgebenden Luft bedingt.
+Im Inneren der Atome und zwischen ihnen schien also ein Vakuum zu herrschen.
+Nach heutigem Verständnis ist aber wie bereits oben beschrieben auch das Vakuum nicht leer, da selbst der quantenmechanische Grundzustand eine endliche Energiedichte hat, die sich zum Beispiel beim Casimir-Effekt oder spontaner Emission bemerkbar macht.
+Im Bereich des Feinvakuums erreicht die freie Weglänge die typischen Ausmaße von Vakuumgefäßen, sodass die viskose Strömung über die Knudsenströmung in die molekulare Strömung übergeht.
+Die vorherrschende Strömungsart hat nicht nur fundamentalen Einfluss auf die Verwendung des Vakuums, sondern auch auf die Vakuumerzeugung und -messung selbst.
+Vorkommen und Beispiele nach Vakuumqualität:
+Messgeräte zur Bestimmung des Gasdrucks in einem Vakuum nennt man Vakuummeter.
+Die Verringerung von Wärmeströmung durch ein Vakuum findet Anwendung zur Wärmeisolation (Isolierkannen, Dewar-Gefäße, Vakuumdämmplatte).
+Die hohe elektrische Durchschlagsfestigkeit des Hochvakuums wird bei Vakuum-Leistungsschaltern, in Vakuumkondensatoren der Hochleistungselektronik und im Hochspannungsteil evakuierter Röntgenröhren ausgenutzt.
+Auf der Erde kann ein Vakuum erzeugt werden, indem ein abgeschlossener Hohlraum, der Rezipient, vom darin enthaltenen Gas mittels geeigneter Vakuumpumpen befreit wird.
+Da Vakuumapparaturen auch bei dieser Temperatur dem außen vorhandenen Luftsauerstoff widerstehen müssen, sind sie oft aus nichtrostendem Stahl oder Glas, mit Dichtungen aus Aluminium oder Teflon.
+Zum Erreichen des Ultrahochvakuums werden nichtmechanische Pumpen verwendet.
+Sehr oft wird Vakuum bei der Wärmebehandlung von Metallen (Härten, Anlassen, Nitridieren, Aufkohlen) eingesetzt, um ein Oxidieren durch Sauerstoff, der sich in der Luft befindet, zu verhindern.
+Im Innenraum von Elektronenröhren und Bildröhren herrscht Hochvakuum, um die Streuung der Elektronen gering zu halten.
+Es kann sich dabei um ein dauerhaftes Vakuum handeln, das zur Funktion des Werkstücks erforderlich ist, wie bei Elektronenröhren, oder das Evakuieren ist die Voraussetzung für das Einfüllen eines Schutzgases, wie es in der elektrischen Schalttechnik zur Funkenlöschung Verwendung findet.
+Die Entgasung unter Vakuum gehört dagegen als ein sogenanntes Trennverfahren zum Bereich der Verfahrenstechnik.
+Da der Siedepunkt von Flüssigkeiten mit sinkendem Umgebungsdruck auch sinkt, kann man hochsiedende Substanzen im Vakuum schonender bei niedrigeren Temperaturen destillieren (Vakuumdestillation).
+Die verwendeten Vakuumiergeräte können jedoch nur ein Grobvakuum erzeugen.
+Die geringe Wärmeübertragung im Vakuum wird bei Isolierkannen und Dewargefäßen ausgenutzt, ebenso bei Vakuumröhrenkollektoren und selten auch bei Mehrscheiben-Isolierglas und Vakuumdämmplatten.

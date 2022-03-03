@@ -1,0 +1,25 @@
+Bei der Informatik handelt es sich um die Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen, wobei besonders die automatische Verarbeitung mit Digitalrechnern betrachtet wird.
+Um die Bedeutung der Automation oder Mathematik für die Informatik zu betonen, wird Informatik manchmal auch als Kofferwort aus Information und Automatik oder Information und Mathematik ausgegeben.
+Als erste Vorläufer der Informatik jenseits der Mathematik können die Bestrebungen angesehen werden, zwei Arten von Maschinen zu entwickeln: solche, mit deren Hilfe mathematische Berechnungen ausgeführt oder vereinfacht werden können ("Rechenmaschinen"), und solche, mit denen logische Schlüsse gezogen und Argumente überprüft werden können ("Logische Maschinen").
+Die Informatik unterteilt sich in die Teilgebiete der Theoretischen Informatik, der Praktischen Informatik und der Technischen Informatik.
+Die Theoretische Informatik bildet die theoretische Grundlage für die anderen Teilgebiete.
+Sie liefert fundamentale Erkenntnisse für die Entscheidbarkeit von Problemen, für die Einordnung ihrer Komplexität und für die Modellierung von Automaten und Formalen Sprachen.
+Auf diese Erkenntnisse stützen sich Disziplinen der Praktischen und der Technischen Informatik.
+Sie beschäftigen sich mit zentralen Problemen der Informationsverarbeitung und suchen anwendbare Lösungen.
+Die Resultate finden schließlich Verwendung in der Angewandten Informatik.
+Als Rückgrat der Informatik befasst sich das Gebiet der Theoretischen Informatik mit den abstrakten und mathematikorientierten Aspekten der Wissenschaft.
+Automaten sind in der Informatik "gedachte Maschinen", die sich nach bestimmten Regeln verhalten.
+Im Rahmen der Berechenbarkeitstheorie untersucht die theoretische Informatik, welche Probleme mit welchen Maschinen lösbar sind.
+Dieser Bereich beschäftigt sich mit der Theorie, Analyse, Charakterisierung und Implementierung von Programmiersprachen und wird sowohl in der praktischen als auch der theoretischen Informatik aktiv erforscht.
+Die Praktische Informatik entwickelt grundlegende Konzepte und Methoden zur Lösung konkreter Probleme in der realen Welt, beispielsweise der Verwaltung von Daten in Datenstrukturen oder der Entwicklung von Software.
+Einen wichtigen Stellenwert hat dabei die Entwicklung von Algorithmen.
+Eines der zentralen Themen der praktischen Informatik ist die Softwaretechnik (auch Softwareengineering genannt).
+Ein wichtiges Thema der Praktischen Informatik ist der Compilerbau, der auch in der Theoretischen Informatik untersucht wird.
+Die Technische Informatik befasst sich mit den hardwareseitigen Grundlagen der Informatik, wie etwa Mikroprozessortechnik, Rechnerarchitektur, eingebetteten und Echtzeitsystemen, Rechnernetzen samt der zugehörigen systemnahen Software, sowie den hierfür entwickelten Modellierungs- und Bewertungsmethoden.
+Das Forschungsgebiet orientiert sich dabei sowohl an den Anforderungen der Software als auch an den Möglichkeiten, die sich über die Weiterentwicklung von Integrierten Schaltkreisen ergeben.
+Die Technische Informatik hat enge Beziehungen zu anderen Gebieten der Informatik und den Ingenieurwissenschaften.
+Unter dem Sammelbegriff der Angewandten Informatik "fasst man das Anwenden von Methoden der Kerninformatik in anderen Wissenschaften ... zusammen".
+Rund um die Informatik haben sich einige interdisziplinäre Teilgebiete und Forschungsansätze entwickelt, teilweise zu eigenen Wissenschaften.
+Dieses interdisziplinäre Feld beschäftigt sich mit der computergestützten Analyse, Modellierung und Simulation von naturwissenschaftlichen Problemen und Prozessen.
+Mit dem Informatikunterricht, besonders an Schulen, befasst sich die Didaktik der Informatik.
+Die dabei untersuchten Wechselwirkungen der Informatik umfassen die unterschiedlichsten Aspekte.

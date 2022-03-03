@@ -1,0 +1,25 @@
+Die praktische Bedeutung der Energie liegt oft darin, dass ein physikalisches System in dem Maß Wärme abgeben, Arbeit leisten oder Strahlung aussenden kann, in dem seine Energie sich verringert.
+Energie gibt es in verschiedenen Energieformen, die ineinander umgewandelt werden können.
+Beispiele für solche Umwandlungen von Energie sind, dass ein Mensch ein Paket hochhebt oder ein Fahrrad beschleunigt, dass eine Batterie geladen wird, ein Lebewesen Stoffwechsel betreibt oder eine Heizung Wärme abgibt.
+Dies ist heute bekannt als "Energieerhaltung", oder auch "Erster Hauptsatz der Thermodynamik".
+Energie kann in einem System auf unterschiedliche Weise enthalten sein.
+Diese Möglichkeiten werden Energieformen genannt.
+Beispiele für Energieformen sind die kinetische Energie, die chemische Energie, die elektrische Energie oder die potentielle Energie.
+Verschiedene Energieformen können ineinander umgewandelt werden, wobei die Summe der Energiemengen über die verschiedenen Energieformen vor und nach der Energieumwandlung stets die gleiche ist.
+Die meisten Umwandlungen erfolgen nicht vollständig in eine einzige Energieform, sondern es wird ein Teil der Energie in Wärme gewandelt.
+Bei technischen Anwendungen wird häufig eine Reihe von Energieumwandlungen gekoppelt.
+Die Arbeit wandelt Energie zwischen verschiedenen Energieformen um.
+Die potentielle Energie nimmt in Kraftrichtung ab und entgegen der Kraftrichtung zu, senkrecht zur Kraftrichtung ist sie konstant.
+Beim Pendel ist beispielsweise an den Umkehrpunkten die potentielle Energie maximal; die kinetische Energie ist hier null.
+Die Umwandlung thermischer Energie in andere Energieformen wird durch die Thermodynamik beschrieben.
+Hier wird zwischen der im System enthaltenen Energie (innere Energie, Enthalpie) und der Wärme, der über die Systemgrenze transportierten thermischen Energie, unterschieden.
+Die Summe aus thermischer Energie, Schwingungsenergie im Körper und Bindungsenergie bezeichnet man als Innere Energie.
+Dabei wird in manchem Quellen auch zwischen der thermischen inneren Energie, der chemischen inneren Energie und der Kernenergie als innerer Energie unterschieden, was aber den Rahmen der Thermodynamik verlässt.
+Während alle Energieformen unter gewissen Bedingungen (siehe #Energieformen und Energieumwandlung) vollständig in thermische Energie umgewandelt werden können (erster Hauptsatz der Thermodynamik), gilt das in umgekehrter Richtung nicht.
+In der technischen Thermodynamik werden die umwandelbaren Anteile einer Energieform auch als Exergie bezeichnet.
+Bei der Abnahme der Exergie in einer Energie-Umwandlungskette spricht man auch von einer Energieentwertung.
+Man erkennt daraus, dass ein wesentlicher Teil der Energieentwertung nicht im Kondensator oder im nachgeschalteten Kühlturm des Kraftwerkes erfolgt, wo die Abwärme abgeführt wird, sondern bei der Umwandlung der chemischen Energie des Brennstoffes in thermische Energie (Verbrennung) und bei der Wärmeübertragung vom Rauchgas auf den Wasserdampf.
+Deshalb ist das Heizen mit elektrischem Strom über eine Widerstandsheizung "Energieverschwendung".
+Bewegt sich eine Ladung dagegen entlang eines Potentialgefälles in einem Leiter, gibt sie ihre aufgenommene Energie sofort in Form von Wärme an das Leitermedium ab.
+Die Ruheenergie kann bei bestimmten Vorgängen in andere Energieformen umgewandelt werden und umgekehrt.
+Statt von Entropiezunahme kann man anschaulich auch von Energieentwertung sprechen.

@@ -1,0 +1,25 @@
+Ein Computer (englisch; deutsche Aussprache ) oder Rechner ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet.
+Dementsprechend sind vereinzelt auch die abstrahierenden bzw. veralteten, synonym gebrauchten Begriffe Rechenanlage, Datenverarbeitungsanlage oder elektronische Datenverarbeitungsanlage sowie Elektronengehirn anzutreffen.
+Die frühen Computer wurden auch (Groß-)Rechner genannt; ihre Ein- und Ausgabe der Daten war zunächst auf Zahlen beschränkt.
+Zwar verstehen sich moderne Computer auf den Umgang mit weiteren Daten, beispielsweise mit Buchstaben und Tönen.
+Diese Daten werden jedoch innerhalb des Computers in Zahlen umgewandelt und als solche verarbeitet, weshalb ein Computer auch heute eine Rechenmaschine ist.
+Computer sind heute in allen Bereichen des täglichen Lebens vorzufinden, meistens in spezialisierten Varianten, die auf einen vorliegenden Anwendungszweck zugeschnitten sind.
+So dienen integrierte Kleinstcomputer (eingebettetes System) zur Steuerung von Alltagsgeräten wie Waschmaschinen und Videorekordern oder zur Münzprüfung in Warenautomaten; in modernen Automobilen dienen sie beispielsweise zur Anzeige von Fahrdaten und steuern in "Fahrassistenten" diverse Manöver selbst.
+Personal Computer (engl. für Persönliche Computer, als Gegensatz zu von vielen genutzten Großrechnern) dienen der Informationsverarbeitung in Wirtschaft und Behörden sowie bei Privatpersonen; Supercomputer werden eingesetzt, um komplexe Vorgänge zu simulieren, z. B. in der Klimaforschung oder für medizinische Berechnungen.
+Das englische Substantiv computer ist abgeleitet von dem englischen Verb to compute.
+Der englische Begriff computer war ursprünglich eine Berufsbezeichnung für Hilfskräfte, die immer wiederkehrende Berechnungen (z. B. für die Astronomie, für die Geodäsie oder für die Ballistik) im Auftrag von Mathematikern ausführten und damit Tabellen wie z. B. eine Logarithmentafel füllten.
+Ein Rechner ist ein Digitalrechner, wenn er mit digitalen Geräteeinheiten digitale Daten verarbeitet (also Zahlen und Textzeichen); er ist ein Analogrechner, wenn er mit analogen Geräteeinheiten analoge Daten verarbeitet (also kontinuierlich verlaufende elektrische Messgrößen wie Spannung oder Strom).
+Bei einem Digitalrechner werden dabei zwei grundsätzliche Bestandteile unterschieden:
+Die Hardware, die aus den elektronischen, physisch anfassbaren Teilen des Computers gebildet wird, sowie die Software, die die Programmierung des Computers beschreibt.
+Zweitens verfügt das Rechenwerk der Hardware über grundlegende Bausteine für eine freie Programmierung, mit denen jede beliebige Verarbeitungslogik für Daten dargestellt werden kann:
+Erst durch eine Software wird der Digitalcomputer jedoch nützlich.
+Diese Anordnung der Bausteine, die als Programm bezeichnet wird, wird in Form von Daten im Speicher des Computers abgelegt.
+Von dort kann sie von der Hardware ausgelesen und abgearbeitet werden.
+Analogrechner funktionieren nach einem anderen Prinzip.
+Analogrechner wurden früher häufiger zur Simulation von Regelvorgängen eingesetzt (siehe: Regelungstechnik), sind heute aber fast vollständig von Digitalcomputern abgelöst worden.
+In einer Übergangszeit gab es auch Hybridrechner, die einen Analog- mit einem digitalen Computer kombinierten.
+Mögliche Einsatzmöglichkeiten für Computer sind:
+Die ersten Computer wurden auch tatsächlich so programmiert, dass man die Nummern von Befehlen und von bestimmten Speicherzellen so, wie es das Programm erforderte, nacheinander in die einzelnen Speicherzellen schrieb.
+In einem modernen Computer arbeiten sehr viele dieser Programmebenen über- bzw. untereinander.
+Als Computersystem bezeichnet man:
+Für weitere Entwicklungen und Trends, von denen viele noch den Charakter von Schlagwörtern bzw. Hypes haben, siehe Autonomic Computing (= Rechnerautonomie), Grid Computing, Cloud Computing, Pervasive Computing, ubiquitäres Computing (= Rechnerallgegenwart) und Wearable Computing.

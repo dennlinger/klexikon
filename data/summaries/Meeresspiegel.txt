@@ -1,0 +1,25 @@
+Der Meeresspiegel ist das Höhenniveau der Meeresoberfläche.
+Von einem langjährigen mittleren Meeresspiegel ist der momentane Meeresspiegel zu unterscheiden, der von Gezeiten, Wind und Wellen, Strömungen und Salzgehalt beeinflusst wird.
+In der Geodäsie dient oft ein mittlerer Wasserspiegel (MW) als Nullniveau für Höhenangaben (Meereshöhen).
+Dazu werden die an Küstenpegeln (Mareografen) gemessenen Wasserstände über Jahrzehnte hinweg gemittelt, sodass jahreszeitliche Effekte und die Gezeiten praktisch eliminiert sind.
+Der mittlere Meeresspiegel entspricht weitgehend dem Geoid und wird auch als Bezugsfläche für ein Geodätisches Erdmodell benutzt.
+Die Abweichungen vom Geoid werden vor allem von Meeresströmungen bewirkt und können einige Dezimeter erreichen.
+An den meisten Orten schwankt der Meeresspiegel im Verlaufe des Tages durch die Gezeiten.
+Hochwasser (als höchster Punkt der Flut) herrscht in dem Meeresgebiet, über dem der Mond steht, und auf der genau gegenüberliegenden Seite, während das Niedrigwasser dazwischen auftritt.
+Während der Gezeitenhub auf dem freien Meer höchstens +/- 0,5 Meter ausmacht, ist er in Küstennähe aufgrund von Staueffekten oft merklich größer (Werte von mehreren Metern lassen sich durch Gezeitenkraftwerke nutzen).
+Durch die gezeitenbedingten Wasserstandsunterschiede und die damit verbundenen Verschiebungen riesiger Wassermassen entstehen in flachen Gewässern, an Kaps und an Engstellen zwischen Inseln starke Strömungen (siehe Gezeitenstrom).
+Wind über größere Distanzen (Fetch) erzeugt durch kontinuierliche Adhäsion an der Wasseroberfläche am ferneren Ende einer Wasserfläche eine Hebung des Wasserspiegels.
+Dabei bewegt sich Oberflächenwasser langsam in Windrichtung (Driftstrom).
+An Engstellen, beispielsweise zwischen Inseln, werden sowohl die Wasserstandsunterschiede als auch die Strömung verstärkt.
+Sie sind die Ursachen der meisten Meeresströmungen.
+Die geometrische Höhe der Wasseroberfläche (die als annähernd ellipsoidisch betrachtet werden kann) hängt auch von der Dichteverteilung im Erdinneren ab:
+Der Wasserspiegel passt sich also dem lokalen Gravitationspotential der Erde an.
+Ursachen für den Anstieg sind abtauende Gletscher sowie die thermische Ausdehnung des Meerwassers.
+Auswertungen von Pegelmessungen und Messungen mittels Satellitenaltimetrie mit Hilfe von TOPEX/ Poseidon haben ergeben, dass der Meeresspiegel im globalen Mittel im Verlauf des 20. Jahrhunderts um 17 cm angestiegen ist.
+Von einem langfristigen Anstieg wären besonders tief liegende Küstengebiete und -städte sowie Inseln betroffen.
+Nach Bretterbauer gibt es daher auch Regionen mit sinkendem Meeresspiegel.
+Mittel- bis langzyklische Schwankungen des globalen mittleren Meeresspiegels in Größenordnungen von mehreren zehner bis wenigen hundert Metern sind erdgeschichtliche Normalität.
+Diese werden als eustatische Meeresspiegelschwankungen bezeichnet.
+Neben den für den aktuell gemessenen eustatischen Meeresspiegelanstieg verantwortlich gemachten klimatischen Faktoren spielen in geologischen Zeiträumen auch die Geodynamik (speziell Schwankungen in der Ozeanbodenspreizungsrate) und, sowohl klimatisch als auch geodynamisch beeinflusst, isostatische Vertikalbewegungen der ozeanischen Erdkruste eine Rolle.
+In geologischem Kontext, das heißt vor allem hinsichtlich des Einflusses des Meeresspiegels auf Sedimentation und Erosion, wird ein Anstieg des Meeresspiegels bzw. ein landeinwärtiges Wandern der Küstenlinien als Transgression und ein Fallen des Meeresspiegels bzw. ein seewärtiges Wandern der Küstenlinien als Regression bezeichnet.
+Jedoch zeigen regional beobachtete Transgressionen bzw. Regressionen nicht zwangsläufig eine Änderung des eustatischen Meeresspiegels an, denn dass in einer bestimmten Region das Meer vordringt oder zurückweicht kann auch mit einer regionalen Absenkung (Subsidenz) bzw. Hebung ("Uplift") der kontinentalen Erdkruste zusammenhängen.

@@ -1,0 +1,25 @@
+Die gemessene Temperatur kann sich zuweilen erheblich von der gefühlten Temperatur unterscheiden.
+Bringt man zwei Körper mit unterschiedlichen Temperaturen in thermischen Kontakt, findet Wärmeübertragung statt.
+Dadurch nimmt die Temperaturdifferenz so lange ab, bis sich die beiden Temperaturen einander angeglichen haben.
+Wenn die Temperaturen gleich sind, herrscht thermisches Gleichgewicht, in dem kein Wärmeaustausch mehr stattfindet.
+Die mikroskopische Deutung der Temperatur ergibt sich in der statistischen Physik, die davon ausgeht, dass jeder materielle Stoff aus vielen Teilchen zusammengesetzt ist (meist Atome oder Moleküle), die sich in ständiger ungeordneter Bewegung befinden und eine Energie haben, die sich aus kinetischer, potentieller sowie gegebenenfalls auch innerer Anregungsenergie zusammensetzt.
+Eine bestimmte Temperatur, die im ganzen System einheitlich gilt, existiert nur, wenn das System im Zustand des thermischen Gleichgewichts ist.
+Besteht zwischen den Teilsystemen ein thermischer Kontakt, dann strebt das Gesamtsystem durch Wärmeaustausch zwischen den Teilen von selbst dem Zustand des thermischen Gleichgewichts zu.
+In theoretischer Hinsicht wird die Temperatur als grundlegender Begriff dadurch eingeführt, dass zwei beliebige Systeme, die mit einem dritten System im thermischen Gleichgewicht stehen, dann auch untereinander im thermischen Gleichgewicht stehen.
+Diese Tatsache wird auch als Nullter Hauptsatz der Thermodynamik bezeichnet.
+Gleichheit der Temperaturen bedeutet thermisches Gleichgewicht, d. h., es findet auch bei thermischem Kontakt kein Wärmeaustausch statt.
+Nach dem Zweiten Hauptsatz der Thermodynamik gibt es für diese Abwärme eine von den betreffenden Stoffen und Arten der genutzten Prozesse unabhängige untere Schranke, die nur vom Verhältnis beider Temperaturen bestimmt ist.
+Manchmal werden die Größen Temperatur, Wärme und thermische Energie miteinander verwechselt.
+Wärme ist die dabei erfolgte Änderung der inneren Energie abzüglich der eventuell geleisteten Arbeit (siehe Erster Hauptsatz der Thermodynamik).
+Das drückt sich z. B. deutlich in der Temperaturabhängigkeit der spezifischen Wärme aus.
+Stehen zwei Körper unterschiedlicher Temperatur in Wärmekontakt, so wird nach dem nullten Hauptsatz der Thermodynamik solange Energie vom wärmeren zum kälteren Körper übertragen, bis beide die gleiche Temperatur angenommen haben und damit im thermischen Gleichgewicht stehen.
+Dieses hat für das Temperaturempfinden einige Konsequenzen:
+Die formalen Eigenschaften der Temperatur werden in der makroskopischen klassischen Thermodynamik behandelt.
+und daher die der Temperatur:
+Ein System, das makroskopisch im thermischen Gleichgewicht erscheint, also eine einheitliche Temperatur hat, besteht mikroskopisch gesehen aus Teilchen, die nicht alle die gleiche Energie haben.
+Wie eingangs bereits beschrieben, bemisst die Temperatur die über alle Teilchen gemittelte Energie.
+Erhöht man die Temperatur, so gleichen sich die unterschiedlichen Häufigkeiten immer mehr an, im hypothetischen Grenzfall der unendlichen Temperatur wären in jedem Energiezustand die gleiche Anzahl von Teilchen.
+Die Energie aus einem solchen System würde bei Kontakt mit einem Körper beliebiger positiver Temperatur an diesen abfließen.
+Der Abstand zwischen den Fixpunkten wird dann anhand einer temperaturabhängigen Stoff- oder Prozesseigenschaft gleichmäßig aufgeteilt.
+Seit 1924 gilt die Thermodynamische Definition der Temperatur mithilfe des 2. Hauptsatzes, die das Verhältnis zweier Temperaturen aus dem Verhältnis zweier Energien bestimmt.
+Temperaturbeispiele siehe Größenordnung (Temperatur).

@@ -1,0 +1,25 @@
+Insbesondere seine drei Werke zur Astronomie, Geografie und Astrologie galten in Europa bis zur frühen Neuzeit als wissenschaftliche Standardwerke und wichtige Datensammlungen.
+Ptolemäus verfasste die aa uva mathematike syntaxis ("mathematische Zusammenstellung"), später  uva megiste syntaxis ("größte Zusammenstellung"), heute Almagest (abgeleitet vom Arabischen al-maisi) genannte Abhandlung zur Mathematik und Astronomie in 13 Büchern.
+Es enthielt neben einem ausführlichen Sternenkatalog eine detaillierte Ausarbeitung des geozentrischen Weltbilds, die später nach ihm ptolemäisches Weltbild genannt wurde.
+Ptolemäus erwähnt nur zwei Zeitgenossen, einen gewissen Syron, dem er seine astronomischen und astrologischen Werke widmete, und einen gewissen Theon, der ihm Beobachtungen mitteilte.
+Um astronomische Beobachtungen, insbesondere die zeitweise rückwärtige Bewegung der Planeten mit diesem System in Einklang zu bringen, war es allerdings notwendig, alle Himmelskörper auf ihren Bahnen weitere Kreise (Epizykel) um diese Deferenten ziehen zu lassen - siehe Epizykeltheorie - und teilweise noch weitere Bewegungen um die primären Epizykel, oder die Linie der Zentren rotieren zu lassen (Mondtheorie und Merkurtheorie).
+Durch den Einsatz solcher (gegeneinander leicht geneigter) Bahnen konnte Ptolemäus sein Modell mit den damals noch freiäugigen Beobachtungen in Einklang bringen.
+In der Sprache heutiger Mathematik könnte man Ptolemäus' Berechnungsart als empirischen Vorläufer der Fourieranalyse bezeichnen, mit der die sekundären Perioden der Planetenbahnen (u. a. die Mittelpunktsgleichung) empirisch bestimmt wurden.
+Das ptolemäische Weltbild war in der Genauigkeit seiner Bahnvorhersage dem heliozentrischen Weltbild des Nikolaus Kopernikus (16. Jh.) überlegen.
+Ptolemäus' Berechnungsmethoden waren äußerst präzise und in ihrer Grundidee als Berechnungsmethode auch richtig, nicht allerdings in ihrer philosophischen Deutung, dass sich alles um die Erde als Mittelpunkt drehe.
+In neuerer Zeit wurden die Leistungen des Ptolemäus jedoch sehr viel kritischer bewertet.
+So sollen laut Newton fast alle von Ptolemäus angeblich selbst gemachten Beobachtungen fiktiv oder von Hipparchos übernommen sein, dessen Längenangaben nur 2° 40', der Wert der aufgelaufenen Präzession, hinzugefügt wurden (korrekt wären 3° 40' gewesen).
+Diesem vernichtenden Urteil über Ptolemäus hat sich B. L. van der Waerden in seinem 1988 erschienenen Buch Die Astronomie der Griechen angeschlossen.
+Ein weiteres astronomisches Werk des Ptolemäus sind seine "Planetenhypothesen", in dem er die Ergebnisse des Almagest dazu benutzte, Aussagen über die Dimensionen des Universums im Großen zu treffen.
+Zur Anwendung der Mathematik auf astronomische Fragestellungen stammen von ihm die beiden Schriften Analemma und Planisphaerium.
+Astronomisch auch erwähnenswert ist die auf einer Stele erhaltene Kanobusinschrift.
+Seinen chronologischen Angaben bezüglich astronomischer Aufzeichnungen ordnet Ptolemäus Daten des ägyptischen Kalenders zu.
+Andere mathematische Ausführungen wurden in die genannten primär anwendungsorientierten astronomischen Schriften eingearbeitet.
+So stammt von ihm der Satz von Ptolemäus.
+Der Satz von Ptolemäus besagt, dass bei einem Sehnenviereck die Summe aus dem Produkt gegenüberliegender Seitenlängen das Produkt der beiden Diagonalen ergibt.
+Wie auch der Satz des Pythagoras ist der Satz von Ptolemäus umkehrbar.
+Für seine astronomischen Berechnungen im Almagest verwendet Ptolemäus die heute nicht mehr gebräuchliche Winkelfunktion Chord: chord  ( a ) {\displaystyle \operatorname {chord} (\alpha )} ist die Länge der Sehne zum Mittelpunktswinkel a {\displaystyle \alpha } im Einheitskreis.
+Ptolemäus war wie früher schon Aristoteles bekannt, dass die Erde eine Kugel ist; er stellte zu deren Darstellung in einer Blattebene mehrere geeignete Projektionen vor.
+Er befasste sich auch mit den Berechnungen des Erdumfangs von Eratosthenes und Poseidonios.
+Ptolemäus schrieb auch die aus drei Büchern bestehende "Harmonik", das wichtigste erhaltene musiktheoretische Werk der Spätantike nach Aristoxenos und Euklid.
+Darüber hinaus verfasste Ptolemäus das viele Jahrhunderte vorbildlich wirkende vierbändige astrologische Grundlagenwerk Tetrabiblos ("vier Bücher"; griechisch oaa Apotelesmatika lautete vielleicht der von Ptolemäus selbst gegebene Titel des Werkes), das auf seinen astronomischen Schriften basiert und die Grundlagen der Astrologie und die Auswirkungen der Himmelskörper auf die irdische Sphäre und Materie sowie den Menschen darstellt.
