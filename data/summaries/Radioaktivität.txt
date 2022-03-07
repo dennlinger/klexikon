@@ -1,0 +1,25 @@
+Die durch den Prozess ausgestrahlte ionisierende Strahlung wird umgangssprachlich auch "radioaktive Strahlung" genannt.
+Der Umwandlungsprozess wird auch als radioaktiver Zerfall oder Kernzerfall bezeichnet.
+Atomsorten mit instabilen Kernen werden Radionuklide genannt.
+Art und Energiespektrum der Strahlung sind für das jeweilige Radionuklid typisch.
+Nach einer für jedes radioaktive Nuklid charakteristischen Zeit, der Halbwertszeit, hat sich dessen Menge halbiert, somit auch seine Aktivität.
+Radionuklide kommen in der Natur vor.
+Der Begriff "Radioaktiver Zerfall" bezieht sich ursprünglich auf die an einem Radionuklid beobachtete Abnahme seiner Strahlungsintensität mit der Zeit (sofern es nicht durch andere Prozesse ständig neu erzeugt wird).
+So wird von radioaktiver Strahlung gesprochen.
+In Berichten über kerntechnische Zwischenfälle wird oft von ausgetretener Strahlung gesprochen, obwohl es dann meist um unbeabsichtigt freigesetzte radioaktive Stoffe wie Caesium-137 und Iod-131 geht.
+Ist Radioaktivität bei einem Nuklid nicht beobachtet worden, gibt es zwei Möglichkeiten:
+Es gibt noch weitere Nuklide mit möglichem, aber nicht beobachtetem Zerfall.
+Weitere Zerfälle unter Aussendung von Nukleonen folgen hier.
+Ein bekanntes Beispiel ist die Aussendung von Gammastrahlung durch einen Nickel-60-Kern, der (meist) durch Beta-Zerfall eines Cobalt-60-Kerns entstanden ist:
+Bei besonders schweren Kernen jenseits der Ordnungszahl 90 (Thorium) ist die spontane Spaltung ein weiterer radioaktiver Umwandlungsprozess.
+Bei Kernen mit besonders hoher oder besonders niedriger Neutronenzahl kann es zu spontaner Nukleonenemission, d. h. zu Protonen- oder Neutronenemission kommen.
+Statt einzelner Nukleonen oder Helium-4-Kerne werden in sehr seltenen Fällen auch größere Atomkerne emittiert.
+Das Produkt eines Zerfalls kann stabil oder seinerseits radioaktiv sein.
+Im letztgenannten Fall wird eine Abfolge von radioaktiven Zerfällen stattfinden, bis schließlich ein stabiles Nuklid als Endprodukt entstanden ist.
+Diese Aufeinanderfolge radioaktiver Zerfälle heißt Zerfallsreihe oder Zerfallskette.
+Menschlich verursachte Radioaktivität weist meist eine von der natürlichen abweichende Isotopenzusammensetzung auf, denn sie enthält auch kurzlebige, nicht in Zerfallsreihen oder Spallationsprozessen entstehende Radionuklide.
+Weitere Radionuklide entstehen indirekt als ständig nachproduzierte Zerfallsprodukte der radioaktiven Zerfallsreihen dieser primordiale Nuklide, wie das überall aus dem Erdboden austretende Gas Radon.
+Weitere, kosmogene Radionuklide werden laufend in der Atmosphäre durch Kernreaktionen mit der kosmischen Strahlung erzeugt.
+Soweit überhaupt radioaktive Stoffe genutzt werden, sind dies kurzlebige Nuklide in geringen Mengen, wie z. B. in der Positronen-Emissions-Tomographie.
+Bestimmte langlebige Nuklide aus dem radioaktiven Abfall der Kernspaltung könnten künftig durch Transmutation in weniger aufwändig zu lagernde kurzlebigere Nuklide verwandelt werden.
+Zu den Größen und Maßeinheiten, die sich auf die Wirkung ionisierender Strahlung (aus radioaktiven oder anderen Quellen) beziehen, gehören

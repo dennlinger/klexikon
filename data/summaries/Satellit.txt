@@ -1,0 +1,25 @@
+Ein Satellit (von lateinisch satelles "Begleiter, Leibwächter"), früher auch Kunstmond, ist in der Raumfahrt ein künstlicher Raumflugkörper, der einen Himmelskörper auf einer elliptischen oder kreisförmigen Umlaufbahn zur Erfüllung wissenschaftlicher, kommerzieller oder militärischer Zwecke umkreist.
+Künstliche Gerätschaften, welche die Erde umkreisen, werden im deutschen speziell Erdsatellit genannt.
+Künstliche Satelliten, die einen anderen Körper als die Erde umlaufen und erforschen, werden hingegen als Orbiter bezeichnet, wobei beispielsweise ein die Sonne umkreisender Flugkörper bisweilen auch "Sonnensatellit" genannt wird.
+Künstliche Satelliten, die aus einer Parkbahn um die Erde in den interplanetaren Raum gelangen, können sinngemäß als "künstliche Planetoiden" bezeichnet werden, man spricht von Raumsonde.
+Dazu gehören naturgemäß auch diejenigen, die dann als Orbiter am Ziel in eine Umlaufbahn eintreten.
+Man bezeichnet Flugkörper nur dann als Satelliten, wenn sie die Erde im Weltraum umkreisen.
+Einem Satelliten fehlt - auch nach Erreichen seiner Laufbahn - ein Eigenantrieb, was ihn vom Raumschiff unterscheidet.
+Einfache Bremsraketen, die zu einem kontrollierten Absturz führen, reichen im fachsprachlichen Sinne nicht aus, einen Satelliten zum Raumschiff zu machen.
+Je nach Aufgabe des Satelliten unterscheidet man folgende Typen:
+Beobachtungssatelliten sollen möglichst tief fliegen.
+Bei Spionagesatelliten liegt die Bahn manchmal so niedrig, dass die Reibung in der Atmosphäre die Lebensdauer auf wenige Monate beschränkt.
+Im Gegensatz dazu erhalten Kommunikationssatelliten möglichst hohe Bahnen, damit sie weite Gebiete überdecken.
+Nach dem Start des Satelliten muss dessen weiterer Betrieb gewährleistet werden.
+Will man das Gravitationsfeld der Erde verlassen, muss der Satellit auf die Zweite kosmische Geschwindigkeit von etwa 11,2 km/s beschleunigt werden.
+Das kommt daher, dass der Satellit in seiner (nicht zu) hohen Umlaufbahn noch von der Sonne beschienen sein muss, damit man ihn am Boden (wo es schon/noch dunkel ist) vor dem dunklen Himmel überhaupt erkennen kann; mitten in der Nacht fliegt er auch im Schatten und bleibt unsichtbar.
+Zu hoch darf die Umlaufbahn auch nicht sein, da der Satellit dann wegen der Entfernung zu klein wird, um auch bei Bestrahlung noch sichtbar zu werden.
+Erkennbar ist ein Satellit an der hohen Geschwindigkeit, mit der er über den Himmel zieht, er braucht typischerweise nur wenige Minuten für den kompletten Überflug des sichtbaren Himmelsteils.
+Das liegt an mehreren Punkten, die auch für andere Satelliten gelten:
+Einem Erdsatelliten muss beim Start eine so hohe Bahngeschwindigkeit mitgegeben werden, dass seine Zentrifugalkraft (oder auch Radialkraft) mindestens gleich der Gewichtskraft ist.
+Die antriebslose Bewegung eines Satelliten gehorcht genähert den Gesetzen des Zweikörperproblems der Himmelsmechanik - weitere Kräfte bewirken jedoch Bahnstörungen.
+Wäre die Erde eine exakte Kugel ohne Erdatmosphäre und gäbe es keine anderen Himmelskörper, folgte die Satellitenbahn einer mehr oder weniger exzentrischen Ellipse um die Erde gemäß den Keplerschen Gesetzen.
+Die Bahnebenen der Erdsatelliten gehen durch den Erdmittelpunkt und sind näherungsweise raumfest, also gegenüber den Fixsternen unverändert, während die Erde darunter rotiert.
+Abhängig von ihrer Flughöhe werden Satelliten in verschiedene Typen aufgeteilt:
+Durch die Abplattung der Erde sowie die Inhomogenität der Erdoberfläche und des Erdschwerefeldes weichen die Satellitenbahnen von der idealen Ellipsenform um einige Kilometer ab.
+Zusätzlich bewirkt die Erdatmosphäre eine ständige leichte Bremsung der Satelliten, sodass sich Bahnen unter einer Höhe von etwa 1000 km spiralförmig der Erde nähern.

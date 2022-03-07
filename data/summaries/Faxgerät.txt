@@ -1,0 +1,25 @@
+Ein Fax (Kurzform von Telefax, das wiederum von Telefaksimile), auch Fernkopie genannt, ist die Übertragung eines oder mehrerer Dokumente in Form eines in Linien und Pixel gerasterten Bildes über das Telefonnetz oder per Funk (z. B. Wetterfax).
+Als Sender und Empfänger dienen dabei meistens Faxgeräte für analoge Anschlüsse.
+Faxe verschicken und empfangen kann man auch von und zu einem PC mittels einer der folgenden Lösungen:
+Dabei ist jedes Faxdokument eine Bilddatei.
+Zur Faxübertragung werden die Normen G2 oder G3 verwendet (siehe CCITT Recommendation T.4 Standardization of Group 3 Facsimile Apparatus for Document Transmission und T.30-Protokoll).
+Ebenso gehört die Fax-Übermittlung zu einem preiswerten Ausstattungsmerkmal vieler Drucker und Kopierer.
+Im deutschen Verfahrensrecht gewann das Faxgerät an Bedeutung, nachdem Behörden den fristwahrenden Zugang eines Dokuments auch dann anerkannten, wenn der Schriftsatz innerhalb der Frist per Fax übermittelt worden war.
+Eine Vielzahl zivilrechtlicher Erklärungen, so zum Beispiel der Widerruf von Fernabsatzverträgen gemäß § 355 BGB, kann mittlerweile rechtswirksam per Telefax abgegeben werden.
+Programme, mit denen Faxe am PC empfangen und dann betrachtet werden können, sind zum Beispiel:
+Es gibt auch Faxsoftware, die mit TIFF-/FAX- (FAX Type Image, vom Telefax abgeleitet:
+Die relativ einfach zu implementierende MH-Kodierung wird heute noch verwendet, um mit älteren Faxgeräten oder mit Faxsoftware über die CAPI-Schnittstelle zu kommunizieren.
+Bei der Aushandlung der Parameter (englisch negotiation) am Beginn einer Verbindung wird dem Empfänger auch das vom Sender verwendete Papierformat mitgeteilt.
+Der Faxstandard begegnet dieser Tatsache, indem die Übertragung einiger Millimeter der Seitenränder nicht garantiert wird.
+Aufgrund des vermeintlichen Dokumentencharakters von Faxen war das Einstellen der Absendernummer in Faxgeräten in Deutschland bis Ende 1992 ausschließlich den Servicetechnikern des Geräteherstellers vorbehalten und die korrekte Einstellung wurde beim Eintrag in das Faxtelefonbuch überprüft.
+Nach dem Senden eines Fax kann ein Sendebericht ausgedruckt werden.
+Hier wird zusätzlich noch der Inhalt des gesendeten Dokumentes in verkleinerter Form mit ausgedruckt.
+Das T.30-Protokoll ist die Grundlage des G3-Faxstandards, welches die Kommunikation zwischen Faxgeräten, -modems, -karten und -servern ermöglicht.
+Bei der Übermittlung eines Fax werden Daten in Töne umgewandelt.
+Damit sich die Geräte verstehen, legt das Fax-Protokoll fest, wie Sender und Empfänger aufeinander reagieren (Handshake).
+Faxübertragungen können auch über Funk erfolgen.
+Als weitere Entwicklung ist die Integration des Faxgeräts in sogenannte Multifunktionsgeräte zu beobachten, die Scanner-, Drucker-, Fotokopierer- und Faxfunktionalität beinhalten.
+Analogmodems (früher die einzige Faxschnittstelle vom und zum PC) sind ebenfalls in der Regel faxtauglich.
+Faxe werden über einen virtuellen Fax-Druckertreiber aus jedem druckenden Programm heraus gesendet, eingehende Faxe vom Modemtreiber empfangen, teilweise auch in einem Puffer-Speicher des Modems bei ausgeschaltetem PC und stehen nach dem Start des Computers zur Verfügung.
+Für die militärische Nutzung von Faxgeräten bzw. Fernkopierern bedeutet dies, dass die Geräte frei von kompromittierender Abstrahlung sind und mit allen gebräuchlichen taktischen Datenschlüsselgeräten (z. B. Elcrobit 3-1 nach SAVILLE) eingesetzt werden können.
+So nutzte beispielsweise das frühere Amt für Nachrichtenwesen der Bundeswehr (ANBw) bzw. das Zentrum für Nachrichtenwesen der Bundeswehr und die BildSchreibTrupps und BildFunkTrupps ab 1995 das abstrahlsichere Fernkopiergerät vom Typ ANTFAX 10 der Bosch Telecom oder das auch in Dänemark und den Niederlanden eingesetzte Easy Fax 9100 E von Siemens mit V.24/V.28-Schnittstellen.

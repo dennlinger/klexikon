@@ -1,0 +1,25 @@
+Im Eindimensionalen, also auf einer Geraden, gibt es die Symmetrie bzgl. eines einzelnen Punktes sowie die Symmetrie der Translation (Verschiebung).
+Eine zweidimensionale geometrische Figur besitzt dann die Eigenschaft, rotationssymmetrisch zu sein, wenn die Figur einen zentralen Punkt besitzt, und die Figur auf sich selbst abgebildet wird, wenn man sie um diesen Punkt dreht.
+Außerdem sind zwei weitere Figuren dargestellt, und zwar eine ohne und eine mit 2-facher Rotationssymmetrie.
+Weitere Beispiele für 2-fache Rotationssymmetrie sind die weiter unten abgebildeten punktsymmetrischen Figuren.
+Der Punkt, an dem diese Spiegelung erfolgt, wird als Symmetriezentrum bezeichnet.
+In der Mathematik kann man die Symmetrieeigenschaften des Seesterns durch eine Drehgruppe beschreiben.
+Der Punktsymmetrie im Zweidimensionalen entspricht die Achsensymmetrie (Drehsymmetrie um 180°).
+Dreidimensionale Objekte sind rotationssymmetrisch in engeren Sinn, wenn eine Drehung um jeden beliebigen Winkel um eine Achse (die Symmetrieachse) das Objekt auf sich selbst abbildet.
+Diese Art Rotationssymmetrie um eine Achse wird auch als Zylindersymmetrie bezeichnet.
+Ein homogener Würfel besitzt insgesamt 13 Drehachsen (Achsen der Rotationssymmetrie), wie in der nebenstehenden Grafik dargestellt:
+Zählt man die Symmetrieelemente der Rotationssymmetrie des Würfels, so sind es: Das neutrale Element, je 3 für 4-zählige, je 2 für 3-zählige und je eines für 2-zählige Rotationsachsen.
+In der Grafik rechts unten sind vier von neun Spiegelebenen und eine der 13 Rotationsachsen eines homogenen Würfels dargestellt.
+Die Spiegelebenen schneiden sich in der 4-zähligen Rotationsachse.
+Drehspiegelsymmetrie ist die Symmetrie eines Körpers, die sich aus zwei Teiloperationen zusammensetzt.
+Die drei Grafiken zeigen einen Würfel und jeweils eine der Drehspiegelachsen und ihre zugehörigen Drehspiegelebenen.
+Die Drehspiegelebene ist durch die Drehspiegelachse orientiert.
+Liegt der Punkt, den wir verfolgen, auf der Drehspiegelebene, ist seine Bahn ein Quadrat.
+Man beachte, dass die Drehspiegelebene in diesem Fall auch eine Spiegelsymmetrieebene des Würfels ist.
+Interessant ist der in der zweiten Grafik dargestellte Fall einer von vier 6-zähligen Drehspiegelachsen.
+Punkt und Bildpunkt liegen gemeinsam mit dem Symmetriezentrum auf einer Geraden und haben den gleichen Abstand vom Symmetriezentrum.
+Interessant ist auch der Fakt, dass die Drehspiegelungen um alle sechs möglichen 2-zähligen Drehspiegelachsen zum gleichen Symmetrietyp führen.
+Einziger Fixpunkt einer Drehspiegelung ist das Symmetriezentrum, der Mittelpunkt des Würfels, worauf bereits hingewiesen wurde.
+Wie man aus der Grafik erkennt, ist, im Unterschied zum Würfel, die Drehspiegelebene keine Spiegelsymmetrieebene des Tetraeders.
+Wie eingangs erwähnt ist die Punktspiegelung im Zweidimensionalen gleichbedeutend mit einer Drehung um 180° um den Fixpunkt und somit kein eigenes Symmetrieelement.
+Wie im vorangegangenen Abschnitt beschrieben, ist die Punktsymmetrie oder Inversionssymmetrie die Symmetrie eines Körpers bezüglich eines Punkts, des Symmetriezentrums.

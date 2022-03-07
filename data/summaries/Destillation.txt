@@ -1,0 +1,25 @@
+Destillation (lat. destillare "herabtröpfeln, herabtropfen", von stilla "Tropfen") ist ein thermisches Trennverfahren, um verdampfbare Flüssigkeiten zu gewinnen oder Lösungsmittel von schwer verdampfbaren Stoffen abzutrennen und anschließend durch Kondensation aufzufangen.
+Die Destillation hat gegenüber anderen Trennverfahren den Vorteil, dass in der Regel keine weiteren Stoffe wie Adsorbentien oder Lösungsmittel hinzugefügt werden müssen.
+Der entstehende Dampf, der sich aus den verschiedenen flüchtigen Komponenten der zu trennenden Lösung zusammensetzt, wird in einem Kondensator durch Abkühlen wieder verflüssigt.
+Im Anschluss wird das flüssige Kondensat aufgefangen.
+Typische Anwendungen der Destillation sind das Brennen von Alkohol und das Destillieren (die Rektifikation) von Erdöl in der Raffinerie oder auch die Herstellung von destilliertem Wasser.
+Idealerweise soll sich die Flüssigkeit beim Destillieren nicht zersetzen.
+Bei der sogenannten "trockenen Destillation" ist dies anders: dabei werden nicht-verdampfbare feste Stoffe in kleinere Moleküle zerlegt.
+Zwar wird hier eine verdampfbare Flüssigkeit durch Kondensation gewonnen, aber nach der heutigen Theorie liegt hier keine destillative Trennung vor.
+Diese ersten Destillationsvorrichtungen bestanden aus einem Gefäß mit einem Deckel, an dem sich beim Erhitzen das Destillat niederschlug.
+Die oben beschriebene "einfache Destillation" durch Erhitzen und Abkühlen beruht auf der Verdampfung und Kondensation flüchtiger Stoffe.
+Die Trennung von Gemischen verschiedener verdampfbarer und ineinander löslicher Stoffe kann oft durch wiederholte Destillation bewerkstelligt werden.
+Außerdem verarmt die übrig bleibende Flüssigkeit (in der Technik: Destillationssumpf) mit der Zeit an der niedrigsiedenden Komponente, wodurch die waagerechte Linie nach oben verschoben wird.
+Bei der einfachen Destillation wird der Sumpf mithilfe einer geeigneten Wärmequelle (z. B. Heizhaube oder Heizbad) auf die gewünschte Temperatur erhitzt, bei der die Zielkomponente zu sieden beginnt.
+Ein Beispiel für die Anwendung der einfachen Destillation ist die Abtrennung gelöster Verunreinigungen (Salze oder anderer Feststoffe) aus einer Flüssigkeit.
+In der Praxis erreicht man durch den Einbau einer Kolonne zwischen Destillationsblase und Destillenkopf schon durch einmalige Destillation eine deutlich erhöhte Trennleistung.
+An der Oberfläche der Kolonne stellt sich durch Kondensation und Verdampfung das Gleichgewicht zwischen flüssiger und Gasphase ständig neu ein, wodurch nach oben hin der Anteil des niedrigsiedenden Bestandteils immer weiter ansteigt, während die höhersiedende Komponente in die Destillationsblase, den Sumpf, zurückfließt.
+Die großtechnische Umsetzung der wiederholten, kontinuierlichen Destillation bezeichnet man auch als Rektifikation.
+Die einzelnen Destillationstufen finden in einem speziellen Behälter, Rektifikationskolonnen genannt, statt.
+Ein aus mehreren Komponenten bestehendes Gemisch kann durch fraktionierte Destillation getrennt werden.
+Dadurch werden die Siedetemperaturen der einzelnen Komponenten gesenkt, was die Destillation von Stoffgemischen ermöglicht, deren im Sumpf verbleibenden Komponenten nicht ausreichend temperaturstabil sind.
+Großtechnisch wird das "Sumpfprodukt" der atmosphärischen Destillation bei der Erdölraffination anschließend noch einer Vakuumdestillation unterworfen.
+Destillationen im Kugelrohr werden im Labor mit kleinen Substanzmengen durchgeführt.
+Hierbei wird mit einem Stoffzusatz destilliert, der das Produkt "mitschleppt".
+Bekannteste Variante dieser Destillationsart ist die Wasserdampfdestillation.
+Bei der Reaktivdestillation wird die (mehrstufige) Destillation mit einer chemischen Reaktion kombiniert.

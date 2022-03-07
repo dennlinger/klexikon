@@ -1,0 +1,25 @@
+Umgangssprachlich wird mit dem Begriff "Telefon" neben dem Endgerät des Telefonnetzes oft auch das Gesamt-Telefonsystem bezeichnet.
+In Telefonapparaten wird der Schall durch ein Mikrofon in elektrische Signale gewandelt und beim Empfänger wieder als Schallwelle ausgegeben.
+Wichtige Begriffe beim Ausbau des immer engmaschigeren Telefonnetzes sind Vermittlungstechnik und Selbstwählferndienst.
+Schließlich besitzt ein Telefon eine Klingel.
+Früher arbeitete diese elektromagnetisch, durch einen Kondensator von der Telefonnetz-Gleichspannung entkoppelt, direkt an der zur Signalisation bereitgestellten, der Gleichspannung überlagerten Ruf-Wechselspannung von 25 Hz (Deutschland).
+Heute erfolgt die Auswertung dieser bei analogen Telefonanschlüssen auch heute noch verwendeten Rufspannung meist elektronisch.
+Weiterhin enthalten Telefone einen Generator zur Erzeugung der Wählimpulse (Wählscheibe oder elektronisch) beziehungsweise der modulierten Töne des Mehrfrequenzwahlverfahrens (MFV).
+Von der Teilnehmeranschlussleitung gelangt von der Vermittlungsstelle eine Gleichspannung (etwa 60 V) über Widerstände zum Telefon.
+Bevor die Gegenseite das Gespräch annimmt, wird zum anrufenden Telefon ein Tonsignal gesandt (Wählton oder Besetztton, siehe Hörtöne), gleichzeitig wird von der Vermittlungsstelle zum klingelnden Telefon eine der Gleichspannung überlagerte Wechselspannung niedriger Frequenz (in Deutschland 25 Hz) gesandt (Rufspannung).
+Diese Wechselspannung erregte früher direkt ein elektromagnetisches Läutwerk, heute wird sie vom Telefon elektronisch detektiert und kann auch elektronisch erzeugte Klingeltöne steuern.
+Zu Anfang liefen von jedem Telefon zwei Drähte an Telegraphenmasten zu einer Zentralstelle, wo sie auf Glühlampen - oder Klappenschränken abgeschlossen wurden.
+Vor allem durch die Autotelefone und Mobiltelefone werden zunehmend auch kabellose Funkkanäle für die Telefonie benutzt.
+Grundvoraussetzung dafür ist, dass beide Telefonanschlüsse dazu fähig sind.
+Um Fernkommunikation mittels eines Telefons betreiben zu können, bedarf es der Freischaltung in ein Telefonnetz.
+Damit wurde die für das Telefon wichtige Vorbedingung der Übermittlung von Signalen durch elektrische Leitungen bereits in die Praxis umgesetzt.
+Bells Gerät bestand aus einem Wandler, der abwechselnd als Mikrofon und als Fernhörer benutzt wurde.
+Die auf diese Weise in elektrische Signale umgewandelten Schallwellen wurden über eine Drahtverbindung zum Empfängertelefon weitergeleitet.
+Diese Ereignisse kennzeichneten den Beginn der einsatzfähigen Telefonie in Deutschland.
+Mit der Erfindung des Kohlemikrofons 1878 durch David Edward Hughes in Verbindung mit der Verbesserung des Hörers durch Werner von Siemens wurde eine wesentlich lautere Übertragung und damit Gespräche über größere Entfernungen möglich (Demonstration auf der Internationalen Elektrischen Ausstellung 1883.) Für den Aufbau von Telefonverbindungen wurde zunächst die sogenannte Handvermittlung durch das "Fräulein vom Amt" eingesetzt.
+Während beispielsweise die Anrufsignalisierung zunächst über einen elektromechanischen Wecker erfolgte, ist dieser jetzt durch einen elektronischen, meist einstellbaren Signalton ersetzt.
+Darüber hinaus ist das Telefon selbst mittlerweile gelegentlich als Geräteeinheit mit weiteren Endgeräten wie Anrufbeantworter (meist mit Fernabfrage) und Fax-Gerät kombiniert.
+Für spezielle Einsatzgebiete wurden besondere Fernsprechapparate entwickelt: Einbautelefon, Feldtelefon, Grubentelefon (schlagwettergeschützt), Hausnotrufanlagen, Notruftelefone.
+Die weltweit verbreitetste Sonderform ist aber die Telefonzelle bzw. fachlich präziser das Telefonhäuschen, mit fest installiertem Münzfernsprecher.
+In der Regel kann mittels Betätigen eines Rufhebels bzw. Ruftasters nur ein bestimmter Gesprächspartner erreicht werden (Straßenmeisterei, Notrufzentrale usw.).
+Hier eine kleine Aufzählung von Werken, in denen das Telefon eine Art Hauptrolle spielt:

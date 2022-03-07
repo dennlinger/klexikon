@@ -1,0 +1,25 @@
+Ein Magnet (von mittelhochdeutsch magnete, "Magnet, Magneteisenstein") ist ein Körper, der ein magnetisches Feld in seiner Umgebung erzeugt.
+In diesem Feld werden bestimmte andere Körper magnetisch angezogen oder abgestoßen.
+Magnetische Anziehung oder Abstoßung ist ein grundlegendes Naturphänomen - siehe dazu den Artikel Magnetismus.
+Die Richtung und Stärke magnetischer Kräfte kann man durch Feldlinien anschaulich darstellen.
+Ein Magnet besitzt ein Magnetfeld, das durch seine Oberfläche hindurch auch in sein Inneres reicht.
+Die Magnetfeldrichtung ist durch die Kraftwirkung auf einen Probemagneten definiert.
+Zwar haben Experimente monopolähnliche Strukturen in bestimmten Festkörpern nachgewiesen; diese treten aber nur paarweise auf und können zwar als Quellen der Magnetisierung, aber nicht des Magnetfelds selbst angesehen werden (siehe Magnetischer Monopol).
+Auch viele Gesteine haben magnetische Eigenschaften.
+Das Erdmagnetfeld, nach dem sich Kompassnadeln ausrichten, entsteht nur zu einem geringen Teil durch solche magnetisierten Gesteine in der Erdkruste und zum großen Teil durch tiefer liegende Strömungen von elektrisch leitender Materie, also konkreten, makroskopischen Strömen.
+Man unterscheidet folgende Arten des Magnetismus:
+Bevor der Zusammenhang von Magnetismus und Elektrizität bekannt wurde, waren magnetische Phänomene und Nutzungen nur unter Zuhilfenahme natürlicher Magneteisensteine zu beobachten und zu verwenden.
+Grundlegendes zum Magnetismus, z. B. die Kenntnis von der Magneteigenschaft der Erdkugel, trug William Gilbert bei, indem er systematisch und experimentierend vorging, nach seinem Vorschlag konzentrierte man die Kraftlinien an den Polen der Magnetsteine mit kleinen Eisenkappen.
+Dauermagneten (auch Permanentmagneten genannt) behalten nach einer Magnetisierung diese über lange Zeit bei.
+Mit Hilfe eines von einem anderen magnetischen Körper oder durch elektrischen Strom erzeugten Magnetfeldes können ferromagnetische Stoffe vorübergehend (sogenannter induzierter Magnetismus) oder dauerhaft durch Ausrichtung der Weiss-Bezirke selbst zu Magneten werden.
+Auf diese Weise werden übliche Dauermagneten hergestellt.
+Elektromagneten bestehen im Allgemeinen aus einer oder zwei stromdurchflossenen Spulen, meistens mit einem Kern aus einem weichmagnetischen Werkstoff, im einfachsten Fall aus Weicheisen.
+Diese Anordnung führt zu einem starken Magnetfeld, siehe hierzu Elektromagnetismus.
+Als Sonderfall weisen Ablenkspulen beispielsweise in einer Kathodenstrahlröhre keinen Kern auf und wirken so, als Luftspule, ebenfalls als Elektromagnet.
+Ab einer magnetischen Flussdichte von etwa 2 T (Sättigungsfeldstärke) sind die üblichen ferromagnetischen Werkstoffe für den Kern eines Elektromagneten in der Sättigung und können nicht mehr zur Verstärkung des Feldes beitragen.
+Ein Ablenkmagnet ist ein Magnet (fast immer Elektromagnet), der in einem technischen Gerät eingesetzt wird, um einen Strahl aus geladenen Teilchen (z. B. Elektronen) in eine andere Richtung abzulenken.
+In diesem Fall wird auch eine kernlose Spule als Magnet bezeichnet.
+Ablenkmagneten nutzen die Lorentzkraft, die bewegte elektrische Ladungen in einem magnetischen Feld zu einer Richtungsänderung zwingt.
+Das Magnetfeld kann permanent oder induktiv erzeugt werden.
+Zur Ablenkung von Elektronen sind Ablenkmagneten Bestandteile von:
+Kommt ein magnetisch aufzeichnender Datenträger (Festplatte, Magnetstreifen einer Kreditkarte, Tonbandspulen o. ä.), in die Nähe eines stärkeren Magneten, kann das einwirkende Magnetfeld zu Datenverlusten durch Überschreiben der magnetischen Informationen des Datenträgers führen.

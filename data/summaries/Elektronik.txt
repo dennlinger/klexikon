@@ -1,0 +1,25 @@
+Die Elektronik ist ein Hauptgebiet der Elektrotechnik.
+Sie ist die Wissenschaft von der Steuerung des elektrischen Stromes durch elektronische Schaltungen, das heißt Schaltungen, in denen mindestens ein Bauelement aufgrund von Vakuum- oder Halbleiter-Leitung funktioniert.
+Elektronik befasst sich außerdem mit der Funktion elektronischer Bauelemente selbst.
+Elektronik verarbeitet elektrische Signale informationsmäßig oder erzeugt sie, oder verwandelt elektrische Energie hinsichtlich ihres Spannungs-Strom-Verhältnisses unter Zuhilfenahme von Verstärkern oder Gleichrichtern.
+Elektronische Schaltungen werden Mithilfe der Leiterplattenbestückung zumeist auf Platinen aufgebaut und als Modul entweder zu elektronischen Geräten zusammengebaut, oder sie werden Teil elektrotechnischer Apparate.
+Die Elektronik ist sozusagen die Elektronen-Technik.
+Die ersten Elektronenröhren wurden entwickelt und bereits in elektrischen Schaltungen genutzt.
+Transistoren können wie Röhren als Verstärker, elektronische Schalter oder als Oszillator eingesetzt werden.
+Heute ist die Halbleiterelektronik der wichtigste Zweig der Elektronik.
+Unter den aktiven Bauelementen werden meist alle Arten von integrierten Schaltungen, Halbleiterbauelementen und Elektronenröhren verstanden.
+Man nutzt dabei die physikalischen Gesetze aus, die das Verhalten der Bauelemente (Widerstände, Kondensatoren, Transistoren, Röhren usw.) beschreiben, oder man schafft durch Schaltungsprinzipien günstige Voraussetzungen.
+Typische Grundschaltungen sind Stromquellen, Stromspiegel, Differenzverstärker und Kaskaden, sowie Referenzelemente wie die Bandgap.
+Daraus lassen sich kompliziertere Schaltungen aufbauen, wie z. B. Verstärker, mit deren Hilfe sich weitere Funktionen aufbauen lassen (Oszillator, Filter etc.).
+Operationsverstärker finden in der Analogelektronik breite Anwendung.
+Damit ist es möglich, dass die Bauelemente der integrierten Schaltungen sehr ungenau sein dürfen, was wiederum die weitere Miniaturisierung ermöglicht.
+Daher müssen in solchen Fällen oft zunehmend analoge und hochfrequenztechnische Aspekte berücksichtigt werden.
+Alle diese logischen Funktionen lassen sich mit im sogenannten Schalterbetrieb arbeitenden elektronischen Bauelementen (z. B. Transistoren) realisieren.
+Durch die Integration dieser Schaltungen auf einem Chip (monolithische Schaltung) entstehen komplexe elektronische Bauelemente wie beispielsweise Mikroprozessoren.
+Die Hochfrequenzelektronik oder Hochfrequenztechnik beschäftigt sich vorwiegend mit der Erzeugung und der Ausstrahlung sowie dem Empfang und der Verarbeitung von elektromagnetischen Wellen.
+Weitere Bereiche der Hochfrequenzelektronik sind Mikrowellentechnik, kabelgebundene Informationsübertragung oder Bereiche der Medizinelektronik.
+Elektronische Bauelemente misst man daher zuvor in einer Ersatzumgebung mit 50--Anschlusskabeln (NWA = Netzwerkanalysator), wobei der Aufbau des Elementes später in der wirklichen Schaltung genau nachgebildet werden muss.
+Die auf den Anschlussleitungen hinlaufenden, am Messobjekt reflektierten und durch das Objekt transmittierten Wellen stehen bei den passiven Elementen und bei nichtlinearen Elementen (z. B. Transistoren) mit nur kleiner Aussteuerung in einem linearen Zusammenhang:
+Bei Großsignalaussteuerung nichtlinearer Elemente kann bis zu einigen Gigahertz die aus der allgemeinen Elektronik bekannte Modellierung nach SPICE versucht werden.
+Die Mikroelektronik beschäftigt sich mit der Entwicklung und Herstellung integrierter Schaltkreise mit Strukturgrößen bzw. Strukturbreiten typisch unter 100 Mikrometer.
+Die Elektronik umfasst heute unzählige Gebiete, von der Halbleiterelektronik über die Quantenelektronik bis hin zur Nanoelektronik.

@@ -1,0 +1,25 @@
+Der Laser arbeitet wie ein optischer Verstärker, typischerweise in resonanter Rückkopplung.
+Zu dieser Verstärkerwirkung kommt dann noch hinzu, dass sich die Anordnung in einem Resonator (s. u. bei Laserresonator) befindet, der durch seine Abmessungen auf die gewünschte Wellenlänge abgestimmt ist.
+Der Laserübergang ist derjenige optische Übergang, dessen Energiedifferenz der Frequenz des Laserlichts entspricht.
+In einem Laser wird die Strahlung, die anfänglich durch spontane Emission initiiert wurde, durch eine geeignete Anordnung zweier Spiegel immer wieder durch das Gebiet geleitet, in dem Besetzungsinversion herrscht.
+Eine solche Anordnung heißt optischer Resonator oder Laserresonator.
+Durch das ständige Hin- und Herlaufen kann eine ausreichende Verstärkung zur Überschreitung der Laserschwelle erreicht werden.
+Ein Laserresonator besteht im einfachsten Fall aus zwei Spiegeln, zwischen denen die Strahlung reflektiert wird, so dass sich der Weg durch das Lasermedium verlängert.
+Dieser sorgt dafür, dass ein Teil der Strahlung das Gerät als Laserstrahl verlassen kann.
+Voraussetzung hierfür ist jedoch eine hohe Verstärkung des Lasermediums.
+Genauer gesagt, gilt für die möglichen Lichtfrequenzen in einem Laserresonator der Zusammenhang:
+Mit Lasern gelingt es, Licht in hohem Grade zu kontrollieren bzw. zu manipulieren (Brillanz, Intensität, Richtung, Frequenz, Polarisation, Phase, Zeit).
+Es ist auch nicht richtig, dass ein Laserstrahl immer ein enggebündelter Strahl mit geringer Frequenzbreite sein muss, wofür er allerdings oft gehalten wird.
+Die laterale Leistungsdichteverteilung von Laserstrahlen ist bei guter Strahlqualität ein Gaußprofil (Gauß-Strahl).
+Generell kann man zu den Strahleigenschaften sagen, dass Laserstrahlen sich gegenüber gewöhnlichen Lichtquellen durch viele Unterschiede auszeichnen, die im Folgenden genannt werden.
+Die Frequenz von Laserstrahlung wird durch das aktive Medium und dessen zum Lasern geeignete Energieübergänge bestimmt.
+Es gibt Stoffe, die auf vielen Wellenlängen zum Lasern angeregt werden können - jedoch meistens bei einer Wellenlänge besonders gut.
+Laser können sehr schmalbandige Strahlquellen sein, die Verstärkungsbandbreite (beim Kohlenstoffdioxidlaser zum Beispiel 9 bis 11 m) ist jedoch meist höher als die Bandbreite der abgegebenen Strahlung - entweder schwingt der Laser von selbst im Maximum der Verstärkungsbandbreite (beim Kohlendioxidlaser zum Beispiel 10,6 m) an oder man sorgt durch frequenzbestimmende Elemente für eine schmalbandige Emission auf einer einzigen Frequenz.
+Extreme Schmalbandigkeit ist z. B. bei der interferometrischen Längenmessung mittels Lasern von Bedeutung.
+Ein Dauerstrichlaser ist ein Laser, der im Gegensatz zu Pulslasern eine Lichtwelle konstanter Intensität abstrahlt.
+Im Gegensatz zum Dauerstrichlaser erzeugt ein gepulster Laser pulsierende Strahlung.
+Eine besondere Form der Festkörperlaser sind die Farbzentrenlaser, die ähnlich funktionieren, aber Farbzentren zur Erzeugung der Laserübergänge nutzen.
+Sie werden hierzu an einer Laserbearbeitungsmaschine oder einem Laserscanner betrieben.
+Hierbei kann der Laser endovenös (Laser-Lichtleiter wird in die Vene eingebracht) angewendet werden.
+Laserstrahlen können bei ausreichender Leistung oder Fokussierung Brände und Explosionen auslösen.
+Bei Lasern, die ausgedehnte Lichtquellen darstellen und/oder divergente Strahlung abgeben, können weit höhere Leistungen zulässig sein als bei kollimierten Lasern derselben Klasse.

@@ -1,0 +1,25 @@
+Im engeren Sinn bezeichnet Bruchrechnung das Rechnen mit gemeinen Brüchen (manchmal auch gewöhnlichen Brüchen) in der "Zähler-Bruchstrich-Nenner-Schreibweise" (siehe unten).
+Außerdem gibt es eine Kürzungs- und Erweiterungsregel, die eine Besonderheit der Bruchrechnung sind.
+Die Bruchrechnung beruht darauf, dass sich das Ganze (die Eins aus dem Rechnen mit natürlichen Zahlen) noch unterteilen lässt.
+Die Zahl unter dem Bruchstrich - der sogenannte Nenner oder auch Teiler - gibt an, in wie viele Teile das Ganze geteilt wurde; die Zahl über dem Bruchstrich - der Zähler - gibt an, wie viele Teile davon in diesem Falle gemeint sind.
+Der Zähler gibt an, wie viele Ganze gemeinsam in so viele gleich große Teile zu teilen sind, wie der Nenner angibt.
+Dadurch ändert sich der Wert einer Bruchzahl nicht, man erhält aber für diese Zahl verschiedene Darstellungsweisen: verschiedene Brüche.
+Die in der Tabelle weiter unten stehenden Begriffe fallen jeweils unter die darüberstehenden Oberbegriffe, zum Beispiel ist jeder Scheinbruch ein gemeiner Bruch, nebeneinanderstehende Begriffe müssen sich nicht ausschließen.
+Das Entscheidende bei der Bruchrechnung ist, dass hier jede Division (außer durch null) möglich ist und ein einfach darstellbares Ergebnis hat, während ja im Bereich der ganzen Zahlen die Teilbarkeitsregeln gelten.
+Wenn bei einem Bruch der Betrag des Zählers kleiner als der des Nenners ist, dann spricht man von einem echten oder eigentlichen Bruch (z. B. 6 7 {\displaystyle {\tfrac {6}{7} }} oder 2 5 {\displaystyle {\tfrac {2}{5}}} ), andernfalls von einem unechten oder uneigentlichen Bruch (z. B. 7 7 {\displaystyle {\tfrac {7}{7}}} oder 11 3 {\displaystyle {\tfrac { 11}{3 } }} ).
+Ist der Zähler in einem gemeinen Bruch gleich 1 (z. B. 1 2 {\displaystyle {\tfrac { 1}{2}} } oder 1 9 {\displaystyle {\tfrac {1}{9}}} ), spricht man von einem Stammbruch, ansonsten von einem abgeleiteten Bruch oder Zweigbruch.
+Unechte Brüche, bei denen der Zähler ein ganzzahliges Vielfaches des Nenners ist (z. B. 12 3 {\displaystyle {\tfrac {12}{3} }} ) , bezeichnet man als Scheinbrüche, da sie sich durch Kürzen in ganze Zahlen umwandeln lassen (im Beispiel in die Zahl 4).
+Beim Rechnen mit Brüchen in den vier Grundrechenarten Addition, Subtraktion, Multiplikation und Division werden jeweils zwei Brüche verknüpft, sodass eine dritte Zahl entsteht.
+Beispiel: Die Brüche 2 7 ; 1 6 ; 9 14 {\displaystyle {\tfrac {2}{7}};{\tfrac {1}{6}};{\tfrac {9}{14}} } sollen gleichnamig gemacht werden.
+Die Brüche, die addiert oder subtrahiert werden sollen, werden zunächst gleichnamig gemacht, anschließend werden ihre Zähler addiert bzw. subtrahiert.
+Durch einen Bruch wird dividiert, indem man mit seinem Kehrwert multipliziert.
+Beim Addieren kann hier ein zusätzliches Ganzes auftreten, beim Subtrahieren mögen die Bruchteile nicht ausreichen, sodass eines der Ganzen zu einem Scheinbruch aufgeteilt werden muss:
+Die folgenden Regeln gelten sowohl beim Bruchrechnen im engeren Sinn als auch beim Rechnen mit Bruchtermen.
+Setzt man stattdessen für diese Variablen andere Ausdrücke, z. B. selbst wieder echte Brüche, Dezimalbrüche oder Terme ein, dann erhält man Regeln für das Rechnen mit Bruchtermen, das Bruchrechnen im weiteren Sinn.
+Im Allgemeinen enthalten Bruchterme neben Zahlen auch Variablen.
+Die Rechenregeln für Brüche können auch auf Bruchterme angewendet werden.
+Beispielsweise wäre der von x {\displaystyle x} abhängige Bruchterm 1 6 - 2 x {\displaystyle {\tfrac {1}{6-2x}}} beim Einsetzen von x = 3 {\displaystyle x=3} nicht definiert.
+Wie bei Zahlen ist es nötig, die gegebenen Bruchterme gleichnamig zu machen, d. h. auf den gleichen Nenner zu bringen.
+Die Division von Bruchtermen lässt sich auf die Multiplikation zurückführen.
+Man dividiert durch einen Bruchterm, indem man mit seinem Kehrwert multipliziert.
+Brüche kann man oft in sogenannte Partialbrüche zerlegen, deren Nenner ganze Potenzen von Primzahlen sind; z. B.:

@@ -1,0 +1,25 @@
+Jeder Spieler hat drei Pfeile, Darts genannt.
+Die Spieler werfen abwechselnd ihre drei Pfeile auf die Scheibe.
+Wirft ein Spieler in einer Runde mehr Punkte als die ihm verbliebenen, sind seine Würfe dieser Runde ungültig.
+Wenn bei Spielende der Unterlegene noch keine Restpunktzahl erreicht hat, von der aus er mit drei Darts das Spiel beenden könnte, heißt dies gelegentlich Schneider.
+Unter einem Punktestand von 170 Punkten gibt es daraufhin verschiedene Wege, das Spiel mit einem 3-Dart oder 2-Dart Finish zu beenden.
+Ist ein Feld bereits dreimal getroffen und wird erneut getroffen, so werden die entsprechenden Punkte gutgeschrieben, vorausgesetzt der Gegenspieler hat dieses Feld noch nicht dreimal getroffen.
+Dabei werden die Punkte, die auf einer der zu treffenden Zahlen kommen, nachdem diese vorher (oder - im Falle eines Doppel- oder Dreifachtreffers - auch mit diesem Wurf) bereits dreimal getroffen wurden, nicht dem werfenden Spieler selbst zugeschrieben, sondern allen anderen Spielern, die das entsprechende Feld noch nicht dreimal getroffen haben.
+Dies hat zur Folge, dass nicht zwangsläufig derjenige Spieler gewinnt, der zuerst alle Zahlen und Bull je dreimal getroffen hat, sondern derjenige, der alle Zahlen und Bull je dreimal getroffen hat und die niedrigste Punktzahl besitzt.
+Jetzt werfen alle Spieler der Reihe nach drei Darts auf die Zahlen, die im Spiel sind.
+Für jedes getroffene Single-Feld einer im Spiel befindlichen Zahl wird ein Strich entfernt, bei einem Double zwei Striche, bei einem Triple entsprechend drei Striche.
+Als Spieltaktik (um die Mitspieler zu täuschen) empfiehlt es sich, ab und zu auch einmal auf die eigene Zahl zu werfen.
+Die nachfolgenden Spieler müssen versuchen, dieses Feld zu treffen.
+Dafür steht jedem ein Wurf (das sind insgesamt drei Darts) zur Verfügung.
+Hatte er mit seinem dritten Dart das vorgelegte Feld getroffen, darf er mit drei neuen Darts vorlegen.
+Der Spieler, der vorgelegt hat, setzt jeweils aus.
+Die Spieler werfen abwechselnd ihre drei Pfeile auf die Scheibe.
+Wird also die dreifache 4 anstelle der einfach getroffen (12 Punkte), darf der Spieler das Spiel bei der 13 fortsetzen.
+In der dritten Runde ist ein Double-Feld zu treffen, anschließend die 18, dann die 17, dann ein Triple-Feld, die 16 und die 15.
+Alle Pfeile müssen scoren, ansonsten wird der Punktestand (wie gehabt) halbiert.
+Die anderen Spieler versuchen das vorgelegte Feld ebenfalls zu treffen.
+Trifft ein Spieler das vorgelegte Feld, dann kann er mit seinen restlichen Pfeilen ein neues Feld vorlegen.
+Hat ein Spieler das vorgelegte Feld erst mit dem dritten Pfeil getroffen oder trifft er mit den übrigen Pfeilen kein neues Feld auf dem Board, dann legt der nächste Spieler vor.
+Wird das vorgelegte Feld von keinem der anderen Spieler getroffen, dann erhält der Spieler, der es vorgelegt hat einen Punkt und darf erneut vorlegen.
+Eine Variante ist, dass der vorlegende Spieler das Feld bestätigen, also selbst erneut treffen muss um einen Punkt zu erhalten.
+Verfehlt man mit allen drei Darts das Ziel, so wird die entsprechende Punktzahl abgezogen (beim Zeilen auf die Doppel 1 beispielsweise zwei Punkte).

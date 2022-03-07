@@ -1,0 +1,25 @@
+Die geographische Breite (B oder ), auch geodätische Breite oder Breitengrad genannt (lateinisch latitudo, englisch latitude; internationale Abkürzung Lat. oder LAT), ist die im Winkelmaß in der Maßeinheit Grad angegebene nördliche oder südliche Entfernung eines Punktes der Erdoberfläche vom Äquator.
+Die Breite nimmt Werte von -90° am Südpol über 0° am Äquator bis +90° am Nordpol an.
+Statt des Vorzeichens sind auch die Kennzeichnungen N und S für Nord bzw. Süd zulässig, so kann z. B. die Breite des Südpols mit 90° S notiert werden.
+Die geographische Breite verwendet ellipsoidische Koordinaten; man misst den Winkel zwischen der Normalen (Senkrechten) zum Erdellipsoid und der Äquatorebene der Erde.
+Es wird nicht wie bei der geozentrischen Breite zum Erdmittelpunkt gemessen und sich auch nicht auf die wahre Lotrichtung bezogen, wie bei der astronomischen Breite.
+Die geographische Breite wird traditionell im Sexagesimalsystem mit Grad, Minuten und Sekunden angegeben, wobei ein Grad 60 Minuten und eine Minute 60 Sekunden entsprechen (wie in der Zeitangabe).
+Bei Dezimalgrad werden Nachkommastellen angegeben.
+Der Abstand zwischen zwei Breitenkreisen, deren geografische Breite sich um 1° unterscheidet, beträgt immer rund 111 km oder 60 Seemeilen.
+Jedoch ist der Abstand an den Polen (111,694 km pro Grad) durch die Erdabplattung geringfügig größer als am Äquator (110,574 km pro Grad), da die Krümmung vom Pol zum Äquator um etwa 1 % zunimmt.
+Fehlt die Angabe N oder S, so stehen positive Werte für nördliche Breite und negative für südliche Breite.
+Bei der Angabe von Ortskoordinaten ist die Breite stets zuerst anzugeben, dann erst die Länge: "B vor L, wie im Alphabet".
+Bei den englischen Bezeichnung "Latitude" und "Longitude" funktioniert die alphabetische Regel ebenso.
+Ihren Grund hat diese Konvention in der Geschichte: die Breite konnte bereits Jahrhunderte vor der Länge ziemlich exakt bestimmt werden.
+Die Breite lässt sich recht einfach aus dem höchsten Sonnenstand (Mittagsbreite) oder aus der Höhe kulminierender Sterne bestimmen.
+Auf der Nordhalbkugel der Erde gibt die Höhe des relativ hellen Polarsterns (Polaris) über dem Horizont ziemlich genau den Breitengrad an.
+Am Äquator erscheint der Polarstern am Horizont, am Nordpol steht er nahezu senkrecht am Himmel.
+Tatsächlich entspricht der Sternort von Polaris mit einer Deklination von (derzeit) etwa 89° 16' nicht exakt dem Himmelspol; der dadurch entstehende Fehler schwankt wegen der Erddrehung zweimal täglich zwischen 0° und ca. 0,75° und kann durch einfache Formeln oder Mittelung verringert werden.
+Die Bestimmung der geographischen Länge war hingegen komplizierter und erforderte eine genaue Koppelnavigation oder die Messung von Mond-Stern-Distanzen.
+Bei einem perfekten stabilen (abgeplatteten) Rotationsellipsoid (keine Berge bzw. Täler, konstante Dichte) entspräche die ellipsoidische Breite der astronomischen Breite.
+Zudem wäre die geozentrische Breite für jeden Ort zahlenmäßig am nächsten zum Äquator (d. h. kleinster Betrag).
+Da die mittlere Sonneneinstrahlung auf einen Punkt der Erdoberfläche von dessen geographischer Breite abhängt, bestimmt diese wesentlich das lokale Klima und kann zur Definition der (geographischen) Klimazonen dienen:
+Die Tropen liegen zwischen den Wendekreisen (23° 26') und die Polargebiete polwärts der Polarkreise (66° 34'), dazwischen liegen die Subtropen und gemäßigten Zonen.
+Das Klima hängt auch von weiteren Faktoren ab; so sind z. B. europäische Orte wegen des Nordatlantikstroms in der Regel deutlich wärmer als asiatische und nordamerikanische Orte gleicher geographischer Breite.
+Die geographische Breite hat nicht zuletzt auch Einfluss auf die Windverhältnisse.
+Einmal kann damit die geographische Breite in Grad selber gemeint sein, zum anderen der Breitenkreis, auf dem alle Orte gleicher geographischer Breite liegen, und hierbei manches Mal nur solche Breitenkreise, deren geographische Breite in Grad ganzzahlig ist.

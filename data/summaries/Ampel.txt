@@ -1,0 +1,25 @@
+Ampeln ordnen für Verkehrsteilnehmer ein bestimmtes Verhalten an, indem sie gesteuerte Signale abgeben.
+Dabei sind Varianten möglich, bei denen die Signalgeber für den Fahrzeugverkehr in der Grundstellung auf "Dunkel" geschaltet sind.
+Nach Anforderung durch den Fußgänger schalten die Fahrzeugsignale von Dunkel über Gelb auf Rot.
+Eine normale europäische Lichtzeichenanlage steuert den Verkehr mit Hilfe der drei Signalfarben Rot, Gelb und Grün.
+Um den Verkehr gezielter zu steuern, gibt es neben der üblichen Form der Lichtzeichenanlage noch weitere Arten:
+Bei großen Knotenpunkten ist es durchaus üblich, innerhalb der Kreuzung den Verkehr noch durch weitere Lichtzeichen zu steuern.
+Ist die Ampel dunkel (also nicht grün), hat diese Richtung keine freie Fahrt (keine Bevorrechtigung), sondern muss ggf. Verkehrszeichen beachten und Vorfahrtsregeln einhalten, eben als ob keine Ampel vorhanden wäre.
+Die Ampeln ohne Grünlicht sind jedoch auch auf größeren Kreuzungen im Einsatz, wo sie regelmäßig geschaltet werden (wie am Effnerplatz in München).
+Bei Bedarfsanlagen für Fußgängerübergänge werden die Ampeln erst auf Knopfdruck eines Fußgängers für ihn auf Grün geschaltet (Bedarfsphase).
+Diese Art der Ampel zeigt nach dem Einschalten (durch Knopfdruck eines Fußgängers) zunächst Grün für den Kfz-Verkehr, um dann auf Rot für den Kfz-Verkehr und Grün für Fußgänger und wieder zurück zu schalten.
+Der nicht beleuchtete Grünpfeil in Deutschland ist eine Ergänzung an Lichtzeichenanlagen, durch die die Wartezeit für Rechtsabbieger bei bestimmten Verkehrssituationen verkürzt wird.
+Er erlaubt Fahrzeugen das Abbiegen nach rechts trotz rotem Lichtzeichen an einer Ampel, wenn sie zuvor an der Haltlinie angehalten haben und wenn eine Behinderung oder Gefährdung anderer Verkehrsteilnehmer, insbesondere des Fußgänger- und Fahrzeugverkehrs der freigegebenen Verkehrsrichtung, ausgeschlossen ist.
+Lichtsignalanlagen mit Countdown der Räumzeit stellen in einem zusätzlichen Feld zu Beginn der Rotphase der Fußgänger mit Hilfe von weniger werdenden Balken dar, wie viel Zeit in etwa zum Räumen der Fahrbahn bis zur Grünphase des Querverkehrs bleibt.
+Das gelbe Blinklicht weist auf eine Gefahrensituation hin, an der man Vorfahrt gewähren muss, und es müssen an Kreuzungen und Einmündungen mit Lichtsignalanlagen für einen eventuellen Ausfall der Anlage immer vorfahrtregelnde Verkehrszeichen vorhanden sein.
+Es gelten also die sonstigen Verkehrsregeln entsprechend Kreuzungen und Einmündungen ohne Lichtzeichenanlagen.
+Rotlicht zeigende Lichtzeichenanlagen haben Vorrang vor anderen Verkehrszeichen und dürfen nicht passiert werden, außer wenn von einem Verkehrsposten anderslautende Weisungen erteilt werden.
+Wenn die Ampel auf Grün wechselt und sich noch Nachzügler im ampelgeregelten Bereich (sog. geschützter Bereich) befinden, sind diese grundsätzlich bevorrechtigt, die Kreuzung zu räumen.
+An einigen Kreuzungen mit hoher Verkehrsdichte gibt es eine separate Schaltung für Abbieger in bestimmte Richtungen (grüner Pfeil), d. h. nur dieser Abbiegeverkehr hat Grün und braucht keinen entgegenkommenden Verkehr zu beachten, da dieser steht (sogenannte Freiampel).
+Bevor auf Gelbblinken geschaltet wird, werden oftmals alle Verkehrsachsen aus Sicherheitsgründen für kurze Zeit auf Rot geschaltet.
+In den USA und Kanada, wo üblicherweise keine zusätzlichen Verkehrszeichen zur Vorfahrtsregelung bei Ampelausfall wie in Europa vorhanden sind, wird in der Nebenrichtung rotes Blinklicht angezeigt, was die Bedeutung eines Stoppschildes besitzt und die Fahrzeuglenker zum Anhalten an der Sichtlinie verpflichtet.
+Gelbes Blinklicht wird während des normalen Betriebs von Ampelanlagen zudem als Passive Permit Left Turn (PPLT) - so der existierende amerikanische Fachbegriff - verwendet, um Abbieger vor gleichzeitig freigegebenem Gegenverkehr sowie vor Fußgängern und Radfahrern zu warnen.
+Diese gelben Schutzblinker werden in separatem Gehäuse am Hauptsignal angebracht und mit einem Richtungspfeil versehen, wenn der Vortritt für Fußgänger nur für den abzweigenden Verkehr gilt und deren Fußgängerfurt parallel zur Richtung geradeaus ebenfalls Grün zeigt.
+Außerdem muss gewährleistet werden, dass bei Ausfall des Rotlichts eine querende Fahrbahn nicht trotzdem Grün angezeigt bekommt.
+Aus rechtlicher Sicht muss die Ampel nur beim Betreten der Fahrbahn auf "Grün" stehen; wenn sie danach unterwegs auf "Rot" wechselt, darf und soll der Fußgänger zügig seinen Weg zur anderen Seite vollenden, da die Rotphase der kreuzenden Verkehrsströme um eine ausreichend lange Räumzeit verlängert ist bzw. es zumindest sein soll.
+Während der Verkehr auf der Fahrbahn ein grünes Signal hat und fließen kann, gibt es für den Radverkehr auf der Nebenfläche einen Taster mit gesondertem Signal.

@@ -1,0 +1,25 @@
+Durch eine Lupe erscheinen Objekte größer, die sich jenseits des Betrachters zwischen Lupe und Brennebene (also innerhalb der Brennweite) befinden.
+Diese Wirkung einer Lupe ergibt sich zum einen daraus, dass man mit ihr aus kürzerer Distanz auf einem Gegenstand akkommodieren kann, als es mit dem freisichtigen Auge möglich wäre.
+Zum anderen liefert die Lupe ein vergrößertes virtuelles Bild.
+Dabei sollte die Benutzung einer Lupe, bei der der Betrachter ein vergrößertes virtuelles Bild sieht, nicht mit der Korrektur einer Hyperopie oder Presbyopie verwechselt werden.
+Bei der Korrektur ist die verwendete Linse ebenfalls eine Konvexlinse, hier aber mit deutlich größerer Brennweite bzw. mit kleinerer Brechkraft ("Dioptriewert") und wird als Brille oder Kontaktlinse direkt vor dem Auge getragen.
+Der "Hauptstrahl" - also jener Strahl, der durch den Mittelpunkt der Linse geht - erfährt näherungsweise keine Brechung.
+Der "Parallelstrahl" (in der Abbildung blau) wird durch Brechung der Linse zum "Brennstrahl", geht also durch den Brennpunkt.
+Der Betrachter, der sich in der Abbildung rechts von der Linse befindet, geht von der geradlinigen Ausbreitung des Lichts aus.
+Der Gegenstand muss sich innerhalb der Brennweite f {\displaystyle f} befinden ( s 1  f {\displaystyle s_{1}\leq f} ), um ihn durch die Lupe vergrößert zu sehen.
+Die Vergrößerung ergibt sich aus dem Verhältnis des Sehwinkels mit und ohne Sehhilfe.
+Ein weiteres Kennzeichen ist ihr relativ großes Sichtfeld aufgrund eines großen Linsendurchmessers.
+Bei genügend Abstand zwischen Leselupe und Augen sowie bei geringer Vergrößerung ist dreidimensionales Sehen möglich.
+Die Linse hat einen kleinen Durchmesser (etwa 1-3 cm) wodurch das Sichtfeld sehr klein ist.
+Während hier der Abstand zwischen dem Objekt und der Lupe ebenfalls fix ist, versucht man durch einen sehr kleinen Abstand zwischen Lupe und Auge ein größeres Gesichtsfeld zu erhalten.
+Die Brennweite einer Lupe bestimmt deren Vergrößerung und ist damit deren wichtigste Kenngröße.
+Bei Sonnenlicht lässt sich die Brennweite für den Alltag hinreichend genau bestimmen, indem mit Hilfe der Lupe der kreisförmige Lichtfleck, den sie beim Abbilden auf ein Blatt Papier erzeugt, minimiert wird und dabei der Abstand zwischen Lupe und Papier gemessen wird.
+Ist kein Sonnenlicht verfügbar, lässt sich die Brennweite auch über das (reelle, kopfstehende) Bild weit entfernter Gegenstände messen, etwa anhand des Bildes eines Fensters im Rauminneren (siehe rechts).
+Sie nimmt zu, wenn sich die Gegenstandsweite s 1 {\displaystyle s_{1}} der Brennweite f {\displaystyle f} der Lupe nähert.
+Strengt man das Auge jedoch mit an, kann man den Gegenstand praktisch näher an die Lupe heranbringen, so dass ein virtuelles Bild in der Entfernung der minimalen Sehweite f n a h {\displaystyle f_{\rm {nah}} } des betreffenden Auges entsteht.
+Die Lupe muss sich dazu nah am Auge befinden, die Brechkräfte von Lupe und dem nah-akkommodierten Auge addieren sich und die Vergrößerung beträgt:
+Eine Lupe mit der Brennweite 50 mm erlaubt es, einen Gegenstand aus der Entfernung von 50 mm zu betrachten, statt aus der Entfernung der deutlichen Sehweite von 250 mm.
+Häufig wird bei Lupen folgende Umrechnung zwischen Vergrößerung und Brennweite (in dpt) angegeben:
+Diese Beziehung ergibt sich unmittelbar aus der Beziehung von v', wenn das Auge in deutlicher Sehweite von 250 mm akkommodiert.
+Den größten Einfluss hat dabei der Linsendurchmesser:
+Daneben bewirkt eine kürzere Brennweite der Linse (also eine höhere Vergrößerung der Lupe) eine Abbildung der Sonnenscheibe auf einen kleineren Brennfleck.

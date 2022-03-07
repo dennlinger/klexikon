@@ -1,0 +1,25 @@
+Dieses unterscheidet Mikrofone von Tonabnehmern, die Festkörperschwingungen umsetzen.
+Abhängig von der akustischen Bauform des Mikrofons folgt die Membran dem Schalldruck (Druckmikrofon, ungerichtetes Mikrofon) oder dem Schalldruckgradienten (Druckgradientenmikrofon, gerichtetes Mikrofon).
+Bei diesem Mikrofontyp sind Wandlerprinzip und akustische Funktionsweise eng verknüpft.
+Die akustische Bauweise ist daher die eines Druckgradientenmikrofons.
+Da die Membranauslenkung und nicht die Membrangeschwindigkeit zum Signal führt, ist das Kondensatormikrofon technisch betrachtet ein Elongationsempfänger.
+Üblicherweise nutzt man die 48-Volt-Phantomspeisung des Mikrofonvorverstärkers oder des Mischpults; siehe auch: Symmetrische Signalübertragung.
+Kondensatorkapseln sind sowohl als Druckmikrofon wie auch als Druckgradientenmikrofon gebräuchlich.
+Manche Kondensatormikrofone haben eine umschaltbare Richtcharakteristik.
+Einige Mikrofonkapseln enthalten direkt einen Mikrofonvorverstärker für die schwachen Signalströme.
+Bei Druckmikrofonen führen etwa der Druckstaueffekt wie auch Schallabschattung durch den Mikrofonkörper zu einer Richtwirkung bei hohen Frequenzen.
+Da die aufnehmende Fläche und die aufgenommene Schallenergie quadratisch zum Durchmesser sind, führt das zu geringer empfindlichen Mikrophonen mit möglicherweise schlechterem Rauschverhalten.
+Einige Mikrophone müssen mit Schallquellen mit Einspracherichtung von der Seite verwendet werden.
+Solche Mikrophone müssen auch von der Seite über einen geeigneten Frequenzgang verfügen, was nur wenigen Herstellern gelingt (siehe Beispiel Diagramm).
+Daher kann ein solches Mikrofon auch bei sehr tiefen Frequenzen bis in den Infraschallbereich eingesetzt werden.
+Sämtliche Mikrofone mit anderen Richtcharakteristiken als die der Kugel, speziell solche mit umschaltbarer Charakteristik, werden mit der Bauform des Druckgradientenmikrofons realisiert.
+Diese Mikrofonbauform wird wissenschaftlich auch als Druckgradientenempfänger oder Schnelle-Empfänger bezeichnet.
+Der Mikrofonkörper ist eine Platte, auf der meistens eine Druckmikrofonkapsel membranflächenbündig eingelassen ist.
+Ein Richtrohrmikrofon besitzt eine ausgeprägte Keulencharakteristik, die durch ein vor ein Druckgradientenmikrofon vorgebautes, mit seitlichen Schlitzen oder Bohrungen versehenes, nach vorn offenes Interferenzrohr zustande kommt.
+Die aus der Schallwandlung resultierende Wechselspannung, das Mikrofonsignal, ist durch folgende Kenngrößen gekennzeichnet:
+Der Frequenzgang eines Mikrofons resultiert aus seiner akustischen Bauform, der Mikrofonabstimmung und dem Wandlerprinzip.
+Die akustische Bauform setzt etwa beim Druckgradientenmikrofon Grenzen zu tiefen Frequenzen hin; zudem ist der Frequenzgang aller Mikrofone abhängig vom Beschallungswinkel (Richtcharakteristik, Druckstaueffekt) und beim Druckgradientenmikrofon von dem Abstand zur Schallquelle (Nahbesprechungseffekt).
+Mikrofone wandeln Schalldruck in Wechselspannung um.
+Das ist zum Beispiel bei dynamischen Mikrofonen der Widerstand der Tauchspule, beim Elektretmikrofon der Lastwiderstand.
+Mikrofonkabel haben teilweise einen Mikrofonieeffekt, sie sind empfindlich gegen Trittschall und Bewegung, wenn ihre Umflechtung bzw. Abschirmung bei Bewegung wechselnde Kontaktwiderstände erzeugt.
+Durch Modulation der Phantomspannung können solche Mikrofone fernbedient werden, etwa um Dämpfung oder Richtcharakteristik einzustellen.

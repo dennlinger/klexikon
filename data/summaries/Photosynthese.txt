@@ -1,0 +1,25 @@
+Die Photosynthese ist der einzige biochemische Prozess, bei dem Lichtenergie, meistens Sonnenenergie, in chemisch gebundene Energie umgewandelt wird.
+Das Gesamtreaktionsschema der Photosynthese lässt sich im Fall von CO2 als Ausgangsstoff allgemein und vereinfacht mit den folgenden Summengleichungen formulieren, in denen <CH2O> für die gebildeten energiereichen organischen Stoffe steht.
+Die Gesamtreaktion der Photosynthese mit Wasser oder Schwefelwasserstoff als Reduktans kann auch durch die folgende allgemeine, vereinfachte Summengleichung formuliert werden:
+Da in diesem Fall A für den im Schwefelwasserstoff gebundenen Schwefel steht, wird bei dieser Art der bakteriellen Photosynthese elementarer Schwefel (S) und kein Sauerstoff freigesetzt.
+Auch wenn bei oxygener und anoxygener Photosynthese unterschiedliche Reduktantien verwendet werden, so ist doch beiden Prozessen gemein, dass durch deren Oxidation Elektronen gewonnen werden.
+Werden einfache, organische Verbindungen als Ausgangsstoffe genutzt, bezeichnet man diesen Prozess, der nur bei Bakterien vorkommt, als Photoheterotrophie.
+Diese Reaktion wird gemeinhin als "Lichtreaktion" bezeichnet, da dieser Teil der Photosynthese direkt von Licht abhängig ist.
+In der Gesamtgleichung der oxygenen Photosynthese dient Glucose (C6H12O6) als Beispiel, sie stellt das primäre Produkt dar:
+Die für den Elektronentransfer in den Reaktionszentren der Photosysteme benötigte Anregungsenergie wird in Form von Strahlung vor allem durch die Lichtsammelkomplexe aufgenommen, die neben Chlorophyll-a auch Chlorophyll-b und Carotinoide enthalten, die in einem weiten Bereich des sichtbaren Wellenlängenspektrums absorbieren (vgl. obiges Spektrum).
+Durch strahlungslosen Energietransfer kann die Energie der Anregungszustände zwischen eng benachbarten Chlorophyll-Molekülen bis zu den Reaktionszentren der Photosysteme übertragen werden.
+Aber auch letztere sind auf eine zyklische Photophosphorylierung angewiesen, um den Bedarf an NADPH und ATP für den Calvin-Zyklus (inklusive Photorespiration) stöchiometrisch zu decken.
+Zur Beseitigung überschüssiger Lichtenergie trägt neben den oben genannten Reaktionen insbesondere bei Trockenstress auch die Reassimilation des durch Photorespiration freigesetzten CO2 bei, der Anteil der einzelnen Prozesse am Verbrauch der Lichtenergie variiert allerdings in Abhängigkeit vom untersuchten Blattgewebe (Palisaden- oder Schwammparenchym), von der untersuchten Pflanzenart und vom Typ des Stoffwechsels (C3- oder C4-Pflanze).
+Wie bei der oxygenen Photosynthese wird dieses Chlorophyllenpaar (special pair) durch Lichtenergie angeregt, wodurch sein Redoxpotential stark abfällt.
+Dadurch gibt das angeregte Bakteriochlorophyllpaar sein Elektron an einem primären Akzeptor ab.
+Die meisten anoxygen phototrophen Bakterien können aber auch (CO2) fixieren, wenn sie anorganische Elektronendonatoren wie Wasserstoff (H2) oder auch (H2S) nutzen, damit sind sie daher oft auch fakultativ photolithoautotroph.
+Im zyklischen Elektronentransport gelangt das Bakteriochlorophyll a (E'0=+0,3 V) nach Anregung durch Licht in einen energetisch höheren Zustand (E'0=-1,2 V) und gibt sein Elektron an ein weiteres Bakteriochlorophyll ab.
+Um die entstandene Elektronenlücke beim Bakteriochlorophyll im nicht-zyklischen Elektronentransport zu füllen, oxidieren beispielsweise Grüne Schwefelbakterien H2S zu Schwefel.
+Sie entspricht zwar der Tatsache, dass die Prozesse getrennt von der "Lichtreaktion" der Photosynthese ablaufen und per se auch kein Licht benötigen.
+Im Zuge der anoxygenen Photosynthese bei grünen Schwefelbakterien bzw. grünen Nichtschwefelbakterien wird CO2 durch den reduktiven Citratzyklus bzw. den Hydroxypropionatzyklus assimiliert.
+Oder es wird nur der Teil des Spektrums für die Berechnungen herangezogen, der prinzipiell für die Photosynthese nutzbar ist.
+Bei niedrigen Beleuchtungsstärken läuft die Photosynthese mit sehr geringer Effizienz ab, so dass der Kohlenstoffgewinn in Form von Assimilaten (und die Erzeugung von Sauerstoff) geringer ist als der Kohlenstoff(Assimilat-)verlust (und Sauerstoffverbrauch) in der Zellatmung.
+Der Punkt, an dem sich Photosynthese und Zellatmung in der Waage halten, ist der Lichtkompensationspunkt.
+Bei der Photosynthese handelt es sich zum Teil um biochemische Reaktionen.
+Der zweite limitierende Faktor für den Beitrag der anoxygenen Photosynthese zur globalen Primärproduktion liegt in der Abhängigkeit dieser Organismen von reduzierten Schwefelverbindungen.
+Bei der oxygenen Photosynthese spielt neben der CO2-Fixierung auch die Bildung von Sauerstoff eine wichtige Rolle.

@@ -1,0 +1,25 @@
+Innerhalb von Windparks sinkt dabei in der Regel die Anzahl der Einzelanlagen, während die installierte Leistung und Ertrag steigen.
+In der freien Strömung weit vor dem Rotor der Windkraftanlage beträgt die Leistungsdichte dieses Transports
+Ihre Nennleistung, manchmal als installierte Leistung bezeichnet, erreicht eine Windkraftanlage bei der Nennwindgeschwindigkeit.
+Eine Anlage mit höherer Nennleistung nutzt einen größeren Teil des Energieangebotes aus, eine Anlage mit größerem Rotor speist unterhalb der Nennwindgeschwindigkeit mehr Leistung in das Stromnetz ein.
+Auch wurden seit etwa 2010 von mehreren Herstellern sog. Schwachwindanlagen mit besonders großer spezifischer Rotorfläche (ca. 4,5 - 5 m^2/kW) entwickelt, mit denen auch auf windschwächeren Standorten deutlich mehr Volllaststunden als oben angegeben erreicht werden können.
+Der vergleichsweise schwächer ausgelegte Triebstrang und Generator führt nur zu geringen Einbußen bei der jährlichen Stromerzeugung, senkt jedoch die auf die Anlage wirkenden mechanischen Lasten, erhöht die Volllaststundenzahl und wirkt sich positiv auf die Windleistungsprognose aus.
+Jedoch ist es auch für windhöffigere Standorte sinnvoll, die Rotorfläche pro Nennleistung zu erhöhen, um die Volllaststunden zu vermehren und die Kosten zu senken.
+Besonders bei kleineren Windgeneratoren ist dieses Prinzip durch verschiedene Bauformen verwirklicht worden, darunter einfache Versionen der im folgenden Kapitel ausführlich besprochenen eigentlichen Windkraftanlagen, also Bauformen mit einem sternförmigen Rotor mit wenigen (meist drei) Blättern, die vor einem Mast oder Turm um eine horizontale Achse rotieren.
+Zudem ist wie bei konventionellen Kraftwerken grundsätzlich ein angedrosselter Betrieb möglich, der in gewissen Grenzen eine gleichbleibende Energieeinspeisung bei nachlassendem Wind ermöglicht.
+Damit könnten Windkraftanlagen mit entsprechender Anlagensteuerung sowohl bei Über- als auch bei Unterfrequenz zur Frequenzstabilität des Stromnetzes beitragen.
+So wird die Anlage auf durchschnittlich höhere Windgeschwindigkeiten (andere Windklasse) ausgelegt, was z. B. eine entsprechende Konstruktion des Rotors und seine Abstimmung auf den Generator notwendig macht.
+Die Windkraftanlagen werden von der Regelelektronik bei ertragsversprechenden Windgeschwindigkeiten (Anlaufwindgeschwindigkeit) angefahren und bei zu großen Windgeschwindigkeiten (Abschaltwindgeschwindigkeit) wieder abgeschaltet.
+Dabei werden bei Anlagen mit Pitchregelung die Blätter in Segelstellung gedreht, Anlagen mit Stallregelung als Ganzes (Rotor mit Gondel) aus dem Wind gedreht.
+Bei einer Einschaltwindgeschwindigkeit von typisch 3-4 m/s (Windstärke 2-3 Bft) schaltet die Steuerung die Windkraftanlage ein, da erst dann nennenswerte Energiemengen in das Stromnetz abgegeben werden können.
+Von zu hohen oder zu niedrigen Windgeschwindigkeiten abgesehen können noch weitere Gründe dazu führen, dass eine Windkraftanlage vom Netz genommen werden muss.
+Drehzahlvariable, pitchgeregelte Anlagen stellen heute den Stand der Technik im Windkraftanlagenbau dar.
+Windkraftanlagen mit aktiver Stallregelung sind der Versuch, das Konzept der Stallregelung und des netzsynchronen Betriebs ohne teureren Gleich- und Wechselrichter auf größere Anlagen bis in den Megawattbereich zu übertragen.
+Bei diesen Anlagen lässt sich der Strömungsabriss an den Rotorblättern zusätzlich über eine Blattverstellung steuern.
+Schwankungen im Wind (Böen) können so besser als mit passiver Stallregelung ausgeglichen werden.
+Wie andere Bauwerke und Anlagen zur Energieerzeugung stehen Windkraftanlagen in Wechselwirkungen mit der Umwelt.
+Bei fortgesetztem Ausbau der Windkraftnutzung sind Bestandsrückgänge auch bei weiteren Arten möglich.
+Windkraftanlagen vermischen mit ihren Rotoren höhere und niedrigere Luftschichten.
+Um Umweltbelastungen durch Ölaustritte zu vermeiden, sind Windkraftanlagen mit ölgeschmiertem Getriebe mit Auffangwannen ausgerüstet.
+Bei Rotorblättern ist ein Trend zu immer größeren Flügellängen festzustellen, die den Ertrag pro Anlage steigern und die Stromgestehungskosten senken sollen.
+Auch fliegende Windkraftanlagen, sogenannte Flugwindkraftwerke sind Gegenstand aktueller Forschung.

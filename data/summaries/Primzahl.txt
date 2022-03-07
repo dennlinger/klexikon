@@ -1,0 +1,25 @@
+Mit P {\displaystyle \mathbb {P} } verknüpft ist die Folge ( p n ) n  N {\displaystyle \left(p_{n}\right)_{n\in \mathbb {N} }} der nach ihrer Größe geordneten Primzahlen, die man auch Primzahlfolge nennt.
+Nach dem dirichletschen Primzahlsatz gibt es in jeder dieser Klassen unendlich viele Primzahlen.
+Es sei p {\displaystyle p} eine Primzahl.
+Es gibt Zahlen n {\displaystyle n} , die keine Primzahlen sind, sich aber dennoch zu einer Basis a {\displaystyle a} wie Primzahlen verhalten, d. h., es ist a n - 1  1 mod n { \displaystyle a^{n-1}\equiv 1{\bmod {n} }} .
+Für jede ungerade Primzahl p {\displaystyle p} und jede ganze Zahl a {\displaystyle a} , die nicht durch p {\displaystyle p} teilbar ist, gilt entweder
+Für Primzahlen p {\displaystyle p} und 1  k < p {\displaystyle 1\leq k<p} gilt
+- 1 ( mod p ) {\displaystyle (p-1)!\equiv -1{\pmod {p} }} ist) folgt, dass für jede Primzahl p {\displaystyle p } und jede natürliche Zahl n {\displaystyle n} die Kongruenz
+In der Folge a n - a {\displaystyle a^{n}-a} ist das p {\displaystyle p} -te Folgenglied für eine Primzahl p {\displaystyle p} stets durch p {\displaystyle p} teilbar.
+Zu jeder Primzahl lässt sich aber eine Kette von Behauptungen angeben, die alle unmittelbar nachvollziehbar sind, zusammen die Primalität belegen und deren Gesamtlänge höchstens proportional ist zum Quadrat der Länge der Primzahl.
+Ausgehend von der Annahme, dass es nur endlich viele Primzahlen gibt, lässt sich eine weitere Zahl konstruieren, die eine bisher nicht bekannte Primzahl als Teiler hat oder selbst eine Primzahl ist, was einen Widerspruch zur Annahme darstellt.
+Zur Untersuchung der Verteilung der Primzahlen betrachtet man unter anderem die Funktion
+die die Anzahl der Primzahlen  n {\displaystyle \leq n} angibt und auch Primzahlzählfunktion genannt wird.
+Der Primzahlsatz besagt, dass
+Ist a {\displaystyle a} aber teilerfremd zu m {\displaystyle m} , so besagt der Dirichletsche Primzahlsatz, dass die Folge unendlich viele Primzahlen enthält.
+Die Differenz zwischen zwei benachbarten Primzahlen heißt Primzahllücke.
+Im Folgenden sei die Folge der Primzahlen mit ( p n ) n  N {\displaystyle (p_{n})_{n\in \mathbb {N} }} bezeichnet.
+Mit dem Primzahlsatz ergeben sich folgende Resultate:
+Für jede positive reelle Zahl x {\displaystyle x} existiert eine Folge ( q n ) n  N {\displaystyle (q_{n})_{n\in \mathbb {N} }} von Primzahlen mit
+Diese Primzahlen nennt man die Primfaktoren der Zahl.
+Daraus wird auch klar, warum es unzweckmäßig ist, die Eins als Primzahl zu definieren:
+Seit hunderten von Jahren diskutieren Mathematiker, ob die Zahl n = 1 {\displaystyle n=1} eine Primzahl ist oder nicht.
+Das Argument dafür, dass 1 eine Primzahl ist, ist das folgende:
+Argumente dagegen, dass also 1 keine Primzahl ist, sind die folgenden:
+Es gibt noch weitere mathematische Sätze über Primzahlen, die man ebenfalls umformulieren müsste, wäre die Zahl n = 1 {\displaystyle n=1} eine Primzahl.
+Die Beispiele zeigen, dass man die Menge der Primzahlen ohne eine 1 dringend braucht - dringender als den Begriff der die 1 einschließenden Primzahlen.

@@ -1,0 +1,25 @@
+Bei mobilen Apps wird zwischen nativen Apps, die nur auf einer Plattform funktionieren, und plattformunabhängigen Web-, Hybrid- und Cross-Plattform-Apps unterschieden.
+Mit nativen Apps können die verschiedensten Typen von Geräten auf einmal bedient werden, wenn alle auf einer Plattform basieren.
+Plattformunabhängige Apps werden gerade in Unternehmen, die unterschiedliche Geräte benötigen, immer wichtiger.
+Eine Anwendung, die auf Desktop-Computern läuft, soll z. B. auch bei dem externen Kundenbesuch auf dem Tablet funktionieren oder unterwegs auf dem Smartphone.
+Im Gegensatz zu mobilen Apps, die für jede Plattform neu implementiert werden müssen, kann eine Implementierung von Web-Apps auf vielen verschiedenen Plattformen genutzt werden.
+Hybrid-Apps stellen eine Sonderform einer mobilen App dar.
+Sie vereinen die Vorteile von nativen und Web-Apps, indem sie auf viele Hard- und Software-Komponenten des mobilen Endgeräts zugreifen und gleichzeitig unterschiedliche Plattformen bedienen können.
+Sie können sowohl auf unterschiedlichen Mobilgeräten (Smartphone & Tablet) und PCs als auch auf unterschiedlichen Betriebssystemen laufen.
+Hybrid-Apps vereinen die Vorteile von nativen Apps und Webanwendungen, indem Quellcode plattformübergreifend verwendet werden kann.
+Für die Entwicklung von Hybrid-Apps stehen verschiedenen Frameworks zur Verfügung.
+Dadurch können Hybrid-Apps auf diverse Hard- und Software-Komponenten des mobilen Endgerätes zugreifen.
+Eine Cross-Plattform-App ist, ähnlich einer Hybrid-App, eine Anwendung, die unabhängig von der Plattform auf verschiedenen Betriebssystemen und Endgeräten ausgeführt werden kann.
+Mobile Apps werden meist mit Hilfe einer integrierten Entwicklungsumgebung und dem Software Development Kit der entsprechenden Plattform entwickelt.
+Die Hersteller von mobilen Betriebssystemen versuchen mit verschiedenen Methoden, Softwareentwickler für ihre Plattform zu gewinnen.
+Apps können meist über eine in das Betriebssystem integrierte Internet-Vertriebsplattform bezogen und direkt auf dem Gerät installiert werden.
+In Folge des großen Markterfolgs von Smartphones und Tablets haben praktisch alle Hersteller mobiler Betriebssysteme eigene Plattformen entwickelt, um die für ihre jeweiligen Geräte entwickelten Apps zu vermarkten.
+Daneben gibt es auch für Geräte mit anderen Betriebssystem eigene App Stores.
+Es gibt grundsätzlich verschiedene Wege, wie eine App auf ein Gerät gelangt: direkt über die mobile Internetverbindung oder WLAN des Geräts oder mit Hilfe eines PC, mit dem über entsprechende Software (wie etwa iTunes) bei Anbindung des Mobilgeräts Apps installiert werden können.
+Sofern die Hersteller ihr mobiles Betriebssystem auch für externe Quellen zur Installation von Anwendungssoftware zugänglich halten, gibt es darüber hinaus weitere, oft plattformübergreifende Angebote durch Shops verschiedener Anbieter im Internet, sowie die Möglichkeit des direkten Bezugs auf den Webseiten der App-Entwickler.
+Native Apps laufen als eigenständiges Programm auf dem jeweiligen Gerät und haben damit erweiterten Zugriff auf Ressourcen.
+In Unternehmen werden Mobile Apps in verschiedenen Bereichen eingesetzt.
+Im Unternehmenseinsatz sorgen sogenannte Mobile-Device-Management-Systeme dafür, dass erwünschte Apps zentral auf die Geräte verteilt werden können, zum Teil durch ein eigenes Bezugsportal.
+Sofern im Unternehmenseinsatz nicht auf interne IT- und Sicherheitsrichtlinien verzichtet wird, kommt der herkömmliche Vertriebsweg über einen App Store in der Regel nicht in Frage, denn darüber wären die - oft selbstentwickelten - mobilen Apps des Unternehmens auch öffentlich zugänglich.
+Stattdessen werden solche Apps durch einen Systemadministrator des Unternehmens zentral über Mobile-Device-Management-Lösungen dem Anwender zur Verfügung gestellt beziehungsweise auch automatisch auf das Smartphone installiert.
+Alternativ gibt es die Möglichkeit durch Mobile-Device-Management native Apps sicher anzubieten, ohne dass die native Benutzererfahrung leidet.

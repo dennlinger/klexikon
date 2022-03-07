@@ -1,0 +1,25 @@
+Ein Pendel, auch Schwerependel (früher auch Perpendikel, von lat. pendere "hängen") ist ein Körper, der, an einer Achse oder einem Punkt außerhalb seines Massenmittelpunktes drehbar gelagert, um seine eigene Ruheposition schwingen kann.
+Eine Eigenschaft des Schwerependels ist, dass seine Schwingungsdauer nur von der Länge des Fadens (genauer: dem Abstand zwischen Aufhängung und Schwerpunkt des Pendelkörpers), nicht aber von der Art, Gestalt oder Masse des Pendelkörpers abhängt; auch fast nicht von der Größe der maximalen Auslenkung, vorausgesetzt, diese bleibt auf wenige Winkelgrad beschränkt.
+Das Pendel besteht meist aus einem Band oder einem Stab, der am freien Ende mit einer Masse beschwert ist.
+Bringt man ein solches Pendel aus seiner vertikalen Ruhelage, schwingt es unter dem Einfluss der Schwerkraft zurück und wird, solange keine Dämpfung erfolgt, symmetrisch zwischen den Scheitelpunkten als Umkehrpunkt der Bewegung um die tiefstmögliche Position des Massenmittelpunktes - die Ruheposition - weiterschwingen.
+Die Regelmäßigkeit der Schwingungsperiode eines Pendels wird bei mechanischen Pendeluhren genutzt.
+Man unterscheidet mathematische Pendel von physikalischen Pendeln:
+Das ebene mathematische Pendel und das sphärische Pendel sind idealisierende Modelle zur allgemeinen Beschreibung von Pendelschwingungen.
+Dabei wird angenommen, dass die gesamte Masse des Pendels in einem Punkt vereinigt vorliegt, der einen festen Abstand vom Aufhängepunkt hat.
+Ein solches Pendel wird näherungsweise durch ein Fadenpendel realisiert.
+So ist beispielsweise die Periodendauer eines Stangenpendels, bei dem ein Pendelkörper an einer Stange - dessen Länge mit einer Stellschraube verändert werden kann - mit endlicher Masse hängt, stets kürzer als die Periodendauer eines gleich langen mathematischen Pendels, bei dem die Masse der Aufhängung vernachlässigt werden kann.
+Für kleine Auslenkungen vereinfacht sich die Betrachtung der Bewegung des Pendels:
+Da hier die rückstellende Kraft näherungsweise proportional zur Auslenkung ist, handelt es sich um einen harmonischen Oszillator.
+Das Pendel ist bei kleinen Auslenkungen eine gute Näherung eines mechanischen harmonischen Oszillators.
+Bei großer Auslenkung sind die Schwingungen zwar stetig, aber nicht mehr harmonisch.
+wobei  m a x {\displaystyle \varphi _{\mathrm {max} }} die Auslenkung des Pendels am Umkehrpunkt ist.
+Das mathematische Pendel ist das einfachste Modell eines Pendels:
+Ein Massepunkt ist an einem masselosen, starren Faden aufgehängt und kann sich entsprechend nur in zwei Dimensionen auf einer Kreisbahn um die Aufhängung bewegen.
+Bei hinreichend kleiner Auslenkung kann das mathematische Pendel als harmonischer Oszillator beschrieben werden.
+Das physikalische Pendel berücksichtigt im Gegensatz zum mathematischen Pendel die Ausdehnung des Pendelkörpers und die Masse des Fadens.
+Die Kreisfrequenz des physikalischen Pendels hängt entsprechend auch von seiner Masse m {\displaystyle m} und seinem Trägheitsmoment I {\displaystyle I} ab, während l {\displaystyle l} als Abstand des Schwerpunkts von der Aufhängung präzisiert werden muss:
+Die Kreisfrequenz  {\displaystyle \omega } bzw. die Schwingungsdauer T = 2   {\displaystyle T={\tfrac {2\pi }{\omega } }} ist nur näherungsweise von der maximalen Pendelauslenkung  m a x {\displaystyle \varphi _{\mathrm {max} }} unabhängig, denn das rückstellende Moment, das die Schwerkraft auf das Pendel ausübt, ist nicht proportional zu  {\displaystyle \varphi } , sondern zu sin   {\displaystyle \sin \varphi } .
+eine Pendeluhr geht umso langsamer, je größer der Pendelausschlag  m a x {\displaystyle \varphi _{\mathrm {max} }} wird.
+Bei zwei gekoppelten Pendeln üben zwei Pendel eine von beiden Auslenkungen abhängige Kraft aufeinander aus.
+Zum Beispiel verbindet man zwei gleiche Fadenpendel durch eine Feder miteinander, um im Demonstrationsexperiment die Eigenschwingungen und das Phänomen der Schwebung zu beobachten.
+Mehr als zwei gekoppelte Pendel können komplexe Schwingungsmuster zeigen, wenn die Grundschwingung von anders geformten Eigenschwingungen (oder Schwingungsmoden) mit höheren Eigenfrequenzen überlagert wird.

@@ -1,0 +1,25 @@
+Jede Ellipse lässt sich in einem geeigneten Koordinatensystem durch eine Gleichung x 2 a 2 + y 2 b 2 = 1 {\displaystyle \;{\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1\; } oder Parameterdarstellung ( a cos  t , b sin  t ) {\displaystyle \;(a\cos t,b\sin t)\; } beschreiben.
+Hieran erkennt man, dass man eine Ellipse als einen an der x-Achse um a {\displaystyle a} und an der y-Achse um b {\displaystyle b} gestreckten Einheitskreis auffassen kann.
+Eine Ellipse ist der geometrische Ort aller Punkte P {\displaystyle P} der Ebene, für die die Summe der Abstände zu zwei gegebenen Punkten F 1 {\displaystyle F_{1} } und F 2 {\displaystyle F_{2 } } gleich einer gegebenen Konstante ist.
+Ist a = b {\displaystyle a=b} , so ist  = 0 {\displaystyle \varepsilon =0} und die Ellipse ein Kreis.
+Ist b = e {\displaystyle b=e} , so ist  = 1 2 {\displaystyle \varepsilon ={\tfrac {1}{\sqrt {2} }}} , und man nennt die Ellipse eine gleichseitige Ellipse oder Ellipse schönster Form.
+Die Ellipse in A. lässt sich auch mithilfe einer Bilinearform als Lösungsmenge der Gleichung x = T M x = = 1 {\displaystyle {\vec {x}}^{\mathrm {T} }M\,{\vec {x}}=1} auffassen.
+und damit die rationale Parameterdarstellung einer Ellipse:
+Eine Parameterdarstellung, die die Tangentensteigung m {\displaystyle m} in dem jeweiligen Ellipsenpunkt verwendet, erhält man durch Differentiation der Parameterdarstellung x = ( t ) = ( a cos  t , b sin  t ) T {\displaystyle {\vec {x}}(t)=(a\cos t,b\sin t)^{\mathrm {T} }} :
+Dabei ist m {\displaystyle m} die Tangentensteigung im jeweiligen Ellipsenpunkt, c = + {\displaystyle {\vec {c}}_{+}} die obere und c = - {\displaystyle {\vec {c}}_{-}} die untere Hälfte der Ellipse.
+Der y {\displaystyle y} -Abschnitt n {\displaystyle n} ergibt sich durch Einsetzen der Koordinaten des zugehörigen Ellipsenpunktes c = +/- ( m ) {\displaystyle {\vec {c}}_{\pm }(m)} :
+Eine verschobene Ellipse mit Mittelpunkt ( m 1 , m 2 ) {\displaystyle (m_{1},m_{2})} wird durch
+Es sei L {\displaystyle L} der Punkt auf der Geraden P F 2  {\displaystyle {\overline {PF_{2}} }} mit dem Abstand 2 a {\displaystyle 2a} zum Brennpunkt F 2 {\displaystyle F_{2 } } ( a {\displaystyle a} ist die große Halbachse der Ellipse).
+was die Gleichung einer Ellipse mit Mittelpunkt ( a , 0 ) {\displaystyle (a,0)} , der x {\displaystyle x} -Achse als Hauptachse und den Halbachsen a , b {\displaystyle a,b} ist.
+Für die Ellipse x 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1 } liegen die Schnittpunkte orthogonaler Tangenten auf dem Kreis x 2 + y 2 = a 2 + b 2 {\displaystyle x^{2}+y^{2}=a^{2}+b^{2}} .
+Führt man kartesische Koordinaten so ein, dass der Mittelpunkt der Ellipse im Ursprung liegt, so kann eine beliebige Ellipse mit der Gleichung x 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1 } beschrieben werden (s. o. Abschnitt Gleichung).
+Einsetzen der Hauptform y = m x + n {\displaystyle y=mx+n} in die Mittelpunktform einer Ellipse ergibt für die Abszisse x {\displaystyle x} eines beliebigen Schnittpunkts die Bedingung x 2 a 2 + ( m x + n ) 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {(mx+n)^{2}}{b^{2}}}=1} ; die Diskriminante dieser quadratischen Gleichung in x {\displaystyle x} hat bis auf einen positiven Faktor die Form
+f = 0 {\displaystyle {\vec {f}}_{0}} ist der Mittelpunkt und f = 1 , f = 2 {\displaystyle {\vec {f}}_{1},\;{\vec {f}}_{2} } sind zwei konjugierte Halbmesser (s. u.) der Ellipse.
+Da in einem Scheitel die Tangente zum zugehörigen Ellipsendurchmesser senkrecht steht und die Tangentenrichtung in einem Ellipsenpunkt p = ' ( t ) = - f = 1 sin  t + f = 2 cos  t {\displaystyle {\vec {p}}'(t)=-{\vec {f}}_{1}\sin t+{\vec {f}}_{2}\cos t} ist, ergibt sich der Parameter t 0 {\displaystyle t_{0} } eines Scheitels aus der Gleichung
+Die Scheitelform der Parameterdarstellung der Ellipse ist
+Für die Erzeugung einzelner Punkte der Ellipse x 2 a 2 + y 2 b 2 = 1 {\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1 } gehen wir von den Geradenbüscheln in den Scheiteln S 1 , S 2 {\displaystyle S_{1},\;S_{2}} aus.
+Sei nun P = ( 0 , b ) {\displaystyle P=(0,b) } der obere Nebenscheitel der Ellipse und A = ( - a , 2 b ) , B = ( a , 2 b ) {\displaystyle A=(-a,2b),B=(a,2b)} .
+Man betrachtet ein Dreieck, das von den beiden Fixpunkten F L {\displaystyle F_{\mathrm {L} }} , F R {\displaystyle F_{\mathrm {R} }} und einem beliebigen Punkt P {\displaystyle P} auf der Ellipse aufgespannt wird.
+Für eine Ellipse mit den Halbachsen a {\displaystyle a} und b {\displaystyle b} und einen Sektor, der mit der großen Halbachse den Winkel   ] 0 ,  2 0,{\frac {\pi }{2}}\right[ } einschließt, gilt:
+Beschreibt man den Ellipsensektor statt durch den Polarwinkel durch den Parameter t {\displaystyle t} aus der Parameterdarstellung ( x , y ) = ( a cos  t , b sin  t ) {\displaystyle (x,y)=(a\cos t,b\sin t)} , so erhält man die Formel
+Für die Ellipse mit der Parameterdarstellung ( a cos  t , b sin  t ) , 0  t < 2  , {\displaystyle \;(a\cos t,b\sin t),\;0\leq t\;<2\pi ,\; } ergibt sich unter Berücksichtigung der Symmetrie für den Umfang U {\displaystyle U}

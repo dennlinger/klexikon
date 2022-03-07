@@ -1,0 +1,25 @@
+Das Ziel des Spieles besteht darin, die vier eigenen Spielfiguren von den Startfeldern auf die Zielfelder (oft "Häuschen" genannt) zu ziehen.
+Dazu müssen die Figuren das Spielbrett einmal umrunden.
+Das Spielbrett ist in der Einzelausgabe doppelseitig bedruckt, sodass Mensch ärgere Dich nicht für maximal sechs Spieler auf der einen und maximal vier Spieler auf der anderen Seite spielbar ist.
+Spielen drei Personen auf dem Spielfeld für vier, so ist der Spieler in der Mitte stark benachteiligt, da er als einziger sowohl einen Gegner direkt hinter sich, als auch den Startbereich des anderen Gegners, der aufgrund der Regeln besonders oft besetzt wird, direkt vor sich hat.
+Daher ist es beim Spiel zu dritt sinnvoll, das Feld für sechs Personen zu nehmen und dort jedes zweite Startfeld zu nutzen.
+Wer eine Sechs würfelt, muss eine eigene Spielfigur aus der Startposition heraus auf sein Startfeld stellen, wenn dort keine eigene Figur steht; danach darf er erneut würfeln und mit der Figur entsprechend viele Felder vorrücken.
+Kommt beim Umlauf eine Spielfigur auf ein Feld, das bereits von einer gegnerischen Spielfigur besetzt ist, gilt die gegnerische Figur als geschlagen und muss zurück auf ihre Startposition.
+Ist das Zielfeld bereits mit einer eigenen Figur besetzt, darf der Zug weder ausgeführt noch neu gewürfelt werden, sondern es ist der nächste Spieler an der Reihe.
+Hat ein Spieler überhaupt keine Figur auf dem Spielfeld (was bei Spielbeginn alle Spieler betrifft), so hat er in jeder Runde drei Versuche, die nötige Sechs zu würfeln, um eine Figur ins Spiel zu bringen.
+Wird diese Option verwendet, so kann eine weitere Variante dem Spieler, der dafür nicht alle drei Versuche benötigt, einen weiteren Wurf gestatten.
+Wer mit einer gewürfelten Zahl eine gegnerische Figur schlagen kann, muss dies tun ("Schlagzwang").
+Übersieht er das und zieht eine andere eigene Figur, dürfen die Gegner eine Figur des Spielers "pusten", d. h. zurück in die Startposition stellen.
+Zur Steigerung der Spielfreude kann man optional den "Schlagzwang" erweitern, indem die gegnerische Figur geschlagen werden muss, auch wenn man damit an den eigenen Zielfeldern vorbei eine weitere Runde laufen muss.
+Trifft man mit einem Spielstein genau auf ein Eckfeld, zum Beispiel, nachdem man vom Startfeld aus eine Vier gewürfelt hatte, darf man mit seiner Spielfigur im nächsten Spielzug eine diagonale Abkürzung nehmen und kann sich so den halben Weg sparen.
+Jeder Spieler hat somit also zwei Punkte, an denen er den Weg abkürzen kann.
+Dafür darf man seine Spielfiguren aber nur ins Ziel setzen, wenn man sie mit dem Würfelwurf bis ans Zielende (also die erste Figur auf das letzte Feld des Zieles, die zweite auf das vorletzte Feld usw.) setzen kann, während man beim normalen Spiel auch im Ziel seine Figuren noch mit kleinen Würfelwürfen vorrücken darf.
+Bei einem Sechser-Wurf besteht in dieser Variante kein Zwang, eine Figur auf das Spielfeld zu bekommen, es kann auch eine andere Figur gezogen werden.
+Weitere Varianten sehen auch vor, dass man über weiter oben beschriebene "Abkürzungen" auch zurückspringen muss, wenn man dadurch eine gegnerische Spielfigur schlagen kann.
+Auch gibt es Variationen, bei denen man entgegen der Spielrichtung vor das eigene Haus zurückspringen kann, wenn man dadurch bei entsprechend gewürfelter Augenzahl eine gegnerische Spielfigur schlagen kann.
+Die Pöppel in der Sperre dürfen allerdings auch erst dann wieder bewegt werden, wenn der Spieler keine andere Zugmöglichkeit hat.
+Die Sperre wird zudem aufgelöst, wenn vor dem eigenen Zug eine gegnerische Spielfigur direkt hinter der Sperre landet ("anklopfen") oder die Sperre geschlagen wird.
+Innerhalb der Kette darf nicht geschlagen werden, von hinten kommende und vorher nicht in der Kette befindliche Spielfiguren können jedoch einzelne Figuren der Kette schlagen und ihre Position einnehmen.
+Bei der Variante Buntes Ärgern werden in der Startaufstellung die Pöppel auf die verschiedenen Startfelder aufgeteilt, sodass der Spieler Figuren mit einem verkürzten Weg zum Ziel hat.
+Geschlagene Figuren kommen in das jeweils zuletzt passierte Startfeld und wenn dieses voll ist in das jeweils folgende.
+Bei einem Pasch darf der Spieler erneut würfeln und ziehen, beim dritten Pasch in Folge muss die Figur, die am nächsten am Ziel ist, zurück ins Haus.

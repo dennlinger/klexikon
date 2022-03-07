@@ -1,0 +1,25 @@
+HTML-Dokumente sind die Grundlage des World Wide Web und werden von Webbrowsern dargestellt.
+HTML dient als Auszeichnungssprache dazu, einen Text semantisch zu strukturieren, nicht aber zu formatieren.
+Genau hier lag der Ansatzpunkt von HTML.
+Neben Elementen mit Start- und Endtag gibt es in HTML auch inhaltsleere Elemente, wie etwa Zeilenumbrüche (br) oder Bilder (img).
+Es geht in HTML um beschreibende (englisch descriptive), nicht um verfahrens- (englisch procedural) und darstellungsorientierte (englisch presentational) Textauszeichnung, auch wenn sich HTML in früheren Versionen dafür verwenden ließ.
+Wie diese Bedeutung letztlich dem Benutzer vermittelt wird (im Falle einer Überschrift z. B. durch vergrößerte, fette Schrift), ist zunächst dem Webbrowser überlassen und hängt von der Ausgabe-Umgebung ab.
+Denn obwohl HTML-Dokumente in der Regel auf Computerbildschirmen dargestellt werden, können sie auch auf anderen Medien ausgegeben werden, etwa auf Papier oder mittels Sprachausgabe.
+CSS-Formatvorlagen eignen sich dazu, um auf die Präsentation eines HTML-Dokuments in verschiedenen Medien Einfluss zu nehmen.
+Die Sprache HTML beschreibt, wie der Browser (oder ein anderes Programm, wie z. B. ein Texteditor) die Auszeichnungen des Textes zu "verstehen" hat, nicht, wie er sie dann in der Darstellung umsetzt.
+So besagt <h1> zwar, dass eine Überschrift folgt, nicht aber, in welcher Schriftgröße oder Schriftschnitt diese darzustellen ist - hier haben sich nur gewisse übliche Standardeinstellungen eingebürgert, die aber nicht Teil der HTML-Spezifikation sind.
+HTML ist damit auf plattformunabhängige Portierbarkeit angelegt, sofern diese vom verwendeten HTML-Renderer unterstützt werden.
+HTML ist eine Auszeichnungssprache und wird als solche meist von Programmiersprachen abgegrenzt (siehe dazu Abschnitt Äußere Systematik: Einordnung als Programmiersprache oder Datenformat im Artikel über Auszeichnungssprachen).
+Ein ähnliches Konzept (logische Beschreibung) wie hinter HTML steht hinter dem Satzsystem TeX/LaTeX, das im Unterschied zu HTML jedoch auf die Ausgabe per Drucker auf Papier zielt.
+Ein HTML-Dokument besteht aus drei Bereichen:
+Der HTML-Körper (englisch body) enthält die eigentlichen Seiteninformationen.
+HTML unterscheidet zwischen Block- und Inline-Elementen.
+So wird ein Text in HTML ausgegeben:
+Beim Entwurf der letzten HTML-Version 4 sollte der Tatsache, dass in vielen HTML-Dokumenten noch Elemente und Attribute zur Präsentation eingesetzt werden, Rechnung getragen werden.
+Durch diese DTD soll Webautoren, die noch nicht logische Strukturierung und Präsentation voneinander trennen, die Möglichkeit gegeben werden, standardkonformes HTML zu schreiben.
+Im Laufe der Jahre ist HTML um Elemente erweitert worden, die der visuellen Gestaltung der Dokumente dienen.
+Heutzutage ist die CSS-Unterstützung der Browser ausreichend, um damit eine anspruchsvolle Gestaltung zu realisieren.
+In den Anfangsjahren von HTML bis in die 2000er Jahre hinein wurde noch nicht streng zwischen Layout und Seitenphysik unterschieden.
+Schon sehr früh in der Geschichte von HTML wurden Zusatztechniken erfunden, die es ermöglichen, HTML-Dokumente während der Anzeige im Browser dynamisch zu verändern.
+Man spricht bei solchen interaktiven Dokumenten von dynamischem HTML.
+Sie bietet Webprojekten eine Auswahl von Farben, Größen, Schriftarten Layouts und grundlegenden Stildefinitionen für alle HTML-Elemente, wenn den verantwortlichen Entwicklern diese Auswahl gefällt.

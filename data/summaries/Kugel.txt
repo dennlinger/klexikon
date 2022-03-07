@@ -1,0 +1,25 @@
+Die Kugelfläche ist die bei der Drehung einer Kreislinie um einen Kreisdurchmesser entstehende Fläche.
+Der feste Punkt wird als Mittelpunkt oder Zentrum der Kugel bezeichnet, die Zahl r {\displaystyle \!\ r} als Radius der Kugel.
+Diese Menge heißt das Innere der Kugel.
+Die Vereinigungsmenge einer Kugelfläche und ihres Inneren heißt Kugelkörper oder Vollkugel.
+Die Kugelfläche wird auch Kugeloberfläche oder Sphäre genannt.
+Die Punkte auf der Kugelfläche mit dem Radius r {\displaystyle \!\ r} und dem Zentrum im Ursprung können durch Kugelkoordinaten wie folgt parametrisiert werden:
+Wäre der Radius des Zylinders gleich dem Kugelradius, bestünde der Schnitt aus einem Berührkreis.
+Ist die Kugel in Parameterform
+Nach einer Überlegung des griechischen Mathematikers Archimedes gibt es zu einer Halbkugel mit Radius r {\displaystyle \!\ r} einen Vergleichskörper, dessen Volumen mit dem der Halbkugel übereinstimmt, aber einfach zu berechnen ist.
+Dieser Vergleichskörper entsteht dadurch, dass man aus einem Zylinder (genauer: einem geraden Kreiszylinder) mit Grundflächenradius r {\displaystyle \!\ r} und Höhe r {\displaystyle \!\ r} einen Kegel (genauer: einen geraden Kreiskegel) mit Grundflächenradius r {\displaystyle \!\ r} und Höhe r {\displaystyle \!\ r} entfernt.
+Im Falle der Halbkugel ist die Schnittfläche eine Kreisfläche.
+Daher gilt für das Volumen der (Voll-)Kugel:
+Eine Kugel mit Radius R {\displaystyle R} , deren Mittelpunkt im Koordinatenursprung liegt, lässt sich durch die Gleichung
+Das Volumen der Kugel ergibt sich daher als
+Bei einer Kreisfläche entsteht so eine Kugel.
+Die Gleichung für den Kreis ist
+Eingesetzt in die Gleichung für den Kreis erhalten wir
+Die Kugeloberfläche ist die zweidimensionale Fläche, die den Rand der Kugel bildet.
+Ihr Flächeninhalt ist A = 4  r 2 {\displaystyle {A}=4\pi {r^{2} }} und damit gleich groß wie der der Mantelfläche des Kreiszylinders, der die Kugel umhüllt.
+für die Mantelfläche eines Rotationskörpers ergibt sich:
+Den Rand der n {\displaystyle n} dimensionalen Kugel, also die Menge aller Punkte, deren Abstand vom Mittelpunkt gleich r {\displaystyle r} ist, bezeichnet man als ( n - 1 ) {\displaystyle (n-1)} dimensionale Sphäre oder kurz ( n - 1 ) {\displaystyle (n-1) } Sphäre.
+Wenn man ohne weitere Angaben von der n {\displaystyle n} dimensionalen Kugel spricht, meint man meist die n {\displaystyle n} dimensionale Einheitskugel; in diesem Fall liegt der Mittelpunkt im Ursprung des Koordinatensystems und der Radius ist gleich 1.
+Das n {\displaystyle n} -dimensionale Volumen einer n {\displaystyle n} -dimensionalen Kugel mit dem Radius r {\displaystyle r} ist
+Den ( n - 1 ) {\displaystyle (n-1)} dimensionalen Inhalt der ( n - 1 ) {\displaystyle (n-1)} dimensionalen Oberfläche, also der ( n - 1 ) {\displaystyle (n-1) } Sphäre erhält man durch Ableitung des Volumens nach dem Radius:
+die offene Kugel mit Mittelpunkt a {\displaystyle a} und Radius r {\displaystyle r} .

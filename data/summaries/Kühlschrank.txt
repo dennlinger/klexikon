@@ -1,0 +1,25 @@
+Mittels eines häufig an der Rückseite befindlichen und per Temperaturregler geregelten Kühlaggregates wird das Kühlschrankinnere gekühlt.
+Ebenso existieren Kühlschränke auf der Basis von Verdunstungskühlung oder durch Nutzung niedriger Außentemperaturen.
+Das Gehäuse der Kühlfächer ist wärmegedämmt, um den Energieaufwand zur Erhaltung der Differenz zur Umgebungstemperatur niedrig zu halten.
+Bei allen Kühlschranktypen wird mittels Wärmeüberträgern dem Innenraum des Kühlschranks Wärme entzogen und an die Umgebung abgegeben (siehe Kältemaschine und Wärmepumpe).
+Beim Kompressorkühlschrank wird ein gasförmiges Kältemittel durch einen Kompressor adiabatisch verdichtet, wodurch sich das Kältemittel erwärmt.
+Danach strömt es zur Druckabsenkung durch eine Drossel - z. B. ein Expansionsventil oder ein Kapillarrohr - und dann weiter in den Verdampfer im Inneren des Kühlschranks.
+Hier entnimmt das verdampfende Kältemittel aus den Kühlfächern die notwendige Verdampfungswärme (Siedekühlung) und strömt als Gas weiter zum außenliegenden Kompressor.
+In einem modernen Haushaltskühlschrank herrschen verschiedene Temperaturzonen:
+Während eine geringe Umgebungstemperatur des Aufstellungsortes zunächst hilft, Energie zu sparen, führt - scheinbar paradoxerweise - das Unterschreiten der Mindesttemperatur zu einem Auftauen im Eis-/Tiefkühlfach.
+Das hängt damit zusammen, dass der Kühlraum und die Tiefkühlfächer meist einen gemeinsamen Kompressor haben, der über einen Thermostaten im Kühlraum geregelt wird.
+Wer Energie sparen möchte, indem er ein Kühlgerät in einem ungeheizten Raum aufstellt, bei dem auch dauerhafte Temperaturen unter 10 °C zu erwarten sind, muss beachten, dass das Gefrierfach einer Kühl-/Gefrierkombination nicht funktioniert, wenn die Kühllast des Kühlschrankteiles zu gering ist.
+Stehen Kühl- und Tiefkühlschrank bzw. Tiefkühltruhe an kalten Orten, muss berücksichtigt werden, dass die Hersteller Mindest-Temperaturen angeben für den zuverlässigen Betrieb bzw. eine lange Lebensdauer.
+Die Wartung durch das Abtauen von Kühlschränken ist eine Maßnahme, um Energieverschwendung zu verhindern.
+Bei vielen Gefrierschränken oder Kühl-/Gefrierkombinationen ohne No-Frost-Technik ist dies für das Gefrierteil nach wie vor notwendig.
+Um einen Kühlraum abzutauen, muss das Kühlgut zunächst in einem anderen Kühlraum oder gut isoliert provisorisch zwischengelagert werden.
+Kühlschränke früherer Baujahre müssen manuell abgetaut werden, indem man sie einige Stunden ausschaltet und den Eispanzer, der sich an der Innenrückwand aus gefrorenem Kondenswasser gebildet hat, durch Verflüssigung in einen Extrabehälter ablaufen lässt oder manuell entfernt.
+Eine Technik, dieses Problem zu vermeiden, besteht darin, mit einem Umluftsystem im Inneren des Kühlschranks dafür zu sorgen, dass die Luft einem Verdampfer - außerhalb des eigentlichen Kühlraums - zugeführt wird, an dem sich dann Eis bildet.
+Dieser wird durch die Kältemittelleitung unmittelbar am Ausgang des Kompressors - wo diese verhältnismäßig hohe Temperaturen erreicht - beheizt, womit das Abtauwasser leichter in die Umgebung verdunsten kann; dadurch trägt es auch zum Kühlen des komprimierten Kühlmediums im Kondensator bei; ein Teil der in der Abtau-Heizplatte verbrauchten Energie wird hier zurückgewonnen.
+Im Betrieb ist zu beachten, dass möglichst nichts vom Kühlgut die Rückwand berührt, da Kondenswasser sonst über das Kühlgut teilweise in den Kühlraum rinnen könnte.
+Um eine Abtauautomatik auch bei Kühlraumtemperaturen unter dem Gefrierpunkt umzusetzen, ist es erforderlich, den eigentlichen Kühlraum von dem Raum, in dem die Luft auf die Solltemperatur gekühlt wird, zu trennen.
+Während der Kühlphase bläst ein Ventilator die kalte Luft in den Gefrierraum.
+Vielfach sind die Geräte auch mit einem separaten Schnellgefrierfach ausgestattet (es befindet sich meist oben und ist mit einer separaten Klappe versehen, während die anderen Gefrierfächer wie eine Schublade funktionieren).
+Durch ihre Form (kalte Luft sinkt nach unten, daher entweicht beim Öffnen des Deckels weniger davon als beim Öffnen der Tür eines Gefrierschranks) ist ihr Energieverbrauch geringer, vor allem dort, wo der Deckel häufig geöffnet wird, etwa in Supermärkten, macht sich dies positiv bemerkbar.
+Im Haushalt eingesetzte Kühlschränke arbeiten nach dem Kompressor-Prinzip.
+Wurde ein für stehenden Betrieb ausgelegter Kompressorkühlschrank längere Zeit liegend transportiert, so kann sich Schmiermittel aus dem Kompressor in den Kühlkreislauf verlagert haben.

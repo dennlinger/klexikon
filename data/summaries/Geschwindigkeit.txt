@@ -1,0 +1,25 @@
+Die Geschwindigkeit ist neben dem Ort und der Beschleunigung einer der grundlegenden Begriffe der Kinematik, eines Teilgebiets der Mechanik.
+Die Geschwindigkeit beschreibt, wie schnell und in welcher Richtung ein Körper oder ein Phänomen (beispielsweise ein Wellenberg) im Lauf der Zeit seinen Ort verändert.
+Oft wird mit dem Wort Geschwindigkeit nur ihr Betrag gemeint (Formelzeichen v {\displaystyle v} ), der anschaulich gesprochen das momentane "Tempo" der Bewegung wiedergibt, wie es beispielsweise im Auto vom Tachometer angezeigt wird.
+Ruht ein Körper in einem Bezugssystem, so hat er in einem anderen Bezugssystem, welches sich gegenüber dem ersten mit der Geschwindigkeit v = {\displaystyle {\vec {v}}} bewegt, die entgegengesetzt gleich große Geschwindigkeit - v = {\displaystyle -{\vec {v} }} .
+Bis dahin war nur die Durchschnittsgeschwindigkeit längs einer gegebenen endlichen Strecke genau definiert worden, und eine Geschwindigkeitszunahme, wie beispielsweise beim freien Fall, stellte man sich als Folge kleiner Sprünge des Geschwindigkeitsbetrags vor.
+Bei Galilei hingegen überstreicht eine stetig variierende Geschwindigkeit ein Kontinuum aller Zwischenwerte, die er nicht als Durchschnittsgeschwindigkeit eines gegebenen Stückchens der Strecke, sondern als Momentangeschwindigkeit am jeweiligen Punkt der Bahn begriff.
+Der Begriff der Geschwindigkeit (Symbol v = {\displaystyle {\vec {v}}} ) an einem bestimmten Punkt ( A {\displaystyle A} ) der Bahnkurve ergibt sich näherungsweise aus der Ortsänderung  r = {\displaystyle \Delta {\vec {r} }} im Zeitraum  t {\displaystyle \Delta t} :
+Aus dieser Geschwindigkeit ergibt sich die Momentangeschwindigkeit am Punkt A {\displaystyle A} , wenn man ihm den Punkt B {\displaystyle B} so nahe kommen lässt, dass der Quotient  r =  t {\displaystyle {\tfrac {\Delta {\vec {r}}}{\Delta t} }} einem bestimmten Wert, dem Grenzwert, zustrebt.
+Die Momentangeschwindigkeit am Punkt A {\displaystyle A} ist damit (in drei gleichwertigen Schreibweisen):
+Der Betrag der Momentangeschwindigkeit (das "Tempo" oder die Bahngeschwindigkeit) ist durch den Betrag des Geschwindigkeitsvektors
+Folglich beträgt in diesem Fall die Durchschnittsgeschwindigkeit 66,7 km/ h, obwohl dies vielleicht der Intuition widerspricht.
+Ein weiteres Beispiel für Körper mit veränderlicher Geschwindigkeit sind Himmelskörper, deren Geschwindigkeiten auf Ellipsenbahnen um einen Zentralkörper variieren.
+Wenn die Geschwindigkeit eines Körpers oder Massenpunkts zu Beginn eines bestimmten Bewegungsabschnittes interessiert, wird sie auch als Anfangsgeschwindigkeit (Formelzeichen meist v 0 {\displaystyle v_{0}} ) bezeichnet.
+Die erste Ableitung der Geschwindigkeit nach der Zeit ist die Beschleunigung: a = ( t ) = v =  ( t ) = s =  ( t ) {\displaystyle {\vec {a}}(t)={\dot {\vec {v}}}(t)={\ddot {\vec {s}}}(t)} .
+Die zweite Ableitung der Geschwindigkeit nach der Zeit ergibt den Ruck einer Bewegung:
+Am einfachsten kann die Geschwindigkeit bestimmt werden, indem man misst,
+Eine weitere gebräuchliche Einheit der Geschwindigkeit ist Kilometer pro Stunde (km/h).
+Umrechnung gebräuchlicher Geschwindigkeitseinheiten:
+Setzt man voraus, dass es ein allgemein gültiges Bezugssystem gibt, so nennt man die Geschwindigkeiten, die in diesem System gemessen werden, Absolutgeschwindigkeiten.
+Geschwindigkeiten, die sich auf einen Punkt beziehen, der sich selbst in diesem System bewegt, heißen Relativgeschwindigkeiten.
+Beispiel: Eine Straßenbahn fährt mit einer Geschwindigkeit von 50 km/ h. Darin bewegt sich ein Fahrgast mit einer Relativgeschwindigkeit (gegenüber der Straßenbahn) von 5 km/ h. Seine Absolutgeschwindigkeit (vom ruhenden Beobachter auf der Straße aus gesehen) beträgt also 55 km/h oder 45 km/ h, je nachdem, ob er sich in Fahrtrichtung oder gegen die Fahrtrichtung bewegt.
+Stattdessen sind alle Geschwindigkeiten Relativgeschwindigkeiten.
+Dies macht sich jedoch erst bei sehr hohen Geschwindigkeiten bemerkbar.
+Stattdessen arbeitet man mit der Geschwindigkeitsverteilung, die angibt, wie häufig ein bestimmter Bereich von Geschwindigkeiten in dem Teilchenensemble auftritt.
+Aus den Gesetzen der klassischen Physik folgt für Geschwindigkeiten unter anderem:

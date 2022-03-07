@@ -1,0 +1,25 @@
+Die Null ist das neutrale Element bezüglich der Addition (anschaulich gesprochen die Differenz zweier gleicher Zahlen) in vielen Körpern, wie etwa den rationalen Zahlen, reellen Zahlen und komplexen Zahlen, und eine gängige Bezeichnung für ein neutrales Element in vielen algebraischen Strukturen, selbst wenn andere Elemente nicht mit gängigen Zahlen identifiziert werden.
+Als ganze Zahl ist die Null Nachfolgerin der Minus-Eins und Vorgängerin der Eins.
+Auf einer Zahlengeraden trennt der Nullpunkt die positiven von den negativen Zahlen.
+Dargestellt wird die Null durch die Ziffer "0", deren Einführung Stellenwertsysteme wie die Dezimalzahlen erst möglich machte.
+Erst die Erfindung eines Stellenwertsystems mit dem Lückenzeichen "0" und die Betrachtung von "0" als eigenständige Ziffer, die etwas darstellt, mit dem man wie mit anderen Zahlen rechnen konnte, führte zur Vorstellung, dass die Null "0" eine Zahl sei.
+In solchen Fällen stand in den Texten aber nur, dass Minuend und Subtrahend gleich seien, es findet sich weder ein Name für null noch wurde eine Anzahl von null als Lösung algebraischer Aufgaben anerkannt.
+Da in dezimalen Zahlen Stellen mit einer Lücke, d. h. dem Wert null, sehr viel häufiger auftreten als im babylonischen Sexagesimalsystem, wurde ein Lückenzeichen für die Null im dezimalen Stellenwertsystem unentbehrlich, was für die Akzeptanz der Null als Zahl wohl förderlich gewesen sein dürfte.
+Die Ziffer Null erhöhte damit den Wert der folgenden Ziffer.
+Damit hatte man eine rechnerische Vorstufe der Zahl Null.
+Er räumt der Null aber nicht den gleichen Stellenwert wie den übrigen Zahlen ein - in seinem Buch nennt er sie Zeichen statt Zahl.
+In der Mathematik steht das Symbol "0" häufig auch allgemein für Nullelemente von Strukturen, selbst wenn diese von einer Zahl 0 unterschieden werden.
+Eine einzeln stehende Ziffer 0 bezeichnet die Zahl Null, ansonsten bedeutet eine Ziffer 0 an einer Stelle, dass der zugehörige Stellenwert in der Stellenwertdarstellung einer Zahl nicht auftritt, z. B. "307" für 3*100 + 0*10 + 7*1.
+Hier wird die Null oft zusätzlich geschrieben, um die Genauigkeit der Messung zu veranschaulichen.
+Typenangaben erfolgen oft mit führender Null, z. B. 001.
+Die Zahl Null weist einige besondere Eigenschaften auf, die bei der Untersuchung von Rechenregeln hervortreten.
+Die Null symbolisiert im mathematischen Sinne das neutrale Element der Addition in einem kommutativen Monoid, das heißt:
+Die Null entsteht als Resultat einer Differenz, bei der der Subtrahend gleich dem Minuenden ist
+Im besonderen Fall, dass a = 0 {\displaystyle a=0} ist, gibt es kein eindeutiges Ergebnis:
+Per Definition gilt a 0 = 1 {\displaystyle a^{0}=1} , für a  0 {\displaystyle a\neq 0} .
+Der Ausdruck 0 0 {\displaystyle 0^{0}} wird entweder undefiniert gelassen oder - sofern dies zweckmäßiger ist - als 1 definiert.
+Daraus folgt jedoch nicht, dass 0 / 2 = 3 ist, denn auch 2 * 0 = 0.
+Bei Maschinenzahlen werden manchmal die positive (+0) und die negative Null (-0) als zwei verschiedene Zahlen angesehen.
+Beim Datentyp Integer ist die Null in der Betrags-Vorzeichendarstellung und beim Einerkomplement vorzeichenbehaftet, bei Gleitkommazahlen ist es meistens der Fall.
+Mit der Einführung der Ziffer 0, die zugleich einen Zahlwert darstellte, musste für diese 0 eine Benennung gefunden werden, im Deutschen ist es null, in anderen Sprachen zero/zero.
+"Null" hat im Englischen - und in der Informatik - eine von 0 zu unterscheidende Bedeutung, siehe Nullwert.

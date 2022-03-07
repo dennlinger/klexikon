@@ -1,0 +1,25 @@
+Nachdem der Strom anfangs vorwiegend für Beleuchtungszwecke genutzt worden war, führte die allgemeine Verfügbarkeit der Energie zu neuen innovativen strombetriebenen Maschinen in der Industrie und in Privathaushalten und damit zu einem weiteren Anstieg der Stromerzeugung.
+Folgende Arten von Kraftwerken sind im Einsatz:
+Die Verfahren, die sehr unterschiedlichen Arten von Primärenergie in elektrischen Strom umzuwandeln, unterscheiden sich bezüglich technischem Aufwand, Wirkungsgrad, aber auch Umweltbelastung.
+Der Wirkungsgrad eines Kraftwerkes gibt an, in welchem Maße die darin eingesetzte Primärenergie als Nutzenergie verfügbar gemacht wird.
+Dieser hängt stark von der verwendeten Technik ab und reicht von ca. 35 % bei einem Kernkraftwerk über 46 % bei (modernen) Steinkohlekraftwerken bis zu 90 % bei Wasserkraftwerken.
+Ist das zu versorgende Gebiet ausreichend groß, wird die Gesamtlast stets auf viele Kraftwerke verteilt:
+Auch lassen sie sich häufig schlecht regeln (Beispiel: Braunkohlekraftwerke) oder können ihre Primärenergie nicht speichern (Beispiel: Laufwasser-Kraftwerke).
+Bei dauerhaft Energie liefernden Kraftwerkstypen spricht man auch von Dauerstrich oder Dauerstrichleistung, in Abgrenzung zu Systemen mit zeitlich wechselnder Leistung, etwa Solarkraftwerken.
+Spitzenkraftwerke können auch als Mittel- und Grundlastkraftwerke eingesetzt werden.
+Für manche Kraftwerkstypen spricht beispielsweise ihre Fähigkeit zum Schnellstart und damit zum Ausgleich von Lastschwankungen im Stromnetz.
+Aus diesem Grunde werden die letztgenannten in erster Linie zur Deckung der Grundlast herangezogen, während Gasturbinen- und Wasserkraftwerke (Pumpspeicherkraftwerke) häufig die Spitzenlast im Netz übernehmen.
+Der Stromverbrauch ist nicht konstant, Kraftwerke können ausfallen und die Kraftwerksleistung kann variieren (siehe Bild).
+Eine Alternative ist, die Kondensatvorwärmung aus Anzapfdampf zu reduzieren und so mehr Dampf für die Stromerzeugung in der Turbine zu lassen.
+Diese zweite Möglichkeit hat den Vorteil, dass sie den Wirkungsgrad des Kraftwerks nicht so beeinträchtigt wie die Frischdampf-Drosselung.
+Entsprechend haben Wasserkraftwerke und Gaskraftwerke sehr steile, Kohle- und Kernkraftwerke hingegen flache Lastrampen.
+Es gibt aber auch Möglichkeiten, die Energiebilanz eines Stromnetzes mit Hilfe der Verbraucher auszugleichen.
+Zur Vermeidung von Übertragungsverlusten werden nahe gelegene Großkraftwerke bevorzugt.
+Ausnahmen sind Braunkohlekraftwerke, die zugunsten geringer Transportkosten in Nähe der Förderstätten errichtet werden.
+Vergleichbare Probleme kennt man von Wasserkraftwerken, die weitab von Industriezentren gebaut wurden, weil genau dort extrem viel elektrische Leistung erzeugt werden kann:
+Damit werden im Unterschied zu den anderen Kraftwerkstypen, deren Wirkungsgrad i.a.
+Kleinkraftwerke werden zudem teils in Fernwärmenetzen eingesetzt, wodurch ein wesentlicher Teil der eingesetzten Primärenergie (höherer Gesamt-Wirkungsgrad) auch als Wärme verkauft werden kann.
+Mit steigenden Brennstoff- und CO2-Kosten gewinnen deshalb Kraft-Wärme-Kopplungs-Anlagen beziehungsweise BHKWs an Bedeutung.
+Zudem muss man beachten, wie flexibel ein Kraftwerk Strom erzeugen kann:
+Ein flexibles Kraftwerk (zum Beispiel Gas-, Öl- oder Speicherkraftwerk), das insbesondere zu Zeiten des Spitzenstrombedarfs und damit hoher Strompreise Strom produziert, arbeitet auch bei überdurchschnittlichen Stromerzeugungskosten noch profitabel.
+Zurückzuführen ist dieser Rückgang auf den Ausbau erneuerbarer Energien und den größeren Wirkungsgrad des heutigen fossilen Kraftwerksparks.

@@ -1,0 +1,25 @@
+Android (von englisch android Androide, von altgriechisch v Mann und o Gestalt) ist sowohl ein Betriebssystem als auch eine Software-Plattform für mobile Geräte wie Smartphones, Tabletcomputer, Fernseher, Mediaplayer, Netbooks und Autos, die von der von Google gegründeten Open Handset Alliance entwickelt werden.
+Ausgeliefert werden die meisten Android-Geräte allerdings mit vorinstallierter proprietärer Software, darunter meist die Google Mobile-Dienste (kurz GMD; ugs.
+Ein Großteil der derzeit in Betrieb befindlichen Android-Geräte sind solche "Google-Androids"; konkurrierende Android-Betriebssysteme sind unter anderem Fire OS von Amazon sowie das freie Betriebssystem LineageOS.
+Von 2010 bis 2016 brachte Google mit der Nexus-Produktreihe in Kooperation mit Hardware-Partnern eigene Android-Tablets und -Smartphones auf den Markt.
+Dadurch konnte man Geräte mit aktuellen Android-Updates anbieten.
+Neben dem für Telefone und Tabletrechnern optimierten Android veröffentlicht Google auch angepasste Android-Versionen für Fernsehgeräte - in Form von Android TV, für Uhren bzw. Smartwatches (Android Wear - seit 16. März 2018: Wear OS) und Autos (Android Auto).
+Vor Android 4.0 und bei einzelnen Herstellern gibt es auch "Menü" oder "Suche".
+Seit Android 7 wird durch das lange Drücken des Knopfes "Letzte Applikationen" der Bildschirm geteilt und es lassen sich zwei Apps gleichzeitig benutzen.
+In der Anfangszeit von Android ließ das System noch Funktionen vermissen, die von den Smartphone-Herstellern mittels eigener Ergänzungen (sog. Herstelleraufsätze) ergänzt wurden.
+Einen ähnlichen Status besitzen Google-Play-Editionen bereits existierender Geräten, die mit Stock-Android statt der Herstelleroberfläche ausgeliefert werden.
+Diese sind nur unvollständig Bestandteil von Android, lassen sich jedoch nachrüsten.
+Es existieren jedoch Android-Varianten wie LineageOS, welche ohne proprietäre Software auskommen, diese müssen jedoch vom Nutzer installiert werden.
+Zu jeder Android-Version entwirft die Open Handset Alliance oder Google ein Android-Maskottchen mit der jeweils zur Version gehörenden Süßspeise.
+Dieses kann ab Version 2.3 durch mehrmaliges Berühren der Android-Version in den Systemeinstellungen angezeigt werden.
+Google behält eine gewisse Kontrolle über Android-Software.
+Verschiedene Tablets verwenden ein unlizenziertes Android 4; "gerootete" Geräte verwenden oft ein Custom-ROM.
+Diese haben nach dem Flashen der entsprechenden GApps ebenfalls die Berechtigung für den Zugriff auf den Google Play sowie die anderen GApps der Google Mobile Services (GMS).
+Einige Software-Hersteller bieten ihre Applikationen auch in alternativen App Stores oder direkt als Installationsdatei an; diese lässt sich dann auf beliebige Weise herunterladen und auf dem Android-Gerät installieren.
+Ab Android 5.0 "Lollipop" wurde Schreibzugriff ausschließlich durch die von Google entwickelte, nicht abwärtskompatibele Programmierschnittstelle "Storage Access Framework" erneut ermöglicht.
+Mit Android 10 wurde "scoped storage" für endnutzerinstallierte Anwendungen eingeführt.
+Die Festlegung, ob eine bestimmte Anwendung entfernt werden darf, legt der Hersteller der mobilen Endgeräte selbst oder in Absprachen mit den Entwicklerfirmen der Anwendung fest (siehe auch Abschnitt zur Kritik/ Kontrolle durch Google, Übermittlung privater Daten).
+Bei den Internetzugriffen ist Android seit Juli 2014 das führende Smartphone-Betriebssystem.
+Viele Hersteller, insbesondere in China, verwenden eine unlizenzierte Android-Version, die keine Google-Dienste wie Google Maps, den Google Play Store und Gmail enthält.
+Es gibt Portierungen für Smartphones, die ursprünglich mit einem anderen Betriebssystem ausgeliefert wurden.
+Andere Projekte portieren Android für einen handelsüblichen Desktop-Computer.

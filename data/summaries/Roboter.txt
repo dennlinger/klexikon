@@ -1,0 +1,25 @@
+Ein Roboter ist eine technische Apparatur, die üblicherweise dazu dient, dem Menschen häufig wiederkehrende mechanische Arbeit abzunehmen.
+Roboter können sowohl ortsfeste als auch mobile Maschinen sein und werden von Computerprogrammen gesteuert.
+Während der Entwicklung von Handhabungsgeräten, die immer komplizierter wurden, kamen Entwickler auf die Idee, sie "Roboter" zu nennen.
+Aktueller ist die Auffassung, dass man unter einem Roboter ein Gerät versteht, das mindestens über drei frei bewegliche Achsen verfügt.
+Durch die häufige Thematisierung von Robotern in Film und Literatur wurde auch die Wissenschaft aufmerksam auf diese Art der Maschinen.
+Das wissenschaftliche Gebiet, das sich mit der Konstruktion von Robotern beschäftigt, heißt Robotik.
+Technisch realisiert werden Roboter hauptsächlich im Zusammenspiel der Disziplinen Mechanik, Elektrotechnik und Informatik.
+Ein Roboter muss nicht unbedingt vollständig autonom handeln können.
+Darum unterscheidet man autonome und ferngesteuerte Roboter.
+Der mechanische Aufbau eines Roboters wird mit Hilfe der Kinematik beschrieben.
+Zur Beschreibung von Robotern wird sowohl die Anzahl als auch Anordnung der Achsen herangezogen.
+Um Roboter in Bewegung setzen zu können, müssen sie mathematisch beschrieben werden.
+Bei der Vorwärtstransformation ergibt sich somit für einen sechsachsigen Roboter mit Tool
+Der Bau von autonomen, mobilen Robotern ist ein beliebtes Teilgebiet der Hobbyelektronik.
+Typische Funktionen von solchen Robotern sind z. B.: einer Linie auf dem Boden folgen, Hindernissen ausweichen, Robotersumo oder einer Lichtquelle folgen.
+Die meisten Humanoiden gehören zur Gattung der Laufroboter, während einige Systeme auch mit einer mobilen Basis auf Rädern ausgestattet sind.
+Dabei wird das Werkzeug am Flansch des Roboters in der Regel fest montiert und ist im einfachsten Fall ein Greifer, der den Roboter für Handlingaufgaben prädestiniert.
+Soll der Roboter vielseitiger eingesetzt werden, so kommen Kupplungen zum Einsatz, die einen Tausch des Werkzeuges auch während des Betriebes ermöglichen.
+Zu den Industrierobotern zählen auch die so genannten Portalroboter, die beispielsweise bei der Produktion von Wafern, in Vergussanlagen oder in der Messtechnik als Koordinatenmessgerät eingesetzt werden.
+Heute werden auch viele Handlingaufgaben durch Industrieroboter ausgeführt.
+Daneben gibt es eine große Zahl an wissenschaftlichen medizinischen Robotersystemen in der Forschung.
+Unter Erkundungsrobotern versteht man Roboter, die an Orten operieren, die für den Menschen (lebens-)gefährlich oder gar unzugänglich sind und ferngesteuert oder (teilweise) autark operieren.
+In diesen Fällen muss dem Roboter eine Vielzahl von möglichen Verhaltensweisen einprogrammiert werden, wovon er die sinnvollste wählen und ausführen muss.
+So mit anderen Robotern, Computern usw.
+Soziale Robotik kann man als Gegenentwurf zu Industrierobotern betrachten.

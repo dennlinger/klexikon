@@ -1,0 +1,25 @@
+Das Maschinenelement Zahnrad ist ein Rad mit über den Umfang gleichmäßig verteilten Zähnen.
+Zwei oder mehr miteinander gepaarte Zahnräder bilden ein Zahnradgetriebe.
+Es wird vorwiegend zur Übertragung zwischen zwei Drehungen oder einer Drehung und einer linearen Bewegung (Paarung eines Zahnrades mit einer Zahnstange) gebraucht.
+Neben reinen Zahnpaarungen in Zahnradgetrieben gibt es Paarungen zwischen Kettengliedern und Zähnen von Zahnrädern in Kettengetrieben.
+Hier greifen Kettenglieder in Zahnlücken ein (zum Beispiel bei einer Fahrradkette am Kettenrad und Ritzel).
+Der Radabstand ist so ausgelegt, dass die Zähne ineinander greifen, und somit die Drehbewegung des einen Zahnrades auf das andere übertragen wird.
+Bei der Paarung zweier außen verzahnter Räder kehrt sich die Drehrichtung um.
+Stirnräder werden aber auch in Getrieben mit sich kreuzenden Achsen verwendet, etwa in Schneckengetrieben und Kronenradgetrieben.
+Die Zahnstange ist als ein Stirnrad mit unendlich großem Durchmesser vorstellbar.
+Die Paarung einer Zahnstange mit einem Stirnrad wird als Zahnstangengetriebe bezeichnet.
+Eine ungewöhnlich lange, aus vielen Einzelstücken zusammengesetzte Zahnstange ist die Zahnschiene einer Zahnradbahn.
+Die meisten Zahnradgetriebe bestehen aus runden Zahnrädern beziehungsweise aus Radkörpern mit runden Wälzlinien.
+Es bildet zusammen mit einem Stirnrad ein Kronenradgetriebe.
+Das Schneckenrad kann im einfachsten Fall ein schräg verzahntes Stirnrad sein.
+Um Linien- anstatt nur Punktberührung zwischen den Zähnen im Getriebe zu erreichen, werden die Zahnflanken des Schneckenrades hohl ausgeführt.
+Die Schnecke ist quasi ein Stirnrad mit wenigen sehr schrägen Zähnen, die schraubförmig um den Zylinder gewunden sind.
+Der Zylinder ist tailliert und passt sich so der Rundung des Schneckenrades an.
+Die Zahnradgetriebe lassen sich nach der Lage der Achsen und der im Eingriff stehenden Räder in Wälzgetriebe und in Schraubgetriebe unterteilen.
+Bei Wälzgetrieben liegen die Achsen entweder parallel (Stirnradgetriebe), oder sie schneiden sich (Kegelradgetriebe).
+Das Gegenrad muss eine Verzahnung von gleichem Modul aufweisen.
+Die Herstellung von Zahnrädern kann auf drei Arten erfolgen:
+Bei Wälzverfahren wird ein Werkzeug von der Herstellungsmaschine so geführt, dass es mit der herzustellenden Zahnflanke "abwälzt".
+Urformend können Zahnräder durch Gießen oder Sintern hergestellt werden; bei Zahnrädern aus Kunststoff kommt Spritzgießen zum Einsatz.
+Zur Fertigung von Stirnrädern gibt der Konstrukteur in der Regel die Zahnweite oder das Rollenmaß mit entsprechenden Toleranzen vor.
+Die Zahnweite kann mit Bügelmeßschrauben auch am noch eingespannten Zahnrad gemessen werden.

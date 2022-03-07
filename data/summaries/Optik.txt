@@ -1,0 +1,25 @@
+Die Optik (von altgriechisch o optikos ,zum Sehen gehörend'), auch Lehre vom Licht genannt, ist ein Gebiet der Physik und beschäftigt sich mit der Ausbreitung von Licht sowie dessen Wechselwirkung mit Materie, insbesondere im Zusammenhang mit optischen Abbildungen.
+Viele Gesetzmäßigkeiten und Methoden der klassischen Optik gelten allerdings auch außerhalb des Bereichs sichtbaren Lichts.
+Dies erlaubt eine Übertragung der Erkenntnisse der Optik auf andere Spektralbereiche, zum Beispiel die Röntgenstrahlung (siehe Röntgenoptik) sowie Mikro- und Funkwellen.
+Die Wellenoptik und die geometrische Optik.
+Grundlage der Wellenoptik ist die Wellennatur des Lichts.
+Die Gesetzmäßigkeiten der geometrischen Optik gelten für den Fall, dass die Abmessungen des optischen Systems sehr groß sind gegenüber der Wellenlänge des Lichts.
+Eine wichtige Teildisziplin der Optik ist die Quantenoptik, die sich mit den Wechselwirkungen von Licht und Materie beschäftigt.
+Dabei spielt besonders der gequantelte Charakter des Lichts eine bedeutende Rolle.
+Daneben sind die nichtlineare Optik (bei der das Licht im Gegensatz zur linearen Optik das umgebende Medium beeinflusst und dadurch zusätzliche Effekte bewirkt) und die Fourieroptik von theoretischem und technischem Interesse.
+In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert.
+Der Weg des Lichtes, etwa durch ein optisches Instrument, wird durch Verfolgen des Strahlenverlaufs konstruiert.
+Als Wellenoptik wird der Bereich der Optik bezeichnet, der von der Wellennatur des Lichts handelt.
+Sie erklärt Phänomene, die durch die geometrische Optik nicht erklärt werden können, da bei ihnen die Welleneigenschaft des Lichtes relevant sind.
+Beispielsweise ist in der geometrischen Optik im Prinzip eine ideale Abbildung möglich, wohingegen die Wellenoptik zeigt, dass durch Beugungseffekte der Auflösung eine prinzipielle Grenze gesetzt ist; dies ist unter anderem bei fotolithografischen Prozessschritten bei der Herstellung moderner integrierter Schaltungen zu beachten.
+Wichtige Elemente der Wellenoptik sind:
+Die Wellenoptik kann auch Effekte beschreiben, die von der Wellenlänge des Lichts abhängen; man spricht dabei allgemein von Dispersion.
+Auf der Wellenoptik bauen die Kristalloptik und die Magnetooptik auf.
+Bedeutsam ist die Remission, also die Absorption eines Teil des Lichts sowie die Reflexion, Transmission beziehungsweise Streuung des restlichen Spektralanteils.
+Reflexion und Transmission lassen sich durch die Brechung des Lichts an den Grenzflächen beschreiben.
+Der Vorgang des Sehens lässt sich mithilfe der Optik nur teilweise erklären.
+Sie stellt eine inhaltliche Verknüpfung der Teilgebiete Optische Messtechnik, Lasertechnik und theoretische Optik (einschließlich Mikrooptik, Lichttechnik oder Faseroptik) dar.
+Anwendung findet die technische Optik unter anderem in der Projektionstechnik, Holografie und Fotografie sowie in der Spektroskopie.
+Optische Bauelemente
+Optische Komponenten
+Optische Geräte

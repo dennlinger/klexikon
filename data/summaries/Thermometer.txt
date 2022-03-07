@@ -1,0 +1,25 @@
+Viele Thermometer basieren auf der Temperaturabhängigkeit der Ausdehnung von Flüssigkeiten, Gasen oder Festkörpern, deren Ausdehnungskoeffizient bekannt ist.
+Dazu muss die Messstelle des Thermometers die Temperatur des Messgegenstands annehmen.
+Pyrometer hingegen messen ohne Berührung des Messgegenstands anhand seiner für die Temperatur charakteristischen ausgesendeten Temperaturstrahlung.
+Jedes Thermometer besteht aus einem Temperatur-Sensor (in dem der Messeffekt auftritt) und einer Anzeige (z. B. anhand einer Skale) oder einer Anschlussstelle für ein elektrisches Signal.
+Thermometer werden anhand von festen Temperaturpunkten, wie den Tripel- oder Schmelzpunkten bestimmter Materialien, oder anhand eines geeichten Referenzthermometers justiert.
+Vielmehr waren zahlreiche wissenschaftliche Erkenntnisse notwendig, die zu unserem heutigen Temperaturbegriff führten und die Einführung einer Temperaturskala sowie deren technische Umsetzung ermöglichten.
+Aber erst im frühen 17. Jahrhundert wurde dieses Prinzip in einem Vorläufer des Thermometers, dem Thermoskop, zur Bestimmung von Temperaturen benutzt.
+Alle bis dahin verwendeten Thermoskope nutzten nicht die thermische Ausdehnung der Flüssigkeit, sondern die der Luft.
+Berührungsthermometer erfordern einen Wärmekontakt zum Messobjekt.
+Messabweichungen treten hier vor allem aufgrund unzureichenden Wärmekontaktes zum Messobjekt oder bei zu großer Wärmeableitung durch das Thermometer auf.
+Im weiteren Sinne zählen auch Maximalwert-Indikatoren oder auch Segerkegel zu den Thermometern.
+Berührungslos messende Thermometer (Pyrometer) nutzen die Eigenschaft, dass Objekte aufgrund ihrer Eigentemperatur eine elektromagnetische Temperaturstrahlung aussenden.
+Zur berührungslosen Temperaturmessung in diesem Bereich sind demnach Infrarotsensoren erforderlich.
+Später wurden die Strahlungsthermometer auch nach den Messwellenlängen unterteilt:
+Ein Beispiel für ein langwellig messendes Thermometer ist das Infrarot-Fieberthermometer.
+Auch Thermografie-Kameras sind zusammen mit einer bilddarstellenden Software als Thermometer geeignet.
+Dabei werden die folgenden Temperaturpunkte verwendet:
+Die Kalibrierung der Referenzthermometer findet in sogenannten Fixpunktzellen statt.
+Andererseits ermöglicht eine Röhre, den Sensor des Referenzthermometers einzubringen.
+Eine Messabweichung eines Thermometers wird verursacht
+Bei Flüssigkeits-Glasthermometern tritt eine weitere Fehlerquelle auf: Nicht nur die thermometrische Flüssigkeit, sondern auch die Kapillare dehnt sich mit steigender Temperatur aus.
+Beide müssen dieselbe Temperatur angenommen haben wie die Messstelle.
+Wird das Thermometer unter anderen Bedingungen betrieben als bei seiner Justierung, ist eine Fadenkorrektur erforderlich.
+Bei allen Temperaturänderungen folgt der Messwert der tatsächlichen Temperatur mit Verzögerung, weil zur Temperaturangleichung Wärme transportiert werden muss.
+Für den thermischen Kontakt des Thermometers mit dem Messobjekt sind zu berücksichtigen,

@@ -1,0 +1,25 @@
+Heute sind Verbrennungsmotoren und Elektromotoren von herausragender Bedeutung.
+Aufgrund deren besseren Wirkungsgrades und der hohen Energiedichte der Kraftstoffe sind seitdem aber Verbrennungsmotoren in den Vordergrund getreten, die die chemische Energie der Brennstoffe in ihrem Inneren in Wärmeenergie und dann in mechanische Energie umwandeln.
+Motoren und andere Kraftmaschinen wandeln chemische, elektrische oder thermische Energie in mechanische Energie (Arbeit) um.
+Dieser Dampf wird über eine mechanische Steuereinheit vom Kurbeltrieb der Dampfmaschine zugeführt.
+Sie ist die moderne Version der Wärmekraftmaschine und nutzt die Dampfkraft mit höherem Wirkungsgrad.
+Verbrennungsmotoren wandeln in thermodynamischen Zyklen die bei der Verbrennung freigesetzte Wärme über Volumenänderungsarbeit zu mechanischer Arbeit um.
+Der Wirkungsgrad von Verbrennungsmotoren ist aufgrund der Umsetzung der chemisch gebundenen Energie des Kraftstoffes über Wärmefreisetzung in mechanische Arbeit stark vom Betriebspunkt abhängig.
+Zur Steuerung der Frischluft läuft in den Standard-Motoren eine Steuerung der ein- und austretenden Gase per Ventilen oder Drehschieber mit den Arbeitstakten synchron.
+Analog dazu kommt bei Dieselmotoren das Pumpe-Düse-System oder die Common-Rail-Einspritzung zur Leistungsverbesserung zum Einsatz.
+Die Glühkerzen des Dieselmotors bzw. Mehrstoffmotors sind nur Hilfsmittel zum Kaltstart; alternativ können hoch entzündliche Startbrennstoffe beim Start zugespeist werden.
+Ist die Verdichtung des Motors nicht so hoch wie bei dem Selbstzünder, dann benötigt er z. B. Zündkerzen, um das Reaktionsgemisch zu entzünden.
+Der Verbrennungsmotor ist mechanisch eine Weiterentwicklung der Dampfmaschine und hat, aus heutiger Sicht noch über Jahrzehnte, beste Voraussetzungen, weiter optimiert zu werden im Verbrauch, im Wirkungsgrad und in der Materialverwendung des Motors.
+Turbinen mit Verbrennungsgasen gehören wie die Dampfturbine zu den "Thermischen Fluidenergie-Maschinen", aber in die Gruppe der Verbrennungskraftmaschinen.
+Die Turbine entzieht ihnen mindestens jene Strömungsenergie, die zum Antrieb des Verdichters nötig ist.
+Hierin und in der idealen Form der Turbinenschaufeln liegen große Entwicklungsmöglichkeiten des Motorenbaus.
+Die kinetische Energie der Brenngase ist aber auch für Rückstoß-Antrieb von Flugzeugen nutzbar.
+Bei Jets werden sogenannte Strahltriebwerke eingesetzt, deren Prinzip weitgehend der Gasturbine entspricht:
+Der Stirlingmotor wandelt Wärmeenergie in mechanische Energie um, ohne dass dazu zwingend eine Verbrennung stattfinden muss.
+Die am häufigsten eingesetzten Motoren sind Elektromotoren.
+Elektromotoren gibt es für Gleichstrom, Wechselstrom und Drehstrom.
+Sie wird neben Leistungssteigerungen im Motorbau auch den Transformatorbau betreffen.
+Eine Sonderform von Elektroantrieben sind die Piezomotoren.
+Hydraulikmotoren arbeiten oft nach dem umgekehrten Prinzip einer Zahnradpumpe.
+Druckluft wird zum Betrieb von Turbinen (z. B. zahnärztliche Turbinen (Bohrer), Zentrifugen) oder Kolbenmaschinen genutzt.
+Ebenso ist ein Windrad ein Motor:

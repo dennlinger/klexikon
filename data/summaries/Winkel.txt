@@ -1,0 +1,25 @@
+Ein Winkel ist in der Geometrie ein Teil der Ebene, der von zwei in der Ebene liegenden Strahlen (Halbgeraden) mit gemeinsamem Anfangspunkt begrenzt wird.
+Ein Winkel kann durch drei Punkte festgelegt werden, von denen einer den Scheitel des Winkels bildet und die beiden anderen auf je einem Schenkel des Winkels liegen.
+Zur Unterscheidung vom Raumwinkel wird der hier definierte Winkel auch als ebener Winkel bezeichnet.
+Der Winkel ist ein geometrisches Gebilde bestehend aus zwei Halbgeraden mit dem selben Ursprung.
+Über die "ursprünglichen" Geraden ermöglicht diese Darstellung etwa Betrachtungen über die verschiedenen Winkelpaare.
+Man kann auch sagen, dass ein Winkel durch eine Drehung eines Strahls oder einer Halbgeraden in einer Ebene um seinen bzw. ihren Anfangspunkt entsteht.
+Weitere Formen der Angabe eines Winkels:
+Zwischen zwei sich schneidenden Geraden gibt es vier Winkel.
+Zwei Geraden oder Strecken, die sich im rechten Winkel schneiden, nennt man zueinander orthogonal.
+Zwei Winkel heißen Komplementwinkel oder Komplementärwinkel, wenn sie sich zu einem rechten Winkel ( 90  {\displaystyle 90^{\circ }} ) ergänzen.
+Schneiden sich zwei Geraden, so bezeichnet man ein Paar benachbarter Winkel als Nebenwinkel.
+Schneiden sich zwei Geraden, so bezeichnet man das Paar gegenüberliegender Winkel als Scheitelwinkel oder Gegenwinkel.
+Die Bezeichnung Scheitelwinkel kommt daher, dass die beiden Winkel durch Punktspiegelung am Scheitelpunkt aufeinander abgebildet werden.
+Zwei Winkel, deren Schenkel paarweise senkrecht aufeinander stehen, sind gleich groß oder ergänzen sich zu 180  {\displaystyle 180^{\circ } } .
+Bei beliebigem Schnittpunkt entfällt die Festlegung symmetrischer Punkte auf der Geraden
+Die etwas exotischere Konstruktion eines 72- oder 54-Grad-Winkels findet man im regelmäßigen Fünfeck.
+Mit anderen Worten, möchte man z. B. (siehe drei Bilder) einen Winkel um die Größe eines anderen vermehren bzw. vermindern, so zeichnet man zunächst um die Scheitelpunkte der Winkel jeweils einen für beide Winkel gleich großen Kreisbogen, der beide Schenkel des jeweiligen Winkels schneidet oder berührt.
+Nun nimmt man die Winkelweite a 2 {\displaystyle \alpha _{2}} am Abstand | B C 2 | {\displaystyle |BC_{2}| } in den Zirkel und überträgt sie damit, ab dem Schnittpunkt C 1 , {\displaystyle C_{1},} auf den verlängerten Kreisbogen.
+Zieht man nun zwei gleich große Kreise auf je einem Schenkel durch den Scheitelpunkt, so bildet die Strecke zwischen den Kreisschnittpunkten die Winkelhalbierende.
+Der zuerst gezeichnete Kreisbogen um den Scheitelpunkt A , {\displaystyle A,} mit einem beliebigen Radius, schneidet die Schenkel des Winkels in B {\displaystyle B} bzw. C .
+{\displaystyle C.} Nun wird, entweder mit der gleichen (siehe Bild) oder mit geänderter Zirkelöffnung, um die Schnittpunkte B {\displaystyle B} und C {\displaystyle C} jeweils ein gleich großer Kreisbogen geschlagen.
+Abschließend zieht man ab dem Scheitelpunkt A , {\displaystyle A,} durch den zuletzt entstandenen Schnittpunkt D , {\displaystyle D,} eine Halbgerade und erhält somit die Winkelhalbierende.
+Konstruiert man die obigen Winkel (90°, 60°, 72° oder 54° oder deren Summen bzw. Differenzen), so lassen sich aus diesen per Winkelhalbierung weitere Winkel (45°, 30°, 36° und 27° oder den zugehörigen Summen bzw. Differenzen) konstruieren, die und deren Abkömmlinge sich wieder halbieren lassen.
+Die Winkelhalbierung kann durch Substitution der Halbwinkelformeln
+Bei der Winkelmessung wird mit Hilfe technischer Einrichtungen ermittelt, in welchem Winkel zwei Geraden oder zwei sonstige Richtungen zueinander stehen.

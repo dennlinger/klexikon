@@ -1,0 +1,25 @@
+iOS ist ein von Apple entwickeltes mobiles Betriebssystem für das iPhone und den iPod touch.
+Im Gegensatz zu Apples Konkurrenten, die ihr eigenes mobiles Betriebssystem oft auch an andere Hardwarehersteller lizenzieren, wird iOS nur auf eigener Hardware von Apple eingesetzt.
+iPhone OS (iOS) unterstützte zu diesem Zeitpunkt ebenfalls noch keine Apps von externen Entwicklern.
+Am 6. März 2008 veröffentlichte Apple dann das SDK für iOS, um Drittentwicklern die Möglichkeit zu geben, Apps für iOS zu entwickeln.
+Zunächst wurden das iOS des iPhones und das des iPads als unterschiedliche Versionen betrieben (iPhone OS und "iPad OS").
+Technisch gesehen waren die Unterschiede aber gering, daher kann das iPad sämtliche für das iPhone entwickelten Apps ausführen.
+Schließlich führte Apple Ende November 2010 die Betriebssysteme des iPhones und des iPads zusammen.
+Dieses basiert auf iOS und ist nur für iPads erhältlich.
+Apple kann dadurch den Tablets weitere Funktionen spendieren und die Entwicklung genauer abgrenzen.
+Ebenso kamen mit iPhone OS 3.0 Push-Nachrichten hinzu.
+Mit iOS 4.0 war es erstmals möglich, Apps in Ordnern zu sammeln.
+Mit iOS 9 wurden vor allem für die neueren Gerätegenerationen Veränderungen an der Bedienung vorgenommen.
+Mittlerweile lassen sich jedoch auch mit älteren Geräten noch kompatible Versionen von Apps über den App Store herunterladen, womit diese Restriktion heute obsolet ist.
+Mit iOS 9 begann Apple ältere, jedoch kompatible Geräte mit 32-Bit-Prozessor (dazu zählen der iPod touch der fünften Generation, die iPhones 4s, 5 und 5c sowie die iPads 2 bis 4 und das iPad mini 1) von einzelnen Funktionen auszuschließen.
+Für Entwickler hat Apple die Möglichkeit eingeführt, nun Apps zu entwickeln, die unter diesen Geräten nicht kompatibel sind (stattdessen kommt beim Versuch des Herunterladens betreffender Apps aus dem App Store nun die Meldung "Diese App ist nicht mit ihrem Gerät kompatibel").
+Eine Reihe von Apps werden mit den iOS-basierten Geräten mitgeliefert.
+Die standardmäßige Installation der Apple Watch App in iOS 8.2, die zur Konfiguration der Uhr verwendet werden soll, sorgte für Kritik, da die App schon vor Erscheinen der Uhr installiert wurde und sich nicht entfernen ließ.
+Sie dient dazu, gefundene Fehler der iOS-Entwickler an Apple zu schicken.
+Apple wird vorgeworfen, Funktionen von iOS nicht selbst entwickelt, sondern lediglich kopiert zu haben.
+Aufsehen erregte zudem iOS 6 für das iPad, mit dem eine zuvor fehlende Uhr-Anwendung auf dem iPad installiert wurde.
+Bis iOS 7 war es Apple möglich, über ein "proprietäres Verfahren" die Daten von gesperrten Geräten auszulesen.
+Entsprechend manipulierte Apps konnten sowohl im iOS- als auch im Mac App Store platziert werden.
+So solle die iOS-9-Softwareaktualisierung bei Apple-internen Tests die Nutzbarkeit des iPhone 4s massiv eingeschränkt haben, Apple solle in der Werbung jedoch wider besseres Wissen Leistungssteigerung und Akkulaufzeitverbesserungen versprochen haben.
+Die Kläger halten Apple vor, dass zumindest darauf hingewiesen hätte werden sollen, dass durch eine Aktualisierung auf iOS 9 die Benutzbarkeit der Geräte eingeschränkt werden könne.
+Weiter solle Apple vorsätzlich die Benutzbarkeit der Geräte durch Softwareaktualisierungen einschränken, um Kunden zum Kauf eines neuen Geräts zu bewegen.

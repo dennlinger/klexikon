@@ -1,0 +1,25 @@
+Kraft ist ein grundlegender Begriff in der Physik.
+Die Bezeichnung Kraft wird in bestimmten Fällen auch im übertragenen Sinn verwendet, gleichbedeutend mit Wechselwirkung und losgelöst von der Darstellung durch einen mechanischen Kraftvektor.
+Außerhalb der Physik bezeichnet Kraft
+Damit steht der Kraftbegriff von Anfang an in engster Verbindung zum Kausalprinzip:
+Physikalische Kräfte im engeren mechanischen Sinne wurden seit der Antike im Zusammenhang mit Problemen von Ruhe und Bewegung der Körper diskutiert.
+Die Kraft bestimmt auch die Geschwindigkeit des in Bewegung befindlichen Körpers in einer Weise, die später als eine Proportionalität zur bewirkten Geschwindigkeit gedeutet wurde.
+Er bestimmt als Maß der eingeprägten Kraft die Abweichung von der reinen Trägheitsbewegung des Körpers, die ihrerseits als geradlinig gleichförmig vorausgesetzt wurde.
+Im Falle der gleichförmig-geradlinigen Bewegung war das eine dem Körper eigene Trägheitskraft, die nicht mit dem heutigen Begriff einer Trägheitskraft verwechselt werden darf.
+Kraft erschien in der newtonschen Mechanik als ein nützlicher, aber lediglich mathematischer Hilfsbegriff zur Analyse und Beschreibung von Bewegungen, der aber die wahren Ursachen eher im Verborgenen lasse.
+Hier sind Kraft - wenn dieser Begriff im newtonschen Sinn überhaupt noch auftaucht - und selbst die potentielle Energie keine Grundbegriffe, sondern werden unter gewissen, für die klassische Physik charakteristischen Bedingungen als effektive Größen abgeleitet.
+Insgesamt kommt das dem früheren Bild, mechanische Kraft sei eine Folge kleiner Stöße, wieder recht nahe.
+Im erweiterten Sinn des Worts Kraft werden diese fundamentalen Wechselwirkungen, zusammen mit der Gravitation, auch als Grundkräfte der Natur bezeichnet, alle zwischen Körpern bekannten physikalischen Vorgänge können auf sie zurückgeführt werden.
+In der Praxis wird oft aus einem bekannten (vorteilhafterweise linearen) Zusammenhang zwischen der wirkenden Kraft und einer leicht zu messenden Größe auf die Kraft geschlossen.
+Eine Kraft kann auf verschiedene Art durch die von ihr verursachte Verformung bestimmt werden.
+Der newtonsche Kraftbegriff basiert auf folgendem Gedanken:
+Die Kraft auf den betrachteten Körper entspricht also dem Produkt aus seiner Masse und seiner Beschleunigung.
+Speziell Zwangskräfte treten auf, wenn Teile des Körpers geometrischen Bindungen unterliegen, die beispielsweise durch Stütz- und Haltekräfte eine Beschleunigung des Körpers verhindern.
+Das d'Alembertsche Prinzip erweitert dieses Prinzip auf Systeme der klassischen Dynamik, die Zwangskräften unterworfen sind, und wird zum Aufstellen von Bewegungsgleichungen verwendet.
+Bei der Beschreibung von Bewegungen in Kraftfeldern, wie hier dem Erdschwerefeld, ist es oft nützlich, von jener Eigenschaft des Körpers, zu der die Kraft proportional ist, zu abstrahieren.
+Sie spielen dabei eine vergleichbare Rolle wie Kräfte bei der geradlinigen Bewegung.
+Der Wechsel zwischen aristotelischer und newtonscher Auffassung der Kraft macht sich auch in der Bezeichnung Scheinkraft (synonym dazu verwendet: Trägheitskraft) bemerkbar.
+Ein anderer Zugang zum Begriff der Trägheitskraft ist mit dem d'Alembertschen Prinzip verbunden:
+Die Bezeichnung Scheinkraft wird auch damit begründet, dass die Trägheitskraft der Definition von Newton, was unter einer wirkenden Kraft zu verstehen ist, nicht genüge.
+Die von Kräften verursachten Phänomene werden - analog zur klassischen Mechanik - durch das Potential beschrieben.
+Die dynamische Kraft "ist die willkürlich ausgeübte Bewegung einer Masse innerhalb eines programmierten Vorgangs", ein Beispiel ist die Schnellkraft.

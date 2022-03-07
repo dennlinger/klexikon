@@ -1,16 +1,21 @@
 """
-Compare results with Rouge.
+Compute baseline ROUGE scores
 """
-
-from rouge_score import rouge_scorer
 from rouge_score.scoring import BootstrapAggregator
 from .utils import print_aggregate, evaluate_directory
 from ..baselines.baselines import get_rouge_scorer_with_cistem
+
+
+def f1_score(score):
+    calculated_f1 = 2 * (score.precision * score.recall) / (score.precision + score.recall)
+    print(f"{calculated_f1:.4f}   {score.fmeasure:.4f}")
+
 
 if __name__ == "__main__":
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
     scorer = get_rouge_scorer_with_cistem()
+    # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_3", gold_dir="./data/gold/")
     print("\n------------------------------------")
@@ -19,7 +24,8 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
+    scorer = get_rouge_scorer_with_cistem()
+    # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_k", gold_dir="./data/gold/")
     print("\n------------------------------------")
@@ -28,7 +34,8 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
+    scorer = get_rouge_scorer_with_cistem()
+    # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_k_simplified", gold_dir="./data/gold/")
     print("\n------------------------------------")
@@ -36,3 +43,12 @@ if __name__ == "__main__":
     result = aggregator.aggregate()
     print_aggregate(result)
 
+    aggregator = BootstrapAggregator(confidence_interval=0.95)
+    scorer = get_rouge_scorer_with_cistem()
+    # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
+
+    evaluate_directory(aggregator, scorer, pred_dir="./data/summaries", gold_dir="./data/gold/")
+    print("\n------------------------------------")
+    print("Results for LexRank/S-Transformer-simplified baseline:")
+    result = aggregator.aggregate()
+    print_aggregate(result)

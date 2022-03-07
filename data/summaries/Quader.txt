@@ -1,0 +1,25 @@
+Ein Quader ist ein geometrischer Körper, der von 6 Rechtecken begrenzt wird.
+Gegenüberliegende Flächen eines Quaders sind parallel und kongruent (deckungsgleich).
+Der Quader ist ein rechtwinkliges dreidimensionales Parallelepiped.
+Im Sonderfall gleicher Kantenlängen a = b = c {\displaystyle a=b=c} , bei dem alle Flächen des Quaders Quadrate sind, ergibt sich ein Würfel.
+Im Fall, dass genau zwei Kantenlängen gleich sind, zum Beispiel a = b  c {\displaystyle a=b\neq c} , ergibt sich ein quadratisches gerades Prisma, man spricht gelegentlich von einer quadratischen Platte ( a = b > c {\displaystyle a=b>c} ) bzw. einer quadratischen Säule ( a = b < c {\displaystyle a=b<c} ).
+Quader haben abhängig von der Anzahl gleicher Kantenlängen mehrere Symmetrieeigenschaften.
+Quader mit drei verschiedenen Kantenlängen haben
+Quader mit zwei verschiedenen Kantenlängen (quadratische gerade Prismen) haben
+Quader mit nur einer Kantenlänge, die Würfel, haben mehr Symmetrien (siehe Würfel - Symmetrie).
+Jeder Quader ist
+Sucht man einen Quader, der bei
+Ist zum Beispiel bei gegebenem Umkugelradius der Quader mit dem größten Volumen gesucht, dann lassen sich die Kantenlängen a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} des Quaders mithilfe der partiellen Ableitungen der Volumenfunktion V ( a , b ) = a * b * c = a * b * d 2 - a 2 - b 2 = a * b * 4 * r u 2 - a 2 - b 2 {\displaystyle V(a,b)=a\cdot b\cdot c=a\cdot b\cdot {\sqrt { d^{2}-a^{2}-b^{2}}}=a\cdot b\cdot {\sqrt {4\cdot r_{u}^{2}-a^{2}-b^{2}} }} berechnen oder mit Beweis durch Widerspruch:
+Angenommen, ein beliebiger Quader mit mindestens zwei verschiedenen Kantenlängen, zum Beispiel a {\displaystyle a} und b {\displaystyle b} , hätte das größte Volumen.
+Dann hat ein anderer Quader, nämlich der Quader mit den Kantenlängen 1 2 * 2 * a 2 + 2 * b 2 {\displaystyle {\frac {1}{2}}\cdot {\sqrt {2\cdot a^{2}+2\cdot b^{2 } } }} , 1 2 * 2 * a 2 + 2 * b 2 {\displaystyle {\frac {1}{2}}\cdot {\sqrt {2\cdot a^{2}+2\cdot b^{2 } } } } und c {\displaystyle c} den gleichen Umkugelradius 1 2 * a 2 + b 2 + c 2 {\displaystyle {\frac {1}{2}}\cdot {\sqrt { a^{2}+b^{2}+c^{2}} } } und das Volumen a 2 + b 2 2 * c {\displaystyle {\frac {a^{2}+b^{2}}{2}}\cdot c} .
+Also hat der beliebiger Quader mit mindestens zwei verschiedenen Kantenlängen Quader ein kleineres Volumen als der andere Quader.
+Daraus folgt, dass ein Quader mit mindestens zwei verschiedenen Kantenlängen nicht das größte Volumen haben kann und schließlich, dass der Quader mit nur einer Kantenlänge, also der Würfel mit 12 gleich langen Kanten, das größte Volumen aller Quader mit gegebenem Umkugelradius hat.
+Quader mit zwei verschiedenen Kantenlängen, nämlich quadratische gerade Prismen, haben 30 Netze.
+Quader mit nur einer Kantenlänge, nämlich Würfel mit 12 gleich langen Kanten, haben 11 Netze.
+Das Quadergitter ist eine Anordnung von unendlich vielen Punkten im dreidimensionalen euklidischen Raum.
+Das Quadergitter entsteht durch 3 Parallelstreckungen (siehe Affine Abbildung) aus dem Würfelgitter.
+Dieses Würfelgitter ist achsensymmetrisch, drehsymmetrisch und punktsymmetrisch.
+Werden unendlich viele parallele Ebenen, die jeweils den Abstand a {\displaystyle a} , b {\displaystyle b} bzw. c {\displaystyle c} haben, orthogonal zu den 3 Koordinatenachsen durch dieses Punktgitter gelegt, dann entsteht ein Flächengitter (siehe Abbildung), das quaderförmige Hohlräume enthält.
+Ein Euler-Ziegel ist ein Quader, bei dem die Längen der Kanten und Flächendiagonalen ganzzahlige Werte haben.
+Er wird von 3 Dreiecken aufgespannt, deren Kantenlängen pythagoreische Tripel sind, und deren rechte Winkel an einer Ecke zusammenstoßen.
+wobei a, b, c die Kanten und d, e, f die Flächendiagonalen sind.

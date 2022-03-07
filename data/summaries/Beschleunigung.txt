@@ -1,0 +1,25 @@
+Beschleunigung ist in der Physik die Änderung des Bewegungszustands eines Körpers.
+Als physikalische Größe ist die Beschleunigung die momentane zeitliche Änderungsrate der Geschwindigkeit.
+Die Beschleunigung ist, neben dem Ort und der Geschwindigkeit, eine zentrale Größe in der Kinematik, einem Teilgebiet der Mechanik.
+Im physikalischen Sinn ist aber jede Änderung einer Bewegung eine Beschleunigung, z. B. auch eine Abnahme des Geschwindigkeitsbetrages - wie ein Bremsvorgang - oder eine reine Richtungsänderung bei gleichbleibendem Geschwindigkeitsbetrag - wie bei einer Kurvenfahrt mit einem Auto.
+Bei einer Beschleunigung von 1 m/s2 verändert sich die Geschwindigkeit pro Sekunde um 1 m/ s.
+Die Beschleunigung a = {\displaystyle {\vec {a} }} ist die Geschwindigkeitsänderung pro Zeitintervall.
+Am Einfachsten lässt sie sich bei konstanter Beschleunigung berechnen.
+Die Beschleunigung ist dann die erste zeitliche Ableitung der Geschwindigkeit nach der Zeit:
+Da die Geschwindigkeit die Ableitung des Ortes nach der Zeit ist, kann man die Beschleunigung auch als zweite Ableitung des Ortsvektors r = {\displaystyle {\vec {r} }} darstellen:
+Die durchschnittliche Beschleunigung des Autos in diesem Zeitintervall war dann
+Das entspricht einem mittleren Beschleunigungswert von
+Es gibt prinzipiell zwei Möglichkeiten, Beschleunigungen zu messen oder anzugeben.
+Die Beschleunigung eines Objekts kann kinematisch bezüglich eines Weges (Raumkurve) betrachtet werden.
+Dazu wird die Momentangeschwindigkeit bestimmt, ihre Änderungsrate ist die Beschleunigung.
+Soll die Beschleunigung in einem beschleunigten Bezugssystem berechnet werden, so sind zusätzlich Trägheitskräfte zu berücksichtigen.
+Der Betrag der Schwerebeschleunigung beträgt demnach
+Die Beschleunigung eines Körpers, der sich entlang eines Weges (einer Raumkurve) bewegt, lässt sich mit den Frenetschen Formeln berechnen.
+Dies ermöglicht eine additive Zerlegung der Beschleunigung in eine Beschleunigung in Bewegungsrichtung (Tangentialbeschleunigung) und eine Beschleunigung senkrecht zur Bewegungsrichtung (Normalbeschleunigung oder Radialbeschleunigung).
+Um den Betrag der Geschwindigkeit zu ändern, muss also eine Kraft wirken, die eine Komponente in Richtung des Tangentialvektors besitzt.
+Ein Sonderfall obenstehender Überlegung ist eine Kreisbewegung mit konstantem Geschwindigkeitsbetrag.
+Bezüglich eines mitrotierenden (und daher beschleunigten) Bezugssystems wird ein Objekt vom Mittelpunkt weg nach außen beschleunigt, dann wird die Bezeichnung Zentrifugalbeschleunigung verwendet.
+Eine Zentrifuge nutzt diesen Effekt, um Dinge einer konstanten Beschleunigung auszusetzen.
+Die Beschleunigung, der das Zentrifugiergut der Bahngeschwindigkeit v {\displaystyle v} ausgesetzt ist, lässt sich dann auch durch die Winkelgeschwindigkeit  {\displaystyle \omega } ausdrücken:
+Mit einem Potential oder Beschleunigungsfeld lässt sich dann für jede Anfangsbedingung, also Anfangsgeschwindigkeit und -position, die Bewegung eines Teilchens (Trajektorie) berechnen.
+Unabhängig vom Potential muss bei Messungen gegebenenfalls auch die Beschleunigung durch die Erdrotation berücksichtigt werden.

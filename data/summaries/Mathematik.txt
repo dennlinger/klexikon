@@ -1,0 +1,25 @@
+Die von Georg Cantor gegen Ende des 19. Jahrhunderts entwickelte Mengenlehre ist aus der heutigen Mathematik ebenfalls nicht mehr wegzudenken, auch wenn sie durch die Paradoxien des naiven Mengenbegriffs zunächst deutlich machte, auf welch unsicherem Fundament die Mathematik vorher stand.
+Unterschieden werden ferner die reine Mathematik, auch als theoretische Mathematik bezeichnet, die sich nicht mit außermathematischen Anwendungen befasst, und die angewandte Mathematik wie zum Beispiel Versicherungsmathematik und Kryptologie.
+Ebenso wie in diesem elementaren Beispiel beim individuellen Erlernen ist die Mathematik auch in ihrer Geschichte fortgeschritten: auf jedem erreichten Stand ist es möglich, wohldefinierte Aufgaben zu stellen, zu deren Lösung weitaus anspruchsvollere Mittel nötig sind.
+Seit dem Ende des 19. Jahrhunderts, vereinzelt schon seit der Antike, wird die Mathematik in Form von Theorien präsentiert, die mit Aussagen beginnen, welche als wahr angesehen werden; daraus werden dann weitere wahre Aussagen hergeleitet.
+In der Praxis spielen noch Definitionen eine Rolle, durch sie werden mathematische Begriffe durch Rückführung auf grundlegendere eingeführt und präzisiert.
+Das hat zur Folge, dass etwa die Widerspruchsfreiheit der Zermelo-Fraenkel-Mengenlehre, die fundamental für die moderne Mathematik ist, nicht ohne Zuhilfenahme weiterer Annahmen beweisbar ist.
+Während in den anderen Wissenschaften die behandelten Gegenstände vorgegeben sind und danach die Methoden zur Untersuchung dieser Gegenstände geschaffen werden, ist bei der Mathematik umgekehrt die Methode vorgegeben und die damit untersuchbaren Gegenstände werden erst danach erschaffen.
+In dieser Weise nimmt und nahm die Mathematik immer eine Sonderstellung unter den Wissenschaften ein.
+Die Weiterentwicklung der Mathematik geschah und geschieht dagegen oft durch Sammlungen von Sätzen, Beweisen und Definitionen, die nicht axiomatisch strukturiert sind, sondern vor allem durch die Intuition und Erfahrung der beteiligten Mathematiker geprägt sind.
+Die Umwandlung in eine axiomatische Theorie erfolgt erst später, wenn weitere Mathematiker sich mit den dann nicht mehr ganz so neuen Ideen beschäftigen.
+Über viele Jahrhunderte hinweg hat die Mathematik Anregungen aus der Astronomie, der Geodäsie, der Physik und der Ökonomie aufgenommen und umgekehrt die Grundlagen für den Fortschritt dieser Fächer bereitgestellt.
+Umgekehrt haben Mathematiker zuweilen Theorien entwickelt, die erst später überraschende praktische Anwendungen gefunden haben.
+Über die Frage, zu welcher Kategorie der Wissenschaften die Mathematik gehört, wird seit langer Zeit kontrovers diskutiert.
+Viele mathematische Fragestellungen und Begriffe sind durch die Natur betreffende Fragen motiviert, beispielsweise aus der Physik oder den Ingenieurwissenschaften, und die Mathematik wird als Hilfswissenschaft in nahezu allen Naturwissenschaften herangezogen.
+Dennoch wird in der neueren Philosophie der Mathematik davon ausgegangen, dass auch die Methodik der Mathematik immer mehr derjenigen der Naturwissenschaft entspricht.
+Die Mathematik hat methodische und inhaltliche Gemeinsamkeiten mit der Philosophie; beispielsweise ist die Logik ein Überschneidungsbereich der beiden Wissenschaften.
+Damit könnte man die Mathematik zu den Geisteswissenschaften rechnen, aber auch die Einordnung der Philosophie ist umstritten.
+Auch aus diesen Gründen kategorisieren einige die Mathematik - neben anderen Disziplinen wie der Informatik - als Strukturwissenschaft bzw. Formalwissenschaft.
+Eine Sonderrolle unter den Wissenschaften nimmt die Mathematik bezüglich der Gültigkeit ihrer Erkenntnisse und der Strenge ihrer Methoden ein.
+Dafür muss aber für mathematische Erkenntnisse ein streng logischer Beweis gefunden werden, bevor sie als mathematischer Satz anerkannt werden.
+Gerade diese Exaktheit ist für viele Menschen das Faszinierende an der Mathematik.
+Die Mathematik ist daher auch eine kumulative Wissenschaft.
+Es kommt somit der älteren mathematischen Literatur eine besondere Bedeutung zu.
+Mathematikdidaktik ist die Wissenschaft, die sich mit dem Lehren und Lernen von Mathematik beschäftigt.
+Menschen, die sich beruflich mit der Entwicklung und der Anwendung der Mathematik beschäftigen, nennt man Mathematiker.

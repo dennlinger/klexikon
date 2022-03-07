@@ -1,0 +1,25 @@
+Google ist eine Internet-Suchmaschine des US-amerikanischen Unternehmens Google.
+Die Google-Gründer wiederum suchten eine treffende Bezeichnung für die Fülle an Informationen, die ihre Suchmaschine im Web finden sollte.
+Auf der Ergebnisseite wird über den Ergebnissen eine Leiste angezeigt, mit der man schnell zu anderen Suchdiensten von Google, wie der Landkarten-, Nachrichten-, Bilder-, Video-, Shopping- und Bücher-Suche, wechseln kann.
+Bei einigen Suchbegriffen zeigt Google bereits auf der Ergebnisseite direkt Informationen, News und Bilder zum Suchbegriff an.
+Google vereinfacht durch verschiedene Funktionen die Eingabe von Suchanfragen.
+Auch beantwortet Google nun selber einfache Fragen.
+Die Hauptanwendung von Google ist die Suche nach Internetseiten, Google bietet aber auch andere Funktionen, von denen hier eine kleine Auswahl vorgestellt wird:
+Die angewendeten Suchformeln lassen sich in Form der URL, die Google bei einer Suche ausgibt, speichern, wiederholen und verlinken.
+Die Google-Suchmaschine folgt mit Hilfe von Webcrawlern den gefundenen Links und versucht so, viele publizierte Seiten in ihren Suchindex aufzunehmen.
+Google zielt darauf ab, den Nutzern die Suchergebnisse nach Relevanz sortiert zu liefern.
+Google möchte damit auch verhindern, dass nicht relevante Seiten durch Manipulationen der Anbieter unangemessen hoch in den Ergebnissen präsentiert werden.
+Eine solche Optimierung ist in bestimmtem Maße von Google erwünscht, etwa um die Seite für Googles Algorithmen verständlicher zu gestalten.
+In dem sogenannten Webprotokoll speichert Google u. a. die durchgeführten Suchvorgänge sowie die daraufhin besuchten Seiten.
+Seit Januar 2006 geht Google stärker gegen unseriöse Methoden bei der Optimierung von Webseiten vor.
+Google variiert regelmäßig seine Algorithmen zur Bestimmung der Rangfolge von Suchergebnissen, um den Missbrauch zu verhindern oder zumindest zu erschweren.
+Bei einer Google-Bombe werden die Google-Suchergebnisse für eine bestimmte Webseite durch vielfaches Setzen von Links manipuliert.
+Google-Bomben werden vielfach eingesetzt, um Webseiten bestimmter Personen gezielt mit oft diffamierenden Schlagworten in Verbindung zu bringen.
+Google änderte 2007 ihren Algorithmus jedoch, um das Google-Bombing zu erschweren.
+Der zentrale Aspekt aller verteilten Google-Anwendungen, allen voran die Indizierung des Internets und die Suche darin, ist der von Google entwickelte Algorithmus MapReduce für die automatisierte Parallelisierung von Arbeitsaufträgen in Clustern.
+Google selbst setzt den Algorithmus in steigendem Maße für seine eigene Arbeit ein.
+Die Google-Suche lässt sich über vorgefertigte Code-Fragmente in eine Webseite einbinden.
+2006 ließ Google diverse Zeitungs- und Wörterbuchredaktionen durch seine Anwälte auffordern, "to google" oder "googeln" nicht allgemein als die "Suche im Internet" zu bezeichnen, um einer Gattungsbegriffbildung und damit dem Verlust des Markenschutzes vorzubeugen.
+Google bereinigt die Suchergebnisse von Websites mit strafbaren oder jugendgefährdenden Inhalten.
+Dabei wird auf eine Erläuterung verwiesen, dass Google über unrechtmäßige Inhalte informiert wurde.
+Im selben Monat stellte Google ein Online-Formular bereit, mit dem Nutzer die Löschung von Inhalten aus der Trefferliste in Auftrag geben können.

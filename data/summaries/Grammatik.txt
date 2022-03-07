@@ -1,0 +1,25 @@
+Die Grammatik oder auch Sprachlehre (lateinisch grammatica, altgriechisch aa grammatik, deutsch ,Kunst des Schreibens', von altgriechisch aa gramma, deutsch ,Geschriebenes', ,Buchstabe') bezeichnet in der Sprachwissenschaft (Linguistik) jede Form einer systematischen Sprachbeschreibung.
+Dabei steht der Begriff der Grammatik einmal für das Regelwerk selbst, auf der anderen Seite aber auch für die Theorie über eine bestimmte Sprache oder Sprachfamilie (Grammatiktheorie).
+Teile der neueren grammatischen Forschung, maßgeblich angeregt von Noam Chomsky, behandeln die Frage, wie weit sich natürliche Sprachen auf formale Sprachen reduzieren lassen.
+Die Adjektive grammatisch und grammatikalisch (von spätlateinisch grammaticalis) werden heute meist synonym in den Bedeutungen "die Grammatik betreffend" oder "den Regeln der Grammatik entsprechend" verwendet.
+Teilweise wird dem Wort grammatikalisch die letztere Bedeutung jedoch nicht zugewiesen.
+Entsprechend ist als negierte Form ungrammatisch (für "nicht den Regeln der Grammatik entsprechend") deutlich gebräuchlicher.
+Grammatik ist zum einen der Begriff für ein Wissensgebiet, das Gegenstand der "Grammatiktheorie" ist, also das sprachliche System selbst, in seiner abstrakten Form.
+In der Sprachwissenschaft umfasst dieser Begriff alle Bereiche, in denen die Gliederung sprachlicher Einheiten untersucht wird, also die Formenlehre von Wörtern (d. h. die Morphologie), den Bau von Sätzen (Syntax), die Lautlehre (Phonologie) sowie die Bedeutungslehre (Semantik), soweit sie sich auf Regeln zum Aufbau von sprachlicher Bedeutung bezieht.
+Zum anderen bezeichnet man mit dem Ausdruck "eine Grammatik" eine konkrete Beschreibung einer Einzelsprache.
+Hier werden dann oft auch weitere Gebiete mitbehandelt, auch wenn sie nicht Gegenstand der Grammatiktheorie sind: etwa Stilistik, Rhetorik und Verslehre (Metrik), in einigen Grammatiken, besonders historischer Sprachen, auch Zahlendarstellung, Maße und Gewichte sowie Zeitrechnung.
+Nicht zur Grammatik zählt die Untersuchung der Vorgänge im Gebrauch einer Sprache, die von Pragmatik, Diskursanalyse oder Soziolinguistik behandelt werden.
+Allerdings ergeben sich aus diesen Gebieten sehr wohl oft Rückwirkungen auf die Beschreibung des Sprachsystems.
+Hinsichtlich der Zielsetzungen kann man zwischen präskriptiven oder normativen (vorschreibenden) Grammatiken einerseits und deskriptiven (beschreibenden) Grammatiken andererseits unterscheiden.
+Eine normative Grammatik verfolgt das Ziel, eine bestimmte Form einer Sprache als verbindlichen Standard zu lehren.
+Im Gegensatz hierzu ist es der Ansatz der deskriptiven Grammatik, eine Sprache so zu beschreiben, wie kompetente Muttersprachler sie tatsächlich spontan verwenden (ohne das Gesagte als Versprecher zu empfinden).
+Im erfassten Inhalt müssen sich normative und deskriptive Grammatiken nicht zwingend stark unterscheiden, da auch die Festlegung einer Standardvariante zunächst ihre Beschreibung voraussetzt.
+Auch können deskriptive Grammatiken normalerweise nicht die ganze Breite der Variation abdecken, sondern behandeln oft eine idealisierte Form, also eine Standardvariante einer Sprache.
+Denn die Grammatik wurde wie die übrigen Artes liberales zuallererst als eine Propädeutik der Bibelhermeneutik betrachtet.
+Eine Einteilung solcher formalen Sprachen und der ihnen zugrunde liegenden Grammatiken entwickelte Noam Chomsky.
+Solche formalen Grammatiken, besonders die kontextfreie Grammatik, finden Verwendung in der Informatik in Untersuchungen über Compiler und Interpreter.
+Aber auch in der Philosophie und Wissenschaftstheorie finden solche Sprachen Verwendung, genauso wie in Forschungsrichtungen der deskriptiven Grammatik.
+Deskriptive Grammatiken unterscheiden sich von formalen Grammatiken insofern, als sie sich aus einem empirischen Forschungsansatz ergeben.
+Eher regelgeleitete, auf der Syntax basierende Grammatiken, die mit möglichst wenig Annahmen und Regeln auskommen, sind vor allem die aus Chomskys Generativer Grammatik entstandene Rektions- und Bindungstheorie und das Minimalistische Programm.
+Erweiterungen rein syntaktischer Regeln durch semantische findet man in der Generalized Phrase Structure Grammar sowie in den Unifikationsgrammatiken, zum Beispiel der Head-driven Phrase Structure Grammar oder der lexikalisch-funktionalen Grammatik.
+Semantische Ansätze, die vor allem mit Strukturen von Lexikoneinträgen arbeiten, sind die Dependenzgrammatiken und die Grammatik Richard Montagues.

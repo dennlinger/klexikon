@@ -1,0 +1,25 @@
+Als Palindrom (altgriechisch aivoo palindromos "rückwärts laufend") werden in der Sprachwissenschaft Wörter, Wortreihen oder Sätze bezeichnet, die rückwärts gelesen genau denselben Text oder zumindest einen Sinn ergeben.
+Ein Wortpalindrom ist ein Wort, das rückwärts gelesen dasselbe Wort ergibt (z. B. Reittier).
+Zu den Palindromen zählen aber auch Wörter, die rückwärts gelesen ein anderes sinnvolles Wort ergeben (z. B. Regal - Lager); in diesem Fall ist das Palindrom eine spezielle Form des Anagramms.
+Bei einem Satzpalindrom ist der Satz vorwärts wie rückwärts gelesen derselbe.
+Ein Palindrom kann auch aus mehreren Sätzen bestehen.
+Es gibt sogar Gedichte in Palindromform.
+Der linguistische Begriff des Palindroms wurde in andere Bereiche übernommen, das heißt, Palindrome müssen nicht zwangsläufig aus Buchstaben bestehen.
+In der Informatik ist ein Palindrom eine Zeichenkette, die vorwärts wie rückwärts gelesen identisch ist.
+Auch in der Literatur notierter Musik gibt es Palindrome.
+Beispiele für Morsecodepalindrome, die in lateinischen Buchstaben keine Palindrome mehr ergeben, sind du ( * *, * * ) oder an (* ,  *).
+Das Kompositum wird als Beispiel für Palindrome bereits in Meyers Großem Konversations-Lexikon von 1905 erwähnt.
+Bei manchen Palindromen des Typs Regallager (Zusammensetzung mit Wortfuge in der Mitte) lässt sich durch mittige Einfügung eines geeigneten weiteren Palindroms wie neben ein noch komplexeres Palindrom bilden: Regalnebenlager.
+Beispiele für deutsche Satzpalindrome
+Beispiele für englische Satzpalindrome
+Es handelt sich jedoch nur im weiteren Sinn um ein Palindrom, da das lateinische Gedicht nicht buchstabenweise, sondern wortweise rückwärts zu lesen ist.
+Ein phonetisches Palindrom ist ein Stück gesprochener Sprache, das sich rückwärts gesprochen annähernd gleich anhört.
+Die Definition, dass ein Palindrom ein Wort ist, welches rückwärts geschrieben wieder dasselbe Wort ergibt, schreibt sich formal so:
+Ein Palindrom ist ein Wort u {\displaystyle u } über dem Alphabet  {\displaystyle \Sigma } mit der Eigenschaft
+Zu beachten ist, dass ein Palindrom hier nicht unbedingt einen Sinn ergeben muss; das entsprechende Wort muss lediglich symmetrisch um seine Mitte aufgebaut sein.
+(die Menge der endlichen Wörter gerader Wortlänge, welche ein Palindrom sind) ist nicht regulär, d. h. man kann keinen regulären Ausdruck angeben, welcher L {\displaystyle L} spezifiziert bzw. keinen endlichen Automaten (also eine Maschine mit endlichem Speicher), der es schafft L {\displaystyle L} zu erkennen (d. h. zu entscheiden, ob ein Wort zur Sprache L {\displaystyle L} gehört oder nicht).
+Die induktive bzw. rekursive Definition für Palindrome sieht wie folgt aus:
+Die obige induktive Definition ist der Ausgangspunkt für die Konstruktion einer kontextfreien Grammatik für Palindrome.
+Dann kann man alle Binärwort-Palindrome mit den folgenden Produktionen ableiten:
+Die restlichen Palindrome erhält man, indem man zunächst in beide Richtungen ein symmetrisches Wort generiert und dann das Nichtterminalsymbol in der Mitte durch eines der Terminalsymbole ersetzt.
+In der Molekulargenetik werden kurze DNA-Abschnitte im Doppelstrang als Palindrome bezeichnet, wenn die beiden Stränge gegenläufig dieselbe Sequenz aufweisen.

@@ -1,0 +1,25 @@
+Ein Kreisel ist ein (starrer) Körper, der um eine Achse rotiert.
+Er kann sich ansonsten frei bewegen (freier Kreisel), kann aber auch mit einer Achse in eine bestimmte Richtung gezwungen sein (gefesselter Kreisel).
+Kreisel müssen in der Physik nicht notwendigerweise rotationssymmetrisch sein.
+Ein um seine Figurenachse rotierender Kreisel behält bei kardanischer Aufhängung seine Orientierung im Raum bei, auch wenn das Tragegestell verdreht wird.
+Das schwache Drehmoment, das durch die Lagerreibung der Aufhängung wirkt, erzeugt eine vernachlässigbar kleine Änderung des Drehimpulses, die nicht zu einer beobachtbaren Veränderung der Rotationsachse führt.
+Wenn beim rotierenden Kreisel versucht wird, seine Rotationsachse zu kippen, dann lässt sich eine Kraftwirkung senkrecht zur Kipprichtung der Rotationsachse registrieren.
+Je schneller der Kreisel rotiert, desto größer sind die auftretenden Kräfte (die auch Kreiselkräfte genannt werden).
+Erklären lässt sich das mit dem hohen Drehimpuls des Kreisels, der in seiner Richtung geändert werden muss.
+Dessen Änderung erfolgt in der Richtung, in der die Rotationsachse gekippt wird, und erfordert ein Drehmoment, das in der Kippebene liegt.
+Das aufzubringende Drehmoment bedingt die Kraftwirkung senkrecht zur Kipprichtung.
+Umgekehrt bewirkt ein Drehmoment senkrecht auf einen rotierenden Kreisel nicht, dass er seine Ausrichtung um die Achse des Drehmoments ändert, sondern in die Richtung der Drehmomentachse kippt.
+Die Erklärung des Kreiselverhaltens mag zwar rechnerisch logisch sein, aber schon der Drehimpuls selbst ist eine wenig anschauliche Größe.
+Solange der Kreisel stabil um seine Figurenachse rotiert, muss der Kreisel auf den eingeschlossenen Körper nur eine Zentripetalkraft ausüben.
+Spannend wird es, wenn nun die Rotationsachse des Kreisels gekippt wird und die Bewegung des Körpers dabei analysiert wird.
+Dann bewegt sich der eingeschlossene Körper auch in Kipprichtung, wechselt aber ständig die Seite und damit seine Bewegungsrichtung, also seine Geschwindigkeit.
+Der Kreisel will also beim Kippen zur Seite ausbrechen.
+Wenn die Winkelgeschwindigkeit des Kreisel  deutlich größer als die Kippwinkelgeschwindigkeit  ist, dann gilt die im Weiteren folgende Näherungsrechnung.
+Im nächsten Schritt sei die Drehimpulsänderung eingesetzt in den Eulerschen Drehimpulssatz.
+Damit folgt das resultierende Drehmoment M aus den Kreiselparametern Rotationsrate  und Trägheitsmoment der Figurenachse I, verbunden mit der Kippwinkelgeschwindigkeit .
+Das Deviationsmoment ist ein Maß für das Bestreben eines Kreisels, seine Rotationsachse zu verändern, wenn er nicht um eine seiner Hauptträgheitsachsen rotiert.
+Eine Verallgemeinerung der Kreiselbewegung ergibt sich aus dem Drehimpulssatz.
+Dabei folgt der Drehimpuls L = {\displaystyle {\vec {L}}} aus dem Produkt von Trägheitstensor I  {\displaystyle {\bar {I}}} und Drehgeschwindigkeit  = {\displaystyle {\vec {\omega }}} des Kreisels.
+Im Trägheitstensor sind die Trägheitsmomente für Drehungen um die verschiedenen Drehachsen des Kreisels zusammengefasst.
+Berechnet man die Änderung des Drehimpulses durch dessen Ableitung nach der Zeit, ergibt sich:
+Das heißt, die Änderung des Drehimpulses L =  {\textstyle {\dot {\vec {L}}} } setzt ein Drehmoment M = {\displaystyle {\vec {M}}} voraus.

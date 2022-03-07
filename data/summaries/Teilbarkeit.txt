@@ -1,0 +1,25 @@
+Eine ganze Zahl a {\displaystyle a} teilt eine ganze Zahl b {\displaystyle b} genau dann, wenn es eine ganze Zahl n {\displaystyle n} gibt, für die a * n = b {\displaystyle a\cdot n=b} ist.
+Für das Gegenteil, wenn es also keine ganze Zahl n {\displaystyle n} gibt, für die a * n = b {\displaystyle a\cdot n=b} ist, schreibt man:
+Insbesondere für Primzahlpotenzen gibt es die Sprechweise: p n {\displaystyle p^{n } } teilt die ganze Zahl b {\displaystyle b} exakt, geschrieben
+} Die exakte Teilbarkeit von b {\displaystyle b } durch p n =:
+Schreibt man denselben Sachverhalt in der Form a * 0 = 0 {\displaystyle a\cdot 0=0} , so erkennt man, dass jede Zahl a {\displaystyle a} ein Teiler von 0 {\displaystyle 0} ist.
+Will man für eine Zahl x {\displaystyle x} eine Teilbarkeitsregel mit Quersummen aufstellen, so sucht man nach einem Vielfachen, das entweder 10 n - 1 {\displaystyle 10^{n}-1 } oder 10 n + 1 {\displaystyle 10^{n}+1} für ein beliebiges n {\displaystyle n} ist.
+Im ersten Fall kann die Teilbarkeit mit der nichtalternierenden n {\displaystyle n} -Quersumme, im zweiten Fall mit der alternierenden n {\displaystyle n} -Quersumme überprüft werden.
+Ist 10 n - 1 {\displaystyle 10^{n}-1} ein Vielfaches der betrachteten Zahl x {\displaystyle x} , dann gilt die Teilbarkeitsregel: "Eine Zahl ist genau dann durch x {\displaystyle x} teilbar, wenn ihre nichtalternierende n {\displaystyle n} -Quersumme durch x {\displaystyle x} teilbar ist."
+Beispielsweise ist 9 = 10 1 - 1 {\displaystyle 9=10^{1}-1 } ein Vielfaches von 3, so dass die Teilbarkeit durch 3 anhand der (1er-)Quersumme geprüft werden kann.
+Ist hingegen 10 n + 1 {\displaystyle 10^{n}+1 } ein Vielfaches der betrachteten Zahl x {\displaystyle x} , dann gilt die Teilbarkeitsregel: "Eine Zahl ist genau dann durch x {\displaystyle x} teilbar, wenn ihre alternierende n {\displaystyle n} -Quersumme durch x {\displaystyle x} teilbar ist."
+Nun zählt man b {\displaystyle b} und das Doppelte von a {\displaystyle a} zusammen.
+Für 3815 erhält man so 2 * a + b = 2 * 38 + 15 = 91 {\displaystyle 2\cdot a+b=2\cdot 38+15=91} .
+Um die Gültigkeit der Teilbarkeitsregel zu zeigen, betrachtet man die Gleichung
+Da 98 und damit auch 98 * a {\displaystyle 98\cdot a} durch 7 teilbar ist, ist n {\displaystyle n} genau dann durch 7 teilbar, wenn 2 * a + b {\displaystyle 2\cdot a+b} durch 7 teilbar ist.
+Für eine weitere Teilbarkeitsregel spaltet man eine Zahl in ihre letzte Ziffer b {\displaystyle b} und den Rest a {\displaystyle a} auf.
+Da 37 - 2 * 1 = 35 = 5 * 7 {\displaystyle 37-2\cdot 1=35=5\cdot 7} durch 7 teilbar ist, sind auch 371 und 3815 durch 7 teilbar.
+Dann zieht man b {\displaystyle b} von a {\displaystyle a} ab und prüft, ob diese Differenz durch 7 teilbar ist.
+und 1001 * b {\displaystyle 1001\cdot b} durch 7 teilbar ist , ist n {\displaystyle n} genau dann durch 7 teilbar, wenn a - b {\displaystyle a-b} durch 7 teilbar ist.
+Also 2 * 58 - 31 = 85 {\displaystyle 2\cdot 58-31=85} , was durch 17 teilbar ist.
+Um die Teilbarkeit durch 19 zu überprüfen, spaltet man eine Zahl in ihre letzte Ziffer b {\displaystyle b} und den Rest a {\displaystyle a} auf.
+Um die Teilbarkeit durch eine beliebige Zahl n {\displaystyle n} zu überprüfen, verwendet man deren Primfaktorzerlegung.
+Beispielsweise ist eine Zahl genau dann durch 75 = 3 * 5 2 {\displaystyle 75=3\cdot 5^{2}} teilbar, wenn sie durch 5 2 = 25 {\displaystyle 5^{2}=25} und 3 teilbar ist.
+Bei multiplikativ zusammengesetzten Zahlen ist die Teilbarkeit eines beliebigen Teilfaktors hinreichend, so ist bspw. ( ( - 1 ) n + 2 ( 1 + n ) ) * ( 1 + ( - 1 ) n * 2 ( 2 + n ) + 5 * 2 ( 3 + 2 n ) ) * ( 1 + ( - 1 ) n * 2 ( 2 + n ) - 2 ( 5 + 2 n ) ) , 0  n {\displaystyle ((-1)^{n}+2^{(1+n)})\cdot (1+(-1)^{n}\cdot 2^{(2+n)}+5\cdot 2^{(3+2n)})\cdot (1+(-1)^{n}\cdot 2^{(2+n)}-2^{(5+2n)}),0\leq n} durch 5 {\displaystyle 5} teilbar, wobei hier die Teilbarkeit der drei Faktoren 4-zyklisch in n ist.
+In einem Zahlensystem zur Basis B {\displaystyle B } lassen sich Teilbarkeitsregeln für Teiler T {\displaystyle T} finden, die sich in eine teilerfremde Faktorenzerlegung möglichst kleiner Zahlen zerlegen lässt, die Teiler von B n { \displaystyle B^{n } } , B n - 1 {\displaystyle B^{n}-1 } oder B n + 1 {\displaystyle B^{n}+1} sind.
+Dann ist auch b {\displaystyle b\,} rechtes Vielfaches von a {\displaystyle a\,} .

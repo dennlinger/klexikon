@@ -1,0 +1,25 @@
+Beim Karteninhalt unterscheidet man zwei Hauptgruppen von Karten: topografische Karten (Landkarten, Seekarten ...) und thematische Karten.
+Im weitesten Sinne veranschaulicht eine Karte abstrakte, raumbezogene Daten und nur schwer formulierbare räumliche Zusammenhänge mit dem Ziel, diese für den Betrachter leicht verständlich zu machen.
+Die Wissenschaft und Technik zur Darstellung der Erdoberfläche in topografischen und thematischen Karten ist die Kartografie.
+Traditionell wird eine Karte auf Papier gedruckt, wobei ihre thematischen Ebenen (engl. Layer) wie Gelände, Flüsse, Straßen, Wald usw. im Mehrfarbendruck aufgebracht werden.
+Dieses Datenmaterial wird unter Anwendung grafischer Gestaltung und Richtlinien zur Generalisierung (Legende für Plan- und Kartenzeichen, Musterblätter usw.) manuell oder mit Hilfe von Datenmodellen und Programmsystemen in kartografische Objekte bzw. darstellbare Sekundärdaten umgewandelt, die ihrerseits in maßstabsgerecht angeordnete kartografische Zeichen (Signaturen, Grenzlinien, Farbcodes usw.) überführt werden.
+In der Darstellungsebene (Papier, Karte, Bildschirm) repräsentieren und veranschaulichen diese Punkte, Zeichen, Linien und Flächen die abzubildenden Raumphänomene.
+Karten lassen sich nach verschiedenen Gesichtspunkten einteilen, beispielsweise nach
+Analoge Karten werden als "klassische Landkarten" auf einem Original-Zeichenträger (früher Stein- oder Kupferplatte, später transparente Zeichenträger) geführt und in der Regel auf Papier oder einen anderen geeigneten Zeichenträger gedruckt.
+Die hauptsächliche Thematik der darzustellenden Raumphänomene ist ein verbreitetes Unterscheidungsmerkmal für Karten.
+In erster Näherung hat man so topografische Karten von thematischen Karten unterschieden.
+Eine differenziertere Betrachtungsweise spricht statt von topografischen Karten auch von Basiskarten und erlaubt bei den thematischen Karten weitere Unterscheidungen, z. B. in Luftfahrtkarten, Seekarten, geowissenschaftliche Karten, Wirtschaftskarten, politische Karten, historische (geschichtswissenschaftliche) Karten.
+Der Darstellungsraum einer Karte bildet ein weiteres Unterscheidungskriterium.
+Eine gedruckte oder am Bildschirm präsentierte Karte ist aus mehreren Elementen aufgebaut, die naturgemäß bei beiden Kartentypen unterschiedlich sind.
+Mehrere Kartenblätter, die die gleichen geodätischen Grundlagen, die gleiche Projektion, den gleichen Maßstab, den gleichen Blattschnitt und das gleiche Signaturen- und Gestaltungssystem besitzen, bilden ein Kartenwerk.
+Amtliche topografische Karten bilden so die Landeskartenwerke.
+Er enthält insbesondere die Bezifferungen des der Karte zugrunde liegenden Koordinatensystems, aber auch Hinweise zur Weiterführung der durch den Blattschnitt abgeschnittenen Signaturen.
+Hier finden sich Name oder Bezeichnung der Karte, des Kartenwerks und des Kartenblatts.
+Wenn ein größeres Gebiet kartografisch erfasst werden soll, das nicht auf einem Kartenblatt Platz findet, wird dieses auf mehrere Blätter aufgeteilt.
+Dieses kann mit dem Gitter der geografischen Koordinaten oder dem Koordinatensystem der Kartenabbildung in der Ebene zusammenfallen.
+Von der Karte wurde je nach Technik eine Vorlage geschaffen, die dann im Druckprozess vervielfältigt wurde.
+Die Geodäsie und die Fernerkundung liefern die Daten, die von den Kartografen dann in Karten umgesetzt werden.
+Um den Raumeindruck zu verstärken, kommen bei Echt-3D-Karten eine Reliefschummerung und ein Faktor zur Überhöhung des Geländes hinzu.
+Jede Karte eines größeren Gebietes hat gewisse Verzerrungen.
+Für alle anderen Anwendungen muss ein geeigneter Kartennetzentwurf (vgl. Liste von Kartennetzentwürfen) verwendet oder die Verzerrung rechnerisch bzw. grafisch berücksichtigt werden.
+Diese Ziele sind oft anhand des Erstellers oder Herausgebers einer Karte erkennbar.

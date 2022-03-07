@@ -1,0 +1,25 @@
+Der Notruf kann über verschiedene Kommunikationskanäle abgesetzt werden, gewöhnlich telefonisch, aber auch über Rufsäulen, Fax, Funk und Seenotsignale.
+Auch das Auslösen einer Brandmeldeeinrichtung kann man als Notruf bezeichnen (siehe auch tonfrequentes Übertragungssystem).
+So gibt es Notrufsender, die in Kraftfahrzeugen eingebaut sind und bei einem Unfall durch abnormale Lageveränderungen automatisch einen Notruf an die Leitstellen der Verkehrsclubs - wie ADAC oder ÖAMTC - absetzen.
+Ist kein Heimatnetz vorhanden, dann bucht sich das Mobiltelefon für den Notruf in ein anderes Netz.
+Eine weitere Möglichkeit einen Notruf abzusetzen sind Notruftelefone in Bahnhöfen, an Fernstraßen und auf öffentlichen Plätzen.
+Mit dieser ist es bundesweit möglich, einen Notruf ohne Telefonat in standardisierter Form an die offiziell zuständige Leitstelle zu übermitteln.
+Deshalb empfiehlt sich der Einsatz von Kommunikationsmitteln, welche das zuverlässige Absetzen eines Notrufes direkt an eine dauernd besetzte Leitstelle ermöglichen.
+Zusätzlich bieten sich die Frequenzen von Relaisfunkstellen an, auf denen man einen Notruf absetzen kann.
+Beim Ausfall oder Überlastung aller terrestrischen, infrastrukturbasierten Kommunikationsmittel (Festnetztelefonie, Mobilfunknetz, Behörden-Funknetz (BOS/BORS-Funk)) und bei überlasteter Satellitenkommunikation oder fehlendem Satellitenkommunikationsmittel kann der Katastrophenfunk das Weiterleiten von Notrufen ermöglichen.
+Dieser Notruf wird von einer Funkstation des dafür betriebenen Funknetzwerkes empfangen und an die dauernd besetzte Leitstelle weitergeleitet.
+Die Alarmierung über den Notrufkanal an eine dauernd besetzte Leitstelle ist in folgenden Regionen möglich:
+Über den Emergency- bzw. Notfunkkanal kann mittels eines dafür zugelassenen Funkgerätes Hilfe in Notfällen angefordert werden.
+Das für den Notrufkanal betriebene Funknetzwerk erlaubt eine zuverlässige Alarmierung der Search-and-Rescue-Einsatzkräfte über den "Notrufkanal" mit einem Handfunkgerät, wenn Sichtverbindung zu einer Funkstation besteht.
+Falls die 1. Fresnelzone frei von jeglichen Hindernissen, wie Sträucher, Bäume, Felsen, Haus- und Hüttenwände ist, kann mit einem Handfunkgerät zuverlässig ein Notruf über den "Notrufkanal" zur in Sichtverbindung stehenden Funkstation abgesetzt werden.
+In solchen Fällen kann der Notruf per Satellitentelefon oder PLB erfolgen.
+An erhöhten Standorten mit unzuverlässigen oder fehlenden Mobilfunkempfang ist ein Handfunkgerät für den Notrufkanal eine geeignete Ergänzung zum Mobiltelefon.
+In tieferen Lagen kann der Notruf zuverlässig über das Mobiltelefon und in höheren Lagen mit dem Handfunkgerät über den Notrufkanal zur in Sichtverbindung stehenden Funkstation abgesetzt werden.
+Ein Notruf kann beispielsweise mit dem konventionellen analogen UIC-Zugfunk und dem digitalen Zugfunk GSM-R übertragen werden.
+Der Notruf kann über ein Funksignal gesendet werden.
+Der Funkverkehr kennt verschiedene Arten von Notrufen, die je nach Dringlichkeit des Notfalls zu verwenden sind.
+Außerhalb der Mobilfunknetzabdeckung kann der Notruf in der Regel nur noch zuverlässig per Satellitenkommunikation erfolgen.
+In Gebieten ohne Mobilfunkempfang ist in der Regel kein zuverlässiger terrestrischer Funk für das Absetzen eines Notrufes vorhanden.
+In Gebieten mit terrestrischen Funkempfang im UKW- oder UHF-Frequenzband sollte ein Notruf immer über terrestrischen Funk, Mobilfunk oder über ein Festnetztelefon abgesetzt werden.
+Die über ein kommerzielles Satellitennetzwerk alarmierende Notfunkbake kann als Ergänzung zum über das weltweite COSPAS-SARSAT-Satellitennetzwerk alarmierende Notfunkbake in Regionen ohne Mobilfunkempfang eingesetzt werden.
+Die über kommerzielle Satellitennetzwerk alarmierenden Notfunkbaken ermöglichen eine indirekte Zweiwegkommunikation mit Kurzmitteilungen mit den Search-and-Rescue-Einsatzkräfte.

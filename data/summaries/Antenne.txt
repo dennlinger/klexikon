@@ -1,0 +1,25 @@
+Wesentlich dafür ist die Transformation des Wellenwiderstandes der Leitung durch die Antennenanordnung in den Wellenwiderstand des Vakuums.
+Die verwendete Wellenlänge - wahrscheinlich einige 100 m - lässt sich kaum ermitteln, weshalb sich die Frage erübrigt, ob die verwendeten Antennen auf Resonanz abgestimmt waren.
+Ganz allgemein kann man Antennen als Koppelelemente zwischen geführten und ungeführten elektromagnetischen Wellen, d. h. als Wandler zwischen Leitungs- und Freiraumwellen, auffassen.
+Die Grafik erläutert am Beispiel einer resonanten Dipolantenne, wie aus einem Schwingkreis aus Kondensator und Spule (Start der Animation) durch räumliche Erweiterung (ausklappen der Stäbe, bzw. Erzeugung der Raumtransformation durch 90°-Drehung des elektrischen Feldes) eine Antenne entsteht:
+Auf der anderen Seite, bei den reinen Antennen sind die Werte (ohne Leitungswandler) ja in etwa physikalisch vorgegeben.
+Folglich versucht man dort anzusetzen und den Blindwiderstandsanteil möglichst auf null zu reduzieren (Resonanz) und den Strahlungswiderstand des Antennengebildes möglichst hoch zu machen (hoher Strahlungswiderstand = hohe Raumkopplung).
+Antennen, die deutlich kürzer sind als ein Zehntel der Wellenlänge, haben zwar theoretisch dieselbe Feldankopplung an den Raum wie die längeren Antennen mit /2, nur praktisch sind bei ersteren die Verluste größer.
+Im Nahbereich muss jede Antenne frequenzselektiv sein, da sie als elektrische bzw. magnetische Quelle mit dem Raum einen Resonanzkörper bildet und ein Vektorfeld (Größenordnung eine halbe Wellenlänge) aufbaut.
+Antennen sind theoretisch reziprok, können also mit gleichen charakteristischen Eigenschaften sowohl zum Senden als auch zum Empfangen verwendet werden.
+In der Praxis ist die Sendeleistung einer Antenne begrenzt durch den Proximity-Effekt (Extremfall: Funkenüberschläge) sowie durch Nichtlinearitäten der Hilfselemente (Ferrite, Schwingkreise).
+Um den Fußpunktwiderstand der Antenne auf die Impedanz des Kabels anzupassen und so das Stehwellenverhältnis möglichst nahe bei dem Wert 1 zu halten, werden Impedanzwandler oder Resonanztransformatoren eingesetzt.
+Das Antennendiagramm einer Antenne stellt die Winkelabhängigkeit der Abstrahlung bzw. der Empfangsempfindlichkeit für eine bestimmte Frequenz und Polarisation grafisch dar.
+Eine verallgemeinerte Form des Antennendiagramms wird auch als Richtcharakteristik bezeichnet.
+Andere Unterteilung von Antennen:
+Nach Anwendung bzw. Montageart können Antennen auch unterschieden werden in:
+Die Impedanz einer Antenne am Speisepunkt sollte jedoch keinen Blindwiderstandsanteil aufweisen, sie ist im Idealfall der äquivalente Serien- oder Parallelwiderstand, der durch die abgestrahlte Wirkleistung und - in geringem Maße - durch die Antennenverluste entsteht.
+Weicht die Antennen-Fußpunktimpedanz in ihrem Real- oder Imaginärteil davon ab, müssen Anpassglieder (Spulen, Baluns, -Glieder, Anpassübertrager) eingesetzt werden.
+Eine breitbandigere Form ist der Flächendipol, auch er zählt zu den linearen Antennen.
+Durch eine gut elektrisch leitfähige Oberfläche oder durch mehrere abstehende Stäbe im Antennenfußpunkt entsteht durch Induktionsströme eine (elektrisch messbare) Spiegelung des Antennenstabes.
+Im Mittelwellenbereich sind elektrische Empfangsantennen und ihre Antennenkabel klein gegen die Wellenlänge.
+Mit zunehmender Länge nähert sich die Hauptstrahlrichtung der Antennenlängsrichtung symmetrisch an.
+Man spricht in diesem Fall von einer aperiodischen Antenne, die durch die auf dem Leiter entlanglaufende Wanderwelle ein besseres Vor-Rück-Verhältnis erhält.
+Als Reflektorantennen bezeichnet man Antennen, deren Ende entgegen der Strahlungsrichtung aus einer reflektierenden Fläche besteht.
+Antennen-Bauformen, die sich nicht unter vorgenannte Typen einordnen lassen, sind z. B.:
+Sie bestehen aus einer Leiterschleife (im einfachsten Fall mit nur einer Windung) und besitzen durch das Vektorfeld eine Richtwirkung (bei stehender Spule eine Achtcharakteristik) und können, wie alle verkürzten Antennen, gegenüber der Wellenlänge sehr klein sein, wenn die Spule aus mehreren Windungen besteht.

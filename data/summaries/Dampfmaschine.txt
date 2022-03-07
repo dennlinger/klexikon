@@ -1,0 +1,25 @@
+Die Kolbendampfmaschine setzt thermodynamische Energie (Dampfdruck) aus Dampferzeugern in mechanische Rotationsenergie um.
+Die Hinbewegung des Kolbens wird mit Druck des Dampfes als Arbeitstakt ausgeführt.
+Die Dampfzufuhr in den Zylinder steuert ein Schieber.
+In einer atmosphärischen Dampfmaschine wird der Zylinderraum unter dem Kolben mit Wasserdampf gefüllt.
+Verbunddampfmaschinen nutzen auch den bei Austritt des Dampfs verbleibenden Druck, indem der Dampf in einen weiteren Zylinder mit größerem Durchmesser geleitet wird.
+Bei der Niederdruckdampfmaschine wird der Dampf mit einem leichten Überdruck von einigen 100 mbar aufgegeben.
+Im Gegensatz zur Newcomen-Dampfmaschine wird nicht nur bei der Kondensation, sondern auch bei der Befüllung des Zylinders Arbeit verrichtet.
+Dies führt zur Steigerung der Leistungsfähigkeit und war Ausgangspunkt für die Weiterentwicklung der Dampfmaschine zu höheren Dampfdrücken.
+Watt entwickelte auch die "einfachwirkende" Dampfmaschine, die den Kolben nur von einer Seite beaufschlagt, zur "doppeltwirkenden" Dampfmaschine weiter, bei der der Kolben abwechselnd von der Ober- und Unterseite beaufschlagt wird.
+Auch die Expansionsmaschine, bei der nur zu Anfang eines Hubes Dampf einströmt, der dann expandiert und mit niedrigerem Druck aus dem Zylinder tritt, war eine Weiterentwicklung der Niederdruckdampfmaschine und brachte eine weitere Effizienzsteigerung gegenüber der Volldruckmaschine, die während des gesamten Hubes vollen Dampfdruck erhält.
+Der Kondensator kann also wegfallen, was diesen Maschinentyp in Verbindung mit der höheren Energiedichte des unter Druck stehenden Dampfes erheblich leichter macht und damit den Einsatz von Dampfmaschinen in Dampflokomotiven erst ermöglichte.
+In den Jahrhunderten, die den ersten neuzeitlichen Dampfmaschinen vorangingen, wurden dampfgetriebene "Maschinen" hauptsächlich zu Demonstrationszwecken gebaut, um das Prinzip der Dampfkraft zu illustrieren.
+Diese sogenannte atmosphärische Dampfmaschine erzeugte durch Einspritzen von Wasser in einen mit Dampf gefüllten Zylinder einen Unterdruck gegenüber der Atmosphäre.
+Sowohl Newcomens als auch Watts Dampfmaschinen hatten ursprünglich nur stehende Zylinder, die die Auf- und Abbewegung des Kolbens über einen Balancier lediglich umlenkten, um sie in den Schacht auf das Pumpengestänge zu übertragen.
+Bei der Dampfmaschine wird dieser Effekt durch ein vorzeitiges Schließen der Ventile erreicht; dadurch wird die Zuführung von Dampf in den Zylinder unterbrochen, während der darin eingeschlossene Dampf weiter Arbeit leistet.
+Spätere Watt'sche Dampfmaschinen waren doppeltwirkend, der Kolben wurde abwechselnd von der einen und der anderen Seite mit Dampf beaufschlagt.
+Die wattsche Dampfmaschine ersparte durch diese Verbesserungen gegenüber ihren Vorgängern ein Vielfaches der Wärmeenergie, die zum Betrieb der Maschine notwendig war.
+Die kontinuierliche Weiterentwicklung der druckbetriebenen Dampfmaschine, die zuerst mit so genanntem Sattdampf arbeitete, führte über die Heißdampf-Maschine mit einfacher Dampfdehnung zur Verbund- oder Compound-Maschine mit Zwei- und Dreifachexpansion und zuletzt zur mehrzylindrigen Heißdampf-Hochdruck-Dampfmaschine, wie sie von Kemna angeboten wurde.
+Bei einer Sattdampfmaschine befinden sich im Kessel alle Siederohre für die Dampferzeugung im Wasserbett, ein Heißdampfkessel besitzt mit dem Überhitzer ein zweites Röhrensystem, das vom Feuer oder den heißen Rauchgasen bestrichen wird.
+Der als Heißdampf in den Hochdruckzylinder eingespeiste, nunmehr teilentspannte und kühlere entweichende Dampf hat immer noch genug Arbeitsvermögen, um den mit einer wesentlich größeren Bohrung versehenen Niederdruckzylinder zu betreiben.
+In der Stahlindustrie wurden Dampfmaschinen unter anderem zum Antrieb von Gebläsen, Pumpen und Walzstraßen eingesetzt.
+Im Steinkohlenbergbau wurden und werden noch Dampfmaschinen in Förderanlagen eingesetzt, denn dort kann die Dampfmaschine sowohl als Fördermaschine zum Heben von Kohle als auch als Bremse zum Herablassen von Versatzmaterial dienen.
+Beim Bremsen wird die Energie zur Erhitzung des Dampfes verwendet.
+Durch den heute üblichen geschlossenen Kreislauf von Dampf und Speisewasser ergibt sich eine emissionsarme Schmierung von Zylinder und Kolben der Maschine.
+In diesem Sinne ist als modernisierte Dampfmaschine der Dampfmotor entwickelt worden.

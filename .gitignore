@@ -1,6 +1,17 @@
+# Generic ignores
 .idea/
 **__pycache__/
 *.tar.gz
-data/kauchak/
-*/2156-data.zip
 *.pkl
+
+# Various data folders that need not be included here
+data/kauchak/
+data/debug
+
+# Submission data
+*/2156-data.zip
+
+# Files for the public version shouldn't be on this git
+data/train.json
+data/validation.json
+data/test.json

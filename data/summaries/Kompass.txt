@@ -1,0 +1,25 @@
+Der Kompass (von italienisch compasso "Zirkel, Magnetnadel", abgeleitet von compassare "abschreiten", Plural: Kompasse) ist ein Instrument zur Anzeige der Richtung des Erdmagnetfelds und dient damit der Bestimmung der Richtung von Nord- und Südpol der Erde und daraus abgeleitet der anderen Himmelsrichtungen.
+In seiner einfachsten Form besteht ein (Magnet-)Kompass aus einer frei beweglichen Nadel, die aus einem magnetischen Material besteht.
+Ganz ohne Ausnutzung des Erdmagnetfeldes arbeiten Kreiselkompasse, deren Wirkungsweise auf der Erdrotation beruht.
+Die Richtungsmessung erfolgt bezüglich der geografischen Nord-Süd-Richtung anstatt zur Richtung der Feldlinien des Erdmagnetfeldes.
+Ein Kompass mit Peilvorrichtung wird auch Bussole genannt.
+Der klassische Magnetkompass besteht aus einem drehbaren Zeiger aus ferromagnetischem Material und einem Gehäuse, in dem dieser Zeiger möglichst reibungsarm gelagert ist.
+Auch beim elektronischen Magnetkompass wird das Erdmagnetfeld genutzt.
+( Aber auch kardanische Aufhängungen anstelle des Lagedetektors kommen zum Einsatz).
+In solchen Fällen gehört dann oft auch noch ein stromunabhängiger klassischer Magnetkompass zur Ausstattung.
+Der Magnetkompass wir hier zumeist nur noch wegen seiner Unabhängigkeit von einer Energieversorgung - als Notfalleinrichtung oder auf längeren Wildnistouren - verwendet.
+Der Kompass wurde auch im Bergbau von Markscheidern als Vermessungsinstrument eingesetzt.
+Beim Kreiselkompass ist keine Deklination (Missweisung) zu berücksichtigen, da er unabhängig vom Erdmagnetfeld arbeitet
+Als Deviation werden Ablenkungen der Kompassnadel bezeichnet, die durch magnetische Felder in der Nähe des Kompasses hervorgerufen werden.
+Üblicherweise werden zur Kompensation der Abweichungen entweder Magnetnadeln an dafür vorgesehenen Stellen in das Kompassgehäuse oder in seiner Nähe eingesetzt oder beweglich gelagerte Magnete im Kompassgehäuse über Stellschrauben entsprechend justiert.
+Um diese Kompensierung zu erreichen, wird das Fahrzeug (Schiff) sukzessive in die verschiedenen Himmelsrichtungen gelegt und versucht mit den Kompensiereinrichtungen die Kompassanzeige zu berichtigen.
+So wird bei einfachen Kompassen z. B. einfach die Südhälfte der Nadel mit einem sogenannten Reiter beschwert, damit sich das nördliche Ende nicht nach unten neigt.
+Ein solcher Kompass kann auf der Südhalbkugel nicht verwendet werden, da sich dann die Nadel neigt und schlimmstenfalls den Boden des Kompassgehäuses berührt.
+Der magnetische Pol der Nordhalbkugel hat also eine magnetische Polung, die dem Nordpol der Kompassnadel entgegengesetzt ist.
+Auf U-Booten macht die umgebende Stahlhülle den Magnetkompass jedoch unbrauchbar, sodass hier meist, wie auf anderen größeren Schiffen auch, ein Kreiselkompass verwendet wird.
+Bei neueren Modellen gibt es anstelle der kardanischen Aufhängung des kompletten Kessels eine innere Kardanik (sog. Kugelkompass).
+Da die Kompassrose sich als Ganzes dreht, wird die Richtung an einer fest mit dem Gehäuse verbundenen Markierung (Steuerstrich) abgelesen.
+Im Gegensatz dazu ist bei Kompassen, die an Land verwendet werden, die Kompassrose am Gehäuse angebracht, und nur die Kompassnadel dreht sich scheinbar.
+(In Wirklichkeit dreht sich aber in beiden Fällen das Kompassgehäuse, und der Zeiger (bzw. die Rose) bleiben nach den magnetischen Feldlinien ausgerichtet).
+Bei Beschleunigungen quer zur Magnetisierung (Ost-West-Richtung) kippt der Kompassmagnet derart, dass die vertikale Komponente des Erdmagnetfelds dessen Nordpol nach unten ziehen kann, was die Anzeige verfälscht.
+Auch hier wird der Kompassmagnet durch die vertikale Komponente des Erdmagnetfeldes verstellt.

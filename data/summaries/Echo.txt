@@ -1,0 +1,25 @@
+Ein Echo (auch Widerhall genannt) entsteht, wenn Reflexionen einer Schallwelle so stark verzögert sind, dass man diese als separates Hörereignis wahrnehmen kann; damit unterscheidet sich das Echo vom Nachhall.
+Konzentrierte und starke späte Reflexionen sind als getrennte Echos zu hören.
+Ein einzelnes separat wahrgenommenes Echo hat dieselbe Tonhöhe wie das Original, die Tonstärke ist jedoch immer geringer als die des Originals.
+Echos werden vom Gehör benutzt, um Raumgrößen und Entfernungen zu schätzen.
+Reflexionen, die später eintreffen, werden als zweiter Ton, also als Echo wahrgenommen.
+Die Verzögerungen, die ein reflektierter Schall aufweisen muss, um separat wahrgenommen zu werden, bezeichnet man als "Echoschwelle" oder "Echowahrnehmungsschwelle".
+Die Echoschwelle ist stark abhängig von der Charakteristik des Schalls und dem Pegel der Reflexionen.
+Unterhalb der Echoschwelle werden die Reflexionen als Nachhall wahrgenommen.
+Echos sind insbesondere dann leicht wahrnehmbar, wenn nur eine oder nur wenige reflektierende Flächen existieren (Brücken, Felswände usw.), bei einer Vielzahl von reflektierenden Flächen (etwa in Kirchen) entsteht durch die Dichte der Diffusität eher der Höreindruck eines Nachhalls.
+Unter Orten versteht man die Bestimmung des Ortes eines Hindernisses durch aktives Aussenden von Wellenpaketen.
+Der Empfänger benutzt einen gesteuerten Sender, das Ziel ist passiv; siehe Echolot und Fledermäuse.
+Werden diese Wellenpakete an Hindernissen reflektiert, können aus der Richtung und der Laufzeit der am Sendestandort eintreffenden Reflexionen Richtung und Entfernung des Hindernisses festgestellt werden.
+Da die Schallgeschwindigkeit in homogenen Ausbreitungsmedien konstant ist, kann aus der Laufzeit der Signale die Entfernung geschätzt werden.
+Um hierbei ausgesendete Signale und Echos auseinanderhalten zu können, muss das gesendete Signal wesentlich kürzer sein als die kürzeste erwartete Laufzeit der Reflexionen.
+Die Bestimmung der Richtung, aus der die Echos eintreffen, kann mit Hilfe mehrerer Empfänger an unterschiedlichen Stellen erfolgen.
+Aus den Laufzeitunterschieden zwischen den Empfängern kann dann die Richtung des Echos bestimmt werden.
+Um nach dem Senden eines Wellenpakets nicht warten zu müssen, bis alle Reflexionen eingetroffen sind, kann der Sender auch kontinuierlich senden, aber mit zeitabhängiger Frequenz.
+Aus der Frequenz, mit der ein Echo am Empfänger eintrifft, ergibt sich der Zeitpunkt, zu dem diese Frequenz gesendet wurde und hieraus die Laufzeit und damit die Entfernung des Hindernisses.
+Auf Schiffen werden Echolote zur Bestimmung der Wassertiefe angewendet.
+Bei der Tonaufnahme im Tonstudio sind starke Reflexionen und übermäßiger Nachhall in der Regel unerwünscht, vor allem, weil sie den Klangeindruck einseitig prägen.
+So klingen akustische Aufnahmen teilweise nach "Garage" oder "wie im Badezimmer".
+Hier werden eher reflexionsfreie Aufnahmen angestrebt, um durch entsprechende Nachbearbeitung mit künstlichem Hinzufügen von Echos und Nachhall (siehe Effektgerät) genau den künstlerisch gewünschten Raumeindruck oder Effekt erzeugen zu können.
+Eine weitere Möglichkeit ist das Auskleiden des Tonstudios mit schalldämmenden Materialien, sodass Reflexionen an den Wänden verhindert werden und stattdessen der Schall absorbiert wird (siehe Dämmstoff).
+Zu beachten ist, dass in der Tontechnik das Feststellen der Richtung der Primärsignale, aus der der Schall kommt, mit Lokalisation und nicht mit Ortung bezeichnet wird.
+In der Literatur und in der Musik steht der Begriff Echo oft metaphorisch für die verzerrte Wiederkehr von Tönen und Motiven, die dann oft als Strukturmodell dient.
