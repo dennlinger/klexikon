@@ -80,3 +80,47 @@ F1        | low:  4.14, mid:  4.23, high:  4.31
 Precision | low:  4.15, mid:  4.25, high:  4.35
 Recall    | low: 35.47, mid: 35.89, high: 36.30
 F1        | low:  6.83, mid:  6.95, high:  7.07
+
+------------------------------------
+Results for ROUGE-2 oracle (with F1 optimization):
+----------------rouge1 ---------------------
+Precision | low: 40.94, mid: 41.19, high: 41.45
+Recall    | low: 43.47, mid: 43.78, high: 44.07
+F1        | low: 41.64, mid: 41.85, high: 42.06
+----------------rouge2 ---------------------
+Precision | low: 10.32, mid: 10.45, high: 10.59
+Recall    | low: 11.05, mid: 11.22, high: 11.37
+F1        | low: 10.54, mid: 10.68, high: 10.82
+----------------rougeL ---------------------
+Precision | low: 15.66, mid: 15.78, high: 15.92
+Recall    | low: 16.61, mid: 16.74, high: 16.89
+F1        | low: 15.89, mid: 16.00, high: 16.13
+------------------------------------
+Results for ROUGE-2 oracle (with precision optimization):
+----------------rouge1 ---------------------
+Precision | low: 43.75, mid: 44.03, high: 44.31
+Recall    | low: 38.73, mid: 38.99, high: 39.25
+F1        | low: 40.55, mid: 40.76, high: 40.97
+----------------rouge2 ---------------------
+Precision | low: 10.82, mid: 10.98, high: 11.15
+Recall    | low:  9.60, mid:  9.74, high:  9.89
+F1        | low: 10.04, mid: 10.18, high: 10.32
+----------------rougeL ---------------------
+Precision | low: 17.07, mid: 17.21, high: 17.35
+Recall    | low: 15.10, mid: 15.23, high: 15.36
+F1        | low: 15.81, mid: 15.92, high: 16.03
+------------------------------------
+Results for ROUGE-2 oracle (with recall optimization):
+----------------rouge1 ---------------------
+Precision | low: 36.01, mid: 36.29, high: 36.55
+Recall    | low: 47.50, mid: 47.89, high: 48.24
+F1        | low: 40.03, mid: 40.24, high: 40.45
+----------------rouge2 ---------------------
+Precision | low:  8.84, mid:  8.96, high:  9.09
+Recall    | low: 11.89, mid: 12.04, high: 12.22
+F1        | low:  9.91, mid: 10.03, high: 10.16
+----------------rougeL ---------------------
+Precision | low: 13.72, mid: 13.86, high: 13.98
+Recall    | low: 18.06, mid: 18.22, high: 18.37
+F1        | low: 15.22, mid: 15.33, high: 15.44
+
