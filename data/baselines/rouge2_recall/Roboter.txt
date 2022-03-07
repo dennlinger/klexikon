@@ -1,0 +1,8 @@
+Ein Roboter ist eine technische Apparatur, die üblicherweise dazu dient, dem Menschen häufig wiederkehrende mechanische Arbeit abzunehmen.
+Der Ursprung des Wortes Roboter liegt im tschechischen Wort robota, Robot, das mit ,Frondienst' oder ,Zwangsarbeit' übersetzt werden kann.
+Ähnlich gab es im Spätmittelhochdeutschen für einen ,Arbeiter im Frondienst' den Begriff robater, robatter.
+Vor der Prägung des Wortes Roboter wurden solche Maschinen Automaten oder Halbautomaten genannt.
+Da sich die Lage des KOS im allgemeinen Fall sowohl durch Verdrehungen als auch durch Translation ergeben kann, sind zur Berechnung ein rotatorischer - die Vektoren A, B und C als Einheitsvektoren - und auch ein translatorischer Anteil P, eine Verschiebung, notwendig.
+Die so genannte Inverse Kinematik wird eingesetzt, um bei vorgegebener Position und Orientierung des TCP zu berechnen, welche Gelenkparameter (Winkel oder Verschiebung) in den einzelnen Gliedern eingestellt werden müssen, um dieses Ziel zu erreichen.
+Sie sollen autonom in ihrer Umwelt reagieren und möglichst auch interagieren können, wobei ihre Mobilität durch zwei Beine als Fortbewegungsmittel beschränkt ist.
+Die Steuerung erfolgt üblicherweise manuell wie bei den Modellen, die in der Autismustherapie eingesetzt werden.

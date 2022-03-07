@@ -1,0 +1,53 @@
+Energie ist eine fundamentale physikalische Größe, die in allen Teilgebieten der Physik sowie in der Technik, Chemie, Biologie und der Wirtschaft eine zentrale Rolle spielt.
+Ihre SI-Einheit ist das Joule.
+Energie gibt es in verschiedenen Energieformen, die ineinander umgewandelt werden können.
+Beispiele für solche Umwandlungen von Energie sind, dass ein Mensch ein Paket hochhebt oder ein Fahrrad beschleunigt, dass eine Batterie geladen wird, ein Lebewesen Stoffwechsel betreibt oder eine Heizung Wärme abgibt.
+Daher bezeichnete Gottfried Wilhelm Leibniz 1686 die Größe m v 2 {\displaystyle mv^{2 } } als das wahre Maß für die Größe der Bewegung und nannte sie vis viva ("lebendige Kraft").
+Den korrekten Vorfaktor 1 2 {\displaystyle {\frac {1}{2}}} in der kinetischen Energie leitete schon Daniel Bernoulli 1726 ab.
+Bei ihm wie bei anderen analytischen Mechanikern des 18. Jahrhunderts wie Leonhard Euler (z. B. Behandlung der elastischen Deformation), Joseph Louis Lagrange (Mecanique Analytique 1788) finden sich auch Vorläufer des Konzepts der potentiellen Energie (der Term Potentialfunktion stammt von George Green 1828 und unabhängig wurde sie von Carl Friedrich Gauß 1840 eingeführt, war aber als Potential schon Lagrange und Laplace bekannt).
+Von potentieller Energie sprach man damals als der latenten Form der lebendigen Kraft, die sich zum Beispiel beim inelastischen Stoß auf kleinere Teilchen des Körpers verteile.
+Ausgangspunkt war, dass Wasser durch Hitze in den gasförmigen Zustand überführt wird und die Gasausdehnung genutzt wird, um einen Kolben in einem Zylinder zu bewegen.
+Dies ist heute bekannt als "Energieerhaltung", oder auch "Erster Hauptsatz der Thermodynamik".
+Er zeigte, dass nur ein Teil der Wärmeenergie in mechanische Arbeit umgewandelt werden kann.
+Nach dem zweiten Hauptsatz ist es unmöglich, dass Wärme eigenständig von einem kälteren auf einen wärmeren Körper übergeht.
+Beispiele für Energieformen sind die kinetische Energie, die chemische Energie, die elektrische Energie oder die potentielle Energie.
+Auch auf molekularer Ebene gibt es solche Einschränkungen.
+Die Energie, die in der Masse von Materie steckt, lässt sich nur mit einer gleich großen Menge von Antimaterie vollständig in eine andere Energieform umwandeln.
+Außerdem kann nicht die gesamte in der Temperaturdifferenz gespeicherte Wärmemenge umgesetzt werden.
+Er ist umso größer, je größer die Temperaturdifferenz ist, mit der die Wärmekraftmaschine arbeitet.
+So lässt sich elektrische Energie mit wenig technischem Aufwand nahezu vollständig in viele andere Energieformen überführen.
+Bei elektrischen Anwendungen sind häufig der elektrische Widerstand oder Wirbelströme die Ursache für die Erzeugung von Wärme.
+Sie zeichnen sich dadurch aus, dass sie zu allen Zeiten unverändert in der gleichen Form gelten.
+Diese Größe ist die Energie.
+Häufig verwendet man ein Inertialsystem, das in Bezug auf den Erdboden ruht.
+Ein ausgedehnter Körper kann neben einer Translationsbewegung auch eine Drehbewegung durchführen.
+Die kinetische Energie, die in der Drehbewegung steckt, nennt man Rotationsenergie.
+Diese ist proportional zum Quadrat der Winkelgeschwindigkeit und zum Trägheitsmoment des Körpers.
+Potentielle Energie, auch Lageenergie genannt, kommt einem Körper durch seine Lage in einem Kraftfeld zu, sofern es sich um eine konservative Kraft handelt.
+Ein Planet hat bei seinem sonnenfernsten Punkt zwar die höchste potentielle, aber auch die geringste kinetische Energie.
+Der zweite Hauptsatz der Thermodynamik beschreibt hier eine ganz wesentliche Einschränkung (Bild 1).
+In der technischen Thermodynamik werden die umwandelbaren Anteile einer Energieform auch als Exergie bezeichnet.
+Die Exergie ist keine Zustandsgröße im eigentlichen Sinne, denn sie hängt nicht nur vom Zustand des Systems ab, sondern auch vom Zustand der Umgebung, der im Einzelfall gegeben ist, im Allgemeinen angenommen werden muss.
+Die Beziehung kann auch direkt aus den Diagrammen abgelesen werden.
+Die Enthalpie-Differenz ist im Wesentlichen (in diesem Falle) die aus dem Brennstoff der Verbrennungsluft als Wärme zugeführte Energie.
+Bei der Abnahme der Exergie in einer Energie-Umwandlungskette spricht man auch von einer Energieentwertung.
+Bei der Übertragung der Wärme aus dem Rauchgas auf das Arbeitsmedium, das Wasser, das dabei verdampft und überhitzt wird, entsteht ein weiterer Exergieverlust.
+Auch die Sonnenenergie, die durch Strahlung auf die Erde gelangt, erfährt auf dem Weg bis zur Erdoberfläche einen Exergieverlust.
+Während die innere Energie der Sonne bei rund 15 Millionen K noch praktisch aus reiner Exergie besteht, strahlt die Sonne mit einer Oberflächentemperatur von rund 6000 K auf die Erdoberfläche, deren Temperatur mit ca. 300 K anzusetzen ist.
+Deshalb ist das Heizen mit elektrischem Strom über eine Widerstandsheizung "Energieverschwendung".
+In einem Heizkraftwerk wird, wenn es mit Dampf betrieben wird, Dampf aus der Turbine entnommen, dessen Temperatur gerade noch ausreichend hoch ist, um die Kondensationswärme über ein Fernwärmenetz zum Verbraucher zu leiten.
+Auch die Wärmepumpe ist hier zu nennen.
+Sie beschreibt also die Energie, die mit elektrischen Kräften in Atomen und Molekülen verbunden ist und kann unterteilt werden in einerseits kinetischer Energie der Elektronen in den Atomen und andererseits der elektrischen Energie der Wechselwirkung von Elektronen und Protonen.
+Das Doppelte der Proportionalitätskonstante nennt man elektrische Kapazität.
+Befindet sich in dem elektrischen Feld ein Dielektrikum, so ist die Energie außerdem proportional zur Dielektrizitätskonstante.
+Bewegt sich eine Ladung im Vakuum zu einem Ort, an dem ein geringeres elektrisches Potential herrscht, erhöht sich die kinetische Energie der Ladung gerade so viel, wie die potentielle Energie geringer wird.
+Dies geschieht beispielsweise mit Elektronen in einer Elektronenröhre, in einer Röntgenröhre oder in einem Kathodenstrahlröhrenbildschirm.
+Deshalb haben die bei Übergängen zwischen diesen Zuständen emittierten Teilchen oder Strahlen Linienspektren.
+Analog gibt es im strengen physikalischen Sinne auch keinen Energieverbrauch, wirtschaftlich gemeint ist damit aber der Übergang von einer gut nutzbaren Primärenergie (zum Beispiel Erdöl, Gas, Kohle) in eine nicht mehr weiter nutzbare Energieform (zum Beispiel Abwärme in der Umwelt).
+Statt von Entropiezunahme kann man anschaulich auch von Energieentwertung sprechen.
+Stattdessen sind immer eine Wärmequelle und eine Wärmesenke (= Kühlung) erforderlich.
+Die menschlichen Bedürfnisse richten sich vor allem auf die Bereiche Heizung, Nahrungszubereitung und den Betrieb von Einrichtungen und Maschinen zur Lebenserleichterung.
+Der Energiebedarf ist weltweit sehr unterschiedlich und in den Industrieländern um ein Vielfaches höher als zum Beispiel in der Dritten Welt (siehe Liste der Staaten mit dem höchsten Energieverbrauch).
+In industriell hoch entwickelten Ländern haben sich seit dem 19. Jahrhundert Unternehmen mit der Erzeugung und Bereitstellung von Energie für den allgemeinen Verbrauch beschäftigt.
+Seltener kommt in der Atomphysik das Rydberg vor.
+Energie ist eine Größe, die auch im Alltag einen um viele Größenordnungen unterschiedlichen Wert annehmen kann.

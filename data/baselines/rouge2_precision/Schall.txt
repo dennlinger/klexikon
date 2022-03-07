@@ -1,0 +1,16 @@
+Schall (von Althochdeutsch: scal) bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium (Gas, Flüssigkeit, Festkörper).
+Diese Schwingungen pflanzen sich in Form von Schallwellen fort.
+Umgangssprachlich bezeichnet Schall vor allem das Geräusch, den Klang, den Ton, den Knall (Schallarten), wie er von Menschen und Tieren mit dem Gehör, also dem Ohr-Gehirn-System auditiv wahrgenommen werden kann.
+Physikalisch gesehen ist Schall eine als Welle fortschreitende mechanische Deformation in einem Medium.
+Schall breitet sich mit einer für das Medium und dessen Zustand (Temperatur, Druck usw.) charakteristischen und konstanten Schallgeschwindigkeit c {\displaystyle c} aus .
+In Gasen wie Luft kann Schall als eine dem statischen Luftdruck überlagerte Schalldruckwelle beschrieben werden.
+Dagegen gibt es in Festkörpern auch Transversalwellen und geführte Wellen.
+Die zugehörige Wissenschaft ist die Akustik.
+Die beiden Energieformen, die sich beim Schall ineinander umwandeln, sind die Kompressionsenergie und die Bewegungsenergie als Schallenergiegröße, charakterisiert werden sie aber durch die Schallfeldgrößen:
+Man muss sich hierbei darüber im Klaren sein, dass die maximal auftretenden Geschwindigkeiten bei der Auslenkung der Fluidelemente im Vergleich zur Schallgeschwindigkeit klein sind:
+Bei einem Schalldruckpegel von 130 dB, der Schmerzschwelle, beträgt die Schallschnelle in Luft gerade einmal 0,153 m/ s.
+Bei der Hörschwelle des Menschen hat der Effektivwert der Schallschnelle einen Wert von 5 * 10-8 m/s entsprechend einem Schallschnellepegel von 0 dB.
+Entsprechend dem Frequenzbereich unterscheidet man:
+Das Hörvermögen insbesondere im Bereich hoher Töne nimmt mit zunehmendem Lebensalter aber auch durch Strapazierung des Gehörs durch laute Musik, Lärm oder Knall teilweise irreversibel ab.
+Hunde und Fledermäuse können auch Töne über 20 kHz hören.
+Wird ein Piezo-Ultraschallgeber zum Vernebeln von Wasser mit dem Finger berührt, wird darin eine Hitzeempfindung erzeugt.

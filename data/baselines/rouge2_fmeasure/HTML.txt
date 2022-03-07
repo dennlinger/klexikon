@@ -1,0 +1,11 @@
+Die Hypertext Markup Language (HTML, englisch für Hypertext-Auszeichnungssprache) ist eine textbasierte Auszeichnungssprache zur Strukturierung elektronischer Dokumente wie Texte mit Hyperlinks, Bildern und anderen Inhalten.
+HTML-Dokumente sind die Grundlage des World Wide Web und werden von Webbrowsern dargestellt.
+Neben den vom Browser angezeigten Inhalten können HTML-Dateien zusätzliche Angaben in Form von Metainformationen enthalten, z. B. über die im Text verwendeten Sprachen, den Autor oder den zusammengefassten Inhalt des Textes.
+Vor der Entwicklung des World Wide Web und dessen Bestandteilen, zu denen auch HTML gehört, war es nicht möglich, Dokumente auf elektronischem Weg einfach, schnell und strukturiert zwischen mehreren Personen auszutauschen und miteinander effizient zu verknüpfen.
+Bestimmte Elemente müssen nicht explizit notiert werden.
+HTML-Elemente sind keine Angaben zur Präsentation, die dem Webbrowser mitteilen, wie er den Text visuell zu formatieren hat.
+Somit sieht die Grundstruktur einer Webseite wie folgt aus:
+Der wesentliche Unterschied ist, dass erstere in der Ausgabe einen eigenen Block erzeugen, in dem der Inhalt untergebracht wird, während die Inline-Elemente den Textfluss nicht unterbrechen.
+Dies ist ein Verweis auf example.com Ebenso ist an diesem Beispiel zu sehen, dass das Link-Element ein Inline-Element ist und keine neue Zeile beginnt.
+Außerdem lässt sich der CSS-Code auch in einer Seite ohne ausgelagerte Datei einbinden.
+Bootstrap ist eine HTML-, CSS- und JS-Bibliothek, die sich darauf konzentriert, die Entwicklung informativer Webseiten (nicht von Web-Apps) zu vereinfachen.

@@ -1,0 +1,16 @@
+Eine Antenne ist eine technische Anordnung zur Abstrahlung und zum Empfang elektromagnetischer Wellen, oft zur drahtlosen Kommunikation.
+Antennen aus gestreckten Drähten gehen zurück auf den Physiker Heinrich Hertz, der mit seinen Versuchen die theoretischen Vorhersagen des Physikers James Clerk Maxwell aus dem Jahr 1865 überprüfen wollte.
+Da es für so hohe Frequenzen zunächst keine Nachweisgeräte gab, wurden die nachfolgenden Versuche von anderen Experimentatoren mit elektromagnetischen Wellen durchgeführt, die eine erheblich größere Wellenlänge hatten.
+Die verwendete Wellenlänge - wahrscheinlich einige 100 m - lässt sich kaum ermitteln, weshalb sich die Frage erübrigt, ob die verwendeten Antennen auf Resonanz abgestimmt waren.
+Auf Marconi geht auch der Begriff "Antenne" zurück, der gegen Anfang des 20. Jahrhunderts von den meisten europäischen Sprachen übernommen wurde.
+Ganz allgemein kann man Antennen als Koppelelemente zwischen geführten und ungeführten elektromagnetischen Wellen, d. h. als Wandler zwischen Leitungs- und Freiraumwellen, auffassen.
+Die Felder breiten sich nicht unendlich schnell, sondern mit Lichtgeschwindigkeit aus und innerhalb dieses sog. "Informationsdurchmessers" mit v  c sind die Felder über Ursache und Wirkung gekoppelt (Durchmesser der Kugel: /2).
+Das sich ausbreitende Feld verliert am Randbereich die Kopplung an die Antenne, wenn sich die Richtung der Feldvektoren umkehrt.
+Die Felder werden durch die Umkehr abgestoßen und können nicht mehr zurück zur Antenne.
+Eine elektromagnetische Welle wird in den Raum abgestrahlt.
+Als Bezugspunkt gilt der Feldwellenwiderstand im freien Raum von etwa 377 . Feldquellen mit höherer Impedanz haben ein überwiegend kapazitives Feld und bilden elektrische Antennen, Feldquellen mit niedrigerer Impedanz haben ein überwiegend induktives Feld und bilden reziprok-magnetische Antennen.
+Das bedeutet, dass einige typische Begriffe für Sendeantennen, zum Beispiel die "Ausleuchtung" oder der "Überstrahlungsfaktor" von Reflektoren, auch für reine Empfangsantennen genutzt werden können, da sie für den Empfangsfall einen vergleichbaren Einfluss haben (wie in diesem Beispiel auf die effektive Antennenwirkfläche der Antenne).
+Zirkular polarisierte Signale kehren ihre Drehrichtung allerdings bei Reflexion um.
+Echte Breitbandantennen sind nicht resonant und durch besondere konstruktive Maßnahmen bleiben ihre elektrischen Eigenschaften in einem weiten Frequenzbereich nahezu konstant (Beispiele sind bikonische Antennen, Spiralantennen und LPA).
+Sie wird beispielsweise als Sendemast in Rundfunksendern im Lang- und Mittelwellenbereich, als Drahtantenne im Kurzwellenrundfunk und auf Kurzwelle im Amateurfunk und Schiffsfunk, und als / 2-Dipol als Strahler in Yagiantennen im VHF- bis UHF-Bereich sowie als / 4-Dipol in Stabantennen für Kurzwelle bis jenseits des UHF-Bereiches (Funkdienste, Funktelefone, CB-Funk usw.) eingesetzt.
+Die Rechnersimulation erlaubt eine hohe Genauigkeit, wenn es denn gelingt, die Antenne (und gegebenenfalls deren relevante Umgebung) auch genau in den Rechner zu "übernehmen".

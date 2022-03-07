@@ -1,0 +1,22 @@
+Die Zentrifugalkraft (von lateinisch centrum, Mitte und fugere, fliehen), auch Fliehkraft, ist eine Trägheitskraft, die bei Dreh- und Kreisbewegungen auftritt und radial von der Rotationsachse nach außen gerichtet ist.
+Sie wird durch die Trägheit des Körpers verursacht.
+Die Auswirkungen der Zentrifugalkraft sind im Alltag vielfach erlebbar, beispielsweise wenn beim Kettenkarussell die Sitze nach außen gedrängt werden, in der Salatschleuder das Wasser nach außen geschleudert wird oder sich ein Zweiradfahrer "in die Kurve legen" muss.
+Quantitativ wurde sie erstmals 1669 in einem Brief von Christian Huygens an den Sekretär der Royal Society Henry Oldenbourg abgeleitet, auch in Huygens' Horologium Oscillatorium von 1673 ohne Ableitung erwähnt und ausführlich in seiner nachgelassenen Schrift aus dem Jahr 1659 De Vis Centrifuga (erschienen 1703).
+Aus der Beobachtung, dass die Zentrifugalkraft in einem rotierenden Eimer die Wasseroberfläche verformt, schloss Newton, dass eine Drehbewegung sich absolut feststellen lässt, mithin ein Absoluter Raum existieren muss.
+Nach langer Unklarheit über den Ursprung der Zentrifugalkraft wurde 1746 von Daniel Bernoulli erkannt, dass sie keine ursprüngliche, der Natur innewohnende Gegebenheit ist, sondern von der Wahl des zur Beschreibung genutzten Bezugssystems abhängt.
+Beschreibt der Schwerpunkt eines Körpers mit der Masse m {\displaystyle m} in einem Inertialsystem eine gekrümmte Bahn, so ist dafür eine Kraft erforderlich, die eine zur Bahnkurve senkrechte Komponente besitzt.
+Die Zentrifugalkraft ist stets entgegengesetzt gleich groß wie die Zentripetalkraft.
+Ein Beispiel für das dynamische Gleichgewicht von Zentripetalkraft und Zentrifugalkraft ist das Experiment, bei dem z. B. ein Ball der an einem Seil befestigt ist, im Kreis bewegt wird.
+Das Seil, das den Ball auf einer Kreisbahn hält, wird durch die Zentripetalkraft (Kraft (2) im nebenstehenden Bild) gespannt.
+Ihre Stärke kann mithilfe der Masse m {\displaystyle m} , des Radius r {\displaystyle r} des Kreises und der Bahngeschwindigkeit v {\displaystyle v} nach derselben Formel berechnet werden wie die Zentripetalkraft.
+Die Kreisbewegung kann auch als Rotation um den Krümmungsmittelpunkt mit der Winkelgeschwindigkeit  {\displaystyle \omega } aufgefasst werden.
+Daher kann die Zentrifugalkraft auch in Abhängigkeit von der Winkelgeschwindigkeit angegeben werden:
+Da die Zentrifugalkraft aber eine Volumenkraft als Folge einer Beschleunigung ist, sind die Angriffspunkte von Zentripetalkraft und Zentrifugalkraft unterschiedlich.
+Im allgemeinen Sprachgebrauch wird daher der Begriff Zentrifugalkraft dann benutzt, wenn die Wirkung auf den gesamten Körper beschrieben werden soll.
+Betrachtet man z. B. die Funken, die sich von einer Schleifscheibe lösen, in einem Inertialsystem, so bewegen sich diese geradlinig, da sie kräftefrei sind.
+Um zwischen den Größen eines Objektes (Ort, Geschwindigkeit, Beschleunigung) in zwei Bezugssystemen zu unterscheiden, wird die normale Notation im Inertialsystem verwendet und das nichtinertiale Bezugssystem erhält den gleichen Buchstaben mit einem Apostroph (engl. prime).
+Das Produkt aus Masse m {\displaystyle m} und Relativbeschleunigung a = ' {\displaystyle {\vec {a}}{\;' }} entspricht der Summe der in diesem Bezugssystem wirkenden Kräfte.
+Die Zentrifugalkraft ist auf einer Achse, die durch den Ursprung des Bezugssystems geht und in Richtung der Winkelgeschwindigkeit zeigt null, selbst wenn der Ursprung des Bezugssystems eine Kreisbewegung ausführt.
+Nimmt man an, dass als äußere Kraft nur die Zentripetalkraft wirkt, lautet die Bewegungsgleichung im rotierenden Bezugssystem allgemein:
+Technische Anwendungen der Zentrifugalkraft sind die Zentrifuge, der Fliehkraftabscheider, der Schneckentrieur, das Fliehkraftpendel und der Fliehkraftregler.
+Für künftige Raumstationen unterschiedlicher Größe hat man geplant, die Zentrifugalkraft als Ersatz für die Schwerkraft zu verwenden, weil längere Schwerelosigkeit der Gesundheit des Menschen schaden kann.

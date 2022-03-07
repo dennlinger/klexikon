@@ -1,0 +1,39 @@
+Der Amateurfunkdienst (kurz: Amateurfunk; englisch amateur radio service oder umgangssprachlich ham radio) ist im Sinne der Internationalen Fernmeldeunion (ITU) ein von Amateuren ausgeübter globaler nichtkommerzieller Funkdienst (englisch service) mit den Selbstzwecken:
+Die Regelungen der ITU verweisen ausdrücklich darauf, dass der Amateurfunkverkehr keine politischen Aspekte beinhalten soll.
+Meinungsfreiheit in oder die Souveränität von Mitgliedsstaaten der ITU sollen durch den Amateurfunkbetrieb nicht berührt werden.
+Das personalisierte Amateurfunkrufzeichen dient der eindeutigen Identifikation einer Sendefunkstelle und besteht aus einer alphanumerischen Kombination.
+Zunächst wird eine Prüfung bei der zuständigen Landesstelle abgelegt.
+Nach der Prüfung kann der Inhaber des Prüfzeugnisses seine Genehmigung beantragen, sofern er das Amateurfunkrufzeichen nicht schon nach bestandener Prüfung erhielt.
+In Unterscheidung zum Amateurfunk, für den weltweit eine jeweilige Funkgenehmigung notwendig ist, existiert ebenso global der sogenannte Jedermannfunk.
+Die Geräte dürfen für den Sendebetrieb nicht verändert werden.
+Amateurfunk ist ein vielfältiges Hobby, da es Kenntnisse in Wissenschaft und Technik, Freude an Kommunikation, handwerkliches Geschick und Kreativität erfordert:
+Damit sich Funkamateure leichter mit der Technik auseinandersetzen können, bieten verschiedene Firmen und Funkamateure Bausätze an.
+Selbstbaugeräte besitzen häufig nur eine geringe Sendeleistung.
+("QRP" ist ein Betriebszeichen aus der Telegrafie und bedeutet im eigentlichen Sinne: "Reduzieren Sie Ihre Sendeleistung".)
+Die Räumlichkeit, in der diese Geräte aufgestellt bzw. betrieben werden, wird als Shack bezeichnet (engl. Bude, Hütte).
+Beispielsweise stehen die beiden Buchstaben OM ("Old Man") für einen männlichen Funkamateur, hingegen YL ("Young Lady") für eine Funkamateurin (in beiden Fällen jeglichen Alters).
+Seit kurzem gibt es auch digitalen Sprechfunk, wie den in Japan entwickelten digitalen Übertragungsstandard D-STAR.
+Funkamateure haben eigene Satelliten gebaut, die man als Relaisstation nutzen kann.
+Das betrachten die meisten "alten Hasen", die noch eine Morseprüfung ablegen mussten, als unsportliches Verhalten.
+Es hat sich aber ergeben, dass Telegrafie, als ursprünglichste Form der Nachrichtenübermittlung weiterhin einen festen Platz im Amateurfunk hat.
+Für den Amateurfunkdienst sind Frequenzbereiche im gesamten elektromagnetischen Spektrum zugewiesen.
+Das Entscheidungsgremium dafür ist die Weltfunkkonferenz.
+Nachfolgend sind einige internationale Veranstaltungen aufgeführt:
+Mittlerweile gibt es auch Websites für diesen Zweck:
+Weltweit organisieren sich Funkamateure in Interessensverbänden.
+Das führte in vielen Ländern zu einem Chaos auf den Frequenzen.
+1939 durften solche Experimentalstationen ins kommerzielle Lager wechseln, dann natürlich mit den Rufzeichen aus 3-4 Buchstaben, die auch bis heute üblich sind.
+In den USA gab es ab 1905 für 8,50 Dollar den "Telimco-Telegraphen" frei zu kaufen, mit dem man etwa eine Meile überbrücken konnte.
+Bedingt durch den Ersten Weltkrieg war der private Funkbetrieb auch in den USA von 1914 bis 1919 verboten.
+Das war eine reine Empfangserlaubnis.
+Zonen-übergreifende Organisationen waren nicht möglich, Kommunikation und Reisen nur schwer möglich.
+So waren es 2019 nur noch 63.070 Amateurfunkzulassungen.
+Am 6. Februar 1953 wurde die "Verordnung über den Amateurfunk" verkündet.
+Neben dem Klubstationsleiter (Chefoperator) gab es lizenzierte sogenannte Mitbenutzer der Amateurfunkstelle, deren Rufzeichen aus dem Stationsrufzeichen abgeleitet wurde.
+Wie damals üblich begann der Amateurfunk auch in der Schweiz um den Ersten Weltkrieg als "Schwarzfunk".
+Rund um Windhoek kann man es wie ein ganz normales UKW-Relais nutzen, während Funkamateure im restlichen Land den 80-m-Zugang nutzen können.
+Seit etwa 1990 wird der Amateurfunk in der Gesellschaft weniger deutlich wahrgenommen, was sich deutlich am geringen Nachwuchs bemerkbar macht.
+Weitere Umstände, die den Amateurfunk ungünstig beeinflussen können:
+Noch nicht so recht abzuschätzen ist der Einfluss der Digitalisierung auf den Amateurfunk.
+Dies zeigt sich ganz deutlich beim Software Defined Radio.
+Freifunk zählt nicht zum Amateurfunk.

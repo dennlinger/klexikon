@@ -1,0 +1,19 @@
+Als Abkürzung (abgekürzt: Abk.) wird die gegenüber der ursprünglichen Länge verkürzte Darstellungsform eines Wortes oder einer Wortgruppe bezeichnet.
+Was man abkürzt, ist auch gesellschaftlich bedingt.
+Daneben gibt es Abkürzungen, die nur in einem bestimmten Umfeld verwendet werden, wie zum Beispiel in Kleinanzeigen oder nicht mit dem vollen Namen gekennzeichneten Artikeln in Zeitungen oder in einem Fachgebiet.
+Im nicht-literarischen Umgangsdeutsch umschreibt das Wort Abkürzung auch einen abkürzenden Weg.
+Das Wort "Abkürzung" wird durch die Abkürzung "Abk." abgekürzt.
+Schon die antiken Inschriften waren reich an Abkürzungen.
+Besonders reich wurde das Abkürzungssystem mit dem hohen Bücherbedarf in den spätmittelalterlichen Universitäten.
+ab .
+Wird eine Abkürzung als Folge einzelner Buchstaben gesprochen, so wird sie im Allgemeinen ohne Punkt und stets ohne Leerzeichen geschrieben.
+In Österreich darf zum Beispiel auch ohne Punkte und Leerzeichen als zB abgekürzt werden.
+Zeilenumbrüche innerhalb dieser Abkürzungen sollten vermieden werden.
+Statt z. B. für "z. B." oder z. B. für "z. B." kann man in HTML also z.&#x202f;B. für "z. B." schreiben.
+In den Rechtschreibregeln im Duden ist diese Schreibweise nicht zu finden.
+Der letzte Punkt einer Abkürzung wird mit dem Punkt am Ende eines Satzes verschmolzen.
+Der letzte Punkt einer Abkürzung verschmilzt jedoch nicht mit anderen Satzzeichen als dem Punkt.
+Beispiele:
+Auch die Kombination von Abkürzungen mit und ohne Punkt ist ohne Weiteres möglich.
+Die Deklination von Abkürzungen ist eher unüblich, aber grundsätzlich möglich.
+Bei Abkürzungen mit Punkt wird unterschieden:

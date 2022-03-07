@@ -1,0 +1,23 @@
+Ein Modell ist ein vereinfachtes Abbild der Wirklichkeit.
+Nach Herbert Stachowiak kennzeichnen ein Modell mindestens drei Merkmale:
+Zudem werden gelegentlich weitere Merkmale diskutiert, wie Extension und Distortion sowie Validität.
+Der amerikanische Wissenschaftsphilosoph Michael Weisberg unterscheidet auf der obersten Ebene zwischen gegenständlichen (concrete) und mathematischen Modellen und stellt daneben die Computersimulationen (computational models) als eigene Klasse von Modellen auf.
+Das Wort Modell entstand im Italien der Renaissance als ital. modello, hervorgegangen aus lat. modulus, einem Maßstab in der Architektur, und wurde bis ins 18. Jahrhundert in der bildenden Kunst als Fachbegriff verwendet.
+Um 1800 verdrängte Modell im Deutschen das ältere, direkt vom lat. modulus (Maß(stab)) entlehnte Wort Model (Muster, Form, z. B. Kuchenform), das noch im Verb ummodeln und einigen Fachsprachen und Dialekten fortlebt.
+Die Modellbildung abstrahiert mit dem Erstellen eines Modells von der Realität, weil diese meist zu komplex ist, um sie vollständig abzubilden.
+Diese Vollständigkeit wird aber auch gar nicht beabsichtigt, vielmehr sollen lediglich die wesentlichen Einflussfaktoren identifiziert und dargestellt werden, die für den realen Prozess und im Modellkontext bedeutsam sind.
+Man unterscheidet die strukturelle und die pragmatische Modellbildung.
+Tatsächlich kann lediglich der Modellkontext bestimmt und optimiert werden.
+Die Mathematisierung einzelner Wissenschaftszweige, wie der Betriebswirtschaftslehre (Prognoseverfahren), der Volkswirtschaftslehre (Simulationsverfahren) oder der Biologie (Gentechnik) eröffneten völlig neue Modellwelten.
+Mathematische Modelle sind in mathematischen Formeln beschriebene Modelle.
+Hier versteht man unter einem Modell eines Axiomensystems eine mit gewissen Strukturen versehene Menge, auf die die Axiome des Systems zutreffen.
+Die Existenz eines Modells beweist, dass sich die Axiome nicht widersprechen; existieren sowohl Modelle mit einer gewissen Eigenschaft als auch solche, die diese Eigenschaft nicht haben, so ist damit die logische Unabhängigkeit der Eigenschaft von den Axiomen bewiesen.
+In der Logik ist das Modell einer Formel F eine Bewertung, die F den Wahrheitswert <wahr> zuordnet.
+Das Modell eines Satzes (einer Formel) ist daher eine Interpretation, die den Satz (die Formel) erfüllt.
+In der Modallogik besteht ein Modell aus drei Komponenten:
+Demgegenüber stehen Analogiemodelle, die die Strukturähnlichkeit (Homomorphie) der abgebildeten Wirklichkeit erzeugen (sollen) wie zum Beispiel das Planetenmodell der Atome.
+So dienen sie u. a. dazu, komplexe Sachverhalte zu vereinfachen (idealisieren) bzw. unserer Anschauung zugänglich zu machen.
+Zu den wichtigsten Annahmen für Modelle in der VWL gehören der vollkommene Markt und der Homo oeconomicus.
+Der Psychologe Kurt Lewin (1890-1947) war ein großer Meister im Entwerfen von Modellen für komplexe Sachverhalte in der Psychologie (Feldtheorie in den Sozialwissenschaften, Bern 1963), etwa in den motivationspsychologischen Arbeiten.
+(In der Alltagssprache verwendet man eher das Wort Vorbild.) Der agierende Erzieher muss sich die Frage gefallen lassen, ob er exakt das in seinem Verhalten realisiert, was er theoretisch und praktisch in Erziehungssituationen als angemessen bis optimal zu fordern bereit ist, um als Modell (Vorbild) fungieren zu können.
+In der Chemie dienen Modelle insbesondere zur Veranschaulichung von kleinsten Teilchen, wie beispielsweise Atome und Moleküle, und zur Erklärung und Deutung von chemischen Reaktionen, die oftmals auch simuliert werden.

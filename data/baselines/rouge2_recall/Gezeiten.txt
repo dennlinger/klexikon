@@ -1,0 +1,18 @@
+Die Gezeiten oder Tiden (niederdeutsch Tid, Tied "Zeit"; Pl.
+Tiden, Tieden "Zeiten") sind die Wasserbewegungen der Ozeane, die infolge der Gravitation des Mondes und der Sonne durch die zugehörigen Gezeitenkräfte verursacht werden.
+Die Gezeiten wirken sich vorwiegend an den Küsten aus.
+Da der stärkere Einfluss vom Mond ausgeht, gibt es nicht in 24 Stunden, sondern in knapp 25 Stunden zweimal Hochwasser und zweimal Niedrigwasser, denn der Mond steht erst nach durchschnittlich 24 Stunden 49 Minuten wieder an ungefähr gleicher Stelle am Himmel.
+Im 16. Jahrhundert gab Andrea Cesalpino in seinem Werk Quaestiones Peripatetica (1571) eine Erklärung der Gezeiten durch die Erdbewegung - ähnlich dem Hin- und Herschwappen von Wasser in einem bewegten Eimer.
+1590 erklärte Simon Stevin die Anziehung durch den Mond zur Ursache der Gezeiten.
+Kepler interpretierte schon qualitativ richtig, warum Ebbe und Flut an verschiedenen Küsten unterschiedlich stark und gegenüber dem Mond unterschiedlich phasenverschoben sind, konnte aber nur eine Tide pro Tag erklären.
+Von der Sonne aus gesehen bewegt sich die Tagseite der Erde langsamer als die Nachtseite, wodurch sich die Gezeiten, allerdings auch nur einmal täglich, aufgrund der unterschiedlichen Beschleunigungen ergeben sollen.
+Als Erster konnte er die an verschiedenen Orten der Erde unterschiedlichen Anziehungskräfte von Mond und Sonne und die daraus resultierende Verformung der Meeresoberfläche berechnen, die richtig zu zwei - allerdings viel zu schwach ausgeprägten - Tiden pro Tag führt.
+Gezeiten entstehen durch das Zusammenwirken der täglichen Drehung der Erde im (nahezu feststehenden) Gravitationsfeld von Mond und Sonne und der Tatsache, dass dieses Gravitationsfeld nicht überall gleich stark ist, sondern die Erde etwas in die Länge zieht.
+Im Bezugssystem, in dem der Massenmittelpunkt ruht, verhält jeder Massepunkt sich so, als ob auf ihn die Gezeitenkraft
+Dies Bezugssystem ist mit R =  {\displaystyle {\ddot {\vec {R}} }} beschleunigt, daher wirkt in ihm eine überall gleiche Trägheitskraft F = Träg ( r = ) = - m R =  {\displaystyle {\vec {F}}_{\text{Träg}}({\vec {r}})=-m\;{\ddot {\vec {R}}}} , die man zu der äußeren Kraft F = ( r = ) = m a = ( r = ) {\displaystyle {\vec {F}}({\vec {r}})=m\;{\vec {a}}({\vec {r}})} zu addieren hat.
+In den Knoten ist die Amplitude des Pegels gering, die Strömungsgeschwindigkeit groß.
+Für die Schifffahrt in Flussmündungen sind Voraussagen über die Gezeitenwelle, die bei Flut stromaufwärts läuft, von besonderer Bedeutung.
+Das betrifft sowohl den Tidenhub als auch den Zeitpunkt des Eintretens von Hoch- und Niedrigwasser.
+In der Nordsee z. B. laufen Ebbe und Flut in einer Kreiswelle herum, so dass es an den Nordseeküsten Paare von Orte gibt, wo der eine gerade Hochwasser hat, wenn am anderen Niedrigwasser ist.
+Die Geschwindigkeit der Flutwelle verringert sich in flachem Wasser, wobei sich die Höhe der Welle vergrößert.
+Dieses Phänomen findet man vor allem in Nebenmeeren, wie der Nordsee, die drei solcher Knoten aufweist (siehe diesbezügliche Abbildung im Artikel Amphidromie).

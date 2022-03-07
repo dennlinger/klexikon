@@ -1,0 +1,17 @@
+Mit dem geometrischen Begriff Symmetrie (altgriechisch uia symmetria Ebenmaß, Gleichmaß, aus uv syn "zusammen" und ov metron, Maß) bezeichnet man die Eigenschaft, dass ein geometrisches Objekt durch Bewegungen auf sich selbst abgebildet werden kann, also unverändert erscheint.
+Manchmal werden auch zwei (oder mehr) verschiedene geometrische Objekte als zueinander symmetrisch bezeichnet, wenn sie, zusammen betrachtet, eine symmetrische Figur bilden.
+Eine zweidimensionale geometrische Figur besitzt dann die Eigenschaft, rotationssymmetrisch zu sein, wenn die Figur einen zentralen Punkt besitzt, und die Figur auf sich selbst abgebildet wird, wenn man sie um diesen Punkt dreht.
+Rotationssymmetrisch wird eine Figur auch dann genannt, wenn sie auf sich abgebildet werden kann, indem sie um einen festen Winkel  {\displaystyle \varphi } mit 0°<  {\displaystyle \varphi } < 360° um den zentralen Punkt gedreht wird.
+Diese Zahl n {\displaystyle n} ist eine Kennzahl der Rotationssymmetrie und wird auch "Zähligkeit" genannt.
+Weitere Beispiele für 2-fache Rotationssymmetrie sind die weiter unten abgebildeten punktsymmetrischen Figuren.
+Dieser Nachweis ist besonders einfach im Falle der Symmetrie der y-Achse des (kartesischen) Koordinatensystems.
+Eine Funktion ist achsensymmetrisch zur y-Achse, wenn gilt:
+In der Mathematik kann man die Symmetrieeigenschaften des Seesterns durch eine Drehgruppe beschreiben.
+Es entstehen gerade Prismen, spezielles Polyeder, die in diesem Fall, wenn die gegebenen Polygone reguläre Polygone sind, reguläre Prismen genannt werden.
+Hochsymmetrische Objekte (wie einige der Prismen in der nebenstehenden Grafik) können sehr viele Spiegelebenen besitzen, die sich alle in einem Punkt schneiden.
+Drehspiegelsymmetrie ist die Symmetrie eines Körpers, die sich aus zwei Teiloperationen zusammensetzt.
+Diese Ebene geht durch das Symmetriezentrum, durch den Mittelpunkt des Körpers.
+Nach der Drehung um 90° (rechte Handregel: Daumen in Richtung der Achse, Drehung in Richtung der anderen Finger) wird der Punkt zunächst auf die rechte obere Ecke und durch die Spiegelung auf die rechte untere Ecke abgebildet, die durch einen schwarzen Punkt markiert ist.
+Dass sie 6-zählig ist, erkennt man wiederum, wenn man die Bahn verfolgt, die ein Punkt des Würfels, zum Beispiel in der Grafik die Bahn der mit einem weißen Punkt markierten Ecke verfolgt.
+Man kann daher in Symmetriebetrachtungen alle 2-zähligen Drehspiegelachsen weglassen und sie durch eine einzige Operation, die Inversion, ersetzen.
+Die homogenen Platonischen Körper Würfel, Oktaeder, Dodekaeder und Ikosaeder sind punktsymmetrisch.

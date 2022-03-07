@@ -1,0 +1,19 @@
+Das Internet (von englisch internetwork, zusammengesetzt aus dem Präfix inter und network ,Netzwerk' oder kurz net ,Netz'), umgangssprachlich auch Netz, ist ein weltweiter Verbund von Rechnernetzwerken, den autonomen Systemen.
+"Netz" bezeichnet aber in der Informatik nicht zwingend das Internet, sondern es gibt auch diverse andere Netzwerk-Infrastrukturen.
+Das Ziel war zunächst, die Rechenleistungen dieser Großrechner effizienter zu nutzen, zuerst nur in den USA, später weltweit.
+Damit wurde das Ziel, Rechenarbeit nach Angebot und Nachfrage auszulagern, verfehlt.
+Es bildeten sich erste Verhaltensregeln (Netiquette) und damit erste Anzeichen einer "Netzkultur".
+Im Jahr 1990 beschloss die National Science Foundation der USA, das Internet für kommerzielle Zwecke nutzbar zu machen, wodurch es über die Universitäten hinaus öffentlich zugänglich wurde.
+Das Internet ist ein wesentlicher Katalysator der Digitalen Revolution.
+Das Internet besteht aus Netzwerken unterschiedlicher administrativer Verwaltung, die zusammengeschaltet sind.
+Server dagegen sind Rechner, die in erster Linie Internetdienste anbieten.
+Eine solche Übergabe von Datenverkehr zwischen getrennten administrativen Bereichen, sogenannten autonomen Systemen, kann auch an jedem anderen Ort geschaltet werden, es ist meist jedoch wirtschaftlich sinnvoller, dies gebündelt an verschiedenen Internet-Knoten vorzunehmen.
+Diese Dezentralität wurde jedoch auf der politischen Ebene des Internets nicht eingehalten.
+Man kann sich diese Adressen wie Telefonnummern für Computer mit dem Domain Name System (DNS) als automatischem Telefonbuch vorstellen.
+Im Kernbereich des Internets müssen die IP-Pakete durch ein weit verzweigtes Netz.
+Dieser Abschnitt behandelt den Zugang zum Internet unter demographischen Aspekten; technische Aspekte werden im Artikel Internetzugang erläutert.
+Laut dem European Information Technology Observatory nutzten Anfang 2008 etwa 1,23 Milliarden Menschen das Internet.
+In Europa gab es starke Unterschiede bei den regelmäßigen Internetbenutzern.
+"Während schon 80 Prozent der 10- bis 13-jährigen mindestens ab und zu im Internet unterwegs sind, ist es bei den 6- bis 9-jährigen jeder Dritte." Neben alten Menschen nutzen in Deutschland auch sozial Schwache und Arbeitslose das Internet weniger.
+Ebenfalls 57 % der User wickelten ihre Bankgeschäfte über das Internet ab.
+Durch die Möglichkeiten der lokalen und globalen Verlinkung von einzelnen Wörtern eines Online-Textes, kann auch die Linearität, die einem traditionellen Text innewohnt, teilweise aufgehoben werden.

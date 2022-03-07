@@ -1,0 +1,22 @@
+Die Zentrifugalkraft (von lateinisch centrum, Mitte und fugere, fliehen), auch Fliehkraft, ist eine Trägheitskraft, die bei Dreh- und Kreisbewegungen auftritt und radial von der Rotationsachse nach außen gerichtet ist.
+Sie wird durch die Trägheit des Körpers verursacht.
+Huygens gewann die Formel aus der Betrachtung, wie sich ein von der Schleuder gelöster Stein in anfänglich quadratischer Weise von der Fortsetzung der Kreisbewegung entfernt.
+Kurz danach erkannte Leonhard Euler das allgemeine Konzept von Trägheitskräften in einem beschleunigten Bezugssystem.
+Nach d'Alembert schreibt man diese Grundgleichung der Mechanik in der Form
+Die Zentrifugalkraft ist stets entgegengesetzt gleich groß wie die Zentripetalkraft.
+Sie bildet zusammen mit der Zentripetalkraft ein dynamisches Gleichgewicht.
+Ein Beispiel für das dynamische Gleichgewicht von Zentripetalkraft und Zentrifugalkraft ist das Experiment, bei dem z. B. ein Ball der an einem Seil befestigt ist, im Kreis bewegt wird.
+Die Kreisbewegung kann auch als Rotation um den Krümmungsmittelpunkt mit der Winkelgeschwindigkeit  {\displaystyle \omega } aufgefasst werden.
+Daher kann die Zentrifugalkraft auch in Abhängigkeit von der Winkelgeschwindigkeit angegeben werden:
+Da die Zentrifugalkraft aber eine Volumenkraft als Folge einer Beschleunigung ist, sind die Angriffspunkte von Zentripetalkraft und Zentrifugalkraft unterschiedlich.
+Diese setzen sich aus den äußeren Kräften und den Scheinkräften zusammen.
+Diese Kraft ist unabhängig davon, ob eine Zentripetalkraft vorhanden ist oder nicht.
+Nimmt man an, dass als äußere Kraft nur die Zentripetalkraft wirkt, lautet die Bewegungsgleichung im rotierenden Bezugssystem allgemein:
+Dennoch ist das Ergebnis an unterschiedliche Voraussetzungen geknüpft.
+Während sich die d'Alembertsche Trägheitskraft als negatives Produkt aus Masse und Absolutbeschleunigung im Inertialsystem ergibt, wird hier ein spezielles Bezugssystem vorausgesetzt.
+Beim nächsten wichtigen Spezialfall fehlt die äußere Kraft (z. B. bei den Funken, die sich ablösen):
+Dieselbe Änderung der potentiellen Energie ergibt sich, wenn man die Zentrifugalkraft entsprechend ausdrückt
+Da aber ein physikalisches Phänomen nicht durch eine Scheinkraft, die vom gewählten Bezugssystem abhängt erklärt werden kann, findet sich eine gleichwertige Herleitung auf der Basis der Newtonschen Kräfte.
+Jedes Teilchen des Wasserkörpers wird auf eine Kreisbahn gezwungen.
+Die Zentrifugalbeschleunigung für ein mitrotierendes Wäschestück ergibt sich zu
+Technische Anwendungen der Zentrifugalkraft sind die Zentrifuge, der Fliehkraftabscheider, der Schneckentrieur, das Fliehkraftpendel und der Fliehkraftregler.

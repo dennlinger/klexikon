@@ -1,0 +1,31 @@
+Die (auch das) E-Mail (englisch , kurz Mail; engl. electronic mail für "elektronische Post") ist zum einen ein System zur computerbasierten Verwaltung von briefähnlichen Nachrichten und deren Übertragung über Computernetzwerke, insbesondere über das Internet.
+E-Mail ist neben dem World Wide Web ein wichtiger Internetdienst, nicht zuletzt, weil es durch E-Mails möglich ist, Textnachrichten ebenso wie digitale Dokumente (also z. B. Grafiken oder Office-Dokumente) typischerweise in wenigen Sekunden rund um die Erde zu senden.
+Im Gegensatz zu Telefon oder Internet Relay Chat, die gleichzeitige (synchrone) Kommunikation ermöglichen, ist die E-Mail - wie die Briefpost - ein asynchrones Kommunikationsmedium:
+Dass die sächliche Form überwiegt, wird dadurch unterstrichen, dass "e-mailen" mit "ein E-Mail versenden" erklärt wird.
+Ende der 1980er Jahre begann dann die weltweite Verbreitung der E-Mail - sie war eine der ersten Anwendungen, die die Möglichkeiten des Arpanets nutzten.
+Ray Tomlinson hat im Jahr 1971 den ersten elektronischen Brief verschickt und gilt seitdem als Erfinder der E-Mail.
+Er war bei dem Forschungsunternehmen Bolt, Beranek and Newman (BBN) an der Entwicklung des Betriebssystems TENEX beteiligt, das auf vielen im Arpanet verbundenen Rechnern zur Verfügung stand, und beschäftigte sich dabei unter anderem mit dem Programm SNDMSG für die Übermittlung von Nachrichten unter den Benutzern des Großrechners und dem Protokoll CPYNET für die Übertragung von Dateien zwischen Computern.
+Die erste Anwendung dieser Kombination war eine Nachricht von Tomlinson an seine Kollegen, in der er Ende 1971 mitteilte, dass man nun Nachrichten übers Netzwerk senden konnte, indem man dem Benutzernamen des Adressaten das Zeichen "@" und den Hostname des Computers anfügte.
+Parallel zum Internet entwickelten sich zu Beginn der 1980er Jahre in den meisten Netzwerken Systeme, mit denen sich Nachrichten übertragen ließen.
+Eine Kopie dieser E-Mail wurde als "CC" gleichzeitig an den Leiter des Projekts, Werner Zorn mit der Adresse ("zorn@germany"), geschickt.
+Die erste große E-Mail-Diskussionsgruppe, die im Arpanet entstand, war eine Mailingliste namens "SF-LOVERS", in der sich eine Reihe von DARPA-Forschern an öffentlichen Diskussionen über Science-Fiction beteiligten.
+Zunächst wurde versucht, dagegen einzuschreiten, weil derartige Aktivitäten selbst bei liberalster Auslegung mit Forschung wenig zu tun hatten.
+Schließlich wurden die Verantwortlichen der DARPA aber mit dem Argument überzeugt, dass SF-LOVERS ein wichtiges Pilotprojekt zur Erforschung der Verwaltung und des Betriebs großer Mailinglisten war.
+Im Jahr 2014 wurden in Deutschland rund 506,2 Milliarden E-Mails versendet.
+Ein solches Programm ist lokal auf dem Computer des Benutzers installiert und kommuniziert mit einem oder mehreren E-Mail-Postfächern.
+Alternativ kann man via Webmail auf seine E-Mail zugreifen.
+E-Mails sind intern in zwei Teile geteilt:
+Die Header genannten Kopfzeilen einer E-Mail geben Auskunft über den Weg, den eine E-Mail genommen hat, und bieten Hinweise auf Absender, Empfänger, Datum der Erstellung, Format des Inhaltes und Stationen der Übermittlung.
+Obwohl das HTML-Format standardisiert ist, war es ursprünglich nicht für den Einsatz in E-Mails gedacht.
+Eine E-Mail-Adresse bezeichnet eindeutig den Empfänger einer E-Mail und ermöglicht damit eine Zustellung an diesen Empfänger.
+So, wie sie für den Transport per SMTP im Internet verwendet wird, besteht sie aus zwei Teilen:
+Wurde eine Zustellbestätigung angefordert, erhält der Absender (im obigen Beispiel Anja) eine Delivery Status Notification (DSN) in Form einer E-Mail, sobald seine E-Mail erfolgreich im Postfach des Empfängers abgelegt wurde und die beteiligten Architekturen dies unterstützen.
+Die Lesebestätigung kann somit nicht dahingehend interpretiert werden, dass der Empfänger die E-Mail auch tatsächlich gelesen oder gar verstanden hat.
+Der Standard Quoted-Printable kodiert zum Beispiel den Buchstaben "ß" als Zeichenkette "=DF".
+Bei neueren POP-Versionen ist es aber - abhängig von den Einstellungen des Servers - auch möglich, die Mails auf dem Server zu belassen.
+Auch der finanzielle Einzelaufwand (Kosten für Versand einer E-Mail) ist im Normalfall geringer (keine Material- und Portokosten), sofern viele E-Mails verarbeitet werden oder die nötige Infrastruktur (Computer mit Internetzugang) sowieso schon beim Absender und Empfänger zur weitergehenden Nutzung vorhanden ist.
+Antworten auf E-Mails können einfacher und schneller begonnen werden, indem der Absender und die CC-Empfänger der Ursprungs-E-Mail automatisch als Empfänger der Antwort übernommen werden.
+Seit ungefähr 2002 sind mehr als 50 % und seit 2007 etwa 90 % des weltweiten E-Mail-Aufkommens Spam.
+Herkömmliche E-Mails besitzen zwar auch den Mechanismus der Annahmebestätigung, aber der Empfänger kann die E-Mail trotzdem lesen, ohne gezwungen zu sein, die Annahme dem Absender gegenüber zu bestätigen.
+Ein Verstoß löst eine Pflicht zur Leistung von Schadensersatz aus.
+Das Urteil bezieht sich auf einen Fall, in dem E-Mails veröffentlicht worden sind, die zum einen an einen Dritten gerichtet waren und die zum anderen von der veröffentlichenden Partei auf unlautere Weise erlangt worden sind.

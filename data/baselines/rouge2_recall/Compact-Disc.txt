@@ -1,0 +1,33 @@
+Die Compact Disc (kurz CD, englisch für kompakte Scheibe) ist ein optischer Speicher, der Anfang der 1980er-Jahre zur digitalen Speicherung von Musik von Philips/PolyGram und Sony eingeführt wurde und die Schallplatte ablösen sollte.
+Von den späten 1990er-Jahren bis in die früheren 2010er-Jahre war die Compact Disc einer der meistgenutzten Audioträger.
+Später kamen jedoch weitere Nutzungen hinzu, so etwa zur Speicherung von Daten als CD-ROM, für Videos als VCD oder für interaktive Daten als CD-i.
+Bei Einführung der CD-ROM Anfang der 1990er Jahre stand "CD" noch für Audio-CD und "CD-ROM" für die Daten-CD, spätestens eine Dekade später kann "Compact Disc" alias "CD" jedoch als Synonym für alle Arten von CDs verstanden werden - die Unterscheidung ergibt sich durch die genaue Bezeichnung des Mediums (CD-ROM, CD-R, CD-RW) und die darauf enthaltenen Daten (Audio, Daten, Video, Interactive).
+Sie werden - im Gegensatz zu Schallplatten - nicht gepresst, sondern in Spritzgussmaschinen in Form auf die Vater-Matrize gespritzt.
+Die Informationen der CD, das sogenannte "Programm", sind auf einer spiralförmig nach außen verlaufenden Spur angeordnet; sie belegen maximal 85 % der CD-Gesamtfläche.
+Auf einer Audio-CD können maximal 99 Musiktitel gespeichert werden; dazu hat jede Scheibe ein Inhaltsverzeichnis (TOC, table of contents) und einen der Information eingelagerten Zeitcode.
+Die Geschwindigkeit, mit der die Daten eingelesen werden, hängt von der Drehzahl der CD ab; diese wird traditionellerweise so geregelt, dass eine vorgegebene Datenrate eingehalten wird.
+Die Spiralspur besteht aus Pits (Gruben) und Lands (Flächen), die auf dem Polycarbonat aufgebracht sind.
+Eine CD besteht demnach zum größten Teil aus Polycarbonat.
+Zwischen dem Aufdruck (Grafik und Text) und der Aluminiumschicht (Dicke der Reflexionsschicht: 50 bis 100 nm) befindet sich noch eine Schutzlackschicht, um das Aluminium vor äußeren Einflüssen zu schützen.
+Alternativ kann hier auch das Offsetdruckverfahren eingesetzt werden.
+Die reflektierende Schicht ist jedoch eine Silber-Indium-Antimon-Tellur-Legierung, die im ursprünglichen Zustand eine polykristalline Struktur und reflektierende Eigenschaften besitzt.
+Da die CDs von der Oberseite gepresst werden, sind die Pits (Vertiefungen) von der Unterseite her als Hügel zu erkennen.
+Durch eine spezielle Lichtführung auf die Fotodioden, beispielsweise durch einen Astigmaten auf eine quadratische Anordnung von vier Fotodioden, können durch Differenzbildung der Signale unterschiedlicher Fotodioden neben dem Nutzsignal (Summe aller Signale) auch Stellgrößen für die Spurführung und den Fokus (richtigen Abstand zwischen CD und Leseoptik) ermittelt werden.
+Wenn der Lesekopf weiter außen auf der CD liest, wird die CD also langsamer gedreht.
+Dadurch hängt bei Daten-CDs die Datenrate von der Position des Lesekopfes, also letztlich der Position auf der CD, ab.
+Bei diesen Drehzahlen führen selbst kleinste Unwuchten der CD zu starken Vibrationen, die einerseits deutlich hörbar sind und zum anderen auf Dauer sowohl Laufwerk als auch Medium beschädigen können.
+Wenn sich die CD mit der richtigen Geschwindigkeit dreht, kommen die Daten vom optischen Abtaster mit einer Datenrate von gut 4,3 Mbit/s, entsprechend einer Bitdauer von ca. 231 ns.
+Hinzu kommen noch weitere drei Füllbits, die so gewählt werden, dass die oben erwähnte Forderung, dass sich alle drei bis elf Bitdauern die Polarität ändert, auch zwischen den 14-Bit-Symbolen erfüllt wird.
+C2-Fehler können von den meisten Laufwerken bestimmt werden, und es gibt Software für sogenannte C2-Scans, zum Beispiel readcd, Nero CD-Speed oder CD-Doctor.
+Ferner ist die Verwendung eines Reparatursprays oder von Schleif- und Poliergeräten möglich, um eine beschädigte CD oder DVD zu retten.
+CDs gibt es in zwei verschiedenen Größen, am weitesten verbreitet ist die Version mit einem Durchmesser von 120 mm und 15 Gramm Gewicht, seltener die Mini-CD mit einem Durchmesser von 80 mm und 30 % der Speicherkapazität bei einem Gewicht von 6,7 Gramm.
+Daneben gibt es auch CDs, die eine andere Form als eine runde Scheibe haben.
+Die Musikinformationen werden in 16-Bit-Stereo (Quantisierung mit 216 = 65.536 Stufen) und einer Abtastrate von 44,1 Kilohertz gespeichert.
+Als Weiterentwicklung wurde der Datentrack mit einer Index-Position von 0 versehen, wodurch dieser nicht ohne Weiteres vom CD-Spieler angefahren wird (i-Trax).
+Die CD-Standards sehen keinen Kopierschutz vor, da zur Zeit ihrer Festlegung Anfang der 1980er Jahre noch nicht absehbar war, dass in näherer Zukunft beschreibbare digitale Speichermedien mit der nötigen Datenkapazität für den Endverbraucher erschwinglich sein würden - das Kopieren wurde also einfach dadurch verhindert, dass es nichts gab, wohin die Daten realistischerweise kopiert werden konnten.
+Seit dem Jahr 2001 werden in Deutschland auch Medien verkauft, die einen Kopierschutz enthalten, der das digitale Auslesen der Audiodaten (und damit das Kopieren der Daten) verhindern soll.
+Die meisten CDs sind auf dem Innenring der Abtastseite mit Angaben zum Hersteller, dem Produktionsland (zum Beispiel Made in Germany by EDC, Made in France by PDO oder Mastered by DADC Austria) und weiteren Kennungen (zum Beispiel Katalog-Nr., IFPI-Kennung, Source Identification Code (SID)) versehen.
+Allerdings kann man, solange die CD nicht abgeschlossen ("finalisiert") wurde, mit einem weiteren Schreibvorgang nachträglich in einem weiteren Track (das heißt normalerweise in einer weiteren Session) der CD ein neues Dateisystem erzeugen.
+Die Verzeichnisse dieses neuen Dateisystems können auch auf Dateien in den älteren Tracks referenzieren.
+Ein sortenreines Recycling lohnt sich zwar nicht für die Herstellung neuer Compact Discs, jedoch kann der sehr hochwertige Rohstoff in der Medizin, der PC- und der Autoindustrie verwendet werden.
+Da eine CD auch vertrauliche Daten enthalten kann, muss es sichere Verfahren geben, um diese Daten vor der Entsorgung unleserlich zu machen, sei es, weil die Daten nicht mehr benötigt werden oder weil sie gelöscht werden müssen.

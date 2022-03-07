@@ -1,0 +1,12 @@
+Ein Computer (englisch; deutsche Aussprache ) oder Rechner ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet.
+Sie ist benannt nach dem englischen Mathematiker Alan Turing, der 1936 das logische Modell der Turingmaschine eingeführt hatte.
+Diese Daten werden jedoch innerhalb des Computers in Zahlen umgewandelt und als solche verarbeitet, weshalb ein Computer auch heute eine Rechenmaschine ist.
+Der früheste Text, in dem das Wort Computer isoliert verwendet wird, stammt von 1613.
+Das Ergebnis waren Bücher für die Artillerie, die für unterschiedliche Geschütze Flugbahnen unterschiedlicher Geschosse vorhersagten.
+Die Hardware, die aus den elektronischen, physisch anfassbaren Teilen des Computers gebildet wird, sowie die Software, die die Programmierung des Computers beschreibt.
+Die Hardware stellt erstens einen Speicher bereit, in dem Daten portionsweise wie auf den nummerierten Seiten eines Buches gespeichert und jederzeit zur Verarbeitung oder Ausgabe abgerufen werden können.
+In einer Übergangszeit gab es auch Hybridrechner, die einen Analog- mit einem digitalen Computer kombinierten.
+Der Speicher ist eine Anzahl von durchnummerierten, adressierbaren "Zellen"; jede von ihnen kann ein einzelnes Stück Information aufnehmen.
+Bezüglich des Speicherwerks ist eine wesentliche Designentscheidung der Von-Neumann-Architektur, dass sich Programm und Daten einen Speicherbereich teilen (dabei belegen die Daten in aller Regel den unteren und die Programme den oberen Speicherbereich).
+Die ersten Computer wurden auch tatsächlich so programmiert, dass man die Nummern von Befehlen und von bestimmten Speicherzellen so, wie es das Programm erforderte, nacheinander in die einzelnen Speicherzellen schrieb.
+Diese generieren die Zahlen innerhalb der Speicherzellen, die der Computer letztlich als Programm abarbeitet, aus Textbefehlen heraus automatisch, die auch für den Programmierer einen semantisch verständlichen Inhalt darstellen (z. B. GOTO für den "unbedingten Sprung").

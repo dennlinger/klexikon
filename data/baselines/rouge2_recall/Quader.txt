@@ -1,0 +1,10 @@
+Ein Quader ist ein geometrischer Körper, der von 6 Rechtecken begrenzt wird.
+Der Quader ist ein rechtwinkliges dreidimensionales Parallelepiped.
+Im Sonderfall gleicher Kantenlängen a = b = c {\displaystyle a=b=c} , bei dem alle Flächen des Quaders Quadrate sind, ergibt sich ein Würfel.
+Es gibt verschiedene Optimierungsprobleme für Quader.
+Ist zum Beispiel bei gegebenem Umkugelradius der Quader mit dem größten Volumen gesucht, dann lassen sich die Kantenlängen a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} des Quaders mithilfe der partiellen Ableitungen der Volumenfunktion V ( a , b ) = a * b * c = a * b * d 2 - a 2 - b 2 = a * b * 4 * r u 2 - a 2 - b 2 {\displaystyle V(a,b)=a\cdot b\cdot c=a\cdot b\cdot {\sqrt { d^{2}-a^{2}-b^{2}}}=a\cdot b\cdot {\sqrt {4\cdot r_{u}^{2}-a^{2}-b^{2}} }} berechnen oder mit Beweis durch Widerspruch:
+Daraus folgt, dass ein Quader mit mindestens zwei verschiedenen Kantenlängen nicht das größte Volumen haben kann und schließlich, dass der Quader mit nur einer Kantenlänge, also der Würfel mit 12 gleich langen Kanten, das größte Volumen aller Quader mit gegebenem Umkugelradius hat.
+Diese sind verallgemeinerte Hexominos, die nicht aus Quadraten, sondern aus Rechtecken bestehen.
+Wird ein geometrischer Körper im dreidimensionalen Raum in einem Würfelgitter platziert und dann durch Parallelstreckungen modifiziert, sodass ein Quadergitter entsteht, dann entstehen abhängig von der Art und Ausrichtung dieser geometrischen Körper andere geometrische Körper:
+Ein Euler-Ziegel ist ein Quader, bei dem die Längen der Kanten und Flächendiagonalen ganzzahlige Werte haben.
+Ein Euler-Ziegel heißt perfekt, wenn zusätzlich auch die Raumdiagonale eine ganzzahlige Länge hat, das heißt, wenn zusätzlich gilt:

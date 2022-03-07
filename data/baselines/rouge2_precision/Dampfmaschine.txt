@@ -1,0 +1,14 @@
+Eine Dampfmaschine ist (im engeren Sinne) eine Kolben-Wärmekraftmaschine.
+Im Laufe des 19. Jahrhunderts erlangten sie eine wichtige Rolle im Verkehrswesen, insbesondere zum Antrieb von Dampfschiffen und Dampflokomotiven.
+Dabei bewegt sich ein Kolben in dem zugehörigen Zylinder hin und her, er führt eine oszillierende Bewegung aus.
+Die Dampfzufuhr in den Zylinder steuert ein Schieber.
+In einer atmosphärischen Dampfmaschine wird der Zylinderraum unter dem Kolben mit Wasserdampf gefüllt.
+Im nächsten Arbeitstakt wird Wasser in den Zylinder eingedüst, so dass der Wasserdampf abkühlt und dabei kondensiert.
+Es wird ein Unterdruck erzeugt, so dass der Kolben durch den äußeren Atmosphärendruck in den Zylinder gedrückt wird.
+Watt verlegte die Kondensation des Dampfs aus dem Arbeitszylinder in einen nachgeschalteten wassergekühlten Behälter, den Kondensator.
+Die Abbildung rechts stellt dar, wie der Unterdruck bzw. der atmosphärische Druck bei der atmosphärischen Dampfmaschine die Arbeit verrichtet, wenn der heiße Dampf kondensiert und sich dabei stark zusammenzieht.
+Aus dem Zylinder tritt überwiegend flüssiges Wasser.
+Auch dies führt zwar zu einer Abkühlung des Zylinders, es wird jedoch deutlich weniger Dampf verbraucht, als bei der Volldruckmaschine.
+Jeder Kolben wurde durch den Dampfdruck gehoben und kehrte durch sein Eigengewicht in die ursprüngliche Stellung zurück.
+Damit war eine frühe Form des Contractings geboren.
+Das erste Exemplar wurde von ihm jedoch erst 1812 gebaut.

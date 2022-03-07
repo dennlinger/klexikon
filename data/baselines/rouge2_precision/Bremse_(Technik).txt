@@ -1,0 +1,17 @@
+Bremsen dienen zur Verringerung bzw. Begrenzung der Geschwindigkeit von bewegten Maschinenteilen oder Fahrzeugen.
+Sie funktionieren meistens durch die Umwandlung der zugeführten Bewegungsenergie über Reibung in Wärmeenergie.
+Bremsen sind als Maschinenelement eng mit Kupplungen verwandt, die Bremse ist eine spezielle Kupplung, bei der einen Seite feststeht.
+Die in Fahrzeugen weitaus am häufigsten verwendeten Bremsenarten sind die Scheibenbremse und die Trommelbremse, eine weiterentwickelte Form der Klotzbremse.
+Zum Teil wird auch die Art der Betätigung der Bremse zur Kategorisierung verwendet.
+Die Bremsleistung ist von der Bremskraft und der Augenblicksgeschwindigkeit abhängig und wird vollständig in Wärme umgewandelt.
+Zu beachten ist, dass die Geschwindigkeit quadratisch in die Berechnung eingeht:
+Durch Anziehen des Bremshebels wird das kurze untere Ende über Hebelwirkung in den Untergrund gedrückt und bremst so das Fahrzeug ab.
+Je nach Konstruktion werden weitere Bauformen unterschieden.
+Die Scheibenbremse weist eine auf der Welle mitlaufende Bremsscheibe auf, an die die Bremsbeläge beidseitig gepresst werden.
+Eine Unterkategorie der Scheibenbremse ist die Ölbadbremse (Oft auch als "Nasse Bremse" bezeichnet).
+Vorteil dieses Systems ist, dass es temperaturstabil (kein Fading) und sehr verschleiß- und somit wartungsarm ist.
+Bei der elektronisch geregelten Keilbremse (Bauform der Scheibenbremse) schiebt ein kleiner Elektromotor einen Bremsbelag mit keilförmigem Rückenprofil zwischen Bremsbacken und Bremsscheibe.
+Eine Magnetschienenbremse (abgekürzt Mg) ist eine Bremse für Schienenfahrzeuge.
+Bei Stromdurchfluss durch den Elektromagneten wird der Schleifschuh an die Schiene gezogen.
+Zusätzlich tritt eine Wirbelstrominduktion in der Schiene auf, die eine der Bewegung entgegenwirkende Kraft erzeugt.
+Es gibt Energieumwandlungen durch Stöße, Reibung und elektrodynamische Wirkprinzipien an den Radsätzen bzw. Puffern.

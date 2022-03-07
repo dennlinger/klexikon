@@ -1,0 +1,15 @@
+Grundwasser ist Wasser unterhalb der Erdoberfläche, das durch Versickern von Niederschlägen und teilweise auch durch Versickern des Wassers aus Seen und Flüssen dorthin gelangt.
+Der Gesteinskörper, in dem sich das Grundwasser aufhält und fließt, wird als Grundwasserleiter (aus dem Lateinischen auch: Aquifer, wassertragend bzw. Wasserträger) bezeichnet.
+Die Fachgebiete, die sich mit Grundwasser befassen, sind die Hydrogeologie und die Grundwasserhydraulik.
+Nach dieser Definition zählt auch Stauwasser zum Grundwasser.
+Ein Grundwasservorkommen oder ein abgrenzbarer Teil eines Grundwasservorkommens wird als Grundwasserkörper bezeichnet.
+Bei einem ungespannten Grundwasserleiter ist der hydrostatische Druck definitionsgemäß gleich dem Luftdruck; praktischerweise wird der Luftdruck in der Hydromechanik oft gleich Null gesetzt; das hydraulische Druckpotential (engl. hydraulic head) ist an der freien Grundwasseroberfläche gleich der Summe aus ihrer geodätischen Höhe und dem Luftdruck (bzw. Null).
+Ist die Grundwasserüberdeckung wasserundurchlässig, können gespannte Grundwasserverhältnisse vorliegen, was bedeutet, dass das hydraulische Potenzial höher liegt als die tatsächliche Grundwasseroberfläche (gespanntes, bei Überschreiten der Erdoberfläche artesisches Grundwasser).
+Grundwasser fließt (exfiltriert, entlastet) in einen Vorfluter (Gerinne oder entwässernde Geländesenke) oder tritt in Quellen an der Erdoberfläche aus.
+Hierbei spricht man auch von Umsatzwasser, das rezenter Bestandteil des Wasserkreislaufes ist.
+Allerdings kann es bei der Versickerung saurer Wässer, beispielsweise saurer Regen oder aus Tagebau-Restseen, auch zur Auslösung erheblicher Mengen an Aluminium aus Kristallingestein kommen, auch aus Böden in Fichten- und Tannenwäldern.
+Z. B. in China sind 60 bis 80 Prozent des Grundwassers schwer verschmutzt und nicht mehr als Trinkwasser geeignet.
+Infolgedessen kann das Wasser an der Entnahmestelle für Menschen ungenießbar oder für die Bewässerung unbrauchbar werden.
+Deshalb muss grundsätzlich dort, wo Betonteile mit Wasser in Berührung kommen können, eine Grundwasserprobe entnommen werden, die gemäß DIN 4030 auf Betonaggressivität untersucht werden muss.
+Grundwasser, im Bauwesen auch als Druckwasser bezeichnet, stellt besonders im Tiefbau ein Problem dar, wenn wechselnde, in den Baubereich reichende Grundwasserstände nicht beachtet werden oder wenn bewusst ins Grundwasser gebaut wird, das dann in die Baugrube beziehungsweise das Bauwerk drückt.
+Dabei muss stets der Auftrieb (Auftrieb = Gewicht der verdrängten Flüssigkeit) berücksichtigt werden, der die Wanne nach oben drückt.

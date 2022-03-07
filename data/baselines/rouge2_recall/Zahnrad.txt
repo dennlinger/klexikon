@@ -1,0 +1,21 @@
+Das Maschinenelement Zahnrad ist ein Rad mit über den Umfang gleichmäßig verteilten Zähnen.
+Zwei oder mehr miteinander gepaarte Zahnräder bilden ein Zahnradgetriebe.
+Soll das Übersetzungsverhältnis auch im Kleinen konstant sein, das heißt vom Eingriff des vorherigen bis zum Eingriff des nachfolgenden Zahns in die Lücken des Gegenrades, so ist das erste Verzahnungsgesetz zu beachten.
+Die für eine Eingriffsfläche gewählte Form bestimmt aber die Form der Eingriffsfläche am Gegenrad.
+Neben reinen Zahnpaarungen in Zahnradgetrieben gibt es Paarungen zwischen Kettengliedern und Zähnen von Zahnrädern in Kettengetrieben.
+Hier greifen Kettenglieder in Zahnlücken ein (zum Beispiel bei einer Fahrradkette am Kettenrad und Ritzel).
+Die Räder eines Zahnradgetriebes drehen sich zusammen mit den Wellen, auf denen sie befestigt sind, oder drehen sich auf Achsen, auf denen sie gelagert sind.
+Der Radabstand ist so ausgelegt, dass die Zähne ineinander greifen, und somit die Drehbewegung des einen Zahnrades auf das andere übertragen wird.
+Bei der Paarung zweier außen verzahnter Räder kehrt sich die Drehrichtung um.
+Sind die Räder unterschiedlich groß, wird die Drehzahl erhöht oder verringert, wobei das Drehmoment vermindert oder erhöht wird (Änderung des Übersetzungsverhältnisses).
+Bei den altägyptischen Göpeln findet man nach 300 v. u. Z. die älteste Form des Zahnrades, ein Holzrad, in dessen Umfang man Pflöcke hineinstreckte.
+Ktesibios verwendete um 250 v. Chr. an seiner Wasseruhr einen Stab, der mit Zahnrädchen besetzt war, ebenso Philon von Byzanz um 230 v. Chr. an zwei Apparaten Zahnräder.
+Vermutlich war er beim Bau seiner Planetarien, z. B. des Jovilabium an der Pariser Academie des Sciences darauf gekommen.
+Neu war, dass hier nun ebenso wie bei Stirnrädern das kontinuierliche Wälzfräsverfahren eingesetzt werden konnte.
+Wenn das Gegenrad ebenfalls ein Stirnrad oder eine stirnverzahnte Welle ist, sind die Achsen der beiden Räder parallel, und es entsteht ein Stirnradgetriebe.
+Stirnräder werden aber auch in Getrieben mit sich kreuzenden Achsen verwendet, etwa in Schneckengetrieben und Kronenradgetrieben.
+Neben dem Stirnrad als Außenrad gibt es auch das Innenrad, welches nicht als Stirnrad bezeichnet wird, da mit Stirn eine Außenform gemeint ist.
+Die Paarung einer Zahnstange mit einem Stirnrad wird als Zahnstangengetriebe bezeichnet.
+Wenn sich das antreibende Rad gleichmäßig dreht, dreht sich auch das getriebene Rad gleichmäßig.
+Das Übersetzungsverhältnis variiert über eine Umdrehung um den Mittelwert i = 1. Ist nur ein Rad elliptisch, so muss ein Rad auf einer Schwingachse montiert sein.
+Allerdings entsteht beim Härten Härteverzug, deshalb müssen in der Regel die Flanken nach dem Härten durch Schleifen nachbearbeitet werden, um die gewünschte Verzahnungsqualität zu erreichen.

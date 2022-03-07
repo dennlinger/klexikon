@@ -1,0 +1,19 @@
+Eine Primzahl (von lateinisch numerus primus ,erste Zahl') ist eine natürliche Zahl, die größer als 1 und ausschließlich durch sich selbst und durch 1 teilbar ist.
+Andererseits ermöglichen diese Maschinen eine effiziente Verschlüsselung sowie, wenn man den Schlüssel kennt, Entschlüsselung auch langer Texte.
+Die Primzahlen sind innerhalb der Menge N {\displaystyle \mathbb {N} } der natürlichen Zahlen dadurch charakterisiert, dass jede von ihnen genau zwei natürliche Zahlen als Teiler hat.
+Nach dem dirichletschen Primzahlsatz gibt es in jeder dieser Klassen unendlich viele Primzahlen.
+im Ring der ganzen gaußschen Zahlen.
+Es sei p {\displaystyle p} eine Primzahl.
+Eine einfache Folge aus dem kleinen Satz von Fermat ist die folgende Aussage:
+erfüllt ist.
+Im Zusammenhang mit Giugas Vermutung werden die Giuga-Zahlen untersucht.
+Den kleinen Fermatschen Satz kann man auch in der Form lesen:
+Allerdings ist er in der Praxis deutlich langsamer als der Miller-Rabin-Test.
+Der Satz von Euklid besagt, dass es keine größte Primzahl gibt.
+Bei der Suche nach großen Primzahlen werden deshalb nur Zahlen dieses oder eines ähnlich geeigneten Typs auf Primalität untersucht.
+Diese Differenz schwankt, und es gibt Primzahllücken beliebiger Größe.
+Neue Informationstechnologien, zum Beispiel Quantencomputer, könnten das aber ändern.
+Seit hunderten von Jahren diskutieren Mathematiker, ob die Zahl n = 1 {\displaystyle n=1} eine Primzahl ist oder nicht.
+Das Argument dafür, dass 1 eine Primzahl ist, ist das folgende:
+Argumente dagegen, dass also 1 keine Primzahl ist, sind die folgenden:
+Da es bei Definitionen immer Freiheitsgrade gibt, hat man um der Ökonomie der Begriffe willen sich dafür entschieden, (neben der 0) die 1 (und etwas allgemeiner alle Einheiten) von den Primzahlen (resp.

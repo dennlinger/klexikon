@@ -1,0 +1,18 @@
+Ein Transformator (von lateinisch transformare ,umformen, umwandeln'; auch Umspanner, kurz Trafo) ist ein Bauelement der Elektrotechnik.
+Er besteht meist aus zwei oder mehr Spulen (Wicklungen), die in der Regel aus isoliertem Kupferdraht gewickelt sind und sich auf einem gemeinsamen Magnetkern befinden.
+Ein Transformator wandelt eine Eingangswechselspannung, die an einer der Spulen angelegt ist, in eine Ausgangswechselspannung um, die an der anderen Spule abgegriffen werden kann.
+Dabei entspricht das Verhältnis von Eingangs- und Ausgangsspannung dem Verhältnis der Windungsanzahlen der beiden Spulen.
+So wird zum Beispiel bei einem Windungsverhältnis von 20 zu 1 eine Eingangsspannung von 240 Volt in eine Ausgangsspannung von 12 Volt transformiert.
+Je nach Auslegung des Transformators kann die Ausgangsspannung somit kleiner, größer oder gleich der Eingangsspannung sein.
+Obwohl das Induktionsprinzip seit den Entdeckungen Michael Faradays von 1831 bekannt war, wurde der Transformator erst 44 Jahre später entwickelt.
+Westinghouse installierte 1886 in Great Barrington, Massachusetts, einen Wechselspannungsgenerator, dessen 500 V Wechselspannung zur Verteilung auf 3.000 V hochtransformiert und zum Betrieb der elektrischen Beleuchtung an den Anschlussstellen wieder auf 100 V heruntertransformiert wurde.
+Beim idealen Transformator sind die Spannungen an den Wicklungen aufgrund der elektromagnetischen Induktion proportional zur Änderungsgeschwindigkeit des magnetischen Flusses und zur Windungszahl der Wicklung.
+Daraus folgt, dass sich die Spannungen so zueinander verhalten wie die Windungszahlen.
+Sind N1, N2, U1 und U2 die Windungszahlen beziehungsweise die Effektivwerte der primär- und sekundärseitigen Spannungen, so gilt beim idealen Transformator
+Durch Erhöhung der Primärwindungszahl lässt sie sich jedoch auf Kosten des Wickelraumes und der Zunahme der Kupferverluste im Praxisfall gegebenenfalls verhindern.
+Wenn der Transformator sekundärseitig belastet wird, fließt ein Sekundärstrom.
+Die Impedanztransformation bedeutet, dass die Eingangsklemmen eines Transformators für einen elektrischen Schaltkreis wie ein Widerstand  2 * R {\displaystyle \gamma ^{2}\cdot R} wirken, wenn an die Sekundärseite ein Widerstand R angeschlossen wird.
+Bei der Übertragung von Signalen mit einem Transformator ist es wichtig, dass die Signalanteile aller relevanten Frequenzen übertragen werden.
+In Elektrogeräten, die nicht direkt mit Netzspannung arbeiten, wandeln Transformatoren die an der Steckdose anliegende Netzwechselspannung von typischerweise 230 V auf die Betriebsspannung des Elektrogeräts um.
+Konstruktives Ziel ist eine möglichst kompakte Wicklung, um in einem durch den Kern gegebenen Wickelquerschnitt möglichst viel Kupfer oder Aluminium unterbringen zu können.
+Auch die Sekundärwicklung kann Anzapfungen besitzen, um den Transformator zum Beispiel an unterschiedliche Belastungsfälle anzupassen oder mehrere Spannungen mit gleichem Bezug zu erzeugen.

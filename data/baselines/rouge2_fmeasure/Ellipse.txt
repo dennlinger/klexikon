@@ -1,0 +1,22 @@
+Ellipsen sind in der Geometrie spezielle geschlossene ovale Kurven.
+Sind die Brennpunkte identisch, erhält man einen Kreis.
+Es gibt verschiedene Möglichkeiten, Ellipsen zu definieren.
+Mit Hilfe Dandelinscher Kugeln beweist man, dass gilt:
+Ist a = b {\displaystyle a=b} , so ist  = 0 {\displaystyle \varepsilon =0} und die Ellipse ein Kreis.
+Wenn hier die obige Ellipsengleichung erwähnt wird, wird immer angenommen, dass a >= b {\displaystyle a\geq b} und damit die Ellipse in 1. Hauptlage ist, was im "realen Leben" aber nicht sein muss.
+Diese Form schließt auch die Tangenten durch die Hauptscheitel ein.
+Da die Tangente senkrecht zur Normalen verläuft, ist die obige Behauptung bewiesen, wenn die analoge Aussage für die Tangente gilt:
+Natürliches Vorkommen und Anwendung in der Technik:
+Diesen Kreis nennt man die orthoptische Kurve der gegebenen Ellipse, es ist der Umkreis des Rechtecks, das die Ellipse umschreibt.
+Ist P {\displaystyle P } ein Punkt der Ellipse, so beschreiben auch diese Gleichungen eine Tangente.
+Führt man einen Stift mit Hilfe des gespannten Fadens (s. Bild) über die Zeichenfläche, so entsteht die durch die Länge des Fadens und die Lage der Brennpunkte definierte Ellipse.
+Durch die symmetrische Geometrie ergibt sich theoretisch auch um den kurzen umlaufende Stab eine Ellipse (im Bild grün).
+Je kleiner dieser Abstand ist, umso mehr ähnelt die Ellipse einem Kreis.
+Die mit dem rautenförmigen Ellipsenzirkel gezogenen Kurven sind exakte Ellipsen.
+Der Punkt, in dem sich die Halbachsen treffen, wird mit P {\displaystyle P} markiert.
+Eine weitere technische Realisierung des gleitenden Streifens kann man auch mit Hilfe eines Paares cardanischer Kreise erreichen (s. Animation).
+Man beachte, dass immer dasjenige Ende des Streifens, das auf der Nebenachse gleitet, in den Mittelpunkt verlegt wird!
+Man zeichnet die beiden restlichen Scheitelkrümmungskreise.
+Analog erhält man Punkte der unteren Hälfte der Ellipse.
+Eine achsenparallele Ellipse ist dabei einfach ein Kreis, der in einer der Koordinatenrichtungen gestaucht oder gedehnt, mit anderen Worten: anders skaliert wurde.
+Dann ergibt sich:

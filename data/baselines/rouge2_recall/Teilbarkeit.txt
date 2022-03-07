@@ -1,0 +1,13 @@
+Teilbarkeit ist eine mathematische Beziehung zwischen zwei ganzen Zahlen.
+Eine ganze Zahl ist durch eine andere ganze Zahl teilbar, wenn bei der Division kein Rest verbleibt, also die "Geteilt-Rechnung aufgeht".
+So ist beispielsweise die Zahl 8 durch 4 teilbar, da 8 : 4 genau 2 ergibt; somit ist 4, aber auch 2, Teiler von 8. Dagegen ist die Zahl 9 nicht durch 4 teilbar, weil die 4 zweimal in die 9 "geht", aber ein Rest von 1 übrig bleibt.
+Solche Zahlen nennt man Primzahlen.
+Eine ganze Zahl a {\displaystyle a} teilt eine ganze Zahl b {\displaystyle b} genau dann, wenn es eine ganze Zahl n {\displaystyle n} gibt, für die a * n = b {\displaystyle a\cdot n=b} ist.
+Für das Gegenteil, wenn es also keine ganze Zahl n {\displaystyle n} gibt, für die a * n = b {\displaystyle a\cdot n=b} ist, schreibt man:
+Insbesondere für Primzahlpotenzen gibt es die Sprechweise: p n {\displaystyle p^{n } } teilt die ganze Zahl b {\displaystyle b} exakt, geschrieben
+Eine ganze Zahl, die nicht Einheit ist und die nur die trivialen Teiler besitzt, nennt man Primelement und, wenn sie > 1 {\displaystyle >1 } ist, Primzahl.
+Ist 10 n - 1 {\displaystyle 10^{n}-1} ein Vielfaches der betrachteten Zahl x {\displaystyle x} , dann gilt die Teilbarkeitsregel: "Eine Zahl ist genau dann durch x {\displaystyle x} teilbar, wenn ihre nichtalternierende n {\displaystyle n} -Quersumme durch x {\displaystyle x} teilbar ist."
+Um die Teilbarkeit durch 19 zu überprüfen, spaltet man eine Zahl in ihre letzte Ziffer b {\displaystyle b} und den Rest a {\displaystyle a} auf.
+Das heißt, ihre letzten beiden Ziffern müssen 00, 25, 50 oder 75 sein und die Quersumme durch drei teilbar sein.
+Bei multiplikativ zusammengesetzten Zahlen ist die Teilbarkeit eines beliebigen Teilfaktors hinreichend, so ist bspw. ( ( - 1 ) n + 2 ( 1 + n ) ) * ( 1 + ( - 1 ) n * 2 ( 2 + n ) + 5 * 2 ( 3 + 2 n ) ) * ( 1 + ( - 1 ) n * 2 ( 2 + n ) - 2 ( 5 + 2 n ) ) , 0  n {\displaystyle ((-1)^{n}+2^{(1+n)})\cdot (1+(-1)^{n}\cdot 2^{(2+n)}+5\cdot 2^{(3+2n)})\cdot (1+(-1)^{n}\cdot 2^{(2+n)}-2^{(5+2n)}),0\leq n} durch 5 {\displaystyle 5} teilbar, wobei hier die Teilbarkeit der drei Faktoren 4-zyklisch in n ist.
+In einem Zahlensystem zur Basis B {\displaystyle B } lassen sich Teilbarkeitsregeln für Teiler T {\displaystyle T} finden, die sich in eine teilerfremde Faktorenzerlegung möglichst kleiner Zahlen zerlegen lässt, die Teiler von B n { \displaystyle B^{n } } , B n - 1 {\displaystyle B^{n}-1 } oder B n + 1 {\displaystyle B^{n}+1} sind.

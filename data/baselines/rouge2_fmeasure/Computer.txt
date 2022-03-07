@@ -1,0 +1,16 @@
+Ein Computer (englisch; deutsche Aussprache ) oder Rechner ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet.
+Sie ist benannt nach dem englischen Mathematiker Alan Turing, der 1936 das logische Modell der Turingmaschine eingeführt hatte.
+Der früheste Text, in dem das Wort Computer isoliert verwendet wird, stammt von 1613.
+Seit 1962 ist der Begriff in Deutschland belegt.
+Die Hardware stellt erstens einen Speicher bereit, in dem Daten portionsweise wie auf den nummerierten Seiten eines Buches gespeichert und jederzeit zur Verarbeitung oder Ausgabe abgerufen werden können.
+Diese Anordnung der Bausteine, die als Programm bezeichnet wird, wird in Form von Daten im Speicher des Computers abgelegt.
+Von dort kann sie von der Hardware ausgelesen und abgearbeitet werden.
+In einer Übergangszeit gab es auch Hybridrechner, die einen Analog- mit einem digitalen Computer kombinierten.
+Mögliche Einsatzmöglichkeiten für Computer sind:
+Der Speicher ist eine Anzahl von durchnummerierten, adressierbaren "Zellen"; jede von ihnen kann ein einzelnes Stück Information aufnehmen.
+Bezüglich des Speicherwerks ist eine wesentliche Designentscheidung der Von-Neumann-Architektur, dass sich Programm und Daten einen Speicherbereich teilen (dabei belegen die Daten in aller Regel den unteren und die Programme den oberen Speicherbereich).
+Die Ein-/Ausgabeeinheiten schließlich sind dafür zuständig, die initialen Programme in die Speicherzellen einzugeben und dem Benutzer die Ergebnisse der Berechnung anzuzeigen.
+Die ersten Computer wurden auch tatsächlich so programmiert, dass man die Nummern von Befehlen und von bestimmten Speicherzellen so, wie es das Programm erforderte, nacheinander in die einzelnen Speicherzellen schrieb.
+Auf der untersten Ebene findet sich aber immer der so genannte Maschinencode - jene Abfolge von Zahlen, mit der der Computer auch tatsächlich gesteuert wird.
+Der Zeitpunkt, an dem künstliche Intelligenz die menschliche Intelligenz übertrifft, nennt man technologische Singularität.
+In den zehn Jahren bis 2014 war diese Zugriffszahl auf ein Drittel gefallen.

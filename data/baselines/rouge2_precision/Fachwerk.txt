@@ -1,0 +1,11 @@
+Ein Fachwerk ist ein Stabwerk, dessen Stäbe alleine durch Normalkraft beansprucht werden und "deren Enden in den Knotenpunkten miteinander verbunden sind".
+Ein Fach ist ein zweidimensionales Vieleck, welches durch Stäbe aufgespannt wird.
+Fachwerke bestehen in der Regel überwiegend aus Dreiecken.
+Ein Fachwerkträger ist ein gewöhnlich horizontal verlaufendes und im Verhältnis zu seiner Länge schmales und schlankes Tragelement.
+Sie liefert nur eine Zahl, die aussagt, wie oft unterbestimmt ein System ist minus der Freiheitsgrade.
+Die Abzählkriterien sind nur eine notwendige, aber nicht hinreichende Bedingung für den Nachweis statischer Bestimmtheit.
+Mit dem Knotenpunktverfahren lassen sich die Stabkräfte durch Aufstellen eines Gleichungssystems ermitteln.
+Dadurch ergibt sich ein Gleichungssystem, das bei statischer Bestimmtheit des Fachwerkes gelöst werden kann.
+Das Rittersche Schnittverfahren dient zur Berechnung von Stabnormalkräften im Fachwerk.
+Die ebenen und gestuften Raumfachwerke lassen sich aus einer Kombination (Komposition) von Tetraeder und (Halb-)Oktaeder ableiten, seltener aus dem Hexaeder (Kubus).
+Für Fachwerke kann praktisch jedes Baumaterial (Holz, Stahl, Aluminium, Edelstahl, kohlenstofffaserverstärkter Kunststoff und in seltenen Fällen auch Beton) verwendet werden, bzw. Kombinationen daraus.

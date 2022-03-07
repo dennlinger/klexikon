@@ -1,0 +1,13 @@
+Ein Winkel ist in der Geometrie ein Teil der Ebene, der von zwei in der Ebene liegenden Strahlen (Halbgeraden) mit gemeinsamem Anfangspunkt begrenzt wird.
+Die Größe des Winkels wird mit einem Winkelmaß angegeben.
+Der Winkel ist ein geometrisches Gebilde bestehend aus zwei Halbgeraden mit dem selben Ursprung.
+Ad hoc ist bei diesen drei Ansätzen der Winkel ein ungerichteter Winkel, erst eine zusätzliche Auszeichnung einer der beiden Halbstrahlen oder Halbgeraden als die "erste" ermöglicht die Angabe eines gerichteten Winkels.
+Speziell für den rechten Winkel verwendet man "", einen punktierten Winkel, in der Technik auch ein Quadrat, oder  {\displaystyle \perp } .
+Zwischen zwei sich schneidenden Geraden gibt es vier Winkel.
+Der rechte Winkel hat die Besonderheit, dass diese beiden Winkel genau gleich sind.
+Zwei Geraden oder Strecken, die sich im rechten Winkel schneiden, nennt man zueinander orthogonal.
+In einer Zeichnung wird der rechte Winkel durch einen Viertelkreis mit Punkt oder durch ein Quadrat dargestellt.
+Die Geometrie kennt besondere Bezeichnungen für Paare von Winkeln, die zueinander in einer besonderen Beziehung stehen.
+Zwei Winkel heißen Komplementwinkel oder Komplementärwinkel, wenn sie sich zu einem rechten Winkel ( 90  {\displaystyle 90^{\circ }} ) ergänzen.
+Den Winkel 3° erhält man z. B. durch folgende Vorgehensweise: 72°/2 = 36°/2 = 18° - 15° = 3°.
+Bei der Winkelmessung wird mit Hilfe technischer Einrichtungen ermittelt, in welchem Winkel zwei Geraden oder zwei sonstige Richtungen zueinander stehen.

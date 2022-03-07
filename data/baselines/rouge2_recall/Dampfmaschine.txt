@@ -1,0 +1,16 @@
+Eine Dampfmaschine ist (im engeren Sinne) eine Kolben-Wärmekraftmaschine.
+Der unter Druck gesetzte Dampf wandelt die in ihm enthaltene Wärmeenergie (auch Druckenergie) durch Verschieben eines in einem Zylinder beweglichen Kolbens in Bewegungsenergie um.
+Eine andere mit Dampf betriebene Wärmekraftmaschine ist die Dampfturbine, die schon ohne einen die Bewegungsart ändernden Folge-Mechanismus (Getriebe) Die Wärmeenergie des Dampfs in Rotationsenergie umwandelt.
+Im Laufe des 19. Jahrhunderts erlangten sie eine wichtige Rolle im Verkehrswesen, insbesondere zum Antrieb von Dampfschiffen und Dampflokomotiven.
+Dabei bewegt sich ein Kolben in dem zugehörigen Zylinder hin und her, er führt eine oszillierende Bewegung aus.
+Es wird ein Unterdruck erzeugt, so dass der Kolben durch den äußeren Atmosphärendruck in den Zylinder gedrückt wird.
+Watt verlegte die Kondensation des Dampfs aus dem Arbeitszylinder in einen nachgeschalteten wassergekühlten Behälter, den Kondensator.
+Dadurch entfiel die dauernde Abkühlung und erneute Erwärmung des Arbeitszylinders in jedem Arbeitstakt, eine Ursache erheblicher Energieverluste.
+Die Abbildung rechts stellt dar, wie der Unterdruck bzw. der atmosphärische Druck bei der atmosphärischen Dampfmaschine die Arbeit verrichtet, wenn der heiße Dampf kondensiert und sich dabei stark zusammenzieht.
+Aus dem Zylinder tritt überwiegend flüssiges Wasser.
+Auch dies führt zwar zu einer Abkühlung des Zylinders, es wird jedoch deutlich weniger Dampf verbraucht, als bei der Volldruckmaschine.
+Auch die Expansionsmaschine, bei der nur zu Anfang eines Hubes Dampf einströmt, der dann expandiert und mit niedrigerem Druck aus dem Zylinder tritt, war eine Weiterentwicklung der Niederdruckdampfmaschine und brachte eine weitere Effizienzsteigerung gegenüber der Volldruckmaschine, die während des gesamten Hubes vollen Dampfdruck erhält.
+Bei Hochdruckdampfmaschinen wird der Dampf weit über 100 °C erwärmt, so dass sich ein höherer Druck aufbaut.
+Jeder Kolben wurde durch den Dampfdruck gehoben und kehrte durch sein Eigengewicht in die ursprüngliche Stellung zurück.
+Nachdem Bückling noch ein zweites Mal nach England geschickt worden war, war er in der Lage, exakte Baupläne für eine eigene Dampfmaschine nach dem Vorbild der wattschen unter Mitwirkung der Preußischen Akademie der Wissenschaften zu entwerfen.
+Im Mansfeld-Museum in Hettstedt steht seit 1985 ein 1:1-Nachbau dieser Dampfmaschine, der in Bewegung vorgeführt werden kann.

@@ -1,0 +1,23 @@
+Die Elektronik ist ein Hauptgebiet der Elektrotechnik.
+Sie ist die Wissenschaft von der Steuerung des elektrischen Stromes durch elektronische Schaltungen, das heißt Schaltungen, in denen mindestens ein Bauelement aufgrund von Vakuum- oder Halbleiter-Leitung funktioniert.
+Die Optoelektronik ist ein Teilgebiet der Elektronik und beschäftigt sich mit der Steuerung durch Licht.
+1873 entdeckte Willoughby Smith, dass Selen in der Lage ist, bei Licht zu leiten (Photoeffekt).
+Die ersten Elektronenröhren wurden entwickelt und bereits in elektrischen Schaltungen genutzt.
+Transistoren können wie Röhren als Verstärker, elektronische Schalter oder als Oszillator eingesetzt werden.
+Jedoch lassen sich Transistoren im Gegensatz zu Vakuumröhren, die sehr viel Raum und elektrische Leistung brauchen, sehr klein fertigen, denn sie basieren auf Halbleitertechnologie, wodurch sehr viel höhere Stromdichten möglich sind.
+Heute ist die Halbleiterelektronik der wichtigste Zweig der Elektronik.
+Zu den wichtigen Bauelementen zählen Widerstand, Kondensator, Transistor, Diode, Spule und die Integrierte Schaltung (kurz IC).
+Alle diese Bauelemente werden in einer großen Typenvielfalt angeboten.
+Unter den aktiven Bauelementen werden meist alle Arten von integrierten Schaltungen, Halbleiterbauelementen und Elektronenröhren verstanden.
+Ein selbständig und logisch arbeitender Rechnen-Operator-Chip ist der moderne Prozessor, der nicht nur auf dem Mainboard eines Computers zu finden ist, sondern ein Bestandteil moderner Industrie- und Fahrzeugtechnik ist.
+Sein Name rührt daher, dass mit ihm mathematische Operationen (Subtraktion, Addition, Integration etc.) ausgeführt werden können.
+In der Praxis beschränkt man sich auf zweiwertige Systeme, d. h.:
+Damit ist es möglich, dass die Bauelemente der integrierten Schaltungen sehr ungenau sein dürfen, was wiederum die weitere Miniaturisierung ermöglicht.
+Im Grenzfall befindet sich die Schaltung den überwiegenden Teil der Zeit im Übergang zwischen den beiden logisch definierten Zuständen.
+Anwendungen davon sind z. B. die Funktechnik mit Rundfunk, Fernsehen, Radar, Fernsteuerung, drahtlose Telefonie, Navigation, aber auch die Vermeidung unerwünschter Schwingungen (Störung, EMV) und unkontrollierter Abstrahlung (Abschirmung).
+Ab einigen Gigahertz verfeinert man die Näherung, indem aus den Maxwellschen Gleichungen, aus den Feldern und dem sog. Eigenwert ß mit ß = (r eff)1/2 2/0 verbesserte, frequenzabhängige Werte r eff(f) und Z0(f) ermittelt werden.
+Das gilt für jede Leitung, genauer, für jede Struktur bis hin zu Leitungsabzweigungen, Anschlussflächen für Bauelemente und für die Struktur der Bauelemente.
+Das Rauschen elektronischer Schaltungen ist schon bei mittleren Frequenzen nicht mehr gut durch SPICE-Modelle beschreibbar.
+Die Umformung elektrischer Energie mit Transformatoren oder mit rotierenden Maschinensätzen wird dahingegen nicht zur Leistungselektronik gerechnet.
+Eine Silizium basierte Pikoelektronik (< 100 Pikometer) wird nie realisiert, da z. B. bei einer Strukturbreite von 5 nm nur noch etwa 20-25 Siliziumatome (in [] der Diamantstruktur) miteinander verbunden sind.
+Seit dem Siegeszug des Computers, der stetigen Entwicklung der Informationstechnologie und der zunehmenden Automation hat sich die Bedeutung der Elektronik beständig erweitert.

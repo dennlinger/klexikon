@@ -1,0 +1,15 @@
+Der Fingerabdruck oder das Daktylogramm (altgr.
+auo daktylos "Finger") ist ein Abdruck der Papillarleisten auf der Unterseite der Fingerkuppe (Endglied eines Fingers, auch Fingerbeere).
+Bisher sind keine zwei Menschen mit dem gleichen Fingerabdruck bekannt, und man geht von der Einzigartigkeit des Fingerabdrucks aus.
+In Deutschland beschäftigte sich als erster der Anthropologe H. Welker aus Gießen im Jahre 1856 mit Fingerabdrücken; er stellte Bilder der Papillarlinien her, indem er die Hand einfärbte und auf Papier abdrückte.
+In der Kriminalistik wird am Tatort geprüft, ob Fingerabdrücke auffindbar sind (Daktyloskopie).
+Gefundene Fingerabdrücke werden mit einer Datenbank abgeglichen, um mögliche Verdächtige zu identifizieren.
+Die Verwendung von Fingerabdrücken in der Kriminalistik ist zum Teil kontrovers.
+Damit bei imitierten Fingerabdrücken der Zugang verweigert wird, können Temperatur- und Pulssensoren in die Erkennungsgeräte integriert werden, die prüfen, ob ein lebender Finger auf das Gerät aufgelegt wurde ("Lebenderkennung"), was jedoch nur begrenzt wirksam ist.
+Datenschutzrechtlich handelt es sich bei Fingerabdrücken um biometrische Daten nach Artikel 9 Abs. 1 DSGVO und um besondere Kategorien personenbezogener Daten im Sinne von § 26 Abs. 3 BDSG.
+Diesen Daten ist eigen, dass eine Verarbeitung im Unternehmen die Privatsphäre eines Mitarbeiters und damit das Recht auf informationelle Selbstbestimmung im besonderen Maße verletzen kann.
+Allerdings enthält Artikel 9 Abs. 2 DSGVO mehrere Erlaubnistatbestände, bei deren Vorliegen eine Verarbeitung ausnahmsweise doch zulässig sein kann.
+Darunter fallen insbesondere die Erlaubnistatbestände der freiwilligen Einwilligung und des Vorliegens einer Kollektivvereinbarung sowie der Erforderlichkeit der Verarbeitung.
+In den anderen Bereichen ist die Elektrode aktiv und es entsteht ein Negativ-Bild des Fingerabdrucks, das mit einer CCD-Kamera aufgezeichnet werden kann.
+Dazu werden die Fingerabdrücke zunächst mit einem Reagenz behandelt, das an die Bestandteile der Fingerabdrücke bindet.
+Nach Auftragen des Reaktionspartners leuchten dann ausschließlich die Linien.

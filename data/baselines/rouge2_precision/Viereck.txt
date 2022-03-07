@@ -1,0 +1,14 @@
+Ein Viereck (auch Tetragon, Quadrangel oder Quadrilateral) ist eine Figur der ebenen Geometrie, nämlich ein Vieleck mit vier Ecken und vier Seiten.
+Ein Viereck hat zwei Diagonalen.
+Das Viereck ist das einfachste Vieleck, das konkav sein kann.
+Ein Trapez ist ein Viereck mit mindestens zwei parallelen Seiten.
+Sind je zwei einander gegenüberliegende Seiten parallel, spricht man vom Parallelogramm.
+Ein Rechteck, das vier gleich lange Seiten hat, ist ein Quadrat.
+Das Quadrat ist das regelmäßige Viereck.
+Dies ist gleichbedeutend damit, dass es zwei Paare benachbarter Seiten gibt, die jeweils gleich lang sind.
+Bei vier gleich langen Seiten spricht man von einer Raute (Rhombus).
+Die Quadrate sind eine Teilmenge der Rechtecke, die Rechtecke sind eine Teilmenge der Parallelogramme usw.
+Ferner gelten auch noch folgende Beziehungen für Schnittmengen:
+Daneben gibt es noch den Kantenschwerpunkt (die Masse ist gleichmäßig auf die Kanten verteilt, die Masse jeder Kante ist proportional zu ihrer Länge).
+Den Flächenschwerpunkt eines Vierecks kann man wie folgt konstruieren:
+Dasselbe wiederholt man, indem man das Viereck durch die andere Diagonale teilt.

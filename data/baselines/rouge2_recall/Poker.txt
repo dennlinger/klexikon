@@ -1,0 +1,30 @@
+Poker ist der Name einer Familie von Kartenspielen, die normalerweise mit Pokerkarten des anglo-amerikanischen Blatts zu 52 Karten gespielt werden und bei denen mit Hilfe von fünf Karten eine Hand (Pokerblatt) gebildet wird.
+Dabei setzen die Spieler ohne Wissen um das (genaue) Blatt des Gegners einen unterschiedlich hohen und mehr oder weniger wertvollen Einsatz (Spielmarken, Chips, Geld etc.) auf die Gewinnchancen der eigenen Hand.
+Die von den Spielern eingesetzten Chips eines Spieles ("Pot") fallen schließlich demjenigen Spieler mit der stärksten Hand zu oder dem einzig Übriggebliebenen, wenn alle anderen Spieler nicht bereit sind, den von ihm vorgelegten Einsatz ebenfalls zu setzen.
+In manchen gewinnt nicht die beste Hand (High), sondern die schlechteste (Low).
+Nachdem die Mindesteinsätze gesetzt wurden, erhalten alle Spieler vom Dealer ihre ersten Karten.
+Danach folgen eine oder mehrere Setzrunden, in denen die Spieler ihre Karten einschätzen und ihre Einsätze machen.
+Die letzte Setzrunde ist erreicht, wenn alle im Spielschema vorgesehenen Kartenausgaben oder Kartentausche ausgeführt wurden, oder wenn die Einsätze den vereinbarten Höchstwert (Limit) erreicht haben.
+Haben zwei oder mehr Spieler den gleichen Betrag gesetzt, kommt es zum Showdown:
+Am Ende einer Setzrunde haben entweder alle verbliebenen Spieler nichts gesetzt, haben Einsätze in derselben Höhe gemacht oder sind alle bis auf einen Spieler ausgestiegen.
+Falls zwei Spieler allerdings die gleichen fünf Karten haben, kommt es in der Regel zu einem Split Pot; die Farben spielen dabei keine Rolle.
+Zusätzlich zu diesen Karten erhält jeder Spieler zu Beginn einer Runde Hole Cards.
+Diese Karten sind nur für diesen Spieler ersichtlich, können also nur von diesem Spieler genutzt werden.
+Stud wird in der Regel immer mit Ante und Fixed Limit gespielt.
+Hier erhält jeder Spieler eine, je nach Variante, festgelegte Anzahl an Karten, die er verdeckt in seiner Hand hält.
+Bei dieser Variante hält jeder Spieler fünf Karten in der Hand.
+Pokerwürfel zeigen an den sechs Flächen die Kartensymbole Ass, König, Dame, Bube, Zehn und Neun.
+Der Unterschied rührt daher, dass es bei dieser Variante sehr schwer ist, den Gegner aus einer Hand zu bluffen.
+Die beste Hand in oben angesprochener Variante ist also eine Kombination der Karten von Ass bis Fünf, die Schwächste ist ein Vierling aus Königen mit einer Dame als Kicker.
+Die beste Hand ist also Zwei bis Sieben ohne Sechs.
+Der Grund, warum beinahe alle Ausdrücke in Englisch gehalten sind, besteht darin, dass das Spiel seine Wurzeln in den Vereinigten Staaten hat und die wichtigsten Entwicklungen dort stattgefunden haben.
+Das klassische Werk, in dem Poker spieltheoretisch analysiert wird, ist The Theory of Poker von David Sklansky.
+Neben dem Beobachten der Spielweise kann man auch an dem Verhalten der Spieler Zeichen erkennen, die auf die Stärke der Hände hinweisen (so genannte Tells).
+So sagt man, dass ein langes Betrachten der Karten ein Zeichen für eine starke Hand sei.
+Wenn ein Spieler absolut keine Informationen über tells preisgibt, also beispielsweise keine Nervosität zeigt, spricht man von einem Pokerface.
+Den großen Boom erlebten die Hold'em-Varianten erst in den späten 1990er Jahren, als diese Varianten von den Casinos favorisiert wurden.
+Das kann bei langen, ausgeglichenen Spielverläufen dazu führen, dass alle Spieler am Ende einer Sitzung verloren haben.
+In Homegames wird im Allgemeinen auch um Geld gespielt, allerdings meist um wesentlich geringere Beträge als in Casinos üblich.
+Durch die Fernsehübertragungen ist Texas Hold'em eine beliebte Variante für Homegames geworden.
+Es wurde als große Herausforderung angesehen, eine künstliche Intelligenz zu erstellen, die auch gegen professionelle Pokerspieler bestehen kann.
+Für die Computer begünstigend ist, dass Schach ein Spiel mit vollständiger Information ist, das heißt, beide Spiel-Parteien verfügen über alle Informationen über den Spielstand.

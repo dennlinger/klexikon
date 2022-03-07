@@ -1,0 +1,39 @@
+Die Physik ist eine Naturwissenschaft, die grundlegende Phänomene der Natur untersucht.
+Um deren Eigenschaften und Verhalten anhand von quantitativen Modellen und Gesetzmäßigkeiten zu erklären, befasst sie sich insbesondere mit Materie und Energie und deren Wechselwirkungen in Raum und Zeit.
+Erklärungen in dem philosophischen Sinn, "warum" die Natur sich so verhält, kann die Physik nicht leisten.
+Zum Beispiel kann sie nicht erklären, warum Massen einander anziehen.
+Eine neue oder weiterentwickelte Theorie kann bekannte Ergebnisse besser oder überhaupt erstmals erklären und darüber hinaus neue Experimente und Beobachtungen anregen, deren Ergebnisse dann die Theorie bestätigen oder ihr widersprechen.
+Gegenüber den rein philosophischen Erklärungsversuchen der Naturvorgänge spielte die Art von Erkenntnis, die durch systematische und genaue Beobachtung, also empirisch zu gewinnen ist, lange Zeit keine Rolle.
+Diese Tendenzen mündeten im 16. und 17. Jahrhundert, namentlich mit Galileo Galilei und Isaac Newton, in die Entwicklung einer Methodologie der physikalischen Erkenntnis, die vorrangig an empirischen und sogar experimentellen Standards orientiert ist und diesen vor überkommenen philosophischen Grundsätzen im Zweifelsfall sogar den Vorrang einräumt.
+Dennoch dauerte es noch bis ins 19. Jahrhundert, dass er sich endgültig in der Physik durchsetzen konnte und sie damit als eigenständige Disziplin in ihrem heutigen Sinn etablierte.
+Diese Überprüfung in Form reproduzierbarer Messungen an gezielt gestalteten physikalischen Experimenten oder durch Beobachtung natürlicher Phänomene ist das Gebiet der Experimentalphysik.
+Die Physik steht in enger Verbindung zu den Ingenieurwissenschaften und den anderen Naturwissenschaften von der Astronomie und Chemie bis zur Biologie und den Geowissenschaften.
+In der heutigen Physik ist vor allem die durch Atom- und Molekülphysik und Quantenchemie markierte Grenze zur Chemie fließend.
+Zur Abgrenzung gegenüber der Biologie wurde die Physik oftmals als die Wissenschaft von der unbelebten im Gegensatz zur belebten Natur bezeichnet, womit jedoch eine Beschränkung impliziert wird, die so in der Physik nicht existiert.
+Die Ingenieurwissenschaften sind durch ihren engen Bezug zur praktischen technischen Anwendung von der Physik abgegrenzt, da in der Physik das Verständnis der grundlegenden Mechanismen im Vordergrund steht.
+Während manche Naturwissenschaften wie etwa die Astronomie und die Meteorologie sich methodisch weitgehend auf Beobachtungen ihres Untersuchungsgegenstandes beschränken müssen, steht in der Physik das Experiment im Vordergrund.
+Grundlage eines physikalischen Experimentes ist es, die Eigenschaften eines zuvor präparierten physikalischen Systems, zum Beispiel eines geworfenen Steins, eines eingeschlossenen Gasvolumens oder eines Teilchens bei einem Stoßprozess durch Messung in Zahlenform auszudrücken, etwa als Aufprallgeschwindigkeit, als resultierender Druck (bei gegebenen Randbedingungen) oder als Länge der beobachtbaren Teilchenspuren im Detektor.
+Diese auf Quantitäten konzentrierte Sichtweise unterscheidet die Physik maßgeblich von der Philosophie und hat zur Folge, dass nicht quantifizierbare Modelle, wie das Bewusstsein, nicht als Teil der Physik betrachtet werden.
+Um eine Theorie zu widerlegen oder die Grenzen ihres Gültigkeitsbereiches zu zeigen, genügt im Prinzip ein einziges Experiment, sofern es sich als reproduzierbar erweist.
+Zusätzlich zu dieser grundlegenden Teilung der Physik unterscheidet man manchmal noch weitere methodische Unterdisziplinen, vor allem die mathematische Physik und die angewandte Physik.
+Auch die Arbeit mit Computersimulationen hat Züge eines eigenen Bereiches der Physik.
+Ihr wesentliches Kennzeichen ist, dass sie ein gegebenes physikalisches Phänomen nicht um seiner selbst willen erforscht, sondern um die aus der Untersuchung hervorgegangenen Erkenntnisse zur Lösung eines (in der Regel) nicht-physikalischen Problems einzusetzen.
+Ihre Anwendungen liegen auf dem Gebiet der Technik, aber auch zum Beispiel in den Wirtschaftswissenschaften, wo im Risikomanagement Methoden der theoretischen Festkörperphysik zum Einsatz kommen.
+Die moderne Physik beruht auf zwei Erweiterungen aus dem 20. Jahrhundert, der Relativitätstheorie und der Quantenphysik, die bestimmte Grundprinzipien der klassischen Mechanik verallgemeinert haben.
+Aufgrund der zu dieser Zeit noch recht begrenzten technischen Möglichkeiten sind die Vorgänge, die die klassische Mechanik beschreibt, weitgehend ohne komplizierte Hilfsmittel beobachtbar, was sie anschaulich erscheinen lässt.
+Obwohl die klassische Mechanik nur für mittelgroße, anschauliche Systeme gültig ist, ist die mathematische Behandlung komplexer Systeme bereits im Rahmen dieser Theorie mathematisch sehr anspruchsvoll.
+Ausgangspunkt war das von Michael Faraday entdeckte Induktionsgesetz und die nach Hendrik Antoon Lorentz benannte Lorentzkraft auf eine bewegte elektrische Ladung in einem Magnetfeld.
+In der Quantenphysik sind auch physikalische Größen selbst Teil des Formalismus und keine bloßen Kenngrößen mehr, die ein System beschreiben.
+Der Formalismus unterscheidet also zwischen zwei Typen von Objekten, den Observablen, die die Größen beschreiben und den Zuständen, die das System beschreiben.
+Das heißt, die Größen nehmen stets nur bestimmte diskrete Werte an.
+Die Gesetze der Quantenphysik entziehen sich weitgehend der menschlichen Anschauung, und über ihre Interpretation herrscht auch heute noch kein Konsens.
+Die Hadronenphysik hat viele Überschneidungen mit der Elementarteilchenphysik, da viele Phänomene nur erklärt werden können, indem berücksichtigt wird, dass die Hadronen aus Quarks aufgebaut sind.
+Sie bestehen aus mehreren Nukleonen, also Protonen und Neutronen, deren Wechselwirkungen untersucht werden.
+Die Atom- und Molekülphysik stehen über die Untersuchung der optischen Spektren von Atomen und Molekülen mit der Optik in enger Beziehung.
+Beispiele sind die Massenspektroskopie oder die Paulfalle.
+Aufgrund der thematischen Bandbreite existieren Überschneidungen mit nahezu allen anderen Gebieten der Physik, zum Beispiel mit der Optik in Form laseraktiver Medien oder nichtlinearer Optik, aber auch mit der Akustik, Atom-, Kern- und Teilchenphysik.
+Weder Dunkle Materie noch Dunkle Energie konnte bisher direkt experimentell nachgewiesen werden, es existieren aber eine Vielzahl von Theorien, was genau diese Objekte sind.
+Beispielsweise geben die Spektren von Sternenlicht Auskunft über die Elementverteilung der Sternenatmosphäre, die Untersuchung der Höhenstrahlung erlaubt Rückschlüsse auf die kosmische Strahlung und Neutrinodetektoren messen nach einer Supernova einen erhöhten Neutrinostrom, der gleichzeitig mit dem Licht der Supernova beobachtet wird.
+Relativ unbestritten ist, dass naturwissenschaftliche Theoriebildungen in dem Sinne nur Hypothesen sind, dass man nicht mit Gewissheit wissen kann, ob es sich dabei um wahre und gerechtfertigte Auffassungen handelt.
+Man kann hier noch in spezifischerer Weise vorsichtig sein, indem man sich auf die Theorie- und Begriffsvermitteltheit aller empirischen Erkenntnisse beruft oder auf die Tatsache, dass der Mensch als erkennendes Subjekt ja unter den Gegenstandsbereich physikalischer Theorien fällt, aber nur als wirklich Außenstehender sicheres Wissen haben könnte.
+Denn für Beobachter, die mit ihrem Erkenntnisobjekt interagieren, bestehen prinzipielle Grenzen der Prognostizierbarkeit im Sinne einer Ununterscheidbarkeit des vorliegenden Zustandes - eine Grenze, die auch dann gelten würde, wenn der Mensch alle Naturgesetze kennen würde und die Welt deterministisch wäre.

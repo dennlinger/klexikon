@@ -1,0 +1,14 @@
+Die Grammatik oder auch Sprachlehre (lateinisch grammatica, altgriechisch aa grammatik, deutsch ,Kunst des Schreibens', von altgriechisch aa gramma, deutsch ,Geschriebenes', ,Buchstabe') bezeichnet in der Sprachwissenschaft (Linguistik) jede Form einer systematischen Sprachbeschreibung.
+Teile der neueren grammatischen Forschung, maßgeblich angeregt von Noam Chomsky, behandeln die Frage, wie weit sich natürliche Sprachen auf formale Sprachen reduzieren lassen.
+Teilweise wird dem Wort grammatikalisch die letztere Bedeutung jedoch nicht zugewiesen.
+Grammatik ist zum einen der Begriff für ein Wissensgebiet, das Gegenstand der "Grammatiktheorie" ist, also das sprachliche System selbst, in seiner abstrakten Form.
+Zum anderen bezeichnet man mit dem Ausdruck "eine Grammatik" eine konkrete Beschreibung einer Einzelsprache.
+Ein deskriptiver Ansatz führt also in der Regel dazu, verschiedene Varietäten (Sprachvarianten) anzuerkennen, die durch ihre soziale Bewertung charakterisiert werden können.
+In der Spätantike wurde die Grammatik die erste der sieben freien Künste (septem artes liberales).
+Denn die Grammatik wurde wie die übrigen Artes liberales zuallererst als eine Propädeutik der Bibelhermeneutik betrachtet.
+Dabei erzeugen Grammatiken eines bestimmten Typs innerhalb der Chomsky-Hierarchie genau die Sätze und Ausdrücke einer Sprache, die von einem bestimmten Interpreten erkannt werden, und sie erzeugen alle Sätze und Ausdrücke, die erkannt werden können.
+Solche formalen Grammatiken, besonders die kontextfreie Grammatik, finden Verwendung in der Informatik in Untersuchungen über Compiler und Interpreter.
+Aber auch in der Philosophie und Wissenschaftstheorie finden solche Sprachen Verwendung, genauso wie in Forschungsrichtungen der deskriptiven Grammatik.
+Deskriptive Grammatiken unterscheiden sich von formalen Grammatiken insofern, als sie sich aus einem empirischen Forschungsansatz ergeben.
+Sie beschäftigen sich mit den natürlichen Sprachen, denen im Allgemeinen eine größere Ausdrucksstärke zugesprochen wird.
+Semantische Ansätze, die vor allem mit Strukturen von Lexikoneinträgen arbeiten, sind die Dependenzgrammatiken und die Grammatik Richard Montagues.

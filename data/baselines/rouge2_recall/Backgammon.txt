@@ -1,0 +1,25 @@
+Backgammon ist eines der ältesten Brettspiele der Welt.
+Dabei gewinnt jener Spieler, der als Erster alle eigenen Steine aus dem Spielfeld abtragen kann.
+Wenn man jedoch nicht jedes Würfel-Brettspiel bereits als Backgammon-Variante ansehen möchte, so ist die Theorie vom orientalischen Ursprung des Spiels nicht aufrechtzuerhalten.
+Kaiser Claudius war ein begeisterter Spieler und verfasste über dieses Spiel ein Buch, das leider verloren gegangen ist.
+In Pompeji wurde eine zweiteilige Wandmalerei entdeckt: im ersten Bild sieht man zwei diskutierende Römer beim Spielen, im zweiten Bild den Besitzer der Herberge, der die beiden gewaltsam aus seinem Haus wirft.
+Mit den Römern verbreitete sich das Spiel im gesamten Römischen Reich.
+Während des Dreißigjährigen Kriegs und danach erlebte Backgammon in ganz Europa wieder eine Zeit größter Beliebtheit, aus dieser Epoche stammen die französischen bzw. deutschen Varianten bzw. Namen Tric Trac und Puff.
+Im Englischen wurde das Spiel bis ins 17. Jahrhundert in Anlehnung an die lateinische Bezeichnung Tables genannt.
+Der englische Spieleexperte Edmond Hoyle verfasste im Jahre 1743 eine Broschüre, in der er die Regeln beschrieb und de facto festlegte.
+Die Regeln des modernen Backgammon stammen vom Card and Backgammon Committee des New Yorker Racquet and Tennis Club aus dem Jahre 1931 und wurde im Jahre 1970 geringfügig modifiziert.
+Der erste große Boom im modernen Backgammon entstand, als Prinz Alexis Obolensky das erste große internationale Backgammon-Turnier 1964 auf den Bahamas veranstaltete.
+Das Spielbrett besteht aus 24 Dreiecken, Points oder Zungen genannt, von denen sich jeweils 12 auf einer Seite befinden.
+Wer alle seine Spielsteine ins Home-Board bringt, darf sie dann hinauswürfeln.
+Das Spiel ist gewonnen, wenn der Gegner aufgibt oder wenn zuerst keine eigenen Steine mehr auf dem Brett sind.
+Er darf seine Steine um die eigene Augenzahl und um die des Gegners vorrücken.
+Jeder Spieler setzt seine Steine entsprechend den gewürfelten Augenzahlen.
+Die Steine können nur auf Felder gesetzt werden, die noch offen sind, d. h. auf denen sich nicht mehr als ein gegnerischer Stein befindet.
+Würfelt man einen Pasch, also zwei gleiche Zahlen (z. B. 6 und 6), so werden die gewürfelten Zahlen doppelt gezogen.
+Geschlagene Steine werden in die Mitte des Spielfelds auf die Bar gesetzt.
+Ist ein Würfel angekippt oder auf einem Stein gelandet, wird mit beiden Würfeln neu gewürfelt.
+Befinden sich alle 15 Spielsteine im Heimfeld, so darf mit dem Auswürfeln begonnen werden.
+Die Steine werden aus dem Heimfeld entfernt, wenn sie über das letzte Feld des eigenen Heimfelds ins Feld "Null" ziehen können.
+Hat der Gegner noch keinen Stein herausgewürfelt, so wird das Spiel doppelt bewertet.
+Jeder Spieler hat nur drei Steine, die zu Beginn auf den ersten drei Feldern, aus der Sicht des jeweiligen Spielers, aufgestellt werden.
+Die aktuell stärksten Programme sind die freie Software von GNU mit dem Namen GNU Backgammon (GNUbg), die kommerziellen Programme "Snowie 4" und "eXtreme Gammon" sowie die in Java geschriebene Shareware BGBlitz.

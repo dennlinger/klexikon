@@ -1,0 +1,6 @@
+Ein Kreisel ist ein (starrer) Körper, der um eine Achse rotiert.
+Wenn beim rotierenden Kreisel versucht wird, seine Rotationsachse zu kippen, dann lässt sich eine Kraftwirkung senkrecht zur Kipprichtung der Rotationsachse registrieren.
+Solange der Kreisel stabil um seine Figurenachse rotiert, muss der Kreisel auf den eingeschlossenen Körper nur eine Zentripetalkraft ausüben.
+Spannend wird es, wenn nun die Rotationsachse des Kreisels gekippt wird und die Bewegung des Körpers dabei analysiert wird.
+Der Kreisel will also beim Kippen zur Seite ausbrechen.
+Anfang des 20. Jahrhunderts wurden Kreisel - z. B. der Musilsche Farbkreisel - zur Untersuchung der menschlichen Farbwahrnehmung eingesetzt.

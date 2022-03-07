@@ -1,0 +1,22 @@
+Information ist in der Informationstheorie das Wissen, das ein Absender einem Empfänger über einen Informationskanal vermittelt.
+Die Information kann dabei die Form von Signalen oder Code annehmen.
+Information kann bewusst als Nachricht oder Botschaft von einem Sender an einen Empfänger übermittelt oder auch unbewusst transportiert werden und durch die Wahrnehmung von Form und Eigenschaft eines Objektes auffallen.
+Information erhält ihren Wert durch die Interpretation des Gesamtgeschehens auf verschiedenen Ebenen durch den Empfänger der Information.
+Doch wird Information auch als höhere Ordnung den Daten gegenübergestellt - aus denen sie sich zusammensetzt.
+In erweitertem Sinn zählen auch die Kriterien, die die Qualität einer Information bestimmen, zu den Eigenschaften, die eine Information aufweisen kann/soll.
+Dies sind zum Beispiel: Zweckorientiertheit, Wahrheit/ Richtigkeit, Vollständigkeit, Konsistenz (widerspruchsfrei), Glaubwürdigkeit und Prüfbarkeit, Aktualität.
+Eine nachrichtentechnisch erkennbare Struktur (beispielsweise Lichtpulse, die in einer zeitlichen Reihenfolge auf einzelne Zellen in der Netzhaut treffen) muss in einem komplexen Dekodierungsprozess in eine Bedeutung übersetzt werden.
+Sie stellen ein Verfahren dar, mit dem Information effizient übermittelt und gespeichert werden kann.
+Der Informationsgehalt ist dabei ein Maß für die maximale Effizienz, mit der die Information verlustfrei übertragen werden kann.
+Grundprinzip der syntaktischen Information ist die Unterscheidbarkeit: Information enthält, was unterschieden werden kann, und unterschieden werden kann, was gemessen werden kann.
+Um herauszufinden, welches er bestellt hat, braucht man ihm nur eine einzige Frage zu stellen: "Haben Sie Schnitzel bestellt?" Lautet die Antwort "Ja", so hat er ein Schnitzel bestellt, lautet die Antwort "Nein", so hat er Spaghetti bestellt.
+Effizienter ist es, wenn man beispielsweise erst fragt: "Haben Sie bereits bestellt?", um dann konkreter zu werden, "War es ein Gericht mit Fleisch?", "War es Schweinefleisch?", sodass schließlich nur noch wenige Alternativen übrig bleiben ("War es Schweineschnitzel?", "Schweinebraten?", "Schweinshaxe?").
+Der Informationsgehalt einer Nachricht entspricht der Anzahl der Ja-/Nein-Fragen, die man bei einer idealen Fragestrategie braucht, um sie zu rekonstruieren.
+So kann berücksichtigt werden, wie häufig ein bestimmtes Zeichen des Zeichenvorrats verwendet wird, mit anderen Worten, wie wahrscheinlich sein Auftreten ist.
+Im obigen Beispiel muss man also wissen, was "warm" bedeutet.
+Dabei wird auf den unterschiedlichen semantischen Ebenen wiederum Informationsverarbeitung auf strukturell-syntaktischer Ebene geleistet:
+Information ist ein weitläufig verwendeter und schwer abzugrenzender Begriff.
+Im allgemeinen Sprachgebrauch sowie in einigen Wissenschaften (Semiotik, Informationswissenschaften) wird "Information" mit "Bedeutung" oder "übertragenem Wissen" gleichgesetzt.
+Weiterhin kann man Information auch als Produktionsfaktor verstehen.
+Eine (weitere) Definition der Information über Veränderung erfolgt deshalb über Bewegungsunterschied (Informationsbewegung) und Unterschiedsbewegung (Ruhepotentialität): "Information existiert nur in der Bewegung, die immer eine komplementäre, relative Bewegung ist".
+Aus ihnen kann (bei Menschen durch kognitive Tätigkeiten des Empfängers) "Information" werden, zweckbezogenes Wissen, das man beim Handeln im Hinblick auf gesetzte Ziele benötigt.

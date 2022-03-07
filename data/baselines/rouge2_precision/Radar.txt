@@ -1,0 +1,17 @@
+Radar ist die Abkürzung für radio detection and ranging (frei übersetzt "funkgestützte Ortung und Abstandsmessung") oder radio direction and ranging (frei übersetzt "funkgestützte Richtungs- und Abstandsmessung"), zwischenzeitlich radio aircraft detection and ranging (frei übersetzt "funkbasierte Flugzeugortung und -abstandsmessung") und ist die Bezeichnung für verschiedene Erkennungs- und Ortungsverfahren und -geräte auf der Basis elektromagnetischer Wellen im Radiofrequenzbereich (Funkwellen).
+So können Informationen über die Objekte gewonnen werden.
+Die ersten Versuche zur Ortung mit Hilfe von Radiowellen führte der deutsche Hochfrequenztechniker Christian Hülsmeyer 1904 durch.
+Ab 1936 war er Direktor im Air Ministry.
+Beide Seiten entwickelten sogenannte Düppel, einfache Metallfolienstreifen, um die gegnerischen Radarsysteme zu stören.
+In Deutschland kam die Forschung auf dem Gebiet Radar nach dem Krieg vollständig zum Erliegen.
+Außerdem wurde das Radar auch für die zivile Schiff- und Luftfahrt eingesetzt.
+Als die Radargeräte leistungsfähiger wurden, entdeckte auch die Wissenschaft diese Technik.
+Auswertung reflektierter Oberwellen erlaubt Rückschlüsse auf den Flugzeugtyp.
+Ein passives Radar ist daher nicht anhand seiner Funkwellenaussendung zu entdecken.
+Für die Entfernung r {\displaystyle r} gilt der Zusammenhang:
+Wird ein Echo empfangen, dann ist der Abstand des Echoimpulses auf dem Sichtgerät ein Maß für die Entfernung des reflektierenden Objektes (hier: des Flugzeugs) zum Radargerät.
+Die Antenne wird meist im Zeitmultiplexbetrieb verwendet.
+Während der Empfangszeit empfängt sie dann die reflektierte Energie.
+Dabei wird die über eine Antenne abgestrahlte Frequenz vom Ziel (beispielsweise einem Auto) reflektiert und mit einer gewissen Doppler-Verschiebung, also geringfügig geändert, wieder empfangen.
+Radar-Fallen der Verkehrspolizei arbeiten auf diese Weise und lösen bei Geschwindigkeitsüberschreitung bei einer bestimmten Entfernung zum Ziel den Fotoblitz aus.
+Der komplette Hochfrequenzteil eines Radars lässt sich zum Beispiel in einem einzelnen integrierten Schaltkreis unterbringen.

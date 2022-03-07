@@ -1,0 +1,16 @@
+Eine Antenne ist eine technische Anordnung zur Abstrahlung und zum Empfang elektromagnetischer Wellen, oft zur drahtlosen Kommunikation.
+Die Felder werden durch die Umkehr abgestoßen und können nicht mehr zurück zur Antenne.
+Räumlich kann man Antennenformen unterscheiden durch ihre Strahlungslänge in Vielfachen oder Bruchteilen der Wellenlänge  (griechischer Buchstabe Lambda):
+Zirkular polarisierte Signale kehren ihre Drehrichtung allerdings bei Reflexion um.
+Keine Antenne strahlt gleichmäßig in alle Richtungen.
+Andere Unterteilung von Antennen:
+Nach Anwendung bzw. Montageart können Antennen auch unterschieden werden in:
+Die lineare Antenne ist eine der gebräuchlichsten Strahlerformen.
+Alternativ werden die Strahlerhälften auch halbkreisförmig gebogen.
+Als Teleskopantenne ist der Viertelwellendipol in mehrere kleinere Abschnitte unterteilt, die stufenförmig verjüngt teleskopartig ineinandergeschoben werden können.
+Ein technisch einfaches Beispiel ist der Rechteckhornstrahler, bei dem ein Rechteckhohlleiter aufgeweitet wird bis die Öffnung in ihren Abmessungen groß gegenüber der Wellenlänge  ist.
+So benutzen viele Antennen für den Fernsehsatelliten-Empfang sogenannte Offsetantennen, bei denen der Brennpunkt nicht in der Symmetrieachse liegt, sondern daneben.
+Eine ausreichend genaue Modellierung einer Antenne im Rechner wirft aber meistens geringere Probleme auf als die messtechnische Erfassung und ist deshalb auch billiger.
+Aufgrund starker Verformungen der Seilnetzwerke von Vorhangantennen infolge hoher Windlasten ist es erforderlich, die statische Untersuchung nach Theorie III. Ordnung vorzunehmen und die hochfrequenztechnische Antennensimulation am verformten System anzusetzen.
+Antennen, Mastkonstruktionen und Abspannungen können im Winter vereisen.
+Außerdem können durch herabfallende Eisbrocken Menschen verletzt werden.

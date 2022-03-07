@@ -1,0 +1,26 @@
+Die Geschwindigkeit ist neben dem Ort und der Beschleunigung einer der grundlegenden Begriffe der Kinematik, eines Teilgebiets der Mechanik.
+v {\displaystyle v} gibt an, welche Wegstrecke ein Körper innerhalb einer bestimmten Zeitspanne zurücklegt, wenn die Geschwindigkeit entsprechend lange konstant bleibt.
+Die höchstmögliche Geschwindigkeit, mit der sich die Wirkung einer bestimmten Ursache räumlich ausbreiten kann, ist die Lichtgeschwindigkeit c {\displaystyle c} .
+Der Betrag der Momentangeschwindigkeit (das "Tempo" oder die Bahngeschwindigkeit) ist durch den Betrag des Geschwindigkeitsvektors
+Man beachte, dass die Durchschnittsgeschwindigkeit stets den zeitlichen Mittelwert der Geschwindigkeit darstellt.
+Ein Objekt erreicht seine Endgeschwindigkeit, wenn die bremsenden Kräften durch Zu- oder Abnahme der Geschwindigkeit so stark geworden sind, dass sich ein Kräftegleichgewicht aller beteiligten Kräfte ausbildet.
+Der Begriff wird auch in der Technik verwendet.
+Am einfachsten kann die Geschwindigkeit bestimmt werden, indem man misst,
+Dieses misst eigentlich die Drehzahl des Rades, welche direkt proportional zur Geschwindigkeit ist.
+Die SI-Einheit der Geschwindigkeit ist Meter pro Sekunde (m/s).
+Eine weitere gebräuchliche Einheit der Geschwindigkeit ist Kilometer pro Stunde (km/h).
+Fast nur in der Luftfahrt wird die Mach-Zahl verwendet, die keine absolute Größe angibt, sondern das Verhältnis der Geschwindigkeit zur lokalen Schallgeschwindigkeit angibt.
+Die Schallgeschwindigkeit ist stark temperaturabhängig aber nicht luftdruckabhängig.
+Im homogenen Schwerefeld wird oft ein kartesisches Koordinatensystem verwendet.
+Setzt man voraus, dass es ein allgemein gültiges Bezugssystem gibt, so nennt man die Geschwindigkeiten, die in diesem System gemessen werden, Absolutgeschwindigkeiten.
+Deswegen wird der Begriff der Absolutgeschwindigkeit spätestens seit der speziellen Relativitätstheorie vermieden.
+Je heißer das Gas ist, desto höher ist die wahrscheinlichste Geschwindigkeit.
+Mehr Teilchen erreichen dann hohe Geschwindigkeiten.
+Dies zeigt, dass die Temperatur ein Maß für die mittlere kinetische Energie der Teilchen ist.
+Wenn die Geschwindigkeitsvektoren zeitlich konstant sind, spricht man von einer stationären Strömung.
+In der Regel unterscheiden sie sich.
+Ein anschauliches extremes Beispiel ist die Fortbewegung von Schlangen:
+Fasst man die Schlange als eine Welle auf, so ist die Geschwindigkeit ihres Vorankommens eine Gruppengeschwindigkeit.
+Er ist unter anderem dafür verantwortlich, dass Licht verschiedener Wellenlänge von einem Prisma unterschiedlich stark gebrochen wird.
+Letztere Abhängigkeit ließ sich mit dem Michelson-Morley-Experiment nicht nachweisen.
+Einstein postulierte, dass das Relativitätsprinzip, das bereits aus der klassischen Mechanik bekannt war, auch auf alle anderen Phänomene der Physik, insbesondere die Ausbreitung des Lichts, angewendet werden müsse und dass die Lichtgeschwindigkeit unabhängig vom Bewegungszustand des Senders sei.

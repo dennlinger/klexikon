@@ -1,0 +1,9 @@
+Ein Roboter ist eine technische Apparatur, die üblicherweise dazu dient, dem Menschen häufig wiederkehrende mechanische Arbeit abzunehmen.
+Vor der Prägung des Wortes Roboter wurden solche Maschinen Automaten oder Halbautomaten genannt.
+Ein Roboter muss nicht unbedingt vollständig autonom handeln können.
+Darum unterscheidet man autonome und ferngesteuerte Roboter.
+Da sich die Lage des KOS im allgemeinen Fall sowohl durch Verdrehungen als auch durch Translation ergeben kann, sind zur Berechnung ein rotatorischer - die Vektoren A, B und C als Einheitsvektoren - und auch ein translatorischer Anteil P, eine Verschiebung, notwendig.
+Sie sollen autonom in ihrer Umwelt reagieren und möglichst auch interagieren können, wobei ihre Mobilität durch zwei Beine als Fortbewegungsmittel beschränkt ist.
+Unter einem Rover versteht man in der Raumfahrt Roboter, die sich mobil auf der Oberfläche anderer Himmelskörper fortbewegen.
+Diese sind bekannt geworden unter der Bezeichnung "Tortoises".
+Die Steuerung erfolgt üblicherweise manuell wie bei den Modellen, die in der Autismustherapie eingesetzt werden.

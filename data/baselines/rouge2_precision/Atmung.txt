@@ -1,0 +1,19 @@
+Atmung oder Respiration (lateinisch respiratio) bezeichnet in der Biologie:
+Aerobe Atmung benötigt Sauerstoff und ist daher erdgeschichtlich erst möglich, seit elementarer Sauerstoff in der Atmosphäre und im Wasser zur Verfügung steht.
+Dessen Bildung geht auf die ersten photosynthetisch aktiven Prokaryoten zurück, wahrscheinlich Vorläufer der heutigen Cyanobakterien.
+Anaerobe Atmung tritt nur bei Prokaryoten auf.
+Alle Eukaryoten können lediglich Sauerstoff als Oxidans verwenden; in Sauerstoff-freien Milieus können sie nur durch Gärung Energie gewinnen.
+Dagegen können Hefen, die ebenfalls Eukaryoten sind, ohne Sauerstoff allein auf der Grundlage der Gärung leben (fakultativ anaerob).
+Ein Beispiel für den seltenen Fall, dass Eukaryoten die Fähigkeit verloren haben, Sauerstoff zu nutzen, und daher obligat anaerob sind, sind die Neocallimastigaceae, die im Pansen von Wiederkäuern leben und auf die Verwertung von Zellulose spezialisiert sind.
+Unter Prokaryoten ist Escherichia coli ein Beispiel dafür, dass zwischen aerober und anaerober Atmung gewechselt werden kann.
+Bei der aeroben Atmung wird Sauerstoff benötigt.
+So nutzt beispielsweise das Archaeon Acidianus ambivalens Schwefel in einer Schwefeloxidation gemäß:
+In die Tabelle wurde nur eine Auswahl anaerober Atmungstypen aufgenommen (weitere siehe Anaerobie#Anaerobe Atmung):
+Folgende Varianten können unterschieden werden, die auch in Kombination vorkommen können:
+Die Transportrate beziehungsweise Transportgeschwindigkeit wird durch die Diffusionsgesetze nach Adolf Fick beschrieben:
+Laut dem Ersten Fickschen Gesetz ist dabei die Transportrate, also die Veränderung der Stoffmenge (dQs) nach der Zeit (dt), proportional zur Austauschfläche A und proportional zum Konzentrationsgradienten, welcher für Gase wie beim Fall der Atmung auch als Partialdruckgradient (dp/dx) beschrieben werden kann.
+Störungen der Oxygenierung des Blutes können zudem durch zu geringe oder falsch verteilte Durchblutung der Lunge entstehen.
+Isolierte respiratorische Störungen äußern sich in Hypoxie ohne Hyperkapnie, da die CO2-Diffusion aus den genannten Gründen noch gut funktioniert, wenn die Sauerstoffdiffusion längst deutlich eingeschränkt ist.
+Die symptomatische Therapie von Gasaustauschstörungen erfolgt durch Gabe von Sauerstoff.
+Algen und andere im Wasser lebende Pflanzen können ihn durch Diffusion aus dem umgebenden Wasser aufnehmen, da sie eine große Oberfläche und keine undurchlässige Cuticula haben.
+Beim Aronstab ist der Kolben zeitweilig um etwa 20 °C wärmer als die Umgebung.

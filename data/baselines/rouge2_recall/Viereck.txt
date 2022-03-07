@@ -1,0 +1,16 @@
+Ein Viereck (auch Tetragon, Quadrangel oder Quadrilateral) ist eine Figur der ebenen Geometrie, nämlich ein Vieleck mit vier Ecken und vier Seiten.
+In der endlichen Geometrie werden Inzidenzeigenschaften des Vierecks zur Definition des Begriffs "Verallgemeinertes Viereck" verwendet.
+Liegen beide Diagonalen innerhalb des Vierecks, so ist das Viereck konvex, liegt genau eine Diagonale außerhalb, so hat das Viereck eine konkave Ecke.
+Das Viereck ist das einfachste Vieleck, das konkav sein kann.
+Die Summe der Innenwinkel im Viereck beträgt 360°, weil sich jedes Viereck in zwei Dreiecke zerlegen lässt.
+Ein Trapez ist ein Viereck mit mindestens zwei parallelen Seiten.
+Sind je zwei einander gegenüberliegende Seiten parallel, spricht man vom Parallelogramm.
+Ein Viereck, welches vier gleich große Innenwinkel von 90°, also rechte Winkel, hat, ist ein Rechteck.
+Ein Rechteck, das vier gleich lange Seiten hat, ist ein Quadrat.
+Das Quadrat ist das regelmäßige Viereck.
+Beim Drachenviereck (Deltoid) stehen die Diagonalen senkrecht aufeinander, und eine Diagonale wird durch die andere halbiert.
+Dies ist gleichbedeutend damit, dass es zwei Paare benachbarter Seiten gibt, die jeweils gleich lang sind.
+Bei vier gleich langen Seiten spricht man von einer Raute (Rhombus).
+Sind auch nichtkonvexe Vierecke zugelassen, gibt es mehrdeutige Kombinationen, z. B. vier Seiten und ein Innenwinkel, da die dem gegebenen Winkel gegenüberliegende Ecke konvex oder konkav sein kann.
+Den Flächenschwerpunkt eines Vierecks kann man wie folgt konstruieren:
+Dies bedeutet, die gepunkteten Linien, der Punkt H {\displaystyle H} und die Schwerpunkte S 3 {\displaystyle S_{3 } } und S 4 { \displaystyle S_{4 } } sind für die alternative Vorgehensweise nicht erforderlich.

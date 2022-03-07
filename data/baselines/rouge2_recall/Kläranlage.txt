@@ -1,0 +1,30 @@
+Eine Kläranlage, auch Abwasserbehandlungsanlage, in der Schweiz und in Österreich auch Abwasserreinigungsanlage (ARA) genannt, ist eine technische Anlage zur Reinigung von Abwasser.
+Da diese Verfahrensarten nacheinander in verschiedenen Reinigungsstufen eingesetzt werden, nennt man moderne konventionelle Kläranlagen in der Regel "dreistufig".
+Mittlerweile werden Kläranlagen auch mit einer vierten Reinigungsstufe ausgerüstet, wobei hier über verschiedene Verfahren (z. B. Ozonung, Aktivkohlefiltration) Mikroverunreinigungen (z. B. Arzneimittelrückstände, Mikroplastik) aus dem Abwasser entfernt werden.
+Die erste Kläranlage auf dem europäischen Festland wurde 1882 in Frankfurt-Niederrad in Betrieb genommen.
+Das von der Kanalisation gesammelte und im Zuge der Abwasserbeseitigung zur Kläranlage transportierte Abwasser gelangt zum Zulauf der Kläranlage, wo sich meistens eine Vorrichtung zur Messung der Zulaufmenge sowie ein Pumpwerk zum Heben des Abwassers befindet.
+Wenn keine derartigen Einrichtungen vorhanden sind, müssen die einzelnen Bauwerke der Kläranlage in der Folge größer ausfallen und die technischen Ausrüstungen, wie Pumpen, eine höhere Leistung aufbieten.
+Das auf versiegelten Flächen (Straßen, Wege, Dachflächen) auftreffende Niederschlagswasser kann durch einen separaten Kanal, ggf. nach Reinigung in einem Regenklärbecken, direkt in ein Oberflächengewässer geleitet oder über verschiedene Versickerungssysteme dem Grundwasser zugeführt werden.
+In der Rechenanlage wird das Abwasser durch einen Rechen oder durch ein Sieb geleitet.
+Im Rechen bleiben grobe Verschmutzungen, wie Artikel der Monatshygiene, Präservative, Steine, aber auch Äste, Zweige, Laub und tote Tiere hängen.
+Durch die Turbulenz dieser Sekundärströmung werden organische Partikel in Schwebe gehalten, während schwerere Teilchen auf einer Absetzbahn direkt in die Sandfanggutrinne getragen werden.
+Beim Tiefsandfang strömt das Abwasser von oben in das Becken und erreicht durch dessen Tiefe eine relativ hohe Verweildauer, wodurch sich der schwerere Sand am Beckengrund (Sandtrichter) absetzt.
+Bei modernen Anlagen wird das Sandfanggut nach der Entnahme aus dem Sandfang gewaschen, also sehr weitgehend von organischen Begleitstoffen befreit, um eine bessere Entwässerung und anschließende Verwertbarkeit (beispielsweise im Straßenbau) zu ermöglichen.
+Bei modernen Anlagen mit Stickstoffentfernung kann dieser Anlagenteil entfallen oder ist klein bemessen, da die organischen Stoffe des Abwassers als Reduktionsmittel zur Stickstoffentfernung mittels Denitrifikation (Reduktion von Nitrat (NO3-) zu Stickstoff (N2)) im anoxischen Teil beziehungsweise in der anoxischen Phase der biologischen Stufe benötigt werden.
+Das SBR-Verfahren vereint Belebung und Nachklärung in einem Becken.
+Weitere Sonderformen, die insbesondere als Kleinkläranlagen eingesetzt werden, sind das Tropfkörperverfahren, das Tauchkörperverfahren, das Festbettreaktorverfahren und das MBR-Verfahren.
+Dabei werden von aeroben (Sauerstoff verbrauchenden) Bakterien und anderen Mikroorganismen (z. B. Hefen) Kohlenstoffverbindungen größtenteils zu Kohlenstoffdioxid abgebaut sowie zu Biomasse umgesetzt und der Stickstoff aus den organischen Verbindungen wird durch andere Bakterien zunächst als Ammoniak abgespaltet und dann mit Sauerstoff zu Nitraten oxidiert (Nitrifikation).
+Das Belebtschlammverfahren wird zumeist mit kontinuierlichem Durchlauf betrieben, das heißt, in das Belebungsbecken läuft kontinuierlich Abwasser zu und im selben Maß läuft Belebtschlamm enthaltendes Wasser kontinuierlich ab.
+Es gibt verschiedene technische Ausführungsvarianten des Belebtschlammverfahrens, insbesondere vorgeschaltete, nachgeschaltete und simultane Denitrifikation.
+In der Regel ist es vorteilhaft, darüber hinaus noch ein drittes Becken zu errichten, in dem der Überschussschlamm und eventuell zuvor abgeschiedener Primärschlamm gespeichert werden.
+Der größere Teil des Schlammes wird in das Belebungsbecken zurückgeführt (Rücklaufschlamm), um die Konzentration an Mikroorganismen im Belebungsbecken ausreichend hoch zu halten.
+Ist dies nicht der Fall, beispielsweise durch massenweises Wachstum fadenförmiger Mikroorganismen, was zur Blähschlammbildung führt, kann der Belebtschlamm aus dem Nachklärbecken in den Vorfluter abtreiben.
+Der während des Abwasserreinigungsprozesses entstehende überschüssige Klärschlamm wird im Anschluss behandelt.
+Die eigentliche Mengenreduzierung wird jedoch durch eine Abtrennung von Wasser aus dem Klärschlamm erreicht.
+Das Faulgas wird in gereinigter Form (zum Beispiel nach Entfernung von Schwefelwasserstoff) in Gasmotoren oder in Blockheizkraftwerken zur Deckung des Eigenbedarfs an Strom und Wärme genutzt.
+Beim BSB5-Wert, dem biochemischen Sauerstoffbedarf während einer Messzeit von fünf Tagen bei 20 °C, wird jener Sauerstoffbedarf erfasst, der bei der Oxidation von organischen Stoffen durch aerobe Mikroorganismen entsteht.
+Davon erfordert in der Regel das Druckbelüftungssystem im Belebungsbecken den mit Abstand größten Energieaufwand von allen Verfahrensschritten einer kommunalen Abwasserbehandlungsanlage.
+Diese drei Hauptkomponenten verbrauchen bei normal geführten Anlagen über 80 Prozent der Energie.
+Kläranlagen sind Emittenten von Treibhausgasen, die im Klärprozess anfallen.
+Der zugrundeliegende Kohlenstoff stammt weitgehend aus natürlichen organischen Stoffen, daher gilt das freiwerdende Kohlendioxid als treibhausgasneutral; problematisch sind vor allem die Methan- und Lachgasemissionen, da diese um ca. Faktor 25 bzw. 298 stärker wirken als Kohlendioxid.
+Denn würde Abwasser ungereinigt in ein Gewässer eingeleitet werden, führte dies neben der entsprechenden Verschmutzung mit den üblichen Begleiterscheinungen (Eutrophierung, Fischsterben) zu einem erheblichen Anstieg der Treibhausgasemissionen.

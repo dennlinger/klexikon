@@ -1,0 +1,19 @@
+WhatsApp ist ein 2009 gegründeter Instant-Messaging-Dienst, der seit 2014 Teil der Facebook Inc. ist.
+Außerdem ist seit Frühjahr 2015 das internetbasierte Telefonieren über die App möglich.
+Das Unternehmen WhatsApp Inc. wurde 2009 in Santa Clara, Kalifornien, von Jan Koum und Brian Acton gegründet.
+Der Name ist ein Wortspiel: WhatsApp klingt nach englisch "What's up?" ("Was ist los?", "Was geht?") und enthält das Kürzel App (Applikation, "Anwendung").
+WhatsApp startete als einfache App, bei der man Status-Meldungen veröffentlichte, die von allen Freunden gelesen werden konnten.
+Am 18. Januar 2016 wurde bekannt, dass WhatsApp wieder kostenlos werden soll.
+Ein solches Geschäftsmodell hatten sowohl Koum als auch Acton entschieden abgelehnt.
+Man muss daher nicht unbedingt die Nummer des Handys verwenden, von dem aus man WhatsApp nutzen möchte.
+Will man die Handynummer nicht preisgeben, kann man seine Festnetznummer oder die Nummer eines Zweithandys verwenden.
+Zugrunde liegt der App das Extensible Messaging and Presence Protocol (XMPP) mit proprietären Erweiterungen, welches allerdings auf die Nutzung der WhatsApp-eigenen Server begrenzt ist.
+Alternativ lässt sich ein Android-Emulator nutzen, um WhatsApp in der mobilen Oberfläche zu nutzen.
+Außerdem ist eine Telefonnummer für die Registrierungs-SMS notwendig.
+Lediglich der Sender wird, sofern im Messenger so eingestellt, über den Wechsel der öffentlichen Schlüssel informiert, nicht aber der Empfänger.
+Im November 2014 wurde die "Gelesen"-Funktion eingeführt.
+So kann man anhand blauer Häkchen sehen, dass der Empfänger die Nachricht gelesen hat.
+Diese Tatsache trifft jedoch nur bei einer kommerziellen Nutzung mit Spam-Charakter zu.
+Bei Beachtung bestimmter Kriterien kann die Nutzung von WhatsApp sogar illegal sein.
+Die Nutzung von WhatsApp ist nur zulässig, wenn der Nutzer mindestens 16 Jahre alt ist, sofern es sich um einen Nutzer mit Wohnsitz innerhalb einem Land in der sog. Europäischen Region (dazu gehört unter anderem die Europäische Union, die Schweiz, Norwegen, Vatikanstadt sowie deren Hoheitsgebiete) handelt, bzw. mindestens 13 Jahre alt ist, sofern es sich um einen Nutzer mit Wohnsitz außerhalb der Europäischen Region, handelt.
+Im April 2014 wurden über WhatsApp täglich mehr als 20 Milliarden Nachrichten verschickt und 44 Milliarden Nachrichten empfangen, wobei letztere Nachrichten häufig über die Gruppenfunktion an mehrere Empfänger ausgeliefert wurden.

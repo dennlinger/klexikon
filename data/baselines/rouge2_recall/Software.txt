@@ -1,0 +1,10 @@
+Software (dt.
+Software ist die Gesamtheit von Informationen, die man der Hardware hinzufügen muss, damit ein softwaregesteuertes Gerät für ein definiertes Aufgabenspektrum nutzbar wird.
+Die Bezeichnung Software wird im allgemeinen Sprachgebrauch meist nur auf Programme bezogen, nicht aber auf andere Daten.
+Dabei bezeichnet Hardware alle physischen Bestandteile eines Computers.
+Einige Definitionen nennen neben dem Programm selbst (und evtl. der Dokumentation) auch weitere Daten als zur Software gehörend ("zugehörige Daten").
+In den 1950er Jahren waren Software und Hardware noch verbunden und als Einheit wahrgenommen.
+Das Spiel bestand nicht mehr aus "vorverdrahteten Schalttafeln", sondern aus Anweisungen für einen Prozessor inklusive der für die Abarbeitung notwendigen weiteren Informationen, die gemeinsam auf einem Datenträger hinterlegt wurden.
+Obwohl dem Begriff ,Software' teilweise Attribute wie Flexibilität, Individualität, Leistungsfähigkeit etc. zugeschrieben werden, wird letztlich alles, was der Computer ,tatsächlich tut', nicht von der Software, sondern ausschließlich durch die Hardware ausgeführt.
+Dazu wird auf unterster Ebene der Maschinencode der Software unter Nutzung des Betriebssystems (d. h. ebenfalls durch dessen Maschinenbefehle) in den Hauptspeicher des Computers geladen und dem Rechenwerk Schritt für Schritt (siehe Befehlszähler) zur Ausführung zugeführt.
+Derartige softwarebasierte Maßnahmen sind geeignet, Arbeitsinhalte und -abläufe erheblich zu verändern.

@@ -1,0 +1,41 @@
+Die Compact Disc (kurz CD, englisch für kompakte Scheibe) ist ein optischer Speicher, der Anfang der 1980er-Jahre zur digitalen Speicherung von Musik von Philips/PolyGram und Sony eingeführt wurde und die Schallplatte ablösen sollte.
+Anfangs wurde die Compact Disc nur für digitale Audiodaten genutzt.
+Später kamen jedoch weitere Nutzungen hinzu, so etwa zur Speicherung von Daten als CD-ROM, für Videos als VCD oder für interaktive Daten als CD-i.
+Sie werden - im Gegensatz zu Schallplatten - nicht gepresst, sondern in Spritzgussmaschinen in Form auf die Vater-Matrize gespritzt.
+Die Informationen der CD, das sogenannte "Programm", sind auf einer spiralförmig nach außen verlaufenden Spur angeordnet; sie belegen maximal 85 % der CD-Gesamtfläche.
+Auf einer Audio-CD können maximal 99 Musiktitel gespeichert werden; dazu hat jede Scheibe ein Inhaltsverzeichnis (TOC, table of contents) und einen der Information eingelagerten Zeitcode.
+Die Spiralspur besteht aus Pits (Gruben) und Lands (Flächen), die auf dem Polycarbonat aufgebracht sind.
+Eine CD besteht demnach zum größten Teil aus Polycarbonat.
+Alternativ kann hier auch das Offsetdruckverfahren eingesetzt werden.
+Die reflektierende Schicht ist jedoch eine Silber-Indium-Antimon-Tellur-Legierung, die im ursprünglichen Zustand eine polykristalline Struktur und reflektierende Eigenschaften besitzt.
+Die Fotodioden registrieren also auf den Pits eine reduzierte Helligkeit.
+Da die CDs von der Oberseite gepresst werden, sind die Pits (Vertiefungen) von der Unterseite her als Hügel zu erkennen.
+Wenn der Lesekopf weiter außen auf der CD liest, wird die CD also langsamer gedreht.
+Sogenannte "52-fach"-Laufwerke drehen die CD mit bis zu 10.000 min-1.
+Wenn sich die CD mit der richtigen Geschwindigkeit dreht, kommen die Daten vom optischen Abtaster mit einer Datenrate von gut 4,3 Mbit/s, entsprechend einer Bitdauer von ca. 231 ns.
+Die Abschnitte mit Vertiefungen bzw. ohne Vertiefungen müssen lang genug sein, damit der Laser die Veränderung erkennen kann.
+Hinzu kommen noch weitere drei Füllbits, die so gewählt werden, dass die oben erwähnte Forderung, dass sich alle drei bis elf Bitdauern die Polarität ändert, auch zwischen den 14-Bit-Symbolen erfüllt wird.
+Sie ist mithin eine Designentscheidung, die (unter anderen) für die Spieldauer verantwortlich ist.
+C2-Fehler können von den meisten Laufwerken bestimmt werden, und es gibt Software für sogenannte C2-Scans, zum Beispiel readcd, Nero CD-Speed oder CD-Doctor.
+Außerdem lassen sich die C2-Informationen verwenden, um beim Übertragen von Audiomaterial auf einen Computer auf die Güte zu schließen, mit der Audiodaten von CD ausgelesen wurden.
+Dadurch können kritische Stellen ggf. erneut gelesen werden bzw. andersherum das erneute Lesen auf die kritischen Stellen eingeschränkt werden.
+Zur Datensicherung empfiehlt sich ein Umkopieren auf ein neues Medium.
+Ferner ist die Verwendung eines Reparatursprays oder von Schleif- und Poliergeräten möglich, um eine beschädigte CD oder DVD zu retten.
+Daneben gibt es auch CDs, die eine andere Form als eine runde Scheibe haben.
+Philips besitzt auch das Recht der Lizenzierung des "Compact Disc Digital Audio"-Logos.
+Es gibt verschiedene Möglichkeiten, Audio-CD-Inhalte und CD-ROM-Inhalte auf einer Scheibe zu kombinieren.
+Als Weiterentwicklung wurde der Datentrack mit einer Index-Position von 0 versehen, wodurch dieser nicht ohne Weiteres vom CD-Spieler angefahren wird (i-Trax).
+Eine Mischform ist die CD+G (CD+Graphics).
+Dabei werden im Subcode der CD (meistens im Lead-in) zusätzliche Informationen gespeichert, beispielsweise Titel und Künstler.
+Daneben gibt es noch sogenannte HDCD-CDs.
+Allerdings hat sich die DVD im Audiobereich nicht durchgesetzt.
+Seit dem Jahr 2001 werden in Deutschland auch Medien verkauft, die einen Kopierschutz enthalten, der das digitale Auslesen der Audiodaten (und damit das Kopieren der Daten) verhindern soll.
+Der Kopierschutz wird realisiert, indem Fehler oder eine zweite fehlerhafte Session eingebracht werden.
+So soll das Kopieren verhindert werden.
+Es ist ein sogenannter "CD-Brenner" (bzw. ein CD-Rekorder) notwendig.
+CD-Brenner können CDs nicht nur beschreiben, sondern auch lesen.
+Das ISO-9660-Dateiformat einer CD-ROM gestattet keine nachträglichen Änderungen.
+Die Verzeichnisse dieses neuen Dateisystems können auch auf Dateien in den älteren Tracks referenzieren.
+Dieses Format erlaubt es, wie zum Beispiel bei einer Diskette, direkt Dateien auf der CD zu speichern.
+Die Compact Disc besteht hauptsächlich aus dem wertvollen Kunststoff Polycarbonat.
+Da eine CD auch vertrauliche Daten enthalten kann, muss es sichere Verfahren geben, um diese Daten vor der Entsorgung unleserlich zu machen, sei es, weil die Daten nicht mehr benötigt werden oder weil sie gelöscht werden müssen.

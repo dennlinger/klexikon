@@ -1,0 +1,15 @@
+Ein Winkel ist in der Geometrie ein Teil der Ebene, der von zwei in der Ebene liegenden Strahlen (Halbgeraden) mit gemeinsamem Anfangspunkt begrenzt wird.
+Der gemeinsame Anfangspunkt der beiden Strahlen wird Scheitelpunkt des Winkels, Winkelscheitel oder kurz Scheitel genannt; die Strahlen heißen Schenkel des Winkels.
+Die physikalische Größe, die die relative Lage der Strahlen zueinander beschreibt, wird als Winkelweite oder Winkelabstand (Winkeldistanz) bezeichnet, üblicherweise auch verkürzend als Winkel, wenn eine Unterscheidung von dem geometrischen Objekt nicht notwendig ist, beispielsweise in der Physik.
+Die Größe des Winkels wird mit einem Winkelmaß angegeben.
+Der Winkel ist ein geometrisches Gebilde bestehend aus zwei Halbgeraden mit dem selben Ursprung.
+Ad hoc ist bei diesen drei Ansätzen der Winkel ein ungerichteter Winkel, erst eine zusätzliche Auszeichnung einer der beiden Halbstrahlen oder Halbgeraden als die "erste" ermöglicht die Angabe eines gerichteten Winkels.
+Speziell für den rechten Winkel verwendet man "", einen punktierten Winkel, in der Technik auch ein Quadrat, oder  {\displaystyle \perp } .
+Der rechte Winkel hat die Besonderheit, dass diese beiden Winkel genau gleich sind.
+Zwei Geraden oder Strecken, die sich im rechten Winkel schneiden, nennt man zueinander orthogonal.
+In einer Zeichnung wird der rechte Winkel durch einen Viertelkreis mit Punkt oder durch ein Quadrat dargestellt.
+Zwei Winkel heißen Komplementwinkel oder Komplementärwinkel, wenn sie sich zu einem rechten Winkel ( 90  {\displaystyle 90^{\circ }} ) ergänzen.
+Schneidet eine Gerade g {\displaystyle g} zwei Geraden h {\displaystyle h } und h ' {\displaystyle h'} , so heißen die Winkel, die auf derselben Seite von g {\displaystyle g} und auf einander entsprechenden Seiten von h {\displaystyle h} bzw. h ' {\displaystyle h'} liegen, Stufen- oder F-Winkel.
+Aus der Ergänzung der Winkel zu 180  {\displaystyle 180^{\circ } } kann umgekehrt auf die Parallelität von Geraden geschlossen werden: Wird ein Geradenpaar h {\displaystyle h} , h ' {\displaystyle h'} von einer weiteren Geraden g {\displaystyle g} so geschnitten, dass sich die Schnittwinkel, die auf derselben Seite von g {\displaystyle g} , aber jeweils auf unterschiedlichen Seiten von h {\displaystyle h} und h ' {\displaystyle h'} liegen, zu 180° ergänzen, so sind die Geraden h {\displaystyle h } und h ' {\displaystyle h'} parallel.
+Den Winkel 3° erhält man z. B. durch folgende Vorgehensweise: 72°/2 = 36°/2 = 18° - 15° = 3°.
+Bei der Winkelmessung wird mit Hilfe technischer Einrichtungen ermittelt, in welchem Winkel zwei Geraden oder zwei sonstige Richtungen zueinander stehen.

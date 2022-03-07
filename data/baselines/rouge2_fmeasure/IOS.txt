@@ -1,0 +1,14 @@
+iOS ist ein von Apple entwickeltes mobiles Betriebssystem für das iPhone und den iPod touch.
+Parallel zum SpringBoard, der allgemein bekannten Benutzeroberfläche von iOS, wurde die Oberfläche SwitchBoard entwickelt, von der sich mehrere Diagnoseprogramme starten lassen, und "SkankPhone" zur primären Benutzung des iPhones als Telefon.
+Das ursprüngliche Betriebssystem wurde am 9. Januar 2007 zusammen mit dem iPhone auf der MacWorld Conference and Expo vorgestellt.
+Damals sagte Steve Jobs "auf dem iPhone läuft OS X".
+Zunächst wurden das iOS des iPhones und das des iPads als unterschiedliche Versionen betrieben (iPhone OS und "iPad OS").
+Die erste gemeinsame Version war iOS 4.2.1.
+Es besitzt eine angepasste Benutzeroberfläche für das kleinere Display der Apple Watch.
+iOS ist darauf ausgelegt, mit allen anderen Apple-Produkten zusammenzuarbeiten.
+Zudem wurde mit iOS 4 eine Taskleiste eingeführt, die seitdem mit einem Doppelklick auf den Homebutton aufrufbar ist.
+Die Systempartition enthält das sogenannte root-Verzeichnis von iOS, dort befinden sich alle Systemkomponenten wie zum Beispiel das Springboard und die Hintergrunddienste von iOS.
+Eine Alternative zu der App, die eine Apple-ID erfordert, ist die mobile Webseite von YouTube, die in einem Webbrowser aufgerufen werden kann.
+Google hat die Unterstützung der YouTube-App auf älteren iOS-Geräten serverseitig größtenteils abgeschaltet.
+Aufsehen erregte zudem iOS 6 für das iPad, mit dem eine zuvor fehlende Uhr-Anwendung auf dem iPad installiert wurde.
+Apple reagierte darauf mit einer Vergünstigung des Akkutausches bei betroffenen Geräten.

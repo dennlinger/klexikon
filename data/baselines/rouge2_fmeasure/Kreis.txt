@@ -1,0 +1,33 @@
+Ein Kreis ist eine ebene geometrische Figur.
+Ein solches Verfahren zur Berechnung des Flächeninhalts nennt man die Quadratur des Kreises.
+Eine Verbindungsstrecke von zwei Punkten auf der Kreislinie bezeichnet man als Kreissehne.
+Die längsten Kreissehnen sind diejenigen, die durch den Mittelpunkt verlaufen, also die Durchmesser.
+Ein Kreissektor (Kreisausschnitt) ist eine Fläche, die von zwei Radien und einem dazwischen liegenden Kreisbogen begrenzt wird.
+mit einer Abweichung von -4,5 % ein deutlich schlechteres Ergebnis.
+Er brachte Wissen über die Geometrie aus Ägypten mit nach Griechenland, wie zum Beispiel die Aussage, dass der Durchmesser den Kreis halbiert.
+Zirka 300 Jahre vor Christus lebte der griechische Mathematiker Euklid von Alexandria.
+Der dritte Band der Elemente beschäftigte sich mit der Lehre über den Kreis.
+Der Flächeninhalt des Kreises lässt sich also als  * Radius * Umfang angeben.
+Archimedes gibt hier eine gute Näherung der Proportionalitätskonstante an.
+Mit dieser Konstruktion war es Archimedes möglich, den Umfang eines Kreises auf einer Geraden abzutragen.
+Beispielsweise ergänzte er eine Konstruktion der gemeinsamen Tangenten zweier Kreise.
+Wendet man auch diese Gleichungen speziell auf den Einheitskreis an, so erhält man:
+Die Kreisfläche ist zerlegungsgleich mit der Fläche der rechten Figur.
+Die Flächenformel kann zum Beispiel durch Integrieren der Kreisgleichung oder mit Hilfe der unten beschriebenen Annäherung durch regelmäßige Vielecke bewiesen werden.
+berechnen.
+berechnen, wobei r {\displaystyle r} wieder der Radius des Kreises ist.
+Aus diesen Gründen wurden bis heute unterschiedliche Näherungsverfahren für den Flächeninhalt und somit auch den Umfang eines Kreises entwickelt.
+Dazu verwendet man die Gleichungen
+Entsprechend kann man mit einem Sechseck verfahren, das von außen an den Kreis gezeichnet ist, dessen Seitenmitten also auf ihm liegen.
+Man erhält eine fallende Folge von Flächenmaßen, deren Grenzwert wiederum die Kreisfläche ist.
+Jede Gerade durch seinen Mittelpunkt ist eine Symmetrieachse.
+Formal ergibt sich dafür die orthogonale Gruppe O ( 2 ) {\displaystyle \mathrm {O} (2)} , das ist die Gruppe der orthogonalen 2 x 2 {\displaystyle 2\times 2} -Matrizen.
+d. h., die Produkte der jeweiligen Sehnenabschnitte sind gleich.
+Kreisspiegelungen und Möbiustransformationen lassen sich besonders übersichtlich mit Hilfe komplexer Zahlen darstellen:
+Im Folgenden sollen exemplarisch einige Konstruktionen angesprochen werden, die im Zusammenhang mit der Geometrie von Kreisen von Bedeutung sind.
+Durch die vierte Ecke wird ein Kreis um den alten Mittelpunkt gezogen.
+Ein weiteres bereits in der Antike untersuchtes Konstruktionsproblem ist die Kreisteilung.
+In der Differentialgeometrie, einem Teilgebiet der Analysis, das geometrische Formen mit Hilfe der Differential- und Integralrechnung untersucht, werden Kreise als spezielle Kurven angesehen.
+Umgekehrt hat die Kreisfläche bei gegebenem Flächeninhalt den kleinsten Umfang.
+In diesem Kontext nennt man den Kreis auch 1-Sphäre.
+Ähnliche Definitionen gibt es auch für die Ellipse (konstante Summe), Hyperbel (konstante Differenz) und die Cassinische Kurve (konstantes Produkt der Abstände).

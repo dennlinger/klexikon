@@ -1,0 +1,11 @@
+Das Grad Celsius ist eine Maßeinheit der Temperatur, die nach Anders Celsius benannt wurde.
+Zum Beispiel bezeichnen 293,15 K und 20 °C dieselbe Temperatur, und der absolute Nullpunkt bei 0 K entspricht -273,15 °C.
+Die Verwendung des großen T ist falsch, da T der absoluten Temperatur in Kelvin vorbehalten ist.
+Als Fixpunkte nutzte er, wie die 1730 vorgestellte Reaumur-Skala, die Temperaturen von Gefrier- und Siedepunkt des Wassers bei Normaldruck, das heißt einem Luftdruck von 1013,25 Hektopascal oder 760 Millimeter Quecksilbersäule.
+Der Bereich zwischen diesen Fixpunkten, gemessen mit einem Quecksilberthermometer, ist in 100 gleich lange Abschnitte eingeteilt, die als Grad bezeichnet sind.
+1948, ca. 200 Jahre nach der Einführung der Skala, wurde zu Ehren Celsius' der Skalenabstand bei einem Celsius-Thermometer von einem Zentigrad bzw. Zentesimalgrad durch die 9. internationale Generalkonferenz für Maß und Gewicht offiziell in die Temperatureinheit Grad Celsius umbenannt.
+Das Symbol für die Maßeinheit ist eine Kombination aus dem Gradzeichen und dem Großbuchstaben "C".
+Diese Regelung wurde jedoch nicht in die nationale deutsche Norm des Deutschen Instituts für Normung (DIN 1301-1, DIN 1345) übernommen und ist daher nach deutschem Einheitenrecht nicht zulässig.
+Die Temperaturdifferenz  t {\displaystyle \Delta t} ist der Unterschied in der Temperatur von zwei Messpunkten, die sich in der Zeit oder der räumlichen Position unterscheiden.
+Temperaturen in Grad Celsius lassen sich über eine Zahlenwertgleichung wie folgt exakt umrechnen:
+Die Fixpunkte, mit denen die Skalen ursprünglich definiert wurden, sind farblich hervorgehoben und exakt in die anderen Skalen umgerechnet.

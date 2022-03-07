@@ -1,0 +1,18 @@
+Werte von geometrischen und physikalischen Größen werden in Maßeinheiten (auch Größeneinheit oder physikalische Einheit) angegeben, die einen eindeutigen (in der Praxis feststehenden, wohldefinierten) Wert haben.
+Für Größen der Dimension Zahl kann eine Hilfsmaßeinheit benützt werden.
+Größen der Dimension Zahl haben die Maßeinheit 1 (eins).
+Hilfsmaßeinheiten können jedoch auch weggelassen werden.
+Einheiten können zu Einheitensystemen zusammengefasst werden wie z. B. dem Internationalen Einheitensystem oder dem angloamerikanischen Maßsystem.
+Einheitenzeichen werden stellvertretend für die Einheitennamen verwendet.
+Für alte Maßeinheiten waren auch Einheitenzeichen gebräuchlich, die keinem Alphabet angehören.
+Der Wert einer physikalischen Größe ist im Allgemeinen das Produkt aus einer Zahl und einer physikalischen Einheit.
+Bekanntlich ist 1 m = 100 cm.
+Damit kann man umformen: 75 cm = 0,75 x 100 cm = 0,75 m.
+Die Umrechnung aus obigem Beispiel lässt sich damit auch so durchführen:
+An allgemein zugänglicher Stelle angebracht, etwa in die Fassade des Rathauses eingemauert, ermöglichte es ein solches Maß jedem, seine eigenen Messgeräte zu kalibrieren.
+Maßeinheiten wurden früher sehr willkürlich und oft ohne Beziehung zueinander, aber nach praktischen Gesichtspunkten wie Längenabmessungen am menschlichen Körper festgelegt.
+Beispielsweise kann für die "Darstellung" einer Maßeinheit als nationales Normal viel höherer Aufwand betrieben werden als beim Eichen von Handelswaagen.
+Je nach Genauigkeitsanforderung können auch heute noch verkörperte Maße aktuell sein.
+Im Internationalen Einheitensystem wurde das Kilogramm bis 2019 durch die Masse des Urkilogramms in Paris definiert.
+Alle Massen wurden als Vielfache dieser Masse angegeben.
+Zum Beispiel bedeutete die Angabe "5,1 kg" so viel wie "5,1-mal so große Masse wie die Masse des Urkilogramms in Paris".

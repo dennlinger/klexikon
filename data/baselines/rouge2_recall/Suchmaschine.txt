@@ -1,0 +1,16 @@
+Eine Suchmaschine ist ein Programm zur Recherche von Dokumenten, die in einem Computer oder einem Computernetzwerk wie z. B. dem World Wide Web gespeichert sind.
+In der Regel erfolgt die Datenbeschaffung automatisch, im Internet durch Webcrawler, auf einem einzelnen Computer durch regelmäßiges Einlesen aller Dateien in vom Benutzer spezifizierten Verzeichnissen im lokalen Dateisystem.
+Suchmaschinen sind Metamedien, die gezielt Inhalte anderer Medien auffinden und abgreifen.
+Letztere werden vorrangig von Online-Preisvergleichen eingesetzt, es gibt aber auch schon lokale Angebotssuchen, die Produkte und Angebote stationärer Einzelhändler online darstellen.
+Dieser Abschnitt beschreibt Unterschiede in der Realisierung des Betriebs der Suchmaschine.
+Viele Suchmaschinen unterstützen die logische Verknüpfung von verschiedenen Suchworten durch Boolesche Operatoren und die exakte Suche nach ein oder mehreren Worten in Anführungszeichen.
+Dies führt in der Regel nicht nur zu einer quantitativen, sondern, vor allem bei unvollständigen Anfragen und nicht optimal gewählten Suchbegriffen, auch zu einer qualitativen Verbesserung (der Relevanz) der Ergebnisse, weil die in diesen Fällen eher unscharf durch die Suchbegriffe abgebildeten Suchintentionen durch die von den Suchmaschinen verwendeten statistischen Verfahren in der Praxis erstaunlich gut wiedergegeben werden.
+Es gibt daneben auch Suchmaschinen, die nur mit streng formalisierten Abfragesprachen abgefragt werden können, dadurch in der Regel jedoch auch sehr komplexe Anfragen sehr präzise beantworten können.
+So kann die Suchmaschine nicht selbstständig entscheiden, ob beim Begriff Laster nach einem Lkw oder einer schlechten Angewohnheit gesucht werden soll (semantische Korrektheit).
+Eine weitere Möglichkeit ist der Einsatz statistischer Verfahren, mit denen die Suchmaschine die Anfrage z. B. durch das Auftauchen verschiedener verwandter Begriffe auf Webseiten danach bewertet, ob mit der Suche nach Auto reparieren auch die Suche nach Autos reparatur oder Automatismus repariert gemeint gewesen sein könnte.
+Suchen auf sehr großen Datenmengen so umzusetzen, dass die Verfügbarkeit hoch ist (trotz Hardware-Ausfällen und Netzengpässen) und die Antwortzeiten niedrig (obwohl oft pro Suchanfrage das Lesen und Verarbeiten mehrerer 100 MB Index-Daten erforderlich ist), stellt große Anforderungen an den Suchmaschinenbetreiber.
+Die Seite, auf der die Suchergebnisse dem Benutzer ausgegeben werden (manchmal auch als Search engine results page, kurz: SERP, bezeichnet), gliedert sich (häufig auch räumlich) bei vielen Websuchmaschinen in die Natural Listings und die Sponsorenlinks.
+Dazu gehören:
+So zeigen die marktführenden Websuchmaschinen seit 2006 bei aus Deutschland stammenden Suchanfragen keine Webseiten mehr als Treffer an, die von der Bundesprüfstelle für jugendgefährdende Medien als jugendgefährdend eingestuft wurden.
+Wenn über eine Personensuchmaschine eine Suche nach einem Namen gestartet wird, betreffen die Ergebnisse der Suche nur Daten, die allgemein zugänglich sind.
+Weitere rechtliche Fragen ergeben sich bzgl. der Anzeige von Daten durch die Autovervollständigung (siehe Rechtslage in Deutschland).

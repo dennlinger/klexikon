@@ -1,0 +1,13 @@
+Ein Thermometer (altgriechisch o thermos, deutsch ,warm' und altgriechisch ov metron, deutsch ,Maß, Maßstab') ist ein Messgerät zur Bestimmung der Temperatur.
+Jedes Thermometer besteht aus einem Temperatur-Sensor (in dem der Messeffekt auftritt) und einer Anzeige (z. B. anhand einer Skale) oder einer Anschlussstelle für ein elektrisches Signal.
+Aber erst im frühen 17. Jahrhundert wurde dieses Prinzip in einem Vorläufer des Thermometers, dem Thermoskop, zur Bestimmung von Temperaturen benutzt.
+Es handelte sich um eine Glaskugel mit einem angesetzten langen dünnen Glasrohr, dessen untere Öffnung in Wasser tauchte.
+Sie glichen im Grunde einem Barometer und waren daher insbesondere auch vom Luftdruck abhängig, wie spätestens 1643/44 durch Evangelista Torricelli bekannt war.
+Ferdinando II. de' Medici, Großherzog von Toscana, ließ 1654 das erste Thermometer herstellen, das die Ausdehnung von Alkohol in einem geschlossenen Glasrohr ausnutzte.
+1724 schlug Daniel Gabriel Fahrenheit die nach ihm benannte Temperaturskala vor, die den kältesten Punkt einer Kältemischung als 0 °F, den Schmelzpunkt von Wasser als 32 °F und die Körpertemperatur des Menschen als 96 °F definierte.
+Anders Celsius legte seine Skala 1742 anhand von Schmelz- und Siedepunkt von Wasser fest, allerdings andersherum als die heute nach ihm benannte Skala.
+Berührungslos messende Thermometer (Pyrometer) nutzen die Eigenschaft, dass Objekte aufgrund ihrer Eigentemperatur eine elektromagnetische Temperaturstrahlung aussenden.
+Sie liefert zweidimensionale Temperaturprofile (Thermobilder), die im Maschinenbau, der Automatisierung, im F&E-Bereich, in der Medizin, der Sicherheits-/Überwachungstechnik und im Bauwesen verwendet werden.
+Bei Flüssigkeits-Glasthermometern tritt eine weitere Fehlerquelle auf: Nicht nur die thermometrische Flüssigkeit, sondern auch die Kapillare dehnt sich mit steigender Temperatur aus.
+Auch ist darauf zu achten, ob sich die Flüssigkeit bei der Lagerung evtl. in der Kapillare verteilt hat und erst wieder durch Klopfen oder Schleudern zu einem Faden verbunden werden muss.
+Für den thermischen Kontakt des Thermometers mit dem Messobjekt sind zu berücksichtigen,

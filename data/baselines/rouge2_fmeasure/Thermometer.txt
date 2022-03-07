@@ -1,0 +1,18 @@
+Ein Thermometer (altgriechisch o thermos, deutsch ,warm' und altgriechisch ov metron, deutsch ,Maß, Maßstab') ist ein Messgerät zur Bestimmung der Temperatur.
+Dazu muss die Messstelle des Thermometers die Temperatur des Messgegenstands annehmen.
+Jedes Thermometer besteht aus einem Temperatur-Sensor (in dem der Messeffekt auftritt) und einer Anzeige (z. B. anhand einer Skale) oder einer Anschlussstelle für ein elektrisches Signal.
+Aber erst im frühen 17. Jahrhundert wurde dieses Prinzip in einem Vorläufer des Thermometers, dem Thermoskop, zur Bestimmung von Temperaturen benutzt.
+Das Thermoskop hatte zumindest anfänglich noch keine Skala, die Länge der Wassersäule wurde mit einem Zirkel abgegriffen.
+Sie glichen im Grunde einem Barometer und waren daher insbesondere auch vom Luftdruck abhängig, wie spätestens 1643/44 durch Evangelista Torricelli bekannt war.
+1724 schlug Daniel Gabriel Fahrenheit die nach ihm benannte Temperaturskala vor, die den kältesten Punkt einer Kältemischung als 0 °F, den Schmelzpunkt von Wasser als 32 °F und die Körpertemperatur des Menschen als 96 °F definierte.
+Anders Celsius legte seine Skala 1742 anhand von Schmelz- und Siedepunkt von Wasser fest, allerdings andersherum als die heute nach ihm benannte Skala.
+1859 formulierte Gustav Robert Kirchhoff das nach ihm benannte Strahlungsgesetz, das den Grundstein für auf Temperaturstrahlung basierende Thermometer legte.
+Berührungslos messende Thermometer (Pyrometer) nutzen die Eigenschaft, dass Objekte aufgrund ihrer Eigentemperatur eine elektromagnetische Temperaturstrahlung aussenden.
+Pyrometer wurden in der Vergangenheit in folgende Kategorien unterteilt:
+Auch Thermografie-Kameras sind zusammen mit einer bilddarstellenden Software als Thermometer geeignet.
+Sie können ortsaufgelöst entlang einer Dimension messen.
+Für die Kalibrierung von Thermometern gibt es den internationalen Standard ITS-90.
+Das sind Dewargefäße, in denen zum einen der Temperaturfixpunkt realisiert wird, indem zum Beispiel Indium zu seinem Schmelzpunkt erhitzt wird.
+Bei Flüssigkeits-Glasthermometern tritt eine weitere Fehlerquelle auf: Nicht nur die thermometrische Flüssigkeit, sondern auch die Kapillare dehnt sich mit steigender Temperatur aus.
+Auch ist darauf zu achten, ob sich die Flüssigkeit bei der Lagerung evtl. in der Kapillare verteilt hat und erst wieder durch Klopfen oder Schleudern zu einem Faden verbunden werden muss.
+Für den thermischen Kontakt des Thermometers mit dem Messobjekt sind zu berücksichtigen,
