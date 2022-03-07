@@ -1,0 +1,20 @@
+Beschleunigung ist in der Physik die Änderung des Bewegungszustands eines Körpers.
+Als physikalische Größe ist die Beschleunigung die momentane zeitliche Änderungsrate der Geschwindigkeit.
+Sie ist eine vektorielle, also gerichtete Größe.
+Die Beschleunigung ist, neben dem Ort und der Geschwindigkeit, eine zentrale Größe in der Kinematik, einem Teilgebiet der Mechanik.
+In der Umgangssprache bezeichnet Beschleunigung oft nur eine Steigerung des "Tempos", also des Betrags der Geschwindigkeit.
+Bei einer konstanten Beschleunigung, die nicht in Richtung des Geschwindigkeitsvektors v = {\displaystyle {\vec {v}}} erfolgt, muss die Differenz der Geschwindigkeiten  v = = v = ( t 2 ) - v = ( t 1 ) {\displaystyle \Delta {\vec {v}}={\vec {v}}(t_{2})-{\vec {v}}(t_{1}) } vektoriell bestimmt werden, wie in der Abbildung veranschaulicht.
+Wenn sich die Beschleunigung während der betrachteten Zeitspanne ändert, erhält man mit obiger Rechnung die mittlere Beschleunigung, auch Durchschnittsbeschleunigung genannt.
+Ein Auto bewegt sich zum Zeitpunkt t 1 = 0 s {\displaystyle t_{1}=0\,\mathrm {s} } mit einer Geschwindigkeit von v 1 = 10 m s {\displaystyle v_{1}=10\,\mathrm {\tfrac {m}{s}} } über die Straße (das sind 36 km/h).
+Ein PKW, der vor der roten Ampel innerhalb von  t = 3 s {\displaystyle \Delta t=3\,\mathrm {s} } von "Tempo 50" ( v 1 = 50 k m h  14 m s {\displaystyle v_{1}=50\,\mathrm {\tfrac {km}{h}} \approx 14\,\mathrm {\tfrac {m}{s}} } ) auf Null abgebremst wird, erfährt die Beschleunigung
+Allgemein können Belastungen technischer Geräte oder die Angabe von Belastungsgrenzen als g-Kraft, also als "Kraft pro Masse", erfolgen.
+Angegeben wird meist ein Mittelwert in der Form "In ... Sekunden von 0 auf 100 km/h" (auch 60, 160 oder 200 km/h).
+Dieser bestimmt mit Hilfe einer Testmasse die Trägheitskraft, aus der dann mit Hilfe der newtonschen Grundgleichung der Mechanik auf die Beschleunigung geschlossen wird.
+Soll die Beschleunigung in einem beschleunigten Bezugssystem berechnet werden, so sind zusätzlich Trägheitskräfte zu berücksichtigen.
+Wenn der Aufzug im Vergleich zur Erde ruht, so zeigt die Waage eine Gewichtskraft von 9,8 Newton an.
+Bezüglich eines mitrotierenden (und daher beschleunigten) Bezugssystems wird ein Objekt vom Mittelpunkt weg nach außen beschleunigt, dann wird die Bezeichnung Zentrifugalbeschleunigung verwendet.
+Die Beschleunigung, der das Zentrifugiergut der Bahngeschwindigkeit v {\displaystyle v} ausgesetzt ist, lässt sich dann auch durch die Winkelgeschwindigkeit  {\displaystyle \omega } ausdrücken:
+Ist die Tangentialbeschleunigung negativ, so verringert sich die Geschwindigkeit des Körpers.
+Auf der Erde beträgt die Beschleunigung in Richtung Erdmittelpunkt ungefähr 9,81 Meter pro Quadratsekunde.
+Es geht auf die Überlegungen von Galileo Galilei und Isaac Newton zurück, die erkannt haben, dass alle Körper unabhängig von ihrer Masse von der Gravitation gleich beschleunigt werden.
+Ein Beobachter in einem Labor kann nicht feststellen, ob sich sein Labor in der Schwerelosigkeit oder im freien Fall befindet.

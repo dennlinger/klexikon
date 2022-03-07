@@ -1,0 +1,14 @@
+Eine Kugel ist in der Geometrie die Kurzbezeichnung für Kugelfläche oder Kugelkörper.
+Sie ist eine Rotationsfläche sowie eine spezielle Fläche zweiter Ordnung und wird beschrieben als die Menge (der geometrische Ort) aller Punkte im dreidimensionalen euklidischen Raum, deren Abstand von einem festen Punkt des Raumes gleich einer gegebenen positiven reellen Zahl r {\displaystyle \!\ r} ist.
+Der feste Punkt wird als Mittelpunkt oder Zentrum der Kugel bezeichnet, die Zahl r {\displaystyle \!\ r} als Radius der Kugel.
+Im Bild schneidet eine Kugel einen Zylinder in zwei Kreisen.
+Ein Rotations-Ellipsoid mit demselben Mittelpunkt wie die Kugel und dem Kugelradius als großer Halbachse würde die Kugel in zwei Punkten (Scheiteln) berühren.
+Ist die Kugel in Parameterform
+Das Kugelvolumen ist der Rauminhalt einer Kugel, der durch die Kugeloberfläche begrenzt wird.
+Nach einer Überlegung des griechischen Mathematikers Archimedes gibt es zu einer Halbkugel mit Radius r {\displaystyle \!\ r} einen Vergleichskörper, dessen Volumen mit dem der Halbkugel übereinstimmt, aber einfach zu berechnen ist.
+Die Kugel kann in unendlich viele Pyramiden mit der Höhe r {\displaystyle \!\ r} zerteilt werden (Spitzen im Mittelpunkt der Kugel), deren gesamte Grundfläche der Oberfläche der Kugel (siehe weiter unten) entspricht.
+Eine Kugel mit Radius R {\displaystyle R} , deren Mittelpunkt im Koordinatenursprung liegt, lässt sich durch die Gleichung
+Nach dieser Definition ist eine dreidimensionale Kugel also eine gewöhnliche Kugel; ihre Oberfläche entspricht einer 2Sphäre.
+Den Begriff der Kugel kann man auf alle Räume verallgemeinern, in denen man einen Abstandsbegriff hat, das sind die metrischen Räume.
+Die darin enthaltene Schicht wird als hexagonale (regelmäßig sechseckige) Kugel-Schicht, die im zweiten Fall als tetragonale (quadratische) Kugel-Schicht bezeichnet.
+Die Erde, der Mond und der Mars haben annähernd die Form einer Kugel.

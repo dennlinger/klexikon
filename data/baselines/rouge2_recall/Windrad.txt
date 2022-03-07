@@ -1,0 +1,26 @@
+Eine Windkraftanlage (Abk.: WKA) oder Windenergieanlage (Abk.: WEA) wandelt die Energie des Windes in elektrische Energie, um sie dann in ein Stromnetz einzuspeisen.
+Die mit großem Abstand dominierende Bauform ist der dreiblättrige Auftriebsläufer mit horizontaler Achse und Rotor auf der Luvseite, dessen Maschinenhaus auf einem Turm montiert ist und der Windrichtung aktiv nachgeführt wird.
+Sie werden an Land (onshore) und in Offshore-Windparks im Küstenvorfeld der Meere installiert.
+Als Windgenerator bezeichnet man Kleinanlagen im Leistungsbereich von wenigen 100 Watt bis zu mehreren kW. Sie können auch als einzelne Anlage wirtschaftlich sein.
+Als Windpark bezeichnet man Gruppen jeweils mehrerer Windkraftanlagen.
+Bei Pumpen kommt es eher auf das Drehmoment als auf die Drehzahl an; Brush verwendete eine zweistufige Übersetzung mit Riementrieben, um einen 12-kW-Generator anzutreiben.
+Rotoren mit mehr als zwei Blättern galten als rückständig.
+Die mittlere Nennleistung der in Deutschland neu installierten Windkraftanlagen betrug 164 kW im Jahr 1990, im Jahr 2000 erstmals über 1 MW, im Jahr 2009 erstmals über 2 MW.
+Ihre Nennleistung, manchmal als installierte Leistung bezeichnet, erreicht eine Windkraftanlage bei der Nennwindgeschwindigkeit.
+Erwartet wird, dass die Volllaststunden von Anlagen an Land im Schnitt auf mindestens 2250 VLS ansteigen werden, während Offshore mit 4500 VLS gerechnet wird.
+Auch wurden seit etwa 2010 von mehreren Herstellern sog. Schwachwindanlagen mit besonders großer spezifischer Rotorfläche (ca. 4,5 - 5 m^2/kW) entwickelt, mit denen auch auf windschwächeren Standorten deutlich mehr Volllaststunden als oben angegeben erreicht werden können.
+Bei gleicher Schnelllaufzahl scheinen sich große Rotoren im Vergleich zu kleineren gemächlich zu drehen.
+Das Drehmoment ist umgekehrt proportional zu  {\displaystyle \lambda } , d. h., bei niedrigeren Schnelllaufzahlen erhöht sich das Drehmoment, was einen größeren Generator oder ein kräftigeres Getriebe mit höherer Übersetzung nötig macht und den Wirkungsgrad senkt, weil der den Rotor durchsetzende Luftstrom in Rotation versetzt wird.
+Zu jeder Anzahl von Blättern und ansonsten je nach Schnelllaufzahl optimierter Geometrie gibt es deshalb eine optimale Schnelllaufzahl, bei der der Leistungsbeiwert maximal wird.
+So sind im Offshore-Einsatz Lärmemissionen weniger relevant, wodurch sich die Rotordrehzahl durch Verzicht auf das dritte Blatt erhöhen und zugleich die nötige Getriebeübersetzung verringern lässt.
+Bei einigen Anlagen wird zur Blattheizung die Abluft aus der Gondel (dem Generatorhaus auf dem Turm) durch die Rotorblätter gepumpt, so dass die Abwärme von Generator und Stromwandler genutzt wird.
+Schleifkontaktringe sind bei den hohen elektrischen Strömen zu wartungsintensiv.
+An Land wird aus Kostengründen am häufigsten eine Flachgründung gewählt.
+Von zu hohen oder zu niedrigen Windgeschwindigkeiten abgesehen können noch weitere Gründe dazu führen, dass eine Windkraftanlage vom Netz genommen werden muss.
+Er besteht aus einem Dreiblattrotor mit nicht verstellbaren Rotorblättern, dessen Drehzahl über das Getriebe mit der des Generators im festen Verhältnis gekoppelt ist.
+In einer 2013 publizierten Metastudie über Hunderte Untersuchungen schätzte man, dass von Windkraftanlagen geringere Gefahren für die Vogelwelt in den Vereinigten Staaten ausgehen als von anderen Energiegewinnungsformen.
+Eine Metastudie des Umweltbundesamtes in Deutschland kam 2016 zu der Erkenntnis, dass die die gesundheitlichen Gefährdungen von Windenergieanlagen als "sehr gering" einzuschätzen sind und technische Vorschriften dies heute sicherstellen.
+Windkraftanlagen in der Nähe von stationären Radargeräten unterliegen zusätzlichen Baubeschränkungen.
+91 % der Befragten gaben an, dass sie auch bei einem weiteren Zubau von Windkraftanlagen wiederkommen würden, 6 % empfanden dies als so störend, dass sie auf einen weiteren Besuch verzichten würden.
+In Pfaffenschlag bei Waidhofen an der Thaya, Niederösterreich wurde von einem lokalen Windkraftanlagenbetreiber ein am Boden aufgestelltes Maschinenhaus (Gondel und Nabe) eines Windrads zur Besichtigung von innen aufgestellt.
+Untersucht wird z. B. deren Einfluss auf die Ökosysteme vor der Küste.

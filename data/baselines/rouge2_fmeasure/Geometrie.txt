@@ -1,0 +1,6 @@
+Die Geometrie (altgriechisch ia geometria, ionisch i geometrie, ,Erdmaße', ,Erdmessung', ,Landmessung') ist ein Teilgebiet der Mathematik.
+Einerseits versteht man unter Geometrie die zwei- und dreidimensionale euklidische Geometrie, die Elementargeometrie, die auch im Mathematikunterricht - früher unter dem Begriff Raumlehre - gelehrt wird und die sich mit Punkten, Geraden, Ebenen, Abständen, Winkeln usw. beschäftigt, sowie diejenigen Begriffsbildungen und Methoden, die im Zuge einer systematischen und mathematischen Behandlung dieses Themas entwickelt wurden.
+Dies gilt insbesondere für den modernen Begriff der Geometrie, der im Allgemeinen die Untersuchung invarianter Größen bezeichnet.
+In jeder Geometrie interessiert man sich für diejenigen Transformationen, die bestimmte Eigenschaften nicht zerstören (also ihre Automorphismen):
+Die Anfangsgründe des Geometrieunterrichts befassen sich etwa mit geometrischen Transformationen oder dem Messen von geometrischen Größen wie Länge, Winkel, Fläche, Volumen, Verhältnisse usw.
+Darstellende Geometrie ist die zeichnerische Darstellung der dreidimensionalen euklidischen Geometrie in der (zweidimensionalen) Ebene.

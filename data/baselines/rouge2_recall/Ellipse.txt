@@ -1,0 +1,21 @@
+Ellipsen sind in der Geometrie spezielle geschlossene ovale Kurven.
+Eine anschauliche Definition verwendet die Eigenschaft, dass die Summe der Abstände eines Ellipsenpunktes von zwei vorgegebenen Punkten, den Brennpunkten, für alle Punkte gleich ist.
+Sind die Brennpunkte identisch, erhält man einen Kreis.
+Hieran erkennt man, dass man eine Ellipse als einen an der x-Achse um a {\displaystyle a} und an der y-Achse um b {\displaystyle b} gestreckten Einheitskreis auffassen kann.
+Die Ellipse (von griechisch  elleipsis ,Mangel') wurde von Apollonios von Perge (etwa 262-190 v. Chr.) eingeführt und benannt, die Bezeichnung bezieht sich auf die Exzentrizität  < 1 { \displaystyle \varepsilon <1 } .
+Auch beim Zeichnen von Schrägbildern werden häufig Ellipsen benötigt, da ein Kreis durch eine Parallelprojektion im Allgemeinen auf eine Ellipse abgebildet wird (siehe Ellipse (Darstellende Geometrie)).
+Der Mittelpunkt M {\displaystyle M } der Strecke F 1 F 2  {\displaystyle {\overline {F_{1}F_{2} } } } heißt Mittelpunkt der Ellipse.
+Den Abstand e {\displaystyle e } der Brennpunkte zum Mittelpunkt nennt man die lineare Exzentrizität und  = e / a {\displaystyle \varepsilon =e/a} die numerische Exzentrizität.
+Aufgrund der Leitkreis-Eigenschaft ist eine Ellipse die Äquidistanz-Kurve zu jedem ihrer Brennpunkte und dem Leitkreis mit dem anderen Brennpunkt als Mittelpunkt.
+Also liegt der Punkt ( x , y ) {\displaystyle (x,y)} genau dann auf der Ellipse, wenn die folgende Bedingung erfüllt ist:
+Ist a = b {\displaystyle a=b} , so ist  = 0 {\displaystyle \varepsilon =0} und die Ellipse ein Kreis.
+Wenn hier die obige Ellipsengleichung erwähnt wird, wird immer angenommen, dass a >= b {\displaystyle a\geq b} und damit die Ellipse in 1. Hauptlage ist, was im "realen Leben" aber nicht sein muss.
+Diese Form schließt auch die Tangenten durch die Hauptscheitel ein.
+Eine Parameterdarstellung, die die Tangentensteigung m {\displaystyle m} in dem jeweiligen Ellipsenpunkt verwendet, erhält man durch Differentiation der Parameterdarstellung x = ( t ) = ( a cos  t , b sin  t ) T {\displaystyle {\vec {x}}(t)=(a\cos t,b\sin t)^{\mathrm {T} }} :
+Sind die Vektoren f = 0 , f = 1 , f = 2 {\displaystyle {\vec {f}}_{0},\;{\vec {f}}_{1},\;{\vec {f}}_{2}} aus dem R 3 {\displaystyle \mathbb {R} ^{3}} , so erhält man eine Parameterdarstellung einer Ellipse im Raum.
+Führt man einen Stift mit Hilfe des gespannten Fadens (s. Bild) über die Zeichenfläche, so entsteht die durch die Länge des Fadens und die Lage der Brennpunkte definierte Ellipse.
+Je kleiner dieser Abstand ist, umso mehr ähnelt die Ellipse einem Kreis.
+Werden in die weiter oben beschriebene Definition einer Ellipse als geometrischer Ort die Bezeichnungen der betreffenden Punkte, u. a. die Brennpunkte H {\displaystyle H} und I {\displaystyle I} , aus der Darstellung des Ellipsenzirkels eingesetzt, ergibt sich
+Um eine Ellipse zu zeichnen, sticht man zuerst zur Lagefixierung des Ellipsenzirkels die Zirkelnadeln der Gelenkpunkte H {\displaystyle H} und I {\displaystyle I} in die Brennpunkte der Ellipse und zieht anschließend mithilfe des Handgriffs oder ggf. nur mit dem Zeichenstift die Ellipsenlinie.
+Die nach Philippe de La Hire (1640-1718) benannte Punktkonstruktion benutzt die beiden Scheitelkreise, das sind die Kreise um den Mittelpunkt der Ellipse mit den Halbachsen a , b {\displaystyle a,\;b} als Radien.
+Eine weitere technische Realisierung des gleitenden Streifens kann man auch mit Hilfe eines Paares cardanischer Kreise erreichen (s. Animation).

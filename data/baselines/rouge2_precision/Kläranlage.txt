@@ -1,0 +1,29 @@
+Eine Kläranlage, auch Abwasserbehandlungsanlage, in der Schweiz und in Österreich auch Abwasserreinigungsanlage (ARA) genannt, ist eine technische Anlage zur Reinigung von Abwasser.
+Da diese Verfahrensarten nacheinander in verschiedenen Reinigungsstufen eingesetzt werden, nennt man moderne konventionelle Kläranlagen in der Regel "dreistufig".
+Die erste Kläranlage auf dem europäischen Festland wurde 1882 in Frankfurt-Niederrad in Betrieb genommen.
+In der Rechenanlage wird das Abwasser durch einen Rechen oder durch ein Sieb geleitet.
+Das Rechengut wird in die Rechengutpresse abgeworfen, wo es maschinell gewaschen und entwässert (Gewichtsersparnis) wird.
+Durch die Turbulenz dieser Sekundärströmung werden organische Partikel in Schwebe gehalten, während schwerere Teilchen auf einer Absetzbahn direkt in die Sandfanggutrinne getragen werden.
+Bei modernen Anlagen wird das Sandfanggut nach der Entnahme aus dem Sandfang gewaschen, also sehr weitgehend von organischen Begleitstoffen befreit, um eine bessere Entwässerung und anschließende Verwertbarkeit (beispielsweise im Straßenbau) zu ermöglichen.
+Das SBR-Verfahren vereint Belebung und Nachklärung in einem Becken.
+Der Großteil der kommunalen Kläranlagen in Mitteleuropa wird nach dem Belebtschlammverfahren betrieben.
+Dabei werden von aeroben (Sauerstoff verbrauchenden) Bakterien und anderen Mikroorganismen (z. B. Hefen) Kohlenstoffverbindungen größtenteils zu Kohlenstoffdioxid abgebaut sowie zu Biomasse umgesetzt und der Stickstoff aus den organischen Verbindungen wird durch andere Bakterien zunächst als Ammoniak abgespaltet und dann mit Sauerstoff zu Nitraten oxidiert (Nitrifikation).
+Dies verbessert auch die Absetzeigenschaften des Belebtschlamms im Nachklärbecken.
+Es gibt verschiedene technische Ausführungsvarianten des Belebtschlammverfahrens, insbesondere vorgeschaltete, nachgeschaltete und simultane Denitrifikation.
+In der Regel ist es vorteilhaft, darüber hinaus noch ein drittes Becken zu errichten, in dem der Überschussschlamm und eventuell zuvor abgeschiedener Primärschlamm gespeichert werden.
+Damit wird nicht nur das Gewässer beeinträchtigt.
+Der während des Abwasserreinigungsprozesses entstehende überschüssige Klärschlamm wird im Anschluss behandelt.
+Im technischen Sinne gilt der Schlamm bei einem Glühverlust von etwa 50 Prozent als sehr gut ausgefault und stabil.
+Das Faulgas wird in gereinigter Form (zum Beispiel nach Entfernung von Schwefelwasserstoff) in Gasmotoren oder in Blockheizkraftwerken zur Deckung des Eigenbedarfs an Strom und Wärme genutzt.
+Dies kann mit verschiedenen technischen Verfahren erreicht werden.
+Eine weitergehende Mengenreduzierung erfolgt in der Schlammentwässerung.
+Deshalb erfolgt die Verwertung des Klärschlamms vorwiegend:
+Er wird mittels der Oxidation der Abwasserinhaltsstoffe durch Kaliumdichromat bestimmt und erfasst den Sauerstoffbedarf zur Oxidation eines Großteils der organischen Stoffe.
+In der Schweiz muss Phosphor aus Kläranlagen ab 2026 rezykliert werden.
+Davon erfordert in der Regel das Druckbelüftungssystem im Belebungsbecken den mit Abstand größten Energieaufwand von allen Verfahrensschritten einer kommunalen Abwasserbehandlungsanlage.
+Diese drei Hauptkomponenten verbrauchen bei normal geführten Anlagen über 80 Prozent der Energie.
+Unter optimalen Bedingungen ist es möglich, Kläranlagen mit Energiegewinnung zu betreiben.
+Kläranlagen sind Emittenten von Treibhausgasen, die im Klärprozess anfallen.
+Der zugrundeliegende Kohlenstoff stammt weitgehend aus natürlichen organischen Stoffen, daher gilt das freiwerdende Kohlendioxid als treibhausgasneutral; problematisch sind vor allem die Methan- und Lachgasemissionen, da diese um ca. Faktor 25 bzw. 298 stärker wirken als Kohlendioxid.
+Mit etwa 0,56-0,71 Mrd. Tonnen CO2-Äquivalent sind diese Emissionen aus Kläranlagen für etwa 4,6 % - 5,2 % der globalen Nicht-CO2-Emissionen verantwortlich.
+Denn würde Abwasser ungereinigt in ein Gewässer eingeleitet werden, führte dies neben der entsprechenden Verschmutzung mit den üblichen Begleiterscheinungen (Eutrophierung, Fischsterben) zu einem erheblichen Anstieg der Treibhausgasemissionen.

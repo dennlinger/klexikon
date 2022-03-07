@@ -1,0 +1,20 @@
+Der Kompass (von italienisch compasso "Zirkel, Magnetnadel", abgeleitet von compassare "abschreiten", Plural: Kompasse) ist ein Instrument zur Anzeige der Richtung des Erdmagnetfelds und dient damit der Bestimmung der Richtung von Nord- und Südpol der Erde und daraus abgeleitet der anderen Himmelsrichtungen.
+In seiner einfachsten Form besteht ein (Magnet-)Kompass aus einer frei beweglichen Nadel, die aus einem magnetischen Material besteht.
+Andere Ausführungen sind elektronische (Magnet-)Kompasse auf Basis von Hall-Sensoren oder anderen Sensoren.
+Mit einem Fluxgate-Magnetometer kann Betrag und Richtung des Erdmagnetfeldes auf ein 1/100.000 seines Absolutwerts genau bestimmt werden.
+Es gibt auch Kreiselinstrumente ohne Richtungsbezug (freie Kreisel wie den Kurskreisel), die allerdings periodisch nachgestellt werden müssen.
+Meist wird dieser Begriff in der Vermessungstechnik für Präzisions-Peilkompasse verwendet, vor allem in Österreich und Italien wird aber auch der einfache Wander- oder Marschkompass so genannt.
+Die Erkenntnis, dass sich Splitter von Magneteisenstein in die Nord-Süd-Richtung drehen, war in Europa seit der griechischen Antike und in China seit der Zeit der Streitenden Reiche, zwischen 475 v. Chr. und 221 v. Chr. bekannt.
+Ende des 11. Jahrhunderts empfahl Shen Kuo (1031-1095 n. Chr.) in seinem Hauptwerk einen Kompass mit Einteilung in 24 Richtungen; kurz nach seinem Tod waren solche Kompasse tatsächlich in Gebrauch.
+Die Matrosen des östlichen Mittelmeeres haben spätestens zur Zeit der Kreuzzüge vom nassen Kompass erfahren und ihn optimiert.
+In Europa beschrieb der englische Gelehrte Alexander Neckam 1187 den nassen Kompass als eine magnetisierte schwimmende Nadel, die unter Seeleuten in Gebrauch war.
+Um das Jahr 1400 bauten europäische Seefahrer die trockene Kompassnadel und Windrose in ein festes Gehäuse ein, um es fest auf ihren Schiffen zu stationieren.
+Um 1542 wusste man bereits, dass es auch eine Linie ohne Missweisung - die Agone - gab.
+( Aber auch kardanische Aufhängungen anstelle des Lagedetektors kommen zum Einsatz).
+In der norditalienischen Bergstadt Massa sind Kompasse zur Bestimmung der Vortriebsrichtung und Vermeidung von Durchschlägen zwischen Grubenbetrieben bereits im 13. und 14. Jahrhundert belegt, und im Tiroler Bergbau war er in der zweiten Hälfte des 15. Jahrhunderts selbstverständlich.
+Die beiden erstgenannten Faktoren bewirken, dass die Abweichung der Kompassnadel von der geografischen Nordrichtung an jedem Ort der Erde unterschiedlich ist.
+Um diese Kompensierung zu erreichen, wird das Fahrzeug (Schiff) sukzessive in die verschiedenen Himmelsrichtungen gelegt und versucht mit den Kompensiereinrichtungen die Kompassanzeige zu berichtigen.
+Als die magnetische Eigenschaft der Magnetit-Nadel entdeckt wurde, nannte man das Ende der Nadel, das nach Norden zeigte, naheliegenderweise den Nordpol der Nadel.
+Der magnetische Pol der Nordhalbkugel hat also eine magnetische Polung, die dem Nordpol der Kompassnadel entgegengesetzt ist.
+Da die Kompassrose sich als Ganzes dreht, wird die Richtung an einer fest mit dem Gehäuse verbundenen Markierung (Steuerstrich) abgelesen.
+Bei Beschleunigungen quer zur Magnetisierung (Ost-West-Richtung) kippt der Kompassmagnet derart, dass die vertikale Komponente des Erdmagnetfelds dessen Nordpol nach unten ziehen kann, was die Anzeige verfälscht.

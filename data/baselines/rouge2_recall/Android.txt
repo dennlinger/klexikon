@@ -1,0 +1,23 @@
+Android (von englisch android Androide, von altgriechisch v Mann und o Gestalt) ist sowohl ein Betriebssystem als auch eine Software-Plattform für mobile Geräte wie Smartphones, Tabletcomputer, Fernseher, Mediaplayer, Netbooks und Autos, die von der von Google gegründeten Open Handset Alliance entwickelt werden.
+Android ist eine freie Software.
+Seit dem Marktstart 2008 erzielte Google mit Android einen Umsatz von 31 Mrd. US-Dollar (Stand: Januar 2016).
+Für Android wurden vorwiegend bereits bestehende Komponenten unter Open-Source-Lizenzen neu zusammengestellt, darunter der Linux-Kernel, Java und die C-Standard-Bibliothek Bionic sowie einige Bibliotheken und Daemons des GNU-Projekts.
+Als erstes Gerät mit Android als Betriebssystem kam am 22. Oktober 2008 das HTC Dream unter dem Namen T-Mobile G1 in den USA auf den Markt.
+Dass bereits dieses erste Gerät auf das Global Positioning System (GPS) zugreifen konnte und mit Beschleunigungssensoren ausgestattet war, gehörte zum Konzept von Android.
+Von 2010 bis 2016 brachte Google mit der Nexus-Produktreihe in Kooperation mit Hardware-Partnern eigene Android-Tablets und -Smartphones auf den Markt.
+Dadurch konnte man Geräte mit aktuellen Android-Updates anbieten.
+Neben dem für Telefone und Tabletrechnern optimierten Android veröffentlicht Google auch angepasste Android-Versionen für Fernsehgeräte - in Form von Android TV, für Uhren bzw. Smartwatches (Android Wear - seit 16. März 2018: Wear OS) und Autos (Android Auto).
+Nutzer steuern Android neuerdings (seit Android 10) mittels Gestensteuerung, das heißt durch das Wischen vom unteren oder seitlichen Bildschirmrand, um zurück bzw. auf den Startbildschirm zu gelangen.
+Vor Android 4.0 und bei einzelnen Herstellern gibt es auch "Menü" oder "Suche".
+Samsung setzte lange Zeit in seinen Geräten auf den Menü- statt Multitasking-Taste und vertauschte diesen auch von der Position her mit der "Zurück"-Taste.
+Erstere werden vom Betriebssystem (Software-seitig) auf dem Bildschirm dargestellt, letztere sind physische Knöpfe oder berührungsempfindliche Schaltflächen auf dem Gerät selbst.
+Vorteil an virtuellen Tasten ist, dass diese bei Bedarf gedreht oder versteckt werden können.
+Im Unterschied zu Apple iOS, wo Bildschirmfotos mit kurzem Tastendruck aufgezeichnet werden, ist ein Gedrückthalten nötig.
+Dieser befindet sich in der Standardeinstellung direkt bei den vier Hauptanwendungen im App-Dock, das in der Regel auf allen Seiten sichtbar ist und ebenfalls mit der Version 2.2 eingeführt wurde.
+Am oberen Rand wird eine Google-Suchleiste angezeigt, die von Google auch einfach durch das Sprechen der Worte "Ok Google" gestartet und dessen Spracheingabe aktiviert wird.
+Beim Druck auf die Hometaste lässt sich auswählen, welche der Apps als Standardanwendung für den Startbildschirm benutzt werden soll.
+Ein großer Vorteil liegt in der Sicherheit, da die Geräte mindestens drei Jahre jeden Monat mit Sicherheitsupdates versorgt werden.
+Eigene Aufsätze der Smartphone-Hersteller wie HTC mit HTC Sense, Sonys Xperia UI, Samsung mit der One UI, LG UX von LG, MIUI von Xiaomi und die EMUI von Huawei ändern heute hauptsächlich das Design der Oberfläche (teils drastisch), wobei der grundsätzliche Aufbau meist der gleiche bleibt.
+Diese haben nach dem Flashen der entsprechenden GApps ebenfalls die Berechtigung für den Zugriff auf den Google Play sowie die anderen GApps der Google Mobile Services (GMS).
+Seit Android 4.4 "KitKat" gibt es zudem ein Media-System, über das indirekt auf das Dateisystem zugegriffen werden kann, wenn z. B. ein Hintergrundbild ausgewählt oder ein E-Mail-Anhang verschickt wird; diese Oberfläche direkt zu starten oder Dateien zu löschen, verschieben, kopieren oder umbenennen ist dennoch nicht möglich.
+Apps müssen darauf vorbereitet sein, dass der Benutzer ihnen nicht alle Rechte gewährt, und müssen die restlichen Funktionen trotzdem bereitstellen.

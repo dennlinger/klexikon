@@ -1,0 +1,18 @@
+Als Mobile App (auf Deutsch meist in der Kurzform App , eine Abkürzung für den Fachbegriff Applikation; teils auch das App; auf engl. als Kurzform für englisch application) wird eine Anwendungssoftware für Mobilgeräte beziehungsweise mobile Betriebssysteme bezeichnet.
+Obwohl sich der Begriff App auf jegliche Art von Anwendungssoftware bezieht, wird er im deutschen Sprachraum oft mit Anwendungssoftware für Smartphones und Tablets gleichgesetzt.
+Bei mobilen Apps wird zwischen nativen Apps, die nur auf einer Plattform funktionieren, und plattformunabhängigen Web-, Hybrid- und Cross-Plattform-Apps unterschieden.
+Es gibt sie für die verschiedensten Bereiche.
+Mithilfe von mobilen Remote-Apps werden zunehmend digitale Geräte ferngesteuert, wie zum Beispiel Kameras, Action-Camcorder oder Quadrocopter.
+Der Großteil dieser Apps ist kostenlos, ein kleinerer Teil muss, für meist geringe Beträge, im jeweiligen App Store gekauft werden.
+Mit dem Erscheinen von Java auf Mobiltelefonen (Java ME) bekamen Anwender die Möglichkeit, einfache Anwendungen und Spiele von ihrem Mobilfunknetzbetreiber oder aus dem Internet über WAP (MIDlets) herunterzuladen, die häufig schon plattformunabhängig waren.
+Auf Psion-Organisern konnten Programme mit dem Gerät selbst erstellt werden.
+Durchschnittlich verbrachte ein Android-Smartphone-Nutzer mehr als 1,5 Stunden am Tag in Apps.
+Die Liste der beliebtesten Apps (die meisten Downloads) in Deutschland führt 2016 WhatsApp an, gefolgt von Facebook Messenger und Facebook-App.
+Somit muss ein Softwareunternehmen die Anwendung für jedes Endgerät einzeln entwickeln.
+Nachteile von Web-Apps sind, dass sie nicht auf alle Hardware-Komponenten zugreifen können und dass die zur Verfügung stehende Datenübertragungsgeschwindigkeit eine wichtige Rolle spielt.
+Das Zwischenspeichern der benötigten Daten in einem lokalen Speicher (Cache) stellt einen praktikablen Ausweg dar, um diese auch im Offline-Betrieb zur Verfügung zu stellen.
+Mobile Web-Apps können, im Gegensatz zu allen anderen Typen von mobilen Apps, nicht in App Stores angeboten werden.
+In Folge des großen Markterfolgs von Smartphones und Tablets haben praktisch alle Hersteller mobiler Betriebssysteme eigene Plattformen entwickelt, um die für ihre jeweiligen Geräte entwickelten Apps zu vermarkten.
+Es gibt grundsätzlich verschiedene Wege, wie eine App auf ein Gerät gelangt: direkt über die mobile Internetverbindung oder WLAN des Geräts oder mit Hilfe eines PC, mit dem über entsprechende Software (wie etwa iTunes) bei Anbindung des Mobilgeräts Apps installiert werden können.
+Viele Apps sammeln zudem Daten über automatisierte Analytics-Dienste, wie Google Analytics oder Twitters Fabric.
+Dieser ist ein Mechanismus, bei dem beim bloßen Anklicken eines eingeblendeten Werbebanners Kosten über den Mobilfunkbetreiber eingetrieben werden oder ein kostenpflichtiges Abonnement startet.

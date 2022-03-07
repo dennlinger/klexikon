@@ -1,0 +1,18 @@
+Bei der Informatik handelt es sich um die Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen, wobei besonders die automatische Verarbeitung mit Digitalrechnern betrachtet wird.
+Sie ist zugleich Grundlagen- und Formalwissenschaft als auch Ingenieurdisziplin.
+Ebenfalls 1969 begann die Ingenieurschule Furtwangen (später Fachhochschule Furtwangen) mit der Ausbildung, hier noch Informatorik genannt.
+Diese Formalisierungen erlangten für die Entwicklung der Programmiersprachen große Bedeutung.
+Einige dieser Sprachen stehen für typische Programmierparadigmen ihrer jeweiligen Zeit.
+Auch die Auswirkungen auf die Gesellschaft werden interdisziplinär untersucht.
+Die Resultate finden schließlich Verwendung in der Angewandten Informatik.
+Ein entscheidbares Problem ist zum Beispiel die Eigenschaft eines Texts, ein syntaktisch korrektes Programm zu sein.
+Sie beschäftigt sich mit der systematischen Erstellung von Software.
+Ein Beispiel sind drahtlose Sensornetze zur Umweltüberwachung.
+Echtzeitsysteme sind darauf ausgelegt, dass sie auf bestimmte zeitkritisch ablaufende Prozesse der Außenwelt mit angemessener Reaktionsgeschwindigkeit rechtzeitig antworten können.
+Protokolle sind dabei die Sprachen, in denen Rechner untereinander Information austauschen.
+Schlagworte in diesem Zusammenhang sind beispielsweise Middleware, Grid-Computing und Cloud Computing.
+Rund um die Informatik haben sich einige interdisziplinäre Teilgebiete und Forschungsansätze entwickelt, teilweise zu eigenen Wissenschaften.
+Das Information Engineering der Informationssysteme und das Informationsmanagement spielen im Rahmen der Wirtschaftsinformatik eine gewichtige Rolle.
+Sie ist ein Teilbereich der Künstlichen Intelligenz, aber auch gleichzeitig Schnittstelle zwischen Angewandter Linguistik und Angewandter Informatik.
+Ein Beispiel aus der schwachen KI ist die Fuzzylogik.
+Die dabei untersuchten Wechselwirkungen der Informatik umfassen die unterschiedlichsten Aspekte.

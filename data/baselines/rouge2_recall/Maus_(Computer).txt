@@ -1,0 +1,17 @@
+Eine Computermaus (umgangssprachlich auch Maus genannt) ist ein Eingabegerät (Befehlsgeber) bei Computern.
+Der erste Prototyp wurde 1963 nach Zeichnungen von Douglas C. Engelbart gebaut; seit Mitte der 1980er Jahre bildet die Maus für fast alle Computertätigkeiten zusammen mit dem Monitor und der Tastatur eine der wichtigsten Mensch-Maschine-Schnittstellen.
+Die Bewegung der Maus, ausgeführt mit der Hand auf dem Arbeitsplatz - gegebenenfalls mit einer geeigneten Unterlage, wie dem Mauspad - wird über einen Sensor in der Maus aufgenommen, digitalisiert und über eine Schnittstelle an den angeschlossenen Computer übertragen.
+Das Betriebssystem setzt diese zweidimensionale Bewegungsinformation in eine gleichartige Bewegung des Mauszeigers auf dem Bildschirm um.
+Im Dezember 1968 wurde sie auf der Herbsttagung der American Federation of Information Processing Societies (AFIPS) der Öffentlichkeit präsentiert.
+Die Maus fand zunächst wenig Beachtung, da es noch keine grafischen Benutzeroberflächen gab und die Menschen, die mit Computern zu tun hatten, mit der Eingabe von Kurzbefehlen per Tastatur vertraut waren.
+Auch wenn unklar ist, wer zuerst die Idee zu einer Maus hatte, so ist Telefunken in jedem Fall die erste Firma, die eine solche kommerziell herstellte und die im Gegensatz zu Engelbarts Maus durch die Kugel eine freie Positionierung erlaubte.
+Erstmals in der PC-Geschichte basierte die Mensch-Maschinen-Schnittstelle von Lisa auf dieser Maus, und zwar so exklusiv, dass der Computer ohne Maus praktisch nicht zu bedienen war.
+Seit 1991 sind kabellose Mäuse verfügbar, die über Funk mit dem Computer kommunizieren.
+Ende 2002 wurde von Microsoft und Logitech eine Maus vorgestellt, die über Bluetooth per HID-Profil mit dem PC kommuniziert, seit 2003 kann mit einem Produkt der Firma Belkin die Verbindung auch verschlüsselt werden.
+1995 stellte Genius die Mouse Systems ProAgio und die Genius EasyScroll vor, die zwischen den beiden Maustasten ein zusätzliches Scrollrad aufwiesen, um zum Beispiel innerhalb eines Fensters schneller auf- und abscrollen zu können.
+Über Betriebssystem-Routinen wird eine Markierung (Mauszeiger) auf dem Bildschirm entsprechend der Mausbewegung bewegt.
+Die erste Maus von Engelbart hatte lediglich eine Taste.
+Es sind auch kabellose Mäuse ohne interne Stromversorgung verfügbar, die per Induktion von einem speziell mitgelieferten, an einem USB-Anschluss angeschlossenes Mauspad mit Energie versorgt werden.
+Mit dem ADB wurde die Maus an die Tastatur und die Tastatur mit einem zweiten ADB an den Computer angeschlossen.
+Ein Doppelklick kann ein Programm starten oder ein Wort in einem Text markieren.
+Touchscreens sind Bildschirme, die dank ihrer Berührungsempfindlichkeit zugleich als Eingabegerät dienen und somit ein separates Zeigegerät überflüssig machen, gegebenenfalls auch die Tastatur.

@@ -1,0 +1,24 @@
+Ein Fax (Kurzform von Telefax, das wiederum von Telefaksimile), auch Fernkopie genannt, ist die Übertragung eines oder mehrerer Dokumente in Form eines in Linien und Pixel gerasterten Bildes über das Telefonnetz oder per Funk (z. B. Wetterfax).
+Faxe verschicken und empfangen kann man auch von und zu einem PC mittels einer der folgenden Lösungen:
+Für Fax zwischen ISDN-Anschlüssen gibt es die Norm G4.
+Die Registrierung erfolgte auf der Empfangsseite in ähnlicher Weise.
+Erste Geräte in Deutschland finden sich in den 1970er Jahren, damals noch unter der Bezeichnung Fernkopierer.
+Die Technik der Infotec 6000 war die Basis für den heute immer noch gültigen Gruppe-3-Standard.
+1979 wurde der Faxdienst durch die Deutsche Bundespost offiziell eingeführt.
+Heimisch wurde das Faxgerät in den deutschen Büros aber erst Ende der 1980er Jahre.
+Ein weiteres Problem besteht darin, dass die Gegenstation nicht sicher identifizierbar ist.
+Programme, mit denen Faxe am PC empfangen und dann betrachtet werden können, sind zum Beispiel:
+Die relativ einfach zu implementierende MH-Kodierung wird heute noch verwendet, um mit älteren Faxgeräten oder mit Faxsoftware über die CAPI-Schnittstelle zu kommunizieren.
+Zum Beginn einer Verbindung, vor Übermittlung des Nachrichteninhalts, stimmen sich sendendes und empfangendes Gerät über die verwendete Kodierung ab.
+Im Annex E zu T.4 werden für Farbfaxe nicht nur die Auflösungen 200 dpi und 400 dpi, sondern zusätzlich 300 dpi, was 11,55 Zeilen/mm entspricht, zugelassen.
+Bei Farbfaxen gilt die Einschränkung, dass horizontale und vertikale Auflösung übereinstimmen müssen.
+Um eine Zeile mit 1728 Bildpunkten auf A4 darzustellen, wird eine Auflösung von 209 dpi benötigt.
+Zum Schutz vor unbefugter Veränderung war die Absendernummer nur in einem versteckten Servicemodus einstellbar.
+Nach dem Senden eines Fax kann ein Sendebericht ausgedruckt werden.
+Eine Sonderform ist der "qualifizierte Sendebericht".
+Hier wird zusätzlich noch der Inhalt des gesendeten Dokumentes in verkleinerter Form mit ausgedruckt.
+Damit sich die Geräte verstehen, legt das Fax-Protokoll fest, wie Sender und Empfänger aufeinander reagieren (Handshake).
+Faxübertragungen können auch über Funk erfolgen.
+Es existieren auch Kombilösungen, bei denen eine E-Mail an ein Gateway gesendet wird, welche diese dann als Fax weiterschickt (siehe Mail2Fax).
+Da das Fax über das öffentliche Fernsprechnetz gesendet wird, sind diese Lösungen zumeist kostenpflichtig.
+Auch den umgekehrten Weg gibt es.

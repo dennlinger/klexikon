@@ -1,0 +1,15 @@
+Im engeren Sinn bezeichnet Bruchrechnung das Rechnen mit gemeinen Brüchen (manchmal auch gewöhnlichen Brüchen) in der "Zähler-Bruchstrich-Nenner-Schreibweise" (siehe unten).
+Auch hier spricht man immer dann von "Bruchrechnung", wenn diese Regeln angewendet werden.
+Einen Kuchen kann man zum Beispiel in vier Teile teilen.
+Wenn diese Teile gleich groß sind, so ist jedes Teil ein Viertel des Kuchens.
+Wenn, wie im Bild, eines der Viertel schon fehlt, so sind drei Viertel Kuchen dargestellt.
+Geschrieben wird dies gewöhnlich in der "Zähler-Bruchstrich-Nenner-Schreibweise":
+Man kann diesen auch so deuten:
+Jeder Bruch kann nämlich auch als Divisionsaufgabe verstanden werden.
+Dabei ist der Zähler Z {\displaystyle Z} der Dividend, der Nenner N {\displaystyle N} der Divisor:
+Das Entscheidende bei der Bruchrechnung ist, dass hier jede Division (außer durch null) möglich ist und ein einfach darstellbares Ergebnis hat, während ja im Bereich der ganzen Zahlen die Teilbarkeitsregeln gelten.
+Dies darf nicht verwechselt werden mit dem Umformen von Brüchen, wobei ein einziger Bruch eine neue Form erhält, ohne dass sein Wert sich ändert.
+Umgekehrt kann man bei einem unechten Bruch die Bruchteile, die Ganze ergeben, abspalten und die verbleibenden als Bruch anfügen.
+Das Produkt der Zähler ist dann der Zähler des Ergebnisses, das Produkt der Nenner ist dann der Nenner des Ergebnisses.
+Die Division wird also auf die Multiplikation zurückgeführt.
+Beim Multiplizieren von Bruchtermen müssen sowohl die Zähler als auch die Nenner multipliziert werden.

@@ -1,0 +1,34 @@
+Kraft ist ein grundlegender Begriff in der Physik.
+Kräfte sind erforderlich, um Arbeit zu verrichten, wobei sich die Energie eines Körpers oder eines physikalischen Systems ändert.
+Kräfte sind gerichtete physikalische Größen, die durch Vektoren dargestellt werden können.
+Allgemein gilt, dass sie zu einer resultierenden Kraft zusammengefasst werden können, die mithilfe eines Kräfteparallelogramms ermittelt wird.
+Die SI-Maßeinheit der Kraft ist das Newton.
+Das Wort Kraft ist urgermanischen Ursprungs und verband sich mit einer Muskelanspannung.
+Außerhalb der Physik bezeichnet Kraft
+Stevin leitete auch als Erster die Gleichgewichtsbedingung auf der schiefen Ebene her.
+Beim geworfenen Stein wurde angenommen, dass es die umgebende Luft ist, die ihn weiter vorantreibt.
+Dieser Kraftbegriff gilt nach weiterer Präzisierung durch Leonhard Euler und Jean-Baptiste le Rond d'Alembert noch, er gehört zu den Grundlagen der klassischen Mechanik.
+Eine Kraft kann über eine Weg-Zeit-Messung bestimmt werden, wenn sie eine Beschleunigung verursacht.
+Dabei wird das hookesche Gesetz genutzt, dem zufolge die Ausdehnung geeigneter Federn zur ausgeübten Kraft proportional ist:
+Damit kann eine unbekannte Kraft durch den Vergleich mit einer bekannten Kraft, zum Beispiel der Gewichtskraft eines Massestücks bestimmt werden.
+In einem dreidimensionalen kartesischen Koordinatensystem hat ein Kraftvektor drei Komponenten:
+Auch dann haben beide Kräfte noch verschiedene Angriffspunkte, liegen jedoch auf einer Wirklinie, sodass sie sich gegenseitig kompensieren können.
+Das ist der Inhalt des Trägheitsprinzips, wie es schon Galilei formulierte.
+Die Kraft auf den betrachteten Körper entspricht also dem Produkt aus seiner Masse und seiner Beschleunigung.
+Die Verwendung des Wortes Kraft in Newtons Schriften ist nicht immer eindeutig.
+gilt, dann spricht man vom Kräftegleichgewicht.
+In ihrer Stärke und Richtung sind sie abhängig von den vorher festgelegten Schnitten.
+Wie die Gravitationskraft oder der Magnetismus greifen sie am ganzen Volumen an, d. h. auch im Innern eines freigeschnittenen Körpers.
+Auf den Taucher wirkt, auch unter Wasser, die Schwerkraft als Volumenkraft.
+Da nur die Volumenkraft, nicht aber die Oberflächenkraft auf das Gleichgewichtsorgan wirkt, kann man auch unter Wasser oben von unten unterscheiden.
+Das aus den Formeln gefolgerte deterministische Weltbild musste daher in seiner ursprünglichen Form verworfen werden.
+Durch das Wirken einer Kraft kann sich die Energie eines Körpers verändern.
+Insbesondere wird keine Arbeit geleistet, wenn die Kraft mit dem Weg einen rechten Winkel bildet:
+In solchen Fällen spricht man von einer konservativen Kraft.
+Die Abstraktion geschieht, indem das Vektorfeld der Kraft durch die Ladung geteilt wird.
+Es ist das Kreuzprodukt von Kraftarm und Kraft:
+Ein geeigneter außenstehender Beobachter erklärt die Wirkungen einfach durch die Anwendung des Trägheitsprinzips ohne weitere Kräfte.
+Die Gerade als Modell für die Geradeausbewegung des freien Körpers gibt es nur in ungekrümmten (also gravitationsfreien) Räumen.
+Bei der Wechselwirkung kleinster Teilchen liefern Experimente Ergebnisse, die der klassischen Mechanik widersprechen.
+Während die Kraft selbst nicht quantisiert ist, können Kräfte eine Quantelung der möglichen Teilchenenergien bewirken.
+Es gibt quantenmechanische Effekte, die sich wie eine Kraft bemerkbar machen, aber nicht auf eine der Grundkräfte zurückzuführen sind.

@@ -1,0 +1,20 @@
+Die Grundrechenarten (auch Grundrechnungsarten oder schlicht Rechenarten genannt) sind die vier mathematischen Operationen Addition, Subtraktion, Multiplikation und Division.
+Für die beiden Grundoperationen gelten eine Reihe von Rechenregeln, wie die Kommutativgesetze, die Assoziativgesetze und die Distributivgesetze.
+Die Addition ist der Vorgang des Zusammenzählens zweier (oder mehrerer) Zahlen.
+Das Ergebnis der Addition natürlicher Zahlen ist wieder eine natürliche Zahl.
+Durch Auswendiglernen und elementare Rechentechniken können kleine Zahlen im Kopf addiert werden.
+Die Subtraktion ist der Vorgang des Abziehens einer Zahl von einer anderen Zahl.
+Sind Minuend und Subtrahend gleich, erhält man als Ergebnis die Zahl Null, die oft auch zu den natürlichen Zahlen gezählt wird.
+Die Division ist der Vorgang des Teilens einer Zahl durch eine andere Zahl.
+Der Operator für die Division ist das Geteiltzeichen :
+(oder /), die beiden Operanden werden Dividend und Divisor genannt, der Term Quotient und das Ergebnis heißt Quotientenwert / Wert des Quotienten:
+Andernfalls erhält man eine Bruchzahl.
+Die Grundrechenarten werden während der ersten Schuljahre im Mathematikunterricht behandelt.
+Es werden Kopfrechnen, schriftliches Rechnen, Überschlagsrechnen und Anwendungen in Form von Textaufgaben eingeübt.
+Für die Addition und die Multiplikation gelten die Kommutativgesetze
+das heißt das Ergebnis einer Summe oder eines Produkts ist unabhängig von der Reihenfolge der Summanden bzw. Faktoren.
+Diese Sichtweise wird dann auf andere Zahlbereiche, wie ganze oder rationale Zahlen, übertragen.
+Für die Grundoperationen erhält man die folgenden algebraischen Strukturen:
+Spezielle Strukturen entstehen bei der Betrachtung endlicher Mengen, zum Beispiel Restklassenringe als mathematische Abstraktion einer Division mit Rest.
+Alle vier Grundrechenarten waren bereits in der altägyptischen Mathematik und in der babylonischen Mathematik bekannt.
+Welche arithmetischen Operationen zu den Grundrechenarten gezählt werden, hat sich im Lauf der Zeit stark gewandelt.

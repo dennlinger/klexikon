@@ -1,0 +1,12 @@
+Ein Quader ist ein geometrischer Körper, der von 6 Rechtecken begrenzt wird.
+Ein Quader besitzt
+Der Quader ist ein rechtwinkliges dreidimensionales Parallelepiped.
+Jeder Quader ist
+Es gibt verschiedene Optimierungsprobleme für Quader.
+Sucht man einen Quader, der bei
+Ist zum Beispiel bei gegebenem Umkugelradius der Quader mit dem größten Volumen gesucht, dann lassen sich die Kantenlängen a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} des Quaders mithilfe der partiellen Ableitungen der Volumenfunktion V ( a , b ) = a * b * c = a * b * d 2 - a 2 - b 2 = a * b * 4 * r u 2 - a 2 - b 2 {\displaystyle V(a,b)=a\cdot b\cdot c=a\cdot b\cdot {\sqrt { d^{2}-a^{2}-b^{2}}}=a\cdot b\cdot {\sqrt {4\cdot r_{u}^{2}-a^{2}-b^{2}} }} berechnen oder mit Beweis durch Widerspruch:
+Ein Euler-Ziegel ist ein Quader, bei dem die Längen der Kanten und Flächendiagonalen ganzzahlige Werte haben.
+Er ist nach Leonhard Euler benannt.
+Er wird von 3 Dreiecken aufgespannt, deren Kantenlängen pythagoreische Tripel sind, und deren rechte Winkel an einer Ecke zusammenstoßen.
+wobei g die Raumdiagonale ist.
+Stillschweigend können wir annehmen, dass der Boden des quaderförmigen Schwimmbeckens orthogonal zum Erdmittelpunkt ist, also überall fast dieselbe Höhe über dem Meeresspiegel hat, und dass der Wasserstand des Schwimmbeckens überall gleich hoch ist.

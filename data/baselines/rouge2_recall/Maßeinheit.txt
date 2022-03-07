@@ -1,0 +1,14 @@
+Werte von geometrischen und physikalischen Größen werden in Maßeinheiten (auch Größeneinheit oder physikalische Einheit) angegeben, die einen eindeutigen (in der Praxis feststehenden, wohldefinierten) Wert haben.
+Für Größen der Dimension Zahl kann eine Hilfsmaßeinheit benützt werden.
+Zur Vermeidung von Messwerten mit sehr großen oder sehr kleinen Zahlen können bei den meisten Einheiten Vorsätze für Maßeinheiten verwendet werden (Ausnahmen z. B. bei Grad Celsius oder Minute).
+Einheiten können zu Einheitensystemen zusammengefasst werden wie z. B. dem Internationalen Einheitensystem oder dem angloamerikanischen Maßsystem.
+Bei Maßangaben steht zwischen der Zahl und dem Einheitenzeichen ein Leerzeichen; eine Trennung durch Zeilenumbruch ist zu vermeiden.
+Der Wert einer physikalischen Größe ist im Allgemeinen das Produkt aus einer Zahl und einer physikalischen Einheit.
+Um diesen Wert mit einer anderen Einheit (derselben Größenart) darzustellen, kann man dieses Produkt umformen und bekannte Beziehungen zwischen den Einheiten einsetzen.
+Beispiel: Ein Tisch habe eine Höhe von 75 cm.
+Oft ist eine Einheit ein Vielfaches der anderen (das "Vielfache" muss nicht ganzzahlig sein), in manchen Fällen ist die Beziehung aber anders.
+Ist eine Einheit ein Vielfaches der anderen, kann man die Umrechnung durchführen, indem man mit 1 multipliziert, wobei man 1 als Quotient zweier gleicher Größen in den beiden Einheiten schreibt, so dass sich die erste Einheit herauskürzt und die zweite stehenbleibt.
+Wenn die direkte Beziehung zweier Einheiten nicht bekannt ist, aber jeweils die Beziehung zu einer dritten Einheit, z. B. einer SI-Einheit, kann die Umrechnung durchgeführt werden, indem die Umrechnung in die dritte Einheit und die von dieser in die Zieleinheit verkettet werden.
+An allgemein zugänglicher Stelle angebracht, etwa in die Fassade des Rathauses eingemauert, ermöglichte es ein solches Maß jedem, seine eigenen Messgeräte zu kalibrieren.
+Maßeinheiten wurden früher sehr willkürlich und oft ohne Beziehung zueinander, aber nach praktischen Gesichtspunkten wie Längenabmessungen am menschlichen Körper festgelegt.
+Im Internationalen Einheitensystem wurde das Kilogramm bis 2019 durch die Masse des Urkilogramms in Paris definiert.

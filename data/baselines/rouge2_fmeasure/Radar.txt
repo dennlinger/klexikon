@@ -1,0 +1,16 @@
+Radar ist die Abkürzung für radio detection and ranging (frei übersetzt "funkgestützte Ortung und Abstandsmessung") oder radio direction and ranging (frei übersetzt "funkgestützte Richtungs- und Abstandsmessung"), zwischenzeitlich radio aircraft detection and ranging (frei übersetzt "funkbasierte Flugzeugortung und -abstandsmessung") und ist die Bezeichnung für verschiedene Erkennungs- und Ortungsverfahren und -geräte auf der Basis elektromagnetischer Wellen im Radiofrequenzbereich (Funkwellen).
+Da die Wellenlänge des Radars je nach Anwendung und Stand der Technik im Bereich der Funkwellen im Kurz- bis Mikrowellenbereich liegt, wurde ursprünglich die Bezeichnung Funkmeßtechnik (kurz Funkmeß) verwendet.
+Die ersten Versuche zur Ortung mit Hilfe von Radiowellen führte der deutsche Hochfrequenztechniker Christian Hülsmeyer 1904 durch.
+Beide Seiten entwickelten sogenannte Düppel, einfache Metallfolienstreifen, um die gegnerischen Radarsysteme zu stören.
+In Deutschland kam die Forschung auf dem Gebiet Radar nach dem Krieg vollständig zum Erliegen.
+Außerdem wurde das Radar auch für die zivile Schiff- und Luftfahrt eingesetzt.
+Als die Radargeräte leistungsfähiger wurden, entdeckte auch die Wissenschaft diese Technik.
+Auswertung reflektierter Oberwellen erlaubt Rückschlüsse auf den Flugzeugtyp.
+Die Laufzeit  t {\displaystyle \Delta t} des Impulses ist die Zeit zwischen dem Senden und dem Empfang des Echos.
+Für die Entfernung r {\displaystyle r} gilt der Zusammenhang:
+Wird ein Echo empfangen, dann ist der Abstand des Echoimpulses auf dem Sichtgerät ein Maß für die Entfernung des reflektierenden Objektes (hier: des Flugzeugs) zum Radargerät.
+Aus der Abhängigkeit der Stärke des Echos von der Orientierung der Antenne kann sehr genau die Richtung bestimmt werden.
+Dabei wird die über eine Antenne abgestrahlte Frequenz vom Ziel (beispielsweise einem Auto) reflektiert und mit einer gewissen Doppler-Verschiebung, also geringfügig geändert, wieder empfangen.
+Radar-Fallen der Verkehrspolizei arbeiten auf diese Weise und lösen bei Geschwindigkeitsüberschreitung bei einer bestimmten Entfernung zum Ziel den Fotoblitz aus.
+Der komplette Hochfrequenzteil eines Radars lässt sich zum Beispiel in einem einzelnen integrierten Schaltkreis unterbringen.
+Es kann zum Beispiel auf einem Berghang oder auch auf der Außenhaut eines Kriegsschiffes verteilt zu einem Großraumradar aufgebaut werden.

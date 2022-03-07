@@ -1,0 +1,32 @@
+Kraft ist ein grundlegender Begriff in der Physik.
+Kräfte sind erforderlich, um Arbeit zu verrichten, wobei sich die Energie eines Körpers oder eines physikalischen Systems ändert.
+Für zwei Kräfte, die am gleichen Punkt angreifen, gilt: Sie sind im Gleichgewicht und heben sich auf, wenn sie entgegengesetzt und gleich stark sind.
+Allgemein gilt, dass sie zu einer resultierenden Kraft zusammengefasst werden können, die mithilfe eines Kräfteparallelogramms ermittelt wird.
+Manche Arten von Kräften wurden auch nach Personen benannt, die wesentlich an ihrer Erforschung mitgewirkt haben, wie die Corioliskraft, die Coulombkraft oder die Lorentzkraft.
+Die SI-Maßeinheit der Kraft ist das Newton.
+Die Bezeichnung Kraft wird in bestimmten Fällen auch im übertragenen Sinn verwendet, gleichbedeutend mit Wechselwirkung und losgelöst von der Darstellung durch einen mechanischen Kraftvektor.
+Das Wort Kraft ist urgermanischen Ursprungs und verband sich mit einer Muskelanspannung.
+Das griechische Wort für Kraft, uva, lebt im Namen des physikalischen Teilgebiets Dynamik fort, der Lehre von der Bewegung unter dem Einfluss von Kräften.
+Ausgehend von den einfachsten Beispielen, wie willentliches Bewegen der Teile des eigenen Körpers oder anderer Gegenstände, werden dann verallgemeinernd alle Vorgänge, die einen unterstellten natürlichen Zustand oder Ablauf der Dinge verändern, auf das Einwirken von Kräften zurückgeführt.
+Die Kraft bestimmt auch die Geschwindigkeit des in Bewegung befindlichen Körpers in einer Weise, die später als eine Proportionalität zur bewirkten Geschwindigkeit gedeutet wurde.
+Im Mittelalter entstanden aus der aristotelischen Lehre unterschiedliche Bewegungslehren, die schließlich in der Impetustheorie aufgingen.
+Dieser dem Körper eingeprägte und in ihm befindliche Impetus erschlafft mit der Zeit, was durch den Widerstand des Mediums, zum Beispiel Luft, verstärkt wird.
+Dabei stellte sich heraus (u. a. durch Nikolaus Kopernikus, Galileo Galilei, Johannes Kepler), dass diese Bewegungen einfachen Regeln folgen, die von Isaac Newton durch ein gemeinsames Bewegungsgesetz erklärt werden konnten, wenn man einen neuen Kraftbegriff zugrunde legt.
+Dieser Kraftbegriff gilt nach weiterer Präzisierung durch Leonhard Euler und Jean-Baptiste le Rond d'Alembert noch, er gehört zu den Grundlagen der klassischen Mechanik.
+Eine Kraft kann über eine Weg-Zeit-Messung bestimmt werden, wenn sie eine Beschleunigung verursacht.
+Dabei wird das hookesche Gesetz genutzt, dem zufolge die Ausdehnung geeigneter Federn zur ausgeübten Kraft proportional ist:
+Es gilt F = D *  l , {\displaystyle F =D\cdot \Delta l,} wobei  l {\displaystyle \Delta l} die Längenänderung der Feder und D {\displaystyle D} die Federkonstante bezeichnet.
+Damit kann eine unbekannte Kraft durch den Vergleich mit einer bekannten Kraft, zum Beispiel der Gewichtskraft eines Massestücks bestimmt werden.
+Es wirkt so lange ein aufrichtendes Moment auf den Ballon, bis sich sein Schwerpunkt senkrecht unter seinem Formschwerpunkt befindet.
+Auch dann haben beide Kräfte noch verschiedene Angriffspunkte, liegen jedoch auf einer Wirklinie, sodass sie sich gegenseitig kompensieren können.
+} Da die Masse des Körpers in den meisten Fällen praktisch konstant bleibt (Ausnahmen sind beispielsweise Raketen oder Körper bei relativistischen Geschwindigkeiten), schreibt man das zweite newtonsche Axiom meistens in der Form F = = m d v = d t = m a = {\displaystyle {\vec {F}}=m{\tfrac {\mathrm {d} {\vec {v}}}{\mathrm {d} t}}=m{\vec {a}}} , wobei a = {\displaystyle {\vec {a}}} für die Beschleunigung des Körpers steht.
+Bei den Kräften F = i {\displaystyle {\vec {F}}_{i } } handelt es sich sowohl um die eingeprägten Kräfte, die durch Wechselwirkung mit anderen Körpern in der Umgebung entstehen, als auch um die inneren Kräfte, die zwischen Teilen des Körpers aufscheinen.
+Wie die Gravitationskraft oder der Magnetismus greifen sie am ganzen Volumen an, d. h. auch im Innern eines freigeschnittenen Körpers.
+Die Schwerelosigkeit im All, wo der Astronaut ebenfalls ohne Gewicht ist, kann man betrachten als Zustand, bei dem außer der Gravitation keine weitere Kraft wirkt, insbesondere also auch nicht die sonst von einer Unterlage ausgeübte Stützkraft.
+In diesem Fall funktioniert das Gleichgewichtsorgan nicht (die Folge ist häufig die sogenannte Raumkrankheit), der Raumfahrer kann sich bei geschlossenen Augen nicht orientieren.
+Insbesondere wird keine Arbeit geleistet, wenn die Kraft mit dem Weg einen rechten Winkel bildet:
+Wird der Expander, um beim obigen Beispiel zu bleiben, einseitig fixiert und das andere Ende im Raum bewegt, so ändern sich von Punkt zu Punkt systematisch Richtung und Betrag der Kraft.
+Es ist das Kreuzprodukt von Kraftarm und Kraft:
+Ein geeigneter außenstehender Beobachter erklärt die Wirkungen einfach durch die Anwendung des Trägheitsprinzips ohne weitere Kräfte.
+Es gibt quantenmechanische Effekte, die sich wie eine Kraft bemerkbar machen, aber nicht auf eine der Grundkräfte zurückzuführen sind.
+Eines der Ziele der Physik ist es, in einer großen vereinheitlichten Theorie alle Grundkräfte oder Wechselwirkungen in einem vereinheitlichten Gesamtkonzept zu beschreiben, wie in der Tabelle dargestellt.

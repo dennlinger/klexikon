@@ -1,0 +1,29 @@
+Ein Mittelwert (kurz auch nur Mittel; anderes Wort Durchschnitt) ist eine, nach einer bestimmten Rechenvorschrift, aus gegebenen Zahlen ermittelte weitere Zahl.
+Einige von beliebig vielen berechenbaren Mittelwerten sind das arithmetische, das geometrische und das quadratische Mittel.
+Mittelwerte werden am häufigsten in der Statistik angewendet, wobei mit Mittel oder Durchschnitt meistens das arithmetische Mittel gemeint ist.
+Der Mittelwert ist ein Kennwert für die zentrale Tendenz einer Verteilung.
+Die klassische Ungleichung zwischen harmonischem, geometrischem und arithmetischem Mittel geht dabei über in allgemeinere Ungleichungen zwischen Potenzmittelwerten bzw. quasi-arithmetischen Mittelwerten.
+Den meistbenutzten Mittelwert, das arithmetische Mittel, kann man z. B. mithilfe gleich schwerer Kugeln auf einer Wippe visualisieren, die aufgrund der Hebelgesetze durch ein Dreieck (Drehpunkt) ausbalanciert sind.
+Das harmonische Mittel findet Verwendung, wenn die Zahlen im Bezug auf eine Einheit definiert sind.
+Dazu wird die Anzahl der Werte durch die Summe der Kehrwerte der Zahlen geteilt.
+Mit dem geometrischen Mittel errechnet man den mittleren Wachstumsfaktor.
+Die Wertetabelle wird also als die Angabe von Wachstumsfaktoren interpretiert.
+Ein tägliches Wachstum der Bakterienkultur um das 2,83-Fache hätte also nach sieben Tagen zum selben Ergebnis geführt.
+Das geometrische Mittel mittelt also bzgl. der arithmetischen Verknüpfung "Produkt".
+oder nach dem geometrischen Mittel aufgelöst
+Für zwei (positive) Variablen gibt es auch eine grafische Veranschaulichung:
+Der Median beschreibt einen Wert, der den Datensatz in zwei Hälften teilt, während der Modus den Wert mit der höchsten Häufigkeit im Datensatz angibt.
+Auch ist es möglich, da der Median ein Quantil der Verteilung beschreibt, dass dieser einen Wert aus der Ausgangsmenge beschreibt.
+Der Median wird allgemein mit der folgenden Rechenvorschrift ermittelt.
+Für x a  x b {\displaystyle x_{a}\neq x_{b} } liegt der logarithmische Mittelwert zwischen dem geometrischen und dem arithmetischen Mittelwert (für x a = x b {\displaystyle x_{a}=x_{b} } ist er wegen der Division durch null nicht definiert).
+Beim Trimmen schneidet man sodann eine gleiche Anzahl von Werten am Anfang und am Ende der Folge ab und berechnet von den übrig bleibenden Werten den Mittelwert.
+Indes ist der 10-%-winsorisierte Mittelwert gleich
+Das Quartilsmittel ist robuster als das arithmetische Mittel, aber weniger robust als der Median.
+Gleitende Durchschnitte werden in der dynamischen Analyse von Messwerten angewandt.
+Mit gleitenden Durchschnitten kann das stochastische Rauschen aus zeitlich voranschreitenden Signalen herausgefiltert werden.
+Jedoch muss beachtet werden, dass die meisten gleitenden Durchschnitte dem echten Signal hinterherlaufen.
+Gleitende Durchschnitte benötigen normalerweise eine unabhängige Variable, die die Größe der nachlaufenden Stichprobe bezeichnet, bzw. das Gewicht des vorangehenden Wertes für die exponentiellen gleitenden Durchschnitte.
+Es gibt eine Reihe weiterer Funktionen, mit denen sich die bekannten und weitere Mittelwerte erzeugen lassen.
+Man beachte, dass sowohl Notation als auch Bezeichnung uneinheitlich sind.
+Das Lehmer-Mittel ist ein anderer verallgemeinerter Mittelwert; zur Stufe p {\displaystyle p} ist es definiert durch
+Das arithmetische Mittel einer stetigen Funktion f ( x ) {\displaystyle f(x)} in einem geschlossenen Intervall {\displaystyle } ist

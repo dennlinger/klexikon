@@ -1,0 +1,16 @@
+Eine Suchmaschine ist ein Programm zur Recherche von Dokumenten, die in einem Computer oder einem Computernetzwerk wie z. B. dem World Wide Web gespeichert sind.
+Die wesentlichen Bestandteile bzw. Aufgabenbereiche einer Suchmaschine sind:
+Suchmaschinen sind Metamedien, die gezielt Inhalte anderer Medien auffinden und abgreifen.
+Eine Personensuchmaschine findet öffentlich verfügbare Informationen zu Namen und Personen, die als Linkliste dargestellt werden.
+Letztere werden vorrangig von Online-Preisvergleichen eingesetzt, es gibt aber auch schon lokale Angebotssuchen, die Produkte und Angebote stationärer Einzelhändler online darstellen.
+Dieser Abschnitt beschreibt Unterschiede in der Realisierung des Betriebs der Suchmaschine.
+Dadurch lassen sich Webseiten finden, die bestimmte Begriffe enthalten, andere jedoch nicht.
+Die Ergebnismenge wird so um Treffer auf semantisch verwandte, in der Anfrage jedoch nicht explizit eingegebene Suchbegriffe, erweitert.
+Es gibt daneben auch Suchmaschinen, die nur mit streng formalisierten Abfragesprachen abgefragt werden können, dadurch in der Regel jedoch auch sehr komplexe Anfragen sehr präzise beantworten können.
+Viele mögliche Treffer gehen verloren, weil der Nutzer nach einer bestimmten grammatikalischen Form eines Suchbegriffes sucht.
+Eine weitere Möglichkeit ist der Einsatz statistischer Verfahren, mit denen die Suchmaschine die Anfrage z. B. durch das Auftauchen verschiedener verwandter Begriffe auf Webseiten danach bewertet, ob mit der Suche nach Auto reparieren auch die Suche nach Autos reparatur oder Automatismus repariert gemeint gewesen sein könnte.
+Dazu gehören:
+Mittels Suchmaschinen-Spamming versuchen manche Website-Betreiber, den Ranking-Algorithmus der Suchmaschinen zu überlisten, um eine bessere Platzierung für gewisse Suchanfragen zu bekommen.
+Vor allem bei einer Personensuchmaschine ist der Datenschutz ein heikles Thema.
+Die Personensuchmaschine selbst hält keine eigenen Informationen vor, sondern vermittelt nur den Zugang zu diesen.
+Weitere rechtliche Fragen ergeben sich bzgl. der Anzeige von Daten durch die Autovervollständigung (siehe Rechtslage in Deutschland).

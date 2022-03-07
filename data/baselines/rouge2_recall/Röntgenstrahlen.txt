@@ -1,0 +1,14 @@
+Röntgenstrahlung oder Röntgenstrahlen sind elektromagnetische Wellen mit Quantenenergien oberhalb etwa 100 eV, entsprechend Wellenlängen unter etwa 10 nm.
+Gammastrahlung sind Photonen, die durch Kernreaktionen oder radioaktive Zerfälle entstehen, während Röntgenstrahlung aus der Geschwindigkeitsänderung geladener Teilchen herrührt.
+Die Röntgenstrahlung wurde am 8. November 1895 von Wilhelm Conrad Röntgen entdeckt und trägt seinen Namen im deutschsprachigen sowie fast im gesamten mittel- und osteuropäischen Raum.
+In anderen Sprachräumen wird sie häufig mit dem von Röntgen ursprünglich selbst verwendeten Ausdruck X-Strahlen bezeichnet.
+Die Lage des Intensitätsmaximums hängt von der Betriebsspannung der Röhre ab.
+Beide Effekte werden in der Röntgenröhre ausgenutzt, in der Elektronen zunächst von einer Glühwendel (Kathode) aus beschleunigt werden, dabei setzen sie keine Röntgenstrahlung frei, weil die Beschleunigung nicht groß genug ist, und anschließend auf die als Metallblock ausgeführte Anode treffen, in der sie stark abgebremst werden.
+Die Anoden bestehen heute meist aus Keramik, wobei die Stellen, auf welche die Elektronen auftreffen, aus Metallen wie Molybdän, Kupfer oder Wolfram gefertigt sind.
+Röntgen-Bremsstrahlung entsteht prinzipbedingt und meist unerwünscht in verschiedenen technischen Geräten wie etwa Elektronenmikroskopen, Elektronenstrahlschweißgeräten und im Bereich der Leistungsstufen von großen Radaranlagen, wo Elektronenröhren wie das Magnetron oder Amplitron zur Erzeugung großer Leistung von nichtionisierender Strahlung eingesetzt werden und im Betrieb zusätzlich Röntgenstrahlung abgeben.
+Weitere technische Quellen, mit nur noch historischer Bedeutung, waren die ersten Farbfernsehempfangsgeräte ab den 1960er Jahren mit Kathodenstrahlröhren, da die Farbbildröhren höhere Anodenspannungen als einfärbige Kathodenstrahlröhren bedingen.
+Röntgenstrahlung, die auf anderen Himmelskörpern entsteht, erreicht die Erdoberfläche nicht, weil sie durch die Atmosphäre abgeschirmt wird.
+Das hat zur Folge, dass eine einzelne Röntgenlinse lediglich schwach fokussiert oder defokussiert und man für einen stärkeren Effekt Linsenstapel benötigt.
+Trotzdem hat man in der Röntgenoptik Wege gefunden, optische Bauelemente für Röntgenstrahlen zu entwickeln.
+Man kann mit Röntgenstrahlen auch Krebs bekämpfen, indem man die Krebszellen, die i. A. strahlungsempfindlicher als das umgebende Gewebe sind, im Rahmen einer Strahlentherapie durch gezielte Bestrahlung schädigt.
+In den von Johann Hittorf und William Crookes entwickelten Röhren, die auch Röntgen für seine Experimente verwendete, entsteht Röntgenstrahlung, die in Experimenten von Crookes und ab 1892 von Heinrich Hertz und seinem Schüler Philipp Lenard durch Schwärzung von fotografischen Platten nachgewiesen wurde, ohne sich aber offenbar über die Bedeutung der Entdeckung im Klaren zu sein.

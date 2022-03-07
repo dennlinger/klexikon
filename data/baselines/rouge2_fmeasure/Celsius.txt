@@ -1,0 +1,10 @@
+Das Grad Celsius ist eine Maßeinheit der Temperatur, die nach Anders Celsius benannt wurde.
+Die Verwendung des großen T ist falsch, da T der absoluten Temperatur in Kelvin vorbehalten ist.
+Der Bereich zwischen diesen Fixpunkten, gemessen mit einem Quecksilberthermometer, ist in 100 gleich lange Abschnitte eingeteilt, die als Grad bezeichnet sind.
+Das Symbol für die Maßeinheit ist eine Kombination aus dem Gradzeichen und dem Großbuchstaben "C".
+Der Zahlenwert steht davor, wie bei Maßeinheiten üblich getrennt durch ein Leerzeichen.
+Die Temperaturdifferenz  t {\displaystyle \Delta t} ist der Unterschied in der Temperatur von zwei Messpunkten, die sich in der Zeit oder der räumlichen Position unterscheiden.
+Da die Kelvin- und die Celsius-Skala um einen festen Wert gegeneinander verschoben sind, stimmen die Zahlenwerte von Temperaturdifferenzen bei der Verwendung der Einheiten Kelvin und Grad Celsius überein:
+Temperaturen in Grad Celsius lassen sich über eine Zahlenwertgleichung wie folgt exakt umrechnen:
+Die Fixpunkte, mit denen die Skalen ursprünglich definiert wurden, sind farblich hervorgehoben und exakt in die anderen Skalen umgerechnet.
+Heute haben sie ihre Rolle als Fixpunkte verloren und gelten nur noch näherungsweise.

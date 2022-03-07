@@ -1,0 +1,33 @@
+Ein Kreis ist eine ebene geometrische Figur.
+Der Abstand der Kreispunkte zum Mittelpunkt ist der Radius oder Halbmesser des Kreises, er ist eine positive reelle Zahl.
+Besonders in der griechischen Antike war der Kreis wegen seiner Vollkommenheit von großem Interesse.
+Beispielsweise versuchte Archimedes erfolglos, mit den Werkzeugen Zirkel und Lineal den Kreis in ein Quadrat mit gleichem Flächeninhalt zu überführen, um so den Flächeninhalt des Kreises bestimmen zu können.
+Ein solches Verfahren zur Berechnung des Flächeninhalts nennt man die Quadratur des Kreises.
+Da das Wort "Kreis" aber oft ungenau auch für die eingeschlossene Fläche benutzt wird, verwendet man zur Verdeutlichung häufig die Begriffe Kreislinie, Kreisrand oder Kreisperipherie anstatt Kreis - im Gegensatz zur Kreisfläche oder Kreisscheibe.
+Eine Verbindungsstrecke von zwei Punkten auf der Kreislinie bezeichnet man als Kreissehne.
+Die längsten Kreissehnen sind diejenigen, die durch den Mittelpunkt verlaufen, also die Durchmesser.
+Ein Kreissektor (Kreisausschnitt) ist eine Fläche, die von zwei Radien und einem dazwischen liegenden Kreisbogen begrenzt wird.
+Dabei ist der Radius r {\displaystyle r} eine positive reelle Zahl, und M X  {\displaystyle {\overline {\mathrm {MX} }} } bezeichnet die Länge der Strecke {\displaystyle } .
+Manchmal wird auch jede Strecke, die den Mittelpunkt mit einem Punkt auf der Kreislinie verbindet, als Radius bezeichnet, und jede Strecke, die durch den Mittelpunkt geht, und deren beide Endpunkte auf der Kreislinie liegen, als Durchmesser.
+Damit begründeten sie die Sehnengeometrie, die später von Hipparch weiterentwickelt wurde und die Claudius Ptolemaios an den Anfang seines astronomischen Lehrbuches Almagest stellte.
+Er brachte Wissen über die Geometrie aus Ägypten mit nach Griechenland, wie zum Beispiel die Aussage, dass der Durchmesser den Kreis halbiert.
+Der dritte Band der Elemente beschäftigte sich mit der Lehre über den Kreis.
+Von Archimedes, der vermutlich zwischen 287 v. Chr. und 212 v. Chr. auf Sizilien lebte, ist eine ausführliche Abhandlung mit dem Titel Kreismessung überliefert.
+Der Flächeninhalt des Kreises lässt sich also als  * Radius * Umfang angeben.
+Mit dieser Erkenntnis führte er das Problem der Quadratur des Kreises auf die Frage der Konstruierbarkeit des Umfangs aus dem vorgegebenen Radius zurück.
+Archimedes gibt hier eine gute Näherung der Proportionalitätskonstante an.
+Mit dieser Konstruktion war es Archimedes möglich, den Umfang eines Kreises auf einer Geraden abzutragen.
+Seine Erkenntnisse gehen auf seine Vorgänger Euklid und Aristaios (um 330 v. Chr.) zurück, deren verfasste Abhandlungen über Kegelschnitte jedoch nicht mehr überliefert sind.
+Wendet man auch diese Gleichungen speziell auf den Einheitskreis an, so erhält man:
+Der Flächeninhalt der Kreisfläche A {\displaystyle A} (lat. area: Fläche) ist proportional zum Quadrat des Radius r {\displaystyle r} bzw. des Durchmessers d {\displaystyle d} des Kreises.
+Die Kreisfläche ist zerlegungsgleich mit der Fläche der rechten Figur.
+Anschaulich gibt die Krümmung in jedem Punkt P { \displaystyle \mathrm {P} } an, wie stark der Kreis in der unmittelbaren Umgebung des Punktes P {\displaystyle \mathrm {P} } von einer Geraden abweicht .
+Im Gegensatz zu anderen mathematischen Kurven hat der Kreis in jedem Punkt die gleiche Krümmung.
+Aus den Seiten lassen sich die Flächen der Vielecke durch Dreiecksflächenberechnung exakt bestimmen.
+Entsprechend kann man mit einem Sechseck verfahren, das von außen an den Kreis gezeichnet ist, dessen Seitenmitten also auf ihm liegen.
+Formal ergibt sich dafür die orthogonale Gruppe O ( 2 ) {\displaystyle \mathrm {O} (2)} , das ist die Gruppe der orthogonalen 2 x 2 {\displaystyle 2\times 2} -Matrizen.
+Gegeben sei ein Punkt P {\displaystyle \mathrm {P} } außerhalb eines Kreises k {\displaystyle k} mit Mittelpunkt M {\displaystyle \mathrm {M} } und es sollen die beiden Tangenten an den Kreis konstruiert werden, die durch den Punkt P {\displaystyle \mathrm {P} } laufen.
+Die Fläche eines Kreises lässt sich geometrisch verdoppeln, indem ein Quadrat gezeichnet wird, dessen eine Ecke im Kreismittelpunkt liegt, wobei zwei weitere Ecken auf dem Kreisbogen liegen.
+Ein weiteres bereits in der Antike untersuchtes Konstruktionsproblem ist die Kreisteilung.
+In der Differentialgeometrie, einem Teilgebiet der Analysis, das geometrische Formen mit Hilfe der Differential- und Integralrechnung untersucht, werden Kreise als spezielle Kurven angesehen.
+Ein Kreis ist die Menge aller Punkte in der Ebene, für die der Quotient q {\displaystyle q} ihrer Abstände von zwei gegebenen Punkten konstant ist.

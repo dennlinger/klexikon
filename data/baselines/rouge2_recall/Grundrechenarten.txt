@@ -1,0 +1,21 @@
+Die Grundrechenarten (auch Grundrechnungsarten oder schlicht Rechenarten genannt) sind die vier mathematischen Operationen Addition, Subtraktion, Multiplikation und Division.
+Die Beherrschung der Grundrechenarten gehört zu den Grundfertigkeiten Lesen, Schreiben und Rechnen, die von Schülern während der Schulzeit zu erwerben sind.
+Von den vier Grundrechenarten werden in der Arithmetik die Addition und die Multiplikation als Grundoperationen und die Subtraktion und die Division als abgeleitete Operationen angesehen.
+Für die beiden Grundoperationen gelten eine Reihe von Rechenregeln, wie die Kommutativgesetze, die Assoziativgesetze und die Distributivgesetze.
+Die Addition ist der Vorgang des Zusammenzählens zweier (oder mehrerer) Zahlen.
+Der Operator für die Addition ist das Pluszeichen +, die Operanden werden Summanden genannt, der Term Summe und das das Ergebnis heißt Summenwert / Wert der Summe:
+Das Ergebnis der Addition natürlicher Zahlen ist wieder eine natürliche Zahl.
+Die Subtraktion ist der Vorgang des Abziehens einer Zahl von einer anderen Zahl.
+Der Operator für die Subtraktion ist das Minuszeichen -, die beiden Operanden werden Minuend und Subtrahend genannt, der Term Differenz und das Ergebnis heißt Differenzwert / Wert der Differenz.
+Sind Minuend und Subtrahend gleich, erhält man als Ergebnis die Zahl Null, die oft auch zu den natürlichen Zahlen gezählt wird.
+Um die Subtraktion uneingeschränkt durchführen zu können, wird daher der Zahlbereich auf die ganzen Zahlen erweitert.
+Die Multiplikation ist der Vorgang des Malnehmens zweier (oder mehrerer) Zahlen.
+Der Operator für die Multiplikation ist das Malzeichen * (oder x), die Operanden werden Multiplikator und Multiplikand genannt, der Term Produkt und das Ergebnis heißt Produktwert / Wert des Produkts:
+Die Division ist der Vorgang des Teilens einer Zahl durch eine andere Zahl.
+Es werden Kopfrechnen, schriftliches Rechnen, Überschlagsrechnen und Anwendungen in Form von Textaufgaben eingeübt.
+In den ersten Jahren einer weiterführenden Schule (Sekundarstufe I) werden dann auch negative Zahlen betrachtet, die Bruchrechnung und damit die rationalen Zahlen eingeführt, sowie die Gesetze bei der Verbindung der vier Grundrechenarten behandelt.
+Bei der Addition oder der Multiplikation mehrerer Zahlen ist es also unerheblich, in welcher Reihenfolge die Teilsummen oder Teilprodukte gebildet werden.
+Weiterhin verhält sich die Zahl 0 {\displaystyle 0 } neutral bezüglich der Addition und die Zahl 1 {\displaystyle 1} neutral bezüglich der Multiplikation, das heißt
+Für die Grundoperationen erhält man die folgenden algebraischen Strukturen:
+Welche arithmetischen Operationen zu den Grundrechenarten gezählt werden, hat sich im Lauf der Zeit stark gewandelt.
+Die Numeratio behandelte das Zählen, Lesen und Schreiben der Zahlen, als Progressio wurde die Summation aufeinanderfolgender natürlicher Zahlen bezeichnet und die Extractio umfasste lediglich das Ziehen von Quadratwurzeln.

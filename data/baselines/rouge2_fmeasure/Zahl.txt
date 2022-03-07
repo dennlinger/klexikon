@@ -1,0 +1,15 @@
+Manche dieser Konzepte sind in der Mathematik von grundlegender Bedeutung und finden Verwendung in nahezu allen Teilgebieten.
+In Indien entwickelte sich im 7. Jh. n. Chr. ein Verständnis der Null und der negativen Zahlen.
+Der Begriff der reellen Zahl konnte erst im 19. Jahrhundert hinreichend geklärt werden.
+So ergeben sich auch bei den Zahlwörtern Strukturen, die Rückschlüsse auf das Zahlenverständnis erlauben.
+Für die Bildung von wesentlich größeren Zahlen als zehn wird es notwendig, große Zahlen zu neuen, größeren Einheiten zusammenzufassen und für diese neue Zahlworte zu finden, etwa in Stufen zu "zehn", "hundert" usw.
+Für die ersteren beiden gab es besondere Schriftzeichen.
+In Gestalt des babylonischen Wurzelziehens wurden auch systematische Approximationen vorgenommen.
+In der Folge der Entwicklung der Mengenlehre durch Georg Cantor ging man dazu über, zu versuchen, sich auf mengentheoretische Axiome zu beschränken, wie es in der Mathematik heute etwa mit der Zermelo-Fraenkel-Mengenlehre (ZFC) üblich ist.
+Mitunter wird ein Zahlbereich als eine bestimmte Klasse definiert.
+Innerhalb ihrer lässt sich auf reichhaltige Weise mit den Zahlbereichen umgehen.
+Zudem werden Eigenschaften über bestimmten Zahlen definiert, zum Beispiel ist über den ganzen Zahlen die Eigenschaft definiert, eine Primzahl zu sein.
+Für viele solcher Polynomfunktionen existiert keine rationale Zahl, so dass der Wert der Polynomfunktion an dieser Stelle gleich Null wird (Nullstelle).
+Eine solche Lösung nennt man eine reelle Zahl.
+Die Kardinalitäten endlicher Mengen sind somit natürliche Zahlen, die auch in den Kardinalzahlen enthalten sind.
+Die hyperreellen Zahlen sind eine Verallgemeinerung der reellen Zahlen und Untersuchungsgegenstand der Nichtstandardanalysis.

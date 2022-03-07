@@ -1,0 +1,22 @@
+Die Grundrechenarten (auch Grundrechnungsarten oder schlicht Rechenarten genannt) sind die vier mathematischen Operationen Addition, Subtraktion, Multiplikation und Division.
+Für die beiden Grundoperationen gelten eine Reihe von Rechenregeln, wie die Kommutativgesetze, die Assoziativgesetze und die Distributivgesetze.
+Die Addition ist der Vorgang des Zusammenzählens zweier (oder mehrerer) Zahlen.
+Das Ergebnis der Addition natürlicher Zahlen ist wieder eine natürliche Zahl.
+Die Subtraktion ist der Vorgang des Abziehens einer Zahl von einer anderen Zahl.
+Sind Minuend und Subtrahend gleich, erhält man als Ergebnis die Zahl Null, die oft auch zu den natürlichen Zahlen gezählt wird.
+Die Multiplikation ist der Vorgang des Malnehmens zweier (oder mehrerer) Zahlen.
+Die Division ist der Vorgang des Teilens einer Zahl durch eine andere Zahl.
+Der Operator für die Division ist das Geteiltzeichen :
+(oder /), die beiden Operanden werden Dividend und Divisor genannt, der Term Quotient und das Ergebnis heißt Quotientenwert / Wert des Quotienten:
+Andernfalls erhält man eine Bruchzahl.
+Die Grundrechenarten werden während der ersten Schuljahre im Mathematikunterricht behandelt.
+Es werden Kopfrechnen, schriftliches Rechnen, Überschlagsrechnen und Anwendungen in Form von Textaufgaben eingeübt.
+das heißt das Ergebnis einer Summe oder eines Produkts ist unabhängig von der Reihenfolge der Summanden bzw. Faktoren.
+Bei der Addition oder der Multiplikation mehrerer Zahlen ist es also unerheblich, in welcher Reihenfolge die Teilsummen oder Teilprodukte gebildet werden.
+Dabei wird die Addition natürlicher Zahlen als wiederholte Ermittlung des Nachfolgers eines Summanden und die Multiplikation natürlicher Zahlen als wiederholte Addition eines Faktors mit sich selbst angesehen.
+Für die Grundoperationen erhält man die folgenden algebraischen Strukturen:
+Spezielle Strukturen entstehen bei der Betrachtung endlicher Mengen, zum Beispiel Restklassenringe als mathematische Abstraktion einer Division mit Rest.
+Alle vier Grundrechenarten waren bereits in der altägyptischen Mathematik und in der babylonischen Mathematik bekannt.
+Welche arithmetischen Operationen zu den Grundrechenarten gezählt werden, hat sich im Lauf der Zeit stark gewandelt.
+In den Rechenbüchern des Mittelalters gab es weitere Ergänzungen der Grundrechenarten, die dort als "Spezies" bezeichnet wurden.
+Die Numeratio behandelte das Zählen, Lesen und Schreiben der Zahlen, als Progressio wurde die Summation aufeinanderfolgender natürlicher Zahlen bezeichnet und die Extractio umfasste lediglich das Ziehen von Quadratwurzeln.

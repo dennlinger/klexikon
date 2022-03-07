@@ -1,0 +1,19 @@
+Dabei entspricht das Verhältnis von Eingangs- und Ausgangsspannung dem Verhältnis der Windungsanzahlen der beiden Spulen.
+Je nach Auslegung des Transformators kann die Ausgangsspannung somit kleiner, größer oder gleich der Eingangsspannung sein.
+Obwohl das Induktionsprinzip seit den Entdeckungen Michael Faradays von 1831 bekannt war, wurde der Transformator erst 44 Jahre später entwickelt.
+Daraus folgt, dass sich die Spannungen so zueinander verhalten wie die Windungszahlen.
+Für die Leistung gilt bspw.:
+Durch Erhöhung der Primärwindungszahl lässt sie sich jedoch auf Kosten des Wickelraumes und der Zunahme der Kupferverluste im Praxisfall gegebenenfalls verhindern.
+Ein verlustloser Transformator im Leerlauf verhält sich wie eine ideale Spule.
+Wenn der Transformator sekundärseitig belastet wird, fließt ein Sekundärstrom.
+Transformatoren, die so ausgelegt sind, dass sie im Kurzschlussfall nicht zerstört werden, werden als kurzschlussfest bezeichnet.
+Solche Transformatoren werden auf ihren Jahreswirkungsgrad optimiert.
+Bei der Übertragung von Signalen mit einem Transformator ist es wichtig, dass die Signalanteile aller relevanten Frequenzen übertragen werden.
+In Elektrogeräten, die nicht direkt mit Netzspannung arbeiten, wandeln Transformatoren die an der Steckdose anliegende Netzwechselspannung von typischerweise 230 V auf die Betriebsspannung des Elektrogeräts um.
+Dies geschieht zum Beispiel beim Elektroschweißen.
+Er wird bisher von europäischen Gesellschaften dominiert, die jedoch zunehmend von asiatischen Unternehmen herausgefordert werden.
+Konstruktives Ziel ist eine möglichst kompakte Wicklung, um in einem durch den Kern gegebenen Wickelquerschnitt möglichst viel Kupfer oder Aluminium unterbringen zu können.
+Damit ist auf einer automatischen Wickelmaschine eine geordnete Wicklung möglich.
+So stehen drei Spannungen im Verhältnis 1:1:2 zur Verfügung.
+Dadurch erhält man zwei gleiche Spannungen, die sich addieren.
+Dafür ist das Wickeln der Spule aufwendiger.

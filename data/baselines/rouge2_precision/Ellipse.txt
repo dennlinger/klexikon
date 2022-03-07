@@ -1,0 +1,18 @@
+Ellipsen sind in der Geometrie spezielle geschlossene ovale Kurven.
+Sind die Brennpunkte identisch, erhält man einen Kreis.
+Es gibt verschiedene Möglichkeiten, Ellipsen zu definieren.
+Mit Hilfe Dandelinscher Kugeln beweist man, dass gilt:
+Wenn hier die obige Ellipsengleichung erwähnt wird, wird immer angenommen, dass a >= b {\displaystyle a\geq b} und damit die Ellipse in 1. Hauptlage ist, was im "realen Leben" aber nicht sein muss.
+Aufgrund der Definition einer Ellipse gilt:
+Diese Form schließt auch die Tangenten durch die Hauptscheitel ein.
+Da die Tangente senkrecht zur Normalen verläuft, ist die obige Behauptung bewiesen, wenn die analoge Aussage für die Tangente gilt:
+Natürliches Vorkommen und Anwendung in der Technik:
+Die Scheitelform der Parameterdarstellung der Ellipse ist
+Peripheriewinkelsatz für Ellipsen:
+Je kleiner dieser Abstand ist, umso mehr ähnelt die Ellipse einem Kreis.
+Eine weitere technische Realisierung des gleitenden Streifens kann man auch mit Hilfe eines Paares cardanischer Kreise erreichen (s. Animation).
+Man zeichnet die beiden restlichen Scheitelkrümmungskreise.
+Analog erhält man Punkte der unteren Hälfte der Ellipse.
+Die Punkte werden also numerisch berechnet und gezeichnet.
+gegeben, dann beträgt ihr Flächeninhalt
+Dann ergibt sich:

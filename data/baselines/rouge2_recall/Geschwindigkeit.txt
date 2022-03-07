@@ -1,0 +1,20 @@
+Die Geschwindigkeit ist neben dem Ort und der Beschleunigung einer der grundlegenden Begriffe der Kinematik, eines Teilgebiets der Mechanik.
+Die Geschwindigkeit beschreibt, wie schnell und in welcher Richtung ein Körper oder ein Phänomen (beispielsweise ein Wellenberg) im Lauf der Zeit seinen Ort verändert.
+Oft wird mit dem Wort Geschwindigkeit nur ihr Betrag gemeint (Formelzeichen v {\displaystyle v} ), der anschaulich gesprochen das momentane "Tempo" der Bewegung wiedergibt, wie es beispielsweise im Auto vom Tachometer angezeigt wird.
+v {\displaystyle v} gibt an, welche Wegstrecke ein Körper innerhalb einer bestimmten Zeitspanne zurücklegt, wenn die Geschwindigkeit entsprechend lange konstant bleibt.
+Die international verwendete Einheit ist Meter pro Sekunde (m/s), gebräuchlich sind auch Kilometer pro Stunde (km/h) und - vor allem in der See- und Luftfahrt - Knoten (kn).
+Die höchstmögliche Geschwindigkeit, mit der sich die Wirkung einer bestimmten Ursache räumlich ausbreiten kann, ist die Lichtgeschwindigkeit c {\displaystyle c} .
+Ruht ein Körper in einem Bezugssystem, so hat er in einem anderen Bezugssystem, welches sich gegenüber dem ersten mit der Geschwindigkeit v = {\displaystyle {\vec {v}}} bewegt, die entgegengesetzt gleich große Geschwindigkeit - v = {\displaystyle -{\vec {v} }} .
+Der Begriff der Geschwindigkeit (Symbol v = {\displaystyle {\vec {v}}} ) an einem bestimmten Punkt ( A {\displaystyle A} ) der Bahnkurve ergibt sich näherungsweise aus der Ortsänderung  r = {\displaystyle \Delta {\vec {r} }} im Zeitraum  t {\displaystyle \Delta t} :
+Wenn beispielsweise ein Auto eine Strecke von 100 km in einer Stunde zurücklegt, so hatte es eine Durchschnittsgeschwindigkeit von 100 km/ h. Dabei kann es tatsächlich mit konstanter Geschwindigkeit 100 km/h gefahren sein oder eine Viertelstunde mit einer Geschwindigkeit von 200 km/h und eine Dreiviertelstunde mit einer Geschwindigkeit von 66,7 km/ h.
+Sie ist ein wichtiger Parameter z. B. für die Flugbahn beim senkrechten und schrägen Wurf sowie für die Reichweite von Schusswaffen oder Raketen.
+Streng genommen gelten die letzten beiden Gleichungen nur näherungsweise für den sogenannten nichtrelativistischen Fall, also für Geschwindigkeiten, die viel kleiner als die Lichtgeschwindigkeit sind.
+In der Alltagssprache wird auch die Bezeichnung "Stundenkilometer" verwendet.
+Vertikalgeschwindigkeiten in der motorisierten Luftfahrt werden oft in Fuß pro Minute (LFM von engl. linear feet per minute oder nur fpm von engl. feet per minute) angegeben.
+Bei Bewegungen auf einer Kreisbahn um den Koordinatenursprung, aber auch nur in diesem Fall, ist die Radialgeschwindigkeit null und die Umfangsgeschwindigkeit gleich der Tangentialgeschwindigkeit, also der Bahngeschwindigkeit längs der Tangente an die Bahnkurve.
+Setzt man voraus, dass es ein allgemein gültiges Bezugssystem gibt, so nennt man die Geschwindigkeiten, die in diesem System gemessen werden, Absolutgeschwindigkeiten.
+Beispiel: Eine Straßenbahn fährt mit einer Geschwindigkeit von 50 km/ h. Darin bewegt sich ein Fahrgast mit einer Relativgeschwindigkeit (gegenüber der Straßenbahn) von 5 km/ h. Seine Absolutgeschwindigkeit (vom ruhenden Beobachter auf der Straße aus gesehen) beträgt also 55 km/h oder 45 km/ h, je nachdem, ob er sich in Fahrtrichtung oder gegen die Fahrtrichtung bewegt.
+Deswegen wird der Begriff der Absolutgeschwindigkeit spätestens seit der speziellen Relativitätstheorie vermieden.
+Dies macht sich jedoch erst bei sehr hohen Geschwindigkeiten bemerkbar.
+Wenn die Geschwindigkeitsvektoren zeitlich konstant sind, spricht man von einer stationären Strömung.
+Einstein postulierte, dass das Relativitätsprinzip, das bereits aus der klassischen Mechanik bekannt war, auch auf alle anderen Phänomene der Physik, insbesondere die Ausbreitung des Lichts, angewendet werden müsse und dass die Lichtgeschwindigkeit unabhängig vom Bewegungszustand des Senders sei.

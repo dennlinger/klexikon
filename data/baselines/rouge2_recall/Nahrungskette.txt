@@ -1,0 +1,22 @@
+Eine Nahrungskette ist ein Modell für die linearen energetischen und stofflichen Beziehungen zwischen verschiedenen Arten von Lebewesen, wobei jede Art Nahrungsgrundlage einer anderen Art ist, ausgenommen die Art am Ende der Nahrungskette.
+Man spricht auch von trophischen Beziehungen (abgeleitet von griechisch trophein "sich ernähren").
+Nahrungsketten werden in der Ökologie untersucht und sind auch in der Ökotoxikologie von Bedeutung.
+Die meisten Pflanzen- und Tierarten dienen mehreren anderen Arten als Nahrung und die meisten Konsumenten ernähren sich von mehreren anderen Arten.
+Allesfresser ernähren sich sowohl von Pflanzen als auch von Tieren.
+Das unterste Trophieniveau sind die Produzenten, die sich gar nicht von anderen Organismen ernähren, aber solchen selbst als Nahrung dienen können (in der Regel grüne Pflanzen).
+Das oberste Trophieniveau sind Spitzenprädatoren (oder Top-Prädatoren), die nicht oder nur ausnahmsweise anderen Organismen als Nahrung dienen.
+Während die Position der Herbivoren noch relativ eindeutig zu definieren ist, ist die Rolle der Prädatoren schwieriger zu fassen, weil sie sich in der Regel von verschiedenen Organismen ernähren, die durchaus unterschiedliche Position in der Nahrungskette haben können.
+Zum Beispiel können Habichte Tauben erbeuten (Tauben sind Samenfresser, also Phytophagen).
+Problematisch sind ferner kannibalistische Arten, bei denen Alttiere zum Beispiel Jungtiere derselben Art fressen.
+Eine mathematische Beschreibung der Populationsdynamik, wie sie für einzelne Räuber-Beute-Beziehungen in den Lotka-Volterra-Gleichungen möglich ist, lässt sich nur begrenzt auf Nahrungsnetze anwenden.
+Ein Großteil der pflanzlichen Biomasse in realen Ökosystemen wird nicht von Herbivoren konsumiert, sondern bleibt bis zum Tod der Pflanze oder ihrer Organe erhalten.
+Da die Destruenten energiereicher sind als die Pflanzenstreu selbst, sind sie für die Ernährung der Saprophagen meist von entscheidender Bedeutung.
+Ein Beispiel ist die Carbonatatmung der Methanbildner, bei der Kohlenstoffdioxid (CO2) als ultimativer Elektronenakzeptor fungiert.
+Entlang der Nahrungskette nehmen die Konsumenten auch den weit überwiegenden Teil der Nährstoffe auf, die sie zum Aufbau ihrer eigenen Biomasse benötigen.
+Durch die Destruenten (Pilze, Bakterien, aber auch an der mechanischen Zersetzung beteiligte Würmer, Gliedertiere usw.), die ihre Nahrung allen übrigen Trophieniveaus entnehmen und dabei die Stoffe aus der Nahrungskette zurückführen, ergibt sich für die Stoffe keine Kette, sondern ein Stoffkreislauf (vgl. z. B. Stickstoff- und Kohlenstoffkreislauf).
+Insgesamt ergibt sich aus diesen Unterschieden, dass der Einfluss der Phytophagen auf die Produzenten in aquatischen Systemen tendenziell höher ist (es gibt zahlreiche Ausnahmen und Gegenbeispiele!).
+Trophische Kaskade nennt man den indirekten Effekt, den Prädatoren auf Primärproduzenten ausüben können, indem sie die Bestandsdichte der Herbivoren (Phytophagen) begrenzen.
+Im amerikanischen Yellowstone-Nationalpark wurden die Wölfe in den ersten Jahrzehnten des 20. Jahrhunderts verfolgt und bis 1926 ausgerottet, um die Population der Bisons zu sichern.
+Daraufhin wurde in dem Gebiet eine extreme Dichte von Wapiti-Hirschen beobachtet, die in manchen Regionen dicht wie Rinder auf der Weide standen.
+Es handelt sich um eines der wenigen Systeme, in dem versucht wurde, alle wesentlichen Energie- und Stoffflüsse zu quantifizieren.
+Bei primären Wassertieren (z. B. Wasserschnecken, Wasserflöhe, Fische) in rein aquatischen Nahrungsketten ist der direkte Austausch der Stoffe aus der Wasserphase über die Epithelien der Organismen (der Vorgang der so genannten Biokonzentration in den Organismus hinein und die Elimination über Kiemen oder Hautoberflächen aus dem Organismus heraus) bedeutsamer als die durch Fressen kontaminierter Nahrung hervorgerufene Biomagnifikation, wenngleich starke Unterschiede zwischen den verschiedenen Stofftypen und den einzelnen Organismengruppen auftreten.

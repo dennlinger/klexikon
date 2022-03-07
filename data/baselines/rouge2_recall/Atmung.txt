@@ -1,0 +1,16 @@
+Atmung oder Respiration (lateinisch respiratio) bezeichnet in der Biologie:
+Aerobe Atmung benötigt Sauerstoff und ist daher erdgeschichtlich erst möglich, seit elementarer Sauerstoff in der Atmosphäre und im Wasser zur Verfügung steht.
+Dessen Bildung geht auf die ersten photosynthetisch aktiven Prokaryoten zurück, wahrscheinlich Vorläufer der heutigen Cyanobakterien.
+Ohne Sauerstoff kann nur eine anaerobe Atmung stattfinden, bei der andere Substanzen die Rolle des Sauerstoffs übernehmen.
+Alle Eukaryoten können lediglich Sauerstoff als Oxidans verwenden; in Sauerstoff-freien Milieus können sie nur durch Gärung Energie gewinnen.
+Dagegen können Hefen, die ebenfalls Eukaryoten sind, ohne Sauerstoff allein auf der Grundlage der Gärung leben (fakultativ anaerob).
+Ein Beispiel für den seltenen Fall, dass Eukaryoten die Fähigkeit verloren haben, Sauerstoff zu nutzen, und daher obligat anaerob sind, sind die Neocallimastigaceae, die im Pansen von Wiederkäuern leben und auf die Verwertung von Zellulose spezialisiert sind.
+Unter Prokaryoten ist Escherichia coli ein Beispiel dafür, dass zwischen aerober und anaerober Atmung gewechselt werden kann.
+Bei der aeroben Atmung wird Sauerstoff benötigt.
+So nutzt beispielsweise das Archaeon Acidianus ambivalens Schwefel in einer Schwefeloxidation gemäß:
+Die Transportrate beziehungsweise Transportgeschwindigkeit wird durch die Diffusionsgesetze nach Adolf Fick beschrieben:
+Laut dem Ersten Fickschen Gesetz ist dabei die Transportrate, also die Veränderung der Stoffmenge (dQs) nach der Zeit (dt), proportional zur Austauschfläche A und proportional zum Konzentrationsgradienten, welcher für Gase wie beim Fall der Atmung auch als Partialdruckgradient (dp/dx) beschrieben werden kann.
+Die Lunge ist anatomisch für den Gasaustausch optimiert, indem sie durch die Lungenbläschen (Alveolen) über eine große Oberfläche mit geringer Diffusionsstrecke verfügt.
+Die symptomatische Therapie von Gasaustauschstörungen erfolgt durch Gabe von Sauerstoff.
+Auch photoautotrophe Organismen (Pflanzen im weitesten Sinn), die ihre Energie insgesamt durch Photosynthese gewinnen, decken ihren Energiebedarf durch aerobe Atmung, wenn die Photosynthese nicht möglich ist, so nachts und in Teilen bzw. Entwicklungsstadien, die keine aktiven Chloroplasten enthalten (etwa Wurzeln oder keimende Samen).
+Algen und andere im Wasser lebende Pflanzen können ihn durch Diffusion aus dem umgebenden Wasser aufnehmen, da sie eine große Oberfläche und keine undurchlässige Cuticula haben.

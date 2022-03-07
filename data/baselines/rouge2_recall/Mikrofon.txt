@@ -1,0 +1,23 @@
+Ein Mikrofon oder Mikrophon ist ein Schallwandler, der Luftschall als Schallwechseldruckschwingungen in entsprechende elektrische Spannungsänderungen als Mikrofonsignal umwandelt.
+Ein Wandler, der mechanisch oder elektrisch mit der Membran gekoppelt ist, generiert daraus eine der Membranbewegung entsprechende Tonfrequenz-Wechselspannung oder eine entsprechende pulsierende Gleichspannung.
+Der in die USA ausgewanderte italienische Ingenieur Antonio Meucci entwickelte bereits 1860 ein Telefon auf Basis eines ebenfalls von ihm erfundenen elektromagnetischen Wandlers.
+Der heute meistens als Erfinder des Mikrofons angeführte schottische Taubstummenlehrer Alexander Graham Bell, der in dem Labor tätig war, in dem Meuccis Erfindung aufbewahrt wurde, meldete ein technisch gleichartiges Patent am 14. Februar 1876 an.
+Vom Modell einer Ohrmuschel ausgehend erkannte Reis, dass statt eines Trommelfells auch ein mit einer Membran bespannter Schalltrichter verwendet werden konnte.
+Dieser Schalltrichter mündete bei Reis in einem Gehäusekasten.
+Fand nun an der Membran ein Schallwechseldruck statt, kam diese in Schwingung, was dazu führte, dass die Kontakte je nach dem Lauf der Schallwellen mehr oder weniger zusammengedrückt wurden.
+Reis hatte mit dieser Versuchsanordnung das Kontaktmikrophon erfunden, aus dessen Prinzip später das Kohlemikrophon entwickelt wurde, das in der Frühzeit des Rundfunks für Aufnahmen Verwendung fand.
+Hughes kannte zudem das Kontaktmikrofon von Philipp Reis, da er 1865 mit einem importierten Telefon des deutschen Erfinders experimentiert und gute Resultate erzielt hatte.
+1928 gründete Georg Neumann zur Vermarktung seines Kondensatormikrofons eine Firma, die Georg Neumann & Co KG in Berlin, die noch heute zu den führenden Mikrofonherstellern gehört.
+Das erste funktionstüchtige Serienmodell, das Neumann CMV3, auch "Neumann-Flasche" genannt, ist auf vielen zeitgenössischen Filmaufnahmen zu sehen.
+Legendär ist auch das erste Mikrofon mit elektrisch umschaltbarer Richtcharakteristik, das Neumann U47 von 1949.
+Zu einem Mikrofon, statt zu einem Publikum zu sprechen, war gewöhnungsbedürftig; außerdem waren Mikrofone in den späten 1920er Jahren bereits so empfindlich, dass man nicht mehr in sie hineinschreien musste.
+Das BBC Hand Book von 1929 widmet dem Mikrofon ein eigenes Kapitel mit der Überschrift "My Friend Mike" (Mike als englische Kurzform für microphone):
+Bei Tauchspulmikrofonen ist die Membran wie bei einem elektrodynamischen Lautsprecher fest mit einer Spule (Tauchspule) verbunden, die durch die Membranbewegung in einem dauermagnetischen Feld (Luftspalt eines Topfmagneten) bewegt wird.
+Er ist nur wenige Mikrometer dick.
+Die Kapsel wird auf andere Parameter optimiert als bei der NF-Technik, sie muss z. B. weniger spannungsfest sein.
+Der Strombedarf von 1 mA begünstigt den Einsatz in mobilen Geräten und an/in Computern.
+Die hier zur Verfügung stehenden Kräfte sind in der Regel wesentlich größer und führen zu besseren Übertragungseigenschaften als es bei Luftschall der Fall ist.
+Die Richtcharakteristik von Mikrofonen wird in reflexionsarmen Räumen im Direktfeld D gemessen.
+Somit ist meistens nicht das Mikrofon selbst, sondern das Kabel und die Art des Anschlusses für solche Störungen verantwortlich.
+Eine noch sehr junge Entwicklung (Stand 2020) sind membranlose Mikrofone, die mittels optischer Methoden Luftschwingungen aufnehmen.
+Es gibt eine Reihe von Stereo-Mikrofonierungsverfahren, die auf psychoakustischen Effekten beruhen:

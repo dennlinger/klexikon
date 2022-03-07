@@ -1,0 +1,11 @@
+Die Hypertext Markup Language (HTML, englisch für Hypertext-Auszeichnungssprache) ist eine textbasierte Auszeichnungssprache zur Strukturierung elektronischer Dokumente wie Texte mit Hyperlinks, Bildern und anderen Inhalten.
+HTML-Dokumente sind die Grundlage des World Wide Web und werden von Webbrowsern dargestellt.
+Neben den vom Browser angezeigten Inhalten können HTML-Dateien zusätzliche Angaben in Form von Metainformationen enthalten, z. B. über die im Text verwendeten Sprachen, den Autor oder den zusammengefassten Inhalt des Textes.
+Auch die Extensible Hypertext Markup Language (XHTML) wird durch HTML5 ersetzt.
+Vor der Entwicklung des World Wide Web und dessen Bestandteilen, zu denen auch HTML gehört, war es nicht möglich, Dokumente auf elektronischem Weg einfach, schnell und strukturiert zwischen mehreren Personen auszutauschen und miteinander effizient zu verknüpfen.
+Diese Elemente lassen sich nach Regeln, die in einer Dokumenttypdefinition (DTD) angegeben sind, verschachteln:
+Bestimmte Elemente müssen nicht explizit notiert werden.
+Somit sieht die Grundstruktur einer Webseite wie folgt aus:
+Dies ist ein Verweis auf example.com Ebenso ist an diesem Beispiel zu sehen, dass das Link-Element ein Inline-Element ist und keine neue Zeile beginnt.
+So wird ein Text in HTML ausgegeben:
+Außerdem lässt sich der CSS-Code auch in einer Seite ohne ausgelagerte Datei einbinden.

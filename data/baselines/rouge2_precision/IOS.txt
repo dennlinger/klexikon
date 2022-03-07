@@ -1,0 +1,14 @@
+iOS ist ein von Apple entwickeltes mobiles Betriebssystem für das iPhone und den iPod touch.
+Das ursprüngliche Betriebssystem wurde am 9. Januar 2007 zusammen mit dem iPhone auf der MacWorld Conference and Expo vorgestellt.
+Damals sagte Steve Jobs "auf dem iPhone läuft OS X".
+Cisco betont, dass ausschließlich Namensrechte lizenziert wurden.
+Die erste gemeinsame Version war iOS 4.2.1.
+Es besitzt eine angepasste Benutzeroberfläche für das kleinere Display der Apple Watch.
+iOS ist darauf ausgelegt, mit allen anderen Apple-Produkten zusammenzuarbeiten.
+Ebenso kamen mit iPhone OS 3.0 Push-Nachrichten hinzu.
+Es handelt sich dabei um Textnachrichten, die beispielsweise von Nachrichten- oder Instant-Messaging-Apps stammen können.
+Zudem wurde mit iOS 4 eine Taskleiste eingeführt, die seitdem mit einem Doppelklick auf den Homebutton aufrufbar ist.
+Die Systempartition enthält das sogenannte root-Verzeichnis von iOS, dort befinden sich alle Systemkomponenten wie zum Beispiel das Springboard und die Hintergrunddienste von iOS.
+Das User-Verzeichnis enthält einige Unterverzeichnisse, die wichtigsten davon sind:
+Google hat die Unterstützung der YouTube-App auf älteren iOS-Geräten serverseitig größtenteils abgeschaltet.
+Apple reagierte darauf mit einer Vergünstigung des Akkutausches bei betroffenen Geräten.

@@ -1,0 +1,15 @@
+Twitter (englisch für "Gezwitscher") ist ein Mikrobloggingdienst des Unternehmens Twitter Inc.
+Auf Twitter können angemeldete Nutzer telegrammartige Kurznachrichten verbreiten.
+Die Nachrichten werden "Tweets" (von englisch to tweet "zwitschern") genannt.
+Der erste "Tweet" wurde am 21. März 2006 durch den Mitgründer Jack Dorsey mit dem Inhalt "just setting up my twttr." verschickt.
+Das Hashtag kann aus Buchstaben und Ziffern bestehen, es dürfen jedoch weder Satz- noch Leerzeichen enthalten sein.
+Will man zukünftig über Beiträge anderer Nutzer informiert werden, kann man ihnen "folgen".
+Um die Beiträge einer selbst definierten Gruppe von Nutzern angezeigt zu bekommen, kann man eine Liste erstellen.
+Die Twitter-API erlaubt die Integration von Twitter in andere Webdienste und Anwendungen.
+So kann auch bei mehreren Twitter-Konten die Übersicht behalten werden.
+Twitters Ausfallzeiten fielen insbesondere während gut besuchter Veranstaltungen der Technologie-Industrie auf, wie der Macworld-Conference-&-Expo-Eröffnungsansprache im Jahre 2008.
+Dies wurde von Mozilla, den Erfindern des DNT-Feldes, begrüßt.
+Mit dem Service "Tweepi" kann man mehreren Personen gleichzeitig folgen.
+Er lässt sich durch Anklicken wieder anzeigen.
+Zuletzt waren der Seite 30.000 Twitter-Nutzer gefolgt.
+Die Reaktionen der internationalen Gemeinschaft "seien ihm egal".

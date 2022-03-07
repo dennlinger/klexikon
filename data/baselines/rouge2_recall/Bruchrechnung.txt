@@ -1,0 +1,14 @@
+Im engeren Sinn bezeichnet Bruchrechnung das Rechnen mit gemeinen Brüchen (manchmal auch gewöhnlichen Brüchen) in der "Zähler-Bruchstrich-Nenner-Schreibweise" (siehe unten).
+Eine wichtigere Erweiterung besteht in der Zulassung von Bruchtermen, das sind Ausdrücke, die formal wie gemeine Brüche gebildet werden, bei denen aber Zähler und Nenner Terme sein können, die Variablen enthalten.
+Die Regeln der Bruchrechnung beziehen sich auf die Grundrechenarten, also auf Addition, Subtraktion, Multiplikation, Division, sowie auf die Kehrwertbildung.
+Die Bruchrechnung beruht darauf, dass sich das Ganze (die Eins aus dem Rechnen mit natürlichen Zahlen) noch unterteilen lässt.
+Wenn diese Teile gleich groß sind, so ist jedes Teil ein Viertel des Kuchens.
+Wenn, wie im Bild, eines der Viertel schon fehlt, so sind drei Viertel Kuchen dargestellt.
+Wird das Ganze (die Torte) stattdessen in acht Teile geteilt und werden davon sechs genommen, so ist das ein anderer Bruch: 6 8 {\displaystyle {\frac {6}{8} }} statt 3 4 {\displaystyle {\frac {3}{4} }} .
+Wenn man von einem Bruch spricht, meint man in der Regel einen gemeinen Bruch, das Rechnen mit Dezimalbrüchen wird meistens nicht als Bruchrechnung bezeichnet.
+Das Entscheidende bei der Bruchrechnung ist, dass hier jede Division (außer durch null) möglich ist und ein einfach darstellbares Ergebnis hat, während ja im Bereich der ganzen Zahlen die Teilbarkeitsregeln gelten.
+Dabei wird zunächst der ganzzahlige Anteil, d. h. die zur Null hin gerundete Zahl, geschrieben und anschließend direkt danach der verbleibende Anteil als echter Bruch.
+Dies darf nicht verwechselt werden mit dem Umformen von Brüchen, wobei ein einziger Bruch eine neue Form erhält, ohne dass sein Wert sich ändert.
+Umgekehrt kann man bei einem unechten Bruch die Bruchteile, die Ganze ergeben, abspalten und die verbleibenden als Bruch anfügen.
+Beispiel: Die Brüche 2 7 ; 1 6 ; 9 14 {\displaystyle {\tfrac {2}{7}};{\tfrac {1}{6}};{\tfrac {9}{14}} } sollen gleichnamig gemacht werden.
+Das Produkt der Zähler ist dann der Zähler des Ergebnisses, das Produkt der Nenner ist dann der Nenner des Ergebnisses.

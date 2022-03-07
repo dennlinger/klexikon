@@ -1,0 +1,14 @@
+Funktechnik oder Funk ist eine Bezeichnung für die Methode, Signale aller Art mit Hilfe modulierter elektromagnetischer Wellen im Radiofrequenzbereich (Radiowellen) drahtlos zu übertragen.
+Die ersten Sendeanlagen arbeiteten mit Funkenstrecken - durch die starken, oberwellenreichen Strom- und Spannungsimpulse entstanden hierbei auch die gewünschten Funkwellen.
+Diese Pioniere der Funktechnik gelten heute als die ersten Funkamateure.
+Am 24. September 1900 wurde eine solche Verbindung über die 62 km lange Strecke Cuxhaven-Helgoland geschaffen.
+Voraussetzung dafür ist eine zunächst konstante Ausgangsleistung, die bei Übertragung von Ton, Bild und später auch Daten gezielt geändert werden kann.
+Dabei wird beispielsweise die Frequenz oder die Amplitude der Wechselspannung im Rhythmus des Signals geändert.
+Die modulierte Welle wird über eine Antenne abgestrahlt und auf der Empfängerseite durch eine weitere Antenne empfangen.
+Durch Demodulation wird die ursprüngliche Nachricht wiedergewonnen und kann dann hörbar oder sichtbar (Fernsehen) gemacht oder anders weiterverarbeitet werden.
+Beim Hörfunk und Fernsehen sendet ein Teilnehmer, der Radio- oder Fernsehsender, und alle anderen Teilnehmer auf diesem Kanal empfangen nur, ohne selbst zu senden.
+Eine neue Entwicklung der Funktechnik wurde durch extrem energiesparende Miniaturisierung möglich: batterielose Funktechnik für die Anwendung in Schaltern und Sensoren.
+Dabei kommt es zu einer Vielzahl von Effekten, die von der benutzten Frequenz, der Dichte des Gases, der Ionisation und der Schichtung im Signalweg abhängig ist.
+Eine Übertragung durch flüssige und feste Medien führt zu einer starken Dämpfung des Signals.
+Effekte bei der drahtlosen Ausbreitung in der Erdatmosphäre
+Durch die Auswahl der Modulationsart und der Betriebsart lassen sich viele Störungen erheblich vermindern.

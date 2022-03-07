@@ -1,0 +1,24 @@
+Ein Kraftwerk (veraltete Bezeichnung: Elektrizitätswerk, heute auch Stromerzeugungsanlage) ist eine technische Anlage zur Stromerzeugung und stellt in manchen Fällen zusätzlich thermische Energie bereit.
+Bei einem Kraftwerk wird mechanische Energie mittels Generatoren in elektrische Energie verwandelt, die in das Stromnetz eingespeist wird.
+Alle Methoden stehen miteinander in wirtschaftlicher Konkurrenz und sind politisch teils gefördert (erneuerbare Energien: Sonne, Wasser, Wind, Geothermie), teils zusätzlich besteuert (Kernspaltung: Brennelementesteuer; Verbrennung: Kohlenstoffdioxid-Emission).
+Dampfmaschinen wurden genutzt, um mechanische Leistung zu erzeugen, die in Fabriken mittels Transmissionen zu den Maschinen übertragen wurde.
+Die ersten Kraftwerke wurden von Dampfmaschinen angetrieben, es entstanden Stromnetze zur Verteilung der Energie.
+Im Stromkrieg, einen Systemwettstreit Ende des 19. Jahrhunderts zwischen den Verfahren der zu verwendeten Stromart, setzte sich bis auf wenige Ausnahmen für Stromnetze der Dreiphasenwechselstrom, eine Form von Wechselstrom mit drei Phasen, durch.
+Die Verbrennung der Kohle in Dampfkesseln zur Erzeugung von Strom wurde schnell als weiterer Absatzmarkt von den Zechenbetreibern erkannt.
+Kraftwerke wandeln nichtelektrische Energie (thermische, mechanische, chemische, solare oder auch atomare Energie) in elektrische Energie um.
+Da nur ein Teil der Energie in elektrische Energie überführt werden kann, fällt immer ein nicht nutzbarer Energieanteil an, der als Entropie an die Umgebung abgegeben wird.
+Folgende Arten von Kraftwerken sind im Einsatz:
+Die Verfahren, die sehr unterschiedlichen Arten von Primärenergie in elektrischen Strom umzuwandeln, unterscheiden sich bezüglich technischem Aufwand, Wirkungsgrad, aber auch Umweltbelastung.
+Unabhängig davon kann man bei günstigen Umständen - wenn ein Großabnehmer von Niedertemperaturwärme unmittelbar benachbart ist - die Abwärme der Dampfkühlung nach der Turbine nutzen, was man als Kraft-Wärme-Kopplung bezeichnet.
+In allen heute im großtechnischen Einsatz befindlichen Kraftwerkstypen in Europa wird die elektrische Energie in Form von Drehstrom mit einer Frequenz von 50 Hertz bereitgestellt.
+Für die Aufnahme von kurzzeitigen Laständerungen und für unvorhersehbaren Notfälle werden Spitzenlastkraftwerke eingesetzt, welche die Stromproduktion schnell dem Bedarf anpassen können.
+Da sich ohne Regelung die Netzfrequenz zu stark ändern würde, muss die Momentanleistung der angeschlossenen Kraftwerke ständig angepasst werden.
+Dazu werden bestimmte Wärme-Kraftwerke leicht angedrosselt gefahren, damit kann durch Öffnen der Regelventile in der Frischdampfleitung die Stromerzeugung innerhalb von Sekunden um bis zu 5 % hochgefahren werden.
+Eine Alternative ist, die Kondensatvorwärmung aus Anzapfdampf zu reduzieren und so mehr Dampf für die Stromerzeugung in der Turbine zu lassen.
+Es gibt aber auch Möglichkeiten, die Energiebilanz eines Stromnetzes mit Hilfe der Verbraucher auszugleichen.
+Damit werden im Unterschied zu den anderen Kraftwerkstypen, deren Wirkungsgrad i.a.
+Die Baugröße wird von der Erfahrung geprägt, dass der elektrische Wirkungsgrad mit der Baugröße zunimmt und die Kosten pro erzeugter Energieeinheit abnimmt.
+Kraftwerke zur Elektrizitätserzeugung verursachen weltweit ca. 45 % der gesamten Kohlenstoffdioxid-Emissionen, die wiederum der Hauptursache für die gegenwärtig stattfindende globale Erwärmung sind.
+In Deutschland wird etwa 50 % des Stroms durch Dampfkraftwerke erzeugt, in denen fossile Energie verbrannt wird und Kohlenstoffdioxid als Abgas erzeugt wird.
+Die insgesamt (über den gesamten Lebenszyklus) freigesetzte Menge ist sehr unterschiedlich, wie die folgende Tabelle zeigt.
+Beim Vergleich der Emissionsbilanz zwischen einem BHKW und einem Steinkohle- oder Gas- und Dampfkraftwerk sinken zwar die CO2-, SO2- und Feinstaub-Emissionen, dafür steigen jedoch die NOx- und CO-Emissionen.

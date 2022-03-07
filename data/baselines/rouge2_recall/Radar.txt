@@ -1,0 +1,14 @@
+Radar ist die Abkürzung für radio detection and ranging (frei übersetzt "funkgestützte Ortung und Abstandsmessung") oder radio direction and ranging (frei übersetzt "funkgestützte Richtungs- und Abstandsmessung"), zwischenzeitlich radio aircraft detection and ranging (frei übersetzt "funkbasierte Flugzeugortung und -abstandsmessung") und ist die Bezeichnung für verschiedene Erkennungs- und Ortungsverfahren und -geräte auf der Basis elektromagnetischer Wellen im Radiofrequenzbereich (Funkwellen).
+Da die Wellenlänge des Radars je nach Anwendung und Stand der Technik im Bereich der Funkwellen im Kurz- bis Mikrowellenbereich liegt, wurde ursprünglich die Bezeichnung Funkmeßtechnik (kurz Funkmeß) verwendet.
+Die ersten Versuche zur Ortung mit Hilfe von Radiowellen führte der deutsche Hochfrequenztechniker Christian Hülsmeyer 1904 durch.
+Er fand heraus, dass von Metallflächen zurückgeworfene elektrische Wellen verwendet werden können, um entfernte metallische Objekte zu detektieren.
+Der Nutzen der Radartechnik wurde jedoch zunächst nicht erkannt und so geriet die Erfindung vorläufig in Vergessenheit.
+1919 ließ er sich ein Verfahren zur Ortung von Objekten mittels Radiowellen (Radar) patentieren, das nach Weiterentwicklungen (Entwicklung des Sicht- oder Kurzzeitpeilers; Watson-Watt-Peiler) 1935 erstmals zur Radarortung von Flugzeugen im Meterwellenbereich eingesetzt werden konnte.
+Die Briten errichteten ab 1936 mit Chain Home ebenfalls eine Kette von Radarstationen an der Ostküste, die auf einer anderen Wellenlänge als die der Deutschen arbeitete und von diesen zunächst nicht erkannt wurde.
+Schon ab 1939 wurde das System mit einem Freund-Feind-Erkennungsgerät in den Flugzeugen ergänzt.
+Hierdurch erhöht sich die Reichweite, die Objekte sind identifizierbar und können ggf. weitere Daten zurücksenden.
+Eine weitere Art von Radargeräten, die nur schwer zu entdecken sind, ist das Rauschradar, welches lange Pulse aussendet, welche wie zufällige Störstrahlung aussehen.
+Für die Entfernung r {\displaystyle r} gilt der Zusammenhang:
+Aus der Abhängigkeit der Stärke des Echos von der Orientierung der Antenne kann sehr genau die Richtung bestimmt werden.
+Dabei wird die über eine Antenne abgestrahlte Frequenz vom Ziel (beispielsweise einem Auto) reflektiert und mit einer gewissen Doppler-Verschiebung, also geringfügig geändert, wieder empfangen.
+Es kann zum Beispiel auf einem Berghang oder auch auf der Außenhaut eines Kriegsschiffes verteilt zu einem Großraumradar aufgebaut werden.

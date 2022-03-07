@@ -1,0 +1,32 @@
+Radioaktivität (von französisch radioactivite; zu lateinisch radiare "strahlen" und activus "tätig", "wirksam"; zusammengesetzt also "Strahlungstätigkeit") ist die Eigenschaft instabiler Atomkerne, spontan ionisierende Strahlung auszusenden.
+Der Kern wandelt sich dabei unter Aussendung von Teilchen in einen anderen Kern um oder ändert unter Energieabgabe seinen Zustand.
+Die durch den Prozess ausgestrahlte ionisierende Strahlung wird umgangssprachlich auch "radioaktive Strahlung" genannt.
+Art und Energiespektrum der Strahlung sind für das jeweilige Radionuklid typisch.
+Diese Strahlungsarten sind für den Menschen - ebenso wie Höhen- und Röntgenstrahlung - nicht direkt wahrnehmbar und können je nach den Umständen schädlich (siehe Strahlenschaden, Strahlenwirkung) oder nützlich (siehe z. B. Strahlensterilisation, Radionuklidtherapie, Brachytherapie) sein.
+Nach einer für jedes radioaktive Nuklid charakteristischen Zeit, der Halbwertszeit, hat sich dessen Menge halbiert, somit auch seine Aktivität.
+Radionuklide kommen in der Natur vor.
+Radioaktive Substanzen finden Anwendung u. a. in Radionuklidbatterien und -Heizelementen zur Energieversorgung in der Raumfahrt sowie in der Nuklearmedizin und Strahlentherapie.
+In der Archäologie nutzt man den radioaktiven Zerfall zur Altersbestimmung, beispielsweise mit der Radiokarbonmethode.
+In der Alltagssprache und in öffentlichen Diskussionen werden radioaktive Substanzen und ihre Strahlung oft nicht unterschieden.
+Dies schloss Fluoreszenz als Ursache aus.
+Wie er später feststellte, konnte diese neue Strahlung lichtundurchlässige Stoffe durchdringen und Luft ionisieren, ohne dabei von Temperaturänderungen oder chemischen Behandlungen der Probe beeinflusst zu werden.
+1900 entdeckte Paul Villard eine dritte Komponente, die sich nicht durch Magnetfelder ablenken ließ und die besonders durchdringend war.
+1934 entdeckten sie bei ihren Versuchen eine neue Art des Betazerfalls, bei der Positronen anstelle von Elektronen abgestrahlt wurden.
+Ist Radioaktivität bei einem Nuklid nicht beobachtet worden, gibt es zwei Möglichkeiten:
+Die Gesamtzahl stabiler Nuklide steht daher heute (2020) noch nicht fest.
+Allerdings gibt es für jedes Radionuklid eine bestimmte Zerfallswahrscheinlichkeit pro Zeiteinheit; bei makroskopischen Stoffmengen führt dies dazu, dass die Menge des Nuklids in guter Näherung exponentiell abnimmt, wie es das Zerfallsgesetz beschreibt.
+Die Substanz reichert sich mit Radionukliden der Zerfallsreihe an, die jeweils die gleiche Aktivität wie der ursprüngliche Prozess haben.
+Die tatsächliche Zahl von Zerfällen, die man in einem bestimmten Zeitintervall T beobachtet, schwankt zufällig um den Erwartungswert NT = A*T; die Häufigkeit, mit der dabei eine bestimmte Anzahl k auftritt, folgt einer Poisson-Verteilung.
+Da die Natur dieser Vorgänge zur Zeit ihrer Entdeckung unbekannt war, bezeichnete man die drei Strahlenarten in der Reihenfolge zunehmenden Durchdringungsvermögens mit den ersten drei (Klein-)Buchstaben des griechischen Alphabets: a,  und .
+Eine Nuklidkarte ist eine graphische Übersicht aller stabilen und instabilen Nuklide einschließlich ihrer beobachteten Zerfallsarten und Halbwertszeiten.
+Die dabei entstehende Betastrahlung besteht entweder aus Elektronen (-) oder Positronen (+), die den Kern mit - je nach Nuklid - bis zu 99,9 Prozent der Lichtgeschwindigkeit verlassen.
+Da der +-Zerfall die Energie für das emittierte Positron aufbringen muss, kommt energetisch nicht für jedes Nuklid, das mit Elektroneneinfang zerfällt, der +-Zerfall in Frage.
+Bei den praktischen Anwendungen von 60Co und vielen anderen Radionukliden geht es sehr oft nur um diese Gammastrahlung; die Alpha- oder Betastrahlung wird in diesen Fällen durch das Gehäuse des radioaktiven Präparates abgeschirmt und nur die Gammastrahlung dringt nach außen.
+Der Atomkern zerfällt in zwei (selten mehr) mittelschwere Tochterkerne und setzt dabei zwei oder drei Neutronen frei.
+So gehen zum Beispiel etwa 64 % der Atome einer Bismut-212-Probe durch einen Beta-Zerfall in Polonium-212, die übrigen etwa 36 % durch einen Alpha-Zerfall in Thallium-208 über.
+Ursachen natürlicher radioaktiver Strahlung sind primordiale Radionuklide mit ihren Folgeprodukten sowie Nuklide, die durch die kosmische Strahlung in der Erdatmosphäre erzeugt werden.
+Mit der Förderung von Uran, dem Bau von Kernkraftwerken und vor allem dem Bau und dem oberirdischen Test von Kernwaffen wurde Radioaktivät in die Biosphäre entlassen, die globale Auswirkungen hatte.
+Soweit überhaupt radioaktive Stoffe genutzt werden, sind dies kurzlebige Nuklide in geringen Mengen, wie z. B. in der Positronen-Emissions-Tomographie.
+Als Aktivität bezeichnet man die Anzahl der Zerfallsereignisse pro Zeiteinheit, die in einer Probe eines radioaktiven oder radioaktiv kontaminierten Stoffes auftritt.
+Für Nachweis und quantitative Messung der Strahlung gibt es viele Arten von Detektoren, die jeweils für bestimmte Strahlenarten geeignet sind.
+Die allererste Messung, die eine quantitative Aussage über die Strahlung ergab, wurde von Pierre Curie und Marie Curie mit Hilfe eines Elektroskops durchgeführt.

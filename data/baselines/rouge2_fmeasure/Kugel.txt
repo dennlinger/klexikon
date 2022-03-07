@@ -1,0 +1,14 @@
+Eine Kugel ist in der Geometrie die Kurzbezeichnung für Kugelfläche oder Kugelkörper.
+Diese Menge heißt das Innere der Kugel.
+erfüllt ist.
+Ist die Kugel in Parameterform
+Das Kugelvolumen ist der Rauminhalt einer Kugel, der durch die Kugeloberfläche begrenzt wird.
+Die Kugel kann in unendlich viele Pyramiden mit der Höhe r {\displaystyle \!\ r} zerteilt werden (Spitzen im Mittelpunkt der Kugel), deren gesamte Grundfläche der Oberfläche der Kugel (siehe weiter unten) entspricht.
+Eine Kugel mit Radius R {\displaystyle R} , deren Mittelpunkt im Koordinatenursprung liegt, lässt sich durch die Gleichung
+Eingesetzt in die Gleichung für den Kreis erhalten wir
+Die Kugeloberfläche ist die zweidimensionale Fläche, die den Rand der Kugel bildet.
+Teilt man eine Kugel auf in:
+Nach dieser Definition ist eine dreidimensionale Kugel also eine gewöhnliche Kugel; ihre Oberfläche entspricht einer 2Sphäre.
+Den Begriff der Kugel kann man auf alle Räume verallgemeinern, in denen man einen Abstandsbegriff hat, das sind die metrischen Räume.
+Die darin enthaltene Schicht wird als hexagonale (regelmäßig sechseckige) Kugel-Schicht, die im zweiten Fall als tetragonale (quadratische) Kugel-Schicht bezeichnet.
+Die Erde, der Mond und der Mars haben annähernd die Form einer Kugel.

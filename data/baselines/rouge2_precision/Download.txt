@@ -1,0 +1,9 @@
+Als Download oder Herunterladen bezeichnet man in der elektronischen Datenverarbeitung (EDV) das Empfangen von Daten auf dem eigenen Computer, dem Client, die über ein Netzwerk, meistens das Internet, von einem Server stammen.
+Der Download oder das Herunterladen ist das Gegenstück zum Upload bzw. dem Hochladen.
+Häufig ist die empfangende Gegenstelle ein Server bzw. Host.
+Die Überprüfung der Integrität der heruntergeladenen Datei kann über Hash-Werte (Streuwertfunktionswerte) erfolgen.
+Vom Anbieter eines Downloads werden Prüfsummen nach dem 1991 entwickelten Message-Digest Algorithm 5 (MD5) erstellt, die beispielsweise als separate Dateien bereitgestellt werden.
+Nach erfolgter Übertragung wird die fehlerfreie Übertragung verifiziert, indem der Empfänger aus der übertragenen Datei mit einem speziellen Programm die MD5-Prüfsumme erstellt und diese mit der des Anbieters vergleicht.
+Würde nun die allgemeine Definition des Begriffes Herunterladen zutreffen, würde das bedeuten, dass die Daten nur nutzbar sind, wenn sie in ihrer Gesamtheit empfangen wurden.
+In diesem Zusammenhang bedeutet Download spezifisch "empfangen und speichern" statt einfach nur "empfangen".
+Ein Download ist immer abhängig von der zur Verfügung stehenden Datenübertragungsrate zwischen Server und Client.

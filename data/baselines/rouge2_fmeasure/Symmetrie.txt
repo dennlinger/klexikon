@@ -1,0 +1,19 @@
+Mit dem geometrischen Begriff Symmetrie (altgriechisch uia symmetria Ebenmaß, Gleichmaß, aus uv syn "zusammen" und ov metron, Maß) bezeichnet man die Eigenschaft, dass ein geometrisches Objekt durch Bewegungen auf sich selbst abgebildet werden kann, also unverändert erscheint.
+Eine zweidimensionale geometrische Figur besitzt dann die Eigenschaft, rotationssymmetrisch zu sein, wenn die Figur einen zentralen Punkt besitzt, und die Figur auf sich selbst abgebildet wird, wenn man sie um diesen Punkt dreht.
+Rotationssymmetrisch wird eine Figur auch dann genannt, wenn sie auf sich abgebildet werden kann, indem sie um einen festen Winkel  {\displaystyle \varphi } mit 0°<  {\displaystyle \varphi } < 360° um den zentralen Punkt gedreht wird.
+Reguläre Polygone sind typische drehsymmetrische Figuren.
+Dieser Nachweis ist besonders einfach im Falle der Symmetrie der y-Achse des (kartesischen) Koordinatensystems.
+Eine Funktion ist achsensymmetrisch zur y-Achse, wenn gilt:
+Die Punktsymmetrie, auch Zentralsymmetrie, ist eine Eigenschaft geometrischer Objekte.
+In der Mathematik kann man die Symmetrieeigenschaften des Seesterns durch eine Drehgruppe beschreiben.
+Dreidimensionale geometrische Objekte mit dieser Eigenschaft nennt man auch Rotationskörper.
+Spiegelsymmetrie wird in zwei Bedeutungen verwendet:
+Hochsymmetrische Objekte (wie einige der Prismen in der nebenstehenden Grafik) können sehr viele Spiegelebenen besitzen, die sich alle in einem Punkt schneiden.
+Drehspiegelsymmetrie ist die Symmetrie eines Körpers, die sich aus zwei Teiloperationen zusammensetzt.
+Diese Ebene geht durch das Symmetriezentrum, durch den Mittelpunkt des Körpers.
+Nach vierfacher Drehspiegelung ist der Ausgangspunkt wieder erreicht.
+Man beachte, dass die Drehspiegelebene in diesem Fall auch eine Spiegelsymmetrieebene des Würfels ist.
+Dass sie 6-zählig ist, erkennt man wiederum, wenn man die Bahn verfolgt, die ein Punkt des Würfels, zum Beispiel in der Grafik die Bahn der mit einem weißen Punkt markierten Ecke verfolgt.
+Vermutlich unerwartet ist die Wirkung der 2-zähligen Drehspiegelung, der die dritte Grafik gewidmet ist.
+Die Punktspiegelung, lässt keinen Punkt des Körpers an seinem ursprünglichen Platz, mit einer Ausnahme:
+Die homogenen Platonischen Körper Würfel, Oktaeder, Dodekaeder und Ikosaeder sind punktsymmetrisch.

@@ -1,0 +1,20 @@
+Android (von englisch android Androide, von altgriechisch v Mann und o Gestalt) ist sowohl ein Betriebssystem als auch eine Software-Plattform für mobile Geräte wie Smartphones, Tabletcomputer, Fernseher, Mediaplayer, Netbooks und Autos, die von der von Google gegründeten Open Handset Alliance entwickelt werden.
+Android ist eine freie Software.
+Seit dem 21. Oktober 2008 ist Android offiziell verfügbar.
+Dadurch konnte man Geräte mit aktuellen Android-Updates anbieten.
+Im Oktober 2016 wurde die Nexus-Produktreihe durch die Nachfolge-Reihe Pixel ersetzt.
+Neben dem für Telefone und Tabletrechnern optimierten Android veröffentlicht Google auch angepasste Android-Versionen für Fernsehgeräte - in Form von Android TV, für Uhren bzw. Smartwatches (Android Wear - seit 16. März 2018: Wear OS) und Autos (Android Auto).
+Vor Android 4.0 und bei einzelnen Herstellern gibt es auch "Menü" oder "Suche".
+Im Unterschied zu Apple iOS, wo Bildschirmfotos mit kurzem Tastendruck aufgezeichnet werden, ist ein Gedrückthalten nötig.
+Am oberen Rand wird eine Google-Suchleiste angezeigt, die von Google auch einfach durch das Sprechen der Worte "Ok Google" gestartet und dessen Spracheingabe aktiviert wird.
+Beim Druck auf die Hometaste lässt sich auswählen, welche der Apps als Standardanwendung für den Startbildschirm benutzt werden soll.
+Außerdem lassen sie sich direkt auf dem Gerät mit dem Paketmanager installieren.
+Diese sind nur unvollständig Bestandteil von Android, lassen sich jedoch nachrüsten.
+Seit Android 10 wird wieder auf den Namenszusatz verzichtet.
+In den Nutzungsbedingungen sind unter anderem Deutschland, Österreich und die Schweiz aufgeführt.
+Diese Entscheidung führte jedoch auch zu einer starken Fragmentierung.
+Es gibt Portierungen für Smartphones, die ursprünglich mit einem anderen Betriebssystem ausgeliefert wurden.
+Alle Apps laufen getrennt in einer virtuellen Maschine.
+Jedoch gab es kurz darauf Meldungen, dass Hersteller diese Selbstverpflichtung brechen.
+Inoffizielle apk-Downloader für den Google Play Store
+.NET-Compiler für Android

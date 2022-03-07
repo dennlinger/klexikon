@@ -1,0 +1,14 @@
+Eine Welle ist eine sich räumlich ausbreitende periodische (Schwingung) oder einmalige (Störung) Veränderung des Gleichgewichtszustands eines Systems bezüglich mindestens einer orts- und zeitabhängigen physikalischen Größe.
+Unterschieden werden mechanische Wellen, die stets an ein Medium gebunden sind, und Wellen, die sich auch im Vakuum ausbreiten können (beispielsweise elektromagnetische Wellen, Materiewellen oder Gravitationswellen).
+Eine Welle transportiert Energie, jedoch keine Materie, d. h. die benachbarten Oszillatoren transportieren die Störung durch den Raum, ohne sich selbst im zeitlichen Mittel fortzubewegen.
+Ein wichtiges Beispiel ist der Schall, der sich in Gasen und Flüssigkeiten immer als Longitudinalwelle ausbreitet.
+Zur mathematischen Beschreibung von Wellen sind mehrere Größen nötig.
+Diese Funktionen hängen im Allgemeinen von Ort r {\displaystyle \mathbf {r} } und Zeit t {\displaystyle t\,} ab .
+Funktionen dieses Typs entsprechen der Vorstellung, dass Wellen räumlich ausgedehnte Schwingungen sind.
+Die gebräuchlichsten Elementarlösungen sind die Ebene Welle und die Kugelwelle.
+Sie legt also fest, wie groß die Auslenkung ist.
+Eine Kugelwelle lässt sich mit folgender Gleichung beschreiben:
+Periodische mechanische und elektromagnetische Wellen können durch periodische Schwingungen erzeugt werden.
+Ein einfaches Beispiel ist ein schwingendes Pendel:
+An einem solchen Pendel befindet sich zum Beispiel ein Stift, unter dem ein Blatt Papier mit konstanter Geschwindigkeit hergezogen wird.
+Geschieht dies mit einer geeigneten Frequenz für die verwendete Antenne, so wird ein Teil der Energie in Form einer elektromagnetischen Welle effizient von der Antenne in den Raum abgestrahlt.

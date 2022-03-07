@@ -1,0 +1,33 @@
+Radioaktivität (von französisch radioactivite; zu lateinisch radiare "strahlen" und activus "tätig", "wirksam"; zusammengesetzt also "Strahlungstätigkeit") ist die Eigenschaft instabiler Atomkerne, spontan ionisierende Strahlung auszusenden.
+Art und Energiespektrum der Strahlung sind für das jeweilige Radionuklid typisch.
+Nach einer für jedes radioaktive Nuklid charakteristischen Zeit, der Halbwertszeit, hat sich dessen Menge halbiert, somit auch seine Aktivität.
+Radionuklide kommen in der Natur vor.
+So wird von radioaktiver Strahlung gesprochen.
+Dies schloss Fluoreszenz als Ursache aus.
+Wie er später feststellte, konnte diese neue Strahlung lichtundurchlässige Stoffe durchdringen und Luft ionisieren, ohne dabei von Temperaturänderungen oder chemischen Behandlungen der Probe beeinflusst zu werden.
+Daher wird dieser Zerfall voraussichtlich nie beobachtet werden.
+Kerne mit mehr als 208 Teilchen sind immer instabil.
+Die Substanz reichert sich mit Radionukliden der Zerfallsreihe an, die jeweils die gleiche Aktivität wie der ursprüngliche Prozess haben.
+Die Poisson-Verteilung lässt sich bei genügend großer mittlerer Zahl näherungsweise durch die Gauß-Verteilung beschreiben.
+Da die Natur dieser Vorgänge zur Zeit ihrer Entdeckung unbekannt war, bezeichnete man die drei Strahlenarten in der Reihenfolge zunehmenden Durchdringungsvermögens mit den ersten drei (Klein-)Buchstaben des griechischen Alphabets: a,  und .
+Außer diesen drei Umwandlungsarten wurden später weitere entdeckt.
+Dies ist trotz der hohen Coulombbarriere aufgrund des Tunneleffekts möglich.
+Dabei werden ein Elektron und ein Elektron-Antineutrino emittiert.
+Sonnen-Neutrinos durchqueren fast ungeschwächt Teile der Sonne und die ganze Erde.
+Bei den praktischen Anwendungen von 60Co und vielen anderen Radionukliden geht es sehr oft nur um diese Gammastrahlung; die Alpha- oder Betastrahlung wird in diesen Fällen durch das Gehäuse des radioaktiven Präparates abgeschirmt und nur die Gammastrahlung dringt nach außen.
+Gammastrahlung ist wie Licht elektromagnetische Strahlung, ihr Quant ist aber sehr viel energiereicher und liegt damit weit außerhalb des für das menschliche Auge sichtbaren Spektrums.
+Die Konversionselektronen haben dementsprechend ganz charakteristische Energien, zeigen also im Gegensatz zu -Elektronen ein Linienspektrum.
+Der Atomkern zerfällt in zwei (selten mehr) mittelschwere Tochterkerne und setzt dabei zwei oder drei Neutronen frei.
+Meist ist dieses Teilchen ein 4He- oder 3H-Kern.
+Beispiel: Helium-5 sendet dagegen spontan ein Neutron aus:
+Beide Zwei-Nukleonen-Prozesse treten nahe der theoretischen Stabilitätsgrenze, dem "Rand der Nuklidkarte" auf.
+Als Aktivität bezeichnet man die Anzahl der Zerfallsereignisse pro Zeiteinheit, die in einer Probe eines radioaktiven oder radioaktiv kontaminierten Stoffes auftritt.
+Für Nachweis und quantitative Messung der Strahlung gibt es viele Arten von Detektoren, die jeweils für bestimmte Strahlenarten geeignet sind.
+Ein bekanntes Beispiel ist der Geigerzähler.
+Wichtige Anwendungen, die die Radioaktivität von Stoffen ausnutzen, sind die Altersbestimmung von Objekten und die Materialprüfung.
+Ohne ein tieferes Verständnis dieser Materialien wäre eine gezielte Anwendung nicht denkbar.
+Die vom Tracer ausgehende Strahlung wird außerhalb des Körpers von einer auf Szintillationsdetektoren beruhenden Gammakamera registriert und ergibt eine zweidimensionale bildliche Darstellung.
+In der nuklearmedizinischen Therapie werden reine oder überwiegende -Strahler verwendet.
+Anwendung finden die umschlossenen Gammastrahler zum Beispiel noch in der Brachytherapie oder Radiochirurgie.
+Sie sind schwer nachzuweisen.
+In Österreich ist es in der OENORM ISO 21482 genormt.

@@ -1,0 +1,11 @@
+Eine Website (, auch oder englisch ), auch Webpräsenz, Webauftritt, Webangebot oder Netzauftritt, ist die - unter einer individuellen Webadresse erreichbare - Präsenz eines Anbieters von Telemedien im weltweiten Netz (World Wide Web).
+Eine Webpräsenz ist ein virtueller Platz im World Wide Web, an dem sich meist mehrere Webseiten, Dateien und andere Ressourcen befinden, die üblicherweise durch eine einheitliche Navigation (durch Hypertext-Verfahren) miteinander verknüpft sind.
+Am 30. April 1993 kündigte das CERN an, dass das World Wide Web für jedermann frei zugänglich sein werde.
+Eine Homepage ist die Seite eines Webauftritts, die als zentraler Dreh- und Angelpunkt angelegt ist.
+In den meisten Fällen ist die Homepage auch die Startseite einer Website.
+Websites werden vorwiegend in der plattformunabhängigen Auszeichnungssprache HTML oder XHTML geschrieben, um zu gewährleisten, dass sie von möglichst allen Browsern dargestellt werden können.
+Heute werden Websites mit CSS gestaltet, denn diese ermöglichen eine einfache Gestaltung von Inhalten, die mit HTML oder XHTML strukturiert wurden.
+Die Website wird auf einem Webserver abgelegt, der häufig in einem Rechenzentrum von einem so genannten Webhoster betrieben und an den Inhaber der Website vermietet wird.
+Mit Hilfe vielfältiger Kommunikationsangebote baut eine Website eine Beziehung zwischen dem Anbieter, dem Betreiber und dem Nutzer (User) der Website auf.
+So ist etwa die Wikipedia als Gesamtes eine Website, die im Internet auf einem oder mehreren Host-Rechnern (Servern) gespeichert ist, während das, was im Browser angezeigt wird, speziell als ein einzelnes Dokument betrachtet wird.
+Die Website der deutschsprachigen Wikipedia als Beispiel umfasst derzeit über fünf Millionen Webseiten.

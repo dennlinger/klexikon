@@ -1,0 +1,26 @@
+Die Temperatur ist eine Zustandsgröße von zentraler Bedeutung bei der makroskopischen Beschreibung physikalischer und chemischer Zustände und Prozesse in Wissenschaft, Technik und Umwelt.
+Die Temperatur ist ein objektives Maß dafür, wie warm oder kalt ein Gegenstand ist.
+Sie wird mit einem Thermometer gemessen.
+Ihre SI-Einheit ist das Kelvin mit dem Einheitenzeichen K.
+Wenn die Temperaturen gleich sind, herrscht thermisches Gleichgewicht, in dem kein Wärmeaustausch mehr stattfindet.
+Das bedeutet, dass sie ihren Wert beibehält, wenn man den betrachteten Körper teilt.
+Der Mittelwert der Geschwindigkeitsbeträge hängt von der Art des Stoffes, vom Aggregatzustand und vor allem von der Temperatur ab.
+Besteht zwischen den Teilsystemen ein thermischer Kontakt, dann strebt das Gesamtsystem durch Wärmeaustausch zwischen den Teilen von selbst dem Zustand des thermischen Gleichgewichts zu.
+In theoretischer Hinsicht wird die Temperatur als grundlegender Begriff dadurch eingeführt, dass zwei beliebige Systeme, die mit einem dritten System im thermischen Gleichgewicht stehen, dann auch untereinander im thermischen Gleichgewicht stehen.
+Ansonsten gibt es keine Wechselwirkung zwischen den Teilchen.
+Den absoluten Nullpunkt der Temperatur gibt es wirklich, obwohl diese Herleitung nicht stichhaltig ist, weil es keinen Stoff gibt, der bis T = 0 K {\displaystyle T=0\,\mathrm {K} } gasförmig bliebe.
+Stehen zwei Systeme mit unterschiedlichen Temperaturen T 1 , T 2 {\displaystyle T_{1},\;T_{2} } in einer Verbindung, die den Wärmeübertrag ermöglicht (thermischer Kontakt oder diabatische Verbindung), dann fließt Wärme vom heißeren zum kälteren System und beide Temperaturen nähern sich derselben Gleichgewichtstemperatur T G {\displaystyle T_{G }} an.
+Treten Phasenübergänge auf, kann die Gleichgewichtstemperatur auch gleich einer der beiden Anfangstemperaturen sein, z. B. 0 °C beim Abkühlen eines warmen Getränks mit unnötig vielen Eiswürfeln von 0 °C.
+Zur Begründung betrachte man den 1. Hauptsatz, für reversible Prozesse in der Form
+Im allgemeinen Fall einer zeitabhängigen Metrik, wie sie beispielsweise Grundlage der Beschreibung des expandierenden Universums ist, können Zustandsgrößen wie die Temperatur nur lokal definiert werden.
+und daher die der Temperatur:
+Wie eingangs bereits beschrieben, bemisst die Temperatur die über alle Teilchen gemittelte Energie.
+Erhöht man die Temperatur, so gleichen sich die unterschiedlichen Häufigkeiten immer mehr an, im hypothetischen Grenzfall der unendlichen Temperatur wären in jedem Energiezustand die gleiche Anzahl von Teilchen.
+Nach der ersten Methode werden zwei Fixpunkte festgelegt.
+Anders Celsius wählte zum Beispiel für seine Skala den Schmelzpunkt und den Siedepunkt von Wasser als Fixpunkte und teilte die Volumenänderung von Quecksilber zwischen diesen Punkten in 100 gleiche Teile auf.
+Es ist kein absoluter Nullpunkt erforderlich, der ja definitionsgemäß gar nicht erreicht werden kann.
+Die Einheit Grad Celsius (°C) ist eine abgeleitete SI-Einheit.
+Für Temperaturdifferenzen ist das Grad Celsius identisch mit dem Kelvin.
+Der Zahlenwert ist in beiden Fällen derselbe.
+In den USA ist die Fahrenheit-Skala mit der Einheit Grad Fahrenheit (Einheitenzeichen: °F) immer noch sehr gebräuchlich.
+Beide Skalen werden heute über eine per Definition exakte Umrechnungsformel zum Kelvin definiert.

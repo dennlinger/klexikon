@@ -1,0 +1,36 @@
+Der Amateurfunkdienst (kurz: Amateurfunk; englisch amateur radio service oder umgangssprachlich ham radio) ist im Sinne der Internationalen Fernmeldeunion (ITU) ein von Amateuren ausgeübter globaler nichtkommerzieller Funkdienst (englisch service) mit den Selbstzwecken:
+Daneben gibt es für denselben Personenkreis einen zweiten Funkdienst, den Amateurfunkdienst über Satelliten, der mit Stationen an Bord von Amateurfunksatelliten oder Raumstationen geführt wird.
+Funkamateure werden nach einer Prüfung zum Amateurfunkdienst zugelassen und betreiben die Funktechnik als Hobby.
+Die Regelungen der ITU verweisen ausdrücklich darauf, dass der Amateurfunkverkehr keine politischen Aspekte beinhalten soll.
+Meinungsfreiheit in oder die Souveränität von Mitgliedsstaaten der ITU sollen durch den Amateurfunkbetrieb nicht berührt werden.
+Über nationalstaatliche, ethische, Sprach- und Religions-Grenzen hinweg kann der Amateurfunk zur Pflege von Freundschaften, der technischen Weiterbildung und der angewandten Forschung dienen.
+Das personalisierte Amateurfunkrufzeichen dient der eindeutigen Identifikation einer Sendefunkstelle und besteht aus einer alphanumerischen Kombination.
+In Deutschland ist das nicht der Fall.
+Das völkerrechtliche Vertragswerk der Internationalen Fernmeldeunion (ITU) ist die Vollzugsordnung für den Funkdienst (in Österreich und Deutschland: VO Funk, in der Schweiz: Radioreglement, aktuell in der Fassung von 2016).
+Die jeweilige Landesverwaltung erlässt auch Vorschriften über die Ausbildung, Prüfung, Zulassung und Erteilung von Rufzeichen.
+Zunächst wird eine Prüfung bei der zuständigen Landesstelle abgelegt.
+In Deutschland ist es die Bundesnetzagentur BNetzA, in Österreich das Bundesministerium für Verkehr, Innovation und Technologie, in der Schweiz das Bundesamt für Kommunikation BAKOM.
+Nach der Prüfung kann der Inhaber des Prüfzeugnisses seine Genehmigung beantragen, sofern er das Amateurfunkrufzeichen nicht schon nach bestandener Prüfung erhielt.
+In Unterscheidung zum Amateurfunk, für den weltweit eine jeweilige Funkgenehmigung notwendig ist, existiert ebenso global der sogenannte Jedermannfunk.
+Reguliert werden in der Regel der Betriebsmodus, Leistung und Frequenzzuweisung der Geräte, so dass sie nur für die jeweilige Anwendung in Betrieb genommen werden können.
+Amateurfunk ist ein vielfältiges Hobby, da es Kenntnisse in Wissenschaft und Technik, Freude an Kommunikation, handwerkliches Geschick und Kreativität erfordert:
+Damit sich Funkamateure leichter mit der Technik auseinandersetzen können, bieten verschiedene Firmen und Funkamateure Bausätze an.
+Selbstbaugeräte besitzen häufig nur eine geringe Sendeleistung.
+Die Räumlichkeit, in der diese Geräte aufgestellt bzw. betrieben werden, wird als Shack bezeichnet (engl. Bude, Hütte).
+Beispielsweise stehen die beiden Buchstaben OM ("Old Man") für einen männlichen Funkamateur, hingegen YL ("Young Lady") für eine Funkamateurin (in beiden Fällen jeglichen Alters).
+Es kommen traditionelle Modulationsarten und Betriebsarten wie Telegrafie und Telefonie genauso zum Einsatz wie Funkfernschreiben und moderne digitale Übertragungsverfahren wie Packet Radio, Pactor, APRS, FT8 oder PSK31, welche hauptsächlich für die Textübertragung Verwendung finden.
+Seit kurzem gibt es auch digitalen Sprechfunk, wie den in Japan entwickelten digitalen Übertragungsstandard D-STAR.
+Dazu verbindet man lediglich das Funkgerät mit der Soundkarte eines handelsüblichen PC, auf welchem die Software installiert ist.
+Speziell bei Selbstbauern ist Morsen aber weiterhin sehr beliebt, weil man mit sehr einfachen Geräten (der Sender muss nur den Träger ein- und ausschalten können) und sehr geringen Empfängerbandbreiten (200 Hz gegenüber mindestens 2100 Hz bei Sprechfunk) arbeiten kann.
+Manche jüngere Funkamateure betrachten Morsen als eine digitale Betriebsart unter vielen, d. h., sie erzeugen Morsesignale mit dem Rechner und decodieren sie auch maschinell.
+Das betrachten die meisten "alten Hasen", die noch eine Morseprüfung ablegen mussten, als unsportliches Verhalten.
+Es hat sich aber ergeben, dass Telegrafie, als ursprünglichste Form der Nachrichtenübermittlung weiterhin einen festen Platz im Amateurfunk hat.
+Die Interessen von jugendlichen Funkamateuren sieht das Fachmagazin Funkamateur (Stand November 2006) so: "Eine niederländische Befragung unter Jugendlichen darüber, was ihnen denn am Amateurfunk besonders läge, brachte als Ergebnis folgende Reihung der Interessen: Conteste, Diplome, QRP (!), Funkgerät und PC, Amateurfunk in Gruppen, Notfunk, Naturerscheinungen, Funk und Astronomie." QRP bezieht sich dabei auf den Selbstbau von einfachen Funkgeräten kleiner Leistung.
+Besonders begehrt sind QSL-Karten aus Amateurfunk-Ländern, in denen es sehr wenige oder keine Funkamateure gibt, aber auch von selten arbeitenden oder schwer zu erreichenden Amateurfunk-Stationen wie der Internationalen Raumstation ISS oder von prominenten Funkamateuren wie Juan Carlos von Spanien.
+Für bestimmte Leistungen, beispielsweise für Funkkontakte in eine bestimmte Anzahl Gebiete, werden Amateurfunkdiplome ausgestellt.
+1939 durften solche Experimentalstationen ins kommerzielle Lager wechseln, dann natürlich mit den Rufzeichen aus 3-4 Buchstaben, die auch bis heute üblich sind.
+In den USA gab es ab 1905 für 8,50 Dollar den "Telimco-Telegraphen" frei zu kaufen, mit dem man etwa eine Meile überbrücken konnte.
+Zonen-übergreifende Organisationen waren nicht möglich, Kommunikation und Reisen nur schwer möglich.
+Wie damals üblich begann der Amateurfunk auch in der Schweiz um den Ersten Weltkrieg als "Schwarzfunk".
+Entsprechend förderten Institutionen wie die Deutsche Bundespost, Deutsche Telekom, das Technische Hilfswerk oder die Bundeswehr den Amateurfunk.
+Rund um Windhoek kann man es wie ein ganz normales UKW-Relais nutzen, während Funkamateure im restlichen Land den 80-m-Zugang nutzen können.

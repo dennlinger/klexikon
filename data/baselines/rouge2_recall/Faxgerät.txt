@@ -1,0 +1,21 @@
+Ein Fax (Kurzform von Telefax, das wiederum von Telefaksimile), auch Fernkopie genannt, ist die Übertragung eines oder mehrerer Dokumente in Form eines in Linien und Pixel gerasterten Bildes über das Telefonnetz oder per Funk (z. B. Wetterfax).
+Faxe verschicken und empfangen kann man auch von und zu einem PC mittels einer der folgenden Lösungen:
+Zur Faxübertragung werden die Normen G2 oder G3 verwendet (siehe CCITT Recommendation T.4 Standardization of Group 3 Facsimile Apparatus for Document Transmission und T.30-Protokoll).
+Für Fax zwischen ISDN-Anschlüssen gibt es die Norm G4.
+Sein System wurde vor allem durch Frederick Collier Bakewell im Jahre 1847 dadurch verbessert, dass er das zu übertragende Bild auf einer rotierenden Walze aufspannte und Bildelement für Bildelement durch einen Metallstift schraublinienförmig abtastete.
+Die Registrierung erfolgte auf der Empfangsseite in ähnlicher Weise.
+Erste Geräte in Deutschland finden sich in den 1970er Jahren, damals noch unter der Bezeichnung Fernkopierer.
+1979 wurde der Faxdienst durch die Deutsche Bundespost offiziell eingeführt.
+Heimisch wurde das Faxgerät in den deutschen Büros aber erst Ende der 1980er Jahre.
+Eine Vielzahl zivilrechtlicher Erklärungen, so zum Beispiel der Widerruf von Fernabsatzverträgen gemäß § 355 BGB, kann mittlerweile rechtswirksam per Telefax abgegeben werden.
+Ein weiteres Problem besteht darin, dass die Gegenstation nicht sicher identifizierbar ist.
+In Schwarz-Weiß-Faxen werden die Bildinformationen nach dem Auslesen durch eine Fotodiodenzeile verlustfrei mit den Algorithmen MH (Modified Huffman, RLE-basiert), MR (Modified READ, auch als "Fax Group 3" oder eindimensionale Kodierung bezeichnet, siehe auch Error Correction Mode) oder MMR (Modified Modified READ, auch als "Fax Group 4" oder zweidimensionale Kodierung bezeichnet) komprimiert.
+Die relativ einfach zu implementierende MH-Kodierung wird heute noch verwendet, um mit älteren Faxgeräten oder mit Faxsoftware über die CAPI-Schnittstelle zu kommunizieren.
+Zum Beginn einer Verbindung, vor Übermittlung des Nachrichteninhalts, stimmen sich sendendes und empfangendes Gerät über die verwendete Kodierung ab.
+Bei der Aushandlung der Parameter (englisch negotiation) am Beginn einer Verbindung wird dem Empfänger auch das vom Sender verwendete Papierformat mitgeteilt.
+Im Annex E zu T.4 werden für Farbfaxe nicht nur die Auflösungen 200 dpi und 400 dpi, sondern zusätzlich 300 dpi, was 11,55 Zeilen/mm entspricht, zugelassen.
+Die meisten Geräte sind nicht in der Lage, eine Seite über ihre gesamte Breite zu bedrucken oder einzuscannen.
+Nach dem Senden eines Fax kann ein Sendebericht ausgedruckt werden.
+Hier wird zusätzlich noch der Inhalt des gesendeten Dokumentes in verkleinerter Form mit ausgedruckt.
+Auch ein qualifizierter Sendebericht ist somit kein rechtssicherer Beweis dafür, dass ein bestimmtes Schreiben einen bestimmten Empfänger überhaupt und/oder zu dem angegebenen Termin erreicht hat.
+Es existieren auch Kombilösungen, bei denen eine E-Mail an ein Gateway gesendet wird, welche diese dann als Fax weiterschickt (siehe Mail2Fax).

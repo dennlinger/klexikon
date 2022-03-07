@@ -1,0 +1,4 @@
+Der Horizont ist eine Linie, die den Himmel von der Erde abgrenzt.
+Auf sie beziehen sich Messungen von Höhenwinkeln, zum Beispiel mit einem Sextanten.
+Nach der DIN 13312 ("Navigation; Begriffe, Abkürzungen ...") soll für die Kimmtiefe in der Seefahrt die Abkürzung "Kt", im Englischen die Abkürzung "D" (von dip of horizon), in der Luftfahrt die Abkürzung "Dip" verwendet werden; als Formelzeichen wird für die Seefahrt k empfohlen.
+Setzt man hier den mittleren Erdradius (6,371 Mm) für r {\displaystyle r} ein, so erhält man die Horizontdistanz in Kilometern, bei Angabe der Höhe h {\displaystyle h } in Metern, mit der Faustformel: d ( k m )  3 , 57 * h .

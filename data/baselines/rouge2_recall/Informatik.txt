@@ -1,0 +1,19 @@
+Bei der Informatik handelt es sich um die Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen, wobei besonders die automatische Verarbeitung mit Digitalrechnern betrachtet wird.
+Sie ist zugleich Grundlagen- und Formalwissenschaft als auch Ingenieurdisziplin.
+1937 veröffentlicht Alan Turing seine Arbeit On Computable Numbers with an application to the Entscheidungsproblem, in welcher die nach ihm benannte Turingmaschine vorgestellt wird, ein mathematisches Maschinenmodell, das bis heute für die Theoretische Informatik von größter Bedeutung ist.
+Die Berechenbarkeit greift bis in die Gegenwart auf Varianten dieser Modelle zurück.
+Um die Bedeutung der Automation oder Mathematik für die Informatik zu betonen, wird Informatik manchmal auch als Kofferwort aus Information und Automatik oder Information und Mathematik ausgegeben.
+In Deutschland gehen die Anfänge der Informatik auf das Institut für praktische Mathematik (IPM) der Technischen Hochschule Darmstadt (TH Darmstadt) zurück, das der Mathematiker Alwin Walther seit 1928 aufbaute.
+Für die Umsetzung war der sogenannte "Fachbeirat für Datenverarbeitung" zuständig, der überwiegend aus Vertretern der Hochschulen und außeruniversitären Forschungseinrichtungen bestand.
+Der Ausschuss formulierte Empfehlungen für die Ausbildung von Informatikern, welche die Einrichtung eines Studiengangs der Informatik an mehreren Universitäten und Technischen Hochschulen vorsahen.
+International bedeutend sind vor allem die beiden großen amerikanischen Vereinigungen Association for Computing Machinery (ACM) seit 1947 und das Institute of Electrical and Electronics Engineers (IEEE) seit 1963.
+Die Association for Computing Machinery vergibt jährlich den Turing Award, der vom Rang her in der Informatik in etwa vergleichbar mit dem Nobelpreis ist.
+Im Jahre 1982 öffnete die Firma Commodore schließlich mit dem C64 den Massenmarkt speziell für Heimanwender, aber auch weit darüber hinaus.
+Als Rückgrat der Informatik befasst sich das Gebiet der Theoretischen Informatik mit den abstrakten und mathematikorientierten Aspekten der Wissenschaft.
+Die Komplexitätstheorie liefert bisher fast nur obere Schranken für den Ressourcenbedarf von Problemen, denn Methoden für exakte untere Schranken sind kaum entwickelt und nur von wenigen Problemen bekannt (so zum Beispiel für die Aufgabe, eine Liste von Werten mit Hilfe einer gegebenen Ordnungsrelation durch Vergleiche zu sortieren, die untere Schranke  ( n log  ( n ) ) {\displaystyle \Omega (n\log(n))} ).
+Ein Beispiel für den Einsatz von Datenstrukturen ist der B-Baum, der in Datenbanken und Dateisystemen das schnelle Suchen in großen Datenbeständen erlaubt.
+Echtzeitsysteme sind darauf ausgelegt, dass sie auf bestimmte zeitkritisch ablaufende Prozesse der Außenwelt mit angemessener Reaktionsgeschwindigkeit rechtzeitig antworten können.
+Schlagworte in diesem Zusammenhang sind beispielsweise Middleware, Grid-Computing und Cloud Computing.
+Die Ingenieurinformatik, englisch auch als Computational Engineering Science bezeichnet, ist eine interdisziplinäre Lehre an der Schnittstelle zwischen den Ingenieurwissenschaften, der Mathematik und der Informatik an den Fachbereichen Elektrotechnik, Maschinenbau, Verfahrenstechnik, Systemtechnik.
+Das Information Engineering der Informationssysteme und das Informationsmanagement spielen im Rahmen der Wirtschaftsinformatik eine gewichtige Rolle.
+Im Verständnis des Begriffs "Künstliche Intelligenz" spiegelt sich oft die aus der Aufklärung stammende Vorstellung vom Menschen als Maschine wider, dessen Nachahmung sich die sogenannte "starke KI" zum Ziel setzt: eine Intelligenz zu erschaffen, die wie der Mensch nachdenken und Probleme lösen kann und die sich durch eine Form von Bewusstsein beziehungsweise Selbstbewusstsein sowie Emotionen auszeichnet.

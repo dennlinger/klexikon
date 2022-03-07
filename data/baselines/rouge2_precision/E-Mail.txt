@@ -1,0 +1,36 @@
+Die (auch das) E-Mail (englisch , kurz Mail; engl. electronic mail für "elektronische Post") ist zum einen ein System zur computerbasierten Verwaltung von briefähnlichen Nachrichten und deren Übertragung über Computernetzwerke, insbesondere über das Internet.
+Ray Tomlinson hat im Jahr 1971 den ersten elektronischen Brief verschickt und gilt seitdem als Erfinder der E-Mail.
+Sie ermöglichten Benutzern, den Mailboxen anderer Benutzer desselben Computers Text hinzuzufügen.
+Parallel zum Internet entwickelten sich zu Beginn der 1980er Jahre in den meisten Netzwerken Systeme, mit denen sich Nachrichten übertragen ließen.
+Eine Kopie dieser E-Mail wurde als "CC" gleichzeitig an den Leiter des Projekts, Werner Zorn mit der Adresse ("zorn@germany"), geschickt.
+X.400 ist ein offener Standard, der hauptsächlich im LAN oder WAN benutzt wird.
+Die erste große E-Mail-Diskussionsgruppe, die im Arpanet entstand, war eine Mailingliste namens "SF-LOVERS", in der sich eine Reihe von DARPA-Forschern an öffentlichen Diskussionen über Science-Fiction beteiligten.
+Für einige Monate wurde die Liste deshalb gesperrt.
+Zum Schreiben, zum Versand, zum Empfang und zum Lesen von E-Mails gibt es zwei Möglichkeiten (Benutzerschnittstellen).
+Ein solches Programm ist lokal auf dem Computer des Benutzers installiert und kommuniziert mit einem oder mehreren E-Mail-Postfächern.
+Alternativ kann man via Webmail auf seine E-Mail zugreifen.
+E-Mails sind intern in zwei Teile geteilt:
+Bei Bedarf kann der Header jederzeit wieder komplett sichtbar gemacht werden.
+Eine E-Mail darf gemäß RFC 5322 Abschnitt 2.3 nur Zeichen des 7-Bit-ASCII-Zeichensatzes enthalten.
+Obwohl das HTML-Format standardisiert ist, war es ursprünglich nicht für den Einsatz in E-Mails gedacht.
+Eine E-Mail-Adresse bezeichnet eindeutig den Empfänger einer E-Mail und ermöglicht damit eine Zustellung an diesen Empfänger.
+Wenn Anja und Bertram ihre E-Mail-Konten beim selben E-Mail-Anbieter haben, entfällt Schritt 3.
+Je nach Ausführung des verwendeten E-Mail-Programms kann der Absender einer E-Mail eine Zustellbestätigung und/oder eine Lesebestätigung anfordern.
+Bezogen auf das obige Beispiel geschähe dies zeitlich unmittelbar nach Schritt 4.
+Bezogen auf das obige Beispiel geschähe dies zeitlich unmittelbar im Schritt 6 beim Öffnen der E-Mail.
+Die Lesebestätigung kann somit nicht dahingehend interpretiert werden, dass der Empfänger die E-Mail auch tatsächlich gelesen oder gar verstanden hat.
+Das Format einer E-Mail wird durch den RFC 5322 festgelegt.
+Der Standard Quoted-Printable kodiert zum Beispiel den Buchstaben "ß" als Zeichenkette "=DF".
+In der Realität zeigen sich allerdings Grenzen durch technische oder administrative Beschränkungen der Systeme, die die E-Mail übertragen oder empfangen.
+Bei neueren POP-Versionen ist es aber - abhängig von den Einstellungen des Servers - auch möglich, die Mails auf dem Server zu belassen.
+mbox ist eine unter Unix/Linux häufig verwendete Möglichkeit, eine Alternative ist Maildir.
+Sie finanzieren sich im Allgemeinen durch Werbung.
+Auch versendete und gelöschte E-Mails können automatisch archiviert werden.
+Antworten auf E-Mails können einfacher und schneller begonnen werden, indem der Absender und die CC-Empfänger der Ursprungs-E-Mail automatisch als Empfänger der Antwort übernommen werden.
+Seit ungefähr 2002 sind mehr als 50 % und seit 2007 etwa 90 % des weltweiten E-Mail-Aufkommens Spam.
+Im Jahr 2010 wurden ca. 107 Billionen E-Mails verschickt, mit einem Spam-Anteil von 89,1 %.
+Der folgende Unterabschnitt soll dazu möglichst plastisch den recht geringen Sicherheits-Standard einer herkömmlichen E-Mail im Vergleich zu einer Postkarte darstellen.
+Im Jahre 2004 gab es verschiedene Versuche, das Spam-Problem in den Griff zu bekommen.
+So können zum Beispiel Maklerverträge und Abmahnungen rechtswirksam per E-Mail zugesandt werden.
+Ein Verstoß löst eine Pflicht zur Leistung von Schadensersatz aus.
+Inzwischen wird in vielen Ländern der E-Mail-Verkehr vom Staat überwacht.

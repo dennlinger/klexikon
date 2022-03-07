@@ -1,0 +1,7 @@
+Die geographische Breite (B oder ), auch geodätische Breite oder Breitengrad genannt (lateinisch latitudo, englisch latitude; internationale Abkürzung Lat. oder LAT), ist die im Winkelmaß in der Maßeinheit Grad angegebene nördliche oder südliche Entfernung eines Punktes der Erdoberfläche vom Äquator.
+Die Breite nimmt Werte von -90° am Südpol über 0° am Äquator bis +90° am Nordpol an.
+Die geographische Breite verwendet ellipsoidische Koordinaten; man misst den Winkel zwischen der Normalen (Senkrechten) zum Erdellipsoid und der Äquatorebene der Erde.
+Es wird nicht wie bei der geozentrischen Breite zum Erdmittelpunkt gemessen und sich auch nicht auf die wahre Lotrichtung bezogen, wie bei der astronomischen Breite.
+Es gibt - je nach der gewünschten Genauigkeit - verschiedene Methoden der Darstellung, z. B.:
+Fehlt die Angabe N oder S, so stehen positive Werte für nördliche Breite und negative für südliche Breite.
+Einmal kann damit die geographische Breite in Grad selber gemeint sein, zum anderen der Breitenkreis, auf dem alle Orte gleicher geographischer Breite liegen, und hierbei manches Mal nur solche Breitenkreise, deren geographische Breite in Grad ganzzahlig ist.

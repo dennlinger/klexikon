@@ -1,0 +1,9 @@
+iOS ist ein von Apple entwickeltes mobiles Betriebssystem für das iPhone und den iPod touch.
+Bis Anfang 2010 hieß es iPhone OS (unter iTunes iPhone Software) auf dem iPhone und iPad OS auf dem iPad, bis es nach dem Lizenzieren des Markennamens IOS von Cisco Systems ab Version 4 im Juni 2010 in iOS umbenannt wurde und die beiden nur leicht unterschiedlichen Versionen für iPhone und iPad vereint wurden.
+Parallel zum SpringBoard, der allgemein bekannten Benutzeroberfläche von iOS, wurde die Oberfläche SwitchBoard entwickelt, von der sich mehrere Diagnoseprogramme starten lassen, und "SkankPhone" zur primären Benutzung des iPhones als Telefon.
+Das ursprüngliche Betriebssystem wurde am 9. Januar 2007 zusammen mit dem iPhone auf der MacWorld Conference and Expo vorgestellt.
+Zunächst wurden das iOS des iPhones und das des iPads als unterschiedliche Versionen betrieben (iPhone OS und "iPad OS").
+Auf der Worldwide Developers Conference am 3. Juni 2019 stellte Apple das Betriebssystem iPadOS vor.
+Für Entwickler hat Apple die Möglichkeit eingeführt, nun Apps zu entwickeln, die unter diesen Geräten nicht kompatibel sind (stattdessen kommt beim Versuch des Herunterladens betreffender Apps aus dem App Store nun die Meldung "Diese App ist nicht mit ihrem Gerät kompatibel").
+Die Systempartition enthält das sogenannte root-Verzeichnis von iOS, dort befinden sich alle Systemkomponenten wie zum Beispiel das Springboard und die Hintergrunddienste von iOS.
+Eine Alternative zu der App, die eine Apple-ID erfordert, ist die mobile Webseite von YouTube, die in einem Webbrowser aufgerufen werden kann.

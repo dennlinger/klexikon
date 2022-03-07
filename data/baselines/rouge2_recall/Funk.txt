@@ -1,0 +1,12 @@
+Funktechnik oder Funk ist eine Bezeichnung für die Methode, Signale aller Art mit Hilfe modulierter elektromagnetischer Wellen im Radiofrequenzbereich (Radiowellen) drahtlos zu übertragen.
+Anwendungen in Industrie und Medizin, die Hochfrequenz nur als Werkzeug einsetzen (wie z. B. Härte- und Schmelzöfen oder Therapiegeräte), verwenden dagegen in der Regel unmodulierte Radiowellen ohne aufgeprägte Informationen und werden deshalb nicht der Funktechnik zugeordnet.
+Die ersten Sendeanlagen arbeiteten mit Funkenstrecken - durch die starken, oberwellenreichen Strom- und Spannungsimpulse entstanden hierbei auch die gewünschten Funkwellen.
+Die erste Funkverbindung gelang Guglielmo Marconi 1895 mit einem Knallfunkensender und dem Nachbau eines Empfängers von Alexander Stepanowitsch Popow über eine Entfernung von etwa fünf Kilometern.
+Am 24. September 1900 wurde eine solche Verbindung über die 62 km lange Strecke Cuxhaven-Helgoland geschaffen.
+Diese primitive und heute unerwünschte Erzeugung von Funkwellen erlaubte nur Nachrichtenübermittlung durch Morsezeichen, beispielsweise von der Großfunkstelle Nauen zu den Schiffen der kaiserlichen Marine oder zu den Funkstationen in Deutsch-Südwestafrika.
+Erst nach der Entdeckung der Oszillatorschaltung mit einer Elektronenröhre durch Alexander Meißner und die darauf aufbauenden Entwicklungen nach 1913 konnten weitere Modulationsarten entwickelt werden.
+Voraussetzung dafür ist eine zunächst konstante Ausgangsleistung, die bei Übertragung von Ton, Bild und später auch Daten gezielt geändert werden kann.
+Die Funktechnik basiert auf der Tatsache, dass man ein Trägersignal (elektromagnetische Welle) - eine zunächst sinusförmige Wechselspannung konstanter Amplitude - mittels einer Modulationsart durch ein Nachrichtensignal gezielt verändern kann.
+Dabei wird beispielsweise die Frequenz oder die Amplitude der Wechselspannung im Rhythmus des Signals geändert.
+Die modulierte Welle wird über eine Antenne abgestrahlt und auf der Empfängerseite durch eine weitere Antenne empfangen.
+Dabei kommt es zu einer Vielzahl von Effekten, die von der benutzten Frequenz, der Dichte des Gases, der Ionisation und der Schichtung im Signalweg abhängig ist.

@@ -1,0 +1,17 @@
+Ein Hebel ist in der Physik und Technik ein mechanischer Kraftwandler bestehend aus einem starren Körper, der um einen Drehpunkt drehbar ist.
+Die mathematische Beschreibung eines solchen Systems im (Drehmoment-)Gleichgewicht wird als Hebelgesetz bezeichnet.
+Dieses Gesetz wurde bereits in der Antike durch Archimedes formuliert.
+Unterschieden werden einseitige und zweiseitige Hebel, je nachdem ob die Kräfte nur auf einer Seite oder auf beiden Seiten des Drehpunktes angreifen.
+Die zentrale physikalische Größe, die zur Beschreibung eines Hebels benötigt wird, ist das Drehmoment M = {\displaystyle { \vec {M}} } in Bezug auf den Drehpunkt A {\displaystyle A} , um den sich der Hebel drehen kann.
+Dadurch wird das Kreuzprodukt zu einem normalen Produkt der Beträge der Vektoren.
+Es ergibt sich das Verhältnis
+Eine weitere Größe, die betrachtet werden kann, ist die Geschwindigkeit an verschiedenen Stellen des Hebels während der Bewegung des Hebels.
+Ein weiteres technisches Problem ist die Verformbarkeit von realen Materialien:
+Reale Hebel, wie sie z. B. im Maschinenbau verwendet werden, können aus verschiedensten Werkstoffen bestehen.
+Auch wenn es auf den ersten Blick anders erscheint:
+Das Ruder ist ein einseitiger Hebel.
+Weil die Bewegung des Bootes der eigentliche Zweck ist, kann das eingetauchte Ruderblatt als Drehpunkt betrachtet werden, um den sich das Boot bewegt, also in die Wirkrichtung der angreifenden Kraft geschoben wird.
+Stützt sich das Ruderblatt von einem Felsen ab, liegt dort der Drehpunkt; beim Rudern in der Luft ist die Dolle der Drehpunkt.
+Dort wird die Wippe durch wechselseitiges Anlegen einer Kraft hin- und hergeschwenkt.
+Ein weiterer Anwendungsfall ist der Kniehebel, beispielsweise bei der Kniehebelpresse.
+Eine schließende Pinzette bietet federnde Haltekraft, die kleiner ist als die Fingerkraft.

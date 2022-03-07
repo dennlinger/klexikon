@@ -1,0 +1,20 @@
+Beschleunigung ist in der Physik die Änderung des Bewegungszustands eines Körpers.
+Als physikalische Größe ist die Beschleunigung die momentane zeitliche Änderungsrate der Geschwindigkeit.
+Sie ist eine vektorielle, also gerichtete Größe.
+Die SI-Einheit der Beschleunigung ist m/ s2.
+Allgemein können Belastungen technischer Geräte oder die Angabe von Belastungsgrenzen als g-Kraft, also als "Kraft pro Masse", erfolgen.
+Angegeben wird meist ein Mittelwert in der Form "In ... Sekunden von 0 auf 100 km/h" (auch 60, 160 oder 200 km/h).
+Wenn der Aufzug im Vergleich zur Erde ruht, so zeigt die Waage eine Gewichtskraft von 9,8 Newton an.
+Die Ableitung dieses Ausdrucks nach der Zeit ist die Beschleunigung:
+Ist die Tangentialbeschleunigung Null, so ändert der Körper nur seine Bewegungsrichtung.
+Ist die Tangentialbeschleunigung negativ, so verringert sich die Geschwindigkeit des Körpers.
+Bei Fahrzeugen spricht man von einer Verzögerung oder Bremsung des Fahrzeugs.
+Die Position lässt sich daraus einfach durch zweifache Integration über die Zeit bestimmen.
+Seine Richtung gibt also an, wohin eine Kugel rollen würde, die in die Schüssel gelegt wird.
+Auch bei einem freien Fall (ohne Luftwiderstand) werden alle Körper gleich beschleunigt.
+Auf der Erde beträgt die Beschleunigung in Richtung Erdmittelpunkt ungefähr 9,81 Meter pro Quadratsekunde.
+Unabhängig vom Potential muss bei Messungen gegebenenfalls auch die Beschleunigung durch die Erdrotation berücksichtigt werden.
+Es geht auf die Überlegungen von Galileo Galilei und Isaac Newton zurück, die erkannt haben, dass alle Körper unabhängig von ihrer Masse von der Gravitation gleich beschleunigt werden.
+Ein Beobachter in einem Labor kann nicht feststellen, ob sich sein Labor in der Schwerelosigkeit oder im freien Fall befindet.
+Nichtbeschleunigte Beobachter bewegen sich immer auf dem kürzesten Weg (einer Geodäte) durch die Raumzeit.
+Das bedeutet, dass die Metrik des Raumes nicht mehr flach ist.

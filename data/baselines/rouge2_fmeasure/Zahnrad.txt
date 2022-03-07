@@ -1,0 +1,24 @@
+Das Maschinenelement Zahnrad ist ein Rad mit über den Umfang gleichmäßig verteilten Zähnen.
+Zwei oder mehr miteinander gepaarte Zahnräder bilden ein Zahnradgetriebe.
+Die für eine Eingriffsfläche gewählte Form bestimmt aber die Form der Eingriffsfläche am Gegenrad.
+Der Radabstand ist so ausgelegt, dass die Zähne ineinander greifen, und somit die Drehbewegung des einen Zahnrades auf das andere übertragen wird.
+Sind die Räder unterschiedlich groß, wird die Drehzahl erhöht oder verringert, wobei das Drehmoment vermindert oder erhöht wird (Änderung des Übersetzungsverhältnisses).
+Schriftliche Belege dafür gibt es nicht mehr.
+Diese epizykloidische Zahnform sichert eine gleichförmige Bewegung der Zahnräder bei gleichmäßiger Gleitreibung.
+Neu war, dass hier nun ebenso wie bei Stirnrädern das kontinuierliche Wälzfräsverfahren eingesetzt werden konnte.
+Stirnräder werden aber auch in Getrieben mit sich kreuzenden Achsen verwendet, etwa in Schneckengetrieben und Kronenradgetrieben.
+Neben dem Stirnrad als Außenrad gibt es auch das Innenrad, welches nicht als Stirnrad bezeichnet wird, da mit Stirn eine Außenform gemeint ist.
+Die Paarung einer Zahnstange mit einem Stirnrad wird als Zahnstangengetriebe bezeichnet.
+Wenn sich das antreibende Rad gleichmäßig dreht, dreht sich auch das getriebene Rad gleichmäßig.
+Ein Ellipsenrad ist ein unrundes Zahnrad.
+Das Übersetzungsverhältnis variiert über eine Umdrehung um den Mittelwert i = 1. Ist nur ein Rad elliptisch, so muss ein Rad auf einer Schwingachse montiert sein.
+Verwendet werden solche Zahnräder zum Beispiel in Webmaschinen.
+Die Grundform ist ein Kegelstumpf, dessen Mantelfläche verzahnt ist.
+Die Zähne verlaufen meistens gerade in Richtung der Mantellinien, beim sogenannten Hypoidgetriebe sind sie bogenförmig.
+Es wurde früher öfter als ein Kegelradgetriebe verwendet (siehe Abbildung: Kronenradgetriebe aus Holz).
+Beim Kronenrad ist die Verzahnung auf der Kreisfläche eines Zylinders angebracht.
+Die Verzahnung auf der kleinen Schnecke ähnelt einem Gewinde.
+Bei der Globoidschnecke ist die gewindeartige Verzahnung nicht zylindrisch.
+Alle Angaben gelten nur für Zahnräder ohne Profilverschiebung, d. h. unkorrigierte Zahnräder.
+Allerdings entsteht beim Härten Härteverzug, deshalb müssen in der Regel die Flanken nach dem Härten durch Schleifen nachbearbeitet werden, um die gewünschte Verzahnungsqualität zu erreichen.
+Vergleichbar mit der Zweiflankenwälzprüfung ist das Verfahren der Einflankenwälzprüfung.

@@ -1,0 +1,24 @@
+Der Kompass (von italienisch compasso "Zirkel, Magnetnadel", abgeleitet von compassare "abschreiten", Plural: Kompasse) ist ein Instrument zur Anzeige der Richtung des Erdmagnetfelds und dient damit der Bestimmung der Richtung von Nord- und Südpol der Erde und daraus abgeleitet der anderen Himmelsrichtungen.
+Andere Ausführungen sind elektronische (Magnet-)Kompasse auf Basis von Hall-Sensoren oder anderen Sensoren.
+Mit einem Fluxgate-Magnetometer kann Betrag und Richtung des Erdmagnetfeldes auf ein 1/100.000 seines Absolutwerts genau bestimmt werden.
+Die Matrosen des östlichen Mittelmeeres haben spätestens zur Zeit der Kreuzzüge vom nassen Kompass erfahren und ihn optimiert.
+Diese falsche Theorie wird heute teilweise immer noch vertreten.
+Um 1542 wusste man bereits, dass es auch eine Linie ohne Missweisung - die Agone - gab.
+Am Gehäuse ist in der Regel eine Winkelskala angebracht.
+Kompasskapseln sind heutzutage meist mit einer Flüssigkeit gefüllt, um die Bewegung der Nadel zu dämpfen.
+( Aber auch kardanische Aufhängungen anstelle des Lagedetektors kommen zum Einsatz).
+Dies ist besonders beim Einsatz auf Fahrzeugen wichtig.
+Es gibt elektronische Magnetkompasse aber auch als eigenständige Geräte.
+Daneben gibt es noch andere Einflussfaktoren, die aber für navigatorische Zwecke unbedeutend sind.
+Die beiden erstgenannten Faktoren bewirken, dass die Abweichung der Kompassnadel von der geografischen Nordrichtung an jedem Ort der Erde unterschiedlich ist.
+Dieses Phänomen nennt man Deklination.
+Um diese Kompensierung zu erreichen, wird das Fahrzeug (Schiff) sukzessive in die verschiedenen Himmelsrichtungen gelegt und versucht mit den Kompensiereinrichtungen die Kompassanzeige zu berichtigen.
+Das Erdmagnetfeld kann in eine senkrecht und in eine waagrechte Komponente zerlegt werden.
+Als die magnetische Eigenschaft der Magnetit-Nadel entdeckt wurde, nannte man das Ende der Nadel, das nach Norden zeigte, naheliegenderweise den Nordpol der Nadel.
+Erst sehr viel später erkannte man den Grund des Effekts und dass sich bei Magneten immer gegensätzliche Pole anziehen.
+Der magnetische Pol der Nordhalbkugel hat also eine magnetische Polung, die dem Nordpol der Kompassnadel entgegengesetzt ist.
+Diese Teilung wird aber heute in der Navigation nur noch selten benutzt.
+Da die Kompassrose sich als Ganzes dreht, wird die Richtung an einer fest mit dem Gehäuse verbundenen Markierung (Steuerstrich) abgelesen.
+Dieser Effekt wird Beschleunigungsfehler genannt.
+Bei Beschleunigungen quer zur Magnetisierung (Ost-West-Richtung) kippt der Kompassmagnet derart, dass die vertikale Komponente des Erdmagnetfelds dessen Nordpol nach unten ziehen kann, was die Anzeige verfälscht.
+Diese Kompasse haben den Nachteil, dass sie von Hand der Querlage des Flugzeugs angepasst werden müssen.

@@ -1,0 +1,19 @@
+Laser (/lzr/, auch /lezr/ oder /lazr/; Akronym für englisch light amplification by stimulated emission of radiation ,Licht-Verstärkung durch stimulierte Emission von Strahlung') bezeichnet sowohl den physikalischen Effekt als auch das Gerät, mit dem Laserstrahlen erzeugt werden.
+Ein Laser besteht konzeptionell aus drei Bestandteilen:
+Beide Photonen bewegen sich in die gleiche Richtung.
+Einer der beiden Spiegel ist teildurchlässig ausgeführt, so dass ein Teil des Lichts austreten und seiner Nutzung zugeführt werden kann.
+Der erste Laser - ein Rubinlaser - wurde von Theodore Maiman am 16. Mai 1960 fertiggestellt.
+Die Differenz  N = N 1 - N 2 {\displaystyle \Delta N=N_{1}-N_{2} } zwischen der Anzahl der Teilchen im unteren N 1 {\displaystyle N_{1 } } und oberen Laserniveau N 2 {\displaystyle N_{2 } } wird als "Inversion" bezeichnet und ist maßgeblich für die Funktionsweise des Lasers.
+Voraussetzung ist eine hohe Intensität des Lichts im Resonator.
+Im Resonator werden nur Frequenzen verstärkt, welche die Resonanzbedingung erfüllen, für die also gilt:
+In dieser Formel kann man die Frequenz durch den gebräuchlicheren Begriff Wellenlänge ersetzen und erhält für die möglichen Wellenlängen  {\displaystyle \lambda } in einem Resonator:
+Eine Verkürzung der Resonatorlänge, um nur eine Mode zu erzeugen, ergibt aber meist keinen Sinn, da dadurch nicht die gewünschte Lichtleistung erzielt werden kann.
+Abhängig von der Anzahl ihrer Knotenlinien in horizontale und vertikale Richtung werden sie als TEMxy-Mode bezeichnet.
+Eine herausragende, allgemeine Eigenschaft stellt jedoch die Möglichkeit zur starken Bündelung dar, mit der sehr hohe Leistungsdichten erzielt werden können.
+Dadurch zeigt ein solches Licht besonders ausgeprägte Interferenzerscheinungen.
+Die Gruppe der Festkörperlaser beinhaltet Laser, deren Lasermedium Kristalle sind.
+In der Industrie und der Fertigungstechnik werden Laser für verschiedene Fertigungsverfahren (DIN 8580) eingesetzt.
+Die Femtosekundenlaser-Kataraktoperation ist eine neue Methode in der Chirurgie des Grauen Stars (Katarakt), die bei einigen wichtigen Schritten während dieses Eingriffs von besonders hoher Präzision ist.
+Zugangstüren müssen daher elektrisch überwacht oder zugehalten werden, solange der Laser gefährliche Strahlung abgeben kann.
+Sie bietet einen Schutz für die Retina des Auges.
+Diese Einteilung ist heute noch in den USA gebräuchlich.

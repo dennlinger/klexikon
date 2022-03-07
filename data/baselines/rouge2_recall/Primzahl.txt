@@ -1,0 +1,16 @@
+Eine Primzahl (von lateinisch numerus primus ,erste Zahl') ist eine natürliche Zahl, die größer als 1 und ausschließlich durch sich selbst und durch 1 teilbar ist.
+Dabei bedeutet primus speziell "Anfang, das Erste (der Dinge)", sodass eine "Anfangszahl" gemeint ist, die aus keiner anderen (vorhergehenden) Zahl multiplikativ konstruiert werden kann.
+Obwohl Primzahlen seit damals stets einen großen Reiz auf die Menschen ausübten, sind viele die Primzahlen betreffenden Fragen bis heute ungeklärt, darunter solche, die mehr als hundert Jahre alt und leicht verständlich formulierbar sind.
+Andererseits ermöglichen diese Maschinen eine effiziente Verschlüsselung sowie, wenn man den Schlüssel kennt, Entschlüsselung auch langer Texte.
+Die Primzahlen sind innerhalb der Menge N {\displaystyle \mathbb {N} } der natürlichen Zahlen dadurch charakterisiert, dass jede von ihnen genau zwei natürliche Zahlen als Teiler hat.
+Mit Ausnahme der Zahl 2 sind alle Primzahlen p {\displaystyle p} ungerade, denn alle größeren geraden Zahlen lassen sich außer durch sich selbst und 1 auch noch (mindestens) durch 2 teilen.
+Den kleinen Fermatschen Satz kann man auch in der Form lesen:
+In der Folge a n - a {\displaystyle a^{n}-a} ist das p {\displaystyle p} -te Folgenglied für eine Primzahl p {\displaystyle p} stets durch p {\displaystyle p} teilbar.
+In der Praxis wird der Miller-Rabin-Test am häufigsten verwendet, der eine extrem kurze Laufzeit hat, allerdings mit kleiner Wahrscheinlichkeit falsch-positive Ergebnisse liefert.
+Der Grieche Euklid hat im vierten Jahrhundert vor Christus logisch geschlussfolgert, dass es unendlich viele Primzahlen gibt; diese Aussage wird als Satz von Euklid bezeichnet.
+Diese Differenz schwankt, und es gibt Primzahllücken beliebiger Größe.
+Neue Informationstechnologien, zum Beispiel Quantencomputer, könnten das aber ändern.
+Seit hunderten von Jahren diskutieren Mathematiker, ob die Zahl n = 1 {\displaystyle n=1} eine Primzahl ist oder nicht.
+Das Argument dafür, dass 1 eine Primzahl ist, ist das folgende:
+Argumente dagegen, dass also 1 keine Primzahl ist, sind die folgenden:
+Da es bei Definitionen immer Freiheitsgrade gibt, hat man um der Ökonomie der Begriffe willen sich dafür entschieden, (neben der 0) die 1 (und etwas allgemeiner alle Einheiten) von den Primzahlen (resp.

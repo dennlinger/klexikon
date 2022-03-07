@@ -1,0 +1,17 @@
+Kryptographie bzw. Kryptografie (altgriechisch uo kryptos, deutsch ,verborgen', ,geheim' und av graphein, deutsch ,schreiben') ist ursprünglich die Wissenschaft der Verschlüsselung von Informationen.
+Die Kryptographie befasste sich historisch mit der Erzeugung, Betrachtung und Beschreibung von Verfahren, um "geheim zu schreiben", also mit Verschlüsselungsverfahren.
+Kryptoanalyse (auch Kryptanalyse) bezeichnet hingegen die Erforschung und Anwendung von Methoden, mit denen kryptographische Verfahren gebrochen ("geknackt") werden können.
+1976 gab es zwei wichtige Fortschritte.
+Vor dieser Entdeckung waren die Schlüssel symmetrisch, und der Besitz eines Schlüssels erlaubte sowohl das Verschlüsseln als auch das Entschlüsseln einer Nachricht.
+Diese Situation wurde schnell unüberschaubar, wenn die Anzahl der beteiligten Personen anstieg.
+Auch wurde ein jeweils neuer Schlüssel für jeden Kommunikationspartner benötigt, wenn die anderen Teilnehmer nicht in der Lage sein sollten, die Nachrichten zu entschlüsseln.
+Am 17. Dezember 1997 veröffentlichten die britischen Government Communications Headquarters (GCHQ) ein Dokument, in welchem sie angaben, dass sie bereits vor der Veröffentlichung des Artikels von Diffie und Hellman ein Public-Key-Verfahren gefunden hätten.
+Ein homomorphes Verschlüsselungsverfahren erlaubt es, Berechnungen auf verschlüsselten Daten durchzuführen.
+Dem Kryptologen Craig Gentry gelang es 2009 nachzuweisen, dass ein Verschlüsselungsverfahren existiert, das beliebige Berechnungen auf verschlüsselten Daten zulässt.
+Eine homomorphe Verschlüsselung spielt eine wichtige Rolle beim Cloud-Computing.
+Die bekanntesten dieser Probleme sind die Primfaktorzerlegung und das Finden diskreter Logarithmen.
+Kryptographisch sichere Verfahren sind dann solche, für die es keine bessere Methode zum Brechen der Sicherheit als das Faktorisieren einer großen Zahl gibt, insbesondere kann der private nicht aus dem öffentlichen Schlüssel errechnet werden.
+In Zeiten des Internets wurde der Ruf auch nach privater Verschlüsselung laut.
+Bislang waren es Regierungen und globale Großunternehmen, die die RSA-Verschlüsselung aufgrund notwendiger, leistungsstarker Computer einsetzen konnten.
+Es gibt in verschiedenen Ländern Mitwirkungspflichten bei der Entschlüsselung von Beweismaterial.
+Damit verbunden war ein Verbot anderer Verfahren und Schlüssel.

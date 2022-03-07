@@ -1,0 +1,12 @@
+Ein Hebel ist in der Physik und Technik ein mechanischer Kraftwandler bestehend aus einem starren Körper, der um einen Drehpunkt drehbar ist.
+Die mathematische Beschreibung eines solchen Systems im (Drehmoment-)Gleichgewicht wird als Hebelgesetz bezeichnet.
+Dieses Gesetz wurde bereits in der Antike durch Archimedes formuliert.
+Unterschieden werden einseitige und zweiseitige Hebel, je nachdem ob die Kräfte nur auf einer Seite oder auf beiden Seiten des Drehpunktes angreifen.
+Weiter gibt es neben dem geraden Hebel auch noch den geknickten Hebel oder Winkelhebel, wie er in der Neigungswaage Anwendung findet.
+Die zentrale physikalische Größe, die zur Beschreibung eines Hebels benötigt wird, ist das Drehmoment M = {\displaystyle { \vec {M}} } in Bezug auf den Drehpunkt A {\displaystyle A} , um den sich der Hebel drehen kann.
+Ein Hebel befindet sich im Gleichgewicht, wenn die Summe aller an ihm anliegenden Drehmomente bezüglich desselben Bezugspunktes (nicht notwendigerweise der Drehpunkt) gleich Null ist:
+Wird der Hebel durch Störung des Gleichgewichts durch ein weiteres Drehmoment gekippt, so wird auf beiden Seiten des Drehpunktes die gleiche Arbeit W = F = 1 * s = 1 = F = 2 * s = 2 {\displaystyle W={\vec {F}}_{1}\cdot {\vec {s}}_{1}={\vec {F}}_{2}\cdot {\vec {s}}_{2}} verrichtet, wobei s = 1 , 2 {\displaystyle {\vec {s}}_{1,2} } jeweils der Weg ist, der bei der Kippbewegung zurückgelegt wird.
+Eine weitere Größe, die betrachtet werden kann, ist die Geschwindigkeit an verschiedenen Stellen des Hebels während der Bewegung des Hebels.
+Das Ruder ist ein einseitiger Hebel.
+Weil die Bewegung des Bootes der eigentliche Zweck ist, kann das eingetauchte Ruderblatt als Drehpunkt betrachtet werden, um den sich das Boot bewegt, also in die Wirkrichtung der angreifenden Kraft geschoben wird.
+Stützt sich das Ruderblatt von einem Felsen ab, liegt dort der Drehpunkt; beim Rudern in der Luft ist die Dolle der Drehpunkt.

@@ -1,0 +1,16 @@
+Ein Pendel, auch Schwerependel (früher auch Perpendikel, von lat. pendere "hängen") ist ein Körper, der, an einer Achse oder einem Punkt außerhalb seines Massenmittelpunktes drehbar gelagert, um seine eigene Ruheposition schwingen kann.
+In diesem Sinne keine Pendel sind das Federpendel und das Torsionspendel.
+Das Pendel besteht meist aus einem Band oder einem Stab, der am freien Ende mit einer Masse beschwert ist.
+Bringt man ein solches Pendel aus seiner vertikalen Ruhelage, schwingt es unter dem Einfluss der Schwerkraft zurück und wird, solange keine Dämpfung erfolgt, symmetrisch zwischen den Scheitelpunkten als Umkehrpunkt der Bewegung um die tiefstmögliche Position des Massenmittelpunktes - die Ruheposition - weiterschwingen.
+Die Regelmäßigkeit der Schwingungsperiode eines Pendels wird bei mechanischen Pendeluhren genutzt.
+Dabei wird angenommen, dass die gesamte Masse des Pendels in einem Punkt vereinigt vorliegt, der einen festen Abstand vom Aufhängepunkt hat.
+So ist beispielsweise die Periodendauer eines Stangenpendels, bei dem ein Pendelkörper an einer Stange - dessen Länge mit einer Stellschraube verändert werden kann - mit endlicher Masse hängt, stets kürzer als die Periodendauer eines gleich langen mathematischen Pendels, bei dem die Masse der Aufhängung vernachlässigt werden kann.
+Für kleine Auslenkungen vereinfacht sich die Betrachtung der Bewegung des Pendels:
+Diese sind derart modelliert, dass die Amplitude, die maximale Auslenkung, der Schwingung mit der Zeit kleiner wird.
+Das mathematische Pendel ist das einfachste Modell eines Pendels:
+Sein einziger Freiheitsgrad ist die Auslenkung um eine Gleichgewichtslage oder Ruheposition und die Gewichtskraft wirkt als rückstellende Kraft auf den Massepunkt.
+Bei hinreichend kleiner Auslenkung kann das mathematische Pendel als harmonischer Oszillator beschrieben werden.
+Die Kreisfrequenz hängt dabei nur von der Fadenlänge l {\displaystyle l} und der Erdbeschleunigung g {\displaystyle g} ab:
+Beim Doppelpendel wird an der Masse eines Pendels ein zweites Pendel angebracht.
+Federpendel sind keine Pendel im eigentlichen Sinne, denn sie verfügen im Unterschied zum Schwerkraftpendel über eigene Rückstellkräfte, die von der Schwerkraft unabhängig sind.
+Es gibt u. a. folgende Varianten:

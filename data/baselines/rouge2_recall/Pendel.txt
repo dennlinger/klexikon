@@ -1,0 +1,10 @@
+Ein Pendel, auch Schwerependel (früher auch Perpendikel, von lat. pendere "hängen") ist ein Körper, der, an einer Achse oder einem Punkt außerhalb seines Massenmittelpunktes drehbar gelagert, um seine eigene Ruheposition schwingen kann.
+In diesem Sinne keine Pendel sind das Federpendel und das Torsionspendel.
+Eine Eigenschaft des Schwerependels ist, dass seine Schwingungsdauer nur von der Länge des Fadens (genauer: dem Abstand zwischen Aufhängung und Schwerpunkt des Pendelkörpers), nicht aber von der Art, Gestalt oder Masse des Pendelkörpers abhängt; auch fast nicht von der Größe der maximalen Auslenkung, vorausgesetzt, diese bleibt auf wenige Winkelgrad beschränkt.
+Das Pendel besteht meist aus einem Band oder einem Stab, der am freien Ende mit einer Masse beschwert ist.
+Bringt man ein solches Pendel aus seiner vertikalen Ruhelage, schwingt es unter dem Einfluss der Schwerkraft zurück und wird, solange keine Dämpfung erfolgt, symmetrisch zwischen den Scheitelpunkten als Umkehrpunkt der Bewegung um die tiefstmögliche Position des Massenmittelpunktes - die Ruheposition - weiterschwingen.
+Die Regelmäßigkeit der Schwingungsperiode eines Pendels wird bei mechanischen Pendeluhren genutzt.
+Man unterscheidet mathematische Pendel von physikalischen Pendeln:
+Dabei wird angenommen, dass die gesamte Masse des Pendels in einem Punkt vereinigt vorliegt, der einen festen Abstand vom Aufhängepunkt hat.
+So ist beispielsweise die Periodendauer eines Stangenpendels, bei dem ein Pendelkörper an einer Stange - dessen Länge mit einer Stellschraube verändert werden kann - mit endlicher Masse hängt, stets kürzer als die Periodendauer eines gleich langen mathematischen Pendels, bei dem die Masse der Aufhängung vernachlässigt werden kann.
+Sein einziger Freiheitsgrad ist die Auslenkung um eine Gleichgewichtslage oder Ruheposition und die Gewichtskraft wirkt als rückstellende Kraft auf den Massepunkt.

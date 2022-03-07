@@ -1,0 +1,18 @@
+Laser (/lzr/, auch /lezr/ oder /lazr/; Akronym für englisch light amplification by stimulated emission of radiation ,Licht-Verstärkung durch stimulierte Emission von Strahlung') bezeichnet sowohl den physikalischen Effekt als auch das Gerät, mit dem Laserstrahlen erzeugt werden.
+Der Laser arbeitet wie ein optischer Verstärker, typischerweise in resonanter Rückkopplung.
+Die resonante Rückkopplung entsteht in der Regel dadurch, dass das Lasermedium sich in einem elektromagnetischen Resonator für die Strahlung bestimmter Richtung und Wellenlänge befindet.
+Ein Laser besteht konzeptionell aus drei Bestandteilen:
+Zu dieser Verstärkerwirkung kommt dann noch hinzu, dass sich die Anordnung in einem Resonator (s. u. bei Laserresonator) befindet, der durch seine Abmessungen auf die gewünschte Wellenlänge abgestimmt ist.
+Einer der beiden Spiegel ist teildurchlässig ausgeführt, so dass ein Teil des Lichts austreten und seiner Nutzung zugeführt werden kann.
+Der erste Laser - ein Rubinlaser - wurde von Theodore Maiman am 16. Mai 1960 fertiggestellt.
+Die ersten Halbleiterlaser wurden in den 1960er Jahren entwickelt (Robert N. Hall 1962, Nick Holonyak 1962 im sichtbaren Spektralbereich, Nikolai Bassow), praktikabel aber erst mit der Entwicklung von Halbleiterlasern auf Basis von Heterostrukturen (Nobelpreis für Herbert Kroemer, Schores Alfjorow).
+In den 1990er Jahren wurden neue Pumpgeometrien für hohe Laserleistungen verwirklicht, wie der Scheiben- und der Faserlaser.
+Die Differenz  N = N 1 - N 2 {\displaystyle \Delta N=N_{1}-N_{2} } zwischen der Anzahl der Teilchen im unteren N 1 {\displaystyle N_{1 } } und oberen Laserniveau N 2 {\displaystyle N_{2 } } wird als "Inversion" bezeichnet und ist maßgeblich für die Funktionsweise des Lasers.
+In dieser Formel kann man die Frequenz durch den gebräuchlicheren Begriff Wellenlänge ersetzen und erhält für die möglichen Wellenlängen  {\displaystyle \lambda } in einem Resonator:
+Da jedoch eine Mindestintensität nötig ist, damit im Resonator noch eine Verstärkung stattfinden kann, erhält man nur eine begrenzte Anzahl Moden, da Moden, die zu weit vom Linienschwerpunkt entfernt sind, zu wenig intensiv sind, um noch verstärkt zu werden.
+Abhängig von der Anzahl ihrer Knotenlinien in horizontale und vertikale Richtung werden sie als TEMxy-Mode bezeichnet.
+Eine herausragende, allgemeine Eigenschaft stellt jedoch die Möglichkeit zur starken Bündelung dar, mit der sehr hohe Leistungsdichten erzielt werden können.
+Insbesondere ist Dauerstrich-Laserstrahlung aus stabilen Laserresonatoren aufgrund des Vielfachumlaufes zeitlich bzw. longitudinal (entlang seiner Ausbreitungsrichtung) kohärent, was bedeutet, dass die ausgesandten Wellenzüge nicht nur mit der gleichen Frequenz schwingen, sondern auch in der Phase über eine lange Strecke (die Kohärenzlänge) konstant sind.
+Dadurch zeigt ein solches Licht besonders ausgeprägte Interferenzerscheinungen.
+In der Industrie und der Fertigungstechnik werden Laser für verschiedene Fertigungsverfahren (DIN 8580) eingesetzt.
+Sie bietet einen Schutz für die Retina des Auges.

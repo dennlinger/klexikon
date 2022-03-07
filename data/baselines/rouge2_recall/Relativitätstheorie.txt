@@ -1,0 +1,33 @@
+Die Relativitätstheorie befasst sich mit der Struktur von Raum und Zeit sowie mit dem Wesen der Gravitation.
+Sie besteht aus zwei maßgeblich von Albert Einstein entwickelten physikalischen Theorien, der 1905 veröffentlichten speziellen Relativitätstheorie und der 1916 abgeschlossenen allgemeinen Relativitätstheorie.
+Die spezielle Relativitätstheorie beschreibt das Verhalten von Raum und Zeit aus der Sicht von Beobachtern, die sich relativ zueinander bewegen, und die damit verbundenen Phänomene.
+Darauf aufbauend führt die allgemeine Relativitätstheorie die Gravitation auf eine Krümmung von Raum und Zeit zurück, die unter anderem durch die beteiligten Massen verursacht wird.
+Der in der physikalischen Fachsprache häufige Ausdruck relativistisch bedeutet üblicherweise, dass eine Geschwindigkeit nicht vernachlässigbar klein gegenüber der Lichtgeschwindigkeit ist; die Grenze wird oft bei 10 Prozent gezogen.
+Für Erläuterungen und Details siehe die Artikel spezielle Relativitätstheorie und allgemeine Relativitätstheorie sowie die Verweise im Text.
+Diese lassen sich jedoch mathematisch präzise in Formeln fassen und durch Experimente bestätigen.
+Das Standardmodell der Teilchenphysik beruht auf der Vereinigung der speziellen Relativitätstheorie mit der Quantentheorie zu einer relativistischen Quantenfeldtheorie.
+Es wird allgemein angenommen, dass eine Vereinigung dieser beiden Säulen zu einer Theory of Everything (Theorie von allem) im Prinzip möglich ist.
+Würde ein solcher Äther als starres Gebilde den Raum füllen, dann würde er ein Bezugssystem definieren, in dem im Widerspruch zum Relativitätsprinzip die physikalischen Gesetze eine besonders einfache Form hätten und welches überdies das einzige System wäre, in dem die Lichtgeschwindigkeit konstant ist.
+Jedoch scheiterten alle Versuche, die Existenz des Äthers nachzuweisen, wie beispielsweise das berühmte Michelson-Morley-Experiment von 1887.
+Durch die Aufgabe der konventionellen Vorstellungen von Raum und Zeit und die Verwerfung der Ätherhypothese gelang es Einstein, den scheinbaren Widerspruch zwischen dem Relativitätsprinzip und der aus der Elektrodynamik folgenden Konstanz der Lichtgeschwindigkeit aufzulösen.
+Bewegte Objekte erweisen sich im Vergleich zum Ruhezustand in Bewegungsrichtung als verkürzt und bewegte Uhren als verlangsamt.
+In der mathematischen Formulierung ergeben sie sich aus der Lorentz-Transformation, die den Zusammenhang zwischen den Raum- und Zeitkoordinaten der verschiedenen Beobachter beschreibt.
+Dieser Umstand ist eine Folge der Struktur von Raum und Zeit und keine Eigenschaft des Objekts, wie beispielsweise eines lediglich unvollkommenen Raumschiffes.
+Würde sich ein Objekt mit Überlichtgeschwindigkeit von A nach B bewegen, so gäbe es immer einen relativ zu ihm bewegten Beobachter, der eine Bewegung von B nach A wahrnehmen würde, wiederum ohne dass die Frage, wer die Situation korrekter beschreibt, einen Sinn gäbe.
+Das Kausalitätsprinzip wäre dann verletzt, da die Reihenfolge von Ursache und Wirkung nicht mehr definiert wäre.
+Einem System mit der Masse m lässt sich auch im unbewegten Zustand eine Energie E zuordnen, und zwar nach
+wobei c die Geschwindigkeit des Lichtes ist.
+Diese Formel ist eine der berühmtesten in der Physik.
+Oft wird irreführend behauptet, sie habe die Entwicklung der Atombombe ermöglicht.
+Allerdings konnte schon 1939 kurz nach der Entdeckung der Kernspaltung mit dieser Formel und den schon bekannten Massen der Atome durch Lise Meitner die enorme Freisetzung von Energie abgeschätzt werden.
+Zur Veranschaulichung kann man jedoch Situationen mit reduzierter Anzahl von Dimensionen betrachten.
+Würden zwei solche Fahrzeuge am Äquator einer Kugel nebeneinander exakt parallel Richtung Norden starten, dann würden sie sich am Nordpol treffen.
+Ein Beobachter, dem die Kugelgestalt der Erde verborgen bliebe, würde daraus auf eine Anziehungskraft zwischen den beiden Fahrzeugen schließen.
+Da der geodätische Weg durch die Raumzeit von ihrer Geometrie und nicht von der Masse oder sonstigen Eigenschaften des fallenden Körpers abhängt, fallen alle Körper im Gravitationsfeld gleich schnell, wie bereits Galilei feststellte.
+Es ist beispielsweise möglich, Krümmung dadurch zu beschreiben, dass die Winkelsumme von Dreiecken nicht 180° entspricht.
+In der allgemeinen Relativitätstheorie hängt der Gang von Uhren nicht nur von ihrer relativen Geschwindigkeit ab, sondern auch von ihrem Ort im Gravitationsfeld.
+Eine Uhr auf einem Berg geht schneller als eine im Tal.
+Dieser Effekt ist zwar im irdischen Gravitationsfeld nur gering, er wird jedoch beim GPS-Navigationssystem zur Vermeidung von Fehlern bei der Positionsbestimmung über eine entsprechende Frequenzkorrektur der Funksignale berücksichtigt.
+Während die spezielle Relativitätstheorie bei Anwesenheit von Massen nur in Gebieten der Raumzeit gilt, die so klein sind, dass die Krümmung vernachlässigt werden kann, kommt die allgemeine Relativitätstheorie ohne diese Einschränkung aus.
+Diese Objekte haben eine so starke Gravitation, dass sie sogar Licht "einfangen" können, so dass es nicht wieder aus dem schwarzen Loch herauskommen kann.
+Nach der Erklärung der Gravitation als geometrisches Phänomen lag es nahe, auch die anderen damals bekannten Grundkräfte, die elektrische und die magnetische, auf geometrische Effekte zurückzuführen.

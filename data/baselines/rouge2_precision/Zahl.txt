@@ -1,0 +1,13 @@
+Der Begriff der reellen Zahl konnte erst im 19. Jahrhundert hinreichend geklärt werden.
+So ergeben sich auch bei den Zahlwörtern Strukturen, die Rückschlüsse auf das Zahlenverständnis erlauben.
+Für die ersteren beiden gab es besondere Schriftzeichen.
+In Gestalt des babylonischen Wurzelziehens wurden auch systematische Approximationen vorgenommen.
+Der Begriff der Zahl ist nicht mathematisch definiert, sondern ein gemeinsprachlicher Oberbegriff für verschiedene mathematische Konzepte.
+Mitunter wird ein Zahlbereich als eine bestimmte Klasse definiert.
+Innerhalb ihrer lässt sich auf reichhaltige Weise mit den Zahlbereichen umgehen.
+ZFC ist ein Kandidat für eine solche Theorie.
+Zudem werden Eigenschaften über bestimmten Zahlen definiert, zum Beispiel ist über den ganzen Zahlen die Eigenschaft definiert, eine Primzahl zu sein.
+Die Ordnung über den natürlichen Zahlen wird auf die ganzen Zahlen erweitert.
+Eine solche Lösung nennt man eine reelle Zahl.
+Die Kardinalitäten endlicher Mengen sind somit natürliche Zahlen, die auch in den Kardinalzahlen enthalten sind.
+Die hyperreellen Zahlen sind eine Verallgemeinerung der reellen Zahlen und Untersuchungsgegenstand der Nichtstandardanalysis.
