@@ -2,6 +2,7 @@
 Compute baseline ROUGE scores
 """
 from rouge_score.scoring import BootstrapAggregator
+
 from .utils import print_aggregate, evaluate_directory
 from ..baselines.baselines import get_rouge_scorer_with_cistem
 
