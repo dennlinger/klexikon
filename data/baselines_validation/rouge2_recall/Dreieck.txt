@@ -1,0 +1,15 @@
+Ein Dreieck (veraltet auch Triangel, lateinisch: triangulum) ist ein Polygon und eine geometrische Figur.
+Es handelt sich innerhalb der euklidischen Geometrie um die einfachste Figur in der Ebene, die von geraden Linien begrenzt wird.
+Ein Dreieck wird durch drei Punkte definiert, die nicht auf einer Geraden liegen.
+In der Geometrie werden die Eckpunkte des Dreiecks in der Regel mit A {\displaystyle A} , B {\displaystyle B} und C {\displaystyle C} bezeichnet, üblicherweise so wie abgebildet, gegen den Uhrzeigersinn.
+Die Seite, die einer Ecke gegenüberliegt, wird analog a {\displaystyle a} , b {\displaystyle b} bzw. c {\displaystyle c} genannt.
+Die Winkelhalbierenden der drei Innenwinkel schneiden sich ebenfalls in einem gemeinsamen Punkt, nämlich im Mittelpunkt des Inkreises.
+Der Schwerpunkt eines Dreiecks ist der gemeinsame Schnittpunkt der drei Seitenhalbierenden, also der jeweiligen Verbindungsstrecken der Eckpunkte mit dem Mittelpunkt der gegenüberliegenden Seite.
+Der SSW- oder WSS-Fall dagegen ist nur dann eindeutig, wenn der bekannte Winkel der größeren der beiden gegebenen Seiten gegenüberliegt (SsW-Fall) - liegt er der kleineren Seite gegenüber (sSW-Fall), gibt es meist zwei verschiedene Dreiecke, die die Ausgangsbedingungen erfüllen.
+Dies allerdings muss nicht immer so sein, wie der Sonderfall mit dem Seitenverhältnis 1:2 und dem Winkel 30° zeigt, bei dem es genau dann gleichwohl nur ein so bestimmtes Dreieck gibt, wenn der Winkel gegenüber der längeren Seite 90° beträgt.
+Das rechenaufwändigste, aber auch leistungsfähigste der drei Werkzeuge ist dabei der Kosinussatz, da man mit ihm als einzigem für ein Dreieck ohne alle Winkelangaben einen ersten Winkel berechnen (und sich anschließend mit dem einfacheren Sinussatz sowie der Winkelsumme im Dreieck weiterhelfen) kann.
+Kennt man einen der drei Brüche, kennt man damit automatisch auch alle übrigen.
+Alle gleichseitigen Dreiecke sind zueinander ähnlich und genau dann kongruent, wenn ihre Seitenlängen gleich sind.
+Umgekehrt ist ein Dreieck, bei dem die Seitenlängen in der Beziehung a 2 + b 2 = c 2 {\displaystyle a^{2}+b^{2}=c^{2} } zueinander stehen, ein rechtwinkliges Dreieck mit Hypotenuse c {\displaystyle c} .
+Bei Kenntnis zweier der sechs Angaben ( a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} , p {\displaystyle p} , q {\displaystyle q} und h {\displaystyle h} ) lassen sich die fehlenden vier anderen Werte aus den in folgender Tabelle aufgeführten Formeln berechnen.
+Das Dreieck wird als Symbol verwendet, zum Beispiel in der Theologie, als ideologisches Symbol, als mathematisches Symbol und auch in Schildern.

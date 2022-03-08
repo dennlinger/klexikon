@@ -1,0 +1,7 @@
+Eine Waage ist ein Messgerät zur Bestimmung einer Masse.
+Die Messung der Masse erfolgt üblicherweise über die Gewichtskraft:
+Die Gewichtskraft eines Körpers wird entweder direkt bestimmt, wie etwa mit einer Federwaage, oder sie wird mit der Gewichtskraft einer bekannten Masse verglichen wie bei einer Balkenwaage.
+Bei Waagen der ersten Art geht die Schwerebeschleunigung, die lokal unterschiedlich ist, in die Messung ein.
+Bei Waagen der zweiten Art ist die Schwerebeschleunigung für beide verglichenen Massen dieselbe und ist deshalb für das Ergebnis unerheblich.
+Bei beiden Arten wird der Wägewert durch den statischen Auftrieb in der Luft beeinflusst.
+Je nach der benötigten Genauigkeit werden diese Einflüsse vernachlässigt oder durch geeignete Maßnahmen berücksichtigt.

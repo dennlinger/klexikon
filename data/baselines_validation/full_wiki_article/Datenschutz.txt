@@ -1,0 +1,220 @@
+Datenschutz ist ein in der zweiten Hälfte des 20. Jahrhunderts entstandener Begriff, der teilweise unterschiedlich definiert und interpretiert wird.
+Je nach Betrachtungsweise wird Datenschutz als Schutz vor missbräuchlicher Datenverarbeitung, Schutz des Rechts auf informationelle Selbstbestimmung, Schutz des Persönlichkeitsrechts bei der Datenverarbeitung und auch Schutz der Privatsphäre verstanden.
+Datenschutz wird häufig als Recht verstanden, dass jeder Mensch grundsätzlich selbst darüber entscheiden darf, wem wann welche seiner persönlichen Daten zugänglich sein sollen.
+Der Wesenskern eines solchen Datenschutzrechts besteht dabei darin, dass die Machtungleichheit zwischen Organisationen und Einzelpersonen unter Bedingungen gestellt werden kann.
+Der Datenschutz soll der in der zunehmend digitalen und vernetzten Informationsgesellschaft bestehenden Tendenz zum sogenannten gläsernen Menschen, dem Ausufern staatlicher Überwachungsmaßnahmen (Überwachungsstaat) und der Entstehung von Datenmonopolen von Privatunternehmen entgegenwirken.
+Datenschutz umfasst zunächst organisatorische und technische Maßnahmen gegen Missbrauch von Daten innerhalb einer Organisation.
+Der Begriff IT-Sicherheit betrifft die technischen Maßnahmen gegen das unbefugte Nutzen (Vertraulichkeit), Löschen (Verfügbarkeit) und Verfälschen (Integrität) von Daten.
+Die besondere Betonung der öffentlichen Sicherheit trifft nicht die primären Interessen des privaten Datenschutzes, sondern lediglich die entgegen stehenden Interessen des staatlichen Gewaltmonopols.
+Ursprünglich wurde unter dem Begriff Datenschutz der Schutz der Daten selbst im Sinne der Datensicherung, z. B. vor Verlust, Veränderung oder Diebstahl, verstanden.
+Dieses Verständnis fand zum Beispiel seinen Niederschlag im ersten Hessischen Datenschutzgesetz von 1970.
+Im selben Jahr wurde der heute übliche Begriff des Datenschutzes durch einen Aufsatz von Ulrich Seidel definiert "Persönlichkeitsrechtliche Probleme der elektronischen Speicherung privater Daten".
+Dabei wurde außerdem die schutzrechtliche Aufspaltung von Daten aus der nicht geschützten Sozialsphäre und der geschützten Privat- und Intimsphäre aufgegeben und in einen einheitlichen Schutz von personenbezogenen Daten umgedeutet.
+In seiner Dissertation "Datenbanken und Persönlichkeitsrecht" von 1972 hat Seidel das materielle Datenschutzrecht als die Regelung personenbezogener Datenverarbeitungen insgesamt begriffen und gegenüber dem formellen Datenschutzrecht und der Datensicherung abgegrenzt.
+Mit seiner Arbeit hat er dem Datenschutz die seitdem allgemein und über Deutschland hinaus gebräuchliche Bedeutung gegeben.
+Für die wissenschaftliche Begründung des Datenschutzbegriffes wurde Seidel 1986 mit dem Bundesverdienstkreuz ausgezeichnet.
+In der Schweiz und in Liechtenstein wird Datenschutz definiert als "Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden" (§ 1 Bundesgesetz über den Datenschutz der Schweiz, Art. 1 Abs. 1 Datenschutzgesetz Liechtenstein).
+In Österreich wird Datenschutz beschrieben als Anspruch auf Geheimhaltung von personenbezogenen Daten, soweit ein schutzwürdiges Interesse besteht (§ 1 Abs. 1 Satz 1 Datenschutzgesetz 2000).
+Die Europäische Union versteht unter Datenschutz "insbesondere den Schutz der Privatsphäre natürlicher Personen bei der Verarbeitung personenbezogener Daten" (Art. 1 Abs. 1 Richtlinie 95/46/EG).
+Der Europarat definiert Datenschutz als Schutz des "Recht auf einen Persönlichkeitsbereich bei der automatischen Verarbeitung personenbezogener Daten" (Art. 1 Europäische Datenschutzkonvention).
+Im englischen Sprachraum spricht man von privacy (Schutz der Privatsphäre) und von data privacy oder information privacy (Datenschutz im engeren Sinne).
+Im europäischen Rechtsraum wird in der Gesetzgebung auch der Begriff data protection verwendet.
+Die Bedeutung des Datenschutzes ist seit der Entwicklung der Digitaltechnik stetig gestiegen, weil Datenhaltung, Datenverarbeitung, Datenerfassung, Datenweitergabe und Datenanalyse immer einfacher werden.
+Technische Entwicklungen wie Internet, E-Mail, Mobiltelefonie, Videoüberwachung und elektronische Zahlungsmethoden schaffen neue Möglichkeiten zur Datenerfassung.
+Dieser Entwicklung steht eine gewisse Gleichgültigkeit großer Teile der Bevölkerung gegenüber, in deren Augen der Datenschutz keine oder nur geringe praktische Bedeutung hat.
+Interesse an personenbezogenen Informationen haben sowohl staatliche Stellen als auch private Unternehmen.
+Sicherheitsbehörden möchten beispielsweise durch Rasterfahndung, Telekommunikationsüberwachung und Bestandsdatenauskunft die Verbrechensbekämpfung verbessern, Finanzbehörden sind an Banktransaktionen interessiert, um Steuerdelikte aufzudecken.
+Unternehmen versprechen sich von Mitarbeiterüberwachung (siehe Arbeitnehmerdatenschutz) höhere Effizienz, Kundenprofile sollen beim Marketing einschließlich Preisdifferenzierung helfen und Auskunfteien die Zahlungsfähigkeit der Kunden sicherstellen (siehe Verbraucherdatenschutz, Schufa, Creditreform).
+Ausgangspunkt der weltweiten Debatte im IT-Zeitalter um den Datenschutz sind die Pläne der US-Regierung unter John F. Kennedy Anfang der 1960er Jahre, ein Nationales Datenzentrum zur Verbesserung des staatlichen Informationswesens einzurichten.
+Dort sollten Daten aller US-Bürger registriert werden.
+Vor dem Hintergrund, dass es in den USA kein flächendeckendes Melderegister oder Meldewesen gibt und auch keine bundesweit geltenden Ausweise, wurde diese Planung in den nachfolgenden Debatten als Eingriff in das verfassungsrechtlich postulierte "Right to be alone" betrachtet.
+Eine große Rolle spielte dabei auch das bereits 1890 von Samuel D. Warren und dem späteren Bundesrichter Louis D. Brandeis entwickelte "Right to Privacy", nach dem jedem Individuum das Recht zustehe, selbst zu bestimmen, inwieweit seine "Gedanken, Meinungen und Gefühle", mithin personenbezogene Informationen, anderen mitgeteilt werden sollten.
+Der Aufsatz bezog sich wiederum auf das französische Pressegesetz von 1868, was bereits für Berichte aus dem Privatleben eine Geldbuße vorsah.
+Das Vorhaben scheiterte im Kongress mit der Folge, dass Forderungen nach gesetzlichen Grundlagen für die Verarbeitung personenbezogener Daten laut wurden.
+Ergebnis war die Verabschiedung des Privacy Act - allerdings erst 1974 -, der Regeln für die Bundesbehörden einführte, die bereits die wesentlichen Prinzipien des Datenschutzes enthielten: Erforderlichkeit, Sicherheit, Transparenz.
+Überlegungen, das Gesetz allgemein auch auf den privaten Bereich auszudehnen, führten auf Grund eines Sachverständigengutachtens, das zum fatalen Ergebnis kam, der Wettbewerb würde dies regeln, nicht zum Erfolg.
+Über die amerikanische Debatte wurde auch in Europa berichtet.
+In Deutschland wurde Ende der 1960er Jahre nach einem Begriff gesucht, der die unmittelbare Übersetzung des Begriffs "Privacy" - (allgemeines) Persönlichkeitsrecht - wegen der kontroversen Debatte seit dem 19. Jahrhundert sowie seiner Sperrigkeit vermeiden sollte.
+In Anlehnung an den Begriff "Maschinenschutz" (Gesetzgebung zur Sicherheit von Arbeitsgerät) wurde in der Wissenschaft das Wort "Datenschutz" geschaffen, das zunächst wegen seiner Missverständlichkeit (nicht die Daten werden geschützt, sondern die Menschen) kritisiert wurde, jedoch inzwischen international gebräuchlich ist (data protection, protection des donnees, proteccion de datos, zaschtschyta danych, oaia ovv oou aaa usw.).
+1970 verabschiedete Hessen das weltweit erste Datenschutzgesetz; 1977 folgte das deutsche Bundesdatenschutzgesetz (BDSG 1977), die Schwerpunkte lagen in der Bestimmung der Voraussetzung für die Einführung von Datenschutzbeauftragten und der Vorrangstellung des Schutzes personenbezogener Daten.
+Landesdatenschutzgesetze waren 1981 für alle Bundesländer beschlossen.
+Das BDSG 1977 sah es als Aufgabe des Datenschutzes an "durch den Schutz personenbezogener Daten vor Missbrauch bei ihrer Speicherung, Übermittlung, Veränderung und Löschung (Datenverarbeitung) der Beeinträchtigung schutzwürdiger Belange der Betroffenen entgegenzuwirken" (§ 1 Abs. 1 BDSG 1977).
+Missbräuchlich war jede Datenverarbeitung, die nicht auf gesetzlicher Grundlage erfolgte.
+Datenschutz wurde damals also als Schutz personenbezogener Daten vor einer gesetzlich nicht legitimierten Datenverarbeitung angesehen.
+1983 stellte das Bundesverfassungsgericht im sogenannten Volkszählungsurteil klar, dass auch eine Datenverarbeitung auf gesetzlicher Grundlage unzulässig in die Grundrechte der Betroffenen eingreifen kann.
+Das Gericht leitete aus dem allgemeinen Persönlichkeitsrecht ein "Recht auf informationelle Selbstbestimmung" ab.
+Das Volkszählungsurteil prägte in Deutschland das Verständnis von Datenschutz und war ein Meilenstein in der Geschichte des deutschen Datenschutzes.
+Seitdem versteht man Datenschutz als Schutz des Rechts auf informationelle Selbstbestimmung (z. B. § 1 Landesdatenschutzgesetz Schleswig-Holstein) oder - etwas allgemeiner - als Schutz des Persönlichkeitsrechts bei der Verarbeitung personenbezogener Daten (§ 1 BDSG).
+1995 wurde die Europäische Datenschutzrichtlinie 1995/46/EG verabschiedet.
+In den Jahren 2001 und 2006 folgten Novellierungen des BDSG.
+Weitere Novellen stammten vom 29. Mai 2009, 2. und 3. Juli 2009.
+Mit der unmittelbaren Anwendbarkeit der höherrangigen Europäischen Datenschutz-Grundverordnung am 25. Mai 2018 wurde das bisherige BDSG in seinen meisten Regelungen verdrängt, und am selben Tag trat die komplette Neufassung vom 30. Juni 2017 in Kraft.
+Seit 1980 existieren mit den OECD Guidelines on the Protection of Privacy and Transborder Data Flows of Personal Data international gültige Richtlinien, welche die Ziele haben, die mitgliedstaatlichen Datenschutzbestimmungen weitreichend zu harmonisieren, einen freien Informationsaustausch zu fördern, ungerechtfertigte Handelshemmnisse zu vermeiden und eine Kluft insbesondere zwischen den europäischen und US-amerikanischen Entwicklungen zu verhindern.
+1981 verabschiedete der Europarat mit der Europäischen Datenschutzkonvention eines der ersten internationalen Abkommen zum Datenschutz.
+Die Europäische Datenschutzkonvention ist bis heute in Kraft und hat völkerrechtlich verbindlichen Charakter für alle 46 Staaten (Stand: 30. Juli 2013), die sie ratifiziert haben.
+Die Konvention steht Staaten weltweit offen.
+Erster Beitrittsstaat außerhalb Europas ist Uruguay, für den die Konvention zum 1. August 2013 in Kraft trat.
+(Dagegen sind die Datenschutzrichtlinien der Europäischen Union nur für die EU-Mitgliedstaaten verbindlich und somit auch nur von diesen in nationales Recht umzusetzen.)
+Der Datenschutz ist in den Vereinigten Staaten kaum rechtlich durch Gesetze oder andere Vorschriften geregelt.
+Der Zugriff auf private Daten ist in vielen Fällen gesellschaftlich akzeptiert, z. B. eine Bonitätsprüfung vor der Vereinbarung eines Arbeitsverhältnisses oder vor der Anmietung einer Wohnung.
+Es gibt zwar Regelungen für einzelne Teilbereiche, z. B. den Children's Online Privacy Protection Act (COPPA, deutsch: "Gesetz zum Schutz der Privatsphäre von Kindern im Internet") und im Bereich Krankenversicherung den Health Insurance Portability and Accountability Act (HIPAA), jedoch keine umfassende Regelung für den Umgang mit persönlichen Daten.
+Ein möglicher Grund dafür ist, dass in den USA der Regierung wenig zugetraut wird, personenbezogene Informationen wirklich zu schützen.
+Es wird argumentiert, in vielen Fällen kollidiere der Datenschutz mit den Vorgaben im 1. Zusatzartikel zur Verfassung der Vereinigten Staaten (First Amendment), der die Meinungsfreiheit regelt.
+Auch sei schon in vielen Staaten der Welt der Datenschutz als Instrument zur Unterdrückung der Meinungsfreiheit eingesetzt worden.
+Der Oberste Gerichtshof der Vereinigten Staaten hat zwar im Fall Griswold v. Connecticut 1965 die Verfassung dahingehend interpretiert, dass sie dem Einzelnen ein Recht auf Privatsphäre zugesteht.
+Dennoch erkennen nur sehr wenige US-Bundesstaaten ein Recht des Individuums auf Privatsphäre an.
+Eine der wenigen Ausnahmen ist Kalifornien.
+In Artikel 1, Abschnitt 1, der kalifornischen Verfassung ist ein unveräußerliches Recht auf Privatsphäre festgelegt und die kalifornische Gesetzgebung hat diesen Grundsatz in einigen rechtlichen Regelungen zumindest ansatzweise umgesetzt.
+So verpflichtet beispielsweise der California Online Privacy Protection Act (OPPA) aus dem Jahr 2003 Betreiber kommerzieller Websites oder Onlinedienste, die über ihre Websites personenbezogene Informationen über Bürger des Staates Kalifornien sammeln, auf selbigen Seiten einen auffälligen Hinweis über ihre Umgangsweise mit den Daten zu platzieren und diese - inhaltlich jedoch nicht näher vorgegebenen - selbstgesetzten Datenschutzrichtlinien auch einzuhalten.
+Das US-Handelsministerium entwickelte zwischen 1998 und 2000 das (freiwillige) Safe-Harbor-Verfahren, mit dem US-Unternehmen im Umgang mit europäischen Geschäftspartnern einfacher die Einhaltung der Datenschutzrichtlinie der EU-Kommission (95/46/EC) belegen können sollen.
+Es gibt in den USA keine umfassende unabhängige Datenschutzaufsicht, lediglich die im Bereich Handel tätige Federal Trade Commission (FTC), die sich gelegentlich auch mit Datenschutzproblemen befasst.
+Die FTC schreitet jedoch nur dann ein, wenn ein Unternehmen seine selbst gesetzten Datenschutzrichtlinien nicht einhält; es gibt jedoch keinerlei Mindestvorgaben über die Existenz oder Ausgestaltung einer solchen Selbstverpflichtung.
+Verpflichtet sich also ein Unternehmen nicht freiwillig zum Datenschutz, schreitet auch die FTC nicht ein, da ja kein Verstoß gegen irgendwelche Vorschriften vorliegt.
+Im Gegensatz zu europäischen Regelungen gibt es in den USA keinerlei rechtliche Vorgaben über die Aufbewahrungsdauer gesammelter personenbezogener Daten.
+Es gibt des Weiteren kein Recht auf Auskunft gegenüber Behörden oder Unternehmen, welche Daten zur Person gespeichert sind (mit Ausnahme des Freedom of Information Act), sowie kein Recht auf Berichtigung falscher Daten.
+Sämtliche bestehenden Datenschutzregelungen beziehen sich nur auf Bürger der USA und solche, die sich langfristig in den USA aufhalten, nicht auf Daten, die aus dem Ausland kommen.
+Der damalige Bundesbeauftragte für den Datenschutz, Peter Schaar, hat daher die im März 2008 zwischen der Bundesrepublik Deutschland und den USA vereinbarte Erweiterung des im Prümer Vertrag geregelten innereuropäischen automatisierten Datenaustausches auf die USA kritisiert.
+Im März 2017 setzten Senat und Repräsentantenhaus weite Teile des Datenschutzes für US-Amerikaner außer Kraft, um es Telekommunikationsanbietern zu erlauben, auch ohne ausdrückliche Zustimmung ihrer Kunden und Nutzer, gesammelte Geodaten, Informationen über Finanzen, Gesundheit, Kinder und Bewegungsmuster im Internet ihrer Nutzer für Werbezwecken ausnutzen zu können.
+Weiterhin dürfen die Konzerne die Informationen ihrer Nutzer nun direkt an Dritte verkaufen.
+Der Schutz personenbezogener Daten ist in der Europäischen Union ein Grundrecht.
+Mit der Richtlinie 95/46/EG (Datenschutzrichtlinie) hatten das Europäische Parlament und der Europäische Rat 1995 Mindeststandards für den Datenschutz der Mitgliedsstaaten festgeschrieben.
+Die Richtlinie galt jedoch nicht für den Bereich der justiziellen und polizeilichen Zusammenarbeit, die sogenannte Dritte Säule der Union.
+In Deutschland wurde die Richtlinie im Jahr 2001 mit dem Gesetz zur Änderung des Bundesdatenschutzgesetzes und anderer Gesetze in nationales Recht umgesetzt.
+Geregelt wurde auch die Übermittlung von personenbezogenen Daten an Drittstaaten, die nicht Mitglied der EU sind, oder einem Vertragsstaat des Abkommens über den europäischen Wirtschaftsraum angehören:
+Gemäß Artikel 25 war die Übermittlung nur dann zulässig, wenn der Drittstaat ein "angemessenes Schutzniveau" gewährleistet.
+Die Entscheidung, welche Länder dieses Schutzniveau gewährleisten, traf die Kommission, die dabei von der sogenannten Artikel-29-Datenschutzgruppe beraten wurde.
+2015 wurde gemäß Entscheidung der Kommission von folgenden Drittstaaten ein angemessenes Schutzniveau gewährleistet: Andorra, Argentinien, Färöer, Guernsey, Isle of Man, Israel, Jersey, Kanada, Neuseeland, Schweiz, Uruguay sowie bei der Anwendung der vom US-Handelsministerium vorgelegten Grundsätze des "Sicheren Hafens" und bei der Übermittlung von Fluggastdatensätzen an die US-Zoll- und Grenzschutzbehörde (CBP).
+Insbesondere die Entscheidung über die Zulässigkeit der Übermittlung von Fluggastdatensätzen an die US-amerikanischen Zollbehörden ist stark umstritten.
+Der Europäische Gerichtshof (EuGH) hat auf Grund einer Klage des Europäischen Parlaments diese Entscheidungen der Kommission und des Rates annulliert.
+Ergänzt wurde die allgemeine Datenschutzrichtlinie durch die bereichsspezifische Datenschutzrichtlinie für elektronische Kommunikation.
+Vom EU-Parlament wurde mit den Stimmen von Christdemokraten und Sozialdemokraten am 14. Dezember 2005 eine Richtlinie über eine obligatorische Vorratsdatenspeicherung von Verkehrsdaten der Telekommunikation und des Internets gebilligt.
+Diese Richtlinie verpflichtete die Mitgliedstaaten zur Einführung von Mindestspeicherungsfristen von sechs Monaten (Internet) bzw. einem Jahr (Telefonie).
+Diese Richtlinie über die Vorratsdatenspeicherung wurde von Bürgerrechtsorganisationen und Datenschutzbeauftragten kritisiert und war ebenfalls Gegenstand einer Klage vor dem Europäischen Gerichtshof.
+Am 8. April 2014 wurde sie durch den EuGH für ungültig erklärt.
+Die Ungültigerklärung wurde zum Zeitpunkt des Inkrafttretens der Richtlinie wirksam.
+Im Zuge der EU-Datenschutzreform veröffentlichte die EU-Kommission im Januar 2012 den Entwurf der europäischen Datenschutz-Grundverordnung, die die bisherige Richtlinie ersetzt und in allen Mitgliedsstaaten unmittelbar rechtsverbindlich ist.
+Der Entwurf gab vor allem unter deutschen Datenschutzexperten Anlass zu eindeutigen Stellungnahmen.
+Auch die deutschen Datenschutzbehörden diskutierten diesen Entwurf seit seiner Veröffentlichung kontrovers, wobei auch datenschutzkritische Stimmen öffentlich Kritik daran geäußert haben ("Ulmer Resolution").
+Die folgenden Beratungen im EU-Parlament waren gekennzeichnet durch intensive Lobby-Arbeit insbesondere von Seiten der US-Regierung und von US-amerikanischen IT-Unternehmen, wobei insgesamt über 3100 Änderungsanträge eingebracht wurden.
+Trotzdem gelang im Europäischen Parlament, mit dem Grünen Europaabgeordneten Jan Philipp Albrecht als Berichterstatter, die Erarbeitung einer gemeinsamen Verhandlungsposition, die im Oktober 2013 im Innen- und Justizausschuss und im März 2014 im Plenum mit überwältigender Mehrheit angenommen und am 12. März 2014 durch das Plenum bestätigt wurde.
+Nach umfangreichen Verhandlungen zwischen EU-Ministerrat, Europäischem Parlament und Europäischer Kommission, dem sogenannten Trilog, verabschiedeten der Rat am 8. April 2016 und das Parlament am 14. April die finale Fassung.
+Am 25. April 2016 trat die Datenschutz-Grundverordnung in Kraft.
+Seit dem 25. Mai 2018 gilt sie unmittelbar in allen EU-Mitgliedstaaten.
+Den Mitgliedstaaten ist es grundsätzlich nicht erlaubt, den von der Verordnung festgeschriebenen Datenschutz durch nationale Regelungen abzuschwächen oder zu verstärken.
+Allerdings enthält die Verordnung für bestimmte Aspekte des Datenschutzes Öffnungsklauseln für die nationale Gesetzgebung.
+Der Datenschutz ist nach der Rechtsprechung des Bundesverfassungsgerichts ein Grundrecht (Recht auf informationelle Selbstbestimmung).
+Danach kann der Betroffene grundsätzlich selbst darüber entscheiden, wem er welche persönlichen Informationen bekannt gibt.
+Dieses Grundrecht wird im Grundgesetz allerdings nicht explizit erwähnt.
+Dagegen wurde in den meisten Landesverfassungen eine Datenschutzregelung aufgenommen, so in Berlin (Art. 33), Brandenburg (Art. 11), Bremen (Art. 12), Mecklenburg-Vorpommern (Art. 6 Abs. 1 und 2), Nordrhein-Westfalen (Art, 4 Abs. 2 sowie die Verbürgung der Einrichtung des Datenschutzbeauftragten in Art. 77a), Rheinland-Pfalz (Art. 4a), Saarland (Art. 2 Abs. 2), Sachsen (Art. 33), Sachsen-Anhalt (Art. 6 Abs. 1) und Thüringen (Art. 6).
+Auf Bundesebene regelt das Bundesdatenschutzgesetz (BDSG) den Datenschutz für die Bundesbehörden und den privaten Bereich (d. h. für alle Wirtschaftsunternehmen, Institutionen, Vereine etc. gegenüber natürlichen Personen).
+Daneben regeln die Datenschutzgesetze der Länder den Datenschutz in Landes- und Kommunalbehörden.
+Datenschutzrechtliche Regelungen finden sich darüber hinaus in etlichen weiteren Gesetzen, etwa dem Telekommunikationsgesetz und dem Telemediengesetz, die jeweils für ihren Anwendungsbereich speziellere Regelungen zum Datenschutz enthalten.
+Diese bereichsspezifischen Regelungen gehen dem Bundesdatenschutzgesetz jeweils vor, das BDSG gilt nur ergänzend.
+Die öffentlichen Stellen des Bundes sowie die Unternehmen, die geschäftsmäßig Telekommunikations- oder Postdienstleistungen erbringen, unterliegen der Aufsicht durch den Bundesbeauftragten für den Datenschutz.
+Die Landesbehörden werden durch die Landesdatenschutzbeauftragten kontrolliert.
+Die privaten Unternehmen (bis auf Telekommunikation und Post) unterliegen der Aufsicht der Datenschutzaufsichtsbehörden für den nicht-öffentlichen Bereich, die beim Landesdatenschutzbeauftragten oder bei den Landesbehörden (z. B. Innenministerium) angesiedelt sind.
+Nach einem Vertragsverletzungsverfahren der EU-Kommission gegen die Bundesrepublik Deutschland und einer Verurteilung durch den EuGH sind die Datenschutzaufsichtsbehörden der Länder unabhängig.
+Sie werden von den Landtagen gewählt und vom Präsidenten des Landtags ernannt, entlassen und abberufen.
+Rechtsgrundlage für den Datenschutz ist in Österreich das Datenschutzgesetz (DSG).
+Die Einhaltung des Datenschutzes kontrolliert die Datenschutzbehörde, die seit 1. Januar 2014 von Andrea Jelinek geleitet wird.
+Möglich ist aber auch die zivilrechtliche Durchsetzung des Datenschutzes bei den ordentlichen Gerichten (insbesondere Löschung und Richtigstellung von fehlerhaften Daten).
+Ähnlich wie in Deutschland regelt das Datenschutzgesetz des Bundes den Datenschutz für die Bundesbehörden und für den privaten Bereich; auf die kantonalen Behörden ist das jeweilige kantonale Datenschutzgesetz anwendbar.
+Kontrolliert wird die Einhaltung des Datenschutzgesetzes im Bund durch den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten und sein Sekretariat.
+Für die Kontrolle der Einhaltung der kantonalen Datenschutzgesetze sind die Kantone zuständig.
+Sie sind dem Eidg.
+Datenschutzbeauftragten nicht unterstellt, sondern kontrollieren unabhängig.
+Ein bemerkenswerter Unterschied zu den Regelungen in beispielsweise Deutschland und Österreich ist die Tatsache, dass in der Schweiz zusätzlich zur Auskunftspflicht auch eine Informationspflicht existiert (Art.
+14 u. Art.
+18a): Werden Personendaten von Bundesorganen bearbeitet oder besonders schützenswerte Personendaten oder Persönlichkeitsprofile von privaten Personen bearbeitet, dann müssen grundsätzlich die betroffenen Personen aktiv durch den Inhaber der Datensammlung informiert werden.
+Ähnlich wie es in Deutschland und Österreich definiert ist, sind auch in der Schweiz jegliche Daten, die eine Profilbildung erlauben (Art. 3d), den besonders schützenswerten Daten gleichgestellt.
+In der Kirche hat das Persönlichkeitsrecht als Vorläufer des Datenschutzes eine sehr lange Tradition.
+So wurden bereits 1215 n. Chr.
+Seelsorge- und Beichtgeheimnis im Kirchenrecht schriftlich verankert.
+Heute schützt für den Bereich der römisch-katholischen Kirche das weltweit gültige kirchliche Gesetzbuch Codex Iuris Canonici (CIC) das Recht auf Schutz der Intimsphäre in Canon 220.
+In Deutschland gelten die Datenschutzgesetze von Bund und Ländern im Bereich der öffentlich-rechtlichen Kirchen (einschließlich Caritas und Diakonie) teilweise nicht, da die Kirchen diesbezüglich ein Selbstbestimmungsrecht haben.
+In der Evangelischen Kirche in Deutschland (EKD) gilt das EKD-Datenschutzgesetz (DSG-EKD), in der römisch-katholischen Kirche in Deutschland die Anordnung über den kirchlichen Datenschutz (KDO) und in der alt-katholischen Kirche die Ordnung über den Schutz von personenbezogenen Daten (Datenschutz-Ordnung, DSO) im Bereich des Katholischen Bistums der Alt-Katholiken in Deutschland.
+Allerdings gilt das allgemeine Datenschutzrecht, wenn die Kirchen außerhalb des karitativen oder sonst zum kirchlichen Auftrag gehörenden Bereichs in Formen des Privatrechts tätig werden.
+Hauptprinzipien des Datenschutzes sind
+Wenn Daten aufgrund einer Rechtsgrundlage verarbeitet werden dürfen, so sind technisch-organisatorische Maßnahmen zur Gewährleistung des operativen Datenschutzes bei den technischen Prozessen und Funktionen zu treffen.
+Das Standard-Datenschutzmodell (SDM) formuliert alle operativ zu erfüllenden Anforderungen, die personenbezogene Verfahren zu erfüllen haben.
+Der Datenschutz bezieht sich auf die Erhebung, die Verarbeitung und die Nutzung personenbezogener Daten.
+Definitionen:
+Als Aufsicht für den öffentlichen Sektor gibt es:
+Zusätzlich haben Behörden die Möglichkeit/ Verpflichtung behördliche Datenschutzbeauftragte zu ernennen.
+Diese können einzelne Aufgaben (z. B. Führung des Datenschutzregisters) übernehmen, verhindern jedoch nicht die Kontrolle durch den übergeordneten Beauftragten.
+Im nicht-öffentlichen Bereich ist die Datenschutzaufsicht landesrechtlich geregelt.
+Diese ist z. B. bei der Bezirksregierung, dem Innenministerium oder dem Landesbeauftragten für Datenschutz angesiedelt.
+Für Post- und Telekommunikationsunternehmen ist ebenfalls der Bundesbeauftragte für den Datenschutz zuständig.
+Ab einer bestimmten Firmengröße muss nach dem Bundesdatenschutzgesetz ein betrieblicher Datenschutzbeauftragter bestellt werden.
+Diese sind teilweise im Berufsverband der Datenschutzbeauftragten Deutschlands organisiert.
+Auch verschiedene Vereine beschäftigen sich mit der Stärkung des Datenschutzes, etwa die Deutsche Vereinigung für Datenschutz, die Gesellschaft für Datenschutz und Datensicherheit, das FIfF, digitalcourage (vormals FoeBuD), oder in Österreich die ARGE Daten und der Arbeitskreis Vorratsdaten Österreich.
+Datenschutz kollidiert in verschiedenen Bereichen mit anderen Zielen.
+Diese Zielkonflikte müssen durch ein Abwägen des Datenschutzes mit anderen Zielen gelöst werden.
+Ein übertriebener Datenschutz oder Datenschutz am falschen Ort kann auch schädlich sein.
+Datenschutz steht grundsätzlich im Konflikt mit der Forderung nach Informationsfreiheit.
+Informationsfreiheit bedeutet, dass Informationen der öffentlichen Verwaltung (Verwaltungstransparenz) und Politik dem Bürger öffentlich gemacht werden (Öffentlichkeitsprinzip).
+Diese Informationen unterliegen jedoch auch dem Datenschutz und sollten daher vertraulich behandelt werden.
+Dieser Zielkonflikt wird sehr unterschiedlich gelöst.
+In Schweden wird das Öffentlichkeitsprinzip traditionell weitaus höher bewertet als der Datenschutz.
+Selbst hochprivate Daten wie die Einkommensteuererklärung sind öffentlich.
+In Deutschland bestand traditionell eine geringe Bereitschaft öffentlicher Verwaltungen zur Veröffentlichung von Informationen.
+Erst 2006 wurde diese Haltung durch das Informationsfreiheitsgesetz gelockert.
+Die Abwägung zwischen den Belangen von Informationsfreiheit und Datenschutz wurde in § 5 Informationsfreiheitsgesetz weitgehend zu Gunsten des Datenschutzes vorgenommen:
+Ähnliche Konflikte ergeben sich auch auf Unternehmensebene.
+Hier kollidiert ein eventueller Auskunftsanspruch von Kunden oder Dritten mit dem Datenschutz.
+So hatte etwa der Mobilfunkbetreiber T-Mobile den Wunsch eines Kunden, den Absender von Werbe-SMS zu erfahren, mit dem Hinweis auf Datenschutz abgewiesen - und wurde erst durch ein Urteil des Bundesgerichtshof (Az. I ZR 191/04) dazu gezwungen.
+Datenschutz verursacht Kosten und steht damit im Konflikt zu dem Ziel von Unternehmen und Verwaltungen, kosteneffizient zu arbeiten.
+Datenschutz kann (wenn auch in geringerem Umfang) zu Kostenersparnissen beitragen.
+Ihnen entstehen unter anderem Kosten:
+Dazu kommen indirekte Kosten, zum Beispiel in Form von Mehrfacheingaben von Daten, wenn eine automatisierte Datenübernahme unzulässig ist (z. B. darf das Finanzamt nicht automatisiert Adressänderungen der Steuerpflichtigen vom Einwohnermeldeamt übernehmen).
+Auch sind Nutzungen von Daten, die zu Geschäftschancen führen, aufgrund des Datenschutzes teilweise nicht zulässig.
+So dürfen z. B. Banken nicht den Zahlungsverkehr ihrer Kunden daraufhin auswerten, ob diese Geschäftsverbindungen zu Wettbewerbern haben, und ihnen daraufhin Produktangebote unterbreiten.
+Von noch größerer Bedeutung sind volkswirtschaftliche Kosten, welche daraus entstehen, dass bei Nichtexistenz von perfekter Information eine wesentliche Abweichung von den Annahmen eines vollkommenen Marktes vorliegt.
+Datenschutz, der (sonst wäre er inhaltsleer) den Fluss an Informationen mindert, verringert automatisch die volkswirtschaftliche Effizienz (hierzu und zu weiteren Literaturhinweisen vgl.
+Maennig 2006).
+Im Extremfall wird das Verbergen von Informationen mit Hinweis auf den Datenschutz als Versuch interpretiert, sich oder sein Unternehmen zum Schaden Anderer bzw. der Gesellschaft falsch oder unvollständig darzustellen, indem beispielsweise unangenehme Informationen unterdrückt werden.
+Als typisches Beispiel werden Gesetze genannt, die finanzielle Informationen schützen.
+Diese machen es beispielsweise Personen und Unternehmen mit Insolvenzhistorie möglich, sich ebenso positiv darzustellen wie andere Personen und Unternehmen.
+Wenn sie daraufhin Kredite, Kreditkarten etc. erhalten, besteht die Gefahr, dass die Zahl der zukünftigen "defaults" und somit das Kreditrisiko steigt - mit der Folge von höheren Risikomargen für alle, auch die Unbescholtenen.
+Aufgrund der mit Datenschutz einhergehenden volkswirtschaftlichen Kosten lautet die ökonomische Antwort auf die Frage nach dem Datenschutz nicht ja oder nein; vielmehr wird nach einer optimalen Menge und Ausgestaltung des Datenschutzes gesucht.
+Zu Kostenersparnissen können z. B. beitragen:
+Der Kostenaspekt wird seit den Anfängen des Datenschutzes thematisiert.
+Eine Studie von 1985 wies für die Zeit von 1977 bis 1985 datenschutzinduzierte Kosten von
+Einige wenige Großunternehmen wiesen Kosten von mehr als 20 Millionen Mark auf.
+Aufgrund immer weiter verschärfter Datenschutzregelungen sind die Kosten heute um ein Vielfaches höher.
+Auch fehlender Datenschutz verursacht Kosten in teils erheblicher Höhe bei den Organisationen.
+Als direkte Kosten sind hier z. B. Bußgelder für die Nichteinhaltung von Datenschutzbestimmungen zu nennen.
+Verstöße gegen Datenschutz sind potentiell geeignet, das Image der Organisation zu beschädigen und damit das Geschäft zu schädigen.
+In der Öffentlichkeit vielfach diskutiert ist der Konflikt zwischen Datenschutz und Kriminalitätsbekämpfung.
+Ein weitgehender Zugriff der Strafverfolgungsbehörden auf personenbezogene Daten (auch von Unschuldigen/Unverdächtigen) erleichtert diesen die Arbeit.
+Ein Datenschutz ist hier jedoch besonders wichtig, da ein Überwachungsstaat mit dem Prinzip eines Rechtsstaates unvereinbar ist.
+Der Schutz der Grundrechte der Einwohner bedarf der gesetzlichen Regelung der Zugriffs- und Speichermöglichkeiten der Strafverfolgungsbehörden auf persönliche Daten.
+Der Umfang dieser Möglichkeiten und damit verbunden das Verhältnis zwischen Nutzen (Sicherheit) und Schaden (Eingriff in die Freiheits- und Bürgerrechte) ist politisch hoch umstritten.
+Während die einen auch bei kleineren Eingriffen das Bild eines Überwachungsstaates bemühen, lautet ein pauschales Schlagwort der Gegenseite "Datenschutz ist Täterschutz".
+Für die Abwägung der Interessen des Datenschutzes und der Kriminalitätsbekämpfung muss die konkrete Maßnahme betrachtet werden.
+Ansatzpunkte für eine Bewertung sind:
+Die Themen, an denen sich die Diskussion um Datenschutzes und Kriminalitätsbekämpfung festmacht, wechselte im Laufe der Zeit.
+In den 1970ern wurde die Rasterfahndung und ab den 1990er Jahren die Videoüberwachung intensiv diskutiert.
+Heute macht sich die Diskussion z. B. an DNA-Reihenuntersuchungen, der Einführung von biometrischen Daten (Fingerabdruck, Gesichtsmaße, zukünftig eventuell Irisscan) und RFID-Chips in den Reisepass (Biometrischer Reisepass) fest.
+Am 24. Februar 2012 entschied das Bundesverfassungsgericht in Karlsruhe, dass Polizei und Nachrichtendienste bei ihren Ermittlungen nicht auf Passwörter und PIN-Codes zugreifen dürfen.
+Zurzeit stehen auch die infolge eines Abkommens zwischen der EU und den USA bei Flugreisen übermittelten Passenger Name Records in der Kritik, bei der vor Flugantritt personenbezogene Daten des Passagiers an die USA übermittelt und dort für mindestens 15 Jahre gespeichert werden.
+Ein ähnliches Abkommen wurde bereits 2006 vom EuGH gekippt, allerdings kurz darauf wenig verändert wieder auf den Weg gebracht.
+Auch wissenschaftliche Datensammlungen unterliegen dem Datenschutz.
+Hier kann ein Konflikt zwischen der Forschungsfreiheit und Datenschutz entstehen.
+Unproblematisch ist aus Datenschutzsicht die Verwendung pseudonymisierter oder gar anonymisierter Daten.
+Vielfach werden in der Wissenschaft jedoch auch personenbezogene Daten genutzt.
+In diesen Fällen wäre eine konsequente Anwendung der datenschutzrechtlichen Vorschriften manchmal ein Verbot der wissenschaftlichen Forschungen.
+Um dies zu vermeiden, bestehen Sonderregelungen für wissenschaftliche Forschungen.
+Auf internationaler Ebene bestehen die Europarat-Empfehlung zum Schutz personenbezogener Daten für Zwecke der wissenschaftlichen Forschung und Statistik (Nr. R 10), auf nationaler Ebene gibt es Ausnahmetatbestände im BDSG für wissenschaftliche Forschung.
+So z. B. in Bezug auf die Einwilligung der Betroffenen (§ 4a (2)), der Datenerhebung (§ 13 (2) Ziffer 8), der Datenspeicherung, -veränderung und -nutzung (§ 14 (2) Ziffer 9 bzw. (5) Ziffer 2) oder der Löschung und Sperrung (§ 20 (7) Ziffer 1).
+Dennoch stellt die Einhaltung des Datenschutzes in vielen wissenschaftlichen Forschungen einen Kostenfaktor und eine Einschränkung bei der Erhebung und Nutzung von Daten dar.
+In der Medizin besteht ein besonderes Maß an Vertraulichkeit (siehe Ärztliche Schweigepflicht).
+Es handelt sich bei Gesundheitsdaten nach Art. 9 Abs. 1 Datenschutz-Grundverordnung (DSGVO) um "besondere Kategorien von personenbezogenen Daten".
+Ob die Datenschutzvorschriften einen ausreichenden Schutz bieten, ist strittig.
+Konfliktfelder sind hier der Datenaustausch zwischen Ärzten, Krankenkassen, Krankenhäusern und anderen Dienstleistern im Gesundheitswesen.
+Eine wirksame und kostengünstige Behandlung (z. B. die Vermeidung von Doppeluntersuchungen) setzt Wissen über Vorerkrankungen, bisherige Diagnose und Behandlung und Medikamentennutzung voraus.
+Für die diesbezüglich kritische Diskussion siehe: Elektronische Gesundheitskarte.
+Im Zuge immer weiter fortschreitender, leichterer und perfekter auch persönlicher Genanalysen mit der Erstellung sogenannter genetischer Fingerabdrücke wird auch hier der Datenschutz der "genetischen Privatsphäre" immer wichtiger.
+Vor allem durch die weltweite Vernetzung, insbesondere durch das Internet, nehmen die Gefahren hinsichtlich des Schutzes personenbezogener Daten laufend zu ("Das Internet vergisst nicht.").
+Die Verlagerung (z. B. Outsourcing, Offshoring) von IT-Aufgaben in Regionen, in denen deutsche und europäische Gesetze nicht durchsetzbar sind und ausländische Regierungen Zugang zu nicht für sie bestimmte Daten suchen, macht Datenschutz praktisch oft wirkungslos.
+Datenschützer müssen sich deshalb zunehmend nicht nur mit den grundlegenden Fragen des technischen Datenschutzes (Datensicherheit), sondern besonders mit der effektiven Durchsetzbarkeit von Datenschutz auseinandersetzen, wenn sie Erfolg haben wollen.

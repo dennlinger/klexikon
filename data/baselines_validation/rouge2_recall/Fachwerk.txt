@@ -1,0 +1,10 @@
+Ein Fachwerk ist ein Stabwerk, dessen Stäbe alleine durch Normalkraft beansprucht werden und "deren Enden in den Knotenpunkten miteinander verbunden sind".
+Gelenkige Knotenverbindungen sind eines von mehreren Merkmalen des sogenannten idealen Fachwerks, die in der Literatur oft als zentrale Eigenschaft des Fachwerks genannt wird.
+Ein Fachwerkträger ist ein gewöhnlich horizontal verlaufendes und im Verhältnis zu seiner Länge schmales und schlankes Tragelement.
+Dabei handelt es sich um Mischformen aus allgemeinem, biegesteifem Stabwerk und Fachwerk.
+Bei Flugzeugen wurde historisch der ganze Rumpf mitsamt Flügeln aus (Holz-)Fachwerk gefertigt und bespannt, etwa beim DFS 230, einem Lastensegler mit Flugzeugrumpf aus einem geschweißten Stahlrohrfachwerk mit Stoffbespannung.
+So sind z. B. sogenannte Nebenspannungen (zusätzlich zu Normalspannungen) zu ermitteln und für die zulässigen Materialspannungen und für die zulässige Verformung des Fachwerks zu bewerten.
+Sie liefert nur eine Zahl, die aussagt, wie oft unterbestimmt ein System ist minus der Freiheitsgrade.
+Mit dem Knotenpunktverfahren lassen sich die Stabkräfte durch Aufstellen eines Gleichungssystems ermitteln.
+Dadurch ergibt sich ein Gleichungssystem, das bei statischer Bestimmtheit des Fachwerkes gelöst werden kann.
+Für Fachwerke kann praktisch jedes Baumaterial (Holz, Stahl, Aluminium, Edelstahl, kohlenstofffaserverstärkter Kunststoff und in seltenen Fällen auch Beton) verwendet werden, bzw. Kombinationen daraus.

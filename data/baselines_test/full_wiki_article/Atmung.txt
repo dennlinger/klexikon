@@ -1,0 +1,81 @@
+Atmung oder Respiration (lateinisch respiratio) bezeichnet in der Biologie:
+Die Zellatmung kann aerob oder anaerob sein.
+Aerobe Atmung benötigt Sauerstoff und ist daher erdgeschichtlich erst möglich, seit elementarer Sauerstoff in der Atmosphäre und im Wasser zur Verfügung steht.
+Dessen Bildung geht auf die ersten photosynthetisch aktiven Prokaryoten zurück, wahrscheinlich Vorläufer der heutigen Cyanobakterien.
+Ohne Sauerstoff kann nur eine anaerobe Atmung stattfinden, bei der andere Substanzen die Rolle des Sauerstoffs übernehmen.
+Außerdem können alle Organismen durch Gärung Energie gewinnen.
+Anaerobe Atmung tritt nur bei Prokaryoten auf.
+Alle Eukaryoten können lediglich Sauerstoff als Oxidans verwenden; in Sauerstoff-freien Milieus können sie nur durch Gärung Energie gewinnen.
+Die weitaus meisten Eukaryoten sind daher auf die aerobe Atmung angewiesen (obligat aerob).
+Dagegen können Hefen, die ebenfalls Eukaryoten sind, ohne Sauerstoff allein auf der Grundlage der Gärung leben (fakultativ anaerob).
+Ein Beispiel für den seltenen Fall, dass Eukaryoten die Fähigkeit verloren haben, Sauerstoff zu nutzen, und daher obligat anaerob sind, sind die Neocallimastigaceae, die im Pansen von Wiederkäuern leben und auf die Verwertung von Zellulose spezialisiert sind.
+Unter Prokaryoten ist Escherichia coli ein Beispiel dafür, dass zwischen aerober und anaerober Atmung gewechselt werden kann.
+Bei der aeroben Atmung wird Sauerstoff benötigt.
+Im Normalfall werden organische Verbindungen wie Kohlenhydrate oder Fettsäuren oxidiert und Energie in Form von ATP gewonnen.
+Dabei folgen drei Teilprozesse aufeinander: die Glykolyse, der Citratzyklus und die Elektronenübertragung in der Atmungskette, wobei O2 der terminale Elektronenakzeptor ist.
+Wesentliche Teilschritte der Glykolyse und des Citratzyklus sind drei verschiedene oxidative Decarboxylierungen, bei denen Kohlendioxid freigesetzt wird und Reduktionsäquivalente in Form von NADH gewonnen werden, die der Atmungskette zugeführt werden.
+Wenn - wie zumeist - Glucose als Substrat genutzt wird, dann lautet die Summengleichung:
+Manche Prokaryoten können zur Energiegewinnung nicht nur organische, sondern auch anorganische Stoffe oxidieren.
+So nutzt beispielsweise das Archaeon Acidianus ambivalens Schwefel in einer Schwefeloxidation gemäß:
+Die Oxidation von Ammoniak (NH3) kommt bei Bakterien und Archaeen vor.
+Dabei wird Ammoniak zu Nitrit (NO2-) oxidiert:
+Bei der anaeroben Atmung, die nur bei Prokaryoten vorkommt, werden die aus der Oxidation eines Energieträgers gewonnenen Elektronen anstatt auf Sauerstoff auf andere externe, reduzierbare Substrate übertragen.
+Die verschiedenen anaeroben Atmungen werden anhand des veratmeten Substrates oder der Stoffwechselendprodukte klassifiziert.
+In die Tabelle wurde nur eine Auswahl anaerober Atmungstypen aufgenommen (weitere siehe Anaerobie#Anaerobe Atmung):
+Folgende Varianten können unterschieden werden, die auch in Kombination vorkommen können:
+Diffusion ist ein physikalischer Vorgang des Konzentrationsausgleichs von Stoffen unterschiedlicher Konzentration durch thermisch bedingte Molekularbewegung.
+Diese erfolgt von Bereichen mit höherer Konzentration zu Bereichen mit niedrigerer Konzentration entlang eines Konzentrationsgradienten.
+Die Transportrate beziehungsweise Transportgeschwindigkeit wird durch die Diffusionsgesetze nach Adolf Fick beschrieben:
+Laut dem Ersten Fickschen Gesetz ist dabei die Transportrate, also die Veränderung der Stoffmenge (dQs) nach der Zeit (dt), proportional zur Austauschfläche A und proportional zum Konzentrationsgradienten, welcher für Gase wie beim Fall der Atmung auch als Partialdruckgradient (dp/dx) beschrieben werden kann.
+Ein weiterer entscheidender Faktor ist der Krogh-Diffusionskoeffizient K, welcher das Produkt aus dem Löslichkeitskoeffizienten a und dem Diffusionskoeffizienten D bildet:
+K = a * D {\displaystyle K=a\cdot D }
+Somit gilt:
+d Q s d t = - K * A * d p d x {\displaystyle {\frac {dQ_{s}}{dt}}=-K\cdot A\cdot {\frac {dp}{dx } }}
+Für die zurückgelegte Wegstrecke gilt:
+ x = 2 D t {\displaystyle \Delta x={\sqrt {2Dt}}}
+Die Diffusionszeit steigt somit in zweiter Potenz mit Zunahme der Diffusionsstrecke.
+Ein effektiver Gastransport durch Diffusion benötigt somit:
+Bei mehrzelligen differenzierten Organismen sind oft spezielle Organe als Teil der äußeren Atmung für den Gasaustausch verantwortlich.
+Die Lunge ist anatomisch für den Gasaustausch optimiert, indem sie durch die Lungenbläschen (Alveolen) über eine große Oberfläche mit geringer Diffusionsstrecke verfügt.
+CO2 diffundiert dabei 20-mal besser als Sauerstoff:
+Zwar ist der Diffusionskoeffizient für CO2 in der Alveolarmembran aufgrund der größeren Molekülgröße etwas schlechter, dafür ist die Löslichkeit 24-mal größer, was einen ebensovielmal größeren Konzentrationsunterschied bedeutet.
+Bei kleinen Wasserbewohnern, etwa Fadenwürmern, Plattwürmern und Rädertierchen, reicht der Vorgang der Diffusion aus, um den Sauerstoffbedarf zu decken (Hautatmung).
+Auch Hohltiere sind ausschließlich Hautatmer; sie haben durch ihre Tentakeln eine große Oberfläche und eine sehr geringe Stoffwechselintensität.
+Größere Tiere müssen ihr Atemwasser bzw. ihre Atemluft durch Ventilation erneuern.
+Vor allem bei Wirbeltieren kommt der Transport von Atemgasen innerhalb eines Kreislaufsystems mit zirkulierender Flüssigkeit hinzu.
+Da die Löslichkeit von Sauerstoff in wässrigen Lösungen nur sehr gering ist (siehe: Gesetz von Henry), wird die Löslichkeit im Blut durch respiratorische Pigmente erhöht.
+Neben dem bekannten Hämoglobin gehören auch Chlorocruorin, Hämerythrin und Hämocyanin zu dieser Gruppe.
+Hämoglobin erhöht die Transportkapazität von Sauerstoff durch seine hohe O2-Bindungsfähigkeit um das 50-fache.
+Hämoglobin ist ein Chromoprotein und das häufigste respiratorische Pigment bei Tieren.
+Es besteht aus einem Protein (Globin) und einer lichtabsorbierenden prosthetischen Gruppe (Häm).
+Die spezielle Struktur des Häms aus einem Protoporphyrinring mit Eisen als Zentralion bedingt die rote Farbe des Blutes, indem es Licht im kurzwelligen Spektrum (vornehmlich Blautöne) absorbiert.
+Die Häm-Gruppe aller Hämoglobine und Myoglobine ist identisch.
+Hämoglobine unterscheiden sich allerdings im Aufbau des Proteinanteils (Globin).
+Dies zeigt sich vornehmlich im unterschiedlichen Sauerstoffbindungsverhalten.
+Die O2-Affinität des Hämoglobins von kleinen und aktiveren Vertretern der Säugetiere ist niedriger als die größerer Vertreter.
+Dies ermöglicht eine bessere Abgabe von Sauerstoff an das umliegende Gewebe.
+Hämoglobine wechselwarmer Wirbeltiere haben dagegen eine höhere O2-Bindungsaffinität als Vögel oder Säugetiere.
+Auch Wirbellose zeigen eine deutlich höhere O2-Bindungsaffinität ihres Hämoglobins.
+Einatmungsluft von atmosphärischer Luft gemittelter Zusammensetzung.
+Schon in von Menschen genutzten Innenräumen mit - zugunsten von Heizung oder Kühlung, und Schutz vor Wind und Staub - begrenzter Lüftung liegen höhere CO2-Konzentrationen vor.
+MIK-Wert = 0,30 % CO2, Arbeitsplatzgrenzwert AGW (ersetzt den früher gebräuchlichen MAK-Wert) = 0,50 % CO2.
+Das Lungenemphysem erzeugt eine Diffusionsstörung durch Verkleinerung der Austauschfläche.
+Das Lungenödem erzeugt eine Diffusionsstörung durch Vergrößerung der Diffusionsstrecke.
+Störungen der Oxygenierung des Blutes können zudem durch zu geringe oder falsch verteilte Durchblutung der Lunge entstehen.
+Isolierte respiratorische Störungen äußern sich in Hypoxie ohne Hyperkapnie, da die CO2-Diffusion aus den genannten Gründen noch gut funktioniert, wenn die Sauerstoffdiffusion längst deutlich eingeschränkt ist.
+Respiratorische Störungen können bei intakter Atempumpe ventilatorisch kompensiert werden:
+Dabei wird durch vertiefte Atmung der Sauerstoffpartialdruck in den Alveolen erhöht, was den Konzentrationsunterschied und damit die Diffusionsgeschwindigkeit erhöht.
+Dabei muss jedoch ein erniedrigter CO2-Partialdruck in den Alveolen in Kauf genommen werden, der sich auf das Blut überträgt und den Säure-Basen-Haushalt stört (respiratorische Alkalose).
+Die symptomatische Therapie von Gasaustauschstörungen erfolgt durch Gabe von Sauerstoff.
+Auch photoautotrophe Organismen (Pflanzen im weitesten Sinn), die ihre Energie insgesamt durch Photosynthese gewinnen, decken ihren Energiebedarf durch aerobe Atmung, wenn die Photosynthese nicht möglich ist, so nachts und in Teilen bzw. Entwicklungsstadien, die keine aktiven Chloroplasten enthalten (etwa Wurzeln oder keimende Samen).
+Die dabei veratmeten Substanzen stammen letztlich aus der Photosynthese und werden aus anderen Teilen der Pflanze geliefert oder wurden zuvor als Reservestoffe gespeichert.
+Während die Luft über 20 % Sauerstoff enthält, nimmt Wasser nur wenig davon auf, insbesondere bei höheren Temperaturen (vgl. Sauerstoffsättigung).
+Algen und andere im Wasser lebende Pflanzen können ihn durch Diffusion aus dem umgebenden Wasser aufnehmen, da sie eine große Oberfläche und keine undurchlässige Cuticula haben.
+Sumpfpflanzen, die teils untergetaucht wachsen, und Wasserpflanzen mit Schwimmblättern bilden spezielle Belüftungsgewebe (Aerenchym), um ihre untergetauchten Teile mit Sauerstoff zu versorgen.
+Bei der nur bei Pflanzen vorkommenden cyanidresistenten Atmung wird Energie nur in Form von Wärme freigesetzt, also ohne Bildung von ATP.
+Die cyanidresistente Atmung ist so benannt, weil sie durch Cyanide nicht beeinträchtigt wird.
+Bedeutend ist sie bei vielen Aronstabgewächsen, deren dadurch stark erwärmte Blütenstände vermehrt Duftstoffe zur Anlockung von Bestäubern aussenden.
+Beim Aronstab ist der Kolben zeitweilig um etwa 20 °C wärmer als die Umgebung.
+Auch bei der Reifung vieler Früchte tritt die cyanidresistente Atmung auf und beschleunigt diese (Respirationsklimakterium).
+Ein weiterer formal als Atmung im Sinne einer Umkehrung der Photosynthese zu bezeichnender Vorgang ist die Photorespiration, die immer neben der Photosynthese in den Chloroplasten stattfindet und deren Effektivität reduziert.
+Sie wird als Relikt aus der erdgeschichtlichen Zeit gedeutet, als der Sauerstoffgehalt der Luft noch recht niedrig war.

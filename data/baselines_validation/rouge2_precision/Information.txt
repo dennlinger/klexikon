@@ -1,0 +1,21 @@
+Nach wird er verwendet:
+Die vier Ebenen sollen an der Zeichenfolge "ES IST WARM" erläutert werden:
+Sie stellen ein Verfahren dar, mit dem Information effizient übermittelt und gespeichert werden kann.
+Der Inhalt der Information ist hierbei im Wesentlichen uninteressant.
+Der Informationsgehalt ist dabei ein Maß für die maximale Effizienz, mit der die Information verlustfrei übertragen werden kann.
+Jedoch ist das eine recht ineffiziente Methode:
+So kann berücksichtigt werden, wie häufig ein bestimmtes Zeichen des Zeichenvorrats verwendet wird, mit anderen Worten, wie wahrscheinlich sein Auftreten ist.
+Eine solche Codierung nennt man auch Entropiekodierung.
+Im obigen Beispiel muss man also wissen, was "warm" bedeutet.
+Dabei wird auf den unterschiedlichen semantischen Ebenen wiederum Informationsverarbeitung auf strukturell-syntaktischer Ebene geleistet:
+Diese Mitteilung bietet uns nichts Neues und ist daher nicht informativ.
+Kurz gesagt: Information ist Reduktion von Ungewissheit.
+Dennoch gewinnt der Polizist durch die Messung Information über die Geschwindigkeit.
+Für die Gewinnung der Information wird ein physikalisches Gesetz genutzt (der Doppler-Effekt), das von einem Ingenieur aufgegriffen wurde, um das Gerät zu konstruieren.
+Information ist ein weitläufig verwendeter und schwer abzugrenzender Begriff.
+Im allgemeinen Sprachgebrauch sowie in einigen Wissenschaften (Semiotik, Informationswissenschaften) wird "Information" mit "Bedeutung" oder "übertragenem Wissen" gleichgesetzt.
+Die Semiotik definiert Daten als potenzielle Information.
+Information ist dabei Wissenstransfer beziehungsweise "Wissen in Aktion".
+Weiterhin kann man Information auch als Produktionsfaktor verstehen.
+Aus ihnen kann (bei Menschen durch kognitive Tätigkeiten des Empfängers) "Information" werden, zweckbezogenes Wissen, das man beim Handeln im Hinblick auf gesetzte Ziele benötigt.
+Anhand gleicher Daten können also unterschiedliche Informationen gewonnen werden.

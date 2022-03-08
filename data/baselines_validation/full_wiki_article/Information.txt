@@ -1,0 +1,231 @@
+Information ist in der Informationstheorie das Wissen, das ein Absender einem Empfänger über einen Informationskanal vermittelt.
+Die Information kann dabei die Form von Signalen oder Code annehmen.
+Der Informationskanal ist in vielen Fällen ein Medium.
+Beim Empfänger führt die Information zu einem Zuwachs an Wissen.
+Information kann bewusst als Nachricht oder Botschaft von einem Sender an einen Empfänger übermittelt oder auch unbewusst transportiert werden und durch die Wahrnehmung von Form und Eigenschaft eines Objektes auffallen.
+Information erhält ihren Wert durch die Interpretation des Gesamtgeschehens auf verschiedenen Ebenen durch den Empfänger der Information.
+Sender oder Empfänger können nicht nur Personen/Menschen, sondern auch (höherentwickelte) Tiere oder künstliche Systeme (wie Maschinen oder Computer/Computerprogramme) sein.
+Da der Begriff der Information häufig definiert worden ist, werden einige klassische Definitionsansätze vorgestellt, die zugleich den verschiedenen Bedeutungen der Information entsprechen:
+In verschiedenen Zusammenhängen lassen sich in der Literatur weitere Definitionen für Information finden:
+,Information' wird im Sprachgebrauch auch als allgemeine Bezeichnung für Daten benutzt, beide Ausdrucke werden oft als gleichbedeutend (synonym) angenommen.
+Daraus entstanden auch Ausdrücke wie Informationstechnik, Informationsfluss usw. - die sich aber meist auf Daten beziehen.
+So ist der Begriff ,Informationsverarbeitung' nur sinnvoll, wenn Information als Variante von Datum und Nachricht verstanden wird.
+Doch wird Information auch als höhere Ordnung den Daten gegenübergestellt - aus denen sie sich zusammensetzt.
+Daneben ist die Bezeichnung "Information" (auch im Plural) ein Oberbegriff für zahlreiche Unterlagen/ Ausdrücke mit situationsbezogen konkreteren Bedeutungen und Bezeichnungen; Beispiele sind Hinweis, Auskunft, Bericht, Meldung usw.
+Der Ausdruck "Information" wird im Detail mit unterschiedlichen, jedoch eng miteinander in Beziehung stehenden Bedeutungen angewendet.
+Nach wird er verwendet:
+Näheres dazu siehe auch unten beschriebene Beispiele.
+"Energie, Materie und Information stellen die drei wichtigsten Grundbegriffe der Natur- und Ingenieurwissenschaften dar.
+Für die Informatik, die sich als die Wissenschaft von der systematischen Verarbeitung von Information versteht, ist der Begriff Information von zentraler Bedeutung; trotzdem ist er bisher kaum präzisiert worden.
+Über sie lässt sich manches aussagen."(nach und )
+In erweitertem Sinn zählen auch die Kriterien, die die Qualität einer Information bestimmen, zu den Eigenschaften, die eine Information aufweisen kann/soll.
+Dies sind zum Beispiel: Zweckorientiertheit, Wahrheit/ Richtigkeit, Vollständigkeit, Konsistenz (widerspruchsfrei), Glaubwürdigkeit und Prüfbarkeit, Aktualität.
+Die folgenden Beispiele erläutern ausführlich Wesensmerkmale von Informationen:
+Weitere Beispiele:
+Eine Sichtweise geht vom Informationsträger aus.
+Die Frage, welche Struktur sich innerhalb dieses Trägers feststellen lässt, wird untersucht.
+Ein anderer Ansatz bemüht sich zu verstehen, welche Bedeutung dem zukommt, was man dann (irgendwie) diesem Informationsträger entnommen hat.
+Die erste Sichtweise hat ihre Wurzeln in der Nachrichtentechnik, die zweite in der Kognitionswissenschaft, der Sprachwissenschaft oder allgemein in der Geisteswissenschaft.
+Eine nachrichtentechnisch erkennbare Struktur (beispielsweise Lichtpulse, die in einer zeitlichen Reihenfolge auf einzelne Zellen in der Netzhaut treffen) muss in einem komplexen Dekodierungsprozess in eine Bedeutung übersetzt werden.
+Wo hier die reine Strukturinformation aufhört und beginnt, eine Bedeutungsinformation zu werden, wo also in diesem Dekodierungsprozess die Grenze zum Bewusstsein zu ziehen ist, ist eine der spannenden Fragen der Informations- und Kognitionswissenschaften.
+Aus diesen Betrachtungen ergeben sich vier Ebenen, unter denen der Begriff der Information heute allgemein betrachtet wird.
+Diese sind
+Diese Ebenen steigern sich im Hinblick auf den Bedeutungsgehalt der Information.
+Sie spiegeln dabei auch die oben erwähnten theoretischen Angriffspunkte wider, wobei die Codierungsebene der Sichtweise der Nachrichtentechnik nahekommt, die Syntaxebene die Sichtweise der Linguistik oder die der Theorie der formalen Sprachen wiedergibt, die semantische Ebene Ansätze aus der Semiotik oder Semantik integriert, und die Pragmatik eher auf Konzepte der Kognitionswissenschaften zurückgreift.
+Die vier Ebenen sollen an der Zeichenfolge "ES IST WARM" erläutert werden:
+Die Betrachtungsebene "Codierung" bedeutet diesbezüglich: Die Erscheinungsform, in der die (potenzielle) Information ihre(n) Empfänger erreichen, muss identifiziert und das Wahrgenommene ,dekodiert' werden können.
+Die Information "Es ist warm" kann beispielsweise schriftlich (etwa als Teil eines Zeitungsartikels) oder akustisch (über den Informationskanal <Stimme, Schallfrequenz, Ohren>) übermittelt werden; jeweils bestehend aus Zeichen oder Lauten einer bestimmten Sprache.
+Auch die Anzeige an einem Thermometer (analoge Darstellung in Säulenform oder in Form einer numerischen Gradanzeige) und sogar die absolute Temperatur selbst könnten in diesem Zusammenhang Code(-formate) sein, die "Es ist warm" transportieren.
+Andere Codebeispiele wären ein Binärcode, mit dem solche Buchstaben oder eine Gradangabe zwischen zwei Computerprogrammen fließen - oder (optisch/akustisch empfangene) Morsezeichen usw.
+Ohne Kenntnis des Codes kann das "nur Wahrgenommene" nicht interpretiert werden und ist empfängerbezogen keine ,Information'.
+Die Zeichenfolge "ES IST WARM" ist zu kurz für eine statistische Betrachtung.
+Bei längeren Texten wird aber klar, dass nicht alle Elemente der Zeichenfolge (Buchstaben) gleich häufig vorkommen.
+Gewisse Buchstaben wie etwa e und t - in unserem Beispiel aber s - sind häufiger als andere.
+Diese Tatsache kann bei der Informationsübertragung genutzt werden, um Übertragungszeit zu sparen.
+Als Beispiel seien die Huffman-Codes erwähnt.
+Sie stellen ein Verfahren dar, mit dem Information effizient übermittelt und gespeichert werden kann.
+Viele weitere Verfahren existieren.
+Auf der syntaktischen Ebene wird Information nur als Struktur gesehen, die es zu übermitteln gilt.
+Der Inhalt der Information ist hierbei im Wesentlichen uninteressant.
+Beispielsweise könnte das Problem darin bestehen, das Bild einer Kamera auf einen Monitor zu übertragen.
+Das Übertragungssystem interessiert sich dabei beispielsweise nicht dafür, ob es das Bild überhaupt wert ist, übertragen zu werden (Einbrecher macht sich am Fenster zu schaffen) oder nicht (Katze läuft am Fenstersims entlang), oder ob überhaupt etwas zu erkennen ist (auch das Bild einer komplett unscharf eingestellten Kamera wird vollständig übertragen, obwohl es da eigentlich nichts Erkennbares zu sehen gibt).
+Der Informationsgehalt ist dabei ein Maß für die maximale Effizienz, mit der die Information verlustfrei übertragen werden kann.
+Grundprinzip der syntaktischen Information ist die Unterscheidbarkeit: Information enthält, was unterschieden werden kann, und unterschieden werden kann, was gemessen werden kann.
+Eine Unterscheidung setzt jedoch mindestens zwei unterschiedliche Möglichkeiten voraus.
+Gibt es genau zwei Möglichkeiten, so lässt sich die Unterscheidung mit einer einzigen Ja-/Nein-Frage klären.
+Beispiel: Angenommen, auf einer Speisekarte gibt es nur zwei Gerichte, Schnitzel und Spaghetti.
+Wir wissen, eines der beiden Gerichte hat der Gast bestellt.
+Um herauszufinden, welches er bestellt hat, braucht man ihm nur eine einzige Frage zu stellen: "Haben Sie Schnitzel bestellt?" Lautet die Antwort "Ja", so hat er ein Schnitzel bestellt, lautet die Antwort "Nein", so hat er Spaghetti bestellt.
+Sind hingegen mehr als zwei Möglichkeiten vorhanden, so kann man dennoch mittels Ja-/Nein-Fragen herausfinden, welche Alternative zutrifft.
+Eine einfache Möglichkeit wäre, einfach der Reihenfolge nach alle Gerichte abzufragen.
+Jedoch ist das eine recht ineffiziente Methode:
+Wenn der Gast noch keine Bestellung aufgegeben hat, braucht man sehr viele Fragen, um es herauszufinden.
+Effizienter ist es, wenn man beispielsweise erst fragt: "Haben Sie bereits bestellt?", um dann konkreter zu werden, "War es ein Gericht mit Fleisch?", "War es Schweinefleisch?", sodass schließlich nur noch wenige Alternativen übrig bleiben ("War es Schweineschnitzel?", "Schweinebraten?", "Schweinshaxe?").
+Die Reihenfolge der Fragen spiegelt die Wertigkeit der Bits in einer derartig kodierten Nachricht wider.
+Der Informationsgehalt einer Nachricht entspricht der Anzahl der Ja-/Nein-Fragen, die man bei einer idealen Fragestrategie braucht, um sie zu rekonstruieren.
+Auch die Wahrscheinlichkeiten spielen bei einer optimalen Fragestrategie eine Rolle: Wenn man beispielsweise weiß, dass die Hälfte aller Gäste Schweineschnitzel bestellt, so ist es sicher sinnvoll, erst einmal nach Schweineschnitzel zu fragen, bevor man den Rest der Karte durchgeht.
+Interessant ist hierbei, dass zwar vordergründig keinerlei semantische oder pragmatische Informationen verwendet werden, diese jedoch implizit in Form der Wahrscheinlichkeit eingehen.
+Beispielsweise ist die Tatsache, dass 50 Prozent der Gäste Schweineschnitzel bestellen, nicht aus der Speisekarte zu erkennen; es ist eine pragmatische Information.
+Und dass man normalerweise nicht nach der Bestellung von "Wir wünschen Ihnen einen guten Appetit" fragt, folgt aus der semantischen Information, dass dies keine Speise ist, und es daher höchst unwahrscheinlich ist, dass jemand dies bestellt.
+Die Zeichenfolge "ES IST WARM" enthält nur Großbuchstaben.
+Wenn wir davon ausgehen, dass wir nur Großbuchstaben zur Verfügung hätten (also 27 Buchstaben einschließlich Leerzeichen), so können wir an jeder der elf Stellen der obigen Nachricht eines der 27 Zeichen setzen.
+Jede Stelle der Nachricht muss also 27 mögliche Zustände abbilden können.
+Am Beispiel eines Binärcodes soll dies erläutert werden:
+Jedes Zeichen wird durch eine Folge von Bits dargestellt.
+Ein Bit unterscheidet nur zwischen zwei möglichen Zuständen, die man als eins und null festlegen kann.
+Um 27 verschiedene Zustände darstellen zu können, benötigt man mehrere Bits, in diesem Fall wären es fünf; man könnte damit 2 hoch 5 = 32 Zustände unterscheiden.
+Die Festlegungen für einen solchen Code könnten (fiktiv) wie folgt aussehen:
+Unsere Nachricht hieße dann
+*) Die Leerstellen (_) sind nur aus Gründen der besseren Lesbarkeit eingefügt.
+Ob sie (oder andere Trennzeichen) in der Nachricht enthalten sind, wäre in den Vereinbarungen zum Format des Datentransfers festzulegen.
+Ggf. würde die Nachricht nur aus 11 direkt aufeinanderfolgenden 5-Bit-Kombinationen, also 55 Bits bestehen.
+Die Codierung jedes Buchstabens mit je 5 Bits müsste nicht die allein gültige sein.
+Im Rahmen der klassischen Informationstheorie wird nämlich die Informationssequenz aus statistischer Sicht betrachtet.
+So kann berücksichtigt werden, wie häufig ein bestimmtes Zeichen des Zeichenvorrats verwendet wird, mit anderen Worten, wie wahrscheinlich sein Auftreten ist.
+So ist beispielsweise der Buchstabe "E" in der Deutschen Sprache häufiger als der Buchstabe "Y".
+Berücksichtigt man diese Auftretenswahrscheinlichkeit der Zeichen im Zeichenvorrat, so kann man die Anzahl der benötigten Ja-/Nein-Entscheidungen, die zum Erkennen eines Zeichens notwendig sind, je nach Zeichen unterschiedlich groß machen.
+Eine solche Codierung nennt man auch Entropiekodierung.
+Damit benötigt man, um ein häufig auftretendes Zeichen zu codieren, weniger Bits, als für ein selten auftretendes Zeichen.
+Ein Zeichen hat also einen umso höheren Informationsgehalt (benötigt zur Erkennung eine höhere Anzahl an 'atomaren' Entscheidungseinheiten, an Bits), je seltener es auftritt.
+Zusätzlich müsste in diesem Fall z. B. vereinbart (und als Code dargestellt) sein, wie/woran die Bitanzahl des jeweiligen Zeichens erkennbar ist.
+Strukturierte, syntaktische Informationen werden erst verwertbar, indem sie gelesen und interpretiert werden.
+Das heißt, zur Strukturebene muss die Bedeutungsebene hinzukommen.
+Dazu muss ein bestimmtes Bezugssystem angelegt werden, um die Strukturen in eine Bedeutung überführen zu können.
+Dieses Bezugssystem bezeichnet man als Code.
+Im obigen Beispiel muss man also wissen, was "warm" bedeutet.
+Jedoch ist die Überführung von Syntax in Semantik selten so direkt; in der Regel wird die Information über sehr viele unterschiedliche Codes immer höherer semantischer Ebene verarbeitet:
+Dabei wird auf den unterschiedlichen semantischen Ebenen wiederum Informationsverarbeitung auf strukturell-syntaktischer Ebene geleistet:
+Die Lichtpulse, die gerade auf Ihre Netzhaut treffen, werden dort von Nervenzellen registriert (Bedeutung für die Nervenzelle), an das Gehirn weitergeleitet, in einen räumlichen Zusammenhang gebracht, als Buchstaben erkannt, zu Worten zusammengefügt.
+Während dieser ganzen Zeit werden Nervenimpulse (also Strukturinformationen) von einer Gehirnzelle zur nächsten "geschossen", bis sich auf diese Weise in ihrem Bewusstsein die durch Worte nur unzureichend wiedergebbaren Begriffe für "warm", "jetzt", und "hier" zu formen beginnen, die dann im Zusammenhang eine Bedeutung haben:
+Sie wissen jetzt, dass es bei diesen Worten um die Feststellung geht, dass es warm (und nicht etwa kalt) ist.
+Zusammengefasst:
+Diese kommt dem umgangssprachlichen Informationsbegriff am nächsten.
+Die Aussage, dass es warm ist (die wir nun semantisch richtig interpretiert haben; wir wissen, was diese Botschaft uns sagen will), hat echten Informationscharakter, wenn wir uns mittags um zwölf nach einer durchzechten Nacht noch halb schlaftrunken überlegen, was wir anziehen sollen, und uns die Freundin mit den Worten "es ist warm" davon abhält, in den Rollkragenpullover zu schlüpfen.
+Der pragmatische Informationsgehalt der - semantisch exakt gleichen - Aussage ist aber gleich null, wenn wir bereits im T-Shirt auf dem Balkon sitzen und schwitzen.
+Diese Mitteilung bietet uns nichts Neues und ist daher nicht informativ.
+In diesem Zusammenhang bezeichnet der Begriff Granularität (Kommunikationswissenschaft) das qualitative Maß der "Passgenauigkeit" einer Information aus der Perspektive des Empfängers.
+Smalltalk ist eine Art des Informationsaustausches, bei dem die offensichtlich über die Sprache ausgetauschten semantischen Informationen so gut wie keine pragmatische Information darstellen - wichtig sind hier die Körpersignale, deren Semantik (Freundlichkeit, Abneigung) wir erkennen und pragmatisch (mag er/sie mich?) verwerten können.
+In diesem pragmatischen Sinne ist wesentliches Kriterium von Information, dass sie das Subjekt, das die Information aufnimmt, verändert, was konkret bedeutet, dass sich die Information, die potentiell dem Subjekt entnommen werden kann, verändert.
+Zusammengefasst:
+In diesem pragmatischen Sinne ist "Information" ein Kernbegriff der Wirtschaftsinformatik und der mit ihr verwandten Betriebswirtschaftslehre (Information als Produktionsfaktor, Information als wirtschaftliches Gut).
+Kurz gesagt: Information ist Reduktion von Ungewissheit.
+Wenn man das Phänomen Information betrachtet, sind die vier Ebenen im Zusammenhang zu betrachten.
+Damit Information stattfindet, sind Vereinbarungen auf allen vier Ebenen notwendig.
+Auch stellt die semantische Verarbeitung (beispielsweise das Zusammenfassen von Buchstaben zu Wörtern) wiederum syntaktische Information (nämlich eine Abfolge von Wortsymbolen) her.
+Letztlich definiert sich auch die pragmatische Ebene nicht zuletzt dadurch, dass sie selbst neue Information syntaktischer Natur schaffen muss (sonst hätte die Information keine Wirkung entfaltet).
+Aufgrund des engen Zusammenspiels zwischen semantischen Dekodierungsprozess und Wirkentfaltung in der Pragmatik, die beide wiederum syntaktische Informationen als End- und Zwischenprodukte generieren, werden manchmal diese beiden Ebenen auch zur Semantopragmatik verschmolzen.
+Das Wesentliche an Information ist die Eigenschaft, Veränderungen im empfangenden System hervorzurufen.
+Da es bislang keine anerkannte einheitliche Theorie der "Information" gibt, sondern lediglich unterschiedliche Modelle, steht eine eindeutige Definition des Begriffs "Information" noch nicht zur Verfügung, wenngleich auch eine nicht anerkannte Definition bereits zur formalen Beschreibung des Experimentiervorgangs führen konnte.
+Erklärungsansätze für den Begriff der Information kommen sowohl aus geistes- und sozialwissenschaftlicher Richtung (Semantik, Semiotik, Philosophie, Kommunikationswissenschaft usw.), als auch aus naturwissenschaftlicher Richtung (Physik, Kybernetik, Nachrichtentechnik, Informatik usw.).
+Die unterschiedlichen Ansätze decken sich nicht, haben aber Überschneidungen.
+Einer der wesentlichen Unterschiede zwischen geisteswissenschaftlichen und naturwissenschaftlichen Modellen besteht darin, dass für die Naturwissenschaft bereits in einer Wechselwirkung subatomarer Teilchen ein Informationsaustausch gesehen wird (vgl. z. B. das Einstein-Podolsky-Rosen-Paradoxon, von dem das klassische Zitat Einsteins über eine "spukhafte Fernwirkung" herrührt, weil hier zwei Teilchen scheinbar instantan Information auszutauschen scheinen, statt mit Lichtgeschwindigkeit, wie Einstein dies vorhersagt.)
+Der naturwissenschaftliche Begriff von "Information" ist eng verknüpft mit dem Konzept der Entropie (d. h. dem zweiten Hauptsatz der Thermodynamik).
+Hieraus ergeben sich zahlreiche Konsequenzen, entsprechend den zahlreichen Konsequenzen, die sich aus dem zweiten Hauptsatz der Thermodynamik ergeben.
+(Eine der möglichen Konsequenzen lautet: Als Gegenstand der Naturwissenschaften wird unter Information ein potenziell oder tatsächlich vorhandenes nutzbares Muster von Materie oder Energieformen verstanden.
+Information ist hier, was sich aus dem Zustand eines Systems für die Zustände anderer Systeme ableiten lässt.)
+Dieses naturwissenschaftliche Verständnis steht im Widerspruch zu dem Informationsbegriff, der von den Geisteswissenschaften herrührt, sowie den alltäglichen Sprachgebrauch dominiert.
+Sowohl die Geisteswissenschaften als auch der Begriff von "Information" im täglichen Gebrauch tendieren zu einem Verständnis, für das dem Begriff der "Bedeutung" eine tragende Rolle zukommt.
+Die "Bedeutung" ist hier eine intrinsische Eigenschaft von Information, womit außerdem die Existenz eines (potentiellen) Empfängers impliziert wird, für den sich der Bedeutungsinhalt entfaltet.
+Die gängigen Kommunikationsmodelle basieren auf diesem Konzept.
+Somit gehen sowohl die meisten geisteswissenschaftlichen Konzepte als auch das weitläufige Verständnis im täglichen Sprachgebrauch davon aus, dass Information immer eine funktionale Bedeutung hat, im Gegensatz zum naturwissenschaftlichen Verständnis, in dem weder Funktion noch Bedeutung zwingend konstitutive Eigenschaften von Information sind.
+Als Terminus in der mathematischen Informationstheorie bezieht sich Information auf die Auftretenswahrscheinlichkeiten von bestimmten Folgen von Elementen (beispielsweise einer Folge von Buchstaben) aus einer festgelegten Menge (beispielsweise dem Alphabet).
+Durch diese Festlegung wird Information zu einem berechenbaren Maß für die Wahrscheinlichkeit zukünftiger Ereignisse in einem technischen System.
+Claude Elwood Shannon (1948) konzipierte die mathematische Theorie der Information ursprünglich nicht für den Bereich menschlichen Handelns und menschlicher Kommunikation, sondern für die technische Optimierung von Übertragungskapazitäten.
+Im Bereich des menschlichen Handelns wird unter Information ein Wissen (genauer: das Ergebnis eines Erfahrungsprozesses) verstanden, dem in der jeweiligen aktuellen Situation Bedeutung und Geltung beigemessen wird.
+In diesem Zusammenhang wird die Rede von "Information" oder "sich informieren" mit einer Beseitigung oder Verkleinerung von Ungewissheit verbunden, die durch Auskunft, Aufklärung, Mitteilung, Benachrichtigung oder durch Kenntnis über Gegenstände und Phänomene geschieht.
+Bestandteil des Informationsbegriffs ist dabei häufig Wiedererkennbarkeit sowie ein Neuigkeitsgehalt.
+In der Algorithmischen Informationstheorie wurde ein Maß entwickelt, mit dem man die Komplexität von Strukturen bestimmen kann, z. B. der Komplexität von Zeichenketten.
+Dies kann unter gewissen Voraussetzungen auch als Maß für die Information angewendet werden, das in einigen Aspekten Vorteile gegenüber dem von Shannon hat.
+Das Verständnis der syntaktischen Ebene war lange Zeit gekennzeichnet durch das Sender-Empfänger-Modell:
+Ein Sender will eine Information dem Empfänger mitteilen.
+Dazu codiert er seine Information nach bestimmten Prinzipien (beispielsweise als Abfolge von Nullen und Einsen nach dem oben erwähnten Prinzip) in einen Informationsträger, der Empfänger wertet diesen Informationsträger aus, denn auch er kennt den Code, und erhält dadurch die Information (siehe auch: Kommunikation).
+Nicht immer ist jedoch ein menschlicher Sender vorhanden, der uns etwas mitteilen will.
+Ein typisches Beispiel ist die Messung:
+Dem physikalischen System ist es, bildlich gesprochen, völlig egal, was Menschen von ihm denken.
+Das Ziel der Messung ist eine Informationsübertragung vom gemessenen System zu dem, der die Messung durchführt (man misst, um etwas über das gemessene System zu erfahren).
+Ein Beispiel ist die Geschwindigkeitsmessung per Radarfalle:
+Das Auto hat keine Intention, seine Geschwindigkeit zu verraten (und der Autofahrer meist auch nicht).
+Dennoch gewinnt der Polizist durch die Messung Information über die Geschwindigkeit.
+Für die Gewinnung der Information wird ein physikalisches Gesetz genutzt (der Doppler-Effekt), das von einem Ingenieur aufgegriffen wurde, um das Gerät zu konstruieren.
+Die Polizei setzt das Gerät ein und veranlasst somit, dass Information erzeugt wird.
+Die unmittelbare Erzeugung von Information hingegen wird damit an ein Gerät delegiert.
+Urheber der Information ist aber auch an dieser Stelle der Mensch.
+Das Radarmessgerät wurde entwickelt und die gewonnenen Messergebnisse werden dann automatisch, in einem vom Menschen vorgegebenen Code, angezeigt, aufgezeichnet oder übertragen.
+Auch viele Tiere sind zur Kommunikation - sowohl als Sender wie auch als Empfänger - fähig.
+Diese ist zwar in der Hauptsache zur Kommunikation mit Artgenossen (Gefahrruf usw.) gedacht, kann aber teilweise auch vom Menschen genutzt werden.
+Zusammengefasst:
+Interessant ist es, dass Information, die an Materie als Informationsträger gebunden ist, auf bzw. durch Elektromagnetische Wellen übertragen werden kann.
+Diese Information kann, da masselos, dann im Prinzip mit Lichtgeschwindigkeit transportiert werden.
+Schließlich kann die Information wieder zurück an Materiestrukturen gebunden werden.
+Ein Beispiel für so einen Übertragungsprozess ist das Telefax.
+Dabei wird die Information eines bestimmten Schriftstückes mit Lichtgeschwindigkeit über große Entfernungen transportiert und am Ziel auf ein zweites Schriftstück mit exakt demselben Informationsinhalt übertragen.
+Allgemeiner: Um Informationen zu transportieren, ist ein Informationsträger nötig.
+Kann Information ohne Verlust weitergegeben werden?
+Beim Kopieren von Software ist dies der Fall, weil technische Mechanismen (redundante Codes / Prüfsummen) dafür sorgen.
+Information kann nicht generell weitergegeben werden, ohne dadurch weniger zu werden.
+Das Ausmaß des Verlustes hängt von den physikalischen Randbedingungen ab.
+Gemäß Shannon kann bei einer Übertragung nicht mehr Information aus einem Kanal entnommen werden als auf der Senderseite hineingegeben wird.
+Beim Weitergeben oder Kopieren von Information wird sie aber an sich nicht verdoppelt, sondern sie liegt dann nur redundant vor.
+In einem thermodynamisch als geschlossen anzusehenden System wird Information letztlich vernichtet, spätestens beim Wärmetod des Universums.
+In einem thermodynamisch offenen System kann Information weitergegeben werden, informationstragende Strukturen können sogar spontan entstehen.
+Beispiele sind eine Vielzahl von theoretisch und experimentell untersuchten dissipativen Strukturen.
+Besonders Spin-Systeme (Spin = Drehimpuls atomarer und subatomarer Teilchen), insbesondere die sogenannten Spin-Gläser bzw. Ising-Modelle, sind sehr oft untersucht worden, nicht zuletzt wegen ihrer Relevanz für die Theorie neuronaler Netze.
+Viele Experimente zeigen, dass in Ising-Gläsern spontan Strukturen entstehen können, die wegen der gequantelten Natur des Spins sogar schon als in digitalisierter Form vorliegende Information interpretiert werden können, welche z. B. die Entstehungsbedingungen der Struktur in codierter Form enthält.
+Information ist ein weitläufig verwendeter und schwer abzugrenzender Begriff.
+Verschiedene Wissenschaften (Struktur- und Geisteswissenschaften) betrachten die Information als ihr Arbeitsgebiet, namentlich die Informatik, die Informationstheorie und die Informationswissenschaft, die Nachrichtentechnik, die Informationsökonomik und die Semiotik, sie kann ein mathematischer, philosophischer oder empirischer (etwa soziologischer) Begriff sein.
+Erst in jüngster Zeit gibt es Bestrebungen, die einzelnen Ansätze zu verbinden und zu einem allgemeingültigen Informationsbegriff zu kommen.
+Entsprechende Literatur findet sich derzeit meist unter dem Stichwort Philosophie (etwa im Bereich Erkenntnistheorie).
+Von einer vereinheitlichten, allgemein akzeptierten Theorie der Information kann vorläufig noch nicht gesprochen werden.
+Im allgemeinen Sprachgebrauch sowie in einigen Wissenschaften (Semiotik, Informationswissenschaften) wird "Information" mit "Bedeutung" oder "übertragenem Wissen" gleichgesetzt.
+Eine andere Sichtweise des Begriffes, die heute beispielsweise in der Computertechnik von großer praktischer Bedeutung ist, stammt aus der Nachrichtentechnik.
+Die wegweisende Theorie dort ist die von Claude Shannon; er betrachtet die statistischen Aspekte der Zeichen in einem Code, der Information repräsentiert.
+Die Bedeutung der Information geht bei Shannon nur implizit in den Wahrscheinlichkeiten der verwendeten Zeichen ein, die letztlich nur unter Zuhilfenahme eines Menschen bestimmt werden könne, da nur der Mensch in der Lage sei, die Bedeutung eines Codes bewusst zu erfassen und dabei sinnvollen von nicht sinnvollem Code unterscheiden könne.
+Das unmittelbare Ziel seiner Überlegungen ist die optimale Übertragung von Information in einem Nachrichtenkanal (Telefonie, Funktechnik).
+Der Begriff Information und andere Begriffe aus der Informationstheorie werden oftmals im alltäglichen Sprachgebrauch und auch in den Naturwissenschaften in einer metaphorischen Weise benutzt.
+Eine direkte Übernahme des Begriffes Information in naturwissenschaftliche Theorien, so wie er in den Ingenieurwissenschaften benutzt wird, wird jedoch von einigen Wissenschaftstheoretikern als unzulässig abgelehnt.
+So warnte beispielsweise der Wissenschaftsphilosoph Wolfgang Stegmüller vor einem Wiederaufleben des Neovitalismus durch unangemessenen Gebrauch informationstheoretischer Begriffe in der Biologie.
+Es kann jedoch nicht ausgeschlossen werden, dass in Zukunft der naturwissenschaftliche Strukturbegriff und der Informationsbegriff aufeinander zurückgeführt werden können.
+So untersuchen etwa die Neuroinformatik und die Computational Neuroscience die Beziehung neuronaler Strukturen des Gehirns sowie dessen Fähigkeit, Information zu verarbeiten.
+Zum Abschluss sollen hier die einzelnen Fach- und Forschungsrichtungen zu Wort kommen, die je ihr eigenes Verständnis der Information haben.
+Deutlich wird dabei der jeweilige Ansatz auf den unterschiedlichen, oben geschilderten Ebenen zwischen der reinen Syntax bis zur Pragmatik, teilweise auch mit der besonderen Betonung des Transportcharakters von Information.
+Die Semiotik definiert Daten als potenzielle Information.
+In der Semiotik werden Daten heute in die Sigmatik-Ebene eingeordnet.
+In älterer Literatur sind sie oft noch als zweckorientiertes Wissen definiert, also zweckorientierte Daten, die das Wissen erweitern.
+Die Informationswissenschaft verwendet den Begriff der Information ähnlich zum semiotischen Ansatz.
+Für sie sind die Begriffe Wissen und Information von zentraler Bedeutung.
+Information ist dabei Wissenstransfer beziehungsweise "Wissen in Aktion".
+Sie entsteht in diesem Sinne immer nur punktuell - wenn für eine konkrete Problemlösung Wissen (eine bestimmte Wissenseinheit) benötigt/bereitgestellt wird.
+Diese Wissenseinheit geht als ,Information' aus einem Wissensvorrat in einen anderen über, beispielsweise aus einer Datenbank in den Wissensvorrat eines Menschen.
+Wissen wird intern repräsentiert (siehe auch Wissensrepräsentation), Information wird - zum besseren Verständnis für den Informationssuchenden - präsentiert (siehe auch Informationsvisualisierung).
+Wilhelm Gaus schreibt in seinem Werk Dokumentations- und Ordnungslehre, dass Information unter verschiedenen Aspekten betrachtet werden kann.
+Aus kartellrechtlicher Perspektive kann Information als "jeder Umstand, der dem Wahrnehmenden einen Erkenntnisgewinn ermöglicht" definiert werden.
+Ein Informationsaustausch kann "jeder direkte oder indirekte Informationsfluss zwischen Unternehmen über das Marktgeschehen" sein, wobei das Marktgeschehen "alle Aktivitäten, Ereignisse, Prozesse und Interdependenzen, welche die Beschaffenheit eines Marktes tangieren, betreffen oder beeinflussen können" umfasst.
+Information kann als wirtschaftliches Gut angesehen werden, da Information im Unternehmen durch Einsatz anderer Produktionsfaktoren (Menschen, Computer, Software, Kommunikation usw.) produziert, oder von außen angekauft werden kann.
+Information hat somit einen Wert, der handelbar ist.
+Der Wert ergibt sich aus dem Nutzen der Information und den Kosten zur Produktion, Bereitstellung und Weiterleitung.
+Problematisch hierbei ist, dass der potenzielle Käufer den Wert der Information nicht immer im Voraus kennt und sie teilweise erst nachdem er sie erworben hat, bewerten kann (sog. Informationsparadoxon).
+Bereits der angestrebte Handel mit Information ist dabei mit dem Problem asymmetrischer Information behaftet.
+Weiterhin kann man Information auch als Produktionsfaktor verstehen.
+Information wird somit nicht nur konsumtiv genutzt, sondern kann auch produktiv verwendet werden.
+Nach den Arbeiten des Berliner Informatikers Peter Rüdiger: "Information ist eine Veränderung konkreter Quantität und Dauer."
+Eine Definition der Information über Veränderung bedeutet eine Beschreibung der Information über physikalische Auswirkung.
+Wird eine einfache Veränderung als ein mathematisches Element betrachtet, das einen Zustandswechsel herbeiführt, so lässt sich beweisen, dass eine Menge solcher Elemente, die Zustandswechsel am selben "Objekt" herbeiführen und Eigenschaften wie Zusammenhang und Wiederholbarkeit aufweisen, eine mathematische Gruppe darstellen, die als Information bzgl. des Objekts deklariert wird.
+Diese Gruppe erlaubt eine Längenbestimmung, die für Optimierungen verwendet werden kann, denn da Veränderung Folge physikalischer Wirkung ist, gilt auch das Variationsprinzip der geringsten Wirkung.
+Eine weitere mathematische Beschreibung, die auf der Natur der Veränderung beruht, ist die Beschreibung von Jan Kahre: The Law of Diminishing Information.
+Bewegung ist auch Veränderung.
+Eine (weitere) Definition der Information über Veränderung erfolgt deshalb über Bewegungsunterschied (Informationsbewegung) und Unterschiedsbewegung (Ruhepotentialität): "Information existiert nur in der Bewegung, die immer eine komplementäre, relative Bewegung ist".
+Information wird auch synonym für Nachricht, Auskunft, Belehrung, Aufklärung verwendet, zum Teil auch für Medien wie Zeitungsartikel, Internet-Seiten, E-Mails, Telefonate, Berichte (Quartals-, Projekt-, Geschäftsbericht), Prospekte und Broschüren, Fahrpläne, Wetterberichte u. v. a. m. - die aber i. e. S. nur die "Träger von Informationen", nicht die Information selbst sind.
+Diese Beispiele zeigen die weite Verbreitung und grundlegende Bedeutung des Begriffs Information in nahezu allen (Lebens-)Bereichen.
+Siehe auch: Information und Kommunikation
+In einem engen Zusammenhang steht auch die (menschliche) Kommunikation:
+Die Kommunizierbarkeit gilt als eine wesentliche Eigenschaft von Information, und jegliche Kommunikation setzt Information voraus.
+Daten sind nur Darstellungen/Angaben über Sachverhalte und Vorgänge, die in der Form bestimmter Zeichen/Symbole auf bestimmten Datenträgern existieren.
+Aus ihnen kann (bei Menschen durch kognitive Tätigkeiten des Empfängers) "Information" werden, zweckbezogenes Wissen, das man beim Handeln im Hinblick auf gesetzte Ziele benötigt.
+Dies geschieht, indem wahrgenommene Daten "intraindividuell" (vom jeweiligen Individuum) semantisiert und weitere Operationen (wie z. B. Schlussfolgerungen) ausgeführt werden.
+Anhand gleicher Daten können also unterschiedliche Informationen gewonnen werden.
+Die Begriffe Information und Daten sind also eng miteinander verwandt.
+Der Begriff der Information ist eng verknüpft mit Fragestellungen im Themenkomplex Wissen.
+Dazu gehört insbesondere das Problem der Definition von Komplexität, die sich über die algorithmische Tiefe eines informationsverarbeitenden Prozesses beschreiben lässt.
+Weiterhin zählen hierzu Betrachtungen über den Unterschied zwischen Zufall und Ordnung sowie der Begriff der Unterscheidbarkeit und der Relevanz.
+siehe auch: Wissensmanagement, Geistiges Eigentum
+Siehe auch unter Weblinks die Bibliographie von Floridi 2005

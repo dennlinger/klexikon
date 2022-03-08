@@ -1,0 +1,68 @@
+Eine Theorie ist im Allgemeinen eine durch Denken gewonnene Erkenntnis im Gegensatz zum durch Erfahrung gewonnenen Wissen.
+In der Wissenschaft bezeichnet Theorie abweichend ein System wissenschaftlich begründeter Aussagen, das dazu dient, Ausschnitte der Realität und die zugrundeliegenden Gesetzmäßigkeiten zu erklären und Prognosen über die Zukunft zu erstellen.
+In den geisteswissenschaftlichen Fachbereichen, wie etwa in der Philosophie (Wissenschaftstheorie) oder der Mathematik (Theorie (Logik)), wird der Begriff entsprechend enger gefasst.
+Im allgemeinen Sprachgebrauch wird die Bezeichnung Theorie oftmals mit der unbewiesenen These gleichgesetzt.
+Das Wort Theorie (aus altgriechisch v theoreein, kontrahiert v theorein, "beobachten, betrachten, schauen";  ia he theoria "die Anschauung, Überlegung, Einsicht, wissenschaftliche Betrachtung", "die Betrachtung oder Wahrnehmung des Schönen als moralische Kategorie") bezeichnete ursprünglich die Betrachtung der Wahrheit durch reines Denken, unabhängig von ihrer Realisierung.
+Oder - gemäß Schipperges formuliert - das reine Bedenken der Dinge, dem nicht vorgeschrieben werden kann, dass und ob dabei praktisch etwas herauskommt.
+Daher wird der Begriff alltagssprachlich auch unbestimmt als Gegenteil von Praxis (griechisch  "Handlung, Verrichtung", auch "Vollendung") benutzt.
+Je nach wissenschaftstheoretischem Standpunkt wird der Begriff Theorie unterschiedlich erklärt.
+Im Allgemeinen entwirft eine Theorie ein Bild (Modell) der Realität.
+In der Regel bezieht sie sich dabei auf einen spezifischen Ausschnitt der Realität.
+Eine Theorie enthält in der Regel beschreibende (deskriptive) und erklärende (kausale) Aussagen über diesen Teil der Realität.
+Auf dieser Grundlage werden Vorhersagen getroffen.
+Viele wissenschaftstheoretische Grundbegriffe und weitergehende Fragen grundsätzlicher Art, die Theorien der Realität im Allgemeinen betreffen, werden in Teilbereichen der philosophischen Disziplinen Metaphysik und Erkenntnistheorie diskutiert.
+Nach positivistischem Verständnis sind Theorien mit dem Anspruch verknüpft, sie durch Beobachtungen (z. B. mittels Experimenten oder anderer Beobachtungsmethoden) prüfen zu können (Empirie).
+Diese Beobachtung liefert dann direkt die Wahrheit oder Falschheit der Theorie, d. h., sie verifiziert (bestätigt) oder falsifiziert (widerlegt) die Theorie.
+In der Logik bezeichnet Theorie im einfachsten Fall eine deduktiv abgeschlossene Formelmenge.
+Gängig ist auch folgende streng formale, mathematisch-logische Definition des Theoriebegriffs:
+Eine Menge T von Aussagen in einer Sprache heißt genau dann Theorie, wenn T erfüllbar ist und wenn jeder Satz, der aus T folgt, bereits zu T gehört.
+Einfacher ausgedrückt:
+Sie muss überhaupt wahr sein können und zudem in sich abgeschlossen und widerspruchsfrei sein.
+Verschiedene Probleme haben dazu geführt, dass in den letzten Jahrzehnten kompliziertere Begriffe von Theorien und des Aussagewerts von Beobachtungen entwickelt wurden.
+Diese Diskussionen betreffen besonders die Präzisierung eines Begriffs der Bestätigung und hängen eng zusammen mit Problemen der Induktion, Kausalität und Wahrscheinlichkeit.
+Aus der spezifischen Sicht der Skeptikerbewegung dürfen nur empirische Aussagen als Theorien bezeichnet werden.
+Nicht dazu gehören zum Beispiel eine Tautologie oder Definition.
+Theorien, deren empirische Prüfung nach heutigem Wissensstand absehbarerweise nicht möglich ist, aber potentiell möglich wäre, bezeichnet sie als "spekulativ" und ordnet sie den Parawissenschaften zu.
+Theorien, die etwas über den Lauf der Welt sagen, ohne eine Beobachtung anzubieten, die sie bestätigt oder gegebenenfalls widerlegt - also keinerlei Aussagen ihrer Entscheidbarkeit beinhalten - sind aus dieser Sicht nicht Teil der Wissenschaft.
+Sie können entweder den Pseudowissenschaften oder beispielsweise der Religion (oder der Esoterik) zugeordnet werden.
+Des Weiteren sind Theorien in Alltagstheorien und wissenschaftliche Theorien zu unterteilen, wobei letztere einen höheren Grad an Bewusstheit auf, ausdrückliche Formulierung, größeren Umfang aufweisen und die Beobachtung meist systematisch einbeziehen.
+Nach dieser Sicht ist die Theorie eine mehr oder weniger deutlich ausformulierte und gut bestätigte Hypothese.
+Nach der klassischen Sicht lassen sich aus Prognosen von Theorien wiederum Handlungsempfehlungen ableiten.
+Somit bildet die Theorie die Grundlage für die sich aus ihr ergebende Praxis.
+Nach der kritisch-rationalen Sicht sind Alltagstheorien und wissenschaftliche Theorien erkenntnistheoretisch nicht voneinander zu unterscheiden und alle Theorien sind gleichermaßen spekulativ.
+Letztere kommen lediglich in der Regel der Wahrheit näher und Hypothesen sind weniger allgemeine Theorien.
+Aus Theorien lassen sich keine Handlungsempfehlungen ableiten, sondern nur Handlungsempfehlungen damit kritisieren.
+Theorie und Praxis bilden aus dieser Sicht Gegensätze.
+Minimalforderungen an theoretische Modelle sind im Allgemeinen, dass sie den Vorschriften der Logik und Grammatik entsprechen, widerspruchsfrei (intern konsistent) sowie überprüfbar sind.
+Voraussetzung dafür ist, dass die verwendeten Begriffe
+Eine gute Theorie soll weiterhin
+Weitere wichtige Forderungen an Theorien sind zum Beispiel die Möglichkeit, Axiome für eine Theorie angeben zu können, sowie die "Ausdruckskraft" einer Theorie:
+Ist es möglich, die Theorie durch endlich/abzählbar viele Axiome zu beschreiben, so heißt sie endlich/abzählbar axiomatisierbar.
+Eine Theorie heißt (negations-)vollständig genau dann, wenn jeder Satz ihrer zugrundeliegenden Sprache oder seine Negation Elemente der Theorie sind.
+Donald Davidson formuliert es knapp:
+Eine vernünftige Forderung, die man an eine wissenschaftliche Theorie stellen kann, ist die, daß es möglich sein sollte, eine Struktur dermaßen zu definieren, daß es möglich ist, Exemplifizierungen dieser Struktur empirisch zu ermitteln.
+Dazu sind Gesetze und Verallgemeinerungen nötig, die prognostizieren, was bei gegebenem beobachteten Input beobachtet werden wird.
+Wissenschaftstheoretisch ist es weitgehend üblich, folgende mögliche Elemente von Theorien zu unterscheiden:
+In der wissenschaftlichen Praxis enthalten Theorien diese Elemente in höchst unterschiedlichem Ausmaß; dies hängt u. a. vom Erkenntnisinteresse der jeweilig wissenschaftlich Tätigen ab.
+Eine Theorie kann auch ein rein algorithmisches Verfahren sein, wie zum Beispiel die Planetentheorie zur Berechnung der Positionen von Himmelskörpern.
+Die methodische Art und Weise, wie Theorien zustande kommen, wie also der Zuwachs an Wissen stattfindet, ist umstritten.
+In der Fortentwicklung von Theorien wird gelegentlich zwischen Induktion, Deduktion und Abduktion unterschieden:
+Bei der Theorienbildung durch Induktion geht man davon aus, dass der Wissenschaftler im empirischen Prozess Datenmaterial erarbeitet, in dem schließlich innere Strukturen und Gesetzmäßigkeiten sichtbar werden.
+Weitere positiv verlaufende Experimente sollen die Theorie bestätigen und sind die Bausteine einer Verifikation (Überprüfung), die letztlich in naturgesetzlicher Sicherheit (Widerspruchsfreiheit) münden soll.
+Bei der Theorienbildung durch Deduktion geht man davon aus, dass der Wissenschaftler durch kreative Akte sinnvolle Hypothesen erzeugt, deren Übereinstimmung mit dem Datenmaterial er anschließend überprüft.
+Weitere Experimente müssen mit dem ernsthaften Ziel der Falsifikation (Widerlegung) unternommen werden.
+Nur in dem Ausmaß wie sich Theorien bewähren (der Falsifikation entziehen), kann relative Sicherheit gewonnen werden.
+Die Abduktion schließt von einem vorliegenden Resultat und einer möglichen oder spontan gebildeten Regel auf einen Fall.
+Um ein überraschendes Phänomen erklärbar zu machen, wird eine Regel hypothetisch eingeführt, damit das Resultat als sinnvoller Fall dieser Regel betrachtet werden kann.
+Abduktiv gewonnene Erkenntnisse können richtig sein, müssen es aber nicht.
+In der Praxis der Wissenschaft mischen sich induktive und deduktive Elemente ohne Probleme, so dass diese Frage mehr eine wissenschaftstheoretische und weltanschauliche Bedeutung besitzt.
+Bietet die Wissenschaft mit ihren Theorien einen Weg zu absoluter Wahrheit oder zu einer schrittweise stattfindenden Annäherung an die Wahrheit (der man sich jedoch nie ganz gewiss sein kann) oder ist Wahrheit nicht Teil der Wissenschaften oder gibt es keine Wahrheit an sich?
+Die zweite, auf Karl Popper zurückgehende Position wird derzeit von der Mehrheit der Naturwissenschaftler bevorzugt, die erste gilt - aufgrund prinzipieller Erkenntnisse über Beobachtbarkeit - als überholt.
+In der Umgangssprache wird der Begriff meist im Sinne von "nur eine Theorie" verstanden und bezieht sich dann lediglich auf besonders unsichere Erkenntnisse.
+Dies hat nicht viel mit der wissenschaftlichen Definition von Theorie zu tun und führt häufig zu Missverständnissen.
+Beispielsweise bedeutet der Begriff "Relativitätstheorie" nicht, dass die Erkenntnisse nicht gesichert seien.
+Selbstverständlich ist sie prinzipiell falsifizierbar, könnte also nicht zutreffen, aber das Teilwort "-theorie" kennzeichnet sie einzig als "in sich schlüssig" und bis Dato "nicht falsifiziert" und grenzt sie von der Newton'schen Theorie - der klassischen Mechanik - ab.
+Ohne Theorie gibt es keine Methoden und Messinstrumente, also existieren Methoden und Messinstrumente nur aufgrund theoretischer Vorannahmen, also nicht unabhängig von ihnen.
+Eine Fragestellung wiederum steht am Beginn des Prozesses, eine Theorie auszuwählen, auf deren Basis diejenigen Faktoren herausgefiltert werden, die beim Sammeln von Daten entscheidend sein sollen.
+Die Wahl der Theorie, die zugrundegelegt wird, und die Fragestellung am Beginn eines Forschungsprozesses hängen also eng zusammen.
+Von der theoretischen Perspektive, die eingenommen wird, ebenso wie von der forschenden Person hängt die Wahl des Themas ab, das konkrete Erkenntnisinteresse, für welche Methode man sich entscheidet und die Ergebnisse der Studie, so eine Einschätzung aus den Kommunikationswissenschaften.

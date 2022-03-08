@@ -1,0 +1,3 @@
+Ein Fachwerk ist ein Stabwerk, dessen Stäbe alleine durch Normalkraft beansprucht werden und "deren Enden in den Knotenpunkten miteinander verbunden sind".
+Ein Fach ist ein zweidimensionales Vieleck, welches durch Stäbe aufgespannt wird.
+Fachwerke bestehen in der Regel überwiegend aus Dreiecken.

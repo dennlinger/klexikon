@@ -1,0 +1,19 @@
+Bei der Informatik handelt es sich um die Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen, wobei besonders die automatische Verarbeitung mit Digitalrechnern betrachtet wird.
+Sie ist zugleich Grundlagen- und Formalwissenschaft als auch Ingenieurdisziplin.
+Der Ausschuss formulierte Empfehlungen für die Ausbildung von Informatikern, welche die Einrichtung eines Studiengangs der Informatik an mehreren Universitäten und Technischen Hochschulen vorsahen.
+Ebenfalls 1969 begann die Ingenieurschule Furtwangen (später Fachhochschule Furtwangen) mit der Ausbildung, hier noch Informatorik genannt.
+Einige dieser Sprachen stehen für typische Programmierparadigmen ihrer jeweiligen Zeit.
+Die Resultate finden schließlich Verwendung in der Angewandten Informatik.
+Ein entscheidbares Problem ist zum Beispiel die Eigenschaft eines Texts, ein syntaktisch korrektes Programm zu sein.
+Insbesondere werden die Ressourcen "Laufzeit" und "Speicherplatz" untersucht und ihr Bedarf wird üblicherweise in der Landau-Notation dargestellt.
+Ein Beispiel sind drahtlose Sensornetze zur Umweltüberwachung.
+Echtzeitsysteme sind darauf ausgelegt, dass sie auf bestimmte zeitkritisch ablaufende Prozesse der Außenwelt mit angemessener Reaktionsgeschwindigkeit rechtzeitig antworten können.
+Protokolle sind dabei die Sprachen, in denen Rechner untereinander Information austauschen.
+Üblicherweise regeln Prozesse, die über Nachrichten miteinander kommunizieren, die Zusammenarbeit von einzelnen weitgehend unabhängigen Computern in einem Verbund (Cluster).
+Schlagworte in diesem Zusammenhang sind beispielsweise Middleware, Grid-Computing und Cloud Computing.
+Rund um die Informatik haben sich einige interdisziplinäre Teilgebiete und Forschungsansätze entwickelt, teilweise zu eigenen Wissenschaften.
+Das Information Engineering der Informationssysteme und das Informationsmanagement spielen im Rahmen der Wirtschaftsinformatik eine gewichtige Rolle.
+Sie ist ein Teilbereich der Künstlichen Intelligenz, aber auch gleichzeitig Schnittstelle zwischen Angewandter Linguistik und Angewandter Informatik.
+Die Umweltinformatik beschäftigt sich interdisziplinär mit der Analyse und Bewertung von Umweltsachverhalten mit Mitteln der Informatik.
+Ein Beispiel aus der schwachen KI ist die Fuzzylogik.
+Die dabei untersuchten Wechselwirkungen der Informatik umfassen die unterschiedlichsten Aspekte.

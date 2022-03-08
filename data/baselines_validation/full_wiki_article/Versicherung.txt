@@ -1,0 +1,99 @@
+Mit Versicherung (veraltet Assekuranz) wird das Grundprinzip der kollektiven Risikoübernahme (Versicherungsprinzip oder Äquivalenzprinzip) bezeichnet, bei dem viele einen Geldbetrag (= Versicherungsprämie) in die Kapitalsammelstelle Versicherer einzahlen, um beim Eintreten eines entsprechenden Schadens, dem Versicherungsfall, aus dieser Kapitalsammelstelle einen Schadenausgleich zu erhalten.
+Da der Versicherungsfall nur bei wenigen Versicherten eintreten wird, reicht das Vermögen der Kapitalsammelstelle bei bezahlbarem Beitrag aus.
+Voraussetzung ist, dass der Umfang der Schäden statistisch abschätzbar ist und demnach mit versicherungsmathematischen Methoden der von jedem Mitglied des Kollektivs benötigte Beitrag bestimmbar ist.
+Eine gesetzliche Definition der Versicherung besteht nicht.
+Im Richterrecht haben sich folgende Kriterien für das Versicherungsgeschäft im Sinne von § 1 Abs. 1 VAG herausgebildet:
+Während die ersten vier objektive Kriterien sind, sind die beiden letzteren subjektiv.
+Bei Großrisiken mag es nur sehr wenige Risiken geben, bei denen die Gefahr gleichartig ist.
+Dennoch liegt eine Versicherung vor, wenn diese auch mit relativ wenig gleichartigen anderen Risiken in einem damit relativ wenig homogenen Kollektiv zusammengefasst werden.
+In einigen Fällen mag die Eintrittswahrscheinlichkeit sehr hoch sein (z. B. bei der Brillenverlustversicherung) und damit die Leistung relativ wenig ungewiss, ohne dass dies die Eigenschaft "Versicherung" ausschließt.
+Alfred Manes definierte Versicherung als Beseitigung des Risikos eines Einzelnen durch Beiträge von Vielen (englisch "The essence of insurance lies in the elimination of the uncertain risk of loss for the individual through the combination of a large number similarily exposed individuals who each contribute to a common fund of premiums sufficient to make good the loss caused any one individual").
+Karl Hax definierte Versicherung als "die planmäßige Deckung eines im einzelnen ungewissen, im ganzen aber schätzbaren Geldbedarfs auf der Grundlage eines zwischenwirtschaftlichen Risikoausgleichs".
+Für Dieter Farny ist Versicherung die Deckung eines im Einzelnen ungewissen, insgesamt schätzbaren Geldbedarfs, auf der Grundlage eines Risikoausgleiches im Kollektiv und in der Zeit.
+Der Versicherung liegt der Mechanismus der gemeinsamen Tragung von Risiken in einem Kollektiv (Pool, Portfolio) zugrunde.
+Der Vorteil dieser gemeinsamen Tragung beruht auf einer mathematisch durch das Gesetz der großen Zahlen beschriebenen Gesetzmäßigkeit, nach der bei steigender Anzahl von gleichartigen Ereignissen sich der tatsächliche Ausgang dem erwarteten Ausgang (also dem mittleren Wert aller möglichen Ausgänge) anpasst.
+Die Streuung (Variabilität) der Ausgänge um den mittleren Wert nimmt mit steigender Kollektivgröße gesetzmäßig, mathematisch beschrieben durch den Zentralen Grenzwertsatz, ab.
+Im Idealfall des Zentralen Grenzwertsatzes fällt die Standardabweichung bei einer steigenden Anzahl von Risiken von n wie 1 / n {\displaystyle 1/{\sqrt {n} }} .
+Demnach verringert sich das Risiko der Schwankung des Ausgangs umso mehr, je größer das Kollektiv ist.
+Dieser risikomindernde Effekt einer gemeinsamen Tragung von Risiken in einem Kollektiv wird als Risikoausgleich im Kollektiv bezeichnet.
+Im Ergebnis wird dadurch das Risiko des Versagens des Risikoausgleichs, also dass das Kollektiv nicht genügend Geld hat, alle Schäden zu bezahlen, mit steigender Kollektivgröße gesetzmäßig immer kleiner.
+Ein großes Kollektiv braucht letztlich proportional weniger Kapital als Vorsorge für ein solches Versagen, als ein kleines Kollektiv oder gar ein Individuum für sein eigenes Risiko.
+Geringeres Kapital bedeutet aber vor allem geringere Finanzierungskosten, und damit bewirkt der Risikoausgleich im Kollektiv, dass Risiken für alle Beteiligten günstiger abgesichert werden können, als dies individuell möglich wäre.
+Ein Haus hat einen Versicherungswert von beispielsweise 100.000 €.
+Nehmen wir an, die Wahrscheinlichkeit, dass es abbrennt, sei 0,1 % in jedem Jahr.
+Um sich selbst gegen den Verlust des Hauses zu schützen, müsste der Hausbesitzer ständig 100.000 € als Reserve verfügbar haben.
+Dieses ständige Bereithalten von Geld bewirkt Finanzierungskosten von beispielsweise 1 %, also 1.000 € pro Jahr.
+Damit kostet die individuelle Absicherung des Hauses gegen Brand jedes Jahr 1.000 €, selbst wenn das Haus nicht abbrennt (zusätzlich kommt noch der durchschnittliche Verlust aus Bränden in Höhe von 100 € pro Jahr hinzu).
+Tun sich hingegen 100.000 Hausbesitzer zusammen und sichern sich gemeinsam ab, treten im Kollektiv fast mit Sicherheit Brände auf, durchschnittlich 100 pro Jahr mit Gesamtkosten von 10.000.000 €.
+Dies kostet aber, verteilt auf alle 100.000 Hausbesitzer, den einzelnen nur die 100 € durchschnittliche Brandkosten.
+Um gegen zufällig viele Brände gewappnet zu sein, muss das Kollektiv zwar noch zusätzlich Kapital bereitstellen, doch beträgt dies bei ausreichender Sicherheit zum Beispiel nur 10.000.000 €.
+Selbst wenn man für dieses Kapital besonders hohe Finanzierungskosten unterstellt, beispielsweise 20 %, entfallen auf den Einzelnen nur Finanzierungskosten von 20 €.
+Damit würde die Absicherung im Kollektiv jeden Einzelnen nur 120 € kosten, statt (langjährig durchschnittlich) 1.100 € bei individueller Absicherung.
+Je größer das Kollektiv ist, desto weniger Kapital wird zur Absicherung benötigt und desto mehr nähert sich der Preis der Versicherung dem reinen Erwartungswert des Schadens von 100 € an.
+Damit ergibt sich auch direkt die Kalkulation des Preises für den Versicherungsschutz (Versicherungsbeitrag), der erforderlich ist:
+Er besteht pro Haus aus dem Erwartungswert von 100 € zuzüglich einem Sicherheitszuschlag von 20 €, der die Finanzierungskosten für das Kapital des Kollektivs darstellt und damit letztlich den erwarteten Gewinn.
+Durch Versicherungsnahme überträgt der Hausbesitzer eine Unsicherheit im Wert von 1.100 € für ein Entgelt von 120 € auf das Versicherungskollektiv.
+Dieser extreme Wertunterschied erlaubt es, dass selbst wenn die Organisation des Kollektivs noch zusätzlich Kosten verursacht und auch noch ein angemessener Gewinnzuschlag erhoben wird, dennoch durch die Versicherung ein hoher Nutzen für das einzelne Wirtschaftssubjekt bewirkt wird.
+Diese wesentliche Verbilligung der Absicherung gegen Risiken durch Versicherung machte überhaupt erst den für die moderne Wirtschaft wesentlichen Aufbau wertvoller Industrieanlagen und auch den Aufbau privater Werte möglich, deren große Zahl wiederum erst eine effektive Absicherung im Kollektiv ermöglicht.
+Damit ist die Entwicklung der modernen Industriestaaten untrennbar mit der Entwicklung des Versicherungswesens verbunden.
+Grundsätzlich lässt sich dieser Effekt stets auch durch ein gemeinschaftlich organisiertes Risikoausgleichskollektiv erzielen.
+Doch sind solche in der Praxis im Hinblick auf die benötigte Zahl von Risiken meist nicht auf rein gemeinschaftlicher Basis ohne zentrale Koordination organisierbar.
+Daher treten in einer Marktwirtschaft Unternehmer (als Versicherer bezeichnet) auf, die solche Kollektive organisieren und sie damit als Dienstleister der Wirtschaft verfügbar machen.
+Sie selbst machen sich den Risikoausgleichseffekt zunutze, um die systematische Übernahme von Risiken mit einem im Hinblick auf die Gewinnmöglichkeiten akzeptablen unternehmerischen Risiko durchzuführen.
+Die wesentlichen Merkmale eines solchen privatwirtschaftlich organisierten, gewinnorientierten Versicherers sind:
+Oft werden die Gewinne aber nicht ausgeschüttet, sondern verbleiben beim Versicherer, um die Eigenkapitalbasis und damit die Sicherheit des Versicherers zu erhöhen.
+Zugleich erhöht sich durch diese Thesaurierung von Gewinnen auch der Wert des Versicherers für den Eigentümer.
+Wegen des Risikoausgleichseffekts genügen dem Versicherer schon geringe Sicherheitszuschläge in den Beiträgen und ein relativ niedriges Eigenkapital, um das Geschäft mit ausreichender Sicherheit für die Versicherungsnehmer und angemessenem Gewinn auf das Eigenkapital betreiben zu können.
+Damit ist Versicherung die nach dem Wahrscheinlichkeitsprinzip arbeitende wirtschaftliche Absicherung von Risiken gegen Beitragszahlung; sie wird entweder nach dem Assoziationsprinzip als Gegenseitigkeitsversicherung oder nach dem Spekulationsprinzip als Erwerbsversicherung betrieben.
+Allerdings betreiben auch die Gegenseitigkeitsversicherer heute kaum noch ein reines Risikoausgleichskollektiv (abgesehen von einigen wenigen kleineren Vereinen, meist Tierversicherungen, z. B. Kuhgilden), sondern erheben feste Beiträge nach dem Spekulationsprinzip.
+Grundsätzlich gehören aber die Gewinne und das Eigenkapital den Mitgliedern, also den Versicherungsnehmern.
+Antike Vorformen der Gegenseitigkeitsversicherung begegnen uns in den ägyptischen, griechischen und römischen Begräbnisvereinen (collegia tenuiorum), die mittels regelmäßiger Beiträge für ein anständiges Begräbnis ihrer Mitglieder und für den Totenkult sorgten.
+Die bis in die Neuzeit fortwirkende Entwicklung der Gegenseitigkeitsversicherung beginnt jedoch erst im frühen Mittelalter in Nordeuropa mit der auf einem gegenseitigen Treueverhältnis beruhenden und sich zur gemeinsamen Erfüllung religiöser, politischer, wirtschaftlicher und geselliger Zwecke zusammenschließenden Gilden und Genossenschaften, die sich bevorzugt der gemeinschaftlichen Risikoübernahme und Hilfeleistung bei Tod, Brand, Viehsterben, Schiffbruch und Gefangennahme widmeten.
+Im 17. und 18. Jahrhundert entstanden auf staatliche Initiative die ersten öffentlich-rechtlichen Versicherungsanstalten, die ebenfalls nicht gewinnorientiert sind.
+Die Zweige der Sozialversicherungen können nur eingeschränkt zu den Versicherungen gezählt werden, da es sich nur um umlagefinanzierte (Umlageverfahren) staatlich organisierte Pflichtversicherungen handelt.
+Zudem werden in der gesetzlichen Rentenversicherung die Beiträge nicht unter den Leistungsberechtigten umgelegt, sondern von einer Generation für die andere erbracht (Generationenvertrag).
+Sie bildet keine Rückstellungen, sondern finanziert sich aus den laufenden Einnahmen und ist damit nicht demographiefest.
+Die versicherbaren Risiken sind sehr vielfältig.
+Voraussetzung ist allerdings, dass sie sich nach statistisch fassbaren Gesetzmäßigkeiten realisieren.
+Daher sind beispielsweise Risiken, die wesentlich auf dem Verhalten von Menschen beruhen, wie wirtschaftlicher Erfolg einer Unternehmung, Marktpreisrisiken oder vorsätzliches Verhalten, nicht versicherbar.
+Die versicherbaren Risiken lassen sich aber auf wenige Risikogruppen reduzieren, die allerdings keine exakten Grenzen haben:
+Die Rechtsordnung trennt das Versicherungsrecht in das immer umfangreicher werdende Sozialversicherungsrecht und das Privatversicherungsrecht, das wiederum Versicherungsunternehmensrecht, Versicherungsaufsichtsrecht und Versicherungsvertragsrecht umfasst.
+Das Versicherungsvertragsrecht ist besonderes Schuldvertragsrecht und als solches das den Besonderheiten des Versicherungsvertrages gerecht werdende Sonderprivatrecht.
+Für die Deckung der Anwartschaften insbesondere bei Personenversicherung haben sich zwei grundlegende Deckungsprinzipien herauskristallisiert.
+Eine Lotterie ist einer Versicherung in manchen Aspekten sehr ähnlich, nicht zuletzt auch deshalb, weil Versicherungen ursprünglich vielfach Wett- oder Lotteriecharakter hatten.
+Allerdings dient das Glücksspiel weder der finanziellen Risikovorsorge noch dem kollektiven Ansparen.
+Ferner soll eine Versicherung die finanziellen Folgen eines bestimmten Ereignisses absichern; dieses Ereignis ist jedoch das gewünschte Ziel bei einer Lotterie.
+Der Spieler will den Gewinn ja nicht verhindern, sondern möglichst erringen.
+Eine besondere Form der Lotterie ist die Tontine, bei der eine Gesamtheit von Anlegern einen Betrag aufbringt, der nach dem Ablauf einer vereinbarten Laufzeit verzinst an die Überlebenden der Gesamtheit ausbezahlt wird.
+Hier steht die Beitragszahlung nicht unter Risiko.
+Für die Leistung wird das biometrische Risiko zur Erhöhung der Rendite für die Überlebenden genutzt.
+Allerdings ist die Tontinenversicherung als Vorläufer unserer heutigen Rentenversicherungen anzusehen.
+Die insbesondere in Frankreich üblichen Kapitalisierungsgeschäfte (Sparversicherungen; französisch Contrats de capitalisation) sind ebenfalls keine (Lebens-)Versicherungen im eigentlichen Sinn, da hier ausschließlich ein Sparvorgang vorliegt.
+Bevor ein Risiko richtig versichert werden kann, muss es erkannt, bewertet und der Umgang mit dem Risiko festgelegt werden.
+Mit diesem Prozess, welcher als Vorstufe jedem Versicherungsabschluss vorausgehen sollte, befasst sich das Risikomanagement.
+Risikomanagement ist der gesamtheitliche Umgang mit Risiken.
+Eine generelle, einfache Definition von Risiko ist Unsicherheit.
+Die Komponenten eines Risikos sind:
+Weitere Dimensionen von Risiko sind Eintrittswahrscheinlichkeit und Häufigkeit.
+Die Versicherungswirtschaft oder der Versicherungsmarkt (als Begriff für alle, welche sich mit versicherbaren Risiken befassen) kümmert sich primär um die durch einen Versicherer versicherbaren Risiken; diese sind nur ein Teil aller Risiken.
+Weitere Risiken sind in anderer Art und Weise absicherbar, wie zum Beispiel das Risiko von sinkenden Aktienkursen durch Optionen.
+Außerdem gibt es die Versicherungswirtschaft konkurrierende oder ergänzende Techniken wie die Verbriefung, die zur finanziellen Absicherung von Risiken den Kapitalmarkt anzapft.
+Viele Risiken sind nicht oder nur teilweise auf Andere überwälzbar, wie das Risiko des Unternehmers, dass ein neu lanciertes Produkt am Markt keinen Erfolg hat; könnte man dieses Risiko voll abwälzen, hätte man auch kein Recht auf einen Gewinn.
+Denn der Gewinn ist der Lohn für eingegangene Risiken.
+Das Risikomanagement beschäftigt sich mit der Frage nach den richtigen Instrumenten und Methoden im Umgang mit Risiken.
+Mögliche Maßnahmen sind zum Beispiel Risikohäufigkeit reduzieren, planmäßiger Umgang mit der Situation, wenn sich Risiko verwirklicht, einen Teil der finanziellen Auswirkungen selbst tragen, einen Teil versichern.
+Ein kritischer Schritt im Umgang mit Risiken ist die Erkennung von Risiken, denn mit nicht erkannten Risiken kann auch nicht planmäßig umgegangen werden.
+Versicherungsschutz wird im Rahmen eines besonderen Rechtsverhältnisses, des Versicherungsverhältnisses gewährt.
+Der Versicherungsschutz gewährende ist der Versicherer, der Versicherungsschutz erhaltende ist der Versicherungsnehmer.
+Versicherungsverhältnisse können durch Vertrag, Gesetz oder seltener Gerichtsentscheidung begründet werden.
+Da Versicherung definitionsgemäß auf der Basis des Risikoausgleichs im Kollektiv erfolgt, sind die Versicherer bemüht, große Zahlen möglichst ähnlicher Versicherungsverhältnisse zu begründen, die sich nur durch die unvermeidliche Individualität der einzelnen Risiken unterscheiden.
+Daher sind die Versicherungsverhältnisse, deren Risiken in einem Kollektiv ausgeglichen werden sollen, grundsätzlich identisch ausgestaltet und unterscheiden sich nur durch das individuell abgesicherte Risiko.
+Hierzu gestalten die Versicherer für einen bestimmten Typ von Versicherungsverhältnissen einheitliche Bedingungen, die sogenannten Allgemeinen Versicherungsbedingungen, die eine möglichst große Einheitlichkeit der auf dieser Basis begründeten Versicherungsverhältnisse bewirken.
+Diese Typen von möglichen Versicherungsverhältnissen, die ein Versicherer anbietet, werden von den Versicherern auch als Produkte bezeichnet.
+Da Versicherung ein kollektives Geschäft ist, "produziert" der Versicherer nicht einzelne Versicherungsverhältnisse, sondern die Kollektive.
+Daher ist dies wirtschaftlich sein "Produkt".
+Der Produktbegriff wird hier aber auch zugleich im weiteren Sinn verwendet, der sich nicht auf das einzelne Wirtschaftsgut oder die einzelne Dienstleistung bezieht, sondern sich auf das Fertigungsverfahren oder den Typ von im Massenfertigungsverfahren hergestellten Einzelprodukten bezieht.
+Diese Produkte waren oder sind teilweise noch Gegenstand der staatlichen Beaufsichtigung der Versicherung.
+In dem Fall ist das Produkt der zum Teil staatlich beaufsichtigte Versicherungstarif.
+Es existieren verschiedene Möglichkeiten, um die Vielfalt der Versicherungen systematisch darzustellen.
+Sechs solcher Gruppierungsansätze sind nachfolgend dargestellt:

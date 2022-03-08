@@ -1,0 +1,9 @@
+Ein Dreieck ist ein Polygon und eine geometrische Figur.
+Es handelt sich innerhalb der euklidischen Geometrie um die einfachste Figur in der Ebene, die von geraden Linien begrenzt wird.
+Seine Begrenzungslinien bezeichnet man als Seiten.
+In seinem Inneren spannen sich drei Winkel, die sogenannten Innenwinkel auf.
+Die Scheitel dieser Winkel bezeichnet man als Eckpunkte des Dreiecks.
+Auch eine Verallgemeinerung des Dreiecksbegriffes auf nichteuklidische Geometrien ist möglich.
+In diesem Fall müssen die Begrenzungslinien Geodäten sein.
+In der Trigonometrie, einem Teilgebiet der Mathematik, spielen Dreiecke die wesentliche Rolle.
+Siehe dazu insbesondere Dreiecksgeometrie.

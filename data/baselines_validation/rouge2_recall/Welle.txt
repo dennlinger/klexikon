@@ -1,0 +1,10 @@
+Eine Welle ist eine sich räumlich ausbreitende periodische (Schwingung) oder einmalige (Störung) Veränderung des Gleichgewichtszustands eines Systems bezüglich mindestens einer orts- und zeitabhängigen physikalischen Größe.
+Unterschieden werden mechanische Wellen, die stets an ein Medium gebunden sind, und Wellen, die sich auch im Vakuum ausbreiten können (beispielsweise elektromagnetische Wellen, Materiewellen oder Gravitationswellen).
+In Medien wird die Ausbreitung einer örtlichen Störung durch die Kopplung benachbarter Oszillatoren (schwingfähige physikalische Größen) vermittelt.
+Eine Welle transportiert Energie, jedoch keine Materie, d. h. die benachbarten Oszillatoren transportieren die Störung durch den Raum, ohne sich selbst im zeitlichen Mittel fortzubewegen.
+Ein wichtiges Beispiel ist der Schall, der sich in Gasen und Flüssigkeiten immer als Longitudinalwelle ausbreitet.
+Das bedeutet, dass sich in einem Medium Zonen mit Überdruck bzw. Druckspannung (bzw. Unterdruck oder Zugspannung) in der Ausbreitungsrichtung fortpflanzen bzw. verschieben oder ausbreiten.
+Nach dem Durchlauf der Schwingung bewegen sich die Teilchen wieder an ihre Ruhestellung, die Gleichgewichtslage, zurück.
+Diese Funktionen hängen im Allgemeinen von Ort r {\displaystyle \mathbf {r} } und Zeit t {\displaystyle t\,} ab .
+An einem solchen Pendel befindet sich zum Beispiel ein Stift, unter dem ein Blatt Papier mit konstanter Geschwindigkeit hergezogen wird.
+Geschieht dies mit einer geeigneten Frequenz für die verwendete Antenne, so wird ein Teil der Energie in Form einer elektromagnetischen Welle effizient von der Antenne in den Raum abgestrahlt.

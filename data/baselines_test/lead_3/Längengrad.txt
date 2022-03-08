@@ -1,0 +1,3 @@
+Die geographische Länge, auch Längengrad oder kurz Länge genannt (lateinisch longitudo, englisch longitude, internationales Kürzel long oder LON, Formelzeichen ), beschreibt eine der beiden Koordinaten eines Ortes auf der Erdoberfläche, und zwar seine Position östlich oder westlich einer definierten (willkürlich festgelegten) Nord-Süd-Linie, des Nullmeridians.
+Die geographische Länge ist ein Winkel, dessen Weite vom Nullmeridian (0°) ausgehend bis 180° in östlicher und 180° in westlicher Richtung gemessen wird.
+Scheitelpunkt dieses Winkels ist der Mittelpunkt der gedachten Erdkugel, ein Schenkel geht durch den Nullmeridian und der andere durch den Meridian, auf dem der Ort liegt, dessen geographische Länge angegeben werden soll.

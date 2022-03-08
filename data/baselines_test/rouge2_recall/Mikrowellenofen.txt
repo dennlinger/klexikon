@@ -1,0 +1,27 @@
+Ein Mikrowellenherd, auch Mikrowellenofen oder Mikrowellengerät (kurz Mikrowelle), ist ein Gerät zum schnellen Erwärmen, Garen und Kochen von Speisen, Flüssigkeiten und anderen geeigneten Stoffen.
+Der US-amerikanische Ingenieur Percy Spencer (1894-1970) entdeckte, dass Nahrung per Mikrowellenstrahlung erwärmt werden kann, als er Magnetrone für Radaranlagen bei Raytheon (einem Hersteller von Hochfrequenztechnik) baute.
+Als er gerade an einem Radargerät arbeitete, verspürte er ein seltsames Gefühl und bemerkte, dass ein Schokoriegel in seiner Tasche zu schmelzen begann.
+Er war nicht der erste, der dieses Phänomen bemerkte, allerdings war er als Inhaber von 120 Patenten mit Entdeckungen und Experimenten vertraut und verstand, was geschehen war:
+Popcorn war das erste Nahrungsmittel, das gezielt auf diese Weise zubereitet wurde, das zweite ein Ei (welches vor den Augen der Experimentatoren explodierte).
+In Nordamerika ist Mikrowellen-Popcorn eine der am häufigsten in der Mikrowelle zubereiteten Speisen.
+Er besaß eine Wasserkühlung und hatte eine Leistung von 3000 W, etwa das Dreifache von heute üblichen Haushaltsgeräten.
+Mikrowellenherde wurden von Unternehmen entwickelt und angeboten, die Erfahrungen mit Magnetronen aus der Entwicklung von Radargeräten hatten; sie wurden zunächst hauptsächlich für Passagierflugzeuge hergestellt, bevor die Geräte auch ihren Weg in Großküchen und die privaten Haushalte fanden.
+Bis 1964 wurde das Modell RL-1, trotz des hohen Preises von 1.300 USD 1396 mal verkauft.
+Genauer betrachtet regt Mikrowellenstrahlung eine Drehbewegung der Moleküle an; Voraussetzung ist, dass die Moleküle ein elektrisches Dipolmoment besitzen.
+Ein ganz anderer Mechanismus wirkt, wenn Infrarotstrahlung (also der wesentliche Beitrag thermischer Strahlung) auf Moleküle trifft:
+Durch die Rotation erhöht sich die kinetische Energie des Wassers und somit die Temperatur.
+Gemäß der Debye-Relaxation existiert keine Resonanzfrequenz im strengen Sinn, wohl aber ein breiter Frequenzbereich, in dem der dielektrische Verlustfaktor (das ist der Imaginärteil der komplexen Permittivität eines Materials bei vorgegebener Frequenz) besonders groß ist.
+In der technischen Praxis ist dies allerdings weitgehend irrelevant, da aus anderen Gründen sowieso deutlich niedrigere Frequenzen zum Einsatz kommen.
+Der Garraum ist metallisch und Hochfrequenz-dicht, wodurch die Ausbreitung der Mikrowellen aus dem Gerät heraus verhindert wird.
+Zur Versorgung des Magnetrons ist eine hohe Anodenspannung erforderlich (etwa 5 kV), die im Gerät mit Hilfe eines Hochspannungstransformators und einer Spannungsverdopplerschaltung erzeugt wird.
+Ein 1200-Watt-Gerät, das der Bediener auf 600 Watt Leistung eingestellt hat, wird also wechselnd beispielsweise 5 Sekunden lang 1200 Watt Strahlungsleistung auf das Kochgut geben und danach 5 Sekunden im Leerlauf sein.
+Die Schaltperiode ist aufgrund der mechanischen Schalter (Relais, Schaltuhr) und des lebensdauerverringernden Einschaltens des Magnetrons ohne Kathodenvorheizung nicht weiter verkürzbar und kann je nach Maximalleistung auch bei gleicher Leistungsvorwahl zu unterschiedlichen Ergebnissen führen; bei empfindlichen Speisen, wie z. B. Fisch, kann auch die kurzzeitige Anwendung des Leistungsmaximums zu lokalen Verbrennungen führen.
+Wegen des unterschiedlichen Wassergehalts verschiedener Speisen kann es trotz Stirrer und Drehteller zu inhomogener Erwärmung kommen.
+Dabei kann es passieren, dass Wasser über den Siedepunkt hinaus erhitzt wird, ohne zu sieden - diese Gefahr besteht vor allem bei wiederholtem Erhitzen in der Mikrowelle aufgrund des geringer werdenden Anteils gelöster Gase.
+Spezielles sogenanntes Bräunungsgeschirr sowie andere verlustbehaftete dielektrische oder elektrisch mittelmäßig leitfähige Stoffe sowie ferromagnetische Keramik werden dagegen auch direkt erwärmt.
+Die Erwärmung von Speisen, die ganz oder teilweise in Aluminiumfolie verpackt sind, birgt die Gefahr von Funken und Lichtbögen an Überlappungen und Kanten, zudem reflektiert das Aluminium die Mikrowellen.
+Vergleiche mit anderen Erhitzungsverfahren sind kaum anzustellen, weil das konventionelle Kochen eine homogenere Temperaturverteilung bewirkt, das Braten und Backen hingegen eine wesentlich inhomogenere.
+Etwa 73 % der Haushalte in Deutschland haben einen Mikrowellenherd.
+Beim normalen Garen (also abgesehen von den schon erwähnten lokalen Verbrennungsvorgängen) in der Mikrowelle werden Temperaturen, wie sie für die Entstehung von Bräunungsreaktionen (Maillard-Reaktion, z. B. bei Braten oder Spiegelei) nötig sind, nicht erreicht.
+Es gibt auch spezielles Bräunungsgeschirr für kleinere Fleischportionen, wo in der Oberflächenbeschichtung Metalloxide eingelagert sind, die sich durch die Mikrowellenenergie erhitzen und somit Bräunungseffekte erzielen können.
+Nach der Einführung des ePasses wurde seitens des Chaos Computer Clubs und Gegnern zunehmender Überwachungsmaßnahmen als Akt zivilen Ungehorsams dazu aufgerufen, den im Dokument enthaltenen Chip, auf dem persönliche Daten des Inhabers gespeichert sind, mittels eines Mikrowellenherdes zu zerstören.

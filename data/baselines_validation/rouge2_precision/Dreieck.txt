@@ -1,0 +1,14 @@
+Ein Dreieck (veraltet auch Triangel, lateinisch: triangulum) ist ein Polygon und eine geometrische Figur.
+Ein Dreieck wird durch drei Punkte definiert, die nicht auf einer Geraden liegen.
+Sie werden Ecken des Dreiecks genannt.
+Dieser berührt die drei Seiten von innen.
+Ein weiterer bekannter Kreis am Dreieck ist der Feuerbachkreis.
+Ein Dreieck besitzt drei Seiten und drei Innenwinkel.
+Der SSW- oder WSS-Fall dagegen ist nur dann eindeutig, wenn der bekannte Winkel der größeren der beiden gegebenen Seiten gegenüberliegt (SsW-Fall) - liegt er der kleineren Seite gegenüber (sSW-Fall), gibt es meist zwei verschiedene Dreiecke, die die Ausgangsbedingungen erfüllen.
+Ansonsten gibt es kein Dreieck mit den vorgegebenen drei Seiten.
+Kennt man einen der drei Brüche, kennt man damit automatisch auch alle übrigen.
+Alle gleichseitigen Dreiecke sind zueinander ähnlich und genau dann kongruent, wenn ihre Seitenlängen gleich sind.
+Bei Kenntnis zweier der sechs Angaben ( a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} , p {\displaystyle p} , q {\displaystyle q} und h {\displaystyle h} ) lassen sich die fehlenden vier anderen Werte aus den in folgender Tabelle aufgeführten Formeln berechnen.
+Aus den obigen können die folgenden durch Kehrwertbildung dargestellt werden.
+Unregelmäßig nennt man ein Dreieck, das diese zwei Bedingungen erfüllt:
+Das Dreieck wird als Symbol verwendet, zum Beispiel in der Theologie, als ideologisches Symbol, als mathematisches Symbol und auch in Schildern.

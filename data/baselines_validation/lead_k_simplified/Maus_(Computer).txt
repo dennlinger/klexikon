@@ -1,0 +1,9 @@
+Eine Computermaus ist ein Eingabegerät bei Computern.
+Der erste Prototyp wurde 1963 nach Zeichnungen von Douglas C. Engelbart gebaut; seit Mitte der 1980er Jahre bildet die Maus für fast alle Computertätigkeiten zusammen mit dem Monitor und der Tastatur eine der wichtigsten Mensch-Maschine-Schnittstellen.
+Die Entwicklung grafischer Benutzeroberflächen hat die Computermaus zu einem heute praktisch an jedem Desktop-PC verfügbaren Standardeingabegerät gemacht.
+Die Bewegung der Maus, ausgeführt mit der Hand auf dem Arbeitsplatz - gegebenenfalls mit einer geeigneten Unterlage, wie dem Mauspad - wird über einen Sensor in der Maus aufgenommen, digitalisiert und über eine Schnittstelle an den angeschlossenen Computer übertragen.
+Das Betriebssystem setzt diese zweidimensionale Bewegungsinformation in eine gleichartige Bewegung des Mauszeigers auf dem Bildschirm um.
+Durch Betätigung der Tasten oder zusätzlicher Elemente der Maus kann der Nutzer verschiedene Aktionen in dem Betriebssystem oder Anwendungsprogramm durchführen.
+Die Einführung der Computermaus kann als ein entscheidender Durchbruch in der Verbesserung der Benutzerfreundlichkeit von Computern angesehen werden.
+Im Jahre 2005 wurden schätzungsweise mehr als eine Milliarde Mäuse weltweit verkauft.
+Die Alternativen sind die Bedienung des Rechners über einen Trackball, einen Trackpoint, einen Touchscreen, ein Touchpad oder ein Grafiktablett.

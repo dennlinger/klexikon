@@ -1,0 +1,64 @@
+Als Emoticon ( oder engl. ) werden einzelne Zeichen oder Folgen aus ASCII-Zeichen bezeichnet, die in der schriftlichen Kommunikation Stimmungs- oder Gefühlszustände ausdrücken.
+Die Bezeichnung Emoticon ist ein Kofferwort, gebildet aus Emotion und Icon.
+Verwendet werden Emoticons sowohl im lockeren digitalen Schriftverkehr, z. B. via E-Mail, Instant Messaging, SMS, in Forumsdiskussionen und beim Chatten, als auch gelegentlich in umgangssprachlicher handschriftlichen Kommunikation.
+Die am häufigsten eingesetzten Emoticons sind Smileys.
+Werden Emoticons aus mehreren Zeichen zusammengesetzt, sind sie meist um 90 Grad gedrehte, also liegende, Strichbilder von Gesichtern.
+Das Emoticon :-) etwa ist ein lächelndes Gesicht:
+:-).
+Einige Programme (z. B. Instant Messenger wie ICQ oder Skype) erzeugen bei der Texteingabe typischer Emoticon-Zeichenkombinationen ein entsprechendes grafisches Smiley, wobei sich oft knallgelbe Exemplare ohne Nase durchgesetzt haben, z. B. wird aus dem Emoticon :-) die Grafik .
+Der Begriff Emoticon wurde Mitte der 90er Jahre aus dem Englischen entlehnt und spätestens 1996 auch in deutschen Printmedien verwendet.
+In den Duden wurde das Wort schließlich im Jahr 2000 aufgenommen.
+Die Verwendung des Begriffs ist uneinheitlich.
+Mal werden nur ASCII-Zeichenkombinationen wie :-) darunter verstanden, mal werden auch Smiley-Unicode-Zeichen darunter verstanden, mal sind nur menschliche Gesten gemeint, mal aber auch jegliche stilisierte Gegenstände der einzeiligen ASCII-Art wie eine Rose @}-,-'-,-- und ein Roter Hering > <(((°> sowie Emojis aufgrund des ähnlichen Klanges der Wörter und wegen ihrer weitestgehend identischen Funktion und Handhabung.
+Die aus Japan stammenden Kaomojis sind eine Sonderform der Emoticons (siehe Abschnitt Japanische Emoticons), die ebenfalls meist stilisierte Smileys darstellen und die nicht auf die Seite gedreht sind.
+Mit der Urform des Emoticons, dem Strichmännchengesicht, experimentierten Schriftsetzer bereits in früheren Jahrhunderten unter Verwendung von Satzzeichen (siehe Abbildung) oder Buchstaben.
+Bereits nach Einführung des Typendrucktelegraphen durch David Edward Hughes verwendeten einige stilisierte Gesichter aus den vorhandenen Typen, wie die hier abgebildete Telegraphische Zeichenkunst (veröffentlicht in der Deutschen Postzeitung, VII.
+Jg.(Nr. 22), 16. November 1896, S. 497) verdeutlicht.
+Eine Art Wiederentdeckung dieser Mini-Gefühls-Bilder erfolgte 1963, als der Werbegrafiker Harvey Ball "sein" Smiley entworfen hatte.
+Auch die Codepage 437, besser bekannt als der Original-Zeichensatz des IBM-PC ab 1981, enthielt Smileys (01:  und 02:  als Darstellung der ASCII-Steuerzeichen SOH und STX) in Form von Pixelgrafik des jeweiligen Fonts, die später in das Unicode-System als U+263A und U+263B integriert und um ein trauriges Emoticon ergänzt wurden:
+ (U+2639).
+2011 führte Unicode 6.0 weitere Emoticons ein, die von U+1F600 bis U+1F64F kodiert sind.
+Am 19. September 1982 schlug der Wissenschaftler und spätere Informatikprofessor Scott E. Fahlman nach ironischen Missverständnissen und Witzen in einem Bulletin Board der Carnegie Mellon University vor, aus ASCII-Zeichen das inzwischen weltberühmt gewordene Signet eines seitwärts nachgebildeten Lachens zu benutzen.
+Dieser Vorschlag verbreitete sich über das Arpanet bis zum Xerox-Forschungszentrum PARC (Kalifornien).
+Lange galt dieser Post als verschollen.
+Nach umfangreichen Nachforschungen gelang es Jeff Baird am 10. September 2002, die originale Nachricht von Fahlman auf einem Backup-Band aus dem Jahre 1982 wiederzufinden:
+Der Textteil der Nachricht heißt auf Deutsch etwa:
+Im Dezember 2008 versuchte der Chef des russischen Werbeunternehmens Superfone, Oleg Teterin, das Augenzwinker-Emoticon ;-) beim Patentamt in Moskau markenrechtlich schützen zu lassen, um Lizenzgebühren zu erheben.
+Das Patentamt lehnte dies ab, da es kein Warenzeichen sei.
+Emoticons sind für die Teilnehmer an der Internetkommunikation eine wichtige Methode, ihre Gefühlslage deutlich zu machen.
+Die Internetkommunikation läuft im Gegensatz zur direkten Kommunikation (englisch: Face-to-Face Communication) ohne sichtbares Gegenüber, dessen Gesten, Mimik und Stimmausdruck gedeutet werden könnte, um neben dem Wortinhalt Aufschluss über die Einstellung zum Gegenüber, Aussagen über die Wahrhaftigkeit und Bedeutung der Aussage sowie den emotionalen Zustand zu erhalten.
+Auch die soziale Rolle des Sprechers (Geschlecht, ungefähres Alter, Hautfarbe, Kleidung, Frisur etc.) geben Anhaltspunkte über die Bedeutung des Sprachinhalts.
+So ist zum Beispiel eine ironische Aussage in der Schriftform oft allein am Wortinhalt nicht zu verstehen.
+Um den Bedeutungskontext der Aussagen zu verdeutlichen, helfen Emoticons.
+Anders als bei anderen Formen der textbasierten Kommunikation, wie dem Brief, treffen sich im Internet oft Unbekannte.
+Dies macht es noch schwieriger, den Bedeutungskontext zu entschlüsseln.
+Die Emoticons sollen hierbei helfen, die Zahl der Missverständnisse zu reduzieren.
+Weniger häufig finden "linkshändige" Emoticons Verwendung:
+Sie werden vertikal gespiegelt geschrieben, so dass der Kopf zum Lesen nach rechts geneigt werden müsste, beispielsweise (-: und )-:.
+Damit kann auf die Händigkeit des Users verwiesen werden.
+Während bei den im Westen traditionellen Emoticons das Bild um 90 Grad gedreht ist, ist dies bei japanischen Emoticons, Kaomojis, und allgemein Emojis nicht der Fall.
+Emojis sind nicht auf Emotionen beschränkt, sondern zu ihnen zählen auch Symbole für Pflanzen (), Tiere (), Essen () und Getränke () oder Wetterlagen ().
+Derjenige Teil der Emojis, der zum Ausdrücken von Gefühlslagen bestimmt ist und am ehesten den westlichen Smileys entspricht, wird als Kaomoji (japanisch  bzw.  Gesichtsschriftzeichen) bezeichnet; falls die Zeichen animiert werden, auch als Kaoani (japanisch  Gesichtsanimation bzw. animiertes Gesicht), oder allgemein einfach nur kurz als Kao (japanisch  Gesicht).
+Seit etwa dem Jahr 2000 sind Kaomojis und Emojis vermehrt auch im Westen im Internet Relay Chat anzutreffen und erfreuen sich bei jungen Menschen besonderer Beliebtheit.
+Japanische Emoticons erweitern die Ausdruckspalette, da sie oft nicht nur aus ASCII-Zeichen bestehen, sondern auch aus japanischen Schriftzeichen, vor allem Katakana.
+Moderne japanische Mobiltelefone haben beispielsweise für Kurzmitteilungen Dutzende von Emoticons gespeichert und wandeln die jeweiligen Schlüsselwörter ("heul", "Entschuldigung") nach Eingabe statt in Kanji alternativ in Emoticons um.
+Außerdem bieten sie speziell kodierte, teilweise sich bewegende Bildsymbole mit einer Vielzahl von Motiven, zum Beispiel einen Hamburger, ein explodierendes Feuerwerk, eine Landesflagge oder ein sich küssendes Paar.
+Wegen der in Japan traditionellen mimischen Zurückhaltung konzentrieren sich Japaner, um Gefühle eines Gegenübers aus dessen Gesicht abzulesen, mehr auf die Augen, US-Amerikaner hingegen mehr auf den Mund, was sich in einer stärkeren Variation der verwendeten Zeichen für die Augen bei den Emojis manifestiert.
+Teilweise werden jedoch die Emoticons ^_^ , ^.^ und ^^ nur noch als glückliches Gesicht empfunden und verwendet.
+Oftmals werden aus Gründen der Zeitersparnis die Gesichtsumrandungen weggelassen:
+^.^ statt (^.^) oder ^_^" statt (^_^)".
+Kürzere Emoticons dieser Art sind ^^ (lächeln), oo (böser Blick) oO (etwas nicht verstehen) oder <_< / >_> (genervter oder irritierter Seitenblick).
+Es gibt aber auch die umgekehrte Variante.
+Emoticons werden zur Ausdruckssteigerung um ein Vielfaches in die Länge gezogen:
+In Südkorea werden Emoticons in der Regel durch koreanische Buchstaben ausgedrückt.
+Seit den 2010er Jahren werden von neueren Programmen und Mobiltelefonen Emoticons automatisch in eine Grafik, dann Smiley genannt, umgewandelt, etwa von Instant-Messenger-Software, Webforen oder E-Mail- und News-Clients.
+Wenn ein Emoticon in eine Grafik umgewandelt wird, enthält es mehr Bildinformationen als das minimalistische ursprüngliche Emoticon.
+Deshalb kann ein und dasselbe Emoticon je nach übersetzendem Programm unterschiedliche "Emotionen" vermitteln, die sich teilweise stark voneinander unterscheiden und auch von der intendierten Botschaft abweichen können.
+Zum Beispiel hat ein Herz, das hellrosa und mit weichen Formen dargestellt wird, eine völlig andere Wirkung als eine flammend rote, wild geschwungene Variante.
+Die gemeinsame simple Form wäre < 3.
+Da bei oben genannten Programmen der Sender der Botschaft keinen Einfluss darauf hat, welches Programm der Empfänger benutzt und u. U. nicht weiß, wie dieses die Emoticons umwandelt, besteht die Gefahr des Entstehens von Missverständnissen.
+In Internetforen werden heutzutage fast ausschließlich Smileys verwendet, meist in vielfältigen Abwandlungen.
+Es gibt zudem Websites, welche hunderte dieser Grafik-Emoticons zum Verlinken anbieten.
+Oben angesprochene Missverständlichkeiten sind dabei auf die Interpretation des Empfängers beschränkt, da der Sender der Botschaft das Smiley aussucht und es auf beiden Seiten identisch ist.
+Auch animierte Grafiken sind keine Seltenheit.
+Schildersmilies sind Smileys, die ein Schild halten und somit Benutzern die Möglichkeit geben, eine zusätzliche Textbotschaft unterzubringen.
