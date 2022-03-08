@@ -1,0 +1,41 @@
+Die Physik ist eine Naturwissenschaft, die grundlegende Phänomene der Natur untersucht.
+Dazu ist häufig die Bildung neuer geeigneter Begriffe nötig, teilweise auch solcher, die der unmittelbaren Anschauung nicht mehr zugänglich sind.
+Erklärungen in dem philosophischen Sinn, "warum" die Natur sich so verhält, kann die Physik nicht leisten.
+Stattdessen setzt sie sich mit dem "wie" auseinander.
+Newton tat dies, indem er annahm, dass zwischen Körpern eine Anziehungskraft herrscht.
+Diese Überprüfung in Form reproduzierbarer Messungen an gezielt gestalteten physikalischen Experimenten oder durch Beobachtung natürlicher Phänomene ist das Gebiet der Experimentalphysik.
+Zur Abgrenzung gegenüber der Biologie wurde die Physik oftmals als die Wissenschaft von der unbelebten im Gegensatz zur belebten Natur bezeichnet, womit jedoch eine Beschränkung impliziert wird, die so in der Physik nicht existiert.
+Die Erkenntnisgewinnung in der Physik verläuft in enger Verzahnung von Experiment und Theorie, besteht also aus empirischer Datengewinnung und -auswertung und gleichzeitig dem Erstellen theoretischer Modelle zu ihrer Erklärung.
+Demnach lassen sich grob Experimentalphysik und theoretische Physik voneinander unterscheiden.
+Die Experimentalphysik versucht durch Entwurf, Aufbau, Durchführung und Auswertung von Experimenten Gesetzmäßigkeiten aufzuspüren und mittels empirischer Modelle zu beschreiben.
+Konkret werden entweder nur die zeitunabhängigen (statischen) Eigenschaften eines Objektes gemessen oder es wird die zeitliche Entwicklung (Dynamik) des Systems untersucht, etwa indem Anfangs- und Endwerte einer Messgröße vor und nach dem Ablauf eines Vorgangs bestimmt werden oder indem kontinuierliche Zwischenwerte festgestellt werden.
+Zur theoretischen Beschreibung eines physikalischen Systems benutzt man die Sprache der Mathematik.
+Experimentalphysik und theoretische Physik stehen also in steter Wechselbeziehung zueinander.
+Die angewandte Physik steht in (unscharfer) Abgrenzung zur Experimentalphysik, teilweise auch zur theoretischen Physik.
+Naturgemäß hat dieser Bereich der Physik zahlreiche Anknüpfungspunkte an die Informatik.
+Die klassische Mechanik behandelt Systeme mit wenigen massiven Körpern, was sie von der Elektrodynamik und der Thermodynamik unterscheidet.
+In der Elektrodynamik werden Phänomene mit bewegten elektrischen Ladungen in Wechselwirkung mit zeitlich veränderlichen elektrischen und magnetischen Feldern beschrieben.
+Diese Theorie brachte unter anderem in Form der Wellenoptik auch einen eigenen Formalismus hervor, der sich grundlegend von dem der klassischen Mechanik unterscheidet.
+Die Thermodynamik eignet sich beispielsweise zur Beschreibung von Wärmekraftmaschinen aber auch zur Erklärung vieler moderner Forschungsgegenstände wie Supraleitung oder Suprafluidität.
+Raum und Zeit verschmelzen zu einer vierdimensionalen Raumzeit.
+Die Gravitation wird auf eine Krümmung dieser Raumzeit zurückgeführt, die durch die Anwesenheit von Masse bzw. Energie hervorgerufen wird.
+In der Quantenphysik sind auch physikalische Größen selbst Teil des Formalismus und keine bloßen Kenngrößen mehr, die ein System beschreiben.
+Dies führt in bestimmten Situationen zur Quantisierung der Größenwerte.
+Die Theorien der Physik kommen in verschiedenen Themenbereichen zum Einsatz.
+Die Einteilung der Physik in Unterthemen ist nicht eindeutig und die Abgrenzung der Unterthemen gegeneinander ist dabei ähnlich schwierig wie die Abgrenzung der Physik zu anderen Wissenschaften.
+Es gibt dementsprechend viele Überschneidungen und gegenseitige Beziehungen der verschiedenen Bereiche zueinander.
+Forschungsgebiete der Atomkernphysik umfassen radioaktive Zerfälle und Stabilität von Atomkernen.
+In der Kernphysik werden zur Erzeugung von Transuranen schwere Atome zur Kollision gebracht und Radioaktivität mit einer Vielzahl experimenteller Aufbauten untersucht.
+Da die Molekülphysik sich auch intensiv mit der Theorie der chemischen Bindungen befasst, sind in diesem Themengebiet Überschneidungen mit der Chemie vorhanden.
+Ein wichtiger experimenteller Zugang besteht in der Einwirkung von Licht.
+Andere Untersuchungsmethoden betrachten das Verhalten unter dem Einfluss von elektrischen und magnetischen Feldern.
+All diesen Bereichen ist gemeinsam, dass sie sich mit makroskopischen Systemen aus sehr vielen Atomen, Molekülen oder Ionen befassen.
+Auch in der Astrophysik spielt die Fluiddynamik eine große Rolle bei der Erstellung von Modellen zur Entstehung und zum Aufbau von Sternen sowie bei der Modellierung vieler anderer Effekte.
+Astrophysik und Kosmologie sind interdisziplinäre Forschungsgebiete, die sich stark mit der Astronomie überschneiden.
+Dabei kommen auch Erkenntnisse der Atomphysik und der Teilchenphysik und typische Messmethoden dieser Fachgebiete zur Anwendung, um Rückschlüsse auf astrophysikalische oder kosmologische Zusammenhänge zu ziehen.
+Der derzeitige Stand der Physik ist nach wie vor mit noch ungelösten Problemen konfrontiert.
+So ist es bislang nicht gelungen, eine vereinheitlichte Theorie zu formulieren, welche sowohl Phänomene beschreibt, die der elektroschwachen wie der starken Wechselwirkung unterliegen, wie auch solche, welche der Gravitation unterliegen.
+Überhaupt ist es ein praktisch leitendes Ziel heutiger Physiker, sämtliche Vorgänge der Natur durch eine möglichst geringe Anzahl von möglichst einfachen Naturgesetzen zu beschreiben.
+Diese sollen das Verhalten möglichst grundlegender Eigenschaften und Objekte (etwa Elementarteilchen) beschreiben, sodass höherstufige (emergente) Prozesse und Objekte auf diese Beschreibungsebene reduzierbar sind.
+Ob dieses Ziel prinzipiell oder praktisch erreichbar ist, ist eigentlich nicht mehr Gegenstand der einzelwissenschaftlichen physikalischen Erkenntnisbemühung, ebenso wenig, wie es allgemeine Fragen darüber sind, welchen Gewissheitsgrad physikalische Erkenntnisse grundsätzlich erreichen können oder faktisch erreicht haben.
+Die gesamte Physik verwendet die mathematische Sprache.
