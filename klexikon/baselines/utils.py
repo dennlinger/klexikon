@@ -5,7 +5,8 @@ from typing import IO
 import os
 
 
-def directory_iterator(source_dir: str = "./data/raw/wiki/", target_dir: str = "./data/baselines/lead_3/") -> (IO, IO):
+def directory_iterator(source_dir: str = "./data/raw/wiki/",
+                       target_dir: str = "./data/baselines_all_articles/lead_3/") -> (IO, IO):
     for fn in sorted(os.listdir(source_dir)):
         in_fp = os.path.join(source_dir, fn)
         out_fp = os.path.join(target_dir, fn)

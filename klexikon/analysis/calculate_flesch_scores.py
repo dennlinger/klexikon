@@ -26,7 +26,7 @@ def get_flesch_stats(directory):
 
 if __name__ == "__main__":
     # The full wiki article already has every line break and paragraph removed.
-    wiki_fd = "./data/baselines/full_wiki_article/"
+    wiki_fd = "./data/baselines_all_articles/full_wiki_article/"
     klexikon_fd = "./data/gold/"
     textstat.textstat.set_lang("de")
 
@@ -35,4 +35,3 @@ if __name__ == "__main__":
 
     print(f"Average scores for Wikipedia: {np.mean(wiki_values):.2f} +/- {np.std(wiki_values):.2f}")
     print(f"Average scores for Klexikon:  {np.mean(klexikon_values):.2f} +/- {np.std(klexikon_values):.2f}")
-

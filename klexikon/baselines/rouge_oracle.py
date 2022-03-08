@@ -1,5 +1,5 @@
 """
-Create ROUGE-2 maximizing baselines, with all three objectives (precision, recall, fmeasure).
+Create ROUGE-2 maximizing baselines_all_articles, with all three objectives (precision, recall, fmeasure).
 """
 import os
 from operator import attrgetter
@@ -26,7 +26,7 @@ if __name__ == '__main__':
         aligner = Rouge2Aligner(metric)
 
         # Create necessary output directory
-        out_dir = f"./data/baselines/rouge2_{metric}"
+        out_dir = f"./data/baselines_all_articles/rouge2_{metric}"
         os.makedirs(out_dir, exist_ok=True)
 
         for klexikon_fp, wiki_fp in tqdm(directory_iterator(source_dir="./data/raw/klexikon/",

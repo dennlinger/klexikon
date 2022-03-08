@@ -14,7 +14,7 @@ if __name__ == "__main__":
     scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
-    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_3", gold_dir="./data/gold/")
+    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines_all_articles/lead_3", gold_dir="./data/gold/")
     print("\n------------------------------------")
     print("Results for Lead-3 baseline:")
     result = aggregator.aggregate()
@@ -24,7 +24,7 @@ if __name__ == "__main__":
     scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
-    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_k", gold_dir="./data/gold/")
+    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines_all_articles/lead_k", gold_dir="./data/gold/")
     print("\n------------------------------------")
     print("Results for Lead-k baseline (Wikipedia's 'summary section'):")
     result = aggregator.aggregate()
@@ -34,7 +34,8 @@ if __name__ == "__main__":
     scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
-    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_k_simplified", gold_dir="./data/gold/")
+    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines_all_articles/lead_k_simplified",
+                       gold_dir="./data/gold/")
     print("\n------------------------------------")
     print("Results for Lead-k-simplified baseline (Wikipedia's 'summary section minus bracket texts'):")
     result = aggregator.aggregate()
@@ -54,7 +55,8 @@ if __name__ == "__main__":
     scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
-    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/rouge2_fmeasure", gold_dir="./data/gold/")
+    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines_all_articles/rouge2_fmeasure",
+                       gold_dir="./data/gold/")
     print("\n------------------------------------")
     print("Results for ROUGE-2 oracle (with F1 optimization):")
     result = aggregator.aggregate()
@@ -64,7 +66,8 @@ if __name__ == "__main__":
     scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
-    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/rouge2_precision", gold_dir="./data/gold/")
+    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines_all_articles/rouge2_precision",
+                       gold_dir="./data/gold/")
     print("\n------------------------------------")
     print("Results for ROUGE-2 oracle (with precision optimization):")
     result = aggregator.aggregate()
@@ -74,7 +77,8 @@ if __name__ == "__main__":
     scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
-    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/rouge2_recall", gold_dir="./data/gold/")
+    evaluate_directory(aggregator, scorer, pred_dir="./data/baselines_all_articles/rouge2_recall",
+                       gold_dir="./data/gold/")
     print("\n------------------------------------")
     print("Results for ROUGE-2 oracle (with recall optimization):")
     result = aggregator.aggregate()

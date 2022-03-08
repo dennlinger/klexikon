@@ -59,7 +59,7 @@ def parallel_compute_scores(args: List[str]):
 
 if __name__ == '__main__':
     gold_dir = "../data/raw/klexikon"
-    system_dir = "../data/baselines/rouge2_fmeasure"
+    system_dir = "../data/baselines_all_articles/rouge2_fmeasure"
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
     scorer = get_rouge_scorer_with_cistem()

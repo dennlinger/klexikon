@@ -1,5 +1,5 @@
 """
-Consolidation file for various baselines for the split data.
+Consolidation file for various baselines_all_articles for the split data.
 Note that these should not require
 """
 
@@ -23,7 +23,7 @@ from ..GeRouge import GeRouge
 def get_args():
     parser = ArgumentParser()
     parser.add_argument("--method", choices=["lead-3", "lead-k", "full"], default="lead-3",
-                        help="Available summarization methods. Currently implements lead baselines only.")
+                        help="Available summarization methods. Currently implements lead baselines_all_articles only.")
     parser.add_argument("--rouge_scorer", choices=["GeRouge", "GeRouge-Cistem", "Rouge", "Rouge-Cistem"],
                         default="Rouge-Cistem", help="Which ROUGE scoring method to use.")
     parser.add_argument("--folder", choices=["train", "val", "test"], default="train",

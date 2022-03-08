@@ -17,7 +17,7 @@ def generate_full_article_summary(lines):
 
 
 if __name__ == "__main__":
-    target_dir_full = "./data/baselines/full_wiki_article/"
+    target_dir_full = "./data/baselines_all_articles/full_wiki_article/"
     os.makedirs(target_dir_full, exist_ok=True)
     for in_fp, out_fp in directory_iterator(target_dir=target_dir_full):
         with open(in_fp) as f:

@@ -40,13 +40,12 @@ def print_aggregate(result: Dict) -> None:
               f"high: {value_set.high.fmeasure * 100:5.2f}")
 
 
-def evaluate_directory(aggregator, scorer, pred_dir: str = "./data/baselines/lead_3", gold_dir: str = "./data/gold/"):
+def evaluate_directory(aggregator,
+                       scorer,
+                       pred_dir: str = "./data/baselines_all_articles/lead_3",
+                       gold_dir: str = "./data/gold/") -> None:
     """
     Adds ROUGE evaluations to the passed aggregator object, depending on the files in the prediction directory.
-    :param aggregator:
-    :param scorer:
-    :param pred_dir:
-    :param gold_dir:
     :return: None
     """
     for pred_fp, gold_fp in directory_iterator(pred_dir, gold_dir):

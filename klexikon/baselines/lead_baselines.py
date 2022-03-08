@@ -109,7 +109,7 @@ def strip_bracket_content(line: str) -> str:
 
 
 if __name__ == "__main__":
-    target_dir_3 = "./data/baselines/lead_3/"
+    target_dir_3 = "./data/baselines_all_articles/lead_3/"
     os.makedirs(target_dir_3, exist_ok=True)
     for in_fp, out_fp in directory_iterator(target_dir=target_dir_3):
         with open(in_fp) as f:
@@ -119,7 +119,7 @@ if __name__ == "__main__":
         with open(out_fp, "w") as f:
             f.write("".join(lead_3))
 
-    target_dir_k = "./data/baselines/lead_k"
+    target_dir_k = "./data/baselines_all_articles/lead_k"
     os.makedirs(target_dir_k, exist_ok=True)
     for in_fp, out_fp in directory_iterator(target_dir=target_dir_k):
         with open(in_fp) as f:
@@ -129,8 +129,9 @@ if __name__ == "__main__":
         with open(out_fp, "w") as f:
             f.write("".join(lead_k))
 
-    os.makedirs("./data/baselines/lead_k_simplified", exist_ok=True)
-    for in_fp, out_fp in directory_iterator(target_dir="./data/baselines/lead_k_simplified"):
+    target_dir_k_simplified = "./data/baselines_all_articles/lead_k_simplified"
+    os.makedirs(target_dir_k_simplified, exist_ok=True)
+    for in_fp, out_fp in directory_iterator(target_dir=target_dir_k_simplified):
 
         with open(in_fp) as f:
             lines = f.readlines()
