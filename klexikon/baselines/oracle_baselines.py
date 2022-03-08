@@ -45,6 +45,7 @@ if __name__ == '__main__':
             ordered_result = sorted(result, key=attrgetter("relative_position"))
 
             result_text = []
+            # TODO: For actual sentence alignments, probably preserve matching and order!!!
             for sentence in ordered_result:
                 # Avoid adding a sentence multiple times.
                 # Set conversion would not guarantee order, this is why we do it this way.
