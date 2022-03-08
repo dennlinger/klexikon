@@ -1,0 +1,16 @@
+Eine Computermaus (umgangssprachlich auch Maus genannt) ist ein Eingabegerät (Befehlsgeber) bei Computern.
+Der erste Prototyp wurde 1963 nach Zeichnungen von Douglas C. Engelbart gebaut; seit Mitte der 1980er Jahre bildet die Maus für fast alle Computertätigkeiten zusammen mit dem Monitor und der Tastatur eine der wichtigsten Mensch-Maschine-Schnittstellen.
+Die Bewegung der Maus, ausgeführt mit der Hand auf dem Arbeitsplatz - gegebenenfalls mit einer geeigneten Unterlage, wie dem Mauspad - wird über einen Sensor in der Maus aufgenommen, digitalisiert und über eine Schnittstelle an den angeschlossenen Computer übertragen.
+Die Maus fand zunächst wenig Beachtung, da es noch keine grafischen Benutzeroberflächen gab und die Menschen, die mit Computern zu tun hatten, mit der Eingabe von Kurzbefehlen per Tastatur vertraut waren.
+Erfinder dieser Steuerung war Rainer Mallebrein, entwickelt wurde sie um 1966.
+Das mitunter die Bewegungsfreiheit einschränkende Kabel führte zur Entwicklung drahtloser Mäuse.
+Seit 1991 sind kabellose Mäuse verfügbar, die über Funk mit dem Computer kommunizieren.
+Über Betriebssystem-Routinen wird eine Markierung (Mauszeiger) auf dem Bildschirm entsprechend der Mausbewegung bewegt.
+Die Maus ist mit Tasten ausgestattet, die auf Tastendruck (Mausklick) eine für die entsprechende Software registrierbare Aktivität übermittelt.
+Bei Überschreitung der erforderlichen Kraft erhält der Benutzer sowohl eine taktile als auch eine akustische Rückmeldung der Betätigung (daher auch der Begriff Mausklick).
+Die erste Maus von Engelbart hatte lediglich eine Taste.
+Da die Maus erst in den späten 1980er Jahren ihren Weg zu den IBM-PC-kompatiblen Rechnern gefunden hat, musste dort im Gegensatz zu Computern, die im Grundkonzept bereits eine Maus vorgesehen hatten, beispielsweise Macintosh, Amiga, Atari ST, erst eine geeignete Schnittstelle gefunden werden.
+Für diese kam nur ein Busmouse-Konzept mit einer speziellen Steckkarte für den Mausanschluss zum Einsatz.
+Abhängig vom verwendeten Protokoll und der Maus muss innerhalb des Betriebssystems auf dem Computer der entsprechende Maustreiber installiert sein, über den gegebenenfalls auch Anpassungen für Empfindlichkeit und Beschleunigung der Maus vorgenommen werden können.
+während bei Verwendung der Maus folgende Klicks erforderlich waren:
+Mit ihm kann die Kabellänge der Maus optimal der überstrichenen Fläche des Mauspads angepasst werden.

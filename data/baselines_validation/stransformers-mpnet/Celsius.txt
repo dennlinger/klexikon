@@ -1,0 +1,11 @@
+Das Grad Celsius ist eine Maßeinheit der Temperatur, die nach Anders Celsius benannt wurde.
+Die Celsius-Skala geht auf den schwedischen Astronomen Anders Celsius zurück, der 1742 eine hundertteilige Temperaturskala vorstellte.
+Als Fixpunkte nutzte er, wie die 1730 vorgestellte Reaumur-Skala, die Temperaturen von Gefrier- und Siedepunkt des Wassers bei Normaldruck, das heißt einem Luftdruck von 1013,25 Hektopascal oder 760 Millimeter Quecksilbersäule.
+Der Bereich zwischen diesen Fixpunkten, gemessen mit einem Quecksilberthermometer, ist in 100 gleich lange Abschnitte eingeteilt, die als Grad bezeichnet sind.
+Dies führte zu der historischen Bezeichnung des "hundertteiligen Thermometers".
+Anders als bei der modernen Celsius-Skala ordnete Celsius jedoch dem Siedepunkt von Wasser den Wert 0 °C und dem Gefrierpunkt den Wert 100 °C zu.
+Somit nahm der Temperaturwert eines Körpers beim Erwärmen ab.
+Das Gleiche gilt für Vielfache:
+Es wäre falsch, t = 60 °C (T = 333,15 K) verglichen mit t = 30 °C (T = 303,15 K) als "doppelt so warm" zu bezeichnen; richtig hingegen ist eine solche Aussage für die absolute Temperatur, z. B. "600 K ist doppelt so warm wie 300 K".
+Temperaturen in Grad Celsius lassen sich über eine Zahlenwertgleichung wie folgt exakt umrechnen:
+Allein der absolute Nullpunkt hat weiterhin exakt die angegebenen Werte.

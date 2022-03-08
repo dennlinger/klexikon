@@ -1,0 +1,15 @@
+Bei der Informatik handelt es sich um die Wissenschaft von der systematischen Darstellung, Speicherung, Verarbeitung und Übertragung von Informationen, wobei besonders die automatische Verarbeitung mit Digitalrechnern betrachtet wird.
+Sie ist zugleich Grundlagen- und Formalwissenschaft als auch Ingenieurdisziplin.
+Das Wort Informatik entstand durch das Anhängen des Suffix -ik an den Wortstamm von Information.
+In englischsprachigen Ländern wird die Einzelwissenschaft als computer science bezeichnet.
+Mit der Entwicklung universeller digitaler Computer nahm - im Gegensatz zu den Rechenmaschinen - die Geschichte selbständiger logischen Maschinen ein jähes Ende, indem die von ihnen bearbeiteten und gelösten Aufgaben zunehmend in Software auf genau jenen Computern realisiert wurden, zu deren hardwaremäßigen Vorläufern sie zu zählen sind.
+Die Anwendungen der Informatik in den verschiedenen Bereichen des täglichen Lebens sowie in anderen Fachgebieten, wie beispielsweise der Wirtschaftsinformatik, Geoinformatik und Medizininformatik werden unter dem Begriff der Angewandten Informatik geführt.
+Das Teilgebiet beeinflusst stark angrenzende Fachbereiche wie Teile der Mathematik und der Linguistik.
+Eines der zentralen Themen der praktischen Informatik ist die Softwaretechnik (auch Softwareengineering genannt).
+Aufbauend auf der Architektur der sequentiell arbeitenden Von-Neumann-Maschine, bestehen heutige Rechner in der Regel aus einem Prozessor, der selbst wieder mehrere Prozessorkerne, Speicher-Controller und eine ganze Hierarchie von Cache-Speichern enthalten kann, einem als Direktzugriffsspeicher (Random-Access Memory, RAM) ausgelegten Arbeitsspeicher (Primärspeicher) und Ein/Ausgabe-Schnittstellen unter anderem zu Sekundärspeichern (z. B. Festplatte oder SSD-Speicher).
+Ein Beispiel sind drahtlose Sensornetze zur Umweltüberwachung.
+Besonders wichtig ist dabei zum einen die Modellierung und Bewertung der resultierenden Systemleistung, z. B. anhand von Benchmark-Programmen.
+Die Technische Informatik hat enge Beziehungen zu anderen Gebieten der Informatik und den Ingenieurwissenschaften.
+Für die höheren Softwareschichten stellt sie die Schnittstellen bereit, auf denen wiederum diese Schichten aufbauen.
+Beispiele:
+Mit dem Informatikunterricht, besonders an Schulen, befasst sich die Didaktik der Informatik.

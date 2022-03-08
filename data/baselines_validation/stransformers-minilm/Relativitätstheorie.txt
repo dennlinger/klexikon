@@ -1,0 +1,30 @@
+Darauf aufbauend führt die allgemeine Relativitätstheorie die Gravitation auf eine Krümmung von Raum und Zeit zurück, die unter anderem durch die beteiligten Massen verursacht wird.
+Bei relativistischen Geschwindigkeiten gewinnen die von der speziellen Relativitätstheorie beschriebenen Effekte zunehmende Bedeutung, die Abweichungen von der klassischen Mechanik können dann nicht mehr vernachlässigt werden.
+In diesem Artikel werden die grundlegenden Strukturen und Phänomene lediglich zusammenfassend aufgeführt.
+Diese lassen sich jedoch mathematisch präzise in Formeln fassen und durch Experimente bestätigen.
+Die beiden folgenden Feststellungen lassen sich als Axiome der Relativitätstheorie interpretieren, aus denen alles Weitere hergeleitet werden kann:
+Durch die Aufgabe der konventionellen Vorstellungen von Raum und Zeit und die Verwerfung der Ätherhypothese gelang es Einstein, den scheinbaren Widerspruch zwischen dem Relativitätsprinzip und der aus der Elektrodynamik folgenden Konstanz der Lichtgeschwindigkeit aufzulösen.
+Raum- und Zeitangaben sind in der Relativitätstheorie keine universell gültigen Ordnungsstrukturen.
+Vielmehr werden der räumliche und zeitliche Abstand zweier Ereignisse oder auch deren Gleichzeitigkeit von Beobachtern mit verschiedenen Bewegungszuständen unterschiedlich beurteilt.
+Bewegte Objekte erweisen sich im Vergleich zum Ruhezustand in Bewegungsrichtung als verkürzt und bewegte Uhren als verlangsamt.
+Außerdem sind aus ihrer Sicht die Meterstäbe des jeweils anderen kürzer als ein Meter, wenn sie längs der Bewegungsrichtung ausgerichtet sind.
+Solche Geschwindigkeiten werden von massebehafteten Körpern im Alltag nicht annähernd erreicht.
+Zum Erreichen der Lichtgeschwindigkeit müsste unendlich viel Energie aufgebracht werden.
+Dass Raum und Zeit auf verschiedene Weise in Erscheinung treten, ist eine Eigenheit der menschlichen Wahrnehmung.
+Mathematisch lässt der Unterschied sich auf ein einziges Vorzeichen zurückführen, durch das sich die Definition eines Abstandes im euklidischen Raum von der Definition des Abstands in der vierdimensionalen Raumzeit unterscheidet.
+Einem System mit der Masse m lässt sich auch im unbewegten Zustand eine Energie E zuordnen, und zwar nach
+wobei c die Geschwindigkeit des Lichtes ist.
+Es handelt sich aber um ein rein geometrisches Phänomen.
+Während viele Aspekte der speziellen Relativitätstheorie in ihrer einfachsten Formulierung auch mit geringen mathematischen Kenntnissen nachvollziehbar sind, ist die Mathematik der allgemeinen Relativitätstheorie deutlich anspruchsvoller.
+Eine Uhr auf einem Berg geht schneller als eine im Tal.
+Danach begann diese Expansion mit dem Urknall, der nach den jüngsten Untersuchungen vor 13,7 Milliarden Jahren stattgefunden hat.
+Ausgehend von den Problemen der verschiedenen Äthertheorien des 19. Jahrhunderts und der maxwellschen Gleichungen setzte eine kontinuierliche Entwicklung mit folgenden Hauptstationen ein:
+Während an der Entwicklung der speziellen Relativitätstheorie eine Reihe von Wissenschaftlern beteiligt war - wobei Einsteins Arbeit von 1905 sowohl ein Ende als auch einen Neuanfang darstellte -, war die Entwicklung der allgemeinen Relativitätstheorie, was ihre grundlegenden physikalischen Aussagen betraf, praktisch die alleinige Errungenschaft Einsteins.
+Der von ihm zu dieser Zeit vorhergesagte Wert war jedoch noch um einen Faktor 2 zu klein.
+Im weiteren Verlauf erkannte Einstein, dass Minkowskis vierdimensionaler Raumzeitformalismus, welchem Einstein bislang skeptisch gegenüberstand, eine sehr wichtige Bedeutung bei der neuen Theorie zukam.
+Auch Einstein arbeitete lange vergeblich daran, eine solche einheitliche Feldtheorie zu schaffen.
+Ein überzeugendes Beispiel ist der Nachweis von Myonen in der Höhenstrahlung, die auf Grund ihrer kurzen Lebensdauer nicht die Erdoberfläche erreichen könnten, wenn nicht auf Grund ihrer hohen Geschwindigkeit die Zeit für sie langsamer ginge, beziehungsweise sie die Flugstrecke längenkontrahiert erführen.
+Der Bereich, den der entscheidende Parameter nach heutigem experimentellem Stand einnehmen kann, ist jedoch stark eingeschränkt.
+Einstein wurde zur Berühmtheit und die Relativitätstheorie erfuhr ein erhebliches Medienecho.
+Verkürzt auf das geflügelte Wort Alles ist relativ wurde sie zuweilen in die Nähe eines philosophischen Relativismus gerückt.
+Die Bedeutung der Relativitätstheorien war anfänglich umstritten.

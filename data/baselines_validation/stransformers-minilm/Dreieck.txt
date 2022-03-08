@@ -1,0 +1,17 @@
+Seine Begrenzungslinien bezeichnet man als Seiten.
+Siehe dazu insbesondere Dreiecksgeometrie.
+Spitz- und stumpfwinklige Dreiecke werden auch unter dem Namen schiefwinkliges Dreieck zusammengefasst.
+Sie werden Ecken des Dreiecks genannt.
+Das sind die Lotgeraden durch die Mittelpunkte der Seiten.
+Mit Hilfe der Höhen kann der Flächeninhalt eines Dreiecks berechnet werden (siehe Dreiecksfläche).
+Ein Dreieck besitzt drei Seiten und drei Innenwinkel.
+Liegen drei Angaben zur Größe dieser Seiten oder Winkel vor, kann man daraus die jeweils fehlenden übrigen Seiten oder Winkel berechnen, es sei denn, es sind nur die drei Winkel gegeben.
+Ohne eine gegebene Seite ist zwar die Form des gesuchten Dreiecks gegeben, seine Größe aber bleibt unbestimmt.
+Dementsprechend verwendet man den Kosinussatz im hier diskutierten Zusammenhang nur zu Beginn der Berechnung eines Dreiecks vom Typ SSS oder SWS, während alles übrige einfacher und schneller per Sinussatz und Winkelsumme erledigt wird.
+Wie zu sehen, ist der Sinussatz rechnerisch wesentlich unkomplizierter:
+Ein Dreieck, bei dem alle drei Seiten gleich lang sind, wird gleichseitiges Dreieck genannt.
+Ein gleichschenkliges Dreieck ist nach moderner Auffassung ein Dreieck, bei dem mindestens zwei Seiten gleich lang sind.
+Aus den obigen können die folgenden durch Kehrwertbildung dargestellt werden.
+Die Umkehrfunktionen der genannten Winkelfunktionen werden Arkussinus, Arkuskosinus, Arkustangens usw. genannt - ihre Hauptanwendung ist es dementsprechend, zu gegebenen Sinus-, Kosinus- oder Tangenswerten die dazugehörigen Winkel zu liefern.
+Die Kongruenzsätze machen Aussagen über die Dreiecksgrößen (Seitenlänge, Winkel), die notwendig sind, um ein Dreieck eindeutig zu bestimmen.
+Das Dreieck wird als Symbol verwendet, zum Beispiel in der Theologie, als ideologisches Symbol, als mathematisches Symbol und auch in Schildern.

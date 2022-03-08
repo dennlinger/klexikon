@@ -1,0 +1,11 @@
+In Medien wird die Ausbreitung einer örtlichen Störung durch die Kopplung benachbarter Oszillatoren (schwingfähige physikalische Größen) vermittelt.
+Direkt wahrnehmbare Wellen sind zum Beispiel Schallwellen, Wasserwellen und Licht.
+Elektromagnetische Wellen in verlustfreien Medien (z. B. im Vakuum) sind transversal.
+Wellen, die parallel zur Ausbreitungsrichtung schwingen, werden als Longitudinal- oder Längswelle bezeichnet.
+Mechanische Longitudinalwellen sind Druckwellen.
+Nach dem Durchlauf der Schwingung bewegen sich die Teilchen wieder an ihre Ruhestellung, die Gleichgewichtslage, zurück.
+Wellen, die senkrecht zur Ausbreitungsrichtung schwingen, werden als Transversal-, Quer-, Schub- oder Scherwellen bezeichnet.
+Wasserwellen sind als Oberflächenwellen in der Regel eine Mischform aus Longitudinal- und Transversalwellen, können aber als stehende Welle (Seiche) auch als reine Transversalwelle auftreten.
+Sie legt also fest, wie groß die Auslenkung ist.
+Eine Kugelwelle lässt sich mit folgender Gleichung beschreiben:
+Dabei können verschiedene Effekte auftreten:
