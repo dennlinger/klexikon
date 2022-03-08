@@ -6,11 +6,6 @@ from .utils import print_aggregate, evaluate_directory
 from ..baselines.baselines import get_rouge_scorer_with_cistem
 
 
-def f1_score(score):
-    calculated_f1 = 2 * (score.precision * score.recall) / (score.precision + score.recall)
-    print(f"{calculated_f1:.4f}   {score.fmeasure:.4f}")
-
-
 if __name__ == "__main__":
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
