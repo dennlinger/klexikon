@@ -1,0 +1,14 @@
+Direkt wahrnehmbare Wellen sind zum Beispiel Schallwellen, Wasserwellen und Licht.
+Elektromagnetische Wellen in verlustfreien Medien (z. B. im Vakuum) sind transversal.
+Ein wichtiges Beispiel ist der Schall, der sich in Gasen und Flüssigkeiten immer als Longitudinalwelle ausbreitet.
+Mechanische Longitudinalwellen sind Druckwellen.
+Nach dem Durchlauf der Schwingung bewegen sich die Teilchen wieder an ihre Ruhestellung, die Gleichgewichtslage, zurück.
+Wasserwellen sind als Oberflächenwellen in der Regel eine Mischform aus Longitudinal- und Transversalwellen, können aber als stehende Welle (Seiche) auch als reine Transversalwelle auftreten.
+Sie bilden entweder Schwere- oder Kapillarwellen oder eine Übergangsform zwischen beiden.
+Funktionen dieses Typs entsprechen der Vorstellung, dass Wellen räumlich ausgedehnte Schwingungen sind.
+Sie ist bei Wellen - im Gegensatz zu Schwingungen - eine vektorielle Größe, da neben der Stärke der Auslenkung auch deren Richtung entscheidend ist.
+Ist die Ausbreitungsrichtung parallel zur Amplitude, handelt es sich um eine Longitudinalwelle, ist sie senkrecht, um eine Transversalwelle.
+Sie legt also fest, wie groß die Auslenkung ist.
+Eine Kugelwelle lässt sich mit folgender Gleichung beschreiben:
+Ein einfaches Beispiel ist ein schwingendes Pendel:
+Der am Pendel befestigte Stift beschreibt nun auf dem Papierstreifen, der das Ausbreitungsmedium darstellt, eine sinusförmige Welle.

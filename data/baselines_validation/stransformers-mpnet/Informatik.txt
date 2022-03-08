@@ -1,0 +1,17 @@
+Das Wort Informatik entstand durch das Anhängen des Suffix -ik an den Wortstamm von Information.
+Um die Bedeutung der Automation oder Mathematik für die Informatik zu betonen, wird Informatik manchmal auch als Kofferwort aus Information und Automatik oder Information und Mathematik ausgegeben.
+Für die Umsetzung war der sogenannte "Fachbeirat für Datenverarbeitung" zuständig, der überwiegend aus Vertretern der Hochschulen und außeruniversitären Forschungseinrichtungen bestand.
+Der Ausschuss formulierte Empfehlungen für die Ausbildung von Informatikern, welche die Einrichtung eines Studiengangs der Informatik an mehreren Universitäten und Technischen Hochschulen vorsahen.
+Auch die Auswirkungen auf die Gesellschaft werden interdisziplinär untersucht.
+Auf diese Erkenntnisse stützen sich Disziplinen der Praktischen und der Technischen Informatik.
+Die Resultate finden schließlich Verwendung in der Angewandten Informatik.
+Ziel dieser Teilgebiete ist es, fundamentale Fragen wie "Was kann berechnet werden?" und "Wie effektiv/effizient kann man etwas berechnen?" umfassend zu beantworten.
+Eines der zentralen Themen der praktischen Informatik ist die Softwaretechnik (auch Softwareengineering genannt).
+Da eingebettete Computer immerzu und überall verfügbar sind, spricht man auch von allgegenwärtigem oder ubiquitärem Rechnen (Ubiquitous computing).
+Ein Beispiel sind drahtlose Sensornetze zur Umweltüberwachung.
+Üblicherweise regeln Prozesse, die über Nachrichten miteinander kommunizieren, die Zusammenarbeit von einzelnen weitgehend unabhängigen Computern in einem Verbund (Cluster).
+Unter dem Sammelbegriff der Angewandten Informatik "fasst man das Anwenden von Methoden der Kerninformatik in anderen Wissenschaften ... zusammen".
+Rund um die Informatik haben sich einige interdisziplinäre Teilgebiete und Forschungsansätze entwickelt, teilweise zu eigenen Wissenschaften.
+Beispiele:
+Sie hat sich durch ihre Schnittstellen zu einer eigenständigen Wissenschaft entwickelt.
+Die Medieninformatik hat die Schnittstelle zwischen Mensch und Maschine als Schwerpunkt und befasst sich mit der Verbindung von Informatik, Psychologie, Arbeitswissenschaft, Medientechnik, Mediengestaltung und Didaktik.

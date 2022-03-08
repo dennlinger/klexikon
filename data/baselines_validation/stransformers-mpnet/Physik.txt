@@ -1,0 +1,40 @@
+Die Physik ist eine Naturwissenschaft, die grundlegende Phänomene der Natur untersucht.
+Dazu ist häufig die Bildung neuer geeigneter Begriffe nötig, teilweise auch solcher, die der unmittelbaren Anschauung nicht mehr zugänglich sind.
+Erklärungen in dem philosophischen Sinn, "warum" die Natur sich so verhält, kann die Physik nicht leisten.
+Die Physik wird dabei häufig als grundlegende oder fundamentale Naturwissenschaft aufgefasst, die sich am stärksten mit den Grundprinzipien befasst, die die natürlichen Vorgänge bestimmen.
+Zur Abgrenzung gegenüber der Biologie wurde die Physik oftmals als die Wissenschaft von der unbelebten im Gegensatz zur belebten Natur bezeichnet, womit jedoch eine Beschränkung impliziert wird, die so in der Physik nicht existiert.
+Während manche Naturwissenschaften wie etwa die Astronomie und die Meteorologie sich methodisch weitgehend auf Beobachtungen ihres Untersuchungsgegenstandes beschränken müssen, steht in der Physik das Experiment im Vordergrund.
+Die Experimentalphysik versucht durch Entwurf, Aufbau, Durchführung und Auswertung von Experimenten Gesetzmäßigkeiten aufzuspüren und mittels empirischer Modelle zu beschreiben.
+Sie versucht einerseits physikalisches Neuland zu betreten, andererseits überprüft sie von der theoretischen Physik gemachte Vorhersagen.
+Konkret werden entweder nur die zeitunabhängigen (statischen) Eigenschaften eines Objektes gemessen oder es wird die zeitliche Entwicklung (Dynamik) des Systems untersucht, etwa indem Anfangs- und Endwerte einer Messgröße vor und nach dem Ablauf eines Vorgangs bestimmt werden oder indem kontinuierliche Zwischenwerte festgestellt werden.
+Um eine Theorie zu widerlegen oder die Grenzen ihres Gültigkeitsbereiches zu zeigen, genügt im Prinzip ein einziges Experiment, sofern es sich als reproduzierbar erweist.
+Experimentalphysik und theoretische Physik stehen also in steter Wechselbeziehung zueinander.
+Die angewandte Physik steht in (unscharfer) Abgrenzung zur Experimentalphysik, teilweise auch zur theoretischen Physik.
+Ihr wesentliches Kennzeichen ist, dass sie ein gegebenes physikalisches Phänomen nicht um seiner selbst willen erforscht, sondern um die aus der Untersuchung hervorgegangenen Erkenntnisse zur Lösung eines (in der Regel) nicht-physikalischen Problems einzusetzen.
+Mit der fortschreitenden Entwicklung der Rechensysteme hat sich in den letzten Jahrzehnten des 20. Jahrhunderts, beschleunigt seit etwa 1990, die Computersimulation als neue Methodik innerhalb der Physik entwickelt.
+Aufgrund der zu dieser Zeit noch recht begrenzten technischen Möglichkeiten sind die Vorgänge, die die klassische Mechanik beschreibt, weitgehend ohne komplizierte Hilfsmittel beobachtbar, was sie anschaulich erscheinen lässt.
+Die Thermodynamik eignet sich beispielsweise zur Beschreibung von Wärmekraftmaschinen aber auch zur Erklärung vieler moderner Forschungsgegenstände wie Supraleitung oder Suprafluidität.
+Raum und Zeit verschmelzen zu einer vierdimensionalen Raumzeit.
+Die Gravitation wird auf eine Krümmung dieser Raumzeit zurückgeführt, die durch die Anwesenheit von Masse bzw. Energie hervorgerufen wird.
+In der Quantenphysik sind auch physikalische Größen selbst Teil des Formalismus und keine bloßen Kenngrößen mehr, die ein System beschreiben.
+Der Formalismus unterscheidet also zwischen zwei Typen von Objekten, den Observablen, die die Größen beschreiben und den Zuständen, die das System beschreiben.
+Ebenso wird der Messprozess aktiv in die Theorie miteinbezogen.
+Die Theorien der Physik kommen in verschiedenen Themenbereichen zum Einsatz.
+Die Einteilung der Physik in Unterthemen ist nicht eindeutig und die Abgrenzung der Unterthemen gegeneinander ist dabei ähnlich schwierig wie die Abgrenzung der Physik zu anderen Wissenschaften.
+Es gibt dementsprechend viele Überschneidungen und gegenseitige Beziehungen der verschiedenen Bereiche zueinander.
+Atomkerne stellen gegenüber Elementarteilchen die nächste Komplexitätsstufe dar.
+Forschungsgebiete der Atomkernphysik umfassen radioaktive Zerfälle und Stabilität von Atomkernen.
+Atome bestehen aus dem Atomkern und meist mehreren Elektronen und stellen die nächste Komplexitätsstufe der Materie dar.
+Da die Molekülphysik sich auch intensiv mit der Theorie der chemischen Bindungen befasst, sind in diesem Themengebiet Überschneidungen mit der Chemie vorhanden.
+Ein wichtiger experimenteller Zugang besteht in der Einwirkung von Licht.
+Andere Untersuchungsmethoden betrachten das Verhalten unter dem Einfluss von elektrischen und magnetischen Feldern.
+All diesen Bereichen ist gemeinsam, dass sie sich mit makroskopischen Systemen aus sehr vielen Atomen, Molekülen oder Ionen befassen.
+Dementsprechend ist in allen Bereichen dieses Themengebiets die Thermodynamik ein wichtiger Teil des theoretischen Fundamentes.
+Aufgrund der thematischen Bandbreite existieren Überschneidungen mit nahezu allen anderen Gebieten der Physik, zum Beispiel mit der Optik in Form laseraktiver Medien oder nichtlinearer Optik, aber auch mit der Akustik, Atom-, Kern- und Teilchenphysik.
+Da in der Astrophysik nur in sehr beschränktem Ausmaß Experimente möglich sind, ist dieses Teilgebiet der Physik sehr stark auf die Beobachtung unbeeinflussbarer Phänomene angewiesen.
+Zum einen handelt es sich dabei um den weniger grundsätzlichen Fall von Problemen, deren Lösung prinzipiell möglich, aber mit den derzeitigen mathematischen Möglichkeiten bestenfalls annäherbar ist.
+So ist es bislang nicht gelungen, eine vereinheitlichte Theorie zu formulieren, welche sowohl Phänomene beschreibt, die der elektroschwachen wie der starken Wechselwirkung unterliegen, wie auch solche, welche der Gravitation unterliegen.
+Überhaupt ist es ein praktisch leitendes Ziel heutiger Physiker, sämtliche Vorgänge der Natur durch eine möglichst geringe Anzahl von möglichst einfachen Naturgesetzen zu beschreiben.
+Aber nicht nur eine praktische Voraussagbarkeit ist in vielen Fällen nur begrenzt möglich, auch wird von einigen Wissenschaftstheoretikern eine Aussagefähigkeit physikalischer Modelle über die Realität überhaupt bestritten.
+Auch die Beziehungen zur Mathematik sind eng.
+Da die Physik als die grundlegende Naturwissenschaft gilt, werden physikalisches Wissen und Denken bereits in der Schule meist im Rahmen eines eigenen Schulfaches unterrichtet.

@@ -1,0 +1,17 @@
+Eine Computermaus (umgangssprachlich auch Maus genannt) ist ein Eingabegerät (Befehlsgeber) bei Computern.
+Der erste Prototyp wurde 1963 nach Zeichnungen von Douglas C. Engelbart gebaut; seit Mitte der 1980er Jahre bildet die Maus für fast alle Computertätigkeiten zusammen mit dem Monitor und der Tastatur eine der wichtigsten Mensch-Maschine-Schnittstellen.
+Die Bewegung der Maus, ausgeführt mit der Hand auf dem Arbeitsplatz - gegebenenfalls mit einer geeigneten Unterlage, wie dem Mauspad - wird über einen Sensor in der Maus aufgenommen, digitalisiert und über eine Schnittstelle an den angeschlossenen Computer übertragen.
+Im Dezember 1968 wurde sie auf der Herbsttagung der American Federation of Information Processing Societies (AFIPS) der Öffentlichkeit präsentiert.
+Dieser hatte wegen seines hohen Preises keinen Markterfolg.
+Das mitunter die Bewegungsfreiheit einschränkende Kabel führte zur Entwicklung drahtloser Mäuse.
+Über Betriebssystem-Routinen wird eine Markierung (Mauszeiger) auf dem Bildschirm entsprechend der Mausbewegung bewegt.
+Die Maus ist mit Tasten ausgestattet, die auf Tastendruck (Mausklick) eine für die entsprechende Software registrierbare Aktivität übermittelt.
+Die ersten Mäuse funktionierten mit mechanischen Kontakten.
+Stattdessen werden die Daten via Infrarot (selten) oder Funk (beispielsweise Bluetooth oder in einem anderen ISM-Band ) von der Maus zu einer Basisstation übertragen.
+Da die Maus erst in den späten 1980er Jahren ihren Weg zu den IBM-PC-kompatiblen Rechnern gefunden hat, musste dort im Gegensatz zu Computern, die im Grundkonzept bereits eine Maus vorgesehen hatten, beispielsweise Macintosh, Amiga, Atari ST, erst eine geeignete Schnittstelle gefunden werden.
+Diese Aufgabe übernimmt der Tastaturcontroller bzw. der Eingabegerätecontroller.
+Durch Bewegen der Maus kann der Mauszeiger an die gewünschte Stelle bewegt werden, und durch Betätigen einer Maustaste kann der Benutzer Aktionen auslösen.
+Ein Klick kann die Einfügemarke in einem Text bewegen, ein Menü öffnen oder beim Klick auf eine Schaltfläche eine Programmfunktion auslösen.
+Freilich ist der Zeigekomfort einer echten Maus größer, sodass viele Anwender oft noch eine zusätzliche kleine Notebook-Maus anschließen.
+Mit der Tastatur wurden also 8 Tasten meist im Zehnfinger-Blindschreiben ohne Hinsehen betätigt, mit der Maus dasselbe mit 8 Klicks erledigt, wobei der Mauszeiger über den Bildschirm zu führen ist.
+Das Mauspad ist wohl das bekannteste Mauszubehör, das von den meisten Computernutzern eingesetzt wird.
