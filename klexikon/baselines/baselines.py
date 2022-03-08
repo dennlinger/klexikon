@@ -82,13 +82,17 @@ def get_GeRouge_scorer_with_cistem(args):
     return scorer
 
 
-def get_rouge_scorer_with_cistem():
+def get_rouge_scorer_with_cistem(fast=False):
     """
     Replaces the standard Porter stemmer, which works best on English, with the Cistem stemmer, which was specifically
     designed for the German language.
     :return: RougeScorer object with replaced stemmer.
     """
-    scorer = RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=True)
+    # Skip LCS computation for 10x speedup during debugging.
+    if fast:
+        scorer = RougeScorer(["rouge1", "rouge2"], use_stemmer=True)
+    else:
+        scorer = RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=True)
     stemmer = Cistem(case_insensitive=True)  # Insensitive because RougeScorer lowercases anyways.
     scorer._stemmer = stemmer  # Certainly not best practice, but better than re-writing the package ;-)
 

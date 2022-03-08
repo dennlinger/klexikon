@@ -8,9 +8,10 @@ from ..baselines.baselines import get_rouge_scorer_with_cistem
 
 
 if __name__ == "__main__":
+    fast = True
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = get_rouge_scorer_with_cistem()
+    scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_3", gold_dir="./data/gold/")
@@ -20,7 +21,7 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = get_rouge_scorer_with_cistem()
+    scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_k", gold_dir="./data/gold/")
@@ -30,7 +31,7 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = get_rouge_scorer_with_cistem()
+    scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/lead_k_simplified", gold_dir="./data/gold/")
@@ -40,7 +41,7 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = get_rouge_scorer_with_cistem()
+    scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/summaries", gold_dir="./data/gold/")
@@ -50,7 +51,7 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = get_rouge_scorer_with_cistem()
+    scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/rouge2_fmeasure", gold_dir="./data/gold/")
@@ -60,7 +61,7 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = get_rouge_scorer_with_cistem()
+    scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/rouge2_precision", gold_dir="./data/gold/")
@@ -70,7 +71,7 @@ if __name__ == "__main__":
     print_aggregate(result)
 
     aggregator = BootstrapAggregator(confidence_interval=0.95)
-    scorer = get_rouge_scorer_with_cistem()
+    scorer = get_rouge_scorer_with_cistem(fast=fast)
     # scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=False)
 
     evaluate_directory(aggregator, scorer, pred_dir="./data/baselines/rouge2_recall", gold_dir="./data/gold/")
