@@ -10,6 +10,7 @@ gensim>=4.0.1
 textstat
 nltk
 somajo
+sumy
 sentence-transformers>=2.1.0
 transformers
 scipy
