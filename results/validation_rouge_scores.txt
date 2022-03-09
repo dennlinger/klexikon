@@ -1,32 +1,153 @@
 
+
+
+
 ------------------------------------
-Results for ./data/baselines_validation/stransformers-mpnet:
+Results for ./data/baselines_validation/lead_3:
 ----------------rouge1 ---------------------
-Precision | low: 38.24, mid: 39.04, high: 39.83
-Recall    | low: 44.02, mid: 45.15, high: 46.22
-F1        | low: 40.30, mid: 41.00, high: 41.68
+Precision | low: 51.09, mid: 52.35, high: 53.45
+Recall    | low: 10.19, mid: 10.72, high: 11.27
+F1        | low: 16.48, mid: 17.15, high: 17.86
 ----------------rouge2 ---------------------
-Precision | low:  7.56, mid:  7.94, high:  8.39
-Recall    | low:  8.84, mid:  9.34, high:  9.89
-F1        | low:  8.01, mid:  8.41, high:  8.85
+Precision | low: 11.11, mid: 11.88, high: 12.71
+Recall    | low:  2.18, mid:  2.37, high:  2.58
+F1        | low:  3.53, mid:  3.80, high:  4.12
 ----------------rougeL ---------------------
-Precision | low: 14.29, mid: 14.68, high: 15.10
-Recall    | low: 16.44, mid: 16.95, high: 17.56
-F1        | low: 15.04, mid: 15.40, high: 15.80
+Precision | low: 30.03, mid: 30.97, high: 31.85
+Recall    | low:  5.89, mid:  6.16, high:  6.49
+F1        | low:  9.54, mid:  9.91, high: 10.34
+
+
+
+------------------------------------
+Results for ./data/baselines_validation/lead_k:
+----------------rouge1 ---------------------
+Precision | low: 46.27, mid: 47.45, high: 48.79
+Recall    | low: 18.43, mid: 19.77, high: 21.27
+F1        | low: 23.52, mid: 24.70, high: 25.99
+----------------rouge2 ---------------------
+Precision | low:  9.41, mid: 10.09, high: 10.80
+Recall    | low:  3.68, mid:  4.07, high:  4.50
+F1        | low:  4.69, mid:  5.08, high:  5.51
+----------------rougeL ---------------------
+Precision | low: 24.36, mid: 25.44, high: 26.65
+Recall    | low:  8.91, mid:  9.51, high: 10.16
+F1        | low: 11.68, mid: 12.16, high: 12.67
+
+
+
+------------------------------------
+Results for ./data/baselines_validation/lead_k_simplified:
+----------------rouge1 ---------------------
+Precision | low: 48.55, mid: 50.05, high: 51.53
+Recall    | low: 17.47, mid: 18.88, high: 20.28
+F1        | low: 22.87, mid: 24.17, high: 25.29
+----------------rouge2 ---------------------
+Precision | low: 10.64, mid: 11.53, high: 12.55
+Recall    | low:  3.66, mid:  4.02, high:  4.42
+F1        | low:  4.82, mid:  5.17, high:  5.56
+----------------rougeL ---------------------
+Precision | low: 26.56, mid: 27.95, high: 29.43
+Recall    | low:  8.73, mid:  9.29, high:  9.94
+F1        | low: 11.64, mid: 12.16, high: 12.68
+
+
+
+------------------------------------
+Results for ./data/baselines_validation/full_wiki_article:
+----------------rouge1 ---------------------
+Precision | low:  9.62, mid: 10.60, high: 11.52
+Recall    | low: 74.86, mid: 76.33, high: 77.86
+F1        | low: 15.75, mid: 17.01, high: 18.14
+----------------rouge2 ---------------------
+Precision | low:  2.39, mid:  2.59, high:  2.81
+Recall    | low: 21.10, mid: 22.16, high: 23.24
+F1        | low:  4.00, mid:  4.26, high:  4.54
+----------------rougeL ---------------------
+Precision | low:  4.04, mid:  4.34, high:  4.68
+Recall    | low: 34.09, mid: 35.34, high: 36.56
+F1        | low:  6.72, mid:  7.08, high:  7.47
 
 
 
 ------------------------------------
 Results for ./data/baselines_validation/stransformers-minilm:
 ----------------rouge1 ---------------------
-Precision | low: 37.80, mid: 38.59, high: 39.42
-Recall    | low: 44.02, mid: 45.03, high: 46.16
-F1        | low: 40.10, mid: 40.74, high: 41.42
+Precision | low: 37.80, mid: 38.58, high: 39.31
+Recall    | low: 43.91, mid: 45.05, high: 46.14
+F1        | low: 40.07, mid: 40.73, high: 41.39
 ----------------rouge2 ---------------------
-Precision | low:  7.42, mid:  7.78, high:  8.21
-Recall    | low:  8.78, mid:  9.27, high:  9.86
-F1        | low:  7.89, mid:  8.30, high:  8.79
+Precision | low:  7.42, mid:  7.80, high:  8.20
+Recall    | low:  8.78, mid:  9.30, high:  9.81
+F1        | low:  7.90, mid:  8.33, high:  8.76
 ----------------rougeL ---------------------
-Precision | low: 14.16, mid: 14.52, high: 14.90
-Recall    | low: 16.45, mid: 16.96, high: 17.49
-F1        | low: 15.01, mid: 15.32, high: 15.70
+Precision | low: 14.17, mid: 14.52, high: 14.88
+Recall    | low: 16.44, mid: 16.95, high: 17.48
+F1        | low: 14.99, mid: 15.32, high: 15.68
+
+
+
+------------------------------------
+Results for ./data/baselines_validation/stransformers-mpnet:
+----------------rouge1 ---------------------
+Precision | low: 38.27, mid: 39.07, high: 39.87
+Recall    | low: 44.06, mid: 45.19, high: 46.27
+F1        | low: 40.35, mid: 41.03, high: 41.70
+----------------rouge2 ---------------------
+Precision | low:  7.57, mid:  7.97, high:  8.34
+Recall    | low:  8.85, mid:  9.35, high:  9.88
+F1        | low:  8.02, mid:  8.43, high:  8.85
+----------------rougeL ---------------------
+Precision | low: 14.31, mid: 14.68, high: 15.12
+Recall    | low: 16.46, mid: 16.94, high: 17.49
+F1        | low: 15.06, mid: 15.39, high: 15.77
+
+
+
+------------------------------------
+Results for ./data/baselines_validation/rouge2_fmeasure:
+----------------rouge1 ---------------------
+Precision | low: 40.11, mid: 40.81, high: 41.50
+Recall    | low: 42.10, mid: 43.10, high: 44.11
+F1        | low: 40.63, mid: 41.27, high: 41.95
+----------------rouge2 ---------------------
+Precision | low:  9.81, mid: 10.29, high: 10.74
+Recall    | low: 10.48, mid: 10.99, high: 11.56
+F1        | low:  9.98, mid: 10.48, high: 10.95
+----------------rougeL ---------------------
+Precision | low: 15.43, mid: 15.84, high: 16.25
+Recall    | low: 16.23, mid: 16.70, high: 17.20
+F1        | low: 15.61, mid: 15.99, high: 16.41
+
+
+------------------------------------
+Results for ./data/baselines_validation/rouge2_precision:
+----------------rouge1 ---------------------
+Precision | low: 42.80, mid: 43.66, high: 44.51
+Recall    | low: 37.19, mid: 38.11, high: 39.05
+F1        | low: 39.40, mid: 40.07, high: 40.78
+----------------rouge2 ---------------------
+Precision | low: 10.40, mid: 10.89, high: 11.42
+Recall    | low:  9.10, mid:  9.54, high: 10.01
+F1        | low:  9.58, mid: 10.03, high: 10.52
+----------------rougeL ---------------------
+Precision | low: 16.77, mid: 17.23, high: 17.66
+Recall    | low: 14.60, mid: 15.01, high: 15.47
+F1        | low: 15.43, mid: 15.78, high: 16.17
+
+
+
+------------------------------------
+Results for ./data/baselines_validation/rouge2_recall:
+----------------rouge1 ---------------------
+Precision | low: 35.21, mid: 36.05, high: 36.86
+Recall    | low: 46.04, mid: 47.15, high: 48.26
+F1        | low: 39.10, mid: 39.78, high: 40.41
+----------------rouge2 ---------------------
+Precision | low:  8.47, mid:  8.87, high:  9.29
+Recall    | low: 11.24, mid: 11.83, high: 12.37
+F1        | low:  9.44, mid:  9.89, high: 10.31
+----------------rougeL ---------------------
+Precision | low: 13.50, mid: 13.91, high: 14.36
+Recall    | low: 17.61, mid: 18.15, high: 18.68
+F1        | low: 14.98, mid: 15.32, high: 15.72
