@@ -15,10 +15,10 @@ if __name__ == '__main__':
     summary_dir = "./data/splits/validation/klexikon"
     reference_dir = "./data/splits/validation/wiki/"
 
-    out_dir = "./data/baselines_validation/stransformers-minilm/"
+    out_dir = "./data/baselines_validation/stransformers-mpnet/"
     os.makedirs(out_dir, exist_ok=True)
 
-    aligner = SentenceTransformerAligner()
+    aligner = SentenceTransformerAligner(model_name="paraphrase-multilingual-mpnet-base-v2")
 
     for klexikon_fp, wiki_fp in tqdm(directory_iterator(source_dir=summary_dir,
                                                         target_dir=reference_dir)):
