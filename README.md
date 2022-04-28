@@ -2,7 +2,7 @@
 **Dennis Aumiller and Michael Gertz**  
 Heidelberg University  
 
-*Under submission at LREC 2022*  
+*Accepted at LREC 2022*  
 A preprint version of the paper can be found on [arXiv](https://arxiv.org/abs/2201.07198)!  
 For easy access, we have also made the dataset available on [Huggingface Datasets](https://huggingface.co/datasets/dennlinger/klexikon)!
 
