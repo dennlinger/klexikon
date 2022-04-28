@@ -16,14 +16,14 @@ from .sumy_baselines_on_splits import get_summarizer, sumy_clean_lines
 
 if __name__ == '__main__':
     lang = "german"
-    num_summary_sentences = 25  # Corresponds to the mean of summary lengths
+    num_summary_sentences = 25
 
     stemmer = Stemmer(lang)
 
     # for method in ["sumbasic"]:  # Current bug in sumy!!
     for method in ["luhn", "lsa", "sumbasic"]:
         # Summarizer stays same for both test and validation
-        summarizer = get_summarizer(method)
+        summarizer = get_summarizer(method, stemmer)
 
         # Set appropriate folders based on combinations
         source_dir = f"./data/raw/wiki"
