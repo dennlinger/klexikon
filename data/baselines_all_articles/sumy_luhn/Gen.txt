@@ -1,0 +1,25 @@
+Correns prägte dabei den Begriff der Anlage bzw. Erbanlage.
+Diese Determinanten sollten für die sichtbare Ausprägung beispielsweise der Gliedmaßen verantwortlich sein.
+Während dieser Zeit herrschte eine Kontroverse zwischen den Vertretern der Hypothese von Johannsen und Mendel, dass Gene etwas Materielles sind, und deren Kritikern, die eine Verbindung von Genen und Chromosomen als "Physikalismus" und "Mendelismus" abtaten und Gene weiterhin als abstrakte Einheiten betrachteten.
+Thomas Hunt Morgan war ebenfalls überzeugt, dass es nicht physikalische Einheiten sein konnten, die für die verschiedenen Merkmale verantwortlich waren, und versuchte, den Mendelismus zu widerlegen.
+Seine Arbeiten erbrachten jedoch das Gegenteil: Den endgültigen Beweis, dass Gene auf Chromosomen liegen und damit materiellen Ursprungs sind.
+Sie konnten so zeigen, dass Gene an bestimmten Stellen auf den Chromosomen liegen und hintereinander aufgereiht sind.
+Da unter dem Mikroskop auch das Crossing over beobachtet werden konnte, war bekannt, dass Chromosomen Abschnitte austauschen können.
+Hermann Muller begann einige Zeit später, mit Röntgenstrahlen zu experimentieren, und konnte zeigen, dass die Bestrahlung von Fliegen deren Mutationsrate stark erhöht.
+Ein Gen ist demnach "a locatable region of genomic sequence, corresponding to a unit of inheritance, which is associated with regulatory regions, transcribed regions and/or other functional sequence regions" (deutsch: "eine lokalisierbare Region genomischer DNA-Sequenz, die einer Erbeinheit entspricht und mit regulatorischen, transkribierten und/oder funktionellen Sequenzregionen assoziiert ist").
+Die Definition lautet daher: "A gene is a union of genomic sequences encoding a coherent set of potentially overlapping functional products" (deutsch: "Ein Gen ist eine Vereinigung genomischer Sequenzen, die einen zusammenhängenden Satz von eventuell überlappenden funktionellen Produkten codieren").
+Die mRNA enthält neben dem direkt proteincodierenden Offenen Leserahmen noch untranslatierte, also nichtcodierende Bereiche, den 5' untranslatierten Bereich (5' UTR) und den 3' untranslatierten Bereich (3' UTR).
+Zudem können mehrere unterschiedliche RNA-bildende Genabschnitte sehr nah hintereinander geschaltet sein (man spricht dann von polycistronischen Genen) und in ihrer Aktivität von einem gemeinsamen regulatorischen Element geregelt werden.
+Gene codieren nicht nur die mRNA, aus der dann die Proteine translatiert werden, sondern auch die rRNA und die tRNA sowie weitere Ribonukleinsäuren, die andere Aufgaben in der Zelle haben, beispielsweise bei der Proteinbiosynthese oder der Genregulation.
+Der codierende Bereich, also alle Nukleotide, die direkt an der Beschreibung der Aminosäuresequenz beteiligt sind, wird als offener Leserahmen bezeichnet.
+Generell schwankt das Verhältnis zwischen Introns und Exons von Gen zu Gen sehr stark.
+So gibt es einige Gene ohne Introns, während andere zu über 95 % aus Introns bestehen.
+Je nach Funktion des Gens entsteht also mRNA, tRNA oder rRNA.
+Kurzfristig erfolgt die Genregulation durch Bindung und Ablösung von Proteinen, sogenannten Transkriptionsfaktoren, an spezifische Bereiche der DNA, die sogenannten "regulatorischen Elemente".
+Bei allen Lebewesen codiert nur ein Teil der DNA für definierte RNAs.
+Sie hat Funktionen in der Genregulation, beispielsweise für die Regulation des alternativen Splicings, und hat Einfluss auf die Architektur der Chromosomen.
+Es gibt Abschnitte auf der DNA, die für mehrere verschiedene Proteine codieren.
+Obwohl bei allen zellbasierten Lebensformen Gene als DNA-Abschnitte vorliegen, gibt es einige Viren, deren genetische Information in Form von RNA vorliegt.
+Oftmals sind diese durch Genduplikationen entstanden und/oder durch Mutationen, die sich in der Folge ohne Selektion auch im Pseudogen akkumulieren (anhäufen), und ihre ursprüngliche Funktion verloren haben.
+Biologen um Fred Gage vom Salk Institute for Biological Studies in La Jolla (USA) haben nachgewiesen, dass diese springenden Gene nicht nur wie bislang angenommen in den Zellen der Keimbahn vorkommen, sondern auch in Nerven-Vorläuferzellen aktiv sind.
+Orphan-Gene unterscheiden sich dadurch, dass sie linienspezifisch sind und keine bekannte Geschichte der gemeinsamen Verdoppelung und Neuordnung außerhalb ihrer spezifischen Spezies oder Gruppe haben.

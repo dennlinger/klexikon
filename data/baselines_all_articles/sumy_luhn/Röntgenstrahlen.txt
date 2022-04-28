@@ -1,0 +1,25 @@
+Röntgenstrahlung oder Röntgenstrahlen sind elektromagnetische Wellen mit Quantenenergien oberhalb etwa 100 eV, entsprechend Wellenlängen unter etwa 10 nm.
+Von der Gammastrahlung unterscheidet sie sich durch die Art der Entstehung: Gammastrahlung sind Photonen, die durch Kernreaktionen oder radioaktive Zerfälle entstehen, während Röntgenstrahlung aus der Geschwindigkeitsänderung geladener Teilchen herrührt.
+Die Röntgenstrahlung wurde am 8. November 1895 von Wilhelm Conrad Röntgen entdeckt und trägt seinen Namen im deutschsprachigen sowie fast im gesamten mittel- und osteuropäischen Raum.
+Beide Strahlungsarten sind elektromagnetische Strahlung und haben daher bei gleicher Energie die gleichen Wirkungen.
+Photonen aus Röntgenröhren haben eine Energie von etwa 1 keV bis 250 keV, entsprechend einer Frequenz von etwa 0,25*1018 Hz bis 60*1018 Hz (Exa-Hertz).
+Die Löcher in den Schalen werden durch andere Elektronen aufgefüllt, wobei charakteristische Röntgenstrahlung entsteht.
+Röntgen-Bremsstrahlung entsteht prinzipbedingt und meist unerwünscht in verschiedenen technischen Geräten wie etwa Elektronenmikroskopen, Elektronenstrahlschweißgeräten und im Bereich der Leistungsstufen von großen Radaranlagen, wo Elektronenröhren wie das Magnetron oder Amplitron zur Erzeugung großer Leistung von nichtionisierender Strahlung eingesetzt werden und im Betrieb zusätzlich Röntgenstrahlung abgeben.
+Weitere technische Quellen, mit nur noch historischer Bedeutung, waren die ersten Farbfernsehempfangsgeräte ab den 1960er Jahren mit Kathodenstrahlröhren, da die Farbbildröhren höhere Anodenspannungen als einfärbige Kathodenstrahlröhren bedingen.
+Auch bei Abbremsung schneller positiver Ionen in Materie entsteht charakteristische Röntgenstrahlung.
+Dies wird bei teilcheninduzierter Röntgenemission (Particle-induced X-ray emission) oder protoneninduzierter Röntgenemission (Proton-induced X-ray emission) (PIXE) zur chemischen Analyse verwendet.
+Bei hohen Energien ist der Wirkungsquerschnitt zur Erzeugung zu Z12Z2-4 proportional, wobei Z1 die Ordnungszahl des Ions (als Projektil) bedeutet, Z2 die des Targetatoms.
+Auf der Erde entsteht Röntgenstrahlung in geringer Intensität im Zuge der Absorption anderer Strahlungsarten, die von radioaktivem Zerfall und der Höhenstrahlung stammen.
+Dabei entstehen Photonen mit Energien von einigen wenigen keV bis zu einigen MeV.
+Zu den Details der Prozesse, wie Röntgenstrahlung in solchen elektrischen Feldern entstehen, laufen Forschungsarbeiten.
+Die Intensität des Röntgenstrahls nimmt nach dem Lambert-Beerschen Gesetz mit der im Material zurückgelegten Weglänge d {\displaystyle d} exponentiell ab ( I = I 0 * e -  d {\displaystyle I=I_{0}\cdot e^{-\mu d}} ), der Absorptionskoeffizient  {\displaystyle \mu } ist dabei materialabhängig und etwa proportional zu Z 4  3 {\displaystyle Z^{4}\lambda ^{3 } } ( Z {\displaystyle Z} : Ordnungszahl,  {\displaystyle \lambda } : Wellenlänge).
+Zuerst hatte er es für Einbildung gehalten, da der Effekt nur von der stärksten Röntgenröhre erzeugt wurde und er ihn deshalb nur einmal bemerkt hatte.
+Julius Edgar Lilienfeld beschrieb 1919 erstmals eine für das menschliche Auge sichtbare grau-weiße Strahlung an der Anode von Röntgenröhren, die nach ihm benannte "Lilienfeldstrahlung".
+Dabei wird ausgenutzt, dass das in den Knochen vorkommende Element Calcium mit Z = 20 eine deutlich höhere Ordnungszahl hat als die Elemente, aus denen die weichen Gewebe hauptsächlich bestehen, nämlich Wasserstoff (Z = 1), Kohlenstoff (Z = 6), Stickstoff (Z = 7) und Sauerstoff (Z = 8).
+Wilhelm Conrad Röntgen gilt als Entdecker der heute nach ihm im deutschen Sprachraum benannten Strahlen, obwohl feststeht, dass schon andere vor ihm Röntgenstrahlung erzeugt haben.
+In den von Johann Hittorf und William Crookes entwickelten Röhren, die auch Röntgen für seine Experimente verwendete, entsteht Röntgenstrahlung, die in Experimenten von Crookes und ab 1892 von Heinrich Hertz und seinem Schüler Philipp Lenard durch Schwärzung von fotografischen Platten nachgewiesen wurde, ohne sich aber offenbar über die Bedeutung der Entdeckung im Klaren zu sein.
+Auch Nikola Tesla experimentierte ab 1887 mit Kathodenstrahlröhren und erzeugte dabei Röntgenstrahlung, veröffentlichte seine Ergebnisse aber nicht.
+Die erste Beobachtung von Röntgenstrahlung durch Wilhelm Conrad Röntgen erfolgte am Physikalischen Institut der Julius-Maximilians-Universität Würzburg am späten Freitagabend des 8. November 1895, als - wie er es selbst beschrieb - "sich keine dienstbaren Geister mehr im Hause befanden".
+Röntgens Verdienst ist es, die Bedeutung der neu entdeckten Strahlen früh erkannt und diese als Erster wissenschaftlich untersucht zu haben.
+Von London aus wurde am Abend des 6. Januar die Nachricht über Röntgens (bzw. "Professor Routgens") Entdeckung weltweit telegrafiert, am 7. Januar druckte der Londoner Standard seinen Bericht über die "fotografische Entdeckung" und am 8. Januar wurde diese Kabelnachricht in amerikanischen Zeitschriften veröffentlicht.
+In manchen Sprachräumen blieb es beim von Röntgen selbst eingeführten Namen X-Strahlen (beispielsweise englisch X-rays).

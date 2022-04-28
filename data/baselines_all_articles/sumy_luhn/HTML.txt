@@ -1,0 +1,25 @@
+Die Hypertext Markup Language (HTML, englisch für Hypertext-Auszeichnungssprache) ist eine textbasierte Auszeichnungssprache zur Strukturierung elektronischer Dokumente wie Texte mit Hyperlinks, Bildern und anderen Inhalten.
+Neben den vom Browser angezeigten Inhalten können HTML-Dateien zusätzliche Angaben in Form von Metainformationen enthalten, z.
+Die aktuelle Version ist seit dem 14. Dezember 2017 HTML 5.2, die bereits von vielen aktuellen Webbrowsern und anderen Layout-Engines unterstützt wird.
+Vor der Entwicklung des World Wide Web und dessen Bestandteilen, zu denen auch HTML gehört, war es nicht möglich, Dokumente auf elektronischem Weg einfach, schnell und strukturiert zwischen mehreren Personen auszutauschen und miteinander effizient zu verknüpfen.
+Es geht in HTML um beschreibende (englisch descriptive), nicht um verfahrens- (englisch procedural) und darstellungsorientierte (englisch presentational) Textauszeichnung, auch wenn sich HTML in früheren Versionen dafür verwenden ließ.
+HTML-Elemente sind keine Angaben zur Präsentation, die dem Webbrowser mitteilen, wie er den Text visuell zu formatieren hat.
+Daher gelten Elemente und Attribute zur Präsentation wie <font>...</font>, <u>... </u> und noshade als veraltet (englisch deprecated) und sollen nach allgemeiner Auffassung vermieden werden; sie sollten in neu entwickelter Software nicht mehr verwendet und bei der Überarbeitung der dokumentengenerienden Software ersetzt werden.
+Der ursprünglich auf 7-Bit-ASCII angelegte Standard-Zeichensatz wurde schon in den Frühzeiten des WWW um zahlreiche Sonderzeichen erweitert und als HTML-Entität kodiert.
+Der HTML-Körper (englisch body) enthält die eigentlichen Seiteninformationen.
+Der wesentliche Unterschied ist, dass erstere in der Ausgabe einen eigenen Block erzeugen, in dem der Inhalt untergebracht wird, während die Inline-Elemente den Textfluss nicht unterbrechen.
+Normaler Text wird standardmäßig mit p (für Paragraph) angegeben, obwohl ein Text ohne p problemlos möglich wäre, allerdings ist es sehr zu empfehlen, da dadurch zum einen eine Abtrennung zwischen Quelltext und Ausgabe möglich ist, und zum anderen spätestens bei CSS-Programmierung der Befehl zwingend notwendig ist.
+Beim Entwurf der letzten HTML-Version 4 sollte der Tatsache, dass in vielen HTML-Dokumenten noch Elemente und Attribute zur Präsentation eingesetzt werden, Rechnung getragen werden.
+Es fehlen die meisten Elemente und Attribute zur Beeinflussung der Präsentation, unter anderem die Elemente font, center und u sowie Attribute wie bgcolor, align und target.
+Text und nicht-blockbildende Elemente innerhalb der Elemente body, form, blockquote und noscript müssen sich grundsätzlich innerhalb eines Container-Elements befinden, zum Beispiel in einem p-Element.
+Die Transitional-Variante enthält noch ältere Elemente und Attribute, die auch physische Textauszeichnung ermöglichen.
+Durch diese DTD soll Webautoren, die noch nicht logische Strukturierung und Präsentation voneinander trennen, die Möglichkeit gegeben werden, standardkonformes HTML zu schreiben.
+Diese Variante enthält zusätzlich zu allen Elementen der Transitional-Variante noch die Elemente für die Erzeugung von Framesets.
+Im Laufe der Jahre ist HTML um Elemente erweitert worden, die der visuellen Gestaltung der Dokumente dienen.
+Schon sehr früh in der Geschichte von HTML wurden Zusatztechniken erfunden, die es ermöglichen, HTML-Dokumente während der Anzeige im Browser dynamisch zu verändern.
+Daher gab es erhebliche Probleme bei der Umsetzung der Techniken zwischen den verschiedenen Browsern.
+Auf Grundlage von HTML 4.01 (SGML) wurde XHTML 1.0 entwickelt.
+XHTML genügt den im Vergleich zu SGML strengeren syntaktischen Regeln von XML, ist aber in seinen drei DTD-Varianten semantisch mit der jeweils entsprechenden DTD-Variante von HTML 4.01 identisch.
+Die jeweiligen Vorteile von SGML und XML der bisherigen HTML-Versionen wurden vereint in HTML5.
+Abweichend von den bisherigen HTML-Versionen gibt es in HTML5 keine DTD mehr.
+Mit der Ajax-Technologie ist es mittels JavaScript möglich, einzelne bereits geladene Webbrowser-Inhalte gezielt zu ändern und nachzuladen, ohne dass die Webseite komplett neu geladen werden muss.

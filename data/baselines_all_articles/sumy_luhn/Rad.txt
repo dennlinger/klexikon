@@ -1,0 +1,25 @@
+Seine Erfindung und Verwendung an Karren oder Wagen war ein für die Entwicklung der technischen Kultur in der Urgeschichte wichtiges Ereignis.
+Gleiten findet nur noch in den geschmierten Lagern statt.
+Der Rollwiderstand auf festem, trockenem Boden und der Gleitwiderstand in den Lagern sind gemeinsam wesentlich kleiner als der Gleitwiderstand bei der Verwendung einer Stangenschleife oder eines Schlittens zum Transport einer Last über trockenen Boden.
+Die Speichenform entstand durch Ersatz von Teilen der Scheibe zwischen der Nabe und dem außenliegenden Radkranz durch druck- bzw. zugfeste, oft speziellere Materialien und eine oft anspruchsvolle Verbindungstechnik.
+Etwas früher oder gleichzeitig wurde die ebenfalls mit Gleitlagern versehene, schnell rotierende Töpferscheibe bekannt.
+Die ersten Transportgeräte, mit denen man Lasten zu Lande befördern konnte, ohne sie zu tragen, waren Schlitten und Stangenschleifen.
+Walzen war nur auf gut vorbereitetem Untergrund und kurzen Strecken möglich.
+Das drehbar befestigte Rad, also "unendlich" drehbar um eine Achse, konnte mit Steinwerkzeugen angefertigt werden.
+Die älteste gut datierte Rad-Achsen-Kombination stammt von Stare Gmajne im Laibacher Moor bei Ljubljana in Slowenien, dessen Rad im 2-Bereich in die Jahre 3340-3030 cal BC, die Achse auf 3360-3045 cal BC datiert wurden.
+Eine kürzere Furche auf der anderen Seite zeigt, dass man das Rad auch gedreht aufgesteckt hat.
+Mit dem stabilen und leichten Speichenrad baute man so genannte Streitwagen, also zweirädrige Fahrzeuge, die eigentlich Karren heißen müssten.
+Da Zweirädrigkeit eine gute Methode war, das Gewicht zu vermindern, wurden später auch anspruchsvollere Einachser gebaut.
+Hatten die ersten Speichenräder bronzene Speichen, so baute man im weiteren Verlauf der Bronzezeit und danach überwiegend hölzerne Speichenräder, an denen nur die auf der Achse reibende Innenfläche der Radnabe und die äußere Lauffläche der Felge mit Metall beschlagen war.
+Die ersten Speichenräder hatten bronzene Speichen, im weiteren Verlauf der Bronzezeit und danach überwogen hölzerne Speichenräder, an denen nur die auf der Achse reibende Innenfläche der Radnabe und die äußere Lauffläche der Felge mit Metall beschlagen war.
+Die Ausbildung der Räder wurde immer auf die zu befahrende Oberfläche (erst später Wege und Straßen) abgestimmt, bzw. die Oberfläche entsprechend den erhöhten Anforderungen verbessert.
+Achsen dienen zum Tragen von Lasten und werden deshalb hauptsächlich auf Biegung beansprucht; Wellen übertragen Drehmomente und werden deshalb hauptsächlich auf Verdrehung (Torsion) beansprucht.
+Werden Räder mit Hilfe von Lagern rotierend auf Achsen - heute meist nur auf Achszapfen - eines Fahrzeugs montiert, so wird damit im Vergleich zum Schleifen des zu transportierenden Gegenstandes über eine zurückzulegende Strecke eine wesentliche Verminderung der Reibungskräfte und damit ein Energie sparender Transport von schweren Gütern bzw. eine schnelle Fortbewegung von Gütern und Personen, primär auf relativ ebenen Trassen, erzielt.
+Zum Vergleich: Um eine Stahlplatte von 100 kg Masse über eine Strecke von zehn Meter zu schleifen bzw. zu fahren, ist jeweils die folgende Arbeit (entsprechend Kraft mal Weg) zu leisten: Die jeweilig auftretende Reibkraft ergibt sich aus der Normalkraft (entsprechend der Masse mal der Erdbeschleunigung) multipliziert mit dem Reibbeiwert.
+Beim Schleifen wirkt die Reibungskraft am rauen Boden die ganze Zehn-Meter-Strecke weit, somit ergibt sich die Arbeit Ws zu
+W s = 100 k g * 9 , 81 N k g * 0 , 5 * 10 m = 4905 J {\displaystyle W_{\mathrm {s} }=100\,\mathrm {kg} \cdot 9{,}81{\frac {\mathrm {N} }{\mathrm {kg} }}\cdot 0{,}5\cdot 10\,\mathrm {m} =4905\,\mathrm {J} }
+W f = 100 k g * 9 , 81 N k g * 0 , 1 * 50 m m 1000 m m * 10 m = 49 , 05 J {\displaystyle W_{\mathrm {f} }=100\,\mathrm {kg} \cdot 9{,}81{\frac { \mathrm {N} }{\mathrm {kg} }}\cdot 0{,}1\cdot {\frac {50\,\mathrm {mm} }{1000\,\mathrm {mm} }}\cdot 10\,\mathrm {m} = 49{,}05\,\mathrm {J} }
+Solche Erlebnisfahrt boten bei uns noch Jahrmärkte in den 1920er Jahren, heute bieten uns diese noch manche Karusselle.
+Um Kräfte an Hanf- oder Drahtseilen angreifend umzulenken, werden Räder, bei diesen Anwendungen oftmals Rollen genannt, stationär auf Achsen installiert.
+Wird die Nabe des Rades fest auf einer gelagerten Welle installiert - siehe Welle-Nabe-Verbindung -, kann es der Übertragung von Drehmomenten dienen bzw. Antriebskräfte entlang eines Weges übertragen.
+Als Energiespeicher (Schwungrad, Rotationsenergiespeicher) wird das Rad entsprechend der aufzunehmenden Energie mit genügend großer Masse ausgeführt.

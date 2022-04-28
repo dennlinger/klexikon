@@ -1,0 +1,25 @@
+Ein Telefon, früher auch Telephon (von altgriechisch  tele "fern" und v phone "Laut, Ton, Stimme, Sprache"; Begriff geprägt von Philipp Reis), auch Fernsprechapparat (FeAp) oder Fernsprecher (bahninterne Abkürzung Fspr) genannt, ist ein Kommunikationsmittel zur Übermittlung von Tönen und speziell von Sprache mittels elektrischer Signale.
+Heute erfolgt die Auswertung dieser bei analogen Telefonanschlüssen auch heute noch verwendeten Rufspannung meist elektronisch.
+Weiterhin enthalten Telefone einen Generator zur Erzeugung der Wählimpulse (Wählscheibe oder elektronisch) beziehungsweise der modulierten Töne des Mehrfrequenzwahlverfahrens (MFV).
+Bevor die Gegenseite das Gespräch annimmt, wird zum anrufenden Telefon ein Tonsignal gesandt (Wählton oder Besetztton, siehe Hörtöne), gleichzeitig wird von der Vermittlungsstelle zum klingelnden Telefon eine der Gleichspannung überlagerte Wechselspannung niedriger Frequenz (in Deutschland 25 Hz) gesandt (Rufspannung).
+Wegen der hohen Störanfälligkeit begann man in Deutschland im Frühjahr 1876 damit, das gesamte Telegrafen-Fernliniennetz als Kabelnetz unterirdisch zu verlegen.
+Die klassischen Telefone werden seit den 2010er Jahren immer stärker durch IP-Telefonie abgelöst.
+Digital Enhanced Cordless Telecommunications (DECT, Digitale, verbesserte schnurlose Telekommunikation; bis 1995 Digital European Cordless Telephony) ist der aktuelle Standard für Schnurlostelefone.
+Unter dieser Bezeichnung wurden zunächst ab 1984 zwei standardisierte Techniken auf den Markt gebracht, CT1 und CT2.
+Bevor sich die Sprachübertragung mittels elektrischer Signale durchsetzte, gab es mehr oder weniger erfolgreiche Versuche für nicht elektrisches Fernsprechen.
+Damit wurde die für das Telefon wichtige Vorbedingung der Übermittlung von Signalen durch elektrische Leitungen bereits in die Praxis umgesetzt.
+Von diesen frühen Erfindern hatte jedoch nur Bell die organisatorischen Fähigkeiten, das Telefon über die Labor-Versuchsapparatur hinaus als Gesamtsystem zur Marktreife zu bringen.
+Der ankommende modulierte Strom erzeugte ein veränderliches magnetisches Feld, das die Membran in Schwingungen versetzte, wodurch wieder Schallwellen entstanden.
+Mit Geräten dieser Art wurden am 26. Oktober 1877 in Berlin unter der Regie von Generalpostmeister Heinrich von Stephan und Generaltelegraphendirektor Budde erfolgreiche Übertragungsversuche über zunächst 6 km, dann 26 km und zuletzt 61 km durchgeführt.
+Stephan ließ nach diesen ersten Versuchen weitere Bell-Telefone von der Firma Siemens & Halske anfertigen.
+Mit der Erfindung des Kohlemikrofons 1878 durch David Edward Hughes in Verbindung mit der Verbesserung des Hörers durch Werner von Siemens wurde eine wesentlich lautere Übertragung und damit Gespräche über größere Entfernungen möglich (Demonstration auf der Internationalen Elektrischen Ausstellung 1883.)
+Um dem Anwender die Möglichkeit zu geben, selbst seine Verbindung aufzubauen (Selbstwähldienst), begann Almon Strowger 1888 mit der Entwicklung eines automatischen Telefonvermittlungssystems.
+Am 10. März 1891 patentierte Strowger, der von Beruf eigentlich Bestatter war, dieses Vermittlungssystem (Automatic Telephone Exchange) unter der US Patent No.
+E. Keith und den Brüdern John und Charles J. Erickson, die Mitarbeiter der Strowger Automatic Telephone Exchange Company waren, unter der US patent No.
+Am 29. April 1913 patentierte die Firma Siemens & Halske den über lange Zeit in Telefonen gebräuchlichen Nummernschalter, der nach dem Impulswahlverfahren arbeitete.
+1955 wurde von den Bell Telephone Laboratories das Mehrfrequenzwahlverfahren (MFV) entwickelt.
+Die wichtigsten und bekanntesten Telefonapparate in der Geschichte der deutschen Telekommunikationstechnik waren die Modelle W28 (ab 1928), W38 und W48 (ab 1938 bzw. 1948), sowie der FeTAp 611 (ab 1963).
+Es besaß zehn Zifferntasten, die in zwei Reihen versetzt angeordnet waren (1 3 5 7 9/ 2 4 6 8 0), vier Tasten (heute als Zielwahltasten bezeichnet), auf denen Telefonnummern abgespeichert werden konnten, sowie eine Freisprecheinrichtung.
+Die seit vielen Jahren üblichen schnurlosen Telefone erreichten Ende der 1980er Jahre den deutschen Markt.
+In der Schweiz wurde nach dem Modell 29 (1929) das weit verbreitete Modell 50 (1950, über zwei Millionen Exemplare) als schwarzes Wand- und Tischmodell, letzteres später auch in grau eingeführt.
+Das Modell 70 (1970) hat ein etwas moderneres Aussehen und war zunächst nur in grau, später gegen Aufpreis in anderen Farben und ab den 1980er-Jahren auch mit Tasten (jedoch weiterhin Impulswahl) erhältlich.

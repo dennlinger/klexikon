@@ -1,0 +1,25 @@
+Elektronische Elemente verhalten sich nichtlinear, während das Verhalten anderer elektrischer (nicht-elektronischer) Elemente als linear bezeichnet wird.
+B. Mikroelektronik (typisch <100 Mikrometer) oder Nanoelektronik (typisch <100 Nanometer), welche in der Regel mit dem integrierten Schaltkreis z.
+Auf diese Erkenntnis hin entdeckte Karl Ferdinand Braun 1874 den Gleichrichtereffekt.
+Jedoch lassen sich Transistoren im Gegensatz zu Vakuumröhren, die sehr viel Raum und elektrische Leistung brauchen, sehr klein fertigen, denn sie basieren auf Halbleitertechnologie, wodurch sehr viel höhere Stromdichten möglich sind.
+Die dadurch eingeleitete Technik der integrierten Schaltkreise (kurz IC von engl. integrated circuit) hat seitdem zu einer stetigen Miniaturisierung geführt.
+Zu den wichtigen Bauelementen zählen Widerstand, Kondensator, Transistor, Diode, Spule und die Integrierte Schaltung (kurz IC).
+Man nutzt dabei die physikalischen Gesetze aus, die das Verhalten der Bauelemente (Widerstände, Kondensatoren, Transistoren, Röhren usw.) beschreiben, oder man schafft durch Schaltungsprinzipien günstige Voraussetzungen.
+B. Verstärker, mit deren Hilfe sich weitere Funktionen aufbauen lassen (Oszillator, Filter etc.).
+Die Digitalelektronik oder Digitaltechnik beschäftigt sich mit der Verarbeitung von diskreten Signalen (ausgedrückt als Zahlen oder logische Werte).
+Bei der Digitalelektronik werden analoge Signale entweder vor der Verarbeitung mit Hilfe von Analog-Digital-Umsetzern digitalisiert (in Digitalsignale umgesetzt) oder existieren bereits von vornherein als diskrete Werte.
+Ein analoger Multiplizierer benötigt etwa zwanzig Transistoren, ein digitaler Multiplizierer mit derselben Genauigkeit mehr als die zwanzigfache Anzahl.
+Die Eigenschaften der Schaltung werden also weitgehend von den physikalischen Eigenschaften der Bauelemente entkoppelt.
+Die vereinfachte Beschreibung digitaler Schaltungen mit den zwei Zuständen H und L reicht vor allem bei immer höheren Geschwindigkeiten und Frequenzen nicht immer aus, um sie zu charakterisieren oder zu entwerfen.
+Er beginnt etwa dann, wenn die Frequenz f der elektromagnetischen Welle auf einer Verbindungsleitung der Länge L ein Produkt fL bildet, das zu einer merklichen Phasendrehung ßL = 2 L/ und somit zu stehenden Wellen führt.
+Bei einer elektronischen Schaltung mit Kabeln von L >= 3 m und r eff = r = 2,3 muss für ßL < 5° dann etwa f < 1 MHz.
+Die praktische Hochfrequenzelektronik beginnt somit etwa ab f = 1 MHz, sie ist eine tragende Säule der Informationstechnik.
+Eigenwert ß mit ß = (r eff)1/2 2/0 verbesserte, frequenzabhängige Werte r eff(f) und Z0(f) ermittelt werden.
+0,1 GHz ihre idealen Eigenschaften U = RI, U = L dI/dt und I = C dU/dt zwischen Strom I und Spannung U. Ein Widerstand z.
+Die Elemente L bzw. C lassen sich dabei für hohe Frequenzen durch eine Leitung mit ßL  1 und Kurzschluss bzw. Leerlauf am Ende nachbilden und ein Widerstand R durch eine verlustbehaftete Leitung realisieren, in die eine Welle hineinläuft und wie in einem Sumpf versickert.
+Neben fertigen Modellen und NWA-Messungen kann bei passiven Strukturen durch die vollnumerische Lösung der Maxwellschen Gleichungen sozusagen eine "Software-Messung" der s-Parameter vorgenommen werden.
+Dabei sind die SPICE-Parameter, die die physikalischen Gleichungen der Modelle "biegsam" gestalten, so zu wählen, dass die s-Parameter von SPICE-Modell und NWA-Messung bei allen Arbeitspunkten und allen Frequenzen so gut wie möglich übereinstimmen: Bei nur 10 Testarbeitspunkten und 50 Frequenzpunkten mit je 4 s-Parametern ergäben sich bereits 2000 zu prüfende komplexe s-Parameterwerte.
+Leistungselektronik bezeichnet das Teilgebiet der Elektrotechnik, das die Umformung elektrischer Energie mit elektronischen Bauelementen zur Aufgabe hat.
+Die Mikroelektronik beschäftigt sich mit der Entwicklung und Herstellung integrierter Schaltkreise mit Strukturgrößen bzw. Strukturbreiten typisch unter 100 Mikrometer.
+Die kleinsten Strukturbreiten bei integrierten Schaltkreisen in Serienproduktion lagen 2018 bei 7 nm, siehe Apple A12 Bionic, und aktuell (2020) bei 5 nm, siehe Apple A14 Bionic.
+Seit dem Siegeszug des Computers, der stetigen Entwicklung der Informationstechnologie und der zunehmenden Automation hat sich die Bedeutung der Elektronik beständig erweitert.

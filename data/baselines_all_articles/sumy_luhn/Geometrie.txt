@@ -1,0 +1,23 @@
+Die Geometrie (altgriechisch ia geometria, ionisch i geometrie, ,Erdmaße', ,Erdmessung', ,Landmessung') ist ein Teilgebiet der Mathematik.
+Einerseits versteht man unter Geometrie die zwei- und dreidimensionale euklidische Geometrie, die Elementargeometrie, die auch im Mathematikunterricht - früher unter dem Begriff Raumlehre - gelehrt wird und die sich mit Punkten, Geraden, Ebenen, Abständen, Winkeln usw. beschäftigt, sowie diejenigen Begriffsbildungen und Methoden, die im Zuge einer systematischen und mathematischen Behandlung dieses Themas entwickelt wurden.
+Andererseits umfasst der Begriff Geometrie eine Reihe von großen Teilgebieten der Mathematik, deren Bezug zur Elementargeometrie für Laien nur mehr schwer erkennbar ist.
+Dies gilt insbesondere für den modernen Begriff der Geometrie, der im Allgemeinen die Untersuchung invarianter Größen bezeichnet.
+Die älteste erhaltene Geometrieabhandlung in deutscher Sprache stammt vom Beginn des 15. Jahrhunderts.
+Es handelt sich dabei um die sogenannte Geometria Culmensis, welche im Auftrag des Deutschorden-Hochmeisters Konrad von Jungingen im Raum Culm verfasst worden ist und neben dem, im Wesentlichen auf der Practica geometriae des Dominicus de Calvasio beruhenden, lateinischen Text auch dessen deutsche Übersetzung enthält.
+Als erstes gedrucktes und eigenständiges Geometriebuch in deutscher Sprache gilt Albrecht Dürers Underweysung der messung mit dem zirckel und richtscheyt in Linien ebnen unnd gantzen corporen aus dem Jahre 1525.
+Die Verwendung des Plurals weist darauf hin, dass der Begriff Geometrie in einem ganz bestimmten Sinn gebraucht wird, nämlich Geometrie als mathematische Struktur, deren Elemente traditionellerweise Punkte, Geraden, Ebenen ... heißen und deren Beziehungen untereinander durch Axiome geregelt sind.
+Dieser Standpunkt geht zurück auf Euklid, der versucht hat, die Sätze der ebenen euklidischen Elementargeometrie auf einige wenige Postulate (d. h. Axiome) zurückzuführen.
+Die folgende Liste soll einen Überblick über verschiedene Typen von Geometrien, die in dieses Schema passen, geben:
+In jeder Geometrie interessiert man sich für diejenigen Transformationen, die bestimmte Eigenschaften nicht zerstören (also ihre Automorphismen): Zum Beispiel ändern weder eine Parallelverschiebung noch eine Drehung oder Spiegelung in einer zweidimensionalen euklidischen Geometrie die Abstände von Punkten.
+Umgekehrt ist jede Transformation, die die Abstände von Punkten nicht ändert, eine Zusammensetzung von Parallelverschiebungen, Drehungen und Spiegelungen.
+Man sagt, dass diese Abbildungen die Transformationsgruppe bilden, die zu einer ebenen euklidischen Geometrie gehört, und dass der Abstand zweier Punkte eine euklidische Invariante darstellt.
+Felix Klein hat in seinem Erlanger Programm Geometrie allgemein als die Theorie der Transformationsgruppen und ihrer Invarianten definiert (vgl. Abbildungsgeometrie); jedoch ist das keineswegs die einzig mögliche Definition.
+Im Folgenden sind Geometrien und prominente Invarianten aufgezählt:
+Die folgende Liste umfasst sehr große und weitreichende Gebiete mathematischer Forschung:
+Üblicherweise werden im Geometrieunterricht Geräte wie Zirkel, Lineal und Geodreieck, aber auch der Computer (siehe auch: Dynamische Geometrie) verwendet.
+Die Anfangsgründe des Geometrieunterrichts befassen sich etwa mit geometrischen Transformationen oder dem Messen von geometrischen Größen wie Länge, Winkel, Fläche, Volumen, Verhältnisse usw.
+Auch komplexere Objekte wie spezielle Kurven oder Kegelschnitte kommen vor.
+Darstellende Geometrie ist die zeichnerische Darstellung der dreidimensionalen euklidischen Geometrie in der (zweidimensionalen) Ebene.
+Die Aussagen werden in Sätzen formuliert.
+Grundlegende Sätze:
+Nach der Geometrie wurde der Asteroid (376) Geometria benannt.

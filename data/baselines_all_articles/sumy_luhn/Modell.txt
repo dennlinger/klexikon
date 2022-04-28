@@ -1,0 +1,25 @@
+Der amerikanische Wissenschaftsphilosoph Michael Weisberg unterscheidet auf der obersten Ebene zwischen gegenständlichen (concrete) und mathematischen Modellen und stellt daneben die Computersimulationen (computational models) als eigene Klasse von Modellen auf.
+Die Modellbildung abstrahiert mit dem Erstellen eines Modells von der Realität, weil diese meist zu komplex ist, um sie vollständig abzubilden.
+Im Grundsatz bleibt das Modell in allen Merkmalen außer der Verständlichkeit immer hinter der Realität zurück.
+In der Modelltheorie der mathematischen Logik geht es nicht um eine Abbildung der Wirklichkeit in Mathematik.
+Die Existenz eines Modells beweist, dass sich die Axiome nicht widersprechen; existieren sowohl Modelle mit einer gewissen Eigenschaft als auch solche, die diese Eigenschaft nicht haben, so ist damit die logische Unabhängigkeit der Eigenschaft von den Axiomen bewiesen.
+In der Logik ist das Modell einer Formel F eine Bewertung, die F den Wahrheitswert <wahr> zuordnet.
+Mit anderen Worten heißt es im Historischen Wörterbuch der Philosophie: "Modell heißt in der Logik ein System aus Bereichen und Begriffen, insofern es die Axiome einer passend formulierten Theorie erfüllt."
+In der Methodologie und Wissenschaftstheorie wird zwischen Modellen unterschieden, die zur Erklärung von bekannten Sachverhalten oder Objekten dienen und solchen, die auf einer hypothetischen Annahme (Hypothese) beruhen und bei denen der Entdeckungszusammenhang beim Test von Theorien im Vordergrund steht.
+Unter bestimmten Bedingungen und Zwecksetzungen besitzen Modelle bei der Untersuchung realer Gegenstände und Prozesse in unterschiedlichen Wirklichkeitsbereichen und beim Aufbau wissenschaftlicher Theorien eine wichtige Erkenntnisfunktion.
+Im Prozess der Abstraktion mit Methoden der Idealisierung bzw. der Konstruktion entstanden, helfen sie, reale Eigenschaften, Beziehungen und Zusammenhänge aufzudecken, bestimmte reale Eigenschaften erfassbar und praktisch beherrschbar werden zu lassen.
+Sie werden zumeist gebildet, um auf real existierende Objekte die Mittel der theoretischen, besonders der mathematischen Analyse anwenden zu können.
+Eine gesonderte Diskussion wird in der Wissenschaftstheorie darüber geführt, ob Modelle als Repräsentationen die Realität abbilden (Realismus), oder ob es sich nur um theoretische Konstruktionen handelt (Konstruktivismus).
+Max Weber sprach vom Idealtypus in der sozialwissenschaftlichen Forschung und meinte damit nichts Anderes als ein abstraktes, idealisiertes Modell der Realität.
+Der Modellbegriff spielt weiterhin in der Lerntheorie eine zentrale Rolle; auch die Pädagogische Psychologie thematisiert diese Lernform (siehe Lernen, Beobachtungslernen, Modelllernen, Imitationslernen, Lernen am Vorbild).
+B. eine Rolle, welches Verhältnis der Nachahmende zum Modell (Eltern, Lehrer, Erzieher usw.) hat oder wie erfolgreich ein Modell sein Verhalten (in sozialen Situationen) gestalten kann bzw. welches gesellschaftliche Ansehen ein Modell zeigt.
+Feldtheorie: Der Psychologe Kurt Lewin (1890-1947) war ein großer Meister im Entwerfen von Modellen für komplexe Sachverhalte in der Psychologie (Feldtheorie in den Sozialwissenschaften, Bern 1963), etwa in den motivationspsychologischen Arbeiten.
+Erziehende, die viele Widersprüche dieser Art aufweisen, können in ihrer Tätigkeit nicht erfolgreich sein, da sie unweigerlich Konflikte mit den Kindern und Jugendlichen hervorrufen, die sie überdies schwer erklären oder rechtfertigen können.
+Das glaubhafte Modell bildet also der Erzieher, der seine Werte, Erziehungsvorstellungen und Lehren nicht nur verbal vertritt, sondern für alle sichtbar lebt - vorerst einmal unabhängig davon, welche pädagogische Ideologie er vertritt.
+Da man nicht voraussetzen kann, dass ein Erziehender gänzlich ohne Fehl und Tadel wirken kann, müsste man in diesem Sinne einen Erzieher fordern, der seine internen Widersprüche auf ein akzeptables Maß reduziert, um ein glaubhaftes Modell werden zu können.
+Ein professionell handelnder Erzieher kann nur der sein, der seine Widersprüche zu reflektieren bereit und imstande ist.
+In der Wirtschaftsinformatik dienen Modelle vorwiegend der Beschreibung realer und soziotechnischer Systeme, siehe Modell (Wirtschaftsinformatik).
+Für den Menschen stehen unterschiedliche Modelle zur Verfügung, die verschiedene Aspekte menschlichen Verhaltens und menschlicher Fähigkeiten nachbilden und die entsprechend dem Untersuchungsziel ausgewählt werden.
+Im didaktischen Bereich werden Modelle häufig im Sinne von Analogien zwischen dem zu untersuchenden Objektbereich und schon erforschten Bereichen benutzt.
+Simulationen dienen neben der Veranschaulichung physikalischer Zusammenhänge der Überprüfung von Hypothesen.
+Verbunden wird diese Vorgehensweise mit der Tendenz, die Aussagen so zu gestalten, dass sie schon aufgrund ihrer logischen Struktur wahr sind.

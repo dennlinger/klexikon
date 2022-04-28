@@ -1,0 +1,25 @@
+Ein Aerosol ist ein dynamisches System und unterliegt ständigen Änderungen durch Kondensation von Dämpfen an bereits vorhandenen Partikeln, Verdampfen flüssiger Bestandteile der Partikel, Koagulation kleiner Teilchen zu großen oder Abscheidung von Teilchen an umgebenden Gegenständen.
+Kriterien können die Entstehung der Aerosolteilchen, ihre Größe, Materialeigenschaften (fest, flüssig oder chemische Zusammensetzung) oder ihre Wirkung (Kondensationskeime) sein.
+Eine Menge von Aerosolpartikeln in Luft ist je nach Partikelgröße ab Konzentrationen von 10.000-100.000 Partikel pro Kubikzentimeter sichtbar, die bei Herkunft aus anthropogenen Quellen als Smog bezeichnet wird.
+Ab einer bestimmten Luftfeuchtigkeit kondensiert Wasser in der Luft an den Partikeln und es beginnen sich Tröpfchen zu bilden.
+Wüstenstaub besteht ebenfalls aus vergleichsweise großen Partikeln und bildet beim Transport eine klar abgegrenzte, mehrere Kilometer dicke Aerosolschicht.
+Zu den größeren Schwebeteilchen zählen mit aerodynamischen Durchmessern im Bereich von 10 m bis 100 m Pollen, während Viren sich in der Regel in einem Größenbereich von 0,02 m bis 0,4 m bewegen.
+Wenn Wasser an den Partikeln kondensiert und sich aus vielen kleinen Tröpfchen größere bilden, können Aerosolpartikel miteinander reagieren, oder es werden chemische Vorgänge in der Luft katalysiert, welche die Zusammensetzungen der Partikel verändern.
+Eine Halbierung des Durchmessers eines Partikels entspricht der Verringerung seiner Masse und damit der ihn betreffenden Gravitationskraft um den Faktor acht.
+Die Reibungskraft F R {\displaystyle F_{\mathrm {R} }} des Partikels mit der Luft lässt sich zunächst durch das Gesetz von Stokes beschreiben, da es sich um den Bereich einer laminaren Strömung handelt.
+Im Kräftegleichgewicht würde die Sinkgeschwindigkeit v {\displaystyle v} daher um den Faktor vier abnehmen.
+Das obige Gesetz von Stokes gilt jedoch nur, solange die Partikel deutlich größer sind als die mittlere freie Weglänge des umgebenden Gases (in Luft 68 nm) und die Geschwindigkeit des Fluids an der Oberfläche des Partikels Null ist.
+Wird die Reibungskraft durch den Cunningham-Korrekturfaktor C c {\displaystyle C_{\mathrm {c} }} geteilt, so erhält man aus F G = F R / C c {\displaystyle F_{\mathrm {G} }=F_{\mathrm {R} }/C_{\mathrm {c} }} für die Sinkgeschwindigkeit
+Das ist derjenige Durchmesser 2 r {\displaystyle 2r} , den ein kugelförmiges Teilchen mit der gleichen Sinkgeschwindigkeit v {\displaystyle v} hätte.
+Die über die gesamte Atmosphäre integrierte aerosol optische Dicke (AOD, Funktion der ngström Koeffizienten) lässt sich durch verschiedene fernerkundliche Verfahren ihrer raumzeitlichen Verbreitung kartieren.
+Zudem gibt es Aerosolpartikel, die als Eiskeime dienen und zur Bildung von Eiskristallen führen (dies können Aerosolpartikel aus bestimmten Bakterien sein, wie sie in Schneekanonen verwendet werden).
+Je größer ein Partikel ist, desto mehr wasserlösliche Einzelkomponenten sind in ihm enthalten; damit ist umso mehr hydrophile Masse vorhanden, die Wasserdampf am Partikel kondensieren lässt.
+In der Regel bilden alle Aerosolpartikel ab 103 % Luftfeuchtigkeit Tröpfchen.
+Sind also nur wenige Partikel in der Luft, bilden sich große Tröpfchen, die dann mit großer Wahrscheinlichkeit auch zusammenstoßen, und es kommt schnell zu Regen.
+Sind hingegen viele Partikel vorhanden, bilden sich zahlreiche kleine Tröpfchen, deren Wahrscheinlichkeit zusammenzustoßen gering ist.
+So hat es neben der Wolkenbildung auch einen Einfluss auf das Klima, ob die Partikel die Eigenschaft haben, Sonnenlicht zu absorbieren und dabei Wärme freizusetzen (wie Ruß), oder ob sie das Licht reflektieren oder brechen wie Salzpartikel.
+Ursache des hohen Säuregehalts sind bestimmte Aerosole, zum Beispiel Nitrate (R-NO3), Sulfate (RSO4) und verschiedene Stickoxide.
+Sie reagieren mit anderen Aerosolen in der Luft oder während der Tröpfchenbildung und bilden Salpetersäure und Schwefelsäure.
+So wurde zwar weniger sichtbarer Ruß freigesetzt, die unsichtbaren Stickoxide und andere säurebildende Aerosole wurden jedoch weiter ausgestoßen.
+Deutlich größere und kleinere Teilchen scheiden sich bereits in den oberen Bereichen stärker ab, dringen dadurch weniger tief ein und belasten die empfindlichen Alveolen weniger.
+Bei der Übertragung spielen Tröpfchen wie auch Aerosole, die längere Zeit in der Luft schweben können, eine Rolle, wobei der Übergang zwischen den beiden Formen fließend ist.

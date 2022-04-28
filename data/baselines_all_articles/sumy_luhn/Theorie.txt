@@ -1,0 +1,25 @@
+In der Wissenschaft bezeichnet Theorie abweichend ein System wissenschaftlich begründeter Aussagen, das dazu dient, Ausschnitte der Realität und die zugrundeliegenden Gesetzmäßigkeiten zu erklären und Prognosen über die Zukunft zu erstellen.
+In den geisteswissenschaftlichen Fachbereichen, wie etwa in der Philosophie (Wissenschaftstheorie) oder der Mathematik (Theorie (Logik)), wird der Begriff entsprechend enger gefasst.
+Das Wort Theorie (aus altgriechisch v theoreein, kontrahiert v theorein, "beobachten, betrachten, schauen";  ia he theoria "die Anschauung, Überlegung, Einsicht, wissenschaftliche Betrachtung", "die Betrachtung oder Wahrnehmung des Schönen als moralische Kategorie") bezeichnete ursprünglich die Betrachtung der Wahrheit durch reines Denken, unabhängig von ihrer Realisierung.
+In der Regel bezieht sie sich dabei auf einen spezifischen Ausschnitt der Realität.
+Eine Theorie enthält in der Regel beschreibende (deskriptive) und erklärende (kausale) Aussagen über diesen Teil der Realität.
+Viele wissenschaftstheoretische Grundbegriffe und weitergehende Fragen grundsätzlicher Art, die Theorien der Realität im Allgemeinen betreffen, werden in Teilbereichen der philosophischen Disziplinen Metaphysik und Erkenntnistheorie diskutiert.
+Diese Beobachtung liefert dann direkt die Wahrheit oder Falschheit der Theorie, d. h., sie verifiziert (bestätigt) oder falsifiziert (widerlegt) die Theorie.
+In der Logik bezeichnet Theorie im einfachsten Fall eine deduktiv abgeschlossene Formelmenge.
+Gängig ist auch folgende streng formale, mathematisch-logische Definition des Theoriebegriffs: Eine Menge T von Aussagen in einer Sprache heißt genau dann Theorie, wenn T erfüllbar ist und wenn jeder Satz, der aus T folgt, bereits zu T gehört.
+Diese Diskussionen betreffen besonders die Präzisierung eines Begriffs der Bestätigung und hängen eng zusammen mit Problemen der Induktion, Kausalität und Wahrscheinlichkeit.
+Aus der spezifischen Sicht der Skeptikerbewegung dürfen nur empirische Aussagen als Theorien bezeichnet werden.
+Nach der klassischen Sicht lassen sich aus Prognosen von Theorien wiederum Handlungsempfehlungen ableiten.
+Letztere kommen lediglich in der Regel der Wahrheit näher und Hypothesen sind weniger allgemeine Theorien.
+Aus Theorien lassen sich keine Handlungsempfehlungen ableiten, sondern nur Handlungsempfehlungen damit kritisieren.
+Theorie und Praxis bilden aus dieser Sicht Gegensätze.
+Weitere wichtige Forderungen an Theorien sind zum Beispiel die Möglichkeit, Axiome für eine Theorie angeben zu können, sowie die "Ausdruckskraft" einer Theorie: Ist es möglich, die Theorie durch endlich/abzählbar viele Axiome zu beschreiben, so heißt sie endlich/abzählbar axiomatisierbar.
+Eine Theorie heißt (negations-)vollständig genau dann, wenn jeder Satz ihrer zugrundeliegenden Sprache oder seine Negation Elemente der Theorie sind.
+In der wissenschaftlichen Praxis enthalten Theorien diese Elemente in höchst unterschiedlichem Ausmaß; dies hängt u. a. vom Erkenntnisinteresse der jeweilig wissenschaftlich Tätigen ab.
+Bei der Theorienbildung durch Induktion geht man davon aus, dass der Wissenschaftler im empirischen Prozess Datenmaterial erarbeitet, in dem schließlich innere Strukturen und Gesetzmäßigkeiten sichtbar werden.
+Bei der Theorienbildung durch Deduktion geht man davon aus, dass der Wissenschaftler durch kreative Akte sinnvolle Hypothesen erzeugt, deren Übereinstimmung mit dem Datenmaterial er anschließend überprüft.
+Um ein überraschendes Phänomen erklärbar zu machen, wird eine Regel hypothetisch eingeführt, damit das Resultat als sinnvoller Fall dieser Regel betrachtet werden kann.
+In der Praxis der Wissenschaft mischen sich induktive und deduktive Elemente ohne Probleme, so dass diese Frage mehr eine wissenschaftstheoretische und weltanschauliche Bedeutung besitzt.
+Bietet die Wissenschaft mit ihren Theorien einen Weg zu absoluter Wahrheit oder zu einer schrittweise stattfindenden Annäherung an die Wahrheit (der man sich jedoch nie ganz gewiss sein kann) oder ist Wahrheit nicht Teil der Wissenschaften oder gibt es keine Wahrheit an sich?
+In der Umgangssprache wird der Begriff meist im Sinne von "nur eine Theorie" verstanden und bezieht sich dann lediglich auf besonders unsichere Erkenntnisse.
+Ohne Theorie gibt es keine Methoden und Messinstrumente, also existieren Methoden und Messinstrumente nur aufgrund theoretischer Vorannahmen, also nicht unabhängig von ihnen.

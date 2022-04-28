@@ -1,0 +1,25 @@
+Der Begriff "Batterie" ist aus dem Sprachgebrauch des Militärs entnommen, wo es eine Zusammenstellung mehrerer Geschütze bedeutet, analog dazu wurde eine Zusammenschaltung mehrerer galvanischer Zellen mit diesem Begriff belegt.
+Der geschilderte Wandel des Sprachgebrauchs wurde in der DIN-Norm 40729 Akkumulatoren; Galvanische Sekundärelemente; Grundbegriffe angesprochen, welche unter Batterie "immer mehrere verbundene Zellen" verstanden hat, wobei diese Begrifflichkeit sich bei der alltäglichen "Unterscheidung jedoch verwischt" hat.
+Batterien, die wieder aufgeladen werden können, werden Sekundärbatterie oder landläufig Akkumulator (kurz Akku) genannt.
+Das erste funktionierende galvanische Element und damit die erste Batterie wurde in Form der Voltaschen Säule im Jahr 1800 von Alessandro Volta erfunden.
+Es folgten in den Folgejahren konstruktive Verbesserungen wie die Trog-Batterie von William Cruickshank, welche den Nachteil des vertikalen Aufbaus der Voltaschen Säule vermied.
+Historisch wird zwischen Trockenbatterien - mit festem oder gelartigem Elektrolyt - und den heute nicht mehr gebräuchlichen Nassbatterien - mit flüssigem Elektrolyt - unterschieden.
+Zu den historischen Nassbatterien, welche nur in bestimmter Lage betrieben werden können, zählen das Daniell-Element von John Frederic Daniell aus dem Jahre 1836 und die verschiedenen Variationen und Bauformen in Form der Gravity-Daniell-Elemente, das Chromsäure-Element von Johann Christian Poggendorff aus dem Jahre 1842, das Grove-Element von William Grove aus dem Jahre 1844 und das Leclanche-Element von Georges Leclanche aus dem Jahr 1866.
+Einsatzbereich dieser galvanischen Nasszellen war primär die Stromversorgung der drahtgebundenen Telegrafiestationen.
+Aus dem Leclanche-Element gingen über mehrere Entwicklungsschritte die noch heute üblichen lageunabhängigen Trockenbatterien hervor, erste Arbeiten dazu stammen von Carl Gassner, welcher die Trockenbatterie im Jahre 1887 patentierte.
+Primärbatterien sind dennoch aufgrund deren geringen Kosten für viele kleinere Geräte, wie Taschenlampen und Uhren, weiterhin gefragt.
+Bei der Entladung wird gespeicherte chemische Energie durch die elektrochemische Redoxreaktion in elektrische Energie umgewandelt.
+Die Elektrodenmaterialien legen die Nennspannung der Zelle fest, die Menge der Materialien die enthaltene Energie.
+In Reihenschaltung bricht die Spannung unter Last eher zusammen, weil stärkere, noch geladene Zellen Strom durch schwächere, schon entladene Zellen treiben, an denen dann bereits ein Teil der Spannung abfällt.
+Aufgrund der vielfältigen Einsatzbereiche mit sehr unterschiedlichen Anforderungen bezüglich Spannung, Leistung und Kapazität gibt es heute Batterien in vielen Typen.
+Die verschiedenen Typen werden nach den eingesetzten Materialien bezeichnet (ausgenommen wiederaufladbare alkalische Zellen - diese werden trotzdem zu den Primärzellen gezählt):
+Es gibt sehr viele von der IEC genormte Typen und einige Bezeichnungen vom ANSI sowie inoffizielle Namen, insbesondere für die neun gängigsten Kategorien.
+Diesen Buchstaben kann ein weiterer Buchstabe vorangestellt sein, um die Batterien nach ihrer chemischen Zusammensetzung zu kennzeichnen:
+Diesen Buchstaben kann eine Zahl vorangestellt sein, um die Anzahl der in Reihe geschalteten Zellgrößen im Gehäuse anzugeben.
+Galvanische Elemente und Batterien wurden kurz galvanische Stromerzeuger genannt und waren in VDE 0807 normiert.
+Diese bestand aus zwei oder drei Buchstaben, der Nennspannung sowie ggf.
+der Anzahl der Zellen:
+Nützlich sind diese Adapter auch, weil es keine wiederaufladbaren Flachbatterien gibt.
+Konfektionierte wiederaufladbare Batterien, sogenannte Akkupacks, bestehen aus mehreren Zellen, die untereinander fest verbunden und oft mit einer Ummantelung oder einem Gehäuse versehen sind.
+Sie legt unter anderem fest, dass in Deutschland keine Batterien oder Zellen mit einem Quecksilbergehalt von mehr als 0,0005 Gewichtsprozent in den Verkehr gebracht werden dürfen.
+Alkali-Mangan-Batterien enthalten seit Beginn der 1990er Jahre kein Quecksilber mehr.

@@ -1,0 +1,25 @@
+Werte von geometrischen und physikalischen Größen werden in Maßeinheiten (auch Größeneinheit oder physikalische Einheit) angegeben, die einen eindeutigen (in der Praxis feststehenden, wohldefinierten) Wert haben.
+Alle anderen Werte der jeweiligen Größe werden als Vielfache oder Bruchteile der zu messenden Einheit angegeben.
+Bekannte Maßeinheiten sind beispielsweise Meter, Sekunde, Kilowattstunde, Hertz oder Kilometer pro Stunde.
+Maßeinheiten können für alle Größenarten definiert werden, auch für nicht physikalische Größen, etwa Währungen oder die wahrnehmungsbezogenen Größen Tonheit oder Lautheit.
+Zur Vermeidung von Messwerten mit sehr großen oder sehr kleinen Zahlen können bei den meisten Einheiten Vorsätze für Maßeinheiten verwendet werden (Ausnahmen z.
+Größen der Dimension Zahl haben die Maßeinheit 1 (eins).
+Für alte Maßeinheiten waren auch Einheitenzeichen gebräuchlich, die keinem Alphabet angehören.
+Der Wert einer physikalischen Größe ist im Allgemeinen das Produkt aus einer Zahl und einer physikalischen Einheit.
+Um diesen Wert mit einer anderen Einheit (derselben Größenart) darzustellen, kann man dieses Produkt umformen und bekannte Beziehungen zwischen den Einheiten einsetzen.
+Damit kann man umformen: 75 cm = 0,75 x 100 cm = 0,75 m.
+Oft ist eine Einheit ein Vielfaches der anderen (das "Vielfache" muss nicht ganzzahlig sein), in manchen Fällen ist die Beziehung aber anders.
+B. gilt für Temperaturen in Grad Celsius und in Kelvin: t /  C = T / K - 273 , 15 {\displaystyle \textstyle t/^{\circ }\mathrm {C} =T/\mathrm {K} -273{,}15} , die beiden Temperaturskalen haben unterschiedliche Nullpunkte.
+Ist eine Einheit ein Vielfaches der anderen, kann man die Umrechnung durchführen, indem man mit 1 multipliziert, wobei man 1 als Quotient zweier gleicher Größen in den beiden Einheiten schreibt, so dass sich die erste Einheit herauskürzt und die zweite stehenbleibt.
+Wenn eine Einheit Produkt oder Quotient anderer Einheiten ist, können solche Umrechnungen auf letztere angewandt werden.
+Wenn die direkte Beziehung zweier Einheiten nicht bekannt ist, aber jeweils die Beziehung zu einer dritten Einheit, z.
+Beispiel: 463 Fuß (ft) pro Minute (min) sollen in Knoten (kn) umgerechnet werden.
+Bekanntlich ist 1 ft = 0,3048 m, 1 min = 60 s, 1 kn = 1 sm/h, 1 sm = 1852 m, 1 h = 3600 s.
+In früheren Zeiten wurden Maßeinheiten meistens über Maßverkörperungen definiert, die die entsprechende Eigenschaft hatten.
+Maßeinheiten wurden früher sehr willkürlich und oft ohne Beziehung zueinander, aber nach praktischen Gesichtspunkten wie Längenabmessungen am menschlichen Körper festgelegt.
+Derartige Einheiten muss man über Messvorschriften definieren, die vergleichsweise einfach mit hoher Genauigkeit zu reproduzieren sind.
+Es ist zwischen "Definition" und "Realisierungsvorschrift" zu unterscheiden; die geeigneten Realisierungsverfahren unterscheiden sich oft von dem in der Definition festgelegten Verfahren.
+Im Internationalen Einheitensystem wurde das Kilogramm bis 2019 durch die Masse des Urkilogramms in Paris definiert.
+Alle Massen wurden als Vielfache dieser Masse angegeben.
+Zum Beispiel bedeutete die Angabe "5,1 kg" so viel wie "5,1-mal so große Masse wie die Masse des Urkilogramms in Paris".
+Die Einheit Meter/ Sekunde der Geschwindigkeit ist im SI eine von den Basiseinheiten Meter und Sekunde abgeleitete Einheit.

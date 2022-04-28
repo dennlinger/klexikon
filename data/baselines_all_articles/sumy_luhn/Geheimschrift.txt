@@ -1,0 +1,25 @@
+Die Kryptographie befasste sich historisch mit der Erzeugung, Betrachtung und Beschreibung von Verfahren, um "geheim zu schreiben", also mit Verschlüsselungsverfahren.
+Seit Ende des 20. Jahrhunderts werden sie zur sicheren Kommunikation und für sichere Berechnungen eingesetzt.
+Kryptoanalyse (auch Kryptanalyse) bezeichnet hingegen die Erforschung und Anwendung von Methoden, mit denen kryptographische Verfahren gebrochen ("geknackt") werden können.
+Oft werden die Begriffe Kryptographie und Kryptologie gleichwertig benutzt, während sich z.
+So formulierte Auguste Kerckhoffs von Nieuwenhof mit Kerckhoffs' Prinzip einen Grundsatz der Kryptographie, wonach die Sicherheit eines kryptographischen Verfahrens nur von der Geheimhaltung des Schlüssels und nicht von der des Verfahrens abhängen soll.
+In dieser Zeit wurden große Fortschritte in der mathematischen Kryptographie gemacht.
+Hiermit endete auch eine Phase der Kryptographie, die auf die Geheimhaltung des Verfahrens setzte, um eine Entschlüsselung durch Dritte zu verhindern oder zu erschweren.
+Erstens war dies der DES (Data Encryption Standard)-Algorithmus, entwickelt von IBM und der National Security Agency (NSA), um einen sicheren einheitlichen Standard für die behördenübergreifende Verschlüsselung zu schaffen (DES wurde 1977 unter dem Namen FIPS 46-2 (Federal Information Processing Standard) veröffentlicht).
+Der zweite und wichtigere Fortschritt war die Veröffentlichung des Artikels New Directions in Cryptography von Whitfield Diffie und Martin Hellman im Jahr 1976.
+Dieser Aufsatz stellte eine radikal neue Methode der Schlüsselverteilung vor und gab den Anstoß zur Entwicklung von asymmetrischen Kryptosystemen (Public-Key-Verfahren).
+Vor dieser Entdeckung waren die Schlüssel symmetrisch, und der Besitz eines Schlüssels erlaubte sowohl das Verschlüsseln als auch das Entschlüsseln einer Nachricht.
+Der eine ist ein öffentlicher Schlüssel, der - im Falle eines Verschlüsselungsverfahrens - zum Verschlüsseln von Nachrichten für den Schlüsselinhaber benutzt wird.
+Mit dieser Methode wird nur ein einziges Schlüsselpaar für jeden Teilnehmer benötigt, da der Besitz des öffentlichen Schlüssels die Sicherheit des privaten Schlüssels nicht aufs Spiel setzt.
+Ein homomorphes Verschlüsselungsverfahren erlaubt es, Berechnungen auf verschlüsselten Daten durchzuführen.
+Die Sicherheit der meisten asymmetrischen Kryptosysteme beruht auf der Schwierigkeit von Problemen, die in der algorithmischen Zahlentheorie untersucht werden.
+Die Sicherheit der faktorisierungsbasierten Public-Key-Kryptographie liegt in der Verwendung eines Produkts aus großen Primzahlen, welches als öffentlicher Schlüssel dient.
+Der private Schlüssel besteht aus den dazugehörenden Primfaktoren bzw. davon abgeleiteten Werten.
+Der Berechnungsaufwand zum Finden eines Faktors wächst dabei mit zunehmender Länge der Zahl sehr schnell, was bei genügend großen Zahlen dazu führt, dass die Faktorisierung auch auf einem Supercomputer tausende Jahre dauern würde.
+Für die Multiplikation großer Zahlen existieren hingegen effiziente Algorithmen; es ist also leicht, aus zwei Faktoren (919 und 877) das Produkt (805963) zu berechnen.
+Diese Asymmetrie im Aufwand von Multiplikation und Faktorisierung macht man sich in bei faktorisierungsbasierten Public-Key-Verfahren zu Nutze.
+Die derzeit wichtigsten Public-Key-Verfahren (RSA), Verfahren, die auf dem Diskreten Logarithmus in endlichen Körpern beruhen (z.
+Da es moderne, computergestützte Verfahren jedem möglich machen, Informationen sicher zu verschlüsseln, besteht seitens der Regierungen ein Bedürfnis, diese Informationen entschlüsseln zu können.
+Die US-Regierung prüfte im Jahr 1996, ob ein Verfahren gegen den Erfinder von PGP, Phil Zimmermann, wegen illegalen Waffenexports eingeleitet werden könne.
+Damit verbunden war ein Verbot anderer Verfahren und Schlüssel.
+Ein Verbot der Kryptographie ist nicht praktikabel, da die Algorithmen bekannt sind und jeder mit den notwendigen Programmierkenntnissen ein entsprechendes Programm selbst schreiben könnte.

@@ -1,0 +1,25 @@
+An einem ihrer Enden (bei der Schaftschraube am gewindefreien Ende) befindet sich in der Regel ein Schraubenkopf.
+An einem Ende der Schraube (bei der Kopfschraube am Kopf) befindet sich der sogenannte Drehantrieb.
+Die beiden Hauptgruppen von Schrauben sind die "Holzschrauben" (leicht konisch, Gewinde ins Gegenstück aus Holz, Blech oder Kunststoff selbstschneidend) und die "Metallschrauben" (zylindrisch, Gegenstück aus Metall und anderen Werkstoffen mit eigenem Muttergewinde).
+Ebenso wurden zu Beginn des 15. Jahrhunderts Metallschrauben in Europa gefertigt, die sich aber wegen ihres hohen Preises ebenfalls nicht allgemein durchsetzen konnten.
+Die Längenangabe bei Schrauben bezieht sich in der Regel auf den Teil der Schraube, der nach dem vollständigen Einschrauben nicht mehr zu sehen ist.
+Dies ist also die Länge des Gewindes zuzüglich des eventuell gewindelosen Teils des Schafts sowie des eventuell konischen Übergangs zum Schraubenkopf.
+Die benötigte Länge ergibt sich aus der vorgesehenen Einschraubtiefe im Grundmaterial bzw. der Höhe einer Standardmutter zuzüglich der Stärke der zu befestigenden Bauteile.
+Korrosionsarme bzw. rostfreie Schrauben bestehen aus nichtrostendem Stahl, Nickellegierungen, Kupferlegierungen (Messing), Kunststoffen, gelegentlich Aluminium, Titan oder neuerdings auch aus kohlenstofffaserverstärktem Kunststoff ("Carbon").
+Metallische Gewindeverbindungen ohne vorgegebenes Anzugsmoment sollten in korrosiver Umgebung durch Fett, Montagepaste, Schraubensicherung- oder Dichtungsmittel geschützt werden, um das spätere Lösen der Verbindung zu erleichtern.
+Der Auftrag von Seife, zur Not auch Wachs, auf das Gewinde von Holzschrauben erleichtert das Eindrehen und kann das Abscheren der Schraube bei Überlastung verhindern; Öl oder Fett ist bei Holz ungeeignet, da diese bei eventuell nachfolgender Oberflächenbehandlung die Haftung dieser verhindern können.
+Bei sehr großen Schrauben ist das Anziehen mittels Drehmomentschlüssel kaum mehr möglich, so dass bspw.
+Zur weiteren Reduktion erhalten die Schrauben mancher Hersteller am Übergang zwischen Gewinde und Schaft kurze Fräsrippen, welche die Reibung am Schaft durch Zerfaserung des Holzes herabsetzen.
+Zur Reduzierung der zum Einschrauben erforderlichen Kraft kann es bei längeren Schrauben erforderlich sein, zusätzlich oder anstelle der Bohrung zur Aufnahme des Gewindes eine Bohrung in der Länge und mit dem Durchmesser des Schafts vorzunehmen.
+In Richtung der Flanken sind beide Teile gegeneinander beweglich bzw. um ihre gemeinsame Mittenachse drehbar.
+Werden die Teile gegeneinander "angezogen", so entsteht eine in Normalenrichtung zwischen den einander zugekehrten Flankenflächen wirkende Kraft (N, siehe rechts stehende Abbildung) und infolge der Reibung zwischen beiden ein Kraftschluss gegen das Drehen.
+Im Gleichgewichtszustand nach dem Anziehen wird die Rolle der notwendigen Umfangskraft U von der (Ruhe-)Reibung (Kraft R) zwischen den mit der Normalkraft N aufeinander gepressten Flanken übernommen.
+Die Längskraft L bleibt infolge einer kleinen elastischen Verformung des Schraubenschaftes und der beteiligten Werkstücke als elastische Kraft (Vorspannkraft) in der Schraubenverbindung gespeichert.
+Durch Vibrationen kann es auch zum selbsttätigen Lösen kommen, weshalb in solchen Fällen meistens eine Schraubensicherung (formschlüssig gegen Drehen) nötig ist.
+Eine ausreichend dauerhaft sichere Verbindung nach dem Kraftschluss-Prinzip ist nur die besonders weiche Dehnschrauben-Verbindung (mit Metallschraube), die zum Beispiel zwischen Zylinderkopf und Motorblock in Verbrennungsmotoren angewendet wird und ohne zusätzliche (formschlüssige) Schraubensicherung auskommt.
+Dadurch nehmen beide Teile bei niedrigen Lasten unterschiedliche Gewindesteigung an, wodurch die ersten Gänge den größten Teil der Kraft übertragen (der erste Gang etwa ein Drittel).
+Man verwendet bei besonders belasteten Schraubverbindungen besonders kerbzähes Material und erreicht durch leicht geringere Steigung der Schraube im Einschraubbereich dort eine gleichmäßigere Lastverteilung im elastischen Bereich.
+Schraubenköpfe mit Schlitzen, deren linke Fläche schräg ist, lassen sich nur einschrauben, jedoch nicht lösen (Beispiel: Einweg-Schlitz).
+Um das Ansetzen der Schraube zu erleichtern, haben selbstformende Schrauben oft eine konische Spitze, manche besitzen ein leicht dreikantiges (trilobulares) Profil, zur Reduzierung der Reibung.
+Bohrschrauben sind an ihrer Spitze mit zwei Bohrschneiden ausgestattet, die geeignet sind, in Werkstücke ein Loch zu schneiden, in welchem sich das nachfolgende Gewinde selbsttätig verankert.
+Damit sich eine Mutter beim Anziehen nicht ins Material gräbt, sollte sie immer mit Unterlegscheibe verwendet werden.

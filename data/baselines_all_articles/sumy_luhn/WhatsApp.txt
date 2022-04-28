@@ -1,0 +1,25 @@
+So übermittelt WhatsApp standardmäßig alle Namen und Nummern aus Telefon-Adressbüchern seiner Nutzer an Server in den USA - auch von allen den Dienst nicht nutzenden Kontaktpersonen.
+Ein Grund für seine Kehrtwendung wird darin gesehen, dass Facebook sich dafür entschieden hat, WhatsApp nun doch für Werbung zu nutzen, um auf diese Weise Nutzerdaten zu monetarisieren.
+Zugrunde liegt der App das Extensible Messaging and Presence Protocol (XMPP) mit proprietären Erweiterungen, welches allerdings auf die Nutzung der WhatsApp-eigenen Server begrenzt ist.
+Während anfangs offiziell nur der Browser Google Chrome unterstützt wurde, wurde die Kompatibilität Ende Februar 2015 um die Browser Opera und Firefox erweitert.
+Ende November 2015 wurde bekannt, dass der WhatsApp-Client für Android Links zur Website des Konkurrenz-Messengers Telegram - telegram.org, telegram.me und telegram.com - innerhalb der App blockiert sowie das Kopieren des Links gezielt verhindert.
+Seit Anfang November 2019 scheint WhatsApp systematisch sämtliche Mitglieder von Gruppen mit bestimmten Namen zu sperren.
+Am 9. Januar 2012 berichtete die WhatsApp Inc., dass die betroffene Website endgültig gelöscht werden würde, jedoch war das Blockieren der IP-Adresse der Website die einzige Maßnahme, die getroffen worden war.
+Einige Tage später, am 13. Januar 2012, entfernte Apple WhatsApp ohne Angabe von Gründen vier Tage lang aus seinem App Store, bis eine neue App-Version bereitgestellt wurde.
+Da es sich bei WhatsApp um proprietäre Software handelt, ist es jedoch nicht möglich, zu überprüfen, ob tatsächlich eine sichere Verschlüsselung implementiert wurde oder ob potentielle Hintertüren eingebaut wurden.
+Am 13. Januar 2017 wurde auf der Website des Guardian veröffentlicht, dass der deutsche Sicherheitsforscher Tobias Boelter herausfand, dass WhatsApp beim Versenden von Nachrichten an Empfänger, die gerade nicht online sind, die Nachrichten automatisch erneut sendet, wenn dem Sender zwischenzeitlich ein neuer öffentlicher Schlüssel des Empfängers mitgeteilt wird.
+In diesem Falle ist aber nicht mehr sichergestellt, dass der Empfänger dieser erneut gesendeten Nachricht tatsächlich der gewollte Empfänger ist.
+Wenn WhatsApp einem Nutzer gezielt einen neuen Schlüssel zuweist und somit das erneute Versenden einer Nachricht an einen von WhatsApp bestimmten Empfänger auslöst, kann dies beispielsweise Regierungen in die Lage versetzen, jede erneut gesendete Nachricht ebenfalls zu empfangen.
+Mit der Datenschutzerklärung vom 25. August 2016 räumt sich WhatsApp allerdings das Recht ein, regelmäßig Telefonnummern von Kontakten im Adressbuch des Nutzers an Facebook weiterzugeben.
+Facebook habe keine eindeutige Zustimmung der Nutzer von WhatsApp zur Weitergabe und Verwendung der Daten eingeholt.
+Am 7. Januar 2021 wurden die Nutzungsbedingungen geändert: Ohne ausdrückliche Zustimmung des Nutzers zur Weitergabe von Daten an andere Facebook-Unternehmen wird der Zugriff dieses Nutzers auf WhatsApp gesperrt.
+Der Verbraucherzentrale Bundesverband klagte 2014 vor dem Landgericht Berlin erfolgreich gegen WhatsApp, da die Allgemeinen Geschäftsbedingungen (AGB) des Messaging-Dienstes nur auf Englisch zur Verfügung standen.
+Im Januar 2017 hat der Verbraucherzentrale Bundesverband (vzbv) erneut Klage vor dem Landgericht Berlin gegen WhatsApp eingereicht.
+In diesem Fall geht es darum, dass der Messenger-Dienst Daten seiner Nutzer teils widerrechtlich sammle, speichere und sie an Facebook weitergebe, was nunmehr zu unterlassen sei.
+Die Nutzung von WhatsApp ist nur zulässig, wenn der Nutzer mindestens 16 Jahre alt ist, sofern es sich um einen Nutzer mit Wohnsitz innerhalb einem Land in der sog.
+Europäischen Region (dazu gehört unter anderem die Europäische Union, die Schweiz, Norwegen, Vatikanstadt sowie deren Hoheitsgebiete) handelt, bzw. mindestens 13 Jahre alt ist, sofern es sich um einen Nutzer mit Wohnsitz außerhalb der Europäischen Region, handelt.
+Bei der Installation der Software muss vom Nutzer nicht nur die Einhaltung der Nutzungsbedingungen bestätigt werden, sondern es erfolgt ergänzend eine ausdrückliche Abfrage, in der bestätigt werden muss, dass der Nutzer die Altersvoraussetzungen für die Nutzung des Programms erfüllt.
+Bei einer falschen Angabe liegt ein Verstoß gegen die Nutzungsbedingungen von WhatsApp vor und die Nutzung des Programms und der damit verbundenen Netzwerkinfrastruktur erfolgt illegal.
+Während die Zahl der Nutzer weltweit im August 2014 noch bei 600 Millionen lag, stieg sie bis Anfang Februar 2016 auf eine Milliarde, die täglich 42 Milliarden Nachrichten, 1,6 Milliarden Fotos und 250 Millionen Videos versandten.
+Ab Anfang 2012 veröffentlichte Mounib Al Rifai (Rafalense) einen modifizierten WhatsApp-Client für Android unter dem Namen WhatsApp+ bzw. WhatsApp Plus, mit welchem zusätzliche Funktionen wie das Ändern des Themes und erweiterte Privatsphäreoptionen ermöglicht wurden.
+Das Open WhatsApp Project war eine andere quelloffene Neuimplementierung der WhatsApp-Client-Software durch eine von WhatsApp unabhängige Gruppe, welche inzwischen ebenfalls eingestellt wurde.

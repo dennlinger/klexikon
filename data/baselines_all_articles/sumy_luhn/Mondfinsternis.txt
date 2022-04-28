@@ -1,0 +1,25 @@
+Deutlich wahrzunehmen ist dieses Ereignis, wenn der Mond nicht nur durch den ringförmigen Halbschatten der Erde läuft, sondern ganz oder teilweise auch durch den kreisförmigen inneren Kernschatten.
+In beiden Fällen wird zwischen totalen und partiellen Finsternissen unterschieden, je nachdem, ob der Mond ganz oder nur teilweise in den jeweiligen Schatten eintaucht.
+Er befindet sich dabei meist nicht in der Ebene der Umlaufbahn der Erde um die Sonne (Ekliptik), da die Ebene der Umlaufbahn des Mondes reichlich 5° gegenüber der Ekliptik geneigt ist.
+Nach den sechs Lunationen, die mit etwa 177 Tagen etwas weniger als ein halbes Jahr dauern, hat die Erde also noch nicht die Hälfte ihrer Bahn (oder 180°) absolviert.
+Auch der Gegenknoten liegt nach dieser Zeit nicht genau gegenüber der Ausgangsstellung, denn die Knotenlinie hat sich leicht gegenläufig gedreht und zeigt schon nach etwa 173 Tagen (ein halbes Finsternisjahr) wieder zur Sonne.
+Über etwa 10,6° Knotendistanz läuft der Mond nicht mehr durch den Kernschatten und es sind nur noch Halbschattenfinsternisse möglich, jenseits von etwa 16,7° befindet er sich auch außerhalb des Halbschattens.
+Tritt der Mond während der Finsternis vollständig ("total") in den Kernschatten der Erde ein, so handelt es sich um eine totale Kernschattenfinsternis, auch totale Mondfinsternis genannt.
+Dabei handelt es sich immer um eine totale Kernschattenfinsternis, da der Durchmesser des Mondes immer deutlich kleiner als der Radius des Kernschattens ist.
+Tritt der Mond während der Finsternis nur teilweise ("partiell") in den Kernschatten der Erde ein, handelt es sich um eine partielle Kernschattenfinsternis.
+Tritt der Mond während der Finsternis vollständig in den Halbschatten der Erde ein, ohne im Verlauf den Kernschatten zu berühren, handelt es sich um eine totale Halbschattenfinsternis.
+Totale Halbschattenfinsternisse sind selten, da der Ring des Halbschattens selbst im günstigsten Fall nur maximal 11 Prozent breiter als der Durchmesser des Mondes ist und der Mond nahezu passend durch den Halbschatten ziehen muss.
+Ist der Halbschatten schmaler als der Durchmesser des Mondes, kann keine totale Halbschattenfinsternis auftreten, es sind nur partielle Halbschatten- oder partielle Kernschattenfinsternisse möglich.
+Tritt der Mond während der Finsternis nur teilweise in den Halbschatten der Erde ein, handelt es sich um eine partielle Halbschattenfinsternis.
+Im über mehrere Jahrhunderte gemittelten Durchschnitt sind Halbschattenfinsternisse ungefähr halb so häufig wie Kernschattenfinsternisse (37 Prozent bzw. 63 Prozent; etwa 88 bzw. 154 Ereignisse pro Jahrhundert).
+Kernschattenfinsternisse treten etwas weniger oft als totale denn als partielle Finsternisse auf (29 Prozent bzw. 34 Prozent aller Mondfinsternisse; etwa 70 bzw. 84 Ereignisse pro Jahrhundert).
+Im 21. Jahrhundert sind allerdings deutlich mehr totale (85) als partielle (57) Kernschattenfinsternisse zu erwarten, denn der Mond durchläuft in diesem Jahrhundert häufiger als im Durchschnitt bei Vollmond nahe der Erde deren breiteren Schatten.
+Werte ab 1 kennzeichnen eine totale Halbschattenfinsternis; sie kann nur eintreten, wenn der Halbschatten mindestens so breit wie der Mond ist.
+Somit ergeben sich die äquatorialen Winkelkoordinaten a {\displaystyle a} und d {\displaystyle d} der Polachse aus den Ephemeriden der Sonne wie folgt:
+Zusammen mit dem Mondradius r m {\displaystyle r_{m}} (ebenfalls als Sehwinkel angegeben) lassen sich diejenigen Abstände  i {\displaystyle \sigma _{i}} ( L i {\displaystyle L_{i}} in nebenstehender Skizze) des Mondes vom Mittelpunkt des Erdschattens berechnen, die die Kontakte des Mondes mit den Schattenrändern kennzeichnen:
+Die Größen x {\displaystyle x\!\,} , y {\displaystyle y\!\,} ,  {\displaystyle \sigma \!\,} , L 1 {\displaystyle L_{1}\!\,} , L 2 {\displaystyle L_{2}\!\,} , L 3 {\displaystyle L_{3}\!\,} , f 1 {\displaystyle f_{1}\!\,} und f 2 {\displaystyle f_{2}\!\,} sind astronomische Elemente, die gelegentlich auch "Besselsche Elemente einer Mondfinsternis" genannt werden.
+Durch Rayleigh-Streuung an den Molekülen der Erdatmosphäre werden die kurzwelligen blauen Anteile vom weißen Sonnenlicht deutlich stärker in andere Richtungen gestreut als die langwelligen roten Anteile.
+Die folgenden Abbildungen zeigen dasselbe Bild einer Mondfinsternis beim Austritt aus dem Kernschatten in den drei Primärfarben Rot, Grün und Blau.
+In der Tat erscheint der Schattenkegel der Erde wegen der Atmosphäre etwa 2 Prozent größer, ein Effekt, auf den bereits Philippe de La Hire im frühen 18. Jahrhundert hinwies.
+In diesem Fall werden alle Objekte zwischen der halben hyperfokalen und unendlicher Distanz hinreichend scharf abgebildet.
+Höhere Werte, wie zum Beispiel der Wert für das direkte Sonnenlicht von 5500 Kelvin, ergeben Bilder mit stärkerem roten Anteil, der der subjektiven Assoziation zur Farbe von Blut häufig näher kommt.

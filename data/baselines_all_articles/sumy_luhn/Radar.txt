@@ -1,0 +1,25 @@
+Radar ist die Abkürzung für radio detection and ranging (frei übersetzt "funkgestützte Ortung und Abstandsmessung") oder radio direction and ranging (frei übersetzt "funkgestützte Richtungs- und Abstandsmessung"), zwischenzeitlich radio aircraft detection and ranging (frei übersetzt "funkbasierte Flugzeugortung und -abstandsmessung") und ist die Bezeichnung für verschiedene Erkennungs- und Ortungsverfahren und -geräte auf der Basis elektromagnetischer Wellen im Radiofrequenzbereich (Funkwellen).
+Der Begriff Radar hat in der Vergangenheit die ursprüngliche deutsche Bezeichnung Funkmeß ersetzt.
+Ein Radargerät ist ein Gerät, das ein sogenanntes Primärsignal als gebündelte elektromagnetische Welle aussendet, die die von Objekten reflektierten Echos als Sekundärsignal empfängt und nach verschiedenen Kriterien auswertet.
+Aus den empfangenen, vom Objekt reflektierten Wellen können u. a. folgende Informationen gewonnen werden:
+Da die Wellenlänge des Radars je nach Anwendung und Stand der Technik im Bereich der Funkwellen im Kurz- bis Mikrowellenbereich liegt, wurde ursprünglich die Bezeichnung Funkmeßtechnik (kurz Funkmeß) verwendet.
+Der Nutzen der Radartechnik wurde jedoch zunächst nicht erkannt und so geriet die Erfindung vorläufig in Vergessenheit.
+Watson-Watt war maßgeblich an der Entwicklung der britischen Radaranlagen im Zweiten Weltkrieg beteiligt.
+Im Zuge der militärischen Aufrüstung in dieser Zeit wurden ab Mitte der 1930er Jahre in mehreren Ländern unabhängig voneinander intensiv Radargeräte und -systeme entwickelt, besonders von Deutschen und Briten.
+Schnell wurden jedoch verbesserte Systeme entwickelt, die diese Störer herausfiltern konnten.
+Bereits Ende der 1970er Jahre entstanden erste Systeme von Abstandswarnradaren für den Automobilbereich.
+In der Raumfahrt wird Radartechnik seit Mitte der 1990er vor allem zur Vermessung der Erde und anderer Planeten genutzt.
+Es lassen sich neben der Entfernung auch die radiale Geschwindigkeit der Objekte und deren ungefähre Größe ermitteln.
+Die Laufzeit  t {\displaystyle \Delta t} des Impulses ist die Zeit zwischen dem Senden und dem Empfang des Echos.
+Für die Entfernung r {\displaystyle r} gilt der Zusammenhang:
+Je nach Reichweite des Radargerätes wird nach einem gesendeten Impuls einige Mikro- bis Millisekunden lang empfangen, bevor der nächste Impuls ausgesendet wird.
+Da sich die Sendefrequenz eines Magnetrons in Abhängigkeit von Temperatur und Betriebszustand ändern kann, wird bei Messungen der relativen Radialgeschwindigkeit die Frequenzreferenz beim Empfang aus der Sendefrequenz abgeleitet (siehe pseudokohärentes Radar).
+Moderne Radargeräte benötigen für Reichweiten von mehreren 100 km sehr viel weniger Energie und senden teilweise Pulse mit einer Pulsleistung unter einem Megawatt.
+Bei der Verwendung vieler kleiner, in Verbund arbeitender Sender oder bei Geräten mit aktiven Phased-Array-Antennen kann auf die Röntgenstrahlen aussendenden Schaltröhren verzichtet werden.
+Aus der Abhängigkeit der Stärke des Echos von der Orientierung der Antenne kann sehr genau die Richtung bestimmt werden.
+Dazu muss die Bewegung der Antenne relativ zu dem beobachteten (starren) Objekt genau bekannt und die Phase der ausgesendeten Impulse kohärent zueinander sein.
+Ein in moderneren Radargeräten verwendetes Konzept ist der PAT (Power-Amplifier-Transmitter).
+Eine weiterentwickelte Art sind die FMCW (frequency modulated continuous wave) Radargeräte, auch Modulated CW-Radar oder FM-Radar.
+Durch die lineare Änderung der Frequenz und durch das stetige Senden ist es möglich, neben der Differenzgeschwindigkeit zwischen Sender und Objekt auch gleichzeitig deren absolute Entfernung voneinander zu ermitteln.
+Ursache dafür ist die verwendete sägezahnförmige Modulation, wegen der das Broadband Radar nicht zwischen Frequenzdifferenz verursacht durch Laufzeit und Frequenzdifferenz verursacht durch Doppler-Effekt unterscheiden kann.
+Das ermöglicht neue Konzepte beim Aufbau größerer Radarsysteme.

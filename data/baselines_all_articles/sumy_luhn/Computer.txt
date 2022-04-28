@@ -1,0 +1,25 @@
+Ein Computer (englisch; deutsche Aussprache ) oder Rechner ist ein Gerät, das mittels programmierbarer Rechenvorschriften Daten verarbeitet.
+Charles Babbage und Ada Lovelace gelten durch die von Babbage 1837 entworfene Rechenmaschine Analytical Engine als Vordenker des modernen universell programmierbaren Computers.
+Die frühen Computer wurden auch (Groß-)Rechner genannt; ihre Ein- und Ausgabe der Daten war zunächst auf Zahlen beschränkt.
+Zwar verstehen sich moderne Computer auf den Umgang mit weiteren Daten, beispielsweise mit Buchstaben und Tönen.
+Der deutsche Begriff Rechner ist abgeleitet vom Verb rechnen.
+Der englische Begriff computer war ursprünglich eine Berufsbezeichnung für Hilfskräfte, die immer wiederkehrende Berechnungen (z.
+Doch finden sich noch weitere Titel, z.
+Die Angestellten, die dort rechneten, wurden "computer" (im Sinne eines menschlichen Computers) genannt.
+Erstmals wurde der Begriff 1946 bei der dort entwickelten elektronischen Rechenanlage Electronic Numerical Integrator and Computer (ENIAC) für ein technisches Gerät verwendet.
+Grundsätzlich unterscheiden sich zwei Bauweisen: Ein Rechner ist ein Digitalrechner, wenn er mit digitalen Geräteeinheiten digitale Daten verarbeitet (also Zahlen und Textzeichen); er ist ein Analogrechner, wenn er mit analogen Geräteeinheiten analoge Daten verarbeitet (also kontinuierlich verlaufende elektrische Messgrößen wie Spannung oder Strom).
+Bei einem Digitalrechner werden dabei zwei grundsätzliche Bestandteile unterschieden: Die Hardware, die aus den elektronischen, physisch anfassbaren Teilen des Computers gebildet wird, sowie die Software, die die Programmierung des Computers beschreibt.
+Die Hardware stellt erstens einen Speicher bereit, in dem Daten portionsweise wie auf den nummerierten Seiten eines Buches gespeichert und jederzeit zur Verarbeitung oder Ausgabe abgerufen werden können.
+Zweitens verfügt das Rechenwerk der Hardware über grundlegende Bausteine für eine freie Programmierung, mit denen jede beliebige Verarbeitungslogik für Daten dargestellt werden kann: Diese Bausteine sind im Prinzip die Berechnung, der Vergleich und der bedingte Sprung.
+Ein Digitalrechner kann beispielsweise zwei Zahlen addieren, das Ergebnis mit einer dritten Zahl vergleichen und dann abhängig vom Ergebnis entweder an der einen oder der anderen Stelle des Programms fortfahren.
+Jede Software ist im Prinzip eine definierte, funktionale Anordnung der oben geschilderten Bausteine Berechnung, Vergleich und bedingter Sprung, wobei die Bausteine beliebig oft verwendet werden können.
+Diese Anordnung der Bausteine, die als Programm bezeichnet wird, wird in Form von Daten im Speicher des Computers abgelegt.
+Bezüglich des Speicherwerks ist eine wesentliche Designentscheidung der Von-Neumann-Architektur, dass sich Programm und Daten einen Speicherbereich teilen (dabei belegen die Daten in aller Regel den unteren und die Programme den oberen Speicherbereich).
+Sie bekommt die Werte von der Steuereinheit geliefert, verrechnet sie (addiert beispielsweise zwei Zahlen) und gibt den Wert an die Steuereinheit zurück, die den Wert dann für einen Vergleich verwenden oder in eine andere Speicherzelle schreiben kann.
+Die ersten Computer wurden auch tatsächlich so programmiert, dass man die Nummern von Befehlen und von bestimmten Speicherzellen so, wie es das Programm erforderte, nacheinander in die einzelnen Speicherzellen schrieb.
+Die Bibliotheken wurden in übergeordneten Bibliotheken gebündelt, welche Unterfunktionen zu komplexen Operationen verknüpfen (Beispiel: die Anzeige eines Buchstabens "A", bestehend aus 20 einzelnen schwarzen und 50 einzelnen weißen Punkten auf dem Bildschirm, nachdem der Benutzer die Taste "A" gedrückt hat).
+Auf der untersten Ebene findet sich aber immer der so genannte Maschinencode - jene Abfolge von Zahlen, mit der der Computer auch tatsächlich gesteuert wird.
+Zukünftige Entwicklungen bestehen voraussichtlich aus der möglichen Nutzung biologischer Systeme (Biocomputer), weiteren Verknüpfungen zwischen biologischer und technischer Informationsverarbeitung, optischer Signalverarbeitung und neuen physikalischen Modellen (Quantencomputer).
+Künstliche Intelligenz wird heute (2017) bereits in vielen Anwendungen, auch alltäglichen, eingesetzt (s. Anwendungen der künstlichen Intelligenz).
+Diese Rechenleistung haben Supercomputer bereits deutlich überschritten.
+Für weitere Entwicklungen und Trends, von denen viele noch den Charakter von Schlagwörtern bzw. Hypes haben, siehe Autonomic Computing (= Rechnerautonomie), Grid Computing, Cloud Computing, Pervasive Computing, ubiquitäres Computing (= Rechnerallgegenwart) und Wearable Computing.

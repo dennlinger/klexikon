@@ -1,0 +1,25 @@
+Beim Karteninhalt unterscheidet man zwei Hauptgruppen von Karten: topografische Karten (Landkarten, Seekarten ...) und thematische Karten.
+In ihnen werden raumbezogene Gegenstände, Sachverhalte oder Prozesse maßstäblich generalisiert und mit Hilfe eines Zeichensystems grafisch in ihren Raumbeziehungen dargestellt.
+Traditionell wird eine Karte auf Papier gedruckt, wobei ihre thematischen Ebenen (engl. Layer) wie Gelände, Flüsse, Straßen, Wald usw. im Mehrfarbendruck aufgebracht werden.
+In der Darstellungsebene (Papier, Karte, Bildschirm) repräsentieren und veranschaulichen diese Punkte, Zeichen, Linien und Flächen die abzubildenden Raumphänomene.
+Digitale Karten sind im Rasterformat oder Vektorformat elektronisch auf einem Datenträger gespeichert und lassen sich mit Hilfe elektronischer Geräte in unterschiedlicher Form ausgeben, z.
+Da Karten gegenüber der realen Welt grundsätzlich in einem Maßstabsverhältnis (Maßstab) stehen, kann man Karten auch nach ihrem Kartenmaßstab klassifizieren.
+Bei topografischen Karten bezeichnet man Karten bis zu einem Maßstab 1:10.000 als großmaßstäbig oder auch als topografische Grundkarten, solche mit einem Maßstab von 1:25.000 bis 1:100.000 als mittelmaßstäbig.
+Von Karten spricht man immer dann, wenn ihr Maßstab zu einer Generalisierung zwingt.
+Lassen sich Phänomene der realen Welt nahezu ungeneralisiert und dann meist großmaßstäbig darstellen, so spricht man von Plänen (Lageplan, Bebauungsplan).
+In erster Näherung hat man so topografische Karten von thematischen Karten unterschieden.
+B. in Luftfahrtkarten, Seekarten, geowissenschaftliche Karten, Wirtschaftskarten, politische Karten, historische (geschichtswissenschaftliche) Karten.
+Nach dem angegebenen Maß der Übereinstimmung von Karteninhalt und realer Welt kann man zwischen aktuellen Karten und veralteten Karten (Altkarten) unterscheiden.
+B. in Auto(fahrer)karten, Rad(fahrer)karten, Wanderkarten, Binnenschifffahrtskarten, Schulkarten usw.
+Nach dem Herausgeber einer Karte wird unterschieden in amtliche Karten und Karten der gewerblichen Verlagskartografie.
+Von der Verlagskartografie herausgegebene Karten sind für den Markt bestimmt und wenden sich an die Verbraucher (im Sektor Tourismus-, Freizeit- und Wanderkarten trifft diese Unterscheidung nicht immer zu, da auch viele Landesvermessungsbehörden solche für den Markt bestimmten Karten herausgeben).
+Während die digitale Karte grundsätzlich blattschnittfrei gespeichert und am Bildschirm blattschnittfrei durch "Scrollen" wiedergegeben wird, handelt es sich bei der gedruckten Karte immer um ein begrenztes Kartenblatt.
+Mehrere Kartenblätter, die die gleichen geodätischen Grundlagen, die gleiche Projektion, den gleichen Maßstab, den gleichen Blattschnitt und das gleiche Signaturen- und Gestaltungssystem besitzen, bilden ein Kartenwerk.
+Amtliche topografische Karten bilden so die Landeskartenwerke.
+Konfektionierte Karten, besonders die von der gewerblichen Verlagskartografie herausgegebenen, besitzen meist einen mit einem attraktiven Titel versehenen Kartenumschlag, der dann auch die Funktionen des Kartenrandes erfüllen kann.
+Für die Karte des Deutschen Reiches 1909 wurde noch der Kupferstich verwendet.
+Auch bei dieser Art der Vervielfältigung kann farbiger Druck zum Einsatz kommen, doch ist das Verfahren nur bei sehr großen Auflagen von Vorteil, da umfassendere Korrekturen stets eine Erneuerung der Druckplatten erforderlich machen.
+Meist wurde nur das Kartenbild grafisch umgearbeitet, ohne ausreichende (örtliche) geografische Kenntnisse der Bearbeiter und mangelnder Prüfungen vor Ort.
+Jede Karte eines größeren Gebietes hat gewisse Verzerrungen.
+Für alle anderen Anwendungen muss ein geeigneter Kartennetzentwurf (vgl. Liste von Kartennetzentwürfen) verwendet oder die Verzerrung rechnerisch bzw. grafisch berücksichtigt werden.
+Bei der Betrachtung und Verwendung einer Karte ist immer ein gewisses Maß an Skepsis angebracht, besonders wenn sie erkennbar zur Verfolgung eines bestimmten Ziels erstellt wurde.

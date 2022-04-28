@@ -1,0 +1,25 @@
+Ein Magnet (von mittelhochdeutsch magnete, "Magnet, Magneteisenstein") ist ein Körper, der ein magnetisches Feld in seiner Umgebung erzeugt.
+In diesem Feld werden bestimmte andere Körper magnetisch angezogen oder abgestoßen.
+Magnetische Anziehung oder Abstoßung ist ein grundlegendes Naturphänomen - siehe dazu den Artikel Magnetismus.
+Die Richtung und Stärke magnetischer Kräfte kann man durch Feldlinien anschaulich darstellen.
+Die Oberflächenbereiche, die vom überwiegenden Teil des Magnetfeldes durchsetzt werden, heißen die Pole des Magneten; nach gängiger Konvention treten die Feldlinien am "Südpol" (meist grün dargestellt) in den Magneten ein und am "Nordpol" (rot) aus.
+Magnetische Monopole, also einzelne Nord- oder Südpole ohne ihren Widerpart, sind spekulativer Natur und konnten bisher nicht experimentell nachgewiesen werden.
+Zwar haben Experimente monopolähnliche Strukturen in bestimmten Festkörpern nachgewiesen; diese treten aber nur paarweise auf und können zwar als Quellen der Magnetisierung, aber nicht des Magnetfelds selbst angesehen werden (siehe Magnetischer Monopol).
+Auch viele Gesteine haben magnetische Eigenschaften.
+Das Erdmagnetfeld, nach dem sich Kompassnadeln ausrichten, entsteht nur zu einem geringen Teil durch solche magnetisierten Gesteine in der Erdkruste und zum großen Teil durch tiefer liegende Strömungen von elektrisch leitender Materie, also konkreten, makroskopischen Strömen.
+Bevor der Zusammenhang von Magnetismus und Elektrizität bekannt wurde, waren magnetische Phänomene und Nutzungen nur unter Zuhilfenahme natürlicher Magneteisensteine zu beobachten und zu verwenden.
+Die ungebrochene Faszination des auch im 18. Jahrhundert in seinen Ursachen noch unklaren Magnetismus spiegelt der lange Artikel Magnet in der Oekonomischen Encyclopädie von Johann Georg Krünitz.
+Verwendung finden Dauermagneten in Kompassen als Magnetnadel, in Elektromotoren, in elektrischen Messinstrumenten (zum Beispiel Drehspulinstrumenten), in Lautsprechern, Kopfhörern, Mikrofonen und Gitarrentonabnehmern sowie in vielen anderen modernen Geräten wie Druckköpfen von Nadeldruckern, Festplattenlaufwerken, Aktoren und Sensoren und Metall-Abscheidern.
+Mit Hilfe eines von einem anderen magnetischen Körper oder durch elektrischen Strom erzeugten Magnetfeldes können ferromagnetische Stoffe vorübergehend (sogenannter induzierter Magnetismus) oder dauerhaft durch Ausrichtung der Weiss-Bezirke selbst zu Magneten werden.
+Auf diese Weise werden übliche Dauermagneten hergestellt.
+Elektromagneten bestehen im Allgemeinen aus einer oder zwei stromdurchflossenen Spulen, meistens mit einem Kern aus einem weichmagnetischen Werkstoff, im einfachsten Fall aus Weicheisen.
+Diese Anordnung führt zu einem starken Magnetfeld, siehe hierzu Elektromagnetismus.
+Man verwendet Elektromagneten für zahlreiche kleine und große technische Einrichtungen, z.
+Diese Feststoffe bestehen überwiegend aus Eisenoxiden.
+Ab einer magnetischen Flussdichte von etwa 2 T (Sättigungsfeldstärke) sind die üblichen ferromagnetischen Werkstoffe für den Kern eines Elektromagneten in der Sättigung und können nicht mehr zur Verstärkung des Feldes beitragen.
+Bei Verwendung von supraleitenden Werkstoffen zur Wicklung eines Elektromagneten ist es möglich, magnetische Flussdichten bis ca.
+Da die Sprungtemperatur der Supraleitung bei solchen Magnetfeldern und Stromdichten stark absinkt, müssen die Spulen dazu in mit flüssigem Helium gefüllten Kryostaten durch Siedekühlung bei Unterdruck auf deutlich unter 4 K gekühlt werden.
+Ein Ablenkmagnet ist ein Magnet (fast immer Elektromagnet), der in einem technischen Gerät eingesetzt wird, um einen Strahl aus geladenen Teilchen (z.
+Ablenkmagneten nutzen die Lorentzkraft, die bewegte elektrische Ladungen in einem magnetischen Feld zu einer Richtungsänderung zwingt.
+Kommt ein magnetisch aufzeichnender Datenträger (Festplatte, Magnetstreifen einer Kreditkarte, Tonbandspulen o.
+Die Festplatten aufliegender Laptops wurden durch diese Magnethalterungen nicht nur gelöscht, sondern beschädigt, die Datenverluste konnten nicht rückgängig gemacht werden.

@@ -1,0 +1,25 @@
+Obwohl seit Mitte der 1990er Jahre bekannt, sind diese Wortschöpfungen zwar in diversen sprachkritischen Publikationen zu finden, haben aber in der Alltagssprache keine praktische Bedeutung erlangt.
+Rasanten Auftrieb erhielt das Internet ab 1993, als der erste grafikfähige Webbrowser namens Mosaic veröffentlicht und zum kostenlosen Download angeboten wurde, der die Darstellung von Inhalten des WWW ermöglichte.
+Bis zur New Economy ab dem Jahr 1998 war zudem die Bedeutung des Internets seitens der Politik unterschätzt worden.
+International wird das Internet durch verschiedene Staaten überwacht, kontrolliert und teilweise gesperrt, so etwa beim in Teilen gesperrten Internet in der Volksrepublik China oder Aufbau eines vom Staat kontrollierbaren Internets in Russland.
+Der Begriff digitale Kluft beschreibt Unterschiede im Zugang zu und der Nutzung von Informations- und Kommunikationstechnologie, insbesondere dem Internet, zwischen Volkswirtschaften bzw. verschiedenen Bevölkerungsgruppen aufgrund von technischen und sozioökonomischen Faktoren.
+Diese Technik blieb aber Experten vorbehalten, wie auch der Zugang zu weltweiten TCP/ IP-Netzen lange Zeit zunächst nur über Universitäten möglich war.
+Erst mit der kommerziellen Verbreitung der Internet-E-Mail Anfang der 1990er und durchgreifend dann mit dem World Wide Web etablierte sich das Internet seit Mitte der 1990er Jahre zunehmend als Standard für die Verbreitung von Informationen jeder Art.
+Schätzungen zufolge wurden im Jahr 2005 nur drei Prozent der zwischen europäischen oder US-amerikanischen Städten verlegten Glasfasern benutzt.
+Darauf wird der Austausch von Erreichbarkeitsinformationen zwischen jeweils zwei Netzen vertraglich und technisch als Peering, also auf der Basis von Gegenseitigkeit organisiert und somit der Datenaustausch ermöglicht.
+Da in der Regel ein autonomes System, wie ein Internetprovider, nicht alle anderen auf diese Art erreichen kann, benötigt es selbst mindestens einen Provider, der den verbleibenden Datenverkehr gegen Bezahlung zustellt.
+Für die Kommunikation zwischen zwei Nutzern existieren meistens mehrere mögliche Wege über Router mit verschiedenen Betriebssystemen, und erst bei der tatsächlichen Datenübertragung wird entschieden, welcher benutzt wird.
+Deshalb hat der Ausfall einer physikalischen Verbindung im Kernbereich des Internets meistens keine schwerwiegenden Auswirkungen; nur ein Ausfall der einzigen Verbindung auf der letzten Meile lässt sich nicht ausgleichen.
+Die Netzwerkprotokolle sind je nach Aufgabe verschiedenen Schichten zugeordnet, wobei Protokolle höherer Schicht samt Nutzdaten in den Nutzdaten niederer Schichten transportiert werden.
+Der Browser fragt dann zuerst mittels IP-Paket einen ihm bekannten DNS-Server nach der IP-Adresse des fremden Namens und tauscht dann IP-Pakete mit dieser Adresse aus, um die Inhalte der dort angebotenen Dienste wie beispielsweise Webseiten abzurufen.
+Zum Ermitteln der IP-Adresse befragt oft der DNS-Server selbst der Hierarchie folgend andere DNS-Server.
+Auch das DNS selbst ist genau genommen schon ein solcher, wenn auch sehr grundlegender Dienst, ohne den die Nutzer zum Verbinden mit anderen Rechnern IP-Adressen statt Namen angeben müssten.
+Zwischen autonomen Systemen geschieht der Austausch dieser Erreichbarkeitsinformationen heute ausschließlich über das Border Gateway Protocol, innerhalb eines autonomen Systems stehen viele andere Routingprotokolle zu Verfügung.
+In den Nutzdaten des Internetprotokolls werden abhängig vom verwendeten Dienst immer noch Protokolle höherer Schichten (wie TCP oder UDP) übertragen, so wie ein ISO-Container im Güterverkehr Postpakete beinhalten kann, in denen wiederum Güter eingepackt sind.
+Bei IPv4 erhalten oft viele Arbeitsplatzrechner in dem Netzwerk einer Firma oder Organisation private IP-Adressen, die bei nach außen gerichteter Kommunikation per Network Address Translation (NAT) auf wenige öffentliche, global eindeutige IP-Adressen übersetzt werden.
+Im Jahr 2003 wurden in Deutschland etwa 6,8 Milliarden Kilowattstunden elektrischer Strom für den Betrieb des Internets benötigt, für das Jahr 2010 gehen Schätzungen von einem Energiebedarf des Internets von 31,3 Milliarden Kilowattstunden nur in Deutschland aus.
+Zu dieser Zeit wurden damit etwa 0,8 % der weltweiten Stromerzeugung für den Betrieb des Internets benötigt.
+Im Jahr 2012 betrug das Datenaufkommen im festverkabelten, öffentlich zugänglichen Internet mehr als 26,7 Exabyte (1 Exabyte = 1 Mrd. Gigabyte) pro Monat, was einem täglichen Datenaufkommen von annähernd einem Exabyte entspricht.
+In der EU nutzten Anfang 2008 mehr als die Hälfte (51 Prozent) der 500 Millionen EU-Bürger regelmäßig das Internet, wobei 40 Prozent das Internet gar nicht benutzten.
+Besonders verbreitet war das Internet bereits in Estland, da Estland per Gesetz den kostenlosen Zugang ins Internet garantierte.
+Die ARD-ZDF-Onlinestudie stellte fest, dass im Jahr 2013 77,2 % der Bevölkerung ab 14 Jahren in Deutschland online waren, was 54,2 Millionen Menschen entspricht.

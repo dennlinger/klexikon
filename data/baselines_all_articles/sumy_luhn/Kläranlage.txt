@@ -1,0 +1,25 @@
+Zur Reinigung der Gewässer verunreinigenden Bestandteile der Abwässer werden mechanische (auch physikalische genannt), biologische und chemische Verfahren eingesetzt.
+Das Regenentlastungssystem dient dem Zweck, eine wirtschaftliche Dimensionierung der Kläranlagen zu erreichen, indem diese eine hydraulische Belastung nur bis zu einem bestimmten Regenereignis verarbeiten müssen.
+Wenn keine derartigen Einrichtungen vorhanden sind, müssen die einzelnen Bauwerke der Kläranlage in der Folge größer ausfallen und die technischen Ausrüstungen, wie Pumpen, eine höhere Leistung aufbieten.
+Ein Sandfang ist ein Absetzbecken mit der Aufgabe, grobe, absetzbare Verunreinigungen aus dem Abwasser zu entfernen, so beispielsweise Sand, kleine Steine oder Glassplitter.
+Der dabei entstehende Primärschlamm muss anschließend einer weiteren Behandlung, wie einem Faulturm, zugeführt werden.
+Bei modernen Anlagen mit Stickstoffentfernung kann dieser Anlagenteil entfallen oder ist klein bemessen, da die organischen Stoffe des Abwassers als Reduktionsmittel zur Stickstoffentfernung mittels Denitrifikation (Reduktion von Nitrat (NO3-) zu Stickstoff (N2)) im anoxischen Teil beziehungsweise in der anoxischen Phase der biologischen Stufe benötigt werden.
+B. Hefen) Kohlenstoffverbindungen größtenteils zu Kohlenstoffdioxid abgebaut sowie zu Biomasse umgesetzt und der Stickstoff aus den organischen Verbindungen wird durch andere Bakterien zunächst als Ammoniak abgespaltet und dann mit Sauerstoff zu Nitraten oxidiert (Nitrifikation).
+Das Belebtschlammverfahren wird zumeist mit kontinuierlichem Durchlauf betrieben, das heißt, in das Belebungsbecken läuft kontinuierlich Abwasser zu und im selben Maß läuft Belebtschlamm enthaltendes Wasser kontinuierlich ab.
+Hierbei läuft das Abwasser nicht kontinuierlich zu, sondern immer nur in begrenzter Menge, die dann nach dem Belebtschlammverfahren gereinigt wird (Nitrifikation und Denitrifikation).
+Das Festbettverfahren ist eine weitere Sonderform des Belebtschlammverfahrens, welches vor allem bei kleinen Anschlussgrößen zur Anwendung kommt (s. a. Kleinkläranlage).
+Stabilisierung bedeutet hier den weitgehenden Abbau der im Klärschlamm enthaltenden organischen Substanz (Mineralisierung) und erfolgt auf kleinen Kläranlagen aerob direkt in der Belebung und auf großen Kläranlagen anaerob in Faultürmen.
+Die Stabilisierung hat zum Ziel, dass im Anschluss biologische oder chemische Umsetzungsprozesse nur noch begrenzt oder sehr langsam ablaufen, damit eine Klärschlammverwertung erfolgen kann.
+Der Schlamm wird damit auf aerobem Wege so stabilisiert, dass es bei der anschließenden Entsorgung zu keinen weiteren Abbauprozessen und somit zu keinen Geruchsbelästigungen kommt.
+Nachteilig ist der relativ hohe Energieverbrauch, der sich aus der für diesen Prozess erforderlichen Belüftung ergibt.
+Der darin abgetrennte Primärschlamm wird zusammen mit dem Überschussschlamm aus der Belebung unter sauerstoffarmen Bedingungen durch anaerobe Bakterienstämme und methanogene Archaea zu Faulschlamm und brennbarem Faulgas abgebaut.
+In der Praxis werden bei der Schlammfaulung die im Rohschlamm enthaltenen rund 70 Prozent organische Trockensubstanz auf etwa 50 Prozent verringert.
+Theoretisch ginge der Abbau noch weiter, verliefe aber sehr viel langsamer, da die restliche organische Substanz schwer abbaubar ist.
+Auch wenn die gesetzeskonforme Schlammverwertung noch in der Verantwortung der Kläranlagenbetreiber liegt, findet deren technische Umsetzung üblicherweise nicht auf den Kläranlagen selber statt.
+Der Gehalt an biotisch abbaubaren Stoffen wird mit dem Summenparameter biochemischer Sauerstoffbedarf, abgekürzt BSB, quantifiziert.
+Dies fußt auf der Annahme, dass etwa die Hälfte der abgebauten organischen Stoffe zum Biomassewachstum verwendet wird und Biomasse in der Trockensubstanz zu etwa zwölf Prozent aus Stickstoff und zu etwa zwei Prozent aus Phosphor besteht.
+Beim BSB5-Wert, dem biochemischen Sauerstoffbedarf während einer Messzeit von fünf Tagen bei 20 °C, wird jener Sauerstoffbedarf erfasst, der bei der Oxidation von organischen Stoffen durch aerobe Mikroorganismen entsteht.
+Der chemische Sauerstoffbedarf, abgekürzt CSB, gehört ebenfalls zu den Summenparametern, da damit keine Einzelverbindungen quantifiziert werden können.
+Er wird mittels der Oxidation der Abwasserinhaltsstoffe durch Kaliumdichromat bestimmt und erfasst den Sauerstoffbedarf zur Oxidation eines Großteils der organischen Stoffe.
+Mit etwa 0,56-0,71 Mrd. Tonnen CO2-Äquivalent sind diese Emissionen aus Kläranlagen für etwa 4,6 % - 5,2 % der globalen Nicht-CO2-Emissionen verantwortlich.
+Denn würde Abwasser ungereinigt in ein Gewässer eingeleitet werden, führte dies neben der entsprechenden Verschmutzung mit den üblichen Begleiterscheinungen (Eutrophierung, Fischsterben) zu einem erheblichen Anstieg der Treibhausgasemissionen.

@@ -1,0 +1,25 @@
+Bei einigen Suchbegriffen zeigt Google bereits auf der Ergebnisseite direkt Informationen, News und Bilder zum Suchbegriff an.
+Wenn der Benutzer ein Suchwort eintippt, werden seit 2008 Vorschläge für den gesuchten Begriff unter dem Tippfeld angezeigt, ursprünglich mit der ungefähren Ergebnisanzahl der einzelnen Vorschläge.
+Wenn kein Suchbegriff eingegeben wurde, landet der Benutzer auf einer Übersicht der Google Doodles.
+Neben den offiziell von Google gelisteten Schlüsselbegriffen bzw. Suchoperatoren gibt es noch weitere, welche ebenfalls existieren, jedoch nicht in der Google eigenen Übersicht auftauchen.
+Im Oktober 2011 hat Google angekündigt, Suchanfragen auf eine verschlüsselte Verbindung umzustellen, damit Angreifer im selben Netzwerk keine persönlichen Daten der Anwender mitlesen können.
+Google bietet für viele dieser Sprachen eigene Domains, unter anderem google.de (Deutschland), .li (Liechtenstein), .at (Österreich) und .ch (Schweiz).
+Google möchte damit auch verhindern, dass nicht relevante Seiten durch Manipulationen der Anbieter unangemessen hoch in den Ergebnissen präsentiert werden.
+Eine solche Optimierung ist in bestimmtem Maße von Google erwünscht, etwa um die Seite für Googles Algorithmen verständlicher zu gestalten.
+Die wichtigste Modifikation des Suchalgorithmus war der 2013 neu eingeführte Algorithmus Hummingbird, der zum Zeitpunkt der Einführung rund 90 % aller Suchanfragen beeinflusste.
+Damit soll es für den jeweiligen Benutzer relevantere Ergebnisse liefern, in dem es annimmt, dass etwa jemand, der sich in der Vergangenheit für die Sportart Golf und damit verwandte Begriffe interessiert hat, bei einer Suche nach "Golf" eher wieder die Sportart meint und nicht etwa das Auto VW Golf.
+Die ungefähre Anzahl der Dokumente im Index der Websuche wurde während der ersten sieben Jahre unten auf der Hauptseite eingeblendet.
+Seit dem siebten Geburtstag des Unternehmens Google im September 2005 wird die Größe des Index nicht mehr auf der Hauptseite angezeigt, da laut Eric Schmidt keine eindeutige Zählweise existiert.
+Im Jahr 2012 waren Google bereits über 30 Billionen URLs bekannt, wovon mehr als 20 Milliarden durchschnittlich täglich gecrawlt werden.
+Durch Ablage der einzelnen Datenstrukturen (Indizes, Dokumentenkopien, Verzeichnisse aller Art) auf verschiedenen Rechnern und die große Anzahl verfügbarer Einzelrechner lassen sich Anfragen sehr schnell beantworten, da durch die Parallelisierung der zu erledigenden Arbeit nur ein Bruchteil der Zeit benötigt wird, die ein einzelner Rechner benötigen würde.
+Die Map-Funktion erzeugt dabei in allen entsprechend entworfenen Anwendungen aus allen Eingabedaten (zum Beispiel der Gesamtheit aller betrachteten Webseiten) eine Liste von Zwischenresultaten in Form von Wertepaaren, die einen Schlüssel mit einem symbolischen Wert kombinieren.
+Die Menge der Zwischenresultate wird dann durch die Reduce-Funktion derart reduziert, dass mit jedem Schlüssel nur noch ein symbolischer Wert assoziiert ist, der sich aus der Menge aller symbolischen Werte für diesen Schlüssel in den Zwischenergebnissen ergibt.
+Eine typische Aufgabe wäre, unter Rückgriff auf das Beispiel weiter oben, alle (beispielsweise 43) Paare ('Wert','1') je Schlüssel zu einem einzigen Paar pro Schlüssel zu kombinieren - etwa ('Wert','43').
+Es kümmert sich um die Verteilung der Funktionalitäten der Daten und Zwischenergebnisse und um das Sammeln der Ergebnisse und beinhaltet zudem Maßnahmen zur Fehlerbehandlung durch redundante oder wiederholte Ausführung, zum Beispiel wenn ein einzelner Rechner ausfällt oder so schlechte Leistungen zeigt, dass er die Fertigstellung des Gesamtergebnisses übermäßig verzögern würde.
+Google selbst setzt den Algorithmus in steigendem Maße für seine eigene Arbeit ein.
+Nach Einführung von MapReduce im Jahre 2003 hatte sich die Anzahl der Produktionsanwendungen in der Code-Bibliothek von Google innerhalb von zwei Jahren auf fast 1000 Anwendungen deutlich vervielfacht.
+Auflage des Dudens als "mit Google im Internet suchen" bzw. "mit der Suchmaschine Google eine Information im Internet suchen" im Österreichischen Wörterbuch genauer definiert.
+Der deutsche Bundesgerichtshof entschied 2013, dass Google automatische Suchvorschläge ("Autovervollständigung", "autocomplete") entfernen muss, wenn sie Persönlichkeitsrechte verletzen, sobald Google über solch eine Rechtsverletzung informiert wurde (BGH, Urteil vom 14. Mai 2013, Az.
+In der Schweiz können private Personen eine Löschung eines Links fordern, sofern ein Link im Zusammenhang mit der eigenen Person im Suchergebnis von Google erscheint.
+Im August 2012 wurde bekannt, dass Google ab sofort auch Seiten mit urheberrechtsverletzenden Inhalten aus den Suchergebnisse entfernen oder deren Bewertung entsprechend herabsetzen will.
+Laut dem mit der Programmierung von Projekt Dragonfly betrauten Softwareentwickler Jack Poulsen, der aus Protest kündigte, sollte Google auf Wunsch Pekings innerhalb des neuen Produkts Suchanfragen chinesischer Nutzer mit deren individuellen Handynummern verknüpfen und so völlig transparent machen, wer in China nach welchen Begriffen sucht.

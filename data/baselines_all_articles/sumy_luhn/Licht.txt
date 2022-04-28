@@ -1,0 +1,25 @@
+Im engeren Sinne sind vom gesamten elektromagnetischen Spektrum nur die Anteile gemeint, die für das menschliche Auge sichtbar sind.
+Die physikalischen Eigenschaften des Lichts werden durch verschiedene Modelle beschrieben: In der Strahlenoptik wird die geradlinige Ausbreitung des Lichts durch "Lichtstrahlen" veranschaulicht; in der Wellenoptik wird die Wellennatur des Lichts betont, wodurch auch Beugungs- und Interferenzerscheinungen erklärt werden können.
+Damit konnte man zwar die Reflexion verstehen, nicht jedoch manche andere optische Phänomene, wie die Beugung, bei der es sich eindeutig um ein Wellenphänomen handelt.
+Kernpunkt dieser Hypothese ist der Welle-Teilchen-Dualismus, der das Licht nun nicht mehr ausschließlich als Welle oder ausschließlich als Teilchen beschreibt, sondern als Quantenobjekt.
+Daraus entstand Anfang des 20. Jahrhunderts die Quantenphysik und später die Quantenelektrodynamik, die bis heute unser Verständnis von der Natur des Lichts darstellt.
+Im engeren Sinne ist "Licht" nur der für das menschliche Auge sichtbare Teil des elektromagnetischen Spektrums, also Wellenlängen zwischen ca.
+Wie alle elektromagnetischen Wellen breitet sich auch sichtbares Licht im Vakuum mit der Lichtgeschwindigkeit von c = 299 792 458 m s {\displaystyle c\,=\,299\,792\,458\ {\frac {\text{m}}{\text{s}}}} aus .
+Daraus ergibt sich ein einfacher Zusammenhang zwischen der Lichtgeschwindigkeit, der magnetischen Feldkonstante  0 {\displaystyle \mu _{0} } und der elektrischen Feldkonstante  0 {\displaystyle \varepsilon _{0}} :
+Kurzwelliges blaues Licht (< 450 nm) wird bei normaler Dispersion stärker gebrochen als langwelliges rotes Licht (> 600 nm).
+Das Bindeglied zwischen Wellenoptik und Strahlenoptik ist der Wellenvektor, dessen Richtung mit der Richtung des Lichtstrahls übereinstimmt.
+Licht wird an der Grenzfläche zwischen zwei Medien unterschiedlicher optischer Dichte gebrochen, d. h., ein Strahl ändert an dieser Grenzfläche seine Richtung.
+(Der Vollständigkeit halber sei gesagt, dass an einer solchen Grenzfläche stets auch die Reflexion mehr oder weniger stark auftritt.)
+Der einfallende und der gebrochene Strahl sowie das Lot auf der Grenzfläche liegen in einer Ebene.
+Dabei ist der Winkel zwischen Lot und Lichtstrahl in dem Medium kleiner, das den höheren Brechungsindex hat.
+Wenn der einfallende Strahl aus dem optisch dichteren Medium unter einem flachen Winkel auf die Grenzfläche trifft, gibt es keinen reellen Winkel für den gebrochenen Strahl, der diese Bedingung erfüllt.
+Historisch nimmt die Wellenoptik von Huygens und Fresnel schon eine wesentliche Erkenntnis der Elektrodynamik vorweg: Lichtwellen sind elektromagnetische Wellen.
+In der Quantenphysik wird Licht nicht mehr als klassische Welle, sondern als Quantenobjekt aufgefasst.
+Dieses merkwürdige Verhalten der Photonen, das jedoch auch alle anderen Quantenobjekte zeigen, wurde mit dem Schlagwort "Welle-Teilchen-Dualismus" bezeichnet: Quantenobjekte sind weder wie klassische Teilchen noch wie klassische Wellen zu verstehen.
+Historisch wurde die quantenmechanische Beschreibung des Lichts notwendig, weil sich einige Phänomene mit der rein klassischen Elektrodynamik nicht erklären ließen:
+Das Spektrum eines thermischen Strahlers ist kontinuierlich, d. h., es treten alle Wellenlängen auf, wobei die spektralen Anteile nach dem Planckschen Strahlungsgesetz ausschließlich von der Temperatur abhängen, jedoch, abgesehen vom spektralen Emissionsgrad, nicht vom Material des Strahlers.
+Im Gegensatz dazu haben nicht-thermische Lichtquellen kein kontinuierliches Spektrum, sondern ein Linien- oder ein Bandenspektrum.
+Licht stellt für Pflanzen - neben der Verfügbarkeit von Wasser - den wichtigsten Ökofaktor dar, weil es Energie für die Photosynthese liefert.
+Die spektrale Zusammensetzung des Lichtreizes wird als Farbe wahrgenommen, wobei das menschliche Auge Licht mit Wellenlängen zwischen ca.
+Beispielsweise erscheint dem menschlichen Sehsinn eine Mischfarbe aus jeweils monochromatischem grünen und roten Licht gelb, während eine Mischung aus monochromatischem roten und blauen Licht als Magenta erscheint.
+Die Leistungen der Lichtsinnesorgane anderer Lebewesen unterscheiden sich zum Teil erheblich von denen des Menschen.

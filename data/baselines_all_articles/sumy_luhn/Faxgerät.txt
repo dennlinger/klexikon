@@ -1,0 +1,25 @@
+Als Sender und Empfänger dienen dabei meistens Faxgeräte für analoge Anschlüsse.
+Viele andere waren ebenfalls auf diesem Gebiet aktiv, so auch Rudolf Hell.
+Mitte der 1920er Jahre wurden mit diesem System auch Bilder per Rundfunk übertragen.
+Erste Geräte in Deutschland finden sich in den 1970er Jahren, damals noch unter der Bezeichnung Fernkopierer.
+Die Technik der Infotec 6000 war die Basis für den heute immer noch gültigen Gruppe-3-Standard.
+In Japan konnten sich Fernkopierer leichter durchsetzen, weil die bisher üblichen Fernschreiber mit ihren nur etwa 60 Zeichen die japanische Schrift, insbesondere die Kanji, nur unvollständig übertragen konnten.
+Zwischen Japan und Deutschland war wegen Norm-Unterschieden offiziell kein Fax-Verkehr möglich.
+Beim klassischen Fernschreiben war dieses Problem bereits gelöst: Durch einfachen Tastendruck konnten die Details der Gegenstation angefordert werden (Taste Wer Da?
+Für ISDN existiert mit der Norm G4 ein Standard für ein digitales Fax, der mit einer deutlich höheren Geschwindigkeit (64 kbit/s) als die Norm G3 für analoge Anschlüsse (bis 14,4 kbit/s; Super G3 bis 33,6 kbit/s) arbeitet, in der Praxis jedoch nur selten verwendet wird.
+In Schwarz-Weiß-Faxen werden die Bildinformationen nach dem Auslesen durch eine Fotodiodenzeile verlustfrei mit den Algorithmen MH (Modified Huffman, RLE-basiert), MR (Modified READ, auch als "Fax Group 3" oder eindimensionale Kodierung bezeichnet, siehe auch Error Correction Mode) oder MMR (Modified Modified READ, auch als "Fax Group 4" oder zweidimensionale Kodierung bezeichnet) komprimiert.
+Zum Beginn einer Verbindung, vor Übermittlung des Nachrichteninhalts, stimmen sich sendendes und empfangendes Gerät über die verwendete Kodierung ab.
+Dieses bestimmt die Länge der abgetasteten Zeile (Scanline).
+Im Annex E zu T.4 werden für Farbfaxe nicht nur die Auflösungen 200 dpi und 400 dpi, sondern zusätzlich 300 dpi, was 11,55 Zeilen/mm entspricht, zugelassen.
+So muss eine 1728 Pixel breite 200-dpi-Zeile etwa 219,5 mm lang sein; beim Ausdruck eines Farbfaxes kann das zu Problemen führen.
+Eine Scanline von 215 mm Breite entspricht den US-Formaten Letter und Legal, ist aber auf A4 nicht darstellbar.
+In diversen Dateiformaten, die zum Speichern von Faxdokumenten geeignet sind (zum Beispiel TIFF), werden für Faxdokumente häufig horizontale Auflösungen von 200, 203 oder 204 dpi sowie vertikale Auflösungen von 98/100 dpi und 196/200 dpi verwendet.
+Sie kann wenige Zeilen betragen oder sich über mehrere Papierseiten erstrecken, so dass beispielsweise ein zweiseitiges Faxdokument auf drei oder mehr Papierseiten ausgedruckt werden muss.
+Aufgrund des vermeintlichen Dokumentencharakters von Faxen war das Einstellen der Absendernummer in Faxgeräten in Deutschland bis Ende 1992 ausschließlich den Servicetechnikern des Geräteherstellers vorbehalten und die korrekte Einstellung wurde beim Eintrag in das Faxtelefonbuch überprüft.
+Auch ein qualifizierter Sendebericht ist somit kein rechtssicherer Beweis dafür, dass ein bestimmtes Schreiben einen bestimmten Empfänger überhaupt und/oder zu dem angegebenen Termin erreicht hat.
+Es existieren auch Kombilösungen, bei denen eine E-Mail an ein Gateway gesendet wird, welche diese dann als Fax weiterschickt (siehe Mail2Fax).
+Einige E-Mail-Anbieter bieten Faxnummern an, um eingehende Faxe in Dateien umzuwandeln und diese als E-Mail-Anlage an den Empfänger weiterzuleiten, der somit kein eigenes Faxgerät benötigt (Fax2Mail).
+Um 1980 wurden in Österreich zwischen Zeitungsredaktionen und Nachrichtenagenturen analog per Telefonleitung Bilder übertragen.
+Für die militärische Nutzung von Faxgeräten bzw. Fernkopierern bedeutet dies, dass die Geräte frei von kompromittierender Abstrahlung sind und mit allen gebräuchlichen taktischen Datenschlüsselgeräten (z.
+So nutzte beispielsweise das frühere Amt für Nachrichtenwesen der Bundeswehr (ANBw) bzw. das Zentrum für Nachrichtenwesen der Bundeswehr und die BildSchreibTrupps und BildFunkTrupps ab 1995 das abstrahlsichere Fernkopiergerät vom Typ ANTFAX 10 der Bosch Telecom oder das auch in Dänemark und den Niederlanden eingesetzte Easy Fax 9100 E von Siemens mit V.24/V.28-Schnittstellen.
+Es ist nicht ausgeschlossen, dass die Übermittlung personenbezogener Daten per Fax als eine Datenschutzverletzung im Sinne des Artikel 33 Datenschutz-Grundverordnung EU angesehen wird; Schadenersatzforderungen DS-GVO und Bußgelder gemäß Artikel 82 DS-GVO und Bußgelder gemäß Artikel 83 (4a) sind denkbar.

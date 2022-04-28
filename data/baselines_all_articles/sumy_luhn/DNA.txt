@@ -1,0 +1,25 @@
+Desoxyribonukleinsäure ( anhören?/i; abgekürzt DNS), meist kurz als DNA (Abkürzung für englisch deoxyribonucleic acid) bezeichnet, ist eine aus unterschiedlichen Desoxyribonukleotiden aufgebaute Nukleinsäure.
+Die Grundbausteine von DNA-Strängen sind vier verschiedene Nukleotide, die jeweils aus einem Phosphatrest, dem Zucker Desoxyribose sowie einer von vier Nukleinbasen (Adenin, Thymin, Guanin und Cytosin; oft mit A, T, G und C abgekürzt) bestehen.
+Bei der Replikation werden sie entwunden und getrennt jeweils durch Basenpaarung wieder komplementär ergänzt, sodass anschließend zwei (nahezu) identische doppelsträngige DNA-Moleküle vorliegen.
+Im deutschen Sprachgebrauch wird die Desoxyribonukleinsäure inzwischen überwiegend mit der englischen Abkürzung für deoxyribonucleic acid als DNA bezeichnet, während die Abkürzung DNS nach dem Duden als "veraltend" gilt.
+Ihre Entdeckung publizierten sie in der April-Ausgabe 1953 des Magazins Nature in ihrem berühmten Artikel Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid.
+Jedes Nukleotid hat drei Bestandteile: Phosphorsäure bzw. Phosphat, den Zucker Desoxyribose sowie eine heterozyklische Nukleobase oder kurz Base.
+Bei der Base kann es sich um ein Purin, nämlich Adenin (A) oder Guanin (G), oder um ein Pyrimidin, nämlich Thymin (T) oder Cytosin (C), handeln.
+Da sich die vier verschiedenen Nukleotide nur durch ihre Base unterscheiden, werden die Abkürzungen A, G, T und C auch für die entsprechenden Nukleotide verwendet.
+Zwei der oben beschriebenen Einzelstränge sind dabei aneinandergelagert, und zwar in entgegengesetzter Richtung: An jedem Ende der Doppelhelix hat einer der beiden Einzelstränge sein 3'-Ende, der andere sein 5'-Ende.
+Es paaren sich immer Adenin und Thymin, die dabei zwei Wasserstoffbrücken ausbilden, oder Cytosin mit Guanin, die über drei Wasserstoffbrücken miteinander verbunden sind.
+Da sich immer die gleichen Basen paaren, lässt sich aus der Sequenz der Basen in einem Strang die des anderen Strangs ableiten, die Sequenzen sind komplementär (siehe auch: Basenpaar).
+Da ein solcher DNA-Faden mehrere Zentimeter lang sein kann, ein Zellkern aber nur wenige Mikrometer Durchmesser hat, muss die DNA zusätzlich komprimiert bzw. "gepackt" werden.
+Zwar sind zwei der drei sauren OH-Gruppen der Phosphate mit den jeweils benachbarten Desoxyribosen verestert, die dritte ist jedoch noch vorhanden und gibt bei neutralem pH-Wert ein Proton ab, was die negative Ladung bewirkt.
+Für die Stabilität der Doppelhelix sind hauptsächlich zwei Faktoren verantwortlich: die Basenpaarung zwischen komplementären Basen sowie Stapelwechselwirkungen (stacking interactions) zwischen aufeinanderfolgenden Basen.
+Stapelwechselwirkungen hingegen wirken nur in der Doppelhelix zwischen aufeinanderfolgenden Basenpaaren: Zwischen den aromatischen Ringsystemen der heterozyklischen Basen entsteht eine dipol-induzierte Dipol-Wechselwirkung, welche energetisch günstig ist.
+Das liegt nicht so sehr an der unterschiedlichen Zahl der Wasserstoffbrücken, welche die beiden Paare ausbilden, sondern viel mehr an den unterschiedlichen Stapelwechselwirkungen (stacking interactions).
+Gelegentlich werden in Viren und zellulären Organismen Abweichungen von den oben genannten vier kanonischen Basen (Standard-Basen) Adenin (A), Guanin (G), Thymin (T) und Cytosin (C) beobachtet; weitere Abweichungen können künstlich erzeugt werden.
+Bestimmte Abschnitte der DNA, die sogenannten Gene, codieren genetische Informationen, die Aufbau und Organisation des Organismus beeinflussen.
+RNA enthält im Unterschied zu DNA den Zucker Ribose anstelle von Desoxyribose und die Base Uracil anstelle von Thymin, der Informationsgehalt ist aber derselbe.
+Neben der codierenden DNA (den Genen) gibt es nichtcodierende DNA, die etwa beim Menschen über 90 Prozent der gesamten DNA einer Zelle ausmacht.
+Der alte Doppelstrang ist aber zu Beginn der Replikation nur ein Stück weit geöffnet, so dass an dem zweiten Strang - in "unpassender" Gegenrichtung - immer nur ein kurzes Stück neuer komplementärer DNA entstehen kann.
+Da dabei eine DNA-Polymerase jeweils nur etwa 1000 Nukleotide verknüpft, ist es nötig, den gesamten komplementären Strang in einzelnen Stücken zu synthetisieren.
+Mutationen von DNA-Abschnitten - zum Beispiel Austausch von Basen gegen andere oder Änderungen in der Basensequenz - führen zu Veränderungen des Erbgutes, die zum Teil tödlich (letal) für den betroffenen Organismus sein können.
+Mittels der Rekombination bei der geschlechtlichen Fortpflanzung wird diese Veränderung der DNA sogar zu einem entscheidenden Faktor bei der Evolution: Die eukaryotische Zelle besitzt in der Regel mehrere Chromosomensätze, d. h., ein DNA-Doppelstrang liegt mindestens zweimal vor.
+Viele der Mutationen während der Replikation kommen so zustande.

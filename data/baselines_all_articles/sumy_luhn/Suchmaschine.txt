@@ -1,0 +1,25 @@
+In der Regel erfolgt die Datenbeschaffung automatisch, im Internet durch Webcrawler, auf einem einzelnen Computer durch regelmäßiges Einlesen aller Dateien in vom Benutzer spezifizierten Verzeichnissen im lokalen Dateisystem.
+Dieses wird im Allgemeinen über zusätzliche Suchparameter realisiert, die das Suchergebnis beispielsweise mit bestimmten Booleschen Ausdrücken (UND, ODER, NICHT), nach einer bestimmten Sprache, einem bestimmtes Land, einem bestimmten Zeitraum, einem bestimmten Dateiformat etc. aus den erfassten Daten herausfiltert.
+Beispiele sind etwa eine Suchmaschine für Weblogs (statt für das komplette Web) oder Suchmaschinen, die nur Dokumente von Universitäten verarbeiten, oder ausschließlich Dokumente aus einem bestimmten Land, in einer bestimmten Sprache oder einem bestimmten Dateiformat.
+Dieser Abschnitt beschreibt Unterschiede in der Realisierung des Betriebs der Suchmaschine.
+Dadurch lassen sich Webseiten finden, die bestimmte Begriffe enthalten, andere jedoch nicht.
+Eine neuere Entwicklung ist die Fähigkeit von etlichen Suchmaschinen, implizit vorhandene Informationen aus dem Zusammenhang der Suchanfrage selbst zu erschließen und zusätzlich auszuwerten.
+Die bei unvollständigen Suchanfragen typischerweise vorhandenen Mehrdeutigkeiten der Suchanfrage können so reduziert, und die Relevanz der Suchergebnisse (das heißt, die Übereinstimmung mit den bewussten oder unbewussten Erwartungen des/der Suchenden) erhöht werden.
+Aus den semantischen Gemeinsamkeiten der eingegebenen Suchbegriffe wird (siehe auch: Semantische Suche) auf eine, oder mehrere, hinterliegende Bedeutungen der Anfrage geschlossen.
+Die Ergebnismenge wird so um Treffer auf semantisch verwandte, in der Anfrage jedoch nicht explizit eingegebene Suchbegriffe, erweitert.
+Dies führt in der Regel nicht nur zu einer quantitativen, sondern, vor allem bei unvollständigen Anfragen und nicht optimal gewählten Suchbegriffen, auch zu einer qualitativen Verbesserung (der Relevanz) der Ergebnisse, weil die in diesen Fällen eher unscharf durch die Suchbegriffe abgebildeten Suchintentionen durch die von den Suchmaschinen verwendeten statistischen Verfahren in der Praxis erstaunlich gut wiedergegeben werden.
+Unsichtbar mitgegebene Informationen (Ortsangaben, und andere Informationen, im Fall von Anfragen aus dem Mobilfunknetz) oder erschlossene 'Bedeutungsvorlieben' aus der gespeicherten Suchhistorie des Benutzers sind weitere Beispiele für nicht explizit in den eingegebenen Suchbegriffen vorgegebene, von etlichen Suchmaschinen zur Modifikation und Verbesserung der Ergebnisse verwendete Informationen.
+Es gibt daneben auch Suchmaschinen, die nur mit streng formalisierten Abfragesprachen abgefragt werden können, dadurch in der Regel jedoch auch sehr komplexe Anfragen sehr präzise beantworten können.
+Sie sollte auch Synonyme einbeziehen, damit der Suchbegriff Rechner Linux auch Seiten findet, die statt Rechner das Wort Computer enthalten.
+Viele mögliche Treffer gehen verloren, weil der Nutzer nach einer bestimmten grammatikalischen Form eines Suchbegriffes sucht.
+So findet die Suche nach dem Begriff Auto zwar alle im Suchindex enthaltenen Seiten, die diesen Begriff enthalten, nicht aber jene mit dem Begriff Autos.
+B. berücksichtigt die Suchanfrage Auto* auch den Begriff Autos oder Automatismus), allerdings muss der Nutzer die Möglichkeit auch kennen.
+So ist einerseits eine Abfrage nach ähnlichen Wortformen möglich (schöne Blumen findet so auch schöner Blume), außerdem wird die Anzahl der Begriffe im Index reduziert.
+B. durch das Auftauchen verschiedener verwandter Begriffe auf Webseiten danach bewertet, ob mit der Suche nach Auto reparieren auch die Suche nach Autos reparatur oder Automatismus repariert gemeint gewesen sein könnte.
+Die Datenbeschaffung erfolgt durch den Webcrawler der jeweiligen Suchmaschine wie bspw.
+Da die Gesetzgebungen der verschiedenen Länder unterschiedliche Auffassungen davon haben, welche Inhalte erlaubt sind, geraten Betreiber von Suchmaschinen oft unter Druck, gewisse Seiten von ihren Ergebnissen auszuschließen.
+So zeigen die marktführenden Websuchmaschinen seit 2006 bei aus Deutschland stammenden Suchanfragen keine Webseiten mehr als Treffer an, die von der Bundesprüfstelle für jugendgefährdende Medien als jugendgefährdend eingestuft wurden.
+Diese Praxis erfolgt von Seiten der Suchmaschinen freiwillig als automatisiertes Verfahren (Filtermodul) im Rahmen des Vereins Freiwillige Selbstkontrolle Multimedia-Diensteanbieter.
+Das regelmäßige Herunterladen der mehreren Milliarden Dokumente, die eine Suchmaschine im Index hat, stellt große Anforderungen an die Netzwerkressourcen (Traffic) des Suchmaschinenbetreibers.
+Wenn über eine Personensuchmaschine eine Suche nach einem Namen gestartet wird, betreffen die Ergebnisse der Suche nur Daten, die allgemein zugänglich sind.
+Die Personensuchmaschine selbst hält keine eigenen Informationen vor, sondern vermittelt nur den Zugang zu diesen.

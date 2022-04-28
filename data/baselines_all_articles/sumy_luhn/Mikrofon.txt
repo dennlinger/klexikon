@@ -1,0 +1,25 @@
+Ein Wandler, der mechanisch oder elektrisch mit der Membran gekoppelt ist, generiert daraus eine der Membranbewegung entsprechende Tonfrequenz-Wechselspannung oder eine entsprechende pulsierende Gleichspannung.
+Im Zuge der Entwicklung des von ihm so genannten "Telephons" war Philipp Reis der erste, der ein Kontaktmikrophon baute, das von ihm als Teil seines Fernsprechprototypen 1861 erstmals öffentlich vorgestellt wurde.
+Fand nun an der Membran ein Schallwechseldruck statt, kam diese in Schwingung, was dazu führte, dass die Kontakte je nach dem Lauf der Schallwellen mehr oder weniger zusammengedrückt wurden.
+Als Erfinder des Kohlemikrofons wird jedoch David Edward Hughes angesehen, der eine ähnliche Entwicklung auf der Basis von Kohlestäben erstmals am 9. Mai 1878 in der Königlichen Akademie in London öffentlich vorstellte.
+Georg Neumann entwickelte im Jahr 1923 das Kohlemikrofon weiter, wodurch die Klangqualität besonders bei tiefen Frequenzen stark verbessert wurde.
+Zu einem Mikrofon, statt zu einem Publikum zu sprechen, war gewöhnungsbedürftig; außerdem waren Mikrofone in den späten 1920er Jahren bereits so empfindlich, dass man nicht mehr in sie hineinschreien musste.
+Wichtige Hersteller von dynamischen Mikrofonen: Sidney Shure, Electro-Voice, Sennheiser, Beyerdynamic (Spezialität: Bändchenmikrofone), AKG Acoustics.
+Wichtige Hersteller von Kondensatormikrofonen: Sidney Shure, Georg Neumann GmbH Berlin (gehört seit 1991 zur Fa.
+Sennheiser), Sennheiser (Spezialität: HF-Kondensatormikrofone), Microtech Gefell GmbH (in Gefell, ehemals Fa.
+KG, später VEB Mikrofontechnik Gefell), Schoeps, Danish Pro Audio (ehemals Brüel & Kjaer), AKG Acoustics, Brauner Microphones.
+Abhängig von der akustischen Bauform des Mikrofons folgt die Membran dem Schalldruck (Druckmikrofon, ungerichtetes Mikrofon) oder dem Schalldruckgradienten (Druckgradientenmikrofon, gerichtetes Mikrofon).
+Zur Wandlung dient dabei der druckabhängige Übergangswiderstand im hinter der Membran gelagerten Kohlegranulat.
+Sollen die Abweichungen von der theoretischen Richtcharakteristik auch bei hohen Frequenzen vermieden werden, darf das Mikrophon nur einen Bruchteil (weniger als die Hälfte) der Wellenlänge bei der höchsten benötigten Frequenz als Abmessungen des Schallwandlers haben.
+Solche Mikrophone müssen auch von der Seite über einen geeigneten Frequenzgang verfügen, was nur wenigen Herstellern gelingt (siehe Beispiel Diagramm).
+Sämtliche Mikrofone mit anderen Richtcharakteristiken als die der Kugel, speziell solche mit umschaltbarer Charakteristik, werden mit der Bauform des Druckgradientenmikrofons realisiert.
+Da der Schall auch die Rückseite der Membran erreicht, folgt diese nicht dem absoluten Schalldruck, wie es beim Druckempfänger der Fall ist, sondern dem Druckgradienten bzw. der Schallschnelle.
+Zu tiefen Frequenzen hin sinkt der resultierende Druckgradient p entsprechend ab.
+Diese Bauart wurde entwickelt, um die vorteilhaften akustischen Eigenschaften auszunutzen, die an schallreflektierenden Flächen auftreten, ohne das Schallfeld selbst zu beeinträchtigen.
+Die akustische Bauform setzt etwa beim Druckgradientenmikrofon Grenzen zu tiefen Frequenzen hin; zudem ist der Frequenzgang aller Mikrofone abhängig vom Beschallungswinkel (Richtcharakteristik, Druckstaueffekt) und beim Druckgradientenmikrofon von dem Abstand zur Schallquelle (Nahbesprechungseffekt).
+Das ist zum Beispiel bei dynamischen Mikrofonen der Widerstand der Tauchspule, beim Elektretmikrofon der Lastwiderstand.
+Je höher der Innenwiderstand ist, desto mehr rauscht das Mikrofon, umso höher ist in der Regel jedoch auch die Ausgangsspannung.
+Während dynamische Mikrofone häufig Impedanzen um 600  besitzen, haben Kondensator-Kapseln eine sehr hohe Impedanz, da sie aber einen Arbeitswiderstand benötigen, erscheint nur dieser als Impedanz nach außen (bei Elektretmikrofonen im Bereich zwischen 1 und 5 k).
+Bei dynamischen Mikrofonen ist der Klirrfaktor gering, nichtlineare Verzerrungen kommen in der Regel nur bei sehr großen, nicht relevanten Schallpegeln vor.
+Der nichtlineare Zusammenhang der Membranauslenkung zur abgegebenen Spannung verzerrt bei Elektret- und Kondensatormikrofonen prinzipbedingt das Signal ab bestimmten Pegeln nichtlinear.
+Bei Studiomikrofonen dient der Popschutz außerdem dazu, die beim Sprechen und Singen entstehende Feuchtigkeit und das Kondensat von der empfindlichen Kondensatormembran fernzuhalten.

@@ -1,0 +1,25 @@
+Ein Hebel ist in der Physik und Technik ein mechanischer Kraftwandler bestehend aus einem starren Körper, der um einen Drehpunkt drehbar ist.
+Dieses Gesetz wurde bereits in der Antike durch Archimedes formuliert.
+Unterschieden werden einseitige und zweiseitige Hebel, je nachdem ob die Kräfte nur auf einer Seite oder auf beiden Seiten des Drehpunktes angreifen.
+Weiter gibt es neben dem geraden Hebel auch noch den geknickten Hebel oder Winkelhebel, wie er in der Neigungswaage Anwendung findet.
+Die zentrale physikalische Größe, die zur Beschreibung eines Hebels benötigt wird, ist das Drehmoment M = {\displaystyle { \vec {M}} } in Bezug auf den Drehpunkt A {\displaystyle A} , um den sich der Hebel drehen kann.
+Dabei ist r = A {\displaystyle {\vec {r}}_{\text{A} }} der Vektor vom Drehpunkt A {\displaystyle A} auf den Punkt, an dem die Kraft F = {\displaystyle {\vec {F} }} angreift.
+Der senkrechte Abstand zwischen der Wirkungslinie der Kraft und dem Bezugspunkt wird Hebelarm h {\displaystyle h} genannt.
+mit dem Winkel a {\displaystyle \alpha } zwischen dem Vektor r = A {\displaystyle {\vec {r}}_{\text{A} } } und der Wirkungslinie der Kraft.
+Mit einem großen Hebelarm kann daher mit einer kleinen Kraft ein großes Drehmoment ausgeübt werden.
+Ein Hebel befindet sich im Gleichgewicht, wenn die Summe aller an ihm anliegenden Drehmomente bezüglich desselben Bezugspunktes (nicht notwendigerweise der Drehpunkt) gleich Null ist:
+Wird der Hebel durch Störung des Gleichgewichts durch ein weiteres Drehmoment gekippt, so wird auf beiden Seiten des Drehpunktes die gleiche Arbeit W = F = 1 * s = 1 = F = 2 * s = 2 {\displaystyle W={\vec {F}}_{1}\cdot {\vec {s}}_{1}={\vec {F}}_{2}\cdot {\vec {s}}_{2}} verrichtet, wobei s = 1 , 2 {\displaystyle {\vec {s}}_{1,2} } jeweils der Weg ist, der bei der Kippbewegung zurückgelegt wird.
+Die Rechnung vereinfacht sich, wenn man Kräfte betrachtet, die senkrecht zum Hebel stehen.
+der beiden Kräfte F = 1 {\displaystyle {\vec {F}}_{1}} und F = 2 {\displaystyle {\vec {F}}_{2 } } an den Punkten r = 1 {\displaystyle {\vec {r}}_{1} } und r = 2 {\displaystyle {\vec {r}}_{2}} des Hebels.
+Eine weitere Größe, die betrachtet werden kann, ist die Geschwindigkeit an verschiedenen Stellen des Hebels während der Bewegung des Hebels.
+Da es sich um eine Rotationsbewegung handelt, hängt die Bahngeschwindigkeit v = s  {\displaystyle v={\dot {s} }} vom Abstand r = | r = | {\displaystyle r=\left|{\vec {r}}\right|} zum Drehpunkt und von der Winkelgeschwindigkeit   {\displaystyle {\dot {\varphi } }} ab: v = r   {\displaystyle v=r{\dot {\varphi } }} .
+Bei einem einseitigen Hebel liegen Lastarm und Hebelarm auf derselben Seite, da der Drehpunkt sich an einem Ende des Hebels befindet, jedoch haben beide eine unterschiedliche Länge.
+Dadurch ist eine höhere bewegende Kraft nötig bzw. die resultierende Kraft erreicht nicht den theoretischen Wert, da ein Teil der verrichteten Arbeit in Wärme umgewandelt wird.
+Im klassischen Maschinenbau bestehen Hebel aus Gusseisen oder Stahl, wobei die am stärksten belasteten Hebel in der Regel bei der Herstellung geschmiedet werden.
+In anderen industriellen Bereichen werden auch Hebel aus anderen Materialien, wie z.
+Beim Rudern findet das Hebelgesetz Anwendung, indem die Sportler durch eine große Kraft am kurzen Ende einen weiten Weg am langen Ende des Ruders zurücklegen, was zu einer großen Geschwindigkeit führt.
+Weil die Bewegung des Bootes der eigentliche Zweck ist, kann das eingetauchte Ruderblatt als Drehpunkt betrachtet werden, um den sich das Boot bewegt, also in die Wirkrichtung der angreifenden Kraft geschoben wird.
+Die genaue Lage des Drehpunktes hängt davon ab, wie stark das Ruder im Verhältnis zum Boot verankert ist: Stützt sich das Ruderblatt von einem Felsen ab, liegt dort der Drehpunkt; beim Rudern in der Luft ist die Dolle der Drehpunkt.
+Balkenwaagen nutzen das Hebelgesetz, um Gewichte zu vergleichen.
+Nageleisen nutzen das Gesetz, um mit wenig Handkraft auf einem langen Weg Nägel aus Holz zu ziehen.
+Schaufel und Brechstange können an der Front hohe Kräfte ausüben, weil die Armkraft an einem langen Stiel ansetzt.

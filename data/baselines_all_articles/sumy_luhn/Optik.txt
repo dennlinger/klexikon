@@ -1,0 +1,25 @@
+Unter Licht wird in der Regel der sichtbare Teil des elektromagnetischen Spektrums im Bereich 380 nm und 780 nm (790 THz bis 385 THz) verstanden.
+Viele Gesetzmäßigkeiten und Methoden der klassischen Optik gelten allerdings auch außerhalb des Bereichs sichtbaren Lichts.
+Es werden zwei klassische Zugänge zur Lichtausbreitung unterschieden: Die Wellenoptik und die geometrische Optik.
+Die Gesetzmäßigkeiten der geometrischen Optik gelten für den Fall, dass die Abmessungen des optischen Systems sehr groß sind gegenüber der Wellenlänge des Lichts.
+Bei geringen Abmessungen der Komponenten gegenüber der Wellenlänge spricht man von der Mikrooptik.
+Eine wichtige Teildisziplin der Optik ist die Quantenoptik, die sich mit den Wechselwirkungen von Licht und Materie beschäftigt.
+In der geometrischen Optik wird Licht durch idealisierte Strahlen angenähert.
+Das snelliussche Brechungsgesetz beschreibt die Brechung des Lichtes an Grenzflächen zwischen transparenten Medien mit verschiedenem Brechungsindex (an Oberflächen von Linsen oder Prismen).
+Mittels dieser Methode lassen sich Abbildungen, beispielsweise durch Linsen oder Linsensysteme (Mikroskop, Teleskop, Objektiv) und die dabei auftretenden Abbildungsfehler behandeln.
+Als Wellenoptik wird der Bereich der Optik bezeichnet, der von der Wellennatur des Lichts handelt.
+Die Wellenoptik kann auch Effekte beschreiben, die von der Wellenlänge des Lichts abhängen; man spricht dabei allgemein von Dispersion.
+Je nach oben genanntem Mechanismus müssen sehr verschiedene Modelle zur Beschreibung genutzt werden, die zu sehr unterschiedlichen Wellenlängenabhängigkeiten führen.
+Die Wechselwirkung von Licht mit wirklichen (d. h. nicht idealisierten) Oberflächen ist für die visuelle Wahrnehmung des Menschen bedeutsam, ist aber bislang nur unvollständig verstanden.
+Bedeutsam ist die Remission, also die Absorption eines Teil des Lichts sowie die Reflexion, Transmission beziehungsweise Streuung des restlichen Spektralanteils.
+Reflexion und Transmission lassen sich durch die Brechung des Lichts an den Grenzflächen beschreiben.
+Manche Oberflächen, wie etwa die menschliche Haut, sind in den obersten Hautschichten teilweise transparent, so dass optisch keine reflektierende Fläche, sondern eine reflektierende Schicht vorliegt.
+Eine abstrakte Beschreibung der optischen Vorgänge an derartigen Oberflächen ist kompliziert, und einer der Gründe, dass computergenerierte Bilder künstlich wirken können.
+Das Auge ist das optische Sinnesorgan des Menschen, es wertet den Reiz von Licht unterschiedlicher Wellenlänge an den Photorezeptoren zu Aktionspotentialfolgen der Ganglienzellen der Netzhaut aus.
+In der Medizin spricht man bei der das Auge betreffenden Medizin von der Augenoptik oder Optometrie als der Messung der Sehweite.
+Der Vorgang des Sehens lässt sich mithilfe der Optik nur teilweise erklären.
+Das Gehirn spielt dabei eine große Rolle, denn es verarbeitet Informationen erst zu dem, was wir als Sehen bezeichnen.
+Das Design, die Auslegung und die Fertigung optischer Systeme wird als technische Optik bezeichnet und zählt im Unterschied zur physikalischen Optik zu den Ingenieurwissenschaften, da hier die konkrete Konstruktion und Herstellung optischer Geräte sowie die Konzeption spezifischer Strahlengänge im Vordergrund stehen.
+Bedeutende Vertreter dieser Fachrichtung waren unter anderen Johannes Kepler, Eustachio Divini (1610-1685), Joseph von Fraunhofer und Ernst Abbe.
+Im Folgenden sind die wichtigsten Bauelemente, Komponenten und Geräte aufgelistet.
+Bekannte Optiker waren Ernst Abbe, Alhazen, Laurent Cassegrain, John Dollond, Peter Dollond, Benjamin Franklin, Joseph von Fraunhofer, Hans-Joachim Haase, Hans Lipperhey, Zacharias Janssen, Christiaan Huygens, Johannes Kepler, Antoni van Leeuwenhoek, Johann Nathanael Lieberkühn, Dmitri Dmitrijewitsch Maksutow, Isaac Newton, Josef Maximilian Petzval, Hermann Pistor, Carl Pulfrich, Christoph Scheiner, Bernhard Schmidt, Ludwig Seidel und August Sonnefeld.

@@ -1,0 +1,25 @@
+Zwei oder mehr miteinander gepaarte Zahnräder bilden ein Zahnradgetriebe.
+Es wird vorwiegend zur Übertragung zwischen zwei Drehungen oder einer Drehung und einer linearen Bewegung (Paarung eines Zahnrades mit einer Zahnstange) gebraucht.
+Soll das Übersetzungsverhältnis auch im Kleinen konstant sein, das heißt vom Eingriff des vorherigen bis zum Eingriff des nachfolgenden Zahns in die Lücken des Gegenrades, so ist das erste Verzahnungsgesetz zu beachten.
+Neben reinen Zahnpaarungen in Zahnradgetrieben gibt es Paarungen zwischen Kettengliedern und Zähnen von Zahnrädern in Kettengetrieben.
+Die Rolle war bereits bei den Assyrern in Gebrauch und wurde von den Ägyptern übernommen, die Verbindung dieser Rollen mittels Seil führte zum bekannten Flaschenzug.
+Eine direkte Verbindung dieser Rollen wurde bereits 330 v. Chr. von Aristoteles erwähnt, gesichert ist die Anwendung von Zahnrädern bei Heron von Alexandria, überliefert durch Vitruv.
+Es gibt gerade (achsparallele) Verzahnungen, Schrägverzahnungen, Doppelschräg-Verzahnungen und verschiedene Bogenverzahnungen.
+Wenn sich das antreibende Rad gleichmäßig dreht, dreht sich auch das getriebene Rad gleichmäßig.
+Werden zwei gleiche und gleich große Ellipsenräder kombiniert, so ist der Achsabstand konstant.
+Ist nur ein Rad elliptisch, so muss ein Rad auf einer Schwingachse montiert sein.
+Das Schneckenrad kann im einfachsten Fall ein schräg verzahntes Stirnrad sein.
+Um Linien- anstatt nur Punktberührung zwischen den Zähnen im Getriebe zu erreichen, werden die Zahnflanken des Schneckenrades hohl ausgeführt.
+Gleiten findet nur auf den sich berührenden Zahnflächen in der Profilebene der Zähne statt (Wälzgleiten).
+Die sich berührenden Zähne gleiten zusätzlich senkrecht zur Profilebene (Gleiten senkrecht zur Profilebene ist die typische Bewegung im Schraubgewinde).
+Die Verzahnung kann gerade, d. h. achsparallel, schräg (Schrägverzahnung) oder als Bogenverzahnung ausgeführt sein.
+Mit der zum Übersetzungsverhältnis i {\displaystyle i} passend gewählten Zähnezahl z {\displaystyle z} und dem Modul m {\displaystyle m} ist der Wälzkreisdurchmesser d {\displaystyle d} bestimmt.
+Den Abstand a {\displaystyle a} (Achsabstand) der Achsen der miteinander gepaarten außen verzahnten Räder 1 und 2 geben folgende Gleichungen an:
+Beim Profilverfahren benötigt man eine große Anzahl verschiedener Werkzeuge oder muss die Schleifscheibe vor ihrem Einsatz erst in die Form der Zahnflanke bringen ("abrichten" der Schleifscheibe).
+Geschmiedete Zahnräder finden dabei auch Verwendung in großtechnischen Anwendungen, so werden beispielsweise die Kegelräder von Differentialgetrieben im Fahrzeugbau durch Gesenkschmieden hergestellt.
+Bei den Laufprüfungen unterscheidet man zwischen Zweiflankenwälzprüfungen und Einflankenwälzprüfungen.
+Bei der traditionellen Fertigung auf Kegelradfräsmaschinen kommt es grundsätzlich zu mehr oder weniger großen Abweichungen zwischen den theoretischen Berechnungen und dem praktischen Fräsergebnis.
+Beim 5-Achs-Fräsen auf 5-Achs-simultanfähigen Bearbeitungszentren entfallen in der Regel solche nachträglichen Korrekturen, da aufgrund der Herstellmethode das Fräsergebnis und somit auch Position und Größe des Tragbildes auf Anhieb der Berechnung entspricht.
+Die direkte Messung der Zahndicke ist jedoch nicht möglich, daher misst man zur Ermittlung der Zahndicke die Zahnweite oder das Maß über zwei in gegenüberliegende Zahnlücken eingelegte Meßrollen (Messung des Rollenmaßes).
+Bei der Herstellung von Stirnrädern ist fast immer die Zahnweite das einzuhaltende Fertigungsmaß und daher wird die Zahnweite bei fast allen Stirnrädern direkt an der Maschine gemessen.
+Das Lehrzahnrad muss geometriebezogen mit dem Prüfling übereinstimmen, das heißt in der Regel den gleichen Modul haben.

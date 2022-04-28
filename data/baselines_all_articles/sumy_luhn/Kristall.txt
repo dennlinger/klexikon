@@ -1,0 +1,25 @@
+Aufgrund der regelmäßigen Anordnung der Atome bzw. Moleküle weisen Kristalle keine kontinuierlichen, wohl aber diskrete Symmetrien auf; man spricht von Fernordnung oder Translationssymmetrie.
+Vor 1992 wurden Kristalle über ihre Periodizität definiert: In diesem Sinne ist ein Kristall dreidimensional periodisch aus gleichbleibenden Struktureinheiten aufgebaut.
+Gleichwohl bilden die periodischen Kristalle die bei weitem größte Untergruppe der Kristalle.
+Auch bei idiomorphen Kristallen liegt in der Natur meist eine gewisse Verzerrung vor, d. h. die Kantenlängen (nicht aber die Winkel) können von der Idealform deutlich abweichen (vgl. Gesetz der Winkelkonstanz).
+Da die charakteristische Eigenschaft von Kristallen die regelmäßige Anordnung in allen drei Raumrichtungen ist, sind auch Körper denkbar, deren Bausteine sich nur in einer oder zwei Raumrichtungen wiederholen.
+Außer Kristallen gibt es auch Körper, die keine innere Fernordnung haben und amorph genannt werden.
+Weil die Translationssymmetrie erhalten bleiben muss, können nur Drehsymmetrien vorkommen, die in einer vollständigen Drehung (360°) eine, zwei, drei, vier oder sechs Wiederholungen beschreiben.
+Es gibt bei zweidimensionalen Kristallen 17 ebene kristallographische Gruppen und bei dreidimensionalen Kristallen 230 kristallographische Raumgruppen, die vollständig in den International Tables for Crystallography, Vol.
+Bei der Beschreibung der äußeren Form des Kristalls lässt er sich nur einer von 32 Punktgruppen (auch Kristallklassen genannt) zuordnen.
+Diese Punktgruppen beschreiben die makroskopischen Symmetrieeigenschaften der Kristalle und fassen diejenigen Raumgruppen zusammen, die sich nur in der Translationssymmetrie unterscheiden.
+Die Translation spielt bei der äußeren Betrachtung von Kristallen keine Rolle.
+Die Kristallstruktur ist nicht stoffspezifisch, das heißt eine Substanz mit bestimmter chemischer Zusammensetzung kann je nach äußeren Bedingungen (Druck, Temperatur) unterschiedliche thermodynamisch stabile Strukturen besitzen.
+Die verschiedenen Kristallstrukturen derselben Substanz werden Modifikationen genannt; die Existenz verschiedener Modifikationen heißt Polymorphie.
+Die Modifikationen stellen unterschiedliche Phasen im Sinne der physikalischen Chemie dar, deren Stabilitätsbereiche in Phasendiagrammen dargestellt werden können.
+Die einzelnen Modifikation bzw. Phasen einer Substanz werden, neben eventuell vorhandenen Eigennamen, üblicherweise mit kleinen griechischen Buchstaben durchnummeriert (beim Eisen z.
+Ein Kristall entsteht, indem Atome oder Moleküle eine regelmäßige Struktur mit Fernordnung ausbilden.
+Um die Kristallisation zu ermöglichen, darf der Zustand der Atome oder Moleküle kein Gleichgewicht sein.
+Dann wird die thermische Bewegung der einzelnen Atome so gering, dass die gegenseitigen Bindungen nicht mehr durch Schwingungen aufgebrochen werden können - es kommt zur Bildung eines einheitlichen Gitters, das durch Fernordnung geprägt ist.
+Periodische dielektrische Strukturen, so genannte photonische Kristalle, zeigen neuartige optische Eigenschaften.
+Im Labor gezüchtete Einkristalle haben eine Versetzungsdichte in der Größenordnung 103 - 105 cm-2, normale Kristalle und Polykristalle von 105 - 109 cm-2 und stark verformte Kristalle bis zu 1014 cm-2.
+Für kristalloptische Eigenschaften sind meist Punkt und Volumenfehler charakteristisch, Linienfehler (Versetzungen) und Flächenfehler (Korngrenzen) hingegen für die mechanischen Eigenschaften.
+Im Regelfall liegt ein kristalliner Festkörper als Polykristall und nicht als Einkristall vor, das heißt, er besteht aus vielen kleinen Kristallen (Kristalliten), die durch Korngrenzen voneinander getrennt sind.
+In der Metallherstellung strebt man meist möglichst feine Kristallite oder feines Korn an.
+Kolloide bilden typischerweise Parakristalle, weil nicht alle Bausteine identisch sind, die Bausteine selbst typischerweise anisotrop sind und weil starke und schwache Bindungen zwischen Atomen und Atomgruppen koexistieren.
+Monodisperse harte-Kugel-Suspensionen können andererseits Kristalle bilden, weil die Bausteine alle identisch und isotrop sind.

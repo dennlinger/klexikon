@@ -1,0 +1,25 @@
+Als Palindrom (altgriechisch aivoo palindromos "rückwärts laufend") werden in der Sprachwissenschaft Wörter, Wortreihen oder Sätze bezeichnet, die rückwärts gelesen genau denselben Text oder zumindest einen Sinn ergeben.
+Ein Wortpalindrom ist ein Wort, das rückwärts gelesen dasselbe Wort ergibt (z.
+Zu den Palindromen zählen aber auch Wörter, die rückwärts gelesen ein anderes sinnvolles Wort ergeben (z.
+Der linguistische Begriff des Palindroms wurde in andere Bereiche übernommen, das heißt, Palindrome müssen nicht zwangsläufig aus Buchstaben bestehen.
+Die spiegelsymmetrische Strukturformel mancher Moleküle lässt sich als palindromartige Darstellung einer chemischen Verbindung auffassen.
+Beispiele für Morsecodepalindrome, die in lateinischen Buchstaben keine Palindrome mehr ergeben, sind du ( * *, * * ) oder an (* ,  *).
+Laut Guinness-Buch der Rekorde von 1997 lautet das längste deutsche Ein-Wort-Palindrom Reliefpfeiler mit 13 Buchstaben.
+Das längste Wortpalindrom aller Sprachen ist laut Guinness-Buch der Rekorde das finnische Wort saippuakivikauppias ("Seifensteinverkäufer") mit 19 Buchstaben.
+Es handelt sich jedoch nur im weiteren Sinn um ein Palindrom, da das lateinische Gedicht nicht buchstabenweise, sondern wortweise rückwärts zu lesen ist.
+Ein phonetisches Palindrom ist ein Stück gesprochener Sprache, das sich rückwärts gesprochen annähernd gleich anhört.
+Primzahlen, die rückwärts gelesen nicht denselben Wert, aber eine andere Primzahl ergeben, nennt man Mirpzahlen.
+In der theoretischen Informatik, genauer der Theorie der formalen Sprachen, wurde ein mathematischer Formalismus zum Umgang mit Zeichenketten entwickelt, welche im theoretischen Kontext auch Wörter genannt werden.
+Die Definition, dass ein Palindrom ein Wort ist, welches rückwärts geschrieben wieder dasselbe Wort ergibt, schreibt sich formal so:
+wobei u R {\displaystyle u^{R } } bedeutet, dass der Operator R {\displaystyle ^{R}} der Spiegelung (bzw. Umkehrung der Reihenfolge der Zeichen) auf das Wort u {\displaystyle u} angewandt wird.
+Zu beachten ist, dass ein Palindrom hier nicht unbedingt einen Sinn ergeben muss; das entsprechende Wort muss lediglich symmetrisch um seine Mitte aufgebaut sein.
+falls | u | {\displaystyle |u|} (Wortlänge) gerade ist, bzw.
+falls | u | {\displaystyle |u|} ungerade ist, wobei v , w    {\displaystyle v,w\in \Sigma ^{*}} (endliche Wörter) und c   {\displaystyle c\in \Sigma } (ein Zeichen des Alphabets) ist.
+(die Menge der endlichen Wörter gerader Wortlänge, welche ein Palindrom sind) ist nicht regulär, d. h. man kann keinen regulären Ausdruck angeben, welcher L {\displaystyle L} spezifiziert bzw. keinen endlichen Automaten (also eine Maschine mit endlichem Speicher), der es schafft L {\displaystyle L} zu erkennen (d. h. zu entscheiden, ob ein Wort zur Sprache L {\displaystyle L} gehört oder nicht).
+Da beliebig lange, wenn auch endliche Wörter untersucht werden müssen, ist potentiell unendlich viel Speicher nötig, um sich v {\displaystyle v} zu merken und dann anschließend mit v R {\displaystyle v^{R}} zu vergleichen.
+Jedoch gibt es keinen deterministischen Kellerautomaten, der diese Sprache erkennt.
+Die induktive bzw. rekursive Definition für Palindrome sieht wie folgt aus:
+Die restlichen Palindrome erhält man, indem man zunächst in beide Richtungen ein symmetrisches Wort generiert und dann das Nichtterminalsymbol in der Mitte durch eines der Terminalsymbole ersetzt.
+In der Molekulargenetik werden kurze DNA-Abschnitte im Doppelstrang als Palindrome bezeichnet, wenn die beiden Stränge gegenläufig dieselbe Sequenz aufweisen.
+Auch Abfolgen in der Nukleotidsequenz im Einzelstrang einer DNA oder RNA werden als palindromische Sequenzen bezeichnet, wenn zwei Regionen desselben Moleküls sich derart entsprechen, dass die eine Sequenz in Gegenrichtung gelesen der anderen Sequenz gleicht.
+Palindromartige Darstellungen chemischer Verbindungen sind beispielsweise Strukturformeln, die rückwärts gelesen den gleichen Stoff bezeichnen.

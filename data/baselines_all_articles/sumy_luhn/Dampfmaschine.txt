@@ -1,0 +1,25 @@
+Die Anwendungen der ersten funktionsfähigen Dampfmaschine von Thomas Newcomen fanden sich ab Anfang des 18. Jahrhunderts im Steinkohlebergbau zur Wasserhaltung, wo sie zunächst ältere mechanische Kraftquellen wie z.
+Das Pleuel schiebt anschließend (im einseitigen Betrieb) mit der im Schwungrad und in der Kurbelwelle gespeicherten Rotationsenergie den Kolben wieder aus der unteren Lage linear zurück in seine obere Ausgangsposition.
+Der bekannteste Vertreter dieser Bauart war die atmosphärische Dampfmaschine von Thomas Newcomen ab 1712.
+Der energetische Wirkungsgrad dieser Maschine lag bis zur Weiterentwicklung durch James Watt unter 1 %.
+Die Abbildung rechts stellt dar, wie der Unterdruck bzw. der atmosphärische Druck bei der atmosphärischen Dampfmaschine die Arbeit verrichtet, wenn der heiße Dampf kondensiert und sich dabei stark zusammenzieht.
+Im Gegensatz zur Volldruckmaschine verliert der unter hohem Druck eingeströmte Dampf einen Teil seines Drucks während des Arbeitstakts.
+Die bekanntesten Vertreter dieser Bauart waren die Dampfmaschinen von James Watt ab etwa 1769 (siehe unten).
+Watt entwickelte auch die "einfachwirkende" Dampfmaschine, die den Kolben nur von einer Seite beaufschlagt, zur "doppeltwirkenden" Dampfmaschine weiter, bei der der Kolben abwechselnd von der Ober- und Unterseite beaufschlagt wird.
+Auch die Expansionsmaschine, bei der nur zu Anfang eines Hubes Dampf einströmt, der dann expandiert und mit niedrigerem Druck aus dem Zylinder tritt, war eine Weiterentwicklung der Niederdruckdampfmaschine und brachte eine weitere Effizienzsteigerung gegenüber der Volldruckmaschine, die während des gesamten Hubes vollen Dampfdruck erhält.
+Der Kondensator kann also wegfallen, was diesen Maschinentyp in Verbindung mit der höheren Energiedichte des unter Druck stehenden Dampfes erheblich leichter macht und damit den Einsatz von Dampfmaschinen in Dampflokomotiven erst ermöglichte.
+Vertreter dieser Bauart sind praktisch alle Kolbendampfmaschinen in Fahrzeugen seit Oliver Evans und Richard Trevithick ab etwa 1802 (s. u.).
+Die erste verwendbare Dampfmaschine wurde 1712 von Thomas Newcomen konstruiert und diente zur Wasserhebung in Bergwerken.
+Diese sogenannte atmosphärische Dampfmaschine erzeugte durch Einspritzen von Wasser in einen mit Dampf gefüllten Zylinder einen Unterdruck gegenüber der Atmosphäre.
+Sowohl Newcomens als auch Watts Dampfmaschinen hatten ursprünglich nur stehende Zylinder, die die Auf- und Abbewegung des Kolbens über einen Balancier lediglich umlenkten, um sie in den Schacht auf das Pumpengestänge zu übertragen.
+1781 patentierte Watt ein Planetengetriebe auf seinen Namen, das der leitende Ingenieur von Boulton & Watt, William Murdoch konstruiert hatte, um die Kolbenbewegung umzuformen und so die Maschine ein Schwungrad drehen zu lassen.
+Spätere Watt'sche Dampfmaschinen waren doppeltwirkend, der Kolben wurde abwechselnd von der einen und der anderen Seite mit Dampf beaufschlagt.
+Mit seinem kaufmännischen Teilhaber Matthew Boulton verkaufte er seine Maschinen jedoch nicht, sondern stellte sie seinen Kunden zur Verfügung, um sich einen Teil der eingesparten Brennstoffkosten auszahlen zu lassen.
+Mit diesen Entwicklungen sowie weiteren technischen Verbesserungen wurden Dampfmaschinen ab der zweiten Hälfte des 18. Jahrhunderts - zumindest im Kohlebergbau - nun auch wirtschaftlich.
+Ihm zuvor kam Richard Trevithick, der 1801 die erste Hochdruckdampfmaschine in ein Straßenfahrzeug einbaute.
+Der als Heißdampf in den Hochdruckzylinder eingespeiste, nunmehr teilentspannte und kühlere entweichende Dampf hat immer noch genug Arbeitsvermögen, um den mit einer wesentlich größeren Bohrung versehenen Niederdruckzylinder zu betreiben.
+1785 wurde dann die erste, in Preußen nachgebaute Dampfmaschine wattscher Bauart bei Burgörner in Betrieb genommen.
+Nachdem Bückling noch ein zweites Mal nach England geschickt worden war, war er in der Lage, exakte Baupläne für eine eigene Dampfmaschine nach dem Vorbild der wattschen unter Mitwirkung der Preußischen Akademie der Wissenschaften zu entwerfen.
+Bereits zwei Jahre zuvor hatte Dinnendahl den Einsatz der ersten Dampfmaschine zur Wasserhaltung im Ruhrbergbau betreut.
+Als Fahrzeugantrieb sind Dampfmaschinen weitgehend durch Verbrennungsmotoren abgelöst worden, die ohne Aufwärmzeit starten, einen höheren Wirkungsgrad haben, größere Leistung bei geringerem Gewicht bieten und komfortabler zu bedienen sind.
+Diese Maschine arbeitete im Zweitaktverfahren und kam außerdem ohne übliche Schmiermittel aus, weil die Verschleißteile aus modernen Kohlenstoffkomponenten gefertigt waren.

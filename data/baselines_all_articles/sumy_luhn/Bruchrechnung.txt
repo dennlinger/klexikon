@@ -1,0 +1,25 @@
+Im engeren Sinn bezeichnet Bruchrechnung das Rechnen mit gemeinen Brüchen (manchmal auch gewöhnlichen Brüchen) in der "Zähler-Bruchstrich-Nenner-Schreibweise" (siehe unten).
+Sie wird ganz allgemein in verschiedenen Bereichen der Mathematik, besonders in der Algebra, immer dann verwendet, wenn in der untersuchten Struktur die elementaren Bruchrechenregeln, insbesondere die Kürzungs- und Erweiterungsregel, gelten.
+Geschrieben wird dies gewöhnlich in der "Zähler-Bruchstrich-Nenner-Schreibweise": Die Zahl unter dem Bruchstrich - der sogenannte Nenner oder auch Teiler - gibt an, in wie viele Teile das Ganze geteilt wurde; die Zahl über dem Bruchstrich - der Zähler - gibt an, wie viele Teile davon in diesem Falle gemeint sind.
+Man kann diesen auch so deuten: Der Zähler gibt an, wie viele Ganze gemeinsam in so viele gleich große Teile zu teilen sind, wie der Nenner angibt.
+Für jede Bruchzahl gibt es viele (unendlich viele) verschiedene Darstellungen, verschiedene Brüche, die alle denselben Wert (dieselbe Größe) verkörpern, aber auf unterschiedliche Weise.
+Dabei ist der Zähler Z {\displaystyle Z} der Dividend, der Nenner N {\displaystyle N} der Divisor:
+Sind Zähler und Nenner negativ, so bezeichnet das nach den Regeln der Division von ganzen Zahlen den positiven Bruch: - 3 - 4 = 3 4 {\displaystyle {\tfrac {-3}{-4}}={\tfrac {3}{4} }}
+Wenn bei einem Bruch der Betrag des Zählers kleiner als der des Nenners ist, dann spricht man von einem echten oder eigentlichen Bruch (z.
+Dabei wird zunächst der ganzzahlige Anteil, d. h. die zur Null hin gerundete Zahl, geschrieben und anschließend direkt danach der verbleibende Anteil als echter Bruch.
+Schreibt man dagegen a b c {\displaystyle a{\tfrac { b}{c } }} , so handelt es sich nicht um einen Bruch in gemischter Schreibweise, sondern (wegen der Variablen) um einen Term.
+a b c {\displaystyle a{\tfrac {b}{c} }} muss also als a * b c {\displaystyle a\cdot {\tfrac {b}{c} }} verstanden werden und niemals als a + b c {\displaystyle a+{\tfrac {b}{c}}} .
+Der Wert der durch einen Bruch dargestellten Bruchzahl ändert sich nicht, wenn man Zähler und Nenner des Bruches mit derselben Zahl (ungleich 0) multipliziert (den Bruch erweitert) oder durch einen gemeinsamen Teiler von Zähler und Nenner teilt (den Bruch kürzt).
+Der Wert einer in gemischter Schreibweise dargestellten Bruchzahl ändert sich nicht, wenn man den ganzzahligen Anteil als Scheinbruch mit dem Nenner des Bruchteils schreibt und die verbliebenen Bruchanteile hinzuzählt.
+Das Produkt der Zähler ist dann der Zähler des Ergebnisses, das Produkt der Nenner ist dann der Nenner des Ergebnisses.
+Beim Rechnen mit Brüchen stehen die Variablen a , b , c , d , n {\displaystyle a,\;b,\;c,\;d,\;n\; } in den Regeln für bestimmte ganze Zahlen.
+Aus der Äquivalenz a b = a * c b * c {\displaystyle {\frac {a}{b}}={\frac {a\cdot c}{b\cdot c} }} für beliebige natürliche Zahlen c > 0 {\displaystyle c>0} folgt, dass jede rationale Zahl durch unendlich viele verschiedene Brüche dargestellt werden kann, denn es gilt a b = 2 a 2 b = 3 a 3 b = 4 a 4 b =  {\displaystyle {\frac {a}{b}}={\frac {2a}{2b}}={\frac {3a}{3b}}={\frac {4a}{4b}}=\dotsb } .
+Beispiel: x x 2 - 9 = x ( x + 3 ) ( x - 3 ) {\displaystyle {\tfrac {x}{x^{2}-9}}={\tfrac {x}{(x+3)(x-3)} }} hat den Definitionsbereich D = R  { - 3 ; + 3 } {\displaystyle D=\mathbb {R} \setminus \{-3;+3\}} .
+So ist im ersten Beispiel der ungekürzte, links stehende Term nur definiert, wenn a , b , c  0 {\displaystyle a,b,c\neq 0} gilt, der rechtsstehende bereits, wenn nur a  0 {\displaystyle a\neq 0} gilt.
+Im zweiten Beispiel ist der ungekürzte Term nur definiert, wenn x  3 y {\displaystyle x\neq 3y} gilt, der gekürzte ist ohne Einschränkungen definiert.
+Man bestimmt einen möglichst einfachen gemeinsamen Nenner (Hauptnenner), der durch alle gegebenen Nenner teilbar ist.
+Die Erweiterungsfaktoren der drei gegebenen Bruchterme erhält man dadurch, dass man jeweils den gefundenen Hauptnenner durch den bisherigen Nenner dividiert.
+Beispiel: 4 x y z 2 * x z 6 y = 4 x 2 y z 6 y z 2 = 2 x 2 3 z {\displaystyle {\frac {4xy}{z^{2}}}\cdot {\frac {xz}{6y}}={\frac {4x^{2}yz}{6yz^{2}}}={\frac {2x^{2}}{3z } }}
+In komplizierteren Aufgaben sollte man Zähler und Nenner in Faktoren zerlegen, um sie bereits vor der eigentlichen Multiplikation herauskürzen zu können.
+Beispiel: a - 2 b 4 a + 1 * 16 a 2 - 1 a 2 - 4 a b + 4 b 2 = a - 2 b 4 a + 1 * ( 4 a + 1 ) ( 4 a - 1 ) ( a - 2 b ) 2 = 4 a - 1 a - 2 b {\displaystyle {\frac {a-2b}{4a+1}}\cdot {\frac {16a^{2}-1}{a^{2}-4ab+4b^{2}}}={\frac {a-2b}{4a+1}}\cdot {\frac {(4a+1)(4a-1)}{(a-2b)^{2}}}={\frac {4a-1}{a-2b } }}
+Beispiel: 2 x - 3 5 x : 4 x 2 - 9 10 x 2 = 2 x - 3 5 x * 10 x 2 ( 2 x + 3 ) ( 2 x - 3 ) = 2 x 2 x + 3 {\displaystyle {\frac {2x-3}{5x}}:{\frac {4x^{2}-9}{10x^{2}}}={\frac {2x-3}{5x}}\cdot {\frac {10x^{2}}{(2x+3)(2x-3)}}={\frac {2x}{2x+3}} }

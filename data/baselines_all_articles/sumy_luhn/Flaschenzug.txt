@@ -1,0 +1,25 @@
+Mit Seilen verspannte Einbaumkräne, die über drei ("Trispastos") oder fünf Rollen ("Pentaspastos") liefen, sind seit 750 v. Chr. bekannt.
+Im 6. Jahrhundert, um das Jahr 530, wurde ein Kalksandsteinmonolith mit einem Gewicht von 230 Tonnen als Schlussstein des Kuppeldaches für das Mausoleum des Theoderich bei Ravenna mittels komplizierten Flaschenzügen von 700 Arbeitern auf 16 Meter Höhe gebracht.
+907 Arbeiter und 75 Pferde drehten an den 40 Spillen und zogen damit über Umlenkrollen an bis zu 220 Meter langen Seilen die an einem gigantischen Holzgerüst hängenden 40 Flaschenzüge, um den 330 Tonnen schweren und 25,31 Meter langen Obelisken in die Senkrechte zu bringen.
+In A wird ein Gewicht mit der Masse m hochgezogen, wobei die obere Rolle nur die Kraft umlenkt und somit das Gewicht um genau die Strecke angehoben wird, die das Seil gezogen wird (blaue Markierung und blauer Pfeil).
+In B ist ein einfacher Flaschenzug dargestellt, bei dem das Seil am oberen Balken befestigt ist und das Gewicht an einer Rolle in der Seilschlaufe hängt.
+Wird hier das Seil um die gleiche Länge wie in A gezogen, so hebt sich das Gewicht nur um die Hälfte an.
+Die Seilteile links vom Seilabschnitt, an dem gezogen wird, müssen nämlich insgesamt um die Zugstrecke kürzer werden, die sich jedoch auf zwei Seilabschnitte verteilt.
+Die benötigte Kraft wird folglich halbiert, während das Seil doppelt so lange wie in A gezogen werden muss, um das Gewicht auf eine bestimmte Höhe anzuheben.
+Eine sehr kompakte Bauweise (E) ergibt sich, wenn man die Rollen noch weiter zusammenschiebt und somit die oberen und unteren Rollen jeweils auf einer Achse liegen.
+Verdreht man die oberen Rollen, so ergibt sich dann die übliche Bauform (F).
+Für die Zugkraft entscheidend ist aber immer die Anzahl der tragenden Seile n {\displaystyle n} , auf die sich die Last verteilt.
+Die Gewichtskraft F L {\displaystyle F_{L}} der Masse m {\displaystyle m} wird daher gleichmäßig auf die tragenden Seile zwischen den unteren und den oberen Rollen verteilt.
+Nach der Goldenen Regel der Mechanik muss der Haken bei zunehmender Zahl der tragenden Seile eine immer längere Strecke s {\displaystyle s} bewegt werden, um die gleiche Höhenänderung h {\displaystyle h} zu erreichen:
+Es lässt sich leicht zeigen, dass die dazu benötigte Energie E {\displaystyle E} von n {\displaystyle n} unabhängig ist:
+Die Belastung des Deckenhakens ( F H { \displaystyle F_{H }} ) ergibt sich aus der Summe von Zugkraft F Z {\displaystyle F_{Z } } und Gewichtskraft F L {\displaystyle F_{L}} .
+Während auf die untere lose Rolle noch die volle Gewichtskraft wirkt, wird diese beim unteren Seil schon halbiert, sodass an der oberen losen Rolle nur noch die halbe Kraft angreift.
+Der Differenzialflaschenzug besteht aus zwei festen Rollen, die fest miteinander verbunden sind und unterschiedliche Durchmesser haben.
+Wegen der Schlaufe wird das Gewicht nach dem Prinzip des Flaschenzugs aber nur um die Hälfte dieser Strecke angehoben.
+Dieser Umfang entspricht nämlich gerade der Zugstrecke des Seils für eine Umdrehung, auf die die Arbeit dann verteilt wird.
+Weiterhin sind immer nur drei Rollen erforderlich.
+Der gestürzte und am Seil hängende Kletterer (FL = Last) zieht sich über zwei Rollen (alternativ mit zwei Umlenkkarabinern) am Zugseil selbst in die Höhe.
+Der Ellington-Flaschenzug (nach seinem Erfinder benannt) besteht üblicherweise aus zwei Karabinern, durch die ein Band mehrfach geschlauft wird.
+Die große Reibung des Bandes auf dem Karabiner ergibt jedoch nur einen schlechten Wirkungsgrad.
+Der Blake-Knoten lässt sich mit einer durchgeschlauften "Reißleine" (Bild rechts: blaue Leine = nach rechts unten) ebenfalls lockern.
+Die Zugkraft ist in der Praxis deshalb in jedem Fall größer als theoretisch errechnet: F Z > F L n {\displaystyle F_{\mathrm {Z} }> {\frac {F_{\mathrm {L} } }{n} } } .Für den Wirkungsgrad eines Flaschenzuges gilt:  = W nutz W zu = F L * h F Z * s {\displaystyle \eta ={\frac {W_{\text{nutz}}}{W_{\text{zu}}}}={\frac {F_{\mathrm {L} } \cdot h}{F_{\mathrm {Z} } \cdot s} }} .

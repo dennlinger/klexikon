@@ -1,0 +1,25 @@
+a, hexa, "sechs" und via, gonia, "Winkel; Ecke") ist ein Polygon (Vieleck), bestehend aus sechs Ecken und sechs Seiten.
+Sind alle sechs Seiten gleich lang, spricht man von einem gleichseitigen Sechseck.
+Sind darüber hinaus alle Winkel an den sechs Ecken gleich groß, dann wird das Sechseck regulär oder regelmäßig genannt.
+Die zugrundeliegenden Zusammenhänge des regulären Sechsecks beschrieb erstmals Euklid in seinem 15. mathematischen Satz des 4.
+Werden die gegenüberliegenden Ecken des Sechsecks miteinander verbunden, ergeben sich sechs gleichseitige Dreiecke.
+Werden dagegen alle nicht gegenüberliegenden Ecken miteinander verbunden, so erhält man ein Hexagramm.
+Ein reguläres Sechseck lässt sich als Konstruktion mit Zirkel und Lineal sehr einfach aus einem Kreis darstellen, indem der Radius des Kreises sechsmal auf dem Kreisrand abgetragen wird (siehe Konstruktion 1).
+Die erhaltenen Punkte sind die Ecken des Sechsecks.
+Die fehlenden Ecken können dann über die Geraden durch den Mittelpunkt des Umkreises und die bereits bekannten Ecken konstruiert werden (siehe Konstruktion 2 nach Euklid, als animierte Grafik).
+Ein reguläres Sechseck lässt sich ebenfalls konstruieren, wenn eine vorhandene Strecke als Seitenlänge verwendet werden soll.
+Eine für praktische Zwecke oft ausreichende Annäherung an ein reguläres Sechseck erhält man, wenn man das Hexagon aus annähernd gleichseitigen Dreiecken konstruiert, welche ein Verhältnis Höhe zu Grundseite von 7:8 haben.
+Diese Annäherung findet dort Anwendung, wo ein Fehler von knapp 1 % toleriert werden kann.
+Eine bessere Annäherung erhält man, wenn man bei den obigen Koordinaten die Zahlen 4, 7 und 8 durch 15, 26 bzw. 30 ersetzt.
+Bei allen diesen Tripeln weichen die aus den entsprechenden Seitenlängen gebildeten Dreiecke nur sehr wenig von einem rechtwinkligen Dreieck mit den spitzen Winkeln 30° und 60° ab.
+Weitere solche Dreiecke findet man iterativ, indem man aus den "Katheten" a {\displaystyle a} und b {\displaystyle b} (mit a < b {\displaystyle a<b} ) eines schon bekannten solchen Dreiecks die neuen Katheten 2 a + b , 3 a + 2 b {\displaystyle 2a+b,3a+2b} bildet.
+Das reguläre Sechseck ist neben dem gleichseitigen Dreieck und der Raute (mit dem Quadrat als Spezialfall) das einzige gleichseitige Polygon, mit dem eine Ebene lückenlos parkettiert werden kann.
+Anders als bei der Parkettierung mit Dreiecken oder Rauten hat das einzelne Polygon in einer hexagonalen Parkettierung nur Nachbarn, die über vollständige Kanten verbunden sind, aber keine, die nur über Ecken oder Kantenteile verbunden sind.
+Die Zahlen unter den Abbildungen geben an, wie viele Ecken die regelmäßigen Polygone haben, die jeweils an einem Punkt zusammenstoßen.
+Einige Polyeder haben regelmäßige Sechsecke als Seitenflächen, zum Beispiel der Tetraederstumpf, der Oktaederstumpf, das Große Rhombenkuboktaeder, der Ikosaederstumpf und das Große Rhombenikosidodekaeder.
+Regelmäßige Sechsecke sind in Kunst, Kultur, Natur und Technik häufig anzutreffen.
+Die folgende Liste zeigt nur einige Beispiele.
+In der Architektur, Malerei und Grafik des Judentums und des Christentums liegt bei der Verwendung des Hexagons die Symbolik der Zahl 6 zugrunde, deren Bedeutung sich aus der Summe der ersten drei Zahlen (1+2+3) und deren Zahlensymbolik ergibt.
+Sie stehen aber auch für Gleichgewicht und Harmonie des Göttlichen und Weltlichen, die zudem in der Gleichseitigkeit des Hexagons sowie in dessen Zusammensetzung aus sechs gedachten oder geometrisch sichtbaren gleichseitigen Dreiecken liegen, also auch die Symbolik der Zahl 3 enthalten.
+Ein Beispiel aus der christlichen Malerei des Spätmittelalters ist der hexagonale Tisch im "Paradiesgärtlein" des Oberrheinischen Meisters (um 1410; Frankfurt, Städelsches Kunstinstitut): Er beherrscht farblich leuchtend in Form und Symbolkraft des Sechsecks das Bild und ist entscheidender Faktor zum Verständnis des Bildes, der auch durch seine Rolle in der Bildkomposition betont wird.
+Weitere Beispiele der Verwendung des Hexagons, jedoch nur eingeschränkt von symbolischer Bedeutung:

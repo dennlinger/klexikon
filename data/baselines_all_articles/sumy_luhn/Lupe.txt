@@ -1,0 +1,25 @@
+Befindet sich ein Gegenstand innerhalb der Brennweite f {\displaystyle f} erzeugt eine Lupe ein aufrechtes virtuelles Bild des Gegenstandes.
+Er hat in sich die große und gewaltige Art, daß nie eine Schrift so klein wäre, ihr Aussehen in ihm würde größer: Wenn dieser Stein sie überdachte und übergriffe, sofern ihn jemand dünn schliffe und auf die Schrift halten wollte, der sähe durch ihn die kleinen Buchstaben größer erscheinen."
+Durch eine Lupe erscheinen Objekte größer, die sich jenseits des Betrachters zwischen Lupe und Brennebene (also innerhalb der Brennweite) befinden.
+Dabei sollte die Benutzung einer Lupe, bei der der Betrachter ein vergrößertes virtuelles Bild sieht, nicht mit der Korrektur einer Hyperopie oder Presbyopie verwechselt werden.
+Bei der Korrektur ist die verwendete Linse ebenfalls eine Konvexlinse, hier aber mit deutlich größerer Brennweite bzw. mit kleinerer Brechkraft ("Dioptriewert") und wird als Brille oder Kontaktlinse direkt vor dem Auge getragen.
+bedient man sich zweier Strahlen, die von einem Punkt des Gegenstandes (hier: von der Pfeilspitze des Objekts) ausgehen: Der "Hauptstrahl" - also jener Strahl, der durch den Mittelpunkt der Linse geht - erfährt näherungsweise keine Brechung.
+Der Betrachter, der sich in der Abbildung rechts von der Linse befindet, geht von der geradlinigen Ausbreitung des Lichts aus.
+Der Gegenstand muss sich innerhalb der Brennweite f {\displaystyle f} befinden ( s 1  f {\displaystyle s_{1}\leq f} ), um ihn durch die Lupe vergrößert zu sehen.
+Der Gegenstand scheint unendlich weit weg zu sein und das Auge kann entspannt auf große Entfernung akkommodieren.
+Neben speziellen Lupen, wie Lesestäben (Lupe mit direkter Auflage auf das Lesegut und Vergrößerung in einer Dimension), Lesesteinen (ebenfalls mit direkter Auflage aber zweidimensionaler Vergrößerung), Messlupen wie z.
+Dieses große Sichtfeld erlaubt es, bei konstantem Abstand zwischen Leselupe und Lesegut (Objekt) einen großzügigen und variablen Abstand zwischen Leselupe und Kopf (Augen) einzunehmen.
+Während hier der Abstand zwischen dem Objekt und der Lupe ebenfalls fix ist, versucht man durch einen sehr kleinen Abstand zwischen Lupe und Auge ein größeres Gesichtsfeld zu erhalten.
+Um die Vergrößerung zu berechnen (siehe unten), muss daher die Brennweite bekannt sein.
+Die (quantitative) Vergrößerung einer Lupe wird relativ zur Betrachtung aus der deutliche Sehweite (auch Normsehweite genannt) s 0 = 250 m m {\displaystyle s_{0}=250{\rm {\,mm} } } als Bezugsgröße angegeben.
+Ein Gegenstand erscheint in dieser Entfernung unter dem Winkel a {\displaystyle \alpha } (in der nebenstehenden Abbildung  0 {\displaystyle \varphi _{0}} genannt; außerdem entspricht in der Abbildung die deutliche Sehweite dem Abstand d {\displaystyle d} ):
+Sie nimmt zu, wenn sich die Gegenstandsweite s 1 {\displaystyle s_{1}} der Brennweite f {\displaystyle f} der Lupe nähert.
+Im Grenzfall s 1 = f {\displaystyle s_{1}=f} erscheint das vergrößerte Bild unter dem Winkel a v {\displaystyle \alpha _ {v}} (in der Abbildung  {\displaystyle \varphi } genannt):
+Strengt man das Auge jedoch mit an, kann man den Gegenstand praktisch näher an die Lupe heranbringen, so dass ein virtuelles Bild in der Entfernung der minimalen Sehweite f n a h {\displaystyle f_{\rm {nah}} } des betreffenden Auges entsteht.
+Die Lupe muss sich dazu nah am Auge befinden, die Brechkräfte von Lupe und dem nah-akkommodierten Auge addieren sich und die Vergrößerung beträgt:
+Eine Lupe mit der Brennweite 50 mm erlaubt es, einen Gegenstand aus der Entfernung von 50 mm zu betrachten, statt aus der Entfernung der deutlichen Sehweite von 250 mm.
+Das nah-akkommodiertem Auge eines jungen oder kurzsichtigen Menschen mit f n a h = 100 m m {\displaystyle f_{\rm {nah}}=100{\rm {\,mm} } } erlaubt praktische Vergrößerungen bis 7,5-fach, bei f n a h = 500 m m {\displaystyle f_{\rm {nah}}=500{\rm {\,mm}} } bis 5,5-fach.
+Diese Beziehung ergibt sich unmittelbar aus der Beziehung von v', wenn das Auge in deutlicher Sehweite von 250 mm akkommodiert.
+Dann ist f = f n a h = 250 m m {\displaystyle f=\,f_{\rm {nah}}=250{\rm {\,mm} } } und v' = 2 * v.
+Den größten Einfluss hat dabei der Linsendurchmesser: Je größer, desto mehr Licht(leistung) wird gebündelt.
+Daneben bewirkt eine kürzere Brennweite der Linse (also eine höhere Vergrößerung der Lupe) eine Abbildung der Sonnenscheibe auf einen kleineren Brennfleck.

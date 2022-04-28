@@ -1,0 +1,25 @@
+Die Grammatik oder auch Sprachlehre (lateinisch grammatica, altgriechisch aa grammatik, deutsch ,Kunst des Schreibens', von altgriechisch aa gramma, deutsch ,Geschriebenes', ,Buchstabe') bezeichnet in der Sprachwissenschaft (Linguistik) jede Form einer systematischen Sprachbeschreibung.
+Teile der neueren grammatischen Forschung, maßgeblich angeregt von Noam Chomsky, behandeln die Frage, wie weit sich natürliche Sprachen auf formale Sprachen reduzieren lassen.
+Die Adjektive grammatisch und grammatikalisch (von spätlateinisch grammaticalis) werden heute meist synonym in den Bedeutungen "die Grammatik betreffend" oder "den Regeln der Grammatik entsprechend" verwendet.
+Entsprechend ist als negierte Form ungrammatisch (für "nicht den Regeln der Grammatik entsprechend") deutlich gebräuchlicher.
+Grammatik ist zum einen der Begriff für ein Wissensgebiet, das Gegenstand der "Grammatiktheorie" ist, also das sprachliche System selbst, in seiner abstrakten Form.
+In der Sprachwissenschaft umfasst dieser Begriff alle Bereiche, in denen die Gliederung sprachlicher Einheiten untersucht wird, also die Formenlehre von Wörtern (d. h. die Morphologie), den Bau von Sätzen (Syntax), die Lautlehre (Phonologie) sowie die Bedeutungslehre (Semantik), soweit sie sich auf Regeln zum Aufbau von sprachlicher Bedeutung bezieht.
+Zum anderen bezeichnet man mit dem Ausdruck "eine Grammatik" eine konkrete Beschreibung einer Einzelsprache.
+Hinsichtlich der Zielsetzungen kann man zwischen präskriptiven oder normativen (vorschreibenden) Grammatiken einerseits und deskriptiven (beschreibenden) Grammatiken andererseits unterscheiden.
+Im Gegensatz hierzu ist es der Ansatz der deskriptiven Grammatik, eine Sprache so zu beschreiben, wie kompetente Muttersprachler sie tatsächlich spontan verwenden (ohne das Gesagte als Versprecher zu empfinden).
+Es erfolgt in dieser Perspektive dann keine Unterscheidung in "guten" und "falschen bzw. schlechten Sprachgebrauch" (so dass bestimmte Formen vermieden werden sollen), sondern strittige grammatische Erscheinungen können ggf.
+Der Begriff "grammatisch falsch" reduziert sich dann auf grammatische Erscheinungen, die in keiner Varietät einer Sprache vorkommen.
+Auch können deskriptive Grammatiken normalerweise nicht die ganze Breite der Variation abdecken, sondern behandeln oft eine idealisierte Form, also eine Standardvariante einer Sprache.
+Die Beschäftigung mit Grammatik beschränkte sich daher lange Zeit auf die wichtigen in der Bibel (dem Alten- und Neuen Testament) und ihren Übersetzungen vorkommenden Sprachen, dem Griechischen, Latein und auch dem Hebräischen (Eco 1997).
+Lag der Schwerpunkt des Interesses im Mittelalter noch bevorzugt in semantischen Fragen, so setzten sich mit der Erforschung des Sanskrit durch Friedrich Schlegel und Franz Bopp und mit der Entdeckung der indogermanischen Sprachen wieder grammatische Interessen und konventionalistische und relativistische Positionen durch.
+Ohne Einflüsse aus der Philologie entstanden durch die Arbeiten von George Boole und Gottlob Frege zur selben Zeit die ersten formalen Systeme, die sich von den Vorlagen einer bestimmten Sprache zu lösen versuchten.
+Eine Einteilung solcher formalen Sprachen und der ihnen zugrunde liegenden Grammatiken entwickelte Noam Chomsky.
+Dabei erzeugen Grammatiken eines bestimmten Typs innerhalb der Chomsky-Hierarchie genau die Sätze und Ausdrücke einer Sprache, die von einem bestimmten Interpreten erkannt werden, und sie erzeugen alle Sätze und Ausdrücke, die erkannt werden können.
+Solche formalen Grammatiken, besonders die kontextfreie Grammatik, finden Verwendung in der Informatik in Untersuchungen über Compiler und Interpreter.
+Aber auch in der Philosophie und Wissenschaftstheorie finden solche Sprachen Verwendung, genauso wie in Forschungsrichtungen der deskriptiven Grammatik.
+Deskriptive Grammatiken unterscheiden sich von formalen Grammatiken insofern, als sie sich aus einem empirischen Forschungsansatz ergeben.
+Sie beschäftigen sich mit den natürlichen Sprachen, denen im Allgemeinen eine größere Ausdrucksstärke zugesprochen wird.
+Der Linguist sichtet erst eine bestimmte Menge an Ausdrücken und Sätzen, die zu einer Sprache gehören.
+Kriterium dafür, dass bestimmte Ausdrücke und Sätze zu einer Sprache gehören, kann vor allem ihr Vorkommen in der geschriebenen Sprache und Literatur sein, aber auch die Akzeptanz der Ausdrücke in einer Sprachgemeinschaft.
+Dann versucht er, diese Ausdrücke durch Regeln zu erzeugen.
+Erweiterungen rein syntaktischer Regeln durch semantische findet man in der Generalized Phrase Structure Grammar sowie in den Unifikationsgrammatiken, zum Beispiel der Head-driven Phrase Structure Grammar oder der lexikalisch-funktionalen Grammatik.

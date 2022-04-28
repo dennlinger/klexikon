@@ -1,0 +1,25 @@
+Die Personen, die zur Wahl berechtigt sind (Wahlberechtigte), wählen in einem festgelegten Verfahren (Wahlsystem) - zumeist aus einer Auswahl - einen Amts- oder Mandatsinhaber oder ein Gremium für einen festgelegten Zeitraum.
+Zu unterscheiden ist zwischen egalitären und funktionalen Repräsentativsystemen: Egalitär bedeutet, dass alle Wahlberechtigten gleich behandelt werden; funktional ist eine Wahl, bei der Vertreter verschiedener Statusgruppen ihre Vertreter in getrennten Wahlgängen (z.
+Die Wahl des deutschen Bundespräsidenten ist ein Beispiel dafür, dass dies auch in korrekten Demokratien grundsätzlich möglich ist, da die Mehrheitsverhältnisse in der Bundesversammlung in der Regel zuvor bekannt sind.
+An politische Wahlen wird eine Reihe von Anforderungen gestellt, die sich als zwingend notwendig herausgestellt haben, um mit den Wahlen tatsächlich den angestrebten Interessenausgleich hervorzubringen.
+In Deutschland erfüllen politische Wahlen folgende Aufgaben:
+Eine politische Wahl muss dazu folgenden Anforderungen genügen:
+Auch können nicht alle Forderungen konsequent eingehalten werden: Wahlkreiszuschnitte, die zu genau der gleichen Zahl von Wählern in jedem Wahlkreis führen würden, würden zu Akzeptanzproblemen führen; zudem müssten wegen der verschiedenen demografischen Entwicklung in den Regionen bei jeder Wahl die Wahlkreise neu zugeschnitten werden.
+Es muss die Möglichkeit geben, frei aus mehreren Kandidaten oder Parteien auszuwählen, auch die Kandidatenaufstellung muss frei sein.
+Das heißt auch, dass das Beobachten etwa des Weges der Wahlurne vollständig möglich ist (sodass ein Befüllen der Wahlurne vor Beginn der Wahl und ein Austauschen der Wahlurne gegen eine andere ausgeschlossen werden können) und dass sich jede Summe von Wählerstimmen für eine Partei (oder einen Kandidaten) als Summe aller Untersummen ergibt, also auf der Kette der Berechnungen vom Wahllokal bis zur eventuellen Sitzzuteilung jede Teilberechnung nachvollziehbar ist, diese Kette also keine Lücken aufweist.
+Die Effektivität der Wahl (auch Effektivitätsgrundsatz genannt) bezeichnet die Voraussetzung, dass die gewählten Parteien und Ämter tatsächlich ihre Aufgaben wahrnehmen können.
+Zugleich wählen die Bürger mit ihrer Zweitstimme - der sogenannten Kanzlerstimme - die Landesliste einer bestimmten Partei.
+Zudem kann es aufgrund einer geringen Wahlbeteiligung bzw. eines schwachen Zweitstimmenergebnisses einer Partei mit Direktmandaten (etwa durch Stimmensplitting zwischen Erst- und Zweitstimme) in einem Bundesland zu den sogenannten Überhangmandaten kommen, die den Bundestag über die Zahl von 598 Abgeordneten hinaus vergrößern.
+Diese kommen zustande, wenn von einer Partei in einem Bundesland mehr Direktkandidaten mit der Erststimme in den Bundestag gelangen, als dieser Partei Mandate anteilig über die Zweitstimmen für die jeweilige Landesliste zustehen würden.
+Allerdings erklärte im Juli 2008 das Bundesverfassungsgericht das bestehende Wahlrecht zum Bundestag für verfassungswidrig ("negatives Stimmengewicht") und gab dem Gesetzgeber eine Neufassung spätestens bis Mitte 2011 auf.
+Der schwedische Reichstag hat stets 349 Abgeordnete, es gibt also keine Überhangmandate.
+Danach sind folgende Personen stimmberechtigt: Schwedische Staatsbürger sowie Staatsbürger eines anderen EU-Landes, außerdem Bürger anderer Staaten, die seit mindestens drei Jahren in Schweden wohnhaft sind.
+Danach finden die allgemeinen Wahlen alle vier Jahre am dritten Sonntag im September statt.
+In den allgemeinen Wahlen kann der Wähler außerdem einem Kandidaten der gewählten Partei eine Personenstimme geben.
+Im Gegensatz zum deutschen Wahlsystem gibt es aber keine Erst- und Zweitstimmen, also auch kein Stimmensplitting.
+Das folgende Beispiel ist konstruiert, zeigt aber die prinzipiellen Risiken, die Wahlverfahren in unterschiedlicher Weise mitbringen: Bei einer fiktiven Wahl gelte das Mehrheitswahlrecht, das Parlament hat fünf Abgeordnete, die in fünf Wahlkreisen mit je 100 Wählern gewählt werden.
+Die Kandidaten werden von nur zwei Parteien (A und B) gestellt und alle Wahlberechtigten gehen zur Wahl.
+Wenn Partei A in drei Wahlkreisen knapp mit 51 Stimmen siegt und Partei B in zwei Wahlkreisen mit 99 Stimmen siegt, dann hat Partei B 3*49+2*99= 345 Stimmen oder 69 % aller Stimmen.
+Hier stehen also mehr als 2/3 aller Wähler hinter Partei B, dennoch hat sie von fünf Mandaten nur zwei erhalten und ist im Parlament mit nur 40 % der Mandate nicht fähig, Entscheidungen für die Mehrheit der Wähler durchzusetzen.
+Umgekehrt kann es bei bestimmten Wahlsystemen dazu kommen, dass man mit weniger Stimmen mehr Mandate bekommt (negatives Stimmengewicht, vom Bundesverfassungsgericht am 3. Juli 2008 als verfassungswidrig beurteilt).
+Dabei kann eine Partei, der im Bundesland A mehr Direktmandate als Mandate nach Zweitstimmen zustehen würde, ein Mandat in einem anderen Bundesland verlieren, wenn sie in Land A mehr Zweitstimmen erhält und umgekehrt.

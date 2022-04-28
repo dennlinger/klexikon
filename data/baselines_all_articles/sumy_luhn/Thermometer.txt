@@ -1,0 +1,25 @@
+Ein Thermometer (altgriechisch o thermos, deutsch ,warm' und altgriechisch ov metron, deutsch ,Maß, Maßstab') ist ein Messgerät zur Bestimmung der Temperatur.
+Viele Thermometer basieren auf der Temperaturabhängigkeit der Ausdehnung von Flüssigkeiten, Gasen oder Festkörpern, deren Ausdehnungskoeffizient bekannt ist.
+Dazu muss die Messstelle des Thermometers die Temperatur des Messgegenstands annehmen.
+Neben diesem mechanischen Messeffekt werden verschiedene von der Temperatur abhängige elektrische Einflüsse genutzt, z.
+B. der Einflusseffekt der Temperatur auf den elektrischen Widerstand.
+Pyrometer hingegen messen ohne Berührung des Messgegenstands anhand seiner für die Temperatur charakteristischen ausgesendeten Temperaturstrahlung.
+Thermometer werden anhand von festen Temperaturpunkten, wie den Tripel- oder Schmelzpunkten bestimmter Materialien, oder anhand eines geeichten Referenzthermometers justiert.
+Der griechische Arzt Galen führte im zweiten Jahrhundert acht "Grade der Hitze und Kälte" ein: Jeweils vier Grade über und unter einem neutralen Mittelpunkt, der einer Mischung gleicher Mengen von Eiswasser und kochendem Wasser entsprechen sollte.
+Bereits in der Antike war die durch Temperaturänderungen bewirkte thermische Ausdehnung von Luft dazu verwendet worden, verschiedene Mechanismen in Bewegung zu setzen, so etwa durch Philon von Byzanz oder Heron von Alexandria.
+Aber erst im frühen 17. Jahrhundert wurde dieses Prinzip in einem Vorläufer des Thermometers, dem Thermoskop, zur Bestimmung von Temperaturen benutzt.
+Die durch Temperaturänderungen verursachten Volumenänderungen der eingeschlossenen Luft ließen die Wassersäule im Rohr steigen oder fallen.
+Das Thermoskop hatte zumindest anfänglich noch keine Skala, die Länge der Wassersäule wurde mit einem Zirkel abgegriffen.
+Er beobachtete damit die Temperatur der kalten Winterluft, führte Buch über eine sommerliche Hitzewelle und verglich die Temperaturen verschieden großer Seen.
+Der Arzt Santorio Santorio aus Padua, der mit Galileo in Kontakt war, nutzte dessen wissenschaftliche Erkenntnisse medizinisch und verwendete sowohl Thermoskope zur Temperaturmessung, als auch Pendel zum Pulsmessen.
+Alle bis dahin verwendeten Thermoskope nutzten nicht die thermische Ausdehnung der Flüssigkeit, sondern die der Luft.
+de' Medici, Großherzog von Toscana, ließ 1654 das erste Thermometer herstellen, das die Ausdehnung von Alkohol in einem geschlossenen Glasrohr ausnutzte.
+Ab etwa 1714 ersetzte Daniel Gabriel Fahrenheit in Amsterdam den Alkohol durch Quecksilber und erfand das Quecksilberthermometer.
+1724 schlug Daniel Gabriel Fahrenheit die nach ihm benannte Temperaturskala vor, die den kältesten Punkt einer Kältemischung als 0 °F, den Schmelzpunkt von Wasser als 32 °F und die Körpertemperatur des Menschen als 96 °F definierte.
+Anders Celsius legte seine Skala 1742 anhand von Schmelz- und Siedepunkt von Wasser fest, allerdings andersherum als die heute nach ihm benannte Skala.
+1859 formulierte Gustav Robert Kirchhoff das nach ihm benannte Strahlungsgesetz, das den Grundstein für auf Temperaturstrahlung basierende Thermometer legte.
+Heizungs-Thermostatventile und Thermostatmischbatterien mit Dehnstoffelementen sind hingegen keine Thermometer, sondern Regler.
+Berührungslos messende Thermometer (Pyrometer) nutzen die Eigenschaft, dass Objekte aufgrund ihrer Eigentemperatur eine elektromagnetische Temperaturstrahlung aussenden.
+Ein auf Schwerkraft und temperaturabhängiger Dichte einer Flüssigkeit basierendes Thermometer, das Galileo-Thermometer, wurde nicht von Galileo Galilei erfunden, sondern nur nach ihm benannt.
+Bei allen Temperaturänderungen folgt der Messwert der tatsächlichen Temperatur mit Verzögerung, weil zur Temperaturangleichung Wärme transportiert werden muss.
+Kennzeichnend für das Zeitverhalten sind Übergangszeiten, in denen der Messwert einer sprunghaften Temperaturänderung folgt, und zwar zu 50 % und zu 90 %.

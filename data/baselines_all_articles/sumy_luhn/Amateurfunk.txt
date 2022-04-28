@@ -1,0 +1,25 @@
+Der Amateurfunkdienst (kurz: Amateurfunk; englisch amateur radio service oder umgangssprachlich ham radio) ist im Sinne der Internationalen Fernmeldeunion (ITU) ein von Amateuren ausgeübter globaler nichtkommerzieller Funkdienst (englisch service) mit den Selbstzwecken:
+Das völkerrechtliche Vertragswerk der Internationalen Fernmeldeunion (ITU) ist die Vollzugsordnung für den Funkdienst (in Österreich und Deutschland: VO Funk, in der Schweiz: Radioreglement, aktuell in der Fassung von 2016).
+Dieser internationale Vertrag reglementiert den Sendeempfangsbetrieb aller Funkdienste, um gegenseitige Störungen an den Landesgrenzen und über diese hinweg auszuschließen.
+Die Amateurfunk-Genehmigungen (in Deutschland Zulassung zur Teilnahme am Amateurfunkdienst) sind entsprechend dem Schwierigkeitsgrad der abgelegten Prüfung in mehrere Klassen abgestuft mit Einschränkungen bei der Frequenznutzung, Sendeleistung, Modulationsart oder bei der Betriebsart.
+Speziell bei Selbstbauern ist Morsen aber weiterhin sehr beliebt, weil man mit sehr einfachen Geräten (der Sender muss nur den Träger ein- und ausschalten können) und sehr geringen Empfängerbandbreiten (200 Hz gegenüber mindestens 2100 Hz bei Sprechfunk) arbeiten kann.
+Frequenzbereiche für alle Funkdienste werden durch die Internationale Fernmeldeunion (ITU) in der VO Funk international zugewiesen.
+Darin werden die einzelnen Bänder bestimmten Funkdiensten auf primärer oder sekundärer Basis zugewiesen; nicht alle Amateurfunkbänder können von Funkamateuren deshalb alleinig genutzt werden.
+So ist in Skandinavien das 70-cm-Amateurfunkband nur 6 MHz breit (432-438 MHz), während es im restlichen Europa 10 MHz breit ist (430-440 MHz).
+Auf Kurzwelle wird traditionell der unterste Bandabschnitt exklusiv der Telegrafie (Morsen) zugeteilt, am oberen Ende wird Telefonie (Sprechfunk) betrieben.
+In den letzten Jahren geht man langsam von einer Sortierung nach einzelnen Betriebsarten über zu einer Sortierung nach benutzten Bandbreiten.
+Die Überlegung dahinter ist, dass Modulationsarten mit geringen Bandbreiten auch geringere Sendeleistungen erfordern und sich schwächere Sender gegenseitig weniger stören, als das sehr starke Sender gegenüber schwachen Sendern tun.
+An Schulen und Hochschulen gibt es teilweise Klubstationen (Schulstationen) sowie Projekte für Funkkontakte mit der Internationalen Raumstation ISS (Amateur Radio on the International Space Station (ARISS)).
+Besonders begehrt sind QSL-Karten aus Amateurfunk-Ländern, in denen es sehr wenige oder keine Funkamateure gibt, aber auch von selten arbeitenden oder schwer zu erreichenden Amateurfunk-Stationen wie der Internationalen Raumstation ISS oder von prominenten Funkamateuren wie Juan Carlos von Spanien.
+In den USA gab es bis 1939 Experimentalstationen, deren Rufzeichenschema dem bis heute bei den US-Funkamateuren üblichen entspricht (1-2 Buchstaben aus dem ITU-Rufzeichenblock der USA, 1 Zahl, 1-3 Buchstaben).
+In Deutschland wurden einige wenige Clubstationen lizenziert, während es in Großbritannien zur gleichen Zeit schon 1200 offiziell lizenzierte Funkamateure gab.
+Ende Mai 1933 wurden 180 alte "Schwarzfunker" offiziell lizenziert - wohl aus Propagandagründen.
+Ihre Bewährungsprobe mussten Organisation und Disziplin der deutschen Funkamateure in der Zeit von 23. bis 30. April 1948 bestehen: Die deutschen Funkamateure verpflichteten sich gegenüber der Militärregierung zu absoluter Funkstille, die auch fast vollständig eingehalten wurde.
+Die GST förderte durch materielle Zuwendungen die Errichtung sogenannter Klubstationen, an denen mehrere Funkamateure die meist selbst gebaute Technik gemeinsam nutzen konnten.
+Wie damals üblich begann der Amateurfunk auch in der Schweiz um den Ersten Weltkrieg als "Schwarzfunk".
+Der Amateurfunk hat vielen technisch interessierten Menschen den Zugang zu Elektronik und Nachrichtentechnik geebnet.
+In der Deutschen Demokratischen Republik gehörte der Amateurfunk zur paramilitärischen Ausbildung; der Zugang zum Amateurfunk war nur über die Gesellschaft für Sport und Technik möglich.
+Bei der nach der Flutkatastrophe von 1953 modellierten multinationalen Übung FloodEx waren 2009 Notfunker vor allem aus den Niederlanden und Großbritannien fest eingebunden, weil die Lage den weitgehenden Ausfall des Bündelfunknetzes TETRA simulierte.
+In den dicht besiedelten Regionen der Erde, also etwa den Industrieländern der nördlichen Halbkugel, existiert heute eine Vielzahl öffentlicher und behördlicher Kommunikationsmittel.
+Selbst wenn Hilfsdienste mit ihren eigenen Funksystemen vor Ort sind, kann der Amateurfunk eine wichtige Rolle übernehmen: Viele der benutzten Funksysteme sind nicht interoperabel, der Hilfsdienst A kann keinen Funkkontakt mit Hilfsdienst B aufnehmen.
+Funkamateure können diese Grenze häufig mit ihrer eigenen Technik und mit den beim Hobby erworbenen Kenntnissen überbrücken.

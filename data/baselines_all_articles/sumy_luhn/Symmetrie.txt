@@ -1,0 +1,25 @@
+Eine zweidimensionale geometrische Figur besitzt dann die Eigenschaft, rotationssymmetrisch zu sein, wenn die Figur einen zentralen Punkt besitzt, und die Figur auf sich selbst abgebildet wird, wenn man sie um diesen Punkt dreht.
+Der Drehwinkel kann nur durch Division des vollen Winkels durch eine natürliche Zahl n {\displaystyle n} >1 entstehen, also  = 360  n {\displaystyle \varphi ={\frac {360^{\circ }}{n} }} .
+Entsprechend heißt diese Symmetrie auch n {\displaystyle n} -zählige oder n {\displaystyle n} -fache Rotationssymmetrie (analog zum Englischen " n {\displaystyle n} -fold rotational symmetry") oder auch " n {\displaystyle n} -zählige Drehsymmetrie".
+Allgemeiner gilt: Der Graph einer Funktion f ist genau dann achsensymmetrisch zur Geraden mit der Gleichung x = a {\displaystyle x=a} , wenn die folgende Bedingung für beliebige Werte von x richtig ist:
+Eine vor allem in der Schulmathematik häufige Aufgabenstellung besteht darin nachzuweisen, dass der Graph einer gegebenen Funktion punktsymmetrisch ist.
+In einem Gitter mit den Basisvektoren a = ,  = ,  = {\displaystyle {\vec {\alpha }},{\vec {\beta }},{\vec {\gamma } }} kann durch den Translationsvektor T = {\displaystyle {\vec {T} }} jeder Punkt durch ganzzahlige Werte von u , v , w {\displaystyle u,v,w} erreicht werden.
+Dreidimensionale Objekte sind rotationssymmetrisch in engeren Sinn, wenn eine Drehung um jeden beliebigen Winkel um eine Achse (die Symmetrieachse) das Objekt auf sich selbst abbildet.
+Analog zum Zweidimensionalen wird der Begriff der Rotations- oder Drehsymmetrie auch angewendet, wenn der Körper durch Drehung um gewisse Winkel um eine Achse auf sich selbst abgebildet werden kann.
+Als Beispiele für rotationssymmetrische 3D-Objekte sind in der nebenstehenden Grafik Prismen perspektivisch dargestellt, die entstehen, wenn die 2D-Polygone der obigen Grafik Vier reguläre Polygone und zwei weitere geometrische Figuren mit den Kennzahlen ihrer Rotationssymmetrie längs einer senkrecht zur Figur liegenden Geraden im Raum verschoben werden.
+Die dargestellten Symmetrien gehören zu den zyklischen Gruppen C 1 {\displaystyle C_{1 } } bis C 6 {\displaystyle C_{6} } und sind Untergruppen der jeweils vollen Symmetriegruppen der Prismen.
+Stellvertretend für die sechs abgebildeten regulären Prismen werden im folgenden Abschnitt alle Rotationssymmetrien eines homogenen Würfels betrachtet.
+Ein homogener Würfel besitzt insgesamt 13 Drehachsen (Achsen der Rotationssymmetrie), wie in der nebenstehenden Grafik dargestellt:
+Kombiniert man die Würfel-Drehgruppe mit der Punktspiegelung am Mittelpunkt des Würfels, so ergeben sich 2 * 24 = 48 {\displaystyle 2\cdot 24=48} Elemente der vollen Symmetriegruppe des Würfels (s. u.).
+Da die Drehspiegelachsen auch Drehachsen sind, werden sie in der Reihenfolge der obigen Grafik Alle 13 Achsen der Rotationssymmetrie ... angeordnet.
+Die Wirkung der Drehspiegelung lässt sich nachvollziehen, wenn man die Bahn der mit einem weißen Punkt markierten Ecke verfolgt.
+Nach der Drehung um 90° (rechte Handregel: Daumen in Richtung der Achse, Drehung in Richtung der anderen Finger) wird der Punkt zunächst auf die rechte obere Ecke und durch die Spiegelung auf die rechte untere Ecke abgebildet, die durch einen schwarzen Punkt markiert ist.
+Dass sie 6-zählig ist, erkennt man wiederum, wenn man die Bahn verfolgt, die ein Punkt des Würfels, zum Beispiel in der Grafik die Bahn der mit einem weißen Punkt markierten Ecke verfolgt.
+Durch die erste Teiloperation, eine Drehung um 60° um die Drehspiegelachse, wird der weiße Punkt auf einen Punkt abgebildet, der kein Eckpunkt ist.
+Die zweite Teiloperation, die Spiegelung an der Drehspiegelebene, führt zum ersten Bildpunkt, der als schwarzer Punkt markiert ist und der oberhalb der Drehspiegelebene liegt (schwarzer Punkt rechts oben).
+Wendet man nun die Drehspiegelung um 60° erneut auf den ersten Bildpunkt an, führt das zum zweiten schwarzen Bildpunkt rechts unten usw.
+In der Grafik sind in diesem Fall vier weiße Punkte markiert und ihre Bildpunkte als vier schwarze.
+Jeder Punkt tauscht mit dem Punkt, der auf der Geraden, die von diesem Punkt durch das Zentrum geht und auf der anderen Seite des Zentrums im gleichen Abstand liegt, seine Position.
+Die Punktspiegelung, lässt keinen Punkt des Körpers an seinem ursprünglichen Platz, mit einer Ausnahme: Einziger Fixpunkt einer Drehspiegelung ist das Symmetriezentrum, der Mittelpunkt des Körpers.
+Die Grafik zeigt die Abbildung von vier ausgewählten Ecken (weiße Punkte) eines Würfels durch Inversion (schwarze Punkte).
+Zusammen mit den 9 Spiegelebenen ergibt das 24 Symmetrieelemente, also genau so viele, wie es Elemente der Würfel-Drehgruppe gibt.

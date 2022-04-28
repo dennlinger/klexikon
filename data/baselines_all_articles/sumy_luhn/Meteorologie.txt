@@ -1,0 +1,25 @@
+Sie wird zu den Geowissenschaften gezählt und ist an den Universitäten (siehe Meteorologiestudium) oft den Instituten für Geophysik bzw. der jeweiligen Fakultät für Physik angegliedert.
+Nach der Erfindung von Luftfahrzeugen (die erste Montgolfiere fuhr 1783) konnte man mit Ballonen das Wetter in den unteren Luftschichten besser erforschen (siehe auch Wetterballon; Hauptartikel: Chronologie der Luftfahrt).
+B. erreichten das deutsche Flugzeug Ta 152 oder der sowjetischen Jak-9PD etwa 14 km Höhe; noch kurz zuvor konnten maximal etwa 4 km Höhe erreicht werden.
+Nach dem Krieg begann der Kalte Krieg; viele Länder unternahmen große Anstrengungen zur Erforschung des Wetters (z.
+Die Wetterforschung in großen Höhen diente vor allem der Raumfahrt, insbesondere der bemannten Raumfahrt (siehe auch Der Wettlauf ins Weltall im Kalten Krieg), und der Entwicklung von Interkontinentalraketen.
+Diese spielen jedoch meist nur in der Forschung eine größere Rolle, wo sie auch teilweise als "Spielwiese" zur Verbesserung derjenigen Modelle dienen, die auch die derzeitige Erdatmosphäre beschreiben.
+Insbesondere beschäftigt sich die Meteorologie nicht nur mit der Troposphäre, also der untersten Schicht der Atmosphäre, sondern auch mit Stratosphäre und in beschränktem Umfang sogar mit Mesosphäre und Thermosphäre.
+Aus der Vielzahl von Messgeräten, der Art der Messgrößen und den Zielen ihrer Verwendung ergeben sich zahlreiche Probleme.
+Für die Messgröße Niederschlag beispielsweise sind verschiedene Messgeräte zur Erfassung von Regen, Tau, Schnee und Hagel weit verbreitet und praxiserprobt.
+Aus methodischen Gründen wird die Erfassung von flüssigem (Regen, Tau) und festem (Schnee, Hagel) Niederschlägen unterschieden und die Messgröße daher nach den erfassten Niederschlagsarten klassifiziert angegeben.
+Die Frage ihrer Vergleichbarkeit beziehungsweise der notwendigen Korrekturen ist Gegenstand wissenschaftlicher Diskussionen; für verschiedenste Niederschlagsmesser sind bereits zahlreiche Vergleiche durchgeführt worden (siehe hierzu WMO bzw. CIMO).
+Auch die Messung der anderen meteorologischen Größen ist mit ähnlichen, wenn auch geringeren Problemen behaftet: beispielsweise konnte lange Zeit die vertikale Komponente der Windgeschwindigkeit nicht richtig erfasst werden und auch heute noch ist die Messung vertikaler Gradienten sehr aufwändig.
+Diese Messungen müssen hierfür jedoch vergleichbar sein, weshalb die Normung und Standardisierung von Messgeräten und Messverfahren in der Meteorologie sehr wichtig ist, aufgrund vielfältiger praktischer Probleme jedoch nur bedingt umgesetzt werden kann.
+Zu einer räumlichen Vergleichbarkeit der Daten, die zur Wettervorhersage notwendig ist, kommt jedoch auch eine zeitliche Vergleichbarkeit, die unter anderem für Klimaprognosen eine entscheidende Rolle spielt.
+Wird die Entwicklung der Messgeräte und damit der Messgenauigkeit bei der Analyse teilweise sehr alter Daten nicht berücksichtigt, so sind diese Daten wissenschaftlich beinahe wertlos, weshalb weltweit oft veraltete und seit Jahrzehnten unveränderte Messgeräte noch sehr weit verbreitet sind.
+Zudem ist jeder Wechsel der Messapparatur mit einem Wechsel der Datenqualität verknüpft, was bei längeren und sehr wertvollen Messreihen von vielen Jahrzehnten bis wenigen Jahrhunderten leicht zu falsch postulierten bzw. interpretierten Trends führen kann.
+Bei einer globalen Erwärmung von wenigen Grad Celsius sind diese sehr alten Daten meist wenig hilfreich, da schon ihr Messfehler in der Regel den Effekt dieser möglichen Temperaturänderungen übersteigt.
+Ein wichtiges Hilfsmittel für Meteorologen, speziell der Satellitenmeteorologie, bilden heutzutage die Satelliten, insbesondere die Wetter- und Umweltsatelliten.
+Aufgrund der großflächigen Erfassung von Messdaten lassen sich mit Satelliten globale Zusammenhänge erfassen und damit letztendlich auch verstehen.
+Insbesondere den Zustand und die Zusammensetzung der oberen Atmosphäre (Stratosphäre, Mesosphäre, Thermosphäre) kann man nur wirkungsvoll durch den Einsatz von Satelliten untersuchen.
+Satellitendaten leisten beispielsweise bei der Überwachung der Entwicklung der Ozonlöcher wertvolle Dienste, indem man aus Satellitenmessungen direkt den Gehalt von Ozon pro Höhe und pro Tag sehr genau abschätzen kann.
+Die Arbeit mit Satellitendaten erfordert weitreichende Kenntnisse in der Datenverarbeitung und der damit zusammengehörenden Technik und der Techniken (beispielsweise effiziente Programmierung).
+Da solche Modelle wegen der Komplexität des modellierten Systems leicht ganze Rechenzentren beschäftigen können, ist eine effiziente Algorithmik, also die Natur vereinfachende statistische Annahme, ein wichtiger Punkt bei der Entwicklung der Modelle.
+In den 1920er Jahren hat der Mathematiker Lewis Fry Richardson Methoden entwickelt, mit Hilfe derer die enorme Komplexität mathematischer meteorologischer Modelle angegangen werden konnten.
+Diese dienen daher auch nicht ohne Grund in sehr vielen Fällen zur Simulation der Wetter- bzw. Klimadynamik, wobei diese ihre Grenzen, trotz teilweise gigantischer Größendimensionen, schnell erreichen.

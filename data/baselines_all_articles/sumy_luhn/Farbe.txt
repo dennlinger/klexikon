@@ -1,0 +1,25 @@
+In anderen Sprachen wird stärker zwischen dem Effekt Farbe ("farbig") und der Ursache für Farbe ("färben") unterschieden, so im Englischen colour und dye (stuff) (oder pigment), oder in den romanischen Sprachen (spanisch: color und tenir).
+Farbe ist nicht die Eigenschaft eines betrachteten Objekts oder gesehenen Lichtes, sondern sie ist subjektives Empfinden, dessen physikalische Ursache die Intensitätsverteilung elektromagnetischer Wellen zwischen 310 nm und 1050 nm (bzw. von 360-400nm bis 760-830nm) ist.
+Unterschiedliche Intensitäten im sichtbaren Licht lösen Nervenreize aus, die unterschiedliche Qualitäten der Farbwahrnehmung bilden, deren Miteinander als Farbe wahrgenommen wird.
+Farbe lässt sich aufgrund der drei Arten von Farbrezeptoren beim Menschen als dreidimensionale Eigenschaft darstellen.
+Somit sind auch Schwarz (keinerlei Erregung), Neutralgrau (gleiche Erregung) und Weiß (volle Erregung aller drei Zapfensorten) ebenfalls Farben, die klassifizierend als unbunte Farben benannt werden.
+Als Licht sichtbar ist elektromagnetische Strahlung der Wellenlänge zwischen von 380 nm und 780 nm (sichtbarer Teil des elektromagnetischen Spektrums).
+Für den Gesamteindruck mehrerer farbiger Beleuchtungsquellen gelten die Gesetze der additiven Farbmischung (Rote Lampe + Grüne Lampe = Gelbes Licht).
+Für Körperfarben und deren Farbmittel gelten die Gesetze der subtraktiven Farbmischung (Magenta + Gelb = Rot).
+Es kann in einzelnen Sprachen eigene (objektgebundene) Farbbezeichnungen für bestimmte Einsatzzwecke geben: beispielsweise gilt blond im Deutschen nur für menschliches, dagegen falb nur für tierisches Haar.
+In der einflussreichen 98 Sprachen umfassenden Untersuchung Basic Color Terms schlugen Brent Berlin und Paul Kay vor, dass alle Sprachen der Welt eine minimale Besetzung von zwei Farbkategorien in ihrem Wortschatz (d. h. Farbtermini für Weiß/Hell und Schwarz/Dunkel) haben.
+Aufgrund von zwölf dem deutschen Sprachsystem eigens zugeschnittenen Kriterien identifizierte Kaufmann ein Inventar von lediglich acht Grundfarbadjektiven (blau, braun, gelb, grau, grün, rot, schwarz, weiß), daneben acht Zwischenfarbadjektive (rosa, pink, orange, türkis, lila, violett, purpur, beige).
+Daher werden technische Farbangaben meist als 3-Tupel in einem Farbraum angegeben; dementsprechend gibt es oft drei Grundfarben oder Primärfarben, auf denen der jeweilige Farbraum aufgebaut ist.
+Am gleichen Bildschirm sehen die drei Balken gleich aus, so scheint der Farbton (Rot, Grün, Blau)= {#800080} für ein Purpur im RGB-System ausreichend definiert.
+Beim Betrachten des so erzeugten Farbreizes an verschiedenen (nebeneinander stehenden) Monitoren erscheinen die Balken allerdings unterschiedlich, insbesondere wenn die Monitore unkalibriert sind.
+So gilt Blau meist als kalte Farbe, wurde im Mittelalter aber als warm eingestuft und beispielsweise mit der Gottesmutter Maria assoziiert.
+Andererseits ist die Wahrnehmung unterschiedlicher Wellenlängen in den Zapfen und Stäbchen der Netzhaut nicht allein für die Entstehung des wahrgenommenen Bildes verantwortlich.
+In der Farbmetrik kann diese Individualisierung zu Schwierigkeiten führen, da zwei physikalisch gleiche Farben von verschiedenen Personen nicht zwangsläufig auch gleich beurteilt werden.
+Weil die Erfahrung und die Erziehung diesen gefühlsbesetzten Dinge eine (vom Kulturkreis) bestimmte Farbe beigibt, entwickelt der Mensch Gefühle schon dann, wenn er die Farbe allein wahrnimmt.
+Beleg für eine aktive Wahrnehmung sind die steinzeitlichen Höhlenzeichnungen, in denen Menschen die gesehene Farbe der Natur in eigener Schöpfung mit andersartigen Farbstoffen reproduziert haben.
+Das glänzende Gelb des Materials Gold, der Substanz der Götter, der Abglanz der Sonne führten zum Wunsch dies nachzugestalten.
+Versuche der Metallhandwerker und philosophische Ansätze zur Stoffwandlung auf Basis der Theorien der Elemente förderten den Wunsch teure Pigmente anders und billiger in gleicher "Farbe" herzustellen.
+Insbesondere das "schöne", aber teure Gold gemäß seiner "sehbaren" Eigenschaft - der Farbe - "nachzubauen" wurde zur Grundlage und Triebkraft der Alchemie, der hermetischen Kunst.
+Im Farbmodell wird jede enthaltene Farbe als Punkt innerhalb eines (oft) dreidimensionalen Farbraumes dargestellt - dessen maximaler Umfang sich nach der Reinheit der jeweiligen Grundkomponenten richtet.
+Die Modelle sind durch den Anwendungsfall bedingt und begrenzt, deren Farbraum sollte alle in der jeweiligen Technik möglichen Farben umfassen.
+Neben diesen mathematisch definierten (stetigen) Farbräumen gibt es Mustersammlungen, in denen materielle Proben von definierten Farbtönen enthalten sind.

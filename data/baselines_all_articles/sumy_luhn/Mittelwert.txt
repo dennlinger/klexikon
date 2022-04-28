@@ -1,0 +1,25 @@
+Pappos von Alexandria kennzeichnet zehn verschiedene Mittelwerte m {\displaystyle m} von zwei Zahlen a {\displaystyle a} und b {\displaystyle b} ( a < b {\displaystyle a<b} ) durch spezielle Werte des Streckenverhältnisses ( b - m ) : ( m - a ) {\displaystyle (b-m):(m-a)} .
+Auch die Ungleichung zwischen harmonischem, geometrischem und arithmetischem Mittel ist in der Antike bereits bekannt und geometrisch interpretiert.
+Die klassische Ungleichung zwischen harmonischem, geometrischem und arithmetischem Mittel geht dabei über in allgemeinere Ungleichungen zwischen Potenzmittelwerten bzw. quasi-arithmetischen Mittelwerten.
+Im Folgenden seien x 1 , ... , x n {\displaystyle x_{1},\dotsc ,x_{n}} gegebene reelle Zahlen, in der Statistik etwa Messwerte, deren Mittelwert berechnet werden soll.
+Das arithmetische Mittel wird beispielsweise zum Berechnen der Durchschnittsgeschwindigkeit genutzt, die Werte werden also als Geschwindigkeiten interpretiert: Läuft eine Schildkröte erst eine Stunde lang drei Meter pro Stunde, dann drei Stunden lang je zwei Meter und beschleunigt für jeweils eine Stunde nochmals auf drei, vier und fünf Meter pro Stunde, so ergibt sich als arithmetisches Mittel bei einer Strecke von 21 Metern in 7 Stunden:
+Meter mit 3 Metern pro Stunde, weitere 3 m mit jeweils 2 m/ h und beschleunigt auf den letzten 3 Metern nochmals auf jeweils 3, 4 und 5 m/ h. Die Durchschnittsgeschwindigkeit ergibt sich bei einer Strecke von 7 Metern in 157 60 {\displaystyle {\tfrac { 157}{60} } } Stunden:
+Mit dem geometrischen Mittel errechnet man den mittleren Wachstumsfaktor.
+Beim arithmetischen Mittel sucht man die Zahl m {\displaystyle m} , für die
+Beim geometrischen Mittel sucht man die Zahl m {\displaystyle m} , für die
+Die Ungleichung vom arithmetischen und geometrischen Mittel vergleicht die Werte des arithmetischen und geometrischen Mittels zweier gegebener Zahlen: Es gilt für positive Variable stets
+Der Median beschreibt einen Wert, der den Datensatz in zwei Hälften teilt, während der Modus den Wert mit der höchsten Häufigkeit im Datensatz angibt.
+x  m e d = { x ( n + 1 2 ) , n ungerade, 1 2 ( x ( n 2 ) + x ( n 2 + 1 ) ) , n gerade.
+{\displaystyle {\bar { x}}_{\mathrm { med } }={\begin{cases}x_{\left({\frac {n+1}{2}}\right)},&n{\text{ ungerade,}}\\{\frac {1}{2}}\left(x_{\left({\frac {n}{2}}\right)}+x_{\left({{\frac {n}{2}}+1}\right)}\right),&n{\text{ gerade.
+Der logarithmische Mittelwert x  a , b , ln {\displaystyle {\bar {x}}_{a,b,\ln }} von x a {\displaystyle x_{a } } und x b {\displaystyle x_{b}} ist definiert als
+Für x a  x b {\displaystyle x_{a}\neq x_{b} } liegt der logarithmische Mittelwert zwischen dem geometrischen und dem arithmetischen Mittelwert (für x a = x b {\displaystyle x_{a}=x_{b} } ist er wegen der Division durch null nicht definiert).
+Kann man davon ausgehen, dass die Daten durch "Ausreißer", das heißt einige wenige zu hohe oder zu niedrige Werte, kontaminiert sind, so kann man die Daten entweder durch Stutzen oder durch "Winsorisieren" (benannt nach Charles P. Winsor) bereinigen und den getrimmten (bzw. gestutzten) x  t a {\displaystyle {\bar {x}}_{t\alpha }} (engl. truncated mean) oder winsorisierten Mittelwert x  w a {\displaystyle {\bar {x}}_{w\alpha }} (engl. Winsorized mean) berechnen.
+Beispiel: Hat man 10 aufsteigend sortierte reelle Zahlen x 1 , ... , x 10 {\displaystyle x_{1},\dotsc ,x_{10}} , so ist das 10-%-getrimmte Mittel gleich
+Sei [ a , b [ {\displaystyle [a,b[ } das kürzeste Intervall unter allen Intervallen mit F ( b ) - F ( a ) >= 1 2 {\displaystyle F(b)-F(a)\geq {\frac {1}{2}}} , so ist b - a 2 {\displaystyle {\frac {b-a}{2} }} dessen Mitte (middle of the shortest half).
+Für einen gegebenen reellen Vektor a = ( a 1 , ... , a n ) {\displaystyle a=(a_{1},\dotsc ,a_{n})} mit  i = 1 n a i = 1 {\displaystyle \sum _{i=1}^{n}a_{i}=1} wird der Ausdruck
+wobei über alle Permutationen  {\displaystyle \sigma } von { 1 , ... , n } {\displaystyle \{1,\dotsc ,n\}} summiert wird, als " a {\displaystyle a} -Mittel" der nichtnegativen reellen Zahlen x 1 , ... , x n {\displaystyle x_{1},\dotsc ,x_{n}} bezeichnet.
+Für den Fall a = ( 1 , 0 , ... , 0 ) {\displaystyle a=(1,0,\dotsc ,0)} , ergibt das genau das arithmetische Mittel der Zahlen x 1 , ... , x n {\displaystyle x_{1},\dotsc ,x_{n}} ; für den Fall a = ( 1 n , ... , 1 n ) { \displaystyle a=\left({\tfrac {1}{n}},\dotsc ,{\tfrac {1}{n}}\right) } ergibt sich genau das geometrische Mittel.
+Für positive Zahlen x i {\displaystyle x_{i } } definiert man den k {\displaystyle k} -Potenzmittelwert, auch Hölder-Mittel (englisch k {\displaystyle k} -th power mean) als
+Außerdem gilt bei festen Zahlen x i {\displaystyle x_{i } } : Je größer k {\displaystyle k} ist, desto größer ist x  ( k ) {\displaystyle {\bar {x}}(k)} ; daraus folgt dann die verallgemeinerte Ungleichung der Mittelwerte
+Das Stolarsky-Mittel zweier Zahlen a , c {\displaystyle a,c} ist definiert durch
+ergibt für verschiedene Argumente t  R {\displaystyle t\in \mathbb {R} } die bekannten Mittelwerte von a {\displaystyle a} und b {\displaystyle b} :

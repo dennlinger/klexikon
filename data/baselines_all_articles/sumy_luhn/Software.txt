@@ -1,0 +1,25 @@
+Software ist die Gesamtheit von Informationen, die man der Hardware hinzufügen muss, damit ein softwaregesteuertes Gerät für ein definiertes Aufgabenspektrum nutzbar wird.
+Außerdem wird Software auch als Gattungsbegriff für unterschiedliche Arten von Programmen verwendet (Grafiksoftware, Anwendungssoftware, Standardsoftware, Sicherheitssoftware u. v.
+Dabei bezeichnet Hardware alle physischen Bestandteile eines Computers.
+Eine klare Trennlinie ist jedoch nicht näher definiert, die beschreibt, welche Daten konkret gemeint sind (z.
+Die Software war dabei Teil der Hardware und wurde als Programmcode bezeichnet.
+1958 prägte der Statistiker John W. Tukey den Begriff Software erstmals.
+Dieser Entwicklung folgte dann in den 1970er Jahren die Gründung von Firmen, die erstmals nur mit Software handelten und nur Software und keine Hardware entwickelten.
+Der logische Übergang zwischen Hard- und Software lässt sich an den frühen Spielhallenspielen verdeutlichen, wie das Spiel Breakout, das im April 1976 veröffentlicht wurde.
+Bereits ein Jahr später, als das Spiel für den Computer programmiert wurde und man anfing, bei prozessorgesteuerten Geräten zwischen den Begriffen ,Hardware' und ,Software' zu unterscheiden, gab es Breakout als Software.
+Jedoch ist die Grenze zwischen Software und Daten fließend, denn je nach Situation können Daten und Programme in unterschiedlichen Rollen auftreten und die Begriffe dabei vertauscht werden:
+Je nach Zusammenhang ist bei der Unterscheidung zwischen Hard- und Software eine oder mehrere der folgenden Bedeutungen gemeint:
+Obwohl dem Begriff ,Software' teilweise Attribute wie Flexibilität, Individualität, Leistungsfähigkeit etc. zugeschrieben werden, wird letztlich alles, was der Computer ,tatsächlich tut', nicht von der Software, sondern ausschließlich durch die Hardware ausgeführt.
+Dazu wird auf unterster Ebene der Maschinencode der Software unter Nutzung des Betriebssystems (d. h. ebenfalls durch dessen Maschinenbefehle) in den Hauptspeicher des Computers geladen und dem Rechenwerk Schritt für Schritt (siehe Befehlszähler) zur Ausführung zugeführt.
+B. von Interpretern ausgeführt wird: Diese sind ebenfalls Software, deren Maschinencode an der Hardwareschnittstelle ebenfalls wie beschrieben ausgeführt wird und die Maschinenbefehle nur speicherintern erzeugt.
+Bei der Ausführung wirken also viele Schichten zusammen und führen als Gesamtheit zu Zustandsänderungen in der Hardware bzw. final zu den vorgesehenen Ergebnissen, etwa der Ausgabe einer Druckzeile, einem Datenzugriff oder der Anzeige eines Feldinhalts am Bildschirm.
+Bei in höheren Programmiersprachen entwickelten Anwendungen können so schon für relativ einfache Funktionen (wie Lesen aus der Datenbank) oft Hunderttausende oder Millionen von Maschinenbefehlen durchlaufen werden.
+Das in modernen Computern mögliche parallele Ausführen mehrerer Programme/ Prozesse wird im Wesentlichen durch das Betriebssystem bewirkt, das bei bestimmten Ereignissen den Wechsel von einer zur anderen Task einleitet und verwaltet.
+Im systematischen Zusammenwirken vieler Komponenten, das nur unter Anwendung klar definierter Schnittstellen möglich ist, "gehört Software also zu den komplexesten Artefakten, die Menschen bislang geschaffen haben".
+Im Wesentlichen für betriebliche Anwendungssoftware geltend kann Software aus (betriebs-)wirtschaftlicher Sicht als ,im Voraus geleistete geistige Arbeit', also als Investition betrachtet werden.
+Damit ist im Voraus, also bevor diese Tätigkeit tatsächlich anfällt, schon für alle Schreiber, die mit diesem Textverarbeitungsprogramm arbeiten, die geistige Arbeit "korrektes Trennen deutscher Wörter" geleistet.
+Für die Erstellung und den Betrieb von Software wurden bestimmte Qualitätskriterien festgelegt.
+Rechtlich wird beim Erwerb von Software zwischen Individualsoftware und Standardsoftware unterschieden: Für Individualsoftware wird ein Werkvertrag bzw. Werklieferungsvertrag abgeschlossen, der Erwerb von Standardsoftware gilt als Sachkauf.
+Unterteilung nach der Art der erzeugten Ergebnisse
+In den Augen der von Richard Stallman 1985 gegründeten Free Software Foundation (FSF) ist die Entscheidung für oder gegen freie Software deshalb primär eine ethische und soziale Entscheidung.
+Dagegen begreift die 1998 gegründete Open Source Initiative (OSI) quelloffene Software als bloßes Entwicklungsmodell, wobei die Frage, ob Software quelloffen sein sollte, dort eine rein praktische und keine ethische Frage darstellt.

@@ -1,0 +1,25 @@
+Die Bezeichnung robot wurde 1920 von Josef Capek, einem bedeutenden Literaten, geprägt, dessen Bruder Karel Capek ursprünglich den Namen labori verwendet hatte, als er in seinem Theaterstück R.U.R.
+Spätestens ab diesem Zeitpunkt wurde das Wort "Roboter", welches ursprünglich nur für humanoide Roboter verwendet wurde, fast beliebig für verschiedene Geräte benutzt.
+Ein allgemeines theoretisches wissenschaftliches Gebiet, welches sich mit Robotern beschäftigt, gibt es nicht.
+Sie sind meist Teilgebiete der Elektrotechnik, Informatik, Mechatronik oder des Maschinenbaus.
+Inzwischen hat sich aus der Verbindung dieser drei Disziplinen die Mechatronik entwickelt.
+Hier liegt ein Schwerpunkt der Verbindung von Konzepten der Künstlichen Intelligenz oder der Neuroinformatik und ihrer biologischen Vorbilder (Biologische Kybernetik).
+Es ist also nicht jedes Glied der Kette mit zwei anderen Gliedern verbunden.
+In einer geschlossenen Kinematik hingegen ist jedes Glied mit mindestens zwei anderen Gliedern verbunden (Beispiel: Hexapodroboter).
+Die Begriffe Vorwärtskinematik und Inverse Kinematik (auch Rückwärtskinematik) bezeichnen die mathematische Modellierung der Bewegung von Robotersystemen.
+Bei der Rückwärtskinematik werden dagegen Position und Orientierung des Endeffektors vorgegeben und die erforderlichen Einstellparameter der Gelenke werden berechnet (Vorwärts- und Rückwärtstransformation).
+Obige Kriterien in Verbindung mit den Abständen der Achsen zueinander oder deren "Verfahrwege" ergeben die Form und Größe des Arbeitsraumes eines Roboters.
+Wird nun jeder Achse ein Koordinatensystem beispielsweise entsprechend der Denavit-Hartenberg-Transformation zugeordnet, ist man in der Lage, die Position beliebig vieler, aufeinander folgender Achsen zu berechnen.
+Die direkte Kinematik wird verwendet, um aus den gegebenen Achswinkeln, also den Verschiebungen der Gelenke eines Roboters, die kartesischen Koordinaten und die Orientierung des TCPs zu ermitteln.
+Sind die Denavit-Hartenberg-Parameter (  , d , a , a {\displaystyle \theta ,d,a,\alpha } ) bekannt, so kann mit
+Die so genannte Inverse Kinematik wird eingesetzt, um bei vorgegebener Position und Orientierung des TCP zu berechnen, welche Gelenkparameter (Winkel oder Verschiebung) in den einzelnen Gliedern eingestellt werden müssen, um dieses Ziel zu erreichen.
+Dabei wird im Wesentlichen zwischen der Genauigkeit der Position (hier wird auch von Pose gesprochen) und der Bahngenauigkeit unterschieden.
+Dabei spiegelt die Absolutgenauigkeit den Unterschied zwischen der tatsächlichen und der theoretischen, der programmierten, Pose oder Bahn wider.
+Das Bild des humanoiden Roboters in der Literatur wurde, wie bereits erwähnt, maßgeblich durch die Erzählungen Isaac Asimovs in den 1940er Jahren geprägt.
+Für die Entwicklung humanoider Roboter müssen viele wichtige Probleme gelöst werden.
+Trotzdem gibt es Roboter, die man als Spielroboter bezeichnet, da ihr automatisierter Funktionsumfang im Wesentlichen keinen arbeits- oder forschungstechnischen Nutzen hat.
+Die Mondrover der Apollomissionen waren keine Roboter, weil sie direkt von Menschen gesteuert wurden.
+Eine Unterteilung in öffentlich genutzte Personal Roboter wie Serviceroboter und personengebundene Personal Roboter wie Spielzeugroboter ist, wie bei den Personal Computern, sinnvoll.
+Durch die abgeschlossene Konstruktion der PR funktionieren diese Maschinen weitgehend unabhängig, autonom, autark und selbständig.
+So mit anderen Robotern, Computern usw. Personal Robots reagieren mit ihren Sensoren auf äußere Einflüsse wie Berührungen, Töne, Laute, optische Veränderungen usw. Personal Robots speichern Daten und Informationen.
+Die Hardware besteht aus einem flauschigen Fell, Kulleraugen und Sound-Ausgabe, meist in Anlehnung an einen Teddybär, dazu kommen noch Aktoren, um die Beine und Arme zu bewegen.

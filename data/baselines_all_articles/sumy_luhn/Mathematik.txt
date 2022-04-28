@@ -1,0 +1,25 @@
+Für Mathematik gibt es keine allgemein anerkannte Definition; heute wird sie üblicherweise als eine Wissenschaft beschrieben, die durch logische Definitionen selbstgeschaffene abstrakte Strukturen mittels der Logik auf ihre Eigenschaften und Muster untersucht.
+Als weitere Vertiefung dieser Untersuchungen können die neuere Algebra und insbesondere die algebraische Geometrie angesehen werden.
+Eine damals neue Idee im Briefwechsel zwischen Blaise Pascal und Pierre de Fermat im Jahr 1654 führte zur Lösung eines alten Problems, für das es schon andere, allerdings umstrittene Lösungsvorschläge gab.
+Erst das Erscheinen von Andrei Kolmogorows Lehrbuch Grundbegriffe der Wahrscheinlichkeitsrechnung im Jahr 1933 schloss die Entwicklung der Fundamente moderner Wahrscheinlichkeitstheorie ab, siehe dazu auch Geschichte der Wahrscheinlichkeitsrechnung.
+Sobald ein Grundschüler das Addieren natürlicher Zahlen gelernt hat, ist er in der Lage, folgende Frage zu verstehen und durch Probieren zu beantworten: "Welche Zahl muss man zu 3 addieren, um 5 zu erhalten?"
+Oft sind zwischen der Formulierung eines Problems und seiner Lösung viele Jahrhunderte vergangen und ist mit der Problemlösung schließlich ein völlig neues Teilgebiet begründet worden: so konnten mit der Infinitesimalrechnung im 17. Jahrhundert Probleme gelöst werden, die seit der Antike offen waren.
+Seit dem Ende des 19. Jahrhunderts, vereinzelt schon seit der Antike, wird die Mathematik in Form von Theorien präsentiert, die mit Aussagen beginnen, welche als wahr angesehen werden; daraus werden dann weitere wahre Aussagen hergeleitet.
+Die Aussagen, mit denen die Theorie anfängt, nennt man Axiome, die daraus hergeleiteten nennt man Sätze.
+Üblicherweise verlangt man dabei von Axiomen einer Theorie, dass diese widerspruchsfrei sind, also dass nicht gleichzeitig ein Satz und die Negation dieses Satzes wahr sind.
+Diese Widerspruchsfreiheit selbst lässt sich aber im Allgemeinen nicht innerhalb einer mathematischen Theorie beweisen (dies ist abhängig von den verwendeten Axiomen).
+Die von diesen Theorien behandelten Gegenstände sind abstrakte mathematische Strukturen, die ebenfalls durch Axiome definiert werden.
+Während in den anderen Wissenschaften die behandelten Gegenstände vorgegeben sind und danach die Methoden zur Untersuchung dieser Gegenstände geschaffen werden, ist bei der Mathematik umgekehrt die Methode vorgegeben und die damit untersuchbaren Gegenstände werden erst danach erschaffen.
+Die Umwandlung in eine axiomatische Theorie erfolgt erst später, wenn weitere Mathematiker sich mit den dann nicht mehr ganz so neuen Ideen beschäftigen.
+Kurt Gödel zeigte um 1930 den nach ihm benannten Unvollständigkeitssatz, der besagt, dass es in jedem Axiomensystem klassischer Logik, das erlaubt, gewisse Aussagen über natürliche Zahlen zu beweisen, entweder Aussagen gibt, die ebenso wenig wie ihre Negation beweisbar sind, oder aber das System selbst widersprüchlich ist.
+Umgekehrt haben Mathematiker zuweilen Theorien entwickelt, die erst später überraschende praktische Anwendungen gefunden haben.
+So ist zum Beispiel die schon im 16. Jahrhundert entstandene Theorie der komplexen Zahlen zur mathematischen Darstellung des Elektromagnetismus inzwischen unerlässlich geworden.
+Des Weiteren galt die Beschäftigung mit der Zahlentheorie lange Zeit als intellektuelle Spielerei ohne praktischen Nutzen, ohne sie wären heute allerdings die moderne Kryptographie und ihre vielfältigen Anwendungen im Internet nicht denkbar.
+Über die Frage, zu welcher Kategorie der Wissenschaften die Mathematik gehört, wird seit langer Zeit kontrovers diskutiert.
+Jedoch ist sie selbst keine Naturwissenschaft im eigentlichen Sinne, da ihre Aussagen nicht von Experimenten oder Beobachtungen abhängen.
+Die Mathematik hat methodische und inhaltliche Gemeinsamkeiten mit der Philosophie; beispielsweise ist die Logik ein Überschneidungsbereich der beiden Wissenschaften.
+Eine Sonderrolle unter den Wissenschaften nimmt die Mathematik bezüglich der Gültigkeit ihrer Erkenntnisse und der Strenge ihrer Methoden ein.
+Während beispielsweise alle naturwissenschaftlichen Erkenntnisse durch neue Experimente falsifiziert werden können und daher prinzipiell vorläufig sind, werden mathematische Aussagen durch reine Gedankenoperationen auseinander hervorgebracht oder aufeinander zurückgeführt und brauchen nicht empirisch überprüfbar zu sein.
+Dafür muss aber für mathematische Erkenntnisse ein streng logischer Beweis gefunden werden, bevor sie als mathematischer Satz anerkannt werden.
+Neben sehr allgemeinen Aussagen gibt es auch sehr spezielle Aussagen, für die keine echte Verallgemeinerung bekannt ist.
+Menschen, die sich beruflich mit der Entwicklung und der Anwendung der Mathematik beschäftigen, nennt man Mathematiker.

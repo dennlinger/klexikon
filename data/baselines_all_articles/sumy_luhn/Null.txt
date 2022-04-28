@@ -1,0 +1,25 @@
+Null bezeichnet in der Mathematik je nach Kontext verschiedenartig definierte Objekte, die jedoch oft miteinander identifiziert werden können, d. h. als dasselbe Objekt angesehen, das verschiedene miteinander kompatible Eigenschaften vereint.
+Da Kardinalzahlen (Anzahl der Elemente einer Menge) mit speziellen Ordinalzahlen identifiziert werden, und die Null gerade die kleinste Kardinalzahl ist, wird die Null - im Gegensatz zum gängigen Sprachgebrauch - auch als erste Ordinalzahl gewählt.
+Die Null ist das neutrale Element bezüglich der Addition (anschaulich gesprochen die Differenz zweier gleicher Zahlen) in vielen Körpern, wie etwa den rationalen Zahlen, reellen Zahlen und komplexen Zahlen, und eine gängige Bezeichnung für ein neutrales Element in vielen algebraischen Strukturen, selbst wenn andere Elemente nicht mit gängigen Zahlen identifiziert werden.
+In der Perser- (539-331 v. Chr.) und hauptsächlich der Seleukidenzeit (305-63 v. Chr.) gab es als Vorstufe der Zahl Null ein Fehlzeichen im Sexagesimalsystem der Babylonier, nämlich in sexagesimalen Zahlen an Stellen ohne Wert.
+Die sexagesimalen Zahlen der Babylonier hatten keine feste Größenordnung, so wurde z.
+In solchen Fällen stand in den Texten aber nur, dass Minuend und Subtrahend gleich seien, es findet sich weder ein Name für null noch wurde eine Anzahl von null als Lösung algebraischer Aufgaben anerkannt.
+Da in dezimalen Zahlen Stellen mit einer Lücke, d. h. dem Wert null, sehr viel häufiger auftreten als im babylonischen Sexagesimalsystem, wurde ein Lückenzeichen für die Null im dezimalen Stellenwertsystem unentbehrlich, was für die Akzeptanz der Null als Zahl wohl förderlich gewesen sein dürfte.
+Eine weitere frühe schriftliche Verwendung der Null findet sich in der Inschrift K. 151 aus Sambor Prei Kuk in Kambodscha vom Anfang des 7. Jahrhunderts n. Chr. und berichtet von der Errichtung einer Götterstatue am 14. April 598: Das hier benutzte Jahr der aka-Ära ist 520, wobei die Null mit dem Begriff "Luftraum" ("kha") wiedergegeben ist.
+Ein weiterer Nachweis der Verwendung der Ziffer "0" stammt ebenfalls aus Kambodscha, und zwar in der Inschrift K. 127, wo in Ziffern das akajahr "605" genannt wird, das unserem Jahr 683/84 entspricht.
+Im antiken China kannte man keine Zahl Null, denn Problemstellungen hatten niemals eine Anzahl von null als Lösung und es gab keine eigenständige Null, mit der man wie mit anderen Zahlen rechnen konnte.
+Zahlen wurden jedoch wohl spätestens seit dem 1. Jahrhundert n. Chr. (frühe Han-Dynastie) durch Stäbchen ausgelegt (Jiu Zhang Suanshu, Kapitel 8, Problem 3): Die Einer senkrecht, die Zehner waagerecht, die Hunderter wieder senkrecht usw., wobei an einer Stelle mit mehr als 5 Stäbchen 5 davon durch ein Stäbchen in jeweils anderer Richtung ersetzt wurden.
+Man verfügte also über ein dezimales Stellenwertsystem, in dem es allerdings - wie im ursprünglichen Sexagesimalsystem der Babylonier - kein Fehlzeichen für Stellen ohne Wert gab.
+Dabei traten in den Rechnungen auch negative Werte auf, die man mit Stäbchen - erstmals in der Geschichte - unterschiedlich zu positiven Werten darstellte.
+Für die Ziffer und die "neue Zahl" 0 gibt es in vielen europäischen Sprachen eine vom deutschen Wort "null" abweichende Benennung; zu diesen Unterschieden siehe unten bei Herkunft des Wortes.
+Bei Dezimalzahlen werden Nullen nach dem Komma üblicherweise weggelassen, wenn ihnen keine andere Ziffer mehr folgt.
+Die Null symbolisiert im mathematischen Sinne das neutrale Element der Addition in einem kommutativen Monoid, das heißt: Für jedes Element a des Monoids gilt
+Durch Einführung der Rechenoperation der Multiplikation, mathematisch formal in der Definition eines Ringes, erhält man folgende Regel:
+Für natürliche Zahlen kann die Division als wiederholte Subtraktion angesehen werden: Um die Frage "Wie oft muss man 4 von 12 abziehen, um 0 zu erhalten?"
+Antwort: Jede beliebige (also keine eindeutige) Anzahl von Operationen bringt das gewünschte Ergebnis.
+Diese Zahl x - sofern sie eindeutig bestimmt ist - schreibt man als Quotienten x = b a {\displaystyle x={\frac {b}{a} }}
+Im besonderen Fall, dass a = 0 {\displaystyle a=0} ist, gibt es kein eindeutiges Ergebnis: Wir suchen eine Lösung der Gleichung 0 * x = b {\displaystyle 0\cdot x=b} .
+Beim Rechnen mit reellen (oder komplexen) Zahlen ist es also nicht möglich, durch null zu dividieren, da diese Operation kein eindeutiges Ergebnis hätte: Die Multiplikation mit 0 ist nicht umkehrbar.
+Die Norm IEEE 754 für binäre Gleitkommazahlen verlangt neben Existenz einer positiven und der negativen Null drei gesondert kodierte Werte namens NaN, +Inf und -Inf (infinity = Unendlichkeit).
+In der Mathematik werden solche Werte im Allgemeinen nicht verwendet, da durch diese gewünschte Eigenschaften des Zahlenraums (etwa der reellen Zahlen) wie etwa das Distributivgesetz nicht mehr anwendbar wären.
+Diese Herangehensweise entspricht der Verwendung bei der Berechnung von Grenzwerten in der reellen Analysis, das direkte Auftreten etwa einer Division durch null wird jedoch auch formal vermieden, da ansonsten die Anwendung gewisser Rechengesetze zu Widersprüchen führt.

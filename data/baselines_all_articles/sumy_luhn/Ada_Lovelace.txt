@@ -1,0 +1,25 @@
+Augusta Ada King-Noel, Countess of Lovelace, allgemein als Ada Lovelace bekannt (geborene Hon.
+Augusta Ada Byron; * 10. Dezember 1815 in London; + 27. November 1852 ebenda), war eine britische Mathematikerin.
+Die Analytical Engine wurde zwar niemals fertig gestellt, aber Ada Lovelace erkannte das gewaltige Potential dahinter besser als sein Erfinder Babbage, der bloß eine Rechenmaschine herstellen wollte.
+F. Menabrea über die Analytical Engine, der drei mal so lange war, wie der ursprüngliche Text.
+Die Erkenntnis, dass die Maschine mehr als nur Zahlen verarbeiten könnte, war bahnbrechend, dies wurde jedoch zu ihrer Lebzeit nicht erkannt.
+Ada Lovelace wurde am 10. Dezember 1815 als Ada Augusta Byron geboren.
+Ada war das einzige ehelich geborene Kind ihres Vaters, seine beiden anderen Kinder hatten andere Mütter.
+Da Adas Mutter sehr an Mathematik, Geometrie und Astronomie interessiert war und in ihrer Jugend selbst in diesen Fächern unterrichtet worden war, ermöglichte sie Ada auch eine naturwissenschaftliche Ausbildung.
+Diese Inhalte sollten später für ihr Verständnis der Analytical Engine sehr wichtig werden.
+Ada Byron war als Kind und Jugendliche oft krank und wird von Zeitzeugen sowohl als leidenschaftlich als auch als ausgesprochen naturwissenschaftlich interessiert beschrieben.
+Ada liebte Maschinen und verbrachte viele Stunden damit, neue Erfindungen und technische Diagramme zu studieren.
+Im Verlauf ihrer mathematischen Studien lernte Ada Lovelace die Mathematikerin Mary Somerville sowie Charles Babbage kennen, dessen Salon sie im Alter von 17 Jahren besuchte.
+In ihrer Korrespondenz mit Mary Somerville schrieb sie, dass sie eine unglückliche Ehe führe, weil ihr neben Schwangerschaften und Kinderbetreuung so wenig Zeit für ihr Studium der Mathematik und ihre zweite Leidenschaft, die Musik, bleibe; sie war eine "passionierte Harfenspielerin".
+Ihrem Wunsch entsprechend wurde sie neben ihrem Vater in der St. Maria Magdalena Kirche in Hucknall, Nottinghamshire, beigesetzt.
+Lovelace war ihr ganzes Leben lang interessiert an wissenschaftlichen Entwicklungen, inklusive Fragen nach der Möglichkeit zu fliegen oder die Arbeit des Gehirns mathematisch zu beschreiben.
+Sie nutzte ihre Bekanntschaft mit Mary Somerville, um so oft wie möglich an dem Rechenautomaten arbeiten zu können.
+Babbage war beeindruckt von Lovelaces Intelligenz und ihren analytischen Fähigkeiten.
+Babbages "analytische Maschine" wurde zu seinen Lebzeiten niemals gebaut.
+Der italienische Mathematiker Luigi Menabrea fertigte auf dieser Grundlage eine Beschreibung von Babbages Analytical Engine auf Französisch an , die in der Schweiz erschien.
+Während ihre Beiträge zu Rechnerarchitektur und Grundlagen der Programmierung bis zu ihrer Wiederentdeckung in den 1980er Jahren weitgehend in Vergessenheit gerieten, spielten ihre Standpunkte zur künstlichen Intelligenz in erkenntnistheoretischen Debatten als "Lady Lovelace's Objection" bereits bei Begründung dieses Forschungsbereichs der Informatik eine gewisse Rolle.
+Ada Lovelace legte in den Notes einen schriftlichen Plan zur Berechnung der Bernoulli-Zahlen in Diagrammform vor, welcher als das erste veröffentlichte formale Programm gelten kann.
+Auch erkannte Ada Lovelace, dass die Maschine einen physischen Teil hat, nämlich die Kupferräder und Lochkarten, und einen symbolischen, also die automatischen Berechnungen, die in den Lochkarten codiert sind.
+Sie hat jedoch keine Fähigkeit zur Erkenntnis analytischer Verhältnisse oder Wahrheiten."
+Alan Turing geht in seinem Artikel Computing Machinery and Intelligence aus dem Jahr 1950 auf diesen Einwand als "Lady Lovelace's Objection" ein.
+Einige Forscher urteilen aufgrund der modernen Definition von "Programmierung", dass Ada Lovelace nicht als erste Programmiererin bezeichnet werden sollte, da ihr "Programm" keine Aspekte späterer Programmiersprachen wie Unterprogramme oder Verzweigungen vorweggenommen habe.

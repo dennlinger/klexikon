@@ -1,0 +1,25 @@
+Bis Anfang 2010 hieß es iPhone OS (unter iTunes iPhone Software) auf dem iPhone und iPad OS auf dem iPad, bis es nach dem Lizenzieren des Markennamens IOS von Cisco Systems ab Version 4 im Juni 2010 in iOS umbenannt wurde und die beiden nur leicht unterschiedlichen Versionen für iPhone und iPad vereint wurden.
+Auf iOS basieren ebenfalls ab Version 4 die Apple-TV-Software, die auf der zweiten und dritten Generation des Apple TV läuft und mit der vierten Generation des Apple TV in tvOS umbenannt wurde, sowie watchOS für die Apple Watch.
+Parallel zum SpringBoard, der allgemein bekannten Benutzeroberfläche von iOS, wurde die Oberfläche SwitchBoard entwickelt, von der sich mehrere Diagnoseprogramme starten lassen, und "SkankPhone" zur primären Benutzung des iPhones als Telefon.
+iPhone OS (iOS) unterstützte zu diesem Zeitpunkt ebenfalls noch keine Apps von externen Entwicklern.
+Die damit entwickelten Apps lassen sich ausschließlich im ebenfalls mit iPhone OS 2.0 neu eingeführten App Store veröffentlichen.
+Am 9. September 2014 wurde die Apple Watch mit dem dazugehörigen Betriebssystem watchOS (ursprünglich Watch OS), welches auf iOS basiert, vorgestellt.
+Erst mit der Softwareaktualisierung 1.1.2 war es möglich, Apps zu verschieben und nach Belieben zu ordnen, zu löschen oder mehrere Seiten mit Apps zu erstellen.
+Bei Bedarf werden Apps beendet, um Arbeitsspeicher freizugeben; nach zehn Minuten werden jedoch alle Apps, die keine aktive Aufgabe haben, automatisch beendet.
+Mit iOS 14, welches am 22. Juni 2020 über eine Online-Keynote vorgestellt wurde, werden die Nutzer unter anderem Möglichkeiten haben, sogenannte Widgets auf den Home-Screen zu verschieben und einzelne Seiten des Home-Screens auszublenden.
+Die Apple-TV-Software der zweiten und dritten Generation des Apple TV verwendet den gleichen Kernel wie das iOS von iPhone, iPod touch und iPad, wird jedoch über eine Fernbedienung mit sieben Tasten gesteuert und besitzt eine eigene Oberfläche, die sich vom iPhone-Home-Bildschirm deutlich unterscheidet.
+Mittlerweile lassen sich jedoch auch mit älteren Geräten noch kompatible Versionen von Apps über den App Store herunterladen, womit diese Restriktion heute obsolet ist.
+Mit iOS 9 begann Apple ältere, jedoch kompatible Geräte mit 32-Bit-Prozessor (dazu zählen der iPod touch der fünften Generation, die iPhones 4s, 5 und 5c sowie die iPads 2 bis 4 und das iPad mini 1) von einzelnen Funktionen auszuschließen.
+Für Entwickler hat Apple die Möglichkeit eingeführt, nun Apps zu entwickeln, die unter diesen Geräten nicht kompatibel sind (stattdessen kommt beim Versuch des Herunterladens betreffender Apps aus dem App Store nun die Meldung "Diese App ist nicht mit ihrem Gerät kompatibel").
+Ab iOS 10 lässt sich der größte Teil der vorinstallierten Apps ausblenden, ab iOS 11 auch deinstallieren.
+Die standardmäßige Installation der Apple Watch App in iOS 8.2, die zur Konfiguration der Uhr verwendet werden soll, sorgte für Kritik, da die App schon vor Erscheinen der Uhr installiert wurde und sich nicht entfernen ließ.
+Auf Geräten mit 64 GB bzw. 128 GB internem Speicher sind diese Apps seit Herbst 2014 standardmäßig installiert.
+Im November 2011 stellte Adobe die Entwicklung des Flash Players für alle mobilen Endgeräte ein, ab August 2012 konnte man das Programm auch nicht mehr herunterladen, womit dieser Kritikpunkt heute obsolet ist.
+Die Filmauflösung der Videokamera-Anwendung war bis iOS 13.2 nur über das zentrale Einstellungsmenü umzustellen, während ein Zugriff auf diese Einstellung auf Geräten anderer Hersteller innerhalb der Kameraanwendung schneller erfolgen konnte.
+Unter iOS 6 wurde ein eigener Kartendienst eingeführt, der wegen gravierender Fehler im Kartenmaterial stark kritisiert wurde.
+Mit iOS 4 hat Apple eine zusätzliche Verschlüsselung namens Data Protection eingeführt, die bestimmte Daten zusätzlich mit dem gesetzten Code verschlüsselt.
+Der genannte Hardwarefehler lässt sich ebenfalls dazu ausnutzen, auch ab iOS 4 noch unzureichend geschützte Daten auszulesen, ohne den Code einzugeben.
+Aufgrund der reinen Verschlüsselung über einen Hardwareschlüssel sind ohne Data Protection geschützte Daten auf diesem Weg weiter lesbar.
+Weiter solle Apple vorsätzlich die Benutzbarkeit der Geräte durch Softwareaktualisierungen einschränken, um Kunden zum Kauf eines neuen Geräts zu bewegen.
+So wurde im Oktober 2016 in Frankreich eine Klage gegen Apple eingereicht, da im Webbrowser Safari die Unterstützung für HTML5 sehr weit hinter dessen aktuellem Stand zurückhängt.
+In iOS ist dieses Problem besonders eklatant, da die Anbieter anderer Webbrowser nicht ihre eigenen Render-Engines verwenden dürfen, sondern nur auf Apples eigene Render-Engine WebKit und deren eingeschränkte Unterstützung offener Webstandards Zugriff haben.

@@ -1,0 +1,25 @@
+Der Meter ist die Basiseinheit der Länge im Internationalen Einheitensystem (SI) und in anderen metrischen Einheitensystemen.
+Der Meter wurde 1799 als die Länge des Urmeters definiert, eines Prototyps aus Platin.
+Dessen Länge entsprach nach den damals durchgeführten Messungen dem zehnmillionsten Teil der Entfernung vom Nordpol zum Äquator.
+Der Meter ist dadurch definiert, dass der Lichtgeschwindigkeit im Vakuum c ein fester Wert zugewiesen wurde und die Sekunde (s) ebenfalls über eine Naturkonstante, die Schwingungsfrequenz vCs definiert ist.
+Diese Definition gilt seit 1983 (der heute gültige Wortlaut seit 2019).
+Der Ursprung dieser Längeneinheit geht auf einen Beschluss der französischen Nationalversammlung zurück, ein einheitliches Längenmaß zu definieren.
+Im Schwerefeld von Europa hätte ein solches Pendel die Länge von etwa 0,994 m und käme der heutigen Definition des Meters ziemlich nahe.
+Maßgebend für die neue Längeneinheit wurde jedoch nicht das Sekundenpendel, sondern die Erdfigur.
+Im Jahr 1793 setzte der französische Nationalkonvent - neben einem neuen Kalender - auch ein neues Längenmaß fest: Der Meter sollte den 10-millionsten Teil des Erdquadranten auf dem Meridian von Paris betragen - also den zehnmillionsten Teil der Entfernung vom Nordpol über Paris zum Äquator.
+Ein Prototyp dieses Meters wurde 1795 in Messing gegossen.
+Im 19. Jahrhundert kamen allerdings genauere Vermessungen der Erde zum Ergebnis, dass das Urmeter etwa 0,02 % zu kurz geraten war.
+Dennoch wurde an dem 1799 definierten Meter festgehalten - mit dem Ergebnis, dass der Erdmeridianquadrant nicht 10.000 km, sondern 10.001,966 km lang ist.
+Diese Länge gilt für den Meridian von Paris, andere Meridiane können andere Längen haben.
+Im Jahr 1889 führte das Internationale Büro für Maß und Gewicht (BIPM) den Internationalen Meterprototyp als Prototyp für die Einheit Meter ein.
+Die Länge des Meters wurde festgelegt als der Abstand der Mittelstriche zweier Strichgruppen auf dem auf einer konstanten Temperatur von 0 °C gehaltenen Stab.
+Es wurden 30 Kopien dieses Prototyps hergestellt und an nationale Eichinstitute übergeben.
+1960 wurde der Meter dann offiziell neu definiert: Ein Meter war nun das 1 650 763,73fache der Wellenlänge der von Atomen des Nuklids 86Kr beim Übergang vom Zustand 5d5 zum Zustand 2p10 ausgesandten, sich im Vakuum ausbreitenden Strahlung.
+Der Zahlenwert wurde dabei so gewählt, dass das Ergebnis dem bis 1960 gültigen Meter innerhalb der damaligen Messunsicherheit entsprach.
+Insbesondere ließ sich die Lichtgeschwindigkeit auf 1 m/s genau bestimmen, und die Präzision der Maßeinheit Meter wurde der limitierende Faktor.
+Generalkonferenz für Maß und Gewicht (CGPM) empfohlen, den Zahlenwert der Lichtgeschwindigkeit nicht mehr zu messen, sondern zahlenmäßig festzulegen und fortan die Längeneinheit anhand der Lichtgeschwindigkeit zu definieren.
+Der Meter wurde definiert als diejenige Strecke, die das Licht im Vakuum innerhalb des Zeitintervalls von 1/299 792 458 Sekunden durchläuft.
+Generalkonferenz für Maß und Gewicht wurde lediglich der Wortlaut der Definition an den der anderen SI-Basiseinheiten angepasst.
+Früher war der (nicht SI-konforme) Myriameter (Myr) in Verwendung, 1 Myr = 10 km, siehe Myriameterstein.
+Hinweis: Das Zeichen "=" bedeutet eine per Definition festgelegte, exakte Entsprechung; das Zeichen "" weist auf einen gerundeten Wert hin.
+Der deutsche Einheitenname Meter geht auf frz.

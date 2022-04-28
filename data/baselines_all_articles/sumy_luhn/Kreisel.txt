@@ -1,0 +1,25 @@
+Ein Kreisel ist ein (starrer) Körper, der um eine Achse rotiert.
+Ein um seine Figurenachse rotierender Kreisel behält bei kardanischer Aufhängung seine Orientierung im Raum bei, auch wenn das Tragegestell verdreht wird.
+Verglichen mit dem ruhenden Kreisel sind große äußere Momente erforderlich, um die Ausrichtung zu ändern.
+Weiterhin lässt sich beobachten: Wenn beim rotierenden Kreisel versucht wird, seine Rotationsachse zu kippen, dann lässt sich eine Kraftwirkung senkrecht zur Kipprichtung der Rotationsachse registrieren.
+Je schneller der Kreisel rotiert, desto größer sind die auftretenden Kräfte (die auch Kreiselkräfte genannt werden).
+Erklären lässt sich das mit dem hohen Drehimpuls des Kreisels, der in seiner Richtung geändert werden muss.
+Das aufzubringende Drehmoment bedingt die Kraftwirkung senkrecht zur Kipprichtung.
+Umgekehrt bewirkt ein Drehmoment senkrecht auf einen rotierenden Kreisel nicht, dass er seine Ausrichtung um die Achse des Drehmoments ändert, sondern in die Richtung der Drehmomentachse kippt.
+Solange der Kreisel stabil um seine Figurenachse rotiert, muss der Kreisel auf den eingeschlossenen Körper nur eine Zentripetalkraft ausüben.
+Spannend wird es, wenn nun die Rotationsachse des Kreisels gekippt wird und die Bewegung des Körpers dabei analysiert wird.
+Dann bewegt sich der eingeschlossene Körper auch in Kipprichtung, wechselt aber ständig die Seite und damit seine Bewegungsrichtung, also seine Geschwindigkeit.
+In Richtung der Senkrechten zur Kippebene führt der eingeschlossene Körper eine sinusförmige Schwingung aus.
+Das bedeutet, im Scheitel gibt es einen Ruhepunkt und im "Nulldurchgang", beim Wechsel der Kippseite, findet die größte Änderung der "Kippgeschwindigkeit" und damit die größte Kraftwirkung statt.
+Der Kreisel will also beim Kippen zur Seite ausbrechen.
+Wenn die Winkelgeschwindigkeit des Kreisel  deutlich größer als die Kippwinkelgeschwindigkeit  ist, dann gilt die im Weiteren folgende Näherungsrechnung.
+Die Drehimpulsänderung d L = {\textstyle \mathrm {d} {\vec {L}} } ergibt sich aus der Winkeländerung d und der Ausrichtung der Kippachse e =  {\displaystyle {\vec {e}}_{\Omega }} nach der folgenden Formel.
+Das Kreuzprodukt bedeutet, hier interessiert nur die Komponente des Drehimpulses, die senkrecht zur Kippachse e =  {\displaystyle {\vec {e}}_{\Omega }} steht.
+Die Winkeländerung d über die Zeit dt stellt des Weiteren die Kippwinkelgeschwindigkeit  dar.
+Im nächsten Schritt sei die Drehimpulsänderung eingesetzt in den Eulerschen Drehimpulssatz.
+Damit folgt das resultierende Drehmoment M aus den Kreiselparametern Rotationsrate  und Trägheitsmoment der Figurenachse I, verbunden mit der Kippwinkelgeschwindigkeit .
+Das Deviationsmoment ist ein Maß für das Bestreben eines Kreisels, seine Rotationsachse zu verändern, wenn er nicht um eine seiner Hauptträgheitsachsen rotiert.
+Dabei folgt der Drehimpuls L = {\displaystyle {\vec {L}}} aus dem Produkt von Trägheitstensor I  {\displaystyle {\bar {I}}} und Drehgeschwindigkeit  = {\displaystyle {\vec {\omega }}} des Kreisels.
+Im Trägheitstensor sind die Trägheitsmomente für Drehungen um die verschiedenen Drehachsen des Kreisels zusammengefasst.
+Das heißt, die Änderung des Drehimpulses L =  {\textstyle {\dot {\vec {L}}} } setzt ein Drehmoment M = {\displaystyle {\vec {M}}} voraus.
+Sie ist abhängig von der Änderung der räumlichen Richtung des Drehimpulses (Term  = x ( I  *  = ) {\displaystyle {\vec {\omega }}\times \left({\bar {I}}\cdot {\vec {\omega }}\right)} ) sowie von der Änderung der momentanen Winkelgeschwindigkeit  =  {\textstyle {\dot {\vec {\omega } } }} (Term I   =  {\displaystyle {\bar {I}}{\dot {\vec {\omega }}}} ).

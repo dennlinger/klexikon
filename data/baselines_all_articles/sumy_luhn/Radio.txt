@@ -1,0 +1,25 @@
+Neben einem Radioempfänger kann Hörfunk mit speziellen Erweiterungen, Zusatzgeräten, USB-Sticks, Computerprogrammen bzw. dazu geeigneten Modellserien empfangen werden, beispielsweise von:
+Historisch konkurrierten zu Beginn des Rundfunks in Deutschland die Begriffe "Radio", "Rundfunk" und "Broadcasting".
+Ort der ersten reichsdeutschen Rundfunksendungen war das erste Tonstudio Deutschlands, das heutige Altbaustudio der Universität der Künste Berlin in Berlin.
+Nicht zuletzt war nach dem Ersten Weltkrieg weltweit eine große Anzahl deaktivierter Militärfunker vorhanden, die nicht nur technische Erfahrung mit Empfangsgeräten hatten, sondern ein Mitspracherecht bei der Entwicklung des künftigen Hörfunks einforderten.
+Dieses Ereignis war ein bedeutender Meilenstein zur Entwicklung des öffentlichen Rundfunks in Deutschland.
+So wurde das erste weitverbreitete Gerät im deutschsprachigen Raum der fünf Jahre lang von Audion produzierte Ortsempfänger OE333 der damaligen Loewe-Audion GmbH (zuvor Radio Frequenz Loewe) in Berlin-Steglitz, vorgestellt auf der Funkausstellung 1926.
+Es war ein einfach konstruiertes Gerät, das zu einem Preis von 76 Reichsmark verkauft wurde (entspricht inflationsbereinigt in heutiger Währung 355 Euro).
+Nach dem Zweiten Weltkrieg kamen ab 1949 mit dem Beginn des UKW-Rundfunks in Deutschland Geräte zum Empfang von UKW-Sendern mit Frequenzmodulation auf den Markt.
+In frühen analogen Radios wurden neben dem Detektorempfänger auch Geräte mit Elektronenröhren, für den Empfang und zur Verstärkung verwendet, sie werden daher als Röhrenempfänger bezeichnet.
+Transistorradios mit diesen neuen aktiven, verstärkenden Bauelementen hatten gegenüber den bisherigen Geräten mehrere Vorteile: Sie waren kleiner, leichter, unempfindlicher gegen Stöße und benötigten vergleichsweise wenig Energie, so dass ein Betrieb mit Trockenbatterien über lange Zeit möglich war.
+In der weiteren Entwicklung wurden Transistoren und Widerstände ab Anfang der 1960er Jahre zu integrierten Schaltkreisen zusammengefasst, was abermals zu Größen- und Kostenreduzierungen führte.
+Der von der nicht mehr bestehenden britischen Firma Ferranti entwickelte Schaltkreis ZN414 ist leicht verändert bis heute als TA7642 von anderen Herstellern erhältlich.
+801 kHz herum, in dem ein bestimmtes Radioprogramm übertragen wird - ausgewählt und verstärkt werden und der übertragene Inhalt - Sprache, Töne, Musik - in seiner ursprünglichen Frequenzlage zur Wiedergabe über Lautsprecher zurückgewonnen wird.
+Großen Deutschen Funk-Ausstellung in Berlin vorgestellte UKW- bzw. FM-Stereorundfunk.
+Der Rundfunkdienst der Autofahrer-Rundfunk-Information (ARI) und das Radio Data System (RDS) waren weitere Meilensteine in der Entwicklung von analogen Empfangsgeräten, speziell von Autoradios.
+Seit den Anfangszeiten des Hörfunks erfolgt die analoge Ausstrahlung bzw. der Empfang von Rundfunksendungen in Amplitudenmodulation (AM).
+Allerdings haben UKW-Sender eine geringere Reichweite als AM-Sender, was in dem unterschiedlichen Ausbreitungsverhalten der verschiedenen Frequenz- bzw. Wellenbereichen begründet ist.
+In den 1970er Jahren wurde für UKW-FM der Verkehrsfunk in Europa und Nordamerika mit verschiedenen Verfahren und in den 1980er Jahren das Radio Data System (RDS) mittels binärer Phasenmodulation (BPSK), einer speziellen digitalen Phasenmodulation, eingeführt.
+Hiermit lassen sich trotz geringer Bandbreite von AM-Sendern durch Datenkomprimierung erhebliche Übertragungsvorteile erzielen (weniger Störungen, breiteres NF-Frequenzband bzw. mehrere Kanäle pro Träger), der digitale AM-Rundfunk (Digital Radio Mondiale) hat sich jedoch nicht durchgesetzt.
+In Europa wurden ab 1992 viele leistungsstarke analoge Lang-, Mittel- und Kurzwellensender außer Betrieb genommen.
+Eine völlige Analogabschaltung erfolgte nicht, insbesondere der analoge UKW-Rundfunk existiert neben Digital Audio Broadcasting (DAB) weiter.
+Für jede dieser Techniken wird ein spezielles Empfangsgerät (Tuner oder Digitalreceiver) benötigt, oft Set-Top-Box genannt, wobei zur Wiedergabe der Töne zum Beispiel bereits vorhandene HiFi-Anlagen, PC-Lautsprecher oder Fernsehgeräte genutzt werden können.
+Die sogenannte Analogabschaltung, also das Umstellen der Radiosender auf die digitale Ausstrahlung, sollte den Verbraucher zwingen, neue Radioempfänger für den digitalen Empfang zu erwerben.
+Über die reine Übertragung von Audioinhalten hinaus sollte der digitale Hörfunk bei neuen Systemen weitergehende Bedeutung gewinnen, wie beispielsweise zur Übertragung von Verkehrstelematikinformationen (z.
+Auch auf Mittel-, Lang- und Kurzwelle senden heute AM-Rundfunkstationen mit dem digitalen Übertragungsverfahren, dem Digital Radio Mondiale, wodurch eine stereophone Übertragung in besserer Klangqualität ermöglicht wird.

@@ -1,0 +1,25 @@
+Gelenkige Knotenverbindungen sind eines von mehreren Merkmalen des sogenannten idealen Fachwerks, die in der Literatur oft als zentrale Eigenschaft des Fachwerks genannt wird.
+Stabwerke mit biegesteifen Knoten sind keine Fachwerke im engeren Sinne.
+Die Stäbe eines Gitterträgers stehen enger als beim Fachwerkträger, so dass der Eindruck eines Gitters entsteht.
+Konstruktionen aus Fachwerken haben im Allgemeinen im Verhältnis zu anderen üblichen Bauweisen für ihre Tragfähigkeit ein geringes Eigengewicht.
+Dabei handelt es sich um Mischformen aus allgemeinem, biegesteifem Stabwerk und Fachwerk.
+Das in der Baustatik übliche Begriffspaar ideales Fachwerk / reales Fachwerk betrifft insbesondere die Annahmen über die Steifigkeit der Knoten.
+Ihre relativ geringe Steifigkeit durch Gelenkigkeit zu ersetzen, ist eine Idealisierung.
+Dass Fachwerke statisch bestimmt sind, ist eine bei ihrer Untersuchung zuerst zu beantwortende Frage.
+Sie lässt sich prinzipiell nur bei mit Gelenken (anstatt biegesteifen Knoten) versehenen, also nur bei idealen Fachwerken stellen.
+Ein statisch unterbestimmtes Fachwerk scheidet aus, da es auf seinen Fundamenten oder in sich beweglich wäre.
+Statisch überbestimmte Fachwerke haben zu viele Stäbe, was dem Prinzip Leichtbau widerspricht.
+Die Frage ob ein Fachwerk statisch bestimmt ist wird prinzipiell durch Auswerten der Gleichgewichtsbedingungen (Summe aller Kräfte bzw. Drehmomente ist Null) beantwortet.
+Oftmals besitzen statische Systeme entweder Freiheitsgrade oder sind statisch Überbestimmt, oder sind statisch bestimmt, dort und nur dort kann die Formel herangezogen werden wie viele Freiheitsgrade/Überbestimmt ein System ist.
+Für ebene Fachwerke wird folgende Formel verwendet:
+Für räumliche Fachwerke wird folgende Formel verwendet:
+Für jeden Knoten eines 2-D-Fachwerkes werden die je maximal zwei linear unabhängigen Gleichgewichtsbedingungen - z.
+Im dreidimensionalen Fall können jeweils maximal drei linear unabhängige Gleichungen aufgestellt werden.
+Das Rittersche Schnittverfahren dient zur Berechnung von Stabnormalkräften im Fachwerk.
+Somit können pro Schnitt im Zweidimensionalen maximal drei Stabkräfte oder im Dreidimensionalen maximal sechs Stabkräfte berechnet werden.
+Der Cremonaplan dient bei statisch bestimmten Fachwerken der zeichnerischen Bestimmung der Stabkräfte.
+Die Räumlichkeit der Fachwerke kann entweder durch Anordnung der Stäbe in mehreren Lagen (Untergurt, Diagonalen, Obergurt), oder/und durch Anordnung der Stäbe im Raum erfolgen.
+Im ersten Fall erzeugt man ein ebenes Raumfachwerk, im zweiten Fall ein gestuftes oder gekrümmtes Raumfachwerk, das im Sonderfall (z.
+Ein klassisches Beispiel des räumlichen gekrümmten, aber im Prinzip ebenen Fachwerkes ist die geodätische Kuppel.
+Die ebenen und gestuften Raumfachwerke lassen sich aus einer Kombination (Komposition) von Tetraeder und (Halb-)Oktaeder ableiten, seltener aus dem Hexaeder (Kubus).
+Für Fachwerke kann praktisch jedes Baumaterial (Holz, Stahl, Aluminium, Edelstahl, kohlenstofffaserverstärkter Kunststoff und in seltenen Fällen auch Beton) verwendet werden, bzw. Kombinationen daraus.

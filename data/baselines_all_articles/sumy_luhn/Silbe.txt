@@ -1,0 +1,25 @@
+Die Silbe (von lateinisch syllaba aus altgriechisch ua "Zusammenfassung, Silbe") ist ein grammatischer beziehungsweise linguistischer Begriff, der eine Einheit aus einem oder mehreren aufeinanderfolgenden Lauten bzw. Phonemen bezeichnet, die sich in einem Zug aussprechen lassen und so eine Sprecheinheit bilden.
+Die Silbe bildet eine rein lautliche (phonetische) Einheit, die unabhängig von ihrer Bedeutung gebildet wird.
+Jedes phonologische Wort lässt sich in Silben unterteilen - diese Unterteilung dient als Basis für die schriftsprachliche (graphematische) Worttrennung am Zeilenende, welche durch einen Trennstrich gekennzeichnet wird (beispielsweise Sil-be, lus-tig, wa-rum).
+Als Hebung werden hier diejenigen langen Silben bezeichnet, die nicht kurze Silben vertreten, als Senkung die kurzen Silben und die sie ersetzenden langen Silben.
+Zwar hat jede Sprache eigene Regeln für den Aufbau ihrer Silben, aber einige davon gelten universell: Eine Silbe muss immer genau einen Silbenkern enthalten.
+Diese Bestandteile sind Silbenkopf (Onset, ), Silbenkern (Nukleus, v) und Silbenschwanz (Koda, ).
+Pike verwendet zur Benennung der rein phonetisch definierten Lauteinheiten die Bezeichnungen Kontoid (C), Vokoid (V) und Ton (T).
+Vokoide sind "orale, nicht-laterale Resonanten", Kontoide alle anderen segmentellen Sprachlaute.
+Die Beschränkung gilt sowohl einzelsprachlich unter Gesichtspunkten der Phonotaktik, als auch universell wegen der Sonoritätshierarchie.
+Eine Konsonantenfolge im Silbenansatz hat meistens steigende Sonorität, aber es gibt Ausnahmen wie die Folge im deutschen Wort "Stock".
+Die Silbe als kleinste freie phonologische Einheit hat genau einen Nukleus.
+Eine größere phonologische Einheit kann mehrere Silbenkerne aufweisen.
+Die Beschränkung gilt sowohl einzelsprachlich unter Gesichtspunkten der Phonotaktik als auch universell wegen der Sonoritätshierarchie.
+Eine Konsonantenfolge in der Silbenkoda hat meistens fallende Sonorität, aber es gibt Ausnahmen wie die Folge im deutschen Wort "hübsch".
+In vielen Sprachen, inkl. Deutsch, muss ein Obstruent in der Koda stimmlos sein, siehe dazu Auslautverhärtung.
+Kopf und Koda bilden die konsonantische Umgebung des obligatorischen vokalischen Silbenkerns.
+Phoneme, die nicht im Silbenkern einer Silbe stehen können, sondern nur in der Silbenschale, heißen Satellitenphoneme.
+/n/ und /l/) alle Konsonanten Satellitenphoneme, in anderen Sprachen ist die Anzahl der Konsonanten, die als Silbenkern auftreten können, bedeutend größer.
+Anhand ihrer segmentellen Struktur unterscheidet man zwischen offener und geschlossener Silbe sowie zwischen nackter und bedeckter Silbe:
+Über den Aufbau des Reims, d. h. ob es eine (konsonantische) Koda gibt oder nicht, treffen die beiden Begriffe keine Aussage.
+Die vor allem in der quantitierenden antiken Metrik der Griechen und Römer bestimmende Eigenschaft der Quantität unterscheidet zwischen "kurzen" und "langen" Silben, wobei man sich auf die relative Dauer einer Silbe im Kontext des konkreten Verses bezieht.
+Analog zu den "Kürzen" und "Längen" der quantitierenden Sprachen unterscheidet man bei Sprachen mit akzentuierendem Versprinzip zwischen "unbetonten" und "betonten" Silben.
+Entsprechend einer von Theo Vennemann eingeführten Terminologie wird "leicht" bzw. "schwer" auch abstrahierend vom Versprinzip verwendet, um unabhängig davon Eigenschaften metrischer Elemente zu bezeichnen.
+Um Silben eines Wortes in Hinsicht auf ihre Position zu bezeichnen, sind für die letzten drei Wortsilben lateinische Fachausdrücke gebräuchlich: die letzte Silbe eines Wortes nennt man Endsilbe oder Ultima (lateinisch ultima, "die letzte "), die vorletzte Vorendsilbe oder Pänultima (lateinisch paenultima) und die vorvorletzte Antepänultima (lateinisch antepaenultima); die erste Silbe eines Wortes heißt Erstsilbe, alle zwischen erster und letzter Silbe heißen Binnensilben oder Mittelsilben.
+Um Wörter der klassischen und der romanischen Sprachen in Hinsicht auf diejenige Silbe zu bezeichnen, die den Hauptakzent trägt, sind dagegen griechische Fachausdrücke gebräuchlich: liegt der Hauptakzent auf der letzten Silbe, nennt man das Wort ein Oxytonon; liegt er auf der vorletzten Silbe, spricht man von einem Paroxytonon, und fällt er auf die vorvorletzte Silbe, so ist das Wort ein Proparoxytonon.

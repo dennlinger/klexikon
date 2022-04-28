@@ -1,0 +1,25 @@
+Bei mobilen Apps wird zwischen nativen Apps, die nur auf einer Plattform funktionieren, und plattformunabhängigen Web-, Hybrid- und Cross-Plattform-Apps unterschieden.
+Der Großteil dieser Apps ist kostenlos, ein kleinerer Teil muss, für meist geringe Beträge, im jeweiligen App Store gekauft werden.
+Schon die ersten Mobiltelefone enthielten oft kleine Anwendungen wie etwa Kalender, Taschenrechner oder Handyspiele.
+Mit dem Erscheinen von Java auf Mobiltelefonen (Java ME) bekamen Anwender die Möglichkeit, einfache Anwendungen und Spiele von ihrem Mobilfunknetzbetreiber oder aus dem Internet über WAP (MIDlets) herunterzuladen, die häufig schon plattformunabhängig waren.
+Für Mobiltelefone mit eigenem Betriebssystem und der Möglichkeit, entsprechende Apps zu installieren, setzte sich um das Jahr 2000 der Begriff Smartphone durch.
+Erst mit dem Erscheinen des Apple iPhone 2007 und später der Android-Mobiltelefone und weiteren Smartphones wurde die Möglichkeit der Installation von Anwendungen auf mobilen Geräten breiten Bevölkerungskreisen geläufiger, unterstützt durch entsprechend verstärktes Marketing der Hersteller.
+Jede mobile Plattform besitzt ihr eigenes Software Development Kit (SDK) und ihre eigene integrierte Entwicklungsumgebung (z.
+Die rasante Entwicklung unterschiedlicher Betriebssysteme, wie Android, Windows, iOS und mobiler Endgeräte, von Smartphones, über Tablets bis zu Notebooks und Smart-TVs, bringt Unternehmen zum Umdenken.
+Laut einer Studie des Marktforschungsinstitutes GfK nutzen mehr als 60 % der Erwachsenen in den USA mindestens zwei Geräte täglich und etwa 25 % mindestens drei Geräte.
+Eine mobile Web-App verhält sich im Idealfall genau so wie eine native App, wird also vom Nutzer nicht wie eine Webseite wahrgenommen, sondern bietet stattdessen eine Benutzeroberfläche, die sich in das mobile Endgerät optisch und ergonomisch integriert.
+Bei der Nutzung von Web-Apps müssen meist mehr Daten übertragen werden als bei der Nutzung einer nativen App.
+Mobile Web-Apps können, im Gegensatz zu allen anderen Typen von mobilen Apps, nicht in App Stores angeboten werden.
+Viele dieser mit Konvertern erstellten Apps können allerdings ebenfalls nicht in App Stores veröffentlicht werden.
+Sie vereinen die Vorteile von nativen und Web-Apps, indem sie auf viele Hard- und Software-Komponenten des mobilen Endgeräts zugreifen und gleichzeitig unterschiedliche Plattformen bedienen können.
+Hybrid-Apps vereinen die Vorteile von nativen Apps und Webanwendungen, indem Quellcode plattformübergreifend verwendet werden kann.
+So lassen sich bis zu 75 % des Quellcodes zwischen den verschiedenen Plattformen teilen, ohne dass es zu starken Einbußen bei der Performance kommt.
+Alle drei Frameworks unterstützen die Entwicklung von Cross-Plattform-Apps für Android, iOS und Windows.
+Bei der Entwicklung von mobilen Apps müssen einige Einschränkungen im Vergleich zu Anwendungen für Desktop-Computer beachtet werden, so sind z.
+Mobile Apps werden meist mit Hilfe einer integrierten Entwicklungsumgebung und dem Software Development Kit der entsprechenden Plattform entwickelt.
+Der Beschäftigungsbereich für Softwareentwickler von Apps für mobile Plattformen wächst immer weiter, bis 2012 wurden, laut einem Bericht von "TechNet", allein in den USA 466.000 neue Jobs geschaffen.
+In Folge des großen Markterfolgs von Smartphones und Tablets haben praktisch alle Hersteller mobiler Betriebssysteme eigene Plattformen entwickelt, um die für ihre jeweiligen Geräte entwickelten Apps zu vermarkten.
+Die Vertriebsplattform mit der größten Anzahl an Programmen ist der Google Play Store für Android-Geräte, gefolgt vom App Store für iOS.
+Es gibt grundsätzlich verschiedene Wege, wie eine App auf ein Gerät gelangt: direkt über die mobile Internetverbindung oder WLAN des Geräts oder mit Hilfe eines PC, mit dem über entsprechende Software (wie etwa iTunes) bei Anbindung des Mobilgeräts Apps installiert werden können.
+Sofern die Hersteller ihr mobiles Betriebssystem auch für externe Quellen zur Installation von Anwendungssoftware zugänglich halten, gibt es darüber hinaus weitere, oft plattformübergreifende Angebote durch Shops verschiedener Anbieter im Internet, sowie die Möglichkeit des direkten Bezugs auf den Webseiten der App-Entwickler.
+Diese Funktion bietet unter anderem Apple seit iOS 7, Google mit "Android for Work" und Samsung mit Knox.

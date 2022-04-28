@@ -1,0 +1,25 @@
+Destillation (lat. destillare "herabtröpfeln, herabtropfen", von stilla "Tropfen") ist ein thermisches Trennverfahren, um verdampfbare Flüssigkeiten zu gewinnen oder Lösungsmittel von schwer verdampfbaren Stoffen abzutrennen und anschließend durch Kondensation aufzufangen.
+Die Destillation hat gegenüber anderen Trennverfahren den Vorteil, dass in der Regel keine weiteren Stoffe wie Adsorbentien oder Lösungsmittel hinzugefügt werden müssen.
+Der entstehende Dampf, der sich aus den verschiedenen flüchtigen Komponenten der zu trennenden Lösung zusammensetzt, wird in einem Kondensator durch Abkühlen wieder verflüssigt.
+Bei der sogenannten "trockenen Destillation" ist dies anders: dabei werden nicht-verdampfbare feste Stoffe in kleinere Moleküle zerlegt.
+Zwar wird hier eine verdampfbare Flüssigkeit durch Kondensation gewonnen, aber nach der heutigen Theorie liegt hier keine destillative Trennung vor.
+Hier beschreibt er die Destillation des naft, des rohen Erdöls, und erläutert hierbei eine einfache Art des "Crack-Verfahrens" zum Zwecke der Gewinnung niedrig siedender Produkte wie Bitumen und des sogenannten Ziegelöles (oleum laterinum).
+In und von Salerno ausgehend wurden im 12. Jahrhundert verfeinerte Kühlverfahren bei der Trennung von flüssigen Gemischen nach ihren verschiedenen Siedepunkten angewendet.
+Die oben beschriebene "einfache Destillation" durch Erhitzen und Abkühlen beruht auf der Verdampfung und Kondensation flüchtiger Stoffe.
+Die Trennung von Gemischen verschiedener verdampfbarer und ineinander löslicher Stoffe kann oft durch wiederholte Destillation bewerkstelligt werden.
+In diesen Fällen beruht die Trennwirkung auf der unterschiedlichen Zusammensetzung der siedenden Flüssigkeit und des Dampfes.
+Diese Verfahren beruhen auf den unterschiedlich hohen Siedepunkten der beteiligten Flüssigkeiten, genauer gesagt auf ihrem unterschiedlichen Dampfdruck bei gleicher Temperatur.
+Die Zusammensetzung der Gasphase über der siedenden Flüssigkeit ist diejenige, welche die Taupunktkurve bei der gleichen Temperatur anzeigt (waagerechte Linie).
+Durch Kondensation erhält man eine Flüssigkeit, deren Zusammensetzung der der Gasphase entspricht, also einen erhöhten Anteil der niedriger siedenden Komponente 2 enthält (senkrechte Linie).
+Außerdem verarmt die übrig bleibende Flüssigkeit (in der Technik: Destillationssumpf) mit der Zeit an der niedrigsiedenden Komponente, wodurch die waagerechte Linie nach oben verschoben wird.
+An der Oberfläche der Kolonne stellt sich durch Kondensation und Verdampfung das Gleichgewicht zwischen flüssiger und Gasphase ständig neu ein, wodurch nach oben hin der Anteil des niedrigsiedenden Bestandteils immer weiter ansteigt, während die höhersiedende Komponente in die Destillationsblase, den Sumpf, zurückfließt.
+Die großtechnische Umsetzung der wiederholten, kontinuierlichen Destillation bezeichnet man auch als Rektifikation.
+Ein aus mehreren Komponenten bestehendes Gemisch kann durch fraktionierte Destillation getrennt werden.
+Dabei wird der zum Auffangen des Destillates genutzte Behälter nach dem Abtrennen der am niedrigsten siedenden Fraktion ausgewechselt.
+Dabei wird der zum Auffangen des Destillates genutzte Behälter nach dem Auffangen der am niedrigsten siedenden Fraktion ausgewechselt.
+Dadurch werden die Siedetemperaturen der einzelnen Komponenten gesenkt, was die Destillation von Stoffgemischen ermöglicht, deren im Sumpf verbleibenden Komponenten nicht ausreichend temperaturstabil sind.
+Als Kurzwegdestillation (KWD) bezeichnet man eine Destillation, die im Feinvakuumbereich, also im Druckbereich zwischen 1 und 0,001 mbar durchgeführt wird und bei der die Gasphase nur einen sehr kurzen Weg zwischen der Vorlage und dem Kondensator zurückzulegen hat.
+Bei der heterogen katalysierten Reaktivdestillation wird der Katalysator häufig in Form von reaktiven Packungen in der Destillationskolonne eingebaut.
+Bei der Bewegung des Zonenerhitzers den Container entlang von oben nach unten lässt sich ein festes Kondensat im Container mit der gleichmäßigen Verteilung der Beimischungen formen und der reinste Teil des Kondensats kann als Produkt ausgegrenzt werden.
+Die ungleichmäßige Verteilung der Beimischungen im Kondensat (d. h. die Reinigungswirkung) steigt mit der Anzahl der Wiederholungen des Prozesses.
+Die Verteilung der Beimischungen im Kondensat wird durch bekannte Gleichungen der Zonenumkristallisation mit verschiedener Anzahl der Durchläufe der Zone beschrieben - bei der Ersetzung des Verteilungskoeffizienten k für die Kristallisation durch den Separationskoeffizienten a für die Destillation.

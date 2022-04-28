@@ -1,0 +1,25 @@
+Satelliten sind im erweiterten Sinne alle astronomischen Objekte, die einen Himmelskörper - einen Stern, Planeten oder Mond oder anderes - umkreisen.
+Man bezeichnet Flugkörper nur dann als Satelliten, wenn sie die Erde im Weltraum umkreisen.
+Der erste US-amerikanische Satellit Explorer 1 folgte am 1. Februar 1958 und erbrachte den Nachweis des Van-Allen-Strahlungsgürtels zum Beginn der Erforschung der Ionosphäre.
+Nach Angaben der US-amerikanischen NASA befanden sich am 31. Mai 1969 rund 1950 künstliche Objekte im Weltraum, wovon 1.889 die Erde umrundeten, 17 sich in einer Ellipse um die Erde und 38 auf einer Bahn um die Sonne befanden.
+Neben ausgebrannten Raketenstufen und anderen Objekten waren es am Stichtag 394 Erdsatelliten und Raumsonden, darunter 289 der USA, 83 der Sowjetunion, 5 französische, 3 kanadische, 2 britische und 3 von der European Space Research Organisation.
+Im Jahr 2016 betrug die Anzahl der bekannten aktiven Satelliten bereits über 1400.
+Darüber hinaus befinden sich mehrere tausende weitere künstliche Objekte (ausgediente Satelliten, Teile von Raketen und anderer Weltraummüll) im Erdumlauf: 1996 sollen es nach ESA-Daten rund 8500 Stück "Weltraummüll" (ab ca.
+Die erste bekannte Kollision eines aktiven Satelliten mit einem ausgedienten Objekt fand am 10. Februar 2009 statt: Der russische Satellit Kosmos 2251, der seit 1993 im All und wohl etwa seit 1999 außer Betrieb war, kollidierte mit dem Kommunikationssatelliten Iridium 33 der US-Firma Iridium Satellite.
+Im Gegensatz dazu erhalten Kommunikationssatelliten möglichst hohe Bahnen, damit sie weite Gebiete überdecken.
+Sollen sie ortsfest über einer Stelle des Erdäquators stehen, müssen sie die Erde in einer geosynchronen Umlaufbahn in etwa 36.000 km Höhe in Richtung der Erdrotation umkreisen (Sonderfall: "geostationär").
+Ein Satellit besteht im Wesentlichen aus der wissenschaftlichen, kommerziellen oder militärischen Nutzlast sowie dem Satellitenbus, der die zu deren Betrieb notwendigen Strukturen und Subsysteme enthält.
+Die Versorgung des Satelliten mit elektrischem Strom (Energie) erfolgt meist durch Solarzellen mit Unterstützung durch Akkumulatoren, wenn im erdnahen Raum ausreichende Helligkeit der Sonne vorhanden ist, oder durch Batterien wenn nur kurze Einsatzzeiten geplant sind.
+Für eine erdnahe, kreisförmige Umlaufbahn gilt die Erste kosmische Geschwindigkeit von v1 = 7,9 km/ s.
+Will man das Gravitationsfeld der Erde verlassen, muss der Satellit auf die Zweite kosmische Geschwindigkeit von etwa 11,2 km/s beschleunigt werden.
+Wenn es um die Beobachtung mit bloßem Auge geht, ist diese in der Regel nur kurz nach Sonnenuntergang oder kurz vor Sonnenaufgang möglich.
+Das kommt daher, dass der Satellit in seiner (nicht zu) hohen Umlaufbahn noch von der Sonne beschienen sein muss, damit man ihn am Boden (wo es schon/noch dunkel ist) vor dem dunklen Himmel überhaupt erkennen kann; mitten in der Nacht fliegt er auch im Schatten und bleibt unsichtbar.
+Zu hoch darf die Umlaufbahn auch nicht sein, da der Satellit dann wegen der Entfernung zu klein wird, um auch bei Bestrahlung noch sichtbar zu werden.
+Einem Erdsatelliten muss beim Start eine so hohe Bahngeschwindigkeit mitgegeben werden, dass seine Zentrifugalkraft (oder auch Radialkraft) mindestens gleich der Gewichtskraft ist.
+Da F r = F G {\displaystyle F_{r}=F_{G}} sein muss, ergibt sich nach Einsetzen:
+Nun erkennt man, dass die Masse des Körpers auf der Kreisbahn keine Relevanz hat, da diese in der Gleichung entfällt.
+Die für eine bestimmte Umlaufbahn nötige Bahngeschwindigkeit hängt also nur von der Bahnhöhe ab:
+Mit dieser Geschwindigkeit ist es einem Körper auf einer Kreisbahn um die Erde möglich, diese Bahn zu halten:
+Solange die Rakete arbeitet, läuft er auf der so genannten "aktiven Bahn".
+Wäre die Erde eine exakte Kugel ohne Erdatmosphäre und gäbe es keine anderen Himmelskörper, folgte die Satellitenbahn einer mehr oder weniger exzentrischen Ellipse um die Erde gemäß den Keplerschen Gesetzen.
+Zusätzlich bewirkt die Erdatmosphäre eine ständige leichte Bremsung der Satelliten, sodass sich Bahnen unter einer Höhe von etwa 1000 km spiralförmig der Erde nähern.

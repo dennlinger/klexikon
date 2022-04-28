@@ -1,0 +1,25 @@
+Als Rost bezeichnet man das Korrosionsprodukt, das aus Eisen oder Stahl durch Oxidation mit Sauerstoff in Gegenwart von Wasser entsteht.
+Rost ist porös und schützt nicht vor weiterer Zersetzung, anders als die Oxidschicht anderer metallischer Werkstoffe wie bei Chrom, Aluminium oder Zink oder beim nur oberflächlich verrosteten Cortenstahl.
+Chemisch gesehen setzt sich Rost allgemein aus Eisen(II)-oxid, Eisen(III)-oxid und Kristallwasser zusammen.
+x F e I I O * y F e 2 I I I O 3 * z H 2 O {\displaystyle \mathrm {x\ Fe^{II}O\cdot y\ Fe_{\ 2}^{III}O_{3}\cdot z\ H_{2}O} } (x, y, z positive Verhältniszahlen)
+Rost ist somit ein wasserhaltiges Oxid des Eisens, eine chemische Verbindung, die zu den Oxiden gehört und zusätzlich Wasser und Hydroxidionen enthält (Oxidhydrat).
+Betonstähle rosten nicht, wenn sie gut gekapselt im Beton eingebettet sind, da sich durch das alkalische Milieu (pH > 12) im Beton eine vor Korrosion schützende Passivschicht auf der Oberfläche des Stahls bildet.
+Durch den Vorgang der Carbonatisierung kann der pH-Wert des Betons so weit absinken, dass keine schützende Passivschicht auf dem Stahl mehr vorhanden ist.
+Wenn dann Wasser und Luft Zutritt zum Stahl erhalten, kann dieser rosten.
+Infolge der Volumenzunahme des Rosts platzt die Betonoberfläche im Bereich des rostenden Stahls auf und der Zerfall wird beschleunigt, weil dadurch Wasser und Luft noch besseren Zutritt haben.
+Im Fall einer Säurekorrosion (Wasserstoffkorrosion) entziehen die Protonen (Wasserstoffionen) der Säure dem Metall Elektronen: Eisen reagiert mit Wasserstoff-Ionen im Wasser (bei A) zu Eisen-II-Kationen:
+Im Fall einer Sauerstoffkorrosion (Verwitterung des Eisens zu Rost) wirkt Sauerstoff als Oxidationsmittel: Er nimmt Elektronen auf.
+Gemäß der Spannungsreihe der Elemente diffundieren die positiv geladenen Eisenionen in die wässrige Umgebung, die Elektronen verbleiben im Metall und laden es negativ auf, siehe  in der Schemazeichnung.
+Die negative Aufladung des Metalles und die Grenzschicht aus positiv geladenen Eisenionen über der Eisenoberfläche verhindern im Allgemeinen eine schnelle Umsetzung mit Protonen: Sauerstoff- und luftfreies Wasser greifen das Eisenmetall nicht an.
+Der anodische Bereich  und der kathodische Bereich  bilden mit dem Wasser als Elektrolyten eine galvanische Zelle, eine Redoxreaktion läuft ab.
+Das anfangs gebildete Gemisch aus Eisen(II)-hydroxid und Eisen(III)-hydroxid wird somit durch teilweise Wasserabgabe zu einer beständigen Mischung aus Eisen(II)-oxid, Eisen(III)-oxid und Kristallwasser umgesetzt, die umgangssprachlich als Rost bezeichnet wird:
+Wenn Eisen mit einem anderen Metall in Berührung kommt, entsteht an der Kontaktstelle ein Lokalelement, das zur Korrosion des unedleren Metalls führt.
+Auch bei anderen Metallen wie Zink, Chrom, Aluminium oder Nickel, die teilweise auch unedler als Eisen sind, oxidieren nur die obersten Atomlagen zu einer kaum sichtbaren Oxidschicht, die das darunterliegende Metall vor weiterer Reaktion mit Sauerstoff abschirmt (siehe auch Passivierung).
+Beim Eisen jedoch kommt die Korrosion an der Rost/ Materialgrenzfläche nicht zum Stillstand, weil die elektrische Leitfähigkeit des schon gebildeten (feuchten) Rosts und seine Sauerstoffdurchlässigkeit die weitere Korrosion an der Grenze Rost/Material begünstigen.
+Hohe pH-Werte des Wassers, insbesondere in Gegenwart von Alkaliionen, beschleunigen diese Reaktion zusätzlich.
+Beispiel 1: Feuerverzinkung schützt Eisen nachhaltig vor Rostbefall.
+Kommt es zu einer Schädigung der Beschichtung, bilden Zink und Eisen bei Zutritt von Wasser ein Lokalelement (ähnlich einer Batterie).
+Nur Zinkstaubfarben mit elektrisch leitendem Bindemittel oder Zinkstaubfarben auf Epoxidharz-Basis mit geeigneter Pigment-Volumen-Konzentration (PVK), bei der sich die Zinkteilchen berühren, schützen gut vor Korrosion.
+Das Lokalelement aus Eisen und dem edleren Metall verhindert die schützende negative Aufladung des Eisens (siehe oben).
+Beispiel 3: Statt einer Opferanode schützt auch eine elektrisch leitende Elektrode (zum Beispiel Graphit), wenn sie über eine externe Gleichspannungsquelle auf einem positiven Potenzial relativ zum Eisen gehalten wird.
+Dies nennt man dann kathodischen Korrosionsschutz, der bei Pipelines und im Brückenbau eingesetzt wird.

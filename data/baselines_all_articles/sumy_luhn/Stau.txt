@@ -1,0 +1,25 @@
+Als einer der Gründe dafür gilt eine zu hohe Anzahl von Fahrzeugen pro Zeiteinheit (oder pro Streckenlänge).
+Jedoch können Staus auch entstehen, obwohl die Kapazität der Straße bei gleichmäßig verteiltem und fließendem Verkehr ausreichte.
+Im Gegensatz zum Halten zählt der Verkehrsstau zum fließenden Verkehr.
+Verkehrsexperten unterscheiden zwischen "Stau" und "stockendem Verkehr".
+Der ADAC spricht von einem Stau, wenn mehrere Fahrzeuge mindestens fünf Minuten lang im Schnitt unter 20 km/h schnell sind und das auf einer Länge von mindestens einem Kilometer.
+Gleichzeitig wird stockender Verkehr zwischen 20 und 40 km/h angenommen.
+Liegt die Geschwindigkeit im Bereich zwischen 10 und 30 km/h, spricht man von stockendem Verkehr.
+Typischerweise liegt die Kapazität einer Straße bei 1500 bis 2500 Fahrzeugen pro Stunde und Spur.
+Dadurch können Staus aus dem Nichts entstehen, bei denen den Verkehrsteilnehmern auch nach Ende des Staus die Ursache verborgen bleibt (im Gegensatz zu Unfällen und Baustellen, bei denen die Ursachen bei der Vorbeifahrt erkannt werden können).
+Mittels fest montierter Sensoren an der Autobahn wird der Verkehrsfluss objektiv gemessen.
+Hierbei wird nur die linke Fahrspur überwacht, da über die Parameter Abstand und Geschwindigkeit auf der linken Spur auf die Verkehrsdichte der anderen Spuren geschlossen werden kann.
+Auf deutschen Autobahnen befindet sich im Schnitt alle 4 Kilometer ein Sensor, so dass hier insgesamt rund 4000 Sensoren im Einsatz sind.
+Das Verfahren Floating Cellular Data mit den Mobiltelefonen ist unpräziser als GPS, jedoch um vieles günstiger, da keine zusätzliche Hardware (Mobiltelefone), Infrastruktur (Antennen) oder Netzbelastung (Senden von Daten) notwendig ist und für allgemeine Aussagen genügend präzise.
+FCD-Verfahren mittels Handys haben gegenüber herkömmlichen Systemen (Sensoren, Kameras etc.) große Vorteile:
+Allerdings ist der TMC-Bereich sehr schmal, so dass sämtliche Meldungen nur etwa alle 15 Minuten übertragen werden.
+Da ein Stau neben Verzögerungen auch Unfallrisiken birgt, gibt es vom ADAC, ASTRA oder anderen Interessengruppen Hinweise zum Fahrverhalten, die meistens wie folgt lauten:
+Es gibt mehrere Möglichkeiten Stau zu vermeiden.
+Wobei Kreisverkehre Staus jedoch auch nicht ganz oder immer vermeiden können, da Kreisverkehre, wenn sie denn hoch frequentiert sind, andere, nahegelegene (!)
+Verkehrswege und ampellose Kreuzungen wiederum dort mit Staus bzw. erheblichen Beeinträchtigungen nach sich ziehen können.
+Verhaltensbestimmende Wahrnehmungsinhalte im Blickfeld des Fahrers sind beispielsweise Tiefe und Breite des Blickfeldes.
+Das Guinness-Buch der Rekorde verzeichnet den längsten Stau der Welt 1980 zwischen Paris und Lyon mit 176 km Länge.
+Betrachtet man auch Verkehrsstaus in einem zusammenhängenden Streckennetz und nicht nur auf einer Einzelstrecke, so wurde dies inzwischen überboten.
+Am 11. Juni 2009 gab es in Sao Paulo gegen 19 Uhr Ortszeit im Streckennetz des Großraumes Stau auf insgesamt 293 km Länge.
+Ein Stau infolge eines Wintereinbruchs am 2. Dezember 2012 auf der Autobahn M10 nördlich von Moskau hatte laut Medienberichten eine Länge von 200 km; offiziell wurde er aber mit 20 km angegeben.
+Es nannte als staureichste deutsche Städte (gemessen daran, wie viel Prozent länger eine Fahrt infolge eines Staus dauert) Hamburg, Berlin, Wiesbaden, München, Nürnberg, Stuttgart, Bonn, Kassel, Bremen und Frankfurt am Main.

@@ -1,0 +1,25 @@
+Im Gegensatz zu Telefon oder Internet Relay Chat, die gleichzeitige (synchrone) Kommunikation ermöglichen, ist die E-Mail - wie die Briefpost - ein asynchrones Kommunikationsmedium: Der Sender versendet seine Nachricht unabhängig davon, ob der Empfänger sie sofort entgegennehmen kann oder nicht.
+Ende der 1980er Jahre begann dann die weltweite Verbreitung der E-Mail - sie war eine der ersten Anwendungen, die die Möglichkeiten des Arpanets nutzten.
+Nachdem Multics, in dem ein Mail-Programm zur Kommunikation der Nutzer implementiert worden war, im Oktober 1971 an das Arpanet angeschlossen worden war, wurde Anfang 1972 ein Mail-Programm über das Arpanet von der MAC Networking Group unter Mike Padlipsky implementiert.
+Die erste Anwendung dieser Kombination war eine Nachricht von Tomlinson an seine Kollegen, in der er Ende 1971 mitteilte, dass man nun Nachrichten übers Netzwerk senden konnte, indem man dem Benutzernamen des Adressaten das Zeichen "@" und den Hostname des Computers anfügte.
+In Deutschland wurde am 3. August 1984 um 10:14 Uhr MEZ die erste Internet-E-Mail empfangen: Michael Rotert von der Universität Karlsruhe (TH) empfing unter seiner Adresse "rotert@germany" eine Grußbotschaft von Laura Breeden ("breeden@csnet-sh.arpa") an der US-amerikanischen Plattform CSNET aus Cambridge (Massachusetts) zur elektronischen Kommunikation von Wissenschaftlern, die einen Tag zuvor (am 2. August 1984, 12:21 Uhr) abgeschickt worden war.
+Eine Kopie dieser E-Mail wurde als "CC" gleichzeitig an den Leiter des Projekts, Werner Zorn mit der Adresse ("zorn@germany"), geschickt.
+Die Header genannten Kopfzeilen einer E-Mail geben Auskunft über den Weg, den eine E-Mail genommen hat, und bieten Hinweise auf Absender, Empfänger, Datum der Erstellung, Format des Inhaltes und Stationen der Übermittlung.
+So, wie sie für den Transport per SMTP im Internet verwendet wird, besteht sie aus zwei Teilen: In info@wikipedia.org ist wikipedia.org der domain-part, info der local-part.
+In einem typischen Fall nimmt eine E-Mail den folgenden Weg von einem Absender (im Beispiel: Anja) durch das Internet zu einem Adressaten (im Beispiel: Bertram), siehe Abbildung rechts.
+Wenn Anja und Bertram ihre E-Mail-Konten beim selben E-Mail-Anbieter haben, entfällt Schritt 3.
+Wurde eine Zustellbestätigung angefordert, erhält der Absender (im obigen Beispiel Anja) eine Delivery Status Notification (DSN) in Form einer E-Mail, sobald seine E-Mail erfolgreich im Postfach des Empfängers abgelegt wurde und die beteiligten Architekturen dies unterstützen.
+Wurde eine Lesebestätigung angefordert, erhält der Absender (im obigen Beispiel Anja) eine Message Disposition Notification (MDN) in Form einer E-Mail, wenn der Empfänger (im obigen Beispiel Bertram) die an ihn gerichtete E-Mail öffnet und das Auslösen dieser Bestätigung nicht verhindert.
+Bezogen auf das obige Beispiel geschähe dies zeitlich unmittelbar im Schritt 6 beim Öffnen der E-Mail.
+Auf dem Computer geschriebene Briefe können direkt und einfach per E-Mail verschickt und beim Empfänger direkt auf dem Computer gelesen und ggf.
+In der praktischen Handhabung bieten E-Mails ebenso Vorteile gegenüber der Papier-Post.
+Antworten auf E-Mails können einfacher und schneller begonnen werden, indem der Absender und die CC-Empfänger der Ursprungs-E-Mail automatisch als Empfänger der Antwort übernommen werden.
+Ebenso kann in Antworten der Inhalt der Ursprungs-E-Mail zitiert oder angefügt werden, um in der Antwort besser Bezug nehmen oder antworten zu können oder um den Diskussionsfaden zu dokumentieren.
+Zur Erreichung der Authentizität, des Datenschutzes und der Integrität existieren bereits diverse Schutzmechanismen, wie an anderen Stellen bereits beschrieben (Verschlüsselung, Absenderauthentifizierung, Pretty Good Privacy, GNU Privacy Guard, S/MIME).
+Ohne diese Schutzmechanismen besitzen herkömmliche E-Mails jedoch einen geringeren Schutz als eine normale Postkarte.
+Herkömmliche (unverschlüsselte) E-Mails sind mit einer Postkarte vergleichbar, weil deren Inhalt offen und einfach lesbar verschickt wird.
+Zudem lassen sich E-Mails anders als normale Papier-Post einfach und automatisch nach nutzbaren Informationen durchsuchen und auswerten.
+Anders als beim Telefonat erhalten Absender und Empfänger von E-Mails automatisch eine schriftliche Dokumentation über den kommunizierten Inhalt.
+Andererseits muss - im Gegensatz zum Telefonat - der Verfasser einer E-Mail damit rechnen, dass seine Äußerungen langfristig beliebig oft nachgelesen werden können und vom Empfänger mit geringstem Aufwand oder gar unbedacht an eine praktisch beliebige Auswahl von Mitlesern weitergeleitet werden können.
+Die Einfachheit ihrer Benutzung führte dazu, dass E-Mail zu einem weltweiten Standard in der elektronischen Kommunikation wurde.
+Gegenüber stehen sich der Zweck der Veröffentlichung und der von der veröffentlichenden Partei angestrebte Zweck sowie die Form, die Art und das Ausmaß des Eingriffs.

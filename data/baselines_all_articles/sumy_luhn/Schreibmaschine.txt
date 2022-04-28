@@ -1,0 +1,25 @@
+In ihrer Spätform als "Schreibautomat" ist die Schreibmaschine ein Vorläufer des Computers, dessen Tastaturbelegung weitgehend der der Schreibmaschine entspricht und in dem viele vom Maschinenschreiben bekannte Funktionen für die moderne Textverarbeitung übernommen sind.
+Bei elektromechanischen Schreibmaschinen wird die Bewegung der Tastenhebel durch einen Elektromotor unterstützt; bei elektronisch gesteuerten Schreibmaschinen dienen Tasten anstelle von Tastenhebeln nur noch als Auslöser (Schalter).
+Seine Anwendung führte dazu, dass die bei einigen Kugelkopfschreibmaschinen schon weggelassene Querbewegung der Walze (von rechts nach links) bei den elektromechanischen Schreibmaschinen zum Standard wurde.
+Die letzten der 1838 bis 1884 vom Italiener Giuseppe Ravizza gebauten Schreibmaschinen hatten schon viele Eigenschaften der späteren lange Zeit dominierenden Typenhebelschreibmaschine: kreisförmiger Typenhebelkorb, Papierzylinder mit teilweise beim Schreiben sichtbarer Schrift, Typenführung, Wagenrückzug, Einfärbung der Typen durch ein zwischen zwei Spulen laufendes Farbband, Umschalter zwischen Klein- und Großbuchstaben und Tastenanordnung nach Häufigkeit der Verwendung.
+Die in einer Kugelkalotte geführten etwa 50 Typenstäbe wurden einzeln gegen Federkraft nach unten zum gemeinsamen Druckpunkt in Kugelmitte gedrückt (ähnlich wie früher bei Pierre Foucauld).
+Die Maschine wurde nach den Patenten der Wagners entwickelt und von der "Wagner Typewriter Company", die von Underwood übernommen wurde, hergestellt und verkauft.
+In der Zeit von etwa 1890 bis 1920 gab es verschiedene Versuche für pneumatische Schreibmaschinen, mit denen der beim Maschinenschreiben nötige Kraftaufwand durch Pressluft verringert werden sollte.
+1962 begann IBM mit dem Verkauf der ersten Schreibmaschine mit Kugelkopf, der IBM 72, und brachte damit eine Maschine mit einem weitestgehend neuen Konstruktionsprinzip heraus.
+Als das IBM-Patent für das Kugelkopf-Prinzip ausgelaufen war und andere Hersteller (wie zum Beispiel Triumph-Adler mit der SE-1000) ebenfalls Kugelkopfschreibmaschinen auf den Markt bringen konnten, war dieser für Kugelkopfmaschinen jedoch nicht mehr sehr empfänglich.
+Da das Schreibwerk mit Typen weiter benutzt wurde, war das mit dieser Schreibmaschinen-Kombination erzeugte Schriftbild besser als das der damals üblichen Matrixdrucker der bereits existierenden elektronischen Datenverarbeitung.
+Vorbild für den kompakten Typenträger war die Typenwalze in der Blickensderfer Electric von 1903 (der Hersteller bezeichnete diese Walz als Typenrad).
+Die Bauart Typenhebelschreibmaschine wurde im Wesentlichen durch die Erfindung des Wagnergetriebes (Patent von 1893 für Franz Xaver Wagner) als Typenhebel-Mechanismus und seine erstmalige Anwendung in einer Schreibmaschine des Herstellers John T. Underwood geprägt.
+Dadurch wird der Kraftaufwand zum Anschlagen der Tasten verringert, und der Aufschlag der Typenhebel erfolgt mit vorgegebener gleichmäßiger Kraft, was zu einem nahezu gleichmäßigen Schriftbild führt.
+Die Weiterentwicklung der elektrisch angetriebenen Typenhebelschreibmaschine führte zur elektrisch angetriebenen Schreibmaschine mit Kugelkopf als kompakten Typenträger.
+Der Kugelkopf wurde aus dem erstmals 1893 von Blickensderfer verwendeten kurzen Typenzylinder (damals Typenrad genannt) für eine 1961 vorgestellte Schreibmaschine von IBM (Selectric typewriter) entwickelt.
+Wegen der relativen kleinen Masse des Kugelkopfes konnten in dieser Schreibmaschine auch erstmals die Typen anstatt der Schreibwalze in Zeilenrichtung bewegt werden.
+Auch Fettschrift war bei einigen Modellen möglich, wobei die angeschlagene Type, mechanisch gesteuert, etwas versetzt zweimal auf das Papier schlug.
+Bei den letzten Modellen kam eine Anzeige hinzu, in der man eine Textzeile zunächst schreiben und auch korrigieren konnte, bevor die Maschine diese Zeile auf das Papier brachte.
+Die konstanten Zeitabstände zwischen Impuls und Schreibposition der Typen sind elektronisch gespeichert, so dass der Stift im richtigen Moment auf den Stab mit der ausgewählten Type schlagen kann.
+In den späten 1990er-Jahren bot auch Brother in der LW-Reihe Modelle mit Tintenstrahl- anstelle des Typenraddruckwerks an, zuerst nur mit schwarzer Tinte, später auch mit Farbtinte.
+Diese Konstruktion ermöglicht es der Maschine, verschiedene Aktionen parallel auszuführen.
+Bei Modellen mit einer Anzeige (Display) war es möglich, eine ganze Textzeile zu schreiben und gegebenenfalls zu korrigieren, bevor sie nach Betätigung der Zeilenschaltung gedruckt wurde.
+B. VS-Serie von Triumph Adler) war sogar die Darstellung von Proportionalschrift auf dem Bildschirm möglich, was lange ein nicht unwesentlicher Vorteil gegenüber den aufkommenden Textprogrammen für Personal Computer unter DOS war.
+Diese hatten den Rechner und das Diskettenlaufwerk bereits in der Maschine integriert, es wurde lediglich ein Bildschirm an der Schreibmaschine angeschlossen (z.
+B. Triumph Adler BSM-200 und BSM-300) mit einer angeschlossenen Schreibmaschine, welche auch in der Lage waren, Programme anderer Hersteller unter DOS oder den ersten Versionen von Windows auszuführen.

@@ -1,0 +1,25 @@
+Nach langer Unklarheit über den Ursprung der Zentrifugalkraft wurde 1746 von Daniel Bernoulli erkannt, dass sie keine ursprüngliche, der Natur innewohnende Gegebenheit ist, sondern von der Wahl des zur Beschreibung genutzten Bezugssystems abhängt.
+Beschreibt der Schwerpunkt eines Körpers mit der Masse m {\displaystyle m} in einem Inertialsystem eine gekrümmte Bahn, so ist dafür eine Kraft erforderlich, die eine zur Bahnkurve senkrechte Komponente besitzt.
+Gemäß dem zweiten newtonschen Gesetz bewirkt sie eine zu ihr proportionale Zentripetalbeschleunigung a = Zp {\displaystyle {\vec {a}}_{\text{Zp}}} , die zum (momentanen) Krümmungsmittelpunkt der Bahn gerichtet ist:
+In dieser Sichtweise, die einer gängigen Vorstellung entspricht, übt die Feder eine Zentripetalkraft auf den Ball aus, sodass dieser auf eine Kreisbahn gezwungen wird, und umgekehrt zieht auch der Ball an der Feder.
+Da aber von außen betrachtet außer der Federkraft keine weitere äußere Kraft vorhanden ist, entspricht dieses Bild der d'Alembertschen Sicht des dynamischen Gleichgewichts zwischen äußerer Kraft und Trägheitskraft.
+Ihre Stärke kann mithilfe der Masse m {\displaystyle m} , des Radius r {\displaystyle r} des Kreises und der Bahngeschwindigkeit v {\displaystyle v} nach derselben Formel berechnet werden wie die Zentripetalkraft.
+Dabei ist der Krümmungsradius r {\displaystyle r} der Radius des Kreises, der sich am jeweiligen Ort des Körpers an seine Bahn anschmiegt.
+Scheinkräfte müssen immer dann berücksichtigt werden, wenn man eine Bewegungsgleichung in einem Bezugssystem aufstellt, das selbst gegenüber dem Inertialsystem beschleunigt wird.
+Im rotierenden Bezugssystem der Schleifscheibe wird die Relativbeschleunigung der Teilchen dagegen mit einer Scheinkraft erklärt.
+Das zweite newtonsche Gesetz gilt in seiner ursprünglichen Form nur im Inertialsystem.
+Das Produkt aus Masse m {\displaystyle m} und Relativbeschleunigung a = ' {\displaystyle {\vec {a}}{\;' }} entspricht der Summe der in diesem Bezugssystem wirkenden Kräfte.
+Der Term - m  = x (  = x r = ' ) {\displaystyle -m\,{\vec {\omega }}\times ({\vec {\omega }}\times {\vec {r}}{\;'})} ist die Zentrifugalkraft, die berücksichtigt werden muss, wenn der Impulssatz im beschleunigten Bezugssystem angewandt wird.
+Die Zentrifugalkraft ist auf einer Achse, die durch den Ursprung des Bezugssystems geht und in Richtung der Winkelgeschwindigkeit zeigt null, selbst wenn der Ursprung des Bezugssystems eine Kreisbewegung ausführt.
+Zunächst wird der Spezialfall betrachtet, dass der Körper im rotierenden Bezugssystem ruht und  = {\displaystyle {\vec {\omega } }} konstant bleibt.
+In diesem Bezugssystem kompensieren sich die nach außen gerichtete Fliehkraft F = Zf {\displaystyle {\vec {F}}_{\text{Zf} }} und die nach innen gerichtete Zentripetalkraft F = Zp {\displaystyle { \vec {F}}_{\text{Zp} }} .
+Die Zentrifugalkraft hängt bei dieser Definition von der Wahl des Bezugssystems ab, aber unabhängig davon ob eine äußere Kraft vorhanden ist oder nicht.
+Die direkte physikalische Bedeutung (nach Multiplikation mit der Masse) ist die (negativ gezählte) kinetische Energie des im rotierenden Bezugssystem ruhenden Körpers, die dieser aufgrund seiner Umlaufgeschwindigkeit v = =  = x r = {\displaystyle {\vec {v}}={\vec {\omega }}\times {\vec {r}}} hat:
+Mit diesem Zentrifugalpotential kann man im rotierenden Bezugssystem genau so rechnen wie mit den üblichen potentiellen Energien im Inertialsystem, die zu den durch Wechselwirkungen verursachten Kraftfeldern (z.
+Im Unterschied zu diesen ist das Feld der Zentrifugalkraft nicht auf einen anderen Körper bezogen, der die Quelle dieses Feldes wäre.
+Zur Berechnung muss man berücksichtigen, dass die Winkelgeschwindigkeit sich bei der Annäherung erhöht, denn der Drehimpuls L =  m r 2 {\displaystyle L=\omega mr^{2 } } bleibt konstant (Formel vereinfacht für Koordinatenursprung in der Bewegungsebene).
+Bei einem mit Wasser gefüllten zylinderförmigen Gefäß, das um seine senkrechte Achse rotiert, nimmt die Wasseroberfläche eine gekrümmte Form an, wobei der Wasserstand außen höher ist als in der Mitte.
+Bezeichnet g {\displaystyle g} die Erdbeschleunigung, r {\displaystyle r} den Abstand von der Rotationsachse ( 0  r  R {\displaystyle 0\leq r\leq R} ) und a {\displaystyle \alpha } den Winkel der Wasseroberfläche gegenüber der Waagrechten, so gilt:
+Für künftige Raumstationen unterschiedlicher Größe hat man geplant, die Zentrifugalkraft als Ersatz für die Schwerkraft zu verwenden, weil längere Schwerelosigkeit der Gesundheit des Menschen schaden kann.
+Die Bahnkurve eines frei fallenden Gegenstands hat im rotierenden Bezugssystem der Raumstation die Form einer Kreisevolvente und ist von der Rotationsgeschwindigkeit der Raumstation unabhängig.
+Jedoch hängt der Größenmaßstab der Kreisevolvente vom Radius der anfänglichen Kreisbahn ab, d. h. von der anfänglichen Entfernung des Gegenstandes von der Rotationsachse.

@@ -1,0 +1,25 @@
+Von Nutzern unerwünschte Applikationen können nicht in jedem Fall von ihm entfernt werden, solche Rechte legt der Hersteller der mobilen Endgeräte fest.
+Für Android wurden vorwiegend bereits bestehende Komponenten unter Open-Source-Lizenzen neu zusammengestellt, darunter der Linux-Kernel, Java und die C-Standard-Bibliothek Bionic sowie einige Bibliotheken und Daemons des GNU-Projekts.
+Bei neueren Geräten (Stand: 2015) bestehen diese aus "zurück" (geht zur vorherigen Aktivität oder Seite), "Home" (öffnet den Startbildschirm) und "Letzte Applikationen" (erlaubt das schnelle Schließen oder Hin- und Herschalten zwischen gleichzeitig laufenden Apps).
+Seit Android 7 wird durch das lange Drücken des Knopfes "Letzte Applikationen" der Bildschirm geteilt und es lassen sich zwei Apps gleichzeitig benutzen.
+Frühe Android-Telefone waren häufig mit einer dedizierten Suchtaste zum schnellen Zugriff auf einer voreingestellten Suchmaschine oder dem Suchfeld innerhalb einer Anwendung ausgestattet; neuere Geräte ermöglichen Ersteres in der Regel durch den langen Druck der Heimtaste.
+Um die Schnelleinstellungen ("Quick Settings") zu öffnen, gibt es drei Möglichkeiten: Bei geschlossener Leiste einfach durch eine Geste mit zwei Fingern von oben nach unten sowie im geöffneten Modus (ab Version 5.0) entweder durch einen weiteren Wisch nach unten oder durch Tippen auf die obere Statusleiste (außer dem Datum).
+Überprüft wird unter anderem, ob der Bootloader entsperrt ist, ob das Gerät gerootet ist und ob Google-Dienste installiert sind; das führt dazu, dass Apps wie z.
+Android selbst ist freie Software, bekannt unter dem Namen Android Open Source Project (AOSP).
+Der größte Teil der Plattform steht unter der Apache-Lizenz - Ausnahmen sind der Linux-Kernel, der unter der GPL 2 vertrieben wird.
+Die Google Play Dienste sowie von den meisten Herstellern vorinstallierten Anwendungen von Google sind keine freie Software, da deren Quelltext nicht verfügbar ist.
+Da der Tablet-Markt immer stärker wuchs und Google "Honeycomb" erst recht spät veröffentlichte, brachten einige Hersteller Tablets auf den Markt, die entgegen Googles Empfehlungen unter "Gingerbread" liefen.
+Mit Android Lollipop 5.0 wurde unter anderem ein Energiesparmodus integriert, der unter anderem Hintergrundprozesse anhält, die Taktrate des Prozessors verringert und so den Stromverbrauch reduziert.
+In Googles App Store "Google Play" (ehemals "Android Market") gab es im Mai 2015 mehr als 1,5 Mio. Apps.
+Nur lizenzierte Android-Distributionen dürfen die Google-eigenen Anwendungen (Closed Source) wie Google Mail oder Google Maps verwenden sowie auf Google Play für weitere Applikationen zugreifen.
+Verschiedene Tablets verwenden ein unlizenziertes Android 4; "gerootete" Geräte verwenden oft ein Custom-ROM.
+Diese haben nach dem Flashen der entsprechenden GApps ebenfalls die Berechtigung für den Zugriff auf den Google Play sowie die anderen GApps der Google Mobile Services (GMS).
+Ab Android 5.0 "Lollipop" wurde Schreibzugriff ausschließlich durch die von Google entwickelte, nicht abwärtskompatibele Programmierschnittstelle "Storage Access Framework" erneut ermöglicht.
+Der konventionelle Zugriff auf den geteilten internen Benutzerspeicher wird ähnlich wie bei Apple iOS gesperrt; es verbleibt lediglich der Zugriff durch die eigene Programmierschnittstelle "Storage Access Framework" von Google erhalten.
+Diese Maßnahmen der Isolation dienen laut Google der Privatsphäre des Benutzers, allerdings standen bereits seit Android 1.0 jeweilige private Datenverzeichnisse innerhalb von "/data/" zur Verfügung.
+Die Festlegung, ob eine bestimmte Anwendung entfernt werden darf, legt der Hersteller der mobilen Endgeräte selbst oder in Absprachen mit den Entwicklerfirmen der Anwendung fest (siehe auch Abschnitt zur Kritik/ Kontrolle durch Google, Übermittlung privater Daten).
+Android hatte als Smartphone-Betriebssystem im dritten Quartal 2016 einen weltweiten Marktanteil von 87,5 Prozent, nach 84,6 Prozent im zweiten Quartal 2014, 79,3 Prozent im zweiten Quartal 2013, 68,1 Prozent im zweiten Quartal 2012, 52,5 Prozent im dritten Quartal 2011 und 25,5 Prozent im dritten Quartal 2010.
+Viele Hersteller, insbesondere in China, verwenden eine unlizenzierte Android-Version, die keine Google-Dienste wie Google Maps, den Google Play Store und Gmail enthält.
+Dafür zeigt Android eine Liste aller Rechte an, die eine App anfordert, oder alternativ eine Übersicht aller Apps, die ein bestimmtes Recht anfordern.
+Auf der Entwicklerkonferenz Google I/O im Mai 2011 betonte Google, viele Hersteller würden bei jedem neuen Gerät mindestens 18 Monate lang die aktuellsten Android-Version bereitstellen.
+Im Zuge der Stagefright-Sicherheitslücke gab Google im August 2015 bekannt, dass Nexus-Geräte künftig monatlich Sicherheitsupdates für drei Jahre nach Erscheinen des Geräts erhalten, unabhängig von Updates der Android-Plattform, die für etwa zwei Jahre verteilt werden sollen.

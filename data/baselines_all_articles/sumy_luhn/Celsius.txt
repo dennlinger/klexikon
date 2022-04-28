@@ -1,0 +1,25 @@
+Das Grad Celsius ist eine Maßeinheit der Temperatur, die nach Anders Celsius benannt wurde.
+Die Celsius-Temperatur t {\displaystyle t} ist über die Absolute Temperatur (thermodynamische Temperatur) T {\displaystyle T} mit der Einheit Kelvin (K) wie folgt definiert: { t }  C = { T } K - 273 , 15 {\displaystyle \left\{t\right\}_{\mathrm {^{\circ }C} }=\left\{T\right\}_{\mathrm {K} }-273{,}15} .
+Das heißt, die Zahlenwerte bei Verwendung der Celsius- bzw. Kelvin-Skala unterscheiden sich um den konstanten Wert 273,15.
+Zum Beispiel bezeichnen 293,15 K und 20 °C dieselbe Temperatur, und der absolute Nullpunkt bei 0 K entspricht -273,15 °C.
+Die Verwendung des großen T ist falsch, da T der absoluten Temperatur in Kelvin vorbehalten ist.
+Als Fixpunkte nutzte er, wie die 1730 vorgestellte Reaumur-Skala, die Temperaturen von Gefrier- und Siedepunkt des Wassers bei Normaldruck, das heißt einem Luftdruck von 1013,25 Hektopascal oder 760 Millimeter Quecksilbersäule.
+Der Bereich zwischen diesen Fixpunkten, gemessen mit einem Quecksilberthermometer, ist in 100 gleich lange Abschnitte eingeteilt, die als Grad bezeichnet sind.
+Anders als bei der modernen Celsius-Skala ordnete Celsius jedoch dem Siedepunkt von Wasser den Wert 0 °C und dem Gefrierpunkt den Wert 100 °C zu.
+Die moderne Celsius-Skala, bei der dem Siedepunkt von Wasser der Wert 100 °C und dem Gefrierpunkt der Wert 0 °C zugeordnet wird, wurde durch Carl von Linne, einen Freund Celsius', kurz nach dessen Tod im Jahr 1744 eingeführt.
+200 Jahre nach der Einführung der Skala, wurde zu Ehren Celsius' der Skalenabstand bei einem Celsius-Thermometer von einem Zentigrad bzw. Zentesimalgrad durch die 9. internationale Generalkonferenz für Maß und Gewicht offiziell in die Temperatureinheit Grad Celsius umbenannt.
+1954 wurden die Kelvin-Skala und, darauf basierend, die heute gültige Definition des Grad Celsius eingeführt.
+Gefrier- und Siedepunkt des Wassers verloren damit ihre Rolle als Fixpunkte der Celsius-Skala.
+Der Zahlenwert steht davor, wie bei Maßeinheiten üblich getrennt durch ein Leerzeichen.
+Nach Regeln der Organe der internationalen Meterkonvention darf das Grad Celsius auch zusammen mit SI-Vorsätzen benutzt werden.
+Diese Regelung wurde jedoch nicht in die nationale deutsche Norm des Deutschen Instituts für Normung (DIN 1301-1, DIN 1345) übernommen und ist daher nach deutschem Einheitenrecht nicht zulässig.
+Die Temperaturdifferenz  t {\displaystyle \Delta t} ist der Unterschied in der Temperatur von zwei Messpunkten, die sich in der Zeit oder der räumlichen Position unterscheiden.
+Da die Kelvin- und die Celsius-Skala um einen festen Wert gegeneinander verschoben sind, stimmen die Zahlenwerte von Temperaturdifferenzen bei der Verwendung der Einheiten Kelvin und Grad Celsius überein: {  t }  C = {  T } K {\displaystyle \left\{\Delta t\right\}_{\mathrm {{}^{\circ }C} }=\left\{\Delta T\right\}_{\mathrm {K} }}
+Als Einheit für Temperaturdifferenzen wird von der DIN in Anpassung an das Internationale Einheitensystem (SI) mit der Norm DIN 1345 (Ausgabe Dezember 1993) das Kelvin empfohlen.
+Generalkonferenz für Maß und Gewicht (1967-1968) darf die Differenz zweier Celsius-Temperaturen auch in der Einheit Grad Celsius (°C) angegeben werden."
+Beispiel: Die Differenz zwischen der Temperatur t b = 20  C {\displaystyle t_{b}=20\,\mathrm {{}^{\circ }C} } (entspricht T b = 293 , 15 K {\displaystyle T_{b}=293{,}15\,\mathrm {K } } ) und der Temperatur t a = 10  C {\displaystyle t_{a}=10\,\mathrm {{}^{\circ }C} } ( T a = 283 , 15 K {\displaystyle T_{a}=283{,}15\,\mathrm {K} } ) beträgt  t = t b - t a = 10 K {\displaystyle \Delta t=t_{b}-t_{a}=10\,\mathrm {K} } .
+Dies darf auch als  t = 10  C {\displaystyle \Delta t=10\,\mathrm {{}^{\circ }C} } geschrieben werden, aber natürlich ist diese Differenz nicht mit 283 , 15 K {\displaystyle 283{,}15\,\mathrm {K} } gleichzusetzen.
+Das Gleiche gilt für Vielfache: Es wäre falsch, t = 60 °C (T = 333,15 K) verglichen mit t = 30 °C (T = 303,15 K) als "doppelt so warm" zu bezeichnen; richtig hingegen ist eine solche Aussage für die absolute Temperatur, z.
+"600 K ist doppelt so warm wie 300 K".
+Temperaturen in Grad Celsius lassen sich über eine Zahlenwertgleichung wie folgt exakt umrechnen:
+Allein der absolute Nullpunkt hat weiterhin exakt die angegebenen Werte.

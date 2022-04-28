@@ -1,0 +1,25 @@
+Mojang veröffentlichte zusätzliche Versionen für iOS, Android und den Raspberry Pi.
+Außerdem kann der Spieler diese Welt erkunden, Ressourcen sammeln, gegen Monster kämpfen und die Blöcke zu anderen Gegenständen weiterverarbeiten.
+Der Spieler kann Rohstoffe abbauen ("Mine"), diese zu anderen Gegenständen weiterverarbeiten ("Craft") und gegen Monster kämpfen.
+Sie wird prozedural generiert und ist, in der Java-Edition, praktisch unendlich groß (allerdings ab Version 1.7.9 auf einen Rahmen von 60 Millionen Blöcken Breite begrenzt, um Problemen durch die Fließkommaberechnung vorzubeugen; man kann die Welt aber trotzdem als unendlich ansehen).
+So können Spieler eigene Welten und Spielmodi kreieren, in denen beispielsweise nur gegen andere Spieler gekämpft werden kann.
+Im Unterschied zu selbst gehosteten Minecraft-Servern bieten die Realms-Server nur einen eingeschränkten Funktionsumfang, so können höchstens elf Spieler gleichzeitig auf einem Realms-Server spielen.
+Die Konsolen-Edition wie beispielsweise Xbox 360, PS3, PS Vita und Wii U wurden ebenfalls in der Programmiersprache C++ entwickelt.
+Dadurch wird das plattformübergreifende Spielen (Crossplay) zwischen den verschiedenen Plattformen im Rahmen des Better Together-Updates wie beispielsweise PC, Smartphone und Spielkonsole ermöglicht.
+Am 20. September 2017 wurde mit dem auf der E3 angekündigten Better Together Update die Pocket Edition zur Bedrock Edition, die auch die auf der Pocket Edition aufbauenden aber bislang eigenständig benannten Editionen für Windows 10 und verschiedene VR-Endgeräte umfasst und zudem auch auf der Xbox One verfügbar ist.
+Inzwischen gab einer der Entwickler der Pocket Edition bekannt, dass die Pi Edition nach langer Zeit ohne Aktualisierungen nicht mehr weiterentwickelt werde.
+Mit dem Erscheinen des Better Together Updates am 20. September 2017 wurde aus der Pocket Edition die offiziell nur Minecraft genannte Bedrock Edition.
+Gründe für die Umbenennung waren unter anderem, dass die Edition im Zuge dieses Updates nun auch auf der Xbox One verfügbar ist und die auf dieser Edition aufbauenden aber bislang eigenständig benannten Editionen für Windows 10 und verschiedene VR-Endgeräte im Zuge dieses Updates zusammengefasst wurden.
+Benutzer von Windows 10, die bereits vor dem 19. Oktober 2018 Besitzer der Java-Edition waren, können Minecraft: Windows 10-Edition kostenlos über den Microsoft Store beziehen.
+Diese Version basiert auf der Xbox 360 Edition, bietet jedoch größere Welten und erweiterte Multiplayer-Features.
+Am 20. September 2017 wurde die Entwicklung dieser Edition zugunsten der im Rahmen des Better Together Updates auch auf der Xbox One verfügbaren Bedrock Edition eingestellt.
+Dort wurden auch die Versionen für die PlayStation 4 und PlayStation Vita angekündigt, am 4. September 2014 erschien die PlayStation 4 Edition und am 15. Oktober 2014 die PlayStation Vita Edition.
+Mit Version 1.83 wurde am 19. März 2019 die Weiterentwicklung der Minecraft: PS3 Edition und der Minecraft: PS Vita Edition eingestellt.
+Minecraft wurde am 17. Dezember 2015 für die Wii U im Nintendo eShop veröffentlicht und bietet bereits einige Herunterladbare Inhalte.
+Minecraft erschien zusammen mit dem Super Mario Mash-Up Pack am 12. Mai 2017 für die Nintendo Switch im Nintendo eShop.
+Besitzer der Minecraft: Nintendo Switch Edition können sich die Bedrock-Edition kostenlos über den Nintendo eShop beziehen.
+In der finalen Version 1.4 fügte Mojang spezielle Inhalte für diese Welten hinzu.
+Jedoch sind diese nicht kostenlos und können über den Nintendo eShop, den Microsoft Store oder über den PlayStation Store gekauft werden.
+Ebenfalls 2011 bekam Minecraft bei den Game Developers Choice Awards die Preise für das beste Debut Game, Best Downloadable Game und den Innovations Preis.
+Mit allen Versionen zusammen wurde Minecraft insgesamt mehr als 200 Millionen Mal erworben und gehört damit zu den beliebtesten und meistverkauften Computerspielen überhaupt.
+Inzwischen gibt es noch zwei weitere Sets: Micro World: The Village und Micro World: The Nether.

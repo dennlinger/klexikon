@@ -1,0 +1,25 @@
+Ein Viereck (auch Tetragon, Quadrangel oder Quadrilateral) ist eine Figur der ebenen Geometrie, nämlich ein Vieleck mit vier Ecken und vier Seiten.
+Liegen beide Diagonalen innerhalb des Vierecks, so ist das Viereck konvex, liegt genau eine Diagonale außerhalb, so hat das Viereck eine konkave Ecke.
+Bei einem überschlagenen Viereck liegen beide Diagonalen außerhalb des Vierecks, zum Beispiel beim verschränkten Trapez.
+Gleiches gilt für entartete Vierecke, bei denen zwei oder mehr Eckpunkte zusammenfallen oder mehr als zwei Eckpunkte auf einer Geraden liegen.
+Die Summe der Innenwinkel im Viereck beträgt 360°, weil sich jedes Viereck in zwei Dreiecke zerlegen lässt.
+Sind je zwei einander gegenüberliegende Seiten parallel, spricht man vom Parallelogramm.
+Ein Viereck, welches vier gleich große Innenwinkel von 90°, also rechte Winkel, hat, ist ein Rechteck.
+Ein Rechteck, das vier gleich lange Seiten hat, ist ein Quadrat.
+Bei vier gleich langen Seiten spricht man von einer Raute (Rhombus).
+Die Quadrate sind eine Teilmenge der Rechtecke, die Rechtecke sind eine Teilmenge der Parallelogramme usw.
+Ein Beispiel nicht unabhängiger Größen sind die vier Innenwinkel, weil sich der vierte Innenwinkel aus den drei anderen und der Innenwinkelsumme von 360° berechnen lässt.
+B. vier Seiten und ein Innenwinkel, da die dem gegebenen Winkel gegenüberliegende Ecke konvex oder konkav sein kann.
+Für ein konvexes Viereck mit den Seitenlängen a {\displaystyle a} , b {\displaystyle b} , c {\displaystyle c} , d {\displaystyle d} , den Diagonalen e {\displaystyle e} , f {\displaystyle f} und dem Flächeninhalt A {\displaystyle A } gelten folgende Ungleichungen:
+Aus der Formel von Bretschneider folgt mit s = a + b + c + d 2 {\displaystyle s={\frac {a+b+c+d}{2} }} die Ungleichung
+Im Allgemeinen muss man unterscheiden zwischen dem Eckenschwerpunkt (alle Masse sitzt in den Ecken, jede Ecke hat die gleiche Masse) und dem Flächenschwerpunkt (die Masse ist gleichmäßig über die Fläche des Vierecks verteilt).
+Beim Dreieck stimmen diese beiden Schwerpunkte überein.
+Daneben gibt es noch den Kantenschwerpunkt (die Masse ist gleichmäßig auf die Kanten verteilt, die Masse jeder Kante ist proportional zu ihrer Länge).
+Den Flächenschwerpunkt eines Vierecks kann man wie folgt konstruieren: Man zerlegt das Viereck durch eine Diagonale in zwei Dreiecke und bestimmt jeweils deren Schwerpunkt als Schnittpunkt der Seitenhalbierenden.
+Der Schnittpunkt der beiden Verbindungsgeraden ist der Schwerpunkt des Vierecks.
+Also muss der Schwerpunkt auf dieser Geraden liegen.
+Den Eckenschwerpunkt erhält man, indem man die Mittelpunkte gegenüberliegender Seiten verbindet.
+Ist ein kartesisches Koordinatensystem gegeben, so kann man die Koordinaten des Eckenschwerpunkts S ( x S | y S ) {\displaystyle S(x_{S}|y_{S})} aus den Koordinaten der Ecken A ( x A | y A ) , B ( x B | y B ) , C ( x C | y C ) , D ( x D | y D ) {\displaystyle A(x_{A}|y_{A}),B(x_{B}|y_{B}),C(x_{C}|y_{C}),D(x_{D}|y_{D})} berechnen:
+Abschließend wird eine Halbgerade ab S 1 {\displaystyle S_{1} } parallel zur Diagonale B D  {\displaystyle {\overline {BD} }} und eine Halbgerade ab S 2 {\displaystyle S_{2 } } parallel zur Diagonale A C  {\displaystyle {\overline {AC}}} gezogen.
+Somit ist der Schnittpunkt der beiden Halbgeraden der Flächenschwerpunkt S {\displaystyle S} des Vierecks.
+Dies bedeutet, die gepunkteten Linien, der Punkt H {\displaystyle H} und die Schwerpunkte S 3 {\displaystyle S_{3 } } und S 4 { \displaystyle S_{4 } } sind für die alternative Vorgehensweise nicht erforderlich.

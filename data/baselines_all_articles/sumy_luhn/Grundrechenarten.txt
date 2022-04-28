@@ -1,0 +1,25 @@
+Die Grundrechenarten (auch Grundrechnungsarten oder schlicht Rechenarten genannt) sind die vier mathematischen Operationen Addition, Subtraktion, Multiplikation und Division.
+Von den vier Grundrechenarten werden in der Arithmetik die Addition und die Multiplikation als Grundoperationen und die Subtraktion und die Division als abgeleitete Operationen angesehen.
+In der Algebra werden diese Konzepte dann abstrahiert, um sie auf andere mathematische Objekte übertragen zu können.
+Die Addition großer Zahlen kann per Hand mit Hilfe der schriftlichen Addition durchgeführt werden.
+Der Operator für die Subtraktion ist das Minuszeichen -, die beiden Operanden werden Minuend und Subtrahend genannt, der Term Differenz und das Ergebnis heißt Differenzwert / Wert der Differenz.
+Das Ergebnis der Subtraktion zweier natürlicher Zahlen ist jedoch nur dann wieder eine natürliche Zahl, wenn der Minuend größer als der Subtrahend ist.
+Sind Minuend und Subtrahend gleich, erhält man als Ergebnis die Zahl Null, die oft auch zu den natürlichen Zahlen gezählt wird.
+Ist der Subtrahend größer als der Minuend, erhält man als Ergebnis eine negative Zahl.
+Die Subtraktion großer Zahlen kann per Hand mit Hilfe der schriftlichen Subtraktion durchgeführt werden.
+Der Operator für die Multiplikation ist das Malzeichen * (oder x), die Operanden werden Multiplikator und Multiplikand genannt, der Term Produkt und das Ergebnis heißt Produktwert / Wert des Produkts:
+Bedarf es keiner Unterscheidung von Multiplikator und Multiplikand, bezeichnet man beide oft zusammenfassend als Faktoren.
+Sind die Faktoren natürliche oder ganze Zahlen, so ist das Ergebnis der Multiplikation ebenfalls wieder eine natürliche oder ganze Zahl.
+Die Multiplikation großer Zahlen kann per Hand mit Hilfe der schriftlichen Multiplikation durchgeführt werden.
+Der Operator für die Division ist das Geteiltzeichen : (oder /), die beiden Operanden werden Dividend und Divisor genannt, der Term Quotient und das Ergebnis heißt Quotientenwert / Wert des Quotienten:
+Das Ergebnis einer Division zweier natürlicher oder ganzer Zahlen ist jedoch nur dann wieder eine natürliche oder ganze Zahl, wenn der Dividend ein Vielfaches des Divisors ist.
+Die Division großer Zahlen kann per Hand mit Hilfe der schriftlichen Division durchgeführt werden.
+Im Folgenden sind a {\displaystyle a} , b {\displaystyle b} und c {\displaystyle c} Zahlen aus dem zugrundeliegenden Zahlbereich.
+Weiterhin verhält sich die Zahl 0 {\displaystyle 0 } neutral bezüglich der Addition und die Zahl 1 {\displaystyle 1} neutral bezüglich der Multiplikation, das heißt
+wobei a {\displaystyle a} und b {\displaystyle b} gegebene Zahlen aus dem zugrundeliegenden Zahlbereich sind und die Zahl x {\displaystyle x} gesucht ist.
+Um diese Gleichungen zu lösen, wird eine Umkehroperation zur Addition benötigt, nämlich die Subtraktion, und ebenso eine Umkehroperation der Multiplikation, nämlich die Division:
+Die Subtraktion einer Zahl a {\displaystyle a} wird nun als Addition mit der Gegenzahl - a {\displaystyle -a} definiert und die Division durch eine Zahl a {\displaystyle a} als Multiplikation mit dem Kehrwert 1 a {\displaystyle {\tfrac {1}{a} }} :
+In der Algebra werden diese zunächst für die Arithmetik geschaffenen Konzepte abstrahiert, um sie auf andere mathematische Objekte übertragen zu können.
+Nach dem Permanenzprinzip gelten dabei alle Rechenregeln einer grundlegenden Struktur (hier eines einfachen Zahlbereichs mit den Grundoperationen) auch in einer entsprechend spezielleren Struktur (hier einem erweiterten Zahlbereich mit den gleichen Operationen).
+Die Multiplikation und die Division waren jedoch keine eigenständigen arithmetischen Operationen.
+Die Numeratio behandelte das Zählen, Lesen und Schreiben der Zahlen, als Progressio wurde die Summation aufeinanderfolgender natürlicher Zahlen bezeichnet und die Extractio umfasste lediglich das Ziehen von Quadratwurzeln.

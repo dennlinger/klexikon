@@ -1,0 +1,25 @@
+Die Bezeichnung Radioaktivität wurde 1898 erstmals vom Ehepaar Marie Curie und Pierre Curie für das zwei Jahre vorher von Antoine Henri Becquerel entdeckte Phänomen geprägt.
+Fachsprachlich wird darüber hinaus auch die spontane Umwandlung des einzelnen Atomkerns - und manchmal überhaupt jede spontane Zustandsänderung eines quantenmechanisch beschriebenen Systems - als Zerfall bezeichnet, z.
+In Berichten über kerntechnische Zwischenfälle wird oft von ausgetretener Strahlung gesprochen, obwohl es dann meist um unbeabsichtigt freigesetzte radioaktive Stoffe wie Caesium-137 und Iod-131 geht.
+Alle Elemente bis zum Blei, außer Technetium und Promethium, haben ein oder mehrere stabile Isotope; die Anzahl stabiler Isotope geht bis zu zehn (Zinn).
+Alle anderen Nuklide "benötigen" zur Stabilität mindestens ebenso viele (6Li, 10B, 12C, 14N, 16O, 20Ne, 24Mg, 28Si, 32S, 36Ar und 40Ca), meistens aber sogar mehr Neutronen als Protonen.
+Das durchschnittliche Verhältnis von Neutronenzahl zu Protonenzahl wächst mit zunehmender Ordnungszahl von 1:1 für sehr leichte Nuklide zu 1,54:1 für die schwersten stabilen Nuklide (siehe auch Neutronenüberschuss).
+Die tatsächliche Zahl von Zerfällen, die man in einem bestimmten Zeitintervall T beobachtet, schwankt zufällig um den Erwartungswert NT = A*T; die Häufigkeit, mit der dabei eine bestimmte Anzahl k auftritt, folgt einer Poisson-Verteilung.
+Da die Natur dieser Vorgänge zur Zeit ihrer Entdeckung unbekannt war, bezeichnete man die drei Strahlenarten in der Reihenfolge zunehmenden Durchdringungsvermögens mit den ersten drei (Klein-)Buchstaben des griechischen Alphabets: a,  und .
+In der vom Elektroneneinfang betroffenen Schale wird ein Platz frei und Elektronen aus den äußeren Schalen rücken nach, wobei charakteristische Röntgenstrahlung emittiert wird.
+Da derartige Zerfälle zwei schwache Wechselwirkungen gleichzeitig benötigen, haben sie extrem lange Halbwertszeiten.
+Da derartige Zerfälle zwei schwache Wechselwirkungen gleichzeitig benötigen, haben sie extrem lange Halbwertszeiten.
+Ob beim doppelten Beta-Zerfall stets zwei Neutrinos emittiert werden oder ob auch ein neutrinoloser doppelter Beta-Zerfall vorkommt, ist bisher (2016) nicht beantwortet.
+Durch Emission hochenergetischer elektromagnetischer Strahlung (-Strahlung) gibt der Atomkern Energie ab und geht in einen Zustand niedrigerer Energie über.
+Bei den praktischen Anwendungen von 60Co und vielen anderen Radionukliden geht es sehr oft nur um diese Gammastrahlung; die Alpha- oder Betastrahlung wird in diesen Fällen durch das Gehäuse des radioaktiven Präparates abgeschirmt und nur die Gammastrahlung dringt nach außen.
+Noch seltener treten quaternäre Kernspaltungen auf, in denen zwei weitere leichte Teilchen (auch hier meist 4He) entstehen.
+Atomkerne mit sehr hohem Protonenüberschuss können ein Proton abgeben, Atomkerne mit hohem Neutronenüberschuss können Neutronen abgeben.
+Da manche Kerne auf verschiedene Weisen zerfallen können (siehe Zerfallskanal), können von einem Mutterkern mehrere Zweige der gleichen Zerfallsreihe ausgehen (die sich auch wieder treffen können).
+Hauptsächlich gibt ionisierende Strahlung Energie durch Stöße mit den Atomen des Abschirmmaterials ab, dabei werden Atome ionisiert oder angeregt, wodurch wiederum Sekundärelektronen und Röntgenstrahlung innerhalb des Abschirmmaterials entstehen.
+Weitere Radionuklide entstehen indirekt als ständig nachproduzierte Zerfallsprodukte der radioaktiven Zerfallsreihen dieser primordiale Nuklide, wie das überall aus dem Erdboden austretende Gas Radon.
+Große Mengen an radioaktiven Substanzen wurden (neben den Atomtests bis 1963) durch Unfälle kerntechnischer Anlagen frei.
+Soweit überhaupt radioaktive Stoffe genutzt werden, sind dies kurzlebige Nuklide in geringen Mengen, wie z.
+Als Aktivität bezeichnet man die Anzahl der Zerfallsereignisse pro Zeiteinheit, die in einer Probe eines radioaktiven oder radioaktiv kontaminierten Stoffes auftritt.
+Radioaktive Sonden haben den großen Vorteil, dass nur sehr kleine Stoffmengen benötigt werden und sie meist nur in Spuren eingesetzt werden.
+In der Strahlentherapie wurden früher häufig Radionuklide in Form von umschlossenen Gammastrahlern verwendet, bei denen keine radioaktive Substanz entweichen und vom Körper aufgenommen werden kann.
+Da das bisher verwendete Strahlenwarnzeichen (Trefoil-Symbol: ) oft nicht als Warnung vor starken radioaktiven Strahlern erkannt wurde und Menschen ein stark strahlendes Nuklid aus seiner Abschirmung entnahmen (zum Beispiel der Goiania-Unfall), kam es vor allem in Entwicklungsländern schon zu tödlichen Unfällen.

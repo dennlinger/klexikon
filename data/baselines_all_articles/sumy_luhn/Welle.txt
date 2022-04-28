@@ -1,0 +1,25 @@
+Eine Welle ist eine sich räumlich ausbreitende periodische (Schwingung) oder einmalige (Störung) Veränderung des Gleichgewichtszustands eines Systems bezüglich mindestens einer orts- und zeitabhängigen physikalischen Größe.
+Unterschieden werden mechanische Wellen, die stets an ein Medium gebunden sind, und Wellen, die sich auch im Vakuum ausbreiten können (beispielsweise elektromagnetische Wellen, Materiewellen oder Gravitationswellen).
+In Medien wird die Ausbreitung einer örtlichen Störung durch die Kopplung benachbarter Oszillatoren (schwingfähige physikalische Größen) vermittelt.
+Eine Welle transportiert Energie, jedoch keine Materie, d. h. die benachbarten Oszillatoren transportieren die Störung durch den Raum, ohne sich selbst im zeitlichen Mittel fortzubewegen.
+Wellen werden in mehrere Kategorien unterteilt: die "klassischen" Longitudinal- und Transversalwellen (von denen auch Mischformen wie Torsionswellen auftreten können) sowie Materiewellen (nach der Theorie von Louis de Broglie hat ein sich bewegendes Teilchen auch eine Wellenlänge, die bei entsprechendem Versuchsaufbau auch nachgewiesen werden kann) und Wahrscheinlichkeitswellen, die im Rahmen der Quantenphysik die Zustände von physikalischen Systemen beschreiben.
+Mechanische Longitudinalwellen können sich in jedem Medium, ob fest, flüssig oder gasförmig ausbreiten, wogegen sich mechanische, reine Transversalwellen nur in Festkörpern ausbreiten können.
+Wellen, die parallel zur Ausbreitungsrichtung schwingen, werden als Longitudinal- oder Längswelle bezeichnet.
+Die einzelnen Teilchen im Ausbreitungsmedium, Atome oder Moleküle, schwingen hierbei in Richtung der Ausbreitung um den Betrag der Amplitude hin und her.
+Longitudinalwellen haben im gleichen festen Medium eine höhere Geschwindigkeit als Transversalwellen des gleichen Typs bei ansonsten gleichen Parametern.
+Beispiele sind elektromagnetische Wellen, Gravitationswellen, Biegewellen und Plasmawellen.
+Zur mathematischen Beschreibung von Wellen sind mehrere Größen nötig.
+Mathematisch spricht man von einer Welle, wenn die Wellenfunktion A ( r , t ) {\displaystyle \mathbf {A} (\mathbf {r} ,t)} , also die die Welle mathematisch beschreibende Gleichung, eine Lösung einer Wellengleichung ist.
+Diese Funktionen hängen im Allgemeinen von Ort r {\displaystyle \mathbf {r} } und Zeit t {\displaystyle t\,} ab .
+Dabei gibt A {\displaystyle \mathbf {A} } die Auslenkung am Ort r {\displaystyle \mathbf {r} } zur Zeit t {\displaystyle t\,} an .
+Funktionen dieses Typs entsprechen der Vorstellung, dass Wellen räumlich ausgedehnte Schwingungen sind.
+Häufig werden daher sehr einfache Lösungen der Wellengleichung herangezogen und die reale Welle als eine Überlagerung von vielen dieser Lösungen angesehen.
+Die Amplitude A 0 {\displaystyle \mathbf {A} _{0}} ist die maximale mögliche Auslenkung der Welle.
+Ist die Ausbreitungsrichtung parallel zur Amplitude, handelt es sich um eine Longitudinalwelle, ist sie senkrecht, um eine Transversalwelle.
+Im Beispiel einer ebenen Welle ist  = k * r -  t {\displaystyle \varphi =\mathbf {k} \cdot \mathbf {r} -\omega t} die Phase zum Zeitpunkt t {\displaystyle t\, } am Ort r {\displaystyle \mathbf {r} } .
+Periodische mechanische und elektromagnetische Wellen können durch periodische Schwingungen erzeugt werden.
+Ein einfaches Beispiel ist ein schwingendes Pendel: An einem solchen Pendel befindet sich zum Beispiel ein Stift, unter dem ein Blatt Papier mit konstanter Geschwindigkeit hergezogen wird.
+Als Schwingungsgenerator kann ein sogenannter Schwingkreis verwendet werden, bei dem der elektrische Strom zwischen einer Spule und einem Kondensator hin und her fließt.
+Die elektromagnetische Gesamtenergie wird im Schwingkreis periodisch von elektrischer Energie (vermittelt durch das elektrische Feld im Kondensator) in magnetische Energie (vermittelt durch das magnetische Feld der Spule) umgewandelt.
+In der Natur vorkommende Wellen sind in den seltensten Fällen reine monochromatische Wellen, sondern eine Überlagerung aus vielen Wellen unterschiedlicher Wellenlängen.
+Die Überlagerung erfolgt dabei durch das Superpositionsprinzip, was mathematisch bedeutet, dass alle Wellenfunktionen der einzelnen Wellen addiert werden.

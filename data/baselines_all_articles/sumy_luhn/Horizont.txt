@@ -1,0 +1,25 @@
+Bei dem natürlichen Horizont hängt der Verlauf dieser Grenzlinie von Standort und Höhe des Beobachters sowie den örtlichen Gegebenheiten der umgebenden Landschaft ab, über dem Meer wird diese Linie auch Kimm genannt.
+Vom Horizont abhängige Beobachtungen, etwa des Sonnenaufgangs, lassen sich bei verschiedenen Standorten leichter vergleichen, wenn sie auf einen vereinfacht gedachten Horizont bezogen werden (Bezugshorizont).
+Der Ausdruck Gesichtskreis wurde im 17. Jahrhundert von Philipp von Zesen im Sinne einer Verdeutschung anstelle von Horizont eingeführt, wird heute aber nur noch selten mit dieser Bedeutung verwendet.
+Das Wort Horizont ist ein Lehnwort aus dem Lateinischen, das lateinische Wort horizon wiederum ist entlehnt aus dem Altgriechischen.
+Es geht zurück auf iv horizon mit der Bedeutung "Grenzlinie" - als Verkürzung des Ausdrucks iv uo horizon kyklos "begrenzender Kreis" oder "des Begrenzenden Kreis" - gebildet zu iv horizein "begrenzen", einer Ableitung von o horos "Grenze".
+Genauer betrachtet sind einige Bedeutungen zu unterscheiden, die sich alle durch unterschiedliche Sichtweiten und scheinbare Entfernungen zum Horizont unterscheiden:
+Die Horizontebene ist die Ebene des geometrischen Horizonts.
+Die Kimm ist die auf offenem Meer sichtbare Grenzlinie zwischen Wasser und Himmel.
+Wegen der Erdkrümmung - der mittlere Erdradius beträgt 6371 km, der Krümmungsradius der Erde liegt zwischen minimal 6334 km und 6400 km maximal - erscheint die Kimm umso tiefer unter dem mathematischen Horizont, je höher sich der Beobachter über dem Meeresspiegel befindet.
+Daher müssen die Höhenwinkel um die Kimmtiefe  {\displaystyle \kappa } verkleinert werden.
+(Kimmtiefe  {\displaystyle \kappa } in Bogenminuten; Höhe h {\displaystyle h } des Beobachters in Metern).
+Nach der DIN 13312 ("Navigation; Begriffe, Abkürzungen ...") soll für die Kimmtiefe in der Seefahrt die Abkürzung "Kt", im Englischen die Abkürzung "D" (von dip of horizon), in der Luftfahrt die Abkürzung "Dip" verwendet werden; als Formelzeichen wird für die Seefahrt k empfohlen.
+Die Distanz d {\displaystyle d} des Horizonts von einem Punkt mit der Höhe h {\displaystyle h } über der Erdoberfläche lässt sich geometrisch mit der Formel
+d = 2 r h + h 2 = ( 2 r + h ) * h = 2 r + h * h {\displaystyle d={\sqrt {2rh+h^{2}}}={\sqrt {(2r+h)\cdot h}}={\sqrt {2r+h}}\cdot {\sqrt {h} } }
+berechnen, wobei r {\displaystyle r} der Krümmungsradius der Erde ist.
+Wird für r {\displaystyle r} der Wert 6 400 000 m {\displaystyle 6\,400\,000\,\mathrm {m} } eingesetzt, was etwa dem maximal möglichen Wert in Metern entspricht, ergibt sich für eine Beobachtungshöhe h {\displaystyle h } von 400 m:
+d ( m ) = 12 800 000 * 400 + 160 000 = 12 800 400 * 400  3 577 , 76.. * 20  71 555 m , {\displaystyle d\ (m)={\sqrt {12\,800\,000\ \cdot 400+160\,000}}={\sqrt {12\,800\,400}}\cdot {\sqrt {400}}\approx 3\,577,76 ..\cdot 20\approx 71\,555\ \mathrm {m} ,} rund 71 , 6 k m .
+Für Höhen h {\displaystyle h} , die sehr viel kleiner als der Erdradius r {\displaystyle r} sind ( h  r ) {\displaystyle (h\ll r)} , kann der Term h 2 {\displaystyle h^{2}} gegenüber 2 r h {\displaystyle 2rh} vernachlässigt werden; damit erhält man vereinfacht die folgende Näherungsformel
+d  2 r h = 2 r * h {\displaystyle d\approx {\sqrt {2rh}}={\sqrt {2r}}\cdot {\sqrt {h} } }
+Setzt man hier den mittleren Erdradius (6,371 Mm) für r {\displaystyle r} ein, so erhält man die Horizontdistanz in Kilometern, bei Angabe der Höhe h {\displaystyle h } in Metern, mit der Faustformel: d ( k m )  3 , 57 * h .
+Damit ergibt sich zum Beispiel für eine Beobachtungshöhe h {\displaystyle h } von 400 m: d ( k m )  3 , 57 * 400 = 3 , 57 * 20 = 71 , 4 k m .
+Die geometrisch berechnete Distanz zum nautischen Horizont entspricht wegen der Lichtbrechung in der Erdatmosphäre aber nicht der Entfernung zum optischen Horizont.
+Im Mittel liegt der scheinbare Erdradius bei circa 7680 km, der gesehene Horizont um rund ein Zehntel weiter entfernt als der geometrisch berechnete.
+Die Entfernung s o p t {\displaystyle s_{\mathrm {opt} } } zum optischen Horizont lässt sich so abschätzen mit der Formel: s o p t ( k m )  3 , 92 * h {\displaystyle s_{\mathrm {opt} }\ (km)\approx 3{,}92\cdot {\sqrt {h} }} , im Beispiel  3 , 92 * 20 = 78 , 4 k m .
+Der Horizont im mathematischen Sinn ist ein Großkreis, der die Sphäre oder Himmelskugel in zwei gleiche Hälften teilt und dessen Pol der Zenit ist.
