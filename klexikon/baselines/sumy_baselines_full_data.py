@@ -5,11 +5,9 @@ Similar to lexrank summaries, we use the mean target number of sentences (25) as
 import os
 
 from tqdm import tqdm
-from sumy.summarizers import luhn, lsa, sum_basic
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.nlp.stemmers import Stemmer
-from sumy.utils import get_stop_words
 
 from .sumy_baselines_on_splits import get_summarizer, sumy_clean_lines
 
@@ -23,7 +21,7 @@ if __name__ == '__main__':
     # for method in ["sumbasic"]:  # Current bug in sumy!!
     for method in ["luhn", "lsa", "sumbasic"]:
         # Summarizer stays same for both test and validation
-        summarizer = get_summarizer(method, stemmer)
+        summarizer = get_summarizer(method, stemmer, lang)
 
         # Set appropriate folders based on combinations
         source_dir = f"./data/raw/wiki"

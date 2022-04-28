@@ -28,7 +28,7 @@ def sumy_clean_lines(lines):
     return "".join(new_lines)
 
 
-def get_summarizer(model, stem):
+def get_summarizer(model, stem, language):
     if model == "luhn":
         summ = luhn.LuhnSummarizer(stem)
     elif model == "lsa":
@@ -36,7 +36,7 @@ def get_summarizer(model, stem):
     else:
         summ = sum_basic.SumBasicSummarizer(stem)
 
-    summ.stop_words = get_stop_words(lang)
+    summ.stop_words = get_stop_words(language)
     return summ
 
 
@@ -49,7 +49,7 @@ if __name__ == '__main__':
     # for method in ["sumbasic"]:  # Current bug in sumy!!
     for method in ["luhn", "lsa", "sumbasic"]:
         # Summarizer stays same for both test and validation
-        summarizer = get_summarizer(method, stemmer)
+        summarizer = get_summarizer(method, stemmer, lang)
 
         for partition in ["validation", "test"]:
             # Set appropriate folders based on combinations
