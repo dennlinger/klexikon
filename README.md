@@ -126,13 +126,18 @@ Open TODOs:
 * Adding a proper data managing script for the Huggingface Datasets version of this dataset.
 
 # How to Cite?
-If you use our dataset, or code from this repository, please cite
+If you use our dataset, or code from this repository, please cite our LREC'22 paper:
 ```bibtex
-@article{aumiller-gertz-2022-klexikon,  
-  title   = {{Klexikon: A German Dataset for Joint Summarization and Simplification}},  
-  author  = {Aumiller, Dennis and Gertz, Michael},  
-  year    = {2022},  
-  journal = {arXiv preprint arXiv:2201.07198},  
-  url     = {https://arxiv.org/abs/2201.07198},  
+@inproceedings{aumiller-gertz-2022-klexikon,
+    title = "Klexikon: A {G}erman Dataset for Joint Summarization and Simplification",
+    author = "Aumiller, Dennis  and
+      Gertz, Michael",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.288",
+    pages = "2693--2701"
 }
 ```
