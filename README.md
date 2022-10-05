@@ -3,7 +3,8 @@
 Heidelberg University  
 
 *Accepted at LREC 2022*  
-A preprint version of the paper can be found on [arXiv](https://arxiv.org/abs/2201.07198)!  
+The published version of this work is available [through the ACL Anthology](https://aclanthology.org/2022.lrec-1.288/)!  
+We also have a public upload of the conference presentation available on [YouTube](https://www.youtube.com/watch?v=DRhxsnegAvI)
 For easy access, we have also made the dataset available on [Huggingface Datasets](https://huggingface.co/datasets/dennlinger/klexikon)!
 
 -------------------------------------------------------------------------------------------
